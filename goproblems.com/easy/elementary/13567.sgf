@@ -1,0 +1,18 @@
+(;GE[elementary]DI[15k]DP[64]SO[remembered]CO[0]AB[qp]AB[pq]AB[nq]AB[nr]AB[os]AW[mr]AW[mq]AW[np]AW[pp]AW[op]AW[qo]AW[po]AW[ns]SZ[19]AB[qq]C[simple^^ W to kill B marked stone. easy for beginner.^^ another position are empty.]MA[nq]MA[nr]MA[os]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;W[oq]
+(;B[ms]C[]
+(;W[or]
+(;B[ns]
+(;W[ls];B[ps];W[pr]C[RIGHT])
+(;W[ps];B[ls];W[lr]C[RIGHT]))
+(;B[pr]
+(;W[ls]C[RIGHT])
+(;W[ns];B[nr]))))
+(;B[or]C[CHOICE];W[pr];B[ms]
+(;W[ps]C[RIGHT])
+(;W[qr];B[rr];W[rq];B[rp];W[sr];B[sq];W[rs]C[RIGHT])))
+(;W[or];B[oq]
+(;W[pr];B[qr];W[ps];B[qs])
+(;W[ps];B[pr];W[os];B[qs];W[ms];B[rr])
+(;W[ms];B[pr]))
+(;W[ps];B[ms]))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[3k]DP[26]SO[polo]CO[7]AW[cb][bb][bc][bd][be][cf][df][ef][fg][gg][hf][he][hd][hc][hb][dc][ec]AB[cc][cd][ce][de][ee][ff][ge][fd][gd][fc][gc][db][eb]SZ[19]C[White to kill]
+
+(;W[da]
+(;B[fa]C[CHOICE]
+(;W[gb];B[fb];W[gf]C[RIGHT])
+(;W[gf];B[gb])
+(;W[ga];B[gf]))
+(;B[ed]C[CHOICE]
+(;W[gf];B[fa];W[gb]C[RIGHT])
+(;W[gb];B[gf])
+(;W[fa];B[gf])
+(;W[fb];B[dd]
+(;W[gf];B[gb];W[fa];B[ga];W[ea];B[ca])
+(;W[gb];B[gf]))
+(;W[ea];B[dd]
+(;W[gf];B[fa];W[gb]C[RIGHT])
+(;W[gb];B[gf])
+(;W[fa];B[gf])
+(;W[ga];B[gf]))))
+(;W[gf];B[gb]
+(;W[da];B[fa])
+(;W[ga];B[fa]))
+(;W[ga];B[gf])
+(;W[fa];B[gf])
+(;W[ea];B[fb];W[gf];B[da];W[fa];B[ga])
+(;W[gb];B[gf])
+(;W[fb];B[gb];W[fa];B[ga]))

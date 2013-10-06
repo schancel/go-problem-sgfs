@@ -1,0 +1,27 @@
+(;GE[life and death]DI[7k]DP[42]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ro][qp][qq][rq][pr][qr][rr]AB[rn][po][qo][pp][rp][sp][oq][or][rs]PL[W]
+(;W[sq]CR[sq]
+;B[so]CR[so]
+(;W[ss]CR[ss]
+;B[sr]CR[sr]
+(;W[qs]CR[qs]C[RIGHT
+alive])
+(;W[ps]CR[ps]
+;B[ss]CR[ss]))
+(;W[qs]CR[qs]
+;B[ss]CR[ss])
+(;W[ps]CR[ps]
+;B[ss]CR[ss]))
+(;W[ss]CR[ss]
+;B[sq]CR[sq])
+(;W[qs]CR[qs]
+;B[ss]CR[ss])
+(;W[ps]CR[ps]
+;B[ss]CR[ss])
+(;W[so]CR[so]
+;B[sn]CR[sn])
+(;W[pq]CR[pq]
+;B[so]CR[so])
+(;W[sn]CR[sn]
+;B[so]CR[so]C[this exchange doesn't help white, though you can still live]))

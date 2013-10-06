@@ -1,0 +1,96 @@
+(;GE[life and death]DI[2d]DP[13]SO[Hans]CO[6]
+C[Black to play. 
+]
+AW[ln][mn][nn][on][io][jo][ko][po][ip][mp][qp][rp][sp][gq][iq][kq][lq][mq][pq][jr][mr][or]
+AB[lo][mo][no][jp][kp][lp][np][jq][nq][rq][sq][nr][qr][rs]
+(;B[ns]
+(;W[os];B[kr];W[lr]
+(;B[ls];W[ks];B[ms];W[kr];B[ir]C[CHOICE RIGHT
+])
+
+(;B[ms];W[ks]
+(;B[ls];W[kr];B[ir]C[CHOICE RIGHT
+])
+
+(;B[ir];W[ls];B[hr];W[gr]
+(;B[js];W[is];B[hs];W[hq]C[Only ko.
+])
+
+(;B[hs];W[hq];B[js];W[is]C[Only ko.
+])
+)
+)
+
+(;B[ks];W[js]
+(;B[ir];W[ls];B[hr];W[gr])
+
+(;B[ms];W[ls])
+)
+
+(;B[ir];W[ks]
+(;B[ms];W[ls];B[hr];W[gr]
+(;B[js];W[is];B[hs];W[hq]C[Only ko.
+])
+
+(;B[hs];W[hq];B[js];W[is]C[Only ko.
+])
+)
+
+(;B[is];W[hr])
+)
+)
+
+(;W[kr]
+(;B[pr];W[oq];B[os];W[ps];B[sr]C[CHOICE RIGHT
+])
+
+(;B[os];W[pr];B[ps];W[sr]C[Black dies.
+])
+)
+)
+
+(;B[kr];W[ns]LB[jr:A]
+C[Even if black captures the stone at A he is dead.
+])
+
+(;B[os];W[pr]
+(;B[ps];W[sr])
+
+(;B[ns];W[kr];B[ps];W[sr])
+)
+
+(;B[ir];W[kr]C[Black achieves nothing.
+])
+
+(;B[ls];W[kr]
+(;B[pr];W[oq];B[os];W[ps];B[ns];W[sr])
+
+(;B[os];W[pr];B[ps];W[sr])
+)
+
+(;B[ms];W[kr]
+(;B[os];W[pr];B[ps];W[sr])
+
+(;B[pr];W[oq];B[os];W[ps]
+(;B[sr];W[ns]C[Only ko.
+])
+
+(;B[ns];W[sr])
+)
+)
+
+(;B[pr];W[ns]
+(;B[oq];W[os]
+(;B[ms];W[ls];B[ps];W[ms]C[2 against 3 liberties.
+])
+
+(;B[ps];W[ms])
+)
+
+(;B[kr];W[oq])
+
+(;B[ls];W[ms];B[oq];W[os]C[It's 2 against 3 liberties.
+])
+)
+
+)

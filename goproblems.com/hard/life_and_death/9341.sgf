@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4d]DP[7]SO[trucid]CO[6]SZ[19]AW[ca]AW[la]AW[ab]AW[bb]AW[db]AW[jb]AW[mb]AW[ac]AW[cc]AW[dc]AW[ec]AW[fc]AW[gc]AW[jc]AW[kc]AW[mc]AW[qc]AW[hd]AW[jd]AW[md]AW[pd]AW[be]AW[ie]AW[je]AW[me]AW[cf]AW[mf]AW[pf]AW[cg]AW[eg]AW[fg]AW[hg]AW[mg]AW[ch]AW[gh]AW[ih]AW[jh]AW[kh]AW[lh]AW[ci]AW[fi]AW[bj]AW[fj]AW[gj]AW[hj]AW[ij]AW[ck]AB[ia]AB[ja]AB[hb]AB[ib]AB[kb]AB[lb]AB[lc]AB[bd]AB[id]AB[kd]AB[ld]AB[ce]AB[de]AB[ee]AB[fe]AB[ge]AB[ke]AB[bf]AB[gf]AB[if]AB[jf]AB[kf]AB[bg]AB[ig]AB[hh]AB[gi]AB[hi]AB[ii]AB[ji]AB[ki]AB[li]AB[jj]AB[lj]AB[nj]AB[kk]AB[mk]AB[ll]C[White to play.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PL[W]
+(;W[gg];B[he]
+(;W[hf];B[hc]
+(;W[gd];B[gb]
+(;W[ga];B[fb]
+(;W[fa];B[ea]
+(;W[eb];B[ha]
+(;W[fa];B[bh]
+(;W[ah];B[ad]
+(;W[cd];B[ae]
+(;W[ag];B[ai]
+(;W[bi];B[af]
+(;W[ah];B[ic];W[jc]
+(;B[jd];W[ie]C[RIGHT])
+(;B[ie];W[jd]C[RIGHT]))
+(;W[ic];B[id];W[jc];B[ie]TR[ah]TR[jd]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[bi]TR[jd]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[ag]TR[jd]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[jd]TR[ag]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[ah]TR[jd]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[jd]TR[fa]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[jd]TR[eb]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[jd]TR[fa]C[Miai for life.]))
+(;W[ic];B[id];W[jc];B[ie]TR[jd]TR[ga]C[Miai for life.]))
+(;W[ic];B[gd]C[Black lives.]))
+(;W[ic];B[hc]
+(;W[hf];B[gd]C[Black lives.])
+(;W[gd];B[id]TR[ie]TR[jc]C[Black lives.]))
+(;W[hc];B[ic]TR[ie]TR[jc]C[Black lives.]))
+(;W[he];B[gg]
+(;W[fh];B[hf])
+(;W[hf];B[fh]TR[ig]TR[if]TR[jf]TR[kf]TR[ke]TR[kd]TR[ld]TR[lc]TR[ja]TR[ia]TR[ib]TR[hb]TR[id]C[You only captured part of it.]TR[lb]TR[kb]))
+(;W[hf];B[gg]
+(;W[fh];B[he])
+(;W[he];B[fh]TR[ig]TR[if]TR[jf]TR[kf]TR[ke]TR[kd]TR[ld]TR[lc]TR[lb]TR[kb]TR[ja]TR[ia]TR[ib]TR[hb]TR[id]C[You only captured part of it.]))
+(;W[ic];B[gg]C[Black connects out.]))

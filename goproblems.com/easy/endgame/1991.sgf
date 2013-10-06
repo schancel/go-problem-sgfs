@@ -1,0 +1,44 @@
+(;GE[endgame]DI[5k]DP[33]SO[ferdi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+AW[eb][fb][dc][dd][fd][df]AB[cb][db][cc][cd][ce][cf][ff]C[No komi, no prisoners - White to play and win!]PL[W]
+(;W[ef]CR[ef]
+;B[de]CR[de]
+;W[ee]CR[ee]
+;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]
+;W[da]CR[da]
+;B[ca]CR[ca]
+;W[ea]CR[ea]C[White wins by one point! RIGHT])
+(;W[de]CR[de]
+;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]
+;W[ef]CR[ef]
+;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[da]CR[da]C[This is only a jigo....])
+(;W[da]CR[da]
+;B[de]CR[de]
+(;W[ee]CR[ee]
+;B[ef]CR[ef])
+(;W[ef]CR[ef]
+;B[ee]CR[ee]))
+(;W[cg]CR[cg]
+;B[de]CR[de])
+(;W[dg]CR[dg]
+;B[de]CR[de]
+(;W[ee]CR[ee]
+;B[ef]CR[ef])
+(;W[ef]CR[ef]
+;B[ee]CR[ee]))
+(;W[ee]CR[ee]
+;B[ef]CR[ef]
+(;W[dg]CR[dg]
+;B[de]CR[de])
+(;W[de]CR[de]
+;B[dg]CR[dg]))
+(;W[eg]CR[eg]
+;B[de]CR[de]
+;W[ee]CR[ee]
+;B[ef]CR[ef]))

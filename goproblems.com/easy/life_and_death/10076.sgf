@@ -1,0 +1,20 @@
+(;GE[life and death]DI[10k]DP[51]SO[StTwin]CO[4]AB[da]AB[cb]AB[dc]AB[dd]AB[ed]AB[ce]AB[fe]AB[ge]AB[gd]AB[gc]AB[he]AB[ie]AB[id]AB[ib]AB[ic]AB[kc]AB[kd]AB[ld]AB[md]AB[nc]AB[nb]AB[oc]AB[oa]AB[pa]AB[pb]AB[qa]AB[pd]AB[qd]AB[pe]AB[oe]AB[of]AB[nf]AB[og]AB[re]AB[qf]AB[qh]AB[lf]AB[kf]AB[oq]AB[pq]AB[np]AB[mp]AB[lq]AB[cq]AB[bp]AB[ao]AB[co]AB[cn]AB[dn]AB[en]AW[db]AW[eb]AW[ec]AW[fc]AW[fd]AW[fa]AW[gb]AW[hb]AW[ha]AW[hc]AW[hd]AW[ci]AW[cm]AW[dm]AW[do]AW[dp]AW[cp]AW[dq]AW[bq]AW[hq]AW[nq]AW[no]AW[op]AW[pp]AW[qp]AW[qm]AW[qj]AW[oi]AW[ng]AW[mg]AW[lh]AW[mf]AW[me]AW[le]AW[ne]AW[nd]AW[od]AW[lc]AW[mc]AW[mb]AW[ma]AW[pc]AW[qc]AW[qb]AW[rb]AW[ra]AW[rd]AW[sd]AW[sg]C[White just played A. He is trying to kill marked stones. Show him his mistake]TR[nb]TR[nc]TR[oc]TR[pb]TR[pa]TR[oa]TR[qa]LB[ma:A]AP[goproblems]
+(;B[lb];W[kb]
+(;B[la];W[ka]C[White survived.])
+(;B[ka]
+(;W[la]C[];B[ja]
+(;W[ia]C[];B[jb]C[White is dead.RIGHT])
+(;W[jb]C[];B[ia]C[White is dead.RIGHT]))
+(;W[jb]C[]
+(;B[ja];W[la];B[ia]C[White is dead.RIGHT])
+(;B[ia];W[la];B[ja]C[White is dead.RIGHT])))
+(;B[jb];W[la]C[White survived.])
+(;B[ja];W[ka];B[jb];W[la]C[Gote seki for white. Could be better...]))
+(;B[la];W[kb]C[]
+(;B[ka];W[jb];B[ja];W[ia];B[jc];W[lb]C[White connects and lives.])
+(;B[jb]C[];W[lb]
+(;B[ja];W[ka]C[Gote seki for white. Could be better...])
+(;B[ka];W[ja]
+(;B[ka];W[ia];B[ca];W[ea]C[White connects and lives.])
+(;B[la];W[ia]C[White connects and lives.])
+(;B[ia];W[ka]C[White gets gote seki.])))))

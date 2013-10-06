@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[41]SO[1234boys]CO[0]AB[ar]AB[br]AB[cr]AB[cq]AB[dq]AB[ep]AB[fp]AB[fo]AB[gn]AB[gm]AB[ho]AB[gq]AB[gr]AW[dr]AW[eq]AW[fq]AW[fr]AW[fs]AW[cp]AW[bq]AW[aq]AW[ap]AW[bo]AW[dp]AW[eo]AW[dn]AW[fn]AW[fm]AW[fl]LB[es:a]LB[ds:b]LB[gs:c]LB[cs:d]AP[goproblems]
+(;B[es]LB[ds:a]LB[cs:b]
+(;W[ds]LB[gs:a]LB[cs:b]
+(;B[gs]LB[er:a];W[er]LB[cs:a];B[cs]C[Well done! Black won the capturing race!RIGHT])
+(;B[cs]LB[er:a];W[er]LB[gs:a];B[gs]C[Well done! Black won the capturing race!RIGHT]))
+(;W[cs]LB[gs:a];B[gs]LB[er:a]LB[ds:b]
+(;W[er]LB[ds:a];B[ds]C[Well done! Black won the capturing race!RIGHT])
+(;W[ds]LB[er:a];B[er]C[Well done! Black captures the cutting stones!RIGHT])))
+(;B[ds]LB[es:a];W[es]LB[cs:A]LB[bs:B]C[Now black has to fight a ko here. If black just conntects at A, white will atari at B and it's still a ko.])
+(;B[gs]LB[es:a];W[es]LB[cs:a]LB[bs:b]LB[ds:c]
+(;B[cs]LB[bs:a];W[bs]LB[gp:A]C[This is a seki, andblack has to worry about the weekness at A now.])
+(;B[bs]LB[ds:a];W[ds]LB[gp:A]C[This is a seki, and black has to worry aout the weekness at A now.])
+(;B[ds]LB[cs:a];W[cs]C[Black doesn't gave enough liberties to make a ko, so black dies.]))
+(;B[cs]LB[es:a];W[es]LB[ds:a];B[ds]LB[bs:a];W[bs]C[Now black has fight a ko.]))

@@ -1,0 +1,24 @@
+(;GE[life and death]DI[5k]DP[32]SO[unkx80]CO[9]AB[bq]AB[br]AW[ap]AW[bp]AW[cp]AW[cq]AW[cr]AW[dr]AW[er]AW[es]AB[fs]AB[fr]AB[fq]AB[eq]AB[dq]AB[dp]AB[do]AB[co]AB[bo]AB[ao]C[Black to play.]AP[goproblems]
+(;B[bs]
+(;W[aq]
+(;B[ar]C[White dies.RIGHT])
+(;B[cs];W[ar]C[Seki.
+])
+(;B[ds];W[cs]C[White lives.])
+(;B[as];W[cs]C[White lives.]))
+(;W[cs];B[aq]C[White dies.RIGHT])
+(;W[ar];B[aq]C[White dies.RIGHT]))
+(;B[cs];W[bs]
+(;B[as];W[aq]C[Seki.])
+(;B[ar];W[ds]C[Seki.])
+(;B[aq];W[ar]C[White lives.]))
+(;B[ar];W[bs]
+(;B[cs];W[ds]C[Seki.])
+(;B[as];W[aq]C[White lives.]))
+(;B[aq];W[bs]C[White lives.])
+(;B[as];W[aq]
+(;B[cs]C[Seki.])
+(;B[bs];W[cs]C[White lives.])
+(;B[ds];W[cs]C[White lives.]))
+(;B[ds];W[bs]C[White lives.
+]))

@@ -1,0 +1,70 @@
+(;GE[tesuji]DI[3d]DP[11]SO[Field Mouse]CO[0]AB[jr]AB[ir]AB[jq]AB[hq]AB[hp]AW[iq]AW[ip]AW[jp]AW[kp]AW[kr]AB[gp]AW[gq]AW[fq]AW[fp]AW[eq]AW[dq]AW[cq]AB[dr]AB[cr]AB[bq]AB[bs]AB[bp]AW[cp]AW[co]AW[ao]AW[bo]AB[ap]AB[ar]AB[go]AB[fo]AB[eo]AW[do]AW[ho]AW[hn]AW[dn]AB[dl]AW[cm]AW[cl]AW[bk]AW[ak]AW[am]AB[ck]AB[cj]AB[bj]AB[aj]AW[in]AW[jm]AW[kn]AB[fk]AB[ek]AB[hk]AB[ik]AB[ep]AB[dp]C[White to play and do good.]AW[kq]AB[gk]AP[goproblems]
+(;W[hr]
+(;B[gr]C[CHOICE]
+(;W[fr];B[hs];W[gn];B[fs];W[es];B[er]C[Only ko])
+(;W[es];B[hs];W[en];B[er];W[fr];B[fs]C[Only ko])
+(;W[hs];B[gs]
+(;W[fr];B[is];W[fs];B[fm])
+(;W[er];B[is];W[es];B[fm])
+(;W[es];B[is];W[fs];B[fm]))
+(;W[fs];B[fm]
+(;W[hs];B[gm]C[You could do better.])
+(;W[fn];B[en];W[em];B[gn];W[gm];B[hs];W[fl];B[el]C[You could do better.]))
+(;W[gm];B[fm];W[em];B[en];W[fl];B[hs];W[fs];B[gn]C[You could do better.])
+(;W[em];B[hs];W[fs];B[fm];W[gm];B[en];W[fl];B[gn]C[You could do better.])
+(;W[fn];B[hs];W[fs];B[gn];W[gm];B[en];W[em];B[fm];W[fl];B[gl]C[You could do better.])
+(;W[en]
+(;B[hs]C[CHOICE]
+(;W[fs]C[Good, black is captured!RIGHT])
+(;W[er]C[Good you are!RIGHT]))
+(;B[fr]
+(;W[er];B[es];W[hs]C[RIGHT])
+(;W[hs]C[RIGHT])))
+(;W[gn]
+(;B[hs]C[CHOICE]
+(;W[fs]C[Good, black is captured!RIGHT])
+(;W[er]C[Killed!RIGHT]))
+(;B[fr]
+(;W[er];B[es];W[hs]C[RIGHT])
+(;W[hs]C[RIGHT])))
+(;W[fm];B[fs]
+(;W[hs];B[gs];W[es];B[is];W[er]C[Good, black is cut and captured!RIGHT])
+(;W[es];B[er];W[hs]C[:)RIGHT])
+(;W[fr];B[hs];W[es];B[er])))
+(;B[fm]C[If black jumps...];W[fn]
+(;B[en];W[em];B[gn];W[gm]C[RIGHT])
+(;B[gr];W[en];B[fr];W[er];B[es];W[hs]C[RIGHT])))
+(;W[fm];B[hr]
+(;W[gr];B[em];W[en];B[gm]
+(;W[gn];B[fn])
+(;W[fn];B[gn]))
+(;W[fn];B[es]))
+(;W[gm];B[hr];W[gr];B[fm]
+(;W[em];B[fl];W[fn];B[en]TR[dm]TR[gn])
+(;W[fn];B[en];W[em];B[fl]))
+(;W[em];B[hr];W[gr];B[fm];W[gm];B[fl];W[fn];B[gn]
+(;W[en];B[hm])
+(;W[hm];B[en]))
+(;W[gr];B[hr]
+(;W[gm];B[fm];W[fn];B[en];W[em];B[fl]TR[dm]TR[gn])
+(;W[em];B[fm];W[fn];B[en]MA[dm]MA[gn])
+(;W[gn];B[fn];W[fm];B[em]TR[en]TR[gm])
+(;W[en];B[fn];W[fm];B[gm];W[em];B[gn])
+(;W[fm];B[gm];W[gn];B[em];W[en];B[fn])
+(;W[fn];B[fm]
+(;W[gn];B[en])
+(;W[en];B[gn];W[gm];B[hm])))
+(;W[gn];B[hr];W[gr];B[fn];W[fm];B[em])
+(;W[en];B[hr];W[gr];B[fn];W[fm];B[gm];W[em];B[gn])
+(;W[fn];B[hr];W[gr];B[fm]
+(;W[en];B[gn];W[gm];B[hm])
+(;W[gn];B[en]))
+(;W[fr];B[hr]
+(;W[fm];B[gm];W[gn];B[em];W[en];B[fn])
+(;W[en];B[fm];W[fn];B[gn];W[gm];B[hm]))
+(;W[gs];B[hr]C[No way to capture now. See the navigation])
+(;W[fs];B[hr]C[No way to capture now])
+(;W[hs];B[hr])
+(;W[is];B[hr])
+(;W[er];B[hr])
+(;W[js];B[hr]))

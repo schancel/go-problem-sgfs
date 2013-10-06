@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2k]DP[22]SO[Time_Summoner]CO[6]AB[rb]AB[sb]AB[pc]AB[pb]AB[oc]AB[od]AB[oe]AB[pe]AB[qe]AB[qd]AB[rf]AW[ra]AW[rc]AW[qb]AW[pa]AW[ob]AW[nb]AW[nc]AW[nd]AW[ne]AW[of]AW[og]AW[qg]AW[rg]AW[qf]C[Black to live unconditionally.]SZ[19]AP[MultiGo:3.9.4]
+(;B[rd]
+(;W[sf]
+(;B[qc];W[sd];B[sc];W[se]C[Ko for life...])
+(;B[se];W[re];B[sc];W[sd];B[qc];W[qa]C[Ko for life...])
+(;B[sc];W[re]
+(;B[sd]C[ Alive!RIGHT])
+(;B[qc];W[sd]
+(;B[se];W[sd]C[ Black is alive in double Ko. But you can do betterRIGHT])
+(;B[qa]C[RIGHT]))))
+(;W[qc]
+(;B[se];W[sc]C[ Clearly, two eyes. But black can do better. See variations.RIGHT])
+(;B[sc];W[qa]
+(;B[se]C[ Life!!! See variations.RIGHT])
+(;B[sf]C[ Life!!! See variations.RIGHT]))
+(;B[sf];W[sd];B[se];W[qa];B[sc]C[ Life!!! See variations.RIGHT])
+(;B[re];W[sf];B[sc];W[qa]C[Dead...])
+(;B[sd];W[sf];B[se]C[Ko for life... Not good..])))
+(;B[qc];W[sc]C[Ko for life...])
+(;B[se];W[rd];B[qc];W[re];B[qa]C[Ko for life...])
+(;B[sf];W[rd];B[qc];W[re];B[qa]C[Ko for life...]))

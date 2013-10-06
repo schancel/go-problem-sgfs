@@ -1,0 +1,70 @@
+(;GE[life and death]DI[4d]DP[8]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[oa][qa][qb][rb][oc][pc][qc][pd][oe][of][pg][rg][oh][ph][pi][qi][ri]
+AB[ra][sa][sb][rc][sc][qd][sd][pe][qe][re][pf][qg][qh]
+C[black to live unconditionally
+]
+(;B[rh]
+(;W[sf]
+(;B[sh];W[se]
+(;B[rd];W[qf])
+
+(;B[rf]C[RIGHT
+black loses a few stones but lives unconditionally
+])
+
+(;B[sg]C[RIGHT
+black loses a few stones but lives unconditionally
+])
+)
+
+(;B[rf];W[sh])
+
+(;B[se];W[sh];B[rf];W[qf])
+)
+
+(;W[sh]C[this doesn't work
+];B[sf];W[rf];B[qf]
+(;W[sg];B[si])
+
+(;W[si];B[sg])
+)
+)
+
+(;B[rf];W[sf]
+(;B[rh];W[sh])
+
+(;B[se];W[rh])
+
+(;B[sg];W[sh];B[rh];W[qf])
+)
+
+(;B[sg];W[rh]
+(;B[rf];W[sf])
+
+(;B[sf];W[rf])
+)
+
+(;B[sf];W[rf]
+(;B[rh];W[sg]
+(;B[se];W[sh];B[qf];W[rd])
+
+(;B[sh];W[se]C[ko
+])
+)
+
+(;B[qf];W[rh])
+)
+
+(;B[sh];W[rh]
+(;B[sg];W[rf])
+
+(;B[rf];W[sf])
+)
+
+)

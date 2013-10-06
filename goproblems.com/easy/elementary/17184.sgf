@@ -1,0 +1,11 @@
+(;GE[elementary]DI[30k]DP[85]SO[1234boys]CO[0]SZ[5]AW[de]AW[dd]AW[dc]AW[db]AW[da]AB[ce]AB[cd]AB[cc]AB[cb]AB[ca]AB[be]AB[bd]AB[bc]AB[bb]AB[ba]AB[ab]AB[ac]AB[ad]LB[eb:+]LB[ec:+
+]LB[ed:+]C[If white don't respond what happens after this? ( japanese role )]AP[goproblems]
+(;B[eb]LB[ec:+]LB[ed:+];W[dc]LB[ec:+]LB[ed:+]
+(;B[ec];W[dc]LB[ed:+];B[ed]C[This group is is a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT]LB[de:A]LB[dd:A]LB[dc:A]LB[db:A]LB[da:A]LB[ed:A]LB[ec:A]LB[eb:A]MA[ea]MA[ee])
+(;B[ed];W[dc]LB[ec:+];B[ec]LB[da:A]LB[db:A]LB[dc:A]LB[dd:A]LB[de:A]LB[ed:A]LB[ec:A]LB[eb:A]MA[ea]MA[ee]C[This group is in a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT]))
+(;B[ec];W[dc]LB[eb:+]LB[ed:+]
+(;B[eb];W[dc]LB[ed:+];B[ed]LB[da:A]LB[db:A]LB[dc:A]LB[dd:A]LB[de:A]LB[eb:A]LB[ec:A]LB[ed:A]MA[ea]MA[ee]C[This group is in a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT])
+(;B[ed];W[dc]LB[eb:+];B[eb]LB[da:A]LB[db:A]LB[dc:A]LB[dd:A]LB[de:A]LB[eb:A]LB[ec:A]LB[ed:A]MA[ea]MA[ee]C[This group is in a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT]))
+(;B[ed];W[dc]LB[eb:+]LB[ec:+]
+(;B[ec];W[dc]LB[eb:+];B[eb]LB[da:A]LB[db:A]LB[dc:A]LB[dd:A]LB[de:A]LB[eb:A]LB[ec:A]LB[ed:A]MA[ea]MA[ee]C[This group is in a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT])
+(;B[eb];W[dc]LB[ec:+];B[ec]LB[da:A]LB[db:A]LB[dc:A]LB[dd:A]LB[de:A]LB[eb:A]LB[ec:A]LB[ed:A]MA[ea]MA[ee]C[This group is in a seki with the group marked A. Both groups live together since if either tries to capture, it will be captured itself first.RIGHT])))

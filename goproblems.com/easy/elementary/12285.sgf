@@ -1,0 +1,17 @@
+(;GE[elementary]DI[10k]DP[50]SO[santa c]CO[0]AW[km]AW[jm]AW[kn]AW[il]AW[ik]AW[ij]AW[hl]AW[gl]AB[im]AB[in]AB[jn]AB[gm]AB[fm]AB[fl]AB[gk]AB[fk]AB[hk]AB[hj]AB[ii]AB[ji]AB[ll]AB[jl]AB[mk]AB[nk]AB[ok]AW[ml]AW[mm]AW[mn]C[How does W save his stones?]MA[ik]MA[hl]AB[mi]AP[goproblems]
+(;W[kk]
+(;B[kl]
+(;W[lk];B[jk];W[jj]C[nice! :)RIGHT])
+(;W[kj];B[lk])
+(;W[ki];B[lk])
+(;W[jk];B[lk])
+(;W[lm];B[lk])
+(;W[lj];B[lk]))
+(;B[jk];W[jj];B[kl];W[lk]C[RIGHT])
+(;B[lk];W[kl]C[RIGHT])
+(;B[jj];W[jk]C[RIGHT]))
+(;W[jk];B[kl])
+(;W[kl];B[jk]
+(;W[jj];B[kk];W[kj];B[lk])
+(;W[kk];B[jj]))
+(;W[lk];B[jk]))

@@ -1,0 +1,16 @@
+(;GE[endgame]DI[7k]DP[41]SO[ZeeMan]CO[0]SZ[9]AB[cb]AB[fb]AB[gb]AW[db]AW[eb]AB[dc]AB[ec]AB[gc]AB[hc]AB[hd]AB[id]AW[ed]AW[fd]AW[gd]AB[dd]AB[cd]AB[bd]AW[ad]AB[be]AB[bf]AB[de]AB[ag]AB[ah]AB[bh]AB[bi]AW[bg]AW[cg]AW[cf]AW[ce]AW[df]AW[dg]AW[dh]AW[ef]AW[eg]AW[ee]AW[ff]AW[gf]AW[he]AW[ie]AW[ge]AW[fe]AB[hf]AB[hg]AB[gg]AB[fg]AB[gh]AW[fh]AW[gi]AW[hi]AW[ei]AB[ih]AW[ig]AW[if]AW[di]AB[ch]AB[ci]AW[bc]C[Black passed the stone marked 'A.'  Punish.]LB[bc:A]AW[fc]AP[goproblems]
+(;W[cc]
+(;B[bb]C[]
+(;W[ae];B[ac])
+(;W[af];B[ac];W[ai];B[ae]C[RIGHT])
+(;W[ac];B[ab]))
+(;B[ac];W[af]
+(;B[bb];W[ai])
+(;B[ae];W[bb]
+(;B[ab];W[ca];B[ea];W[da];B[fa];W[ha]
+(;B[ib];W[hb]C[Seki on left and upper right.])
+(;B[hb];W[ib]C[Black is dead everywhere.]))
+(;B[ca];W[ba];B[ab];W[da];B[ca];W[cb];B[fa];W[aa];B[ea];W[ad];B[ac];W[ha];B[ib];W[hb]C[Seki on the left and upper right.]))))
+(;W[bb]
+(;B[ae];W[cc])
+(;B[ba])))

@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[2k]DP[21]SO[whendrik]CO[0]AB[bs]AB[cr]AB[dr]AB[er]AB[fs]AB[fq]AB[fp]AB[ep]AB[cp]AB[co]AB[bo]AB[ao]C[]AW[bp]AW[br]AW[cq]AW[dq]AW[eq]AW[cs]AW[fr]AW[gr]AW[gq]AW[gp]AP[goproblems]
+(;B[bq]C[];W[aq]
+(;B[dp];W[bq]
+(;B[as];W[ar]
+(;B[bs];W[ds];B[es];W[cs]
+(;B[ap];W[gs]
+(;B[as]C[Well done!RIGHT])
+(;B[ds];W[cs]))
+(;B[ds];W[gs]))
+(;B[ap];W[bs]))
+(;B[ap];W[as]C[Black can't approach.])
+(;B[ds];W[as]C[White will start a ko.]))
+(;B[ds];W[as]C[White will start a ko.])
+(;B[ap];W[as]C[White will start a ko.])
+(;B[as];W[ds];B[es];W[cs]
+(;B[dp];W[bq];B[ap];W[ar])
+(;B[ds];W[gs])))
+(;B[ds];W[bq]
+(;B[ap];W[gs]C[White will start a ko.])
+(;B[dp]))
+(;B[dp];W[bq];B[ds];W[gs]C[White will start a ko.])
+(;B[es];W[gs])
+(;B[ap];W[bq];B[ds])
+(;B[ar];W[bq]
+(;B[ds];W[gs]C[White will start a ko.])
+(;B[es];W[gs])
+(;B[aq];W[as]C[White will start a ko.]))
+(;B[aq];W[bq])
+(;B[as];W[ar]))

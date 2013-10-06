@@ -1,0 +1,25 @@
+(;GE[best move]DI[10k]DP[51]SO[xiuma]CO[0]AB[jb]AB[pb]AB[jd]AB[kd]AB[bf]AB[cd]AB[ib]AB[gd]AB[gf]AB[gb]AB[fb]AB[mb]AB[nb]AB[ob]AB[fe]AB[fd]AB[fc]AB[be]AB[bc]AB[hf]AB[if]AB[oc]AB[kf]AB[jf]AB[cb]AB[ic]AB[le]AB[jc]AB[me]AB[cc]AB[ne]AB[nd]AB[pc]AB[pd]AW[ff]AW[db]AW[dc]AW[dd]AW[ge]AW[hb]AW[hd]AW[hc]AW[gc]AW[cf]AW[kc]AW[lc]AW[ld]AW[mc]AW[qb]AW[lb]AW[ka]AW[ia]AW[nc]AW[md]AW[ke]AW[je]AW[od]AW[ie]AW[qc]AW[qd]AW[oe]AW[pe]AW[rd]AW[qf]AW[fg]AW[cg]AW[ga]AW[ce]AW[he]C[Black catches the whole top!]
+(;B[ja];W[ma]
+(;B[ha];W[na];B[kb];W[ia];B[la]C[RIGHT])
+(;B[fa]
+(;W[na];B[ha]
+(;W[pa])
+(;W[oa]))
+(;W[oa];B[ha]
+(;W[pa])
+(;W[na]))
+(;W[pa];B[ha]
+(;W[oa])
+(;W[na]))))
+(;B[kb];W[la];B[ma]C[RIGHT])
+(;B[id];W[ha];B[fa];W[ja])
+(;B[fa];W[ja];B[ha]C[Ko])
+(;B[ma]
+(;W[oa];B[kb]C[RIGHT])
+(;W[la]
+(;B[ja]C[RIGHT])
+(;B[kb]C[RIGHT]))
+(;W[ja];B[la]C[RIGHT]))
+(;B[la];W[ma];B[kb];W[la]
+(;B[na]C[RIGHT])
+(;B[fa];W[ja])))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[34]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd21]
+
+AW[ip][jp][jq][ir][js][ho][go][fo][fq][fr][dr][hr][ep]AB[hp]
+[gp][gq][gr][gs][io][jo][ko][kp][kq][kr][mr]C[White to kill.]
+
+(;W[jr];B[hs]
+(;W[hq];B[ks]
+(;W[fs]C[White K2 guarantees an eye which wins the race. RIGHT]
+)
+(;W[fp]C[White K2 guarantees an eye which wins the race. RIGHT]
+))
+(;W[fp];B[hq]
+(;W[fs];B[ks]C[seki])
+(;W[iq];B[ks])
+(;W[is];B[ks]))
+(;W[fs];B[hq]
+(;W[fp];B[ks]C[seki])
+(;W[iq];B[ks])
+(;W[is];B[ks])))
+(;W[hq];B[jr];W[iq];B[is])
+(;W[hs];B[jr];W[iq];B[hq])
+(;W[fp];B[jr];W[iq];B[hs]
+(;W[fs];B[ks]C[white is dead])
+(;W[is];B[ks]))
+(;W[fs];B[jr];W[iq];B[hs]
+(;W[fp];B[ks]C[white is dead])
+(;W[is];B[ks])))

@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[12k]DP[59]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]C[white to connect
+]
+AW[fl][dm][em][cn][fn][gn][bo][co][cp][gp][cq]
+AB[bm][cm][dn][en][ao][ap][dp][aq][eq][br][cr][er]
+(;W[ep];B[fp]
+(;W[eo]C[RIGHT
+])
+
+(;W[dq];B[eo])
+)
+
+(;W[dq];B[ep])
+
+(;W[eo];B[do];W[dq];B[ep];W[dr];B[ds])
+
+(;W[do];B[eo];W[dq];B[ep];W[dr];B[ds])
+
+)

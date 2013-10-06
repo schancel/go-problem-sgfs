@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[4k]DP[31]SO[florian]CO[6]SZ[9]AW[da]AW[ea]AW[ga]AW[cb]AW[db]AW[fb]AW[hb]AW[dc]AW[ec]AW[fc]AW[gc]AW[hc]AW[dd]AW[ed]AW[gd]AW[id]AW[he]AW[ie]AW[af]AW[ag]AW[bg]AW[cg]AW[eg]AW[gg]AW[bh]AW[dh]AW[eh]AW[ci]AW[di]AB[ba]AB[ca]AB[ha]AB[bb]AB[ib]AB[cc]AB[cd]AB[fd]AB[ae]AB[de]AB[ee]AB[fe]AB[ge]AB[bf]AB[cf]AB[df]AB[ef]AB[ff]AB[gf]AB[hf]AB[if]AB[dg]AB[fg]AB[fh]AB[ei]AB[fi]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]TM[300]OT[2x30 byo-yomi]PW[Weasel]PB[capahab]WR[6k]BR[7k]DT[2004-10-25]
+(;W[bd]
+(;B[ac]
+(;W[bc];B[ce]
+(;W[ab]C[RIGHT])
+(;W[ad];B[be]))
+(;W[ad];B[be])
+(;W[be];B[ad]))
+(;B[be];W[bc];B[ce];W[ab])
+(;B[bc];W[be];B[ce];W[ad];B[ac];W[ae]))
+(;W[be];B[ad]
+(;W[bd];B[ac])
+(;W[ac];B[bd])
+(;W[bc];B[bd]))
+(;W[ad];B[be];W[bc];B[bd])
+(;W[bc];B[bd])
+(;W[hh];B[bd]C[White would need 5 consecutive black tenuki to do something useful in the lower right.])
+(;W[ac];B[bd]
+(;W[bc];B[ad])
+(;W[ad];B[be])
+(;W[be];B[ad])))

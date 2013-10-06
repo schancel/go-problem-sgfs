@@ -1,0 +1,37 @@
+(;GE[best move]DI[1k]DP[18]SO[dvysku]CO[0]AB[gr]AB[gq]AB[gp]AB[fp]AB[hq]AB[eq]AB[dq]AB[dp]AB[do]AB[cn]AB[cm]AB[dm]AB[cl]AB[cj]AB[dj]AB[jq]AB[ko]AB[kn]AB[jl]AB[jk]AB[jj]AB[gk]AB[ek]AB[fk]AW[dk]AW[dl]AW[el]AW[fl]AW[il]AW[ik]AB[ij]AB[hj]AB[hk]AB[hl]AW[im]AW[hm]AW[gl]AW[em]AW[en]AW[dn]AW[eo]AW[ep]AW[fo]AW[go]AW[ho]AW[iq]AW[ir]AW[hp]AW[jo]AW[jn]AB[jr]AB[kp]AB[jm]C[Black to find the best move.]AP[goproblems]
+(;B[ip]
+(;W[jp]C[CHOICE]
+(;B[gm]TR[in]C[Good job. White can live with g6 (square), but loses the k4-k6 group after j6 (triangle) double atari. White should have played j5 right after j4, abandoning the 2 lower stones.RIGHT]MA[gn])
+(;B[io];W[in]C[The triangles are miai for White.]TR[ip]TR[gn])
+(;B[in];W[io])
+(;B[hn];W[gm])
+(;B[gn];W[gm]
+(;B[fn];W[io]
+(;B[hn]C[Well done, but this seki is not the best Black can archieve after Black j4 and White k4.])
+(;B[in];W[hn])
+(;B[fm];W[hn]))
+(;B[hn];W[fn])
+(;B[io];W[in]TR[ip]TR[fn]C[The triangles are miai for White.])
+(;B[in];W[io]TR[fn]TR[hn]C[The triangles are miai for White.])
+(;B[fm];W[fn]))
+(;B[fn];W[io])
+(;B[fm];W[io])
+(;B[hr];W[is])
+(;B[is];W[io]C[Black can do better than that.]))
+(;W[io];B[jp]C[RIGHT]))
+(;B[gm];W[ip]
+(;B[hn];W[in]TR[jp]TR[gn]C[The triangles are miai for White.])
+(;B[in];W[hn])
+(;B[gn];W[jp])
+(;B[fn];W[jp])
+(;B[fm];W[jp])
+(;B[io];W[jp])
+(;B[jp];W[hn]))
+(;B[fm];W[ip])
+(;B[gn];W[ip]C[Hint: don't try to kill the group, White has enough space to make 2 eyes.])
+(;B[fn];W[ip])
+(;B[hn];W[ip])
+(;B[in];W[ip])
+(;B[io];W[ip])
+(;B[jp];W[ip])
+(;B[is];W[ip]C[Black can do better than that.]))

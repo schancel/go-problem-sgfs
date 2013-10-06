@@ -1,0 +1,56 @@
+(;GE[life and death]DI[3d]DP[10]SO[Field Mouse]CO[9]AB[ls]AB[lr]AB[lq]AB[lp]AB[lo]AB[ln]AB[pn]AB[po]AB[qp]AB[rq]AB[rr]AB[rs]AB[rp]AB[qo]AB[om]AB[nm]AB[mm]AB[lm]AB[pm]AW[qs]AW[qr]AW[pr]AW[nq]AW[op]AW[oo]AW[no]AW[mo]AW[mp]C[Black to play and kill.]SZ[19]AP[MultiGo:3.7.0]
+(;B[pq]
+(;W[or]
+(;B[oq];W[mq]
+(;B[ns];W[os];B[nr]C[Correct!RIGHT])
+(;B[nr];W[mr]C[Oops :o)])
+(;B[mr];W[nr]C[Oops :o)])
+(;B[ms];W[ns]C[Oops :o)])
+(;B[os];W[ns]C[Oops :o)]))
+(;B[ns];W[os]
+(;B[nr]C[];W[oq]C[Oops :o)])
+(;B[oq]
+(;W[mq];B[nr]C[Correct!RIGHT])
+(;W[nr];B[mq]C[Correct! RIGHT])))
+(;B[nr];W[mr]
+(;B[ns];W[os];B[ms];W[oq])
+(;B[mq];W[oq])
+(;B[ms];W[ns];B[mq];W[oq])))
+(;W[oq];B[os]C[Correct!RIGHT]))
+(;B[mq];W[nr]C[Oops :o)])
+(;B[mr];W[nr]C[Oops :o)])
+(;B[ms];W[os]C[]
+(;B[nr];W[or];B[pq];W[oq])
+(;B[pq];W[oq])
+(;B[or];W[nr]))
+(;B[ns];W[os]
+(;B[or];W[nr];B[ps];W[oq])
+(;B[pq];W[oq])
+(;B[nr];W[or]))
+(;B[nr];W[or]
+(;B[pq];W[mr]
+(;B[ns];W[os]
+(;B[oq];W[ms]
+(;B[mq];W[nr])
+(;B[nr];W[mq]))
+(;B[ms];W[oq]))
+(;B[mq];W[oq])
+(;B[oq];W[mq]))
+(;B[os];W[pp]))
+(;B[or];W[nr]
+(;B[ns];W[os];B[ps];W[oq])
+(;B[pq];W[oq]C[Oops :o)])
+(;B[os];W[ns]))
+(;B[oq];W[pq]C[];B[nr];W[or]
+(;B[pp];W[mr]
+(;B[ns];W[os];B[ms];W[mq])
+(;B[mq];W[ns]))
+(;B[os];W[pp])
+(;B[mq]
+(;W[pp])
+(;W[os])))
+(;B[ps];W[os]C[Oops :o)])
+(;B[os];W[or]
+(;B[pq];W[ns])
+(;B[ns];W[pq])
+(;B[nr];W[pp])))

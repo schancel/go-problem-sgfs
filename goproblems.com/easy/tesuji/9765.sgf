@@ -1,0 +1,5 @@
+(;GE[tesuji]DI[5k]DP[35]SO[meh]CO[6]AB[gm]AB[hm]AB[im]AB[hk]AW[fl]AW[fm]AW[gn]AW[hn]AW[in]AW[jm]AW[jl]AB[hj]AW[gj]AW[mf]AW[me]AB[kc]AW[jc]AW[jb]AW[jk]AB[lg]AW[mg]AB[gi]C[Can w capture the b stones? Play T if you don't think so]LB[ld:T]AP[goproblems]
+(;W[ld]C[Correct. W has nothing but ko threats there.RIGHT])
+(;W[hl];B[il];W[ik];B[gl];W[gk];B[hl];W[hi];B[ij];W[ii];B[jj];W[kj];B[ji];W[jh];B[ki];W[li];B[kh];W[kg];B[lh]
+(;W[mh];B[lf];W[kf];B[le];W[ld];B[ke];W[je];B[kd]C[Now b gets a choice of double ataris, and there's nothing w can do about it.])
+(;W[lf];B[mh]C[B escaped!])))

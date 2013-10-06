@@ -1,0 +1,252 @@
+(;GE[elementary]DI[15k]DP[62]SO[LCZLAPINSKI]CO[7]AB[ap]AB[bp]AB[cp]AB[dp]AB[dq]AB[dr]AB[ds]AB[es]AB[eq]AB[ao]AB[co]AW[an]AW[bn]AW[bo]AW[cn]AW[dn]AW[do]AW[en]AW[ep]AW[fo]AW[fq]AW[er]AW[fr]AW[fs]AP[goproblems]
+(;W[br]
+(;B[ar]
+(;W[bs];B[cr]
+(;W[as]C[];B[aq];W[bq]C[SekiRIGHT])
+(;W[bq]C[Black must play Ba3 to get a seki. Allowing Wa3 is a mistake that loses to one eye versus none.RIGHT])
+(;W[aq];B[bq]C[If white pushes, black captures. Black could push with Bc1. So the white stones are dead.])
+(;W[cs];B[bq]C[White can't push.])
+(;W[cq];B[bq]C[White would have to use two ko threats and have black ignore both to kill black.Black could also play Bc1 to eliminate the Wa1 ko threat.]))
+(;W[as];B[bs]
+(;W[aq];B[bq]TR[cs]TR[cr]C[Bc1 and Bc2 are miai for life.])
+(;W[bq];B[aq]TR[cs]TR[cr]C[Bc1 and Bc2 are miai for life.])
+(;W[cs];B[cr]TR[aq]TR[bq]C[Ba3 and Bb3 are miai for life.])
+(;W[cr];B[cs]TR[aq]TR[bq]C[Ba3 and Bb3 are miai for life.])
+(;W[cq]
+(;B[aq]TR[cs]TR[cr]C[Bc1 and Bc2 are miai for life.])
+(;B[cs]C[Ba3 and Bb3 are miai for life.])))
+(;W[aq];B[bq]
+(;W[as];B[bs]TR[cs]TR[cr]C[Bc1 and Bc2 are miai for life.])
+(;W[bs];B[cr]C[White's B2 group is dead.])
+(;W[cs];B[cr]LB[fn:T]
+(;W[as];B[bs])
+(;W[bs];B[as])
+(;W[fn]C[CHOICE]
+(;B[bs]C[CHOICE])
+(;B[as]C[CHOICE])))
+(;W[cr];B[bs]C[White's B2 group is dead. White has a ko threat of wC1-wA1 ko threatening wA3 ko-wC3(12). Black can play bC1 to eliminate the ko threat.])
+(;W[cq];B[cr]))
+(;W[bq];B[aq]
+(;W[bs]LB[fn:T]C[RIGHT]
+(;B[cr]C[SekiCHOICERIGHT])
+(;B[fn]C[RIGHT];W[cr]C[Dead shape inside.RIGHT]))
+(;W[cr];B[bs]C[White has a ko threat at c1. Before starting any kos, black should play c1 to eliminate the ko threat.])
+(;W[as];B[bs]C[Bc1 and Bc2 are miai for life.])
+(;W[cs]C[Seki, but gives black a ko threat for life of Bc2.RIGHT])
+(;W[cq];B[bs]))
+(;W[cs];B[cr]
+(;W[as];B[bs])
+(;W[aq];B[bq]C[CHOICE])
+(;W[bs];B[bq])
+(;W[bq];B[bs]C[If needed, Ba3 eliminates the ko threat of Wa3.])
+(;W[cq];B[bq]C[One eye versus none.]))
+(;W[cr];B[bq]
+(;W[bs]C[RIGHT];B[cs]C[SekiRIGHT])
+(;W[cs]C[SekiRIGHT])
+(;W[cq];B[bs])
+(;W[as];B[bs]))
+(;W[cq];B[bs]TR[as]C[Black has an eye at a1.]
+(;W[aq];B[bq])
+(;W[bq];B[aq]
+(;W[cs];B[cr])
+(;W[cr];B[cs]))
+(;W[cs];B[cr])
+(;W[cr]TR[as]C[Black still has an eye at a1. White does have ko threats.])))
+(;B[bs]
+(;W[ar]
+(;B[cr]C[CHOICE]
+(;W[bq]C[SekiRIGHT])
+(;W[as];B[bq];W[cs]LB[fn:T];B[fn]C[Black ko threat, White answers since connecting at Wb1 Ba3(5) or Wa3 Bb1(5).  White only has a ko threat at Wa3. If black wishes to play a ko later, black should play Bb1 first, W ko threat B response to eliminate some of white's ko threats first. At some point black may ignore the ko threat, and kill the white a1 group. At the end of the game, the white stones are dead: Bb1 W must pass Ba3 captures.])
+(;W[aq];B[bq]C[White can't push.]))
+(;B[bq]
+(;W[cr]C[Black must play Bc1 to get a seki. Allowing Wc1 would lose to white's one eye versus none.RIGHT])
+(;W[as];B[cs];W[cr]C[RIGHT])
+(;W[aq];B[cr]C[White can't push. Black could capture with Ba1 so the white a2 group is dead.])
+(;W[cs];B[cr]C[White can't push without self-atari. Black could approach with Ba3 so this white a2 group is dead.])))
+(;W[bq];B[cr]
+(;W[as];B[ar])
+(;W[ar]C[SekiRIGHT])
+(;W[aq]C[Seki. White can play Wa1 if he has ko threats elsewhere worth more than 10 points. If black doesn't play Ba2 ko after Wa1, then Wc1 ko threatening to kill is possible.RIGHT])
+(;W[cq];B[ar]))
+(;W[as];B[ar]
+(;W[bq];B[aq]
+(;W[cs];B[cr])
+(;W[cr];B[cs]C[Black has two eyes.])
+(;W[cq];B[cr]))
+(;W[aq];B[bq]
+(;W[cs];B[cr])
+(;W[cr];B[cs]))
+(;W[cs];B[cr]
+(;W[aq];B[bq])
+(;W[bq];B[aq]C[Black has three eyes.]TR[as]TR[cs]TR[cq])
+(;W[cq];B[bq]))
+(;W[cr];B[cs]
+(;W[aq];B[bq]C[black has three eyes.]TR[as]TR[aq]TR[cq])
+(;W[bq];B[aq]C[Black has two eyes.]TR[as]TR[cq]))
+(;W[cq]
+(;B[bq]C[CHOICE])
+(;B[cr]C[CHOICE])
+(;B[aq]TR[cs]TR[cr]C[Bc1 and Bc2 are miai for life.])
+(;B[cs]TR[aq]TR[bq]C[Ba3 and Bb3 are miai for life.])))
+(;W[aq];B[bq]
+(;W[as];B[ar]
+(;W[cs];B[cr])
+(;W[cr];B[cs]C[White can't push.])
+(;W[cq];B[cr]))
+(;W[ar];B[cr]C[White can't push.])
+(;W[cs];B[cr]C[White has Wa1 as a ko threat.])
+(;W[cr];B[ar]C[White has Wc1 as a ko threat.])
+(;W[cq];B[cr]C[White has Wa1 as a ko threat.]))
+(;W[cs];B[cr]
+(;W[as];B[ar]
+(;W[aq];B[bq])
+(;W[bq];B[aq]C[White can't push.])
+(;W[cq]LB[fn:T]
+(;B[fn]C[White has Ba3 as a ko threat.CHOICE])
+(;B[bq]C[CHOICE])))
+(;W[ar];B[bq]C[White has Wa1 as a ko threat.])
+(;W[aq];B[bq]C[White has Wa1 as a ko threat.])
+(;W[bq];B[ar]C[White has Wa3 as a ko threat.])
+(;W[cq];B[bq]
+(;W[as];B[ar])
+(;W[ar]LB[fn:T];B[fn]C[Black can tenuki.])))
+(;W[cr];B[cs]
+(;W[ar]LB[fn:T]C[RIGHT]
+(;B[bq]C[CHOICE])
+(;B[fn]C[CHOICE];W[bq]C[Dead shape inside.RIGHT]))
+(;W[as];B[ar]
+(;W[aq];B[bq])
+(;W[bq];B[aq]C[Black has two eyes at a1 and c3.]TR[as]TR[cq])
+(;W[cq];B[bq]))
+(;W[aq]C[Seki, but gives black a ko threat of Bb3 for life. A connected Wa2 was better.RIGHT])
+(;W[bq];B[ar]C[White has a ko threat of Wa3. Black can eliminate the ko threat with Ba3.])
+(;W[cq];B[ar]C[White has a ko  threat of Wa3.]))
+(;W[cq];B[ar]C[White has ko threats at a3 or c1.]))
+(;B[cr];W[ar];B[bs];W[aq];B[bq]C[White can't push.]))
+(;W[as];B[br]
+(;W[ar];B[bq]TR[bs]TR[cs]TR[cr]C[Black has Bb1, Bc1 and Bc2 as miai for better than seki. In the original position white should try to get at least seki by playing wB2.])
+(;W[aq];B[bq]TR[bs]TR[cr]TR[cs]C[Black has Bb1, Bc1 and Bc2 as miai for life.])
+(;W[bs];B[cr]TR[ar]TR[aq]TR[bq]C[Black has Ba2, Ba3 and Bb3 as miai for life.])
+(;W[bq];B[cr]TR[aq]TR[ar]TR[bs]C[Black has Ba2, Ba3 and Bb1 as miai for life.])
+(;W[cs];B[cr]TR[bs]TR[ar]TR[aq]TR[bq]C[Black has Ba2, Ba3, Bb1 and Bb3 as miai for life.])
+(;W[cr];B[bq]TR[ar]TR[bs]TR[cs]C[Black has Ba2, Bb1 and Bc1 as miai for life.])
+(;W[cq]
+(;B[bq]TR[ar]TR[bs]TR[cr]TR[cs]C[Black has Ba2, Bb1, Bc1 and Bc2 as miai for life.])
+(;B[cr]TR[ar]TR[aq]TR[bq]TR[bs]C[Black has Ba2, Ba3, Bb1 and Bc3 as miai for life.])))
+(;W[ar];B[br]
+(;W[as];B[bq]TR[bs]TR[cs]TR[cr]C[CHOICE])
+(;W[aq];B[bq]TR[bs]TR[cr]TR[cs]C[Black has Bb1, Bc1 and Bc2 as miai for life.])
+(;W[bs]
+(;B[bq]C[Black has Bc1 and Bc2 as miai for better than seki. In the original position white should play wB2 to get at least seki in the corner.]TR[cs]TR[cr])
+(;B[cr]TR[bq]TR[aq]C[Black has Ba3 and Bb3 as miai for life.]))
+(;W[bq];B[cr]TR[aq]TR[bs]C[Black has Ba3 and Bb1 as miai for better than seki. In the original position white should play wB2 to get at least seki in the corner.])
+(;W[cs]
+(;B[bq]TR[bs]TR[cr]C[Black has Bb1 and Bc2 as miai for life.])
+(;B[cr]TR[aq]TR[bq]TR[bs]C[Black has miai of Ba3, Bb1 and Bb3 for life.]))
+(;W[cr];B[bq]TR[bs]TR[cs]C[Black has miai of Bb1 and Bc1 for life.])
+(;W[cq];B[bq]TR[bs]TR[cs]TR[cr]C[Black has miai of Bb1, Bc1 and Bc2 for life.]))
+(;W[aq];B[br]
+(;W[as];B[bq]TR[bs]TR[cs]TR[cr]C[Black has miai of Bb1, Bc1 and Bc2 for life.])
+(;W[ar]
+(;B[bq]TR[bs]TR[cr]TR[cs]C[Black has miai of Bb1, Bc1 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[cr]C[Black has miai of Bb1 and Bb3 for life.]TR[bs]TR[bq]))
+(;W[bs]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.])
+(;B[bq]TR[ar]TR[cr]TR[cs]C[Black has miai of Ba2, Bc1 and Bc2 for life.])
+(;B[cr]TR[ar]TR[bq]C[Black has Ba2 and Bb3 as miai for life.]))
+(;W[bq];B[cr]TR[ar]TR[bs]C[Black has miai of Ba2 and Bb1 for life.])
+(;W[cs]
+(;B[cr]TR[ar]TR[bs]TR[bq]C[Black has miai of Ba2, Bb1 and Bb3 for life.])
+(;B[bq]TR[bs]TR[cr]C[Black has miai of Bb1 and Bc2 for life.]))
+(;W[cr];B[bq]TR[ar]TR[bs]TR[cs]C[Black has miai of Bb2, Bb1 and Bc1 for life.])
+(;W[cq]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.])
+(;B[bq]TR[ar]TR[cr]C[Black has miai of Ba2 and Bc2 for life.])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.])
+(;B[cr]TR[ar]TR[bq]TR[bs]C[Black has miai of Ba2, Bb1 and Bb3 for life.])))
+(;W[bs];B[br]
+(;W[as]
+(;B[ar]TR[cr]TR[bq]C[Black has miai of Bb3 and Bc2 for life.])
+(;B[bq]TR[ar]TR[cs]TR[cr]C[Black has miai of Bb2, Bc1 and Bc2 for life.])
+(;B[cr]TR[ar]TR[bq]TR[aq]C[Black has miai of Ba2, Ba3 and Bb3 for life.]))
+(;W[ar]
+(;B[bq]TR[cs]TR[cr]C[Black has miai of Bc1 and Bc2 for better than seki. In the original position white should play wB2 to get at least seki in the corner.])
+(;B[cr]TR[aq]TR[bq]C[Black has miai of Ba3 and Bb3 for life.]))
+(;W[aq];B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for better than seki. In the original position white should play wB2 to get at least seki in the corner.])
+(;W[bq];B[cr]C[Black has miai of Ba2 and Ba3 for life.])
+(;W[cs]
+(;B[bq]TR[ar]TR[cr]C[Black has miai of Ba2 and Bc2 for life.])
+(;B[cr]TR[ar]TR[aq]TR[bq]C[Black has miai of Ba2, Ba3 and Bb3 for life.]))
+(;W[cr];B[bq]C[Black has miai of Ba2 and Bc1 for life.]TR[ar]TR[cs])
+(;W[cq];B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.]))
+(;W[bq];B[br]
+(;W[as];B[cr]C[Black has miai of Ba2 and Bb1 for life.])
+(;W[ar];B[cr]C[Black has miai of Ba3 and Bb1 for life.]TR[aq]TR[bs])
+(;W[aq];B[cr]C[Black has miai of Ba2 and Bb1 for life.])
+(;W[bs];B[cr]C[Black has miai of Ba2 and Ba3 for life.]TR[ar]TR[aq])
+(;W[cs];B[cr]C[Black has miai of Ba2 and Bb1 for life.])
+(;W[cr];B[ar]
+(;W[as];B[bs]C[White's inside stones are dead.])
+(;W[aq];B[cq])
+(;W[bs]
+(;B[aq]C[CHOICE])
+(;B[cq]C[CHOICE])
+(;B[cs]C[CHOICE])))
+(;W[cq]
+(;B[ar]TR[aq]TR[cr]C[Black has miai of Ba3 and Bc2 for life.]
+(;W[cr];B[aq]TR[bs]TR[cs]C[Black has miai of Bb1 and Bc1 for life.])
+(;W[aq];B[cr]))
+(;B[cr]TR[ar]TR[bs]C[Black has miai of Ba2 and Bb1 for life.CHOICE])))
+(;W[cs];B[br]
+(;W[as]
+(;B[ar]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE]))
+(;W[ar]
+(;B[bq]TR[bs]TR[cr]C[Black has miai of Bb1 and Bc1 for life.])
+(;B[cr]TR[bs]TR[bq]TR[aq]C[Black has miai of Ba3, Bb1 and Bb3 for lfie.]))
+(;W[aq]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[cr]TR[bs]TR[bq]C[Black has Bb1 and Bb3 as miai for life.CHOICE]))
+(;W[bs]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bq]TR[ar]TR[cr]C[Black has miai of Ba2 and Bc2 for life.CHOICE])))
+(;W[cr];B[br]
+(;W[as];B[bq]TR[bs]TR[cs]C[Black has miai of Bb1 and Bc1 for life.CHOICE])
+(;W[ar];B[bq]TR[bs]TR[cs]C[Black has miai of Bb1 and Bc1 for life.CHOICE])
+(;W[aq];B[bq]TR[ar]TR[bs]TR[cs]C[Black has miai of Ba2, Bb1 and Bc1 for life.CHOICE])
+(;W[bs];B[bq]C[Black has miai of Ba2 and Bc1 for life.CHOICE]TR[ar]TR[cs])
+(;W[bq];B[ar]TR[aq]TR[bs]TR[cs]TR[cq]C[Black has miai of Ba3, Bb1, Bc1 and Bc3 for life.])
+(;W[cs];B[bq]TR[ar]TR[bs]C[Black has miai of Ba2 and Bb1 for life.CHOICE])
+(;W[cq]
+(;B[bq]C[CHOICE])
+(;B[cs]C[CHOICE])))
+(;W[cq];B[br]
+(;W[as]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[cr]TR[bs]TR[bq]C[Black has miai of Bb1 and Bb3 for life.CHOICE]))
+(;W[ar]
+(;B[bq]TR[bs]TR[cr]TR[cs]C[Black has miai of Bb1, Bc1 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[cr]TR[bs]TR[bq]C[Black has miai of Bb1 and Bc3 for life.CHOICE]))
+(;W[aq]
+(;B[bq]TR[ar]TR[bs]TR[cr]C[Black has miai of Ba2, Bb1 and Bc2 for life.CHOICE])
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[cr]TR[ar]TR[bq]TR[bs]C[Black has miai of Ba2, Bb1 and Bb3 for life.CHOICE]))
+(;W[bs]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bq]TR[ar]TR[cs]C[Black has miai of Ba2 and Bc1 for life.CHOICE])
+(;B[cr]TR[ar]TR[bq]C[Black has miai of Ba2 and Bb3 for life.CHOICE]))
+(;W[bq];B[cr]TR[bs]TR[ar]C[Black has miai of Ba2 and Bb1 for life.CHOICE])
+(;W[cs]
+(;B[ar]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bs]TR[bq]TR[cr]C[Black has miai of Bb3 and Bc2 for life.CHOICE])
+(;B[bq]TR[ar]TR[bs]TR[cr]C[Black has miai of Ba2, Bb1 and Bc2 for life.CHOICE])
+(;B[cr]TR[bs]TR[ar]TR[bq]C[Black has miai of Ba2, Bb1 and Bb3 for life.CHOICE]))
+(;W[cr];B[bq]TR[ar]TR[bs]TR[cs]C[Black has miai of Ba2, Bb1 and Bc1 for life.CHOICE]))
+(;W[gp];B[br]C[B2 is the key point in the square 9 position. White should have played wB2 to get at least a seki.])
+(;W[fp]C[B2 is the key point in a square 9 position. White should have played wB2 to get at least a seki in the corner.])
+(;W[eo]C[B2 is the key point in most square nine positions. White should have play wB2 to get at least a seki.]))

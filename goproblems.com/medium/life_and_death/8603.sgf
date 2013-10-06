@@ -1,0 +1,78 @@
+(;GE[life and death]DI[2d]DP[12]SO[kaf]CO[7]AB[bq]AB[br]AB[cr]AW[an]AW[bn]AW[cn]AW[co]AW[cp]AW[cq]AW[dq]AW[dr]AW[bp]AB[bk]AB[bm]AB[cm]AB[dm]AB[dn]AB[dp]AB[ep]AB[eq]AB[gq]AB[fr]AB[ao]C[Black to killFORCE]AP[goproblems]
+(;B[ds];W[es]C[]
+(;B[cs];W[er]C[FORCE]
+(;B[as]
+(;W[aq]C[CHOICE]
+(;B[ap]C[];W[bo]C[];B[ap]C[RIGHT])
+(;B[am];W[ap]C[])
+(;B[do];W[ap]C[])
+(;B[fs];W[ap]C[]))
+(;W[ap];B[aq]C[RIGHT]))
+(;B[ap];W[ar]
+(;B[aq];W[as]C[Black is losing the raceFORCE];B[fs];W[bo])
+(;B[as];W[bs]C[ko])
+(;B[do];W[bs]C[ko])
+(;B[am];W[bs]C[ko])
+(;B[fs];W[bs]C[ko]))
+(;B[aq];W[as]C[black is losing the raceFORCE]
+(;B[ap];W[bo]C[FORCE];B[am];W[ar])
+(;B[fs];W[ap]))
+(;B[ar];W[ap]C[black is one move short])
+(;B[am];W[ap]
+(;B[aq];W[as])
+(;B[as];W[aq])
+(;B[ar];W[aq])))
+(;B[er];W[cs])
+(;B[ap];W[cs];B[bs];W[ds];B[ar];W[bo]C[FORCE];B[do];W[aq];B[ap];W[ao])
+(;B[bs];W[ap];B[er];W[cs]C[ko])
+(;B[aq];W[cs]
+(;B[as];W[ds])
+(;B[bs];W[ds])))
+(;B[ap];W[cs]C[FORCE]
+(;B[bs];W[ds]
+(;B[es];W[ar])
+(;B[ar];W[bo]C[ko])
+(;B[aq];W[bo])
+(;B[er];W[ar])
+(;B[do];W[ar])
+(;B[am];W[ar]
+(;B[aq];W[bo])
+(;B[es];W[aq];B[as];W[aq])))
+(;B[aq];W[bs])
+(;B[ar];W[bs])
+(;B[es];W[ds]C[Black is losing the race])
+(;B[as];W[aq]))
+(;B[cs];W[ds]
+(;B[as];W[aq]C[Black loses the race];B[ap];W[bo];B[ap];W[ao]C[FORCE];B[es];W[ap])
+(;B[ap];W[as]C[FORCE]
+(;B[aq];W[ar]
+(;B[do];W[bo])
+(;B[am];W[bo])
+(;B[es];W[bo])
+(;B[er];W[bo]))
+(;B[do];W[ar]
+(;B[es];W[aq];B[bs];W[ar]
+(;B[aq];W[bo])
+(;B[er];W[aq];B[as];W[aq])
+(;B[am];W[aq];B[as];W[aq]))
+(;B[aq])
+(;B[er];W[aq])
+(;B[am];W[aq]))
+(;B[ar];W[bo]C[ko is not a solution];B[do];W[aq];B[ap];W[ao];B[am];W[aq]C[ko])
+(;B[am];W[ar]
+(;B[do])
+(;B[es];W[bo])
+(;B[er];W[bo])))
+(;B[aq];W[as]C[Black loses the race]))
+(;B[aq];W[cs])
+(;B[as];W[cs]
+(;B[aq];W[ap])
+(;B[ap]))
+(;B[bs];W[ds];B[ap];W[ar])
+(;B[ar];W[ap])
+(;B[es];W[ds])
+(;B[am];W[cs];B[bs];W[ds];B[ap])
+(;B[er];W[cs];B[bs];W[ds]
+(;B[ap])
+(;B[aq];W[ap])
+(;B[ar];W[ap])))

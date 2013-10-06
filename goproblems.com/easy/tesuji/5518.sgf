@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[4k]DP[31]SO[munisai79]CO[9]AB[ii]AB[ih]AB[ki]AB[kj]AB[kk]AW[ji]AW[jh]AW[kh]AW[lh]AW[kf]AB[ig]C[White just played the marked stone.  How can black connect?]TR[ji]AB[gh]AB[ll]AB[gi]AW[gj]AW[fj]AP[goproblems]
+(;B[ik];W[jj]
+(;B[hl]C[Great job!RIGHT])
+(;B[ij];W[jk];B[jl];W[il]
+(;B[im];W[hl])
+(;B[hl];W[im])
+(;B[hm];W[hl]))
+(;B[jk];W[ij];B[hj];W[hk]))
+(;B[jj];W[ij]
+(;B[ik];W[hj])
+(;B[hj];W[ik])
+(;B[hk];W[hj]))
+(;B[ij];W[jj]
+(;B[jk];W[ik]
+(;B[il];W[hk])
+(;B[hk];W[il])
+(;B[hl];W[hk]))
+(;B[ik];W[jk];B[jl];W[il]
+(;B[hl];W[im])
+(;B[im];W[hl])
+(;B[hm];W[hl])))
+(;B[hk];W[jj]
+(;B[jk];W[ij];B[hj];W[ik];B[il];W[hl]
+(;B[gm];W[gl])
+(;B[hm];W[gl])
+(;B[gl];W[hm]))
+(;B[ik];W[jk];B[jl];W[il]
+(;B[hm];W[im];B[in];W[jm])
+(;B[im]C[A ladder is not good enough.];W[hl])
+(;B[hl];W[im]))
+(;B[ij];W[jk];B[jl];W[ik]
+(;B[il];W[hj])
+(;B[hj];W[il]))
+(;B[hj];W[jk];B[jl];W[il]
+(;B[ik];W[im])
+(;B[hl];W[im]))))

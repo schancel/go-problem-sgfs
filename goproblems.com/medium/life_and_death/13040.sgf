@@ -1,0 +1,33 @@
+(;GE[life and death]DI[1k]DP[20]SO[randomly_anonymous]CO[0]C[Can white kill?]AB[kr]AB[lq]AB[np]AB[nq]AB[nr]AB[os]AB[pr]AW[jr]AW[jq]AW[kp]AW[mo]AW[oq]AW[or]AW[pp]AW[on]AW[pm]AW[qm]LB[rm:NO]AP[goproblems]
+(;W[pq];B[qr];W[rq];B[rr];W[sr];B[qq];W[rp];B[qp];W[qo];B[po])
+(;W[qr];B[pq])
+(;W[qq];B[qr]
+(;W[rq];B[rr];W[sr];B[pq];W[op];B[qp]
+(;W[rp];B[qo])
+(;W[qo];B[rp])
+(;W[sp]
+(;B[qo];W[po])
+(;B[rp]
+(;W[sn];B[qo]
+(;W[po];B[rn];W[rm];B[so]C[Ko])
+(;W[pn];B[rn];W[rm];B[so])
+(;W[oo];B[rn];W[rm];B[so])
+(;W[no];B[rn];W[rm];B[so]))
+(;W[qo];B[ro];W[rn];B[sq];W[rq];B[so])
+(;W[so];B[sq];W[rq];B[qo]MA[rn]MA[oo])
+(;W[ro];B[sq];W[rq];B[qo]MA[oo]MA[rn]))))
+(;W[rr];B[pq];W[op];B[rq]))
+(;W[rq];B[qq];W[rp];B[qp]
+(;W[qo];B[op])
+(;W[po];B[rr]))
+(;W[rm];B[ql]C[How about now?]
+(;W[qr];B[pq])
+(;W[pq];B[qr];W[rq];B[rr];W[sr];B[qq];W[rp];B[qp])
+(;W[rq];B[qq];W[qp];B[rr])
+(;W[qq];B[qr]
+(;W[rr];B[pq])
+(;W[rq];B[rr];W[sr];B[pq];W[op];B[qp]
+(;W[sp]C[RIGHT])
+(;W[rp];B[qo]MA[oo]MA[ro])
+(;W[qo];B[rp]))))
+(;W[ms];B[ns];W[ks];B[mr];W[ls];B[lr];W[js];B[mp]C[You failed to take away an eye here. Its still white's sente, so why bother playing here?]))

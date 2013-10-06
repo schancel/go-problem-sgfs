@@ -1,0 +1,33 @@
+(;GE[endgame]DI[4d]DP[8]SO[hello]CO[0]AW[da]AW[ea]AW[ia]AW[cb]AW[eb]AW[hb]AW[ib]AW[dc]AW[ec]AW[fc]AW[gc]AW[hc]AW[ad]AW[bd]AW[dd]AW[ae]AW[be]AW[ee]AW[fe]AW[ge]AW[he]AW[ie]AW[je]AW[ke]AW[af]AW[df]AW[ef]AW[kf]AW[dg]AW[eg]AW[jg]AW[kg]AW[ah]AW[bh]AW[ch]AW[dh]AW[eh]AW[jh]AW[kh]AW[ci]AW[di]AW[ei]AW[ki]AW[dj]AW[ej]AW[gj]AW[hj]AW[dk]AW[ek]AW[fk]AW[gk]AW[hk]AW[ik]AB[aa]AB[ba]AB[ca]AB[fa]AB[ga]AB[ja]AB[ab]AB[fb]AB[gb]AB[jb]AB[kb]AB[ac]AB[bc]AB[cc]AB[ic]AB[jc]AB[cd]AB[ed]AB[fd]AB[gd]AB[hd]AB[id]AB[jd]AB[kd]AB[ce]AB[de]AB[cf]AB[ff]AB[gf]AB[hf]AB[if]AB[jf]AB[ag]AB[bg]AB[cg]AB[fg]AB[gg]AB[hg]AB[ig]AB[fh]AB[gh]AB[hh]AB[ai]AB[bi]AB[fi]AB[gi]AB[ii]AB[bj]AB[cj]AB[fj]AB[jj]AB[ak]AB[ck]AB[kk]C[white passed, komi is 4.5]SZ[11]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black];B[bf];W[ae];B[bb];W[be];B[db];W[kj]
+(;B[jk];W[cb]LB[aj:A]C[Click A to passFORCE]
+(;B[aj];W[af];B[db];W[ji]
+(;B[ij];W[cb]LB[ka:A]C[Clcick A to passFORCE];B[ka];W[ad]
+(;B[db];W[ha]C[FORCE];B[fa];W[cb];B[bd];W[ae]C[FORCE]
+(;B[fb];W[be]C[FORCE]
+(;B[gb];W[ad];B[db];W[ga];B[fb];W[cb];B[af];W[ae]C[FORCE]
+(;B[fa];W[ad];B[db];W[gb]C[FORCE];B[fb];W[cb];B[be];W[ae];B[db]C[RIGHT])
+(;B[db];W[ad]
+(;B[fa];W[cb];B[be];W[ae];B[db];W[gb]
+(;B[fb];W[cb])
+(;B[fa];W[cb]))
+(;B[gb];W[cb];B[be];W[ae];B[db];W[fa]
+(;B[fb];W[cb])
+(;B[gb];W[cb]))))
+(;B[db];W[ad]
+(;B[ga];W[cb];B[af];W[ae];B[db];W[gb];B[fa];W[ad])
+(;B[gb];W[cb];B[af];W[ae];B[db];W[ga];B[fb];W[ad])))
+(;B[db];W[be]
+(;B[fb];W[ad])
+(;B[ga];W[ad]
+(;B[fb])
+(;B[gb];W[cb];B[af];W[ae];B[db];W[fb];B[ga];W[ad]
+(;B[fa];W[cb];B[be];W[ae];B[db];W[gb])
+(;B[gb];W[cb];B[be];W[ae];B[db];W[fa]
+(;B[gb];W[cb])
+(;B[ga];W[cb])))))
+(;B[gb];W[fb]))
+(;B[bd];W[ae];B[db];W[ha]C[FORCE];B[fa]
+(;W[be])))
+(;B[ha];W[ij]C[Black lost by 0.5]))
+(;B[ij];W[ih]))
+(;B[ha];W[jk]C[Black lost by 0.5]))

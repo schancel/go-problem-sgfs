@@ -1,0 +1,50 @@
+(;GE[elementary]DI[12k]DP[56]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[op][pp][qp][rp][sp][oq][mr][or]
+AB[pq][qq][rq][pr][rr]PL[2]C[white to kill. two ways.
+]
+(;W[sq];B[sr]
+(;W[qs];B[ps];W[rs]C[RIGHT
+])
+
+(;W[ps];B[qs])
+
+(;W[rs];B[qs])
+)
+
+(;W[rs];B[qs])
+
+(;W[sr];B[sq];W[qs];B[ps];W[rs];B[ss]C[ko
+])
+
+(;W[qs];B[ps]
+(;W[sq];B[sr];W[rs]C[RIGHT
+])
+
+(;W[rs];B[sq];W[ss]
+C[RIGHT
+bent four in the corner is dead, but this is a slow way to kill
+])
+
+(;W[sr];B[sq])
+)
+
+(;W[ps];B[qs]
+(;W[sr];B[sq])
+
+(;W[sq];B[sr])
+)
+
+(;W[ss];B[qs]
+(;W[sq];B[sr])
+
+(;W[sr];B[sq])
+)
+
+(;W[qr];B[qs])
+
+)

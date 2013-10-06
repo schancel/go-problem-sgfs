@@ -1,0 +1,130 @@
+(;GE[life and death]DI[2d]DP[14]SO[munisai79]CO[8]AW[qb]AW[qc]AW[rc]AB[pb]AB[pc]AB[ob]AB[nb]AB[mb]AW[kb]AW[lb]AW[mc]AW[nc]AW[oc]AW[pd]AW[pe]AW[pf]AW[qe]AB[qd]AB[rd]AB[re]AB[rf]AB[qf]AW[qg]AW[rg]AW[ri]AB[pg]AB[og]AW[jj]AP[goproblems]
+(;B[od];W[oe]
+(;B[ne];W[nd]
+(;B[of];W[od]
+(;B[lc];W[md]
+(;B[ld];W[me]
+(;B[lf];W[nf]LB[le:A]C[Please play at A to limit the variations.  B leads to the same solution.FORCE]LB[mf:B];B[le]C[FORCE];W[ng]
+(;B[mf];W[ne];B[nh];W[mg]
+(;B[lh];W[oh];B[ph];W[mh]
+(;B[mi];W[ni]
+(;B[lg];W[nh];B[nj];W[oi]
+(;B[pi];W[oj];B[ok]C[White is caught in a ladder.  Great job!RIGHT])
+(;B[oj];W[pi]))
+(;B[oi];W[li])
+(;B[nj];W[li]))
+(;B[lg];W[ni])
+(;B[ni];W[mi]))
+(;B[mh];W[lg];B[kg];W[lh]C[This ladder fails.]))
+(;B[nh]
+(;W[mg]
+(;B[lh];W[oh];B[ph];W[mh]
+(;B[ni];W[mi]
+(;B[nj];W[mj])
+(;B[oi];W[mj])
+(;B[mj];W[oi]
+(;B[nj];W[pi])
+(;B[pi];W[nj]))
+(;B[mf];W[ne]
+(;B[mj];W[oi]
+(;B[nj];W[pi])
+(;B[pi];W[nj]))
+(;B[nj];W[mj])
+(;B[oi];W[mj])))
+(;B[mf];W[ne]
+(;B[ni];W[mi])
+(;B[mi];W[ni]
+(;B[lg];W[nh];B[nj];W[oi]
+(;B[pi];W[oj];B[ok]C[White is caught in a ladder.  Great job!RIGHT])
+(;B[oj];W[pi]))
+(;B[oi];W[li])
+(;B[nj];W[li]))
+(;B[lg];W[mi])))
+(;B[mf];W[ne]
+(;B[lh];W[oh];B[ph];W[mh]
+(;B[mi];W[ni]
+(;B[lg];W[nh];B[nj];W[oi]
+(;B[pi];W[oj]C[];B[ok]C[White is caught in a ladder.  Great job!RIGHT])
+(;B[oj];W[pi]))
+(;B[oi];W[li])
+(;B[nj];W[li]))
+(;B[lg];W[mi])
+(;B[ni];W[mi]))
+(;B[mh];W[lg]
+(;B[kg];W[lh]C[This ladder fails.])
+(;B[kh];W[kg];B[jg];W[kf];B[ke];W[jf];B[if];W[je];B[jd];W[kc];B[kd];W[id]))))
+(;W[oh];B[ph])))
+(;B[le];W[mf];B[lg];W[mg]
+(;B[mh];W[lf];B[kf];W[kg]
+(;B[ke];W[lh])
+(;B[lh];W[ke];B[jf];W[kd]))
+(;B[lh];W[lf];B[kf];W[ke];B[kd];W[je];B[jd];W[id];B[ie];W[jf]
+(;B[kg];W[jc])
+(;B[if];W[jg]
+(;B[kg];W[jc])
+(;B[ic];W[kg])))))
+(;B[me];W[ld];B[kc];W[kd];B[jc];W[sd]))
+(;B[md];W[lc]))
+(;B[lc];W[md];B[ld];W[me]
+(;B[nf];W[mf])
+(;B[of];W[nf])
+(;B[le];W[nf]))
+(;B[md];W[lc]))
+(;B[of];W[ne])
+(;B[nd];W[ne];B[md];W[lc]
+(;B[me];W[nf]
+(;B[mf];W[ng]
+(;B[nh];W[mg];B[lg]C[Not a ladder, and a real ladder wouldn't work here.])
+(;B[mg];W[nh]))
+(;B[ng];W[mf]
+(;B[lf];W[le])
+(;B[le];W[lf]))
+(;B[mg];W[mf]
+(;B[lf];W[le])
+(;B[le];W[lf]
+(;B[kf];W[ke])
+(;B[ke];W[kf]))))
+(;B[ld];W[mf]))
+(;B[md];W[nd]
+(;B[ne];W[me])
+(;B[me];W[lc])
+(;B[lc];W[ld]))
+(;B[lc];W[me]
+(;B[ne];W[nd];B[nf];W[md]
+(;B[ld];W[le])
+(;B[of];W[od];B[ld];W[le]))
+(;B[nd];W[ne])
+(;B[of];W[ne])
+(;B[md];W[nd];B[ld];W[le])))
+(;B[lc];W[ne])
+(;B[ne];W[od];B[lc];W[ld])
+(;B[rb];W[sb]
+(;B[ra];W[qa]
+(;B[sd];W[sf];B[pa];W[sa]C[Black can't push.])
+(;B[pa];W[sa]
+(;B[sd];W[sf]C[Black can't push.])
+(;B[rb];W[sd]C[Damezumari.])
+(;B[od];W[ma]))
+(;B[od]C[Sure, but why waste time in the corner?  Please restart.]))
+(;B[qa];W[ra]C[White is alive.])
+(;B[pa];W[ra]C[White is alive.])
+(;B[od]C[Sure, but why waste time in the corner?  Please restart.]))
+(;B[qa];W[ra]
+(;B[sb];W[pa]
+(;B[oa];W[qa];B[sc];W[ma])
+(;B[sc];W[oa])
+(;B[rb];W[oa];B[sc];W[qa];B[sd];W[sf]))
+(;B[pa];W[sb]C[White is alive.])
+(;B[sc];W[pa];B[sb];W[oa];B[rb];W[qa];B[sd];W[sf]))
+(;B[sc];W[sb]
+(;B[sd];W[sf])
+(;B[qa];W[sd];B[ra];W[sf])
+(;B[ra];W[sf]
+(;B[rb];W[sd])
+(;B[qa];W[sd])
+(;B[sd];W[se])))
+(;B[sb];W[sd];B[sc];W[sf]C[Snapback.])
+(;B[ra];W[sd])
+(;B[sa];W[sd])
+(;B[sd];W[sc])
+(;B[pa];W[sd]))

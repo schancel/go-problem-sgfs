@@ -1,0 +1,85 @@
+(;GE[life and death]DI[4k]DP[28]SO[Piccolo]CO[0]AB[pd]AB[nc]AW[qd]TR[qe]C[Please follow the sequence for a few moves.]AP[goproblems];B[qe]C[];W[qc]C[q17 and s15 were good, flexible moves for White, but what happens on r17 ?]TR[re];B[re]C[];W[ob]TR[nb]
+(;B[nb];W[oc]TR[od];B[od];W[rb]C[s18 looks like the best try, but.. Now, kill White !]
+(;B[rd]
+(;W[qa]
+(;B[pc];W[pb]
+(;B[rc];W[sb]
+(;B[oa]C[I dont know if it is the best defense, but it looks hard to do something good to live.RIGHT])
+(;B[qb];W[oa];B[qc]C[Works, but p19 instead of r18 probably better.RIGHT]))
+(;B[sb];W[rc];B[sc];W[oa]C[])
+(;B[oa];W[rc];B[na];W[pa]
+(;B[sc];W[sb]C[])
+(;B[ra];W[sa];B[sc];W[sb]C[])))
+(;B[rc];W[sb];B[pc];W[pb];B[oa]C[RIGHT])
+(;B[oa];W[pc]
+(;B[pa];W[pb]
+(;B[rc];W[na]
+(;B[oa];W[sb]C[])
+(;B[sb];W[oa];B[ra]C[Only ko]))
+(;B[na];W[rc]C[]))
+(;B[rc];W[sb];B[pa]C[RIGHT])))
+(;W[pb];B[qa];W[ra];B[sb];W[sc];B[rc]C[RIGHT])
+(;W[qb];B[pc];W[pb];B[sb]C[RIGHT])
+(;W[pc];B[sb]C[RIGHT])
+(;W[rc];B[pb];W[pc];B[oa];W[pa];B[qa];W[qb];B[pa];W[ra];B[na]C[RIGHT])
+(;W[pa];B[pc];W[pb];B[rc]C[RIGHT]))
+(;B[pc];W[rd]
+(;B[sc];W[pb]
+(;B[sd];W[sb]
+(;B[oa];W[qa];B[se];W[rc]C[])
+(;B[qa];W[ra];B[oa];W[qb]C[])
+(;B[se];W[rc];B[qa];W[ra];B[oa];W[qb]C[]))
+(;B[qa];W[ra];B[sd];W[sb]))
+(;B[pb];W[sc];B[ra];W[qa];B[qb];W[sa]C[])
+(;B[sd];W[sc];B[qb];W[se]
+(;B[pb];W[ra]C[])
+(;B[ra];W[pb];B[qa];W[sa]C[]))
+(;B[qb];W[pb];B[sd];W[qa];B[sc];W[sb];B[oa];W[rc]C[]))
+(;B[sc]
+(;W[sb]
+(;B[rd];W[pb];B[qa];W[ra]C[])
+(;B[sd];W[pb];B[qa];W[ra]C[])
+(;B[pb];W[pc];B[oa];W[qb];B[pa];W[qa];B[na];W[sd];B[rd]C[RIGHT])
+(;B[qa]
+(;W[pa]
+(;B[pc];W[ra];B[pb]C[RIGHT])
+(;B[pb];W[qb];B[oa];W[pc];B[pa];W[ra];B[na];W[sd];B[rd]C[RIGHT]))
+(;W[qb];B[oa]C[RIGHT])
+(;W[pb];B[ra]C[RIGHT])
+(;W[ra];B[oa]C[RIGHT]))
+(;B[oa]
+(;W[pb];B[qa]
+(;W[pa];B[ra]C[RIGHT])
+(;W[ra];B[pa]C[RIGHT]))
+(;W[pa]
+(;B[pb];W[na];B[pc];W[mb]
+(;B[qb];W[qa];B[rc]C[W will find it difficult to escape, but there is better ways of killing.RIGHT])
+(;B[qa];W[qb];B[oa]C[Clean, well done !RIGHT]))
+(;B[na];W[pb]
+(;B[pc];W[qa];B[rc];W[rd]C[])
+(;B[sd];W[qa];B[pc];W[rc]C[]))))
+(;B[pa];W[qa];B[pb];W[oa];B[pc]C[RIGHT]))
+(;W[qa];B[sb];W[pb];B[oa]C[RIGHT]))
+(;B[pb]
+(;W[rd]
+(;B[qb];W[ra]
+(;B[sc];W[pc]C[])
+(;B[sd];W[pc]C[]))
+(;B[ra];W[qb]
+(;B[sc];W[pc];B[sd];W[sb]C[])
+(;B[pc];W[qa];B[sc];W[sd]C[]))
+(;B[sc]
+(;W[pc];B[sd];W[sb];B[oa])
+(;W[sb])
+(;W[sd]
+(;B[pc]
+(;W[qb];B[qa]C[RIGHT])
+(;W[sb];B[ra]C[RIGHT]))
+(;B[sb];W[pc]C[]))))
+(;W[pc]
+(;B[rd];W[pa];B[sb];W[sc];B[rc];W[sa]C[])
+(;B[sc];W[sb])
+(;B[oa];W[rd];B[sc];W[qb];B[pa];W[qa];B[na];W[sd]C[])))
+(;B[qa];W[rd];B[oa]
+(;W[ra];B[sc]C[RIGHT])
+(;W[sc];B[ra]C[RIGHT]))))

@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[15k]DP[60]SO[ldan]CO[7]SZ[19]AW[kf]AW[lf]AW[ig]AW[jg]AW[kh]AW[lh]AW[ji]AW[mi]AW[ni]AW[nj]AW[oj]AW[fk]AW[jk]AW[kk]AW[ok]AW[kl]AW[ml]AW[lm]AW[nm]AW[jn]AW[kn]AW[ln]AW[on]AW[jo]AB[if]AB[jf]AB[mf]AB[nf]AB[kg]AB[lg]AB[mg]AB[mh]AB[nh]AB[oh]AB[fi]AB[li]AB[oi]AB[lj]AB[ik]AB[lk]AB[il]AB[jl]AB[ll]AB[jm]AB[km]AB[in]AB[io]AW[ij]LB[ij:1]AW[mk]TR[ll]TR[lk]TR[lj]TR[li]C[Rescue the marked black stones]AW[gg]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[digikid]PB[me]
+(;B[ki]
+(;W[jh]
+(;B[jj];W[kj]
+(;B[jj]C[EasyRIGHT])
+(;B[ii];W[mj]C[oops!])
+(;B[hj];W[mj]C[oops!]))
+(;B[mj];W[kj]C[hmm...been drinking?])
+(;B[kj];W[jj]C[I hope the mouse slipped!])
+(;B[hj];W[jj])
+(;B[ii];W[jj]))
+(;W[jj];B[jh]C[RIGHT];W[ih]C[This is a better response by white (but white plays dumb so a beginner sees the snapback)]))
+(;B[kj];W[jj])
+(;B[jj];W[kj]C[You can't atari]TR[ki]TR[mj])
+(;B[hj];W[jj]C[You stuck to the plan, you were supposed to save the stones.]TR[lk]TR[ll]TR[lj]TR[li])
+(;B[ii];W[jj];B[ki];W[jh])
+(;B[mj]C[Feeling tired of life?])
+(;B[hg];W[kj]
+(;B[ki];W[mj])
+(;B[ih];W[jh]
+(;B[ii];W[mj];B[hj];W[ki])
+(;B[hj];W[mj];B[ii];W[ki]))
+(;B[hh];W[hj]
+(;B[ih];W[jh])
+(;B[jh];W[ih])))
+(;B[ih];W[jh];B[jj];W[kj]TR[mj]TR[ki]C[not like that])
+(;B[jh];W[ih])
+(;B[hh];W[hg]))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2d]DP[13]SO[santa c]CO[0]AB[aq]AB[bq]AB[br]AB[dq]AB[eq]AW[ar]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[fq]AW[gq]C[W to move]AW[iq]AW[hq]AW[jq]AW[kr]AP[goproblems]
+(;W[er];B[dr]
+(;W[ds];B[fr]
+(;W[cr];B[es];W[cq];B[cs]
+(;W[gs];B[gr];W[hs];B[hr];W[is]C[nice! :)RIGHT])
+(;W[bs];B[gr]C[ko! white has lots of threats at g1,h1 etc though :)]))
+(;W[fs];B[es]C[ko])
+(;W[cq];B[cr]LB[fs:1]C[ko]))
+(;W[fr];B[as])
+(;W[fs];B[as])
+(;W[as];B[fr])
+(;W[cq];B[cr]LB[ds:1]LB[fr:2]C[ko]))
+(;W[dr];B[er]
+(;W[cq];B[cr])
+(;W[es];B[cr]))
+(;W[cq];B[cr]
+(;W[er];B[dr]C[ko]LB[ds:1]LB[fr:2])
+(;W[ds];B[cs]MA[er]MA[as]C[])
+(;W[es];B[dr])
+(;W[fr];B[as]LB[dr:1]LB[cs:2]MA[es]MA[ds]C[leaving nice endgame for b as well... :)]))
+(;W[fr];B[ds]
+(;W[er];B[dr];W[cq];B[cr];W[bs];B[as]C[ko])
+(;W[cq];B[cr]))
+(;W[cr];B[cq])
+(;W[fs];B[dr]LB[ds:1]LB[cs:2])
+(;W[es];B[dr]LB[ds:1]LB[cs:2])
+(;W[ds];B[er]C[ko]LB[fr:1]LB[cs:2]LB[cr:3]LB[cq:4]LB[bs:5]LB[es:6]LB[fs:7]LB[as:8])
+(;W[cs];B[dr]))

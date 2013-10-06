@@ -1,0 +1,22 @@
+(;GE[life and death]DI[2d]DP[13]SO[mrmoto]CO[7]AW[sr]AW[rr]AW[qq]AW[pq]AW[or]AW[ps]AB[qs]AB[os]AB[ns]AB[rq]AB[sq]AB[qp]AB[pp]AB[oq]AB[rp]AB[op]AB[nq]AB[lq]AB[mq]AB[kq]C[How many ko threats does white need to live?FORCE]AB[iq]AB[jq]AW[is]AW[ir]AB[hs]AB[hr]AB[hq]AB[hp]AB[ho]AB[hn]AB[hm]AB[im]AB[jm]AB[lm]AB[km]AB[nm]AB[mm]AB[pm]AB[om]AB[pn]AB[po]LB[io:0]LB[ko:2]LB[mo:5]LB[oo:923]AP[goproblems]
+(;B[io]C[Too few.])
+(;B[ko]C[Too few.])
+(;B[oo]C[];W[on]C[No, seriously, how many ko threats does white need?FORCE]LB[io:0]LB[ko:2]LB[mo:5]
+(;B[io]C[Too few.])
+(;B[ko]C[Too few.])
+(;B[mo]C[Great!  Now start again.]))
+(;B[mo];W[qr]C[Correct.  Now show black's best attack against white.]
+(;B[rs]C[That wastes a ko threat.])
+(;B[nr];W[rs]C[Now white only needs one ko threat.])
+(;B[pr];W[in]LB[io:K]C[Please play at K.FORCE];B[io];W[ps]
+(;B[nr];W[rs]C[Now white only needs one more ko threat.])
+(;B[rs];W[nr]
+(;B[pr];W[jn]LB[jo:K]C[Please play at K.FORCE];B[jo];W[ps]
+(;B[ms];W[mr];B[pr];W[kn]LB[ko:K]C[Please play at K.FORCE];B[ko];W[ps]
+(;B[ls];W[lr];B[pr];W[ln]LB[lo:K]C[Please play at K.];B[lo];W[ps]
+(;B[ks];W[kr];B[pr]C[Well done! :)   White survives here only if she has one more ko threat.RIGHT])
+(;B[pr]C[NOTTHIS]))
+(;B[pr]C[NOTTHIS]))
+(;B[pr]C[NOTTHIS]))
+(;B[mr];W[ms]C[White lives.]))
+(;B[pr]C[NOTTHIS]))))

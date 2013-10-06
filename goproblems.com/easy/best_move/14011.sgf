@@ -1,0 +1,56 @@
+(;GE[best move]DI[5k]DP[34]SO[duelas]CO[0]AW[rq]AW[qq]AW[pq]AW[pp]AW[qr]AB[pr]AW[or]AB[op]AB[oq]AB[no]AB[on]AB[po]AW[nq]AW[mq]AW[lq]AW[kr]AB[kq]AB[jp]AB[lp]AB[ko]AW[iq]AW[ip]AB[lo]AB[in]AB[ho]AB[hp]AB[fo]AB[fp]AB[fq]AB[fr]AB[fs]AB[es]AB[qp]AB[rp]AB[rn]AB[qn]AB[so]C[Black to do the best]AW[eo]AW[eq]AW[er]AW[ep]AW[dq]AW[cq]AW[bq]AW[cr]AW[cs]AB[dr]AB[ds]AW[ap]AW[an]AW[bm]AW[bl]AB[al]AB[bk]AB[cl]AB[cm]AW[cn]AW[dn]AB[bn]AB[bo]AB[bp]AB[co]AB[do]AB[dp]AW[dm]AW[em]AW[el]AW[fn]AW[fk]AW[gl]AB[dl]AB[dk]AB[dj]AB[di]AB[ek]AW[ei]AW[ej]AW[il]AW[gj]AW[hj]AW[ij]AB[gn]AB[im]AP[goproblems]
+(;B[jr];W[jq]C[what are you going to do?]
+(;B[kp]C[RIGHT]
+(;W[lr];B[ir]
+(;W[hr]C[Although white can tenuki... just go on];B[hq];W[js];B[io];W[is]C[Nice~RIGHT];B[hs]C[a yose tesuji]
+(;W[ks];B[gr])
+(;W[gs];B[gr]
+(;W[hs];B[ks])
+(;W[ks];B[hs])))
+(;W[hq];B[hr]C[Nice~RIGHT])
+(;W[js];B[hr]C[White gets senteRIGHT]))
+(;W[ir];B[lr]
+(;W[js];B[nr]
+(;W[ps];B[mr];W[ls];B[np];W[ns];B[mp];W[ms]C[Very nice~RIGHT])
+(;W[mr];B[os]
+(;W[ls]C[Black gets the cornerRIGHT])
+(;W[ms]C[Black gets the cornerRIGHT])))
+(;W[ks];B[nr];W[os];B[mr];W[ls];B[np];W[ns];B[mp];W[ms]C[Very nice~RIGHT])))
+(;B[lr]C[Black can do better instead of ko])
+(;B[nr];W[ps]
+(;B[lr])
+(;B[kp])))
+(;B[jq];W[jr];B[hr];W[ir];B[io]C[Black can do much better])
+(;B[lr];W[jq]C[k2 may be better than m2]
+(;B[kp]C[RIGHT]
+(;W[mr];B[jr];W[ls];B[ir]
+(;W[hr];B[hq];W[is];B[io];W[js]C[Very nice~RIGHT];B[hs]C[a yose tesuji];W[gs];B[gr]
+(;W[ks])
+(;W[hs];B[ks];W[js]))
+(;W[hq];B[hr]C[Nice~RIGHT])
+(;W[js];B[hr]C[White gets senteRIGHT]))
+(;W[jr];B[nr]
+(;W[ps];B[mr];W[ls];B[mp];W[ns];B[np]C[];W[ms]C[Very nice~RIGHT])
+(;W[mr];B[os]
+(;W[ms]C[Black can kill the white group :DRIGHT];B[is]
+(;W[js];B[ls];W[hs];B[hr];W[ir]C[Black captures all white stonesRIGHT])
+(;W[ls];B[js]
+(;W[hs];B[hr];W[ir];B[gs]C[Black captures all white stonesRIGHT])
+(;W[hr];B[hs]C[Black captures all white stonesRIGHT])))
+(;W[ls];B[ms];W[ns]C[koRIGHT]))))
+(;B[jr]C[Black can do better instead of ko])
+(;B[nr];W[ps]
+(;B[kp];W[mr];B[jr];W[ls];B[ir];W[js];B[hr]C[RIGHT])
+(;B[jr];W[kp]C[Black can do better])
+(;B[mr];W[kp]C[Black have a better way])))
+(;B[nr];W[ps]
+(;B[jr];W[jq]
+(;B[kp];W[lr];B[ir];W[js];B[hr]C[RIGHT])
+(;B[lr]C[];W[kp]C[Black have a better way]))
+(;B[lr]
+(;W[mr];B[jr];W[ls]
+(;B[jq]C[RIGHT]))
+(;W[jr];B[mr];W[ls];B[mp];W[ns];B[np];W[ms]C[RIGHT])))
+(;B[ir];W[jr]
+(;B[hr];W[jq]C[Black can do better])
+(;B[jq];W[hr]C[Black can do better])))

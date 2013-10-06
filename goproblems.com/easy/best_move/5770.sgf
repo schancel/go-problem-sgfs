@@ -1,0 +1,22 @@
+(;GE[best move]DI[8k]DP[48]SO[maba]CO[7]AB[cb]AB[dc]AB[dd]AB[de]AB[ee]AW[ed]AW[ec]AW[eb]AW[db]AB[fb]AB[fc]AB[fd]AW[fe]AW[ge]AW[gd]AW[ef]AW[df]AW[cg]AW[ch]AB[cf]AW[cc]LB[cc:1]C[Black to answer white 1.]AW[hc]AW[hb]AP[goproblems]
+(;B[bd];W[bb])
+(;B[bb];W[ce])
+(;B[ce];W[bb])
+(;B[be];W[bb])
+(;B[cd];W[bc]
+(;B[bd];W[bb])
+(;B[bb];W[bd]
+(;B[ea];W[ce])
+(;B[da];W[ce])
+(;B[ce];W[bf]))
+(;B[da];W[bd];B[ea];W[bf]C[Unnecessary loss of points.])
+(;B[ea];W[bd];B[da];W[bf]C[Unnecessary loss of points.]))
+(;B[bc];W[cd]
+(;B[ce];W[bf]
+(;B[be];W[ae];B[bd];W[bg]C[RIGHT])
+(;B[bd]C[B15 is better.RIGHT])
+(;B[da];W[be])
+(;B[ea];W[be]))
+(;B[bd];W[ce]))
+(;B[da];W[ce];B[ea];W[cd]C[Unnecessary loss of points.])
+(;B[ea];W[ce];B[da];W[cd]C[Unnecessary loss of points.]))

@@ -1,0 +1,8 @@
+(;GE[life and death]DI[20k]DP[71]SO[pumppy]CO[0]AB[gs]AB[gr]AB[gq]AB[gp]AB[lp]AB[mp]AB[mq]AB[mr]AB[ms]AW[lq]AW[lr]AW[ls]AW[kq]AW[iq]AW[hq]AB[ks]AB[is]AW[hr]AW[hs]AB[kp]AB[jp]AB[ip]AB[hp]AW[jq]C[My first problem. Enjoy!Choose the resultCHOICE]LB[go:KO]LB[mo:ALIVE]LB[ns:DEAD]LB[fs:SEKI]AP[goproblems]
+(;W[fs]C[];B[as]C[Prove];W[jr];B[js]C[Good! White gets seki in sente.RIGHT])
+(;W[go];B[aa]
+(;W[jr];B[js])
+(;W[js];B[jr]))
+(;W[mo];B[ss];W[jr];B[js]C[Close...but not alive])
+(;W[ns]
+(;B[sa];W[jr];B[js])))

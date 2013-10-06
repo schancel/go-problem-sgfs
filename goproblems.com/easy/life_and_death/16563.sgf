@@ -1,0 +1,13 @@
+(;GE[life and death]DI[5k]DP[33]SO[Cei]CO[0]AB[bd]AB[ae]AB[bf]AB[ce]AB[de]AB[dh]AB[ci]AB[bi]AB[bj]AB[aj]AB[ak]AB[al]AW[am]AW[bm]AW[bl]AW[bk]AW[ck]AW[cj]AW[di]AW[ei]AW[ej]AW[fj]AW[ek]AW[el]AW[fg]AW[ee]AW[gf]AW[dd]AW[dc]AW[cd]AW[bc]C[Black must have been falling asleep during the endgame when he replied to 1 with 2.  White to kill.]AW[fh]AB[eg]AW[bg]AW[eh]AB[dg]AW[ef]LB[eh:1]LB[eg:2]AP[goproblems]
+(;W[ch];B[cg];W[bh];B[df]C[White could have killed the entire group.CHOICE])
+(;W[df]C[Black cannot prevent a killing move at A or B.RIGHT]LB[cf:A]LB[cg:B])
+(;W[cf];B[df]
+(;W[ch];B[cg]C[White could have killed the entire group.CHOICE])
+(;W[cg];B[ch]C[CHOICE])
+(;W[bh];B[ch]C[CHOICE]))
+(;W[cg];B[ch]
+(;W[df]C[White A kills black.  If black blocks at A, white can reply at any of the marked intersections.RIGHT]LB[bh:A]MA[cf]MA[ah]MA[ai]MA[ag])
+(;W[cf];B[df]))
+(;W[bh];B[df]
+(;W[cg];B[ch]C[CHOICE])
+(;W[ch];B[cg]C[White could have killed the entire group.  Thanks to MeleeNewb for this variation!CHOICE])))

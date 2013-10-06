@@ -1,0 +1,21 @@
+(;GE[life and death]DI[7k]DP[41]SO[happyboy]CO[9]AW[aa]AW[ba]AW[ab]AW[bb]AW[cc]AW[dc]AW[db]AW[eb]AW[fb]AW[fa]AB[ac]AB[bc]AB[cd]AB[be]AB[dd]AB[ed]AB[fc]AB[gb]AB[ga]AB[hd]AP[goproblems]
+(;B[da];W[ca];B[cb];W[bb]
+(;B[ca];W[ba]
+(;B[ab];W[ea];B[ca]C[White is dead! Nice job!RIGHT])
+(;B[ec];W[ea]
+(;B[ab];W[ca]C[White is alive!])
+(;B[ca];W[ab]C[White is alive!]))
+(;B[aa];W[ea]
+(;B[ab];W[ca]C[White is alive!])
+(;B[ca];W[ab]C[White is alive!])))
+(;B[ba];W[ca]C[Only ko, black can do better!])
+(;B[ab]
+(;W[ca];B[aa];W[ea];B[ba]C[White is dead! Nice job!RIGHT])
+(;W[ba]
+(;B[aa];W[ca];B[cb]C[White is dead! Nice job!RIGHT])
+(;B[ca];W[ea];B[ca]C[RIGHT])))
+(;B[aa];W[ba]
+(;B[ab])
+(;B[ca])))
+(;B[ca];W[da];B[cb];W[bb]C[White is alive!])
+(;B[cb];W[ca]C[White is alive!]))

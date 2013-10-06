@@ -1,0 +1,24 @@
+(;GE[life and death]DI[20k]DP[72]SO[cen2y]CO[7]AB[ps]AW[pr]AW[pq]AW[qq]AW[rq]AW[sq]AB[os]AB[or]AB[oq]AB[pp]AB[np]AB[qp]AB[rp]AB[sp]AW[mq]AW[lq]AW[kq]AB[kp]AB[lp]AB[mp]AW[nq]AB[jq]AB[nr]AB[mr]AW[lr]AW[ms]AW[ls]AW[ns]AW[jr]AW[js]AB[sr]AW[iq]AB[jp]AW[ir]AP[goproblems]
+(;W[qs];B[op]
+(;W[rr]C[Wee, no more mr. cyclopRIGHT]LB[qr:I]LB[sr:II]LB[ss:II]LB[rs:iii])
+(;W[rs];B[rr]C[PIRATE!]LB[qr:I]LB[rr:I]LB[sr:I]LB[ss:I])
+(;W[qr]C[PIRATE!]LB[rr:I]LB[rs:I]LB[sr:I]LB[ss:I])
+(;W[ss];B[rr]C[PIRATE!]LB[rr:I]LB[rs:I]LB[qr:I]LB[sr:I]))
+(;W[rr];B[qs]C[White can only get one eye.])
+(;W[rs];B[rr]
+(;W[qs];B[op]C[Only 1 eye left.]LB[qr:I]LB[rr:I]LB[sr:I]LB[ss:I])
+(;W[qr]C[];B[op]C[Only 1 eye left]LB[ss:I]LB[sr:I]LB[rr:I]))
+(;W[ss];B[qs]
+(;W[rr];B[rs])
+(;W[rs];B[rr]))
+(;W[op];B[qs]
+(;W[oo];B[rr]C[The white R3 group is short on liberties.]TR[qr])
+(;W[rs];B[oo]C[You have but one eye left.]LB[rr:I]LB[sr:I]LB[ss:I])
+(;W[rr];B[rs]
+(;W[ss];B[oo]C[No real eyes left.])
+(;W[oo];B[qr])))
+(;W[oo];B[op]
+(;W[qs];B[rr]C[Only 1 eye.]LB[qr:I]LB[rr:I]LB[sr:I]LB[rs:I]LB[ss:I])
+(;W[rr];B[qs]C[Only 1 eye.]LB[sr:I]LB[ss:I])
+(;W[rs];B[qs]C[Only 1 eye.]LB[rr:I]LB[sr:I]LB[ss:I]))
+(;W[qr];B[qs];W[rs];B[op]LB[rr:I]LB[sr:I]LB[ss:I]C[1 eye]))

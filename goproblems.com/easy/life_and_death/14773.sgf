@@ -1,0 +1,72 @@
+(;GE[life and death]DI[4k]DP[30]SO[Karen B]CO[0]C[Black to play at a tough comb formation. What is the best result?FORCE]AB[sb]AW[ra]AW[rb]AB[rc]AB[rd]AB[qd]AB[pd]AB[od]AB[nc]AB[mc]AB[kc]AW[qc]AW[pc]AW[oc]AW[nb]AP[goproblems]
+(;B[pb];W[pa];B[oa];W[qb];B[qa]C[The result is ko.RIGHT])
+(;B[na];W[mb]
+(;B[ob];W[pb]
+(;B[pa]C[The result is ko.];W[oa]C[but white takes first ...])
+(;B[oa];W[pa]C[White lives.]))
+(;B[pa]
+(;W[ob];B[lb];W[ma];B[oa];W[pb])))
+(;B[mb];W[na]C[White lives. This is the comb formation.])
+(;B[pa];W[pb]
+(;B[na];W[ma]
+(;B[mb];W[oa];B[la];W[qa];B[na];W[ob]C[White lives.])
+(;B[la];W[mb];B[lb];W[oa]C[White lives.])
+(;B[oa];W[mb]C[White lives.]))
+(;B[mb];W[oa]
+(;B[qa];W[na];B[ma];W[qb]C[White lives.])
+(;B[ma];W[qa];B[na];W[ob]C[White lives.])
+(;B[na];W[ma]))
+(;B[sc];W[oa]C[White lives.])
+(;B[oa];W[qa]
+(;B[mb];W[na]C[White lives.])
+(;B[na];W[mb];B[lb];W[ma]C[White lives.])
+(;B[sc];W[na]C[White lives.])
+(;B[ma];W[na]C[White lives.]))
+(;B[ob];W[oa]C[Oops! White lives.])
+(;B[qb];W[qa]C[Oops! White lives.])
+(;B[ma];W[na]
+(;B[mb];W[qa]C[White lives.])
+(;B[qa];W[oa]C[White lives.])))
+(;B[sc]
+(;W[na]C[White lives in the comb formation.])
+(;W[mb]
+(;B[pa];W[pb]
+(;B[oa];W[na]
+(;B[qa];W[ob];B[sa];W[qb]
+(;B[lb];W[pa]C[White lives.])
+(;B[pa];W[lb]C[White lives.]))
+(;B[lb];W[qa]C[White lives.])
+(;B[sa];W[ob];B[qa]))
+(;B[qa];W[oa]C[White lives.]))
+(;B[pb];W[pa]
+(;B[ob];W[qb]C[White lives.])
+(;B[qb];W[ob]C[White lives.])
+(;B[qa];W[qb])
+(;B[oa];W[ob];B[qa];W[lb];B[kb];W[na]
+(;B[la];W[qb]C[White lives.])
+(;B[pa];W[la]C[White lives.])))
+(;B[lb];W[pb]C[White lives.])))
+(;B[ob];W[pb]
+(;B[oa];W[pa]C[White lives.])
+(;B[mb];W[na];B[ma];W[oa]C[White lives.])
+(;B[na];W[oa];B[mb];W[ma];B[la];W[qa]))
+(;B[qb];W[pb];B[mb];W[oa]C[White lives.])
+(;B[qa];W[pa];B[mb];W[qb]
+(;B[ob];W[na]C[White lives.])
+(;B[na];W[ob]C[White lives.]))
+(;B[ma];W[na];B[mb];W[pb]C[White lives.])
+(;B[sa];W[sc]C[Oops! Try again, please.])
+(;B[lb];W[na]C[White lives.])
+(;B[la];W[na]C[White lives.])
+(;B[oa];W[pb]
+(;B[mb];W[na]
+(;B[ma];W[ob]C[White lives.])
+(;B[pa];W[qa]C[White lives.]))
+(;B[na];W[mb];B[lb];W[ma]
+(;B[la];W[ob]C[White lives.])
+(;B[pa];W[qa]C[White lives.]))
+(;B[pa])
+(;B[ma];W[na]C[White lives.])
+(;B[sc];W[pa]
+(;B[na];W[mb];B[lb];W[ma]C[White lives.])
+(;B[mb];W[na]C[White lives.]))))

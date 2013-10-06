@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[6k]DP[36]SO[Munisai79]CO[6]AW[hl]AW[il]AW[im]AW[kl]AW[km]AB[hm]AB[gm]AB[gl]AB[in]AW[jo]AW[ko]AB[io]AB[ip]AB[lm]AB[ll]AB[lk]AB[hj]AB[ii]AB[ih]AW[hi]AW[hh]AW[hg]AW[gk]AW[fk]AW[ej]AW[fi]AB[dg]AB[dh]AB[di]AB[dj]AB[ek]AB[em]AB[el]C[Black to play and split the white stones.  Please avoid unnecessary moves.]AW[ln]AW[ff]AP[goproblems]
+(;B[hk];W[ij];B[ik];W[jj];B[jk];W[kk];B[kj];W[ji]
+(;B[jm]C[Great job!RIGHT])
+(;B[jh];W[ki]
+(;B[lj];W[gj])
+(;B[jm];W[lj];B[jl];W[kg]C[You captured a few stones, but white is still connected.]
+(;B[kn];W[jn])
+(;B[kh];W[lh])
+(;B[jg];W[jf])
+(;B[jn];W[kn])))
+(;B[ki];W[jh];B[jm]C[Good job!RIGHT]))
+(;B[gj];W[fj]
+(;B[hk];W[ij];B[ik];W[jj];B[jk];W[kk];B[kj];W[ji]
+(;B[jm]C[Good job!RIGHT])
+(;B[ki];W[jh];B[jm]C[Good job!RIGHT])
+(;B[jh];W[ki]
+(;B[lj];W[gi])
+(;B[jm];W[lj];B[jl];W[kg]C[White remains connected.])))
+(;B[gi];W[gh]
+(;B[fh];W[eh];B[fg];W[eg])
+(;B[ij];W[hk])
+(;B[hk];W[ij])))
+(;B[ij];W[hk];B[gj];W[fj];B[gi];W[fh];B[gh];W[gg])
+(;B[ik];W[hk];B[gj];W[gi];B[ij];W[fj]))

@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[5d]DP[4]SO[plung]CO[0]AB[qd]AW[dd]AB[pp]AW[dp]AW[nq]AB[oc]AW[rd]AB[qc]AB[pb]AB[nd]AB[md]AB[le]AB[kd]AB[kf]AB[lg]AB[mf]AB[mh]AB[mi]AB[nj]AB[pj]AB[pi]AB[qj]AB[rk]AB[nk]AB[nl]AB[mm]AB[mo]AB[om]AB[on]AB[pn]AB[pq]AB[or]AB[ps]AB[lp]AB[lq]AB[ko]AB[in]AB[gp]AB[fq]AB[cp]AB[cq]AB[dr]AB[ds]AB[es]AB[cm]AB[cn]AB[dn]AB[en]AB[em]AB[el]AB[fm]AB[gm]AB[hm]AB[hl]AB[il]AB[hj]AB[jj]AB[jk]AB[kk]AB[jg]AB[ig]AB[hh]AB[gh]AB[gg]AB[fh]AB[ei]AB[eg]AB[dg]AB[ch]AB[cf]AB[ab]AB[ba]AB[bc]AB[cc]AB[dc]AB[fc]AB[gc]AB[gb]AW[ac]AW[ad]AW[bd]AW[ce]AW[df]AW[ef]AW[ff]AW[fg]AW[cg]AW[bg]AW[bh]AW[ci]AW[dj]AW[ck]AW[cl]AW[dl]AW[dm]AW[ek]AW[fl]AW[gl]AW[gk]AW[gj]AW[gi]AW[hf]AW[if]AW[jf]AW[hb]AW[hc]AW[jc]AW[kc]AW[lc]AW[ld]AW[mc]AW[nc]AW[ob]AW[ok]AW[ol]AW[pm]AW[ql]AW[rm]AW[qn]AW[qq]AW[qr]AW[rr]AW[pr]AW[oq]AW[nr]AW[mp]AW[lo]AW[jp]AW[jq]AW[eq]AW[er]AW[fr]AW[fs]AW[fp]AW[fo]AW[go]AW[hn]AW[im]AW[jm]AW[jl]AW[jn]AW[km]AW[ll]AW[lk]AW[lj]AW[kj]AW[kh]AW[kg]AW[lh]AW[qi]TR[ko]C[What is white's best answer to the marked stone?]AP[goproblems]
+(;W[ih];B[jh];W[ik]C[];B[hk];W[ln]C[];B[lm];W[kn]
+(;B[kl]C[Bad move, obviously.];W[ji]C[To show how black dies.RIGHT])
+(;B[hg];W[kl];B[gf]C[May become useful.RIGHT])
+(;B[ji]C[CHOICE];W[kl]C[After an exchange at W H11, B J11, whichever side gets the triangled spot can change black's territory from 3 - 5 points. There is another way where black has only 4 points.RIGHT]TR[hg]))
+(;W[ln];B[lm]
+(;W[kn];B[kl]C[]
+(;W[ih];B[jh];W[ii];B[ji];W[hi];B[hg];W[ik];B[ij];W[hk];B[ej];W[fk];B[li]C[Black wins the capturing race! =(])
+(;W[ii];B[hi];W[ik];B[ij];W[hk];B[ji]C[Black wins the capturing race! =(]))
+(;W[kl];B[kn]C[You saved your stones but black saved his. You don't have enough!])
+(;W[ii];B[hi];W[kn];B[kl]C[Oops!])
+(;W[ik];B[hk];W[ii];B[hi]
+(;W[kl];B[kn]C[Oh no! It's not sente anymore!])
+(;W[ih];B[kn]C[Oh no! It's not sente anymore!])
+(;W[kn];B[ji]
+(;W[jh];B[ih];W[kl]C[RIGHT])
+(;W[kl]C[Close - White can get in a forcing move at the triangled spot.]TR[jh]))))
+(;W[ii];B[hi];W[ik];B[hk]
+(;W[ih];B[ln]C[Oh no! It's not sente anymore!]TR[ih])
+(;W[ln]C[Correct! This is another solution that works!];B[lm];W[kn];B[ji]
+(;W[jh];B[ih];W[kl]C[Black has four points in that area! There is another variation, please check.RIGHT])
+(;W[kl]C[Close - White can get a forcing move at the triangled spot.]TR[jh])))
+(;W[jo];B[ln]C[Not enough for white!])
+(;W[ik];B[hk]
+(;W[ii];B[hi]
+(;W[ih];B[ln]C[Oh no! It's not sente anymore!])
+(;W[ln]C[Correct! This is another solution that works!];B[lm];W[kn];B[ji]
+(;W[jh];B[ih];W[kl]C[Black has four points in that area! There is another variation, please check.RIGHT])
+(;W[kl]C[Close - White can get a forcing move at the triangled spot.]TR[jh])))
+(;W[ih];B[jh];W[ln];B[lm];W[kn];B[ji];W[kl]C[After an exchange at W H11, B J11, whichever side gets the triangled spot can change black's territory from 3 - 5 points. There is another way where black has only 4 points.RIGHT]TR[hg])))

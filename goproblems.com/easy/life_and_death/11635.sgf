@@ -1,0 +1,47 @@
+(;GE[life and death]DI[8k]DP[48]SO[Cow]CO[0]AB[rq]AB[qq]AB[pq]AW[ro]AW[qp]AW[pp]AB[op]AW[qn]AB[rp]AW[oq]AB[oo]AB[sr]AW[or]AW[ps]AW[qr]AB[pr]AW[mq]AW[kq]AB[mp]AW[np]AB[no]AW[nq]AW[lp]AB[mo]AB[kn]AW[pm]AW[qk]AB[ol]AB[om]C[Black to live in the corner.]AP[goproblems]
+(;B[rr];W[rs]
+(;B[ss];W[qs];B[os];W[qs];B[ps];W[sp]C[Black only has one eye.])
+(;B[qs]C[Ko is not good enough for black!])
+(;B[sp];W[qs]C[There is no way for black to escape so he dies with only one eye!];B[pn];W[qo];B[qm];W[rm];B[pl];W[rl]))
+(;B[sp];W[rs]C[Black has only one eye and is dead!])
+(;B[pn];W[qo]
+(;B[rr];W[rs]
+(;B[qs]C[Ko is not good enough!])
+(;B[ss];W[qs];B[os];W[qs]LB[ps:A]LB[sp:B]C[A and B are miai next. Both only making one eye, so black dies.]))
+(;B[sp];W[rs]C[Black dies.])
+(;B[rs];W[qs]
+(;B[sp]C[Black is alive, well done!RIGHT])
+(;B[os];W[ns];B[sp]C[You are alive, good work. Nevertheless you should not exchange p1 for o1, it does not help you anyhow.RIGHT])
+(;B[rr];W[os];B[sp]C[You live. Nice!RIGHT]))
+(;B[os];W[rs];B[rr];W[qs];B[ss];W[qs]C[Black is dead!])
+(;B[qm];W[sp]
+(;B[rs];W[qs]
+(;B[rm];W[so]C[White caputres the black corner])
+(;B[pl];W[rm];B[rl];W[so]C[Black cannot resuce the corner.]))
+(;B[sn];W[rm]
+(;B[ql];W[rl];B[pl]C[Black is dead in the corner.])
+(;B[pl];W[rl]C[Black is dead in the corner.]))))
+(;B[os];W[rs]C[];B[rr];W[qs];B[ss];W[qs]C[Black dies.])
+(;B[qs];W[rs]C[Black is dead.])
+(;B[rs];W[qs]
+(;B[sp]C[Black is alive. Good job!RIGHT])
+(;B[rr];W[os];B[sp]C[Black lives. Nice!RIGHT])
+(;B[os];W[ns]
+(;B[sp]C[You are alive, good work. Nevertheless you should not exchange p1 for o1, it does not help you anyhow.RIGHT])
+(;B[rr]C[RIGHT])))
+(;B[pl];W[sp]C[Black will get captured eventually. Try the variations if you want to see it.]
+(;B[rs];W[qs];B[pn];W[qo]
+(;B[rm]C[White can even play somewhere else now. If he is scared he can also play A to capture.]LB[so:A])
+(;B[qm];W[so]C[The black corner is captured.]))
+(;B[pn];W[qo];B[qm];W[rr]C[Black dies.]))
+(;B[po];W[qo]C[This exchange does not help black and is BAD! Please dont play it! ;-) Nevertheless, show me how to live! ;-)]
+(;B[rs];W[qs]
+(;B[sp]C[Correct.RIGHT])
+(;B[rr];W[os]C[You like to atari, right? :o)];B[sp]C[Alive. Well done.]))
+(;B[rr];W[rs]
+(;B[qs]C[Ko. This is no good.])
+(;B[ss];W[qs];B[os];W[qs]
+(;B[sp];W[ps]C[Black is dead.])
+(;B[ps];W[sp]C[Only one eye, you are dead!])))
+(;B[qs];W[rs]C[Dead.]))
+(;B[so];W[sp]C[Black is dead and there is no way to escape.]))

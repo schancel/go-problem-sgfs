@@ -1,0 +1,60 @@
+(
+;GE[best move]DI[5k]DP[33]SO[Spica]CO[6]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AW[cc][dd][df][cg][ch][bi][bj][ck][bl][bm][gm][hm][gl][fn][fp][fq][gr][hq][jq][kr][lq][lp][mp][mo][no][mn][mm][nm][om][pm][pn][pl][ok][oj][nj][mi][li][lh][lg][kg][jh][ii][jj][jk][ik][il][ig][jf][hf][gg][kd][kc][kb][jb][md][nd][oe][of][pc][qc][qb][rb][qi][ql][rk][rl][rm][ss][sr][sq][rr][qq][pq][pr][or][ps][qs]
+AB[sp][rp][rq][qp][pp][po][oo][on][nn][np][oq][nr][mq][lr][ms][os][qm][qn][rn][sm][rj][qj][pj][pk][ol][nl][ml][jn][hp][kj][ki][kh][mh][nh][oi][og][ph][qh][qd][qe][re][sd][rc][sb][me][mf][kf][ke][je][jd][jc][ib][he][fd][ec][ff][dg][dh][ci][cj][dj][dk][cl][dm][fl][gk][hk][hl][ij][hj][gj][bo][dp][eq][er][fr]
+C[Black's best move?]
+(
+;
+B[ns]
+C[A white play here would start a ko for this entire group and both white and black have a local ko-threat (T6/S5 for black and L1 for white). RIGHT]
+)
+(
+;
+B[db]
+C[Takes some territory but black has a group in danger. C18 would be better since white can't cut at D18 due to aji of D17 followed by C16.]
+)
+(
+;
+B[eo]
+C[Gote so white can erase gains at C6.]
+)
+(
+;
+B[bk]
+C[White can connect at A9 and needn't worry about cutting points above yet.]
+)
+(
+;
+B[cb]
+C[Takes territory but black has a group in danger. Note white can't cut at D18.]
+)
+(
+;
+B[gs]
+C[Sente due to weakness at L1 (otherwise black has J1 then L1) but there is a larger move.]
+)
+(
+;
+B[fh]
+C[Stops white reducing with F11 but there is a more urgent move for black.]
+)
+(
+;
+B[pf]
+C[A couple points in gote.]
+)
+(
+;
+B[ja]
+C[Gote.]
+)
+(
+;
+B[ks]
+C[Sente due to weakness at G1 (otherwise black has J1 then G1) but there is a more urgent move.]
+)
+)

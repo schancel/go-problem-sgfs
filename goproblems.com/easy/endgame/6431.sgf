@@ -1,0 +1,13 @@
+(;GE[endgame]DI[15k]DP[63]SO[Schizoid]CO[8]AB[an]AB[bn]AB[cn]AW[aq]AB[ap]AW[bp]AW[bo]AB[cp]AW[co]AB[do]AW[dp]AW[dq]AB[eo]AB[ep]AB[eq]AW[er]AW[dr]AB[gq]AW[fr]AW[gr]AB[hq]AB[hr]C[Black to play a nice endgame move.]AP[goproblems]
+(;B[bq]
+(;W[ao]C[CHOICE]
+(;B[ap]C[Well done! W is messed up!RIGHT])
+(;B[cq]C[Well done! W is messed up!RIGHT])
+(;B[ar];W[cq];B[ap];W[cp]))
+(;W[cq]C[CHOICE]
+(;B[br];W[ao])
+(;B[ar]C[];W[br]C[Well done! W is messed up! W must play this to live. (Thanks for Hans for showing me this and the continuations)]
+(;B[aq];W[bs]C[Nice!RIGHT])
+(;B[bs]C[Great!!! Ko for life!!!RIGHT])
+(;B[as]C[];W[bs]C[Oops.]))))
+(;B[ao];W[bq]C[There is something better.]))

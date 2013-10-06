@@ -1,0 +1,105 @@
+(;GE[endgame]DI[2k]DP[23]SO[py687]CO[0]AB[gr]AB[gq]AB[fo]AB[en]AB[go]AB[gp]AB[dn]AB[bn]AW[hq]AW[hs]AW[gs]AW[fn]AW[gn]AW[ho]AW[hn]AW[hp]AW[em]AW[dm]TR[gs]C[Show that White can't jump farther than an ogeima if she wants in. Try to get the best result, under the assumption that you have no ko threats.]AW[am]AW[hr]AB[an]AB[cn]AW[cm]AW[bm]AW[fm]AW[cr]AP[goproblems]
+(;B[fs];W[fr])
+(;B[es];W[er])
+(;B[ds]
+(;W[er]C[CHOICE]
+(;B[fr];W[fs])
+(;B[fs];W[fr])
+(;B[es];W[fs])
+(;B[dr];W[dq]))
+(;W[dr]C[CHOICE]
+(;B[er];W[fr])
+(;B[es];W[er]
+(;B[fr];W[fs])
+(;B[fs];W[fr]))
+(;B[fr];W[fs]
+(;B[er];W[es])
+(;B[es];W[er]))
+(;B[fs];W[fr];B[er];W[es]C[Both players made a mistake; ko is unnecessary.])))
+(;B[fr];W[fs]
+(;B[es];W[er])
+(;B[dr];W[ds])
+(;B[ds];W[dr])
+(;B[er];W[es]
+(;B[dr];W[ds])
+(;B[ds];W[dr])))
+(;B[dr];W[ds]
+(;B[es];W[er]
+(;B[fr];W[fs])
+(;B[cs];W[fs]
+(;B[ds];W[dq])
+(;B[fr];W[ds])
+(;B[eq];W[ds]C[White gets two tries with this ko.])))
+(;B[fs];W[fr]
+(;B[er];W[es])
+(;B[fq];W[er]))
+(;B[er];W[es])
+(;B[fr];W[fs]))
+(;B[er]
+(;W[es]
+(;B[ds]
+(;W[fs]C[CHOICE]
+(;B[fr])
+(;B[dr];W[fr]
+(;B[fq];W[eq]
+(;B[ep];W[dq])
+(;B[eo];W[dq])
+(;B[dq];W[ep]
+(;B[dp];W[eo];B[do];W[fp]C[Black can do much better!])
+(;B[eo];W[dp]
+(;B[cp];W[cq])
+(;B[cq];W[cp]
+(;B[bp];W[bq])
+(;B[bq]C[White lost extra stones.RIGHT])))))
+(;B[eq];W[fq]
+(;B[fp];W[ep]
+(;B[dp];W[eo];B[do]C[];W[cs]C[Black is dead. D:])
+(;B[eo];W[dp]C[Black will now have to fight for life.]))
+(;B[ep];W[fp];B[eo]C[Nicely sealed!RIGHT]))))
+(;W[fr]C[CHOICE]
+(;B[fs];W[fq]
+(;B[fp];W[eq];B[dq];W[ep];B[eo];W[dp];B[cp];W[es])
+(;B[es];W[eq]
+(;B[dq];W[dr]C[White can still aim for E5.])
+(;B[dr];W[dq]C[White can still aim for E5.])
+(;B[eo]
+(;W[cq]C[CHOICE])
+(;W[dq]C[CHOICE])
+(;W[dr]C[CHOICE])
+(;W[cs]C[CHOICE])))
+(;B[eq];W[es]C[]
+(;B[fp];W[fs];B[dr])
+(;B[dr];W[fp];B[eo];W[ep]
+(;B[fs];W[dp]
+(;B[dq];W[cq];B[cp];W[es]C[Ko is unnecessary.])
+(;B[cq];W[cp]
+(;B[dq];W[bq])
+(;B[br];W[bq])
+(;B[bq];W[bp]
+(;B[es];W[dq])
+(;B[ap];W[dq];B[br];W[es];B[cs];W[fs];B[bo];W[co];B[ao];W[do];B[aq]C[Not exactly well done, but you did it....])
+(;B[br];W[dq];B[cs]
+(;W[ap];B[es];W[ao];B[aq];W[co]C[White is overjoyed.])
+(;W[es];B[ap])))))
+(;B[dp];W[fs];B[dq]C[You did it, but in gote and with White taking a prisoner. :/RIGHT]))))
+(;B[fq];W[fs];B[dr])))
+(;B[fs]
+(;W[fr]C[CHOICE];B[ds];W[fs]C[White could also choose to ko with D2.]
+(;B[fq];W[dr])
+(;B[dr];W[fq]
+(;B[eq];W[fp];B[eo];W[ep];B[dp];W[cs];B[dq];W[cq]C[Black is dead. D:])
+(;B[fp];W[eq];B[dq];W[ep]
+(;B[eo];W[dp];B[cp];W[cq])
+(;B[dp];W[eo]))
+(;B[ep];W[fp];B[eo];W[eq];B[dq]C[Not bad! :)RIGHT])))
+(;W[ds]C[CHOICE];B[fr];W[eo]
+(;B[do];W[ep])
+(;B[ep];W[do]
+(;B[co];W[dp];B[dq];W[cp];B[bp];W[cq];B[bq];W[dr];B[br];W[eq];B[bs];W[fp])
+(;B[dp];W[co]
+(;B[cp];W[bo])
+(;B[bo];W[cp]
+(;B[bp];W[cq])
+(;B[cq];W[bp])))
+(;B[cp]C[RIGHT])))))
+(;W[fs];B[es];W[fr];B[eq];W[fq];B[ep];W[fp];B[eo])))

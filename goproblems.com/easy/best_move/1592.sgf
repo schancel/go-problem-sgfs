@@ -1,0 +1,44 @@
+(;GE[best move]DI[5k]DP[33]SO[chrisg]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+PW[White]PB[Black]AW[jm][km][lm][mm][nm][jn][nn][jo][no][hp][ip][jp][np][hq][nq][hr][nr][js][ms][ns]AB[kn][ln][mn][ko][mo][kp][mp][iq][jq][kq][mq][ir][mr][ls]LB[js:1]C[W has just played 1 - where should B respond]PL[B]
+(;B[lr]CR[lr]
+;W[is]CR[is]
+(;B[lp]LB[jr:A][ks:B]CR[lp]C[Black is alive with two points in gote - W can further reduce B to 2 points at 'A' or 'B' later - can do better])
+(;B[ks]CR[ks]
+;W[jr]CR[jr]
+;B[kr]CR[kr]
+;W[hs]CR[hs]
+;B[lp]CR[lp]C[Black is alive with 2 points in gote - can do better]))
+(;B[kr]CR[kr]
+;W[is]CR[is]
+(;B[ks]CR[ks]C[Black is alive with 4 points, in gote - can do better])
+(;B[lr]CR[lr]
+;W[lp]CR[lp]C[Black dies]))
+(;B[ks]CR[ks]
+;W[is]CR[is]
+;B[jr]CR[jr]
+;W[hs]CR[hs]C[RIGHT]C[B defends and retains 5 points in sente])
+(;B[is]CR[is]
+;W[lr]CR[lr]
+(;B[ks]CR[ks]
+;W[kr]CR[kr]
+;B[jr]CR[jr]
+;W[ks]CR[ks]
+;B[lq]CR[lq]
+;W[ls]CR[ls]C[Black dies])
+(;B[lq]CR[lq]
+;W[ks]CR[ks]
+;B[kr]CR[kr]
+;W[ls]CR[ls]C[Black dies]))
+(;B[jr]CR[jr]
+;W[ks]CR[ks]
+(;B[kr]CR[kr]
+;W[lr]CR[lr]
+;B[lq]CR[lq]
+;W[ls]CR[ls]C[Black dies])
+(;B[lr]CR[lr]
+;W[is]CR[is]
+(;B[lp]CR[lp]
+;W[hs]CR[hs]C[Black can do better])
+(;B[kr]CR[kr]
+;W[hs]CR[hs]
+;B[lp]CR[lp]C[Black can do better]))))

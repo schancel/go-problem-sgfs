@@ -1,0 +1,41 @@
+(;GE[life and death]DI[5k]DP[33]SO[zwom]CO[8]SZ[9]AW[ga]AW[db]AW[fb]AW[hb]AW[ac]AW[bc]AW[dc]AW[fc]AW[cd]AW[dd]AW[fd]AW[ae]AW[ce]AW[fe]AW[ge]AW[he]AW[cf]AW[hf]AW[bg]AW[hg]AW[bh]AW[hh]AW[gi]AW[hi]AB[da]AB[ea]AB[fa]AB[ab]AB[bb]AB[cb]AB[eb]AB[cc]AB[ec]AB[ed]AB[de]AB[ee]AB[df]AB[ff]AB[gf]AB[cg]AB[gg]AB[ch]AB[dh]AB[fh]AB[gh]AB[ih]AB[bi]AB[fi]LB[eg:A]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ah]
+(;W[ag]
+(;B[bf];W[af];B[bd];W[be];B[ad]C[RIGHT])
+(;B[bd];W[ad];B[bf];W[be];B[af]C[RIGHT])
+(;B[ci];W[be])
+(;B[be];W[bf]))
+(;W[be];B[ag]C[RIGHT])
+(;W[af];B[bd];W[ad];B[be]C[RIGHT])
+(;W[bf];B[bd];W[ad];B[ag];W[af]
+(;B[ci];W[ai];B[ah]C[RIGHT])
+(;B[be]C[RIGHT])))
+(;B[bd];W[ad]
+(;B[bf];W[be]
+(;B[ah];W[af])
+(;B[ag];W[af];B[ah];W[ai];B[ah];W[ag]))
+(;B[af];W[be]
+(;B[ag];W[ah])
+(;B[ah];W[bf]
+(;B[ci];W[ag])
+(;B[ai];W[ag])
+(;B[ag];W[ai])))
+(;B[ah];W[ag];B[bf]C[RIGHT];W[be];B[af]C[RIGHT]))
+(;B[ad];W[bd])
+(;B[bf];W[be]
+(;B[ag];W[af];B[ah];W[ai];B[ah];W[ag])
+(;B[ah];W[af]))
+(;B[be];W[bd]
+(;B[ah];W[ag])
+(;B[ag];W[ah]))
+(;B[eg];W[ah]C[White occupies the vital point.])
+(;B[af];W[be]
+(;B[ad];W[bd];B[ah];W[bf];B[ag];W[ai];B[ah];W[ag])
+(;B[bd];W[ad]
+(;B[ag];W[ah])
+(;B[ah];W[bf];B[ag];W[ai];B[ah];W[ag]))
+(;B[ah];W[bf])
+(;B[ag];W[ah]))
+(;B[ag];W[ah]
+(;B[bd];W[be];B[ad];W[af]C[Not enough to win.])
+(;B[bf];W[af];B[bd];W[be];B[ad]C[Not enough to win.])))

@@ -1,0 +1,8 @@
+(;GE[fuseki]DI[7k]DP[42]SO[zuuzuu]CO[0]AB[pp]AW[dq]AB[do]AW[co]AB[cn]AW[cp]AB[dm]AW[fq]AB[gp]AW[gq]AB[fp]AB[hp]AB[pd]AB[nd]AW[qf]AW[rd]AB[qc]AW[ph]AB[jc]AW[qj]AW[dc]AW[de]LB[ci:A]LB[cg:B]LB[gc:C]LB[hq:D]LB[nq:E]LB[je:F]LB[rc:G]C[FORCE]AP[goproblems]
+(;B[cg]C[White's corner is open.RIGHT];W[dj];B[eg];W[fj];B[hj]C[If white comes in he is attacked pretty strongly.RIGHT])
+(;B[ci]C[Too close.])
+(;B[gc];W[ch]C[This is nice for white. Corner is more secure and black's influence is smaller. Take into account c11 would be a mistake for white because of c13 at some point.])
+(;B[je])
+(;B[hq])
+(;B[nq])
+(;B[rc]))

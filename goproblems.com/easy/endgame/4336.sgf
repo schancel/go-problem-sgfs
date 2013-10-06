@@ -1,0 +1,24 @@
+(;GE[endgame]DI[5k]DP[34]SO[WillerZ]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[nl][ol][mm][om][on][qn][po][lp][qp][lq][mq][nq][oq][pq][qq]AB[mk][ll][ml][nm][ln][nn][oo][mp][np][op][pp]LB[ql:T]TR[mm]C[White has just played into your mouth shape with 1. You can tenuki for 8 points in gote (play at T).  Choose the best play!]PL[B]
+(;B[mn]LB[mo:A]CR[mn]C[Close: Your stones are safe, but white still has a 10-point ko threat at A.  You can do better.])
+(;B[lm]CR[lm]
+;W[mo]CR[mo]
+(;B[mn]CR[mn]
+;W[no]CR[no]C[Lose 10 points but keep sente.  White comes out ahead.])
+(;B[no]CR[no]
+;W[mn]CR[mn]C[Are you insane!?!?!? Seriously, don't do that unless you really, really need a 16-point ko threat.]))
+(;B[ql]CR[ql]
+;W[mo]CR[mo]
+(;B[mn]CR[mn]
+;W[no]CR[no]C[Lose 10 points but keep sente.  White comes out ahead.])
+(;B[no]CR[no]
+;W[mn]CR[mn]C[Are you insane!?!?!? Seriously, don't do that unless you really, really need a 16-point ko threat.])
+(;B[lm]CR[lm]
+;W[mn]CR[mn]C[Lose 14 points but keep sente, white has come out ahead]))
+(;B[mo]CR[mo]C[RIGHT
+You saved all your stones, and the biggest ko threat white has is (N6) 4 points.])
+(;B[lo]CR[lo]
+;W[mo]CR[mo]
+;B[mn]CR[mn]
+;W[no]CR[no]C[Lose 10 points but keep sente.  White comes out ahead.]))

@@ -1,0 +1,15 @@
+(;GE[life and death]DI[2k]DP[23]SO[MrMoto]CO[0]AB[fs]AB[fr]AB[gq]AB[gp]AB[hp]AB[ip]AB[jp]AB[jq]AB[kr]AB[ks]AW[es]AW[er]AW[fp]AW[eq]AW[eo]AW[go]AW[ho]AW[io]AW[ko]AW[kp]AW[kq]AW[lr]AW[ls]AW[mq]AW[kn]AW[fq]AW[hr]C[White just played H2, a mistake.  Save your group!]LB[hr:1]AP[goproblems]
+(;B[ir];W[gr]TR[hq]TR[is])
+(;B[gr]
+(;W[ir]C[CHOICE];B[jr];W[js]
+(;B[is];W[hs]C[Oh no!  You fell for white's trick.  If you fill in at K1, white kills at H3.  But if you don't, white gets a thousand-year ko.]MA[js])
+(;B[hs];W[is]LB[mn:T]C[(T)enuki?]
+(;B[gs]C[Seki. :)RIGHT])
+(;B[hq];W[gs]C[Ko. :(])
+(;B[iq];W[gs]C[Ko. :(])
+(;B[mn];W[gs]C[White gets a thousand-year ko. :(])))
+(;W[jr]C[CHOICE];B[ir];W[is];B[hs];W[gs]
+(;B[js];W[jr]C[?!]
+(;B[hs];W[iq]C[:O])
+(;B[hq];W[iq]C[Ko.]))
+(;B[hq];W[iq];B[hs]MA[gs]MA[ir]C[Black lives in double ko, and white gets some points at L2.  Everyone is happy.RIGHT]))))

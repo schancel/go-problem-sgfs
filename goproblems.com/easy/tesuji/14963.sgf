@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[6k]DP[39]SO[discipulus]CO[0]GM[1]FF[4]AP[glGo:1.4]ST[1]
+
+SZ[19]KM[6.5]
+PW[White]PB[Black]DT[2011-07-07]
+AB[qb][rb][rc][qf][pf][pe][rg][sg][pd][pc][od][ne]AW[qc][rd][qd][qe][se][sf][rf][pb][pa][oc][nd][nc][nb][na]C[White to win the corner unconditionally.]
+(;W[sb]
+;B[sc]
+(;W[ra]
+;B[sa]
+;W[qa]C[RIGHT Well done!  Black cannot approach.  White will wait until there are no ko threats left on the board, and then play t18 followed by t16.])
+(;W[qa]
+;B[ra]C[Seki])
+(;W[sa]
+;B[ra]))
+(;W[sc]
+;B[sb]
+(;W[qa]
+;B[sd]C[Two-step ko for white.])
+(;W[ra]
+;B[sd]C[Two-step ko for White.])
+(;W[sa]
+;B[sd]C[Two-step ko for White.]))
+(;W[ra]
+;B[qa]
+(;W[sc]
+;B[sa]C[Seki])
+(;W[sb]
+;B[sa]C[Ko]))
+(;W[qa]
+;B[sd]
+;W[sc]
+;B[sb]C[Ko])
+(;W[sa]
+;B[sd]
+;W[sc]
+;B[sb]C[Ko]))

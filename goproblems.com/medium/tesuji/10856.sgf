@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[1k]DP[19]SO[lok]CO[0]AB[rr]AB[qr]AB[pq]AB[pp]AB[qp]AB[qo]AB[pn]AB[oo]AB[nq]AB[nr]AW[or]AW[pr]AW[qq]AW[rq]AW[rp]AW[ro]AW[qn]AW[qm]C[White to capture the corner.]AP[goproblems]
+(;W[ps]
+(;B[oq]C[CHOICE]
+(;W[rs];B[sr]
+(;W[sq]C[CorrectRIGHT])
+(;W[qs]C[CorrectRIGHT]))
+(;W[sr];B[sq]
+(;W[sp];B[rs])
+(;W[rs];B[ss]C[Ko])
+(;W[qs];B[ss])))
+(;B[rs];W[sr];B[sq];W[qs]))
+(;W[sr];B[sq]
+(;W[sp];B[rs]
+(;W[ps];B[oq]
+(;W[rn];B[ns];W[sq];B[os]C[Black win the capturing race :(])
+(;W[sq];B[rn];W[rm];B[ns];W[sn];B[os]C[Black win the capturing race :(]))
+(;W[qs];B[ps];W[os];B[oq];W[qs]C[Ko.])
+(;W[sq];B[rn]
+(;W[rm];B[os]C[Black win the capturing race.])
+(;W[qs];B[ps];W[os];B[oq];W[qs]C[Ko])))
+(;W[rs];B[ss]C[Ko])
+(;W[qs];B[ss]
+(;W[ps];B[oq]
+(;W[sp];B[rn];W[sr]C[White risks too much in this ko.])
+(;W[rn];B[ns];W[sp];B[os]C[Black win the capturing race :(]))
+(;W[sp];B[rn];W[sr]C[White risks too much in this ko.])))
+(;W[rs];B[qs]
+(;W[sr];B[ss]C[Ko])
+(;W[sq];B[oq];W[sr];B[ss]))
+(;W[qs];B[rs];W[sr];B[ps];W[os];B[oq];W[qs]C[Ko]))

@@ -1,0 +1,33 @@
+(;GE[life and death]DI[1k]DP[19]SO[MrMoto]CO[4]AB[qa]AB[qb]AB[qc]AB[qd]AB[qe]AB[re]AB[se]AW[rb]AW[rc]AW[oa]AW[ob]AW[pd]AW[oc]AW[pc]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]C[Igowin neglected its stones in the corner.  White to punish black.]AP[goproblems]
+(;W[pa];B[sb]
+(;W[sc];B[ra]C[An interesting ko.])
+(;W[ra];B[sc]))
+(;W[pb]C[NOTTHIS])
+(;W[ra];B[sc]
+(;W[rd];B[sd])
+(;W[sb];B[rd]C[Bad ko for white.]))
+(;W[rd];B[sb]
+(;W[sc];B[sd];W[sa];B[ra])
+(;W[ra];B[sd])
+(;W[sd];B[ra]))
+(;W[sd];B[sb]
+(;W[sc];B[rd];W[sa];B[ra])
+(;W[rd];B[ra])
+(;W[ra];B[rd]))
+(;W[sa];B[sc]
+(;W[sb];B[ra];W[sd];B[rd])
+(;W[rd];B[ra])
+(;W[ra];B[rd]))
+(;W[sc];B[ra]
+(;W[sb]C[Seki.])
+(;W[sa]C[An interesting ko.])
+(;W[rd];B[sb];W[sa];B[sd])
+(;W[sd];B[sb];W[sa];B[rd]))
+(;W[sb];B[ra]C[Do you need to respond to S19?  Play (T)enuki if not.]LB[nf:T]
+(;W[nf]C[Well done!RIGHT])
+(;W[rd];B[sc]C[You brought black back to life! :(])
+(;W[sc]C[You brought black back to life in gote! :O])
+(;W[sa];B[sc]C[You brought black back to life! :(])
+(;W[sd]C[Black was already dead.  -1 pt in gote.  :(])
+(;W[pa]C[Black was already dead.  -1 pt in gote.  :(])
+(;W[pb]C[Black was already dead.  -1 pt in gote.  :(])))

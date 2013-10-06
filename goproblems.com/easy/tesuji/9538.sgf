@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[15k]DP[61]SO[MatheusB]CO[6]AB[dq]AB[cp]AB[eq]AB[jg]AW[dp]AW[ji]AB[ii]AB[ij]AW[ik]AW[jk]AB[ki]AB[kj]AB[kk]AW[jj]AW[qp]AW[oq]AB[dd]AW[pd]LB[do:A]AW[cq]LB[co:T]C[Play A if you think White can be caught or at T if you think White will escape.]AP[goproblems]
+(;B[do];W[ep];B[fp];W[eo]AB[en]AW[fo]AB[go]AW[fn]AB[fm]AW[gn]AB[hn]AW[gm]AB[gl]AW[hm]AB[im]AW[hl]
+(;B[hk];W[il]
+(;B[jl];W[jh]
+(;B[ih];W[kh];B[lh];W[kg]AB[kf]AW[lg]AB[mg]AW[lf]AB[le]AW[mf]AB[nf]AW[me]AB[md]AW[ne]AB[oe]AW[nd]AB[nc]AW[od]C[White has escaped.])
+(;B[kh];W[ih];B[hh];W[ig]AB[if]AW[hg]AB[gg]AW[hf]AB[he]AW[gf]AB[ff]AW[ge]AB[gd]AW[fe]AB[ee]AW[fd]
+(;B[fc]C[White is caught :)RIGHT])
+(;B[ed];W[fc]C[White has escaped.])))
+(;B[jh];W[jl]
+(;B[kl];W[jm]C[White will escape now.]
+(;B[jn];W[in];B[km];W[ho])
+(;B[km];W[in];B[jn];W[ho]))
+(;B[jm];W[kl]
+(;B[ll];W[km]AB[kn]AW[lm]AB[mm]AW[ln]AB[lo]AW[mn]AB[nn]AW[mo]AB[mp]AW[no]AB[oo]AW[np]AB[nq]AW[op]C[White has escaped.])
+(;B[km];W[ll]C[White has escaped.]))
+(;B[km];W[fl]C[White has escaped now.])))
+(;B[il];W[hk]C[White has escaped.]))
+(;B[co]C[Wrong - White can be caught in the ladder. Navigate the solution to find out how.]))

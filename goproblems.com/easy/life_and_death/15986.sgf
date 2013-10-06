@@ -1,0 +1,6 @@
+(;GE[life and death]DI[7k]DP[42]SO[bass]CO[0]AB[pa]AW[qa]AW[rb]AW[sc]AB[pb]AB[qb]AB[rc]AB[rd]AB[sd]AB[qd]AW[oa]AW[ob]AW[oc]AW[od]AW[pe]AW[qe]AW[re]AW[se]AP[goproblems]
+(;W[qc];B[pc];W[pd]C[RIGHT])
+(;W[sa];B[sb]LB[mb:A]C[A is your ko threatFORCE];W[mb];B[mc]C[FORCE];W[sc];B[ra]C[White cannot win both kos at once, so black is alive.])
+(;W[sb];B[ra])
+(;W[ra];B[sb])
+(;W[pc];B[ra]))

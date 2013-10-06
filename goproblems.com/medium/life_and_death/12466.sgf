@@ -1,0 +1,15 @@
+(;GE[life and death]DI[1k]DP[20]SO[liopic]CO[0]SZ[19]AW[cq]AW[dq]AW[fq]AW[ar]AW[br]AW[fr]AB[bp]AB[cp]AB[dp]AB[ep]AB[fp]AB[gp]AB[bq]AB[gr]AB[hr]LB[gq:A]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[ds];W[er]
+(;B[cr]
+(;W[dr]C[CHOICE];B[bs]C[The solution is koRIGHT])
+(;W[bs];B[fs];W[es];B[eq]))
+(;B[fs];W[es]
+(;B[cr];W[dr])
+(;B[bs];W[cr];B[cs];W[eq])))
+(;B[fs];W[ds]
+(;B[bs];W[cs]
+(;B[er];W[dr])
+(;B[dr];W[er]))
+(;B[cs];W[bs];B[dr];W[cr];B[er];W[eq]))
+(;B[dr];W[cr];B[es];W[er];B[fs];W[ds];B[gs];W[eq])
+(;B[eq];W[er];B[cs];W[ds];B[cr];W[dr]))

@@ -1,0 +1,34 @@
+(;GE[life and death]DI[3d]DP[9]SO[Field Mouse]CO[8]AB[pb]AB[pc]AW[qb]AW[qc]AW[qd]AW[re]AB[pe]AB[pf]AB[rf]AB[oa]AB[qa]AW[ra]AB[oc]AB[oe]AB[rg]AB[pg]AW[nc]AW[nd]AW[mf]AB[pk]AB[nb]AW[mb]AW[lc]C[Black to do his best.]AP[goproblems]
+(;B[rb];W[sb]C[Ko.])
+(;B[sb];W[sd]
+(;B[qe]C[];W[sc];B[sf]C[Nice work!RIGHT])
+(;B[rb];W[rc]C[White is alive.])
+(;B[rc];W[rb];B[sc];W[qe]C[Seki.])
+(;B[sc];W[rc])
+(;B[sf]C[];W[qe]
+(;B[se];W[rc];B[sc];W[rb]C[Ko.])
+(;B[rb];W[rc])
+(;B[sc];W[rc];B[se];W[rb])
+(;B[rc];W[se]
+(;B[sc];W[rb])
+(;B[rb]C[RIGHT]))))
+(;B[sa];W[sb])
+(;B[rc];W[rb]
+(;B[sb];W[sd];B[sc];W[qe]C[Seki.])
+(;B[sd];W[rd])
+(;B[qe];W[sc])
+(;B[sc];W[sb])
+(;B[rd];W[sd])
+(;B[se];W[sd];B[sc];W[sb])
+(;B[sf];W[sc]))
+(;B[sc];W[sb];B[se];W[sd];B[rd];W[rc];B[qe];W[sd]C[Ko is not enough.])
+(;B[rd];W[rc])
+(;B[sd];W[sb]
+(;B[se];W[sc])
+(;B[rc];W[rd])
+(;B[sc];W[se]))
+(;B[se];W[sb]
+(;B[rc];W[sd])
+(;B[sc];W[sd];B[rd];W[rc];B[qe];W[sd]C[Ko.]))
+(;B[qe];W[sb])
+(;B[sf];W[sb]))

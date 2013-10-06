@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[33]SO[tom111]CO[6]AB[rb]AB[qb]AB[ra]AB[pa]AB[oa]AB[nb]AB[nc]AW[ob]AW[pb]AW[oc]AW[od]AW[qc]AW[rc]AW[sb]AW[pe]AW[qe]AW[re]AW[se]AB[sf]AB[rf]AB[qf]AB[pf]AB[of]AB[oe]AB[nd]AB[ne]C[Black to kill]AP[goproblems]
+(;B[pc];W[pd])
+(;B[pd];W[pc]
+(;B[qd];W[sc]
+(;B[sd];W[rd])
+(;B[rd];W[sd];B[qd];W[sa]C[White is alive]))
+(;B[sc]
+(;W[qd]
+(;B[sd]C[CHOICERIGHT])
+(;B[rd];W[sd]))
+(;W[sd]
+(;B[qd]C[CHOICERIGHT])
+(;B[rd];W[qd])))
+(;B[rd];W[qd])
+(;B[sd];W[sc]))
+(;B[sc];W[pd]
+(;B[rd];W[sd])
+(;B[sd];W[rd]))
+(;B[qd];W[pd])
+(;B[rd];W[pd])
+(;B[sd];W[pd]))

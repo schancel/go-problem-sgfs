@@ -1,0 +1,55 @@
+(;GE[life and death]DI[10k]DP[53]SO[santa c]CO[7]AB[db]AB[cc]AB[bc]AW[bd]AW[ad]AW[cd]AW[dc]AW[de]AW[ee]AW[fe]AB[ce]AB[be]AB[df]AB[dg]AB[cg]AB[bg]AB[ag]AW[fc]AW[gc]AW[ed]AW[hb]AW[ib]AW[ia]LB[ed:1]LB[db:A]AB[ab]LB[ab:2]C[Black thinks that he can live after white 1 by playing at 2. Make him face reality.]AP[goproblems]
+(;W[ba]
+(;B[ca]
+(;W[bb]C[];B[eb]
+(;W[ea];B[fb]
+(;W[fa];B[ga]
+(;W[gb];B[da]
+(;W[fa]C[nice!RIGHT])
+(;W[ac];B[cb]
+(;W[fa]C[nice!RIGHT])
+(;W[aa];B[ab]MA[ba]MA[fa])))
+(;W[ac];B[cb]
+(;W[gb];B[da]
+(;W[fa]C[nice!RIGHT])
+(;W[aa];B[ab]MA[ba]MA[fa]))
+(;W[aa];B[ab]MA[ba]MA[gb])))
+(;W[gb];B[fa])
+(;W[ac];B[cb]
+(;W[fa];B[ga])
+(;W[gb];B[fa])
+(;W[aa];B[ab]MA[ba]MA[fa])))
+(;W[fb];B[ea])
+(;W[ac];B[cb]
+(;W[ea];B[fb])
+(;W[fb];B[ea])
+(;W[aa];B[ab]MA[ba]MA[ea])))
+(;W[eb]
+(;B[bb]C[]
+(;W[ea]
+(;B[aa];W[da]C[Nice! :) (Thanks, adum)CHOICERIGHT])
+(;B[da];W[cb]C[Nice! :) (Thanks, adum)CHOICERIGHT]))
+(;W[ac];B[da]C[Black lives! :(]LB[aa:1]LB[ba:1]LB[cb:2])))
+(;W[ac];B[bb]C[Black lives! (He has 2 eyes.)]LB[aa:1]LB[ba:1]LB[cb:2])
+(;W[ea];B[bb]
+(;W[da]C[Nice! :)RIGHT])
+(;W[eb]
+(;B[da];W[cb]C[Nice! :)CHOICERIGHT])
+(;B[aa];W[da]C[Nice! :)CHOICERIGHT]))
+(;W[ac];B[da]C[Black's alive!])))
+(;B[eb]C[This move is really pointless - And only is here for this comment(Won't be played out by the applet) - After this, Almost any move will kill.]))
+(;W[ca];B[ba]
+(;W[da];B[cb]LB[ac:A]LB[ea:B]C[Black's alive! (He has 2 eyes, as white has to play at both A and B to deny him from the second one.)]LB[aa:1]LB[bb:2])
+(;W[cb];B[da]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[ca:2]LB[cb:2])
+(;W[ac];B[cb]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[bb:2]LB[ca:3])
+(;W[eb];B[da]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[ca:2]LB[bb:2]LB[cb:2]))
+(;W[cb];B[ca]C[Black's alive! (He has 2 eyes, as white has to play at both A and B to deny him from the second one.)]LB[ba:A]LB[bb:B]LB[aa:1]LB[cb:2])
+(;W[bb];B[ba]C[Black's alive! (He has 2 eyes)])
+(;W[aa];B[ba]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[bb:2]LB[cb:2]LB[ca:2])
+(;W[ac];B[ba]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[bb:2]LB[ca:2]LB[cb:2])
+(;W[da];B[ba]
+(;W[cb];B[eb]C[Black's alive.])
+(;W[eb];B[cb]C[Black's alive! (He has 2 eyes, as white has to play at both A and B to deny him from the second one.)]LB[aa:1]LB[ac:A]LB[ca:B]LB[ea:B]LB[bb:2]))
+(;W[eb];B[ba]
+(;W[cb];B[da];W[ea];B[ca]C[Black's alive! (He has 2 eyes)]LB[aa:1]LB[bb:2]LB[cb:2])
+(;W[da];B[cb]C[Black's alive! (He has 2 eyes, as white has to play at both A and B to deny him from the second one.)]LB[ca:B]LB[ea:B]LB[ac:A]LB[aa:1]LB[bb:2])))

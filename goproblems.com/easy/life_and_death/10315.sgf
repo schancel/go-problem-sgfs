@@ -1,0 +1,11 @@
+(;GE[life and death]DI[5k]DP[33]SO[Athanatos]CO[3]AB[sa]AB[ra]AW[sc]AW[rc]AW[sd]AW[qd]AW[pc]AW[oc]AW[nc]AW[nb]AW[oa]AB[na]AB[ma]AB[mb]AB[mc]AB[md]AB[od]AB[nd]AB[pd]AB[qe]AB[re]AB[rd]AB[se]C[Black to kill]AP[goproblems]
+(;B[qc];W[qb]
+(;B[rb];W[qd]C[Only ko])
+(;B[pb];W[qd]C[Only ko]))
+(;B[qb];W[qc];B[pb]
+(;W[pa];B[ob]C[RIGHT])
+(;W[ob];B[pa]LB[rb:A]AB[se]C[Right! White can't atari at ARIGHT]))
+(;B[pa];W[pb];B[ob]C[Only ko])
+(;B[pb];W[qb]
+(;B[pa];W[qa];B[ob];W[oa])
+(;B[qa];W[qc];B[pa];W[ob]C[Only seki])))

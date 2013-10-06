@@ -1,0 +1,15 @@
+(;GE[elementary]DI[10k]DP[54]SO[traveller]CO[5]C[Caution: This problem may contain caustic remarks.  If your skin is thin beware of making mistakes.]AW[br]AW[aq]AW[ap]AW[ao]AW[an]AW[cs]AW[ds]AW[es]AW[fr]AW[gr]AW[hq]AW[hp]AW[ho]AW[gn]AW[fn]AW[em]AW[dm]AW[cm]AW[bm]AB[bq]AB[bp]AB[bo]AB[bn]AB[cn]AB[dn]AB[en]AB[fo]AB[go]AB[gp]AB[gq]AB[fq]AB[er]AB[dr]AB[cr]AW[cq]AW[cp]AW[co]AP[goproblems]
+(;B[dp]C[RIGHT])
+(;B[do];W[dp];B[eo];W[eq])
+(;B[dq]
+(;W[eo];B[ep];W[do];B[dp])
+(;W[dp];B[eq];W[eo]))
+(;B[ep];W[dp]
+(;B[eq];W[eo];B[dq];W[do])
+(;B[eo];W[eq]
+(;B[dq];W[eq])
+(;B[do];W[dq])))
+(;B[eo];W[eq])
+(;B[eq];W[eo];B[ep];W[dp]
+(;B[do];W[eo])
+(;B[dq];W[do])))

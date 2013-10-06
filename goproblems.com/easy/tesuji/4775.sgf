@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[25k]DP[76]SO[cusp]CO[7]AB[gs]AB[gr]AB[fq]AB[fp]AB[go]AB[hp]AB[ip]AB[jq]AB[kq]AB[lq]AB[mq]AB[mp]AW[gp]AW[gq]AW[hq]AW[iq]AW[ir]AW[kr]AW[lr]AW[mr]AW[nq]AW[np]AW[nr]AB[mo]AW[no]C[Black to capture 5 white stones.]AP[goproblems]
+(;B[jr];W[js]
+(;B[hr];W[is])
+(;B[hs];W[is])
+(;B[is];W[hs]
+(;B[hr]C[That's it.RIGHT])
+(;B[ks];W[ls]C[You can still kill here, but there was no need to throw in a stone at L1.]))
+(;B[ks];W[is]
+(;B[hr];W[ls])
+(;B[hs];W[ls]))
+(;B[ls]C[];W[ks]))
+(;B[is];W[jr])
+(;B[js];W[jr]))

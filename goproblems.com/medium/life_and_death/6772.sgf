@@ -1,0 +1,53 @@
+(;GE[life and death]DI[1k]DP[19]SO[tom111]CO[7]AB[bp]AB[co]AB[do]AB[dp]AB[eq]AB[fq]AB[fr]AB[fs]AW[ar]AW[cr]AW[dq]AW[cp]AW[er]AW[es]C[Black to kill without Ko]AW[bm]AB[dm]AW[bl]AB[fo]AP[goproblems]
+(;B[bq];W[br]
+(;B[bs];W[cs];B[dr]C[RIGHT])
+(;B[dr];W[ds]
+(;B[cq];W[bs];B[dr]C[Ko !])
+(;B[bs];W[cq]))
+(;B[ds];W[dr])
+(;B[cq];W[dr])
+(;B[cs];W[bs]
+(;B[ds];W[dr])
+(;B[dr];W[ds])))
+(;B[cq];W[bq]
+(;B[dr];W[bs]
+(;B[cs];W[ds];B[cs];W[ds])
+(;B[ds];W[cs]))
+(;B[cp];W[dr];B[bs];W[cs];B[br];W[as];B[br];W[aq])
+(;B[bs];W[cp]))
+(;B[cs];W[bs]
+(;B[ds];W[dr])
+(;B[dr];W[ds])
+(;B[bq];W[br])
+(;B[cq];W[dr]))
+(;B[bs];W[bq]
+(;B[br];W[bo])
+(;B[cs];W[bo])
+(;B[bo];W[cs];B[cq];W[dr];B[br];W[as];B[br];W[aq])
+(;B[dr];W[ds]
+(;B[cs];W[bo];B[dr];W[ap])
+(;B[br];W[cs];B[cq]C[Ko])
+(;B[bo];W[br];B[cq]C[Ko]))
+(;B[ds];W[bo]
+(;B[cq];W[ap]
+(;B[bn];W[cp])
+(;B[cp]C[White can connect some stones at B6 or even let the connection depend on a Ko and play B2 now];W[bn]))
+(;B[cs];W[ap])
+(;B[dr];W[ap]))
+(;B[cq]C[Ko];W[bo]
+(;B[cp];W[ap];B[bn];W[an]C[Ko])
+(;B[ap];W[cp]C[Ko];B[bn];W[cs]C[Ko])
+(;B[br];W[cp]C[Ko])))
+(;B[ds];W[dr]
+(;B[bq];W[br])
+(;B[cq];W[br])
+(;B[bs];W[cs];B[br];W[bq];B[cq];W[as];B[br];W[aq])
+(;B[cs];W[bs])
+(;B[br];W[bq];B[cq];W[bs]))
+(;B[br];W[bq]
+(;B[bs])
+(;B[cs];W[bs])
+(;B[cq];W[bs]C[White can live like tiny like this, or fight the Ko.]))
+(;B[dr];W[bq]
+(;B[bs])
+(;B[cq])))

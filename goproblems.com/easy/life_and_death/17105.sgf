@@ -1,0 +1,8 @@
+(;GE[life and death]DI[15k]DP[60]SO[DDZZ]CO[0]AB[ho]AB[io]AB[hm]AB[gm]AB[gn]AB[fo]AB[eo]AB[fp]AB[gp]AB[fq]AB[fr]AB[er]AB[gs]AB[dq]AB[dp]AW[im]AW[jn]AW[jm]AW[jo]AW[ko]AW[jp]AW[ip]AW[hp]AW[hs]AW[hr]AW[gr]AW[gq]AW[hl]AW[gl]AW[fl]AW[fm]AW[fn]AW[en]AW[do]AW[cn]AW[cp]AW[cq]AW[cr]AW[dr]C[White to kill without letting black make ko threats]AP[goproblems]
+(;W[in]C[Black is deadRIGHT])
+(;W[fs];B[in]C[Alive])
+(;W[hn];B[in]C[Alive])
+(;W[es];B[in]C[Alive])
+(;W[ep];B[in];W[eq])
+(;W[eq];B[in];W[ep];B[dq]C[Dead, but with a large ko threat])
+(;W[ds];B[in]C[Alive]))

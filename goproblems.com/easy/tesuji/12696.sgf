@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[10k]DP[50]SO[Gelya]CO[0]SZ[19]AW[dm]AW[em]AW[fm]AW[gm]AW[dn]AW[co]AW[cp]AW[fp]AW[cq]AW[jq]AW[nq]AW[ar]AW[br]AB[en]AB[fn]AB[pn]AB[do]AB[ho]AB[dp]AB[pp]AB[dq]AB[hq]AB[cr]AB[er]AB[bs]TR[fp]C[Save this stone(kosumi-tsuke tesuji)]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]PL[W]
+(;W[eo];B[go])
+(;W[eq];B[go];W[eo];B[fo];W[ep];B[dr]
+(;W[fr];B[fq];W[gq];B[gp];W[fq];B[fs])
+(;W[gq];B[fq];W[fr]))
+(;W[fo];B[go];W[eo];B[gn])
+(;W[go];B[gn]
+(;W[eo]
+(;B[in]))
+(;W[hn]C[Correct]
+(;B[eo];W[hp]C[RIGHT]))
+(;W[hp];B[ip];W[hn];B[gp];W[eo]C[RIGHT]))
+(;W[ep];B[go])
+(;W[hp]
+(;B[gp];W[go];B[ip]
+(;W[gn]C[RIGHT])
+(;W[hn];B[fo]))
+(;B[ip];W[go];B[gn];W[hn]C[RIGHT])))

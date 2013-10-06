@@ -1,0 +1,18 @@
+(;GE[endgame]DI[1k]DP[18]SO[Field Mouse]CO[0]AW[qr]AW[pr]AW[pq]AW[pp]AB[rr]AB[rq]AB[qq]AB[qp]AB[pn]AB[rl]AB[rk]AB[rj]AB[ri]AB[om]AB[ol]AW[ql]AW[qk]AW[qj]AW[qi]AB[pj]AW[pi]AW[oi]AW[ml]AW[nr]AW[nq]AW[mq]AW[lo]AW[lp]AW[kp]AW[mn]AB[lj]AB[lk]AB[ll]AB[kl]AB[km]AB[kn]AB[ko]AW[jo]AW[jn]AW[jm]AW[jl]AW[kj]AW[ki]AW[li]AW[mi]AB[mr]AB[kq]AB[kr]AB[jp]AB[ip]AW[jk]AW[mk]AW[ln]AW[pk]AB[rm]AW[lq]AB[lr]AB[ir]AB[ok]AB[oj]AW[mj]AW[jj]AW[nl]AW[nj]AB[nk]AW[mm]AB[lm]AB[rs]AW[qs]AW[ms]AB[ls]AW[ns]AP[goproblems]
+(;W[po];B[oo]C[];W[qo];B[ro];W[qn];B[qm];W[rn];B[sn]C[This is worse than the solution.])
+(;W[oo];B[po]
+(;W[on];B[qm];W[nm];B[pm]C[Two pts worse than the solution])
+(;W[qm];B[qn];W[on];B[pm];W[nm]C[One pt worse than the solution]))
+(;W[on]
+(;B[qm]
+(;W[nm];B[pm];W[po];B[qo]C[RIGHT])
+(;W[po]
+(;B[qo];W[nm];B[pm]C[Really the best :)RIGHT])
+(;B[nn]C[This move loses one point.NOTTHIS];W[qo];B[ro];W[oo];B[nm];W[qn];B[pm];W[rn];B[sn];W[no]C[RIGHT])))
+(;B[oo];W[nn];B[qm];W[po];B[qo]C[RIGHT]))
+(;W[qn];B[qm];W[po];B[qo];W[on];B[pm];W[nm]MA[qn]C[The marked stone was not needed here.])
+(;W[qm];B[qn];W[on];B[pm];W[po];B[nn]
+(;W[oo];B[nm]
+(;W[qo];B[ro];W[no]C[RIGHT])
+(;W[no];B[qo]C[]))
+(;W[qo];B[ro];W[oo];B[nm];W[no]C[RIGHT])))

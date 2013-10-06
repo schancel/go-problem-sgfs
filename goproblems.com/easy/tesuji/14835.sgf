@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[4k]DP[30]SO[bacteria]CO[0]AB[br]AB[cq]AB[dp]AB[fq]AW[bq]AW[bp]AW[dr]AW[cr]AW[cn]AW[ck]AW[hq]AW[co]AB[do]AB[er]C[b to play and get the best result]AW[kq]AW[hk]AP[goproblems]
+(;B[bs];W[dq];B[cp]
+(;W[eq];B[ep];W[fr]
+(;B[cs];W[es];B[ds]C[RIGHT])
+(;B[ds];W[es];B[cs]C[RIGHT])
+(;B[gr];W[es]
+(;B[gq];W[cs])
+(;B[cs];W[gq];B[fp];W[ds])))
+(;W[ep]C[CHOICE]
+(;B[eo];W[eq];B[fp];W[fr]
+(;B[cs];W[es];B[ds]C[RIGHT])
+(;B[ds];W[es];B[cs]C[RIGHT]))))
+(;B[ar];W[dq];B[cp];W[ep]
+(;B[eq];W[eo];B[dn];W[dm];B[en];W[fn];B[em];W[el];B[fm];W[gm];B[fl];W[fk];B[gl];W[hl])
+(;B[eo];W[eq];B[fp];W[fr];B[gr];W[es];B[gq];W[fo]))
+(;B[aq];W[bs])
+(;B[as];W[aq];B[dq];W[ar])
+(;B[cs];W[ar])
+(;B[dq];W[bs]))

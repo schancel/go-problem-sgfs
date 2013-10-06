@@ -1,0 +1,37 @@
+(;GE[life and death]DI[3k]DP[25]SO[mrmoto]CO[8]AB[oe]AB[sb]AB[sc]AB[sd]AB[se]AB[sf]AB[rf]AB[qe]AB[qf]AB[pe]AB[ne]AB[me]AB[md]AB[mc]AB[mb]AB[ma]AB[na]AB[ob]AB[oc]AB[pc]AB[qc]AB[qb]AB[pb]AB[qa]AW[nb]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[rc]AW[rd]AW[rb]AW[ra]AW[oa]C[It's black's turn.   (A) Black can kill.    (B) White is alive.    (C) Ko    (D) Seki    (E) All of the above]AB[ib]AB[id]AB[if]AB[ih]AB[ij]LB[jb:A]LB[jd:B]LB[jf:C]LB[jh:D]LB[jj:E]AP[goproblems]
+(;B[jb];W[kb]C[Ok, prove it.]
+(;B[re];W[pa]
+(;B[pb];W[ob]TR[pc]TR[qb])
+(;B[pc];W[pb])
+(;B[ob];W[pb]))
+(;B[sa];W[pa]
+(;B[pb];W[ob]TR[qb]TR[pc])
+(;B[ob];W[pb])
+(;B[pc];W[pb]))
+(;B[pa];W[oa]
+(;B[ob]
+(;W[pb];B[pa];W[qa]
+(;B[pc];W[oa]MA[pa]C[ko])
+(;B[oc];W[oa]MA[pa]C[ko])
+(;B[oa];W[oc];B[qc]C[:)RIGHT]))
+(;W[pa];B[pb];W[qa];B[pc]C[White plays Q19 hoping to get seki but Black can create a bulky 5 dead eye space.RIGHT]))
+(;B[pb];W[ob];B[pc];W[qb];B[pa]C[seki])
+(;B[pa];W[ob]
+(;B[pb];W[pc])
+(;B[pc];W[pb]))))
+(;B[jd];W[pa]C[Well, white will be alive if you play a move like K16.  But there is a better move.])
+(;B[jf]C[];W[kf]C[Ok, how many ko threats does black need to kill?]LB[kh:0]LB[lh:1]LB[mh:2]LB[nh:3]LB[oh:4]LB[ph:5]
+(;B[lh]C[Not that many.])
+(;B[mh]C[Not that many.])
+(;B[nh]C[Not that many.])
+(;B[oh]C[Not that many.])
+(;B[ph]C[Not that many.])
+(;B[kh]C[Right, black doesn't need any ko threats -- because it isn't a ko!])
+(;B[re]C[NOTTHIS])
+(;B[pa]C[NOTTHIS])
+(;B[sa]C[NOTTHIS]))
+(;B[jh]C[No, it's not a seki.])
+(;B[jj]C[Very close!  But not quite.])
+(;B[re]C[NOTTHIS])
+(;B[pa]C[NOTTHIS])
+(;B[sa]C[NOTTHIS]))

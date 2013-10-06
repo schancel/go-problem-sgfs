@@ -1,0 +1,44 @@
+(;GE[endgame]DI[5k]DP[33]SO[rcc]CO[7]SZ[19]AW[pi]AW[qi]AW[nj]AW[oj]AW[qj]AW[rj]AW[nk]AW[nl]AW[nm]AW[nn]AW[no]AW[np]AW[nq]AW[oq]AW[nr]AW[pr]AW[rr]AW[os]AB[ok]AB[pk]AB[qk]AB[rk]AB[sk]AB[ol]AB[om]AB[on]AB[oo]AB[op]AB[pp]AB[pq]AB[qr]TR[rr]C[White has just played the marked stone. How much can black keep?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]TM[]PW[prob]PB[prob]
+(;B[rq];W[qs];B[qq]C[White steals point in the corner not good enough!])
+(;B[qs];W[qq];B[rq];W[qp]
+(;B[sr]
+(;W[rs];B[ss];W[rp]
+(;B[sp];W[so]
+(;B[ro];W[sq]
+(;B[rr];W[ps]C[Unnecessary Ko])
+(;B[qo];W[rr]C[Disaster]))
+(;B[qo];W[ro]
+(;B[sq];W[rr];B[rs];W[ps]C[Disaster])
+(;B[rn];W[sq];B[rr];W[ps]C[Unnecessary Ko])))
+(;B[qo];W[ro]
+(;B[rn];W[sq]
+(;B[rr];W[ps];B[sp]C[RIGHT])
+(;B[sp]C[The white stones can't get awayRIGHT]))
+(;B[qn];W[sq];B[sp];W[so]
+(;B[rn];W[sq];B[sn];W[rr]C[Disaster])
+(;B[sq];W[rs];B[rr];W[ps]C[Disaster])))))
+(;B[rp];W[qo];B[sr];W[rs];B[ss];W[ro]
+(;B[sp]C[Blacks corner stones are alive. White can't make an eye in the remaining space and black can so all black's stones live.RIGHT])
+(;B[rn]C[RIGHT])
+(;B[so]C[RIGHT])
+(;B[sn];W[sp]
+(;B[so]C[RIGHT])
+(;B[qn];W[rr];B[rs];W[so]
+(;B[rn]C[RIGHT])
+(;B[po]C[RIGHT])
+(;B[sq];W[ps]))
+(;B[rn];W[qn]
+(;B[qm];W[so]
+(;B[pn];W[rm])
+(;B[rm];W[sq])
+(;B[sq];W[rs])
+(;B[rr];W[rm]))
+(;B[rm];W[so])
+(;B[so];W[rm];B[sq];W[sm];B[sp];W[rs];B[rr];W[ps])
+(;B[rs];W[so])
+(;B[sq];W[so]
+(;B[rs];W[rm])
+(;B[rm];W[rs]))))
+(;B[qn];W[sp];B[rn]C[RIGHT]))
+(;B[qo];W[rp];B[ro];W[sq];B[sp];W[so];B[rs];W[ps]C[Disaster]))
+(;B[qq];W[qs];B[rq]C[White steals points in the corner - not good enough!]))

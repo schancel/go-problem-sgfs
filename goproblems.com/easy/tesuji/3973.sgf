@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[6k]DP[37]SO[norm]CO[9]AB[iq]AB[pq]AB[po]AB[mq]AB[lp]AB[lo]AB[kn]AB[jn]AW[ln]AW[lm]AW[ko]AW[kp]AW[kq]AW[mo]C[White to capture the cutting stones]AP[goproblems]
+(;W[nq];B[nr]
+(;W[mr];B[np]
+(;W[mp];B[oq]
+(;W[lq]C[Well done!RIGHT])
+(;W[lr]C[Well done!RIGHT]))
+(;W[lq];B[mp])
+(;W[oq];B[no];W[lq];B[mp])
+(;W[lr];B[no]))
+(;W[mp];B[lq]
+(;W[mr];B[lr]
+(;W[kr];B[ms])
+(;W[or];B[ms]))
+(;W[lr];B[mr]))
+(;W[lq];B[mp]
+(;W[np];B[mr])
+(;W[mr];B[np]))
+(;W[lr];B[mr])
+(;W[np]))
+(;W[mp];B[lq];W[nq];B[nr]
+(;W[lr];B[mr])
+(;W[oq];B[or])
+(;W[or];B[oq];W[np];B[mr]))
+(;W[lq];B[mp])
+(;W[np];B[nq])
+(;W[lr];B[nq])
+(;W[mr];B[nq])
+(;W[nr];B[nq]))

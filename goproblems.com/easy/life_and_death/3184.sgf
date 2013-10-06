@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5k]DP[33]SO[polo]CO[7]AB[bb][cb][cc][ec][fc][fd][ge][gf][fg][eh][ei][ci][cg][bg][bf][de]AW[ab][bc][cd][dd][ed][ce][be][ae][cf][dg][fe][ff]C[Black to kill.]SZ[19]
+
+(;B[df]
+(;W[ee]C[CHOICE]
+(;B[eg];W[ef];B[df]C[RIGHT])
+(;B[dh];W[ef]))
+(;W[eg]C[CHOICE]
+(;B[dh];W[ee];B[ef]C[RIGHT])
+(;B[ef];W[ee])
+(;B[ee];W[ef])))
+(;B[ee];W[ef]
+(;B[eg];W[df])
+(;B[dh];W[df]))
+(;B[ef];W[ee]
+(;B[eg];W[df])
+(;B[df];W[eg])
+(;B[dh];W[df]))
+(;B[eg];W[df]
+(;B[ef];W[ee])
+(;B[ee];W[ef]))
+(;B[ac]C[Forcing move, but irrelevant.])
+(;B[ad]C[Forcing move, but irrelevant.]))

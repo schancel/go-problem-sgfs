@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[6k]DP[37]SO[kjeld]CO[8]AW[bc][cc][dd][de][bf]AB[bd][cd][dc][ec]
+(;B[bb];W[cb];B[ac]C[RIGHT])
+(;B[cb];W[bb];B[ba];W[db])
+(;B[ac];W[bb]
+  (;B[ab];W[ba]
+    (;B[ca];W[db])
+    (;B[cb];W[db])
+    (;B[ad];W[be])
+  )
+  (;B[ba];W[ab];B[cb];W[ad];B[ae];W[db])
+)
+)

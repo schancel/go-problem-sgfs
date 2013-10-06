@@ -1,0 +1,74 @@
+(;GE[life and death]DI[5d]DP[6]SO[Hans]CO[7]SZ[13]C[White to play and live. Escaping is also a solution.]AW[jb]AW[kb]AW[lb]AB[ib]AB[jc]AB[kc]AB[lc]AB[kj]PL[W]
+(;W[hb];B[ia];W[ic];B[hc];W[id];B[gb]
+(;W[mb];B[ja]
+(;W[hd];B[gc]
+(;W[ld];B[kd];W[ke];B[le]
+(;W[jd];B[md]
+(;W[mc];B[ld]
+(;W[lf]C[RIGHT])
+(;W[kf];B[lf];W[lg]C[White L8 should be played at M8.RIGHT]))
+(;W[lf];B[mc];W[mf];B[kf];W[je];B[lg];W[kg];B[jf];W[lh];B[ka];W[mg];B[la];W[me];B[ma]))
+(;W[mc];B[md]
+(;W[jd];B[ld]
+(;W[kf];B[lf];W[lg]C[RIGHT])
+(;W[lf]C[RIGHT]))
+(;W[lf];B[je];W[kf];B[jd]C[Black escapes or wins the capturing race in the corner.])))
+(;W[kd];B[ld]
+(;W[le];B[ke];W[jd];B[lf])
+(;W[ke];B[le]
+(;W[kf];B[ka]C[Black wins the capturing race.])
+(;W[lf];B[lg]
+(;W[kf];B[mf]C[Black escapes.])
+(;W[mf];B[kf];W[kg];B[jf];W[lh];B[jd])))))
+(;W[ld];B[kd];W[ke];B[le]
+(;W[jd];B[md]
+(;W[mc];B[ld]
+(;W[lf]C[RIGHT])
+(;W[kf];B[lf];W[lg]C[White L8 should be played at M8.RIGHT]))
+(;W[lf];B[mc];W[mf];B[kf];W[je];B[lg];W[kg];B[jf];W[lh];B[ka];W[mg];B[la];W[me];B[ma]))
+(;W[mc];B[md]))
+(;W[kd];B[ld]
+(;W[le];B[ke];W[jd];B[lf])
+(;W[ke];B[le]
+(;W[kf];B[ka]C[Black  wins the capturing race.])
+(;W[lf];B[lg]
+(;W[mf];B[kf];W[kg];B[jf];W[lh];B[jd])
+(;W[kf];B[mf]C[Black escapes and white dies in the corner.])))))
+(;W[hd];B[ha]
+(;W[ke];B[mb])
+(;W[mc];B[ke])
+(;W[mb];B[ke];W[ja];B[la]))
+(;W[ld];B[kd]
+(;W[ke];B[le]
+(;W[mb];B[ja]
+(;W[mc];B[md];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[jd];B[md];W[mc];B[ld];W[lf]C[RIGHT]))
+(;W[mc];B[md]
+(;W[mb];B[ja];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[jd];B[mb]))
+(;W[ja];B[ha]
+(;W[mc];B[md];W[mb];B[la];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[mb];B[la]
+(;W[mc];B[md];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[jd];B[md];W[mc];B[ld];W[lf]C[RIGHT]))
+(;W[jd];B[mc];W[mb];B[md];W[la]C[RIGHT]))
+(;W[md];B[me]
+(;W[mb];B[mc];W[ja];B[ha];W[la]C[RIGHT])
+(;W[ja];B[ha];W[mb];B[la];W[mc]C[RIGHT])))
+(;W[mb];B[ja]
+(;W[ka];B[ha];W[ke];B[le]
+(;W[mc];B[md];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[jd];B[md];W[mc];B[ld];W[lf]C[RIGHT]))
+(;W[ke];B[le]
+(;W[jd];B[md];W[mc];B[ld];W[lf]C[RIGHT])
+(;W[mc];B[md];W[jd];B[ld];W[lf]C[RIGHT])))
+(;W[mc];B[ke]C[White can live, but there are easier ways.])
+(;W[ja];B[ha];W[mb];B[la]
+(;W[ke];B[le]
+(;W[mc];B[md];W[jd];B[ld];W[lf]C[RIGHT])
+(;W[jd];B[md];W[mc];B[ld];W[lf]C[RIGHT]))
+(;W[mc];B[ke])))
+(;W[kd];B[ld]))
+(;W[ic];B[hb]TR[jc]TR[kc]TR[lc]C[White cannot capture the marked black stones, so she has failed.])
+(;W[ia];B[hb]C[White is dead.])
+(;W[mc];B[ke];W[hb];B[ia];W[ic];B[hc];W[id];B[gb];W[mb];B[ha]C[White has only one eye in the corner and cannot get a second one on the right side.]))

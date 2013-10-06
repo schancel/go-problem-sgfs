@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[4d]DP[8]SO[liberti]CO[2]AB[pa]AB[pb]AB[pc]AB[pd]AB[re]AB[qf]AB[pg]AB[og]AB[sf]AB[rh]AB[ri]AB[mg]AB[nh]AB[mh]AB[mi]AB[li]AB[nj]AB[oj]AB[pj]AB[rk]AB[qk]AB[ql]AB[ne]AW[mf]AW[nf]AW[ng]AW[ni]AW[oi]AW[oh]AW[ph]AW[pi]AW[qh]AW[rg]AW[rf]AW[qj]AW[rj]AW[sh]AW[si]AW[qb]AW[qc]AW[ob]AW[nc]AW[ld]AW[lg]C[white to do something good]AP[goproblems]
+(;W[pf]C[see problem9596])
+(;W[pe])
+(;W[qd])
+(;W[qe]C[black have no choice];B[qg]
+(;W[pe];B[qd]
+(;W[rd];B[sg])
+(;W[qi];B[oe])
+(;W[pf];B[sg])
+(;W[of];B[sg]))
+(;W[qd]
+(;B[sg]C[CHOICE];W[pe]C[RIGHT])
+(;B[qi]C[CHOICE];W[pe]C[RIGHT]))))

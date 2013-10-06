@@ -1,0 +1,4 @@
+(;GE[tesuji]DI[5k]DP[35]SO[flanner]CO[0]AW[qj]AW[po]AW[pq]AB[mp]LB[ql:1]LB[pk:2]LB[pl:3]LB[ol:4]LB[om:5
+]LB[pm:6]LB[pn:7]C[black invades with the sequence 1-7,  how should white respond?]AB[ql]AW[pk]AB[pl]AW[ol]AB[om]AW[pm]AB[pn]AP[goproblems]
+(;W[qm];B[qn];W[rm];B[on]C[white can save the side, but  the corner is in bad shape])
+(;W[on];B[qm];W[nm]C[correct , this holds black inRIGHT]))

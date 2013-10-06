@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[10k]DP[52]SO[Psuedonym]CO[0]AW[ed]AB[ee]AB[fe]AW[de]AW[ce]AW[cf]AB[df]AB[dg]AB[cg]AB[eg]AW[bg]AW[ch]AW[ci]AW[cj]AB[di]AB[dj]AB[ck]AB[cl]AB[bl]AB[al]AW[bk]AW[ak]AW[aj]C[Black to capture the some stones.]AW[bf]AP[goproblems]
+(;B[ai]
+(;W[bj]
+(;B[bh]
+(;W[dh]
+(;B[eh]C[Well done!RIGHT]))
+(;W[ag]
+(;B[dh]C[RIGHT])))
+(;B[dh];W[bh]C[White connects and survives.])))
+(;B[bh];W[bi]
+(;B[ah];W[ag]C[White connects and survives.])
+(;B[ai];W[ah]C[White connects and survives.]))
+(;B[bi];W[bj];B[bh];W[ah];B[dh];W[ai])
+(;B[dh];W[bh]
+(;B[ai];W[bj]C[White connects and survives.])
+(;B[bj];W[bi]C[White connects and survives.])))

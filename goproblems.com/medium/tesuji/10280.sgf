@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[3k]DP[24]SO[llel]CO[0]AB[br]AB[cq]AB[cp]AB[co]AB[do]AB[en]AB[dm]AW[dq]AW[dp]AW[eq]AW[eo]AW[fp]AW[go]AW[ho]AW[ip]AW[hq]AB[gp]AB[fq]AB[fr]AW[cr]C[B to connect the marked stones]TR[fq]TR[fr]AP[goproblems]
+(;B[dr];W[er];B[cs];W[es]C[;(])
+(;B[es];W[dr]C[;(])
+(;B[ds];W[es]
+(;B[er];W[dr];B[fs];W[bs]C[;(])
+(;B[cs];W[er]))
+(;B[cs]C[Good move!]
+(;W[dr]C[CHOICE]
+(;B[ds]
+(;W[fo]C[CHOICE]
+(;B[es]C[Use 'navigate solution' to see other variationsRIGHT])
+(;B[er]C[RIGHT]))
+(;W[es]C[CHOICE];B[bs];W[er];B[fs]C[RIGHT]))
+(;B[es];W[ds];B[er];W[bs]))
+(;W[es]C[CHOICE];B[er];W[dr]
+(;B[fs]C[RIGHT])
+(;B[bs]C[RIGHT])))
+(;B[er];W[dr]))

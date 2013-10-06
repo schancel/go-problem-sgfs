@@ -1,0 +1,49 @@
+(;GE[life and death]DI[3d]DP[11]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[bb][cc][dc][gc][hc][ed][fd]
+AB[db][ec][fc][ic][gd][hd][id]PL[2]C[white to win stuff
+]
+(;W[gb];B[fb]
+(;W[fa];B[eb]
+(;W[ib];B[ha];W[ia]
+C[RIGHT
+after this, white will win the semeai (but loses J19 stones)
+]
+LB[jb:A][cb:B][ja:C][da:D])
+
+(;W[cb];B[hb];W[ga];B[ha])
+
+(;W[da];B[hb];W[ga];B[ha])
+)
+
+(;W[ib]C[
+];B[ga]C[oops, should have forced at F19 first...
+];W[hb];
+B[jb])
+)
+
+(;W[fb];B[eb]
+(;W[hb];B[ib]
+(;W[ea];B[ha];W[gb];B[ga])
+
+(;W[ga];B[ia];W[cb];B[ha])
+)
+
+(;W[gb];B[fa]
+(;W[ga];B[hb];W[ea];B[ha])
+
+(;W[ib];B[ga];W[hb];B[jb])
+)
+)
+
+(;W[hb];B[ib];W[fb];B[eb]
+(;W[ga];B[ia];W[cb];B[ha])
+
+(;W[ea];B[ha];W[gb];B[ga])
+)
+
+)

@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[8k]DP[46]SO[Tomsk]CO[0]AW[br]AW[bq]AW[cq]AW[dp]AW[co]AB[cr]AB[dq]AB[eq]AB[fp]AB[gq]AB[hq]AB[ip]AB[io]AB[jo]AB[ko]AW[iq]AW[jq]AW[jp]AW[gp]AW[hp]AW[hn]AW[lp]AW[mp]AB[jm]AW[jl]AW[il]AW[gl]AB[dm]AW[el]AW[dl]AW[cl]TR[gp]TR[hp]C[Black to capture the marked stones]AP[goproblems]
+(;B[gn]
+(;W[ho]C[CHOICE];B[hm];W[in];B[im];W[jn]
+(;B[kn]C[White is capturedRIGHT])
+(;B[km]C[RIGHT])
+(;B[ln]C[RIGHT]))
+(;W[go]
+(;B[ho];W[fo];B[eo];W[fn]
+(;B[fm];W[gm]C[White escapes])
+(;B[gm];W[em]C[White escapes]))
+(;B[fo];W[ho];B[hm];W[in];B[im];W[jn];B[kn]C[White is capturedRIGHT])))
+(;B[ho];W[go];B[gn])
+(;B[go];W[ho]
+(;B[gm];W[im]C[White escapes])
+(;B[hm];W[gn]
+(;B[gm];W[fn]
+(;B[em];W[eo]C[White escapes])
+(;B[en];W[fm]C[White escapes])
+(;B[fo];W[em]C[White escapes])
+(;B[eo];W[em]C[White escapes])
+(;B[fm];W[eo]C[White escapes]))
+(;B[fn];W[gm]C[White escapes])
+(;B[fo];W[gm]C[White escapes])
+(;B[fm];W[gm]C[White escapes]))
+(;B[gn];W[hm]C[White escapes]))
+(;B[hm];W[gn]
+(;B[gm];W[fn]
+(;B[em];W[eo]C[White escapes])
+(;B[eo];W[em]C[White escapes]))
+(;B[fm];W[gm]C[White escapes]))
+(;B[fn];W[gn]
+(;B[gm];W[im]C[White escapes])
+(;B[im];W[gm]C[White escapes]))
+(;B[in];W[gn]
+(;B[gm];W[hm]C[White escapes])
+(;B[hm];W[gm]C[White escapes])))

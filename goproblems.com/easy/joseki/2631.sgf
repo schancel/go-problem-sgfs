@@ -1,0 +1,8 @@
+(;GE[joseki]DI[5k]DP[34]SO[cheyenne]CO[7]AW[qf]AW[pg]AB[pf]SZ[19]AB[pd]C[FORCE]PL[B]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]PW[White]PB[Black]
+(;B[of];W[qe];B[qd]C[RIGHT];W[qj]
+(;B[jc]LB[nc:B]LB[nd:A]C[ This sequence is known as the 'Tsukenobi' (Attach Extend) Joseki 'A'  or 'B' are alternatives to K17RIGHT])
+(;B[nd]LB[jd:A]C[ This sequence is known as the 'Tsukenobi' (attach extend) Joseki -- a very good joseki to know --and it is one of the best joseki for handicap games.  It would be a greater advantage had Black a stone at 'A'.However, for lower kyu ratings, unless one is aware of the various positions,one can get into a lot of trouble.  :-(RIGHT])
+(;B[nc]LB[jc:A]LB[nd:B]C[ This sequence is known as the 'Tsukenobi' (attach extend) Joseki -- a very good joseki to know --and it is one of the best joseki for handicap games.  It would be a greater advantage had Black a stone at 'A'.However, for lower kyu ratings, unless one is aware of the various positions,one can get into a lot of trouble.  :-( B is an alternativeRIGHT])
+(;B[md]C[RIGHT])
+(;B[mc]C[RIGHT]))
+(;B[qe];W[of]LB[qe:A]C[While the move at A  is correct for a Tsukeosae (attach block), it is not the joseki that we are after.  You may continue down this path (though it will lead to a wrong ending for this problem).];B[pe];W[qg];B[nd]C[If you made it here you successfully finished the tsukeosae (attach block) joseki, however you did not do the tsukenobi (attach extend) joseki.RIGHT]))

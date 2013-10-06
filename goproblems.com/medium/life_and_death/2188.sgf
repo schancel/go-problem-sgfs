@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1k]DP[19]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[pb][qb][nc][qc][dd][ne][qe][re][jm][cn][jn][rn][io][ro][dp][qp][qq][pr][qr]AB[ob][oc][pc][pd][le][nf][pf][pj][qm][qn][fo][jo][qo][jp][pp][fq][nq][pq][or]LB[hm:A][im:D][hn:B][in:E][ho:C]TR[jm][jn][io]C[how can black best attack the shape of the marked white stones?]PL[B]
+(;B[hm]CR[hm]
+;W[hn]CR[hn]C[though this is often the key point, here white gets good shape])
+(;B[hn]CR[hn]
+;W[in]CR[in]C[good start. how to complete the shape?]
+(;B[hm]CR[hm]C[RIGHT
+the white stones are heavy])
+(;B[ip]CR[ip]
+;W[hm]CR[hm]C[white gets good shape])
+(;B[hp]CR[hp]C[weak])
+(;B[ho]CR[ho]
+;W[ip]CR[ip]C[this helps white do what he wants to do anyway]))
+(;B[ho]CR[ho]
+;W[in]CR[in]C[not bad, but white's shape is better than it could be])
+(;B[im]CR[im]
+;W[in]CR[in]C[no way jose])
+(;B[in]CR[in]
+;W[hn]CR[hn]C[black captured in a ladder. terrible for black.]))

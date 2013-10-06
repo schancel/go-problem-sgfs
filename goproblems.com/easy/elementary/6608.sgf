@@ -1,0 +1,21 @@
+(;GE[elementary]DI[8k]DP[49]SO[Schizoid]CO[9]AB[rr]AB[rq]AB[rp]AB[ro]AW[rn]AW[qn]AW[qo]AW[pp]AW[pq]AW[qr]AB[qq]LB[qq:1]C[Black plays 1; how should white respond?]AP[goproblems]
+(;W[qs];B[rs]
+(;W[pr];B[so]C[Wrong; Black lives.])
+(;W[or];B[so]C[Wrong; Black lives.])
+(;W[so];B[pr]C[Oops...Black lives...]))
+(;W[pr];B[rs]
+(;W[so];B[sp];W[sr]C[Correct! White kills!RIGHT])
+(;W[sr];B[so];W[sq]C[Correct! White kills!RIGHT])
+(;W[sp];B[so]
+(;W[sq];B[sr]C[Oops...Black lives...])
+(;W[sr];B[sq]C[Oops...Black lives...]))
+(;W[qs];B[so]C[Black lives]))
+(;W[ps];B[rs]
+(;W[so];B[sp];W[sr]C[Correct! White kills!RIGHT])
+(;W[sr];B[so];W[sq]C[Correct! White kills!RIGHT]))
+(;W[or];B[qs];W[pr];B[so]
+(;W[rs];B[ss];W[sq]C[Correct! White kills!RIGHT])
+(;W[sq];B[sr];W[rs]C[Correct! White kills!RIGHT])
+(;W[sr];B[sq]C[Oops...Black lives...]))
+(;W[rs];B[pr]C[Oops...Black lives...])
+(;W[so];B[pr]C[Oops...Black lives...]))

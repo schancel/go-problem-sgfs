@@ -1,0 +1,36 @@
+(;GE[life and death]DI[7k]DP[40]SO[mrmoto]CO[5]AB[sm]AB[rm]AB[qm]AB[qn]AB[qo]AB[so]AB[rp]AB[rq]AB[pp]AB[oo]AB[np]AB[nq]AB[mr]AB[or]AB[os]AB[qr]AW[pr]AW[pq]AW[qq]AW[qp]AW[ro]AW[rn]AW[sp]AW[sr]C[How many ways can white live?]LB[lm:0]LB[mm:1]LB[nm:2]LB[om:3]AP[goproblems]
+(;W[ps]C[NOTTHIS])
+(;W[qs]C[NOTTHIS])
+(;W[rs]C[NOTTHIS])
+(;W[rr]C[NOTTHIS])
+(;W[ss]C[NOTTHIS])
+(;W[sq]C[NOTTHIS])
+(;W[sn]C[NOTTHIS])
+(;W[oq]C[NOTTHIS])
+(;W[op]C[NOTTHIS])
+(;W[lm]C[Sad, but true. :(RIGHT]LB[sr::(])
+(;W[mm];B[mo]C[Ok, find a move that saves white.]
+(;W[sn];B[so])
+(;W[sq];B[qs]
+(;W[sn];B[so])
+(;W[rr];B[rp]
+(;W[sn];B[so])
+(;W[ps];B[rs])
+(;W[rq];B[sn])
+(;W[rs];B[ps]))
+(;W[ps];B[oq])
+(;W[rs];B[sn]))
+(;W[ps];B[oq])
+(;W[qs];B[sn])
+(;W[rr];B[qs]
+(;W[sq];B[rp]
+(;W[sn];B[so])
+(;W[ps];B[rs])
+(;W[rs];B[ps])
+(;W[rq];B[sn]))
+(;W[sn];B[so])
+(;W[rs];B[ps])
+(;W[ps];B[oq]))
+(;W[rs];B[oq]))
+(;W[nm]C[Too high.  Please navigate solution to see variations.])
+(;W[om]C[Too high.  Please navigate solution to see variations.]))

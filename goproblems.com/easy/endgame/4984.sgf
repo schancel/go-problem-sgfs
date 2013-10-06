@@ -1,0 +1,26 @@
+(;GE[endgame]DI[15k]DP[62]SO[kochi]CO[5]AB[is]AB[ir]AB[hr]AB[gr]AB[fr]AB[fq]AB[fp]AB[fo]AB[fn]AW[jn]AW[jo]AW[jp]AW[jq]AW[jr]AW[js]AW[in]AW[hn]AW[gn]AB[hp]AB[gs]AB[er]AB[es]AW[ds]AW[dr]AW[dq]AW[eq]AW[ep]AW[eo]AW[en]AW[em]AW[fm]AW[gm]AW[dl]AW[hl]AW[km]C[Late in the endgame you find that you need to secure 2 extra points of territory to win the game.]AP[goproblems]
+(;B[iq];W[go]
+(;B[gp]C[2 points, the best result.RIGHT])
+(;B[ho];W[gp]
+(;B[gq];W[ip])
+(;B[ip];W[gq]))
+(;B[gq];W[ip]
+(;B[ho];W[gp])
+(;B[gp];W[ho]C[Just one point, and so has White.])))
+(;B[go];W[iq]
+(;B[hq]C[The 2 points you need.RIGHT])
+(;B[ip];W[hq])
+(;B[ho];W[hq];B[gq]C[Just 1 point.])
+(;B[gq];W[ho]
+(;B[hq];W[ip]C[You have a point, and so does White.])
+(;B[ip];W[hq])))
+(;B[hq];W[go];B[gp])
+(;B[gq];W[go];B[iq])
+(;B[gp];W[iq];B[hq])
+(;B[ho];W[iq]
+(;B[go];W[hq];B[gq]C[Only 1 point.])
+(;B[hq];W[go];B[gp]C[One point is not enough.]))
+(;B[ip];W[go]
+(;B[gp];W[iq];B[hq]C[Just 1 point.])
+(;B[iq];W[gp];B[gq]C[Just 1 point.]))
+(;B[io];W[ip];B[ho];W[go];B[gp];W[iq];B[hq]C[Just 1 point.]))

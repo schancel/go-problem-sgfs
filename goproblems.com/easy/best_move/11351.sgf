@@ -1,0 +1,5 @@
+(;GE[best move]DI[25k]DP[76]SO[sinse33]CO[0]AB[pp]C[Tsuke on oshi : What is the best move for black ?]AW[qp]LB[qq:A]LB[pq:B]LB[qo:C]LB[po:D]AW[ph]AP[goproblems]
+(;B[qq]C[];W[qo]C[Play at A]LB[pq:A];B[pq];W[qm]C[Correct ! Reply at stuke by haneRIGHT]TR[pp]TR[qp]TR[qq])
+(;B[qo]C[];W[qq]C[Play at A]LB[pq:A];B[pq];W[ro]C[Play at A]LB[qn:A];B[qn];W[rn]C[Play at A]LB[qm:A];B[qm];W[pr]C[Play at A]LB[or:A];B[or];W[qr]C[Play at A]LB[nq:A];B[nq]C[Correct ! Reply at stuke by haneRIGHT]TR[pp]TR[qp]TR[qo])
+(;B[po]C[];W[qq]C[Play at A]LB[qo:A];B[qo];W[or]C[Play at A]LB[qk:A];B[qk]C[Good for white])
+(;B[pq]LB[qo:A]LB[qq:B]C[Not really bad, but make A and B miai, so white have the choice.]))

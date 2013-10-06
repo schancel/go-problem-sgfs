@@ -1,0 +1,20 @@
+(;GE[life and death]DI[5d]DP[5]SO[Spirit]CO[7]AB[md]AB[nb]AB[nc]AB[ne]AB[ng]AB[oh]AB[pa]AB[ph]AB[qb]AB[qc]AB[qd]AB[qf]AB[qh]AB[re]AB[rf]AB[rg]AB[sf]AW[ic]AW[lc]AW[pb]AW[pc]AW[pd]AW[pe]AW[pf]AW[pg]AW[qe]AW[qg]AW[qj]AW[rd]AW[rh]AW[ri]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3];W[rc]MN[1];B[rb];W[sd];B[sb]
+(;W[ra]
+(;B[sc]
+(;W[qa]
+(;B[se]C[CHOICE]
+(;W[na];B[sa];W[qa]
+(;B[ra]C[CHOICE]
+(;W[ob]
+(;B[rd]C[CHOICE];W[mb]C[CHOICERIGHT])
+(;B[ma];W[oa];B[mb];W[rd]C[RIGHT]))
+(;W[mb];B[ob])
+(;W[oa];B[ob];W[qa];B[rd];W[mb];B[pa]C[not a favorable ko for white]))
+(;B[ma];W[oa];B[mb];W[rd]C[RIGHT]))
+(;W[rd];B[oa])
+(;W[oa];B[rd]))
+(;B[sa];W[qa];B[se];W[na]))
+(;W[na];B[qa]))
+(;B[qa];W[oa];B[ob];W[sh]C[RIGHT])
+(;B[oa];W[qa];B[sa];W[qa];B[ra];W[sh]C[RIGHT]))
+(;W[sh];B[sc]))

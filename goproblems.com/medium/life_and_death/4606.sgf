@@ -1,0 +1,8 @@
+(;GE[life and death]DI[2d]DP[12]SO[chrisg]CO[3]SZ[19]AW[cb]AW[db]AW[gb]AW[fc]AW[gc]AW[bd]AW[cd]AW[gd]AW[be]AW[de]AW[ge]AW[af]AW[bf]AW[gf]AW[ag]AW[cg]AW[gg]AW[ch]AW[dh]AW[eh]AW[fh]AB[ab]AB[bb]AB[eb]AB[fb]AB[ac]AB[bc]AB[cc]AB[ec]AB[ad]AB[dd]AB[ed]AB[fd]AB[ae]AB[ce]AB[fe]AB[cf]AB[dg]AB[eg]AB[fg]TR[cd]C[W has just played the marked stone and B tenukied thinking that there was nothing that W could do]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;W[ff];B[ef]
+(;W[dc];B[da];W[df];B[ee]C[Not good enough I'm afraid])
+(;W[df];B[ee]C[There's still more that can be done];W[da];B[dc];W[ba];B[fa]C[W catches 2 stones & gets a seki - very good. This is 3 points better than catching 5 stones.RIGHT]))
+(;W[dc];B[da]C[CHOICE]
+(;W[ff];B[ee];W[ef]C[W gets 5 stones in gote, sorry this isn't good enough. W can do better])
+(;W[ee];B[ff];W[df]C[W gets 2 stones in gote, not good enough]))
+(;W[da];B[dc];W[ba];B[fa];W[ff];B[ef];W[df];B[ee]C[W catches 2 stones & gets a seki - very good. This is 3 points better than catching 5 stones. (thanks to guff for suggesting this)RIGHT]))

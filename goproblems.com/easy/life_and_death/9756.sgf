@@ -1,0 +1,28 @@
+(;GE[life and death]DI[8k]DP[45]SO[lok]CO[7]AB[cr]AB[cq]AB[dp]AB[ep]AB[eq]AB[fr]AB[fs]AW[br]AW[bq]AW[cp]AW[fq]AW[gr]AW[hq]AW[fp]AB[eo]AB[en]AB[dn]AB[cn]AW[bp]AW[cm]AW[dm]AW[em]AW[bm]AW[fn]AW[bo]AW[bn]AW[gn]C[Can white kill?]LB[fl:Yes]LB[gl:No]AP[goproblems]
+(;W[fl];B[gl]C[Prove it...]
+(;W[dr];B[ds]
+(;W[er];B[co]
+(;W[gs]C[Nice, black can't connect at E1.RIGHT])
+(;W[fo];B[dq])
+(;W[cs];B[dq])
+(;W[bs];B[dq]))
+(;W[cs];B[bs];W[er];B[co];W[gs]C[Good, but the exchange wC1 bB1 was not needed.RIGHT])
+(;W[gs];B[er])
+(;W[co];B[er]))
+(;W[co];B[dr])
+(;W[cs];B[dr])
+(;W[gs];B[dr])
+(;W[ds];B[dr]
+(;W[cs];B[co])
+(;W[co];B[cs]))
+(;W[er];B[dr])
+(;W[es];B[ds]))
+(;W[gl]C[Wrong, white can kill.])
+(;W[cs]C[NOTTHIS])
+(;W[dr]C[NOTTHIS])
+(;W[ds]C[NOTTHIS])
+(;W[es]C[NOTTHIS])
+(;W[er]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[co]C[NOTTHIS])
+(;W[gs]C[NOTTHIS]))

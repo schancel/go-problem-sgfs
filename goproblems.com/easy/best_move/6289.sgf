@@ -1,0 +1,13 @@
+(;GE[best move]DI[4k]DP[29]SO[Stones]CO[7]AB[sa]AB[ra]AB[qa]AB[pa]AB[pb]AB[sd]AB[sc]AB[sb]AB[rd]AB[pd]AB[qe]AB[oc]AB[ob]AB[pe]AB[re]AW[se]AW[sf]AW[rf]AW[qf]AW[pf]AW[of]AW[nc]AW[nb]AW[na]AW[oa]AW[nd]AB[oe]AB[od]AW[ne]AW[nf]AB[lb]AB[rh]AB[ri]AB[ph]AB[ad]AB[bd]AB[cd]AB[dd]AB[dc]AB[db]AB[da]AB[ca]AB[ba]AB[aa]AB[ab]AW[ae]AW[be]AW[ce]AW[de]AW[ed]AW[ec]AW[eb]AW[ea]AB[bg]AB[dg]AB[eg]AB[gb]AB[gd]AB[gf]AB[kb]AB[ge]AB[nh]AW[ee]AB[le]AB[ld]AB[lf]AB[fb]AB[bf]AB[ng]AB[lh]C[Black to get the best result.]AP[goproblems]
+(;B[cc]C[NOTTHIS])
+(;B[bb]C[NOTTHIS])
+(;B[bc];W[qc]C[Please play A to fill a liberty or T to tenuki.]LB[ma:A]LB[ig:T]
+(;B[ma];W[pc]LB[mb:A]C[Please play A.];B[mb];W[qd]LB[mc:A];B[mc];W[rc]LB[md:A];B[md];W[qb]LB[rb:A]
+(;B[me];W[rb])
+(;B[rb];W[qc]LB[me:A];B[me];W[pc]LB[mf:A];B[mf];W[qd]LB[og:A];B[og];W[rc]LB[qb:A];B[qb];W[qc]LB[pg:A];B[pg];W[qd]LB[qg:A];B[qg];W[rc]LB[pc:A];B[pc];W[qc]LB[rg:A];B[rg];W[qd]LB[sg:A];B[sg]C[Correct.  Black wins the race.  White has wasted ko threats.RIGHT]))
+(;B[ig];W[pc]C[White wins the capturing race.  ]))
+(;B[qb]C[NOTTHIS])
+(;B[rc]C[NOTTHIS])
+(;B[qc];W[bc]LB[af:A]C[Please play A.];B[af];W[cc]LB[cf:A];B[cf];W[ac]LB[df:A];B[df];W[bb]LB[cb:A]
+(;B[ef])
+(;B[cb];W[bc]LB[ef:A];B[ef];W[cc]LB[fe:A];B[fe];W[bb]LB[ac:A];B[ac];W[bc]LB[fd:A];B[fd];W[cc]C[White wins the capturing race.])))

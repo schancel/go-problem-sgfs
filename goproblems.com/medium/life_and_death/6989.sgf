@@ -1,0 +1,52 @@
+(;GE[life and death]DI[3k]DP[24]SO[Trucid]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fl][em][fm][cn][dn][en][gn][hn][in][do][io][ep][fq][iq]AB[dj][gj][ek][gk][cl][el][gl][gm][bn][fn][co][eo][fo][go][ho][cp][dp][dq][gq]TR[fl][em][fm][cn][dn][en][do]C[White to rescue the marked stones.]PL[W]
+(;W[hp]CR[hp]
+;B[gp]CR[gp]
+(;W[gr]CR[gr]
+;B[eq]CR[eq]
+(;W[hq]CR[hq]C[RIGHT Snapback])
+(;W[fp]CR[fp]
+;B[fr]CR[fr])
+(;W[fr]CR[fr]
+;B[fp]CR[fp]))
+(;W[fr]CR[fr]
+;B[eq]CR[eq]
+;W[fp]CR[fp]
+;B[gr]CR[gr]C[Three vs two liberties, black wins.])
+(;W[hq]CR[hq]
+;B[gr]CR[gr]
+(;W[fr]CR[fr]
+;B[eq]CR[eq]
+;W[fp]CR[fp]
+;B[fs]CR[fs])
+(;W[hr]CR[hr]
+;B[fr]CR[fr])))
+(;W[gp]CR[gp]
+;B[hp]CR[hp]
+(;W[hq]CR[hq]
+;B[fp]CR[fp]
+(;W[eq]CR[eq]
+;B[fr]CR[fr])
+(;W[ip]CR[ip]
+;B[eq]CR[eq])
+(;W[gr]CR[gr]
+;B[eq]CR[eq]))
+(;W[ip]CR[ip]
+;B[fp]CR[fp]))
+(;W[gr]CR[gr]
+;B[eq]CR[eq]
+(;W[fp]CR[fp]
+;B[fr]CR[fr])
+(;W[gp]CR[gp]
+;B[fp]CR[fp]))
+(;W[fr]CR[fr]
+;B[fp]CR[fp]
+;W[eq]CR[eq]
+;B[gr]CR[gr]C[Three vs two, black wins semeai])
+(;W[fp]CR[fp]
+;B[fr]CR[fr]
+(;W[gp]CR[gp]
+;B[hp]CR[hp])
+(;W[hp]CR[hp]
+;B[gp]CR[gp])))

@@ -1,0 +1,36 @@
+(;GE[life and death]DI[6k]DP[37]SO[kdb]CO[8]GM[1]FF[4]AP[glGo:1.3.1]ST[1]
+
+SZ[19]KM[6.5]
+PW[White]PB[Black]
+AB[ie][jf][je][jd][kf][ke][kd][ma][lb][lc][ld][mc][nd][oe][od][pa][pc][pd][qb][qa]AW[pe][pf][qf][rb][ra][mg][lg][kg][jg][if][hf][he][hd][id][ib][jc][kc][kb][ka][la][me][of][ne][qd][qc]C[White to kill.  This position came up in the endgame (I was white, six-stone handicap).  I had just cut off Black from a strong group on the left side.
+Any corrections / comments are welcome.]
+(;W[ob]
+;B[nb]
+(;W[pb]
+(;B[oc]
+;W[oa]LB[md:B][na:A]C[A and B are miai for the kill.RIGHT])
+(;B[md]
+;W[oa]LB[oc:B][na:A]C[A and B are miai for the kill.RIGHT]))
+(;W[oa]
+;B[pb]C[The almost fill does not work - Black has two eyes.])
+(;W[oc]
+;B[pb]C[The almost fill does not work - Black has two eyes.]))
+(;W[nb]
+;B[ob]
+(;W[mb]
+;B[nc]
+;W[na]
+;B[oa]C[This is even worse than failing, as White must play at A to protect her three stones.])
+(;W[na]
+;B[nc]
+;W[mb]
+;B[oa]LB[ma:A]C[This is even worse than failing, as White must play at A to protect her three stones.]))
+(;W[md]
+(;B[ob]
+;W[nb]
+;B[mb]
+;W[nc]
+;B[oc])
+(;B[nb]
+;W[ob]
+;B[pb])))

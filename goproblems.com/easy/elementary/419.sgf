@@ -1,0 +1,42 @@
+(;GE[elementary]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[cr][br][bq]AB[dr][dq][cq][eq]AW[bo][cp][eo][fp][gp]AB[fq][gq]AW[fr][fs]AB[gr][hr][ir][is]AW[hq][iq][jp][jr][kr]PL[W]C[white to kill]
+(;W[es]CR[es]
+;B[ds]CR[ds]
+(;W[gs]CR[gs]C[RIGHT
+white makes nakade (dead shape)])
+(;W[er]CR[er]
+;B[gs]CR[gs]))
+(;W[gs]CR[gs]
+;B[es]CR[es]C[seki: black lives]
+(;W[cs]CR[cs]
+;B[ds]CR[ds])
+(;W[er]CR[er]
+;B[hs]CR[hs])
+(;W[hs]CR[hs]
+;B[er]CR[er]))
+(;W[ds]CR[ds]
+(;B[es]CR[es]
+(;W[er]CR[er]
+;B[gs]CR[gs])
+(;W[gs]CR[gs]
+;B[cs]CR[cs]C[seki: black lives]))
+(;B[gs]CR[gs]
+;W[es]CR[es]))
+(;W[er]CR[er]
+;B[gs]CR[gs]
+;W[ds]CR[ds]
+;B[es]CR[es])
+(;W[dp]CR[dp]
+;B[gs]CR[gs]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[er]CR[er]
+;B[es]CR[es])
+(;W[cs]CR[cs]
+;B[gs]CR[gs]
+(;W[ds]CR[ds]
+;B[es]CR[es]
+;W[er]CR[er]
+;B[es]CR[es])
+(;W[es]CR[es]
+;B[ds]CR[ds])))

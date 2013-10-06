@@ -1,0 +1,125 @@
+(;GE[endgame]DI[6k]DP[39]SO[Coutty]CO[0]AW[qa]AW[pa]AW[qb]AW[rb]AW[rc]AW[rd]AW[qd]AW[rf]AW[rg]AW[qf]AW[pf]AW[og]AW[lf]AW[lg]AW[kg]AW[jg]AB[mf]AB[le]AB[ld]AB[nd]AB[oe]AB[pd]AB[pc]AB[pb]AB[qc]AB[oa]AB[lb]AB[ka]AB[kc]AB[jd]AB[id]AB[ic]AB[if]AB[jf]AW[he]AW[hc]AW[hd]AW[gb]AW[ib]AW[jb]AW[kb]AW[jc]AB[nf]AW[ng]AW[mg]AB[pe]AW[qe]AB[kf]AB[ie]AW[hf]AW[ig]AB[of]C[White can reduce black territory. Try to find correct way (you can find more than one).]AP[goproblems]
+(;W[mc]
+(;B[lc]
+(;W[ma]
+(;B[mb];W[ob];B[nb];W[na];B[oc];W[oa];B[la];W[ja]C[Correct. Black has 10 points.RIGHT])
+(;B[nb];W[la];B[mb];W[ja];B[na];W[ka]C[Yes. Black has 12 points.RIGHT]))
+(;W[ob];B[na]
+(;W[ma];B[nb]
+(;W[mb];B[nc])
+(;W[nc];B[mb])
+(;W[la];B[mb]))
+(;W[nb];B[ma])))
+(;B[mb];W[ob];B[nb];W[na];B[oc]
+(;W[oa];B[la];W[ja]C[Yes. Black has 10 points (he need to connect M19 with another part of group later to avoid double atari).RIGHT])
+(;W[ma];B[oa]C[This is bad ko for white. You should connect at P19.])))
+(;W[ja];B[la]C[Black has 16 points - yose for beginners. Try to find another path.])
+(;W[ob];B[na]
+(;W[nb];B[ma];W[mb];B[la]
+(;W[mc];B[lc])
+(;W[ja];B[lc]))
+(;W[mb];B[ma]
+(;W[ja];B[la];W[nb];B[lc])
+(;W[nb];B[la]
+(;W[ja];B[lc])
+(;W[lc];B[mc])
+(;W[mc];B[lc])))
+(;W[mc];B[lc]
+(;W[ma];B[nb]
+(;W[mb];B[nc])
+(;W[la];B[mb])
+(;W[nc];B[mb]))
+(;W[nb];B[ma]))
+(;W[ma];B[nb]
+(;W[mb];B[nc]
+(;W[la];B[mc])
+(;W[ja];B[mc];W[la];B[ka];W[la];B[ma]C[RIGHT];W[ka]C[Black has 13 points (with prisoner).This is good, but you can do small better.RIGHT])
+(;W[mc];B[la]
+(;W[lc];B[md])
+(;W[ja];B[lc])))
+(;W[nc];B[mb])
+(;W[la];B[mb])
+(;W[ja];B[mb];W[la];B[ka];W[la]C[14 points for black])))
+(;W[na];B[ob]
+(;W[mc];B[lc]
+(;W[ma];B[la])
+(;W[mb];B[la]C[Black avoid ko]))
+(;W[ma];B[la])
+(;W[la];B[ma]
+(;W[mb];B[nb])
+(;W[ja];B[la])))
+(;W[nb];B[ob];W[mc];B[lc]
+(;W[la];B[ma])
+(;W[ma];B[la]))
+(;W[la];B[ma])
+(;W[ma]
+(;B[la]
+(;W[ob];B[nb]
+(;W[na];B[mb]
+(;W[oa];B[oc]C[Correct! Black has 10 points.RIGHT])
+(;W[oc];B[oa];W[na];B[nc]C[Black has 9 points (with prisoner). MeleeNewb's solution.RIGHT]))
+(;W[oc];B[na]))
+(;W[na];B[ob])
+(;W[nb];B[ob])
+(;W[mc];B[mb]
+(;W[ob];B[nb]
+(;W[na];B[oa]
+(;W[na];B[oc];W[oa]LB[lc:A]C[Black has 10 points (need to connect both his group to avoid double atari at A in future)RIGHT])
+(;W[oc];B[na]
+(;W[lc];B[nc];W[kd];B[ke]
+(;W[md];B[kc]C[Black gets hanami ko.])
+(;W[kc];B[md]C[Right!RIGHT]))
+(;W[nc];B[lc])
+(;W[ja];B[lc])))
+(;W[oc];B[na];W[lc];B[nc];W[kd];B[ke]
+(;W[md];B[kc]C[Black gets hanami ko.])
+(;W[kc];B[md]C[Right!RIGHT]))
+(;W[lc];B[kd]
+(;W[nc];B[oc])
+(;W[oc];B[na]
+(;W[ja];B[nc])
+(;W[nc];B[md];W[ja];B[od]))
+(;W[na];B[oa]
+(;W[na];B[oc]
+(;W[nc];B[md])
+(;W[oa];B[nc]C[RIGHT]))
+(;W[oc];B[na]
+(;W[nc];B[md];W[ja];B[od])
+(;W[ja];B[nc]))))
+(;W[nc];B[oc])
+(;W[ja];B[oc]))
+(;W[lc];B[kd]
+(;W[nb];B[na]
+(;W[ob];B[nc];W[ma];B[na];W[oa];B[md]C[RIGHT];W[oc]C[RIGHT])
+(;W[nc];B[ob];W[ja];B[ma])
+(;W[ja];B[nc];W[ma];B[ob]
+(;W[mb];B[md]C[RIGHT])
+(;W[md];B[me];W[mb]C[RIGHT])))
+(;W[ob];B[nb]
+(;W[na];B[oc];W[oa];B[nc]C[RIGHT])
+(;W[oc];B[na]
+(;W[nc];B[md];W[ja];B[od])
+(;W[ja];B[nc]))
+(;W[nc];B[oc]))
+(;W[na];B[nb])
+(;W[nc];B[ob];W[nb];B[na];W[ja];B[ma])
+(;W[ja];B[nb]))
+(;W[nb];B[ob]
+(;W[lc];B[na]
+(;W[kd];B[ke]
+(;W[nc];B[kc];W[ja];B[ma];W[kd]C[RIGHT])
+(;W[kc];B[nc]C[RIGHT];W[md];B[me]C[RIGHT]))
+(;W[nc];B[kd]))
+(;W[ja];B[lc]))
+(;W[na];B[nb])))
+(;B[mb]
+(;W[ob];B[nb];W[na];B[oc];W[oa];B[la]C[Black has 10 points. Correct.RIGHT])
+(;W[na];B[ob])
+(;W[nb];B[ob]))
+(;B[nb]
+(;W[la];B[mb];W[ja];B[na];W[ka]C[Correct. Black has 12 points.RIGHT])
+(;W[na];B[ob]C[White lost 2 stones.])
+(;W[mb];B[la]C[White lost 2 stones. Black has 15 points (after K19-M17). You can do better.])))
+(;W[mb];B[ob]C[];W[ma];B[la];W[ja];B[lc])
+(;W[nc];B[ob];W[mc];B[lc]C[No more...])
+(;W[me];B[la]C[Black has 17 points.];W[mc];B[lc];W[ob];B[na];W[ma];B[nb];W[mb];B[nc]))

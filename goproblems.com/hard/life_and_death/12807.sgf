@@ -1,0 +1,63 @@
+(;GE[life and death]DI[4d]DP[8]SO[Clydevil]CO[0]AB[dp]AB[dq]AB[dr]AB[eq]AB[fr]AB[es]AB[co]AB[cn]AB[bm]AB[an]AB[cl]AB[bk]AB[dl]AB[fn]AB[gn]AB[ho]AB[io]AB[in]AB[ip]AB[jn]AB[jp]AB[kp]AB[km]AB[kl]AB[kk]AB[jk]AB[ik]AB[il]AB[lm]AB[lj]AB[nj]AB[mj]AB[oj]AB[ok]AB[lo]AB[mo]AB[no]AB[np]AB[op]AB[pp]AB[pq]AB[qo]AB[ro]AB[qn]AB[rm]AB[pl]AB[pi]AB[hj]AB[hi]AB[hq]AB[ir]AW[ko]AW[kn]AW[ln]AW[mn]AW[mm]AW[ll]AW[lk]AW[nk]AW[mk]AW[om]AW[ol]AW[pn]AW[pk]AW[ql]AW[qm]AW[qj]AW[rn]AW[bl]AW[hr]AW[gr]AW[fq]AW[fp]AW[gp]AW[hp]AW[go]AW[ep]AW[hn]AW[hm]AW[gm]AW[fm]AW[cm]AW[dm]AW[dn]AW[kj]AW[jj]AW[ij]AW[ih]AW[jh]AW[hk]AW[gk]AW[ej]AW[eh]AW[mp]AW[lp]AW[lq]AW[nq]AW[oq]AW[kr]AW[jl]C[Be lethal.]AP[goproblems]
+(;W[gq]C[]
+(;B[kq]
+(;W[mr];B[jr]
+(;W[iq];B[ks]
+(;W[lr];B[or]
+(;W[nr];B[pr]
+(;W[ls];B[ns]
+(;W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[js];B[is]C[Ko. All this way for half a something :(]))
+(;W[ns];B[ls]C[Do you believe in god?])
+(;W[is];B[js];W[ls];B[hs]LB[gs:A]LB[ns:B]))
+(;W[ls];B[nr]
+(;W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[js];B[is]C[:(]))
+(;W[is];B[js]
+(;W[ls];B[hs]LB[gs:A]LB[nr:B])
+(;W[nr];B[pr];W[ls];B[hs]LB[gs:A]LB[ns:B])))
+(;W[ls]C[Ko is a sad thing because it is only half an happy one.]))
+(;W[ks];B[iq]C[:(])
+(;W[ls];B[iq]C[:(]))
+(;W[jr];B[lr];W[mq];B[mr]C[Oops !])
+(;W[lr];B[jr]
+(;W[iq];B[or]
+(;W[nr];B[pr]
+(;W[ks];B[ms]
+(;W[ns];B[mr];W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[mr];B[ns];W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT]))
+(;W[mr];B[ks];W[ls];B[ns];W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[ns];B[ks];W[ls];B[mr]
+(;W[js];B[is]C[:(])
+(;W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT]))
+(;W[is];B[js];W[ks];B[hs]LB[gs:A]LB[ms:B]))
+(;W[ks];B[nr];W[is]C[Tesuji at the end. Congrats you are a lethal weapon.RIGHT])
+(;W[is];B[js]
+(;W[ks];B[hs]LB[gs:A]LB[nr:B])
+(;W[nr];B[pr];W[ks];B[hs]LB[gs:A]LB[ms:B])))
+(;W[mr];B[iq]C[?])))
+(;B[mr];W[jr];B[is];W[iq];B[jq];W[hq];B[lr];W[kq];B[mq];W[hs]C[If black plays n2 we have at least this unconditionnal following.RIGHT]))
+(;W[mr];B[gs]
+(;W[hs];B[is]
+(;W[fs]C[Ko. So in a way you successed to get half a good thing. :p])
+(;W[gq];B[eo]
+(;W[fs]C[Ko. So in a way you successed to get half a good thing. :p])
+(;W[iq];B[fo];W[fs]C[Ko. So in a way you successed to get half a good thing. :p])))
+(;W[gq];B[hs];W[iq];B[jr];W[jq];B[kq]C[:(]))
+(;W[en];B[iq];W[gq];B[kq]
+(;W[mr];B[jr]C[Congratulations! You managed to make black live in sente. ! :(]TR[ks])
+(;W[jr];B[lr];W[mq];B[mr]C[Oops !])
+(;W[lr];B[jr]TR[or]C[Congratulations! You managed to make black live in sente. ! :(]))
+(;W[eo]C[NOTTHIS])
+(;W[fo]C[NOTTHIS])
+(;W[jq];B[kq]
+(;W[jr];B[lr];W[mq];B[mr]C[Oops !])
+(;W[mr];B[jr]C[:( How not to kill in gote.])
+(;W[lr];B[jr]C[:( How not to kill in gote.]))
+(;W[jr];B[is]LB[gs:A]LB[mr:B]C[Here connecting at A for black or playing B are miai. Please play A side to prevent the connection.]
+(;W[gs];B[mr]C[I think it is not good playing this way, if you have something clear showing you win this semai between two one-eyed groups with three shared liberties let me know, and I will add it to the correct variation branches.]TR[jq]TR[kq]TR[js])
+(;W[mr]C[NOTTHIS])
+(;W[en]C[NOTTHIS])
+(;W[eo]C[NOTTHIS])
+(;W[gq]C[NOTTHIS])))

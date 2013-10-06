@@ -1,0 +1,52 @@
+(;GE[life and death]DI[4k]DP[28]SO[magrock]CO[0]AB[bc]AB[bd]AB[be]AB[cd]AB[dd]AB[ed]AB[ec]AB[fb]AW[cc]AW[dc]AW[eb]AW[db]AW[fc]AW[gc]AW[ic]AW[fe]AW[ee]AW[de]AW[ce]AW[cg]AW[bf]C[black to live (ko)nditionally]AP[goproblems]
+(;B[ea]
+(;W[bb];B[da];W[cb];B[ab];W[gb];B[ba];W[fa])
+(;W[gb];B[cb];W[fa]
+(;B[ab];W[ca];B[ba]C[black gets a ko only if white makes the mistake of playing at g18])))
+(;B[da];W[bb]
+(;B[ba];W[cb];B[ab];W[fa];B[gb];W[hb];B[ca];W[ga])
+(;B[fa];W[cb];B[ba]
+(;W[gb];B[ab];W[ga])
+(;W[ab];B[ea];W[gb];B[ca];W[ga];B[ac];W[aa]))
+(;B[ab];W[cb])
+(;B[ea];W[cb];B[ab];W[gb]))
+(;B[bb]
+(;W[ae]
+(;B[cb];W[fa]
+(;B[ca];W[ad];B[ac];W[aa];B[af];W[ae];B[ag]C[escaping is not good enough])
+(;B[ad];W[ca];B[ba];W[ab])
+(;B[ea];W[gb];B[ca];W[ad];B[ac];W[aa]))
+(;B[da];W[fa];B[cb];W[gb];B[ad];W[ca];B[ba];W[ab]))
+(;W[fa];B[ae];W[ba];B[ca];W[cb];B[aa];W[ac];B[ea];W[gb];B[da];W[ba];B[ca];W[da];B[ba]
+(;W[af])
+(;W[fd];B[af];W[ag];B[ab];W[ad])))
+(;B[cb]
+(;W[ca]C[CHOICE]
+(;B[bb];W[fa];B[ba];W[ae];B[da];W[gb];B[ad];W[ab])
+(;B[ba];W[bb];B[ab]C[ko for lifeRIGHT])
+(;B[ab];W[bb];B[ba]
+(;W[cb]C[CHOICE];B[ea]C[ko for lifeRIGHT])
+(;W[aa]C[black gets a koCHOICERIGHT])))
+(;W[bb]C[CHOICE]
+(;B[ba]
+(;W[ca]C[CHOICE];B[ab]C[ko for lifeRIGHT])
+(;W[ab]C[CHOICE];B[da]C[ko for life];W[ca]C[black gets a ko for lifeRIGHT]))
+(;B[ab];W[ca])))
+(;B[ca];W[cb];B[bb];W[fa]
+(;B[ae];W[ac];B[ba];W[ab])
+(;B[ba];W[ae]))
+(;B[fa];W[bb];B[da];W[cb];B[ab];W[gb];B[ba])
+(;B[ba];W[ab]
+(;B[da]
+(;W[ea])
+(;W[fa];B[cb];W[gb];B[ae];W[ac];B[bb];W[ea];B[ca];W[fd];B[af];W[ag];B[aa];W[ad]))
+(;B[cb];W[fa])
+(;B[ac];W[bb];B[da];W[cb];B[fa];W[gb];B[ca];W[ga];B[ea];W[aa]))
+(;B[ab];W[bb]
+(;B[ba];W[cb]
+(;B[fa];W[gb];B[ea])
+(;B[gb];W[hb])
+(;B[ga];W[gb];B[ea];W[ha];B[da];W[fa]))
+(;B[cb];W[ba]
+(;B[ea];W[ca])
+(;B[da];W[ca];B[ac];W[ea]))))

@@ -1,0 +1,10 @@
+(;GE[life and death]DI[6d]DP[4]SO[Field Mouse]CO[0]AB[pb]AB[pc]AB[qd]AB[rc]AB[re]AW[rf]AW[qf]AW[qe]AW[pe]AW[pd]AW[od]AW[oc]AW[nc]C[White to play and get a good result. Do not forget to read the rules!]AW[nb]AW[rg]AP[goproblems]
+(;W[rd];B[ra]LB[sd:A];W[qc];B[qb];W[sb];B[sc];W[pa]C[RIGHT])
+(;W[se]
+(;B[qb]LB[ra:A]C[Black can make a ko, but white could do better. If black connected at S16 I think it is ko too, but the variations are quite complicated.CHOICE])
+(;B[rd]C[Explanationary variation (the computer will not chose this path during solving)];W[rb];B[sb];W[qb];B[qc];W[ra];B[sd];W[pa]C[The ko goes for example something like this.]))
+(;W[sd];B[sc]LB[se:A]C[Black lives.])
+(;W[qc];B[qb]LB[rd:A]C[Black lives.])
+(;W[rb];B[sb]LB[sd:A]C[Black lives.])
+(;W[sb];B[rb]C[Black lives.]LB[sd:A])
+(;W[qb];B[qa]LB[rb:A]C[Black lives.]))

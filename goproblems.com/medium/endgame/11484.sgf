@@ -1,0 +1,8 @@
+(;GE[endgame]DI[4k]DP[28]SO[themyron]CO[0]AW[rs]AW[qr]AW[pr]AW[oq]AW[nr]AW[mq]AW[lr]AW[ls]AB[lq]AB[kq]AB[kr]AB[ks]AB[lp]AB[mp]AB[np]AW[nq]AB[op]AB[pp]AB[pq]AB[qq]AB[rp]AB[rr]C[B to play the best yose. Assume W has the exact same number of ko threats as B and the rest of the board is totally settled. Thanks to MeleeNewb for the correction.]AP[goproblems]
+(;B[qs];W[ps];B[sr]MA[ms]MA[ns]MA[os]C[Now W has to play one of these three moves for life.RIGHT])
+(;B[sr];W[qs]C[1 point worse than the solution.])
+(;B[ss];W[sr]
+(;B[sq];W[rq]C[Ko is bad for you... W takes first. : (])
+(;B[rq];W[qs]C[Nope.]))
+(;B[rq];W[qs]C[Nope.])
+(;B[sq];W[qs]C[Nope.]))

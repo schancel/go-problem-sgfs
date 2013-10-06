@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[15k]DP[61]SO[Bleedo]CO[8]AB[bb]AB[bc]AB[cc]AB[cd]AB[ce]AB[cg]AB[df]AB[fg]AB[gf]AB[ge]AB[gd]AB[fb]AB[gb]AB[hb]AB[ib]AW[cb]AW[db]AW[dc]AW[de]AW[ee]AW[fe]AW[fc]AW[gc]AW[hc]AW[ic]AW[ie]TR[cb]TR[db]TR[dc]C[Black to take marked stones]AP[goproblems]
+(;B[ec]
+(;W[eb];B[ed];W[fd];B[dd]C[RIGHT])
+(;W[ed];B[eb];W[fd];B[dd]C[RIGHT]))
+(;B[eb];W[ec])
+(;B[dd];W[ed])
+(;B[fd];W[ed])
+(;B[ed];W[ec]))

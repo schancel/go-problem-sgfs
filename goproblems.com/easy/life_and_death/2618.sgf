@@ -1,0 +1,39 @@
+(;GE[life and death]DI[15k]DP[64]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[ic][jc][id][kd][he][ie][je][le][if][lf]AB[hb][ib][jb][lb][hc][kc][hd][ld][md][ge][me][gf][hf][mf][gh][hh][mh][nh][ii][ji][lj]C[Black have to kill the white group.]
+(;B[kf]CR[kf]
+;W[kg]CR[kg]
+(;B[lg]CR[lg]
+;W[ke]CR[ke]
+;B[jg]CR[jg]C[RIGHT Now white have only 1 eye in K16. L14 is not an eye.])
+(;B[jg]CR[jg]
+(;W[jf]CR[jf]C[CHOICE]
+;B[lg]CR[lg]C[RIGHT Now white have only 1 eye in K16. L14 is not an eye.])
+(;W[lg]CR[lg]C[CHOICE]
+;B[jf]CR[jf]C[RIGHT Now white can only have 1 eye in K16.the group in L14 cannot be eaten.]
+(;W[jh]CR[jh]
+;B[ig]CR[ig])
+(;W[ig]CR[ig]
+;B[jh]CR[jh]))))
+(;B[lg]CR[lg]
+;W[kf]CR[kf]C[White is alive, the groupe have two eyes in K16 and L15.])
+(;B[kg]CR[kg]
+;W[kf]CR[kf]C[White is alive, the groupe have two eyes in K16 and L15.])
+(;B[jf]CR[jf]
+;W[jg]CR[jg]
+(;B[lg]CR[lg]
+;W[kf]CR[kf]C[White is alive, the groupe have two eyes in K16 and L15.])
+(;B[kf]CR[kf]
+;W[kg]CR[kg]
+;B[lg]CR[lg]
+;W[ke]CR[ke]C[White is alive, the groupe have two eyes in K16 and L14.]))
+(;B[jg]CR[jg]
+(;W[kf]CR[kf]
+;B[jf]CR[jf]C[RIGHT Now white have only 1 eye in K16. L15 is not an eye.])
+(;W[jf]CR[jf]
+;B[kf]CR[kf]
+(;W[kg]CR[kg]C[CHOICE]
+;B[lg]CR[lg]
+;W[ke]CR[ke]C[RIGHT Now white have only 1 eye in K16. L14 is not an eye.])
+(;W[lg]CR[lg]C[CHOICE]
+;B[kg]CR[kg]C[RIGHT Now white can only have 1 eye in K16.the group in L14 cannot be eaten.]))))

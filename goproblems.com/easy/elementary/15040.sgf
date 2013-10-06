@@ -1,0 +1,6 @@
+(;GE[elementary]DI[30k]DP[100]SO[meghneel]CO[0]C[kill the marked blacks.]AB[ab]AB[bb]AB[cb]AB[db]AB[da]AW[ac]AW[bc]AW[cc]AW[dc]AW[eb]AW[ea]AB[ec]TR[ab]TR[bb]TR[cb]TR[db]TR[da]AP[goproblems]
+(;W[ba]C[black not able to move anywhere, in fear of losing the blacks has already lost those marked blacks. Good!RIGHT])
+(;W[aa];B[ba]C[Whoops two eyes.])
+(;W[ca];B[ba]C[Whoops two eyes])
+(;W[fc];B[ba]C[You might've gained one black but lost 5.])
+(;W[ed];B[ba]C[You might've got one black, but lost five.CHOICE]))

@@ -1,0 +1,63 @@
+(;GE[life and death]DI[4k]DP[29]SO[misterb]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+AW[eq][fq][ar][cr][dr][bs][fs]AB[ep][fp][gp][aq][cq][dq][gq][er][gr][cs][gs]C[Black to Kill white]
+(;B[fr]CR[fr]
+;W[bq]CR[bq]
+;B[bp]CR[bp]
+;W[ap]CR[ap]
+(;B[ds]CR[ds]
+;W[es]CR[es]
+;B[ds]CR[ds]
+;W[cs]CR[cs]
+;B[ao]CR[ao]
+;W[aq]CR[aq])
+(;B[es]CR[es]
+;W[ds]CR[ds]
+;B[ao]CR[ao]
+;W[aq]CR[aq]
+;B[bo]CR[bo]))
+(;B[es]CR[es]
+;W[ds]CR[ds]
+;B[bq]CR[bq]
+;W[br]CR[br])
+(;B[ds]CR[ds]
+;W[es]CR[es]
+(;B[ds]CR[ds]
+;W[bq]CR[bq]
+;B[bp]CR[bp]
+;W[ap]CR[ap]C[Now white will live.]
+(;B[fr]CR[fr]
+;W[cs]CR[cs]
+;B[ao]CR[ao]
+;W[aq]CR[aq]
+;B[bo]CR[bo])
+(;B[bo]CR[bo]
+;W[aq]CR[aq]
+;B[fr]CR[fr]
+;W[cs]CR[cs]C[White lives]
+;B[es]CR[es])
+(;B[ao]CR[ao]
+;W[aq]CR[aq]
+(;B[fr]CR[fr]
+(;W[cs]CR[cs])
+(;W[bo]CR[bo]
+;B[cp]CR[cp]
+;W[an]CR[an]))
+(;B[bo]CR[bo]
+;W[cs]CR[cs]
+;B[fr]CR[fr]
+;W[ds]CR[ds])))
+(;B[bq]CR[bq]
+;W[fr]CR[fr]
+(;B[br]CR[br]
+;W[cs]CR[cs]
+;B[as]CR[as])
+(;B[ds]CR[ds]
+;W[cs]CR[cs]
+;B[br]CR[br]
+;W[as]CR[as])))
+(;B[bq]CR[bq]
+;W[br]CR[br]
+;B[ds]CR[ds]
+;W[es]CR[es]
+;B[ds]CR[ds]C[Correct. D1 Creates a false eye. And if White responds at F2, a big snapback. RIGHT]))

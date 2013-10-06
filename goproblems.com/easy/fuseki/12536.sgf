@@ -1,0 +1,10 @@
+(;GE[fuseki]DI[18k]DP[67]SO[dischord]CO[0]AB[cp]AB[dp]AB[gq]AW[cn]AW[ck]AB[qq]AW[iq]AW[lp]LB[np:A]LB[nq:B]C[A or B?]AP[goproblems]
+(;B[nq]C[Yes. White's stone is high, so playing at the third line threatens slipping under and destroying her base at the mark.RIGHT]MA[lr]
+(;W[mq]C[If White plays here... [just to clarify: this is not a good move]]
+(;B[np];W[ql];B[kq]C[...it isn't sente.]
+(;W[mr];B[jp])
+(;W[kp];B[mr];W[lq];B[lr];W[kr]))
+(;B[no]C[Maybe this would be better, to avoid overcrowding.]))
+(;W[lr]C[This is a possibility for white, but slow.])
+(;W[io]C[Another possibility, but the D4 stones hamper its influence, so it isn't good for white (and black can still extend along the right side)]))
+(;B[np]C[Fails to take advantage of the situation.]))

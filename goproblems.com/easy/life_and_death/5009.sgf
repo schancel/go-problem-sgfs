@@ -1,0 +1,14 @@
+(;GE[life and death]DI[4k]DP[29]SO[lok]CO[8]AB[pd]AB[od]AB[oc]AB[nd]AB[ne]AB[me]AB[qc]AB[rc]AB[rd]AB[re]AB[qe]AB[se]AB[sf]AB[rg]AB[qg]AW[ob]AW[pb]AW[pc]AW[qb]AW[rb]AW[sb]AW[sc]AW[sd]AW[nc]AW[md]AW[mb]AW[ld]AW[le]AW[mf]AW[mg]AW[mh]AW[nh]AW[ph]AW[qh]AW[rh]AW[ri]LB[nj:D]LB[pj:A]C[Status of the black group? If you think its dead, play at 'D' (O10), if you think it's alive no matter what play at 'A' (Q10), if you think you need to add a move to live, play it.]AW[oh]AP[goproblems]
+(;B[nj]C[Huh?])
+(;B[pj];W[pf]C[Ok, now live.]
+(;B[pe]TR[qf]TR[of]C[P14 and R14 are miai for life.RIGHT])
+(;B[of];W[pg];B[pe]TR[nf]TR[qf]C[O14 and R14 are miai for life.RIGHT])
+(;B[qf];W[pe]
+(;B[pg];W[of]
+(;B[og];W[nf])
+(;B[nf];W[og]))
+(;B[of];W[pg]))
+(;B[pg];W[of]))
+(;B[pf]C[You don't need to add a move.])
+(;B[qf]C[You don't need to add a move.])
+(;B[of]C[You don't need to add a move.]))

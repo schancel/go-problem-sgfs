@@ -1,0 +1,24 @@
+(;GE[life and death]DI[3d]DP[10]SO[nutcase]CO[7]C[White to play.]AB[jc]AB[kb]AB[lc]AB[ld]AB[le]AB[me]AB[ne]AB[od]AB[pd]AB[pc]AB[qb]AB[pa]AW[pb]AW[ob]AW[oc]AW[nd]AW[md]AW[mc]AW[mb]AW[lb]SZ[19]AW[pf]AB[rf];W[qc]
+(;B[rc]C[CHOICE];W[qd]
+(;B[qe]C[CHOICE]
+(;W[rb];B[rd]
+(;W[ra]
+(;B[qc]C[CHOICE]
+(;W[la];B[na];W[nb];B[oa];W[qa]C[RIGHT])
+(;W[qa]
+(;B[sb]C[CHOICE]
+(;W[la];B[na];W[nb]C[RIGHT])
+(;W[oa];B[la]))
+(;B[la])))
+(;B[la];W[qa];B[qc];W[sb]C[RIGHT])
+(;B[qa];W[oa];B[qc];W[la]C[RIGHT]))
+(;W[la];B[na]
+(;W[oa];B[nb];W[qa];B[qc])
+(;W[nb];B[oa]))
+(;W[qc]C[NOTTHISRIGHT])
+(;W[oa];B[la]
+(;W[qa];B[qc])
+(;W[ra];B[qc])))
+(;W[rd];B[rb]))
+(;B[rb];W[oe]))
+(;B[rb];W[rc];B[rd];W[la];B[na];W[nb];B[oa];W[qa]C[RIGHT]))

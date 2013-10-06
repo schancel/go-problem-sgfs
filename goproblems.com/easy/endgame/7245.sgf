@@ -1,0 +1,49 @@
+(;GE[endgame]DI[7k]DP[43]SO[chrise]CO[7]AB[qr]AW[ps]AW[or]AW[pq]AW[oq]AB[os]AB[ns]AB[nr]AB[nq]AW[sp]AW[rp]AW[ro]AW[rn]AW[qn]AW[pn]AW[po]AW[op]AB[np]AB[oo]AB[on]AB[om]AB[qm]AB[pm]AB[rm]AB[sm]AB[sn]AB[so]C[White to deal with the triangled stone in the most effective way.]TR[qr]AP[goproblems]
+(;W[pr];B[qq]
+(;W[qp];B[qs]
+(;W[pp];B[rq])
+(;W[rq];B[rr];W[pp];B[sr]C[gote seki (after s1 or t1)])
+(;W[rr];B[rq]
+(;W[pp];B[sq])
+(;W[sq];B[pp]))
+(;W[sr];B[rq]
+(;W[sq];B[pp])
+(;W[pp];B[sq])))
+(;W[qs];B[rs];W[pp];B[sr]
+(;W[qp];B[rq])
+(;W[rq];B[rr]C[seki]))
+(;W[rq];B[qp]
+(;W[qs];B[pp])
+(;W[rr];B[pp])
+(;W[pp];B[rr]
+(;W[sr];B[rs]C[seki])
+(;W[qs];B[sr]C[seki])
+(;W[rs];B[sr]C[seki])))
+(;W[rr];B[qs]
+(;W[pp];B[rq]
+(;W[qp];B[sq])
+(;W[sq];B[rs]
+(;W[qp];B[sr])
+(;W[sr];B[qp]C[seki])
+(;W[ss];B[sr])))
+(;W[qp];B[pp])
+(;W[rq];B[pp]))
+(;W[rs];B[qs];W[pp];B[rr];W[qp];B[sq])
+(;W[sr];B[qp];W[pp];B[rr]
+(;W[qs];B[rs]C[seki])
+(;W[rs];B[qs]
+(;W[rq];B[ss]C[ko])
+(;W[qo];B[ss]C[ko]))))
+(;W[rr];B[qq]
+(;W[rq];B[qp]
+(;W[pp];B[pr]
+(;W[qs];B[rs])
+(;W[rs];B[qs]))
+(;W[qs];B[pr];W[rs];B[pp])
+(;W[rs];B[qs];W[pp];B[pr]))
+(;W[qp];B[pr]
+(;W[pp];B[rq];W[sr];B[rs];W[sq];B[qs])
+(;W[qs];B[rs])))
+(;W[qq];B[pr];W[rr];B[qs];W[rs];B[ps]C[White gives away a little to retain the corner and sente. RIGHT])
+(;W[rq];B[qq];W[pr];B[qs];W[pp];B[rr];W[qp];B[sr]C[gote seki (after s1 or t1)])
+(;W[qp];B[qq];W[pr];B[qs];W[pp];B[rq]))

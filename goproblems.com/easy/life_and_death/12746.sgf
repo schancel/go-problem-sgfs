@@ -1,0 +1,29 @@
+(;GE[life and death]DI[10k]DP[50]SO[sever]CO[0]AB[fr]AB[fp]AW[eq]AW[ap]AW[bp]AW[cp]AW[dp]AW[dq]AW[dr]AW[ds]AB[ao]AB[bo]AB[co]AB[do]AB[eo]AB[ep]AB[er]AB[es]AB[gq]LB[go:T]C[Tenuki (T) if you think you can't do anything.]AP[goproblems]
+(;B[br]
+(;W[bs]C[CHOICE]
+(;B[cr]
+(;W[ar];B[cs];W[bq];B[as]C[ko. If it's the end of the game and there is no ko threat, then white is dead.RIGHT])
+(;W[cs];B[ar]C[sekiRIGHT]))
+(;B[ar]
+(;W[cr]
+(;B[bq];W[aq];B[fq]C[sekiRIGHT])
+(;B[as];W[bq];B[cs];W[aq];B[fq];W[bs]C[oops!]))
+(;W[bq];B[cr];W[cs]C[sekiRIGHT]))
+(;B[bq];W[cr])
+(;B[aq];W[bq]
+(;B[cr];W[ar]C[oops])
+(;B[ar];W[cr]C[oops]))
+(;B[cq];W[cr];B[bq];W[ar]C[oops]))
+(;W[cr]
+(;B[bq];W[bs];B[ar]C[])
+(;B[ar];W[bq];B[bs];W[cs];B[fq]C[sekiRIGHT])
+(;B[bs];W[bq];B[ar]))
+(;W[cs]
+(;B[ar];W[bs];B[fq];W[cr];B[bq];W[aq]C[sekiRIGHT])
+(;B[bs];W[bq]
+(;B[cr];W[ar];B[fq]C[sekiRIGHT])
+(;B[ar];W[cr];B[fq]C[sekiRIGHT]))))
+(;B[cs];W[br]C[oops])
+(;B[bs];W[br]C[oops];B[ar];W[bq])
+(;B[go]C[you can do something...])
+(;B[ar];W[br];B[bs]))

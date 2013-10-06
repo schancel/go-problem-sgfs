@@ -1,0 +1,19 @@
+(;GE[life and death]DI[10k]DP[53]SO[mrmoto]CO[7]LB[br:0]LB[cr:1]C[Please choose a number:  0 or 1.FORCE]AB[ao]AB[bo]AB[co]AB[do]AB[eo]AB[go]AB[fo]AB[ho]AB[hp]AB[hq]AB[hr]AB[hs]AP[goproblems]
+(;B[br]C[]AB[ar]AB[cr]AB[dr]AB[gq]AB[gp]AW[aq]AW[bq]AW[cq]AW[dq]AW[er]AW[fs]AW[gs]AW[gr]AW[fq]AW[fp]AW[ep]AB[dp]AB[cp]AW[bp];W[ds]C[White has no ko threats.  How should you play?]
+(;B[bs]C[Only seki.  You could have killed white.])
+(;B[cs];W[bs]
+(;B[as];W[bs]C[:O])
+(;B[es]C[White has no ko threats - you win.RIGHT]MA[ds];W[eq];B[fr]C[RIGHT]))
+(;B[as];W[cs]C[:(])
+(;B[ap];W[eq]
+(;B[bs]C[Only seki.  You could have killed white.])
+(;B[cs];W[bs];B[es]MA[ds]C[White has no ko threats - you win.RIGHT])))
+(;B[cr]AB[ar]AB[br]AB[dr]AB[gq]AB[gp]AB[cp]AB[dp]AW[gs]AW[gr]AW[fs]AW[er]AW[fq]AW[fp]AW[ep]AW[dq]AW[cq]AW[bq]AW[aq]AW[bp];W[ds]C[White has one good ko threat.  How should you play?]
+(;B[cs];W[bs]
+(;B[as];W[bs]C[:O])
+(;B[es];W[in]LB[io:K]C[(Ko fight:  please play at K)FORCE];B[io];W[ds]MA[es]C[:(]))
+(;B[as];W[cs]C[:(])
+(;B[bs]C[Seki.  You live in the corner, and have a ko threat at A4.RIGHT])
+(;B[ap];W[eq]
+(;B[cs];W[bs];B[es];W[in]C[(Ko fight:  please play at K)FORCE]LB[io:K];B[io];W[ds]MA[es]C[Playing at A4 first forced white to use a big ko threat ... but it's a ko fight nonetheless.])
+(;B[bs]C[Seki ... but you wasted a ko threat at A4.]))))

@@ -1,0 +1,79 @@
+(;GE[life and death]DI[5d]DP[4]SO[3dan]CO[9]AW[ba]AW[ab]AW[bb]AW[cc]AB[db]AB[bd]AB[dd]C[Black to kill white]C[This is fun problem I encounted when I started learning GO. It demonstrates a commonly usedprinciple.]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[ee]
+(;W[eb]
+(;B[fb]
+(;W[da]
+(;B[ec]
+(;W[ea]
+(;B[dc];W[gb]
+(;B[fa];W[ca]
+(;B[fc]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[ca];W[cb];B[fa]C[RIGHT]))
+(;B[fa];W[ca];B[dc]C[RIGHT])
+(;B[ca];W[cb];B[dc];W[gb];B[fa]C[RIGHT]))
+(;W[fa];B[ga]C[RIGHT]))
+(;B[dc];W[gb]
+(;B[ec];W[fa]C[white escapes via ko])
+(;B[fa];W[fc];B[ec];W[ga]C[snapback])
+(;B[fc];W[fa]C[white escapes])))
+(;W[ec];B[dc];W[da];B[fc];W[ed];B[fd];W[be];B[bf];W[ce];B[cd];W[ad];B[cf];W[de];B[df]C[RIGHT])
+(;W[dc];B[ec];W[ea];B[fa]C[RIGHT])
+(;W[ea];B[dc];W[da]
+(;B[fc]C[RIGHT])
+(;B[ec]C[RIGHT])
+(;B[fa]C[RIGHT])))
+(;B[ec];W[fb]
+(;B[dc];W[da]C[white escapes])
+(;B[da];W[dc]C[white captures two black stones and live]))
+(;B[cb];W[da];B[dc];W[ca];B[fb];W[gb]C[the best black can do is ko])
+(;B[dc];W[da];B[fb])
+(;B[bc];W[dc])
+(;B[cd];W[dc]))
+(;W[dc];B[ec];W[eb];B[fb]C[RIGHT]TR[eb])
+(;W[be]
+(;B[bf]
+(;W[ad]
+(;B[ce]
+(;W[ae];B[cd];W[bg];B[af];W[ac]
+(;B[cf]C[RIGHT])
+(;B[df]C[RIGHT]))
+(;W[af];B[ag]C[RIGHT]))
+(;B[cd];W[bg]
+(;B[ce];W[af]C[white escapes via ko])
+(;B[af];W[cf];B[ce];W[ag]C[snapback])
+(;B[cf];W[af]C[white escapes])))
+(;W[ce];B[cd];W[ad];B[cf];W[de];B[df];W[eb];B[fb];W[ec];B[dc];W[da];B[fc];W[ed];B[fd]C[RIGHT])
+(;W[cd];B[ce]C[RIGHT])
+(;W[ae];B[cd];W[ad];B[cf]C[RIGHT]))
+(;B[ce];W[bf]
+(;B[cd];W[ad]C[white escapes])
+(;B[ad];W[cd]C[white captures two black stones and lives]))
+(;B[cd];W[ad];B[bf];W[bg]C[the best black can do it ko])
+(;B[bc];W[ad];B[cd];W[ac];B[bf];W[bg]C[the best black can do is ko]))
+(;W[cd];B[ce];W[be];B[bf]C[RIGHT]))
+(;B[cd];W[eb]
+(;B[dc];W[da];B[fc];W[gb]C[White escaped. While black may still kill white, depending on the rest of the board,black can do better.])
+(;B[da];W[dc];B[ec];W[fb]C[white escapes])
+(;B[ec];W[fb]
+(;B[da];W[dc])
+(;B[dc];W[da])))
+(;B[dc];W[be]
+(;B[cd];W[ad];B[cf];W[bg]C[black can do better])
+(;B[ad];W[cd];B[ce];W[bf])
+(;B[ce];W[bf]
+(;B[ad];W[cd])
+(;B[cd];W[ad])))
+(;B[ce]C[see variation on C16])
+(;B[ec]C[see variation on D17])
+(;B[de];W[eb];B[dc];W[da];B[fb];W[gb]
+(;B[ec];W[fa]C[escape via ko])
+(;B[fc];W[fa]C[white escapes])
+(;B[fa];W[fc];B[ec];W[ga]C[sanpback]))
+(;B[ed]C[see variation on D15])
+(;B[bc];W[eb]
+(;B[cb];W[da];B[ec];W[fb]C[white escapes])
+(;B[ec];W[fb];B[cb];W[da])
+(;B[dc];W[da])
+(;B[da];W[dc];B[ec];W[cb];B[fb];W[ed];B[fc];W[cd]C[white escapes]))
+(;B[cb]C[see variation on B17]))

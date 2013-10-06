@@ -1,0 +1,85 @@
+(;GE[tesuji]DI[3k]DP[25]SO[adum]CO[8]AW[lb][ob][lc][nc][oc][md][me][qf]AB[mb][nb][mc][jd][ld][nd][od][pd][le][jf][pj]C[black to do well
+]
+(;B[mf]
+;W[ne]
+(;B[oe]
+;W[nf]
+(;B[ng]
+;W[of]
+(;B[pf]
+;W[og]
+(;B[oh]
+;W[pg]
+(;B[qg]
+;W[ph]
+;B[qh]
+;W[pi]
+(;B[oi]
+;W[qi]
+;B[ri]C[
+]
+;W[pe]CR[pe]
+(;B[qj]CR[qj]
+;W[pf]CR[pf]
+(;B[rf]CR[rf]
+;W[qe]CR[qe]
+(;B[qd]CR[qd]
+;W[re]CR[re]
+(;B[rd]CR[rd]C[RIGHT])
+(;B[se]CR[se]
+;W[rd]CR[rd]
+;B[rc]CR[rc]C[RIGHT]))
+(;B[re]CR[re]
+;W[qd]CR[qd]))
+(;B[qe]CR[qe]
+;W[rf]CR[rf]))
+(;B[qe]CR[qe]
+;W[qj]CR[qj]C[White breaks out.]))
+(;B[qi]CR[qi]
+;W[oi]CR[oi]))
+(;B[ph]CR[ph]
+;W[qg]CR[qg])
+(;B[pe]CR[pe]
+;W[qg]CR[qg]))
+(;B[pg]
+;W[oh]))
+(;B[og]
+;W[pf]))
+(;B[of]CR[of]
+;W[ng]CR[ng]))
+(;B[nf]
+;W[oe]
+(;B[of]
+;W[pe]
+(;B[pf]
+;W[qe])
+(;B[qe]
+;W[pf]))
+(;B[pe]
+;W[of]
+(;B[og]
+;W[pf])
+(;B[pf]
+;W[og]))
+(;B[pf]CR[pf]
+;W[na]CR[na]
+(;B[pe]CR[pe]C[Enough to count as a success for black, but in this position, you can do even better.])
+(;B[of]CR[of]C[You can do even better,.])))
+(;B[of]CR[of]
+;W[na]CR[na]C[That's something, but you can do much better.]))
+(;B[pb]
+;W[na]TR[md][me]C[White captures the three stones, and the two marked stones do great harm to black's position.])
+(;B[kc]
+;W[ma])
+(;B[nf]
+;W[mf]CR[mf]C[Black cannot capture the three stones, which now severely harm his position.])
+(;B[ne]
+;W[mf]
+(;B[nf]
+;W[ma])
+(;B[mg]
+;W[ma])
+(;B[lf]
+;W[ma]))
+(;B[kb]
+;W[ma]))

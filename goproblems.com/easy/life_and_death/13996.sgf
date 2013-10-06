@@ -1,0 +1,12 @@
+(;GE[life and death]DI[10k]DP[53]SO[Syvedyas]CO[0]SZ[6]AB[be]AB[ad]AB[ce]AB[de]AB[dd]AB[cc]AW[ac]AW[bc]AW[cb]AW[db]AW[bb]AW[ec]AW[ed]AW[ee]AW[bf]C[White just played B1. Black to save the group.]TR[bf]AP[goproblems];B[bd]
+(;W[dc]
+(;B[af]
+(;W[ae]
+(;B[cf]C[Yep, the most likely outcome.RIGHT])
+(;B[df];W[af]C[To greedy, group just died!]))
+(;W[df];B[cf]C[Alive and D1 for endgame.RIGHT]))
+(;B[df];W[af]C[Dead, only one eye!])
+(;B[cf]C[];W[af]C[Dead, wrong order of moves!]))
+(;W[df]
+(;B[cf];W[dc];B[af]C[Unconditionally alive ;)RIGHT])
+(;B[af];W[ae];B[cf]C[Alive, but D4 Ko-Thread for white!RIGHT])))

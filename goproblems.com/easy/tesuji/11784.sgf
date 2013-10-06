@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[18k]DP[69]SO[enigm4]CO[0]AW[hn]AW[do]AW[eo]AW[bp]AW[cp]AW[bq]AW[dq]AW[cr]AW[er]AW[ds]AB[dn]AB[bo]AB[co]AB[dp]AB[ep]AB[fp]AB[eq]AB[fr]TR[eo]C[White just play marked stone. Now its black turn.]
+(;B[fo];W[en];B[em];W[fn];B[gn];W[fm];B[fl];W[gm]C[Ladder doesn't work.])
+(;B[fn]
+(;W[en];B[em]C[RIGHT])
+(;W[fo];B[go]C[RIGHT]))
+(;B[fm];W[fo];B[go];W[gp];B[fq];W[gn])
+(;B[gn];W[en])
+(;B[go];W[en])
+(;B[en];W[fo]
+(;B[go];W[fn];B[fm];W[gn])
+(;B[fn];W[go]
+(;B[gp];W[hp])
+(;B[gn];W[gp]))))

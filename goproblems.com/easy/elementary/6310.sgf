@@ -1,0 +1,9 @@
+(;GE[elementary]DI[7k]DP[42]SO[Chr15t1aN]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cq][dq][eq][cr][fr][gr]AB[fq][gq][hq][dr][er][hr]C[Black to play the correct move!(one is more correct than the other)]
+(;B[gs]CR[gs]LB[ds:A][fs:B]C[RIGHT
+Correct!!! By playing there you have made the ko threat at the marked A space smaller than you having played at the space maked B
+Minimalizing possible loss is an important principle.])
+(;B[fs]CR[fs]LB[ds:B][gs:A]C[Wrong!
+This move is less correct than. Because if your opponent plays the ko threat at B. The loss if you ignore the threat is lager than if you had had played at A.
+Minimalizing possible loss]))

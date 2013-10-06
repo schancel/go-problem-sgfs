@@ -1,0 +1,35 @@
+(;GE[life and death]DI[12k]DP[57]SO[santa c]CO[8]AB[io]AB[jn]AB[kn]AB[jp]AB[kp]AW[ip]AW[hp]AW[ho]AW[hn]AW[in]AW[iq]AW[jq]AB[kq]AW[kr]AW[lr]AW[lq]AB[lp]AB[mp]AB[lo]AB[ln]AB[mm]AB[nm]AW[lm]AW[km]AW[jm]AW[ml]AW[nl]AW[om]AW[ol]AW[pn]AB[no]AB[on]AW[mq]AW[nq]AB[op]AW[pq]AW[pp]AW[oq]C[Can white kill?FORCE]AP[goproblems]
+(;W[mn];B[nn]C[FORCE]
+(;W[jo]C[Nice! :)FORCERIGHT])
+(;W[ko];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[np];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[oo];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[po];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mn:2]LB[mo:2]))
+(;W[jo];B[mn]C[Black has 2 eyes... He's alive!FORCE]LB[mo:1]LB[nn:2])
+(;W[ko];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2]LB[nn:2])
+(;W[nn];B[mn]C[Black has 2 eyes... He's alive!]LB[mo:1]LB[nn:2])
+(;W[mo];B[jo]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2]LB[nn:2])
+(;W[np];B[jo]C[FORCE]
+(;W[mn];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[oo];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[nn];B[mn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2])
+(;W[mo];B[oo]
+(;W[mn];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[po];B[mn]C[Black has 3 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[nn:3])
+(;W[nn];B[mn]C[Black has 3 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[nn:3]))
+(;W[po];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2]))
+(;W[po];B[jo]
+(;W[mn];B[nn]C[Black has 2 eyes... He's alive!]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[np];B[nn]C[Black has 2 eyes... He's alive!]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[oo];B[nn]C[Black has 2 eyes... He's alive!]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[nn];B[mn]C[Black has 2 eyes... He's alive!]LB[ko:1]LB[mo:2])
+(;W[mo];B[nn]C[Black has 2 eyes... He's alive!]LB[ko:1]LB[mo:2]LB[mn:2]))
+(;W[oo];B[jo]C[FORCE]
+(;W[mn];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[nn:2])
+(;W[nn];B[mn]C[FORCE]
+(;W[on];B[np]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2])
+(;W[np];B[on]MA[nn]C[Ko - Could be better!FORCE];W[nn]C[NOTTHIS])
+(;W[po];B[np]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]))
+(;W[np];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[mo]C[Black could got at Q5 and live...but..];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])
+(;W[po];B[nn]C[Black has 2 eyes... He's alive!FORCE]LB[ko:1]LB[mo:2]LB[mn:2])))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2k]DP[21]SO[nyuves]CO[0]AB[aa]AB[ba]AB[ca]AB[bb]AB[cb]AB[cc]AB[dc]AB[dd]AB[ed]AB[fd]AB[gd]AB[gc]AB[gb]AB[hb]AB[fb]AB[ga]AB[ee]AW[ab]AW[ac]AW[ad]AW[ae]AW[bd]AW[bc]AW[cd]AW[ce]AW[cf]AW[df]AW[de]AW[dg]AW[ef]AW[fe]AW[ge]AW[gf]AW[gg]AW[fg]AW[fh]AW[eh]AW[gh]AW[gi]AW[ei]AW[fj]AW[fk]AB[be]AB[bf]AB[af]AB[ag]AB[ah]AB[cg]AB[dh]AB[ch]AB[ci]AB[bi]AB[bj]AB[bk]AB[bl]AB[al]AB[cl]AB[dl]AB[ek]AB[ej]AB[dj]AW[el]AW[em]AW[dm]AW[cm]AW[bm]AW[an]AW[bn]AW[cn]AW[bo]AW[en]AW[fn]AW[fm]AW[gm]AB[ao]AB[ap]AB[bp]AB[cq]AB[co]AB[do]AB[dn]AB[dp]AB[ep]AB[eo]AB[fo]AB[eq]AB[fq]AB[gr]AB[hr]AB[fr]AB[gs]AW[hs]AW[is]AW[ir]AW[iq]AW[hq]AW[gq]AW[gp]AW[fp]AW[hp]AW[go]AW[io]AW[hn]AW[in]AW[jq]AW[kq]AW[lq]AW[kr]AW[ks]AB[lr]AB[ls]AB[ms]AB[nr]AB[mq]AB[np]AB[oq]AB[lp]AB[kp]AB[jp]AB[ip]AB[jo]AW[mp]AW[mo]AW[lo]AW[ln]AW[mn]AW[no]AW[oo]AB[op]AB[pp]AB[po]AB[qo]AB[rp]AB[rq]AB[rr]AB[sr]AW[sq]AW[sp]AW[so]AW[sn]AW[ro]AW[qn]AW[rm]AW[pm]AB[pn]AB[on]AB[om]AW[ol]AW[ok]AW[nm]AW[mm]AW[ml]AW[mk]AW[lk]AW[nj]AW[oj]AW[pj]AW[qj]AW[pi]AW[ph]AW[pg]AW[qh]AW[oh]AW[ri]AW[si]AB[qk]AB[jn]AB[kn]AB[km]AB[jm]AB[lm]AB[im]AB[hm]AB[jl]AB[kl]AB[kk]AB[kj]AB[lj]AB[mj]AB[ki]AB[kh]AB[jh]AB[ji]AB[ii]AB[hh]AB[hi]AB[hg]AB[lh]AB[lg]AB[mh]AB[nh]AB[ni]AB[oi]AB[ng]AB[og]AB[of]AB[nf]AB[oe]AB[pf]AB[qf]AB[rf]AB[rg]AB[rh]AW[sh]AB[sg]AB[qe]AB[qd]AB[pd]AB[pc]AB[oc]AB[pb]AB[pa]AB[qa]AB[na]AB[ma]AW[ra]AW[qb]AW[qc]AW[sb]AW[rb]AW[sc]AW[rd]AW[re]AW[se]AW[mg]AW[mf]AW[lf]AW[ne]AW[nd]AW[nc]AW[nb]AB[oa]AW[ob]AW[mb]AW[lb]AW[la]AW[ha]AW[ia]AW[ja]AW[ib]AW[ic]AW[hc]AW[hd]AW[jd]AB[kd]AW[ke]AB[me]AW[hf]AW[if]AW[ig]AW[ih]AW[jg]AW[kg]AB[pl]TR[pl]AW[hj]AW[ij]AW[jj]AW[jk]AW[hk]AW[hl]AW[il]AW[gl]C[At the endgame black is down by some points and wants a final attack in the white's territory. Defend yourself! (last move marked with a triangle)]AP[goproblems]
+(;W[qm]
+(;B[sl]
+(;W[sk]C[Good!RIGHT])
+(;W[rl];B[rk]
+(;W[sk];B[sj]
+(;W[pk]C[Good! B is captured!RIGHT])
+(;W[ql]C[Good! B is captured!RIGHT])
+(;W[rj]C[Good! B is captured!RIGHT])
+(;W[sm]C[];B[ql]C[An unnecessary ko!];W[sk];B[kf];W[rj];B[le]))
+(;W[sm];B[sk]C[W is captured!])
+(;W[sj];B[sk]C[W is captured!]MA[so]LB[pk:1]LB[sm:2])
+(;W[pk];B[sk]LB[ql:1]LB[sm:2]MA[so]C[W is captured!])
+(;W[ql];B[sk]C[W is captured!]LB[pk:1]LB[sm:2]MA[so])
+(;W[rj];B[sk]C[W is captured!]LB[pk:1]LB[sm:2]MA[so]))
+(;W[ql]
+(;B[sm]))
+(;W[sm]
+(;B[rl]C[White is captured!]))
+(;W[pk];B[sm]LB[rn:1]LB[rl:2]C[Cannot save because of the snapback!])
+(;W[rk];B[sm]LB[rn:1]LB[rl:2]C[Cannot save because of the snapback!]))
+(;B[rl];W[ql]
+(;B[sl];W[rk]C[RIGHT])
+(;B[sk];W[sm]C[RIGHT]))
+(;B[rk]
+(;W[sl]MA[rl]MA[sk]C[RIGHT])
+(;W[ql];B[sl];W[sk]C[Tricky, isn't it? ;)RIGHT])))
+(;W[ql];B[qm]C[Ko is not good enough!]))

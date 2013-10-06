@@ -1,0 +1,68 @@
+(;GE[life and death]DI[2d]DP[13]SO[MeleeNewb]CO[0]AB[bq]AB[cq]AB[dq]AB[eq]AB[fq]AB[dr]AB[fp]AB[go]AB[gn]AB[fm]AB[en]AB[dn]AB[cn]AB[co]AB[bo]AW[br]AW[cr]AW[ds]AW[er]AW[fr]AW[gq]AW[hr]AW[gp]AW[ho]AW[hn]AW[hm]AW[gl]AW[fl]AW[em]AW[dm]AW[cm]AW[bn]AW[bm]AW[eo]AW[ep]C[Kill in the upper right if you can, otherwise play (T)engen then live in the lower left.]AW[rc]AW[qc]AW[pc]AW[oc]AW[nc]AW[pb]AW[nd]AW[me]AW[mf]AW[ng]AW[of]AW[pf]AW[qf]AW[qe]AW[re]AB[rf]AB[rg]AB[qg]AB[pg]AB[og]AB[nh]AB[mh]AB[lg]AB[lf]AB[le]AB[md]AB[nb]AB[ob]AB[mc]AB[lb]AB[pa]AB[qb]AB[rb]AB[oa]AB[oe]AB[od]LB[jj:T]AW[es]AP[goproblems]
+(;B[jj];W[ap]
+(;B[dp];W[bp]
+(;B[ao];W[aq]
+(;B[ar];W[as]
+(;B[cs]C[Excellent!RIGHT])
+(;B[cp];W[ar]
+(;B[cs]C[Excellent!RIGHT])
+(;B[fo]C[NOTTHIS])
+(;B[gm]C[NOTTHIS]))
+(;B[fo]C[NOTTHIS])
+(;B[gm]C[NOTTHIS]))
+(;B[cp];W[ar])
+(;B[cs];W[ar])
+(;B[fo]C[NOTTHIS])
+(;B[gm]C[NOTTHIS]))
+(;B[aq];W[ao]
+(;B[fo];W[gm])
+(;B[gm];W[fo]))
+(;B[cp];W[ao]
+(;B[gm];W[fo])
+(;B[fo];W[gm]))
+(;B[ar];W[ao])
+(;B[an];W[ao])
+(;B[cs];W[ao]))
+(;B[bp];W[dp]
+(;B[ao];W[aq];B[ar];W[aq])
+(;B[aq];W[ao];B[an];W[ao]
+(;B[fo];W[gm])
+(;B[gm];W[fo];B[fn];W[do]))
+(;B[fo];W[gm]
+(;B[ao];W[aq];B[ar];W[aq])
+(;B[aq];W[ao];B[an];W[ao]))
+(;B[gm];W[fo];B[fn];W[do]
+(;B[aq];W[ao];B[an];W[ao])
+(;B[ao];W[aq];B[ar];W[aq])))
+(;B[gm]C[NOTTHIS])
+(;B[fo]C[NOTTHIS])
+(;B[fn];W[ao];B[bp];W[dp];B[do]C[Seki is not good enough.])
+(;B[cp]C[In the biz, that is what we call death in gote.])
+(;B[do];W[fo]C[D5? Are you joking?];B[fn];W[bp]
+(;B[dp]C[NOTTHIS])
+(;B[cp];W[ao])
+(;B[aq];W[ao])
+(;B[ao];W[aq]
+(;B[ar];W[as]
+(;B[cp];W[ar];B[cs]C[What a punchline!RIGHT])
+(;B[cs];W[bs];B[cp]C[What a punchline!RIGHT]))
+(;B[cs];W[ar])
+(;B[cp];W[ar])))
+(;B[ao];W[aq]
+(;B[bp];W[dp])
+(;B[dp];W[bp])
+(;B[fo]C[NOTTHIS])
+(;B[gm]C[NOTTHIS])
+(;B[do];W[fo];B[fn];W[bp])
+(;B[ar];W[dp]))
+(;B[aq];W[ao]))
+(;B[sd];W[pd];B[rd];W[se];B[sc];W[sb];B[sa];W[qd])
+(;B[mg];W[sd];B[nf];W[ne])
+(;B[nf];W[ne];B[mg];W[sd])
+(;B[ne];W[pd])
+(;B[pd];W[sd];B[qd];W[pe])
+(;B[pe];W[pd])
+(;B[qd];W[pd])
+(;B[rd];W[sd])
+(;B[sc];W[sd])
+(;B[se];W[sd]))

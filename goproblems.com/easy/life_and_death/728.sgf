@@ -1,0 +1,31 @@
+(;GE[life and death]DI[5k]DP[34]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[nn][on][pn][qn][qo][ro][np][sp][nq][sq][nr][or][rr][ps][qs]
+AB[nm][om][pm][qm][rm][mn][rn][mo][oo][po][mp][qp][rp][mq][oq][pq][rq][mr][pr][qr][ns]
+PL[2]C[white to live. can you get two eyes?
+]
+(;W[no];B[op];W[ss];B[ms];W[os];B[sn];W[so]
+C[RIGHT
+two fake eyes, but alive
+])
+
+(;W[op];B[no]
+(;W[os];B[pp])
+
+(;W[pp];B[os])
+)
+
+(;W[ss];B[no])
+
+(;W[os];B[no])
+
+(;W[rs];B[no])
+
+(;W[sr];B[no])
+
+)

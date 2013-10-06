@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[10k]DP[50]SO[naustin]CO[0]AB[pq]AB[oq]AB[nq]AB[po]AB[on]AB[nm]AB[nl]AB[ml]AW[mm]AW[mn]AW[mp]AW[mq]AW[np]AW[qq]AW[qp]AW[qo]AW[qn]C[White to cut black in two.]AP[goproblems]
+(;W[oo];B[pn];W[pp];B[op];W[no]C[RIGHT])
+(;W[nn];B[oo];W[om];B[pm]C[The ladder works.  Black stays connected.])
+(;W[op];B[pp])
+(;W[pp];B[op])
+(;W[pn];B[oo])
+(;W[om];B[oo];W[nn];B[pm]C[The ladder works.  Black stays connected.]))

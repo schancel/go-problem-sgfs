@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[8k]DP[47]SO[kochi]CO[0]AB[ir]AB[jq]AB[jr]AB[kq]AB[lq]AB[ip]AB[ko]AB[jn]AB[jm]AB[km]AB[im]AB[hm]AW[hn]AW[ho]AW[hp]AW[hq]AW[iq]AW[hr]AW[lp]AW[lo]AW[kn]AW[ln]AW[mr]AW[mq]AW[np]LB[jq:A]C[Disconnect A]AP[goproblems]
+(;W[io];B[jo])
+(;W[kp];B[jp]
+(;W[io];B[jo])
+(;W[jo];B[io];W[in]C[right, got a ko.RIGHT]))
+(;W[jo];B[io]
+(;W[kp];B[jp];W[in]C[right, got a ko.RIGHT])
+(;W[in];B[jp]))
+(;W[jp];B[kp];W[io];B[jo])
+(;W[in];B[jo])
+(;W[lr];B[jp])
+(;W[is];B[jp])
+(;W[ks];B[kp])
+(;W[js];B[kp])
+(;W[ls];B[jp]))

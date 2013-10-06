@@ -1,0 +1,8 @@
+(;GE[fuseki]DI[15k]DP[60]SO[dischord]CO[0]AW[jq]AB[dp]AW[lq]AW[mp]AW[mq]AW[nq]AW[oq]AB[pq]AB[pp]AB[pn]AB[np]AB[no]AB[mo]AB[lp]LB[fq:A]LB[hq:B]C[A or B?]AP[goproblems]
+(;B[fq]C[Yup. It's best to play away from strength, and white's group is strong. Also, this secures the corner better.RIGHT])
+(;B[hq];W[fq]C[Too stretched, with white's strong group nearby. White can invade here easily. Uncertain about variations though.]
+(;B[gp]
+(;W[cn]C[Won't go into the variations, but they seem okay for white.])
+(;W[cq];B[dq];W[cp];B[do];W[dr];B[er];W[cr];B[eq];W[cn]C[Black's marked stone seems a tad out of place now. White gets a good corner here too, and black's position has a nice hole in the center.]))
+(;B[fp];W[gq];B[gp];W[hr]C[This is simple.]))
+(;B[cl]C[This path is here just so the board view matches the book's.]))

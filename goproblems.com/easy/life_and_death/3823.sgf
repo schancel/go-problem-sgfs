@@ -1,0 +1,12 @@
+(;GE[life and death]DI[20k]DP[70]SO[karmaGfa]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[&#30333;&#26041;]PB[&#40657;&#26041;]AW[jq][kq][lq][jr][lr][mr][nr][is][ns]AB[ko][lo][mo][hp][jp][np][iq][oq][hr][ir][kr][or][hs][ks][ls][ms][os]C[Kill the group]PL[B]
+;B[js]CR[js]
+;W[is]CR[is]
+(;B[ks]CR[ks]
+(;W[js]CR[js]
+;B[ls]CR[ls]C[RIGHT])
+(;W[ls]CR[ls]
+;B[js]CR[js]C[RIGHT]))
+(;B[js]CR[js]
+;W[ks]CR[ks]C[The white group have now 2 eyes, you failed the problem. Try again.]))

@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[5k]DP[33]SO[dbosst]CO[0]AB[qp]AB[op]AB[nq]AB[qk]AB[pk]AB[ok]AB[nl]AB[nj]AB[mj]AW[pj]AW[oj]AW[ni]AW[qm]AW[om]AW[lm]AW[mn]AW[lp]C[Black to play.  Cut White to connect your two groups.]AP[goproblems]
+(;B[pn]
+(;W[pm]C[White resists....CHOICE];B[nm];W[nn];B[on]C[White is punished for trying to save his stone.RIGHT])
+(;W[on];B[pm]C[White comprimises.  Black catches a stone and connects his two groups.RIGHT]))
+(;B[nm]C[];W[nn]C[]
+(;B[on];W[oo];B[pn];W[po];B[pm];W[qn];B[pl];W[qo]C[This cut does not work since this is an awful result for Black.  When white pushes through with wQ5 Black's stones in the corner are severely weakened.]TR[po])
+(;B[pn];W[on];B[pm]C[RIGHT]))
+(;B[nn];W[nm]TR[lm]TR[mn]TR[om]C[White's kosumi keima is very strong.  This cut does not work.])
+(;B[pm];W[pn]C[Black has no good follow up. This cut does not work.])
+(;B[on]
+(;W[oo]C[White has a stronger response than this,. at Q6.]
+(;B[nm];W[nn]C[This is the other variation if Black cut the keima first.])
+(;B[nn];W[nm];B[pm];W[pn])
+(;B[pm];W[pn]C[This cut does not work ...]
+(;B[nn];W[nm])
+(;B[nm];W[nn])
+(;B[pl];W[nn])
+(;B[qn];W[pl])
+(;B[po];W[nn]))
+(;B[pn]
+(;W[nn]C[This is the wrong response by white, because ...];B[po];W[nm];B[pm]C[Black gets a good result.])
+(;W[nm]C[];B[pm];W[no];B[po]C[This is very similar to the simpler comprimise variation, where Black plays Q6 first, but this is bad play by white.  White could actually live in the corner.]TR[pn])
+(;W[po]C[This White response has some unfavorable variations for White so White should not play this way as this becomes complicated.]
+(;B[nn];W[nm];B[pm];W[no];B[qo];W[qn];B[pl];W[pp];B[pq])
+(;B[qn];W[nm];B[pm];W[no];B[qo];W[pp];B[pq])))
+(;B[po];W[pn];B[nn];W[nm]))
+(;W[nn]C[This response by White gives Black too good a result.];B[pn];W[nm];B[pm])
+(;W[nm]C[This response by White seems a bit too good for Black as Black ends in sente.];B[pm];W[pn];B[pl];W[oo];B[po];W[nn];B[qn];W[on])
+(;W[pn]C[A strong response by White.  Thanks to kaf.CHOICE];B[nm]C[]
+(;W[nn];B[oo])
+(;W[oo]C[CHOICE];B[nn];W[pp];B[pq];W[po];B[no];W[qq]C[White lives inside black's territory.  Thanks to kaf for this variation.]))))

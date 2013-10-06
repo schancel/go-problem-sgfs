@@ -1,0 +1,17 @@
+(;GE[life and death]DI[12k]DP[58]SO[assacra]CO[8]AB[qn]AB[pn]AB[qm]AB[qo]AB[rn]AB[so]AB[rp]AB[sn]AW[on]AW[oo]AW[op]AW[po]AW[pp]AW[qp]AW[rq]AW[rr]AB[qq]AB[pq]AB[qr]AB[nq]AB[oq]AB[om]AB[ol]AB[ok]AW[pm]AW[pl]AW[pk]AW[pj]AW[ql]AW[rm]AW[sm]AW[sl]AW[rk]AB[nm]C[white 's best result]AP[goproblems]
+(;W[sq];B[rs]C[you can't play t4 so you are going to die!])
+(;W[rs];B[qs];W[sq];B[sr]C[you can't play t4 so you are going to die!])
+(;W[sp];B[sq];W[sr];B[rs];W[sp]C[well done ko and white takes first!RIGHT])
+(;W[sr];B[rs];W[sp];B[sq]C[ko but black takes first])
+(;W[ss];B[sq]
+(;W[sr];B[rs])
+(;W[rs];B[qs])
+(;W[qs];B[ps]C[white died]))
+(;W[nn];B[mn]
+(;W[mo];B[no];W[np];B[mp])
+(;W[sp];B[sq];W[sr];B[no]))
+(;W[no];B[mo];W[mn];B[nn])
+(;W[mo];B[no]
+(;W[np];B[mp];W[nn];B[mn])
+(;W[nn]C[NOTTHIS]))
+(;W[np];B[mp];W[mo];B[no];W[nn];B[mn]))

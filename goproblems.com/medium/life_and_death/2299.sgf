@@ -1,0 +1,68 @@
+(;GE[life and death]DI[4k]DP[28]SO[Spica]CO[9]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd28]
+
+AB[ms][mr][mq][mp][np][op][pp][qp][ro][so][qn][pr][sr]AW[nr]
+[nq][oq][pq][qq][rp][sp][rr][rs]C[White to live unconditionally.]
+
+(;W[ps];B[rq]C[Please avoid forcing at T1/T3]
+(;W[qr];B[os]
+(;W[or]C[RIGHT])
+(;W[ns];B[qs]C[ko since white can't approach at P2]))
+(;W[or];B[qr]
+(;W[qs];B[ns])
+(;W[ns];B[os]))
+(;W[ns];B[qr]C[White P2 is self-atari.])
+(;W[os];B[qr]))
+(;W[rq];B[ns]
+(;W[os];B[or])
+(;W[or];B[os])
+(;W[ps];B[os]))
+(;W[ns];B[rq]
+(;W[ps];B[qr]C[White P2 is self-atari])
+(;W[qr];B[ps])
+(;W[or];B[qr]))
+(;W[os];B[rq])
+(;W[qr];B[ps]
+(;W[rq];B[ns])
+(;W[ns];B[rq])
+(;W[os];B[rq])
+(;W[ss];B[sq]
+(;W[rq];B[ns])
+(;W[ns];B[rq])
+(;W[os];B[rq])))
+(;W[ss];B[sq]
+(;W[ps];B[rq]
+(;W[qr];B[os]
+(;W[or]C[RIGHT])
+(;W[ns];B[qs]C[ko]))
+(;W[ns];B[qr])
+(;W[or];B[qr]
+(;W[ns];B[os])
+(;W[qs];B[ns]))
+(;W[os];B[qr]))
+(;W[rq];B[ns]
+(;W[os];B[or])
+(;W[or];B[os])
+(;W[ps];B[os]))
+(;W[ns];B[rq]
+(;W[ps];B[qr])
+(;W[qr];B[ps])
+(;W[or];B[qr]))
+(;W[os];B[rq])
+(;W[qr];B[ps]
+(;W[rq];B[ns])
+(;W[ns];B[rq])
+(;W[os];B[rq]))
+(;W[or];B[rq]
+(;W[qr];B[ps])
+(;W[ps];B[qr]
+(;W[ns];B[os])
+(;W[qs];B[ns])))
+(;W[qs];B[rq]))
+(;W[or];B[rq]
+(;W[ps];B[qr]
+(;W[ns];B[os])
+(;W[qs];B[ns]))
+(;W[qr];B[ps]))
+(;W[qs];B[rq]))

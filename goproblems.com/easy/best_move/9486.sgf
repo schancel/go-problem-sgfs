@@ -1,0 +1,13 @@
+(;GE[best move]DI[7k]DP[43]SO[MatheusB]CO[7]AB[bq]AB[cr]AB[ep]AB[eq]AB[fq]AB[gq]AB[gr]AB[hr]AB[fo]AB[fn]AB[en]AB[dn]AB[cn]AB[co]AW[ir]AW[iq]AW[hq]AW[hp]AW[gp]AW[fp]AW[cp]AW[dp]AW[do]AW[eo]AW[br]AW[dr]AW[bo]AW[bn]AW[bm]AW[bl]AW[bk]AW[cm]AW[dm]AW[dk]AW[dl]AB[em]AB[el]AB[ek]AB[gl]AB[fk]AB[fm]AB[gn]AB[hm]AB[hl]AW[go]AW[hn]AW[io]AW[in]AW[jp]LB[dr:A]C[White has just played A. Gain as much as you can from this error (it's easy).CHOICE]AP[goproblems]
+(;B[bp];W[cs]
+(;B[dq]C[Snapback does it. Notice that White cannot connect on the first line.RIGHT]TR[ap]TR[aq])
+(;B[cq]C[OK, but it's not the best move. White can play A and then connect on the first line reducing Black gain.RIGHT]LB[dq:A]LB[er:B]TR[ap]TR[aq])
+(;B[er];W[cq];B[dq];W[cr]C[White lives and Black dies])
+(;B[ar];W[cq];B[dq];W[cr];B[aq];W[ao]C[White lives and Black dies.])
+(;B[ds];W[cq];B[dq];W[cr]C[White lives and Black dies.])
+(;B[bs];W[cq];B[ar];W[cr]C[White lives and Black dies (there is no ko).]))
+(;B[dq];W[bp]C[White has escaped with the marked stones.]TR[cp]TR[dp]TR[do]TR[eo])
+(;B[cq];W[bp]C[White has escaped with the marked stones.]TR[cp]TR[dp]TR[do]TR[eo])
+(;B[ar];W[bp]C[White has escaped with the marked stones.]TR[cp]TR[dp]TR[do]TR[eo])
+(;B[bs]C[];W[bp]C[White has escaped with the marked stones.]TR[dp]TR[cp]TR[do]TR[eo])
+(;B[er];W[bp]C[White has escaped with the marked stones.]TR[do]TR[dp]TR[cp]TR[eo]))

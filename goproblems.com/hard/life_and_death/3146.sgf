@@ -1,0 +1,66 @@
+(;GE[life and death]DI[4d]DP[7]SO[wheezy]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[db][ec][hc][kc][bd][cd][dd][id][jd][be][cf][ef][cg][dh][gh][hh][di][ei][fi][bj][dj][lj][nj][ck][mk][qk][nl][ql][mm][rm][rn][oo][po][qo][np][kq][nq][jr][lr][or]AB[eb][hb][jb][fc][ic][fd][ce][de][ee][bf][bg][gg][ch][fh][ci][gi][qi][fj][hj][pj][rj][nk][ok][pk][ll][ml][pl][qm][on][qn][ro][jp][kp][pp][qp][rp][iq][lq][oq][pr]LB[jj:A]TR[bf][bg][ch][ci][qk][ql][rm][rn]C[Black or White: Attempt to save White's marked stones, or play tenuki at A to defend and kill the corresponding Black stones in the mirror image.]
+(;W[jj]
+;B[dg]TR[bf][bg][ch][ci]C[You have chosen to defend as White and kill the marked Black stones...]
+;W[df]
+;B[eg]
+;W[ff]
+;B[gf]
+;W[fe]
+;B[ed]
+;W[ge]
+(;B[he]
+;W[gd]
+;B[hd]
+;W[gc]
+;B[fb]
+;W[hf]
+(;B[hg]
+(;W[ie]LB[ih:A]TR[gf][dg][eg][gg][hg][fh]C[The dead Black stones stay dead, and the marked Black stones must escape in gote (at A) to live. CHOICERIGHT])
+(;W[if]LB[ih:A]TR[gf][dg][eg][gg][hg][fh]C[The dead Black stones stay dead, and the marked Black stones must escape in gote (at A) to live. This is probably Black's strongest sequence (try again for variations). CHOICERIGHT]))
+(;B[dc]
+(;W[cc]
+;B[hg]TR[gf][dg][eg][gg][hg][fh]C[White's defense of the corner is an overplay, and allows Black's marked stones to escape. White can do better. CHOICE])
+(;W[if]TR[hd][he][gf][dg][eg][gg][fh]C[Black got greedy in the corner and White nets the additional marked stones. Black loses the capturing race in the corner. CHOICERIGHT])
+(;W[hg]
+;B[ie]
+;W[jf]TR[hd][he][ie][gf][dg][eg][gg][fh]C[Black got greedy in the corner and White nets the additional marked stones. Black loses the capturing race in the corner. CHOICERIGHT])
+(;W[ie]TR[gf][dg][eg][gg][fh]CR[ie]C[Black got greedy in the corner and White nets the additional marked stones. Black loses the capturing race in the corner. CHOICERIGHT])))
+(;B[dc]
+(;W[he]TR[gf][dg][eg][gg][fh]C[Black got greedy in the corner and White nets the additional marked stones while making good shape. Black loses the capturing race in the corner. CHOICERIGHT])
+(;W[cc]
+;B[he]
+;W[gd]
+;B[hd]
+(;W[hf]
+;B[gc]C[Too little, too late for White. Can White do better, or does Black have the upper hand? CHOICE])
+(;W[gc]
+;B[gb]C[Too little, too late for White. Can White do better, or does Black have the upper hand? CHOICE]))
+(;W[gd]
+;B[he]C[White survives Black's onslaught but connects with poor shape, allowing Black a number of ways either to escape or disrupt White's influence. White can do better. CHOICE])
+(;W[fg]TR[gf][gg]CR[fg]C[This succeeds, but gives Black's marked stones the chance to run and threaten White in sente, in the continuation. White can do better. CHOICE])))
+(;W[pm]
+;B[pn]TR[qk][ql][rm][rn]C[You have chosen to attack as White and save the marked stones...]
+;W[om]
+;B[nn]
+;W[mn]
+;B[no]
+;W[op]
+;B[mo]
+(;W[lo]
+;B[mp]
+;W[lp]
+;B[mq]
+;W[nr]
+;B[ln]
+(;W[lm]
+(;B[kn]TR[ll][ml]C[Although White catches the marked stones in the attack, Black survives the attack and White fails to save the stones on the side. Can White do better, or does Black have the upper hand? CHOICE])
+(;B[ko]TR[ll][ml]C[Although White catches the marked stones in the attack, Black survives the attack and White fails to save the stones on the side. Can White do better, or does Black have the upper hand? CHOICE]))
+(;W[pq]
+(;B[kn]LB[oq:A]TR[nl][mm][om][pm][mn][lo][lp]C[Capturing at A gives Black the opportunity to net your marked stones. The Black stones in the corner survive the capturing race you're eyeing. Can White do better, or does Black have the upper hand? CHOICE])
+(;B[lm]
+;W[ko]
+;B[jn]LB[oq:A]TR[nl][mm][om][pm][mn][ko][lo][lp]C[Capturing at A gives Black the opportunity to net your marked stones and make good shape. The Black stones in the corner survive the capturing race you're eyeing. Can White do better, or does Black have the upper hand? CHOICE])))
+(;W[pq]
+;B[lo]LB[oq:A]TR[nl][mm][om][pm][mn]C[Capturing at A gives Black the opportunity to net your marked stones and make good shape. The Black stones in the corner survive the capturing race you're eyeing. Can White do better, or does Black have the upper hand? CHOICE])))

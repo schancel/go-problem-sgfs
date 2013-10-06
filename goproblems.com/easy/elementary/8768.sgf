@@ -1,0 +1,24 @@
+(;GE[elementary]DI[6k]DP[37]SO[santa c]CO[8]AB[rh]AB[qk]AB[ri]AB[qj]AB[rk]AB[ql]AB[qm]AB[rm]AW[rg]AW[qg]AW[qi]AW[rj]AW[re]AW[pj]AW[pk]AW[pl]AW[pm]AW[qn]AW[rn]AW[rp]C[White plays and...]AW[qh]AP[goproblems]
+(;W[sm]
+(;B[sl]
+(;W[sj]C[Well done! Black dies as he can't approach from either side! :)RIGHT]LB[sk:A]LB[si:A])
+(;W[sh];B[sj]C[:(])
+(;W[si];B[sj]C[:(])
+(;W[sn];B[sj]C[:(]))
+(;B[sj];W[sl]TR[sk]TR[sh]C[RIGHT]))
+(;W[sl];B[sm]
+(;W[sj];B[sk]C[:(])
+(;W[sn];B[sj]C[:(])
+(;W[sk];B[sj]C[:(])
+(;W[sh];B[sj]C[:(])
+(;W[si];B[sj]C[:(]))
+(;W[sk];B[sj]C[:(])
+(;W[si];B[sj]C[:(])
+(;W[sh];B[sj]C[:(])
+(;W[sj]
+(;B[sk]
+(;W[sm]C[Well done! Black can't make a second eye! :)RIGHT]LB[sl:A])
+(;W[sl];B[sm]C[:(])
+(;W[sh];B[si]C[:(])
+(;W[si];B[sh]C[:(]))
+(;B[sl];W[sh]C[RIGHT])))

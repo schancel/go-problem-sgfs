@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[1k]DP[20]SO[Field Mouse]CO[0]SZ[9]AB[cg]AB[dg]AB[eg]AB[fg]AB[gf]AB[hf]AB[he]AB[ge]AB[fe]AB[fd]AB[hd]AW[gg]AW[hg]AW[fh]AW[gi]AW[ih]AW[if]AW[bg]AB[bf]AW[ff]AW[ef]AW[df]AW[cf]AW[ee]AW[ed]AW[ec]AB[hc]AB[bd]AB[ae]AB[eh]AB[gc]AW[gb]AW[fb]AB[ib]AB[ha]AB[cc]AB[ce]AW[db]AW[fc]AB[de]AW[bb]AB[bc]AB[dd]AB[be]AB[ac]AW[ie]AB[hb]AW[id]AW[ab]AW[ca]AW[ba]AW[dc]AB[ic]AW[ig]AB[cb]AW[ea]AW[ga]C[White to win the game. Use japanese rules, zero komi and zero prisoners at the beginning.]AP[goproblems]
+(;W[ch];B[bh];W[ei];B[ag];W[dh];B[bg]
+(;W[di];B[bi]C[White will have to play into his territory and will lose.])
+(;W[bi];B[di];W[ci];B[ai];W[ah];B[gh]C[Problem.]))
+(;W[di];B[bh]
+(;W[bi];B[ei])
+(;W[ei]
+(;B[ch]C[Black wins now.])))
+(;W[bh];B[ch]
+(;W[di];B[bi];W[ci];B[ah];W[ai];B[gh]
+(;W[hh];B[bi]C[White is in trouble now.])
+(;W[ag];B[fi];W[hi]C[The whole bottom is seki and white wins by one point! (two captures to one)RIGHT])
+(;W[fi];B[bi]C[White is in trouble as he has no threats.]))
+(;W[bi];B[di];W[ah];B[af];W[fi];B[ag]C[White is in trouble as he cannot play E1])
+(;W[ei];B[bi]C[Black won.])
+(;W[ci];B[di];W[bi];B[ag]C[White cannot play E1 as he has no ko threats, black wins.]))
+(;W[ei];B[ch]
+(;W[ci];B[bi];W[di];B[bh]C[White loses.])
+(;W[bh];B[bi]C[White loses.])))

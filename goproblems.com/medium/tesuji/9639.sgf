@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[3d]DP[11]SO[fathwad]CO[8]AB[dc]AB[ce]AB[gc]AB[pb]AB[qb]AB[qc]AB[qd]AB[qf]AB[nc]AB[bk]AB[dk]AB[fk]AB[cn]AB[co]AB[cp]AB[cq]AB[er]AB[fr]AB[gr]AB[jq]AB[jp]AB[io]AB[ho]AB[go]AB[nq]AB[np]AB[oo]AB[pn]AB[om]AB[mn]AB[ml]AB[nk]AB[ni]AB[mh]AW[ic]AW[ie]AW[ob]AW[oc]AW[pc]AW[pd]AW[pe]AW[nd]AW[li]AW[lk]AW[lm]AW[jm]AW[ln]AW[lo]AW[lq]AW[kq]AW[pk]AW[ql]AW[qn]AW[qo]AW[po]AW[pq]AW[oq]AW[gp]AW[hp]AW[fo]AW[fq]AW[dp]AW[do]AW[dn]AW[dm]AW[cm]AW[gl]AW[hr]TR[go]TR[ho]TR[io]TR[jp]TR[jq]C[Please connect the 5 marked stones.]AP[goproblems]
+(;B[jr]
+(;W[hq]
+(;B[mr];W[lr];B[js]C[RIGHT])
+(;B[js];W[hs];B[mr]C[RIGHT]))
+(;W[ip];B[ko];W[ir];B[lp];W[mp];B[mq]
+(;W[kp];B[lr]C[RIGHT])
+(;W[mo];B[lr]TR[gm]C[Although there is bad aji here for black, black is connected and white cannot yet exploit it since the marked group is in danger.  In the game, white played G7 following K2.RIGHT]MA[cm]MA[dm]MA[dn]MA[do]MA[dp]MA[fo]MA[fq]MA[gp]MA[hp]MA[ip]MA[hr]MA[ir])))
+(;B[ir];W[iq];B[hs];W[jr];B[hq];W[ip]
+(;B[jo];W[kr])
+(;B[kr];W[jo]))
+(;B[hq];W[iq];B[ir];W[ip];B[jo];W[jr])
+(;B[js];W[ir];B[jr];W[mr];B[hq];W[ip]
+(;B[iq];W[jo])
+(;B[ko];W[iq];B[lp];W[kp];B[mp];W[nr])))

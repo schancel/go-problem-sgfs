@@ -1,0 +1,77 @@
+(;GE[best move]DI[4k]DP[28]SO[Florian]CO[7]SZ[19]AW[ci]AW[ei]AW[dj]AW[fj]AW[dk]AW[ik]AW[dl]AW[cm]AW[dm]AW[im]AW[bn]AW[hn]AW[bo]AW[co]AW[ho]AW[io]AW[cp]AW[fp]AW[dq]AW[fq]AW[iq]AW[gr]AB[dh]AB[bi]AB[di]AB[cj]AB[bk]AB[ck]AB[al]AB[cl]AB[ll]AB[bm]AB[cn]AB[dn]AB[in]AB[kn]AB[do]AB[eo]AB[fo]AB[go]AB[jo]AB[gp]AB[jp]AB[gq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Weiï¾ƒæ­‰PB[Schwarz]
+(;B[ip];W[hp]
+(;B[hq]
+(;W[hr]
+(;B[hm]
+(;W[gn]
+(;B[gm];W[fn]
+(;B[fm];W[jn]
+(;B[en];W[in]
+(;B[il]C[White is caught in a ladder.RIGHT])
+(;B[jq];W[il]
+(;B[em];W[ir])
+(;B[ir];W[em]C[White saved the marked stones and then some.]MA[hn]MA[ho]MA[io]))
+(;B[ir];W[il]
+(;B[em];W[jq])
+(;B[jq])))
+(;B[il];W[jl];B[en]MA[in]MA[jm]C[RIGHT])
+(;B[jm];W[il]C[Just ko])
+(;B[jq];W[il]
+(;B[en];W[in]
+(;B[em])
+(;B[ir]))
+(;B[ir];W[en]MA[hn]MA[ho]MA[io]C[White saved the marked stones in style.])
+(;B[em];W[ir]))
+(;B[ir];W[in]
+(;B[jq];W[en]MA[io]MA[ho]MA[hn]C[White saves the marked stones with a wide margin.])
+(;B[en])
+(;B[em];W[jq]
+(;B[en];W[il])
+(;B[il];W[jl]))))
+(;B[en];W[fm]
+(;B[fl];W[em])
+(;B[em];W[fl];B[el]))
+(;B[jn];W[em])
+(;B[jq];W[em]
+(;B[ir]MA[io]MA[ho]MA[hn]C[Black escapes but White saves the marked stones in sente.])
+(;B[fm];W[en];B[ir]C[Black escapes but White saves the marked stones in good shape and in sente.])
+(;B[en];W[fm];B[ir]C[Black escapes but White saves the marked stones in good shape and in sente.]))
+(;B[ir];W[em];B[jq]C[Black escapes but White saves the marked stones in good shape and in sente.]))
+(;B[fm];W[gm])
+(;B[gl];W[fm])
+(;B[jq];W[gm];B[ir]MA[io]MA[ho]MA[hn]C[White managed to save those stones in sente.])
+(;B[ir];W[gm];B[jq]C[White keeps the stones and sente.]MA[io]MA[ho]MA[hn]))
+(;W[jn]C[This is a better defense by White, limiting the loss and reducing Black's options.]
+(;B[gn];W[in];B[il]C[RIGHT])
+(;B[il];W[gm])
+(;B[jm];W[gm])
+(;B[jq];W[gm]C[Black escapes but White saves the marked stones in good shape and in sente.]MA[ho]MA[hn]MA[io])
+(;B[ir];W[gm]C[Black escapes but White saves the marked stones in good shape and in sente.]MA[hn]MA[ho]MA[io])))
+(;B[jq];W[gm]MA[ho]MA[io]MA[hn]C[Black escapes but White saves the marked stones in good shape and in sente.])
+(;B[ir];W[gm]C[Black escapes but White saves the marked stones in good shape and in sente.]))
+(;W[ir];B[hr];W[hs];B[fr];W[gs];B[fs];W[is];B[eq]LB[hm:A]LB[kr:B]C[A and B are now miaiRIGHT]))
+(;B[hr]
+(;W[hq]
+(;B[ir];W[fr])
+(;B[fr];W[er]
+(;B[gs];W[ir]
+(;B[eq];W[ep];B[dp];W[eq];B[cq];W[cr];B[bq];W[br]
+(;B[bp];W[ap])
+(;B[aq];W[ar])
+(;B[ap];W[bp]))
+(;B[dp];W[eq]))
+(;B[eq];W[fs])
+(;B[dp];W[fs]))
+(;B[eq];W[er])
+(;B[dp];W[er])))
+(;B[hm];W[hq])
+(;B[fr]
+(;W[hq];B[eq];W[hr])
+(;W[er]
+(;B[hq];W[hr];B[ir];W[jq];B[jr];W[kq])
+(;B[hr];W[hq];B[gs]))))
+(;B[hq];W[ip];B[hr];W[ir];B[fr];W[er];B[gs];W[fm];B[eq];W[ep];B[dp];W[eq];B[cq];W[cr];B[bq];W[br])
+(;B[hr];W[hq];B[fr];W[er];B[gs];W[ir];B[eq];W[ep];B[dp];W[eq];B[cq];W[cr];B[bq];W[br])
+(;B[fr];W[er];B[ip];W[hp]
+(;B[hq])
+(;B[hr])))

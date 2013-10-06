@@ -1,0 +1,73 @@
+(;GE[best move]DI[3k]DP[24]SO[cheyenne]CO[6]WS[1]
+VW[]
+BS[1]
+AB[nc][jd][pd]
+AW[ld][qf]
+KM[0]
+(;B[lc]
+;W[oc]
+;B[od]
+;W[kc]
+;B[kd]
+;W[mc]
+;B[lb]
+;W[nd]
+;B[nb]
+;W[mb]
+;B[ma]
+;W[md]
+(;B[ob]
+;W[kb]
+;B[la]
+;W[pc]
+(;B[qc]
+;W[ka]
+C[Opps... The hamete play was at White at P17]
+TR[oc])(;B[pb]
+;W[qc]
+;B[qb]
+;W[qd]
+;B[jb]
+;W[na]
+;B[oa]
+;W[rb]
+;B[jc]
+;W[mf]
+C[This is bad for Black
+
+The trouble started with p17
+]
+TR[oc]))(;B[kb]
+;W[ob]
+;B[na]
+;W[jc]
+;B[jb]
+;W[ic]
+;B[ib]
+;W[hc]
+;B[hb]
+;W[gc]
+;B[pc]
+;W[mf]
+C[This is bad for Black
+
+The trouble started with p17
+]
+TR[oc]))(;B[qe]
+;W[pf]
+;B[ne]
+C[RIGHT This is good for Black.  Keep 
+the two White groups separated.
+
+Blacks  initial response at A is the 
+usual response and is not the best 
+play
+]
+LB[lc:A])(;B[pf]
+CR[pf];W[pg]
+CR[pe];B[of]
+CR[of];W[qe]
+CR[qe];B[qd]
+CR[qd];W[qj]
+C[RIGHT After white extends black can make a large scale attacking move that depends on the rest of the board]
+CR[qj]))

@@ -1,0 +1,5 @@
+(;GE[endgame]DI[5k]DP[32]SO[able]CO[0]SZ[9]AB[bb]AB[bc]AB[bd]AB[ad]AB[bf]AB[be]AB[af]AW[ca]AW[cb]AW[db]AW[eb]AW[fb]AW[ea]AW[gb]AW[ga]AB[dc]AB[ec]AB[de]AW[cd]AW[ed]AW[dd]AW[fd]AW[fc]AW[fe]AW[cf]AW[df]AW[ef]AW[ff]AB[ag]AW[cg]AW[bg]AB[ai]AW[bh]AB[ci]AW[di]AW[dh]AW[ch]AB[ah]AB[gi]AB[gh]AB[gg]AB[gf]AB[hf]AB[if]AW[fg]AW[fi]AW[fh]AB[ge]AB[gd]AB[hc]AB[ic]AB[gc]AW[hb]AW[ib]C[A quick problem to make a point about reverse sente.]AP[goproblems]
+(;B[cc];W[ba]
+(;B[ab];W[ce];B[bi]C[Correct! The 3 gote moves have value 2, 3 and 4, so the value of playing first is 3. (4-(3-2)). Letting white get 2 points in sente in the middle of the sequence is still better than letting white start the sequence of gote moves. Reverse sente should only be played if the value of playing first in the sequence of gote moves drops below the value of the largest reverse sente move.RIGHT])
+(;B[ce];W[ab]C[Got to live first :(]))
+(;B[ba];W[cc];B[ce];W[bi]C[Black loses by half a point. :(]))

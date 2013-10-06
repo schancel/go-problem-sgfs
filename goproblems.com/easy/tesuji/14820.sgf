@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[5k]DP[33]SO[maba]CO[0]AB[gi]AB[hi]AB[hg]AB[hf]AB[jf]AB[jg]AW[ig]AW[ih]AW[ii]AW[jh]AB[kh]AW[ki]AW[li]AW[mi]AB[lh]AB[mh]AB[nh]AB[ni]AB[ij]AB[jj]AB[ik]AB[jl]AB[kk]AB[ll]AW[hj]AW[hk]AW[hl]AW[il]AW[jm]AW[km]AW[ml]AW[mm]AW[nk]AW[nn]C[Black to capture seven stones.]AP[goproblems]
+(;B[mj]
+(;W[kj]
+(;B[lk]C[RIGHT])
+(;B[lj];W[ji];B[jk];W[lk];B[mk];W[kl])
+(;B[jk];W[lk])
+(;B[nj];W[ji];B[jk];W[lk])
+(;B[hh];W[ji];B[jk];W[lk])
+(;B[if];W[ji];B[jk];W[lk]))
+(;W[lj];B[lk]C[RIGHT];W[ji];B[kj];W[mk];B[nj];W[lm];B[if]C[RIGHT])
+(;W[lk];B[lj];W[ji];B[kj]C[RIGHT])
+(;W[ji];B[kj];W[lj];B[lk];W[mk];B[nj];W[lm];B[if]C[RIGHT]))
+(;B[kj];W[mj])
+(;B[lj];W[ji]
+(;B[mj];W[kj];B[jk];W[lk];B[mk];W[kl])
+(;B[kj];W[mj]))
+(;B[lk];W[mj])
+(;B[mk];W[mj])
+(;B[ji];W[kj]))

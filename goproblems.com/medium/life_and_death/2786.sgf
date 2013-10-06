@@ -1,0 +1,63 @@
+(;GE[life and death]DI[1d]DP[17]SO[santa c]CO[4]SZ[19]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[fq]AW[gq]AW[hq]AW[iq]AW[oq]AW[pq]AW[qq]AW[rq]AW[sq]AW[ir]AW[lr]AW[mr]AW[nr]AW[hs]AW[is]AB[np]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[aq]AB[bq]AB[cq]AB[dq]AB[eq]AB[kq]AB[lq]AB[mq]AB[nq]AB[fr]AB[gr]AB[hr]AB[kr]AB[ks]LB[gs:W]LB[hs:o]C[The endgame - White attempts to decrease the territory, by playing the marked stone, and Black defends and makes the single worst mistake - Please, play 'W' for the worst possible move..FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black];B[gs]C[White went and took the four stones - As the black allowed it...];W[er]C[Guess what? Black is a 44.5k - Yes, he's worse than me - He made a 2nd mistake! Where should he have played? (One location ONLY - At the lower left side.)];B[dr]LB[aq:x]LB[bq:x]LB[cq:x]LB[dq:x]LB[eq:x]LB[dr:x]C[Nice - This move saves the rest of the black group (Marked), along with some territory - And it's the only move that can do that here ;)];W[gp]LB[mp:P]LB[ls:1]C[Okie, now that we know, what he should have done... lol ... Let's teach him a lesson, that he won't forget. In the lower right side - Start at '1' (Play at 'P'(N4) for pass - Non local reply - Just to show your sente..)FORCE];B[ls]LB[ls:1]C[FORCE];W[ms]LB[mp:P]LB[or:3]LB[ls:1]LB[ms:2]C[FORCE];B[or]LB[pr:S]C[Okay - Remember the second mistake? Yes White doesn't go at 'S' to save hime self..];W[os]LB[mp:P]C[(Bored? Try to think - in how many way can you kill the group?)]
+(;B[pr]C[Yes, ressistance is futile, But the white hopes, that you are as stupid as him... (Is he wrong? Prove it!)]
+(;W[qr]LB[mp:P];B[ns]C[Guh - What did he expect, atari-ing you, like that, eh?]
+(;W[rs]LB[mp:P];B[sr]C[See, how these problems, are usefull - You know how to deny life from your oppoment... Nice!  CHOICERIGHT])
+(;W[qs]LB[mp:P];B[mp]C[That's right... Nice!  CHOICERIGHT]))
+(;W[rr]LB[mp:P];B[mp]C[Nice!  CHOICERIGHT]
+(;W[qr]LB[lp:P];B[ns]C[Atari, does require a response - What was he expecting?]
+(;W[qs]LB[lp:P];B[ss]C[Yes! - He won't be having 2 eyes, now, will he? Nice!  CHOICERIGHT])
+(;W[ss]LB[lp:P];B[qs]C[Yes! - He won't be having 2 eyes, now, will he? Nice!  CHOICERIGHT]))
+(;W[qs]LB[lp:P]
+(;B[ss]C[LYes! - He won't be having 2 eyes, now, will he? Nice!  CHOICERIGHT])
+(;B[ns]
+(;W[qr];B[ss]C[Yes! - He won't be having 2 eyes, now, will he? Nice!  RIGHT])
+(;W[ss];B[qr]C[Yes! - He won't be having 2 eyes, now, will he? Nice!RIGHT])))
+(;W[ps];B[ns]C[Guh - Atri -> Black takes -> White's still dead.];W[qs];B[ss]C[Yes! - He won't be having 2 eyes, now, will he? Nice!  CHOICERIGHT]))
+(;W[ps]LB[mp:P]TR[qr]TR[rr]TR[sr]C[NONE OF THE TRIANGLES ARE IMPLEMENTED - I'm too lazy, lol.];B[ns]
+(;W[qr]LB[mp:P]
+(;B[mp];W[rs]C[White lives!!!]
+(;B[qs];W[sr]C[Didn't I say it? - White lives! CHOICE])
+(;B[sr];W[nr]LB[lp:P]
+(;B[or];W[pr]C[Still 2 eyes... CHOICE])
+(;B[pr];W[or]C[Still 2 eyes... CHOICE])))
+(;B[rs]C[White lives... And you were soooo close..];W[nr]LB[mp:P]
+(;B[or];W[pr]C[Still 2 eyes... CHOICE])
+(;B[pr];W[or]C[Still 2 eyes... CHOICE]))
+(;B[nr]C[Got him, Nice!];W[rs]LB[mp:P]
+(;B[qs];W[sr]C[Say - WHAT?! CHOICE])
+(;B[sr]LB[qs:x]C[R1 is a false eye - White is dead.  CHOICERIGHT])))
+(;W[rr]LB[mp:P];B[mp]C[Heh - We knew, it for a long time, right - But that stubborn white...]
+(;W[qs]LB[lp:P];B[ss]C[Ain't no way that this fella'll live with a single eye, eh?  CHOICERIGHT])
+(;W[qr]LB[lp:P]
+(;B[nr]
+(;W[ss]LB[lp:P];B[qs]C[Black's DEAD!  CHOICERIGHT])
+(;W[qs]LB[lp:P];B[ss]C[Nope - No 2 eyes... WD!  CHOICERIGHT]))
+(;B[lp]C[And after all of this you, let him, live...];W[qs]LB[kp:P];B[ss];W[nr]LB[kp:P]
+(;B[or]C[Trying, to take away the 2nd eye...];W[ms]C[White, suddenly, got smater... lol - It lives... CHOICE])
+(;B[pr]LB[or:A]LB[ms:B]C[Hm? You don't have to look further, than white's first reply, to understand, that this is wrong! White 'A' or 'B' for 2 eyes, hence, it's alive... You failed! (HOW?!) CHOICE]))
+(;B[qs]C[Yup, white is left, eyeless...  CHOICERIGHT])
+(;B[ss]C[And you let the white live?!];W[nr]LB[or:A]LB[pr:B]LB[ms:C]C[Possible variations (All let Black live!): w'A'->b'C' or w'B' ->b'C'(b'B' is worse, because of territory) and if w plays else were b'C' - for live & territory. CHOICE]))))
+(;W[qs]LB[mp:P];B[mp]C[Heh - Absolutly right - no need to waste your territory - Better party, somewhere else! ;)]
+(;W[qr]LB[lp:P];B[ns]C[Atari, does leed to this..]
+(;W[ps]LB[lp:P];B[nr]C[Correct! One eye, is all he can get...];W[rr]LB[lp:P];B[ss]C[Yup - One eye... CHOICERIGHT])
+(;W[rr]LB[lp:P];B[ss]C[Yup - No 2 eyes :)];W[ps]LB[lp:P];B[nr]C[Leave him, with one, eye, eh?  CHOICERIGHT]))
+(;W[rr]LB[lp:P]C[(Bored? How many moves, could black do now?)]
+(;B[ns]C[nice... (It's too obvious - One eye, and White can't do anything, to get a second 1)  CHOICERIGHT])
+(;B[ss]C[nice... (It's too obvious - One eye, and White can't do anything, to get a second 1)  CHOICERIGHT]))))
+(;B[ns]C[Yeah, dead already...]
+(;W[pr]LB[mp:P];B[ps]
+(;W[qs]LB[mp:P]
+(;B[rr]C[I bet, it hurted - Afterall, white, made asilly mistake... (S2 - It the key point of this form.)  CHOICERIGHT])
+(;B[rs]LB[nr:2]LB[ms:3]LB[os:1]C[Well - I didn't say anything, about ko threats! You have NONE!!! - White is alive! CHOICE]))
+(;W[rs]LB[mp:P];B[qs];W[qr]LB[mp:P];B[sr]C[You're CRUEL! NICE!!!  CHOICERIGHT]))
+(;W[ps]LB[mp:P]
+(;B[pr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[qr];W[pr]LB[mp:P];B[rr];W[rs]LB[mp:P];B[sr]C[Yup - dead!];W[nr]LB[mp:P];B[ms]C[White, sure, is hopeless, eh? Nice!  CHOICERIGHT])
+(;B[nr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[rr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[sr];W[pr]LB[mp:P];B[rr];W[rs]LB[mp:P]
+(;B[qr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[nr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[ms]C[Heh - Isn't white hopeless?  CHOICERIGHT]))
+(;B[qs];W[rs]LB[mp:P];B[pr];W[qr]LB[mp:P];B[sr]C[Heh - Isn't white hopeless?  CHOICERIGHT])
+(;B[rs]C[Heh - Isn't white hopeless?(It works - Either think it out, or trust me.. lol)  CHOICERIGHT]))))

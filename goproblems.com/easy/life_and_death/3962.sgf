@@ -1,0 +1,33 @@
+(;GE[life and death]DI[4k]DP[29]SO[karmaGfa]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[&#30333;&#26041;]PB[&#40657;&#26041;]AW[cn][dn][en][bo][fo][bp][fp][bq][fq][fr][fs]AB[cp][dp][ep][cq][eq][er][es]LB[hq:Y][iq:N]C[Is there something you can make for this group (Y) or is it totally dead and you should leave it as ko-threats (N) ?]
+(;B[hq]CR[hq]
+;W[iq]CR[iq]C[Now please show how black can live.]
+(;B[br]CR[br]
+;W[ar]CR[ar]
+(;B[dr]CR[dr]
+;W[bs]CR[bs]
+;B[cs]CR[cs]C[RIGHT Black can live if he wins the ko.])
+(;B[bs]CR[bs]
+;W[dr]CR[dr])
+(;B[cs]CR[cs]
+;W[dr]CR[dr]))
+(;B[cr]CR[cr]
+;W[br]CR[br]
+(;B[dr]CR[dr]
+;W[cs]CR[cs]C[This sequence is the one from the original game.])
+(;B[cs]CR[cs]
+;W[dr]CR[dr]))
+(;B[dr]CR[dr]
+;W[br]CR[br]
+(;B[cs]CR[cs]
+;W[cr]CR[cr])
+(;B[cr]CR[cr]
+;W[cs]CR[cs]))
+(;B[cs]CR[cs]
+;W[br]CR[br]
+(;B[dr]CR[dr]
+;W[cr]CR[cr])
+(;B[cr]CR[cr]
+;W[dr]CR[dr])))
+(;B[iq]CR[iq]C[You are wrong, there is a way for the black group to live.]))

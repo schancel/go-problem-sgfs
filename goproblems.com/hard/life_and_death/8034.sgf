@@ -1,0 +1,39 @@
+(;GE[life and death]DI[4d]DP[7]SO[flame]CO[7]AB[da]AB[db]AB[cc]AB[cd]AB[ce]AB[be]AW[bb]AB[bc]AW[ea]AW[eb]AW[dd]AW[de]AW[bf]AW[cf]AW[df]AW[ec]LB[ch:A]LB[eh:B]C[Assuming that it's white's turn...what is black's status?   A = Black is alive unconditionally, B = ko, C = seki, D =  Death]LB[ci:C]LB[ei:D]AP[goproblems]
+(;B[ch];W[ad]C[hmmm....]
+(;B[cb]
+(;W[ae];B[ba]C[This is the best solution for both.RIGHT])
+(;W[ac]C[CHOICE]
+(;B[ba]
+(;W[ae];B[ab]C[RIGHT])
+(;W[ab]C[CHOICE];B[ae];W[af];B[bd]C[CHOICERIGHT]))
+(;B[ae];W[aa]
+(;B[ca]C[aliveRIGHT])
+(;B[bd];W[dc];B[ca];W[af];B[ab];W[ac]C[dead])
+(;B[ba]C[ko]))))
+(;B[ae];W[cb];B[dc];W[ac];B[ba];W[ab];B[ca];W[af]C[seki])
+(;B[ac];W[cb];B[dc];W[ae]C[dead])
+(;B[ba]
+(;W[ab];B[cb]C[RIGHT])
+(;W[ac]C[CHOICE]
+(;B[cb];W[ae];B[ab]C[RIGHT])
+(;B[ae];W[cb]
+(;B[ab];W[aa]C[ko])
+(;B[ca];W[ab];B[dc];W[af]C[seki])))
+(;W[cb];B[ab]C[RIGHT]))
+(;B[ab];W[ac]
+(;B[cb];W[aa];B[ae];W[af]
+(;B[ba];W[ca]C[ko])
+(;B[ca];W[dc]C[seki])
+(;B[bd];W[dc];B[ab];W[ac]C[ko or seki in future.]))
+(;B[ba];W[aa];B[cb];W[ca]C[ko]))
+(;B[aa];W[ae]C[dead])
+(;B[ca];W[ae]C[dead])
+(;B[dc];W[ae]C[dead])
+(;B[bd];W[cb]
+(;B[dc];W[ae]
+(;B[ba];W[ab]C[dead])
+(;B[ab];W[ba]C[dead]))
+(;B[ba];W[dc]C[dead])))
+(;B[eh])
+(;B[ci])
+(;B[ei]))

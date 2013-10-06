@@ -1,0 +1,13 @@
+(;GE[endgame]DI[2d]DP[14]SO[thanush]CO[0]AB[pc]AB[pe]AB[pf]AB[qf]AB[re]AB[qh]AW[pd]AW[qd]AW[rd]AW[qe]AW[oc]AW[ob]AW[nb]AW[mb]AW[ld]AB[nd]AB[od]AB[nc]C[Black to reduce white's corner]AP[goproblems]
+(;B[rc];W[qc]
+(;B[qb]
+(;W[pb]C[CHOICE];B[sd];W[pc]C[RIGHT])
+(;W[sd]C[CHOICE];B[pb];W[rb];B[sb];W[sc];B[ra]C[RIGHT]))
+(;B[sd];W[qb]C[B can do better]))
+(;B[qb];W[rf];B[rg];W[se]
+(;B[rc];W[qc])
+(;B[rb];W[rc];B[sc];W[pb];B[qc];W[qa]))
+(;B[sd];W[rc]
+(;B[rf];W[sc])
+(;B[rb];W[sc];B[qc];W[se];B[rf];W[qb]))
+(;B[qc];W[rc];B[rb];W[rf]))

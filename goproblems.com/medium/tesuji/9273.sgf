@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[1k]DP[20]SO[santa c]CO[7]AB[hs]AB[gr]AB[gq]AB[fr]AB[fp]AB[ep]AB[fn]AB[gn]AB[gm]AW[gp]AW[hp]AW[hr]AW[hq]AW[hn]AW[hm]AW[in]AW[jn]AW[kp]AW[jq]AW[jr]AB[ir]AB[iq]AB[im]AB[hl]AB[jm]AB[km]AB[ln]AB[mn]AW[nn]AW[mo]AW[np]AW[oq]AW[or]AW[on]C[Black to capture these stones...]AW[mm]AW[ml]MA[hr]MA[hq]MA[hp]MA[gp]AB[nq]AW[mq]AP[goproblems]
+(;B[ip];W[ho]
+(;B[ko];W[kn]
+(;B[lo];W[jo];B[jp];W[lm];B[lp]C[Well done! :)RIGHT])
+(;B[jo];W[lo];B[lm];W[jp]C[:(])
+(;B[jp];W[lo]C[:(])
+(;B[lm];W[lo];B[jo];W[jp]C[:(]))
+(;B[jo];W[kn];B[ko];W[lo];B[lm];W[jp]C[:(])
+(;B[jp];W[ko]C[:(]))
+(;B[ko];W[ip]C[:(])
+(;B[jo];W[ip]C[:(])
+(;B[jp];W[ip]C[:(])
+(;B[ho];W[ip]C[:(])
+(;B[io];W[ip]C[:(])
+(;B[go];W[ip]C[:(]))

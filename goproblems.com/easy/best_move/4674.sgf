@@ -1,0 +1,12 @@
+(;GE[best move]DI[12k]DP[58]SO[adum]CO[6]AB[cq]AB[dp]AB[do]AB[co]AW[cp]AW[dq]AW[eq]AW[ep]AW[eo]AW[en]AW[cm]AW[dm]TR[cp]C[what's the best way to catch marked stone?FORCE]AP[goproblems]
+(;B[bp]C[simple is best. this leaves the least aji and gives white the fewest followup moves.RIGHT])
+(;B[cr];W[bo]
+(;B[bp];W[bn]C[now black must make another move to live: good for white])
+(;B[bn];W[bp];B[cn];W[bm]))
+(;B[bo];W[cr])
+(;B[bq];W[bn];B[bo];W[cr];B[br];W[ds]C[black needs another move: good for white])
+(;B[br];W[bo]
+(;B[bp];W[bn]C[black must live in gote while white gets good shape...])
+(;B[bn];W[bp];B[cn];W[bm]))
+(;B[bn];W[cr]C[white encroaches into the corner])
+(;B[dr];W[bp]C[black crumbles]))

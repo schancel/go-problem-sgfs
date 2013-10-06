@@ -1,0 +1,42 @@
+(;GE[life and death]DI[1k]DP[20]SO[xiuma]CO[4]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AW[er]AB[do]AB[co]AB[cp]AB[eq]AB[dq]AB[dr]AB[bq]AW[bo]AW[cn]AW[bm]AW[fn]AW[em]C[Black to live!  (2 possibilities and additional one seki)]AP[goproblems]
+(;B[bs];W[ar]
+(;B[bp];W[cr];B[br]C[RIGHT];W[ds];B[cq]C[RIGHT])
+(;B[ds];W[aq];B[ap];W[bp];B[br]
+(;W[cr];B[as];W[aq])
+(;W[ao];B[cr]))
+(;B[br];W[bp];B[aq];W[ds];B[cs];W[cq];B[es];W[fs])
+(;B[aq];W[ds];B[cs];W[cr]
+(;B[cq];W[br])
+(;B[br];W[cq])
+(;B[es]
+(;W[br]LB[cq:A]C[White must not play A, tenuki is good!]))))
+(;B[cr];W[bp];B[bs];W[ar]
+(;B[ds];W[aq])
+(;B[aq];W[ds]))
+(;B[br];W[bp]
+(;B[aq];W[as]
+(;B[cq];W[cs];B[ds];W[bs]C[Black is dead in bent four in the corner.])
+(;B[bs];W[cq];B[cr];W[ds]))
+(;B[cq];W[cs];B[ds];W[aq];B[ar];W[bs]))
+(;B[ar];W[bs]
+(;B[bp];W[ds])
+(;B[cr];W[bp])
+(;B[cs];W[bp]
+(;B[br];W[cq])
+(;B[cq];W[br]))
+(;B[ds];W[bp]))
+(;B[cs];W[bp]
+(;B[cq];W[br];B[ar];W[bs])
+(;B[br];W[cq];B[aq];W[as]))
+(;B[bp];W[cr]
+(;B[cs]
+(;W[bs]
+(;B[ds];W[br];B[ar];W[ap])
+(;B[br];W[ds];B[cq];W[cs])
+(;B[cq];W[br];B[ds];W[ar]))
+(;W[br]
+(;B[bs];W[ar];B[ap];W[es];B[ds]LB[cq:A]C[Whith must not play A!])
+(;B[ar];W[bs]
+(;B[ap];W[ds];B[cq])
+(;B[ds];W[ap]LB[cq:A]C[Whith must not play A!]))))
+(;B[br];W[ds];B[cq];W[cs];B[bs];W[es];B[ap];W[ar])))

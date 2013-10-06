@@ -1,0 +1,27 @@
+(;GE[endgame]DI[1d]DP[16]SO[bass]CO[8]SZ[9]AW[fa]AW[ha]AW[db]AW[eb]AW[fb]AW[cc]AW[dc]AW[fc]AW[gc]AW[hc]AW[ed]AW[fd]AW[id]AW[ce]AW[de]AW[ee]AW[fe]AW[af]AW[bf]AW[df]AW[cg]AW[eg]AW[bh]AW[eh]AW[fh]AB[ba]AB[da]AB[ia]AB[bb]AB[gb]AB[hb]AB[bc]AB[ic]AB[bd]AB[cd]AB[dd]AB[hd]AB[ae]AB[be]AB[ge]AB[he]AB[ef]AB[ff]AB[hf]AB[dg]AB[fg]AB[gg]AB[ig]AB[gh]AB[gi]C[no komi, no prisoners, black to play and win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ga];W[ib]
+(;B[dh]
+(;W[ch];B[ic];W[ac];B[ab];W[ib]
+(;B[fi]
+(;W[ic]
+(;B[ei];W[ie];B[ci];W[bi];B[di]C[black wins by one point.RIGHT]TW[ga]TW[ha]TW[ia]TW[gb]TW[hb]TW[ec]TW[cf]TW[ag]TW[bg]TW[ah]TW[ai]TB[aa]TB[ac]TB[ad]TB[gf]TB[eg]TB[hg]TB[eh]TB[fh]TB[hh]TB[ih]TB[hi]TB[ii])
+(;B[di];W[ci];B[ei];W[ie]C[jigo.]))
+(;W[di]C[This does not help white.];B[ic];W[cb];B[ie];W[ca]C[Black wins by one point.RIGHT]))
+(;B[ei];W[di];B[ic];W[cb];B[ie];W[ca];B[fi]C[black wins by one pointRIGHT]TW[da]TW[ea]TW[ec]TW[cf]TW[ag]TW[bg]TW[dg]TW[ah]TW[dh]TW[ai]TW[bi]TW[ci]TB[aa]TB[ha]TB[ib]TB[ac]TB[ad]TB[id]TB[gf]TB[if]TB[hg]TB[hh]TB[ih]TB[hi]TB[ii])
+(;B[di];W[ic]
+(;B[fi];W[ci];B[ei];W[ie]C[jigo.])
+(;B[ei];W[ci];B[fi];W[ie]C[jigo.])))
+(;W[di]C[This does not help white.];B[ic];W[ac];B[ab];W[ib];B[fi];W[ch];B[ic];W[cb];B[ie];W[ca]C[black wins by one point.RIGHT]))
+(;B[fi];W[dh];B[ic];W[ac];B[ab];W[ib]C[white wins.])
+(;B[ei];W[dh];B[ic];W[ac];B[ab];W[ib]C[white wins.]))
+(;B[ie];W[ga]C[white wins.])
+(;B[ei];W[dh]
+(;B[fi];W[ib]C[white wins.])
+(;B[ga];W[ib]C[white wins.])
+(;B[ie];W[ga]C[white wins.]))
+(;B[fi];W[dh]
+(;B[ga];W[ib]C[white wins.])
+(;B[ie];W[ga]C[white wins.]))
+(;B[dh];W[ch]
+(;B[fi];W[di];B[ga];W[ib]C[white wins.])
+(;B[ga];W[ib]C[D2 was a wasted threat, now there is no way to win.])))

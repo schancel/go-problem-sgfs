@@ -1,0 +1,5 @@
+(;GE[best move]DI[5k]DP[35]SO[ccsco]CO[0]AB[lc]AB[ld]AB[kc]AB[jc]AB[jb]AB[id]AB[ke]AB[kf]AB[kg]AW[jd]AW[kd]AW[je]AW[ic]AW[ib]AW[ja]AW[kb]AW[lb]AW[gc]AB[ec]AB[cd]AB[ef]AB[eh]AB[dh]AB[ei]AW[di]AB[dj]AB[cj]AB[bj]AB[bk]AB[bl]AB[cl]AW[ck]AW[dk]AW[dl]AW[ej]AW[fj]AB[dm]AW[fl]AW[hk]AW[jk]AW[ki]AB[ii]AW[lh]AW[lg]AW[lf]AW[le]C[Please capture the marked stones in a ladder.]TR[je]TR[jd]TR[kd]AP[goproblems];B[ie];W[jf];B[jg];W[if];B[hf];W[ig];B[ih];W[hg];B[gg];W[hh];B[hi];W[gh]
+(;B[fh];W[gi];B[gj];W[fi];B[fk];W[ek];B[el]C[Correct :-)RIGHT])
+(;B[gi];W[fh]
+(;B[fi];W[fg]C[Black can no longer capture white (and white will attack the marked stones). :-(]TR[jg]TR[kg]TR[kf]TR[ke]TR[gg]TR[hf]TR[ie]TR[id])
+(;B[fg];W[fi];B[ek];W[el];B[gj];W[fk])))

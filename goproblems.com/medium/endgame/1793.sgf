@@ -1,0 +1,38 @@
+(;GE[endgame]DI[4k]DP[28]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[2.00]TM[]
+AW[fb][gb][ec][ed][de][ee][he][df][eg][fg][gg][gh]AB[fa][db][eb][dc][dd][ce][cf][gf][cg][dg][dh][eh][fh]LB[dh:A]C[Black just played at A. Can white win after this?]PL[W]
+(;W[fi]CR[fi]
+;B[ga]CR[ga]
+(;W[ha]CR[ha]
+;B[ea]CR[ea]
+(;W[hb]CR[hb]
+;B[ei]CR[ei]
+;W[gi]CR[gi]C[White wins by one point! RIGHT])
+(;W[hc]CR[hc]
+;B[ei]CR[ei]
+;W[gi]CR[gi]C[White wins by one point! RIGHT])
+(;W[ib]CR[ib]
+;B[ei]CR[ei]
+;W[gi]CR[gi]C[White wins by one point! RIGHT]))
+(;W[hb]CR[hb]
+;B[ha]CR[ha])
+(;W[ei]CR[ei]
+;B[hb]CR[hb]))
+(;W[ga]CR[ga]
+;B[gi]CR[gi]
+(;W[hi]CR[hi]
+;B[fi]CR[fi]
+(;W[hh]CR[hh]
+;B[ea]CR[ea]C[Jigo! This is not whites best, but the game ended this way...])
+(;W[ih]CR[ih]
+;B[ea]CR[ea]C[Jigo! This is the game])
+(;W[hg]CR[hg]
+;B[ea]CR[ea]C[Jigo! This is the game]))
+(;W[ea]CR[ea]
+;B[hh]CR[hh]
+;W[da]CR[da]
+;B[ca]LB[hg:A]CR[ca]C[ B A is good, too.]
+;W[fa]CR[fa]
+;B[cb]CR[cb]
+;W[hg]CR[hg]
+;B[hi]CR[hi]C[Black wins by one point!])))

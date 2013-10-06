@@ -1,0 +1,29 @@
+(;GE[life and death]DI[6k]DP[37]SO[thornhead]CO[0]AB[pb]AB[pc]AW[ob]AW[oc]AW[od]AW[pd]AW[pe]AB[qd]AB[qe]AB[pf]AW[ne]AW[nf]AB[nd]AB[md]AB[mc]AB[me]AW[ld]AB[kd]AB[ke]AW[jc]AW[id]AW[hc]AW[je]AB[ie]AB[kg]AW[kh]AW[ig]AW[hh]AW[gg]AB[ge]AB[gf]AB[gd]AB[gc]AB[fc]AB[fb]AB[ff]AB[gh]AB[fh]AB[eg]AW[fe]AW[fd]AW[ee]AW[de]AW[dd]AW[dc]AW[ec]AW[cd]AW[be]AW[df]AW[cg]AW[bg]AB[dg]AB[ch]AB[bh]AB[cf]AB[ce]LB[ie:1]C[Black just played one. White to connect her marked stone]TR[id]TR[jc]TR[hc]AP[goproblems]
+(;W[he];B[if]
+(;W[hf];B[jf]
+(;W[jg];B[jd];W[hd]C[Yes, now both groups  can escape to the center.RIGHT])
+(;W[hd]C[Yes, now both groups  can escape to the center.RIGHT]))
+(;W[jf];B[hf];W[jd];B[jg];W[kf];B[lg];W[lf];B[mf]
+(;W[le];B[ng]C[now this group is dead, white can do better])
+(;W[mg];B[ng];W[mh];B[ih])))
+(;W[jf];B[if]
+(;W[jg];B[jd]C[])
+(;W[jd];B[jg];W[kf];B[lg];W[lf];B[mf]
+(;W[le];B[ng]TR[nf]TR[ne]TR[pe]TR[pd]TR[od]TR[oc]TR[ob]C[now this group is dead, white can do better])
+(;W[mg];B[ng];W[mh];B[og];W[jh];B[oe]TR[ne]TR[nf]TR[pe]TR[od]TR[oc]TR[ob]TR[pd]C[now this group is dead white can do betterCHOICE])))
+(;W[jd];B[if];W[jf])
+(;W[if];B[he]
+(;W[jf];B[jd]C[])
+(;W[jd];B[jf]C[]))
+(;W[hd];B[he]
+(;W[jd];B[jf]C[])
+(;W[jf];B[jd]C[]))
+(;W[hf];B[he]
+(;W[jd];B[jf]C[])
+(;W[jf];B[jd]C[]))
+(;W[jg];B[if]
+(;W[jd];B[jf]C[])
+(;W[jf]))
+(;W[kf];B[jf];W[lf];B[jd]
+(;W[le];B[lc];W[kc];B[je];W[lb];B[mb];W[kb];B[mf];W[lg];B[mg];W[lh];B[ng]C[white can do better])
+(;W[kc];B[je];W[le];B[lc])))

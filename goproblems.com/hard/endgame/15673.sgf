@@ -1,0 +1,13 @@
+(;GE[endgame]DI[4d]DP[8]SO[thanush]CO[0]AB[qb]AB[qc]AB[pc]AB[od]AB[nd]AB[md]AB[ld]AB[lc]AW[lb]AW[mc]AW[oc]AW[nc]AW[pb]AW[ob]AW[kc]AW[jc]AB[qf]C[Best way to reduce W]AP[goproblems]
+(;B[qa]C[Please play at the marked area]MA[pp];W[pp]C[W tenuki, now what does b do?]
+(;B[mb];W[ma];B[oa];W[nb];B[pa];W[kb]C[RIGHT])
+(;B[oa];W[pa];B[mb];W[na];B[kb];W[la]))
+(;B[pa];W[oa];B[qa]C[Gote and with no followup])
+(;B[oa];W[pa];B[qa]MA[pp]C[Please play at marked area];W[pp];B[mb];W[na]
+(;B[kb];W[la])
+(;B[la];W[kb]))
+(;B[mb];W[ma]
+(;B[pa];W[oa];B[qa])
+(;B[oa];W[pa];B[qa];W[nb])
+(;B[qa];W[pa]C[]))
+(;B[na];W[ma];B[qa]))

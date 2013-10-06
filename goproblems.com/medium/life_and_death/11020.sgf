@@ -1,0 +1,50 @@
+(;GE[life and death]DI[4k]DP[28]SO[lok]CO[0]AB[qr]AB[qq]AB[pq]AB[oq]AB[lp]AB[lq]AB[lr]AB[ls]AB[nq]AW[ks]AW[kr]AW[kq]AW[kp]AW[ko]AW[lo]AW[mo]AW[op]AW[no]AW[pp]AW[qp]AW[rq]AW[rr]AW[ro]AW[os]C[White to kill.]AP[goproblems]
+(;W[mr]
+(;B[ns]C[CHOICE]
+(;W[mq];B[mp];W[np]C[Well done!RIGHT])
+(;W[qs];B[ps];W[pr];B[or]
+(;W[rs];B[ps];W[mq];B[mp];W[np];B[ms])
+(;W[ps];B[rs];W[ps];B[qs];W[mq];B[mp];W[np];B[ms]))
+(;W[nr];B[mq];W[qs];B[ps];W[pr];B[or])
+(;W[ps];B[qs];W[mq];B[mp];W[np]C[RIGHT])
+(;W[or];B[nr]))
+(;B[mq]C[Other variation. Black still dead.];W[qs];B[ps];W[pr];B[ns];W[rs];B[or];W[ps]))
+(;W[qs];B[ps]
+(;W[pr];B[ns]
+(;W[rs];B[or];W[ps];B[mr])
+(;W[ps];B[or]
+(;W[rs])
+(;W[mr];B[rs];W[ps];B[qs];W[mq];B[mp];W[np];B[ms]))
+(;W[nr];B[or]
+(;W[ms];B[mr])
+(;W[mr];B[ps]))
+(;W[mr];B[or]
+(;W[ps];B[rs];W[ps];B[qs];W[mq];B[mp];W[np];B[ms])
+(;W[rs])
+(;W[nr])))
+(;W[mr];B[ns])
+(;W[mp];B[ns])
+(;W[nr];B[or];W[pr];B[ns]))
+(;W[ps];B[qs]C[Black eyespace is too big to do anything.])
+(;W[mp];B[mq];W[qs];B[ps]
+(;W[pr];B[ns];W[rs];B[or];W[ps];B[mr])
+(;W[rs];B[ns];W[pr])
+(;W[nr];B[or];W[pr];B[ns];W[ms];B[ps]C[Ko. White can do better.]))
+(;W[nr];B[or]C[]
+(;W[mp];B[ns]
+(;W[ps];B[mr];W[qs];B[mq])
+(;W[mr];B[mq])
+(;W[ms];B[mq]))
+(;W[qs];B[ps])
+(;W[mq];B[mr]
+(;W[mp];B[ns])
+(;W[ns];B[ps]))
+(;W[ps];B[qs])
+(;W[mr];B[ns]))
+(;W[or];B[nr];W[qs];B[ps];W[pr];B[ns])
+(;W[ns];B[qs]C[Black eyespace is too big to do anything.])
+(;W[mq];B[mr]
+(;W[mp];B[ns];W[qs];B[ps];W[pr];B[or])
+(;W[nr];B[mp]
+(;W[qs];B[ps];W[pr];B[or])
+(;W[np];B[or]))))

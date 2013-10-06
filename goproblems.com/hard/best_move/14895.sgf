@@ -1,0 +1,37 @@
+(;GE[best move]DI[6d]DP[3]SO[smartaleck]CO[0]SZ[3]AB[aa]AW[ca]C[can you win?]MA[bb]AB[bb]AP[goproblems]
+(;B[ac];W[cc]C[draw]MA[bb])
+(;B[cc];W[ac]C[draw]MA[bb])
+(;B[ab];W[bc]C[]MA[bb]
+(;B[ba]AW[bb];W[ac];B[aa];W[cb]C[w wins by 4])
+(;B[cc];W[cb]C[w wins by 2])
+(;B[cb]AW[bb];W[cc]AB[bb]
+(;B[cb]C[NOTTHIS])
+(;B[ac]AW[bb];W[ba]MA[bb])
+(;B[ba]AW[bb];W[ac]MA[bb])))
+(;B[ba]AW[bb];W[ab]C[FORCE]AB[bb]MA[bb]
+(;B[cb]AW[bb];W[cc]AW[bb]MA[bb])
+(;B[ba]AW[bb];W[aa]AB[bb]
+(;B[cb]AW[bb];W[cc])
+(;B[cc];W[ac]C[w wins by 4]AW[bb])
+(;B[ba]C[NOTTHIS]))
+(;B[cc];W[ba];B[bc]C[w wins by 2]))
+(;B[cb]AW[bb];W[cc]AB[bb]MA[bb]
+(;B[bc]AW[bb];W[ac]C[white wins by 4])
+(;B[ac]C[draw])
+(;B[ab];W[bc]C[w wins by 2])
+(;B[cb]C[this is a suicide move, - not allowedNOTTHIS]))
+(;B[bc]AW[bb]
+(;W[cc]C[CHOICE]MA[bb]AB[bb]
+(;B[cb]C[FORCE];W[ac]C[]MA[bb];B[ba]AW[bb];W[cc]C[white's whole board victory (black cannot take at b1 because of ko rule)]MA[bb])
+(;B[ab]AW[bb];W[ac]MA[bb])
+(;B[ac]AW[bb];W[ab]AB[bb]MA[bb]
+(;B[ac]C[draw])
+(;B[bc]AW[bb];W[ac]AB[bb]MA[bb];B[bc]AW[bb];W[ac]C[white wins by 4]))
+(;B[ba]AW[bb];W[ab]MA[bb]AB[bb]
+(;B[cb]AW[bb];W[ac]AB[bb]MA[bb]
+(;B[ba]AW[bb];W[cc]C[white's whole board victory.])
+(;B[aa])
+(;B[cc]C[NOTTHIS]))
+(;B[aa]AW[bb])
+(;B[ba]AW[bb];W[ac]MA[bb];B[cb]C[black's whole board victoryRIGHT]MA[bb]AB[bb])))
+(;W[cb];B[ab]C[b wins by 2RIGHT])))

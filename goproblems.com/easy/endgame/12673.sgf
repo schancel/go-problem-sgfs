@@ -1,0 +1,11 @@
+(;GE[endgame]DI[8k]DP[45]SO[stro]CO[0]SZ[9]AB[ac]AB[bc]AW[bb]AW[cc]AW[db]AB[cd]AB[be]AB[ce]AW[gg]AW[fg]AW[eg]AW[df]AW[cf]AW[bf]AB[hg]AB[gf]AB[ff]AB[ef]AB[ee]AB[de]AB[hf]AB[fb]AW[dd]AW[ea]AB[fa]AB[gc]AW[ed]AW[ec]AW[eb]AB[fc]AB[fd]AB[hh]AB[hi]AW[gh]AW[gi]AW[dh]C[9x9 game, no prisoners, komi is 0.5 - in which direction does white defend?]AP[goproblems]
+(;W[ae];B[ab]
+(;W[ba];B[ad];W[af];B[bd]C[19 points each + komi = a white victory of 0.5RIGHT])
+(;W[ca]C[NOTTHIS]))
+(;W[ab];B[af];W[ag];B[ae]
+(;W[bg]TR[ad]TR[bd]C[The two extra points secures a black victory of 1.5])
+(;W[bh]C[The two extra points secures a black victory of 1.5]))
+(;W[af];B[ab]C[CHOICE]
+(;W[ba];B[ae]TR[ad]TR[bd]C[The two extra points secures a black victory of 1.5])
+(;W[ae];B[ba]C[Ko is the best white can do. A ko in which black takes first. On a board with no ko threats.])
+(;W[ad]C[];B[ba]C[Ko is the best white can do. A ko in which black takes first. On a board with no ko threats.])))

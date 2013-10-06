@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[7k]DP[43]SO[whendrik]CO[0]AB[cq]AB[dp]AB[do]AB[dn]AB[gp]AB[hp]AB[jp]AW[eo]AW[go]AW[fq]AW[dq]AW[dr]C[The white stones all seem to be connected, facing the center, but there is a tesuji for black. Black to find the weak spot in white's shape!]AP[goproblems]
+(;B[fo]
+(;W[ep]C[CHOICE]
+(;B[en]C[Well done! White is completely covered now.RIGHT])
+(;B[fp];W[en]C[White got a strong shape, and is not sealed off from the center.])
+(;B[fn];W[en];B[em]C[Since black has many cutting points, this could lead to complications (maybe later in the game).Therefor, this is it not the best way to seal off white, since black is weak on the outside.]TR[cp]TR[dm]TR[fm]))
+(;W[fn];B[fp]
+(;W[en];B[ep]C[Well done!RIGHT])
+(;W[ep];B[en]C[Well done!RIGHT]))
+(;W[fp];B[fn];W[ep];B[en]C[RIGHT]))
+(;B[fp]C[];W[ep]LB[en:A]LB[fo:B]C[White is not sealed off from the center, since A and B are miai.])
+(;B[ep];W[fp]C[White got a strong shape, and is not sealed off from the center.])
+(;B[en];W[fo]C[White got a strong shape, and is not sealed off from the center.])
+(;B[fn];W[fo]C[White got a strong shape, and is not sealed off from the center.])
+(;B[gn];W[fo]C[White got a strong shape, and is not sealed off from the center.])
+(;B[eq];W[ep]C[White got a strong shape, and is not sealed off from the center.])
+(;B[gq];W[fo]C[White got a strong shape, and is not sealed off from the center.])
+(;B[fr];W[fp]C[White got a strong shape, and is not sealed off from the center.])
+(;B[er];W[eq]C[White got a strong shape, and is not sealed off from the center.])
+(;B[ho];W[fo]C[White got a strong shape, and cannot be sealed off from the center.])
+(;B[ki]))

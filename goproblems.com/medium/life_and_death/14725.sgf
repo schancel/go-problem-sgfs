@@ -1,0 +1,32 @@
+(;GE[life and death]DI[1k]DP[19]SO[tkazf]CO[0]AB[bp]AB[cp]AB[dp]AB[ep]AB[eq]AB[dr]AB[ds]AB[es]AB[fs]AB[gs]AW[co]AW[bo]AW[do]AW[eo]AW[fp]AW[fq]AW[fr]AW[er]AW[gr]AW[hs]AW[hq]AW[fo]AB[ao]AW[cq]AW[cs]AW[bl]AP[goproblems]
+(;B[cr];W[br]
+(;B[dq];W[bq]
+(;B[ap];W[an];B[bs];W[ar]C[Seki])
+(;B[bs];W[ar]
+(;B[aq];W[ap]C[ko])
+(;B[ap];W[an]C[Seki])))
+(;B[bs];W[bq]
+(;B[ar];W[aq];B[ap];W[as])
+(;B[dq];W[ar])))
+(;B[bq];W[br]
+(;B[dq];W[ap]
+(;B[ar]C[RIGHT])
+(;B[aq];W[cr];B[ar];W[bs]C[Black are dead.])
+(;B[as];W[cr];B[aq];W[bs]C[Black are dead.])
+(;B[bs];W[as];B[cr]C[RIGHT])
+(;B[cr]C[RIGHT]))
+(;B[ar];W[as]C[You must live without ko at B1.]
+(;B[bs]C[NOTTHIS])
+(;B[dq];W[aq]C[]
+(;B[cr];W[an]C[ko])
+(;B[ap];W[an]C[ko]))
+(;B[ap];W[cr];B[dq];W[aq]C[ko])
+(;B[aq];W[cr]
+(;B[bs];W[dq]C[Black are dead.])
+(;B[dq];W[ap]C[Black are dead.])))
+(;B[bs];W[cr];B[dq];W[ar]C[Black are dead.]))
+(;B[br];W[cr];B[dq];W[bq];B[ap];W[an]C[Black are dead.])
+(;B[dq];W[bq]
+(;B[cr];W[br])
+(;B[br];W[cr])
+(;B[ap];W[cr]C[Black are dead.])))

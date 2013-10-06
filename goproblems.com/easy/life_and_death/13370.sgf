@@ -1,0 +1,19 @@
+(;GE[life and death]DI[10k]DP[51]SO[thavdog]CO[0]AW[qr]AW[qq]AW[rp]AW[ro]AW[pp]AW[po]AW[oo]AW[mp]AW[np]AB[qp]AB[qo]AB[qn]AB[pn]AB[pm]AB[pq]AB[oq]AB[op]AB[nq]AB[mq]AB[lq]AW[ko]AW[kn]AW[lm]AW[ml]AW[nk]AW[ok]AW[pk]AW[qk]C[Black to capture the marked four white stones.]AW[on]TR[on]TR[oo]TR[po]TR[pp]AB[no]AP[goproblems]
+(;B[nm];W[nn];B[mn];W[mo];B[om];W[no];B[lo];W[lp];B[kp]C[RIGHT])
+(;B[om];W[nn]
+(;B[nm];W[mn])
+(;B[mn];W[nm])
+(;B[mo];W[lp]
+(;B[mn];W[nm])
+(;B[nm];W[mn])))
+(;B[nn];W[om]
+(;B[nm];W[ol])
+(;B[ol];W[nm]))
+(;B[mo];W[nm])
+(;B[mn];W[nm])
+(;B[mm];W[mn]
+(;B[nn];W[om];B[ol];W[nm])
+(;B[om];W[nn])
+(;B[nm];W[nn])
+(;B[mo];W[nn]))
+(;B[nl];W[nm]))

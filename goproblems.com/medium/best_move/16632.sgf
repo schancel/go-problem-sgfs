@@ -1,0 +1,63 @@
+(;GE[best move]DI[2k]DP[23]SO[morten]CO[0]AW[pp]AW[qn]AW[pq]AW[qr]AW[pr]AW[rm]AW[qm]AW[qo]AW[nq]AW[lp]AB[qq]AB[qp]AB[rr]AB[rn]AB[ro]AB[rs]C[Black to respond to the white triangled stone]AB[nn]AB[mo]AW[mq]AW[kp]AB[kn]LB[qq:1]LB[pq:2]LB[qp:3]LB[qr:4]LB[rr:5]LB[pr:6]LB[rn:7]LB[rm:8]LB[ro:9]LB[qm:10]LB[rs:11]TR[qo]AB[rj]AB[pi]AB[qj]AB[nl]AB[ko]AB[oi]
+(;B[po]C[]
+(;W[sq]C[The cut would be reasonable if black were unconditionally alive... but is he?]
+(;B[sr];W[sn]
+(;B[sp]
+(;W[rp]C[CHOICE];B[rq]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;W[rq]C[CHOICE];B[rp]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;W[sm]C[CHOICE]
+(;B[rp]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;B[rq]C[Yes, black is alive so the cut is reasonable.RIGHT])))
+(;B[so];W[rp]C[Oops])
+(;B[rp];W[so]
+(;B[sp];W[rq]C[Oops])
+(;B[rq];W[sm];B[sp]C[Yes, black is alive so the cut is reasonable.RIGHT]))
+(;B[rq];W[so]
+(;B[rp])
+(;B[sp]C[Yes, black is alive so the cut is reasonable.RIGHT])))
+(;B[sp];W[rq];B[rp];W[sn];B[sr]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;B[rq];W[sr]
+(;B[sp];W[sn]C[];B[ss]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;B[sn];W[sp];B[rp]C[Seki. Black can do better])
+(;B[so];W[sp]C[Oops])
+(;B[rp];W[sp];B[sn]))
+(;B[rp];W[sr]
+(;B[sp];W[sn]C[Oops])
+(;B[sn];W[sp];B[rq]))
+(;B[sn];W[rq];B[rp]
+(;W[sr]C[CHOICE];B[sp]C[Yes, black is alive so the cut is reasonable.RIGHT])
+(;W[sp]C[CHOICE];B[sr]C[Yes, black is alive so the cut is reasonable.RIGHT]))
+(;B[so];W[rq];B[rp];W[sr]C[Oops])
+(;B[ss];W[rq];B[rp]C[The old 1-1 point tesuji fails again. White has several ways to kill but will tenuki as black died in gote...])))
+(;B[sq];W[sn]
+(;B[so];W[rp]C[Oops])
+(;B[sp];W[rp];B[rq];W[sm];B[so]C[Yes, black is alive. But Black can do better.])
+(;B[rp]C[Yes, black is alive. But Black can do better.]))
+(;B[sr];W[sp]
+(;B[so];W[rp]C[Oops])
+(;B[rp];W[sn]
+(;B[so];W[rq]C[Oops])
+(;B[rq];W[so];B[sq];W[sm]C[Oops])
+(;B[sq];W[sm];B[so]C[Yes, black is alive. But Black can do better.]))
+(;B[sn];W[rp];B[rq];W[sm]C[Oops])
+(;B[rq];W[sn]
+(;B[so];W[rp]C[Oops])
+(;B[rp]))
+(;B[sq];W[so];B[rp];W[sm];B[sn]C[Yes, black is alive. But Black can do better.]))
+(;B[sp];W[rq];B[rp];W[sq];B[sr]C[Yes, black is alive. But Black can do better.])
+(;B[rp]C[Yes, black is alive. But Black can do better.])
+(;B[rq]C[Yes, black is alive. But Black can do better.])
+(;B[so];W[sq]
+(;B[sr];W[rq];B[rp]C[Yes, black is alive. But Black can do better.])
+(;B[rq];W[sr];B[sp]C[Yes, black is alive. But Black can do better.])
+(;B[rp];W[sr]C[Oops])
+(;B[sp];W[rq]C[Oops]))
+(;B[sn];W[rq];B[rp];W[sq]
+(;B[sp]C[Yes, black is alive. But Black can do better.])
+(;B[sr]C[Yes, black is alive. But Black can do better.]))
+(;B[ss];W[rq];B[rp];W[sq]
+(;B[sp];W[sn]C[Hah! Playing on the 1-1 point is never a good idea!])
+(;B[sr];W[qs];B[sp];W[rr]C[You're having a laugh!]))
+(;B[sm];W[sl]
+(;B[sn];W[rp]C[Oops])
+(;B[rl];W[sn];B[so];W[rp]C[Oops])))

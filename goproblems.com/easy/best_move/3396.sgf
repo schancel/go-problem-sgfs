@@ -1,0 +1,15 @@
+(;GE[best move]DI[12k]DP[58]SO[unkx80]CO[8]AB[cd]AB[fc]AB[ec]AB[ed]AB[ee]AW[ef]AW[fe]AW[fd]AW[gc]AW[hb]AW[ic]AW[id]AW[ie]AW[if]AB[hc]AB[hd]AB[he]AB[hf]AB[ff]AB[fg]AB[gh]AW[df]AW[ce]AB[bd]AW[dh]AW[gf]AW[ig]TR[fc]C[White to play.]AB[fh]AW[eh]AP[goproblems]
+(;W[hg]
+(;B[gb]
+(;W[ge]C[CHOICERIGHT])
+(;W[gg];B[gd];W[ge];B[gc])
+(;W[gd];B[ge]))
+(;B[gg]
+(;W[gd]C[CHOICERIGHT])
+(;W[gb];B[ge];W[gd];B[gf])
+(;W[ge];B[gd])))
+(;W[gb];B[gd])
+(;W[gg];B[ge])
+(;W[ge];B[gg])
+(;W[gd];B[gb])
+(;W[fb];B[gd]))

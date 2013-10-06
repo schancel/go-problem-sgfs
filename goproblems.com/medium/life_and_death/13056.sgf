@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[28]SO[lok]CO[0]SZ[19]AW[fo]AW[go]AW[ep]AW[gp]AW[cq]AW[eq]AW[gq]AW[cr]AW[er]AW[gr]AW[kr]AB[en]AB[fn]AB[gn]AB[hn]AB[eo]AB[io]AB[cp]AB[dp]AB[hp]AB[bq]AB[hq]AB[iq]AB[br]AB[hr]AB[es]C[Black to kill]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[fs];W[ds]C[CHOICE]
+(;B[dq];W[hs]
+(;B[is];W[gs];B[dr];W[fr];B[es]C[Well done!RIGHT])
+(;B[gs];W[fr]))
+(;B[gs])
+(;B[hs];W[dq]))
+(;B[ds];W[fs]
+(;B[cs];W[fq])
+(;B[fq];W[cs]))
+(;B[dq];W[fs];B[dr];W[fq])
+(;B[gs];W[ds]
+(;B[fs];W[fr]
+(;B[dq];W[hs]
+(;B[gs];W[is]
+(;B[fs];W[jr]C[White is out.])
+(;B[js];W[fs]TR[dr]TR[jr]C[Miai to live or connect.]))
+(;B[is];W[gs]))
+(;B[hs];W[dq]))
+(;B[dq];W[fs];B[dr];W[fq]))
+(;B[cs];W[fs]
+(;B[ds];W[fq])
+(;B[fq];W[ds];B[dq];W[dr]))
+(;B[fq];W[fs];B[cs]))

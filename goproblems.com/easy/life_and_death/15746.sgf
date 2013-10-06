@@ -1,0 +1,26 @@
+(;GE[life and death]DI[4k]DP[30]SO[MrMoto]CO[0]AW[hr]AW[hq]AW[jr]AW[jq]AW[kp]AW[ko]AW[jn]AW[io]AW[hn]AB[ks]AB[kr]AB[kq]AB[lp]AB[lo]AB[ln]AB[kn]AB[gs]AB[gr]AB[gq]AB[gp]AB[go]AB[gn]AB[hm]AB[il]AB[jm]AB[kl]AB[gk]AB[gm]AW[ip]AB[lq]AP[goproblems]
+(;B[jo];W[jp]
+(;B[in];W[im]
+(;B[ir];W[js]
+(;B[in]LB[hs:A]LB[hp:B]C[Good work. Black has two more local threats, at A and B.RIGHT])
+(;B[hs];W[is]C[You wasted a ko threat.])
+(;B[hp]C[You wasted a ko threat.])
+(;B[ho];W[in]))
+(;B[hs];W[ir]C[You made it too easy for White to make an eye; now she just needs 1 more ko threat.])
+(;B[js];W[ir]C[You made it too easy for White to make an eye; now she just needs 1 more ko threat.])
+(;B[is];W[ir]C[J1 is very bad! It creates a local threat for White at A.]LB[js:A])
+(;B[hp];W[ir]C[H4 is very bad! It creates a local threat for White at A.]LB[js:A]))
+(;B[ir];W[is]C[You should create a ko fight instead.]TR[in])
+(;B[hs];W[ir]C[You should create a ko fight instead.]TR[in])
+(;B[js];W[ir]C[You should create a ko fight instead.]TR[in])
+(;B[is];W[ir]C[You should create a ko fight instead. Also, J1 is very bad since it gives White a local threat at A.]TR[in]LB[js:A])
+(;B[hp];W[ir]C[You should create a ko fight instead. Also, H4 is very bad since it gives White a local threat at A.]LB[js:A]))
+(;B[in];W[jo]C[Ko is the right idea, but you should jump in at K5 first.])
+(;B[ho];W[in])
+(;B[jp];W[jo])
+(;B[hp];W[ir]C[You should create a ko fight instead. Also, H4 is very bad since it gives White a local threat at A.]LB[js:A])
+(;B[ir];W[is]C[You should create a ko fight instead.])
+(;B[hs];W[ir]C[You should create a ko fight instead.])
+(;B[js];W[ir]C[You should create a ko fight instead.])
+(;B[is];W[ir]C[You should create a ko fight instead. Also, J1 is very bad since it gives White a local threat at A.]LB[js:A])
+(;B[iq];W[jo]))

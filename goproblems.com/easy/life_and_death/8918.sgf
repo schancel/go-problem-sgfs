@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[54]SO[jocund]CO[6]AB[dc]AB[ec]AB[ed]AB[fd]AB[gc]AB[fb]AW[gb]AW[hb]AW[hc]AW[ic]AW[hd]AW[gd]AW[fe]AW[ee]AW[de]AW[ce]AW[bd]AW[ad]AB[cc]AB[bc]AB[ac]AB[bb]AB[ba]AB[id]AB[jd]AB[kd]AW[ie]AW[if]AW[ig]AB[jc]AB[jb]AB[ib]AB[mb]AB[mc]AB[lc]AW[nb]AW[oc]AW[pd]AW[pe]AW[pf]AW[qc]AW[qb]AW[rb]AB[sb]AB[rc]AB[qd]AB[sd]AB[qe]AB[qf]AW[me]AW[le]AB[kf]AW[kg]AW[lg]AW[ka]C[In a similar game, white played at L19 to kill the group.  Prove him wrong.]MA[ka]AP[goproblems]
+(;B[kb];W[ma]
+(;B[la];W[lb]C[Ko? Oh no!];B[ja]C[Very good, whether or not white connects you now have eyes.  Sometimes a sacrifice is necessary for life. White can't make a ko here, but he thought he could in the game. L18 would have killed the group, L19 is wrong.RIGHT])
+(;B[ja];W[la]C[Now how will you get eyes?])
+(;B[lb];W[la]C[Now how will you get eyes?]))
+(;B[ma];W[kb]C[Now how will you get eyes?])
+(;B[lb];W[kb]C[Now how will you get eyes?])
+(;B[la];W[kb]C[How will you get eyes now?])
+(;B[ja];W[kb]C[How will you get eyes now?])
+(;B[ia];W[kb]C[How will you get eyes now?])
+(;B[kc];W[ma]
+(;B[la];W[lb];B[kb];W[la];B[ja];W[na]C[Ouch.])
+(;B[lb];W[la]))
+(;B[ha]
+(;W[ga];B[kb];W[ma];B[la];W[lb];B[ja];W[na];B[la]C[Ok, this works, but I don't think the move at h19 is necessary and hurts you on the top left.RIGHT])
+(;W[ma];B[ga];W[la]C[Something like this can save the group too, but I think there is a simpler better way.RIGHT])))

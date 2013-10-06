@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[45]SO[sylverone]CO[7]AB[ao]AB[an]AB[bn]AB[bm]AB[cm]AB[dm]AB[dn]AB[en]AB[eo]AB[fn]AB[cs]AB[br]AW[do]AW[co]AW[bo]AW[cn]AW[ap]AW[bp]AW[cp]AB[dp]AW[ep]AW[fp]AW[fo]AW[eq]AW[er]AB[dq]C[Black just escaped at D3. Can white live?  Requires reading.]LB[gr:NO]TR[dq]MA[cp]MA[bp]MA[ap]MA[bo]MA[co]MA[do]MA[cn]AP[goproblems]
+(;W[cq];B[dr];W[cr];B[ds]
+(;W[bs];B[as]C[];W[es];B[bs];W[aq]C[Good playing! Both live in seki! This is the only way both groups will be happy.RIGHT])
+(;W[ar];B[bq]LB[aq:1]LB[bs:2]LB[es:3]C[Black has 3 liberties while white has only one. No good.])
+(;W[es];B[bs]C[survival is now impossible; black has three liberties while white has two.])
+(;W[as];B[bs]C[Black has more liberties! White loses.]))
+(;W[gr]C[Sorry! try reading further. There is an outcome good for both sides.FORCE])
+(;W[cr];B[cq]
+(;W[bq];B[aq]C[No, Sorry! try agin.])
+(;W[dr];B[bq]C[Nope! Now white is dead.]TR[ap]TR[bp]TR[cp]TR[co]TR[bo]TR[cn]TR[do])))

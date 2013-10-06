@@ -1,0 +1,13 @@
+(;GE[life and death]DI[15k]DP[64]SO[Bleedo]CO[5]AB[dp]AB[dq]AB[dr]AB[ds]AB[er]AW[fr]AW[fq]AW[eq]AW[ep]AW[cs]AW[cr]AW[co]AW[eo]AW[bp]AB[gr]AB[gq]AB[gp]AW[bq]AW[br]TR[ds]TR[dr]TR[er]TR[dq]TR[dp]C[Save us!]AW[gs]AB[hr]AP[goproblems]
+(;B[fs];W[es]C[Yup, ko is the only way. Now play the ko threat at ARIGHT]LB[ip:A];B[ip];W[iq]LB[fs:A]C[Capture];B[fs];W[do]C[What now?];B[hs];W[cp]
+(;B[gs];W[cq];B[es]C[Good!RIGHT])
+(;B[es];W[cq];B[gs]C[Good but playing G1 first gives less of a ko threat for whiteRIGHT]))
+(;B[do];W[dn]
+(;B[cp];W[bn])
+(;B[cq];W[fs])
+(;B[fs];W[es]C[Play ko threat at A]LB[io:A];B[io];W[ip];B[fs];W[cp]C[What now?];B[hs];W[cq]
+(;B[es];W[gs])
+(;B[gs];W[es]))
+(;B[en];W[fn]
+(;B[em];W[fo])
+(;B[fo];W[em]))))

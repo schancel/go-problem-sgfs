@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[4k]DP[30]SO[tristesse]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ob][pb][qc][rc][rd][qf][qg][rh][ri][rj]AB[pc][pd][qd][pe][pf][pg][qh][qi][qj][qk][rk]C[Well-known tesuji with a slight twist. (From the introduction of Tesuji by James Davies.)]
+;B[re]CR[re]
+;W[sf]CR[sf]
+(;B[se]CR[se]
+;W[rf]CR[rf]
+(;B[sg]CR[sg]C[RIGHT])
+(;B[qe]CR[qe]
+;W[sg]CR[sg]C[But white lives!]))
+(;B[qe]CR[qe]
+;W[se]CR[se])
+(;B[rf]CR[rf]
+;W[rg]CR[rg]
+(;B[qe]CR[qe]
+;W[se]CR[se])
+(;B[se]CR[se]
+;W[qe]CR[qe])))

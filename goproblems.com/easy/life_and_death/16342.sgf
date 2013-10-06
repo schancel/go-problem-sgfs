@@ -1,0 +1,47 @@
+(;GE[life and death]DI[4k]DP[29]SO[wurfmaul]CO[0]AB[bs]AB[br]AB[cr]AB[cq]AB[dq]AB[fq]AB[eq]AB[gq]AB[gr]AB[gs]AB[hs]AB[is]AB[jr]AW[ar]AW[bq]AW[bp]AW[cp]AB[dp]AW[do]AW[ep]AW[eo]AB[fn]AB[fo]AB[fp]AB[en]AW[dn]AW[bo]AW[cn]AW[em]AW[fm]AW[gm]AW[gn]AW[go]AW[gp]AW[hp]AW[hq]AW[hr]AW[iq]AW[jq]AW[kq]AW[kr]AW[ks]AW[ds]AW[dr]AW[er]C[What is the status of the black group, as it stands? U = unsettled, black should play now; L = life without seki; S = seki; D = dead; K = koFORCE]LB[bk:U]LB[ck:L]LB[dk:S]LB[ek:D]LB[fk:K]AP[goproblems]
+(;B[ek]AB[br];W[ej]AW[bs]AB[ar]AW[br]AB[bq]AW[cr]AB[ds]AB[dr]AB[er]AW[cq]AW[dq]AW[eq]AW[fq]AB[cp]AW[dp]AB[ep]AB[do]AB[eo]AW[en]AB[dn]AB[em]AW[fn]AB[fm]AW[fo]AB[gm]AW[fp]AB[gn]AB[go]AB[gp]AW[gq]AB[hp]AW[gr]AW[gs]AB[hq]AB[hr]AW[hs]AW[is]AB[iq]AW[jr]AB[jq]AB[kq]AB[kr]AB[ks]AB[bp]AB[bo]AB[cn]C[The (now white group) is actually dead, but the owner of the group says it is seki. Please prove that the group is dead. You can assume area scoring (like in the chinese ruleset), so that further plays don't cost you points.]
+(;B[fs]C[];W[fj]C[The owner of the group still says it is seki. How to continue?]
+(;B[aq]C[Right. After the outside liberties are taken, you can kill with F2. Actually, I was the owner of the group, and thought it was seki.RIGHT])
+(;B[ir]C[Right. After the outside liberties are taken, you can kill with F2. Actually, I was the owner of the group, and thought it was seki.RIGHT])
+(;B[js]C[Right. After the outside liberties are taken, you can kill with F2. Actually, I was the owner of the group, and thought it was seki.RIGHT])
+(;B[cs];W[gj]C[Now the group is alive without seki, you cannot make a killing shape (though you can capture K2, white has to sacrifice it).])
+(;B[es];W[gj]C[Now the group is alive in seki. You cannot 'almost fill' with a killing shape.])
+(;B[fr];W[gj]C[Now the group is alive without seki, you cannot make a killing shape (though you can capture K2, white has to sacrifice it).]))
+(;B[ir];W[js]AB[aq]AB[as]C[After the outside liberties are filled, what can you do?]
+(;B[fs]C[Right. The group is dead.RIGHT])
+(;B[cs]C[Right. The group is dead.RIGHT])
+(;B[fr]C[Right. The group is dead.RIGHT])
+(;B[es]C[Now the group is alive in seki. You cannot 'almost fill' with a killing shape.]))
+(;B[js];W[ir]AB[aq]AB[as]C[After the outside liberties are filled, what can you do?]
+(;B[fs]C[Right. The group is dead.RIGHT])
+(;B[fr]C[Right. The group is dead.RIGHT])
+(;B[cs]C[Right. The group is dead.RIGHT])
+(;B[es]C[Now the group is alive in seki. You cannot 'almost fill' with a killing shape.]))
+(;B[aq];W[js]AB[as]AB[ir]C[After the outside liberties are filled, what can you do?]
+(;B[fs]C[Right. The group is dead.RIGHT])
+(;B[cs]C[Right. The group is dead.RIGHT])
+(;B[fr]C[Right. The group is dead.RIGHT])
+(;B[es]C[Now the group is alive in seki. You cannot 'almost fill' with a killing shape.]))
+(;B[cs];W[es]C[Now the group is alive without seki, you cannot make a killing shape (though you can capture K2, white has to sacrifice it).])
+(;B[es]C[Now the group is alive in seki. You cannot 'almost fill' with a killing shape.])
+(;B[fr];W[es]C[Now the group is alive without seki, you cannot make a killing shape (though you can capture K2, white has to sacrifice it).]))
+(;B[bk]AB[bk];W[bj]C[Where do you want to play?]AB[bk]
+(;B[cs];W[es]C[Black is dead.])
+(;B[es];W[fs]C[If you want to tenuki now, play at T on H9.]LB[hk:T]AB[ck]AB[dk]AB[fk]
+(;B[cs];W[es]C[Black is dead.])
+(;B[fr];W[es]C[Black is dead.])
+(;B[hk];W[fr]AW[aq]AW[ir]AB[js]C[Black is dead. After the outside liberties are filled, white can play F2 to kill. However, under japanese rules, these plays cost white points, so white should explain black why the group is dead without playing within the game.]AW[as]))
+(;B[fs];W[es]C[Black is dead.])
+(;B[fr];W[es]C[Black is dead.]))
+(;B[ck];W[fs]AB[bk]AB[dk]AB[fk]AW[bj]LB[hk:T]C[If you want to tenuki now, play at T on H9.]
+(;B[cs])
+(;B[fr])
+(;B[hk]))
+(;B[dk];W[fs]AB[ck]AB[bk]AW[bj]C[If you want to tenuki now, play at T on H9.]LB[hk:T]AB[fk]
+(;B[cs])
+(;B[fr])
+(;B[hk]))
+(;B[fk];W[fs]AB[bk]AB[ck]AB[dk]AW[bj]C[If you want to tenuki now, play at T on H9.]LB[hk:T]
+(;B[cs])
+(;B[fr])
+(;B[hk])))

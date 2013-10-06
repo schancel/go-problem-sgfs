@@ -1,0 +1,18 @@
+(;GE[life and death]DI[2k]DP[22]SO[mountain root]CO[0]AW[jk]AW[jj]AB[jl]AB[jm]AB[jn]AB[jo]AB[kk]AB[kj]AB[ki]AB[kh]AB[jh]AB[jg]AB[ih]AB[ii]AB[ij]AB[ik]AB[li]AW[lj]AW[lk]AW[mk]AW[kl]AW[km]AW[il]AW[im]AW[hk]AW[hj]AB[hi]AW[gk]AW[gi]AW[fi]AW[hh]AW[hg]AW[ig]AW[kg]AW[lg]AW[lh]AW[mi]AW[ni]AW[jf]AW[je]AB[kf]AB[if]AB[he]AB[ln]AB[ll]AB[mm]AB[hl]AB[gm]AB[hn]AB[fl]AB[el]AB[gj]AB[fj]AB[ej]AB[mj]AB[nj]AB[oj]AB[nl]AB[ol]AB[mh]AB[gh]AB[fg]AB[ff]AB[ge]AB[me]AB[nf]AB[ng]AB[ph]AB[dh]AB[le]AB[jd]AB[id]AB[kd]AP[goproblems];B[ji];W[jk];B[jj];W[jk]
+(;B[jh]
+(;W[jg]
+(;B[ki]
+(;W[li];B[ii];W[hi];B[jj]C[CHOICERIGHT])
+(;W[ji];B[ii]C[RIGHT]))
+(;B[ii]
+(;W[hi];B[ki];W[li];B[jj]C[CHOICERIGHT])
+(;W[ji];B[ki]C[RIGHT])))
+(;W[ji];B[jg]
+(;W[kh];B[kk]C[RIGHT])
+(;W[ih];B[ik]C[RIGHT])
+(;W[kk];B[ik]C[RIGHT])
+(;W[ik];B[kk]C[RIGHT])))
+(;B[ki];W[ji];B[li];W[kh])
+(;B[ii];W[ji];B[hi];W[ih])
+(;B[ji];W[jh])
+(;B[jj];W[ji]))

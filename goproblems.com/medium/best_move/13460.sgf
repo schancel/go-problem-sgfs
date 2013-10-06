@@ -1,0 +1,166 @@
+(;GE[best move]DI[1d]DP[17]SO[BartTM]CO[0]AB[ac]AB[bc]AB[cc]AB[dc]AB[ec]AB[fb]AB[ea]AW[ad]AW[bd]AW[cd]AW[dd]AW[ed]AW[fc]AW[gb]AW[fa]AW[ga]AW[gd]MA[fa]C[Maybe you thought the corner was safe, even counting some points there. Then White played F19 and suddenly you're not so sure. How much can you salvage?]AP[goproblems]
+(;B[ba]
+(;W[eb]
+(;B[da]
+(;W[db]
+(;B[cb];W[ca]
+(;B[ab]C[Black has 2 points in gote while White has 4 points. Either side can get another point by playing D1. This is far worse than the solution. Thanks to MeleeNewb for fixing a problem that's just 5 minutes old...!])
+(;B[da];W[ab]))
+(;B[ab])
+(;B[ca])))
+(;B[ab];W[db]
+(;B[cb]C[Just 2 points in gote white White gained at least 3 points. Net result -1 point to Black or worse.])
+(;B[ca];W[cb])
+(;B[da];W[cb]))
+(;B[db]
+(;W[ab]
+(;B[bb];W[da];B[ca]C[Black lives with 4 points in gote, White still needs to defend to get up to 3 points. So the result is at least +1 point to Black.RIGHT])
+(;B[fb];W[bb]
+(;B[cb];W[eb]C[Ko. Black cannot play D19 (self-atari).])
+(;B[da];W[cb]C[Dead.])
+(;B[eb];W[cb]
+(;B[ca];W[da])
+(;B[aa];W[da])
+(;B[da];W[ca]))
+(;B[ca];W[eb]C[Ko])
+(;B[aa];W[ca]))
+(;B[da])
+(;B[cb];W[da])
+(;B[ca];W[bb];B[fb]C[Ko]))
+(;W[da];B[ca]C[At least +1 to Black.RIGHT]))
+(;B[cb];W[da];B[ab]C[Just 2 points in gote while White gained at least 3 points.])
+(;B[ca];W[db]
+(;B[cb];W[ab])
+(;B[ab])
+(;B[da];W[ab]))
+(;B[bb];W[db]))
+(;W[cb];B[db]C[Black gets at least 5 points more than White.RIGHT])
+(;W[db];B[eb]C[+8 points. White won't play this way.RIGHT])
+(;W[da];B[eb]C[+8 points to Black.RIGHT])
+(;W[ca];B[da]C[Black gets at least 5 points more than White.RIGHT])
+(;W[bb]
+(;B[da]
+(;W[eb]
+(;B[cb]C[+4 points to Black.RIGHT])
+(;B[db]))
+(;W[ab];B[cb];W[eb];B[aa];W[fb];B[db]C[+4 points to Black. Note that the whole sequence is forced.RIGHT]))
+(;B[cb];W[eb];B[da]C[+4 to BlackRIGHT]))
+(;W[ab];B[eb]C[+8 to BlackRIGHT]))
+(;B[eb];W[cb]
+(;B[ba];W[bb]
+(;B[ab];W[ca]C[10000 year ko. Whoever wants to win it needs 2 external threats, though White can make it seki by connecting the ko.])
+(;B[da];W[ca];B[ab];W[aa]C[Ko])
+(;B[ca];W[ab];B[da]C[Gote seki, just not good enough.]))
+(;B[bb];W[ba]
+(;B[da];W[ab]C[Ko. Black cannot play C19 or D18 (self-atari ).])
+(;B[ca];W[da]
+(;B[db];W[ab])
+(;B[aa];W[ab]C[Ko])
+(;B[ab]C[Black dies in gote. This is no seki: White can fill C19 and atari with D17. If Black captures White plays C19 again, so Black has just one eye.]))
+(;B[db])
+(;B[ab])
+(;B[aa];W[ca]C[10000 year ko. Whoever wants to win it needs 2 external threats, though White can make it seki by connecting the ko.]))
+(;B[ab];W[ca]
+(;B[ba];W[bb]C[10000 year ko. Whoever wants to win it needs 2 external threats, though White can make it seki by connecting the ko.])
+(;B[bb];W[ba];B[da]C[Gote seki, just not good enough.]))
+(;B[ca];W[ba]
+(;B[da];W[ab])
+(;B[bb];W[da])
+(;B[db]
+(;W[da]C[Ko])
+(;W[bb]))
+(;B[ab];W[da]))
+(;B[db];W[bb]
+(;B[ca];W[ab])
+(;B[ab];W[ca];B[ba];W[aa]C[Ko])
+(;B[ba];W[ab])
+(;B[aa];W[ab]))
+(;B[da];W[ba]
+(;B[ca];W[ab])
+(;B[bb];W[ab]C[Ko. Black cannot play C19 or D18 (self atari).])
+(;B[db];W[ab])
+(;B[ab])
+(;B[aa];W[bb]))
+(;B[aa];W[ba]
+(;B[da])
+(;B[ab];W[da])
+(;B[bb])))
+(;B[db];W[ca]
+(;B[da];W[bb]
+(;B[cb];W[ba])
+(;B[ab];W[ba])
+(;B[ba];W[aa]))
+(;B[bb];W[da]
+(;B[eb];W[ba]
+(;B[aa];W[ab]C[Ko])
+(;B[cb];W[ab]))
+(;B[ba];W[eb])
+(;B[cb];W[eb])
+(;B[aa];W[eb]))
+(;B[eb];W[bb])
+(;B[ba];W[bb]
+(;B[ab];W[aa]C[Ko])
+(;B[cb];W[aa])
+(;B[da])
+(;B[eb];W[aa])
+(;B[aa];W[ab]))
+(;B[cb];W[bb]
+(;B[da])
+(;B[ba])
+(;B[ab];W[ba])
+(;B[aa];W[ba])
+(;B[eb];W[ab]))
+(;B[ab];W[ba]))
+(;B[da];W[eb]
+(;B[cb];W[ba])
+(;B[bb];W[db])
+(;B[ba])
+(;B[ca];W[bb])
+(;B[db];W[bb]
+(;B[ba];W[ab])
+(;B[fb];W[ba])))
+(;B[cb];W[eb]
+(;B[ba])
+(;B[ab];W[ba])
+(;B[da])
+(;B[db];W[ba]
+(;B[fb];W[ca];B[aa];W[bb]C[Just one eye.])
+(;B[bb]
+(;W[da]
+(;B[ca];W[ab])
+(;B[aa];W[ab]))
+(;W[aa];B[fb];W[ca])))
+(;B[bb];W[da]))
+(;B[ca];W[eb]
+(;B[db];W[bb]
+(;B[fb]C[Ko])
+(;B[ba];W[ab])
+(;B[ab];W[ba]C[Ko]))
+(;B[bb];W[db]))
+(;B[bb])
+(;B[ab]
+(;W[eb]
+(;B[ba])
+(;B[cb])
+(;B[ca];W[db])
+(;B[da];W[ba])
+(;B[bb];W[db])
+(;B[db]
+(;W[ca]
+(;B[fb];W[ba])
+(;B[da];W[ba])
+(;B[ba]))
+(;W[ba]
+(;B[ca];W[bb]C[Ko])
+(;B[fb];W[ca]))))
+(;W[ba];B[eb];W[cb];B[da];W[bb];B[ca]C[Gote seki. Just not good enough.])
+(;W[da];B[eb];W[ba]))
+(;B[aa];W[eb]
+(;B[bb];W[ca])
+(;B[ca];W[bb])
+(;B[db];W[da]
+(;B[ca];W[bb])
+(;B[bb];W[ca]))
+(;B[cb];W[da])
+(;B[da];W[db])
+(;B[ba];W[db])))

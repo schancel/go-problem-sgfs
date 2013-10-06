@@ -1,0 +1,51 @@
+(;GE[life and death]DI[5d]DP[4]SO[MrMoto]CO[8]AW[ec]AW[fd]AW[gd]AW[hd]AW[hc]AB[eb]AB[fb]AB[gb]AB[gc]AB[ea]AB[ee]AB[fe]AW[dc]AW[db]AW[da]AB[cb]AB[cc]AB[cd]AB[dd]AB[df]AW[lc]AW[ld]AW[lb]AW[la]AW[mc]AW[nc]AW[nb]AW[na]AW[me]AW[ne]AW[nd]AB[ge]AB[he]AB[id]AB[ie]AB[jd]AB[kd]AB[le]AB[lf]AB[mf]C[Black to kill.  Good luck! :)]TR[da]TR[db]TR[dc]TR[ec]TR[fd]TR[gd]TR[hc]TR[hd]AP[goproblems]
+(;B[hb];W[ic]C[White will escape.])
+(;B[ic];W[hb])
+(;B[ia];W[ib]
+(;B[ha];W[jb])
+(;B[ja];W[jb])
+(;B[jb];W[hb];B[ha];W[ja];B[ka];W[jc];B[kc];W[kb];B[ic];W[ga];B[fa];W[fc]))
+(;B[ha];W[ib])
+(;B[ja];W[ib]
+(;B[ia];W[jb])
+(;B[jb];W[ha]))
+(;B[jb];W[ib])
+(;B[ib];W[hb];B[ha];W[ga]
+(;B[fa];W[fc]
+(;B[ga];W[ia])
+(;B[ia];W[ic]C[White will escape.])
+(;B[jb];W[ga])
+(;B[ic];W[ga])
+(;B[ja];W[ga]
+(;B[ic];W[gb])
+(;B[ia];W[gb])
+(;B[fa];W[gb])
+(;B[fb];W[gb])
+(;B[jb];W[gb])
+(;B[gb];W[ia]MA[ha]C[How many ko threats will black need to win this fight?]LB[fg:0]LB[gg:1-2]LB[hg:3-4]LB[ig:5+]
+(;B[fg])
+(;B[gg])
+(;B[ig])
+(;B[hg];W[hh]C[Correct.  Please continue at A.FORCE]LB[ha:A];B[ha];W[ic]
+(;B[fa];W[jb])
+(;B[jc];W[ia]MA[ha]LB[gg:A]C[FORCE];B[gg];W[gh];B[ha];W[jb];B[kb];W[ia]MA[ha]LB[fg:A]C[FORCE];B[fg];W[fh];B[ha];W[fa]
+(;B[ia];W[fb])
+(;B[fb];W[ia]MA[ha]LB[eg:A]C[FORCE];B[eg];W[eh];B[ha];W[eb]C[oho!];B[ea];W[ga]C[What's the status of white's group?  a(L)ive, (D)ead, (B)lack needs a ko threat to kill, or (W)hite needs a ko threat to live?]LB[jg:L]LB[kg:D]LB[lg:B]LB[mg:W]
+(;B[jg])
+(;B[kg])
+(;B[lg])
+(;B[mg];W[mh]C[Correct.  Please continue.]
+(;B[ca];W[ia]MA[ha])
+(;B[ed];W[ia]MA[ha])
+(;B[ia];W[gc];B[fa];W[ga];B[fa];W[fb];B[gb]MA[ga]C[:)RIGHT])
+(;B[fa];W[gc]
+(;B[ga];W[ia]
+(;B[ha];W[fa]C[:(])
+(;B[fa];W[jb]MA[ib]C[:(]))
+(;B[ia];W[ga];B[fa];W[fb];B[gb]MA[ga]C[:)RIGHT])))))))))
+(;B[ia];W[ic]C[White will escape.])
+(;B[ja];W[ia]MA[ha]LB[ig:5+]LB[hg:3-4]LB[gg:1-2]LB[fg:0]C[How many ko threats will black need to win this fight?FORCE]
+(;B[fg])
+(;B[gg])
+(;B[hg])
+(;B[ig];W[ih]C[Correct.  But you could have done better. ;(]))))

@@ -1,0 +1,19 @@
+(;GE[life and death]DI[4k]DP[31]SO[redpython]CO[6]
+;AW[la][lb][lc][ld][lf][ob][pg][qc][qf][qi][rd][re]
+AB[mb][mc][nc][ne][ng][pd][qd][rc]
+C[Black to save his stone at S17 and capture R17.]
+(;B[pc];W[qb];B[rb];W[pb])
+(;B[qb];W[pc]
+(;B[pb];W[oc];B[od];W[ma])
+(;B[rb];W[oc];B[od];W[ma])
+(;B[oc];W[pb];B[rb];W[ma];B[na];W[nb];B[pa]C[RIGHT])
+)
+(;B[rb];W[qb]
+(;B[qa];W[pa];B[ra];W[pb])
+(;B[ra];W[pb])
+(;B[pb];W[pc]
+(;B[qa];W[oc])
+(;B[oc];W[pa];B[ra];W[qa];B[na]C[RIGHT])
+)
+)
+)

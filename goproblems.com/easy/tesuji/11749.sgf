@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[7k]DP[41]SO[santa c]CO[0]AW[eh]AW[fh]AW[hh]AW[ij]AW[ik]AW[hk]AW[gl]AW[gm]AW[fm]AW[el]AW[dl]AW[dk]AW[ck]AW[cj]AW[bh]AW[cg]AW[dg]AW[bf]AB[ch]AB[dh]AB[di]AB[dj]AB[ek]AB[fk]AB[fl]AB[fj]AB[hj]AB[hi]AB[ii]AB[ih]AB[if]AB[gf]AB[ef]AB[eg]C[sneaky w left something for later...]AP[goproblems]
+(;W[gj]
+(;B[gi]
+(;W[fi];B[gk]
+(;W[ej];B[ei];W[ci]C[well done! :)RIGHT])
+(;W[ci];B[ej]C[:(]))
+(;W[ej];B[ei]LB[fi:1]LB[gh:2]C[:(])
+(;W[gk];B[fi]C[:(])
+(;W[ci];B[fi]C[:(]))
+(;B[fi];W[gi]C[(g12 doesnt work for b here like in the other var ;)RIGHT]))
+(;W[ej];B[ei]
+(;W[gj];B[fi]
+(;W[gi];B[gh]
+(;W[gk];B[fg]C[b got tricky? nice little reduction but you could get more...]MA[gh])
+(;W[gg];B[gk]C[b got tricky? :)]))
+(;W[gk];B[gi]C[could get more...]))
+(;W[fi];B[gj]C[:(])
+(;W[ci];B[gj]C[:(]))
+(;W[ci];B[gj]C[here goes the aji... :(])
+(;W[fi];B[gj]C[no more aji... :(]))

@@ -1,0 +1,87 @@
+(;GE[endgame]DI[3d]DP[9]SO[santa c]CO[9]AW[bb]AW[ba]AW[cc]AW[cb]AW[cd]AW[de]AW[df]AW[ef]AW[eg]AW[ci]AW[ai]AB[bj]AW[eh]AB[fi]AB[fh]AB[fg]AB[ff]AB[ee]AB[ed]AB[ec]AB[dc]AB[db]AB[da]AB[ca]AW[ei]AW[bi]AW[aj]AW[cj]AB[bk]AB[ak]AB[ck]AB[dk]AB[fj]AB[ej]AB[ek]AB[dg]AB[cg]AB[di]C[How to deal with A?]LB[di:A]AP[goproblems]
+(;W[dj];B[dh]
+(;W[bg]
+(;B[cf];W[bf]
+(;B[ce]
+(;W[dd]
+(;B[be]
+(;W[bd]
+(;B[ae]
+(;W[bh]
+(;B[ag]
+(;W[af]C[Well done! Black can't approach! :)CHOICERIGHT]LB[ch:A])
+(;W[ad];B[af]C[Seki! :(])
+(;W[ac];B[af]C[Seki! :(]))
+(;B[af]
+(;W[ag]C[Well done! Black can't approach! :)CHOICERIGHT]LB[ch:A])
+(;W[ad];B[ag]C[Seki! :(])
+(;W[ac];B[ag]C[Seki! :(])))
+(;W[ah]
+(;B[ch];W[af]C[Well done! Black can't approach! :)CHOICERIGHT])
+(;B[af];W[ch]C[Well done! Black can't approach! :)CHOICERIGHT]LB[ag:A]))
+(;W[ad];B[bh]
+(;W[ah];B[ag]C[Double snapback!! :(])
+(;W[ag];B[ch]C[:(]))
+(;W[ac];B[bh]C[:(])
+(;W[ch];B[ah]C[:(]))
+(;B[bh];W[ae]C[RIGHT]))
+(;W[bh];B[bd]C[:(])
+(;W[ah];B[bd]C[:(])
+(;W[ac];B[bd]C[:(])
+(;W[ad];B[bd]C[:(])
+(;W[ae]
+(;B[bd]
+(;W[bc]
+(;B[ad]
+(;W[ac];B[af]
+(;W[ch]C[Well done! :)RIGHT])
+(;W[bh];B[ab]C[:(])
+(;W[ag];B[ab]C[:(])
+(;W[ah];B[ab]C[:(]))
+(;W[ch];B[af]
+(;W[ac]C[Well done! :)RIGHT])
+(;W[ag];B[ah]C[:(])
+(;W[ah];B[ac]C[:(]LB[ab:A])
+(;W[ab];B[ah]C[:(]))
+(;W[bh];B[ac]
+(;W[ch];B[af]C[:(]LB[ag:A]LB[ab:A])
+(;W[af];B[ab]C[:(])
+(;W[ag];B[ab]C[:(]))
+(;W[ab];B[bh]
+(;W[ah];B[ag]C[:(])
+(;W[ag];B[ch]C[:(]))
+(;W[af];B[bh]C[:(])
+(;W[ag];B[ac]
+(;W[ch];B[af]MA[ae]C[:(])
+(;W[bh];B[ab]C[:(]))
+(;W[ah];B[ac]
+(;W[ch];B[af]C[:(]LB[ab:A])
+(;W[af];B[ab]C[:(])))
+(;B[bh];W[ad]C[RIGHT])
+(;B[ac];W[ch]C[RIGHT]))
+(;W[ad];B[ac]C[:(])
+(;W[ac];B[bh]
+(;W[ah];B[ch]C[:(])
+(;W[ag];B[ch]C[:(]))
+(;W[bh];B[bc]C[:(])
+(;W[ch];B[ah];W[bh];B[ad]
+(;W[ag];B[af]C[:(]MA[ae])
+(;W[ac];B[af]C[:(])
+(;W[bc];B[af]C[:(])
+(;W[ab];B[af]C[:(]))
+(;W[ah];B[bc]C[:(])
+(;W[ab];B[bh]
+(;W[ah];B[ch]C[:(])
+(;W[ag];B[ch]C[:(]))
+(;W[af];B[bc]C[:(])
+(;W[ag];B[bc]C[:(]))
+(;B[ad];W[bd];B[af];W[ch];B[ae];W[ac]C[RIGHT])
+(;B[af];W[bd];B[ad];W[ch];B[ae];W[ac]C[RIGHT])
+(;B[bh];W[bd]C[RIGHT])))
+(;B[bh];W[be]C[RIGHT]))
+(;W[be];B[dd]C[:(]))
+(;B[bh];W[ce]C[RIGHT]))
+(;B[bh];W[cf]C[RIGHT]))
+(;W[bf];B[bh]C[Black can easily capture some stones! :(])
+(;W[ag];B[bf]C[:(]))
+(;W[dh]C[A instead works just fine! :(]LB[dj:A]))

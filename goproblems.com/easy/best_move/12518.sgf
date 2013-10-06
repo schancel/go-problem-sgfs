@@ -1,0 +1,13 @@
+(;GE[best move]DI[7k]DP[44]SO[Field Mouse]CO[0]AB[bc]AB[bd]AB[bf]AW[cb]AW[db]AW[dh]AW[ch]AW[bh]AB[ba]AB[bb]AB[ab]AB[ad]AB[af]AW[eb]AW[fb]AW[gb]AW[eh]AW[fh]AW[gh]TR[de]TR[ee]TR[fe]TR[ge]TR[ce]TR[be]C[How far can you jump and still be 100% connected with the jumping stone?FORCE]AW[hb]AW[ib]AW[jb]AW[jc]AW[jd]AW[je]AW[jf]AW[ih]AW[hh]AW[jg]AW[jh]AP[goproblems]
+(;B[ee];W[de]
+(;B[df];W[dd];B[ef];W[cf])
+(;B[dd];W[ed];B[df];W[ce]
+(;B[cf];W[ef];B[fe];W[cd]C[The jumping stone is cut!])
+(;B[ef];W[cf];B[cg];W[bg];B[dg];W[cd]C[Jumping stone is captured.])))
+(;B[de]C[Correct distance!RIGHT])
+(;B[ge];W[ee]C[woohoo :)])
+(;B[fe];W[de]
+(;B[df];W[dd];B[ef];W[cf])
+(;B[dd];W[ed];B[df];W[ee];B[ef];W[cf]))
+(;B[ce]C[A little more confidence next time!])
+(;B[be]C[Try again :-)]))

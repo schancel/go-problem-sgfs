@@ -1,0 +1,44 @@
+(;GE[endgame]DI[5d]DP[6]SO[JottKa]CO[6]SZ[9]AB[ga]AB[gb]AB[gc]AB[hd]AB[he]AB[hf]AB[hg]AB[hh]AB[gg]AB[fd]AB[ee]AB[dd]AB[dc]AB[cd]AB[be]AB[ad]AB[cf]AB[cg]AB[bg]AB[bh]AW[ch]AW[di]AW[dg]AW[df]AW[eg]AW[eh]AW[fg]AW[gh]AW[hi]AW[ff]AW[gf]AW[ge]AW[gd]AW[fc]AW[fb]AW[fa]AW[db]AW[cc]AW[bc]AW[bd]AW[bb]C[Black to win with 4 points. No komi, white has one prisoner, black none.]AP[goproblems]
+(;B[ba];W[cb]
+(;B[da];W[eb]C[Please play A]LB[bi:A];B[bi];W[ci]C[This exchange was move 47 and 48. Now finish the game.];B[ac];W[ab];B[ae]C[];W[ca]LB[ih:A]C[Great ! A ko after White J2 would he win. But you could play A7 in sente and with the last point J2 you win the game with 4 points. RIGHT])
+(;B[bi];W[ci]))
+(;B[bi];W[ci]
+(;B[ba];W[cb];B[da];W[eb])
+(;B[ac];W[ab];B[ae];W[ec]
+(;B[ih];W[ed])
+(;B[ed];W[ih]C[Black wins the ko, but white has 7+4+the prisoner from D2 = 12 points while black only gets 5+9+the prisoner from J2 = 15 points.];B[ig];W[gi];B[ii];W[de];B[ce];W[ih]
+(;B[da];W[ca];B[ii];W[hc];B[hb];W[ih];B[ea];W[eb];B[ii];W[ib];B[ic];W[ih]C[White wins the ko])
+(;B[ea];W[eb];B[ii];W[hc];B[hb];W[ih];B[ca];W[da];B[ii];W[ib];B[ic];W[ih];B[cb];W[ba];B[ii];W[ha];B[ia];W[ih])))
+(;B[ab];W[ac];B[ba];W[ae];B[da];W[eb];B[cb];W[aa];B[fi];W[gi];B[ab];W[ca])
+(;B[ih];W[ec];B[ac];W[ab];B[ae];W[ed])
+(;B[ec];W[eb])
+(;B[eb];W[ec];B[da];W[ea];B[ab];W[ac];B[ba];W[cb])
+(;B[da]
+(;W[eb]
+(;B[ba];W[cb];B[ac];W[ab])
+(;B[ac];W[ab];B[ae];W[ca]))))
+(;B[ac];W[ab])
+(;B[ec];W[eb]
+(;B[ac];W[ab];B[ae]
+(;W[de];B[ce];W[bi])
+(;W[bi];B[ah];W[af]))
+(;B[bi];W[ci]
+(;B[ac];W[ab];B[ae];W[ih];B[ig];W[gi];B[ii];W[de]C[White will win the ko and black wins only with 3 points];B[ce];W[ih]
+(;B[ca];W[cb];B[ii];W[fe];B[ed];W[ih];B[da];W[ba];B[ii];W[hc];B[hb];W[ih];B[ei];W[fi];B[ii];W[ib];B[ic];W[ih]C[White wins the ko - only 3 points for black.])
+(;B[ei];W[fi];B[ii];W[fe];B[ed];W[ih];B[ca];W[cb];B[ii];W[hc];B[hb];W[ih];B[da];W[ba];B[ii];W[ib];B[ic];W[ih]))
+(;B[ab];W[ac];B[ba];W[ae]
+(;B[af];W[ca])
+(;B[ca];W[da];B[af];W[cb];B[ad];W[aa])
+(;B[da];W[cb];B[ca];W[af];B[ag];W[aa]
+(;B[ei];W[fi];B[ab];W[de];B[ce];W[aa])
+(;B[fi];W[gi];B[ab];W[de];B[ce];W[aa];B[ei];W[fh];B[ab];W[fe];B[ed];W[aa];B[ei];W[fi];B[ab];W[ah]
+(;B[aa];W[ea];B[ba])
+(;B[bf];W[aa];B[ad];W[ae];B[ab];W[ef]C[Black will be captured..]))))))
+(;B[ih];W[bi])
+(;B[ab];W[ac];B[ba];W[ae];B[da];W[eb];B[cb];W[aa];B[bi];W[ci];B[ab];W[ca])
+(;B[eb];W[ec];B[da];W[ea];B[ca];W[ba];B[bi];W[ci];B[ac];W[ab];B[ae];W[ih];B[ig];W[gi];B[ii];W[de];B[ce];W[ih];B[ed];W[cb];B[da];W[ca];B[ii];W[hc];B[hb];W[ih];B[ei];W[fi];B[ii];W[ib];B[ic];W[ih]C[White wins the ko, so only 3 points for black.])
+(;B[af];W[bi])
+(;B[de];W[bi])
+(;B[da];W[eb]
+(;B[bi];W[ci];B[ba])
+(;B[ba];W[cb])))

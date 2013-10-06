@@ -1,0 +1,39 @@
+(;GE[fuseki]DI[2d]DP[14]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Six (similar?) joseki, Part 2.]
+PL[B]
+AB[cd][cj][fc][mp][ne][oc][pc][pe][qd][qp]
+AW[cp][ep][hq][ic][md][nc][nd][od][oq][po]
+LB[yy:0]TR[po](;B[pp]
+;W[op]
+;B[oo]
+;W[no]
+;B[on]
+;W[np]
+(;B[pn]
+;W[mq]
+C[RIGHT 
+White A is not possible with the one 
+space high pincer (B). This result is 
+inferior for White.]
+LB[mq:9][po:A][mq:9][mp:B])(;B[mq]
+;W[ro]
+;B[qo]
+;W[pn]
+;B[qn]
+;W[pm]
+C[Black A creates unnecessary 
+complications.]
+LB[pm:12][mq:A]))(;B[qo]
+;W[pn]
+(;B[qm]
+LB[qm:3][pm:A][mp:B]C[Bad as White can keep on pushing at 
+A making Black B completely 
+ineffective.]
+)(;B[qn]
+;W[pm]
+C[Black has a better way of playing.]
+)))

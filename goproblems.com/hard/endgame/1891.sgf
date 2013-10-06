@@ -1,0 +1,83 @@
+(;GE[endgame]DI[4d]DP[8]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[da][fa][db][fb][dc][cd][dd][ed][fd][be][ce][bf][bg]AB[ca][ab][cb][gb][cc][ad][bd][de][ee][fe][af][cf][df]C[No komi, no prisoners - Black to play and win!]
+(;B[ff]CR[ff]
+;W[ge]CR[ge]
+;B[gf]CR[gf]
+;W[gd]CR[gd]
+;B[ae]CR[ae]
+;W[cg]CR[cg]
+;B[dg]LB[fg:A]TR[ff]CR[dg]C[Black wins by one point! Thanks to the marked stone, the white endgame at the right was gote - if Black starts with A instead (also a commom idea), White would be able to play g4 in sente( see navigate solution for more details). RIGHT])
+(;B[fg]CR[fg]
+;W[gd]CR[gd]
+(;B[ae]CR[ae]
+;W[gf]CR[gf]
+;B[ge]CR[ge]
+;W[ff]CR[ff]
+(;B[cg]CR[cg]
+;W[ef]CR[ef]C[Black is dead....])
+(;B[ef]CR[ef]
+;W[cg]CR[cg]C[Black is dead....]))
+(;B[ge]CR[ge]
+;W[ae]CR[ae]
+;B[cg]CR[cg]C[This is only a jigo!])
+(;B[cg]CR[cg]
+;W[ge]CR[ge]
+;B[gf]CR[gf]
+;W[ae]CR[ae]C[This is a desaster for black: white wins by one point!]))
+(;B[eg]CR[eg]
+;W[gd]CR[gd]
+(;B[ae]CR[ae]
+;W[gf]CR[gf]
+;B[ge]CR[ge]
+;W[ff]CR[ff]
+;B[cg]CR[cg]
+;W[ef]CR[ef]C[Black is dead....])
+(;B[ge]CR[ge]
+;W[cg]CR[cg]
+;B[ff]CR[ff]
+;W[ae]CR[ae]C[This is a two point loss for Black!]))
+(;B[gd]CR[gd]
+;W[cg]CR[cg]
+(;B[dg]CR[dg]
+;W[ge]CR[ge]
+(;B[gf]CR[gf]
+;W[fg]CR[fg]C[Black is dead])
+(;B[ff]CR[ff]
+;W[eg]CR[eg]
+(;B[gf]CR[gf]
+;W[fg]CR[fg]C[Black is dead])
+(;B[fg]CR[fg]
+;W[gf]CR[gf]C[Black is dead])))
+(;B[ff]CR[ff]
+;W[eg]CR[eg]
+;B[dg]CR[dg]
+;W[ge]CR[ge]
+;B[gf]CR[gf]
+;W[fg]CR[fg]C[Black is dead])
+(;B[fg]CR[fg]
+;W[gf]CR[gf]
+(;B[ff]CR[ff]
+;W[dg]CR[dg]
+;B[eg]CR[eg]
+;W[ge]CR[ge]C[Black is dead])
+(;B[ge]CR[ge]
+;W[ff]CR[ff]
+;B[dg]CR[dg]
+;W[ef]CR[ef]C[Black is dead]))
+(;B[ge]CR[ge]
+;W[dg]CR[dg]
+;B[eg]CR[eg]
+;W[ff]CR[ff]C[Black is dead]))
+(;B[ge]CR[ge]
+;W[ff]CR[ff]
+;B[fg]CR[fg]
+;W[eg]CR[eg]
+;B[gf]CR[gf]
+;W[gg]CR[gg]C[Black can't hope to win this ko])
+(;B[cg]CR[cg]
+;W[ff]CR[ff]
+;B[gf]CR[gf]
+;W[eg]CR[eg]
+;B[fg]CR[fg]
+;W[gg]CR[gg]C[Black can't hope to win this ko]))

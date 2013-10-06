@@ -1,0 +1,54 @@
+(;GE[life and death]DI[3k]DP[25]SO[kochi]CO[0]AW[ad]AW[be]AW[ce]AW[cd]AW[cc]AW[cb]AW[db]AW[da]AB[ea]AB[eb]AB[ec]AB[dc]AB[de]AB[df]AB[cf]AB[bf]AB[af]AB[ae]AB[ee]AB[ed]C[Best for B?]AP[goproblems]
+(;B[bb];W[bc]
+(;B[aa];W[ac])
+(;B[ab];W[ac]
+(;B[ba];W[ca])
+(;B[dd];W[ba]))
+(;B[ba];W[ab]))
+(;B[ab];W[ac]
+(;B[ba];W[bb])
+(;B[bb];W[bc];B[ba];W[ca])
+(;B[bc];W[bd]
+(;B[bb];W[ba])
+(;B[ba];W[bb])))
+(;B[bc];W[bb]
+(;B[ab];W[bd];B[ba];W[ac])
+(;B[ac];W[ab];B[bd];W[ad])
+(;B[bd];W[ac])
+(;B[ba];W[ab]))
+(;B[ac]
+(;W[bd]
+(;B[bb];W[ba]
+(;B[aa];W[bc]
+(;B[dd];W[ab])
+(;B[ca];W[ab]C[W lives in eternal ko.])
+(;B[ab]))
+(;B[ab];W[bc])
+(;B[bc];W[ab])
+(;B[dd]
+(;W[ab]C[CHOICE];B[aa]C[W could choose ko or seki.RIGHT])
+(;W[aa]C[W could choose ko or sekiCHOICERIGHT])))
+(;B[ab];W[ba]
+(;B[bb];W[bc])
+(;B[dd];W[bb])
+(;B[bc];W[bb]))
+(;B[bc];W[bb])
+(;B[aa];W[bb]
+(;B[ba];W[ab])
+(;B[ab];W[ba]))
+(;B[ba]
+(;W[bb]C[CHOICE]
+(;B[ab]C[Seki
+note w A loses the whole group.RIGHT]LB[bc:A])
+(;B[dd];W[ab])))
+(;B[dd];W[bb]
+(;B[ba];W[ab])
+(;B[ab];W[ba])))
+(;W[ab]C[This is what W should do.]
+(;B[bc];W[bb])
+(;B[bd];W[bc];B[ad];W[ba]C[RIGHT])))
+(;B[ba];W[bc]
+(;B[ab];W[ac];B[bb];W[ca])
+(;B[bb];W[ab]))
+(;B[aa];W[bc])
+(;B[bd];W[bc];B[ab];W[bb];B[ba]))

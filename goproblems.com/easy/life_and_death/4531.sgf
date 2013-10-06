@@ -1,0 +1,35 @@
+(;GE[life and death]DI[10k]DP[50]SO[assacra]CO[8]AB[ab]AB[bb]AB[cb]AB[da]AW[db]AW[eb]AW[fb]AW[fc]AB[dc]AB[ec]AB[ed]AB[ee]AB[ef]AB[dg]AB[cf]AW[df]AW[de]AW[dd]AW[cg]AW[cc]AW[bc]AW[ac]AW[bd]TR[ab]TR[bb]TR[cb]C[black to save his marked stones]AP[goproblems]
+(;B[be];W[ba]
+(;B[cd];W[ca]
+(;B[ad]C[RIGHT])
+(;B[aa];W[ca]
+(;B[ad]C[RIGHT])
+(;B[ba];W[ca])))
+(;B[ce];W[ca]
+(;B[cd];W[aa])
+(;B[aa];W[ca]))
+(;B[ca];W[ea]
+(;B[cd];W[aa])
+(;B[aa];W[ba])
+(;B[ce];W[aa]))
+(;B[ad];W[ae];B[cd]C[right but a16 was not necessaryRIGHT]))
+(;B[ce];W[ba]
+(;B[cd];W[ca]
+(;B[be];W[aa])
+(;B[aa];W[ca]))
+(;B[be];W[ca]
+(;B[aa];W[ca])
+(;B[cd];W[aa])))
+(;B[cd];W[ce]
+(;B[bf];W[be]
+(;B[ae];W[bg];B[af];W[ag])
+(;B[bg];W[ae]))
+(;B[be];W[bf]))
+(;B[bf];W[ba];B[ce];W[ca]
+(;B[cd];W[aa])
+(;B[aa];W[ca]))
+(;B[ca];W[ea];B[ce];W[ba]
+(;B[aa];W[ba])
+(;B[cd];W[aa]))
+(;B[ba];W[ea];B[ce];W[ca]C[very difficult ko for black])
+(;B[aa];W[ca];B[ba];W[ca]))

@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[2k]DP[21]SO[inspere]CO[0]AB[bb]AB[cb]AB[eb]AB[fb]AB[gc]AB[hc]AB[hb]AB[jb]AB[jc]AB[jd]AB[id]AB[cd]AB[dd]AB[de]AB[df]AB[ef]AB[ff]AB[gf]AB[hf]AB[he]AB[hg]AB[gg]AB[gh]AB[fh]AB[eh]AB[di]AB[ci]AB[bi]AB[bh]AB[aj]AB[bk]AB[ck]AB[dk]AB[cl]AB[cm]AB[cn]AB[dm]AB[en]AB[bo]AB[ej]AB[fj]AB[ih]AB[jh]AB[kh]AB[kg]AB[ji]AB[jj]AB[jk]AB[ik]AB[kl]AB[ll]AB[lm]AB[kn]AB[ko]AB[lo]AB[mo]AB[jq]AB[ip]AB[hp]AB[io]AB[ho]AB[go]AB[hn]AB[gn]AB[gm]AB[gq]AB[fq]AB[mh]AB[mi]AB[mj]AB[nh]AB[oi]AB[pi]AB[qj]AB[pk]AB[ok]AB[nk]AB[pm]AB[nn]AB[np]AB[nq]AB[or]AB[pq]AB[qr]AB[rr]AB[qh]AB[pg]AB[of]AB[oe]AB[ne]AB[qf]AB[qe]AB[qd]AB[pc]AB[pb]AB[oc]AB[mc]AB[qa]AB[ra]AW[sa]AW[rb]AW[qb]AW[qc]AW[sc]AW[rd]AW[re]AW[pd]AW[od]AW[nc]AW[ob]AW[lc]AW[md]AW[nf]AW[og]AW[ng]AW[mg]AW[lg]AW[kf]AW[ke]AW[ie]AW[if]AW[ig]AW[lh]AW[li]AW[ki]AW[ni]AW[oh]AW[ph]AW[qk]AW[pl]AW[ol]AW[nm]AW[mm]AW[mn]AW[ln]AW[qm]AW[qn]AW[rl]AW[po]AW[op]AW[oq]AW[qp]AW[qq]AW[rq]AW[km]AW[jm]AW[jn]AW[jo]AW[in]AW[il]AW[hm]AW[hl]AW[hk]AW[ij]AW[ii]AW[hi]AW[hh]AW[ic]AW[ib]AW[hd]AB[da]AW[gd]AW[ge]AW[fe]AW[ee]AW[ed]AW[ec]AW[fc]AW[dc]AW[db]AW[cc]AW[bc]AW[bd]AW[ce]AW[cf]AW[cg]AW[bg]AW[dg]AW[eg]AW[fg]AW[dh]AW[ch]AW[ah]AW[ei]AW[gj]AW[ek]AW[el]AW[dl]AW[em]AW[fm]AW[fn]AW[fo]AW[fp]AW[gp]AW[dn]AW[do]AW[dp]AW[eq]AW[cp]AW[bp]C[As the game stands, white is leading by a few points. Black to cause a major upset and turn the tables on white.]AP[goproblems]
+(;B[me]
+(;W[le]C[CHOICE];B[nd];W[mb];B[pe];W[pa]C[This is the best white can do to minimize his lossesRIGHT])
+(;W[lf]C[If white responds incorrectly, then...CHOICE]
+(;B[ld];W[kd];B[nd]C[He get's sliced!RIGHT])
+(;B[nd];W[mb]
+(;B[kd]C[RIGHT])
+(;B[ld];W[kd];B[mc];W[kk]C[Is this a valid ko threat?]LB[kj:Yes]LB[nb:No]
+(;B[kj];W[md]C[This sequence starts a ko fight, and it seems black has more ko threats such as A14 and K9 so this is a valid solution. However, black has better ways of taking care of white for good.RIGHT])
+(;B[nb];W[lk]C[K12 group has been cut, and white lives on! Black can start a ko fight for the R18 group, but that is much easier for white to deal with as the group is smaller and white has more ko threats than before.])))
+(;B[kd]C[RIGHT])))
+(;B[nd]
+(;W[mb]C[CHOICE];B[pe];W[pa]C[RIGHT])
+(;W[pa]C[CHOICE];B[me];W[le]
+(;B[ld]C[RIGHT])
+(;B[mb];W[lb];B[ld];W[kd];B[md]C[This works tooRIGHT])))
+(;B[gl];W[gk];B[fk];W[gi]
+(;B[fi];W[jl]C[White almost broke a sweat but he's fine])
+(;B[jl];W[fi]))
+(;B[fk];W[jl]
+(;B[gk];W[kk]C[White can't be killed];B[kj];W[lk];B[lj];W[ml];B[lf];W[me];B[mf];W[le]C[Works for me since white has to add the last stone to avoid getting cut, giving black the initiative in the endgame.RIGHT])
+(;B[kk];W[gi];B[fi];W[gk])
+(;B[lk];W[gi];B[fi];W[gk])
+(;B[gi];W[fi]))
+(;B[le];W[me];B[nd];W[pa];B[mb];W[lb];B[ld];W[mf];B[kd];W[lf])
+(;B[af];W[ae])
+(;B[mb]C[See solutions for more details])
+(;B[gk];W[gl];B[fk];W[fl])
+(;B[lf];W[me])
+(;B[nb];W[pa])
+(;B[sb];W[pa])
+(;B[ld];W[me]))

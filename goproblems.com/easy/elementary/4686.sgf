@@ -1,0 +1,12 @@
+(;GE[elementary]DI[10k]DP[54]SO[adum]CO[7]AB[hb]AW[ib]AB[jb]AW[kb]AB[lb]AB[ic]AB[id]AB[kd]AB[kc]AW[lc]AW[ld]AW[ke]AW[ie]AW[hd]AW[hc]AB[gb]AB[mb]C[what stones can white capture?]AP[goproblems]
+(;W[jd]
+(;B[jc];W[ja]C[CHOICERIGHT])
+(;B[ka];W[jc]C[CHOICERIGHT])
+(;B[ia];W[jc]C[CHOICERIGHT])
+(;B[ja];W[jc]))
+(;W[jc];B[jd])
+(;W[ka];B[ia])
+(;W[ia];B[jc])
+(;W[ja];B[ka])
+(;W[he];B[ia])
+(;W[le];B[ia]))

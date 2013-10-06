@@ -1,0 +1,24 @@
+(;GE[elementary]DI[30k]DP[83]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[qq][rq][sq][qr][rs]
+AB[po][qp][rp][sp][pq][or][pr]PL[2]C[white to live
+]
+(;W[sr]C[RIGHT
+two eyes
+])
+
+(;W[ss]C[dead
+])
+
+(;W[qs];B[sr])
+
+(;W[ps];B[sr];W[os];B[ns];W[qs];B[ss];W[rr];B[sr];W[ss];B[sr])
+
+(;W[rr]C[dead
+])
+
+)

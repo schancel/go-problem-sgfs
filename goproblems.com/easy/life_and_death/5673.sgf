@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[29]SO[klapaucius]CO[7]GM[1]FF[4]SZ[19]AP[SmartGo:1.5]
+AB[pq][qq][qp][qo][pn][pm][ol][nl][kq][kr][ks][ls][ms][mr][lp][lo][ln][ll]
+AW[on][po][pp][mo][mp][mq][lq][lr][nr][ns][or][oq]
+C[Black to kill.]
+(;B[pr]
+C[RIGHT There is no way for white to make two eyes now.])
+(;B[oo];W[op]
+(;B[pr];W[nn]
+C[White is alive.])
+(;B[nn];W[pr]
+C[White lives.]))
+(;B[np];W[pr]
+(;B[oo];W[op]
+C[White lives.])
+(;B[qr];W[ps]
+C[White lives.]))
+(;B[op];W[oo];B[pr];W[np]
+C[Perhaps not the best way for white to live, but hey, it's simple.])
+(;B[qr]
+C[RIGHT I'll accept this, but Q2 is cleaner.])
+(;B[nn];W[pr]
+C[White lives.])
+(;B[no];W[pr]
+C[White lives.]))

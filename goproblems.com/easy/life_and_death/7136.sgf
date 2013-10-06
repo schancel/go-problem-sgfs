@@ -1,0 +1,71 @@
+(;GE[life and death]DI[4k]DP[30]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][gb][bc][cc][gc][dd][ed][fd][gd][ce]AB[ab][bb][cb][dc][ec][fc]C[Black to live]
+(;B[ea]CR[ea]
+;W[da]CR[da]
+(;B[fb]CR[fb]TR[ca][db]C[RIGHT Miai for life])
+(;B[eb]CR[eb]
+;W[ca]CR[ca]TR[db]C[Not seki])
+(;B[db]CR[db]
+;W[fb]CR[fb]
+(;B[eb]CR[eb]
+;W[ca]CR[ca])
+(;B[ca]CR[ca]
+;W[eb]CR[eb]))
+(;B[ca]CR[ca]
+;W[eb]CR[eb]
+(;B[fb]CR[fb]
+;W[fa]CR[fa]
+;B[db]CR[db]C[RIGHT])
+(;B[db]CR[db]
+;W[fb]CR[fb])))
+(;B[da]CR[da]
+;W[fa]CR[fa]
+(;B[eb]CR[eb]
+;W[ea]CR[ea])
+(;B[ea]CR[ea]
+;W[eb]CR[eb])
+(;B[fb]CR[fb]
+;W[ea]CR[ea]))
+(;B[db]CR[db]
+;W[ea]CR[ea])
+(;B[ca]CR[ca]
+;W[fb]CR[fb])
+(;B[eb]CR[eb]
+;W[da]CR[da]
+(;B[ea]CR[ea]
+;W[ca]CR[ca]TR[db]C[Not seki])
+(;B[ca]CR[ca]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[fb]CR[fb]C[False eye])
+(;B[fb]CR[fb]
+;W[fa]CR[fa]))
+(;B[fa]CR[fa]
+;W[fb]CR[fb]
+(;B[ca]CR[ca]
+;W[ea]CR[ea])
+(;B[ea]CR[ea]
+;W[ca]CR[ca]TR[db]C[Not seki])))
+(;B[fb]CR[fb]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[db]CR[db]
+(;B[ca]CR[ca]
+;W[ac]CR[ac]C[Black can't approach])
+(;B[da]CR[da]
+;W[ca]CR[ca]C[Black can't approach]))
+(;B[da]CR[da]
+;W[fa]CR[fa])
+(;B[db]CR[db]
+;W[fa]CR[fa])
+(;B[eb]CR[eb]
+;W[fa]CR[fa]))
+(;B[fa]CR[fa]
+;W[fb]CR[fb]
+;B[eb]CR[eb]
+;W[da]CR[da]
+(;B[ca]CR[ca]
+;W[ea]CR[ea])
+(;B[ea]CR[ea]
+;W[ca]CR[ca]TR[db]C[Not seki])))

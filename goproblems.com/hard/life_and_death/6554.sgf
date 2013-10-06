@@ -1,0 +1,35 @@
+(;GE[life and death]DI[5d]DP[6]SO[kvzrock]CO[9]SZ[19]AW[ba]AW[bb]AW[jb]AW[cc]AW[dc]AW[ec]AW[ic]AW[kc]AW[id]AW[de]AW[ee]AW[ge]AW[he]AW[ie]AB[cb]AB[eb]AB[hb]AB[ib]AB[fc]AB[hc]AB[ed]AB[gd]AB[hd]C[W to kill.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #14]US[YuJun]PL[W]
+(;W[ea];B[db]
+(;W[ca];B[fa]
+(;W[gb];B[ga]
+(;W[fb];B[gc]
+(;W[fb];B[gb];W[da]C[B dies.RIGHT])
+(;W[da];B[fb];W[ia]C[B dies.RIGHT]))
+(;W[ia];B[da]C[B lives.])
+(;W[da]C[B dies.RIGHT]))
+(;W[da];B[gb];W[fb];B[eb]C[B lives.]))
+(;W[da]C[];B[fa]
+(;W[ca];B[gb]C[B lives.])
+(;W[gb];B[ca];W[fb];B[ga]C[B lives.]))
+(;W[fb];B[gb]
+(;W[ca];B[fa]C[B lives.];W[da]C[B lives.])
+(;W[fa];B[ga]C[B lives.]))
+(;W[fa];B[fb]C[B lives.]))
+(;W[gb];B[fb]
+(;W[fa];B[db]
+(;W[ca];B[ga];W[ha];B[ia]
+(;W[da];B[ga]C[Ko. W can do better.])
+(;W[ga];B[da]C[Seki.]))
+(;W[ia];B[ha];W[ga];B[ca];W[ea];B[gc]C[B is alive.]))
+(;W[ga];B[db]
+(;W[ca];B[da]
+(;W[fa];B[ia]C[Seki.])
+(;W[ia];B[ha];W[fa]C[Seki.]))
+(;W[ia];B[ha];W[ca];B[da];W[fa]C[Seki.]))
+(;W[ia];B[ga]C[B lives.])
+(;W[ha];B[ia];W[ga];B[db];W[ca];B[da];W[fa]C[Seki.]))
+(;W[db];B[gb];W[ea];B[fa]C[Ko. But W can do better.])
+(;W[fa];B[fb];W[gb];B[db];W[ca];B[ia];W[da];B[ga]C[Ko. But W can do better.])
+(;W[ia];B[gb]C[B lives.])
+(;W[ga];B[gb]C[B lives.])
+(;W[fb];B[gb]C[B lives.]))

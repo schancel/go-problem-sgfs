@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5k]DP[34]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];C[black to win the race]
+AW[lk][mk][nk][ll][ol][lm][om][pm][ln][on][lo][oo][po][lp][op][jq][lq][oq][pq][kr][pr][qr]
+AB[ok][pk][ml][nl][pl][mm][qm][rm][mn][pn][mo][qo][mp][pp][qp][mq][nq][qq][rq][lr][or][rr][rs]
+(;B[ns];W[mr];B[ls]C[RIGHT
+black has an eye, white doesn't
+])
+
+(;B[ms];W[nr];B[os]C[RIGHT
+black has an eye, white doesn't
+])
+
+(;B[qn];W[nr]C[white will get an eye, and black will die
+])
+
+(;B[nr];W[ls];B[ms]C[
+];W[mr]C[ko for eye -- not great
+])
+
+(;B[mr];W[os];B[ns];W[nr]C[ko for eye -- not good
+])
+
+(;B[os];W[mr]C[seki
+])
+
+(;B[ls];W[nr]C[white wins
+])
+
+(;B[nm];W[nr])
+
+(;B[np];W[nr])
+
+)

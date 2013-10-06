@@ -1,0 +1,109 @@
+(;GE[life and death]DI[3d]DP[9]SO[BartTM]CO[6]AB[ca]AB[cb]AB[cc]AB[cd]AB[be]AB[bf]AW[af]AW[bg]AW[cf]AW[ce]AW[dd]AW[dc]AW[db]AW[da]AB[ad]AB[aa]AW[ab]AW[cg]AW[bi]TR[aa]C[White has played a 3 point endgame move at A18, and Black has a frivolous reply. Try to find the optimal response.]AP[goproblems]
+(;W[ac]
+(;B[bb]
+(;W[ba]
+(;B[bd]C[If Black has no big ko threat B16 is imminent.]
+(;W[aa];B[bc]
+(;W[ab];B[aa]
+(;W[ba]C[Ko, and Black still needs to find the first threat. Nice.RIGHT])
+(;W[ag];B[ac])
+(;W[ae];B[ac]))
+(;W[aa];B[ab])
+(;W[ag];B[ab]))
+(;W[ag];B[aa]C[Ko, White needs to find the first threat. Close but not good enough; you should make Black find the first threat, especially so when there aren't any.])
+(;W[ae];B[aa]C[Ko, White needs to find the first threat and Black has an internal ko threat to boot. What a waste.]MA[ag])
+(;W[bc];B[aa]))
+(;B[de]C[This shows what happens if Black tenukis or plays a threat that White can ignore...]
+(;W[bd]
+(;B[aa];W[ae]C[RIGHT])
+(;B[bc];W[bd]C[RIGHT]))
+(;W[bc];B[aa]C[This time the ko favors Black.])
+(;W[ag];B[aa]C[Ko, White to find a threat first.])
+(;W[ae]
+(;B[aa];W[bd]C[RIGHT])
+(;B[ag];W[bd]
+(;B[bc];W[bd]C[RIGHT])
+(;B[aa]
+(;W[ae]C[Bizarre but correct anyway.RIGHT])
+(;W[af];B[bc])
+(;W[ba]C[NOTTHIS]))))
+(;W[aa];B[bc])))
+(;W[bd];B[bc])
+(;W[bc];B[bd])
+(;W[ae];B[bd]
+(;W[ba];B[ag]
+(;W[af];B[aa]C[Ko, White needs to find the first threat. Not good enough; it would be better to make Black have to find the first threat, especially so if there aren't any.])
+(;W[aa];B[af])
+(;W[ah];B[af]))
+(;W[ag];B[bc]))
+(;W[ag];B[bc]))
+(;B[bc]C[In case you wonder why Black does not play like this?];W[ba];B[bb];W[bd]C[That's why.RIGHT])
+(;B[bd]C[Surely White won't fall for this?]
+(;W[ba];B[bb])
+(;W[bb]C[The beauty of nakade fills the heart with joy.RIGHT]))
+(;B[ba]
+(;W[bc]C[RIGHT])
+(;W[bd];B[bc];W[ag];B[bb];W[ae]C[RIGHT])
+(;W[ag];B[bc];W[ae]C[RIGHT])))
+(;W[ba]
+(;B[bb]
+(;W[ac];B[aa]C[Ko, White needs to find the first threat. You should make Black needing the first threat, especially so if there aren't any.])
+(;W[aa];B[ac])
+(;W[bc];B[bd]
+(;W[ag];B[ac])
+(;W[ae];B[ag])
+(;W[ac])
+(;W[aa];B[ac]))
+(;W[bd];B[bc]C[Black lives.])
+(;W[ae];B[ac]
+(;W[bd];B[aa]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.]MA[be]MA[bf])
+(;W[ag];B[aa]MA[be]MA[bf]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.])
+(;W[bc];B[aa]
+(;W[bd];B[be]C[])
+(;W[ag];B[bd])))
+(;W[ag];B[ac]
+(;W[ae])
+(;W[bd];B[aa]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.]MA[be]MA[bf])
+(;W[bc];B[aa])))
+(;B[ac]C[Black would never even think about playing this, wouldn't Black?];W[bc];B[bd];W[bb];B[aa];W[bb]C[Definitely not! ;)]))
+(;W[bb];B[bc]
+(;W[ba];B[ac]
+(;W[ag];B[aa]
+(;W[ae];B[bb]MA[be]MA[bf]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.])
+(;W[ab];B[bb])
+(;W[ba];B[bb])
+(;W[bb];B[ae]))
+(;W[ae];B[ag]))
+(;W[ag];B[ae]
+(;W[ba]C[Black lives in seki and has sente.])
+(;W[ac];B[ba]))
+(;W[ae];B[ag])
+(;W[ac];B[ba]))
+(;W[bc];B[bb]
+(;W[ba];B[bd])
+(;W[ac])
+(;W[bd];B[ac])
+(;W[ag];B[ac])
+(;W[ae];B[ag]
+(;W[ba];B[bd])
+(;W[af];B[ac])
+(;W[ac])))
+(;W[bd];B[bc]
+(;W[ba];B[bb]C[Black lives.])
+(;W[bb];B[ac]
+(;W[ag];B[ae];W[ba];B[aa])
+(;W[ba];B[aa])
+(;W[ae];B[ag]))
+(;W[ac];B[bb])
+(;W[ag];B[ae]
+(;W[ba];B[bb]C[Black lives.])
+(;W[bb];B[ba])
+(;W[ac];B[bb]))
+(;W[ae];B[ag]))
+(;W[ae];B[ag])
+(;W[ag];B[bb]
+(;W[ba];B[ac])
+(;W[ac])
+(;W[bc])
+(;W[bd];B[ac]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.]MA[be]MA[bf])
+(;W[ae];B[ac]C[Black is more than glad to sacrifice 2 stones in exchange for unconditional life.])))

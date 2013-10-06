@@ -1,0 +1,14 @@
+(;GE[life and death]DI[5k]DP[33]SO[sabetts]CO[0]SZ[19]AW[ql]AW[qo]AW[ro]AW[pp]AW[rp]AW[mq]AW[oq]AW[pq]AW[rq]AB[pn]AB[po]AB[qp]AB[kq]AB[qq]AB[pr]AB[qr]AB[rr]AB[qs]C[Can you help black?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[or];W[nr]
+(;B[os];W[sr])
+(;B[ns];W[ms];B[os];W[sr]))
+(;B[nr]
+(;W[or]C[CHOICE]
+(;B[nq];W[np];B[os];W[op]
+(;B[lr];W[sr]C[Ko is the best black can do. RIGHT])
+(;B[mr];W[sr]C[Ko is the best black can do. RIGHT]))
+(;B[os];W[nq]
+(;B[lr];W[mr];B[ms];W[ns])
+(;B[mr];W[lr]))
+(;B[mr];W[os])))
+(;B[ns];W[or];B[os];W[mr]))

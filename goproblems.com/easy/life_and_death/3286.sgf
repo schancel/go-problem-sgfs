@@ -1,0 +1,28 @@
+(;GE[life and death]DI[6k]DP[36]SO[polo]CO[8]AW[rq]AW[qq]AW[pq]AW[oq]AW[np]AW[mp]AW[mo]AW[mn]AW[mm]AW[nl]AW[ol]AW[pl]AW[ql]AW[rl]AW[rm]AW[sm]AW[oo]AB[no]AB[nn]AB[nm]AB[om]AB[pm]AB[qm]AB[rn]AB[sn]AB[po]AB[op]AB[pp]AB[qp]SZ[19]C[White to kill]
+(;W[rp];B[qn])
+(;W[ro];B[qn];W[on];B[rp])
+(;W[qn]
+(;B[qo]C[CHOICE]
+(;W[ro];B[pn]
+(;W[so];B[qn]
+(;W[rp]C[ OK but there is a neater way. See the comments !RIGHT])
+(;W[sq]C[ Yes, black is dead but there are better ways. See the comments !RIGHT])
+(;W[sp]C[Works, but there are definitely better ways (with less black ko threats)RIGHT]))
+(;W[rp]C[ NiceRIGHT])
+(;W[sp];B[rp]))
+(;W[pn];B[on])
+(;W[rp];B[ro])
+(;W[so];B[ro]))
+(;B[pn]C[CHOICE]
+(;W[ro];B[qo]
+(;W[so];B[qn]
+(;W[rp]C[ OK but there is a neater way. See the comments !RIGHT])
+(;W[sq]C[ Yes, black is dead but there are better ways. See the comments !RIGHT])
+(;W[sp]C[Works, but very ugly. There are definitely better ways (with less black ko threats) to kill black.RIGHT]))
+(;W[rp]C[ Well done.RIGHT])
+(;W[sp];B[rp]))
+(;W[qo];B[ro])
+(;W[so];B[ro])
+(;W[rp];B[ro])))
+(;W[pn];B[qn])
+(;W[rp];B[ro]))

@@ -1,0 +1,58 @@
+(;GE[fuseki]DI[1d]DP[16]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[dp][ep][pd]
+AW[bo][cq][dq]
+PL[B]
+(;B[pp]
+MN[1]
+;W[dd]
+(;B[eq]
+;W[dn]
+;B[iq]
+C[RIGHT]
+)(;B[dm]
+;W[fr]
+;B[hp]
+C[RIGHT]
+)(;B[pj]
+C[RIGHT]
+))(;B[dd]
+;W[pp]
+C[Now how to play in the lower left?]
+(;B[dm]
+;W[fr]
+;B[hp]
+C[RIGHT]
+)(;B[eq]
+;W[dn]
+;B[iq]
+C[Wrong, as the lower black group isn't 
+helping the upper hoshi (4-4) stones in 
+building influence.]
+))(;B[cc]
+C[Wrong. Black is building thickness in 
+the lower left corner so he should play 
+high to make the most of it.]
+)(;B[qq]
+C[Wrong. Black is building thickness in 
+the lower left corner so he should play 
+high to make the most of it.]
+)(;B[eq]
+;W[dn]
+(;B[iq]
+;W[pp]
+C[This white move counters the strength 
+of the marked black stones.]
+LB[pp:4]TR[dp][ep][eq][iq])(;B[pp]
+C[A strange place to tenuki, yet if 
+you are sure that White occupies the 
+last empty corner, this is ok.]
+))(;B[dm]
+;W[fr]
+;B[hp]
+C[RIGHT
+Black controls the centre.]
+))

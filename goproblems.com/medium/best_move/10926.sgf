@@ -1,0 +1,20 @@
+(;GE[best move]DI[2d]DP[12]SO[Field Mouse]CO[0]AW[lb]AW[kb]AW[ka]AW[jb]AW[kc]AW[kd]AW[ma]AW[jd]AW[id]AW[hc]AW[gb]AW[ec]AW[dc]AW[cc]AB[hd]AB[gd]AB[fd]AB[ed]AB[dd]AB[cd]AW[bc]AW[bd]AW[be]AW[ae]AB[ce]AB[cf]AB[bf]AB[af]AB[ie]AB[je]AB[ke]AB[le]AB[ld]AB[lc]AB[mc]AB[mb]AB[nb]AB[na]AB[he]C[How many ko threats does black have here? Consider he will use the threats to fight for the M19 ko and that white will not sacrifice any single point to win that ko!FORCE]LB[de:1]LB[ee:2]LB[fe:3]LB[ge:4]LB[df:5]LB[ef:6]LB[ff:7]LB[gf:8]AB[fc]AW[fb]AP[goproblems]
+(;W[fe];B[ic]C[Lets see; threat nr1]
+(;W[ib];B[gc];W[hb]C[Oh no, you just lost one point - you played twice into your territory white black put there only one stone.])
+(;W[hb];B[ib]C[Threat nr2]
+(;W[ia];B[ha]C[Threat nr3]
+(;W[ga]C[No more ko threats there - correct! Blyx was right :-)RIGHT])
+(;W[jc]C[Black has no more threats there - good!RIGHT])
+(;W[la];B[ja]C[White cannot afford this.]))
+(;W[la];B[ia])))
+(;W[de];B[ic]C[Threat nr1]
+(;W[ib];B[gc];W[hb]C[White just lost one point of territory!])
+(;W[hb];B[ib]C[Threat nr2 :-(]))
+(;W[ee];B[ic]C[Threat nr1]
+(;W[ib];B[gc]C[Unfortunately, black will play this not as a threat, but as a one point sente! (black put one stone into white territory and forced him to play there twice!)])
+(;W[hb];B[ib]C[Threat nr2];W[ia];B[ha]C[Threat nr3. White still cannot connect the ko at M19 because of K19.]))
+(;W[ge]C[Please see the navigation to check the correct answer.])
+(;W[df])
+(;W[ef])
+(;W[ff])
+(;W[gf]))

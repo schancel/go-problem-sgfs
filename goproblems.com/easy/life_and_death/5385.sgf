@@ -1,0 +1,45 @@
+(;GE[life and death]DI[6k]DP[37]SO[Emile]CO[8]AW[ra]AW[sb]AW[sc]AW[rd]AW[qd]AW[pd]AW[qa]AW[pa]AW[ob]AB[na]AB[nb]AB[oc]AB[od]AB[oe]AB[pe]AB[qe]AB[re]AB[se]AB[sd]C[Black to kill]AP[goproblems]
+(;B[qb];W[pc]
+(;B[pb];W[oa]
+(;B[rc]C[Very good, white is deadRIGHT])
+(;B[rb]C[Very good, white is deadRIGHT])
+(;B[qc];W[rc]))
+(;B[rc];W[pb];B[rb];W[qc])
+(;B[qc];W[pb])
+(;B[oa];W[pb])
+(;B[rb];W[pb];B[rc];W[qc]))
+(;B[rc];W[qc]
+(;B[qb];W[rb]
+(;B[pc];W[pb])
+(;B[pb];W[pc]))
+(;B[pc];W[qb])
+(;B[pb];W[qb])
+(;B[rb];W[qb])
+(;B[oa];W[pb]
+(;B[pc];W[rb])
+(;B[rb];W[qb])
+(;B[qb];W[pc])))
+(;B[rb];W[qb];B[rc];W[qc])
+(;B[qc];W[pc]
+(;B[rc];W[pb];B[rb];W[qb])
+(;B[pb];W[qb];B[rc];W[pb])
+(;B[qb];W[pb])
+(;B[oa];W[pb]))
+(;B[pc];W[qb]
+(;B[qc];W[rc])
+(;B[rc];W[qc]))
+(;B[pb];W[qb]
+(;B[qc];W[pc];B[rc];W[rb])
+(;B[rc];W[pc]
+(;B[qc];W[rb])
+(;B[rb];W[qc])))
+(;B[oa];W[pb]
+(;B[pc];W[qc]
+(;B[qb];W[rb])
+(;B[rc];W[rb]))
+(;B[qc];W[pc])
+(;B[rc];W[rb]
+(;B[qc];W[pc])
+(;B[pc];W[qc]))
+(;B[qb];W[pc])
+(;B[rb];W[rc])))

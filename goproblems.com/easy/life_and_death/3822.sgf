@@ -1,0 +1,12 @@
+(;GE[life and death]DI[15k]DP[64]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[&#30333;&#26041;]PB[&#40657;&#26041;]AW[lq][mq][nq][jr][kr][lr][nr][or][is][os]AB[ko][lo][mo][no][hp][jp][op][jq][pq][hr][ir][mr][pr][hs][ks][ls][ms][ns][ps]C[Kill the group]PL[B]
+;B[js]CR[js]
+;W[is]CR[is]
+(;B[js]CR[js]
+;W[ms]CR[ms]C[White have two eyes, the group is now alive.])
+(;B[ms]CR[ms]
+(;W[ls]CR[ls]
+;B[js]CR[js]C[RIGHT You successfully resisted to the 'Call of the nature' by not eating J1 immediatly. Great.])
+(;W[js]CR[js]
+;B[ls]CR[ls]C[RIGHT])))

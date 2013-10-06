@@ -1,0 +1,60 @@
+(;GE[life and death]DI[1k]DP[19]SO[MeleeNewb]CO[0]AB[sf]AB[rf]AB[qf]AB[pf]AB[pg]AB[ph]AB[pi]AB[pj]AB[pk]AB[pl]AW[qk]AW[qj]AW[qi]AW[qh]AW[qg]AW[rg]AB[pm]AB[qm]AB[rm]AB[sm]AW[ql]AW[rl]C[Do your best.FORCE]AP[goproblems]
+(;B[si];W[sh]
+(;B[sg];W[ri]
+(;B[rh];W[pd]LB[qd:K]C[White makes a ko threat. R16 if you wish to respond.]
+(;B[qd];W[sh];B[sj];W[sk];B[rh]C[Good job.RIGHT])
+(;B[sj];W[qd]C[Black could have responded to the threat and still forced white to find another.])
+(;B[sh];W[qd]C[Black could have responded to the threat and still forced white to find another.])
+(;B[sl];W[qd]C[Black could have responded to the threat and still forced white to find another.]))
+(;B[sj];W[sk]C[You just wasted a ko threat.]))
+(;B[ri];W[rj])
+(;B[sl];W[sk]
+(;B[sg];W[ri]C[Not the best ko.])
+(;B[sj];W[rj]C[Not the best ko.])
+(;B[ri];W[rj]))
+(;B[sk];W[ri];B[sj];W[sl];B[sg];W[rj]C[Not the best ko.])
+(;B[sj];W[sk]
+(;B[sg];W[ri]C[Not the best ko.])
+(;B[sl])))
+(;B[sg];W[sh]
+(;B[si])
+(;B[sl];W[sk]
+(;B[sj];W[rj]C[Not the best ko.])
+(;B[si])
+(;B[rj];W[ri])
+(;B[ri];W[rj]))
+(;B[sj];W[sk]
+(;B[si])
+(;B[sl])
+(;B[ri];W[rj])
+(;B[rj];W[ri]))
+(;B[ri];W[rj])
+(;B[rj];W[ri])
+(;B[sk]C[See next problem.]))
+(;B[sh];W[sg]
+(;B[sl];W[sk]
+(;B[sj];W[rj]C[Not the best ko.])
+(;B[si];W[sj];B[rj];W[rk])
+(;B[rj];W[ri])
+(;B[ri];W[rh]
+(;B[sj];W[si]C[Not the best ko.])
+(;B[si];W[rj])
+(;B[rj];W[si])))
+(;B[sk];W[sl])
+(;B[sj];W[sl]
+(;B[ri];W[rj])
+(;B[si])
+(;B[rj];W[ri]))
+(;B[si];W[sk]
+(;B[sl])
+(;B[rj];W[ri])
+(;B[sj];W[sl]))
+(;B[ri];W[rj];B[sk];W[sj]
+(;B[sl];W[si])
+(;B[si];W[sl])
+(;B[rh];W[sl]))
+(;B[rj];W[ri]
+(;B[si];W[sk])
+(;B[sk];W[sl];B[si])))
+(;B[rh];W[ri])
+(;B[ri];W[rj]))

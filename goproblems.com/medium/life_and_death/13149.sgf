@@ -1,0 +1,41 @@
+(;GE[life and death]DI[2k]DP[23]SO[GeGe]CO[0]AB[qa]AB[rb]AB[rc]AB[rd]AB[pc]AB[od]AB[nd]AB[md]AB[ld]AB[kc]AB[jc]AB[ib]AB[id]AW[jb]AW[kb]AW[lc]AW[mc]AW[nc]AW[oc]AW[pb]AW[qb]AW[la]AB[ja]AP[goproblems]
+(;B[oa];W[pa]
+(;B[ob];W[ra]
+(;B[qc];W[na]
+(;B[qa]
+(;W[mb]C[CHOICE]
+(;B[nb];W[pb];B[ma]C[Ko, the best black can get.RIGHT])
+(;B[ia];W[nb];B[ka];W[pb];B[lb];W[kb];B[jb];W[pa];B[lb]C[Ko, the best black can get.RIGHT]))
+(;W[nb]
+(;B[mb];W[pb];B[lb];W[ma];B[lb];W[mb];B[ia]C[RIGHT])
+(;B[pb];W[mb])))
+(;B[mb];W[nb];B[lb];W[ma];B[lb];W[ka]C[White lives! You can do better...]))
+(;B[ma];W[nb]C[White lives! You can do better...]))
+(;B[mb];W[nb]C[White lives! You can do better...]))
+(;B[mb];W[nb]
+(;B[pa];W[oa]
+(;B[ra];W[ma]C[White lives! You can do better...])
+(;B[ma];W[ra]C[White lives! You can do better...]))
+(;B[oa];W[pa]C[White lives! You can do better...]))
+(;B[na];W[oa]
+(;B[ra];W[nb];B[pa];W[ma]C[White lives! You can do better...])
+(;B[mb];W[nb]C[White lives! You can do better...])
+(;B[ia];W[nb];B[ka];W[lb];B[ra];W[pa]C[White lives! You can do better...])
+(;B[nb];W[mb]C[White lives! You can do better...]))
+(;B[pa];W[oa]
+(;B[ra];W[mb]C[White lives! You can do better...])
+(;B[nb];W[mb]C[White lives! You can do better...]))
+(;B[nb];W[mb]
+(;B[na];W[oa]C[White lives! You can do better...])
+(;B[oa];W[pa]
+(;B[ia];W[ob]
+(;B[ka];W[na]C[White lives! You can do better...])
+(;B[na];W[ka]C[White lives! You can do better...]))
+(;B[ma];W[ob]C[White lives! You can do better...])))
+(;B[ob];W[oa];B[nb];W[mb];B[qc];W[na]C[White lives! You can do better...])
+(;B[ma];W[oa]
+(;B[ia];W[nb]C[White lives! You can do better...])
+(;B[ra];W[mb];B[ia];W[na]C[White lives! You can do better...]))
+(;B[qc];W[oa]
+(;B[mb];W[nb]C[White lives! You can do better...])
+(;B[nb];W[mb]C[White lives! You can do better...])))

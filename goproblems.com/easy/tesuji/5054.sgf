@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[10k]DP[54]SO[marwin]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[qk][pl][rl][qm][rm][pn][rn][po][ro][np][pp][nq][qq][rq][mr][or][pr]AB[om][pm][on][qn][oo][op][oq][pq][sq][qr][rr][ss]
+(;B[qp]CR[qp]
+;W[rp]CR[rp]
+;B[qo]CR[qo]C[Black is dead])
+(;B[rp]CR[rp]
+;W[qp]CR[qp]
+;B[qo]CR[qo]C[RIGHT]))

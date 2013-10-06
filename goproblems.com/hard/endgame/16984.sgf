@@ -1,0 +1,32 @@
+(;GE[endgame]DI[6d]DP[3]SO[py687]CO[0]AB[mr]AB[mq]AB[mp]AB[mo]AB[mn]AB[mm]AB[nm]AB[nl]AB[nk]AB[kq]AB[jq]AB[iq]AB[hr]AB[hs]AB[gs]AB[fr]AW[gr]AW[gq]AW[hq]AW[ip]AW[jp]AW[kp]AW[ko]AW[ln]AW[lm]AW[lq]AW[ir]AW[ns]AW[nr]AW[nq]AW[np]AW[no]AW[nn]AW[om]AW[ol]AW[ok]AW[ml]AW[mk]AW[lk]AW[kk]AW[nj]AW[ni]AW[oi]AW[pi]AW[qi]AW[qj]AB[pj]AB[oj]AB[pk]AB[qk]AB[ql]AW[rk]AW[rl]AB[qn]AB[pn]AB[po]AB[rn]AW[qo]AW[qp]AW[pp]AW[pq]AW[sp]AB[rq]AB[qq]AW[rr]AB[pr]AB[or]AB[eq]AB[fo]AW[go]AW[hn]AW[hm]TR[lq]C[How can Black respond to the marked stone?]AP[goproblems]
+(;B[jr];W[kr]
+(;B[js];W[lr];B[ks];W[ls];B[is]C[You lost points unnecessarily....RIGHT])
+(;B[is];W[lr]C[];B[ks];W[ls];B[js]C[You lost points unnecessarily....RIGHT]))
+(;B[is];W[kr];B[jr])
+(;B[js];W[kr];B[jr])
+(;B[kr];W[lr]C[]
+(;B[js];W[ls]
+(;B[ks]C[Sure, but White gained some extra points.RIGHT])
+(;B[is];W[ks];B[jr]C[You lost points unnecessarily....RIGHT])
+(;B[jr];W[ks];B[is]C[You lost points unnecessarily....RIGHT]))
+(;B[ls];W[lp]
+(;B[is];W[ms];B[ks]MA[mr]MA[mq]MA[mp]MA[mo]MA[mn]MA[mm]MA[nm]MA[nl]MA[nk]C[Nice! You had to sacrifice the marked stones, but you still saved some territory.RIGHT])
+(;B[js];W[ms];B[ks]C[Nice! You had to sacrifice the marked stones, but you still saved some territory.RIGHT]MA[mr]MA[mq]MA[mp]MA[mo]MA[mn]MA[mm]MA[nm]MA[nl]MA[nk])
+(;B[jr];W[ms]
+(;B[js];W[ks];B[is];W[ls]C[You lost points unnecessarily....RIGHT])
+(;B[ks];W[js]))
+(;B[ks];W[js]
+(;B[is];W[fs])
+(;B[jr];W[ms])
+(;B[ms];W[lo]))
+(;B[ms];W[lo];B[ks];W[js]))
+(;B[ks];W[ls]
+(;B[js]C[Sure, but White gained some extra points.RIGHT])
+(;B[is]C[Sure, but White gained some extra points.RIGHT])
+(;B[jr];W[js])))
+(;B[lp];W[kr];B[lr];W[jr];B[lq];W[ls])
+(;B[lr];W[kr];B[lp])
+(;B[ls];W[kr])
+(;B[ks];W[kr])
+(;B[ms];W[kr])
+(;B[lo];W[kr]))

@@ -1,0 +1,311 @@
+(;GE[endgame]DI[3k]DP[26]SO[wtd]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[dc][ec][fc][gc][ed][fe][he][ff][hf][gg][gh][ih][di][ei][gi]AB[cb][cc][cd][be][de][cf][ef][bg][eg][ah][ch][dh][eh][fh][bi]C[No komi, no prisoners yet - Black to win.]
+(;B[ea]
+(;W[fa]
+(;B[da]
+;W[eb]
+;B[fi]
+;W[db]
+;B[ca]TR[dc][ec][fc][gc]C[RIGHT You won by 1. When White has the 4 marked stones in place, 1st move bF9, followed by wF8, bD9, and wG9, is the generally recommended 
+sequence, to allow the encroachment without losing sente. However, when the gote play is worth more than 4 points, wE9 is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.])
+(;B[db]
+;W[eb]
+;B[fi]
+;W[da]
+;B[ca]
+;W[ea]C[Only jigo. Your 1st move was correct, and could have allowed a win by 1, but your 2nd should have been at 'D9' rather than 'D8'.])
+(;B[fi]
+;W[da]
+;B[db]
+;W[eb]
+;B[ca]
+;W[ea]C[Only jigo. Your 1st move was correct, and could have allowed a win by 1, but your 2nd should have been at 'D9' rather than 'F1'.]))
+(;W[fb]C[White does not play this as F9 is 1 point better.]
+;B[fi]
+;W[db]
+;B[da]
+;W[fa]C[B +2])
+(;W[da]C[White does not play this as F9 is 2 points better.]
+;B[db]
+;W[eb]
+;B[fa]
+;W[ga]
+;B[ca]
+;W[fb]
+;B[fi]
+;W[da]
+;B[ea]C[B +3])
+(;W[eb]C[White does not play this as F9 is 2 points better.]
+;B[fa]
+;W[ga]
+;B[da]
+;W[fb]
+;B[fi]
+;W[db]
+;B[ca]C[B +3])
+(;W[db]C[White does not play this as F9 is 2 points better.]
+;B[da]
+;W[fb]
+;B[fa]
+;W[ga]
+;B[fi]C[B +3])
+(;W[fi]C[The value of the gote move (5 points) is too small for W to ignore the encroachment.]
+;B[ga]
+;W[db]
+;B[da]
+;W[fb]
+;B[fa]
+;W[hb]
+;B[ha]
+;W[ib]
+;B[gb]
+;W[hc]C[B +4]))
+(;B[fa]
+(;W[fb]
+(;B[ea]
+(;W[ga]
+(;B[db]
+(;W[eb]
+(;B[fi]
+;W[da]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;B[da]CR[da]
+;W[fi]CR[fi]C[You lost by 1. The small monkey jump to 'E9' allows a 1 point win.]))
+(;W[fi]
+;B[eb]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.]))
+(;B[fi]
+;W[da]
+;B[db]
+;W[eb]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.]))
+(;W[da]C[White does not play this as G9 is 1 point better.]
+;B[db]
+;W[ga]
+;B[eb]
+;W[fi]C[B +1]))
+(;B[da]
+(;W[ea]
+(;B[eb]
+(;W[ga]
+(;B[fi]
+;W[db]
+;B[ca]
+;W[ea]TR[dc][ec][fc][gc]C[Only jigo. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.])
+(;B[db]
+;W[fi]
+;B[ea]TR[dc][ec][fc][gc]C[Only jigo. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.])
+(;B[ea]
+;W[db]
+;B[ca]
+;W[fi]TR[dc][ec][fc][gc]C[You lost by 1. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.]))
+(;W[db]C[W does not play this as B can choose between a damaging ko for W or the same result as wG9, so W plays G9 here as simpler.]
+(;B[fi]
+;W[ea]
+;B[ca]
+;W[ga]C[Jigo])
+(;B[ea]
+;W[ga]
+;B[ca]
+;W[fi]C[W +1])
+(;B[ga]
+;W[ea]C[If B could win this ko, the result would be bad for W. If B cannot win the ko, the sequence is 1 point worse for B than the previous move being at F1, instead of G9.]
+;B[ca]
+;W[eb]
+;B[fi]C[W +1])))
+(;B[fi]
+;W[db]
+(;B[eb]
+;W[ga]
+;B[ca]
+;W[ea]TR[dc][ec][fc][gc]C[Only jigo. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.])
+(;B[ca]
+;W[ga]TR[dc][ec][fc][gc]C[Only jigo. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.]))
+(;B[db]
+(;W[fi]
+;B[eb]
+;W[ga]
+;B[ea]TR[dc][ec][fc][gc]C[Only jigo. Your 1st 2 moves are the generally recommended play when the 4 marked stones are in 
+place, to allow the encroachment without losing sente; after which White is supposed to play outside hane at 'G9' (this would lead to a better result by 1 for Black than the 
+solution). However, when the gote play is worth more than 4 points, the White throw-in at 'E9' is 2 points worse for Black than wG9. Because of this, if sente after both positions 
+are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.])
+(;W[eb]C[W does not play this as F1 is 1 point better.]
+;B[fi]C[B +1])))
+(;W[ga]LB[ea:x][ga:y]TR[dc][ec][fc][gc]C[When the 4 marked stones are in place, this outside hane at 'y' is the usually recommended reply to bD9. However, the throw-in at 'x' instead, is 2 points better for White when the 
+gote move is worth more than 4 points. Because of this, if sente after both positions are played out is worth nothing, the small monkey jump to 'E9' is the sole best 1st move.]
+;B[fi]
+;W[ea]
+;B[db]
+;W[eb]C[B +2]))
+(;B[fi]
+(;W[da]
+;B[db]
+;W[eb]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;W[db]
+;B[da]
+;W[ea]
+;B[eb]
+;W[ga]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])))
+(;W[ga]C[W does not play this as F9 is 2 points better.]
+(;B[da]
+;W[fb]
+;B[fi]
+;W[ea]
+;B[db]
+;W[eb]C[B +2])
+(;B[ea]
+;W[fb]
+;B[db]
+;W[fi]
+;B[eb]C[Jigo]))
+(;W[eb]C[W does not play this as F9 is 3 points better.]
+;B[ea]
+;W[da]
+;B[db]
+;W[ga]
+;B[ca]
+;W[fb]
+;B[fi]
+;W[da]
+;B[ea]C[B +3])
+(;W[da]C[W does not play this as F8 is 3 points better.]
+;B[db]
+;W[eb]
+;B[ea]
+;W[ga]
+;B[ca]
+;W[fb]
+;B[fi]
+;W[da]
+;B[ea]C[B +3])
+(;W[fi]C[The value of the gote move (5 points) is too small for W to ignore the encroachment.]
+;B[ha]
+;W[db]
+;B[da]
+;W[eb]
+;B[ea]
+;W[gb]
+;B[ga]
+;W[hb]
+;B[ib]
+;W[ic]
+;B[ia]C[B +4]))
+(;B[da]
+(;W[ea]
+(;B[db]
+(;W[fi]
+;B[eb]
+;W[fb]
+;B[fa]
+;W[ga]
+;B[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;W[eb]C[W does not play this as F1 is 1 point better.]
+;B[fi]C[B +1]))
+(;B[eb]
+;W[fb]
+(;B[fa]
+(;W[ga]
+(;B[fi]
+;W[db]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;B[db]
+;W[fi]
+;B[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;B[ea]
+;W[db]
+;B[ca]
+;W[fi]C[You lost by 1. The small monkey jump to 'E9' allows a 1 point win.]))
+(;W[db]C[W does not play this as B can choose between a damaging ko for W or the same result as wG9, so W plays G9 here as simpler.]
+(;B[fi]
+;W[ea]
+;B[ca]
+;W[ga]C[Jigo])
+(;B[ea]
+;W[ga]
+;B[ca]
+;W[fi]C[W +1])
+(;B[ga]
+;W[ea]C[If B could win this ko, the result would be bad for W. If B cannot win the ko, the sequence is 1 point worse for B than the previous move being at F1, instead of G9.]
+;B[ca]
+;W[eb]
+;B[fi]C[W +1])))
+(;B[db]
+(;W[fi]
+;B[fa]
+;W[ga]
+;B[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;W[fa]C[W does not play this as F1 is 3 points better.]
+;B[fi]C[B +3]))
+(;B[fi]
+;W[db]
+;B[ca]C[You lost by 1. The small monkey jump to 'E9' allows a 1 point win.]))
+(;B[fi]
+;W[db]
+;B[ca]C[You lost by 1. The small monkey jump to 'E9' allows a 1 point win.]))
+(;W[eb]C[W does not play this as E9 is 1 point better.]
+;B[ea]
+;W[fa]
+;B[fi]
+;W[db]
+;B[ca]C[B +1])
+(;W[fi]C[The value of the gote move (5 points) is too small for W to ignore the encroachment.]
+;B[fa]
+;W[eb]
+;B[ea]
+;W[gb]
+;B[ga]
+;W[hb]
+;B[ha]
+;W[ib]
+;B[db]C[B +4]))
+(;B[db]
+(;W[eb]
+(;B[fi]
+;W[da]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.])
+(;B[ea]
+;W[fa]
+;B[fi]
+;W[da]
+;B[ca]
+;W[ea]C[Only jigo. The small monkey jump to 'E9' allows a 1 point win.]))
+(;W[fi]C[W does not play this as E8 is 2 points better.]
+;B[ga]
+;W[ha]
+;B[ea]
+(;W[eb]
+;B[fa]
+;W[hb]C[B +2])
+(;W[hb]C[W does not play this as E8 is 1 point better (although with loss of sente which does not matter here.]
+;B[eb]
+;W[gb]
+;B[fa]C[B +3])))
+(;B[fi]
+;W[db]
+;B[da]
+;W[ea]
+;B[ca]C[You lost by 1. A small monkey jump to 'E9' allows a 1 point win. The capture would have to be worth 10 points for 1st move 'F1' to be a solution. More than 10, and starting at 'F1' would be the sole best move.]))

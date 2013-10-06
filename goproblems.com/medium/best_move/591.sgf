@@ -1,0 +1,5 @@
+(;GE[best move]DI[4k]DP[28]SO[adum]CO[8]AW[ic]AW[dp]AW[qp]AW[kq]AB[oc]AB[dd]AB[qd]AB[qj]LB[ic:1]LB[fc:A]LB[gc:B]LB[kc:C]C[white plays one. if black wants to respond here, A, B, C, or D?FORCE]LB[lc:D]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[kc];W[fc]LB[eb:A]LB[dc:B]C[black can now play a move like A or B to attack, and has a good moyo going in upper rightRIGHT])
+(;B[fc];W[lc]C[too easy on white, these stones are safe])
+(;B[gc];W[lc]LB[oc:A]C[white is safe because A is far, and moyo in upper right gone])
+(;B[lc];W[fc]LB[lc:A]C[right direction, but too loose. white stones are safe because of distance of A.]))

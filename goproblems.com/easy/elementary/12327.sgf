@@ -1,0 +1,39 @@
+(;GE[elementary]DI[5k]DP[32]SO[santa c]CO[0]AB[sr]AB[sq]AB[qr]AB[qp]AB[qo]AW[ps]AW[or]AW[oq]AW[op]AW[oo]AW[pn]AW[qn]AW[sn]AW[rn]AW[rs]AB[qs]C[W to kill]AW[os]AB[rr]AP[goproblems]
+(;W[qq];B[pq]
+(;W[pp]
+(;B[pr]
+(;W[rp];B[ro]
+(;W[so]C[nice! :)RIGHT])
+(;W[sp]C[nice! :)RIGHT]))
+(;W[ro];B[rp])
+(;W[so];B[rp])
+(;W[sp];B[rp]))
+(;B[rq];W[ro]MA[pr]MA[rp]C[RIGHT])
+(;B[ro];W[so]
+(;B[rq];W[sp]MA[rp]MA[pr]C[RIGHT])
+(;B[sp];W[pr]C[RIGHT])
+(;B[pr];W[rp]C[RIGHT])))
+(;W[pr]
+(;B[pp]
+(;W[rp];B[ro]
+(;W[so]C[nice! :)RIGHT])
+(;W[sp]C[nice! :)RIGHT]))
+(;W[ro];B[rp])
+(;W[so];B[rp])
+(;W[sp];B[rp]))
+(;B[rq];W[ro]MA[rp]MA[pp]C[RIGHT])
+(;B[ro];W[so]
+(;B[sp];W[pp]C[RIGHT])
+(;B[rq];W[sp]MA[rp]MA[pp]C[RIGHT])
+(;B[pp];W[rp]C[RIGHT])))
+(;W[rp];B[ro])
+(;W[ro];B[rp])
+(;W[so];B[rp])
+(;W[sp];B[rp]))
+(;W[ro];B[rp]MA[qq]MA[pq])
+(;W[rp];B[ro])
+(;W[so];B[rp]MA[qq]MA[pq])
+(;W[pq];B[qq]MA[ro]MA[rp])
+(;W[sp];B[rp]MA[qq]MA[pq])
+(;W[pp];B[qq]MA[rp]MA[ro])
+(;W[pr];B[qq]MA[rp]MA[ro]))

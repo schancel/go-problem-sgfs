@@ -1,0 +1,12 @@
+(;GE[best move]DI[4d]DP[7]SO[wtd]CO[6]AB[pr][qr][qq][qp][rp][ro][sr]AW[or][nq][pq][qo][qn][rn][pp][ps]LB[sr:A]
+C[Instead of 'S2', black has responded to the hane at 'Q1', with 'A'. Exact the cost of this mistake.]
+
+(;W[sn];B[qs]C[RIGHT White can play 'T6' in sente if he wants. This move is not sente if black had replied to white 'Q1' correctly (at 'S2'), 
+and it may give white options in the upper right side if black has some stones there.])
+
+(;W[rs];B[qs]
+(;W[rr];B[so]C[Black lives, while white has lost 2 stones needlessly, and left other aji.])
+
+(;W[so];B[rr]C[Black lives, while white has lost 1 or 2 needlessly.]))
+
+(;W[so];B[qs]C['T5' is sente but after 'R1' it doesn't really gain white anything.]))

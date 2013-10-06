@@ -1,0 +1,40 @@
+(;GE[life and death]DI[5d]DP[4]SO[kvzrock]CO[5]SZ[19]AW[lb]AW[mb]AW[pb]AW[rb]AW[kc]AW[nc]AW[nd]AW[od]AW[rd]AW[pe]AW[qe]AW[re]AB[nb]AB[ob]AB[lc]AB[mc]AB[oc]AB[pc]AB[rc]AB[pd]AB[qd]C[B to live unconditionally.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[sb];W[qb]C[CHOICE];B[qc];W[na]
+(;B[oa]
+(;W[sd]
+(;B[sc];W[ra]
+(;B[ma];W[kb];B[pa];W[qa]C[B dies.])
+(;B[pa];W[qa]C[B dies.]))
+(;B[ma];W[kb];B[sc];W[ra]))
+(;W[ra];B[ma];W[kb];B[pa];W[qa]))
+(;B[pa];W[ra])
+(;B[ra]))
+(;B[sc];W[qb];B[qc];W[sb]C[4 vs 3. B dies.])
+(;B[qb];W[sc]C[B dies.])
+(;B[pa];W[qb]LB[qc:A]LB[sc:B]C[A and B are miai. B dies.])
+(;B[ma];W[kb];B[sb]
+(;W[qb];B[qc];W[ra];B[pa];W[na]
+(;B[qa];W[oa];B[pa];W[na];B[qa]C[B lives.RIGHT])
+(;B[sc];W[qa])
+(;B[oa]))
+(;W[qa];B[qc];W[qb]
+(;B[sc]
+(;W[na]C[CHOICE]
+(;B[pa];W[oa]
+(;B[pa];W[oa];B[ra];W[sa];B[na])
+(;B[ra];W[sa]))
+(;B[ra];W[sa];B[pa];W[oa]
+(;B[ra];W[sa];B[pa];W[oa];B[na];W[la]
+(;B[ra];W[sa];B[pa]C[Double ko. B lives.RIGHT])
+(;B[pa];W[oa];B[ra]C[Double ko. B lives.RIGHT]))
+(;B[pa]))
+(;B[oa];W[sd];B[ra];W[sa]C[Ko.]))
+(;W[pa]C[CHOICE];B[na];W[la];B[sa]C[Seki.RIGHT]))
+(;B[pa];W[oa]
+(;B[na];W[la];B[pa]C[Direct ko.])
+(;B[ra];W[sa];B[sc];W[sd];B[ra]C[Ko.]))
+(;B[ra];W[sa];B[sc]
+(;W[na]
+(;B[pa])
+(;B[oa];W[sd];B[ra];W[sa]C[Ko.]))
+(;W[sd];B[oa];W[la];B[ra];W[sa]C[Ko.])))))

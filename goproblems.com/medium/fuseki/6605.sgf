@@ -1,0 +1,16 @@
+(;GE[fuseki]DI[1k]DP[19]SO[MrMoto]CO[8]AB[cb]AB[cc]AB[dd]AB[de]AB[ef]AB[dl]AB[el]AB[fl]AB[gk]AB[qd]AW[bb]AW[bc]AW[cd]AW[dc]AW[cg]AW[ci]AW[eh]AB[dm]AW[em]AW[en]AW[gl]AW[gm]AW[gn]AW[dn]AB[cn]AB[co]AW[do]AB[cp]AB[dp]AB[eo]AB[fo]AB[fp]AB[fq]AB[gr]AB[hq]AW[ep]AW[eq]AW[cq]AW[dq]AW[er]AW[fr]AW[pq]MA[bb]C[How should black deal with the top left corner?]AP[goproblems]
+(;B[ec];W[db];B[eb];W[ca]C[Black cannot prevent the connection along the side.]MA[cg]MA[cd]MA[be]MA[bf])
+(;B[db];W[ec]
+(;B[eb];W[fc]C[Now Black has two weak groups in trouble.])
+(;B[bd];W[ce];B[be];W[cf];B[ba];W[eb]C[Well, you got the corner, but was it worth it?  See comments for more analysis.]))
+(;B[ce];W[bd]
+(;B[be];W[ec]C[This is dangerous for Black.])
+(;B[ec];W[db];B[eb];W[ca]MA[be]C[Close, but now Black can only prevent the connection on the left in gote.]))
+(;B[bd];W[ce]
+(;B[cf];W[be];B[bf];W[ad];B[ec]
+(;W[db]C[CHOICE];B[eb];W[ca]C[Well done!  Black seals off the corner in sente.RIGHT])
+(;W[dg]C[CHOICE]
+(;B[db];W[df]C[Letting White cut here was a big mistake.])
+(;B[df];W[db];B[eb];W[ca]C[Well done!  Black seals off the corner in sente.  In the actual game, White neglected to play D13 before D18.RIGHT]MA[dg])))
+(;B[be];W[cf];B[db];W[ec];B[ba];W[eb]C[Well, you got the corner, but was it worth it?  See comments for more analysis.])
+(;B[db];W[ec];B[be];W[cf];B[ba];W[eb]C[Well, you got the corner, but was it worth it?  See comments for more analysis.])))

@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5d]DP[4]SO[Kijana]CO[8]SZ[19]AW[ea]AW[na]AW[db]AW[eb]AW[nb]AW[dc]AW[gc]AW[lc]AW[nc]AW[oc]AW[pc]AW[dd]AW[gd]AW[hd]AW[id]AW[jd]AW[kd]AW[ld]AW[qd]AW[ce]AW[ee]AW[pe]AW[re]AW[se]AW[bf]AW[cf]AW[pf]AW[bg]AW[qg]AW[rg]AW[oh]AW[ph]AW[pi]AW[oj]AW[ok]AW[pk]AW[ol]AW[am]AW[bm]AW[cm]AW[om]AW[pm]AW[qm]AW[rm]AW[bn]AW[dn]AW[sn]AW[co]AW[ho]AW[io]AW[jo]AW[ko]AW[lo]AW[mo]AW[qo]AW[ro]AW[so]AW[dp]AW[hp]AW[mp]AW[op]AW[qp]AW[dq]AW[eq]AW[hq]AW[mq]AW[pq]AW[er]AW[hr]AW[mr]AW[or]AW[es]AW[os]AB[oa]AB[pa]AB[cb]AB[ob]AB[pb]AB[rb]AB[cc]AB[hc]AB[ic]AB[jc]AB[kc]AB[qc]AB[ad]AB[cd]AB[rd]AB[sd]AB[be]AB[qh]AB[rh]AB[qi]AB[pj]AB[qj]AB[qk]AB[pl]AB[ql]AB[rl]AB[ao]AB[bo]AB[bp]AB[cp]AB[ip]AB[jp]AB[kp]AB[lp]AB[rp]AB[sp]AB[cq]AB[iq]AB[lq]AB[qq]AB[rq]AB[cr]AB[dr]AB[ir]AB[lr]AB[pr]AB[qr]AB[ds]AB[ps]LB[ia:B]LB[sa:C]LB[ab:A]LB[rj:D]LB[br:G]LB[kr:F]LB[sr:E]C[Black to gain optimal result here - please play A,B,C,D,E,F or G]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]TM[]PW[White]PB[Black]
+(;B[ia]C[Four on the third line is dead])
+(;B[kr]C[Door formation is dead])
+(;B[sr];W[sb]C[Gun six can be turned into seki by white, S18 group is the biggest play])
+(;B[br];W[sb]C[Gun eight group (A5 group) is alive (no seki) because of liberty at A6])
+(;B[ab];W[sb]C[S18 group is bigger than J group])
+(;B[rj];W[sb]C[Three space notchers (R10 group) can be turned into seki after wT9 , T11 - S18 group is bigger];B[rc];W[ra])
+(;B[sa]C[RIGHT];W[rj]LB[ia:B]LB[ab:A]LB[sj:C]LB[br:F]LB[kr:E]LB[sr:D]C[Where to play now ?]
+(;B[ab];W[an]LB[ba:A]LB[ia:B]LB[sj:C]LB[br:F]LB[kr:E]LB[sr:D]C[Now what?]
+(;B[ba];W[br]C[A18 is enough for J group to live])
+(;B[ia]C[Four on the third line is dead])
+(;B[sj];W[si]C[Black cant save this group])
+(;B[sr];W[br]C[Left bottom corner is bigger])
+(;B[kr]C[Door formation is dead])
+(;B[br];W[sr]C[Now what? No more letters for you ;)]
+(;B[rr];W[rs]C[oooops])
+(;B[rs];W[rr]C[RIGHT])))
+(;B[ia];W[ca]C[Four on the third line is dead])
+(;B[sj];W[si]C[Black cant save this group now])
+(;B[sr];W[ca]C[Black gets 5 points for preventing seki, but loses big time in the left top corner])
+(;B[kr]C[Door formation is dead])
+(;B[br];W[ca]C[Gun eight group is alive, no seki, because of A6 liberty])))

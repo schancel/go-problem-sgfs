@@ -1,0 +1,47 @@
+(;GE[life and death]DI[10k]DP[54]SO[santa c]CO[7]SZ[9]AW[ig]AW[hh]AW[gh]AW[fh]AW[gg]AB[dg]AB[ef]AB[ff]AB[fg]AB[gf]AB[hg]AB[hf]AW[eg]AW[eh]AW[dh]AB[ch]C[The white stones spoil the whole looks of your game - Can you do anything about them? ;)]AB[cg]AB[df]AP[goproblems]
+(;B[di];W[ei]
+(;B[gi]C[H1 and J2 are miai to live now... - As dead as can be ;)]
+(;W[hi];B[ih]C[Nice! ;)CHOICERIGHT])
+(;W[ih];B[hi]C[Nice! ;)CHOICERIGHT]))
+(;B[ih]C[Nice! ;)];W[ii]
+(;B[gi]C[Nice! ;)RIGHT])
+(;B[if];W[gi];B[ih]C[Ko :(]MA[ig]))
+(;B[hi];W[gi]
+(;B[ih];W[ii]C[White lives!])
+(;B[ii];W[ih]C[White lives!]))
+(;B[ii];W[ih]C[White lives! ('A' and 'B' are miai to live..)]LB[gi:A]LB[hi:B]))
+(;B[ih]
+(;W[di]
+(;B[fi]
+(;W[gi]
+(;B[if]C[Nice! ;)CHOICERIGHT])
+(;B[ii];W[hi];B[ih]C[Well, I dunno why u went for such a trip... As long as you got there... Nice ;)RIGHT]))
+(;W[ii]
+(;B[gi]C[Nice! ;)CHOICERIGHT])
+(;B[if];W[gi];B[ih]MA[ig]C[Ko.. Isn't considered a valid solution if one can kill unconditionally..])))
+(;B[gi];W[fi]C[Can you really deny white from having a 2nd eye now? ;)]
+(;B[if];W[hi]C[White lives!])
+(;B[ii];W[hi]C[White lives!])
+(;B[hi];W[ii]C[White lives!]))
+(;B[if]C[Nice! ;) ('A' and 'B' are miai, now..)RIGHT]LB[fi:A]LB[hi:B])
+(;B[ii];W[hi]LB[fi:A]LB[ih:B]C[White lives! ('A' and 'B' are miai to live..)])
+(;B[hi];W[ii]MA[ih]C[Ko - Not good enough.]))
+(;W[fi]
+(;B[di]C[Nice! ;)CHOICERIGHT])
+(;B[hi]C[Nice! ;) ('A' and 'B' are miai now..;)RIGHT]LB[di:A]LB[ii:B])
+(;B[if]C[Nice! ;) ('A' and 'B' are miai now..;)RIGHT]LB[di:A]LB[hi:B]LB[bg:C]))
+(;W[ii]
+(;B[di]TR[ei]TR[gi]C[RIGHT])
+(;B[gi]TR[fi]TR[di]C[RIGHT])))
+(;B[ei];W[di]C[Wrong as White can easily live - '1' is a guaranteed eye, and getting a second one here, isn't a problem ;)]LB[ei:1])
+(;B[fi]C[];W[gi]C[White lives! :( 'A' and 'B' are miai...)]LB[if:A]LB[ih:B])
+(;B[gi]
+(;W[hi]
+(;B[ih]C[Yash - Obviously denying black from having a 2nd eye! ;) (Makes 'A' and 'B' miai) - Would never happen ;)]LB[di:A]LB[fi:B])
+(;B[fi];W[ih]C[Black can't deny white from having a second eye..])
+(;B[ei];W[ih]C[Black can't deny white from having a second eye..])
+(;B[di]C[];W[ih]C[Black can't deny white from having a second eye..])
+(;B[ii];W[ih]C[Black can't deny white from having a second eye..]))
+(;W[di];B[fi];W[ih];B[hi]C[Seki. - Not good enough..CHOICE]))
+(;B[hi];W[gi]LB[di:A]LB[ei:B]LB[if:A]LB[ih:B]C[White lives, as 'A' and 'B' are miai for each eye.])
+(;B[ii];W[ih]C[Well - everybody knows that the longest line on a side killable is 7 stones, but in the corner like this... 5 is the longest!!! (J1 doesn't matter as it's at the very corner!) - White's alive.]))

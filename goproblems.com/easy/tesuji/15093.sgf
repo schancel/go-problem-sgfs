@@ -1,0 +1,52 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Ceram88]CO[0]AB[ba]AB[bb]AB[cc]AB[cd]AB[be]AB[bf]AB[cf]AB[df]AB[cg]AW[af]AW[bg]AW[ah]AW[ai]AW[ch]AW[dh]AW[eh]AW[de]AW[ce]AW[dd]AW[dc]AW[db]AW[cb]AW[fc]AW[ic]AW[hc]AW[hd]AW[he]AB[fe]AB[fg]AB[hf]AB[hg]AB[hi]AW[ei]AW[ej]AB[if]AW[ig]AW[jg]AW[ji]AW[jj]C[Black played 1 to connect his two groups and reduce white's territory. Considering that the game is just reaching the end game, should white respond in the area or tenuki (play T)?]LB[fe:1]LB[cj:T]AW[je]AW[hj]AW[gj]AW[ij]AW[fj]AB[ac]AP[goproblems]
+(;W[ef];B[eg]
+(;W[dg]
+(;B[ee];W[bd];B[ff]
+(;W[bc]C[Black loses his base and all hope of life is lost. RIGHT])
+(;W[ae]C[Black loses his base and all hope of life is lostRIGHT])
+(;W[ad]C[RIGHT])
+(;W[ag];B[bc];W[ad]C[RIGHT]))
+(;B[bd];W[ee]C[Black was too greedy!RIGHT]))
+(;W[gg];B[dg]
+(;W[gf];B[gh]
+(;W[fh];B[ge])
+(;W[ge];B[fh]C[Although black's stone loses its purpose, he remains connected and alive. White can do better.]))
+(;W[gh];B[gf]
+(;W[ee];B[ff])
+(;W[ff];B[ee])))
+(;W[gf];B[dg];W[gg])
+(;W[ee];B[dg]
+(;W[gg];B[gh];W[gf];B[ff];W[ge];B[fh])
+(;W[ff];B[gg]C[Although black's stone loses its purpose, he remains connected and alive. White can do better.]))
+(;W[ff];B[ee]
+(;W[gf];B[ge];W[dg];B[gg];W[bd];B[bc])
+(;W[dg];B[gf];W[bd];B[bc]))
+(;W[bd];B[bc]))
+(;W[bd];B[bc]
+(;W[ef];B[eg]
+(;W[dg];B[ad];W[ee]C[RIGHT])
+(;W[ee];B[dg];W[gg];B[gh];W[gf];B[ff];W[ge];B[fh])
+(;W[gg];B[dg];W[gf];B[gh]
+(;W[fh];B[ge])
+(;W[ge];B[fh]C[Although black's stone loses its purpose, he remains connected and alive. White can do better.]))
+(;W[ad];B[ac];W[dg];B[ae];W[ee]C[RIGHT]))
+(;W[ff];B[ef];W[gf];B[ge])
+(;W[gg];B[eg]
+(;W[gh];B[gf])
+(;W[gf];B[gh]
+(;W[fh];B[ge])
+(;W[ge];B[fh])))
+(;W[eg];B[ef])
+(;W[gf];B[eg];W[gg])
+(;W[ad];B[ac];W[ef];B[ae]
+(;W[eg]C[RIGHT])
+(;W[ee]C[RIGHT])
+(;W[dg]C[RIGHT])))
+(;W[gf];B[eg];W[gg];B[gh]
+(;W[ge];B[fh])
+(;W[fh];B[ge]))
+(;W[eg];B[ef])
+(;W[gg];B[ef];W[gf];B[gh];W[ge];B[fh])
+(;W[ff];B[ef];W[gf];B[ge])
+(;W[bc];B[bd]C[This messes everything up. See other variations.])
+(;W[cj];B[ef]C[Black was not safe. You missed your chance!]))

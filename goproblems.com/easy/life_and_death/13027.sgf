@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[30]SO[pseudog]CO[0]AW[ea]AW[bb]AW[eb]AW[bc]AW[ec]AW[dd]AW[be]AW[ce]AW[de]AB[da]AB[db]AB[ac]AB[cc]AB[bd]AB[cd]C[Black to play.]
+(;B[ab];W[ba]
+(;B[cb];W[ae];B[ad]C[ SekiRIGHT])
+(;B[dc];W[cb]C[Dead])
+(;B[ca];W[cb];B[aa];W[bb]C[Dead])
+(;B[ad];W[cb];B[dc];W[ae]))
+(;B[ba];W[ab]
+(;B[ad];W[cb]
+(;B[dc];W[ae])
+(;B[ca];W[dc];B[aa];W[bb]))
+(;B[cb];W[ad])
+(;B[dc];W[ad])
+(;B[ca];W[ad]))
+(;B[dc];W[ab];B[ad];W[ae])
+(;B[cb];W[ab];B[ad];W[ba])
+(;B[ca];W[ab];B[ad];W[ae]
+(;B[dc];W[cb])
+(;B[ba];W[dc])))

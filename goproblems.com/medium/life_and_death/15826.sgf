@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[19]SO[MrMoto]CO[0]AB[ma]AB[mb]AB[nb]AW[na]AW[oa]AW[ob]AW[oc]AW[nc]AW[mc]AW[kb]AB[kc]AB[lc]AB[ja]AB[jb]AB[ib]AB[ic]AB[hc]AB[gb]AB[ha]AW[kd]AW[jd]AW[ke]AW[me]AW[nf]AW[jf]AW[id]AW[hd]AW[gd]AW[gc]AW[fb]AW[fa]AW[ga]AW[ec]AW[fd]C[White to play the best possible ko (i.e., make Black use the most ko threats).]AP[goproblems]
+(;W[hb];B[lb];W[ka];B[gb]
+(;W[ld];B[hb]C[:|])
+(;W[jc];B[la];W[hb]C[Black only needs 1 threat.]))
+(;W[jc];B[lb];W[ka])
+(;W[ka];B[jc];W[hb]C[Black only needs 1 threat.])
+(;W[lb];B[la]
+(;W[ka]C[That move wastes a ko threat.])
+(;W[hb];B[ef]LB[eg:A]C[Please respond to Black's ko threat at A.FORCE];W[eg];B[gb];W[ka];B[mb];W[hb];B[ff]LB[fg:A]C[FORCE];W[fg];B[gb]
+(;W[jc];B[la]
+(;W[kb];B[hb])
+(;W[hb];B[kb];W[ma];B[gb];W[nb];B[lb];W[hb]C[Black only needs 1 more threat. You can do better.]))
+(;W[ld]C[NOTTHIS])
+(;W[ma];B[la];W[hb];B[gf]LB[gg:A]C[FORCE];W[gg];B[gb]
+(;W[ka];B[lb]C[There was a better threat.])
+(;W[kb];B[lb]C[There was a better threat.])
+(;W[nb];B[lb]C[There was a better threat.])
+(;W[lb];B[kb];W[hb];B[hf]LB[hg:A]C[FORCE];W[hg];B[gb];W[nb];B[lb];W[hb]C[Black needs 1 more threat (5 total). Well done!RIGHT])))))

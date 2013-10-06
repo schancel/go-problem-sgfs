@@ -1,0 +1,36 @@
+(;GE[best move]DI[3k]DP[27]SO[DarkSycthe]CO[0]AW[bc]AW[ad]AW[be]AW[cd]AW[dd]AW[ee]AW[fe]AW[gd]AW[hd]AW[ie]AB[cc]AB[ec]AB[ed]AB[dc]AB[fd]AB[gc]AB[hc]AB[ic]AB[id]AW[if]AB[bb]AB[ab]AB[cf]AW[ci]AW[bk]AW[bj]AB[ck]AB[bl]AB[cl]AW[ei]AB[ek]AW[gi]AB[gk]AB[je]AW[ii]LB[ac:T]C[Can black reduce white's center and/or side moyo by more than playing T (A17)? If not, please play T (A17). Also please refrain from playing unnecessary forcing moves.]AW[jh]AW[kg]AB[kd]AP[goproblems]
+(;B[de]
+(;W[bf]
+(;B[cg];W[bg]
+(;B[ge]
+(;W[he]C[Mistake by white, but maybe stronger resistance]
+(;B[gf]
+(;W[fg];B[ff];W[ef];B[eg]C[RIGHT])
+(;W[df]
+(;B[ce]MA[bd]MA[ef]C[Black gets one of the marked pointsRIGHT])
+(;B[ef];W[ce])))
+(;B[bh]C[NOTTHIS])
+(;B[ch]C[NOTTHIS])
+(;B[ce]C[NOTTHIS]))
+(;W[gf]
+(;B[he]C[White may need another move to protect further invasion at A, so black can be satisfied with this reduction in sente.RIGHT]LB[hf:A])
+(;B[bh]C[NOTTHIS])
+(;B[ch]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])))
+(;B[bh]C[NOTTHIS])
+(;B[ch]C[NOTTHIS])
+(;B[ce]C[NOTTHIS]))
+(;B[ce]C[Not only unnecessary, but also loses a point, because white's connection negates the value of a17 later and white gets an extra black stoneNOTTHIS])
+(;B[ge];W[he])
+(;B[dg];W[bg];B[ge];W[he])
+(;B[bg]C[NOTTHIS]))
+(;W[ge]C[Hm... not a good play by white...];B[bf]C[black has way too many liberties]))
+(;B[ge];W[he]
+(;B[de];W[bf]
+(;B[cg];W[bg])
+(;B[gf];W[df])
+(;B[ce]C[NOTTHIS])
+(;B[dg];W[bg];B[gf]C[RIGHT])
+(;B[bg]C[NOTTHIS]))
+(;B[gf];W[df]C[Do you really want to try fighting like this?]))
+(;B[ac];W[ce]C[Nope. You could have done something to reduce (well more than this)]))

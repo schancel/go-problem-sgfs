@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[3k]DP[26]SO[Field Mouse]CO[0]AB[qo]AB[ro]AB[po]AW[qn]AW[qm]AW[pl]AW[pk]AW[qj]AW[pi]AB[pn]AB[pm]AB[om]AB[ol]AB[ok]AB[oj]AB[ph]AW[oh]AB[oi]AW[rh]AW[rg]AW[qe]AB[og]AB[ng]AB[mh]AW[nh]AW[ni]AW[nj]AW[lj]AW[le]AW[re]AB[pf]AB[mg]AW[me]AW[ne]AW[oe]AW[pe]AW[mj]AW[se]C[What should black do in a common game?]AW[kh]AW[kg]AW[kf]AW[ki]AP[goproblems]
+(;B[pj];W[qi];B[ql];W[qk];B[rl]TR[pj]TR[qi]C[Black ends in gote - the marked exchange was bad!])
+(;B[ql]
+(;W[qk]
+(;B[rl];W[ri]C[Nice! White had to defend in this strange way, black captured the two white stones and kept sente!CHOICERIGHT])
+(;B[qi];W[pj];B[rl];W[rj]C[Good, black keeps sente and captures two stones!RIGHT]))
+(;W[rl];B[pj]C[Very bad for whiteRIGHT]))
+(;B[qi];W[pj];B[ql];W[rl];B[rj];W[qk];B[rk];W[ql];B[ri];W[qh];B[rn];W[sl])
+(;B[rl];W[ql])
+(;B[rk];W[rl];B[qi];W[pj];B[rj];W[ql];B[ri];W[qh];B[pg];W[sk])
+(;B[qk];W[pj])
+(;B[rm];W[rl])
+(;B[rn];W[rl]))

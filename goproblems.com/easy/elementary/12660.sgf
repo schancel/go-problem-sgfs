@@ -1,0 +1,45 @@
+(;GE[elementary]DI[4k]DP[30]SO[ewq123]CO[0]AW[as]AW[aq]AW[ar]AW[ap]AW[bp]AW[bo]AW[bn]AW[bm]AW[bl]AW[al]AW[am]AW[an]AW[ao]AB[cl]AB[cm]AB[cn]AB[co]AB[cp]AB[bq]AB[br]AB[bs]AB[cs]AB[cr]AB[dr]AB[er]AB[es]AB[ds]AB[eq]AW[dq]AW[cq]AW[dp]AW[do]AW[fr]AW[fs]AW[gr]AW[hr]AW[hs]AW[ir]AW[jr]AW[js]AB[qr]AB[qs]AB[rr]AB[rq]AB[sq]AB[ss]AB[sp]AB[so]AB[sn]AB[sm]AB[sl]AB[sk]AB[sg]AB[sf]AB[se]AW[sd]AW[re]AW[qe]AB[rd]AB[qd]AW[qc]AW[pc]AW[rb]AW[sb]AW[sa]AB[ra]AB[qa]AB[qb]AB[pa]AB[oa]AB[na]AB[nb]AB[mb]AB[lb]AB[kb]AB[jb]AB[ja]AB[la]AW[le]AW[mf]AW[kf]AW[lg]AB[mg]AB[nh]AB[lh]AB[mi]C[w to kill the marked stones]AB[rk]TR[es]TR[ds]TR[cs]TR[bs]TR[br]TR[bq]TR[cr]TR[dr]TR[er]TR[eq]AP[goproblems]
+(;W[ep];B[fq]
+(;W[fp];B[gq]
+(;W[gp];B[hq]
+(;W[hp];B[iq]
+(;W[jq];B[ip];W[io];B[jp];W[kp]AB[jo]AW[jn]AB[ko]AB[ln]AB[lm]AB[mm]AB[ml]AB[nl]AB[nk]AB[ok]AB[oj]AB[pj]AB[pi]AB[qi]AB[kn]AW[km]AW[ll]AW[mk]AW[nj]AW[oi]AW[ph]AW[lo]AW[mn]AW[nm]AW[ol]AW[pk]AW[qj]AW[ri];B[qh];W[qg];B[rh]
+(;W[rg];B[sh]
+(;W[si];B[sc]
+(;W[rf];B[sd]
+(;W[rc];B[pd];W[od];B[pe];W[pf];B[oe];W[ne];B[of];W[og];B[nf];W[ng]C[nice! did you read the whole thing? ^^RIGHT])
+(;W[pd];B[rc]C[atari from the wrong side : (CHOICE]))
+(;W[rc];B[bk]C[CHOICE])
+(;W[pd];B[rc]C[atari from the wrong side : (CHOICE]))
+(;W[rf];B[sc];W[si];B[sd]
+(;W[rc];B[pd];W[od];B[pe];W[pf];B[oe];W[ne];B[of];W[og];B[nf];W[ng]C[nice! did you read the whole thing? ^^RIGHT])
+(;W[pd];B[rc]C[CHOICE])))
+(;W[sh];B[si]C[oops! : (CHOICE]))
+(;W[jp];B[bk]C[net wont work! : (CHOICE])
+(;W[ip];B[jq]
+(;W[kq];B[jp];W[jo];B[kp];W[lp]AB[ko]AB[lo]AB[ln]AB[mn]AB[mm]AB[nm]AB[nl]AB[ol]AW[kn]AW[lm]AW[ml]AW[nk]AW[mo]AW[nn]AW[om]AW[pl];B[ok];W[oj];B[pk];W[qk];B[pj];W[pi];B[qj]
+(;W[rj];B[ql]C[CHOICE])
+(;W[ql];B[bk]C[CHOICE])
+(;W[qi];B[ql]C[CHOICE]))
+(;W[jp];B[kq]C[CHOICE])
+(;W[kp];B[kq]C[CHOICE])))
+(;W[iq];B[hp];W[ho];B[ip];W[jp]AB[io]AB[jo]AB[jn]AB[kn]AB[km]AB[lm]AB[ll]AB[ml]AB[mk]AW[mj]AW[lk]AW[nl]AW[mm]AW[kl]AW[jm]AW[in]AW[ln]AW[ko];B[nk];W[ok];B[nj]
+(;W[ni];B[lj]C[CHOICE])
+(;W[oj];B[lj]C[CHOICE]))
+(;W[ip];B[bk]C[net wont work! : (CHOICE]))
+(;W[hq];B[gp];W[go];B[hp];W[ip]AB[ho]AB[io]AB[in]AB[jn]AB[jm]AB[km]AB[kl]AB[ll]AW[ml]AW[lm]AW[kn]AW[jo]AW[hn]AW[im]AW[jl]AW[kk];B[lk];W[lj];B[mk]
+(;W[nk];B[mj]C[CHOICE])
+(;W[mj];B[nk]C[CHOICE]))
+(;W[hp];B[bk]C[net wont work! : (CHOICE]))
+(;W[gq];B[fp];W[fo];B[gp];W[hp]AB[go]AB[ho]AB[hn]AB[in]AB[im]AB[jm]AB[jl]AB[kl]AB[kk]AW[io]AW[jn]AW[km]AW[ll]AW[gn]AW[hm]AW[il]AW[jk]AW[kj];B[lk];W[mk];B[lj]
+(;W[li];B[ki]C[CHOICE])
+(;W[mj];B[li]C[CHOICE]))
+(;W[gp];B[bk]C[net wont work! : (CHOICE]))
+(;W[fq];B[ep]
+(;W[eo];B[fp];W[gp];B[fo];W[fn]AB[go]AB[gn]AB[hn]AB[hm]AB[im]AB[il]AB[jl]AB[jk]AB[kk]AW[gm]AW[hl]AW[ik]AW[jj]AW[ho]AW[in]AW[jm]AW[kl]AW[lk];B[kj];W[ki];B[lj]
+(;W[mj];B[li]C[CHOICE])
+(;W[li];B[mj]C[CHOICE]))
+(;W[fp];B[eo]
+(;W[en];B[dn]C[CHOICE])
+(;W[fo];B[dn]C[CHOICE])))
+(;W[fp];B[bk]C[net wont work! : (CHOICE]))

@@ -1,0 +1,48 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[bl][bm][bn][cn][do][cp][dp][dq][eq][br][dr][bs][cs][ds]
+AB[dm][an][dn][bo][co][eo][fp][bq][cq][fq][ar][cr][er][fr]LB[bs:A]
+C[white just played the marked stone. how to respond?
+]
+(;B[bp];W[aq]
+(;B[ep];W[as]
+(;B[es]C[RIGHT
+])
+
+(;B[ap];W[ao])
+
+(;B[ao];W[am])
+)
+
+(;B[es];W[as]
+(;B[ep]C[RIGHT
+])
+
+(;B[ap];W[ao])
+
+(;B[ao];W[am])
+)
+
+(;B[ap];W[as]C[ko
+])
+
+(;B[ao];W[as])
+)
+
+(;B[ep];W[bp];B[ap];W[ao]C[white connects
+])
+
+(;B[es];W[bp];B[ap];W[ao])
+
+(;B[ap];W[bp]
+(;B[ao];W[aq];B[bq];W[am])
+
+(;B[aq];W[ao])
+)
+
+)

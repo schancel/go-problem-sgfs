@@ -1,0 +1,26 @@
+(;GE[life and death]DI[15k]DP[61]SO[LCZLAPINSKI]CO[3]AB[ab]AB[ca]AB[da]AB[ea]AB[gc]AB[hc]AB[ia]AB[ib]AB[ic]AB[ac]AB[ad]AB[ae]AB[ag]AB[ah]AB[ai]AB[aj]AB[ak]AB[bk]AB[ck]AB[dk]AB[dl]AB[dm]AB[dn]AB[do]AB[od]AB[nd]AB[md]AB[ld]AW[bb]AW[cb]AW[db]AW[bc]AW[cc]AW[cd]AW[dd]AW[ed]AW[ee]AW[ef]AW[eg]AW[eh]AW[dh]AW[ci]AW[di]AW[ei]AW[fj]AW[fi]AW[fk]AW[fl]AW[fm]AW[fn]AW[gn]AW[hn]AW[in]AW[jn]AW[kn]AW[ln]AW[mn]AW[nn]AW[nm]AW[nl]AW[nj]AW[nk]AW[ni]AW[nh]AW[ng]AW[nf]AW[mf]AW[kf]AW[jf]AW[je]AW[jd]AW[jc]AW[kc]AB[ja]AB[ka]AB[la]AB[ma]AB[na]AB[oa]AB[pa]AB[qa]AB[ra]AB[sa]AB[sb]AB[sc]AB[sd]AB[se]AB[sf]AB[sg]AB[sh]AB[si]AB[sj]AB[sk]AB[sl]AB[sm]AB[sn]AB[so]AB[sp]AB[sq]AB[sr]AB[ss]AB[rs]AB[qs]AB[ps]AB[os]AB[ns]AB[ls]AB[ms]AB[ks]AB[js]AB[is]AB[hs]AB[gs]AB[fs]AB[es]AB[ds]AB[cs]AW[bo]AW[bp]AW[ao]AW[bq]AW[br]AW[bs]AW[bn]AW[bm]AW[cq]AW[dq]AW[eq]AW[fq]AW[gq]AW[hq]AW[iq]AW[jq]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AW[pq]AW[qq]AW[qp]AW[qo]AW[qn]AW[qm]AW[ql]AW[qk]AW[qj]AW[qi]AW[qh]AW[qg]AW[qf]AW[qe]AW[qd]AW[qc]AW[pc]AW[oc]AW[nc]AW[mc]AW[lc]AB[eo]AB[fo]AB[go]AB[ho]AB[io]AB[jo]AB[ko]AB[lo]AB[mo]AB[no]AB[oo]AB[on]AB[om]AB[ol]AB[ok]AB[oj]AB[oi]AB[oh]AB[og]AB[of]AB[oe]AB[le]AB[lf]AB[lg]AB[lh]AB[li]AB[lj]AB[lk]AB[ll]AB[kl]AB[jl]AB[il]AB[hl]AB[hk]AB[hj]AB[hi]AB[hh]AW[gg]AW[fg]AW[hg]AW[ig]AW[jg]AW[fd]AW[gd]AW[hd]AW[id]AB[ii]AB[kk]AB[kh]AB[jh]AB[af]AB[bf]AB[cf]AW[cg]AW[dg]AB[fc]AB[eb]AB[fb]AW[ga]AP[goproblems]
+(;B[ba]C[Yes, connecting through the corner :)RIGHT])
+(;B[jj];W[ba]AB[eb]AW[ga]C[The C19 group only has one eye and is dead.]
+(;B[gb];W[ha])
+(;B[ha];W[gb]))
+(;B[hf];W[ba]C[White's stones are already alive. Oops :{ Black's C19 group dies.];B[jj])
+(;B[mk];W[ba]C[White cuts black into two groups. The C19 group only has one eye and is dead. White has two eyes..])
+(;B[aq];W[ba]C[The C19 group has only one eye and dies.])
+(;B[am];W[ba]C[The C19 group only has one eye and dies.])
+(;B[al];W[ba]C[The C19 group only has one eye and dies.])
+(;B[aa];W[ba]C[The C19 group has only one eye and dies.])
+(;B[gb];W[ba]C[];B[ha];W[jj]C[Black can only get one eye in the K10 eyespace. So black's A18 group will die.]
+(;B[ji];W[kj];B[jk]C[];W[ij]C[Seki])
+(;B[ij];W[jk];B[kj]C[];W[ji]C[Only seki; white wins by 4 points.])
+(;B[jk];W[ij];B[ji]C[];W[kj]C[Seki for A18 group.])
+(;B[kj];W[ji];B[ij]C[Seki];W[jk]C[]))
+(;B[ha];W[ba]C[];B[gb];W[jj]
+(;B[ij];W[jk];B[kj]C[];W[ji]C[Seki for A18 group.])
+(;B[jk];W[ij];B[ji]C[];W[kj]C[])
+(;B[kj];W[ji];B[ij]C[];W[jk]C[Seki for A18 group.])
+(;B[ji];W[kj];B[jk]C[Seki for A18 group.];W[ij]C[]))
+(;B[hb];W[ba]C[The C19 group has only one eye and dies.])
+(;B[ge];W[ba]C[The C19 group has only one eye and dies.]
+(;B[jj])
+(;B[gf];W[jj];B[hf];W[gh];B[ji];W[kj];B[ij];W[jk]C[All black's stones are dead.]))
+(;B[ih];W[ba]C[The C19 group has one eye and is dead.]))

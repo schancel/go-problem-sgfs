@@ -1,0 +1,38 @@
+(;GE[life and death]DI[1k]DP[18]SO[MrMoto]CO[9]AB[gb]AB[fb]AB[fc]AB[gd]AB[hd]AB[ic]AB[jc]AB[kc]AB[kb]AW[ea]AW[eb]AW[ec]AW[ed]AW[fd]AW[fe]AW[ge]AW[he]AW[ie]AW[id]AW[jd]AW[kd]AW[ld]AW[lc]AW[lb]AW[la]AW[ka]MA[ka]C[White has just played L19 (a mistake).  Defend yourself!]AP[goproblems]
+(;B[fa];W[hc])
+(;B[ga];W[hc])
+(;B[ha];W[hc])
+(;B[ia]
+(;W[hc]C[CHOICE]
+(;B[gc];W[hb]
+(;B[ha];W[fa])
+(;B[ib];W[ja]))
+(;B[hb];W[gc]
+(;B[gd]C[NOTTHIS])
+(;B[hd]C[NOTTHIS])
+(;B[fa];W[ib])
+(;B[jb];W[ja])
+(;B[ja]C[:)RIGHT])))
+(;W[hb]C[CHOICE]
+(;B[hc]C[:)RIGHT])
+(;B[ha];W[hc]
+(;B[gc])
+(;B[ib];W[gc]))
+(;B[gc];W[hc])
+(;B[ib];W[hc])))
+(;B[ja]
+(;W[hb];B[hc]
+(;W[ha])
+(;W[ga]C[(mistake)];B[ha];W[ia];B[ib];W[jb];B[ha]MA[hb]MA[ja]C[Black lives in double ko.]))
+(;W[hc]C[(mistake)];B[hb];W[ia];B[ib];W[jb]MA[ja]C[ko])
+(;W[ia]C[(mistake)];B[hc];W[jb];B[ha]MA[ib]MA[fa]))
+(;B[hb];W[ia]
+(;B[ja];W[jb])
+(;B[fa];W[ha])
+(;B[ha];W[fa]))
+(;B[ib];W[hc]
+(;B[hb];W[ja])
+(;B[gc];W[ja]))
+(;B[hc];W[ha]
+(;B[ib];W[ia];B[ja];W[jb]MA[ja]C[Ko, and White has a threat at F19.])
+(;B[ja];W[fa];B[ga];W[hb];B[gc];W[ib])))

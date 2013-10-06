@@ -1,0 +1,15 @@
+(;GE[elementary]DI[15k]DP[61]SO[santa c]CO[8]AB[ab]AB[bc]AB[cc]AB[db]AW[cb]AW[eb]AW[ea]AW[cd]AW[bd]AW[ad]C[B to live! :)]AW[ac]AW[dd]AW[ec]AB[dc]AW[ed]AP[goproblems]
+(;B[ca]
+(;W[da]
+(;B[bb]C[Well done! Has two eyes now! :)RIGHT]LB[aa:1]LB[ba:1]LB[cb:2])
+(;B[ba];W[bb]C[:(])
+(;B[aa];W[bb]C[:(]))
+(;W[bb]
+(;B[ba]C[Well done! Has two eyes now! :)RIGHT]LB[aa:1]LB[bb:2]LB[cb:2])
+(;B[da];W[ba]C[:(])
+(;B[aa]C[:(]))
+(;W[ba];B[bb];W[da];B[aa]C[RIGHT]))
+(;B[ba];W[da]TR[bb]TR[ca]C[Miai, can't get both... :(])
+(;B[bb];W[ca]C[Miai, can't get both... :(]TR[ba]TR[da])
+(;B[da];W[bb]C[ATARI! :(])
+(;B[aa]C[Dead in gote - Marked locations are miai - Black needs to play at both to live and white just wouldn't allow it! :(]TR[ca]TR[bb]))

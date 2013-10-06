@@ -1,0 +1,39 @@
+(;GE[endgame]DI[5k]DP[33]SO[Soligo]CO[0]AW[ca]AW[ba]AW[bb]AW[cc]AW[ed]AW[ee]AW[ec]AW[de]AW[cf]AW[bf]AW[af]AW[ag]AB[da]AB[db]AB[cb]AB[eb]AB[fb]AB[fc]AB[ah]AB[bg]AB[cg]AB[dg]AB[df]AB[ef]AW[gd]AW[ge]AB[bi]AB[hc]AB[ib]C[What is the best endgame for B? The G15 stones are alive.FORCE]AP[goproblems]
+(;B[cd];W[bd];B[dc];W[bc]
+(;B[dd];W[ce]C[W has 6 points. Not the best.])
+(;B[ce];W[dd]))
+(;B[bd];W[bc]
+(;B[ce]
+(;W[cd]
+(;B[ae]C[RIGHT]
+(;W[dc]C[CHOICE]
+(;B[ac];W[ab]
+(;B[be];W[ad]C[RIGHT])
+(;B[ad];W[be]))
+(;B[gc];W[ac]C[RIGHT])
+(;B[be];W[gc];B[gb];W[ac]))
+(;W[gc]C[CHOICE];B[gb];W[dc]
+(;B[ac];W[ab];B[be];W[ad]C[RIGHT])
+(;B[be];W[ac])))
+(;B[be]C[RIGHT]
+(;W[dc]C[CHOICE]
+(;B[ac];W[ab]
+(;B[ae];W[ad]C[RIGHT])
+(;B[ad];W[ae]))
+(;B[gc];W[ac]C[RIGHT]))
+(;W[gc]C[CHOICE]
+(;B[gb];W[dc]
+(;B[ac];W[ab]
+(;B[ae];W[ad]C[RIGHT])
+(;B[ad];W[ae]))
+(;B[ae];W[ac]))
+(;B[dc];W[gb];B[dd];W[fa]))))
+(;W[dc];B[cd];W[ad];B[ae];W[ac]))
+(;B[cd];W[ce];B[dc];W[dd])
+(;B[dc];W[cd]))
+(;B[bc];W[bd];B[cd];W[ac];B[dc];W[bc];B[dd];W[ce])
+(;B[dc];W[cd]C[W has 9 points. Not the best.])
+(;B[ce];W[be]
+(;B[bd];W[cd];B[bc];W[ad])
+(;B[cd];W[bd];B[dc];W[dd])
+(;B[dc];W[cd])))

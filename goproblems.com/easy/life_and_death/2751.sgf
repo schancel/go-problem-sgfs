@@ -1,0 +1,21 @@
+(;GE[life and death]DI[12k]DP[57]SO[wtd]CO[8]AB[nl][ol][pl][ql][rl][sl][nm][ln][mn][lo][po][qo][ro][so][lp][op][pp][rp][sp][lq][oq][sq][lr][or][pr][sr][ls][os][ps][qs][rs][ss]
+AW[on][pn][qn][rn][sn][no][oo][np][nq][qq][nr][ns]
+LB[kk:T][ms:A] 
+C[FORCE Either, tenuki at 'T' and then start the semeai at 'A'; or, start the semeai at 'A' allowing white to play 'T'.]
+
+(;B[ms]LB[kk:T]
+(;W[kk]C[RIGHT CHOICE The hana-roku (rabitty six) with vital point occupied is worth 11 dame internally, so both groups in the semeai had the same no. of dame at the start, and whoever plays first can win it. Black could not afford the tenuki, but he now has sente, whilst white has 13 ko threats.])
+
+(;W[rq]LB[mr:A][kk:T]C[FORCE];B[mr]LB[kk:T];W[qp]LB[mq:A][kk:T]C[FORCE];B[mq]LB[kk:T];W[pq]LB[mp:A][kk:T]C[FORCE];B[mp]LB[kk:T]
+;W[qr]LB[rr:A][kk:T]C[FORCE];B[rr]LB[kk:T];W[qq]LB[mo:A][kk:T]C[FORCE];B[mo]LB[kk:T];W[qp]LB[nn:A][kk:T]C[FORCE];B[nn]LB[kk:T]
+;W[pq]LB[om:A][kk:T]C[FORCE];B[om]LB[kk:T];W[qr]LB[rq:A][kk:T]C[FORCE];B[rq]LB[kk:T];W[qq]LB[pm:A][kk:T]C[FORCE];B[pm]LB[kk:T]
+;W[qp]LB[qm:A][kk:T]C[FORCE];B[qm]LB[kk:T];W[pq]LB[qr:A][kk:T]C[FORCE];B[qr]LB[kk:T];W[qq]LB[rm:A][kk:T]C[FORCE];B[rm]LB[kk:T];W[kk]
+C[RIGHT CHOICE The hana-roku (rabitty six) with vital point occupied is worth 11 dame internally, so both groups in the semeai had the same no. of dame at the start, and whoever plays first can win it. White has lost no points making sure of this, but has used up 12 ko threats.]))
+
+(;B[kk]LB[ms:A];W[rq]C[FORCE]LB[ms:A];B[ms];W[qp]C[FORCE]LB[mr:A];B[mr]
+;W[pq]C[FORCE]LB[mq:A];B[mq];W[qr]C[FORCE]LB[rr:A];B[rr];W[qq]C[FORCE]
+LB[mp:A];B[mp];W[qp]C[FORCE]LB[mo:A];B[mo];W[pq]C[FORCE]LB[nn:A];B[nn];W[qr]C[FORCE]
+LB[rq:A];B[rq];W[qq]C[FORCE]LB[om:A];B[om];W[qp]C[FORCE]LB[pm:A];B[pm];W[pq]C[FORCE]
+LB[qr:A];B[qr];W[qq]C[FORCE]LB[qm:A];B[qm];W[qp]C[FORCE]LB[pq:A];B[pq];W[qq]
+C[White wins the corner. The hana-roku (rabbitty six) with vital point occupied, only needs 11 more 
+internally unanswered white moves to capture. Black should have let white play at 'T'. Also, after the tenuki, black used 13 of the 14 ko threats he had.]))

@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3d]DP[11]SO[mrmoto]CO[7]AB[ao]AB[bo]AB[bp]AB[ap]AB[bq]AB[cq]AB[dq]AB[er]AB[es]AW[fs]AW[fr]AW[fq]AW[dp]AW[ep]AW[an]AW[bn]AW[co]AW[cn]AW[en]AW[aq]AW[br]AW[cs]AW[dr]C[What can Black do here?  Avoid using ko threats unless absolutely necessary.]AP[goproblems]
+(;B[eq];W[ar]
+(;B[cr];W[cp])
+(;B[ds];W[cr]))
+(;B[cr];W[eq]
+(;B[ds];W[dr])
+(;B[ar];W[bs]))
+(;B[as];W[eq])
+(;B[bs];W[cr];B[ar];W[as]C[Ko, white takes first.  You can do better.])
+(;B[ar];W[eq]
+(;B[cr];W[bs])
+(;B[bs];W[as]LB[gn:K]C[Play at K if you wish to use a ko threat.]
+(;B[gn];W[go];B[bs]C[Almost good enough ... you could have forced White to have played the first ko threat.])
+(;B[cr];W[aq]LB[gn:K]C[Play at K if you wish to use a ko threat]
+(;B[gn];W[go];B[ar]C[Almost good enough ... you could have forced White to have played the first ko threat.])
+(;B[ds];W[dr];B[ar]C[Ko, black takes first.  :)RIGHT])))))

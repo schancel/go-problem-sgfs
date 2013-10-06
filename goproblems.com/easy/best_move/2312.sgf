@@ -1,0 +1,23 @@
+(;GE[best move]DI[12k]DP[58]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ba][da][ab][bc]AB[dc][bd][cd]C[Black to play - what's the best he can do?]
+(;B[cb]CR[cb]
+(;W[bb]CR[bb]
+(;B[ca]CR[ca]
+;W[cc]CR[cc]
+;B[db]CR[db]C[Seki, Black wins by one point (the prisoner) RIGHT])
+(;B[cc]CR[cc]
+;W[ca]CR[ca]C[Seki & Jigo....]))
+(;W[cc]CR[cc]
+(;B[ca]CR[ca]
+;W[bb]CR[bb]
+;B[db]CR[db]C[Seki, Black wins by one point (the prisoner) ])
+(;B[bb]CR[bb]
+;W[ac]CR[ac]
+;B[db]CR[db]C[Black wins ])
+(;B[db]CR[db]
+;W[ca]CR[ca]C[This time, WHITE has an eye, and black has no one...]))
+(;W[ca]CR[ca]
+;B[bb]CR[bb]C[Black wins (one eye beats no eye)]))
+(;B[cc]CR[cc]
+;W[cb]CR[cb]C[Black missed the vital point]))

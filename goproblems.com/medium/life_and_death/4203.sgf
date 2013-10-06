@@ -1,0 +1,32 @@
+(;GE[life and death]DI[1k]DP[18]SO[BartTM]CO[9]AB[ap]AB[ao]AB[bo]AB[co]AB[dp]AB[ep]AB[eq]AB[er]AB[es]AW[dr]AW[dq]AW[cp]AW[bp]AW[bq]AW[br]AP[goproblems]
+(;B[ar];W[aq]
+(;B[cs];W[cr]
+(;B[bs]LB[ds:A]C[White can't play at A!RIGHT])
+(;B[ds];W[bs])
+(;B[as]C[Must be a slip of the mouse...]))
+(;B[ds];W[cs])
+(;B[cr];W[cs])
+(;B[cq];W[cr])
+(;B[bs];W[cs])
+(;B[as]C[White is alive anyway.]))
+(;B[aq];W[ar]
+(;B[cs];W[cr])
+(;B[ds];W[cs])
+(;B[cr];W[cs])
+(;B[bs];W[cs]))
+(;B[as];W[bs])
+(;B[bs];W[cs])
+(;B[cs];W[cr]
+(;B[ar];W[bs])
+(;B[aq];W[ar])
+(;B[ds];W[bs])
+(;B[bs];W[ds]
+(;B[ar];W[as]
+(;B[bs];W[aq])
+(;B[aq];W[bs]))
+(;B[aq];W[ar])
+(;B[as]))
+(;B[as]C[You cannot save that stone...]))
+(;B[ds];W[cs])
+(;B[cr];W[cs])
+(;B[cq];W[cr]))

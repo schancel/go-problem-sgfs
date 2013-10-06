@@ -1,0 +1,63 @@
+(;GE[elementary]DI[30k]DP[86]SO[kochi]CO[6]C[B to kill the W stone.]AB[jj]AB[ki]AB[jg]AW[ji]AP[goproblems]
+(;B[jh];W[ii])
+(;B[kh];W[ii])
+(;B[ij]
+(;W[ii]C[CHOICE];B[hi];W[ih]
+(;B[hh];W[ig]
+(;B[hg];W[if])
+(;B[if];W[hg]
+(;B[hf];W[gg])
+(;B[gg];W[hf]
+(;B[gf];W[he])
+(;B[he];W[gf]
+(;B[ge];W[ff])
+(;B[ff];W[ge];B[gd];W[ie]
+(;B[fe];W[jf]
+(;B[jh];W[hd])
+(;B[hd];W[kg]))
+(;B[jh];W[jf]
+(;B[fe];W[hd])
+(;B[hd];W[fe]))))))
+(;B[hf];W[if]))
+(;B[hg];W[hh];B[gh];W[gi];B[hj];W[gg];B[fh];W[ig];B[hf];W[if]
+(;B[he])
+(;B[ie];W[he];B[gf];W[je]
+(;B[id];W[jf])
+(;B[jf];W[id];B[jh];W[ie])))
+(;B[ig];W[hh]))
+(;W[ih]C[CHOICE]
+(;B[jh];W[ii])
+(;B[ii];W[jh])
+(;B[hh];W[ig])
+(;B[ig];W[hh])))
+(;B[ii];W[jh]
+(;B[ih]C[];W[kh]
+(;B[kg];W[lh]C[W will escape.])
+(;B[lh]C[good, ladder.RIGHT]))
+(;B[kh]C[];W[ih]
+(;B[hh]C[good, ladder.];W[ig]C[RIGHT])
+(;B[ig];W[hh]C[White will escape.]))
+(;B[kg];W[ih]C[W will escape now.])
+(;B[ig];W[kh]C[W will escape now.]))
+(;B[ih];W[ii];B[hi];W[ij];B[ik];W[hj];B[gj];W[hk];B[hl];W[jk])
+(;B[hj];W[ii])
+(;B[hi];W[ii]
+(;B[hj];W[ij]
+(;B[jk];W[ik])
+(;B[ik];W[kj]
+(;B[jh];W[jk];B[ih];W[jj]
+(;B[il];W[li];B[kh];W[lj])
+(;B[li];W[il];B[hk];W[jl]))
+(;B[jk];W[kh];B[li];W[jh]
+(;B[lh];W[kg])
+(;B[lg];W[lh]
+(;B[mi];W[mh])
+(;B[mh];W[mi];B[lj];W[mg];B[nh];W[kg];B[kf];W[lf];B[ih];W[lg]))
+(;B[kg];W[lh];B[mh];W[mi];B[lj];W[mg]))))
+(;B[ij];W[ih]C[];B[hg];W[hh];B[gh];W[gi]
+(;B[hj];W[gg];B[fh];W[ig];B[hf];W[if];B[ie];W[he];B[gf];W[je];B[id];W[jf])
+(;B[ig];W[hj];B[jh];W[hi]
+(;B[fi];W[hk])
+(;B[hk];W[fi])))
+(;B[ih];W[ij]))
+(;B[on]))

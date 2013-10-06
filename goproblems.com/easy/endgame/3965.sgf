@@ -1,0 +1,13 @@
+(;GE[endgame]DI[15k]DP[61]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[&#30333;&#26041;]PB[&#40657;&#26041;]AW[cn][dn][en][bo][fo][bp][fp][bq][fq][cr][dr][fr][fs]AB[cp][dp][ep][cq][eq][ar][br][er][ds][es]C[You are white, please finish the game ...]PL[W]
+(;W[bs]CR[bs]
+;B[cs]LB[aq:A]CR[cs]C[Good. Now, please play in A.]
+;W[aq]CR[aq]
+;B[dq]LB[cr:A]TR[co][do][eo]CR[dq]C[RIGHT Because of the secret move of the Karma Go School in B1, the black group have only 6 points : after the dame are filled, black have to play in A to avoid a double snap back. ])
+(;W[aq]CR[aq]
+;B[bs]CR[bs]C[Black have 7 points.])
+(;W[cs]CR[cs]
+;B[bs]CR[bs]
+;W[aq]CR[aq]
+;B[dq]CR[dq]C[Black have 7 points.]))

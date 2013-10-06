@@ -1,0 +1,15 @@
+(;GE[elementary]DI[6k]DP[36]SO[MrMoto]CO[8]AB[ap]AB[bp]AB[cq]AB[cr]AB[dr]AB[er]AB[fr]AW[bo]AW[co]AW[ao]AW[cp]AW[dp]AW[dq]AW[eq]AW[fq]AW[gq]AW[gr]AW[gs]C[White to kill.  (Hint:  think of making the biggest endgame reduction)]AP[goproblems]
+(;W[fs];B[ar])
+(;W[bs];B[ar]
+(;W[br];B[bq])
+(;W[bq];B[br];W[aq];B[fs]))
+(;W[br];B[bq]
+(;W[ar];B[bs])
+(;W[bs];B[ar]))
+(;W[ar];B[bq]
+(;W[bs];B[br])
+(;W[fs];B[bs]))
+(;W[aq];B[bq])
+(;W[bq];B[br]
+(;W[aq];B[ar])
+(;W[ar]C[:)RIGHT])))

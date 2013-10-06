@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[32]SO[MrMoto]CO[7]AW[qa]AW[qb]AW[rb]AW[rc]AB[sa]AB[sc]AB[sd]AB[pa]AB[pb]AB[oa]AB[oc]AB[pc]AB[qc]AB[qd]AB[qe]AB[re]AW[na]AW[ma]AW[sf]AW[rf]AW[qf]AW[pe]AW[oe]AW[nc]AW[mb]AW[ob]AW[nd]C[Is black unconditionally (D)ead, unconditionally a(L)ive, will this become (S)eki or (K)o, or can black save the stones with a clever (M)ove?FORCE]LB[lf:D]LB[mf:L]LB[lg:S]LB[mg:K]LB[ng:M]AW[lc]AW[pg]AP[goproblems]
+(;B[lf]C[Oh no!  Don't give up hope so quickly for your poor stones ...])
+(;B[mf];W[ra])
+(;B[lg]C[No, you can live with points.])
+(;B[mg]C[No, you can live without ko.])
+(;B[ng];W[mg]C[Ok, what clever move will save the stones?]
+(;B[sb];W[ra])
+(;B[rd];W[ra])
+(;B[nb]C[hmmm])
+(;B[ra]
+(;W[se]C[CHOICE]
+(;B[sb];W[rd]C[:O])
+(;B[rd];W[sb]C[Continue playing locally if necessary; otherwise (T)enuki.]LB[nh:T]
+(;B[nh];W[ra]C[;(])
+(;B[sa];W[ra])
+(;B[ra]C[:)RIGHT])))
+(;W[sb]C[Continue playing locally if necessary; otherwise (T)enuki.CHOICE]LB[nh:T]
+(;B[nh];W[ra]C[;(])
+(;B[se];W[ra])
+(;B[rd];W[ra])
+(;B[ra]C[:)RIGHT])))))

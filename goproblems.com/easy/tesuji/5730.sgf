@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[4k]DP[29]SO[maba]CO[8]AB[pa]AB[oa]AB[pb]AW[na]AW[mb]AW[nc]AW[ob]AW[oc]AW[pc]AW[od]AB[nd]AB[ne]AB[pf]AB[qf]AW[md]AB[me]AW[ld]C[White to capture the marked stones.]AB[re]AB[qb]TR[oa]TR[pa]TR[pb]TR[qb]AP[goproblems]
+(;W[rc]
+(;B[rb]
+(;W[rd];B[qc];W[qd];B[sb];W[ra]C[RIGHT])
+(;W[qc];B[sb]
+(;W[sc];B[ra])
+(;W[ra];B[sc]
+(;W[rd];B[sd])
+(;W[sd];B[rd])))
+(;W[sb];B[qc];W[qd];B[rd])
+(;W[qd];B[rd]
+(;W[sc];B[qc])
+(;W[sb];B[qc])
+(;W[qc];B[sc]))
+(;W[sc];B[sb]
+(;W[qc];B[ra])
+(;W[ra];B[qc];W[qd];B[rd])))
+(;B[qc];W[qd];B[rb];W[rd];B[sb];W[ra]C[RIGHT]))
+(;W[qc];B[rb]
+(;W[rc];B[sb]
+(;W[ra];B[sc]
+(;W[sd];B[rd])
+(;W[rd];B[sd]))
+(;W[sc];B[ra]))
+(;W[sc];B[rc];W[rd];B[sb]))
+(;W[rb];B[qc];W[qd];B[rc];W[rd];B[sd])
+(;W[rd];B[rc]))

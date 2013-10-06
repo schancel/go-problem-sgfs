@@ -1,0 +1,58 @@
+(;GE[life and death]DI[6k]DP[36]SO[Snow Dragon]CO[0]AW[bd]AW[gd]AW[gc]AW[gb]AW[ga]AW[fe]AW[ee]AW[dd]AW[cd]AW[bc]AW[ab]AB[fd]AB[fc]AB[fb]AB[fa]AB[db]AB[dc]AB[bb]AB[ba]AW[da]C[Black to live.]AP[goproblems]
+(;B[cc]
+(;W[ec]C[CHOICE]
+(;B[ed];W[ea]
+(;B[eb]C[RIGHT])
+(;B[ca];W[eb]))
+(;B[ea];W[ca]
+(;B[eb];W[ed])
+(;B[ed];W[eb])
+(;B[cb];W[ed]))
+(;B[eb]
+(;W[ed]C[CHOICE];B[ca]C[RIGHT])
+(;W[ca]C[CHOICE];B[ed]C[RIGHT])))
+(;W[eb]C[CHOICE]
+(;B[ec];W[ea];B[ca]C[RIGHT])
+(;B[ed])
+(;B[ea];W[ed]
+(;B[ec]C[RIGHT])
+(;B[ca];W[ec]))))
+(;B[ed];W[eb]
+(;B[ec];W[ea]
+(;B[ca];W[cc];B[ea]C[];W[cb])
+(;B[cc]))
+(;B[ea];W[ec])
+(;B[ca];W[cc]
+(;B[ec];W[cb])
+(;B[ea];W[cb])
+(;B[cb];W[ea]))
+(;B[cb];W[ea]LB[gf:Tenuki]
+(;B[gf];W[ec])
+(;B[ec]C[Almost filled with a dead shape.]))
+(;B[cc];W[ea]
+(;B[ca];W[ec])
+(;B[ec];W[cb])
+(;B[cb];W[ec])))
+(;B[ec];W[ea]
+(;B[cb]C[There is a dead shape inside.])
+(;B[ca];W[cc])
+(;B[cc];W[ca]C[When white (eventually) filles the corner (A19), black has to connect at C18.  White then kills easily.])
+(;B[eb];W[ca];B[cb];W[da]))
+(;B[eb];W[ed]
+(;B[ca];W[cc];B[cb]C[Black has only one eye.])
+(;B[cb]C[There is a dead shape inside.])
+(;B[cc];W[ca]))
+(;B[ea];W[ec]
+(;B[ed];W[eb])
+(;B[ca];W[ed]
+(;B[eb];W[cc])
+(;B[cc];W[eb]))
+(;B[cb];W[ed];B[eb]C[Black has only one eye.])
+(;B[cc])
+(;B[eb];W[ed]
+(;B[cc];W[ca])
+(;B[ca])))
+(;B[ca];W[cc]
+(;B[cb];W[ea];B[ed];W[eb];B[ec];W[ea])
+(;B[ea];W[cb]))
+(;B[cb];W[ea];B[ed];W[eb]LB[gf:Tenuki]))

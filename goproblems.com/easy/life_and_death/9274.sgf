@@ -1,0 +1,21 @@
+(;GE[life and death]DI[7k]DP[40]SO[qq]CO[3]AB[bc]AB[cb]AB[db]AB[eb]AB[ea]AW[fa]AW[fb]AW[ec]AW[dc]AW[cc]AW[bd]AW[fd]AW[ad]C[Based on problem 9262. Can black Live unconditionally?FORCE]LB[bf:Yes]LB[df:No]AP[goproblems]
+(;B[bf];W[df]C[Prove it.]
+(;B[ac];W[bb]C[Wrong.])
+(;B[ab];W[ba];B[ca];W[bb];B[aa];W[bb]
+(;B[ac];W[ba]C[Wrong.])
+(;B[ba];W[ac]C[Wrong.]))
+(;B[aa];W[bb]C[Wrong.])
+(;B[ba];W[ab]
+(;B[bb];W[ac]C[Wrong.])
+(;B[ac];W[bb]C[Wrong.]))
+(;B[ca];W[bb]C[Wrong.])
+(;B[da];W[bb]C[Wrong.])
+(;B[bb];W[ba]
+(;B[ca];W[ab]
+(;B[ac];W[da]C[Wrong.])
+(;B[aa];W[ac]C[Wrong.]))
+(;B[ab];W[ca]C[Wrong.])
+(;B[ac];W[ca]C[Play at T If you want to tenuki.]LB[bg:T]
+(;B[aa];W[ab]C[Only ko.])
+(;B[bg];W[aa]C[Wrong. White can play at A18 anytime to start a ko. Wa18, Bd19, Wb19, Ba19, Wa18. He can do this after there are no more ko threats on the board, thus Black is dead.]))))
+(;B[df]C[Right. Black has only ko there.RIGHT]))

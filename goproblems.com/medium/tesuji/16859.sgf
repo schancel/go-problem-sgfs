@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[2d]DP[14]SO[mountain root]CO[0]AB[dc]AW[db]AW[ec]AB[eb]AB[fb]AW[ed]AW[dd]AW[cd]AW[be]AW[cg]AW[dg]AB[df]AB[eg]AB[dh]AB[ch]AB[ee]AB[fd]AB[fc]AB[fe]AW[ff]AW[gf]AW[ge]AW[ic]AW[hd]AW[ib]AB[hb]AW[kb]AW[eh]AW[fh]AB[dj]AW[ga]AP[goproblems]
+(;B[cc];W[cb]
+(;B[bc];W[bb]
+(;B[bd];W[ad]
+(;B[bg];W[cf]
+(;B[ce]C[RIGHT])
+(;B[bf];W[ce])
+(;B[de];W[ce]))
+(;B[cf];W[bg])
+(;B[bf];W[bg]LB[ag:a]LB[ah:b])
+(;B[ce];W[ac]TR[bg]TR[de]))
+(;B[ce];W[bd]TR[bg]TR[de])
+(;B[bf];W[cf])
+(;B[cf];W[bg])
+(;B[bg];W[cf]))
+(;B[cf];W[bg])
+(;B[ce];W[bc])
+(;B[bf];W[cf])
+(;B[bg];W[cf]))
+(;B[bf];W[cf])
+(;B[cf];W[bg])
+(;B[bg];W[cf])
+(;B[ce];W[cc]))

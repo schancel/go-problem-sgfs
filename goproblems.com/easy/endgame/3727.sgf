@@ -1,0 +1,14 @@
+(;GE[endgame]DI[5k]DP[32]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ca][fa][bb][cb][db][eb][fb][gb][cc][cd][ed][fd][ae][ce][ee][ef][gf][eg]AB[aa][ba][ab][ac][bc][dc][ec][fc][gc][bd][dd][be][de][af][bf][cf][df][dg]C[Black to play - will he win, lose or draw?]
+(;B[ff]CR[ff]
+(;W[fg]CR[fg]
+;B[ge]CR[ge]
+(;W[fe]CR[fe]
+;B[gd]CR[gd]C[Jigo! RIGHT])
+(;W[gd]CR[gd]
+;B[gg]CR[gg]C[White can't play this way, he has no ko threat]))
+(;W[gd]CR[gd]
+;B[fg]CR[fg]C[This is a dead shape, WG4 was a mistake!]))
+(;B[gd]CR[gd]
+;W[ge]CR[ge]C[White wins by one point]))

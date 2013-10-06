@@ -1,0 +1,12 @@
+(;GE[life and death]DI[25k]DP[77]SO[narutofan2003]CO[7]AB[ba]AB[bb]AB[bc]AB[ac]AB[bd]AB[cd]AB[dd]AB[ed]AW[cb]AW[cc]AW[eb]AW[fc]AW[fd]AW[ee]AW[de]AW[ce]AW[be]AW[ae]AW[ad]AP[goproblems]
+(;B[ec];W[db]C[Can't form two eyes now.])
+(;B[ca];W[db]C[can't form two eyes.])
+(;B[db]
+(;W[dc]C[CHOICE]
+(;B[ec];W[da];B[ca]C[Correct black will take white.RIGHT])
+(;B[ca];W[ec]C[:( no two eyes]))
+(;W[da]C[CHOICE]
+(;B[dc]C[Black takes the whites.RIGHT])
+(;B[ca];W[dc];B[ec]C[Yep black takes some white stones and lives (Thx to edegroot for this variation)RIGHT])
+(;B[ec];W[dc];B[ca]C[Black takes some whites.RIGHT])))
+(;B[dc];W[db]C[Can't form two eyes.]))

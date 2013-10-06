@@ -1,0 +1,13 @@
+(;GE[elementary]DI[15k]DP[63]SO[jocund]CO[7]AW[rb]AW[ra]AB[pa]AB[pb]AB[qc]AB[pc]AB[rc]AB[rd]AB[sc]AB[re]AB[se]AW[oa]AW[ob]AW[oc]AW[pd]AW[od]AW[qd]AW[qe]AW[rf]AW[qf]AW[sf]AW[nd]AW[md]AW[ld]AW[lc]AW[lb]AW[la]AW[mb]AW[nb]C[What can you do? Can white make seki?FORCE]MA[lf]MA[lg]LB[mf:Yes]LB[mg:No]AP[goproblems]
+(;W[lf];B[lg]C[Show me then.]
+(;W[sb]C[Very good.  Easy Seki problem. :) The eye at T19 is necessary since black also has an eye at T16.RIGHT])
+(;W[sa]C[White can be captured and black has 2 eyes this way.])
+(;W[qb];B[sb]C[White can be captured and black has 2 eyes this way.])
+(;W[qa];B[sb]C[White can be captured and black has 2 eyes this way.]))
+(;W[lg]C[No, white can definently make seki here.  Try again.  Seki means that neither white or black can capture the other because doing so allows them to be captured by trying.])
+(;W[sb]C[Rather than answering the question you jump right in and solve it.  Okay, so you're right.  But you should pay more attention!RIGHT])
+(;W[mf];B[mg]
+(;W[sb]C[Very good.  Easy Seki problem. :) The eye at T19 is necessary since black has an eye at T16.RIGHT])
+(;W[sa];B[sb]C[White can be captured and black has 2 eyes this way.])
+(;W[qb];B[sb]C[White can be captured and black has 2 eyes this way.])
+(;W[qa];B[sb]C[White can be captured and black has 2 eyes this way.])))

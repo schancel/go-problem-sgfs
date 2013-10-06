@@ -1,0 +1,24 @@
+(;GE[endgame]DI[18k]DP[66]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[cn][co][cp][cq][br][dr][ds]
+AB[fo][fp][dq][eq][cr][er][es]LB[br:1]
+C[white just played 1. best response?
+]
+(;B[bs]C[RIGHT
+snapback gets more in the corner than just taking
+])
+
+(;B[cs]C[black can do better than taking these stones
+])
+
+(;B[bq];W[cs])
+
+(;B[ar];W[cs])
+
+(;B[as];W[cs])
+
+)

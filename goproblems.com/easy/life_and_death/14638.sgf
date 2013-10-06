@@ -1,0 +1,17 @@
+(;GE[life and death]DI[8k]DP[46]SO[Arbyda]CO[0]AB[ga]AB[gb]AB[ia]AB[ib]AB[hc]AB[ic]AB[id]AB[ie]AB[if]AB[hg]AB[gg]AW[fa]AW[fb]AW[fc]AW[fd]AW[fe]AW[ff]AW[fg]AW[fh]AW[gh]AW[hh]AW[ih]AW[jg]AW[jf]AW[je]AW[jd]AW[jc]AW[jb]AW[ja]C[Black to play.]AP[goproblems]
+(;B[ge]C[A and B are miai.]LB[gd:A]LB[gf:B];W[gf]
+(;B[hf];W[gd])
+(;B[gd];W[hf];B[he]C[RIGHT]))
+(;B[he];W[ge]C[=(]
+(;B[gc];W[gd]C[=(];B[gf];W[ig]C[=(])
+(;B[gf];W[ig]
+(;B[gd];W[gc]C[=(])
+(;B[gc];W[gd]C[=(])))
+(;B[gc];W[ge]C[=(])
+(;B[gd];W[ge];B[he];W[gc]
+(;B[gf];W[ig]C[=(])
+(;B[ig];W[gf]C[=(]))
+(;B[gf];W[ge];B[ig];W[he]C[=(])
+(;B[ig];W[ge]C[=(])
+(;B[ha];W[ge]C[=(])
+(;B[hf];W[ge]C[=(]))

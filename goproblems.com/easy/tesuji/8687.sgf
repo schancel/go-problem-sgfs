@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[4k]DP[30]SO[tjl]CO[6]AB[pb]AB[pc]AB[pd]AB[qe]AW[qg]AW[qj]AW[ng]AW[nd]AW[nc]AW[ne]AW[nf]AB[lb]AW[mb]AW[kb]AB[md]AB[me]AB[le]AB[jb]AB[jc]AB[jd]AW[ic]AW[id]AW[ib]AW[hd]AW[gd]AB[fb]AB[fc]AB[fd]AB[ge]AB[he]AB[ie]AB[jf]C[W thinks that the same tesuji as in the previous problem works here. Teach him.]AW[ja]AB[gb]LB[mb:1]AP[goproblems]
+(;B[lc];W[la]C[Connected])
+(;B[kc];W[la]
+(;B[ka]C[B can cut unconditionally])
+(;B[mc];W[lc]))
+(;B[la];W[lc]
+(;B[mc]
+(;W[nb];B[kc];W[ma];B[ld]C[CHOICERIGHT])
+(;W[ma];B[nb];W[ka]
+(;B[ob]C[CHOICERIGHT])
+(;B[oc]C[CHOICERIGHT])
+(;B[oa]C[CHOICERIGHT]))
+(;W[na];B[kc]C[CHOICE];W[ma];B[ld]C[CHOICERIGHT]))
+(;B[kc];W[ma]))
+(;B[je])
+(;B[mc];W[nb]
+(;B[kc];W[la]C[Ko :(])
+(;B[lc];W[la])
+(;B[la];W[lc];B[kc];W[ma];B[ld]C[CHOICERIGHT])))

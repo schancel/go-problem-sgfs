@@ -1,0 +1,52 @@
+(;GE[tesuji]DI[3k]DP[24]SO[Bistrogo]CO[0]AB[ac]AB[bc]AB[bb]AB[cc]AB[bd]AB[cd]AB[dd]AB[be]AB[bf]AB[da]AB[eb]AB[ec]AB[fc]AB[gc]AB[jb]AB[mc]AB[nd]AB[nf]AB[of]AB[mg]AB[ng]AB[pg]AB[hd]AB[id]AB[ie]AB[if]AB[ge]AB[ff]AB[gg]AB[hh]AB[hi]AB[ij]AB[ik]AB[ji]AB[kj]AB[kh]AB[lh]AB[kg]AB[mi]AB[mj]AB[mk]AB[ml]AB[ll]AB[jl]AB[jm]AB[hm]AB[gn]AB[en]AB[fq]AB[gk]AB[fk]AB[fj]AB[ei]AB[dk]AW[ba]AW[cb]AW[db]AW[dc]AW[ab]AW[ed]AW[fd]AW[gd]AW[gb]AW[hc]AW[ic]AW[jc]AW[kc]AW[jd]AW[lb]AW[jf]AW[kf]AW[lf]AW[lg]AW[jg]AW[jh]AW[mh]AW[nh]AW[ni]AW[nj]AW[nk]AW[nl]AW[mm]AW[lm]AW[og]AW[qi]AW[hf]AW[ee]AW[ef]AW[ce]AW[cf]AW[cg]AW[bg]AW[fg]AW[fh]AW[fi]AW[gi]AW[gj]AW[hj]AW[hk]AW[hl]AW[il]AW[jk]AW[kk]AW[gl]AW[cn]AW[dp]AW[dq]AB[bi]AB[dm]LB[gn:A]AW[pp]AW[ph]AB[di]AB[de]AW[df]AP[goproblems]
+(;W[hg]C[This is one way];B[ig]
+(;W[ih];B[ii]
+(;W[gh];B[gf]
+(;W[je];B[he];W[hg];B[hf]
+(;W[fe];B[hg];W[jj];B[ki];W[lj];B[li];W[kl];B[lk]
+(;W[lj]C[Well done !! (Thanks for the comments ;) )RIGHT])
+(;W[km]C[Well done !! (Thanks for the comments ;) )RIGHT]))
+(;W[jj]
+(;B[ki];W[fe];B[hg];W[lj])
+(;B[hg];W[fe];B[ki];W[lj])))
+(;W[fe];B[he];W[hg];B[hf];W[je]))
+(;W[je];B[he];W[gh];B[gf])
+(;W[fe]
+(;B[gf];W[gh])
+(;B[he]
+(;W[gh];B[gf])
+(;W[je];B[gf]
+(;W[gh];B[hg])
+(;W[hg];B[gh])))))
+(;W[gh];B[he]
+(;W[ih];B[ii]
+(;W[gf];B[gg])
+(;W[jj]
+(;B[ki];W[fe];B[gf];W[hg];B[hf];W[je];B[hg];W[lj])
+(;B[gf];W[hg];B[ki];W[je];B[hf];W[fe];B[hg];W[lj])))
+(;W[fe];B[gf];W[ih];B[ii])))
+(;W[ih]C[This is one way];B[ii]
+(;W[hg];B[ig])
+(;W[ig];B[hg];W[je];B[he];W[fe];B[gf]))
+(;W[lj];B[kl];W[ih];B[ii];W[hg];B[ig];W[gh];B[gf];W[je];B[he];W[hg];B[hf];W[fe];B[hg];W[li];B[lk];W[ki];B[jj])
+(;W[gf];B[hg];W[fe];B[he]
+(;W[ff];B[ig];W[ii];B[ih]
+(;W[je];B[kl])
+(;W[jj];B[ii];W[lj];B[ki];W[kl];B[km]))
+(;W[ig];B[ff];W[ii];B[ih];W[gf];B[kl];W[je];B[hf];W[gh];B[ii]))
+(;W[jj];B[ii]
+(;W[gf];B[ig];W[fe];B[he])
+(;W[lj];B[ki];W[hg];B[ig];W[ih];B[gh]))
+(;W[gm];B[hn];W[im];B[in]
+(;W[jn];B[kl];W[fn];B[fo];W[fm];B[eo];W[go];B[hp])
+(;W[kl];B[km];W[jn];B[kn];W[jo];B[ko];W[fn];B[fo];W[fm];B[eo];W[go];B[ho];W[gp];B[jp];W[hp];B[io]))
+(;W[im];B[in]
+(;W[jn];B[kl]
+(;W[gm];B[hn];W[fn];B[fo];W[fm];B[eo];W[go];B[hp])
+(;W[hg];B[ig]
+(;W[ih];B[ii];W[gh];B[gf];W[je];B[he];W[hg];B[hf];W[fe];B[hg])
+(;W[fe];B[gf];W[ih];B[ii];W[gh];B[he];W[hg];B[hf];W[je];B[hg])))
+(;W[gm];B[hn];W[jn];B[kl];W[fn];B[fo];W[fm];B[eo];W[go];B[hp]))
+(;W[ig];B[hg];W[je];B[he])
+(;W[li];B[ki];W[ih];B[ii];W[hg];B[ig];W[gh];B[gf];W[fe];B[he];W[hg];B[hf];W[je];B[hg])
+(;W[kl];B[km]))

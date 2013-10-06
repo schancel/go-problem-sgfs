@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2d]DP[12]SO[wtd]CO[8]AB[pd][mc][qg]LB[qc:A]
+C[FORCE Please play at 'A' to start.]
+;W[qc];B[pc](;W[pb]C[NOTTHIS])
+(;W[qd];B[qe](;W[pb]C[NOTTHIS])
+(;W[re];B[rf](;W[pb]C[NOTTHIS])
+(;W[pe];B[qf];W[pb];B[ob](;W[qb]C[NOTTHIS])
+(;W[rb]
+(;B[oe];W[oa];B[nb]C[RIGHT CHOICE White lives in sente.])
+
+(;B[pa]
+(;W[qa]C[RIGHT CHOICE A damaging ko for black to lose; but if white loses, she should gain compensation elsewhere.])
+
+(;W[sd]
+
+(;B[ra];W[qb];B[qa];W[sb];B[rc];W[sa];B[oa];W[oc]
+;B[od];W[nc];B[nb];W[nd];B[oe];W[mb]LB[ra:A]C[RIGHT CHOICE The black error, of playing 'A', is heavily penalised.])
+
+(;B[qb]
+(;W[rc]LB[sd:A]C[RIGHT CHOICE White lives in gote; she should only play at 'A', if not sure of either winning the ko, or gaining compensation elsewhere for losing it. However, s19 is probably 1 point better for white, than s17.])
+
+(;W[ra]LB[sd:A]C[RIGHT CHOICE White lives in gote; she should only play at 'A', if not sure of either winning the ko, or gaining compensation elsewhere for losing it.]))))))))
+
+(;W[rd];B[qd];W[rb]
+(;B[re];W[pb];B[ob]LB[qa:A][sc:B]C[RIGHT CHOICE White can choose either to leave a ko and keep sente, or to live in gote by playing at 'A' or 'B'.])
+
+(;B[qb];W[rc];B[pb];W[rf];B[rg];W[ra]LB[rd:A]C[RIGHT CHOICE White lives in gote; she should only play 2nd move at 'A', if not sure of either winning the potential ko, or gaining compensation elsewhere for losing it.])))

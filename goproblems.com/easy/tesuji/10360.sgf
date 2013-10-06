@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[6k]DP[39]SO[zafris]CO[5]AB[dp]AB[cq]AB[bp]AB[ep]AB[gq]AB[hq]AB[ir]AW[cp]AW[co]AW[do]AW[eo]AW[fo]AW[gp]AW[iq]C[White to reduce Black's territory]AB[jr]AW[ho]AB[bq]AB[bo]AP[goproblems]
+(;W[fq]C[]
+(;B[fr];W[er];B[eq];W[fp];B[dq];W[gr];B[hr];W[fs]C[RIGHT])
+(;B[eq]
+(;W[fr];B[fp];W[er];B[dq]C[White can do better])
+(;W[er]
+(;B[fp];W[dq]C[RIGHT])
+(;B[dq];W[fp];B[fr];W[gr]
+(;B[hr])
+(;B[dr];W[fs]))))
+(;B[er]C[]
+(;W[eq];B[dq]
+(;W[fr];B[fp]
+(;W[dr];B[gr];W[es];B[cr])
+(;W[gr];B[hr];W[dr];B[es];W[ds]))
+(;W[fp];B[fr]C[White could've done better]))
+(;W[fr];B[fp]
+(;W[dq];B[eq];W[dr]C[CHOICERIGHT])
+(;W[hp];B[hr];W[dq];B[eq];W[dr]C[RIGHT]))
+(;W[dq]C[];B[eq]
+(;W[fr];B[dr];W[fp]C[RIGHT])
+(;W[dr];B[fr]))))
+(;W[fp];B[fq]C[White can do much better])
+(;W[dq];B[fq];W[fp];B[eq]C[White can do better])
+(;W[fr]
+(;B[fq])
+(;B[fp];W[fq];B[dq];W[hr];B[gr];W[gs];B[hs];W[hp];B[hr])))

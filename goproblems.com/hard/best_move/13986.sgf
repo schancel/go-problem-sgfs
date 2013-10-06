@@ -1,0 +1,43 @@
+(;GE[best move]DI[6d]DP[0]SO[briv]CO[0]AB[pd]AB[pe]AB[qe]AB[qc]AB[qb]AB[nf]AB[lf]AB[kg]AB[jf]AB[ke]AB[kd]AB[jc]AB[ic]AB[id]AB[gf]AB[fh]AB[ef]AB[ee]AB[ed]AB[dc]AB[eb]AB[cb]AB[dp]AB[pp]AB[ij]AB[kk]AW[cc]AW[cd]AW[de]AW[dg]AW[ch]AW[fc]AW[hc]AW[he]AW[ge]AW[ie]AW[je]AW[jd]AW[hg]AW[ih]AW[ji]AW[li]AW[qd]AW[rd]AW[rc]AW[pc]AW[oc]AW[od]AW[md]AW[mj]C[FORCE]AP[goproblems]
+(;B[pi]C[]
+(;W[ml]C[CHOICEFORCE]
+(;B[rb];W[re];B[rf];W[qf]
+(;B[pf];W[qg];B[rg]C[];W[pg];B[og]
+(;W[qh]C[CHOICE]
+(;B[rh];W[qi];B[qj];W[ri];B[rj]C[Good job ! Now white is cut.RIGHT])
+(;B[qi];W[rh];B[ri];W[sg]C[Corner is alive])
+(;B[se]C[RIGHT])
+(;B[sc]C[RIGHT]))
+(;W[rh];B[qh]C[RIGHT]))
+(;B[rg];W[oe];B[pf];W[of];B[pg];W[lc])
+(;B[qg];W[pf];B[oe];W[rg]))
+(;B[re];W[rb]))
+(;W[rb];B[ml];W[oj];B[qk]C[White is in a hard position.RIGHT])
+(;W[re];B[rf];W[rb];B[ml];W[oj];B[qk]C[White is in a hard position.RIGHT]))
+(;B[rb];W[re]
+(;B[rf];W[qf]
+(;B[pf];W[qg];B[rg]
+(;W[rh];B[qh];W[pg];B[og];W[ph])
+(;W[pg];B[og];W[rh]))
+(;B[rg]
+(;W[qg]
+(;B[qh];W[of])
+(;B[pf]
+(;W[pg];B[og];W[rh])
+(;W[rh];B[qh];W[pg]
+(;B[ri];W[of])
+(;B[og];W[ph])))
+(;B[sc]
+(;W[of];B[se];W[oe];B[sd];W[ng])
+(;W[oe];B[pf];W[of];B[pg];W[og];B[qh];W[lc]))
+(;B[se]
+(;W[of];B[sc];W[oe])
+(;W[oe];B[pf];W[of];B[pg];W[og];B[qh];W[lc])))
+(;W[of];B[pf];W[pg];B[qg];W[oe];B[qf];W[ng]))
+(;B[pi];W[pg]
+(;B[ml];W[nh])
+(;B[nh];W[ml])))
+(;B[pi];W[qg];B[ml];W[oh]))
+(;B[ml]C[];W[pj]C[wrong direction : see correct path])
+(;B[pj];W[ml]C[Q10 is a good idea but it doesn't threat corner];B[rb];W[re];B[rf];W[qf];B[pf];W[qg];B[rg];W[pg];B[og];W[rh];B[qh];W[ph])
+(;B[re];W[rb]))

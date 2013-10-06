@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[20k]DP[72]SO[adum]CO[8]AB[bc]AB[cb]AB[cc]AB[ca]AB[cd]AW[dd]AW[dc]AW[eb]AW[fc]AB[gc]AW[gb]AW[gd]AW[hd]AB[de]AB[ee]AB[fe]AB[ge]AB[db]AW[he]AW[ce]AW[be]AW[bd]AW[cg]AB[ea]AB[gg]C[how can black connect?]AP[goproblems]
+(;B[ec];W[ed]
+(;B[fd]
+(;W[ec]
+(;B[fb]C[CHOICERIGHT])
+(;B[hc];W[ic]
+(;B[fb]C[RIGHT])
+(;B[hb];W[ib]
+(;B[fb]C[RIGHT])
+(;B[ha];W[ia]C[you let white get more of a wall than necessary...]))))
+(;W[hc];B[ec]C[CHOICERIGHT]))
+(;B[fb];W[fd])
+(;B[hc];W[fd]))
+(;B[fd];W[ec]
+(;B[hc];W[ic])
+(;B[ed];W[hc]))
+(;B[ed];W[ec])
+(;B[hc];W[fd])
+(;B[ab];W[ec])
+(;B[ba];W[ec])
+(;B[fb];W[fd])
+(;B[hb];W[hc]))

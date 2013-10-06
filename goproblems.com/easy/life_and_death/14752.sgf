@@ -1,0 +1,22 @@
+(;GE[life and death]DI[7k]DP[43]SO[siaubunas]CO[0]AB[qr]AB[pr]AB[oq]AB[nq]AB[mr]AW[pq]AW[or]AW[nr]AB[mq]AB[qq]AB[qp]AW[pp]AW[po]AW[qo]AW[ro]AW[rp]AW[lq]AW[mp]AW[np]AW[op]AW[lo]AB[ns]LB[ns:2]AW[kp]AW[jr]AW[jq]LB[lq:1]C[After White 1 Black played 2 (should have been on P1). White to kill black.]AP[goproblems]
+(;W[rr]
+(;B[qs]
+(;W[os]
+(;B[ps];W[or];B[rq];W[sq];B[sr];W[ss];B[rs];W[os]C[Next time black will remeber to play on P1.RIGHT])
+(;B[rq];W[sq]
+(;B[rs];W[sr]C[black diesRIGHT])
+(;B[sr];W[ss]
+(;B[rs];W[ps]C[RIGHT])
+(;B[ps];W[or]
+(;B[os];W[sp]C[black diesRIGHT])
+(;B[rs];W[os]C[RIGHT])))))
+(;W[rs];B[os]C[black lives])
+(;W[rq];B[os]C[black lives]))
+(;B[os];W[qs];B[rq];W[sq]C[Next time black will remeber to play on P1.RIGHT]))
+(;W[rq];B[rr]C[Black lives])
+(;W[sr];B[rr];W[rs];B[qs];W[os];B[ps];W[or];B[sq]C[black lives])
+(;W[rs];B[rr];W[os];B[ps]
+(;W[or];B[sr]C[black lives])
+(;W[sr];B[or]C[black could play a bit better, but this just shows that he lives.]))
+(;W[qs];B[rr]C[black lives])
+(;W[ps];B[rr]C[black lives]))

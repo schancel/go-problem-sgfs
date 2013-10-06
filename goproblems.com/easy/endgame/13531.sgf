@@ -1,0 +1,44 @@
+(;GE[endgame]DI[8k]DP[49]SO[bass]CO[0]SZ[7]AW[eb]AW[cc]AW[dc]AW[ec]AW[fc]AW[cd]AW[dd]AW[be]AW[de]AW[cf]AW[df]AW[bg]AB[ba]AB[da]AB[ab]AB[cb]AB[db]AB[bc]AB[bd]AB[ed]AB[fd]AB[ee]AB[ef]AB[ff]AB[gf]LB[ea:A]LB[ad:B]LB[gd:C]LB[eg:D]C[No komi, no prisoners. White to play and win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ad];B[ea]
+(;W[fa];B[gc]
+(;W[gb];B[gd]
+(;W[eg];B[fg]
+(;W[dg]C[White wins by 1 point!RIGHT])
+(;W[ae];B[dg];W[ac];B[bb]C[Only jigo.]))
+(;W[ae];B[dg];W[ac];B[bb]C[Only jigo.]))
+(;W[ae];B[gb]C[Black wins.]))
+(;W[ae];B[fa]
+(;W[eg];B[fg];W[dg];B[gd])
+(;W[ac];B[bb]
+(;W[eg];B[fg];W[dg];B[gd];W[gc]C[Only jigo.])
+(;W[gd];B[ge];W[gc];B[dg]C[Black wins.])))
+(;W[eg];B[fg]
+(;W[fa];B[gc];W[gb];B[gd];W[dg]C[Yes, this works too.RIGHT])
+(;W[dg];B[fa];W[gd];B[ge];W[gc]C[Only jigo.])
+(;W[gd];B[ge]
+(;W[fa];B[gc];W[gb];B[dg];W[gd]C[Only jigo.])
+(;W[gc];B[fa];W[dg]C[Only jigo.])))
+(;W[gd];B[ge]
+(;W[gc];B[fa];W[eg];B[fg];W[dg]C[Only jigo.])
+(;W[fa];B[gc];W[gb];B[dg];W[gd]C[Only jigo.])))
+(;W[gd];B[ge]C[FORCE];W[gc];B[ea]
+(;W[fa];B[ae]
+(;W[af];B[ad];W[eg];B[fg];W[dg]C[white wins by 1 point!RIGHT])
+(;W[eg];B[fg]
+(;W[dg];B[af];W[bf]C[Black wins])
+(;W[af];B[ad];W[dg]C[Yes, you can do that.RIGHT])))
+(;W[ad];B[fa];W[eg];B[fg];W[dg]C[Only jigo.])
+(;W[eg];B[fg]
+(;W[dg];B[fa];W[ad]C[Only jigo.])
+(;W[fa];B[dg];W[ad]C[Well yes, this works too.RIGHT])))
+(;W[eg];B[fg]C[FORCE];W[dg];B[ea]
+(;W[fa];B[gc];W[gb];B[gd];W[ad]C[White wins by 1 point!RIGHT])
+(;W[gd];B[ge]
+(;W[gc];B[fa];W[ad]C[Only jigo.])
+(;W[fa];B[gc];W[gb];B[ae];W[af];B[ad];W[gd]C[Only jigo.]))
+(;W[ad];B[fa];W[gd];B[ge];W[gc]C[Only jigo.]))
+(;W[ea];B[gc];W[gb];B[gd]
+(;W[ad];B[dg]C[Only jigo. White has sente, but there isn't any endgame left to play.])
+(;W[eg];B[fg]
+(;W[dg];B[ae];W[af];B[ad]C[Only jigo. White has sente, but there isn't any endgame left to play.])
+(;W[ad];B[dg]C[Only jigo]))))

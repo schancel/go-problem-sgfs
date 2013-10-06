@@ -1,0 +1,12 @@
+(;GE[elementary]DI[3k]DP[25]SO[unkx80]CO[8]AB[pa]AB[pb]AB[qc]AB[rc]AB[sc]AW[sd]AW[rd]AW[qd]AW[pd]AW[oc]AW[ob]AW[oa]C[White to play.]AP[goproblems]
+(;W[ra];B[rb]
+(;W[pc];B[sa];W[sb]C[White takes the ko in sente.RIGHT])
+(;W[qa];B[sa];W[sb]C[This is a two step ko. White can do better.])
+(;W[sa];B[qa]))
+(;W[pc];B[ra])
+(;W[rb];B[ra]
+(;W[sb];B[qb])
+(;W[qb];B[sb]))
+(;W[qa];B[ra])
+(;W[sb];B[ra])
+(;W[qb];B[rb]))

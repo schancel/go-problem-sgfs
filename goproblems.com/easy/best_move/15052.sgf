@@ -1,0 +1,32 @@
+(;GE[best move]DI[8k]DP[46]SO[pimapis]CO[0]AB[bb]AB[da]AB[db]AB[dc]AB[cd]AB[bd]AB[ad]AB[ae]AB[af]AB[ag]AB[bg]AB[cg]AB[ch]AB[ci]AB[dh]AB[ar]AB[ap]AB[bp]AB[bo]AB[cp]AB[cq]AB[cr]AB[dr]AB[ds]AB[es]AB[dm]AB[ck]AB[dj]AB[dk]AB[ej]AB[ek]AB[el]AB[fk]AB[gk]AB[hk]AB[fn]AB[gn]AB[hn]AB[ho]AB[im]AB[jl]AB[jj]AB[jk]AB[kk]AB[ij]AB[hl]AB[gl]AB[gm]AB[gj]AB[fi]AB[fh]AB[fg]AB[hg]AB[gg]AB[gf]AB[hf]AB[if]AB[ge]AB[gd]AB[gc]AB[fc]AB[fd]AB[ie]AB[id]AB[jd]AB[jc]AB[jb]AB[ja]AB[ia]AB[ka]AB[lb]AB[lc]AB[mb]AB[nc]AB[nd]AB[md]AB[oc]AB[pd]AB[qc]AB[qe]AB[pf]AB[pg]AB[og]AB[ng]AB[nh]AB[mh]AB[mi]AB[lh]AB[lg]AB[lf]AB[kg]AB[qj]AB[oi]AB[oj]AB[ok]AB[ol]AB[sr]AB[sq]AB[sp]AB[rq]AB[qp]AB[ro]AB[qo]AB[qn]AB[pn]AB[on]AB[om]AB[nl]AW[ao]AW[co]AW[cn]AW[bn]AW[an]AW[dl]AW[cl]AW[bl]AW[bk]AW[bj]AW[bi]AW[bh]AW[ah]AW[cj]AW[fl]AW[fm]AW[em]AW[en]AW[dp]AW[dq]AW[er]AW[fq]AW[fs]AW[fo]AW[go]AW[hp]AW[io]AW[in]AW[jn]AW[jm]AW[kl]AW[ml]AW[nk]AW[lk]AW[nj]AW[mj]AW[lj]AW[kj]AW[ni]AW[li]AW[ki]AW[ji]AW[ii]AW[hi]AW[gi]AW[hj]AW[gh]AW[hh]AW[ih]AW[kh]AW[jg]AW[ig]AW[jf]AW[kf]AW[ke]AW[le]AW[me]AW[mf]AW[nf]AW[of]AW[oe]AW[od]AW[pe]AW[kb]AW[kc]AW[kd]AW[ld]AW[di]AW[ei]AW[eh]AW[eg]AW[dg]AW[df]AW[cf]AW[bf]AW[be]AW[ce]AW[dd]AW[ed]AW[ee]AW[fe]AW[ff]AW[ec]AW[eb]AW[fb]AW[fa]AW[gb]AW[hb]AW[ha]AW[ib]AW[ic]AW[hc]AW[hd]AW[he]AW[nm]AW[nn]AW[oo]AW[po]AW[pp]AW[np]AW[kq]AW[qq]AW[qr]AW[rr]AW[rs]AW[ss]LB[eo:D]C[Black just defended at O17 capturing a white stone at N 17. Now white can pass and win with one point and a half. Or should protect at E5 and win by half point? If you want to defend play D. If pass play P]LB[je:P]AP[goproblems]
+(;W[eo]C[Right.RIGHT])
+(;W[je];B[pq]C[Now defend yourself.]
+(;W[oq];B[pr]C[Wrong])
+(;W[pr];B[oq]
+(;W[nq];B[or];W[nr];B[ps]C[Wrong])
+(;W[or];B[nq]
+(;W[mq];B[mo]
+(;W[nr];B[no];W[op];B[mm]C[Wrong])
+(;W[no];B[mp]
+(;W[ln];B[mr];W[lq];B[nr];W[lr];B[os];W[ms];B[ps]C[Wrong])
+(;W[mm];B[mr];W[lq];B[nr]
+(;W[lr];B[os]
+(;W[ms];B[ps]C[Wrong])
+(;W[op];B[ps]C[Wrong]))
+(;W[ns];B[ms];W[lr];B[os]C[Wrong]))
+(;W[lq];B[mn];W[mm];B[eo];W[dn];B[gp];W[fp];B[ip];W[hq];B[km]
+(;W[kn]C[You need to let this stone go and lose by 4.5 points.];B[ll]C[You need to let this stone go and lose by 4.5 points.];W[lm];B[kl])
+(;W[ll];B[kn]C[I you protect that stone you give four others and a lot of teritorry];W[jo];B[jp];W[ko];B[kp];W[lo];B[lp];W[ln];B[lm]))
+(;W[nr];B[lq];W[mr];B[eo];W[dn];B[gp];W[fp];B[ip];W[hq];B[km];W[ll];B[kn];W[jo];B[jp];W[ko];B[kp];W[lo];B[ln])))
+(;W[nr];B[mq]
+(;W[lq];B[mo];W[no];B[mn];W[mm];B[km];W[ll];B[ip];W[hq];B[kn];W[jo];B[jp];W[ko];B[kp];W[lo];B[lp])
+(;W[mp]
+(;B[mr];W[lr];B[ns];W[lq])
+(;B[lq]
+(;W[lr];B[mr];W[ms];B[kr];W[ks];B[ls];W[jr];B[ns];W[lr];B[os])
+(;W[kr]
+(;B[lr];W[lp];B[ns];W[mr])
+(;B[lp];W[lr];B[km];W[ll];B[ip];W[hq];B[kn];W[jo];B[jp];W[ko];B[lo];W[kp];B[mm]
+(;W[mn];B[no];W[mo];B[op])
+(;W[lm];B[mn];W[no];B[op])
+(;W[ln];B[mn];W[no];B[op]C[CHOICE]))))))))))

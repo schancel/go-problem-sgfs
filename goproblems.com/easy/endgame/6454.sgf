@@ -1,0 +1,32 @@
+(;GE[endgame]DI[7k]DP[40]SO[adum]CO[8]AW[rs]AW[qr]AW[qq]AW[rq]AB[qs]AB[ps]AB[pr]AB[pq]AW[pp]AW[oo]AW[pn]AW[qn]AW[rn]AB[np]AB[no]AB[on]AW[op]AB[oq]AB[nq]AB[nn]AB[qp]LB[qp:1]C[black tests white with 1]AP[goproblems]
+(;W[po]
+(;B[sr]
+(;W[rp];B[rr];W[sq];B[ss];W[rs]C[RIGHT])
+(;W[sq];B[rp]
+(;W[sp];B[so])
+(;W[rr];B[sp])
+(;W[ro];B[sp];W[rr];B[ss])
+(;W[so];B[sp];W[rr];B[ss]))
+(;W[rr];B[rp]
+(;W[sq];B[sp])
+(;W[sp];B[sq];W[ss];B[sq]))
+(;W[qo];B[rp]
+(;W[ro];B[rr];W[sp];B[ss])
+(;W[sp];B[rr]
+(;W[ro];B[ss])
+(;W[sq];B[so])))
+(;W[sp];B[rr];W[sq];B[so];W[ss];B[rr]
+(;W[rp];B[sr];W[ro])
+(;W[ro];B[sr]
+(;W[rp];B[rs])
+(;W[sn];B[rs])))
+(;W[ro];B[rr];W[sq];B[rp];W[ss];B[rr];W[sp];B[sr]
+(;W[so];B[rs])
+(;W[qo];B[rs])))
+(;B[rp]
+(;W[sr]C[RIGHT])
+(;W[sq];B[sr])))
+(;W[rp];B[po]C[not so hot])
+(;W[qo];B[po])
+(;W[ro];B[po])
+(;W[sr];B[po]))

@@ -1,0 +1,37 @@
+(;GE[life and death]DI[3k]DP[27]SO[magrock]CO[0]AB[qq]AB[pq]AW[qp]AW[oq]AW[nq]AW[qm]C[black to find some hope]AW[pp]AP[goproblems]
+(;B[rp];W[ro]
+(;B[rr];W[sp];B[sq]C[Ko, better than dying. White should attack now and try to win the ko, check tree to see what happens if white connects at 'A'FORCERIGHT]LB[so:A])
+(;B[or]
+(;W[rq];B[rr];W[sp]
+(;B[sr];W[qr];B[pr];W[qs];B[rs];W[os];B[nr];W[mr]C[CHOICE])
+(;B[qs];W[pr];B[qr];W[sr];B[nr];W[mr]
+(;B[ps];W[ns]C[CHOICE])
+(;B[ns];W[ps]C[CHOICE])))
+(;W[rr];B[rq];W[nr];B[qr];W[rs];B[ps];W[ns];B[sr];W[sp]C[CHOICE]))
+(;B[rq];W[pr]
+(;B[qr];W[or]
+(;B[rs];W[sr]C[CHOICE])
+(;B[sr];W[rs]
+(;B[qs];W[sp]C[CHOICE])
+(;B[sp];W[qs]C[CHOICE])))
+(;B[rs];W[qr]C[CHOICE])))
+(;B[rr];W[rp];B[or];W[nr]
+(;B[ps];W[ns]
+(;B[qs];W[rq];B[sr];W[pr]C[CHOICE])
+(;B[sr];W[rs];B[qs];W[pr]))
+(;B[qs];W[pr];B[os];W[rq]))
+(;B[or];W[nr]
+(;B[ps];W[rq];B[rr];W[qr];B[pr];W[sr]C[CHOICE])
+(;B[qr];W[sp]
+(;B[ps];W[sr];B[rr];W[rs]C[CHOICE])
+(;B[rq];W[rs]
+(;B[ps];W[ns]C[CHOICE])
+(;B[ns];W[ps];B[os];W[qs];B[pr];W[sq]C[CHOICE]))))
+(;B[pr];W[rr];B[rq];W[rp];B[sr];W[rs];B[or];W[nr]
+(;B[os];W[qs]C[CHOICE])
+(;B[qs];W[os]C[CHOICE]))
+(;B[rq];W[pr]
+(;B[rp];W[ro];B[rs];W[qr])
+(;B[qr];W[or]
+(;B[sr];W[rs];B[rp];W[ro];B[sp];W[qs])
+(;B[rs];W[sr]))))

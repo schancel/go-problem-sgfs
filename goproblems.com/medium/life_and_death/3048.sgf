@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[18]SO[unkx80]CO[9]AB[bq]AB[cq]AB[dq]AB[dr]AB[ds]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[eq]AW[er]AW[es]C[Black to play. If the group is totally dead, please play at D.]LB[cn:D]AP[goproblems]
+(;B[br];W[bs]
+(;B[aq];W[cs];B[as]C[Ko.RIGHT])
+(;B[cs];W[ar]LB[aq:A]C[Black cannot play at A.])
+(;B[as];W[aq]
+(;B[cs];W[ar])
+(;B[ar];W[cs]))
+(;B[ar];W[cs]))
+(;B[bs];W[ar]
+(;B[aq];W[br]LB[cr:A]C[Black cannot play at A.])
+(;B[br];W[aq])
+(;B[cr];W[aq]))
+(;B[aq];W[br]
+(;B[bs];W[ar]LB[cr:A]C[Black cannot play at A.])
+(;B[cr];W[ar])
+(;B[ar];W[bs]))
+(;B[ar];W[bs])
+(;B[cr];W[aq]
+(;B[ar];W[bs])
+(;B[bs];W[ar]))
+(;B[cs];W[br]
+(;B[bs];W[ar])
+(;B[ar];W[bs]))
+(;B[cn]C[Hey, black is not totally dead yet!]))

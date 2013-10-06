@@ -1,0 +1,9 @@
+(;GE[life and death]DI[20k]DP[73]SO[maba]CO[7]AB[fa]AB[fb]AB[fc]AB[gc]AB[hc]AB[ha]AW[ib]AW[jb]AW[ka]AW[la]AB[ic]AB[jc]AB[kc]AB[kb]AB[lb]AW[mb]AW[mc]AW[ea]AW[eb]AW[ec]AW[fd]AW[ed]AW[gd]AW[hd]AW[id]AW[jd]AW[kd]C[Black to play and get the best possible result.]AW[md]AP[goproblems]
+(;B[ja]
+(;W[ma]C[CHOICE]
+(;B[ia]C[RIGHT])
+(;B[hb]C[RIGHT]))
+(;W[ia]C[CHOICE];B[hb];W[ma];B[ja]C[RIGHT]))
+(;B[ia];W[ja];B[hb];W[ma])
+(;B[hb];W[ja];B[ia];W[ma])
+(;B[ma];W[ja]))

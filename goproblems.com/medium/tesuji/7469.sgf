@@ -1,0 +1,96 @@
+(;GE[tesuji]DI[3k]DP[25]SO[santa c]CO[7]AB[ma]AB[na]AB[lb]AB[lc]AB[ld]AB[me]AB[mf]AB[mg]AB[nd]AB[od]AB[oc]AB[pd]AB[pe]AB[qe]AB[re]AW[rd]AW[qd]AW[qc]AW[pc]AW[qb]AW[pa]AW[oa]AW[ob]AW[ra]AB[rb]AW[nc]AW[mb]AB[hc]AB[hd]AB[he]AW[jc]AW[id]AW[kd]AW[le]AW[lf]AW[lg]AW[jf]AW[mh]AW[lh]AW[nh]AW[ng]AB[hg]AB[gg]AB[hh]AB[hi]AB[hj]AB[ij]AB[jj]AB[ji]AW[kg]AW[kh]AW[jh]AW[ki]AW[kj]AW[lj]AW[rf]AW[qf]AW[pf]AW[pg]AW[ph]AW[oh]AW[pi]AW[ni]AW[qj]AW[rj]C[Help Black...]AB[rg]AB[qg]AB[sf]AB[dc]AB[db]AB[cc]AB[ec]AB[dd]AW[ed]AW[fd]AW[de]AW[ce]AW[cd]AW[bc]AW[bb]AW[cb]AW[ef]AW[ff]AP[goproblems]
+(;B[jb]
+(;W[ib]
+(;B[ic];W[kb]
+(;B[la]
+(;W[nb]
+(;B[ja];W[kc];B[ka]C[Well done! :)RIGHT])
+(;B[nf];W[ja]C[:(])
+(;B[of];W[ja]C[:(]))
+(;W[ja];B[nb]C[RIGHT]))
+(;B[kc];W[ja]C[:(])
+(;B[nf];W[ja]C[:(])
+(;B[of];W[ja]C[:(])
+(;B[nb];W[la]C[:(])
+(;B[ja];W[ka]
+(;B[la];W[ia];B[nb]C[Well done! :)RIGHT])
+(;B[kc];W[ia]C[:(])
+(;B[nf];W[ia]C[:(])))
+(;B[kb];W[ic]C[:(]LB[la:1]LB[nb:2]TR[ja]TR[nf])
+(;B[kc];W[ic]TR[ka]TR[nf]C[:(])
+(;B[ja];W[ic]C[]
+(;B[nf]C[];W[la]C[:(])
+(;B[la];W[nb]
+(;B[nf]C[Well done! :)RIGHT])
+(;B[of]C[];W[nf]C[:(])
+(;B[ia]C[NOTTHIS])
+(;B[hb]C[NOTTHIS])
+(;B[kc];W[nf]C[:(])
+(;B[kb];W[nf]C[:(]))
+(;B[kc];W[nf]C[:(])
+(;B[of];W[nf]C[:(])
+(;B[ia]C[NOTTHIS])
+(;B[hb]C[NOTTHIS])
+(;B[kb];W[nf]C[:(])
+(;B[mc];W[nb]
+(;B[nf];W[la]C[:(])
+(;B[la];W[nf]C[:(])))
+(;B[nf];W[kb]C[:(])
+(;B[la];W[nb]
+(;B[ja];W[ic]
+(;B[nf]C[Well done! :)RIGHT])
+(;B[of];W[nf]C[:(])
+(;B[ia]C[NOTTHIS])
+(;B[hb]C[NOTTHIS])
+(;B[kb];W[nf]C[:(])
+(;B[kc];W[nf]C[:(]))
+(;B[kb];W[ic]TR[ja]TR[nf]C[:(])
+(;B[nf];W[kb]C[:(])
+(;B[kc];W[ic]C[:(]TR[ja]TR[nf])
+(;B[ic]C[Well done! Black connects his groups! :)RIGHT])))
+(;W[kb];B[ib]TR[kc]TR[ka]C[(Other moves like M19, L17 and L19 also save Black but simply connecting here would be best...)RIGHT]))
+(;B[ja];W[jb]C[:(])
+(;B[kb];W[jb]C[:(])
+(;B[ib];W[jb]C[]
+(;B[la]C[Well done! :)RIGHT]TR[ja]TR[nb])
+(;B[ja];W[ka];B[la]C[Well done! :)RIGHT]TR[kb]TR[nb])
+(;B[nf];W[ja]C[:(])
+(;B[of];W[ja]C[:(]))
+(;B[ka];W[jb]C[:(])
+(;B[kc];W[jb]C[:(])
+(;B[nf];W[jb]C[:(])
+(;B[of];W[jb]C[:(])
+(;B[ia];W[jb]C[:(])
+(;B[fc];W[jb]C[:(])
+(;B[gc];W[jb]C[:(])
+(;B[hb];W[jb]C[:(])
+(;B[gb];W[jb]C[:(])
+(;B[fb];W[jb]C[:(])
+(;B[la];W[nb]
+(;B[jb];W[ib]
+(;B[ja];W[ic]
+(;B[nf]C[Well done! :)RIGHT])
+(;B[of];W[nf]C[:(])
+(;B[kc];W[nf]C[:(])
+(;B[kb];W[nf]C[:(])
+(;B[ia]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[kb];W[ic]C[:(]TR[ja]TR[nf])
+(;B[kc];W[ic]C[:(]TR[ja]TR[nf])
+(;B[nf];W[kb]C[:(])
+(;B[ic]C[Well done! Black connects his groups! :)RIGHT]))
+(;B[nf];W[jb]C[:(])
+(;B[of];W[jb]C[:(])
+(;B[ja];W[kb]C[:(])
+(;B[ib];W[jb];B[ja]C[Well done! :)RIGHT]))
+(;B[mc];W[nb]
+(;B[jb];W[ib]
+(;B[ja];W[ic]TR[nf]TR[la]C[:(])
+(;B[kb];W[ic]C[:(])
+(;B[ic];W[kb]C[:(])
+(;B[kc];W[ic]C[:(]TR[nf]TR[ka]))
+(;B[nf];W[jb]C[:(])
+(;B[ib];W[jb]C[:(])
+(;B[ja];W[jb]C[:(])
+(;B[kb];W[jb]C[:(])
+(;B[la];W[jb]C[:(])))

@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[7k]DP[44]SO[sing216]CO[6]AB[qa]AB[qb]AB[qc]AB[qd]AW[pb]AW[pc]AW[pd]AW[qe]AW[rd]AW[lc]AB[pe]AB[oe]AW[qf]LB[pd:X]LB[pc:X]LB[pb:X]LB[ob:A]LB[pa:B]LB[nc:C]C[A, B, or C?]AP[goproblems]
+(;B[ob];W[oc]
+(;B[nc];W[nb]
+(;B[od];W[oa];B[pa];W[ob];B[mb]C[RIGHT])
+(;B[pa];W[oa];B[od];W[ob];B[mb]C[RIGHT])
+(;B[oa];W[nd])
+(;B[nd];W[oa]
+(;B[mb]
+(;W[mc])
+(;W[rc]))
+(;B[rc];W[mb])))
+(;B[pa];W[nc])
+(;B[oa];W[nc])
+(;B[nd];W[nc])
+(;B[nb];W[nc];B[mc];W[mb])
+(;B[od];W[nc])
+(;B[rc];W[nc]C[you live but are disconnected from p15]))
+(;B[pa];W[ob]
+(;B[nb];W[nc];B[oa];W[oc];B[mb];W[mc])
+(;B[oa];W[nb])
+(;B[nc];W[nb];B[mb];W[mc];B[na];W[lb]))
+(;B[nc];W[rc]
+(;B[pa];W[ob];B[nb];W[oa]AW[oa]AB[oc]AW[rb]AB[na]AW[ra]LB[na:2]LB[oa:1]LB[rb:3]LB[oc:4]LB[ra:5])
+(;B[ob];W[pa]
+(;B[oa];W[rb];B[oc];W[ra])
+(;B[oc];W[rb])
+(;B[od];W[rb])
+(;B[rb];W[sb])
+(;B[ra];W[rb]))
+(;B[oc];W[rb])
+(;B[od];W[rb])))

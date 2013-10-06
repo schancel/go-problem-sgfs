@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[4k]DP[28]SO[norm]CO[6]AB[br]AB[cr]AB[dr]AB[er]AB[cq]AB[fq]AB[gq]AB[hq]AB[iq]AB[jq]AB[jr]AB[kq]AW[dq]AW[eq]AW[ar]AW[bq]AW[bp]AW[cp]AW[do]AW[jp]AW[fr]AW[gr]AW[hr]AW[ir]C[White has 4 liberties, black has 4 liberties... should be easy right.]AP[goproblems]
+(;W[fs];B[is]
+(;W[es];B[hs]
+(;W[ds];B[js]
+(;W[cs];B[gs];W[bs]C[RIGHT])
+(;W[bs];B[gs];W[cs]C[RIGHT]))
+(;W[cs];B[bs])
+(;W[bs];B[js]
+(;W[ds];B[gs];W[cs]C[RIGHT])
+(;W[cs];B[gs];W[ds]C[RIGHT])))
+(;W[bs];B[cs];W[es];B[as]
+(;W[aq];B[hs];W[bs];B[as]C[Black just took back the ko after w answered a HUGE ko threat, white is cooked!])
+(;W[ds];B[aq]))
+(;W[ds];B[bs]
+(;W[hs];B[es];W[js];B[ks];W[aq];B[is]C[White has no Ko threats so white dies];W[js]C[NOTTHIS])
+(;W[aq];B[hs]
+(;W[es];B[js];W[as];B[gs];W[cs]C[RIGHT])
+(;W[as]C[RIGHT]))
+(;W[es];B[hs];W[aq];B[js];W[as]C[RIGHT]))
+(;W[cs];B[bs];W[es];B[hs]))
+(;W[es];B[fs]
+(;W[gs];B[ds];W[bs];B[fs];W[is];B[js];W[es];B[fs]C[white can't fight the ko, black has lots of BIG ko threats (white unfortunately has none)])
+(;W[ds];B[cs]))
+(;W[bs];B[cs];W[es];B[as];W[fs];B[aq]C[White can't fight the ko, must win unconditionally]))

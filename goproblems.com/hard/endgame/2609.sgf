@@ -1,0 +1,122 @@
+(;GE[endgame]DI[6d]DP[1]SO[karmaGfa]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[Blanc]PB[Noir]AW[dc][fc][gc][cd][gd][ce][de][ee][fe][ge][bf][cf]AB[cb][eb][fb][gb][cc][ec][bd][dd][ed][fd][be][af][bg]C[The komi is 6.5, white have to play and win the game.]PL[W]
+(;W[bc]CR[bc]
+;B[bb]CR[bb]
+;W[ac]CR[ac]
+;B[ab]CR[ab]
+(;W[cg]CR[cg]
+;B[ad]CR[ad]
+(;W[fg]CR[fg]
+;B[ae]CR[ae]
+;W[ag]CR[ag]
+;B[ef]CR[ef]
+;W[ff]CR[ff]
+;B[bg]CR[bg]
+(;W[bc]CR[bc]
+;B[ac]CR[ac]
+;W[ag]CR[ag]C[RIGHT Black have no others ko-threads, he pass. White wins by 0.5 pts.])
+(;W[ac]CR[ac]
+;B[bc]CR[bc]
+;W[ag]CR[ag]C[RIGHT Black have no others ko-threads, he pass. White wins by 0.5 pts.]))
+(;W[eg]CR[eg]
+;B[ae]CR[ae]
+;W[ag]CR[ag]
+;B[ef]CR[ef]
+(;W[ff]CR[ff]
+;B[bg]CR[bg]
+(;W[bc]CR[bc]
+;B[ac]CR[ac]
+;W[ag]CR[ag]
+;B[dg]CR[dg]
+;W[df]CR[df]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[ac]CR[ac]
+;B[bc]CR[bc]
+;W[ag]CR[ag]
+;B[dg]CR[dg]
+(;W[df]CR[df]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[fg]CR[fg]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])))
+(;W[fg]CR[fg]
+;B[bg]CR[bg]
+(;W[ac]CR[ac]
+;B[bc]CR[bc]
+;W[ag]CR[ag]
+;B[ff]CR[ff]
+(;W[df]CR[df]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[gf]CR[gf]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.]))
+(;W[bc]CR[bc]
+;B[ac]CR[ac]
+;W[ag]CR[ag]
+;B[ff]CR[ff]
+(;W[gf]CR[gf]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[df]CR[df]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])))))
+(;W[fg]CR[fg]
+;B[ad]CR[ad]
+;W[cg]CR[cg]
+;B[ae]CR[ae]
+;W[ag]CR[ag]
+;B[ef]CR[ef]
+;W[ff]CR[ff]
+;B[bg]CR[bg]
+(;W[ac]CR[ac]
+;B[bc]CR[bc]
+;W[ag]CR[ag]C[RIGHT Black have no others ko-threads, he pass. White wins by 0.5 pts.])
+(;W[bc]CR[bc]
+;B[ac]CR[ac]
+;W[ag]CR[ag]C[RIGHT Black have no others ko-threads, he pass. White wins by 0.5 pts.])))
+(;W[cg]CR[cg]
+;B[bc]CR[bc]
+(;W[fg]CR[fg]
+;B[ae]CR[ae]
+;W[ag]CR[ag]
+;B[ef]CR[ef]
+;W[ff]CR[ff]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[ag]CR[ag]
+;B[ae]CR[ae]
+(;W[fg]CR[fg]
+;B[bg]CR[bg]C[White have no others ko-threads, he pass. White loses by 0.5 pts.])
+(;W[bg]CR[bg]
+;B[ef]CR[ef]
+(;W[ff]CR[ff]
+;B[fg]CR[fg]
+(;W[df]CR[df]
+;B[eg]CR[eg]
+;W[gf]CR[gf]C[Seki .. big lose for White.])
+(;W[eg]CR[eg]
+;B[dg]CR[dg]C[White is dead.])
+(;W[gg]CR[gg]
+;B[eg]CR[eg]
+(;W[dg]CR[dg]
+;B[gf]CR[gf]C[White is dead.])
+(;W[gf]TR[dg]CR[gf]C[White is dead (dead Seki, black can play in D1 and kill the group if he wants).])
+(;W[df]CR[df]
+;B[gf]CR[gf]C[White is dead.])))
+(;W[fg]CR[fg]
+;B[ff]CR[ff]
+(;W[gf]CR[gf]
+;B[eg]CR[eg]
+(;W[gg]CR[gg]C[White is dead (dead Seki, black can play in D2 and kill the group if he wants).])
+(;W[dg]CR[dg]
+;B[gg]CR[gg]C[White is dead.])
+(;W[df]CR[df]
+;B[gg]CR[gg]C[White is dead.]))
+(;W[eg]CR[eg]
+;B[gf]CR[gf]
+;W[dg]CR[dg]C[Seki .. big lose for White.]))
+(;W[eg]CR[eg]
+;B[ff]CR[ff]
+(;W[df]CR[df]
+;B[gf]CR[gf]C[White is dead.])
+(;W[gf]CR[gf]
+;B[fg]CR[fg]
+(;W[dg]CR[dg]C[Seki .. big lose for White.])
+(;W[df]CR[df]
+;B[dg]CR[dg]C[White is dead.])))))))

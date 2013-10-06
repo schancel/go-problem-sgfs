@@ -1,0 +1,52 @@
+(;GE[endgame]DI[6k]DP[39]SO[wuhounited]CO[3]AB[ca]AB[cb]AB[cc]AB[db]AB[cd]AB[bd]AB[be]AB[bf]AB[bg]AB[af]AW[ag]AW[ah]AW[bh]AW[bi]AW[aj]AW[cg]AW[cf]AW[ce]AW[de]AW[df]AW[ef]AB[ch]AW[dh]AW[di]AW[dj]AW[ei]AW[fi]AW[gi]AW[gj]AW[hi]AW[ii]AW[gh]AW[gg]AW[fg]AW[hg]AW[da]AW[ea]AW[eb]AW[fb]AW[ec]AW[dc]AW[dd]AW[ed]AB[ee]AB[fe]AB[ff]AB[fd]AB[fc]AB[gc]AB[gb]AB[ga]AB[fa]AB[hb]AB[ib]AB[ia]AB[jb]AW[ja]AW[ka]AW[la]AW[kb]AW[hc]AW[ic]AW[id]AW[jc]AB[kc]AB[kd]AB[jd]AB[je]AB[ie]AB[he]AB[gf]AB[hf]AB[if]AB[ig]AB[ih]AB[hh]AW[jh]AW[kh]AW[kg]AW[kf]AW[jf]AW[lc]AW[mb]AW[nb]AW[mc]AW[ld]AB[md]AB[le]AB[me]AB[mf]AB[ne]AB[of]AB[pg]AB[ph]AB[pi]AB[oh]AB[nh]AW[nd]AW[oc]AW[oe]AW[pe]AW[pd]AW[pf]AB[qf]AW[qg]AW[qh]AW[qi]AW[qj]AB[pj]AB[oj]AB[ok]AW[ni]AW[ke]AW[lf]AB[lg]AB[mg]AB[lh]AB[mi]AB[mj]AB[nk]AB[ol]AB[lj]AW[ki]AW[li]AW[kj]AW[kk]AW[lk]AW[an]AW[ao]AW[bn]AW[cn]AW[dn]AB[ap]AB[bp]AB[bo]AB[bq]AB[br]AW[cs]AW[cr]AW[cq]AW[cp]AB[co]AB[do]AB[dp]AB[ep]AW[dq]AW[eq]AW[er]AB[dr]AB[ds]AB[es]AB[fs]AB[fr]AB[fq]AB[gq]AW[gp]AW[fp]AW[fo]AW[eo]AW[fn]AB[go]AW[ho]AW[hn]AW[in]AB[hp]AB[ip]AB[io]AB[jo]AB[jn]AB[ko]AW[jp]AW[kp]AW[lp]AW[lo]AW[mo]AW[ln]AW[kn]AW[km]AW[jm]AB[iq]AB[jq]AB[kq]AB[lq]AW[mq]AW[nq]AW[nr]AB[oq]AB[or]AB[mp]AB[np]AB[no]AB[oo]AB[on]AB[po]AB[pp]AW[om]AW[pm]AW[pl]AW[pk]AW[pn]AW[qm]AW[rm]AW[sm]AB[qn]AB[rn]AB[sn]AW[nn]AB[mk]AW[ml]AW[nl]AB[ll]AB[rl]C[Chinese rules. Black to play the best endgame.]AP[goproblems]
+(;B[lr]C[];W[qo]C[Played by Black in the game.];B[ro]C[];W[qp];B[rp];W[qq];B[rq];W[pq];B[op];W[pr];B[os];W[ns]C[Ouch])
+(;B[op];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq]C[You have thwarted white's plan!RIGHT])
+(;B[pq];W[qo];B[ro];W[qp];B[rp]C[You have thwarted white's plan!RIGHT])
+(;B[qo]C[Cut defended!RIGHT])
+(;B[ro]C[Cut defended!RIGHT])
+(;B[qp]C[Cut defended!RIGHT])
+(;B[rp]C[Cut defended!RIGHT])
+(;B[qq];W[qo];B[ro]C[Cut defended!RIGHT])
+(;B[so];W[qo]
+(;B[ro];W[qp];B[rp];W[qq]
+(;B[rq];W[pq];B[op];W[pr];B[os];W[ns]C[Ouch])
+(;B[qr];W[pq];B[op];W[pr]C[Ouch])
+(;B[pq];W[qr]C[You lost s5]))
+(;B[qp]C[Cut defended!RIGHT])
+(;B[sp]C[RIGHT]
+(;W[qp];B[qq])
+(;W[rp])))
+(;B[sp]C[Cut defended....although very strangely.RIGHT])
+(;B[rq];W[qo]C[Cut defended....but very strangely.];B[ro]C[Cut defended!RIGHT])
+(;B[ns];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq]C[Cut defended!RIGHT])
+(;B[mr];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq]C[Cut defended!RIGHT])
+(;B[pr];W[qo];B[ro];W[qp];B[rp];W[qq]
+(;B[qr];W[rq]
+(;B[rr];W[sp]C[Ouch])
+(;B[sq];W[rr];B[sr];W[sp]C[Ouch]))
+(;B[rq]C[Cut defended!RIGHT]))
+(;B[qr];W[qo];B[ro];W[qp];B[rp]C[Cut defended!RIGHT])
+(;B[sq];W[qo];B[ro];W[qp];B[rp];W[qq]
+(;B[qr];W[pq];B[op];W[pr];B[os];W[ns]C[Ouch])
+(;B[pq]C[Cut defended!RIGHT]))
+(;B[os];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq]C[Cut defended!RIGHT])
+(;B[ps];W[qo];B[ro];W[qp];B[rp]C[Cut defended, Luckily.RIGHT])
+(;B[rr];W[qo];B[ro];W[qp];B[rp]C[Cut defended, luckily.RIGHT])
+(;B[sr];W[qo];B[ro];W[qp];B[rp];W[qq]
+(;B[rq];W[pq];B[op];W[pr]C[Ouch])
+(;B[qr];W[pq];B[op];W[pr]C[Ouch])
+(;B[pq];W[rq]C[Ouch]))
+(;B[qs];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq];W[pq];B[op];W[pr]C[];B[os]C[Cut defended!RIGHT])
+(;B[rs];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq];W[pq];B[op];W[pr]C[Ouch])
+(;B[ss];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq];W[pq];B[op];W[pr]C[Ouch])
+(;B[jg];W[qo]C[Never get too hung up on the rules.];B[ro];W[qp];B[rp];W[qq]
+(;B[rq];W[pq];B[op];W[pr]C[Ouch])
+(;B[qr];W[pq];B[op];W[pr]C[Ouch])
+(;B[pq];W[rq]C[Ouch]))
+(;B[ms];W[qo];B[ro];W[qp];B[rp];W[qq];B[rq]
+(;W[qr]
+(;B[rr];W[pq];B[op];W[os]C[Ouch])
+(;B[pr];W[pq];B[op];W[os]C[Ouch])
+(;B[pq];W[rr];B[sr];W[sq];B[sp];W[ss];B[rs];W[qs]C[Ko])
+(;B[qs];W[pq];B[op];W[os]C[Ouch])
+(;B[ps];W[rr];B[sr];W[sq];B[sp];W[ss];B[rs];W[qs]C[Ko]))))

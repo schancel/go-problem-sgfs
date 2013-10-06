@@ -1,0 +1,59 @@
+(;GE[life and death]DI[2d]DP[12]SO[dmg]CO[4]SZ[13]AB[bd]AB[be]AB[bh]AB[cg]AB[ch]AB[ci]AB[dh]AB[dj]AB[dk]AB[ee]AB[eg]AB[ei]AB[ek]AB[el]AB[fd]AB[ff]AB[fh]AB[fk]AB[gc]AB[gd]AB[gg]AB[hb]AB[hj]AB[hl]AB[ic]AB[id]AB[if]AB[ij]AB[ik]AB[jb]AB[jj]AB[ke]AB[kg]AB[kh]AB[ki]AB[kj]AB[le]AB[lf]AB[li]AW[bc]AW[bi]AW[bj]AW[cb]AW[cd]AW[cj]AW[ck]AW[cl]AW[dl]AW[eb]AW[ec]AW[ej]AW[fa]AW[fc]AW[fi]AW[fj]AW[gb]AW[ge]AW[gh]AW[gi]AW[hf]AW[ie]AW[ig]AW[ii]AW[il]AW[jd]AW[je]AW[jg]AW[ji]AW[jk]AW[jl]AW[kb]AW[kc]AW[kf]AW[kk]AW[ld]AW[lj]AW[lk]C[Black just played the marked stones to threaten both K8 and L10. But now whole white's group is in danger. Save it!.Don't play unecessary moves.]TR[ke]GM[1]FF[4]AP[qGo:1.5.1]ST[1]HA[0]KM[0]PW[White]PB[Black]PL[W]
+(;W[mb]
+(;B[kd];W[jc]
+(;B[lc]
+(;W[lb]
+(;B[md];W[jf]C[RIGHT])
+(;B[jf];W[kf];B[jf];W[mc]C[RIGHT]))
+(;W[md]
+(;B[la];W[lb]
+(;B[jf]
+(;W[ka]C[RIGHT])
+(;W[kf];B[jf];W[ka]C[RIGHT]))
+(;B[ka];W[jf]C[RIGHT]))
+(;B[jf];W[la]C[RIGHT])))
+(;B[jf]
+(;W[kf];B[jf];W[md]C[That's how the game went.]
+(;B[la];W[ka];B[lb];W[lc]C[RIGHT])
+(;B[lc];W[lb]C[RIGHT])
+(;B[ka];W[la]C[RIGHT]))
+(;W[md];B[kf];W[hg]
+(;B[la];W[ka];B[lc];W[lb]C[RIGHT])
+(;B[lb];W[la]C[RIGHT])
+(;B[lc];W[lb]C[RIGHT]))))
+(;B[la];W[ka];B[kd];W[jc];B[jf]
+(;W[kf];B[jf];W[md])
+(;W[md]C[RIGHT])))
+(;W[jf]
+(;B[lb]
+(;W[ja];B[ia];W[ka];B[kd]
+(;W[jc];B[lc];W[ib];B[ha])
+(;W[lc];B[jc]C[You've been cutted]))
+(;W[ka];B[kd];W[jc];B[lc])))
+(;W[mc];B[la]
+(;W[jf];B[kd];W[jc];B[lb]
+(;W[lc];B[ka])
+(;W[ka];B[lc];W[md];B[me]))
+(;W[ka];B[kd];W[jc];B[lb];W[lc];B[jf];W[kf];B[jf])
+(;W[lb];B[ka];W[jf];B[kd];W[jc];B[me];W[md];B[mb]C[Ko... You can do better.]))
+(;W[kd];B[jf];W[kf];B[jf]
+(;W[mb];B[la]
+(;W[lb];B[ka])
+(;W[ka];B[md]
+(;W[mc];B[lb])
+(;W[lb];B[mc]))
+(;W[md];B[ka]))
+(;W[lb];B[mc]
+(;W[md]
+(;B[ka]
+(;W[mb];B[la])
+(;W[la];B[mb])))
+(;W[mb];B[md]))
+(;W[la];B[mb];W[mc];B[lb])
+(;W[mc];B[lb])
+(;W[ma];B[md];W[mc];B[lb]))
+(;W[lb];B[kd];W[jc];B[md]
+(;W[jf];B[mb])
+(;W[mc];B[lc]C[it's a ko.]
+(;W[mb];B[jf];W[kf];B[jf])
+(;W[jf];B[mb]))))

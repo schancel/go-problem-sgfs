@@ -1,0 +1,10 @@
+(;GE[life and death]DI[5k]DP[35]SO[santa c]CO[8]AB[bb]AB[cc]AB[ca]AB[cd]AB[ce]AB[cf]AW[bf]AW[bg]AW[ch]AW[dg]AW[df]AB[dd]AW[dc]AW[db]AW[cb]AW[ed]AW[ee]AW[eh]AW[ea]LB[bf:A]C[How to repond to A?]AP[goproblems]
+(;B[ac];W[be];B[bd];W[ba];B[aa];W[ae]
+(;B[ad];W[da];B[ba]C[Well done! :)RIGHT])
+(;B[cg];W[ad]C[:(]))
+(;B[ad];W[ba]C[:(])
+(;B[ab];W[ba]C[:(])
+(;B[ba];W[be]C[:(])
+(;B[aa];W[be]C[:(]TR[bd]TR[ac])
+(;B[be];W[ba]C[:(]TR[aa]TR[ac])
+(;B[bd];W[ba]TR[ac]TR[aa]C[:(]))

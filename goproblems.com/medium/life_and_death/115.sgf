@@ -1,0 +1,18 @@
+(;GE[life and death]DI[2k]DP[21]SO[adum]CO[7]AW[qp]AW[pq]AW[pr]AW[qr]AB[qm]AB[mn]AB[on]AB[ko]AB[pp]AB[kq]AB[oq]AB[qq]AB[or]C[black to kill the corner]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[rp];W[rq]
+(;B[ro];W[op];B[po]C[The best way to kill.RIGHT])
+(;B[qo];W[ro]C[ko]))
+(;B[qo];W[rp]
+(;B[rq];W[rr]
+(;B[ps];W[sq])
+(;B[ro];W[sq]))
+(;B[rr];W[rq]))
+(;B[rq]C[];W[op]
+(;B[po];W[nq]
+(;B[os];W[rr];B[rp];W[mp];B[mr];W[lr];B[mq];W[lq];B[nr]C[RIGHT])
+(;B[nr];W[mr];B[mq]
+(;W[ns];B[np];W[os];B[oo];W[rp];B[rr];W[rs])
+(;W[os];B[np];W[ns];B[oo];W[rp];B[rr];W[rs])))
+(;B[rp];W[po];B[ro];W[mq];B[mr];W[lr];B[nq];W[ms];B[np]C[RIGHT]))
+(;B[rr];W[rq])
+(;B[ps];W[rq]))

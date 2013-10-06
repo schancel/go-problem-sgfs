@@ -1,0 +1,10 @@
+(;GE[life and death]DI[5k]DP[34]SO[Field Mouse]CO[0]AB[rc]AB[qc]AB[pc]AB[ob]AB[pa]AB[nb]AW[ma]AW[mb]AW[mc]AW[nc]AW[oc]AW[od]AW[pd]AW[qd]AW[rd]AW[sc]AB[sb]AW[sd]AW[ra]TR[ra]C[White just played the triangle stone. Can you help black?]AP[goproblems]
+(;B[na];W[rb];B[qb]C[And black is safe! :o)RIGHT])
+(;B[rb];W[na];B[qa];W[pb])
+(;B[qb];W[na]
+(;B[qa];W[oa])
+(;B[oa];W[qa]))
+(;B[qa];W[na]
+(;B[rb];W[pb])
+(;B[qb];W[oa])
+(;B[oa];W[rb])))

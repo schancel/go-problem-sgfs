@@ -1,0 +1,27 @@
+(;GE[elementary]DI[7k]DP[40]SO[santa c]CO[0]AW[ba]AW[bc]AB[ab]AW[ea]AW[eb]AW[ec]AW[dd]AW[cd]AB[bd]AB[be]AB[ce]AB[de]AB[ee]AB[ed]AB[fc]AB[fb]AB[fa]C[Save yourself]AP[goproblems]
+(;W[cb];B[ac]
+(;W[bb]C[niceRIGHT])
+(;W[cc];B[bb]MA[db]MA[ca])
+(;W[ca];B[bb]MA[cc]MA[db])
+(;W[db];B[bb]MA[cc]MA[ca])
+(;W[dc];B[bb])
+(;W[da];B[bb])
+(;W[aa]C[NOTTHISRIGHT])
+(;W[ad]C[NOTTHISRIGHT]))
+(;W[ac];B[cb]
+(;W[bb];B[cc])
+(;W[cc];B[bb])
+(;W[db];B[bb])
+(;W[dc];B[bb])
+(;W[ca];B[bb]))
+(;W[cc];B[ac]MA[bb]MA[db])
+(;W[bb];B[dc]MA[cc]MA[db])
+(;W[db];B[cc]
+(;W[ac];B[cb])
+(;W[bb];B[dc]MA[cb]MA[ac])
+(;W[cb];B[ac]MA[bb]MA[dc])
+(;W[dc];B[bb]MA[ac]MA[cb]))
+(;W[dc];B[ac]MA[cb]MA[bb])
+(;W[da];B[ac]MA[cb]MA[bb])
+(;W[ca];B[ac]MA[bb]MA[db])
+(;W[ad];B[cc]MA[dc]MA[cb]))

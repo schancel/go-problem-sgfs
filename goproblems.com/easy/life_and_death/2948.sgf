@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5k]DP[32]SO[traveller]CO[4]SZ[19]AW[ap]AW[bp]AW[cp]AW[dp]AW[eq]AW[fq]AW[fr]AW[bs]AW[fs]AB[aq]AB[bq]AB[cq]AB[dq]AB[er]AB[as]AB[es]C[Black to play. Both sides need to get a small ko threat from here for some ko somewhere else.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[cs]
+(;W[dr]
+(;B[br];W[ds]
+(;B[cr]LB[er:A]C[ Notice that black has the small ko threat at 'A'.RIGHT])
+(;B[er]C[Black loses one extra point and gives White a ko threat.])
+(;B[es]C[A free point and threat for White.]))
+(;B[cr]
+(;W[ar]
+(;B[ds]LB[br:A]C[Seki, one point each. Inferior to correct variation; white loses one point compared to the solution but gets a ko threat at 'A'.
+White chose to play A2 instead of D1 because having an extra ko threat is worth more than the one point White loses here.])
+(;B[br];W[ds]))
+(;W[ds];B[br]C[White could have the same result as  in the solution but rather keeps the extra threat when Black allows White to. So White would not play this now.]))
+(;B[ar];W[cr])
+(;B[ds];W[cr])))
+(;B[br]
+(;W[cs]
+(;B[dr];W[ar]C[10000 year ko. White may ignore Blacks threat and play at C2 or D1 to start a direct ko for life.])
+(;B[cr];W[ar]C[Ko])))
+(;B[cr];W[cs]
+(;B[br])
+(;B[ds];W[dr])
+(;B[dr];W[ar]))
+(;B[dr];W[cs];B[br];W[ar]C[10000 year ko. White may ignore Blacks threat and play at C2 or D1 to start a direct ko for life.])
+(;B[ds];W[cs]))

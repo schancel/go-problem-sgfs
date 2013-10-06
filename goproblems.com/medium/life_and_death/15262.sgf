@@ -1,0 +1,146 @@
+(;GE[life and death]DI[3d]DP[11]SO[Sestir]CO[0]AB[sr]AB[rq]AB[qq]AB[qr]AB[pq]AB[oq]AB[nq]AB[mr]AB[ms]AB[mo]AW[qs]AW[rs]AW[rr]AW[sq]AW[sp]AW[rp]AW[qp]AW[pp]AW[op]AW[np]AW[lq]AW[lr]AW[ls]AW[kp]C[White to kill.]AP[goproblems]
+(;W[ps]
+(;B[os]
+(;W[mq];B[pr]
+(;W[nr];B[ss]
+(;W[qs];B[ps]
+(;W[rs];B[ns];W[rr]C[Very well done!  *o/*CHOICERIGHT])
+(;W[rr];B[rs]C[oops :/])
+(;W[ns];B[rs]C[oops :]))
+(;W[rs];B[ns]
+(;W[qs];B[rr])
+(;W[rr];B[qs])
+(;W[ps];B[qs]))
+(;W[rr];B[rs]C[alive])
+(;W[ns];B[rs]C[alive]))
+(;W[ss];B[sr]
+(;W[rs];B[nr])
+(;W[qs];B[rs])
+(;W[nr];B[ns];W[rs];B[qs]))
+(;W[ns];B[nr])
+(;W[or];B[nr]))
+(;W[ss];B[mq]
+(;W[mp];B[pr]
+(;W[sr];B[nr])
+(;W[nr];B[sr]))
+(;W[ns];B[mp]C[Black sneaks out. :/])
+(;W[nr];B[mp]C[Black sneaks out. :/])
+(;W[or];B[mp]C[Black sneaks out. :/])
+(;W[pr];B[mp]C[Black sneaks out. :/]))
+(;W[nr];B[mq]
+(;W[mp];B[pr]
+(;W[ss];B[sr])
+(;W[or];B[ss]
+(;W[qs];B[ps];W[rs];B[rr])
+(;W[rs];B[rr])))
+(;W[ss];B[mp]C[Black escapes. :/])
+(;W[or];B[mp]C[Black escapes. :/])
+(;W[pr];B[mp]C[Black escapes. :/]))
+(;W[ns];B[nr]
+(;W[pr];B[or]
+(;W[ss];B[sr])
+(;W[mq];B[ss];W[qs];B[ps]))
+(;W[ss];B[pr])
+(;W[or];B[pr])
+(;W[mq];B[pr]))
+(;W[or];B[nr]
+(;W[ns];B[mp]C[Ko is not the best solution.])
+(;W[pr];B[ss]C[oh oh oh oh ouch])
+(;W[ss];B[pr])
+(;W[mq];B[pr]))
+(;W[pr];B[or]
+(;W[ss];B[sr])
+(;W[mq];B[ss];W[qs];B[ps])))
+(;B[mq]
+(;W[mp];B[os]
+(;W[ns];B[nr]
+(;W[pr]C[Very well done! *o/*CHOICERIGHT])
+(;W[or];B[pr]C[oops])
+(;W[ss];B[pr]C[alive]))
+(;W[nr])
+(;W[or];B[nr]C[Direct ko is good, but there is better.])
+(;W[pr];B[or]
+(;W[ss];B[sr])
+(;W[nr];B[ss];W[qs];B[ps])
+(;W[ns];B[ss];W[qs];B[ps]))
+(;W[ss];B[pr]
+(;W[sr];B[nr]C[alive])
+(;W[nr];B[sr])))
+(;W[nr];B[mp]C[Black escaped. :/])
+(;W[ns];B[mp]C[Black escaped. :/])
+(;W[or];B[mp]C[Black escaped. :/])
+(;W[os];B[mp]C[Black escaped. :/])
+(;W[pr];B[mp]C[Black escaped. :/])
+(;W[ss];B[mp]C[Black escapes. :/])))
+(;W[os];B[ps]
+(;W[pr];B[or]
+(;W[mq];B[ps]C[Ko. You played good shape, but there is a better sequence without ko.])
+(;W[ps];B[ns]
+(;W[ss];B[sr]C[No, there are no tesujis here. :)])
+(;W[mq];B[ss]
+(;W[ps];B[qs])
+(;W[qs];B[ps])
+(;W[rs];B[rr])))
+(;W[ss];B[ns]
+(;W[sr];B[ps])
+(;W[ps];B[sr]))
+(;W[ns];B[ps]C[Ko. You played good shape but there is a better sequence without ko.])
+(;W[nr];B[ns]
+(;W[mq];B[ps])
+(;W[ps];B[ss])))
+(;W[or];B[ss]
+(;W[rs];B[rr];W[pr];B[qs];W[mq];B[nr])
+(;W[mq];B[nr]
+(;W[qs];B[rs])
+(;W[rs];B[rr])))
+(;W[nr];B[ss]
+(;W[mq];B[or])
+(;W[rs];B[or]))
+(;W[mq];B[ss]
+(;W[nr];B[or])
+(;W[rs];B[or])
+(;W[or];B[nr]))
+(;W[ss];B[sr]))
+(;W[ss];B[ps]
+(;W[sr];B[or])
+(;W[or];B[sr];W[rs];B[qs])
+(;W[mq];B[or])
+(;W[os];B[sr];W[rs];B[or])
+(;W[pr];B[sr]))
+(;W[pr];B[os]
+(;W[ps])
+(;W[or];B[nr]
+(;W[ps];B[ss])
+(;W[ss];B[ps]))
+(;W[nr];B[or];W[mq];B[ns]
+(;W[ps];B[ss])
+(;W[ss];B[ps]))
+(;W[mq];B[or])
+(;W[ss];B[ps])
+(;W[ns];B[or]))
+(;W[or];B[ps]
+(;W[os];B[ss])
+(;W[ss];B[sr])
+(;W[mq];B[nr];W[os];B[ss]))
+(;W[nr];B[mq]
+(;W[mp];B[ps]
+(;W[or];B[ss])
+(;W[ss];B[sr]))
+(;W[ps];B[mp]C[Black escapes. :/])
+(;W[os];B[mp]C[Black escapes. :/]))
+(;W[mq];B[ps]
+(;W[ss];B[sr]
+(;W[nr];B[or])
+(;W[rs];B[or]))
+(;W[nr];B[or];W[ns];B[ss])
+(;W[or];B[nr];W[os])
+(;W[os])
+(;W[pr];B[or])
+(;W[ns];B[nr]
+(;W[os];B[ss])
+(;W[or];B[ss];W[rs];B[rr])))
+(;W[ns];B[mq]
+(;W[mp];B[ps]
+(;W[or];B[ss])
+(;W[ss];B[sr]))
+(;W[ps];B[mp]C[Black escapes. :/])))

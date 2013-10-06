@@ -1,0 +1,75 @@
+(;GE[best move]DI[1k]DP[18]SO[briv]CO[0]AB[ps]AB[or]AB[oq]AB[pq]AB[qq]AB[rq]AB[sq]AB[sp]AB[nq]AB[np]AB[mo]AB[lo]AB[lp]AW[mq]AW[mp]AW[lq]AW[mr]AW[nr]AW[ns]AW[os]AW[pr]AW[qr]AW[rr]AW[sr]AW[jo]AW[ip]AW[iq]AW[hq]AW[gr]AW[hs]AB[fs]AB[es]AW[fr]AW[er]AW[eq]AW[dq]AW[ep]AW[fq]AB[dr]AB[cr]AB[cq]AB[cp]AB[dp]AB[do]AB[cn]AW[dn]AW[en]AW[fn]AW[gn]AW[hn]AB[eo]AB[fo]AB[fp]AB[gq]AB[hp]AB[gp]AB[ho]AB[io]AW[in]AW[jn]AB[kn]AB[km]AB[kl]AB[kk]AB[jk]AB[hk]AB[ik]AW[il]AW[jl]AW[jm]AW[hm]AB[hl]AW[em]AB[dm]AB[dl]AB[fk]AB[ek]AB[gk]AW[el]AB[fl]AW[gl]AW[fm]AB[mm]AB[dk]AB[cm]C[Black to move and get something...]AP[goproblems]
+(;B[kq]
+(;W[kp]C[Please do not play L5]
+(;B[kr]C[];W[jr]
+(;B[lr];W[qs]
+(;B[ms];W[ls];B[ks];W[jq];B[ms];W[ps]
+(;B[rs];W[ls]C[Ko ! nice ;)RIGHT]
+(;B[gs];W[ds];B[ms]C[RIGHT])
+(;B[hr];W[ir];B[ms]C[RIGHT])
+(;B[pn];W[js];B[gs];W[hr];B[ko];W[jp];B[kq];W[kr];B[ds];W[kq]))
+(;B[ss];W[ls]C[Ko ! nice ;)RIGHT]))
+(;B[ks];W[jq])
+(;B[ls];W[jq]))
+(;B[jq];W[jp]
+(;B[lr];W[qs])
+(;B[ir];W[js]))
+(;B[ks];W[jq]
+(;B[lr];W[qs];B[ms];W[ls]C[two steps ko. Black can do better])
+(;B[ms];W[ls]))
+(;B[ms];W[qs]
+(;B[ls];W[jq])
+(;B[lr];W[ls];B[ks];W[jq];B[ms];W[ps]
+(;B[rs];W[ls]C[Ko ! nice ;)RIGHT])
+(;B[ss];W[ls]C[Ko ! nice ;)RIGHT]))
+(;B[ks];W[jq]
+(;B[ls];W[js])
+(;B[lr];W[ls])))
+(;B[ls];W[jq]
+(;B[ms];W[qs])
+(;B[lr];W[qs]))
+(;B[js];W[jq])
+(;B[ko]C[NOTTHIS]))
+(;B[ko]C[FORCENOTTHIS])
+(;B[jr];W[kr];B[jq];W[ir])
+(;B[jq];W[kr];B[jr];W[ir])
+(;B[lr];W[qs]
+(;B[kr];W[jq]
+(;B[ms];W[ls];B[ks];W[jr];B[ms];W[ps]
+(;B[rs];W[ls]C[Ko ! nice ;)RIGHT])
+(;B[ss];W[ls]C[Ko ! nice ;)RIGHT]))
+(;B[ks];W[jr])
+(;B[jr];W[ir]
+(;B[ls];W[js])
+(;B[js];W[ls])
+(;B[ks];W[ms])))
+(;B[jr];W[jq]
+(;B[kr];W[ir]
+(;B[ls];W[js])
+(;B[ms];W[ls];B[ks];W[js]))
+(;B[ks];W[ir]
+(;B[kr];W[ms])
+(;B[ms];W[ls]C[double ko])))
+(;B[ko]C[NOTTHIS])
+(;B[ms];W[ls];B[kr];W[jq]
+(;B[ks])
+(;B[jr];W[ir]))
+(;B[ks];W[jq]
+(;B[kr];W[jr])
+(;B[jr];W[ir]))
+(;B[ls];W[kr]))
+(;B[ms];W[lr];B[kr];W[ls];B[ks];W[qs])
+(;B[ls];W[kr])
+(;B[qs];W[kr]))
+(;W[kr]C[NOTTHIS];B[jp];W[jq];B[kp]))
+(;B[kp];W[jp]
+(;B[kq];W[kr]
+(;B[jq];W[jr]C[Small reduction... not enough])
+(;B[jr];W[jq];B[ks];W[lr];B[ls];W[qs];B[js];W[ir]C[There is nothing here]))
+(;B[jr];W[kq];B[jq];W[kr]))
+(;B[jp];W[kp]
+(;B[jq];W[jr]C[There is nothing here])
+(;B[kq];W[jq];B[kr];W[jr];B[lr];W[qs]C[There is nothing here]))
+(;B[ds];W[kp]C[Black missed a chance])
+(;B[qs];W[kp]C[Black missed a chance])
+(;B[kr];W[kq]))

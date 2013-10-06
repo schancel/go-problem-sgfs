@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[10k]DP[50]SO[cotg0]CO[3]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+PW[Blanc]PB[Noir]AW[ha][gb][hb][ib][fc][hc][jc][kc]AB[ec][gc][ic][hd][id][jd][kd]
+(;B[fd]CR[fd]
+;W[gd]CR[gd]
+;B[ge]CR[ge]C[RIGHT])
+(;B[gd]CR[gd]
+;W[fd]CR[fd]
+;B[fe]CR[fe]
+;W[ed]CR[ed]C[its bad for black]))

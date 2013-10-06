@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[6k]DP[36]SO[sabetts]CO[0]SZ[19]AW[oo]AW[pp]AW[qp]AW[rp]AW[nq]AW[oq]AW[rq]AW[qs]AW[rs]AB[kp]AB[mp]AB[mq]AB[pq]AB[qq]AB[pr]AB[rr]AB[sr]AB[ps]C[It may look hopeless...]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[nr];W[or];B[os];W[mr]
+(;B[ns];W[ms];B[qr];W[sq];B[ss];W[qs])
+(;B[ms];W[lr];B[ls];W[ks]))
+(;B[mr]
+(;W[or]
+(;B[ns];W[os])
+(;B[os];W[ns];B[qr];W[sq];B[ss];W[qs]))
+(;W[ns];B[nr];W[or]))
+(;B[ns];W[or];B[os];W[mr];B[nr];W[ms];B[qr];W[sq];B[ss];W[qs])
+(;B[ms];W[mr]
+(;B[lr];W[nr];B[ns]C[RIGHT])
+(;B[nr];W[or];B[os];W[lr];B[ls];W[ks])
+(;B[ns];W[lr]
+(;B[nr];W[or];B[os];W[ls];B[qr];W[sq])
+(;B[ls];W[kr]C[There is a better way]))))

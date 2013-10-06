@@ -1,0 +1,45 @@
+(;GE[endgame]DI[1k]DP[19]SO[kochi]CO[6]AB[bd]AB[bc]AB[be]AB[ae]AB[cc]AB[dc]AB[db]AB[da]AW[ac]AW[af]AW[bf]AW[cf]AW[ce]AW[cd]AW[dd]AW[ec]AW[eb]AW[df]AW[ef]AW[ff]AW[gf]AB[bi]AB[cj]AB[ck]AB[cl]AB[bm]AB[dm]AW[dl]AW[dk]AW[dj]AW[ci]AW[bh]AW[dh]AB[pq]AB[qp]AB[po]AB[op]AW[oo]AW[np]AW[nq]AW[pn]AW[nn]AW[qn]AB[qo]AB[oq]AB[or]AB[os]AW[nr]AW[ns]AB[ro]AB[so]AB[em]AB[fm]AB[gm]AB[im]AB[jn]AB[jo]AB[jp]AW[kq]AW[kp]AW[jq]AB[iq]AB[hp]AW[ir]AB[hr]AW[ko]AW[ln]AW[ik]AB[hl]AB[je]AB[jf]AB[kg]AB[lf]AB[ke]AW[md]AW[lc]AW[kc]AW[ne]AB[nd]AB[lh]AB[jh]AB[ki]AB[li]AW[jj]AW[kj]AW[lk]AW[mj]AW[ni]AW[mh]AW[mg]AW[mf]AB[hh]AB[ji]AW[id]AW[ie]AW[gb]AW[fd]AW[ea]AW[jd]AW[hk]AW[gl]AW[fl]AW[el]AW[gi]AW[gj]AW[gh]AB[hg]AB[he]AW[hf]AB[if]AB[hd]AW[hc]AB[ei]AB[bk]AW[jr]AB[fq]AB[dp]AB[co]AW[cm]AB[bn]C[Endgame.  B to play.]AB[pj]AB[pi]AB[ph]AB[pg]AB[pf]AB[pe]AB[pd]AB[oc]AW[qa]AW[rb]AW[qc]AW[pc]AW[qd]AW[qg]AW[qh]AW[qi]AW[qj]AW[rj]AB[rk]AB[qk]AB[pl]AW[om]AB[sk]AB[rn]AB[qm]AB[qr]AB[ob]AB[nc]AB[oe]AB[ok]AW[nl]AW[jb]AB[kd]AB[le]AW[me]AW[of]AW[og]AW[oh]AB[oj]AB[oi]AB[ol]AW[pm]AB[rm]AW[hs]AB[gs]AW[is]AB[gr]AB[aj]AW[ah]AB[ai]AB[gg]AW[fg]AB[ij]AW[hj]AB[ii]AB[lj]AW[jl]AW[kn]AW[jm]AW[nk]AW[nj]AW[ka]AB[qb]AB[pb]AW[mc]AW[mb]AB[kb]AB[lb]AB[na]AW[ma]AW[nb]AB[oa]AW[si]AB[sj]AW[qf]AW[rc]AW[di]AW[cg]AW[il]AB[hn]AB[in]AP[goproblems]
+(;B[bb];W[qe]C[B missed this sente move.])
+(;B[qe]
+(;W[re]C[CHOICE]
+(;B[bb]C[right.  A was 1 pt sente, huge followup.  UL move  was 8 points reverse sente.RIGHT]LB[qe:A])
+(;B[ba];W[bb]
+(;B[cb];W[ab]C[oops.  seki.])
+(;B[ca];W[ab]C[oops.  seki.]))
+(;B[ab];W[bb]
+(;B[ad];W[ba]C[oops.  seki.])
+(;B[aa];W[ba]C[oops.])
+(;B[cb];W[aa]
+(;B[ba];W[ca])
+(;B[ca]C[dead])
+(;B[ad];W[ca]))
+(;B[ba];W[aa])
+(;B[ca];W[ba]))
+(;B[sh];W[ri]
+(;B[rg];W[rf])
+(;B[rf];W[rg]C[you wasted some ko threats in sente.])
+(;B[sg];W[rf]C[you wasted some ko threats in sente.])
+(;B[sf];W[rf]C[you wasted some ko threats in sente.])
+(;B[se];W[sf];B[sg];W[sd]C[you wasted some ko threats in sente.]))
+(;B[rf];W[rh]
+(;B[sg];W[sh];B[se];W[rd];B[pa];W[od])
+(;B[sf]C[nothing.])
+(;B[se];W[rd]
+(;B[sg];W[rg])
+(;B[rg];W[sg])
+(;B[sf];W[sg]))))
+(;W[bb];B[re]C[ok trade.]))
+(;B[ba];W[bb]
+(;B[qe];W[re]
+(;B[cb];W[ab])
+(;B[ab];W[aa]))
+(;B[cb];W[ab]))
+(;B[ab];W[bb]
+(;B[qe];W[re]
+(;B[ad];W[ba])
+(;B[ba];W[aa])
+(;B[cb];W[aa]))
+(;B[ba];W[aa])
+(;B[cb];W[aa])
+(;B[ad];W[ba]))
+(;B[hm];W[bb]C[doh]))

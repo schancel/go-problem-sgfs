@@ -1,0 +1,38 @@
+(;GE[joseki]DI[1d]DP[15]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[]
+AW[pn][ro][lp][mp][qp][rq]AB[op][kq][lq][pq][qq]LB[lp:1][mp:3][lq:2]C[Black to play - don't help white too much!]
+(;B[nr]CR[nr]
+(;W[nq]CR[nq]
+(;B[or]LB[nn:D][on:C][no:A][oo:B]CR[or]C[If now WA, black can cut with BB, WC; BD, so the white thickness isn't worth much RIGHT CHOICE])
+(;B[mq]CR[mq]
+;W[np]CR[np]
+;B[or]CR[or]
+;W[oo]CR[oo]C[NIce white centre thickness!])
+(;B[mr]CR[mr]
+;W[oq]CR[oq]
+;B[or]CR[or]
+;W[pp]CR[pp]C[very thick thickness for white :)])
+(;B[oq]CR[oq]
+;W[np]CR[np]
+;B[mq]CR[mq]
+;W[oo]CR[oo]C[nice white centre thickness!]))
+(;W[np]CR[np]
+(;B[oo]LB[nq:A][or:B]CR[oo]C[If WA, BB and black is safe RIGHT CHOICE])
+(;B[nq]CR[nq]
+;W[oo]CR[oo]C[Nice white centre thickness!])))
+(;B[mq]CR[mq]
+;W[np]CR[np]
+;B[nq]CR[nq]
+;W[oo]CR[oo]C[White has secured nice centre thickness])
+(;B[nq]CR[nq]
+;W[mq]CR[mq]
+;B[mr]CR[mr]
+;W[np]CR[np]
+(;B[or]CR[or]
+;W[oo]CR[oo]C[White has secured nice centre thickness])
+(;B[oo]CR[oo]
+;W[nr]CR[nr]
+;B[oq]CR[oq]
+;W[lr]CR[lr]C[Black is separated])
+(;B[oq]CR[oq]
+;W[oo]CR[oo]C[nice centre thickness for white!])))

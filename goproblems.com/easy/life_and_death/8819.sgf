@@ -1,0 +1,43 @@
+(;GE[life and death]DI[5k]DP[35]SO[ldan]CO[8]AB[rr]AB[rq]AB[rp]AB[qo]AB[rn]AB[oo]AB[no]AB[mp]AB[lp]AB[lq]AB[lr]AB[mr]AW[mq]AW[nq]AW[nr]AW[op]AW[pp]AW[qp]AW[qq]AW[qr]AW[pr]C[Black to play]AP[goproblems]
+(;B[qs]
+(;W[oq]C[CHOICE]
+(;B[os]C[Well done.  R1 was the only way.RIGHT])
+(;B[ns];W[os])
+(;B[ps];W[os])
+(;B[or];W[os]))
+(;W[ps]C[CHOICE]
+(;B[ns];W[os];B[oq]C[That's itRIGHT])
+(;B[os];W[ns]
+(;B[or];W[oq])
+(;B[oq];W[or])
+(;B[pq];W[oq]))
+(;B[or];W[oq]TR[os]TR[ns])
+(;B[oq];W[ns];B[or]C[One eye!RIGHT])
+(;B[pq];W[oq]
+(;B[ns];W[os])
+(;B[os];W[ns])))
+(;W[os];B[oq]C[RIGHT])
+(;W[ns];B[oq]
+(;W[or];B[ps]C[RIGHT])
+(;W[ps];B[or]C[RIGHT])))
+(;B[ps];W[os]TR[qs]TR[oq])
+(;B[os];W[ns]
+(;B[or];W[oq])
+(;B[oq];W[or])
+(;B[pq];W[oq])
+(;B[ps];W[or])
+(;B[qs];W[ps]TR[or]TR[oq]))
+(;B[ns];W[os]TR[oq]TR[qs])
+(;B[or];W[oq])
+(;B[oq];W[qs]C[CHOICE]
+(;B[or];W[os])
+(;B[ns];W[os])
+(;B[pq];W[or]TR[ns]TR[os])
+(;B[ps];W[os])
+(;B[os];W[ns]
+(;B[or];W[np]C[Sente seki, but you could have killed])
+(;B[ms];W[or])
+(;B[np];W[or]))
+(;B[np];W[or]TR[ns]TR[os]))
+(;B[pq];W[oq])
+(;B[np];W[os]TR[oq]TR[qs]))

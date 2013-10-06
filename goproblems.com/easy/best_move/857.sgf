@@ -1,0 +1,48 @@
+(;GE[best move]DI[4k]DP[29]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[qi][qo][jp][np][pp]
+AB[qk][pn][qn][qq]LB[ro:A][qp:B][rp:C][pq:D]PL[2]LB[qq:1]
+C[black plays 1. best response for white?
+]
+(;W[ro];B[oq]
+(;W[op]
+C[RIGHT
+the black stones above come under attack, and black needs another move to live in the corner
+])
+
+(;W[pq];B[op]
+(;W[oo];B[po]
+(;W[or];B[qp]
+(;W[pr];B[rn])
+
+(;W[nq];B[rn])
+)
+
+(;W[qp];B[nr])
+)
+
+(;W[po];B[oo])
+)
+)
+
+(;W[rp]
+C[right idea, but this shape is weak. better played one space above.
+])
+
+(;W[qp]
+C[right idea, but doesn't put as much pressure on the group above as the correct move does
+])
+
+(;W[pq];B[ro]
+(;W[rp];B[qp];W[rq];B[po];W[qr]
+C[this standard sequence is good for black in this situation, as the black stones get stronger
+])
+
+(;W[qp];B[rp])
+)
+
+)

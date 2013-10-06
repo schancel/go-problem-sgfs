@@ -1,0 +1,96 @@
+(;GE[life and death]DI[1k]DP[19]SO[adum]CO[7]GM[1]FF[3]
+SZ[19]KM[0.5]SY[Cgoban 1.9.8];;
+AW[hn][in][co][io][ko][lp][dq][eq][gq][lq]
+AB[gn][eo][go][ho][ip][iq][kq]C[black to play, try not to get cut
+]
+(;B[fr]
+(;W[fq]
+(;B[hq]C[RIGHT
+this is the correct order of moves
+])
+
+(;B[gp]LB[hq:A]C[A creates better aji for later
+])
+
+(;B[hp]C[weak
+])
+)
+
+(;W[hp]C[if white tries this...
+];B[gp];W[hq];B[fq])
+
+(;W[gr]C[this is bad for white...
+]
+(;B[fq];W[fp];B[gp];W[er]C[white got gote
+])
+
+(;B[gp];W[fq])
+)
+)
+
+(;B[hq];W[gp]
+(;B[hp]LB[fr:A]C[black has lost the aji at A
+])
+
+(;B[fr];W[hp]
+(;B[fq];W[fp];B[ep];W[gr])
+
+(;B[fp];W[fq])
+)
+
+(;B[gr];W[hp])
+)
+
+(;B[gp];W[hq]
+(;B[hp]C[oops, white has sente
+])
+
+(;B[fq];W[fr];B[fp];W[hp];B[gr];W[hr];B[er];W[gs])
+)
+
+(;B[hp]C[poor move, white keeps sente
+])
+
+(;B[fp];W[fq]C[black must now protect cut, so loses sente
+])
+
+(;B[gl];W[hp]C[snip
+])
+
+(;B[fk];W[hp]C[snip
+])
+
+(;B[em]C[snip
+])
+
+(;B[dp];W[hp]C[slice
+])
+
+(;B[fq];W[fr]
+(;B[fp];W[hq];B[hp]C[bad
+])
+
+(;B[hq]C[not good
+])
+
+(;B[gp];W[hq]
+(;B[hp]C[bad
+])
+
+(;B[fp];W[hp];B[gr];W[hr];B[er];W[gs])
+)
+
+(;B[gr];W[fp];B[hq]C[bad
+])
+)
+
+(;B[gr];W[fr]
+(;B[hr];W[hq]LB[hp:A][gp:B]
+C[black needs A or B, and has made white solid on the bottom
+])
+
+(;B[hq];W[gp];B[hp]C[bad
+])
+)
+
+)

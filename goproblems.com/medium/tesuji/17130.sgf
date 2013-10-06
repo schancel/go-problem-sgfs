@@ -1,0 +1,66 @@
+(;GE[tesuji]DI[3k]DP[26]SO[wurfmaul]CO[0]AB[bc]AB[cc]AW[cd]AW[ce]AW[cf]AW[cg]AB[ci]AB[dd]AB[de]AB[df]AB[dg]AB[ec]AB[fc]AW[db]AW[dc]AW[fb]AW[eb]AW[gc]AB[fe]AW[eh]AW[dh]AW[eg]AW[gg]AB[bg]AB[ch]AW[bf]AB[bh]AB[bd]AW[af]AB[jh]C[White to win the capturing race.]AP[goproblems]
+(;W[ee];B[ef]
+(;W[ff];B[ed]
+(;W[gd]
+(;B[gf]
+(;W[fg];B[ge]
+(;W[fd];B[ee]
+(;W[hf];B[he];W[ie];B[hd]
+(;W[hc]C[Good!RIGHT])
+(;W[ic];B[if];W[hg];B[id];W[je];B[jd];W[kd];B[ke];W[jf];B[jc];W[kc];B[jb]C[White has 3 liberties, black has 4 liberties. White has lost.])
+(;W[id];B[hc];W[gb];B[if];W[hg];B[ic];W[jc];B[jd];W[je];B[jb]
+(;W[kc];B[ib]C[White has 3 liberties, black has 4 liberties. White has lost.])
+(;W[kd];B[ib]C[White has 3 liberties, black has 4 liberties. White has lost.])))
+(;W[he];B[hf]C[This ladder is broken :(]TR[jh])
+(;W[if];B[he]
+(;W[ie];B[hd];W[hc];B[id];W[jd];B[ic];W[jc];B[ib]C[White has 3 liberties, black has 4 liberties. White has lost.])
+(;W[hf];B[hc]
+(;W[ie];B[hd];W[gb];B[be]C[White has 2 liberties, black has 3 liberties. White has lost.])
+(;W[hd];B[ie];W[je];B[id];W[gb];B[ic]C[White has 3 liberties, black has 4 liberties. White has lost.]))))
+(;W[he])
+(;W[hf];B[he]C[Why easy, when you can do it complicated?]
+(;W[fd];B[ee])
+(;W[ie];B[hd]
+(;W[fd];B[ee])
+(;W[hc];B[id]
+(;W[fd]C[Good!RIGHT])
+(;W[jd];B[ic]
+(;W[fd]C[Good!RIGHT])
+(;W[ib];B[jc]
+(;W[fd]C[Good!RIGHT])
+(;W[kc];B[jb]
+(;W[fd]C[Good!RIGHT])
+(;W[kb];B[hb];W[gb];B[ia]C[Black will double atari.]TR[je]TR[if]))))))))
+(;W[ge];B[fg]
+(;W[hf])
+(;W[fh];B[be]C[White has 2 liberties, black has 3 liberties. White has lost.]LB[ae:1]LB[ag:2]LB[fd:1]LB[ee:2]LB[ff:3]))
+(;W[hf];B[fg]
+(;W[fh];B[be]LB[ae:1]LB[ag:2]LB[fd:1]LB[ee:2]LB[ff:3]C[White has 2 liberties, black has 3 liberties. White has lost.])
+(;W[ge];B[be]LB[fd:1]LB[ee:2]LB[ff:3]C[White has 2 liberties, black has 3 liberties. White has lost.]LB[ae:1]LB[ag:2]))
+(;W[fd];B[fg];W[fh];B[ff];W[hf];B[hg];W[gh];B[he];W[if];B[ge]
+(;W[hd];B[ie];W[je];B[id];W[ic];B[jd];W[kd];B[jf])
+(;W[id]C[];B[be]C[White has 2 liberties, black has 3 liberties. White has lost.])
+(;W[ie];B[hd];W[hc];B[id];W[jd];B[ic];W[ib];B[jc];W[kc];B[hb];W[gb];B[jb];W[ha];B[kd];W[je];B[lc])))
+(;B[ge]
+(;W[fd];B[ee];W[he]C[Good!RIGHT])
+(;W[he];B[gf]
+(;W[fg];B[hf]C[The ladder doesn't work, black escapes.])
+(;W[fd];B[fg]
+(;W[fh];B[hf]C[Black escapes.])
+(;W[hf];B[fh]C[Black escapes.])))))
+(;W[ge];B[ae];W[gd];B[ag];W[fd];B[be]C[This sad thing happened in the game.]))
+(;W[ed];B[fd]C[:(])
+(;W[fd];B[ed]
+(;W[gd];B[ff]LB[ae:1]LB[be:2]LB[ag:3]LB[ee:1]LB[ge:2]LB[gf:3]LB[fg:4]C[White has 3 liberties, black has 4 liberties. White has lost.])
+(;W[ff];B[gd];W[hd];B[he]C[Black has two eyes and escapes.])
+(;W[ge];B[gd];W[hd];B[gf]C[Black escapes.]))
+(;W[ge];B[ff]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[fd:2]LB[gf:3]LB[fg:4]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost.])
+(;W[gd];B[ff]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[fd:2]LB[ge:3]LB[gf:4]LB[fg:5]C[White has 3 liberties, black has 5 liberties (black can sacrifice e17 and f17). White has lost.]))
+(;W[ef];B[ee]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost.]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[fd:2]LB[ge:3]LB[ff:4])
+(;W[ff];B[ee]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[fd:2]LB[ge:3]LB[ef:4]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost.])
+(;W[ge];B[ee]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[fd:2]LB[ef:3]LB[ff:4]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost.])
+(;W[fd];B[ee]LB[ae:1]LB[be:2]LB[ag:3]LB[ed:1]LB[ge:2]LB[ef:3]LB[ff:4]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost.])
+(;W[ed]
+(;B[ee]LB[ae:1]LB[be:2]LB[ag:3]LB[fd:1]LB[ge:2]LB[ef:3]LB[ff:4]C[White has 3 liberties, black has 4 liberties (black can sacrifice e17 and f17). White has lost. Black could also play f16 instead of e15, but this way it's easier to count.])
+(;B[fd]))
+(;W[lc]C[This variation is here to enlarge the visible area.]))

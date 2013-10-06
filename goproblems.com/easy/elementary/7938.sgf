@@ -1,0 +1,47 @@
+(;GE[elementary]DI[18k]DP[69]SO[koala]CO[6]SZ[19]AW[gn]AW[jn]AW[ho]AW[jp]AW[kp]AW[lp]AW[kq]AW[lq]AW[mq]AW[nq]AW[ir]AB[ep]AB[fr]AB[jr]AB[kr]AB[lr]LB[ir:1]TR[jr]TR[kr]TR[lr]C[White threatens capture with 1.  Black to save his stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[jq];W[iq];B[mr];W[nr];B[is];W[hs];B[hr];W[js]
+(;B[gs];W[is];B[ip];W[hq]
+(;B[hp];W[gr];B[gq];W[fs];B[es];W[gp])
+(;B[gq];W[gr];B[hp];W[fs];B[es];W[gp]))
+(;B[hq];W[ip]C[White connects]))
+(;B[hr]
+(;W[iq];B[is]C[RIGHT]C[You have saved your stones, but black could have done betterRIGHT])
+(;W[ip]))
+(;B[hs];W[hr]
+(;B[is];W[gs]
+(;B[gr];W[js])
+(;B[js];W[gr]))
+(;B[iq];W[hq]
+(;B[is];W[gs];B[js];W[gr])
+(;B[hp];W[ip]))
+(;B[hq];W[iq];B[is];W[gs];B[gr];W[js])
+(;B[gr];W[is]
+(;B[iq];W[hq])
+(;B[hq];W[iq])
+(;B[ip];W[iq])))
+(;B[is];W[hr];B[hs];W[gs]
+(;B[gr];W[js]
+(;B[iq];W[hq];B[hp];W[ip])
+(;B[hq];W[iq])
+(;B[hp];W[iq])
+(;B[ip];W[iq];B[jq];W[hp]))
+(;B[js];W[gr]))
+(;B[mr];W[iq];B[nr];W[or])
+(;B[hq];W[iq]
+(;B[hr];W[is])
+(;B[is];W[hr];B[hs];W[gs]
+(;B[gr];W[js])
+(;B[js];W[gr])))
+(;B[iq];W[hr]
+(;B[hq];W[jq]
+(;B[gr]C[RIGHT]C[Black captures firstRIGHT])
+(;B[is]C[RIGHT])
+(;B[hs];W[gr];B[gq]C[RIGHT])
+(;B[gq];W[mr]C[Because this move is now sente, capturing firmly with G2 instead of G3 is better.RIGHT])
+(;B[fq];W[mr]C[Because this is now sente, capturing firmly with G2 instead of F3 is usually better.RIGHT])
+(;B[js];W[gq];B[gr];W[hp]
+(;B[hs]C[It does connect, but losing two stones was costly.])
+(;B[is]C[Technically, yes, this does connect, but sacrificing two stones is too costly.])
+(;B[gs]C[Technically, yes, this does connect, but sacrificing two stones is too costly.])))
+(;B[jq];W[hq];B[hp];W[gp]C[White connects])
+(;B[gq];W[hq];B[hp];W[ip])))

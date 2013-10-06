@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[1k]DP[20]SO[MrMoto]CO[4]AB[bg]AB[bh]AB[bi]AB[cg]AB[ce]AB[de]AB[df]AB[ff]AB[ef]AB[eg]AB[eh]AB[dh]AB[ed]AB[gd]AB[gc]AB[ic]AB[id]AB[he]AB[ie]AB[je]AB[hf]AB[hg]AB[hh]AB[hi]AB[ih]AB[jh]AB[ji]AB[jj]AB[ij]AB[dj]AB[cj]AB[dk]AB[dl]AB[fl]AB[fk]AB[gl]AB[hl]AB[hk]AB[il]AB[jl]AB[cm]AB[cn]AB[bp]AB[jo]AB[ko]AB[kn]AB[km]AB[mo]AB[mn]AB[nn]AB[np]AB[nq]AB[pq]AB[qp]AB[qo]AB[qk]AB[qj]AB[qh]AB[pf]AB[pd]AB[lg]AB[ll]AB[mk]AB[nj]AW[dc]AW[dd]AW[fc]AW[fd]AW[fe]AW[ee]AW[ge]AW[gf]AW[gg]AW[fg]AW[fh]AW[ch]AW[ci]AW[di]AW[ei]AW[ej]AW[fj]AW[gj]AW[gk]AW[hj]AW[gi]AW[bj]AW[bk]AW[ck]AW[cl]AW[bm]AW[bn]AW[dm]AW[dn]AW[dp]AW[cq]AW[fp]AW[jm]AW[jn]AW[hm]AW[hn]AW[lm]AW[mp]AW[lp]AW[no]AW[oo]AW[po]AW[pn]AW[qn]AW[pl]AW[pk]AW[ik]AW[jk]AW[kl]AW[kk]AW[kj]AW[ki]AW[kh]AW[kg]AW[jg]AW[jf]AW[if]AW[ke]AW[jd]AW[jc]AW[ld]AW[nc]LB[jo:1]LB[hn:2]C[How should Black continue?]AP[goproblems]
+(;B[io];W[ho]C[too small.])
+(;B[hp];W[go]C[there is a more severe move.])
+(;B[in];W[im]
+(;B[io];W[ho]C[vulgar.])
+(;B[ho];W[io]C[J6 was premature.]))
+(;B[go];W[ho]C[];B[hp];W[gn]
+(;B[fo];W[fn]
+(;B[gp];W[fq]C[There is a cleaner solution.])
+(;B[eo];W[gp]))
+(;B[gp];W[fo]C[There is a cleaner solution.]))
+(;B[ho]
+(;W[go]C[CHOICE]
+(;B[hp];W[gn]C[bad style:  you might as well have only played H4.])
+(;B[io];W[gn]C[bad style.])
+(;B[in];W[im]
+(;B[io];W[gn]C[vulgar.])
+(;B[hp];W[gn]C[vulgar.])
+(;B[gn];W[io]
+(;B[gm];W[hp]C[:O])
+(;B[hp];W[ip];B[gm];W[in];B[iq];W[jp];B[kp];W[jq];B[jr];W[kq]
+(;B[lq];W[kr]
+(;B[ks];W[lr];B[mr];W[mq];B[ls];W[lq];B[lo]C[laddery goodness!  +1 bonus pointRIGHT])
+(;B[lr]C[RIGHT]))
+(;B[kr];W[lq]C[:O]))))
+(;B[gn];W[io]
+(;B[hp];W[ip]
+(;B[in];W[im];B[gm];W[in];B[iq];W[jp];B[kp];W[jq];B[jr];W[kq]
+(;B[kr];W[lq]C[:O])
+(;B[lq];W[kr]
+(;B[lr]C[RIGHT])
+(;B[ks];W[lr];B[mr];W[mq];B[ls];W[lq];B[lo]C[laddery goodness!  +1 bonus pointRIGHT])))
+(;B[im];W[in]))
+(;B[in];W[im]
+(;B[gm];W[hp]C[:O])
+(;B[hp];W[ip];B[gm];W[in];B[iq];W[jp];B[kp];W[jq];B[jr];W[kq]
+(;B[kr];W[lq])
+(;B[lq];W[kr]
+(;B[lr]C[RIGHT])
+(;B[ks];W[lr];B[mr];W[mq];B[ls];W[lq];B[lo]C[laddery goodness!  +1 bonus pointRIGHT]))))))
+(;W[gn]C[CHOICE];B[go];W[fn]C[nice work:  Black can fortify around G3 on the next move.RIGHT])))

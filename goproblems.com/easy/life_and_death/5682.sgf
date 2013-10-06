@@ -1,0 +1,41 @@
+(;GE[life and death]DI[7k]DP[40]SO[maba]CO[7]AW[ac]AW[bb]AW[cc]AB[bc]AB[bd]AB[be]AB[bf]AB[cd]AB[ce]AW[cf]AW[df]AW[de]AW[dd]AB[cg]AB[ag]AW[dg]AW[ef]AB[eg]AW[ff]AW[fg]AW[gf]AW[hf]AW[hg]AW[hh]AW[ih]AW[jg]AW[jf]AW[jd]AW[kd]AW[ld]AW[le]AW[me]AW[ne]AW[od]AW[oc]AW[ob]AW[nc]AW[mb]AW[lb]AB[pb]AB[pc]AB[pd]AB[ig]AB[if]AB[ie]AB[he]AB[ic]AB[hc]AB[jc]AB[kc]AB[lc]AB[mc]AB[md]AB[nd]AB[kb]AB[ib]AB[gb]AB[fb]AB[ga]AW[fa]AW[eb]AW[fc]AW[gc]AW[pe]AB[qe]AW[pf]AW[qf]AB[re]AB[rf]AB[rc]AW[rg]AW[ph]AB[ah]AB[bi]AB[ci]AB[ch]AB[dh]AB[fh]AB[gh]AB[gg]AB[gi]AB[hi]AB[dj]AB[ej]AB[ei]AW[ii]AW[ij]AW[jj]AW[kj]AW[lj]AB[gk]AB[hk]AB[fk]AB[ek]AB[li]AB[kh]AW[mi]AW[mh]AW[nh]AB[oh]AB[pi]AB[oi]AB[ni]AW[og]AB[mj]AB[nj]AB[nk]AB[ok]AW[qi]AW[ri]AB[qj]AB[rj]AB[pj]C[White played 1 and black responded with 2. What should white do?]AW[dc]LB[fa:1]LB[ga:2]AP[goproblems]
+(;W[ha];B[ea]
+(;W[ja];B[ka]
+(;W[ia];B[db]
+(;W[ec];B[cb]
+(;W[ca]C[Black's attempt to connect fails.RIGHT])
+(;W[ba]C[Black's attempt to connect fails.RIGHT])
+(;W[da];B[ca];W[ba]C[Black's attempt to connect fails.RIGHT]))
+(;W[cb];B[ec]))
+(;W[da];B[ia]))
+(;W[da];B[ja]C[Black lives.])
+(;W[ia];B[ja]C[Black lives.]))
+(;W[ja];B[ka]
+(;W[ha]
+(;B[ea]
+(;W[ia];B[db]
+(;W[ec];B[cb]
+(;W[ca]C[Black's attempt to connect fails.RIGHT])
+(;W[ba]C[Black's attempt to connect fails.RIGHT])
+(;W[da];B[ca];W[ba]C[Black's attempt to connect fails.RIGHT]))
+(;W[cb];B[ec]))
+(;W[da];B[ia]))
+(;B[ia];W[hb]C[RIGHT]))
+(;W[ia]
+(;B[ea]
+(;W[ha];B[db]
+(;W[ec];B[cb]
+(;W[ca]C[Black's attempt to connect fails.RIGHT])
+(;W[ba]C[Black's attempt to connect fails.RIGHT])
+(;W[da];B[ca];W[ba]C[Black's attempt to connect fails.RIGHT]))
+(;W[cb];B[ec]))
+(;W[db];B[ha])
+(;W[da];B[ha]))
+(;B[jb];W[ha]C[RIGHT])
+(;B[ha];W[hb]C[RIGHT])))
+(;W[ea];B[ka]
+(;W[ha];B[hb]TR[ia]TR[ja]C[Black lives])
+(;W[ia];B[ja]C[Black lives]))
+(;W[ia];B[ja]C[Black lives.])
+(;W[hb];B[ha];W[ja];B[ka])
+(;W[ka];B[ja]))

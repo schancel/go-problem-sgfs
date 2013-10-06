@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4k]DP[29]SO[karmaGfa]CO[7]SZ[19]AW[no]AW[oo]AW[po]AW[qo]AW[so]AW[np]AW[qp]AW[rp]AW[nq]AW[oq]AW[pq]AW[pr]AW[rs]AB[nm]AB[om]AB[pm]AB[qm]AB[mn]AB[rn]AB[mo]AB[ro]AB[mp]AB[sp]AB[mq]AB[qq]AB[rq]AB[nr]AB[or]AB[qr]AB[ps]C[White to live unconditionally]AB[mr]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]PL[W]
+(;W[sr];B[sn]
+(;W[qs];B[sq];W[os]C[];B[so];W[rr]C[RIGHT])
+(;W[sq];B[qs];W[so]C[Ko only])
+(;W[rr];B[qs])
+(;W[os];B[ns]
+(;W[qs];B[sq];W[os];B[so]
+(;W[rr];B[ps]C[Only ko])
+(;W[ps];B[rr]))
+(;W[sq];B[qs];W[so];B[os]
+(;W[sp];B[rr])
+(;W[rr];B[sp]C[Just ko]))
+(;W[rr];B[sq])))
+(;W[qs]
+(;B[sr]
+(;W[os];B[sn])
+(;W[sq]C[Just ko. Yeah, but what if  White can win it anyway you ask?  It is bigger, right? Yes, but then Black would have defended differently. You've given Black the choice to do what's best. Assuming Black can fight the ko, this is definitely worse.]))
+(;B[sq];W[sr];B[sn]C[Just for reference: suppose Black has no threats and no big plays for the free move gained from losing the ko. Then Black can choose to get no worse than the solution. Just giving Black that choice is bad in itself.]))
+(;W[sq];B[sr]
+(;W[qs];B[sp]C[Just ko])
+(;W[rr];B[sp]C[only ko])
+(;W[os];B[sp]C[Just ko])
+(;W[sp];B[qs]))
+(;W[rr];B[sq]
+(;W[qs];B[sn])
+(;W[os];B[sn]
+(;W[qs];B[sr])
+(;W[sr];B[ns]))
+(;W[sr];B[sn]))
+(;W[os];B[sr]
+(;W[qs];B[sn])
+(;W[sq];B[ns]
+(;W[rr];B[sp]C[Just ko])
+(;W[qs];B[sp]C[Just ko. The other ko around Q1 is not relevant])
+(;W[sp];B[qs]))
+(;W[rr];B[sn])))

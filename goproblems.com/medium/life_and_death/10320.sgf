@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[19]SO[marwin]CO[9]AW[sp]AW[rq]AW[qr]AW[pr]AW[so]AB[pq]AB[qq]AB[qp]AW[oq]AW[op]AW[oo]AW[po]AW[pn]AW[qn]AW[rn]AB[sn]AB[sm]AB[rm]AB[qm]AB[pm]AB[om]AB[on]AB[no]AB[np]AB[nq]AB[nr]AB[or]C[Don't even think about not killing this group.FORCE]AP[goproblems]
+(;B[rr];W[rs]
+(;B[sr];W[sq]
+(;B[ps];W[ss]
+(;B[rr];W[sr];B[os]
+(;W[qs]C[CHOICE];B[ro]C[Good jobRIGHT])
+(;W[ro];B[qs];W[rr];B[pp]C[RIGHT]))
+(;B[os];W[rr];B[ro];W[rp])
+(;B[ro]))
+(;B[ro];W[ss]
+(;B[qo];W[ps])
+(;B[ps];W[rp])
+(;B[rr];W[sr]
+(;B[ps];W[rp])
+(;B[qo];W[ps]))))
+(;B[rp];W[sr];B[ro];W[sq]C[White is alive.]))
+(;B[ro];W[rp]
+(;B[qo];W[pp])
+(;B[rr];W[qo];B[qs];W[pp]))
+(;B[rp];W[ro];B[rr];W[sr]LB[sq:Ko?]
+(;B[rs];W[qo]LB[sq:Ko?]
+(;B[sq]C[Ko is not good enough.])
+(;B[ps];W[pp]))
+(;B[sq]C[Ko is not the best result.]))
+(;B[ps];W[rr];B[ro];W[rp])
+(;B[qs];W[rr];B[ps];W[rs];B[rp];W[ro])
+(;B[rs];W[rr];B[ps];W[qs];B[rp];W[ro])
+(;B[sq];W[sr]
+(;B[ro];W[rp])
+(;B[rp];W[ro]))
+(;B[sr];W[rr]
+(;B[ro];W[rp])
+(;B[rp];W[ro]))
+(;B[ss];W[rr])
+(;B[qo];W[ro])
+(;B[pp];W[rp])
+(;B[os];W[rr]))

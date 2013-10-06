@@ -1,0 +1,11 @@
+(;GE[elementary]DI[15k]DP[61]SO[maba]CO[7]AB[jj]AB[ij]AW[ji]AW[ki]AW[lj]AW[li]AB[ii]AB[kj]AW[kk]AW[kl]AW[ik]AW[il]AB[hk]AB[gl]AB[gm]AB[fj]AB[fk]AB[ei]AB[fh]AB[gg]AB[hh]AW[ih]AW[jg]AW[fi]AW[gi]AW[hi]AW[gj]AW[gk]C[White to play]AP[goproblems]
+(;W[jk]
+(;B[hj]C[CHOICE];W[hl]C[RIGHT])
+(;B[hl];W[hj]C[RIGHT])
+(;B[gh]C[CHOICE];W[hj]C[RIGHT]))
+(;W[hl];B[gh]
+(;W[jk];B[hj])
+(;W[hj];B[hk]))
+(;W[hj];B[gh])
+(;W[hg];B[gh];W[jk];B[hj])
+(;W[gh];B[hj]))

@@ -1,0 +1,15 @@
+(;GE[best move]DI[7k]DP[42]SO[Field Mouse]CO[0]AW[dd]AW[fd]AB[ge]AB[fe]AB[gd]AB[gc]AB[fc]AB[dc]AB[cc]AB[cd]AW[eb]AB[ce]AB[de]AW[ed]AB[ec]AW[fb]AW[gb]AW[db]AW[be]AW[bf]AW[cf]AW[df]AW[ff]AW[gf]AW[hf]AW[he]AW[hd]AW[fg]AW[dg]AW[eg]AB[bd]AW[ae]AB[bb]AB[ib]AW[cb]AW[ba]AW[ca]AW[ab]AB[bc]AB[ad]AW[fa]AB[ha]AW[hb]AB[hc]AW[ic]AW[id]AB[jb]AB[jd]AB[je]AW[jc]AB[kc]AB[kd]AW[kb]AB[lb]AW[ka]AB[la]AB[ea]C[White turn, what to play?]AP[goproblems]
+(;W[ee];B[ef]
+(;W[ed];B[ee]
+(;W[aa];B[ja]
+(;W[ac];B[ia]
+(;W[dd]C[RIGHT])
+(;W[fd]C[RIGHT]))
+(;W[dd];B[ia];W[ac]C[RIGHT])
+(;W[fd];B[ia];W[ac]C[RIGHT]))
+(;W[dd];B[ja];W[aa];B[ia])
+(;W[fd];B[ja];W[aa]))
+(;W[ee];B[ed]C[Ouch]))
+(;W[ac];B[ee];W[ed];B[aa];W[ab];B[ja]C[Seki])
+(;W[ef];B[ee];W[ed];B[ja]C[Seki])
+(;W[ga];B[ee];W[ed];B[ja];W[ia]C[Weird ko, but you could do better.]))

@@ -1,0 +1,9 @@
+(;GE[best move]DI[18k]DP[68]SO[Jocund]CO[8]AW[oa]AW[pa]AW[mh]AW[ob]AW[mc]AW[oc]AW[nd]AW[ne]AW[nf]AW[ng]AW[oh]AW[rh]AW[oi]AW[ri]AW[oj]AW[pj]AW[qj]AW[mk]AW[nk]AW[ok]AW[rk]AW[rl]AW[ro]AW[pp]AW[qp]AW[rp]AW[oq]AW[qq]AW[or]AW[pr]AW[qr]AB[qa]AB[pb]AB[rb]AB[pc]AB[od]AB[oe]AB[of]AB[og]AB[pg]AB[qg]AB[rg]AB[qh]AB[pi]AB[qi]AB[rj]AB[pk]AB[qk]AB[ml]AB[nl]AB[ol]AB[ql]AB[qm]AB[rm]AB[pn]AB[rn]AB[oo]AB[po]AB[qo]AB[mp]AB[op]AB[nq]AB[nr]AB[os]AB[qd]C[Black to get the most points possible assuming the left of the board is already decided.]
+(;B[sj]C[RIGHT]C[Now white can't kill black since white can not push.RIGHT])
+(;B[sh];W[sj]C[You can do better.])
+(;B[sl];W[sj]C[You can do better.])
+(;B[sk];W[sj]C[This is giving white a point.])
+(;B[si];W[sj]C[This is giving white a point.])
+(;B[ps]C[1 point, potentially gote reduction is the best you can do?])
+(;B[sg];W[sj]C[You can do better than this.])
+(;B[sm]C[You can do better than this.];W[sj]C[You can do better than this.]))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[3k]DP[26]SO[marwin]CO[7]C[L in the corner - usualy dead, but not this time]AB[pr]AB[pq]AB[qq]AB[rq]AB[qo]AB[qp]AB[po]AB[qn]AB[qm]AW[or]AW[oq]AW[op]AW[oo]AW[pn]AW[pm]AW[pl]AW[rm]AW[rn]AW[ql]AW[ro]AP[goproblems]
+(;B[rs];W[sr]
+(;B[rr];W[sq]
+(;B[rp];W[sp]
+(;B[so];W[sn]
+(;B[ss];W[rl];B[so];W[sp];B[sq]C[RIGHT])
+(;B[rl];W[rk];B[ss]C[RIGHT]))
+(;B[rl];W[rk];B[so];W[sn]))
+(;B[sp];W[rp];B[ss];W[sq];B[rl];W[rk]))
+(;B[sq];W[rr]
+(;B[qs])
+(;B[ps];W[qr])))
+(;B[sr];W[rs];B[qs];W[rr];B[rp];W[sp];B[so];W[sn])
+(;B[qs];W[rr];B[sr];W[rs])
+(;B[rr];W[qs]
+(;B[ps];W[rs];B[rp];W[sp]
+(;B[ss];W[sq])
+(;B[sq];W[ss]))
+(;B[rs];W[ps]))
+(;B[rp];W[ps];B[rs];W[sr]
+(;B[rr];W[qs])
+(;B[qs];W[rr];B[os];W[mr]))
+(;B[rl];W[rk];B[rs];W[sr]
+(;B[rr];W[sq];B[rp];W[sp])
+(;B[sq];W[rr];B[ps];W[qr])))

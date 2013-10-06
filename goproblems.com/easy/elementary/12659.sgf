@@ -1,0 +1,18 @@
+(;GE[elementary]DI[8k]DP[48]SO[Bleedo]CO[0]AW[ak]AW[bj]AW[ck]AW[bl]AW[dl]AW[em]AB[cm]AW[ce]AW[cc]AW[ca]AW[da]AW[ea]AW[eb]AW[fc]AW[fd]AW[gc]AW[gb]AW[ha]AW[hd]AW[ic]AW[ib]AW[jb]AW[ja]AW[ka]AW[la]AW[ee]AW[ff]AW[fg]AW[eg]AW[jm]AW[il]AW[kn]AW[ln]AW[lo]AW[co]AW[dp]AW[ep]AW[gq]AW[fq]AW[jo]AW[io]AW[jp]AW[kp]AW[kq]AW[kk]AW[kl]AW[ml]AW[ok]AW[pi]AW[mh]AW[if]AW[ps]AW[or]AW[oq]AW[op]AW[pp]AW[po]AW[pn]AW[pm]AW[qm]AW[rm]AB[qr]AB[pr]AB[pq]AB[qp]AB[rq]AB[qo]AB[qn]AB[rn]AB[sc]AB[rb]AB[rd]AB[qd]AB[pd]AB[nc]AB[mb]AB[ma]AB[lb]AB[kb]AB[jc]AB[jd]AB[id]AB[he]AB[fh]AB[cj]AB[dj]AB[di]AB[bi]AB[bh]AB[bg]AB[dh]AB[dg]AB[cf]AB[df]AB[ef]AB[de]AB[dd]AB[dc]AB[ec]AB[db]AB[cb]AB[bb]AB[ba]AB[fl]AB[fn]AB[fm]AW[gn]AB[fp]AB[gp]AB[hp]AB[iq]AB[jq]AB[kr]AB[lq]AB[lp]AB[mr]AB[mo]AB[mn]AB[mm]AB[lm]AB[km]AB[np]AB[nl]AB[nk]AW[sd]AW[se]AW[re]AW[qf]AB[jl]AB[jk]TR[km]C[White to capture some black stones]AP[goproblems]
+(;W[jj];B[ik];W[hk];B[ij];W[ii];B[hj];W[gj];B[hi];W[hh];B[gi]
+(;W[fi];B[gh]
+(;W[eh];B[gg]
+(;W[hg];B[gf]
+(;W[ge]C[In the real game, black continues to play and resigns after an invasion fails in the lower left.RIGHT])
+(;W[hf];B[ge];W[ie];B[ei]))
+(;W[gf];B[hg]
+(;W[ig];B[ih]
+(;W[ji];B[ei])
+(;W[hf];B[ji]))
+(;W[hf];B[ih])))
+(;W[gg];B[eh]))
+(;W[gh];B[fi]))
+(;W[ik];B[jj]C[Black can escape to either side because of the triangle move.]TR[im])
+(;W[im];B[kj])
+(;W[kj];B[im])
+(;W[ij];B[im]))

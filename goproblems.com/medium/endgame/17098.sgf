@@ -1,0 +1,9 @@
+(;GE[endgame]DI[3d]DP[11]SO[1234boys]CO[0]SZ[4]AB[dc]AB[cc]AB[cb]AB[ca]AW[ba]AW[bb]AW[bc]AW[ac]C[Black to win. (Without comi)]AP[goproblems]
+(;B[cd];W[bd]C[Wrong! This game is tie!])
+(;B[bd];W[cd]
+(;B[dd];W[ad]
+(;B[ab]C[Black wins.RIGHT])
+(;B[aa]C[Black wins.RIGHT]))
+(;B[aa]
+(;W[ad];B[dd];W[db];B[bd];W[bc];B[ab]C[RIGHT]))
+(;B[ab];W[ad];B[dd];W[db];B[bd];W[bc];B[aa]C[RIGHT])))

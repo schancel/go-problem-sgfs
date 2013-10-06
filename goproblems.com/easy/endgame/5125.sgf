@@ -1,0 +1,28 @@
+(;GE[endgame]DI[10k]DP[50]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[da][db][eb][ec][fc][fd][fe][cf][df][ef][dg]AB[ca][cb][bc][dc][dd][ed][ce][ee][bf][bg][cg]C[No komi, no prisoners - White to play and draw!]RE[0]PL[W]
+(;W[be]CR[be]
+;B[bd]CR[bd]
+(;W[de]CR[de]
+;B[ae]CR[ae]
+(;W[ff]CR[ff]C[Jigo! RIGHT])
+(;W[gf]CR[gf]C[Jigo! RIGHT])
+(;W[fg]CR[fg]C[Jigo! RIGHT]))
+(;W[ae]CR[ae]
+;B[ad]CR[ad]
+;W[de]CR[de]
+;B[af]CR[af]
+(;W[ff]CR[ff]C[Jigo! RIGHT])
+(;W[fg]CR[fg]C[Jigo! RIGHT])
+(;W[gf]CR[gf]C[Jigo! RIGHT])))
+(;W[ff]CR[ff]
+;B[de]CR[de]C[Black wins by one point!])
+(;W[de]CR[de]
+;B[ff]CR[ff]C[Black wins!])
+(;W[cd]CR[cd]
+;B[be]CR[be]
+;W[de]CR[de]
+;B[cc]CR[cc]
+(;W[ff]CR[ff]C[Jigo! RIGHT])
+(;W[gf]CR[gf]C[Jigo! RIGHT])
+(;W[fg]CR[fg]C[Jigo! RIGHT])))

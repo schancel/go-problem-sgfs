@@ -1,0 +1,35 @@
+(;GE[best move]DI[5k]DP[34]SO[MatheusB]CO[7]SZ[9]AB[db]AB[eb]AB[cc]AB[fc]AB[fd]AB[gd]AB[ge]AB[ie]AB[he]AB[if]AB[gf]AB[gg]AB[gh]AB[ig]AB[hi]AB[gi]AW[hh]AW[ih]AW[hg]AB[be]AB[ce]AB[cf]AW[bf]AW[bg]AW[cg]AW[ec]AW[ed]AW[ee]AW[ff]AW[fg]AW[fh]AW[fi]AW[fb]AW[gc]AW[hb]AW[hd]AW[id]C[Japanese rules. Komi is 6.5, there are no prisoners as yet.Black to win the game.]AW[df]AW[fe]AW[fa]AB[bc]AB[ae]AW[af]AW[de]AB[dg]AW[eg]AB[ci]AW[ch]AB[bi]AB[ah]AW[di]AP[goproblems]
+(;B[ib];W[hc]
+(;B[ha];W[ga]
+(;B[ea];W[ia]C[Play K if you need a ko threat.]LB[dh:K]
+(;B[dh];W[eh];B[ha]
+(;W[cd]
+(;B[gb]C[Black wins by 3.5 points.];W[bd]C[Black wins by 3.5 points. You can follow the marked points to play it out completely.RIGHT]MA[ac];B[ac];W[ad]MA[dc];B[dc];W[dd]C[RIGHT])
+(;B[bd];W[ia]C[White wins as bottom-right corner is seki and Black has no ko threats to win the ko.])
+(;B[dh];W[ia]C[White wins as bottom-right corner is seki and Black has no ko threats to win the ko.]))
+(;W[ii]
+(;B[gb]C[White cannot use J1 for a ko threat, as this clearly demonstrates.RIGHT])))
+(;B[ei]C[NOTTHIS])
+(;B[eh];W[ic]C[White wins as bottom-right corner is seki and this was not a ko threat.])
+(;B[dd];W[ic]C[White wins as bottom-right corner is seki.])
+(;B[dc];W[ic]C[White wins as bottom-right corner is seki.]))
+(;B[dh];W[eh]C[Black has no ko threats so he looses the fight in the top-right corner.])
+(;B[ei];W[dh]C[Black has no ko threats so he looses the fight in the top-right corner.]))
+(;B[ea];W[ha]C[White wins as bottom-right corner is seki.])
+(;B[ga];W[ha]C[White wins as bottom-right corner is seki.])
+(;B[gb];W[ha]C[White wins as bottom-right corner is seki.])
+(;B[ia];W[ha]C[White wins as bottom-right corner is seki.])
+(;B[dh];W[eh];B[ha];W[ga]C[Black has no ko threats so he looses the fight.])
+(;B[ei];W[dh];B[ha];W[ga]C[Black has no ko threats so he looses the fight.]))
+(;B[ha];W[ib]
+(;B[ea];W[gb]C[White wins as bottom-right corner is seki.])
+(;B[ga];W[gb]C[White wins as bottom-right corner is seki.])
+(;B[gb];W[ga];B[ea];W[ia]C[White wins as bottom-right corner is seki.]))
+(;B[ea];W[ib]C[White wins as bottom-right corner is seki.])
+(;B[ga];W[ha]C[White wins as bottom-right corner is seki.])
+(;B[gb];W[ga];B[ib];W[hc];B[ha];W[ia]C[Black has only one ko threat so he looses the fight.];B[dh];W[eh];B[ha])
+(;B[ia];W[ib]C[White wins as bottom-right corner is seki.])
+(;B[hc];W[ic]C[White wins as bottom-right corner is seki.])
+(;B[ic];W[hc]C[White wins as bottom-right corner is seki.])
+(;B[dh];W[eh]C[White wins as bottom-right corner is seki.Black has no ko threats to kill top-right corner.])
+(;B[ei];W[dh]C[White wins as bottom-right corner is seki.Black has no ko threats to kill top-right corner.]))

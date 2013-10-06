@@ -1,0 +1,75 @@
+(
+
+;GE[life and death]DI[3k]DP[24]SO[unkx80]CO[5]
+
+FF[1]
+
+GM[1]
+
+SZ[19]
+
+AP[Jago:Version 4.53]
+
+AB[qr][qq][ks][kr][kq][lq][mq][np][op][pp][mo][ro]
+
+AW[ps][pr][pq][qp][rp][rq][rr][oq][nq][mr][lr][ls][ms][qo][qn][rn]
+
+LB[nr:A][lk:1][mk:2][nk:3][ok:4][pk:5][ll:6][ml:7][nl:8][ol:9][pl::][lm:;][pl:10][lm:11][mm:12][nm:13][om:14][pm:15]
+
+C[How much is A worth? (Please DO NOT play at A.)]
+
+GN[goproblem2576]
+
+(
+
+;
+
+W[lm]
+
+C[7 + 4 = 11 points. Please use the navigate solution feature for more details.
+
+RIGHT]
+
+)
+
+(
+
+;
+
+W[rl]
+
+;
+
+B[nr]
+
+;
+
+W[or]
+
+;
+
+B[ns]
+
+LB[mr:A]
+
+M[lr][ls][ms]
+
+C[Black has 3 points (he needs to defend at A) and 4 prisoners, with a total count of 7 points.]
+
+TR[lr][ls][ms]
+
+)
+
+(
+
+;
+
+W[nr]
+
+TR[ns][os][or][qs]
+
+C[White secures 4 points.]
+
+)
+
+)

@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[20k]DP[72]SO[santa c]CO[8]AB[af]AB[ae]AB[be]AB[ce]AB[cd]AB[dd]AW[de]AW[df]AW[cf]AW[bf]AW[ef]AW[cg]AW[ah]AW[bh]AB[ch]AB[dh]AB[di]AB[dj]AW[ci]AW[cj]AW[ck]AB[ee]AB[fe]AB[ff]AB[eg]AB[dk]AW[gg]AW[fg]C[Can you capture 'A' (C14)?]AW[bk]AW[ak]AB[ed]AB[gf]AB[hf]AW[hg]AW[gi]AW[dl]AB[el]AW[dm]AB[em]AW[cl]LB[cf:A]AP[goproblems]
+(;B[bg];W[ag]
+(;B[dg]C[White should realise that he can't save, but this is for beginners, so.. ;)];W[bg]
+(;B[bi]C[Desprate white.. ;)];W[ai];B[aj]C[Nice! ;)RIGHT])
+(;B[ai];W[bi]C[Wrong! White connects and escapes..]))
+(;B[bi];W[ai];B[dg]
+(;W[bj];B[bg]C[Nice! ;)RIGHT])
+(;W[bg];B[aj]))
+(;B[ai];W[bi];B[dg];W[bg]C[White's connected, and very alive..]))
+(;B[dg]C[];W[bg]
+(;B[bi];W[ai]
+(;B[ag];W[bj]C[Oops? ;)])
+(;B[aj];W[bj]))
+(;B[ai];W[bi]C[Aww...])
+(;B[ag];W[bi]C[Hmm...]))
+(;B[ag];W[bg]
+(;B[dg];W[bi]C[Oops? ;)])
+(;B[bi];W[ai]
+(;B[aj];W[bj]C[Oops? ;)])
+(;B[dg];W[bj]C[Oops? ;)])))
+(;B[bi];W[bg]
+(;B[ag];W[ai];B[dg])
+(;B[dg];W[ai]
+(;B[ag];W[bj]C[Oops? ;)])
+(;B[aj];W[bj]C[Oops? ;)]))
+(;B[ai];W[bj]
+(;B[dg];W[aj]C[Oops? ;)])
+(;B[ag];W[aj]C[Oops? ;)])))
+(;B[ai];W[bi]
+(;B[dg];W[bg]C[Alive... alive..])
+(;B[bg];W[ag];B[dg];W[bg]C[Oops? ;)])
+(;B[ag];W[bg]C[Oops? ;)])))

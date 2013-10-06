@@ -1,0 +1,245 @@
+(
+;GE[life and death]DI[3k]DP[26]SO[tomjk]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AB[oa][pb][qc][rb][sb]
+AW[na][nb][pc][oc][lc][qd][rd]
+GN[SacrificeToLive]
+(
+;
+B[ob]
+;
+W[qa]
+(
+;
+B[ra]
+;
+W[qb]
+(
+;
+B[pa]
+;
+W[qb]
+(
+;
+B[rc]
+;
+W[qa]
+;
+B[pb]
+C[RIGHT
+Black sacrifices four stones, but lives.]
+)
+(
+;
+B[qa]
+;
+W[rc]
+C[Black gets only one eye.]
+)
+)
+(
+;
+B[rc]
+;
+W[pa]
+C[Black is captured.]
+)
+)
+(
+;
+B[qb]
+;
+W[ra]
+C[Black remains with only one eye.]
+)
+(
+;
+B[rc]
+;
+W[ra]
+C[Black will eventually be reduced to one eye.]
+)
+(
+;
+B[sa]
+;
+W[qb]
+C[Black is captured.]
+)
+)
+(
+;
+B[qa]
+;
+W[rc]
+(
+;
+B[ob]
+;
+W[qb]
+C[Wrong. Black gets only a ko.]
+)
+(
+;
+B[qb]
+;
+W[ob]
+C[Black has only one eye.]
+)
+(
+;
+B[pa]
+C[Black has only one eye.]
+)
+(
+;
+B[ra]
+;
+W[ob]
+C[Black gets only one eye.]
+)
+)
+(
+;
+B[rc]
+;
+W[qa]
+(
+;
+B[pa]
+;
+W[ob]
+C[Black cannot avoid capture.]
+)
+(
+;
+B[ob]
+;
+W[qb]
+C[Black is captured.]
+)
+(
+;
+B[qb]
+C[Black will eventually be captured (White Q19 and P18 is miai to force Black into dead shape).]
+;
+W[ob]
+)
+(
+;
+B[ra]
+;
+W[ob]
+C[Black cannot connect at Q19 because of shortage of liberties.]
+)
+)
+(
+;
+B[pa]
+;
+W[ra]
+(
+;
+B[qb]
+C[Black has only one eye.]
+)
+(
+;
+B[qa]
+;
+W[rc]
+C[Black gets only one eye.]
+)
+(
+;
+B[rc]
+;
+W[qa]
+C[Black cannot make two eyes anymore.]
+)
+(
+;
+B[sa]
+;
+W[qa]
+C[Black gets only one eye.]
+)
+)
+(
+;
+B[qb]
+;
+W[ra]
+(
+;
+B[ob]
+;
+W[qa]
+C[Black gets eventually only one eye.]
+)
+(
+;
+B[qa]
+;
+W[ob]
+C[Black gets only one eye.]
+)
+)
+(
+;
+B[ra]
+;
+W[ob]
+(
+;
+B[qa]
+;
+W[rc]
+C[Black gets only one eye.]
+)
+(
+;
+B[pa]
+;
+W[qb]
+(
+;
+B[qa]
+;
+W[rc]
+C[Black gets only one eye.]
+)
+(
+;
+B[rc]
+;
+W[qa]
+C[Black is captured.]
+)
+)
+(
+;
+B[qb]
+;
+W[pa]
+C[Black gets only one eye.]
+)
+(
+;
+B[rc]
+;
+W[pa]
+C[Black has only one eye.]
+)
+)
+(
+;
+B[sa]
+;
+W[qa]
+C[Black eventually gets only one eye.]
+)
+)

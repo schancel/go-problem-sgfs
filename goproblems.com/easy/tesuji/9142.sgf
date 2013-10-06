@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[7k]DP[43]SO[Munisai79]CO[4]AB[ie]AB[hc]AB[ib]AB[ed]AB[ec]AB[eb]AW[dd]AW[de]AW[ee]AW[fe]AW[gd]AW[he]AW[hf]AW[hg]AW[id]AB[mb]AB[mc]AB[me]AW[lc]AB[mi]AB[mg]C[Should black cut at 'A'?  (Y/N)]LB[dg:Y]AB[jh]AW[db]AW[dc]LB[fg:N]LB[hd:A]AP[goproblems]
+(;B[hd]C[NOTTHIS])
+(;B[dg];W[dh]C[Do so.];B[hd];W[je];B[if];W[ic]
+(;B[jb];W[hb];B[gc];W[gb];B[fc];W[jd]
+(;B[ha];W[jg])
+(;B[fb];W[jg])
+(;B[ga];W[jg])
+(;B[jf];W[fb];B[ea];W[da]))
+(;B[jc];W[jd]
+(;B[jb];W[hb];B[gc];W[gb];B[fc];W[fb])
+(;B[hb];W[jg]))
+(;B[gc];W[jg]
+(;B[jf];W[kf])
+(;B[jd];W[jc];B[jf];W[kf];B[ke];W[ig];B[je];W[le]))
+(;B[gb];W[gc];B[hb];W[jg];B[jd];W[jc];B[jf];W[kf];B[ke];W[ig];B[je];W[le])
+(;B[hb];W[jg];B[jd];W[jc];B[jf];W[kf];B[ke];W[ig];B[je];W[le])
+(;B[jd];W[jc]
+(;B[jf];W[hb];B[gc];W[gb];B[fc];W[fb])
+(;B[kd];W[ig];B[jf];W[jg];B[kf];W[hb];B[gc];W[gb];B[fc];W[fb]
+(;B[jb];W[kc])
+(;B[kc];W[jb];B[kb];W[ia]))))
+(;B[fg]C[Indeed!RIGHT]))

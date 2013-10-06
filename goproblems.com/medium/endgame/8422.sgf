@@ -1,0 +1,27 @@
+(;GE[endgame]DI[2d]DP[12]SO[ndkrempel]CO[7]W[``]C[Find the engame tesuji!]SZ[19]AW[ba]AW[ja]AW[ka]AW[oa]AW[cb]AW[eb]AW[fb]AW[gb]AW[hb]AW[jb]AW[nb]AW[ob]AW[pb]AW[qb]AW[rb]AW[dc]AW[ec]AW[gc]AW[ic]AW[jc]AW[kc]AW[nc]AW[qc]AW[sc]AW[dd]AW[ed]AW[id]AW[jd]AW[rd]AW[sd]AW[ce]AW[de]AW[he]AW[ie]AW[ke]AW[ne]AW[ef]AW[jf]AW[lf]AW[mf]AW[nf]AW[eg]AW[fg]AW[jg]AW[kg]AW[ch]AW[fh]AW[ih]AW[jh]AW[rh]AW[sh]AW[ei]AW[fi]AW[hi]AW[ji]AW[mi]AW[pi]AW[ri]AW[aj]AW[ej]AW[gj]AW[hj]AW[jj]AW[kj]AW[mj]AW[nj]AW[oj]AW[pj]AW[qj]AW[rj]AW[bk]AW[dk]AW[ek]AW[hk]AW[lk]AW[mk]AW[ok]AW[qk]AW[al]AW[bl]AW[cl]AW[dl]AW[hl]AW[ll]AW[ml]AW[rl]AW[bm]AW[hm]AW[jm]AW[km]AW[nm]AW[rm]AW[sm]AW[fn]AW[in]AW[sn]AW[bo]AW[fo]AW[io]AW[jo]AW[ap]AW[bp]AW[dp]AW[ep]AW[fp]AW[gp]AW[hp]AW[jp]AW[op]AW[bq]AW[cq]AW[dq]AW[iq]AW[jq]AW[kq]AW[nq]AW[oq]AW[cr]AW[kr]AW[lr]AW[mr]AW[or]AW[pr]AW[cs]AW[ds]AW[js]AW[ks]AB[la]AB[ma]AB[na]AB[ab]AB[bb]AB[kb]AB[mb]AB[cc]AB[fc]AB[hc]AB[lc]AB[mc]AB[oc]AB[pc]AB[cd]AB[fd]AB[gd]AB[hd]AB[md]AB[nd]AB[pd]AB[qd]AB[be]AB[ee]AB[fe]AB[ge]AB[le]AB[oe]AB[re]AB[se]AB[bf]AB[cf]AB[df]AB[ff]AB[hf]AB[of]AB[pf]AB[dg]AB[gg]AB[ig]AB[lg]AB[mg]AB[ng]AB[rg]AB[sg]AB[bh]AB[dh]AB[gh]AB[hh]AB[lh]AB[mh]AB[ph]AB[qh]AB[ai]AB[ci]AB[di]AB[gi]AB[ii]AB[ki]AB[li]AB[ni]AB[oi]AB[qi]AB[bj]AB[dj]AB[fj]AB[lj]AB[ck]AB[fk]AB[gk]AB[kk]AB[nk]AB[pk]AB[el]AB[gl]AB[nl]AB[ol]AB[ql]AB[am]AB[cm]AB[dm]AB[em]AB[fm]AB[gm]AB[lm]AB[mm]AB[om]AB[pm]AB[qm]AB[an]AB[bn]AB[cn]AB[en]AB[gn]AB[jn]AB[kn]AB[qn]AB[rn]AB[ao]AB[co]AB[do]AB[ko]AB[lo]AB[oo]AB[ro]AB[so]AB[cp]AB[kp]AB[np]AB[pp]AB[eq]AB[fq]AB[gq]AB[hq]AB[lq]AB[mq]AB[pq]AB[dr]AB[er]AB[gr]AB[ir]AB[jr]AB[nr]AB[qr]AB[es]AB[hs]AB[is]AB[ns]AB[ps]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[TheCaptain]PB[duck]
+(;W[mo]
+(;B[os]C[CHOICE]
+(;W[ln]
+(;B[mn];W[nn];B[lp];W[ln]C[RIGHT])
+(;B[lp];W[mn]C[RIGHT]))
+(;W[mn];B[nn];W[ln];B[lp];W[nm]C[But you could have done slightly better.RIGHT]))
+(;B[nn]C[CHOICE];W[mp];B[os];W[lp];B[ln];W[nq]C[RIGHT])
+(;B[no]C[CHOICE];W[nn];B[ln]
+(;W[mn];B[os];W[lp]C[RIGHT])
+(;W[mp];B[os];W[mn];B[nq];W[lp]C[RIGHT]))
+(;B[mp]C[CHOICE];W[nn];B[ln];W[mn];B[os];W[lp]C[RIGHT])
+(;B[ln]C[CHOICE];W[mp];B[nn];W[lp]C[RIGHT])
+(;B[lp]C[CHOICE]
+(;W[mn];B[nn];W[ln];B[os];W[nm]C[RIGHT])
+(;W[ln]
+(;B[mn];W[nn];B[os];W[ln]C[RIGHT])
+(;B[os]
+(;W[mn]C[RIGHT])
+(;W[nn]C[RIGHT])))))
+(;W[mp];B[os])
+(;W[no];B[os])
+(;W[nn];B[mo])
+(;W[mn];B[nn]
+(;W[mp];B[os])
+(;W[mo];B[mp]))
+(;W[lp];B[mp];W[mn];B[nn]))

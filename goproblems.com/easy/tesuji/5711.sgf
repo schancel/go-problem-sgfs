@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[18k]DP[66]SO[berni]CO[8]AW[qb]AW[pb]AW[rc]AW[rd]AW[qd]AW[pc]AB[pd]AB[od]AB[oc]AB[ob]AB[oa]AW[pa]AB[qe]AB[re]AB[qf]AW[se]AB[sf]AW[sd]TR[sd]C[Whites last move was the marked stone, a mistake; it should have been at A. What can black do?]LB[sc:A]AP[goproblems]
+(;B[rb]
+(;W[ra]C[CHOICE];B[sb]C[This is a seki. White has no territory.RIGHT])
+(;W[sb]C[CHOICE];B[ra]C[This is a seki. White has no territory.RIGHT]))
+(;B[sb];W[rb]C[White lives with territory.])
+(;B[ra];W[rb]C[White lives with territory.])
+(;B[sc];W[sb]C[White lives with territory.])
+(;B[qa];W[ra]C[White lives with territory.]))

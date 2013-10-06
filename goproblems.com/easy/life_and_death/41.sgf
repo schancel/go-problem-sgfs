@@ -1,0 +1,47 @@
+(;GE[life and death]DI[5k]DP[35]SO[adum]CO[8]GM[1]FF[3]
+AW[gb][mb][gc][mc][gd][hd][id][kd][ld][md]AB[ha][la][hb][lb][hc][lc]
+C[black to live
+]
+(;B[ja];W[jb]
+(;B[jc];W[ib]
+(;B[ic];W[kb];B[kc]C[RIGHT
+black lives in seki
+])
+
+(;B[kb];W[ic])
+)
+
+(;B[kb];W[ic]
+(;B[jc];W[ib])
+
+(;B[ib];W[jc])
+)
+
+(;B[ib];W[kc]
+(;B[jc];W[kb])
+
+(;B[kb];W[jc])
+)
+)
+
+(;B[jb];W[kc]
+(;B[kb];W[ic];B[ib];W[ja])
+
+(;B[jc];W[jd];B[kb];W[ic];B[ib];W[ja])
+)
+
+(;B[jc];W[kc]
+(;B[kb];W[ic];B[ib];W[ja])
+
+(;B[jd];W[je];B[kb];W[ic])
+)
+
+(;B[kb];W[ic]
+(;B[ib];W[ja])
+
+(;B[jc];W[jd];B[ib];W[ja])
+)
+
+(;B[ib];W[kc])
+
+)

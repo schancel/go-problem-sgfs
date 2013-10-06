@@ -1,0 +1,5 @@
+(;GE[life and death]DI[4k]DP[31]SO[psprof]CO[0]AB[sb]AB[rb]AB[rc]AB[qc]AB[pc]AB[oc]AB[ob]AW[qa]AW[nb]AW[na]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[rd]AW[sd]AW[sc]C[Black to Live]AP[goproblems]
+(;B[oa];W[ra]C[Correct, Seki Lives.  See continuations.RIGHT]
+(;B[pa];W[qb]C[Seki Lives for BlackRIGHT]))
+(;B[pa];W[oa];B[qb]C[Ko for life])
+(;B[ra];W[oa]C[Fail]))

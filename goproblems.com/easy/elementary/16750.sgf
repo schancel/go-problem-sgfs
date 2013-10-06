@@ -1,0 +1,9 @@
+(;GE[elementary]DI[8k]DP[46]SO[cramin]CO[0]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[gp]AW[hp]AW[hq]AW[hr]AB[ip]AB[iq]AB[ir]AB[is]AB[hs]AP[goproblems]
+(;W[fr];B[fs];W[es];B[gs]
+(;W[er];B[gr];W[gq]C[RIGHT])
+(;W[gr];B[er]C[CHOICE])
+(;W[eq];B[gr];W[gq]C[RIGHT])
+(;W[dr];B[gr];W[gq]C[RIGHT]))
+(;W[gs];B[gr]C[CHOICE])
+(;W[fs];B[fr];W[gs];B[gr]C[CHOICE])
+(;W[gr];B[gs]C[CHOICE]))

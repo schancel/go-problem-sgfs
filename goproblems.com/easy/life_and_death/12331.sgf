@@ -1,0 +1,28 @@
+(;GE[life and death]DI[4k]DP[30]SO[themyron]CO[0]AB[pd]AW[qf]AB[nc]AW[rd]AB[qh]AW[qc]AB[pc]AW[of]AB[qd]AW[rc]AW[pe]AB[rf]AW[pg]AB[re]AW[pb]AB[ob]AW[qa]LB[ob:1]LB[qa:2]C[A corner situation involving some common shapes. In this joseki both sides have made mistakes, but white`s was bigger. Black to get the most he can out of the situation.]AP[goproblems]
+(;B[sb];W[rb]
+(;B[oa]
+(;W[sc]
+(;B[pa];W[sa];B[qb]C[A ko, excellent! This is the best black can do.RIGHT])
+(;B[ra];W[sa];B[pa];W[qb]C[Nope.]))
+(;W[pa];B[ra];W[sa]C[A ko, right! Thanks to GoJohnGo for the correction. RIGHT]))
+(;B[ra];W[sc];B[oa];W[sa];B[pa];W[qb]C[Nope.])
+(;B[sd];W[sc];B[oa];W[pa]C[Nope.]))
+(;B[oa];W[sb]
+(;B[rb];W[sd];B[pa];W[qb]C[Nope.])
+(;B[sd];W[ra]C[Nope.])
+(;B[ra];W[sd]
+(;B[pa];W[qb]C[Nope.])
+(;B[rb];W[qb]C[Nope.])
+(;B[sa];W[rb]C[Nope.])))
+(;B[rb];W[sb]
+(;B[ra];W[sd];B[oa];W[qb]C[Nope.])
+(;B[sd];W[ra]C[Nope.]))
+(;B[ra];W[rb]
+(;B[oa];W[sa];B[pa];W[qb]C[Nope.])
+(;B[sa];W[pa]C[Nope.])
+(;B[sd];W[sa]C[Nope.]))
+(;B[sd];W[rb]
+(;B[oa];W[pa]C[Nope.])
+(;B[sc];W[sb]C[Nope.]))
+(;B[sc];W[rb]C[Nope.])
+(;B[sa]C[You're kidding, right?]))

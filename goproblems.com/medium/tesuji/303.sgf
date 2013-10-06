@@ -1,0 +1,68 @@
+(;GE[tesuji]DI[3k]DP[26]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[kiet]PB[adam]AB[qr][pr]AW[rr][sr]AB[rp][rq]AW[ro][pn][pp][qq]AB[nq][ql][ol]C[black's best move?]
+(;B[qo]CR[qo]
+;W[pq]CR[pq]
+(;B[oq]CR[oq]TR[rp][rq]C[RIGHT
+the marked stones escape])
+(;B[qp]CR[qp]
+;W[or]CR[or]C[you shouldn't lose those two])
+(;B[rn]CR[rn]
+;W[or]CR[or])
+(;B[qn]CR[qn]
+;W[or]CR[or])
+(;B[po]CR[po]
+;W[or]CR[or])
+(;B[or]CR[or]
+;W[rn]CR[rn]C[this is complicated, but gives white too much of a chance...]
+;B[qp]CR[qp]
+;W[po]CR[po]
+;B[qn]CR[qn]
+;W[qm]CR[qm]
+(;B[rm]CR[rm]
+;W[pm]CR[pm]
+(;B[sn]CR[sn]
+;W[rl]CR[rl]
+(;B[so]CR[so]C[black still needs a move to live and white is out])
+(;B[sm]CR[sm]
+;W[sq]CR[sq]
+;B[so]CR[so]
+;W[rk]CR[rk]))
+(;B[so]CR[so]
+;W[rl]CR[rl]
+(;B[sn]CR[sn]C[black still needs a move to live and white is out])
+(;B[sm]CR[sm]
+;W[sq]CR[sq]
+;B[sn]CR[sn]
+;W[rk]CR[rk])))
+(;B[pm]CR[pm]
+;W[rm]CR[rm])))
+(;B[qp]CR[qp]
+;W[pq]CR[pq]
+(;B[oq]CR[oq]
+;W[qo]CR[qo])
+(;B[qo]CR[qo]
+;W[or]CR[or]C[bad to lose those two]))
+(;B[pq]CR[pq]
+;W[qp]CR[qp])
+(;B[sq]CR[sq]
+;W[qp]CR[qp])
+(;B[rs]CR[rs]
+;W[qp]CR[qp]
+;B[sq]CR[sq]
+;W[sp]CR[sp])
+(;B[op]CR[op]
+;W[qp]CR[qp])
+(;B[rn]CR[rn]
+;W[qo]CR[qo]
+;B[so]CR[so]
+;W[sp]CR[sp]
+;B[sq]CR[sq]
+;W[qp]CR[qp]
+;B[sp]CR[sp]
+;W[sn]CR[sn])
+(;B[qn]CR[qn]
+;W[qp]CR[qp])
+(;B[oq]CR[oq]
+;W[qp]CR[qp])
+(;B[po]CR[po]
+;W[qp]CR[qp]))

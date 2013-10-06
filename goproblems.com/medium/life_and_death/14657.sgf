@@ -1,0 +1,15 @@
+(;GE[life and death]DI[3d]DP[11]SO[Piccolo]CO[0]AB[pa]AB[pb]AB[pc]AB[pd]AB[pe]AB[pf]AB[pg]AB[sg]AB[rg]AB[qg]AW[qa]AW[qb]AW[qc]AW[qe]AW[rd]AW[rf]AW[qf]AB[ra]C[Black to kill (no ko).]AP[goproblems]
+(;B[rb]
+(;W[rc]
+(;B[sf]
+(;W[sb];B[sd];W[se]C[Remember : no ko !]
+(;B[qd]C[Indeed, horrible damezumari.CHOICERIGHT])
+(;B[re];W[ri]C[Please answer at T11]TR[si];B[si];W[se]C[Last chance to find something better !];B[qd]C[You got it !CHOICERIGHT]))
+(;W[se];B[qd];W[sb]
+(;B[sd]C[Indeed, horrible damezumari.CHOICERIGHT])
+(;B[re]C[White is dead!RIGHT])))
+(;B[qd];W[sd]LB[sf:A]LB[sb:B]C[A and B are miai.])
+(;B[se];W[sd];B[sb];W[sf];B[qd];W[re]C[Seki.]))
+(;W[qd]C[];B[se]C[Right, no way for white to live.RIGHT]))
+(;B[qd];W[rb];B[sb];W[rc];B[sd];W[se];B[sf];W[sc]C[])
+(;B[se];W[rb]C[]))

@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[15k]DP[61]SO[Stones]CO[7]AB[no]AB[mo]AB[ln]AB[nm]AB[om]AB[pn]AB[po]AB[qp]AB[qq]AW[nn]AW[oo]AW[pp]AW[np]AW[pq]AW[pr]AW[ol]AW[nl]AW[rn]AW[qm]AB[qr]AB[ro]AB[kn]AW[lr]AW[so]AW[rs]AW[qs]AB[sq]AW[rl]AW[mm]AB[kp]AW[pl]AB[pm]AW[ml]AW[nq]AB[mp]AW[kr]C[Black to connect and save his corner stones.]AP[goproblems]
+(;B[qn];W[mn])
+(;B[qo];W[mn])
+(;B[mn];W[op]
+(;B[qo];W[on])
+(;B[qn];W[on])
+(;B[on]C[RIGHT]))
+(;B[on];W[qo]
+(;B[qn];W[qo]C[Snapback!])
+(;B[op];W[qn]C[Cut.])
+(;B[mn];W[qn]C[Cut.]))
+(;B[op];W[oq]C[Giving up a stone changes nothing.])
+(;B[mq];W[mn]C[This is not the answer.  Even if black pushes through, the corner is lost.]))

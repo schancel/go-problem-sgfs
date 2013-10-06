@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[20]SO[jissai]CO[5]AW[pd]AW[bk]AW[ck]AW[fk]AW[lk]AW[dl]AW[fl]AW[jl]AW[cm]AW[dm]AW[fm]AW[hm]AW[lm]AW[en]AW[fn]AW[gn]AW[nn]AW[bo]AW[eo]AW[io]AW[jo]AW[ep]AW[fp]AW[np]AW[pp]AW[fq]AW[iq]AW[jq]AW[fr]AB[dd]AB[bj]AB[cj]AB[dj]AB[jj]AB[qj]AB[dk]AB[ek]AB[el]AB[gl]AB[il]AB[em]AB[gm]AB[dn]AB[hn]AB[in]AB[jn]AB[kn]AB[qn]AB[do]AB[fo]AB[ho]AB[lo]AB[bp]AB[dp]AB[hp]AB[cq]AB[eq]AB[lq]AB[er]LB[aa:A]C[]SZ[19]TR[bk]TR[ck]TR[dl]TR[dm]TR[cm]TR[bo]PL[W]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[2003-09-13]SY[Cgoban 1.9.12]TM[-]
+(;W[bm]C[This is the strongest attempt.]
+(;B[cn];W[bn];B[ao];W[an];B[al]
+(;W[bl];B[ak];W[ap];B[bq]C[The corner is safe.])
+(;W[ak];B[bl]))
+(;B[co];W[ao]C[This was game. White lives.];B[hj]))
+(;W[am];B[bn];W[cn]
+(;B[co]C[CHOICE];W[ao];B[bm])
+(;B[ao]C[Note that this collapses.];W[co];B[an];W[bm];B[ap];W[cp]))
+(;W[bn];B[bl]
+(;W[ak];B[bm])
+(;W[al];B[bm]))
+(;W[co];B[cn])
+(;W[ao];B[cn])
+(;W[aa]C[RIGHT])
+(;W[bl];B[bn]
+(;W[cn];B[co];W[bm];B[ao])
+(;W[bm];B[cn])))

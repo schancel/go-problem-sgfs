@@ -1,0 +1,108 @@
+(;GE[best move]DI[4k]DP[29]SO[wtd]CO[8]SZ[19]AW[gn]AW[in]AW[ln]AW[nn]AW[ho]AW[jo]AW[lo]AW[mo]AW[hp]AW[mp]AW[hq]AW[mq]AW[hr]AW[lr]AW[ms]AB[fn]AB[on]AB[eo]AB[go]AB[no]AB[oo]AB[gp]AB[np]AB[gq]AB[jq]AB[nq]AB[er]AB[gr]AB[jr]AB[mr]AB[nr]TR[jq]TR[jr]C[Black to connect the marked stones to the outside, unconditionally.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[lq];W[kq]
+(;B[ls];W[ks]
+(;B[js];W[gs]
+(;B[kr];W[lp]
+(;B[ns]C[White cannot play M1 and Black is connected.RIGHT])
+(;B[fs];W[hs]
+(;B[ns]C[White cannot play M1 and Black is connected.RIGHT])
+(;B[ls];W[fr]C[What if White plays a threat like this?]
+(;B[fq];W[ks]C[Play at T (H6) for a small ko threat.]LB[hn:T]
+(;B[ns]C[White cannot connect at M1.RIGHT])
+(;B[hn];W[ls]C[You did not need a ko threat to connect.]))
+(;B[ns]C[The group was safe already, you just wasted a move.])
+(;B[ks]C[The group was safe already, you just wasted a move.])
+(;B[lq]C[The group was safe already, you just wasted a move.])
+(;B[jp];W[es]C[Not big enough.])
+(;B[kp];W[lq]
+(;B[fq];W[ks]C[Ko])
+(;B[ns];W[es]C[The group was safe already, you just wasted a move.])))))
+(;B[fs];W[hs];B[kr];W[lp])
+(;B[ns];W[kr]))
+(;B[kr];W[lp]
+(;B[js];W[hs]
+(;B[ns]C[RIGHT])
+(;B[ls];W[gs]C[What if White plays a reasonable threat, like G1?]
+(;B[fs];W[ks]LB[hn:T]C[Play at T (H6) if you think you need a threat. The threat is not very big.]
+(;B[ns]C[White cannot play M1 and Black is connected.RIGHT])
+(;B[jp];W[ls])
+(;B[kp];W[lq]C[Just ko])
+(;B[hn];W[ls]C[You did not need a threat to connect. Now it's too late.]))
+(;B[ns]C[The group was safe already, you just wasted a move.])
+(;B[ks]C[The group was safe already, you just wasted a move.])
+(;B[jp];W[es]C[Not big enough; F1 would have been at least 4 points worth.])
+(;B[lq]C[The group was safe already, you just wasted a move.]))
+(;B[kp];W[lq]C[Only ko]))
+(;B[hs];W[is]
+(;B[js];W[jp];B[ns];W[ir];B[ls];W[iq]C[Only ko])
+(;B[gs];W[ls])
+(;B[ir];W[jp];B[js];W[iq]C[Ko])
+(;B[ns];W[ir]
+(;B[js];W[jp])
+(;B[ls];W[js]C[Ko]))))
+(;B[hs];W[is]
+(;B[kr];W[lp])
+(;B[js];W[ir];B[kr];W[lp]
+(;B[ls])
+(;B[ns]))
+(;B[ir];W[gs];B[kr];W[lp];B[js];W[jp];B[hs];W[iq];B[ls]C[Ko])))
+(;B[kr];W[lp]
+(;B[js];W[gs]
+(;B[ls];W[ks]
+(;B[ns]C[White cannot play M1 and Black is connected.RIGHT])
+(;B[fs]))
+(;B[fs];W[hs];B[ls]))
+(;B[ls];W[ks]))
+(;B[js];W[gs]
+(;B[ls];W[ks])
+(;B[fs];W[hs]
+(;B[ls]
+(;W[ks]))
+(;B[kr];W[lp]))
+(;B[kr];W[lp]))
+(;B[hs];W[is];B[js];W[ir]
+(;B[kr];W[lp];B[ls];W[ks];B[ns])
+(;B[ls];W[ks])))
+(;B[js];W[gs]
+(;B[lq];W[kq]
+(;B[ls];W[ks];B[fs]C[RIGHT])
+(;B[kr]))
+(;B[kr];W[lq];B[ls];W[ks]C[Only ko.])
+(;B[ls];W[ks]
+(;B[kr];W[lq];B[ls]C[Only ko.])
+(;B[lq];W[kq])
+(;B[fs];W[hs]
+(;B[kr];W[lq];B[ls]C[Only ko.])
+(;B[lq];W[kq])))
+(;B[fs];W[hs]
+(;B[lq];W[kq])
+(;B[ls];W[ks]))
+(;B[hs];W[is]
+(;B[lq];W[kq]
+(;B[ls];W[ks]
+(;B[kr];W[lp]
+(;B[ns]C[RIGHT])
+(;B[ls]C[RIGHT]))
+(;B[ns];W[kr]))
+(;B[kr];W[lp];B[ls];W[ks];B[ns]C[RIGHT])
+(;B[ns];W[ls]))
+(;B[kr];W[lq];B[ls];W[ks]C[Ko])
+(;B[ls];W[ks];B[kr];W[lq]C[Ko])))
+(;B[ls];W[ks]
+(;B[lq];W[js]
+(;B[kr];W[is];B[ls]C[Only ko.])
+(;B[is];W[hs];B[ir];W[kq];B[kr];W[lp];B[ns];W[jp];B[ls];W[ks];B[lq]C[A difficult ko for White to win, admittedly, but still not unconditional.]))
+(;B[js];W[gs])
+(;B[hs];W[is];B[js];W[ir]
+(;B[lq];W[kq])
+(;B[kr];W[lq]C[Only ko.])))
+(;B[hs];W[is]C[Give up now. The best from this is ko.]
+(;B[ir];W[gs];B[js]
+(;W[ls]C[Only ko.CHOICE])
+(;W[lq]C[Only ko.CHOICE])
+(;W[hs]
+(;B[lq];W[kq];B[kr];W[lp];B[ls];W[ks];B[ns];W[jp];B[ls];W[iq]C[Only ko.])
+(;B[ls];W[ks];B[lq];W[kq];B[kr];W[lp];B[ns])))
+(;B[js];W[ir]
+(;B[lq];W[kq])
+(;B[ls];W[ks]))))

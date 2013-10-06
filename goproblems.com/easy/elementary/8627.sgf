@@ -1,0 +1,147 @@
+(;GE[elementary]DI[30k]DP[85]SO[chipuni]CO[7]AB[bg]AB[bh]AB[bi]AB[bj]AB[bk]AB[bl]AB[bm]AW[bf]AW[cg]AW[ch]AW[ci]AW[cj]AW[ck]AW[cl]AW[cm]AW[bn]AW[dn]AW[df]C[A basic problem: Can seven in a row be saved?]AW[af]AW[an]AP[goproblems]
+(;B[ag];W[am]
+(;B[ah];W[al]
+(;B[ai];W[ak]C[No matter what, white will next move in A10, capturing you.])
+(;B[aj];W[ak]C[No matter what, white will next move in A11, capturing you.])
+(;B[ak];W[aj];B[ai];W[aj]C[Thank you.]))
+(;B[ai];W[al]
+(;B[ah];W[ak]C[No matter what, white will move in A10 next time.])
+(;B[aj];W[ak]C[No matter what, white will move in A12 next time.])
+(;B[ak]C[You have two eyes.  Good job!RIGHT]))
+(;B[aj];W[al]
+(;B[ah];W[ak]C[No matter what, white will move in A11 next time.])
+(;B[ai];W[ak]C[No matter what, white will move in A12 next time.])
+(;B[ak];W[ai];B[ah];W[ai]C[Thank you.]))
+(;B[ak];W[ai]
+(;B[ah];W[al];B[aj];W[ai]C[Thank you.])
+(;B[aj];W[al];B[ah];W[ai]C[Thank you.])
+(;B[al];W[aj];B[ah];W[ai];B[aj];W[ai]C[Thank you.]))
+(;B[al];W[aj];B[ai]C[You have two eyes.  Good job!RIGHT]))
+(;B[ah];W[am]
+(;B[ag];W[al]
+(;B[ai];W[ak]C[No matter what, white will move A10 next move.])
+(;B[aj];W[ak]C[No matter what, white will move A11 next move.])
+(;B[ak];W[aj];B[ai];W[aj]C[Thank you.]))
+(;B[ai];W[al]
+(;B[ag];W[ak]C[No matter what, white will move in A10 next move.])
+(;B[aj];W[ag]C[No matter what, white will move in A9 next move.])
+(;B[ak];W[ag]C[No matter what, white will move in A10 next move.]))
+(;B[aj];W[al]
+(;B[ag];W[ak]C[No matter what, white will move in A11 next move.])
+(;B[ai];W[ag]C[No matter what, white will move in A9 next move.])
+(;B[ak];W[ag]C[No matter what, white will move in A11 next move.]))
+(;B[ak];W[al]
+(;B[ag];W[ai];B[aj];W[ai]C[Thank you.])
+(;B[ai];W[ag]C[No matter what, white will move in A10 next move.])
+(;B[aj];W[ag]C[No matter what, white will move in A11 next move.]))
+(;B[al];W[aj]
+(;B[ag];W[ai];B[ak];W[aj];B[ai];W[aj]C[Thank you.])
+(;B[ai];W[ag]C[No matter what, white will move in A9 next move.])
+(;B[ak];W[ag]C[No matter what, white will move in A11 next move.])))
+(;B[ai];W[ag]
+(;B[ah];W[am]
+(;B[aj];W[al]C[Nothing will stop white from moving in A9 next move.])
+(;B[ak];W[al]C[Nothing will stop white from moving into A10 next move.])
+(;B[al];W[ak];B[aj];W[ak]C[Thank you.]))
+(;B[aj];W[am]
+(;B[ah];W[al]C[Nothing will stop white from moving in A9 next move.])
+(;B[ak];W[al]C[Nothing will stop white from moving in A12 next move.])
+(;B[al];W[ah]C[Nothing will stop white from moving in A9 next move.]))
+(;B[ak];W[am]
+(;B[ah];W[al]C[Nothing will stop white from moving in A10 next move.])
+(;B[aj];W[al]C[Nothing will stop white from moving in A12 next move.])
+(;B[al];W[ah]C[Nothing will stop white from moving in A10 next move.]))
+(;B[al];W[ah]
+(;B[aj];W[am]C[Nothing will stop white from moving in A9 next move.])
+(;B[ak];W[am]C[Nothing will stop white from moving in A10 next move.])
+(;B[am];W[ak];B[aj];W[ak]C[Thank you.]))
+(;B[am];W[ak]
+(;B[ah];W[aj];B[al];W[ak];B[aj];W[ak]C[Thank you.])
+(;B[aj];W[ah];B[al];W[ak]C[Thank you.])
+(;B[al];W[ah];B[aj];W[ak]C[Thank you.])))
+(;B[aj];W[ag]
+(;B[ah];W[al]
+(;B[am]C[Solved!RIGHT])
+(;B[ak];W[am]C[Nothing will stop white from moving in A11 next turn.])
+(;B[ai];W[am]C[Nothing will stop white from moving in A9 next turn.]))
+(;B[ai];W[am]
+(;B[ah];W[al]C[Nothing will stop white from moving in A9 next move.])
+(;B[ak];W[ah]C[Nothing will stop white from moving in A8 next move.])
+(;B[al];W[ah]C[Nothing will stop white from moving in A9 next move.]))
+(;B[ak];W[am]
+(;B[ah];W[al]C[White will move in A11 next move.])
+(;B[ai];W[al]C[Next move, white will move in A12.])
+(;B[al];W[ah]C[Next move, white will move in A11.]))
+(;B[al];W[ah]
+(;B[ai];W[am]C[White will make her next move in A9.])
+(;B[ak];W[am]C[White will make her next move in A11.])
+(;B[am];W[ai]C[White will make her next move in A9.]))
+(;B[am];W[ah]
+(;B[ai];W[ak];B[al];W[ak]C[Thank you.])
+(;B[ak];W[ai]C[White will make her next move in A8.])
+(;B[al];W[ai]C[White will make her next move in A9.])))
+(;B[ak];W[am]
+(;B[ag];W[ai]
+(;B[ah];W[al]C[White will make her next move in A10.])
+(;B[aj];W[al]C[White will make her next move in A12.])
+(;B[al];W[ah];B[aj];W[ai];B[ah];W[ai]C[Thank you.]))
+(;B[ah];W[ag]
+(;B[ai];W[al]C[White will make her next move in A10.])
+(;B[aj];W[al]C[White will make her next move in A11.])
+(;B[al];W[aj];B[ai];W[aj]C[Thank you.]))
+(;B[ai];W[ag]
+(;B[ah];W[al]C[White will make her next move in A10.])
+(;B[aj];W[al]C[White will make her next move in A12.])
+(;B[al];W[ah]C[White will make her next move in A10.]))
+(;B[aj];W[ag]
+(;B[ah];W[al]C[White will make her next move in A11.])
+(;B[ai];W[al]C[White will make her next move in A12])
+(;B[al];W[ah]C[White will make her next move in A11.]))
+(;B[al];W[ag]
+(;B[ah];W[aj];B[ai];W[aj]C[Thank you.])
+(;B[ai];W[ah]C[White will make her next move in A10.])
+(;B[aj];W[ah]C[White will make her next move in A11])))
+(;B[al];W[ag]
+(;B[ah];W[aj]
+(;B[ai];W[am]C[White will make her next move in A9.])
+(;B[ak];W[am]C[White will make her next move in A11])
+(;B[am];W[ak];B[ai];W[aj];B[ak];W[aj]C[Thank you.]))
+(;B[ai];W[am]
+(;B[ah];W[aj];B[ak];W[aj]C[Thank you.])
+(;B[aj];W[ah]C[White will make her next move in A9.])
+(;B[ak];W[ah]C[White will make her next move in A10.]))
+(;B[aj];W[ah]
+(;B[ai];W[am]C[White will make her next move in A9.])
+(;B[ak];W[am]C[White will make her next move in A11])
+(;B[am];W[ai]C[White will make her next move in A9.]))
+(;B[ak];W[ah]
+(;B[ai];W[am]C[White will make her next move in A10.])
+(;B[aj];W[am]C[White will make her next move in A11.])
+(;B[am];W[ai]C[White will make her next move in A10.]))
+(;B[am];W[ah]
+(;B[ai];W[aj];B[ak];W[aj]C[Thank you.])
+(;B[aj];W[ai]C[White will make her next move in A9.])
+(;B[ak];W[ai]C[White will make her next move in A10.])))
+(;B[am];W[ag]
+(;B[ah];W[aj]
+(;B[ak]C[You have two eyes!RIGHT])
+(;B[ai];W[ak];B[al];W[ak];B[aj];W[ak]C[Thank you.])
+(;B[al];W[ak];B[ai];W[aj];B[ak];W[aj]C[Thank you.]))
+(;B[ai];W[ak]
+(;B[ah];W[aj];B[al];W[ak];B[aj];W[ak]C[Thank you.])
+(;B[aj];W[ah]C[White will make her next move in A8.])
+(;B[al];W[ah]C[White will make her next move in A10.]))
+(;B[aj];W[ah]
+(;B[ai];W[ak];B[al];W[ak]C[Thank you.])
+(;B[ak];W[ai]C[White will make her next move in A8.])
+(;B[al];W[ai]C[White will make her next move in A9.]))
+(;B[ak];W[ai]
+(;B[ah]C[You have two eyes.RIGHT])
+(;B[aj];W[ah]C[White will make her next move in A8.])
+(;B[al];W[ah]C[White will make her next move in A10.]))
+(;B[al];W[ah]
+(;B[ai];W[aj];B[ak];W[aj]C[Thank you.])
+(;B[aj];W[ai]C[White will make her next move in A9.])
+(;B[ak];W[ai]C[White will make her next move in A10.])))
+(;B[cf];W[ce]C[You don't need to sacrifice stones to solve this problem.])
+(;B[cn];W[co]C[You don't need to sacrifice stones to solve this problem.]))

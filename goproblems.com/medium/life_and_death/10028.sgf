@@ -1,0 +1,48 @@
+(;GE[life and death]DI[2d]DP[13]SO[frozenv7]CO[0]AW[rs]AW[rr]AW[qq]AW[pq]AW[oq]AW[or]AW[pp]AW[qo]AW[pn]AW[pm]AW[qm]AW[sm]AW[rm]AW[ql]AB[qs]AB[qr]AB[pr]AB[ps]AB[os]AB[ns]AB[nr]AB[nq]AB[np]AB[op]AB[oo]AB[po]AB[on]AB[om]AB[ol]AB[pl]AB[pk]AB[qk]AB[rk]AB[rl]AB[sl]AB[rq]TR[rq]C[Black played the marked stone to kill your group. If you can live you still have a comfortable lead on the rest of the board.]LB[rs:1]LB[ps:2]AP[goproblems]
+(;W[rp]
+(;B[qp]C[It seems that the other black responses seem to live easier, so this path will be played out.]
+(;W[ro]
+(;B[sp]C[NOTTHIS]
+(;W[so]
+(;B[rn]C[Black still tries, but...NOTTHIS]
+(;W[sq]
+(;B[qq];W[sr]C[RIGHT])
+(;B[sr]
+(;W[qq]C[RIGHT])
+(;W[ss];B[sr]C[:o( So close.])))
+(;W[sr];B[qq];W[sq]C[:o)RIGHT]))
+(;B[sq]C[NOTTHIS];W[rn]C[The best sequence for black, white lives with minimal points.RIGHT])))
+(;B[rn]C[NOTTHIS]
+(;W[sq]
+(;B[qq];W[sr];B[sn];W[qn]C[:o)RIGHT])
+(;B[sn];W[qn];B[qq]
+(;W[sr]C[:o)RIGHT])
+(;W[so];B[sr]C[So close...])))
+(;W[sp];B[sn];W[qn];B[sq]C[Dead...])
+(;W[sn];B[sp]C[:o(])
+(;W[so];B[sr]C[:o(])))
+(;W[rn];B[sp];W[so];B[ro]C[Ko is not your best option.])
+(;W[so];B[rn];W[sq];B[ro]
+(;W[sp];B[qn]C[:o(])
+(;W[sn];B[sp]C[Ko is not your best option...]))
+(;W[sq];B[ro]
+(;W[rn]
+(;B[qn])
+(;B[sp]C[:o(]))
+(;W[qq];B[qn]C[:o(])
+(;W[so];B[qn]C[:o(]))
+(;W[sp];B[ro];W[rn];B[qn]C[Ko is not your best option...])
+(;W[qq];B[pq]C[Playing R3 is not good - it turns the correct path into a ko and doesn't help you to live. (I will not add all other wrong variations here.)];W[ro];B[sp];W[so];B[rn];W[sq];B[sr];W[qq]C[Ko for life...])
+(;W[pq];B[ro]C[:o(]))
+(;B[sq]
+(;W[sp];B[qp];W[rn]C[RIGHT])
+(;W[qp];B[sr];W[sp];B[rn];W[ss];B[qn];W[sq]C[RIGHT])))
+(;W[qp];B[rp]
+(;W[ro];B[sr]
+(;W[so];B[rn]C[:o(])
+(;W[rn];B[so]C[:o(]))
+(;W[sq];B[ro];W[qn]C[Dead in gote...]))
+(;W[rn];B[rp];W[ro];B[so];W[sq]
+(;B[sr]C[:o(])
+(;B[qp]C[:o(]))
+(;W[ro];B[rp];W[so];B[rn];W[qp];B[sr]))

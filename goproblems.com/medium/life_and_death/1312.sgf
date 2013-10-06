@@ -1,0 +1,40 @@
+(
+;GE[life and death]DI[3d]DP[11]SO[gecko]CO[9]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.29]
+AW[ac][bb][ca][da][eb][ec][gb][hc][dd][df][bf]
+AB[ad][bd][bc][cb][db][ea][fa]
+GN[temp]
+;
+W[ab]
+;
+B[aa]
+(
+;
+W[ba]
+;
+B[aa]
+;
+W[ab]
+LB[ba:a][da:b]
+C[RIGHT if black plays b white a makes it bent four]
+)
+(
+;
+W[fb]
+;
+B[ba]
+LB[ab:a][da:b]
+C[alive]
+)
+(
+;
+W[ga]
+;
+B[ba]
+LB[ab:a][da:b]
+C[alive]
+)
+)

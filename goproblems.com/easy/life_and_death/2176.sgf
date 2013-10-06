@@ -1,0 +1,23 @@
+(;GE[life and death]DI[5k]DP[33]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[6]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[bb][cb][db][eb][bc][ec][ed][ae][ce][de][ee]AB[ba][ca][da][ea][ab][fb][ac][fc][bd][fd][be][fe][cf][df][ef][ff]C[White to play and live!]PL[W]
+(;W[bf]CR[bf]
+(;B[af]CR[af]
+(;W[cd]CR[cd]
+(;B[ad]CR[ad]
+;W[dc]CR[dc]C[:) You found it! RIGHT])
+(;B[dc]CR[dc]
+;W[bf]CR[bf]C[White lives big :)]))
+(;W[dc]CR[dc]
+(;B[ad]CR[ad]
+;W[cd]CR[cd]C[You found it :) RIGHT])
+(;B[cd]CR[cd]
+;W[bf]CR[bf]C[White wins big!])))
+(;B[cd]CR[cd]
+;W[fa]CR[fa]C[Uh-oh....]))
+(;W[cd]CR[cd]
+;B[dc]CR[dc]
+;W[bf]CR[bf]
+;B[af]CR[af]C[This was the wrong move order - White has no ko threat.])
+(;W[dc]CR[dc]
+;B[cd]CR[cd]))

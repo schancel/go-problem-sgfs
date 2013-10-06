@@ -1,0 +1,34 @@
+(;GE[life and death]DI[2k]DP[23]SO[santa c]CO[5]AB[qb]AB[pb]AB[mb]AB[md]AB[nd]AB[od]AB[pd]AB[qd]AW[qc]AB[pc]AW[rc]AW[rb]AW[ra]AW[rd]AW[re]AW[qe]AW[pe]AW[oe]AW[ne]AW[me]AW[ld]AW[lc]AW[lb]AW[jb]C[What can Black do?]AP[goproblems]
+(;B[ob];W[mc]
+(;B[nc];W[ma]
+(;B[na];W[nb]MA[mb]C[Well done, ko! :)RIGHT])
+(;B[nb];W[qa]C[:(]TR[na]TR[pa])
+(;B[oa];W[qa]C[:(])
+(;B[qa];W[oa]C[:(]))
+(;B[nb];W[nc]C[:(])
+(;B[na];W[nc]C[:(])
+(;B[ma];W[nc]C[:(])
+(;B[oa];W[nc]C[:(])
+(;B[qa]C[:(]))
+(;B[nb];W[qa]
+(;B[oa];W[ma]C[:(]TR[mc]TR[oc])
+(;B[oc];W[mc]C[:(]TR[oa]TR[ma])
+(;B[mc];W[ma]C[:(]TR[oc]TR[oa])
+(;B[ma];W[oa];B[pa];W[mc]C[:(]TR[nc]TR[ob]))
+(;B[mc];W[qa]C[Door shape's a dead one... :(])
+(;B[ma];W[mc]
+(;B[nb];W[nc]C[:(]TR[oc]TR[oa])
+(;B[nc];W[ob]
+(;B[oa];W[nb]
+(;B[qa];W[la]C[:(])
+(;B[na];W[qa]C[:(])
+(;B[oc];W[qa]C[:(]))
+(;B[qa];W[oa]C[:(])
+(;B[nb];W[oa]C[:(]))
+(;B[ob];W[nc]C[:(]))
+(;B[oa];W[qa]
+(;B[ma];W[nb]C[:(]TR[na]TR[nb]TR[nc]TR[oc]TR[ob])
+(;B[nb];W[ma]C[:(]TR[oc]TR[mc]))
+(;B[qa];W[nb]
+(;B[mc];W[ma]C[:(])
+(;B[ma];W[mc];B[nc];W[ob];B[oa];W[la]C[:(])))

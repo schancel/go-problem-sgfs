@@ -1,0 +1,3 @@
+(;GE[best move]DI[10k]DP[51]SO[TnekKralc]CO[0]AB[pd]AB[pe]AB[pg]AB[of]AB[nf]AB[me]AB[le]AB[lc]AB[mb]AW[lb]AW[mc]AW[nb]AW[oc]AW[pc]AW[qc]AW[oe]AW[ne]AW[mf]AW[mg]AP[goproblems]
+(;B[md];W[nc]C[Correct answer. It is correct to atari 1st w/ 1. W is forced 2 connect w/ 2, after which...RIGHT]LB[md:1]LB[nc:2];B[kb];W[ma]C[Correct answer cont. B ataris w/ 3. This is the correct order of movesRIGHT]LB[kb:3]LB[ma:4])
+(;B[kb];W[ma]C[Wrong answer. If B 1st ataris w/ 1, of course W captures w/2; play the cont'...]LB[kb:1]LB[ma:2];B[md];W[nd]C[Wrong answer cont. If B now plays 3, W answers w/ 4, so B's 3 stones R short of liberties. This result is inferior 2 the correct answer.]LB[md:3]LB[nd:4]))

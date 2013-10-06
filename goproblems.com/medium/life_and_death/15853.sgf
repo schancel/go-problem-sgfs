@@ -1,0 +1,166 @@
+(;GE[life and death]DI[1d]DP[17]SO[MrMoto]CO[0]AW[qb]AW[oc]AW[pd]AW[qd]AW[rd]AB[oa]AB[ma]AB[mb]AB[nb]AW[ob]AB[nc]AB[nd]AB[od]AB[oe]AB[pe]AB[qe]AB[re]AB[se]AB[me]C[This should be an easy kill for Black, right?]AB[nf]AP[goproblems]
+(;B[rb];W[pc]
+(;B[pa]C[Well done! This is the simplest way. White cannot prevent the connection to S18. :)RIGHT])
+(;B[qa];W[ra]C[This is going to lead to ko. But tell you what: I'll count it as a success if you can make the ko fight as hard as possible for White. Keep going!]
+(;B[sa];W[pa]
+(;B[pb];W[ka]LB[ja:A]C[Please respond to White's ko threat at A.FORCE];B[ja];W[pa]
+(;B[rc];W[sd]
+(;B[pb];W[kb]LB[jb:A]C[FORCE];B[jb];W[pa]
+(;B[ra];W[sc];B[pb]C[Well done! But next time, try to kill without ko. ;)RIGHT])
+(;B[na];W[ra]C[Now Black needs 2 threats.])
+(;B[sc];W[ra]C[Now Black needs 2 threats.])
+(;B[sb];W[ra]C[White lives in double ko.]))
+(;B[sc];W[ra]C[Now Black needs 2 threats.])
+(;B[na];W[ra]C[Now Black needs 2 threats.])
+(;B[sb];W[ra]C[White lives in double ko.]))
+(;B[na];W[rc]
+(;B[pb];W[sb]
+(;B[pa];W[ra])
+(;B[ra];W[pa])
+(;B[qc];W[ra]C[Unwise -- now you need another ko threat to get back to where you just were.])
+(;B[sc];W[pa]
+(;B[ra];W[sb])
+(;B[sb];W[sd])
+(;B[sd];W[ra]C[Black needs 1 threat.])))
+(;B[sc];W[ra]C[Black needs1 threat.])
+(;B[sd];W[ra]C[Now Black needs 2 threats.]))
+(;B[sd];W[rc]
+(;B[sc];W[ra]C[White lives in double ko.])
+(;B[pb]C[White only needs 1 more threat.]))
+(;B[sc];W[na]
+(;B[sd];W[rc]C[White lives in double ko.])
+(;B[rc];W[sd]
+(;B[ra];W[qc])
+(;B[oa];W[ra])
+(;B[qc];W[ra]C[Black needs 1 threat.]))))
+(;B[rc];W[sd]
+(;B[pb]C[White only needs 2 threats.])
+(;B[sc];W[ra]C[Now Black needs 2 threats.])
+(;B[qc];W[ra]C[Black needs 1 threat.]))
+(;B[sc];W[na]
+(;B[sd];W[rc]C[White lives in double ko.])
+(;B[rc];W[sd]
+(;B[oa];W[ra])
+(;B[qc];W[ra]C[Black needs 1 threat.])
+(;B[ra];W[qc])))
+(;B[sd];W[rc]
+(;B[pb]C[White only needs 1 threat.])
+(;B[sc];W[na]C[White lives in double ko.]))
+(;B[na];W[rc]
+(;B[pb];W[sb]
+(;B[sc];W[pa]
+(;B[sd];W[ra]C[Black needs 1 threat.])
+(;B[sb];W[sd])
+(;B[ra];W[sb]))
+(;B[qc];W[ra]C[A mistake -- now Black needs another threat just to return to the previous position.]))
+(;B[sc];W[ra]C[Black needs 1 threat.])
+(;B[sd];W[ra]C[Now Black needs 2 threats.])))
+(;B[pa];W[sb]
+(;B[sa]C[White only needs 2 threats.])
+(;B[rc];W[sc];B[sa]C[White only needs 1 threat.]))
+(;B[sb];W[pa])
+(;B[rc];W[sd]
+(;B[pa];W[sb];B[sa]C[White only needs 2 threats.])
+(;B[sa];W[pa]))
+(;B[sc];W[pa])
+(;B[sd];W[rc]
+(;B[sa];W[pa];B[pb]C[White only needs 1 threat.])
+(;B[pa];W[sb])
+(;B[sc];W[sb])))
+(;B[ra];W[rc];B[qa];W[pa];B[pb]C[White only needs 1 threat. You could have killed unconditionally, or at least found a more favourable ko.])
+(;B[sb];W[rc])
+(;B[rc];W[sd]
+(;B[pa]C[Well done! S17 was unnecessary, though. (You could have just played Q19.)RIGHT])
+(;B[qa];W[ra])
+(;B[ra];W[pa]
+(;B[na];W[sc]
+(;B[sb];W[qc])
+(;B[qc];W[sb])
+(;B[qa];W[sb];B[pb]C[White only needs 1 threat.]))
+(;B[qc];W[sc]
+(;B[na];W[sb])
+(;B[sb];W[na]C[Now Black needs 1 threat.])
+(;B[qa];W[na];B[pb]C[Black kills with double ko! That's always fun.RIGHT]))
+(;B[sc];W[qc]
+(;B[na];W[sb])
+(;B[qa];W[na]C[Black needs 1 threat.]))
+(;B[sb];W[qa]
+(;B[na];W[qc])
+(;B[qc];W[na]C[Black needs 1 threat.]))
+(;B[qa];W[qc]C[This is going to lead to ko. But tell you what: I'll count it as a success if you can make the ko fight as hard as possible for White. Keep going!]
+(;B[sc];W[na]C[Black needs 1 threat.])
+(;B[na];W[sc]C[Now White only needs 2 threats.])
+(;B[pb];W[ka]LB[ja:A]C[Please respond to White's threat at A.FORCE];B[ja];W[pa]
+(;B[sc];W[na]C[Black needs 1 threat.])
+(;B[na];W[sc];B[pb];W[kb]LB[jb:A]C[FORCE];B[jb];W[pa]LB[jc:T]C[Play T to tenuki.FORCE];B[jc];W[sb];B[pb]C[Well done! White needs 1 more threat. But next time try to avoid ko. ;)RIGHT]))))
+(;B[sc];W[pa]
+(;B[na];W[ra])
+(;B[ra];W[qc])
+(;B[qc];W[na];B[ra];W[qa];B[oa]C[White only needs 1 threat.]))
+(;B[sb];W[pa]
+(;B[na];W[ra])
+(;B[ra])
+(;B[qc];W[ra]))
+(;B[sa];W[pa]
+(;B[na];W[qa])
+(;B[qa];W[ra]C[Now Black needs 3 ko threats. :O])
+(;B[sc];W[qc]
+(;B[ra]C[Gote seki.])
+(;B[qa];W[na]C[White lives in double ko.])
+(;B[na];W[qa]))
+(;B[qc];W[sc]
+(;B[na];W[qa])
+(;B[qa];W[ra]C[Black needs 1 threat.])
+(;B[ra]C[Gote seki.]))
+(;B[ra];W[sc]))
+(;B[qc];W[ra]))
+(;B[sa];W[pa]
+(;B[qa];W[ra]C[Now Black needs 2 threats.])
+(;B[ra];W[rc])
+(;B[na];W[rc])
+(;B[sb];W[rc])
+(;B[rc];W[sd])
+(;B[sc];W[rc]
+(;B[sd];W[qa])
+(;B[na];W[qa])
+(;B[qa];W[ra]C[White lives in double ko.])
+(;B[ra];W[sd]))
+(;B[sd];W[rc]
+(;B[sc])
+(;B[qa];W[ra]C[White lives in double ko.])))
+(;B[sc];W[pa]
+(;B[na];W[rc])
+(;B[ra];W[rc]
+(;B[sd];W[qa])
+(;B[na];W[qa])
+(;B[qa];W[na]C[Black needs 1 threat.]))
+(;B[sd];W[rc])
+(;B[rc];W[sd]))
+(;B[sd];W[rc]
+(;B[sc];W[pa])
+(;B[pa];W[ra])
+(;B[sb];W[pa])
+(;B[ra];W[qa])
+(;B[qa];W[pa]
+(;B[pb];W[sb]
+(;B[sc];W[ra])
+(;B[qc]C[White only needs 1 threat.])
+(;B[ra];W[pa]C[Black needs 1 threat.])
+(;B[pa];W[ra])
+(;B[na];W[ra]))
+(;B[na];W[ra])
+(;B[sc];W[ra])
+(;B[ra];W[na]C[Black needs 1 threat.])
+(;B[sb];W[ra])
+(;B[sa];W[ra]C[White lives in double ko.]))))
+(;B[pa];W[rb])
+(;B[pb];W[pc]LB[ra:A]C[FORCE];B[ra];W[pa]LB[qa:A]C[FORCE];B[qa];W[na]C[Black will need 2 threats.])
+(;B[qa];W[ra]LB[pc:A]C[FORCE];B[pc];W[pb]LB[rb:A]C[FORCE];B[rb];W[qc]LB[sd:A]C[FORCE];B[sd];W[sc]LB[sa:A]C[FORCE];B[sa];W[pa]LB[rc:A]C[FORCE];B[rc];W[ra]C[Black needs 1 threat.])
+(;B[ra];W[qa]LB[rc:A]C[FORCE];B[rc];W[rb]LB[sd:A]C[FORCE];B[sd];W[qc]LB[sb:A]C[FORCE];B[sb];W[sc]C[Black needs 1 threat.])
+(;B[sa];W[rb]C[:|])
+(;B[pc];W[sb]LB[pb:A]C[FORCE];B[pb];W[ra]LB[qc:A]C[FORCE];B[qc];W[rc]LB[qa:A]C[FORCE];B[qa];W[sd]LB[rb:A]C[FORCE];B[rb]C[White only needs 1 threat.])
+(;B[qc];W[rb])
+(;B[rc];W[rb]LB[sd:A]C[FORCE];B[sd];W[qc]LB[sb:A]C[FORCE];B[sb];W[pa]LB[ra:A]C[FORCE];B[ra];W[sc]C[Black needs 1 threat.])
+(;B[sb];W[sd])
+(;B[sc];W[rb])
+(;B[sd];W[rc]))

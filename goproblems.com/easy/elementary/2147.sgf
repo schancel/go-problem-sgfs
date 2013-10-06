@@ -1,0 +1,21 @@
+(;GE[elementary]DI[15k]DP[64]SO[falias]CO[7]SZ[13]AW[aj]AW[bj]AW[cj]AW[dj]AW[ej]AW[ek]AW[el]AW[em]AB[bk]AB[al]AB[dl]AB[dm]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[B]
+(;B[bm]C[]PL[W]N[Now black can make 2 eyes.];W[ck]
+(;B[cl];W[ak]
+(;B[bl]C[RIGHT])
+(;B[am]C[White doesn't even have to play another move, black has only one eye (at C1), B2 is a false eye.])
+(;B[cm]C[White doesn't even need to play another move, black has only one eye (at B2). A1 is a false eye.])
+(;B[dk];W[bl]C[ko]))
+(;B[bl];W[cl])
+(;B[ak];W[cl]))
+(;B[cl];W[bm])
+(;B[ck];W[bm])
+(;B[bl];W[ck]
+(;B[cl];W[bm])
+(;B[bm];W[cl]))
+(;B[ak];W[bm])
+(;B[am];W[ck];B[cl];W[bm])
+(;B[cm];W[ck];B[cl];W[ak])
+(;B[dk];W[ck]
+(;B[cl];W[bm])
+(;B[bm];W[cl])
+(;B[ak];W[cl])))

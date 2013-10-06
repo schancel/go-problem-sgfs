@@ -1,0 +1,43 @@
+(;GE[life and death]DI[2d]DP[12]SO[lok]CO[8]AW[pr]AW[qs]AW[qq]AW[rq]AB[oq]AB[or]AB[mr]AB[mq]AB[np]AB[pp]AB[qp]AB[rp]AB[qo]AW[lr]AW[lq]AW[mp]AW[mo]AW[nn]AW[on]AW[pn]AW[qn]AW[rn]AW[ln]C[Black to live without ko. (Black has less ko threats than white)]AP[goproblems]
+(;B[sr]
+(;W[sq]
+(;B[rr];W[sp]
+(;B[pq]C[CHOICE];W[qr]C[Nice!  You played Q3 in sente.]
+(;B[oo]C[Alive :-)RIGHT])
+(;B[so]C[NOTTHIS]))
+(;B[so]C[];W[qr];B[ro];W[os];B[ns])
+(;B[oo];W[pq])
+(;B[qr];W[rs];B[pq];W[ss]
+(;B[oo]C[RIGHT])
+(;B[so]C[NOTTHIS])))
+(;B[oo];W[pq])
+(;B[sp];W[rr])
+(;B[pq]
+(;W[rr]C[CHOICE];B[oo]C[RIGHT])
+(;W[oo]C[White can play this, if he wishes an an approach move ko. (See variation starting with bQ3)];B[rr];W[qr];B[sp];W[os];B[ns])))
+(;W[sp];B[rr];W[sq];B[pq]C[RIGHT]))
+(;B[oo];W[pq]
+(;B[sr];W[sq];B[rr];W[sp])
+(;B[rr];W[sr];B[rs];W[sp];B[so];W[ro];B[sq]C[Ko.])
+(;B[po];W[no])
+(;B[no];W[po]))
+(;B[rr];W[sr];B[rs];W[sp];B[so];W[ro];B[sq]C[Ko])
+(;B[sq];W[sr]
+(;B[rr];W[sp]
+(;B[so];W[rs])
+(;B[rs];W[so]))
+(;B[rs];W[pq];B[rr];W[sp];B[so];W[ro]C[Ko]))
+(;B[sp];W[rr])
+(;B[pq]
+(;W[oo]C[White played S2 instead of P5. It is possible in some circumstances.]
+(;B[sr];W[sq];B[rr];W[qr];B[sp]C[RIGHT];W[os];B[ns]C[White gets an approach move ko. As white need to ignore many threats to win this, it isn't bad for black.(But white can make this choice in all variation see BartTM comment).RIGHT])
+(;B[rr];W[sr];B[rs];W[sp];B[so];W[ro];B[sq]C[Ko])
+(;B[os];W[sr]
+(;B[rr];W[rs])
+(;B[rs];W[sp];B[so];W[ro]C[Ko])))
+(;W[rr];B[oo]C[RIGHT]))
+(;B[no];W[oo])
+(;B[po];W[oo])
+(;B[os];W[sr]
+(;B[oo];W[pq])
+(;B[pq];W[oo];B[rs];W[sp];B[so];W[ro]C[Ko])))

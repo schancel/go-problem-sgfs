@@ -1,0 +1,72 @@
+(;GE[endgame]DI[5d]DP[5]SO[Clydevil]CO[0]AB[ja]AB[ia]AB[fa]AB[ca]AB[aa]AB[ba]AB[ea]AB[da]AB[ha]AB[ga]AB[ab]AB[ac]AB[bc]AB[bd]AB[cd]AB[ce]AB[cf]AB[cg]AB[ch]AB[ci]AB[ck]AB[cj]AB[cm]AB[cl]AB[cn]AB[co]AB[cq]AB[cr]AB[cp]AB[cs]AB[do]AB[eo]AB[fo]AB[ds]AB[es]AB[gs]AB[fs]AB[hs]AB[hr]AB[hp]AB[ho]AB[hq]AB[io]AB[jo]AB[ko]AB[lo]AB[no]AB[np]AB[nq]AB[ns]AB[po]AB[pp]AB[ro]AB[rp]AB[kr]AB[ks]AB[js]AB[is]AB[ms]AB[ls]AB[sm]AB[rm]AB[qm]AB[ql]AB[rl]AB[sl]AB[sk]AB[rk]AB[qk]AB[qj]AB[sj]AB[rj]AB[qi]AB[si]AB[ri]AB[eb]AB[ec]AB[ed]AB[ee]AB[fc]AB[fe]AB[ge]AB[he]AB[ie]AB[je]AB[ke]AB[kd]AB[ld]AB[md]AB[me]AB[mf]AB[lf]AB[nf]AB[of]AB[oe]AB[od]AB[nd]AB[pd]AB[pc]AB[qb]AW[bb]AW[cb]AW[db]AW[dc]AW[cc]AW[ad]AW[ae]AW[be]AW[bf]AW[af]AW[ag]AW[bg]AW[ai]AW[bi]AW[bj]AW[bk]AW[ak]AW[am]AW[bm]AW[bl]AB[bh]AB[bn]AW[ao]AW[bo]AW[bp]AW[ap]AW[aq]AW[bq]AW[br]AW[ar]AW[as]AW[bs]AW[dp]AW[dq]AW[dr]AW[er]AW[eq]AW[ep]AW[fp]AW[fq]AW[fr]AW[gr]AW[gq]AW[gp]AW[ip]AW[iq]AW[ir]AW[jr]AW[jq]AW[jp]AW[kp]AW[kq]AW[lp]AW[lq]AW[lr]AB[nr]AW[mr]AW[mq]AW[mp]AW[oq]AW[or]AW[os]AW[ps]AW[qq]AW[pq]AW[pr]AW[qr]AW[qs]AW[ss]AW[rr]AW[rq]AW[sq]AW[sr]AW[rs]AW[sp]AW[sn]AW[rn]AW[qn]AW[on]AW[nn]AW[pn]AW[mn]AW[ln]AW[kn]AW[jn]AW[hn]AW[gn]AW[in]AW[fn]AW[en]AW[dm]AW[dn]AW[dk]AW[dl]AW[dj]AW[di]AW[dh]AW[df]AW[de]AW[dg]AW[ef]AW[gf]AW[if]AW[ff]AW[hf]AW[kf]AW[jf]AW[lg]AW[mg]AW[ng]AW[og]AW[pg]AW[pj]AW[ph]AW[pi]AW[pk]AW[pl]AW[pm]AW[pf]AW[pe]AW[qe]AW[qd]AW[qc]AW[gb]AW[hc]AW[id]AW[ic]AW[ib]AW[hb]AW[jb]AW[jc]AW[jd]AW[kc]AW[kb]AW[lb]AW[lc]AW[mc]AW[nc]C[No komi No prisoner. Black to play, what is the result? (See details above)]AB[gd]AP[goproblems]
+(;B[so];W[mo]
+(;B[rb];W[go]
+(;B[se]
+(;W[re]
+(;B[sd];W[sf]
+(;B[rc];W[rd];B[sc];W[rf]
+(;B[an];W[qo];B[qp];W[oo];B[op];W[ah];B[dd]C[Congrats! black won by 1. Yes in this context S18 is worth 26 points!RIGHT])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[sc];W[rf];B[an];W[qo];B[qp];W[oo];B[op];W[ah];B[dd];W[rc]C[Black lost by 1, you could have done better.]))
+(;B[sc];W[sf];B[sd])))
+(;B[sc]C[No need to look for tricky local yose, monky jump is absolute sente here and better. Black lost some points.])
+(;B[sd];W[se]C[No need to look for tricky local yose, monky jump is absolute sente here and better. Black lost some points.])
+(;B[rd]C[No need to look for tricky local yose, monky jump is absolute sente here and better. Black lost some points.])
+(;B[an];W[rc]
+(;B[ah];W[qo];B[qp];W[oo];B[op];W[dd];B[sc];W[sd];B[sb]C[Black lost by 1, you could have done better.])
+(;B[dd]C[Look at the board.]))
+(;B[rc]C[A really bad yose move. Black lost some points.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[go];W[rb]
+(;B[an];W[pb];B[ob];W[qa]
+(;B[oc]
+(;W[oa]C[CHOICE]
+(;B[nb];W[na];B[ma];W[pa]
+(;B[mb];W[oo];B[op];W[qo];B[qp];W[ah];B[dd]C[Black lost by 1, you could have done better.])
+(;B[ka]C[NOTTHIS]))
+(;B[na];W[nb]C[White has two threats at P5 R5. You'll lose this ko and loose too much!]))
+(;W[ah]C[CHOICE]
+(;B[dd];W[oa]
+(;B[na];W[nb]C[White has two threats at P5 R5. You'll lose this ko and loose too much!])
+(;B[nb];W[na];B[ma];W[pa];B[mb];W[qo];B[qp];W[oo];B[op]C[Black lost by 1, you could have done better.]))
+(;B[oa];W[qo];B[qp];W[oo];B[op];W[dd];B[pa];W[qb]C[Black lost by 6, you could have done better.])))
+(;B[nb];W[oc]C[There is nothing there, black lost too much.]))
+(;B[pb];W[oo];B[op];W[qo];B[qp];W[an]
+(;B[ah];W[dd];B[ra];W[sb];B[qa];W[rc]C[Black lost by 3, you could have done better.])
+(;B[dd]C[Look at the board.]))
+(;B[pa];W[qo];B[qp];W[oo];B[op];W[an];B[ah];W[dd];B[ra];W[sb];B[qa];W[rc]C[Black lost by 3, you could have done better.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[an]C[Look at the board.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[rb];W[so]
+(;B[se];W[re];B[sd];W[sf];B[rc];W[rd];B[sc];W[rf]
+(;B[mo];W[go])
+(;B[go]C[Look at the board.])
+(;B[an]C[Look at the board.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[mo];W[go]
+(;B[se];W[re];B[sd];W[sf];B[rc];W[rd];B[sc];W[rf]
+(;B[an];W[ah];B[dd]C[Black lost by 3, you could have done better.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[an];W[rc]
+(;B[ah];W[dd];B[sc];W[sd];B[sb]C[Black lost by 5, you could have done better.])
+(;B[dd]C[Look at the board.]))
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[go]C[Look at the board.])
+(;B[an]C[Look at the board.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.]))
+(;B[mo]C[Look at the board.])
+(;B[go]C[Look at the board.])
+(;B[an]C[Look at the board.])
+(;B[ah]C[Look at the board.])
+(;B[dd]C[Look at the board.])
+(;B[rc]C[I do not include the continuation after this move. Locally this is a very bad yose move except in very special case where by example it is the last move of the game. If you want to play in this area the usual move is S18, it is better because if white answers you accomplish something in sente, if white doesn't you'll have a huge continuation (monky jump)])
+(;B[ob]C[No need to add a move here, white was already dead.]))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[6k]DP[38]SO[dnerra]CO[7]GM[1]FF[3]
+RU[Chinese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2001-10-31]
+SY[Cgoban 1.9.10]TM[30:00(5x1:00)];
+AW[ad][dd][ed][be][ce][ee][ef][bg][cg][dg]
+AB[bb][dc][ec][fc][bd][cd][ge][gf][eg][fg][bh][ch][dh][eh]
+C[Black to kill White.
+]
+(;B[df];W[ae]
+(;B[ag];W[af];B[cf]C[RIGHT
+])
+ 
+(;B[cf];W[ag];B[bf]C[RIGHT
+])
+)
+ 
+(;B[ag];W[af])
+ 
+(;B[af];W[ag]C[This is often the vital point, but here it fails.
+]
+(;B[ae];W[bf];B[ae];W[df])
+ 
+(;B[df];W[ae])
+)
+ 
+)

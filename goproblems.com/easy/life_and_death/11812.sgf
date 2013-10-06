@@ -1,0 +1,14 @@
+(;GE[life and death]DI[8k]DP[48]SO[enigm4]CO[0]AB[cs][cr][dq][eq][fq][gq][gr][gs]AW[br][bq][bp][cp][dp][ep][fp][gp][hq][hr][hs][ds][fs]
+(;B[er];W[es]
+;B[cq]C[RIGHT Seki])
+(;B[cq];W[er];B[dr]
+;W[es]C[Your group is dead.])
+(;B[dr]
+;W[es]C[Your group is dead.])
+(;B[fr]
+;W[es]C[Your group is dead.])
+(;B[es];W[er]
+(;B[fr]
+;W[es]TR[ds][fs][er][es]C[Thats nakade shape, so black is dead now.])
+(;B[dr]
+;W[es]TR[ds][es][er][fs]C[Thats nakade shape, so black is dead now.])))

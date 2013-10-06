@@ -1,0 +1,25 @@
+(;GE[life and death]DI[1k]DP[19]SO[mrmoto]CO[7]AB[rs]AB[qs]AB[pr]AB[pq]AB[sq]AB[rq]AB[qo]AB[so]AB[ro]AW[ps]AW[qr]AW[rr]AW[or]AW[ns]AW[nr]AW[oq]AW[op]AW[sn]AW[rn]AW[qn]AW[pn]AW[po]AW[qp]AW[oo]C[What can black do here?]AP[goproblems]
+(;B[pp];W[qq])
+(;B[os];W[qq])
+(;B[sr];W[qq])
+(;B[rp];W[qq])
+(;B[qq];W[ss]
+(;B[rp];W[pp])
+(;B[pp];W[rp];B[sp];W[qp])
+(;B[sr];W[qs];B[rs];W[os]TR[pp]TR[rp])
+(;B[rs];W[qs];B[sr];W[os]TR[pp]TR[rp])
+(;B[qs]
+(;W[rs];B[sr];W[rp]
+(;B[sp];W[pp])
+(;B[pp];W[sp])
+(;B[qs];W[rs]
+(;B[os];W[rr])
+(;B[qr];W[sp])
+(;B[pp];W[qr])
+(;B[rr];W[qr]C[Play at K if you need to use an external ko threat.]LB[nn:K]MA[qs]
+(;B[qs]C[NOTTHIS])
+(;B[pp];W[qs]C[:(])
+(;B[sp];W[qs]C[:(])
+(;B[ss];W[qs];B[os];W[qs]TR[ps]TR[pp]C[:(])
+(;B[nn];W[no];B[qs]C[Well done! :)RIGHT]))))
+(;W[os]C[This is a mistake.];B[sr];W[rs];B[qs];W[rs];B[rp]TR[pp]TR[qr]C[Black lives.]))))

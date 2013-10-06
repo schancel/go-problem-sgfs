@@ -1,0 +1,24 @@
+(;GE[endgame]DI[4k]DP[29]SO[adum]CO[6]AB[br]AB[cq]AB[bo]AW[cr]AW[dr]AW[eq]AB[bn]AB[bm]AB[cn]AB[dn]AW[an]AW[ao]AW[bp]AW[dp]AW[co]AW[do]AW[eo]AB[en]AB[fn]AW[fo]AW[fs]AW[es]AW[go]AW[gr]AW[gq]AW[gp]AB[gn]AB[hp]AB[ho]AB[hn]AB[hq]AB[hr]AB[hs]AB[cl]C[how can black reduce?]AP[goproblems]
+(;B[aq]
+(;W[bq]
+(;B[am]
+(;W[cp]
+(;B[ap]C[RIGHT])
+(;B[ar];W[ap]))
+(;W[ap];B[cp]C[RIGHT]))
+(;B[ap];W[ar])
+(;B[cp];W[dq]))
+(;W[cp];B[ap]C[RIGHT]))
+(;B[am];W[aq]
+(;B[ap];W[ao])
+(;B[bq];W[cp])
+(;B[cp];W[bq]))
+(;B[ap];W[aq]
+(;B[am];W[cp])
+(;B[cp];W[bq]))
+(;B[bq];W[cp])
+(;B[cp];W[bq]
+(;B[aq];W[dq])
+(;B[ap];W[aq]))
+(;B[ar];W[cp])
+(;B[bs];W[cp]))

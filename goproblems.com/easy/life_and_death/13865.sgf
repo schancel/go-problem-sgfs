@@ -1,0 +1,21 @@
+(;GE[life and death]DI[12k]DP[56]SO[siaubunas]CO[0]AB[sr]AB[rr]AB[qq]AB[pq]AB[or]AW[nr]AW[nq]AW[op]AW[lr]AW[pp]AW[qp]AW[rp]AW[rq]LB[mn:A]LB[on:D]C[White to move. Is Black (A)live or (D)ead?FORCE]AP[goproblems]
+(;W[mn]C[RIGHT])
+(;W[on]C[];B[pn]C[Prove it]
+(;W[qs];B[ps];W[qr];B[rs])
+(;W[os];B[ps];W[qs];B[ns];W[qr];B[rs])
+(;W[qr];B[pr];W[qs];B[rs])
+(;W[pr];B[ps]
+(;W[qr];B[qs];W[pr];B[oq])
+(;W[qs];B[qr]))
+(;W[ps];B[os]
+(;W[qs];B[rs])
+(;W[qr];B[pr]
+(;W[rs];B[qs])
+(;W[qs];B[rs])))
+(;W[rs]
+(;B[ps]C[CHOICE]
+(;W[qs];B[qr])
+(;W[qr];B[qs])))
+(;W[oq];B[ps];W[qr];B[pr]
+(;W[qs];B[rs])
+(;W[rs];B[qs]))))

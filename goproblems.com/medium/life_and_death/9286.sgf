@@ -1,0 +1,30 @@
+(;GE[life and death]DI[2d]DP[13]SO[lok]CO[9]AB[gr]AB[gq]AB[gp]AB[hp]AB[ho]AB[io]AB[jp]AB[jq]AW[jo]AW[in]AW[hn]AW[go]AW[fo]AW[fp]AW[fq]AW[fr]AW[ko]AW[kp]AW[kq]AW[kr]C[Black to live.]AP[goproblems]
+(;B[iq];W[hr]
+(;B[gs]C[The white stone at H2 can't escape.]
+(;W[ir]C[CHOICE];B[jr];W[js];B[is];W[hs];B[hq];W[ks];B[is]C[Nice ^^RIGHT])
+(;W[is]C[CHOICE]
+(;B[ir];W[js];B[hs]C[Nice ^^RIGHT])
+(;B[js];W[jr];B[ir];W[ks];B[hs]C[Nice ^^RIGHT])))
+(;B[ir];W[gs]C[])
+(;B[is];W[gs];B[hs];W[ir];B[fs];W[jr])
+(;B[hs];W[is]
+(;B[gs];W[ir];B[jr];W[js]C[])
+(;B[ir];W[gs]C[Dead.])))
+(;B[jr]C[Wrong. See problem 9277.])
+(;B[ir];W[iq]
+(;B[jr];W[js]
+(;B[hq];W[hs]
+(;B[gs];W[is])
+(;B[is];W[gs]))
+(;B[hs];W[hq])
+(;B[is];W[gs]))
+(;B[hq];W[jr];B[ip];W[hs]TR[gs]TR[is]C[Dead :(])
+(;B[gs];W[jr];B[ip];W[is]))
+(;B[js];W[iq]
+(;B[jr];W[ir]
+(;B[gs];W[hr]C[Dead. When the liberty at L1 is filled, Black  need to play at J4, then White can fill to a bulky five nakade.]TR[iq]TR[ir]TR[hr]TR[hs]TR[is])
+(;B[hr];W[gs]C[Dead.]))
+(;B[ir];W[jr];B[ip];W[gs]C[Dead.]))
+(;B[is];W[iq]
+(;B[jr];W[gs]TR[ip]TR[ir]TR[hr]TR[hq]TR[iq]C[Bulky five nakade :(])
+(;B[ir];W[jr];B[ip];W[gs]TR[hq]TR[hs]C[Dead.])))

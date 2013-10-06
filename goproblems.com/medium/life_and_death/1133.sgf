@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3k]DP[26]SO[BigMetalGuy]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[White]PB[Black]AW[cb][dc][bd][cd][dd][ae]AB[db][eb][fc][be][ce][de][ee][bg]C[Black plays, White dies. (Be careful of a Ko.) ]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[bb]CR[bb]
+;W[bc]CR[bc]
+(;B[da]CR[da]C[RIGHT B13 is the vital point. After White C13, Black B12 destroys White's eye shape. ])
+(;B[ab]CR[ab]
+;W[ac]CR[ac]))
+(;B[bb]CR[bb]
+;W[ba]CR[ba]
+(;B[bc]CR[bc]
+;W[ab]CR[ab]
+;B[ac]CR[ac]
+;W[ad]CR[ad]
+;B[aa]CR[aa]C[White gets a ko.])
+(;B[ac]CR[ac]
+;W[bc]CR[bc]))
+(;B[ac]CR[ac]
+;W[bb]CR[bb]
+(;B[bc]CR[bc]
+;W[ab]CR[ab]
+(;B[ca]CR[ca]
+;W[ba]CR[ba]
+;B[af]CR[af]
+;W[ad]CR[ad])
+(;B[ba]CR[ba]
+;W[ca]CR[ca]))
+(;B[ab]CR[ab]
+;W[bc]CR[bc]
+(;B[ca]CR[ca]
+;W[ba]CR[ba])
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[aa]CR[aa]
+;W[ad]CR[ad])
+(;B[af]CR[af]
+;W[ad]CR[ad]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[da]CR[da]
+;W[aa]CR[aa])
+(;B[ca]CR[ca]
+;W[ba]CR[ba])))
+(;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[ca]CR[ca]
+;W[bc]CR[bc]
+(;B[af]CR[af]
+;W[ad]CR[ad])
+(;B[aa]CR[aa]
+;W[da]CR[da]))))

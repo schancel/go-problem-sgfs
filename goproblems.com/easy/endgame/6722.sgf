@@ -1,0 +1,172 @@
+(;GE[endgame]DI[15k]DP[64]SO[BartTM]CO[8]AB[da]AB[db]AB[dc]AB[cc]AB[bc]AB[bd]AB[be]AB[ae]AW[ac]AW[af]AW[bf]AW[cf]AW[ce]AW[cd]AW[dd]AW[ed]AW[ec]AW[eb]AW[ea]C[This one should be easy. Play T for tenuki if and when you think it is best.]LB[ef:T]AP[goproblems]
+(;B[bb]C[8 points in gote (reverse sente). Easy as that. Note that if White plays B18 first, Black must react to just stay alive, having the choice between getting a ko fight or seki. White can then tenuki, having robbed Black of the possibility to get secure points in the corner.RIGHT])
+(;B[ab]
+(;W[bb]LB[ef:T]
+(;B[ad];W[ba]LB[ef:T]
+(;B[ca]C[Gote seki.])
+(;B[cb]C[Gote seki.])
+(;B[aa];W[ac]LB[ef:T]
+(;B[ab]C[];W[aa]C[1000 year ko. If Black connects Black dies. If Black gives atari White takes the ko and Black has to find the first threat. If White takes the ko first the situation is the other way round, though White can connet to get a seki. Neither player wants to start the ko, hence the name.]MA[ac])
+(;B[aa];W[ab])
+(;B[ca];W[cb])
+(;B[cb];W[ca])
+(;B[ef];W[ab]))
+(;B[ef];W[aa]C[1000 year ko.]))
+(;B[ba];W[aa]C[Ko. Black can either fight the ko right away or play C19. If after Black C19 White connects at A18 it is a seki, but White might well tenuki and leave the ko for seki for later in the game.]MA[ab]MA[ca])
+(;B[cb];W[aa]
+(;B[ad];W[ca])
+(;B[ca]C[Black is dead as it stands. White can play A18 and B19; if Black captures that 5 stone shape White plays A18 again and Black has just one eye.])
+(;B[ba];W[ca]C[Ko for life.]))
+(;B[aa];W[ba]
+(;B[ab]C[Seki. Capturing the single stones does not gain or cost a liberty to either side, just one point for the stone itself. But White already captured two so this is a two point seki for White (+/- 1).])
+(;B[ad];W[ab])
+(;B[ca];W[ab])
+(;B[cb];W[ab])
+(;B[aa]C[Dead as it stands.]))
+(;B[ca];W[aa]C[Seki, one point for White.])
+(;B[ef];W[ca]LB[ff:T]
+(;B[cb];W[ad])
+(;B[ad];W[aa]C[Ko for life.])
+(;B[ba];W[aa])
+(;B[aa];W[ba]LB[ff:T]
+(;B[ab]C[Seki. Black played tenuki once so this is in effect a sente seki for Black. But White has captured 2 stones. Finally, either player can capture one stone in gote.])
+(;B[ad];W[cb])
+(;B[ff];W[ab]))
+(;B[ff];W[aa])))
+(;W[ef]C[White might also play tenuki. Since White can always create trouble at B18 Black needs another move to secure the corner, wasting another point.]MA[bb]))
+(;B[ad];W[bb]LB[ef:T]
+(;B[ab])
+(;B[ba];W[ab]C[Black is dead.])
+(;B[cb];W[ca])
+(;B[ca];W[ab]C[Black is dead.])
+(;B[aa];W[ab]C[As a dodo.])
+(;B[ef];W[ab]C[Black is dead.]))
+(;B[cb]
+(;W[ab]C[In the endgame White plays here.]
+(;B[ba];W[bb]C[Seki.])
+(;B[bb];W[ba]C[Seki.])
+(;B[ad];W[bb])
+(;B[aa];W[bb]
+(;B[ba];W[ca]
+(;B[ba]C[Gote seki.])
+(;B[aa];W[ad]))
+(;B[ca];W[ba])
+(;B[ad];W[ca]))
+(;B[ca];W[ba]C[Black is dead.])
+(;B[ef];W[ff]C[It is seki now, no matter who plays first. This is a sente seki for Black.]))
+(;W[ef]C[White tenukis! Now what?CHOICE]LB[ff:T]
+(;B[ff]C[White can get a seki at any time by playing A18. So Black needs another move to get unconditional life with points.]MA[ab])
+(;B[ba]C[Black lives, but with one move more and one point less than in the solution.])
+(;B[ab]C[Black lives, but with one move more and one point less than in the solution.])
+(;B[bb]C[Black lives, but with one move more and one point less than in the solution.])
+(;B[aa];W[ba]LB[ff:T]
+(;B[ab];W[bb]LB[ff:T]
+(;B[ab]C[Double gote seki.])
+(;B[aa]C[Dead as it stands.])
+(;B[ff];W[ab]))
+(;B[bb];W[ab]C[Seki. Since White has tenukied once this is in effect a gote seki for Black.])
+(;B[ca];W[ab])
+(;B[ad];W[ab])
+(;B[ff];W[bb]C[Dead.]))
+(;B[ad];W[bb]LB[ff:T]
+(;B[ab]C[];W[ba]C[White has played tenuki so this is in effect a gote seki for Black.])
+(;B[ca];W[ba])
+(;B[aa];W[ca])
+(;B[ba];W[ca])
+(;B[ff];W[ca]))
+(;B[ca];W[bb]C[Black is dead!])))
+(;B[aa];W[bb]LB[ef:T]
+(;B[ab])
+(;B[ad])
+(;B[cb];W[ba]C[Black is dead.])
+(;B[ba];W[ab]
+(;B[ca]C[Gote seki.])
+(;B[cb])
+(;B[ad];W[ca]))
+(;B[ca];W[ba]C[Black is dead.])
+(;B[ef];W[ba]C[Black is dead.]))
+(;B[ba]
+(;W[bb]C[White will play tenuki instead of B18 until the endgame has started.]LB[ef:T]
+(;B[ab])
+(;B[aa])
+(;B[cb];W[ab]C[Seki.])
+(;B[ca]C[White can play A18 for seki or tenuki right away and risk that Black starts a ko for 6 points at A18.]MA[ab])
+(;B[ad])
+(;B[ef]
+(;W[ff]C[If Black plays tenuki White does likewise, as White has no way of getting more than seki and Black has no way of getting unconditional life with points.])
+(;W[ab]C[White may also play here to force a seki in sente. Since Black has already tenukied once, it would in effect be a sente seki for Black. White will probably postpone it until the endgame.])))
+(;W[ef]C[White tenukies! Now what?CHOICE]LB[ff:T]
+(;B[aa]C[Black is unconditionally alive but wasted one point and a move.])
+(;B[ab]C[Black is unconditionally alive but wasted one point and a move.])
+(;B[bb]C[Black is unconditionally alive but wasted one point and a move.])
+(;B[cb]C[Black is unconditionally alive but wasted one point and a move.])
+(;B[ad]C[Black is unconditionally alive but wasted one point and a move.])
+(;B[ca]C[Not only has Black wasted one point and a move, but also White may at one time play B18 and get at least a ko for seki. Black will need yet another move to live unconditionally with points.]MA[bb])
+(;B[ff]C[Since White can at any time play B18 to get at least a ko for seki, Black needs to play another move to secure unconditional life with points.]MA[bb])))
+(;B[ca]
+(;W[bb]LB[ef:T]
+(;B[ad])
+(;B[cb]C[Black is dead as it stands.])
+(;B[ba]C[White can play A18 for seki or tenuki right away and risk that Black starts a ko for 6 points at A18.]MA[ab])
+(;B[aa])
+(;B[ab]C[White can either capture at A19 for seki or tenuki right away and risk that Black starts a ko for 6 points at B19. If Black captures at A16 White gets a seki with B19.]MA[ad]MA[ba]MA[aa])
+(;B[ef];W[ff]C[White tenukies too. Black cannot get better than seki anyway. In the late endgame White will play B19 to get one point extra in gote.]MA[ba]))
+(;W[ef]C[White plays tenuki! Now what?CHOICE]LB[ff:T]
+(;B[ff]C[White can play B18 to get a seki at any time, so Black needs another move to live unconditionally with points.]MA[bb])
+(;B[bb]C[Black is alive but with one move more and one point less than in the solution.])
+(;B[ad];W[bb]LB[ff:T]
+(;B[ab];W[ba]C[Seki. Since White has played tenuki once this is in effect a gote seki for Black.])
+(;B[ba];W[ab]C[Seki. Since White has played tenuki once this is in effect a gote seki for Black.])
+(;B[cb])
+(;B[aa];W[ab])
+(;B[ff];W[ab]))
+(;B[ab];W[bb]LB[ff:T]
+(;B[ad])
+(;B[cb];W[aa]C[Dead!])
+(;B[ba];W[aa]C[Ko for seki. White may even just tenuki again and let Black waste more moves to live with less points than the solution.])
+(;B[aa];W[ba]LB[ff:T]
+(;B[ab]C[Double gote seki.])
+(;B[ff];W[ab])
+(;B[ad];W[cb]))
+(;B[ff]C[White can get a seki anytime by playing A19 or B19; Black may start a ko, but even then Black has less points than in the solution.]))
+(;B[ba]C[Not only has Black wasted one point and a move, but also White may at one time play B18 and get at least a ko for seki. Black will need yet another move to live unconditionally with points.]MA[bb])
+(;B[aa];W[bb]LB[ff:T]
+(;B[ba];W[ab]C[Seki. Since White has played tenuki once this is in effect a gote seki for Black.])
+(;B[cb];W[ab])
+(;B[ab])
+(;B[ad])
+(;B[ff];W[ba]C[Black is dead.]))
+(;B[cb])))
+(;B[ef];W[bb]LB[ff:T]
+(;B[ff];W[ca]C[Black is dead.])
+(;B[ab])
+(;B[aa])
+(;B[ad])
+(;B[ba];W[ee]C[White tenukis! Now what?]LB[ff:T]
+(;B[aa];W[ab]
+(;B[ca]C[Gote seki.])
+(;B[cb];W[ca]
+(;B[ba]C[Gote seki.])
+(;B[aa];W[ad]))
+(;B[ad];W[ca]))
+(;B[ab];W[aa]C[Ko. If Black connects at C19 White can either connect for seki or tenuki and risk a 6 point ko.])
+(;B[ca];W[ff]C[White tenukis again! Now what?]
+(;B[ad];W[ab]C[Black is dead...])
+(;B[cb];W[ab]C[Dead!])
+(;B[aa];W[ab]C[Seki. Since White has tenukied twice this counts as gote.])
+(;B[ab]C[Ko for 6 points or seki. White may as well tenuki to get 2 moves in a row elsewhere.]))
+(;B[cb]C[If White connects Black has in effect a sente seki, but if White tenukis and Black captures Black has wasted a point and a move compared to the correct solution.])
+(;B[ad];W[ab]C[Black is dead.])
+(;B[ff]C[With the B18-B19 exchange White both keeps sente and takes away Black's possibility to get secure points in the corner. In the late endgame White can force a seki while Black can force a ko for living with 7 points losing 2 moves. This is in effect (slightly better than) a sente seki for Black.]MA[ab]))
+(;B[cb];W[aa]LB[ff:T]
+(;B[ca]C[Black is dead!])
+(;B[ba];W[ca]C[Ko for life.])
+(;B[ad];W[ca])
+(;B[ff];W[ca]C[Ko.]))
+(;B[ca];W[ee]C[White tenukis! Now what?]LB[ff:T]
+(;B[cb];W[ab]C[Black is dead.])
+(;B[ad];W[ab]C[Dead.])
+(;B[ab];W[aa]C[Seki.])
+(;B[ba])
+(;B[aa];W[ba]C[Black is dead!])
+(;B[ff]C[This is seki, no matter who plays first. In effect it is a sente seki for Black.]))))

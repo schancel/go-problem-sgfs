@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[4d]DP[8]SO[Gelya]CO[0]SZ[19]AW[kj]AW[mj]AW[oj]AW[qj]AW[pl]AW[km]AW[in]AW[eo]AW[jo]AW[ko]AW[fp]AW[gp]AW[hp]AW[ip]AW[lp]AW[kq]AW[lq]AW[nq]AW[hr]AB[jk]AB[nl]AB[lm]AB[dn]AB[ln]AB[pn]AB[do]AB[go]AB[ho]AB[io]AB[lo]AB[dp]AB[jp]AB[kp]AB[pp]AB[eq]AB[jq]AB[jr]C[Find a tesuji]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toy koyo];B[jm];W[jn]
+(;B[hm];W[im]
+(;B[il];W[jl];B[hn];W[ik]
+(;B[hl];W[kl]
+(;B[kn];W[jm];B[kk];W[ll];B[lk];W[ml];B[mk];W[mm]
+(;B[nm];W[mn]
+(;B[mo];W[nn]
+(;B[no];W[on]
+(;B[om];W[oo]
+(;B[op]C[RIGHT])
+(;B[po];W[op]))
+(;B[oo];W[om]))
+(;B[on];W[no]))
+(;B[nn];W[mo]))
+(;B[mn];W[nm];B[om];W[nn])
+(;B[nn]C[RIGHT]))
+(;B[kk];W[ll];B[kn];W[jm]))
+(;B[kl];W[hl]))
+(;B[jl];W[il]))
+(;B[im];W[hn]))

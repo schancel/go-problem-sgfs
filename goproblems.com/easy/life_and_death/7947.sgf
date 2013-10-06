@@ -1,0 +1,25 @@
+(;GE[life and death]DI[10k]DP[53]SO[Cusp]CO[7]AB[cb]AB[bc]AB[bd]AB[cc]AB[fb]AB[gc]AB[gb]AB[db]AW[eb]AW[da]AW[ec]AW[dc]AW[be]AW[cf]AW[cd]AW[de]C[Can Black save his corner group? Tenuki at T if you think it is lost.]LB[fe:T]AW[dd]AP[goproblems]
+(;B[aa];W[ad]C[It didn't work.])
+(;B[ba];W[ab]C[Dead and buried.])
+(;B[ca];W[ea]
+(;B[aa];W[ad]C[White is happy.])
+(;B[ba];W[ab]C[Whoops!])
+(;B[ab]C[Bingo.RIGHT])
+(;B[bb];W[ad]C[Deaddity-dead.])
+(;B[ac]C[Black now needs two consecutive moves to live.])
+(;B[ad];W[ab]C[This is not the answer we are looking for.]))
+(;B[ab]
+(;W[ba]C[CHOICE]
+(;B[ad];W[ca]C[Come on!])
+(;B[ca];W[ea];B[ad]C[Good job.RIGHT])
+(;B[aa];W[ca]C[I hope it's White's birthday, because Black just gave him the whole corner.])
+(;B[bb];W[ca]C[It didn't work.]))
+(;W[ad]C[CHOICE]
+(;B[ca];W[ea];B[ba]C[Alive!RIGHT])
+(;B[ba]C[Black managed to save the corner.RIGHT])))
+(;B[bb];W[ad]C[Black won't make two eyes now...])
+(;B[ac]C[Black died in gote.])
+(;B[ad];W[ab]C[Bang, Black is dead.])
+(;B[fe];W[ab]C[The corner group could have been saved.])
+(;B[ea];W[fa]C[White got to play F19 for free, Black now has to fight a ko while it was possible to live unconditionally...])
+(;B[ae];W[ad]C[Black is reduced to a dead shape.]))

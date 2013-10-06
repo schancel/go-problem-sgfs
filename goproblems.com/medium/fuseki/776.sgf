@@ -1,0 +1,37 @@
+(;GE[fuseki]DI[3d]DP[9]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:1][cq:E][cn:A][qh:C][yy:1][jf:B][fq:D]AB[ce][cf][ci][dc][dd][dp][jd][oc][od][pd][pf][po][qb][qc][qo][ra][rc][sa][sc]
+AW[de][ed][ef][fe][gd][mq][pa][pb][pc][pl][pq][qa][qd][qp][rd][rf][sb]
+PL[W]
+(;W[cq]
+C[RIGHT
+
+Black has no obvious answer to this 
+move as both the left and lower sides 
+are uninteresting, because of the low 
+positions of the marked stones.]
+LB[cq:1]TR[ci][mq]MN[1]
+)(;W[fq]
+C[The normal move. Certainly playable 
+yet white had the chance to make the 
+game difficult for black.]
+)(;W[jf]
+C[Although a nice looking move, it isn't 
+very good. Black is too strong on the 
+upper side, as the marked points are 
+sente. Black has sente to play at the 
+big lower side.]
+LB[jf:1]TR[ob][oa]LB[jf:1])(;W[cn]
+;B[co]
+;W[dn]
+;B[fq]
+;W[ck]
+C[and White feels a little bit cramped on 
+the left.]
+)(;W[qh]
+LB[qh:1][rl:A]C[This move is small as the side is open 
+at A]
+))

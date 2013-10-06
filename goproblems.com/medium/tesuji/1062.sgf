@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[1k]DP[19]SO[kjeld]CO[3]
+  AW[bc][cc][dd][ce][de][ee][gf][eg]
+  AB[dc][gc][bd][cd][ed][fd][be][cg][di]
+  (;B[bb];W[db]
+   ;B[ec];W[cb]
+    (;B[cf];W[ba]C[RIGHT]
+    )
+    (;B[bf];W[ba]C[You saved both groups, but black is able to play 1 line higher]C[RIGHT]
+    )
+  )
+  (;B[cf];W[ec]
+   ;B[db];W[eb]
+  )
+  (;B[bf];W[ec]
+   ;B[db];W[eb]
+  )
+  (;B[cb];W[bb]
+   ;B[db];W[bf]
+  )
+)

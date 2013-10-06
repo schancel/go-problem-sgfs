@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[6k]DP[39]SO[ytqb]CO[0]AB[ah]AB[bh]AB[bg]AB[cf]AB[df]AB[eg]AB[dh]AB[di]AB[dj]AB[ck]AB[bk]AB[cm]AB[cn]AB[dn]AB[eo]AB[dp]AB[cp]AB[cr]AW[dq]AW[dr]AW[ep]AW[fp]AW[fr]AW[hq]AB[fo]AB[go]AB[io]AW[bl]AW[cl]AW[dk]AW[dm]AW[ej]AW[fk]AW[fl]AW[em]AW[en]AW[fn]AW[gn]AW[gm]AW[ei]AW[eh]AW[gj]C[Black has left his territory on the lower part of the board unguarded.]AW[fg]AW[gh]AB[cq]AB[ds]AB[cs]AW[es]AP[goproblems]
+(;W[ao]C[Monkey jump.];B[bo]
+(;W[am];B[ap]C[White has sente.];W[ak]
+(;B[aj];W[al];B[bj];W[an]C[RIGHT])
+(;B[bj];W[an];B[aj];W[al]C[RIGHT]))
+(;W[an]
+(;B[al]
+(;W[bm];B[ap]C[RIGHT])
+(;W[am];B[ak];W[bm];B[ap]C[RIGHT]))
+(;B[ap]
+(;W[al]C[RIGHT])
+(;W[am]C[RIGHT]))))
+(;W[an]C[White wants sente.];B[ao];W[am];B[bo];W[ak];B[aj];W[al];B[bj]C[RIGHT])
+(;W[bn];B[bm];W[am];B[bo];W[an];B[ao];W[al];B[ak];W[dl]C[Gote for White, and Black has protected his upper territory.])
+(;W[bm];B[bn]C[];W[an];B[ao];W[am];B[bo]C[Black loses more territory from the monkey jump.  Moreover, White can't play at A9.])
+(;W[ak];B[bm];W[bj];B[cj]
+(;W[bi]
+(;B[ci];W[aj];B[am];W[al])
+(;B[aj];W[ai];B[ci]))
+(;W[aj];B[am];W[al];B[bi]C[Black is better off here than with the monkey jump.])))

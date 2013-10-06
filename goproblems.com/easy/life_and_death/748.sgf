@@ -1,0 +1,33 @@
+(;GE[life and death]DI[5k]DP[32]SO[JoeSeki]CO[8]AW[sq]AW[sp]AW[rp]AW[qp]AW[op]AW[oo]AW[on]AW[om]AW[ol]AW[pk]AW[qk]AW[rk]AB[sr]AB[rs]AB[qr]AB[rq]AB[qq]AB[oq]AB[nq]AB[mq]AB[pm]AB[pn]AB[qn]AB[rn]AB[ql]AB[rl]AB[sm]SZ[19]C[Black to Live]
+(;B[so]
+(;W[ro]
+(;B[pp];W[sn]
+(;B[po]C[Success!RIGHT])
+(;B[qo]C[However, note that Q5 is two points biggerRIGHT])
+(;B[pq]C[However, note that Q5 is 2 points bigger.RIGHT]))
+(;B[sn];W[pp]C[Wrong]))
+(;W[qo];B[ro]C[Also correct])
+(;W[pp];B[ro];W[pq];B[pr]C[Probably the best continuation for white, although Q3 may wait for endgame]))
+(;B[pp];W[po]
+(;B[qo];W[pq]
+(;B[so];W[pr]C[I suppose you live but what did you do to the bottom.  That was horrible!])
+(;B[pr];W[pp]
+(;B[so];W[ro])
+(;B[ro];W[so]))
+(;B[ro];W[so]))
+(;B[pq];W[qo])
+(;B[ro];W[so]
+(;B[qo];W[pq])
+(;B[sn];W[pq])
+(;B[pq];W[qo]))
+(;B[so];W[pq]
+(;B[ro];W[pr]C[Well, black lives, but that loss on the lower side is large and unnecessary.])
+(;B[pr];W[ro]
+(;B[pp];W[qo])
+(;B[qo];W[pp]))))
+(;B[ro];W[so];B[pp];W[po]
+(;B[pq];W[qo])
+(;B[qo];W[pq]))
+(;B[qo];W[pp];B[so];W[ro])
+(;B[po];W[pp];B[so];W[ro])
+(;B[pq];W[pp];B[so];W[ro]))

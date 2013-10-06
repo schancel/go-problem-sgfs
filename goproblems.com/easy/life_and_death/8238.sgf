@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6k]DP[37]SO[hikaru9]CO[5]AW[sc]AW[rc]AB[rb]AB[qb]AB[qc]AB[pd]AB[pe]AB[pf]AB[pg]AW[qd]AW[qe]AW[qf]AW[qg]AW[rg]AW[sg]AB[ph]AB[qh]AB[rh]AB[sh]AP[goproblems]
+(;B[re];W[se]
+(;B[rd]
+(;W[sd]
+(;B[rf];W[sf]
+(;B[re]C[Well done! :)RIGHT])
+(;B[sb];W[re]C[:(]))
+(;B[sb];W[rf]C[:(]))
+(;W[rf];B[sf]C[RIGHT]))
+(;B[rf];W[rd]C[:(])
+(;B[sb];W[rd]C[:(]))
+(;B[se];W[re]
+(;B[sd];W[sf]C[:(])
+(;B[sf];W[sd]C[:(])
+(;B[sb];W[sf]C[:(]))
+(;B[sb]
+(;W[se]
+(;B[rd];W[sd]C[:(])
+(;B[re];W[rd]C[:(])
+(;B[rf];W[rd]C[:(]))
+(;W[re];B[se];W[sd];B[sf];W[rf];B[se];W[sf]))
+(;B[rd];W[re]C[:(])
+(;B[sd];W[se]C[:(])
+(;B[rf];W[re]C[:(])
+(;B[sf];W[se]C[:(]))

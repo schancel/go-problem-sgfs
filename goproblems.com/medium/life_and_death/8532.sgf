@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[9]SO[Chaos Theory]CO[6]AB[dq]AB[dr]AB[ip]AB[jp]AB[jr]AB[gr]AB[er]AB[jq]AB[hq]AB[fq]AB[hp]AB[ep]AB[dp]AW[cr]AW[cq]AW[cp]AW[eo]AW[fo]AW[gp]AW[io]AW[jo]AW[ko]AW[kq]AW[kr]AW[ks]AW[cs]AW[es]AW[ds]AW[gq]AW[kp]AW[fp]AW[ho]AW[do]AW[co]C[White to kill black unconditionally.]SZ[19]GM[1]FF[4]AP[Drago:1.44]
+(;W[fs]C[];B[ir]LB[fr:a]LB[gs:b]C['a' and 'b' are miai for black to live.])
+(;W[hs];B[hr]
+(;W[fs];B[gs];W[is];B[fr]C[If white 'a' then black 'b' and vice versa]LB[ir:a]LB[js:b])
+(;W[is];B[js]
+(;W[fs];B[gs]
+(;W[fr];B[ir]C[alive])
+(;W[ir];B[fr]C[alive]))
+(;W[gs];B[ir]C[alive]))
+(;W[js];B[gs]
+(;W[ir];B[is]C[unfavourable kÃ´... there is a better one])
+(;W[is];B[ir]C[alive]))
+(;W[gs];B[is];W[fs];B[fr]C[alive]))
+(;W[hr];B[ir]
+(;W[hs];B[gs]C[black is alive])
+(;W[gs];B[hs];W[fs];B[fr];W[js];B[is]C[alive]))
+(;W[gs];B[ir]
+(;W[is];B[fr];W[hr];B[hs]C[KÃ´...])
+(;W[fs];B[fr]C[alive]))
+(;W[ir]
+(;B[is]
+(;W[hr]
+(;B[hs]
+(;W[fs];B[fr]
+(;W[js];B[iq];W[hr];B[ir];W[gs]C[RIGHT])
+(;W[gs];B[iq];W[hr]C[dead RIGHT]))
+(;W[js]C[RIGHT]))
+(;B[gs];W[js]C[Now Black cannot get two eyes.RIGHT]))
+(;W[fs];B[hr]
+(;W[gs];B[fr])
+(;W[fr];B[gs]))
+(;W[hs];B[js];W[hr]C[dead RIGHT])
+(;W[js]
+(;B[hr];W[hs]C[RIGHT])
+(;B[hs]
+(;W[fs];B[fr];W[hr]C[RIGHT])
+(;W[hr]C[RIGHT]))))
+(;B[hr]C[CHOICE];W[js];B[hs];W[fs]C[RIGHT])
+(;B[hs];W[hr]
+(;B[js];W[fs];B[fr];W[gs]C[dead RIGHT])
+(;B[is];W[fs];B[fr]
+(;W[gs];B[iq];W[hr]C[dead RIGHT])
+(;W[js];B[iq];W[hr];B[ir];W[gs]C[RIGHT])))
+(;B[fs]
+(;W[hr]C[RIGHT])
+(;W[js]
+(;B[hr];W[hs]C[RIGHT])
+(;B[hs]
+(;W[hr]C[RIGHT])
+(;W[is];B[hr]C[Black is alive...])))))
+(;W[is];B[hr]
+(;W[js];B[ir]C[Black has two eyes.])
+(;W[ir];B[js];W[fs];B[fr];W[gs];B[hs]C[two eyes for black.])))

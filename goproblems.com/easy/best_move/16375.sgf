@@ -1,0 +1,50 @@
+(;GE[best move]DI[4k]DP[31]SO[morten]CO[0]AB[rs]AB[rr]AB[qq]AB[qp]AB[pp]AB[rn]AB[rl]AB[qk]AB[pk]AB[rj]AW[qr]AW[pr]AW[pq]AW[oq]AW[op]AW[po]AW[pn]AW[pl]AW[ok]AW[pj]AW[qi]AW[ri]AW[oj]C[White to get the best result]AP[goproblems]
+(;W[ro]
+(;B[qo]C[CHOICE]
+(;W[qn];B[so]C[]
+(;W[rm];B[sm];W[sn]C[Ko to split and kill blackRIGHT])
+(;W[rq];B[rp];W[sq];B[sr]C[Failure])
+(;W[rp];B[rq];W[rm]
+(;B[sm];W[sn]C[Ko to split and kill blackRIGHT])))
+(;W[rp];B[rq];W[qn];B[rm]C[Failure])
+(;W[rm];B[qn]
+(;W[qm];B[sm]C[Failure])
+(;W[sn]))
+(;W[sn];B[qn]
+(;W[rm];B[qm];W[ql];B[sm]C[Failure])
+(;W[qm];B[rm]C[Failure])))
+(;B[rp]C[CHOICE]
+(;W[rm]
+(;B[qm]
+(;W[qn];B[sm]
+(;W[sp];B[so];W[sn]C[Ko to split and kill blackRIGHT])
+(;W[so];B[qo]C[Failure])
+(;W[sn];B[so]C[Failure])
+(;W[qo];B[so]C[Failure]))
+(;W[qo];B[so]C[Failure])
+(;W[sn];B[sm];W[qo];B[so]C[Failure])
+(;W[sm];B[sn]C[Failure]))
+(;B[qn]
+(;W[sn]C[])
+(;W[qo];B[so];W[qm];B[sm];W[sn];B[rn]))
+(;B[so];W[sm];B[qm];W[qn];B[qo];W[ql]C[Black is cut]))
+(;W[sn];B[sm]C[Failure])
+(;W[qn]
+(;B[rm]
+(;W[qo];B[so]C[Failure])
+(;W[so];B[qo]C[Failure]))
+(;B[so]C[CHOICE];W[rm];B[qo];W[sm];B[qm];W[ql]C[Black is split and dies])
+(;B[qo];W[rm]
+(;B[so];W[sm]C[Black is split])
+(;B[sn];W[sm];B[so])))))
+(;W[rm];B[ro]
+(;W[qm];B[sm]C[Failure])
+(;W[sm];B[qm]C[Failure]))
+(;W[qn];B[ro];W[rm];B[qm]C[Failure])
+(;W[qm];B[rm];W[ro];B[qo]
+(;W[rq];B[rp];W[qn];B[so]C[Failure])
+(;W[qn];B[rp]C[Failure]))
+(;W[ql]
+(;B[rk];W[rm];B[qm];W[ro];B[qo];W[qn];B[sm]C[Failure])
+(;B[qo];W[qj];B[rk];W[rm];B[qm];W[qn];B[sm]C[Failure]))
+(;W[qo];B[ro];W[rm];B[qm];W[ql];B[sm]C[Failure]))

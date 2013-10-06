@@ -1,0 +1,41 @@
+(;GE[fuseki]DI[7k]DP[41]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[lq][pp]
+AW[qn]
+PL[B]
+C[Black to close the corner. What's the 
+proper move?]
+LB[nq:A][np:B][qp:C][rp:D][ro:E][qo:F](;B[qp]
+C[RIGHT
+Because of the weaknesses around A 
+this solid move is most often the best.
+Black doesn't need to worry about the 
+weakness at A as long as White 
+doesn't get a stone in at K3.]
+LB[qp:1][nq:A][jq:G])(;B[nq]
+C[This is too small. White can still move 
+in at A or B if he likes to.]
+LB[nq:1][rp:A][qq:B])(;B[np]
+C[This is too small. White can still move 
+in at A or B if he likes to.]
+LB[np:1][rp:A][qq:B])(;B[ro]
+LB[ro:1][pj:A][nq:B]C[This move is a little too loose. White 
+can jump lightly to A or even invade at 
+B.]
+)(;B[qo]
+;W[pn]
+LB[pn:2][pk:A][oq:B][nq:C][np:D](;B[oq]
+C[RIGHT
+If you have a stone around S this way 
+of playing is reasonable.]
+LB[oq:3][pk:S])(;B[np]
+C[Wrong. White can still invade at A.]
+LB[np:3][qq:A])(;B[nq]
+C[Wrong. White can still invade at A.]
+LB[nq:3][qq:A])(;B[pk]
+C[Black is simply too weak at the bottom 
+to try a move like this.]
+)))

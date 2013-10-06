@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5k]DP[34]SO[BigMetalGuy]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[White]PB[Black]AW[ba][ab][bc][cc][dc]AB[eb][ac][ec][ad][bd][cd][dd][ed]C[Black plays, White dies. (The first move is the vital point.) ]
+(;B[da]CR[da]
+;W[ca]CR[ca]
+;B[cb]LB[ca:2][da:1]CR[cb]C[RIGHT Black 1 is the vital point of this shape. After White 2, Black 3 destroys White's eye shape taking advantage of its shortage of liberties. If White 2 at 3, Black 2. White is dead.])
+(;B[cb]CR[cb]
+;W[db]CR[db]
+;B[da]CR[da]
+;W[bb]LB[da:3][cb:1][db:2]CR[bb]C[Black 1 is wrong. White is alive with 2 and 4. ])
+(;B[ca]CR[ca]
+;W[da]CR[da]
+(;B[cb]CR[cb]
+;W[db]CR[db])
+(;B[db]CR[db]
+;W[cb]CR[cb]
+;B[ea]CR[ea]
+;W[ca]CR[ca])
+(;B[ea]CR[ea]
+;W[cb]CR[cb]
+;B[db]CR[db]
+;W[ca]CR[ca])))

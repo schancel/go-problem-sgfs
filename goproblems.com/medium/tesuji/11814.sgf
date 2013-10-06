@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[3d]DP[10]SO[santa c]CO[0]AW[cp]AB[dr]AB[dq]AB[ep]AB[fp]AB[gp]AB[hq]AB[gr]AB[fr]AB[gs]AW[fo]AW[go]AW[eo]AW[ip]AW[ir]AW[hr]AW[iq]AW[ho]AW[hs]AW[bp]AW[es]AW[ds]AB[cs]C[Hmm...]AB[hp]AW[do]AW[cr]AW[ap]AP[goproblems]
+(;B[cq];W[br]
+(;B[bq];W[aq]
+(;B[fq];W[er]
+(;B[eq];W[bs]
+(;B[fs]C[Ah, simple, enough! =)RIGHT])
+(;B[ar];W[dp]))
+(;B[ar];W[bs]LB[eq:1]LB[dp:2])
+(;B[fs]C[NOTTHIS]))
+(;B[er];W[fq])
+(;B[ar];W[bs];B[fq];W[er]LB[eq:1]LB[dp:2])
+(;B[bs];W[as]))
+(;B[fq];W[er]
+(;B[bq];W[aq])
+(;B[eq];W[bs]
+(;B[bq];W[aq])
+(;B[fs];W[cs];B[bq];W[aq];B[ar]C[nice!RIGHT]))
+(;B[fs]C[NOTTHIS])))
+(;B[fq];W[er]
+(;B[cq];W[bs]C[can't play F3 right away thanks to A4!]LB[br:1]LB[bq:2]LB[cs:3])
+(;B[br];W[bs]C[only a ko!]LB[cq:1]LB[bq:2]LB[cs:3]))
+(;B[br];W[bs]C[not a bad ko for black considering the 2 local threats but ko nevertheless!]LB[cq:1]LB[bq:2]LB[cs:3]LB[fq:a]LB[ar:b])
+(;B[er];W[fq]C[unfortunately D1 is a false eye...]LB[cq:1]LB[br:2]LB[bq:3]LB[aq:4]))

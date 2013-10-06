@@ -1,0 +1,27 @@
+(;GE[best move]DI[3k]DP[25]SO[Bleedo]CO[0]AB[cb]AB[db]AB[cc]AB[cd]AB[cf]AB[df]AW[de]AW[dd]AW[dc]AW[ec]AW[eb]AW[fd]AB[fc]AB[ge]AB[he]AW[hd]AW[hc]AW[hb]AW[ib]AW[ic]AW[jb]AW[kb]AW[kc]AB[id]AB[jd]AB[jc]AB[je]AB[ke]AB[kd]AW[ie]AW[if]AW[ig]AW[hg]AW[gg]AW[fg]AB[ld]AB[lb]AB[lc]AB[mc]AB[nc]AB[ka]AB[ja]AW[lf]AB[me]AB[mf]AB[mg]AB[lg]AB[kg]AB[jg]AB[jf]AW[jh]AW[ji]AW[js]AW[jr]AW[jq]AW[jp]AW[jn]AW[jo]AW[jm]AW[jl]AW[jk]AW[jj]AB[ch]AB[ci]AB[cj]AB[ck]AB[di]AB[dj]AW[dh]AW[eh]AW[ei]AW[ej]AB[fj]AB[gj]AB[hj]AB[gh]AB[hh]AB[ih]AW[bj]AW[bk]AW[cl]AW[dl]AW[dk]AB[ek]AB[el]AB[en]AB[em]AW[cn]AW[eo]AW[dp]AW[fq]AW[fr]AW[go]AW[fn]AW[fm]AW[fl]AB[fk]AB[gl]AB[hl]AW[gk]AW[hk]AW[ik]AB[hn]AB[ho]AB[hp]AB[io]AB[hq]AB[hr]AB[ir]AW[ko]AW[kn]AB[kq]AB[kr]AB[kp]AB[lp]AB[lo]AB[ln]AB[mn]AB[nn]AB[on]AB[mp]AB[np]AB[op]AB[nq]AW[no]AW[oo]AW[po]AW[pp]AW[pn]AW[qn]AW[qm]AW[pm]AW[ql]AW[rm]AW[om]AW[ol]AW[nm]AW[mm]AW[lm]AW[ml]AB[km]AB[kl]AB[kk]AB[mk]AB[mj]AB[lj]AB[ki]AB[li]AW[mh]AW[mi]AW[nj]AW[nk]AW[oj]AB[ng]AB[nh]AB[oh]AB[oi]AB[pj]AB[pl]AB[ok]AB[pk]AB[qk]AB[rk]AB[rl]AB[sl]AB[sm]AB[sn]AB[so]AB[rn]AB[qo]AB[qp]AB[rp]AB[sq]AB[qq]AB[rq]AB[pq]AB[pr]AB[or]AW[nr]AW[mr]AW[lq]AW[qr]AW[rr]AW[sr]AW[qj]AW[sj]AW[sk]AW[rj]AW[pi]AW[ph]AW[qh]AW[ne]AW[nf]AW[og]AW[pg]AW[rh]AW[pf]AW[pe]AW[md]AW[nd]AW[od]AW[oc]AW[ob]AW[nb]AB[pb]AB[rb]AB[pd]AB[qd]AB[qf]AB[qe]AB[qg]AW[re]C[Black to win]AP[goproblems]
+(;B[eg];W[ef]
+(;B[dg];W[fh]
+(;B[ff];W[fe]
+(;B[ee];W[gf]
+(;B[fi];W[ef]C[Ko])
+(;B[ef];W[gd]))
+(;B[gf];W[ee];B[fi]C[RightRIGHT]))
+(;B[ee];W[fe];B[ff];W[gf];B[fi];W[ef]C[Ko])
+(;B[fe];W[gd];B[ee];W[ff]C[Seki]))
+(;B[ff];W[dg];B[ee];W[fe]
+(;B[gf];W[eg])
+(;B[eg];W[gf];B[ef];W[fh]))
+(;B[ee];W[dg]
+(;B[fe];W[gd]C[It looks like a seki, but white will eventually capture either E15 or E9.])
+(;B[ff];W[eg];B[fe];W[gd]C[White wins the semeai])))
+(;B[fh];W[ef])
+(;B[dg];W[fe])
+(;B[ef];W[fe])
+(;B[ce];W[ef])
+(;B[ff];W[ef]
+(;B[ee];W[eg];B[fe];W[gd]C[White wins the semeai])
+(;B[fe];W[ee]))
+(;B[fe];W[ef]
+(;B[gd];W[fb])
+(;B[ee];W[gd]C[It looks like a seki, but white will eventually capture either E15 or E9.]))
+(;B[ee];W[ef];B[ff];W[eg];B[fe];W[gd]C[White wins the semeai]))

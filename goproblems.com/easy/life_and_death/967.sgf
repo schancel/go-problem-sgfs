@@ -1,0 +1,35 @@
+(;GE[life and death]DI[4k]DP[29]SO[marcin]CO[6]AW[ar]AW[cs]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[gp]AW[gq]AW[gr]AW[gs]AW[fs]AB[dr]AB[dq]AB[eq]AB[fq]AB[fr]AB[es]AB[cq]AB[aq]SZ[19]
+(;B[bs];W[br]
+(;B[bq];W[as]
+(;B[cr]C[RIGHT])
+(;B[ds];W[ap]C[Seki]))
+(;B[cr];W[bq]))
+(;B[cr];W[bq]
+(;B[br];W[bs]C[Ko])
+(;B[bs];W[br]))
+(;B[bq];W[ds]
+(;B[bs];W[er]C[Ko])
+(;B[er];W[br]
+(;B[cr];W[ap])
+(;B[bs];W[as]))
+(;B[as];W[bs]
+(;B[br];W[ap]
+(;B[as];W[er]C[Dead by double ko])
+(;B[er];W[cr]))
+(;B[er];W[br])
+(;B[cr];W[ap]))
+(;B[cr];W[er]C[Ko])
+(;B[br];W[er]C[Ko]))
+(;B[br];W[ds]C[Ko])
+(;B[ds]
+(;W[bq]
+(;B[br];W[bs]
+(;B[as]C[Ko])
+(;B[cr];W[er]))
+(;B[bs];W[br])
+(;B[cr];W[br])
+(;B[as];W[br]))
+(;W[br];B[bq];W[ap];B[bs];W[as]C[White can also get seki if ko is not an option.]))
+(;B[as];W[bq]
+(;B[br];W[cr]MA[bs]MA[ds]C[Black dies by shortage of liberties.])
+(;B[cr];W[br])))

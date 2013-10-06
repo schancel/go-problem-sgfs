@@ -1,0 +1,27 @@
+(;GE[best move]DI[25k]DP[75]SO[Blaster097]CO[0]AB[qq]AB[pq]AB[pr]AB[or]AB[nr]AB[mr]AB[lr]AB[kr]AB[jr]AB[jq]AB[js]AB[is]AB[fs]AB[fr]AB[er]AB[eq]AB[dr]AB[ds]AB[cq]AB[cp]AB[bq]AB[aq]AB[br]AW[ap]AW[bp]AW[bo]AW[co]AW[do]AW[dp]AW[dq]AW[eo]AW[fp]AW[fq]AW[gr]AW[gs]AW[hs]AW[ir]AW[iq]AW[jp]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AW[pp]AW[qp]AW[rq]AW[rr]AW[qr]C[Black to capture some white stones at the bottom, if any other solutions, please comment]AB[ep]AW[en]AW[em]AW[dm]AW[cm]AW[bm]AW[am]AW[an]AW[cn]AP[goproblems]
+(;B[gq]
+(;W[hr]
+(;B[ip];W[hq]
+(;B[hp]C[RIGHT])
+(;B[gp]C[RIGHT])
+(;B[ho]C[RIGHT];W[gp];B[hp];W[gq];B[fo];W[go];B[gn])
+(;B[fo];W[hp]
+(;B[gp]C[RIGHT];W[io]))
+(;B[go];W[hp]
+(;B[io]C[RIGHT])
+(;B[ho])
+(;B[gp];W[io];B[fo]C[Sure, but black can do betterRIGHT])
+(;B[fo];W[io];B[gp]C[sure, but black can do betterRIGHT]))
+(;B[io]
+(;W[hp];B[ho];W[gp];B[fo];W[go];B[fn];W[gn])
+(;W[gp];B[hp];W[gq];B[fo];W[go];B[gn];W[fn])))
+(;B[gp];W[ip];B[fo]C[Sure, black captures, but black can do a WHOLE lot betterRIGHT]))
+(;W[gp];B[hq]
+(;W[hp];B[hr];W[ip]C[RIGHT])
+(;W[ip];B[hr]C[RIGHT])))
+(;B[hr];W[hq])
+(;B[hq];W[ip];B[gq];W[hr];B[fo];W[gp]C[];B[hp];W[ho])
+(;B[ip];W[gq])
+(;B[gp];W[gq];B[fo];W[ip])
+(;B[hp];W[hq])
+(;B[fo];W[gq];B[ip]))

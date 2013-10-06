@@ -1,0 +1,93 @@
+(;GE[tesuji]DI[5d]DP[4]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+SZ[19]RU[Japanese]KM[5.50]TM[1800]
+GN[White (W) vs. Black (B)]PB[Black]PW[White]DT[1999-07-28]SY[Cgoban 1.9.2]
+;AW[da][ma][pa][qa][eb][kb][lb][pb][dc][gc][mc][nc][oc][pc][dd][gd][hd][ee][fe][ie][af][bf][nf][of][pf][qf][rf][ag][ng][bh][ch][ph][sh][ci][di][fi][pi][cj][fj][gj][hj][oj][qj][rj][ck][hk][ik][jk][ok][pk][al][gl][hl][sl][bm][fm][hm][jm][mm][nm][om][pm][qm][rm][sm][an][cn][dn][en][fn][gn][nn][bo][do][ho][io][no][cp][op][pp][cq][fq][gq][hq][iq][jq][qq][rq][ar][br][cr][er][jr][rr][bs][ds]AB[ca][ra][bb][db][jb][qb][cc][ic][kc][lc][qc][cd][fd][md][nd][od][pd][qd][be][ge][re][cf][ff][hf][jf][lf][sf][dg][og][pg][qg][rg][sg][ah][dh][fh][oh][ai][bi][gi][hi][ii][ni][bj][ij][kj][bk][dk][ek][fk][gk][qk][bl][cl][dl][fl][ll][ml][nl][ol][pl][ql][rl][cm][dm][em][lm][hn][in][kn][eo][go][mo][oo][bp][dp][hp][ip][jp][kp][np][rp][bq][dq][kq][nq][dr][gr][hr][kr][pr][qr]LB[al:1]SQ[cb]C[white made the ko threat of 1. how to respond?
+]
+(;B[ea]
+;W[ak]C[can you save this group?
+]
+(;B[bg]
+;W[cg]
+(;B[ae]
+;W[fa]C[okay, you saved your group, but is the top dead? careful now...
+]
+(;B[da]
+;W[fc]
+(;B[ga]
+(;W[gb]
+(;B[ha]
+;W[ed]
+;B[fb]C[ko
+])
+(;B[fb]
+;W[df]
+;B[bg]
+;W[fa]
+;B[ha]C[a good ko, but still ko
+]))
+(;W[fb]
+;B[ed]
+;W[hb]
+;B[ha]
+;W[ia]
+;B[ib]
+;W[gb]
+;B[ha]))
+(;B[ed]
+;W[gb]C[alive
+]))
+(;B[fb]
+;W[da]
+(;B[gb]
+;W[fc]
+;B[ea]C[ko
+])
+(;B[ec]
+;W[cb]C[not good
+])
+(;B[fc]LB[cb:B][gb:A]C[RIGHT
+A and B are miai, white has no ko
+]))
+(;B[hb]CR[hb]
+;W[fc]CR[fc]
+;B[gb]CR[gb]
+;W[ed]CR[ed]
+;B[fb]CR[fb]C[RIGHT
+]))
+(;B[ei]C[
+]
+;W[ej]C[wrong order, white gets that stone
+])
+(;B[ej]
+;W[ei]
+;B[ae]
+;W[bg])
+(;B[dj]
+;W[ei]
+;B[ae]
+;W[bg]))
+(;B[ae]
+;W[bg]C[oops, you forgot the throw-in
+]
+;B[ei]
+;W[ej])
+(;B[ei]
+;W[ej]C[wrong order: you lose that stone
+]))
+(;B[ak]
+;W[cb]C[bad: you didn't need that move to live
+])
+(;B[ei]
+;W[ej]C[wrong order: you lose that stone
+])
+(;B[cg]
+;W[bg])
+(;B[ae]
+;W[bg])
+(;B[dj]
+;W[ei])
+(;B[ej]
+;W[ei])
+(;B[bg]
+;W[fc]TR[af][bf][ag]C[white gives up the marked stones and saves his stones on top
+]))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[8]AW[pq]AW[rq]AW[sq]AW[nr]AW[or]AW[qr]AW[sr]AW[qs]AW[ss]AB[ro]AB[so]AB[np]AB[op]AB[pp]AB[qp]AB[rp]AB[mq]AB[qq]AB[mr]AB[ms]C[black to kill]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[pr]
+(;W[ps]
+(;B[ns];W[oq]
+(;B[os]C[RIGHT])
+(;B[nq];W[os]))
+(;B[oq];W[ns]C[only ko])
+(;B[os];W[ns];B[oq];W[pr]))
+(;W[oq];B[os]
+(;W[ps];B[ns]C[RIGHT])
+(;W[ns];B[nq]C[RIGHT])))
+(;B[oq];W[pr]
+(;B[ns];W[os])
+(;B[os];W[ns]))
+(;B[ns];W[os]
+(;B[oq];W[pr])
+(;B[pr];W[oq])
+(;B[nq];W[pr]))
+(;B[os];W[ns]
+(;B[pr];W[ps])
+(;B[oq];W[pr])
+(;B[ps];W[pr]))
+(;B[ps];W[pr]
+(;B[ns];W[os])
+(;B[os];W[ns])))

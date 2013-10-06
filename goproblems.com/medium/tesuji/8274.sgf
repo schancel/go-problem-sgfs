@@ -1,0 +1,216 @@
+(;GE[tesuji]DI[3k]DP[27]SO[jug]CO[5]SZ[19]AW[fb]AW[fc]AW[lc]AW[oc]AW[pc]AW[fd]AW[nd]AW[fe]AW[ge]AW[ke]AW[gf]AW[hf]AW[jg]AW[kh]AW[nh]AW[bj]AW[cj]AW[ej]AW[oj]AW[ak]AW[dk]AW[bl]AW[cl]AW[dl]AW[ol]AW[em]AW[cn]AW[en]AW[gn]AW[hn]AW[in]AW[jn]AW[kn]AW[on]AW[qn]AW[io]AW[ip]AW[kp]AW[hq]AW[jq]AW[kq]AW[hr]AW[kr]AB[eb]AB[mb]AB[qb]AB[ec]AB[gc]AB[qc]AB[dd]AB[gd]AB[id]AB[pd]AB[he]AB[df]AB[nf]AB[of]AB[qf]AB[ph]AB[bi]AB[ci]AB[di]AB[dj]AB[qj]AB[ek]AB[jk]AB[el]AB[rl]AB[jm]AB[bo]AB[fo]AB[go]AB[ho]AB[jo]AB[dp]AB[fp]AB[hp]AB[jp]AB[op]AB[qp]AB[rp]AB[gq]AB[iq]AB[oq]AB[gr]AB[ir]AB[jr]TR[ej]C[White played the marked stone. Can you capture the cutting stone or is it better to give up 2 stones ? Please start with moves A, B or C. FORCE]LB[ei:A]LB[fi:B]LB[fj:C]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[12k]PB[15k]
+(;B[fj];W[ei]
+(;B[fh]
+(;W[eh]C[White is greedy and wants to get all Black stones in the center. Punish him.]
+(;B[eg];W[fk]
+(;B[dh];W[fl]
+(;B[fi];W[ek]LB[fg:A]C[You come close to the solution. White saves his stones and B needs to fix the cut at 'A', so White can take sente to cut off the center-stones.])
+(;B[ek];W[el];B[fi];W[ek]LB[fg:A]C[You come close to the solution. White saves his stones and B needs to fix the cut at 'A', so White can take sente to cut off the center-stones.]))
+(;B[fi];W[fl]
+(;B[dh])
+(;B[ek];W[el];B[dh]))
+(;B[fl];W[fi]
+(;B[dh];W[gi]C[White escapes, but you come close to the solution.])
+(;B[gk];W[gi]C[White escapes, but you come close to the solution.])
+(;B[gj]C[CHOICE]
+(;W[gh]
+(;B[gi];W[fg]C[White escapes.])
+(;B[fg];W[gi]C[White escapes.])
+(;B[dh];W[gi]C[White escapes.])
+(;B[gg];W[gi]C[Black can't capture White.]))
+(;W[gi]
+(;B[gh];W[hi]C[White escapes.])
+(;B[hi]C[CHOICE]
+(;W[gh]C[White connects.])
+(;W[hj]C[White escapes.]))))
+(;B[gi]C[CHOICE]
+(;W[dh]
+(;B[ch];W[gj]
+(;B[dg];W[fj]
+(;B[gk];W[hj]C[White escapes.])
+(;B[hj];W[gk]
+(;B[gl];W[hk]
+(;B[ik];W[hl]
+(;B[hm];W[il]
+(;B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[jl];W[im]C[White connected. Failure for Black.]))
+(;B[il];W[hm]C[White connected. Failure for Black.]))
+(;B[hl];W[ik]
+(;B[ij];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[il];W[ij]C[Failure. White saves his stones.])))
+(;B[hk];W[gl]C[White captures 3 black stones.])
+(;B[hl];W[gl]C[White captures 3 black stones.])))
+(;B[hj];W[gl]C[White captures 3 black stones.])
+(;B[gk];W[gh]C[double-atari lets White escape.])
+(;B[gl];W[gh]C[double-atari lets White escape.]))
+(;B[dg];W[ch]
+(;B[bh];W[cg]
+(;B[cf];W[bg]
+(;B[bf];W[ag]
+(;B[af];W[gj]C[White will capture 5 stones.])
+(;B[ah];W[ai]C[White captures 5 stones.]))
+(;B[ag];W[bf]
+(;B[af];W[be]LB[gj:A]C[Ouch, big loss for Black. White still has A, entrance to the center and the corner.])
+(;B[be];W[gj];B[af];W[fj];B[hj];W[gk];B[gl];W[hk]
+(;B[ik];W[hl];B[hm];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[hl];W[ik];B[ij];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT]))))
+(;B[bg];W[gj];B[cf];W[fj];B[hj];W[gk];B[gl];W[hk]
+(;B[ik];W[hl];B[hm];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[hl];W[ik];B[ij];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT])))
+(;B[cg];W[bh]C[White captures 4 stones.]))
+(;B[gj]C[edit-note: no choice, follow top branch]
+(;W[fg];B[gh]C[note: no choice, follow top branch]
+(;W[dg]
+(;B[ef];W[bh]
+(;B[ch];W[cg]C[Black looses his stones.])
+(;B[cg];W[ch]C[Black looses his stones.]))
+(;B[cg];W[ef]C[White connects.]))
+(;W[ch]C[This is a mistake. Punish White.];B[bh];W[bg]
+(;B[dg];W[cg];B[cf];W[ah]C[Black fails and loosing 5 stones.])
+(;B[cg]C[Good. White can't do anything to save his stones. RIGHT])))
+(;W[ch]C[not the best answer of White. Punish him.];B[bh]C[CHOICE]
+(;W[fg];B[gh];W[ef]
+(;B[dg];W[cg];B[cf]C[This captures White in a ladder. RIGHT])
+(;B[cg]C[Excellent. This captures White with a snapback. RIGHT]))
+(;W[cg]
+(;B[cf];W[bg];B[bf];W[ah]C[White captures 5 stones.])
+(;B[bg]
+(;W[cf];B[ce];W[fg];B[gh]C[CHOICE]
+(;W[bf];B[be];W[ag]
+(;B[dg];W[af];B[ae]C[Yes. This captures White. RIGHT])
+(;B[ae];W[ai]C[Black is loosing 6 stones.]))
+(;W[ef];B[bf]C[Beautiful. Capture White in a snapback. RIGHT]))
+(;W[fg];B[gh];W[ef];B[cf]C[Good. Captures White in a snapback. RIGHT]))))
+(;W[cg]C[not the best answer of White. Punish White for his mistake.]
+(;B[dg];W[ch];B[bh];W[bg]
+(;B[ag];W[af]C[Black looses 6 stones.])
+(;B[bf];W[ah]C[Black looses 5 stones.]))
+(;B[ch];W[dg];B[bg];W[cf];B[ce]C[This captures the White stones in a ladder, but White would be reluctant to give Black such an easy win. RIGHT]))
+(;W[dg]C[That's a poor move. Kill White.];B[cg]C[Easy prey. RIGHT])
+(;W[gh]C[Does this work ? Show White his error.];B[fg];W[cg];B[ch];W[dg]
+(;B[bg];W[cf]C[Yes, White can't escape the ladder. RIGHT])
+(;B[cf];W[bg]C[What have you done ? Now Black dies.]))
+(;W[gk]C[White wants to be killed, capture the 4 cutting stones.]
+(;B[gl];W[fg];B[gh];W[dg];B[ef];W[bh]C[Poor Black. You overlooked the killing sequence.])
+(;B[dg];W[ch];B[bh];W[cg];B[cf]C[This ladder kills White. But there is an even simpler ladder a few moves before. RIGHT])
+(;B[ch]C[Bingo. This kills instantly. RIGHT])))
+(;B[gk];W[fg];B[gh];W[dg];B[ef];W[bh]C[Bad luck. White survives. Try harder.]))
+(;W[gj]
+(;B[hj];W[gl]C[White captures 3 black stones.])
+(;B[gk];W[gh]C[double-atari lets White escape.])
+(;B[gl];W[gh]C[double-atari lets White escape.])
+(;B[dh]
+(;W[fj]
+(;B[gk];W[hj]C[White escapes.])
+(;B[hj];W[gk]
+(;B[gl];W[hk]
+(;B[ik];W[hl]
+(;B[hm];W[il]
+(;B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[jl];W[im]C[White connected. Failure for Black.]))
+(;B[il];W[hm]C[White connected. Failure for Black.]))
+(;B[hl];W[ik]
+(;B[ij];W[il];B[im]C[Congratulations! You found the spiral ladder. RIGHT])
+(;B[il];W[ij]C[Failure. White saves his stones.])))
+(;B[hk];W[gl]C[White captures 3 black stones.])
+(;B[hl];W[gl]C[White captures 3 black stones.])))
+(;W[hi]C[Wrong in terms of finding the tesuji, though W may prefer to play like this in the game, sacrificing 4 stones and with white G9 propably capturing the two B stones in the center (comment by Oda).];B[fj];W[gk])))))
+(;B[gk];W[fl]LB[fg:A]C[You come close to the solution. White saves his stones and B needs to fix the cut at 'A'.]))
+(;B[dh];W[eg]
+(;B[fg];W[ef];B[ff];W[ee]C[White is safe. This also damages the Black corner])
+(;B[ff];W[ef]C[White is safe. This also damages the Black corner])
+(;B[ef];W[fg];B[ff];W[gg]C[White is safe.]))
+(;B[fi];W[eg]
+(;B[fg];W[ef];B[ff];W[ee]C[White should be safe. This also damages the Black corner])
+(;B[ff];W[ef]C[White is safe. This also damages the Black corner.])
+(;B[ef];W[fg];B[ff];W[gg]C[White is safe.]))
+(;B[fg];W[fk];B[fl];W[fi]
+(;B[gi]
+(;W[eg]
+(;B[ef];W[gj]C[White escapes.])
+(;B[ff];W[ef];B[ee];W[gh]C[White connects.]))
+(;W[gj]
+(;B[gk];W[fj]LB[gh:B]LB[hj:C]LB[gl:A]C[White can use the spots at ABC for escape.])
+(;B[hj];W[gl]C[White captures some Black stones.])))
+(;B[gj];W[gi]C[White escapes.])
+(;B[eg];W[gi]C[White escapes.])
+(;B[gk];W[gi]C[White escapes.])
+(;B[dh];W[gi]C[White escapes.])
+(;B[gl];W[gi]C[White escapes.]))
+(;B[gk];W[ef]
+(;B[eg];W[fg];B[dg];W[fi]
+(;B[gi];W[gh]C[White connected.])
+(;B[gh];W[gi]C[Black looses the semeai (he is one liberty behind)]))
+(;B[fg];W[eg]C[White connected.]))
+(;B[fl];W[eg]
+(;B[ef];W[fg]C[White connected.])
+(;B[fg];W[ef]C[White connected.]))
+(;B[fk];W[eg]
+(;B[fg];W[ef]C[White connected.])
+(;B[ef];W[fg]C[White connected.])))
+(;W[fk]C[]
+(;B[eh];W[fl]
+(;B[fi];W[ek]C[This is a good result for Black. Instead of this move, White may also sacrifice the 2 stones to take sente to cut off the center for example, so it's not over yet ;)])
+(;B[ek];W[el];B[fi];W[ek]C[This is a good result for Black. Instead of this move, White may also sacrifice the 2 stones to take sente to cut off the center for example, so it's not over yet ;)]))
+(;B[fi]C[edit-note: no choice here (see last node in var for E12)]
+(;W[fl]
+(;B[eh])
+(;B[ek];W[eh]C[Last move from Black is a mistake that leads to an inferior result. You may even loose the left 4 stones if you are careless.]))
+(;W[eh]C[Please play at F8 now!FORCE];B[fl]LB[eg:B]LB[gl:A]C[White may play at the labeled places now. This may work for Black or for White, but I didn't include it because there are too many variations to consider involving fights in the center, the upper side and the upper left quadrant.]))
+(;B[fl];W[fi]
+(;B[gk];W[gi]C[White escapes.])
+(;B[gj];W[gi]C[White escapes.])
+(;B[eh];W[gi]C[White escapes.])
+(;B[gi];W[eh];B[eg]))
+(;B[gk]LB[eh:C]LB[gj:B]LB[fl:A]C[This leads to complications for Black. White has many options here, for example ABC (not included in this problem because there are too many variations)])))
+(;B[eh];W[fi]
+(;B[gi];W[fh]
+(;B[fg];W[gh]
+(;B[hh];W[gg]C[Failure. Try another, more special ladder])
+(;B[gg];W[hh];B[hg];W[ig]LB[if:A]LB[eg:B]C[This is considered a failure, though this is not an easy position for both players because nearby groups may be cut off. White may connect miai with A, B or C. Instead of this move White could also have played at 'B'. Try another, more special ladder]LB[ie:C]))
+(;B[gh];W[fg]C[Failure. White connected. Try another ladder.]))
+(;B[fh];W[gi]
+(;B[gh];W[hi]C[Don't give up. Try another approach of ladder.])
+(;B[hi];W[gk]C[White has no big problems any more. This is only one possible answer. Look out for another approach of ladder.])
+(;B[hh];W[gk]
+(;B[gj];W[fk]C[Maybe next time. Look out for a special ladder.])
+(;B[fk];W[gj]C[Black in BIG trouble now ;) Look out for a more specialized ladder.]))
+(;B[gj];W[gl]C[White has no problems of escaping. Look out for a more specialized ladder.]))
+(;B[gj]C[CHOICE]
+(;W[gl];B[gh];W[fk]
+(;B[gi];W[fl];B[fh];W[ek]C[This doesn't look bad for Black. But there is an even better way with a special ladder to punish White and capture his cutting stone.])
+(;B[fh];W[fl];B[gi]))
+(;W[fk];B[fl];W[gk];B[gi];W[fh]TR[gj]TR[el]C[White escapes because one of Blacks marked center groups is going to die.]))
+(;B[gh];W[fh];B[fg];W[gi]C[White escapes. Better look out for a spiral ladder.])
+(;B[gk];W[gi]C[You let White escape. Look out for a spiral ladder.])
+(;B[fk];W[gi]C[You let White escape. Look out for a spiral ladder.]))
+(;B[fi];W[eh]C[a fight is evolving. Hint: The correct solution is close at hand with a spiral ladder tesuji]))
+(;B[fi]C[CHOICE]
+(;W[ei]
+(;B[eh];W[fj]
+(;B[gj];W[fk]
+(;B[gk])
+(;B[fl];W[gk];B[hk];W[gl];B[hl];W[gm]
+(;B[hi]C[more fighting to come. But there is a better way for Black. Hint: ladder tesuji])
+(;B[gi];W[ii]C[more fighting to come. But there is a better way for Black. Hint: ladder tesuji]))
+(;B[gh];W[gk]C[There is a much better way for Black. Hint: ladder tesuji]))
+(;B[fk];W[gj]LB[fh:A]C[White is out and Black still has a weakness to cover (A). This clearly is unfavourable for Black. There is a much better way. Hint: ladder tesuji])
+(;B[gh];W[gj]C[Give it another try. Hint: ladder tesuji])
+(;B[gi];W[gj]C[No. You should try to capture the cutting stones. Hint: ladder tesuji])
+(;B[gk];W[gj]C[No. Black clearly has failed here. Hint: You're not even close to the solution ;) look out for a ladder tesuji])
+(;B[fh];W[gj]C[White is happy. Try harder to capture White. Hint: ladder tesuji]))
+(;B[fj]))
+(;W[fj]
+(;B[gj]C[CHOICE]
+(;W[ei]
+(;B[eh])
+(;B[fk];W[eh]C[White out and Black has new weak spots all over the place. Try again. Hint: ladder tesuji]))
+(;W[fk]
+(;B[gh]C[a reasonable result, you still have access to the center, but Black can do betterHint: ladder tesuji])
+(;B[gi]C[possible, but may lead to a complex fight if White pushes through and cut. Black can do much better. Hint: ladder tesuji])
+(;B[gk]C[CHOICE]
+(;W[fl];B[gh]C[a reasonable result, you still have access to the center, but Black can do betterHint: ladder tesuji])
+(;W[ei];B[eh];W[fl];B[gh]C[a reasonable result, you still have access to the center, but Black can do better. Hint: ladder tesuji]))))
+(;B[fk];W[gk]C[Come on, you can do better than this. Hint: ladder tesuji])
+(;B[ei]C[This fails to capture the White stones. You can at least try to capture them. Hint: ladder tesuji])))
+(;B[ei];W[fj]C[No. Remember ? Black should capture the cutting stone or get something more useful. Hint: ladder tesuji]))

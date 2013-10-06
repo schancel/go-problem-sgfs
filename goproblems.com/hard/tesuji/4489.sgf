@@ -1,0 +1,161 @@
+(;GE[tesuji]DI[4d]DP[8]SO[kochi]CO[7]AB[im]AB[jn]AB[km]AW[il]AW[jk]AW[kl]AB[ik]AW[ll]AB[kj]AB[lm]AB[hm]AB[gm]AB[fm]AW[lk]AW[nl]AB[nm]AB[ni]AB[ki]AB[ii]AB[kh]AB[kg]AB[ig]AB[fs]AB[gs]AB[fr]AB[fq]AB[gq]AB[hr]AB[iq]AW[hq]AW[fp]AW[eq]AW[dp]AW[nk]AW[nj]AW[li]AB[oi]AB[pj]AB[ng]AW[qd]AW[oc]AB[qe]AW[pd]AB[pe]AW[re]AW[rf]AW[rh]AB[qi]AB[es]AW[ds]AW[er]AW[ce]AW[dd]AW[fc]AW[ic]AW[gl]AW[fl]AW[el]AB[dl]AB[fi]AB[di]AB[df]AB[eg]AW[fe]AW[be]AB[cm]AW[bo]AW[hk]AW[fj]AB[jq]AW[kp]AB[kq]AB[lr]AB[kr]AW[jp]AB[mh]AB[lf]AB[ok]AW[cc]AW[bd]AW[ee]AB[em]AW[co]AB[gf]AW[hd]AB[jc]AB[jb]AB[ja]AW[ib]AW[ha]AW[gb]AW[ie]AB[kd]AB[jf]AB[hf]AW[ge]AB[ff]AW[je]AW[ke]AB[le]AB[nb]AW[ob]AB[oa]AW[pa]AB[na]AW[qb]AB[nc]AB[ne]AB[of]AB[od]AW[dr]AW[bq]AW[ml]AW[cq]C[B just took the ko at A]AW[lj]AB[jl]LB[jl:A]AW[pc]AW[rc]AB[pl]AB[ri]AB[ro]AB[rm]AB[sh]AW[sg]AB[si]AB[pm]AB[qk]AB[qj]AB[pq]AW[fo]AW[fn]AB[hn]AW[eo]AW[do]AB[en]AB[nq]AB[jo]AW[lp]AW[lq]AW[mr]AW[nr]AW[or]AW[pr]AW[qr]AW[rq]AW[rs]AW[sr]AW[rp]AW[sp]AB[qo]AB[mq]AW[mm]AW[lo]AB[kn]AW[ln]AB[mn]AW[on]AW[om]AB[ol]AW[qp]AW[pp]AB[oq]AB[op]AB[oo]AW[po]AW[pn]AB[qn]AB[no]AB[nn]AW[mp]AW[qq]AB[dm]AB[in]AB[ko]AB[bn]AB[gn]AW[hp]AW[gp]AB[ip]AW[io]AW[ho]AW[cf]AW[bg]AW[bh]AW[bi]AB[bj]AW[de]AB[cg]AB[ch]AB[ci]AB[ef]AB[bk]AB[bl]AW[hl]AB[ij]AB[hj]AB[fh]AW[gj]AB[gk]AB[gi]AB[dk]AW[lh]AW[lg]AW[mg]AW[mf]AW[me]AW[md]AB[nd]AW[mc]AW[mb]AB[nf]AB[pg]AB[nh]AB[ld]AB[kf]AB[jd]AP[goproblems]
+(;W[jm]C[NOTTHIS])
+(;W[hs];B[is];W[jm];B[ej]
+(;W[jl];B[fk])
+(;W[ek];B[fk])
+(;W[fk];B[jl]C[You have no threats...]
+(;W[sr];B[jm];W[rs])
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl])
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl])))
+(;W[is]
+(;B[ir]C[CHOICE]
+(;W[jm];B[ej];W[fk];B[jl]
+(;W[hs];B[js];W[jm];B[mi];W[mj];B[jl]
+(;W[hs];B[jm]
+(;W[ls];B[is])
+(;W[gr];B[ls]))
+(;W[ls];B[jm]))
+(;W[js]
+(;B[jm]C[CHOICE]
+(;W[ls];B[ks]C[so close!])
+(;W[hs];B[gr]
+(;W[ls]C[RIGHT])
+(;W[ks];B[ls];W[ms];B[jr])
+(;W[ms];B[ls])))
+(;B[hs]
+(;W[jm];B[mi];W[mj];B[jl]
+(;W[ls]
+(;B[ks]C[CHOICE];W[jm];B[mo];W[np];B[jl]C[w loses half the upper group but broke up the seki.RIGHT])
+(;B[jm]C[CHOICE];W[ks];B[kk]
+(;W[ms];B[lc]
+(;W[jr];B[lb];W[gr];B[ma]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT]))
+(;W[lb];B[kb];W[jr];B[la];W[gr];B[ma]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT])))
+(;W[lb];B[kb];W[ms];B[lc];W[jr];B[la];W[gr];B[ma]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT]))))
+(;W[ks]
+(;B[ls]C[CHOICE];W[jm];B[mo]
+(;W[np];B[jl]C[RIGHT])
+(;W[jl];B[np]C[saving the seki was bigger than saving the left side of the group.]))
+(;B[jm]C[CHOICE]
+(;W[ms];B[ls])
+(;W[ls];B[kk]
+(;W[ms];B[lc]
+(;W[jr];B[ma];W[gr];B[lb]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT]))
+(;W[lb];B[kb];W[jr];B[la];W[gr];B[ma]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT])))
+(;W[lb];B[kb];W[ms];B[lc];W[jr];B[la];W[gr];B[ma]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT]))))))
+(;W[ls];B[ks];W[jm];B[mi];W[mj];B[jl];W[mo];B[np];W[jm]C[You lost the seki.  not the best result.])))
+(;W[ks];B[jm]
+(;W[ls];B[js]
+(;W[ms];B[hs])
+(;W[jr];B[ms];W[ns];B[js];W[ms];B[hs]C[no good]))
+(;W[js];B[ls])
+(;W[hs];B[js])
+(;W[jr];B[ls])
+(;W[ms];B[js]
+(;W[ls];B[hs])
+(;W[jr];B[ls])))
+(;W[ls];B[js])
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl])
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl]))
+(;W[js];B[hs]
+(;W[jm];B[ej];W[fk];B[jl]
+(;W[ks];B[ls];W[jm];B[mi];W[mj];B[jl]
+(;W[mo];B[np];W[jm]C[you live, but it's sad you had to use the threat inside the seki.])
+(;W[np];B[mo];W[jm]C[you live, but it's sad you had to use the threat inside the seki.]))
+(;W[ls];B[ks];W[jm];B[mi];W[mj];B[jl]
+(;W[mo];B[np];W[jm]C[you live, but you didn't want to use the threat inside the seki.])
+(;W[np];B[mo];W[jm]C[you live, but it's sad you had to use the threat inside the seki.])))
+(;W[ls];B[ks];W[jm];B[ej];W[fk];B[jl]
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl])
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl]))
+(;W[ks];B[ls];W[jm];B[ej];W[fk];B[jl]
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl])
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl])))
+(;W[hs];B[js];W[jm];B[ej];W[fk];B[jl]
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl];W[hs];B[jm])
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl];W[hs];B[jm])))
+(;B[js]C[CHOICE]
+(;W[jm];B[ej];W[fk];B[jl]
+(;W[ir]
+(;B[jr]C[CHOICE];W[jm];B[mi];W[mj];B[jl];W[ls];B[hs];W[jm]C[B has no threats.  W saved the center group.RIGHT];B[mo]
+(;W[jl];B[np])
+(;W[np];B[jl]C[W winsRIGHT]))
+(;B[ls]C[CHOICE];W[jm];B[mi];W[mj];B[jl];W[hs]
+(;B[jr]C[CHOICE];W[jm]C[b has no threats.RIGHT];B[mo]
+(;W[jl];B[np]C[not good.])
+(;W[np];B[jl];W[hs]
+(;B[is]C[CHOICE];W[jm]C[W wins, b has no threats.RIGHT])
+(;B[jm]C[CHOICE];W[gr])))
+(;B[jm];W[gr]C[RIGHT];B[kk];W[ms];B[oj];W[jr];B[lc];W[ks];B[lb]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT])))
+(;B[jm]C[CHOICE]
+(;W[ls];B[kk]
+(;W[ms];B[lh];W[ks];B[mi];W[jr];B[mj]
+(;W[mo]C[RIGHT])
+(;W[np]C[RIGHT]))
+(;W[mi];B[lh];W[ms];B[oj];W[ks];B[mk])
+(;W[mj];B[lh];W[ms];B[mi];W[ks];B[oj];W[jr];B[mk]))
+(;W[kk];B[ls]C[b lives])
+(;W[mi];B[ls])
+(;W[mj];B[ls])))
+(;W[hs];B[ir];W[jm];B[mi];W[mj];B[jl]
+(;W[hs];B[jm]
+(;W[ls];B[is])
+(;W[gr]))
+(;W[ls];B[jm]))
+(;W[ls];B[ir]C[CHOICE]
+(;W[jm];B[mi]
+(;W[mj];B[jl]
+(;W[ks];B[jm]
+(;W[jr];B[ms]
+(;W[ns];B[js]C[w has no threats]
+(;W[mo];B[np];W[jr])
+(;W[np];B[mo];W[jr]))
+(;W[js];B[hs]))
+(;W[ms];B[hs]))
+(;W[ms];B[jm]))
+(;W[jl];B[mj]))
+(;W[ms];B[jm];W[ks];B[hs])))
+(;W[ir];B[jr]
+(;W[ls];B[hs];W[jm];B[ej];W[fk];B[jl]
+(;W[np];B[mo];W[jm];B[mi];W[mj];B[jl])
+(;W[mo];B[np];W[jm];B[mi];W[mj];B[jl]))
+(;W[jm];B[ej];W[fk];B[jl];W[ls];B[hs];W[jm];B[mi];W[mj];B[jl]
+(;W[mo];B[np];W[jm]C[not good enough])
+(;W[np];B[mo];W[jm]C[not good enough]))))
+(;B[jm];W[hs];B[js];W[gr];B[ir];W[ls];B[gs];W[hs]))
+(;W[js];B[is];W[jm];B[ej];W[fk];B[jl]
+(;W[ls];B[ir];W[jm];B[mi];W[mj];B[jl])
+(;W[ks];B[ir];W[jm];B[mi];W[mj];B[jl])
+(;W[jr];B[ir];W[jm];B[mi];W[mj];B[jl]))
+(;W[ls];B[is];W[jm];B[ej];W[fk];B[jl]
+(;W[ks];B[jm])
+(;W[js];B[jm])
+(;W[jr];B[jm]))
+(;W[ks];B[is];W[jm];B[ej];W[fk];B[jl]
+(;W[js];B[jm])
+(;W[jr];B[jm])
+(;W[ls];B[jm]))
+(;W[ir];B[is];W[jm];B[ej];W[fk];B[jl]
+(;W[js];B[jr];W[jm];B[mi];W[mj];B[jl])
+(;W[ls];B[jm])
+(;W[ks];B[jm]))
+(;W[ej];B[jm]
+(;W[dj];B[cj]
+(;W[ci];B[bj];W[ei];B[dh])
+(;W[ei];B[dh]))
+(;W[ei];B[dj]))
+(;W[mo];B[np])
+(;W[np];B[mo]))

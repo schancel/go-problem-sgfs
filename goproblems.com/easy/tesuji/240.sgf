@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[12k]DP[56]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[cb][db][bc][dc][fc][ed][fd]
+AB[bb][eb][cc][ec][dd][ce][de][df]C[black to do well
+]
+(;B[da];W[cd]
+(;B[ca]C[RIGHT
+white dies
+])
+
+(;B[bd];W[fb])
+
+(;B[ac];W[fb])
+)
+
+(;B[ca];W[cd]
+(;B[da]C[RIGHT
+white dies
+])
+
+(;B[bd];W[fb])
+
+(;B[ac];W[fb])
+)
+
+(;B[cd];W[ba];B[ab];W[ac];B[da];W[aa];B[bb];W[ab];B[ea];W[fb])
+
+(;B[bd];W[fb])
+
+(;B[ac];W[fb])
+
+)

@@ -1,0 +1,67 @@
+(;GE[endgame]DI[1d]DP[15]SO[kukulis4]CO[6]AB[is]AW[js]AB[hs]AB[hr]AB[gs]AB[fr]AB[gq]AB[fp]AW[gp]AW[hp]AW[hq]AW[ip]AW[iq]AW[ir]AW[io]AB[ho]AB[go]AB[gn]AB[in]AB[im]AW[jn]AW[jm]AW[ln]AW[lm]AW[mo]AW[mq]AW[no]AW[np]AW[nq]AW[mr]AB[lq]AP[goproblems]
+(;B[jr];W[ks]C[CHOICE]
+(;B[jo]C[CHOICE];W[jp]
+(;B[kp];W[ko]
+(;B[ls];W[kr];B[lr];W[jq];B[kq]C[Well done! :)RIGHT])
+(;B[jq];W[jo];B[ls];W[kr]C[:(]))
+(;B[kr])
+(;B[ls];W[kr]
+(;B[kq];W[lr]C[:(]TR[ko]TR[jq])
+(;B[ko];W[lr]C[:(])
+(;B[kp];W[jq]C[:(]TR[ko]TR[lr])
+(;B[lr];W[kq]
+(;B[kp]C[Well done! :)RIGHT])
+(;B[ko];W[lp];B[kp]C[Well done! :)RIGHT])
+(;B[lp];W[ko]C[:(])))
+(;B[ko];W[kp]
+(;B[lp];W[lo]
+(;B[kq]
+(;W[kn];B[ls]C[Well done! :)RIGHT])
+(;W[lr];B[jq]C[RIGHT]))
+(;B[ls]
+(;W[kr]
+(;B[lr]C[Well done! :)RIGHT])
+(;B[kq]C[Well done! :)RIGHT]))
+(;W[kn];B[kr]C[RIGHT]))
+(;B[kr];W[ls]C[:(])
+(;B[jq];W[kn]C[:(]))
+(;B[kq]
+(;W[lp];B[ls]C[Well done! :)RIGHT])
+(;W[lr];B[lp]C[RIGHT])
+(;W[kr];B[lp]C[RIGHT]))
+(;B[ls];W[kr]
+(;B[lp];W[lr];B[kq]C[Well done! :)RIGHT])
+(;B[lr];W[lp];B[kq]C[Well done! :)RIGHT])
+(;B[kq]
+(;W[lp];B[lr]C[Well done! :)RIGHT])
+(;W[lr];B[lp]C[RIGHT])))
+(;B[kr];W[ls]C[:(]TR[lp]TR[lo])
+(;B[lo];W[lp]C[:(])
+(;B[lr];W[ls]C[:(]TR[lp]TR[lo]))
+(;B[kq]C[Well done! :)RIGHT]TR[ko]TR[ls]))
+(;B[kr];W[ls];B[jo])
+(;B[jq];W[jp]C[:(])
+(;B[jp];W[jo]C[:(])
+(;B[ls];W[kr]
+(;B[jq];W[jp]C[:(])
+(;B[kq];W[lr]C[:(]TR[jq]TR[jo])
+(;B[lr];W[kq]C[:(])
+(;B[jo];W[kq]C[:(]))
+(;B[kq]
+(;W[lr]
+(;B[jo];W[jp]
+(;B[ko];W[kp]
+(;B[lp]C[Well done! :)RIGHT])
+(;B[ls];W[kr];B[lp]C[Well done! :)RIGHT])
+(;B[kr];W[ls];B[lp]C[Well done! :)RIGHT]))
+(;B[kr];W[ls];B[ko];W[kp];B[lp]C[Well done! :)RIGHT])
+(;B[ls];W[kr]C[:(]TR[ko]TR[jq]))
+(;B[kr];W[ls];B[jo];W[jp];B[ko];W[kp];B[lp]C[Well done! :)RIGHT])
+(;B[ls];W[kr]C[:(]TR[jq]TR[jo]))
+(;W[jo];B[ls]C[RIGHT])
+(;W[jq]
+(;B[jo];W[kr];B[jp]C[RIGHT])
+(;B[ls];W[kr];B[lr]C[RIGHT])
+(;B[kr];W[ls];B[jo]C[RIGHT]))))
+(;B[jo];W[jr]C[:(])
+(;B[ks];W[jr]C[:(]))

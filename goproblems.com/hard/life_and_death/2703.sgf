@@ -1,0 +1,56 @@
+(;GE[life and death]DI[5d]DP[5]SO[Hans]CO[9]
+AW[ck][bl][el][dm][em][bn][cn][co][ap][bp]
+AB[bj][dj][bk][dk][fk][fl][fm][dn][en][cp][dp][fp][bq]
+C[Black to play.
+]
+(;B[ao];W[al]C[Do not play at A
+]LB[aq:A]
+(;B[an];W[am]LB[aq:A]C[Do not play at A.
+]
+(;B[cm];W[dl]C[Do not play at A.
+]LB[aq:A];B[cl];W[bm]LB[aq:A]
+C[Do not play at A.
+];B[cl]C[RIGHT
+])
+
+(;B[cl];W[cm])
+
+(;B[dl];W[cm])
+)
+
+(;B[cm];W[dl];B[cl];W[bm]LB[an:A][cl:B]C[A and B are now miai.
+])
+)
+
+(;B[am];W[al]
+(;B[cm];W[bm])
+
+(;B[aq];W[an])
+)
+
+(;B[an];W[am];B[ao];W[cm])
+
+(;B[cm];W[bm]
+(;B[ao];W[dl])
+
+(;B[cl];W[dl]LB[cl:A][al:B]C[A and B are now miai.
+])
+)
+
+(;B[cl];W[am]
+(;B[ao];W[cm])
+
+(;B[cm];W[ao])
+)
+
+(;B[al];W[am]
+(;B[ao];W[cl])
+
+(;B[cl];W[ak]
+(;B[cm];W[ao])
+
+(;B[ao];W[cm])
+)
+)
+
+)

@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[12k]DP[57]SO[SinianSung]CO[8]AB[sb]AB[sc]AB[rd]AB[qd]AB[pd]AB[pc]AB[nc]AB[ne]AB[nb]AB[lb]AW[sd]AW[se]AW[re]AW[qe]AW[pe]AW[rc]AW[qc]AW[qa]AW[pb]AW[oa]AW[na]C[Black to save the marked stones.]TR[sc]TR[sb]AW[pg]AP[goproblems]
+(;B[ra];W[qb]
+(;B[ob]C[White can't atari the black stones because she is short of libertiesCHOICERIGHT])
+(;B[ma];W[rb]C[White kills the Stones])
+(;B[sa]C[Wrong, this is not the bend four in the corner. White can escape]))
+(;B[rb];W[qb]
+(;B[ob];W[ra]C[White kills])
+(;B[ma];W[ra]C[White kills])))

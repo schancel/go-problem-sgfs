@@ -1,0 +1,31 @@
+(;GE[life and death]DI[6k]DP[39]SO[CaeZaR]CO[0]C[Black to kill.]AW[jr]AW[kr]AW[kq]AW[kp]AW[jp]AW[ip]AW[hp]AW[hq]AW[hr]AB[gr]AB[gq]AB[gp]AB[go]AB[ho]AB[jo]AB[io]AB[ko]AB[lo]AB[lp]AB[lq]AB[lr]AB[nr]AP[goproblems]
+(;B[ks]
+(;W[hs]
+(;B[js];W[is]
+(;B[iq];W[ls]
+(;B[ks]C[DeadRIGHT])
+(;B[ms];W[ks]C[Alive]))
+(;B[ls];W[iq]C[Alive]))
+(;B[iq]
+(;W[ir]C[CHOICE];B[js]C[DeadRIGHT])
+(;W[js]C[CHOICE];B[ir]C[DeadRIGHT]))
+(;B[ir];W[iq])
+(;B[is]))
+(;W[js]
+(;B[iq]
+(;W[hs])
+(;W[ir];B[hs]C[DeadRIGHT]))
+(;B[hs];W[is];B[iq]C[DeadRIGHT])))
+(;B[hs];W[is]
+(;B[iq];W[ks]C[Alive])
+(;B[ks];W[iq]C[Alive]))
+(;B[iq];W[ks]
+(;B[ir];W[is]C[Alive])
+(;B[is];W[hs];B[ir]C[Seki]))
+(;B[ir];W[is]C[Alive. A and B are miai.]LB[iq:A]LB[ks:B])
+(;B[is]C[Alive];W[hs]
+(;B[ks];W[js]C[Alive. A and B are miai.]LB[iq:A]LB[ir:B])
+(;B[iq];W[ir]C[Alive. A and B are miai.]LB[js:A]LB[ks:B])
+(;B[ir];W[iq]C[Alive. A and B are miai.]LB[js:A]LB[ks:B])
+(;B[js];W[ks]C[Alive. A and B are miai.]LB[iq:A]LB[ir:B]))
+(;B[js];W[is]C[Alive. A and B are miai.]LB[ks:A]LB[iq:B]))

@@ -1,0 +1,281 @@
+(;GE[life and death]DI[3d]DP[9]SO[p7a77]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[co][eo][fo][go][io][dp][hp][jp][bq][dq][hq][jq][kq][cr][ir][kr][mr][ls]AB[ep][gp][eq][gq][dr][er][hr][jr][is]C[The goal is not to die.  We no like ko 'round these parts.]FG[259:]PM[2]
+(;B[fp]CR[fp]
+;W[js]CR[js]
+(;B[fr]CR[fr]
+;W[gs]CR[gs]
+(;B[gr]CR[gr]
+;W[hs]CR[hs]LB[ds:A][fs:B]C[Black dies.  A and B are miai.])
+(;B[fs]CR[fs]
+;W[ds]CR[ds]
+;B[gr]CR[gr]
+;W[hs]CR[hs]
+;B[is]CR[is]
+;W[hs]CR[hs]C[Behold the one-eyed monster.])
+(;B[ds]CR[ds]
+;W[fs]CR[fs]
+;B[hs]CR[hs]
+;W[gr]CR[gr]C[Don't you just hate that?]))
+(;B[gr]CR[gr]
+;W[hs]CR[hs]
+;B[fr]CR[fr]
+;W[gs]CR[gs]
+;B[fs]CR[fs]
+;W[ds]CR[ds]
+;B[is]CR[is]
+;W[hs]CR[hs]C[Game over, man.])
+(;B[gs]CR[gs]
+;W[fr]CR[fr]
+(;B[fs]CR[fs]
+;W[ds]CR[ds]C[So sad.  Only one eye.])
+(;B[gr]CR[gr]LB[ds:A][fs:B]C[Black dies in gote.  A and B are miai.])
+(;B[hs]CR[hs]
+;W[fs]CR[fs]
+;B[gr]CR[gr]C[Still dead.]))
+(;B[fs]CR[fs]
+;W[gr]CR[gr]
+(;B[fr]CR[fr]
+;W[ds]CR[ds]
+;B[gs]CR[gs]
+;W[hs]CR[hs]C[Ko.  No good.])
+(;B[ds]CR[ds]
+;W[fr]CR[fr]C[No eyes.])
+(;B[gs]CR[gs]
+;W[hs]CR[hs]
+(;B[fr]CR[fr]
+;W[ds]CR[ds]
+;B[hr]CR[hr]
+;W[is]CR[is]C[Where are you going with this?])
+(;B[ds]CR[ds]
+;W[fr]CR[fr]C[Dead as dead can be.])))
+(;B[ds]CR[ds]
+;W[fs]CR[fs]
+;B[fr]CR[fr]
+;W[gs]CR[gs]C[Black can't connect.]))
+(;B[gr]
+;W[fp]CR[fp]
+(;B[fq]CR[fq]
+;W[fs]CR[fs]
+(;B[iq]CR[iq]
+;W[gs]LB[iq:B][gs:A]C[Dead.  A and B are miai.])
+(;B[gs]CR[gs]
+;W[iq]LB[iq:B][gs:A]C[Dead.  A and B are miai.])
+(;B[es]CR[es]LB[iq:B][gs:A]C[Black dies in gote.  A and B are miai.])
+(;B[ds]CR[ds]LB[iq:B][gs:A]C[Black dies in gote.  A and B are miai.])
+(;B[hs]CR[hs]C[Black dies in gote.])
+(;B[fr]CR[fr]LB[iq:B][gs:A]C[Black dies in gote.  A and B are miai.]))
+(;B[fr]CR[fr]LB[iq:B][ds:A]C[Black dies in gote.  A and B are miai.])
+(;B[fs]CR[fs]
+;W[fq]CR[fq]
+(;B[fr]CR[fr]LB[iq:B][ds:A]C[Black dies in gote.  A and B are miai.])
+(;B[ds]CR[ds]
+;W[js]CR[js]LB[fr:A][hs:B]C[Black dies.  A and B are miai.])
+(;B[hs]CR[hs]
+;W[fr]CR[fr]
+;B[ds]CR[ds]
+;W[cs]CR[cs]C[Disaster.])
+(;B[iq]CR[iq]LB[fr:B][ds:A]C[Black dies in gote.  A and B are miai.]))
+(;B[ds]CR[ds]
+;W[js]CR[js]
+(;B[hs]CR[hs]
+;W[fs]CR[fs]C[Right where it hurts.])
+(;B[fs]CR[fs]
+;W[fq]CR[fq]LB[fr:A][hs:B]C[Black dies.  A and B are miai.])
+(;B[fq]CR[fq]
+;W[fs]CR[fs]C[No life for you!])
+(;B[fr]CR[fr]C[Yum, more stones for white.]))
+(;B[iq]CR[iq]
+;W[fq]CR[fq]
+;B[fr]CR[fr]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[gs]CR[gs]C[Poor black.]))
+(;B[ds]CR[ds]
+;W[js]CR[js]
+(;B[fr]CR[fr]
+;W[gs]CR[gs]
+;B[fp]CR[fp]
+;W[fs]CR[fs]
+;B[gr]CR[gr]
+;W[hs]CR[hs]C[Dead.])
+(;B[fp]CR[fp]
+;W[fr]CR[fr]LB[gr:B][fs:A]C[Black dies.  A and B are miai.])
+(;B[gs]CR[gs]
+;W[fp]CR[fp]
+(;B[fq]CR[fq]
+;W[hs]CR[hs]C[Multi-step ko and black has to find the first threat.  No good.])
+(;B[fr]CR[fr]
+;W[fq]CR[fq]C[Dead.]))
+(;B[gr]CR[gr]
+;W[fp]CR[fp]
+(;B[fq]CR[fq]
+;W[fs]CR[fs]C[Dead.])
+(;B[fs]CR[fs]
+;W[fq]CR[fq]LB[fr:A][hs:B]C[Dead.  A and B are miai.])))
+(;B[iq]CR[iq]
+;W[gs]CR[gs]
+(;B[fr]CR[fr]
+;W[fp]CR[fp]LB[ds:A][fs:B]C[Black is dead.  A and B are miai.])
+(;B[gr]CR[gr]
+;W[fp]CR[fp]
+(;B[fs]CR[fs]
+;W[fq]CR[fq]
+(;B[fr]CR[fr]
+;W[ds]CR[ds]C[Oh well.])
+(;B[hs]CR[hs]
+;W[fr]CR[fr]
+;B[ds]CR[ds]
+;W[cs]CR[cs]C[Dead.]))
+(;B[fq]CR[fq]
+;W[fs]CR[fs]C[Black dies.])
+(;B[hs]CR[hs]
+;W[fs]CR[fs]C[Black dies.]))
+(;B[fs]CR[fs]
+;W[fr]CR[fr]
+(;B[es]CR[es]
+;W[gr]CR[gr]C[Black dies.])
+(;B[gr]CR[gr]
+;W[es]CR[es]
+(;B[ds]CR[ds]
+;W[fp]CR[fp]
+;B[fs]CR[fs]
+;W[fq]CR[fq]TR[es]C[Black dies with a false eye.])
+(;B[fp]CR[fp]
+;W[ds]CR[ds]C[Black dies.])))
+(;B[fp]CR[fp]
+;W[fr]CR[fr]
+(;B[ds]CR[ds]
+;W[gr]CR[gr]
+;B[fs]CR[fs]
+;W[cs]CR[cs]
+;B[hs]CR[hs]
+;W[es]CR[es]C[Ko.])
+(;B[gr]CR[gr]
+;W[es]CR[es]
+(;B[fq]CR[fq]
+;W[ds]CR[ds]
+;B[hs]CR[hs]
+;W[fs]CR[fs]
+;B[cs]CR[cs]
+;W[fs]CR[fs]C[Dead.])
+(;B[ds]CR[ds]
+;W[fs]CR[fs]C[CHOICE RIGHT Seki!])))
+(;B[hs]CR[hs]
+;W[fr]CR[fr]
+;B[gr]CR[gr]
+;W[fs]CR[fs]C[Black dies.]))
+(;B[gs]CR[gs]
+;W[js]CR[js]
+(;B[fp]CR[fp]
+;W[fr]CR[fr]
+(;B[fs]CR[fs]
+;W[ds]CR[ds]C[Dead.])
+(;B[gr]CR[gr]LB[ds:A][fs:B]C[Black dies in gote.  A and B are miai.]))
+(;B[fr]CR[fr]
+;W[fp]CR[fp]
+;B[fq]CR[fq]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[hs]CR[hs]C[Ko, and black has to find first.  You can do better.])
+(;B[ds]CR[ds]
+;W[fs]CR[fs]
+;B[fr]CR[fr]
+;W[hs]CR[hs]C[Ko.  Black needs to find the first threat.]))
+(;B[fq]CR[fq]
+;W[iq]CR[iq]
+(;B[gs]CR[gs]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[fr]CR[fr])
+(;B[fs]CR[fs]
+;W[ds]CR[ds]
+;B[gr]CR[gr]
+;W[hs]CR[hs]))
+(;B[fr]CR[fr]
+;W[fp]CR[fp]
+(;B[iq]CR[iq]
+;W[gs]CR[gs]
+(;B[ds]CR[ds]
+;W[fq]CR[fq]
+;B[gr]CR[gr]
+;W[fs]CR[fs]C[Dead.])
+(;B[gr]CR[gr]
+;W[ds]CR[ds]C[Black's dead.]))
+(;B[gs]CR[gs]
+;W[js]CR[js]
+(;B[hs]CR[hs]
+;W[fq]CR[fq])
+(;B[fq]CR[fq]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[hs]CR[hs]C[Ko.]))
+(;B[fq]CR[fq]
+;W[js]CR[js]
+(;B[hs]CR[hs]
+;W[gs]CR[gs]
+;B[gr]CR[gr]
+;W[ds]CR[ds]C[Nope.])
+(;B[gs]CR[gs]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[hs]CR[hs]C[Ko.  No good.])
+(;B[gr]CR[gr]
+;W[ds]CR[ds]
+;B[es]CR[es]
+;W[hs]CR[hs]C[Dead.])
+(;B[ds]CR[ds]
+;W[gs]CR[gs]
+;B[fs]CR[fs]
+;W[hs]CR[hs]C[Dead.])))
+(;B[es]CR[es]
+;W[iq]CR[iq]
+(;B[gr]CR[gr]
+;W[hs]CR[hs]
+;B[gs]CR[gs]C[Black cannot live.])
+(;B[fr]CR[fr]
+;W[fp]CR[fp]
+;B[gs]CR[gs]
+;W[js]CR[js]
+;B[fq]CR[fq]
+;W[hs]CR[hs]C[Ko.])
+(;B[fp]CR[fp]
+;W[fr]CR[fr]))
+(;B[fs]CR[fs]
+;W[gr]CR[gr]
+(;B[iq]CR[iq]
+;W[js]CR[js]
+(;B[ds]CR[ds]
+;W[fp]CR[fp]
+;B[fq]CR[fq]
+;W[ir]CR[ir]C[Black can't connect.  Ko.])
+(;B[ks]CR[ks]
+;W[fp]CR[fp]
+(;B[fq]CR[fq]
+;W[js]CR[js]
+(;B[ir]CR[ir]
+;W[ip]CR[ip]C[Ko.])
+(;B[ds]CR[ds]
+;W[ir]CR[ir]C[Ko.]))
+(;B[ds]CR[ds]
+;W[fq]CR[fq]C[Oh so dead.]))
+(;B[fr]CR[fr]
+;W[fp]CR[fp]
+(;B[gs]CR[gs]
+;W[fq]CR[fq]
+(;B[ds]CR[ds]
+;W[gr]CR[gr]
+;B[gq]CR[gq]
+;W[ir]CR[ir]C[Ko.])
+(;B[gr]CR[gr]
+;W[ir]CR[ir]C[Ko, and not a very good one.]))
+(;B[fq]CR[fq]
+;W[ds]CR[ds]
+;B[gs]CR[gs]
+;W[ir]CR[ir]C[Ko.])))
+(;B[hs]CR[hs]
+;W[js]CR[js]
+;B[gs]CR[gs]
+;W[fp]CR[fp]
+;B[fq]CR[fq]
+;W[ds]CR[ds]C[Dead.])))

@@ -1,0 +1,7 @@
+(;GE[life and death]DI[8k]DP[49]SO[hello]CO[0]SZ[19]AW[qi]AW[rj]AW[qk]AW[pl]AW[pm]AW[nn]AW[on]AW[sn]AW[no]AW[qo]AW[ro]AW[so]AW[np]AW[pp]AW[qp]AW[sp]AW[lq]AW[mq]AW[nq]AW[oq]AW[rq]AW[lr]AW[sr]AW[ms]AW[ps]AB[sm]AB[pn]AB[qn]AB[rn]AB[oo]AB[po]AB[op]AB[pq]AB[qq]AB[mr]AB[nr]AB[or]AB[qr]AB[rr]AB[os]AB[qs]C[What can black do in the corner?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ss];W[rs];B[pr];W[rm];B[ss];W[qm];B[sq]C[Correct - ko is the best black can getRIGHT])
+(;B[rm];W[ss];B[pr];W[ls];B[rs];W[ns];B[sq];W[sr]LB[ss:A]C[Black cannot approach at A, and so all the black stones die])
+(;B[pr];W[ss]
+(;B[rs];W[rm];B[sq];W[sr];B[ss];W[qm];B[sq];W[rp])
+(;B[rm]))
+(;B[rl];W[ss];B[pr];W[ls];B[rs];W[ns];B[sq];W[sr]LB[ss:A]C[Black cannot approach at A, so all the black stones die]))

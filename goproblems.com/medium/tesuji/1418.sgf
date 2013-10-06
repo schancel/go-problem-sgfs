@@ -1,0 +1,62 @@
+(
+;GE[tesuji]DI[1d]DP[15]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.34]
+AB[dd][dc][df][fd][fe][id]
+AW[ec][fc][gd][he]
+TR[he]
+C[The triangled move is the kind of shape our parents always warned us not to play. Still, white is out in the open, can't be cut, and is looking for some eye shape on the side. How to handle?]
+GN[temp]
+(
+;
+B[hb]
+;
+W[gc]
+;
+B[ie]
+;
+W[hf]
+LB[jg:a]
+C[RIGHT next probably a]
+)
+(
+;
+B[hc]
+;
+W[gc]
+;
+B[ie]
+;
+W[hf]
+;
+B[jg]
+C[Black is developing nicely, but the peep was little careless. The problem is, that white can make a nuisance of himself at the top with a - e.]
+LB[hb:a][ib:b][db:c][cb:d][fb:e]
+)
+(
+;
+B[ic]
+;
+W[hb]
+;
+B[ib]
+;
+W[fb]
+C[Black shows some real insight into the nature of white's shape weakness, threatening twice to cut. But white's empty triangle connection, threatening a, makes black wonder if he dealt out the proper medicine.]
+LB[db:a]
+)
+(
+;
+B[ie]
+;
+W[hf]
+;
+B[hb]
+;
+W[gc]
+LB[jg:a]
+C[RIGHT next probably a]
+)
+)

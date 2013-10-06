@@ -1,0 +1,16 @@
+(;GE[life and death]DI[7k]DP[42]SO[Field Mouse]CO[0]AW[sq]AW[rq]AW[qq]AW[pq]AW[oq]AW[or]AW[os]AB[qs]AB[sp]AB[rp]AB[qp]AB[pp]AB[op]AB[np]AB[nq]AB[nr]AB[ns]TR[qs]C[Field Mouse just played a bad bad bad move. Can you show him who is the master?]AP[goproblems]
+(;W[rs];B[rr];W[qr];B[ss]
+(;W[ps]C[Yes. Field Mouse's clumsy attempt was worth just minus one point!RIGHT])
+(;W[sr]C[RIGHT]))
+(;W[rr];B[rs]
+(;W[ps];B[sr]C[Field Mouse can play this to create a two step ko or R2 to create  seki or thousand year ko.])
+(;W[qr];B[sr]C[Field Mouse creates this two step ko. He could also play Q1 to give you the choice between thousand year ko and direct seki.Also note that even if Field Mouse loses this two step ko, this will be still one point worse than the solution.]))
+(;W[qr];B[rs];W[ps];B[sr]C[Field Mouse gets this seki.])
+(;W[ps];B[qr]
+(;W[rr];B[rs]C[You can play T2 now to create seki or let the position be thousand year ko. But Field Mouse is satisfied with this result.])
+(;W[rs];B[rr];W[sr];B[ss]C[Ko and even if Field Mouse loses it the result will be one point worse than the solution.]))
+(;W[sr];B[rs])
+(;W[ss];B[qr]
+(;W[rr];B[rs]C[Field Mouse gets thousand year ko!])
+(;W[rs];B[rr];W[sr]C[Field Mouse killed you in sente :)]))
+(;W[pr];B[rr];W[sr];B[rs]C[Killed by Field Mouse.]))

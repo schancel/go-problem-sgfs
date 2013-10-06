@@ -1,0 +1,82 @@
+(;GE[tesuji]DI[5d]DP[4]SO[Clydevil]CO[0]AB[pc]AW[dp]AB[pp]AW[dd]AB[fc]AW[hc]AB[cc]AW[dc]AB[cd]AW[de]AB[db]AW[eb]AB[cb]AW[ec]AB[cf]AW[qe]AB[od]AW[kc]AB[qd]AW[rd]AB[rc]AW[qj]AB[qn]AW[rf]AB[sd]AW[gq]AB[pe]AW[pf]AB[of]AW[co]AB[fb]AW[fa]AB[fe]AW[gb]AB[df]AW[ef]AB[ee]AW[eg]AB[dh]AW[ce]AB[be]AW[dg]AB[cg]AW[ch]AB[gc]AW[ib]AB[ed]AW[ea]AB[da]AW[ga]AB[gf]AW[bh]AB[ag]AW[bg]AB[bf]AW[fh]AB[hd]AW[id]AB[he]AW[gd]AB[fd]AW[di]AW[nq]AB[pr]AW[kp]AB[lq]AW[kq]AB[fj]AW[hi]AB[hk]AW[ih]AB[ii]AW[hg]AB[ie]AW[gh]AB[jd]AW[ic]AB[lb]AW[je]AB[ha]AW[hb]AB[jc]AW[jb]AB[kd]AW[kb]AB[lc]C[Find the heat and help white to get out this hell. Please play kikashi the latest, indeed it is good style to do so everytime.]AP[goproblems]
+(;W[ld];B[ke]
+(;W[la]
+(;B[nb]C[What if black try to resist? Of course as this does not work for him he will let white live and play another way.];W[jf]
+(;B[if]C[Please, avoid unnecessary moves.CHOICE]
+(;W[jg];B[le]C[Black has to prevent the shisho.]
+(;W[hf];B[ma]
+(;W[ig];B[ge]
+(;W[ff];B[ka];W[gg]C[RIGHT])
+(;W[gg]C[NOTTHIS]))
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS]))
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS])
+(;W[ig]C[NOTTHIS]))
+(;W[kf]C[NOTTHIS])
+(;W[le]C[NOTTHIS])
+(;W[ig];B[kf];W[jg];B[ma]
+(;W[hf];B[ge]
+(;W[ff];B[ka];W[gg]C[RIGHT])
+(;W[gg]C[NOTTHIS]))
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS])))
+(;B[ma]C[CHOICE]
+(;W[le]C[Yes, if black plays this way, easy shisho.RIGHT])
+(;W[if];B[ka]
+(;W[hf];B[ge]
+(;W[ff];B[ja])
+(;W[gg]C[NOTTHIS])
+(;W[le]C[You eventually see the shisho. :)RIGHT]))
+(;W[le]C[You eventually see the shisho. :)RIGHT])
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS]))
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS])
+(;W[hf]C[NOTTHIS])))
+(;B[jf]C[RIGHT];W[mc]C[Of course it is better for black to let white live this way earlier. But game is probably lost :).RIGHT]))
+(;W[mb]
+(;B[mc]C[What if black try to resist? Of course as this does not work for him he will let white live and play another way.]
+(;W[jf]
+(;B[if]C[Please, avoid unnecessary moves.CHOICE]
+(;W[jg]C[Black has to prevent the shisho.];B[le];W[la];B[nb]
+(;W[hf];B[ma]
+(;W[ig];B[ge]
+(;W[ff];B[ka];W[gg]C[RIGHT])
+(;W[gg]C[NOTTHIS]))
+(;W[gg]C[NOTTHIS])
+(;W[ff]C[NOTTHIS]))
+(;W[gg]C[NOTTHIS])
+(;W[ff]C[NOTTHIS])
+(;W[ig]C[NOTTHIS]))
+(;W[kf]C[NOTTHIS])
+(;W[le]C[NOTTHIS])
+(;W[ig];B[kf];W[jg];B[ka])
+(;W[la];B[nb]
+(;W[jg]
+(;B[le]C[CHOICE])
+(;B[ma]C[CHOICE];W[le]C[Yes, if black plays this way, easy shisho.RIGHT]))
+(;W[kf]C[NOTTHIS])
+(;W[ig];B[kf];W[jg];B[ma]
+(;W[hf];B[ge]
+(;W[ff];B[ka];W[gg]C[RIGHT])
+(;W[gg]C[NOTTHIS]))
+(;W[ff]C[NOTTHIS])
+(;W[gg]C[NOTTHIS]))))
+(;B[ka]C[CHOICE];W[le]C[Yes, if black plays this way, easy shisho.RIGHT]))
+(;W[la];B[jf];W[nc];B[md];W[ob];B[oc];W[pb];B[qb];W[pa];B[na]C[Obviously, white is in big trooble :p.]))
+(;B[jf]C[RIGHT];W[mc]C[Of course it is better for black to let white live this way earlier. But game is probably lost :).RIGHT]))
+(;W[jf];B[le]
+(;W[md];B[ka])
+(;W[la];B[ma])
+(;W[mb];B[ka])))
+(;W[la];B[ld]
+(;W[if];B[jf];W[ke];B[kf];W[le];B[me];W[lf];B[lg];W[mf];B[mg];W[nf];B[ng];W[ne];B[nd];W[md];B[oe])
+(;W[jf];B[ma];W[if];B[ka];W[hf];B[ge]))
+(;W[mb];B[ld]
+(;W[if];B[jf];W[ke];B[kf];W[le];B[me];W[lf];B[lg];W[mf];B[mg];W[nf];B[ng];W[ne];B[nd];W[md];B[oe])
+(;W[jf];B[ka])
+(;W[la];B[jf]))
+(;W[if];B[ka])
+(;W[ff]C[NOTTHIS])
+(;W[jf];B[ld]))

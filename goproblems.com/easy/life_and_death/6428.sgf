@@ -1,0 +1,36 @@
+(;GE[life and death]DI[6k]DP[37]SO[LCZLAPINSKI]CO[7]AB[oa]AB[pa]AB[pb]AB[pc]AB[pd]AB[pe]AB[qe]AB[re]AB[se]AB[sf]AB[qf]AB[qg]AB[oc]AB[od]AB[sc]AW[na]AW[nb]AW[ob]AW[nc]AW[nd]AW[oe]AW[of]AW[og]AW[oh]AW[qh]AW[qi]AW[rf]AW[rg]AW[sh]AW[qa]AW[qb]AW[qc]AW[qd]AW[rd]AW[sd]AB[rj]TR[oa]TR[pa]TR[pb]TR[pc]TR[oc]TR[od]TR[pd]TR[pe]TR[qe]TR[re]TR[se]TR[sf]TR[qf]TR[qg]C[Black's non-local ko threats are worth less than 28 points.]AP[goproblems]
+(;B[ra];W[rb]
+(;B[sb];W[sa]
+(;B[ri]
+(;W[rh];B[ra]C[RIGHT])
+(;W[rc]C[CHOICE];B[rh]C[Good!RIGHT]))
+(;B[rh];W[rc];B[ri]C[Good!RIGHT])
+(;B[sg];W[rc];B[rh];W[ri];B[si]C[B is out but the shape could be better.RIGHT])
+(;B[ra]C[NOTTHIS]))
+(;B[ri];W[rh]C[You wasted the essential local threat before starting the ko!]LB[sb:1])
+(;B[rh];W[ri]C[You wasted the essential local threat before starting the ko!]LB[sb:1])
+(;B[sg];W[rh]C[You wasted the essential local threat before starting the ko!]LB[sb:1]))
+(;B[rb]
+(;W[ra]
+(;B[sa];W[sb]C[]
+(;B[ri]
+(;W[rh];B[sa]C[RIGHT])
+(;W[rc]C[CHOICE];B[rh]C[Good!RIGHT]))
+(;B[rh];W[rc]
+(;B[ri]C[Good!RIGHT])
+(;B[sg]C[];W[ri];B[si]C[B is out but the shape could be better.RIGHT]))
+(;B[sg];W[rc]
+(;B[rh];W[ri];B[si]C[B is out but the shape could be better.RIGHT])
+(;B[ri];W[rh]))
+(;B[sa]C[NOTTHIS]))
+(;B[rh];W[ri]C[You wasted the essential local threat before starting the ko!]LB[sa:1])
+(;B[sg];W[rh]C[You wasted the essential local threat before starting the ko!])
+(;B[ri];W[rh]C[You wasted the essential local threat before starting the ko!]LB[sa:1])
+(;B[sb]C[B only has 3 liberties and loses the semeai here!]))
+(;W[pg];B[ra]C[RIGHT]))
+(;B[sb];W[pg]C[B only has 2 liberties and loses the semeai here!])
+(;B[sa];W[rb]LB[sb:1]LB[pg:2]C[B only has 3 liberties and loses the semeai here!])
+(;B[sg];W[rh]C[B only has 2 liberties and loses the semeai here!])
+(;B[rh];W[ri]C[You wasted the essential local threat before starting the ko!]LB[rb:1]LB[ra:2]LB[sa:3])
+(;B[ri];W[rh]C[You wasted the essential local threat before starting the ko!]LB[rb:1]LB[ra:2]LB[sa:3])
+(;B[rc];W[sb]))

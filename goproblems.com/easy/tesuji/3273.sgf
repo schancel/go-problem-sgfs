@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[12k]DP[59]SO[polo]CO[5]AW[bq]AW[ap]AW[cp]AW[dp]AW[ep]AW[bo]AW[bn]AW[bm]AW[cm]AB[br]AB[cq]AB[dq]AB[eq]AB[fq]AB[gp]AB[go]AB[gn]AB[fm]AB[el]AB[dl]AB[cl]AB[bl]AB[co]AB[cn]AB[eo]SZ[19]C[White to live]
+(;W[en]C[]
+(;B[dm];W[dn]MA[do]MA[fo]C[Black cannot escape as 2 moves are needed to connect.RIGHT])
+(;B[do];W[fo]C[RIGHT])
+(;B[dn];W[dm]C[RIGHT]))
+(;W[am];B[en])
+(;W[dn];B[do])
+(;W[do];B[dn]
+(;W[en];B[dm];W[fo];B[fn]MA[bp]MA[eo]C[Both marked points are false eyes; White is dead.])
+(;W[dm];B[en])
+(;W[fo];B[en]))
+(;W[dm];B[en])
+(;W[ar];B[cr];W[en]C[RIGHT])
+(;W[cr];B[dr]
+(;W[en]C[RIGHT])
+(;W[ar];B[cs];W[en]C[RIGHT])
+(;W[cs];B[ds]
+(;W[en]C[RIGHT])
+(;W[ar];B[bs];W[en]C[RIGHT])
+(;W[bs];B[as];W[en]C[RIGHT])))
+(;W[bs];B[cr];W[en]C[RIGHT])
+(;W[cs];B[cr];W[en]C[RIGHT])
+(;W[ds];B[en])
+(;W[dr];B[cr];W[en]C[RIGHT]))

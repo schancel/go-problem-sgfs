@@ -1,0 +1,73 @@
+(
+;GE[endgame]DI[3d]DP[9]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AB[cd][ec][fb][gb][ic][od][oe][qe][qd][qc][qb]
+AW[gc][hc][hb][id][he][kc][le][ne][nd][oc][pc][pb]
+C[your assignment is to play both a and b in sente. (there is actually more than one possible timing, but only the natural solution path, where you leave nothing in atari yourself, is marked as correct)]
+LB[ha:a][pa:b]
+GN[temp]
+(
+;
+B[nb]
+;
+W[nc]
+(
+;
+B[ha]
+;
+W[ia]
+;
+B[ga]
+;
+W[ib]
+;
+B[pa]
+;
+W[oa]
+;
+B[qa]
+;
+W[ob]
+C[RIGHT yup]
+)
+(
+;
+B[pa]
+;
+W[oa]
+;
+B[qa]
+;
+W[ob]
+LB[ha:a]
+C[now a will be gote]
+)
+)
+(
+;
+B[pa]
+;
+W[oa]
+;
+B[qa]
+;
+W[nb]
+LB[ha:a]
+C[now black a will be gote.]
+)
+(
+;
+B[ha]
+;
+W[ia]
+;
+B[ga]
+;
+W[nb]
+LB[pa:b]
+C[now black b will be gote]
+)
+)

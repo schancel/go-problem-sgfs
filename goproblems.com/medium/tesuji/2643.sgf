@@ -1,0 +1,62 @@
+(;GE[tesuji]DI[1k]DP[18]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ln][mn][nn][qn][lo][qo][kp][rp][kq][rq][kr][rr][ks][qs][rs]AB[mo][no][oo][po][lp][qp][lq][oq][qq][lr][qr][ls][ps]C[White to play - what can he do?]PL[W]
+(;W[pr]CR[pr]
+(;B[os]CR[os]C[Black offers the strongest resistance!]
+(;W[or]CR[or]
+;B[ns]CR[ns]
+(;W[nr]CR[nr]
+;B[ms]CR[ms]
+(;W[mp]CR[mp]
+;B[mq]CR[mq]
+(;W[nq]CR[nq]
+;B[np]CR[np]
+;W[pp]CR[pp]C[RIGHT])
+(;W[pp]CR[pp]
+;B[pq]CR[pq]
+;W[nq]CR[nq]C[RIGHT]))
+(;W[pq]CR[pq]
+;B[pp]CR[pp]
+;W[nq]CR[nq]
+;B[np]CR[np]C[This is only a ko, White can do better.])
+(;W[pp]CR[pp]
+;B[pq]CR[pq]
+(;W[nq]CR[nq]
+;B[op]CR[op]
+;W[mp]CR[mp]
+;B[np]CR[np]C[Black saves all his stones & all his points...])
+(;W[mp]CR[mp]
+;B[nq]CR[nq]C[White played n4 one move to late.]))
+(;W[nq]CR[nq]
+;B[pq]CR[pq]
+(;W[mp]CR[mp]
+;B[np]CR[np]C[This doesn't work.])
+(;W[op]CR[op]
+;B[pp]CR[pp]
+(;W[np]CR[np]
+;B[mp]CR[mp]
+;W[pn]CR[pn]
+;B[mq]CR[mq]C[White is  one move to late])
+(;W[mp]CR[mp]
+;B[np]CR[np]C[Black saved his stones & his points....]))))
+(;W[pq]CR[pq]
+;B[pp]CR[pp]
+;W[nr]CR[nr]
+;B[ms]CR[ms]
+;W[nq]CR[nq]
+;B[np]CR[np]C[This is only a ko, White can do better.])
+(;W[pp]CR[pp]
+;B[pq]CR[pq]
+;W[nr]CR[nr]
+;B[ms]CR[ms]
+;W[nq]CR[nq]
+;B[op]CR[op]
+;W[mp]CR[mp]
+;B[np]CR[np]C[This doesn't work.]))
+(;W[mp]CR[mp]
+;B[nr]CR[nr]))
+(;B[pq]CR[pq]
+;W[os]CR[os]
+;B[or]CR[or]C[This is of course better for Black than the main variation, but....]))
+(;W[mp]CR[mp]
+;B[nr]CR[nr]))

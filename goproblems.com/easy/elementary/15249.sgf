@@ -1,0 +1,29 @@
+(;GE[elementary]DI[6k]DP[39]SO[santa c]CO[0]AW[br]AW[cr]AW[dr]AW[fq]AB[gq]AB[gr]AB[gs]AB[ep]AB[dp]AB[fp]AW[ar]AB[cp]C[Save yourself]AB[bp]AB[ap]AP[goproblems]
+(;W[fr]
+(;B[es]
+(;W[ds];B[er]
+(;W[bs]C[well done, capturing the two w stones is gote for b too :)RIGHT])
+(;W[eq];B[fs]
+(;W[bs]C[well done, however it's not the best solution....RIGHT])
+(;W[dq];B[bs]))
+(;W[fs];B[eq];W[bs]C[well done however it's the worst solution...RIGHT])
+(;W[dq];B[bs]MA[eq]MA[fs]))
+(;W[bs];B[ds]MA[er]MA[fs])
+(;W[er];B[fs]MA[bs]MA[ds])
+(;W[fs];B[er]
+(;W[ds])
+(;W[bs];B[ds])
+(;W[eq];B[dq]MA[bs]MA[ds])
+(;W[dq];B[eq]MA[bs]MA[ds])))
+(;B[bs];W[fs]C[RIGHT])
+(;B[er];W[eq];B[es];W[ds])
+(;B[fs];W[es]C[RIGHT]))
+(;W[er];B[es]MA[bs]MA[ds])
+(;W[bs];B[ds]
+(;W[es];B[er])
+(;W[er];B[es]))
+(;W[ds];B[bs])
+(;W[es];B[er]MA[bs]MA[ds]TR[eq]TR[fr])
+(;W[eq];B[es]MA[bs]MA[ds])
+(;W[fs];B[er]MA[bs]MA[ds]TR[fr]TR[eq])
+(;W[dq];B[es]MA[bs]MA[ds]))

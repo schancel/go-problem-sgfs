@@ -1,0 +1,20 @@
+(;GE[life and death]DI[8k]DP[46]SO[Kijana]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ca][da][ha][ia][db][eb][fb][hb][fc][hc][hd][ge][he]AB[ba][fa][ja][cb][ib][cc][ic][jc][dd][id][ce][fe][ie][gf][hf][if]C[Black to kill everything.]
+(;B[ga]CR[ga]
+;W[fd]CR[fd]C[White lives])
+(;B[gb]CR[gb]
+;W[ga]CR[ga]C[White lives])
+(;B[bb]CR[bb]
+;W[fd]CR[fd]C[White lives])
+(;B[gd]CR[gd]
+;W[fd]CR[fd]C[White lives])
+(;B[gc]CR[gc]
+;W[fd]CR[fd]C[White lives])
+(;B[fd]CR[fd]
+(;W[ga]CR[ga]C[CHOICE]
+;B[gc]CR[gc]C[CHOICE RIGHT White is caught in damezumari])
+(;W[gd]CR[gd]C[CHOICE]
+(;B[gb]CR[gb]C[CHOICE RIGHT White is caught in damezumari])
+(;B[ga]CR[ga]
+;W[gb]CR[gb]C[White lives]))))

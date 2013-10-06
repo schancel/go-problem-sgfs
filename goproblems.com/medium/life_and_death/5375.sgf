@@ -1,0 +1,46 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[7]AB[bq]AB[cq]AB[dq]AB[dr]AB[ep]AB[fp]AB[fq]AB[en]AB[em]AB[go]AB[ho]AB[fk]AW[dp]AW[do]AW[dn]AW[bo]AW[cl]AW[dk]AW[gp]AW[gq]AW[er]AW[eq]AW[fr]AW[jq]C[The black (L) group in the corner would be dead if it wasn't for Whites weakness. So how should Black use it?]AP[goproblems]
+(;B[iq]
+(;W[ir]
+(;B[hr]C[The 3 white stones are captured... And black get to connect his corner with the center stones! :)RIGHT]MA[eq]MA[er]MA[fr])
+(;B[hq];W[hr]C[Black remains dead in the corner...])
+(;B[gr];W[hr]C[Black remains dead in the corner...])
+(;B[hp];W[hr]C[Black remains dead in the corner...])
+(;B[ip];W[hr]C[Black remains dead in the corner...]))
+(;W[hq];B[ir]
+(;W[ip];B[hp]
+(;W[gr];B[jr];W[kq];B[hs]C[RIGHT])
+(;W[hr];B[is]
+(;W[gr];B[jp];W[io];B[kq]C[RIGHT])
+(;W[jp]MA[eq]MA[er]MA[fr]MA[gq]MA[gp]MA[hq]MA[hr]C[Are capture by black nowRIGHT])))
+(;W[hr];B[ip]TR[gs]TR[es]C[RIGHT])
+(;W[gr];B[ip]C[RIGHT]))
+(;W[hr];B[ir];W[ip];B[hp];W[hq];B[hs];W[gr];B[jr]C[RIGHT])
+(;W[ip];B[hp];W[hr];B[ir];W[hq];B[hs];W[gr];B[jr]C[RIGHT]))
+(;B[hq];W[hr]C[Black remains dead in the corner...])
+(;B[gr];W[hr]C[Black remains dead in the corner...])
+(;B[hr];W[gr]
+(;B[hq];W[hp]
+(;B[ip];W[iq]C[Black remains dead in the corner...])
+(;B[iq];W[ip]C[Black remains dead in the corner...]))
+(;B[iq];W[ip]
+(;B[hp];W[hq]C[Black remains dead in the corner...])
+(;B[hq];W[hp]C[Black remains dead in the corner...]))
+(;B[hp];W[hq]C[Black remains dead in the corner...]))
+(;B[hp];W[hq]C[Black remains dead in the corner...])
+(;B[es];W[hr]C[Black remains dead in the corner...])
+(;B[gs];W[gr]C[Black remains dead in the corner...])
+(;B[fs];W[hr]C[Black remains dead in the corner...])
+(;B[ir];W[iq]
+(;B[hr];W[gr]
+(;B[hq];W[hp]C[Black remains dead in the corner...])
+(;B[hp];W[hq]C[Black remains dead in the corner...]))
+(;B[hq];W[hp]
+(;B[gr];W[hr]C[Black remains dead in the corner...])
+(;B[hr];W[gr]C[Black remains dead in the corner...]))
+(;B[gr];W[hr]C[Black remains dead in the corner...])
+(;B[hp];W[hq]C[Black remains dead in the corner...]))
+(;B[ds];W[hr]C[Black lives using his sente... But the B group in center's still baseless... A better solution is to connect them.])
+(;B[cs];W[hr]C[Black lives using his sente... But the B group in center's still baseless... A better solution is to connect them.])
+(;B[br];W[hr]C[Black lives using his sente... But the B group in center's still baseless... A better solution is to connect them.])
+(;B[ar];W[hr]C[Black lives using his sente... But the B group in center's still baseless... A better solution is to connect them.])
+(;B[bs];W[hr]C[Black lives using his sente... But the B group in center's still baseless... A better solution is to connect them.]))

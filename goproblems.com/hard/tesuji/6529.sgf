@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[4d]DP[8]SO[kvzrock]CO[6]SZ[19]AW[cb]AW[db]AW[hb]AW[gc]AW[hc]AW[dd]AW[hd]AW[he]AB[fb]AB[gb]AB[cc]AB[dc]AB[cd]AB[ed]AB[fd]AB[gd]AB[ce]AB[cg]C[What can w do in the corner?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #7]US[YuJun]PL[W]
+(;W[ba]C[]
+(;B[eb]C[Clever! Does it work?CHOICE];W[bc]LB[da:b]LB[ab:a]C[W lives. a and b are miai.RIGHT])
+(;B[bc]C[Clever! Does it work?CHOICE];W[fc];B[eb];W[ec];B[da]
+(;W[ca];B[bb];W[ea]C[W captures b three stones.RIGHT])
+(;W[bb];B[ab]
+(;W[ea];B[fa];W[ha]C[RIGHT])
+(;W[ga];B[ea];W[ha];B[ac];W[fa];B[aa];W[ca];B[eb]))
+(;W[ea];B[fa];W[ca];B[bb];W[ea]C[White gets a ko.RIGHT])))
+(;W[bc];B[ba]
+(;W[bb];B[eb]
+(;W[bd];B[be];W[ad];B[ab]C[W dies.])
+(;W[aa];B[ab];W[ac];B[aa]C[w dies.]))
+(;W[eb];B[fc];W[bb];B[bd];W[aa];B[ab];W[ca];B[ac]C[w dies.]))
+(;W[fc];B[eb]
+(;W[ba];B[bb];W[bc];B[ab];W[ac];B[da];W[aa];B[bb];W[ab];B[ec]C[W dies.])
+(;W[bc];B[bd]
+(;W[ba];B[ab]
+(;W[ac];B[da]C[W dies.])
+(;W[ec];B[bb];W[ca];B[ac];W[ea];B[aa]C[w is captured.]))
+(;W[ab];B[ba];W[ec];B[bb]C[Nope.])
+(;W[bb];B[ec]C[W dies.]))
+(;W[ec];B[bb]C[Nope.])
+(;W[bb];B[ec];W[bc];B[bd]C[W is dead.]))
+(;W[bb];B[eb];W[bc];B[bd]C[W dies.])
+(;W[eb];B[fc];W[bc];B[ba];W[bd];B[be]
+(;W[bb];B[ea];W[ad];B[ab]C[W is dead.])
+(;W[ca];B[ea]C[W is dead.]))
+(;W[ab];B[eb];W[bc];B[ba];W[bd];B[be]LB[bb:a]LB[ad:b]C[W dead. a and b are miai for b.]))

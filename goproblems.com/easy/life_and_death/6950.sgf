@@ -1,0 +1,35 @@
+(;GE[life and death]DI[5k]DP[34]SO[MrMoto]CO[7]AB[jc]AB[ic]AB[gd]AB[fb]AB[kb]AB[kc]AB[hd]AB[fc]AB[gb]AW[eb]AW[ea]AW[ec]AW[ed]AW[fd]AW[fe]AW[ge]AW[he]AW[ie]AW[id]AW[jd]AW[ld]AW[kd]AW[lc]AW[lb]AW[la]C[What's the best White can do?]AP[goproblems]
+(;W[fa];B[hb])
+(;W[ga];B[hb])
+(;W[ha];B[hb])
+(;W[ia];B[ja]
+(;W[ha];B[hb])
+(;W[ib];B[hb])
+(;W[ga];B[hb])
+(;W[hb];B[ib])
+(;W[ka];B[ha];W[jb];B[ib];W[ja];B[hc];W[fa];B[ga]C[Nice reduction - but not good enough.]))
+(;W[ja];B[hb])
+(;W[ka];B[ia]
+(;W[hb];B[hc])
+(;W[hc];B[hb];W[gc];B[ja];W[fa];B[ga]C[White can do better.]))
+(;W[ib];B[hb])
+(;W[hc];B[hb]
+(;W[gc];B[ia])
+(;W[ka];B[ia])
+(;W[ia];B[ib];W[ka];B[ja];W[jb]MA[ja]C[Ko, White takes first.  Good moves, but not good enough. :(]))
+(;W[hb];B[ha]
+(;W[hc];B[gc])
+(;W[fa];B[ib])
+(;W[ka];B[ib])
+(;W[ia];B[ga]
+(;W[hc]C[:)RIGHT])
+(;W[ib]C[:)RIGHT])
+(;W[fa]C[:)RIGHT])
+(;W[ka];B[hc])
+(;W[ja];B[hc])
+(;W[gc];B[hc])
+(;W[jb];B[ib]))
+(;W[ib];B[hc])
+(;W[ga];B[fa]
+(;W[hc]C[:)RIGHT])
+(;W[ia];B[ib];W[ga]MA[ha]C[ko.]))))

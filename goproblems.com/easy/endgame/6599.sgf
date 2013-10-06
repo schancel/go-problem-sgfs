@@ -1,0 +1,34 @@
+(;GE[endgame]DI[15k]DP[62]SO[tirian]CO[7]SZ[19]AB[gb]AB[gc]AB[fe]AB[gd]AB[de]AB[be]AW[fc]AW[ed]AW[fd]AW[ad]AW[ec]AW[dd]AW[cd]AW[bd]LB[da:A]C[In the endgame, you can make a large reduction in White's territory here.  Begin by making the monkey jump at A.FORCE]GM[1]FF[4]AP[glGo:1.2-Beta2]ST[1]KM[6.5]PW[White]PB[Black]DT[2005-05-31];B[da];W[db]C[Now save your stone!]
+(;B[ea];W[ca]
+(;B[fb];W[cb]C[Now White is reduced to just eight points and had to make the last move to defend her corner.RIGHT])
+(;B[eb];W[fb]
+(;B[fa];W[ga])
+(;B[ga];W[fa]))
+(;B[fa];W[cb]LB[fa:B]LB[fb:A]C[Now White is reduced to just eight points and had to make the last move to defend her corner.  In general, playing 'A' instead of 'B' gives Black an extra point of territory, but I'll let you off with a warning this time.RIGHT])
+(;B[cb];W[fa]C[First things first.  Now you cannot connect to the outside and it seems unlikely that you will be able to survive on the inside.  I'll add variations as quickly as I see people making them, but I'm 98% certain that it's a lost cause. :)]
+(;B[fb];W[eb])
+(;B[ba];W[eb]
+(;B[ca];W[fb])
+(;B[fb];W[ca])
+(;B[bc];W[ab]
+(;B[fb];W[ca])
+(;B[ca];W[fb]))
+(;B[ga];W[fb]))))
+(;B[ca];W[ea]MA[ec]C[There are times when the extra push allows you a further reduction.  However, when the marked stone exists, it is unreasonable.]
+(;B[eb];W[fb]C[])
+(;B[fa];W[eb]C[]))
+(;B[eb];W[fb]
+(;B[ea];W[ca];B[fa];W[ga])
+(;B[cb];W[ea]C[The Black stones are cut off and cannot hope to survive.])
+(;B[fa];W[ea]C[Now it's ko.  Even if you win and connect to the outside, you'll be no better off than in the correct solution, and White will have profited somewhere else with the ko threat that you ignored.]))
+(;B[fa];W[ca];B[ea];W[cb]C[You reduced White's corner in sente.  Investigate other lines of play to find even better ways of playing out this tesuji.RIGHT])
+(;B[fb];W[ea]
+(;B[eb];W[ca]C[The correct line of play is at least two points better than this.])
+(;B[fa];W[ca]C[The correct line of play is at least two points better than this.]))
+(;B[cb];W[eb]C[Connecting your stone with the outside should be your first priority.  Black's two stones are now split and hope of living in the corner is very dim.]
+(;B[fa];W[ea])
+(;B[fb];W[ea])
+(;B[ea];W[fa]
+(;B[fb];W[ca])
+(;B[ca];W[fb]))
+(;B[bb];W[ab])))

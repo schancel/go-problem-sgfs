@@ -1,0 +1,72 @@
+(
+;GE[life and death]DI[20k]DP[73]SO[mr_plow]CO[7]
+FF[4]
+GM[1]
+SZ[13]
+AP[Jago:Version 4.24]
+AB[la][ka][mb][kb][ja][ia][ib][ic][jc][id][kd][ke][je][kf][lf][kg][jg][jh][if][ji][jj]
+AW[kh][lh][lg][mf][le][ld][lc][kc][lb][mc][ki][kj]
+TR[le][ld][lc][lb][mc][kc]
+LB[mf:1]
+C[finish m11 off (assuming that bottom groups are alive)]
+GN[me]
+(
+;
+B[me]
+;
+W[ma]
+;
+B[mg]C[RIGHT]
+MA[le][ld][lc][mc][lb][kc][ma]
+LB[mf:1][me:2][ma:3][mg:4][mh:5]
+C[white m11 dies, and white eventually has to plug up n6]
+)
+(
+;
+B[md]
+;
+W[me]
+C[white m11 lives]
+LB[mf:1][md:2][me:3][mg:4][mh:5]
+)
+(
+;
+B[ma]
+;
+W[me]
+C[white m11 lives]
+LB[mf:1][ma:2][me:3][mg:4][mh:5]
+)
+(
+;
+B[mg]
+;
+W[mh]
+(
+;
+B[me]
+;
+W[ma]
+;
+B[mg]C[RIGHT]
+C[this is a three-stage ko for white m11 life, though there's little chance...]
+SQ[mf][mg]
+)
+(
+;
+B[ma]
+;
+W[me]
+C[white m11 lives]
+CR[md][mg]
+)
+(
+;
+B[md]
+;
+W[me]
+CR[md][mg]
+C[white m11 lives]
+)
+)
+)

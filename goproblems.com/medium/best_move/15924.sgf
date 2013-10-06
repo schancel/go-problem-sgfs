@@ -1,0 +1,137 @@
+(;GE[best move]DI[1k]DP[19]SO[Soligo]CO[0]AB[cc]AB[dd]AB[ed]AB[de]AB[df]AB[cf]AB[bf]AW[ec]AW[fd]AW[gc]AW[ee]AW[ef]AW[dg]AW[cg]AW[bg]AB[eg]AB[eh]AW[di]AW[dk]AW[dm]AW[cn]AW[bm]AW[do]AW[dp]AW[en]AW[fp]AW[fo]AW[go]AW[hn]AW[in]AW[jm]AW[km]AW[jj]AW[nj]AW[nk]AW[nl]AW[ol]AW[ni]AW[nh]AW[lg]AW[mg]AW[lf]AW[le]AW[kd]AW[md]AW[mc]AW[nc]AW[ob]AW[od]AW[oe]AB[id]AB[nd]AB[nf]AB[ne]AB[ng]AB[mf]AB[me]AB[of]AB[pf]AB[pc]AB[oc]AB[pb]AB[pd]AB[qc]AB[nb]AB[oh]AB[oi]AB[oj]AB[ok]AB[pl]AB[ql]AB[qm]AW[pm]AB[qp]AB[pp]AB[op]AW[qq]AW[pq]AW[nq]AW[mq]AW[kq]AW[iq]AW[hp]AB[bn]AB[co]AB[cp]AB[dq]AB[ep]AB[fq]AB[gq]AB[gp]AB[jn]AB[jo]AB[io]AB[ho]AB[jr]AB[jq]AB[im]TR[km]C[W has just played at the marked stone. If B doesn't invade the W center, he will surely lose. How should B invade?]AP[goproblems]
+(;B[fe];W[ff];B[ge]
+(;W[gf]
+(;B[gd];W[fc]C[Please play at AFORCE]LB[hf:A];B[hf];W[gg]LB[hg:A]C[FORCE];B[hg];W[gh]LB[hh:A]C[FORCE];B[hh];W[gi]C[FORCE]
+(;B[hc];W[hb];B[ib]
+(;W[he]C[CHOICE];B[hd];W[ie]C[FORCE]
+(;B[gb]C[RIGHT])
+(;B[je];W[if]
+(;B[jg];W[jd];B[ic];W[jf];B[gb]C[RIGHT])
+(;B[jf];W[ig]
+(;B[jg];W[ih]
+(;B[jh];W[ii];B[jd]C[RIGHT])
+(;B[jd]C[RIGHT]))
+(;B[jh];W[ih];B[jg];W[ii];B[jd]C[RIGHT])
+(;B[jd]C[RIGHT]))
+(;B[jd]C[RIGHT];W[jf];B[gb]C[RIGHT])))
+(;W[ga]C[CHOICEFORCE]
+(;B[db];W[he];B[hd];W[ie]
+(;B[ia];W[jd];B[ic];W[jc]C[Please play at A]LB[eb:A];B[eb];W[jb]LB[fb:A];B[fb];W[gb])
+(;B[je];W[if];B[jf];W[ig]
+(;B[jg];W[ih]
+(;B[jh];W[ii];B[jd]C[RIGHT])
+(;B[jd]C[RIGHT]))
+(;B[jd]C[RIGHT])))
+(;B[ie];W[db]C[Even though you can kill the white group, if you are looking for an even more interesting path, play C18]
+(;B[cb];W[fb]
+(;B[ia];W[ha]
+(;B[jc];W[kb];B[kc];W[lb];B[lc];W[mb];B[ld];W[na]
+(;B[ke]C[RIGHT])
+(;B[jf];W[ke]
+(;B[ig]C[RIGHT])
+(;B[jg]C[RIGHT])
+(;B[jh]C[RIGHT])))
+(;B[kb];W[jc];B[ic];W[jb];B[ja];W[mb]
+(;B[jf];W[jg];B[jd];W[kc];B[ig]C[RIGHT])
+(;B[jd];W[kc];B[jf];W[jg];B[ig]C[RIGHT]))
+(;B[jf];W[jg]
+(;B[jc];W[kb];B[kc];W[lb];B[lc];W[mb];B[ld];W[na];B[ke]C[RIGHT])
+(;B[kb];W[jc];B[ic];W[jb];B[ja];W[mb];B[jd];W[kc];B[ig]C[RIGHT])))
+(;B[hi];W[jc]
+(;B[jf];W[ic];B[hd];W[jg])
+(;B[jg];W[ic];B[hd];W[jf]))
+(;B[jf];W[jc];B[ic];W[jg];B[ig];W[je];B[jd];W[ke];B[kc];W[kb];B[jb];W[lb])
+(;B[jg];W[jc];B[ic];W[jf]))
+(;B[fb];W[cb];B[bb];W[bd];B[bc];W[ea];B[ca]))
+(;B[he];W[db]C[]
+(;B[cb];W[fb];B[ia];W[ha]
+(;B[jc];W[kb];B[kc];W[lb];B[lc];W[mb];B[ld];W[na];B[ke];W[je]
+(;B[jd];W[jf]
+(;B[ie];W[jb])
+(;B[jb];W[ie]))
+(;B[ie];W[kf]
+(;B[jd];W[jb])
+(;B[jb];W[jd]))
+(;B[jb];W[kf]
+(;B[jd];W[ie])
+(;B[ie];W[jd])))
+(;B[kb];W[jc];B[ic];W[jb];B[ja];W[mb];B[jd];W[kc];B[jf];W[je];B[ie];W[jg];B[ke];W[ig]))
+(;B[fb];W[cb];B[bb];W[ea];B[ca]C[RIGHT]))
+(;B[je];W[db]C[Even though you can kill the white group, if you are looking for an even more interesting path, play C18]
+(;B[cb];W[fb]
+(;B[ia];W[ha]
+(;B[jc];W[kb];B[kc];W[lb];B[lc];W[mb];B[ld];W[na];B[ke]C[RIGHT])
+(;B[kb];W[jc];B[ic];W[jb];B[ja];W[mb];B[jd];W[kc];B[he];W[if]
+(;B[jg];W[jf];B[kf];W[kg];B[ke];W[ig];B[jh];W[ih];B[ii]C[RIGHT])
+(;B[jf];W[ig];B[jh]C[RIGHT]))
+(;B[jg];W[he];B[hd];W[jc];B[ic];W[if]
+(;B[ie]C[RIGHT])
+(;B[jf];W[ie]))
+(;B[he];W[jf];B[if];W[jg]
+(;B[jc];W[kb];B[kc];W[lb];B[lc];W[mb];B[ld];W[na];B[ke]C[RIGHT])
+(;B[kb];W[jc];B[ic];W[jb];B[ja];W[mb];B[jd]C[RIGHT])))
+(;B[jg];W[jc]
+(;B[ic];W[he];B[hd];W[ih];B[ig];W[kf];B[jf];W[ie])
+(;B[if];W[ic];B[hd]C[RIGHT])))
+(;B[fb];W[cb];B[bb];W[ea]
+(;B[ca]C[RIGHT])
+(;B[ia]C[RIGHT])
+(;B[gb]C[RIGHT])))))
+(;B[hd];W[ib];B[jc];W[jb];B[kc];W[mb];B[kb];W[cb];B[bb];W[db])
+(;B[jc];W[hc];B[hd];W[jb];B[kb];W[ib];B[kc];W[cb]
+(;B[mb];W[bc])
+(;B[bb];W[db];B[mb]C[RIGHT]))
+(;B[ic];W[hc]
+(;B[hd];W[ib];B[jb];W[hb];B[kc];W[db];B[cb];W[fb];B[mb]C[RIGHT])
+(;B[ib];W[hd];B[he]C[RIGHT]))
+(;B[ib];W[hc];B[ic];W[hd];B[he]C[RIGHT])
+(;B[jd];W[jb]
+(;B[ib];W[hb];B[ia];W[hd];B[he];W[ic];B[jc];W[hc];B[kb]C[RIGHT])
+(;B[jc];W[ib];B[kc];W[mb];B[kb];W[cb]
+(;B[bb];W[db])
+(;B[db];W[dc]
+(;B[hc];W[hb];B[bb];W[cd]
+(;B[bc];W[be])
+(;B[ca];W[be]))
+(;B[bb];W[cd]
+(;B[bc];W[be])
+(;B[ca];W[be]))))))
+(;B[he];W[hf];B[if];W[ig]
+(;B[hc];W[hb];B[ib];W[fb];B[ha];W[ga]
+(;B[gb]C[Ko. Even though W doesn't have many large threats, there is a secure way to invade.])
+(;B[ia];W[cb]
+(;B[db];W[dc];B[bb];W[cd]
+(;B[ca];W[be])
+(;B[bc];W[be]))
+(;B[bb];W[gd]
+(;B[hd];W[db];B[gb]C[Ko. Even though W doesn't have many large threats, there is a secure way to invade.])
+(;B[gb]C[Ko. Even though W doesn't have many large threats, there is a secure way to invade.]))))
+(;B[gd];W[fc];B[hc];W[hb];B[ib]C[RIGHT])
+(;B[hg];W[jf];B[ie];W[gg]
+(;B[hh];W[gh]
+(;B[gi];W[hi];B[ih];W[ii];B[jg];W[jh];B[ig];W[fi];B[gj];W[fh]
+(;B[gd];W[fc];B[hc]C[RIGHT])
+(;B[hc];W[hb];B[gd];W[fc];B[ib]C[RIGHT]))
+(;B[ih];W[hi]C[Please play at A]LB[gi:A];B[gi];W[ii];B[jg];W[fi]C[Please play at A]LB[gj:A];B[gj];W[fh]
+(;B[gd];W[fc];B[hc]C[RIGHT])
+(;B[hc];W[hb];B[gd];W[fc];B[ib]C[RIGHT]))
+(;B[hi];W[gi];B[gd];W[fc];B[hc]C[RIGHT]))
+(;B[gd];W[fc];B[hc]C[RIGHT]))))
+(;W[sa]))
+(;B[mb];W[ge];B[lc];W[ld];B[kc];W[jc];B[jb];W[ic]C[Not big enough])
+(;B[eb];W[ge]C[Not big enough])
+(;B[bo];W[ge]C[Not big enough])
+(;B[db];W[fe]C[Not big enough])
+(;B[om];W[ge]C[Not big enough])
+(;B[ff];W[fe]
+(;B[gf];W[hd]
+(;B[he];W[ic]
+(;B[if];W[hh])
+(;B[ie];W[gh]))
+(;B[gh]))
+(;B[fg])
+(;B[gg]))
+(;B[gn];W[hm]
+(;B[fn];W[eo];B[em];W[dn];B[dl];W[cm])
+(;B[gm];W[hl];B[fn];W[eo];B[em];W[dn];B[dl];W[cm]))
+(;B[hm];W[gn]))

@@ -1,0 +1,50 @@
+(;GE[life and death]DI[4k]DP[29]SO[akeran]CO[0]SZ[11]AB[db]AB[eb]AB[cc]AB[dc]AW[bd]AW[cd]AW[dd]AW[ed]AW[ec]AW[fb]AB[fc]AB[gc]AB[ic]AB[ge]AB[he]AW[cf]AB[ff]AB[ef]AB[df]AB[dg]AB[dh]AB[cg]AB[bg]AB[ah]AW[bh]AW[ch]AW[ci]AW[bi]AW[di]AW[dj]AW[aj]AB[bj]AB[bk]AB[ei]AB[ej]AB[fj]AB[gj]AB[hj]AB[hi]AB[gh]AB[hg]AB[ig]AB[ih]AB[jh]AB[ii]AW[gi]AW[fi]AW[eh]AW[eg]AW[fg]AW[gg]AW[gf]AW[hf]AW[if]AW[ie]AW[je]AW[jg]AW[kg]AW[kh]AW[ji]AW[jj]AW[ij]AB[ek]C[White to win the game -- Komi 6.5]AP[goproblems]
+(;W[dk]
+(;B[fh]
+(;W[bf])
+(;W[fe]
+(;B[ag]
+(;W[bf]C[])
+(;W[ai]C[Correct, the big eye in the corner give time to capture the black stone aboveRIGHT];B[fd];W[ee]
+(;B[be];W[ce];B[bf]
+(;W[ae])
+(;W[bc];B[bb]
+(;W[ae];B[ac];W[ab];B[aa];W[ad];B[ab];W[ca]
+(;B[cb];W[gb];B[hc];W[ea]C[RIGHT])
+(;B[da];W[cb];B[ba];W[cb];B[ca];W[gb]
+(;B[hc]
+(;W[ga];B[hb];W[ea];B[fa];W[hd];B[ha];W[gd]C[RIGHT]))))
+(;W[ab];B[ca];W[ae];B[ad];W[ac];B[aa];W[ba]C[RIGHT])))
+(;B[ce];W[be];B[bf];W[de];B[bc];W[cf]C[RIGHT]))
+(;W[hc];B[hd];W[hb];B[gb];W[id];B[gd]C[Not enough Black controls a large left half]))
+(;B[ce]
+(;W[be];B[bf]
+(;W[bc];B[bb];W[ab];B[ca]
+(;W[ba];B[aa];W[hd];B[gd];W[ba];B[fd];W[ee];B[aa];W[gb];B[hc];W[ba];B[ea];W[cb];B[ag];W[ai];B[bb];W[de];B[aa];W[cf];B[ac];W[af]C[RIGHT])
+(;W[de];B[fd];W[ee];B[ae];W[cf];B[ad];W[ai];B[ce]))
+(;W[de]))
+(;W[ai];B[fd];W[ee];B[be])
+(;W[de];B[bf];W[be];B[fd];W[ee];B[bc];W[af]
+(;B[cf])
+(;B[ad];W[cf]C[Black does not have ko threat big enough, White winsRIGHT])))))
+(;B[fe];W[fh];B[ag];W[ai]C[There is no threat big enough for white to answer. It will be a ko that White cannot lose. White wins the game.RIGHT];B[jc];W[id];B[hd];W[kd];B[kc];W[jd]C[RIGHT]))
+(;W[ck]
+(;B[ag]C[CHOICE];W[ai];B[fh];W[fe];B[dk]))
+(;W[fh];B[dk])
+(;W[cj];B[dk])
+(;W[ak];B[ai])
+(;W[ai];B[dk];W[ag];B[bf];W[af];B[ae];W[ah];B[be])
+(;W[fe];B[dk]C[Black win the capture race and the game])
+(;W[ea];B[dk]
+(;W[gb];B[hb])
+(;W[fa];B[gb])
+(;W[bc];B[gb]))
+(;W[jc];B[dk]
+(;W[ib];B[hb])
+(;W[jb];B[gb]))
+(;W[ce];B[dk]
+(;W[ai];B[ag];W[ck];B[cj])
+(;W[ck];B[cj]))
+(;W[bf];B[dk]
+(;W[fe];B[cj])
+(;W[af];B[cj])))

@@ -1,0 +1,24 @@
+(;GE[best move]DI[5k]DP[34]SO[kochi]CO[8]AB[eb]AB[fc]AB[fd]AB[ed]AB[dd]AB[ce]AW[cd]AW[be]AW[cc]AW[dc]AW[ec]C[How should B play down the left side?]AP[goproblems]
+(;B[bf];W[cf]
+(;B[de];W[bg]
+(;B[bd];W[af]
+(;B[bc];W[bb]
+(;B[cb]C[ok.RIGHT])
+(;B[db];W[cb]))
+(;B[cb];W[bc])
+(;B[db];W[bc])
+(;B[bb];W[bc]))
+(;B[df];W[af])
+(;B[cg];W[af])
+(;B[bc];W[bd])
+(;B[cb]))
+(;B[bd];W[de])
+(;B[df];W[de]C[No.]))
+(;B[cf]C[not good enough.])
+(;B[bd];W[bc]
+(;B[cf])
+(;B[bf];W[ad];B[df];W[db])
+(;B[db]))
+(;B[db];W[cf])
+(;B[ca];W[cf];B[de];W[cg]C[W is alive and running along the side.])
+(;B[cb];W[cf];B[de];W[cg]C[W is alive and running along the side.]))

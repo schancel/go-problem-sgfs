@@ -1,0 +1,158 @@
+(;GE[life and death]DI[25k]DP[77]SO[LCZLAPINSKI]CO[7]AW[bq]AW[cp]AW[dp]AW[eq]AB[co]AB[do]AB[cn]AB[bm]AB[dm]AB[dl]AW[cm]AB[ck]AB[ek]AB[ej]AB[gj]AB[hj]AB[ij]AB[ik]AB[kk]AB[jl]AB[jm]AB[jn]AB[jo]AB[ep]AB[gp]AB[fp]AB[hp]AB[kp]AW[dn]AW[en]AW[eo]AW[em]AW[el]AW[fk]AW[gk]AW[hk]AW[il]AW[im]AW[fo]AW[go]AW[ho]AB[fn]AB[fm]AB[gn]AB[gm]AB[gl]AW[io]AB[ip]AB[fi]AB[ei]AB[gi]AP[goproblems]
+(;B[in];W[hn]
+(;B[fl];W[hl]
+(;B[fj];W[hm])
+(;B[hm]C[RIGHT]))
+(;B[hl]C[RIGHT])
+(;B[fj];W[hm]C[])
+(;B[hm]C[White is dead. This a rabbity six. If white kills these stones, white is left with one eye unless white can escape.RIGHT];W[hl]C[Play T to tenuki.CHOICERIGHT]LB[ai:T]
+(;B[fj];W[fl]
+(;B[gm]C[White has a killable shape inside. The white stones are dead unless they can escape.RIGHT])
+(;B[fm];W[gm]))
+(;B[fl]C[RIGHT])
+(;B[ai]C[RIGHT])))
+(;B[hn];W[in]TR[fl]TR[hl]C[White has miai of wF8 and wH8 for connection.]
+(;B[fl];W[hl];B[fj];W[hm])
+(;B[hl];W[fl];B[fj];W[hm])
+(;B[hm]
+(;W[fl]C[CHOICE];B[fj];W[hl]
+(;B[fn];W[gm])
+(;B[fm];W[gm])
+(;B[gn];W[gm])
+(;B[gm];W[gn])
+(;B[gl];W[gm])
+(;B[hn];W[gm])
+(;B[hm];W[gm]))
+(;W[hl];B[fj];W[fl]C[CHOICE]
+(;B[gm];W[gn])
+(;B[fn];W[gm])
+(;B[fm];W[gm])
+(;B[gn];W[gm])
+(;B[gl];W[gm])
+(;B[hn];W[gm])
+(;B[hm];W[gm])))
+(;B[fj]
+(;W[fl]C[You failed to kill white's D6 group. You did get a seki.CHOICE])
+(;W[hl]C[You failed to kill white's d6 group. You did get a seki.])))
+(;B[hm]C[This is a rabbitty six.  If white kills the black stones, white's stones die unless the white stones can escape.];W[in]LB[ai:T]C[You failed to kill white's D6 group. You did get a seki. Play T for tenuki.]
+(;B[fj]
+(;W[fl]C[SekiCHOICE])
+(;W[hl]C[SekiCHOICE]))
+(;B[fl]C[Bf8 isn't needed and is a mistake which gives white 10  points (7 prisoners plus at least 3 territory).];W[hl];B[fj];W[hn]
+(;B[gm];W[fm]
+(;B[fn];W[gn])
+(;B[fl];W[gl])
+(;B[gn];W[gl])
+(;B[gl];W[gn])
+(;B[hm]
+(;W[gn]C[You failed to kill white's D6 group.CHOICE])
+(;W[gl]C[You failed to get a seki.])))
+(;B[fm];W[gm]C[White is alive.])
+(;B[hm];W[gm]C[White is alive.]))
+(;B[hl]C[This move is unnecessary. The outcome is still seki. The butterfly seven is a live shape. White can get seki.];W[fl]C[White is alive.]
+(;B[fj];W[hn]
+(;B[gm];W[gl]
+(;B[hm];W[fm];B[gn]C[Seki])
+(;B[gn];W[hm]C[White is alive.]
+(;B[fm];W[fn])
+(;B[fn];W[fm]))
+(;B[fn];W[hm]C[White is alive.]
+(;B[fm];W[gn])
+(;B[gn];W[fm])))
+(;B[hl];W[gm]C[You failed to kill white's D6 group. By not playing bG7 you also missed the seki.])
+(;B[cl];W[gm]C[You failed to kill white's D6 group. If you had played bG7,  you could still get a seki.]))
+(;B[jk];W[hn]
+(;B[gm];W[gl]
+(;B[hm];W[fm];B[gn]C[Seki])
+(;B[fn];W[hm]C[White is alive.]
+(;B[fm];W[gn])
+(;B[gn];W[fm]))
+(;B[gn];W[hm]C[White is alive.]
+(;B[fm];W[fn])
+(;B[fn];W[fm])))
+(;B[hl];W[gm]C[White is alive.])
+(;B[cl];W[gm]C[White is alive.])))
+(;B[hn]
+(;W[fl]C[CHOICE];B[fj];W[hl]C[You failed to kill white's D6 group.]
+(;B[gm];W[gn]
+(;B[fm];W[hm])
+(;B[hm];W[fm]))
+(;B[fn];W[gm])
+(;B[fm];W[gm])
+(;B[gn];W[gm])
+(;B[gl];W[gm])
+(;B[hn];W[gm])
+(;B[hm];W[gm]))
+(;W[hl]C[CHOICE];B[fj];W[fl]
+(;B[fn];W[gm])
+(;B[fm];W[gm])
+(;B[gn];W[gm])
+(;B[gm];W[gn]
+(;B[fn];W[fm])
+(;B[fm];W[hm])
+(;B[gl]
+(;W[fm]C[CHOICE])
+(;W[hm]C[CHOICE])))
+(;B[gl];W[gm])
+(;B[hn];W[gm])
+(;B[hm];W[gm])))
+(;B[ai]C[Yes. You have seki because of rabbity six unless the white stones could escape. There are different paths that kill the white stones.]))
+(;B[fl]C[White is dead with correct play by black..]
+(;W[hn]C[CHOICE]
+(;B[hl];W[hm];B[fn];W[fm]
+(;B[fl];W[gl])
+(;B[gn];W[gm])
+(;B[gm];W[gl])
+(;B[gl]
+(;W[gn]C[CHOICE])
+(;W[gm]C[CHOICE]))
+(;B[hl];W[gl]))
+(;B[fj];W[hl])
+(;B[in]C[RIGHT]))
+(;W[hl]C[CHOICE];B[in]C[RIGHT];W[hn];B[hm]C[RIGHT])
+(;W[hm]C[CHOICE];B[in]C[RIGHT];W[hn];B[hl]C[RIGHT])
+(;W[in]C[CHOICE]
+(;B[hl]C[RIGHT])
+(;B[fj];W[hl]C[You failed to kill white's D6 group.])
+(;B[hm];W[hl]C[You failed to kill white's D6 group.])
+(;B[hn];W[hl]C[You failed to kill white's D6 group.])))
+(;B[fj];W[hm]
+(;B[fl];W[hl]
+(;B[in];W[hn]
+(;B[fn];W[fm];B[fl];W[gn])
+(;B[fm];W[gm]
+(;B[fn];W[fl])
+(;B[fl];W[fn]))
+(;B[fl];W[fm];B[fn]
+(;W[gn]C[CHOICE])
+(;W[gl]C[CHOICE])
+(;W[gm]C[CHOICE]))
+(;B[gn];W[gm]
+(;B[fn];W[fm])
+(;B[fm];W[fn])
+(;B[fl]
+(;W[fm]C[CHOICE])
+(;W[fn]C[CHOICE])))
+(;B[gm];W[fm]
+(;B[fn];W[gn])
+(;B[fl]
+(;W[gn]C[CHOICE])
+(;W[gl]C[CHOICE])))
+(;B[gl];W[gm]
+(;B[fn]
+(;W[fm]C[CHOICE])
+(;W[fl]C[CHOICE]))
+(;B[fm]
+(;W[fn]C[CHOICE])
+(;W[fl]C[CHOICE]))))
+(;B[hn];W[in]C[You failed to kill white's D6 group.]))
+(;B[hl];W[fl]C[You failed to kill white's D6 group.];B[in];W[hn]C[You failed to kill white's D6 group.])
+(;B[in];W[hn]C[You failed to kill white's D6 group. You did get a seki.]))
+(;B[hl];W[fl]
+(;B[in]C[RIGHT])
+(;B[fj];W[in]C[You failed to kill white's D6 group.])
+(;B[hm]C[This is a butterfly seven shape inside which lives.]TR[fn]TR[fm]TR[gl]TR[hl]TR[hm]TR[gm]TR[gn];W[hn];B[gm];W[hm];B[gl];W[gn];B[fm]C[Seki])
+(;B[hn];W[in]C[White lives because he has two liberties.];B[fj];W[hm]C[You failed to kill white's D6 group.]))
+(;B[cl];W[in];B[fj]
+(;W[fl]C[SekiCHOICE])
+(;W[hl]C[SekiCHOICE])))

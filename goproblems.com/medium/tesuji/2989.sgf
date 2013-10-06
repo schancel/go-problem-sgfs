@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[2k]DP[21]SO[unkx80]CO[4]SZ[19]AB[bc]AB[cc]AB[dd]AB[de]AW[bd]AW[cd]AW[dc]AW[fc]TR[de]C[White to play.]FF[1]GM[1]AP[Jago:Version 4.53]GN[goproblem2989]
+(;W[bb]
+(;B[db]
+(;W[ec];B[cb]
+(;W[cf]C[This is a bit dangerous for black as he is not yet alive in the corner.CHOICERIGHT])
+(;W[ac];B[ce])
+(;W[bf];B[cf]C[White stones are low, not as good as the solution.]))
+(;W[ac];B[ec])
+(;W[cf];B[ec]))
+(;B[cb];W[db]
+(;B[ba];W[ab];B[ac];W[cf]C[Black is dead.])
+(;B[ab];W[ba];B[ca];W[cf]C[Black is dead.]))
+(;B[ec];W[db]
+(;B[eb];W[cb];B[fd]C[JosekiCHOICERIGHT])
+(;B[be];W[cb];B[ce];W[ac]C[JosekiCHOICERIGHT])))
+(;W[cb];B[bb]
+(;W[db];B[ce])
+(;W[cf];B[ec]))
+(;W[db];B[ce])
+(;W[cf];B[ec])
+(;W[ec];B[ce])
+(;W[ac];B[bb]
+(;W[ab];B[db];W[ec];B[ce])
+(;W[db];B[ce])
+(;W[cf];B[ec])))

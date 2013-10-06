@@ -1,0 +1,42 @@
+(;GE[life and death]DI[1d]DP[17]SO[ferdi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[co][ap][ar][br][cr][dr]AB[bm][an][cn][dn][ao][do][eo][fp][cq][fq][er][fr][ds]PL[W]
+(;W[cp]CR[cp]
+(;B[bp]CR[bp]
+(;W[bo]CR[bo]
+(;B[bq]CR[bq]
+;W[dq]CR[dq]C[Thanks to this snapback, White is alive. RIGHT CHOICE])
+(;B[aq]CR[aq]
+;W[bq]CR[bq]
+;B[ap]CR[ap]
+(;W[dp]CR[dp]C[White lives RIGHT CHOICE])
+(;W[dq]CR[dq]
+;B[dp]CR[dp]C[White is dead.])))
+(;W[dq]CR[dq]
+;B[bo]CR[bo]
+;W[bq]CR[bq]
+;B[dp]CR[dp]C[White is dead.])
+(;W[bq]CR[bq]
+;B[bo]CR[bo]
+;W[dp]CR[dp]
+;B[dq]CR[dq]
+;W[eq]CR[eq]
+;B[dq]CR[dq]C[White is dead]))
+(;B[dq]CR[dq]
+;W[bq]CR[bq]C[White lives. RIGHT])
+(;B[bq]CR[bq]
+;W[dq]CR[dq]
+;B[bp]CR[bp]
+;W[bo]CR[bo]C[A snapback, White lives. RIGHT]))
+(;W[bq]CR[bq]
+;B[bp]CR[bp]
+;W[cp]CR[cp]
+;B[bo]CR[bo]
+;W[dp]CR[dp]
+;B[dq]CR[dq]
+;W[eq]CR[eq]
+;B[dq]CR[dq]C[White is dead.])
+(;W[bp]CR[bp]
+;B[bq]CR[bq]
+;W[dq]CR[dq]
+;B[cp]CR[cp]C[White is dead.]))

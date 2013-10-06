@@ -1,0 +1,13 @@
+(;GE[endgame]DI[3k]DP[24]SO[wolverest]CO[0]SZ[9]AW[cb]AW[cd]AW[dd]AW[ed]AW[fc]AW[fb]AW[fa]AW[bf]AW[be]AW[ei]AW[di]AW[eh]AW[fh]AW[fg]AW[gg]AW[hg]AW[hf]AW[if]AW[hi]AW[ie]AB[ga]AB[gb]AB[gc]AB[gd]AB[ge]AB[fe]AB[he]AB[id]AB[hc]AB[eg]AB[dh]AB[ci]AB[cg]AB[ff]AB[gf]AB[ee]AB[de]AB[ce]AB[bd]AB[ad]AB[bc]C[black just played the marked stone. komi is .5, can white win? (play j2 if cannot)FORCE]LB[ih:no]TR[bc]AP[goproblems]
+(;W[bh];B[bg];W[ch];B[cc]
+(;W[dg];B[cf]
+(;W[ah];B[ag];W[ef];B[df];W[eg])
+(;W[dc];B[bb]
+(;W[eb];B[ca];W[da];B[db])
+(;W[db];B[ca];W[da];B[eb])))
+(;W[dc];B[bb]
+(;W[db];B[ca];W[da];B[eb])
+(;W[eb];B[ca]C[];W[da];B[db];W[dg];B[cb];W[cf];B[af];W[ag];B[ae];W[ef];B[df];W[eg])))
+(;W[ih]C[RIGHT])
+(;W[bg];B[bh];W[bb];B[ag];W[cc];B[af])
+(;W[bb];B[bg];W[cc];B[af]))

@@ -1,0 +1,33 @@
+(;GE[life and death]DI[7k]DP[40]SO[Wervyn]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+AW[ao][bo][co][cp][dp][ep][fp][gp][cq][gq][br][gr][ds][es]AB[bp][bq][dq][eq][fq][ar][cr][dr][fr][fs]C[White to kill.]PL[W]
+(;W[bs]CR[bs]
+(;B[cs]CR[cs]C[CHOICE]
+(;W[aq]CR[aq]
+;B[as]CR[as]
+(;W[br]CR[br]
+;B[bs]CR[bs]
+;W[ap]CR[ap]C[The snapback that wouldn't die! RIGHT])
+(;W[ap]CR[ap]
+;B[br]CR[br]C[Not quite.])
+(;W[bs]CR[bs]
+;B[ap]CR[ap]C[Eh?]))
+(;W[ap]CR[ap]
+;B[aq]CR[aq]
+;W[as]CR[as]
+;B[bq]CR[bq]C[Black weasels out of it!]))
+(;B[aq]CR[aq]C[CHOICE]
+(;W[ap]CR[ap]
+;B[cs]CR[cs]
+;W[as]CR[as]
+;B[bq]CR[bq]C[Black weasels out of it!])
+(;W[cs]CR[cs]C[Black can't push. RIGHT])
+(;W[gs]CR[gs]C[Black can't push. RIGHT])))
+(;W[aq]CR[aq]
+;B[bs]CR[bs]C[Nice try, but something's missing...])
+(;W[cs]CR[cs]
+;B[bs]CR[bs]C[Alive.])
+(;W[as]CR[as]
+;B[bs]CR[bs]C[Alive.])
+(;W[ap]CR[ap]
+;B[bs]CR[bs]C[Alive.]))

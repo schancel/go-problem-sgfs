@@ -1,0 +1,19 @@
+(;GE[life and death]DI[1d]DP[17]SO[wolverest]CO[0]AW[db]AB[ba]AB[ca]AB[bb]AB[cc]AB[cd]AB[be]AB[ae]AB[cf]AB[ff]AB[hf]AB[ge]AB[jf]AB[kf]AW[cb]AW[da]AW[eb]AW[dc]AW[dd]AW[ee]AW[fa]AW[gc]AW[gd]AW[hd]AW[ie]AB[ic]AB[jb]AB[kc]AB[lc]AW[kb]AW[lb]AW[mc]AW[ma]AB[md]AB[fb]AB[fc]AW[fe]AB[fd]AB[df]MA[db]MA[ba]C[black wins all ko's.]AP[goproblems]
+(;B[ha]
+(;W[gb]C[CHOICE];B[ga];W[ed];B[ea]
+(;W[ec];B[fa]C[RIGHT]))
+(;W[ga]C[CHOICE];B[gb];W[hb]
+(;B[ia]C[RIGHT])
+(;B[ea]C[RIGHT])))
+(;B[hb];W[gb])
+(;B[ga];W[ha]
+(;B[hb];W[gb])
+(;B[gb];W[hb];B[hc];W[ec])
+(;B[ea];W[gb]))
+(;B[gb];W[hb]
+(;B[ha];W[ia]
+(;B[ib];W[ga];B[hc];W[ha])
+(;B[hc];W[ga])
+(;B[ga];W[ed]))
+(;B[ga];W[ha])
+(;B[hc];W[ga])))

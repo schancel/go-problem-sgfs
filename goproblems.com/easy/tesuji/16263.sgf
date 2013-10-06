@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[7k]DP[40]SO[kuche12345]CO[0]AB[bs]AB[br]AB[bp]AB[bq]AB[ep]AB[fp]AB[fq]AB[fr]AB[fs]AB[es]AB[iq]AW[cq]AW[cr]AW[ds]AW[eq]AW[er]AW[eo]AW[dn]AW[co]AW[bo]AP[goproblems]
+(;B[cp];W[dp]
+(;B[dq]
+(;W[dr];B[cs];W[dq];B[do]C[RIGHT])
+(;W[do];B[cs];W[dr];B[dq]C[RIGHT]))
+(;B[dr];W[dq])
+(;B[cs];W[dq];B[dr]C[only ko :(]))
+(;B[dp];W[cp])
+(;B[dq];W[cp];B[dr];W[cs]C[only two stones captured, corner group is dead :(])
+(;B[cs]
+(;W[dq];B[cp];W[dp];B[dr]C[only ko :(])
+(;W[cp];B[dr];W[dq]C[only one stone captured :(]))
+(;B[dr];W[dq]
+(;B[dp];W[cp])
+(;B[cp];W[dp];B[cs]C[only ko :(])))

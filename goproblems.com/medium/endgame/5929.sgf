@@ -1,0 +1,37 @@
+(;GE[endgame]DI[2k]DP[21]SO[Andre Engels]CO[5]AB[rb]AB[rc]AB[rd]AB[qe]AB[qf]AB[qg]AB[qh]AB[rh]AB[sh]AW[si]AW[ri]AW[qi]AW[pi]AW[ph]AW[pg]AW[pf]AW[pe]AW[qd]AW[qc]AW[qb]AW[od]AW[ra]AW[sb]AW[ob]TR[sb]C[White just played the marked move; what is black's best answer.]AP[goproblems]
+(;B[rf];W[sc]
+(;B[sd]C[White cannot do anything useful; Black can capture at T19 later.RIGHT])
+(;B[se];W[qa]C[Almost correct, but you could get a little bit more.])
+(;B[sg];W[sd]
+(;B[se];W[re];B[rd]C[Losing the three stones is not necessary.])
+(;B[re];W[se]C[You're dead.])))
+(;B[re];W[sf]
+(;B[sc];W[se]
+(;B[rf];W[sg]C[Seki is not best.])
+(;B[sg];W[rf]C[Seki is not best])
+(;B[sa];W[qa]C[This is only seki, you could have lived with points.]))
+(;B[se];W[sc]C[dead])
+(;B[rf];W[sg];B[sc];W[se]C[Seki is not the best])
+(;B[sg];W[rf];B[sc];W[se]C[Seki is not the best.]))
+(;B[se];W[rf]
+(;B[sc];W[re];B[sa];W[sg]C[That's not even ko.])
+(;B[sf];W[sc]
+(;B[rg]C[Close, but you could have done slightly better.])
+(;B[sd];W[rg];B[sa];W[sb]))
+(;B[rg];W[sc]
+(;B[sf]C[Close, but you could have done slightly better.])
+(;B[sd];W[sf];B[sa];W[sb]))
+(;B[re];W[sc]C[dead]))
+(;B[sf];W[re]
+(;B[sd];W[rf]C[dead])
+(;B[se];W[sc]
+(;B[rf]C[Close, but you could have done better.])
+(;B[sd]C[White cannot do anything useful, whereas black can capture at T19 at any moment.RIGHT]))
+(;B[rf];W[sc];B[se]C[Close, but you could have done better.]))
+(;B[sc];W[re]
+(;B[sa];W[rf]C[Not even ko])
+(;B[se];W[sd]))
+(;B[sd];W[rf]
+(;B[sf];W[re]C[Dead by damezumari])
+(;B[re];W[sf]))
+(;B[qa]C[NOTTHIS]))

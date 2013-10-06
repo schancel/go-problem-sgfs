@@ -1,0 +1,86 @@
+(;GE[joseki]DI[3d]DP[10]SO[adum]CO[7]GM[1]FF[3]
+SZ[19]KM[0.5]
+PW[pakpakpak]
+WR[4k*]
+PB[adum]
+BR[5k*]
+DT[2000-10-31]
+SY[Cgoban 1.9.8];AW[ec][gc][cd][dd]AB[cc][dc][ed]
+LB[cd:1][ed:2][gc:3][cc:4][dd:5][dc:6][ec:7]
+C[how should black respond after 7?
+]
+(;B[bd];W[ee]C[good start. now...
+]
+(;B[fd];W[fc]
+(;B[be];W[ge]
+(;B[de];W[gd]C[RIGHT
+equal result
+])
+
+(;B[ce];W[de]C[this is the wrong atari
+])
+
+(;B[fe];W[ff])
+)
+
+(;B[fe]TR[fd][fe][ed]C[the marked stones now become heavy: bad
+])
+
+(;B[gd];W[hd]TR[gd][fd][ed]C[heavy stones
+])
+
+(;B[ge]TR[ed][fd][ge]
+C[these stones are a liability as the corner is not safe yet.
+])
+)
+
+(;B[eb];W[fd]C[white is too strong
+])
+
+(;B[de];W[ce]
+(;B[df];W[fd])
+
+(;B[fd];W[fc])
+)
+
+(;B[ce];W[fd])
+)
+
+(;B[eb];W[fc]
+(;B[bd];W[be];B[bc];W[cf]C[bad for black: sealed in
+])
+
+(;B[ee];W[bc];B[bb];W[bd])
+)
+
+(;B[ee];W[bc];B[bb];W[bd];B[eb];W[fc];B[cf];W[ef];B[de];W[ce];B[df];
+W[bf];B[bg];W[ae];B[ac];W[cb];B[db];W[ca];B[da];W[fb];B[ba];W[ab];
+B[aa];W[fa]
+(;B[ab];W[cb];B[ca];W[ea])
+
+(;B[ag];W[af];B[ab];W[cb];B[ca];W[ea])
+)
+
+(;B[fc];W[eb]
+(;B[fd];W[fb])
+
+(;B[fb];W[fd];B[ee];W[gb]
+(;B[fe];W[fa];B[bd]C[good for white
+])
+
+(;B[bd]C[good for white
+])
+)
+)
+
+(;B[ce];W[bd])
+
+(;B[de];W[ce])
+
+(;B[fe];W[fd])
+
+(;B[fb];W[fc];B[eb];W[ee])
+
+(;B[gd];W[fd];B[ee];W[cf])
+
+)

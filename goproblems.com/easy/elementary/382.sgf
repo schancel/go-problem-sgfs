@@ -1,0 +1,38 @@
+(;GE[elementary]DI[12k]DP[55]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]C[white to live
+]
+AW[lp][mp][np][op][lq][oq][ir][kr][lr][or][pr][js][ms][ps]
+AB[jn][ln][jo][mo][no][oo][pp][fq][hq][iq][jq][nq][pq][qq][gr][jr][mr][nr][qr][ns][qs]
+(;W[ks]
+C[RIGHT
+now there's no way for black to prevent two white eyes
+])
+
+(;W[mq];B[ks]
+(;W[os];B[nr]C[white has but one eye
+])
+
+(;W[ls]C[only one eye for white
+])
+)
+
+(;W[os];B[ks]
+(;W[mq];B[nr]C[one eye
+])
+
+(;W[ls]C[one eye
+])
+)
+
+(;W[ls]
+C[bad placement: after white kill the black stones, there's only one eye
+])
+
+(;W[hr];B[ks])
+
+)

@@ -1,0 +1,104 @@
+(;GE[life and death]DI[7k]DP[41]SO[pseudog]CO[0]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[fa][fb][bc][fc][bd][cd][dd][ed][fd]AB[ea][bb][eb][cc][dc][ec]LB[sa:239]
+(;B[ab]
+(;W[ac]
+;B[ca]C[RIGHT])
+(;W[aa]
+;B[ba]
+;W[cb]
+;B[ca]C[RIGHT])
+(;W[ba]
+;B[ca]
+;W[cb]
+;B[aa]C[RIGHT])
+(;W[ca]C[CHOICE]
+(;B[cb]C[RIGHT d19 and b19 miai])
+(;B[ba]
+;W[cb]C[Big mistake.])
+(;B[db]
+;W[cb]C[Big mistake.])
+(;B[da]
+;W[cb]C[Big mistake.]))
+(;W[cb]C[CHOICE]
+(;B[ca]
+(;W[ac]
+;B[db]C[RIGHT 3 eyes...])
+(;W[ba]C[CHOICE]
+(;B[aa]C[RIGHT]
+;W[ac]C[RIGHT alive but you gave a bonus ko threat to white])
+(;B[db]C[RIGHT])))
+(;B[aa]
+;W[da]C[dead])
+(;B[ba]
+;W[da]C[dead])
+(;B[da]
+;W[ca]C[?????]))
+(;W[da]
+(;B[ca]C[RIGHT]
+;W[cb]
+;B[db]C[RIGHT])
+(;B[cb]C[RIGHT])
+(;B[ba]
+;W[cb]C[Big mistake.])
+(;B[aa]
+;W[cb]C[Big mistake.]))
+(;W[db]
+;B[cb]C[RIGHT no ko threats]))
+(;B[ac]
+(;W[ca]
+(;B[ba]
+;W[ab]
+;B[cb]
+;W[da]C[only one eye])
+(;B[ab]
+;W[cb]
+;B[ba]
+;W[ad]C[dead])
+(;B[cb]
+;W[da]
+(;B[ab]
+;W[ba]C[Only seki.])
+(;B[ba]
+;W[ab]C[dead.])))
+(;W[ab]C[CHOICE]
+(;B[aa]
+;W[ca]C[one eye, dead.])
+(;B[ca]
+;W[ad]
+;B[db]
+;W[ba]C[ko, black can do better.])))
+(;B[aa]
+;W[ca]C[dead shape])
+(;B[ba]
+;W[ab]C[dead shape])
+(;B[ca]
+;W[ab]
+(;B[db]
+;W[ba]C[ko, Black can do better.])
+(;B[ba]
+;W[db]C[dead.])
+(;B[aa]
+;W[ba]C[ko, Black can do better.]))
+(;B[cb]
+;W[ab]
+(;B[aa]
+;W[da]C[dead.])
+(;B[ba]
+;W[da]C[dead]))
+(;B[da]
+;W[ab]
+(;B[aa]
+;W[ba]C[dead])
+(;B[ca]
+;W[bf]C[dead in gote, shame on you.])
+(;B[ba]
+;W[cb]C[dead])
+(;B[cb]
+;W[ba]C[dead.]))
+(;B[db]
+;W[ca]
+(;B[ab]
+;W[ba]C[dead])
+(;B[ba]
+;W[ab]C[dead])))

@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[38]SO[morten]CO[0]AB[bc]AB[bd]AB[ae]AB[be]AB[ce]AB[bf]AB[cb]AB[db]AB[dc]AB[eb]AB[da]AB[fc]AB[gc]AB[gb]AW[af]AW[ag]AW[bg]AW[cf]AW[df]AW[de]AW[dd]AW[cd]AW[cc]AW[ec]AW[ed]AW[fb]AW[bb]C[Black to play. Tenuki (K17) as soon as you can to keep sente.]LB[jc:Tenuki?]AP[goproblems]
+(;B[ab];W[ba]C[Tenuki (K17) if you want to]LB[jc:Tenuki?]
+(;B[ac]C[Nice. You cannot live in sente.RIGHT])
+(;B[fa];W[ac]C[Oops])
+(;B[jc];W[ac]C[Oops]))
+(;B[ba];W[ab]LB[jc:Tenuki?]C[Tenuki (K17) if you want to]
+(;B[ac]C[];W[ad]C[Oops])
+(;B[fa];W[ac]C[Oops])
+(;B[jc];W[ac]C[Oops]))
+(;B[fa];W[ac]C[Oops])
+(;B[jc];W[ac]C[Oops])
+(;B[ac];W[ab]C[Oops])
+(;B[ad];W[ac]C[You were trying to be funny, right? White didn't even have to play the last move...])
+(;B[cg];W[ac]C[Oops]))

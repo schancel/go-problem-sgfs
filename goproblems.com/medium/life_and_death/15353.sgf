@@ -1,0 +1,31 @@
+(;GE[life and death]DI[3d]DP[10]SO[aphelionx]CO[0]AB[bb]AB[dc]AB[fb]AB[da]AB[ed]AW[gb]AW[gc]AW[gd]AW[fe]AW[ee]AW[de]AW[ce]AW[bf]AW[bd]C[Can you find a way to kill Black in the corner?]SZ[13]AP[goproblems]
+(;W[eb];B[fc]
+(;W[cb];B[cc];W[db];B[ea]
+(;W[bc];B[ab];W[ca];B[fa]
+(;W[ba];B[ec];W[ac];B[aa];W[cb]C[Congratulations! You found a way! Tricky no?RIGHT])
+(;W[ac];B[ec];W[ba];B[aa];W[cb]C[Congratulations you did it! Easy?RIGHT]))
+(;W[ca];B[fa]C[NOTTHIS])
+(;W[ab];B[bc];W[ac];B[ba]C[NOTTHIS]))
+(;W[fa];B[ea];W[cb];B[cc];W[db];B[ga]
+(;W[ca];B[bc]C[NOTTHIS])
+(;W[bc];B[ab];W[ca];B[fa];W[ba];B[jb]C[So close... but... black gets away!NOTTHIS])))
+(;W[bc];B[cb]C[NOTTHIS])
+(;W[ab];B[eb];W[cb];B[cc];W[bc];B[ba]C[This was my attempt too, but... no dice!NOTTHIS])
+(;W[cb];B[cc]
+(;W[eb];B[db]C[NOTTHIS])
+(;W[bc];B[ab]C[NOTTHIS])
+(;W[fc];B[eb];W[bc];B[ab]C[NOTTHIS])
+(;W[fa];B[eb]C[NOTTHIS]))
+(;W[fc];B[eb]
+(;W[fa]C[NOTTHIS];B[bc]C[NOTTHIS])
+(;W[cb];B[cc];W[ab];B[fa]C[NOTTHIS])
+(;W[ab];B[cb]C[NOTTHIS])
+(;W[cc];B[cb]C[NOTTHIS]))
+(;W[cc];B[cb]
+(;W[fc];B[ec]C[NOTTHIS])
+(;W[fa];B[eb]C[NOTTHIS])
+(;W[eb];B[fc]C[NOTTHIS]))
+(;W[fa];B[eb]
+(;W[bc];B[cb]C[NOTTHIS])
+(;W[ab];B[cb]C[NOTTHIS])
+(;W[cb];B[cc];W[bc];B[ab]C[NOTTHIS])))

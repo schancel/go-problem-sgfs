@@ -1,0 +1,63 @@
+(
+;GE[endgame]DI[4d]DP[7]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AB[bb][cc][dc][ec][fc][eb][gb][ga]
+AW[ha][hb][hc][gc][fd][ed][dd][cd][bd][bc]
+C[warning: this is an endgame problem. the black stones are completely safe.]
+GN[temp]
+(
+;
+W[da]
+(
+;
+B[ca]
+;
+W[ab]
+;
+B[ba]
+LB[ea:a][db:b]
+C[RIGHT now black needs to play two more moves inside at a and b.]
+)
+(
+;
+B[db]
+C[wrong defence.]
+;
+W[ba]
+;
+B[cb]
+;
+W[ab]
+;
+B[ea]
+C[RIGHT black still lives, but looses points]
+)
+)
+(
+;
+W[ab]
+;
+B[ba]
+;
+W[da]
+;
+B[db]
+LB[ea:a]
+C[black only needs to play one more move inside at a.]
+)
+(
+;
+W[ba]
+;
+B[cb]
+;
+W[ab]
+;
+B[ca]
+C[5 points for black. the same as the correct solution. but black can exchange a for b, making this 2/3 of a point worse for white. (a ko with no further implications is worth 1/3 of a point, because one side needs 1 move to connect, and the other side needs 2 moves to capture and connect, making it 1 point for 3 moves)]
+LB[aa:a][ac:b]
+)
+)

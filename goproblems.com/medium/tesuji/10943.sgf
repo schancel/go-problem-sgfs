@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[2k]DP[23]SO[briv]CO[0]AB[cq]AB[dq]AB[fq]AB[cn]AB[bn]AB[cl]AB[dm]AB[em]AB[fm]AB[gm]AB[ck]AB[bk]AB[cj]AB[dj]AB[ci]AB[bi]AB[bh]AB[dh]AB[eh]AB[fh]AB[gg]AB[hh]AB[gi]AB[hj]AB[ik]AB[il]AB[hl]AB[ce]AB[be]AB[bc]AB[cc]AB[dd]AB[ed]AB[fd]AB[gd]AB[ge]AW[cd]AW[bd]AW[de]AW[ee]AW[fe]AW[ff]AW[gf]AW[he]AW[ic]AW[hg]AW[ig]AW[ji]AW[gk]AW[hk]AW[gl]AW[fk]AW[el]AW[dl]AW[cf]AW[cg]AW[ch]AW[bg]AW[di]AW[ei]AW[fi]AW[fj]AW[hm]AW[cm]AW[bm]AW[bl]AW[an]AW[bo]AW[cp]AW[dp]AW[dn]AW[en]AW[gj]AB[km]AB[lp]TR[di]TR[ei]TR[fi]TR[fj]TR[fk]TR[gj]TR[gk]TR[hk]TR[gl]AP[goproblems]
+(;W[ij]
+(;B[hi]
+(;W[im];B[jm];W[gn];B[hn];W[in];B[fn]
+(;W[fo];B[go];W[fl];B[gn];W[gp];B[ho]
+(;W[io];B[hp]C[Good job !RIGHT])
+(;W[hp];B[io]C[Aaaargh ! What a mistake ! This ladder doesn't work :-(]))
+(;W[go];B[fo]C[Black is out]))
+(;W[ii];B[ek]C[White is dead])
+(;W[ih];B[ek]C[White is dead])
+(;W[hn];B[ek]C[White is dead])
+(;W[gn];B[hn];W[im];B[in];W[jm];B[jl];W[jn];B[jo]C[White is dead])
+(;W[fg];B[ek]C[White is dead]))
+(;B[ii]C[NOTTHIS];W[jj]
+(;B[hn];W[ih])
+(;B[gh];W[im];B[jl];W[gn])))
+(;W[im];B[ek]C[];W[ij];B[ii]C[Ko and last hope for black])
+(;W[fg];B[ek];W[gh]C[Black can find a ko like this])
+(;W[hn];B[ek]C[White is dead])
+(;W[gn];B[hn]
+(;W[im];B[in];W[jm];B[jl];W[jn];B[jo]C[White is dead])
+(;W[ij];B[ii]C[Ko])))

@@ -1,0 +1,42 @@
+(;GE[life and death]DI[7k]DP[42]SO[santa c]CO[8]AB[ba]AB[bb]AB[cb]AB[db]AB[da]AB[cc]AB[cd]AW[bc]AW[bd]AW[ce]AW[dd]AW[dc]AW[ec]AW[eb]AW[ea]AB[ga]AB[gb]AB[gc]AB[fc]AB[gd]AB[fe]AB[ee]AW[ra]AW[rb]AW[qb]AW[pb]AW[pa]AW[qc]AW[qd]AB[pc]AB[oc]AB[ob]AB[oa]AB[pd]AB[qe]AB[rd]AB[rc]AW[nc]AW[mc]AW[mb]AW[ma]AW[md]AW[ne]AW[oe]C[Can black kill the (marked) white group? Play at NO, if you think he can't.FORCE]LB[pa:o]LB[pb:o]LB[qb:o]LB[qc:o]LB[qd:o]LB[rb:o]LB[ra:o]LB[jd:NO]AB[qg]AB[pg]AB[qh]AB[rh]AW[cg]AW[dg]AW[ch]AW[bh]LB[sb:K]AP[goproblems]
+(;B[sb];W[re]
+(;B[se];W[rf]
+(;B[rg];W[sc]
+(;B[sd];W[sf]C[White's alive!])
+(;B[sf];W[sd]C[White's alive!])
+(;B[qf];W[sd]C[White's alive!])
+(;B[pe];W[sd]C[White's alive!]))
+(;B[qf];W[sc]
+(;B[sd];W[sf]C[White's alive!])
+(;B[sf];W[sd]C[White's alive!])
+(;B[rg];W[sd]C[White's alive!])
+(;B[pe];W[sd]C[White's alive!]))
+(;B[sf];W[pe];B[qf]C[White can tenuki - K16.FORCE]LB[jd:T];W[jd]C[White tenukied.]LB[jd:T]
+(;B[rg]C[This is just wasting another turn - White can tenuki again! !])
+(;B[sc];W[od];B[sd];W[nb];B[sa];W[na]C[White's alive!])
+(;B[sd];W[od];B[sc];W[nb];B[sa];W[na]C[White's alive!]))
+(;B[pe]C[White can tenuki.. (K16)FORCE]LB[jd:T];W[jd]C[White tenukied.]LB[jd:T]
+(;B[qf];W[sc]
+(;B[rg];W[sd]C[White's alive!])
+(;B[sf];W[sd]C[White's alive!])
+(;B[sd];W[sf]C[White's alive!]))
+(;B[rg];W[sc]
+(;B[sd];W[sf]C[White's alive!])
+(;B[sf];W[sd]C[White's alive!])
+(;B[qf];W[sd]C[White's alive!]))
+(;B[sf];W[sc]
+(;B[sd];W[sg]C[White's alive!])
+(;B[sg];W[sd]C[White's alive!])
+(;B[qf];W[sd]C[White's alive!])
+(;B[rg];W[sd]C[White's alive!]))
+(;B[sc];W[sf]C[Ko - Black needs to win it twice to kill. This is the best he can get, it seems.])))
+(;B[rf];W[pe]
+(;B[se];W[od];B[sc];W[nb];B[sa];W[na]C[White's alive!])
+(;B[sc];W[od];B[se];W[nb];B[sa];W[na]C[White's alive!])
+(;B[qf]C[White can tenuki.. (K16)FORCE]LB[jd:T];W[jd]C[White tenukied.]LB[jd:T]
+(;B[sc];W[od];B[se];W[nb];B[sa];W[na]C[White's alive!])
+(;B[se];W[od];B[sc];W[nb];B[sa];W[na]C[White's alive!])))
+(;B[pe]C[White can easily play at S14 here for wS14 b takes a liberty, from any direction, and wT17 for life.];W[se]C[White's alive!];B[rf];W[sd]
+(;B[sf];W[sc]C[White's alive!])
+(;B[sc];W[sa]C[White's alive!])))
+(;B[jd]C[];W[ab]C[That's right! ^.^ (Black can save by playing either of the 2 marked locations.)FORCERIGHT]LB[be:S]LB[de:S]))

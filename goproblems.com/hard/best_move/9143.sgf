@@ -1,0 +1,16 @@
+(;GE[best move]DI[4d]DP[7]SO[tom111]CO[7]AB[er]AB[eq]AB[fp]AB[fn]AB[gn]AB[eo]AB[io]AB[jp]AB[kp]AB[lq]AB[pq]AB[qp]AW[nq]AW[jq]AW[jr]AW[ip]AW[hp]AW[hq]AW[gq]AW[fr]AB[iq]AB[ir]C[White to live with Sente.]AP[goproblems]
+(;W[ks];B[mr]
+(;W[kq];B[lr]
+(;W[hr];B[lp]C[RIGHT])
+(;W[is];B[lp]C[Note that H2 makes a better shape....RIGHT]))
+(;W[hr]C[Still Gote :(])
+(;W[lr];B[kq]
+(;W[kr];B[mq]C[White needs to add a move here...])
+(;W[mq];B[kr])))
+(;W[hr]C[Black will not answer since White cannot connect O3.])
+(;W[kr];B[lr]C[White needs to add a move here ....])
+(;W[lr];B[kr]
+(;W[hr];B[kq]C[Black Sente....])
+(;W[ks];B[kq]C[White is dead.  :(]))
+(;W[kq];B[js]C[Ouch....])
+(;W[is]C[Black will not respond since White cannot connect O3.]))

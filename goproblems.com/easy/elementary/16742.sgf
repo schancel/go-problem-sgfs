@@ -1,0 +1,13 @@
+(;GE[elementary]DI[30k]DP[100]SO[1234boys]CO[0]SZ[13]AB[jd]AW[dj]TR[ij]TR[ji]TR[kj]TR[kk]TR[jk]TR[jj]TR[dd]TR[cd]TR[cc]TR[dc]TR[ed]TR[de]AP[goproblems]
+(;B[kk];W[cc]C[RIGHT])
+(;B[jj];W[dd]C[RIGHT])
+(;B[jk];W[dc]C[RIGHT])
+(;B[ij];W[ed]C[RIGHT])
+(;B[ji];W[de]C[RIGHT])
+(;B[kj];W[cd]C[RIGHT])
+(;B[cc];W[kk]C[RIGHT])
+(;B[dd];W[jj]C[RIGHT])
+(;B[dc];W[jk]C[RIGHT])
+(;B[cd];W[kj]C[RIGHT])
+(;B[de];W[ji]C[RIGHT])
+(;B[ed];W[ij]C[RIGHT]))

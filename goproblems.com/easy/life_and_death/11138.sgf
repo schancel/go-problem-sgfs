@@ -1,0 +1,10 @@
+(;GE[life and death]DI[5k]DP[35]SO[Field Mouse]CO[0]AB[sc]AB[rc]AB[qc]AB[pc]AB[oc]AB[ob]AB[oa]AW[na]AW[nb]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[rd]AW[sd]AW[sb]AB[pa]C[White to get the best result possible in the words of common game. Killing black is better than killing in ko, killing in ko is better than seki and seki is better than being captured...]AP[goproblems]
+(;W[ra];B[qb];W[rb]C[Gote seki.])
+(;W[rb];B[qb];W[ra]C[Gote seki.])
+(;W[qb]
+(;B[ra];W[rb];B[qa]C[Sente seki! :)RIGHT])
+(;B[rb];W[ra];B[sa]C[Black can choose to play this two step ko for white, but that is quite risky (depends on the rest of the board)RIGHT]))
+(;W[qa];B[ra]
+(;W[qb];B[rb])
+(;W[rb];B[qb]))
+(;W[pb];B[qb]C[:)]))

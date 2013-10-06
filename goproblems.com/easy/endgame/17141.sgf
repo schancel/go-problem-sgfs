@@ -1,0 +1,11 @@
+(;GE[endgame]DI[12k]DP[58]SO[1234boys]CO[0]SZ[5]AB[eb]AB[db]AB[da]AW[ba]AW[bb]AW[ab]AB[ed]AB[dd]AB[de]AW[ad]AW[bd]AW[be]AW[ce]AW[cb]AW[ca]C[( Japanese role )]AP[goproblems]
+(;B[cc]
+(;W[cd]
+(;B[bc];W[dc];B[ec];W[ac];B[dc]C[RIGHT])
+(;B[dc];W[bc]))
+(;W[dc]
+(;B[bc];W[cd];B[ec];W[ac];B[dc]C[RIGHT])
+(;B[cd];W[bc]C[RIGHT]))
+(;W[bc];B[cd]C[RIGHT]))
+(;B[dc];W[cc])
+(;B[cd];W[cc];B[dc]))

@@ -1,0 +1,33 @@
+(;GE[endgame]DI[2d]DP[14]SO[munisai79]CO[5]AB[ob]AB[nb]AB[mb]AW[ma]AW[lb]AW[mc]AW[nc]AW[oc]AB[pc]AB[pd]AB[qd]AB[re]AB[qf]AB[rg]AB[pi]AB[ph]AB[pg]AB[qj]AB[rj]AW[qi]AW[ri]AW[pj]AB[ql]AW[oj]AW[oi]AW[oh]AW[og]AW[pf]AW[pe]AW[qe]AW[oe]AW[od]C[White to play in the endgame.]AP[goproblems]
+(;W[pb]
+(;B[rc]C[CHOICE]
+(;W[qb];B[rb]
+(;W[ra]C[Good job!RIGHT])
+(;W[qc];B[rd];W[oa];B[qa];W[na]C[White could get more.]))
+(;W[oa];B[qb]C[White could get more.])
+(;W[rb];B[qb])
+(;W[na];B[qb]C[White could get more.]))
+(;B[qb]C[Black fails.];W[rd];B[pa];W[qg];B[qh];W[rh];B[qg];W[sg];B[rf];W[se]C[RIGHT])
+(;B[qc]C[Black should not play here...];W[rc]
+(;B[rd];W[qb];B[rb];W[ra];B[sc];W[oa]C[Slightly better for white than the solution.RIGHT])
+(;B[qb]
+(;W[rd]
+(;B[rb];W[qg];B[qh];W[rh];B[qg];W[sg];B[rf];W[se]C[RIGHT])
+(;B[rh];W[rb];B[pa];W[ra]
+(;B[qa];W[na]C[RIGHT])
+(;B[sd];W[qa];B[pb];W[na]C[RIGHT])))
+(;W[qg];B[qh];W[rh];B[qg];W[sg];B[rf];W[rd];B[si];W[rb]C[RIGHT]))))
+(;W[qg];B[qh]
+(;W[rh];B[qg]
+(;W[sg];B[rf]
+(;W[rd];B[rc]
+(;W[pb]C[];B[qc]
+(;W[qb];B[rb]
+(;W[ra];B[pa];W[sd];B[si])
+(;W[oa];B[qa];W[na]C[White can get more.]))
+(;W[oa];B[qb];W[na]C[White can get more.])
+(;W[rb];B[qb];W[sd];B[si]))
+(;W[sd];B[sc];W[pb]C[Why waste ko threats?]))
+(;W[pb]C[Why waste ko threats?]))
+(;W[pb]C[Why waste the ko threats?]))
+(;W[pb]C[Why waste the ko threat?])))

@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[7k]DP[43]SO[naustin]CO[0]AB[aq]AB[bq]AB[bp]AB[cp]AB[dp]AB[eq]AB[fq]AB[es]AW[ep]AW[eo]AW[do]AW[co]AW[bo]AW[cq]AW[dq]AW[br]AW[as]C[Black to save his five stones.]AP[goproblems]
+(;B[cr];W[dr]
+(;B[cs]C[RIGHT])
+(;B[ds];W[cs];B[er];W[cr]))
+(;B[dr];W[cr];B[cs];W[ao]
+(;B[ds];W[ap];B[bs];W[ar])
+(;B[bs];W[ds];B[cs]))
+(;B[cs];W[cr];B[dr];W[ao];B[bs];W[ds];B[cs];W[ap])
+(;B[ds];W[ar])
+(;B[bs];W[cs]
+(;B[dr];W[cr];B[ds];W[ao])
+(;B[cr];W[dr];B[ds];W[ar];B[er];W[ap])))

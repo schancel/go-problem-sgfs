@@ -1,0 +1,34 @@
+(;GE[tesuji]DI[5k]DP[32]SO[maba]CO[6]AB[bf]AB[cf]AW[bg]AW[cg]AW[df]AW[ef]AB[ee]AB[de]AB[ff]AB[fe]AW[fg]AW[fh]AW[gh]AB[dg]AW[dj]AW[bl]AW[cl]AW[dl]AW[el]AW[fl]AW[gl]AB[fk]AB[gk]AB[hj]AB[hi]AB[hh]AB[gg]AB[hf]LB[dg:1]C[White to answer black 1 in the best way.]AB[be]AW[af]AP[goproblems]
+(;W[eg];B[dh]
+(;W[di]
+(;B[ch]
+(;W[bh];B[ci]
+(;W[bi]C[RIGHT])
+(;W[cj];B[bi]
+(;W[bj];B[ah])
+(;W[ai];B[ah];W[ag];B[ae]))
+(;W[bj];B[bi];W[ai];B[ah];W[ag];B[ae]))
+(;W[ci];B[bh])
+(;W[bi];B[bh])
+(;W[eh];B[bh]))
+(;B[eh];W[ei];B[ch];W[bh];B[ci];W[cj];B[bi];W[bj];B[ai];W[aj];B[ah];W[ag]C[RIGHT])
+(;B[bh];W[ch];B[ci];W[eh]C[RIGHT])
+(;B[ei];W[eh];B[ch];W[bh];B[ci];W[cj];B[bi];W[bj];B[ai];W[aj];B[ah];W[ag]C[RIGHT])
+(;B[ci];W[ch]C[RIGHT]))
+(;W[ch];B[ei]
+(;W[ej];B[fi])
+(;W[di];B[eh]
+(;W[ej];B[fi])
+(;W[fi];B[ej]))
+(;W[eh];B[di])
+(;W[fi];B[ej]))
+(;W[ci];B[ei]
+(;W[ej];B[fi])
+(;W[fi];B[ej]))
+(;W[ei];B[bh];W[ch];B[ci])
+(;W[eh];B[di]
+(;W[ci];B[ei])
+(;W[ei];B[bh]
+(;W[ch];B[ci])
+(;W[ci];B[ch]))))
+(;W[dh];B[eg]C[No need to give up those stones.]))

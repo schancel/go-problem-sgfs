@@ -1,0 +1,86 @@
+(;GE[best move]DI[3d]DP[10]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[5.5]TM[1800,0,30,5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]
+;AW[dn][gp][hp][eq][fq][cr]AB[do][fo][go][ho][dp][fp][jp][pp]C[black's best move? (hint: around existing stones)
+]
+(;B[hr]
+(;W[iq]
+(;B[jq]
+;W[ir]
+(;B[jr]
+;W[js]
+(;B[ks]
+;W[is]LB[lr:A]C[please play at A. no, i'm not trying to trick you...
+]
+;B[lr]
+;W[io]C[white shouldn't do this, but if she does...?
+]
+(;B[ip]
+;W[hq]C[white needs this move: hence this sequence
+]
+(;B[in]
+;W[jo]
+(;B[kn]C[RIGHT
+white caught in a net
+])
+(;B[ko]C[oh so close, but tragically wrong. net is better.
+]))
+(;B[gr]
+;W[gq]C[now that's just a wasted ko-threat
+]))
+(;B[jo]
+;W[ip]
+;B[in]
+;W[gq]C[black has two cutting points. there exists a better option
+]))
+(;B[ip]
+;W[hq]
+;B[ks]
+;W[is]
+;B[lr]
+;W[io]
+;B[in]C[RIGHT
+]))
+(;B[ip]
+;W[jr]
+(;B[hq]
+;W[gq]
+(;B[kr]
+;W[gr])
+(;B[gr]
+;W[fr]))
+(;B[gq]
+;W[hq]
+;B[gr]
+;W[kr])))
+(;B[ir]
+;W[jq]C[black's in deep doo-doo
+])
+(;B[ip]
+;W[ir]CR[ir]C[this sequence is inferior for black. the reason is complicated, so explore the correct answer]))
+(;W[gr]C[this is how white should answer in reality
+]))
+(;B[dq]
+;W[dr]C[aji-keshi: no good
+])
+(;B[ip])
+(;B[ip]
+;W[hr]LB[io:A][jr:B]C[not good: white has the cut at A and an open skirt at B
+])
+(;B[bq]
+;W[br])
+(;B[dr]
+;W[dq]
+;B[cq]
+;W[bq]
+;B[cp]
+;W[br])
+(;B[cq]
+;W[br])
+(;B[iq]
+;W[hr]LB[io:A]C[white has a cut at A
+])
+(;B[cn]C[not urgent
+])
+(;B[gr]
+;W[hr]C[bad
+]))

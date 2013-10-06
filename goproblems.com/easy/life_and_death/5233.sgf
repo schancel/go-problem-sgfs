@@ -1,0 +1,11 @@
+(;GE[life and death]DI[6k]DP[37]SO[zinger]CO[8]AB[qs]AB[qr]AB[qq]AB[qp]AB[qo]AB[pr]AB[nr]AB[ns]AB[pn]AB[on]AW[ps]AW[os]AW[or]AW[oq]AW[pq]AW[pp]AW[po]AW[mo]AW[qn]AW[qm]AW[ro]AW[rp]AP[goproblems]
+(;B[nq];W[np]
+(;B[no];W[mp];B[op];W[oo];B[op]C[Bingo !RIGHT])
+(;B[oo];W[op]C[White escapes, and black is dead in the corner.])
+(;B[mp];W[no]C[White escapes, and black is dead in the corner.])
+(;B[op];W[oo]C[White escapes, and black is dead in the corner.]))
+(;B[np];W[rq]C[Black dies.])
+(;B[no];W[rq]C[Black dies.])
+(;B[oo];W[nq];B[mq];W[np]C[White escapes, and black is dead in the corner.])
+(;B[mp];W[no];B[oo];W[np]C[White escapes, and black is dead in the corner.])
+(;B[rq];W[nq]C[White escapes, and black is dead in the corner.]))

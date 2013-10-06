@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1k]DP[20]SO[santa c]CO[0]AB[ap]AB[bp]AB[cq]AB[dq]AB[er]AW[ao]AW[bo]AW[cp]AW[dp]AW[eq]AW[fr]AW[co]C[b to live]AW[gr]AP[goproblems]
+(;B[bq]
+(;W[es]
+(;B[dr]
+(;W[br];B[ar];W[cs];B[ds];W[as];B[bs]C[ah! but there's a better solution than ko!])
+(;W[ar];B[br]LB[cs:1]LB[ds:2])
+(;W[cs]
+(;B[ds];W[br];B[ar])
+(;B[ar];W[br]))
+(;W[bs];B[cs]MA[br]MA[ar]))
+(;B[bs];W[ar])
+(;B[br];W[cs])
+(;B[cs];W[dr]MA[ar]MA[cr])
+(;B[ar];W[bs]))
+(;W[dr];B[cr]MA[es]MA[ar])
+(;W[ar];B[ds])
+(;W[br];B[ar])
+(;W[cr];B[dr])
+(;W[ds];B[cr]MA[es]MA[ar])
+(;W[cs];B[ds])
+(;W[bs];B[ds]))
+(;B[br];W[ar]MA[bq]MA[dr])
+(;B[cr];W[bq]LB[br:1]LB[ar:2])
+(;B[ar]
+(;W[es]
+(;B[br]C[nice! :)RIGHT])
+(;B[bq];W[bs])
+(;B[dr]C[see following problem])
+(;B[cs];W[bq])
+(;B[cr];W[bq]LB[br:1]LB[aq:2]LB[ds:3]LB[dr:4]))
+(;W[bq];B[br]C[RIGHT])
+(;W[dr];B[cr]C[RIGHT]))
+(;B[cs];W[bq]LB[br:1]LB[ar:2])
+(;B[dr];W[bq]LB[br:1]LB[ar:2])
+(;B[ds];W[bq]LB[br:1]LB[ar:2]))

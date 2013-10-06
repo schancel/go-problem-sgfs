@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5k]DP[35]SO[kuche12345]CO[0]AB[cr]AB[cq]AB[cp]AB[bp]AB[ap]AB[dp]AB[ep]AW[br]AW[bq]AW[cs]AW[dr]AW[dq]AW[eq]AW[fq]AW[fp]AW[hq]AW[eo]AW[do]AW[co]AW[cn]AW[bn]AW[an]AB[bm]AB[cm]AB[dn]AB[en]AB[fn]AB[fo]C[Black to capture the marked stones.]TR[an]TR[bn]TR[cn]TR[co]TR[do]TR[eo]AP[goproblems]
+(;B[bs]
+(;W[as]
+(;B[aq];W[ds]
+(;B[am];W[bs]
+(;B[bo];W[ar];B[ao]C[RIGHT])
+(;B[ao]C[RIGHT]))
+(;B[bo];W[bs];B[am])
+(;B[ao]C[RIGHT]))
+(;B[am];W[aq]C[seki :(]))
+(;W[ds];B[am];W[as];B[aq];W[bs];B[bo]))
+(;B[ds];W[bs];B[am];W[aq];B[ar];W[es])
+(;B[ar];W[bs];B[am];W[aq]C[only seki])
+(;B[am];W[aq]C[seki :(])
+(;B[bo];W[aq];B[am];W[ao])
+(;B[ao];W[aq];B[am];W[bo])
+(;B[aq];W[bs];B[am];W[ar]C[seki :(]))

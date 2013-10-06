@@ -1,0 +1,54 @@
+(;GE[life and death]DI[5k]DP[32]SO[Rainier]CO[6]SZ[9]AW[fb]AW[ec]AW[gc]AW[cd]AW[he]AW[gf]AW[hf]AW[eg]AW[fg]AW[hg]AW[ig]AW[dh]AW[di]AW[ei]AB[fc]AB[gd]AB[hd]AB[id]AB[ee]AB[ge]AB[ie]AB[cf]AB[ef]AB[ff]AB[if]AB[dg]AB[ch]AB[ci]TR[fb]C[White played marked stone punish his oversight in the bottom corner...kill him unconditionally]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Cybersteve292]PB[Enigmamod]
+(;B[fh]
+(;W[eh]
+(;B[gh];W[gg];B[hh]C[Actual game sequence.CHOICERIGHT])
+(;B[fi];W[gg]
+(;B[gh];W[hh]LB[gi:A]LB[hi:B]C[A and B reflect for life.])
+(;B[hi];W[gh];B[gi];W[ih]C[Dual Life not good enough])))
+(;W[gh];B[fi];W[gi];B[eh]
+(;W[hi]
+(;B[ih]LB[gg:A]C[A is a false eyeCHOICERIGHT])
+(;B[gg];W[ih]C[White lives...]))
+(;W[hh]
+(;B[ii]LB[gg:A]C[A is a false eyeCHOICERIGHT])
+(;B[gg];W[ii]C[White lives...]))
+(;W[ih]
+(;B[hi]LB[gg:A]C[A is a false eyeCHOICERIGHT])
+(;B[gg];W[hi]C[White lives...])))
+(;W[fi];B[gh];W[gg]
+(;B[gi];W[eh]
+(;B[hh]C[CHOICERIGHT])
+(;B[ih]C[A is a false eyeCHOICERIGHT])
+(;B[hi];W[ih]
+(;B[hh];W[ii];B[gh]C[CHOICERIGHT])
+(;B[ii];W[hh]LB[gh:A]LB[gi:B]C[A and B reflect for life]))
+(;B[ii];W[hh];B[hi];W[ih]LB[gh:A]LB[gi:B]C[A and B reflect for life]))
+(;B[hh];W[gi]
+(;B[hi]C[CHOICERIGHT])
+(;B[ih]C[CHOICERIGHT])
+(;B[eh]C[RIGHT]))
+(;B[hi];W[hh];B[gi]C[CHOICERIGHT])
+(;B[eh]C[RIGHT])))
+(;B[gh];W[fh]
+(;B[gi]
+(;W[hi]
+(;B[fi]C[CHOICERIGHT])
+(;B[hh];W[gg]
+(;B[ih]C[Dual life not good enough.])
+(;B[ii];W[fi]C[Dual life not good enough.])
+(;B[fi];W[ih]C[White lives...])))
+(;W[fi];B[gg]C[CHOICERIGHT]))
+(;B[gg];W[hh]C[White lives...])
+(;B[hh];W[gg]C[White lives...]))
+(;B[fi];W[fh]
+(;B[eh];W[gh];B[gi];W[hi]C[White lives...])
+(;B[gi];W[gh]
+(;B[eh];W[hi]C[White Lives...])
+(;B[hi];W[hh];B[eh];W[ii]
+(;B[ih]C[CHOICERIGHT])
+(;B[ei]LB[ih:A]C[A is a false eyeCHOICERIGHT]))))
+(;B[hh];W[gh];B[ih];W[fh]LB[gg:A]LB[gi:B]C[A and B reflect for life.])
+(;B[hi];W[gh];B[fi];W[eh];B[gi];W[hh]C[White lives...])
+(;B[gi];W[gh];B[fi]
+(;W[eh];B[hh];W[ih];B[hi]C[Dual life not good enough...])
+(;W[hi];B[eh];W[fh]C[White lives...])))

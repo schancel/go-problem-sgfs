@@ -1,0 +1,24 @@
+(;GE[best move]DI[4k]DP[31]SO[ferdi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+AW[ca][cc][dc]AB[aa][ab][db][ac][bd]C[No komi, no prisoners - what's the best result for Black?]
+(;B[cb]CR[cb]
+;W[bb]CR[bb]
+(;B[bc]CR[bc]
+;W[da]CR[da]
+(;B[cb]CR[cb]
+;W[db]CR[db]
+(;B[ba]CR[ba]C[Black wins! RIGHT])
+(;B[cd]CR[cd]
+;W[ba]CR[ba]C[Seki]))
+(;B[ba]CR[ba]
+;W[cb]CR[cb]
+;B[cd]CR[cd]C[Seki, White wins by two points (the two prisoners)]))
+(;B[ba]CR[ba]
+;W[bc]CR[bc]C[White wins]))
+(;B[bc]CR[bc]
+;W[cb]CR[cb]
+;B[cd]CR[cd]C[Seki, White wins by one point (the prisoner)])
+(;B[bb]CR[bb]
+;W[cb]CR[cb]C[White wins])
+(;B[cd]CR[cd]
+;W[bc]CR[bc]C[White wins]))

@@ -1,0 +1,47 @@
+(;GE[best move]DI[4k]DP[30]SO[kochi]CO[5]AB[cd]AB[ce]AB[be]AB[ae]AB[bc]AB[dc]AB[db]AB[da]AW[ba]AW[af]AW[bf]AW[cf]AW[de]AW[dd]AW[ec]AW[eb]AW[ea]AW[fb]AB[ha]AW[fd]AW[fe]AW[fc]AW[eg]AW[dg]AW[cg]AB[gh]AB[ge]AB[gd]AB[gc]AB[bh]AB[ch]AB[dh]AB[fh]AB[eh]AB[hc]AW[gb]AB[ga]AB[ic]AW[hb]AW[ib]AB[jc]AB[kb]AB[lc]AW[jb]AB[ia]AW[ka]AB[la]AB[ah]AW[fg]AW[gf]AW[gg]AB[hg]AB[hh]AB[hf]AW[ef]AP[goproblems]
+(;B[ja];W[bb]
+(;B[ab]C[B + 7RIGHT])
+(;B[ac];W[ab]
+(;B[cc];W[ad];B[cb];W[fa];B[ka];W[bg];B[bd]C[W+2])
+(;B[cb];W[fa];B[ka]C[w got a seki in UL.  no good.]))
+(;B[ad];W[ab];B[ac];W[fa];B[ka]C[seki.  W+3])
+(;B[cb];W[ab];B[ac]C[W has a seki in UL. no good.])
+(;B[cc];W[ab]
+(;B[ac];W[ad]C[W has a seki in UL. no good.])
+(;B[cb];W[ac]
+(;B[ad]C[W has a seki in UL. no good.])
+(;B[ca];W[ad]))
+(;B[ca];W[ac];B[ad]C[W has a seki in UL. no good.])
+(;B[ad]C[W has a seki in UL. no good.])
+(;B[bd];W[ac]C[you die]))
+(;B[bd];W[cc]
+(;B[ab];W[cb])
+(;B[cb];W[ca];B[cc];W[ac]))
+(;B[aa];W[ab])
+(;B[ca];W[cc]))
+(;B[bb];W[ja]C[W+1])
+(;B[cb]
+(;W[bb]
+(;B[ac];W[ab]
+(;B[cc];W[bd];B[ja]C[W+2])
+(;B[ja];W[fa];B[ka];W[bd]C[W+2]))
+(;B[ab];W[ja]C[W+1]))
+(;W[ja]))
+(;B[cc];W[ja]C[W + 1])
+(;B[ab];W[ja]C[W + 1])
+(;B[ad];W[ja]C[W + 1])
+(;B[ac];W[ja]C[W + 1])
+(;B[aa];W[ab]
+(;B[ja];W[bb]
+(;B[ac];W[fa];B[ka];W[bd];B[ad]C[W + 2])
+(;B[cb];W[ac];B[ad];W[fa];B[ka]))
+(;B[ac];W[bb]
+(;B[cb];W[ja])
+(;B[cc];W[ja])
+(;B[ja];W[fa]
+(;B[ka])
+(;B[cc];W[ka])
+(;B[cb];W[ka]))))
+(;B[ca];W[bb]
+(;B[ab];W[cc])
+(;B[cc];W[ab];B[ac];W[ad];B[ja];W[fa];B[ka];W[bg];B[bd]C[W + 2])))

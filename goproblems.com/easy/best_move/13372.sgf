@@ -1,0 +1,7 @@
+(;GE[best move]DI[5k]DP[34]SO[thavdog]CO[0]AW[bb]AB[bc]AW[cc]AW[dc]AW[bd]AW[be]AW[bf]AW[ce]AB[bg]AB[cf]AB[ch]AB[df]AB[de]AB[dd]AB[cd]AB[ec]AW[fc]AW[fd]AW[gc]AW[hc]AB[ff]AB[hf]AB[je]AB[jd]AB[jc]C[Black's best move?]AP[goproblems]
+(;B[cb];W[db];B[eb];W[ca];B[ed]C[RIGHT])
+(;B[ed];W[eb])
+(;B[eb];W[ed]
+(;B[cb];W[ac])
+(;B[db];W[cb])
+(;B[ha];W[ib])))

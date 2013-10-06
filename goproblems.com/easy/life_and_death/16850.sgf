@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[29]SO[mountain root]CO[0]AB[kj]AB[kl]AB[ll]AB[ml]AB[nk]AB[nj]AB[ni]AB[nh]AB[mg]AB[lg]AB[kg]AB[jh]AB[ji]AB[ih]AB[hh]AB[gi]AB[gk]AB[gj]AB[gl]AB[hm]AB[im]AB[jm]AW[hi]AW[ii]AW[jj]AW[ki]AW[kh]AW[mh]AW[lh]AW[mi]AW[mj]AW[mk]AW[lk]AW[kk]AW[hl]AW[hk]AW[jl]AP[goproblems]
+(;B[lj];W[hj]
+(;B[ik];W[il]
+(;B[jk]
+(;W[ij]
+(;B[jk];W[li]
+(;B[kj]C[Double snapback!CHOICERIGHT])
+(;B[lj];W[kj]C[Alive.]))
+(;B[ik];W[jk]C[Alive.]))
+(;W[li]
+(;B[ij]C[RIGHT])
+(;B[kj];W[ij];B[jk]C[RIGHT])))
+(;B[ij];W[jk]C[Alive.]))
+(;B[ij];W[ik]C[Alive.])
+(;B[jk];W[ik]C[Alive.])
+(;B[il];W[ik]C[Ko.]))
+(;B[ij];W[lj]C[Alive.])
+(;B[li];W[lj]C[Alive.])
+(;B[hj];W[lj]C[Alive.])
+(;B[ik];W[jk]TR[il]TR[lj]C[Alive.])
+(;B[jk];W[ik]C[Alive.])
+(;B[il];W[ik]C[Ko.]))

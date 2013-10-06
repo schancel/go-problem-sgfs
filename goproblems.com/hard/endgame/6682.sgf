@@ -1,0 +1,150 @@
+(;GE[endgame]DI[4d]DP[8]SO[kochi]CO[8]AB[rr]AB[rq]AB[rp]AW[pr]AW[or]AW[nr]AW[mq]AW[lq]AW[kr]AW[jq]AW[iq]AB[kq]AB[kp]AB[jp]AB[ip]AB[lp]AB[mp]AW[hp]AW[ho]AB[nq]AB[oq]AB[pq]AW[qr]AB[qq]AB[qs]AW[dp]AW[dq]AW[dr]AW[er]AW[es]AW[cp]AW[fp]AW[gn]AW[gm]AB[co]AB[cn]AB[dn]AB[en]AB[em]AB[bp]AB[cq]AB[cr]AB[cs]AB[ds]AW[fl]AW[fm]AB[el]AB[fk]AB[gk]AW[im]AW[in]AW[jm]AW[il]AW[hl]AB[jn]AB[km]AB[jl]AB[kl]AB[kn]AB[jo]AW[io]AW[hk]AW[ij]AW[jj]AW[jk]AB[kk]AB[kj]AB[ki]AB[ji]AB[hi]AB[gj]AB[ii]AW[hj]AB[gi]AB[ej]AB[sr]C[Best endgame for W.  In the game I played A first.  That's wrong in so many ways.]LB[fo:A]AP[goproblems]
+(;W[ps];B[fo]
+(;W[ep];B[go]
+(;W[gp];B[rs]C[W 24 points.])
+(;W[rs];B[gp];W[gq]LB[qs:X]C[W 23, 1 prisoner, B -1, total 25]))
+(;W[eo];B[do];W[ep];B[fn]
+(;W[go];B[rs]C[W 25.  So close!  but taking LR is bigger than g5.]LB[go:<]LB[rs:>])
+(;W[rs];B[go];W[gp]LB[qs:X]C[W 24 + 1 prisoner and B -1.  Total 26.RIGHT]))
+(;W[rs];B[ep]
+(;W[eq];B[eo]
+(;W[gp];B[ss];W[qs]C[W23, prisoner, B -1 points.  total 25.])
+(;W[go];B[fq];W[gp];B[fr])
+(;W[gq];B[go];W[gp]C[W22, prisoner, B -1 points... total 24]))
+(;W[fq];B[go]
+(;W[gp];B[eo]
+(;W[eq];B[ss];W[qs]C[W22, prisoner, -1 point for B. Total 24])
+(;W[qs];B[eq]LB[fr:X]C[W 21, prisoner, -1 point for B.  Total 23]))
+(;W[eq];B[gp]
+(;W[gq];B[eo]LB[qs:X]C[W 21, prisoner, B -1.  total 23])
+(;W[eo];B[fn];W[gq]
+(;B[ss])
+(;B[do]LB[ep:X]LB[qs:X]C[W21, 2 prisoners, B -1 points.  Total 24]))
+(;W[do];B[gq]
+(;W[gr];B[eo])
+(;W[eo];B[fn];W[gr];B[hq];W[hr];B[ss];W[qs]C[W 17, prisoner, B -1.  Total 19])))))
+(;W[go];B[ep]
+(;W[eq];B[eo]
+(;W[gp];B[rs]C[W23])
+(;W[gq];B[rs]C[W23])
+(;W[fq];B[rs]C[W23]))
+(;W[fq];B[rs];W[eq];B[eo]C[W23])
+(;W[rs];B[fq];W[gp];B[eq])
+(;W[fn];B[eo]
+(;W[eq];B[fq];W[gp];B[fr])
+(;W[fq];B[rs];W[eq]C[W23]))))
+(;W[eo];B[ps]
+(;W[mr];B[fn]
+(;W[os];B[rs];W[fo]C[W 25])
+(;W[fo];B[os];W[ns];B[rs]C[W 24 points.]))
+(;W[lr];B[fn]
+(;W[os];B[rs];W[fo]C[W 25])
+(;W[fo];B[os];W[ns];B[rs]C[W 24]))
+(;W[os];B[mr]
+(;W[lr];B[ns])
+(;W[rs];B[lr]))
+(;W[ns];B[fn]
+(;W[os];B[mr];W[rs];B[lr])
+(;W[fo];B[rs]LB[mr:X]C[W 24]))
+(;W[ms];B[os]
+(;W[ns];B[lr];W[rs];B[mr];W[ls];B[fn];W[fo];B[ss];W[qs]C[B 23, 3 prisoners, B lost a point in LR, B got 2 prisoners.  Total 23])
+(;W[lr];B[rs];W[fn];B[ns];W[mr]C[W 23])
+(;W[mr];B[fn];W[fo];B[rs]LB[jr:X]C[W 22])
+(;W[ls];B[fn];W[fo];B[rs];W[ns]C[W 23])
+(;W[fn];B[rs]
+(;W[ns];B[ls])
+(;W[ls];B[mr]
+(;W[ns];B[lr])
+(;W[lr];B[ns]
+(;W[jr];B[mr])
+(;W[mr];B[jr])))
+(;W[lr];B[ns];W[mr]C[W 23])
+(;W[mr];B[ns]
+(;W[jr]C[W 23])
+(;W[js]C[W 23])
+(;W[ks]C[W 23])
+(;W[ir]C[W 23])
+(;W[is];B[ls];W[lr];B[jr];W[ks];B[ir];W[hq];B[hr]
+(;W[gr]C[W 23.  not enough anyway.])
+(;W[js];B[hs]))
+(;W[hr];B[ls];W[lr];B[jr])
+(;W[lr]C[W 23])
+(;W[ls]C[W 23])))
+(;W[ks];B[rs]
+(;W[fn];B[ns];W[mr]C[W 23])
+(;W[ns];B[lr])
+(;W[mr];B[fn];W[fo]C[W 22])))
+(;W[ls];B[os]
+(;W[ns];B[rs]
+(;W[fn];B[mr])
+(;W[lr];B[fn];W[fo]C[W 23])
+(;W[mr];B[fn];W[fo]C[W 23])
+(;W[ms];B[fn];W[fo]C[W 23]))
+(;W[mr];B[ns]
+(;W[ms];B[rs];W[fn]C[W 23])
+(;W[fn];B[rs];W[ms]C[W 23]))
+(;W[ms];B[rs]
+(;W[fn];B[mr]
+(;W[ns];B[lr])
+(;W[lr];B[ns]
+(;W[mr];B[jr])
+(;W[jr];B[mr])))
+(;W[ns];B[fn];W[fo]C[W 23]))
+(;W[lr];B[ns];W[mr];B[fn];W[fo]C[W20]))
+(;W[fn];B[os]
+(;W[ns];B[rs]
+(;W[ls];B[mr])
+(;W[lr]C[W25])
+(;W[mr]C[W25])
+(;W[ms];B[lr])
+(;W[jr];B[lr]))
+(;W[ms];B[rs]
+(;W[ns];B[ls])
+(;W[lr];B[ns];W[mr]C[W23])
+(;W[mr];B[ns]
+(;W[lr]C[W23])
+(;W[ks]C[W23])
+(;W[jr]C[W23])
+(;W[js]C[W23])
+(;W[ls]C[W23])
+(;W[ir]C[W23])
+(;W[is]C[W23])))))
+(;W[fo];B[ps]C[You shouldn't allow Q1.  B is better than A.]LB[eo:B]LB[fo:A]
+(;W[os]
+(;B[rs]
+(;W[ms];B[eo];W[ep]C[W23])
+(;W[mr];B[eo];W[ep]C[W23])
+(;W[lr];B[eo];W[ep]C[W23])
+(;W[ls];B[mr]))
+(;B[mr]C[CHOICE]))
+(;W[ms];B[os]
+(;W[ns];B[rs]
+(;W[lr];B[eo];W[ep]C[W 22])
+(;W[ls];B[eo];W[ep]C[W22])
+(;W[mr];B[ls];W[lr];B[jr];W[ks];B[js])
+(;W[ks];B[lr])
+(;W[jr];B[lr])
+(;W[js];B[lr]))
+(;W[eo];B[rs]
+(;W[ns];B[ls])
+(;W[mr];B[ns]LB[ls:X]C[W22])
+(;W[lr];B[ns];W[mr]C[W22])
+(;W[ls];B[mr];W[lr];B[ns]
+(;W[jr];B[mr])
+(;W[js];B[mr])
+(;W[mr];B[jr]))
+(;W[ks];B[mr]
+(;W[ns];B[ls])
+(;W[lr];B[ns];W[mr]C[W 21]))))
+(;W[mr];B[eo]
+(;W[ep];B[os];W[ns];B[rs]C[W23])
+(;W[os];B[rs];W[ep]C[W24]))
+(;W[ns];B[eo];W[ep]LB[mr:X]C[W23])
+(;W[ls];B[os];W[ns];B[rs]
+(;W[lr];B[eo];W[ep]C[W22])
+(;W[mr];B[eo];W[ep]C[W22])
+(;W[ms];B[eo];W[ep]C[W22])
+(;W[ks];B[mr])
+(;W[js];B[mr])
+(;W[jr];B[mr]))
+(;W[lr];B[os];W[eo];B[ns];W[mr];B[ms];W[ls];B[rs];W[jr]C[W17])))

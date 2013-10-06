@@ -1,0 +1,43 @@
+(;GE[life and death]DI[4d]DP[7]SO[j074r0kun6]CO[5]AB[sg]AB[sf]AB[rf]AB[qf]AB[qg]AB[pg]AB[rh]AB[qi]AB[pk]AB[pl]AB[ql]AB[rl]AW[rm]AW[qm]AW[qn]AW[om]AW[on]AW[qp]AW[pq]AW[ol]AW[nl]AW[oj]AW[nj]AW[oi]AW[oh]AW[ph]AW[qh]AW[og]AW[pf]AW[pe]AW[qe]AW[re]AW[se]AW[qj]AB[pj]TR[pj]AP[goproblems]
+(;W[ri];B[pi]
+(;W[rj]
+(;B[rk]
+(;W[si];B[qk]
+(;W[sl];B[sk]
+(;W[pm];B[sm];W[ok]C[RIGHT])
+(;W[ok];B[sm];W[pm]C[RIGHT])
+(;W[sm];B[sj]))
+(;W[sk];B[sl];W[sm];B[sj]C[CHOICE])
+(;W[pm];B[sj];W[sk];B[sl];W[sm];B[sj]C[CHOICE])
+(;W[ok];B[sj];W[sk];B[sl];W[sm];B[sj]C[CHOICE]))
+(;W[sh];B[si];W[sj];B[sk];W[sh]C[CHOICE])
+(;W[sj];B[sk];W[sh];B[si]C[Direct ko, White has to find the first threat.CHOICE]))
+(;B[si];W[sj];B[sk];W[sh]C[Approach move ko, White takes first. Even if Black retakes it Black will need to ignore a White threat to play R9 or S9 just to make it a direct ko.RIGHT]))
+(;W[si];B[rj]
+(;W[rk]
+(;B[qk]))
+(;W[sj];B[rk])
+(;W[sk];B[rk])
+(;W[sl];B[sj])
+(;W[qk];B[sj])))
+(;W[pi];B[ri]
+(;W[rj];B[sj])
+(;W[si];B[rj])
+(;W[rk];B[sl])
+(;W[sl];B[sk])
+(;W[sj];B[rj]))
+(;W[rj];B[ri]
+(;W[pi])
+(;W[sk];B[sl]
+(;W[pi];B[rk])
+(;W[si];B[pi])))
+(;W[sl];B[rj])
+(;W[si];B[ri]
+(;W[rj];B[sk]
+(;W[sj];B[rk])
+(;W[pi];B[sj])
+(;W[rk];B[pi]))
+(;W[sj];B[sk]
+(;W[rj];B[rk])
+(;W[rk];B[sl])
+(;W[pi];B[rj]))))

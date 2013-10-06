@@ -1,0 +1,50 @@
+(;GE[life and death]DI[5d]DP[5]SO[MrMoto]CO[8]AW[sg]AW[rf]AW[qh]AW[qg]AW[qj]AW[qi]AW[pg]AW[pi]AW[ql]AW[rl]AB[re]AB[qf]AB[pf]AB[og]AB[ph]AB[oh]AB[oi]AB[pj]AB[pd]AB[pk]AB[pl]AB[qm]AB[rm]AB[pp]C[What can black do here?]AP[goproblems]
+(;B[sl];W[sj])
+(;B[qk];W[rk])
+(;B[rk];W[qk])
+(;B[sk];W[sl])
+(;B[rj];W[si])
+(;B[ri];W[rh])
+(;B[si];W[qk])
+(;B[rh];W[ri])
+(;B[sh];W[sj])
+(;B[rg];W[rh])
+(;B[sm];W[si])
+(;B[se];W[qk])
+(;B[sf];W[se])
+(;B[sj]
+(;W[se]LB[rd:A]C[Please play at A.FORCE];B[rd]
+(;W[qk]
+(;B[sl];W[si])
+(;B[sk];W[sl])
+(;B[rj];W[sl])
+(;B[rk];W[sl])
+(;B[ri];W[rh])
+(;B[si];W[sl])
+(;B[sh];W[rh])
+(;B[sd];W[rj])
+(;B[rh];W[sk]
+(;B[rj];W[ri])
+(;B[sm];W[ri])
+(;B[ri];W[rg])
+(;B[si];W[rg])
+(;B[sh];W[ri])
+(;B[sd];W[rj])
+(;B[rg];W[ri];B[sf]MA[rf];W[si]
+(;B[sh];W[rj])
+(;B[rf];W[rj])
+(;B[rj];W[rf]MA[sf]C[Black needs a ko threat to kill.RIGHT]))))
+(;W[rk]C[This is another reasonable defense, but isn't as good for white.  (White will need a ko threat, rather than black)];B[sh];W[ri];B[si];W[sl];B[rg];W[rh];B[qk];W[rj];B[sd];W[sk];B[sf];W[si];B[rg]MA[rf]C[White needs a ko threat to live.])
+(;W[rj]C[Here's another defense.  Again white will need a ko threat to live.];B[si];W[sl]
+(;B[qk];W[rk];B[sh];W[ri]
+(;B[sd];W[rg])
+(;B[rg];W[rh];B[sd];W[sk]
+(;B[si];W[sf])
+(;B[sf];W[si];B[rg]MA[rf]C[White needs a ko threat.])))
+(;B[rg]C[(black can play here any time along this path)]))
+(;W[si]C[White also needs a ko threat this way.];B[rh];W[qk]
+(;B[rg];W[sk];B[ri];W[rj];B[sf]MA[rf]C[])
+(;B[sk];W[sl];B[rg];W[ri];B[sf]MA[rf]C[])))
+(;W[rd]
+(;B[qe]C[Black should rather play T15 here.];W[se];B[rc]C[Essentially the same as the main path.])
+(;B[se];W[qe];B[qd]C[Even though white can play T14 in sente, the shape is now dead.];W[sf];B[pe];W[si];B[rh];W[ri];B[sl]))))

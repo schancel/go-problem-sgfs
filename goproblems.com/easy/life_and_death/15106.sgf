@@ -1,0 +1,11 @@
+(;GE[life and death]DI[6k]DP[37]SO[mysandbox]CO[0]AB[ap]AB[bp]AB[cq]AB[br]AB[dp]AB[ep]AB[er]AB[eq]AB[dr]AW[bq]AW[ao]AW[bo]AW[co]AW[cp]AW[do]AW[eo]AW[fp]AW[fq]AW[fr]AW[fs]AW[es]AW[ds]C[Please avoid ko if you can live without ko.]AP[goproblems]
+(;B[aq];W[bs]LB[fn:tenuki]
+(;B[ar];W[cr];B[cs]C[this ko is heavy for B. there is a way to avoid this ko.])
+(;B[cr];W[ar];B[as]C[this ko is heavy for B. there is a way to avoid this ko.])
+(;B[fn];W[ar];B[as];W[cs];B[cr];W[ar]C[this ko is heavy for B. there is a way to avoid this ko.]))
+(;B[ar];W[bs]
+(;B[cr]
+(;W[aq];B[cs]C[RIGHT])
+(;W[cs];B[aq]C[RIGHT]))
+(;B[aq];W[cr];B[cs]C[this ko is heavy for B. there is a way to avoid this ko.]))
+(;B[cs];W[ar]))

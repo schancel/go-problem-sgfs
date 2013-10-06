@@ -1,0 +1,19 @@
+(;GE[best move]DI[3k]DP[26]SO[ferdi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[bb][cb][bc]AB[ac][cc][dc][ad][bd]C[Black to play - what's the best he can do?]
+(;B[cd]CR[cd]
+;W[ab]CR[ab]
+;B[db]CR[db]
+;W[ca]CR[ca]
+(;B[ba]CR[ba]
+;W[aa]CR[aa]C[White wins by one point! Sad as it is, this is the best result for black.... RIGHT])
+(;B[aa]CR[aa]
+;W[ba]CR[ba]C[White wins by one point! Sad as it is, this is the best result for Black... RIGHT]))
+(;B[ab]CR[ab]
+;W[cd]CR[cd]
+;B[dd]CR[dd]
+;W[db]CR[db]C[Black is dead])
+(;B[db]CR[db]
+;W[cd]CR[cd]
+;B[dd]CR[dd]
+;W[ab]CR[ab]C[Black is dead]))

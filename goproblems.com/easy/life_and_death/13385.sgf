@@ -1,0 +1,47 @@
+(;GE[life and death]DI[8k]DP[45]SO[SilverHawk]CO[0]AB[gb]AB[fc]AB[fd]AB[hc]AB[ib]AB[ic]AB[id]AB[ge]AB[he]AB[hf]AB[hg]AB[gg]AB[ig]AB[jg]AB[kg]AB[kh]AB[li]AB[lj]AB[kk]AB[jm]AB[jn]AB[in]AB[ef]AB[df]AB[cg]AB[fh]AB[eh]AB[ei]AB[ej]AB[ek]AB[fk]AB[dk]AB[ck]AB[cj]AB[bk]AB[cl]AB[bm]AB[an]AB[dm]AB[dn]AB[eo]AB[eq]AB[go]AB[fp]AB[ap]AB[bq]AB[br]AB[dr]AB[er]AB[fr]AB[fs]AB[gs]AB[hr]AB[ir]AB[jr]AB[is]AB[ko]AB[lo]AB[lp]AB[lq]AB[mq]AB[nr]AB[or]AB[oq]AB[pq]AB[pp]AB[ms]AB[qd]AB[rd]AB[se]AB[pe]AB[pf]AB[pg]AB[ph]AB[qg]AB[qj]AB[qk]AB[rl]AB[qm]AB[pm]AW[bn]AW[cn]AW[cm]AW[bp]AW[cp]AW[cq]AW[cr]AW[dq]AW[ar]AW[bs]AW[fq]AW[gq]AW[gr]AW[hp]AW[hq]AW[iq]AB[ho]AW[io]AW[jo]AW[jp]AW[kp]AW[kq]AW[kr]AW[js]AW[lr]AW[mr]AW[ls]AW[pr]AW[qr]AW[qq]AW[ro]AW[qn]AW[rm]AW[sn]AW[ql]AW[fj]AW[fi]AW[gh]AW[jh]AW[ii]AW[jj]AW[ki]AW[jk]AW[il]AW[hk]AW[gm]AW[em]AW[bj]AW[bi]AW[ci]AW[di]AW[dj]AW[bg]AW[cf]AW[ce]AW[dd]AW[ee]AW[fe]AW[ff]AW[fg]AW[ec]AW[eb]AW[fb]AW[ha]AW[gd]AW[jb]AW[jc]AW[jd]AW[ie]AW[if]AW[kf]AW[lg]AW[lh]AW[lc]AW[od]AW[pc]AW[qc]AW[qf]AW[qe]AW[re]AW[rg]AW[qh]AB[lk]AW[kj]AW[gl]AW[gj]TR[gj]MA[fd]MA[fc]MA[gb]MA[hc]MA[ib]MA[ic]MA[id]MA[he]MA[ge]MA[hf]MA[gg]MA[hg]MA[ig]MA[jg]MA[kg]MA[kh]AW[mb]AW[kd]AB[kl]C[See description.]AW[nf]AW[mk]AW[of]AB[gc]MA[gc]AW[pd]AW[hh]AP[goproblems]
+(;B[lf]
+(;W[jf]C[CHOICE]
+(;B[mg];W[mh];B[nh];W[mi];B[mj];W[ni];B[oi];W[nj];B[nk];W[oj]
+(;B[ok];W[pj]
+(;B[pk]C[Good!  Black lives easily.  Hopefully white would not actually play this out in a real game.  You were right not to attack the middle group - it was already alive.RIGHT])
+(;B[pi]C[Good!  Black lives easily.  Hopefully white would not actually play this out in a real game.  You were right not to attack the middle group - it was already alive.RIGHT])
+(;B[ng];W[mf];B[le];W[pi]
+(;B[qi];W[oh];B[rf];W[og])
+(;B[rf];W[oh];B[og];W[me])
+(;B[og];W[oe];B[rf];W[qi])))
+(;B[pj];W[ok];B[ol];W[nl];B[pk];W[nk];B[nm]C[RIGHT]))
+(;B[mh];W[mg])
+(;B[mf];W[ng];B[mg];W[mh]
+(;B[nh];W[mi]
+(;B[mj];W[ni];B[oh];W[me])
+(;B[ni];W[mj])
+(;B[oe];W[me]))
+(;B[le];W[nh])
+(;B[me];W[nh]))
+(;B[le];W[nh];B[mg];W[mh];B[ng];W[og];B[mf];W[oh]))
+(;W[mf]C[CHOICE];B[je]
+(;W[ke]C[];B[jf]C[Good!  Black gets a second eye and lives.  You were correct not to attack the middle group - it was already alive.RIGHT])
+(;W[jf]C[];B[ke]C[Good!  Black gets a second eye and lives.  You were correct not to attack the middle group - it was already alive.RIGHT])))
+(;B[jf];W[je])
+(;B[je]
+(;W[jf]
+(;B[lf]
+(;W[ke]C[CHOICE];B[mg];W[mh];B[nh];W[mi];B[mj];W[ni];B[oi];W[nj];B[nk];W[oj]
+(;B[ok];W[pj]
+(;B[pi]C[Good!  Black lives easily.  Hopefully white would not actually play this out in a real game.  You were right not to attack the middle group - it was already alive.RIGHT])
+(;B[pk]C[Good!  Black lives easily.  Hopefully white would not actually play this out in a real game.  You were right not to attack the middle group - it was already alive.RIGHT]))
+(;B[pj];W[ok];B[ol];W[nl];B[pk];W[nk];B[nm]C[RIGHT]))
+(;W[mf]C[];B[ke]C[Good!  Black gets a second eye and lives.  You were right not to attack the middle group - it was already alive.RIGHT]))
+(;B[le];W[lf])
+(;B[mf];W[lf])))
+(;B[ke];W[lf]
+(;B[jf];W[je])
+(;B[je];W[jf]))
+(;B[le];W[lf]
+(;B[je];W[jf])
+(;B[jf];W[je]))
+(;B[hi];W[jf]
+(;B[ih];W[gi])
+(;B[hj];W[ij]))
+(;B[ih];W[jf];B[hi])
+(;B[hj];W[jf]))

@@ -1,0 +1,23 @@
+(;GE[life and death]DI[8k]DP[45]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[25/600 Canadian]
+PW[danoontje]PB[ferdi]WR[6d]BR[5d]DT[2003-11-03]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AW[in][kn][io][ko][ip][kp][eq][iq][kq][oq][fr][gr][ir][kr][mr][nr]AB[jl][im][km][hn][ln][ho][jo][lo][gp][mp][gq][hq][jq][lq][mq][hr][lr][is][ks]C[
+]RE[W+Resign]PL[W]
+(;W[jr]CR[jr]
+(;B[js]CR[js]
+(;W[jn]CR[jn]C[White lives :) RIGHT])
+(;W[ls]CR[ls]C[NOTTHIS])
+(;W[hs]CR[hs]C[NOTTHIS]))
+(;B[jn]CR[jn]
+;W[js]CR[js]
+(;B[hs]CR[hs]
+;W[ls]CR[ls]C[White is connected :) RIGHT])
+(;B[ls]CR[ls]
+;W[hs]CR[hs]C[White is connected :) RIGHT])))
+(;W[jp]CR[jp]
+;B[jr]CR[jr])
+(;W[jn]CR[jn]
+;B[jr]CR[jr])
+(;W[ls]CR[ls]
+;B[jr]CR[jr])
+(;W[hs]CR[hs]
+;B[jr]CR[jr]))

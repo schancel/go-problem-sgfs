@@ -1,0 +1,179 @@
+(;GE[life and death]DI[2k]DP[21]SO[sever]CO[0]AB[pr]AB[pq]AB[op]AB[on]AB[qm]AW[qr]AW[rq]AW[qo]AW[nq]AW[lp]C[At this moment (beginning of  middle game), I leave white corner living. Is there something to do to kill it ? or playing Tenuki (T). (It's my first complex problem, please make some comments if there is something I missed)]AB[qj]LB[lj:T]AP[goproblems]
+(;B[rn]
+(;W[ro]C[CHOICE]
+(;B[sr]
+(;W[qp]C[CHOICE]
+(;B[sp];W[so]
+(;B[sq];W[rs]
+(;B[ps];W[qq];B[qs];W[rr]C[only seki])
+(;B[qq];W[ps]
+(;B[os];W[or];B[qs]C[ko for all])
+(;B[or];W[qs];B[os];W[rr]C[only seki])))
+(;B[qs];W[rs];B[rr];W[ps];B[qq]C[];W[os];B[qs]C[ko for all]))
+(;B[qs];W[rs];B[rr];W[ps];B[qq]C[];W[sq];B[qs]C[ko for all.]))
+(;W[qs];B[qp];W[rp]C[T for Tenuki]LB[ol:T]
+(;B[so]C[dead])
+(;B[ol];W[so];B[sq];W[qq]
+(;B[pp];W[rr];B[ss]C[only seki])
+(;B[rr];W[pp];B[po];W[oq];B[qp]C[ko for a lot]))))
+(;B[rs];W[qs];B[qp]
+(;W[rp];B[so]
+(;W[sp];B[sr];W[sq];B[rr]C[deadRIGHT])
+(;W[sr];B[sp]C[deadRIGHT]))
+(;W[rr];B[rp];W[sq];B[ss];W[po]
+(;B[oo];W[pp]
+(;B[qq];W[oq]
+(;B[so];W[sp];B[sn];W[or];B[qn];W[ps]C[oops])
+(;B[or];W[nr];B[so];W[sp]
+(;B[sn];W[os];B[pn];W[ps]C[oops])
+(;B[pn];W[sn];B[qn];W[so];B[sm];W[os]C[oops]))
+(;B[sp]C[deadRIGHT]))
+(;B[so];W[qq];B[qn];W[sp]C[oops])
+(;B[sp];W[qq]C[oops]))
+(;B[pp];W[oo];B[no];W[np]
+(;B[so];W[sp]C[RIGHT]
+(;B[sn]
+(;W[or]C[CHOICERIGHT];B[ps];W[oq];B[pn];W[os];B[qn]C[deadRIGHT])
+(;W[nn];B[mo]C[RIGHT];W[or]
+(;B[qn])
+(;B[ps];W[oq];B[pn];W[os];B[qn]C[deadRIGHT])))
+(;B[pn];W[sn];B[qn];W[so];B[sm]C[deadRIGHT]))
+(;B[pn];W[sp];B[qn];W[so];B[sn];W[or];B[ps];W[oq]C[oops])
+(;B[sp];W[or];B[ps];W[oq];B[so];W[os]C[deadRIGHT]))))
+(;B[sp];W[rs];B[sr];W[so]
+(;B[sq];W[qq]C[only seki])
+(;B[rr];W[sq]C[alive]))
+(;B[qp]
+(;W[rs];B[sr])
+(;W[sr];B[rs];W[qs];B[rp]C[deadRIGHT]))
+(;B[qq]C[RIGHT];W[rr];B[qp];W[rp]
+(;B[so]
+(;W[sp];B[qs];W[rs];B[sr];W[qn];B[rl]C[deadRIGHT])
+(;W[qs];B[ss];W[sp];B[sr];W[qn];B[rl]C[deadRIGHT]))
+(;B[qs];W[sn]C[black should had played at T5 instead of R1];B[sm];W[so];B[rs];W[qn];B[rm];W[pm];B[pn];W[ql];B[pl];W[om];B[rl];W[qk];B[rk];W[pk];B[ol];W[nm];B[ok]C[black wins with the ladderRIGHT])))
+(;W[sr];B[rs];W[qs];B[sp]C[deadRIGHT])
+(;W[rs]C[CHOICE]
+(;B[sr]
+(;W[ro]
+(;B[qp]C[];W[ps];B[or]C[deadRIGHT])
+(;B[so];W[sp];B[qp];W[ps]
+(;B[os];W[or];B[qs]C[ko for all])
+(;B[or]C[deadRIGHT]))
+(;B[qq]C[RIGHT]))
+(;W[ps];B[or]))
+(;B[sp];W[sr];B[sq];W[qq]C[alive])))
+(;B[sr]
+(;W[rn]C[]
+(;B[rm]
+(;W[qs]C[CHOICE];B[sn];W[so]
+(;B[sq];W[qn]
+(;B[rp];W[qp]C[oops!])
+(;B[sp];W[ro];B[rp];W[qp];B[qq];W[rr];B[ps];W[ss]C[oops!]))
+(;B[qn];W[ro];B[sq];W[qp];B[qq];W[rr];B[sp];W[ss];B[rs];W[rp]C[oops!])
+(;B[rp];W[qp];B[sp];W[ro];B[sq];W[rr]C[oops!]))
+(;W[ro];B[qs];W[rs];B[rr];W[ps];B[qq];W[sq];B[qs]C[ko for all]))
+(;B[qs];W[rm];B[rl]
+(;W[so]C[CHOICE];B[sm]
+(;W[rp]C[CHOICE];B[sq];W[rs];B[rr];W[ps];B[qq];W[os];B[qs]C[ko for all])
+(;W[rs]C[CHOICE];B[rr];W[ps];B[qq];W[sq]C[];B[qs]C[ko for all]))
+(;W[sm]C[]
+(;B[so]
+(;W[sp];B[rs];W[qp];B[ro];W[qn]C[dead])
+(;W[sl];B[rk];W[sk];B[sj]C[];W[rs];B[rr];W[ps];B[qq];W[sq];B[qs]C[ko for all])
+(;W[rs]C[CHOICE];B[rr];W[ps];B[qq];W[sq];B[qs]C[ko for all]))
+(;B[sl];W[so];B[rp];W[qp]
+(;B[sq]
+(;W[sp];B[qq];W[ro])
+(;W[qq]
+(;B[rs];W[sp];B[qn])
+(;B[sp];W[rs];B[rr];W[ro];B[ss];W[rs]C[oops!])))
+(;B[qq];W[sq]C[oops!])))
+(;W[rp]C[CHOICE];B[so]C[];W[rs]C[];B[rr];W[ps];B[qq];W[os]C[];B[qs]C[ko for all])))
+(;W[qs];B[rn];W[ro])
+(;W[sq]C[CHOICE];B[qs];W[rs];B[qq];W[rr]
+(;B[rp];W[qp];B[ro];W[rn]C[alive])
+(;B[ro];W[rn];B[qp];W[rp];B[qn];W[so]C[alive])
+(;B[so];W[rn];B[sn];W[rm];B[sm]
+(;W[rl];B[sl];W[rk];B[sk]
+(;W[rj];B[sj];W[ri];B[si];W[qi];B[rp];W[qp];B[ro])
+(;W[sj];B[rj];W[si]))
+(;W[rk]
+(;B[sl])
+(;B[rl]
+(;W[ro];B[ql];W[sp];B[sl])
+(;W[ql];B[sl]
+(;W[qk];B[sk];W[rj];B[sj];W[pm];B[ro];W[qn])
+(;W[pm];B[ro];W[qn]
+(;B[rp];W[qp])
+(;B[qk]
+(;W[rp]
+(;B[qp])
+(;B[rj];W[sp];B[sk];W[qp];B[pn];W[ol]))
+(;W[pn];B[qp];W[rp];B[rj];W[oo];B[sk])))))))))
+(;B[lj]C[You can do something.])
+(;B[ro];W[rn]
+(;B[rp];W[qp]C[alive])
+(;B[qp];W[rp];B[qn];W[so];B[sr];W[sq]
+(;B[rm];W[qs]C[alive])
+(;B[qs];W[rm]C[alive])))
+(;B[rp];W[qp];B[ro];W[rn]C[alive])
+(;B[qq];W[rr]C[alive]
+(;B[rp];W[qp]C[]))
+(;B[qp]
+(;W[rp]
+(;B[rn]
+(;W[rs];B[sr];W[ps];B[or]C[deadRIGHT])
+(;W[sr];B[rs];W[qs];B[sp]C[killedRIGHT]))
+(;B[sr];W[rn]C[CHOICE];B[so];W[qs];B[sn];W[rm];B[rl]C[alive])
+(;B[rs];W[qs];B[rn]
+(;W[sr])
+(;W[rr];B[sp];W[sq];B[ss]C[killedRIGHT])))
+(;W[rs]C[];B[sr];W[rp];B[rn]))
+(;B[so];W[rn]
+(;B[rm];W[sn];B[sr];W[qs];B[sq];W[rp];B[sp];W[ro]C[alive])
+(;B[sr];W[qs];B[sn];W[rm];B[rl];W[sm];B[sq]C[alive])
+(;B[sn];W[rm];B[sm]C[];W[rl]C[alive]))
+(;B[sn];W[rs];B[sr]
+(;W[ro]
+(;B[sp])
+(;B[so];W[sp];B[qp]))
+(;W[rn]
+(;B[so];W[rm];B[rl];W[sm])
+(;B[rm];W[so];B[rp];W[qp];B[sq];W[ro];B[sp]C[alive])))
+(;B[rs]
+(;W[qs];B[rn]
+(;W[sr];B[sp]C[RIGHT])
+(;W[rp]C[deadRIGHT]))
+(;W[rn]C[CHOICE];B[qs]
+(;W[rp];B[rm];W[so];B[sq]C[deadRIGHT])
+(;W[rm];B[rl];W[so]
+(;B[rp];W[qp];B[sq];W[rr];B[sr];W[qq]
+(;B[ss];W[sp];B[ps];W[sm]))
+(;B[qp];W[rp]
+(;B[sm]
+(;W[sq];B[qn]C[deadRIGHT])
+(;W[qn]C[CHOICE];B[sq]
+(;W[ql]C[aliveCHOICE])
+(;W[rr];B[sr];W[sp];B[pm]C[dead])))
+(;B[qn]C[deadRIGHT])))))
+(;B[sp];W[rn]
+(;B[rp];W[qp];B[sr]
+(;W[sq];B[qs];W[rs];B[qq];W[ps];B[rr])
+(;W[qs]C[alive]))
+(;B[sr];W[qs]C[alive]))
+(;B[sq];W[sr];B[sp]
+(;W[rn];B[rs];W[qs]C[alive])
+(;W[rs];B[qq];W[rp];B[so];W[rn]C[alive]))
+(;B[rm]
+(;W[rn];B[sr])
+(;W[rs];B[sr];W[rn];B[so];W[sn];B[rp];W[qp];B[qq];W[ro];B[sp];W[sq]C[alive]))
+(;B[qs];W[rs];B[sr];W[sq])
+(;B[rr];W[rs];B[sr]
+(;W[sq];B[qq]
+(;W[ss];B[rp];W[qp];B[rr];W[qs];B[sp];W[sr];B[sn];W[ro];B[so])
+(;W[qs];B[rp];W[ss];B[qp]))
+(;W[qq]C[CHOICE]
+(;B[rn];W[ro];B[sp];W[so]C[alive])
+(;B[so];W[rn];B[sn];W[rm]C[alive])
+(;B[ps];W[qs])
+(;B[ro];W[rn]C[alive];B[qn];W[rp];B[rm];W[so]))))

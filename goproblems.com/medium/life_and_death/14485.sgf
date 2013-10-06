@@ -1,0 +1,31 @@
+(;GE[life and death]DI[1k]DP[18]SO[MrMoto]CO[0]AW[bf]AW[bg]AW[ch]AW[ah]AW[ci]AW[cj]AW[ck]AW[bl]AW[ej]AB[bk]AB[am]AB[bm]AB[cm]AB[dl]AB[el]AB[ek]AB[fm]AB[fj]AB[fi]AB[eh]AB[ae]AB[be]AB[cf]AB[cg]AB[cd]AB[de]AB[dg]AB[ef]C[Black to make a favourable ko.]AP[goproblems]
+(;B[af];W[ak]
+(;B[al];W[bj];B[cl]C[RIGHT];W[ai]
+(;B[bk];W[da]LB[db:A]C[Please respond to the ko threat at A.FORCE];B[db];W[bl]
+(;B[ag];W[bh];B[bk]C[White must find one more ko threat. :)RIGHT])
+(;B[bh];W[ag];B[bk]C[White must find one more ko threat. :)RIGHT]))
+(;B[ag];W[bh]C[You wasted a ko threat.]MA[ag])
+(;B[bh];W[ag]C[You wasted a ko threat.]MA[bh]))
+(;B[cl];W[bj];B[al]C[RIGHT]))
+(;B[cl];W[af])
+(;B[ak];W[af]
+(;B[cl];W[bi])
+(;B[al];W[bi])
+(;B[bi];W[bj])
+(;B[bj];W[bi];B[ai];W[aj]C[Black will need many ko threats. :(FORCE]LB[ca:A];B[ca];W[cb]LB[ai:A]C[FORCE];B[ai];W[ei]LB[di:A]C[Play A if you think you need to respond to white's threat, otherwise B.FORCE]LB[al:B]
+(;B[di];W[aj]LB[da:A]C[FORCE];B[da];W[db]LB[ai:A]C[FORCE];B[ai];W[dj]LB[dh:A]C[FORCE];B[dh];W[aj]LB[ea:A]C[FORCE];B[ea];W[eb]LB[ai:A]C[FORCE];B[ai];W[cl]LB[al:A]C[FORCE];B[al];W[aj]C[:(])
+(;B[al];W[aj]LB[da:A]C[FORCE];B[da];W[db]LB[ai:A]C[FORCE];B[ai];W[dk]LB[di:A]C[FORCE];B[di];W[aj]LB[ea:A]C[FORCE];B[ea];W[eb]LB[ai:A]C[FORCE];B[ai];W[dh]LB[dj:A]C[FORCE];B[dj];W[aj]LB[fa:A]C[FORCE];B[fa];W[fb]LB[ai:A]C[FORCE];B[ai];W[ei]C[This throw-in is why white's move at E10 was a threat. Now black needs 5 ko threats in total instead of 4.FORCE];B[ej];W[aj]))
+(;B[ai];W[aj];B[bj];W[bi];B[al];W[aj]C[Ko, white takes first.]))
+(;B[bj];W[bi]
+(;B[ak];W[af])
+(;B[aj];W[ai])
+(;B[af];W[ak]))
+(;B[aj]
+(;W[bj]
+(;B[af];W[ak])
+(;B[ak];W[ai])
+(;B[al];W[af];B[ai];W[ak]C[Ko, white takes first.])
+(;B[bh];W[bi];B[af];W[ak]
+(;B[ag];W[ai])
+(;B[al];W[ag];B[bk]C[Ko, black takes first. There's a better solution, though. :)RIGHT]))))
+(;B[bi];W[bj]))

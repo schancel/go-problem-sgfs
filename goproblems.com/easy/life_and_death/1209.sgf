@@ -1,0 +1,10 @@
+(;GE[life and death]DI[10k]DP[51]SO[KenshinX]CO[7]C[White to live unconditionally]SZ[9]AB[eh]AB[eg]AB[dg]AB[cg]AB[af]AB[ae]AB[ce]AB[ee]AB[bd]AW[ei]AW[dh]AW[ch]AW[bg]AW[ah]AB[fh]
+(;W[di];B[bi];W[ag];B[bf])
+(;W[ag];B[bi];W[bf]
+(;B[be];W[cf];B[df]C[CHOICE])
+(;B[cf]C[CHOICE]))
+(;W[bi];B[di]C[Now, make the right choice!]
+(;W[ag]C[RIGHT]C[EasyRIGHT])
+(;W[ci];B[ag]C[Only a1 is a real eye.]))
+(;W[bf];B[bi])
+(;W[ci];B[ag]C[d1 is a false eye; the corner will not be more than one eye either.]))

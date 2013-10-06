@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[40]SO[BartTM]CO[0]AB[rs]AB[qs]AW[rr]AW[rq]AB[qr]AB[qq]AB[qp]AB[ro]AB[so]AB[qo]AW[ps]AW[pr]AW[pq]AW[pp]AW[po]AW[qn]AW[rn]AW[sn]LB[pn:T]C[The goal is to live without ko. Play T if you think that can't be done.]AP[goproblems]
+(;B[sq];W[sr]
+(;B[sp]C[Seki, clean and simple.RIGHT])
+(;B[rp];W[sp]C[Ko])
+(;B[ss];W[sp]C[Black is dead.]))
+(;B[sr]
+(;W[sq]C[Click T for Tenuki if you want to play elsewhere]LB[pn:T]
+(;B[ss]C[Dead])
+(;B[rp];W[ss]C[Ko])
+(;B[sp];W[ss]C[Ko])
+(;B[pn]C[It is still ko, although White will need an extra threat to win if Black does not start it. Usually this situation remains unplayed until the endgame, hence the name '10.000 year ko'.]))
+(;W[sp]C[If White does not want to fight the ko for whatever reason, then White can choose to play seki like here which yields sente to Black which is better than the solution. But White would rather fight the ko, with little risk and much to gain for White.]))
+(;B[ss];W[sq]C[Dead])
+(;B[rp];W[sr]
+(;B[ss];W[sp])
+(;B[sq])
+(;B[sp]C[Dead]))
+(;B[sp];W[sq]
+(;B[rp];W[ss])
+(;B[sr])
+(;B[ss]C[Dead]))
+(;B[pn]AB[qn]AB[rn]AB[sn]AW[qo]AW[ro]AW[so]AW[qp]AW[qq]AW[qr]AW[qs]AB[rq]AB[rr]AW[rs]AB[ps]AB[pr]AB[pq]AB[pp]AB[po];W[sq]C[So you think the corner can't live. Then you will know how to kill it if we swap sides and White plays T3, right?]
+(;B[rp];W[sr]C[Alive])
+(;B[sr];W[sp]C[Alive])
+(;B[sp];W[rp]C[Very much alive])))

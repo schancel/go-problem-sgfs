@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[7k]DP[41]SO[adum]CO[8]AW[qh][qi][pj][pk][pl][pm][pn][qo][qp]
+AB[oi][pi][oj][qj][ok][ol][om][on][qn][oo][po]
+C[black to capture five stones
+]
+(;B[rl];W[qk]
+(;B[rj];W[rk];B[sk];W[ri];B[sj];W[si];B[sl];W[qm]
+(;B[rn]C[RIGHT
+white is captured
+])
+
+(;B[rm];W[rn])
+)
+
+(;B[rk];W[rj])
+)
+
+(;B[qk];W[qm];B[rn];W[rm])
+
+(;B[qm];W[qk];B[rj];W[rk])
+
+(;B[ql];W[qk];B[rj];W[rk];B[sk];W[ri];B[sj];W[sl])
+
+(;B[rk];W[qm];B[rn];W[rm])
+
+(;B[rm];W[qk];B[rj];W[rk])
+
+)

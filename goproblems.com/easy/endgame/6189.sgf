@@ -1,0 +1,34 @@
+(;GE[endgame]DI[4k]DP[29]SO[maba]CO[7]AW[aq]AW[bp]AW[cq]AW[co]AW[dp]AW[dn]AW[en]AW[eo]AB[ap]AB[ao]AB[bo]AB[cn]AB[dm]AB[em]AB[bm]AB[fn]AB[gn]AB[hn]AB[in]AB[jo]AB[jp]AB[jq]AB[jr]AB[ir]AB[hs]AW[hr]AW[gr]AW[gs]AW[ho]AW[io]AW[ip]AW[iq]AW[gp]AB[is]C[Black to play the best endgame.]AP[goproblems]
+(;B[fp]
+(;W[fq]
+(;B[go];W[hq]
+(;B[ep];W[eq];B[fo];W[do]C[RIGHT])
+(;B[fo];W[ep]C[Black can do better.])
+(;B[eq];W[ep]C[Black can do better.]))
+(;B[fo];W[ep]
+(;B[go];W[hq]C[Black can do better.])
+(;B[hq];W[go]C[Black can do better.]))
+(;B[ep];W[fo]
+(;B[go];W[eq])
+(;B[eq];W[er]))
+(;B[eq];W[fo]
+(;B[go];W[ep])
+(;B[ep];W[er])))
+(;W[fo];B[go]
+(;W[gq];B[ep];W[do];B[dq];W[cp];B[cr];W[bq];B[br]C[RIGHT])
+(;W[fq];B[hq]
+(;W[ep];B[hp]C[RIGHT])
+(;W[hp];B[gq]C[RIGHT])
+(;W[gq];B[hp]C[RIGHT]))
+(;W[ep];B[hq]
+(;W[fq];B[hp]C[RIGHT])
+(;W[hp];B[gq]C[RIGHT])
+(;W[gq];B[hp]C[RIGHT]))))
+(;B[fo];W[fp]C[Black can do better.])
+(;B[go];W[fp]C[Black can do better.])
+(;B[br]C[NOTTHIS])
+(;B[ar]C[NOTTHIS])
+(;B[ep];W[fo]
+(;B[fp];W[go])
+(;B[go];W[fp]))
+(;B[fq];W[fo]))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[8k]DP[45]SO[Gelya]CO[0]SZ[19]AW[da]AW[ea]AW[fa]AW[la]AW[ma]AW[eb]AW[fb]AW[gb]AW[mb]AW[nb]AW[dc]AW[ec]AW[gc]AW[jc]AW[kc]AW[nc]AW[oc]AW[pc]AW[qc]AW[cd]AW[dd]AW[od]AW[rd]AW[ae]AW[de]AW[ee]AW[ge]AW[he]AW[ie]AW[pe]AW[re]AW[se]AW[af]AW[bf]AW[cf]AW[df]AW[ef]AW[ff]AW[gf]AW[jf]AW[lf]AW[mf]AW[nf]AW[pf]AW[rf]AW[sf]AW[eg]AW[ig]AW[jg]AW[kg]AW[lg]AW[og]AW[pg]AW[qg]AW[sg]AW[eh]AW[ih]AW[lh]AW[oh]AW[ei]AW[fi]AW[ii]AW[oi]AW[fj]AW[jj]AW[kj]AW[oj]AW[pj]AW[ek]AW[kk]AW[lk]AW[mk]AW[nk]AW[qk]AW[al]AW[cl]AW[dl]AW[el]AW[fl]AW[hl]AW[il]AW[jl]AW[kl]AW[ml]AW[nl]AW[ol]AW[dm]AW[hm]AW[jm]AW[km]AW[mm]AW[om]AW[bn]AW[dn]AW[gn]AW[hn]AW[jn]AW[on]AW[ao]AW[bo]AW[co]AW[do]AW[eo]AW[fo]AW[go]AW[ap]AW[bp]AW[dp]AW[fp]AW[jp]AW[lp]AW[mp]AW[np]AW[op]AW[aq]AW[bq]AW[cq]AW[kq]AW[lq]AW[nq]AW[br]AW[gr]AW[ir]AW[jr]AW[kr]AW[mr]AW[nr]AW[hs]AW[is]AW[ms]AW[rs]AB[ca]AB[ga]AB[ha]AB[ka]AB[ab]AB[bb]AB[cb]AB[db]AB[hb]AB[kb]AB[lb]AB[ac]AB[cc]AB[fc]AB[hc]AB[lc]AB[mc]AB[ad]AB[bd]AB[ed]AB[fd]AB[gd]AB[hd]AB[id]AB[jd]AB[ld]AB[nd]AB[be]AB[ce]AB[fe]AB[je]AB[ke]AB[le]AB[me]AB[ne]AB[oe]AB[if]AB[kf]AB[of]AB[ag]AB[bg]AB[cg]AB[dg]AB[fg]AB[hg]AB[ng]AB[rg]AB[dh]AB[fh]AB[mh]AB[ph]AB[qh]AB[rh]AB[sh]AB[ai]AB[bi]AB[di]AB[gi]AB[hi]AB[ji]AB[ki]AB[pi]AB[ri]AB[aj]AB[cj]AB[dj]AB[ej]AB[gj]AB[ij]AB[lj]AB[mj]AB[nj]AB[qj]AB[bk]AB[ck]AB[dk]AB[fk]AB[hk]AB[ik]AB[ok]AB[pk]AB[rk]AB[bl]AB[gl]AB[pl]AB[am]AB[bm]AB[cm]AB[gm]AB[im]AB[lm]AB[nm]AB[pm]AB[an]AB[cn]AB[in]AB[kn]AB[mn]AB[nn]AB[pn]AB[ho]AB[io]AB[jo]AB[ko]AB[lo]AB[mo]AB[no]AB[oo]AB[ep]AB[gp]AB[kp]AB[pp]AB[qp]AB[dq]AB[eq]AB[fq]AB[hq]AB[iq]AB[jq]AB[oq]AB[rq]AB[ar]AB[cr]AB[dr]AB[hr]AB[or]AB[pr]AB[rr]AB[bs]AB[cs]AB[fs]AB[gs]AB[ls]AB[ns]AB[os]AB[qs]LB[as:A]TR[fg]TR[hg]TR[fh]TR[gi]TR[hi]TR[gj]TR[ij]TR[fk]TR[hk]TR[ik]TR[gl]TR[gm]C[Can this group be killed? if no, play at 'A']GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[п©б╘п▒Б┬ Б√⌠п©б╘п▒Б┬≥я▒п©б╘п▒Б┬≥Б∙≤я▐Б√░п▒Б┬ Б■─п©б╘п▒Б┬≥я▒]PB[п©б╘п▒Б┬≥Б┬ п©б╘п▒Б┬≥я▒я▐Б√░п▒Б√═Б■─п©б╘п▒Б┬≥Б∙ я▐Б√░п▒Б┬ Б■─п©б╘п▒Б┬≥я▒]PL[W]
+(;W[as]C[Nope, you can kill it])
+(;W[hf];B[gg]
+(;W[if];B[hh]
+(;W[gk]TR[hj]MA[gh]C[Good. Black has no good ko-threats to recapture at F9RIGHT])
+(;W[ni];B[gk]C[And this was in the real game =)) Black (me was here) wins by 14,5 at the end ((=]MA[gh]MA[hj]))
+(;W[gk]C[GoodRIGHT]))
+(;W[gg];B[gh]
+(;W[hf];B[if]C[!? What was it !?])
+(;W[gk]C[GoodRIGHT]))
+(;W[hh];B[gg]
+(;W[hf];B[if]C[!? What was it !?])
+(;W[gk]C[GoodRIGHT]))
+(;W[gh];B[gg]
+(;W[hf];B[if]C[!? What was it !?])
+(;W[gk]C[GoodRIGHT]))
+(;W[gk];B[gg]
+(;W[hf];B[fk]
+(;W[if]
+(;B[hh];W[gk]C[Good. Black has no good ko-threats to recapture at F9RIGHT])
+(;B[gk];W[hh]C[GoodRIGHT]))
+(;W[hh];B[if]C[!? What was it !?]))
+(;W[hh];B[fk];W[hf];B[if]C[!? What was it !?])
+(;W[fk]C[GoodRIGHT])
+(;W[fm]C[GoodRIGHT])))

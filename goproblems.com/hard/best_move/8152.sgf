@@ -1,0 +1,14 @@
+(;GE[best move]DI[5d]DP[4]SO[santa c]CO[8]SZ[9]AW[cc]AW[dc]AW[ec]AW[fc]AW[gc]AB[eb]AB[fb]AB[hb]AB[hc]AB[gd]AB[fd]AB[ed]AB[dd]AB[cd]AB[bd]AB[bf]AW[bc]C[Ressist!]AW[gb]AW[fa]AB[db]AW[ha]AB[ac]AB[ib]AB[he]AP[goproblems]
+(;W[bb]
+(;B[ea]
+(;W[cb];B[ga]MA[fa]
+(;W[da];B[ca];W[fa]MA[ga]LB[df:A];B[df]C[Please __PLAY AT A__ as a response to a ko threat!FORCE]LB[ff:A];W[ff];B[ga]MA[fa];W[ba];B[ia];W[da]C[Well done! Black needs to win it once more! :)RIGHT]MA[ca])
+(;W[ba];B[ia];W[da];B[ca]MA[da]C[There's a harder ko for Black! :(]))
+(;W[ga];B[ab]C[:(])
+(;W[ab];B[ga]MA[fa]C[There's a harder ko for Black! :(])
+(;W[ba];B[ga]C[There's a harder ko for Black! :(]MA[fa]))
+(;B[ab];W[ba]C[RIGHT])
+(;B[da];W[ab]C[RIGHT]))
+(;W[ab];B[bb]C[];W[ad];B[cb]C[There's a harder ko for Black! :(])
+(;W[ba];B[ab]C[:(])
+(;W[cb];B[ab]C[:(]))

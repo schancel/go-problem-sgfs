@@ -1,0 +1,25 @@
+(;GE[life and death]DI[8k]DP[47]SO[mrmoto]CO[8]AB[sd]AB[rd]AB[re]AB[qc]AB[qb]AB[qa]AB[pb]AB[oa]AB[sf]AW[na]AW[nb]AW[ob]AW[oc]AW[pc]AW[pd]AW[qd]AW[qe]AW[rf]AW[qf]AW[sg]AW[rg]C[Is black a(L)ive, (D)ead, or can white kill with (K)o?FORCE]LB[md:L]LB[ne:D]LB[of:K]AP[goproblems]
+(;W[md]C[True.RIGHT])
+(;W[ne]C[Untrue.  Please see the 'Ko' path for details.])
+(;W[of];B[nf]C[Ok, kill black!]
+(;W[pa]C[];B[sb]C[])
+(;W[se];B[sb]C[])
+(;W[rc];B[sb]C[])
+(;W[rb];B[sb])
+(;W[sc];B[sb])
+(;W[ra];B[sb])
+(;W[sb];B[rb]
+(;W[ra];B[sc])
+(;W[sa];B[sc])
+(;W[sc];B[sa];W[ra];B[rc])
+(;W[pa];B[sc])
+(;W[se];B[sa]C[Almost there ...]
+(;W[ra];B[sf]
+(;W[se]C[NOTTHIS])
+(;W[sa];B[sc])
+(;W[sc];B[rc])
+(;W[rc];B[sc])
+(;W[pa];B[sa]C[There's a bit of a problem, isn't there? ... ;)]MA[oa]MA[se]))
+(;W[pa];B[sc])
+(;W[rc];B[sc])
+(;W[sc];B[rc])))))

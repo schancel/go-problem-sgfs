@@ -1,0 +1,26 @@
+(;GE[endgame]DI[7k]DP[41]SO[munisai79]CO[7]AB[qb]AB[pc]AB[oc]AB[rc]AB[qc]AW[ob]AW[pb]AW[qa]AW[rb]AW[nc]AW[mc]AB[oe]C[Black to play in the endgame.  Assume white wins any ko and try to avoid unnecessary moves.]AP[goproblems]
+(;B[ra];W[sa]
+(;B[sc];W[nb]
+(;B[sb];W[pa];B[ra]C[Good work!RIGHT])
+(;B[pa];W[oa];B[sb]C[RIGHT]))
+(;B[pa];W[nb]
+(;B[sc];W[oa];B[sb]C[RIGHT])
+(;B[ra]C[Ko.]))
+(;B[nb];W[mb]
+(;B[pa];W[oa];B[sc];W[na];B[sb]C[RIGHT])
+(;B[sc];W[na]
+(;B[sb];W[pa];B[ra]C[RIGHT])
+(;B[pa];W[oa];B[sb]C[RIGHT]))
+(;B[na];W[ma];B[sc];W[oa];B[sb]C[RIGHT])))
+(;B[sb];W[ra]C[Black can do better.])
+(;B[pa];W[oa]
+(;B[ra];W[sa]
+(;B[nb];W[mb];B[sc];W[na];B[sb]C[RIGHT])
+(;B[sc];W[nb];B[sb]C[RIGHT]))
+(;B[sb];W[ra])
+(;B[nb];W[mb];B[ra];W[sa];B[sc];W[na];B[sb]C[RIGHT]))
+(;B[nb];W[pa]
+(;B[ra];W[sa];B[sc];W[mb]
+(;B[sb];W[na]C[RIGHT])
+(;B[na];W[ma];B[sb];W[oa];B[ra]C[RIGHT]))
+(;B[na];W[mb];B[ra];W[sa];B[sc];W[ma];B[sb];W[oa];B[ra]C[RIGHT])))

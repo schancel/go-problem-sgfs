@@ -1,0 +1,34 @@
+(
+;GE[tesuji]DI[10k]DP[54]SO[Imperateur]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.10]
+AW[pc][qd][pe][of][og][oj][mf][le][ke][kg][kc]
+AB[me][ne][oe][oc][oh][pg][pf][qf]
+(
+;
+B[mg]
+LB[nf:a][lf:b]
+C[RIGHTa and b reflect, if white plays at a, black puts four stones in lethal atari to connect, if white plays at b, black plays at a to put two stones in lethal atari to connect.]
+)
+(
+;
+B[nf]
+;
+W[ng]
+LB[mg:a][nh:b]
+C[If black plays the double atari at a, white can still keep the groups separated at b.]
+)
+(
+;
+B[ng]
+;
+W[nf]
+LB[lf:a][mg:b]
+C[If black plays atari at a, white can play atari at b, keeping blacks groups seperated. If black plays at b, white connects at a.]
+)
+(
+;
+)
+)

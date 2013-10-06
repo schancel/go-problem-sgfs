@@ -1,0 +1,15 @@
+(;GE[endgame]DI[3d]DP[11]SO[flame]CO[9]AB[ob]AB[oc]AB[pc]AB[qc]AB[qd]AB[qe]AB[re]AB[sd]AW[oa]AW[na]AW[nb]AW[nc]AW[nd]AW[pd]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]AW[se]AB[pa]AB[qb]AW[rb]AW[sc]AW[od]C[Very late endgame.  Nothing else on the board.]AP[goproblems]
+(;B[rc];W[sb]
+(;B[rd];W[ra]C[seki])
+(;B[ra];W[rd]C[ko]))
+(;B[rd];W[ra]
+(;B[sb];W[qa];B[rc];W[pb]C[ko])
+(;B[qa];W[rc]C[dead])
+(;B[rc];W[qa];B[sb];W[pb]C[ko]))
+(;B[ra];W[rd]
+(;B[rc];W[sb]C[ko])
+(;B[sb];W[sa];B[rc];W[qa];B[sd];W[pb];B[sb]C[double ko, unconditional life.  Twisted, eh? ^^RIGHT]))
+(;B[sb];W[rc]
+(;B[rd];W[sa];B[qa]C[seki])
+(;B[ra];W[sa];B[rd];W[qa]C[ko]))
+(;B[sa];W[rd]C[dead]))

@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[15k]DP[61]SO[enigm4]CO[0]AB[an]AB[bn]AB[cn]AB[dn]AB[eo]AB[ep]AB[dp]AB[dq]AB[br]AW[bo]AW[co]AW[do]AW[bq]AW[bl]AW[cm]AW[dm]AW[em]AW[en]TR[an]TR[bn]TR[cn]TR[dn]
+(;B[bp];W[cp]
+(;B[cq];W[ap];B[ao]C[RIGHT])
+(;B[ao];W[cq]
+(;B[cr];W[ap])
+(;B[ap];W[cr];B[dr];W[bs];B[aq];W[ar]))
+(;B[ap];W[aq]
+(;B[ao]C[RIGHT])
+(;B[cq];W[ao]
+(;B[ap]C[RIGHT])
+(;B[bp]C[RIGHT]))))
+(;B[ao];W[bp]
+(;B[aq];W[bm];B[ap];W[ar];B[as];W[am])
+(;B[ap];W[bm];B[aq];W[ar];B[as];W[am])
+(;B[cq];W[bm];B[aq];W[am]))
+(;B[cp];W[bp];B[cq];W[bm];B[aq];W[am]))

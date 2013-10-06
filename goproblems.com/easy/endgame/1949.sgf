@@ -1,0 +1,44 @@
+(;GE[endgame]DI[4k]DP[29]SO[ferdi]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[fb][bc][fc][bd][dd][ed][fd][be][ce][de][af][cf][bg]AB[ab][bb][eb][ac][cc][dc][ec][ad][ae][ee][fe][df][gf]C[No komi, no prisoners - Black to play and draw!]
+(;B[fg]CR[fg]
+(;W[dg]CR[dg]
+;B[ef]CR[ef]
+(;W[da]CR[da]
+;B[ea]CR[ea]
+(;W[ba]CR[ba]
+;B[cb]CR[cb]
+;W[ca]CR[ca]
+(;B[fa]CR[fa]C[Jigo! RIGHT])
+(;B[gd]CR[gd]
+;W[fa]CR[fa]
+;B[gc]CR[gc]
+;W[gb]CR[gb]C[White wins by one point!]))
+(;W[cb]CR[cb]
+;B[db]CR[db]C[Black lives]))
+(;W[ea]CR[ea]C[This is bad!]
+;B[da]CR[da]
+(;W[ca]CR[ca]
+(;B[fa]CR[fa]
+;W[cb]CR[cb]C[This is ok for white, but B made a mistake])
+(;B[cb]CR[cb]
+;W[db]CR[db]
+;B[ba]CR[ba]C[Black lives!]))
+(;W[fa]CR[fa]
+;B[cb]CR[cb]
+;W[gd]CR[gd]C[Black wins by one point!])))
+(;W[ef]CR[ef]
+;B[dg]CR[dg]C[This doesn't work for White]))
+(;B[eg]CR[eg]
+;W[fg]CR[fg]
+(;B[ff]CR[ff]
+;W[cg]CR[cg]C[Black is dead!])
+(;B[cg]CR[cg]C[This is hopeless, White can play either f2 or e7]))
+(;B[ef]CR[ef]
+;W[fg]CR[fg]C[Black is dead!])
+(;B[dg]CR[dg]
+;W[fg]CR[fg]C[Black is dead!])
+(;B[ca]CR[ca]
+;W[ef]CR[ef]C[Black should have played at the bottom])
+(;B[fa]CR[fa]
+;W[ef]CR[ef]C[Black should have played at the bottom]))

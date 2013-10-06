@@ -1,0 +1,48 @@
+(;GE[life and death]DI[3k]DP[24]SO[tjl]CO[6]AB[qc]AB[pc]AB[rc]AB[sd]AB[pd]AB[pe]AB[nd]AB[ne]AB[nf]AB[mf]AB[og]AB[oh]AB[nh]AB[mh]AW[ph]AW[pg]AW[qf]AW[qi]AW[ri]AW[rh]AW[qd]AW[rd]AW[rf]AW[oi]AW[ni]AW[mi]AW[lh]AW[lj]AW[lf]AW[me]AW[md]AW[nc]AW[oc]AW[ob]AW[kc]AB[qh]AB[pi]AB[pj]AB[qj]AB[rj]AB[qm]AW[kf]LB[og:1]AP[goproblems]
+(;W[pf]
+(;B[ra]
+(;W[sb]C[B can only get an eye in the corner in gote, and two gote eyes are not enough.RIGHT])
+(;W[mg];B[sb]C[B livesCHOICE])
+(;W[pb];B[qb]
+(;W[sb];B[sc]
+(;W[mg]C[RIGHT])
+(;W[od]C[NOTTHIS])
+(;W[oe]C[NOTTHIS]))
+(;W[mg];B[sb]C[CHOICE])
+(;W[od];B[sb]C[CHOICE])
+(;W[oe];B[sb]C[CHOICE]))
+(;W[od]C[NOTTHIS])
+(;W[oe]C[NOTTHIS]))
+(;B[pb]
+(;W[mg];B[rb]
+(;W[qa];B[pa]
+(;W[sc]C[RIGHT])
+(;W[od];B[sc])
+(;W[oe];B[sc])
+(;W[of];B[sc])
+(;W[ra]C[RIGHT]))
+(;W[of];B[qa]C[CHOICE])
+(;W[od]C[NOTTHIS])
+(;W[oe]C[NOTTHIS]))
+(;W[sb];B[mg]
+(;W[sc];B[rb];W[qa];B[pa];W[ra];B[sa];W[sb];B[sc]C[CHOICE])
+(;W[pa];B[qa];W[rb];B[sc]C[CHOICE]))
+(;W[od]C[NOTTHIS])
+(;W[oe]C[NOTTHIS])
+(;W[ra];B[qa]C[B gets eye in sente (threatening to make two) in corner -> life.])
+(;W[rb];B[mg])
+(;W[of];B[mg]C[P14 looks like it does something but actually doesn't.])))
+(;W[ra];B[pf];W[qg];B[mg])
+(;W[sb];B[pf];W[qg];B[mg])
+(;W[mg];B[pf];W[qg];B[pb])
+(;W[od];B[pf];W[qg];B[oe]MA[mg]MA[qa]MA[qb]MA[rb]MA[ra]MA[sa]C[Miai to get two eyes])
+(;W[se];B[pf];W[qg];B[mg])
+(;W[qb];B[pf];W[qg];B[mg])
+(;W[qg];B[pf]MA[ng]MA[qb]MA[rb]MA[ra]MA[qa]C[Miai to get two eyes])
+(;W[of];B[pf]
+(;W[mg];B[qg])
+(;W[qg];B[mg]C[B is alive]))
+(;W[qe];B[pf];W[qg];B[mg]C[CHOICE])
+(;W[oe];B[pf]
+(;W[qg];B[od]C[CHOICE])
+(;W[od];B[qg]C[CHOICE])))

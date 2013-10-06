@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[36]SO[mysandbox]CO[0]AB[rs]AB[qr]AB[pr]AB[oq]AB[nq]AB[mq]AB[lq]AB[kr]AB[ls]AW[jr]AW[jq]AW[kq]AW[lp]AW[mp]AW[op]AW[po]AW[pq]AW[qq]AW[rq]AW[rr]AW[or]AW[qs]AP[goproblems]
+(;B[ps];W[os]
+(;B[nr];W[qs];B[ns]
+(;W[ss];B[mr]C[RIGHT])
+(;W[mr];B[pr]C[RIGHT]))
+(;B[ns];W[qs]
+(;B[mr];W[nr])
+(;B[nr];W[mr])
+(;B[pr];W[qr]
+(;B[nr];W[ps];B[mr]C[RIGHT])
+(;B[mr];W[ps];B[nr]C[RIGHT])
+(;B[ms])))
+(;B[mr];W[ns]))
+(;B[os];W[nr]
+(;B[mr];W[ps])
+(;B[ns];W[ps]))
+(;B[nr];W[ps]
+(;B[ns];W[mr])
+(;B[mr];W[ns]))
+(;B[mr];W[ns])
+(;B[ns];W[nr]
+(;B[mr];W[ps])
+(;B[os];W[ps])))

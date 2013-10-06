@@ -1,0 +1,44 @@
+(;GE[tesuji]DI[3d]DP[10]SO[dnerra]CO[7]GM[1]FF[3]
+AB[ac][bg][be][bd][bc][de][dd][ee][ec][eb][ea][fc][gc][ga][hb][ie][ib]
+AW[af][ab][bf][bb][ci][cf][cc][ca][df][dc][db][da][ed][fd][gf][gd][hc][ic][jc]
+PL[1]
+(;B[fg]
+(;W[eh]
+(;B[fe];W[ge];B[eg]C[RIGHT])
+ 
+(;B[ff]C[RIGHT])
+ 
+(;B[gg];W[ff])
+)
+ 
+(;W[ef];B[fe]
+(;W[ff];B[ge];W[hd];B[he])
+ 
+(;W[ge];B[ff])
+)
+ 
+(;W[ff];B[ef];W[eg];B[dg];W[eh];B[cg]C[RIGHT])
+)
+ 
+(;B[ef];W[eg];B[fg];W[eh];B[ff];W[he]C[B has bad shape.])
+ 
+(;B[fe];W[ge]C[Black is captured.];B[fg];W[ff];B[ef];W[eg];B[dg];W[eh]
+;B[cg];W[cd])
+ 
+(;B[ff];W[fg]C[This is often a tesuji, but here it does not work...]
+(;B[gg];W[ef];B[fe];W[ge])
+ 
+(;B[ge];W[he];B[fe];W[hd]
+(;B[eg];W[fh];B[ef];W[dh])
+ 
+(;B[gg];W[hf];B[eg];W[fh];B[ef];W[dh])
+)
+)
+ 
+(;B[ge];W[he];B[fe];W[hd]
+(;B[eg];W[gh];B[fg];W[dh]C[Black can escape only with bad shape.])
+ 
+(;B[ff];W[fg]C[Black is captured.])
+)
+ 
+)

@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[1d]DP[15]SO[Zwom]CO[8]AB[br]AB[cr]AB[dr]AB[cq]AB[dp]AB[ep]AB[fp]AB[gq]AW[bq]AW[bp]AW[cp]AW[co]AW[do]AW[eo]AW[er]AW[eq]AW[dq]AW[hq]AW[iq]AW[kq]AP[goproblems]
+(;W[gr];B[fr]
+(;W[fs];B[fq];W[es];B[ds];W[gs];B[hr];W[hs];B[is])
+(;W[gp];B[fq];W[es];B[fs]))
+(;W[fs];B[gr];W[hr];B[gs];W[gp]
+(;B[fq];W[fo]C[RIGHT])
+(;B[fo];W[fq]C[RIGHT]))
+(;W[gs];B[fs];W[fr];B[gr]
+(;W[es];B[hr];W[hs];B[is];W[ir];B[fs];W[gs];B[fq])
+(;W[hs];B[fq];W[es];B[ds];W[fs];B[hr];W[is];B[ir];W[js];B[jr];W[ks];B[kr];W[ls];B[lr]C[Nowhere to run...]))
+(;W[hs];B[fs]
+(;W[fr];B[gr];W[gs];B[fq];W[es];B[ds];W[fs];B[hr];W[is];B[ir]C[nowhere to run])
+(;W[gr];B[fr])
+(;W[gs];B[fr]))
+(;W[fr];B[gr];W[gs];B[hs];W[hr];B[fs];W[gp];B[es]))

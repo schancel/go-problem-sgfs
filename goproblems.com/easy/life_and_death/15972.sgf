@@ -1,0 +1,26 @@
+(;GE[life and death]DI[7k]DP[43]SO[pitchflare]CO[0]AB[bq]AB[cq]AB[dr]AB[ds]AW[es]AW[er]AW[eq]AW[dq]AW[dp]AW[cp]AW[bp]AB[bs]C[Can you kill black? If not, Tenuki.]LB[go:T]AP[goproblems]
+(;W[cr];B[cs]
+(;W[aq];B[br];W[ar]C[Good work. :)RIGHT])
+(;W[ar];B[br];W[aq]C[Indeed.RIGHT])
+(;W[br];B[ar]))
+(;W[go]C[]AB[es]AB[er]AB[eq]AB[dq]AB[dp]AB[cp]AB[bp]AW[bs]AW[bq]AW[cq]AW[dr]AW[ds];B[cr]C[In that case, live as white!]AB[go]
+(;W[cs]
+(;B[aq]C[CHOICE];W[br];B[ar]C[Nope.])
+(;B[ar]C[CHOICE];W[br];B[aq]C[Dead.]))
+(;W[br];B[cs]C[Oops.])
+(;W[ar];B[cs];W[ap];B[br];W[aq];B[ao]C[Dangit.]))
+(;W[aq];B[ar]
+(;W[cr];B[ap]
+(;W[cs];B[bo]C[Black escapes... uh oh.])
+(;W[ao];B[cs]))
+(;W[ap];B[cr]C[Black lives.]))
+(;W[br]
+(;B[cr]C[CHOICE];W[aq];B[ar]C[D'oh!])
+(;B[ar]C[CHOICE];W[cr];B[cs]C[Drat.]))
+(;W[ar];B[aq]
+(;W[br];B[cr]C[Black is alive!])
+(;W[cr]C[This also works!RIGHT]))
+(;W[as];B[ar]C[What were you thinking, silly?])
+(;W[cs];B[cr]
+(;W[aq];B[ar]C[Nope.])
+(;W[ar];B[aq]C[Black lives and gets two prisoners! :(])))

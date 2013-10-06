@@ -1,0 +1,55 @@
+(;GE[life and death]DI[3k]DP[25]SO[lok]CO[0]AB[ls]AB[lr]AB[lq]AB[lp]AB[op]AB[oq]AB[pq]AB[qq]AB[qr]AW[ks]AW[kr]AW[kq]AW[kp]AW[ko]AW[lo]AW[mo]AW[no]AW[oo]AW[pp]AW[qp]AW[ro]AW[rq]AW[rr]AW[os]C[Black to live.]AP[goproblems]
+(;B[or];W[ps]
+(;B[qs];W[mq]
+(;B[mr];W[nq]
+(;B[nr];W[ns]C[SekiRIGHT])
+(;B[np]C[NOTTHIS])
+(;B[mp]C[FORCENOTTHIS]))
+(;B[mp]C[];W[np]
+(;B[mr];W[nq];B[nr];W[ns]C[Seki, but not the best variation: pushing at N4 lose one ko threat.RIGHT])
+(;B[nq];W[mr]))
+(;B[nr];W[mr])
+(;B[nq];W[mr]))
+(;B[ns];W[mr];B[qs];W[mq]))
+(;B[nr];W[qs])
+(;B[qs];W[nq]
+(;B[nr];W[mq];B[mr];W[or]
+(;B[ns];W[mp])
+(;B[pr];W[ns]))
+(;B[np];W[mp]
+(;B[mq];W[nr])
+(;B[nr];W[mq]
+(;B[mr];W[or])
+(;B[or];W[mr]TR[ns]TR[ps]C[Miai to kill.]))))
+(;B[ps];W[nr]
+(;B[nq];W[mq]
+(;B[mp];W[np];B[mr];W[ms];B[ns];W[qm]C[White plays a ko threat. Please answer at S7.FORCE];B[rm];W[ms];B[mq];W[or]C[Ko.])
+(;B[or];W[mr])
+(;B[mr];W[mp]))
+(;B[np];W[mp];B[mq];W[nq])
+(;B[mp];W[np];B[nq];W[ms];B[mq];W[or])
+(;B[or];W[nq]))
+(;B[ns];W[mq]
+(;B[mr];W[nr]
+(;B[mp];W[np];B[nq];W[ms];B[mq];W[qs];B[ns];W[or]
+(;B[pr];W[ms]C[Ko.])
+(;B[ps];W[ms]C[Ko.]))
+(;B[nq];W[ms];B[mp];W[np];B[ns]C[];W[qm]TR[rm]C[White plays a ko threat. Please answer at S7.FORCE];B[rm];W[ms];B[mq];W[qs]
+(;B[ns];W[or]
+(;B[ps];W[ms]C[Ko.])
+(;B[pr];W[ms]C[Ko]))
+(;B[ps];W[pr];B[ns]C[Ko])))
+(;B[mp];W[np]
+(;B[nq];W[mr])
+(;B[mr];W[nq]
+(;B[or];W[nr])
+(;B[nr];W[or]))))
+(;B[nq]C[Wrong. See problem 11020.])
+(;B[np];W[nr]
+(;B[ps])
+(;B[mp];W[qs]))
+(;B[mp];W[mr]TR[np]TR[qs]C[Next the triangle points are miai for white to save either N2 or P1, so black is dead.])
+(;B[mq];W[nr];B[nq]C[Wrong. See problem 11099])
+(;B[mr]C[];W[nr];B[nq];W[or];B[qs];W[mq];B[mp];W[np]C[If black doesn't connect, white can  turn this into a direct ko. As white still need an approach move after, this might be played at a later stage of the game.]
+(;B[mq];W[rs];B[ns]C[10 thousand years ko])
+(;B[qm];W[rs]C[Later white can play N1 to start the ko.])))

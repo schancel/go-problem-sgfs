@@ -1,0 +1,92 @@
+(;GE[life and death]DI[5d]DP[4]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[temp2]
+
+AB[ds][cr][br][bs][ar][aq][bp][ap][ao][bn][an][am][al][bl][cl]
+[dl][ck][dk][ek][dj][ej][ei][fj][fi][gh][gi][gj][gk][gl][gm]
+[gn][dn][do][dp][ep][eq][fq][gq][hq][gr][gs][hs][ir][jr][js]
+[ks][mr][ms][np][mp][lp][kp][jp][jo][io][ho][in][hn][hm][hj]
+[hi][hh][hg][ig][if][jf][je][ke][kd][ld][lc][mc][mb][ma][ib]
+[hc][gc][gd][fc][ec][eb][dc][de][ce][df][ef][cg][bh][os][or]
+[oq][pq][qq][rq][sr][rs][oo][om][nm][nl][nk][mn][ln][lm][ll]
+[kl][lj][kj][jj][pl][ql][qk][rk][sk][rm][rn][pj][pi][ph][qi]
+[qh][rh][qg][qf][qe][pf][pd][oe][nf][nh][mh][oc][ob][on]AW[sp]
+[ro][qp][pp][op][po][pn][qn][pm][qm][sl][qj][rj][ri][sh][rg]
+[sf][rf][re][rd][qd][qc][pb][qa][na][nb][nc][nd][md][me][mf]
+[mg][lg][le][kf][kh][jg][ih][ii][ij][ji][li][mi][ni][oi][oj]
+[ok][ol][pk][mj][mk][ml][mm][no][mo][lo][ko][kn][jn][km][jl]
+[jk][hk][hl][im][ns][nr][nq][ls][kr][kq][lq][mq][jq][iq][ip]
+[hp][go][gp][fp][eo][en][fn][fm][el][fl][fk][la][lb][jb][kc]
+[ic][jd][hd][ie][fd][ge][hf][ff][gg][fh][eg][eh][fb][ea][da]
+[ch][di][cj][bj][bk][ak][ai][dm][cm][bm][cn][co][bo][cp][cq]
+[bq][dq][dr][er][fr][fs][cf][bf][af][be][bd][bc][cc][cb][ba]
+[ab][ee]TR[on]C[White needs to keep the N3 and Q6 groups safe. Black has continued from part 1 with the marked stone.]
+
+(;W[rp];B[nn];W[jm];B[ik];W[il];B[kk];W[ik];B[ki];W[jh];B[lh]
+;W[kg];B[oh]
+(;W[si];B[oa]
+(;W[od];B[pc]
+(;W[pa];B[pe]
+(;W[og];B[ng]LB[of:a]C[please play at 'a'];W[of];B[sm]
+(;W[so];B[sq];W[sg];B[rl];W[sj]C[White's Q6 group is safe for now. RIGHT]
+)
+(;W[sn];B[rl]
+(;W[sg];B[sq];W[sj];B[so]C[ko, black takes first])
+(;W[so];B[sq]))
+(;W[sg];B[sq]
+(;W[sj];B[rl]
+(;W[so]C[White's Q6 group is out of immediate danger. RIGHT]
+)
+(;W[rb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[qb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[hb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[sn];B[so]C[ko, black takes first]))
+(;W[so];B[rl];W[sj]C[White's Q6 group is out of immediate danger. RIGHT]
+)
+(;W[sn];B[so]C[ko, black takes first and he has the move at S8 which acts as a threat.]
+)))
+(;W[ng];B[og]C[white will lose the M3 group]))
+(;W[og];B[ng]
+(;W[pa];B[pe]LB[of:a]C[please play at 'a'];W[of];B[sm]
+(;W[so];B[sq];W[sg];B[rl];W[sj]C[White's Q6 group is out of immediate danger. RIGHT]
+)
+(;W[sn];B[rl];W[sg];B[sq];W[sj];B[so]C[ko, black takes first]
+)
+(;W[sg];B[sq]
+(;W[so];B[rl];W[sj]C[White's Q6 group is out of immediate danger. RIGHT]
+)
+(;W[sj];B[rl]
+(;W[so]C[White's Q6 group is out of immediate danger. RIGHT]
+)
+(;W[rb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[qb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[hb];B[so];W[sn];B[pg]C[white will take a big loss])
+(;W[sn];B[so]C[ko, black takes first]))
+(;W[sn];B[so]C[ko, black takes first and the move at S8 acts as a local threat]
+)))
+(;W[of];B[ne])
+(;W[pg];B[ne]))
+(;W[ng];B[og];W[pa];B[pe]C[white will lose the M3 group]))
+(;W[og];B[ng];W[od];B[ne])
+(;W[pa];B[od]C[white loses the M5 and M3 groups])
+(;W[ng];B[og]C[white loses M5 and M3 groups])
+(;W[pc];B[od]C[white loses the M5 and M3 groups])
+(;W[sn];B[ng]C[white loses the the M5 and M3 groups])
+(;W[sg];B[ng]C[white loses the M3 and M5 groups]))
+(;W[oa];B[si]C[3 white groups die])
+(;W[od];B[si]C[3 white groups die])
+(;W[og];B[si]C[3 white groups die])
+(;W[sn];B[si]
+(;W[sm];B[oa]C[3 white groups die including M3])
+(;W[oa];B[rl]C[3 white groups die])
+(;W[od];B[rl]C[3 white groups die]))
+(;W[pa];B[si]C[3 white groups die])
+(;W[pc];B[si]C[3 white groups die]))
+(;W[nj];B[nn];W[jm];B[rp])
+(;W[jm];B[rp])
+(;W[lk];B[rp])
+(;W[kk];B[rp])
+(;W[nn];B[jm])
+(;W[sn];B[rp])
+(;W[si];B[rp])
+(;W[ik];B[rp]))

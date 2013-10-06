@@ -1,0 +1,16 @@
+(;GE[endgame]DI[25k]DP[76]SO[Bildstein]CO[7]AW[ss]AW[rs]AW[qs]AB[ps]AB[pr]AB[qr]AB[qq]AB[rq]AB[rr]AB[sq]AB[rp]AW[sp]AW[so]AW[ro]AW[qo]AW[qp]AW[pp]AW[qn]AW[pn]AW[on]AW[oo]AW[nq]AW[ns]AW[ms]AW[os]AW[oq]AW[or]AW[mr]AB[mq]AB[lq]AB[lr]AB[ls]AB[np]AB[op]AB[no]AB[nn]AB[mm]AB[om]AB[pm]AB[rm]AB[qm]AB[rn]AB[sn]LB[ln:T]C[Black has just played A. White to play. Play if you think you have to, otherwise play T to tenuki.]LB[op:A]AP[goproblems]
+(;W[pq]C[];B[sr]
+(;W[rs]TR[pq]C[If you hadn't played the marked stone, Black would play there now and win.RIGHT])
+(;W[qs];B[rs]C[Black should have died])
+(;W[ss];B[rs]C[Black should have died]))
+(;W[ln]
+(;B[sr]
+(;W[rs];B[pq]C[White dies])
+(;W[pq];B[rs]C[White lives, but so does Black])
+(;W[qs];B[pq]C[White dies])
+(;W[ss];B[pq]C[White dies])
+(;W[nr];B[pq])
+(;W[po];B[pq]))
+(;B[pq];W[sr]))
+(;W[po];B[pq])
+(;W[nr];B[pq]))

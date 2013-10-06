@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[3k]DP[25]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[cc][dd][id][jd][kd][ld][nd][ge][he][ke][me][ne][cf][gf][nf][gg][mg][bh][eh][hh][mh][ii][ji][ki][mi][gj][hj]AB[cb][db][hb][fc][ic][hd][ie][je][le][hf][jf][kf][lf][mf][fg][hg][lg][fh][gh][jh][ei][gi][fj]TR[ge][he][gf][gg]C[black to catch the marked stones]
+(;B[gd]CR[gd]
+;W[fe]CR[fe]
+(;B[ee]CR[ee]C[RIGHT])
+(;B[ed]CR[ed]
+;W[ee]CR[ee])
+(;B[ef]CR[ef]
+;W[ee]CR[ee])
+(;B[fd]CR[fd]
+;W[ee]CR[ee])
+(;B[ff]CR[ff]
+;W[ee]CR[ee]))
+(;B[fe]CR[fe]
+;W[gd]CR[gd]
+(;B[gc]CR[gc]
+;W[hc]CR[hc]C[ko not best])
+(;B[hc]CR[hc]
+;W[ig]CR[ig]
+;B[if]CR[if]
+;W[lh]CR[lh]
+;B[ih]CR[ih]
+;W[hi]CR[hi]
+;B[jg]CR[jg]
+;W[kh]CR[kh]))
+(;B[ff]CR[ff]
+;W[gd]CR[gd]
+(;B[gc]CR[gc]
+;W[hc]CR[hc]C[ko not best])
+(;B[hc]CR[hc]
+;W[ig]CR[ig]))
+(;B[ee]CR[ee]
+;W[ig]CR[ig]
+;B[if]CR[if]
+;W[lh]CR[lh])
+(;B[ef]CR[ef]
+;W[ig]CR[ig]
+;B[if]CR[if]
+;W[lh]CR[lh])
+(;B[fd]CR[fd]
+;W[ig]CR[ig]
+;B[if]CR[if]
+;W[lh]CR[lh])
+(;B[ig]CR[ig]
+;W[ee]CR[ee]))

@@ -1,0 +1,28 @@
+(;GE[joseki]DI[12k]DP[55]SO[LCZLAPINSKI]CO[7]AB[dd]AB[jd]AB[pd]AB[pj]AB[dj]AB[jj]AB[dp]AB[jp]AB[pp]AB[qd]AW[qc]AW[pc]AB[oc]AW[ob]AB[nb]AW[nc]AW[mb]AB[od]AP[goproblems]
+(;B[nd]
+(;W[na]C[CHOICE];B[mc];W[nb]
+(;B[md]C[RIGHT])
+(;B[lc]C[In the joseki without the handicap stones, the solid connection at N16 is usually better. In this position M17 is playable.RIGHT]))
+(;W[mc]C[This is a mistake by white.CHOICE]
+(;B[pb];W[na];B[qb];W[rc];B[rb];W[rd];B[re]TR[pc]TR[qc]TR[rc]TR[rd]C[White loses all of the corner. Compare this to the correct variations where white has a base to expand from. White will have to make more moves in this area for his other stones  to live.RIGHT])
+(;B[md];W[rc]C[bN16 allowed white to live in the corner.])))
+(;B[pb];W[na]
+(;B[qb]C[RIGHT]
+(;W[rc];B[rb]
+(;W[rd];B[re]TR[pc]TR[qc]TR[rc]TR[rd]C[Q17 group is dead. The wS16 bS15 exchange is bad for white. It gives black a good stone (can expand from it) for a dead stone.RIGHT])
+(;W[me]C[RIGHT])
+(;W[kc]C[RIGHT]))
+(;W[kc]C[RIGHT])
+(;W[me]C[RIGHT]))
+(;B[pa];W[rb]
+(;B[rd];W[qb])
+(;B[oa];W[nb];B[rd];W[rc]C[White can live in the corner.];B[sc];W[sb]))
+(;B[rb];W[qb]C[White gets an eye in the 4x4 corner with chances to expand later.])
+(;B[rc];W[qb];B[rb];W[pa]C[White has the two marked eyes. White has chances to expand later.]TR[oa]TR[pb]))
+(;B[mc];W[nd];B[ne]
+(;W[md]C[CHOICE];B[pb];W[na]C[This gives white more chances for later expansion.])
+(;W[na]C[Shape with bO16 is better than current shape with bO15.CHOICE]))
+(;B[rc]
+(;W[pb]C[White has good chances to get the corner or expand later.])
+(;W[qb]C[CHOICE];B[nd];W[mc]C[White is alive with chances to expand later.]))
+(;B[na];W[pb]C[White lives in the corner with chances for later expansion. bO19 wQ18 exchange gives white better chances for life. Black gets a possible sente move of bO16.];B[nd];W[mc]))

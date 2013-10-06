@@ -1,0 +1,26 @@
+(;GE[life and death]DI[3d]DP[11]SO[egoista]CO[0]AB[ap]AB[bp]AB[cp]AB[an]AB[bn]AB[cn]AB[dn]AB[en]AB[eo]AB[ep]AB[eq]AB[fr]AB[fs]AW[ao]AW[bo]AW[do]AW[co]AW[dp]AW[dq]AW[cr]C[Black to kill. No ko.]AP[goproblems]
+(;B[br];W[bq]
+(;B[cs]
+(;W[ar]
+(;B[dr]C[];W[bs];B[cq]C[RIGHT])
+(;B[bs];W[ds]))
+(;W[ds]C[CHOICE]
+(;B[bs];W[ar])
+(;B[as];W[cq];B[dr];W[aq];B[es];W[ar])
+(;B[dr]C[];W[er];B[aq];W[bs];B[cq];W[dr]
+(;B[es]C[RIGHT])
+(;B[ar]C[RIGHT]))
+(;B[aq];W[ar];B[as];W[dr];B[cq];W[bs])))
+(;B[aq];W[cq])
+(;B[dr];W[cq];B[cs];W[aq]TR[bp]TR[bs]C[miai to live]
+(;B[bp];W[bs];B[as];W[ar])
+(;B[bs];W[bp])))
+(;B[cq];W[dr];B[br];W[ar]
+(;B[bs];W[bq])
+(;B[bq];W[bs])
+(;B[aq];W[bq])
+(;B[cs];W[bq]))
+(;B[dr];W[cq]
+(;B[br];W[bq])
+(;B[bs];W[cs];B[ar];W[br];B[ds];W[as]C[A ko is not enough])
+(;B[cs];W[bs];B[br];W[ds];B[bq];W[er];B[ar];W[es])))

@@ -1,0 +1,152 @@
+(;GE[life and death]DI[2k]DP[23]SO[briv]CO[7]AB[br]AB[bq]AB[cp]AB[co]AW[dq]AW[dp]AW[cq]AB[do]AB[fn]AW[gp]AW[iq]AW[jp]AW[jo]AW[kq]AW[kr]AB[lq]AB[kp]AB[ko]AB[lo]AB[mo]AB[mn]AW[mq]AW[nq]AW[pr]AW[pp]AW[oo]AW[pn]AW[pm]AW[qn]AW[rn]AB[rm]AB[qm]AB[pl]AB[qk]AB[ok]AB[oj]AB[oi]AW[ol]AW[nl]AW[nk]AW[nj]AW[lk]AW[kl]AW[kn]AW[ln]AB[ml]AB[jn]AB[in]AB[im]C[Can black capture marked stones ?]AB[pc]AB[pe]AW[dd]AW[cf]AW[gc]AW[bk]AB[bm]AW[ci]AB[cc]AB[dc]AW[cd]AB[eb]AW[ec]AB[bd]AW[be]AB[bc]AW[fc]AW[fb]AB[ed]AB[db]AB[lr]AW[cr]TR[kn]TR[ln]AP[goproblems]
+(;B[km];W[lm];B[ll];W[jm];B[mm];W[km]C[]MA[kl]MA[lm]MA[ln]MA[kn]MA[jm]MA[km]
+(;B[kk];W[jl]
+(;B[il];W[jk]
+(;B[kj];W[jj]C[White escapes])
+(;B[jj];W[ik]C[White escapes]))
+(;B[jk];W[il]
+(;B[hl];W[ik];B[ij];W[hk];B[gk];W[hj];B[hi];W[gj];B[fj];W[gi];B[gh];W[fi];B[ei];W[fh];B[fg];W[eh];B[dh];W[eg];B[ef];W[dg]
+(;B[df];W[cg]C[It doesn't work])
+(;B[cg];W[df]C[It doesn't work]))
+(;B[hk]C[Good idea to use F6 stone but...];W[hl]C[Good idea to use F6 stone but...];B[gl];W[hm];B[hn];W[gm]
+(;B[fm]
+(;W[fl];B[gk]C[White is dead]
+(;W[gn];B[go];W[ik];B[ij])
+(;W[ik];B[ij];W[gn];B[go])
+(;W[go];B[gn])
+(;W[ij];B[ik]))
+(;W[gk]C[CHOICE]
+(;B[gn];W[fl]C[White escapes];B[ik];W[gl])
+(;B[ik];W[fl]C[White escapes];B[gn];W[gl])
+(;B[fl];W[ik]
+(;B[ij];W[hj];B[gn];W[hk]C[White escapes])
+(;B[hj];W[ij]C[White escapes]))))
+(;B[fl];W[gn];B[mk];W[lj];B[mj];W[mi];B[li];W[kj];B[ik];W[ho]C[Black escapes but white lives]))
+(;B[hj];W[hl]C[Black can't prevent white from capturing stones or escaping]TR[in]TR[im]TR[jn]
+(;B[gm];W[gk]C[White escapes])
+(;B[gn];W[gk]C[White escapes])
+(;B[gk];W[hn]C[White is alive])
+(;B[fk];W[hn]C[White is alive])
+(;B[gl];W[hn]C[White is alive])
+(;B[fl];W[hn]C[White is alive])
+(;B[hm];W[fl]C[White escapes])))
+(;B[ik];W[jk]
+(;B[jj];W[kj];B[il];W[kk]C[White escapes (and black dies)])
+(;B[kj];W[jj]C[White escapes]))
+(;B[ij]C[J10 is a nice move];W[jk]C[J10 is a nice move]
+(;B[kj];W[jj];B[ji];W[ki];B[lj];W[ii];B[jh];W[ik];B[hj];W[hk]
+(;B[gk];W[gj];B[hi];W[gl];B[fk];W[hl]
+(;B[fl]
+(;W[gn]C[CHOICE]
+(;B[go]
+(;W[hn];B[ho]
+(;W[io]C[NOTTHIS];B[gm]C[White is dead])
+(;W[gm]C[CHOICE]
+(;B[fm];W[io]
+(;B[fp]C[local seki])
+(;B[fo]C[local seki]))
+(;B[io];W[fm];B[em];W[en];B[fo];W[el];B[dm];W[gi];B[hh];W[ek]C[White escapes])))
+(;W[gm]
+(;B[fo];W[ho];B[hn];W[io];B[fm]C[local seki])
+(;B[ho];W[fm];B[em];W[en];B[fo];W[el];B[dm];W[gi];B[hh];W[ek]C[White escapes])))
+(;B[gm];W[hm];B[hn];W[fm];B[go]
+(;W[em];B[gm]C[ko])
+(;W[fo];B[gm]C[ko]))
+(;B[hn];W[gm];B[go];W[fo];B[ho];W[fm];B[en];W[em]C[White escapes]
+(;B[dl];W[el];B[ek];W[dm]
+(;B[cl];W[eo];B[dn];W[hp];B[cm];W[io]C[local seki])
+(;B[cm];W[dk];B[cl];W[ej]C[White escapes]))
+(;B[el];W[dl];B[dk];W[dm];B[ck];W[bl]
+(;B[cl];W[cm];B[bn];W[fj];B[ek];W[cj]C[White escapes])
+(;B[cm];W[cl]C[White escapes]))
+(;B[dm];W[eo];B[dn];W[el]
+(;B[dj];W[dk];B[fj];W[cj]C[White escapes])
+(;B[dk];W[ek];B[fj];W[ej];B[fi];W[dl]C[White escapes])
+(;B[dl];W[ek]C[White escapes]))))
+(;W[hn];B[hm];W[gm];B[gn];W[ho];B[fm]C[White is dead]))
+(;B[em];W[gn]
+(;B[gm];W[hm];B[hn];W[fm];B[go];W[fo];B[gm];W[fl];B[el];W[gn]C[ko])
+(;B[go];W[hn];B[ho];W[io]C[White is alive]))
+(;B[fm]C[Nice, white can't escape !RIGHT];W[fl]C[RIGHT];B[el];W[gi];B[hh];W[ek];B[fj];W[ej];B[fi];W[gh]C[Please play at 'A' if you want remove liberty]LB[gm:A]
+(;B[fh];W[gg]
+(;B[fg];W[ff]
+(;B[gf];W[hg];B[ih];W[hf]
+(;B[ef];W[fe]
+(;B[eg]C[White is deadRIGHT])
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm]C[White is deadRIGHT]))
+(;B[ei]
+(;W[di]C[CHOICE]
+(;B[fh];W[gg];B[fg];W[ff]
+(;B[gf];W[hg];B[ih];W[eg]C[White is alive])
+(;B[eg];W[ef];B[dg];W[df]
+(;B[gm]C[White is deadRIGHT])
+(;B[cg];W[bg];B[gm]C[White is deadRIGHT])))
+(;B[fg];W[gg]
+(;B[ef];W[hg];B[ih];W[eg]
+(;B[fh];W[ff]C[White is alive])
+(;B[eh];W[dg]
+(;B[fh];W[ff]C[White is alive])
+(;B[ff];W[fh]C[White is alive]))
+(;B[ff];W[fh]C[White is alive]))
+(;B[eg]C[White is deadRIGHT])
+(;B[fh];W[ff];B[gf];W[hg];B[ih];W[eg]C[White is alive])
+(;B[ff];W[fh];B[eh];W[eg];B[dh];W[dg];B[ch];W[bh]C[White is alive])
+(;B[dg];W[ff]
+(;B[eg]C[White is deadRIGHT])
+(;B[gf];W[hg];B[ih];W[eh]C[White is alive])))
+(;B[eg];W[eh]C[White is alive])
+(;B[eh];W[hg];B[ih];W[fg]
+(;B[eg];W[ef]
+(;B[dg];W[cg]
+(;B[df];W[ee]
+(;B[de];W[ce]C[White is alive])
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm]C[White is dead]))
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm]C[White is deadRIGHT]))
+(;B[gm];W[eh]C[White is alive]))
+(;W[fh]C[CHOICE]
+(;B[eh];W[eg]
+(;B[fg];W[gg]
+(;B[dg];W[ef];B[dh];W[df];B[gm]C[White is deadRIGHT])
+(;B[ff];W[dh]C[White is alive]))
+(;B[gm]C[];W[dh]C[White is alive]))
+(;B[di];W[cj];B[eg]C[White is deadRIGHT])))
+(;B[gm];W[fh]C[Black is dead]))
+(;B[gm];W[fl];B[el];W[ek];B[fj];W[em];B[dl];W[fm];B[gn];W[dm]
+(;B[cl]
+(;W[mk]C[CHOICE]
+(;B[mi];W[mp]C[White wins the race (M4 and N2 don't add liberty)]LB[cm:1]LB[dn:2]LB[en:3]LB[hm:4]LB[il:5]LB[lp:1]LB[no:2]LB[nn:3]LB[nm:4];B[cm];W[lp];B[dn];W[no];B[en];W[nn];B[hm];W[nm])
+(;B[li];W[mp]C[White wins the race (M4 and N2 don't add liberty)]LB[cm:1]LB[dn:2]LB[en:3]LB[hm:4]LB[il:5]LB[lp:1]LB[no:2]LB[nn:3]LB[nm:4];B[cm];W[lp];B[dn];W[no];B[en];W[nn];B[hm];W[nm]))
+(;W[en]C[NOTTHIS];B[eo];W[fo];B[hm]))
+(;B[cm];W[ej];B[fi];W[cl]C[White escapes]))
+(;B[gn];W[fl];B[el];W[ek];B[fj];W[em];B[dl];W[dm];B[cl];W[mk]
+(;B[mi];W[fm]LB[cm:1]LB[dn:2]LB[en:3]LB[gm:4]LB[hm:5]LB[il:6]LB[lp:1]LB[mp:2]LB[no:3]LB[nn:4]LB[nm:5]C[White wins the race (M4 and N2 don't add liberty)];B[cm];W[mp];B[dn];W[lp];B[en];W[no];B[gm];W[nn];B[hm];W[nm])
+(;B[li];W[fm]C[White wins the race (M4 and N2 don't add liberty)]LB[cm:1]LB[dn:2]LB[en:3]LB[gm:4]LB[hm:5]LB[il:6]LB[no:3]LB[lp:1]LB[mp:2]LB[nn:4]LB[nm:5];B[cm];W[mp];B[dn];W[lp];B[en];W[no];B[gm];W[nn];B[hm];W[nm])))
+(;B[gj];W[gk];B[fk];W[fl]
+(;B[fj];W[gm];B[gn];W[el]C[White is alive])
+(;B[el];W[fj];B[ek];W[gi]C[White is alive])
+(;B[ek];W[gm]
+(;B[el];W[gn]C[White is alive])
+(;B[gn];W[el];B[dl];W[fj]
+(;B[ej];W[fi];B[hi];W[ih];B[hh];W[ig];B[jg];W[hg];B[gh];W[ei]
+(;B[dk];W[ff];B[hl];W[gl];B[hm];W[gg];B[em];W[fh]C[White is alive])
+(;B[gg];W[jf];B[lh];W[dk];B[dj];W[ck]C[White is alive]))
+(;B[hh];W[dk];B[ej];W[fi];B[gh];W[ei];B[dj];W[ck]C[White is alive])
+(;B[fi];W[ej];B[dk];W[gi]C[White is alive])))))
+(;B[jj];W[kj]C[White escapes]))
+(;B[mk];W[jk]C[White is alive]))
+(;B[mk];W[kk]C[White escapes]))
+(;B[mm];W[ll];B[mk];W[mj];B[lj];W[kj];B[li];W[ki]C[Black is dead])
+(;B[ll];W[km];B[kk];W[jk];B[kj];W[jl]
+(;B[mk];W[mm]C[White escapes and black dies])
+(;B[mm];W[lj]C[White escapes and black dies]))
+(;B[lm];W[km];B[mk];W[mj];B[lj];W[kj];B[li];W[ik]C[White escapes and black dies])
+(;B[mk];W[ll]
+(;B[mm];W[mj];B[lj];W[kj];B[li];W[ki]C[Black is dead])
+(;B[mj];W[mm];B[nm];W[lm];B[om];W[ni]
+(;B[nh];W[mi]C[Black is dead])
+(;B[mi];W[nh]C[Black is dead]))))

@@ -1,0 +1,154 @@
+(;GE[life and death]DI[6k]DP[36]SO[LCZLAPINSKI]CO[6]SZ[13]AW[c7]AB[kd]AB[jl]AB[jk]AB[je]AB[jc]AB[ek]AW[ej]AW[ei]AW[eh]AB[eg]AB[ef]AW[ee]AW[ec]AB[eb]AW[dj]AW[dk]AB[dl]AW[di]AB[dh]AB[df]AW[dd]AW[dc]AW[db]AW[cl]AW[cj]AW[ch]AB[ce]AW[cd]AW[bj]AW[bi]AB[bh]AB[bf]AB[bd]AW[bc]AW[ai]AB[ag]AW[ah]AB[el]AB[fa]AB[fb]AB[fc]AW[fd]AW[fe]AW[ff]AW[fg]AW[fi]AB[fj]AW[fk]AB[fl]AB[gb]AW[gc]AW[gd]AW[gh]AB[gi]AB[gj]AW[gk]AB[hc]AW[hd]AB[he]AB[hh]AB[hi]AW[hj]AW[hk]AB[ic]AB[ie]AB[ij]AW[il]AB[dl]AB[kg]AW[cg]AP[goproblems]AP[AB[kg]
+(;W[gl]C[CHOICE]N[VAR A]
+(;B[gm]C[CHOICE]N[VAR A1]
+(;W[dm]C[CHOICE]N[VAR A1A];B[ik]C[White loses the F3 group.])
+(;W[em]C[CHOICE]N[VAR A1B];B[ik]C[White loses the F3 group.])
+(;W[fm]C[CHOICE]N[VAR A1C];B[em]C[Playable but gives black an extra move over the Bg1, Wh1 variations.]
+(;W[dm]C[CHOICE];B[cm];W[bm];B[ik]C[Black captures the F3 group with Bh2.])
+(;W[hm];B[ik];W[fm]
+(;B[gg]
+(;W[dm]C[Ok, but allows black to cut white's stones with Bf6 ko. White now has to spend moves to ensure life. If white misplays white could even lose the upper group. Try the 2Bg1 3Wh1 line.RIGHT])
+(;W[fh];B[gm]C[Bh2 captures white's F3 group.]))
+(;B[da]
+(;W[ca];B[gm]C[Bh2 captures white's F3 group.])
+(;W[cb];B[gm]C[Bh2 captures white's F3 group.])
+(;W[dm]C[RIGHT])))
+(;W[cm];B[ik])
+(;W[hl];B[im];W[dm];B[cm];W[bm];B[ik]))
+(;W[hm]C[]N[VAR A1D]
+(;B[ik];W[fm]C[RIGHT])
+(;B[em]
+(;W[fm]C[RIGHT];B[da]
+(;W[ca]C[RIGHT];B[gm];W[ik]C[If black plays a move other than Bg1, white can respond to that move or kill the black stones. Unless black attempts Bg1, white can kill the black stones with Wd1 if needed.RIGHT];B[jm]
+(;W[fm]C[RIGHT])
+(;W[cm]C[RIGHT]
+(;B[im];W[fm]C[RIGHT])
+(;B[jj];W[dm]C[RIGHT])))
+(;W[cb]C[RIGHT];B[gm];W[ik]C[If black plays a move other than Bg1, white can respond to that move. Unless black attempts to play Bg1, white can kill the stones with Wd1 if needed.RIGHT])
+(;W[dm]C[CHOICERIGHT])
+(;W[hg];B[gm];W[ik];B[ii]
+(;W[cb]C[White can also play other moves not in navigate.CHOICERIGHT])
+(;W[fm]C[Ok, but gives black chances to do damage in the corner starting with Bc12. White can also play other moves not in navigate.RIGHT])
+(;W[ig]C[White can also other moves not in navigate.RIGHT]))
+(;B[jm];W[ii];B[ih];W[jj]C[RIGHT])
+(;W[ik];B[gm];W[cm];B[jm];W[dm];B[im];W[fm]C[RIGHT]))
+(;W[dm];B[cm];W[fm]C[RIGHT])
+(;W[cm];B[ik];W[fm]C[RIGHT])
+(;W[ik];B[jm];W[fm]C[RIGHT])
+(;W[jm];B[ik];W[fm]C[RIGHT])
+(;W[hg];B[ik];W[fm]C[RIGHT])
+(;W[bg];B[ik];W[fm]C[RIGHT])))
+(;W[ik]N[VAR A1E];B[im]C[White loses the F3 group.]))
+(;B[hm]N[VAR A2];W[fm]C[RIGHT])
+(;B[ik]N[VAR A3]
+(;W[dm]N[VAR A3A];B[gm]C[Black can kill F3 group with Bh2.])
+(;W[em]N[VAR A3B];B[gm]C[Black can kill F3 group with Bh2.])
+(;W[fm]C[CHOICE]N[VAR A3C]N[VAR A2A];B[im]
+(;W[dm]C[CHOICE];B[hl]
+(;W[em]C[CHOICERIGHT])
+(;W[gm]C[Ok, with this move the F3 group only has two liberties giving black a potential ko threat at H1. Capturing at E1 gives the F3 group 3 liberties.RIGHT]))
+(;W[em];B[hl]
+(;W[dm]C[CHOICERIGHT])
+(;W[gm]C[Ok, with this move the F3 group only has two liberties giving black a potential ko threat at H1. Capturing at D1 gives the F3 group 3 liberties.RIGHT])
+(;W[cm];B[gm]))
+(;W[gm]C[RIGHT])
+(;W[hm];B[hl]C[Black ignores ko threat and captures with Bg1.])
+(;W[hl];B[gm]
+(;W[hm];B[gm])
+(;W[dm];B[hm])))
+(;W[gm]N[VAR A3D]N[CHOICE];B[im]
+(;W[dm]C[CHOICE];B[hl]
+(;W[em]C[CHOICERIGHT])
+(;W[fm]C[RIGHT]))
+(;W[em];B[hl]
+(;W[dm]C[CHOICERIGHT])
+(;W[fm]C[RIGHT]))
+(;W[fm];B[hl]
+(;W[dm]C[CHOICERIGHT])
+(;W[em]C[RIGHT]))
+(;W[hm];B[hl]))
+(;W[hm]C[RIGHT]N[VAR A3E])
+(;W[im]N[VAR A2F];B[gm]C[Black can kill F3 group with Bh2.])
+(;W[hl];B[hm]
+(;W[dm];B[im])
+(;W[em]
+(;B[gm])
+(;B[im]))
+(;W[fm];B[im]))
+(;W[dg];B[im]
+(;W[dm];B[hl])
+(;W[em];B[hl])
+(;W[fm];B[hl];W[gm];B[hm])
+(;W[gm];B[hl]
+(;W[dm];B[hm];W[em];B[fm])
+(;W[em];B[hm];W[dm];B[fm])
+(;W[fm];B[hm];W[dm];B[em]))))
+(;B[im]N[VAR A3]
+(;W[em];B[gm]
+(;W[dm];B[fm];W[hm]C[RIGHT])
+(;W[fm];B[dm]))
+(;W[fm];B[gm];W[dm];B[em];W[fm]C[RIGHT])
+(;W[gm]C[RIGHT])
+(;W[hm]C[RIGHT])))
+(;W[ac]N[VAR B];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[ad]N[VAR C];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[ae]N[VAR D];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[bb]N[VAR E];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[bg]N[VAR F];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[cf]N[VAR G];B[gl]C[Good move since it takes away one of A9 and C8 which black needs for life. However, black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[da]N[VAR H];B[gl]C[White loses the F3 group.])
+(;W[de]N[VAR I];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[dg]N[VAR J];B[gl]C[Black's stones can already be killed because black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[dm]N[VAR K];B[gl]C[White loses the F3 group.])
+(;W[ef]N[VAR L];B[gl]C[White loses the F3 group.])
+(;W[em]N[VAR K];B[gl]C[White loses the F3 group.])
+(;W[fh]N[VAR M];B[gl]C[This isn't economical because blacks left groups can already be killed. Black needs both A9 and C8 for life. White loses the F3 group.])
+(;W[fm]N[VAR N];B[gl];W[hl];B[hm];W[em];B[ik];W[dm];B[ik];W[im];B[jm])
+(;W[gm]N[VAR O];B[gl];W[hl];B[hm]
+(;W[em];B[ik];W[im];B[jm]C[White loses the F3 group to Bh1.])
+(;W[jm];B[ik];W[dm];B[km]C[White loses the F3 group to Bh1.])
+(;W[dm];B[fm];W[cm];B[ik];W[em];B[im])
+(;W[fm];B[ik]
+(;W[dm];B[im])
+(;W[em];B[im])
+(;W[im];B[jm]))
+(;W[im];B[jm]
+(;W[dm];B[ik])
+(;W[em];B[ik])
+(;W[fm];B[ik])))
+(;W[hb]N[VAR P];B[gl];W[ib];B[jb]C[White loses both F3 and H12 groups.])
+(;W[hg]N[VAR Q];B[gl]C[White loses F3 group.])
+(;W[hl]N[VAR R];B[gl]C[White loses F3 group.])
+(;W[hm]N[VAR S];B[gl]C[White loses F3 group.])
+(;W[ii]N[VAR T];B[gl]C[White loses F3 group.])
+(;W[ik]N[VAR U];B[gl]C[White loses the F3 group.])
+(;W[jj]N[VAR V];B[gl];W[ik];B[ii]C[White loses the F3 group.])
+(;W[ea]
+(;B[hb];W[gl];B[gm]
+(;W[dm];B[ik]C[White loses the F3 group.])
+(;W[em];B[ik]C[White loses the F3 group to Bh2.])
+(;W[fm];B[em]
+(;W[cm];B[ik]C[White loses the F3 group to Bh2.])
+(;W[dm];B[cm];W[bm];B[ik]C[Black captures the F3 group with Bh2.])
+(;W[hm];B[ik];W[fm];B[gg];W[dm]C[RIGHT]))
+(;W[hm];B[em]
+(;W[cm];B[ik];W[fm]C[RIGHT])
+(;W[bg];B[ik];W[fm]C[RIGHT])
+(;W[dm];B[cm];W[fm]C[RIGHT])
+(;W[fm]C[RIGHT];B[da]
+(;W[dm]C[RIGHT])
+(;W[ca];B[gm];W[ik];B[jm]
+(;W[cm]
+(;B[im];W[fm]C[RIGHT])
+(;B[jj];W[dm]C[RIGHT]))
+(;W[fm]C[RIGHT]))
+(;W[cb];B[gm];W[ik]C[RIGHT])
+(;W[hg];B[gm];W[ik];B[ii]
+(;W[fm]C[RIGHT])
+(;W[cb]C[White can also play other moves not in navigate.RIGHT])
+(;W[ig]C[White can also play other moves not in navigate.RIGHT]))
+(;W[ik];B[gm];W[cm];B[jm];W[dm];B[im];W[fm]C[RIGHT])
+(;W[jm];B[ii];W[ih]C[RIGHT];B[jj]C[RIGHT]))))
+(;B[gl]C[CHOICE];W[hb];B[ib];W[ga];B[ik]C[White's F3 group is dead.];W[hl];B[dm]
+(;W[gm];B[im])
+(;W[hm];B[gm]C[White loses more than black since the F3 group can be killed if needed.]))))

@@ -1,0 +1,82 @@
+(;GE[life and death]DI[5k]DP[33]SO[santa c]CO[6]AB[bc]AB[cc]AB[db]AW[dc]AW[cd]AW[bd]AW[ad]AW[de]AW[ee]AW[fe]AW[fc]AW[gc]AW[hb]AB[ce]AB[be]AB[df]AB[dg]AB[cg]AB[ag]AB[bg]AW[ed]LB[db:A]LB[ed:1]AB[ba]LB[ba:2]AW[gb]AW[ha]C[After the correct white 1 reply to A black thinks that 2 will save him - Bring him down to earth.]AP[goproblems]
+(;W[ab];B[ac]
+(;W[da];B[eb]
+(;W[bb];B[cb]
+(;W[ea];B[fa]
+(;W[fb];B[ca];W[ea]C[Nice! :)RIGHT])
+(;W[ga];B[fb]C[Black's alive! (He has 2 eyes.)])
+(;W[ec];B[fb]C[Black's alive! (He has 2 eyes.)]))
+(;W[fb];B[ea]C[Black's alive! (He has 2 eyes.)])
+(;W[fa];B[ea]C[Black's alive! (He has 2 eyes.)]))
+(;W[cb];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[ca];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[ea]
+(;B[bb]
+(;W[ca];B[fa];W[fb];B[cb]C[Black's alive! (He has 2 eyes.)])
+(;W[fa]C[Nice! :)RIGHT])
+(;W[fb]C[Nice! :)RIGHT]))
+(;B[ca];W[bb];B[cb];W[fa]))
+(;W[fb];B[ea]C[Black's alive! (He will have 2 eyes.)]LB[bb:A]LB[cb:B]LB[ca:C])
+(;W[fa];B[ea]C[Black's alive! (He will have 2 eyes.)]LB[bb:A]LB[cb:B]LB[ca:C]))
+(;W[bb];B[cb]
+(;W[da];B[eb]
+(;W[ea];B[fa]
+(;W[fb];B[ca];W[ea]C[Nice! :)RIGHT])
+(;W[ga];B[fb]C[Black's alive! (He has 2 eyes.)])
+(;W[ec];B[fb]C[Black's alive! (He has 2 eyes.)]))
+(;W[fb];B[ea]C[Black's alive! (He has 2 eyes.)])
+(;W[fa];B[ea]C[Black's alive! (He has 2 eyes.)]))
+(;W[eb];B[da]C[Black's alive! (He has 2 eyes.)]))
+(;W[cb];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[ca];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[eb];B[da]C[Black's alive! (He has 2 eyes.)])
+(;W[ea];B[da]C[Black's alive! (He has 2 eyes.)])
+(;W[aa]C[Black's alive! (He'll obviously have 2 eyes.)]))
+(;W[ac];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[aa];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[bb];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[cb];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[ca];B[cb]C[Black's alive! (A and B are miai to kill.)]LB[ab:A]LB[da:B])
+(;W[da]C[Thanks, tails for providing the bA18 and bE18 responses to live! :)]
+(;B[eb]
+(;W[ab];B[bb]
+(;W[ca];B[ac]C[Black's alive! (Thanks, tails! ^.^)CHOICE])
+(;W[ea];B[fa]
+(;W[fb];B[ca]
+(;W[ea];B[ac]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ac];B[ea]C[Black's alive! (Thanks, tails! ^.^)]))
+(;W[ac];B[ca]
+(;W[ea];B[fb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[fb];B[ea]C[Black's alive! (Thanks, tails! ^.^)]))
+(;W[ca];B[ac];W[fb];B[cb]C[Black's alive! (Thanks, tails! ^.^)]))
+(;W[ac];B[ca]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[fb];B[ea]
+(;W[ac];B[ca]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ca];B[ac]C[Black's alive! (Thanks, tails! ^.^)])))
+(;W[bb];B[cb]C[Black's alive! (He has 2 eyes.)]LB[ab:A]LB[ea:B])
+(;W[cb];B[bb]C[Black's alive! (He has 2 eyes.)])
+(;W[aa];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[ac];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[ca];B[cb]C[Black's alive! (He has 2 eyes.)]LB[ab:A]LB[ea:B])
+(;W[ea];B[ab]C[]
+(;W[cb];B[fa]C[Black's alive!])
+(;W[ca];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[fa];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[fb];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ac];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ec];B[cb]C[Black's alive! (Thanks, tails! ^.^)]))
+(;W[fb];B[ea]C[Black's alive! (He has 2 eyes.)])
+(;W[fa];B[ea]C[Black's alive! (He has 2 eyes.)]))
+(;B[ab]
+(;W[eb];B[cb]C[Black's alive! (Thanks, tails! ^.^)CHOICE])
+(;W[cb];B[eb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ca];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ea];B[cb]C[Black's alive! (Thanks, tails! ^.^)])
+(;W[ac];B[cb]C[Black's alive! (Thanks, tails! ^.^)])))
+(;W[eb];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[ea];B[da]
+(;W[eb];B[ac]C[Black's alive! (He has 2 eyes.)])
+(;W[ac];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[ab];B[ac]C[Black's alive! (He has 2 eyes.)])
+(;W[bb];B[ab]C[Black's alive! (He has 2 eyes.)])
+(;W[cb];B[bb]C[Black's alive! (He has 2 eyes.)])))

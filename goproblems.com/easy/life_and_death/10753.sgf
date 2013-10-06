@@ -1,0 +1,88 @@
+(;GE[life and death]DI[6k]DP[36]SO[Hagios]CO[9]AW[bo]AW[co]AW[do]AW[em]AW[fl]AW[gj]AW[ei]AW[ch]AW[bh]AB[bi]AB[cj]AB[bk]AW[bl]AW[bm]AB[bn]AB[cn]AB[cm]AB[dl]AB[ek]AW[an]AW[dh]C[Please save black's stones]AP[goproblems]
+(;B[am];W[al]
+(;B[ak];W[am]
+(;B[cl];W[ao]
+(;B[dj]C[The horikomi at A7 was the only way to live.RIGHT])
+(;B[ai];W[dj]C[Black can't make two eyes]))
+(;B[dj];W[cl];B[ck];W[ao]
+(;B[dm];W[el]C[Black can't make two eyes])
+(;B[el];W[dm]C[Black can't make two eyes]))
+(;B[ck];W[dj];B[cl];W[ao]C[Black can't make two eyes])
+(;B[dk];W[cl];B[ck];W[ao]C[Black can't make two eyes]))
+(;B[cl];W[ao]
+(;B[ak];W[am];B[dj]C[The horikomi at A7 was the only way to liveRIGHT])
+(;B[dj];W[aj];B[ak];W[am];B[ai]C[The horikomi at A7 was the only way to liveRIGHT]))
+(;B[aj];W[dj]
+(;B[cl];W[am];B[ak];W[ao];B[dk];W[fk]C[The eye at C9 will be false.])
+(;B[dk];W[cl];B[ck];W[ao];B[ak];W[am]C[Black can't make two eyes])
+(;B[ck];W[dk]C[Black can't make two eyes])
+(;B[ak];W[ao];B[cl];W[am];B[dk];W[fk]C[The eye at C9 will be false])))
+(;B[al];W[am]
+(;B[cl];W[ao]
+(;B[ak];W[dj]C[Black can't make two eyes])
+(;B[dj];W[aj]
+(;B[ai];W[ak]C[Black can't make two eyes])
+(;B[ak];W[ai]C[Black can't make two eyes])
+(;B[bj];W[ai]C[Black can't make two eyes]))
+(;B[aj];W[dj]C[Black can't make two eyes])
+(;B[ai];W[ak]
+(;B[aj];W[al]
+(;B[dj];W[ci]C[Black can't make two eyes])
+(;B[ci];W[dj]C[Black can't make two eyes])
+(;B[ej];W[ci]C[Black can't make two eyes]))
+(;B[dj];W[aj]C[Black can't make two eyes])))
+(;B[ak];W[cl]
+(;B[ck];W[ao]
+(;B[dm];W[dj]C[Black can't make two eyes])
+(;B[ai];W[dm]C[Black dies])
+(;B[dn];W[en]
+(;B[dm];W[el]C[Black can't make two eyes])
+(;B[el];W[dm];B[dj];W[ej]C[Black can't make two eyes]))
+(;B[el];W[dm]
+(;B[dj];W[ej]C[Black can't make two eyes])
+(;B[ej];W[ai]
+(;B[aj];W[ci]
+(;B[ah];W[ag]
+(;B[dj];W[ai]C[Black only gets a ko])
+(;B[ai];W[dj]C[Black can't make two eyes]))
+(;B[dj];W[bj]C[Black can't make two eyes]))
+(;B[dj];W[aj]C[Black can't make two eyes])
+(;B[ci];W[aj]C[Black can't make two eyes]))
+(;B[ai];W[dj]C[Black can't make two eyes]))
+(;B[ej];W[dj]C[Black can't make two eyes])
+(;B[ci];W[ai]
+(;B[dj];W[ej]C[Black can't make two eyes])
+(;B[ej];W[aj]C[Black can't make two eyes])
+(;B[aj];W[dj];B[ah];W[ag];B[ej];W[di]C[Black can't make two eyes]))
+(;B[dj];W[ej]C[Black can't make two eyes])
+(;B[aj];W[dj]C[Black can't make two eyes]))
+(;B[dk];W[ai]
+(;B[di];W[ci]C[Black can't make two eyes])
+(;B[aj];W[ci]C[Black can't make two eyes]))
+(;B[ai];W[ck]C[Black can't make two eyes];B[dk];W[ao])
+(;B[dj];W[ck]C[Black can't make two eyes])
+(;B[bj];W[ai]C[Black can't make two eyes]))
+(;B[dj];W[cl]
+(;B[ck];W[ao]
+(;B[aj];W[ej]C[Black can't make two eyes])
+(;B[ak];W[ej]C[Black can't make two eyes])
+(;B[ej];W[el]C[Black can't make two eyes])
+(;B[el];W[ej]C[Black can't make two eyes])
+(;B[dm];W[el]C[Black can't make two eyes]))
+(;B[ak];W[ck]C[Black can't make two eyes])
+(;B[aj];W[ck];B[dk];W[ak]C[Black can't make two eyes]))
+(;B[aj];W[cl]
+(;B[ck];W[ak]
+(;B[dj];W[ej]C[Black can't make two eyes])
+(;B[ci];W[dj]C[Black can't make two eyes]))
+(;B[ak];W[ck]C[Black can't make two eyes])))
+(;B[cl];W[am]
+(;B[dj];W[aj]
+(;B[ai];W[ak];B[bj];W[ao];B[al];W[ak]C[Black can't make two eyes])
+(;B[ak];W[ai]C[Black can't make two eyes]))
+(;B[ak];W[dj]C[Black can't make two eyes]))
+(;B[ak];W[cl]
+(;B[am];W[dm]C[Black can't make two eyes])
+(;B[dm];W[am]
+(;B[ck];W[dj]C[Black can't make two eyes])
+(;B[el];W[ck]C[Black can't make two eyes]))))

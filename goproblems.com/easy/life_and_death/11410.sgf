@@ -1,0 +1,21 @@
+(;GE[life and death]DI[8k]DP[47]SO[hikaru16]CO[0]AB[qc]AB[nb]AW[ob]AW[na]AW[pb]AB[pc]AB[od]AB[rd]AW[qa]C[White to live.]AB[oc]AW[rb]AB[ma]AW[jc]AP[goproblems]
+(;W[qb];B[oa]
+(;W[sc];B[sd]
+(;W[rc];B[sa])
+(;W[sa];B[rc]))
+(;W[rc];B[sd]
+(;W[sc];B[sa])
+(;W[sa];B[sc])
+(;W[sb]C[Only one eye.]))
+(;W[sb];B[sc];W[rc];B[sd])
+(;W[sd];B[sc]
+(;W[rc];B[se]
+(;W[sb];B[sd])
+(;W[sa];B[sd]))
+(;W[sb];B[rc])))
+(;W[oa];B[qb])
+(;W[mb]
+(;B[nc]C[White gets lucky...]
+(;W[la]C[RIGHT])
+(;W[oa];B[qb]C[];W[la];B[mc];W[lc]C[This variation also works, but it is not as good as simply capturing.RIGHT]TR[oa]))
+(;B[oa]C[CHOICE];W[nc];B[mc];W[na]C[Black can force this ko.RIGHT])))

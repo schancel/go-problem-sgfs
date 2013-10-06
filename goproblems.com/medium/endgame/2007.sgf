@@ -1,0 +1,40 @@
+(;GE[endgame]DI[2k]DP[22]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+AW[da][cb][cc][dd][be][ce][de][af][cf]AB[db][dc][ed][ee][bf][df][ef][bg][dg]TR[da]C[No komi, no prisoners - Black to play and win!]
+(;B[fb]CR[fb]
+(;W[ea]CR[ea]
+;B[cg]CR[cg]
+;W[eb]CR[eb]
+;B[ec]CR[ec]
+;W[fa]CR[fa]
+;B[gb]CR[gb]C[Black wins by one point! RIGHT CHOICE])
+(;W[cg]CR[cg]
+;B[ea]CR[ea]
+;W[ca]CR[ca]C[Black wins by one point! RIGHT CHOICE])
+(;W[fa]CR[fa]
+;B[eb]CR[eb]
+;W[ea]CR[ea]
+;B[cg]CR[cg]
+(;W[gb]CR[gb]
+;B[gc]CR[gc]
+;W[fc]CR[fc]
+;B[ga]CR[ga]C[White can't play this ko])
+(;W[ca]CR[ca]
+;B[gb]CR[gb]C[Black wins by three points!])))
+(;B[ea]CR[ea]
+;W[eb]CR[eb]
+;B[ca]CR[ca]
+;W[ec]CR[ec]C[Black is lost])
+(;B[eb]CR[eb]
+;W[ea]CR[ea]
+;B[fa]CR[fa]
+;W[ca]CR[ca]
+;B[fb]CR[fb]
+;W[cg]CR[cg]C[White wins by one point!])
+(;B[cg]CR[cg]
+;W[eb]CR[eb]
+(;B[ec]CR[ec]
+;W[fb]CR[fb]C[This is an easy win for white])
+(;B[fb]CR[fb]
+;W[ec]CR[ec]
+;B[fc]CR[fc]C[White wins!])))

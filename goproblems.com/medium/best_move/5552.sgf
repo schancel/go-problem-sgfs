@@ -1,0 +1,88 @@
+(;GE[best move]DI[3d]DP[10]SO[peto.franek]CO[9]SZ[19]AW[cn]AW[dn]AW[fn]AW[go]AW[bp]AW[bq]AW[fq]AW[br]AW[dr]AW[fr]AW[gr]AW[gs]AB[bo]AB[co]AB[cp]AB[dp]AB[ep]AB[fp]AB[gq]AB[hq]AB[cr]AB[hr]C[Black to catch the 4 white stones.]TR[fq]TR[fr]TR[gr]TR[gs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[es]
+(;W[er]C[]
+(;B[cq];W[cs];B[ds]C[White dies.RIGHT])
+(;B[ds];W[cq])
+(;B[cs];W[cq]))
+(;W[ds]C[]
+(;B[er]
+(;W[eq]C[CHOICE]
+(;B[cs]
+(;W[dq]C[CHOICE];B[cq]C[White dies.RIGHT])
+(;W[cq]C[CHOICE];B[dq]C[White dies.RIGHT]))
+(;B[dq];W[fs]))
+(;W[dq]C[CHOICE];B[cq]C[White dies.RIGHT])
+(;W[cq]
+(;B[dq]C[RIGHT])
+(;B[eq]C[RIGHT])))
+(;B[eq];W[er]
+(;B[cs];W[cq])
+(;B[cq];W[cs]))
+(;B[cs];W[cq]
+(;B[er]
+(;W[dq]C[CHOICE];B[eq]C[White lives but looses the 4 stones. RIGHT])
+(;W[eq]C[];B[dq]C[White dies. RIGHT]))
+(;B[dq];W[er])))
+(;W[dq]C[]
+(;B[cq];W[cs];B[ds]C[. White dies.RIGHT])
+(;B[cs];W[cq])
+(;B[ds];W[cq])
+(;B[er];W[eq];B[cq];W[cs])
+(;B[eq];W[er]
+(;B[cq];W[cs];B[ds]C[White dies. RIGHT])
+(;B[cs];W[cq])))
+(;W[cq]C[CHOICE]
+(;B[er];W[eq]
+(;B[dq]
+(;W[cs]C[CHOICE];B[hs]C[White lives but looses the 4 stones. RIGHT])
+(;W[fs]C[];B[hs]C[White dies.RIGHT])
+(;W[ds]C[];B[cs]C[White dies.RIGHT]))
+(;B[ds];W[dq])
+(;B[cs];W[dq]))
+(;B[eq];W[er])
+(;B[dq]
+(;W[er]C[CHOICE])
+(;W[cs]C[CHOICE]))
+(;B[cs];W[er]))
+(;W[cs]C[CHOICE]
+(;B[er];W[eq];B[dq];W[cq];B[hs]C[White lives but looses the 4 stones.RIGHT])
+(;B[ds];W[cq]
+(;B[er];W[eq])
+(;B[eq];W[er]))
+(;B[dq];W[er]
+(;B[ds];W[cq])
+(;B[cq];W[ds]))))
+(;B[er];W[eq]
+(;B[dq];W[es]
+(;B[cs];W[cq])
+(;B[cq];W[cs]))
+(;B[ds];W[es]
+(;B[cs];W[cq])
+(;B[cq];W[cs])
+(;B[dq];W[cs]))
+(;B[cq];W[cs]
+(;B[es];W[dq])
+(;B[dq];W[es]))
+(;B[cs];W[cq]
+(;B[es];W[bs])
+(;B[dq];W[es]))
+(;B[es];W[dq]
+(;B[cq];W[cs])
+(;B[cs];W[cq])))
+(;B[eq];W[er]
+(;B[cs];W[cq])
+(;B[cq];W[cs]))
+(;B[dq];W[er]
+(;B[cq];W[cs])
+(;B[cs];W[cq]))
+(;B[ds];W[es];B[cs];W[cq])
+(;B[cq];W[cs]
+(;B[er];W[eq];B[es];W[ds])
+(;B[es];W[ds];B[er];W[eq]))
+(;B[cs];W[cq]
+(;B[ds];W[es])
+(;B[er];W[eq]
+(;B[dq];W[es])
+(;B[es];W[dq]))
+(;B[dq];W[er])
+(;B[es];W[er])))

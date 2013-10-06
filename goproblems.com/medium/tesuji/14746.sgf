@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[3k]DP[25]SO[mrfunnywhiskers]CO[0]AB[bb]AB[bc]AB[cb]AB[da]AB[ea]AB[cd]AB[be]AB[df]AB[de]AB[ef]AW[cf]AW[dg]AW[bg]AW[ch]AW[eb]AW[fb]AW[fa]AW[dc]AW[cj]AW[eg]AW[eh]AW[fg]AW[ff]AW[ed]AW[gd]AB[gg]AB[gh]AB[gf]AB[fh]AB[fi]AB[fj]AB[fk]AB[he]AW[ic]AW[jb]AW[kb]AW[lc]AW[mc]AW[mb]AW[ma]AW[md]AW[nc]AW[nb]AW[kd]AW[le]AB[jd]AB[je]AB[ke]AB[kc]AB[jc]AB[jf]AW[kf]AW[lf]AW[jg]AW[ig]AW[hg]AW[hf]AW[hh]AW[hi]AW[gi]AW[gj]AW[hj]AW[ij]AB[ih]AB[ii]AB[jj]AW[jk]AB[ik]AB[hk]AB[gk]AW[lj]AW[kk]AW[ki]AW[lh]C[Black to save the triangled stones]TR[jf]TR[ke]TR[je]TR[kc]TR[jc]TR[jd]AB[me]AB[mf]AB[mg]AB[mh]AB[mi]AB[mj]AB[od]AB[nd]AB[ne]AB[pc]AB[ob]AB[oa]AB[na]AB[qd]AB[qe]AB[nh]AW[ng]AW[nf]AW[of]AW[pf]AW[qf]AB[og]AB[pg]AB[ph]AW[oh]AW[oi]AW[pi]AW[qi]AB[nj]AP[goproblems]
+(;B[kg]
+(;W[lg];B[if];W[kh];B[ge]C[Black's connected])
+(;W[jh]C[CHOICE]
+(;B[ge];W[ie]
+(;B[id];W[hd]
+(;B[if];W[ie])
+(;B[ld]C[Ko is correct :)RIGHT]))
+(;B[ld];W[lg]C[What if white can't win the ko and connects?];B[id]C[RIGHT];W[hd];B[if]C[RIGHT]))
+(;B[ld]
+(;W[lg]C[What if white can't win the ko and connects?];B[ge]C[RIGHT];W[ie];B[id];W[hd];B[if]C[RIGHT]))
+(;B[lg];W[ld];B[ge];W[ie];B[id];W[hd];B[if];W[ie])))
+(;B[ge];W[ie];B[id];W[hd]
+(;B[if];W[ie])
+(;B[ld];W[if]))
+(;B[id];W[hd];B[ge];W[ie];B[if];W[ie])
+(;B[hd];W[ge];B[hc];W[hb];B[gc];W[fd];B[gb];W[ga])
+(;B[if];W[ge];B[kg];W[jh])
+(;B[ld];W[ge];B[kg];W[lg]
+(;B[jh];W[kh])
+(;B[if];W[kh])))

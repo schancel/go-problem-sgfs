@@ -1,0 +1,62 @@
+(;GE[endgame]DI[15k]DP[61]SO[Warp]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ln][mn][nn][on][pn][qn][rn][sn][lo][lp][lq][lr][ls][ms]AB[mo][no][oo][po][qo][ro][so][mp][mq][mr]LB[ms:1]C[White 1 is huge and black should have not allowed it, if possible. However, now that it's done, minimize the damage.]
+(;B[or]CR[or]
+;W[os]CR[os]
+(;B[ps]CR[ps]
+;W[ns]LB[ms:1]CR[ns]C[RIGHT
+This minimizes the damage, but white got at least 6 points in sente (black still has to defend the Q2 cutting point, plus white can still push at O2, getting an extra point). This is why white 1 is so dangerous.])
+(;B[pr]CR[pr]
+;W[ps]CR[ps])
+(;B[nr]CR[nr]
+;W[ns]CR[ns]C[Black can't block at Q1 anymore.])
+(;B[ns]CR[ns]
+;W[nr]CR[nr]
+(;B[nq]CR[nq]
+;W[ns]CR[ns]C[Black can't block at Q1 anymore.])
+(;B[ps]CR[ps]
+;W[ns]CR[ns]
+(;B[pr]CR[pr]
+;W[nq]CR[nq]C[Too good for white.])
+(;B[nq]CR[nq]
+;W[pr]CR[pr])
+(;B[pq]CR[pq]
+;W[oq]CR[oq]C[Too good for white.])
+(;B[qr]CR[qr]
+;W[oq]CR[oq]C[Too good for white.])
+(;B[oq]CR[oq]
+;W[pr]CR[pr]))
+(;B[oq]CR[oq]
+;W[pr]CR[pr])))
+(;B[ns]CR[ns]
+;W[nr]CR[nr]
+(;B[or]CR[or]
+;W[os]CR[os]
+(;B[ps]CR[ps]
+;W[pr]CR[pr]C[This hanami-ko is too good for white (the worst-case scenario is that the whole black corner dies, while white does not risk anything at all).])
+(;B[nq]CR[nq]
+;W[ns]CR[ns]C[Black can't block at Q1 anymore.])
+(;B[oq]CR[oq]
+;W[pr]CR[pr])
+(;B[pr]CR[pr]
+;W[ps]CR[ps]C[Too good for white.]))
+(;B[os]CR[os]
+;W[or]CR[or])
+(;B[nq]CR[nq]
+;W[or]CR[or]))
+(;B[os]CR[os]
+;W[or]CR[or]
+(;B[nr]CR[nr]
+;W[ns]CR[ns]C[Too good for white.])
+(;B[pr]CR[pr]
+;W[nr]CR[nr]C[Too good for white (white reduced more than necessary and there's really bad aji at Q3).])
+(;B[ps]CR[ps]
+;W[pr]CR[pr])
+(;B[ns]CR[ns]
+;W[nr]CR[nr]))
+(;B[nr]CR[nr]
+;W[ns]CR[ns]C[This helps nothing. It's the same situation, but losing 2 extra points.])
+(;B[pr]CR[pr]
+;W[os]CR[os]C[Interesting attempt, but this is not the best answer.])
+(;B[ps]CR[ps]
+;W[or]CR[or]C[Interesting attempt, but this is too good for white.]))

@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[8k]DP[47]SO[Stones]CO[6]AW[jb]AW[ic]AW[hc]AB[hb]AB[gb]AB[fb]AW[fd]AW[eb]AW[fa]AB[hd]AB[id]AB[he]AB[hf]AW[hg]AW[gf]AW[ge]AW[if]AB[ig]AB[ih]AW[gc]AB[fc]AW[ec]AB[gd]AW[ee]AB[jd]AW[jc]AW[ga]AB[ib]AB[ja]AW[kb]AB[lb]AB[mc]AW[kd]AB[mg]C[Black to play.]AB[jf]AP[goproblems]
+(;B[ka];W[kc]TR[je]TR[ia])
+(;B[ia];W[ka])
+(;B[ha];W[ia])
+(;B[la];W[je])
+(;B[ke];W[ia])
+(;B[je];W[ia])
+(;B[ie];W[ia])
+(;B[lc];W[je])
+(;B[ld];W[je])
+(;B[kc];W[lc]
+(;B[ke];W[ia])
+(;B[ld];W[je])
+(;B[ia];W[ka])
+(;B[ha];W[ia])
+(;B[ka];W[kc]
+(;B[ia];W[je])
+(;B[mb];W[je])
+(;B[je];W[ia])
+(;B[ld];W[ke]TR[je]TR[ia])
+(;B[ke];W[ld]C[White is caught in a ladder.RIGHT]))))

@@ -1,0 +1,24 @@
+(;GE[life and death]DI[2k]DP[22]SO[Stones]CO[7]C[White to play.]AW[ip]AW[lo]AW[jp]AB[qr]AB[qq]AB[qp]AW[po]AW[pp]AW[pr]AW[pq]AW[nq]AW[np]AW[mp]AB[mq]AB[nr]AB[ms]AB[lr]AW[ko]AW[ks]AW[kr]AB[jq]AB[kq]AB[kp]AB[jr]AB[js]AW[iq]AW[ir]AW[is]AW[jo]AB[rn]AP[goproblems]
+(;W[or];B[lq]C[Black lives.])
+(;W[ps];B[lq]C[Black lives.])
+(;W[qs];B[lq]C[Black lives.  The profit of damaging black's corner is not enough.  This line is inferior.])
+(;W[os];B[ns]
+(;W[qs];B[lq]C[Black lives.  Profit from damage to black's corner is not enough.  This is not the best result for white.])
+(;W[or];B[lq]C[Black lives.])
+(;W[lp];B[lq]C[Black lives.])
+(;W[lq];B[ls]
+(;W[kr];B[lp]C[])
+(;W[lp]C[Black is dead.RIGHT])
+(;W[mr]C[This is correct.  Black dies.  However, M4 instead of N2 is slightly better because N2 gives black a ko threat at M4.RIGHT]MA[mq])))
+(;W[lp];B[lq]C[Black lives.])
+(;W[ns];B[os]C[This move does not help.  Black lives.])
+(;W[lq];B[ls]
+(;W[kr];B[lp])
+(;W[os];B[lp])
+(;W[lp];B[os]
+(;W[or];B[ps]C[Black escapes.])
+(;W[mr];B[ps]C[Black escapes.])
+(;W[ps];B[or];W[mr]MA[mq]C[Ko is not best.]))
+(;W[mr]MA[mq]C[];B[mm]C[Ko is not best.  If this is not clear to you that this is a ko, please play at A to simulate responding to a black ko threat.]LB[nm:A];W[nm];B[mq]MA[mr]LB[lp:A]C[Assume that black has many more ko threats than white.  Please connect at A to see how black can stop white from avoiding the ko.];W[lp];B[os]
+(;W[or];B[ps]C[Black connects.])
+(;W[ps];B[or];W[mr]MA[mq]C[White cannot avoid the ko.  This is not the best line for white.]))))

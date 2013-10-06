@@ -1,0 +1,21 @@
+(;GE[best move]DI[6k]DP[36]SO[Stones]CO[8]AW[jj]AW[kj]AW[jl]AW[kl]AW[ik]AW[ij]AB[im]AB[jm]AB[lm]AB[ll]AB[lj]AB[li]AW[km]AW[kn]AW[jn]AW[ln]AW[mm]AW[nm]AW[nn]AW[no]AW[mo]AB[jo]AB[ko]AW[lo]AB[lp]AB[mp]AB[in]AB[np]AB[oo]AB[on]AB[om]AB[nl]AB[ml]AW[ki]AW[lh]AW[lg]AW[kf]AW[lf]AW[jh]AW[jg]AB[ji]AB[ii]AB[hj]AB[hk]AB[if]AB[ig]AB[ih]AB[ke]AB[le]AB[je]AB[il]AB[mf]AB[mg]AB[mh]AW[me]AW[md]AW[ld]AW[kd]AW[jd]AW[id]AW[ge]AW[hi]AW[he]C[How can black save the triangle group?]TR[ke]TR[ig]TR[ii]TR[je]TR[if]TR[ih]TR[ji]TR[le]AW[mi]AB[nj]AB[hf]AB[hh]AB[gh]AB[gg]AW[gi]AW[fi]AW[fh]AW[fg]AW[ff]TR[hf]TR[gg]TR[gh]TR[hh]AW[mk]AB[ni]AB[og]AB[gm]AP[goproblems]
+(;B[kk];W[kh]TR[jk]C[Black cannot play at K9, so white is alive and black is dead.])
+(;B[jk];W[kk])
+(;B[jf];W[kh])
+(;B[lk];W[kk])
+(;B[kg];W[kh])
+(;B[kh]
+(;W[lk]C[CHOICE]
+(;B[jf];W[mj]
+(;B[kg]C[RIGHT])
+(;B[li];W[lj];B[kg]C[However nice it looks, the throw in actually loses endgame points.  If black ever takes at M11, white now has the option to recapture at M12.]))
+(;B[mj];W[kg]
+(;B[mk];W[kk])
+(;B[jk];W[kk])
+(;B[kk];W[jk]C[]
+(;B[nk];W[ie];B[jf];W[kh];B[kk];W[lk];B[mk];W[gf])
+(;B[jf];W[kh];B[nk];W[ie];B[kk];W[lk];B[mk];W[gf]))
+(;B[jf];W[kh]
+(;B[nk];W[kk])
+(;B[kk];W[jk];B[nk];W[gf];B[kk];W[lk];B[mk];W[ie]))))
+(;W[kg];B[jf];W[kh];B[kk]C[RIGHT])))

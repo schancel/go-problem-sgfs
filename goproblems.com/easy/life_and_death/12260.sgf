@@ -1,0 +1,58 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[0]AB[jj]AB[jl]AB[il]AB[hk]AB[hj]AB[hi]AB[ih]AB[jh]AW[hg]AW[ig]AW[jg]AW[kg]AW[lh]AW[li]AW[ll]AW[km]AW[jm]AW[im]AW[gk]AW[gj]AW[gi]AW[gh]C[What can B try?]AW[mj]AW[hl]AP[goproblems]
+(;B[kk];W[kj]
+(;B[ki];W[lk]
+(;B[lj]C[Well done! With proper play, black has as many as 2 or 3 threats here! (See comment)RIGHT])
+(;B[ik];W[kl]C[losing a local threat for no reason?])
+(;B[ij];W[jk]C[direct ko!])
+(;B[ii];W[ik]C[direct ko!])
+(;B[kl];W[ik]C[direct ko])
+(;B[kh];W[ii]C[direct ko])
+(;B[hh];W[lj]
+(;B[kh]C[see next problem! :D])
+(;B[ji];W[kl]MA[ij]MA[jk])
+(;B[kl];W[ik]MA[kh]MA[jk])
+(;B[ij];W[jk]MA[ik]MA[kl])))
+(;B[lk];W[mk]
+(;B[ki];W[lj]
+(;B[ij];W[jk]MA[ik]MA[kl])
+(;B[kl];W[ik]MA[jk]MA[kh])
+(;B[ik];W[kl]MA[ii]MA[kh])
+(;B[ii];W[kh]MA[ik]MA[kl])
+(;B[kh];W[ii]MA[ij]MA[jk])
+(;B[hh];W[jk]MA[kl]MA[ik]))
+(;B[ji];W[kl]MA[jk]MA[ij])
+(;B[ik];W[kl]LB[ki:1]LB[lj:2]MA[ii]MA[kh])
+(;B[kl];W[ik]))
+(;B[ik];W[kl]LB[ki:1]LB[lj:2]MA[kh]MA[ii])
+(;B[ji];W[kl]MA[jk]MA[ij])
+(;B[kl];W[ik]
+(;B[ki];W[lk])
+(;B[lk];W[mk])
+(;B[ij];W[ji])
+(;B[ji];W[ij]))
+(;B[ij];W[ji]))
+(;B[ki];W[kj]
+(;B[kk])
+(;B[jk];W[kh]MA[ij]MA[ji])
+(;B[ij];W[jk]MA[kk]MA[kl])
+(;B[ii];W[kh]LB[kk:1]LB[lj:2]MA[ik]MA[kl]))
+(;B[kj];W[kl]
+(;B[kk];W[ik])
+(;B[jk];W[ki]MA[ji]MA[ij])
+(;B[ij];W[jk])
+(;B[ki];W[ii]MA[ij]MA[jk]))
+(;B[ij];W[jk]LB[kk:1]LB[kj:2]MA[kl]MA[ji])
+(;B[jk];W[ki]MA[ji]MA[ij])
+(;B[ji];W[kk]MA[jk]MA[ij])
+(;B[lk];W[mk]
+(;B[kj];W[kk]
+(;B[jk];W[ki]MA[ji]MA[ij])
+(;B[ij];W[jk])
+(;B[ki];W[ii]MA[jk]MA[ij]))
+(;B[ki];W[kj]
+(;B[kk])
+(;B[jk];W[kh]MA[ij]MA[ji])
+(;B[ij];W[jk]LB[kk:1]LB[lj:2]MA[kl]MA[ik])
+(;B[kh];W[ii]LB[kk:1]LB[lj:2]MA[ij]MA[jk]))
+(;B[kk];W[kj])
+(;B[ij];W[kj]MA[ji]MA[jk])))

@@ -1,0 +1,102 @@
+(;GE[elementary]DI[12k]DP[55]SO[Mikand]CO[6]AB[hs]AB[hr]AB[hq]AB[hp]AB[ip]AB[jp]AB[kp]AB[kq]AB[lq]AB[lr]AB[ls]AW[gs]AW[gr]AW[gq]AW[gp]AW[go]AW[ho]AW[io]AW[jo]AW[ko]AW[lo]AW[lp]AW[mp]AW[mq]AW[mr]AW[ms]AW[jr]AP[goproblems]
+(;B[ir]
+(;W[jq]C[CHOICE]
+(;B[js]C[Black now has two eyes.RIGHT])
+(;B[kr];W[js]C[Seki])
+(;B[iq];W[js]
+(;B[kr]C[Seki])
+(;B[is];W[kr];B[ks];W[jr]C[Dead :-(])
+(;B[ks];W[kr];B[is];W[jr]C[Dead :-(]))
+(;B[is];W[kr]
+(;B[js]C[Seki])
+(;B[ks];W[js];B[iq];W[jr]C[Dead :-(])
+(;B[iq];W[js];B[ks];W[jr]C[Dead :-(]))
+(;B[ks];W[js]
+(;B[kr]C[Seki])
+(;B[iq];W[kr];B[is];W[jr]C[Dead :-(])
+(;B[is];W[kr];B[iq];W[jr]C[Dead :-(])))
+(;W[js]C[CHOICE];B[jq]C[Black now has two eyes.RIGHT]))
+(;B[js];W[ir]C[CHOICE]
+(;B[kr]C[];W[is]C[]
+(;B[jq];W[ks]C[Ko])
+(;B[iq];W[ks]C[Ko])
+(;B[ks];W[iq];B[jq];W[ir]C[Dead :-(]))
+(;B[jq];W[is]
+(;B[kr];W[ks]C[Ko])
+(;B[ks];W[iq];B[kr];W[ir]C[Dead :-(])
+(;B[iq];W[ks]C[Dead :-(]))
+(;B[is];W[kr]
+(;B[iq];W[jq];B[ks];W[jr]C[Dead :-(])
+(;B[jq]C[Seki])
+(;B[ks];W[jq];B[iq];W[jr]C[Dead :-(]))
+(;B[iq];W[is]
+(;B[kr];W[ks]C[Ko])
+(;B[ks]C[Seki])
+(;B[jq];W[ks]C[Dead :-(]))
+(;B[ks];W[is]
+(;B[kr];W[iq];B[jq];W[ir]C[Dead :-(])
+(;B[jq];W[iq];B[kr];W[ir]C[Dead :-(])
+(;B[iq]C[Seki])))
+(;B[jq];W[ir]
+(;B[js];W[is]
+(;B[kr];W[ks]C[Ko])
+(;B[ks];W[iq];B[kr];W[ir]C[Dead :-(])
+(;B[iq];W[ks]C[Dead :-(]))
+(;B[kr];W[js]C[]
+(;B[iq]C[Not a seki. White can still capture, starting with J1])
+(;B[is]C[Seki])
+(;B[ks]C[Not a seki. White can still capture, starting with J1]))
+(;B[is];W[js]
+(;B[iq];W[kr];B[ks];W[jr]C[Dead :-(])
+(;B[kr]C[Seki])
+(;B[ks]C[];W[kr];B[iq];W[jr]C[Dead :-(]))
+(;B[iq];W[js]
+(;B[kr]C[Not a seki. White can still capture, starting with J1])
+(;B[is];W[kr];B[ks];W[jr]C[Dead :-(])
+(;B[ks];W[kr];B[is];W[jr]C[Dead :-(]))
+(;B[ks];W[js]
+(;B[kr]C[Not a seki. White can still capture, starting at J1])
+(;B[iq]C[Not a seki. White can still capture, starting at J1])
+(;B[is];W[kr];B[iq];W[jr]C[Dead :-(])))
+(;B[iq];W[js]
+(;B[kr];W[jq]
+(;B[ir]C[Seki])
+(;B[is]C[];W[ir];B[ks];W[jr]C[Dead :-(])
+(;B[ks];W[ir];B[is];W[jr]C[Dead :-(]))
+(;B[ir];W[jq]
+(;B[kr]C[Seki])
+(;B[ks];W[kr];B[is];W[jr]C[Dead :-(])
+(;B[is];W[kr];B[ks];W[jr]C[Dead :-(]))
+(;B[is];W[kr]
+(;B[ks]C[]
+(;W[ir]C[CHOICE];B[jq];W[jr]C[Dead :-(])
+(;W[jq]C[CHOICE];B[ir];W[jr]C[Dead :-(]))
+(;B[jq];W[ir];B[ks];W[jr]C[Dead :-(])
+(;B[ir];W[jq];B[ks];W[jr]C[Dead :-(]))
+(;B[ks];W[ir]
+(;B[is]
+(;W[jq]C[CHOICE];B[kr];W[jr]C[Dead :-(])
+(;W[kr]C[CHOICE];B[jq];W[jr]C[Dead :-(]))
+(;B[jq];W[kr];B[is];W[jr]C[Dead :-(])
+(;B[kr];W[jq];B[is];W[jr]C[Dead :-(])))
+(;B[is];W[js]
+(;B[jq];W[ir]
+(;B[ks];W[kr];B[iq];W[jr]C[Dead :-(])
+(;B[kr]C[Seki])
+(;B[iq];W[kr];B[ks];W[jr]C[Dead :-(]))
+(;B[ir];W[jq]
+(;B[iq];W[kr];B[ks];W[jr]C[Dead :-(])
+(;B[kr]C[Seki])
+(;B[ks];W[kr];B[iq];W[jr]C[Dead :-(]))
+(;B[iq];W[kr]
+(;B[ks];W[ir];B[jq];W[jr]C[Dead :-(])
+(;B[ir];W[jq];B[ks];W[jr]C[Dead :-(])
+(;B[jq];W[ir];B[ks];W[jr]C[Dead :-(]))
+(;B[kr];W[jq]
+(;B[ks];W[ir];B[iq];W[jr]C[Dead :-(])
+(;B[iq];W[ir];B[ks];W[jr]C[Dead :-(])
+(;B[ir]C[Seki]))
+(;B[ks];W[ir]
+(;B[kr];W[jq];B[iq];W[jr]C[Dead :-(])
+(;B[jq];W[kr];B[iq];W[jr]C[Dead :-(])
+(;B[iq];W[jq];B[kr];W[jr]C[Dead :-(]))))

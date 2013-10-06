@@ -1,0 +1,35 @@
+(;GE[fuseki]DI[1k]DP[18]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Black to play. What's the proper 
+move?]
+PL[B]
+AB[kq][pp]
+AW[qn]
+(;B[nq]
+C[RIGHT]
+MN[1]
+)(;B[np]
+LB[np:1][qq:A]C[White will almost certainly invade at A 
+and you will end up with a rather small 
+territory.]
+)(;B[qp]
+C[Black is a little too wide at the bottom.
+Yet if White is weak this move might 
+be feasible]
+)(;B[rp]
+C[Black needs another move to cover the 
+hole at A so he will end in gote.]
+LB[rp:1][nq:A])(;B[ro]
+LB[ro:1][nq:A]C[Black needs another move to cover the 
+hole at A so he will end in gote.]
+)(;B[qo]
+;W[pn]
+C[and Black can't cover all of his defects 
+at the lower side with one move.]
+)(;B[pn]
+C[This move helps white getting stronger 
+and shuld therefore not be played.]
+))

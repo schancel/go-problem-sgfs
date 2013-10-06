@@ -1,0 +1,46 @@
+(;GE[best move]DI[10k]DP[53]SO[ldan]CO[8]AB[gm]AB[gk]AB[fk]AB[ek]AB[hl]AB[il]AB[jl]AB[jk]AB[kk]AB[lk]AB[mk]AB[eh]AB[gh]AB[hi]AB[dl]AB[dm]AB[cn]AB[do]AB[fo]AB[hp]AB[jn]AW[dk]AW[dj]AW[cj]AW[cl]AB[ck]AW[el]AW[fl]AW[gl]AW[ik]AW[hk]AW[jj]AW[ii]AW[ih]AW[kg]AW[ef]AW[ch]AW[gj]AW[kl]AW[km]AW[ll]AW[ml]AB[bp]AW[cq]AW[dp]AW[fq]AW[ie]AB[jq]AB[lq]C[Respond to white 1 in the best possible way]LB[gj:1]AW[ke]AP[goproblems]
+(;B[hj];W[ij]
+(;B[fj];W[fi]
+(;B[gi];W[ej];B[gj];W[fh]
+(;B[em]C[Good, although you could have continued your invasion at G13 or F13RIGHT])
+(;B[fg];W[ei]
+(;B[gg]C[Good, although you must remember to capture F8 before the the G10 group is reduced to 2 or less liberties.RIGHT])
+(;B[eg];W[gg])
+(;B[hh];W[gg])
+(;B[hg]C[RIGHT])
+(;B[ff];W[gg])
+(;B[gf]C[RIGHT])
+(;B[hf];W[gg])
+(;B[em]C[Good, although you could have continued your invasion at G13 RIGHT])
+(;B[fm]C[Good, although you could have continued your invasion at G13 RIGHT]))
+(;B[gg]C[RIGHT])
+(;B[fm]C[Good, although you could have continued your invasion at G13 or F13RIGHT])
+(;B[hh];W[gg];B[hg];W[hf];B[ig];W[jg])
+(;B[hg];W[gg];B[hh];W[hf];B[ig];W[jg])
+(;B[ei]C[NOTTHIS]))
+(;B[ej];W[ei]))
+(;B[gi];W[fj]C[your first move was good...])
+(;B[ej];W[ei]C[your first move was good])
+(;B[fi];W[fj])
+(;B[em];W[fj];B[fm];W[ej]TR[eh]TR[gh]TR[hi]TR[hj]C[You let your stones get cut off])
+(;B[fm];W[fj];B[em];W[ej]TR[eh]TR[gh]TR[hi]TR[hj]C[You let your stones get cut off]))
+(;B[em];W[fj];B[fm];W[ej]C[You let your stones get cut off]TR[eh]TR[gh]TR[hi])
+(;B[fm];W[fj];B[em];W[ej]C[You let your stones get cut off]TR[eh]TR[gh]TR[hi])
+(;B[fj];W[fi];B[ej];W[ei])
+(;B[ej];W[ei]
+(;B[fj];W[fi])
+(;B[fi];W[fj])
+(;B[di];W[fj])
+(;B[gi];W[fj])
+(;B[hj];W[ij]))
+(;B[gi];W[fj];B[hj];W[ij]
+(;B[ej];W[ei])
+(;B[em];W[ej])
+(;B[fm];W[ej]))
+(;B[ij];W[hj]
+(;B[fm];W[fj];B[em];W[ej]TR[eh]TR[gh]TR[hi])
+(;B[em];W[fj];B[fm];W[ej]TR[eh]TR[gh]TR[hi])
+(;B[fj];W[fi])
+(;B[ej];W[ei]))
+(;B[fi];W[fj])
+(;B[ei];W[ej]))

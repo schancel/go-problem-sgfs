@@ -1,0 +1,65 @@
+(;GE[elementary]DI[8k]DP[48]SO[santa c]CO[8]AB[ar]AB[br]AB[cr]AB[bs]AB[fr]AW[gr]AW[gq]AW[bp]AW[cp]AW[dp]AW[ep]AW[gp]AW[hr]C[White to move! :)]AP[goproblems]
+(;W[dr]
+(;B[er]
+(;W[dq]C[Well done! :)RIGHT])
+(;W[ds];B[dq]
+(;W[eq];B[cq]
+(;W[fs];B[cs]C[:(])
+(;W[fq];B[cs]C[:(])
+(;W[es];B[fs]C[:(]))
+(;W[cq];B[eq]
+(;W[fs];B[cs]C[:(])
+(;W[es];B[fs]C[:(])
+(;W[fq];B[cs]C[:(]))
+(;W[fs];B[es]C[:(])
+(;W[es];B[fs]C[:(]))
+(;W[fs];B[dq]C[:(])
+(;W[es];B[dq]C[:(])
+(;W[cq]C[Well done! :)RIGHT])
+(;W[eq]C[Well done! :)RIGHT]))
+(;B[ds];W[dq]C[RIGHT])
+(;B[dq];W[eq]C[RIGHT]))
+(;W[er];B[dr]
+(;W[ds];B[eq];W[fs];B[es]MA[er]C[Could avoid the ko! :(])
+(;W[eq];B[ds]C[:(])
+(;W[es];B[ds]C[:(])
+(;W[fq];B[ds]C[:(])
+(;W[fs];B[ds]C[:(]))
+(;W[ds];B[er]
+(;W[dr];B[dq]
+(;W[eq];B[cq]
+(;W[fs];B[cs]C[:(])
+(;W[es];B[fs]C[:(])
+(;W[fq];B[cs]C[:(]))
+(;W[fs];B[es]C[:(])
+(;W[es];B[fs]C[:(])
+(;W[cq];B[eq]
+(;W[fs];B[cs]C[:(])
+(;W[es];B[fs]C[:(])
+(;W[fq];B[cs]C[:(])))
+(;W[fs];B[es]
+(;W[dr];B[dq]C[:(])
+(;W[dq];B[dr]C[:(]))
+(;W[es];B[fs]C[:(]))
+(;W[es];B[dr]
+(;W[ds];B[fs]
+(;W[er];B[eq]C[:(])
+(;W[eq];B[er]C[:(])
+(;W[fq];B[er]C[:(])
+(;W[gs];B[er]C[:(]))
+(;W[fs];B[ds]C[:(])
+(;W[er];B[ds]C[:(])
+(;W[fq];B[ds]C[:(])
+(;W[eq];B[er]C[:(]TR[ds]TR[fs]))
+(;W[fs];B[er]
+(;W[ds];B[es]
+(;W[dr];B[dq]C[:(])
+(;W[dq];B[dr]C[:(]))
+(;W[es];B[ds]C[:(])
+(;W[dr];B[dq]C[:(])
+(;W[dq];B[dr]C[:(]))
+(;W[dq];B[dr]C[:(])
+(;W[fq];B[er]C[:(])
+(;W[eq];B[dr]C[:(])
+(;W[cq];B[dr]C[:(])
+(;W[gs];B[er]C[:(]))

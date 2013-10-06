@@ -1,0 +1,23 @@
+(;GE[elementary]DI[12k]DP[57]SO[santa c]CO[8]C[Black to capture a few stones...]AW[jk]AW[ik]AW[hk]AW[gk]AW[hj]AW[jj]AB[ij]AB[hi]AB[ji]AB[jh]AB[ih]AB[gi]AB[gj]AB[fk]AB[fl]AB[kk]AB[kj]AB[ki]AW[kl]AW[km]AW[kn]AW[jn]AB[jm]AB[jl]AW[hn]AP[goproblems]
+(;B[hl]
+(;W[il]
+(;B[im];W[hm]
+(;B[gl]C[Well done! :)RIGHT])
+(;B[gm];W[in]C[:(]))
+(;B[gl];W[im]C[:(])
+(;B[hm];W[im]C[:(]))
+(;W[gl];B[gm]C[RIGHT])
+(;W[gm];B[gl]C[RIGHT])
+(;W[im];B[il]C[RIGHT])
+(;W[hm];B[gl]C[RIGHT]))
+(;B[il];W[hl]C[:(])
+(;B[im];W[hm]
+(;B[hl];W[in]C[:(])
+(;B[gl];W[hl]C[:(])
+(;B[il];W[hl]C[:(])
+(;B[in];W[io]C[:(]))
+(;B[hm];W[im]C[:(])
+(;B[gl];W[im]C[:(])
+(;B[gm];W[im]C[:(])
+(;B[in];W[im]C[:(])
+(;B[ii];W[im]C[:(]))

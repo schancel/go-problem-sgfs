@@ -1,0 +1,35 @@
+(;GE[life and death]DI[8k]DP[46]SO[pitchflare]CO[0]AB[dp]AB[lp]AB[mq]AB[nq]AB[mr]AB[ls]AW[lr]AW[kr]AW[jr]AW[js]AW[lq]AW[lo]AW[ko]AW[jo]AW[iq]AW[jq]AB[hq]AB[hr]AB[ir]AB[is]AW[hp]AW[io]AB[op]AB[no]AB[mo]AB[ln]AB[kn]AB[jn]AB[in]AB[ho]AB[gp]AB[go]AW[gq]AB[fq]C[Black has put white's base in trouble. Save the group!]AW[bq]AP[goproblems]
+(;W[ip];B[kp];W[gr]
+(;B[gs]C[CHOICE]
+(;W[fr];B[er];W[hs]C[White lives :)RIGHT])
+(;W[hs];B[hr]
+(;W[fs];B[fr]C[Correct. :)RIGHT])
+(;W[is];B[fr];W[fs];B[hq];W[gs];B[er]C[Oh no! White only has one eye. :(])
+(;W[ir];B[fr]
+(;W[hq]C[Two eyes!RIGHT])
+(;W[fs]C[White lives.RIGHT]))
+(;W[fr]C[White escapes to the side! Thanks to MeleeNewb for catching this one. :)RIGHT])))
+(;B[hs]C[CHOICE]
+(;W[fr]
+(;B[er]C[CHOICE]
+(;W[gs];B[hr];W[eq]
+(;B[dq]C[CHOICE];W[fp];B[ep];W[fq]
+(;B[dr]C[CHOICE];W[fo];B[fn];W[en]C[White escapes.RIGHT])
+(;B[fo]C[CHOICE];W[dr]C[White makes a second eye.RIGHT]))
+(;B[fp]C[CHOICE];W[dr]C[White makes a second eye.RIGHT])
+(;B[dr]C[CHOICE];W[fp]
+(;B[fo]C[];W[dq]
+(;B[ep]C[CHOICE]
+(;W[cq]C[RIGHT])
+(;W[cr]C[RIGHT])))
+(;B[dq]C[CHOICE];W[fo]
+(;B[ep]C[CHOICE];W[fq])
+(;B[fn]C[CHOICE];W[en]C[White escapes.RIGHT]))
+(;B[ep]C[CHOICE];W[fo]
+(;B[dq];W[fq])))))
+(;B[eq]C[CHOICE];W[er];B[dr]
+(;W[es];B[ds];W[gs]C[RIGHT])
+(;W[gs]C[Correct. :)RIGHT])))))
+(;W[gr];B[ip]C[Dead :(])
+(;W[kp];B[ip]C[Nope.])
+(;W[jp];B[ip]C[Not quite.]))

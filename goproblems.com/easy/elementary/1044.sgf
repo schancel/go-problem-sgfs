@@ -1,0 +1,9 @@
+(;GE[elementary]DI[12k]DP[60]SO[adum]CO[6]SZ[19]AW[qk]AW[rk]AW[sk]AW[ol]AW[pl]AW[om]AW[nn]AW[no]AW[ro]AW[op]AW[rp]AW[oq]AW[pq]AW[qq]AW[qr]AW[qs]AB[ql]AB[rl]AB[pm]AB[rm]AB[on]AB[pn]AB[qn]AB[sn]AB[oo]AB[qo]AB[pp]C[black to live]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[rn]
+(;W[sl];B[qp]C[RIGHT])
+(;W[qp];B[sl]C[RIGHT]))
+(;B[sl];W[rn]C[black has only one real eye])
+(;B[qp];W[rn]C[black only has one real eye])
+(;B[so];W[rn])
+(;B[sm];W[rn])
+(;B[rq];W[qp]))

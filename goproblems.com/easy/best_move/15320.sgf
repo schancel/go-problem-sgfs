@@ -1,0 +1,17 @@
+(;GE[best move]DI[6k]DP[38]SO[tkazf]CO[0]AB[dc]AB[ed]AB[ee]AB[df]AB[cg]AB[eg]AW[ef]AW[ff]AW[fe]AW[fd]AW[ec]AW[fb]AW[gc]AW[gd]C[White to get best result locally.]AP[goproblems]
+(;W[db];B[cc]
+(;W[cb];B[bc]C[You can do better.])
+(;W[dd];B[de]
+(;W[cb];B[bc]C[You can do better.])
+(;W[cd];B[bc];W[bd])))
+(;W[dd];B[de]
+(;W[cd];B[cc];W[bd];B[bc]
+(;W[db];B[be]C[You can do better.])
+(;W[bf];B[bg];W[db];B[be];W[ce];B[cf];W[ae];B[ac]C[This fight is won by black.]))
+(;W[db];B[cc]))
+(;W[de];B[dd];W[ce];B[bd];W[cf];B[dg]
+(;W[bc];B[cd]C[This wasn't good.])
+(;W[bg];B[bh]
+(;W[be];B[cd];W[af];B[db]C[:(])
+(;W[db];B[cd]C[you lost too much.])))
+(;W[cc];B[cd];W[db];B[dd];W[bc]C[Yes. This is best you can do!RIGHT]))

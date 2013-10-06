@@ -1,0 +1,26 @@
+(;GE[life and death]DI[5d]DP[6]SO[kvzrock]CO[7]SZ[19]AW[db]AW[ib]AW[lb]AW[ec]AW[fc]AW[gc]AW[hc]AW[lc]AW[jd]AW[ld]AW[fe]AW[ge]AW[le]AW[hf]AW[if]AW[jf]AW[kf]AB[cb]AB[gb]AB[hb]AB[dc]AB[ic]AB[jc]AB[kc]AB[cd]AB[ed]AB[hd]AB[kd]AB[ie]AB[je]AB[cf]MA[ic]MA[jc]MA[kc]MA[hd]MA[kd]MA[ie]MA[je]C[W to kill the marked stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #5]US[YuJun]PL[W]
+(;W[fa]
+(;B[fb]C[F19 is a good start. Then what?CHOICE]
+(;W[ha]
+(;B[eb]C[H19 is tesuji. Now finish the job.CHOICE]
+(;W[jb];B[kb];W[ka]C[];B[ja];W[ia]LB[ga:A]C[B can't play A. So b is dead.RIGHT])
+(;W[ga];B[da];W[jb];B[kb];W[ka];B[ja];W[ia];B[ea]C[Nope.]))
+(;B[ia]C[CHOICE];W[ja];B[jb]C[If you think it's a ko, play L19.]
+(;W[ia];B[ka]C[Oops.])
+(;W[ga]
+(;B[ia]C[CHOICE];W[ea];B[ka];W[kb]C[B is dead.RIGHT])
+(;B[ka]C[CHOICE];W[eb]C[B is destoryed.RIGHT]))
+(;W[ka];B[ia]C[W can do better.])))
+(;W[ea];B[ha];W[ka];B[ja];W[jb];B[kb]C[B's alive.]))
+(;B[ia]C[F19 is a good start. Then what?CHOICE];W[ga];B[fb];W[ea];B[jb];W[ha];B[ka];W[kb]C[RIGHT
+B can't play a. So B dies.]LB[eb:a])
+(;B[jb]C[CHOICE];W[ha];B[ia];W[ga];B[fb];W[ea]LB[eb:A]C[B can't play A. So b is dead.RIGHT]))
+(;W[ka];B[jb];W[ja];B[ia]C[B lives.])
+(;W[ja];B[jb];W[ka];B[ia]C[B lives.])
+(;W[fb];B[jb]
+(;W[ia])
+(;W[ga];B[ia]C[B lives.]))
+(;W[ga];B[fb]
+(;W[ha];B[fa];W[jb];B[kb];W[ka];B[ia])
+(;W[fa];B[eb];W[ha];B[da];W[jb];B[kb];W[ka];B[ja];W[ia];B[ea]))
+(;W[jb];B[kb];W[ka];B[ia]))

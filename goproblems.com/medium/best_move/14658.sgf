@@ -1,0 +1,57 @@
+(;GE[best move]DI[3d]DP[11]SO[Field Mouse]CO[0]AB[cb]AB[ec]AB[gc]AB[hc]AB[id]AB[hf]AB[hg]AW[fd]AW[gd]AW[cd]AW[de]AW[ff]AW[ci]AW[bh]AW[dm]AW[jc]AW[jd]AW[kd]AW[kb]AW[jf]AW[kf]AW[ig]AW[jk]AW[di]AW[jl]AW[kk]AW[dk]AW[ck]AW[dl]AW[gk]AW[gj]C[Common game, black to play - what will you do locally?]AB[gh]AB[fh]AB[eh]AB[ei]AB[ej]AW[fl]AB[gi]AW[fj]AW[ij]AW[dg]AB[ie]AB[gg]AW[ii]AW[jh]AW[eg]AW[fg]AW[ee]AP[goproblems]
+(;B[bc];W[fc];B[fb];W[eb]
+(;B[db];W[gb];B[ea];W[hb]C[White is happy])
+(;B[gb];W[dc];B[ea];W[db];B[da];W[ib]C[You are dead, white is very happy])
+(;B[ga];W[dc];B[ea];W[db];B[da];W[ic]
+(;B[ib];W[hd]C[White is happy])
+(;B[hd];W[hb]C[You died, white is very happy])))
+(;B[bb];W[fc];B[fb];W[eb];B[ga];W[dc];B[ea];W[db];B[da];W[ca];B[ba];W[bd]C[You died, white is very happy])
+(;B[dc]
+(;W[bb]C[CHOICE]
+(;B[bc];W[cc]
+(;B[ba];W[ab]
+(;B[eb];W[bd]C[Finish the position...];B[ib]C[Good enough if you get this point.RIGHT])
+(;B[ac];W[fc];B[fb];W[eb]
+(;B[gb];W[db];B[aa];W[dd];B[ea];W[ed];B[da];W[ib])
+(;B[ga];W[db];B[aa];W[dd];B[da];W[ed];B[ea];W[ic]
+(;B[hd];W[hb])
+(;B[hb];W[hd]))))
+(;B[ab];W[fc];B[fb]
+(;W[ba]C[CHOICE];B[ca];W[db];B[aa];W[eb]
+(;B[ga];W[ed];B[ea];W[dd];B[da]LB[bd:A]LB[ib:B]C[Good, AB are miai.RIGHT])
+(;B[gb];W[dd];B[ea];W[ed];B[da]LB[bd:A]LB[ib:B]C[AB are miai, good.RIGHT])
+(;B[fa];W[ed];B[ea];W[dd];B[da]LB[bd:A]LB[ib:B]C[AB are miai, good.RIGHT])
+(;B[ea];W[gb];B[da];W[hb]))
+(;W[db];B[ba];W[eb];B[gb];W[ed];B[ea];W[dd];B[da]C[RIGHT]))
+(;B[da];W[ba]C[White tricked you, got the corner and is okay.])
+(;B[ca]
+(;W[bd];B[ba];W[ab];B[ib]C[Okay result.RIGHT])
+(;W[db];B[ab];W[fc];B[fb];W[eb];B[gb];W[ed];B[ea];W[dd];B[da]C[RIGHT])))
+(;B[ib];W[cc]C[You live, but could do better on points. White is okay.])
+(;B[ba];W[bc];B[ib]C[PossibleRIGHT])
+(;B[da]C[Sorry, but this move is a mistake]))
+(;W[bc]C[White should probably play this, but that would be no fun in a goproblem :)]
+(;B[bb]LB[ib:B]C[AB are miai now.RIGHT]LB[ab:A])
+(;B[ib]C[+- equal to playing B18RIGHT])))
+(;B[db];W[bc]
+(;B[bb]C[Yes, the easiest good way for black :-)CHOICERIGHT])
+(;B[ib];W[bb]LB[ba:A]LB[fb:B]C[A or B?]
+(;B[ba];W[ic];B[hd];W[fb];B[fc];W[gb];B[hb];W[ca]C[Dead!])
+(;B[fb]C[Yes :)RIGHT])))
+(;B[cc];W[fc];B[fb];W[eb];B[ga];W[dc];B[ea];W[ed]
+(;B[da];W[bc];B[bb];W[bd]
+(;B[ab];W[ic];B[hd];W[hb])
+(;B[db];W[ic];B[hd];W[hb]C[White has a few step flowering ko to kill black.]))
+(;B[db];W[bc]
+(;B[bb];W[bd];B[ib];W[ab]C[Depends on a few step flowering ko - not very good.])
+(;B[ec]C[Yes, black should start taking ko now. Quite painful as black risks much more than white in it.])))
+(;B[ib];W[bb]
+(;B[db];W[bc])
+(;B[dc]))
+(;B[eb];W[bc];B[bb]TR[eb]C[The marked move was quite strange, but looks like it works quite okay.RIGHT])
+(;B[fc];W[bb]
+(;B[db];W[ba]
+(;B[ib]C[PossibleRIGHT])
+(;B[cc];W[bc];B[ib]C[RIGHT]))
+(;B[dc];W[cc]C[Your last move was a mistake, allowing white to play this.]))
+(;B[fb];W[bb];B[db];W[bc];B[ib]C[Possible for blackRIGHT]))

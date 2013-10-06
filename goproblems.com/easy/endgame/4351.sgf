@@ -1,0 +1,15 @@
+(;GE[endgame]DI[18k]DP[67]SO[M.D. Geist]CO[8]SZ[9]AW[aa]AW[ba]AW[fa]AW[ha]AW[ab]AW[bb]AW[cb]AW[db]AW[fb]AW[hb]AW[cc]AW[dc]AW[gc]AW[cd]AW[ed]AW[gd]AW[de]AW[ee]AW[fe]AW[ge]AW[ef]AW[gg]AW[hg]AW[ig]AW[gh]AW[ih]AW[gi]AW[hi]AB[eb]AB[gb]AB[ib]AB[ac]AB[bc]AB[ec]AB[fc]AB[hc]AB[ic]AB[bd]AB[hd]AB[be]AB[ce]AB[he]AB[cf]AB[df]AB[ff]AB[gf]AB[hf]AB[if]AB[cg]AB[dg]AB[eg]AB[fg]AB[fh]AB[fi]TR[ic]C[Black played the marked stone, but white ignored it, punish white!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]PW[Weiß]PB[Schwarz]
+(;B[ia]
+(;W[ga]
+(;B[ea];W[gb];B[da]C[Seki ^^ , black wins :DRIGHT])
+(;B[da];W[fd])
+(;B[fd];W[ea]))
+(;W[ea];B[ga];W[da]C[Black wins by 4,5 :)RIGHT]TW[ca]TW[eb]TW[ec]TW[fc]TW[dd]TW[fd]TW[hh]TW[ii]TB[ha]TB[hb]TB[ad]TB[id]TB[ae]TB[ie]TB[af]TB[bf]TB[ag]TB[bg]TB[ah]TB[bh]TB[ch]TB[dh]TB[eh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]))
+(;B[ea];W[ga]
+(;B[ia];W[gb];B[da]C[Seki :)RIGHT])
+(;B[da];W[fd])
+(;B[fd];W[da]))
+(;B[da];W[ga]
+(;B[ia];W[fd])
+(;B[ea];W[fd]))
+(;B[fd];W[ea]))

@@ -1,0 +1,39 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[8]AB[sc]AB[rc]AB[rd]AB[qd]AB[pd]AB[pc]AB[pb]AW[qb]AW[pa]AW[ob]AW[oc]AW[od]AB[nc]AB[nd]AB[oe]AB[of]AB[mf]AW[pe]AW[qe]AW[re]AW[se]AW[sd]C[Is all lost for Black? How to avoid further trouble?]AW[qg]AB[nb]AW[oa]AP[goproblems]
+(;B[ra];W[rb]
+(;B[qa];W[sa]
+(;B[qa];W[ra];B[na];W[qa]C[Sente seki, well done! :)RIGHT])
+(;B[na];W[qa]C[:(])
+(;B[ra];W[sb]C[:(]))
+(;B[sb];W[qa];B[na];W[sa]C[:(]MA[ra])
+(;B[na];W[qa];B[sb];W[sa]C[:(]MA[ra]))
+(;B[rb];W[ra]
+(;B[na];W[qa]C[Need to add a stone for seki (to avoid the ko)... :(]TR[sb])
+(;B[sb]C[Gote :(])
+(;B[sa];W[sb]MA[sa]C[:(]))
+(;B[na];W[qa]
+(;B[rb];W[ra]C[Need to add a stone for seki (to avoid the ko)... :(]TR[sb])
+(;B[ra];W[rb]
+(;B[sb];W[sa]C[:(]MA[ra])
+(;B[sa];W[sb]C[:(]))
+(;B[sb];W[rb]C[Need to add a stone for seki (to avoid the ko)... :(]TR[sa])
+(;B[sa];W[ra]TR[sb]C[Need to add a stone for seki (to avoid the ko)... :(]))
+(;B[qa];W[ra]
+(;B[na];W[qa]
+(;B[sb]C[Gote :(])
+(;B[rb];W[sb];B[sa]MA[sb]C[:(])
+(;B[qc];W[sb]C[:(])
+(;B[sa];W[sb]C[:(]))
+(;B[sb]C[Gote :(])
+(;B[rb];W[sb];B[sa]MA[sb]C[:(])
+(;B[sa];W[sb]C[:(]))
+(;B[sa];W[ra]
+(;B[rb];W[sb]MA[sa]C[:(])
+(;B[sb]C[Gote :(])
+(;B[na];W[qa]
+(;B[sb]C[Gote :(])
+(;B[rb];W[sb]MA[sa]C[:(])
+(;B[qc];W[sb]C[:(])))
+(;B[sb];W[qa]
+(;B[rb];W[ra];B[na]C[Gote :(])
+(;B[ra];W[rb];B[na];W[sa]MA[ra]C[:(])
+(;B[na];W[rb]C[Need to add a stone for seki (to avoid the ko)... :(]TR[sa])))

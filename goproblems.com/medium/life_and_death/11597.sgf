@@ -1,0 +1,32 @@
+(;GE[life and death]DI[2k]DP[22]SO[Piccolo]CO[0]C[W just filled a last outside liberty, and B played elsewhere.. what can you do now ?]AW[nb]AW[ob]AW[qb]AW[pc]AW[pd]AB[mb]AB[mc]AB[nc]AB[oc]AB[od]AB[oe]AB[pe]AB[qe]AB[qd]AB[rd]AB[sd]AB[ma]AB[rb]AW[lb]AW[la]AW[lc]AW[ld]AW[md]AW[nd]AW[ne]AW[of]AW[pf]AW[qf]AW[re]AW[se]AW[rf]AW[nf]AP[goproblems]
+(;W[ra]
+(;B[sb];W[qc]
+(;B[pa]
+(;W[qa]
+(;B[rc]
+(;W[oa];B[na];W[pb]C[Seki, well doneRIGHT])
+(;W[pb])
+(;W[na]C[RIGHT]))
+(;B[na]
+(;W[pb]
+(;B[oa];W[rc]C[B diesRIGHT])
+(;B[rc];W[oa]C[SekiRIGHT]))
+(;W[rc];B[oa];W[pb]C[B diesRIGHT])))
+(;W[pb]
+(;B[rc];W[qa];B[na];W[oa]C[SekiRIGHT])
+(;B[qa]
+(;W[rc];B[na];W[oa]C[B dies.RIGHT])
+(;W[oa];B[qa]
+(;W[rc];B[sc];W[pa]C[Seki, but there is better in this line.RIGHT])
+(;W[pa];B[rc]C[Eye vs no eye, W is lost !]))))
+(;W[rc];B[pb];W[qa];B[sc];W[oa]C[Eye vs no eye, W winsRIGHT]))
+(;B[rc]
+(;W[pa];B[na];W[oa]C[SekiRIGHT])
+(;W[na];B[pa];W[qa]C[SekiRIGHT])))
+(;B[qc];W[pb]
+(;B[qa]
+(;W[pa];B[na];W[sb];B[rc]C[SekiRIGHT])
+(;W[sb]C[KoRIGHT]))))
+(;W[na];B[qc];W[pb];B[ra];W[sb];B[sa];W[sc];B[rc]C[W dies by one move])
+(;W[rc];B[qc];W[pb];B[ra]C[B lives])
+(;W[pa];B[qc];W[pb];B[ra]C[]))

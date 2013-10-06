@@ -1,0 +1,23 @@
+(;GE[life and death]DI[7k]DP[40]SO[varg]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[0.5]
+PW[]
+PB[]
+GN[ (W) vs.  (B)]
+DT[2002-04-20]
+SY[Cgoban 1.9.5]TM[-];AW[qj][rj][ok][pk][nl]AB[lf][pj][qk][rk][om][qm]
+PL[2]C[White to capture the cutting stone.
+]
+(;W[pi]
+(;B[oj];W[ni];B[nj];W[mj]C[RIGHT
+])
+
+(;B[oj];W[nj];B[oi];W[oh];B[ni];W[mi];B[nh];W[ng];B[mh];W[lh];B[mg])
+)
+
+(;W[oi];B[pi];W[ph];B[qi]
+(;W[qh];B[ri])
+
+(;W[ri];B[qh];W[qg];B[rh];W[rg];B[si])
+)
+
+)

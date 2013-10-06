@@ -1,0 +1,120 @@
+(;GE[life and death]DI[3k]DP[26]SO[BartTM]CO[7]AW[fp]AW[gq]AW[gs]AW[gr]AB[hq]AB[hr]AB[hs]AW[hp]AW[ho]AW[hn]AW[ir]AW[iq]AW[jq]AW[jp]AW[kp]AB[ip]AB[io]AB[jo]AB[jn]AB[kn]AB[ln]AB[lp]AB[mo]AB[np]AB[mq]AW[in]AW[im]AW[jm]AW[km]AW[lm]AW[mn]AW[no]AW[mm]AW[oo]AW[op]AW[oq]AW[or]AW[os]AB[lo]AB[nq]AB[kq]AB[lr]AB[jr]AW[mr]AW[ms]TR[lo]TR[nq]AP[goproblems]
+(;B[js];W[kr]
+(;B[ls];W[lq]C[Ko, Black has to find a ko threat somewhere else. Still, this is better than dying outright.RIGHT])
+(;B[ks];W[ls]
+(;B[is];W[kr])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[nr];W[ns]
+(;B[is];W[kr])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[ko];W[is])
+(;B[mp]C[Zero eyes!]))
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[mp]C[Black has zero eyes!])
+(;B[ko];W[is])
+(;B[ns];W[nr]
+(;B[is];W[kr])
+(;B[ko];W[is])
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[mp]C[Black has zero eyes!])))
+(;B[is];W[ks])
+(;B[ko];W[is]
+(;B[ks];W[ls])
+(;B[ls];W[ks])
+(;B[nr];W[ns]
+(;B[ks];W[ls])
+(;B[ls];W[ks]))
+(;B[ns];W[nr]
+(;B[ls];W[ks])
+(;B[ks];W[ls])))
+(;B[nr];W[ls]
+(;B[ks])
+(;B[lq];W[is])
+(;B[ns];W[lq])
+(;B[is];W[ks])
+(;B[ko];W[lq]))
+(;B[ns];W[ls]
+(;B[nr])
+(;B[lq];W[is])
+(;B[ks])
+(;B[is];W[ks])
+(;B[ko];W[lq]))
+(;B[lq];W[is]
+(;B[ls];W[ks])
+(;B[ks];W[ls])
+(;B[nr];W[ks])
+(;B[ns];W[ks])))
+(;B[ko];W[is]
+(;B[js];W[ls]C[Only one eye.])
+(;B[ls];W[js]C[Just one eye.])
+(;B[nr];W[ns]
+(;B[js];W[ls]C[Just one eye.])
+(;B[ls];W[js]C[Only one eye.])
+(;B[ks]C[Just one eye. K1 and M1 are miai.]MA[js]MA[ls]))
+(;B[ks]C[Just one eye. K1 and M1 are miai.]MA[js]MA[ls])
+(;B[ns];W[nr]
+(;B[js];W[ls])
+(;B[ls];W[js])
+(;B[ks]MA[js]MA[ls]C[Just one eye. K1 and M1 are miai.])))
+(;B[is];W[js]C[Just one eye.])
+(;B[ls];W[js]C[]
+(;B[ks];W[is])
+(;B[nr];W[ns]
+(;B[ks];W[is])
+(;B[ko];W[kr])
+(;B[kr]C[That's a false eye there, dude.]MA[lq]))
+(;B[ns];W[nr]
+(;B[ks];W[is])
+(;B[ko];W[kr]))
+(;B[ko];W[kr])
+(;B[kr]MA[lq]C[That eye there does look suspiciously false.]))
+(;B[ks];W[ls]
+(;B[is];W[js]C[Even if Black takes K1, Black will still have only one eye. The marked eyes are false.]MA[lq]MA[kr])
+(;B[js]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[ko];W[is])
+(;B[nr];W[ns]
+(;B[is];W[js]C[Even if Black takes K1 Black will only have one real eye. The marked eyes are false.]MA[kr]MA[lq])
+(;B[js]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[ko];W[is])
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs]))
+(;B[ns];W[nr]
+(;B[is];W[js]C[Even if Black takes K1 Black will only have one eye. The marked eyes are false.]MA[kr]MA[lq])
+(;B[js]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[ko];W[is])
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs]))
+(;B[kr]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[lq]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs]))
+(;B[lq];W[ls]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[nr];W[ns]
+(;B[js];W[kr]
+(;B[ls];W[lq]C[Ko, Black has to find the first ko threat. Still, this is better than dying outright.RIGHT])
+(;B[ks];W[ls])
+(;B[is];W[ks])
+(;B[ko];W[is])
+(;B[lq];W[is]
+(;B[ls];W[ks])
+(;B[ks];W[ls]))
+(;B[mp]C[Black cannot get more than one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs]))
+(;B[is];W[js]C[One eye...!])
+(;B[ls];W[js])
+(;B[ks];W[ls])
+(;B[lq];W[ls]C[Black has one eye and the marked stones cannot be connected.]TR[hq]TR[hr]TR[hs])
+(;B[ko];W[is]))
+(;B[ns];W[nr]
+(;B[js];W[kr]
+(;B[ls];W[lq]C[Ko, Black has to find the first ko threat. Still, this is better than dying outright.RIGHT])
+(;B[ks];W[ls])
+(;B[is];W[ks])
+(;B[ko];W[is])
+(;B[lq];W[is]
+(;B[ls];W[ks])
+(;B[ks];W[ls])))
+(;B[is];W[js]C[Only one eye.])
+(;B[ls];W[js])
+(;B[ks];W[ls]))
+(;B[kr];W[is]C[Black has one eye.])
+(;B[mp]C[Black cannot get more than one eye now.]))

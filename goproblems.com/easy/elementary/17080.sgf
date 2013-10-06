@@ -1,0 +1,3 @@
+(;GE[elementary]DI[30k]DP[80]SO[1234boys]CO[0]AB[cb]AB[bc]AB[cd]AW[db]AW[ec]AW[dd]AB[dc]LB[dc:1]C[Now black captured a white's stone in the marked point 1. Can white play in the marked point A, YES or NO?]LB[cc:A]TR[ad]TR[ac]TR[ab]TR[aa]TR[ba]TR[ca]TR[da]TR[ea]SZ[6]TR[bf]TR[cf]TR[df]TR[ef]TR[fe]TR[fd]TR[fc]TR[fb]TR[fa]LB[af:YES]LB[ff:NO]TR[ae]AP[goproblems]
+(;W[af]TR[ef]TR[df]TR[bf]TR[cf]TR[ae]TR[ad]TR[ac]TR[ab]TR[aa]TR[ca]TR[ba]TR[da]TR[ea]TR[fa]TR[fb]TR[fc]TR[fd]TR[fe]LB[af:YES]LB[ff:NO]LB[dc:1]LB[cc:A]C[This is a ko. It white can't recapture naxt move.])
+(;W[ff]TR[ef]TR[df]TR[bf]TR[cf]TR[ae]TR[ad]TR[ac]TR[ab]TR[aa]TR[ba]TR[ca]TR[da]TR[ea]TR[fb]TR[fa]TR[fc]TR[fd]TR[fe]LB[af:YES]LB[ff:NO]LB[dc:1]LB[cc:A]C[RIGHT]))

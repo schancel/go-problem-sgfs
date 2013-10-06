@@ -1,0 +1,15 @@
+(;GE[life and death]DI[1d]DP[15]SO[kennabee]CO[7]AB[rq]AB[qq]AB[pq]AB[pp]AW[qp]AW[so]AW[rn]AW[qn]AW[pn]AW[po]AW[on]AW[om]AW[ol]AW[nm]AW[nk]AW[ok]AW[oj]AW[pk]AW[qk]AW[rk]AB[ql]AB[oo]AB[no]AB[np]AB[mp]AB[lp]AB[mq]AB[mn]AB[nn]AB[mm]AB[ml]AB[nl]AB[mk]AB[nj]AB[oi]AB[oh]AB[pj]AB[qj]AB[rj]AB[ri]AW[qi]AW[pi]AB[qh]AB[pg]AW[rg]AW[lq]AW[lr]AW[op]AW[oq]AW[lo]AW[kp]AW[hq]AW[km]AW[rp]AB[rl]AB[sk]AW[or]TR[or]AB[mj]C[Try to capture the marked stone group.]AP[goproblems]
+(;B[nr]
+(;W[pr]C[CHOICE];B[qr];W[sq]
+(;B[rs]C[];W[sm]
+(;B[sl];W[rm]C[RIGHT])
+(;B[rm];W[qm]))
+(;B[qs];W[rs];B[sr];W[ps];B[sp]TR[sm]C[White answer B(O2) at (Q2). You can live without Ko.]))
+(;W[qs];B[rs];W[rr];B[qr];W[ss];B[ps];W[pr];B[rs]C[KoRIGHT]TR[sm])
+(;W[rs];B[qs];W[qr];B[pr];W[ps];B[nq];W[os];B[ns];W[qs];B[rr]C[RIGHT]))
+(;B[pr];W[ns])
+(;B[mr];W[pr];B[qr];W[sq];B[rs];W[sr])
+(;B[ps];W[ns])
+(;B[os]
+(;W[ns];B[ms];W[ps];B[mr];W[rr])
+(;W[ms];B[pr];W[ns];B[ps];W[nr])))

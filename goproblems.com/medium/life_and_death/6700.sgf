@@ -1,0 +1,34 @@
+(;GE[life and death]DI[2k]DP[22]SO[LCZLAPINSKI]CO[7]AB[fa]AB[fb]AB[ec]AB[ed]AB[fd]AB[gd]AB[hd]AB[hc]AB[ic]AB[jc]AB[jb]AB[ja]AW[ea]AW[eb]AW[db]AW[dc]AW[dd]AW[ee]AW[fe]AW[ge]AW[he]AW[id]AW[jd]AW[kd]AW[kc]AW[kb]AW[ka]AW[hb]AP[goproblems]
+(;W[gb];B[fc]LB[ie:T]C[Click T if wish to tenuki.]
+(;W[ib]LB[aa:T];B[aa]C[Now demonstrate why black is dead.]
+(;W[ga];B[ia]C[CHOICE];W[ha]C[RIGHT];B[gc];W[hb]C[RIGHT])
+(;W[ha]C[Seki. White killed his potential eye at H19. If white tries to fill, there are six non-rabbity six points left.])
+(;W[ia]LB[ab:T]C[RIGHT]
+(;B[ga]C[Now demonstrate the move that kills black quickest.CHOICE];W[ha];B[gc];W[hb]C[RIGHT])
+(;B[ab]C[CHOICE]
+(;W[ga]C[Creating  an eye is correct.RIGHT])
+(;W[gc]C[Seki])
+(;W[ha]C[Seki])))
+(;W[gc]C[Seki. White could have killed black. White can't form an eye without dying and can't form a dead shape. If white fills, black has non-rabbity six points after capturing white.]))
+(;W[ie];B[ha]C[]
+(;W[ib]
+(;B[ga]C[Seki])
+(;B[ia]C[Seki. White has a ko threat.]))
+(;W[ga]C[];B[ib]C[White can only approach with Wj19 ko.])
+(;W[ia];B[ib])
+(;W[gc];B[ib]C[Black is alive because white can't push at wG19.]))
+(;W[ga]C[Black can't keep white from  forming  an eye or a bulky five to kill. So black stones are dead.RIGHT])
+(;W[ha]LB[aa:T];B[aa]C[Seki. White filled his potential eye at H19. If white tries to fill, a non-rabbity six is formed and black can live. White can form a bulky five to create a ko threat to kill the surrounding stones.])
+(;W[ia];B[ga]C[CHOICE]
+(;W[ha]C[RIGHT])
+(;W[ib]C[RIGHT])
+(;W[gc]C[Seki]))
+(;W[gc];B[ha]
+(;W[ib]C[Seki])
+(;W[ia];B[ib]C[Black is alive. White can't push at G19.])))
+(;W[fc];B[gb]C[Black can make two eyes with Bg17. White can't push at G17.])
+(;W[gc];B[gb]C[Black can connect at F17. White can't push at F17.])
+(;W[ga];B[gb]C[Bf17 and Bg17 are miai for life.]TR[fc]TR[gc])
+(;W[ha];B[gb]C[Bf17 and Bg17 are miai for life.]TR[fc]TR[gc])
+(;W[ia];B[gb]C[Bf17 and Bg17 are miai for life.])
+(;W[ib];B[gb]C[bF17 and bg17 are miai for life.]))

@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[18k]DP[67]SO[adum]CO[5]AW[cp]AW[dq]AW[er]AB[dp]AW[fq]AW[fp]AW[gp]AW[hp]AB[fr]AB[gr]AB[gq]AB[hq]AW[io]AW[hn]AW[en]AB[eo]AB[fn]AB[fl]AW[dm]AW[cl]AB[bl]AW[bk]AB[ck]AB[dk]AW[cj]AW[bi]AW[ch]AW[di]AB[dj]AB[ej]AB[fj]AB[hk]AB[iq]AB[ip]AB[jp]AW[jn]AW[im]LB[eo:1]C[how to answer black 1?]AP[goproblems]
+(;W[do]C[white has to draw back a bitRIGHT])
+(;W[fo];B[cm];W[dl];B[dn];W[em];B[el])
+(;W[fm];B[gm];W[em];B[cm];W[dl];B[dn])
+(;W[em];B[fm];W[do];B[cm];W[dl];B[el];W[dn];B[fo];W[ep]C[not the best sequence])
+(;W[bm];B[em];W[dn];B[dl];W[cm];B[fo])
+(;W[cn];B[em];W[dn];B[dl];W[cm];B[fo])
+(;W[cm];B[em];W[dn];B[fo])
+(;W[dn];B[fo])
+(;W[ep];B[em];W[dn];B[dl];W[cm];B[fo])
+(;W[dl];B[dn];W[em];B[fm])
+(;W[el];B[dn];W[em];B[cm];W[dl];B[fm]))

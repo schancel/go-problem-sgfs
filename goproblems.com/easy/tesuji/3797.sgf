@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[12k]DP[55]SO[ellbur]CO[4]AW[gk]AW[gl]AW[gm]AW[hm]AW[im]AW[jm]AW[km]AW[kl]AW[kk]AB[hl]AB[il]AB[jl]AB[ih]AB[hg]AB[if]AB[jg]AB[fk]AB[fl]AB[fm]AW[ei]AW[eh]AW[lj]C[Can the three black stones escape to the four? Play at 'T' (O12) if you think not.]LB[nh:T]AP[goproblems]
+(;B[nh]C[There is no hope of saving the three black stones.RIGHT])
+(;B[ij];W[ik];B[jk];W[jj];B[hk];W[hj];B[ik];W[ii])
+(;B[ii];W[ik];B[jk];W[jj];B[hk];W[hj])
+(;B[jj];W[jk];B[ik];W[ij];B[hk];W[hj])
+(;B[hk];W[hj]
+(;B[ik];W[ij];B[jk];W[jj])
+(;B[jk];W[jj];B[ij];W[ik]))
+(;B[hj];W[hk];B[ik];W[ij];B[jk];W[jj])
+(;B[gj];W[hk];B[ij];W[ik];B[jk];W[jj])
+(;B[jk];W[jj]
+(;B[ik];W[ij];B[hk];W[hj])
+(;B[hk];W[hj];B[ij];W[ik]))
+(;B[ik];W[ij]
+(;B[jj];W[jk])
+(;B[hj];W[hk])
+(;B[hk];W[hj])
+(;B[jk];W[jj])))

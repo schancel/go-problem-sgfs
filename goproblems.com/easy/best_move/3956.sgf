@@ -1,0 +1,26 @@
+(;GE[best move]DI[7k]DP[43]SO[caleb]CO[7]AB[qn]AB[pl]AB[ol]AB[nl]AB[ml]AB[qk]AB[pp]AB[pq]AB[np]AB[no]AB[mn]AB[ln]AB[lk]AB[lj]AB[kk]AB[jk]AB[jj]AB[il]AB[im]AB[jm]AB[km]AB[hm]AB[hn]AB[gn]AW[kj]AW[li]AW[mj]AW[mk]AW[nk]AW[ok]AW[oj]AW[oi]AW[ph]AW[qi]AW[om]AW[nm]AW[mm]AW[lm]AW[ll]AW[kl]AW[jl]AW[kn]AW[jn]AW[in]AW[jp]AW[ho]AW[go]AW[fq]AW[dr]AW[mp]AW[nq]AW[oq]AW[lp]AW[fn]AW[fm]AW[em]AW[fj]AB[fo]AB[eo]AB[en]AB[dp]AB[cn]AB[mi]AB[ni]AB[nj]AB[mh]AW[lh]AB[oh]AB[og]AB[mg]AB[lg]C[Save the marked group (there are several right answers)]TR[jl]TR[kl]TR[ll]TR[lm]TR[mm]TR[nm]TR[om]AP[goproblems]
+(;W[ik];B[hk];W[ij];B[ji]
+(;W[gm];B[hl]
+(;W[hj];B[gk]
+(;W[fk];B[gj];W[gi]C[nice jobRIGHT])
+(;W[gj];B[fk];W[ek]C[nice jobRIGHT])
+(;W[gl]C[although worst possible shape, this also works.RIGHT]))
+(;W[ii];B[pm];W[jh];B[ki];W[kh]C[RIGHT]))
+(;W[hj];B[gk]
+(;W[gl];B[hl];W[fk]C[nice jobRIGHT])
+(;W[gm];B[hl]
+(;W[fk];B[gj];W[gi]C[nice jobRIGHT])
+(;W[gj];B[fk];W[ek]C[RIGHT]))
+(;W[gj]C[RIGHT])
+(;W[fk];B[gj]
+(;W[gm];B[hi];W[hl];B[ii]C[Although black gets a better result, the white stones are savedRIGHT])
+(;W[hl];B[gl];W[gm];B[hi];W[hl];B[ii]C[Although black gets a better result, the white stones are saved.RIGHT])
+(;W[gi];B[hi])
+(;W[gl];B[hi]))
+(;W[hl];B[gl];W[gm]C[RIGHT]))
+(;W[hl];B[gl];W[gm];B[hl]
+(;W[hj]C[RIGHT])
+(;W[ii];B[pm];W[jh];B[ki];W[kh]C[RIGHT]))
+(;W[ii];B[pm];W[jh];B[ki];W[kh]C[RIGHT]))
+(;W[nh];B[ng]C[Stop being such a kamikaze!]TR[dc]TR[de]TR[fe]TR[dd]TR[ed]TR[gf]TR[ge]TR[gd]TR[gc]TR[df]TR[ic]TR[id]TR[ie]TR[if]TR[jf]TR[kf]TR[ke]TR[kd]TR[kc]TR[jc]TR[mc]TR[md]TR[mf])
+(;W[pk]C[];B[pm]C[And this is not one of them]))

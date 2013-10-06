@@ -1,0 +1,43 @@
+(;GE[life and death]DI[8k]DP[46]SO[Hans]CO[8]
+AW[io][fp][gp][hp][jp][kp][dq][fq][kq][mq][er][hr][ir][lr][gs][hs]
+AB[gq][hq][iq][jq][fr][kr][fs][ks]PL[1]C[Black to play and live.
+]
+(;B[is];W[js]
+(;B[gr];W[ls];B[jr];W[es];B[is]C[RIGHT
+])
+
+(;B[jr];W[ls]
+(;B[gr];W[es];B[is]C[RIGHT
+])
+
+(;B[is];W[bq]LB[br:A]C[Please answer the white ko threat at A.]
+(;B[gr]C[Black lives but white can play 2 moves in a row around her ko threat.])
+(;B[br];W[js]LB[bp:A]C[If you search for a ko threat play at A.
+]
+(;B[bp];W[es]
+C[Ignoring your ko threat white kills your group. You could have lived unconditionally.
+])
+
+(;B[gr];W[es];B[is]C[RIGHT You have got it. Ko is not necessary.
+])
+)
+)
+)
+
+(;B[ls];W[jr])
+
+(;B[es];W[gr])
+)
+
+(;B[gr];W[is]LB[jr:A]
+C[Eventually black  has to connect at A and is then left with a dead shape inside.
+])
+
+(;B[jr];W[is]LB[gr:A]
+C[Eventually black has to connect at A and is left with a dead shape inside.
+])
+
+(;B[js]C[Black dies in gote.
+])
+
+)

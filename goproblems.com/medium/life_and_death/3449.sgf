@@ -1,0 +1,94 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[8]SZ[19]AW[ha]AW[gb]AW[hb]AW[dc]AW[fc]AW[gc]AW[ad]AW[bd]AW[cd]AW[ed]AW[de]AW[ee]AW[fe]AB[db]AB[ac]AB[bc]AB[cc]AB[be]AB[ce]AB[df]AB[ag]AB[bg]AB[cg]AB[dg]LB[db:A]LB[ac:2]LB[ed:1]C[After the correct white 1 reply to A, black thinks that 2 will save him - Show him, how wrong he is.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;W[bb];B[cb]
+(;W[ba]C[Nice! :) (Thanks, bass!)RIGHT])
+(;W[eb];B[ba]C[Black's alive!]LB[ab:A]LB[da:B])
+(;W[da];B[ba]
+(;W[eb];B[ab]C[Black's alive!])
+(;W[ab];B[eb]
+(;W[fb];B[ea]C[Black's alive!])
+(;W[fa];B[ea]C[Black's alive!])
+(;W[ea];B[fa];W[fb];B[ca];W[ea]C[Nice! :)RIGHT]))
+(;W[ea];B[ab]C[Black's alive!])))
+(;W[ba];B[bb]
+(;W[ca];B[aa]
+(;W[ab]MA[aa]C[Black to win the ko twice to live - Still could be better..];B[aa]C[NOTTHIS])
+(;W[da];B[ea]
+(;W[ab]MA[aa]C[Ko..];B[aa]C[NOTTHIS])
+(;W[eb];B[cb]C[Black's alive!]))
+(;W[eb];B[da];W[ab]MA[aa]C[Ko..];B[aa]C[NOTTHIS])
+(;W[ea];B[da]
+(;W[ab]MA[aa]C[Ko..];B[aa]C[NOTTHIS])
+(;W[eb];B[cb]C[Black's alive!])))
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ea];B[ca]C[Black's alive!]LB[aa:A]LB[da:B])
+(;W[da];B[ea]
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ca];B[eb]C[Black's alive!])
+(;W[aa];B[ca]C[Black's alive!])
+(;W[cb];B[ca]C[Black's alive!]))
+(;W[aa];B[ca]C[Black's alive!]))
+(;W[cb];B[bb]C[]
+(;W[ba];B[ca]C[Black's alive!])
+(;W[ca];B[ba]C[Black's alive!])
+(;W[da];B[ca]C[Black's alive!]LB[aa:A]LB[ea:B])
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ea];B[ca]C[Black's alive!])
+(;W[aa];B[ca]C[Black's alive!]))
+(;W[ab];B[bb]C[Black's alive!])
+(;W[aa];B[bb]
+(;W[ba];B[ca]C[Black's alive!])
+(;W[ab];B[ba]C[Black's alive!])
+(;W[ca];B[ba]C[Black's alive!])
+(;W[da];B[ea]
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ca];B[eb]C[Black's alive!])
+(;W[ba];B[ca]C[Black's alive!]))
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ea];B[da]
+(;W[ba];B[ca]C[Black's alive!])
+(;W[ca];B[ba]C[Black's alive!])))
+(;W[ca];B[ba]C[Thanks to tails, for this response!]
+(;W[bb];B[ab]
+(;W[aa]MA[ba]C[Ko..];B[ba]C[NOTTHIS])
+(;W[cb];B[da]C[Black's alive!])
+(;W[da];B[cb]C[Black's alive!])
+(;W[eb];B[cb]C[Black's alive!])
+(;W[ea];B[cb]C[Black's alive!]))
+(;W[da];B[ab]
+(;W[cb];B[eb]C[Black's alive!])
+(;W[eb];B[cb]C[Black's alive!])
+(;W[ea];B[cb]C[Black's alive!]))
+(;W[cb];B[bb]C[Black's alive!])
+(;W[ab];B[bb]C[Black's alive!])
+(;W[eb];B[da]C[Black's alive!])
+(;W[ea];B[da]C[Black's alive!])
+(;W[aa];B[ab]C[Black's alive!]))
+(;W[da];B[bb]
+(;W[ca]C[Nice! :)RIGHT])
+(;W[ea];B[ca];W[aa]C[Nice! :) (Thanks, Condor)RIGHT]))
+(;W[eb];B[bb]C[Thanks to tails, for this response!]
+(;W[da];B[ca]
+(;W[aa];B[ea]C[Black's alive!])
+(;W[ea];B[aa];W[cb]MA[db]C[Ko..];B[db]C[NOTTHIS]))
+(;W[ca];B[da]
+(;W[ba];B[aa];W[ab]MA[aa]C[Ko..];B[aa]C[NOTTHIS])
+(;W[ea];B[cb]C[Black's alive!]))
+(;W[ba];B[ca]C[Black's alive!])
+(;W[ea];B[da]
+(;W[ba];B[aa];W[ab]MA[aa]C[Ko..];B[aa]C[NOTTHIS])
+(;W[ca];B[cb]C[Black's alive!])
+(;W[aa];B[ba]C[Black's alive!]))
+(;W[aa];B[ca]C[Black's alive!]))
+(;W[ea];B[ba]
+(;W[cb];B[bb]C[Black's alive!])
+(;W[bb];B[cb]C[Black's alive!]LB[ab:A]LB[da:B])
+(;W[ab];B[bb]C[]
+(;W[da]C[Nice! :) (Thanks, Anion)RIGHT])
+(;W[ca];B[da]C[Black's alive!])
+(;W[cb];B[da]C[Black's alive!])
+(;W[eb];B[da]C[Black's alive!]))
+(;W[ca];B[da]C[Black's alive!])
+(;W[da];B[ab]
+(;W[cb]C[Nice! :)RIGHT])
+(;W[ca];B[cb]C[Black's alive!])
+(;W[eb];B[cb]C[Black's alive!]))))

@@ -1,0 +1,43 @@
+(;GE[life and death]DI[5k]DP[32]SO[shaydwyrm]CO[8]AW[qo]AW[pq]AB[pr]AB[qq]AB[rq]AW[qp]AW[oq]AW[or]AB[qs]AW[qm]AW[rm]AW[ql]AB[rl]AB[rk]AB[qk]AB[qj]AW[pk]AW[pj]AW[oj]TR[rm]TR[qm]TR[ql]AW[ol]AP[goproblems]
+(;W[rr];B[sr]
+(;W[rs];B[rp]
+(;W[sp];B[ro]
+(;W[so];B[sn]
+(;W[rn]C[RIGHT])
+(;W[sm];B[rn]))
+(;W[rn];B[so])
+(;W[sn];B[so]))
+(;W[ro];B[sp]))
+(;W[rp];B[rs]))
+(;W[rp];B[rr])
+(;W[os];B[sr]
+(;W[rs];B[rp]
+(;W[sp];B[ro]
+(;W[so];B[sn]
+(;W[rn]C[RIGHT])
+(;W[sm];B[rn]))
+(;W[rn];B[so]))
+(;W[ro];B[sp])
+(;W[rr];B[sp])
+(;W[ps];B[qr]
+(;W[sp];B[ro]
+(;W[so];B[sn]
+(;W[rn]C[Not the cleanest solution, since the marked exchange is unnecessary, but it works.RIGHT]TR[ps]TR[qr])
+(;W[sm];B[rn]))
+(;W[rn];B[so]))
+(;W[ro];B[sp])))
+(;W[rr];B[rs])
+(;W[rp];B[rs])
+(;W[ps];B[qr]
+(;W[rs];B[rp]
+(;W[sp];B[ro]
+(;W[so];B[sn]
+(;W[rn]TR[ps]TR[qr]C[The marked exchange is unnecessary, but it works.RIGHT])
+(;W[sm];B[rn]))
+(;W[rn];B[so])
+(;W[sm];B[so]))
+(;W[ro];B[sp]))
+(;W[rp];B[rs])))
+(;W[sr];B[rr]C[See problem 4758 for the continuation.])
+(;W[rs];B[rr])
+(;W[qr];B[rr]))

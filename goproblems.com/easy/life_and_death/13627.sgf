@@ -1,0 +1,46 @@
+(;GE[life and death]DI[7k]DP[40]SO[plenoptic]CO[0]SZ[13]AB[jf]AB[kf]AB[lf]AB[jc]AB[kc]AB[lc]AB[id]AB[hd]AB[hc]AB[he]AB[hf]AB[ig]AB[ih]AB[hh]AB[hi]AB[ii]AB[ij]AB[ik]AB[jk]AB[il]AB[im]AB[hm]AB[gd]AB[gc]AB[fd]AB[fe]AB[ed]AB[ec]AB[fb]AB[ea]AB[df]AB[ce]AB[cd]AB[cg]AB[ch]AB[bh]AB[eh]AB[fh]AW[jg]AW[kg]AW[lg]AW[mf]AW[if]AW[ie]AW[je]AW[jd]AW[kd]AW[ld]AW[mc]AW[eb]AW[db]AW[dc]AW[cc]AW[dd]AW[bd]AW[be]AW[bf]AW[cf]AW[bg]AW[eg]AW[ef]AW[ee]AW[ff]AW[gf]AW[ge]AW[gg]AW[hg]AW[gh]AW[gi]AW[fi]AW[fj]AW[hj]AW[hk]AW[hl]AW[gl]AW[gm]AW[em]AW[fm]AW[dm]AW[cl]AW[dk]AW[ek]AW[cj]TR[kd]TR[je]TR[jd]TR[ie]TR[if]TR[jg]TR[kg]TR[lg]TR[mf]TR[ld]TR[mc]AB[lh]AB[ki]C[black to kill white marked stones. ko is not a solution]AP[goproblems]
+(;B[md]C[:)RIGHT])
+(;B[ke];W[le]
+(;B[kf];W[md])
+(;B[md];W[kf]))
+(;B[le];W[me]C[white is alive (L shape)])
+(;B[me];W[mg]
+(;B[ke]
+(;W[le];B[kf];W[md]C[ups])
+(;W[md]C[:(]))
+(;B[le];W[md];B[mb];W[ke]C[no no...])
+(;B[md];W[le]
+(;B[md]C[:)RIGHT])
+(;B[me];W[md]C[ups])))
+(;B[mb];W[md]
+(;B[le];W[me])
+(;B[me];W[le])
+(;B[ke];W[le])
+(;B[lb];W[le])
+(;B[la];W[le])
+(;B[mh]
+(;W[le];B[mg];W[ke])
+(;W[ke]
+(;B[le];W[me])
+(;B[me];W[le])
+(;B[mg];W[le]))))
+(;B[mh];W[md]
+(;B[mg];W[le];B[me]C[only ko])
+(;B[le];W[me]C[white is alive (L shape)])
+(;B[ke];W[le]))
+(;B[kh]
+(;W[md]
+(;B[le];W[me]C[white is alive (L shape)])
+(;B[ke];W[le])
+(;B[me];W[le])
+(;B[jh];W[mg];B[mh]C[RIGHT]))
+(;W[le];B[md]C[RIGHT]))
+(;B[jh]
+(;W[md]
+(;B[kh];W[mg];B[mh]C[RIGHT])
+(;B[le];W[me]))
+(;W[le]
+(;B[md]C[RIGHT])
+(;B[kh];W[ke]
+(;B[md];W[kf])
+(;B[kf];W[md])))))

@@ -1,0 +1,47 @@
+(;GE[joseki]DI[1k]DP[18]SO[santa c]CO[7]C[Have you ever tried a 3x6 approach to a 5x5? Do you know the joseki? Start at 'A'.FORCE]AB[oe]LB[qf:A]AP[goproblems];W[qf]C[Obviously white is more interested in the right than the corner.FORCE]
+(;B[qd]C[]
+(;W[qi];B[nc]C[CHOICERIGHT])
+(;W[nc];B[pc]C[White needs a move on both sides so this is good for black.])
+(;W[oc]
+(;B[qe]
+(;W[pf];B[od]C[This is good for black as he can attack either one of the White groups.])
+(;W[pg];B[pc]C[This should normally be good for black as he can attack either one of the White groups.]))
+(;B[od];W[pc];B[qe]
+(;W[qc];B[nc];W[nb];B[mc];W[mb];B[lc]C[Good for Black generally])
+(;W[pg];B[qc];W[mc]C[Locally better for Black])
+(;W[mc];B[qc]C[Locally better for Black]))))
+(;B[qe]C[]
+(;W[qd]
+(;B[pe];W[re]
+(;B[rf]
+(;W[rd];B[qg];W[oc]C[CHOICERIGHT])
+(;W[rg];B[rd];W[sf];B[qc]C[not unplayable but generally better for Black]))
+(;B[rd];W[rc];B[rf];W[sd];B[qg];W[oc]C[Good for White]))
+(;B[re];W[pe]
+(;B[pf];W[pd];B[qg];W[of];B[pg];W[ne]C[Very bad for Black])
+(;B[pd];W[pf];B[qc];W[od];B[pc];W[ne]C[Good for White])))
+(;W[pe]
+(;B[pd];W[pf];B[qd]C[Good for Black.])
+(;B[pf];W[pd];B[qd]C[Unclear]))
+(;W[re]
+(;B[qd]C[]
+(;W[pf]
+(;B[rd]C[Playable depending on the circumstances.CHOICERIGHT])
+(;B[of];W[rd];B[qc];W[ph]C[Normally better for White.]))
+(;W[rd]
+(;B[pf]C[]
+(;W[qg];B[qc]C[CHOICERIGHT])
+(;W[qc];B[qg];W[rf];B[pc];W[qb]C[And black defends the cutting point. (Probably with A)RIGHT]LB[pg:A]))
+(;B[qc]C[]
+(;W[pg]C[CHOICERIGHT])
+(;W[pf]C[RIGHT]))
+(;B[rc];W[qc];B[pc];W[qb]
+(;B[rb];W[pb];B[oc];W[ob])
+(;B[pb];W[rb]C[Good for White]))))
+(;B[pe]C[]
+(;W[qd]
+(;B[rf]
+(;W[rg];B[rd];W[sf];B[qc]C[Generally better for Black.])
+(;W[rd];B[qg];W[oc]C[CHOICERIGHT]))
+(;B[rd];W[rc];B[rf];W[sd];B[qg];W[oc]C[Good for White.]))
+(;W[rd];B[qc];W[rc];B[qb]C[Special case, generally better for Black.])))))

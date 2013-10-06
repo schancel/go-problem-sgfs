@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3k]DP[25]SO[santa c]CO[7]AB[ab]AB[bb]AB[cb]AB[dc]AB[eb]AB[fb]AW[ac]AW[bc]AW[cc]AW[dd]AW[ed]AW[ce]AW[fc]AW[gc]AW[gb]C[What can White do?]AW[ib]AP[goproblems]
+(;W[fa];B[da]
+(;W[ec];B[ba];W[db]MA[dc]C[Well done, a ko! :)RIGHT])
+(;W[ba];B[ec]C[:(]))
+(;W[da];B[db]C[:(])
+(;W[ca];B[da]C[:(]TR[fa]TR[ba])
+(;W[ba];B[ec]
+(;W[da];B[ca];W[fa];B[db]C[:(])
+(;W[fa];B[da]C[:(]))
+(;W[db];B[da]C[:(]TR[fa]TR[ba])
+(;W[ec];B[db]C[6 in a line at the corner are alive! :(])
+(;W[ea];B[da]C[:(]TR[fa]TR[ba])
+(;W[ga];B[da]C[:(]TR[fa]TR[ba])
+(;W[aa];B[da]C[:(]TR[ba]TR[fa]))

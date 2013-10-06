@@ -1,0 +1,43 @@
+(;GE[life and death]DI[6k]DP[39]SO[santa c]CO[5]AB[ba]AW[ab]AW[cb]AW[db]AW[cc]AB[eb]AB[ec]AB[dc]AB[gb]AB[dd]AB[df]AB[cg]AB[bg]AW[be]C[Case 1 - How many ways to kill?FORCE]AB[bi]LB[fe:0]LB[ff:1]LB[fg:2]LB[fh:3]LB[ge:4]LB[gf:5]LB[gg:6]LB[gh:7]AP[goproblems]
+(;B[fe]C[];W[ge]C[Yup alive undonditionally! :) - You can browse some attempts using the 'Navigate Solution' feature under 'Show Solution' on the left.RIGHT]
+(;B[cd];W[bd]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[bd];W[cd]
+(;B[ce];W[ad]C[Would live.RIGHT])
+(;B[ae];W[ad]
+(;B[ac];W[bc]C[Would live.RIGHT])
+(;B[bc];W[bb]C[Would live.RIGHT])))
+(;B[ce];W[bd]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[bb];W[bc]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[da];W[ca]
+(;B[cd];W[bd]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[ce];W[bd]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[bd];W[cd]
+(;B[ce];W[ad]C[Would live.RIGHT])
+(;B[ae];W[ad]
+(;B[ac];W[bc]C[Would live.RIGHT])
+(;B[bc];W[bb]C[Would live.RIGHT])))
+(;B[ae];W[af]
+(;B[bd];W[cd]C[Would live.RIGHT])
+(;B[cd];W[bd]C[Would live - One eye at B19. The other at A17.RIGHT]))
+(;B[ad];W[ae]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[bb];W[bc]C[Would live - One eye at B19. The other at A17.RIGHT])
+(;B[bc];W[bb]C[Would live.RIGHT]))
+(;B[bc];W[bb]C[Would live.RIGHT])
+(;B[ae];W[ad]
+(;B[bd];W[cd]
+(;B[bc];W[bb]C[Would live.RIGHT])
+(;B[ac];W[bc]C[Would live.RIGHT])
+(;B[da];W[ca]
+(;B[bc];W[bb]C[Would live.RIGHT])
+(;B[ac];W[bc]C[Would live.RIGHT])))
+(;B[cd];W[bd]C[Would live.RIGHT]))
+(;B[ad];W[ae]C[Would live.RIGHT])
+(;B[ac];W[bc]C[Would live.RIGHT])
+(;B[ca];W[da]C[Would live - One eye at B19. The other at A17.RIGHT]))
+(;B[ff]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[fg]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[fh]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[ge]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[gf]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[gg]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.])
+(;B[gh]C[The correct anwser is 0. White is alive unconditonally. To navigate the paths please chose 0. Easiest and recomended way to navigate is using 'Navigate Solution' under 'Show solution' on the left.]))

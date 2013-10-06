@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[4k]DP[28]SO[tom111]CO[8]AB[rr]AB[sq]AB[sp]AB[rp]AB[qp]AB[qo]AB[po]AB[rn]AB[pm]AB[om]AB[on]AB[pk]AB[rk]AW[qr]AW[rq]AW[qq]AW[pq]AW[pp]AW[oo]AW[np]AW[pn]AW[qn]AW[qm]AW[rm]AW[so]C[Black to play and save some stones.]AP[goproblems]
+(;B[sm];W[sl]
+(;B[rl];W[sn]
+(;B[ql];W[ro])
+(;B[ro];W[sr]))
+(;B[ro];W[sn];B[sm];W[sn]
+(;B[rl]C[Black can do slightly better because now W T2, B T1, W R1 captures the cornerRIGHT])
+(;B[ql]C[Black can do slightly better, because now W T2, B T1, W R1 captures the corner. RIGHT])
+(;B[sr]C[Nice :) The best solution.RIGHT]))
+(;B[sn];W[ro]))
+(;B[sn];W[sm]
+(;B[ro];W[rs])
+(;B[ss];W[ro]))
+(;B[ro];W[sm]
+(;B[ss];W[sn])
+(;B[rs];W[sn])
+(;B[sr];W[sn])
+(;B[sn];W[rs]))
+(;B[rl];W[sn])
+(;B[sl];W[rs]
+(;B[sn];W[sr]
+(;B[ro];W[sm])
+(;B[sm];W[ro]))
+(;B[sr];W[qs]
+(;B[sm];W[ss])
+(;B[sn];W[ss])
+(;B[ro];W[ss])))
+(;B[ss];W[sn])
+(;B[ql];W[sn]))

@@ -1,0 +1,41 @@
+(;GE[elementary]DI[6k]DP[36]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[2];
+AW[go][ho][io][jo][ko][gp][lp][gq][lq][er][gr][jr][lr][nr]
+AB[hp][ip][jp][kp][hq][kq][hr][kr][hs]PL[1]C[black to live
+]
+(;B[ir]
+(;W[js]
+(;B[ks];W[jq]C[RIGHT
+black gets a seki: nobody dies
+])
+
+(;B[jq];W[ks];B[is];W[ls])
+
+(;B[is];W[ks];B[jq];W[ls])
+)
+
+(;W[ks]C[if white tries this...
+];B[js];W[is];B[jq])
+)
+
+(;B[ks];W[ir]C[dead shape
+])
+
+(;B[js];W[ir]C[dead
+])
+
+(;B[jq];W[ir]C[dead
+])
+
+(;B[is]C[dead
+])
+
+(;B[iq]C[dead
+])
+
+)

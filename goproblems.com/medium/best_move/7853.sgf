@@ -1,0 +1,21 @@
+(;GE[best move]DI[2k]DP[23]SO[munisai79]CO[8]AB[pc]AB[pd]AB[qd]AW[qc]AW[qb]AW[rd]AW[rf]AW[qf]AW[qg]AB[rg]AB[qh]AB[ph]AB[oh]AB[of]AB[nd]AB[nc]AB[re]LB[re:1]C[White to save her stones.]AB[nb]AP[goproblems]
+(;W[qe];B[rc];W[se];B[rb]C[You do not need to sacrifice R18.])
+(;W[rc];B[qe]
+(;W[sb];B[se]C[You do not need to sacrifice R14.])
+(;W[se];B[rh]
+(;W[sb];B[sd]
+(;W[ra];B[sf]C[You do not need to sacrifice R14.])
+(;W[sc];B[ra]C[Everything dies.])
+(;W[sf];B[ra]C[Everything dies.])
+(;W[pb];B[ra]C[Everything dies.]))
+(;W[pb];B[ra];W[sb];B[sd]C[Everything dies.])
+(;W[ra];B[sb];W[pb];B[pa]C[Everything dies.])))
+(;W[sb];B[sd];W[rc];B[qe]C[You do not need to sacrifice R14.])
+(;W[sc];B[qe];W[se]C[Great work!  T17 is the key move.  Note that S12 and Q18 are forcing.RIGHT])
+(;W[sd];B[rc]
+(;W[qe];B[rb]C[You don't need to sacrifice R18.])
+(;W[sc];B[se];W[rb];B[qe]C[You don't need to sacrifice R14.])
+(;W[rb];B[se];W[sc];B[qe]C[You don't need to sacrifice R14.]))
+(;W[se];B[rc]
+(;W[sc];B[sd]C[You can save your stones without ko.])
+(;W[qe];B[rb]C[You don't need to sacrifice R18.])))

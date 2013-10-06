@@ -1,0 +1,55 @@
+(;GE[tesuji]DI[8k]DP[45]SO[Rabieshund]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.50]
+PW[Vit]PB[Svart]AW[ib][jb][kc][lc][ld][kf][kg][lh][li][lj]AB[jc][jd][kd][je][jf][jg][kh][ki][kj][kk][lk]
+(;B[le]CR[le]
+(;W[lf]CR[lf]
+(;B[mf]CR[mf]
+;W[mg]CR[mg]
+;B[me]CR[me]C[White can't cut of the black stones, white dies.][RIGHT
+CHOICE])
+(;B[me]CR[me]
+(;W[ke]CR[ke]
+(;B[mf]CR[mf]
+;W[lg]CR[lg]C[White has connected.])
+(;B[md]CR[md]
+;W[mc]CR[mc]C[White has connected.]))
+(;W[mf]CR[mf]))
+(;B[md]CR[md]
+(;W[ke]CR[ke]C[White has connected.])
+(;W[mc]CR[mc]
+;B[me]CR[me]
+;W[ke]CR[ke]
+;B[mf]CR[mf]
+;W[lg]CR[lg]C[White has connected.]))
+(;B[ke]CR[ke]
+;W[me]CR[me]C[White has connected.]))
+(;W[me]CR[me]
+(;B[mf]CR[mf]
+(;W[ke]CR[ke]
+;B[lg]CR[lg]
+;W[lf]CR[lf]
+;B[le]CR[le]C[Snap-back][CHOICE RIGHT])
+(;W[lf]CR[lf]
+;B[md]CR[md]
+;W[mg]CR[mg]
+;B[me]CR[me]C[White dies.]))
+(;B[lf]CR[lf]
+;W[lg]CR[lg]
+(;B[ke]CR[ke]
+;W[mf]CR[mf])
+(;B[mf]CR[mf]
+;W[ke]CR[ke]C[White has connected.]))))
+(;B[lg]CR[lg]
+;W[lf]CR[lf]
+;B[le]CR[le]
+;W[me]CR[me]
+;B[ke]CR[ke]
+;W[mg]CR[mg]C[White has connected.])
+(;B[lf]CR[lf]
+;W[le]CR[le]
+(;B[lg]CR[lg]
+;W[ke]CR[ke]C[White has connected.])
+(;B[ke]CR[ke]
+;W[lg]CR[lg]C[White has connected.]))
+(;B[ke]CR[ke]
+;W[le]CR[le]C[White has connected.]))

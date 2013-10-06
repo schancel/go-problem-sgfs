@@ -1,0 +1,54 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[8]AB[br]AB[bq]AB[bp]AB[bo]AB[bm]AB[cn]AB[dn]AB[al]AW[cl]AW[bl]AW[dl]AW[ck]AW[bj]AW[fk]AW[fl]AW[fm]AW[fn]AW[do]AW[co]AW[cp]AW[cq]AW[cr]AW[fp]AW[fq]C[How did white attack?]AP[goproblems]
+(;W[bs]
+(;B[ar]
+(;W[cm]
+(;B[am]
+(;W[ap]C[Well done! :)RIGHT]TR[bn]TR[ao])
+(;W[bn];B[an];W[ap]C[Well done! :)RIGHT])
+(;W[ao];B[ap]C[:(])
+(;W[an];B[bn]C[:(])
+(;W[ak];B[bn]C[:(]))
+(;B[bn]
+(;W[am]
+(;B[ap];W[an]C[RIGHT])
+(;B[an];W[ap]C[RIGHT]))
+(;W[ap]
+(;B[am];W[ao]C[RIGHT])
+(;B[ao];W[am]C[RIGHT])))
+(;B[an];W[ap]C[RIGHT])
+(;B[ap];W[an]
+(;B[am];W[bn]C[RIGHT])
+(;B[bn];W[am]C[RIGHT]))
+(;B[ao];W[bn]C[RIGHT]))
+(;W[am];B[an]C[:(]TR[cm]TR[ap])
+(;W[an];B[am]
+(;W[cm];B[ao]C[:(])
+(;W[bn];B[cm]C[:(])
+(;W[ap];B[ao]C[:(])
+(;W[ao];B[ap]C[:(]))
+(;W[bn];B[an]C[:(]TR[cm]TR[ap])
+(;W[ao];B[an]C[:(]TR[ap]TR[cm])
+(;W[ap]
+(;B[ao]
+(;W[am]C[Well done! :)RIGHT]TR[cm]TR[an])
+(;W[an];B[am]C[:(])
+(;W[bn];B[cm]C[:(])
+(;W[cm]C[Well done! :)RIGHT]TR[bn]TR[am]))
+(;B[an];W[cm]C[RIGHT])
+(;B[cm];W[an]TR[ao]TR[am]C[RIGHT])
+(;B[am];W[cm]TR[ao]TR[bn]C[RIGHT]))
+(;W[ak];B[ap]C[:(]))
+(;B[cm];W[an]TR[am]TR[ar]C[RIGHT])
+(;B[an];W[cm]TR[ar]TR[ap]C[RIGHT])
+(;B[am];W[ar]C[RIGHT]TR[aq]TR[cm])
+(;B[ao];W[am]C[RIGHT]TR[cm]TR[an])
+(;B[ap];W[an]TR[am]TR[ar]C[RIGHT]))
+(;W[cm];B[bs]C[:(])
+(;W[bn];B[bs]C[:(])
+(;W[ar];B[bs]C[:(])
+(;W[aq];B[bs]C[:(])
+(;W[ap];B[bs]C[:(])
+(;W[an];B[bs]C[:(])
+(;W[ao];B[bs]C[:(])
+(;W[cs];B[bs]C[:(])
+(;W[am];B[an]C[:(]))

@@ -1,0 +1,6 @@
+(;GE[best move]DI[1d]DP[16]SO[caleb]CO[4]C[How many squares are on a standard go board? A=0 B=42 C=324 D=361 E=2109]LB[hh:A]LB[ih:B]LB[jh:C]LB[kh:D]LB[lh:E]AP[goproblems]
+(;B[hh]C[Yes it's true that the 'squares' on a go board are not actually square, but if you put enough rectangles together, couldn't you make a square? (are you confused yet?)])
+(;B[ih]C[Correct! Each 'square' is actually a rectangle, but put 12 x 13 together and it will usually be a square (some go boards may be different but by process of elimination you should have still picked this answer)  To find the number of squares, just multiply 19-12 by 19-13, which equals 42.RIGHT])
+(;B[jh]C[No, think a little harder on this one.])
+(;B[kh]C[That's the number of intersections, genius.])
+(;B[lh]C[if each 'square' on a go board was actually square, this would be the best answer.]))

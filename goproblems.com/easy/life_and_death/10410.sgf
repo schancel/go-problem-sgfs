@@ -1,0 +1,18 @@
+(;GE[life and death]DI[8k]DP[47]SO[elciego]CO[6]AB[fq]AB[fr]AB[fp]AB[gp]AB[hp]AW[gr]AW[gq]AW[iq]AW[hq]AW[jq]AW[jr]AW[kr]AB[kq]AB[lr]AB[mq]AB[kp]AB[jp]AB[ip]LB[nq:A]LB[nr:D]C[Status?]AP[goproblems]
+(;B[nr];W[is]C[What if White plays here?]
+(;B[ks]
+(;W[hr]C[CHOICE];B[gs]C[NiceRIGHT])
+(;W[gs]C[CHOICE];B[hr]C[NiceRIGHT]))
+(;B[hr];W[ks]C[];B[gs];W[hs]C[Oh no!  White lives!])
+(;B[gs];W[ks]
+(;B[hs];W[hr]C[Oh no!  White lives!])
+(;B[hr];W[hs]C[Oh no!  White lives!]))
+(;B[hs];W[ks];B[gs];W[hr]C[Oh no!  White lives!]))
+(;B[nq]C[White is not alive])
+(;B[is]C[Unnecessary])
+(;B[ks]C[Unnecessary])
+(;B[js]C[Unnecessary])
+(;B[ir]C[Unnecessary])
+(;B[hs]C[Unnecessary])
+(;B[hr]C[Unnecessary])
+(;B[gs]C[Unnecessary]))

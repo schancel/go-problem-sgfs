@@ -1,0 +1,37 @@
+(;GE[endgame]DI[8k]DP[46]SO[santa c]CO[0]AB[oj]AB[nj]AB[mj]AB[lj]AB[kj]AB[jj]AB[jk]AB[jl]AW[kk]AW[jm]AW[km]AW[lm]AW[il]AW[ik]AW[hk]AW[hj]AW[ji]AW[ki]AW[li]AW[mi]AW[ni]AB[mm]AB[nm]AB[om]AW[ln]AW[mn]AW[on]AB[pm]AW[pn]AW[qi]AW[qj]AW[qk]AB[pk]AB[pl]AB[ql]AW[rl]AW[qm]AW[rk]C[life is nice but there's also the matter of points... (this is an ENDGAME problem)]AB[pj]AW[pi]AW[oi]AW[ii]AW[oo]AW[no]AP[goproblems]
+(;B[ll];W[kl]
+(;B[lk]C[of course, simple is best, 6 in the middle's a living shape! =)RIGHT]MA[nk]MA[nl])
+(;B[nk];W[lk]MA[ml]MA[ol])
+(;B[mk];W[nl])
+(;B[ml];W[nk])
+(;B[nl];W[lk]MA[mk]MA[ok]))
+(;B[lk];W[ll]
+(;B[ml];W[kl];B[nk]C[life could be bigger than this...])
+(;B[kl];W[ml]
+(;B[nl]C[life could be bigger than this...])
+(;B[nk];W[nl]))
+(;B[nk];W[ml]MA[nl]MA[kl])
+(;B[nl];W[kl]
+(;B[ml]C[life could be bigger than this...])
+(;B[ok]C[life could be bigger than this...])
+(;B[mk];W[ok]))
+(;B[mk];W[kl]MA[nl]MA[ok])
+(;B[ok];W[ml]
+(;B[nl];W[kl];B[mk]C[life could be bigger than this...])
+(;B[kl];W[nl])
+(;B[mk];W[nl])))
+(;B[kl];W[ll]
+(;B[lk])
+(;B[ml];W[lk]MA[nk]MA[ol])
+(;B[mk];W[lk]MA[nl]MA[ok])
+(;B[nk];W[lk]MA[ml]MA[ol])
+(;B[nl];W[lk]MA[mk]MA[ok]))
+(;B[ml];W[lk]MA[nk]MA[ol])
+(;B[mk];W[kl]
+(;B[nl];W[ok]MA[ll]MA[lk])
+(;B[ok];W[nl])
+(;B[ll];W[nl]))
+(;B[nl];W[lk]MA[mk]MA[ok])
+(;B[nk];W[lk]MA[ml]MA[ol])
+(;B[qn]C[NOTTHIS])
+(;B[rm]C[NOTTHIS]))

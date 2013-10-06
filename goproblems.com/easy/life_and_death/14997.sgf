@@ -1,0 +1,17 @@
+(;GE[life and death]DI[15k]DP[60]SO[TheName]CO[0]AB[ac]AB[bc]AB[cc]AB[cb]AW[dc]AW[dd]AW[cd]AW[bd]AW[ad]AW[ba]C[W just played at the triange. How to respond?CHOICE]TR[ba]AB[db]AB[eb]AB[ea]SZ[9]AW[ec]AW[fc]AW[fb]AW[fa]AP[goproblems]
+(;B[bb]C[CHOICE];W[ca]C[]
+(;B[aa]C[CHOICE];W[ab]C[Dead, since the ko cannot be won with no other stones (in this problem) to ko fight with.])
+(;B[ab]C[CHOICE];W[da];B[aa];W[ca]C[Dead.])
+(;B[da];W[ab]))
+(;B[ca]C[Correct. B can get seki, regardless of W moves.RIGHT]
+(;W[bb];B[ab])
+(;W[aa]))
+(;B[ab];W[ca]C[You get seki from any of the marked spots, but then watch...]TR[bb]TR[aa]TR[da]
+(;B[bb];W[da];B[aa];W[ca]C[Dead.])
+(;B[aa];W[da];B[bb];W[ca]C[Dead.])
+(;B[da];W[aa];B[bb];W[ba]C[Dead.]))
+(;B[da];W[ca];B[ab]C[];W[aa];B[bb];W[ba]C[Dead.])
+(;B[aa];W[ca]
+(;B[ab]C[];W[da];B[bb];W[ca]C[Dead.])
+(;B[da];W[ab]C[Dead. B cannot play anywhere useful, then W can kill at the marked point.]TR[bb])
+(;B[bb];W[ab]C[Dead, since the ko cannot be won with no other stones (in this problem) to ko fight with.])))

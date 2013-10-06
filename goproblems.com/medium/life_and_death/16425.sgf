@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2d]DP[14]SO[santa c]CO[0]AB[kj]AB[lk]AB[kl]AB[jl]AB[hl]AB[gk]AB[gj]AB[hi]AB[ii]AB[ji]AW[jh]AW[ih]AW[hh]AW[gh]AW[fi]AW[fj]AW[fk]AW[gl]AW[hm]AW[im]AW[jm]AW[km]AW[lm]AW[ml]AW[mj]AW[mi]AW[li]AW[kh]C[Kill B]AP[goproblems]
+(;W[il];B[ik]
+(;W[ll];B[hk]
+(;W[ij];B[jj]
+(;W[kk]C[nice!RIGHT])
+(;W[lj];B[kk]))
+(;W[kk];B[jk]MA[ij]MA[lj])
+(;W[lj];B[kk]))
+(;W[lj];B[hk])
+(;W[hk];B[jk])
+(;W[jk];B[hk]MA[jj]MA[ij])
+(;W[hj];B[hk])
+(;W[jj];B[hk])
+(;W[ki];B[hk]))
+(;W[ik];B[il]
+(;W[jk];B[hk]LB[ij:1]LB[jj:2])
+(;W[ij];B[jk])
+(;W[lj];B[jk]MA[ij]MA[ll])
+(;W[ll];B[jk]MA[ij]MA[lj]))
+(;W[jk];B[ik];W[il];B[hk])
+(;W[hk];B[il])
+(;W[ll];B[il])
+(;W[lj];B[il])
+(;W[ki];B[il])
+(;W[gi];B[il])
+(;W[ij];B[il]))

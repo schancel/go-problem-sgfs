@@ -1,0 +1,5 @@
+(;GE[life and death]DI[10k]DP[53]SO[trevor]CO[0]AB[oa]AB[ob]AB[oc]AB[od]AB[pd]AB[qd]AB[rd]AB[sd]AW[pa]AW[pb]AW[pc]AW[qc]AW[rc]AW[sc]C[Kill white. No Ko or Seki.]AP[goproblems]
+(;B[rb];W[ra]
+(;B[sb]C[White is dead. Black can create a 3 point killing shape.RIGHT])
+(;B[qb]C[];W[sb]C[White lives.]))
+(;B[ra];W[rb];B[qa]C[];W[sa]C[White lives. No Ko.];B[sb]C[No Ko.NOTTHIS]))

@@ -1,0 +1,26 @@
+(;GE[endgame]DI[1k]DP[18]SO[kenti]CO[4]AB[dp]AW[cn]AB[fp]AW[bp]AB[cq]AW[ck]AB[hp]AB[bq]LB[bq:1]C[play at 1 is worth how many moku?]LB[fk:1`3]LB[fl:4`6]LB[fm:7`9]LB[fn:10]LB[gk:11]LB[gl:12]LB[gm:13]LB[gn:14]LB[hk:15]LB[hl:16]LB[hm:17]LB[hn:18]LB[ik:19]LB[il:20]LB[im:21]LB[in:22]AP[goproblems]
+(;B[fk];W[dj]LB[fl:1]LB[gl:2]LB[hl:3]C[pleese 1`3]
+(;B[fl]C[no])
+(;B[gl]C[no])
+(;B[hl]C[no]))
+(;B[fl];W[dj]C[pleese 4`6]LB[fm:4]LB[gm:5]LB[hm:6]
+(;B[fm]C[no])
+(;B[gm]C[no])
+(;B[hm]C[no]))
+(;B[fm];W[dj]C[pleese7`9]LB[fn:7]LB[gn:8]LB[hn:9]
+(;B[fn]C[no])
+(;B[gn]C[no])
+(;B[hn]C[no]))
+(;B[fn]C[no])
+(;B[gk]C[no])
+(;B[gl]C[no])
+(;B[gm]C[no])
+(;B[gn]C[no])
+(;B[hk]C[no])
+(;B[hl]C[COLECCT!!!!!!!!RIGHT])
+(;B[hm]C[no])
+(;B[hn]C[no])
+(;B[ik]C[no])
+(;B[il]C[no])
+(;B[im]C[no])
+(;B[in]C[no]))

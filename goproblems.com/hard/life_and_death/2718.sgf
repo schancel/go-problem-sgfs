@@ -1,0 +1,56 @@
+(;GE[life and death]DI[5d]DP[5]SO[Hans]CO[8]AW[an]AW[ao]AW[bo]AW[cp]AW[bq]AW[br]AW[dr]AB[bl]AB[am]AB[bn]AB[cn]AB[co]AB[eo]AB[dq]AB[eq]AB[er]C[Black to play.]
+(;B[ds]
+(;W[cr]
+(;B[cs];W[bs]
+(;B[ar];W[aq];B[bp];W[ap];B[cq]C[RIGHT])
+(;B[bp];W[ap]
+(;B[cq];W[ar]C[White lives.])
+(;B[ar];W[cq]C[White lives.]))
+(;B[aq];W[ar])
+(;B[ap];W[bp]))
+(;B[aq];W[ar]C[White lives])
+(;B[ar];W[cs]
+(;B[bp];W[ap];B[cq];W[as]C[ko])
+(;B[aq];W[as]C[ko at best])
+(;B[as];W[cq];B[aq];W[bs])
+(;B[cq];W[as];B[bs];W[aq]))
+(;B[bp];W[ap]
+(;B[cq];W[ar]C[White lives.])
+(;B[cs];W[cq]C[White lives.])))
+(;W[bs];B[ar];W[aq];B[bp];W[ap];B[cq]C[RIGHT])
+(;W[cs];B[cr];W[bs];B[ar]
+(;W[aq];B[bp];W[ap];B[cq]C[RIGHT])
+(;W[cq];B[aq]C[RIGHT])))
+(;B[bp];W[cq]
+(;B[ap];W[cs])
+(;B[aq];W[ar];B[ap];W[cs])
+(;B[ds];W[ap]))
+(;B[cq];W[bp]C[White is alive.])
+(;B[ar];W[cq]
+(;B[ds];W[cs]C[Ko is not enough.])
+(;B[aq];W[bp];B[ds];W[cs]C[ko]))
+(;B[cr];W[cq]
+(;B[ds];W[bs])
+(;B[ap];W[bp]
+(;B[ds];W[bs])
+(;B[aq];W[cs])
+(;B[cs];W[bs]))
+(;B[cs];W[bs];B[ds];W[ap])
+(;B[aq];W[ar]))
+(;B[aq];W[ar]C[White lives.])
+(;B[bs];W[cr]
+(;B[cq];W[ar]C[White lives.])
+(;B[ar];W[aq]
+(;B[bp];W[ap];B[cq];W[cs])
+(;B[as];W[cq]))
+(;B[ds];W[cs])
+(;B[aq];W[ar])
+(;B[ap];W[bp])
+(;B[bp];W[ap]
+(;B[cq];W[ar])
+(;B[ar];W[cq])))
+(;B[ap];W[bp]C[White lives.])
+(;B[cs];W[bs]C[]
+(;B[bp];W[ds]C[White lives.])
+(;B[cq];W[bp]C[White is alive.]))
+(;B[dp];W[cr]C[White lives easily.]))

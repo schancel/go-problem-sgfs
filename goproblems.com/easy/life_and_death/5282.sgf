@@ -1,0 +1,31 @@
+(;GE[life and death]DI[4k]DP[31]SO[tails]CO[7]AB[ar]AB[br]AB[cq]AB[dq]AB[eq]AW[aq]AW[bq]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AB[ds]C[white to kill.]AP[goproblems]
+(;W[cs]
+(;B[bs]C[CHOICE]
+(;W[dr]
+(;B[er];W[es]C[black cannot push.RIGHT])
+(;B[cr]
+(;W[er]C[RIGHT])
+(;W[es];B[er])))
+(;W[cr];B[dr])
+(;W[es];B[dr])
+(;W[er];B[dr]))
+(;B[cr]C[CHOICE]
+(;W[er]
+(;B[dr]C[CHOICE];W[bs]C[black dies this way regardless of A3 liberty.RIGHT])
+(;B[bs]C[CHOICE];W[dr]C[RIGHT]))
+(;W[bs];B[er])
+(;W[es];B[bs]))
+(;B[er]C[CHOICE];W[cr]C[black cannot approach.RIGHT]))
+(;W[es];B[dr])
+(;W[er];B[dr])
+(;W[dr];B[er]
+(;W[cr];B[cs])
+(;W[cs];B[cr]))
+(;W[cr];B[dr]
+(;W[cs];B[bs])
+(;W[bs];B[cs]))
+(;W[bs];B[cs]
+(;W[es];B[dr])
+(;W[er];B[dr])
+(;W[dr];B[er])
+(;W[cr];B[dr])))

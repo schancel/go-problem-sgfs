@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2d]DP[13]SO[santa c]CO[0]AB[ba]AB[bd]AB[be]AW[ac]AW[bc]AW[dd]AW[ec]AW[eb]AW[ea]AB[fa]AB[fb]AB[fc]AB[fd]AB[ee]AB[de]AB[ce]C[There are no threats elsewhere, can you kill?]AP[goproblems]
+(;B[cb];W[cc]
+(;B[bb];W[ab]
+(;B[cd];W[db]
+(;B[ed];W[ca];B[da]C[nice :)RIGHT])
+(;B[ca];W[ed]))
+(;B[ed];W[db]
+(;B[cd])
+(;B[ca];W[cd]))
+(;B[db];W[dc])
+(;B[da];W[db]
+(;B[ed];W[ca])
+(;B[cd];W[aa]))
+(;B[ca]C[black can't make a dead shape inside, this is gote]))
+(;B[db];W[bb])
+(;B[ca];W[bb])
+(;B[da];W[bb])
+(;B[cd];W[bb])
+(;B[ed];W[bb]))
+(;B[cc];W[cb])
+(;B[bb];W[cb])
+(;B[cd];W[cc]
+(;B[cb])
+(;B[bb];W[cb];B[ca];W[ed])
+(;B[ca];W[cb];B[ed];W[dc];B[da];W[ab])
+(;B[ed];W[dc]
+(;B[cb];W[bb])
+(;B[ca];W[cb];B[da];W[ab])
+(;B[bb];W[cb]))
+(;B[dc];W[db];B[ca];W[ed];B[cb];W[bb]))
+(;B[ed];W[cc]
+(;B[cb])
+(;B[bb];W[cb];B[ca];W[cd])
+(;B[ca];W[cb];B[cd])
+(;B[cd]))
+(;B[dc];W[cc];B[cd])
+(;B[db];W[cb]))

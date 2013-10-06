@@ -1,0 +1,7 @@
+(;GE[life and death]DI[15k]DP[60]SO[bostongo]CO[7]AB[rc]AB[rd]AB[qd]AB[pd]AB[oc]AB[nc]AB[nb]AB[lb]AW[ob]AW[pc]AW[pa]AW[qc]AW[rb]AW[ra]AW[sc]C[Black to kill.]AP[goproblems]
+(;B[qb]
+(;W[pb]C[CHOICE];B[sb]C[Correct, white can only make a false eye at T18RIGHT])
+(;W[sb]C[CHOICE];B[pb]C[Ouch!  White is dead.RIGHT]))
+(;B[sb];W[qb]MA[qa]MA[pb]C[White lives with two eyes.];B[oa];W[na];B[ma];W[oa])
+(;B[pb];W[qb]C[White has two eyes and is alive.]MA[pb]MA[qa];B[oa];W[na];B[ma];W[oa])
+(;B[qa];W[qb]))

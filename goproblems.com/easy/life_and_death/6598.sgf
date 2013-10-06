@@ -1,0 +1,35 @@
+(;GE[life and death]DI[7k]DP[41]SO[maba]CO[8]AB[ki]AB[kj]AB[kk]AB[kl]AB[jl]AB[ik]AB[hk]AB[hj]AB[hi]AB[hh]AB[jh]AW[jm]AW[km]AW[hl]AW[gk]AW[gj]AW[gi]AW[gh]AW[gg]AB[hg]AW[hf]AW[if]AW[jf]AW[kg]AW[li]AW[lj]AW[lk]AW[ll]AW[jj]LB[jj:1]C[White attacks at 1. How can black save his group?]AW[im]AW[lh]AP[goproblems]
+(;B[ii];W[ig])
+(;B[ji];W[ig]
+(;B[ih];W[ij])
+(;B[ij];W[ih]))
+(;B[ij];W[ig]
+(;B[ji];W[ih])
+(;B[ih];W[ji]))
+(;B[ig]
+(;W[ii]
+(;B[ji];W[ij]C[seki in sente. This is the best solution.RIGHT])
+(;B[ij];W[ji]C[]
+(;B[jg]
+(;W[kh];B[il]C[seki in gote. Not optimal, but black is alive.RIGHT])
+(;W[il];B[kh]C[seki in gote. Not optimal, but black is alive.RIGHT]))
+(;B[il]C[seki in gote. Not optimal, but black is alive.RIGHT])
+(;B[kh]C[seki in gote. Not optimal, but black is alive.RIGHT]))
+(;B[jg];W[ji]
+(;B[ij]
+(;W[kh];B[il]C[seki in gote. Not optimal, but black is alive.RIGHT])
+(;W[il];B[kh]C[seki in gote. Not optimal, but black is alive.RIGHT]))
+(;B[kh];W[ij])
+(;B[il];W[ij]))
+(;B[lf];W[ji];B[ij];W[kh]
+(;B[il];W[jg])
+(;B[jg];W[il]))
+(;B[kh]
+(;W[ji];B[ij]C[seki in gote. Not optimal, but black is alive.RIGHT])
+(;W[ij];B[ji]C[seki in gote. Not optimal, but black is alive.RIGHT]))
+(;B[il];W[ji];B[ij];W[kh];B[jg]C[seki in gote. Not optimal, but black is alive.RIGHT]))
+(;W[ji];B[ii]C[RIGHT])
+(;W[jk];B[ji]C[RIGHT])
+(;W[ij];B[ii]C[RIGHT])
+(;W[il];B[ji]C[RIGHT]))
+(;B[jg];W[ig]))

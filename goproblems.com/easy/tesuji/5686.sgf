@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[12k]DP[57]SO[cim]CO[7]AB[ha]AB[jc]AB[kc]AB[lc]AW[hb]AW[ic]AW[gb]AW[id]AW[jd]AW[kd]AB[ld]AB[ga]TR[ga]TR[ha]TR[jc]C[Connect the triangled stones]AW[eb]AW[ec]AP[goproblems]
+(;B[ib];W[jb]
+(;B[ja];W[ia]C[Ko is not good enough])
+(;B[ia];W[ka];B[kb];W[fa];B[ja];W[jb]))
+(;B[jb];W[ia]
+(;B[ib];W[fa])
+(;B[ja];W[ib]))
+(;B[ia];W[jb]
+(;B[ib];W[ka];B[kb];W[fa];B[ja];W[jb])
+(;B[ka];W[ja];B[ib];W[fa])
+(;B[ja];W[kb]
+(;B[ka];W[lb];B[la];W[mb]C[extremely bad for black!])
+(;B[lb];W[ka];B[la];W[ib])))
+(;B[ja]
+(;W[ib]C[CHOICE];B[ia];W[jb];B[kb]C[RIGHT])
+(;W[jb]C[CHOICE]
+(;B[kb];W[ib];B[ia]C[RIGHT])
+(;B[ia];W[kb]
+(;B[lb];W[ka])
+(;B[ka];W[lb];B[la];W[mb]C[very bad for black!])))))

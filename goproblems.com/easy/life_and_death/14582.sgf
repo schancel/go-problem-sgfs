@@ -1,0 +1,10 @@
+(;GE[life and death]DI[10k]DP[52]SO[Hunternif]CO[0]AB[qa]AB[qb]AB[rc]AB[rd]AB[pa]AW[oa]AW[ob]AW[pb]AW[pc]AW[sb]AB[qc]AW[re]AW[qf]AW[pe]AW[pd]AW[of]AW[og]AB[oe]AB[pf]AB[od]AB[ne]AB[nf]AB[me]AW[mf]AW[mg]AB[lf]AW[lg]AW[nh]AW[oh]AW[pi]AB[le]TR[sb]AW[oc]AW[na]AB[ma]AB[mb]AW[nb]AB[nd]AB[nc]AB[lc]AB[kd]C[White just made the marked move, which supposedly kills marked black stones. Save them!]MA[qb]MA[qc]MA[rd]MA[rc]MA[qa]MA[pa]AP[goproblems]
+(;B[qe];W[pg]
+(;B[qd];W[pf];B[rf]C[Now black can make 2 eyes hereRIGHT])
+(;B[rf];W[qd]))
+(;B[qd];W[qe])
+(;B[se];W[sf];B[qe];W[pg];B[rf]C[Awesome! The best result!RIGHT])
+(;B[rb];W[sa];B[qe];W[pg];B[qd];W[pf];B[rf]C[Now black can make 2 eyes here];W[rg];B[se]C[RIGHT])
+(;B[sa];W[rb];B[qe];W[pg];B[qd];W[pf];B[rf]C[Now black can make 2 eyes hereRIGHT];W[rg];B[se]C[RIGHT])
+(;B[sd];W[qe])
+(;B[pg];W[qe]))

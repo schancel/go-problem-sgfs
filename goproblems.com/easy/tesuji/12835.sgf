@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[6k]DP[37]SO[kochi]CO[0]AW[pr]AW[oq]AW[op]AB[pq]AB[pp]AB[qr]AB[qp]AB[rp]AW[po]AW[qo]AB[oo]AB[on]AB[mo]AW[om]AB[pk]AB[qk]AW[pm]AW[ql]AB[ln]AB[kn]AW[lo]AW[ko]AW[jo]AB[jp]AB[jq]AB[jr]AB[kr]AW[kq]AW[lq]AW[lr]AB[gq]AB[ph]AP[goproblems]
+(;W[nn]
+(;B[mn];W[no]C[RIGHT])
+(;B[no]C[CHOICE];W[mn]
+(;B[nm]C[CHOICE];W[mm];B[nl]C[w winsRIGHT])
+(;B[or];W[nr])))
+(;W[mn];B[mm]C[two running groups])
+(;W[mm];B[mn]C[two running groups])
+(;W[nm];B[mn]C[two running groups])
+(;W[no];B[nn])
+(;W[mp];B[nm]C[right side group is still running])
+(;W[nr];B[nm]C[right side is still running.  w has better.])
+(;W[nl];B[mm]C[both groups are running])
+(;W[or];B[nm]C[right side group is running; w has better.]))

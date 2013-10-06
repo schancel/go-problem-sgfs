@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[6k]DP[39]SO[Kijana]CO[8]SZ[19]AW[ge]AW[he]AW[kf]AW[lf]AW[mf]AW[ig]AW[jg]AW[mg]AW[ih]AW[mh]AW[nh]AW[gi]AW[ii]AW[ki]AW[li]AW[fj]AW[ij]AW[kj]AW[fk]AW[ik]AW[kk]AW[hl]AW[fm]AW[hm]AW[hn]AW[in]AW[jn]AW[kn]AW[ln]AW[mn]AW[mo]AW[no]AB[ie]AB[je]AB[ef]AB[gf]AB[hf]AB[if]AB[jf]AB[fg]AB[kg]AB[lg]AB[jh]AB[kh]AB[ji]AB[gj]AB[jj]AB[gk]AB[hk]AB[jk]AB[gl]AB[il]AB[ll]AB[ml]AB[nl]AB[im]AB[jm]AB[km]AB[lm]AB[nm]AB[io]AB[jo]AB[ko]LB[dp:A]C[Can black save G9 group ? If you think he can't, play at A]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[fi];W[hi]
+(;B[fl];W[el]
+(;B[ek];W[ej]
+(;B[em];W[dl];B[gm];W[fn];B[gn];W[go]C[Dead])
+(;B[gm];W[gn]C[Dead]))
+(;B[gm];W[gn]C[Dead]))
+(;B[gh];W[fl]C[White wins the race]))
+(;B[fl];W[el]
+(;B[gm];W[gn]C[Black accomplishes nothing])
+(;B[hi];W[hj]C[Dead]))
+(;B[gm];W[gn]C[Dead])
+(;B[hi]
+(;W[hh]C[CHOICE]
+(;B[gh];W[hj]
+(;B[hg];W[hi];B[fi]C[ well done!RIGHT])
+(;B[fi];W[gm];B[hi]C[Just ko]))
+(;B[hj];W[gm]C[Dead]))
+(;W[fl]C[CHOICE]
+(;B[hj];W[hh]C[Dead])
+(;B[hh];W[gm];B[hj]C[ Well done!RIGHT])
+(;B[gh]
+(;W[fi]
+(;B[hh]C[RIGHT])
+(;B[hj]C[RIGHT])
+(;B[hg];W[gm]))))
+(;W[gh]C[CHOICE]
+(;B[hh];W[hg]
+(;B[hj];W[gg];B[fi];W[fh]
+(;B[eh]C[ Well done!RIGHT])
+(;B[ei]C[RIGHT]))
+(;B[gg];W[hj]C[Oops]))
+(;B[hg];W[hh]C[Dead])))
+(;B[gh];W[hi];B[fi];W[fl]C[White wins the race])
+(;B[dp]C[Wrong - black can save his group]))

@@ -1,0 +1,12 @@
+(;GE[best move]DI[8k]DP[47]SO[Bleedo]CO[6]AW[qm]AW[ql]AW[rk]AB[qo]AB[qn]AB[pm]AB[pk]AB[pl]AB[qk]AW[rn]AW[ro]AB[pp]AB[pq]AB[or]AB[os]AW[pr]AW[ps]AW[qp]AW[qq]AW[rr]AW[rj]AW[sj]AB[rm]AW[qj]AW[pj]AW[oj]AW[pi]AB[qi]AB[si]AB[qh]AB[ri]AW[rh]AW[sh]AB[rg]AW[rl]AB[sm]AW[sn]LB[sm:1]LB[sn:2]C[Black to punish white 2]AB[po]AP[goproblems]
+(;B[rp];W[sl]
+(;B[qr]C[S3 is the best move here]
+(;W[qs];B[rq];W[qr];B[sr]C[Yes!RIGHT]))
+(;B[rq];W[qr];B[sr];W[sp])
+(;B[qs];W[qr]
+(;B[sr];W[sp])
+(;B[rq];W[sp])
+(;B[sp];W[sq])))
+(;B[sl];W[sk])
+(;B[sp];W[rp])
+(;B[qr];W[qs];B[rp];W[sl];B[rq];W[qr];B[sr]C[RIGHT]))

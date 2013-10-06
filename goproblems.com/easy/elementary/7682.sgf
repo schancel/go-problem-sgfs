@@ -1,0 +1,12 @@
+(;GE[elementary]DI[8k]DP[49]SO[maba]CO[8]AW[cr]AW[cs]AW[cq]AW[ds]AB[dr]AB[dq]AB[dp]AW[cp]AW[co]AW[do]AB[eq]AB[eo]AB[en]AB[fp]AW[fq]AW[fr]AB[es]AB[go]AB[ho]AW[gp]AW[hp]AW[ip]AW[iq]AB[gq]AB[hq]AB[fs]C[What's the best move for white?]AP[goproblems]
+(;W[gs]
+(;B[ep]C[CHOICE];W[er]C[RIGHT])
+(;B[er]C[CHOICE];W[ep]C[RIGHT])
+(;B[gr];W[er]C[RIGHT]))
+(;W[er];B[gr])
+(;W[gr];B[er]
+(;W[hr]C[Not optimal.])
+(;W[gs];B[ep];W[hr]C[Not optimal.]))
+(;W[hr];B[er]
+(;W[gs];B[gr])
+(;W[gr]C[Not optimal.])))

@@ -1,0 +1,30 @@
+(;GE[elementary]DI[10k]DP[54]SO[Cei]CO[0]AW[aa]AW[ba]AW[bb]AW[ca]AW[da]AW[ea]AW[fa]AW[fb]AW[gb]AW[hc]AW[ib]AW[id]AW[jd]AW[kd]AW[ld]AW[le]AW[md]AW[lc]AW[lb]AW[la]AB[ab]AB[ac]AB[bc]AB[be]AB[ce]AB[dd]AB[cb]AB[db]AB[eb]AB[fc]AB[gc]AB[hd]AB[he]AB[je]AB[ke]AB[lf]AB[me]AB[nd]AB[mc]AB[mb]AB[ma]AB[od]AB[nb]AP[goproblems]
+(;W[ie]
+(;B[if]
+(;W[mf];B[ne]
+(;W[kf]C[RIGHT])
+(;W[jf];B[kf]C[CHOICE]))
+(;W[kf];B[jf];W[mf]C[White breaks free . . . but there is a slightly better solution.RIGHT])
+(;W[jf];B[kf]C[CHOICE])
+(;W[ne];B[mf]C[]
+(;W[jf];B[kf]C[CHOICE])
+(;W[kf];B[jf]C[CHOICE]))))
+(;W[ne];B[mf]C[CHOICE])
+(;W[mf];B[ne]
+(;W[kf];B[lg]
+(;W[jf];B[ie]C[CHOICE])
+(;W[ie];B[jf]
+(;W[if];B[jg]C[RIGHT])
+(;W[jg];B[if]C[The ladder breaks, and white has lost some stones.])))
+(;W[ie];B[if]
+(;W[kf]C[RIGHT])
+(;W[jf];B[kf]C[CHOICE])))
+(;W[kf];B[mf]
+(;W[jf];B[ie]C[CHOICE])
+(;W[ie];B[jf]
+(;W[if];B[jg]C[RIGHT])
+(;W[jg];B[if]C[The ladder breaks, and white has lost some stones.CHOICE])))
+(;W[gd];B[ie]C[You missed your chance . . .CHOICE])
+(;W[ec];B[ie]C[You missed your chance . . .CHOICE])
+(;W[cc]
+(;B[ie]C[These three black stones are unimportant, so it is better for black to defend the weakness and let white capture them in gote--thanks to BartTM for this correction!CHOICE]MA[ab]MA[ac]MA[bc])))

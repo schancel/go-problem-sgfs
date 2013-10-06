@@ -1,0 +1,12 @@
+(;GE[life and death]DI[3d]DP[11]SO[happyboy]CO[6]AB[oq]AB[pq]AB[qq]AB[rp]AW[ro]AW[qo]AW[qm]AW[pp]AW[op]AW[np]AW[nq]C[White first to kill!]AP[goproblems]
+(;W[rr];B[rq]
+(;W[or];B[ps]
+(;W[nr];B[sr]C[Black is alive!])
+(;W[qs];B[qr];W[rs];B[sp];W[sr];B[sq]C[Not right!])
+(;W[sp];B[sr];W[qs];B[rs]C[Ko to kill. White can kill unconditionally.]))
+(;W[nr];B[or];W[qr];B[sr];W[sp];B[rs];W[qs];B[ps]C[White can kill without ko!]))
+(;W[or];B[pr];W[rr]
+(;B[nr];W[mr];B[os];W[rq]C[Great! Black is dead!RIGHT])
+(;B[rq];W[nr]
+(;B[sr];W[rs]C[Great! Black is dead!RIGHT])
+(;B[rs];W[sr]C[Great! Black is dead!RIGHT]))))

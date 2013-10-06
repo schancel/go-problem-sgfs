@@ -1,0 +1,13 @@
+(;GE[endgame]DI[18k]DP[65]SO[Andre Engels]CO[7]AW[ca]AW[fa]AW[fb]AW[ec]AW[gc]AW[cd]AW[dd]AW[ed]AW[ae]AW[be]AW[de]AB[ea]AB[bb]AB[db]AB[eb]AB[ac]AB[cc]AB[dc]AB[ad]AB[bd]TR[ca]C[Black did not answer the marked stone. What can white do now?]PL[W]
+(;W[ba]
+(;B[ab]
+(;W[cb]C[sekiRIGHT])
+(;W[aa];B[cb]C[Actually, black's last move is not even necessary; it is only shown for clarity.])
+(;W[da];B[cb]C[Actually, black's last move is not even necessary. It is only shown for clarity.]))
+(;B[cb];W[ab]C[Ko for the whole group; this usually is worse for black.]))
+(;W[aa];B[ba])
+(;W[ab];B[aa]
+(;W[ba];B[ab])
+(;W[cb];B[ba]C[Actually, black's last move is not even necessary, it's only shown for clarity.]))
+(;W[cb];B[ba])
+(;W[da];B[ba]))

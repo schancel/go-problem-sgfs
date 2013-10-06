@@ -1,0 +1,22 @@
+(;GE[best move]DI[6k]DP[39]SO[lok]CO[0]SZ[19]AW[la]AW[bb]AW[gb]AW[lb]AW[nb]AW[bc]AW[cc]AW[hc]AW[ic]AW[lc]AW[mc]AW[nc]AW[bd]AW[jd]AW[kd]AW[nd]AW[re]AW[cf]AW[ef]AW[hf]AW[rf]AW[bg]AW[eg]AW[ig]AW[lg]AW[ng]AW[qg]AW[bh]AW[eh]AW[hh]AW[jh]AW[kh]AW[mh]AW[oh]AW[ph]AW[qh]AW[ei]AW[fi]AW[gi]AW[bj]AW[ej]AW[fj]AW[ij]AW[ek]AW[jk]AW[pk]AW[cl]AW[el]AW[pl]AW[cm]AW[em]AW[nm]AW[pm]AW[bn]AW[pn]AW[bo]AW[lo]AW[mo]AW[no]AW[oo]AW[bp]AW[gp]AW[hp]AW[kp]AW[cq]AW[dq]AW[iq]AW[jq]AW[kq]AW[mq]AW[oq]AW[pq]AW[sq]AW[ar]AW[cr]AW[hr]AW[qr]AW[rr]AW[bs]AB[ma]AB[na]AB[oa]AB[cb]AB[db]AB[fb]AB[mb]AB[ob]AB[dc]AB[fc]AB[oc]AB[cd]AB[dd]AB[hd]AB[id]AB[pd]AB[rd]AB[fe]AB[he]AB[je]AB[ke]AB[oe]AB[qe]AB[ff]AB[if]AB[lf]AB[nf]AB[qf]AB[fg]AB[jg]AB[kg]AB[og]AB[pg]AB[dh]AB[fh]AB[bi]AB[ci]AB[qi]AB[aj]AB[dj]AB[gj]AB[hj]AB[oj]AB[pj]AB[rj]AB[bk]AB[ck]AB[fk]AB[hk]AB[ik]AB[qk]AB[bl]AB[fl]AB[jl]AB[ql]AB[bm]AB[fm]AB[km]AB[qm]AB[cn]AB[fn]AB[kn]AB[ln]AB[on]AB[qn]AB[co]AB[go]AB[ho]AB[ko]AB[po]AB[ro]AB[dp]AB[ep]AB[ip]AB[jp]AB[lp]AB[pp]AB[fq]AB[qq]AB[rq]AB[fr]AB[cs]AB[ds]AB[es]C[White is a bit behind. Where can he find some extra points to win the game?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PL[W]
+(;W[fp]
+(;B[fo]C[CHOICE]
+(;W[eq]C[CorrectRIGHT])
+(;W[en];B[eo];W[eq]C[Correct.RIGHT]))
+(;B[eq]C[It would better for black to limit his loss.CHOICE]
+(;W[en]C[CorrectRIGHT])
+(;W[eo];B[en]
+(;W[fo];B[dn])
+(;W[dn];B[fo]))
+(;W[fo];B[en])))
+(;W[eo];B[fp]
+(;W[fo];B[en])
+(;W[en];B[fo])
+(;W[do];B[cp]
+(;W[fo];B[en]TR[do]TR[eo]TR[fo]C[Captured])
+(;W[en];B[fo])))
+(;W[eq];B[fp])
+(;W[fo];B[fp]
+(;W[eo];B[en])
+(;W[en];B[eo]))
+(;W[en];B[fp]))

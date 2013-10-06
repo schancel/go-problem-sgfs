@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[7k]DP[40]SO[mysandbox]CO[0]AB[cr]AB[dq]AB[eq]AB[er]AB[fr]AW[cq]AW[dp]AW[ep]AW[fp]AW[fq]AW[gr]AW[hq]AW[jq]AB[cn]AB[ck]C[tesuji to connect without ko]AP[goproblems]
+(;B[cp];W[co]
+(;B[bp];W[bo];B[bq])
+(;B[bq];W[bo]
+(;B[do];W[dn];B[eo];W[en];B[fo];W[fn];B[go];W[gn];B[ho];W[hn];B[io];W[in];B[jo]TR[cn]TR[ck]MA[dn]MA[en]MA[fn]MA[gn]MA[hn]MA[in]MA[fq]MA[hq]MA[jq]TR[go]TR[ho]TR[io]TR[fo]C[rectangulars are strong, triangulars are weak])
+(;B[bn];W[dn])))
+(;B[bp]
+(;W[cp];B[bq]C[RIGHT])
+(;W[bq];B[cp]
+(;W[co];B[bo]C[RIGHT])
+(;W[br]
+(;B[aq];W[cs];B[dr];W[fs]C[B is dead])
+(;B[ds];W[fs];B[bs];W[gs]
+(;B[aq];W[es])
+(;B[ar];W[es])
+(;B[es]C[RIGHT])))))
+(;B[bq];W[bp];B[cp];W[co];B[bo];W[cq]C[instruction : tesuji to connect without ko];B[ap];W[cp];B[bn];W[br];B[aq];W[cs];B[dr];W[fs]C[B is dead. B3 atari underneath is lead to ko.]))

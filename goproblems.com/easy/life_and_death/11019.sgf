@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[33]SO[lok]CO[0]AB[qr]AB[qq]AB[pq]AB[oq]AB[op]AB[lp]AB[lq]AB[lr]AB[ls]AW[ks]AW[kr]AW[kq]AW[kp]AW[ko]AW[lo]AW[mo]AW[no]AW[oo]AW[pp]AW[qp]AW[rq]AW[rr]AW[ro]AW[nq]C[Black to live.]AP[goproblems]
+(;B[nr];W[mq]
+(;B[mr]
+(;W[ps]C[CHOICE]
+(;B[qs];W[ns]
+(;B[or];W[os]C[Seki.RIGHT])
+(;B[os];W[or];B[pr];W[os]))
+(;B[os];W[qs]))
+(;W[qs]C[Wrong white move. Black is alive with points.];B[ps]
+(;W[or];B[os])
+(;W[rs];B[or])
+(;W[ns];B[or])))
+(;B[os];W[mr]
+(;B[pr];W[qs])
+(;B[qs];W[pr]))
+(;B[ps];W[mr]
+(;B[or];W[ns])
+(;B[ns];W[or])))
+(;B[np]C[Pushing at O4 reduces black liberties. In some situations this is a bad idea...];W[mp]
+(;B[nr];W[mq];B[mr];W[qs];B[ps];W[or]
+(;B[pr];W[os])
+(;B[rs];W[ns])
+(;B[ns];W[pr]))
+(;B[mq];W[nr]TR[ls]TR[lr]TR[lq]TR[lp]TR[mq]C[The tirangle stones are captured.]))
+(;B[or];W[nr];B[np];W[mp]
+(;B[mq];W[ms])
+(;B[ns];W[mq]))
+(;B[mq];W[nr];B[np];W[mp])
+(;B[os];W[nr];B[np];W[mp];B[mq];W[ms]))

@@ -1,0 +1,10 @@
+(;GE[endgame]DI[1d]DP[16]SO[kmlck]CO[0]AB[ks]AB[kr]AB[jq]AB[kq]AB[ip]AB[ho]AB[hq]AW[lq]AW[mq]AW[nq]AW[oq]AW[pq]AW[qq]AW[rq]AW[sq]AW[lp]AW[mo]AW[ko]AW[kp]AW[no]AW[pn]AW[qn]C[Make the biggest reduction in white's territory. Sente is not important.]AP[goproblems]
+(;B[ms]C[];W[nr];B[ns]C[];W[os]C[4 point sente reduction. This would be best if sente is worth more than 1 point.])
+(;B[ls]C[];W[mr];B[ms]C[];W[ns]C[Too small.])
+(;B[os]C[];W[ms]C[Black is cut :(])
+(;B[ns]C[];W[nr]
+(;B[ms];W[os]C[4 point sente reduction. This would be best if sente is worth more than 1 point.])
+(;B[mr];W[os];B[ms];W[lr];B[ls]C[4 point gote reduction.]))
+(;B[lr]C[];W[mr];B[ms]C[];W[ns]C[Too small.])
+(;B[mr]C[];W[nr];B[ns]C[];W[os];B[ms]C[];W[lr];B[ls]C[4 point gote reduction.])
+(;B[nr]C[];W[mr];B[ms];W[or];B[ns];W[os];B[ls]C[5 point gote reduction.RIGHT]))

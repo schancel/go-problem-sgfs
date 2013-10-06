@@ -1,0 +1,23 @@
+(;GE[best move]DI[2k]DP[22]SO[santa c]CO[0]SZ[19]AW[oq]AW[pq]AW[qq]AW[rq]AW[sq]AW[or]AB[np]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[nq]AB[mr]AB[nr]AB[sr]AB[ms]C[Best for B here?]
+(;B[os];W[ps]
+(;B[qs];W[qr]
+(;B[pr]C[Well done, a ko you take first!RIGHT])
+(;B[rs];W[ns]))
+(;B[rr];W[qr])
+(;B[ns];W[rs])
+(;B[rs];W[qr];B[qs])
+(;B[qr];W[rr]))
+(;B[ps];W[os]
+(;B[qr];W[rr];B[rs];W[ss];B[ns];W[qs]C[])
+(;B[rs];W[qr];B[qs];W[rr];B[ns];W[ss]C[])
+(;B[rr];W[qr];B[qs];W[rs])
+(;B[qs];W[rs];B[rr];W[qr])
+(;B[ns];W[qr]))
+(;B[qs];W[ps]MA[qr]MA[rr])
+(;B[rs];W[ps]
+(;B[qs];W[qr];B[os])
+(;B[os]))
+(;B[rr];W[qr])
+(;B[qr];W[rr])
+(;B[pr];W[qr])
+(;B[ns];W[qr]))

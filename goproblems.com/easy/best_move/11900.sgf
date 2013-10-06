@@ -1,0 +1,49 @@
+(;GE[best move]DI[6k]DP[36]SO[DarkSycthe]CO[0]AW[ab]AW[bb]AW[cb]AW[dc]AW[eb]AW[gc]AW[hb]AB[fb]AB[fc]AB[bc]AB[cc]AB[cd]AB[de]AB[ef]AB[ib]AB[ic]AB[jc]AB[id]AB[ie]AW[ge]C[White to play the best move(s).]AP[goproblems]
+(;W[fd];B[gb]
+(;W[hc];B[ha]
+(;W[ed]C[RIGHT])
+(;W[ec];B[ia]
+(;W[ed]C[Good, white is connected and alive.RIGHT])
+(;W[ea];B[ga]
+(;W[ed]C[Works.RIGHT])
+(;W[ee]C[Ok.RIGHT])
+(;W[dd]C[RIGHT]))
+(;W[fa];B[ga]
+(;W[ed]C[Ok, but f19 seems pointlessRIGHT])
+(;W[ea];B[ed])
+(;W[ee]C[NOTTHIS]))
+(;W[ga];B[fa];W[ea];B[ga]
+(;W[ed]C[WorksRIGHT])
+(;W[ee]C[RIGHT])
+(;W[dd]C[RIGHT]))
+(;W[ee]C[NOTTHIS]))
+(;W[ga];B[fa]
+(;W[ed]C[Ok.RIGHT])
+(;W[ec];B[ia]
+(;W[ed]C[WorksRIGHT])
+(;W[ea];B[ga]
+(;W[ed]C[GoodRIGHT])
+(;W[ee]C[Ok.RIGHT])
+(;W[dd]C[RIGHT]))
+(;W[ee]C[RIGHT]))
+(;W[ea];B[ia]
+(;W[ec])
+(;W[ed]C[RIGHT]))))
+(;W[ha];B[hc])
+(;W[ed];B[hc])
+(;W[ec];B[hc])
+(;W[ga];B[hc];W[fa];B[ha])
+(;W[fa];B[hc];W[ga];B[ha]))
+(;W[gb];B[fd]
+(;W[gd];B[fa]C[Bad for white])
+(;W[fa];B[gd]C[Not the best for white considering black has good outside influence.]))
+(;W[ed];B[fd]
+(;W[fe];B[gd]
+(;W[hd];B[hc])
+(;W[ee];B[hc]C[White lost the two stones...]TR[gc]TR[hb])
+(;W[fa];B[hc]C[White either lost the triangle stones or go the square stones cut off.]MA[fe]MA[ge]TR[gc]TR[hb]))
+(;W[gd];B[fe]C[Bad for white]))
+(;W[fa];B[gb];W[ga];B[hc];W[fd];B[ha]C[Not the best...])
+(;W[ga];B[fd];W[fa];B[gd]C[Black has good outside influence.])
+(;W[ea];B[fd];W[fa];B[gd]C[Black has good outside influence])
+(;W[ec];B[fd];W[fa];B[gd]C[Black has good central influence]))

@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4k]DP[28]SO[aditsu]CO[7]AB[aq]AB[ar]AB[bo]AB[co]AB[dp]AB[ep]AB[fp]AB[gp]AB[gq]AB[hr]AB[hs]AW[ap]AW[br]AW[bs]AW[cp]AW[cq]AW[dq]AW[eq]AW[fq]AW[gr]AW[fs]AB[hp]AB[bp]AW[bq]AP[goproblems]
+(;B[fr];W[er]
+(;B[ds];W[dr]
+(;B[cs];W[gs]C[])
+(;B[gs];W[cs]C[]))
+(;B[gs];W[ds]TR[cr]TR[fr]C[]))
+(;B[gs];W[fr]C[Rectangular six is alive, without seki])
+(;B[ds];W[dr]
+(;B[es];W[cs]C[])
+(;B[cs]
+(;W[fr];B[es]C[Seki - that's the best black can doRIGHT])
+(;W[es];B[fr]
+(;W[gs];B[er])
+(;W[er];B[gs])))
+(;B[fr];W[cs];B[gs];W[es]C[]TR[er]TR[gr]))
+(;B[es];W[ds]C[])
+(;B[dr];W[ds]
+(;B[cr];W[er]C[])
+(;B[er];W[cr]C[]))
+(;B[ao];W[fr]C[Rectangular six is alive, without seki])
+(;B[er];W[dr]C[]))

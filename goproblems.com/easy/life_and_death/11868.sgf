@@ -1,0 +1,9 @@
+(;GE[life and death]DI[10k]DP[50]SO[ZeroShiKii]CO[0]AB[dq]AB[dp]AB[cp]AB[bp]AB[dn]AB[cn]AB[em]AB[fm]AB[gm]AB[hn]AB[ho]AB[go]AB[ip]AB[ir]AW[gr]AW[gp]AW[ep]AW[en]AW[fn]AW[gn]AW[do]AW[co]AW[bo]AW[dm]AW[cm]C[Black to cut off the lower white group and make a profit.]AP[goproblems]
+(;B[fp]
+(;W[eo];B[eq]C[CHOICERIGHT])
+(;W[eq];B[eo];W[bn]
+(;B[fo];W[dn]C[CHOICERIGHT])
+(;B[dn];W[cn];B[fo]C[RIGHT])))
+(;B[eo];W[fo];B[fq];W[fp];B[gq];W[hq];B[hp];W[eq])
+(;B[fo];W[eo];B[fp];W[eq]C[W E3 greatly reduces b's profit.])
+(;B[fq];W[fp];B[eq];W[gq]))

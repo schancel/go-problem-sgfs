@@ -1,0 +1,52 @@
+(;GE[joseki]DI[3k]DP[26]SO[Imperator9]CO[0]AB[dp]AB[dd]AW[oc]AW[pq]AB[po]AW[pl]LB[mp:A]C[Please play the loose move of A.]AP[goproblems];B[mp];W[oo]C[CHOICE]
+(;B[on]
+(;W[no]
+(;B[pp];W[nq]
+(;B[qq]C[];W[oq]C[Black got a useful forcing move.CHOICE]
+(;B[qn]C[Must.];W[qr]
+(;B[rq]C[B is settled.
+RIGHT])
+(;B[qp];W[rq]))
+(;B[pr];W[pn]C[B must stay connected in a fight.])
+(;B[rp];W[pn]C[B must stay connected in a fight.])
+(;B[nn];W[mo]
+(;B[rp]C[RIGHT])
+(;B[qr]C[B is protected from the cut, because W's ladder fails. See the continuation provided by MeleeNewb.RIGHT]))
+(;B[ol]C[RIGHT])
+(;B[pn]))
+(;B[np];W[op]C[Nothing for B.])
+(;B[op];W[np]C[Nothing here.])
+(;B[pn]C[B can get more.]))
+(;B[qq];W[nq]C[CHOICE]
+(;B[pp])
+(;B[pr];W[qp]C[R4 is belligerent.]
+(;B[pp];W[oq]
+(;B[qr];W[qn]
+(;B[pn]C[This is a hard fight, and B will not come out well.])
+(;B[qo]C[B settles well.RIGHT]))
+(;B[qo];W[qr]C[B can do better.]))
+(;B[qr];W[pp]))
+(;B[qp])
+(;B[qo]))
+(;B[qp])
+(;B[op]))
+(;W[pp]C[CHOICERIGHT]
+(;B[no];W[qo];B[op];W[qn]C[An even trade.RIGHT])
+(;B[qo];W[no]C[B is cut and weak.])
+(;B[op])
+(;B[pn])))
+(;B[pp];W[op]
+(;B[qq];W[oq]
+(;B[on];W[pn]C[Very bad for B. P6 was unreasonable.])
+(;B[pn];W[on]C[]
+(;B[qr]C[];W[pm]C[While B lives, W has come out on top.])
+(;B[pm])))
+(;B[pn];W[on]C[this only strengthens W.]))
+(;B[op];W[pp]
+(;B[on];W[no];B[np]
+(;W[qo];B[pn];W[qn]C[W has connected!])
+(;W[mo];B[lo];W[nm]C[Very bad for black.]))
+(;B[qo];W[on]
+(;B[oq];W[or]C[B can do better.])
+(;B[np])
+(;B[qp]))))

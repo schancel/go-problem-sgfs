@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[7k]DP[41]SO[whendrik]CO[0]AB[gi]AB[gk]AB[ik]AB[hi]AW[ij]AW[jj]AW[jh]AW[hh]AW[fg]AW[fh]AW[fi]AW[ej]AW[ei]AW[ek]AB[fm]AB[dk]AB[ck]AB[di]AB[ci]AB[eh]AB[eg]AB[fe]AB[hf]AB[hm]AB[lh]AB[lf]AB[le]AB[ld]AB[fc]MA[hi]LB[ei:A]C[White to connect. Black just played the marked move, trying to seperate White's group A and group B.]AB[hd]AB[dm]AB[ef]AB[lj]LB[jj:B]AB[mj]AB[nh]AW[jk]AW[kk]AW[lk]AW[mk]AB[il]AW[nm]AW[lm]AP[goproblems]
+(;W[ii]
+(;B[gh]C[CHOICE]
+(;W[gg];B[hg]
+(;W[gj];B[ih];W[hj]C[Nice! White connected!RIGHT])
+(;W[ih];B[hk]))
+(;W[gj];B[hj];W[gg];B[hk];W[hg]C[Nice! White connected!RIGHT])
+(;W[hj];B[gj]))
+(;B[hk];W[gh]C[RIGHT])
+(;B[ig];W[gh];B[ih];W[gj]C[RIGHT]))
+(;W[gh];B[ii]
+(;W[ih];B[ji];W[ki];B[hk]TR[kh]TR[kj])
+(;W[ji];B[ih];W[ig];B[hk]TR[hg]TR[jg])
+(;W[kg];B[ji]))
+(;W[hg];B[ii]
+(;W[ji];B[ih])
+(;W[ih];B[ji])
+(;W[kg];B[ji]))
+(;W[ih];B[gh])
+(;W[gj];B[hj]
+(;W[ii];B[gh];W[gg];B[hk];W[hg]C[Nice! White connected!RIGHT])
+(;W[gh];B[ii]
+(;W[ih];B[ji];W[ki];B[fj]TR[kh]TR[kj])
+(;W[ji];B[ih];W[ig];B[fj]TR[hg]TR[jg]))))

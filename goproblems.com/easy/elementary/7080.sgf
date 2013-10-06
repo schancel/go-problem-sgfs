@@ -1,0 +1,33 @@
+(;GE[elementary]DI[15k]DP[61]SO[maba]CO[7]AB[fg]AB[fh]AB[gf]AW[fe]AW[ge]AW[he]AW[gg]AW[gh]AW[ih]AW[jh]AB[gi]AB[hi]AB[ii]AB[ji]AB[kh]AW[kg]AW[fi]AW[fj]C[Black to capture the cutting stones.]AP[goproblems]
+(;B[hg];W[hh]
+(;B[jg]
+(;W[ig]
+(;B[if]C[RIGHT])
+(;B[jf];W[hf])
+(;B[hf];W[if]))
+(;W[jf];B[ig]C[RIGHT])
+(;W[hf];B[ig]C[RIGHT])
+(;W[ff];B[ig]C[RIGHT])
+(;W[if];B[ig]C[RIGHT]))
+(;B[ig];W[jg])
+(;B[jf];W[jg])
+(;B[hf];W[jg])
+(;B[if];W[jg]))
+(;B[hh];W[hg]
+(;B[hf];W[ig]
+(;B[if];W[jg])
+(;B[jg];W[if]))
+(;B[ig];W[hf];B[jg]C[That weren't the cutting stones.])
+(;B[jg];W[ig]
+(;B[if];W[hf])
+(;B[hf];W[if])))
+(;B[ig];W[hf]
+(;B[hg];W[ff])
+(;B[hh];W[hg])
+(;B[ff];W[hg]))
+(;B[hf];W[ig])
+(;B[if];W[hf])
+(;B[jg];W[hf]
+(;B[hg];W[ff])
+(;B[hh];W[hg])
+(;B[ig];W[hg])))

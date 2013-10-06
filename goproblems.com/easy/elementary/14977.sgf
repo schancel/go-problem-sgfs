@@ -1,0 +1,34 @@
+(;GE[elementary]DI[8k]DP[46]SO[smartaleck]CO[0]AB[ik]AB[hk]AB[hj]AB[kk]AB[lk]AB[lj]AB[lh]AB[lg]AB[kg]AB[ig]AB[hg]AB[hh]AB[hi]AB[jk]AW[jj]AW[ii]AW[jf]AW[kf]AW[mf]AW[mh]AW[mi]AW[mj]AW[mk]AW[ml]AW[ll]AW[kl]AW[jl]AW[il]AW[hl]AW[gl]AW[gk]AW[gj]AW[gi]AW[gh]AW[gg]AW[gf]AW[hf]AW[if]AP[goproblems]
+(;W[jg];B[jh]
+(;W[li];B[ki]
+(;W[ji];B[ij]C[Seki])
+(;W[ij];B[ji]C[Seki])
+(;W[ih];B[ji])
+(;W[kj];B[ji]))
+(;W[ji];B[li]
+(;W[ih];B[kh];W[ij]C[seki])
+(;W[ki]C[seki]))
+(;W[ki];B[li];W[ji]C[seki]))
+(;W[li];B[ki]
+(;W[jg];B[jh])
+(;W[ji];B[jg]
+(;W[kj];B[kh];W[ij]C[seki])
+(;W[jh]C[seki]))
+(;W[jh];B[jg];W[ji]C[seki]))
+(;W[jh];B[jg]
+(;W[li];B[ki])
+(;W[ki]C[RIGHT];B[li]C[Black M11 is a mistake, Black is still dead. Play the marked moves to see why.FORCE]MA[mg]
+(;W[mg]
+(;B[kh]MA[lf]MA[ih]C[FORCE]
+(;W[ih]
+(;B[ij]MA[ji]C[FORCE];W[ji]C[rabbity six, Black has one eye only.RIGHT]))
+(;W[lf];B[ih]MA[ji]C[FORCE];W[ji]C[This is not seki; White can make a rabbity-6 dead shape at J10 or L10.RIGHT]))
+(;B[he]MA[lf]C[FORCE];W[lf];B[ie]MA[kh]C[FORCE];W[kh]C[If Black refuses to play White can make an eye inside and kill Black by winning the semeai.RIGHT])))
+(;W[ji];B[ki]C[Seki]))
+(;W[ki];B[li]
+(;W[jg];B[jh])
+(;W[jh]C[RIGHT];B[jg]C[Black K13 is a mistake, White can tenuki. Black is still dead. Play the marked moves to see why.]MA[mg])
+(;W[ji];B[jh]C[Seki]))
+(;W[ji];B[jg]
+(;W[li];B[ki])
+(;W[ki];B[li]C[seki])))

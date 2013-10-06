@@ -1,0 +1,13 @@
+(;GE[life and death]DI[8k]DP[49]SO[1234boys]CO[0]AB[sr]AB[rp]AB[qq]AB[qr]AB[pr]AB[or]AW[nr]AW[nq]AW[oq]AW[pq]AW[qp]AW[qo]AW[rn]AW[so]AW[sp]AW[rq]LB[rs:a]LB[rr:b]LB[sq:c]LB[os:d]LB[ps:e]C[What's the key point in the corner?]AP[goproblems]
+(;B[rs];W[sq]LB[rr:a]LB[os:b]LB[ps:c]
+(;B[rr]C[RIGHT])
+(;B[ps];W[rr])
+(;B[os];W[rr]))
+(;B[sq];W[os]LB[ps:a]LB[rs:b]
+(;B[rs])
+(;B[ps];W[rs];B[ns];W[lr]))
+(;B[rr];W[os]LB[ps:a]LB[rs:b]
+(;B[ps];W[rs];B[ns];W[lr])
+(;B[rs];W[ps]))
+(;B[os];W[rr];B[rs];W[ro])
+(;B[ps];W[rr];B[rs];W[ro]))

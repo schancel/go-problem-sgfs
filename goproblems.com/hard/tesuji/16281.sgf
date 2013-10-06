@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[4d]DP[8]SO[kuche12345]CO[0]AW[bs]AW[br]AW[cq]AW[cp]AW[dp]AW[ep]AW[fp]AB[cr]AB[cs]AB[ds]AB[dq]AB[eq]AB[fq]AB[er]AW[fr]AW[gr]AW[gq]AW[hq]AB[gp]AB[hp]AB[io]AB[iq]AB[jq]C[Black to kill the marked stones unconditionally]TR[gq]TR[gr]TR[fr]TR[hq]AP[goproblems]
+(;B[hs];W[ir]
+(;B[fs];W[is];B[jr];W[hr];B[js]C[RIGHT])
+(;B[jr];W[gs]
+(;B[es];W[is];B[js];W[hr]C[only seki :(])
+(;B[is];W[es];B[fs]C[only ko :(])))
+(;B[hr];W[ir];B[jr];W[hs])
+(;B[fs];W[gs];B[hr];W[es]C[just ko :(])
+(;B[gs];W[hs]
+(;B[ir];W[es];B[fs];W[es];B[fs];W[gs];B[hr];W[es]C[close, but only ko :(])
+(;B[fs];W[es];B[fs];W[gs]C[ko :(]))
+(;B[ir];W[gs]
+(;B[es];W[fs])
+(;B[hr];W[es];B[fs]C[ko ;/]))
+(;B[is];W[gs]C[ko ]
+(;B[es];W[fs])
+(;B[fs];W[es]C[;/])))

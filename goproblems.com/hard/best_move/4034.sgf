@@ -1,0 +1,58 @@
+(;GE[best move]DI[4d]DP[7]SO[adum]CO[7]AW[pp]AW[op]AW[qp]AB[qq]AB[pq]AB[oq]AB[nq]AB[np]AW[no]AW[mo]AB[oo]AB[ql]AW[qj]AW[pj]LB[oo:1]C[what to do about black's cut at 1?]AP[goproblems]
+(;W[on];B[po]
+(;W[qn];B[qo]
+(;W[rp];B[ro]
+(;W[rn];B[rq]
+(;W[pn];B[sp]C[best for whiteRIGHT])
+(;W[sp];B[so]C[this last exchange doesn't help ya])
+(;W[so];B[sp]))
+(;W[pn];B[rn])
+(;W[rm];B[pn])
+(;W[rq];B[rn]))
+(;W[ro];B[rp])
+(;W[rn];B[pn])
+(;W[pn];B[rp]C[this leaves bad aji on the bottom]))
+(;W[pn];B[qo]
+(;W[qn];B[rp]C[the right side is still open])
+(;W[rp];B[qn])
+(;W[ro];B[qn])
+(;W[rn];B[qn])
+(;W[qm];B[rp]))
+(;W[qo];B[pn]
+(;W[qn];B[pm])
+(;W[pm];B[qn]
+(;W[qm];B[rn])
+(;W[rn];B[qm]))
+(;W[qm];B[pm]
+(;W[qn];B[pl])
+(;W[pl];B[qn])
+(;W[rm];B[ol])))
+(;W[qm];B[qo])
+(;W[pm];B[qo])
+(;W[rp];B[qn])
+(;W[ro];B[qn]
+(;W[qm];B[rn]
+(;W[qo];B[pn])
+(;W[pn];B[qo];W[rp];B[rm]))
+(;W[rn];B[qm])
+(;W[pn];B[qo]))
+(;W[rn]
+(;B[qo];W[rp];B[ro];W[so];B[rq];W[sp])
+(;B[qn]
+(;W[qo];B[pn])
+(;W[pn];B[qo];W[rp];B[qm])))
+(;W[rm];B[qo]))
+(;W[pn];B[on]
+(;W[om];B[nn])
+(;W[nm];B[pm]
+(;W[po];B[om])
+(;W[om];B[po]
+(;W[qn];B[qo])
+(;W[qo];B[qn])))
+(;W[pm];B[nm]))
+(;W[om];B[pn])
+(;W[qn];B[on])
+(;W[rq];B[pn])
+(;W[pm];B[on])
+(;W[po];B[on])
+(;W[rp];B[pn]))

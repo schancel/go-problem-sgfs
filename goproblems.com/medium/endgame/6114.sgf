@@ -1,0 +1,35 @@
+(;GE[endgame]DI[3k]DP[26]SO[kochi]CO[7]AB[qq]AB[qr]AW[pr]AW[pq]AB[qp]AB[qo]AB[qn]AB[rm]AB[rp]AW[pp]AW[op]AW[np]AW[mp]AW[mq]AW[mr]AW[kr]AW[kq]AW[ls]AW[kp]AW[lp]AB[js]AB[jr]AB[jq]AB[jp]AB[jo]AB[jn]AB[mn]AB[mm]AB[on]AB[pn]AW[nn]AW[nm]AB[ml]AB[ol]AW[ps]AW[qs]AB[rs]C[Black's best endgame.  The rest of the board is completely finished.]AW[ms]AW[ln]AW[kn]AB[jm]AB[km]AB[lm]AB[mo]AB[sp]AB[so]AB[rn]AB[rl]AB[sl]AW[om]AB[pm]AB[pl]AB[nl]AB[ql]AB[qm]AB[ll]AB[kl]AB[jl]LB[ps:A]AP[goproblems]
+(;B[rr];W[no]C[white 8, black 7.  No good.])
+(;B[sr];W[no]C[White 8, black 7.  No good.])
+(;B[no];W[rr]
+(;B[ss];W[sr])
+(;B[sr];W[ss]
+(;B[rs]C[NOTTHIS])
+(;B[lo]
+(;W[ko]C[CHOICE]
+(;B[rs];W[ks]
+(;B[rq]C[Black 13, white 8. That's right.RIGHT])
+(;B[ss];W[sq])
+(;B[sq];W[ss]))
+(;B[sq];W[rs]C[Black 9, White 9.  Not good enough.])
+(;B[rq];W[rs]C[White 9, Black 9.  Not good enough]))
+(;W[sq]C[CHOICE]
+(;B[ko];W[rq]C[Black 13, White 12.  Good.RIGHT])
+(;B[rq];W[ko];B[sr];W[rs];B[sq]C[Black 9, White 9.  Not good enough.])))
+(;B[ko]C[NOTTHIS])
+(;B[sq]C[];W[rs]C[Black 9, White 9.  Not good enough.])
+(;B[rq];W[rs]C[Black 9, White 9.  Not good enough.]))
+(;B[rq];W[ss]C[Black 9, White 9.  Not good enough.])
+(;B[lo];W[ko];B[sr];W[ss]C[since you wasted m5, you lose this ko.])
+(;B[ko]C[NOTTHIS])
+(;B[sq];W[ss]C[black 9, white 9.  not good enough.]))
+(;B[ko]C[NOTTHIS])
+(;B[lo];W[ko]
+(;B[no];W[rr]
+(;B[rq];W[ss]C[9 to 9.  not good enough])
+(;B[ss];W[sr])
+(;B[sq];W[ss])
+(;B[sr];W[ss]C[you wasted the m5 threat so you have no chance to win this.]))
+(;B[sr];W[no]C[white 8, black 7.])
+(;B[rr];W[no]C[white 8, black 7]))
+(;B[oo];W[no]C[you don't have enough now.]))

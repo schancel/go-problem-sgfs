@@ -1,0 +1,32 @@
+(;GE[endgame]DI[8k]DP[46]SO[ceram88]CO[0]AW[ps]AW[os]AW[or]AW[nr]AB[ms]AB[ns]AB[mr]AB[nq]AB[oq]AW[pq]AW[qq]AW[rp]AW[rq]AW[sp]AW[so]AB[pp]AB[qp]AB[ro]AB[qo]AB[pn]AW[qn]AB[sn]AB[sl]AB[rk]AB[ql]AW[qj]AW[rj]AW[sj]AB[mp]LB[so:1]LB[sn:2]LB[sp:3]C[Play best end game for black. White is ko master.]AB[oo]AP[goproblems]
+(;B[qs]
+(;W[pr]
+(;B[rr];W[sr]
+(;B[rs]C[If white plays ideally gote seki without sacrficing stones is the best black can get. RIGHT])
+(;B[ss]C[];W[rs]C[White is specified to be ko master and therefore would win this ko, living with full points. Had this not been the case, the ko could be more desireable for black depending on the rest of the board. ]))
+(;B[sr]
+(;W[rs]C[This is not white's best move unless this is the last possible move on the board.];B[rr];W[qr]C[This gives black sente, although white captures a stone. RIGHT])
+(;W[rr]C[CHOICE];B[rs]C[If white plays ideally gote seki without sacrificing stones is the best black can get. RIGHT]))
+(;B[rs]
+(;W[rr];B[sr]C[If white plays ideally gote seki without sacrificing stones is the best black can get. RIGHT])
+(;W[sr];B[rr]C[If white plays ideally gote seki without sacrificing stones is the best black can get. RIGHT]))))
+(;B[rn]C[No! Black is already safe here.])
+(;B[rr];W[qr]
+(;B[rs];W[sr])
+(;B[sr];W[rs])
+(;B[ss];W[qs]))
+(;B[qr];W[rr]
+(;B[qs];W[pr])
+(;B[rs]
+(;W[sr])
+(;W[pr])))
+(;B[rs]
+(;W[sr]C[CHOICE]
+(;B[qs];W[pr];B[rr]C[If white plays ideally gote seki without sacrificing stones is the best black can get. RIGHT])
+(;B[qr];W[rr];B[qs];W[pr]))
+(;W[qr]C[This is a mistake by white. but it's another variation that people may want to see.];B[qs];W[pr];B[sr]C[White can't push and is dead!]))
+(;B[sr]
+(;W[qr]
+(;B[rs]
+(;W[rr]))
+(;B[rr];W[rs]))))

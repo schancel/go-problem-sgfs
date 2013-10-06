@@ -1,0 +1,41 @@
+(;GE[best move]DI[18k]DP[67]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[bn][co][do][eo][fo][go][ep][hp][ip][fq][iq][fr][ir]AB[bo][ho][bp][cp][dp][fp][gp][dq][eq][gq][hq][er][hr][hs]LB[iq:1][hr:2][ir:3][hs:4]C[The last move of black is not good. You are white, show him what is wrong.]PL[W]
+(;W[gs]CR[gs]
+(;B[es]CR[es]C[CHOICE]
+;W[is]CR[is]
+;B[fs]CR[fs]
+;W[gr]CR[gr]C[RIGHT])
+(;B[gr]CR[gr]C[CHOICE This move makes black atari.]
+;W[is]CR[is]C[RIGHT So black is dead.])
+(;B[is]CR[is]C[CHOICE Black cannot escape in the hope to win liberties.]
+;W[js]CR[js]C[RIGHT Black is dead.])
+(;B[fs]CR[fs]C[CHOICE Black cannot play here directly. He need to play E1 first]
+;W[es]CR[es]
+;B[ds]CR[ds]
+;W[is]CR[is]
+;B[fs]CR[fs]
+;W[gr]CR[gr]C[RIGHT]))
+(;W[fs]CR[fs]
+;B[es]CR[es]
+(;W[is]CR[is]C[Seki gote for white. It is not the best that white can do.])
+(;W[gr]CR[gr]
+;B[gs]CR[gs])
+(;W[gs]CR[gs]
+;B[gr]CR[gr]))
+(;W[es]CR[es]
+;B[gr]CR[gr]
+(;W[fs]CR[fs]
+;B[ds]CR[ds]
+;W[is]CR[is]
+;B[gs]CR[gs])
+(;W[gs]CR[gs]
+;B[fs]CR[fs])
+(;W[is]CR[is]
+;B[fs]CR[fs]))
+(;W[gr]CR[gr]
+;B[fs]CR[fs]
+;W[is]CR[is]
+;B[gs]CR[gs])
+(;W[is]CR[is]
+;B[fs]CR[fs]C[White group is dead. Black is alive.]))

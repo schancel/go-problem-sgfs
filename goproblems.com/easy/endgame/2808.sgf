@@ -1,0 +1,22 @@
+(;GE[endgame]DI[5k]DP[32]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[da][fa][db][eb][fb][gb][ac][bc][bd][cd][be][de][bf][cf][cg]AB[bb][cb][cc][dc][ec][fc][gc][dd][fd][ee][fe][df][ef][gf][eg]TR[ee]C[No komi, no prisoners! Now try the white stones please :) Black just played the marked stone. How can White win now?]PL[W]
+(;W[ab]CR[ab]
+;B[ce]CR[ce]
+(;W[ca]CR[ca]
+;B[de]CR[de]
+;W[ba]CR[ba]C[A7 a point of white territory - who could have imagined :) White wins by one point! RIGHT])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]
+;W[de]CR[de]
+;B[aa]CR[aa]C[White can't win both kos, so the result will be a jigo.]))
+(;W[ce]CR[ce]
+;B[ab]CR[ab]
+;W[ca]CR[ca]
+;B[ba]CR[ba]C[Jigo!])
+(;W[ca]CR[ca]
+;B[ab]CR[ab]
+(;W[ce]CR[ce]
+;B[ba]CR[ba]C[Jigo!])
+(;W[ba]CR[ba]
+;B[ce]CR[ce]C[& Black connects the ko: jigo!])))

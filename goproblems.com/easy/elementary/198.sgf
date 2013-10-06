@@ -1,0 +1,29 @@
+(;GE[elementary]DI[12k]DP[55]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[pk][qk][rk][pl][qm][rm][sm][pn][qn][po][pp][oq][pq][or][qr][rr][qs][rs]
+AB[ol][ql][rl][om][pm][on][rn][sn][oo][qo][ro][np][op][qp][sp][nq][qq][rq][sq][nr][sr][ms][ns][ss]
+C[black to make the best move here
+]
+(;B[pr];W[ps]
+(;B[os]
+C[RIGHT
+white cannot connect, as black will take the whole group at T8
+])
+
+(;B[sl];W[sk];B[os];W[pr])
+)
+
+(;B[ps];W[pr];B[os];W[sl]C[black can do better than this
+])
+
+(;B[sl];W[sk];B[pr];W[ps];B[os];W[pr])
+
+(;B[os];W[pr]C[black can do better
+])
+
+)

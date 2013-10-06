@@ -1,0 +1,29 @@
+(;GE[life and death]DI[12k]DP[55]SO[SinianSung]CO[7]AW[cb]AW[eb]AW[cc]AW[dc]AB[bc]AW[bd]AW[be]AW[ce]AB[db]AB[fb]AB[ec]AB[ed]AB[dd]AB[cd]C[black to win the capturing-race. Get the marked Stones.]TR[cc]TR[dc]TR[cb]AP[goproblems]
+(;B[bb]
+(;W[da];B[ba]
+(;W[ca]
+(;B[fa]C[];W[ac];B[ea];W[ab];B[db]C[CHOICERIGHT])
+(;B[ea];W[fa]
+(;B[ga];W[ac];B[ea]C[Just ko])
+(;B[gb];W[ac])))
+(;W[fa]
+(;B[ca]C[RIGHT])))
+(;W[ca]
+(;B[ba];W[da]
+(;B[fa])
+(;B[ea]))
+(;B[ea]C[RIGHT])
+(;B[da];W[ea]
+(;B[ba]C[RIGHT])
+(;B[db];W[ba])
+(;B[da];W[ba])
+(;B[fa];W[ba]))
+(;B[fa];W[ba])))
+(;B[da]
+(;W[bb];B[ea];W[ac])
+(;W[ca];B[ea];W[bb]))
+(;B[ea];W[bb];B[ca];W[ba];B[da];W[ac])
+(;B[fa];W[da])
+(;B[ca]
+(;W[da];B[bb];W[ba];B[fa];W[ab];B[ea];W[ac])
+(;W[bb];B[ea])))

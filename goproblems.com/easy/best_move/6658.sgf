@@ -1,0 +1,22 @@
+(;GE[best move]DI[6k]DP[39]SO[tirian]CO[8]GM[1]FF[4]AP[glGo:1.2-Beta2]ST[1]
+
+SZ[19]KM[6.5]
+PW[White]PB[Black]DT[2005-06-08]
+AB[da][db][eb][ec][fc][gc][ha][ib][ic][hc]AW[ia][ja][jb][jc][jd][id][hd][gd][fd][ed][dd][dc][cc][cb][ca]
+(;W[fa]
+;B[gb]
+;W[ga]
+;B[fb]
+;W[hb]C[With no ko threats as large as this group, Black loses.  RIGHT])
+(;W[ga]
+;B[fa]
+(;W[hb]
+;B[gb]C[Black lives unconditionally.  The invasion was worth four points in gote (if you save your stones), but you could have done better.])
+(;W[gb]
+;B[hb]))
+(;W[gb]
+;B[fa]
+(;W[ga]
+;B[hb])
+(;W[hb]
+;B[ga])))

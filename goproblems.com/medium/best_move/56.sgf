@@ -1,0 +1,52 @@
+(;GE[best move]DI[1k]DP[18]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[hh][fi][hi][hj][dk][ek][fk][mk][qk][ql][rl][sm][ln][rn][bo][co][ko][mo][oo][ap][cp][mp][bq][cq][fq][jq][mq][br]
+AB[pi][pj][pk][ol][pl][bm][dm][fm][mm][pm][qm][rm][bn][cn][mn][do][lo][qo][ro][dp][lp][pp][dq][hq][kq][oq][qq][cr][dr]
+LB[jq:1]C[white just played 1. what's black's best response?
+]
+(;B[kr];W[kp];B[lq];W[jr]
+(;B[kn];W[lm]
+(;B[jp];W[jo]
+(;B[jn];W[ip]C[ladder doesn't work for black
+])
+
+(;B[ip];W[lr])
+)
+
+(;B[km];W[ll];B[mr];W[nr])
+)
+
+(;B[mr];W[nr];B[kn];W[lm]
+(;B[km];W[ll])
+
+(;B[jp];W[jo];B[jn];W[ip];B[io];W[jp])
+)
+)
+
+(;B[jr];W[kr]
+(;B[kp];W[jp])
+
+(;B[lr];W[lq]
+(;B[ks];W[kp])
+
+(;B[kp];W[jp])
+)
+
+(;B[kp];W[jp])
+)
+
+(;B[kp];W[jp];B[kr]
+C[RIGHT
+black has lower right and can either connect to A or double atari
+])
+
+(;B[lq]C[RIGHT
+seems to work for black
+])
+
+)

@@ -1,0 +1,234 @@
+(;GE[endgame]DI[4k]DP[28]SO[highflyer]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.50]
+GN[The Last Point]AW[lb][mb][jc][kc][ed][jd][ld][de][ee][je][af][bf][cf][ff][kf][lf][dg][eg][fg][hg][ig][jg][ah][bh][ch][dh][jh][ai][fi][ji][aj][fj][hj][ij][kj][gk][kk][fl][gl][hl][il][kl][em][gm]AB[la][ib][jb][kb][cc][ec][hc][lc][dd][fd][hd][ae][be][ce][ge][ie][gf][hf][if][jf][gg][eh][fh][gh][kh][bi][ci][di][gi][hi][ii][ki][bj][dj][gj][jj][ak][ek][fk][bl][dl][el][dm][hm]C[Black to win the game.]
+(;B[ka]
+;W[fm]C[RIGHT Black wins by 0.5 Points. Important: Black must not try to win the ko, because any of black's ko threats will give points away.])
+(;B[ic]
+;W[fm]C[RIGHT Black wins by 0.5 Points. Important: Black must not try to win the ko, because any of black's ko threats will give points away.])
+(;B[kg]
+;W[ka]
+(;B[ja]
+;W[ic]
+;B[fm]
+;W[hb]
+;B[gb]
+;W[em]
+(;B[jk]
+;W[jl]
+;B[fm]
+;W[cd]
+;B[bd]
+;W[em]
+(;B[ih]
+;W[ik]
+;B[fm]
+;W[db]
+;B[dc]
+;W[em]
+(;B[jj]
+;W[jk]
+;B[fm]
+;W[bk]
+(;B[ck]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[al]
+(;B[bk]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[am]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[al]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[ck]
+;B[cl]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])))
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[bk]
+;B[ck]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[hh]C[NOTTHIS])
+(;B[ik]
+;W[hk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[hk]
+;W[ik]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[ik]
+;W[jk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[hk]
+;W[jk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[ih]
+;W[jk]
+;B[fm]
+;W[cd]
+;B[bd]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[db]
+;B[dc]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[hh]C[NOTTHIS]))
+(;B[ic]
+;W[ma]
+(;B[ja]
+;W[mc]
+(;B[la]
+;W[fm]
+;B[ka]C[You lost by 0.5 points.])
+(;B[fm]
+;W[la]
+;B[em]C[You lost by 0.5 points.]))
+(;B[fm]
+;W[mc]
+;B[ja]
+;W[la]
+;B[em]C[You lost by 0.5 points.])))
+(;B[fm]
+;W[ka]
+;B[ja]
+(;W[em]C[CHOICE]
+(;B[ic]
+;W[fm]C[RIGHT Black wins by 0.5 Points. Important: Black must not play a ko threat, because any of black's ko threats will give points away.])
+(;B[kg]
+;W[ic]
+;B[fm]
+;W[hb]
+;B[gb]
+;W[em]
+(;B[jk]
+;W[jl]
+;B[fm]
+;W[cd]
+;B[bd]
+;W[em]
+(;B[ih]
+;W[ik]
+;B[fm]
+;W[db]
+;B[dc]
+;W[em]
+(;B[jj]
+;W[jk]
+;B[fm]
+;W[bk]
+(;B[ck]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[al]
+(;B[bk]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[am]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[al]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[ck]
+;B[cl]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])))
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[bk]
+;B[ck]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[hh]C[NOTTHIS])
+(;B[ik]
+;W[hk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[hk]
+;W[ik]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[ik]
+;W[jk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[hk]
+;W[jk]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[ih]
+;W[jk]
+;B[fm]
+;W[cd]
+;B[bd]
+;W[em]
+(;B[hh]
+;W[jj]
+;B[fm]
+;W[db]
+;B[dc]
+;W[em]
+;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[mc]
+;W[md]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[hh]C[NOTTHIS]))
+(;B[ik]
+;W[jk]
+;B[fm]
+;W[ic]
+;B[em]C[You won the ko, but you lost the game by 0.5 points.])
+(;B[hk]
+;W[jk]
+;B[fm]
+;W[ic]
+;B[em]C[You won the ko, but you lost the game by 0.5 points.])
+(;B[mc]
+;W[md]
+;B[fm]
+;W[ic]
+;B[em]C[You won the ko, but you lost the game by 0.5 points.])
+(;B[jk]
+;W[kg]
+(;B[fm]
+;W[ic]
+;B[em]C[You won the ko, but you lost the game by 0.5 points.])
+(;B[ic]
+;W[fm]C[You lost by 0.5 points.])))
+(;W[ic]
+;B[em]C[RIGHT Black wins by 0.5 Points.])))

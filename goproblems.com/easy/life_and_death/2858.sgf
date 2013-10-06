@@ -1,0 +1,100 @@
+(;GE[life and death]DI[4k]DP[29]SO[karmaGfa]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[Blanc]PB[Noir]AW[ie][hf][if][gg][hg][eh][fh]AB[hd][id][ge][he][gf][dg][eg][fg][dh][ei]C[White to defend her group unconditionnally.]PL[W]
+(;W[ih]CR[ih]
+;B[gh]CR[gh]
+(;W[hh]CR[hh]
+;B[fi]CR[fi]
+;W[hi]CR[hi]C[RIGHT White is alive unconditionally.])
+(;W[hi]CR[hi]
+;B[fi]CR[fi]
+(;W[gi]CR[gi]C[RIGHT])
+(;W[hh]CR[hh]C[RIGHT])
+(;W[fh]CR[fh]
+;B[gi]CR[gi]
+(;W[hh]CR[hh]C[RIGHT])
+(;W[di]CR[di]C[NOPLAY])))
+(;W[gi]CR[gi]
+;B[fi]CR[fi]
+(;W[hi]CR[hi]C[RIGHT])
+(;W[hh]CR[hh]
+;B[hi]CR[hi])
+(;W[fh]CR[fh]
+;B[hi]CR[hi])))
+(;W[fi]CR[fi]
+;B[gh]CR[gh]
+(;W[di]CR[di]
+;B[hh]CR[hh]C[White is dead.])
+(;W[hh]CR[hh]
+;B[gi]CR[gi]
+;W[hi]CR[hi]
+;B[ih]CR[ih]C[White is dead.]))
+(;W[gh]CR[gh]
+;B[ih]CR[ih]
+(;W[hi]CR[hi]
+;B[fi]CR[fi]C[White is dead.])
+(;W[hh]CR[hh]
+;B[hi]CR[hi]
+(;W[gi]CR[gi]
+;B[ii]CR[ii]C[White is dead.])
+(;W[fi]CR[fi]
+;B[di]CR[di]C[White is dead.]))
+(;W[fi]CR[fi]
+;B[hi]CR[hi]C[White is dead.])
+(;W[ig]CR[ig]
+;B[hi]CR[hi]C[White is dead.]))
+(;W[gi]CR[gi]
+;B[ih]CR[ih]
+(;W[ig]CR[ig]
+;B[hh]CR[hh]C[White is dead.])
+(;W[hh]CR[hh]
+;B[hi]CR[hi]
+(;W[ii]CR[ii]C[Ko fight only.])
+(;W[fi]CR[fi]
+;B[gh]CR[gh]C[White is dead.])
+(;W[ig]CR[ig]
+;B[gh]CR[gh]))
+(;W[fi]CR[fi]
+;B[hi]CR[hi]C[White is dead.])
+(;W[hi]CR[hi]
+;B[hh]CR[hh]C[White is dead.])
+(;W[ii]CR[ii]
+;B[hh]CR[hh]C[White is dead.]))
+(;W[hh]CR[hh]
+;B[fi]CR[fi]
+(;W[gi]CR[gi]
+;B[gh]CR[gh]
+(;W[fh]CR[fh]
+;B[ih]CR[ih]
+(;W[ii]CR[ii]
+;B[hi]CR[hi]C[Ko fight only.])
+(;W[ig]CR[ig]
+;B[ii]CR[ii]C[White is dead.]))
+(;W[hi]CR[hi]
+;B[ih]CR[ih]C[White is dead.])
+(;W[ii]CR[ii]
+;B[fh]CR[fh]C[White is dead.]))
+(;W[gh]CR[gh]
+;B[ih]CR[ih]
+(;W[ii]CR[ii]
+;B[hi]CR[hi]C[White is dead (damezumari).])
+(;W[gi]CR[gi]
+;B[ii]CR[ii]C[White is dead.]))
+(;W[ih]CR[ih]
+;B[hi]CR[hi]C[White is dead.]))
+(;W[hi]CR[hi]
+;B[ih]CR[ih]
+(;W[gh]CR[gh]
+;B[fi]CR[fi]C[White is dead.])
+(;W[hh]CR[hh]
+;B[fi]CR[fi]C[White is dead.])
+(;W[fi]CR[fi]
+;B[gh]CR[gh]
+(;W[di]CR[di]
+;B[hh]CR[hh]C[White is dead.])
+(;W[gi]CR[gi]
+;B[hh]CR[hh]C[White is dead.])
+(;W[hh]CR[hh]
+;B[gi]CR[gi]C[White is dead]))
+(;W[gi]CR[gi]
+;B[hh]CR[hh]C[White is dead.])))

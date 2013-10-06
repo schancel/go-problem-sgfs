@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[6k]DP[37]SO[adum]CO[0]AB[bs]AB[br]AB[cr]AB[dq]AB[dp]AB[do]AB[co]AW[cp]AW[cq]AW[bq]AW[ap]AW[ao]AW[bo]AB[bn]AB[an]AB[bm]AW[ar]AB[er]AW[fr]AW[fq]AW[fp]AW[ep]AW[eo]AB[en]AB[em]AB[gm]AB[fm]AB[gn]AB[go]AB[fo]AW[gq]AW[hp]AW[iq]AB[gp]AW[cn]AW[dn]AW[dm]AW[dl]AW[el]AB[cl]AB[bk]AW[fl]AB[im]C[White wants to avoid Black having a ko option in the corner. Black cannot start the ko now, but might later. How can White take the ko option away in sente?]AP[goproblems]
+(;W[ds]
+(;B[es]
+(;W[dr]C[];B[cs]
+(;W[dr]C[seki in senteRIGHT])
+(;W[eq];B[dr];W[fs]C[gote])
+(;W[fs];B[dr];W[eq]C[gote])
+(;W[ds];B[dr]))
+(;W[cs];B[dr])
+(;W[eq];B[dr];W[fs]C[gote])
+(;W[fs];B[dr];W[eq]C[gote])))
+(;W[eq];B[dr]
+(;W[es];B[ds]C[this leaves really bad aji])
+(;W[ds];B[es])
+(;W[aq];B[as]))
+(;W[dr];B[ds]
+(;W[eq];B[dr])
+(;W[fs]C[gote]))
+(;W[aq];B[as])
+(;W[es]
+(;B[ds]
+(;W[fs];B[dr];W[eq]C[gote])
+(;W[eq];B[dr];W[fs])))
+(;W[as];B[aq])
+(;W[cs];B[ds])
+(;W[fs];B[ds]C[white gets gote]))

@@ -1,0 +1,18 @@
+(;GE[best move]DI[15k]DP[64]SO[MrMoto]CO[7]AW[li]AW[mi]AW[ni]AW[nj]AW[nk]AW[mk]AW[oj]AB[lh]AB[mg]AB[nh]AB[oh]AB[pi]AB[pj]AB[ok]AB[pl]AB[ql]AB[qk]AB[rk]AW[qj]AW[rj]AW[sk]AB[qg]AW[qm]AW[rl]AB[mj]AB[lj]AB[lk]AB[ki]AB[kj]AB[jh]AB[ji]AB[jj]AB[jk]AB[ik]AB[kl]AW[ll]AB[ml]AB[mm]AB[ln]AB[lo]AB[nn]AB[no]AB[po]AB[oo]AW[on]AW[pn]AW[qo]AW[qp]AW[rn]AW[qq]AB[pq]AB[oq]AW[lm]AW[km]AW[hm]AW[jl]AW[jn]AW[il]AW[jm]AW[in]AW[io]AB[kn]AB[jo]AB[kp]AB[ip]AW[ho]AB[hp]AW[gn]AW[hk]AB[hj]AB[hi]AW[gk]AW[gl]AB[gp]MA[li]MA[mi]MA[ni]MA[nj]MA[oj]MA[nk]MA[mk]C[What's the best way for White to save these stones?]AP[goproblems]
+(;W[nl];B[nm]
+(;W[om];B[ol])
+(;W[ol];B[om];W[pk];B[pm]C[:(]))
+(;W[nm];B[nl])
+(;W[om];B[nl])
+(;W[ol]
+(;B[om]C[CHOICE]
+(;W[nl];B[nm];W[pk];B[pm])
+(;W[pk]MA[ok]C[koRIGHT])
+(;W[pm];B[nl]))
+(;B[nl]C[CHOICE]
+(;W[om];B[pk])
+(;W[pm];B[om])
+(;W[pk]MA[ok]C[koRIGHT]))
+(;B[pk]C[Black cannot play this way.]
+(;W[nm]C[White connects.])
+(;W[nl];B[om];W[nm]MA[mm]MA[ml]MA[om]))))

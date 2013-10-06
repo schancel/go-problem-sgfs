@@ -1,0 +1,6 @@
+(;GE[life and death]DI[20k]DP[70]SO[bostongo]CO[6]AB[ra]AB[rb]AB[qb]AB[pc]AB[qd]AB[rd]AB[sd]AB[sc]AW[sb]AW[qa]AW[pb]AW[ob]AW[oc]AW[od]AW[pe]AW[qe]AW[re]AW[se]C[White to kill.]AP[goproblems]
+(;W[qc]
+(;B[pd]C[CHOICE];W[rc]C[That hurts.RIGHT])
+(;B[rc]C[CHOICE];W[pd]C[A false eye.  Black is dead.RIGHT]))
+(;W[pd];B[qc]C[Black is alive.])
+(;W[rc];B[qc]C[Black is alive.]))

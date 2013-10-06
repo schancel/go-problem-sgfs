@@ -1,0 +1,117 @@
+(;GE[joseki]DI[4k]DP[29]SO[picketfence]CO[8]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-17]
+KM[0.0]
+RU[Japanese]
+AB[cr][bq][cp][dn][hp]
+AW[dp][cq][eq][fp]
+C[Black 1 is overplayed; it should've pulled back at A instead.
+How should white punish black?]
+
+PL[W]LB[co:A][cr:1]
+
+(;W[co];B[dq]
+(;W[bp];B[cq];W[do]
+C[RIGHT
+Since black's D6 is too high, it becomes a target for white.
+White succeeds!]
+TR[dn]
+)
+(;W[dr];B[do];W[cq];B[bp]
+C[Black secured the left side.  White failed.]
+)
+(;W[do];B[bo];W[cn];B[bm]))
+(;W[dr];B[co]
+C[Black's C5 is joseki if it was played instead of C2.  White's
+D2 not only fails to punish black, it allows black to make up
+his mistake while gaining the benefit of C2.  White fails.]
+LB[dr:1]
+TR[cr]
+SQ[co]
+)
+(;W[dq];B[co]
+C[Black fixes his shape, and white's shape is inefficient.  White 
+fails.]
+)
+(;W[bp];B[co]))
+(;
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-17]
+KM[0.0]
+RU[Japanese]
+AB[cr][bq][cp][dn][hp]
+AW[dp][cq][eq][fp]
+C[Black 1 is overplayed; it should've pulled back at A instead.
+How should white punish black?]
+
+PL[W]LB[co:A][cr:1]
+
+(;W[co];B[dq]
+(;W[bp];B[cq];W[do]
+C[RIGHT
+Since black's D6 is too high, it becomes a target for white.
+White succeeds!]
+TR[dn]
+)
+(;W[dr];B[do];W[cq];B[bp]
+C[Black secured the left side.  White failed.]
+)
+(;W[do];B[bo];W[cn];B[bm]))
+(;W[dr];B[co]
+C[Black's C5 is joseki if it was played instead of C2.  White's
+D2 not only fails to punish black, it allows black to make up
+his mistake while gaining the benefit of C2.  White fails.]
+LB[dr:1]
+TR[cr]
+SQ[co]
+)
+(;W[dq];B[co]
+C[Black fixes his shape, and white's shape is inefficient.  White 
+fails.]
+)
+(;W[bp];B[co]))
+(;
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-17]
+KM[0.0]
+RU[Japanese]
+AB[cr][bq][cp][dn][hp]
+AW[dp][cq][eq][fp]
+C[Black 1 is overplayed; it should've pulled back at A instead.
+How should white punish black?]
+
+PL[W]LB[co:A][cr:1]
+
+(;W[co];B[dq]
+(;W[bp];B[cq];W[do]
+C[RIGHT
+Since black's D6 is too high, it becomes a target for white.
+White succeeds!]
+TR[dn]
+)
+(;W[dr];B[do];W[cq];B[bp]
+C[Black secured the left side.  White failed.]
+)
+(;W[do];B[bo];W[cn];B[bm]))
+(;W[dr];B[co]
+C[Black's C5 is joseki if it was played instead of C2.  White's
+D2 not only fails to punish black, it allows black to make up
+his mistake while gaining the benefit of C2.  White fails.]
+LB[dr:1]
+TR[cr]
+SQ[co]
+)
+(;W[dq];B[co]
+C[Black fixes his shape, and white's shape is inefficient.  White 
+fails.]
+)
+(;W[bp];B[co]))

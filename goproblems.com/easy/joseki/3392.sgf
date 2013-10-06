@@ -1,0 +1,9 @@
+(;GE[joseki]DI[6k]DP[36]SO[santa c]CO[7]C[Have you ever tried a 3x3 just under a 5x5? Do you know the joseki? Start at 'A'.FORCE]AB[oe]LB[qc:A]LB[pd:x]LB[qd:x]LB[qe:x]LB[qf:x]LB[oc:x]LB[pc:x]LB[nc:x]AP[goproblems];W[qc]
+(;B[oc]
+(;W[qe];B[pg]C[White A would be a very big follow-up.RIGHT]LB[rg:A])
+(;W[qf]
+(;B[pg];W[qg];B[ph];W[qh];B[pi]C[Nice! ;)CHOICERIGHT])
+(;B[qb];W[rb];B[qd];W[pc];B[pd];W[rd];B[pb];W[rc];B[pg]C[Nice! ;)CHOICERIGHT])))
+(;B[pc]
+(;W[pb];B[qd];W[oc];B[pd];W[rb];B[rc];W[qb];B[nc]C[Better for Black.CHOICE])
+(;W[qd];B[qf];W[oc];B[nc];W[ob];B[nb];W[pb]C[RIGHT])))

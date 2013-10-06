@@ -1,0 +1,52 @@
+(;GE[life and death]DI[5d]DP[4]SO[traxtin]CO[5]AB[ia]AB[ka]AB[jb]AB[ib]AB[kb]AB[hc]AB[hd]AB[he]AB[lc]AB[ld]AB[le]AW[ic]AW[jc]AW[kc]AW[ke]AW[ie]AW[hb]AW[gb]AW[lb]AW[mb]C[Black to Play and save himself.The marked White stones, in this situation, are far too strong to fall under a valid attack so Black must come up with another plan.]TR[ic]TR[jc]TR[kc]TR[ke]TR[ie]AP[goproblems]
+(;B[fb]
+(;W[fc];B[gc];W[eb]
+(;B[nc];W[nb];B[ob];W[pb];B[oc];W[oa];B[na];W[ma];B[mc];W[pa]
+(;B[qc]
+(;W[fa]
+(;B[qb];W[ha]C[RIGHT])
+(;B[pc];W[ha]C[RIGHT]))
+(;W[qb];B[la]C[RIGHT]))
+(;B[pc];W[qb]C[white gets an eye in the corner and the best black can now hope for is seki.]))
+(;B[nb];W[nc];B[mc];W[ob]
+(;B[kf];W[if])
+(;B[if];W[kf]))
+(;B[fa];W[ea];B[nc];W[nb];B[ob];W[pb];B[oc];W[oa];B[na];W[ma];B[mc];W[pa]
+(;B[qc]
+(;W[ga]
+(;B[qb];W[ha]C[RIGHT])
+(;B[pc];W[ha]C[RIGHT]))
+(;W[qb];B[la]C[RIGHT]))
+(;B[pc];W[qb]C[white gets an eye in the corner and the best black can now hope for is seki.])))
+(;W[gc];B[fc];W[gd];B[ga];W[ha];B[ge];W[fd];B[ed];W[fe];B[ff];W[fa];B[ee];W[ga];B[ea]C[RIGHT]))
+(;B[nb]
+(;W[nc];B[mc];W[ob]
+(;B[fc];W[fb];B[eb];W[db];B[ec];W[ea];B[fa];W[ga];B[gc];W[da]
+(;B[cc]
+(;W[na]
+(;B[cb];W[la]C[RIGHT])
+(;B[dc];W[la]C[RIGHT]))
+(;W[cb];B[ha]C[RIGHT]))
+(;B[dc];W[cb]C[white gets an eye in the corner and the best black can now hope for is seki.]))
+(;B[fb];W[fc];B[gc];W[eb]
+(;B[if];W[kf])
+(;B[kf];W[if]))
+(;B[na];W[oa];B[fc];W[fb];B[eb];W[db];B[ec];W[ea];B[fa];W[ga];B[gc];W[da]
+(;B[dc];W[cb]C[white gets an eye in the corner and the best black can now hope for is seki.])
+(;B[cc]
+(;W[ma]
+(;B[cb];W[la]C[RIGHT])
+(;B[dc];W[la]C[RIGHT]))
+(;W[cb];B[ha]C[RIGHT]))))
+(;W[mc];B[nc];W[md];B[ma];W[la];B[me];W[nd];B[od];W[ne];B[nf];W[na];B[oe];W[ma];B[oa]C[RIGHT]))
+(;B[jd]C[NOTTHIS])
+(;B[je]C[NOTTHIS])
+(;B[id]C[NOTTHIS])
+(;B[kd]C[NOTTHIS])
+(;B[if]C[NOTTHIS])
+(;B[jf]C[NOTTHIS])
+(;B[kf]C[NOTTHIS])
+(;B[gc];W[fb]C[White has too many liberties now and black is hopelessly lost])
+(;B[mc];W[nb]C[White has too many liberties now and black is hopelessly lost])
+(;B[fc];W[ha]C[Too slow for Black cause now White can just kill the bottom stones])
+(;B[nc];W[la]C[Too slow for Black cause now White can just kill the bottom stones]))

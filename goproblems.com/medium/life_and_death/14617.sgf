@@ -1,0 +1,43 @@
+(;GE[life and death]DI[2k]DP[23]SO[pseudog]CO[0]AW[db]AW[eb]AW[ib]AW[lb]AW[ec]AW[fc]AW[lc]AW[gd]AW[hd]AW[id]AW[jd]AW[kd]AB[fa]AB[fb]AB[gb]AB[kb]AB[gc]AB[ic]AB[jc]AB[kc]C[Black to play]AW[mb]
+(;B[ja];W[hb]
+(;B[hc];W[ha]
+(;B[ia];W[la];B[ka]C[seki.RIGHT])
+(;B[ka];W[ia]C[dead]))
+(;B[ha];W[hc]C[dead])
+(;B[ia];W[hc]C[dead]))
+(;B[ia];W[ja]C[]
+(;B[la];W[hc];B[hb];W[ha]C[dead])
+(;B[ka];W[hc]
+(;B[hb];W[ha]C[dead])
+(;B[jb];W[hb]C[dead]))
+(;B[jb];W[ha]C[dead])
+(;B[ha];W[hc]
+(;B[hb];W[ka];B[jb];W[ib]C[:)])
+(;B[jb];W[ka]C[:)])
+(;B[ka];W[la]C[Snapback]))
+(;B[hb];W[ha]C[dead])
+(;B[hc];W[ha]C[Dead (do not mistake it for a seki) : if B plays inside, WJ13, else when needed, W fills outside libs then K12 and H12 .]))
+(;B[hb];W[ja]
+(;B[ka];W[ha]C[dead])
+(;B[jb];W[ha]C[only ko];B[ia];W[gg];B[hg];W[ib];B[ig];W[ia])
+(;B[ia];W[ha]C[dead])
+(;B[ha];W[ka]
+(;B[ia];W[hc]C[snapback])
+(;B[jb];W[hc]C[:(])
+(;B[hc];W[la]C[dead])
+(;B[la];W[hc]C[dead]))
+(;B[hc];W[ha]C[dead]))
+(;B[ha];W[hc]
+(;B[hb];W[ka]C[dead])
+(;B[ka];W[hb]C[dead])
+(;B[ja];W[hb]C[dead])
+(;B[ia];W[hb]C[dead])
+(;B[jb];W[hb]C[dead]))
+(;B[hc];W[ja]
+(;B[ka];W[ha]C[Dead (do not mistake it for a seki) : if B plays inside, WJ13, else when needed, W fills outside libs then K12 and H12 .])
+(;B[ha];W[ka]C[dead.])
+(;B[ia];W[ha]C[Dead (do not mistake it for a seki) : if B plays inside, WJ13, else when needed, W fills outside libs then K12 and H12 .]))
+(;B[ka];W[hc];B[hb];W[ia]C[dead.])
+(;B[jb];W[hb];B[hc];W[ha]
+(;B[ka];W[ia]C[dead.])
+(;B[ia];W[ka]C[dead.])))

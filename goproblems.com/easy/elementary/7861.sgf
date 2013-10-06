@@ -1,0 +1,19 @@
+(;GE[elementary]DI[7k]DP[40]SO[santa c]CO[4]AB[bc]AB[bd]AB[ac]AW[ad]AW[ae]AW[be]AW[ce]AW[cd]AW[dd]AW[ed]AB[cc]AB[dc]AW[ec]AB[eb]AB[fb]AB[fc]AW[fd]AW[gd]AW[gc]AW[gb]AW[ga]AB[ea]AW[fa]AB[cb]C[Almost anything here can prevent the seki... So it's not interesting... WHAT CAN'T PREVENT IT?]AP[goproblems]
+(;B[db];W[ba]C[Well done, D18 was a perfect wasted move! :)RIGHT]LB[ca:Seki]LB[bb:Ko]LB[ab:x_x]LB[aa:???]LB[da:x_x]
+(;B[ca];W[ab]C[RIGHT])
+(;B[bb];W[ca];B[aa];W[ab]MA[aa]C[RIGHT])
+(;B[ab];W[ca]C[RIGHT])
+(;B[da]C[RIGHT])
+(;B[aa]LB[ca:Ko]LB[ab:seki]C[White would have a ko/seki choice...RIGHT]))
+(;B[da];W[ba]C[Black can now B18 to avoid seki! :(]LB[bb:A])
+(;B[ba]C[No seki! :(])
+(;B[ca]C[No seki! :(])
+(;B[bb]C[No seki! :(])
+(;B[ab]C[No seki! :(])
+(;B[aa];W[da]C[Don't let White capture...]LB[db:A]
+(;B[ca];W[db];B[bb])
+(;B[db];W[ba]C[Well done... Well done, A19 was a perfect wasted move! :)RIGHT]LB[ca:Seki]LB[bb:Ko]LB[ab:x_x]
+(;B[ca];W[ab]C[RIGHT])
+(;B[bb];W[ab]MA[aa]C[RIGHT])
+(;B[ab];W[ca]C[RIGHT]))
+(;B[bb];W[db];B[ca])))

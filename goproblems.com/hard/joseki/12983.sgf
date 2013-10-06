@@ -1,0 +1,54 @@
+(;GE[joseki]DI[4d]DP[7]SO[Cow]CO[0]AB[cp]AW[pp]AW[pd]AB[dc]AB[eq]AW[de]AB[dh]AW[ec]AB[dd]AW[ed]AB[ce]LB[cp:1]LB[pd:2]LB[dc:3]LB[pp:4]LB[eq:5]LB[de:6]LB[dh:7]LB[ec:8]LB[dd:9]LB[ed:10]LB[ce:11]C[After the standart pattern up to 5, white approaches at 6 and attaches at 8 in answer to blacks pincer. Black tries to resist the joseki starting with E18. Show him why he shouldn't do so! ;-)]AP[goproblems]
+(;W[cf];B[df];W[ee];B[cd]
+(;W[dg];B[ef];W[eg];B[ff]
+(;W[cg];B[fg]
+(;W[eh];B[eb];W[fb];B[db]
+(;W[gd]C[This result clearly favors white, according to Saijo Masataka, 9p.
+Black 11(C15) is vulgar. Well done! :-)RIGHT])
+(;W[gc]C[Basically this is correct for white, but white A instead would look way better, like this black can still aim at A himself, so it's not the best variation. ;-]]LB[gd:A]))
+(;W[db];B[cb];W[eb];B[eh]
+(;W[ch];B[ci];W[bi];B[bj]
+(;W[cj];B[di]
+(;W[bh];B[bk];W[be];B[bd];W[af];B[bb]
+(;W[bg]C[White got tricked. This is clearly good for black!])
+(;W[ai];B[ad];W[ag]C[White got tricked. This is clearly good for black!]))
+(;W[bk];B[bh];W[aj];B[bf]C[Though white has played on both sides, this is way too good for black!]))
+(;W[bh];B[cj];W[be];B[bd]
+(;W[af];B[bb]C[White still has to add a move on the left side to live. This is too good for black!])
+(;W[bf];B[bb]LB[ag:A]C[White still has to play at A to live. This result favors black!])))
+(;W[bi];B[ci]
+(;W[bh];B[bj]
+(;W[cj];B[bk]
+(;W[ck];B[cl];W[dl];B[cm];W[di];B[ch];W[fh];B[ei];W[gh];B[ge]
+(;W[ej];B[dj];W[dk];B[fj]C[Black escapes and white is not alive with his side-group!])
+(;W[fj];B[dk]C[Black escapes and white is not alive with his side-group!]))
+(;W[di];B[ch];W[fh];B[ei]C[White can't capture any of the black groups, so he will die on the edge.]))
+(;W[bk];B[cj];W[aj];B[bc]C[White's side-group is not quite alive yet and black might also be able to attack the top. Even though there still is a cut at F12, this is not good for White!]))
+(;W[ch];B[bj]C[Bad for white. Look for the variation where the stones are played in the order 1-4.]LB[ch:1]LB[ci:2]LB[bi:3]LB[bj:4])
+(;W[bj];B[bh]C[The four white stones are captured. This is not good!])
+(;W[cj];B[bj]C[White has no good continuation from here on. For explanations for White A or B compare to the other variations. On white C follows black B, what is also not good for white.]LB[ch:A]LB[bh:B]LB[bk:C]))))
+(;W[ch];B[fg]C[White lacks a good continuation. On white A follows black B and vice-versa. If white plays C, black will play A and after white D turn to an attack at E.]LB[eh:A]LB[bf:B]LB[cg:C]LB[cj:D]LB[gd:E]))
+(;W[bf];B[cg];W[ef];B[dg]C[Even though white gets good influence, blacks profit is too big!])
+(;W[ef]C[];B[dg]C[Blacks' profit is better that white's influence!])
+(;W[cg];B[dg]
+(;W[ch];B[ci];W[bi];B[bj]
+(;W[di];B[cj];W[eh];B[ei];W[dj];B[eg]
+(;W[fg];B[fh];W[ef];B[eh]C[Even if black's shape looks awkward white collapses. This is clearly a desaster for white.])
+(;W[fh];B[fg]C[White is not able to capture black, he collapses!]))
+(;W[cj];B[di];W[bk];B[bh];W[aj];B[bf]C[Black gets the corner and some influence towards the center. In spite of the white ponnuki, this is too good for black!]))
+(;W[bi];B[ci]
+(;W[ch]C[];B[bj]C[Compare to the variations following White 1, Black 2, White 3 and Black 4.])
+(;W[bh];B[bj];W[cj];B[dj];W[ck];B[bk]C[On white A follows black B, if white plays B black will crawl on the second line. Since the white C14-group is dead, the result is bad for white.]LB[dk:A]LB[cl:B]))))
+(;W[ee];B[cf]C[The black territory is too good compared to the white influence.])
+(;W[df];B[cf]
+(;W[dg];B[cg];W[eh];B[ei]C[White's shape suffers. Whatever influence he might be able to get, the black profit is too big.])
+(;W[ff];B[dg]C[The white influence is not good enough compared with the black profit.])
+(;W[fe];B[dg]C[The white influence is not good enough compared with the black profit.]))
+(;W[db]
+(;B[cb];W[cf];B[df];W[ee])
+(;B[cf]
+(;W[bc];B[cb];W[cc];B[cd];W[bb]C[White still has the aji of the cut at E18 and black has sente, this is good for black.])
+(;W[ee];B[cb]C[Too much territory for black.])
+(;W[cb];B[ee];W[cd];B[df]
+(;W[bd]C[This might be playable for white. Still black seems better, he still got sente.])
+(;W[cc]C[Black now has sente and can turn elsewhere. This favors black, also C17 at B16 would be better.])))))

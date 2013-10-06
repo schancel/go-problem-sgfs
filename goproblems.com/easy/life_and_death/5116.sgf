@@ -1,0 +1,26 @@
+(;GE[life and death]DI[8k]DP[49]SO[marwin]CO[8]AW[sm][qn][rn][qo][qp][qq][rq][rr][sr]AB[rl][sl][pm][qm][pn][po][ro][pp][rp][pq][pr][qr][rs]C[Black to kill]
+(;B[sp]CR[sp]
+;W[so]CR[so]
+(;B[rm]CR[rm]
+;W[sq]CR[sq]
+;B[rp]CR[rp]C[RIGHT])
+(;B[sn]CR[sn]
+;W[ns]CR[ns]LB[nr:A]C[Answer threat at A]
+;B[nr]CR[nr]
+;W[so]CR[so]
+;B[rm]CR[rm]
+;W[sq]CR[sq]
+;B[rp]CR[rp]C[RIGHT]))
+(;B[so]CR[so]
+;W[sp]CR[sp]C[ko])
+(;B[rm]CR[rm]
+;W[sp]CR[sp]
+(;B[sn]CR[sn]
+;W[so]CR[so])
+(;B[so]CR[so]
+;W[sn]CR[sn]))
+(;B[sn]CR[sn]
+;W[so]CR[so]
+;B[sp]CR[sp]
+;W[rm]CR[rm]
+;B[sn]CR[sn]C[ko]))

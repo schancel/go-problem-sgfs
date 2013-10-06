@@ -1,0 +1,24 @@
+(;GE[best move]DI[3d]DP[10]SO[Blyx]CO[0]AB[pd]AB[qc]AB[qe]AB[pf]AB[qi]AB[qp]AB[op]AB[lq]AB[hp]AB[gp]AB[hq]AB[hr]AB[fq]AB[fr]AB[er]AB[dr]AB[dj]AB[cl]AB[bh]AB[bf]AB[cf]AB[df]AB[ef]AB[eg]AW[bg]AW[cg]AW[dg]AW[eh]AW[bi]AW[cn]AW[dp]AW[eq]AW[fp]AW[go]AW[ho]AW[io]AW[ip]AW[iq]AW[gq]AW[qb]AW[qf]AW[pc]AW[oc]AW[md]AW[gd]AW[gf]AW[cd]AW[dc]TR[bi]MA[dj]MA[cl]C[White just plays B11 (Triangle). Do your best on the side without harming the 2 side stones (square)]AP[goproblems]
+(;B[dh];W[di]
+(;B[ei];W[ch];B[fh]
+(;W[ej];B[dh];W[ci]C[White has no ko threat.CHOICE]
+(;B[bk]C[The game went this way. Later, white captures the upper right group in a ko fight. At the end, black wins by resign as he was leading by 3.5 points.RIGHT])
+(;B[cj]C[In the game, Black plays at B9 instead but i think this works too.RIGHT])))
+(;B[ch];W[ci]
+(;B[ag];W[ej]C[These 2 stones are in trouble]MA[dj]MA[cl])
+(;B[ei];W[ah];B[fh];W[ej]
+(;B[dh];W[dk]C[These 2 stones are in trouble]MA[dj]MA[cl])
+(;B[fi];W[dk]C[These 2 stones are in trouble]MA[dj]MA[cl]))))
+(;B[ei];W[fh];B[dh];W[ch]
+(;B[ci];W[di]C[It's too early for a ko fight, you don't have ko threat]
+(;B[cj];W[dh]C[both groups are weak])
+(;B[ag];W[cj]C[Both groups are weak]))
+(;B[di];W[bk]
+(;B[bl];W[ah]C[White lives. Black has 2 weak groups])
+(;B[ag];W[ah];B[af];W[ci]C[White lives. Black has 2 weak groups])
+(;B[ci];W[ah];B[bj];W[ck];B[cj];W[aj]
+(;B[dk];W[bm];B[bl];W[al];B[ak];W[bk]C[White connects. Black has 2 weak groups])
+(;B[bl];W[dk]C[Black has 3 weak groups]))))
+(;B[fh];W[ei]
+(;B[fi];W[ej]C[Side stones are in trouble])
+(;B[dh];W[di];B[ch];W[ci];B[ag]C[Side stones are in trouble])))

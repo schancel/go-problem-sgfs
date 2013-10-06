@@ -1,0 +1,43 @@
+(
+;GE[tesuji]DI[4d]DP[8]SO[gecko]CO[9]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AB[db][dc][dd][cf][gc][gd][hb][ic][hf]
+AW[gb][eb][ec][fc][fd][fe][df][cg]
+GN[temp]
+TR[cg]
+(
+;
+B[ef]
+;
+W[ee]
+;
+B[dg]
+;
+W[de]
+;
+B[ce]
+C[RIGHT now black has protected the corner and has seperated the marked stone]
+TR[cg]
+)
+(
+;
+B[ce]
+;
+W[fg]
+C[black has protected the corner, but that's all]
+)
+(
+;
+B[dg]
+;
+W[ef]
+;
+B[ce]
+;
+W[dh]
+C[white gets a ladder]
+)
+)

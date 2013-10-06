@@ -1,0 +1,69 @@
+(;GE[life and death]DI[3k]DP[24]SO[BartTM]CO[0]AB[bo]AB[ap]AB[bq]AB[cq]AB[ar]AB[cr]AB[ds]AB[er]AB[fq]AB[gp]AB[fo]AB[en]AB[dm]AB[gr]AB[cs]AB[fn]AB[bl]AB[ck]AW[br]AW[as]AW[bp]AW[cp]AW[cn]AW[bn]AW[do]AW[eo]AW[ep]AW[eq]AW[dq]AW[dr]AW[ao]MA[ao]C[Problem 13109 ends in ko. Desperate for a ko threat, White plays A5. Now what?]AW[fp]AP[goproblems]
+(;B[an]
+(;W[aq]LB[ek:T]C[White takes the ko. Play at E9 (T) if you need a ko threat. Though quite big it is not as valuable as the whole group.]
+(;B[ao];W[am]
+(;B[bm];W[co]
+(;B[ao]MA[ap]MA[an]C[White is dead! White A5 was not a real ko threat after all.RIGHT])
+(;B[al];W[an])
+(;B[an];W[ao])
+(;B[ap];W[ao])
+(;B[bs];W[es]))
+(;B[ar]
+(;W[fr]C[White plays an internal ko threat...]
+(;B[bs];W[gq]C[White escapes.])
+(;B[fs];W[aq]C[White retakes the ko. Play at E9 (T) for a ko threat that is worth less than the whole group.]LB[ek:T]
+(;B[ek];W[co]C[White ignores your threat and lives. You could have killed White without using the threat...])
+(;B[bm];W[co]
+(;B[ao]C[White is dead!RIGHT]MA[an]MA[ap])
+(;B[al];W[an])
+(;B[ap];W[ao])
+(;B[an];W[ao])
+(;B[bs];W[es]))
+(;B[bs];W[es])
+(;B[al];W[co])
+(;B[cm];W[co])
+(;B[dn];W[co]))
+(;B[gq];W[aq]C[White retakes the ko. Play at E9 (T) for a ko threat that is worth less than the whole group.]LB[ek:T];B[bm];W[co]
+(;B[ao]C[];W[es])
+(;B[fs];W[an]))
+(;B[es];W[aq]C[White retakes the ko. Play at E9 (T) for a ko threat that is worth less than the whole group.]LB[ek:T]
+(;B[ek];W[co])
+(;B[bm];W[co]
+(;B[ao];W[gq]C[White escapes])
+(;B[fs];W[an])
+(;B[gq];W[an]))
+(;B[fs];W[co]))
+(;B[bm];W[gq]C[White escapes])
+(;B[aq];W[gq]C[White escapes])
+(;B[dn];W[gq]C[White escapes])
+(;B[cm];W[gq]C[White escapes])
+(;B[al];W[gq]C[White escapes])))
+(;B[al];W[co])
+(;B[bs];W[es])
+(;B[cm];W[co])
+(;B[dn];W[co])
+(;B[es];W[co]))
+(;B[ek];W[am]C[White ignores the threat...]
+(;B[ao];W[co]C[White lives while you could have killed unconditionally.])
+(;B[bm];W[ao]C[White lives while you could have killed unconditionally.])
+(;B[ar];W[co]MA[bo]MA[an]C[White lives!]))
+(;B[am];W[ao]C[White gets a ko])
+(;B[bm];W[ao]C[Ko for White])
+(;B[bs];W[es])
+(;B[co];W[ao])
+(;B[dn];W[am]
+(;B[ar];W[co]C[White lives.])
+(;B[ao])
+(;B[bm];W[ao]))
+(;B[cm];W[am]
+(;B[ao])
+(;B[ar];W[co]MA[bo]MA[an]C[White lives.])
+(;B[bm];W[ao])))
+(;W[am];B[ao];W[aq];B[bm]))
+(;B[bs];W[an]C[White lives.])
+(;B[aq];W[an]C[White is alive.])
+(;B[es];W[aq])
+(;B[am];W[aq])
+(;B[dn];W[aq])
+(;B[bm];W[aq])
+(;B[cm];W[aq]))

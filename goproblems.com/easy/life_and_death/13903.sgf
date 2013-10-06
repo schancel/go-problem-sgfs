@@ -1,0 +1,42 @@
+(;GE[life and death]DI[10k]DP[51]SO[Siaubunas]CO[0]AB[sq]AB[rr]AB[qq]AB[pq]AB[oq]AB[or]AW[nr]AW[nq]AW[lr]AW[op]AW[pp]AW[qp]AW[rp]AW[rq]C[Black to play and live]AP[goproblems]
+(;B[qs]C[RIGHT])
+(;B[sr];W[ps];B[os];W[qr])
+(;B[os];W[sr]
+(;B[qs];W[sp];B[pr];W[rs]C[Ko])
+(;B[ss];W[qs])
+(;B[rs])
+(;B[qr];W[sp]
+(;B[rs];W[ps])
+(;B[ps];W[rs]))
+(;B[pr];W[qs];B[ss];W[sp])
+(;B[ps];W[qr]
+(;B[ss];W[qs])
+(;B[qs];W[rs])))
+(;B[ps];W[sr]
+(;B[qr];W[rs];B[ss]C[Ko])
+(;B[ss];W[qr];B[qs];W[sp];B[pr];W[sr]C[Ko])
+(;B[rs];W[qr])
+(;B[pr];W[sp])
+(;B[qs];W[sp]))
+(;B[qr];W[sr]
+(;B[ss];W[ps];B[os];W[qs])
+(;B[ps];W[rs];B[ss]C[Ko])
+(;B[rs];W[ps])
+(;B[os];W[sp]
+(;B[ps];W[rs])
+(;B[rs];W[ps]))
+(;B[qs];W[sp])
+(;B[pr];W[sp]))
+(;B[pr];W[qs]
+(;B[rs]
+(;W[sr])
+(;W[os];B[qr];W[sr]))
+(;B[sr];W[os])
+(;B[ss];W[os])
+(;B[ps];W[rl]C[White can tenuki now])
+(;B[qr];W[rk]C[White can tenuki now. Black is dead.])
+(;B[os]C[White can tenuki. Black is dead.]))
+(;B[rs];W[sr]
+(;B[ps];W[qr])
+(;B[qr];W[ps]))
+(;B[ss];W[qs]))

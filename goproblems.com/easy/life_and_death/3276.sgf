@@ -1,0 +1,40 @@
+(;GE[life and death]DI[6k]DP[37]SO[polo]CO[5]AW[bc]AW[cb]AW[db]AW[da]AW[bd]AW[be]AW[cf]AW[df]AW[ef]AW[ff]AW[ge]AW[ec]AW[ed]AW[gc]AW[hc]AW[ic]AW[jc]AW[jb]AW[ja]AB[dc]AB[ce]AB[de]AB[ee]AB[fe]AB[fd]AB[fc]AB[eb]AB[ea]AB[gb]AB[ib]AB[ia]SZ[19]C[White to kill]
+(;W[ga]
+(;B[dd]
+(;W[hb];B[fa]
+(;W[ha]C[RIGHT])
+(;W[fb];B[if]C[If Black plays a ko threat somewhere else, will you answer it or kill the group? Suppose answering Black's threat is smaller than the group but bigger than just taking sente. Play A (K14) if you want to answer the threat.]
+(;W[jf];B[gb]C[Play T (J15) if you need a ko threat.]LB[ie:T]
+(;W[ha]C[You don't need a threat! The ko was not real.RIGHT])
+(;W[ie];B[ha]MA[fb]MA[ec]MA[ed]C[Black has 2 eyes. Black will recapture G19 if you play there. You did not need a threat to kill, that's the worst part of it.])
+(;W[ec];B[ha]C[Black lives and will retake G19 if you play there.]))
+(;W[ec]C[You wasted a move on a group that was already dead, giving Black a followup on the threat for free.])
+(;W[gb]C[It was already dead. Now Black will follow up on the threat for free.])
+(;W[ha]C[It was already dead. Now Black will follow up on the threat for free.]))
+(;W[ec];B[ha]C[Black lives and will retake G19 if you play there.]))
+(;W[ha];B[fa]
+(;W[hb]C[RIGHT])
+(;W[ec];B[hb]))
+(;W[fa];B[hb])
+(;W[fb];B[fa]
+(;W[hb];B[ha];W[ga];B[ha])
+(;W[ec];B[ha];W[hb];B[ed]C[Black lives and will retake G19 if you play there.]))
+(;W[ec]
+(;B[hb];W[fb]
+(;B[ed];W[ha]C[RIGHT])
+(;B[fa];W[fb]C[RIGHT]))
+(;B[ed];W[hb]C[RIGHT])))
+(;B[hb];W[fb]
+(;B[fa];W[fb]C[RIGHT])
+(;B[dd];W[ha]C[RIGHT])))
+(;W[dd];B[cd])
+(;W[hb];B[ga];W[fb];B[dd]
+(;W[ha];B[fa])
+(;W[ec];B[fa]))
+(;W[ha];B[hb])
+(;W[fa];B[fb]
+(;W[hb];B[ga])
+(;W[ga];B[hb]))
+(;W[fb];B[fa]
+(;W[hb];B[ga])
+(;W[ga];B[ha];W[hb];B[dd])))

@@ -1,0 +1,64 @@
+(;GE[life and death]DI[5k]DP[33]SO[ldan]CO[4]AB[rb]AB[qc]AB[pb]AB[pd]AB[od]AB[oe]AB[ph]AB[qh]AB[ri]AB[qi]AW[pe]AW[pf]AW[qf]AW[qg]AW[rg]AW[rh]AW[qd]AW[rd]AW[rc]AB[of]C[What's black's best result?]AP[goproblems]
+(;B[re]
+(;W[se]
+(;B[sf]
+(;W[sc]
+(;B[sd]C[Ko and black takes first (for white it is an approach ko and must be won twice) (Q16 prevents seki)RIGHT])
+(;B[rf];W[sg];B[sd];W[qe])
+(;B[sg];W[rf];B[sd];W[qe])
+(;B[sh];W[rf];B[sd]C[Ko and black takes first, but not the best result (one stage ko for white).])
+(;B[sb];W[rf];B[sd]C[Ko and black takes first, but not the best result (one stage ko for white).]))
+(;W[sd];B[rf];W[sh]C[Black will eventually capture S16 and then R13 -deadRIGHT]TR[qe])
+(;W[rf];B[sd]C[RIGHT])
+(;W[qe];B[sd]C[RIGHT])
+(;W[sg];B[sd]C[RIGHT])
+(;W[sh];B[sd]C[RIGHT]))
+(;B[sh];W[rf]TR[sg]TR[sc]C[Miai for life]
+(;B[sc];W[sg])
+(;B[sg];W[sc]))
+(;B[rf];W[sf]TR[sh]TR[sc]C[Miai])
+(;B[sc];W[rf]TR[sh]TR[sg]C[Miai for life])
+(;B[sd];W[sc]
+(;B[sf];W[rf];B[sd]C[Ko and black takes first, but not the best result (one stage ko for white).])
+(;B[sb];W[rf])
+(;B[rf];W[sf])
+(;B[sg];W[sf]))
+(;B[sg];W[rf]TR[sh]TR[sc]C[Miai for life])
+(;B[qe];W[rf]))
+(;W[rf];B[se];W[sf];B[sh]C[RIGHT])
+(;W[qe];B[sf]
+(;W[se];B[sd];W[rf];B[se]C[RIGHT])
+(;W[rf];B[se]C[RIGHT]))
+(;W[sf];B[sh]
+(;W[se];B[sc]C[RIGHT])
+(;W[sc];B[se]C[RIGHT]))
+(;W[sg];B[se];W[sc];B[qe]C[RIGHT])
+(;W[sh];B[sf];W[se];B[sd]C[RIGHT])
+(;W[sd];B[sf]C[RIGHT])
+(;W[sc]
+(;B[se]
+(;W[sh]
+(;B[sf]C[RIGHT])
+(;B[qe];W[sb];B[ra];W[rf];B[sa]C[RIGHT])
+(;B[rf];W[sf];B[sg]))
+(;W[rf];B[sf]C[RIGHT])
+(;W[sf];B[sh]C[RIGHT]))
+(;B[sf];W[se])))
+(;B[qe];W[re])
+(;B[se];W[re])
+(;B[sf];W[re])
+(;B[sd];W[se]
+(;B[sc];W[sb]
+(;B[sc];W[re])
+(;B[re];W[sc]))
+(;B[sf];W[re])
+(;B[rf];W[sf]))
+(;B[rf];W[sf])
+(;B[sg];W[sf]
+(;B[re];W[se]TR[sc]TR[sh])
+(;B[se];W[rf]
+(;B[re];W[sh])
+(;B[sh];W[re]))
+(;B[sd];W[re]))
+(;B[sc];W[re])
+(;B[sh];W[re]))

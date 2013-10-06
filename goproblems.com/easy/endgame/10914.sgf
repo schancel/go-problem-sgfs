@@ -1,0 +1,72 @@
+(;GE[endgame]DI[8k]DP[47]SO[Karen B]CO[0]SZ[9]AB[id]AB[hc]AB[he]AB[ga]AB[gb]AB[gc]AB[gd]AB[ge]AW[ie]AW[if]AW[hf]AB[gf]AW[hg]AW[gg]AW[hi]AW[fg]AW[fh]AB[ff]AW[fa]AW[fb]AW
+
+[fc]AW[ed]AW[dd]AW[cd]AW[cb]AB[ce]AB[de]AB[ee]AB[fe]AB[eg]AW[eh]AB[dh]AW[di]AB[ci]AB[cg]AW[ei]C[Black to play.]AP[goproblems]
+
+   (;B[bd];W[bc]
+
+      (;B[ae];W[ac]
+
+         (;B[ad]C[RIGHT Black wins. Bl: 20 points + 0 prisoners = 20. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5.])
+
+         (;B[be]C[White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 19 points + 0 prisoners = 19.])
+
+      )
+
+      (;B[ad];W[ac]
+
+         (;B[be]C[RIGHT Black wins. Bl: 20 points + 0 prisoners = 20. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5.])
+
+         (;B[bf]C[RIGHT Black wins. Bl: 20 points + 0 prisoners = 20. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5.])
+
+         (;B[ae]C[RIGHT Black wins. Bl: 20 points + 0 prisoners = 20. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5.])
+
+
+      )
+
+      (;B[be];W[ad];B[ae];W[ac]C[CHOICE White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 19 points + 0 prisoners = 
+
+19.])
+
+   )
+
+   (;B[be];W[bd]
+
+      (;B[ad];W[ac];B[ae];W[bb]C[CHOICE White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 19 points + 0 prisoners = 
+
+19.])
+
+      (;B[ae];W[ad]C[White wins. Wh: 21 points + 0 prisoners + 0.5 komi = 21.5. Bl: 19 points + 0 prisoners = 19.])
+
+   )
+
+   (;B[ad];W[bd]
+
+         (;B[ac];W[be]C[White wins.])
+
+         (;B[be];W[ac];B[ae];W[bb]C[White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 19 points + 0 prisoners = 19.])
+
+         (;B[bc];W[be]C[White wins.])
+
+         (;B[ae];W[be];B[bf];W[ac];B[af];W[bb]C[White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 17 points + 0 prisoners = 17.])
+
+   )
+
+   (;B[ae];W[bd]
+
+      (;B[be];W[ad]C[White wins. Wh: 21 points + 0 prisoners + 0.5 komi = 21.5. Bl: 19 points + 0 prisoners = 19.])
+
+      (;B[ad]
+
+         (;W[be]C[CHOICE];B[bf];W[ac];B[af];W[bb]C[White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 17 points + 0 
+
+prisoners = 17.])
+
+         (;W[ac]C[CHOICE];B[be];W[bb]C[White wins. Wh: 19 points + 0 prisoners + 0.5 komi = 19.5. Bl: 19 points + 0 prisoners = 
+
+19.])
+
+      )
+
+   )
+
+)

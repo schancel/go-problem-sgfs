@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1d]DP[16]SO[smartaleck]CO[0]AB[es]AB[er]AB[eq]AB[dq]AB[bq]AW[cp]AW[co]AW[bo]AW[ao]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AW[hr]AP[goproblems]
+(;W[br];B[bs]
+(;W[aq];B[ar])
+(;W[cr];B[cq]
+(;W[cs];B[ar])
+(;W[ar];B[aq];W[cs];B[dr]))
+(;W[ar];B[aq];W[cr];B[cq]))
+(;W[bs];B[cr];W[aq];B[ar];W[br];B[cq])
+(;W[aq];B[ar]
+(;W[br];B[bs])
+(;W[cr];B[cq];W[bs]))
+(;W[cr];B[cq]
+(;W[aq];B[ar]
+(;W[ap];B[br];W[bs];B[ds])
+(;W[bs];B[ap];W[bp];B[ds];W[br];B[cs]))
+(;W[ds];B[br]
+(;W[aq];B[bs];W[ar];B[dr])
+(;W[bs];B[aq]))
+(;W[bs]
+(;B[br]C[CHOICE]
+(;W[aq];B[ar];W[ds]C[RIGHT])
+(;W[ds];B[aq]))
+(;B[aq]C[CHOICE]
+(;W[br]C[RIGHT])
+(;W[ds];B[br])))
+(;W[br];B[bs])))

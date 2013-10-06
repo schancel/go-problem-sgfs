@@ -1,0 +1,8 @@
+(;GE[endgame]DI[2k]DP[23]SO[santa c]CO[9]AW[dh]AW[ci]AW[ck]AW[dl]AW[el]AW[fk]AW[fj]AW[gj]AB[gi]AB[fh]AB[eh]AB[bk]AB[bj]AB[bi]AW[bl]AB[al]AB[ak]AW[am]AW[bm]AB[fl]AB[gl]AB[gk]AW[fm]AW[gm]AB[hj]AB[hm]AB[dg]AB[cg]AB[bg]AB[bh]AB[gg]AB[hg]C[How should W play in this hallway?]AB[ah]AP[goproblems]
+(;W[di];B[cj];W[dj];B[ei];W[ej]C[Well done! =)RIGHT])
+(;W[cj];B[ej]C[B gets in! =(])
+(;W[ei];B[dj]C[B gets in! =(]LB[cj:1]LB[di:2]LB[ch:3]LB[ej:4])
+(;W[dj];B[ei]C[B reduces! =(]MA[ej]MA[di])
+(;W[ch];B[cj]C[W is captured! =(])
+(;W[ej];B[dj]MA[cj]MA[di]C[B gets in! =(])
+(;W[fi];B[dj]C[W is captured! =(]MA[cj]MA[ek]))

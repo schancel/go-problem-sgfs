@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[10k]DP[53]SO[iqer2000]CO[8]AB[ar]AB[br]AB[bs]AB[bq]AB[bp]AB[ap]AB[ds]AB[er]AB[fr]AB[gq]AB[hq]AB[hr]AW[is]AW[ir]AW[iq]AW[ip]AW[hp]AW[gp]AW[fq]AW[eq]AW[dr]AB[cs]AW[cr]AW[dq]AW[fp]TR[gq]TR[hq]TR[hr]AP[White first to kill the marked Black stones.]
+(;W[gr];B[gs]
+(;W[hs];B[gr]
+(;W[es];B[fs];W[es]C[Well done !RIGHT])
+(;W[fs];B[es]))
+(;W[es];B[hs]C[Black is safe !])
+(;W[fs];B[es];W[hs];B[gr]))
+(;W[gs];B[gr]
+(;W[hs];B[es])
+(;W[es];B[fs];W[hs];B[es])
+(;W[fs];B[es]))
+(;W[es];B[gr]
+(;W[fs];B[gs]
+(;W[es];B[fs];W[hs];B[es])
+(;W[fs];B[es])
+(;W[hs];B[es]))
+(;W[gs];B[fs];W[hs];B[es])
+(;W[hs];B[fs];W[gs];B[es]))
+(;W[hs];B[gr]
+(;W[es];B[fs];W[gs];B[es])
+(;W[fs];B[es])
+(;W[gs];B[es]))
+(;W[fs];B[gr]
+(;W[es];B[gs];W[es];B[fs];W[hs];B[es])
+(;W[gs];B[es])
+(;W[hs];B[es])))

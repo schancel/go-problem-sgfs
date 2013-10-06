@@ -1,0 +1,31 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[0]SZ[9]AW[ab]AW[ac]AW[bc]AW[cb]AB[da]AB[db]AB[cc]AB[cd]AB[bd]AB[ae]AB[be]AB[cf]AB[df]AB[ef]AB[fe]AB[fd]AB[fc]AB[ec]AW[eb]AW[fb]AW[gb]AW[gc]AW[gd]AW[hd]AW[ib]AB[hc]AB[hb]AB[ha]AB[he]AB[hf]AB[hg]AW[gg]AW[hh]AW[ih]AW[fg]AW[eg]AW[dg]AW[cg]AW[bg]AW[bf]AW[af]C[no komi + 1 w stone at c5 :)]AB[ag]AB[de]AB[gf]AP[goproblems]
+(;W[ea]
+(;B[ga]
+(;W[ic]
+(;B[ge]
+(;W[ba]C[w wins big, well done! :)RIGHT])
+(;W[ca]C[NOTTHIS])
+(;W[dc]C[NOTTHIS])
+(;W[id]
+(;B[ie]
+(;W[ba]C[w wins big, well done! :)RIGHT])
+(;W[ca]C[NOTTHIS])
+(;W[dc]C[NOTTHIS])
+(;W[ig];B[ca]C[only a jigo! :(]))
+(;B[ca];W[fa]C[RIGHT]))))
+(;W[id];B[ie]
+(;W[ic];B[ge])
+(;W[ba];B[ic])
+(;W[ca]C[NOTTHIS])
+(;W[dc]C[NOTTHIS])
+(;W[ig];B[ic]))
+(;W[ba];B[id]LB[ic:1]LB[ie:2])
+(;W[ca]C[NOTTHIS])
+(;W[dc]C[NOTTHIS]))
+(;B[id];W[ic]C[of course this only works thanks to the liberty at g5... :)RIGHT])
+(;B[ca];W[ga]C[RIGHT]))
+(;W[ic];B[ea]C[only a jigo! :(]MA[ba]MA[ca])
+(;W[id];B[ea]MA[ba]MA[ca]C[only a jigo! :(])
+(;W[ga];B[ea])
+(;W[ba];B[ea]MA[fa]MA[id])
+(;W[ca];B[ea]LB[fa:1]LB[dc:2]LB[ic:3]LB[ba:4]C[only a jigo! :(]))

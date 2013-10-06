@@ -1,0 +1,11 @@
+(;GE[endgame]DI[5k]DP[34]SO[ketran0]CO[4]AB[qh]AB[ph]AB[ri]AB[rj]AB[rg]AB[sh]AB[qe]AB[re]AB[se]AB[qd]AW[rd]AW[sd]AW[sc]AW[qc]AW[rb]AW[pd]AW[pe]AW[pc]AW[pf]AW[pg]AW[oh]AW[oi]AW[pj]AW[qj]AW[rk]C[w to find best endgame move]AB[og]AB[ng]AW[pi]AB[mh]AB[mi]AB[nj]AB[nk]AB[ok]AW[qk]AW[ql]AW[qm]AW[qn]AB[ol]AB[om]AB[on]AB[oo]AB[pp]AB[qp]AB[rp]AB[ro]AP[goproblems]
+(;W[qg];B[qi];W[rf]
+(;B[sf]C[CHOICE];W[qf];B[sg];W[sj]C[RIGHT])
+(;B[sj]C[CHOICE]
+(;W[sf]C[RIGHT])
+(;W[qf]C[NOTTHIS])))
+(;W[qi];B[qg])
+(;W[sj];B[qg])
+(;W[qf];B[rf])
+(;W[rn];B[qg])
+(;W[rf];B[qf];W[qg];B[sf]))

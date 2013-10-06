@@ -1,0 +1,29 @@
+(;GE[life and death]DI[25k]DP[75]SO[TheName]CO[0]SZ[9]AB[dh]AB[di]AW[eg]AW[eh]AW[ei]AB[dg]AW[bg]AW[df]AW[ef]AB[cf]AB[bf]AB[ag]AB[af]AW[cg]MA[cg]AB[be]AW[fh]C[White has just played at the marked stone, but has made a reading error; punish white!CHOICE]AP[goproblems]
+(;B[ch];W[bh]
+(;B[bi];W[ci])
+(;B[ci];W[bi])
+(;B[ai];W[ci])
+(;B[ah];W[ci]))
+(;B[ci];W[bi]
+(;B[bh];W[ch])
+(;B[ch];W[bh])
+(;B[ah];W[ch])
+(;B[ai];W[ch]))
+(;B[bi];W[bh]
+(;B[ci];W[ah]C[Seki, but this is not the best outcome.]TR[ch]TR[ai])
+(;B[ai];W[ci]
+(;B[ah];W[ch])
+(;B[ch];W[ci]))
+(;B[ch];W[ci])
+(;B[ah];W[ch];B[ci]C[Good!RIGHT]))
+(;B[ai];W[ch]
+(;B[ci];W[bi])
+(;B[bi];W[ci])
+(;B[bh];W[ci])
+(;B[ah];W[ci]))
+(;B[ah];W[ch]
+(;B[bh];W[ci])
+(;B[ci];W[bi])
+(;B[bi];W[ci])
+(;B[ai];W[ci]))
+(;B[bh];W[ch];B[ci]C[Good!RIGHT]))

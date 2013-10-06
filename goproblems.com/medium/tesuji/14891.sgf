@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[1d]DP[16]SO[Field Mouse]CO[0]AW[jj]AW[jk]AW[jl]AW[kk]AW[kl]AW[ll]AW[lm]AW[ln]AW[mm]AW[nm]AB[kj]AB[lj]AB[lk]AB[mk]AB[ml]AB[nl]AB[li]AB[mi]AB[ji]AB[ij]AB[gg]AB[gh]AB[fh]AB[eh]AB[dh]AB[ch]AB[ei]AB[ej]AB[dj]AB[fk]AB[fn]AB[fo]AB[gn]AB[hn]AB[jm]AB[kn]AB[lo]AB[mo]AB[mn]AB[nn]AB[on]AB[om]AB[oj]AB[qk]AB[ql]AB[qm]AW[nj]AW[ok]AW[ol]AW[pl]AW[pm]AW[oi]AW[qi]AW[qg]AW[og]AB[pn]AW[qn]AW[rn]AW[ki]AW[kh]AW[lh]AW[mg]AW[go]AW[io]AW[ho]AW[jp]AW[kp]AW[mp]AW[lp]AW[no]AB[po]AB[op]AB[nq]AW[mq]AB[lq]AB[kq]AB[iq]AB[hq]AB[gp]AB[hr]AB[kr]AB[mr]AB[or]AB[pq]AW[pr]AW[qs]AW[rr]AW[qq]AW[rp]AW[sq]AB[qp]AW[fp]AW[fq]AW[eq]AW[dq]AW[cr]AW[br]AB[cq]AB[cp]AB[do]AB[ep]AB[dn]AW[bo]AW[cn]AW[ci]AW[cj]AW[dk]AW[ck]TR[ml]TR[nl]TR[mm]TR[nm]AB[if]AB[hf]LB[oe:White]LB[qe:Black]AW[od]AB[qd]C[White to play. Who will win the semai between the two marked groups? Chose Black (R15) or White (P15).FORCE]AP[goproblems]
+(;W[oe];B[qe]C[Interesting choice! Now save the white group!]
+(;W[ii];B[jh]
+(;W[hj];B[pj]C[White is in big trouble!])
+(;W[mh];B[ik];W[il];B[hl]C[Black wins.])
+(;W[ni];B[ik];W[il];B[hl]C[Black wins.]))
+(;W[mh];B[ik];W[il];B[hl]C[Black wins.])
+(;W[hk];B[pj]C[This was a serious weakness in white shape.])
+(;W[ni];B[ik];W[il];B[hl]C[Black wins.]))
+(;W[qe];B[oe]LB[ik:A]C[Interesting choice. Play at A.FORCE];W[ik];B[qc]C[How would black answer J9? Play the best move possible please! (Put a white stone on the correct place as if it was black)]
+(;W[pj]C[Yes, if black played here white would be in a very big trouble!RIGHT])
+(;W[hj]C[Playing here would not be the best for black - it gives white a chance to protect against Q10 now.])))

@@ -1,0 +1,84 @@
+(;GE[joseki]DI[3k]DP[25]SO[randomly_anonymous]CO[0]AB[pc]C[CHOICEFORCE]TR[qe]AP[goproblems];W[qe];B[qg]C[]TR[pg]TR[oe]TR[od]TR[nc]TR[mc]TR[lc]LB[pp:T]
+(;W[oe]
+(;B[nd]C[FORCE]TR[ld]TR[le]TR[ph]TR[qi]
+(;W[ph];B[qd]
+(;W[qh];B[re];W[qf]C[RIGHT])
+(;W[re];B[qh];W[pi];B[pg];W[og];B[qi];W[pj];B[qk];W[pf];B[ld]C[RIGHT])
+(;W[rd];B[rc];W[pd];B[qc];W[pg]C[RIGHT]))
+(;W[ld];B[ne];W[pg];B[qh];W[nf];B[mf];W[ng];B[le]
+(;W[jd]C[RIGHT])
+(;W[pj]C[RIGHT])
+(;W[qk]C[RIGHT])
+(;W[pk]C[RIGHT]))
+(;W[qi]LB[jp:T]
+(;B[ph]C[RIGHT])
+(;B[jp];W[ph];B[qd];W[re]C[RIGHT];B[jc]LB[pp:T];W[pp];B[rk];W[ld];B[lc];W[kd];B[kc];W[md];B[mc];W[od];B[nc];W[ne];B[qj];W[pj];B[pk];W[oj];B[ok]C[RIGHT]))
+(;W[le]
+(;B[ne];W[pg];B[qd];W[qf];B[ng];W[pi]C[RIGHT])
+(;B[mf];W[pg];B[ph]C[RIGHT])
+(;B[qd];W[rd];B[ne];W[pg];B[rc];W[qh]C[RIGHT])))
+(;B[mc]C[FORCE]TR[nd]TR[pj]
+(;W[nd];B[nc];W[qc];B[qb];W[pd];B[oc];W[rc];B[qj]C[RIGHT])
+(;W[pj];B[og];W[me]C[This is perhaps the end of the standard continuations, though  neither of the two gruops are settled yet.RIGHT])))
+(;W[pg]
+(;B[ph]
+(;W[og];B[qf];W[pe]
+(;B[nd]
+(;W[ne];B[md];W[pj]C[RIGHT])
+(;W[qc];B[qb];W[pb];B[ob]C[RIGHT]))
+(;B[pf];W[of];B[oe];W[od];B[ne];W[pd];B[qi];W[mg];B[le];W[oc];B[ni]C[RIGHT]))
+(;W[pf]
+(;B[mc];W[qh];B[qi];W[rh];B[pi];W[rg]C[RIGHT])
+(;B[qi]
+(;W[nd]C[];B[nc]C[White should only play here if the ladder to the lower left is favourable for him. Otherwise, the move at A is better instead of W at  O16]LB[md:A];W[mc];B[md];W[oc];B[nb];W[ne];B[ob];W[ld]C[RIGHT])
+(;W[md]C[RIGHT]))))
+(;B[qf];W[pf];B[pe];W[qh];B[rh];W[re];B[rf];W[pd];B[oe];W[od];B[ne];W[qc]C[RIGHT]))
+(;W[od]C[FORCE]
+(;B[oc];W[nd]
+(;B[mc]
+(;W[qj]C[RIGHT])
+(;W[qk]C[RIGHT])
+(;W[md]C[RIGHT];B[lc];W[ld];B[kd];W[ke];B[je];W[nc];B[nb];W[ob];B[mb];W[qc];B[pb];W[jd];B[kc];W[kf];B[jf];W[jg];B[id];W[kh]C[RIGHT]))
+(;B[nc];W[md];B[mc];W[ld];B[qj];W[lc];B[rc]C[RIGHT]))
+(;B[pd];W[pe];B[oe];W[of];B[ne];W[pg]
+(;B[nd];W[qh]C[RIGHT])
+(;B[ph];W[oh];B[pi]C[RIGHT];W[ob]
+(;B[oc];W[nd];B[nc];W[md];B[lb]C[RIGHT])
+(;B[rc]C[This involves some INTENSE fighting into the center. Otherwise, B should play at P17];W[oc];B[re];W[qd];B[qc];W[rd];B[qf];W[pf];B[sd];W[rf]C[];B[se];W[rg];B[qh];W[nf];B[me];W[qb];B[sb];W[pb];B[rh];W[rb];B[sc];W[lc]C[This involves some intense fighting towards the center.RIGHT]))))
+(;W[nc]C[]
+(;B[pe]
+(;W[pd];B[od];W[qd];B[oc];W[pf];B[oe];W[qf];B[qc]C[RIGHT])
+(;W[pf];B[qf];W[pd];B[oe];W[od];B[qd];W[qc];B[re];W[rd];B[qe];W[rc];B[md];W[mc];B[ld];W[lc];B[kd];W[jc]C[RIGHT])
+(;W[qd];B[pd];W[qc]
+(;B[qf];W[pb];B[ob];W[qb];B[oc]C[RIGHT];W[ne];B[nf]
+(;W[me];B[of]C[RIGHT])
+(;W[mf];B[ng];W[mg];B[mh];W[le];B[ni]C[RIGHT]))
+(;B[qb];W[rb];B[pb];W[qf];B[pf];W[rg]C[RIGHT];B[rh];W[qh];B[pg];W[ri];B[ph];W[qi];B[jc]LB[pp:T]C[Please play at T (tenuki).FORCE];W[pp];B[rf]C[This is an endgame move for black];W[sh];B[rc];W[rd];B[sb];W[sc];B[ra]C[RIGHT])))
+(;B[od];W[nd];B[oe];W[mf]C[Emphasizes the side rather than the cornerRIGHT])
+(;B[nd];W[md];B[od];W[lc];B[nf]LB[qi:A]LB[qb:B]C[A and B are big moves later in the gameRIGHT]))
+(;W[mc]
+(;B[pe];W[pd]
+(;B[od];W[qd]
+(;B[oe];W[qf];B[pg];W[qc];B[ob];W[pb];B[oc];W[jc];B[mg]C[RIGHT])
+(;B[pf]C[B should play like this if the ladder to lower left is favourable for himself.];W[oc];B[qc];W[rc];B[rb];W[rd];B[ob];W[nc];B[rf];W[oe];B[nd];W[me];B[ne];W[nf];B[of];W[md];B[oe];W[ng]C[This is OK if the ladder was unfavourable for WRIGHT]))
+(;B[qd]C[Ladder to lower left];W[od];B[qc];W[pf]C[W can ONLY play this pincer if this ladder works, otherwise, she is is BIG trouble.RIGHT]TR[mc]))
+(;B[nd]
+(;W[qc]
+(;B[qb];W[pd];B[rc];W[oc];B[qd];W[pb];B[qc];W[od];B[pe];W[oe];B[pf]C[RIGHT])
+(;B[nc];W[pd];B[ob];W[pb];B[pa]
+(;W[oc];B[mb]C[RIGHT])
+(;W[qb];B[kc]C[RIGHT])))
+(;W[md];B[ne];W[me];B[nf]C[RIGHT]))
+(;B[od];W[jc];B[pf]C[W can still aim at 'A'RIGHT]LB[qb:A]))
+(;W[lc];B[pe];W[pd]
+(;B[od];W[qd];B[pf];W[qc];B[ob];W[nc];B[oc];W[qb];B[me];W[jd]C[RIGHT])
+(;B[qd];W[od];B[qc];W[pf]C[Ladder time!!RIGHT]))
+(;W[pp]
+(;B[pe]
+(;W[qd];B[pd];W[qc];B[qf];W[pb];B[ob];W[qb];B[nc]C[RIGHT])
+(;W[pd]
+(;B[od];W[qd];B[pf];W[qc];B[ob];W[qb]C[RIGHT])
+(;B[qd];W[od];B[qc];W[pf]C[LadderRIGHT])))
+(;B[qd];W[pe];B[nd];W[of]
+(;B[ld];W[ph];B[qj];W[qh]C[RIGHT])
+(;B[rc];W[re];B[pi]C[RIGHT]))))

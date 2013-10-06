@@ -1,0 +1,31 @@
+(;GE[life and death]DI[3k]DP[27]SO[holyhell97]CO[0]AB[os]AB[or]AB[oq]AB[op]AB[pp]AB[qp]AB[qo]AB[ro]AB[so]AW[rp]AW[sp]AW[qq]AW[pq]AW[pr]AW[rr]C[kill white with KO]AP[goproblems]
+(;B[ps]
+(;W[qs]
+(;B[sr]
+(;W[rq];B[rs];W[ss]C[koRIGHT])
+(;W[ss];B[rs]C[RIGHT])
+(;W[rs];B[rq]C[RIGHT]))
+(;B[rq];W[sq]))
+(;W[rs];B[qs]
+(;W[qr];B[sr]C[RIGHT])
+(;W[sr];B[rq]C[RIGHT]))
+(;W[sr]
+(;B[qs];W[rs];B[rq]C[RIGHT])))
+(;B[sr]
+(;W[rq]
+(;B[ps];W[qs];B[rs];W[ss]C[koRIGHT])
+(;B[qs];W[ps];B[rs]C[seki])
+(;B[rs];W[ps];B[qs]))
+(;W[qs];B[rq]C[RIGHT])
+(;W[rs];B[rq]C[RIGHT]))
+(;B[qs];W[ps]
+(;B[sr];W[rq])
+(;B[rs];W[sr]))
+(;B[rs];W[ps]
+(;B[sr];W[rq])
+(;B[qs];W[sr])
+(;B[rq];W[sq];B[sr];W[ss]C[bad ko - black needs to win it, play r1 and win again to kill]))
+(;B[rq];W[sq]
+(;B[ps];W[qs])
+(;B[qs];W[ps])
+(;B[rs];W[qs])))

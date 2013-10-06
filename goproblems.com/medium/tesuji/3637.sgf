@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[4k]DP[28]SO[bass]CO[6]AB[dp]AB[cq]AB[cr]AB[cn]AW[dr]AW[fq]AW[hp]AB[gq]AB[hq]AW[gp]AB[fr]AW[iq]AW[lq]AW[jq]AW[kq]LB[hq:1]LB[hp:2]LB[gq:3]LB[gp:4]LB[fr:5]AP[goproblems]
+(;W[eq];B[er]
+(;W[es];B[dq];W[gr];B[ds]C[black saves most of his stones and has a big follow-up]LB[hr:A])
+(;W[gr];B[hr]
+(;W[gs];B[dq]C[black saves most of his stones in sente])
+(;W[es];B[gs]LB[dq:A]LB[ir:B])
+(;W[ir];B[gs])
+(;W[hs];B[gs]))
+(;W[hr];B[gr])
+(;W[dq];B[ds]LB[fp:A]C[Black saves all his stones.]))
+(;W[er];B[eq]
+(;W[fp]
+(;B[gr]C[CHOICE]
+(;W[fs]C[You win the semeai. Well done!RIGHT])
+(;W[hr];B[ir])
+(;W[hs];B[ds])
+(;W[ir];B[ds])
+(;W[gs];B[fs]
+(;W[hr];B[hs])
+(;W[hs];B[ir])
+(;W[es];B[hs]))
+(;W[ep];B[dq]))
+(;B[fs]C[CHOICE]
+(;W[hs];B[ds];W[gr];B[es]C[Basically ok, but you lost a ko threat.]TR[hq]TR[gq])
+(;W[hr];B[ds];W[gr];B[es]C[You got two stones in sente, and you still have a ko-threat at G1.RIGHT])
+(;W[gr];B[hr]
+(;W[ir];B[gs];W[is];B[ds];W[hs];B[es]C[Basically ok,  but you lost some points and a ko threat.])
+(;W[hs];B[gs];W[ir];B[is];W[js];B[ds];W[hs]C[you don't need this ko to take the G3 stones.]))))
+(;W[gr];B[fp]))
+(;W[gr];B[er]C[black saves half of his stones and has a big follow-up.]LB[hr:A])
+(;W[hr];B[gr]C[black is connected.]))

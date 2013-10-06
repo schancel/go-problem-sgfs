@@ -1,0 +1,44 @@
+(;GE[elementary]DI[15k]DP[61]SO[origin]CO[8]AB[bh]AB[ch]AW[bi]AW[ci]AW[di]AW[dh]AB[dg]AB[df]AB[de]AW[eh]AW[ff]AB[be]AB[ag]AW[ah]AW[bk]LB[ah:1]LB[ag:2]C[Punish black's mistake]AB[dd]AP[goproblems]
+(;W[bg]
+(;B[ai]C[CHOICE]
+(;W[cg];B[ah]
+(;W[af];B[aj]
+(;W[bj]C[RIGHT])
+(;W[ak]C[RIGHT]))
+(;W[aj];B[af]C[Black escapes]))
+(;W[af];B[cg];W[ah]C[Ko, White can do much better])
+(;W[aj];B[cg];W[ah]C[Ko, white can do better]))
+(;B[cg];W[af]C[Probably the best choice for black.])
+(;B[af];W[cg]))
+(;W[ai]
+(;B[bf]C[White can do much betterCHOICE])
+(;B[bg]C[White can do much betterCHOICE])
+(;B[cg]C[White can do much betterCHOICE]))
+(;W[cg];B[bg]
+(;W[bf];B[cf])
+(;W[cf];B[bf]))
+(;W[af];B[bg]
+(;W[bf]
+(;B[cg])
+(;B[ai];W[aj];B[cg]))
+(;W[cg];B[cf])
+(;W[cf]
+(;B[bf])
+(;B[cg])))
+(;W[bf];B[bg]
+(;W[af];B[cg])
+(;W[cg];B[cf])
+(;W[cf];B[cg]))
+(;W[cf]
+(;B[bg];W[cg];B[bf])
+(;B[cg]
+(;W[af];B[ai])
+(;W[bf]
+(;B[af])
+(;B[ai]C[CHOICE])))
+(;B[bf];W[bg];B[ai]
+(;W[cg];B[ce])
+(;W[aj];B[ah];W[cg];B[ce])))
+(;W[aa]C[Now don't be silly :D])
+(;W[ce];B[bf])
+(;W[ae];B[bf]))

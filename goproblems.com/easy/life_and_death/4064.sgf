@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[32]SO[BartTM]CO[7]AW[ra]AW[rb]AW[qb]AW[pb]AW[na]AB[ma]AB[nb]AB[ob]AB[pa]AB[pc]AB[qc]AB[rc]AB[sb]AB[oc]AB[qd]AW[rd]AW[re]AW[qe]AW[pe]AW[nd]AW[nc]AW[ld]AW[lb]AW[mb]C[Don't let White capture the corner! (Japanese rules assumed)]AP[goproblems]
+(;B[qa];W[oa]
+(;B[pa];W[na]
+(;B[qa]C[And so on... Under Japanese rules, if neither player gives in the game is declared undecided; that's still better than a clear loss.With rule sets that forbid that the same position with the same player to play occurs twice (e.g. the super ko rule) White could not have played O19 directly; but can play a 'ko' threat; so this problem results in a kind of ko struggle.RIGHT])
+(;B[oa];W[qa]C[Only one eye...])
+(;B[sc];W[qa]C[Only one eye...])
+(;B[sa];W[sc]))
+(;B[sc];W[pa])
+(;B[qa];W[pa]))
+(;B[oa];W[qa]C[Only one eye. If Black takes the stones White will play at R18 and there is no way Black can make life.]TR[qb])
+(;B[sa];W[sc])
+(;B[sc];W[qa]C[Only one eye. If Black takes the stones White will play at R18 and there is no way Black can make life.]TR[qb])
+(;B[od];W[oe]C[Although Black can still save the corner, this exchange just wastes a ko threat.])
+(;B[oe];W[od]C[Although Black can still save the corner this exchange only wastes points and a ko threat.])
+(;B[mc];W[qa]C[Only one eye!])
+(;B[la];W[ka]
+(;B[oa];W[qa]C[Just one eye.])
+(;B[qa];W[oa])
+(;B[sc];W[qa]C[Just one eye.])
+(;B[ma];W[qa]C[That's one eye for you.]))
+(;B[sd];W[qa]C[Just one eye.]))

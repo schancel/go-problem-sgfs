@@ -1,0 +1,70 @@
+(;GE[life and death]DI[4k]DP[30]SO[nemir]CO[6]SZ[19]AW[fc]AW[ad]AW[bd]AW[ed]AW[fd]AW[ce]AW[de]AW[fe]AW[ge]AW[bf]AW[gf]AW[fg]AW[gg]AW[bh]AW[ch]AW[fh]AW[ai]AW[bi]AW[ei]AW[fi]AW[bk]AW[al]AW[bl]AW[cl]AW[dl]AW[el]AB[cb]AB[eb]AB[fb]AB[ac]AB[bc]AB[dc]AB[ec]AB[cd]AB[dd]AB[ee]AB[ef]AB[ff]AB[eg]AB[dh]AB[eh]AB[di]AB[aj]AB[bj]AB[cj]AB[ej]AB[fj]AB[ak]AB[ck]AB[dk]AB[fk]AB[gk]C[Black to play and kill the white group]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]PW[Nemir]PB[Damian]WR[9k]BR[9k]DT[2004-06-02]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+(;B[cg]
+(;W[bg]C[CHOICE]
+(;B[ag];W[af];B[be];W[ae];B[cf]C[*sigh*  Damian wins again.RIGHT])
+(;B[cf];W[ag])
+(;B[ae];W[be])
+(;B[af];W[ag]))
+(;W[ag]C[CHOICE]
+(;B[bg];W[cf];B[dg]C[RIGHT])
+(;B[ae]
+(;W[be]C[CHOICE];B[bg];W[cf];B[dg]C[*Sigh*  Damian wins again.RIGHT])
+(;W[cf]C[CHOICE]
+(;B[dg];W[be];B[bg]C[Nemir is torn to shreds by Damian's Masterful tesuji!RIGHT])
+(;B[be]C[RIGHT])))
+(;B[cf];W[bg])))
+(;B[cf];W[cg];B[df];W[be];B[ag];W[af]C[Nemir triumphs!])
+(;B[bg];W[cg];B[cf];W[df]C[Nemir triumphs!])
+(;B[af];W[ag];B[cg];W[cf];B[dg];W[bg]C[];B[be];W[ae]C[Nemir triumphs!])
+(;B[ag]
+(;W[af]C[CHOICE]
+(;B[cg];W[bg];B[be]C[];W[ae];B[cf]C[Damian's incisive tesuji reduces Nemir's group to a single eye.RIGHT])
+(;B[bg];W[cg];B[be];W[ae];B[df]C[Nemir escapes with her life!!!])
+(;B[be];W[ae]
+(;B[cg];W[bg];B[cf]C[Nemir is torn to shreds by Damian's Masterful tesuji!RIGHT])
+(;B[cf]
+(;W[df]C[];B[cg];W[bg];B[dg]C[RIGHT])
+(;W[cg]C[];B[df]C[Nemir is torn to shreds by Damian's Masterful tesuji!RIGHT]))))
+(;W[cg]C[CHOICE]
+(;B[af];W[be];B[df]C[Damian's incisive tesuji renders without eyespace.RIGHT])
+(;B[be];W[ae]
+(;B[af];W[be];B[df]C[RIGHT])
+(;B[df];W[cf];B[af]C[RIGHT]))
+(;B[df];W[af];B[be];W[ae];B[cf]C[RIGHT]))
+(;W[cf]C[CHOICE]
+(;B[af]MA[be]C[White cannot play A15 and if White connects there's just one eye.RIGHT])
+(;B[be];W[ae];B[af]C[If White connects that's still but one eye.RIGHT])
+(;B[ae];W[be]
+(;B[cg]C[RIGHT])
+(;B[af];W[cg]))
+(;B[cg];W[bg]
+(;B[af]C[RIGHT])
+(;B[ae]C[RIGHT])
+(;B[be];W[ae]))
+(;B[bg];W[cg]
+(;B[be];W[ae])
+(;B[af];W[ah])))
+(;W[df]C[CHOICE]
+(;B[af];W[be];B[cg]
+(;W[dg]C[CHOICE];B[bg]C[White is cleft in twain!  Damezumari befalls Nemir and she has nothing left but to fall upon her sword.RIGHT])
+(;W[bg]C[CHOICE];B[dg]C[Damian's incisive tesuji renders Nemir's group lifeless.RIGHT]))
+(;B[be];W[ae];B[af];W[be];B[cg];W[dg];B[bg]C[RIGHT])
+(;B[cg];W[bg]
+(;B[af];W[ah]
+(;B[ae];W[be]
+(;B[af];W[dg])
+(;B[dg];W[af]))
+(;B[be];W[ae])
+(;B[dg];W[ae];B[cf]C[RIGHT]))
+(;B[dg];W[af];B[be]C[RIGHT])
+(;B[be];W[ae])
+(;B[ae];W[be]))
+(;B[dg];W[cg]
+(;B[af];W[be];B[bg]C[Just seki])
+(;B[ae];W[be])
+(;B[be];W[ae];B[af];W[be]C[Alive.]))))
+(;B[ae];W[be]
+(;B[ag];W[cg])
+(;B[cg];W[bg]))
+(;B[be];W[ae])
+(;B[df];W[cf]))

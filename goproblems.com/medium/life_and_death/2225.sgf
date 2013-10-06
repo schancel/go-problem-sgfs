@@ -1,0 +1,217 @@
+(;GE[life and death]DI[3k]DP[27]SO[Hyppy]CO[6]AW[ga][fb][gb][ec][fc][dd][ed][ce][de][bf][cf][ag][bg]AB[da][ea][fa][eb][cc][dc][ad][cd][ae][be][af]C[White to Kill]PL[W]
+(;W[bb]CR[bb]
+;B[bc]CR[bc]
+(;W[cb]CR[cb]
+(;B[ac]CR[ac]C[CHOICE]
+(;W[db]CR[db]C[RIGHT])
+(;W[ab]CR[ab]
+;B[db]CR[db]
+(;W[ca]CR[ca]C[RIGHT])
+(;W[ba]CR[ba]C[seki]))
+(;W[ca]CR[ca]
+;B[db]CR[db]
+;W[ab]CR[ab]C[RIGHT])
+(;W[ba]CR[ba]
+;B[db]CR[db]C[Black gets at least a seki.])
+(;W[aa]CR[aa]
+;B[db]CR[db]
+(;W[ca]CR[ca]C[seki])
+(;W[ab]CR[ab]
+;B[ca]CR[ca]C[black lives])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]C[black lives])))
+(;B[db]CR[db]C[CHOICE]
+(;W[ab]CR[ab]
+(;B[ac]CR[ac]C[CHOICE]
+;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[bd]CR[bd]C[RIGHT])
+(;B[ca]CR[ca]C[CHOICE]
+;W[ac]CR[ac]
+;B[ba]CR[ba]
+;W[bd]CR[bd]C[RIGHT]))
+(;W[ca]CR[ca]
+;B[ab]CR[ab]C[Black gets two eyes])
+(;W[ba]CR[ba]
+;B[ab]CR[ab]C[White is dead])
+(;W[ac]CR[ac]
+;B[ab]CR[ab]C[White is dead])
+(;W[aa]CR[aa]
+;B[ac]CR[ac]C[Black gets at least a seki.]))
+(;B[ab]CR[ab]C[CHOICE]
+(;W[ca]CR[ca]
+;B[db]CR[db]C[White is dead])
+(;W[db]CR[db]
+(;B[ac]CR[ac]C[CHOICE]
+(;W[ca]CR[ca]C[RIGHT])
+(;W[ba]CR[ba]
+;B[aa]CR[aa]
+(;W[ca]CR[ca]C[RIGHT])
+(;W[bd]CR[bd]C[RIGHT]))
+(;W[aa]CR[aa]
+;B[ba]CR[ba]
+;W[ca]CR[ca]C[RIGHT]))
+(;B[ca]CR[ca]C[CHOICE]
+(;W[ba]CR[ba]C[RIGHT])
+(;W[aa]CR[aa]
+;B[ba]CR[ba]C[Not too smart there])))
+(;W[ba]CR[ba]
+;B[db]CR[db]C[White is dead])
+(;W[aa]CR[aa]
+;B[ba]CR[ba]C[White is dead])))
+(;W[ab]CR[ab]
+;B[cb]CR[cb]
+(;W[ac]CR[ac]
+;B[bd]CR[bd]
+(;W[ba]CR[ba]C[Seki, but you can do better])
+(;W[aa]CR[aa]
+;B[ba]CR[ba])
+(;W[ca]CR[ca]
+;B[ba]CR[ba]C[White is dead]))
+(;W[ba]CR[ba]
+;B[ac]CR[ac]C[White is dead])
+(;W[aa]CR[aa]
+;B[ac]CR[ac]C[White is dead])
+(;W[ca]CR[ca]
+;B[ba]CR[ba]C[Whie is dead]))
+(;W[ba]CR[ba]
+;B[ac]CR[ac]
+(;W[ca]CR[ca]
+;B[db]CR[db]C[Black gets at least a seki])
+(;W[cb]CR[cb]
+;B[db]CR[db]C[Black gets at leaast a seki.])
+(;W[ab]CR[ab]
+;B[cb]CR[cb]C[Black gets 2 eyes])
+(;W[aa]CR[aa]
+;B[cb]CR[cb]C[Black gets 2 eyes])
+(;W[db]CR[db]
+;B[cb]CR[cb]
+(;W[ca]CR[ca]
+;B[db]CR[db]C[Black lives.])
+(;W[ab]CR[ab]
+;B[ca]CR[ca]C[Black gets two eyes.])))
+(;W[db]CR[db]
+;B[cb]CR[cb]
+(;W[ab]CR[ab]
+;B[ac]CR[ac]C[Black gets two eyes.])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]C[Black gets two eyes.])
+(;W[aa]CR[aa]
+;B[ca]CR[ca]
+;W[ac]CR[ac]
+;B[bd]CR[bd]C[White dies.]))
+(;W[ac]CR[ac]
+;B[ab]CR[ab]C[White is dead])
+(;W[ca]CR[ca]
+;B[ba]CR[ba]
+(;W[db]CR[db]
+;B[cb]CR[cb]
+(;W[aa]CR[aa]
+;B[ab]CR[ab]C[Black manages to squeeze out a ko.])
+(;W[da]CR[da]
+;B[ab]CR[ab]))
+(;W[cb]CR[cb]
+;B[db]CR[db]
+(;W[ab]CR[ab]C[seki])
+(;W[aa]CR[aa]
+;B[ac]CR[ac]C[seki]))
+(;W[aa]CR[aa]
+;B[db]CR[db]
+(;W[ac]CR[ac]
+;B[ab]CR[ab]C[Black is happy with ko.])
+(;W[ab]CR[ab]
+;B[ac]CR[ac]C[seki]))
+(;W[ab]CR[ab]
+;B[cb]CR[cb]))
+(;W[aa]CR[aa]
+;B[cb]CR[cb]
+(;W[ca]CR[ca]
+;B[ba]CR[ba]C[This is ko, but you can kill black without ko.])
+(;W[ac]CR[ac]
+;B[ab]CR[ab]C[This is ko, but you can kill black without ko.])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]C[Black gets three eyes.])
+(;W[ab]CR[ab]
+;B[ac]CR[ac]C[Black gets three eyes.])))
+(;W[cb]CR[cb]
+;B[bb]CR[bb]C[Black gets the vital point.  This follows the 'Play at the point of symmetry' proverb.])
+(;W[aa]CR[aa]
+;B[bb]CR[bb]C[Black gets the vital point.  This follows the 'Play at the point of symmetry' proverb.])
+(;W[db]CR[db]
+;B[cb]CR[cb]C[Black gets 2 eyes])
+(;W[ca]CR[ca]
+;B[bc]CR[bc]
+(;W[bb]CR[bb]
+;B[ba]CR[ba]
+(;W[db]CR[db]
+;B[cb]CR[cb]
+(;W[aa]CR[aa]
+;B[ab]CR[ab]C[Black manages to squeeze out a ko.])
+(;W[da]CR[da]
+;B[ab]CR[ab]))
+(;W[cb]CR[cb]
+;B[db]CR[db]
+(;W[ab]CR[ab]C[seki])
+(;W[aa]CR[aa]
+;B[ac]CR[ac]C[seki]))
+(;W[aa]CR[aa]
+;B[db]CR[db]
+(;W[ac]CR[ac]
+;B[ab]CR[ab]C[Ko makes black happy.])
+(;W[ab]CR[ab]
+;B[ac]CR[ac]C[seki])
+(;W[cb]CR[cb]
+;B[ac]CR[ac]C[seki]))
+(;W[ab]CR[ab]
+;B[cb]CR[cb]))
+(;W[db]CR[db]
+;B[bb]CR[bb]
+(;W[ba]CR[ba]
+;B[ab]CR[ab]C[Black lives])
+(;W[ab]CR[ab]
+;B[ba]CR[ba]C[Black lives]))
+(;W[ab]CR[ab]
+;B[bb]CR[bb]
+(;W[db]CR[db]
+;B[ba]CR[ba])
+(;W[ba]CR[ba]
+;B[db]CR[db])))
+(;W[ba]CR[ba]
+;B[bb]CR[bb]C[Black gets the vital point.  This follows the 'Play at the point of symmetry' proverb.])
+(;W[ab]CR[ab]
+;B[bb]CR[bb]C[Black gets the vital point.  This follows the 'Play at the point of symmetry' proverb.])
+(;W[ac]CR[ac]
+;B[cb]CR[cb]
+(;W[bb]CR[bb]
+;B[ab]CR[ab]
+(;W[bd]CR[bd]
+;B[bc]CR[bc]
+(;W[aa]CR[aa]
+;B[ba]CR[ba]C[Black squeezes out a ko.])
+(;W[ad]CR[ad]
+;B[ba]CR[ba]))
+(;W[bc]CR[bc]
+;B[bd]CR[bd]
+(;W[aa]CR[aa]
+;B[ca]CR[ca]C[seki])
+(;W[ba]CR[ba]C[seki]))
+(;W[ba]CR[ba]
+;B[bc]CR[bc])
+(;W[aa]CR[aa]
+;B[bd]CR[bd]
+(;W[ca]CR[ca]
+;B[ba]CR[ba]C[Black is happy to get this ko.])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]C[ seki])))
+(;W[bd]CR[bd]
+;B[bb]CR[bb]C[Black gets two eyes.])
+(;W[ba]CR[ba]
+;B[bb]CR[bb]
+(;W[ab]CR[ab]
+;B[bd]CR[bd])
+(;W[bd]CR[bd]
+;B[ab]CR[ab])))
+(;W[bd]CR[bd]
+;B[bc]CR[bc]C[Black gets 2 eyes])
+(;W[bc]CR[bc]
+;B[bb]CR[bb]C[Black gets the vital point.  This follows the 'Play at the point of symmetry' proverb.]))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[6k]DP[39]SO[nadavshapi]CO[4]AW[ra]AW[sa]AW[sb]AW[rb]AW[rc]AW[qc]AW[qb]AB[qd]AB[rd]AB[sd]AB[sc]AB[pd]AB[pc]AB[pb]AB[pa]AW[oa]AW[ob]AW[oc]AW[od]AW[pe]AW[qe]AW[re]AW[se]AW[oe]LB[dd:yes]LB[fd:no]AB[es]AB[er]AB[eq]AB[ep]AB[eo]AB[do]AB[co]AB[bo]AB[ao]AB[as]AB[bs]AB[br]AB[ar]AB[cq]AB[bq]AB[cr]AW[ap]AW[bp]AW[cp]AW[dp]AW[dq]AW[dr]AW[ds]AW[cs]C[is black upper right dead?]AP[goproblems]
+(;B[dd]C[then kill bottom left];W[aq];B[br]
+(;W[bq];B[cr]
+(;W[ar];B[bs]C[no its seki ha ha])
+(;W[bs];B[ar]C[its seki ha ha]))
+(;W[cr];B[bq]
+(;W[ar];B[bs])
+(;W[bs];B[ar]))
+(;W[ar];B[bs]
+(;W[cr];B[bq])
+(;W[bq];B[cr]))
+(;W[bs];B[ar]
+(;W[cr];B[bq])
+(;W[bq];B[cr])))
+(;B[fd];W[ss]LB[jd:then live!!!];B[qa];W[rb]
+(;B[qb];W[rc]
+(;B[ra];W[sb]C[RIGHT])
+(;B[sb];W[ra]C[RIGHT]))
+(;B[rc];W[qb]
+(;B[sb];W[ra]C[RIGHT])
+(;B[ra];W[sb]C[RIGHT]))
+(;B[sb];W[ra]
+(;B[rc];W[qb]C[RIGHT])
+(;B[qb];W[rc]C[RIGHT]))
+(;B[ra];W[sb]
+(;B[qb];W[rc]C[RIGHT])
+(;B[rc];W[qb]C[RIGHT]))))

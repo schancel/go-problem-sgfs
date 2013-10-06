@@ -1,0 +1,49 @@
+(;GE[life and death]DI[5d]DP[5]SO[Spica]CO[6]FF[4]GM[1]SZ[19]AP[SGFC:1.14]AB[bq][cq][bp][dq][bo][bn][bm]
+[cm][dm][em][fo][go][gp][gq][gr][gs][fs][es][eq]AW[al][am][an]
+[ao][ap][aq][ar][br][cr][dr][bl][cl][dl][el][fl][fm][fn][en]
+[eo][gn][hn][ho][hp][hq][hr][hs][ds]LB[gl:1][gm:2][hl:3][hm:4]
+C[How many ways are there for black to live... (play the point with the corresponding label on the right)]
+;B[gm];W[hm]LB[co:a][dn:b][do:c][dp:d][ep:e][er:f][fq:g][jm:a,b]
+[jn:a,c][jo:a,d][jp:a,e][jq:a,f][jr:a,g][js:b,c][km:b,d][kn:b,e]
+[ko:b,f][kp:b,g][kq:c,d][kr:c,e][ks:c,f][lm:c,g][ln:d,e][lo:d,f]
+[lp:d,g][lq:e,f][lr:e,g][ls:f,g]C[... and which points are they? (again play the point with the corresponding label on the right)]
+;B[jm];W[ll]C[Use 'navigate solution' to see the details. RIGHT]
+
+(;B[co];W[er]
+(;B[ep];W[fq]
+(;B[dn];W[do];B[dp]C[RIGHT])
+(;B[do];W[dn]))
+(;B[fq];W[ep])
+(;B[dn];W[ep];B[dp];W[fq]C[half lives])
+(;B[do];W[ep])
+(;B[dp];W[dn];B[ep];W[fq]))
+(;B[dn];W[er]
+(;B[ep];W[do];B[co];W[fq];B[dp]C[RIGHT])
+(;B[do];W[ep])
+(;B[co];W[ep];B[dp];W[fq]C[half lives])
+(;B[dp];W[co]))
+(;B[do];W[dn]
+(;B[dp];W[er];B[ep];W[fq])
+(;B[ep];W[co];B[er];W[fq])
+(;B[er];W[co])
+(;B[fq];W[co])
+(;B[co];W[ep]
+(;B[dp];W[er])
+(;B[er];W[dp]))
+(;B[cn];W[dp];B[ep];W[co];B[er];W[fq]))
+(;B[dp];W[er]
+(;B[ep];W[fq])
+(;B[co];W[dn];B[ep];W[fq])
+(;B[dn];W[co]))
+(;B[ep];W[co]
+(;B[er];W[fq])
+(;B[do];W[dn];B[er];W[fq]))
+(;B[er];W[co]
+(;B[ep];W[fq];B[do];W[dn])
+(;B[do];W[dn];B[ep];W[fq]))
+(;B[fq];W[co]
+(;B[er];W[ep])
+(;B[ep];W[er])
+(;B[do];W[dn]
+(;B[ep];W[er])
+(;B[er];W[ep]))))

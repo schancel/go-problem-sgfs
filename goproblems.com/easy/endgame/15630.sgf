@@ -1,0 +1,14 @@
+(;GE[endgame]DI[6k]DP[37]SO[Ç‹ÇﬂÉSÉ}Åô]CO[0]SZ[5]AB[bb]AB[cb]AB[cd]AB[bd]AB[ad]AW[cc]AW[db]AW[ca]AW[ba]AW[be]AW[ea]AW[bc]C[No komi, Black to win.]AP[goproblems]
+(;B[ab];W[dd]
+(;B[ce];W[dc];B[ac];W[de])
+(;B[dc];W[ec]
+(;B[de];W[ce]C[One eye versus none.])
+(;B[ce];W[de])))
+(;B[dc];W[ab];B[ec];W[eb]
+(;B[dd]C[Black wins by 1 pointRIGHT])
+(;B[ed]C[Black wins by 1 point and the jury does not retract points for style.RIGHT])
+(;B[de]C[+1 to Black.RIGHT]))
+(;B[dd];W[dc];B[ac];W[ab];B[ec];W[eb];B[ed]C[Jigo. 5+1 to Black, 4+2 to White.])
+(;B[ec];W[dc]
+(;B[dd];W[ac];B[ed];W[eb]C[Black loses by 1.])
+(;B[ac];W[dd])))

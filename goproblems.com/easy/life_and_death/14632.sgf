@@ -1,0 +1,47 @@
+(;GE[life and death]DI[7k]DP[44]SO[Coutty]CO[0]AB[bb]AB[cb]AB[db]AB[dc]AB[dd]AB[cd]AB[bd]AB[ce]AB[gb]AW[eb]AW[ea]AW[bc]AW[cc]AW[ab]AW[ad]AW[be]AW[cf]AW[bf]AW[df]AW[ef]AW[ff]AW[gf]AW[hf]AW[if]AW[hd]AW[id]AW[ib]AW[jb]AW[jd]AW[jf]AW[gd]AB[fb]C[Black to live with points.]AW[fd]AW[ee]AB[ec]AP[goproblems]
+(;B[ba];W[da]
+(;B[aa]C[RIGHT])
+(;B[fa];W[ac]C[CHOICE])
+(;B[ca];W[ac]C[CHOICE])
+(;B[ga];W[ac];B[fc]C[It's not sekiCHOICE])
+(;B[hb];W[ac]
+(;B[fc];W[ha];B[ga]C[It's not sekiCHOICE])
+(;B[fa];W[ha]C[CHOICE])
+(;B[ga]C[CHOICE])
+(;B[ha];W[fa];B[fc]C[Seki. But you can live with points.CHOICE])))
+(;B[ac];W[bc]
+(;B[ba];W[da]C[CHOICE])
+(;B[da];W[ba]C[CHOICE])
+(;B[ca];W[ac]C[CHOICE])
+(;B[fa]C[CHOICE]))
+(;B[da];W[ba]
+(;B[ac];W[bc]C[CHOICE])
+(;B[ca];W[ac];B[aa];W[ae]C[CHOICE]))
+(;B[ca];W[ac]C[CHOICE])
+(;B[fc];W[ac]
+(;B[da];W[ba]C[CHOICE])
+(;B[aa];W[ba]C[CHOICE])
+(;B[ba];W[da]C[CHOICE];B[hb];W[ha])
+(;B[ca]C[CHOICE]))
+(;B[fa];W[ac]
+(;B[aa];W[ba]C[CHOICE])
+(;B[ba];W[da]C[CHOICE])
+(;B[da];W[ba]
+(;B[ha];W[hb]C[CHOICE])
+(;B[hb];W[ha]C[CHOICE]))
+(;B[ha];W[hb]C[CHOICE])
+(;B[hb];W[ha]C[CHOICE]))
+(;B[hb];W[ac]
+(;B[ba];W[da];B[ha];W[fa]C[Only sekiCHOICE])
+(;B[da];W[ba]
+(;B[ha];W[fa]C[CHOICE])
+(;B[fa];W[ha]C[CHOICE]))
+(;B[fa];W[ha]
+(;B[ba];W[da]C[CHOICE])
+(;B[da];W[ba]C[CHOICE]))
+(;B[ha];W[fa]
+(;B[ba];W[da]C[CHOICE];B[fc]C[only sekiCHOICE])
+(;B[da];W[ba]C[CHOICE])))
+(;B[ga];W[ac]
+(;B[da];W[ba]C[CHOICE])
+(;B[ba];W[da]C[CHOICE])))

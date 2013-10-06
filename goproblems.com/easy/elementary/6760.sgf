@@ -1,0 +1,13 @@
+(;GE[elementary]DI[20k]DP[74]SO[Daniel Klingmann]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Weiß]PB[Schwarz]AW[ec][dd][fd][ce][ge][cf][ef][gf]AB[ed][de][ee][fe]
+(;B[dc]CR[dc]
+;W[cd]CR[cd]
+;B[fc]CR[fc]
+C[RIGHT]
+)
+(;B[fc]CR[fc]
+;W[gd]CR[gd]
+;B[dc]CR[dc]
+C[RIGHT]
+))

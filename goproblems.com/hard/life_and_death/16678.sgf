@@ -1,0 +1,30 @@
+(;GE[life and death]DI[6d]DP[0]SO[Aristotle]CO[0]AB[rs]AB[sp]AB[sm]AB[rm]AB[qo]AW[qp]AW[pp]AW[qr]AW[nr]AW[os]AW[mr]AB[oo]AB[op]AB[mq]AB[lq]AB[ms]AB[kr]AB[ks]AB[kq]AW[lr]AW[pr]AB[qm]AB[po]AB[nq]AP[goproblems]
+(;B[rq];W[oq]
+(;B[qq];W[pq];B[ls]
+(;W[qs]C[CHOICE];B[ns]
+(;W[so]
+(;B[ro]
+(;W[sr];B[rr];W[rp];B[sn];W[sq];B[ss];W[sq];B[sr];W[sq];B[rq];W[so]C[Please play at K for a Ko threatFORCE]LB[kl:K];B[kl]C[Please play at K for a Ko threatFORCE];W[km]C[FORCE];B[sp];W[sr];B[rr];W[so]LB[ll:K]C[Please play at K for a Ko threatFORCE];B[ll]C[Please play at K for a Ko threatFORCE];W[lm];B[sp];W[rs];B[ss];W[sq]
+(;B[sr];W[qq];B[or];W[nr];B[mr];W[sq];B[sr];W[so]LB[ml:K]C[Please play at K for a Ko threatFORCE];B[ml]C[FORCE];W[mm];B[sp];W[rr];B[rq];W[ss];B[sq];W[so];B[sq];W[sp];B[or]C[RIGHT])
+(;B[or];W[so]C[This gains white at least one Ko threat compared to the solution]))
+(;W[rp]C[This path is for informational purposes only. The computer will not choose it];B[sr]C[Better for black than the main variation - needing less ko-threatsRIGHT]))
+(;B[sr];W[ro];B[rr];W[rp])
+(;B[rp];W[rr]))
+(;W[sr]C[This path is for informational purposes only. The computer will not choose it];B[rr];W[so];B[rp]C[Finito!RIGHT]))
+(;W[so]C[CHOICE]
+(;B[ro];W[sr];B[rr];W[rp];B[sn];W[sq];B[ss];W[sq];B[sr]
+(;W[qs];B[ns])
+(;W[ns]C[This path is for informational purposes only. The computer will not choose it];B[qs]C[Easy for blackRIGHT]))
+(;B[sr];W[ro];B[rr];W[rp];B[qs];W[ps];B[ns];W[sq]C[A superior 3 step ko for white])))
+(;B[qs];W[ls];B[qq];W[pq];B[ps];W[rr])
+(;B[ls];W[qq];B[qs];W[rr];B[sr];W[ns]))
+(;B[oq];W[rq]
+(;B[or];W[pq];B[sq];W[sr];B[rr];W[qs])
+(;B[pq];W[or];B[qq];W[rr]))
+(;B[pq];W[or]
+(;B[rq];W[rr];B[sr];W[qs];B[ls];W[qq];B[oq];W[so];B[ro];W[rp]C[Double ko!])
+(;B[ls];W[rq]
+(;B[qs];W[oq];B[sq];W[sr];B[rr];W[ps])
+(;B[oq];W[qs];B[qq];W[rp]
+(;B[so];W[ro];B[sn];W[rr])
+(;B[rr];W[sr];B[ro];W[ss];B[rr];W[rs];B[so];W[sq])))))

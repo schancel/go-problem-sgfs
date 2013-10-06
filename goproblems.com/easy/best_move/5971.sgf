@@ -1,0 +1,9 @@
+(;GE[best move]DI[15k]DP[60]SO[Tschanz]CO[8]AB[rq]AB[qq]AB[pp]AB[op]AB[np]AB[mp]AB[mo]AB[nn]AB[nm]AB[nl]AB[ol]AB[ro]AB[rn]AW[qp]AW[po]AW[oo]AW[no]AW[on]AW[om]AW[pl]AW[ql]AW[rl]AW[rm]AW[qn]AW[rr]AW[qr]AW[pq]AW[pr]AW[nq]AW[mq]AW[sq]C[Black to do something usefull !]AP[goproblems]
+(;B[rp];W[qo])
+(;B[pm];W[qo]
+(;B[rp];W[sn])
+(;B[qm];W[pn]))
+(;B[qm];W[pm])
+(;B[pn];W[pm])
+(;B[sp];W[rp])
+(;B[qo];W[rp];B[pm]C[Depending on your enemy`s move you can kill at either a or b !RIGHT]LB[pn:A]LB[qm:B]))

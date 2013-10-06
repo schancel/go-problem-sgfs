@@ -1,0 +1,27 @@
+(;GE[elementary]DI[5k]DP[34]SO[santa c]CO[7]AB[ar]AB[br]AB[cr]AB[bs]AW[aq]AW[bq]AW[bp]AW[cp]AW[dp]AW[ep]AW[gq]AW[gr]AW[gp]AB[fr]AW[er]AB[dq]C[Black to live!]AP[goproblems]
+(;B[ds]
+(;W[eq]
+(;B[dr]C[Well done! :)RIGHT])
+(;B[es];W[dr]C[:(])
+(;B[fs];W[dr]C[:(]))
+(;W[fq]
+(;B[dr]C[RIGHT])
+(;B[eq];W[fs];B[dr]C[RIGHT])))
+(;B[dr];W[ds]
+(;B[eq];W[fs]
+(;B[es]MA[er]C[Could avoid the ko! :(])
+(;B[cs];W[fq]C[:(])
+(;B[fq];W[es]C[:(]))
+(;B[fq];W[eq]C[:(])
+(;B[fs];W[eq]C[:(])
+(;B[cs];W[eq]C[:(]))
+(;B[eq];W[ds]
+(;B[dr];W[fs]
+(;B[es]MA[er]C[Could avoid the ko! :(])
+(;B[cs];W[fq]C[:(])
+(;B[fq];W[es]C[:(]))
+(;B[fs];W[fq];B[dr];W[gs]C[:(])
+(;B[fq];W[fs]C[:(]))
+(;B[es];W[eq]C[:(]TR[ds]TR[dr])
+(;B[fq];W[eq]C[:(]TR[dr]TR[ds])
+(;B[fs];W[eq]TR[dr]TR[ds]C[:(]))

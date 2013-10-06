@@ -1,0 +1,24 @@
+(;GE[life and death]DI[7k]DP[41]SO[Drai]CO[4]AW[gg]AW[gh]AW[gi]AW[ii]AW[hj]AW[ij]AW[jj]AW[jk]AW[kk]AW[jl]AW[il]AW[hl]AW[im]AW[gm]AW[fn]AW[eo]AW[ep]AW[eq]AW[dp]AW[fp]AW[fr]AW[gr]AB[hg]AB[ih]AB[jh]AB[ji]AB[kj]AB[lj]AB[lk]AW[ki]AB[kl]AB[jm]AB[km]AB[in]AB[io]AW[jn]AB[gf]AB[if]AB[ge]AB[fg]AB[fh]AB[fi]AB[gj]AB[gk]AB[hk]AB[ik]AB[gl]AB[fm]AB[en]AB[em]AB[fl]AB[do]AB[dn]AW[cn]AW[bn]AW[bm]AW[dm]AW[dk]AW[fj]AW[ej]AW[dj]AW[ei]AW[cj]AW[co]AB[bo]AB[bp]AB[bq]AB[cq]AB[dq]AB[er]AB[es]AB[fs]AW[dr]AW[hi]AW[hn]C[very simple problem: save the marked group.  Note:KO isn´t enough]AB[cp]MA[gj]MA[gk]MA[gl]MA[fl]MA[fm]MA[em]MA[en]MA[dn]MA[do]MA[hk]MA[ik]AP[goproblems]
+(;B[hh];W[hm];B[ho];W[gn];B[fo];W[go];B[gp]C[white can´t connectRIGHT])
+(;B[fo]
+(;W[ho]
+(;B[go];W[gp];B[gn];W[fn])
+(;B[gn];W[go];B[hm]C[KO]))
+(;W[el];B[gn];W[fk];B[hm]C[KO]))
+(;B[dl]
+(;W[fk]
+(;B[cm];W[el];B[ek];W[ho])
+(;B[el];W[ho];B[cl];W[bl]
+(;B[cm]C[dead])
+(;B[bk];W[ck];B[cm];W[ek])))
+(;W[ho]))
+(;B[ho];W[fk])
+(;B[ek];W[fk])
+(;B[cr];W[fk])
+(;B[gn];W[ho];B[hm]C[KO])
+(;B[go];W[fk]
+(;B[gn];W[el])
+(;B[fo];W[el])
+(;B[ho];W[el])
+(;B[gp];W[el])
+(;B[hh];W[el])))

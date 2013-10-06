@@ -1,0 +1,9 @@
+(;GE[best move]DI[2d]DP[12]SO[marwin]CO[9]C[Black to get good shape]AB[pd]AB[pc]AB[oe]AB[of]AW[pe]AW[qf]AW[qd]AW[qc]AW[nc]AB[jd]LB[od:A]LB[nd:B]LB[pb:C]LB[ob:D]AP[goproblems]
+(;B[pb]
+(;W[od]C[CHOICE];B[nd];W[oc];B[mc];W[md];B[nb];W[ne];B[ob];W[nd];B[lc]C[RIGHT])
+(;W[lc];B[nd];W[le];B[qg];W[rg];B[qh]C[RIGHT]))
+(;B[nd];W[pb]
+(;B[ob];W[oc];B[od];W[nb])
+(;B[oc];W[ob];B[od];W[mc]))
+(;B[od];W[pb];B[ob];W[qb];B[oc])
+(;B[ob];W[od];B[oc];W[nd];B[nb];W[lc]))

@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[10k]DP[53]SO[SilverHawk]CO[0]AW[cd]AW[dd]AW[de]AW[df]AW[ee]AW[fg]AW[ff]AW[gf]AW[hf]AW[cg]AW[ch]AW[ci]AW[cj]AW[dj]AW[dk]AW[dl]AW[ig]AW[jh]AW[ji]AW[ii]AW[ij]AW[hj]AW[ik]AW[jk]AW[kj]AW[kk]AB[ef]AB[eg]AB[dg]AB[di]AB[dh]AB[ej]AB[fj]AB[gj]AB[ek]AB[el]AB[em]AB[hk]AB[hl]AB[il]AB[jl]AB[kl]AB[fh]AB[gg]AB[hg]AB[hh]AB[hi]AB[ih]C[Black just played triangle.  Show him his mistake!]TR[hg]AP[goproblems]
+(;W[gh];B[gi])
+(;W[gi]
+(;B[gh]
+(;W[ei];B[eh];W[fi]C[Good!  Navigate to see black's wiser answer.RIGHT])
+(;W[fi];B[ei])
+(;W[eh];B[ei]))
+(;B[fi];W[gh]C[This is black's wiser answer.RIGHT]))
+(;W[eh];B[ei])
+(;W[ei]
+(;B[fi]C[];W[eh]C[This is black's wiser answer.RIGHT])
+(;B[eh]C[CHOICE]
+(;W[gi];B[gh];W[fi]C[Good!  Navigate to see black's wiser answer.RIGHT])
+(;W[fi];B[gi])
+(;W[gh];B[gi])))
+(;W[fi]
+(;B[ei]
+(;W[gh];B[gi]C[The point of symmetry isn't *always* the answer. :)])
+(;W[gi];B[gh]C[The point of symmetry isn't *always* the answer. :)]))
+(;B[gi]
+(;W[ei];B[eh]C[The point of symmetry isn't *always* the answer. :)])
+(;W[eh];B[ei]C[The point of symmetry isn't *always* the answer. :)]))))

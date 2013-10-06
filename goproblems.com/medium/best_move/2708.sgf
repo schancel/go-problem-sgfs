@@ -1,0 +1,63 @@
+(;GE[best move]DI[3k]DP[24]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[gp][jp][lp][pp][cq][eq][gq][jq][kq][fr][gr][hr][ir]AB[bo][go][io][cp][ep][fp][hp][kp][dq][fq][hq][iq][lq][nq][jr][kr]LB[lp:1]C[white ataris at 1. how should black respond?]
+(;B[mq]CR[mq]C[RIGHT
+simple and best. if white takes the stone, it's gote, and black is in no immediate danger along the bottom])
+(;B[mp]CR[mp]
+;W[lr]CR[lr]
+(;B[lo]CR[lo]
+;W[ks]CR[ks]C[oops, white lives])
+(;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[jo]CR[jo]
+;W[mq]CR[mq])
+(;B[ls]CR[ls]
+;W[mq]CR[mq]))
+(;B[ko]CR[ko]
+;W[lr]CR[lr]
+(;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[ls]CR[ls]
+;W[mq]CR[mq])
+(;B[jo]CR[jo]
+;W[mq]CR[mq]))
+(;B[lr]CR[lr]C[not too bad, but N3 helps the O3 stone more and makes better shape])
+(;B[jo]CR[jo]
+;W[ko]CR[ko]
+(;B[mq]CR[mq]C[this is gote now])
+(;B[lr]CR[lr]C[gote])
+(;B[ip]CR[ip]
+;W[kp]CR[kp]
+(;B[mq]CR[mq]C[gote])
+(;B[mp]CR[mp]
+;W[kn]CR[kn]C[black needs another move to fix M2. white has decent shape and can perhaps attack at F5.])
+(;B[kn]CR[kn]
+;W[lr]CR[lr]
+(;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[mr]CR[mr]
+;W[mq]CR[mq]))))
+(;B[mr]CR[mr]C[this is good for eyeshape, but after White takes L4, it's easier for White to stop Black jumping into the center than if Black had played N3 originally.])
+(;B[nr]CR[nr]
+;W[lr]CR[lr]
+;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[er]CR[er]
+;W[lr]CR[lr]C[bad choice. white now lives])
+(;B[np]CR[np]
+;W[lr]CR[lr]
+;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[pq]CR[pq]
+;W[lr]CR[lr]C[white living is big])
+(;B[pr]CR[pr]
+;W[lr]CR[lr]C[white living is big])
+(;B[lo]CR[lo]
+;W[ko]CR[ko]
+(;B[mp]CR[mp]
+;W[lr]CR[lr]
+(;B[mq]CR[mq]
+;W[ks]CR[ks])
+(;B[mr]CR[mr]
+;W[mq]CR[mq]))
+(;B[mq]CR[mq]C[your original move did not help you])))

@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[18k]DP[65]SO[adum]CO[6]AB[sg]AW[sf]AW[se]AW[re]AW[rd]AW[qd]AW[pc]AW[oc]AW[qb]AB[pd]AB[pe]AB[qe]AB[qf]AB[rf]AW[qh]AW[ph]AB[pi]AB[pj]AB[qk]AB[ql]AB[qi]AW[qj]AB[ri]AW[oi]AW[ok]AW[oj]AW[pk]AW[pl]AB[qm]AB[qn]AB[rn]AB[sm]AB[oh]AB[og]AB[ng]AB[nf]AB[ne]AB[oe]AW[nc]AW[pm]AW[pn]LB[se:A]C[white played A. if black doesn't fix, how can white take advantage?]AP[goproblems]
+(;W[rg];B[sh]
+(;W[rh];B[si];W[rj]C[in the real game, james didn't fall for this trap.  he was smarter than adum and won by 2.5 points.RIGHT])
+(;W[rj];B[qg])
+(;W[si];B[sj];W[rh];B[si])
+(;W[sj];B[rj]))
+(;W[sh];B[rg]
+(;W[rh];B[rj])
+(;W[rj];B[rh]))
+(;W[rh];B[sh]
+(;W[rg];B[si];W[rj]C[in the real game, james didn't fall for this trap.  he was smarter than adum and won by 2.5 points.RIGHT])
+(;W[rj];B[si];W[rg]C[in the real game, james didn't fall for this trap.  he was smarter than adum and won by 2.5 points.RIGHT]))
+(;W[rj];B[rh])
+(;W[si];B[rh])
+(;W[sj];B[rh]))

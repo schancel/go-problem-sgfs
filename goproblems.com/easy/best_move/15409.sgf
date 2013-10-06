@@ -1,0 +1,10 @@
+(;GE[best move]DI[7k]DP[40]SO[BostonGo]CO[0]AB[sb]AB[rc]AB[qc]AB[pc]AB[oc]AB[re]AW[rb]AW[qb]AW[rf]AW[qf]AW[pe]AW[nc]AW[nd]AW[nb]AW[oa]C[Black to force a ko.]AP[goproblems]
+(;B[pa];W[pb];B[ob];W[qa];B[ra];W[sa]C[RIGHT])
+(;B[ob];W[pa])
+(;B[pb];W[pa];B[qa];W[ra];B[sa];W[qa])
+(;B[qa];W[pb];B[ob];W[pa];B[ra];W[na])
+(;B[ra];W[pb];B[ob];W[pa])
+(;B[sa];W[pb];B[ob];W[pa])
+(;B[na];W[ob]
+(;B[ma];W[lb])
+(;B[pb];W[pa];B[qa];W[ra];B[sa];W[qa])))

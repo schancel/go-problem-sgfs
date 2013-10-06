@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[3d]DP[9]SO[kennabee]CO[6]AW[cb]AW[cc]AW[dc]AW[cd]AW[ce]AW[cg]AW[bh]AW[bg]AW[dg]AW[ai]AW[bj]AW[bk]AW[ck]AW[dk]AW[ek]AW[di]AW[ei]AW[fj]AW[fi]AW[fh]AW[eh]AW[fg]AW[ff]AB[db]AB[ec]AB[fb]AB[gc]AB[hb]AB[ic]AB[de]AB[dd]AB[ed]AB[ee]AB[ef]AB[eg]AB[fe]AB[gf]AB[gh]AB[gj]AB[gi]AB[gg]AB[fk]AB[fl]AB[el]AB[dl]AB[cl]AB[cm]AB[cn]AW[dm]AW[em]AW[fm]AB[dn]AB[en]AB[eo]AW[do]AW[co]AW[bo]AW[bp]AW[cr]AW[cq]AB[cp]AB[dp]AB[dq]AB[dr]AB[eq]AW[ep]AW[fp]AW[fq]AW[gq]AB[gm]AB[hm]AW[gl]AW[gk]AW[hl]AW[im]AW[ik]AW[kj]AW[kk]AW[kl]AW[km]AW[lk]AW[lm]AW[mm]AW[nm]AW[om]AW[pm]AB[qm]AB[qn]AB[qo]AB[qp]AB[rp]AB[pp]AW[pq]AW[qq]AW[rq]AW[sr]AB[rr]AB[rs]AW[pr]AW[ps]AW[or]AB[os]AB[nr]AB[mr]AB[nq]AB[oq]AB[nn]AB[no]AW[op]AW[oo]AW[po]AB[np]AW[lo]AW[mo]AB[mp]AB[lp]AB[lq]AB[kq]AW[lr]AW[kr]AW[jr]AW[jq]AW[jp]AW[kp]AB[ko]AB[jo]AB[io]AB[ho]AB[go]AB[gp]AW[hp]AW[ip]AB[hq]AB[ir]AB[hj]AB[ij]AB[jj]AW[ii]AW[ih]AB[jh]AB[kh]AB[kg]AB[kf]AB[jf]AB[if]AB[ig]AW[ge]AW[gd]AW[fd]AW[hd]AW[hc]AW[id]AW[jd]AB[jc]AB[kc]AB[kb]AB[kd]AB[lc]AB[ld]AB[md]AB[nd]AW[ke]AW[je]AW[le]AW[me]AW[ne]AW[lf]AW[lg]AW[lh]AW[li]AW[mh]AW[mj]AB[mi]AB[ni]AB[nh]AB[ng]AB[mg]AB[og]AB[of]AB[oe]AB[pe]AB[pd]AB[qe]AW[od]AW[oc]AW[nc]AW[mc]AB[mb]AW[lb]AW[ob]AW[pa]AB[pb]AB[qb]AB[qc]AB[rb]AB[ra]AW[pc]AW[qd]AW[rd]AW[rc]AW[sc]AW[sb]AW[re]AB[se]AB[rf]AB[rg]AB[sg]AB[sh]AB[si]AB[ri]AB[qh]AB[qg]AW[qi]AW[rj]AW[sj]AW[pi]AW[ph]AW[pg]AW[pf]AW[qf]AW[oh]AB[oi]AB[pj]AB[pk]AB[ol]AB[nk]AB[nj]AB[mk]AB[ml]AB[ll]AW[nl]C[In real game white win because black  didn't see this sequence. (3 handicap game)]LB[lr:2]LB[ip:4]LB[mr:3]LB[hq:1]LB[gp:5]LB[gq:6]AP[goproblems]
+(;B[gr];W[fr]C[In real game Black play at (F5)]
+(;B[js]
+(;W[ks]C[CHOICE];B[is];W[hs]
+(;B[ms];W[gs];B[ls];W[hr];B[iq]C[White play at 2(M2) exchange with Black 3(n2) first it's not good.RIGHT])
+(;B[hr];W[gs];B[fs];W[gs];B[es]C[RIGHT]))
+(;W[gs]C[CHOICE];B[ls];W[hr];B[ks];W[iq];B[hq]C[RIGHT])
+(;W[ms]C[CHOICE]
+(;B[iq];W[ns];B[ls];W[ks];B[ls]C[RIGHT])
+(;B[ns];W[hs]
+(;B[is];W[ks];B[ls])
+(;B[ls];W[is]
+(;B[gs];W[ks];B[hr];W[fs];B[js];W[is])
+(;B[hr];W[ks];B[gs];W[fs];B[js];W[is])))
+(;B[ks];W[ls];B[is];W[ns])))
+(;B[fo]C[];W[gs];B[hs];W[hr];B[sp]C[FORCE];W[is];B[sq]C[FORCE];W[ns];B[ms]C[FORCE];W[hn];B[gn]C[FORCE];W[in];B[bn]C[FORCE];W[mn];B[kn]C[FORCE];W[ls];B[qr]C[FORCE];W[on];B[os]C[FORCE];W[ki];B[qs]C[FORCE];W[ji])
+(;B[hs];W[js]
+(;B[ls];W[fs])
+(;B[fs];W[es];B[fo];W[gs]C[Not good enough. ^-^]))
+(;B[ls];W[is]
+(;B[hs];W[iq];B[js];W[hr])
+(;B[js];W[hs];B[hr];W[ks];B[gs];W[fs];B[js];W[is]
+(;B[ms]C[Seki but not so long.];W[hn];B[gn];W[in])
+(;B[hn])
+(;B[in])))
+(;B[ks];W[js];B[is];W[hs]
+(;B[ls];W[ms];B[ls];W[gs];B[ns];W[hr])
+(;B[hr];W[ls];B[gs];W[fs];B[ms]C[Seki but not good enough for Black];W[hn];B[gn];W[in]))
+(;B[fs];W[es]
+(;B[gs];W[hs])
+(;B[hs];W[gs])))
+(;B[nb]C[White already die without this move.])
+(;B[na]C[White already die without this move.])
+(;B[oa]C[White already die without this move.])
+(;B[sp];W[sq]C[]
+(;B[ns];W[hr]LB[qs:a];B[qs];W[on]LB[qr:b];B[qr];W[ss]LB[rr:c];B[rr];W[mn]LB[qs:d];B[qs];W[ls]LB[rs:e];B[rs];W[qr];B[rs];W[ms])
+(;B[qs];W[hr];B[ns];W[ls])
+(;B[qr];W[hr];B[ns];W[ls])
+(;B[ss];W[hr];B[ns];W[ls]))
+(;B[fo];W[hr])
+(;B[qj];W[hr]))

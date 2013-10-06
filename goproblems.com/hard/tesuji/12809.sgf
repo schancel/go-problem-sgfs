@@ -1,0 +1,162 @@
+(;GE[tesuji]DI[6d]DP[3]SO[Clydevil]CO[0]AW[cq]AW[dp]AW[dn]AW[fn]AW[fm]AW[go]AW[gp]AW[gq]AW[iq]AW[hq]AW[jn]AW[jo]AW[jp]AB[po]AB[fo]AB[fp]AB[fq]AB[ip]AB[hp]AB[ho]AB[gn]AB[hm]AB[jq]AB[kq]AB[kp]AB[ko]AB[dr]C[Find how Han Zenki 7p managed to get out this hell. Please do not play any forcing moves on the top black stones.]AP[goproblems]
+(;W[fr];B[er]
+(;W[gs];B[eq]
+(;W[jr];B[hr]
+(;W[ir]
+(;B[kr]
+(;W[ks]
+(;B[js]
+(;W[ls];B[lr]
+(;W[ms];B[mr];W[ns];B[nr];W[os];B[or];W[ps];B[pr];W[qs]
+(;B[qr];W[rs];B[rr]
+(;W[is]
+(;B[sr]C[CHOICE]
+(;W[eo];B[ss]
+(;W[cr];B[es]
+(;W[ep];B[fs];W[gr];B[js];W[ks];B[ls];W[dq];B[js];W[ds]C[Congratulations! You have found the scrawling tesuji that win a liberty to avoid the ko.  See source to get the real pro game.RIGHT])
+(;W[dq]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[js];B[es]
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS])
+(;W[cr];B[fs]C[Strange plan.])))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS]))
+(;B[fs]C[CHOICE];W[es];B[ds]
+(;W[eo];B[sr]
+(;W[cr];B[ss]
+(;W[ep];B[js];W[ks];B[ls]
+(;W[dq];B[fs];W[gr];B[js];W[es]C[Yeah! if black plays this way there is an interresting double ko pattern that white wins unconditionnaly.RIGHT])
+(;W[fs];B[hs];W[gr];B[hr];W[dq]C[RIGHT]))
+(;W[dq]C[NOTTHIS]))
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])))
+(;W[ss];B[sr]C[Oops.])
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ss]C[Black is faster.]))
+(;B[rs]C[If black has a very large number of ko threats he can play this way, but risks about 20 points more.];W[qr];B[qq];W[rr];B[sr]C[];W[ss];B[nk]LB[nl:A]C[Play at A to answer the first threat.];W[nl];B[rs];W[rq];B[rp];W[ss];B[ok]LB[ol:A]C[Play at A to answer the threat.];W[ol];B[rs];W[is];B[sq];W[ss];B[pk]LB[pl:A]C[Play at A to answer the threat.];W[pl];B[rs]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[js];W[ks];B[es]
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS])
+(;W[cr];B[fs];W[gr];B[ls];W[ep];B[js]C[Ko again.  Black can play this variation if he has a very large number of ko threats, but risks about 20 points more on the right.RIGHT]))))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ms]C[Black is faster.])
+(;W[is];B[ms]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[js];W[ks];B[ls]
+(;W[cr];B[es];W[ep];B[fs];W[gr];B[js]C[Only a painful 45 points ko.])
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS]))))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ls];W[is];B[ks]
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS])
+(;W[cr];B[es]
+(;W[dq]C[NOTTHIS])
+(;W[ep];B[fs]C[Black is faster.]))))
+(;B[lr]C[If someone knows why the professional did not play there, I would be glad to see it. (do not forget black F1 tesuji).];W[hs];B[js];W[cr];B[fs];W[gr]
+(;B[ds]C[RIGHT])))
+(;W[js];B[hs]
+(;W[ks];B[lr]C[Pushing like this cannot give you extra liberty, black will only play on the second line. So stop it now please.]
+(;W[eo];B[es]
+(;W[cr];B[fs];W[gr];B[ls])
+(;W[dq]C[NOTTHIS])
+(;W[ep]C[NOTTHIS]))
+(;W[ls]C[NOTTHIS])
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ks]
+(;W[cr];B[es]
+(;W[ep];B[fs]C[Black is faster.])
+(;W[dq]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])))
+(;W[hs];B[js]
+(;W[eo];B[es]
+(;W[cr];B[fs]
+(;W[ep];B[ks];W[dq];B[gr];W[fr];B[gr]C[Black is faster.])
+(;W[gr];B[ks])
+(;W[dq]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[js]C[Black is faster.]))
+(;B[lr];W[cr];B[es];W[eo]
+(;B[fs];W[gr];B[kr];W[ep];B[js];W[dq]C[White is faster.RIGHT])))
+(;W[gr];B[kr];W[ir];B[js])
+(;W[is];B[gr]))
+(;W[hr];B[jr]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[is];W[hs];B[es]C[Black is faster.]))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ir]C[Black is faster.]))
+(;W[gr];B[eq]
+(;W[jr];B[kr]
+(;W[hs];B[ir];W[js];B[fs];W[ks];B[ls];W[is];B[lr]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[es]))
+(;W[ir];B[hs]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[fs]))
+(;W[is];B[ks]
+(;W[hr];B[js])
+(;W[hs];B[js];W[ir];B[fs])
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[js];W[ir];B[fs]))
+(;W[js];B[ks]
+(;W[hs];B[ir];W[is];B[fs])
+(;W[ir];B[hs]
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[fs]))))
+(;W[ep]C[NOTTHIS])
+(;W[dq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[eo];B[ir]LB[fs:1]LB[gs:2]LB[hr:3]LB[ep:1]LB[dq:2]LB[cr:3]LB[ds:4]LB[es:5])
+(;W[ir];B[hs]C[Black is faster.]))
+(;W[fs];B[ir])
+(;W[jr];B[gr]C[You are in big trouble.]))
+(;W[jr];B[fr]C[You are in big trouble.])
+(;W[hn]C[NOTTHIS])
+(;W[hl]C[NOTTHIS])
+(;W[eq];B[gr])
+(;W[hr];B[fr]C[:(])
+(;W[hs];B[fr]C[:(])
+(;W[im];B[hl]C[There is nothing there and it is a very bad move on the outside.])
+(;W[il];B[hl]C[There is nothing there and it is a bad move on the outside.]))

@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[8]AB[rh]AB[qh]AB[ph]AB[oi]AB[oj]AW[ri]AW[rj]AB[pj]AB[pk]AB[qk]AB[rl]AB[ql]AB[sl]AW[rg]AW[qg]AW[pg]AW[og]AW[oh]AW[ok]AW[nk]AW[lk]AW[mk]AW[mh]AW[li]AW[pl]AW[ol]AW[pm]AW[qm]AW[rm]AW[sm]AW[lh]C[Tenuki(at Q16) or Save your group.FORCE]LB[pd:T]AW[rf]AW[sf]AP[goproblems]
+(;B[pd]C[Nope - Alive.])
+(;B[sh];W[qi]C[FORCE]
+(;B[pi];W[qj]C[Sente seki - Nice! ;) (Thanks, Spirit)FORCERIGHT])
+(;B[qj];W[pi]LB[sh:x]LB[rh:x]LB[qh:x]LB[ph:x]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.FORCE])
+(;B[rk]C[];W[pi]LB[ph:x]LB[qh:x]LB[rh:x]LB[sh:x]C[The marked group is captrued due, to it having less liberties.])
+(;B[sj];W[pi]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.]LB[ph:x]LB[qh:x]LB[rh:x]LB[sh:x])
+(;B[sk];W[pi]LB[ph:x]LB[qh:x]LB[rh:x]LB[sh:x]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.])
+(;B[si]C[];W[pi]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.]LB[ph:x]LB[qh:x]LB[rh:x]LB[sh:x]LB[si:x]))
+(;B[si];W[qi]C[FORCE]
+(;B[pi];W[qj]C[Black's dead. (If he tries to take, it turns into a bulky five, in no time, and bam..;)])
+(;B[qj];W[pi]LB[ph:x]LB[qh:x]LB[rh:x]C[The marked group is captrued due, to it having less liberties.])
+(;B[rk];W[pi]C[The marked group is captrued due, to it having less liberties.]LB[ph:x]LB[qh:x]LB[rh:x])
+(;B[sj];W[pi]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.]LB[ph:x]LB[qh:x]LB[rh:x])
+(;B[sk]C[Dead in gote - Is it the least optimal solution? :)])
+(;B[sh];W[pi]LB[ph:x]LB[qh:x]LB[rh:x]LB[sh:x]LB[si:x]C[The marked black stones, are captured, or white makes a bulky 5 - Either way, dead.]))
+(;B[sj];W[sh]C[White connected  outside, and black's dead.])
+(;B[sk];W[sh]C[White connected  outside, and black's dead.])
+(;B[rk];W[sh]C[White connected  outside, and black's dead.])
+(;B[qj];W[sh]C[White connected  outside, and black's dead.])
+(;B[qi];W[sh]C[White connected  outside, and black's dead.])
+(;B[pi];W[sh]C[White connected  outside, and black's dead.]))

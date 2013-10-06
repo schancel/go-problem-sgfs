@@ -1,0 +1,65 @@
+(;GE[life and death]DI[4d]DP[8]SO[kaf]CO[9]AB[bq]AB[cr]AB[dq]AB[dp]AB[do]AB[go]AB[hp]AB[hn]AB[ip]AB[jp]AB[jq]AB[jr]AB[js]AW[eq]AW[ep]AW[fp]AW[gp]AW[hq]AW[iq]AW[ir]AW[is]AB[fq]C[black to kill]AP[goproblems]
+(;B[gr]
+(;W[gq]
+(;B[es];W[fr]
+(;B[gs]
+(;W[fs]C[CHOICE];B[er]C[RIGHT])
+(;W[er];B[fs]C[RIGHT]))
+(;B[fs];W[gs];B[hs];W[hr];B[gs];W[ds])
+(;B[er];W[gs]))
+(;B[er];W[fr]
+(;B[fs];W[gs]
+(;B[fq]C[ko is not a solutionNOTTHIS])
+(;B[hs];W[hr];B[fq]C[ko]))
+(;B[gs];W[es]
+(;B[dr];W[hs];B[ds];W[hr])
+(;B[ds]C[ko]))
+(;B[es]))
+(;B[fr];W[er]
+(;B[es];W[ds]
+(;B[fs];W[hr];B[gs];W[hs];B[fr];W[fs];B[gr];W[dr])
+(;B[dr];W[fs])
+(;B[gs];W[dr]C[a '10000-year ko']))
+(;B[fs];W[es]
+(;B[gs]C[seki])
+(;B[hs];W[hr])
+(;B[fo];W[gs]))
+(;B[gs];W[es]C[seki]))
+(;B[fs];W[fr]
+(;B[ds];W[gs])
+(;B[dr];W[es])
+(;B[es])
+(;B[er]))
+(;B[ds];W[fr];B[fs]))
+(;W[fr];B[gs]
+(;W[gq];B[es]C[RIGHT])
+(;W[er];B[gq]C[RIGHT])))
+(;B[er];W[fr]
+(;B[gr];W[gq])
+(;B[fs];W[gr];B[gs];W[hs])
+(;B[gs];W[gr]))
+(;B[fr];W[er]
+(;B[gq];W[gr])
+(;B[gr];W[gq]C[seki at most])
+(;B[fs];W[es]
+(;B[gq];W[gr])
+(;B[gr];W[gq]C[seki at most]))
+(;B[es];W[ds]
+(;B[fs];W[dr]
+(;B[gq];W[gr])
+(;B[gr];W[gq]))
+(;B[gs];W[gr];B[dr];W[hs];B[cs];W[gq])
+(;B[dr];W[fs]
+(;B[gr];W[gq])
+(;B[gs];W[gr];B[es];W[hs])))
+(;B[gs];W[gr];B[es];W[ds]))
+(;B[fs];W[fr]
+(;B[gr];W[gq])
+(;B[es];W[gr])
+(;B[er]))
+(;B[es];W[er]
+(;B[fs];W[ds]
+(;B[dr];W[fr];B[gr];W[gs])
+(;B[fr]))
+(;B[fr]))
+(;B[gq];W[fr]))

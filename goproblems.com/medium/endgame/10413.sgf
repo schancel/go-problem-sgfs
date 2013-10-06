@@ -1,0 +1,31 @@
+(;GE[endgame]DI[2k]DP[22]SO[Field Mouse]CO[9]AB[gr]AB[fq]AB[er]AB[en]AB[fn]AB[dn]AB[cn]AB[bn]AB[ao]AB[bo]AW[an]AW[am]AW[bm]AW[cm]AW[dm]AW[em]AW[fm]AW[gm]AW[gn]AW[go]AW[gp]AW[gq]AW[hr]AW[ir]AW[ip]AW[kq]AW[lr]AW[ms]AW[ls]AB[nr]AB[ns]AB[mr]AB[mq]AW[lq]AB[lp]AB[kp]AW[jp]AW[ko]AW[kn]AB[lo]AB[lm]AW[km]AW[ln]AB[mm]AB[mn]AB[mo]C[Play the best endgame, sente is not important! Japanese rules.]AB[cq]AP[goproblems]
+(;B[gs];W[fo]
+(;B[eo];W[fp]
+(;B[ep];W[hs]C[Congratulations, this is the best you could do!RIGHT])
+(;B[hs];W[eq];B[fr];W[ep];B[is];W[dq];B[dr];W[cp];B[bp];W[jr]C[Black loses a few points.]))
+(;B[ep]C[E5 is one point better.])
+(;B[hs];W[ep];B[is];W[dq]
+(;B[dr];W[cp];B[bp];W[jr]C[Worse than the solution.])
+(;B[jr];W[dr]
+(;B[jq];W[cr]C[Black did not end well.])
+(;B[cr];W[jq];B[ds];W[cp]
+(;B[bp];W[eq]C[Bad for black.])
+(;B[eq];W[bp]C[Very painful for black.])))))
+(;B[hs];W[is]
+(;B[gs];W[ep]
+(;B[fp];W[fo]
+(;B[eo];W[fr]
+(;B[eq];W[es]C[Very painful.])
+(;B[fs];W[eq]C[Ouchie.]))
+(;B[dq];W[fr]
+(;B[fs];W[eq]C[Black loses much.])
+(;B[eq];W[es];B[ds];W[fs];B[eo]C[Very bad endgame for black :o(])))
+(;B[dq];W[eq]C[Black can't get a goot result by playing like this.]))
+(;B[fp];W[fo];B[eo];W[gs]
+(;B[fs];W[fr]C[Black cannot make more points than in the solution by playing like this.])
+(;B[fr];W[fs];B[es];W[hs]C[Worse than the solution.])))
+(;B[fp];W[fo];B[eo];W[gs]
+(;B[fs];W[fr]C[Ko. Even if white loses it and connects at H1, this will be still one point worse than the solution.])
+(;B[fr];W[fs];B[es]C[];W[hs]C[Two points worse than the solution.]))
+(;B[fo];W[fp];B[ep];W[gs];B[fs];W[fr]C[Very hard ko for black. And even if white loses it and connects at H1, the result will still be one point worse than the solution.])
+(;B[fs];W[fo];B[eo];W[fp];B[ep];W[hs];B[gs]C[You didn't need to play the square marked stone. In some rules ( for example ING rules) it would do no harm in this situation (when sente is not important), but in Japanese rules it is minus one point.]MA[fs]))

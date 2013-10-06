@@ -1,0 +1,12 @@
+(;GE[life and death]DI[7k]DP[43]SO[Schizoid]CO[8]AB[dd]AB[dc]AB[ch]AB[cg]AB[cf]AB[ce]AB[cc]AB[bg]AB[bd]AB[ai]AB[ah]AB[ag]AB[af]AB[ae]AB[fi]AB[if]AB[ie]AB[ic]AB[he]AB[ge]AB[gd]AB[gb]AB[ga]AB[fe]AB[fc]AB[ef]AB[ed]AB[ec]AB[dg]AB[de]AW[ei]AW[eg]AW[eb]AW[di]AW[dh]AW[db]AW[ci]AW[bi]AW[bh]AW[bc]AW[bb]AW[ad]AW[gf]AW[gg]AW[ha]AW[gc]AW[fh]AW[ff]AW[fb]AW[hb]AW[hc]AW[hd]AW[hf]AW[id]AW[ig]AW[eh]C[White mistakenly answers black F1 with white E2. What can black do?]SZ[9]AW[cb]AB[ca]AW[ac]
+(;B[gi];W[gh]C[Nope, White is safe.])
+(;B[hh];W[gh]C[]
+(;B[hg];W[hi];B[ih]C[Black does capture something but loses the game])
+(;B[ih];W[hg])
+(;B[gi];W[hi]))
+(;B[gh];W[gi]
+(;B[hh]
+(;W[ih];B[hi];W[hg];B[fi]C[Yep! There are no real threats for white so Black kills and wins!RIGHT])
+(;W[hi];B[ih]C[RIGHT]))
+(;B[ih];W[hh]C[This ko is too small to win the game.]))
+(;B[ih];W[hh]C[This ko is too small to win the game.]))

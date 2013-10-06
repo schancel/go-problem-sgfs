@@ -1,0 +1,30 @@
+(;GE[life and death]DI[3d]DP[10]SO[MrMoto]CO[0]AB[fs]AB[fr]AB[gr]AB[hr]AB[ip]AB[io]AB[jo]AB[ko]AB[lo]AB[lp]AB[lq]AB[mq]AB[nq]AB[kr]AW[pq]AW[oq]AW[pr]AW[ps]AW[es]AW[er]AW[eq]AW[gq]AW[fq]AW[gp]AW[ho]AW[in]AW[jn]AW[kn]AW[ln]AW[mo]AW[oo]AW[jp]AW[kp]AW[kq]AW[jq]AW[jr]AW[js]AW[is]AW[ms]C[Black needs your help here ... be careful!]AW[no]AP[goproblems]
+(;B[iq];W[ls])
+(;B[hq];W[ls])
+(;B[lr];W[hq];B[iq];W[ir];B[ks];W[hs];B[gs];W[ir]C[;(])
+(;B[ls];W[hq];B[iq];W[ir]C[;(])
+(;B[ks];W[lr])
+(;B[hp];W[ls])
+(;B[ir];W[ls])
+(;B[mr];W[ns]
+(;B[ls];W[hq];B[iq];W[ir]C[;(])
+(;B[ks];W[lr])
+(;B[lr];W[hq];B[iq];W[ir];B[ks];W[hs];B[gs];W[ir]C[;(]))
+(;B[nr];W[lr])
+(;B[ns]
+(;W[nr]C[CHOICE]
+(;B[lr];W[hq];B[iq];W[ir];B[ks];W[hs];B[gs];W[ir]C[;(])
+(;B[ks];W[lr])
+(;B[mr];W[os]
+(;B[lr];W[hq];B[iq];W[ir];B[ks];W[hs];B[gs];W[ir]C[;(])
+(;B[ls];W[iq];B[hq];W[hp];B[hs];W[ns]C[;(])
+(;B[ks];W[lr]))
+(;B[ls]
+(;W[iq]C[CHOICE];B[hq];W[hp];B[hs];W[os];B[lr];W[mr];B[ks]C[Well done!  (but w J3 was a mistake; if she didn't want to fight a ko she could have at least saved her stones with H3.)RIGHT])
+(;W[hq]C[CHOICE];B[iq];W[ir]
+(;B[lr];W[os];B[ks];W[hs];B[gs];W[ir]C[So close ...])
+(;B[mr];W[hs]
+(;B[ks];W[gs];B[or]C[Well done!  (W can save her stones this way if she doesn't want to start a ko fight)RIGHT])
+(;B[or]C[Well done! (W can save her stones this way if she doesn't want to start a ko fight)RIGHT])))))
+(;W[iq]C[CHOICE];B[hq];W[hp];B[hs];W[lr];B[mr];W[ks];B[ls]C[Well done!  Ko for life.RIGHT])
+(;W[lr]C[White should not play like this; it makes a ko too early and white will need many ko threats.];B[mr];W[ks];B[iq]C[RIGHT])))

@@ -1,0 +1,83 @@
+(;GE[life and death]DI[5d]DP[6]SO[IlanKeshet]CO[0]AW[pp]AW[qm]AW[mq]C[Black to live unconditionally in the corner, please start by playing A]LB[qq:A]AP[goproblems];B[qq]
+(;W[pq]LB[qp:B]C[Now please play B];B[qp];W[qo]
+(;B[ro];W[rn]
+(;B[po];W[qn];B[pr];W[or]
+(;B[rr];W[ps]
+(;B[sp]
+(;W[rs]
+(;B[qr];W[qs]
+(;B[sr];W[rq]C[And if w resists?]
+(;B[oq];W[op]
+(;B[nq];W[nr];B[np];W[oo]
+(;B[no];W[on]
+(;B[ss]C[RIGHT])
+(;B[mr];W[lr]C[RIGHT]
+(;B[os];W[ns];B[ss]C[RIGHT])
+(;B[ss]C[RIGHT])))
+(;B[ss]C[RIGHT])
+(;B[mr];W[lr];B[ss]C[RIGHT]))
+(;B[ss]C[RIGHT]))
+(;B[ss];W[os];B[oq];W[op];B[nq];W[nr];B[np];W[oo]
+(;B[mr]C[RIGHT])
+(;B[no];W[on];B[mr]C[RIGHT])))
+(;B[oq];W[op]
+(;B[nq];W[nr];B[np];W[oo]
+(;B[sr];W[rq])
+(;B[no];W[on];B[sr];W[rq]C[And if w resists?]))
+(;B[sr]C[RIGHT])))
+(;B[sr];W[qs]))
+(;W[sn]
+(;B[sr];W[rp]
+(;B[rq];W[so]
+(;B[rp];W[rs];B[qr];W[qs])
+(;B[qs];W[qr];B[rs]))
+(;B[qs]
+(;W[so];B[os]C[RIGHT])
+(;W[qr];B[rq];W[so];B[rs]C[Double koRIGHT];W[rp];B[pr]C[w can't connect at P1 because of the weakness at P3 (resulting in a ko there as well)RIGHT])))
+(;B[rq];W[so];B[qr];W[sr];B[qs];W[ss])
+(;B[rs];W[sr];B[sq];W[rp])
+(;B[qs];W[qr];B[rs]
+(;W[sr]C[Only ko for life :(]))))
+(;B[qs];W[qr]C[Ko :(])
+(;B[oq];W[qr];B[op];W[pr])
+(;B[rp];W[rs];B[qr];W[qs]
+(;B[sr];W[nq])
+(;B[sq];W[so])))
+(;B[qr];W[rp];B[rq];W[so]
+(;B[oq];W[op];B[nq];W[nr];B[np];W[oo]C[Black is locally dead :-(])
+(;B[op];W[oq])
+(;B[nr];W[nq];B[os];W[oq];B[mr];W[lq];B[lr];W[kr]C[Black is dead locally :(]))
+(;B[oq]))
+(;B[pr];W[or]
+(;B[rr];W[ps]
+(;B[sp];W[rs]
+(;B[qr];W[qs]
+(;B[po];W[qn];B[sr])
+(;B[sr];W[rq]C[And if w resists?];B[po];W[qn]))
+(;B[po];W[qn])
+(;B[sr];W[rq];B[qr];W[qs]))
+(;B[po];W[qn])
+(;B[qs];W[qr]C[Ko is not enough :(])
+(;B[rp];W[rs];B[qr];W[qs]
+(;B[sq];W[so])
+(;B[so];W[sq])))
+(;B[po];W[qn]
+(;B[rr];W[ps];B[sp];W[rs];B[sr]C[];W[qs]
+(;B[qr])
+(;B[rq]C[RIGHT]))
+(;B[oq]C[];W[op]
+(;B[nq];W[qr])
+(;B[rr];W[ps];B[sp];W[rs];B[qr];W[qs])))
+(;B[qr];W[rp];B[rq];W[so];B[po];W[qn]))
+(;B[rp];W[pr]
+(;B[rr];W[sq]
+(;B[qr];W[qs]
+(;B[rs];W[sr]C[Dead :-(])
+(;B[so];W[rs]C[Dead :-(]))
+(;B[rs];W[sr]C[Dead :-(]))
+(;B[qr];W[qs];B[rs];W[sr];B[so];W[sq]C[Dead :-(])))
+(;B[rr];W[pr]
+(;B[ro];W[rn])
+(;B[rp];W[sq]))
+(;B[pr];W[or];B[ro];W[rn]))
+(;W[rr]))

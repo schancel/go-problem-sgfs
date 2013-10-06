@@ -1,0 +1,85 @@
+(;GE[life and death]DI[12k]DP[55]SO[santa c]CO[8]C[White attacks you, just because you're trying to live in his territory. DON'T GET CAPTURED!!!]AW[bd]AW[cd]AW[de]AW[df]AW[dg]AW[dh]AW[di]AW[cj]AW[bj]AB[bi]AB[ch]AB[cg]AB[bg]AB[cf]AB[be]AB[ci]AW[af]LB[af:A]AW[bl]AW[bb]AP[goproblems]
+(;B[ae];W[ah]
+(;B[ai];W[ag]
+(;B[ce]C[The sweet smell of a seki in the spring.. Nice ;)RIGHT])
+(;B[bf]C[Black's dead - Dead shape.])
+(;B[bh]C[Black's dead - Dead shape.])
+(;B[aj];W[ce]C[Black's dead - Dead shape. (White can push at A for a black B response - Dead shape.)]LB[ad:A]LB[bf:B])
+(;B[ad];W[ce]C[Black's dead - Dead shape. (White can push at A for a black B response - Dead shape.)]LB[ac:A]LB[bf:B]))
+(;B[ag];W[ai]C[Black's dead - Why-o-why?! :'(])
+(;B[bh]C[White can actually tenuki. Black's dead.]LB[eg:T];W[eg]C[White tenukied.]LB[eg:T]
+(;B[ai];W[ag]C[Black's dead.])
+(;B[ag];W[ai];B[aj];W[ai]C[Black's dead.])
+(;B[bf];W[ai];B[ag]C[White can tenuki again.]LB[fg:T];W[fg]C[White tenukied.];B[aj];W[ai]C[Black's dead.])
+(;B[ce]C[NOTTHIS])
+(;B[ad]C[NOTTHIS])
+(;B[aj]
+(;W[ag]C[Black's dead.])
+(;W[ai]
+(;B[ag];W[ai]C[Black's dead.])
+(;B[bf]C[White can tenuki again.]LB[fg:T];W[fg];B[ag];W[ai]C[Black's dead.]))))
+(;B[bf]C[White can actually tenuki. Black's dead.]LB[eg:T];W[eg]C[White tenukied.]
+(;B[ag];W[ai]C[Black's dead.])
+(;B[ai];W[ag]C[Black's dead.]))
+(;B[ce]C[NOTTHIS])
+(;B[ad]C[NOTTHIS])
+(;B[aj]C[NOTTHIS]))
+(;B[ag]
+(;W[ae]C[Black's dead.CHOICE])
+(;W[ai]
+(;B[ae];W[ah]C[Black's dead.])
+(;B[ah]C[];W[ae]C[Black's dead.CHOICE])
+(;B[ad]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[bf]C[NOTTHIS])
+(;B[bh]C[NOTTHIS]))
+(;W[ah]
+(;B[ae];W[ai]C[Black's dead.CHOICE])
+(;B[ai];W[ae]C[Black's dead.])
+(;B[bh]C[NOTTHIS])
+(;B[aj]C[NOTTHIS])
+(;B[bf]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[ad]C[NOTTHIS])))
+(;B[ah];W[ae]C[Black's dead.])
+(;B[ai];W[ae]C[Black's dead.])
+(;B[aj]C[NOTTHIS])
+(;B[bh];W[ae]C[Black's dead.])
+(;B[bf]
+(;W[ae]C[Black's dead.CHOICE])
+(;W[ah]
+(;B[ai]
+(;W[ae]C[Black's dead.CHOICE])
+(;W[ag]
+(;B[ae]C[Black's dead.])
+(;B[ad]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[bh]
+(;W[ad]
+(;B[ae];W[ag]C[Black's dead.])
+(;B[ce]C[NOTTHIS])
+(;B[aj]C[NOTTHIS]))
+(;W[ae]
+(;B[ad]C[White can freely tenuki..]LB[eg:T];W[eg]
+(;B[ae];W[ag]C[Black's dead.])
+(;B[ag];W[ae]C[Black's dead.])
+(;B[af]C[NOTTHIS])
+(;B[ah]C[NOTTHIS])
+(;B[aj]C[NOTTHIS])
+(;B[ce]C[NOTTHIS]))
+(;B[aj]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])))
+(;B[aj]C[NOTTHIS])))
+(;B[ag]C[White can freely tenuki..]LB[eg:T];W[eg]
+(;B[ae];W[ai]C[Black's dead.])
+(;B[ai];W[ae]
+(;B[ad];W[ae]C[Black's dead.])
+(;B[ce]C[NOTTHIS])
+(;B[aj]C[NOTTHIS])
+(;B[bh]C[NOTTHIS]))
+(;B[bh]C[NOTTHIS])
+(;B[aj]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[ad];W[ai]C[Black's dead.]))))
+(;B[ce];W[ae]C[Black's dead.])
+(;B[ad];W[ae]C[Black's dead.]))

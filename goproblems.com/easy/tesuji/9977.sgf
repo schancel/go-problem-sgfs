@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[10k]DP[52]SO[vkitzing]CO[7]AB[br]AB[bq]AB[bp]AB[cq]AB[dp]AB[ep]AB[eq]AB[fr]AB[gr]AB[gq]AW[ar]AW[bs]AW[cr]AW[dr]AW[dq]AW[er]AW[ds]AW[fq]AW[fp]AW[gp]AW[hp]AW[ip]AW[hq]C[Find  the best ko]AP[goproblems]
+(;B[aq];W[hr]
+(;B[as];W[gs]C[too slow :-(CHOICE])
+(;B[fs];W[hs];B[as];W[gs]C[:-( too slowCHOICE])
+(;B[hs];W[fs]C[:-( failureCHOICE])
+(;B[gs];W[hs]C[black is dead :-(CHOICE]))
+(;B[gs];W[hr];B[es];W[fs]C[nearly perfect. The only mistake is that black took the burden to find the first ko thread.CHOICE])
+(;B[fs];W[hr];B[hs];W[ir];B[aq];W[is];B[as];W[gs]C[this reslult is a double ko which black cannot win :-(CHOICE])
+(;B[es];W[fs]
+(;B[gs];W[hr];B[es]C[Correct! White has to find the first ko threatRIGHT])
+(;B[aq];W[gs];B[hr];W[ir]C[failed :-(CHOICE]))
+(;B[hr];W[ir]
+(;B[aq];W[fs];B[as];W[hs]C[too slow :-(CHOICE])
+(;B[fs];W[hs];B[aq];W[is];B[as];W[gs]C[too slow :-(CHOICE])
+(;B[es];W[fs]C[this time, this trick does not work out :-(CHOICE])
+(;B[gs];W[es]C[to place the white stone at J1 would be a mistake, because black would get her KO.];B[is];W[jr]C[];B[aq];W[js];B[as];W[hs]C[Double ko for white which black cannot win :-(CHOICE])))

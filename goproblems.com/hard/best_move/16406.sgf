@@ -1,0 +1,9 @@
+(;GE[best move]DI[5d]DP[4]SO[santa c]CO[0]AW[ki]AB[ji]AB[kh]AW[jh]AW[jg]AW[kg]AW[kf]AW[jj]AW[jk]AW[jl]AB[kj]AB[lk]AB[ll]AB[kl]AB[mk]AB[mj]AB[mi]AB[ni]AB[nh]AB[mg]AB[mf]AB[lf]AB[nf]AB[of]AW[ng]AW[og]AW[pg]AW[pf]AW[pe]AW[oe]AW[ne]AW[me]AW[le]AW[oh]AW[oi]AW[nj]AW[nk]AW[nl]AW[ml]AW[mm]AW[lm]AW[km]AB[jm]AB[im]AB[il]AB[hl]AB[hk]AB[hj]AB[gj]AB[gi]AB[hg]AB[hf]AB[if]AB[jf]AB[je]AB[ke]C[W managed to create a complication within B territory... B can't afford a reduction!]AP[goproblems]
+(;B[li];W[ii]
+(;B[lg];W[ki];B[lh];W[kk];B[ji]C[Direct ko, nice!RIGHT])
+(;B[ki];W[mh]C[W managed to reduce!])
+(;B[lh];W[lg]LB[mh:1]LB[ki:2]C[W is happy with this ko!])
+(;B[ih];W[ki]C[W is happy with this ko!])
+(;B[ij];W[ki]C[W is happy with this ko!]))
+(;B[ii];W[lh];B[mh];W[kk]C[Right this is easy to miss... B could have got a direct ko instead...]LB[li:1]LB[lj:2])
+(;B[lh];W[ii]C[B cannot prevent Ws reduction now]))

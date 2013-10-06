@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[4d]DP[8]SO[Field Mouse]CO[9]AW[bs]AW[br]AW[cr]AW[cq]AW[dq]AW[eq]AW[er]AW[fr]AW[gs]AW[hq]AW[hr]AW[ip]AW[jp]AW[kp]AW[lp]AW[lr]AW[nr]AW[or]AW[os]AW[oq]AW[pq]AW[pp]AW[po]AW[pn]AW[qo]AW[ro]AW[on]AW[nn]AW[mn]AW[mo]AB[op]AB[no]AB[mp]AB[mq]AB[nq]AB[ps]AB[qs]AB[rr]AB[qq]AB[pr]AB[qp]AB[rp]AB[sp]AB[so]AB[sn]AB[qn]AB[rn]AB[qm]AB[pm]AB[om]AB[nm]AB[mm]AB[lm]AB[ln]AB[lo]AB[ko]AB[jo]AB[io]AB[ho]AB[hp]AB[gp]AB[gq]AB[gr]AB[fq]AB[ep]AB[dp]AB[bp]AB[cp]AB[bq]AB[as]AB[aq]AB[ar]AB[lq]AW[kq]C[Black to play and do something useful. Allways search for the best result !!]LB[lq:1]LB[kq:2]AP[goproblems]
+(;B[kr]
+(;W[mr];B[iq];W[np]C[( Hint: Keep trying to get the best result )]
+(;B[ir]
+(;W[hs]
+(;B[fs];W[es]
+(;B[is];W[ds]C[Oh no. Very nice, but this is not the best result :o(])
+(;B[ds]C[];W[jr]C[Yes you got it! Very useful! You can finish white at all now if you wish (you donÂ´t have to).RIGHT];B[is]C[RIGHT];W[js]C[RIGHT];B[fs]C[RIGHT];W[dr]C[Now! Black to play and capture a lot of stones ;-)RIGHT];B[cs]C[Nice! :o)RIGHT]))
+(;B[is];W[fs]C[This is not very useful :o(])
+(;B[ds];W[fs]C[White has too many liberties.]))
+(;W[ds];B[hs];W[fs]))
+(;B[fs];W[ir]
+(;B[hs];W[ds]C[Useful, but not the best result.])
+(;B[ds];W[es]C[Unuseful :o(])))
+(;W[jr];B[mr];W[ks]
+(;B[ms];W[ls]C[Nice! Useful!RIGHT])
+(;B[ls])))
+(;B[mr];W[ms]C[This was not useful.])
+(;B[iq];W[jr]C[Black failed to do something useful.])
+(;B[jr];W[kr]
+(;B[iq];W[ir])
+(;B[is];W[hs];B[iq];W[jq]))
+(;B[fs];W[jr]
+(;B[ds];W[hs];B[es]C[Black can do better.])
+(;B[hs];W[ds]C[I think black can do a bit better.]))
+(;B[en];W[kr])
+(;B[hs];W[is]
+(;B[mr];W[ms];B[kr];W[np])
+(;B[kr];W[mr];B[iq];W[np];B[ir];W[hs];B[fs];W[es];B[js];W[fs]C[White will get you.]))
+(;B[oo];W[mr])
+(;B[ns];W[mr]))

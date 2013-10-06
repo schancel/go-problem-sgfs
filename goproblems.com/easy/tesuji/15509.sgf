@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[30k]DP[100]SO[TheKirbyGame]CO[0]AB[se]AB[re]AB[qd]AB[pc]AB[qf]AB[pe]AB[oc]AB[ob]AB[na]AB[mb]AW[oa]AW[pa]AW[pb]AW[qc]AW[rb]AW[sc]AW[sd]AW[rd]TR[oa]TR[pa]TR[pb]TR[qc]TR[rb]TR[sc]TR[sd]TR[rd]C[black to kil]AP[goproblems]
+(;B[ra];W[qb]
+(;B[sb];W[sa]C[RIGHT])
+(;B[sa];W[sb])
+(;B[qa];W[sa]))
+(;B[qa];W[qb])
+(;B[qb];W[qa])
+(;B[sb];W[sa])
+(;B[sa];W[ra]))

@@ -1,0 +1,19 @@
+(;GE[best move]DI[5k]DP[32]SO[mishik]CO[0]AB[qk]AB[rk]AB[sk]AB[sj]AB[si]AB[sh]AB[rg]AB[qg]AB[qf]AB[qe]AB[pd]AB[nc]AW[pf]AW[pg]AB[ph]AW[rh]AW[qi]AW[qh]AW[qj]AW[rj]AB[ri]AW[oh]AW[oi]AW[pj]AW[pk]AW[ql]AW[rl]AB[pl]AB[pm]AB[pn]AB[po]AB[on]AB[om]AB[nm]AW[ol]AW[nl]AW[nj]AB[mj]AB[mi]AB[ni]AW[nh]AB[li]AB[ml]AB[ll]AB[lm]AW[mm]AW[mn]AW[mo]AW[nn]AW[oo]AW[op]AW[oq]AW[pp]AB[qp]AB[qq]AB[pq]AW[kn]AW[jp]AB[dp]AB[do]AB[dn]AB[en]AW[fn]AW[eo]AW[ep]AW[dq]AW[eq]AW[cr]AB[cq]AB[bq]AW[ck]AW[dd]AB[me]AB[lf]AW[ne]AW[nk]AP[goproblems]
+(;W[sl];B[sg]AW[nk]AB[lf]AB[me]AW[ne];W[qo];B[qn]
+(;W[ro];B[rn];W[sn]C[];B[rp];W[so];B[sp];W[sm]C[])
+(;W[rn];B[ro];W[qm];B[qo]))
+(;W[qo]
+(;B[qn]
+(;W[sl];B[sg]
+(;W[rn];B[ro];W[qm];B[qo])
+(;W[ro];B[rn];W[sn]C[];B[rp];W[so];B[sp];W[sm]C[]))
+(;W[ro];B[rn]
+(;W[sl];B[sg];W[sn];B[rp];W[so];B[sp];W[sm]C[])
+(;W[sn]
+(;B[sm];W[sl];B[so];W[sg]C[RIGHT])
+(;B[rp];W[so];B[sp]C[RIGHT];W[sm]C[RIGHT];B[rm];W[qm]C[RIGHT])))
+(;W[rn];B[ro];W[qm];B[qo]))
+(;B[ro];W[qn];B[rn]
+(;W[sl];B[sg];W[qm]C[RIGHT])
+(;W[qm]C[RIGHT])))
+(;W[rn];B[rm];W[qo];B[qm]))

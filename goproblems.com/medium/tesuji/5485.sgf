@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[3d]DP[9]SO[nutcase]CO[8]AB[nb][oa][pb][pc][rd][qd][qe][rf][qg][qh]
+AW[qf][pg][pf][pe][pd][ob][oc][qc][jd]SZ[19]
+;W[qb];B[pa]
+(;W[nc];B[mb]
+(;W[na];B[ma];W[qa];B[na]
+(;W[lc];B[rc]C[Wrong.])
+(;W[mc];B[lb]
+(;W[kb];B[lc];W[ld];B[kc];W[jc];B[jb];W[ka];B[ja];W[kd];B[la]
+(;W[kb];B[ka];W[ib]C[RIGHT])
+(;W[ka];B[kb];W[ib]C[RIGHT]))
+(;W[lc];B[kb]C[Wrong.])))
+(;W[mc];B[lb];W[na];B[ma];W[qa];B[na];W[kb];B[lc];W[ld];B[kc];W[jc];B[jb];W[ka]
+;B[ja];W[kd];B[la]
+(;W[kb];B[ka];W[ib]C[RIGHT])
+(;W[ka];B[kb];W[ib]C[RIGHT])))
+(;W[qa];B[na];W[nc];B[mb];W[mc];B[lb]C[Wrong.]))

@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[2k]DP[22]SO[adum]CO[8]AB[il]AB[im]AB[in]AB[jo]AB[ko]AB[ip]AB[iq]AB[hq]AB[gp]AB[fp]AB[eq]AB[dp]AB[cp]AB[dn]AB[cm]AB[dl]AB[em]AB[ek]AB[ej]AB[ei]AW[jl]AW[jm]AW[jn]AW[go]AW[gq]AW[fq]AW[hr]AB[ir]AW[er]AW[dr]AW[cq]AW[fr]AW[gs]AW[di]AW[dj]AW[dk]AW[ck]AW[cl]AB[dh]AB[eh]AW[ch]AW[cg]AW[ik]AW[hl]AW[gi]AW[hh]AW[gg]AW[ji]AW[kh]AB[jh]AB[ig]AB[hg]AB[kg]AB[jf]AW[li]AW[kn]AW[lo]AW[lp]AW[jq]AW[jr]LB[ik:1]LB[hk:A]LB[gm:B]C[white blocks at 1. can black cut at A or should he defend at B?FORCE]AP[goproblems]
+(;B[hk];W[gk]
+(;B[hj]
+(;W[gj]
+(;B[ij];W[jk]
+(;B[gl];W[hm]
+(;B[gm]C[RIGHT])
+(;B[hn];W[gm];B[fl];W[gn]))
+(;B[jj];W[kj];B[ii];W[ih];B[ki];W[hi])
+(;B[ii];W[ih];B[jj];W[kj];B[ki];W[hi]))
+(;B[gl];W[hm]
+(;B[ij]
+(;W[jk]
+(;B[gm];W[hn];B[io]C[RIGHT])
+(;B[hn];W[gm];B[fl];W[gn]))
+(;W[fl];B[gm];W[hn]))
+(;B[gm];W[hn];B[io];W[ij])
+(;B[hn];W[gm];B[fl];W[ij]))
+(;B[ii];W[ij])
+(;B[jk];W[ij])
+(;B[hm];W[gl])
+(;B[hi];W[ii]))
+(;W[gl];B[gj];W[fj];B[fk]C[RIGHT]))
+(;B[hm];W[hj])
+(;B[gl];W[hj]))
+(;B[gm]C[too soft. black could have cut.]))

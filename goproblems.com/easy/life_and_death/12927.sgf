@@ -1,0 +1,8 @@
+(;GE[life and death]DI[15k]DP[60]SO[ccsco]CO[0]AB[oa]AB[na]AB[ma]AB[mb]AB[mc]AB[md]AB[me]AB[ne]AB[oe]AB[pd]AB[qd]AB[qc]AB[qe]AB[re]AW[rd]AW[rc]AW[qb]AW[pc]AW[ob]AW[pa]AW[nb]AW[nc]AW[nd]AW[od]C[B to kill]AP[goproblems]
+(;B[rb]
+(;W[ra];B[sb]C[RIGHT])
+(;W[sb];B[ra]C[RIGHT]))
+(;B[sd];W[sb])
+(;B[ra])
+(;B[sb];W[rb]C[W is alive..])
+(;B[sc];W[sb]C[W lives this way :-/ (and T17 can't escape either)]TR[sc]))

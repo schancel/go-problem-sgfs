@@ -1,0 +1,85 @@
+(;GE[tesuji]DI[2k]DP[23]SO[lok]CO[0]AB[nb]AB[mb]AB[nc]AB[nd]AB[me]AB[nf]AB[lf]AB[lg]AB[kg]AB[jg]AW[lb]AW[mc]AW[kc]AW[jc]AW[le]AW[ke]AW[kf]AW[jf]AW[ig]AW[ie]AW[hf]AB[je]AB[jd]AB[id]AB[ic]AB[ib]AB[jb]AW[he]AW[gd]AW[gc]AW[gb]C[Black to connect.]AP[goproblems]
+(;B[la];W[ka]
+(;B[kb];W[ma]
+(;B[ld];W[kd]
+(;B[lc];W[md];B[lc];W[ld]
+(;B[na];W[if]
+(;B[ja];W[lc];B[la]C[Well done!RIGHT])
+(;B[la]C[]))
+(;B[ja];W[if]
+(;B[na])
+(;B[la])))
+(;B[md];W[lc]
+(;B[na];W[la];B[ja];W[if]C[Black is cut.])
+(;B[ja];W[la];B[na]))
+(;B[na];W[lc]
+(;B[la]C[Ko.])
+(;B[ja];W[la];B[md]))
+(;B[ja];W[lc]
+(;B[la]C[Ko])
+(;B[na])
+(;B[md])))
+(;B[md];W[lc]
+(;B[na];W[la]
+(;B[ja];W[if]C[Black is cut.])
+(;B[ld];W[kd])
+(;B[kd];W[ld]))
+(;B[ja];W[la]
+(;B[na])
+(;B[ld];W[kd])
+(;B[kd];W[ld]))
+(;B[ld];W[kd])
+(;B[kd];W[ld]))
+(;B[kd];W[ld]
+(;B[lc];W[kc]C[Black is cut.])
+(;B[md];W[lc]
+(;B[na];W[la];B[ja];W[if]C[Black is cut.])
+(;B[ja];W[la];B[na])))
+(;B[na];W[lc]
+(;B[la]C[White get a ko.])
+(;B[ja];W[la]
+(;B[kd];W[ld])
+(;B[ld];W[kd])))
+(;B[ja];W[lc]
+(;B[la]C[White get a ko.])
+(;B[na]))
+(;B[lc];W[ld]
+(;B[na];W[la];B[ja];W[lc]C[Black is cut])
+(;B[kd]C[White can play elsewhere.])
+(;B[ja];W[la];B[na])))
+(;B[ld];W[kd])
+(;B[kd];W[ld]
+(;B[kb];W[ma])
+(;B[md];W[lc];B[kb];W[ma]))
+(;B[ma];W[kb])
+(;B[md];W[lc]
+(;B[kb];W[ma])
+(;B[ld];W[kd];B[kb];W[ma])
+(;B[kd]C[NOTTHIS]))
+(;B[ja];W[ma]
+(;B[kb])
+(;B[ld];W[kd]
+(;B[kb])
+(;B[lc];W[kb]))))
+(;B[ld];W[kd]
+(;B[la];W[ka]
+(;B[kb];W[ma])
+(;B[lc];W[kb]))
+(;B[kb];W[la])
+(;B[md];W[lc])
+(;B[lc];W[kb]))
+(;B[kb];W[la]
+(;B[kd];W[ld]
+(;B[lc];W[kc]C[Black is cut])
+(;B[md];W[lc]))
+(;B[ld];W[kd]
+(;B[lc];W[md];B[lc];W[ld]C[Black is cut])
+(;B[md];W[lc])))
+(;B[md];W[lc]
+(;B[la];W[ka])
+(;B[ld];W[kd];B[la];W[ka])
+(;B[kd]C[NOTTHIS]))
+(;B[kd];W[ld]
+(;B[kb];W[la])
+(;B[la];W[ka])
+(;B[md];W[lc];B[la];W[ka])))

@@ -1,0 +1,25 @@
+(;GE[endgame]DI[6k]DP[39]SO[adum]CO[8]AW[qp]AW[qq]AW[qr]AB[rr]AB[qs]AB[pr]AB[pq]AB[pp]AW[po]AW[qn]AW[rm]AW[sl]AB[rl]AB[ql]AB[pl]AW[rk]AW[qk]AB[rp]AB[mq]AB[mp]LB[rp:1]C[save as much territory as possible]AP[goproblems]
+(;W[rq];B[sq]
+(;W[qo];B[sp]
+(;W[ro];B[rs]
+(;W[sr];B[ss];W[so]C[RIGHT])
+(;W[so];B[sr]))
+(;W[so];B[rs];W[sr];B[ss];W[ro]C[RIGHT])
+(;W[rs];B[ss]
+(;W[ro];B[ps];W[so]C[RIGHT])
+(;W[so];B[ps];W[ro]C[RIGHT]))
+(;W[sr];B[ss])
+(;W[ss];B[rs])
+(;W[ps];B[os]C[this exchange doesn't help white]))
+(;W[ro];B[qo])
+(;W[sr];B[qo])
+(;W[rs];B[qo]))
+(;W[ro];B[rq])
+(;W[qo];B[rq])
+(;W[rn];B[rq])
+(;W[rs];B[ss]
+(;W[rq];B[sq];W[qo];B[sp])
+(;W[ro];B[rq]))
+(;W[ps];B[os]C[this exchange doesn't help white])
+(;W[sr];B[rq])
+(;W[sp];B[rq]))

@@ -1,0 +1,8 @@
+(;GE[endgame]DI[7k]DP[44]SO[1234boys]CO[0]SZ[4]AB[ad]AB[ac]AB[bb]AB[cc]AB[cd]AB[db]AB[dd]AW[ab]AW[ba]AW[cb]AW[da]AB[bd]AP[goproblems]
+(;W[bc];B[ca]
+(;W[dc]C[RIGHT])
+(;W[aa];B[bb])
+(;W[bb];B[aa]))
+(;W[dc];B[aa])
+(;W[aa];B[ca])
+(;W[ca];B[aa]))

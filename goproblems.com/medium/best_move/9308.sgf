@@ -1,0 +1,86 @@
+(;GE[best move]DI[1k]DP[20]SO[meh]CO[3]AW[br]AW[bq]AW[ap]AB[cr]AB[cq]AB[bp]AW[cp]AW[dp]AW[dq]AW[eq]AW[fq]AW[fr]AW[fp]AW[gp]AW[hp]AW[ho]AB[bo]AB[co]AB[do]AB[eo]AB[fo]AB[go]AB[ep]AB[bn]AB[an]AB[am]AB[al]AB[hn]AB[hm]AB[gm]AB[bl]AB[cl]AB[dl]AW[bm]AW[cm]AW[dm]AW[fm]AW[el]AW[ek]AW[dk]AW[ck]AW[bk]AW[ak]AW[dj]AW[cj]AW[di]AW[dh]AW[ei]AW[fi]AB[fh]AW[gh]AW[gg]AW[hg]AW[fg]AW[eg]AW[gf]AW[ef]AW[fe]AB[ej]AB[fj]AB[fk]AB[fl]AB[gi]AB[hi]AB[hh]AB[hj]AB[hk]AB[il]AB[im]AB[ci]AB[ch]AB[cg]AB[dg]AB[ce]AB[be]AB[ae]AB[cd]AB[dd]AB[ed]AB[fd]AB[ec]AB[gd]AB[hd]AB[id]AB[jd]AB[jc]AB[ib]AB[hc]AB[he]AB[hf]AB[ig]AB[jg]AB[jf]AB[ke]AB[le]AB[mf]AB[mg]AB[ng]AB[nh]AB[gr]AB[gq]AB[hq]AB[iq]AB[jq]AB[kq]AB[lq]AB[lr]AB[lp]AB[mp]AW[mq]AW[mr]AW[jr]AW[ir]AW[np]AW[op]AW[pp]AW[qp]AW[ro]AW[rn]AW[rm]AW[qm]AW[ql]AW[qk]AW[pl]AB[rk]AB[qo]AB[qn]AB[pm]AB[om]AB[ol]AB[ok]AB[pk]AB[qj]AB[qi]AB[pi]AB[oi]AB[ph]AB[pg]AB[qg]AB[qf]AB[qe]AB[rf]AB[pd]AB[pc]AB[oc]AB[ob]AW[in]AW[jn]AW[jo]AW[ko]AW[kn]AW[kp]AW[lo]AW[mo]AW[jm]AW[jl]AW[kl]AW[ll]AW[ik]AW[ij]AW[ii]AW[ih]AB[oo]AB[no]AB[nn]AB[mn]AB[mm]AB[lm]AB[ln]AB[km]AB[ml]AB[mk]AB[lk]AB[kk]AB[jk]AB[lj]AW[pb]AW[qb]AW[qc]AW[qd]AW[re]AW[sd]AW[nm]AW[nl]AW[nk]AW[nj]AW[oj]AW[pj]AW[ni]AW[mi]AW[mj]AW[li]AW[mh]AW[lh]AW[ki]AW[kj]AW[lg]AW[lf]AW[kf]AW[me]AW[nf]AW[hb]AW[gb]AW[gc]AW[fc]AW[eb]AW[dc]AW[cc]AW[bc]AW[bd]AW[cf]AW[bf]AB[df]AW[qh]AW[rh]AB[dr]C[w to handle the marked stone in the centre fight.]TR[dr]AP[goproblems]
+(;W[io];B[ip]
+(;W[po];B[fs]
+(;W[es];B[er]
+(;W[ds];B[jp]C[Oh no! W lost!])
+(;W[gs];B[jp]
+(;W[fs];B[hs]
+(;W[hr];B[ds])
+(;W[cs];B[ds])
+(;W[on];B[ds])
+(;W[jj];B[ds]))
+(;W[jj];B[fs])
+(;W[on];B[fs]))
+(;W[cs];B[jp])
+(;W[on];B[jp])
+(;W[jj];B[jp]))
+(;W[er];B[es];W[ds];B[jp]C[W lost!])
+(;W[on];B[er];W[jj]C[w wins. B can now play b1 and live in the corner, but this probably a won game for w now.RIGHT])
+(;W[jj]C[];B[er];W[on]C[w wins. B can now play b1 and live in the corner, but this probably a won game for w now.RIGHT])
+(;W[cs];B[er]
+(;W[ds];B[jp])
+(;W[es])
+(;W[jj];B[jp])
+(;W[on];B[jp])))
+(;W[er];B[jp]
+(;W[po];B[fs]C[w loses])
+(;W[cs]C[This way, the corner lives, too. Best result for w.RIGHT])
+(;W[ds]C[RIGHT]))
+(;W[cs]C[RIGHT])
+(;W[ds]C[RIGHT])
+(;W[fs]C[RIGHT])
+(;W[on];B[fs]
+(;W[es];B[er]
+(;W[gs];B[jp]
+(;W[hr];B[fs])
+(;W[fs];B[hs]
+(;W[cs];B[ds])
+(;W[ds];B[cs])
+(;W[po])
+(;W[jj];B[ds])
+(;W[hr];B[ds]))
+(;W[cs];B[fs])
+(;W[ds];B[fs])
+(;W[po])
+(;W[jj];B[fs]))
+(;W[ds];B[jp])
+(;W[cs];B[jp])
+(;W[po])
+(;W[jj];B[jp]))
+(;W[po])
+(;W[jj];B[er];W[po]C[w wins. B can now play b1 and live in the corner, but this probably a won game for w now.RIGHT]))
+(;W[jj];B[fs]
+(;W[es];B[er]
+(;W[gs];B[jp]
+(;W[fs];B[hs]
+(;W[cs];B[ds])
+(;W[ds];B[cs])
+(;W[hr];B[ds])
+(;W[po])
+(;W[on]))
+(;W[on])
+(;W[po])
+(;W[cs];B[fs])
+(;W[ds];B[fs])
+(;W[hs];B[fs])
+(;W[hr];B[fs]))
+(;W[ds];B[jp])
+(;W[cs];B[jp])
+(;W[on])
+(;W[po]))
+(;W[on])
+(;W[po])
+(;W[er];B[es]))
+(;W[es]C[RIGHT]))
+(;W[er];B[io];W[ip];B[jp];W[io];B[fs]C[w loses the fight and the game now.])
+(;W[cs];B[io];W[ip];B[jp];W[io];B[er];W[fs];B[gs]C[Oops.])
+(;W[ds];B[io];W[ip];B[jp];W[io];B[er];W[fs];B[gs];W[es];B[cs]C[oops])
+(;W[es];B[io];W[ip];B[jp];W[io];B[er];W[fs];B[gs];W[ds];B[cs]C[oops])
+(;W[fs];B[io];W[ip];B[jp];W[io];B[es]
+(;W[ds];B[gs];W[er];B[es]C[oops])
+(;W[cs];B[gs];W[bs];B[er]C[oops. In actual fact, e2 is unnecessary - w can't play there because it would be suicide, and w's already in atari so if w plays d1, b just captures.]))
+(;W[jj];B[io];W[ip];B[jp];W[io];B[er];W[fs];B[gs]C[oops])
+(;W[po];B[io];W[ip];B[jp];W[io];B[er];W[on];B[fs]C[w's loss is much larger than blacks... wrong.])
+(;W[pn];B[io];W[ip];B[jp];W[io];B[er];W[fs];B[gs];W[on];B[es];W[po]C[w's loss is much larger than blacks... wrong.])
+(;W[on];B[io];W[ip];B[jp];W[io];B[er];W[po];B[fs]C[w's loss is much larger than b's])
+(;W[ip];B[jp];W[io];B[po];W[er];B[es];W[cs];B[fs]C[Ack! J4 only succeeded in robbing yourself of a liberty, and because of that, b was even able to save the p7 stones!]))

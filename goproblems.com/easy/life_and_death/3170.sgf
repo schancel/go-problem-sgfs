@@ -1,0 +1,15 @@
+(;GE[life and death]DI[25k]DP[77]SO[polo]CO[7]AB[sq]AB[rp]AB[qo]AB[qn]AB[qm]AB[ql]AB[rm]AB[rk]AB[sk]AW[rr]AW[rq]AW[qp]AW[pp]AW[oq]AW[ro]AW[pn]AW[pm]AW[pl]AW[qk]AW[qj]AW[rj]SZ[19]C[Black to make a ko for life]
+(;B[so];W[sp]LB[rp:a]LB[rn:b]C[ White captures, and the Ko rule prevents Black from recapturing as that creates the same position as before. So Black must find a Ko-threat (like trying to escape at Q5). If White answers the threat (P5) then Black can recapture at a, then ignore any White Ko-threat (assuming one is played) and play at b for sweet, sweet life.RIGHT])
+(;B[rn];W[sp]
+(;B[sn];W[sl]C[Black is dead. No ko here.])
+(;B[so];W[sn];B[sm];W[rp];B[so]C[Ko for Death !!]))
+(;B[sn];W[sp]
+(;B[sl];W[rn]C[Black is dead.])
+(;B[so];W[rp]
+(;B[sl];W[rn]C[Black is dead.])
+(;B[sm]C[Black is dead.])
+(;B[rn];W[sl]C[Black is dead.]))
+(;B[rn];W[sl];B[so];W[rp]C[Black is dead.]))
+(;B[sp];W[so];B[sn];W[sr]
+(;B[rn];W[sl]C[Black is dead.])
+(;B[sl];W[rn]C[Black is dead.])))

@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[3d]DP[9]SO[field mouse]CO[9]AW[ob]AW[nb]AB[pb]AB[oc]AB[nc]AB[qb]AB[rb]AB[rd]AB[qc]AW[pc]AW[pd]AW[pe]AW[qe]AW[re]AW[sc]AB[sb]AW[sd]AB[qd]AW[od]AB[ne]AB[ld]AB[mf]AB[kf]AB[jg]AW[kc]AW[kd]AW[ke]AW[ie]AW[ph]AW[jf]AW[ig]AW[ih]AB[lb]TR[lb]C[Black just played the marked stone. What is the best white can do?]AB[lf]AB[kh]AW[ji]AW[ki]AW[pj]AP[goproblems]
+(;W[mb];B[lc]
+(;W[nd];B[mc]
+(;W[kb];B[ma];W[le];B[oa]C[Nice! Cut in sente!RIGHT])
+(;W[le];B[kb];W[jb];B[ma]TR[kb]TR[jb]C[Nice! Cut in sente! Though the marked exchange was slightly bad for white (depends on the top left position).RIGHT]))
+(;W[kb];B[ma]
+(;W[le];B[nd])
+(;W[nd];B[mc];W[le]C[Nice! Cut in sente!RIGHT]))
+(;W[le];B[nd])
+(;W[mc];B[nd]))
+(;W[mc];B[nd]
+(;W[lc];B[mb])
+(;W[mb];B[lc]))
+(;W[nd];B[mc]
+(;W[lc];B[mb]
+(;W[md]C[Gote cut - you could do better!])
+(;W[le]C[Gote cut - you could do better!])
+(;W[me]C[Gote cut - you could do better!]))
+(;W[mb];B[lc]
+(;W[kb];B[ma];W[le];B[oa]C[Nice! Cut in sente.RIGHT])
+(;W[le];B[kb];W[jb];B[ma]C[Nice! Cut in sente. Though the mared exchange was not ideal for white.RIGHT]LB[kb:M]LB[jb:M]))
+(;W[kb];B[mb]
+(;W[le]C[Gote cut, you could do better.])
+(;W[md]C[Gote cut, you could do better.])
+(;W[me]C[Gote cut, you could do better.]))
+(;W[md];B[mb]C[Nice sente cut, but the upper side is still opened.]))
+(;W[lc];B[mb]
+(;W[mc];B[nd])
+(;W[nd];B[mc]
+(;W[md]C[Gote cut - you could do better!])
+(;W[le]C[Gote cut - you could do better!])
+(;W[me]C[Gote cut - you could do better!])))
+(;W[kb];B[mb];W[nd];B[mc]
+(;W[md]C[Gote cut - you could do better!])
+(;W[le]C[Gote cut - you could do better!])
+(;W[me]C[Gote cut - you could do better!]))
+(;W[le];B[nd]
+(;W[mb];B[lc])
+(;W[lc];B[mb])
+(;W[mc];B[lc]))
+(;W[md];B[nd]
+(;W[mc];B[mb])
+(;W[mb];B[lc]))
+(;W[me];B[nd]
+(;W[nf];B[le];W[lc];B[mb];W[mc];B[md])
+(;W[lc];B[mb])))

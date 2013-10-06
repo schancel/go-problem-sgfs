@@ -1,0 +1,53 @@
+(;GE[endgame]DI[4d]DP[8]SO[Field Mouse]CO[9]AW[eb]AW[dc]AW[ed]AB[db]AB[cb]AB[cc]AB[cd]AB[de]AW[ee]AB[df]AW[ef]AW[if]AB[ra]AB[sb]AB[rc]AB[qb]AB[qc]AB[rd]AB[sd]AW[qe]AW[re]AW[se]AW[qd]AB[pc]AW[ob]AW[oc]AW[od]AB[pe]AB[pd]AB[md]AB[mc]AB[mb]AW[nb]AW[oe]AB[me]AB[of]AB[nf]AB[mf]AW[pf]AW[qg]AW[og]AB[ng]AW[oh]AW[ld]AB[le]AB[ke]AW[kd]AW[jd]AW[je]AW[lc]AW[lb]AB[nd]AW[pb]AW[ne]AW[nc]AB[jf]AB[jg]AB[dg]AB[dh]AW[eg]AW[nh]AW[lg]AW[lh]AW[ki]AB[hi]AB[gi]AB[eh]AB[fi]AW[fh]AW[gh]AW[mi]AB[ma]AB[pa]AW[mg]C[White to play the best endgame! Sente is not important!]AW[dd]AW[ii]AW[hh]AW[kg]AW[ih]AB[ei]AB[ci]AW[ji]AB[gg]AW[gf]AW[he]AW[ig]AP[goproblems]
+(;W[kf];B[la]
+(;W[ka]
+(;B[oa]LB[lf:I]C[HINT: Never play the *I* letter. It is a waste of ko threat!]
+(;W[gb];B[ea];W[fa];B[da]C[One point worse than the solution.])
+(;W[lf];B[na]
+(;W[gb];B[ea];W[fa];B[da]C[One point worse than the solution.])
+(;W[fa];B[da];W[ea]C[You wasted one ko threat... but ok, I'm in a good mood :-)RIGHT])
+(;W[da];B[fa]
+(;W[gb];B[ca];W[ea];B[fb];W[ec];B[kb]C[Problem.])
+(;W[fb];B[kb])
+(;W[ea];B[kb])))
+(;W[fb];B[kb];W[ja];B[jb];W[ia];B[hb]C[])
+(;W[hb];B[ea];W[fa];B[da];W[fb]C[Two points worse than the solution.])
+(;W[kb];B[ea];W[fa];B[da];W[fb]C[Two points worse than the solution.])
+(;W[fa];B[da]LB[lf:I]
+(;W[ea]C[Super endgame! The best for white! One nice and big red or black solved for you. Enjoy! ;-)RIGHT])
+(;W[lf];B[na];W[ea]C[Because you played on the point I told you not to play, you will not get a nice solved comment!!! BuUuUuuuUuHaaAaaa!RIGHT]))
+(;W[ea];B[kb];W[ja];B[jb];W[ia];B[hb])
+(;W[da];B[kb];W[ja];B[jb];W[ia];B[hb]))
+(;B[kb]C[NOTTHISRIGHT];W[ja];B[jb];W[ia]
+(;B[hb];W[lf]C[RIGHT])
+(;B[oa];W[fa];B[da];W[ea]C[RIGHT])))
+(;W[jb];B[ja];W[ia];B[ka]
+(;W[kb];B[oa]
+(;W[da];B[fa]C[]
+(;W[ea];B[ib])
+(;W[gb];B[ca];W[ea];B[fb];W[ec];B[ib];W[ha];B[hb]))
+(;W[ea];B[da]C[Worse than the solution.]))
+(;W[da];B[fa]C[Problem])
+(;W[ea];B[kb];W[jc];B[da]C[White could do better.]))
+(;W[ja];B[ea]
+(;W[fa];B[da]
+(;W[ka];B[oa];W[fb]C[Two points worse than the solution.])
+(;W[fb];B[ka];W[kb];B[oa]C[White could do better!]))
+(;W[ka];B[oa];W[fa];B[da];W[fb]C[White could do better!]))
+(;W[kb];B[ea]
+(;W[fa];B[da];W[ka];B[oa];W[fb]C[Two points worse than the solution.])
+(;W[ka];B[oa];W[fa];B[da];W[fb]C[Two points worse than the solution.])))
+(;W[la];B[kf]
+(;W[da];B[ca]
+(;W[ea];B[jh]C[Worse than the solution.])
+(;W[jh];B[oa];W[ea]C[Sorry, but two points worse than the solution :-(]))
+(;W[jh];B[oa];W[da];B[ca];W[ea]C[Sorry, but two points worse than the solution :-(]))
+(;W[da];B[la];W[jb];B[ca]
+(;W[ea];B[kf];W[ka]C[You lost much.])
+(;W[kf];B[ea];W[fb];B[ja];W[ia];B[ka]
+(;W[fa];B[kb];W[jc]C[You lost much.])
+(;W[kb];B[oa];W[fa];B[da]C[Sorry, not the best.])))
+(;W[gb];B[la];W[ka];B[kf]
+(;W[da];B[ca];W[ea]C[White forgot to do something.])
+(;W[jh];B[oa];W[da];B[ca];W[ea]C[White could do few points better.]))
+(;W[fa];B[la];W[ka];B[kf];W[da];B[ca];W[ea]C[Not the best.]))

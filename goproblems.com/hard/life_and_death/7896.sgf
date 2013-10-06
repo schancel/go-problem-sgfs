@@ -1,0 +1,56 @@
+(;GE[life and death]DI[5d]DP[6]SO[happyboy]CO[8]AB[rp]AB[sp]AB[qq]AB[rr]AB[pr]AB[oq]AB[nq]AB[mq]AB[lp]AB[lo]AB[ln]AB[km]AB[jm]AB[hm]AB[il]AB[jk]AB[kk]AB[lk]AB[mk]AB[nl]AB[pm]AB[rm]AW[mp]AW[np]AW[op]AW[pp]AW[pq]AW[qp]AW[ro]AW[so]AW[qo]AW[mo]AW[mm]AW[lm]AW[mn]AW[jl]AW[kl]AW[ll]AW[on]AW[kn]AW[jp]C[White first to live! Please play at A to start! (Ko is good enough)]LB[jn:A]AP[goproblems];W[jn];B[im]
+(;W[lq];B[kq]
+(;W[lr];B[kp]
+(;W[kr];B[jq]C[White fails!];W[or];B[nr];W[os];B[ns];W[rq];B[sq];W[rs];B[qs]C[Wrong!])
+(;W[or];B[nr]
+(;W[os]
+(;B[ps];W[rq];B[sq];W[rs];B[sr];W[qr];B[ns];W[rq]C[Correct! white gets a ko to live!RIGHT])
+(;B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])))
+(;W[ms];B[os];W[jq];B[kr]
+(;W[ks];B[jr];W[ir];B[js];W[is]C[White gets a ko for living!RIGHT])
+(;W[jr];B[ks];W[js];B[mr]C[White is dead!])))
+(;W[rq];B[sq];W[rs];B[qr];W[or];B[nr];W[os]
+(;B[ps];W[sr]C[Correct! white gets a ko to live!RIGHT])
+(;B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])))
+(;W[jq];B[kr];W[or];B[nr];W[os];B[ls]C[Wrong, white can not do anything now.]))
+(;W[or];B[lr];W[rq];B[sq];W[rs];B[qs]C[Wrong!])
+(;W[rq];B[sq];W[rs]
+(;B[qs]
+(;W[or];B[lr]C[Wrong!])
+(;W[lr];B[kp];W[or];B[nr];W[os];B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])))
+(;B[qr];W[lr];B[kp];W[or];B[nr];W[os]
+(;B[ps];W[sr]C[Correct! white gets a ko to live!RIGHT])
+(;B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])))))
+(;W[rq];B[sq];W[rs]
+(;B[sr];W[lq];B[kq];W[lr];B[kp];W[or];B[nr];W[os]
+(;B[ns];W[jq];B[kr];W[ks];B[jr];W[ir];B[js];W[ls]LB[mr:A]LB[ms:A]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT])
+(;B[ps];W[qr];B[ns];W[rq]C[Correct! white gets a ko to live!RIGHT]))
+(;B[qs];W[lq];B[kq];W[lr];B[kp];W[or];B[nr];W[os];B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A]))
+(;B[qr];W[lq];B[kq];W[lr];B[kp];W[or];B[nr];W[os]
+(;B[ps];W[sr]C[Correct! white gets a ko to live!RIGHT])
+(;B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A]))))
+(;W[or]
+(;B[nr];W[lq];B[kq];W[lr];B[kp];W[os]
+(;B[ps];W[rq];B[sq];W[rs];B[ns];W[sr]C[Correct! white gets a ko to live!RIGHT])
+(;B[ns];W[jq];B[kr];W[ks]
+(;B[jr];W[ir];B[js];W[ls]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])
+(;B[js];W[ls];B[jr];W[ir]C[Correct! Since black can't play at A, white kills black K1 group and lives.RIGHT]LB[mr:A]LB[ms:A])))
+(;B[lq]
+(;W[ps];B[qr];W[sr];B[rq];W[rs];B[nr]C[white is dead!])
+(;W[rq];B[sq];W[rs]
+(;B[qr];W[sr]C[Correct! white gets a ko to live!RIGHT])
+(;B[qs]))))
+(;W[rs];B[rq]C[Wrong! nothing will happen!])
+(;W[qr];B[qs]C[Wrong!]))

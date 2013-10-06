@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[2d]DP[12]SO[Bildstein]CO[8]AB[bi]AB[cc]AB[ce]AB[cf]AB[ci]AB[dd]AB[de]AB[dg]AB[di]AB[dj]AB[ef]AB[eg]AB[eh]AB[fd]AB[fe]AB[gd]AW[bc]AW[bg]AW[cb]AW[cg]AW[ch]AW[db]AW[dh]AW[ec]AW[fc]AW[gc]MA[bg]MA[cg]MA[ch]MA[dh]C[Save the marked stones]
+(;W[ad];B[af];W[bf];B[be];W[ae];B[bh];W[ag];B[ah];W[af];B[bd];W[ac];B[bb])
+(;W[bd];B[be])
+(;W[ac];B[bd])
+(;W[be];B[bf];W[af];B[ag];W[ah];B[bh];W[ag];B[ai];W[ae];B[bd])
+(;W[ae];B[ad];W[bd];B[af];W[bf];B[be])
+(;W[bf];B[be])
+(;W[af]C[];B[bd];W[ad];B[bb];W[ac]
+(;B[ae];W[be];B[bf]
+(;W[ae];B[bh];W[ag];B[ah];W[cd]C[RIGHTBlack has to find the first ko threat.])
+(;W[cd];B[bh];W[ag];B[ah];W[ae];B[bd])
+(;W[ag];B[ae]))
+(;B[bf];W[ae]C[RIGHT])))

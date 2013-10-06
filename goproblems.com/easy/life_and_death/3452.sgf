@@ -1,0 +1,56 @@
+(;GE[life and death]DI[6k]DP[39]SO[santa c]CO[8]AW[bp]AW[cq]AW[dq]AW[er]AW[fr]AW[fq]AW[fp]AW[gr]AB[gq]AB[gp]AB[hp]AB[ho]AB[hn]AW[dr]AW[go]AW[gn]AW[fn]AW[en]AW[em]AW[dm]AB[eq]AB[ep]AB[dp]AB[eo]AB[fo]AB[co]AB[cn]AB[cm]AB[bn]AB[bl]AB[am]AB[al]AW[ak]AW[bk]AW[ck]AW[cl]AW[dl]AB[fm]AB[fl]AB[el]AB[gk]AW[ek]AW[hr]C[Can black save all of her group? Sure she can - I saw her doing it! ;)]AP[goproblems]
+(;B[cp]
+(;W[dn]
+(;B[bo]C[wA5 will be played here, because I find it more interesting.]
+(;W[ao]
+(;B[bq];W[br]
+(;B[ap]C[Nice! Black's alive! :)CHOICERIGHT])
+(;B[aq];W[ar];B[ap];W[bp]C[Black's dead... :'(]))
+(;B[an];W[bq]C[Black's dead... :'(]))
+(;W[bq];B[ao]C[Nice! :)RIGHT]))
+(;B[ao]
+(;W[bq];B[bo]C[Nice! :)RIGHT])
+(;W[bo];B[bq];W[br];B[ap]C[Black'd live - Wouldn't happen.]))
+(;B[an]C[Black's dead!])
+(;B[bq];W[br]
+(;B[bo];W[aq];B[ao]C[Nice! :)RIGHT])
+(;B[ao];W[aq];B[bo]C[Nice! :) (Thanks, BartTM!)RIGHT])
+(;B[an]C[Black's dead!])
+(;B[ap];W[aq]
+(;B[ao];W[bq];B[bo]C[Nice! :) (Thanks, BartTM!)RIGHT])
+(;B[bo];W[ao]C[Black's dead!]))
+(;B[aq];W[ap]
+(;B[ao];W[ar];B[bo]C[Nice! :)RIGHT])
+(;B[bo];W[ar];B[ao]C[Nice! :)RIGHT])))
+(;B[ap];W[bq]
+(;B[bo];W[ao]C[Black's dead!])
+(;B[ao];W[bo]C[Black's dead!])))
+(;W[ao]
+(;B[bo]C[wD6 will be played here, because I find it more interesting.]
+(;W[dn]
+(;B[bq];W[br]
+(;B[ap]C[Nice! :)CHOICERIGHT])
+(;B[aq];W[ar];B[ap];W[bp]C[Black's dead!]))
+(;B[an];W[bq]C[Black's dead!]))
+(;W[bq];B[dn];W[ap];B[an]C[Nice! :)RIGHT]))
+(;B[an];W[dn]
+(;B[bq];W[br];B[bo];W[aq]C[Black's dead!])
+(;B[bo];W[bq]C[Black's dead!]))
+(;B[dn];W[an]C[Black's dead!]
+(;B[bm];W[bq])
+(;B[bo];W[bm]C[Black's dead!])
+(;B[bq];W[bm]C[Black's dead!]))
+(;B[bq];W[an];B[bm];W[dn]C[Black's dead! (Thanks, aigo!)])))
+(;B[dn];W[cp]
+(;B[do]LB[ao:A]LB[bo:B]C[Black's dead! (A and B are miai to live.)])
+(;B[bo];W[ao]C[Black's dead!])
+(;B[ao];W[bo]C[Black's dead!]))
+(;B[an];W[dn]C[Black's dead!])
+(;B[bo];W[cp]
+(;B[ao];W[do]C[Wrong! Half of it, was captured.])
+(;B[do];W[ao]C[Black's dead!])
+(;B[dn];W[ao]C[Black's dead!]))
+(;B[ao];W[cp]
+(;B[bo];W[do]C[Wrong! Half of it, was captured.])
+(;B[do];W[bo]C[Black's dead!])
+(;B[dn];W[bo]C[Black's dead!])))

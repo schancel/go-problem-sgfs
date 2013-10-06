@@ -1,0 +1,175 @@
+(;GE[life and death]DI[5k]DP[34]SO[cusp]CO[7]AB[aq]AB[br]AB[cq]AB[bp]AB[gq]AB[gp]AB[hp]AB[hr]AB[iq]AB[jr]AB[is]AW[er]AW[eq]AW[ep]AW[fo]AW[fn]AW[cp]AW[co]AW[bo]AW[bn]AW[hn]AW[in]AW[ip]AW[jp]AW[jq]AW[kr]AW[lq]LB[dn:T]C[White to move. Play T to tenuki if neither black group can be killed.]AB[ap]AP[goproblems]
+(;W[dn]C[White had something here.])
+(;W[dq];B[cr]C[Black lives.])
+(;W[fq];B[gr]C[Black is alive.])
+(;W[cr];B[dr]
+(;W[cs];B[bs]
+(;W[ds];B[es]C[Not the right move.])
+(;W[es];B[gs];W[ds]C[Good.RIGHT])
+(;W[fs];B[gr]C[Black is all right now.])
+(;W[gs];B[gr]C[And Black lives.])
+(;W[gr];B[fr]
+(;W[ds];B[es]C[???])
+(;W[dq];B[ds]C[A mistake.])
+(;W[fq];B[gs]C[White has failed.])
+(;W[es];B[gs];W[ds]C[The killing move, great!RIGHT])
+(;W[fs];B[gs]C[Black has saved both groups.])
+(;W[gs];B[es]
+(;W[fq];B[hs]C[Wrong.])
+(;W[dq];B[ds]C[:(])))
+(;W[fr];B[gr]C[Not the right move.]))
+(;W[ds];B[cs]C[Black is happy to have secured both groups.])
+(;W[es];B[gs]
+(;W[dq];B[cs]C[Black lives on.])
+(;W[cs]C[Black died!RIGHT])
+(;W[ds];B[cs]C[Not good enough, sorry.]))
+(;W[fr];B[gr]C[This didn't accomplish anything.])
+(;W[gr];B[fr]
+(;W[cs];B[es]C[Black will have a ko now...])
+(;W[ds];B[cs]C[Black lives.])
+(;W[es];B[gs]
+(;W[cs]C[Yes!RIGHT])
+(;W[dq];B[cs]C[Incorrect.])
+(;W[ds];B[cs]C[Black is secure now.]))
+(;W[fs];B[gs]C[Not quite right.])
+(;W[gs];B[fs]
+(;W[cs];B[bs]
+(;W[dq];B[es]C[Black will have a ko, more than he deserves.])
+(;W[fq];B[hs]C[White has missed his opportunity.])
+(;W[ds];B[es]C[A catastrophe.])
+(;W[es];B[hs];W[ds]C[Yes, this is it!RIGHT]))
+(;W[ds];B[cs]C[Wrong.])
+(;W[es];B[hs]
+(;W[cs]C[You did it!RIGHT])
+(;W[ds];B[cs]C[Won't work here.])
+(;W[dq];B[cs]C[:(]))
+(;W[fq];B[hs]C[Not the best move.])
+(;W[dq];B[cs]C[Pity.])))
+(;W[fs];B[gs]C[White won't kill now.])
+(;W[gs];B[gr]C[Black lives on both sides.]))
+(;W[dr];B[cr]C[Black is safe now.])
+(;W[fr];B[gr]C[Black group is now alive.])
+(;W[gr];B[fr]
+(;W[es];B[gs]
+(;W[cr];B[dr]
+(;W[bs];B[cs]C[Not the right answer.])
+(;W[cs]C[Good work.RIGHT])
+(;W[ds];B[cs]C[Black group has slipped through your fingers.]))
+(;W[dr];B[cr]C[Black lives.])
+(;W[cs]C[Black dies.RIGHT])
+(;W[ds];B[cr]C[Wrong...])
+(;W[dq];B[cr]C[Bad move.]))
+(;W[fs];B[gs]C[Black is now secure.])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[And Black is happy.])
+(;W[es];B[hs]
+(;W[dq];B[cr]C[Bad idea.])
+(;W[cr];B[dr]
+(;W[cs]C[This works.RIGHT])
+(;W[ds];B[cs]C[This doesn't work.]))
+(;W[dr];B[cr]C[Sorry.])
+(;W[cs]C[Black group has been killed.RIGHT])
+(;W[ds];B[cr]C[This is not good.])))
+(;W[cr];B[dr]
+(;W[cs];B[bs]
+(;W[ds];B[es]C[Utterly unsatisfactory for White.])
+(;W[dq];B[ds]C[Wrong, sorry.])
+(;W[es];B[gs];W[ds]C[Good!RIGHT])
+(;W[fs];B[gs]C[A costly mistake for White.])
+(;W[fq];B[gs]C[White made a mistake.])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[Victory has slipped away.])
+(;W[dq];B[ds]C[Not right.])
+(;W[ds];B[es]C[This is a disaster!])
+(;W[es];B[hs];W[ds]C[Perfect!RIGHT])))
+(;W[ds];B[cs]C[And Black is happy to live with both groups.])
+(;W[es];B[gs]
+(;W[ds];B[cs]C[The prey has escaped.])
+(;W[dq];B[cs]C[This won't work.])
+(;W[cs]C[Bang! Black group is dead!RIGHT]))
+(;W[fs];B[gs]C[White has no prospects left.])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[Big mistake.])
+(;W[cs];B[bs]
+(;W[dq];B[ds]C[Bad move.])
+(;W[ds];B[es]C[A disaster!])
+(;W[es];B[hs];W[ds]C[Yes!RIGHT]))
+(;W[ds];B[cs]C[What now?...])
+(;W[es];B[hs]
+(;W[dq];B[cs]C[White lost this fight.])
+(;W[cs]C[Bingo!])
+(;W[ds];B[cs]C[Eh, no.]))))
+(;W[dr];B[cr]C[White won't kill now.])
+(;W[cs];B[cr]
+(;W[bs];B[ds]
+(;W[dr];B[as]C[Sadly, this doesn't kill.])
+(;W[es];B[fs]C[Black has to choose which group to defend. Good!RIGHT])
+(;W[fs];B[gs]C[Black lives with both groups.])
+(;W[gs];B[fs]
+(;W[dr];B[as]C[White doesn't have much here now.])
+(;W[es];B[hs]C[And Black had to choose the group he wanted to live with. Great work! RIGHT])))
+(;W[dr];B[bs]C[Black lives with both groups.])
+(;W[ds];B[bs]C[Wrongo.])
+(;W[es];B[fs];W[bs]C[Black is dead, yay!RIGHT])
+(;W[fs];B[gs]C[Didn't help much...])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[Black is safe.])
+(;W[bs];B[ds]
+(;W[dr];B[as]C[White has lost the battle.])
+(;W[es];B[hs]C[Black can't protect both groups. Good!RIGHT]))
+(;W[dr];B[bs]C[Incorrect play.])
+(;W[ds];B[bs]C[Whoops.])
+(;W[es];B[hs];W[bs]C[Black dies!RIGHT])))
+(;W[ds];B[cr]C[Missed the right move.]))
+(;W[bs];B[cs]C[Black has two eyes.])
+(;W[cs];B[cr]
+(;W[bs];B[ds]
+(;W[dr];B[as]C[Oops.])
+(;W[es];B[gs];W[dr]C[Yeah.RIGHT])
+(;W[fr];B[gr]C[Bad move.])
+(;W[gr];B[fr]
+(;W[dr];B[as]C[Black now lives with both groups.])
+(;W[es];B[gs];W[dr]C[Yes!RIGHT])
+(;W[fs];B[gs]C[No no.])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[Ouch.])
+(;W[es];B[hs];W[dr]C[Good.RIGHT])
+(;W[dr];B[as]C[:(])))
+(;W[gs];B[gr]C[:(])
+(;W[fs];B[gs]C[Bad move for white.]))
+(;W[dr];B[bs]C[Black won this battle.])
+(;W[ds];B[bs]C[Black is secure.])
+(;W[es];B[gs];W[bs]C[Correct!RIGHT])
+(;W[fr];B[gr]C[Black lives with both groups.])
+(;W[fs];B[gs]C[Black is safe.])
+(;W[gr];B[fr]
+(;W[es];B[gs];W[bs]C[Good job.RIGHT])
+(;W[fs];B[gs]C[White has failed.])
+(;W[gs];B[fs]
+(;W[fq];B[hs]C[Incorrect.])
+(;W[es];B[hs];W[bs]C[Great!RIGHT])
+(;W[ds];B[bs]C[Bad move, sorry.])
+(;W[dr];B[bs]C[Black is secure.])
+(;W[bs];B[ds]
+(;W[dr];B[as]C[Wrong, sorry.])
+(;W[es];B[hs];W[dr]C[Correct.RIGHT])))
+(;W[ds];B[bs]C[Black is safe.])
+(;W[dr];B[bs]C[Black lives.]))
+(;W[gs];B[gr]C[Black is alive.]))
+(;W[ds];B[cr]C[This move doesn't work.])
+(;W[es];B[gr]
+(;W[dq];B[cr]C[Wasted opportunity.])
+(;W[cr];B[dr]
+(;W[dq];B[cs]C[Uh oh.])
+(;W[cs]C[Correct.RIGHT])
+(;W[ds];B[cs]C[Not the right answer.]))
+(;W[dr];B[cr]C[Incorrect line of play.])
+(;W[bs];B[cs]C[Didn't qute work.])
+(;W[cs]C[Nice job.RIGHT])
+(;W[ds];B[cr]C[Black has defended his group.]))
+(;W[fs];B[gr]C[This move doesn't take away the second eye from Black.])
+(;W[gs];B[gr]C[White can't kill now.])
+(;W[hs];B[gs]C[This was a thank-you move.])
+(;W[as];B[cr]C[White can't prevent two eyes now.])
+(;W[ar];B[cr]C[Black is alive and well.])
+(;W[ks];B[gs]C[Black has two eyes in the H column.]))

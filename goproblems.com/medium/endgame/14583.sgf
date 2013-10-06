@@ -1,0 +1,31 @@
+(;GE[endgame]DI[1d]DP[16]SO[paddlefoot]CO[0]AB[jr]AB[kr]AB[kq]AW[jq]AW[kp]AB[jp]AB[ip]AW[lp]AW[lq]AW[lr]SZ[9]AB[dh]AB[eh]AB[eg]AW[dg]AB[df]AW[ef]AW[ee]AB[ff]AB[fe]AB[cf]AB[cd]AW[fg]AB[fd]AW[gf]AW[ge]AW[gd]AW[gc]AW[fh]AW[hg]AB[fc]AB[fb]AW[gb]AW[bc]AW[ca]AB[ga]AB[hb]AB[ib]AW[hc]AB[cc]AW[bb]AW[cb]AB[db]AB[ic]AW[id]AB[be]AW[bd]AW[ad]C[White cannot win but his best play can make jigo (No captures yet)]AW[ab]AB[fa]AB[da]AB[af]AW[ae]AB[ba]AB[bf]AP[goproblems]
+(;W[ha];B[fi];W[gi];B[ei]
+(;W[gh]C[White is 2 points behind. If only there were some way to prevent the hane and connect in sente.])
+(;W[hh]C[White is 2 points behind. If only there were some way to prevent the hane and connect in sente.]))
+(;W[fi];B[ha]
+(;W[ch];B[di])
+(;W[di];B[ch];W[ei];B[ci]))
+(;W[ch]
+(;B[cg]C[black D1 is also interesting here]
+(;W[di]
+(;B[bh]
+(;W[ha]C[Hane and Connect and Die];B[ei];W[fi];B[ci]C[White wins by 1! Black made a mistakeRIGHT])
+(;W[fi];B[ha]
+(;W[ci];B[bi];W[ei];B[dg]C[nice moves....but w is 1 points behind])
+(;W[bi]C[];B[ci]C[White tries for the win with a bold ko....but finds himself short of threats]))
+(;W[ci];B[bi];W[fi];B[ha];W[ei];B[dg]C[Nice moves...but w is still a point behind]))
+(;B[ei];W[fi];B[ci];W[ha]C[Jigo! this is best for bothRIGHT]))
+(;W[fi];B[ha];W[di];B[bh]
+(;W[ci];B[bi];W[ei])
+(;W[bi])))
+(;B[di];W[ha];B[fi];W[gi];B[cg];W[ei];B[ia];W[ha];B[fi]
+(;W[ci];B[dg];W[ei];B[ia];W[ib];B[fi]
+(;W[dc];B[dd];W[ei]C[RIGHT]))
+(;W[dc];B[dd];W[ei];B[ia];W[ib];B[fi]
+(;W[ec];B[ed];W[ei]C[RIGHT])
+(;W[ci];B[dg];W[ei]C[RIGHT]))))
+(;W[di];B[ch];W[ei];B[ci];W[fi];B[ha])
+(;W[cg];B[ch];W[bg];B[bh]
+(;W[ag];B[ah])
+(;W[bf];B[ag])
+(;W[de];B[ce];W[dc];B[dd])))

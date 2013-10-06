@@ -1,0 +1,48 @@
+(
+;GE[life and death]DI[4k]DP[31]SO[gecko]CO[9]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AW[aa][ab][ea][eb][ec][ed][fd][gd][gc][gb][de][ce][be][ae][dg][cd][cc]
+AB[dd][dc][db][cb][ca][bb][bc][bd][ad][fc][fb][fa][ee][fe][ge][he][hd][hc][hb][jb]
+C[Black has the bigger eye. This makes white's cause almost hopeless.]
+GN[temp]
+(
+;
+W[ha]
+;
+B[ia]
+(
+;
+W[ba]
+C[RIGHT meet the hane seki. If Black captures at a, white captures back and wins by one move.]
+LB[ga:a]
+)
+(
+;
+W[ac]
+C[RIGHT meet the hane seki. If Black captures at a, white captures back and wins by one move.]
+)
+(
+;
+W[ga]
+;
+B[fb]
+)
+)
+(
+;
+W[ba]
+;
+B[ha]
+C[White looses because his eye is smaller.]
+)
+(
+;
+W[ac]
+;
+B[ha]
+C[White looses because his eye is smaller.]
+)
+)

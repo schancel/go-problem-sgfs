@@ -1,0 +1,9 @@
+(;GE[endgame]DI[12k]DP[58]SO[Hans]CO[6]AB[pd]AB[pc]AB[ob]AB[pe]AB[qe]AB[rf]AW[re]AW[rd]AW[qd]AW[qc]AW[qb]AW[pb]AB[nd]AW[ne]AW[of]AB[qg]AW[lc]AW[ld]AW[le]AW[lf]AB[mb]AB[mf]AB[me]AW[md]AW[nc]AB[od]AW[lb]AB[mg]AW[nb]AB[og]AB[pf]TR[nb]C[White played the marked stone. What should black do? Sente is not important. Play the biggest move.]AP[goproblems]
+(;B[na];W[mc]
+(;B[oc];W[ma]
+(;B[oa]C[Black keeps white separated. Now the corner looks interesting for black. For details see http://www.goproblems.com/prob.php3?id=4852RIGHT])
+(;B[pa]C[I think this is also correct. The disadvantage is that white can play a ko for connection.But if black wins the ko white has to play in the corner in order to live.RIGHT]))
+(;B[ma];W[oc]))
+(;B[oc];W[oa]C[White is connected.])
+(;B[oa];W[oc])
+(;B[ma];W[oc]))

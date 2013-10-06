@@ -1,0 +1,15 @@
+(;GE[life and death]DI[5d]DP[5]SO[Guff]CO[8]AB[jb]AB[jc]AB[kc]AB[ld]AB[md]AB[nb]AB[nc]AB[nd]AB[od]AB[pd]AB[qd]AB[re]AW[kb]AW[lc]AW[mb]AW[mc]AW[na]AW[ob]AW[oc]AW[qc]AW[rc]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[pc];W[pb]
+(;B[ra];W[qa];B[rb];W[oa];B[qb];W[sb];B[pa]C[ Correct. Black gets a ko for everything.RIGHT])
+(;B[qa];W[qb];B[la];W[ra]C[Failure.  White Lives.]))
+(;B[ra];W[pc];B[la];W[qb]
+(;B[pa];W[oa];B[qa];W[ma];B[ka];W[sb]C[White is alive.])
+(;B[ma];W[oa]C[Nope.]))
+(;B[la];W[pc]
+(;B[pa];W[ra];B[oa];W[sb]C[Failure. White lives.])
+(;B[ma];W[oa]C[Failure. White is alive.]))
+(;B[sb];W[rb]C[Failure. White has one eye in the corner.  And miai for another on the right and top edges.])
+(;B[pa];W[oa]
+(;B[la];W[qa]C[Wrong.  White lives.])
+(;B[pc];W[pb]C[Wrong.  White lives.])
+(;B[qb];W[pb]C[Wrong.  White lives.])))

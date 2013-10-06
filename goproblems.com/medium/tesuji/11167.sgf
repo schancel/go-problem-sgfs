@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[2k]DP[22]SO[field mouse]CO[0]AW[pc]AW[rb]AW[qb]AW[sc]AW[rd]AB[rc]AB[qc]AB[qd]AW[nb]AB[nd]AB[mc]AB[mb]AW[qg]AW[qf]AB[pe]AB[pf]AB[pg]AB[ph]AW[oi]AW[oh]AW[og]AW[of]AW[le]AB[lb]AW[re]AW[od]AB[oe]AB[ne]AW[nf]AW[mf]AW[ld]AW[pd]AB[qe]AB[qh]AW[rh]AW[pi]AW[ri]AW[pj]AB[rj]AB[rk]AB[qk]AB[pk]AB[ok]AB[oj]AB[kb]AW[kc]AW[jc]AW[ic]AB[fb]AB[fc]AW[hc]AW[gc]AB[ea]C[What can black do now?]AW[nc]AB[md]AW[na]AW[ma]AW[pb]AB[eb]AW[lf]AP[goproblems]
+(;B[qi];W[qj]
+(;B[rg];W[rf]
+(;B[sg];W[sf];B[sd]C[];W[sh];B[sb]C[Good, black can fight like this! White will probably play T10 now to create a ko. If he plays k18 now he will lose the semiai by one liberty.RIGHT])
+(;B[sd];W[sg]))
+(;B[sd];W[rg]C[Black is dead :(])
+(;B[rf];W[rg]))
+(;B[rg];W[qi];B[rf];W[sd]C[Black is dead :(])
+(;B[ja];W[ha]C[Not the tesuji])
+(;B[ia];W[ja];B[jb];W[ib];B[ha];W[ga]C[This was not the tesuji.])
+(;B[jb];W[ib]C[Not the tesuji])
+(;B[ib];W[jb];B[ja];W[ha]C[Black lost one liberty and lost the fight.])
+(;B[ha];W[ja];B[jb];W[ib]C[Black just lost one liberty and cannot win the fight anymore.])
+(;B[hb];W[jb]C[Black lost one liberty and lost the fight.])
+(;B[sd]
+(;W[qi]C[Black is dead now :(])
+(;W[rg]C[Black dies now.])))

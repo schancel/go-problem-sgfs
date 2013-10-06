@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5k]DP[35]SO[koala]CO[0]AW[sr]AW[rr]AW[qr]AW[pr]AW[or]AW[nr]AW[rp]AW[qp]AW[pp]AW[mq]AW[lq]AW[lp]AW[lo]AW[ln]AW[nm]AW[om]AW[pm]AW[qm]AW[qn]AW[rl]AW[sm]AB[rn]AB[qo]AB[pn]AB[on]AB[no]AB[oo]AB[mo]AB[mp]AB[nq]AB[oq]AB[op]AB[pq]AB[qq]AB[rq]C[Black needs to capture the three white stones in order to liveFORCE]TR[pp]TR[qp]TR[rp]AP[goproblems]
+(;B[sp];W[so]
+(;B[ro];W[sq])
+(;B[sq];W[ro]
+(;B[sn];W[rm])
+(;B[po];W[sn]))
+(;B[sn];W[sq]))
+(;B[sq];W[ro]
+(;B[so];W[sn])
+(;B[sn];W[so])
+(;B[sp];W[sn])
+(;B[po];W[sn]))
+(;B[so]
+(;W[ro]C[CHOICE]
+(;B[sp];W[po];B[qo]C[RIGHT])
+(;B[po]C[RIGHT]))
+(;W[sp];B[sq]C[RIGHT])
+(;W[po]C[CHOICE]
+(;B[sp];W[ro])
+(;B[ro]C[RIGHT]))
+(;W[sq];B[sp]C[RIGHT]))
+(;B[ro];W[sq])
+(;B[sn];W[sq])
+(;B[po];W[sq])
+(;B[rm];W[ro]))

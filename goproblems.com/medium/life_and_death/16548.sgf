@@ -1,0 +1,45 @@
+(;GE[life and death]DI[2k]DP[22]SO[py687]CO[0]AB[cp]AB[bn]AB[dp]AB[cl]AB[dl]AB[dj]AB[ck]AB[bj]AB[ak]AB[gp]AW[cn]AW[dm]AW[el]AW[ej]AW[ci]AW[cj]AW[bi]AW[di]AW[bg]AW[hj]AW[fg]C[How can White take care of this mess?]LB[gn:Tenuki]AP[goproblems]
+(;W[gn]C[];B[bo]C[You missed your chance!])
+(;W[cm];B[bo];W[bm];B[am];W[bl];B[bk];W[dk];B[al])
+(;W[bm];B[bo]
+(;W[cm])
+(;W[bl];B[cm])
+(;W[am];B[cm]))
+(;W[bo];B[ao]
+(;W[ap];B[co]
+(;W[an];B[cm]
+(;W[bm];B[dn])
+(;W[dn];B[bm]))
+(;W[bp];B[bq];W[an];B[cm]
+(;W[bm];B[dn])
+(;W[dn];B[bm]))
+(;W[bm];B[bp];W[cm];B[am];W[bl];B[bk];W[dk];B[al])
+(;W[cm];B[bp];W[bm]))
+(;W[bm]
+(;B[co]C[Black has made a grave error! How to benefit?CHOICE]
+(;W[an];B[cm]
+(;W[em];B[dn];W[bn])
+(;W[bn];B[dn];W[em];B[bp]
+(;W[bl];B[al];W[ap];B[bk])
+(;W[ap];B[bl]))
+(;W[dn]C[Dead as a doornail!RIGHT]))
+(;W[cm];B[am];W[an]C[This is a two-step ko favorable to White!RIGHT])
+(;W[bp]))
+(;B[cm]C[CHOICE]
+(;W[an];B[dn])
+(;W[dn];B[am];W[an]C[This is a two-step ko favorable to White!RIGHT])
+(;W[co]
+(;B[am]C[CHOICE]
+(;W[bl]C[This move allows too many variataions, more than I have time to input. Feel free to explore; I'll count as correct.RIGHT])
+(;W[an]C[This is a two-step ko favorable to White!RIGHT]))
+(;B[bl]C[CHOICE];W[an];B[am];W[al]C[This is a two-step ko favorable to White!RIGHT]))))
+(;W[bp];B[co]
+(;W[cm];B[bm])
+(;W[bm];B[cm]
+(;W[an];B[dn])
+(;W[dn];B[am]
+(;W[bl];B[an];W[ap];B[al];W[bq];B[cq];W[br];B[cr]
+(;W[bs];B[ar];W[ai];B[cs];W[aj];B[bk];W[dk];B[as];W[aq];B[ar]C[Getting greedy, aren't we?])
+(;W[as];B[cs];W[ai];B[bs];W[aj];B[bk];W[dk];B[ar]C[Getting greedy, aren't we?])
+(;W[cs];B[ds];W[ai];B[bs];W[aj];B[bk];W[dk];B[ar]C[Getting greedy, aren't we?]))
+(;W[an]C[This is a two-step ko favorable to White!RIGHT]))))))

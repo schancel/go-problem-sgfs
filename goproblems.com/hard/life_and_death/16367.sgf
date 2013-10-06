@@ -1,0 +1,56 @@
+(;GE[life and death]DI[6d]DP[3]SO[Field Mouse]CO[0]AB[qc]AB[pc]AB[pd]AB[qd]AB[qf]AB[qg]AB[qh]AB[ri]AW[rj]AW[qj]AW[pj]AW[rk]AW[pi]AW[ph]AW[pg]AW[pf]AW[pe]AW[oe]AW[od]AW[oc]AW[mc]AW[kb]AW[lc]AW[kc]AW[rl]AW[sl]C[White will win any ko. What is the best endgame? Sente is not important.]AP[goproblems]
+(;W[qe];B[re]
+(;W[rf]
+(;B[rd]C[CHOICE]
+(;W[si]
+(;B[rg]C[CHOICE]
+(;W[pb];B[qb];W[oa]
+(;B[qa]
+(;W[sg];B[sf];W[sh];B[rh]C[CHOICE];W[sj];B[pa];W[ob]C[The best result for both.RIGHT])
+(;W[pa];B[sh];W[sj];B[qi]C[])
+(;W[sh];B[pa]
+(;W[ob];B[rh];W[sg];B[sf];W[sj]C[RIGHT])
+(;W[sg];B[sf];W[ob];B[rh]))))
+(;W[sh];B[ob]))
+(;B[sh];W[sg];B[sj];W[qi]C[RIGHT]))
+(;W[pb];B[qb]
+(;W[oa]
+(;B[rg];W[qa];B[rb]
+(;W[si];B[sh];W[sj];B[qi];W[ra];B[sb]C[RIGHT])
+(;W[ra];B[sj];W[sb];B[sc];W[qi];B[sf]C[RIGHT]))
+(;B[qa]C[CHOICE]
+(;W[si];B[rg])
+(;W[qi];B[rh])))
+(;W[si];B[rg])
+(;W[qi];B[rg])
+(;W[ob];B[rg];W[si];B[sh];W[sj];B[qi];W[qa];B[ra];W[pa];B[rb]C[Now optimal.]))
+(;W[qi]
+(;B[rh]
+(;W[si];B[sf];W[sh];B[rg];W[pb];B[qb]
+(;W[pa];B[qa];W[ob]C[RIGHT])
+(;W[oa];B[qa];W[pa]C[Best for both.RIGHT]))
+(;W[pb];B[qb]
+(;W[oa];B[qa];W[si];B[sf];W[sh];B[rg])
+(;W[si];B[sf]
+(;W[oa];B[qa])
+(;W[sh];B[rg]))))
+(;B[rg]C[CHOICE]
+(;W[si];B[ob];W[nb];B[oa];W[sg];B[sf];W[rh];B[rf];W[na];B[pb])
+(;W[pb];B[qb];W[oa];B[qa];W[si];B[rh];W[sh];B[sf];W[pa]C[The best for both.RIGHT])
+(;W[ob];B[pb];W[si];B[rh];W[sh];B[sf];W[pa];B[qa];W[oa]))))
+(;B[rg];W[rd];B[sf];W[rc];B[rb];W[qb];B[pb];W[ra]C[Black is in ko trouble.RIGHT])
+(;B[rc];W[se];B[rd];W[sg]C[Black is in ko trouble.RIGHT]))
+(;W[pb];B[qb])
+(;W[qi];B[ob])
+(;W[rd];B[rc];W[rf];B[sd]
+(;W[qi];B[rg]
+(;W[pb];B[qb];W[oa];B[si];W[sj];B[sf];W[qa];B[ra])
+(;W[si];B[ob];W[sg];B[sf];W[rh];B[rf];W[nb];B[oa];W[na];B[pb]))
+(;W[pb];B[qb];W[oa];B[si];W[qi];B[rg];W[sj];B[sf];W[qa];B[ra])))
+(;W[pb];B[qb]
+(;W[oa];B[rc];W[qe];B[re];W[si];B[sh];W[sj];B[rh];W[qa];B[ra];W[pa]C[])
+(;W[qe];B[re];W[rf];B[rg];W[ob];B[qa]))
+(;W[si];B[ob];W[nb];B[oa]
+(;W[re];B[qe];W[sg];B[rf];W[sf];B[rd];W[se];B[sd];W[sh];B[qb])
+(;W[sg];B[re])
+(;W[rh];B[sg];W[qe];B[re];W[rg];B[rf];W[qi];B[rc])))

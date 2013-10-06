@@ -1,0 +1,45 @@
+(;GE[life and death]DI[8k]DP[47]SO[BPS]CO[0]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[jewel]PB[renGo]AW[ki][lj][mj][nj][oj][pj][gk][ik][kk][ok][fl][gl][il][kl][rl][gm][qm][sm][gn][hn][in][nn][on][pn][qn][rn][ho][io][lo][mo][oo][ro][so][ip][kp][lp][qp][rp][jq][kq][sq][kr][lr][mr][or][pr][rr][ks]AB[pg][qg][nh][pi][qi][mk][nk][qk][rk][ll][ol][pl][ql][hm][im][jm][jn][ln][mn][go][ko][no][po][qo][gp][hp][np][op][pp][gq][iq][mq][oq][qq][rq][gr][hr][jr][nr][qr][sr][is][js][ms][qs]TR[hm][im][jm][jn][ln][mn][ko]C[white to kill, every marked stone has to be taken]
+(;W[nl]
+;B[nm]
+(;W[mm]
+;B[ml])
+(;W[lk]
+;B[ml])
+(;W[ml]
+;B[mm])
+(;W[om]
+;B[ml])
+(;W[km]
+;B[lm]TR[ln][mn]C[2 escaped]))
+(;W[mm]
+;B[nm]
+(;W[nl]
+;B[ml]
+;W[km]
+;B[lm]TR[ln][mn]C[2 escaped])
+(;W[lm]
+;B[ml]
+(;W[kn]C[RIGHT])
+(;W[km]C[RIGHT])
+(;W[om]
+;B[km])
+(;W[jo]
+;B[km])
+(;W[lk]
+;B[km]))
+(;W[ml]
+;B[lm])
+(;W[lk]
+;B[ml]
+;W[km]
+;B[lm]TR[ln][mn]C[2 escaped])
+(;W[km]
+;B[lm]TR[ln][mn]C[2 escaped]))
+(;W[ml]
+;B[mm])
+(;W[lm]
+;B[mm])
+(;W[km]
+;B[nm]TR[ln][mn]C[2 escaped]))

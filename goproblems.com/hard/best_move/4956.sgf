@@ -1,0 +1,22 @@
+(;GE[best move]DI[5d]DP[5]SO[yorkson]CO[6]AB[di]AB[dj]AB[dk]AB[ek]AB[fk]AB[el]AB[em]AB[dm]AB[eh]AB[fi]AB[fh]AB[fg]AB[hl]AB[bm]AB[bn]AB[cn]AB[do]AB[dn]AB[de]AB[df]AB[dg]AB[cf]AB[bg]AB[ed]AB[hc]AB[id]AB[oq]AB[hj]AB[ie]AB[nc]AB[pd]AB[rm]AB[rn]AB[ro]AB[qp]AB[qq]AB[po]AW[rp]AW[qo]AW[qn]AW[qm]AW[ql]AW[qj]AW[qg]AW[fm]AW[bo]AW[co]AW[cp]AW[dq]AW[fq]AW[eg]AW[ei]AW[ej]AW[fj]AW[gj]AW[ce]AW[cd]AW[dh]AW[ch]AW[dc]AW[ec]AW[fc]AW[gd]AW[he]AW[bh]AW[dl]AW[cl]AW[bl]AW[ck]AW[cj]AW[ci]AW[bj]AW[ik]C[Black tries to cut at A. How to respond?]LB[hj:A]SZ[19]AP[MultiGo:3.8.6]
+(;W[gi];B[hh]
+(;W[gk];B[hk]
+(;W[gl];B[gm]
+(;W[hm];B[gn];W[hi];B[ii]
+(;W[ij];B[il];W[ih];B[ji];W[gh];B[hg];W[gg]C[Black lost sente and both side become weak\:)RIGHT])
+(;W[il];B[ij]C[The marked stone are captured\:(]TR[hi]TR[gi]TR[gj]TR[gk]TR[gl]TR[ej]TR[fj]TR[ei])))
+(;W[gh];B[gg]C[Those marked stones are captured\:(]TR[gh]TR[gi]TR[gj]TR[gk]TR[ei]TR[fj]TR[ej])
+(;W[hi];B[ii]C[Those marked stones are captured\:(]))
+(;W[hi];B[ii]
+(;W[hk];B[gk];W[ij];B[gh]C[Your stone are forced into a dumpling shape.])
+(;W[gk];B[hk]C[Oops........\:(]TR[gi]TR[hi]TR[gj]TR[gk]TR[fj]TR[ej]TR[ei]))
+(;W[hk];B[gk];W[hi];B[ii];W[ij];B[gh]C[Your stone are forced into a dumpling shape.])
+(;W[gh];B[gg]C[Oops.........]TR[gh]TR[gi]TR[gj]TR[fj]TR[ej]TR[ei]))
+(;W[hk];B[gk]C[Oops\:(]TR[gj]TR[fj]TR[ej]TR[ei])
+(;W[gk];B[hk]
+(;W[gl];B[gm]
+(;W[fl];B[fn]C[The ladder works.]TR[gi])
+(;W[gi];B[hh]
+(;W[hi];B[ii];W[hm];B[gn];W[ij];B[il];W[ih];B[ji];W[gh];B[hg];W[gg]C[Black lost sente and both side become weak\:)RIGHT])
+(;W[gh];B[gg]C[AND?]TR[gh]TR[gi]TR[gj]TR[gk]TR[gl]TR[fj]TR[ej]TR[ei])))
+(;W[gi];B[hh];W[hi];B[ii]C[And the marked stone are captured.\:(]TR[ei]TR[ej]TR[fj]TR[gj]TR[gk]TR[gi]TR[hi])))

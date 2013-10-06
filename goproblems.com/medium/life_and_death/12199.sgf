@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2k]DP[22]SO[russia]CO[0]SZ[19]AB[qb]AB[qd]AB[pd]AB[pe]AB[pf]AB[od]AB[nd]AB[oc]AB[ob]AB[oa]AB[na]AB[ma]AB[sg]AB[sh]AB[rh]AB[ri]AB[rj]AB[qj]AB[pi]AB[oi]AB[ni]AB[mh]AB[lh]AB[lg]AB[kg]AB[li]AB[ke]AB[je]AB[jf]AB[jd]AB[jc]AW[la]AW[mb]AW[nb]AW[nc]AW[kb]AW[kc]AW[kd]AW[md]AW[ne]AW[le]AW[lf]AW[mf]AW[mg]AW[kf]AW[pg]AW[ph]AW[qh]AW[qi]AW[oh]AW[nh]AW[rg]AW[qf]AW[qe]AW[rd]AW[jb]AW[ib]AB[sf]AW[se]AW[rf]AW[of]GM[1]FF[4]AP[glGo:1.4]ST[1]KM[6.5]PW[White]PB[Black]DT[2009-01-03]
+(;W[rc];B[rb]
+(;W[sb]
+(;B[qc]
+(;W[pb]C[];B[pa];W[ra]
+(;B[sc];W[sd];B[qa]C[direct koRIGHT]LB[oe:1]LB[sa:2])
+(;B[qa];W[sc]))
+(;W[sc];B[ra])
+(;W[ra];B[qa]
+(;W[pb];B[sc];W[sd];B[sa]C[ko, there's a better one, though...RIGHT])
+(;W[sc];B[pb])))
+(;B[ra];W[qc]C[RIGHT]))
+(;W[qc];B[sb])
+(;W[ra];B[sb])
+(;W[pa];B[sb]))
+(;W[rb]
+(;B[rc];W[sc]
+(;B[qc]
+(;W[qa];B[sb]LB[sa:1]LB[pa:2])
+(;W[ra];B[sb])
+(;W[sb];B[qa]LB[pb:1]LB[ra:2]LB[qg:3]LB[sa:4])
+(;W[pb];B[sb]LB[sa:1]LB[qa:2]))))
+(;W[sb];B[rc];W[sc];B[rb]MA[pc]MA[pb])
+(;W[qc];B[rc])
+(;W[pa];B[rc])
+(;W[sc];B[rc]))

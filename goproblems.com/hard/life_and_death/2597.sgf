@@ -1,0 +1,57 @@
+(;GE[life and death]DI[5d]DP[5]SO[Spirit]CO[8]AB[bb][bd][bi][ca][cc][cd][ch][ci][cj][cl][cm][cp][cr][dc][dg][dk][dp][dr][eb][ec][ed][ee][ef][eg][eh][ei][ek][el][em][eq][fa][fc][fi][fk][fn][fq][gb][gi][gl][gn][gp][gr][hd][he][hf][hg][hi][ho][hq][ib][ic][ie][il][in][ip][ir][jg][jh][ji][jm][jr][kc][ke][kf][ki][kk][kn][lb][ld][le][lj][lk][ll][lm][lo][me][mn][mp][ne][np][nq][ns][od][oe][of][og][ok][oq][or][pj][pk][pl][pm][pn][pq][pr][qd][qe][qi][qk][re][rf][rg][rh][rj][si]
+AW[ab][ac][ad][af][ag][ai][bc][bf][bh][bk][bm][bp][br][ce][cf][cg][ck][co][cq][dd][de][dh][di][dj][dl][dm][dn][do][ej][eo][fe][ff][fg][fh][fj][fl][fo][gc][gd][gj][hb][hc][hj][id][if][ij][jb][jc][jd][je][jf][jj][jn][jo][jp][jq][kd][kg][kh][kj][ko][kq][kr][lc][lf][li][lp][lr][mb][mc][md][mf][mh][mj][mk][mq][mr][nc][nd][nk][nm][nn][nr][oc][oi][oj][ol][on][oo][op][pc][pf][ph][pi][ps][qc][qf][qg][qh][rb][rd][sc]
+LB[yy:1][yy:0]TR[pr]PL[W]
+C[Black played the marked stone in 
+answer to white's first line move. How 
+should White continue?
+]
+(;W[qo]
+MN[1]
+;B[po]
+;W[pp]
+;B[qp]
+;W[qq]
+;B[rp]
+;W[qr]
+;B[rr]
+;W[ms]
+(;B[rq]
+;W[os]
+;B[qs]
+C[RIGHT CHOICE
+White has made a 2 point sente profit 
+and will now win the game by 1 point.]
+)(;B[os]
+;W[mo]
+;B[qs]
+;W[ln]
+C[RIGHT CHOICE
+White made a several point profit and 
+easily wins the game.]
+))(;W[ms]
+;B[os]
+C[White makes no use of his earlier 
+move like this.]
+)(;W[pp]
+;B[qp]
+;W[qo]
+;B[po]
+;W[qq]
+;B[rp]
+;W[qr]
+;B[rr]
+;W[ms]
+(;B[os]
+;W[mo]
+;B[qs]
+;W[ln]
+C[RIGHT CHOICE
+White made a several point profit and 
+easily wins the game.]
+)(;B[rq]
+;W[os]
+;B[qs]
+C[RIGHT CHOICE
+White has made a 2 point sente profit 
+and will now win the game by 1 point.]
+)))

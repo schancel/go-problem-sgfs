@@ -1,0 +1,6 @@
+(;GE[life and death]DI[8k]DP[46]SO[1234boys]CO[0]SZ[6]AB[ad]AB[bd]AB[cd]AB[de]AB[df]AB[ee]AB[ef]AW[bc]AW[cc]AW[dc]AW[dd]AW[ed]AW[fd]AW[fe]AW[ff]AW[af]LB[ae:e]LB[bf:a]LB[be:b]LB[cf:c]LB[ce:d]AP[goproblems]
+(;B[bf];W[ce];B[be];W[cf];B[de]C[Well done! The Black's stones is  alive. ( marked E )RIGHT]LB[bf:E]LB[be:E]LB[ad:E]LB[bd:E]LB[cd:E]LB[de:E])
+(;B[be];W[bf];B[cf];W[ce]LB[ad:D]LB[bd:D]LB[cd:D]LB[be:D]C[You took wrong! The Black's stones is dead. ( marked D )];B[de];W[df];B[cf];W[ef])
+(;B[cf];W[bf];B[be];W[ce]LB[ad:D]LB[bd:D]LB[cd:D]LB[be:D]C[You took wrong! The Black's stones is dead. ( marked D )];B[de];W[df];B[cf];W[ef])
+(;B[ce];W[bf]LB[ad:D]LB[bd:D]LB[cd:D]LB[ce:D]LB[de:D]LB[ee:D]LB[ef:D]LB[df:D]C[You took wrong! The Black's stones is dead. ( marked D )])
+(;B[ae];W[bf]LB[ae:D]LB[ad:D]LB[bd:D]LB[cd:D]LB[de:D]LB[ee:D]LB[ef:D]LB[df:D]C[You took wrong! The Black's stones is dead. ( marked D )]))

@@ -1,0 +1,47 @@
+(;GE[best move]DI[3k]DP[27]SO[DarkSycthe]CO[0]AW[dd]AW[dp]AW[cf]AW[cc]AB[db]AB[fc]AB[ic]AB[pd]AB[qp]AB[qo]AB[pq]AB[or]AB[ns]AB[mr]AB[nq]AB[np]AB[ls]AB[kr]AW[qn]AW[pn]AW[po]AW[no]AB[kp]AW[mo]AW[mp]AW[mq]AW[lr]AW[lq]AB[ir]AB[iq]AB[hr]AB[jp]AB[ko]AB[kn]AB[lo]AW[ip]AW[hq]AW[hp]AW[ho]AW[io]AW[jo]AW[jn]AW[in]AW[gn]AW[hm]AW[km]AW[lm]AW[mm]AW[mn]AW[jl]AW[jk]AW[jj]AW[ji]AW[jh]AW[kj]AW[ii]AW[hi]AB[jm]AB[im]AB[il]AB[ik]AB[ij]AB[gj]AB[gl]AB[fh]AB[go]AW[gr]AB[kl]AB[ll]AB[ml]AW[nl]AB[kk]AB[lk]AW[mk]AB[lj]AB[nj]AB[oj]AB[pj]AW[mj]AW[mi]AW[ni]AW[oi]AW[og]AW[pg]AW[qf]AW[qe]AB[pf]AB[of]AB[od]AB[qd]AW[nf]AW[nd]AB[nc]AB[mc]AW[md]AB[li]AB[kh]AB[kg]AB[mh]AB[ng]AW[mg]AW[lg]C[Make Black resign!]AB[fg]AB[hj]AP[goproblems]
+(;W[lh];B[ki]
+(;W[kf];B[jg]
+(;W[if];B[lf]
+(;W[mf];B[jf]
+(;W[je];B[ig];W[hg];B[ke]
+(;W[ih];B[kf]
+(;W[kd]C[Yes! the game is clearly over now.RIGHT])
+(;W[le];B[kd]))
+(;W[kd];B[ie]))
+(;W[ke];B[je]))
+(;W[nh];B[ig];W[hg];B[jf];W[je];B[ke];W[ih];B[kf]
+(;W[kd];B[ie])
+(;W[jd];B[kd])
+(;W[ie];B[kd]))
+(;W[jf];B[mf])
+(;W[ig];B[mf]))
+(;W[jf];B[ig])
+(;W[ig];B[jf]
+(;W[je];B[if]
+(;W[hf];B[ie]C[Ladder doesn't work])
+(;W[ie];B[hf]))
+(;W[ie];B[je];W[jd];B[ke];W[kd];B[lf];W[mf];B[if];W[hf];B[he];W[id];B[hg];W[gf];B[ih])))
+(;W[jf]
+(;B[kf]
+(;W[ke];B[lf];W[mf];B[le];W[ld];B[je];W[kd];B[jg];W[if];B[ig])
+(;W[je];B[ke];W[kd];B[ld]
+(;W[le];B[lf];W[mf];B[me])
+(;W[lc];B[le];W[jc];B[ne])))))
+(;W[ki];B[lh])
+(;W[kf];B[jg]
+(;W[lh];B[ki])
+(;W[if];B[jf]
+(;W[lh];B[ki];W[je]C[RIGHT])
+(;W[je];B[ig]
+(;W[lh];B[ki];W[hg]C[RIGHT])
+(;W[hg];B[ke]
+(;W[lh]C[RIGHT])
+(;W[lf];B[ie];W[lh]C[RIGHT])))))
+(;W[jf];B[kf];W[ke];B[lf]
+(;W[mf];B[le];W[ld];B[je];W[kd];B[jg])
+(;W[jg];B[ne]
+(;W[nh];B[mf]C[Ko at best])
+(;W[mf];B[me];W[nh];B[le]))
+(;W[le];B[mf]
+(;W[ne];B[jg];W[ig];B[if];W[je];B[hg];W[ih];B[hh];W[nh];B[gi])
+(;W[nh];B[ne]C[Ko]))))

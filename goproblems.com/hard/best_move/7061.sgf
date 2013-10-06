@@ -1,0 +1,211 @@
+(;GE[best move]DI[4d]DP[7]SO[field mouse]CO[8]AB[de]AB[rp]AB[ro]AB[rn]AB[rm]AB[rl]AB[qq]AB[qr]AB[qs]AB[ap]AB[bq]AB[pp]AB[ha]AB[cr]AB[ds]AB[er]AB[he]AB[hd]AB[hc]AB[gj]AB[hj]AB[il]AB[lc]AB[bo]AB[cn]AB[ra]AB[qd]AB[rk]AB[rj]AB[se]AB[pf]AB[dm]AB[en]AB[fo]AB[ff]AB[gp]AB[fq]AB[ik]AB[dg]AW[ij]AW[nf]AW[sb]AW[qb]AW[na]AW[lb]AW[ka]AW[id]AW[le]AW[hh]AW[qo]AW[hk]AW[gl]AW[fa]AW[ba]AW[ab]AW[ac]AW[ea]AW[gg]AW[cp]AW[gk]AW[ho]AW[ip]AW[do]AW[ep]AW[dq]AW[an]AW[bm]AW[cl]AW[dk]AW[el]AW[fm]AW[gn]AW[hq]AW[gr]AW[fs]AW[bs]AW[ar]AW[ss]AW[rr]AW[rq]AW[pq]AW[pr]AW[qp]AW[jj]C[Black to play and win.Atari-go rules (first player, who captures any stones wins).You have to read carefully!]SZ[19]AP[MultiGo:3.7.0]
+(;B[po];W[qn]
+(;B[pn];W[qm]
+(;B[ql];W[pm];B[om];W[pl];B[pk];W[ol];B[nl];W[ok];B[oj];W[nk];B[mk];W[nj];B[ni];W[mj];B[lj];W[mi];B[mh];W[li];B[ki];W[lh];B[lg];W[kh];B[jh];W[kg];B[kf];W[jg];B[ig];W[jf];B[je];W[if]
+(;B[hf];W[ie];B[jd];W[ic]
+(;B[ib];W[jc]
+(;B[kc];W[jb]
+(;B[kb];W[ja]
+(;B[ia];W[la];B[mb];W[ma];B[nb];W[oa];B[ob];W[pa];B[pb];W[qa];B[rb];W[qc]
+(;B[rc];W[pc]
+(;B[oc];W[pd]
+(;B[od];W[pe]
+(;B[oe];W[qe]
+(;B[qf];W[rd]C[Atari go - you lost! \:-(])
+(;B[re];W[rd]C[Atari go rules - you lost!]))
+(;B[sc]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[sa]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[qe];W[oe]
+(;B[sc]C[Hmmm... congatulations? :o)RIGHT])
+(;B[sa]C[Atari go is a strange game, isnÃ‚Â´t it?RIGHT])
+(;B[ne];W[of]
+(;B[sc]C[Yes, last chance to win.RIGHT])
+(;B[sa]C[ThatÃ‚Â´s also one of the ways to win.RIGHT]))
+(;B[of];W[ne]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT]))))
+(;B[sa]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[sc]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[pe]C[];W[od]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[oe];W[nd]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT]))
+(;B[nd];W[oe]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[ne];W[of]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT]))
+(;B[of];W[ne]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])))))
+(;B[sc]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[sa]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[pd]C[];W[oc]
+(;B[sc]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[sa]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[od];W[nc];B[mc];W[nd]
+(;B[sc]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[sa]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[ne];W[md]
+(;B[sc]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[sa]C[Atari go rules - you win! (If you capture the one stone with your next move :o))RIGHT])
+(;B[me];W[ld])
+(;B[ld];W[kd]))
+(;B[md];W[ne]C[Last chance to win now!]
+(;B[sa]C[Yes! you found it!RIGHT])
+(;B[sc]C[Hooray! Atari go rules!RIGHT])))
+(;B[nc];W[od]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[nd];W[oe]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT]))
+(;B[oe];W[nd];B[mc];W[ps]))))
+(;B[sc]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[pc];W[rc]))
+(;B[mb];W[ps];B[la]C[Oh, yeah! Long live atari go.RIGHT]))
+(;B[ja];W[ia]C[Atari go - you lost!]))
+(;B[jb];W[kc]
+(;B[kb];W[kd])
+(;B[kd];W[kb])))
+(;B[jc];W[ib]))
+(;B[ie];W[hf]
+(;B[ic];W[jd]
+(;B[kd];W[jc]
+(;B[jb]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[kc];W[jb]))
+(;B[jc];W[kd]))
+(;B[jd];W[ic];B[ib];W[jc]
+(;B[kc];W[jb];B[kb];W[ja]
+(;B[mb]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[ia];W[la];B[mb];W[ma];B[nb];W[oa];B[ob];W[pa];B[pb];W[qa];B[rb];W[qc]
+(;B[rc];W[pc]
+(;B[oc];W[pd]
+(;B[od];W[pe]
+(;B[oe];W[qe]
+(;B[qf];W[rd]C[Atari go - you lost!])
+(;B[rd]C[Where do you want to have the double atari? :o)]TR[lf]TR[mg]TR[nh]TR[oi]TR[pj]TR[nm]TR[ml]TR[lk]TR[kj]TR[ji]TR[ih]))
+(;B[sa]C[LoL, correct!RIGHT])
+(;B[sc]C[Looks like you are quite strong atari go player : )RIGHT])
+(;B[qe];W[oe]
+(;B[sc]C[Well, nice work.RIGHT])
+(;B[sa]C[Cool move, but it works... in atari go.RIGHT])
+(;B[of];W[ne]
+(;B[sc]C[Yes, that is it.RIGHT])
+(;B[sa]C[Nice.RIGHT]))
+(;B[ne];W[of]
+(;B[sc]C[Yeah.RIGHT])
+(;B[sa]C[Atari go tesuji :o)RIGHT]))))
+(;B[sc]C[Long live atari go!RIGHT])
+(;B[sa]C[Nice work!RIGHT])
+(;B[pe]C[];W[od]
+(;B[sc]C[Atari go!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[nd];W[oe]
+(;B[sc]C[Ya.RIGHT])
+(;B[sa]C[Aya.RIGHT])
+(;B[ne];W[of]
+(;B[sc]C[Yyyaaaa.RIGHT])
+(;B[sa]C[Yyyyeeess.RIGHT]))
+(;B[of];W[ne]
+(;B[sc]C[:-)RIGHT])
+(;B[sa]C[:-) :-)RIGHT])))
+(;B[oe];W[nd]C[Still you can win.. how?]
+(;B[sc]C[Of course!RIGHT])
+(;B[sa]C[Hehe.RIGHT]))))
+(;B[sc]C[Well, you are the atari go champion now ;-)RIGHT])
+(;B[sa]C[Cool shape, but it works.Congratulations for your atari go champion title!RIGHT])
+(;B[pd]C[];W[oc]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[od];W[nc];B[mc];W[nd]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[ne];W[md]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[me];W[ld];B[kd];W[lf]C[Bad!])
+(;B[ld];W[kd]C[Hihi.]))
+(;B[md];W[ne]
+(;B[sc]C[:-)RIGHT])
+(;B[sa]C[:o)])))
+(;B[nc];W[od]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[oe];W[nd];B[mc]C[Noo!])
+(;B[nd];W[oe]
+(;B[sc]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])
+(;B[sa]C[Nothing can stop you from getting the one stone! Atari go rules!RIGHT])))))
+(;B[sc]C[Oh yeah! Long live the atari go :o)RIGHT])
+(;B[pc];W[rc])))
+(;B[jb];W[kc];B[kb];W[kd]
+(;B[mb]C[Oh, yeah! Long live atari go.RIGHT])
+(;B[ja];W[la];B[mb];W[ma];B[nb];W[oa];B[ob];W[pa];B[pb];W[qa];B[rb];W[qc]
+(;B[rc];W[pc]
+(;B[oc];W[pd]
+(;B[od];W[pe]
+(;B[oe];W[qe]
+(;B[qf];W[rd]C[Atari go - you lost!])
+(;B[sc];W[rd]))
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[qe];W[oe]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[ne];W[of]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT]))
+(;B[of];W[ne]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT]))))
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[pe];W[od]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[nd];W[oe]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[ne];W[of]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT]))
+(;B[of];W[ne]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])))
+(;B[oe];W[nd]
+(;B[sc]C[RIGHT])
+(;B[sa]C[Atari go rules - you will win with your next move!RIGHT]))))
+(;B[sa]C[RIGHT])
+(;B[sc]C[RIGHT])
+(;B[pd];W[oc]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[od];W[nc];B[mc];W[nd]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[md];W[ne]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])))
+(;B[nc];W[od]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])
+(;B[oe];W[nd];B[mc];W[ps])
+(;B[nd];W[oe]
+(;B[sc]C[RIGHT])
+(;B[sa]C[RIGHT])))))
+(;B[sc]C[RIGHT]))))))
+(;B[pm];W[ql]
+(;B[qk];W[pl];B[ol];W[pk];B[pj];W[ok];B[nk];W[oj];B[oi];W[nj];B[mj];W[ni];B[nh];W[mi];B[li];W[mh];B[mg];W[lh];B[kh];W[lg];B[lf];W[kg];B[jg];W[kf]C[Try again \:(])
+(;B[pl];W[qk]
+(;B[pk];W[qj];B[pj];W[qi])
+(;B[qj];W[pk];B[ok];W[pj];B[pi];W[oj];B[nj];W[oi];B[oh];W[ni];B[mi];W[nh];B[ng];W[mh]
+(;B[lh];W[mg])
+(;B[mg];W[lh]))
+(;B[pj];W[ps]))
+(;B[pk];W[ps])))
+(;B[qm];W[pn];B[on];W[pm];B[pl];W[om];B[nm];W[ol];B[ok];W[nl];B[ml];W[nk];B[nj];W[mk];B[lk];W[mj];B[mi];W[lj];B[kj];W[li];B[lh];W[ki]C[Try again \:(])
+(;B[pm];W[ps]))
+(;B[pn];W[ps]))

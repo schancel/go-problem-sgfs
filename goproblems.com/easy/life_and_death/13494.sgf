@@ -1,0 +1,249 @@
+(;GE[life and death]DI[5k]DP[33]SO[tomgo]CO[0]AW[ar]AW[br]AB[bq]AB[bp]AB[cp]AB[dp]AW[cq]AW[dq]AW[dr]AB[er]AB[fq]AB[gq]AB[hq]AW[gp]AW[hp]C[Corner battle : kill the white group in the corner, without letting any ko threat]AP[goproblems]
+(;B[ds];W[eq]
+(;B[ep];W[cr]
+(;B[es];W[cs]
+(;B[fr]C[Good job !RIGHT])
+(;B[bs];W[fr]C[White has won this battle !])
+(;B[aq];W[fr]C[White has won this battle !])
+(;B[as];W[fr]C[White has won this battle !])
+(;B[fs]C[White is dead but you let some ko threat ... you can do better]LB[gs:A]LB[fr:B])
+(;B[fp];W[fr]C[White has won this battle !])
+(;B[gr]C[White is dead but you let some ko threat ... you can do better]LB[fr:A]LB[fs:B]LB[gs:C])
+(;B[gs]C[White is dead but you let some ko threat ... you can do better]LB[fr:A]LB[gr:B]))
+(;B[fr]C[Good job !RIGHT])
+(;B[cs]
+(;W[fr]
+(;B[fs];W[es]
+(;B[gr];W[bs]
+(;B[ds];W[er]C[White has won this battle !])
+(;B[gs];W[er]C[White has won this battle !])
+(;B[cs];W[ds]C[White has won this battle !])
+(;B[er];W[ds]C[White has won this battle !]))
+(;B[bs];W[as]
+(;B[gr];W[gs]C[White has won this battle !])
+(;B[gs];W[cs]C[White has won this battle !])
+(;B[ds];W[cs]C[White has won this battle !])
+(;B[cs];W[gs]C[White has won this battle !])
+(;B[bs];W[cs]C[White has won this battle !]))
+(;B[as];W[bs]C[White has won this battle !]))
+(;B[gr];W[es]
+(;B[fs])
+(;B[bs];W[as]
+(;B[fs])
+(;B[ds];W[cs]C[White has won this battle !])
+(;B[cs];W[ds]
+(;B[fs];W[gs]C[White has won this battle !])
+(;B[gs];W[fs]C[White has won this battle !]))
+(;B[bs];W[cs]C[White has won this battle !])
+(;B[gs];W[fs]C[White has won this battle !]))
+(;B[gs];W[bs]
+(;B[fs])
+(;B[ds];W[cs]C[White has won this battle !])
+(;B[cs];W[ds]C[White has won this battle !]))
+(;B[as];W[bs]C[]
+(;B[fs];W[gs]C[White has won this battle !])
+(;B[gs];W[fs]C[White has won this battle !])
+(;B[ds];W[cs]C[White has won this battle !])))
+(;B[es])
+(;B[bs];W[es]
+(;B[gr])
+(;B[fs])
+(;B[gs];W[fs];B[gr];W[as]))))
+(;B[fs]C[Good job !RIGHT])
+(;B[gr]C[Good job !RIGHT])
+(;B[gs];W[fr];B[es]C[White is dead but you let some ko threat ... you can do better]LB[cs:A]LB[fs:B]LB[gr:C])
+(;B[bs];W[fr]
+(;B[fs];W[es];B[gr];W[gs]C[White has won this battle !])
+(;B[es];W[fs]
+(;B[gr];W[cs]C[White has won this battle !])
+(;B[cs];W[as]C[White has won this battle !]))
+(;B[cs])
+(;B[gr];W[es]
+(;B[cs])
+(;B[as];W[cs]C[White has won this battle !])
+(;B[fs]))))
+(;B[es];W[ep]
+(;B[eo];W[fp]C[White escape !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[fr];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[cs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[bs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[cr];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[fs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[aq];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[as];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[fp];W[cs]
+(;B[ep];W[es]
+(;B[fr];W[ds]C[White has won this battle !])
+(;B[fs];W[fr]C[White has won this battle !])
+(;B[aq];W[fr]C[White has won this battle !])
+(;B[bs];W[as]C[White has won this battle !]))
+(;B[fs];W[es]C[White has won this battle !])
+(;B[es];W[fr]C[White has won this battle !])
+(;B[fr];W[es]C[White has won this battle !])
+(;B[bs];W[as]C[White has won this battle !])
+(;B[aq];W[es]C[White has won this battle !])))
+(;B[es]
+(;W[eq]
+(;B[ep];W[ds];B[cs];W[cr]
+(;B[fr]C[];W[bs]C[White has won this battle !])
+(;B[bs];W[fr]C[White has won this battle !])
+(;B[as];W[bs]C[White has won this battle !])
+(;B[aq];W[bs]C[White has won this battle !])
+(;B[fs]C[];W[bs]C[White has won this battle !]))
+(;B[ds])
+(;B[cs];W[ds];B[cr];W[bs]C[White has won this battle !])
+(;B[cr];W[ds]
+(;B[cs])
+(;B[bs];W[cs]C[White has won this battle !])
+(;B[as];W[cs]C[White has won this battle !])
+(;B[aq];W[cs]C[White has won this battle !])
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[fs];W[cs]C[White has won this battle !])
+(;B[fp];W[cs]C[White has won this battle !]))
+(;B[aq];W[ds]
+(;B[cs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[cr])
+(;B[bs];W[cs]C[White has won this battle !])
+(;B[as];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[fp];W[cs]C[White has won this battle !]))
+(;B[bs];W[ds]
+(;B[cs];W[fr]C[White has won this battle !])
+(;B[as];W[cs]C[White has won this battle !])
+(;B[cr])
+(;B[aq])
+(;B[ep]
+(;W[fr]C[White has won this battle !]))
+(;B[fp];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[fs];W[cs]C[White has won this battle !]))
+(;B[as];W[ds]
+(;B[bs])
+(;B[cs];W[bs]
+(;B[ep];W[cr]C[White has won this battle !])
+(;B[fr];W[cr]C[White has won this battle !])
+(;B[aq];W[cr]C[White has won this battle !])
+(;B[fs];W[cr]C[White has won this battle !])
+(;B[fp];W[cr]C[White has won this battle !]))
+(;B[cr])
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[aq])
+(;B[fs];W[cs]C[White has won this battle !])
+(;B[fp];W[cs]C[White has won this battle !]))
+(;B[fr];W[ds]
+(;B[cs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[cr])
+(;B[bs])
+(;B[as])
+(;B[aq])
+(;B[fp];W[cs]C[White has won this battle !]))
+(;B[fs];W[ds]
+(;B[cs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[fp];W[cs]C[White has won this battle !])
+(;B[cr])
+(;B[bs])
+(;B[as])
+(;B[aq];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])))
+(;W[ds]C[White has won this battle !]))
+(;B[eq];W[ds]
+(;B[cs];W[bs]C[];B[es];W[cr]C[White has won this battle !])
+(;B[cr];W[cs]C[White has won this battle !])
+(;B[bs];W[cs];B[es];W[as]C[White has won this battle !])
+(;B[as];W[cs]C[White has won this battle !])
+(;B[aq];W[cs]C[White has won this battle !])
+(;B[es];W[cs]C[White has won this battle !]))
+(;B[cs];W[eq]
+(;B[ds])
+(;B[es])
+(;B[fr];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[fs];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[cr];W[bs]
+(;B[ds];W[es]
+(;B[cs];W[fr]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[fs];W[fr]C[White has won this battle !])
+(;B[ep];W[cs]C[White has won this battle !]))
+(;B[aq];W[ds]C[White has won this battle !])
+(;B[es];W[ds]C[White has won this battle !]))
+(;B[bs];W[ds]
+(;B[as];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[cr];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[ep];W[fr]C[White has won this battle !])
+(;B[es])
+(;B[aq];W[fr]C[White has won this battle !]))
+(;B[ep];W[fr]
+(;B[ds];W[es]C[White has won this battle !])
+(;B[es];W[cr]
+(;B[ds];W[fs]C[White has won this battle !])
+(;B[fs];W[bs]
+(;B[gr];W[ds]C[White has won this battle !])
+(;B[ds];W[gs]C[White has won this battle !]))
+(;B[bs];W[ds]C[White has won this battle !])
+(;B[gr];W[bs]
+(;B[fs])
+(;B[ds];W[fs]C[White has won this battle !])))
+(;B[cr];W[es]C[White has won this battle !])
+(;B[fs];W[es]
+(;B[ds];W[gs]
+(;B[gr];W[bs]C[];B[hs];W[cr]C[White has won this battle !])
+(;B[bs];W[cr]
+(;B[gr];W[as]C[White has won this battle !])
+(;B[aq];W[as]C[White has won this battle !])))
+(;B[cr];W[bs]C[White has won this battle !]))
+(;B[bs];W[es]
+(;B[ds];W[fs]C[White has won this battle !])
+(;B[cr];W[ds]C[White has won this battle !])
+(;B[as];W[ds]C[White has won this battle !]))))
+(;B[gr];W[cs]C[White has won this battle !])
+(;B[bs];W[cs]C[White has won this battle !])
+(;B[aq];W[cs]C[White has won this battle !])
+(;B[fr];W[cs]C[White has won this battle !])
+(;B[fs];W[cs]
+(;B[ds];W[eq]
+(;B[ep];W[es]C[Not bad but you can have better than a ko])
+(;B[es];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !]))
+(;B[fr];W[ep]
+(;B[eo];W[fp]C[White has escaped !])
+(;B[fp];W[eo]C[White has escaped !])))
+(;B[es];W[ds]C[White has won this battle !])
+(;B[fr];W[ds]C[White has won this battle !])
+(;B[eq];W[ds]C[White has won this battle !]))
+(;B[ep];W[cs]C[White has won this battle !])
+(;B[cr];W[cs]C[White has won this battle !]))

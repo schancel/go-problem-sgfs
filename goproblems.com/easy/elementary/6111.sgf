@@ -1,0 +1,18 @@
+(;GE[elementary]DI[30k]DP[81]SO[brightwater]CO[7]AB[jd]AB[je]AW[id]AW[ie]AB[jf]AW[if]AB[ic]AW[hc]AB[hb]C[White to split Black]AW[ig]AB[fc]AP[goproblems]
+(;W[ib]
+(;B[jc]
+(;W[gb]
+(;B[jb]
+(;W[ha]C[Moves other than H19 might be good as well, depending on the surrounding (Such as G17).RIGHT])
+(;W[ia]
+(;B[hd];W[gc];B[gd];W[fd];B[fb];W[ha];B[ge]C[This kind of move (J19) is usually bad. W created some trouble for himself.]MA[ia])))
+(;B[hd]
+(;W[gc]LB[gd:1]LB[fd:2]C[nicely doneCHOICERIGHT])
+(;W[ha]
+(;B[gc]C[W created some trouble for himself.]))))
+(;W[jb];B[hd];W[gc];B[gb];W[gd];B[kb])
+(;W[gc];B[gb])
+(;W[hd];B[gb])
+(;W[ha];B[gb])))
+(;W[gb];B[gc];W[hd];B[ib])
+(;W[jc];B[ib]))

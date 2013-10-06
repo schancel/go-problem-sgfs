@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4k]DP[30]SO[field mouse]CO[0]AW[io]AW[jn]AW[ko]AB[im]AB[in]AB[km]AB[kn]AB[jq]AB[lo]AB[ho]AW[hn]AW[gn]AW[fn]AW[ln]AW[mn]AW[nn]AW[eo]AW[ep]AW[eq]AW[er]AW[oo]AW[op]AW[oq]AW[or]AB[jl]AB[hl]AB[ll]AB[il]AB[kl]AB[gl]AB[ml]AB[nl]AB[fl]C[Black wants to lower the value of white territory a bit. Unfortunately black is not good enough to find some way to do that.. can you help her?]AW[mr]AP[goproblems]
+(;B[jo];W[jp]
+(;B[kp]C[]
+(;W[lp]C[Remember - white has unlimited source of ko threats!]
+(;B[jm];W[kq]
+(;B[ip]C[Cool!RIGHT])
+(;B[jo];W[ip]C[And black cannot win the L4 ko]))
+(;B[ip];W[kq]
+(;B[jm]C[Very nice!RIGHT])
+(;B[jo]C[NOTTHIS]))
+(;B[jo]C[NOTTHIS]))
+(;W[ip];B[jm];W[jo];B[hp]C[Ladder!RIGHT]))
+(;B[ip]C[];W[kp];B[jm])
+(;B[jm];W[kp];B[ip];W[jo]))
+(;B[ip];W[jo];B[kp];W[hp])
+(;B[jm];W[jo]))

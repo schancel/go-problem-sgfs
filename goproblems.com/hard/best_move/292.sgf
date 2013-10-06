@@ -1,0 +1,25 @@
+(;GE[best move]DI[4d]DP[8]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qd][rc]AW[qc]AE[qa]AW[qb][pd][od][nc][ne][me]AB[ld][nf][of][oe][pe][qe][dp]AW[dd][qp][pg]AB[pj]C[best move for black?]
+(;B[oq]CR[oq]C[RIGHT
+correct direction])
+(;B[qn]CR[qn]
+;W[op]CR[op]C[black is unsatisfied; wrong direction])
+(;B[op]CR[op]LB[oq:A]C[close, but slightly better on the third line at A])
+(;B[np]CR[np]TR[qp]C[you need to pressure the marked stone with a closer move])
+(;B[fc]CR[fc]
+;W[qm]CR[qm]C[white's move is too big])
+(;B[cf]CR[cf]
+;W[qm]CR[qm])
+(;B[hc]CR[hc]
+;W[qm]CR[qm])
+(;B[mf]CR[mf]
+;W[le]CR[le]C[white just builds fifth-line territory])
+(;B[jp]CR[jp]
+;W[qm]CR[qm])
+(;B[dj]CR[dj]
+;W[qm]CR[qm])
+(;B[cj]CR[cj]
+;W[qm]CR[qm])
+(;B[pn]CR[pn]C[too high, wrong direction too])
+(;B[nq]CR[nq]
+;W[qm]CR[qm]))

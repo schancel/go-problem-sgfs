@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[30]SO[Lothe]CO[9]AW[ij]AB[dj]AB[ik]AB[hk]AW[jr]AB[jo]AW[ir]AB[iq]AB[ip]AW[io]AW[kp]AB[kq]AB[hr]AB[gq]AW[hq]AW[km]AW[dr]AB[cr]AW[cq]AB[dq]AW[eq]AB[dp]AB[do]AB[cp]AW[hp]C[White has just played 1, and it is a serious mistake.  Black to show him the error of his ways.]LB[hp:1]AP[goproblems];B[ho];W[gp];B[fp];W[go];B[gn];W[fo]
+(;B[fn];W[eo];B[ep];W[en];B[em];W[dn];B[cn];W[dm];B[dl];W[cm];B[bm];W[cl];B[ck];W[bl]
+(;B[bk];W[al]
+(;B[am];W[hn]
+(;B[ak];W[ho];B[hm];W[in]
+(;B[jn];W[im];B[jm];W[il];B[jl]C[Very good!  This problem operates on a relatively simple concept, but it takes a lot of thought to see how it should be applied over an area this large.RIGHT])
+(;B[jm]LB[el:A]LB[gr:B]C[Close, but you've got to keep the pressure on.  With this move, White can cut at either A or B for freedom.]))
+(;B[in];W[gr]LB[fq:A]LB[hs:B]C[White is now free whenever the need arises with a capture at A or B.]))
+(;B[ak];W[hn]
+(;B[am];W[ho];B[hm];W[in]
+(;B[jn];W[im];B[jm];W[il];B[jl]C[Very good!  This problem operates on a relatively simple concept, but it takes a lot of thought to see how it should be applied over an area this large.RIGHT])
+(;B[jm]LB[el:A]LB[gr:B]C[Close, but you've got to keep the pressure on.  With this move, White can cut at either A or B for freedom.]))
+(;B[in];W[gr]LB[fq:A]LB[hs:B]C[White is now free whenever the need arises with a capture at A or B.])))
+(;B[al];W[bk];B[bj];W[hn]
+(;B[ak];W[ho];B[hm];W[in]
+(;B[jn];W[im];B[jm];W[il];B[jl]C[Very good!  This problem operates on a relatively simple concept, but it takes a lot of thought to see how it should be applied over an area this large.RIGHT])
+(;B[jm]C[Close, but you've got to keep the pressure on.  With this move, White can cut at either A or B for freedom.]LB[el:A]LB[gr:B]))
+(;B[in];W[gr]C[White is now free whenever the need arises with a capture at A or B.]LB[fq:A]LB[hs:B])))
+(;B[eo];W[fn];B[fm];W[en]
+(;B[dn];W[em];B[el];W[hn];B[dm];W[gm]C[The white group is now free and Black is in a very weak position.])
+(;B[em];W[dn];B[cn];W[dm];B[dl];W[cm];B[bm];W[hn];B[cl];W[gm];B[in];W[hm];B[ho];W[gn]
+(;B[il];W[im];B[jm];W[gr]LB[fq:A]LB[hs:B]C[Black's only real recourse now is to connect at A and attempt damage control.  A play at B would only result in the death of the black group.  (A play of Black C would result in White A, both freeing the group and leaving the marked stone still doomed.)]LB[gl:C]TR[hr])
+(;B[gl];W[im];B[jm];W[jl];B[jn];W[il]LB[jk:A]LB[kl:B]C[The white group is now secure as A and B are miai for White (Black plays one, White plays the other).  Moreover, Black's position is less than favorable for him.]))))

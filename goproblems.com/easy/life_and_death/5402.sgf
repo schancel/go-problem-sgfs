@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[49]SO[karmaGfa]CO[8]SZ[19]AW[ea]AW[eb]AW[ec]AW[ad]AW[ed]AW[be]AW[ce]AW[de]AW[af]AW[bf]AW[cf]AW[df]AW[bg]AW[cg]AW[dg]AW[ah]AW[bh]AW[ch]AW[cq]AW[dq]AW[eq]AW[ar]AW[br]AW[er]AW[fr]AW[gr]AW[hr]AW[bs]AW[ds]AW[fs]AB[ba]AB[ca]AB[da]AB[ab]AB[bb]AB[cb]AB[db]AB[ac]AB[bc]AB[cc]AB[dc]AB[bd]AB[cd]AB[dd]AB[ee]AB[ef]AB[eg]AB[dh]AB[eh]AB[ai]AB[bi]AB[ci]AB[di]AB[bp]AB[cp]AB[dp]AB[ep]AB[fp]AB[gp]AB[aq]AB[bq]AB[hq]AB[iq]AB[cr]AB[ir]AB[cs]AB[is]LB[aa:N]LB[ad:1]LB[aq:2]LB[dr:Y]MA[ae]C[Is the black move at 2 a real threat for the life of the white group ?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Chinese]KM[6.50]PW[Blanc]PB[Noir]PL[W]
+(;W[aa];B[as]
+(;W[dr]
+(;B[hs]C[CHOICE];W[br]C[White is alive.RIGHT])
+(;B[ar]C[CHOICE];W[hs]C[White is alive.RIGHT]))
+(;W[hs];B[dr];W[br];B[es]C[Ko for the life, there is better.])
+(;W[br];B[ar]
+(;W[dr];B[bs];W[hs]C[White is alive.RIGHT])
+(;W[hs]C[White is alive.RIGHT])))
+(;W[dr];B[ae]C[A3 was not a threat for the life.]))

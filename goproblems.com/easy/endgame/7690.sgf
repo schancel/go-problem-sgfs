@@ -1,0 +1,17 @@
+(;GE[endgame]DI[12k]DP[58]SO[gorka]CO[6]AW[fa]AW[ia]AW[eb]AW[ib]AW[dc]AW[fc]AW[gc]AW[jc]AW[dd]AW[ed]AW[jd]AW[kd]AW[ee]AW[fe]AW[ie]AW[je]AW[hf]AW[gg]AW[hg]AW[fh]AW[gh]AW[gi]AB[da]AB[jb]AB[kb]AB[cc]AB[kc]AB[cd]AB[ld]AB[de]AB[ke]AB[le]AB[df]AB[ef]AB[ff]AB[if]AB[jf]AB[kf]AB[eg]AB[ig]AB[eh]AB[hh]AB[ih]AB[ei]AB[fi]AB[hi]AB[gj]AB[hj]C[Black to reduce white's territory as much as possible !]
+(;B[he]
+(;W[hd]
+(;B[ge]
+(;W[gf];B[fg]C[RIGHTRIGHT])
+(;W[gd];B[gf]C[RIGHTRIGHT]))
+(;B[gf];W[ge]C[wrong];B[fg];W[he])
+(;B[ic]C[wrong];W[ge]))
+(;W[ge];B[hd]
+(;W[ic];B[gf]C[RIGHTRIGHT])
+(;W[gf];B[ic]C[RIGHTRIGHT])))
+(;B[ge];W[he];B[gf];W[gd]C[you can do better])
+(;B[gf];W[ge];B[fg];W[he]C[you can do better !])
+(;B[db];W[gf])
+(;B[ic];W[he]
+(;B[ge];W[gf])
+(;B[gf];W[ge])))

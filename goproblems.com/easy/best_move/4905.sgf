@@ -1,0 +1,21 @@
+(;GE[best move]DI[5k]DP[32]SO[chrise]CO[8]AB[gg]AB[fg]AB[eh]AB[ei]AB[ej]AB[fk]AB[gk]AB[gj]AB[fi]AB[gi]AB[hi]AB[jh]AB[kg]AB[lg]AB[mh]AB[mi]AB[mj]AB[lk]AB[kk]AB[jj]AB[ji]AW[hk]AW[hj]AW[ij]AW[ii]AW[ih]AW[hh]AW[jg]AW[hg]AW[if]AW[kf]AW[lf]AW[mg]AW[gf]AW[ff]AW[eg]AW[dh]AW[di]AW[dj]AW[ek]AW[fl]AW[gl]AW[il]AW[jk]AW[kl]AW[ll]AW[mk]AW[nj]AW[ni]AW[nh]AW[nf]AW[nl]AW[dl]AW[df]C[White's best move?]AP[goproblems]
+(;W[gh];B[ki]
+(;W[lj];B[kj]
+(;W[lh];B[li];W[kh]C[Recognising that the O is a dead shape as it stands is imperative to opening on g12 to capture the G shape.RIGHT])
+(;W[li];B[lh])
+(;W[kh];B[lh]))
+(;W[lh];B[kh]
+(;W[lj];B[li];W[kj]C[Recognising that the O is a dead shape as it stands is imperative to opening on g12 to capture the G shape.RIGHT])
+(;W[li];B[lj])
+(;W[kj];B[lj]))
+(;W[kj];B[lj])
+(;W[li];B[lj])
+(;W[kh];B[lh])
+(;W[fh];B[li]))
+(;W[li];B[gh])
+(;W[ki];B[gh])
+(;W[kh];B[gh])
+(;W[lh];B[gh])
+(;W[lj];B[gh])
+(;W[kj];B[gh])
+(;W[fh];B[gh]))

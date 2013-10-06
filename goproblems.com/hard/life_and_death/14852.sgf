@@ -1,0 +1,175 @@
+(;GE[life and death]DI[5d]DP[4]SO[MeleeNewb]CO[0]AB[np]AB[op]AW[pp]AW[po]AW[oq]AW[nq]AB[lq]AB[pq]AB[qq]AW[pr]AW[mr]AB[qr]AW[lr]AB[kr]AB[jr]AB[ir]AB[hq]AW[iq]AW[ip]AB[qn]AW[os]AW[nr]AB[ms]AW[ks]AB[qm]AB[on]AB[qk]AB[gq]AW[hp]AW[oj]AW[pi]AB[qs]AW[ps]AB[rn]AW[qo]AW[ro]AW[so]AB[sp]AB[rp]AW[sr]AW[ss]AB[rq]AB[gr]AB[rl]AB[gp]AW[hn]AB[lh]AW[rs]AW[ii]AW[hi]AB[fj]AW[gi]AW[ek]AP[goproblems];B[ls];W[mp]
+(;B[mq]
+(;W[mo]
+(;B[no]
+(;W[nn];B[oo];W[pn];B[om];W[pm]
+(;B[ol];W[pl];B[pk];W[ok]
+(;B[nl];W[ml]
+(;B[nk];W[mj]
+(;B[ql];W[mk]
+(;B[sn];W[kq];B[lp]
+(;W[ln]
+(;B[lo];W[mn];B[ko];W[kp]
+(;B[in];W[io]
+(;B[jo];W[jp])
+(;B[jn];W[im]
+(;B[jm];W[jo];B[kn];W[jl])
+(;B[jq];W[jp]TR[jo]C[FORCE];B[jo];W[ho])
+(;B[kn];W[km])
+(;B[jo];W[jp]TR[jq]C[FORCE];B[jq])
+(;B[jp]C[Blocked to reduce variationsNOTTHIS]))
+(;B[jp]C[Blocked to reduce variationsNOTTHIS])
+(;B[kn];W[km]))
+(;B[jo];W[jp]
+(;B[in];W[io]C[Please play k3 to help reduce variations.FORCE]
+(;B[jq];W[ho]
+(;B[jn]
+(;W[hm];B[jl];W[jm]C[CHOICE])
+(;W[im]
+(;B[jm];W[il]
+(;B[jl];W[jk]
+(;B[hm];W[gn]TR[gm]C[FORCE];B[gm];W[fn]
+(;B[ik];W[hl]
+(;B[kk];W[jj]
+(;B[kl];W[kj]
+(;B[js]C[RIGHT])
+(;B[lm];W[nm];B[qp];W[ll];B[js];W[lk];B[ks];W[km])
+(;B[gl]C[Blocked to reduce variationsNOTTHIS])
+(;B[fm]C[Blocked to reduce variationsNOTTHIS])
+(;B[hk]C[Blocked to reduce variationsNOTTHIS]))
+(;B[ll];W[lm]
+(;B[kl];W[kj])
+(;B[kj];W[ki];B[kl];W[lj])
+(;B[js];W[kl];B[km];W[kn];B[kl];W[kj]))
+(;B[kj];W[kl])
+(;B[km];W[ll];B[kl];W[kj])
+(;B[lm];W[nm];B[qp];W[ll])
+(;B[hk]C[Blocked to reduce variations.NOTTHIS])
+(;B[gl]C[Blocked to reduce variations.])
+(;B[fm]C[Blocked to reduce variations.]))
+(;B[fm];W[kl])
+(;B[hk]C[Blocked to reduce variations.NOTTHIS])
+(;B[gl]C[Blocked to reduce variations.NOTTHIS]))
+(;B[kk];W[jj]TR[ik]C[FORCE];B[ik];W[hl]))
+(;B[kk];W[kl])
+(;B[ik];W[kl]))
+(;B[hm];W[gn]TR[gm]C[FORCE];B[gm];W[fn]
+(;B[jl];W[jk])
+(;B[fm];W[jl]))
+(;B[lm];W[km]
+(;B[jl];W[jk];B[kl];W[kk]
+(;B[mm];W[ll])
+(;B[ll];W[mm])
+(;B[kn];W[ll]))
+(;B[kl];W[jl]))
+(;B[kl];W[jl];B[km];W[kk])
+(;B[km];W[jl];B[kl]))
+(;B[hm];W[jm])))
+(;B[jm];W[jn];B[kn];W[km];B[jn];W[jl])
+(;B[km];W[jm]
+(;B[im];W[jn];B[kn];W[jl])
+(;B[jn];W[im])
+(;B[kn];W[kl];B[im];W[jl];B[jn];W[hm];B[il];W[ik];B[hl];W[gl];B[hk];W[gk];B[jk];W[hj];B[ij];W[lm];B[ik];W[kk];B[jj];W[ji])
+(;B[jl];W[kn]))
+(;B[im];W[jn]))
+(;B[jn]C[This move is better for black, leaving the possibility to throw in h5 later, however is blocked to reduce the number of branches needed to cover the solution.NOTTHIS]))
+(;B[ho];W[io];B[in];W[go]TR[jq]C[FORCE];B[jq];W[ho];B[jn];W[im];B[jm];W[il];B[jl];W[jk];B[hm];W[hl];B[gm];W[fo];B[kk];W[kl])
+(;B[jn];W[jm];B[ho];W[io];B[in];W[go]MA[jq]C[FORCE]
+(;B[jq];W[ho];B[im];W[il]
+(;B[hm];W[gm]TR[fo]C[FORCE];B[fo];W[gn];B[hl];W[gl]
+(;B[hk];W[gk]
+(;B[ik]C[RIGHT])
+(;B[jl]C[RIGHT]))
+(;B[jl];W[ik]
+(;B[hk]C[RIGHT])
+(;B[km];W[hk]
+(;B[ll];W[kn];B[jm];W[mm];B[kj];W[kk])
+(;B[kk];W[kn];B[jm];W[nm];B[qp];W[kj]))))
+(;B[jl];W[hm];B[km];W[kn];B[jm];W[jk];B[kk];W[kl]
+(;B[ll];W[lm];B[kl];W[kj])
+(;B[lm];W[ll])))))
+(;B[jn];W[jm]
+(;B[im];W[in];B[km];W[kn]
+(;B[jo];W[jl])
+(;B[jl];W[jo]))
+(;B[km];W[kn];B[jo];W[in])
+(;B[jo];W[in])
+(;B[jp];W[jq];B[ho];W[jo])
+(;B[ho];W[jo])
+(;B[io];W[kn];B[jo];W[ho]))
+(;B[kn];W[km];B[jm];W[jn];B[jo];W[io];B[in];W[jp])
+(;B[jq];W[jp];B[in];W[jn];B[jo];W[ho];B[kn];W[km];B[jm];W[io]))
+(;B[ko];W[kp];B[lo];W[mn])
+(;B[kp];W[jq]
+(;B[jo]
+(;W[ko];B[jp];W[in]
+(;B[lo];W[mn];B[kn]
+(;W[km];B[jm])
+(;W[jn];B[km];W[io];B[ko];W[kl];B[jm];W[il]))
+(;B[kn];W[jn];B[lo];W[mn]))
+(;W[in]))
+(;B[ko];W[kn]
+(;B[jn];W[jo];B[io];W[lo])
+(;B[jo];W[jn];B[io];W[ho]))
+(;B[kn];W[ko];B[jo];W[jp])
+(;B[jn];W[ko])))
+(;W[lo];B[kp];W[jq]
+(;B[ko];W[kn]
+(;B[ln];W[mn];B[jn];W[km]
+(;B[jo]
+(;W[jm]
+(;B[ho];W[io];B[in];W[go];B[im]C[];W[il];B[hm];W[gm];B[hl];W[gl];B[hk];W[ik];B[gk];W[fk];B[gj];W[ei];B[js]C[RIGHT])
+(;B[im];W[in])
+(;B[io];W[ho])
+(;B[in];W[im];B[ho];W[go])))
+(;B[jm];W[jo])
+(;B[io];W[jo]))
+(;B[jn];W[jo]))
+(;B[jo];W[ko];B[jp];W[jn])))
+(;B[qp]C[Blocked to reduce variationsNOTTHIS]))
+(;B[sn]C[Blocked to reduce variationsNOTTHIS])
+(;B[qp]C[Blocked to reduce variationsNOTTHIS])
+(;B[mk];W[lk]
+(;B[mm];W[mn]
+(;B[ll];W[kq])
+(;B[lp];W[ll];B[ln];W[nj]))
+(;B[mn];W[nj];B[nm];W[mm]))
+(;B[mn];W[kq];B[lp];W[lo];B[kp];W[mk])
+(;B[lp];W[mk])
+(;B[mm];W[mn];B[ln];W[kq];B[lp];W[lo];B[kp];W[ko];B[jq];W[mk])
+(;B[lo];W[mn]
+(;B[ql];W[mk]
+(;B[sn];W[kq];B[lp];W[ln])
+(;B[qp]C[Blocked to reduce variationsNOTTHIS]))
+(;B[sn]C[Blocked to reduce variationsNOTTHIS])
+(;B[qp]C[Blocked to reduce variationsNOTTHIS])))
+(;B[mn];W[nk];B[nm];W[mm]))
+(;B[mn];W[nl];B[nm];W[mm])
+(;B[mm];W[mn]
+(;B[lp];W[ml])
+(;B[lm];W[kq];B[lp];W[kp];B[lo];W[ln];B[ko];W[kn];B[jo];W[jn]))
+(;B[nm];W[mm]
+(;B[nl];W[mn];B[ml];W[kq])
+(;B[mn];W[nl])))
+(;B[pl];W[ol];B[nm];W[mn]
+(;B[mm];W[kq];B[lp];W[kp];B[lo];W[ln];B[ko];W[kn];B[jo];W[jn])
+(;B[kp];W[nl]))))
+(;B[nn];W[kq])
+(;B[oo];W[kq])
+(;B[mn];W[oo])
+(;B[kp];W[oo]))
+(;W[lp]C[This branch is not part of the main line, and therefore only includes one possible way for black to play rather than being comprehensive.];B[kq];W[oo];B[no];W[nn];B[mo];W[nm];B[lo];W[pn];B[om];W[pm];B[ol];W[pl];B[pk];W[ok];B[nl]C[RIGHT])
+(;W[oo]C[This branch is not part of the main line, and therefore only includes one possible way for black to play rather than being comprehensive.];B[no];W[nn];B[mo]
+(;W[lo];B[mn]
+(;W[kq];B[lp];W[kp];B[mp];W[nm];B[om]C[RIGHT])
+(;W[nm];B[mm]C[RIGHT]))
+(;W[nm];B[lp];W[pn];B[om];W[pm];B[ol];W[pl];B[pk];W[ok];B[nl]C[RIGHT])))
+(;B[mo];W[lp]
+(;B[kq];W[mq]
+(;B[ko];W[lo])
+(;B[kn];W[kp])
+(;B[jo];W[lo]))
+(;B[kp];W[lo]))
+(;B[lp];W[mo]
+(;B[no];W[nn];B[oo];W[mq])
+(;B[nn];W[lo];B[kq];W[mq])))

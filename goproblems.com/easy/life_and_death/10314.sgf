@@ -1,0 +1,3 @@
+(;GE[life and death]DI[10k]DP[53]SO[Athanatos]CO[5]AB[ra]AB[qa]AW[qb]AW[pb]AW[ob]AW[oa]AW[oc]AB[qc]AW[rc]AW[rd]AW[qd]AW[sd]AB[se]AB[re]AB[qe]AB[pe]AB[pd]AB[nd]AB[me]AB[nb]AB[mb]C[Black to kill]AP[goproblems]
+(;B[rb];W[pc];B[sb]C[Good! White will never be able to play at A. One eye against no eye wins.RIGHT]LB[sc:A])
+(;B[sb];W[rb];B[pc]C[If White stay in this position, after Black fill in all the liberties on the outside, ther will be a seki.];W[sc]LB[nf:T]C[];B[sa];W[pa];B[ra];W[sa];B[sb];W[qa]))

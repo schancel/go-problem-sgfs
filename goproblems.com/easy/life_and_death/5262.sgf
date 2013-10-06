@@ -1,0 +1,23 @@
+(;GE[life and death]DI[10k]DP[53]SO[marwin]CO[7]SZ[19]AW[sn]AW[ro]AW[op]AW[qp]AW[oq]AW[qq]AW[rq]AW[sq]AW[or]AW[pr]AB[rm]AB[pn]AB[rn]AB[po]AB[pp]AB[rp]AB[pq]AB[qr]AB[rr]AB[sr]C[Black to play and win]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[sp];W[so]
+(;B[rp];W[qo]
+(;B[qn];W[qs];B[sm]C[RIGHT])
+(;B[sm];W[qs];B[qn];W[sp]C[RIGHT]))
+(;B[qo];W[qs]
+(;B[rp];W[sp];B[sm]C[RIGHT])
+(;B[sp];W[rp];B[sm]C[RIGHT])
+(;B[sm];W[rs];B[rp];W[ss]))
+(;B[sm];W[qs]
+(;B[qo];W[rs];B[rp];W[ss])
+(;B[rp];W[rs];B[qo];W[ss])
+(;B[sp];W[rs];B[qo];W[ss]))
+(;B[sp];W[qo]
+(;B[sm];W[qs];B[qn];W[rp]C[RIGHT])
+(;B[qn];W[qs];B[sm];W[rp]C[RIGHT])))
+(;B[qo];W[sp];B[sm];W[qs];B[so]C[only ko (black can do better)])
+(;B[so];W[sp];B[qo];W[qs];B[sm];W[rs])
+(;B[sm];W[sp]
+(;B[qo];W[qs])
+(;B[so];W[qs];B[qo];W[sn]))
+(;B[qs];W[ps];B[qo];W[sp];B[sm];W[rs])
+(;B[rs];W[ps];B[sp];W[so];B[qo];W[qs]))

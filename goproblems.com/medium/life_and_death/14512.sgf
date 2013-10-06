@@ -1,0 +1,21 @@
+(;GE[life and death]DI[1k]DP[19]SO[MrMoto]CO[0]AB[aq]AB[bq]AB[cr]AB[ds]AB[ao]AB[bo]AB[co]AB[do]AB[eo]AB[fo]AB[gp]AB[hq]AB[hr]AB[hs]AB[ho]AW[gq]AW[gr]AW[gs]AW[es]AW[eq]AW[ap]AW[bp]AW[cp]AW[dq]AW[fp]AW[fr]C[White has two big ko threats elsewhere; Black only has a couple of small external gote moves. What's the best Black can do in the corner?]AP[goproblems]
+(;B[cq];W[dr]C[You can save a few stones, but you could have killed White.])
+(;B[dp];W[cq])
+(;B[ep];W[dr])
+(;B[dr];W[er];B[ep];W[bs]
+(;B[fq];W[cq]C[You should make better shape in the corner before starting the ko fight.])
+(;B[dp];W[cq]C[This forces white to give you bad shape.])
+(;B[cq];W[dp]
+(;B[fq];W[bl]C[Please respond to White's ko threat at A.FORCE]LB[bk:A];B[bk];W[fp]LB[hk:A]C[If you would like to play a 1-point gote move, please continue at A.]
+(;B[ar];W[br];B[fq];W[cl]LB[ck:A]C[Please play at A.FORCE];B[ck];W[fp]C[Please play a small gote move at A.FORCE]LB[hk:A];B[hk];W[cs]
+(;B[fq];W[as]C[:O])
+(;B[as];W[bs];B[fq]C[RIGHT];W[dl]C[White has no more real threats. Don't answer this one at A!]LB[dk:A]
+(;B[fs]C[Well done! :)RIGHT])
+(;B[dk];W[fp]C[Oh no! Please play a 1-point gote move at A.FORCE]LB[gk:A];B[gk];W[cs]
+(;B[br];W[cs]
+(;B[bs];W[cs]C[:(])
+(;B[fq];W[bs]))
+(;B[fq];W[br]))))
+(;B[hk];W[ar];B[fq];W[cl]C[Please play at A.FORCE]LB[ck:A];B[ck];W[fp]C[Why don't you play another 1-point gote move? :(FORCE]LB[gk:A];B[gk];W[cs]MA[ar]MA[bs]C[Instead of your first gote move, you should have played at A2 to make White spend more moves in the corner. Curious, isn't it?]))
+(;B[ar];W[br]C[Why wouldn't you start the ko first?])))
+(;B[bs];W[dr]C[You can save a few stones, but you could have killed White.]))

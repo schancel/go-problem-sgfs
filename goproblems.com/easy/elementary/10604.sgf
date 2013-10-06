@@ -1,0 +1,17 @@
+(;GE[elementary]DI[20k]DP[70]SO[bostongo]CO[8]C[White to kill.]AB[ra]AB[sb]AB[rb]AB[qb]AB[pb]AB[na]AW[sc]AW[rc]AW[qc]AW[pc]AW[oc]AW[nb]AW[mb]AW[lb]AP[goproblems]
+(;W[pa]
+(;B[ob]C[This is the position shown in BostonGo Problem #4.]
+(;W[oa];B[qa];W[oa]C[CHOICERIGHT])
+(;W[ma];B[oa]C[Two eyes.]))
+(;B[oa]C[]
+(;W[ob]C[CHOICERIGHT])
+(;W[ma];B[ob]))
+(;B[qa]C[]
+(;W[oa];B[ob])
+(;W[ob];B[oa]C[RIGHT])
+(;W[ma]
+(;B[oa];W[ob]C[CHOICERIGHT])
+(;B[ob];W[oa];B[na];W[oa]C[RIGHT]))))
+(;W[oa];B[pa]C[Two eyes.])
+(;W[ob]
+(;B[pa]C[Two eyes.CHOICE])))

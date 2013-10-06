@@ -1,0 +1,34 @@
+(;GE[best move]DI[8k]DP[46]SO[MrVale]CO[0]AB[hn]AB[gn]AB[go]AB[fn]AB[fm]AB[em]AB[fl]AB[fk]AB[ek]AB[ej]AB[gk]AB[hk]AB[ij]AB[ii]AB[jh]AB[kg]AB[im]AB[jm]AB[kl]AB[kk]AB[lj]AB[mj]AB[nj]AB[ni]AB[oi]AB[nk]AB[nl]AB[nm]AB[pm]AW[gl]AW[gm]AW[hm]AW[hl]AW[il]AW[ik]AW[jk]AW[jj]AW[ji]AW[kj]AW[kh]AW[li]AW[mi]AW[nh]AW[oh]AB[ng]AB[og]AW[mg]AW[nf]AW[of]AB[pg]AB[qh]AB[qg]AB[qf]AB[qe]AB[pd]AB[pc]AB[ob]AB[nc]AW[le]AW[pb]AW[qb]AW[qc]AW[qd]AW[re]AW[rf]AB[rg]AW[qj]AB[ol]AB[pk]AB[qk]AB[nn]AB[pl]AW[pj]AW[qi]AB[rj]AB[ri]AB[si]AW[sj]AW[sk]AW[rk]AW[sl]AW[rl]AW[ql]AW[qm]AW[qn]AW[rn]AW[sn]AB[sm]AW[pn]AW[on]AW[om]AW[no]AW[np]AW[po]AW[ro]AW[so]AW[sp]AB[rq]AB[rp]AB[qp]AB[qo]AB[oo]AB[op]AB[pp]AW[oq]AW[pq]AW[mn]AW[mm]AW[ml]AW[mk]AW[lk]AB[mo]AB[lo]AB[ln]AW[mp]AW[mq]AW[in]AW[io]AW[ho]AW[ip]AW[iq]AW[jq]AB[hp]AB[hq]AB[gq]AB[fq]AB[eq]AB[ep]AW[gp]AW[fo]AW[fp]AW[eo]AW[do]AW[en]AW[dp]AW[dq]AW[cq]AW[bq]AW[fr]AW[er]AB[gr]AB[fs]AW[ds]LB[kg:1]AB[cp]AB[co]AB[cn]AB[dn]AB[bn]AB[bm]AB[al]AW[cm]AW[dm]AW[el]AB[cl]AB[ck]AW[bl]AW[bk]AW[aj]AW[cj]AW[dj]AW[ei]AW[gi]AW[hj]AB[eg]AB[gf]AB[fd]AB[dd]AB[cc]AW[bd]AW[cf]AB[jd]LB[ds:2]C[White did a big mistake! Do you see it?   Please comment if i did a mistake.]AW[pr]AW[nr]AW[os]AB[ps]AB[qs]AB[qr]AB[sr]AW[rs]AW[qq]AB[rr]AW[ee]AP[goproblems]
+(;B[jl];W[ki]
+(;B[mh];W[lh];B[lg];W[mh]
+(;B[mf]C[Excellent! :)RIGHT])
+(;B[ph];W[mf]C[CHOICE]))
+(;B[lh];W[mh]C[Now it looks difficult for White to live, but you could kill him immediately.CHOICE])
+(;B[lg];W[mh]C[Now it looks difficult for White to live, but you could kill him immediately.CHOICE])
+(;B[ig];W[lg]C[Now it looks difficult for White to live, but you could kill him immediately]))
+(;B[ir];W[ih]
+(;B[jr];W[kq];B[kr];W[lr]
+(;B[ks];W[hs]
+(;B[is];W[gs];B[hr];W[gs]C[CHOICE])
+(;B[hr]
+(;W[gs];B[is];W[gs])
+(;W[is]C[CHOICE])))
+(;B[gs];W[ks];B[js];W[hs]C[CHOICE])
+(;B[ls];W[ks];B[js];W[hs]C[CHOICE])
+(;B[hs];W[ks];B[js]TR[gm]TR[hm]TR[gl]TR[hl]TR[il]TR[ik]TR[jk]TR[jj]TR[kj]TR[ji]TR[li]TR[mi]TR[kh]C[You're right. Now you live, but you could have killed this big marked group, I think that would be better...CHOICE]AB[ss])
+(;B[is];W[ks]C[CHOICE])
+(;B[js];W[hs]C[CHOICE]))
+(;B[hi];W[jr]
+(;B[hh];W[jg])
+(;B[gj];W[hh];B[hj];W[jg]C[CHOICE]))
+(;B[jg];W[jr]C[CHOICE]))
+(;B[lh];W[ki];B[jl];W[mh]C[CHOICE])
+(;B[ig];W[hi];B[ih];W[lg]C[]
+(;B[kf]C[It's very difficult for W to live now, but you could have killed him immediately.CHOICE])
+(;B[jl];W[ki];B[mh];W[lh];B[kf]C[It's very difficult for W to live now but you could have killed him immediately.CHOICE]))
+(;B[lg];W[ih]C[CHOICE])
+(;B[mh];W[lh]
+(;B[jl];W[ki];B[lg];W[mh];B[mf]C[RIGHT])
+(;B[lg];W[ih]C[CHOICE])
+(;B[ph];W[ih]C[CHOICE]))
+(;B[lm];W[ih]C[CHOICE]))

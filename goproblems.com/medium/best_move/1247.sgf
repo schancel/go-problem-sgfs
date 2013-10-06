@@ -1,0 +1,78 @@
+(
+;GE[best move]DI[3d]DP[9]SO[Spica]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AB[ji][ki][jh][ih][hh][ij][hj][hf][if][je][ke][lf][lg][mh][mi][lj][lk][mc][mo][jc][qg][qh][rh][ri][pf][pe][pd][pc][oc][qb][rb][ra][rd][qj][qk][ql][pl][oo][po][pp][pq][qp][rp][qr][ps][os][nr][nq][np][jp][iq][hr][gq][gp][ho][gn][cp][dp][dn][dm][cm][bm][bl][bk][bj][cj][dk][ej][ek][el][ag][bg][bh][ch][cg][cf][ce][de][cd][bc][bb]
+AW[ii][hi][gi][gh][fh][gj][fj][fk][fl][hk][hl][im][jn][kj][li][lh][kh][kg][dh][di][ei][dj][dg][df][ee][ed][ec][dd][gd][he][ie][hc][ic][jd][kd][kc][nb][nc][nd][od][of][og][pg][pi][pj][pk][mj][nj][ol][pm][on][nn][no][lo][mp][hn][qi][rj][qe][qf][oa][pa][qa][qn][qq][mq][mr][jq][gm][em][en][hp][hq][cn][ci][bi][ai][ah][af][cc][db]
+GN[temp]
+C[Biggest or most urgent point for white?]
+(
+;
+AW[jg]
+W[aa]
+;
+B[ng]
+C[Protects cutting point and tries to develop eye-shape.]
+;
+W[kk]
+C[Extracts cutting stone and threatens M8. K9 wouldn't work.]
+;
+B[ll]
+;
+W[mf]
+C[White needs to stop a possible move at P12 being effective, which would threaten to link up to the outside while protecting a possible eye at N13. Moves around P12 would also work.]
+;
+B[nf]
+;
+W[me]
+C[L15 is possible but leads to a longer fight since black is later able to push at P15 in sente and cut using the stone at N5 to isolate the right side.]
+;
+B[ne]
+;
+W[oe]
+C[Other moves also also kill but this is the more solid approach.]
+;
+B[md]
+;
+W[ld]
+C[Makes possible eye at N15 false.]
+;
+B[oh]
+;
+W[ph]
+C[Safe option.]
+;
+B[km]
+;
+W[jk]
+C[Bad shape but stops L8 being sente against these cutting stones. This means black can't now cut with the N5 stone without strengthening white first at L6 and black doesn't have enough forcing moves to create a second eye here.]
+;
+B[kn]
+;
+W[ko]
+;
+B[oi]
+;
+W[ni]
+;
+B[gg]
+;
+W[gf]
+;
+B[le]
+;
+W[mb]
+;
+B[mg]
+;
+W[me]
+C[Black dies.]
+)
+(
+;
+W[jg]
+C[This reduces black's centre group to one eye as long as M11 remains a false eye. You can use the navigate solution option starting at A19 to see one continuation. RIGHT]
+)
+)

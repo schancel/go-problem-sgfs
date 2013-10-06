@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[4k]DP[30]SO[marwin]CO[7]C[Black to play (play T if you think, black cannot catch these stones)]AW[qq]AW[qp]AW[pq]AB[qo]AB[pn]AB[pp]AB[op]AW[po]AW[oo]AW[ln]AB[pk]AW[ok]AB[nk]AB[kj]AW[rf]AW[jd]LB[oh:T]AP[goproblems]
+(;B[no];W[on];B[om];W[nn];B[mn];W[nm]
+(;B[mm];W[nl]
+(;B[ol];W[ml];B[ll];W[mk]
+(;B[mj];W[lk]
+(;B[kk];W[nj]
+(;B[lj];W[nk];B[ni];W[oj]
+(;B[pj];W[oi];B[oh];W[pi];B[qi];W[ph];B[pg];W[qh];B[rh];W[qg])
+(;B[oi];W[pj];B[qj];W[pi];B[ph];W[qi];B[ri];W[qh];B[qg];W[rh];B[rg]C[RIGHT]))
+(;B[ni];W[lm]))
+(;B[nj];W[lm]))
+(;B[nj];W[mo]))
+(;B[ml];W[ol]
+(;B[pl];W[pm])
+(;B[oj];W[pm])))
+(;B[nl];W[mm];B[lm];W[mo]))
+(;B[oh]))

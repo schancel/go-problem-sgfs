@@ -1,0 +1,51 @@
+(;GE[life and death]DI[10k]DP[52]SO[Gelya]CO[0]SZ[19]AW[pd]AW[oe]AW[pe]AW[dn]AW[co]AW[cp]AW[ep]AW[dq]AB[pc]AB[od]AB[qd]AB[qe]AB[pf]AB[do]AB[eo]AB[dp]C[You're in the Mirror Go. Try to capture white stones while saving yours.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[5.00]PW[sai]PB[toy koyo]PL[B]
+(;B[ne];W[fo]C[You're gonna make a double-ladder?]
+(;B[en];W[of]C[Hmm...]
+(;B[og];W[em]C[I wonder how its gonna end..]
+(;B[fn];W[nf]C[Does the ladder work?..]
+(;B[mf];W[gn]C[Nevermind..]
+(;B[fm];W[ng]C[You're keep chasing..]
+(;B[nh];W[fl]C[Why don't you want to capture?]
+(;B[gm];W[mg]C[Do you know how it ends?]
+(;B[lg];W[hm]C[OK, see you at the end.]
+(;B[gl];W[mh]
+(;B[mi];W[gk]
+(;B[hl];W[lh]
+(;B[kh];W[il]
+(;B[hk];W[li]
+(;B[lj];W[hj]
+(;B[ik];W[ki]
+(;B[ji];W[jk]
+(;B[ij];W[kj]
+(;B[kk];W[ii];B[jj]C[YOU DID IT!!!RIGHT])
+(;B[ii];W[kk]C[W escapes just like you..])
+(;B[jj];W[kk]C[W cannot mirror tengen. So its your time to mirror white!!!];B[ii];W[jh];B[jl];W[ih];B[kl];W[hi]C[You lose a mirror go =(]))
+(;B[kj];W[ij]C[W catches your stones..]))
+(;B[jk];W[ji]C[W escapes just like you..])
+(;B[ij];W[kj]C[W escapes just like you..]))
+(;B[ki];W[ik]C[W catches your stones..]))
+(;B[hj];W[lj]C[W escapes just like you..])
+(;B[ik];W[ki]C[W escapes just like you..]))
+(;B[li];W[hk]C[W catches your stones..]))
+(;B[il];W[kh]C[W escapes just like you..])
+(;B[hk];W[li]C[W escapes just like you..]))
+(;B[lh];W[hl]C[W catches your stones..]))
+(;B[gk];W[mi]C[W escapes just like you..])
+(;B[hl];W[lh]C[W escapes just like you..]))
+(;B[mh];W[gl]C[W catches your stones..]))
+(;B[hm];W[lg]C[W escapes just like you..])
+(;B[gl];W[mh]C[W escapes just like you..]))
+(;B[mg];W[gm]C[W catches your stones..]))
+(;B[fl];W[nh]C[W escapes just like you..])
+(;B[gm];W[mg]C[W escapes just like you..]))
+(;B[ng];W[fm]C[W catches your stones..]))
+(;B[gn];W[mf]C[W escapes just like you..])
+(;B[fm];W[ng]C[W escapes just like you..]))
+(;B[nf];W[fn]C[W catches your stones..]))
+(;B[em];W[og]C[W escapes just like you..])
+(;B[fn];W[nf]C[W escapes just like you..]))
+(;B[of];W[en]C[W catches your stones..]))
+(;B[fo];W[ne]C[W escapes just like you..])
+(;B[en];W[of]C[W escapes just like you..])
+(;B[jj]C[];W[fo]C[Tengen? Its a Mirror Go. Copy white move now!!];B[ne];W[of];B[en];W[em];B[og];W[nf];B[fn];W[gn];B[mf];W[ng];B[fm];W[fl];B[nh];W[mg];B[gm];W[hm];B[lg];W[mh];B[gl];W[gk];B[mi];W[lh];B[hl];W[il];B[kh];W[li];B[hk];W[hj];B[lj];W[ki];B[ik];W[jk];B[ji];W[ij];B[kj]C[And white gets a free move..
+Your tengen is now useless]))

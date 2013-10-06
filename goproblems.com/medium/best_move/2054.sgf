@@ -1,0 +1,70 @@
+(
+;GE[best move]DI[3k]DP[26]SO[corentinc]CO[7]
+AB[dr][er][eq][gq][jq][dp]
+AW[cr][cq][dq][ep][hq][hp][bo][dn]
+C[Black to escape his group in the best way.]
+(
+;
+B[eo]
+;
+W[fp]
+;
+B[gp]
+;
+W[fo]
+;
+B[go]
+;
+W[fn]
+;
+B[ho]
+C[RIGHT Good escape sequence : black get some influence on the outside and white marked stones are in trouble.]
+TR[hq][hp]
+)
+(
+;
+B[fp]
+;
+W[eo]
+(
+;
+B[fo]
+;
+W[fn]
+C[White is too strong on the outside!]
+)
+(
+;
+B[go]
+;
+W[ho]
+C[White is too strong on the outside and build a big wall on the right!]
+)
+)
+(
+;
+B[gp]
+;
+W[eo]
+(
+;
+B[go]
+;
+W[ho]
+C[White is too strong on the outside and build a big wall on the right!]
+)
+(
+;
+B[ho]
+;
+W[go]
+)
+)
+(
+;
+B[hr]
+;
+W[gp]
+C[White is too strong on the outside!]
+)
+)

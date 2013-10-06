@@ -1,0 +1,41 @@
+(;GE[life and death]DI[4k]DP[30]SO[meleenewb]CO[0]AB[qr]AB[qq]AB[qp]AW[pr]AW[pq]AW[pp]AW[po]AW[oo]AW[no]AW[np]AW[mq]AW[mr]AB[lr]AB[lq]AB[lp]AB[mp]AW[ps]AB[mn]AB[nn]AB[pn]AB[qn]AB[qo]AB[on]AB[qs]AB[mo]C[Can black kill?FORCE]LB[ml:Yes]LB[ol:No]AP[goproblems]
+(;B[ol];W[ml]AB[ps]AB[pr]AB[pq]AB[pp]AB[po]AB[oo]AB[no]AB[np]AB[mq]AB[mr]AW[qs]AW[qr]AW[qq]AW[qp]AW[qo]AW[qn]AW[pn]AW[on]AW[nn]AW[mn]AW[mo]AW[mp]AW[lp]AW[lq]AW[lr]AW[nr]C[Then live.]
+(;B[nq];W[ms]
+(;B[ns];W[os];B[or]C[RIGHT])
+(;B[or];W[ns]))
+(;B[ms];W[nq]
+(;B[ns];W[ls];B[os];W[oq])
+(;B[ls];W[ks])
+(;B[oq];W[ls])
+(;B[or];W[ls])
+(;B[os];W[ns]))
+(;B[ns];W[nq]
+(;B[ms])
+(;B[ls];W[ks]))
+(;B[ls];W[nq];B[ms])
+(;B[or];W[nq])
+(;B[oq];W[nq])
+(;B[os];W[ms];B[nq];W[ns]))
+(;B[ml];W[ol]C[Then kill.]
+(;B[ms];W[ns]
+(;B[nr];W[nq];B[os];W[or])
+(;B[ls];W[or])
+(;B[nq];W[nr];B[oq];W[or])
+(;B[oq];W[or])
+(;B[or];W[oq]))
+(;B[nr];W[nq];B[ms];W[ns])
+(;B[ns];W[ms]
+(;B[nq];W[nr])
+(;B[nr];W[nq]
+(;B[or];W[oq])
+(;B[oq];W[or]))
+(;B[oq];W[nr])
+(;B[or];W[nr]))
+(;B[nq];W[nr]
+(;B[oq];W[ms])
+(;B[ms];W[ns]))
+(;B[oq];W[or];B[ns];W[ms]
+(;B[nr];W[nq])
+(;B[nq];W[nr]))
+(;B[or];W[oq];B[nr];W[ns])
+(;B[os];W[or])))

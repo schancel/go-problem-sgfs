@@ -1,0 +1,6 @@
+(;GE[best move]DI[1k]DP[18]SO[munisai79]CO[8]AB[id]AB[jd]AB[jc]AB[kc]AB[oc]AB[qd]AB[ke]AB[lf]AB[kg]AB[jg]AB[if]AB[hf]AB[gc]AB[hc]AW[gd]AW[hd]AW[he]AW[ie]AW[je]AW[jf]AW[kf]AW[le]AW[fc]AW[fb]LB[le:1]C[White just played the numbered move.  Best response?]AW[nc]AW[ce]AB[dp]AP[goproblems]
+(;B[kd];W[fe]C[Black lost an opportunity.])
+(;B[fd];W[ge];B[fe];W[gf];B[gg];W[ff];B[ef];W[fg];B[fh];W[kd];B[eg];W[ke];B[me];W[ld]
+(;B[md];W[lc];B[lb];W[mc]C[Ouch!])
+(;B[lc];W[md];B[nd];W[mc]C[Great job!  The ladder works.RIGHT]))
+(;B[me];W[fe]C[Black missed a chance.]))

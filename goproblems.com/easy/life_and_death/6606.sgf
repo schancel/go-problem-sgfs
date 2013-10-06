@@ -1,0 +1,170 @@
+(;GE[life and death]DI[20k]DP[74]SO[LCZLAPINSKI]CO[8]AW[an]AW[bn]AW[cn]AW[dn]AW[en]AW[fo]AW[bo]AW[do]AW[ep]AW[fq]AW[fr]AW[fs]AW[er]AB[ao]AB[ap]AB[bp]AB[cp]AB[co]AB[dp]AB[dq]AB[eq]AB[dr]AB[ds]AB[es]LB[gm:T]C[Play T if you wish to tenuki]AP[goproblems]
+(;B[br]C[RIGHT])
+(;B[bs];W[br]
+(;B[ar];W[bq]
+(;B[aq]C[RIGHT])
+(;B[cr]C[RIGHT])
+(;B[cq]C[RIGHT])
+(;B[cs];W[aq]C[10000 year ko. Neither side wants to connect it nor play C2 or C3 to let the other side take first in the then direct ko.]))
+(;B[bq]
+(;W[ar];B[cr]C[RIGHT])
+(;W[cr];B[ar]C[RIGHT]))
+(;B[cr]
+(;W[ar];B[bq]C[RIGHT])
+(;W[bq];B[ar]C[RIGHT])))
+(;B[ar];W[br]
+(;B[bs])
+(;B[as];W[bs]
+(;B[aq];W[cr])
+(;B[bq];W[cr]
+(;B[cs];W[aq];B[ar]C[Gote seki.])
+(;B[cq];W[aq];B[ar]C[Gote seki]))
+(;B[cr];W[bq];B[aq]C[Gote seki]))
+(;B[aq];W[cr]
+(;B[bs];W[cs]C[10000 year ko. Neither side wishes to connect it nor play B3 or C3 and have the other side retake the ko.])
+(;B[cs];W[bs];B[bq]C[Gote seki])
+(;B[bq];W[cs];B[bs];W[as]C[Ko])
+(;B[cq];W[bs]))
+(;B[bq];W[cr];B[bs]C[RIGHT])
+(;B[cr];W[bs];B[bq]C[RIGHT])
+(;B[cq];W[bs];B[bq];W[as]C[10000 year ko. Neither side wishes to connect it nor play C1 or C2 and have the other side retake the ko.])
+(;B[cs];W[bq]
+(;B[as];W[aq])
+(;B[aq];W[bs]C[];B[cr]C[Gote seki])
+(;B[cr];W[aq];B[bs];W[as]C[Ko])
+(;B[cq];W[bs]C[]MA[cr])
+(;B[bs])))
+(;B[as];W[br]
+(;B[bq];W[cr];B[ar];W[bs]
+(;B[cq])
+(;B[cs]))
+(;B[cr];W[bq];B[bs];W[ar]
+(;B[aq];W[cs];B[bs]C[Gote seki])
+(;B[cq];W[cs];B[bs]C[Gote seki])))
+(;B[aq];W[br];B[bs];W[cr]
+(;B[cs];W[ar];B[bq]C[Gote seki])
+(;B[ar])
+(;B[bq];W[cs];B[ar])
+(;B[cq];W[ar]))
+(;B[bq];W[br]
+(;B[ar])
+(;B[bs])
+(;B[cr]
+(;W[ar];B[bs]C[RIGHT])
+(;W[bs];B[ar]C[RIGHT]))
+(;B[as]))
+(;B[cq];W[br];B[ar])
+(;B[cr];W[br]
+(;B[ar])
+(;B[bq])
+(;B[bs]))
+(;B[cs];W[br];B[ar])
+(;B[gm]C[];W[br]C[The tenuki costs black at least 8 points locally. Bb2 secures the corner.]
+(;B[ar]
+(;W[cr]
+(;B[bs];W[cs]
+(;B[bq];W[as]C[Ko])
+(;B[aq];W[as]C[Ko]))
+(;B[cs];W[bs];B[bq]C[Gote seki.])
+(;B[bq];W[bs];B[cs]C[Gote seki])
+(;B[aq];W[cs];B[bs])
+(;B[cq];W[cs]
+(;B[bq];W[aq])
+(;B[aq];W[bs])
+(;B[bs];W[as]C[Ko])
+(;B[as];W[bq]))
+(;B[as];W[bq]
+(;B[bs];W[aq])
+(;B[cq];W[aq]))))
+(;B[as]
+(;W[bq]
+(;B[ar];W[bs]C[]
+(;B[aq];W[cr]C[Black is dead.])
+(;B[cs];W[aq])
+(;B[cq];W[cr]C[Black is dead.]))
+(;B[aq];W[bs]C[]
+(;B[ar])
+(;B[cs];W[ar]LB[gn:T])
+(;B[cr];W[ar]C[Black is dead. One eye versus no eyes.])
+(;B[cq];W[ar]C[Black is dead. One eye versus no eyes.]))
+(;B[bs];W[cr]
+(;B[ar])
+(;B[cq];W[cs]))
+(;B[cs];W[bs]C[One eye versus none.CHOICE])
+(;B[cr];W[bs]C[One eye versus none.])
+(;B[cq];W[bs]))
+(;W[ar]
+(;B[aq];W[cr]C[])
+(;B[bs];W[cr]
+(;B[cs];W[bq])
+(;B[bq];W[cs]))
+(;B[bq];W[cr]LB[gn:T];B[gn];W[cs]C[])
+(;B[cs];W[bs]
+(;B[aq])
+(;B[bq];W[cr]C[Black is dead. One eye versus no eyes.]))
+(;B[cr];W[bq]
+(;B[aq])
+(;B[bs];W[cs];B[bs]C[Gote seki])
+(;B[cq];W[bs]))
+(;B[cq];W[bs]C[Black is dead. One eye versus two eyes.]))
+(;W[bs];B[ar];W[aq]))
+(;B[aq];W[ar];B[as])
+(;B[bs]
+(;W[bq]
+(;B[cr];W[ar];B[aq]C[Gote seki])
+(;B[ar];W[aq]
+(;B[cs]C[10000 year ko. Neither side wants to connect it nor play C2 or C3 to let the other side take first in the then direct ko.])
+(;B[as];W[cs])
+(;B[cr];W[as]C[Ko])
+(;B[cq];W[as]C[Ko]))
+(;B[cs];W[aq]
+(;B[ar]C[10000 year ko. Neither side wants to connect it nor play C2 or C3 to let the other side take first in the then direct ko.])
+(;B[as];W[ar])
+(;B[cr];W[ar])
+(;B[cq];W[ar]))
+(;B[aq];W[ar]
+(;B[cr]C[Gote seki])
+(;B[cq];W[cr])
+(;B[cs];W[cr])
+(;B[as]))
+(;B[cq];W[ar]
+(;B[cr]C[Gote seki])
+(;B[aq])
+(;B[cs];W[aq]))
+(;B[as])))
+(;B[bq];W[cr]
+(;B[ar])
+(;B[bs];W[cs];B[ar])
+(;B[cs];W[ar]
+(;B[bs]C[Gote seki])
+(;B[cq];W[bs])
+(;B[aq];W[bs])
+(;B[as]))
+(;B[cq];W[cs])
+(;B[aq];W[ar]))
+(;B[cs];W[bs]
+(;B[as];W[bq]TR[ar]TR[aq]C[Wa2 and Wa3 are miai for killing black with one eye versus none.])
+(;B[ar];W[bq]C[]
+(;B[as])
+(;B[aq]))
+(;B[aq];W[bq]TR[ar]TR[cr]C[Wa2 and Wc2 are miai for killing black with a dead shape inside.])
+(;B[bq];W[ar];B[cr]C[Seki])
+(;B[cr];W[bq]TR[ar]TR[aq]C[Wa2 and Wa3 are miai for killing black with one eye versus none.])
+(;B[cq];W[bq]TR[ar]TR[aq]C[Wa2 and Wa3 are miai for killing black with one eye versus none.]))
+(;B[cr];W[bq]
+(;B[bs])
+(;B[ar];W[aq];B[bs])
+(;B[aq];W[bs]
+(;B[ar]C[Gote seki])
+(;B[cq];W[ar])
+(;B[cs];W[ar])
+(;B[as]))
+(;B[cq];W[aq])
+(;B[cs];W[bs]))
+(;B[cq];W[ar]
+(;B[as])
+(;B[aq];W[cr]C[])
+(;B[bs];W[cr]MA[cs]MA[bq])
+(;B[bq];W[cr])
+(;B[cs];W[bs]C[One eye versus none.])
+(;B[cr];W[bs]C[One eye versus none.]))))

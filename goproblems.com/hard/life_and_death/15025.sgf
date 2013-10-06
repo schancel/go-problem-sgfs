@@ -1,0 +1,8 @@
+(;GE[life and death]DI[6d]DP[0]SO[blackmoa]CO[0]C[Consider black to be unable to win any Ko]AB[bs]AB[cr]AB[cq]AB[bp]AB[do]AB[ep]AB[cm]AB[al]AW[br]AW[ar]AW[bq]AW[dq]AW[eq]AW[fq]AW[fr]AW[fp]AW[fo]AW[en]AW[dm]AW[dl]AW[cl]AW[bl]AW[bk]AP[goproblems]
+(;B[bm];W[cp];B[dp];W[co];B[bo];W[cn])
+(;B[cn];W[bo];B[co];W[ap];B[cp];W[bm];B[bn];W[an]C[Ko])
+(;B[dp];W[bn];B[bo];W[co])
+(;B[bo];W[cn];B[bn];W[bm])
+(;B[bn]
+(;W[co];B[cn];W[dp];B[cp];W[dn];B[dr];W[ds];B[es];W[er];B[bo];W[an];B[bm];W[am];B[ao];W[am];B[aq];W[ap];B[as];W[cs];B[bs];W[ds];B[as];W[cs];B[bs];W[ds];B[as]C[Draw due to repetitionRIGHT])
+(;W[an];B[ao];W[bm];B[am];W[co];B[cn];W[dp];B[cp];W[dn];B[dr];W[ds];B[es];W[er];B[aq];W[ap];B[as];W[cs];B[bs];W[ds];B[as];W[cs];B[bs];W[ds];B[as]C[Draw due to repetitionRIGHT])))

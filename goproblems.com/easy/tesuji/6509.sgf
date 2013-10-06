@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[6k]DP[36]SO[santa c]CO[9]AB[jj]AB[kj]AB[kk]AW[jk]AW[jl]AW[il]AB[ik]AB[hl]AB[hm]AB[hn]AB[gm]AB[jn]AB[ll]AB[mm]AW[lk]AW[lj]AW[li]AW[lh]AW[mh]AB[mi]AB[mj]AB[mk]AB[jh]AB[ih]AB[hh]AB[hg]AB[hf]AB[if]AB[ie]AB[je]AW[he]AW[hd]AW[id]AW[ic]AW[gd]AB[ge]AB[fe]AB[fd]AB[ff]AW[gf]AW[gh]AW[gg]AW[fg]AW[fh]AW[gi]AW[fj]AW[fk]AW[hj]AW[gl]AW[fm]AB[fn]AB[fc]AB[hb]AB[ib]AW[jb]AW[kc]AW[ke]AW[jf]AW[kf]AW[jg]AW[ig]C[How did White put the aji to use?]AB[ln]AP[goproblems]
+(;W[ij]
+(;B[hk]C[And what if Black doesn't feel like letting you connect out?]
+(;W[ji];B[ki]
+(;W[kh]
+(;B[ii];W[kl]C[Well done! :)RIGHT])
+(;B[kl];W[ii]C[RIGHT]))
+(;W[kl];B[kh]C[Black has a liberty more! :(])
+(;W[ii];B[kh]C[:(]))
+(;W[kl];B[ji]C[:(])
+(;W[ki];B[ji]C[:(]))
+(;B[kl]
+(;W[hk]C[RIGHT])
+(;W[ki];B[ji];W[hk]C[RIGHT]))
+(;B[ji];W[hk]C[RIGHT]))
+(;W[hk];B[ij]C[:(])
+(;W[kl];B[ij]C[:(])
+(;W[ji];B[ij]C[:(]))

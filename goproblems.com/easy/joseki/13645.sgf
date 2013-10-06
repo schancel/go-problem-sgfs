@@ -1,0 +1,88 @@
+(;GE[joseki]DI[12k]DP[56]SO[jokep]CO[0]LB[as:T]AB[pp]AW[nq]AB[qn]LB[nq:1]LB[qn:2]C[B2 is the most common response for Black, when White approaches at W1, if you look at contemporary pro games.Playing B2 on the third line is territorial, and the variations that follow are mostly to do with Black's initial 4-4 point making territory in the corner.FORCE]AP[goproblems]
+(;LB[as:T]W[pr]C[After B2, white will generally slide into the corner at W3 or extend along the lower edge.]LB[nq:1]LB[qn:2]LB[pr:3]
+(;LB[as:T]B[qq]C[After the slide W3, black commonly plays at 3-3. Please continue.FORCE]LB[nq:1]LB[qn:2]LB[pr:3]LB[qq:4]
+(;LB[as:T]W[kq]C[After the slide W3, black commonly plays at 3-3. W5 is the most comon continuation. If White omits W5, black can attack the white group. Instead of W5, white also sometimes plays a, usually when white has a low solid position in the lower left, in which case W5 would be too low.RIGHT]LB[lp:a]LB[nq:1]LB[qn:2]LB[pr:3]LB[qq:4]LB[kq:5]LB[as:T];B[qr]LB[as:T]C[After the slide W3, black commonly plays at 3-3. W5 is the most comon continuation. If White omits W5, black can attack the white group. Instead of W5, white also sometimes plays a, usually when white has a low solid position in the lower left, in which case W5 would be too low.FORCE]LB[lp:a]
+(;W[as]LB[as:T];B[or]C[Bad for White. White loses the marked stone.]TR[pr])
+(;LB[as:T]W[pq]LB[as:T];B[oq]LB[as:T]C[FORCE]
+(;LB[as:T]W[op]LB[as:T];B[or]C[Bad for White. White loses the marked stones.]TR[pq]TR[pr]LB[as:T])
+(;LB[as:T]W[or]LB[as:T];B[op]C[Well done. To continue playing, please play tenuki.FORCE]LB[as:T];W[as];B[ps]C[FORCE]
+(;W[os]LB[as:T];B[nr]C[Bad for White. White loses the marked stones.]TR[pq]TR[pr]TR[or]TR[os];W[qs]TR[pq]TR[pr]TR[or]TR[os]C[Bad for White. White loses the marked stones.];B[ns]TR[pq]TR[pr]TR[or]TR[os]C[Bad for White. White loses the marked stones.])
+(;W[nr]C[RIGHT])
+(;W[ns]C[RIGHT]))))
+(;W[as]LB[as:T];B[lq]C[In this position, it is considered to be a mistake for White to play out the exchange of W3 for B4 and then play tenuki: the attack with B6 is severe. It is better in principle for White to leave out the W3/B4 exchange, which is typically a 'thank you move' clearing up the question in Black's mind whether White can later invade at B4.]LB[nq:1]LB[qn:2]LB[pr:3]LB[qq:4]LB[as:5]LB[lq:6])
+(;W[lp]C[After the slide W3, black commonly plays at 3-3. W5 is the most comon continuation. If White omits W5, black can attack the white group. Instead of W5, white also sometimes plays a, usually when white has a low solid position in the lower left, in which case W5 would be too low.RIGHT]LB[kq:W5]LB[lp:a]LB[nq:1]LB[qn:2]LB[pr:3]LB[qq:4]AW[cp]AW[eq]TR[cp]TR[eq]))
+(;LB[as:T]B[mq]C[Apparently, B4 is a fairly recent Korean development from a dozen years ago. It aims to develop a group on either side of the white kakari. B4 at x, a standard joseki, allows W to play in the corner at y. The new B4 forces W to start fighting immediately.FORCE]LB[nq:1]LB[qn:2]LB[pr:3]LB[mq:4]LB[as:T]LB[lq:x]LB[qq:y]
+(;W[mp]C[Apparently, B4 is a fairly recent Korean development from a dozen years ago. It aims to develop a group on either side of the white kakari.]LB[nq:1]LB[qn:2]LB[pr:3]LB[mq:4]LB[mp:5]LB[as:T];B[lq]LB[lp:a]LB[nr:b]C[White must play hane on top. Next W7 at a or b is normal.RIGHT]LB[nq:1]LB[qn:2]LB[pr:3]LB[mq:4]LB[mp:5]LB[lq:6]LB[as:T])
+(;W[qq];B[np]C[White gets the corner but is shut in by Black.]))
+(;LB[as:T]B[lq]C[The pincer B4 here may occur.FORCE]LB[nq:1]LB[qn:2]LB[pr:3]LB[lq:4]LB[as:T]
+(;W[qq]C[The pincer B4 here may occur.]LB[nq:1]LB[qn:2]LB[pr:3]LB[lq:4]LB[qq:5]LB[as:T];B[oq]C[The pincer B4 here may occur. White W5 next is considered the main continuation, but there are other plays. W7 at a for corner, W7 at b leads to the 4-4 point staircase joseki.FORCE]LB[or:a]LB[op:b]LB[nq:1]LB[qn:2]LB[pr:3]LB[lq:4]LB[qq:5]LB[oq:6]LB[as:T]
+(;LB[as:T]W[or]LB[as:T];B[np]LB[as:T]C[FORCE];W[mp]LB[as:T];B[mq]LB[as:T]C[FORCE];W[nr]C[These plays are still the main line, though increasingly B2 is played directly at B4. White plays W5 for ladder aji. After these moves, Black needs a further play here. If the ladder works Black can play at b (and then will need to capture shortly).RIGHT]LB[qq:1]LB[or:3]LB[nr:7]LB[oq:2]LB[mq:6]LB[np:4]LB[mp:5]LB[no:a]LB[mo:b]LB[rp:c]LB[rq:d]LB[as:T])
+(;LB[as:T]W[op]C[W7 here, giving an example of the staircase shape, is one of the most surprising joseki plays. It is seen also when B2 is played at a.RIGHT]LB[nq:1]LB[qn:2]LB[pr:3]LB[lq:4]LB[qq:5]LB[oq:6]LB[op:7]LB[pn:a]))
+(;W[mq];B[lp]C[FORCE];W[qq]C[RIGHT])
+(;W[no]C[Not the best result for white. One might call this a 'misplaced slide' or a 'misplaced jump'.RIGHT])
+(;W[lp];B[kp]C[FORCE];W[mp]C[This tsukehiki avoids being shut in.RIGHT])
+(;W[pq];B[qp]C[FORCE];W[op]C[RIGHT])
+(;W[as];B[qq]C[FORCE]
+(;W[op]LB[pq:a]LB[op:1]C[The answer at W1 is a good example for the study of shape: it makes a the vital point locally, but Black at a is an empty triangle so White has something to work with subsequently. This therefore is a good pattern to study.RIGHT])
+(;W[no]LB[no:1]C[In Korea W1 is sometimes played here, even though this might seem to contradict the slide White played earlier.RIGHT]))
+(;W[lr];B[kr]C[FORCE];W[mr]LB[np:a]LB[qq:b]C[Bad for White. Now, Black can either shut White in at a or take the corner at b.]))
+(;B[as]C[Black sometimes plays tenuki after W3, considering a and d as miai for living with his stones. If the extension to d is not available, tenuki is dangerous for black.FORCERIGHT]LB[qq:a]LB[qk:d]LB[nq:1]LB[qn:2]LB[pr:3]LB[as:4]
+(;W[qq]LB[nq:1]LB[qn:2]LB[pr:3]LB[qk:d]LB[qq:a]C[Black sometimes plays tenuki after W3, considering a and d as miai for living with his stones. If the extension to d is not available, tenuki is dangerous for black.]LB[as:4];B[qk]LB[nq:1]LB[qn:2]LB[pr:3]LB[as:4]C[Black sometimes plays tenuki after W3, considering a and d as miai for living with his stones. If the extension to d is not available, tenuki is dangerous for black.RIGHT]LB[qq:a]LB[qk:d])
+(;W[qk]LB[qq:a]LB[qk:d]C[Black sometimes plays tenuki after W3, considering a and d as miai for living with his stones. If the extension to d is not available, tenuki is dangerous for black.]LB[nq:1]LB[qn:2]LB[pr:3]LB[as:4];B[qq]C[Black sometimes plays tenuki after W3, considering a and d as miai for living with his stones. If the extension to d is not available, tenuki is dangerous for black.RIGHT]LB[qq:a]LB[qk:d]LB[nq:1]LB[qn:2]LB[pr:3]LB[as:4]))
+(;LB[as:T]B[qr]C[B4 is an example of a non-joseki continuation of this standard variation. Black's tenuki is possible, but the contact play is hardly ever justified.FORCE]LB[nq:1]LB[qn:2]LB[pr:3]LB[qr:4]
+(;LB[as:T]W[qq]C[White's first good idea is to play W1 here. Black will have to sacrifice the marked stone.]LB[qq:1]TR[qr]LB[as:T];B[pq]LB[qq:1]LB[pq:2]C[White's first good idea is to play W1 here. Black will have to sacrifice the marked stone.FORCE]TR[qr]LB[as:T]
+(;W[rr]LB[qq:1]LB[pq:2]LB[rr:3]TR[qr]LB[as:T];B[or]LB[qq:1]LB[pq:2]LB[rr:3]LB[or:4]TR[qr]LB[as:T]C[FORCE]
+(;W[qs]LB[qq:1]LB[pq:2]LB[rr:3]LB[or:4]LB[qs:5]C[]LB[as:T];B[oq]C[Generally it isn't good for Black to give up the corner this way. White lives quickly - the ponnuki gives good shape in sente, and White can now turn to the outside.RIGHT]LB[as:T])
+(;W[rq];B[ps]C[Bad for White.]))
+(;W[or];B[rq]TR[qr]C[If White doesn't kill the marked black stone right away, Black will catch the marked white stone in a ladder.]TR[qq]))
+(;LB[as:T]W[pq]LB[pq:1]LB[as:T];B[qq]LB[pq:1]LB[qq:2]LB[as:T]C[FORCE]
+(;W[op]C[In fact White has another way to play here, with W1 and W3 making strong shape on the top side. White has the choice of good direction here. That accounts for the rarity of the contact play in high-level games.RIGHT]LB[pq:1]LB[qq:2]LB[op:3]LB[as:T])
+(;W[kq]))
+(;W[kq];B[pq]
+(;W[or]C[White could have done better, the extension made lose points in the corner.CHOICE])
+(;W[oq];B[or]C[White loses the marked stone.CHOICE]TR[pr]))))
+(;LB[as:T]W[qq]C[Typically, invading the 3-3 early in the opening gives White a cramped position. Black gets thickness and White only a small territory. However, such an invasion can be very severe during the middlegame if White is very strong on the outside.RIGHT]LB[as:T];B[pq]LB[as:T]C[FORCE];W[pr]LB[as:T]C[]
+(;B[or]LB[as:T]C[FORCE]
+(;LB[as:T]W[qr]LB[as:T];B[oq]LB[as:T]C[FORCE]
+(;W[ro]LB[as:T]
+(;LB[as:T]B[qo]C[FORCE]
+(;LB[as:T]W[rn]LB[as:T];B[qm]C[This is a typical joseki. Note that B8 here is very safe, so this joseki is recommended if Black does not want any complications.CHOICERIGHT]LB[qq:1]LB[qr:5]LB[pr:3]LB[or:4]LB[oq:6]LB[pq:2]LB[ro:7]LB[qo:8]LB[rn:9]LB[qm:10]LB[as:T])
+(;LB[as:T]W[qp]LB[as:T];B[rn]))
+(;LB[as:T]B[rn]LB[as:T]C[FORCE];W[qo]LB[as:T];B[po]LB[as:T]C[]))
+(;W[qp];B[qo]))
+(;LB[as:T]W[oq]LB[as:T];B[qr]C[Bad for white.CHOICE]LB[as:T]))
+(;B[qp];W[rr]))
+(;W[jp]C[W3 is common if white has the lower left 4-4 point.CHOICERIGHT]LB[nq:1]LB[qn:2]LB[jp:3]AW[dp]TR[dp])
+(;LB[as:T]W[iq]C[W3 is often part of the mini chinese fuseki.CHOICERIGHT]LB[nq:1]LB[qn:2]LB[iq:3])
+(;LB[as:T]W[kp]C[W3 is common if white has the lower left 5-3 point nearest this side.CHOICERIGHT]LB[nq:1]LB[qn:2]LB[kp:3]AW[eq]TR[eq])
+(;LB[as:T]W[no]LB[nq:1]LB[qn:2]LB[no:3]LB[as:T];B[pj]LB[nq:1]LB[qn:2]LB[no:3]LB[pj:4]LB[as:T]C[FORCE];W[nm]LB[nq:1]LB[qn:2]LB[no:3]LB[pj:4]LB[nm:5]LB[as:T];B[nk]C[Black gets the corner, the right side and influence in the center. Found on KGS.]LB[nq:1]LB[qn:2]LB[no:3]LB[pj:4]LB[nm:5]LB[nk:6]LB[as:T])
+(;LB[as:T]W[pq]LB[as:T];B[qq]C[White plays W1 in order to strengthen the lone stone. Of course Black will expect to become stronger here too: Black at a is probably automatic unless W1 is played as a ko threat.FORCE]LB[pq:1]LB[as:T]
+(;LB[as:T]W[qr]
+(;LB[as:T]B[oq]C[FORCE]
+(;LB[as:T]W[pr]
+(;LB[as:T]B[op]LB[as:T]C[FORCE]
+(;W[or]LB[as:T];B[rq]LB[qq:1]LB[qr:2]LB[oq:3]LB[pr:4]LB[op:5]LB[or:6]LB[rq:7]C[This variation is normal in contemporary pro games. Next White plays a or b, depending on the position on the lower side and the need to protect her shape.RIGHT]LB[np:a]LB[mr:b]LB[as:T])
+(;W[qp];B[rp]C[FORCE]
+(;W[or];B[rq]C[White should have omitted the exchange of W6-B7 and played W8 instead. See '123 principle'.]LB[qq:1]LB[qr:2]LB[oq:3]LB[pr:4]LB[op:5]LB[qp:6]LB[rp:7]LB[or:8]LB[rq:9])
+(;W[rq];B[qo]C[FORCE];W[qq];B[or]C[White captures, but after Black's squeeze White's stones are inefficient and Black cuts at P2. White is locked into the corner.])
+(;W[qo];B[po]C[FORCE]
+(;W[ro];B[rn]C[FORCE]
+(;W[so];B[sn]C[FORCE];W[rq];B[or]C[White captures, but Black cuts at P2. White is locked into the corner.])
+(;W[rq];B[or]C[White captures, but Black cuts at P2. White is locked into the corner.]))
+(;W[rq];B[ro]C[FORCE];W[qq];B[or]C[White captures, but after Black's squeeze White's stones are inefficient and Black cuts at P2. White is locked into the corner.]))))
+(;LB[as:T]B[or]LB[as:T]C[FORCE];W[op]LB[as:T];B[nr]LB[as:T]C[FORCE];W[qp]LB[as:T];B[po]C[FORCE]LB[as:T];W[rp]LB[as:T];B[mq]C[In this variant Black trades the corner for a position on the lower side. There can be a number of ways to play this variant, but this is a representative sequence, with White alive in the corner.RIGHT]LB[or:1]LB[nr:3]LB[po:5]LB[mq:7]LB[op:2]LB[qp:4]LB[rp:6]LB[as:T]))
+(;LB[as:T]W[or]LB[as:T];B[pr]C[Bad for white.]LB[as:T])
+(;W[op];B[pr]C[Bad for White.]))
+(;LB[as:T]B[qp]LB[as:T];W[or]C[It is also possible for Black to connect solidly with B1. Both groups then have good shape, and Black may want to make a flanking extension immediately on the right side.RIGHT]LB[qp:1]LB[or:2]LB[as:T]))
+(;LB[as:T]W[op]LB[as:T];B[pr]LB[as:T]C[];W[or]LB[op:1]LB[pr:2]LB[or:3]LB[po:a]LB[qr:b]C[Here, White's idea is to play W1 for a bulge formation. Black probably takes up the challenge of a ko after B2 and W3. The steady play of B2 at a is also seen: White can still provoke a ko with White at b, B2, W3, but this ko is a little better for Black.RIGHT]LB[as:T]))
+(;LB[as:T]W[qr]LB[as:T];B[pr]C[White's groups are separated.]LB[nq:1]LB[qn:2]LB[qr:3]LB[pr:4]LB[as:T])
+(;W[as];B[oq];W[np]LB[lp:a]LB[lq:a]LB[kp:a]LB[kq:a]LB[jq:a]LB[nn:b]LB[on:b]LB[nm:b]LB[mm:b]LB[qq:c]LB[as:T]LB[jp:A]C[In fact in pro games there isn't one set way for Black to attack here: all the pincers at a have been tried. The most common idea is A. White's way out into the centre here is a jump to a point such as b. The invasion aji at c is quite complex tactically.RIGHT])
+(;W[kq]C[Normally, White would play at a and play this extension after Black's response at b. However, the slide allows Black to pincer at c if he so chooses. If this would be bad for White, she can play the extension immediatly.]LB[pr:a]LB[qq:b]LB[lq:c];B[oq]C[Normally, White would play at a and play this extension after Black's response at b. However, the slide allows Black to pincer at c if he so chooses. If this would be bad for White, she can play the extension immediatly.FORCE]LB[lq:c]LB[pr:a]LB[qq:b]
+(;W[np]C[Now, White has made too short an extension (marked stone) from a two-stone wall, which most players disapprove of.]TR[kq])
+(;W[or];B[pr]C[FORCE]
+(;W[nr]TR[kq]C[White has made too short an extension (marked stone) from a two-stone wall, which most players disapprove of. Additionally, White's wall is very low, so this outcome is bad for White.])
+(;W[hq]LB[nq:1]LB[qn:2]LB[kq:3]LB[oq:4]LB[or:5]LB[pr:6]LB[hq:7]C[The Korean idea is to exchange W5 for B6 (to make a gote for Black), then make a second two-space extension to W7, treating W1 and W5 lightly. Later, if W connects at a, she has aji to aim for in the corner.RIGHT]LB[nr:a])))
+(;W[oo]C[Not joseki. Black defends the corner at a or b.]LB[pq:a]LB[pr:b])
+(;W[jq]C[White is both slightly low and thin. At some time Black may play at M3. White may like to defend before that becomes worthwhile, but then White would wish the stone at K3 were further to the left for better efficiency. (Source: BartTM's comment, thx)])
+(;W[or]C[];B[pr]C[This move is too timid, Black defends the corner easily.FORCE];W[pq];B[qq]C[FORCE];W[oq];B[qs]LB[or:1]LB[pr:2]LB[pq:3]LB[qq:4]LB[oq:5]LB[qs:6]C[])
+(;W[dp];B[oq];W[np]C[RIGHT]))

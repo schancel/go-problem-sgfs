@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[6d]DP[1]SO[rex]CO[8]AW[bp][cp][dp][eo][dn][dm][cl][bl][hm][jr]AB[cm][cn][co][do][en][fn][gn][in]C[How to connect the black groups? White's shape doesn't look good. However, black
+only has 3 liberties.]SZ[19]
+
+(;B[ep];W[fo];B[fp];W[go];B[ho];W[gp];B[gq];W[hp];B[iq];W[io];B[hn];W[ip];B[jp]
+;W[jo];B[jn];W[ko];B[dl];W[em];B[el];W[fm];B[gm];W[fl];B[fk];W[gl];B[hk];W[hl]
+;B[il];W[ek];B[dk];W[gk];B[gj];W[fj];B[im];W[fk];B[fi]C[RIGHT])
+(;B[dl];W[em];B[el];W[fm]
+(;B[ep];W[fo];B[fp];W[go];B[ho];W[gp];B[gq];W[hp];B[iq];W[hn])
+(;B[gm];W[fl];B[fk];W[gl];B[hk];W[hl];B[ep];W[fo];B[fp];W[go];B[hn];W[bo]))
+(;B[hn];W[bo];B[ep];W[fo];B[fp];W[go];B[dl];W[em];B[el];W[fm];B[gm];W[fl];B[fk]
+;W[gl];B[hl];W[gk];B[gj];W[hk]))

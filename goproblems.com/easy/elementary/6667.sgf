@@ -1,0 +1,14 @@
+(;GE[elementary]DI[12k]DP[57]SO[maba]CO[8]SZ[9]AB[as]AB[aq]AB[ap]AW[an]AW[am]AB[aj]AB[bj]AB[cj]AB[cm]AB[cn]AW[fp]AW[gp]AW[hp]AW[ip]C[Where should white play?]AW[ab]AW[ba]AW[cb]AW[bc]AW[ad]AW[bd]AW[cc]AW[da]AW[db]AW[dc]AB[cd]AB[dd]AB[ed]AB[ec]AB[eb]AB[ea]AB[fa]AB[gb]AB[gc]AB[gd]AB[fd]AB[hd]AB[id]AB[ee]AB[fe]AW[ge]AW[he]AW[ie]AW[if]AB[ii]AB[hh]AW[ih]AW[hg]AW[gg]AW[gh]AB[ai]AB[bi]AB[ci]AW[ag]AW[ah]AW[bh]AB[di]AB[dh]AB[dg]AB[cg]AB[bg]AB[be]AB[bf]AB[ae]AW[ce]AW[cf]AW[df]AW[de]AW[ef]AW[eg]AW[eh]AW[ei]AW[ff]AB[gf]AW[ga]AW[ha]AW[hb]AW[ic]AB[ia]AP[goproblems]
+(;W[fb]TR[fa]TR[ea]TR[eb]TR[ec]TR[ed]TR[dd]TR[cd]TR[ee]TR[fe]TR[fd]TR[gd]TR[hd]TR[id]TR[gc]TR[gb]LB[hc:A]C[Seki. The marked black group has only 2 liberties now. If he would play at A, it would be self-atari. This doesn't change if black captures the white stone at F8.RIGHT])
+(;W[fc]C[Seki. The marked black group has only 2 liberties now. If he would play at A, it would be self-atari. This doesn't change if black captures the white stone at F7.RIGHT]LB[hc:A]TR[fa]TR[ea]TR[eb]TR[ec]TR[ed]TR[dd]TR[cd]TR[fd]TR[gd]TR[hd]TR[id]TR[gc]TR[gb]TR[fe]TR[ee])
+(;W[hc];B[ib])
+(;W[ib];B[hc]TR[ga]TR[ha]TR[hb]TR[ib]TR[ic]C[The marked stones are dead.])
+(;W[ig];B[hc])
+(;W[hi];B[hc])
+(;W[hf];B[hc])
+(;W[af];B[ch]
+(;W[ag];B[ah])
+(;W[ah];B[ag]))
+(;W[ch];B[af]
+(;W[bh];B[ah])
+(;W[ah];B[bh])))

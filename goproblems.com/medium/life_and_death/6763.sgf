@@ -1,0 +1,241 @@
+(;GE[life and death]DI[3k]DP[26]SO[Haze]CO[4]AB[ja]AB[jc]AB[kb]AB[ka]AB[lb]AB[la]AB[kc]AB[ld]AB[kd]AB[jd]AB[id]AB[ke]AB[ie]AB[if]AB[jf]AB[hf]AB[gf]AB[ge]AB[gd]AB[fd]AB[fc]AB[ee]AB[de]AB[dd]AB[df]AB[dg]AB[dh]AB[cf]AB[hh]AW[kf]AW[kg]AW[jg]AW[ig]AW[jh]AW[lh]AW[le]AW[me]AW[md]AW[fe]AW[ia]AW[jb]AW[ic]AW[hb]AW[hc]AW[hd]AW[he]AW[gc]AW[fb]AW[ec]AW[dc]AW[ed]AW[cd]AW[ce]AW[bf]AW[cg]AW[bg]AW[ch]AB[hg]AW[mb]AW[ma]AW[mc]AW[ib]C[White has made the mistake of answering the endgame move K17 with J18.  Black to punish white.]AB[be]LB[jc:1]LB[ib:2]AP[goproblems]
+(;B[ha];W[ga]C[That acomplishes nothing.])
+(;B[gb];W[ga]C[That acomplishes nothing.])
+(;B[bd];W[cc]C[Nothing more for black to do here.])
+(;B[cc]
+(;W[bd]
+(;B[bc];W[ae]
+(;B[db];W[eb]
+(;B[ga];W[gb]
+(;B[da];W[bb]
+(;B[cb];W[ac]
+(;B[ea]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[fa]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[ca];W[ba])
+(;B[ba];W[ab]
+(;B[ea]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[fa]C[Correct.  In this sequence, white can make a ko for B19.])))
+(;B[ab];W[cb];B[ac];W[ad])
+(;B[ac];W[cb])
+(;B[ea];W[cb])
+(;B[fa];W[cb]))
+(;B[ea];W[cb]C[White lives.])
+(;B[ca];W[ac]
+(;B[bb];W[ab]
+(;B[ea];W[ba];B[aa]MA[ba]C[Ko.  This is bad.])
+(;B[da];W[ba];B[aa]MA[ba]C[Ko.  This is bad.])
+(;B[ba];W[ea]
+(;B[fa]C[Black wins the semeai without ko.  Thanks to sestir for this solution!RIGHT];W[ad];B[da])
+(;B[aa];W[ad]
+(;B[fa]C[Seki])
+(;B[ha]C[Seki.]))
+(;B[da]C[Black wins the semeai without ko.  Thanks to sestir for this solution!RIGHT])
+(;B[ha]C[Black wins the semeai without ko.  Thanks to sestir for this solution!RIGHT]))
+(;B[aa];W[ba]C[Ko.]))
+(;B[cb];W[ea]C[Black will not be able to approach.])
+(;B[ea];W[bb]C[White lives.])
+(;B[da];W[bb]C[White lives.]))
+(;B[cb]C[];W[da]
+(;B[ca];W[fa]C[This is ko.  Black is able to kill unconditionally after wD19.])
+(;B[fa];W[ac]
+(;B[ea];W[ha]
+(;B[ea];W[fa];B[ca]C[Ko, black could have killed unconditionally in this variation.RIGHT])
+(;B[ca];W[fa]C[Ko, black could have killed unconditionally in this variation.RIGHT]))
+(;B[ca];W[ba];B[ea];W[bb];B[ha];W[ab]C[Thanks to JottKa for this variation.RIGHT]))))
+(;B[ea];W[cb])
+(;B[da]
+(;W[bb]
+(;B[cb];W[ac]
+(;B[ga];W[fa])
+(;B[fa];W[ga])
+(;B[ba];W[ab]
+(;B[fa];W[ga])
+(;B[ga];W[fa])))
+(;B[ea];W[cb];B[ga];W[gb])
+(;B[ga]
+(;W[fa]
+(;B[ea]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[gb];W[ha];B[ga];W[cb];B[gb];W[ac]C[You could have done better by playing E19 instead of G18 when G18 was first played.]))
+(;W[cb];B[gb];W[ca]C[RIGHT]))
+(;B[fa];W[cb]))
+(;W[ga]
+(;B[bb]
+(;W[ba]
+(;B[ac];W[ea])
+(;B[ca];W[ea];B[aa]C[RIGHT]))
+(;W[ac];B[ab];W[ea]
+(;B[ba]C[RIGHT])
+(;B[ca]C[RIGHT]))
+(;W[ea];B[ba]))
+(;B[ba]
+(;W[ab];B[ac];W[bb];B[cb])
+(;W[ac];B[ab];W[ea]
+(;B[cb];W[ad]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[ca]C[RIGHT])))
+(;B[ab];W[ba]
+(;B[bb];W[ca])
+(;B[ca];W[ea];B[cb])))))
+(;B[ga];W[fa]
+(;B[gb];W[ha]
+(;B[ga];W[gb];B[db];W[eb]
+(;B[da]C[Correct.  Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[cb];W[ac]
+(;B[ab];W[ba]
+(;B[ca];W[ad]C[ko])
+(;B[ad]C[ko])
+(;B[da];W[bb]C[ko]))
+(;B[ba];W[ab];B[da];W[bb])
+(;B[da];W[bb])
+(;B[ca]C[ko]))
+(;B[ca];W[ac];B[bb];W[ab];B[ba]C[From here it can be either a ko or seki.  Black can do better.]))
+(;B[gb];W[ga];B[db];W[eb]
+(;B[da]C[Correct.];W[bb]
+(;B[ea]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[cb];W[ac]C[White lives.]))
+(;B[ca];W[bb]
+(;B[ea];W[da];B[cb];W[ac];B[ea]MA[da]C[Black can do better than ko.])
+(;B[cb];W[ac];B[ea];W[da]MA[ea]C[Black can do better than ko.]))
+(;B[cb];W[ac]
+(;B[ab];W[ba];B[da];W[bb]C[Ko.])
+(;B[ba];W[ab];B[da];W[bb])
+(;B[da];W[bb];B[ba];W[ab])
+(;B[ca]C[Ko.])))
+(;B[db];W[eb]
+(;B[da];W[bb]
+(;B[cb];W[ac]C[White lives.  Black cannot approach.])
+(;B[ea];W[cb];B[gb];W[ca];B[ga]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[gb];W[cb];B[ga];W[ac]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT]))
+(;B[gb];W[cb];B[ga];W[da]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT])
+(;B[ga];W[gb];B[da];W[bb]
+(;B[cb];W[ac]C[White lives.  Black cannot approach.])
+(;B[ea];W[ac];B[ga]C[Starting at C17 might trick white into trying to save the C16 stones, allowing black to go for the larger group.RIGHT]))))
+(;B[db];W[eb]
+(;B[da]C[RIGHT])
+(;B[ca]C[At best, this leads to ko.]))
+(;B[ha];W[gb];B[db];W[eb];B[da];W[bb]
+(;B[cb];W[ac])
+(;B[ac];W[cb]))
+(;B[da];W[db];B[cb];W[eb];B[ca]C[RIGHT]))
+(;B[da]
+(;W[ga]
+(;B[eb]C[RIGHT])
+(;B[db];W[eb]))
+(;W[ea];B[db];W[eb];B[ga]
+(;W[cb];B[gb];W[ca]C[Black can play H19 later.RIGHT])
+(;W[gb]
+(;B[fa]C[RIGHT])
+(;B[ha]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[cb]C[RIGHT])
+(;B[ba]
+(;W[cb];B[ca];W[ac];B[bb];W[ab]C[Black can ignore this move.RIGHT])
+(;W[ab];B[bb];W[ac]C[Black can ignore this move.RIGHT])))))
+(;B[eb];W[db]
+(;B[ga];W[gb])
+(;B[da]
+(;W[cb];B[fa];W[ea]C[Black can do better than ko.])
+(;W[ea];B[cb];W[ca];B[ba];W[da];B[ab];W[ac]C[Ko, black takes first, black has a local threat of G19.]))))
+(;B[db];W[eb]
+(;B[bc];W[ae]
+(;B[da];W[ga])
+(;B[ga];W[cb];B[gb];W[da]C[RIGHT]))
+(;B[da];W[cb];B[bc];W[ca]
+(;B[bb];W[ea];B[ad]C[RIGHT])
+(;B[ad]C[RIGHT])
+(;B[ga]
+(;W[ea];B[ad]C[RIGHT])
+(;W[ae];B[gb];W[ea]C[RIGHT])))
+(;B[ga]
+(;W[gb]
+(;B[bc]
+(;W[ae]
+(;B[da]C[RIGHT])
+(;B[cb]C[Another new variation, added thanks to JottKa and LCZLAPINSKI.RIGHT]))
+(;W[cb]
+(;B[bb];W[da];B[ad]C[RIGHT])
+(;B[ad]C[RIGHT])))
+(;B[cb]C[Thanks to LCZLAPINSKI for this variation.RIGHT]))
+(;W[fa];B[bc]
+(;W[ae];B[da];W[bb]
+(;B[ea]C[RIGHT])
+(;B[cb];W[ac])
+(;B[gb];W[ha];B[ga];W[cb];B[gb];W[ac]C[Black could have done better in this sequence.RIGHT]))
+(;W[cb]
+(;B[ad]C[RIGHT])
+(;B[bb];W[da];B[ad]C[RIGHT])))))
+(;B[eb];W[db];B[ga];W[gb]))
+(;W[cb]
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[ga];W[gb]
+(;B[eb];W[db]
+(;B[ea];W[da]
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[fa];W[ha]
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT]))
+(;B[ha];W[fa]
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])))
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT]))
+(;B[bc]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT])
+(;B[bd]C[Correct.  With proper white play, the best that black should get is the C16 group.RIGHT]))
+(;B[db];W[bc];B[eb];W[cc]
+(;B[fa];W[ga]C[Ko.])
+(;B[ga];W[fa]))
+(;B[eb]
+(;W[bc];B[ga];W[fa]
+(;B[ea]C[RIGHT])
+(;B[gb];W[ha]
+(;B[ga];W[gb];B[ea]C[RIGHT])
+(;B[gb];W[db];B[ga];W[ea]C[RIGHT])))
+(;W[db]
+(;B[bc]C[RIGHT])
+(;B[bd]C[RIGHT])
+(;B[ga];W[gb]
+(;B[bc]C[RIGHT])
+(;B[bd]C[RIGHT])
+(;B[fa];W[ea]
+(;B[bc]C[RIGHT])
+(;B[bd]C[RIGHT])))))))
+(;B[ga]
+(;W[gb]
+(;B[cc];W[db]
+(;B[bd]C[Good.  Black can get a bit more before playing B16 though.RIGHT])
+(;B[cb]C[Correct.  Thanks to LCZLAPINSKI for this variation.RIGHT];W[da]C[Correct.  Thanks to LCZLAPINSKI for this variation.RIGHT]
+(;B[bd]C[RIGHT])
+(;B[ca];W[fa];B[bd]C[RIGHT])
+(;B[ea];W[fa];B[ca];W[eb];B[bd]C[Correct, but a ko threat had been wasted with the E19 exchange.RIGHT])))
+(;B[db];W[eb];B[cc];W[cb]
+(;B[bc]C[Correct.  All black should be able to get away with is the capture of the C16 stones.RIGHT])
+(;B[bd]C[Correct.  All black should be able to get away with is the capture of the C16 stones.RIGHT]))
+(;B[eb];W[db];B[cc];W[bd];B[da]
+(;W[cb];B[fa];W[ea]C[Ko, black can do better.])
+(;W[ea];B[bc];W[ae];B[cb];W[ca];B[ba];W[ac];B[da]C[Ko, Black can do better.])))
+(;W[fa]
+(;B[gb];W[ha]
+(;B[ga];W[gb];B[cc];W[bd]
+(;B[bc];W[ae];B[db];W[eb];B[da]
+(;W[bb]
+(;B[ea]C[If white makes the mistake of saving her C16 group, black can get much more.RIGHT])
+(;B[cb];W[ac]C[Black cannot approach.]))
+(;W[cb];B[bb]C[RIGHT]))
+(;B[db];W[eb];B[bc];W[ae];B[da]C[If white makes the mistake of saving her C16 group, black can get much more.RIGHT]))
+(;B[gb];W[cc];B[ga]C[RIGHT];W[eb]C[If white makes the mistake of saving her C16 group, black can get much more.]))
+(;B[cc]
+(;W[bd]
+(;B[bc];W[ae];B[db];W[eb];B[da];W[bb];B[ea]C[RIGHT])
+(;B[db];W[eb];B[bc]
+(;W[ae];B[da]C[RIGHT])
+(;W[cb];B[bb];W[da];B[ad]C[Correct.  Thanks to LCZLAPINSKI for this variation.RIGHT])))
+(;W[cb]
+(;B[bc]C[RIGHT])
+(;B[bd]C[RIGHT])))))
+(;B[cb];W[cc]C[White saves everything.])
+(;B[db];W[cc]C[White saves everything.])
+(;B[eb];W[db];B[ga];W[gb]
+(;B[fa];W[ea])
+(;B[cc];W[bd];B[bc];W[ae];B[cb];W[da])))

@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[25k]DP[77]SO[cusp]CO[8]AB[qr]AB[pr]AB[pq]AB[oq]AB[op]AW[ns]AW[nr]AW[nq]AW[np]AW[no]AW[mp]AB[ms]AB[mr]AB[mq]AB[lp]AB[lo]AB[mn]AB[nn]AB[oo]AW[on]AW[qs]AW[rr]AW[qq]AW[qp]AW[pp]AW[po]AW[pn]C[Black to kill six white stones.]MA[no]MA[np]MA[mp]MA[nq]MA[nr]MA[ns]AW[rq]AP[goproblems]
+(;B[mo];W[ps]C[Oops.])
+(;B[or];W[ps]C[No good.])
+(;B[os]C[Yes, that's it!RIGHT])
+(;B[ps];W[rs]
+(;B[mo]C[Seki.])
+(;B[or];W[os]C[Ouch.])
+(;B[os];W[or]C[Oh my.])))

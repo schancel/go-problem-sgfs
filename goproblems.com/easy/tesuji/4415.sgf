@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[10k]DP[54]SO[adum]CO[8]AB[br]AB[bq]AB[bp]AB[co]AB[bn]AB[ao]AW[cn]AW[cm]AW[bm]AW[bl]AW[bk]AW[bj]AB[cl]AB[ck]AB[dm]AB[dn]AB[do]AW[dp]AB[cp]AW[cq]AW[dq]AW[eq]AW[dr]AW[ds]AB[ep]AB[eo]AW[fp]AW[gp]AW[gq]AB[fo]AW[go]AW[fn]AB[hn]AW[gm]AW[hm]AW[im]AW[hk]AW[gk]AB[fk]AB[fj]AB[fi]AB[fh]AB[dj]AW[cj]AW[dh]AW[eh]AW[fg]AW[gh]AW[gi]AW[gj]AW[ff]AB[eg]AB[ef]AB[ee]AB[de]AW[ge]AW[ce]AW[cf]AW[cg]AW[bg]AB[bf]AB[be]AB[cd]AB[cc]AB[cb]AB[ec]AW[dl]LB[dl:1]C[how would black handle a white cut at 1?]AP[goproblems]
+(;B[dk];W[el]
+(;B[fl];W[em]
+(;B[fm];W[en]
+(;B[gn]C[RIGHT])
+(;B[ek];W[gn]))
+(;B[en];W[fm])
+(;B[gn];W[fm])
+(;B[ek];W[fm]))
+(;B[em];W[fl])
+(;B[fm];W[fl])
+(;B[gn];W[fl])
+(;B[en];W[fm]))
+(;B[el];W[dk]C[black did not need to give up these stones for a gote connection])
+(;B[ek];W[dk])
+(;B[em];W[dk]C[bad for black])
+(;B[ej];W[dk])
+(;B[fl];W[dk]C[bad for black]))

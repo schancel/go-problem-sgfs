@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[25]SO[morten]CO[8]AW[bg]AW[ch]AW[ci]AW[bj]AW[bk]AW[bl]AW[bm]AW[ag]AB[bf]AB[cf]AB[cg]AB[dh]AB[di]AB[cj]AB[ej]AB[ck]AB[cl]AB[cm]AB[cn]AB[bn]AB[bd]AB[bp]C[Black to kill]
+(;B[bi];W[bh];B[ai]
+(;W[aj];B[am]LB[al:a]LB[ah:b]C[White cannot block at 'a', and if he captures at'b', black takes away his second eye at 'a'.RIGHT];W[al];B[ak]C[RIGHT])
+(;W[am];B[af]C[RIGHT]))
+(;B[bh];W[bi]C[White has lots of eyes];B[ah];W[ai];B[am];W[al]C[White has 2 eyes.])
+(;B[ai];W[bi]
+(;B[ah];W[aj];B[am];W[al];B[af];W[bh]C[White has 2 eyes])
+(;B[aj];W[ah];B[am]
+(;W[ak])
+(;W[al]C[White has 2 eyes]))
+(;B[am];W[al]
+(;B[af];W[aj]C[White has 2 eyes])
+(;B[ah];W[aj]C[White has 2 eyes])))
+(;B[am];W[ai]
+(;B[bh];W[bi];B[al];W[ak]C[White has 2 eyes])
+(;B[al];W[ak]C[White has 2 eyes])))

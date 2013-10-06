@@ -1,0 +1,19 @@
+(;GE[best move]DI[5k]DP[33]SO[Stones]CO[5]AB[ig]AB[jg]AB[kg]AW[kh]AW[jh]AW[ih]AW[ii]AB[ji]AB[jj]AB[ki]AB[lh]AW[lg]AW[mg]AB[gh]AW[li]AW[lj]AW[lk]AB[mh]AB[nh]AW[nf]AW[pg]AW[nj]AW[il]AB[oh]AB[ph]AW[qh]AW[oj]AW[qi]AW[of]AB[qg]AB[qf]AB[pe]AW[le]AW[me]AB[ng]AW[pj]AB[ie]AB[je]AB[jc]AB[nd]AB[oe]AW[lc]AW[mc]AW[nb]AW[lb]AB[jb]AB[ob]AB[oc]AB[qb]AB[md]AW[ke]AW[kf]AB[gf]AW[ma]AW[kd]AB[hc]C[What is the best sequence for black?]AP[goproblems]
+(;B[hj];W[ij])
+(;B[ij]TR[ih]TR[ii]TR[jh]TR[kh]C[This move captures the triangle stones.  Unfortunately, black had a better move.  Try to find it on your own before looking at the correct variation.])
+(;B[pf];W[ne])
+(;B[og];W[ne])
+(;B[oa];W[ij])
+(;B[ka];W[ij])
+(;B[ne];W[mf])
+(;B[mf];W[lf]
+(;B[ij];W[ne])
+(;B[og];W[ne])
+(;B[pf];W[ne])
+(;B[oa];W[ne])
+(;B[ka];W[ne])
+(;B[ne]
+(;W[ij]C[CHOICE]
+(;B[pf]TR[nb]TR[ma]TR[lb]TR[mc]TR[lc]TR[kd]TR[ke]TR[le]TR[me]TR[lf]TR[kf]TR[lg]TR[mg]TR[nf]TR[of]TR[pg]C[The group marked with triangles is dead.RIGHT])
+(;B[og]TR[pg]TR[of]TR[nf]TR[mg]TR[lg]TR[lf]TR[kf]TR[ke]TR[le]TR[me]TR[kd]TR[lc]TR[lb]TR[mc]TR[nb]TR[ma]C[The group marked with triangles is dead.RIGHT]))
+(;W[og]C[];B[ij];W[hi];B[gj];W[pi];B[hj];W[oi];B[gi]C[RIGHT]))))

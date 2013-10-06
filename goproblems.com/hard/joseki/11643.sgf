@@ -1,0 +1,27 @@
+(;GE[joseki]DI[5d]DP[4]SO[Cow]CO[0]AB[qd]AW[oc]AB[nd]AW[dd]AB[pq]AB[qk]AW[dp]AW[od]AB[oe]AW[pe]AB[pd]AW[ne]AB[of]AW[md]AB[nf]AW[me]TR[qd]TR[qk]TR[pq]TR[dp]TR[dd]LB[oc:1]LB[nd:2]LB[od:3]LB[oe:4]LB[pe:5]LB[pd:6]LB[ne:7]LB[of:8]LB[md:9]LB[nf:10]LB[me:11]C[When the marked stones where played white aproaches at 1. Black now plays the weird-looking move of 2 with the purpose of making thickness. The white move at 5 is a mistake however. 6 to 10 follow naturally but whites move at 11 is a mistake again. It should have been played at A. Show white why! ;-)]LB[nc:A]AP[goproblems]
+(;B[pb]C[This move seems reasonable but it is not the vital point here.])
+(;B[pf]C[This move is quite slow. Its not the vital point.])
+(;B[qg];W[qb]C[Black could have done a lot better. White even has the huge endgame move of A left.]LB[rd:A])
+(;B[ob];W[pc]C[White offers resistance with Q17. Please play at the marked point to punish him.]TR[nc];B[nc];W[qc]C[Ok. So what now?]
+(;B[rd];W[mc];B[nb];W[pb]
+(;B[rc];W[pa]
+(;B[qb];W[rb];B[ra];W[mb]C[Black is captured. You got tricked! :-(])
+(;B[qa];W[rb];B[sb];W[mb]C[Black is captured. :-/]))
+(;B[mb];W[lb]C[This exchange does not help you. The cut does not work and the five stones will get captured!]))
+(;B[rc];W[rd];B[qe];W[rb]
+(;B[qb];W[sc];B[pb];W[rc]
+(;B[re];W[nb];B[mc];W[mb];B[lc];W[lb];B[kc]
+(;W[qa];B[lf]C[White is totally hopeless! Good job! :-)RIGHT]))
+(;B[mc];W[lc];B[lb];W[kc]
+(;B[re];W[kb];B[ra];W[nb];B[mb];W[na];B[se];W[oa];B[sd]C[This is not bad. But you could have done better. Also white had the possibility of playing ko.])
+(;B[kb];W[qf];B[pf];W[re];B[pe];W[qg]C[This is not good for black.])))
+(;B[sc];W[re];B[qf];W[pb]
+(;B[pa];W[qb]
+(;B[nb];W[mc]C[Black will get captured. This is clearly good for white])
+(;B[mb];W[mc];B[nb];W[lb]C[Black cannot escape. You were tricked! :-(]))
+(;B[mb];W[mc];B[nb];W[lb]C[Black is captured. ;-(]))
+(;B[re];W[mc];B[nb];W[pb]
+(;B[sd];W[sb]C[Black loses the capturing race by one liberty. :-(])
+(;B[pa];W[sc]C[Black is captured. You got tricked. ;-(]))))
+(;B[nc];W[ob]C[This exchange does not help black.])
+(;B[mc];W[lc]C[This exchange only helps white.]))

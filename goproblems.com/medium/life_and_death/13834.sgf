@@ -1,0 +1,51 @@
+(;GE[life and death]DI[3k]DP[24]SO[DarkSycthe]CO[0]AB[ir]AB[jr]AB[kr]AB[hq]AB[hp]AW[iq]AW[ip]AW[kq]AW[lr]AW[io]AW[in]AW[ls]AB[mr]AW[qo]AW[pq]AB[ho]AB[hn]AB[gm]AB[gn]AW[hm]AW[il]AW[gl]AB[em]AB[en]AB[dn]AB[dp]AB[ep]AW[fo]AW[fp]AW[fq]AW[dq]AW[cq]AW[bq]AW[br]AW[cn]AW[cm]AW[co]AW[dm]AW[bm]AW[am]AW[gk]AW[ek]AW[el]AW[dk]AB[dl]AB[ck]AB[cl]AB[bl]AB[al]AB[fi]AB[ej]AB[dj]AW[cj]AB[bj]AB[bi]AB[bh]AW[ci]AW[ch]AW[cg]AW[bg]AW[ak]AB[bk]AB[eh]AB[fj]LB[ls:1]C[White has just played 1. Should Black resign now that two big groups are dead or does Black have a way to save his bottom group (escaping works)? Play R for Resign if you think the bottom group is dead as well. Also, please refrain from playing unnecessary forcing moves.]LB[fh:R]AW[ah]AB[ec]AB[ic]AW[cd]AW[cb]AB[ee]AB[pd]AB[nc]AB[kd]AW[qj]AB[qe]AB[qh]AW[pm]AB[li]AB[kj]AW[nl]AB[ii]AB[db]AB[lk]AB[rj]AB[ri]AW[rk]AW[qk]AB[qi]AB[oj]AW[ok]AB[pj]AW[pk]AB[nj]AW[eq]AB[gr]AB[cr]AB[dr]AW[fr]AW[hs]AB[gs]AW[is]AB[ll]AP[goproblems]
+(;B[lq];W[mq]C[White doesn't want you to live so easily];B[lp];W[nr]
+(;B[mp];W[nq];B[jq];W[kp];B[jp];W[ko];B[jo]
+(;W[jn]C[White makes a mistake...];B[kn];W[lo]
+(;B[km];W[mo]
+(;B[im];W[jm]
+(;B[jl];W[im]
+(;B[ik];W[hl]
+(;B[fl];W[fk]
+(;B[gj];W[fm];B[hk]C[YES! White resigns now!RIGHT])
+(;B[hk];W[fm];B[gj]C[YES! White resigns now!RIGHT]))
+(;B[fk];W[fl]C[oops. The left group dies]))
+(;B[fl];W[fk]))
+(;B[fl];W[fk];B[jl]))
+(;B[fl];W[fk];B[im];W[jm];B[jl];W[im];B[ik];W[hl]))
+(;B[ln];W[mo])
+(;B[mo]C[];W[ln];B[km];W[mm]
+(;B[im];W[jm]
+(;B[jl];W[im]
+(;B[ik];W[hl];B[fl];W[fk]
+(;B[gj]C[RIGHT])
+(;B[hk]C[RIGHT]))
+(;B[fl];W[fk]))
+(;B[fl];W[fk];B[jl]))
+(;B[fl];W[fk];B[im];W[jm];B[jl];W[im];B[ik];W[hl])))
+(;W[kn]C[This is indeed a better reply for white, but that will let back escape.];B[jn];W[im];B[km];W[mo]
+(;B[mn];W[np];B[jm]C[Black escapes! Although it's still a game, looks like black is in a better position])
+(;B[jm]C[Escape!])))
+(;B[jq];W[kp]
+(;B[mp];W[nq])
+(;B[jp];W[ko]
+(;B[mp];W[nq])
+(;B[jo];W[jn]
+(;B[mp];W[nq])
+(;B[kn];W[lo]
+(;B[mp];W[nq])
+(;B[km];W[mn]
+(;B[im];W[jm]
+(;B[jl];W[im]
+(;B[ik];W[hl];B[fl];W[fk]
+(;B[gj]C[Right!RIGHT])
+(;B[hk]C[Right!RIGHT]))
+(;B[fl];W[fk];B[ik];W[hl]))
+(;B[fl];W[fk];B[jl];W[im]))
+(;B[fl];W[fk];B[im];W[jm])))))))
+(;B[fh]C[No need to resign yet. Although the left is dead, the bottom isn't.])
+(;B[jq];W[lq]
+(;B[jp];W[kn]C[Ouch. This doesn't look good for black.])
+(;B[kp];W[jp]C[Uhoh. Not good for black.]))
+(;B[kp];W[jq]C[Interesting move. But does it work?];B[lq];W[mq];B[lp];W[nr]C[Unfortunately not.])
+(;B[fl]C[NOTTHIS]))

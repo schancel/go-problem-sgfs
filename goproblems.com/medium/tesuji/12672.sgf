@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[1k]DP[19]SO[Gelya]CO[0]SZ[19]AW[cm]AW[cn]AW[dn]AW[gn]AW[hn]AW[pn]AW[co]AW[eo]AW[fo]AW[cp]AW[gp]AW[hp]AW[ip]AW[pp]AW[cq]AW[eq]AW[iq]AW[jq]AW[er]AW[hr]AW[jr]AB[dm]AB[fm]AB[gm]AB[hm]AB[im]AB[en]AB[jn]AB[do]AB[ko]AB[dp]AB[dq]AB[fq]AB[gq]AB[hq]AB[kq]AB[nq]AB[dr]AB[ir]AB[kr]AB[es]AB[is]AB[js]C[white to live]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]PL[W]
+(;W[gs];B[fr]
+(;W[ep];B[fs]
+(;W[cr]C[];B[gr]
+(;W[ds];B[hs]C[RIGHT])
+(;W[fp];B[hs];W[ds]C[goteRIGHT]))
+(;W[fp];B[ks];W[cr]C[];B[hs];W[ds];B[gr]C[RIGHT]))
+(;W[fs];B[ep])
+(;W[gr];B[fs])
+(;W[fp];B[ep])
+(;W[cr];B[ep]))
+(;W[fr];B[gr]
+(;W[fp];B[gs])
+(;W[gs];B[hs])
+(;W[fs];B[ep])
+(;W[ep];B[fs]))
+(;W[gr];B[fr];W[ep];B[gs])
+(;W[ep];B[fs]
+(;W[gs];B[gr])
+(;W[fr];B[gr])
+(;W[cr];B[ds];W[fr];B[gr])))

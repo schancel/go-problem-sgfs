@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[7k]DP[42]SO[naustin]CO[0]AW[br]AW[cq]AW[dq]AW[eq]AW[fr]AW[gr]AW[gq]AW[gp]AW[bp]AW[co]AB[bq]AB[cr]AB[dr]AB[er]AB[fq]AB[fp]AB[ep]AB[do]AB[cn]AB[bo]C[Black to save his 3 stones and take the corner.]AP[goproblems]
+(;B[aq];W[ap];B[cp];W[ar];B[bq];W[aq];B[dp];W[bq]
+(;B[ao];W[es];B[bs];W[ds];B[as]C[RIGHT])
+(;B[bs];W[es];B[ao];W[ds];B[as]C[RIGHT]))
+(;B[cp];W[aq]
+(;B[dp];W[bq];B[bs];W[es]
+(;B[ao];W[ds];B[ap];W[cs])
+(;B[ar];W[as]C[Only ko.]))
+(;B[bs];W[es];B[ar];W[as]C[Only ko.])
+(;B[ao];W[cs];B[ap];W[bq];B[dp];W[es]))
+(;B[ap];W[aq]
+(;B[cp];W[ao];B[dp];W[bq];B[bs];W[es]
+(;B[ar];W[as]C[Only ko.])
+(;B[as];W[cs];B[ds];W[cs]))
+(;B[ao];W[cs];B[cp];W[bq];B[dp];W[es]))
+(;B[dp];W[aq];B[cp];W[bq];B[bs];W[es]
+(;B[ar];W[as]C[Only ko.])
+(;B[as];W[cs];B[ds];W[cs]))
+(;B[ar];W[aq];B[bs]
+(;W[bq];B[cp];W[es];B[dp];W[as]C[Only ko.])
+(;W[as]C[Ko]))
+(;B[bs];W[aq]
+(;B[ar];W[as]C[Ko])
+(;B[as];W[es]
+(;B[cp];W[cs];B[ds];W[cs])
+(;B[cs];W[ar]))))

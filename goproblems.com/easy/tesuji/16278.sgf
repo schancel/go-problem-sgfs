@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[4k]DP[29]SO[kuche12345]CO[0]AB[cs]AB[cr]AB[cq]AB[cp]AB[ds]AB[bo]AW[bn]AW[cn]AW[co]AW[dn]AB[do]AB[eo]AB[fo]AB[gp]AB[hp]AB[ip]AW[dp]AW[dq]AW[dr]AW[fp]AW[gq]AW[hq]AW[es]AW[jr]AW[kr]AW[lq]C[Black to connect his stones]AP[goproblems]
+(;B[eq];W[er];B[fr];W[fq];B[ep]C[RIGHT])
+(;B[er];W[eq];B[fr];W[fq])
+(;B[fr];W[fq];B[er])
+(;B[fs];W[eq];B[fr];W[fq];B[er])
+(;B[ep];W[fr]
+(;B[fq];W[er])
+(;B[eq];W[er];B[fq];W[gr]))
+(;B[fq];W[fr]
+(;B[eq];W[er];B[ep];W[gr])
+(;B[ep];W[er])
+(;B[er];W[eq])))

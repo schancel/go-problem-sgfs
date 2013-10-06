@@ -1,0 +1,5 @@
+(;GE[best move]DI[15k]DP[63]SO[averagejoe32]CO[0]AB[fa]AB[fb]AB[gb]AB[hb]AB[hc]AB[id]AB[jd]AB[kc]AB[kb]AW[ga]AW[ha]AW[ib]AW[ic]AW[jb]AW[ka]AW[lb]AW[lc]AW[ld]C[Black to capture as many stones as possible.]AP[goproblems]
+(;B[ia];W[ja];B[jc];W[la])
+(;B[ja];W[ia];B[jc]
+(;W[la]C[RIGHT])
+(;W[ja];B[la]C[RIGHT])))

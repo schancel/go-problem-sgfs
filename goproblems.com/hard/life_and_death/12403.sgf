@@ -1,0 +1,65 @@
+(;GE[life and death]DI[4d]DP[8]SO[rainysky]CO[0]AB[pb]AB[pd]AB[qd]AB[rd]AB[pa]AW[ob]AW[nb]AW[od]AW[ne]AW[pe]AW[qe]AW[re]AW[sd]TR[pa]TR[sd]C[b to live in the *best* way possible...]AW[qg]AW[rf]AP[goproblems]
+(;B[rb];W[sb])
+(;B[sc];W[rc]
+(;B[sb];W[pc])
+(;B[rb];W[sb])
+(;B[se]
+(;W[sb]C[]
+(;B[sd];W[qb])
+(;B[rb];W[qc];B[pc];W[sd]C[ko w first.]))
+(;W[rb]
+(;B[sb]
+(;W[ra]
+(;B[pc]C[sekiRIGHT]))
+(;W[qb];B[ra]C[RIGHT])
+(;W[pc];B[qc];W[qb];B[oc];W[nc];B[ra]C[RIGHT]))
+(;B[pc];W[sb];B[ra];W[qb]))
+(;W[pc];B[qc];W[rb];B[oc];W[nc]
+(;B[sb];W[ra];B[qb]C[RIGHT])
+(;B[ra]
+(;W[sb];B[qb];W[sd])
+(;W[qb];B[sb]C[RIGHT])))))
+(;B[rc];W[pc]
+(;B[qc];W[rb]
+(;B[oc];W[nc]
+(;B[ra];W[sb])
+(;B[sb];W[ra]))
+(;B[ra];W[sb]))
+(;B[ra];W[qb];B[qc];W[sb])
+(;B[rb];W[qc]))
+(;B[sb]
+(;W[rc]C[]
+(;B[sc])
+(;B[qb];W[rb])
+(;B[rb]
+(;W[qb]C[]
+(;B[ra];W[pc])
+(;B[qc];W[pc])
+(;B[qa];W[pc])
+(;B[pc];W[ra]
+(;B[qa]C[RIGHT])
+(;B[qc]C[RIGHT])))
+(;W[pc];B[qb];W[qc];B[ra]C[RIGHT]))
+(;B[ra];W[rb]))
+(;W[ra];B[pc];W[rb]
+(;B[sc];W[rc];B[se]C[sekiRIGHT])
+(;B[rc]))
+(;W[rb];B[rc]
+(;W[qb];B[pc];W[ra])
+(;W[ra];B[pc];W[qb]
+(;B[qa]C[RIGHT])
+(;B[sc];W[qa])))
+(;W[pc]C[CHOICE]
+(;B[rb];W[qb])
+(;B[qb];W[ra])
+(;B[ra];W[qb])
+(;B[rc];W[ra])
+(;B[sc];W[qc])
+(;B[qc];W[rb]
+(;B[oc];W[nc];B[ra];W[sc];B[qb];W[sa]
+(;B[rc];W[qa];B[se];W[sf];B[ra]C[B ko first; no local threat. Not optimal.])
+(;B[se];W[qa];B[rc];W[sf];B[ra]C[B ko first; no local threat. Not optimal.]))
+(;B[ra];W[sc]
+(;B[oc];W[nc])
+(;B[qb];W[sa]LB[oc:A];B[oc]
+(;W[nc];B[sb]C[B first ko; 1 local threat at ARIGHT]LB[se:A])))))))

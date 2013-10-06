@@ -1,0 +1,60 @@
+(;GE[best move]DI[4k]DP[28]SO[Hans]CO[9]AW[qb]AW[rb]AW[pc]AW[qc]AW[sc]AW[rd]AW[sd]AW[of]AW[pf]AW[qf]AW[rf]AW[ng]AW[nh]AW[rh]AW[pj]AW[qj]AW[nl]AW[pl]AW[ql]AW[mm]AW[lo]AW[no]AW[np]AW[oq]AW[pq]AW[qr]AW[rr]AB[ob]AB[pb]AB[oc]AB[ld]AB[nd]AB[pd]AB[qd]AB[qe]AB[re]AB[se]AB[lf]AB[mg]AB[pg]AB[mh]AB[ph]AB[li]AB[ni]AB[pi]AB[nj]AB[oj]AB[nk]AB[rk]AB[rl]AB[rm]AB[oo]AB[qo]AB[pp]AB[qq]AB[rq]C[Black to play]TR[nh]TR[ng]TR[of]TR[pf]TR[qf]TR[rf]
+(;B[ri];W[rj]
+(;B[rg];W[sg]
+(;B[qh];W[si]C[]
+(;B[sh]C[ Ko is best for bothRIGHT])
+(;B[qg];W[sf];B[sh]C[ Ko is best for both.RIGHT]))
+(;B[qg];W[sf]
+(;B[qi];W[si]C[White is connected.])
+(;B[sj];W[qi];B[si];W[qh]C[White is connected.])
+(;B[si];W[qi]
+(;B[sj];W[qh]C[White is connected.])
+(;B[qh];W[sj]C[Snap back.]))))
+(;B[qh];W[si]
+(;B[qi];W[rg]C[White is connected.])
+(;B[rg];W[sg]))
+(;B[si];W[qi]
+(;B[qh];W[sj]
+(;B[rg];W[sg]C[White is connected.])
+(;B[sh];W[rg]C[White is connected.])
+(;B[sf];W[sg]C[White is connected.])
+(;B[sg];W[sf];B[rg];W[qg]C[White is connected.]))
+(;B[rg];W[sg]
+(;B[sf];W[qg]C[White is connected.])
+(;B[qg];W[sf])))
+(;B[sf];W[rg]
+(;B[sh];W[qi]C[White is connected.])
+(;B[si];W[qi]C[White is connected.])
+(;B[si];W[qi]C[White is connected.]))
+(;B[sh];W[sg]
+(;B[qi];W[si]C[White is connected.])
+(;B[qh];W[si]C[White is connected.]))
+(;B[sj];W[qi]
+(;B[qh];W[si]C[White is connected.])
+(;B[rg];W[qg]
+(;B[qh];W[si]C[White is connected.])
+(;B[sg];W[si]C[White is connected.])
+(;B[si];W[sh]C[White is connected.])))
+(;B[qi]))
+(;B[rg];W[sg]
+(;B[ri];W[rj])
+(;B[qg];W[sf]
+(;B[ri];W[rj])
+(;B[rj];W[qi]C[White is connected.])
+(;B[si];W[ri]C[White is connected.]))
+(;B[rj];W[qi]C[White is connected.])
+(;B[sf];W[qg]C[White is connected.]))
+(;B[qi];W[rj]
+(;B[rg];W[qg]
+(;B[qh];W[ri]C[White is connected.])
+(;B[ri];W[si]C[White is connected.])
+(;B[sg];W[sf]C[White is connected.]))
+(;B[ri];W[si]
+(;B[rg];W[sg]C[White is connected.])
+(;B[qh])
+(;B[sg];W[sf]C[White is connected.])
+(;B[sh];W[sg]C[White is connected.])))
+(;B[qh];W[ri]C[White is connected.])
+(;B[sf];W[qh]C[White is connected])
+(;B[sg];W[ri]C[White is connected.])
+(;B[rj];W[qi]C[White is connected.]))

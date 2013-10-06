@@ -1,0 +1,13 @@
+(;GE[life and death]DI[5d]DP[4]SO[ferdi]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[WeiÃ&#65533;]PB[Schwarz]AW[bn][cn][en][fo][cq][dq][fq][gq][cr][er]AB[ap][cp][dp][ep][bq][eq][br][fr]C[White plays, black lives (!!) So you have to find a white move which allows black to pass and be still alive after that...! (The black pass will be a move at c8)]PL[W]
+;W[as]CR[as]
+;B[cl]CR[cl]C[RIGHT]C[You can play on to see how black lives]
+;W[dr]CR[dr]
+;B[ar]CR[ar]
+;W[bs]CR[bs]
+;B[cs]CR[cs]
+(;W[gr]CR[gr]
+;B[bs]CR[bs])
+(;W[bs]CR[bs]
+;B[es]CR[es]))

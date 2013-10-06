@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1k]DP[20]SO[tails]CO[9]AW[rl]AW[ql]AW[pk]AW[ok]AW[qj]AW[rj]AW[si]AW[rh]AW[sg]AW[rg]AW[rf]AW[re]AB[qd]AB[qe]AB[qf]AB[qg]AB[qh]AB[qi]AB[pj]AB[oj]AB[nj]AB[om]AB[pm]AB[qm]AB[rm]AB[ri]AB[mk]AB[ml]AB[nm]AW[rd]AW[rc]AB[qc]AB[qb]AB[rb]C[Black to kill.]AP[goproblems]
+(;B[pl]
+(;W[sl]C[CHOICE]
+(;B[qk];W[rk];B[sj]C[RIGHT])
+(;B[sj];W[sk];B[qk]C[RIGHT])
+(;B[sc];W[sj]))
+(;W[qk]C[CHOICE]
+(;B[sk];W[sl]
+(;B[sj]C[RIGHT])
+(;B[sc];W[sj]))
+(;B[sl];W[sk])
+(;B[sc];W[sl])))
+(;B[sl];W[sk]
+(;B[pl];W[qk])
+(;B[qk];W[pl])
+(;B[rk];W[qk]))
+(;B[sk];W[sl]
+(;B[qk];W[pl])
+(;B[pl];W[sj])
+(;B[sj];W[rk]
+(;B[sj];W[pl];B[sh]C[You could avoid ko.])
+(;B[pl];W[sj])))
+(;B[rk];W[sk])
+(;B[sc];W[sl])
+(;B[sj];W[sk])
+(;B[qk];W[pl]))

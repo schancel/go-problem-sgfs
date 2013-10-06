@@ -1,0 +1,48 @@
+(;GE[life and death]DI[5d]DP[6]SO[mocramis]CO[0]AB[db]AB[fc]AB[gc]AB[hb]AB[ic]AB[hd]AB[gd]AB[fe]AB[ee]AB[eg]AB[ef]AB[eh]AB[ce]AW[ed]AW[fd]AW[ec]AW[cc]AW[ff]AW[ge]AW[gf]AW[he]AW[gh]C[Black just played the squared stone. White to live with all it stones.]MA[db]TR[cc]TR[ec]TR[ed]TR[fd]AP[goproblems]
+(;W[eb]C[];B[cb]
+(;W[bb];B[bc]
+(;W[bd];B[dc]
+(;W[cd];B[dd]C[you are alive, but you lost a big part of your stones. there is something better.CHOICE]
+(;W[ba];B[ea]C[FORCE];W[be]C[CHOICE])
+(;W[be];B[ba];W[ac];B[cf]C[CHOICE]))
+(;W[dd];B[cd]C[:(CHOICEFORCE])
+(;W[ac];B[cd]C[FORCE];W[dd];B[bc]C[really hard koCHOICE]))
+(;W[cd]
+(;B[bd]C[this is an error node, but some development are used and i don't want to rewrite it.NOTTHIS]
+(;W[ac];B[ba]C[All dead :(CHOICE])
+(;W[be];B[ba]C[All dead :(CHOICE])
+(;W[ca];B[da]C[FORCE];W[ba];B[ab]C[All dead :(CHOICE])
+(;W[ab];B[ba]TR[dc]C[It will not work due to the extra triangle liberty. explore the solution to see why.CHOICE]
+(;W[be];B[bf]C[CHOICE])
+(;W[ca];B[ac]C[CHOICE])
+(;W[ac];B[ad]C[CHOICE])
+(;W[da];B[ac];W[be];B[aa]
+(;W[bb];B[bf]C[CHOICE])
+(;W[cf];B[de];W[bb];B[bf]C[CHOICE]))
+(;W[ad];B[ae]C[CHOICE]))
+(;W[ba];B[ab];W[da];B[ac];W[be];B[bf];W[ea]))
+(;B[ba]
+(;W[ab];B[bd])
+(;W[bd];B[ab]C[black is alive and you could cryCHOICE])
+(;W[da];B[ab]C[Black is alive and you could cry]))))
+(;W[bc];B[bb]
+(;W[dc];B[ea]
+(;W[fa];B[da]
+(;W[fb];B[ab]
+(;W[ba];B[ac]C[CHOICE]
+(;W[be];B[bd];W[cd];B[ad]C[not enough libertiesCHOICE];W[bf];B[ga];W[ae];B[gb])
+(;W[bd]C[Yes ! you capture black !RIGHT]))
+(;W[ac];B[ba]C[CHOICE]))
+(;W[ab];B[fb]C[CHOICE]))
+(;W[da];B[fa]C[CHOICE])
+(;W[ab];B[fa]C[CHOICE]))
+(;W[ab];B[dc];W[dd];B[cd]
+(;W[ba];B[bd]C[CHOICE];W[ac];B[ad])
+(;W[da];B[bd]C[CHOICE])
+(;W[ca];B[bd]C[CHOICE]))
+(;W[da];B[dc];W[dd];B[cd]
+(;W[ab])
+(;W[ba];B[bd]C[CHOICE])
+(;W[ca];B[bd]C[CHOICE])
+(;W[bd];B[be]C[CHOICE]))))
+(;W[cb];B[eb]C[you are deadCHOICE]))

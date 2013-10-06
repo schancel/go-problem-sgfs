@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[40]SO[goeasy]CO[6]SZ[9]AW[db]AW[eb]AW[ec]AW[fc]AW[gd]AW[hd]AW[id]AB[fa]AB[fb]AB[gc]AB[hc]AB[ic]C[White to kill]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Chinese]KM[0.00]TM[]PW[White]PB[Black]PL[W]
+(;W[hb];B[ha]
+(;W[gb];B[ga]
+(;W[ib]C[RIGHT])
+(;W[ea];B[ib]))
+(;W[ib];B[gb])
+(;W[ia];B[ib])
+(;W[ea];B[gb]))
+(;W[ea];B[ha]
+(;W[gb];B[ga];W[hb];B[ib]C[black lives])
+(;W[hb];B[gb];W[ib];B[ia]C[black lives])
+(;W[ga];B[gb]C[black lives])
+(;W[ib];B[hb]C[black lives])
+(;W[ia];B[hb]C[black lives]))
+(;W[ha];B[hb]
+(;W[ga];B[ia];W[ib]C[ko])
+(;W[ea];B[ia];W[ib]C[ko]))
+(;W[ga];B[ha]
+(;W[gb];B[hb]C[black lives])
+(;W[hb];B[gb]C[black lives])
+(;W[ib];B[hb]C[black lives]))
+(;W[gb];B[hb]
+(;W[ha];B[ga])
+(;W[ga];B[ha])
+(;W[ea];B[ga])))

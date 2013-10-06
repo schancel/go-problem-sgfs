@@ -1,0 +1,16 @@
+(;GE[endgame]DI[10k]DP[54]SO[maba]CO[6]AW[ac]AW[bb]AW[ad]AW[bd]AW[cc]AW[dd]AW[de]AB[cd]AB[ce]AB[be]AB[ae]AB[bf]AW[cf]AW[cg]AB[bh]AB[ai]AB[bj]AB[df]AB[dg]AB[dh]AB[cj]AB[di]AW[ef]AW[eg]AW[eh]AW[ei]AW[dc]AW[dj]AW[dk]AW[cl]AW[bl]AW[aj]AW[ak]C[How should black defend?]AP[goproblems]
+(;B[ch]C[RIGHT])
+(;B[ci];W[bg]
+(;B[ag];W[af])
+(;B[ch];W[af]))
+(;B[bi];W[bg]
+(;B[ag];W[af])
+(;B[ch];W[af]))
+(;B[ah];W[bg]
+(;B[ch];W[af])
+(;B[ag];W[af]))
+(;B[af];W[bg]
+(;B[ch];W[ag])
+(;B[ag];W[ah]))
+(;B[bg]TR[bk]TR[ck]C[After the marked liberties are filled black has to defend again to prevent the double atari at C11.])
+(;B[ag]C[After the marked liberties are filled black has to defend again to prevent the double atari at C11.]TR[bk]TR[ck]))

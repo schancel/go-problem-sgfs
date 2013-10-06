@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[4k]DP[30]SO[Gelya]CO[0]SZ[19]AW[bk]AW[ek]AW[cl]AW[gl]AW[hl]AW[jl]AW[bm]AW[im]AW[jm]AW[cn]AW[jn]AW[ln]AW[co]AW[ko]AW[cp]AW[gp]AW[hp]AW[ip]AW[kp]AW[bq]AW[jq]AW[kq]AW[nq]AW[br]AB[cj]AB[dj]AB[ej]AB[fj]AB[hj]AB[ik]AB[dl]AB[il]AB[cm]AB[dm]AB[gm]AB[hm]AB[dn]AB[in]AB[qn]AB[do]AB[go]AB[io]AB[jo]AB[dp]AB[jp]AB[pp]AB[cq]AB[gq]AB[hq]AB[iq]AB[cr]AB[er]C[W to play tesiji combination to break into black territory]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Ð¿Â©Ð‘âˆšâ–“Ð¿Â©Ð‘âˆ™Ñ‘Ð¿Â©Ð‘âˆ™â•˜Ñâ–Ð‘âˆšâ”€Ð¿Â©Ð‘âˆ™Ñ‘]PB[Ð¿Â©Ð‘âˆ™âˆšÐ¿Â©Ð‘âˆ™Ñ‘Ñâ–Ð‘â– â”€Ð¿Â©Ð‘âˆ™â•šÑâ–Ð‘âˆšâ”€Ð¿Â©Ð‘âˆ™Ñ‘]PL[W]
+(;W[hn];B[ho];W[fm];B[gn];W[fp];B[fn];W[en];B[fl];W[em];B[gk];W[fo];B[hk]C[Ouch!!])
+(;W[ho];B[hn]
+(;W[fm];B[fp]C[Ouch!!])
+(;W[fp];B[fm]C[You lost!! =((]))
+(;W[fm]
+(;B[ho]
+(;W[fp];B[fo];W[gn]C[Yes, its rightRIGHT])
+(;W[gn];B[fo];W[hn];B[eo]C[Yes its rightRIGHT]))
+(;B[hn]C[CHOICE]
+(;W[fp];B[fo]
+(;W[ho]C[RIGHT])
+(;W[fn];B[eo])
+(;W[gn];B[fn];W[ho];B[gn])
+(;W[eo];B[ep]
+(;W[fq];B[fr];W[fn];B[eq])
+(;W[ho];B[fq])
+(;W[gn];B[fn])
+(;W[fn];B[fq]))
+(;W[ep];B[eo]))
+(;W[fo];B[fp])
+(;W[fn];B[fp])))
+(;W[fn];B[fm];W[hn];B[ho];W[gn];B[fo])
+(;W[gn];B[fn];W[fm];B[hn];W[fp];B[eo])
+(;W[fo];B[fp]
+(;W[gn];B[ho])
+(;W[ho];B[hn])
+(;W[hn];B[ho]))
+(;W[fp];B[fm]))

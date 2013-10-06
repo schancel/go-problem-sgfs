@@ -1,0 +1,26 @@
+(;GE[endgame]DI[8k]DP[47]SO[Bildstein]CO[6]AB[rq]AB[sq]AW[np]AW[nr]AW[or]AW[pn]AW[qn]AW[rp]AW[sp]AW[ro]AW[rn]AW[sn]AB[qo]AB[qp]AB[qq]AB[qs]AB[qr]AW[ps]AW[pr]AW[ns]AW[nq]AW[po]AW[op]AB[oq]AB[pq]AB[oo]AB[on]AB[no]AB[mo]AB[mp]AB[mq]AB[mr]AB[lr]AB[kr]AB[om]AB[pm]AB[qm]AB[rm]AB[rl]AB[rk]AW[rr]AW[rs]AW[ss]AW[ls]AB[sk]AB[jr]AB[js]TR[ls]C[Can you save the marked stone now, or do you need to protect first?]AP[goproblems]
+(;W[ms]
+(;B[sr]
+(;W[rs]
+(;B[pp]
+(;W[rr];B[sm];W[ss]C[You saved the marked stone and kept Black dead.RIGHT]TR[ls])
+(;W[sm];B[sl]TR[po]TR[pn]TR[qn]TR[rn]TR[ro]TR[rp]TR[sp]TR[sn]TR[sm]C[The marked stones are dead])
+(;W[ss]C[NOTTHIS]))
+(;B[sm]
+(;W[pp]C[RIGHT])
+(;W[rr]C[RIGHT])
+(;W[ss]C[NOTTHIS])))
+(;W[rr]C[NOTTHIS])
+(;W[ss]C[NOTTHIS])
+(;W[pp];B[rs]C[Black lives])
+(;W[sm];B[pp]C[All the white stones die (each white group has 2 liberties; the black group has 3)]))
+(;B[sm];W[pp]C[Black has 1 territory. White has 9 prisoners and 12 territory. Local result is W+20.RIGHT]))
+(;W[pp];B[ms]
+(;W[sm]C[You could have saved the marked stone and got a better result]TR[ls])
+(;W[sr]C[You don't need to capture these stones.]))
+(;W[sm];B[sr]
+(;W[rs];B[pp];W[rr];B[sl]
+(;W[ss];B[ms]C[You could have saved the marked stone and got a better result]TR[ls])
+(;W[ms];B[so]))
+(;W[pp];B[rs]C[Black lives])
+(;W[ms];B[pp]C[All the white stones die (they have 2 liberties each, Black has 3)])))

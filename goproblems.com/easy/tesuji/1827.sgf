@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Era]CO[8]SZ[13]AW[fa]AW[ka]AW[eb]AW[jb]AW[kb]AW[ec]AW[ic]AW[kc]AW[dd]AW[hd]AW[jd]AW[de]AW[ee]AW[fe]AW[ge]AW[ie]AB[da]AB[ea]AB[db]AB[bc]AB[dc]AB[cd]AB[bf]C[Correct way for black to play !]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black];B[fb]
+(;W[ga]
+(;B[fc];W[ed]
+(;B[hb];W[gb];B[gc]C[ White is seriously hurt !RIGHT])
+(;B[gb];W[ha])
+(;B[ha];W[gb]))
+(;B[hb]
+(;W[gb]
+(;B[fc];W[gc];B[ed]C[White manages to limit the damage in sente. H12 becomes a wasted move.]MA[hb])
+(;B[gc];W[fc])))
+(;B[gb];W[ha])
+(;B[ha];W[gb]
+(;B[fc];W[ed])
+(;B[gc];W[fc])
+(;B[hb];W[gc])))
+(;W[fc];B[gb];W[hb]C[A better defense by White. Black does take profit in sente though.RIGHT]))

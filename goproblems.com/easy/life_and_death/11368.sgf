@@ -1,0 +1,42 @@
+(;GE[life and death]DI[5k]DP[32]SO[MeleeNewb]CO[0]AB[sa]AB[ra]AB[qb]AB[qc]AB[rc]AB[qd]AB[re]AB[qf]AB[rf]AB[sf]AW[sg]AW[rg]AW[qg]AW[pg]AW[pe]AW[qe]AW[pf]AW[pd]AW[pb]AW[pa]AW[qa]AW[pc]C[Assume white is fighting a ko slightly smaller than this group. How many threats does white have here?]LB[na:0]LB[nb:1]LB[nc:2]LB[nd:3]LB[ne:4]LB[nf:5]LB[ng:6]AP[goproblems]
+(;W[ne];B[nd]C[Play them.]
+(;W[sd];B[sc]
+(;W[rd];B[se]
+(;W[rd];B[sd]
+(;W[rb];B[sb]C[Good job.RIGHT])
+(;W[sb];B[rb]C[Good job.RIGHT]))
+(;W[sd];B[rd]
+(;W[rb];B[sb]C[Good job.RIGHT])
+(;W[sb];B[rb]C[Good job.RIGHT]))
+(;W[rb];B[sb])
+(;W[sb];B[rb]))
+(;W[rb];B[sb]
+(;W[rd];B[se]
+(;W[rd];B[sd]C[Good job.RIGHT])
+(;W[sd];B[rd]C[Good job.RIGHT]))
+(;W[se];B[rd]))
+(;W[sb];B[rb]
+(;W[rd];B[se]
+(;W[rd];B[sd]C[Good job.RIGHT])
+(;W[sd];B[rd]C[Good job.RIGHT]))
+(;W[se];B[rd]))
+(;W[se];B[rd]
+(;W[rb];B[sb]C[3])
+(;W[sb];B[rb]C[3])))
+(;W[sc];B[sd]
+(;W[rb];B[sb]C[2])
+(;W[sb];B[rb]C[2]))
+(;W[sb];B[sd];W[rb];B[sc]C[2])
+(;W[rb];B[sd]
+(;W[sb])
+(;W[sc]))
+(;W[rd];B[sd]
+(;W[rb];B[sb])
+(;W[sb];B[rb]C[2]))
+(;W[se];B[sd]))
+(;W[na]C[Did you even look?])
+(;W[nb]C[No.])
+(;W[nc]C[Look a little closer])
+(;W[nd]C[Not quite.])
+(;W[nf]C[A bit off.])
+(;W[ng]C[In japanese rules the 'move stones around' tesuji is forbidden, reducing the number of ko threats here.]))

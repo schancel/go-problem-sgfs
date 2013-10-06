@@ -1,0 +1,45 @@
+(;GE[tesuji]DI[1k]DP[19]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[bd][be][bf][bh][cb][ce][cg][cl][cm][cq][dg][dh][dp][eh][ep][fd][fe][gb][gc][ge][gf][gg][jb][kc][kd][oc][od][pd][pi][qc][qd][qj][rb][rc]
+AW[bb][bc][bi][cd][cf][ch][ci][ck][cp][dc][de][df][di][dl][ed][ef][fb][fc][ff][jq][ka][kb][lc][mc][ob][og][pb][pc][pq][qb][qh][qo][ra]
+LB[yy:1][og:A]PL[B]
+C[White just played A, how to answer?]
+(;B[oh]
+C[RIGHT
+Please see next problem for how to 
+answer.]
+MN[1]
+)(;B[pg]
+;W[ph]
+;B[oh]
+;W[pf]
+;B[ng]
+;W[of]
+(;B[nf]
+;W[re]
+C[Black needs 2 moves on the outside 
+so he's in trouble.]
+)(;B[nh]
+;W[nf]
+C[This fight will be too much for black.]
+))(;B[ph]
+;W[pg]
+C[Black just helps white strenghten 
+himself.]
+)(;B[qf]
+;W[qg]
+;B[pf]
+;W[oh]
+;B[nj]
+;W[mh]
+C[White moves out at a leisure pace and 
+black isn't even 100% alive in the 
+upper right.]
+)(;B[ne]
+;W[nh]
+LB[nh:2][me:A]C[White  moves out easily  and black 
+still has to worry about the cut at A.]
+))

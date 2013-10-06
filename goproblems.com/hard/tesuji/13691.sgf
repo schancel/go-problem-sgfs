@@ -1,0 +1,59 @@
+(;GE[tesuji]DI[5d]DP[5]SO[MoreKnock]CO[0]AW[bq]AW[bp]AW[cp]AW[bo]AW[bn]AW[cn]AB[co]AB[dn]AB[eo]AB[dp]AB[ep]AB[eq]AB[er]AB[cq]AB[cr]AW[dq]AW[fq]AW[gq]AB[gp]AB[hp]AB[ip]AB[hq]AW[iq]AW[ir]AW[hr]AB[jq]AB[jr]AB[kr]AB[lr]AB[kp]AW[jp]AW[jo]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AB[pp]AB[pr]AB[mr]AB[nr]AW[dm]AW[em]AB[qm]C[White to get something. Ko is not as good as unconditional.If you have better ideas of what black should do, feel free to comment.]AP[goproblems]
+(;W[pq];B[qq]
+(;W[or];B[os]
+(;W[qr];B[ps]C[Black could have gotten a ko playing at R1, but he is stuborn!]
+(;W[ns];B[ms]
+(;W[rq];B[qp]
+(;W[qs];B[ns]
+(;W[rr]
+(;B[rp]
+(;W[js]C[RIGHT])
+(;W[ks]C[RIGHT])
+(;W[ls];B[ks];W[js];B[is];W[hs];B[gr]C[White gets a ko, but could have killed unconditionally if black played this way.])))
+(;W[sr];B[rs];W[rr]
+(;B[rp];W[js]C[RIGHT])))
+(;W[rr];B[rp];W[qs]
+(;B[ns]
+(;W[js]C[RIGHT])
+(;W[ss];B[sq];W[js]C[White kills blacks group.RIGHT])
+(;W[sq];B[ss];W[js]C[White kills blacks lower group.RIGHT]))))
+(;W[qs];B[ns];W[rq];B[qp])
+(;W[qp];B[rq];W[rp];B[rr];W[po];B[op];W[no]C[RIGHT]))
+(;W[rq];B[qp];W[ns];B[ms])
+(;W[qp];B[rq]
+(;W[rr];B[rp];W[qo];B[ro];W[ns];B[ms])
+(;W[ns];B[ms];W[qs];B[ns];W[js];B[rr])))
+(;W[ns];B[ps];W[qr];B[ms])
+(;W[qp];B[qr];W[po];B[op];W[oo];B[np];W[mp];B[no]
+(;W[nn];B[mo])
+(;W[mo];B[nn]))
+(;W[ps];B[qs];W[ns];B[ms]))
+(;W[qp];B[qr]C[White has missed great chance. This leads to a hard fight.]))
+(;W[or]
+(;B[os];W[pq];B[qq]))
+(;W[do];B[pq]C[The ko isn't very big...])
+(;W[fr];B[pq];W[gs];B[is];W[fp];B[fo]C[White can't make life like that.])
+(;W[js];B[pq]C[White missed her chance. There isn't enough eyespace for that group to life like that.])
+(;W[io]
+(;B[fp]C[White can certainly still get something here, but pushing at J5 probably made things more difficult than it needed to be.]
+(;W[pq];B[qq];W[or];B[os];W[qr];B[ps];W[ns];B[ms];W[qs];B[ns];W[rq];B[qp]
+(;W[rr];B[rp]
+(;W[js]C[RIGHT])
+(;W[ks]C[RIGHT]))
+(;W[sr];B[rs];W[rr];B[gr];W[rp];B[ro]
+(;W[sp]C[Life in the corner is something!RIGHT])
+(;W[js];B[hs];W[sp]C[K1 was a ko threat, but okay.RIGHT])
+(;W[ks];B[hs]
+(;W[sp]C[L1 was a ko threat.RIGHT])
+(;W[js];B[is];W[sp]C[RIGHT])
+(;W[is];B[js];W[sp]C[RIGHT])
+(;W[fr];B[is];W[sp]C[RIGHT])
+(;W[gs];B[is];W[sp]C[RIGHT])
+(;W[ls];B[is];W[sp]C[RIGHT]))
+(;W[gs]
+(;B[sp];W[fr];B[is];W[js]
+(;B[ks];W[hs])
+(;B[so];W[ks]))
+(;B[fs];W[sp]C[RIGHT])))
+(;W[rs];B[sr];W[rr];B[rp]))
+(;W[or];B[pq];W[ns];B[gr]C[Uh oh! Playing J5 lost you an important liberty!]))))

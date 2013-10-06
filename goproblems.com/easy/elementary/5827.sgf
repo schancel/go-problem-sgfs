@@ -1,0 +1,21 @@
+(;GE[elementary]DI[12k]DP[58]SO[maba]CO[7]AB[gr]AB[hr]AB[ir]AB[js]AB[kr]AB[lr]AW[fr]AW[gq]AW[hq]AW[iq]AW[jq]AW[jr]AW[es]C[White to try to capture three black stones.]AP[goproblems]
+(;W[is]
+(;B[hs]
+(;W[gs]C[koRIGHT])
+(;W[fs];B[ks];W[gs];B[is])
+(;W[ks];B[ls];W[gs]C[ko. The move at L1 wasn't necessary.RIGHT]))
+(;B[ks]
+(;W[gs];B[hs];W[is]C[RIGHT])
+(;W[hs];B[gs]
+(;W[fs];B[is])
+(;W[is];B[hs];W[fs];B[is]))))
+(;W[gs];B[is]
+(;W[hs];B[fs])
+(;W[ks];B[ls];W[hs];B[fs]))
+(;W[hs];B[is]
+(;W[ks];B[gs])
+(;W[gs];B[fs]))
+(;W[fs];B[is])
+(;W[ks];B[is]
+(;W[gs];B[ls])
+(;W[hs];B[gs])))

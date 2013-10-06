@@ -1,0 +1,9 @@
+(;GE[endgame]DI[1k]DP[19]SO[santa c]CO[0]AW[bc]AW[cc]AW[dc]AW[dd]AB[cd]AB[bd]AB[ce]AB[df]AB[dg]AB[bh]AB[ah]AB[bi]AW[ai]AW[aj]AW[bj]AW[ck]AW[dk]AW[el]AW[dl]AB[cj]AB[di]AB[ek]AB[ej]AB[fl]AB[fm]AB[em]AB[dm]AW[cm]AW[bm]AW[bl]AW[fk]AW[eg]AW[fg]AW[gf]AW[ge]AW[gd]AB[hd]AB[he]AB[if]AB[jf]AB[hg]AB[gg]AW[gh]AW[hh]AB[fh]AW[je]AW[ke]AW[kf]AW[lf]AW[kc]AW[jc]AW[ic]AW[hc]AB[kg]AB[lg]AB[ki]AB[jk]AB[im]MA[gh]MA[hh]C[How should B handle these stones?]AP[goproblems]
+(;B[eh]
+(;W[hf];B[ig]C[Nice and simple :)RIGHT])
+(;W[ig];B[hf];W[jg];B[ff]C[RIGHT]))
+(;B[hf];W[fi];B[eh];W[ei];B[dh];W[dj]C[oops!])
+(;B[gi];W[eh]C[no need to allow this!])
+(;B[fi];W[ig]MA[hf]MA[jg]C[oops!])
+(;B[ih];W[hf];B[ig];W[fi];B[eh];W[ei];B[dh];W[dj]C[oops!])
+(;B[ig];W[fi];B[eh];W[ei];B[dh];W[dj]C[oops!]))

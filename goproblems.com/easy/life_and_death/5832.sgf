@@ -1,0 +1,12 @@
+(;GE[life and death]DI[18k]DP[67]SO[wtd]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[jm][km][hn][in][ln][ho][jo][ip][jp]AB[hk][mk][gl][jl][kl][ll][hm][im][mm][gn][jn][mn][go][mo][gp][kp][lp][hq][iq][jq][mq]C[White to live. FORCE]PL[W]
+(;W[ko]CR[ko]LB[lm:K][hp:K]C[RIGHT Well done! Your group is now alive; Black is left with 1 large ko threat from the position (either point marked 'K').])
+(;W[kn]CR[kn]
+;B[ko]CR[ko]TR[im]C[You let your group be killed.])
+(;W[hp]CR[hp]
+;B[ko]CR[ko]TR[im]C[You let your group be killed.])
+(;W[lm]CR[lm]
+;B[ko]CR[ko]TR[im]C[You let your group be killed.])
+(;W[lo]CR[lo]
+;B[ko]CR[ko]TR[im]C[You let your group be killed.]))

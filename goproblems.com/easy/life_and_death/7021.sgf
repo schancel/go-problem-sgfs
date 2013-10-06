@@ -1,0 +1,80 @@
+(;GE[life and death]DI[18k]DP[67]SO[LCZLAPINSKI]CO[6]AW[bq]AW[cp]AW[dp]AW[eq]AW[eo]AW[fo]AW[go]AW[ho]AW[io]AB[ep]AB[fp]AB[gp]AB[hp]AB[ip]AB[jo]AB[kp]AB[jn]AB[jm]AB[jl]AB[do]AB[co]AB[cn]AB[bm]AW[cm]AB[dm]AB[dl]AB[ck]AB[ek]AB[ej]AB[ei]AB[fi]AB[gi]AB[gj]AB[hj]AB[ij]AW[ik]AW[hk]AW[fk]AW[gk]AW[il]AW[im]AB[jk]AB[kj]AW[dn]AW[en]AW[em]AW[el]AB[fm]AB[fn]AB[gn]AB[gm]AB[gl]LB[ai:T]AP[goproblems]
+(;B[hm]C[This is a rabbity six. This is a killable inside shape unless the surrounding stones can escape.];W[in]C[Seki])
+(;B[in];W[hn]
+(;B[fl];W[hm]C[White is alive.];B[fj];W[hl])
+(;B[fj];W[hm]C[Seki])
+(;B[hl]
+(;W[fl]C[The correct move was to create a rabbity six with bH7.CHOICE];B[fj];W[hm]
+(;B[fn];W[gl])
+(;B[fm];W[gl])
+(;B[gn];W[gl])
+(;B[gm];W[gl])
+(;B[gl];W[gm])
+(;B[hl];W[gl]))
+(;W[hm]C[The correct move was to create a rabbity six with bH7.CHOICE];B[fj];W[fl]
+(;B[fn];W[gl])
+(;B[fm];W[gl])
+(;B[gn];W[gl])
+(;B[gm];W[gl])
+(;B[gl];W[gm])
+(;B[hl];W[gl])))
+(;B[hm]C[Yes, creating the rabbitty six makes the D6 and F9 groups killable. RIGHT];W[fl]LB[ai:T]C[Black can tenuki.RIGHT];B[ai]C[RIGHT];W[hl]C[RIGHT];B[gm]C[RIGHT];W[fm]C[RIGHT];B[gn]C[White is left with a dead shape inside. Black could almost fill with a pyramid four to capture so white is dead.RIGHT]TR[gn]TR[gm]TR[gl]TR[hm]))
+(;B[cl];W[hm]
+(;B[in];W[hn]LB[ai:T]C[Play T for tenuki.]
+(;B[ai]C[Seki])
+(;B[fl];W[hl])
+(;B[hl];W[fl]))
+(;B[hl];W[hn];B[fj];W[fl])
+(;B[fl];W[hn];B[fj];W[hl]))
+(;B[fl];W[hn]
+(;B[in];W[hm];B[fj];W[hl])
+(;B[hm];W[in]C[White is alive.];B[fj];W[hl])
+(;B[cl]LB[ai:T];W[ai]C[White wins the capturing race and can even tenuki here. White can make two eyes with 2X3 shape inside. White has to make sure he has two liberties. Before starting any kos white needs to check for ko threats such as bF10-bJ6 which would create a seki.])
+(;B[fj]
+(;W[hm]C[CHOICE];B[in];W[hl]
+(;B[fn];W[fm])
+(;B[fm];W[gm])
+(;B[fl];W[fm])
+(;B[gn];W[gm])
+(;B[gm];W[fm])
+(;B[gl];W[gm]))
+(;W[hl]C[CHOICE]))
+(;B[hl]
+(;W[in]C[CHOICE];B[fj];W[hm]
+(;B[fn];W[gl])
+(;B[fm];W[gl])
+(;B[fl];W[gl])
+(;B[gn];W[gl])
+(;B[gm];W[gl])
+(;B[gl];W[gm])
+(;B[hl];W[gl]))
+(;W[hm]C[WJ6 is one point better than wH7 in the preceding position.]
+(;B[fn];W[gl])
+(;B[fm];W[gl])
+(;B[fl];W[gl])
+(;B[gn];W[gl])
+(;B[gm];W[gl])
+(;B[gl];W[gm])
+(;B[hl];W[gl]))))
+(;B[fj];W[in]C[Seki])
+(;B[hl];W[hn];B[in];W[hm];B[fj];W[fl])
+(;B[hn];W[in]C[Seki])
+(;B[ai];W[hm]LB[bi:T]C[Play T for tenuki.]
+(;B[in]C[];W[hn]C[Seki])
+(;B[fl];W[hn];B[fj];W[hl])
+(;B[hn];W[in]C[]
+(;B[fj]C[Seki. There are variations where black can kill white's E5 group.])
+(;B[fl];W[hl]
+(;B[fn];W[gn])
+(;B[fm];W[gn])
+(;B[fl];W[gn])
+(;B[gn];W[gm])
+(;B[gm];W[gn])
+(;B[gl];W[gn])
+(;B[hn];W[gn])))
+(;B[hl]
+(;W[hn]C[CHOICE];B[fj];W[fl])
+(;W[fl]C[CHOICE]
+(;B[hn];W[in])
+(;B[in];W[hn])))
+(;B[bi]C[Seki];W[in]C[Seki])))

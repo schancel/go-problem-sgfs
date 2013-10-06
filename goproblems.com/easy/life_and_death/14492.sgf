@@ -1,0 +1,37 @@
+(;GE[life and death]DI[4k]DP[30]SO[whendrik]CO[0]AW[ra]AW[rb]AW[rc]AW[sc]AW[pb]AB[pc]AB[oc]AB[nc]AB[sd]AB[rd]AB[qd]AP[goproblems]
+(;B[pa];W[ob]
+(;B[nb]
+(;W[qa]C[CHOICE]
+(;B[qc];W[qb];B[oa];W[na];B[oa]LB[ma:A]C[Well done! White is dead (If white plays A, black could play B).RIGHT]LB[lb:B])
+(;B[oa];W[na];B[qc];W[mb]C[From here on it is getting complex...]))
+(;W[oa];B[qb]C[RIGHT]))
+(;B[qc];W[qb])
+(;B[oa];W[nb])
+(;B[qb];W[qc]
+(;B[nb];W[qa])
+(;B[qa];W[oa])
+(;B[oa];W[qa])
+(;B[na];W[qa]))
+(;B[qa];W[qb])
+(;B[na];W[nb]
+(;B[qa];W[qb])
+(;B[qb];W[qc]
+(;B[mb];W[qa])
+(;B[oa];W[qa])
+(;B[ma];W[mb])
+(;B[qa];W[oa]))
+(;B[qc];W[qb])
+(;B[oa];W[mb])
+(;B[ma];W[mb]C[White escaped...])))
+(;B[oa];W[pa])
+(;B[ob];W[pa])
+(;B[na];W[pa])
+(;B[nb];W[pa])
+(;B[qb];W[qc]
+(;B[pa];W[qa])
+(;B[qa];W[pa])
+(;B[oa];W[pa])
+(;B[ob];W[pa]))
+(;B[qa];W[qb])
+(;B[qc];W[qb])
+(;B[kg]))

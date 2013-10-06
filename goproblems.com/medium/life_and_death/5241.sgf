@@ -1,0 +1,25 @@
+(;GE[life and death]DI[2k]DP[21]SO[unkx80]CO[8]AB[cr]AB[dr]AW[ds]AB[es]AB[fr]AB[fq]AB[eq]AB[fp]AW[gr]AW[gq]AW[hq]AW[gp]AW[dq]AW[cq]AW[dp]AW[ep]AW[eo]AW[fo]AW[go]AB[bq]AB[bp]AB[cp]AB[hn]AB[hp]AB[gm]C[White to play.]AB[dn]AB[em]AW[co]AB[bo]AB[bn]AB[ir]AB[iq]AB[ip]AW[ks]AW[kr]AW[kq]AW[kp]AW[kn]AB[bs]AW[br]AW[ar]AB[aq]AB[in]AP[goproblems]
+(;W[hs];B[is]
+(;W[fs];B[gs]C[Black takes the ko first.])
+(;W[gs];B[as]))
+(;W[gs];B[is];W[fs];B[as];W[er];B[fq])
+(;W[is];B[hs]
+(;W[gs];B[js];W[fs];B[as];W[er];B[fq])
+(;W[hr];B[js];W[gs];B[is];W[fs];B[as];W[er];B[fq])
+(;W[js];B[hr]))
+(;W[fs];B[gs];W[hs]
+(;B[is];W[fs]
+(;B[as]C[CHOICE];W[er]
+(;B[fq]C[CHOICE];W[hr]C[RIGHT])
+(;B[hr]C[CHOICE];W[fq]C[RIGHT]))
+(;B[hr]C[CHOICE];W[er];B[as];W[fq]C[RIGHT]))
+(;B[hr];W[fs]C[RIGHT])
+(;B[as];W[fs]
+(;B[er];W[is]C[RIGHT])
+(;B[is];W[er]
+(;B[fq];W[hr]C[RIGHT])
+(;B[hr];W[fq]C[RIGHT]))))
+(;W[hr];B[is]
+(;W[gs];B[as])
+(;W[fs];B[gs];W[hs];B[as];W[fs];B[er]))
+(;W[js];B[is];W[hs];B[fs]))

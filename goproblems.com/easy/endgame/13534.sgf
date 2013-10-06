@@ -1,0 +1,52 @@
+(;GE[endgame]DI[10k]DP[50]SO[remembered]CO[0]AB[an]AB[bn]AB[bm]AB[al]AB[bl]AB[cl]AB[ck]AB[dk]AB[ek]AB[dm]AB[cn]AB[em]AB[fm]AB[fl]AB[gl]AB[ca]AB[da]AB[db]AB[dc]AB[cc]AB[dd]AB[ed]AB[ec]AB[ee]AB[fd]AB[gd]AB[hd]AB[he]AB[id]AB[jd]AB[je]AB[qc]AB[qd]AB[pd]AB[pe]AB[oe]AB[nd]AB[nc]AB[mc]AB[ld]AB[kd]AB[le]AW[cb]AW[ba]AW[bb]AW[bc]AW[cd]AW[ce]AW[de]AW[ef]AW[fe]AW[ff]AW[ge]AW[hf]AW[if]AW[ie]AW[jf]AW[kf]AW[ke]AW[lf]AW[me]AW[md]AW[ne]AW[of]AW[pf]AW[od]AW[qe]AW[bk]AW[bj]AW[cj]AW[dj]AW[ej]AW[ei]AW[ao]AW[bo]AW[co]AW[do]AW[dn]AW[en]AW[cp]AW[dr]AW[fo]AW[gn]AW[ho]AW[hq]AW[hr]AW[hs]AW[ir]AW[io]AW[in]AW[ip]AW[jo]AW[ko]AW[kn]AW[km]AW[lm]AW[ln]AB[hl]AB[hk]AB[hm]AB[im]AB[jm]AB[jn]AB[jl]AB[jk]AB[kl]AB[ll]AB[mk]AB[nl]AB[mm]AB[mn]AB[mo]AB[lo]AB[lp]AB[kp]AB[jp]AB[jr]AB[jq]AB[iq]AB[is]AB[js]AB[ls]AB[lr]AB[mr]AB[mq]AB[nq]AW[ms]AW[ns]AW[nr]AW[or]AW[pr]AW[qs]AW[oq]AW[op]AW[np]AW[mp]AW[oo]AW[on]AW[om]AW[nm]AW[pm]AW[pl]AB[nn]AB[no]AB[pn]AB[qn]AB[qo]AB[qm]AB[ql]AB[qf]AB[qg]AB[ph]AB[pi]AB[oj]AB[pk]AB[qj]AB[mj]AB[nj]AB[ol]AW[fk]AW[gk]AW[gj]AW[hj]AW[ij]AW[ik]AW[il]AW[jj]AW[kk]AW[lk]AW[li]AW[mi]AW[ng]AW[oh]AW[pg]AW[qh]AW[pp]AW[po]AW[qp]AW[rp]AW[sp]AW[ro]AB[pq]AB[qq]AB[qr]AB[rn]AB[sn]AB[so]AB[hn]AB[eq]AB[fj]AB[fi]AB[gp]C[W to play endgame move for winning. B triangle was just played and after you done with the bottom left just play around m11,o11,a9 few moves to win the game.FORCE]TR[gp]AP[goproblems]
+(;W[gq];B[fp];W[fq];B[go]
+(;W[hp];B[ep];W[er];B[fr];W[fs];B[fn];W[eo];B[gm];W[dp];B[dq];W[cq];B[gn]C[FORCE]
+(;W[lj];B[ni];W[nh];B[ak];W[aj]C[W+4.5RIGHT])
+(;W[ni];B[lj];W[kj];B[ak];W[aj]C[W+4.5RIGHT])
+(;W[ak];B[lj];W[kj];B[ni];W[nh]C[RIGHT]))
+(;W[ep];B[hp]))
+(;W[hp];B[go]
+(;W[gq];B[fp]
+(;W[fq];B[ep]
+(;W[fr];B[fn]
+(;W[er];B[dq];W[cq];B[eo]C[FORCE]
+(;W[ni];B[lj];W[kj];B[ak];W[aj];B[fo]C[RIGHT])
+(;W[lj];B[ni];W[nh];B[ak];W[aj];B[fo]C[this is not B's point so you're correct.RIGHT])
+(;W[dp];B[fo]
+(;W[lj];B[ni];W[nh];B[ak];W[aj]C[RIGHT])
+(;W[ni];B[lj];W[kj];B[ak];W[aj]C[W+0.5RIGHT])))
+(;W[eo];B[er]
+(;W[fs];B[es];W[dq];B[gs];W[gr];B[gs]C[B win])
+(;W[es];B[dq]
+(;W[cr])
+(;W[cq]
+(;B[cr]
+(;W[ds])
+(;W[dp]C[RIGHT]))
+(;B[gm];W[dp];B[gn];W[cr];B[lj];W[kj];B[ni];W[nh];B[ak]C[RIGHT];W[aj]C[W+0.5RIGHT])))))
+(;W[fn];B[fr]
+(;W[gr]C[B win])
+(;W[fs];B[gr]C[B win])))
+(;W[ep];B[fq];W[fr];B[gs];W[gr];B[er];W[fs];B[es]C[B Win]))
+(;W[fn];B[gq];W[gr];B[fr]C[B win])
+(;W[fq]C[RIGHT];B[fn];W[fp];B[gm];W[gq];B[gn]C[FORCE]
+(;W[lj];B[ni];W[nh];B[ak];W[aj]C[RIGHT])
+(;W[ni];B[lj];W[kj];B[ak];W[aj]C[RIGHT])
+(;W[ak];B[lj];W[kj];B[ni];W[nh]C[RIGHT])))
+(;W[ni])
+(;W[lj])
+(;W[ak])
+(;W[aj])
+(;W[go];B[hp]
+(;W[gq];B[fp]
+(;W[fq];B[ep];W[er];B[fr];W[fs]C[RIGHT];B[fn];W[eo];B[lj]C[FORCE];W[kj];B[ni]C[FORCE];W[nh]C[FORCE];B[ak];W[aj]C[W winRIGHT])
+(;W[ep];B[fq];W[fr];B[gs];W[gr];B[er];W[fs];B[es]))
+(;W[fq]C[RIGHT]))
+(;W[fp];B[hp];W[go];B[gq];W[gr];B[fq];W[fr];B[er]
+(;W[es];B[fs];W[gs];B[fs]C[B win])
+(;W[fs];B[es]C[B win]))
+(;W[rq]C[B can't kill you now])
+(;W[rr]C[B can't kill you now])
+(;W[fq];B[hp]
+(;W[go];B[gq];W[gr];B[fr];W[fp]C[you are correct. thanks comments.RIGHT])
+(;W[gq];B[go])))

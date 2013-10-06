@@ -1,0 +1,46 @@
+(;GE[best move]DI[4k]DP[31]SO[smartaleck]CO[0]SZ[7]AB[dd]AW[ed]C[]AP[goproblems]
+(;B[ec];W[de]
+(;B[ee];W[cd]C[black cannot win more than 7points. see clydevil's 'Go board solution. 7X7'])
+(;B[cd]
+(;W[ee]
+(;B[fd];W[fc];B[fb];W[ce];B[bd];W[be]C[this is not the best result for black. see clydevil's 'Go board problem. 7X7'])
+(;B[ce];W[fc];B[eb];W[fb]
+(;B[df];W[ef];B[cf];W[ea]
+(;B[cb];W[ca];B[ba];W[da];B[fa];W[ga];B[db];W[fa];B[eg];W[fg];B[dg];W[ff];B[bb])
+(;B[db];W[da];B[ca];W[fa];B[cb];W[dg];B[cg];W[eg]))
+(;B[cf];W[ea]
+(;B[db];W[da];B[ca];W[fa];B[cb];W[df])
+(;B[cb];W[df];B[da];W[fa]))
+(;B[fa];W[dc];B[db];W[cc];B[bc];W[cf];B[bf];W[be];B[bd];W[bg];B[af];W[ef]))
+(;B[fc];W[ce]
+(;B[bd];W[be]
+(;B[ae];W[af];B[ad];W[dc];B[db];W[cc];B[bc];W[cb];B[bb];W[fd];B[bf];W[cf];B[ag];W[gc];B[gb];W[gd];B[fb];W[cg]C[black wins 7 points.]))
+(;B[be];W[bf];B[bd];W[dc]C[]
+(;B[db];W[cc]C[black wins 7 points. see '7x7 go board problem #3'.])
+(;B[af];W[db]C[black wins only 7 points. see '7x7 go board problem #2'.])
+(;B[fd]C[black wins 8 points. see 7x7 go board problem #1'.RIGHT])))))
+(;B[ce];W[ee]LB[cd:A];B[cd]))
+(;B[dc]
+(;W[ee]C[CHOICE]
+(;B[ec];W[de]LB[ce:A];B[ce];W[cf];B[be];W[bf]
+(;B[fd];W[fe];B[fc];W[ae]
+(;B[bd];W[ad];B[ac];W[af];B[bc];W[gd];B[gc];W[ge])
+(;B[bc];W[ac];B[ab];W[ad]LB[af:A];B[af];W[ag];B[bd];W[af];B[ge];W[gf];B[gd];W[ff];B[bb]))
+(;B[af];W[cd];B[bd];W[cc];B[cb];W[fc];B[fb];W[eb];B[db];W[gb];B[fa];W[fe])
+(;B[fc];W[ae];B[bc];W[fd];B[ad];W[af]))
+(;B[de];W[ec]LB[eb:A]C[FORCE];B[eb];W[fb]C[FORCE];B[db];W[ef]
+(;B[df];W[dg];B[cg];W[eg]
+(;B[cf];W[fa];B[ea]C[black wins 8 points.RIGHT])
+(;B[bf]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[bg]C[NOTTHIS]))
+(;B[dg];W[df];B[cf];W[eg];B[cg];W[fa];B[ea]C[black wins 8 points.RIGHT])))
+(;W[de];B[ee]C[]
+(;W[ef];B[fe];W[ce];B[bd]C[black wins 9 points. see clydevil's 'go board solutiion. 7x7'.])
+(;W[ce];B[ef];W[fe]
+(;B[ec];W[fd];B[ff];W[fc];B[fb];W[gb]
+(;B[be]C[white can't lose fewer than 9 points. see '7x7 go board problem #5'.])
+(;B[cd]C[white can't lose fewer than 9 points. see '7x7 go board problem #5'.]))
+(;B[fd]C[black wins 8 points. see '7x7 go board problem #4'.]))))
+(;B[de]C[NOTTHIS])
+(;B[ee]C[NOTTHIS]))

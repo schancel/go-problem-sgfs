@@ -1,0 +1,32 @@
+(;GE[best move]DI[3d]DP[10]SO[randomly_anonymous]CO[0]AW[eb]AW[fb]AW[dc]AW[dd]AW[de]AW[df]AW[dg]AW[cj]AW[dk]AW[ch]AW[cg]AW[eh]AW[fg]AW[gg]AW[he]AW[jd]AW[jc]AW[jb]AB[lb]AB[kc]AB[mc]AB[md]AB[nd]AB[oe]AB[pe]AB[pd]AB[qc]AB[rc]AB[rd]AB[sb]AW[qd]AW[qb]AW[rb]AW[pa]AW[pc]AW[oc]AW[od]AW[nc]AW[nb]AW[mb]AB[qf]AW[rg]AW[qi]AB[oh]AW[ql]AW[pl]AW[pm]AW[rm]AW[qn]AW[qo]AW[po]AW[oo]AB[on]AW[nn]AW[nm]AW[mm]AW[lm]AW[km]AB[ln]AB[mn]AB[no]AB[np]AB[pq]AB[qp]AB[ro]AB[rn]AB[jn]AB[jm]AB[jl]AB[hm]AB[hn]AW[hl]AB[gl]AW[gm]AW[gn]AB[fn]AW[dn]AW[eo]AW[dp]AW[fo]AW[go]AW[ho]AB[io]AB[ip]AB[hp]AB[gp]AB[ep]AB[fq]AB[fr]AB[er]AW[eq]AW[dq]AW[dr]AB[dh]AB[di]AB[fh]AB[fi]AB[fj]AB[fk]AB[el]AB[if]AB[hh]AB[ij]AB[ea]AB[db]AB[cb]AB[cc]AB[cd]AB[cf]AB[bf]C[Black has a obvious lead in this game.White to win this game.CAUTION: this problem is VERY HARD... if you would like a hint, the first move is the third letter and the second number in the following listsRSQHL728164FORCE]AB[pi]AW[qj]AB[ah]AP[goproblems];W[pr]
+(;B[qr]C[FORCE];W[rq]
+(;B[rp]C[FORCE];W[oq]
+(;B[op];W[kn];B[ko];W[qq]
+(;B[pp];W[rr]C[SWEET SWEET LIFE!CHOICERIGHT])
+(;B[rr];W[pp]C[The black corner is dead and white can still make reductions on the bottom side. =)CHOICERIGHT])
+(;B[or];W[pp]C[Black corner is dead.CHOICERIGHT]))
+(;B[or];W[kn];B[ko];W[nq];B[op];W[pp];B[qq];W[mp]C[Black takes a huge reduction on the bottom side =)CHOICERIGHT]))
+(;B[qq]C[FORCE];W[rp];B[rr];W[so]C[This probably presents the minimal loss of points for black; however, he has lost his leadCHOICERIGHT]))
+(;B[oq]C[FORCE];W[rq];B[rp]C[FORCE]
+(;W[qq]
+(;B[pp];W[rr]C[White alive!CHOICERIGHT])
+(;B[rr];W[qr];B[sq];W[sr];B[ss];W[sp];B[so];W[rs];B[qs]C[Brillant tesuji!];W[ps]
+(;B[or];W[rs]C[Note that the ko is in favour of white, since she has many threats across the board.CHOICERIGHT])
+(;B[pp];W[rs]C[Note that the ko is in favour of white, as she has many threats across the board.CHOICERIGHT])))
+(;W[rr];B[qq];W[qr];B[or]C[Do you plan on living? -_-]))
+(;B[qq]C[FORCE]
+(;W[kn];B[ko]C[FORCE];W[qr]
+(;B[rr];W[rs];B[rq];W[oq];B[op];W[nq];B[mr];W[mq];B[lr];W[pp]
+(;B[mo];W[sp]C[Black is in BIG troubleCHOICERIGHT])
+(;B[sp]
+(;W[mo]C[Immense reduction to the bottom sideCHOICERIGHT])
+(;W[lo];B[lp];W[mp]C[CHOICERIGHT])
+(;W[mp]C[CHOICERIGHT])))
+(;B[or];W[rq];B[rp];W[sq]
+(;B[ps];W[rs];B[sr];W[oq]
+(;B[op];W[nq];B[nr];W[mq];B[mr];W[pp];B[mo]
+(;W[lq]C[White will win the capturing race to the side, or capture the black stones on the inside.CHOICERIGHT]TR[mr]TR[nr]TR[or]TR[ps]MA[rn]MA[ro]MA[rp]MA[qp]MA[qq]MA[pq])
+(;W[sn]C[White connects.RIGHT])
+(;W[sp]C[White connects =)RIGHT]))
+(;B[nq];W[op]MA[nr]TR[so]TR[sn]TR[sp]C[Miai at square or triangle.CHOICERIGHT]))
+(;B[oq];W[rs]C[White livesCHOICERIGHT])))))

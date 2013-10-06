@@ -1,0 +1,71 @@
+(;GE[best move]DI[5k]DP[32]SO[cen2y]CO[5]AB[id]AW[jd]AB[je]AB[kd]AW[ie]AW[ke]AB[gc]AW[fd]AB[jf]AW[ig]AW[le]AB[ld]AW[md]AB[lc]AW[mc]AW[mb]AB[lb]AB[ib]AW[fc]AB[gb]AW[fb]AB[ma]AW[na]AB[la]AW[nb]AW[fa]AB[ga]AW[kg]AW[ne]AW[he]AB[hd]AW[gd]AB[if]AW[gg]AB[kf]AW[lg]AW[ki]AW[gf]AB[hc]AW[mg]AW[hi]AB[ii]AW[ef]AB[nd]AW[oe]AW[og]AW[od]
+(;W[jc]
+(;B[jb]
+(;W[jg];B[hf];W[ge];B[lf];W[me];B[kc]
+(;W[mf];B[ic];W[hg];B[jd]C[W-1.5])
+(;W[hg];B[ic];W[mf];B[jd]C[W-1.5]))
+(;W[hf];B[lf];W[me];B[kc]
+(;W[mf];B[ic]
+(;W[jg];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[jg];B[jd]C[W+0.5RIGHT]))
+(;W[jg];B[ic]
+(;W[mf];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[mf];B[jd]C[W+0.5RIGHT])))
+(;W[lf];B[hf];W[ge];B[kc]
+(;W[hg];B[ic]
+(;W[jg];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[jg];B[jd]C[W+0.5RIGHT]))
+(;W[jg];B[ic]
+(;W[hg];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[hg];B[jd]C[W+0.5RIGHT])))
+(;W[kb];B[ic]
+(;W[kc];B[ka])
+(;W[ka];B[kc])
+(;W[hf];B[lf]
+(;W[me];B[mf];W[nf];B[kc]
+(;W[jg];B[jd]C[W-1.5])
+(;W[jd];B[jc];W[jg];B[jd]C[W-1.5]))
+(;W[kc];B[me])
+(;W[ka];B[me]))
+(;W[lf];B[hf];W[ge];B[hg];W[hh];B[kc]
+(;W[jg];B[jd]C[W-1.5])
+(;W[jd];B[jc];W[jg];B[jd]C[W-1.5]))))
+(;B[lf]C[NOTTHIS]
+(;W[jb];B[me]TR[hc])
+(;W[me]C[Normal progress]))
+(;B[hf]C[NOTTHIS];W[kb]))
+(;W[hf];B[lf]
+(;W[me];B[jc]
+(;W[jg];B[mf];W[nf];B[jd]C[W-1.5])
+(;W[mf];B[jg];W[jh];B[jd]C[W-1.5]))
+(;W[mf];B[me])
+(;W[jc];B[me]))
+(;W[lf];B[hf]
+(;W[ge];B[jc]
+(;W[hg];B[jg];W[jh];B[jd]C[W-1.5])
+(;W[jg];B[hg];W[hh];B[jd]C[W-1.5]))
+(;W[hg];B[ge])
+(;W[jc];B[jb]
+(;W[kb];B[ka])
+(;W[kc];B[kb])
+(;W[ge];B[kc]
+(;W[jg];B[ic]
+(;W[hg];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[hg];B[jd]C[W+0.5RIGHT]))
+(;W[hg];B[ic]
+(;W[jg];B[jd]C[W+0.5RIGHT])
+(;W[jd];B[jc];W[jg];B[jd]C[W+0.5RIGHT])))
+(;W[hg];B[ge])
+(;W[jg];B[ge])))
+(;W[jg];B[hf]
+(;W[ge];B[lf];W[me];B[jc]
+(;W[mf];B[hg];W[hh];B[jd]C[W-3.5])
+(;W[hg];B[mf];W[nf];B[jd]C[W-3.5]))
+(;W[hg];B[ge]C[W-A lot]))
+(;W[jb];B[jc]C[Black's group(s) aren't killable.])
+(;W[kb];B[jc]C[Black's group(s) aren't killable.])
+(;W[nc]C[];B[lf]C[The O16 stone wasn't a threat.];W[me];B[hf];W[ge];B[jg];W[jh];B[hg]
+(;W[hh];B[ih])
+(;W[ih];B[jc]
+(;W[hh];B[mf];W[nf]C[];B[jd]C[W-A lot])
+(;W[mf];B[hh];W[gh];B[jd]C[W-A lot]))))

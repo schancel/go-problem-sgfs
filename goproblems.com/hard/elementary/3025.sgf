@@ -1,0 +1,9 @@
+(;GE[elementary]DI[6d]DP[2]SO[santa c]CO[7]SZ[9]AB[ba]AB[ca]AW[aa]AW[da]AW[db]AW[dc]AW[cc]AW[bc]AW[bb]AW[bd]AB[be]AB[ce]AB[cd]AB[dd]AB[ed]AB[ec]AB[eb]AB[ea]AW[ah]AW[bh]AW[bi]AW[ch]AW[dh]AW[di]AB[cf]AB[cg]AB[dg]AB[eg]AB[eh]AB[ei]LB[de:K]LB[ee:S]LB[df:D]LB[ef:A]C[1st question: What's the best, black can get, from the upper white group?
+(Having 4 outside ko threats - Each bigger than what it's worth.)FORCE]AP[goproblems]
+(;B[de];W[ee]LB[df:1]LB[ef:3]LB[ff:2]C[2nd question: How many Ko threats, does black need to kill?FORCE]
+(;B[ef];W[fe]AB[df]AW[fg]AW[fc]AW[hc]AW[he]AW[hg]LB[fc:->]LB[hc:<-]LB[gc:K]C[3rd question - Grr... You and your questions, eh? Kill, it then! (All the way) (Use 'K', when you need a Ko threat.)];B[ad];W[ac]LB[gc:K]LB[fc:->]LB[hc:<-];B[ab]C[];W[ae]LB[gc:K]LB[hc:<-]LB[fc:->];B[af];W[aa]LB[gc:K]LB[fc:->]LB[hc:<-];B[gc];W[ic]LB[fe:->]LB[he:<-]LB[ge:K];B[ab];W[bf]LB[ge:K]LB[fe:->]LB[he:<-];B[bg];W[aa]LB[ge:K]LB[fe:->]LB[he:<-];B[ge];W[ie]LB[gg:K]LB[fg:->]LB[hg:<-];B[ab];W[ag]LB[gg:K]LB[fg:->]LB[hg:<-];B[bf];W[aa]LB[gg:K]LB[fg:->]LB[hg:<-];B[gg];W[ig];B[ab]LB[ga:T];W[ga]LB[ga:T];B[aa];W[cb];B[ba];W[aa];B[ab]LB[ha:T];W[ha]LB[ha:T];B[aa];W[ca];B[aa]C[Well done ;)RIGHT])
+(;B[df]C[3 kos are needed.])
+(;B[ff]C[3 kos are needed.]))
+(;B[ee]C[It's killable, with the correct amount of kos.])
+(;B[df]C[It's killable, with the correct amount of kos. (But not dead as it stands.)])
+(;B[ef]C[It's killable, with the correct amount of kos.]))

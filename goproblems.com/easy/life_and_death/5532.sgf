@@ -1,0 +1,12 @@
+(;GE[life and death]DI[10k]DP[53]SO[unkx80]CO[6]AB[cq]AB[cp]AB[co]AB[dn]AB[en]AB[eo]AW[dp]AB[dq]AB[eq]AB[fq]AB[gq]AB[hq]AB[hp]AB[ho]AW[bq]AW[bp]AW[bo]AW[cm]AW[cn]AW[dm]AW[em]AW[fn]AW[gn]AW[hn]AW[io]AW[ip]AW[iq]AW[hr]AW[gr]AW[fr]AW[er]AW[dr]AW[cr]C[Black to play.]AP[goproblems]
+(;B[go]
+(;W[fp];B[fo];W[ep]C[Seki.RIGHT])
+(;W[ep];B[fp]C[RIGHT])
+(;W[fo];B[fp]C[RIGHT]))
+(;B[fo];W[go]
+(;B[gp];W[ep])
+(;B[ep];W[gp]))
+(;B[fp];W[go])
+(;B[ep];W[go]
+(;B[fo];W[gp])
+(;B[gp];W[fo])))

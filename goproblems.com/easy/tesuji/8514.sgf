@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[18k]DP[68]SO[tjl]CO[7]AW[fl]AW[gl]AW[hl]AW[ek]AW[dk]AW[cj]AW[cl]AB[dl]AB[el]AB[em]AB[en]AB[fm]AB[gm]AB[hm]AB[gn]AB[fk]AB[hj]AB[hi]AB[ii]AW[im]AW[in]AW[hn]AB[ho]AB[io]AB[jo]AB[ko]AW[ij]AW[jj]MA[hl]MA[gl]MA[fl]TR[im]TR[in]TR[hn]LB[ml:N]C[]AP[goproblems]
+(;B[il]
+(;W[jl]
+(;B[ik]
+(;W[hk];B[gk]C[Nice damezumariCHOICERIGHT])
+(;W[jk];B[hk]C[CHOICERIGHT]))
+(;B[hk];W[ik]))
+(;W[ik];B[jl]MA[im]MA[in]MA[hn]C[Marked stones are now beyond help.RIGHT]))
+(;B[ml])
+(;B[jl];W[il];B[ik];W[hk];B[jk];W[fj]C[Black catches nothing at all.])
+(;B[ik];W[il]
+(;B[hk];W[kl]
+(;B[jl];W[jm];B[jk];W[lm])
+(;B[jk];W[lm])
+(;B[kk];W[jk])
+(;B[km];W[jk])
+(;B[jm];W[jl]))
+(;B[jk];W[hk]
+(;B[fj];W[kl]
+(;B[jl];W[jm]
+(;B[kk];W[lk]
+(;B[kj];W[lm])
+(;B[ll];W[kj]))
+(;B[km];W[kk]))
+(;B[kk];W[lk]))
+(;B[gj];W[kl])
+(;B[gk];W[kl])))
+(;B[jk];W[ik])
+(;B[hk];W[ik])
+(;B[jm];W[jl])
+(;B[gk];W[ik]))

@@ -1,0 +1,38 @@
+(;GE[endgame]DI[4k]DP[29]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[cn][dn][cp][dp][dq][br][cr][ds]
+AB[eo][go][ep][bq][cq][eq][dr][er][gr]
+C[black to make the best endgame play in the corner
+]
+(;B[bs];W[bp]
+(;B[es]C[RIGHT
+white can't connect
+])
+
+(;B[ar];W[aq])
+)
+
+(;B[bp];W[aq]
+(;B[bo];W[bn]
+(;B[ap];W[ar];B[cs];W[bs])
+
+(;B[cs];W[bs];B[ap];W[co];B[ar];W[an];B[es];W[ao])
+)
+
+(;B[ap];W[bo];B[ar];W[ao];B[cs];W[aq])
+
+(;B[ao];W[bo])
+)
+
+(;B[cs];W[bs];B[bp];W[bo])
+
+(;B[es];W[bs]C[black can do better than this
+])
+
+(;B[ar];W[bp];B[aq];W[ap])
+
+)

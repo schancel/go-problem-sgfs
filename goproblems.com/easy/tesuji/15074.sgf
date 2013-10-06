@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[6k]DP[37]SO[naustin]CO[0]AB[rc]AB[rd]AB[qc]AB[pc]AB[oc]AB[nc]AB[rg]AB[qg]AB[sg]AW[sd]AW[re]AW[qd]AW[pd]AW[od]AW[of]AW[pf]AW[ph]AW[qi]AW[ri]C[Black to save his three stones.]AP[goproblems]
+(;B[qe];W[qf]
+(;B[se];W[sf];B[rf];W[pe];B[sc];W[qe];B[se]C[RIGHT])
+(;B[rf];W[se])
+(;B[sc];W[se];B[rf];W[pe];B[sf];W[qe])
+(;B[sf];W[se]))
+(;B[sc];W[se];B[qe];W[qf]
+(;B[rf];W[pe])
+(;B[sf];W[rf]))
+(;B[qf];W[qe])
+(;B[se];W[sf];B[qe];W[qf])
+(;B[rf];W[se];B[qe];W[qf])
+(;B[sf];W[se];B[qe];W[qf]))

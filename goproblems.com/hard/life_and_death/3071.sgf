@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4d]DP[8]SO[adum]CO[3]AB[ra]AB[rb]AB[qc]AB[rd]AB[re]AW[rf]AW[qf]AW[qe]AW[qd]AW[pc]AW[pb]AW[pa]AW[rh]LB[nd:0]LB[ne:1]LB[nf:2]LB[ng:3]LB[nh:4]LB[oe:5]LB[of:6]LB[og:7]C[click on the number that corresponds to how many first moves kill this group without ko.FORCE]AP[goproblems]
+(;W[ng]C[];B[nf]C[that's the correct number. now, two of the correct moves are A and B. where is the third?]LB[qb:A]LB[se:B]
+(;W[qb]C[NOTTHIS])
+(;W[se]C[NOTTHIS])
+(;W[sb];B[sc]
+(;W[se];B[qb];W[sf]C[];B[sa];W[sd]C[RIGHT])
+(;W[qb];B[se]C[ko])
+(;W[sd];B[se]))
+(;W[sf];B[se];W[sc];B[sb];W[rc];B[sd];W[rc];B[qb];W[sc];B[rd]C[oops])
+(;W[sc];B[sb];W[se];B[rc])
+(;W[sd];B[sc])
+(;W[rc];B[sc])
+(;W[sa];B[sb]))
+(;W[nd]C[incorrect. after you select the correct number you may explore.])
+(;W[ne]C[incorrect. after you select the correct number you may explore.])
+(;W[nf]C[incorrect. after you select the correct number you may explore.])
+(;W[nh]C[incorrect. after you select the correct number you may explore.])
+(;W[oe]C[incorrect. after you select the correct number you may explore.])
+(;W[of]C[incorrect. after you select the correct number you may explore.])
+(;W[og]C[incorrect. after you select the correct number you may explore.]))

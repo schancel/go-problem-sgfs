@@ -1,0 +1,32 @@
+(;GE[fuseki]DI[7k]DP[41]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[mq][pp]
+AW[qn]
+LB[yy:1][qp:A][rp:B][ro:C][qo:D]PL[B]
+C[Black to close the corner. What's the 
+proper move?]
+(;B[qp]
+C[RIGHT This solid move is often the best.]
+MN[1]
+)(;B[rp]
+LB[rp:1][qp:A]C[Experience shows that Black A would 
+be a better move in most occasions.]
+)(;B[qo]
+;W[pn]
+C[And after Black plays the usual pincer 
+around S, White has various moves 
+(G,H,J,K for example) with which to 
+annoy Black, as he is a little too thin.  
+Simply playing at L or M or N is also an 
+option though.]
+LB[pn:2][mn:L][op:G][oq:H][pq:I][qq:J][no:M][pk:S][mo:N]
+)(;B[ro]
+;W[pj]
+LB[pj:2][pq:A][qp:B][kq:Q][or:D][oq:E]C[Black 1 is too loose. White jumps lightly away and can look forward to 
+invading at A, settling himself with B or 
+when he gets a stone in at Q invading 
+at D or E.]
+))

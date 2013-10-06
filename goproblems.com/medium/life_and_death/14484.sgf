@@ -1,0 +1,18 @@
+(;GE[life and death]DI[2k]DP[23]SO[DarkSycthe]CO[0]AB[gr]AB[hr]AB[hs]AB[iq]AB[jq]AB[kq]AB[lq]AB[mq]AB[lp]AB[ko]AB[jp]AB[jo]AW[hq]AW[hp]AW[ir]AW[is]AW[lr]AW[mr]AW[ls]AW[nq]AW[oq]AW[ho]AW[in]AW[jm]AW[km]AW[lm]AW[mn]AW[mo]AW[np]AW[fq]AW[ep]AW[er]AW[fs]C[What is the best White can do? Kill = Kill Black unconditionally. Ko = Make a ko for life. Nothing = Black is alive unconditionallyFORCE]LB[hk:Kill
+]LB[jk:Ko]LB[lk:Nothing]AP[goproblems]
+(;W[hk]C[];B[ik]C[Please demonstrate how]
+(;W[js];B[ks]
+(;W[kr];B[jr]C[FORCE]
+(;W[nr];B[ks];W[js];B[is];W[ks]C[Nice :)RIGHT])
+(;W[ks];B[nr]C[Oops]))
+(;W[jr];B[kr])
+(;W[nr];B[kr]))
+(;W[kr];B[jr];W[js];B[ks];W[js];B[is]
+(;W[nr];B[ks]C[Ko :(])
+(;W[ks];B[nr]C[Oops]))
+(;W[jr];B[kr])
+(;W[ks];B[js];W[jr];B[kr]C[FORCE]
+(;W[js];B[nr]C[Oops])
+(;W[nr];B[js])))
+(;W[lk]C[White can kill. Navigate solution for details.])
+(;W[jk]C[White can kill unconditionally. Navigate solution for details.FORCE]))

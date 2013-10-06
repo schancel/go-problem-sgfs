@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[6k]DP[39]SO[tom111]CO[8]AW[qc]AW[pc]AW[nc]AW[re]AW[qf]AW[pf]AB[pd]AB[oe]AB[of]AB[pg]AB[qg]AB[oh]AW[oj]AW[pj]AW[qj]AW[pk]AB[nj]AB[nk]AB[ok]AB[pl]AB[ql]AB[qk]LB[nj:1]C[Black plays 1. Where is White's Tesuji ?]AP[goproblems]
+(;W[rg];B[rh]
+(;W[ri];B[sg]C[]
+(;W[sf]C[Right. A Ko for Connection (still black can take 4 stones in gote with A, thx dmg)RIGHT]LB[qi:A])
+(;W[qh];B[rf]C[Oops])
+(;W[rf];B[qh]C[Sliced :(]))
+(;W[qh]
+(;B[qi];W[ri];B[ph]
+(;W[sh];B[rj];W[qh];B[pi]C[A nice reduction in senteRIGHT])
+(;W[rj];B[sg]))
+(;B[ri]C[Anf if black tries this ?]
+(;W[rj];B[qi])
+(;W[ph];B[og];W[rj]C[RIGHT]))))
+(;W[rh];B[rg])
+(;W[ri];B[rg]))

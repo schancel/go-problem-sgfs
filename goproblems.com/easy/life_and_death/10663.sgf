@@ -1,0 +1,34 @@
+(;GE[life and death]DI[6k]DP[39]SO[Hagios]CO[7]C[White to live]AB[rq]AB[pq]AB[pp]AB[po]AB[pn]AB[on]AB[nn]AB[mn]AB[ln]AB[lo]AB[lp]AB[lq]AB[lr]AB[mq]AW[mp]AW[mo]AW[no]AW[oo]AW[op]AW[oq]AW[nq]AW[mr]AP[goproblems]
+(;W[ns]
+(;B[or]C[CHOICE];W[pr]
+(;B[qr];W[ps];B[qs];W[os]C[That's it!RIGHT])
+(;B[ps];W[qr]C[Black loses more territory this way])))
+(;W[pr];B[nr]
+(;W[ms];B[ns]
+(;W[ls];B[ks]C[White dies])
+(;W[os];B[ls]C[White dies])
+(;W[or];B[ls]C[White dies])
+(;W[qr];B[ls];W[or];B[rr]C[]
+(;W[qs];B[os]C[White dies])
+(;W[os];B[qs]C[White dies])
+(;W[rs];B[os]C[White dies])))
+(;W[or];B[ms]
+(;W[qr];B[rr]
+(;W[os];B[qs]C[White dies])
+(;W[qs];B[os]C[White dies])
+(;W[rs];B[os]C[White dies])
+(;W[qq];B[qp]
+(;W[rs];B[os]C[White dies])
+(;W[qs];B[os]C[White dies])
+(;W[os];B[qs]C[White dies])))
+(;W[rr];B[qr];W[qs];B[qq];W[sr];B[rs]C[White cannot make two eyes, and dies]))
+(;W[qr];B[or]C[White dies]))
+(;W[or];B[ms];W[pr];B[ns]
+(;W[qr];B[rr]
+(;W[qs];B[os]C[White dies])
+(;W[os];B[qs]C[White dies])
+(;W[rs];B[os]C[White dies]))
+(;W[rr];B[qr]
+(;W[qs];B[qq];W[sr];B[rs]C[White cannot make two eyes, and dies])
+(;W[ps];B[qs]C[White dies]))
+(;W[os];B[qr]C[White cannot make two eyes, and dies.])))

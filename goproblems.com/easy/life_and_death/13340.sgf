@@ -1,0 +1,18 @@
+(;GE[life and death]DI[10k]DP[52]SO[thavdog]CO[0]AB[rc]AB[qb]AB[pc]AB[pd]AB[pf]AB[pe]AB[og]AW[pg]AW[qg]AW[oh]AW[nh]AW[pi]AW[mf]AW[me]AW[oe]AW[oc]AW[nc]AW[mc]AW[lc]AW[mb]AW[pb]AW[oa]AB[lb]AB[kb]AB[kd]AB[kc]AB[ld]AB[md]TR[lc]TR[mc]TR[mb]TR[oa]TR[pb]TR[oc]TR[nc]C[How can black capture the seven marked stones?]AP[goproblems]
+(;B[ne]
+(;W[nf];B[nd];W[od];B[of]C[RIGHT])
+(;W[nd];B[nf]
+(;W[ng];B[of]C[RIGHT])
+(;W[of];B[od]C[RIGHT])))
+(;B[nd];W[od]
+(;B[of];W[ne])
+(;B[ne];W[of]
+(;B[nf];W[ng])
+(;B[ng];W[nf])))
+(;B[od];W[nd];B[ne];W[nf])
+(;B[of];W[ne]
+(;B[nd];W[od])
+(;B[od];W[nd]))
+(;B[nf];W[ne]
+(;B[nd];W[od])
+(;B[od];W[nd])))

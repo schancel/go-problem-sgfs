@@ -1,0 +1,98 @@
+(;GE[life and death]DI[3d]DP[11]SO[Bildstein]CO[7]AW[rr]AW[sq]AW[rp]AW[qq]AW[pq]AB[qs]AB[or]AB[oq]AB[qp]AB[ro]AB[qn]AB[op]C[How many ways for White to live?]LB[lp:1]LB[mp:2]LB[lq:3]LB[mq:4]LB[lr:5]LB[mr:6]AB[rn]AB[po]AP[goproblems]
+(;W[mq];B[lq]LB[ss:1]LB[rs:2]LB[sr:3]LB[sp:4]LB[rq:5]LB[qr:6]LB[ps:7]LB[os:8]LB[pr:9]LB[so:10]C[Starting from 1, what is the first way for White to live? (Click on the lowest number that is one of the 4 moves that save White).]
+(;W[rs]
+(;B[sc]AB[re]AB[qe]AB[pe]AB[pc]AB[ob]AB[nb]AB[nc]AB[ca]AB[eb]AB[ec]AB[ed]AB[cd]AB[be]AB[bf]AB[cf]AB[aq]AB[bo]AB[co]AB[do]AB[dq]AB[er]AB[fr]AB[fq]AW[qa]AW[rb]AW[pb]AW[qd]AW[qc]AW[bb]AW[dc]AW[bd]AW[ac]AW[cc]AW[br]AW[cq]AW[dr]AW[cs]AW[cp]LB[ra:3]LB[pa:4]LB[qb:5]LB[rc:6]LB[sd:7]LB[se:8]LB[rd:9]LB[oa:10]C[The second (as numbered)? (in the top right corner)]AB[od]AB[de]AB[ep]
+(;W[rc]
+(;B[kq]LB[da:7]LB[ea:8]LB[db:9]LB[ae:10]C[Third? (in the top left corner)]
+(;W[da]
+(;B[jq]LB[ao:8]LB[bp:9]LB[es:10]C[Fourth? (in the lower left corner)]
+(;W[bp]
+(;B[ar]C[Now finish the problem in the bottom left corner.];W[ap];B[es]
+(;W[as]
+(;B[ds];W[cr];B[bs];W[bq];B[ao];W[as]C[RIGHT])
+(;B[bs];W[bq];B[ds]
+(;W[cr];B[ao];W[as]C[RIGHT])
+(;W[as];B[cr]C[Ko])))
+(;W[ds];B[bs]
+(;W[cr];B[dp];W[as]C[Only ko])
+(;W[as]C[Only ko])
+(;W[bq];B[cr])))
+(;B[ap]C[Now finish the problem in the bottom left corner.];W[ar];B[es];W[ds];B[ao]
+(;W[dp];B[bq];W[eq]C[Ko])
+(;W[bq]C[RIGHT])))
+(;W[ao];B[ar])
+(;W[es];B[ar])
+(;W[ap]C[NOTTHIS])
+(;W[bq]C[NOTTHIS])
+(;W[cr]C[NOTTHIS])
+(;W[ds]C[NOTTHIS])
+(;W[ar]C[NOTTHIS])
+(;W[bs]C[NOTTHIS])
+(;W[as]C[NOTTHIS]))
+(;B[db];W[cb]
+(;B[ea];W[ba])
+(;B[ba];W[aa]))
+(;B[ba];W[cb]
+(;B[ae];W[ad]
+(;B[db];W[aa])
+(;B[ab];W[aa]))
+(;B[aa];W[ab])
+(;B[db];W[aa])
+(;B[ab];W[aa]))
+(;B[ae];W[db];B[ad];W[bc];B[ba];W[aa];B[ab];W[cb]))
+(;W[ea];B[ba])
+(;W[db]C[This works, but so did 7 (and 7 comes before 9).])
+(;W[ae];B[ba])
+(;W[cb]C[NOTTHIS])
+(;W[bc]C[NOTTHIS])
+(;W[ad]C[NOTTHIS])
+(;W[ba]C[NOTTHIS])
+(;W[ab]C[NOTTHIS])
+(;W[aa]C[NOTTHIS]))
+(;B[sb];W[sd];B[rd];W[sa])
+(;B[sd];W[sb])
+(;B[oa];W[pa]
+(;B[sd];W[sb])
+(;B[sb];W[sd]
+(;B[rd];W[sa])
+(;B[ra];W[sa]))))
+(;W[ra];B[sb])
+(;W[pa];B[sb])
+(;W[qb]C[You just killed yourself.])
+(;W[sd]C[This works, but so did 6 (and 6 comes before 7).])
+(;W[se];B[sb])
+(;W[rd]C[This works, but so did 6 (and 6 comes before 9).])
+(;W[oa];B[sb])
+(;W[sb]C[NOTTHIS])
+(;W[sa]C[NOTTHIS]))
+(;B[qr];W[pr])
+(;B[pr];W[qr])
+(;B[so];W[sp]
+(;B[qr];W[pr])
+(;B[pr];W[qr])
+(;B[ps];W[qr]))
+(;B[ps];W[qr];B[so];W[sp]))
+(;W[ss];B[qr])
+(;W[sr];B[rs])
+(;W[sp];B[rs])
+(;W[rq]C[You just killed yourself.])
+(;W[qr]C[this works, but so did 2 (and 2 comes before 6).])
+(;W[ps]C[this works, but so did 2 (and 2 comes before 7).])
+(;W[os];B[rs])
+(;W[pr]C[this works, but so did 2 (and 2 comes before 9).])
+(;W[so];B[rs]))
+(;W[lp]C[There's more than 1.])
+(;W[mp]C[There's more than 2.])
+(;W[lq]C[There's more than 3.])
+(;W[lr]C[there's less than 5.])
+(;W[mr]C[There's less than 6.])
+(;W[so]C[NOTTHIS])
+(;W[sp]C[NOTTHIS])
+(;W[rq]C[NOTTHIS])
+(;W[sr]C[NOTTHIS])
+(;W[qr]C[NOTTHIS])
+(;W[ss]C[NOTTHIS])
+(;W[rs]C[NOTTHIS])
+(;W[ps]C[NOTTHIS])
+(;W[pr]C[NOTTHIS])
+(;W[os]C[NOTTHIS]))

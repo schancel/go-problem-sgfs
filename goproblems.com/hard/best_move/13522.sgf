@@ -1,0 +1,4 @@
+(;GE[best move]DI[4d]DP[7]SO[remembered]CO[0]AW[cp]AW[dq]AW[eq]AW[do]AW[cj]AB[fq]AB[fp]AB[ep]AB[jq]AW[lq]AW[pq]AW[op]AB[qo]AB[pm]LB[hq:A]C[A is what W aim to play if B tenuki and it is big. B must defend A but if he play H3 or K5 he think it is too slow so he play d4. Please follow Ba19.]LB[aa:B]AP[goproblems];W[aa]LB[dp:b];B[dp]C[Now it is W decision to defense the cutting point. Hint: Only one move make W happy.]LB[cq:A]LB[co:B]LB[cn:C]
+(;W[cq];B[fn]LB[hq:A]LB[dn:B]LB[co:C]C[Now if Wa B will connect and go to center. Cutting point C make B can play at B])
+(;W[co];B[cq]LB[cr:b]LB[cl:A]C[W have weak point at Ac8 so he atari at c2];W[cr];B[bq]LB[br:b];W[br];B[fr]LB[ds:b];W[ds]C[B have sente and so strong now.])
+(;W[cn];B[cq]LB[bq:b]C[W can atari at b3 now to abandon W d3ande3];W[bq];B[cr]LB[br:b];W[br];B[dr]C[B F2 group has become superfluous. and W has sente.RIGHT]))

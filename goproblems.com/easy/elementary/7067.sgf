@@ -1,0 +1,11 @@
+(;GE[elementary]DI[25k]DP[78]SO[maba]CO[8]AB[ji]AB[ii]AB[hi]AB[gj]AB[gk]AB[hk]AB[hl]AB[il]AW[hj]AW[ij]AW[ik]AW[jk]AW[jl]AB[jm]AB[km]AW[im]AW[in]AB[ll]AW[lk]AW[ml]AW[mk]AW[mm]AW[ln]AW[ko]AW[li]C[Black to capture five white stones.]AP[goproblems]
+(;B[kk]
+(;W[kj]
+(;B[jj];W[kl];B[kk]C[RIGHT])
+(;B[kl];W[jj])
+(;B[ki];W[kl];B[jj];W[lm]))
+(;W[jj];B[kj]C[RIGHT])
+(;W[kl];B[jj]C[RIGHT]))
+(;B[kl];W[kk])
+(;B[kj];W[kk])
+(;B[jj];W[kk]))

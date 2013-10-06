@@ -1,0 +1,10 @@
+(;GE[life and death]DI[6k]DP[36]SO[mrmoto]CO[4]AW[br]AW[bs]AW[cs]AB[aq]AB[ap]AB[bp]AB[cp]AB[cq]AB[dr]AB[ds]AB[er]AB[dp]AW[ao]AW[bo]AW[co]AW[do]AW[ep]AW[fp]AW[fq]AW[fr]AW[fs]AW[en]C[What is white's _worst_ move?]AP[goproblems]
+(;W[bq];B[eq]C[You brought black back to life!RIGHT])
+(;W[as];B[eq]C[You brought black back to life!RIGHT])
+(;W[ar];B[cr]C[Ok, A2 was a bad move.  Now try to kill black (using good moves ;))]
+(;W[as];B[eq])
+(;W[eq];B[bq]
+(;W[dq]C[NOTTHIS])
+(;W[es];B[as]
+(;W[br];B[bs])
+(;W[bs];B[br];W[ar]C[Black can fight a ko for life ... but you could have done worse!])))))

@@ -1,0 +1,14 @@
+(;GE[elementary]DI[10k]DP[53]SO[DarkSycthe]CO[0]AW[dp]AW[cn]AW[cj]AW[dj]AW[ej]AW[fj]AW[bk]AW[cl]AB[bj]AB[ci]AB[bh]AB[ai]AB[di]AB[ei]AB[fi]AB[gi]AB[gj]AB[cq]AB[dr]AB[cr]AB[bo]AW[dq]AW[er]AW[eq]AB[fq]AW[fs]AB[fo]AW[bn]AB[co]AW[do]AB[fk]AB[gk]LB[dn:A]C[Does the black cut at A work? If not, please play T for Tenuki. If so, play it!FORCE]AB[cp]AW[hr]AW[gs]AB[hp]AB[jo]LB[hm:T]AW[es]AB[fp]AB[jq]AW[ir]AW[jr]AB[kq]AB[lr]AW[gr]AB[ar]AP[goproblems]
+(;B[dn]
+(;W[en];B[dm]
+(;W[em];B[dl];W[el]
+(;B[ek];W[dk];B[ck]C[RIGHT])
+(;B[dk];W[ek]))
+(;W[el];B[em];W[fm]
+(;B[fn]
+(;W[eo];B[fl];W[gm];B[dl];W[ek];B[ck];W[dk];B[ck]C[RIGHT]))
+(;B[fl];W[dl])
+(;B[eo];W[fn];B[fl];W[dl])
+(;B[dl];W[dk])
+(;B[ek];W[dl]))))
+(;B[hm]C[It works. Navigate solution for details]))

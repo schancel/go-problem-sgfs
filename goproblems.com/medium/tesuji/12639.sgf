@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[3k]DP[25]SO[TnekKralc]CO[0]AB[ck]AB[cm]AB[co]AB[do]AB[eo]AB[fp]AB[fn]AB[gn]AB[hn]AB[in]AB[jo]AB[kp]AB[mo]AB[no]AB[nq]AW[cp]AW[dq]AW[eq]AW[ep]AW[en]AW[em]AW[fm]AW[gm]AW[fo]AW[go]AW[hp]AW[il]AW[jq]AW[kq]AW[lq]
+(;B[ip]
+(;W[hq];B[iq];W[ir];B[ho]LB[ip:1]LB[hq:2]LB[iq:3]LB[ir:4]LB[ho:5]LB[gp:A]C[Correct answer. B 1 is the tesuji. If W resits w/ 2 & 4, after B5, W must give up his 2 stones in atari.  If W 2 at 3, B at ARIGHT])
+(;W[iq];B[gp];W[ho];B[hq];W[gq]C[:-( 4 W !];B[io]C[:-( 4 W !]))
+(;B[iq];W[ip]C[Wrong answer. B1 may look like a tesuji, but after W2, B has no effective continuation.];B[jp];W[ir];B[hq];W[gq]
+(;B[gp];W[fq]C[:-(])
+(;B[ho];W[gp];B[io];W[hr]C[:-(])))

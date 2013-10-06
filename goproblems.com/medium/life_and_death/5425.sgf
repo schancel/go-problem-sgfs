@@ -1,0 +1,24 @@
+(;GE[life and death]DI[2k]DP[23]SO[hello]CO[8]SZ[19]AW[np]AW[pp]AW[jq]AW[nq]AW[pq]AW[qq]AW[jr]AW[nr]AW[pr]AW[rr]AW[ms]AW[ps]AW[rs]AB[on]AB[pn]AB[mo]AB[no]AB[po]AB[ro]AB[mp]AB[op]AB[qp]AB[kq]AB[mq]AB[oq]AB[rq]AB[lr]AB[sr]TR[jr]TR[jq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ns]
+(;W[or]
+(;B[mr]C[RIGHT])
+(;B[ls];W[mr]))
+(;W[mr]
+(;B[or];W[os];B[oo]C[RIGHT])
+(;B[ls];W[or]))
+(;W[os]
+(;B[mr]C[RIGHT])
+(;B[ls];W[mr])
+(;B[oo];W[ls];B[ks];W[kr])))
+(;B[ls];W[or]
+(;B[mr];W[ns])
+(;B[ns];W[mr]))
+(;B[mr];W[ns]
+(;B[ls];W[or])
+(;B[or];W[os]
+(;B[oo];W[ls];B[ks];W[kr])
+(;B[ls];W[oo];B[op];W[oq])))
+(;B[os];W[or])
+(;B[or];W[os];B[oo];W[ls]
+(;B[mr];W[ns];B[ks];W[kr])
+(;B[ks];W[kr])))

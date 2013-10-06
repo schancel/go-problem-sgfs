@@ -1,0 +1,43 @@
+(;GE[life and death]DI[3d]DP[9]SO[Haze]CO[6]AB[ls]AB[lr]AB[lq]AB[lp]AB[lo]AB[ln]AB[lm]AB[ll]AB[lk]AB[lj]AB[mj]AB[ni]AB[nk]AB[ok]AB[oj]AB[pj]AB[pi]AB[qh]AB[qg]AB[pf]AB[pe]AB[qe]AB[re]AB[oe]AB[pd]AB[ne]AB[nd]AB[le]AB[ld]AB[lc]AB[mb]AB[ma]AB[lb]AW[mc]AW[nc]AW[nb]AW[na]AW[oc]AW[od]AW[pc]AW[pb]AB[qc]AB[qb]AW[qd]AW[rd]AW[rc]AW[rb]AB[rs]AB[qr]AB[qq]AB[qp]AB[qo]AB[qn]AB[qm]AB[ql]AB[rn]AB[so]AB[sl]AB[rk]AB[pp]AB[op]AB[oq]AB[nr]AB[pm]AW[or]AW[pr]AW[pq]AW[os]AW[ps]AW[qs]AW[mr]AW[ms]AW[nq]AW[np]AW[no]AW[oo]AW[po]AW[nm]AW[nl]AW[ol]AW[ml]AW[mk]AW[pl]AW[pk]AW[qk]AW[qj]AW[qi]AW[rj]AW[rh]TR[nr]C[Black has just played the marked stone.  White to live.]AP[goproblems]
+(;W[mq]C[];B[sg]
+(;W[sh];B[sj]C[While N3 makes an eye in a nice under-the-stones play, it is gote, and black can take T13 to prevent white from getting a second eye.])
+(;W[si];B[sh]C[While N3 makes an eye in a nice under-the-stones play, it is gote, and black can take T13 to prevent white from getting a second eye.])
+(;W[sj];B[sh]C[While N3 makes an eye in a nice under-the-stones play, it is gote, and black can take T13 to prevent white from getting a second eye.])
+(;W[ns]C[Black does not even need to answer this move.]))
+(;W[si];B[sg]
+(;W[sh];B[mq];W[rg];B[rf];W[sf];B[se])
+(;W[rg];B[sf])
+(;W[mq];B[sh])
+(;W[sk];B[rl]
+(;W[mq];B[sh])
+(;W[rg];B[sf])))
+(;W[ns];B[mq];W[nr];B[rr])
+(;W[sj];B[rg]
+(;W[sg];B[sf];W[mq];B[sh])
+(;W[sh];B[mq]))
+(;W[rg];B[sg];W[sf];B[rf]
+(;W[se];B[sd])
+(;W[sh];B[se]
+(;W[mq];B[sj])
+(;W[sj];B[mq]))
+(;W[si];B[mq]
+(;W[sh];B[se])
+(;W[se];B[sd])))
+(;W[sg];B[sf]
+(;W[rg];B[si]
+(;W[sj];B[mq])
+(;W[mq];B[sj]))
+(;W[si];B[rg];W[mq];B[sh]C[Correct.  This is ko.  I had thought it was a double ko, but the weakness at S9 prevents it from being so.RIGHT])
+(;W[sj];B[mq]
+(;W[rg];B[si])
+(;W[si];B[rg]))
+(;W[mq];B[si];W[sj];B[rg]
+(;W[sh];B[ri])
+(;W[ri];B[sh];W[sg];B[sh])))
+(;W[sf];B[sg]
+(;W[rg];B[rf];W[sh];B[se]
+(;W[mq];B[sj])
+(;W[sj];B[mq]))
+(;W[sh];B[rg])
+(;W[si];B[mq];W[rg];B[rf];W[sh];B[se]))
+(;W[sh];B[sj]))

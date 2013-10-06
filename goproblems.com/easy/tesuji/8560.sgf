@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[8k]DP[48]SO[vik]CO[7]AB[oe]AB[of]AB[og]AB[oc]AB[pc]AB[nb]AB[mb]AB[lb]AB[la]AB[rc]AB[rd]AB[re]AB[rf]AB[rg]AB[rh]AW[ob]AW[pb]AW[qc]AW[qb]AW[rb]AW[sb]AW[qd]AW[qe]AW[qg]AW[qf]AW[qh]AW[ri]AW[oi]AW[nh]AW[ng]AW[ph]AW[lf]AW[mf]AW[me]AB[kb]AB[jb]TR[og]TR[of]TR[oe]C[How can you kill B stones?]AB[lc]AP[goproblems]
+(;W[nd]
+(;B[nc]C[CHOICE];W[od];B[pd];W[pe]C[Correct!!RIGHT])
+(;B[od];W[nc]C[RIGHT]))
+(;W[pd];B[od]C[No....])
+(;W[od];B[nd];W[pd];B[ne]C[Not like that...];W[nc];B[mc]
+(;W[md];B[oc])
+(;W[oc];B[md]))
+(;W[nc];B[nd]))

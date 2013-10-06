@@ -1,0 +1,35 @@
+(;GE[life and death]DI[4k]DP[30]SO[shaydwyrm]CO[7]AB[pr]AB[qq]AB[rq]AW[pq]AW[oq]AW[qp]AW[qo]AW[or]C[Black to live]AP[goproblems]
+(;B[qs]
+(;W[os]
+(;B[sr]TR[rp]TR[rs]C[These points are miai for life.  Good job!RIGHT])
+(;B[rp];W[sr]
+(;B[rr]C[At best this is ko, black can do better.])
+(;B[ro];W[rn]
+(;B[rr]C[At best this is ko, black can do better.])
+(;B[so];W[rr]
+(;B[qr];W[sq]C[Black is dead, this leads to a twisted four in the corner.])
+(;B[sq];W[qr])
+(;B[rs];W[sq]TR[ps]TR[ss]C[Miai for the kill]))
+(;B[sq];W[rr]
+(;B[qr];W[so])
+(;B[so];W[qr])
+(;B[rs];W[so])))
+(;B[rs];W[ro]TR[rr]TR[ps]C[Miai for the kill])))
+(;W[rp]
+(;B[sr];W[rs];B[rr]C[FORCE];W[os])
+(;B[rr]C[RIGHT])
+(;B[rs];W[sr])
+(;B[sq];W[rr])
+(;B[ps];W[rr])))
+(;B[rs];W[ps])
+(;B[rr];W[ps])
+(;B[sr];W[qr])
+(;B[rp];W[qr]C[If black can make a fight up the right side, maybe he can play this way, but it is not unconditional life.])
+(;B[qr];W[rp])
+(;B[ps];W[rs]
+(;B[rp];W[ro]
+(;B[sp];W[sr];B[rr];W[os]C[Black is dead with a bent four in the corner.])
+(;B[sr];W[sp]))
+(;B[rr];W[os]
+(;B[rp];W[ro];B[sp];W[sr]C[Black is dead with a bent four in the corner.])
+(;B[sq];W[ss]))))

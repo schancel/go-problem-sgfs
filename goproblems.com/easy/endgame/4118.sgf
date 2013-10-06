@@ -1,0 +1,18 @@
+(;GE[endgame]DI[5k]DP[33]SO[klapaucius]CO[6]SZ[19]AB[pd]AB[dp]AW[pq]AB[qo]AW[pl]AW[nq]AW[mq]AB[qm]AW[dd]AB[cf]AW[fc]AB[bd]AW[cc]AB[cn]AW[ch]AB[bh]AW[bi]AB[bg]AW[ei]AB[bc]AW[cl]AB[eq]AW[nc]AB[lc]AW[qc]AB[pc]AW[qd]AB[qe]AW[re]AB[qf]AW[rf]AB[qg]AW[pb]AB[ob]AW[qb]AB[nb]AW[mp]AB[qq]AW[pp]AB[pr]AW[or]AB[qr]AW[oq]AW[iq]AW[ip]AB[pj]AW[id]AB[nd]AW[el]AB[go]AW[on]AW[no]AW[ok]AB[ni]AW[nk]AB[mk]AW[in]AB[gm]AW[ll]AB[lk]AW[ml]AB[kl]AW[lm]AB[il]AW[kn]AB[ql]AW[pn]AB[ef]AW[ge]AB[gg]AW[le]AB[me]AW[lf]AB[ld]AW[jf]AB[jc]AW[ic]AB[mg]AW[ki]AB[ih]AW[fg]AB[ff]AW[gf]AB[fh]AW[eg]AB[eh]AW[dg]AB[df]AW[dh]AB[jj]AW[gh]AB[fi]AW[hg]AB[hi]AW[ej]AB[gk]AW[gj]AB[gi]AW[fj]AB[hj]AW[qp]AB[rp]AW[qn]AB[rn]AW[hp]AB[gp]AW[gq]AW[gr]AB[gs]AW[ir]AB[fr]AW[hs]AB[fq]AW[fs]AB[es]AW[rg]AB[rh]AW[lg]AB[bl]AW[bk]AB[bm]AW[jb]AB[kb]AW[ib]AB[em]AW[fl]AB[gl]AW[dm]AB[cb]AW[db]AB[bb]AW[dn]AB[do]AW[ka]AB[la]AW[ja]AB[cd]AW[dc]AB[bq]AW[mf]AB[nf]AW[mh]AB[ng]AW[mi]AB[en]AW[pk]AB[qk]AW[oj]AB[oi]AW[pi]AB[qj]AB[ph]AW[oh]AB[qi]AW[nh]AB[og]AW[hn]AB[gn]AW[jm]AB[jl]AW[kj]AB[kk]AW[jd]AB[kc]AW[ol]AB[cm]AW[dl]AB[aj]AW[cj]AB[ai]AW[bj]AB[ak]AW[nj]AB[pi]AW[ps]AB[qs]AW[os]AB[hh]AW[gg]AB[jg]AW[ig]AB[jh]AW[kh]AB[im]AW[ji]AB[ij]AW[fd]AB[de]AW[ca]AB[ba]AW[da]AB[ed]AW[ec]AB[ee]AW[fm]AB[fn]AW[sd]AB[km]AW[jn]AW[nm]AW[oo]AW[lo]AB[pa]AW[qa]AB[oa]AW[sh]AB[si]AW[sg]AB[sq]AW[hm]AB[hl]AW[fk]AB[cg]AW[kd]AB[kg]AW[kf]AB[mj]AW[li]AB[pm]AW[om]AB[ho]AW[io]AB[gs]AW[po]AB[ro]AW[fe]AB[fs]AW[lj]AB[tt]C[Black has just passed and is ahead by 0.5 points.  If you think there is nothing white can do, play at A; otherwise go for it.]LB[as:A]GM[1]RE[B+0.5]NW[4]NB[0]KM[0.5]LT[]HA[2]
+(;W[mb];B[mc]
+(;W[ma];B[oc];W[lb]C[RIGHT])
+(;W[lb];B[ma]C[Black is still ahead.]))
+(;W[ii];B[lh]C[Self-atari\: the angry way to resign!])
+(;W[lh]C[This move is unnecessary.  White can wait for black to force it by playing at 'A'.]LB[ii:A])
+(;W[ah];B[ag]C[Nothing here.])
+(;W[al];B[am]C[Nothing here.])
+(;W[as]C[Try again.  This is why counting is important in the endgame.])
+(;W[ma];B[lb]
+(;W[mb];B[oc]
+(;W[mc];B[md]C[White has no follow-up.])
+(;W[md];B[mc]C[White has no follow-up.]))
+(;W[oc];B[od]C[White has no follow-up]))
+(;W[mc];B[md]C[White has no follow-up.])
+(;W[oc];B[od];W[mb];B[mc];W[ma];B[lb]C[Close---you have the right idea, but you ruined it.])
+(;W[ri];B[rj]C[This doesn't change the score.])
+(;W[co];B[mb];W[al];B[ah];W[bn];B[am]C[White has no follow-up.]))

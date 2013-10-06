@@ -1,0 +1,60 @@
+(;GE[endgame]DI[2d]DP[13]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[]
+AW[qn][so][rp][sp][lq][mq][qq][nr][rr]AB[rn][sn][qo][ro][np][pp][qp]C[Black to move!]
+(;B[pr]CR[pr]
+(;W[pq]CR[pq]
+(;B[oq]CR[oq]
+;W[or]CR[or]
+(;B[rq]CR[rq]
+;W[qr]CR[qr]
+(;B[sr]CR[sr]C[RIGHT CHOICE])
+(;B[sq]LB[sr:A]CR[sq]C[A is better!]))
+(;B[qr]CR[qr]
+;W[rq]CR[rq]
+;B[rs]CR[rs]
+;W[ps]CR[ps]C[Black is a liberty short]))
+(;B[sr]CR[sr]
+;W[rq]CR[rq]
+;B[oq]CR[oq]
+;W[or]CR[or]
+;B[qr]CR[qr]
+;W[ps]CR[ps]))
+(;W[qr]CR[qr]
+;B[sr]CR[sr]
+;W[pq]CR[pq]
+;B[oq]CR[oq]
+;W[or]CR[or]
+;B[rq]CR[rq]C[RIGHT CHOICE]))
+(;B[pq]CR[pq]
+;W[pr]CR[pr])
+(;B[oq]CR[oq]
+;W[pr]CR[pr]
+;B[or]CR[or]
+;W[os]CR[os]C[This is not good enough])
+(;B[rq]CR[rq]
+;W[sq]CR[sq]
+;B[pr]CR[pr]
+;W[qr]CR[qr]
+;B[or]CR[or]C[This is not as good as the solution])
+(;B[sr]CR[sr]
+;W[rq]CR[rq]
+;B[pr]CR[pr]
+;W[pq]CR[pq]
+;B[oq]CR[oq]
+;W[or]CR[or]
+;B[qr]CR[qr]
+;W[ps]CR[ps])
+(;B[or]CR[or]
+;W[oq]CR[oq]
+;B[pr]CR[pr]
+;W[pq]CR[pq]
+;B[nq]CR[nq]
+;W[mr]CR[mr]
+(;B[qr]CR[qr]
+;W[rq]CR[rq]
+;B[rs]CR[rs]
+;W[os]CR[os])
+(;B[rq]CR[rq]
+;W[sq]CR[sq]
+;B[qr]CR[qr]
+;W[qs]CR[qs])))

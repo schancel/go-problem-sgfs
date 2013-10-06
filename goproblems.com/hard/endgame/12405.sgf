@@ -1,0 +1,105 @@
+(;GE[endgame]DI[4d]DP[8]SO[Radley]CO[0]AB[ae]AB[be]AB[ce]AB[de]AW[af]AW[bf]AW[cf]AW[df]AW[cd]AB[cc]AB[eb]AW[db]AW[fb]AW[gb]AW[gc]AW[gd]AW[ge]AW[gf]AW[ff]AW[ef]AB[fc]AB[fd]AB[fe]AB[ee]LB[db:1]AP[goproblems]
+(;B[ec];W[ea];B[cb];W[ca]
+(;B[dc];W[da];B[ba];W[fa]
+(;B[ab]C[White reduce your corner 8 points in sente!])
+(;B[bb]C[White got an 8 point reduction in sente!]))
+(;B[ba];W[da];B[dc]))
+(;B[dc];W[ea]
+(;B[ec];W[ca]
+(;B[cb])
+(;B[ba];W[fa];B[cb];W[da]))
+(;B[cb];W[ec]
+(;B[ca]C[White made gains in sente - Good try though!])
+(;B[ed];W[ca];B[eb];W[da];B[ba];W[ec]
+(;B[ab]C[You can do better than 9 points in gote!])
+(;B[bb]C[Saved 9 points in gote, did you not want more?]))))
+(;B[da];W[ec]
+(;B[ea];W[ca]C[Terrible idea!])
+(;B[cb];W[ea];B[ca];W[dd];B[bd];W[ed]
+(;B[ac]C[Well, it is better than seki. Try, try again!])
+(;B[bb]C[Just 6 points, come on, you can do better!])
+(;B[dc];W[eb]
+(;B[ac]C[Only 6 points of territory.  Also D17 lost a ko threat])
+(;B[bb]C[D17 lost a ko threat and you only have 6 points of territory]))))
+(;B[cb]
+(;W[ec];B[dc];W[ea])
+(;W[ea]
+(;B[dc])
+(;B[ec])))
+(;B[ea]
+(;W[dc]
+(;B[ec];W[bc]C[This ladder cannot be good for black!  (It appears seki is best result for black from here, but I've not explored all the variations)])
+(;B[cb];W[ec];B[da]C[Yep! But white has a more complicated line of playRIGHT]))
+(;W[cb]C[Oh, you want it all? Good luck!]
+(;B[dc];W[bc];B[bb]
+(;W[dd]C[];B[ec];W[ba];B[ab];W[ac]
+(;B[ca];W[aa]
+(;B[bb];W[ab];B[da])
+(;B[da];W[bb];B[bd];W[fa]C[seki]))
+(;B[da];W[aa]
+(;B[bb];W[ab]
+(;B[ca];W[bd];B[bb];W[cb]C[seki])
+(;B[bd];W[ca];B[ad]C[B wins the race because of the outside liberty! Did you really read this?!CHOICERIGHT]))
+(;B[bd]))
+(;B[bd];W[aa];B[da];W[bb]
+(;B[ca])
+(;B[ad];W[fa]C[seki])))
+(;W[ec]C[]
+(;B[ed];W[ba];B[ab];W[ac]
+(;B[da];W[aa]
+(;B[bb];W[ab];B[bd];W[fa];B[ec];W[ca]C[seki])
+(;B[ca];W[bb];B[bd];W[fa];B[ec]C[seki]))
+(;B[ca];W[aa]
+(;B[bb];W[ab];B[da];W[bd];B[bb];W[cb]
+(;B[db];W[dd]C[ko])
+(;B[dd]C[One eye to none - B wins! Good reading!CHOICERIGHT])
+(;B[ad]C[D16 is left as a big ko threat for white, but this is also a solution (thanks to GameCarpenter)RIGHT]))
+(;B[da])))
+(;B[dd];W[ba];B[ab];W[ac]
+(;B[da];W[aa];B[bb];W[ab]
+(;B[bd];W[ca];B[ed];W[fa];B[ec]C[seki])
+(;B[ca]))
+(;B[ca];W[aa];B[bb];W[ab]
+(;B[da];W[fa]C[Whoops])
+(;B[bd];W[da]C[W alive, B dead :-(])))))
+(;B[bc];W[dc]
+(;B[dd];W[ec]C[I'm not sure why you played this way either...])
+(;B[ec];W[dd]
+(;B[bd];W[bb]
+(;B[ac];W[ab];B[da];W[fa])
+(;B[ab];W[ac];B[ad];W[ba];B[da];W[fa]C[seki.]))
+(;B[bb];W[bd]
+(;B[ad];W[ba]
+(;B[ca];W[ab]
+(;B[ac];W[da];B[aa]C[Ko :-(])
+(;B[aa]C[Ko :-(]))
+(;B[ac];W[ca]
+(;B[da];W[fa];B[ab]C[Gote seki, ouch.])
+(;B[ed];W[fa];B[ab]C[Gote seki, ouch.]))
+(;B[da];W[ab];B[ac];W[fa]
+(;B[ca];W[ed]C[Atari blindness - it happens.])
+(;B[aa]C[Ko for life - Greed is only good when you can get away with it.])
+(;B[ed];W[ca]C[Atari blindness - it happens.]))
+(;B[ab];W[fa]C[Seki - well, at least you have sente.]))
+(;B[ba]C[An inventive solution! B has an eye and white will eventually be captured! (You need the F19 liberty)CHOICERIGHT])
+(;B[ca];W[ba]
+(;B[aa];W[da]
+(;B[ad];W[ba];B[ac];W[ab]C[ko])
+(;B[ac];W[ba]
+(;B[ad];W[ab]C[ko])
+(;B[ed];W[ab]C[ko])))
+(;B[da];W[ab];B[aa]C[ko.])))))
+(;B[bb];W[dc]
+(;B[bc];W[ec]C[Clearly wanting it all and having it all are two very different things....])
+(;B[ec];W[bc]C[This is not good! There are many seki and ko possibilities from here, I may add them in the future.]))
+(;B[ec];W[bc];B[dc];W[ba]
+(;B[ab];W[ac];B[bb];W[aa];B[da];W[bb];B[bd];W[dd])
+(;B[da];W[ab];B[ca];W[bb]
+(;B[bd];W[dd]C[Seki. (Or ko, if you are really brave!)])
+(;B[dd];W[bd];B[ad];W[fa]C[Seki]))
+(;B[bd];W[ab]
+(;B[ac]C[];W[ad]C[ko?])
+(;B[dd];W[ac]C[White lives in your corner! I think you know that this is not nearly as much as you could have hoped for.]))
+(;B[ac];W[ab];B[da];W[ad]
+(;B[ca];W[bd];B[bb];W[cb]C[Whoops!])
+(;B[bd];W[ca]C[Ko for life (or you can play D16 and you both live).  Might want to have a rethink.]))))))

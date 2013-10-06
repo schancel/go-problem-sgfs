@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2d]DP[12]SO[santa c]CO[0]AB[jo]AB[io]AB[kp]AB[kq]AB[kr]AB[hp]AB[hq]AB[hr]AW[ls]AW[lr]AW[lq]AW[lp]AW[ko]AW[jn]AW[in]AW[ho]AW[gp]AW[gr]AW[gs]AW[go]AW[lo]AW[fq]C[Happy living! ><]AP[goproblems]
+(;B[ks]
+(;W[hs];B[is]
+(;W[jp]C[oh this move... so obvious, right?];B[ip];W[ir];B[jr];W[js]C[well done! :)RIGHT])
+(;W[ir];B[iq]
+(;W[jp];B[jr]C[RIGHT])
+(;W[js];B[jr]C[RIGHT])))
+(;W[ir];B[iq]
+(;W[jp];B[is]C[RIGHT])
+(;W[hs];B[is])))
+(;B[hs];W[ks];B[js];W[ip]C[oh this move... so obvious, right?]
+(;B[jp];W[jr])
+(;B[ir];W[jq])
+(;B[jr];W[jp])
+(;B[jq];W[ir]))
+(;B[js];W[jq]MA[jp]MA[iq])
+(;B[is];W[iq]MA[jq]MA[ip])
+(;B[jr];W[ks]MA[iq]MA[jp]MA[ip]MA[jq]MA[ir])
+(;B[ir];W[hs]MA[jr]MA[jq]MA[iq]MA[ip]MA[jp])
+(;B[iq];W[ks])
+(;B[jq];W[hs]))

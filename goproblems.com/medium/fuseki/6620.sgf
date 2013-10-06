@@ -1,0 +1,11 @@
+(;GE[fuseki]DI[3d]DP[10]SO[Zwom]CO[8]SZ[19]AB[pd]AB[pg]AB[jd]AB[cj]AB[dn]AW[dc]AW[de]AW[ch]AW[cq]AW[fq]GM[1]FF[4]AP[Drago:1.42]L[po]L[qo]L[op]L[pp]L[qp]L[oq]L[pq]L[qq]
+(;B[qo]C[RIGHT]
+(;W[pq]C[If white approaches like this black pushes white into a low position in good coordination with the top right stones.]TR[op]L[op];B[op]C[RIGHT])
+(;W[op]C[Black is also satisfied with taking the corner with A.]L[pq];B[pq]))
+(;B[po]C[This coordinates well with the top right stone but is hampered by the lower left position where white now has good approach moves.])
+(;B[op]C[White can jump in and settle easily.])
+(;B[pp]C[This coordinates well with the top right stone but is hampered by the lower left position where white now has good approach moves.])
+(;B[qp]C[This move is good for territory but not so much for influence.])
+(;B[oq]C[White can jump in and settle easily.])
+(;B[pq]C[White can jump in and settle easily.])
+(;B[qq]C[black's moyo is severely hampered if white moves to A]LB[pp:A]L[pp]))

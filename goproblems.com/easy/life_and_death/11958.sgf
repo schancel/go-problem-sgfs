@@ -1,0 +1,87 @@
+(;GE[life and death]DI[4k]DP[30]SO[Mocramis]CO[0]AW[pq]AW[pr]AW[os]AB[or]AB[oq]AB[op]AB[pp]AB[po]AB[oo]AW[qp]AW[qo]AW[ro]AW[so]AW[sn]AW[rm]AW[rl]AW[ql]AW[pn]AW[pm]AW[om]AB[nm]AB[nl]AB[ol]AB[pl]AB[pk]AB[rk]AB[qj]AB[rj]AB[sk]AB[rn]AB[qn]AB[sm]AB[sl]AW[nr]AW[mr]AB[nq]AB[mq]AB[lr]AB[lq]AB[ls]LB[ms:A]LB[ns:B]C[What is the best move ? play A , B or T if you think than none is better than 4 points.FORCE]LB[ln:T]AP[goproblems]
+(;B[ns];W[ps]C[Is this white move a mistake ? Play T for tenuki if you think it is not, else, punish white.]LB[ln:T]
+(;B[qq];W[qr]
+(;B[rr];W[rq]C[And now ?CHOICE])
+(;B[rq];W[rr]
+(;B[rp];W[qm]
+(;B[sp];W[sq]C[Wrong.CHOICE])
+(;B[sr];W[sq]C[WrongCHOICE])
+(;B[sq];W[sp]C[WrongCHOICE])
+(;B[qn];W[sq]C[And now ?CHOICE])
+(;B[rn]C[NOTTHIS])
+(;B[on];W[sq]C[And now ?CHOICE]))
+(;B[sp]
+(;W[qm]
+(;B[sq];W[rp]C[DeadCHOICE])
+(;B[sr];W[rp]
+(;B[rs];W[sq]C[WrongCHOICE])
+(;B[qs];W[sq]C[WrongCHOICE]))
+(;B[rp])
+(;B[rs];W[rp]C[WrongCHOICE])
+(;B[qs];W[rp]C[WrongCHOICE])
+(;B[rn]C[NOTTHIS])
+(;B[qn];W[rn]
+(;B[rp];W[sq]C[WrongCHOICE])
+(;B[sr];W[rp]C[WrongCHOICE])
+(;B[rs];W[rp]C[WrongCHOICE])
+(;B[qs];W[rp]C[WrongCHOICE])
+(;B[on];W[rp]C[And now ?CHOICE]))))
+(;B[sq]
+(;W[sr]
+(;B[rp];W[sp]C[WrongCHOICE])
+(;B[sp];W[rp]C[WrongCHOICE])
+(;B[rs];W[qm]
+(;B[ss];W[ms]
+(;B[ns];W[qs]
+(;B[ss];W[sp];B[rs]C[Good. Without the white mistake, the B move is two points better than the A.RIGHT])
+(;B[rs];W[sp];B[ss]C[Good. Without the white mistake, the B move is two points better than the A.RIGHT]))
+(;B[sp];W[rp]C[So close :(CHOICE])
+(;B[rp];W[sp]C[So close :(CHOICE]))
+(;B[qs]C[NOTTHIS]))
+(;B[ss];W[rs]C[White have two eyes now...CHOICE])
+(;B[qs];W[rs]C[White have two eyes now...CHOICE])
+(;B[ms];W[rs]C[White have two eyes now...CHOICE]))
+(;W[rs]
+(;B[sr];W[qm];B[ss];W[ms]
+(;B[rp];W[sp]C[CHOICE])
+(;B[sp];W[rp]C[CHOICE])
+(;B[ns];W[sp];B[qs]C[Good. Without the white mistake, the B move is two points better than the A.RIGHT]))
+(;B[ss];W[sr]C[White have two eyes now...CHOICE])))
+(;B[sr]
+(;W[sq]
+(;B[rp];W[sp]C[NoCHOICE])
+(;B[sp];W[qm]
+(;B[rs];W[ms]
+(;B[sq];W[rp]C[WrongCHOICE])
+(;B[ss];W[rp]C[WrongCHOICE])
+(;B[qs];W[ss]C[O_oCHOICE])
+(;B[ns];W[rp];B[qs]C[Good. Without the white mistake, the B move is two points better than the A.RIGHT])
+(;B[rp];W[sq]C[O_oCHOICE]))
+(;B[qs];W[rs]C[Wrong. you can not approach white now...CHOICE])
+(;B[ss];W[rp]C[An now ?CHOICE])
+(;B[sq];W[rp]C[NoCHOICE])
+(;B[ms];W[rp]C[And now ?CHOICE])))
+(;W[rs]
+(;B[sq])
+(;B[sp];W[qm]C[Wrong. you can not approach white now...CHOICE])
+(;B[rp];W[qm]
+(;B[sp];W[sq]C[WrongCHOICE])
+(;B[sq];W[sp]C[And now ?CHOICE]))))
+(;B[rs];W[sq]C[And now ?CHOICE]))
+(;B[rp];W[rq]C[And now ?CHOICE]))
+(;B[rq];W[qq]C[Black can not do anything.CHOICE])
+(;B[rr];W[qq]C[Black can not do anything.CHOICE])
+(;B[ln]C[Wrong, white have a weakness.CHOICE]))
+(;B[ms]C[];W[ps]C[Is this white move a mistake ? Play T for tenuki if you think it is not, else, punish white.]LB[ln:T]
+(;B[ln]C[Yes, now, white Q1 is not a mistake but it is because your first move was not the best one.CHOICE])
+(;B[qq];W[rq]
+(;B[qr];W[rr]
+(;B[ns];W[qs]C[WrongCHOICE])
+(;B[qs];W[rs]C[Wrong... and Gote.CHOICE]))
+(;B[rr];W[qr]C[And now ?CHOICE])
+(;B[qs];W[qr]C[And now ?CHOICE])
+(;B[ns];W[qr]C[And now ?CHOICE]))
+(;B[rq];W[qq]C[And now ?CHOICE])
+(;B[rr];W[qq]C[And now ?CHOICE])
+(;B[ns];W[qq]C[No, you have better.CHOICE]))
+(;B[ln]C[No. Black could have more than 4 points.CHOICE]))

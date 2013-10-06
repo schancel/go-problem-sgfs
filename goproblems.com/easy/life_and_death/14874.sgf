@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[48]SO[bass]CO[0]SZ[19]AW[ig]AW[jg]AW[kg]AW[lg]AW[mg]AW[gh]AW[hh]AW[nh]AW[oh]AW[gi]AW[ii]AW[oi]AW[gj]AW[oj]AW[gk]AW[hk]AW[ik]AW[jk]AW[lk]AW[mk]AW[nk]AW[ok]AB[ih]AB[jh]AB[kh]AB[lh]AB[mh]AB[hi]AB[ni]AB[hj]AB[ij]AB[jj]AB[lj]AB[mj]AB[nj]LB[hm:T]C[Please play at T if you think black is already alive.FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[hm];W[kj];B[ji];W[li];B[mi]C[
+Exactly. White cannot connect back, so black is alive.RIGHT])
+(;B[kk];W[kl]
+(;B[kj]C[Black was already alive.])
+(;B[hm];W[kj]C[Black will live. However, the sacrifice only helped white.]))
+(;B[ji]C[Black was already alive.])
+(;B[ki]C[Black was already alive.])
+(;B[kj]C[Black was already alive.])
+(;B[li]C[Black was already alive.]))

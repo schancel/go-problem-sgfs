@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[5k]DP[32]SO[zwom]CO[7]AB[bs]AB[br]AB[cr]AB[bq]AB[bp]AB[bn]AB[bm]AB[er]AB[fr]AB[fq]AB[fp]AB[fo]AB[en]AB[hr]AB[hq]AB[ir]AW[cm]AW[em]AW[eo]AW[do]AW[fn]AW[gn]AW[ho]AW[jo]AW[jq]AW[iq]AW[jr]AW[ds]AW[es]AW[cs]AW[dr]AW[eq]AW[cq]AP[goproblems]
+(;B[dp];W[ep]
+(;B[dq];W[cp]
+(;B[dq];W[dp]
+(;B[fs];W[dq];B[dn]C[RIGHT])
+(;B[dn];W[cn];B[fs]C[RIGHT]))
+(;B[dn];W[cn];B[dq];W[dp];B[fs]C[RIGHT]))
+(;B[dn];W[cn]
+(;B[co];W[dm])
+(;B[dq];W[cp];B[dq])))
+(;B[ep];W[dp];B[dq]C[white has good chance now.])
+(;B[cp];W[dp];B[dq]C[white has hope])
+(;B[dn];W[cn]
+(;B[dp]
+(;W[ep];B[dq])
+(;W[cp]C[For reference: C4 hastens White's demise.]
+(;B[ep]MA[dq]MA[co]C[RIGHT])
+(;B[dq];W[ep];B[dq])))
+(;B[co];W[dp])))

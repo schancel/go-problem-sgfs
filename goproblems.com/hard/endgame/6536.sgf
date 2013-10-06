@@ -1,0 +1,130 @@
+(;GE[endgame]DI[4d]DP[7]SO[Trucid]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]AW[ha][eb][fb][gb][ib][ec][gc][hc][gd][be][ce][de][ge][he][bf][df][ef][bg][ah][bh][ch][dh][bi][di][fi]AB[da][ga][bb][cb][db][bc][fc][ad][bd][cd][dd][ed][ee][fe][ff][hf][if][eg][fg][hg][eh][fh][hh][ih][ei][hi]C[White to play and win. No komi, no prisoners.]PL[W]
+(;W[gf]CR[gf]
+;B[ie]CR[ie]C[CHOICE]
+(;W[gg]CR[gg]
+;B[ea]CR[ea]
+(;W[gh]CR[gh]
+;B[gi]CR[gi]LB[fa:C][fd:B][id:A]C[A, B and C are miai. Please play at A.]
+(;W[id]CR[id]C[FORCE]
+(;B[fd]CR[fd]C[CHOICE]
+;W[fa]CR[fa]
+(;B[ae]CR[ae]C[CHOICE]
+;W[dg]CR[dg]
+(;B[af]CR[af]C[CHOICE]
+;W[dc]CR[dc]C[RIGHT White wins by one point. Good job.])
+(;B[dc]CR[dc]C[CHOICE]
+;W[af]CR[af]C[RIGHT White wins by one point. Good job.]))
+(;B[dg]CR[dg]C[CHOICE]
+;W[ae]CR[ae]
+(;B[cg]CR[cg]C[CHOICE]
+;W[dc]CR[dc]C[RIGHT White wins by one point. Good job.])
+(;B[dc]CR[dc]C[CHOICE]
+;W[cg]CR[cg]C[RIGHT White wins by one point. Good job.])))
+(;B[fa]CR[fa]C[CHOICE]
+;W[fd]CR[fd]
+(;B[ae]CR[ae]C[CHOICE]
+;W[dg]CR[dg]
+(;B[af]CR[af]
+;W[dc]CR[dc]C[RIGHT White wins by one point. Good job.])
+(;B[dc]CR[dc]
+;W[af]CR[af]C[RIGHT White wins by one point. Good job.]))
+(;B[dg]CR[dg]C[CHOICE]
+;W[ae]CR[ae]
+(;B[cg]CR[cg]C[CHOICE]
+;W[dc]CR[dc]C[RIGHT White wins by one point. Good job.])
+(;B[dc]CR[dc]C[CHOICE]
+;W[cg]CR[cg]C[RIGHT White wins by one point. Good job.]))))
+(;W[fd]CR[fd]C[NOTTHIS])
+(;W[fa]CR[fa]C[NOTTHIS]))
+(;W[fa]CR[fa]
+;B[gh]CR[gh]LB[id:A]C[Your last move was a mistake.  You should attack corridors ending in two point gote before blocking any such corridors.  From here on best you can do is a jigo.  Please play at A.]
+;W[id]CR[id]
+;B[fd]CR[fd]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[id]CR[id]
+;B[gh]CR[gh]LB[fa:A]C[Your last move was a mistake.  You should attack corridors ending in two point gote before blocking any such corridors.  From here on best you can do is a jigo.  Please play at A.]
+;W[fa]CR[fa]
+;B[fd]CR[fd]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[fd]CR[fd]
+;B[gh]CR[gh]LB[id:A]C[Your last move was a mistake.  You should always attack corridors ending in two point gote before playing a two point gote. From here on best you can do is a jigo.  Please play at A.]
+;W[id]CR[id]
+;B[fa]CR[fa]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo]))
+(;W[id]CR[id]
+;B[ea]CR[ea]LB[gg:A]C[Your last move was a mistake.  You should always attack corridors ending in two point gote before playing a two point gote. From here on best you can do is a jigo.  Please play at A.]
+;W[gg]CR[gg]
+;B[gh]CR[gh]LB[fa:A]C[Please play at A.]
+;W[fa]CR[fa]
+;B[fd]CR[fd]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[fd]CR[fd]
+;B[ea]CR[ea]LB[gg:A]C[Your last move was a mistake.  You should always attack corridors ending in two point gote before playing a two point gote. From here on best you can do is a jigo.  Please play at A.]
+;W[gg]CR[gg]
+;B[gh]CR[gh]LB[id:A]C[Please play at A.]
+;W[id]CR[id]
+;B[fa]CR[fa]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[ea]CR[ea]
+;B[gg]CR[gg]LB[id:A]C[Your last move was a mistake.  You should attack corridors ending in two point gote before blocking any such corridors.  From here on best you can do is a jigo.  Please play at A.]
+;W[id]CR[id]
+;B[fd]CR[fd]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[ae]CR[ae]LB[ea:A][fd:B][id:C][gg:D]TR[dc][dg]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.])
+(;W[dg]CR[dg]LB[ea:A][fd:B][id:C][gg:D]TR[dc][ae]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.])
+(;W[dc]CR[dc]LB[ea:A][fd:B][id:C][gg:D]TR[ae][dg]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.]))
+(;W[ie]CR[ie]
+;B[ea]CR[ea]LB[gf:A]C[Your last move was a mistake.  You should attack corridors ending in two point gote before blocking any such corridors.  From here on best you can do is a jigo.  Please play at A.]
+;W[gf]CR[gf]
+;B[gg]CR[gg]LB[fa:A]C[Please play at A.]
+;W[fa]CR[fa]
+;B[fd]CR[fd]LB[dg:A]C[Please play at A.]
+;W[dg]CR[dg]
+;B[ae]CR[ae]LB[af:A]C[Please play at A.]
+;W[af]CR[af]
+;B[dc]CR[dc]C[Jigo])
+(;W[ea]CR[ea]
+;B[ie]CR[ie]LB[gf:A]C[Your last move was a mistake.  You should attack corridors ending in two point gote before blocking any such corridors.  From here on best you can do is a jigo.  Please play at A.]
+;W[gf]CR[gf]
+;B[gg]CR[gg]LB[id:A]C[Please play at A.]
+;W[id]CR[id]
+;B[fd]CR[fd]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[fd]CR[fd]
+;B[ie]CR[ie]LB[gf:A]C[Your last move was a mistake. You should attack corridors ending in two point gote before playing two point gote.  From here on best you can do is a jigo.  Please play at A.]
+;W[gf]CR[gf]
+;B[ea]CR[ea]LB[gg:A]C[Please play at A.]
+;W[gg]CR[gg]
+;B[gh]CR[gh]LB[id:A]C[Please play at A.]
+;W[id]CR[id]
+;B[fa]CR[fa]LB[ae:A]C[Please play at A.]
+;W[ae]CR[ae]
+;B[dg]CR[dg]LB[cg:A]C[Please play at A.]
+;W[cg]CR[cg]
+;B[dc]CR[dc]C[Jigo])
+(;W[ae]CR[ae]LB[ea:A][fd:B][ie:C][gf:D]TR[dc][dg]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.])
+(;W[dg]CR[dg]LB[ea:A][fd:B][ie:C][gf:D]TR[dc][ae]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.])
+(;W[dc]CR[dc]LB[ea:A][fd:B][ie:C][gf:D]TR[ae][dg]C[Your last move was a mistake.  Best you can do now is a jigo.  This move, as well as moves labeled with a triangle, or any similar empty corridors are called numbers. One should always play on hotter plays first, such as A-D, before playing on numbers.]))

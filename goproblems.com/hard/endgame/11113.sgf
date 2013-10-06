@@ -1,0 +1,19 @@
+(;GE[endgame]DI[4d]DP[8]SO[Field Mouse]CO[0]AW[dp]AW[eq]AW[dr]AW[cr]AB[er]AB[fq]AB[gr]AB[fp]AB[go]AB[ho]AB[io]AB[in]AB[im]AB[il]AW[cn]AW[cl]AW[ck]AW[bj]AW[bi]AB[ch]AB[ci]AB[cj]AB[dj]AB[dk]AB[dl]AB[dn]AB[hk]AB[gj]AW[gq]AW[hp]AW[ip]AW[jp]AW[jo]AW[jn]AW[jm]AW[jl]TR[dn]AW[hq]C[Black just played the marked stone. How should white respond in a common game?]AB[es]AW[bh]AB[bg]AB[cg]AB[bf]AW[cs]AB[ds]AB[fr]AB[gs]AW[hr]AW[hs]AW[jr]AP[goproblems]
+(;W[dm];B[em];W[cm];B[do];W[co];B[ep];W[dq]C[This is worse than the solution.])
+(;W[do];B[cm];W[bm];B[dm]
+(;W[bl]C[The second best white can do. White can freely hane at a13 or block black a12 move. White has also nice follow up at E5 or gets sente if black protects his territory there.])
+(;W[bk];B[bn];W[co];B[am];W[bl]C[This is not the best for white as you will have to protect at B5 sometime and lose one point.])
+(;W[al]C[This is not the best for white as the A13 move is smaller than in the second best solution and black A12 move is bigger.])
+(;W[bn]C[This is not the best result as the A13 move is smaller than in the second best solution and black A12 move is bigger now.]))
+(;W[cm];B[do];W[co];B[ep]C[This is not the best result for white.])
+(;W[co]
+(;B[do]C[A slight mistake: how to punish?]
+(;W[dm];B[em];W[cm])
+(;W[eo]
+(;B[ep];W[dm];B[dq]
+(;W[cp]C[White does well.RIGHT])
+(;W[en];B[cq]C[Bad for black]))
+(;B[en];W[ep];B[fo];W[dm];B[em];W[cm]C[RIGHT]))
+(;W[ep];B[eo];W[dm];B[em];W[cm]C[White could do a bit better.]))
+(;B[eo];W[dm];B[em];W[cm]C[Probably the best black can get.RIGHT]))
+(;W[eo];B[co];W[do];B[cm];W[bn];B[bm]C[Hurts]))

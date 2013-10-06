@@ -1,0 +1,13 @@
+(;GE[endgame]DI[3k]DP[25]SO[crazygamer]CO[0]AB[ob]AB[oc]AB[od]AB[pd]AB[pe]AB[pf]AB[pg]AB[qg]AB[ne]AB[nf]AB[nh]AB[ni]AB[lg]AB[lh]AW[nd]AW[nc]AW[nb]AW[oa]AW[pb]AW[pc]AW[qd]AW[rd]AW[qe]AW[qf]AW[rg]AW[rh]AW[me]AW[ld]AB[qc]AB[rf]AP[goproblems]
+(;B[rc]
+(;W[sf]C[CHOICE]
+(;B[pa];W[qa]
+(;B[qb]
+(;W[pa]C[CHOICE]
+(;B[ra];W[na];B[sd];W[re];B[sb]C[RIGHT])
+(;B[sd];W[re])))
+(;B[sd];W[re]))
+(;B[sd];W[re];B[pa];W[qa];B[qb];W[pa];B[ra];W[na];B[sb]C[RIGHT])
+(;B[qb];W[pa];B[qa];W[na];B[sd];W[re])))
+(;B[qb];W[pa])
+(;B[pa];W[qa];B[qb];W[pa];B[ra];W[na];B[rc];W[sc]))

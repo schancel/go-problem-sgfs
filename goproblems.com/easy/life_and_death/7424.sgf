@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[47]SO[llel]CO[8]AW[ra]AW[rb]AW[rc]AW[qc]AW[pd]AW[od]AW[nd]AW[md]AW[ma]AW[lc]AW[ka]AW[kb]AB[qa]AB[qb]AB[pa]AB[pc]AB[ob]AB[oc]AB[la]AB[lb]
+(;B[mb];W[nb];B[na];W[nc])
+(;B[mb];W[nb];B[nc];W[mc])
+(;B[oa];W[mb])
+(;B[nb]
+(;W[mb]C[CHOICE];B[na]C[RIGHT])
+(;W[na]C[CHOICE];B[mb]C[RIGHT]))
+(;B[na];W[nb]))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[4d]DP[8]SO[Field Mouse]CO[0]SZ[9]AB[hb]AB[hc]AB[ic]AB[hd]AB[gd]AB[ge]AB[fe]AB[ee]AB[ff]AB[ed]AB[ec]AB[fc]AB[dd]AW[gc]AW[gb]AW[ha]AW[ib]AW[fb]AW[ga]AW[eb]AW[db]AW[dc]AW[cc]AW[cd]AW[ce]AW[de]AW[df]AW[eg]AW[fg]AW[gg]AW[gf]AW[hf]AW[he]AW[hg]AW[ih]AW[hi]AB[hh]AB[gh]AB[fh]AB[eh]AB[dh]AB[cg]AB[cf]AB[bf]AB[ba]AB[ca]AB[da]AB[ea]AB[fa]AW[cb]AB[bb]AB[bc]AB[be]C[Looks like there is no hope for white, especially if it is blacks turn. What will you do now?]AW[ef]AB[dg]AW[ah]AW[bg]AW[ch]AW[bi]AW[ag]AB[ab]AW[ci]AW[di]AW[ei]AB[bd]AW[af]AB[ad]AW[ae]AP[goproblems]
+(;B[ia];W[id]
+(;B[ie];W[ib]
+(;B[id];W[if];B[ia]C[Nice. Black wins now!RIGHT])
+(;B[if];W[ig]
+(;B[ia];W[id];B[ie];W[ib]
+(;B[gi])
+(;B[id]C[Nice, black wins!RIGHT])
+(;B[if];W[id];B[ie];W[if];B[ia];W[id];B[gi];W[ib];B[ie]C[This position is triple ko. As black cannot sacrifice his stones, the game will end with no result!]))
+(;B[gi];W[id];B[ie];W[if]))
+(;B[ig];W[if];B[gi];W[ig]))
+(;B[if];W[ig]
+(;B[ie];W[id];B[ie])
+(;B[gi];W[ie];B[ii];W[ib]))
+(;B[ig];W[if]))
+(;B[id];W[ie];B[ia];W[ig]C[Black will not win the ko])
+(;B[ie];W[if];B[ia];W[id];B[gi];W[ig]C[This position is triple ko. As black cannot sacrifice his stones, the game will end with no result!])
+(;B[if];W[ie];B[gi];W[id];B[ia];W[ig]C[Black will not win this.])
+(;B[ig];W[id]
+(;B[ia];W[if]
+(;B[gi];W[ig]C[This position is triple ko. As black cannot sacrifice his stones, the game will end with no result!])
+(;B[ie];W[ib];B[gi]))
+(;B[ie]))
+(;B[gi];W[ig];B[ie];W[if]
+(;B[ii];W[id];B[ia];W[hi];B[ie];W[ib];B[ii];W[id];B[ia];W[hi]C[This position is triple ko. As black cannot sacrifice his stones, the game will end with no result!])
+(;B[ia];W[id];B[ii];W[ib];B[ie];W[hi]C[This position is triple ko. As black cannot sacrifice his stones, the game will end with no result!])))

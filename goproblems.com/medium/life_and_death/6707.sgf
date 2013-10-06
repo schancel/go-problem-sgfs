@@ -1,0 +1,48 @@
+(;GE[life and death]DI[2k]DP[23]SO[Haze]CO[6]AB[bd]AB[cd]AB[dc]AB[ec]AB[fc]AB[fe]AB[ff]AB[ef]AB[jd]AB[jf]AB[jh]AB[ih]AB[gh]AB[gi]AB[fj]AB[ej]AB[dj]AB[di]AB[ci]AB[bf]AW[dd]AW[ed]AW[ee]AW[df]AW[ce]AW[be]AW[ae]AW[af]AW[cg]AW[ch]AW[eg]AW[eh]AW[fi]AW[fg]AW[gg]AW[gj]AW[hj]AB[ag]AW[ld]AW[lf]AW[lh]AW[em]AB[cm]C[Black to kill.]AP[goproblems]
+(;B[bg]
+(;W[ah]
+(;B[bi];W[bh];B[dh]C[RIGHT])
+(;B[bh];W[bi];B[ai];W[bj])
+(;B[dh]
+(;W[bi];B[bj]C[Correct.  White can get neither seki nor life from this.RIGHT])
+(;W[aj];B[bi];W[bh];B[ai]C[RIGHT])))
+(;W[bh]
+(;B[bi]
+(;W[ah];B[dh]C[RIGHT])
+(;W[dh];B[ah]))
+(;B[dh];W[bi];B[bj];W[ai]
+(;B[dg]C[This is not seki because the B15 group is not attached to the B12 group, and so C14 is not white territory..RIGHT])
+(;B[aj];W[dg]C[Seki.  Black can do better.]))
+(;B[ah];W[bi])))
+(;B[bh];W[bg]
+(;B[dh];W[bi])
+(;B[bi];W[dh])
+(;B[ah];W[bi])
+(;B[ai];W[dh]))
+(;B[ah];W[bg]
+(;B[dh];W[bi]C[If white would have made the mistake of playing B11 at A11, black could kill.  But B11 is the responce here that gives life.])
+(;B[bi];W[dh]))
+(;B[bi]
+(;W[bg]
+(;B[dh];W[bh]
+(;B[ah];W[ai]
+(;B[ah]C[Correct.RIGHT])
+(;B[aj];W[ah]))
+(;B[ai];W[ah]))
+(;B[ah];W[dh]))
+(;W[dh];B[bg];W[bh];B[ah]))
+(;B[ai];W[bg];B[dh];W[ah])
+(;B[dh];W[bi]
+(;B[bj];W[bg]
+(;B[ai];W[ah];B[bh]C[Ko.  Black can do better.])
+(;B[ah];W[ai]C[White lives.]))
+(;B[bg];W[bj]C[White can live easily.])
+(;B[dg];W[bj]C[White lives nicely along the bottom.  Your capture of five stones is a poor result as black could have killed the whole group.])
+(;B[bh]
+(;W[bj]C[White can extend along the second line or play B13 if she needs to.])
+(;W[bg]C[White lives with an eye at B14 and another around A12.])))
+(;B[fd];W[dh]
+(;B[bg];W[bh];B[ah];W[bi]C[White lives.  The potential loss of the three stones is nothing.])
+(;B[bh];W[bg])
+(;B[ah];W[bg];B[bi])
+(;B[de];W[bg]C[White lives.  You got the six points from capturing, but you could have killed it all.])))

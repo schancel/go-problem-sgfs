@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[6k]DP[36]SO[DarkSycthe]CO[0]AW[pq]AW[pr]AW[ps]AW[os]AW[nr]AW[nq]AW[lq]AW[kp]AW[jo]AB[ko]AB[kn]AB[mo]AB[np]AB[op]AB[oq]AB[or]AB[pp]AB[qq]AB[qr]AW[qp]AW[rp]AW[rn]TR[os]TR[ps]TR[pr]TR[pq]C[Black to capture the marked stones. There are two variations white will play (for the correct first move). Try them both!]AP[goproblems]
+(;B[mq]
+(;W[mr]
+(;B[ns];W[ms]
+(;B[qs];W[ns];B[lr];W[mp];B[ls];W[mq];B[kq];W[lp];B[jp]C[RIGHT])
+(;B[lr];W[mp]
+(;B[qs];W[ns])
+(;B[ls];W[kr];B[qs]C[RIGHT])))
+(;B[qs];W[ns]
+(;B[mp];W[lr])
+(;B[lr];W[mp]))
+(;B[lr];W[ns]
+(;B[qs];W[mp])
+(;B[mp];W[kr])))
+(;W[lr]
+(;B[mr];W[ms]
+(;B[qs];W[mp];B[ns]C[RIGHT])
+(;B[ns];W[nr];B[qs];W[ns]))
+(;B[ns];W[ms])
+(;B[qs];W[ns];B[mr]C[RIGHT])))
+(;B[qs];W[ns];B[mq];W[mr]
+(;B[mp];W[lr])
+(;B[lr];W[mp]))
+(;B[ns];W[ms];B[qs];W[ns];B[mq];W[lr])
+(;B[mr];W[mq])
+(;B[ms];W[mr])
+(;B[lr];W[mq]))

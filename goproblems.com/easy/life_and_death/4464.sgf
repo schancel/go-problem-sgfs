@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[31]SO[huhss]CO[6]SZ[19]AW[br]AW[cs]AW[ds]AW[cq]AW[cp]AW[co]AW[do]AW[eo]AW[fo]AW[go]AW[gp]AW[hq]AW[hr]AW[jr]AB[cr]AB[dr]AB[dq]AB[dp]AB[ep]AB[fp]AB[gq]AB[gr]AB[fr]AB[fs]AB[hs]C[black play]AP[MultiGo:3.6.0]
+(;B[eq];W[es];B[bs];W[as]
+(;B[er]
+(;W[bs];B[bq]C[RIGHT])
+(;W[bq];B[bs];W[cs];B[ds]C[RIGHT]))
+(;B[bq];W[bp]))
+(;B[es];W[eq]
+(;B[bs];W[cs];B[bq];W[as];B[ds];W[bp];B[bs];W[aq];B[ar];W[bq]C[wrong])
+(;B[bq];W[as]
+(;B[aq];W[bp];B[bs];W[cs];B[ds];W[ap];B[bs];W[ar]C[wrong])
+(;B[bs];W[cs];B[ds];W[bp];B[bs];W[aq];B[ar];W[bq]C[wrong])))
+(;B[bs];W[eq]
+(;B[es];W[cs];B[bq];W[as];B[ds];W[bp];B[bs];W[aq];B[ar];W[bq]C[wrong])
+(;B[bq];W[as];B[es];W[bp];B[bs];W[cs];B[ds];W[aq];B[bs];W[ar]C[wrong]))
+(;B[bq]
+(;W[eq]
+(;B[ar];W[bs];B[es]C[RIGHT])
+(;B[es];W[as];B[bs];W[cs];B[ds];W[bp];B[bs];W[aq];B[ar];W[bq]C[wrong]))
+(;W[bs];B[es];W[bp];B[eq]C[RIGHT])
+(;W[as];B[eq];W[es];B[er];W[bp];B[bs];W[cs];B[ds]C[RIGHT])
+(;W[ar];B[eq];W[es];B[er];W[bp];B[bs];W[cs];B[ds]C[RIGHT])
+(;W[aq];B[eq];W[es];B[bs];W[as];B[er];W[bp];B[bs];W[cs];B[ds]C[RIGHT])
+(;W[bp];B[eq];W[es];B[bs];W[as];B[er];W[aq];B[bs];W[cs];B[ds]C[RIGHT])))

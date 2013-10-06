@@ -1,0 +1,80 @@
+(;GE[life and death]DI[15k]DP[62]SO[MechanicalPoet]CO[8]AW[hn]AW[in]AW[jn]AW[go]AW[lo]AW[gp]AW[kp]AW[eq]AW[gq]AW[kq]AW[lq]AW[fr]AW[lr]AW[es]AW[ls]AB[io]AB[hp]AB[jp]AB[hq]AB[iq]AB[jq]AB[gr]AB[ir]AB[kr]AB[fs]AB[gs]AB[ks]C[White to ruin Black's day.]PL[W]
+(;W[is]
+(;B[jr]C[CHOICE]
+(;W[hr];B[hs]
+(;W[hr]C[That's it! J1 threatens two snapbacks at once, so Black can't escape them both.RIGHT])
+(;W[ho];B[js])
+(;W[jo];B[js]))
+(;W[hs];B[hr]LB[ho:A]LB[jo:B]C[Black has one eye at K1, and will get a second by playing at either A or B (if White plays one, Black plays the other).])
+(;W[js];B[hs])
+(;W[ho]
+(;B[jo]C[CHOICE]
+(;W[hr];B[hs];W[hr]C[Well done!RIGHT])
+(;W[hs];B[hr])
+(;W[js];B[hs]))
+(;B[hr]C[CHOICE]
+(;W[jo]C[Good! J4 is a false eye.RIGHT])
+(;W[js];B[jo])
+(;W[hs];B[jo])))
+(;W[jo]
+(;B[hr]C[CHOICE]
+(;W[ho]C[Good! J4 is a false eye.RIGHT])
+(;W[js];B[ho])
+(;W[hs];B[ho]))
+(;B[ho]C[CHOICE]
+(;W[hr];B[hs];W[hr]C[Well done!RIGHT])
+(;W[hs];B[hr])
+(;W[js];B[hs]))))
+(;B[hr]C[CHOICE]
+(;W[jr];B[js]
+(;W[jr]C[That's it! J1 threatens two snapbacks at once, so Black can't escape them both.RIGHT])
+(;W[ho];B[hs])
+(;W[jo];B[hs]))
+(;W[hs];B[js])
+(;W[js];B[jr]LB[ho:A]LB[jo:B]C[Black has one eye at H1, and will get a second by playing at either A or B (if White plays one, Black plays the other).])
+(;W[jo]
+(;B[ho]C[CHOICE]
+(;W[jr];B[js];W[jr]C[Well done!RIGHT])
+(;W[js];B[jr])
+(;W[hs];B[js]))
+(;B[jr]C[CHOICE]
+(;W[ho]C[Good! J4 is a false eye.RIGHT])
+(;W[js];B[ho])
+(;W[hs];B[ho])))
+(;W[ho]
+(;B[jo]C[CHOICE]
+(;W[jr];B[js];W[jr]C[Well done!RIGHT])
+(;W[js];B[jr])
+(;W[hs];B[js]))
+(;B[jr]C[CHOICE]
+(;W[jo]C[Good! J4 is a false eye.RIGHT])
+(;W[js];B[jo])
+(;W[hs];B[jo])))))
+(;W[jr];B[js])
+(;W[hr];B[hs])
+(;W[js];B[jr]
+(;W[is];B[hs])
+(;W[hs];B[hr]C[Now Black will have two eyes when he plays J1. White cannot play there first, since it would be self-capture.])
+(;W[hr];B[hs])
+(;W[jo];B[ho]
+(;W[is];B[hs])
+(;W[hr];B[hs])
+(;W[hs];B[hr]))
+(;W[ho];B[jo]
+(;W[is];B[hs])
+(;W[hr];B[hs])
+(;W[hs];B[hr])))
+(;W[hs];B[hr]
+(;W[is];B[js])
+(;W[jr];B[js])
+(;W[js];B[jr]C[Now Black will have two eyes when he plays J1. White cannot play there first, since it would be self-capture.])
+(;W[ho];B[jo]
+(;W[is];B[js])
+(;W[js];B[jr])
+(;W[jr];B[js]))
+(;W[jo];B[ho]
+(;W[js];B[jr])
+(;W[jr];B[js])
+(;W[is];B[js])))
+(;W[jo];B[is])
+(;W[ho];B[is]))

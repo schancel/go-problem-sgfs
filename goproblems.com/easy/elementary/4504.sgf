@@ -1,0 +1,12 @@
+(;GE[elementary]DI[7k]DP[43]SO[karmaGfa]CO[5]SZ[19]AW[oa]AW[ob]AW[rb]AW[oc]AW[qc]AW[nd]AW[pd]AW[pe]AW[qe]AW[re]AW[se]AB[pa]AB[qa]AB[ra]AB[pb]AB[sb]AB[pc]AB[sc]AB[qd]AB[rd]AB[sd]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7]C[Using Japanese rules, how many points has Black ?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]PL[B]
+(;B[ka]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7]C[Right, none. Both the White and Black stones are alive in seki, so the area they share is dame. All stones of a group with unremovable dame and any remaining liberties of that group are in seki. So T19 is part of the seki and pointless (in a sense).RIGHT])
+(;B[kb]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7]C[Sorry, but no. All stones of a group that has unremovable dame are said to be part of the seki, and so are any remaining liberties of that group. As T19 is adjacent to stones in seki, it is part of the seki and pointless (in a sense).])
+(;B[kc]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7])
+(;B[kd]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7])
+(;B[la]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7])
+(;B[lb]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7])
+(;B[lc]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7])
+(;B[ld]LB[ka:0]LB[la:4]LB[kb:1]LB[lb:5]LB[kc:2]LB[lc:6]LB[kd:3]LB[ld:7]C[No. It would be if you could capture the White stones, but you can't.])
+(;B[sa];W[rc];B[qb];W[rc]C[Can't play in a seki...])
+(;B[rc];W[sa])
+(;B[qb];W[sa]))

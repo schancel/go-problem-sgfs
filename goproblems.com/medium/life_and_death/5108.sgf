@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[25]SO[marwin]CO[9]AW[lq]AW[pq]AW[qq]AW[rq]AW[sq]AW[qr]AW[sr]AB[no]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[oq]AB[pr]LB[qm:T]C[If you think white is alive - play Tenuki at T, otherwise kill white]
+(;B[rs];W[or]
+(;B[nr];W[ps]
+(;B[ns];W[os];B[qs]C[RIGHT])
+(;B[qs];W[ns]
+(;B[mr];W[rr];B[ms];W[ss];B[os])
+(;B[ms];W[mr];B[os])))
+(;B[qs];W[ps];B[nr])
+(;B[ps];W[qs]
+(;B[nr];W[os])
+(;B[os];W[ns])))
+(;B[or];W[rs])
+(;B[os];W[rs])
+(;B[nr];W[rs])
+(;B[qs];W[rs])
+(;B[qm]C[There is some way . . .]))

@@ -1,0 +1,38 @@
+(;GE[life and death]DI[3d]DP[9]SO[Hans]CO[8]AW[al]AW[bm]AW[cm]AW[dn]AW[en]AW[ap]AW[dp]AW[ep]AW[aq]AW[bq]AW[cq]AB[bk]AB[ck]AB[dl]AB[el]AB[am]AB[fm]AB[gm]AB[an]AB[bn]AB[cn]AB[ao]AB[do]AB[fo]AB[go]AB[bp]AB[cp]AB[dq]AB[fq]AB[gq]AB[dr]AB[bs]C[Black to play.]
+(;B[eo];W[co]
+(;B[bl];W[bo]
+(;B[an]
+(;W[cp]
+(;B[am];W[bn]
+(;B[dm];W[ao];B[am]C[RIGHT CHOICE])
+(;B[ak];W[dm]C[White lives.]))
+(;B[dm];W[am]C[White lives.]))
+(;W[am]
+(;B[cp];W[dm];B[bn]C[CHOICE RIGHT])
+(;B[dm];W[cp]C[White lives.])))
+(;B[cp];W[an]C[White lives.])
+(;B[cn];W[an]LB[cp:A]LB[dm:B]C[A and B are miai for the second eye.]))
+(;B[dm];W[bo]
+(;B[cn];W[an]LB[cp:A]LB[bl:B]C[A and B are miai for living.])
+(;B[cp];W[an]LB[cn:A]LB[bl:B]C[A and B are miai for living.])
+(;B[an];W[cp]C[White lives.]))
+(;B[bo];W[co]
+(;B[cp];W[an];B[bo];W[bn]C[];B[cn]C[This is only ko.])
+(;B[bo];W[bn];B[dm];W[ao]C[White lives.])
+(;B[bn];W[bo]LB[an:A]LB[cp:B]C[A and B are miai for the second eye.])
+(;B[cn];W[cp]C[White lives.])))
+(;B[co];W[eo]C[White lives.])
+(;B[bl];W[eo]
+(;B[co];W[bo]C[White lives.])
+(;B[dm];W[co]
+(;B[cl];W[bo]C[White lives.])
+(;B[ak];W[bo]C[White lives.]))
+(;B[ak];W[co]
+(;B[al];W[bo]C[White lives.])
+(;B[bo];W[al]C[Oops.])))
+(;B[dm];W[eo]
+(;B[bl];W[co]
+(;B[cl];W[bo]C[White lives.])
+(;B[ak];W[bo]C[White lives.]))
+(;B[co];W[bo]C[White lives.]))
+(;B[bo];W[eo]C[White lives.]))

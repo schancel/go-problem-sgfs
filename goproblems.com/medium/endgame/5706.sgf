@@ -1,0 +1,24 @@
+(;GE[endgame]DI[2k]DP[21]SO[berni]CO[8]SZ[13]AB[dc]AB[ce]AB[dg]AB[dh]AB[ch]AB[di]AB[cj]AB[ck]AB[cl]AB[dl]AB[ek]AB[eg]AB[fg]AB[gg]AB[gf]AB[ge]AB[he]AB[hd]AB[id]AB[jd]AB[ic]AB[ib]AB[hb]AW[jb]AW[kb]AW[jc]AW[kd]AW[ke]AW[je]AW[ie]AW[hf]AW[hg]AW[ih]AW[gh]AW[fh]AW[eh]AW[ei]AW[dj]AW[dk]AW[el]AW[fj]AW[gj]AW[ik]AW[kj]AB[if]C[No komi. No prisoners. Japanese rules. White to win the game.]GM[1]FF[4]CA[UTF-8]ST[2]RU[Japanese]KM[0.00]
+(;W[fl];B[ej]
+(;W[fk]C[White will win by 1 point.RIGHT])
+(;W[ia];B[ha];W[ja];B[fk];W[gk];B[em];W[gm];B[dm]C[Black wins by 1 point.])
+(;W[dm];B[fk];W[gk];B[cm];W[gl];B[em];W[fm];B[ja];W[ka];B[ia]C[Black will win the ko an get the D1 point. Black wins by 3 points.]))
+(;W[ej];B[fl]
+(;W[fk];B[em];W[gl];B[gm];W[fm];B[hh]C[If you want to answer the ko thread, please do that at the marked position.]TR[ig]
+(;W[ig];B[fl]
+(;W[hm];B[ek];W[fm];B[el]
+(;W[ia];B[ha];W[ja];B[gm];W[hl];B[fm]C[Jigo.])
+(;W[gm];B[ja];W[ka];B[ia]C[Jigo.]))
+(;W[ek];B[fm];W[hm];B[dm];W[hl];B[ja];W[ka];B[ia]C[Jigo.]))
+(;W[hi]C[NOTTHIS]))
+(;W[em];B[fk]C[Back captures the two stones at the bottom and wins.]))
+(;W[fk];B[fl]
+(;W[ej];B[em];W[gl];B[gm];W[fm];B[hh]C[If you want to answer the ko thread, please do that at the marked position.]TR[ig]
+(;W[ig];B[fl]
+(;W[hm];B[ek];W[fm];B[el]
+(;W[ia];B[ha];W[ja];B[gm];W[hl];B[fm]C[Jigo.])
+(;W[gm];B[ja];W[ka];B[ia]C[Jigo.]))
+(;W[ek];B[fm];W[hm];B[dm];W[hl];B[ja];W[ka];B[ia]C[Jigo.]))
+(;W[hi]C[NOTTHIS]))
+(;W[em];B[ej];W[gl];B[dm];W[fm];B[ja];W[ka];B[ia]C[Jigo.]))
+(;W[em];B[fk]C[Black will either capture at E4 or the two stones at the bottom. What ever happens, black will win.]))

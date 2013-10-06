@@ -1,0 +1,20 @@
+(;GE[life and death]DI[6k]DP[38]SO[Field Mouse]CO[0]AB[eb]AB[ec]AB[fd]AB[gd]AB[hd]AB[ic]AB[jc]AW[kb]AW[kd]AW[jd]AW[id]AW[ie]AW[he]AW[ge]AW[fe]AW[ee]AW[dc]AW[db]AB[ed]AW[de]AB[jb]AW[fb]AB[fa]AW[ga]AB[ea]AW[lb]AW[ld]AW[dd]AW[cb]LB[df:R1]LB[ff:R2]C[Choose if you wish resistance nr1 or resistance nr2FORCE]AP[goproblems]
+(;W[df];B[ff]C[Resistance nr1. White to play and kill black in the best way possible!];W[hb];B[gb];W[gc];B[ia]
+(;W[hc];B[ha]
+(;W[gb]C[And black is killed :)RIGHT])
+(;W[da]C[Only ko!]))
+(;W[ha];B[hc]C[Seki])
+(;W[ka];B[hc];W[ja]C[Thank trucid for this being marked solved! :)RIGHT]))
+(;W[ff];B[df]C[Resistance nr2: White to play and kill black in the best way possible!]
+(;W[hb];B[hc]
+(;W[ja];B[ia];W[ka]C[And black is dead :)RIGHT])
+(;W[gc];B[ia]C[Seki]))
+(;W[ja];B[hb]
+(;W[ha];B[gb])
+(;W[ia];B[ha])
+(;W[gb];B[ia]
+(;W[ka];B[gc])
+(;W[gc];B[hc])
+(;W[ha];B[ka])))
+(;W[ia];B[ja];W[hb];B[hc];W[gb];B[ib]C[This will be only ko.])
+(;W[hc];B[hb])))

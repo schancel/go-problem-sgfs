@@ -1,0 +1,20 @@
+(;GE[life and death]DI[10k]DP[50]SO[Snow Dragon]CO[0]AB[bc]AB[cc]AB[cd]AB[dd]AB[ed]AB[fc]AB[fb]AB[fa]AW[ab]AW[bb]AW[ba]AW[cb]AW[dc]AW[eb]C[Black to kill.]AP[goproblems]
+(;B[da];W[ea]
+(;B[db];W[ca]
+(;B[db];W[da];B[ec]C[RIGHT])
+(;B[ec];W[db])
+(;B[da];W[db]))
+(;B[ec];W[db])
+(;B[ca];W[db]))
+(;B[ea];W[da];B[ec];W[db])
+(;B[db];W[da]
+(;B[ea];W[db])
+(;B[ec];W[db]))
+(;B[ca];W[db]
+(;B[da];W[ea])
+(;B[ea];W[da])
+(;B[ec];W[ea]))
+(;B[ec];W[db]
+(;B[ea];W[da])
+(;B[da];W[ea])
+(;B[ca];W[ea])))

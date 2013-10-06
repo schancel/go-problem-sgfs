@@ -1,0 +1,21 @@
+(;GE[life and death]DI[1d]DP[15]SO[Field Mouse]CO[0]AB[qr]AB[qq]AB[oq]AB[nq]AB[mr]AB[os]AW[rq]AW[pp]AW[op]AW[np]AW[mp]AW[lr]AB[rr]AW[sr]AW[rp]AB[qp]AW[qo]AW[pn]AW[rm]AW[qm]AB[lq]AB[kq]AW[kr]AW[jq]AW[jp]AW[ko]AW[lo]AW[jo]AW[mo]AW[pm]AW[on]AW[om]AW[mm]AW[mn]AW[nn]AW[nm]AW[lm]AW[km]AW[jm]AW[jn]AW[po]AW[oo]AW[iq]AW[hq]AW[hr]AW[hs]AW[hp]AW[ho]AW[io]AW[im]AW[hm]AW[in]AW[hn]AW[ro]AW[so]AW[sp]AW[sq]AW[sm]AW[rn]AW[qn]AW[hl]AW[ik]AW[kj]AW[ni]AW[ph]AW[qi]AW[rj]AW[sk]AW[rl]AW[ql]AW[pl]AW[ol]AW[nl]AW[kk]AW[jl]AW[ll]AW[mk]AW[nk]AW[oj]AW[pj]AW[qj]AW[qk]AW[si]AW[rh]AW[oh]AW[nh]AW[mh]AW[mi]AW[li]AW[ki]AW[ji]AW[ij]AW[hj]AW[hk]AW[ii]AW[jh]AW[kh]AW[lh]AW[lj]AW[jj]AW[nj]AW[pi]AW[oi]AW[ok]C[You are an avalanche commander and your goal is to destroy the black group with your white avalanche! :-)]AP[goproblems]
+(;W[rs]
+(;B[ms]C[CHOICE]
+(;W[pr];B[pq])
+(;W[qs];B[nr];W[pr];B[pq];W[ps];B[or];W[ss]C[Good! Black group is avalanched to go death!RIGHT])
+(;W[nr];B[qs];W[pr];B[pq];W[or]C[Seki - you could do better.]))
+(;B[qs];W[pr];B[pq];W[ms]C[RIGHT]))
+(;W[pq];B[pr])
+(;W[ms];B[pr];W[nr];B[mq];W[ns];B[or]C[Black lives!])
+(;W[pr];B[pq]AW[rn]
+(;W[rs];B[or]C[Black lives!])
+(;W[ms];B[rs]
+(;W[ps];B[ns];W[or];B[ls]
+(;W[jr];B[mq]C[Seki.])
+(;W[ks];B[jr]C[You could avalanche black better.]))))
+(;W[ps];B[or])
+(;W[mq];B[ms])
+(;W[nr];B[or])
+(;W[qs];B[rs])
+(;W[or];B[pr])
+(;W[ns];B[ms];W[or];B[nr]))

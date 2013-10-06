@@ -1,0 +1,4 @@
+(;GE[best move]DI[7k]DP[42]SO[magrock]CO[0]AB[dr]AB[er]AB[dq]AB[ep]AB[fq]AW[cq]AW[bq]AB[cp]AB[co]AW[do]AW[dp]AW[eo]AW[en]AW[dn]AW[dm]AW[cn]AW[dl]AB[fm]AB[fn]AB[em]AB[fo]AB[gp]AW[qp]AW[oq]AB[pm]LB[lq:A]LB[jq:C]LB[kq:B]C[White to play A, B or C. Which is best?FORCE]AP[goproblems]
+(;W[lq]C[Because of Black's extremely thick position, White should extend no farther than the two-space jump (nikken tobi)RIGHT])
+(;W[kq];B[mq]TR[er]TR[fq]TR[gp]TR[fo]TR[fn]TR[fm]TR[ep]C[Too far extension. Black can now use his thickness on the left as reinforcements for his invasion at N3])
+(;W[jq];B[mq]TR[er]TR[fq]TR[gp]TR[fn]TR[fo]TR[fm]TR[ep]C[Too far extension. Black can now use his thickness on the left as reinforcements for his invasion at N3]))

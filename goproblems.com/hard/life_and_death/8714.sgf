@@ -1,0 +1,107 @@
+(;GE[life and death]DI[4d]DP[8]SO[kaf]CO[9]AB[bp]AB[cp]AB[dp]AB[do]AB[dn]AB[cm]AB[fn]AB[ho]AB[hp]AB[gq]AB[iq]AW[ap]AW[bq]AW[cq]AW[dq]AW[eq]AW[ep]AW[fp]AW[gp]AW[er]AW[ds]AB[ar]AB[cr]AB[cs]AB[dr]AW[bo]AW[ao]AB[bm]C[Black to kill]AP[goproblems]
+(;B[gs]
+(;W[fr]
+(;B[fs]
+(;W[es]
+(;B[aq];W[bs]C[if you believe, that b can 'tenuki', - play at TCHOICEFORCE]LB[hm:T]TR[hm]
+(;B[br];W[as];B[cr]C[RIGHT])
+(;B[hm];W[as]C[if you believe, that b can 'tenuki', - play at TFORCE]TR[im]LB[im:T]
+(;B[br];W[bs]C[if you believe, that b can 'tenuki', - play at TFORCE]LB[im:T]TR[im]
+(;B[im];W[as]
+(;B[cr]C[RIGHT])
+(;B[aq];W[cr]))
+(;B[as];W[bs]
+(;B[cr];W[aq])
+(;B[ar];W[aq])))
+(;B[im];W[br]
+(;B[aq];W[cr])
+(;B[cr];W[aq]))))
+(;B[br];W[aq])
+(;B[bs];W[aq])
+(;B[as];W[aq]))
+(;W[br];B[aq]C[RIGHT])
+(;W[aq];B[es]C[RIGHT]))
+(;B[aq];W[fs]C[ko at most])
+(;B[gr];W[aq]
+(;B[es];W[fs]C[A 7-step ko! I dare you to try winning such ko in the real game.]LB[br:1]LB[ds:2])
+(;B[br];W[es])
+(;B[fs];W[es]))
+(;B[br];W[aq])
+(;B[es];W[fs]
+(;B[aq];W[bs]
+(;B[ds];W[as]
+(;B[br];W[bs])
+(;B[co];W[br]
+(;B[aq];W[ds])
+(;B[ds];W[aq])))
+(;B[br];W[ds]C[3-step ko]))
+(;B[ds];W[aq])
+(;B[br];W[aq])))
+(;W[aq]C[Here you can see the difference between moves bg1 and bg2];B[es]C[]
+(;W[fr];B[fs]C[RIGHT])
+(;W[br];B[fs]C[RIGHT]))
+(;W[es];B[aq]C[RIGHT]))
+(;B[aq];W[gr]
+(;B[hr];W[fs]C[]
+(;B[br];W[bs]C[3-step ko, - do you call it a kill?])
+(;B[fq];W[br])
+(;B[es];W[br]C[getting close?]
+(;B[ds];W[bs]
+(;B[ds];W[dr]
+(;B[fq];W[cs])
+(;B[cs];W[fq]))
+(;B[fq];W[ds])
+(;B[hs];W[ds]))
+(;B[fq];W[bs])
+(;B[hs];W[bs];B[gs];W[fr])
+(;B[bs];W[as];B[ar];W[aq]C[double ko]))
+(;B[hs];W[br]))
+(;B[es];W[fs]C[ko at most])
+(;B[fs];W[fr]
+(;B[es];W[br])
+(;B[br];W[es])))
+(;B[gr];W[aq];B[es];W[fs]
+(;B[fr];W[br]
+(;B[gs];W[bs])
+(;B[bs];W[as]C[double ko]))
+(;B[br];W[fr]))
+(;B[fr];W[gr]
+(;B[fq];W[fs];B[hq];W[aq]
+(;B[es];W[br]
+(;B[gs];W[bs])
+(;B[bs];W[as]C[double ko]))
+(;B[br];W[es]))
+(;B[aq];W[fq])
+(;B[hr];W[gs]
+(;B[es];W[fq]C[ko])
+(;B[fs];W[es]
+(;B[hs];W[aq])
+(;B[aq];W[fq]))
+(;B[hs];W[es]
+(;B[aq];W[fs])
+(;B[fs]))
+(;B[fq];W[aq];B[es];W[br]
+(;B[fs];W[bs])
+(;B[ds];W[bs])))
+(;B[fs];W[fq]))
+(;B[br];W[aq])
+(;B[bs];W[aq])
+(;B[fs];W[es]
+(;B[aq];W[gr])
+(;B[fr];W[aq])
+(;B[gr];W[aq])
+(;B[gs];W[aq])
+(;B[br];W[aq]))
+(;B[es];W[gr]
+(;B[aq];W[br]
+(;B[hr];W[fs])
+(;B[fr];W[fq])
+(;B[fs];W[hr])
+(;B[gs];W[hr]))
+(;B[fr];W[fq])
+(;B[hr];W[fs]
+(;B[aq];W[br])
+(;B[fq];W[aq])
+(;B[br];W[aq]))
+(;B[fq];W[fr])
+(;B[gs];W[hr])))

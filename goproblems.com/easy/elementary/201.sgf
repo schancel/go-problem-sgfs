@@ -1,0 +1,23 @@
+(;GE[elementary]DI[25k]DP[78]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[np][op][nq][pq][nr][or][pr][qs]
+AB[no][oo][po][mp][pp][qp][mq][qq][kr][mr][qr][rr][os]PL[2]
+C[white to live
+]
+(;W[ns]C[RIGHT
+black cannot take away the second eye
+])
+
+(;W[ps];B[ns];W[ms];B[ns])
+
+(;W[ms];B[ns];W[ps];B[ns])
+
+(;W[rs];B[ns])
+
+(;W[ls];B[ps];W[ns];B[ps])
+
+)

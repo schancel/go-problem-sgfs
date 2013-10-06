@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1d]DP[16]SO[Pitchflare]CO[0]AB[pp]AB[qq]AW[oq]AB[np]AB[mq]AW[nr]AW[pr]AW[op]AB[mr]AW[qr]AB[rr]AW[os]AB[oo]AB[po]AB[rp]AB[qs]AW[ns]AW[nq]C[Is there any hope for white...?]LB[ll:Tenuki]AB[ln]AB[fr]AB[gp]AP[goproblems]
+(;W[mp]
+(;B[no]
+(;W[lq];B[lr]
+(;W[kr]
+(;B[lp]C[CHOICE]
+(;W[ls]
+(;B[mo]C[CHOICE]
+(;W[ms];B[kq];W[jr]C[White escapes! :)RIGHT])
+(;W[jr];B[kq];W[ms]C[Correct! White escapes off to the side.RIGHT]))
+(;B[kq]C[CHOICE];W[ms];B[mo];W[jr]C[Nice! RIGHT]))
+(;W[kq];B[ls]))
+(;B[kq];W[ls];B[lp]))
+(;W[kq];B[kr]))
+(;W[ms];B[kr]))
+(;B[kr]C[This and L3 are both mistakes by black. This enable white to live in a wide variety of ways, but only because the black player made a bad move.NOTTHIS]))
+(;W[ms];B[kr]C[:(])
+(;W[no];B[mp])
+(;W[ps];B[rs];W[sq];B[rq]C[Wrong side.])
+(;W[ll]C[No, white can do something.]))

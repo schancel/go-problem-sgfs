@@ -1,0 +1,60 @@
+(;GE[endgame]DI[5d]DP[6]SO[Field Mouse]CO[0]AB[qf]AB[qe]AB[pd]AB[od]AW[pe]AW[pg]AW[qg]AW[rg]AW[oe]AW[og]AB[nd]AB[nc]AB[mc]AB[mb]AW[sd]AB[ne]AW[of]AW[nf]TR[mb]C[Hint: The marked stone might (yes it is) be important in this situation. Do not care for sente much.]AP[goproblems]
+(;B[rd];W[se]
+(;B[sf];W[rf];B[sc];W[re];B[rc]C[A bit worse than the solution])
+(;B[sc];W[rc]
+(;B[sf];W[sb];B[re];W[sc];B[rf];W[qc];B[qd];W[ra]C[A little disaster])
+(;B[sb]
+(;W[re]
+(;B[rf];W[qd];B[sf]C[Edhelka solution with the T18 tesuji, cool!CHOICERIGHT])
+(;B[qd];W[rf];B[rb]C[You made a slight mistake...]))
+(;W[rf];B[re];W[sf];B[rb]C[Edhelka found this solution - very nice work!RIGHT])))
+(;B[rc];W[sc];B[sb];W[rf];B[re];W[sf];B[rb]C[Close, but one point worse than the solution]))
+(;B[sf];W[rc]
+(;B[rd];W[re];B[qd];W[rf])
+(;B[qc];W[rf]))
+(;B[se];W[re];B[rd];W[sf];B[sc];W[rc]C[You could avoid ko])
+(;B[re]
+(;W[rc]C[CHOICE]
+(;B[rd];W[qc];B[qd]
+(;W[pb]C[CHOICE]
+(;B[rb];W[ra];B[sb];W[qb];B[pa]C[Good, you defended the corner!RIGHT])
+(;B[sb];W[sc];B[se];W[rb])
+(;B[ra];W[rb];B[qa];W[sc];B[se];W[sa];B[sb];W[pa];B[sa];W[qb];B[ra];W[sa];B[sb];W[qa])
+(;B[qa];W[ra];B[rb];W[sb]C[Only ko])
+(;B[qb];W[rb])
+(;B[oa];W[sc];B[se];W[rb]
+(;B[pa];W[qa]
+(;B[pc];W[sa])
+(;B[sa];W[pc]))
+(;B[qa];W[pa];B[ra];W[sa];B[sb];W[qb]))
+(;B[sc];W[sb];B[ra];W[qa];B[rb];W[ob];B[oa]C[Ouha :-)RIGHT]))
+(;W[ob];B[pc];W[pb];B[rb];W[qb];B[ra]C[White is doomedRIGHT])
+(;W[ra];B[pb]C[RIGHT]))
+(;B[qc];W[se]
+(;B[sf];W[rf];B[rb];W[sb];B[rd];W[sg]C[Still there is a huge ko])
+(;B[rb];W[sb];B[rd];W[sf]C[Black needs to win the ko to get suitable result]))
+(;B[se];W[qc];B[qd];W[ob];B[ra];W[qa];B[qb];W[rb];B[pa];W[pb];B[qa];W[oa];B[rd];W[sa]))
+(;W[se];B[sf]
+(;W[rf];B[sc];W[rd];B[rc];W[sg];B[qd];W[sf]C[The ideal solution for both! (white could also chose to keep sente by direct capturing the stone instead of playing S16)RIGHT])
+(;W[rd];B[qd];W[rc];B[rf];W[qb];B[sb];W[ob];B[pa];W[oa];B[pb];W[pc];B[qc]
+(;W[qa];B[rb]C[RIGHT])
+(;W[rb];B[oc];W[qa];B[sa];W[pc];B[pb]C[RIGHT])))
+(;W[rd];B[qd]
+(;W[se];B[sf];W[rf];B[rc];W[sg];B[sc];W[sf]C[RIGHT])
+(;W[rc];B[se];W[qb];B[sb];W[ob];B[pa]
+(;W[oa];B[pb];W[pc];B[qc];W[rb];B[oc];W[qa];B[sa];W[pc];B[pb]C[RIGHT])
+(;W[pb];B[oa];W[na];B[nb];W[qa];B[oa]C[RIGHT])))
+(;W[qc]
+(;B[qd];W[rc];B[rd])
+(;B[rd];W[rc])))
+(;B[rf];W[sf]C[This didnt help you])
+(;B[rc];W[sc]
+(;B[se];W[re];B[rd];W[sf];B[sb];W[se];B[rf];W[sg];B[rb]C[Two points behind the solution])
+(;B[sb];W[rd];B[qd];W[rb];B[qc];W[sf]C[:-(])
+(;B[rd];W[se]))
+(;B[qd];W[rc]C[White eats the corner])
+(;B[qc];W[sb]C[Big loss for black])
+(;B[sc];W[rd]
+(;B[qd];W[rc]C[Oucha])
+(;B[rc];W[qd];B[qc];W[sf]C[You could do better than this]))
+(;B[ma];W[rc];B[qd];W[qb]C[Coola! You are about to find the hidden bonus solution. Play one move on the Q line and if you are lucky enough...];B[pc]C[Hullaa, congrats! If you found this on your own, you are the true go master or absolute beginner... the differences between these two things are sometimes incredibly small :-)RIGHT]AB[oc]AB[pb]AB[pa]AB[oa]AB[na]AB[ob]AB[nb]AB[md]AB[me]AB[qc]AB[qa]AB[ra]AB[sa]AB[sb]AW[rb]AW[sc]AW[rd]AW[re]AW[se]AW[rf]AW[sf]AW[pf]AW[sg]AW[ng]AW[mg]AB[mf]))

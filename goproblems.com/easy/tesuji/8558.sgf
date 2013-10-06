@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[5k]DP[32]SO[saxo]CO[7]AB[qc]AB[pd]AB[qe]AB[rd]AW[pe]AW[oe]AB[ne]AB[nf]AB[of]AB[pf]AB[le]AB[lf]AB[ke]AB[jf]AB[if]AB[ie]AB[id]AB[jc]AW[jd]AW[je]AW[kd]AW[ic]AW[hc]AW[gc]AW[lc]AW[mb]AW[nc]AW[nd]AB[oc]AB[ob]AB[nb]AW[qf]AW[qg]AW[ph]AW[nh]AW[lh]AW[kg]AW[kf]AW[jg]AB[hg]AB[gd]AB[fe]AB[fg]AW[fb]TR[ne]C[Black plays O15. W plays tenuki. In the game, black played P16. If you think he had to, play it, if not play at B and try to kill w after him playing P16 instead !FORCE]LB[od:A]LB[pj:B]AP[goproblems]
+(;B[od])
+(;B[pj]C[OK, up to you !];W[od]
+(;B[kc];W[ld]
+(;B[md];W[mc]C[CHOICE]
+(;B[ma];W[lb]
+(;B[kb];W[me];B[la]C[RIGHT])
+(;B[la];W[kb];B[jb];W[me];B[ka]C[RIGHT]))
+(;B[lb];W[ma]
+(;B[la];W[me];B[na]C[RIGHT])
+(;B[na];W[me];B[la]C[RIGHT])))
+(;B[lb];W[kb];B[md];W[la];B[mc]C[RIGHT])
+(;B[mc];W[md]))
+(;B[md];W[mc]
+(;B[kc];W[ld]
+(;B[ma];W[lb]
+(;B[kb];W[me];B[la]C[RIGHT])
+(;B[la];W[kb];B[jb];W[me];B[ka]C[RIGHT]))
+(;B[lb];W[ma]
+(;B[la];W[me];B[na]C[RIGHT])
+(;B[na];W[me];B[la]C[RIGHT])))
+(;B[ld];W[kc];B[jb];W[kb]))
+(;B[ld];W[kc];B[md];W[mc];B[jb];W[kb])
+(;B[mc];W[md];B[ld];W[kc])))

@@ -1,0 +1,50 @@
+(;GE[life and death]DI[4d]DP[8]SO[kaf]CO[8]AB[dr]AB[er]AB[eq]AB[ep]AB[hq]AB[dn]AB[cn]AB[cl]AB[cp]AW[br]AW[cq]AW[bp]AW[dq]AW[eo]AW[fo]AW[gn]AW[fm]AW[hm]C[Black to kill]AP[goproblems]
+(;B[bo]
+(;W[dp]C[CHOICE]
+(;B[do];W[co]
+(;B[an]
+(;W[aq]C[CHOICE]
+(;B[cr];W[bs]C[Remember, - Black has no chance to win a ko fight against White.]
+(;B[ap]C[But W dies on double ko.CHOICERIGHT])
+(;B[cp]C[NOTTHIS])
+(;B[ao];W[ap]C[ko]))
+(;B[bs];W[cs];B[cr];W[as]
+(;B[ap]C[Double ko!RIGHT])
+(;B[cp];W[co]C[Remember, - Black has no chance to win a ko fight against White!];B[ap]C[But W dies on double ko.RIGHT]))
+(;B[ap];W[cr];B[cp];W[ao]C[w lives on double ko])
+(;B[cs];W[bs])
+(;B[cp];W[cr];B[ap];W[co]C[w lives on double ko]))
+(;W[cr];B[cs];W[bs];B[aq];W[ap];B[ar]C[RIGHT])
+(;W[ap];B[bs];W[cs];B[cr]
+(;W[as];B[aq]C[RIGHT])
+(;W[aq];B[as]C[RIGHT])))
+(;B[cr];W[bn]C[ko])
+(;B[aq];W[bn]C[ko])
+(;B[bn];W[aq]
+(;B[bs];W[cs]C[Black will lose ko fight]
+(;B[as];W[cr])
+(;B[cr];W[as]))
+(;B[cr];W[bs]C[black can't win a ko fight])
+(;B[cp];W[cr])))
+(;B[co];W[do]))
+(;W[cr];B[cs];W[bs];B[aq];W[ap];B[ar]C[RIGHT]))
+(;B[dp];W[cr]
+(;B[aq];W[ar])
+(;B[cs];W[bs])
+(;B[ar];W[aq])
+(;B[bo];W[aq]))
+(;B[cr];W[dp]
+(;B[do];W[co]C[]
+(;B[bo])
+(;B[bs];W[bn]))
+(;B[co];W[do])
+(;B[bo];W[do]))
+(;B[aq];W[dp]
+(;B[do];W[co]C[];B[bo])
+(;B[co];W[do]))
+(;B[bs];W[cr]
+(;B[cs];W[dp]
+(;B[do];W[co]C[Black loses ko])
+(;B[co];W[do]))
+(;B[dp];W[cs]))
+(;B[co];W[cr]))

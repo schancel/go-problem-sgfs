@@ -1,0 +1,106 @@
+(;GE[elementary]DI[4k]DP[29]SO[maba]CO[8]AB[bc]AB[cc]AB[ec]AB[fc]AB[fd]AB[fe]AB[ee]AB[ef]AB[gd]AB[hd]AW[hc]AB[ic]AB[ib]AW[id]AW[ie]AW[if]AW[ig]AW[jg]AW[kg]AB[jd]AB[je]AB[jf]AB[kf]AW[jc]AW[kc]AW[lf]AW[mf]AW[mg]AB[lg]AB[lh]AB[li]AB[kh]AB[jh]AB[ji]AB[kj]AB[ih]AB[gh]AB[gi]AB[fi]AW[ei]AW[ej]AW[ek]AW[el]AW[gj]AW[gk]AW[hj]AW[ij]AW[jj]AB[jk]AB[jl]AB[jm]AB[il]AB[hk]AB[gl]AB[gm]AB[fm]AB[em]AB[gn]AB[hm]AB[dl]AB[dk]AB[dj]AB[di]AB[dh]AB[eh]AB[ch]AB[cg]AB[bg]AB[bf]AB[bi]AB[bj]AB[ck]AW[bk]AW[cl]AW[al]AW[bm]AW[dm]AW[cn]AW[bp]AW[en]AW[fn]AB[dp]AB[fq]AW[go]AW[hn]AW[in]AW[im]AW[io]AW[kn]AW[lm]AW[kk]AW[lk]AB[qp]AB[jp]AW[qd]AW[be]AW[cd]AW[ed]AW[dd]AW[de]AW[df]AW[cf]AW[dg]AW[eg]AW[fg]AW[ff]AW[gf]AW[ge]AW[fh]C[The marked groups are in a fight. White to get the best result possible.]TR[ei]TR[ej]TR[ek]TR[el]TR[gj]TR[gk]TR[hj]TR[ij]TR[jj]MA[em]MA[fm]MA[gm]MA[gl]MA[gn]MA[hm]MA[hk]MA[il]MA[jl]MA[jk]MA[jm]AW[mn]AB[lj]AP[goproblems]
+(;W[fl];B[hl]
+(;W[fj];B[ii]
+(;W[jn];B[hi]
+(;W[kl]C[Black is dead.RIGHT])
+(;W[km]C[Black is dead.RIGHT]))
+(;W[km];B[hi]
+(;W[jn]C[Black is dead.RIGHT])
+(;W[kl]C[Black is dead.RIGHT]))
+(;W[kl];B[hi]
+(;W[km]C[Black is dead.RIGHT])
+(;W[jn]C[Black is dead.RIGHT])))
+(;W[jn];B[fj]
+(;W[kl];B[fk])
+(;W[km];B[fk])
+(;W[fk];B[ii]
+(;W[kl];B[hi];W[km];B[ik])
+(;W[km];B[hi];W[kl];B[ik])))
+(;W[km];B[fj]
+(;W[kl];B[fk])
+(;W[jn];B[fk])
+(;W[fk];B[hi]
+(;W[kl];B[ii];W[jn];B[ik])
+(;W[jn];B[ii];W[kl];B[ik])))
+(;W[kl];B[fj]
+(;W[km];B[fk])
+(;W[jn];B[fk])
+(;W[fk];B[hi]
+(;W[km];B[ii];W[jn];B[ik])
+(;W[jn];B[ii];W[km];B[ik])))
+(;W[ik]C[White is dead.])
+(;W[fk];B[hi]
+(;W[kl];B[ii]
+(;W[km];B[fj];W[jn];B[ik])
+(;W[jn];B[fj];W[km];B[ik]))
+(;W[km];B[ii]
+(;W[jn];B[fj];W[kl];B[ik])
+(;W[kl];B[fj];W[jn];B[ik]))
+(;W[jn];B[ii]
+(;W[km];B[fj];W[kl];B[ik])
+(;W[kl];B[fj];W[km];B[ik]))))
+(;W[jn];B[fj]
+(;W[fl];B[fk])
+(;W[fk];B[ii]
+(;W[kl];B[hi];W[km]C[seki])
+(;W[km];B[hi];W[kl]C[seki]))
+(;W[kl];B[fk])
+(;W[km];B[fk]))
+(;W[km];B[fj]
+(;W[fl];B[fk])
+(;W[fk];B[ii]
+(;W[kl];B[hi];W[jn]C[seki])
+(;W[jn];B[hi];W[kl]C[seki])))
+(;W[kl];B[fj]
+(;W[fl];B[fk])
+(;W[fk];B[hi]
+(;W[jn];B[ii];W[km]C[seki])
+(;W[km];B[ii];W[jn]C[seki])))
+(;W[fk];B[fj]
+(;W[km];B[hi]
+(;W[kl];B[ii];W[jn]C[seki])
+(;W[jn];B[ii];W[kl]C[seki]))
+(;W[jn];B[hi]
+(;W[kl];B[ii];W[km]C[seki])
+(;W[km];B[ii];W[kl]C[seki]))
+(;W[kl];B[hi]
+(;W[jn];B[ii];W[km]C[seki])
+(;W[km];B[ii];W[jn]C[seki])))
+(;W[fj];B[fl]
+(;W[jn];B[ii]
+(;W[kl];B[hi];W[km]C[seki])
+(;W[km];B[hi];W[kl]C[seki]))
+(;W[km];B[hi]
+(;W[kl];B[ii];W[jn]C[seki])
+(;W[jn];B[ii];W[kl]C[seki]))
+(;W[kl];B[hi]
+(;W[jn];B[ii];W[km]C[seki])
+(;W[km];B[ii];W[jn]C[seki]))
+(;W[fk];B[hl]
+(;W[jn];B[hi]
+(;W[kl];B[ii];W[km];B[ik])
+(;W[km];B[ii];W[kl];B[ik]))
+(;W[km];B[ii]
+(;W[kl];B[hi];W[jn];B[ik])
+(;W[jn];B[hi];W[kl];B[ik]))
+(;W[kl];B[hi]
+(;W[km];B[ii];W[jn];B[ik])
+(;W[jn];B[ii];W[km];B[ik])))
+(;W[ik];B[hl]
+(;W[jn];B[hi]
+(;W[kl];B[ii];W[km];B[fk])
+(;W[km];B[ii];W[kl];B[fk]))
+(;W[km];B[hi]
+(;W[kl];B[ii];W[jn];B[fk])
+(;W[jn];B[ii];W[kl];B[fk]))
+(;W[kl];B[hi]
+(;W[km];B[ii];W[jn];B[fk])
+(;W[jn];B[ii];W[km];B[fk]))))
+(;W[ik];B[hl]
+(;W[jn];B[fj];W[fk];B[hi];W[kl];B[ii];W[km];B[fl])
+(;W[fj];B[hi]
+(;W[jn];B[ii];W[kl];B[fl];W[km];B[fk])
+(;W[fl]C[White is dead.])))
+(;W[hh];B[hi]
+(;W[hg]C[White is dead.])
+(;W[ii];B[hg]C[White is dead.])))

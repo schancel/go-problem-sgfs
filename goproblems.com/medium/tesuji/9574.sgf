@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[2k]DP[21]SO[tom111]CO[8]AB[ra]AB[rb]AB[rc]AB[qc]AB[pd]AB[od]AB[of]AB[qf]AB[nc]AB[mb]AB[mc]AB[md]AW[qb]AW[qa]AW[pc]AW[ob]AW[oc]AW[pa]AW[kb]AW[ka]AW[kc]AW[me]AW[ne]AW[nd]AW[ld]AW[ke]C[Black to do his best.]AP[goproblems]
+(;B[ma];W[na];B[nb];W[lc];B[oa]C[A favourable Ko for black. :)RIGHT])
+(;B[na];W[ma]
+(;B[nb];W[lb]C[Unfavourable Step Ko for black...])
+(;B[la];W[nb]C[Black is dead :(]))
+(;B[nb];W[ma]
+(;B[oa];W[na])
+(;B[na];W[lb]C[An unfavourable Ko for black... :(]))
+(;B[la]))

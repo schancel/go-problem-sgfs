@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[10k]DP[50]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[fc][fd][fe][bf][cf][gf][hf][dg][dh][ci][ei]
+AB[ed][ce][ee][df][ef][cg][eg]
+C[black to capture the two white stones
+]
+(;B[bg];W[be]
+(;B[bd];W[cd]
+(;B[ae];W[de]
+(;B[af];W[ce];B[cc]C[RIGHT
+])
+
+(;B[dd];W[bc])
+
+(;B[cc];W[bc])
+)
+
+(;B[af];W[de];B[ae];W[ce];B[cc]C[RIGHT
+])
+
+(;B[de];W[bc])
+
+(;B[dd];W[cc]
+(;B[de];W[bc])
+
+(;B[ae];W[de];B[af];W[ce])
+)
+)
+
+(;B[cd];W[bh];B[bd];W[ag])
+)
+
+(;B[be];W[bg]C[black can do better
+])
+
+(;B[bd];W[bg]C[black can do better
+])
+
+(;B[bh];W[bg];B[ch];W[bi])
+
+)

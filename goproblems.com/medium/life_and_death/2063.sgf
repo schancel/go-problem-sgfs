@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2d]DP[13]SO[Karen B]CO[8]C[Black to live.]AW[ad]AW[bd]AW[ca]AW[ce]AW[cf]AW[cg]AW[ci]AW[db]AW[dc]AW[dd]AW[ee]AW[fb]AB[bc]AB[be]AB[bf]AB[cb]AB[cc]AB[cd]
+(;B[ae]
+(;W[bb]C[CHOICE];B[ac]
+(;W[ba]C[CHOICE];B[bg];W[bh];B[ag]C[ Black lives!RIGHT])
+(;W[bg]C[CHOICE]
+(;B[ab];W[ba]C[White wins.CHOICE])
+(;B[aa];W[ba]C[White wins.CHOICE])
+(;B[ba];W[aa];B[ab]C[ Black lives!RIGHT])))
+(;W[bg]C[CHOICE]
+(;B[ba];W[af]
+(;B[ab]C[ Black lives!RIGHT])
+(;B[da];W[ab]C[Oops! White wins.CHOICE]))
+(;B[ac];W[ba]C[White wins.CHOICE])
+(;B[ab];W[ba]C[White wins.CHOICE])))
+(;B[ab];W[ba]C[White wins. Black can make only one eye.CHOICE])
+(;B[ac];W[ba]C[White wins. Black can make only one eye.CHOICE])
+(;B[ba];W[ac]
+(;B[bb];W[bg]C[White wins.CHOICE])
+(;B[da];W[ab]C[White wins.]))
+(;B[bb];W[ba]C[White wins.CHOICE])
+(;B[bg];W[bb]C[Oops! White wins.CHOICE]))

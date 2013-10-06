@@ -1,0 +1,19 @@
+(;GE[best move]DI[1k]DP[18]SO[enigm4]CO[0]AW[ba]AW[bb]AW[cb]AW[cc]AW[cd]AW[de]AW[df]AW[dg]AW[dh]AW[di]AW[ch]AW[eh]AB[ab]AB[bc]AB[bd]AB[ce]AB[cf]AB[cg]AW[fi]AW[gi]AW[gh]AW[gj]AW[gk]AW[gl]AB[bf]AB[af]AW[bg]AW[ag]AB[bh]AB[ci]AB[cj]AB[dj]AB[ej]AB[ei]AB[fj]AB[fk]AB[fl]AB[em]AB[dm]AB[cm]AB[cn]AB[bn]AB[bo]AB[ao]AB[ap]AW[el]AW[cl]AW[fm]AW[fn]AW[gn]AW[en]AW[dn]AW[aq]AW[bq]AW[cq]AW[dq]AW[bp]AW[br]AW[co]AW[dp]AB[ar]AP[goproblems]
+(;W[dl]
+(;B[bl];W[am]
+(;B[bm];W[bk];B[al]
+;W[ak]C[RIGHT])
+(;B[al];W[bm];B[an];W[bm];B[am];W[bk];B[ak];W[aj];B[bj]
+;W[bm]C[RIGHT]))
+(;B[ck];W[bl];B[bk]
+;W[bm]C[RIGHT]))
+(;W[bm];B[dl]
+(;W[dk];B[ek])
+(;W[ck];B[dk];W[bi];B[bj];W[ah];B[aj];W[bk];B[ak];W[bl];B[am]))
+(;W[bl];B[dl];W[bm];B[ek])
+(;W[aa];B[ac];W[be];B[ae])
+(;W[bi];B[bj]
+(;W[ah];B[dl];W[aj];B[bk];W[ak];B[al];W[bh];B[ai];W[aj])
+(;W[dl];B[bl]
+(;W[am];B[bm])
+(;W[bm];B[am];W[bk];B[ck];W[ak];B[aj];W[ai];B[ah]))))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[2k]DP[22]SO[JoeSeki]CO[9]AB[rs][rr][rq][pq][pp][op][np][mq][mr][ls][kr][kq][lq]AW[mp][lp][kp][jp][jq][jr][js][ks][ns][nr][nq][oq][qr]C[Black to Live]SZ[19]
+
+(;B[or];W[pr]
+(;B[ps]
+(;W[os]
+(;B[qs]C[RIGHT])
+(;B[qq];W[qs]))
+(;W[qs];B[qq]))
+(;B[os];W[ps]
+(;B[os];W[or];B[qq];W[ms])
+(;B[or];W[os];B[qq];W[ms]))
+(;B[qs]
+(;W[ps];B[qq];W[os]C[Seki but you can do better])
+(;W[os]C[mistake by white, and revert to correct answer];B[ps]))
+(;B[qq];W[os];B[qs];W[ms]C[2 stones is not enough]))
+(;B[os]
+(;W[pr]
+(;B[qs];W[ps];B[qq];W[or]C[seki, you can do better])
+(;B[or];W[ps])
+(;B[ps];W[qs];B[qq];W[or]
+(;B[os]C[seki, you can do better])
+(;B[ps]C[seki, you can do better]))
+(;B[qq];W[qs]C[seki, you can do better]))
+(;W[or]C[wishful thinking, white won't play this way];B[pr];W[ps];B[qs]))
+(;B[pr];W[ms]))

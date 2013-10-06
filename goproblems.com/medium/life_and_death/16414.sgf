@@ -1,0 +1,18 @@
+(;GE[life and death]DI[3d]DP[10]SO[fractic]CO[0]SZ[4]AB[ab]AB[bb]AW[bc]AW[da]AW[db]AW[dc]AW[dd]C[Black to play.]GM[1]FF[4]AP[qGo:1.5.4]ST[1]HA[0]KM[5.5]PW[White]PB[Black]
+(;B[cc];W[cb]
+(;B[bd];W[cd];B[ac];W[ad]
+(;B[ca];W[ba];B[bd];W[aa]
+(;B[cc]C[Black captures everythingRIGHT]))
+(;B[ba];W[bd]C[Black can do better than seki.]))
+(;B[ac];W[bd];B[ba]C[Black loses by 1 point.]))
+(;B[cb];W[cc]
+(;B[ac];W[ca]
+(;B[bd];W[ba]C[Black can do better than seki])
+(;B[ba];W[bd]C[Black can do better than seki]))
+(;B[ca];W[ac];B[bd];W[ba]C[Black dies]))
+(;B[ac];W[cc]
+(;B[bd];W[ba]
+(;B[cb];W[ca]C[Black can do better than seki])
+(;B[aa];W[ca]C[Black can do better than seki]))
+(;B[cb]))
+(;B[bd];W[cc];B[ac]))

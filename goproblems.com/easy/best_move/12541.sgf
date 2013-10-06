@@ -1,0 +1,16 @@
+(;GE[best move]DI[10k]DP[50]SO[ccsco]CO[0]AW[ll]AB[kl]AB[jl]AB[il]AB[hl]AW[km]AW[lk]AW[kk]AW[jk]AW[ik]AW[ij]AW[jj]AB[hk]AB[hj]AB[ii]AB[ih]AB[ig]AB[gi]AB[fj]AB[ek]AB[dk]AB[cj]AW[bk]AW[ck]AW[dl]AW[el]AW[fl]AW[gl]AW[gk]AW[gj]AW[hi]AW[hh]TR[hi]TR[hh]AB[kh]AB[ki]AB[kj]AB[lj]AW[jg]AB[cg]AW[ce]AW[ee]AW[ec]AW[dc]AB[ed]AW[fd]AW[gd]AB[fc]AB[gc]AB[hd]AB[ic]AB[kd]C[Please capture the marked white stones in a ladder.]AP[goproblems]
+(;B[gh];W[hg]
+(;B[hf];W[gg];B[fg]
+(;W[gf]
+(;B[ge];W[ff];B[ef];W[fe];B[de]C[Well done. :-)RIGHT])
+(;B[ff];W[ge]
+(;B[he])))
+(;W[fi];B[fh];W[ei];B[dj];W[ej]
+(;B[fk])))
+(;B[gg];W[hf];B[gf]C[Black will capture the marked stones, but following the ladder offers black a better result.]TR[hi]TR[hh]TR[hg]TR[hf]))
+(;B[hg];W[gh];B[gg];W[fh];B[fi];W[fg];B[ff];W[ef]
+(;B[eh];W[eg]C[White connects. :-/])
+(;B[eg];W[eh];B[dg]C[];W[gf]C[White connects. :-/]))
+(;B[fg]C[net also possible]
+(;W[fi];B[gh];W[ej]C[RIGHT])
+(;W[gg];B[gh];W[hg];B[gf]C[RIGHT])))

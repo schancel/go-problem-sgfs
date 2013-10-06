@@ -1,0 +1,39 @@
+(;GE[life and death]DI[25k]DP[77]SO[aditsu]CO[0]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pg][qh][rh][ni][oi][pi][nj][ml][nl][pl][rl][mm][om][pm][qm][rm][mn][nn][on]AB[qi][ri][oj][pj][lk][mk][nk][pk][qk][ll][ol][ql][lm][ln][qn][rn][lo][mo][no][oo][po][rp]C[FORCE
+Can b kill?]PL[B]
+(;B[rk]
+;W[ok]C[RIGHT
+ko is all b can get])
+(;B[ok]
+;W[rk]
+(;B[qj]
+;W[sj]
+(;B[rj]
+;W[si])
+(;B[si]
+;W[rj]))
+(;B[rj]
+;W[sk]
+;B[sm]
+;W[si])
+(;B[si]
+;W[rj]
+;B[qj]
+;W[sj])
+(;B[sj]
+;W[rj]
+;B[qj]
+;W[sk]TR[si][sm]C[miai])
+(;B[sk]
+;W[rj]
+;B[qj]
+;W[sj])
+(;B[sm]
+;W[rj]
+;B[qj]
+;W[si])
+(;B[sh]
+;W[rj]
+;B[qj]
+;W[sj])))

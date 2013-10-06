@@ -1,0 +1,39 @@
+(;GE[life and death]DI[5k]DP[34]SO[BurnEmDown]CO[8]AW[sb]AW[rb]AW[qc]AW[pc]AW[od]AW[nd]AW[nc]AW[nb]AW[oa]AB[na]AB[ma]AB[mb]AB[lc]AB[ld]AB[me]AB[ne]AB[oe]AB[pd]AB[qd]AB[re]AB[rc]AB[sc]AB[sd]C[black to kill]AP[goproblems]
+(;B[ob];W[pa]
+(;B[pb];W[qa]
+(;B[qb];W[oc])
+(;B[ra];W[sa];B[qb];W[oc])
+(;B[oc];W[qb]))
+(;B[oc];W[pb])
+(;B[qa];W[pb]
+(;B[ra];W[qb])
+(;B[qb];W[ra]))
+(;B[qb];W[pb]
+(;B[ra];W[qa])
+(;B[sa];W[ra]))
+(;B[ra];W[qa])
+(;B[sa];W[ra])
+(;B[mc])
+(;B[md]))
+(;B[pa];W[ob]
+(;B[qb];W[pb]
+(;B[ra];W[qa])
+(;B[sa];W[ra])
+(;B[qa];W[ra])
+(;B[mc])
+(;B[md]))
+(;B[qa];W[qb])
+(;B[pb];W[qb])
+(;B[ra];W[qb])
+(;B[sa];W[ra]))
+(;B[oc];W[ob])
+(;B[pb]
+(;W[qb]C[CHOICE];B[ob]C[well done :)RIGHT])
+(;W[ob]C[CHOICE]
+(;B[qb];W[oc]
+(;B[ra]C[well done :)RIGHT])
+(;B[qa];W[pa];B[ra];W[sa];B[qb]C[Correct, but you gave your opponent some extra ko threats.RIGHT]))
+(;B[pa])
+(;B[qa])
+(;B[ra])
+(;B[sa]))))

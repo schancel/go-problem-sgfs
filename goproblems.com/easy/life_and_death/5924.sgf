@@ -1,0 +1,17 @@
+(;GE[life and death]DI[6k]DP[36]SO[lok]CO[7]AB[dr]AB[er]AB[eq]AB[gq]AB[hq]AB[hr]AB[ir]AB[js]AW[cr]AW[dq]AW[cp]AW[ep]AW[eo]AW[go]AW[hp]AW[ip]AW[iq]AW[jr]AW[kr]AW[kp]AB[fq]TR[fq]C[Black played the triangle stone. White to kill]AP[goproblems]
+(;W[ds];B[fs]
+(;W[is];B[hs];W[gr]C[RIGHT])
+(;W[gr];B[gs];W[is]C[RIGHT])
+(;W[gs];B[gr]))
+(;W[is];B[gs]
+(;W[fr];B[ds];W[fs]C[RIGHT])
+(;W[ds];B[fr];W[es]C[RIGHT]))
+(;W[fs];B[gs]
+(;W[ds];B[es]
+(;W[is];B[fr])
+(;W[fr];B[is]))
+(;W[is];B[fr])
+(;W[fr];B[is]))
+(;W[gs];B[fs]
+(;W[ds];B[gr])
+(;W[gr];B[ds])))

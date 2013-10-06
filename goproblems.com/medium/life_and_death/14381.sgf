@@ -1,0 +1,42 @@
+(;GE[life and death]DI[3k]DP[26]SO[fungosage]CO[0]AW[ao]AW[bo]AW[cp]AW[cq]AW[cr]AW[cs]AB[dp]AB[dq]AB[dr]AB[ds]AB[eo]AB[fo]AB[fp]AB[fn]AB[go]AB[ho]AB[ip]AB[iq]AB[ir]AB[hs]AW[hp]AW[do]AW[en]AW[dn]AW[fm]AW[gn]AW[hn]AW[io]AW[jo]AW[jp]AW[jq]AW[jr]AW[js]AW[is]AW[im]C[black to find a way to live without ko.]AW[gq]AB[hq]AP[goproblems]
+(;B[gp]
+(;W[gr]
+(;B[fr]
+(;W[hr]
+(;B[fq]
+(;W[hp]
+(;B[fs]C[congrats.RIGHT])
+(;B[eq]C[RIGHT]))
+(;W[gs]
+(;B[fs];W[hp]C[you live!RIGHT])
+(;B[hp];W[fs];B[es];W[hs];B[eq]C[nice and you saved 4 stones!RIGHT])))
+(;B[eq];W[hp];B[fq];W[fs];B[es];W[gs]C[not the best play but you survived.RIGHT])
+(;B[hp];W[fq])
+(;B[es];W[fq]))
+(;W[fq]
+(;B[gs]C[it works!RIGHT])
+(;B[eq])
+(;B[fs];W[hr])))
+(;B[hr];W[gs];B[hp];W[fq];B[ep];W[er]C[white kills all])
+(;B[fq];W[fr]
+(;B[er];W[hr]
+(;B[fs];W[hp])
+(;B[hp];W[gs]))
+(;B[hr];W[gs];B[hp];W[eq];B[ep];W[er]C[b dies]))
+(;B[eq]
+(;W[fq];B[fr];W[fs]
+(;B[hr];W[er])
+(;B[es];W[er]))
+(;W[fr];B[hr];W[gs];B[hp];W[fq];B[ep];W[es]C[white wins!])))
+(;W[fq]
+(;B[gr]
+(;W[fr];B[fs]C[RIGHT])
+(;W[eq];B[ep]C[RIGHT]))
+(;B[eq];W[gr]
+(;B[hr];W[gs])
+(;B[gs];W[fs];B[hr];W[hp]))))
+(;B[fr];W[hr];B[fq];W[fs]
+(;B[es];W[eq]
+(;B[gs];W[gr])
+(;B[gr];W[gs];B[hs];W[gs]))
+(;B[gs];W[gr]C[FORCE])))

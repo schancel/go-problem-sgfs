@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[4k]DP[30]SO[maba]CO[9]AB[sp]AB[rq]AB[qp]AB[qo]AB[ro]AB[pq]AB[nq]AB[oq]AB[op]AB[oo]AB[mp]AB[mo]AB[lp]AB[kp]AB[lq]AB[lr]AB[jq]AB[jr]AB[jp]AB[ks]AW[mq]AW[mr]AW[nr]AW[js]AW[is]AW[ir]AW[iq]AW[ip]AW[io]AW[jo]AW[lo]AW[ko]AW[ln]AW[mn]AW[nn]AW[no]AW[np]AW[on]AW[pn]AW[po]AW[qn]AW[rn]AW[sn]AW[so]C[White to find the best sequence.]AP[goproblems]
+(;W[kr]
+(;B[kq]
+(;W[ls];B[ms];W[ns];B[or];W[ls]C[Ko and white captured first.RIGHT])
+(;W[ns];B[or];W[ls];B[ms]C[Ko, but black captured first.])
+(;W[ms];B[or]C[Black saves everything.])
+(;W[or];B[pr]
+(;W[ms];B[os]C[Black saves everything.])
+(;W[ls];B[ms];W[ns];B[os])
+(;W[ns];B[ls]C[Black saves everything.])
+(;W[os];B[ms]C[Black saves everything.])))
+(;B[ls];W[ms])
+(;B[or];W[ls];B[ns];W[kq]))
+(;W[ls];B[ms]
+(;W[ns];B[or];W[ls];B[os];W[kr];B[ms]C[White could have gotten more.])
+(;W[kr];B[or];W[ls];B[ns]C[White could have gotten more.]))
+(;W[ms];B[or]
+(;W[kr];B[kq]C[Black saves everything.])
+(;W[ls];B[ns]))
+(;W[ns];B[ls];W[kr];B[or]C[White loses.])
+(;W[or];B[pr]
+(;W[kr];B[kq]
+(;W[ms];B[os])
+(;W[ns];B[ls])
+(;W[os];B[ms])
+(;W[ls];B[ms];W[ns];B[os]))
+(;W[ms];B[os]
+(;W[ls];B[ns])
+(;W[kr];B[kq]))))

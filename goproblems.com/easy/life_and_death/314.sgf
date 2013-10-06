@@ -1,0 +1,44 @@
+(;GE[life and death]DI[4k]DP[30]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[pq][qq][rr][sr][ps]
+AB[po][qo][op][rp][nq][rq][sq][lr][nr]C[black to kill
+]
+(;B[qs];W[qr]
+(;B[or]C[RIGHT
+])
+
+(;B[rs];W[or]
+(;B[os];W[oq];B[pr]C[ko
+])
+
+(;B[oq];W[ss])
+)
+)
+
+(;B[or];W[pr]
+(;B[qs];W[rs])
+
+(;B[rs];W[qs])
+)
+
+(;B[qr];W[qs]
+(;B[pr];W[or])
+
+(;B[rs];W[pr])
+)
+
+(;B[rs];W[qs]
+(;B[pr];W[or])
+
+(;B[qr];W[pr])
+)
+
+(;B[os];W[pr])
+
+(;B[oq];W[pr])
+
+)

@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[12k]DP[57]SO[adum]CO[7]AB[bs]AB[ds]AB[dr]AB[dp]AB[dq]AB[cp]AB[co]AB[cn]AB[bn]AB[an]AB[bm]AB[bp]AB[ap]AW[ar]AW[bq]AW[cr]AW[cs]AW[es]AW[er]AW[eq]AW[ep]AW[do]AW[dn]AW[dm]AW[cm]AW[bl]AW[al]AW[am]AW[dk]C[how can white get a seki in the corner?]AP[goproblems]
+(;W[br];B[aq]
+(;W[bo]C[RIGHT])
+(;W[ao]C[RIGHT])
+(;W[cq];B[as])
+(;W[as];B[cq]))
+(;W[bo];B[cq];W[br]C[RIGHT])
+(;W[cq];B[aq]
+(;W[br];B[as])
+(;W[bo];B[br])
+(;W[ao];B[br]))
+(;W[aq];B[cq]
+(;W[br];B[as])
+(;W[as];B[br])
+(;W[bo];B[br])
+(;W[ao];B[br]))
+(;W[ao];B[cq];W[br]C[RIGHT])
+(;W[as];B[cq]
+(;W[br];B[aq])
+(;W[aq];B[br])
+(;W[bo];B[br])))

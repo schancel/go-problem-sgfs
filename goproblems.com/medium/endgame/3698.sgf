@@ -1,0 +1,27 @@
+(;GE[endgame]DI[3k]DP[27]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ba][fa][bb][cb][eb][fb][gb][cc][ec][gc][ad][bd][ed][fd][de][ee][df]AB[ca][da][db][dc][cd][dd][ae][be][ce][fe][cf][ef][gf][ag][bg][cg][fg]C[No prisoners, but a two point komi for White. Black to play and win!]
+(;B[ac]CR[ac]
+;W[dg]CR[dg]
+(;B[eg]CR[eg]
+;W[ge]CR[ge]
+(;B[gd]CR[gd]
+;W[bc]CR[bc]
+;B[ab]CR[ab]
+;W[ge]CR[ge]C[White connects the ko next, but he still loses by one point. RIGHT])
+(;B[ea]CR[ea]C[Black can't win the ko, but after white connects, it is a one point win anyway. RIGHT]))
+(;B[ea]CR[ea]
+;W[eg]CR[eg]C[Black wins by one point! RIGHT]))
+(;B[ab]CR[ab]
+;W[dg]CR[dg]
+;B[eg]CR[eg]
+;W[ge]CR[ge]
+(;B[gd]CR[gd]
+;W[ea]CR[ea]
+(;B[ac]CR[ac]
+;W[ge]CR[ge]C[Next, White connects the ko - jigo! (remember the komi)])
+(;B[bc]CR[bc]
+;W[ge]CR[ge]C[Next, White connects the ko - jigo! (remenber the komi)]))
+(;B[ac]CR[ac]C[Black can't win the ko, but having to add a stone here makes the game a jigo.]))
+(;B[dg]CR[dg]
+;W[ac]CR[ac]C[White wins by two points!]))

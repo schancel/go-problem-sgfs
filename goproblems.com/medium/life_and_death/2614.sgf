@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3k]DP[25]SO[Imperateur]CO[8]SZ[19]AW[da]AW[ea]AW[cb]AW[eb]AW[bc]AW[ec]AW[ad]AW[cd]AW[dd]AW[ed]AB[ba]AB[ca]AB[fa]AB[db]AB[fb]AB[fc]AB[bd]AB[fd]AB[ae]AB[be]AB[ce]AB[de]AB[ee]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[bb];W[dc]
+(;B[ab]C[RIGHT])
+(;B[ac];W[ab]C[]
+(;B[cc]C[Ko. White can play a threat somewhere else. You will have to answer that or end the ko here. Even if White has no threats anywhere you have to spend an extra move here, so this is always wrong.])
+(;B[aa];W[ab])
+(;B[ad];W[aa])))
+(;B[ab];W[bb]
+(;B[ac];W[aa];B[ba];W[dc])
+(;B[dc];W[aa]
+(;B[ba];W[ac])
+(;B[ac];W[ba])
+(;B[ca];W[ba])))
+(;B[ac];W[ab]))

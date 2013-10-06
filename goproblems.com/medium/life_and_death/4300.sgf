@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[18]SO[Lok]CO[5]AB[ab]AB[bb]AB[cc]AB[bd]AB[be]AB[ce]AW[ba]AW[cb]AW[dc]AW[eb]AW[ea]AW[ec]AW[dd]AW[de]AW[bf]AW[cf]AB[df]AB[ef]AB[ee]AB[ed]AB[fd]AB[fc]AB[fb]AB[fa]AW[dg]AW[ch]AW[eh]AW[ci]C[White to live without ko]AW[bh]AP[goproblems]
+(;W[ac];B[cd]
+(;W[ca];B[db];W[da];B[bc];W[ae];B[ad];W[af]C[Seki. A17 was the key moveRIGHT])
+(;W[da];B[bc];W[ae];B[ad];W[af]C[Seki. A17 was the key moveRIGHT])
+(;W[ae];B[da]C[Dead]))
+(;W[ca];B[ac]
+(;W[ae];B[cd];W[af];B[db]C[Dead])
+(;W[cd];B[db];W[bc]C[Ko. Best result starting with C19.])
+(;W[aa];B[cd];W[ae];B[db]C[Dead])
+(;W[ad];B[cd];W[ae];B[af];W[ae];B[db]C[Dead]))
+(;W[da];B[aa]C[];W[bc];B[ac];W[cd];B[bc];W[ae];B[ca]C[Ko])
+(;W[db];B[ca];W[da];B[cd]C[Dead])
+(;W[bc];B[cd]
+(;W[ca];B[ac];W[ae];B[db];W[da];B[aa]C[Dead])
+(;W[da];B[ac];W[ae];B[aa]C[Ko])
+(;W[ac];B[da];W[aa];B[db])
+(;W[ae];B[ac]
+(;W[da];B[aa];W[af];B[ca]C[Ko])
+(;W[ca];B[da];W[db];B[aa]C[Dead])))
+(;W[cd];B[bc]
+(;W[da];B[aa];W[ae];B[ca]C[Ko])
+(;W[ae];B[da]C[Dead])
+(;W[ad];B[da]C[Dead]))
+(;W[ae]C[wA15 don't work. See problem 4304 by BartTM for more details.]))

@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[31]SO[polo]CO[7]AW[ar]AW[aq]AW[bp]AW[bo]AW[cp]AW[dp]AW[do]AW[eo]AW[fo]AW[fp]AW[fq]AW[eq]AW[dr]AW[gr]AB[ao]AB[bn]AB[cn]AB[co]AB[dn]AB[en]AB[fn]AB[go]AB[gp]AB[gq]AB[hr]AB[fr]AB[er]AB[cr]AB[cq]AB[dq]SZ[19]C[White to live]
+(;W[bs]
+(;B[br]C[CHOICE]
+(;W[ds]C[ Black cannot cutRIGHT])
+(;W[cs];B[ds]))
+(;B[cs]C[CHOICE]
+(;W[br]C[RIGHT])
+(;W[bq];B[ds];W[br]C[RIGHT])
+(;W[ds];B[es];W[br]C[RIGHT])
+(;W[es]C[NOTTHIS])))
+(;W[br];B[bs]
+(;W[ds];B[cs])
+(;W[cs];B[ds])
+(;W[bq];B[ds]))
+(;W[ds];B[bs])
+(;W[cs];B[ds]
+(;W[bs];B[br])
+(;W[br];B[bs]))
+(;W[es];B[ds]
+(;W[bs];B[br])
+(;W[br];B[bs]))
+(;W[gs];B[ds]))

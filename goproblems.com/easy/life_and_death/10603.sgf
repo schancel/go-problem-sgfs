@@ -1,0 +1,15 @@
+(;GE[life and death]DI[30k]DP[87]SO[SinianSung]CO[8]AB[rd]AB[qd]AB[pd]AB[oc]AB[nc]AB[nb]AB[na]AB[pa]AW[oa]AW[ob]AW[pb]AW[rc]AW[rb]AW[ra]C[Black to play. Kill the White group]AP[goproblems]
+(;B[qb]C[White is deadRIGHT]
+(;W[qa];B[qc]C[White has just one true eye. White is deadRIGHT])
+(;W[qc];B[pc]C[RIGHT]))
+(;B[qa]
+(;W[qb];B[sc];W[sb]C[White lives])
+(;W[sc];B[qb];W[qc];B[qb]
+(;W[pc])
+(;W[qa]))
+(;W[sb];B[qc];W[qb]))
+(;B[sb];W[qc]
+(;B[sc]))
+(;B[sc];W[qc]
+(;B[qa];W[sb])
+(;B[sb];W[qa])))

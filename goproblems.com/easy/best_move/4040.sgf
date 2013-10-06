@@ -1,0 +1,14 @@
+(;GE[best move]DI[18k]DP[67]SO[wtd]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[ol][ql][rl][sl][pm][sm][nn][on][no][so][rp][sp]AB[qm][rm][pn][qn][rn][sn][oo][qo][ro][mp][oq][qq][sq][mr][nr][pr][rr]C[FORCE Best way for white.]
+(;W[qp]CR[qp]
+(;B[op]CR[op]
+;W[po]CR[po]C[RIGHT R4 was the only 1st move to capture the 'dumpling'. If Black had replied with Q5, White P4 would have captured 2 more stones.])
+(;B[po]
+;W[op]C[RIGHT R4 was the only 1st move to capture the 'dumpling'. Q5 was not Black's best reply; P4 would have saved 2 stones.]))
+(;W[op]
+;B[qp]TR[so][rp][sp]C[1st move 'R4' would have saved the 3 marked stones, and captured the 'dumpling'.])
+(;W[pp]
+;B[qp]TR[so][rp][sp]C[1st move 'R4' would have saved the 3 marked stones, and captured the 'dumpling'.])
+(;W[po]
+;B[pp]LB[qp:A]TR[so][rp][sp]C[1st move 'A' would have saved the 3 marked stones, and captured the 'dumpling'.]))

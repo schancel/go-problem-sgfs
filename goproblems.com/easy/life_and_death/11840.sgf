@@ -1,0 +1,18 @@
+(;GE[life and death]DI[6k]DP[39]SO[ZeroShiKii]CO[0]AW[ir]AW[iq]AW[kq]AW[kp]AW[ko]AW[hp]AW[gp]AB[ip]AB[jp]AB[ho]AB[hq]AB[gq]AW[en]AW[cn]AB[dp]AB[cp]C[Black to capture the 2 white stones.]LB[fp:A
+]LB[fo:B]LB[go:C]AP[goproblems]
+(;B[fo];W[fp]
+(;B[fq];W[ep];B[eo];W[eq];B[er];W[dq]
+(;B[dr];W[cq];B[bq];W[cr];B[br];W[cs]
+(;B[bs]C[Congratulations, you navigated the loose ladder perfectly.RIGHT])
+(;B[ds];W[fr]C[Close but not quite. Unlike a normal ladder, white isn't in atari after every move.])
+(;B[go]C[Congratulations, you navigated the loose ladder perfectly.RIGHT]))
+(;B[cq];W[dr]
+(;B[ds];W[fr]C[You were so close, remember white has 2 liberties.])
+(;B[cr];W[fr]C[You were so close. Remember white has 2 liberties!])))
+(;B[ep];W[fq]
+(;B[fr];W[gr]C[Almost there, but white isn't always in atari, so you have to play safer.])
+(;B[eq];W[fr]C[White captures your two stones and lives.])))
+(;B[go];W[fp]
+(;B[fo];W[fq]C[White captures your two stones and lives.])
+(;B[ep];W[fo]C[White connects out and lives.]))
+(;B[fp];W[go];B[gn];W[fo]C[The ladder might be the right way to go, but it's not the normal kind.]))

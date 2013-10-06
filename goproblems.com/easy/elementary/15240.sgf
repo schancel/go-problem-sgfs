@@ -1,0 +1,14 @@
+(;GE[elementary]DI[7k]DP[44]SO[santa c]CO[0]AB[br]AB[bs]AB[bp]AB[bo]AB[bn]AB[an]AW[am]AW[bm]AW[cn]AW[dm]AW[co]AW[cp]AW[dq]AW[cr]AW[cs]C[In how many ways can B live here unconditionally?FORCE]LB[fn:0]LB[fo:1]LB[fp:2]LB[fq:3]LB[fr:4]AP[goproblems]
+(;B[fq]C[];W[fo]C[Of course B3 is the best way to live both point-wise and leaving no threats for W. Please demonstrate another way.]
+(;B[ar];W[bq]
+(;B[ap]C[nice and simple :)RIGHT])
+(;B[aq];W[ap]C[ko!]))
+(;B[ap];W[bq]
+(;B[ar]C[nice and simple :)RIGHT])
+(;B[aq];W[ar]C[ko!]))
+(;B[aq];W[bq]C[ko!])
+(;B[bq]C[You don't read instructions, do you? >_>RIGHT]))
+(;B[fn]C[the correct answer is 3, use 'Show Solution'->'Navigate Solution' after it to see the variations.])
+(;B[fo]C[the correct answer is 3, use 'Show Solution'->'Navigate Solution' after it to see the variations.])
+(;B[fp]C[the correct answer is 3, use 'Show Solution'->'Navigate Solution' after it to see the variations.])
+(;B[fr]C[the correct answer is 3, use 'Show Solution'->'Navigate Solution' after it to see the variations.]))

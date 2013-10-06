@@ -1,0 +1,40 @@
+(;GE[tesuji]DI[7k]DP[40]SO[Tomsk]CO[0]AW[bq]AW[cq]AB[cp]AB[dp]AB[ep]AW[er]AW[eq]AW[fr]AB[fq]AB[fp]AB[gp]AW[gq]AW[hq]AB[gr]AB[hr]AB[dn]AW[cm]AW[dm]AW[em]AW[kp]TR[gq]TR[hq]C[Black to capture the marked stones]AP[goproblems]
+(;B[iq];W[hp]
+(;B[io];W[ho];B[hn]
+(;W[go]
+(;B[gn];W[fo];B[fn];W[eo]
+(;B[en]C[RIGHT])
+(;B[do];W[en]C[White escapes!]))
+(;B[fn];W[ip]))
+(;W[ip];B[jp];W[go];B[gn];W[fo];B[fn];W[eo];B[en]C[RIGHT]))
+(;B[ip];W[ho]C[White escapes!])
+(;B[ho];W[ip]))
+(;B[ip];W[iq]
+(;B[jq];W[ir]
+(;B[jr];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[is];W[hs]
+(;B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives])
+(;B[jr];W[gs]C[White survives])
+(;B[js];W[gs]C[White survives]))
+(;B[hs];W[is]TR[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[hp];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives])
+(;B[fs];W[hs]TR[gr]TR[hr]C[White kills the marked stones and survives]))
+(;B[ir];W[jq]C[White escapes!])
+(;B[kq];W[ir]
+(;B[is];W[hs];B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives])
+(;B[jq];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[hs];W[is]TR[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives])
+(;B[jr];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[fs];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])))
+(;B[hp];W[iq];B[jq];W[ir]
+(;B[jr];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[is];W[hs]
+(;B[jr];W[gs]C[White survives])
+(;B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives]))
+(;B[hs];W[is]TR[hs]TR[hr]TR[gr]C[White kills the marked stones and survives])
+(;B[gs];W[fs]TR[gs]TR[gr]TR[hr]C[White kills the marked stones and survives])
+(;B[ip])
+(;B[fs];W[hs]TR[hr]TR[gr]C[White kills the marked stones and survives]))
+(;B[ir];W[ip]C[White escapes]))

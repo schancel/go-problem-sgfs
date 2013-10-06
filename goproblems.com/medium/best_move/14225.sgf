@@ -1,0 +1,16 @@
+(;GE[best move]DI[2k]DP[23]SO[xiuma]CO[0]AB[pp]AB[op]AB[np]AB[mq]AB[lq]AB[kq]AB[hq]AB[kp]AB[lr]AB[or]AB[qr]AB[pr]AW[rr]AW[rq]AW[qq]AW[qp]AW[mp]AW[lp]AW[no]AW[oo]AW[po]AW[qn]AW[nq]AW[nr]AW[mr]AW[mn]C[]AB[pq]CA[Windows-1252]AP[MultiGo:4.4.4]MULTIGOGM[0]
+(;W[os]
+(;B[ps]C[CHOICE]
+(;W[ms];B[ls];W[rs];B[ns]C[2-step koRIGHT])
+(;W[ls];B[ns]
+(;W[ms];B[ks];W[os];B[rs]C[double ko])
+(;W[rs];B[ks]))
+(;W[ns];B[ls])
+(;W[oq];B[ns])
+(;W[rs];B[ms];W[qs];B[ns]))
+(;B[qs]C[sekiRIGHT])
+(;B[ms]C[];W[qs]C[RIGHT]))
+(;W[qs];B[ns]
+(;W[ms];B[os]C[];W[rs];B[ls])
+(;W[os];B[ps];W[ms];B[ls];W[os];B[rs]))
+(;W[ps];B[qs];W[os];B[ms]))

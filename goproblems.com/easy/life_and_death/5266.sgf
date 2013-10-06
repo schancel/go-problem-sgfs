@@ -1,0 +1,51 @@
+(;GE[life and death]DI[6k]DP[37]SO[marwin]CO[7]SZ[19]AW[ei]AW[gi]AW[hi]AW[ii]AW[ji]AW[li]AW[kj]AW[ek]AW[kk]AW[el]AW[gl]AW[hl]AW[ll]AW[fm]AW[im]AW[lm]AW[mm]AW[nm]AW[in]AW[jn]AW[ln]AW[nn]AW[on]AW[io]AW[oo]AW[po]AW[jp]AW[np]AW[op]AW[iq]AW[jq]AW[lq]AW[nq]AW[jr]AW[kr]AW[lr]AW[mr]AB[jj]AB[fk]AB[gk]AB[hk]AB[jk]AB[il]AB[kl]AB[jm]AB[km]AB[kn]AB[mn]AB[jo]AB[ko]AB[lo]AB[no]AB[dp]AB[hp]AB[ip]AB[kp]AB[lp]AB[mp]AB[pp]AB[gq]AB[hq]AB[kq]AB[mq]AB[oq]AB[pq]AB[rq]AB[fr]AB[hr]AB[ir]AB[nr]AB[or]AW[fi]C[Black to win the semai]AW[gn]AW[go]
+(;B[ik];W[mo]
+(;B[jl];W[ij]
+(;B[js]C[Easy, but can be very important . . . RIGHT])
+(;B[ms]C[Easy, but can be very important . . . RIGHT])
+(;B[ks]C[Easy, but can be very important . . . RIGHT])
+(;B[ls]C[Easy, but can be very important . . . RIGHT]))
+(;B[js];W[jl])
+(;B[ms];W[jl])
+(;B[ks];W[jl])
+(;B[ls];W[jl]))
+(;B[js];W[ik]
+(;B[ms];W[mo];B[jl];W[ij])
+(;B[ij];W[hj]
+(;B[ms];W[mo];B[jl];W[ik])
+(;B[jl];W[mo];B[ik];W[fj];B[ms];W[gj])
+(;B[ik];W[mo];B[jl])))
+(;B[mo];W[jl])
+(;B[jl];W[ik];B[ij];W[hj];B[js])
+(;B[ij];W[hj]
+(;B[js];W[mo];B[jl])
+(;B[ik];W[mo];B[jl];W[fj]))
+(;B[hj];W[ij]
+(;B[js];W[mo];B[jl];W[ik])
+(;B[ik];W[mo];B[jl];W[fj]))
+(;B[ms];W[ik];B[ij];W[hj]
+(;B[js])
+(;B[ik];W[mo];B[jl];W[fj];B[js])
+(;B[jl];W[mo];B[ik]))
+(;B[ks];W[ik]
+(;B[ms];W[mo];B[jl];W[ij])
+(;B[ij];W[hj]
+(;B[ms];W[mo];B[jl];W[ik])
+(;B[ik];W[mo];B[jl];W[fj]
+(;B[ms];W[gj])
+(;B[js];W[gj])
+(;B[ls];W[gj]))))
+(;B[ls];W[ik]
+(;B[ij];W[hj]
+(;B[ik];W[mo];B[jl];W[fj]
+(;B[ms];W[gj])
+(;B[js];W[gj])
+(;B[ks]))
+(;B[jl];W[mo]
+(;B[ik])
+(;B[js];W[ik])
+(;B[ks];W[ik])
+(;B[ms];W[ik]))
+(;B[mo];W[jl]))
+(;B[mo];W[jl])
+(;B[jl];W[mo];B[ij];W[hj])))

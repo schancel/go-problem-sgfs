@@ -1,0 +1,12 @@
+(;GE[life and death]DI[2k]DP[22]SO[marwin]CO[6]SZ[19]AW[bb]AW[fb]AW[bc]AW[fc]AW[gc]AW[bd]AW[cd]AW[gd]AW[ae]AW[be]AW[ce]AW[ge]AW[ff]AW[bh]AW[ch]AW[eh]AB[gb]AB[hb]AB[cc]AB[dc]AB[hc]AB[ad]AB[dd]AB[hd]AB[de]AB[af]AB[bf]AB[cf]AB[df]C[Black to save his stones]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[white]PB[black]
+(;B[ba];W[cb];B[db];W[ca]
+(;B[ab];W[fa];B[da]C[RIGHT])
+(;B[da]
+(;W[fa];B[ab];W[aa]C[koRIGHT])
+(;W[aa];B[fa]C[RIGHT])))
+(;B[cb];W[ba])
+(;B[ab];W[cb];B[db];W[ac])
+(;B[ca];W[ba])
+(;B[da];W[ba];B[fa];W[eb];B[ea];W[db])
+(;B[fa];W[eb])
+(;B[eb];W[fa];B[ba];W[cb];B[db];W[ca];B[ab];W[ac]))

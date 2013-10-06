@@ -1,0 +1,4 @@
+(;GE[best move]DI[8k]DP[45]SO[cusp]CO[7]AB[hs]AB[is]AB[ir]AB[kq]AB[nq]AB[mq]AW[hr]AW[gr]AW[gs]AW[hq]AW[hp]AW[in]AB[kn]AW[hn]AB[lp]LB[ir:1]LB[hr:2]LB[hs:3]LB[gs:4]LB[is:5]LB[gr:6]C[Please play best local move for White. Assume White can afford a gote play.]AP[goproblems]
+(;W[iq];B[jr];W[jq];B[kr]C[You can do better.])
+(;W[jq];B[jr];W[iq];B[kr]C[You can do better.])
+(;W[jr];B[iq]C[And why this Black's play won't work?];W[jq];B[ip];W[jp];B[io];W[jo]C[Yes. Black should have followed 6 with another move in this region.RIGHT]))

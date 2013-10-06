@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[15k]DP[61]SO[kuche12345]CO[0]AB[br]AB[bq]AB[bp]AB[co]AB[do]AB[eo]AB[fp]AB[gp]AB[gq]AW[cr]AW[cq]AW[cp]AW[dp]AW[ep]AW[fq]AW[fr]AW[gr]AW[hr]AW[iq]AB[eq]C[Black to capture some stones]AP[goproblems]
+(;B[cs];W[dr]
+(;B[ds];W[er])
+(;B[er];W[es])
+(;B[dq];W[er])
+(;B[es];W[er]))
+(;B[dr]
+(;W[er];B[cs]C[RIGHT])
+(;W[ds];B[es]
+(;W[er];B[cs];W[dq];B[eq]C[RIGHT])
+(;W[cs];B[bs]C[RIGHT])
+(;W[bs]C[when responds in the most proper way, the best result is ko];B[cs]C[RIGHT]))))

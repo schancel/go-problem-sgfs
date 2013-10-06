@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[3d]DP[10]SO[kdb]CO[0]AB[rn]AB[ql]AB[lq]AB[pp]AB[mo]AB[mn]AB[gr]AB[pq]AB[pr]AB[ps]AB[qs]AB[oq]AB[nr]AB[nj]AB[ni]AB[nh]AB[mh]AB[pj]AB[qj]AB[rj]AB[sj]AB[sk]AB[ll]AB[ip]AB[fp]AB[fq]AB[fs]AB[er]AW[np]AW[qp]AW[rp]AW[qq]AW[qr]AW[po]AW[pn]AW[os]AW[mr]AW[op]AW[nn]AW[rk]AW[sl]AW[rl]AW[qk]AW[pk]AW[ol]AW[nk]AW[mk]AW[mj]AW[mi]AW[kk]AW[jm]AW[kn]AW[kp]TR[mr]C[How to deal with this White move?]AB[lp]CA[Windows-1252]AP[goproblems]MULTIGOGM[1]
+(;B[mq];W[nq]
+(;B[rs];W[rr];B[lr]TR[ss]C[Black gains an extra liberty at T1.RIGHT])
+(;B[lr];W[rs]
+(;B[ms];W[or]C[])
+(;B[or];W[ns]C[])))
+(;B[nq];W[mp]
+(;B[lo];W[mq]TR[nr]TR[nq]TR[oq]TR[pp]TR[pq]TR[pr]TR[ps]TR[qs]C[The marked stones got cut off...])
+(;B[ko];W[mq]C[The marked stones got cut off...])
+(;B[mq];W[lo]TR[mo]TR[mn]TR[ll]C[The marked stones got cut off...]))
+(;B[lr];W[nq]
+(;B[mq])
+(;B[ms];W[rs])
+(;B[ns];W[ms])
+(;B[rs];W[mq];B[ms]C[You found a good move, but this loses points compared to the right solution.])))

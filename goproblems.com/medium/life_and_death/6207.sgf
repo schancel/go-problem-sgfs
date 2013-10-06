@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2d]DP[12]SO[mrmoto]CO[7]AB[or]AB[oq]AB[op]AB[pp]AB[qp]AB[qq]AB[qo]AB[po]AW[pr]AW[ps]AW[pq]AB[os]AW[ns]AW[nr]AW[nq]AW[np]AW[no]AW[oo]AW[pn]AW[on]AW[rn]AW[qn]AW[sn]C[Can white kill the corner?]AP[goproblems]
+(;W[qr];B[rr])
+(;W[qs];B[rr])
+(;W[rr];B[rq])
+(;W[rs];B[rr])
+(;W[rq];B[rr])
+(;W[ss];B[rr])
+(;W[rp];B[rr])
+(;W[ro];B[rr])
+(;W[so];B[rr])
+(;W[sq];B[sp]
+(;W[rq];B[rr])
+(;W[rp];B[sr]
+(;W[rq];B[rr]
+(;W[ro];B[qr])
+(;W[so];B[qr]))
+(;W[so];B[rq]
+(;W[sp];B[rs])
+(;W[rr];B[qr]
+(;W[rs];B[qs]
+(;W[pr];B[ss])
+(;W[ss];B[sr]))
+(;W[ss];B[qs]
+(;W[sr];B[pr])
+(;W[pr];B[rs])))))
+(;W[rr];B[rq])
+(;W[so];B[rr]
+(;W[sr];B[rp])
+(;W[rp];B[sr])))
+(;W[sr];B[rq];W[sq];B[sp]
+(;W[so];B[rp])
+(;W[rp];B[ro];W[so];B[qr];W[rp];B[qs];W[pr];B[sp]C[Ko, black takes first.]MA[rp])
+(;W[rr];B[qr];W[rp];B[ro];W[so];B[qs]MA[pr]MA[rp]))
+(;W[sp];B[sr]
+(;W[rq];B[rr])
+(;W[sq];B[rr])
+(;W[rr];B[rq];W[sq];B[rs];W[ss]C[Ko, white takes first. :)RIGHT]MA[sr])))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[1k]DP[19]SO[MeleeNewb]CO[0]AB[rq]AB[qr]AB[os]AB[ps]AB[nr]AB[qp]AB[pp]AB[op]AB[np]AB[mp]AB[lp]AB[kp]AW[pr]AW[or]AW[lq]AW[nq]AW[oq]AW[mq]AW[kq]AW[jq]AW[jr]AW[jp]AW[ip]AB[jo]AB[io]AB[go]AB[fp]AB[eq]AB[er]AB[hn]AB[iq]AB[ir]C[Play or (T)enuki at O6 if white has nothing.]LB[nn:T]AP[goproblems]
+(;W[ns];B[ms]
+(;W[ls]
+(;B[qs]C[CHOICE]
+(;W[mr];B[ns]
+(;W[js];B[kr]
+(;W[gq];B[gr];W[hr];B[hq];W[hp];B[hs];W[is]C[RIGHT])
+(;W[gr];B[hq])
+(;W[hq];B[hr];W[gr];B[gq]))
+(;W[kr];B[js]))
+(;W[js];B[ns];W[mr]))
+(;B[lr];W[mr];B[ks];W[js]
+(;B[hp];W[kr]C[RIGHT])
+(;B[ns];W[kr]C[RIGHT])))
+(;W[mr];B[ls])
+(;W[js];B[ls]))
+(;W[js];B[ns]
+(;W[gq];B[ls])
+(;W[mr];B[hp]))
+(;W[ls];B[ns])
+(;W[mr];B[ns];W[ms];B[qs])
+(;W[lr];B[ns])
+(;W[ms];B[ns];W[mr])
+(;W[ks];B[ns];W[gq];B[gr];W[hr];B[hq];W[hp];B[hs];W[is];B[js])
+(;W[nn]))

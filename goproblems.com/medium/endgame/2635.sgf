@@ -1,0 +1,128 @@
+(;GE[endgame]DI[3d]DP[9]SO[Andre Engels]CO[8]AW[ga]AW[ab]AW[bb]AW[gb]AW[cc]AW[dc]AW[ec]AW[fc]AB[ba]AB[hb]AB[bc]AB[gc]AB[ic]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[gd]
+(;B[cb];W[db]
+(;B[ea]
+(;W[ca]
+(;B[fb];W[eb];B[ha];W[aa]C[Black captures two stones in sente.RIGHT])
+(;B[da];W[cb]))
+(;W[da];B[fb];W[ca]C[Black captures two stones in sente.RIGHT])
+(;W[fb];B[da]C[ko for the whole group.]))
+(;B[da];W[ea]
+(;B[fb];W[ca]C[Black achieves nothing.])
+(;B[ca];W[aa])
+(;B[ac];W[ca]))
+(;B[ca];W[da]
+(;B[fb];W[fa])
+(;B[ac];W[aa]C[Black achieves nothing.]))
+(;B[fb]
+(;W[ea]
+(;B[ha]
+(;W[ca];B[fa];W[eb]C[Black captures two stones in sente, but white is left with more points than in the correct solutions.])
+(;W[fa];B[ca]C[Oops... White dies.]))
+(;B[ca];W[da]
+(;B[ha];W[aa]
+(;B[fa];W[ca]C[Black captures 2 stones in sente.RIGHT])
+(;B[ca];W[fa]))
+(;B[ac];W[aa])))
+(;W[ca]
+(;B[ea];W[eb];B[ha];W[aa]C[Black captures two stones in sente.RIGHT])
+(;B[fa]C[This captures two stones, but in gote.])
+(;B[ha]C[This captures two stones, but in gote.])))
+(;B[ac];W[ca]))
+(;B[da];W[cb]
+(;B[ca];W[ea]
+(;B[fb];W[eb]C[White wins.])
+(;B[eb];W[fb];B[fa];W[db]C[Black achieves nothing.]))
+(;B[fb];W[eb]
+(;B[ea];W[fa]
+(;B[ha];W[fb]
+(;B[ac];W[ca])
+(;B[ca];W[aa]))
+(;B[ca];W[db]))
+(;B[ha];W[fa];B[ea];W[fb]
+(;B[ca];W[aa])
+(;B[ac];W[ca])))
+(;B[eb];W[fb];B[ca];W[ea];B[fa];W[db])
+(;B[ea];W[fb];B[ca];W[db]
+(;B[ha];W[eb];B[ac]C[Black gets a seki this way, but it is gote.])
+(;B[ac];W[eb];B[ha]C[Black gets a seki, but it is gote.]))
+(;B[ha];W[fb]
+(;B[ca];W[ea])
+(;B[eb];W[ca])
+(;B[ea];W[ca])))
+(;B[fb]
+(;W[da]
+(;B[ea];W[eb]
+(;B[cb];W[fa];B[ac]C[Black captures two stones, but this is gote.])
+(;B[ha];W[fa]C[Black achieves nothing.]))
+(;B[fa];W[eb]
+(;B[ha];W[cb]C[Black captures two stones in sente.Note that white C18 is necessary because of black C18-white C19-black E19.RIGHT])
+(;B[cb];W[ca];B[ha];W[db]C[RIGHT])
+(;B[ca];W[ea]
+(;B[cb];W[db])
+(;B[ha];W[cb])))
+(;B[eb];W[ea]C[Black achieves nothing. One piece of comfort: This is how I played when I got this position in a game.])
+(;B[cb];W[ca]
+(;B[fa]C[Black captures two white stones, but in gote.])
+(;B[ea];W[db]C[Black captures two stones in sente.RIGHT])
+(;B[eb];W[db];B[ha]C[Black captures two stones this way, but in gote.]))
+(;B[ha];W[eb];B[fa];W[cb]C[Black captures two stones in sente. Note that whtie C18 is necessary because of black C18-white C19-black E19RIGHT])
+(;B[ca];W[eb]
+(;B[cb];W[fa];B[ac]C[Black does capture two stones this way, but it is gote.])
+(;B[ha];W[fa]C[Black achieves nothing.])
+(;B[fa];W[ea];B[cb];W[db]))
+(;B[db];W[eb]))
+(;W[eb]C[White can play here, but it is not as good.];B[cb]
+(;W[da]
+(;B[fa];W[ca];B[ha];W[db]C[Now white has only four points (this move is necessary because black threatened E19 with double snap-back).])
+(;B[ac]C[Black switches the scene.];W[fa]C[Now black gains the other two stone in sente. White's territory is only three points here.]))
+(;W[db];B[da]C[A ko is fought over the whole group.])))
+(;B[ea];W[cb]
+(;B[fb];W[eb]
+(;B[ha];W[da];B[fa]C[Black captures two stones, but in gote.])
+(;B[da];W[fa];B[ha];W[fb];B[ca];W[aa]))
+(;B[da];W[fb];B[ca];W[db];B[ha];W[eb];B[ac]C[Black makes a seki, but in gote.])
+(;B[ca]
+(;W[fb])
+(;W[da]
+(;B[db];W[eb]
+(;B[fb];W[fa])
+(;B[ha];W[fb];B[ac]C[Black must win the ko to even get a gote seki; he can do much better.]))
+(;B[fb];W[eb]
+(;B[db];W[fa])
+(;B[ha];W[fa]))
+(;B[ha];W[eb]
+(;B[db];W[fb];B[ac]C[Black must win a ko to even get a gote seki.])
+(;B[fb];W[fa]))))
+(;B[ha];W[da]
+(;B[fb];W[eb];B[fa]C[Black captures two stones, but in gote])
+(;B[eb];W[fb])
+(;B[ca];W[aa]
+(;B[eb];W[fb])
+(;B[fb];W[eb];B[fa]C[Black captures two stones, but in gote]))))
+(;B[db];W[cb])
+(;B[ha];W[fb]C[Aji keshi.])
+(;B[eb];W[fb]
+(;B[cb];W[db])
+(;B[da];W[cb];B[ca];W[ea];B[fa];W[db])
+(;B[ca];W[cb]
+(;B[da];W[ea];B[fa];W[db])
+(;B[ea];W[da];B[db];W[fa])))
+(;B[ca];W[cb]
+(;B[fb];W[eb]
+(;B[ha];W[fa])
+(;B[ea];W[da]
+(;B[db];W[fa])
+(;B[ha];W[fa]))
+(;B[da];W[ea]))
+(;B[da];W[fb]
+(;B[ea]C[Black can get a seki this way, but it will be in gote.])
+(;B[eb];W[ea];B[fa];W[db]))
+(;B[ea];W[fb]C[Black can get a seki this way, but it will be in gote (if black plays tenuki now, white can capture the black stones).])
+(;B[eb];W[fb]
+(;B[da];W[ea];B[fa];W[db])
+(;B[ea];W[da];B[db];W[fa])
+(;B[db];W[ea]))
+(;B[ha];W[ea]C[Black achieves nothing.]))
+(;B[ac];W[cb]
+(;B[ha];W[fb]C[Much too small.])
+(;B[fb];W[eb])))

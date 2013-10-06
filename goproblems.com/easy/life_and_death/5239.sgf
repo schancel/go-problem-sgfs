@@ -1,0 +1,31 @@
+(;GE[life and death]DI[7k]DP[40]SO[unkx80]CO[7]AB[be]AB[bd]AB[bc]AB[cc]AB[dd]AB[ef]AB[df]AB[fe]AW[ff]AW[bf]AW[bg]AW[cg]AB[bh]AW[dg]AW[eg]AW[gf]AW[he]AW[gd]AW[gc]AW[dc]AW[db]AW[cb]AW[bb]AW[fb]AB[gb]AW[hb]AB[ec]AW[eb]C[Black to play.]AP[goproblems]
+(;B[ce]
+(;W[ee]C[CHOICE]
+(;B[fd];W[ed]
+(;B[de];W[ed]
+(;B[fc];W[ge];B[ee]C[Easy. =)RIGHT])
+(;B[ee];W[fc]))
+(;B[fc];W[ge]))
+(;B[ed];W[fd])
+(;B[de];W[fd])
+(;B[fc];W[fd]))
+(;W[ed]C[CHOICE]
+(;B[ee];W[fd];B[cf]C[Easy. =)RIGHT])
+(;B[fd];W[fc];B[ee];W[cf]C[Ko.])
+(;B[cf];W[ee]))
+(;W[fd]C[CHOICE]
+(;B[ee];W[ed];B[cf]C[Easy. =)RIGHT])
+(;B[ed];W[ee])
+(;B[cf];W[ee])))
+(;B[fd];W[ce]
+(;B[cf];W[fc]
+(;B[ed];W[de])
+(;B[de];W[ed]))
+(;B[de];W[cf])
+(;B[fc];W[cf]))
+(;B[cf];W[fd]
+(;B[ee];W[ce])
+(;B[ce];W[ee]))
+(;B[ee];W[ce])
+(;B[de];W[fd])
+(;B[ed];W[ce]))

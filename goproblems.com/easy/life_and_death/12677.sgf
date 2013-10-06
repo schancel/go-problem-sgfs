@@ -1,0 +1,16 @@
+(;GE[life and death]DI[8k]DP[47]SO[Yaoundee]CO[0]AW[cb]AW[cc]AW[cf]AB[da]AB[db]AB[dc]AB[ea]AW[dd]AW[ed]AW[ec]AW[eb]AW[fc]AB[hc]AB[fb]AB[gc]AB[gb]AB[ic]AB[ib]AB[id]AW[jc]AW[jd]AW[ie]AW[he]AW[hd]AW[gd]AB[ke]AB[ld]AB[lb]C[Kill black]AW[je]AP[goproblems]
+(;W[jb]C[CHOICE]
+(;B[ha]C[]
+(;W[fa];B[ga]
+(;W[ca]C[Yeah! That's the way. RIGHT]))
+(;W[ca];B[fa]C[Now black has two eyes and lives :(])
+(;W[ga];B[fa]C[Now black has two eyes and lives :(])
+(;W[ia];B[ja]C[Now black has two eyes and lives :(]))
+(;B[ca]C[];W[ba];B[fa];W[ha];B[bb];W[bc]C[Yeah! That's the way. RIGHT])
+(;B[ja]C[CHOICE];W[ka]
+(;B[ia];W[kb];B[ha];W[fa];B[ga]C[Yeah! That's the way. RIGHT])
+(;B[kb]C[CHOICE];W[ia];B[ha]C[CHOICE];W[fa];B[ja]C[Correct, a ko is best for both.CHOICERIGHT])))
+(;W[ca];B[fa]
+(;W[ha];B[jb]C[Black escaped and can easily live :(])
+(;W[jb];B[ha]C[Now black has two eyes and lives :(]))
+(;W[ha];B[jb]C[Black escaped and can easily live :(]))

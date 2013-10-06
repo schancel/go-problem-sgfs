@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[15k]DP[64]SO[Schizoid]CO[7]AB[dq]AB[cp]AB[co]AW[dp]AB[kh]AW[jj]AB[hk]AW[il]AB[jl]AB[jh]AB[kj]C[If black plays A, will he capture the white stone? If not, play at T.]LB[ep:A]AW[cq]AW[cr]AW[bq]AW[ar]LB[dd:T]AP[goproblems]
+(;B[ep];W[do];B[dn];W[eo];B[fo];W[en];B[em];W[fn];B[gn];W[fm];B[fl];W[gm]
+(;B[hm];W[gl]
+(;B[gk];W[hl]
+(;B[im];W[ik]
+(;B[ij];W[jk]
+(;B[kk];W[ji];B[ii]C[Great!! Could you read it???RIGHT])
+(;B[ji];W[kk];B[lk];W[kl];B[km];W[ll];B[ml];W[lm];B[ln];W[jm]C[Hehehe....Oops?]))
+(;B[jk];W[ij]C[No. In a ladder, you must play atari every turn!]))
+(;B[ik];W[im];B[in];W[hn]C[Hehehe....Oops?]))
+(;B[hl];W[gk];B[gj];W[fk];B[ek];W[fj];B[fi];W[ej];B[dj];W[el]C[Hehehe....Oops?]))
+(;B[gl];W[hm]C[No. In a ladder, you must play atari every turn!]))
+(;B[dd]C[No ;( the ladder works for black...]))

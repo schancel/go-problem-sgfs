@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[18k]DP[69]SO[cusp]CO[8]AB[fl]AB[gl]AB[hl]AB[hm]AB[in]AB[jn]AB[kn]AB[lm]AB[ll]AB[kl]AB[mm]AB[mk]AB[mj]AB[li]AB[ki]AB[kh]AB[kg]AW[lg]AW[lh]AW[mh]AW[mi]AW[nj]AW[nk]AW[ml]AW[nl]AW[nm]AW[mn]AW[ln]AW[ko]AW[jo]AW[io]AW[ho]AW[hn]AW[gm]AW[fm]AW[km]AW[il]C[White to kill a few black stones. (Note: black's play is not optimal. He tries to delay having his stones captured as long as possible. Problem accepts every combination that leads to capture of some black stones as correct, but try to go for the largest gain.)]AB[kj]AP[goproblems]
+(;W[ij];B[im])
+(;W[jj];B[im])
+(;W[lj];B[lk])
+(;W[ik];B[im])
+(;W[jk];B[kk])
+(;W[kk];B[jk]
+(;W[lj];B[lk])
+(;W[lk];B[lj])
+(;W[jl];B[jm])
+(;W[im];B[jm])
+(;W[jm];B[im]))
+(;W[lk];B[lj]
+(;W[jk];B[kk])
+(;W[jl];B[kk];W[im];B[jm];W[km]C[If black connected at L9 all white would gain would be two stones. There is a better way to attack.RIGHT])
+(;W[im];B[jm];W[jl];B[kk];W[km]C[If black connected at L9 all white would gain would be two stones. There is a better way to attack.RIGHT])
+(;W[jm];B[im]))
+(;W[jl];B[jm]
+(;W[kk];B[jk])
+(;W[lk];B[lj];W[im];B[kk];W[km]C[Black can give up two stones at  N9 and save the rest. There is a better way to attack.RIGHT])
+(;W[im];B[km]
+(;W[kk];B[lj];W[lk]C[Of course black would normally give up 4 stones instead of 8.RIGHT])
+(;W[lk];B[kk];W[lj]C[There is a way to capture more than just two stones.RIGHT])))
+(;W[im];B[jm]
+(;W[kk];B[jl])
+(;W[lk];B[lj];W[jl];B[kk];W[km]C[If black gives up the stones at N9 all white stands to kill are two stones. There is a better line of attack.RIGHT])
+(;W[jl];B[km]
+(;W[kk];B[lj];W[lk]C[Normally black would give up 4 stones instead of 8.RIGHT])
+(;W[lk];B[kk];W[lj]C[There is a way to capture more than two stones.RIGHT]))
+(;W[jk];B[kk]))
+(;W[jm];B[im]))

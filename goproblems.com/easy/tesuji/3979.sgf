@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[5k]DP[32]SO[caleb]CO[8]AB[sc]AB[rc]AB[qc]AB[qd]AB[pd]AB[od]AB[oe]AB[nf]AB[og]AB[oh]AB[nc]AB[nb]AB[ob]AB[mc]AB[lc]AB[kd]AB[jd]AW[oc]AW[pc]AW[pb]AW[qb]AW[rb]AW[sb]AW[ld]AW[md]AW[nd]AW[ke]AW[kf]AW[lg]AW[mf]AW[of]AW[pf]AW[qf]AW[qe]AW[re]AW[rd]C[Save the marked stones.]TR[oe]TR[od]TR[pd]TR[qd]TR[qc]TR[rc]TR[sc]AP[goproblems]
+(;B[le]
+(;W[me]
+(;B[mg]C[Nice job.RIGHT])
+(;B[ng];W[ne]C[Not quite.]))
+(;W[ng];B[me]C[Nice job.RIGHT]))
+(;B[me];W[le]
+(;B[ne];W[ng]C[Now what, genius?])
+(;B[ng];W[ne]C[Congratulations, you just lost some stones.]))
+(;B[ne];W[ng]C[That's great. For white, I mean.])
+(;B[lf];W[le]C[Playing inside a tiger's mouth is not the best move in this case.])
+(;B[pa];W[ne]C[Black loses the capturing race.])
+(;B[qa]C[This really doesn't help you very much.])
+(;B[ra]C[You don't really want to play there, do you?])
+(;B[sa]C[NO!]MA[dp]MA[do]MA[dn]MA[dm]MA[fo]MA[en]MA[gp]MA[go]MA[gn]MA[gm]MA[in]MA[io]MA[jp]MA[ko]MA[kn]MA[jm]MA[mm]MA[mn]MA[mp])
+(;B[oa]C[Wrong])
+(;B[kc]TR[jb]TR[jc]TR[id]TR[je]TR[jf]TR[kg]TR[lh]TR[mg]TR[ng]TR[nh]TR[oi]TR[ph]TR[pg]TR[qg]TR[rf]TR[se]TR[sd]TR[kb]TR[mb]TR[lb]TR[na]TR[oa]TR[pa]TR[qa]TR[ra]TR[sa]C[You are now surrounded by triangles! You lose.])
+(;B[sd]C[Please try something else.]))

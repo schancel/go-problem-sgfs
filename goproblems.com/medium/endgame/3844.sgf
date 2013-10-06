@@ -1,0 +1,82 @@
+(;GE[endgame]DI[3d]DP[9]SO[wtd]CO[7]SZ[11]AW[dc][jc][dd][de][ee][fe][ge][he][ie][je][ke][df][ff][kf][dg][eg][bh][ai][bi][ji][aj][cj][ij][kj][bk][hk][ik][jk]
+AB[cb][cc][cd][ce][cf][hf][if][jf][ag][bg][cg][gg][kg][ch][dh][eh][fh][gh][ih][jh][kh][di][hi][dj][gj][hj][dk][gk]
+LB[fa:L][eb:I]C[No komi, no prisoners yet - Black to win. FORCE]
+
+(;B[fa];W[eb]
+(;B[ea];W[gb]
+(;B[fb];W[db];B[da];W[fc];B[ga];W[ha];B[ca];W[hb]LB[fa:L][eb:I]
+C[Jigo, the best result from the large monkey jump (1st move 'L'). The 1 space jump (1st move 'I') allows a 1 point win, as black has sufficient ko threat advantage (one of 
+more than 16 points, and another of more than 11).])
+
+(;B[da];W[ga];B[fb];W[fc];B[db];W[ec]LB[fa:L][eb:I]
+C[Jigo, the best result from the large monkey jump (1st move 'L'). The 1 space jump (1st move 'I') allows a 1 point win, as black has sufficient ko threat advantage (one of 
+more than 16 points, and another of more than 11).])
+
+(;B[ga];W[da]
+(;B[db];W[ha];B[ca];W[fb];B[da];W[hb]LB[fa:L][eb:I]
+C[Jigo, the best result from the large monkey jump (1st move 'L'). The 1 space jump (1st move 'I') allows a 1 point win, as black has sufficient ko threat advantage (one of 
+more than 16 points, and another of more than 11).])
+
+(;B[ha];W[db]LB[fa:L][eb:I]C[You are cut off, and cannot form a separate live group. You could have got jigo from the large monkey jump (1st move 'L'); the 1 space jump (1st move 'L') allows a 1 point win.]))
+
+(;B[db];W[fb];B[ga];W[ha];B[da];W[hb]LB[fa:L][eb:I]
+C[Jigo, the best result from the large monkey jump (1st move 'L'). The 1 space jump (1st move 'I') allows a 1 point win, as black has sufficient ko threat advantage (one of 
+more than 16 points, and another of more than 11).]))
+
+(;B[db];W[ea]LB[fa:L][eb:I]C[You are cut off and cannot form a separate live group. You could have got jigo from the large monkey jump (1st move 'L'); the 1 space jump (1st move 'I') allows a 1 point win.]))
+
+
+(;B[eb];W[db];B[da];W[fb]
+(;B[fa];W[ga]
+(;B[gb];W[ea]
+(;B[ci];W[ca];B[ck];W[bb];B[bc];W[ba];B[ab]LB[fa:L][eb:I]
+C[RIGHT You won by 1, the best result. The 17 point threat is just big enough to 
+make 1st move 'I', better than the large monkey jump (L). The smaller ko threat (which must be at least 12 points) is required, to stop white answering the 
+large ko threat and then playing 'C11' (after black takes the ko) which prevents black filling. It appears that the only time 'I' is a better move than 'L' into this formation, 
+is when there are 2 ko threats (one 17 point or greater, the other 12 point or greater) to back it up; and even then, playing it costs sente. ------------------TO SUMMARISE: YOU 
+NEED SERIOUS KO THREAT ADVANTAGE TO MAKE 'I' BETTER THAN 'L' INTO THIS FORMATION.])
+
+(;B[ck];W[ca];B[ci];W[bb];B[bc];W[ba];B[ab]LB[fa:L][eb:I]
+C[RIGHT You won by 1, the best result. The 17 point threat is just big enough to 
+make 1st move 'I', better than the large monkey jump (L). The smaller ko threat (which must be at least 12 points) is required, to stop white answering the 
+large ko threat and then playing 'C11' (after black takes the ko) which prevents black filling. It appears that the only time 'I' is a better move than 'L' into this formation, 
+is when there are 2 ko threats (one 17 point or greater, the other 12 point or greater) to back it up; and even then, playing it costs sente. ------------------TO SUMMARISE: YOU 
+NEED SERIOUS KO THREAT ADVANTAGE TO MAKE 'I' BETTER THAN 'L' INTO THIS FORMATION.])
+
+(;B[ii];W[ca];B[ki];W[bb];B[bc];W[ba];B[ab]
+C[Your 1st 4 moves were correct, but then you made the wrong threat, and got jigo (1 point worse than the solution). With this formation, a 17 point threat is the minimum size that allows a win.])
+
+(;B[ki];W[ca];B[ii];W[bb];B[bc];W[ba];B[ab]
+C[Your 1st 4 moves were correct, but then you made the wrong threat, and got jigo (1 point worse than the solution). With this formation, a 17 point threat is the minimum size that allows a win.]))
+
+(;B[ec];W[ea]
+(;B[ci];W[ck];B[fa];W[fc];B[ea];W[ed];B[ca];W[gb]C[Jigo, 1 point worse than the solution. Your 1st 3 moves were correct and you got the ko; however, you did not use it 
+correctly. Played this way, it is only worth 16 points. Black E9 should have been at G10.])
+
+(;B[ck];W[ci];B[fa];W[fc];B[ea];W[ed];B[ca];W[gb]C[Jigo, 1 point worse than the solution. Your 1st 3 moves were correct and you got the ko; however, you did not use it 
+correctly. Played this way, it is only worth 16 points. Black E9 should have been at G10.])))
+
+(;B[ec];W[fa];B[ea];W[fc];B[ed];W[fd];B[ca]
+C[You lost by 1, 2 points worse than the solution. Your 3rd move should have been at G10, so that white could not afford to lose the ko. This would have allowed a 1 point win, as 
+black has sufficient ko threat advantage (one of 17 points, and another of over 11).])
+
+(;B[gb];W[ec];B[fa];W[ea]
+(;B[ci];W[ca];B[ck];W[bb];B[bc];W[ba];B[ab]LB[fa:L][eb:I]
+C[RIGHT You won by 1, the best result. The 17 point threat is just big enough to 
+make 1st move 'I', better than the large monkey jump (L). The smaller ko threat (which must be at least 12 points) is required, to stop white answering the 
+large ko threat and then playing 'C11' (after black takes the ko) which prevents black filling. It appears that the only time 'I' is a better move than 'L' into this formation, 
+is when there are 2 ko threats (one 17 point or greater, the other 12 point or greater) to back it up; and even then, playing it costs sente. ------------------TO SUMMARISE: YOU 
+NEED SERIOUS KO THREAT ADVANTAGE TO MAKE 'I' BETTER THAN 'L' INTO THIS FORMATION.])
+
+(;B[ck];W[ca];B[ci];W[bb];B[bc];W[ba];B[ab]LB[fa:L][eb:I]
+C[RIGHT You won by 1, the best result. The 17 point threat is just big enough to 
+make 1st move 'I', better than the large monkey jump (L). The smaller ko threat (which must be at least 12 points) is required, to stop white answering the 
+large ko threat and then playing 'C11' (after black takes the ko) which prevents black filling. It appears that the only time 'I' is a better move than 'L' into this formation, 
+is when there are 2 ko threats (one 17 point or greater, the other 12 point or greater) to back it up; and even then, playing it costs sente. ------------------TO SUMMARISE: YOU 
+NEED SERIOUS KO THREAT ADVANTAGE TO MAKE 'I' BETTER THAN 'L' INTO THIS FORMATION.])
+
+(;B[ii];W[ca];B[ki];W[bb];B[bc];W[ba];B[ab]
+C[You played the wrong ko threat, and got jigo. With this formation, a 17 point threat is the minimum size that allows a win.])
+
+(;B[ki];W[ca];B[ii];W[bb];B[bc];W[ba];B[ab]
+C[You played the wrong ko threat, and got jigo. With this formation, a 17 point threat is the minimum size that allows a win.]))))

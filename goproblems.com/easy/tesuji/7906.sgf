@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[8k]DP[45]SO[tom111]CO[8]AW[qr]AW[qq]AW[qp]AW[po]AW[pn]AB[pm]AB[om]AB[pp]AB[pq]AB[oo]AB[no]AB[mo]AB[lq]AW[np]AW[op]C[Black to save the cutting stones ]AP[goproblems]
+(;B[or];W[oq]
+(;B[pr];W[nr]
+(;B[nq];W[mq];B[mp]C[RIGHT])
+(;B[mp];W[nq])
+(;B[mr];W[ps]))
+(;B[nr];W[pr]))
+(;B[pr];W[or]
+(;B[oq];W[nq])
+(;B[os];W[oq])
+(;B[nr];W[oq]))
+(;B[nq];W[oq]
+(;B[or];W[pr])
+(;B[pr];W[or]))
+(;B[oq];W[nq]
+(;B[nr];W[or])
+(;B[or];W[nr]))
+(;B[mp];W[oq])
+(;B[nr];W[oq]))

@@ -1,0 +1,61 @@
+(;GE[life and death]DI[8k]DP[47]SO[Stones]CO[7]AW[an]AW[am]AW[bm]AW[bl]AW[cl]AW[ck]AW[dl]AW[el]AW[fl]AW[gk]AW[hk]AW[hl]AW[hm]AB[gl]AB[gm]AB[hn]AB[gn]AB[fn]AB[fo]AB[dn]AB[cm]AB[bn]AB[bo]AB[ao]AB[fk]AB[fj]AB[gj]AB[gi]AB[hi]AB[hj]AB[ej]AB[dj]AB[di]AB[dh]AB[eh]AB[ci]AB[bi]AB[bj]AB[aj]AW[ah]AW[bh]AW[ch]AW[dg]AW[eg]AW[ce]AW[ee]AW[ff]AW[ei]AW[fi]AW[fh]AW[gh]AW[gg]AW[hh]AW[ij]AW[ii]AW[jj]AW[jk]AW[jl]AW[jm]AW[ig]AW[if]AW[hf]AW[he]AW[jf]AW[ai]LB[ai:1]C[Black to play.  ]LB[al:A]LB[ak:B]LB[bk:C]LB[dk:D]LB[dm:E]AP[goproblems]
+(;B[cj]C[NOTTHIS])
+(;B[ek]C[NOTTHIS])
+(;B[em]C[NOTTHIS])
+(;B[fm]C[NOTTHIS])
+(;B[dm];W[ak]
+(;B[em];W[bk]C[One eye beats no eye.])
+(;B[fm];W[bk]C[One eye beats no eye.])
+(;B[cj];W[bk])
+(;B[dk];W[bk])
+(;B[ek];W[bk])
+(;B[bk]C[White can play this way to get a ten thousand year ko.  Black would have been better off just making a seki.]))
+(;B[dk];W[bk]
+(;B[dm];W[ak])
+(;B[em];W[ak])
+(;B[fm];W[ak])
+(;B[cj];W[ak])
+(;B[ek];W[ak])
+(;B[ak]C[Actually, white can tenuki here.];W[ek]))
+(;B[bk];W[ek]
+(;B[cj];W[dk])
+(;B[dk];W[cj])
+(;B[al];W[dk]
+(;B[ak];W[cj])
+(;B[cj];W[ak])
+(;B[dm];W[cj])
+(;B[em];W[cj])
+(;B[fm];W[cj]))
+(;B[dm];W[cj]
+(;B[fm];W[dk])
+(;B[em];W[dk]))
+(;B[em];W[dk]
+(;B[dm];W[cj])
+(;B[fm];W[cj]))
+(;B[fm];W[cj]
+(;B[em];W[dk])
+(;B[dm];W[dk])))
+(;B[al];W[bk]
+(;B[dm];W[ak])
+(;B[em];W[ak])
+(;B[fm];W[ak])
+(;B[ek];W[ak])
+(;B[dk];W[ak])
+(;B[cj];W[ak])
+(;B[ak];W[ek]
+(;B[fm];W[dk])
+(;B[em];W[dk])
+(;B[dm];W[dk])))
+(;B[ak];W[bk]LB[dm:A]
+(;B[al]C[NOTTHIS])
+(;B[cj]C[NOTTHIS])
+(;B[dk]C[NOTTHIS])
+(;B[ek]C[NOTTHIS])
+(;B[fm]C[NOTTHIS])
+(;B[em]C[NOTTHIS])
+(;B[dm];W[cj]LB[em:A]
+(;B[al];W[dk])
+(;B[ek];W[dk])
+(;B[dk];W[ek])
+(;B[fm]C[NOTTHIS])
+(;B[em];W[ek]LB[fm:A];B[fm]C[Seki.  Good job.RIGHT]))))

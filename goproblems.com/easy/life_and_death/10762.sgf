@@ -1,0 +1,51 @@
+(;GE[life and death]DI[8k]DP[46]SO[golab]CO[8]SZ[9]AW[ea]AW[fa]AW[fb]AW[fc]AW[hc]AW[ed]AW[fd]AW[hd]AW[id]AW[de]AW[ge]AW[he]AW[af]AW[bf]AW[cf]AW[df]AW[ag]AW[cg]AW[ah]AW[bh]AW[fh]AW[gh]AW[hh]AW[bi]AW[ci]AB[da]AB[db]AB[eb]AB[bc]AB[cc]AB[ec]AB[cd]AB[dd]AB[ae]AB[be]AB[ce]AB[ee]AB[fe]AB[ie]AB[ef]AB[gf]AB[hf]AB[if]AB[dg]AB[eg]AB[fg]AB[gg]AB[ch]AB[dh]AB[di]C[Japanese rules, komi is 6.5. 
+Black to play and win the game.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[6.50]CP[Karol Golab]GC[A problem for goproblems.com, based on a game played or seen on KGS.]
+(;B[ih]
+(;W[hi]C[CHOICE]
+(;B[fi]
+(;W[eh]C[CHOICE]
+(;B[ei]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[hg];W[ei]C[Seki (both groups have one eye), Black lost the game.]))
+(;W[ei]C[CHOICE]
+(;B[eh]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[hg];W[eh]C[Seki (both groups have one eye), Black lost the game.]))
+(;W[hg]C[CHOICE]
+(;B[ig]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[ei];W[ig]C[Seki (both groups have one eye), Black lost the game.])
+(;B[eh];W[ig]C[Seki (both groups have one eye), Black lost the game.])))
+(;B[ig];W[fi]C[Seki (both groups have one eye), Black lost the game.])
+(;B[hg];W[fi]C[Seki (both groups have one eye), Black lost the game.])
+(;B[ei];W[fi]C[Seki (both groups have one eye), Black lost the game.]))
+(;W[eh]C[CHOICE]
+(;B[ei]
+(;W[fi]C[CHOICE]
+(;B[hi]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[ig];W[hi]C[Seki (both groups have one eye), Black lost the game.])
+(;B[hg];W[hi]C[Seki (both groups have one eye), Black lost the game.]))
+(;W[hi]C[CHOICE]
+(;B[fi]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[hg];W[fi]C[Seki (both groups have one eye), Black lost the game.])
+(;B[ig];W[fi]C[Seki (both groups have one eye), Black lost the game.])))
+(;B[hi];W[gi]
+(;B[ei];W[ii]
+(;B[ig]C[
+Eye vs no-eye - so Black protected its territory.RIGHT])
+(;B[hg];W[ig]C[This ko is bad for Black as he has no threats.])
+(;B[fi];W[ig]C[Black has lost the whole corner.]))
+(;B[hg];W[ii]
+(;B[ei];W[ig]C[This ko is bad for Black as he has no threats.])
+(;B[ig];W[ei]C[Watch out, atari!];B[hi]C[
+This ko is good for Black as White has no threats.RIGHT]))
+(;B[ig];W[ei]C[Seki (both groups have one eye and Black has no threats to play ko), Black lost the game.]))
+(;B[ig];W[hi]C[Seki (both groups have one eye), Black lost the game.])
+(;B[hg];W[hi]C[Seki (both groups have one eye), Black lost the game.])))
+(;B[eh];W[ih]LB[fi:A]C[Seki (both groups have one eye and Black has no threats to play ko at A), Black lost the game.])
+(;B[ig];W[ih]C[Seki (both groups have one eye), Black lost the game.])
+(;B[fi];W[ih]LB[ei:A]C[Seki (both groups have one eye and Black has no threats to play ko at A), Black lost the game.])
+(;B[ei];W[ih]C[Seki (both groups have one eye), Black lost the game.])
+(;B[hi];W[ih]C[Seki (both groups have one eye), Black lost the game.]))

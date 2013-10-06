@@ -1,0 +1,3 @@
+(;GE[best move]DI[7k]DP[43]SO[TnekKralc]CO[0]AB[qd]AW[oc]AB[od]AW[nd]AB[oe]AW[ne]AB[nc]AW[ob]AB[nb]AW[qb]AB[rc]AW[mc]AB[mb]AB[md]AW[lc]AW[pb]AB[qf]AW[ic]LB[qd:1]LB[oc:2]LB[od:3]LB[nd:4]LB[oe:5]LB[ne:6]LB[nc:7]LB[ob:8]LB[nb:9]LB[qb:10]LB[rc:11]LB[mc:12]LB[mb:13]LB[lc:14]LB[md:15]LB[pb:16]LB[qf:17]LB[ic:18]AP[goproblems]
+(;B[ld];W[kc];B[nf]C[Correct answer.  When B plays 1, the points2 and 3 become miai, so B can capture some W stones in a ladder.RIGHT]LB[ld:1]LB[kc:2]LB[nf:3])
+(;B[nf];W[me];B[ld];W[le];B[kd];W[lb]LB[nf:1]LB[me:2]LB[ld:3]LB[le:4]LB[kd:5]LB[lb:6]C[Wrong answer.  Playing atari w/ 1 first, fails.  B must answer 4 w/ 5, after which W plays 6.  The 3 B stones at the top will B captured.]))

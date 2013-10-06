@@ -1,0 +1,62 @@
+(;GE[life and death]DI[2k]DP[22]SO[tom111]CO[7]AB[ab]AB[bc]AW[bb]AW[cc]AW[dc]AW[ec]AW[fc]AW[fd]AW[fb]AW[gb]AB[bd]AB[cd]AB[dd]AB[ee]AB[fe]AB[gd]AB[gc]AB[hb]AB[he]MA[ab]C[Black just played the marked stone. White to live, and beware of the Kos ....]AB[eb]AP[goproblems]
+(;W[ba];B[db]
+(;W[da];B[ea]
+(;W[fa];B[ca];W[cb]C[RIGHT])
+(;W[ca];B[ga])
+(;W[cb];B[ca];W[fa]C[RIGHT]))
+(;W[ea];B[da]
+(;W[cb];B[fa])
+(;W[fa]))
+(;W[ca];B[ea])
+(;W[ga];B[ea];W[da];B[ca];W[cb];B[da]))
+(;W[ca];B[db]
+(;W[da];B[ga])
+(;W[ea];B[ga])
+(;W[ga];B[ea]))
+(;W[cb];B[ga]
+(;W[ea];B[ba])
+(;W[ba];B[da])
+(;W[da];B[ba])
+(;W[fa];B[ba]))
+(;W[ea];B[ga]
+(;W[db];B[ba]
+(;W[ca]C[Only Ko!])
+(;W[cb];B[ca])
+(;W[da];B[cb]))
+(;W[da];B[ba];W[ca];B[cb])
+(;W[ba];B[db])
+(;W[ca];B[db])
+(;W[cb];B[ba])
+(;W[fa];B[db]))
+(;W[da];B[ba]
+(;W[cb];B[ga])
+(;W[ea];B[cb])
+(;W[ca];B[cb])
+(;W[db];B[cb])
+(;W[ga];B[cb]))
+(;W[db];B[ba]
+(;W[cb];B[ea])
+(;W[ca];B[cb]C[Ko :(])
+(;W[ea];B[ga]
+(;W[cb];B[ca])
+(;W[ca];B[cb]C[Ko :(]))
+(;W[da];B[cb])
+(;W[ga]
+(;B[cb])
+(;B[ea];W[ca];B[cb]C[Ko :(])))
+(;W[ga];B[ea]
+(;W[db];B[ba]
+(;W[ca];B[cb]C[Ko :(])
+(;W[cb];B[da]))
+(;W[ba];B[db]
+(;W[da];B[ca])
+(;W[ca];B[da])
+(;W[cb];B[da])
+(;W[fa];B[da]))
+(;W[ca];B[db]
+(;W[ba];B[da])
+(;W[da];B[ba]C[Ko :(]))
+(;W[da];B[ca]
+(;W[cb];B[db];W[ba];B[da])
+(;W[db];B[ba]))
+(;W[cb]C[Uuuuh ... still dead, black can kill with tenuki :(])))

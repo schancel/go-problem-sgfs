@@ -1,0 +1,31 @@
+(;GE[life and death]DI[1k]DP[19]SO[Karen B]CO[8]AW[ab][bb][bc][bh][cc][ce][cf][cg][ci][dd][ed][fb][fc]
+  AB[ac][bd][be][bf][bg][cb][cd][db][dc]
+  C[White to live without ko.]
+
+   (;W[ae];B[af]
+      (;W[ad];B[ac];W[ad];B[ba]
+         (;W[ah]C[RIGHT CHOICE White wins!])
+         (;W[eb];B[ca];W[ec]C[CHOICE RIGHT White wins with damezumari!])
+         (;W[ec]
+            (;B[ca];W[eb]C[CHOICE RIGHT White wins with damezumari!])
+            (;B[eb];W[ea]C[CHOICE RIGHT White wins with damezumari!])))
+      (;W[ah];B[ba];W[ad];B[ac];W[ad]C[CHOICE RIGHT White wins!]))
+
+      (;W[ad];B[ae]C[Ko.])
+      (;W[ah];B[ad]C[Black wins.])
+      (;W[ba];B[ad]C[Black wins.])
+      (;W[aa];B[ba]C[Oops!])
+      (;W[ag];B[ae]C[Black takes vital point and makes ko.])
+      (;W[ca];B[ba];W[ad];B[ae]C[Ko.])
+      (;W[af]
+         (;B[ae]
+            (;W[ad];B[ag];W[ah];B[ac]C[CHOICE Best ko for White, but she can do better.])
+            (;W[ag];B[ah];W[ag];B[ba]C[CHOICE Ko.]))
+
+         (;B[ag]
+            (;W[ah]
+               (;B[ba];W[ad]C[CHOICE White wins, but Black can play better.])
+               (;B[ae]C[CHOICE Best ko for White, but she can play better.]))
+            (;W[ae];B[ad]C[CHOICE Black wins.])))
+   )
+)

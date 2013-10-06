@@ -1,0 +1,59 @@
+(;GE[life and death]DI[6k]DP[39]SO[transcend]CO[5]AB[is]AB[ir]AB[hr]AB[hq]AB[ip]AB[ho]AB[hn]AB[gn]AB[eo]AB[fo]AB[dp]AB[cp]AB[bq]AB[br]AB[bo]AW[cq]AW[cr]AW[ep]AW[eq]AW[er]AW[go]AW[gp]AW[gr]AW[gq]AW[gs]AW[hs]AW[hp]C[Black just played the mark stone. How can white live?  (please do so in the most profitable way)]MA[fo]AB[fr]AP[goproblems]
+(;W[fp];B[dq]
+(;W[dr];B[cs]
+(;W[fs];B[ds]C[Dead.])
+(;W[ds];B[fs]C[Dead.]))
+(;W[fs];B[cs]C[]
+(;W[ds];B[dr]C[Nope])
+(;W[dr];B[ds]C[One eye.]))
+(;W[es];B[cs]C[Nope])
+(;W[cs];B[dr]C[Nope]))
+(;W[ds]
+(;B[dq]C[CHOICE];W[fp];B[fs]C[One eye... and that's just weird shape in my opinion.])
+(;B[fp]C[CHOICE]
+(;W[dq];B[fq]C[]
+(;W[fs];B[es]C[Oops.... we all do that sometimes.])
+(;W[es];B[fs]C[Nope]))
+(;W[fq];B[dq]
+(;W[dr];B[fs])
+(;W[fs];B[dr]C[False eye.]MA[es]))))
+(;W[dr]
+(;B[fp]C[CHOICE];W[fq];B[fs]
+(;W[es];B[cs]C[One eye])
+(;W[cs];B[es]C[One eye.]))
+(;B[cs]C[CHOICE];W[fp];B[ds]C[One eye... and black's D1 wasn't even necessary at that moment.]))
+(;W[dq]
+(;B[fp]C[CHOICE];W[fq];B[cs]C[];W[ds]C[It's just that easy.RIGHT])
+(;B[cs]C[CHOICE];W[ds];B[fp]C[];W[fq]C[Alive.RIGHT])
+(;B[fs]C[Black's mistake: now get the max out of itCHOICE]
+(;W[ds];B[fp]C[];W[fq]C[That works, but playing at C1 instead of D1 is a point better.]MA[cs])
+(;W[fp];B[ds]C[];W[cs];B[es]C[That's live shape for you... but... why is black still fighting?CHOICE]
+(;W[fq];B[bs];W[dr]C[Weird play by black, but you could have made 2 more points profit during that sequence.])
+(;W[bs];B[ar]
+(;W[fq];B[as];W[dr]C[Good job with B1... it was two points better than plaing inside first.RIGHT])
+(;W[dr];B[as];W[fq]C[RIGHT]))
+(;W[dr];B[bs];W[fq];B[es];W[fs]C[Sometime during this sequence there was a move that would have made you 2 more points. Try to find it.]))
+(;W[cs];B[fp]C[];W[fq]C[That works, but black probably wouldn't play F1... it gives you too many points. (I kept it in because of an interesting variation that can happen.RIGHT])
+(;W[es];B[fp];W[fq];B[cs];W[ds]C[Only 5 points.])
+(;W[bs]C[];B[ds]
+(;W[cs];B[es]
+(;W[fp];B[ar]
+(;W[fq];B[as];W[dr]C[Good job with B1... it was two points better than plaing inside first.RIGHT])
+(;W[dr];B[as];W[fq]C[Good job with B1... it was two points better than playing inside first.RIGHT]))
+(;W[fq]C[Good job with B1... it was two points better than playing inside first.RIGHT])
+(;W[dr]C[Good job with B1... it was two points better than plaing inside first.RIGHT]))
+(;W[es];B[cs])
+(;W[fq];B[cs]))))
+(;W[es];B[fp]
+(;W[fq];B[dq];W[dr];B[cs]C[One eye.])
+(;W[dq];B[fq]C[That's just dead...]))
+(;W[cs];B[dq];W[dr];B[fp];W[fq]C[Correct.RIGHT])
+(;W[fs]
+(;B[fp]C[CHOICE];W[fq];B[dq];W[dr];B[cs];W[ds]C[Alive, but you can easily do better.])
+(;B[cs]C[CHOICE];W[ds];B[dq]
+(;W[bs];B[dr]C[Dead.])
+(;W[dr];B[fp];W[fq]C[Yes it's alive... but you only got 3 points inside?])
+(;W[fp];B[dr]C[Nope.])))
+(;W[bs];B[dq];W[dr];B[fp];W[fq];B[cs]
+(;W[ds];B[fs])
+(;W[fs];B[ds];W[es];B[cs])))

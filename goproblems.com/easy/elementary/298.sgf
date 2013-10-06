@@ -1,0 +1,36 @@
+(;GE[elementary]DI[5k]DP[32]SO[adum]CO[8]SZ[19]AW[br]AW[cr]AW[dr]AB[ar]AB[bq]AB[cq]AB[dq]AB[es]AB[er]AW[bp]AW[cp]AW[dp]AW[ep]AB[eq]AW[fp]AW[fq]AW[fr]AW[gs]AW[hr]AW[bn]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[kiet]PB[adam]AE[fs]PL[W]
+(;W[bs]
+(;B[ds]
+(;W[cs];B[as]
+(;W[cr]C[white forms nakade (dead shape)RIGHT])
+(;W[cs];B[cr])
+(;W[br];B[cr])
+(;W[bs];B[cr]))
+(;W[as];B[cs]
+(;W[br];B[bs])
+(;W[cr];B[br]))
+(;W[fs];B[aq]
+(;W[cs];B[as];W[cr]C[dead shapeRIGHT])
+(;W[ap]C[black cannot push and white can eventually form dead shapeRIGHT]))
+(;W[ap];B[cs]
+(;W[aq];B[as];W[br];B[cr];W[bs];B[ar])
+(;W[fs];B[as]))
+(;W[aq];B[ap]
+(;W[fs];B[aq];W[ao]C[RIGHT])
+(;W[cs];B[as];W[cr]C[RIGHT])
+(;W[ao];B[cs]
+(;W[fs];B[as])
+(;W[aq];B[as];W[br];B[cr];W[bs];B[ar]))))
+(;B[cs];W[ds];B[aq]
+(;W[fs])
+(;W[ap])))
+(;W[cs];B[bs]C[black gets a ko])
+(;W[ds];B[bs]C[black alive])
+(;W[fs];B[bs]
+(;W[ds];B[cs])
+(;W[ap];B[cs];W[aq];B[ds]))
+(;W[ap];B[bs]
+(;W[aq];B[ds]C[ko])
+(;W[fs];B[aq]))
+(;W[as];B[bs])
+(;W[aq];B[bs]C[ko]))

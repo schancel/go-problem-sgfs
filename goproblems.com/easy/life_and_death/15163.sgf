@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[30]SO[mysandbox]CO[0]AB[qr]AB[qq]AB[qp]AB[ro]AB[so]AW[rp]AW[qo]AW[qn]AW[rm]AW[pp]AW[pq]AW[pr]AW[ps]AP[goproblems]
+(;B[rs];W[rq]
+(;B[rr];W[sr]
+(;B[sq]C[RIGHT])
+(;B[sp]C[RIGHT]))
+(;B[sq];W[rr])
+(;B[sr];W[rr]))
+(;B[rq];W[rs]
+(;B[qs];W[sq];B[sp];W[sr]C[dead])
+(;B[sp];W[qs]
+(;B[sr];W[rr])
+(;B[rr];W[sr]))
+(;B[sq];W[qs]))
+(;B[rr];W[rs]
+(;B[ss];W[sr]
+(;B[qs];W[rq])
+(;B[rq];W[qs]))
+(;B[qs];W[sr]
+(;B[ss]C[White can get ko but Black take first])
+(;B[rq];W[sq])))
+(;B[sq];W[rr]
+(;B[rq];W[qs])
+(;B[qs];W[rq])))

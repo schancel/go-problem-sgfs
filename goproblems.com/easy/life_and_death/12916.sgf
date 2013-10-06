@@ -1,0 +1,43 @@
+(;GE[life and death]DI[7k]DP[41]SO[ccsco]CO[0]AW[rr]AW[rq]AW[qp]AW[pp]AW[op]AW[np]AW[mp]AW[lq]AW[lr]AW[jq]AB[mr]AB[mq]AB[nq]AB[oq]AB[pq]AB[qr]C[Black to live]AP[goproblems]
+(;B[or]
+(;W[ps];B[qs];W[ns]
+(;B[ms];W[os]LB[io:Tenuki?]C[Can b play elsewhere and live?  If so, click Tenuki.
+Otherwise, continue locally.]
+(;B[qq]C[Correct!  Life in seki.CHOICERIGHT])
+(;B[io];W[qq]TR[qs]TR[qr]C[B's triangled stones are not yet connected, so this cannot become a seki; black is now dead.]))
+(;B[os];W[ms]C[B is dead])
+(;B[pr];W[ms];B[os]C[B is dead]))
+(;W[qs]C[If w approaches from the outside...];B[ps];W[ms];B[ns]C[B is lucky to be alive (w made a mistake)]))
+(;B[ns];W[or]
+(;B[pr]C[(W can in fact tenuki here.)]
+(;W[qs];B[ps]C[B is dead])
+(;W[os]C[B is dead]))
+(;B[os];W[qs]
+(;B[ps];W[rs]C[B is dead])
+(;B[pr]C[B is dead])))
+(;B[ps];W[or];B[os]C[(W can even tenuki)];W[ms]C[B is dead])
+(;B[os];W[or]
+(;B[nr];W[ms]
+(;B[qs];W[pr]C[B is dead])
+(;B[pr];W[qs]C[B is dead]))
+(;B[ns];W[qs];B[ps];W[rs]C[B is dead])
+(;B[pr];W[qs]
+(;B[nr];W[ms]C[B is dead])
+(;B[ms];W[nr]C[B is dead])))
+(;B[qq];W[qs];B[ps]
+(;W[ms]
+(;B[ns];W[or]C[B can't make 2 eyes.])
+(;B[or];W[ns]C[B can't make 2 eyes.])
+(;B[rs];W[ns]C[B is dead. :-/]))
+(;W[or];B[ms];W[rs]
+(;B[nr];W[os]C[B dies..])
+(;B[os];W[nr]C[B dies..])))
+(;B[ms];W[ps]
+(;B[os];W[qs];B[pr];W[nr];B[rs];W[qs]C[B can't make 2 eyes])
+(;B[or];W[qs])
+(;B[pr];W[os];B[qs]LB[ns:A]LB[or:B]C[B is dead: A and B are miai to kill.])
+(;B[qs];W[or]
+(;B[pr];W[os]C[B is dead])
+(;B[os];W[ns]
+(;B[pr];W[os];B[nr];W[os]C[B dies])
+(;B[nr];W[os];B[pr];W[os]C[B dies])))))

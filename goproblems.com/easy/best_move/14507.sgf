@@ -1,0 +1,17 @@
+(;GE[best move]DI[4k]DP[30]SO[Bleedo]CO[0]AW[bd]AW[be]AW[bf]AW[bg]AW[cg]AW[dg]AW[df]AB[cf]AB[ce]AB[cd]AB[dd]AB[de]AB[ee]AB[ef]AB[eg]AB[fe]AB[ed]AB[fd]AB[ec]AB[fc]AB[gc]AW[cc]AW[dc]AW[eb]AW[ff]AW[fg]AW[eh]AW[ei]AB[fh]AW[gh]AB[ch]AB[dh]AB[cj]AB[cm]AB[dm]AB[dn]AW[cn]AW[co]AW[dp]AW[cq]AW[dr]AB[er]AB[fq]AB[fo]AB[fm]AW[hm]AW[io]AW[ip]AW[hq]AB[jn]AB[jo]AB[jp]AB[kp]AW[ko]AW[jq]AW[kq]AW[lp]AB[lo]AB[mo]AB[nq]AB[nr]AB[op]AB[oo]TR[fh]C[Does the ladder work?FORCE]LB[ig:Y]LB[kg:N]AP[goproblems]
+(;W[ig];B[fi]C[Prove it];W[fj];B[gi];W[hi];B[gj];W[gk];B[hj];W[ij];B[hk]
+(;W[hl];B[ik];W[jk];B[il]
+(;W[im];B[jl];W[kl];B[jm])
+(;W[jl];B[im]
+(;W[in];B[jm])
+(;W[jm];B[in]
+(;W[hn];B[kn])
+(;W[kn];B[hn];W[gn];B[ho];W[go]C[RIGHT]))))
+(;W[ik];B[hl]
+(;W[gl];B[il];W[jl];B[im]
+(;W[in];B[jm];W[km];B[kn])
+(;W[jm];B[in]
+(;W[kn];B[hn])
+(;W[hn];B[kn])))
+(;W[il];B[gl])))
+(;W[kg]C[The ladder works]))

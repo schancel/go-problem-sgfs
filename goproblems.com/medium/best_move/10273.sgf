@@ -1,0 +1,29 @@
+(;GE[best move]DI[2d]DP[12]SO[santa c]CO[0]AW[bp]AW[cp]AW[cq]AW[dp]AW[do]AW[co]AW[cn]AW[bm]AW[bl]AW[ck]AB[cj]AB[bj]AB[di]AB[ei]AB[dl]AB[cm]AB[dn]AB[em]AB[en]AB[eo]AB[dq]AB[eq]AB[ep]AB[bq]AB[cr]AB[br]AW[ci]AW[bh]AW[cg]AW[dh]AB[ek]C[Save these stones...]MA[cn]AP[goproblems]
+(;W[ao];B[bn]
+(;W[bk]C[Well done! :)RIGHT]MA[aj]MA[an])
+(;W[an];B[al]
+(;W[bk];B[ak])
+(;W[dj];B[dk])
+(;W[ak];B[bk]))
+(;W[al];B[an];W[aj];B[ai])
+(;W[ak]C[];B[bk]
+(;W[al]C[Well done! :)RIGHT]MA[aj]MA[an])
+(;W[aj];B[ai]LB[al:1]LB[cl:2])
+(;W[an];B[al])
+(;W[dj];B[aj]LB[al:1]LB[cl:2]))
+(;W[dj]C[NOTTHIS]))
+(;W[bn];B[ao])
+(;W[an];B[al]
+(;W[bk];B[ak])
+(;W[ak];B[bk])
+(;W[dj];B[dk]))
+(;W[ap];B[al]
+(;W[ak];B[bk])
+(;W[bk];B[ak])
+(;W[dj];B[dk])
+(;W[an];B[bo])
+(;W[bo];B[an]))
+(;W[bo];B[an])
+(;W[bk];B[ao]MA[bn]MA[aj])
+(;W[ak];B[ao]MA[bn]MA[aj])
+(;W[dj]C[NOTTHIS]))

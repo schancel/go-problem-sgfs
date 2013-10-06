@@ -1,0 +1,432 @@
+(;GE[life and death]DI[6k]DP[36]SO[Max007]CO[5]GM[1]FF[1]SZ[19]NE[B]SS[@0]
+GC[Black to ko.]
+AB[pr][pq][pp][po][qo][rn][qm][nr]
+AW[qr][qq][qp][ro][so]
+(
+;B[sq]ID[1]
+;W[sr]ID[2]
+   (
+   ;B[rr]ID[3]
+      (
+      ;W[rs]ID[4]
+         (
+         ;B[ss]ID[5]C[RIGHT CHOICE ko No.11]
+         )
+         (
+         ;B[rq]ID[153]
+            (
+            ;W[rp]ID[154]
+            ;B[ss]ID[155]C[RIGHT ko No.12]
+            )
+            (
+            ;W[ss]ID[158]
+            )
+         )
+         (
+         ;B[qs]ID[206]
+         ;W[rq]ID[207]
+         )
+      )
+      (
+      ;W[rq]ID[6]
+         (
+         ;B[ss]ID[7]
+            (
+            ;W[qs]ID[8]
+               (
+               ;B[ps]ID[9]
+               ;W[sp]ID[10]
+               ;B[sn]ID[11]
+               ;W[sr]ID[12]C[RIGHT CHOICE ko No.1 ]
+               )
+               (
+               ;B[sn]ID[236]
+               ;W[rs]ID[237]
+               ;B[rp]ID[238]
+               ;W[sr]ID[239]
+               ;B[sp]ID[240]
+               )
+               (
+               ;B[sp]ID[241]
+               ;W[rs]ID[242]
+               )
+               (
+               ;B[sr]ID[243]
+               ;W[sp]ID[244]
+               ;B[sn]ID[245]
+               ;W[rs]ID[246]
+               )
+            )
+            (
+            ;W[sp]ID[13]
+               (
+               ;B[qs]ID[14]
+               ;W[sr]ID[15]C[RIGHT CHOICE ko  No.2]
+               )
+               (
+               ;B[sn]ID[156]
+               ;W[sr]ID[157]C[RIGHT ko No.13]
+               )
+            )
+         )
+         (
+         ;B[rs]ID[247]
+         ;W[qs]ID[248]
+         )
+      )
+   )
+   (
+   ;B[rp]ID[208]
+   ;W[rq]ID[209]
+   )
+   (
+   ;B[rq]ID[210]
+   ;W[rr]ID[211]
+   )
+   (
+   ;B[rs]ID[249]
+   ;W[qs]ID[250]
+   )
+   (
+   ;B[qs]ID[251]
+   ;W[rs]ID[252]
+   ;B[rp]ID[253]
+   ;W[ps]ID[254]
+   ;B[sn]ID[255]
+   ;W[rq]ID[256]
+   ;B[sp]ID[257]
+   )
+   (
+   ;B[sn]ID[258]
+   ;W[rq]ID[259]
+   )
+)
+(
+;B[qs]ID[16]
+;W[rs]ID[17]
+   (
+   ;B[sr]ID[18]
+   ;W[sq]ID[19]
+   ;B[rq]ID[20]
+   ;W[rp]ID[21]
+   ;B[sp]ID[22]C[RIGHT CHOICE ko No.10]
+   )
+   (
+   ;B[rq]ID[23]
+   ;W[rp]ID[24]
+   ;B[rr]ID[25]
+   ;W[ps]ID[26]
+      (
+      ;B[sq]ID[27]
+      ;W[sr]ID[28]
+      ;B[ss]ID[29]C[RIGHT CHOICE ko No.3]
+      )
+      (
+      ;B[sr]ID[30]
+      ;W[sq]ID[31]
+      ;B[sp]ID[32]C[RIGHT CHOICE ko No.4]
+      )
+   )
+   (
+   ;B[rr]ID[112]
+   ;W[ps]ID[130]
+      (
+      ;B[sq]ID[131]
+      ;W[rq]ID[132]
+      ;B[sr]ID[133]
+      ;W[sp]ID[134]
+      ;B[sn]ID[135]
+      ;W[ss]ID[136]
+      )
+      (
+      ;B[sr]ID[137]
+      ;W[rq]ID[138]
+         (
+         ;B[sp]ID[139]
+         ;W[sq]ID[140]C[CHOICE ]
+         )
+         (
+         ;B[sq]ID[141]
+         ;W[sp]ID[142]
+         ;B[sn]ID[143]
+         ;W[ss]ID[144]C[CHOICE ]
+         )
+      )
+      (
+      ;B[rq]ID[145]
+      ;W[rp]ID[146]
+         (
+         ;B[sq]ID[147]
+         ;W[sr]ID[148]
+         ;B[ss]ID[152]C[RIGHT CHOICE ko No.3]
+         )
+         (
+         ;B[sr]ID[149]
+         ;W[sq]ID[150]
+         ;B[sp]ID[151]C[RIGHT CHOICE ko No.4]
+         )
+      )
+   )
+   (
+   ;B[ps]ID[185]
+   ;W[sr]ID[186]
+   )
+   (
+   ;B[sq]ID[187]
+      (
+      ;W[rq]ID[190]
+      ;B[sr]ID[191]
+      )
+      (
+      ;W[sr]ID[192]
+      ;B[rp]ID[193]
+      ;W[ps]ID[194]
+      ;B[sn]ID[195]
+      ;W[rq]ID[196]
+      ;B[sp]ID[197]
+      )
+   )
+   (
+   ;B[rp]ID[198]
+   ;W[rq]ID[199]
+   )
+   (
+   ;B[sn]ID[200]
+   ;W[rq]ID[201]
+   ;B[sp]ID[202]
+   ;W[rp]ID[203]
+   )
+   (
+   ;B[os]ID[204]
+   ;W[sr]ID[205]
+   )
+)
+(
+;B[rr]ID[33]
+   (
+   ;W[rs]ID[34]
+      (
+      ;B[rq]ID[35]
+      ;W[rp]ID[36]
+         (
+         ;B[sq]ID[37]
+         ;W[sr]ID[38]
+         ;B[ss]ID[39]C[RIGHT CHOICE ko No.5]
+         )
+         (
+         ;B[sr]ID[40]
+         ;W[sq]ID[41]
+         ;B[sp]ID[42]C[RIGHT CHOICE ko No.6]
+         )
+      )
+      (
+      ;B[sr]ID[212]
+      ;W[rq]ID[213]
+      ;B[sq]ID[214]
+      ;W[sp]ID[215]
+      ;B[sn]ID[216]
+      ;W[ss]ID[217]
+      )
+      (
+      ;B[sq]ID[218]
+      ;W[rq]ID[219]
+      ;B[sr]ID[220]
+      ;W[sp]ID[221]
+      ;B[sn]ID[222]
+      ;W[ss]ID[223]
+      )
+      (
+      ;B[qs]ID[224]
+         (
+         ;W[ps]ID[225]
+         ;B[rq]ID[226]
+         ;W[rp]ID[227]
+            (
+            ;B[sq]ID[228]
+            ;W[sr]ID[229]
+            ;B[ss]ID[230]C[RIGHT CHOICE ko No.14]
+            )
+            (
+            ;B[sr]ID[231]
+            ;W[sq]ID[232]
+            ;B[sp]ID[233]C[RIGHT CHOICE ko No.15]
+            )
+         )
+         (
+         ;W[sr]ID[234]
+         ;B[ss]ID[235]C[RIGHT CHOICE ko No.16]
+         )
+      )
+   )
+   (
+   ;W[sr]ID[43]
+      (
+      ;B[qs]ID[44]
+      ;W[rs]ID[45]
+      ;B[ss]ID[46]C[RIGHT CHOICE ko No.7]
+      )
+      (
+      ;B[rq]ID[47]
+      ;W[rp]ID[48]
+         (
+         ;B[qs]ID[49]
+         ;W[rs]ID[50]
+         ;B[ss]ID[51]C[RIGHT CHOICE ko No.8]
+         )
+         (
+         ;B[sq]ID[52]
+         ;W[rs]ID[53]
+         ;B[ss]ID[54]C[RIGHT CHOICE ko No.9]
+         )
+      )
+   )
+)
+(
+;B[sr]ID[55]
+;W[sq]ID[56]
+   (
+   ;B[rq]ID[57]
+      (
+      ;W[rp]ID[58]
+      ;B[sp]ID[59]
+      ;W[rr]ID[72]
+      ;B[sq]ID[73]
+      ;W[qs]ID[79]
+      )
+      (
+      ;W[rr]ID[60]
+         (
+         ;B[sp]ID[61]
+         ;W[rp]ID[62]
+         ;B[sq]ID[63]
+         ;W[qs]ID[109]C[CHOICE ]
+         )
+         (
+         ;B[qs]ID[110]
+         ;W[rp]ID[111]C[CHOICE ]
+         )
+      )
+   )
+   (
+   ;B[qs]ID[260]
+   ;W[rr]ID[265]
+      (
+      ;B[rp]ID[266]
+      ;W[ss]ID[283]
+      )
+      (
+      ;B[rs]ID[268]
+      ;W[rp]ID[269]
+      )
+   )
+   (
+   ;B[rr]ID[270]
+   ;W[rq]ID[271]
+   ;B[qs]ID[272]
+   ;W[rs]ID[273]
+   )
+   (
+   ;B[rs]ID[274]
+   ;W[rr]ID[275]
+      (
+      ;B[qs]ID[276]
+      ;W[rp]ID[277]
+      )
+      (
+      ;B[rp]ID[278]
+      ;W[qs]ID[279]
+      )
+   )
+   (
+   ;B[rp]ID[280]
+   ;W[rq]ID[281]
+   )
+)
+(
+;B[rs]ID[80]
+;W[qs]ID[81]
+   (
+   ;B[rp]ID[82]
+   ;W[rq]ID[83]
+   ;B[sr]ID[84]
+   ;W[sq]ID[85]
+   ;B[sn]ID[86]
+   ;W[sp]ID[87]
+   ;B[ps]ID[88]C[CHOICE seki]
+   )
+   (
+   ;B[sr]ID[89]
+   ;W[sq]ID[90]
+   ;B[rq]ID[91]
+   ;W[rr]ID[92]
+   ;B[sp]ID[93]
+   ;W[rp]ID[94]C[CHOICE ]
+   )
+)
+(
+;B[ss]ID[95]
+;W[rs]ID[96]C[CHOICE ]
+)
+(
+;B[rq]ID[97]
+;W[rr]ID[98]
+;B[qs]ID[99]
+;W[sq]ID[106]
+   (
+   ;B[rp]ID[107]
+   ;W[rs]ID[108]C[CHOICE ]
+   )
+   (
+   ;B[sr]ID[183]
+   ;W[rp]ID[184]
+   )
+)
+(
+;B[oq]ID[159]
+;W[sr]ID[160]
+)
+(
+;B[or]ID[161]
+;W[sr]ID[162]
+)
+(
+;B[op]ID[163]
+;W[sr]ID[164]
+)
+(
+;B[nq]ID[165]
+;W[sr]ID[166]
+)
+(
+;B[mq]ID[167]
+;W[sr]ID[168]
+)
+(
+;B[np]ID[169]
+;W[sr]ID[170]
+)
+(
+;B[qn]ID[171]
+;W[sr]ID[172]
+)
+(
+;B[pn]ID[173]
+;W[sr]ID[174]
+)
+(
+;B[no]ID[175]
+;W[sr]ID[176]
+)
+(
+;B[lm]ID[177]
+;W[sr]ID[178]
+)
+(
+;B[sn]ID[179]
+;W[sq]ID[180]
+)
+(
+;B[rp]ID[181]
+;W[rq]ID[182]
+)
+)

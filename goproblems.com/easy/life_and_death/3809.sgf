@@ -1,0 +1,19 @@
+(;GE[life and death]DI[12k]DP[58]SO[chrise]CO[8]AW[rs]AW[qs]AW[qr]AW[pr]AW[or]AW[os]AW[pq]AW[pp]AW[qp]AW[rp]AB[qq]AB[rq]AB[rr]AB[sr]AB[sp]AB[so]AB[ro]AB[qo]AB[po]AB[oo]AB[op]AB[oq]AB[nr]AB[ns]AW[kr]AW[kq]AW[ko]AW[kp]AB[lq]AB[lp]AB[lo]AW[mq]AW[mp]AW[mo]AW[no]AW[nq]AB[mr]AB[np]AB[ln]AW[on]AW[om]AW[nm]AB[ol]AB[pl]AB[pm]AW[qn]AW[pn]AW[qm]AW[rl]AW[sl]AB[sm]AB[rm]AB[rn]AW[pk]AW[qk]AB[ql]AW[rk]AW[nj]AW[oj]AW[kn]AW[mj]AB[kj]AB[lj]AW[lk]AW[kk]AP[goproblems]
+(;B[lr];W[nl])
+(;B[nn];W[mm];B[mn]C[O6 is the immediate crucial move. N7 takes one move longer and lets white off more lightlyRIGHT])
+(;B[mm];W[lr]
+(;B[nn];W[ms];B[nl]C[Not as optimal as the correct path])
+(;B[nl];W[ms]
+(;B[nn]C[Not as optimal as the correct path])
+(;B[mn];W[nn]))
+(;B[mn];W[ms]))
+(;B[mn];W[nn]
+(;B[mm];W[nl])
+(;B[nl];W[mm]
+(;B[ll];W[lm];B[lr];W[ml])
+(;B[ml];W[lm];B[lr];W[ll])
+(;B[lm];W[ml]
+(;B[ll];W[mk])
+(;B[mk];W[ll]
+(;B[lk];W[kl];B[nk];W[lr])
+(;B[kl];W[lk]))))))

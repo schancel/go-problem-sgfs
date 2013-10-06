@@ -1,0 +1,62 @@
+(;GE[life and death]DI[25k]DP[76]SO[Era]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[none]PB[none]AW[ha][hb][hc][id][ge][he][gf][hg][ig]AB[ga][gb][gc][gd][hd][fe][ff][gg][gh][hh][ih]C[Black to kill (should be really easy)
+]
+(;B[if]CR[if]
+(;W[hf]CR[hf]
+(;B[ie]CR[ie]C[CHOICE RIGHT White die ])
+(;B[ic]CR[ic]
+;W[ib]CR[ib]
+;B[ie]CR[ie]C[RIGHT])
+(;B[ib]CR[ib]
+;W[ie]CR[ie]
+(;B[ic]CR[ic]
+;W[ia]CR[ia]
+;B[ic]CR[ic]C[RIGHT])
+(;B[ia]CR[ia]
+;W[ic]CR[ic]))
+(;B[ia]CR[ia]
+;W[ie]CR[ie]))
+(;W[ie]CR[ie]
+(;B[hf]CR[hf]C[CHOICE RIGHT White die])
+(;B[ic]CR[ic]
+;W[ib]CR[ib]
+;B[hf]CR[hf]C[RIGHT])
+(;B[ib]CR[ib]
+;W[hf]CR[hf]
+;B[ic]CR[ic]
+;W[ia]CR[ia]
+;B[ic]CR[ic]C[RIGHT])
+(;B[ia]CR[ia]
+;W[hf]CR[hf])))
+(;B[hf]CR[hf]
+;W[if]CR[if]C[White survive])
+(;B[ie]CR[ie]
+;W[if]CR[if]C[White survive])
+(;B[ib]CR[ib]
+(;W[ic]CR[ic]
+;B[if]CR[if]
+(;W[ie]CR[ie]C[CHOICE]
+;B[hf]CR[hf]C[RIGHT White die.])
+(;W[hf]CR[hf]
+;B[ie]CR[ie]C[CHOICE RIGHT White die.]))
+(;W[if]CR[if]
+;B[ic]CR[ic]C[CHOICE RIGHT White die.]))
+(;B[ic]CR[ic]
+(;W[ib]CR[ib]C[CHOICE]
+;B[if]CR[if]
+(;W[ie]CR[ie]C[CHOICE]
+;B[hf]CR[hf]C[RIGHT White die.])
+(;W[hf]CR[hf]
+;B[ie]CR[ie]C[CHOICE RIGHT White die.]))
+(;W[if]CR[if]
+(;B[ib]CR[ib]C[RIGHT White die.])
+(;B[ie]CR[ie]
+;W[eb]LB[ec:A]CR[eb]C[Please answer white's ko threat at A.]
+;B[ec]CR[ec]
+;W[id]CR[id]
+;B[ib]CR[ib]
+;W[ia]CR[ia]
+;B[ic]CR[ic]C[RIGHT])))
+(;B[ia]CR[ia]
+;W[if]CR[if]C[White live...]))

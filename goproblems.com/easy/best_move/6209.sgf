@@ -1,0 +1,14 @@
+(;GE[best move]DI[6k]DP[37]SO[maba]CO[7]AB[rs]AB[qr]AB[pq]AB[or]AB[ps]AW[nr]AW[oq]AW[op]AW[mq]AW[po]AW[qo]AW[qq]AW[sq]AW[sp]AW[rp]AW[qp]AB[ro]AB[so]AB[qn]AB[rm]AB[pn]AB[on]AB[oo]AW[no]AW[nn]C[White to play the best move.]AP[goproblems]
+(;W[sr]C[Black is dead.RIGHT])
+(;W[rr];B[sr]C[White can play Q3 or T1. In both cases black is unconditionally dead, but he has an infinite number of ko-threats that threaten a ko for life.])
+(;W[rq];B[sr]
+(;W[rr];B[pp])
+(;W[pp];B[rr]C[ko]))
+(;W[ss];B[sr]
+(;W[pp];B[pr];W[rr];B[rq]C[ko])
+(;W[rq];B[rr]C[black lives])
+(;W[rr];B[rq];W[pp];B[pr]C[ko]))
+(;W[pp];B[sr]
+(;W[rr]C[double ko. Black is unconditionally dead, but he has an infinite number of ko-threats that threaten a ko for life.])
+(;W[rq];B[rr]C[ko])
+(;W[pr]C[Black is unconditionally dead, but he has an infinite number of ko-threats that threaten a ko for life.])))

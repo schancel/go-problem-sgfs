@@ -1,0 +1,22 @@
+(;GE[elementary]DI[15k]DP[63]SO[maba]CO[7]AB[qb]AB[qc]AB[qa]AB[rb]AB[pb]AW[ob]AW[oc]AW[pc]AW[nd]AB[pd]AB[pe]AB[pf]AW[qd]AW[rd]AW[rc]AB[re]C[Black to start a ko  in the best way possible.]AW[sb]AP[goproblems]
+(;B[qe];W[ra];B[sa]C[Direct ko, black captures first and no local threats for white.RIGHT])
+(;B[sd];W[ra];B[sa]C[Direct ko, black captures first and no local threats for white.RIGHT])
+(;B[sc];W[sd]
+(;B[qe];W[ra];B[sa]C[Direct ko and black captures first.RIGHT])
+(;B[se];W[ra];B[sa]C[Direct ko and black captures first.RIGHT])
+(;B[sa];W[ra];B[sa]C[Two stage ko in white's favour.]))
+(;B[sa];W[ra]C[Direct ko, but white captures first and she has a local threat at A.]LB[sc:A])
+(;B[ra];W[oa]
+(;B[qe];W[pa]C[No ko at all.])
+(;B[sd];W[pa]C[No ko at all.])
+(;B[sc];W[pa];B[sa];W[sb]C[No ko at all.]))
+(;B[pa];W[oa]C[No ko at all.])
+(;B[oa];W[na]
+(;B[pa];W[ra])
+(;B[ra];W[pa]C[Two step ko in white's favour.])
+(;B[sa];W[ra]C[Direct ko, but white captures first and she has a local threat at A.]LB[sc:A])
+(;B[qe];W[pa]C[Direct ko, but white captures first and she has  a local threat at A.]LB[sc:A])
+(;B[sd];W[pa]C[Direct ko, but white captures first and she has a local threat at A.]LB[sc:A])
+(;B[sc];W[sd]
+(;B[qe];W[pa]C[Direct ko, but white captures first.])
+(;B[se];W[pa]C[Direct ko, but white captures first.]))))

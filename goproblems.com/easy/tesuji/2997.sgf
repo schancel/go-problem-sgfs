@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[12k]DP[58]SO[surprised]CO[8]SZ[19]AW[pb]AW[rb]AW[nc]AW[oc]AW[qc]AW[sc]AW[od]AW[rd]AW[qf]AW[pg]AW[qg]AW[nh]AW[pi]AB[ob]AB[mc]AB[pc]AB[nd]AB[pd]AB[qd]AB[qe]AB[re]AB[pf]AB[og]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[nb];W[oe]
+(;B[ne];W[of]
+(;B[nf];W[pe];B[pf]C[RIGHT])
+(;B[pe];W[nf]C[White has cut and now escapes.]))
+(;B[nf];W[ne]
+(;B[me];W[md];B[ld];W[mb])
+(;B[mf];W[me];B[le];W[md];B[ld];W[mb];B[lc];W[na]))
+(;B[of];W[ne])
+(;B[pe];W[ne]))
+(;B[pa];W[qb];B[nb];W[oe]
+(;B[ne];W[of];B[nf];W[pe];B[pf]C[RIGHT])
+(;B[nf];W[ne];B[me];W[md];B[ld];W[mb])
+(;B[pe];W[ne])
+(;B[of];W[ne]))
+(;B[oe];W[nb];B[mb];W[oa]
+(;B[me]C[Black can get a lot more.])
+(;B[ne]C[Black can get a lot more.])
+(;B[md]C[Black can get a lot more.]))
+(;B[pe];W[oe]
+(;B[of];W[ne])
+(;B[ne];W[nb]))
+(;B[of];W[ne]C[Black can get a lot more.]))

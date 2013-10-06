@@ -1,0 +1,46 @@
+(;GE[life and death]DI[2d]DP[14]SO[Hans]CO[9]
+AW[nb][ob][rb][pc][qc][rc][oe][re][qf][og]
+AB[mb][pb][qb][mc][nc][oc][od][pd][qd][rd]C[Black to play.
+]
+(;B[pa];W[sd]C[You could have killed the whole group.])
+(;B[na];W[qa]C[White can live or connect to the outside.])
+(;B[oa];W[qa]C[White can live or connect to the outside.])
+(;B[ra];W[pa]C[White lives.])
+(;B[sb];W[sc]
+(;B[sd];W[ra]
+(;B[na]C[RIGHT
+])
+(;B[oa]C[RIGHT])
+(;B[pa]C[RIGHT Though bad shape.])
+(;B[ma];W[pa]
+(;B[oa];W[qa];B[pb];W[qb];B[na]C[RIGHT])
+(;B[na];W[qa])
+)
+)
+(;B[oa];W[sd]C[You could have killed the whole group.
+])
+
+(;B[ra];W[sa]C[Ko is not good enough.
+])
+)
+
+(;B[sc];W[sb]
+(;B[sd];W[qa]C[White lives.
+])
+
+(;B[ra];W[sd]C[You could have killed the whole group.
+])
+)
+
+(;B[sd];W[qa]
+(;B[sb];W[pa]LB[sc:A][na:B]C[White lives since A and B are miai.
+])
+
+(;B[sc];W[sb]C[White lives.
+])
+
+(;B[na];W[pa]C[White lives.
+])
+)
+
+)

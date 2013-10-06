@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[29]SO[Field Mouse]CO[0]AB[cg]AB[ch]AB[ci]AB[dk]AB[ck]AB[bj]AW[di]AW[dh]AW[dg]AW[df]AB[ce]AB[ee]AB[de]AW[ef]AW[fe]AW[fd]AB[cc]AW[ed]AB[db]AB[eb]AB[fb]AB[gc]AB[gd]AW[ff]AW[fg]AW[fh]AW[eh]AB[gi]AB[gj]AB[gk]AB[fk]AB[hd]AB[he]AB[hf]AB[hg]AB[hh]AB[hi]AW[cl]AW[dl]AW[ek]AW[ej]AW[ei]AB[fl]AB[el]AW[cm]AW[bm]C[White does not want to die. Can you help her?]AP[goproblems]
+(;W[cf]
+(;B[bf]C[CHOICE]
+(;W[bg];B[be]
+(;W[cj];B[bk];W[bi];B[dj];W[bh];B[cj]
+(;W[aj]C[RIGHT])
+(;W[ak]C[RIGHT])
+(;W[bl]C[RIGHT])
+(;W[ai]C[Hmmm, will anyone try this move?RIGHT]))
+(;W[bk];B[cj]))
+(;W[be];B[bd]
+(;W[bg];B[ae];W[cj];B[bh];W[bk]C[RIGHT])
+(;W[cj];B[bk];W[bg];B[bh];W[af];B[dj]))
+(;W[cj];B[bk];W[bg];B[bh];W[be];B[bd];W[af];B[dj]))
+(;B[be];W[bf]C[White will comfortably save her group now.RIGHT]))
+(;W[cj];B[bk];W[cf];B[be]
+(;W[bf];B[bg]C[Next black will connect at A14 or live making an eye at D10.])
+(;W[bg];B[bh]
+(;W[bf];B[dj])
+(;W[ah];B[dj]))
+(;W[dj];B[bf]))
+(;W[bk];B[cj];W[cf];B[bf];W[bg];B[be];W[bh];B[bi]))

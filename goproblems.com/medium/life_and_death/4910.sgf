@@ -1,0 +1,106 @@
+(;GE[life and death]DI[2k]DP[21]SO[santa c]CO[9]SZ[19]AW[qa]AW[lb]AW[nb]AW[nc]AW[nd]AW[od]AW[pd]AW[pe]AW[qe]AW[re]AW[se]AB[oc]AB[pc]AB[qc]AB[qd]AB[rd]AB[sd]C[Black to live! (Avoid ko)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[pa]
+(;W[rb]
+(;B[qb]
+(;W[ra]
+(;B[ob];W[na]
+(;B[oa];W[sc]
+(;B[sa]C[Ohh! Soo close - T18 instead is sente! :(])
+(;B[sb]C[];W[sa]C[Well done! Sente seki! :)RIGHT]))
+(;B[sb];W[oa];B[rc];W[pb]C[:(]MA[pa])
+(;B[rc];W[oa];B[sb];W[pb]C[:(]MA[pa]))
+(;B[sb];W[oa]
+(;B[ob];W[pb]MA[pa]C[:(])
+(;B[rc];W[pb]C[:(])
+(;B[pb];W[ob]))
+(;B[rc];W[oa]
+(;B[ob];W[pb]MA[pa]C[:(])
+(;B[sb];W[pb]C[:(])))
+(;W[sb];B[ob];W[ra]C[RIGHT])
+(;W[ob];B[sb];W[ra];B[rc]C[RIGHT]))
+(;B[ob];W[qb];B[sb]C[Only ko..]LB[pb:1]LB[oa:2]LB[na:3]LB[sc:4]LB[sa:5]LB[ra:6]MA[sa])
+(;B[sb];W[pb]
+(;B[qb];W[oa]
+(;B[ra];W[sa]C[:(]MA[ra])
+(;B[ob];W[pa];B[ra];W[sa]C[:(]MA[ra]))
+(;B[ob];W[oa]
+(;B[qb];W[pa];B[ra];W[sa]C[:(]MA[ra])
+(;B[ra];W[qb]C[:(]))
+(;B[ra];W[qb]C[:(]))
+(;B[pb];W[sb]C[Eye vs. None.. :(])
+(;B[oa];W[sb]C[Eye vs. None.. :(])
+(;B[ra];W[qb]C[Miai. Either white gets an eye and wins the semai or connects outside.]TR[pb]TR[sb]))
+(;W[oa];B[ra]C[RIGHT])
+(;W[ra];B[ob]C[RIGHT])
+(;W[sb];B[rb]C[RIGHT])
+(;W[qb];B[rb]C[RIGHT])
+(;W[ob];B[rb]TR[ra]TR[pb]C[RIGHT])
+(;W[pb]
+(;B[ra]C[RIGHT])
+(;B[qb]C[Wrong! See next problem for ws play! :)])
+(;B[rb];W[ra]C[:(])
+(;B[ob];W[oa]
+(;B[qb];W[ra];B[pa]C[:(]MA[pb])
+(;B[rb];W[ra]C[:(])
+(;B[ra];W[rb]
+(;B[qb];W[sa];B[pa]MA[pb];W[na];B[ra]C[:(]MA[qa])
+(;B[sb];W[qb]C[:(])))
+(;B[oa];W[ob]
+(;B[rb];W[ra]C[:(])
+(;B[qb];W[na]C[:(]))))
+(;B[qb];W[pa]
+(;B[ra];W[sb];B[oa];W[ob];B[pb];W[pa]C[:(])
+(;B[sb];W[ra]C[:(])
+(;B[rb];W[ra]C[:(])
+(;B[oa];W[ob]
+(;B[ra];W[sb];B[pb];W[pa]C[:(])
+(;B[sb];W[ra]C[:(])))
+(;B[pb];W[pa]
+(;B[oa];W[ob]
+(;B[rb];W[ra]C[:(])
+(;B[qb];W[ra]C[:(]))
+(;B[rb];W[ra]C[:(]))
+(;B[ob];W[oa]
+(;B[qb];W[pa]TR[ra]TR[sb]C[:(])
+(;B[pa];W[pb]
+(;B[qb];W[ra];B[pa]C[:(]MA[pb])
+(;B[ra];W[rb]
+(;B[qb];W[sa];B[pa]MA[pb];W[na];B[ra]C[:(]MA[qa])
+(;B[sb];W[qb]C[:(]))
+(;B[rb];W[ra]C[:(]))
+(;B[rb];W[ra]C[:(]))
+(;B[rb];W[ra]C[:(])
+(;B[sb];W[ra]C[:(])
+(;B[oa];W[ob]
+(;B[pb];W[pa]
+(;B[rb];W[ra]C[:(])
+(;B[ra];W[sb];B[qb];W[pa]C[:(])
+(;B[sb];W[ra]C[:(])
+(;B[qb];W[ra]C[:(]))
+(;B[rb];W[ra]C[:(]))
+(;B[ra];W[rb]
+(;B[qb];W[pa]
+(;B[sb];W[sa]C[:(]MA[ra])
+(;B[oa];W[ob]
+(;B[pb];W[sb];B[pa];W[sa]
+(;B[rc];W[qa]C[:(]MA[ra])
+(;B[sc];W[qa]C[:(]MA[ra]))
+(;B[sb];W[sa]C[:(]MA[ra]))
+(;B[pb];W[sa]C[:(]))
+(;B[sb];W[qb]
+(;B[pb];W[oa];B[pa];W[sa]C[:(]MA[ra])
+(;B[ob];W[oa]C[:(])
+(;B[pa];W[pb]C[:(])
+(;B[oa];W[ob];B[pb];W[na]
+(;B[pa];W[sa]C[:(]MA[ra])
+(;B[rc];W[sa]C[:(]MA[ra])))
+(;B[ob];W[qb]
+(;B[pa];W[pb]
+(;B[oa];W[sc]C[:(])
+(;B[sb];W[oa]C[:(])
+(;B[rc];W[oa]C[:(]))
+(;B[oa];W[sb]C[Eye vs no eye. :)])
+(;B[sb];W[oa]C[:(])
+(;B[rc];W[oa]C[:(]))
+(;B[pa];W[qb]TR[pb]TR[sb]C[Miai! If B tries to prevent the connection, W makes an eye and kills. If B tries to deny the risky eye W connets! :)])
+(;B[oa];W[sa]C[:(])))

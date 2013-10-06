@@ -1,0 +1,33 @@
+(;GE[elementary]DI[8k]DP[45]SO[Lothe]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]SO[Go Training v. 2, prob. 5]AW[cb][db][eb][gb][cc][dd][ff]AB[dc][ec][fc][bd][cd]TR[dd]C[This problem is problem 5 from volume 2 of the Nihon Ki-in's 'Understand the Basics:  Go Training' book.  Black to capture the marked White stone.]
+(;B[de]CR[de]
+;W[ed]CR[ed]
+(;B[fe]CR[fe]
+(;W[fd]CR[fd]C[CHOICE]
+;B[gd]CR[gd]
+;W[ee]CR[ee]
+;B[ef]CR[ef]C[RIGHT])
+(;W[ee]CR[ee]C[CHOICE]
+;B[ef]CR[ef]
+;W[fd]CR[fd]
+;B[gd]CR[gd]C[RIGHT]))
+(;B[ee]CR[ee]
+;W[fd]CR[fd]
+;B[fe]CR[fe]
+;W[gd]CR[gd]))
+(;B[ed]CR[ed]
+;W[de]CR[de])
+(;B[ee]CR[ee]
+;W[de]CR[de]
+(;B[ce]CR[ce]
+;W[df]CR[df])
+(;B[df]CR[df]
+;W[ce]CR[ce]
+(;B[be]CR[be]
+;W[cf]CR[cf]
+;B[cg]CR[cg]
+;W[dg]CR[dg]
+;B[bf]CR[bf]
+;W[ef]CR[ef]C[White has broken out of Black's trap.])
+(;B[ef]CR[ef]C[A full triangle is generally considered a good thing, but White is still poised to escape.]))))

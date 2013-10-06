@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[6k]DP[37]SO[kuche12345]CO[0]AW[cp]AW[cq]AB[dp]AB[dq]AB[eq]AW[ep]AW[fp]AB[eo]AB[fo]AB[gn]AW[go]AW[jp]AW[do]AW[dn]C[black to connect his stones]AP[goproblems]
+(;B[gp];W[fq]
+(;B[gq];W[fr]C[not connected ;p])
+(;B[fr];W[gq]
+(;B[ho];W[hq])
+(;B[hp];W[hq]
+(;B[iq];W[ip];B[ho];W[ir])
+(;B[ip];W[iq]))
+(;B[hq];W[gr]
+(;B[hr];W[gs]
+(;B[hs];W[hp]
+(;B[fs]
+(;W[gp];B[ip];W[ho]
+(;B[io];W[hn];B[hm]C[good job ;)RIGHT])
+(;B[in];W[io])
+(;B[hn];W[io]))
+(;W[hn];B[gp]C[RIGHT]))
+(;B[ho];W[ip];B[gp]C[only ko :(]))
+(;B[fs]C[RIGHT];W[hp];B[hs];W[gp];B[ip];W[ho];B[io]C[RIGHT]))
+(;B[gs];W[hr];B[ir];W[hp]))))
+(;B[fq];W[gp];B[gq];W[fn])
+(;B[hp];W[fq];B[fr];W[gq]
+(;B[hq];W[gr]
+(;B[er];W[hr])
+(;B[hr];W[er]))
+(;B[gr];W[hq];B[iq];W[hr];B[ir];W[fn]))
+(;B[hq];W[gp]
+(;B[fr];W[fn])
+(;B[gq]
+(;W[fn])
+(;W[fq];B[fr];W[fn]))
+(;B[fq]
+(;W[fn])
+(;W[gq];B[gr];W[fn])))
+(;B[gq];W[gp];B[fq];W[hq];B[hr];W[iq]))

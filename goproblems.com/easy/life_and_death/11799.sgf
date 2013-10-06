@@ -1,0 +1,26 @@
+(;GE[life and death]DI[10k]DP[54]SO[enigm4]CO[0]AB[ps]AB[pr]AB[pq]AB[qq]AB[rq]AB[rp]AW[os]AW[or]AW[oq]AW[op]AW[pp]AW[qp]AW[ro]AW[so]AW[qr]AW[rr]
+(;B[sr]
+(;W[rs]
+(;B[sp]C[Seki, neither side has points.RIGHT])
+(;B[qs]
+(;W[sp]C[Black has one eye.])))
+(;W[sp];B[rs]C[White lets Black live with points, White will not play like this.RIGHT]))
+(;B[sp];W[sr]
+(;B[rs];W[qs])
+(;B[qs];W[rs])
+(;B[sq]C[Self-atari.])
+(;B[ss]C[White has an eye and Black has none, so Black is dead even without White playing.]))
+(;B[sq];W[sr]C[Black has just one eye and dies even when White ignores any further Black moves.])
+(;B[qs]
+(;W[sr]
+(;B[sq]C[Black has just one eye and dies even without White playing.])
+(;B[rs];W[sp])
+(;B[sp]))
+(;W[sp]
+(;B[sr];W[rs]C[Black has just one eye.])
+(;B[rs];W[sr])))
+(;B[rs];W[sr]
+(;B[qs])
+(;B[sp])
+(;B[sq]C[Black has just one eye and dies even without White playing.]))
+(;B[ss]C[Black cannot even get a seki now.]))

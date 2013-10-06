@@ -1,0 +1,40 @@
+(;GE[best move]DI[18k]DP[66]SO[namdog]CO[0]AW[aa]AW[ab]AW[ac]AW[ad]AW[ae]AW[af]AW[ag]AW[ah]AW[ai]AW[aj]AW[ak]AW[al]AW[am]AW[ao]AW[an]AW[ap]AW[aq]AW[ar]AW[as]AB[ca]AB[cc]AB[ce]AB[cg]AB[ci]AB[db]AB[dd]AB[df]AB[dh]AB[ei]AB[eg]AB[ee]AB[ec]AB[ea]AB[fb]AB[fd]AB[ff]AB[fh]AB[gi]AB[gg]AB[ge]AB[gc]AB[ga]AB[hb]AB[hd]AB[hf]AB[hh]AB[ii]AB[ig]AB[ie]AB[ic]AB[ia]AB[jb]AB[jd]AB[jf]AB[jh]AB[ki]AB[kg]AB[ke]AB[kc]AB[ka]AB[lb]AB[ld]AB[lf]AB[lh]AB[mi]AB[mg]AB[me]AB[mc]AB[ma]AB[oa]AB[ob]AB[pa]AB[pb]AB[qa]AB[qb]AB[ra]AB[rb]AB[sa]AB[sb]AW[rc]AW[qc]AW[oc]AW[pc]AW[od]AW[pd]AW[qd]AW[rd]AW[sd]AW[sc]AW[og]AW[pg]AW[qg]AW[rg]AW[sg]AW[sh]AW[rh]AW[qh]AW[ph]AW[oh]AB[oe]AB[pe]AB[qe]AB[re]AB[se]AB[sf]AB[rf]AB[qf]AB[pf]AB[of]AB[oi]AB[pi]AB[qi]AB[ri]AB[si]AB[sj]AB[rj]AB[qj]AB[pj]AB[oj]AW[ck]AW[ek]AW[dk]AW[fk]AW[gk]AW[hk]AW[ik]AW[jk]AW[lk]AW[kk]AW[mk]AW[nk]AW[ok]AW[pk]AW[qk]AW[rk]AW[sk]AW[sl]AW[rl]AW[ql]AW[pl]AW[ol]AW[nl]AW[ml]AW[ll]AW[kl]AW[jl]AW[il]AW[hl]AW[gl]AW[fl]AW[el]AW[dl]AW[cl]AB[cm]AB[cn]AB[dm]AB[em]AB[fm]AB[gm]AB[im]AB[hm]AB[jm]AB[km]AB[lm]AB[mm]AB[nm]AB[om]AB[qm]AB[pm]AB[rm]AB[sm]AB[sn]AB[rn]AB[qn]AB[pn]AB[on]AB[nn]AB[mn]AB[ln]AB[kn]AB[jn]AB[in]AB[hn]AB[gn]AB[fn]AB[en]AB[dn]C[FORCE]AP[goproblems]
+(;W[ni]C[];B[cr]C[Black protects the lower side, but you kept most of your stones alive.RIGHT])
+(;W[ne]
+(;B[nh];W[nf];B[cr]C[You can get one eye only so you'll lose 53 stones.]))
+(;W[nf];B[nh];W[ne])
+(;W[nh];B[ni];W[nf];B[cr]C[You can get one eye only so you'll lose 53 stones.])
+(;W[ng];B[nh])
+(;W[nb];B[nh];W[na];B[cr]C[You can get one eye only so you'll lose 53 stones.])
+(;W[nc];B[nh])
+(;W[nd];B[nh])
+(;W[na];B[nh];W[nb])
+(;W[nj];B[cr]C[FORCE]
+(;W[ni];B[cp]C[You captured the stones but lost a move.])
+(;W[cq];B[dq]
+(;W[cp];B[ni]
+(;W[br];B[dr]
+(;W[bm]C[Just living is too small.])
+(;W[bj]C[Just living is too small.])
+(;W[dp];B[bj]C[You're dead.])
+(;W[bl];B[bj])
+(;W[bk];B[bm]))
+(;W[bj];B[br])
+(;W[bm];B[br]))
+(;W[ni];B[cp]C[You captured the stones but lost a move.]))
+(;W[cp];B[cq])
+(;W[dq];B[cq]
+(;W[cp];B[dp])
+(;W[dp];B[cp])
+(;W[dr];B[cp];W[cs];B[fr])))
+(;W[dq];B[nh]C[FORCE]
+(;W[gq];B[fq]LB[fp:A]C[Please play at AFORCE];W[fp];B[gr]C[Things get complicated, but because of Black's wall Black can fight hard. You may be able to reduce Black's territory somewhat, but don't expect to make up for the 20+ points you lost above.])
+(;W[fq];B[gr]C[Things get complicated, but because of Black's wall Black can fight hard. You may be able to reduce Black's territory somewhat, but don't expect to make up for the 20+ points you lost above.]))
+(;W[qq];B[pr]
+(;W[pq];B[or])
+(;W[rr];B[sq])
+(;W[qr];B[pq]
+(;W[rs];B[sr])
+(;W[sr];B[rs])
+(;W[pp];B[sr])))
+(;W[eq];B[fr]C[Things get complicated, but because of Black's wall Black can fight hard. You may be able to reduce Black's territory somewhat, but you have to live big to compensate for the 20+ points you may lose above - or keep sente.RIGHT]))

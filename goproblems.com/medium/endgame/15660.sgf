@@ -1,0 +1,19 @@
+(;GE[endgame]DI[1d]DP[16]SO[thanush]CO[0]AB[rc]AB[rd]AB[qc]AB[pd]AB[od]AB[oc]AB[nd]AB[md]AB[mc]AB[nb]AB[lb]AB[la]AW[ka]AW[kb]AW[kc]AW[lc]AW[ld]AW[le]AW[me]AW[ne]AW[oe]AW[pe]AW[qe]AW[qd]AW[re]AW[pc]AW[pb]AW[sd]C[Defend the corner territory]AP[goproblems]
+(;B[sb]
+(;W[qb]C[CHOICE];B[rb]C[RIGHT])
+(;W[se]C[]
+(;B[qb];W[sc]
+(;B[ra]C[RIGHT]))))
+(;B[sc];W[rb];B[qb];W[qa];B[se];W[sb])
+(;B[ra];W[sb]
+(;B[sc];W[rb];B[se];W[qb])
+(;B[rb];W[sc];B[ob]C[B can do better]))
+(;B[qb];W[sb]
+(;B[sc];W[qa])
+(;B[pa];W[sc]))
+(;B[rb];W[sb];B[sc];W[ra];B[se];W[qb]C[B can do better])
+(;B[qa];W[sb]
+(;B[sc];W[qb];B[se];W[rb])
+(;B[qb];W[sc]C[B can do better]))
+(;B[pa];W[rb];B[qb];W[sc];B[ob];W[sb]C[B can do better])
+(;B[ob];W[rb];B[qb];W[sc];B[pa]))

@@ -1,0 +1,67 @@
+(;GE[life and death]DI[5k]DP[32]SO[wheezy]CO[3]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]HA[5]KM[0.00]
+PW[Dan Rosen]PB[Joon Nak Choi]AW[fa][eb][fb][gb][ib][fc][dd][fd][gd][ge][he][df][gf][dg][hg][eh][fh][gh][di]AB[da][ea][ga][ha][db][hb][cc][dc][ec][gc][hc][ed][hd][id][ee][fe][ef][ff][cg][eg][fg][gg][hh]LB[be:A]C[There may be a brilliant escape for White in this handicap game. Can you find it? If not, play at A to resign.]
+(;W[be]CR[be]C[Indeed, White has lost. RIGHT])
+(;W[ie]CR[ie]
+;B[if]CR[if]C[FORCE]
+(;W[hf]CR[hf]
+;B[ig]CR[ig]C[CHOICE])
+(;W[ia]CR[ia]
+;B[hf]CR[hf]C[CHOICE])
+(;W[ic]CR[ic]
+;B[hf]CR[hf]C[CHOICE])
+(;W[ig]CR[ig]
+;B[hf]CR[hf]C[CHOICE]))
+(;W[ih]CR[ih]
+;B[hf]CR[hf]C[FORCE]
+(;W[if]CR[if]
+;B[ie]CR[ie]C[FORCE]
+(;W[ia]CR[ia]
+;B[hf]CR[hf]C[CHOICE])
+(;W[ic]CR[ic]
+;B[hf]CR[hf]C[CHOICE])
+(;W[hf]CR[hf]
+;B[ig]CR[ig]C[CHOICE]))
+(;W[ie]CR[ie]
+;B[if]CR[if]C[CHOICE])
+(;W[hi]CR[hi]
+;B[ie]CR[ie]C[CHOICE]))
+(;W[ig]CR[ig]
+(;B[ie]CR[ie]C[FORCE]
+(;W[hf]CR[hf]
+;B[ih]CR[ih]C[White can't push. CHOICE])
+(;W[if]CR[if]
+;B[hf]CR[hf]C[CHOICE]))
+(;B[hf]CR[hf]C[FORCE]
+(;W[if]CR[if]
+;B[ie]CR[ie]C[FORCE]
+(;W[hf]CR[hf]
+;B[ih]CR[ih]C[CHOICE])
+(;W[ia]CR[ia]
+;B[hf]CR[hf]C[CHOICE])
+(;W[ic]CR[ic]
+;B[hf]CR[hf]C[CHOICE]))
+(;W[ie]CR[ie]
+;B[if]CR[if]C[CHOICE])
+(;W[ih]CR[ih]
+;B[ie]CR[ie]C[CHOICE])
+(;W[hi]CR[hi]
+;B[ie]CR[ie]C[CHOICE])))
+(;W[if]CR[if]
+;B[ie]CR[ie]C[FORCE]
+(;W[hf]CR[hf]
+;B[ig]CR[ig]C[CHOICE])
+(;W[ia]CR[ia]
+;B[hf]CR[hf]C[CHOICE])
+(;W[ic]CR[ic]
+;B[hf]CR[hf]C[CHOICE]))
+(;W[hf]CR[hf]
+;B[ig]CR[ig]C[FORCE]
+(;W[hi]CR[hi]
+;B[ih]CR[ih]C[White can't push. CHOICE])
+(;W[if]CR[if]
+;B[ie]CR[ie]C[CHOICE])
+(;W[ie]CR[ie]
+;B[if]CR[if]C[CHOICE])
+(;W[ih]CR[ih]
+;B[ii]CR[ii]C[White can't push. CHOICE])))

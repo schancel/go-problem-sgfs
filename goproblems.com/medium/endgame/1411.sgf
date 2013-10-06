@@ -1,0 +1,220 @@
+(;GE[endgame]DI[3d]DP[9]SO[lemma]CO[8]SZ[9]AW[ba]AW[bb]AW[hb]AW[bc]AW[cc]AW[fc]AW[gc]AW[ic]AW[cd]AW[dd]AW[ed]AW[hd]AW[id]AW[ce]AW[ie]AW[hg]AW[eh]AW[fh]AW[gh]AW[hh]AW[ih]AW[ei]AW[gi]AB[aa]AB[ab]AB[ac]AB[ec]AB[ad]AB[bd]AB[fd]AB[gd]AB[be]AB[de]AB[ee]AB[ge]AB[he]AB[bf]AB[cf]AB[df]AB[hf]AB[if]AB[dg]AB[eg]AB[fg]AB[gg]AB[ig]AB[dh]AB[di]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[Weiﾃ歉PB[Schwarz]
+(;B[dc];W[eb]
+(;B[fb];W[db]C[black is dead, white wins])
+(;B[db];W[da]
+(;B[fb];W[cb]C[black is dead, white wins])
+(;B[cb];W[ca]C[black is dead, white wins]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[cb]TW[db]TW[fb]TW[gb]TW[ib]TW[dc]TW[ec]TW[hc]TW[fi]TW[hi]TW[ii]TB[ae]TB[fe]TB[af]TB[ef]TB[ff]TB[gf]TB[ag]TB[bg]TB[cg]TB[ah]TB[bh]TB[ch]TB[ai]TB[bi]TB[ci])
+(;B[ca];W[cb]C[black is dead, white wins])))
+(;B[db];W[eb]
+(;B[fb];W[dc]C[white wins])
+(;B[dc];W[da]
+(;B[cb];W[ca]C[black is dead, white wins])
+(;B[fb];W[cb])
+(;B[ca];W[cb])))
+(;B[eb];W[db]
+(;B[da];W[ca]
+(;B[dc];W[ea]
+(;B[fb];W[fa]
+(;B[gb];W[ga]C[white lives])
+(;B[ga];W[gb]C[white lives]))
+(;B[fa];W[fb]C[white lives]))
+(;B[ea];W[fb]
+(;B[dc];W[fa]C[it's over])
+(;B[fa];W[ga]C[black to be killed])
+(;B[ga];W[fa]))
+(;B[fa]
+(;W[fb]
+(;B[ha];W[ib]
+(;B[ga];W[ea])
+(;B[gb];W[ga]))
+(;B[ga];W[ha])
+(;B[ib];W[ia]))
+(;W[ea]C[This is a mistake for White.WRONG]
+(;B[dc];W[fb]C[white lives])
+(;B[fb];W[gb];B[da];W[ga]C[black about to be killed])
+(;B[gb];W[dc];B[da]C[RIGHT])
+(;B[ib];W[ia]
+(;B[gb]C[RIGHT])
+(;B[fb];W[gb];B[da];W[ga]))))
+(;B[fb];W[gb]
+(;B[dc];W[ea]C[black about to be killed])
+(;B[ea];W[ga])
+(;B[fa];W[ga]))
+(;B[gb];W[fb]
+(;B[ea];W[fa]C[black about to be killed])
+(;B[ga];W[fa]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed]))
+(;B[ga];W[ea];B[fa];W[fb];B[da];W[ha]C[wrong]))
+(;B[ca]
+(;W[fb]C[CHOICE]
+(;B[da];W[fa];B[ea]C[seki. black winsRIGHT])
+(;B[ea];W[da]
+(;B[dc];W[fa]C[black is dead, white wins])
+(;B[fa];W[ga]C[black about to be killed]))
+(;B[fa];W[ga]
+(;B[ea];W[da]C[black about to be killed])
+(;B[da];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins])
+(;B[cb];W[da]C[black about to be killed]))
+(;B[ga];W[ea]C[black about to be killed]))
+(;W[ea]C[CHOICE]
+(;B[fa]
+(;W[fb]C[CHOICE];B[da];W[ga];B[ea]C[seki. black winsRIGHT])
+(;W[da]C[CHOICE]
+(;B[gb];W[ha]
+(;B[fb];W[hc]
+(;B[ib]C[dual sekiRIGHT])
+(;B[ga];W[dc]C[black is dead, white wins])
+(;B[ia]C[dual sekiRIGHT])
+(;B[dc];W[ga]C[black is dead, white wins]))
+(;B[ib];W[ga]C[];B[hc];W[fb]C[RIGHT])
+(;B[ia];W[ga]C[black about to be killed])
+(;B[dc];W[fb]C[black is dead, white wins]))
+(;B[dc];W[fb]C[black is dead, white wins])
+(;B[fb];W[gb]C[black about to be killed])
+(;B[ga];W[fb]C[black about to be killed])))
+(;B[fb];W[gb];B[fa];W[da]C[black about to be killed])
+(;B[da];W[fa]C[black about to be killed])
+(;B[gb];W[fb]C[black about to be killed])
+(;B[ga];W[fb]C[black about to be killed])
+(;B[dc];W[fb]C[black is dead, white wins])))
+(;B[dc];W[ea]C[black about to be killed])
+(;B[ea];W[da]
+(;B[dc];W[fb]C[black about to be killed])
+(;B[fb];W[gb]C[black about to be killed])
+(;B[cb];W[fb]
+(;B[dc]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed]))
+(;B[ca];W[fb]
+(;B[dc]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed]))
+(;B[fa];W[ga]C[black about to be killed])
+(;B[gb];W[fb]
+(;B[fa];W[ga]C[black about to be killed])
+(;B[ga];W[ha]C[black about to be killed]))
+(;B[ga];W[fb]
+(;B[dc]C[black about to be killed])
+(;B[fa];W[ha]
+(;B[cb];W[gb]C[black about to be killed])
+(;B[dc]C[black about to be killed])
+(;B[ca];W[gb]C[black about to be killed])
+(;B[gb]C[black about to be killed]))
+(;B[gb];W[ha]C[black about to be killed])
+(;B[ha];W[fa]C[black about to be killed])
+(;B[cb];W[fa]C[black about to be killed]))
+(;B[ha];W[ga]
+(;B[fb];W[gb]C[black about to be killed])
+(;B[fa];W[gb]C[black about to be killed])))
+(;B[fb];W[gb]
+(;B[da];W[ca]
+(;B[dc];W[ea]C[black about to be killed])
+(;B[ea];W[ga]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed])
+(;B[ga];W[ha]
+(;B[ea]C[black about to be killed])
+(;B[fa]C[black about to be killed])
+(;B[dc];W[ea]C[black about to be killed])))
+(;B[ca];W[da]
+(;B[dc];W[cb];B[fa];W[ga]C[black about to be killed])
+(;B[ea];W[cb]
+(;B[dc]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed])
+(;B[ga];W[ha]C[black about to be killed]))
+(;B[ga];W[ha];B[dc];W[cb]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed]))
+(;B[fa];W[ga]
+(;B[da];W[dc]C[black about to be killed])
+(;B[ca];W[da]C[black about to be killed])
+(;B[ea];W[da]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead. white wins]))
+(;B[ea];W[da]
+(;B[dc]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed])
+(;B[cb];W[ca]C[black about to be killed])
+(;B[ga];W[ha]C[black about to be killed]))
+(;B[ga];W[ha]
+(;B[dc];W[ea]C[black about to be killed])
+(;B[fa];W[dc]C[black about to be killed])
+(;B[ea];W[da]C[black about to be killed])
+(;B[da];W[ca]
+(;B[dc];W[ea]C[black about to be killed])
+(;B[ea];W[fa]C[black about to be killed])
+(;B[fa];W[ea]C[black about to be killed]))
+(;B[ca];W[da]
+(;B[dc];W[cb];B[ea];W[fa]C[black is dead, white wins])
+(;B[ea];W[fa]C[black about to be killed])
+(;B[fa];W[ea]C[black about to be killed]))))
+(;B[fa];W[ga]
+(;B[fb];W[gb]
+(;B[ca];W[da]C[black about to be killed])
+(;B[da];W[ca]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins])
+(;B[ea];W[da]C[black about to be killed]))
+(;B[ea];W[fb]
+(;B[da];W[ca]C[black about to be killed])
+(;B[ca];W[da]C[black about to be killed])
+(;B[dc];W[da]C[black is dead, white wins]))
+(;B[da];W[fb]
+(;B[ea];W[ca]C[black about to be killed])
+(;B[ca];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins]))
+(;B[ca];W[fb]
+(;B[dc];W[ea]C[black is dead, white lives])
+(;B[ea];W[da]C[black about to be killed])
+(;B[da];W[ea]C[black about to be killed]))
+(;B[dc];W[fb]C[black about to be killed]))
+(;B[gb];W[fb]
+(;B[ga];W[ha]
+(;B[fa];W[ea]C[black about to be killed])
+(;B[ea];W[da]C[black about to be killed])
+(;B[da];W[ca]
+(;B[dc]C[black about to be killed])
+(;B[ea]C[black about to be killed])
+(;B[fa];W[ea]C[black is dead, white wins]))
+(;B[ca];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins]))
+(;B[fa];W[ga]
+(;B[ea];W[da]C[black about to be killed])
+(;B[da];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins])
+(;B[ca];W[ea]C[black about to be killed]))
+(;B[ea];W[da]
+(;B[cb];W[fa]C[black about to be killed])
+(;B[ca];W[fa]C[black about to be killed])
+(;B[fa];W[ga]C[black about to be killed])
+(;B[dc];W[fa]C[black is dead, white wins])
+(;B[ga];W[ha]
+(;B[cb];W[fa]C[black about to be killed])
+(;B[ca];W[fa]C[black about to be killed])
+(;B[dc];W[fa]C[black is dead, white wins])
+(;B[fa];W[dc]C[black is dead, white wins])))
+(;B[da];W[ea]C[black about to be killed])
+(;B[ca];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins]))
+(;B[ga];W[gb]
+(;B[ha];W[fa]C[didn't work])
+(;B[ia];W[ha]
+(;B[fa];W[ea]C[black about to be killed])
+(;B[fb];W[fa]
+(;B[ea];W[da]C[black about to be killed])
+(;B[ca];W[ea]C[black about to be killed])
+(;B[cb];W[ea]C[black about to be killed])
+(;B[dc];W[ea]C[black is dead, white wins]))
+(;B[ea];W[fa]
+(;B[fb];W[da]C[black about to be killed])
+(;B[da];W[ca]C[black about to be killed])
+(;B[dc];W[da]C[black about to be killed])
+(;B[ca];W[da]C[black about to be killed]))
+(;B[da];W[ca]
+(;B[ea];W[fa]C[black about to be killed])
+(;B[dc];W[ea]C[black about to be killed])
+(;B[fb];W[ea]C[black about to be killed])
+(;B[fa];W[ea]C[black about to be killed]))
+(;B[ca];W[ea]
+(;B[da];W[fa]C[black about to be killed])
+(;B[fb];W[fa]C[black about to be killed])
+(;B[fa];W[fb]C[black about to be killed])
+(;B[dc];W[fb]C[black is dead, white wins]))
+(;B[dc];W[ea]C[black about to be killed]))))
+(;B[fb];W[eb]C[No aji left])
+(;B[ib]C[NOTTHIS]))

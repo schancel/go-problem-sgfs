@@ -1,0 +1,19 @@
+(;GE[life and death]DI[3k]DP[26]SO[santa c]CO[0]AB[ra]AB[rb]AW[qb]AW[pb]AW[pc]AW[oc]AW[nc]AW[mb]AW[mc]AW[na]AB[ma]AB[la]AB[lb]AB[lc]AB[ld]AB[md]AB[nd]AB[od]AB[pd]AB[qd]AB[qc]AW[rc]AW[rd]AB[se]AB[re]AB[qe]AW[sb]C[can you do anything?]AP[goproblems]
+(;B[ob]
+(;W[oa]
+(;B[qa]C[nicely doneRIGHT])
+(;B[sc];W[qa])
+(;B[sd];W[qa]))
+(;W[qa]C[CHOICE]
+(;B[oa];W[sa]
+(;B[sd];W[pa];B[rb]C[nicely doneRIGHT])
+(;B[nb];W[sd])
+(;B[rb];W[ra]
+(;B[sd]C[nicely doneRIGHT])
+(;B[nb];W[sd])))
+(;B[sd];W[oa]))
+(;W[sc];B[oa]C[RIGHT]))
+(;B[oa];W[ob]C[only ko])
+(;B[qa];W[pa])
+(;B[sc];W[ob])
+(;B[sd];W[ob]))

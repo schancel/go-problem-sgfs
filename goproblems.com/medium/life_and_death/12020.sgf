@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1d]DP[15]SO[Field Mouse]CO[0]AB[qc]AB[ob]AB[nb]AB[lb]AB[mc]AB[lc]AW[kb]AW[kc]AW[jd]AW[ld]AW[md]AW[nd]AW[oc]AB[pc]AW[nc]AW[pd]AW[qd]AB[rd]AB[rc]AW[re]AW[qf]AW[ka]C[And the best endgame is... sente matters...]AP[goproblems]
+(;W[ma];B[mb]
+(;W[la];B[ja]C[And if black tenukis now? (classic shape)]
+(;W[pb];B[qb]
+(;W[na];B[ra]
+(;W[sb];B[pa])
+(;W[oa];B[sb]C[You could kill the whole corner]))
+(;W[ra];B[pa]
+(;W[na]C[Black is dead, very good endgame! :o)RIGHT])
+(;W[sd];B[na]))
+(;W[oa];B[pa];W[na];B[ra]C[You could do better])
+(;W[sb];B[pa];W[ra];B[na]C[Black is alive with points]))
+(;W[pa];B[pb])
+(;W[qa];B[pa];W[qb];B[rb]
+(;W[na];B[sd])
+(;W[sd];B[sc];W[ra];B[na];W[sb];B[se]))
+(;W[qb];B[pb];W[rb];B[sb];W[ra];B[pa];W[na];B[sd]C[Black is ok]))
+(;W[pb];B[qb];W[la];B[ja]C[And if black tenukis now?]))
+(;W[mb];B[ma];W[la];B[mb]C[Black keeps a lot])
+(;W[la];B[mb]
+(;W[ma])
+(;W[na]))
+(;W[na];B[mb];W[la]C[];B[pb]C[Black protects and the marked white stone is not placed optimally - it would be better at n19]TR[na]))

@@ -1,0 +1,33 @@
+(;GE[life and death]DI[4k]DP[28]SO[apothycus]CO[6]AB[pb]AB[pc]AB[qc]AB[pd]AB[qe]AB[rf]AW[qa]AW[qb]AW[rc]AW[qd]AW[rd]AW[re]AB[qf]AP[goproblems]
+(;B[sb];W[rb]
+(;B[sa];W[se];B[sc];W[nh]C[In a real game, if the surrounding black stones are alive, White is dead at this point, so no further play would be necessary (at least by Japanese rules). To see why, assume that play continues elsewhere until the game is essentially finished and White has no ko threats remaining. Then you can return to play:]
+(;B[ra];W[sd]C[Bent four in the corner...];B[sb];W[sa];B[ra]C[];W[sc]C[White is alive! A and B are miai to kill. Meanwhile, white will play T19 and live with two eyes. White lives with the bent-four-in-the-corner if he/she has two or more outside liberties.]LB[pa:A]LB[sf:B])
+(;B[pa];W[oh]C[Right, need to fill in White's outside liberties first.]
+(;B[ra];W[sd]C[Bent four in the corner.];B[sb];W[sa];B[ra]C[Ko... but since white has no ko threats remaining, you win. Good job!!RIGHT])
+(;B[sf];W[ph]C[Again...];B[ra];W[sd]C[Bent four in the corner.];B[sb];W[sa];B[ra]C[Ko... but since white has no ko threats remaining, you win. Good job!!RIGHT]))
+(;B[sf]C[];W[oh]C[Right, need to fill in White's outside liberties first.]
+(;B[ra];W[sd]C[Bent four in the corner.];B[sb];W[sa];B[ra]C[Ko... but since white has no ko threats remaining, you win. Good job!!RIGHT])
+(;B[pa];W[ph]C[Again...];B[ra];W[sd]C[Bent four in the corner.];B[sb];W[sa];B[ra]C[Ko... but since white has no ko threats remaining, you win. Good job!!RIGHT])))
+(;B[sc];W[sa];B[ra];W[sd]
+(;B[pa];W[sa]C[White gets two eyes.])
+(;B[se];W[sa]C[White gets two eyes.]))
+(;B[se];W[sa]
+(;B[ra];W[sc]
+(;B[pa];W[sa]C[White gets two eyes.])
+(;B[sd];W[sa]C[White gets two eyes.]))
+(;B[sc];W[sd]C[White gets two eyes.])
+(;B[sd];W[sc]C[White gets two eyes.]))
+(;B[sd];W[sc]LB[se:A]LB[sa:B]C[White gets two eyes.]))
+(;B[se];W[sb]
+(;B[sd];W[ra]C[White gets two eyes.])
+(;B[ra];W[sd]C[White gets two eyes.]))
+(;B[rb];W[sb])
+(;B[sa];W[sb])
+(;B[sc];W[sb])
+(;B[ra]
+(;W[rb])
+(;W[sb]))
+(;B[sd];W[sb]
+(;B[se];W[ra]C[White gets two eyes.])
+(;B[ra];W[se]C[White gets two eyes.]))
+(;B[pa];W[sb]))

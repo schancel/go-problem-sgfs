@@ -1,0 +1,18 @@
+(;GE[endgame]DI[7k]DP[40]SO[Field Mouse]CO[9]AB[bb]AB[ab]AB[cb]AB[db]AB[ea]AB[fa]AB[gb]AW[ac]AW[bc]AW[cc]AW[dc]AW[eb]AW[fb]AW[gc]AW[gd]AW[ee]AW[ef]AW[eg]AW[eh]AW[di]AW[ch]AW[cg]AW[cf]AB[bg]AW[bi]AB[bj]AB[ai]AW[ci]AB[cj]AB[dj]AB[ej]AB[ei]AB[fi]AB[fh]AB[hb]AB[hc]AB[hd]AB[he]AB[ge]AB[fg]AB[fe]AB[ff]AB[aj]AW[ah]C[Black to play the best endgame. Sente is not important.]AW[ae]AB[af]AW[be]AW[bf]AP[goproblems]
+(;B[ec];W[ed]
+(;B[fd]C[Nice! Nine points for black there and fifteen for white. The best you can do!RIGHT])
+(;B[fc];W[fd]C[Almost.]))
+(;B[fc];W[ec]
+(;B[ed];W[dd];B[fd]C[This is not very good.])
+(;B[fd];W[ed]C[This is not the best result.]))
+(;B[fd];W[ec]
+(;B[ed];W[dd];B[fc]C[Black can do a few points better.])
+(;B[fc];W[ed]C[No.]))
+(;B[ed];W[ec]
+(;B[dd];W[fc];B[fd];W[cd];B[de];W[df]C[Not the best.])
+(;B[fc];W[dd];B[fd]C[Not the best.])
+(;B[fd];W[dd];B[fc]C[Nice, but not the best result.]))
+(;B[dd];W[ed]
+(;B[fd];W[ec];B[fc]C[Poor square marked stone!]MA[dd])
+(;B[fc];W[ec];B[fd]TR[dd]C[Poor triangle marked stone!]))
+(;B[ag]C[Hehe. Even if white now passes, this will be one point worse than the solution :-)]MA[gf]MA[hg]MA[gh]MA[hi]MA[gj]TR[fj]TR[gi]TR[hj]TR[hh]TR[gg]TR[hf]TR[ga]TR[ca]TR[aa]MA[ba]MA[da]MA[ha]))

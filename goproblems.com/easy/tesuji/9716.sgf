@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[5k]DP[35]SO[Stones]CO[7]AB[ea]AB[fa]AB[eb]AB[ec]AB[dd]AW[ed]AW[fd]AW[fc]AW[fb]AW[ga]AW[ha]AB[gb]AW[ja]AW[jb]AW[ic]AW[jc]AW[kb]AW[jd]AW[kd]AW[ke]AW[je]AW[le]AW[mf]AB[me]AB[md]AB[ld]AB[mc]AB[lc]AB[kc]AB[lb]AB[la]AB[ka]AW[mg]AW[lg]AW[kg]AW[mh]AB[jf]AB[lf]AB[kf]AB[jg]AB[if]AB[ie]AW[jh]AW[ih]AW[hg]AW[gg]AW[hh]AW[ge]AW[gf]AW[ig]AW[hi]AB[ee]AB[fe]AB[ff]AB[fg]AB[eg]AB[df]AB[dg]AB[gh]AB[gi]AB[hj]AB[ii]AB[ji]AB[kh]AB[lh]AB[li]AB[mi]AB[hk]AB[gk]AB[nb]AB[ob]AB[oc]AW[nc]AW[nd]AW[ne]AW[od]AW[of]AW[ng]AW[og]AB[nh]AB[oh]AB[mj]AB[mk]AB[lk]AB[kk]AW[jk]AW[ik]AW[jl]AW[kl]AB[ml]AB[ll]AB[nl]AW[ni]AW[nj]AW[nk]AB[oi]AW[oj]AW[ok]AW[ol]AB[il]AW[hl]AB[gl]AB[cd]AB[bd]AB[bc]AB[cb]AB[ab]AW[de]AW[ce]AW[be]AW[ad]AW[ae]AW[ac]AW[cf]AW[bf]AW[bg]AW[bh]AW[bi]AW[bj]AW[aj]AW[ak]AB[bk]AB[bl]AB[cl]AB[cj]AB[ci]AB[ch]AB[cg]AW[hd]C[Black to play.   (Please ignore the bottom and right edges of the screen)]AP[goproblems]
+(;B[hb]C[Since the two stones are lost, white's best response is at G17, saving the rest of the group.];W[ia]
+(;B[hc]C[Note that white cannot approach at J18.];W[gd];B[id]C[RIGHT])
+(;B[gc];W[gd]
+(;B[hc];W[id])
+(;B[id];W[hc]))
+(;B[gd];W[gc])
+(;B[ib]))
+(;B[hc];W[hb])
+(;B[ib];W[hb])
+(;B[ia];W[hb])
+(;B[id];W[hb])
+(;B[gc];W[gd])
+(;B[gd];W[gc]))

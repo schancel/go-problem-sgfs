@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[5k]DP[35]SO[Gelya]CO[0]SZ[19]AW[ho]AW[io]AW[jo]AW[no]AW[gp]AW[hp]AW[kp]AW[pp]AW[fq]AW[hq]AW[jq]AW[kq]AW[nq]AW[fr]AW[gr]AW[kr]AW[mr]AW[es]AW[fs]AW[ls]AB[gn]AB[hn]AB[in]AB[jn]AB[qn]AB[go]AB[ko]AB[lo]AB[ep]AB[fp]AB[jp]AB[lp]AB[eq]AB[iq]AB[lq]AB[cr]AB[er]AB[hr]AB[lr]AB[ds]C[Black to play. There is kosumi-tesuji here]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]
+(;B[is];W[ip]
+(;B[gs]C[Correct. Ko is the best you can doRIGHT])
+(;B[ir];W[jp]C[Not this way])
+(;B[hs];W[js]C[damezumari (you can't play at 'a')]LB[gs:a]))
+(;B[hs];W[ir]LB[gs:a]C[damezumari (you can't play at 'a')]))

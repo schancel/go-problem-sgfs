@@ -1,0 +1,13 @@
+(;GE[endgame]DI[2d]DP[13]SO[kok]CO[0]AB[sr]AB[qp]AB[qo]AB[qn]AB[qm]AB[rl]AW[rr]AW[qq]AW[pq]AW[op]AW[np]AW[mp]AW[lp]AW[kq]AW[pp]AW[jq]AB[rq]AB[qr]LB[po:T
+]AP[goproblems]
+(;W[po];B[ps]
+(;W[pr];B[rs]
+(;W[or];B[os];W[ns];B[qs];W[nr]C[CHOICE])
+(;W[os];B[or];W[qs]))
+(;W[os];B[or]
+(;W[pr];B[rs];W[qs])
+(;W[rs];B[pr];W[rp];B[sp];W[sq]C[RIGHT])))
+(;W[pr];B[rs]LB[ps:A];W[ps])
+(;W[ps]
+(;B[pr];W[rs];B[or];W[rp];B[sp];W[sq]C[RIGHT])
+(;B[rs]C[RIGHT])))

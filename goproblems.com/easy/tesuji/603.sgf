@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[12k]DP[56]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];TR[kb][jc][jd][kd][kc]PL[2]
+C[how can white catch the marked stones?
+]
+AW[la][lb][lc][id][ld][je][ke][le]
+AB[kb][gc][jc][kc][gd][jd][kd][he][ie]
+(;W[ic];B[ib];W[jb];B[ja]
+(;W[ka];B[jb];W[hb]C[RIGHT
+])
+
+(;W[hb];B[hc])
+)
+
+(;W[ka];B[ic])
+
+(;W[ja];B[ic])
+
+(;W[hc];B[ic])
+
+(;W[ib];B[ic])
+
+(;W[jb];B[ic])
+
+(;W[hb];B[ic])
+
+)

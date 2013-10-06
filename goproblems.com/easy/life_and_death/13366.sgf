@@ -1,0 +1,19 @@
+(;GE[life and death]DI[7k]DP[42]SO[thavdog]CO[0]AB[qc]AB[rd]AB[re]AB[qf]AB[qg]AW[qe]AW[oe]AW[og]AW[ng]AW[mg]AW[lg]AB[mf]AB[me]AB[md]AB[mc]AB[nb]AB[ob]AB[oc]AW[nd]AW[nc]AW[mb]AW[lb]AW[kc]AW[ke]TR[mc]TR[md]TR[me]TR[mf]C[How can black save the four marked stones?]AP[goproblems]
+(;B[of]
+(;W[pf]
+(;B[od];W[ne];B[nf];W[pe];B[pg]C[RIGHT])
+(;B[ne];W[od])
+(;B[nf]C[];W[pg]
+(;B[od];W[pe];B[ne]C[RIGHT])
+(;B[pd];W[pe])
+(;B[qd];W[pe])))
+(;W[nf];B[ne];W[od];B[pf]C[RIGHT]))
+(;B[nf];W[of])
+(;B[od];W[ne])
+(;B[ne];W[od];B[of];W[pf]
+(;B[pg];W[nf])
+(;B[pe];W[nf];B[pd];W[of])
+(;B[nf];W[pg]))
+(;B[pe];W[of])
+(;B[pf];W[of])
+(;B[pd];W[of]))

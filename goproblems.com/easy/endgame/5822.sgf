@@ -1,0 +1,86 @@
+(;GE[endgame]DI[15k]DP[60]SO[santa c]CO[7]AW[bo]AW[co]AW[cp]AW[cm]AW[cl]AW[ck]AW[bj]AW[bi]AW[bg]AB[bh]AB[ah]AB[ci]AB[ei]AB[ej]AB[fk]AB[el]AB[dm]AB[dn]AB[do]AB[dp]AB[cq]AB[bq]AB[bp]AB[dq]AB[eg]AB[df]AB[ce]C[Black's hungry for points! Are _all_ of the white stones safe? Should White Add (A at C6) a move? Or is he free to Tenuki? (T at F6)FORCE]AW[ai]AB[ch]LB[fn:T]LB[cn:A]AP[goproblems]
+(;W[cn]C[Well done! :)RIGHT])
+(;W[fn];B[cn]C[Is that so? Save them all then!]
+(;W[bn];B[ao]
+(;W[am];B[ak]
+(;W[bl];B[al]
+(;W[bk];B[ap];W[aj];B[an]C[:(])
+(;W[aj];B[ap]
+(;W[bk];B[an]C[:(])
+(;W[an];B[bm]C[:(]))
+(;W[an];B[bm]C[:(]))
+(;W[al];B[ap]
+(;W[bk];B[bm]C[:(])
+(;W[bm];B[bk]C[:(])
+(;W[an];B[bl];W[bm];B[bk]C[:(])
+(;W[bl];B[an]C[:(]))
+(;W[bk];B[ap]
+(;W[al];B[bm]C[:(])
+(;W[bl];B[an]C[:(])
+(;W[bm];B[al]C[:(])
+(;W[an];B[al]C[:(])))
+(;W[al]
+(;B[bm]C[Couldn't save all of them, could you? (B can chose a ko for everything instead by playing at A9)])
+(;B[ak]
+(;W[an];B[bl]
+(;W[bm];B[am]MA[al]C[Ko for everything..])
+(;W[am];B[bm]C[:(])
+(;W[bk];B[am]C[:(]))
+(;W[bk];B[bm]C[:(])
+(;W[bl];B[an]C[:(])
+(;W[bm];B[bk]TR[an]TR[cj]C[:(])))
+(;W[ak];B[bm]C[Couldn't save all of them, could you?])
+(;W[bl];B[ak]
+(;W[an];B[al]C[:(])
+(;W[am];B[al]
+(;W[bk];B[ap]
+(;W[aj];B[an]C[:(])
+(;W[an];B[bm]C[:(]))
+(;W[aj];B[ap]
+(;W[bk];B[an]C[:(])
+(;W[an];B[bm]C[:(]))
+(;W[an];B[bm]C[:(]))
+(;W[al];B[an]C[:(]))
+(;W[bm];B[ak]
+(;W[al];B[bk]C[:(]TR[an]TR[cj])
+(;W[bk];B[al]C[:(])
+(;W[an];B[al]C[:(])))
+(;W[bm];B[ak]
+(;W[bn];B[ao]
+(;W[al];B[bk]C[:(]TR[an]TR[cj])
+(;W[bk];B[al]C[:(])
+(;W[cj];B[al]C[:(])
+(;W[an];B[al]C[:(]))
+(;W[al];B[bk]TR[bn]TR[cj]C[:(])
+(;W[bk];B[al]C[:(]))
+(;W[ak]C[Yes alive - But only a part!])
+(;W[bl];B[ak];W[bn];B[ao]
+(;W[am];B[al]
+(;W[an];B[bm]C[:(])
+(;W[bk];B[ap]
+(;W[an];B[bm]C[:(])
+(;W[aj];B[an]C[:(]))
+(;W[aj];B[ap]
+(;W[an];B[bm]C[:(])
+(;W[bk];B[an]C[:(])))
+(;W[al];B[an]C[:(])
+(;W[an];B[al]C[:(]))
+(;W[al]C[Yes alive - But only a part!])
+(;W[am];B[ak];W[bn];B[ao]
+(;W[bl];B[al]
+(;W[bk];B[ap]
+(;W[aj];B[an]C[:(])
+(;W[an];B[bm]C[:(]))
+(;W[aj];B[ap]
+(;W[bk];B[an]C[:(])
+(;W[an];B[bm]C[:(]))
+(;W[an];B[bm]C[:(]))
+(;W[al];B[ap]
+(;W[bk];B[bm]C[:(])
+(;W[bl];B[an]C[:(])
+(;W[an];B[bl]C[:(]))
+(;W[bk];B[ap]
+(;W[bl];B[an]C[:(])
+(;W[al];B[bm]C[:(])))
+(;W[bk];B[bn]C[:(]))
+(;W[as]C[In case somebody wants to play around with the position...]))

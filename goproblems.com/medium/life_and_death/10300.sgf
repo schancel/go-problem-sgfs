@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[20]SO[MeleeNewb]CO[9]AB[aq]AB[bq]AB[bp]AB[cp]AB[dp]AB[dq]AB[dr]AB[er]AB[es]AW[ap]AW[ao]AW[co]AW[bo]AW[do]AW[ep]AW[eq]AW[fr]AW[fs]AW[cr]AW[fo]C[Black get the best local result.]AP[goproblems]
+(;B[br];W[bs]
+(;B[cs];W[ds]C[E5 for a ko threat]LB[eo:K]
+(;B[as];W[ar]LB[eo:K]
+(;B[cs]C[Life with a double ko. Good job!CHOICERIGHT])
+(;B[eo]C[Nope, you don't need to use a ko threat.]))
+(;B[eo]C[Nope, you don't need to use a ko threat.])
+(;B[ar];W[cs]C[Seki, not the best response.])
+(;B[cq];W[ar]))
+(;B[ar];W[cs]C[Seki, not the best response.])
+(;B[as];W[cs]C[Mannen-ko. Not the best response.])
+(;B[ds];W[cs];B[as];W[ar]C[Ko, white takes first. Not the best response.])
+(;B[cq];W[cs];B[as];W[ar]C[Ko, white takes first. Not the best response.]))
+(;B[cs];W[br]
+(;B[bs];W[ar]C[Seki, not the best response.])
+(;B[ar];W[bs]
+(;B[ds]C[Seki, not the best response.])
+(;B[cq];W[ds]C[Ko, white takes first. Not the best response.])
+(;B[as];W[ds]C[Ko, white takes first. Not the best reponse.]))
+(;B[cq];W[ar]C[])
+(;B[as];W[ar]))
+(;B[bs];W[br]
+(;B[cs];W[ar]C[Seki, not the best response.])
+(;B[ar];W[cs]C[Mannen-ko. Not the best response.])))

@@ -1,0 +1,35 @@
+(;GE[elementary]DI[18k]DP[65]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[oa][mb][nb][nc][oc][nd][rd][ne][re][nf][of][pf][qf][rf]
+AB[ob][pb][qb][rb][sb][pc][qc][rc][od][qd][sd][oe][pe]PL[2]
+C[white to kill
+]
+(;W[qe];B[pa]
+(;W[ra]C[RIGHT
+])
+
+(;W[na];B[ra])
+)
+
+(;W[pa];B[qe]
+(;W[qa];B[ra])
+
+(;W[ra];B[qa])
+)
+
+(;W[ra];B[qe]
+(;W[pa];B[qa])
+
+(;W[qa];B[pa])
+)
+
+(;W[se];B[qe])
+
+(;W[sa];B[qe])
+
+)

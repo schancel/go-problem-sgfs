@@ -1,0 +1,9 @@
+(;GE[endgame]DI[7k]DP[40]SO[DarkSycthe]CO[0]AB[al]AB[bl]AW[ak]AW[bk]AW[dk]AB[cm]AB[bn]AB[bm]AW[cl]AW[dm]AW[cn]AW[el]AB[bo]AW[co]AW[en]AB[cp]AB[bp]AB[eo]AB[fo]AB[fn]AW[ck]AW[em]AB[fl]AB[fk]AB[ek]AW[aq]AW[bq]AW[cq]AW[dq]AW[eq]AW[fq]AB[ap]AB[fm]C[Assume the rest of the board is settled. What is the best endgame play here?]AB[ep]AP[goproblems]
+(;B[dn]
+(;W[dl]C[CHOICE]
+(;B[dp]C[Black gains 5 points, the best.RIGHT])
+(;B[do]C[Black gains 4 points. Close, but there is a better move.]))
+(;W[do];B[dp];W[dl];B[dn]C[Black gains a net of 5 points (White has one prisoner too).RIGHT]))
+(;B[dp];W[dn]C[Black doesn't gain any points from this.])
+(;B[do];W[dl];B[dn]C[Black gains 4 points. Close, but there is a better move.])
+(;B[an];W[dl]))

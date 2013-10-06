@@ -1,0 +1,4 @@
+(;GE[elementary]DI[30k]DP[91]SO[Acorn]CO[0]AB[dp]AB[cp]AB[bp]AB[bo]AB[cn]AB[dm]AB[cm]AW[co]AW[do]AW[dn]AW[en]AW[em]AW[dl]AW[bl]AW[bn]AP[goproblems]
+(;B[bm]C[By giving atari to a white stone with 1, Black can save his three endangered stones.RIGHT]LB[bm:1])
+(;B[cl];W[ck]C[If Black plays 1, White blocks the escape route with 2 and the four black stones will be captured on the next move.]LB[cl:1]LB[ck:2])
+(;B[an];W[bm]C[Black's stones cannot escape.]))

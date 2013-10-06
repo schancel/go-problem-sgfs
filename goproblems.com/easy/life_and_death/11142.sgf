@@ -1,0 +1,5 @@
+(;GE[life and death]DI[12k]DP[56]SO[GWG]CO[0]AB[jr]AB[js]AB[iq]AB[hq]AB[gq]AB[gr]AB[gs]AB[fq]AB[eq]AB[er]AB[ds]AB[dr]AW[cs]AW[cr]AW[dq]AW[ep]AW[cp]AW[fp]AW[gp]AW[hp]AW[ip]AW[jq]AW[kp]AW[kr]AW[ks]LB[dp:Y]LB[jp:N]C[White to play. Can white kill Black? Play Y if you think he can and N if you dont.FORCE]AP[goproblems]
+(;W[dp];B[jp]C[Now kill it.]
+(;W[ir];B[fs]C[Wrong! Black loses a few stones but lives.CHOICE])
+(;W[fs];B[ir]C[Wrong! Black lives with all his stones.CHOICE]))
+(;W[jp]C[Right! White needs to play both of the marked areas to kill black so if white plays one, black plays the other and lives. J2 would be best in this siduation as it allows white to capture a few stones.RIGHT]MA[fs]MA[ir]))

@@ -1,0 +1,14 @@
+(;GE[life and death]DI[12k]DP[55]SO[klapaucius]CO[7]GM[1]FF[4]AB[kq][kr][ks][iq][hq][gr][gs][jp][ir]AW[ls][lr][lq][lp][hp][gp][gq]
+[fr][fq][jo][ko][io][kp][is][fs]C[Black to live.]AP[SmartGo:1.5]SZ[19]MULTIGOGM[1]
+
+(;B[js];W[jq]
+(;B[jr];W[hs];B[hr];W[ip])
+(;B[hs]C[RIGHT]))
+(;B[hr];W[jr]
+(;B[js];W[jq]C[Oops.])
+(;B[jq];W[js]C[Dead.])
+(;B[ip];W[js]C[Going for a seki, were you?]))
+(;B[hs];W[hr]C[Oops.])
+(;B[ip];W[hr]C[Snapback!])
+(;B[jr];W[hr]C[Snapback!])
+(;B[jq];W[hr]C[Snapback!]))

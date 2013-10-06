@@ -1,0 +1,5 @@
+(;GE[elementary]DI[15k]DP[62]SO[symplicity]CO[0]AB[oo]AB[op]AB[qq]AW[np]AW[oq]AW[pq]TR[pq]AW[lq]AP[goproblems]
+(;B[qp]C[Protects the corner in good shape.RIGHT])
+(;B[pp]LB[qr:A]C[Bad shape. Leaves a cutting point at B, and Black can't respond as strongly to white's hane at A later.]LB[qp:B])
+(;B[qr];W[pp]C[Black is cut.])
+(;B[nq]C[NOTTHIS]))

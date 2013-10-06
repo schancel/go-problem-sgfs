@@ -1,0 +1,19 @@
+(;GE[life and death]DI[5k]DP[34]SO[DarkSycthe]CO[0]AB[or]AB[os]AW[oq]AW[nq]AB[nr]AW[mr]AW[mq]AB[pq]AB[qq]AB[sr]AW[oo]AB[qr]AW[qs]AW[op]AW[po]AW[rs]AB[sq]AW[qo]AB[ss]AB[rp]AW[ro]AW[so]AB[qp]AW[sp]AW[ms]AB[ns]LB[mn:T]C[White to kill black. If you think black is unconditionally alive, play T for tenuki.]AP[goproblems]
+(;W[rr];B[rq]
+(;W[pp];B[ps])
+(;W[pr];B[ps])
+(;W[ps];B[pr]))
+(;W[ps];B[rr]
+(;W[pp];B[pr])
+(;W[pr];B[or]))
+(;W[pr];B[rr];W[ps];B[or])
+(;W[rq];B[rr])
+(;W[pp];B[rr])
+(;W[mn]AB[ms]AB[mr]AB[mq]AW[ns]AW[nr]AW[or]AW[os]AB[nq]AB[oq]AW[pq]AW[qq]AB[qs]AB[rs]AW[qr]AW[sr]AW[sq]AW[ss]AB[sp]AW[rp]AW[qp]AB[op]AB[oo]AB[po]AB[qo]AB[ro]AB[so]C[];B[pr]C[Ok, please demonstrate how to live.]
+(;W[rr];B[ps];W[or]C[RIGHT])
+(;W[ps];B[pr]
+(;W[rr];B[os];W[ps];B[qs])
+(;W[or];B[rr]
+(;W[rq];B[pp])
+(;W[ps];B[rq])))
+(;W[rq];B[ps])))

@@ -1,0 +1,18 @@
+(;GE[life and death]DI[20k]DP[72]SO[therealmeal]CO[6]AB[ra]AB[sb]AB[sc]AB[rc]AB[qb]AB[ka]AB[la]AB[ma]AB[kc]AB[lc]AB[mc]AW[jd]AW[kd]AW[ld]AW[md]AW[nd]AW[pa]AW[pb]AW[qc]AW[rd]AW[sd]AW[pc]AW[qd]AW[id]AB[jc]AB[ja]AW[hb]AW[hc]AW[hd]AB[ia]AB[ib]AB[ic]AB[kb]AW[ha]AW[oa]C[CHOICE]AP[goproblems]
+(;B[qa];W[mb]
+(;B[nb]
+(;W[nc]
+(;B[lb];W[na]C[False Eye])
+(;B[na]C[RIGHT]))
+(;W[na]
+(;B[nc]C[RIGHT])
+(;B[lb];W[nc]C[False Eye])))
+(;B[na];W[nb]
+(;B[ob];W[nc])
+(;B[nc];W[ob]))
+(;B[nc];W[nb]
+(;B[na];W[ob])
+(;B[ob];W[na])))
+(;B[mb];W[qa])
+(;B[nc];W[qa])
+(;B[nb];W[qa]))

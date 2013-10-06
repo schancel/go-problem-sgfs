@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[43]SO[tom111]CO[7]AB[bs]AB[ap]AB[ao]AB[bo]AB[co]AB[dp]AB[ep]AB[fp]AB[fq]AB[fr]AW[eq]AW[dq]AW[cq]AW[cp]AW[bp]AW[aq]AW[ar]AW[br]C[Black to kill]AP[goproblems]
+(;B[cs]C[Correct! Connected by Monkey JumpRIGHT])
+(;B[cr];W[dr]
+(;B[ds];W[es])
+(;B[cs];W[ds]))
+(;B[ds];W[cs]
+(;B[es];W[cr])
+(;B[cr];W[dr]
+(;B[cs];W[es])
+(;B[es];W[cs]C[KO, Black can do better])))
+(;B[es];W[cs])
+(;B[dr];W[cs];B[cr];W[er]
+(;B[es];W[ds])
+(;B[ds];W[es])))

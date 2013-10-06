@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3d]DP[11]SO[adum]CO[5]AB[ra]AB[rb]AB[qc]AB[rd]AB[re]AW[rf]AW[qf]AW[qe]AW[pc]AW[rh]LB[nc:0]LB[nd:1]LB[ne:2]LB[nf:3]LB[ng:4]LB[nh:5]LB[oe:6]LB[of:7]LB[og:8]C[how many ways to kill? (no ko)FORCE]AW[pa]AW[pd]AW[qb]AP[goproblems]
+(;W[ng];B[nf]C[correct. now you can exploreRIGHT]
+(;W[qd]C[RIGHT])
+(;W[se]C[RIGHT])
+(;W[sf];B[se];W[sc];B[sb];W[rc];B[sd];W[rc]C[RIGHT])
+(;W[sb];B[sc]
+(;W[se];B[qd];W[sf];B[sa];W[sd]C[RIGHT])
+(;W[qd];B[se]))
+(;W[sc];B[sb];W[se];B[rc])
+(;W[rc];B[sc])
+(;W[sd];B[sc])
+(;W[sa];B[sb]))
+(;W[nc]C[wrong. after you get the right number, you can see why.])
+(;W[nd]C[wrong. after you get the right number, you can see why.])
+(;W[ne]C[wrong. after you get the right number, you can see why.])
+(;W[nf]C[wrong. after you get the right number, you can see why.])
+(;W[nh]C[wrong. after you get the right number, you can see why.])
+(;W[oe]C[wrong. after you get the right number, you can see why.])
+(;W[of]C[wrong. after you get the right number, you can see why.])
+(;W[og]C[wrong. after you get the right number, you can see why.]))

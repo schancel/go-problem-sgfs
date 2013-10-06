@@ -1,0 +1,39 @@
+(;GE[life and death]DI[4k]DP[28]SO[lok]CO[8]AB[cr]AB[cq]AB[cp]AB[bo]AB[bn]AB[aq]AW[dr]AW[dq]AW[dp]AW[co]AW[cn]AW[cm]AW[bm]AW[am]AW[fr]C[White to kill.]AP[goproblems]
+(;W[bp]
+(;B[ap]C[CHOICE]
+(;W[ao];B[bq];W[an]C[Yup^^RIGHT])
+(;W[bs];B[cs];W[ao]C[This kills too. But playing B1 wasn't necessary.RIGHT])
+(;W[br];B[bs])
+(;W[cs];B[bs];W[br];B[bq];W[as];B[ar]))
+(;B[ao]C[CHOICE]
+(;W[br];B[bq];W[cs];B[bs];W[as]TR[ar]C[Black can't approach.RIGHT])
+(;W[an];B[ap]
+(;W[ar];B[bq];W[bs];B[cs])
+(;W[cs];B[bs]
+(;W[ds];B[br])
+(;W[br];B[ds]))
+(;W[br];B[bs]))
+(;W[bs];B[cs]
+(;W[an];B[ap];W[ar];B[bq])
+(;W[ar];B[bq]))
+(;W[ar];B[bq])
+(;W[cs];B[bs];W[br];B[bq];W[as]TR[ar]C[Black can't approach.RIGHT])))
+(;W[an];B[bp]
+(;W[cs];B[bs])
+(;W[br];B[bs]TR[ar]TR[ao])
+(;W[bs];B[cs]TR[br]TR[ao]))
+(;W[ao];B[bp]
+(;W[br];B[bs]TR[ar]TR[an])
+(;W[cs];B[bs])
+(;W[bs];B[cs]TR[br]TR[an]))
+(;W[br];B[bs]
+(;W[bp];B[bq]
+(;W[ao];B[ap];W[an];B[ar])
+(;W[ar];B[ap]))
+(;W[ar];B[bp]))
+(;W[bs];B[cs];W[bp];B[ao];W[an];B[ap];W[ar];B[bq])
+(;W[cs];B[bs]
+(;W[bp];B[bq])
+(;W[br];B[ds])
+(;W[ds];B[ar])
+(;W[ar];B[bp])))

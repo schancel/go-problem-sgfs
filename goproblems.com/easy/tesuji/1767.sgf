@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[10k]DP[51]SO[ferdi]CO[8]SZ[19]AW[am]AW[bm]AW[cm]AW[em]AW[dn]AW[eo]AW[ep]AW[cq]AW[eq]AW[dr]AW[er]AW[ds]AB[an]AB[bn]AB[cn]AB[bo]AB[do]AB[ap]AB[dp]AB[bq]AB[dq]AB[cr]AB[cs]TR[am]C[White to move! What can he do?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[WeiÃŸ]PB[Schwarz]PL[W]
+(;W[cp]
+(;B[co]
+(;W[br];B[bp]
+(;W[cq];B[cp]
+(;W[bs];B[cq]
+(;W[ar]TR[am]C[It's a seki, counting three points for black (the three captured stones). If he had answered the marked stone, there would have been ten points of territory - black lost seven points here!  CHOICERIGHT])
+(;W[aq];B[ar]))
+(;W[ar];B[aq]))
+(;W[bs];B[cq]
+(;W[ar];B[aq])
+(;W[aq];B[ar]))
+(;W[ar];B[cq])
+(;W[cp];B[cq]))
+(;W[bs];B[br])
+(;W[aq];B[ar])
+(;W[ar];B[bp]
+(;W[cq];B[br])
+(;W[br];B[cq])))
+(;B[br];W[co];B[bp]TR[co]C[This isn't blacks best try - he only has five points left compared to the six white earned, and it is gote also. Black should have played 2 at the marked point!  RIGHT]))
+(;W[br];B[cp]
+(;W[bs];B[cq];W[ar];B[aq]C[This comes to nothing.])
+(;W[ar];B[aq]))
+(;W[co];B[cp])
+(;W[bp];B[cp])
+(;W[ar];B[br];W[cp];B[co])
+(;W[bs];B[br];W[cp];B[co]))

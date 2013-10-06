@@ -1,0 +1,46 @@
+(;GE[life and death]DI[2k]DP[22]SO[unkx80]CO[7]AB[br]AB[ar]AB[cq]AW[bs]AW[cr]AW[dr]AW[dq]AB[eq]AB[fq]AW[dp]AW[ep]AW[fp]AB[cp]AW[cn]AW[dn]AW[co]AW[en]AB[bo]AB[bn]AB[cm]AB[bl]AB[dm]AW[fn]AW[em]AB[gp]AB[dk]AB[ek]AB[hl]AW[fl]AB[hk]AB[hm]AB[go]AB[iq]AW[in]AB[kq]AW[gl]AB[gn]AB[gj]AW[jm]AW[kl]AW[gm]AB[ij]AW[dl]AB[ck]AW[fo]C[Black to play.]AP[goproblems]
+(;B[el]
+(;W[fr]
+(;B[gr];W[er]
+(;B[cs];W[ds]
+(;B[fs];W[gq]
+(;B[fq];W[hq]
+(;B[hr];W[hp]
+(;B[io]C[White cannot escape.RIGHT])
+(;B[ip];W[ho])
+(;B[ho];W[ip])
+(;B[hn];W[io]))
+(;B[hp];W[hr])
+(;B[ip];W[hr]))
+(;B[hq];W[fq])
+(;B[hr];W[fq]))
+(;B[gq];W[fs]))
+(;B[fs];W[es]
+(;B[cs];W[gq]
+(;B[fq];W[hq]
+(;B[hr];W[hp]
+(;B[io]C[White cannot escape.RIGHT])
+(;B[ip];W[ho])
+(;B[ho];W[ip])
+(;B[hn];W[io]))
+(;B[hp];W[hr])
+(;B[ip];W[hr]))
+(;B[hq];W[fq])
+(;B[hr];W[fq]))
+(;B[gq];W[cs]))
+(;B[gq];W[fs]))
+(;B[gq];W[er])
+(;B[er];W[gq])
+(;B[cs];W[gr]
+(;B[gq];W[er])
+(;B[er];W[gq])
+(;B[hr];W[gq])))
+(;W[er];B[fr]C[RIGHT])
+(;W[gq];B[gr];W[hq];B[hp];W[hr];B[ir];W[fr];B[hs];W[er];B[cs]C[RIGHT])
+(;W[gr];B[gq]
+(;W[er];B[fr]C[RIGHT])
+(;W[fr];B[er]C[RIGHT])))
+(;B[er];W[el])
+(;B[fr];W[el])
+(;B[gr];W[el])
+(;B[gq];W[el]))

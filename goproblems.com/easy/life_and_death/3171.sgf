@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[45]SO[polo]CO[8]AB[bd][bc][cc][dc][ec][fc][gd][hd][he][hf][hg][gh][fh][eh][dh][ch][bg][ce][ee][ef]AW[cd][dd][ed][fd][ge][gf][fg][eg][dg][cf][bf][be]C[Black to kill]SZ[19]
+
+(;B[de];W[fe];B[df];W[ff];B[de]C[RIGHT the bulky five nakade.])
+(;B[fe];W[de]LB[df:a]C[Black cannot push at a, white is alive.])
+(;B[gg];W[de])
+(;B[ff];W[de]LB[df:a]C[Black cannot push at a, white is alive.])
+(;B[df];W[de];B[gg];W[cg])
+(;B[cg];W[de]))

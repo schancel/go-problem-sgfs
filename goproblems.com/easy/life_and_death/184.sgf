@@ -1,0 +1,52 @@
+(;GE[life and death]DI[4k]DP[30]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;;
+AW[bn][cn][dn][en][fn][gn][jn][bo][go][jo][bp][hp][ip][bq][jq][cr][dr][er][gr][ir][jr][fs]
+AB[co][do][eo][cp][fp][cq][dq][eq][fq][gq][hq][iq][fr][hr]PL[2]
+C[white to kill
+]
+(;W[gs];B[es]
+(;W[hs];B[is]
+(;W[gs];B[fs]
+(;W[hs]C[RIGHT
+])
+
+(;W[js];B[hs])
+)
+
+(;W[hs];B[gs])
+
+(;W[fs];B[gs])
+)
+
+(;W[ds];B[hs]
+(;W[es];B[br]
+(;W[bs];B[cs])
+
+(;W[ar];B[cs])
+)
+
+(;W[br];B[es]
+(;W[fs];B[gs])
+
+(;W[gs];B[fs])
+)
+)
+
+(;W[br];B[hs];W[fs];B[gs])
+)
+
+(;W[hs];B[gs]C[ko - white can do better
+])
+
+(;W[es];B[gs])
+
+(;W[br];B[gs])
+
+(;W[is];B[gs])
+
+)

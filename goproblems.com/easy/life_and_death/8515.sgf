@@ -1,0 +1,25 @@
+(;GE[life and death]DI[20k]DP[71]SO[BurnEmDown]CO[5]AB[hb]AB[gb]AB[ib]AB[jc]AB[kb]AB[lb]AB[mb]AW[fb]AW[fc]AW[gc]AW[hc]AW[ic]AW[jd]AW[kc]AW[lc]AW[mc]AW[nc]AW[nb]C[black to liveCHOICE]AP[goproblems]
+(;B[ja]C[correct, black's only chance for living is koRIGHT])
+(;B[jb];W[ga]
+(;B[ha];W[ma]
+(;B[la];W[ja])
+(;B[ja];W[la])
+(;B[ka])
+(;B[ia]))
+(;B[ma];W[ha]
+(;B[ia];W[ka])
+(;B[ka];W[ia]))
+(;B[ka]
+(;W[ma])
+(;W[ha]
+(;B[ia];W[ma])
+(;B[ma];W[ia])))
+(;B[ia];W[ma])
+(;B[ja];W[ha])
+(;B[la];W[ha]))
+(;B[ga])
+(;B[ma])
+(;B[la])
+(;B[ka])
+(;B[ia])
+(;B[ha]))

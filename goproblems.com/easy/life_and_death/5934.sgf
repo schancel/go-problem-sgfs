@@ -1,0 +1,46 @@
+(;GE[life and death]DI[4k]DP[29]SO[kennabee]CO[7]AB[bc]AB[cc]AB[dc]AB[ec]AB[fc]AB[bb]AW[cb]AW[db]AW[eb]AW[fb]AW[gb]AB[gc]AB[hc]AW[hb]AB[ic]AW[ib]AB[jb]AB[jc]AW[mb]AW[mc]C[You have to look around first]AP[goproblems]
+(;B[ca];W[ia]
+(;B[da];W[ea]
+(;B[ga];W[ba];B[ca]C[];W[ja]
+(;B[ka];W[kb])
+(;B[kb];W[ka])
+(;B[lb];W[la];B[kb];W[ka]))
+(;B[ja]
+(;W[ga])
+(;W[ba]
+(;B[ga];W[ca])
+(;B[ca];W[ga]))))
+(;B[ja];W[da];B[fa];W[ga]))
+(;B[ia]
+(;W[ca]
+(;B[ea];W[ha];B[fa];W[ja]
+(;B[kb];W[ka];B[la];W[ia];B[lb]C[RIGHT])
+(;B[la]
+(;W[kb]
+(;B[ka]
+(;W[lb]C[Just ko])
+(;W[ia];B[lb];W[kc];B[lc];W[kd];B[ld]))
+(;B[lb];W[lc];B[kc];W[ma];B[ka];W[kb])))
+(;B[lb];W[la])
+(;B[ka];W[kb]C[Ko]))
+(;B[ha];W[ga];B[ea];W[ja];B[ia];W[ka];B[la];W[kb];B[lb];W[kc];B[lc];W[kd]C[White escapes.])
+(;B[fa];W[ea]))
+(;W[ha]
+(;B[ja];W[ca]
+(;B[ea];W[fa])
+(;B[fa];W[ea]))
+(;B[ca]
+(;W[ja];B[kb];W[ka];B[la];W[ia];B[lb]C[RIGHT])
+(;W[da];B[fa];W[ja];B[kb];W[ka];B[la];W[ia];B[lb]C[RIGHT]))
+(;B[fa]
+(;W[ja]
+(;B[kb];W[lb];B[ka]C[RIGHT])
+(;B[ka];W[kb]C[Ko])
+(;B[lb];W[la])
+(;B[la];W[kb]
+(;B[ka];W[lb]C[Ko])
+(;B[lb];W[lc];B[kc];W[ma];B[ka];W[kb]))))))
+(;B[fa];W[ia];B[ca];W[da];B[ga];W[ja]
+(;B[ka];W[kb])
+(;B[kb];W[ka])
+(;B[lb];W[la];B[kb];W[ka])))

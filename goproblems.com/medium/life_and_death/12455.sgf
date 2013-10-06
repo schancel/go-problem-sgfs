@@ -1,0 +1,54 @@
+(;GE[life and death]DI[3d]DP[9]SO[rainysky]CO[0]AB[dr]AB[dq]AB[eq]AB[fq]AB[gq]AB[gr]AW[hr]AW[hq]AW[jr]AW[hp]AW[cr]AW[cq]AW[dp]AW[do]AW[bm]AW[cm]AW[cl]AW[cj]AB[dn]AB[en]AB[eo]AB[ep]AW[go]AW[fo]AW[fm]AW[el]AW[ej]C[B, do your best.]AP[goproblems]
+(;B[bo];W[cn]
+(;B[co];W[cp]
+(;B[cs]
+(;W[bs]C[CHOICE]
+(;B[bq];W[br];B[bp];W[ds]
+(;B[ar];W[aq];B[es];W[bn];B[cs]C[ko, B first, 2 local threat at marked pt. The best result.RIGHT]TR[ap]TR[gs])
+(;B[es]C[RIGHT]))
+(;B[bp];W[bq];B[aq];W[ds];B[ar];W[ap];B[ao];W[br];B[es];W[an];B[cs]C[Not the best ko.])
+(;B[br];W[bq];B[as];W[aq])
+(;B[ar];W[bp]C[w seki locally; b die eventually])
+(;B[ap];W[bq])
+(;B[aq];W[bp]
+(;B[br];W[ds])
+(;B[ap];W[bn])))
+(;W[br];B[bp];W[ar];B[bs];W[ap];B[ao];W[bq];B[aq]C[RIGHT])
+(;W[aq];B[bs]
+(;W[br];B[bp];W[bn];B[ar];W[as];B[ds];W[ao];B[ar]C[RIGHT])
+(;W[ar];B[br];W[bq];B[ap];W[bn];B[ds];W[an];B[as]C[RIGHT])))
+(;B[bp];W[bq]
+(;B[aq];W[ar])
+(;B[cs];W[ar])
+(;B[br];W[bs])
+(;B[ar];W[aq];B[cs];W[bs]MA[ds]MA[ao]))
+(;B[br];W[bq]
+(;B[cs];W[bs])
+(;B[ap];W[aq];B[cs];W[bs]C[b is short]))
+(;B[aq];W[ap];B[bp];W[ar])
+(;B[ap];W[bq]
+(;B[ar];W[aq]C[b is short])
+(;B[cs];W[bs]TR[ds]TR[aq])
+(;B[br]))
+(;B[ar];W[bp];B[ap];W[bn];B[ao];W[bs])
+(;B[bs];W[bp]MA[cs]MA[br])
+(;B[bq];W[bp]))
+(;B[br];W[co])
+(;B[cs];W[co])
+(;B[bq];W[co])
+(;B[cp];W[co];B[bp];W[bq]
+(;B[aq];W[ar])
+(;B[cs];W[ar])
+(;B[bs];W[ar])
+(;B[ar];W[aq];B[cs];W[bs]MA[ds]MA[ao])
+(;B[br];W[bs])))
+(;B[br];W[co]
+(;B[cs];W[bq])
+(;B[cn];W[bo]))
+(;B[cn];W[bo])
+(;B[cs];W[bo])
+(;B[bp];W[bo])
+(;B[co];W[cp];B[bo];W[bp];B[cn];W[ap];B[ao];W[br])
+(;B[cp];W[co];B[bp];W[bo])
+(;B[bn];W[bo])
+(;B[bq];W[bp]))

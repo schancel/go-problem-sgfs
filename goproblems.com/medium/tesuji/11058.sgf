@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[2k]DP[22]SO[sabetts]CO[0]SZ[19]AW[nm]AW[om]AW[pn]AW[ko]AW[mo]AW[no]AW[po]AW[jp]AW[mp]AW[op]AW[jq]AW[pq]AW[qq]AW[kr]AB[ol]AB[pm]AB[qm]AB[on]AB[oo]AB[ro]AB[np]AB[qp]AB[kq]AB[lq]AB[mq]AB[nq]AB[rq]TR[on]TR[oo]C[How can black make use of the marked stones?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[pp];W[oq]
+(;B[qr];W[ps])
+(;B[or];W[ps]))
+(;B[oq];W[pp])
+(;B[qr];W[pr]
+(;B[pp];W[oq]
+(;B[ps];W[nn]
+(;B[or]C[RIGHT])
+(;B[oo];W[or];B[nr];W[on];B[os]C[RIGHT]))
+(;B[or];W[ps]))
+(;B[rr];W[nn])
+(;B[oq];W[pp]))
+(;B[pr];W[qr]
+(;B[or];W[nn])
+(;B[pp];W[oq];B[or];W[nn])))

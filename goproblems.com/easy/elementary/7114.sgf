@@ -1,0 +1,12 @@
+(;GE[elementary]DI[15k]DP[62]SO[maba]CO[6]AW[kr]AW[ks]AW[ls]AB[lr]AB[mr]AB[ms]AW[lq]AW[lp]AW[lo]AB[ko]AB[jn]AB[io]AB[ho]AW[iq]AW[hr]AW[hs]AW[hq]AB[gq]AB[gr]AB[gs]AB[kq]AW[ip]AB[hp]C[How should white play?]AB[gn]AW[mo]AW[no]AW[mq]AW[np]AB[nq]AB[op]AB[or]AB[oo]AB[nn]AB[mn]AB[ln]AP[goproblems]
+(;W[kp]
+(;B[jq]
+(;W[jr]
+(;B[jo]C[CHOICE];W[jp]C[The whole white group is alive :)RIGHT])
+(;B[jp]C[CHOICE];W[jo]C[The whole white group is alive :)RIGHT]))
+(;W[jp];B[jr]C[White is dead.]))
+(;B[jr];W[jq]C[RIGHT])
+(;B[jp];W[jq]C[RIGHT]))
+(;W[jq];B[kp]C[White is dead.])
+(;W[jr];B[kp];W[is]C[White loses some stones.])
+(;W[jp];B[kp]))

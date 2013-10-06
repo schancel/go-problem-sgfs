@@ -1,0 +1,16 @@
+(;GE[endgame]DI[15k]DP[64]SO[munisai79]CO[7]AW[dp]AW[do]AB[ep]AB[fp]AB[gp]AB[fo]AB[fn]AW[go]AW[hp]AW[eq]AW[fq]AW[gq]AW[iq]AB[dq]AB[cq]AB[cp]AB[dn]AB[dm]AW[cm]AW[cl]AW[ck]AB[cn]AB[bm]AW[bl]AB[bn]AW[ci]AB[fk]AB[fl]AW[gm]AW[hm]AW[hk]AW[gk]AW[dj]AW[fj]AW[fi]AW[hi]LB[cs:Y]LB[es:N]LB[gm:1]C[White played (1) in the endgame.  The next largest move is worth 3 points; should black respond locally?  (Y or N)]AW[am]AB[an]AW[al]AP[goproblems]
+(;B[fm]C[NOTTHIS])
+(;B[em]C[NOTTHIS])
+(;B[en]C[NOTTHIS])
+(;B[el]C[NOTTHIS])
+(;B[dl]C[NOTTHIS])
+(;B[cs];W[ds]C[Yes!  The marked stones are more valuable.RIGHT]TR[fl]TR[fk])
+(;B[es];W[fm]C[Defend!]
+(;B[em];W[el];B[dl];W[ek];B[dk];W[gl]C[White makes profit.])
+(;B[en];W[el])
+(;B[el];W[em]
+(;B[dl];W[en])
+(;B[en];W[dl]))
+(;B[dl];W[em]
+(;B[en];W[el];B[dk];W[ek])
+(;B[el];W[en]))))

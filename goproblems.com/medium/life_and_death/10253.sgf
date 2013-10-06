@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1d]DP[17]SO[llel]CO[9]AB[bp]AB[cp]AB[bo]AB[cn]AB[dn]AB[do]AB[em]AB[fm]AB[gl]AB[hl]AB[il]AB[im]AB[jn]AB[jo]AB[jp]AB[hp]AB[hq]AB[gq]AB[fq]AB[fp]AW[bq]AW[cq]AW[dp]AW[ep]AW[eo]AW[en]AW[gm]AW[gn]AW[go]AW[gp]AW[hm]AW[ho]AW[io]AW[in]C[Black to kill( You must at least kill the marked group)]TR[dp]TR[ep]TR[eo]TR[en]TR[gm]TR[hm]TR[gn]TR[go]TR[gp]TR[ho]TR[io]TR[in]AP[goproblems]
+(;B[dr];W[dq]
+(;B[er];W[cr]C[White lives :(])
+(;B[cr];W[br];B[er];W[bs]C[=(])
+(;B[cs];W[cr]
+(;B[bs];W[er];B[es];W[fs]C[;(])
+(;B[er];W[bs]C[=(])))
+(;B[er];W[dr]C[White lives])
+(;B[eq];W[dq];B[dr];W[cr]C[=(])
+(;B[cr];W[dr];B[br];W[ar]C[:(])
+(;B[br]C[tesuji]
+(;W[ar]C[CHOICE]
+(;B[dr]
+(;W[cr]C[CHOICE];B[dq]C[RIGHT])
+(;W[dq]C[CHOICE];B[cr]C[RIGHT]))
+(;B[dq];W[eq];B[dr];W[er];B[cr]C[RIGHT])
+(;B[er];W[dr]C[=(]))
+(;W[cr]C[CHOICE]
+(;B[aq];W[er];B[eq];W[dq]C[White lives :(])
+(;B[eq];W[dq]
+(;B[aq];W[cs]LB[ar:A]LB[er:B]C[A and B are miai for life :(])
+(;B[er];W[aq]C[;(]))
+(;B[er]C[Well done!(A and B are miai)RIGHT]LB[dq:A]LB[aq:B])))
+(;B[dq];W[eq];B[dr];W[er]C[:(]))

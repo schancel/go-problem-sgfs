@@ -1,0 +1,36 @@
+(;GE[life and death]DI[7k]DP[42]SO[Snow Dragon]CO[0]AB[cb]AB[db]AB[eb]AB[ea]AB[cc]AB[cd]AB[bd]AW[bc]AW[ad]AW[be]AW[ce]AW[de]AW[dd]AW[dc]AW[ec]AW[fb]AW[fa]AW[gc]C[Black to live.]AP[goproblems]
+(;B[ab]
+(;W[bb]C[CHOICE]
+(;B[ba];W[ac];B[ae]C[RIGHT])
+(;B[ae];W[af];B[ba]C[RIGHT])
+(;B[ca];W[ba];B[ac];W[da]))
+(;W[ac]C[CHOICE]
+(;B[bb];W[ae]C[RIGHT])
+(;B[ba]
+(;W[ae];B[bb]C[RIGHT])
+(;W[bb];B[ae]C[RIGHT]))
+(;B[ca];W[bb];B[ba];W[ae])
+(;B[ae];W[af]
+(;B[ba]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[ca];W[bb])))
+(;W[ba]C[CHOICE]
+(;B[bb]C[RIGHT])
+(;B[ac]C[RIGHT])
+(;B[ca];W[bb];B[ac])
+(;B[ae];W[af]
+(;B[ca];W[bb])
+(;B[bb]C[RIGHT])
+(;B[ac]C[RIGHT]))))
+(;B[bb];W[ab]
+(;B[aa];W[ba]
+(;B[ca];W[da])
+(;B[ac]C[This gives only a ko.]))
+(;B[ac]C[Only ko. Even if White has no threats Black needs a second move to live, giving White a free move.])
+(;B[ca];W[ac]))
+(;B[ac];W[ab];B[bb];W[ac])
+(;B[ba];W[ab];B[bb];W[ac])
+(;B[ca];W[ab];B[bb];W[ac])
+(;B[aa];W[bb]
+(;B[ac];W[ab])
+(;B[ab];W[ca])))

@@ -1,0 +1,45 @@
+(;GE[best move]DI[3d]DP[10]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-19]
+KM[0.0]
+RU[Japanese]
+AB[ob][pc][pd][qd][mc][ld]
+AW[oc][nd][oe][pe][qe][qj]
+PL[W]
+(;W[pb]
+(;B[qb]
+C[CHOICE]
+;W[nb];B[nc];W[oa];B[od];W[rd]
+C[RIGHT
+Black not only loses sente, but he has to fight the ko at A too.
+If black connects at B, white can go C or D.  White succeeds.]
+LB[me:D][rb:C][qc:B][ob:A]
+)
+(;B[nb]
+C[CHOICE]
+;W[rd];B[rc];W[re]
+C[RIGHT
+This is sente for white because of A.]
+LB[qb:A]
+))
+(;W[nb];B[nc]
+(;W[od];B[pb]
+C[Although white seems to retain sente, this is not so.  Rather,
+white has helped black to strenghten his territory at the corner
+instead.  What was supposedly white's sente at A has become diminished
+because of black's sente at B.]
+LB[rd:B][kc:A]
+)
+(;W[pb];B[od]
+C[Black group connects.  White fails.]
+)
+(;W[oa];B[pb]))
+(;W[nc];B[nb])
+(;W[rd];B[rc];W[pb];B[qb];W[nb];B[pa]
+C[White loses sente.]
+LB[nc:A]
+)
+(;W[rc];B[rd]))

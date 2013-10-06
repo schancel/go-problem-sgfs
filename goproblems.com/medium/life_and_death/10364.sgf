@@ -1,0 +1,39 @@
+(;GE[life and death]DI[2k]DP[21]SO[marwin]CO[10]C[Get the most u can]AW[ro]AW[pr]AW[pq]AW[qp]AW[rn]AB[rm]AB[qm]AB[qn]AB[qo]AB[pp]AB[op]AB[oq]AB[on]AP[goproblems]
+(;B[qq];W[rp]
+(;B[rr];W[qr];B[rq];W[rs]
+(;B[sr];W[qs]
+(;B[or];W[sp];B[sn]C[RIGHT])
+(;B[sn];W[ss])
+(;B[ps];W[nr]TR[rs]TR[qs]TR[qr]TR[pr]TR[pq]C[White has chance to rescue marked stones now]))
+(;B[or];W[sr])
+(;B[sq];W[sp]))
+(;B[rq];W[rr])
+(;B[qr];W[rr];B[or];W[rq];B[ps];W[rs]))
+(;B[rp];W[qq];B[rq];W[rr];B[so];W[qs])
+(;B[rq];W[rp];B[qq];W[rr])
+(;B[rr];W[rq];B[qr];W[qq])
+(;B[qr];W[qq]
+(;B[rq];W[rp];B[rr];W[sq];B[sr];W[sp];B[rs];W[sn];B[or];W[ps];B[os];W[qs])
+(;B[rr];W[rq]))
+(;B[ps];W[or]
+(;B[qq];W[qr];B[rp];W[rq]
+(;B[qp];W[rr]
+(;B[sq];W[sr];B[nr];W[os])
+(;B[nr];W[os];B[sq];W[sr]))
+(;B[so];W[qp]C[JUst a ko]))
+(;B[rp];W[rq];B[qq];W[qr])
+(;B[rq];W[rp]
+(;B[qr];W[qq];B[rr];W[rs]
+(;B[sq];W[ss])
+(;B[qs];W[sq])
+(;B[sr];W[qs];B[ss];W[sp]))
+(;B[qq];W[rr];B[qr];W[sq]))
+(;B[rr];W[qq]
+(;B[rq];W[rp];B[qr])
+(;B[qr];W[rq];B[sr];W[sq];B[rs];W[sp];B[sn];W[nr]))
+(;B[nr];W[rq]
+(;B[qr];W[os];B[qs];W[qq])
+(;B[rr];W[os];B[qr];W[qq]))
+(;B[qr];W[qq]
+(;B[rq];W[rp])
+(;B[rr]))))

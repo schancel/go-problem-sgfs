@@ -1,0 +1,6 @@
+(;GE[fuseki]DI[10k]DP[53]SO[dischord]CO[0]AB[dp]AB[cq]AB[cn]AB[pp]AB[qm]AW[dr]AW[fq]AW[hp]AW[jq]C[A or B?]LB[lq:A]LB[oq:B]AP[goproblems]
+(;B[jl]C[This path is here just to make the problem view match the book view.])
+(;B[oq]C[Yep! The corner is now cozily secure, and this makes efficient shape with the marked stone.RIGHT]MA[qm])
+(;B[lq]C[Too close to white's strong group. The corner is still invadable.];W[nq]
+(;B[np];W[mq];B[mp];W[lr])
+(;B[mp];W[qq];B[pq];W[pr];B[or];W[qr];B[oq];W[ro])))

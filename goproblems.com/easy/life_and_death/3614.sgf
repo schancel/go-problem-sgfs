@@ -1,0 +1,16 @@
+(;GE[life and death]DI[20k]DP[72]SO[santa c]CO[7]AW[ar]AW[bq]AW[cq]AW[dp]AW[co]AW[ep]AW[fq]AW[gr]AW[hq]AB[dq]AB[dr]AB[ds]AB[cr]AB[br]AB[bs]AB[fr]C[Can black live?]AP[goproblems]
+(;B[fs]
+(;W[eq];B[er]C[Well done! ;)CHOICERIGHT])
+(;W[er];B[eq]C[Well done! ;)CHOICERIGHT]))
+(;B[eq];W[fs]C[Black's dead!])
+(;B[er];W[fs]C[Black's dead!])
+(;B[es];W[eq]C[Black's dead!])
+(;B[gs];W[hs]
+(;B[eq];W[es]
+(;B[er];W[fs];B[gs];W[fs]C[Black's dead!])
+(;B[fs];W[er]C[Black's dead!]))
+(;B[er];W[fs]C[Black's dead!])
+(;B[fs];W[er]
+(;B[eq];W[es]C[Black's dead!])
+(;B[es];W[eq]C[Black's dead!]))
+(;B[es];W[eq]C[Black's dead!])))

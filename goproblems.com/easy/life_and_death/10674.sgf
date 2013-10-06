@@ -1,0 +1,11 @@
+(;GE[life and death]DI[10k]DP[54]SO[zafris]CO[8]AB[ka]AW[jb]AW[ja]AB[jc]AB[jd]AW[ic]AW[hc]AW[hb]AW[ha]AB[ib]AB[id]AB[hd]AB[gd]AB[fc]AB[fb]AB[fa]AW[kc]AW[lc]AW[mc]AW[nc]AW[nb]AW[na]AB[kd]AB[ld]AB[md]AB[nd]AB[od]AB[oc]AB[ob]AB[oa]C[Black to kill]AP[goproblems]
+(;B[kb]
+(;W[ia]C[]
+(;B[lb]C[Correct, white cant push from the right, and the left side dies once the outside liberties and eye are filledRIGHT])
+(;B[ma];W[lb];B[la];W[mb])
+(;B[la];W[lb])
+(;B[mb];W[lb]
+(;B[ma];W[la])
+(;B[la];W[ma])))
+(;W[lb];B[ia];W[jb];B[ja];W[la];B[jb]C[RIGHT]))
+(;B[lb];W[kb]))

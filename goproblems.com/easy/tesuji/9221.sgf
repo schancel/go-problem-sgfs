@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[7k]DP[44]SO[ldan]CO[8]AB[pb]AB[ob]AB[qc]AB[rc]AB[rd]AB[qe]AB[qf]AB[rf]AB[pf]AB[of]AB[mf]AB[nf]AB[mb]AB[lb]AB[mc]AW[qb]AW[rb]AW[sb]AW[re]AW[qd]AW[pc]AW[pd]AW[pe]AW[ne]AW[md]AW[le]AW[kb]AW[kc]AW[lc]C[Capture the marked stones]TR[pd]TR[pc]TR[pe]TR[qd]AP[goproblems]
+(;B[nd]C[]
+(;W[nc]
+(;B[od];W[oe]
+(;B[me];W[oc]
+(;B[nd];W[od];B[nb]C[Thats itRIGHT])
+(;B[nb];W[nd]))
+(;B[oc];W[me])
+(;B[nb];W[oc]
+(;B[nd];W[me])
+(;B[me];W[nd])))
+(;B[oe];W[od];B[oc];W[nd])
+(;B[oc];W[od];B[oe];W[nd])
+(;B[me];W[od]
+(;B[oe];W[nd])
+(;B[oc];W[nd])))
+(;W[me]C[White should play here in sente];B[oe]C[White will tenuki leaving P16 as a threat];W[od]LB[kg:Ko]
+(;B[kg];W[nc])
+(;B[oc])))
+(;B[od];W[oe]
+(;B[nd];W[me])
+(;B[me];W[nd]))
+(;B[me];W[nd]TR[od]TR[oe])
+(;B[oe];W[od]
+(;B[me];W[nd])
+(;B[oc];W[nd])
+(;B[nc];W[nd])
+(;B[nd];W[nc]))
+(;B[oc];W[nd])
+(;B[nc];W[nd]))

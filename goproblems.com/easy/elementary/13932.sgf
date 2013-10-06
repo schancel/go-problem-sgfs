@@ -1,0 +1,19 @@
+(;GE[elementary]DI[10k]DP[50]SO[ytqb]CO[0]SZ[19]AB[rr]AB[sr]AB[qr]AB[qq]AB[rq]AB[qp]AB[pq]AB[or]AB[nq]AB[np]AB[mq]AB[mr]AB[ms]AB[lr]AB[lq]AB[kq]AB[jq]AB[jr]AB[iq]AW[pr]AW[sq]AW[sp]AW[rp]AW[ro]AW[qo]AW[pp]AW[op]AW[oq]AW[oo]AW[no]AW[mp]AW[lp]AW[kp]AW[jp]AW[ip]AW[hq]AW[hr]AW[ir]AW[is]AW[js]AW[ks]AW[ls]AW[kr]AW[hp]AW[mo]C[White to play.  If the position is settled, play tenuki at T.]LB[hn:T]FF[1]GM[1]AP[Jago:Version 5.0]GN[13932]
+(;W[ns]
+(;B[os]
+(;W[nr];B[ps]C[White has gained 22 points with sente.RIGHT])
+(;W[ps];B[qs]C[Black did not capture the marked White stone, because he would have then lost the corner.];W[nr]C[White has captured the Black group in gote.  The correct solution is sente.  ------  mr0661 and others.]))
+(;B[ps];W[nr]C[When Black is ahead in ko threats then Black can play like this and take sente. If White plays P1 then bS1 wQ2 will start a ko for life.  ------  BartTM]
+(;B[os]C[Black has decided not to play the ko fight.  White has sente, Therefore the solution is correct for White.  See the comment in the previous node by BartTM.RIGHT])))
+(;W[ps]
+(;B[os]
+(;W[ns];B[qs]C[Black did not capture the marked White stone, because he would have then lost the corner.];W[nr]C[White has captured the Black group in gote.  The correct solution is sente.  ------  mr0661 and others.])
+(;W[qs];B[rs])
+(;W[nr];B[qs]C[Black did not capture the marked White stone, because he would have then lost the corner.]TR[nr];W[ns]C[White has captured the Black group in gote.  The correct solution is sente.  ------  mr0661 and others.])))
+(;W[os];B[ps])
+(;W[nr];B[ns])
+(;W[hn];B[ps]C[If White plays tenuki, Black captures the White stone and secures his group.])
+(;W[qs];B[ps])
+(;W[rs];B[ps])
+(;W[ss];B[ps])
+(;W[gr];B[ps]))

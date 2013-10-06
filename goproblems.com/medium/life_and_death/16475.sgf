@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[18]SO[ptyrna]CO[0]AB[br]AB[cq]AB[dq]AB[eq]AB[ep]AB[er]AB[fr]AB[fs]AW[aq]AW[bq]AW[bp]AW[cp]AW[dp]AW[eo]AW[fo]AW[fp]AW[fq]AW[gr]AW[gs]AW[hq]C[White to kill.]AP[goproblems]
+(;W[ds];B[cs]
+(;W[ar];B[dr]
+(;W[as]TR[bs]C[Black cannot play at B1 so she is dead.RIGHT])
+(;W[bs];B[as]C[Black can survive winning the ko.]))
+(;W[dr];B[ar]C[Black is alive!])
+(;W[bs]
+(;B[as];W[ar];B[dr]C[Black can survive winning the ko.])))
+(;W[cs];B[ds]
+(;W[ar];B[cr]C[Black is alive!])
+(;W[cr];B[bs]C[Black is alive!]))
+(;W[cr];B[cs]C[Black is alive!])
+(;W[bs];B[cr]
+(;W[ar];B[ds]C[Black is alive!])
+(;W[ds];B[ar]
+(;W[dr];B[cs]C[Black is alive!])
+(;W[cs]C[Black is alive in seki.])))
+(;W[ar];B[ds]
+(;W[cr];B[bs]
+(;W[as];B[cs]C[Black is alive!])
+(;W[cs];B[dr]C[Black is alive!]))
+(;W[bs];B[cr]C[Black is alive!])
+(;W[as];B[cs]C[Black is alive!])
+(;W[cs];B[bs]C[Black is alive!])))

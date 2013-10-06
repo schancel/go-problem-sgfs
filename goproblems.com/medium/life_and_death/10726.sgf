@@ -1,0 +1,7 @@
+(;GE[life and death]DI[3k]DP[26]SO[Bleedo]CO[4]AW[js]AW[jr]AW[jq]AW[kr]AW[kp]AW[lp]AW[mp]AW[np]AW[lq]AW[nq]AW[oq]AW[or]AW[pr]AB[mr]AB[lr]AB[ms]AW[ls]AB[ir]AB[iq]AW[ns]AB[ps]AB[qr]AB[oo]AB[op]AB[pp]AB[pq]AB[pn]AB[qn]AB[qo]AB[nn]AB[no]AB[jp]AB[jo]AB[jn]AB[ln]AB[lo]AW[ko]AB[kn]AB[in]AB[is]TR[ls]C[How many threats must white ignore to live and retain points?]LB[fk:1]LB[hk:2]LB[jk:3]LB[lk:4]AB[fq]AP[goproblems]
+(;W[fk]C[Sorry, no.])
+(;W[hk]AB[in];B[pd]C[Threat #1]LB[kq:A];W[kq];B[dd]C[Threat #2]LB[mq:B];W[mq];B[ks]C[Need a threat?]LB[jd:A]
+(;W[jd]C[No, you don't]LB[nr:A])
+(;W[nr]C[RIGHT]))
+(;W[lk]C[Sorry, no.])
+(;W[jk]C[Sorry, no.]))

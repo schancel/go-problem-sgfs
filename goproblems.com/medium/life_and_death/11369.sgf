@@ -1,0 +1,24 @@
+(;GE[life and death]DI[2d]DP[13]SO[MeleeNewb]CO[0]AW[pa]AB[sf]AB[rf]AB[qf]AB[rd]AB[qd]AB[pd]AW[sd]AW[se]AW[sg]AW[rg]AW[qg]AW[pg]AW[pf]AW[od]AW[oc]AW[pc]AW[qc]AB[md]AB[me]AB[mf]AB[ke]AB[kd]AW[mc]AW[lc]C[Is black unconditionally dead?]LB[og:Yes]LB[ng:No]AP[goproblems]
+(;B[og]AW[sf]AW[rf]AW[qf]AW[rd]AW[qd]AW[pd]AB[se]AB[sd]AB[sg]AB[rg]AB[qg]AB[pg]AB[pf]AB[qc]AB[pc]AB[oc]AB[od]AB[mc]AB[lc]AB[pa]AW[md]AW[me]AW[mf]AW[kd]AW[ke];W[rc]C[Then kill.]
+(;B[re];W[qe];B[rb];W[sc];B[se]C[Good job!RIGHT])
+(;B[rb];W[pe]
+(;B[oe];W[re]C[Well aint that something, its alive.])
+(;B[re];W[oe]C[And its out!]))
+(;B[pe];W[ra]C[];B[rb];W[qb];B[sb];W[sc];B[qa];W[sa];B[rb]C[Good job!RIGHT])
+(;B[qe];W[pe]
+(;B[re];W[oe]C[And its out!])
+(;B[oe];W[re]C[Well aint that something, its alive.])))
+(;B[ng];W[ng]C[Oh? Why not?]
+(;B[rc];W[re]
+(;B[qe];W[rb]C[Seems pretty dead.])
+(;B[pe];W[oe];B[qe];W[rb]C[Seems pretty dead.])
+(;B[sc];W[qe]C[Seems pretty dead.]))
+(;B[pe];W[oe]
+(;B[re];W[rc];B[sc];W[sd]C[Seems pretty dead.])
+(;B[rc];W[re])
+(;B[sc];W[rc];B[re]))
+(;B[re];W[pe]C[Seems pretty dead.])
+(;B[qe]C[Ah yes, the 'gote death' tesuji.])
+(;B[sc];W[rc]
+(;B[pe];W[oe])
+(;B[re];W[pe]C[Seems pretty dead.]))))

@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[3d]DP[9]SO[Spirit]CO[7]AB[jq]AB[kp]AB[kq]AB[kr]AB[lp]AB[mq]AB[nq]AB[or]AB[pr]AW[ip]AW[iq]AW[ir]AW[jp]AW[ko]AW[lo]AW[lq]AW[mp]AW[np]AW[oq]AW[pq]AW[qr]AW[rq]C[Can white do anything here?]SZ[19]PL[W]GM[1]FF[4]ST[3]
+(;W[os]MN[1]
+(;B[ns];W[ms]
+(;B[mr];W[nr]C[RIGHT])
+(;B[ps];W[lr]C[RIGHT])
+(;B[nr];W[lr]C[RIGHT]))
+(;B[nr];W[lr];B[ls];W[ps]C[RIGHT]))
+(;W[mr];B[nr];W[lr];B[ls];W[ps];B[ms])
+(;W[lr];B[mr])
+(;W[ps];B[ns]
+(;W[mr];B[lr])
+(;W[lr];B[mr])))

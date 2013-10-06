@@ -1,0 +1,33 @@
+(;GE[life and death]DI[2d]DP[13]SO[marwin]CO[8]C[White to play and live]AB[sr]AB[rr]AB[qr]AW[rs]AW[pr]AW[pq]AW[pp]AW[rq]AW[sq]AW[qo]AW[so]AB[rn]AB[po]AB[oq]AB[or]AB[ns]AB[nr]AB[op]AB[rm]AB[pn]AB[om]AP[goproblems]
+(;W[ro]
+(;B[qq]C[CHOICE]
+(;W[qp]
+(;B[ps]C[CHOICE];W[qs];B[ss];W[qs];B[rs];W[qs];B[qr]
+(;W[rs];B[rr]
+(;W[sr];B[ss]
+(;W[qs];B[rs];W[qq]C[RIGHT])
+(;W[rs];B[qs]))
+(;W[ss];B[sr])
+(;W[qq]
+(;B[ss]
+(;W[qs];B[rs];W[sr]C[RIGHT])
+(;W[sr];B[qs]))
+(;B[sr])))
+(;W[rr];B[rs]))
+(;B[rp];W[sp];B[ps];W[qs];B[ss];W[qs];B[rs];W[qs];B[qr];W[rs];B[rr];W[sr];B[ss];W[qs];B[sn]
+(;W[rs];B[ss];W[qs];B[rs])
+(;W[qq];B[qn];W[rs])))
+(;W[ps];B[qp]
+(;W[qs];B[os])
+(;W[rp];B[os]))
+(;W[qs];B[qp];W[ps]))
+(;B[ps];W[qq]
+(;B[rp];W[qs];B[ss];W[qs];B[rs];W[qs])
+(;B[qs];W[rp])))
+(;W[qs];B[ro])
+(;W[qq];B[ro])
+(;W[qp];B[ro]
+(;W[qs];B[rp])
+(;W[rp];B[ps];W[qs];B[ss];W[qs];B[rs];W[qq];B[sp]))
+(;W[rp];B[ro];W[qp])
+(;W[ps];B[ro];W[qp];B[rp]LB[qq:A]C[White will have to connect at A]))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[11]SO[whendrik]CO[0]AB[aq]AB[bq]AB[cp]AB[dp]AB[ep]AB[eq]AB[er]AB[fq]AW[bp]AW[ao]AW[co]AW[cn]AW[bn]AW[en]AW[fo]AW[fp]AW[gq]AW[gr]AW[fr]AW[cq]AW[dr]AP[goproblems]
+(;B[dq];W[es]
+(;B[ds];W[cs]
+(;B[bs];W[br]
+(;B[ar];W[as];B[cr]C[RIGHT])
+(;B[cr]
+(;W[as]C[CHOICE]
+(;B[ds]C[NOTTHIS])
+(;B[ar]C[RIGHT]))
+(;W[em];B[fm];W[cq];B[ar]C[RIGHT])))
+(;B[cr];W[bs]))
+(;B[cr];W[ds];B[cs];W[fs]))
+(;B[cr];W[es]
+(;B[dq])
+(;B[ds];W[cs]
+(;B[bs];W[br]
+(;B[ar];W[as])
+(;B[dq];W[cr]))
+(;B[dq]))
+(;B[bs]
+(;W[ar]
+(;B[ds];W[cs];B[dq]C[RIGHT])
+(;B[dq];W[ds]))
+(;W[ds]C[CHOICE]
+(;B[ar];W[dq]C[although b lives in the corner, he loses a lot this way.])
+(;B[dq];W[ar]))))
+(;B[ds];W[br];B[dq];W[cr])
+(;B[es];W[br])
+(;B[br];W[es]))

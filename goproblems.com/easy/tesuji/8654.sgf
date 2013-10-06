@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[4k]DP[30]SO[bass]CO[8]AB[nf]AB[qe]AB[md]AB[ld]AB[kd]AW[ng]AW[og]AB[qf]AW[pg]AB[of]AW[mg]AW[mf]AB[nd]AW[lc]AW[mc]AW[nc]AW[oc]AW[pc]AW[qc]AW[qd]AW[rd]AB[qg]AW[qi]AB[qh]AW[pi]AW[ni]AB[rc]AW[re]AB[qb]AB[ra]AB[pb]AB[pa]AB[sb]AB[ri]AW[rj]AW[qk]AB[rh]AW[ob]AW[oa]AW[la]AB[jc]AW[lb]AB[id]AB[jb]C[What is the best can white do here?]AP[goproblems]
+(;W[oe]
+(;B[od]
+(;W[pe];B[pf];W[ne]C[Well done, black dies!RIGHT])
+(;W[ne];B[pe])
+(;W[pf];B[pe])
+(;W[pd];B[pe]))
+(;B[ne];W[pf];B[pe];W[od]C[RIGHT])
+(;B[pe]
+(;W[od];B[ne];W[pf]C[Black is captured.RIGHT])
+(;W[ne];B[od])
+(;W[pf];B[od]))
+(;B[pf];W[ne]C[black dies.RIGHT]))
+(;W[pf];B[pe]
+(;W[oe];B[od]C[white dies.])
+(;W[od];B[oe]))
+(;W[ne];B[oe]C[white dies.])
+(;W[pe];B[pf]
+(;W[oe];B[ne]C[White lives, but the black stones escape.])
+(;W[ne];B[oe]C[White dies.])
+(;W[od];B[oe]C[White dies.]))
+(;W[od];B[oe]C[white dies.])
+(;W[rf];B[od]C[white dies.])
+(;W[sd];B[od]C[white dies.]))

@@ -1,0 +1,140 @@
+(;GE[life and death]DI[8k]DP[48]SO[Kimono]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[bn][cn][dn][en][ao][eo][ap][ep][aq][bq][eq][gq][ar][cr][fr][fs]AB[bo][co][do][bp][dp][cq][dq][br][er][bs]C[One-move problem. Black to live.]
+(;B[ds]CR[ds]
+;W[dr]CR[dr]
+(;B[cs]CR[cs]
+(;W[es]CR[es]C[CHOICE]
+(;B[dr]CR[dr]C[RIGHT
+])
+(;B[an]CR[an]
+;W[am]CR[am]
+(;B[dr]CR[dr]C[RIGHT])
+(;B[cr]CR[cr]
+;W[gm]CR[gm]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[an]CR[an]
+(;B[dr]CR[dr]C[RIGHT])
+(;B[cr]CR[cr]
+;W[gm]CR[gm]C[The lower eye is a false one.])))
+(;B[cr]CR[cr]
+;W[gm]CR[gm]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[an]CR[an]
+(;B[dr]CR[dr]C[RIGHT])
+(;B[cr]CR[cr]
+;W[gm]CR[gm]C[The lower eye is a false one.])))
+(;W[dr]CR[dr]C[CHOICE
+This is not White's best move ... but you have to answer wisely !]
+(;B[es]CR[es]C[RIGHT])
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[an]CR[an]
+(;B[es]CR[es]
+;W[cr]CR[cr]C[ouch !])
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.]))
+(;B[an]CR[an]
+;W[am]CR[am]
+(;B[es]CR[es]C[RIGHT])
+(;B[as]CR[as]
+;W[an]CR[an]
+(;B[es]CR[es]
+;W[cr]CR[cr]C[ouch !])
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.]))
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.]))))
+(;B[an]CR[an]
+;W[cp]CR[cp]C[ouch !])
+(;B[as]CR[as]
+;W[cp]CR[cp]C[ouch !])
+(;B[es]CR[es]
+;W[cp]CR[cp]C[ouch !]))
+(;B[an]CR[an]
+;W[am]CR[am]
+(;B[ds]CR[ds]
+;W[dr]CR[dr]
+(;B[cs]CR[cs]
+(;W[es]CR[es]C[CHOICE]
+(;B[dr]CR[dr]C[RIGHT])
+(;B[cr]CR[cr]
+;W[gm]CR[gm]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[dr]CR[dr]))
+(;W[dr]CR[dr]C[CHOICE
+This is not White's best move ... but you have to answer wisely !]
+(;B[es]CR[es]C[RIGHT])
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[an]CR[an]
+(;B[es]CR[es]
+;W[cr]CR[cr]C[ouch !])
+(;B[cr]CR[cr]
+;W[es]CR[es]C[The lower eye is a false one.]))))
+(;B[es]CR[es]
+;W[cp]CR[cp]C[ouch !])
+(;B[as]CR[as]
+;W[cp]CR[cp]C[ouch !]))
+(;B[as]CR[as]
+;W[cs]CR[cs]C[ouch !])
+(;B[cs]CR[cs]
+;W[ds]CR[ds]
+(;B[dr]CR[dr]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[es]CR[es]
+;W[dr]CR[dr]C[ouch !]))
+(;B[es]CR[es]
+;W[dr]CR[dr]
+(;B[as]CR[as]
+;W[cp]CR[cp]C[ouch !])
+(;B[cs]CR[cs]
+;W[cp]CR[cp]C[ouch !])
+(;B[ds]CR[ds]
+;W[cp]CR[cp]C[ouch !]))
+(;B[dr]CR[dr]
+;W[ds]CR[ds]
+(;B[es]CR[es]
+;W[cp]CR[cp]C[ouch !])
+(;B[cs]CR[cs]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[cs]CR[cs]C[ouch !])))
+(;B[as]CR[as]
+;W[cs]CR[cs]C[ouch !])
+(;B[cs]CR[cs]
+;W[ds]CR[ds]
+(;B[dr]CR[dr]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[es]CR[es]
+;W[dr]CR[dr]C[ouch !])
+(;B[an]CR[an]
+;W[as]CR[as]C[ouch !]))
+(;B[dr]CR[dr]
+;W[ds]CR[ds]
+(;B[es]CR[es]
+;W[cp]CR[cp]C[ouch !])
+(;B[cs]CR[cs]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[an]CR[an]
+;W[am]CR[am]
+(;B[es]CR[es]
+;W[cp]CR[cp]C[ouch !])
+(;B[cs]CR[cs]
+;W[es]CR[es]C[The lower eye is a false one.])
+(;B[as]CR[as]
+;W[cs]CR[cs]C[ouch !]))
+(;B[as]CR[as]
+;W[cs]CR[cs]C[ouch !]))
+(;B[es]CR[es]
+;W[dr]CR[dr]
+(;B[an]CR[an]
+;W[cp]CR[cp]C[ouch !])
+(;B[as]CR[as]
+;W[cp]CR[cp]C[ouch !])
+(;B[cs]CR[cs]
+;W[cp]CR[cp]C[ouch !])
+(;B[ds]CR[ds]
+;W[cp]CR[cp]C[ouch !])))

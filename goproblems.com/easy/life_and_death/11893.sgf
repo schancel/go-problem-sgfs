@@ -1,0 +1,11 @@
+(;GE[life and death]DI[10k]DP[52]SO[DarkSycthe]CO[0]AB[bq]AB[bp]AB[ap]AB[cp]AB[dq]AB[eq]AB[er]AB[es]AW[br]AW[cr]AW[cq]AW[dr]AW[ds]AW[aq]AW[dp]AW[do]AW[co]AW[bn]C[Black to kill the white stones in the corner.]AP[goproblems]
+(;B[bs];W[ar]
+(;B[as];W[cs]
+(;B[bs]C[RIGHT])
+(;B[as]C[RIGHT]))
+(;B[cs];W[as]
+(;B[bs]C[RIGHT])
+(;B[cs]C[RIGHT])))
+(;B[ar];W[bs];B[aq];W[bo])
+(;B[as];W[bs];B[ar];W[aq];B[ar];W[bo];B[aq];W[ao])
+(;B[cs];W[bs];B[ar];W[bo]))

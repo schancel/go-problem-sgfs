@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[6k]DP[36]SO[passero]CO[0]AW[hd]AW[gd]AW[ld]AW[md]AB[id]AB[ie]AB[je]AB[kd]AB[ke]AB[lc]AB[lb]AB[hc]AB[hb]AB[ha]AW[jd]AW[jc]AW[ic]AW[ib]AW[ja]AW[la]AW[mb]AW[mc]AW[fb]AW[ed]C[Black to Capture 4 White stones.]TR[ib]TR[ic]TR[jc]TR[jd]AP[goproblems]
+(;B[ia]
+(;W[ka]
+(;B[jb];W[kb];B[kc]C[RIGHT])
+(;B[kb]))
+(;W[kc];B[kb]C[RIGHT])
+(;W[jb];B[ka];W[kb];B[kc]C[RIGHT]))
+(;B[kc];W[ka]
+(;B[ia];W[jb])
+(;B[jb];W[ia]))
+(;B[kb];W[ka]
+(;B[kc];W[jb])
+(;B[ia];W[jb])
+(;B[jb];W[kc]))
+(;B[ka];W[kb]
+(;B[kc];W[ia])
+(;B[ia];W[kc]))
+(;B[jb];W[kb]))

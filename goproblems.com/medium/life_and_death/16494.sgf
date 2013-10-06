@@ -1,0 +1,21 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[0]AB[fs]AB[fr]AB[fq]AW[gr]AW[hs]AW[hq]AW[iq]AW[jr]AW[kr]AW[lr]AB[kq]AB[jp]AB[gp]AB[nr]AB[mq]AB[lq]AB[oq]AB[hp]AB[ip]C[Is white safe?]AP[goproblems]
+(;B[is]
+(;W[js]
+(;B[gs]
+(;W[ir]
+(;B[gq];W[ls];B[hr]C[good!RIGHT])
+(;B[ls];W[gq]))
+(;W[hr];B[ls]C[RIGHT]))
+(;B[ls];W[ir]MA[gs]MA[gq])
+(;B[gq];W[ls])
+(;B[ir];W[ls]))
+(;W[ir]
+(;B[gs]
+(;W[js];B[gq];W[ls];B[hr]C[RIGHT])
+(;W[gq];B[hr]C[RIGHT]))
+(;B[gq];W[js];B[gs];W[ls];B[hr]C[RIGHT])))
+(;B[ls];W[ir])
+(;B[ir];W[is])
+(;B[gs];W[is])
+(;B[gq];W[is])
+(;B[js];W[is]))

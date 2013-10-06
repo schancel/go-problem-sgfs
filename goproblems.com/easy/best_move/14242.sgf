@@ -1,0 +1,18 @@
+(;GE[best move]DI[4k]DP[29]SO[mistake]CO[0]AB[jj]AB[pd]AB[ki]AB[kh]AB[lh]AB[lg]AB[mg]AB[mj]AB[mi]AB[ni]AB[oi]AB[ij]AB[ig]AW[jh]AW[jg]AW[ji]AW[kj]AW[lj]AW[li]AW[lf]AW[jf]AW[kg]AW[mh]AW[nh]AW[oh]AW[mk]AB[nk]AW[nj]AW[nf]AB[le]C[Find the best move.]TR[lf]AP[goproblems]
+(;B[lk];W[kk]
+(;B[kl];W[jk]
+(;B[jl];W[ik]
+(;B[hk];W[il];B[im];W[hl];B[gl];W[hm];B[hn];W[ll];B[gm];W[lk];B[lm];W[ml]
+(;B[nl];W[mm];B[mn];W[nm];B[om]C[Congratulations, you found this miraculous ladder!RIGHT])
+(;B[mm];W[nl];B[ol];W[nm];B[nn];W[om];B[pm];W[ok]C[White is safe.]))
+(;B[il];W[hk]C[Interesting, but White is safe, Black can do better.]))
+(;B[ik];W[jl];B[jm];W[il];B[hl];W[im];B[in];W[ll]C[White is safe.])
+(;B[ml]C[White is safe, Black can do better.]))
+(;B[ll];W[kl]C[Quite bad for black.])
+(;B[ml];W[kl]C[White is safe. Black can do better.]))
+(;B[kk];W[lk]
+(;B[ml];W[ll];B[lm];W[kl];B[jl];W[km];B[kn];W[jm];B[im];W[jn];B[jo];W[in];B[hn];W[jk]C[White is safe.])
+(;B[ll];W[ml];B[mm];W[nl];B[ol];W[nm];B[nn];W[om];B[pm];W[on];B[oo];W[ok]C[White is safe.]))
+(;B[mf];W[me];B[kf];W[ng];B[lf];W[ld];B[ke];W[je];B[kd];W[kc]C[Oops!])
+(;B[ml];W[kk];B[kl];W[jk]C[White is safe, black can do better.])
+(;B[ll];W[kk]C[White is safe. Black can do better.]))

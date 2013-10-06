@@ -1,0 +1,7 @@
+(;GE[elementary]DI[30k]DP[84]SO[meghneel]CO[0]AB[hh]AB[hg]AB[hf]AW[ih]AW[ig]AW[if]AB[ii]AW[hi]AB[ie]AW[he]AB[je]AW[ge]AB[ji]AW[gi]C[White has copied your moves, unwittingly. This occured to me, when I was playing a ? on KGS. Make white pay for her/his mistake.]AP[goproblems]
+(;B[jg];W[jf]C[White may try to escape here.];B[kf];W[jh]C[Then here.];B[kh]C[Good.RIGHT])
+(;B[jf];W[jg]C[White may try to escape.];B[kg]C[];W[jh]C[Again escape.];B[kh]C[Good.RIGHT])
+(;B[jh];W[jg]C[White may try to escape.];B[kg];W[jf];B[kf]C[Good.RIGHT])
+(;B[gf];W[ff];B[gg];W[fg];B[gh];W[fh]C[Oh no...CHOICE])
+(;B[gg];W[fg];B[gf];W[ff];B[gh];W[fh]C[Oh no...CHOICE])
+(;B[gh];W[fh];B[gg];W[fg];B[gf];W[ff]C[Oh no...CHOICE]))

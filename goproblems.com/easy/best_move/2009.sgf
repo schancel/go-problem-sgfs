@@ -1,0 +1,23 @@
+(
+;GE[best move]DI[15k]DP[60]SO[Blitz-sama]CO[7]
+GM[1]
+FF[4]
+CA[UTF-8]
+AP[Jago:Version 4.52]
+ST[2]
+RU[Japanese]
+SZ[19]
+KM[0.50]
+PW[White]
+PB[Black]
+AW[ea][fa][ga][ha][ia][eb][kb][lb][ob][pb][rb][cc][dc][ec][kc][qc][cd][jd][kd][nd][od][qd][fe][ie][je][me][ne][re][bf][df][ef][hf][if][kf][lf][mf][nf][pf][cg][ig][jg][pg][bh][dh][eh][fh][gh][ih][jh][oh][qh][rh][sh][bi][ei][gi][hi][ii][ji][oi][hj][nj][oj][pj][qj][dk][hk][mk][qk][fl][hl][il][jl][ll][ml][nl][ol][pl][ql][sl][cm][fm][hm][mm][sm][an][bn][cn][dn][en][fn][gn][hn][jn][kn][ln][nn][on][sn][ao][eo][go][io][jo][lo][no][ro][so][ap][bp][ip][kp][lp][np][op][pp][sp][bq][fq][gq][hq][iq][jq][pq][rq][sq][fr][hr][jr][or][qr][sr][es][fs][gs][is]
+AB[ja][ka][la][fb][gb][hb][ib][jb][mb][fc][hc][jc][lc][mc][nc][oc][pc][dd][ed][fd][gd][hd][id][ld][md][pd][ee][ge][he][ke][le][of][dg][eg][fg][gg][hg][kg][lg][mg][ng][og][ch][hh][kh][nh][ph][ci][di][fi][ki][mi][ni][pi][qi][ri][si][aj][bj][dj][ej][gj][ij][jj][kj][mj][rj][bk][ck][fk][gk][ik][jk][kk][lk][rk][sk][al][cl][el][gl][kl][rl][bm][dm][em][im][jm][km][lm][nm][om][pm][qm][rm][in][pn][rn][bo][co][do][fo][ho][oo][po][qo][cp][dp][ep][fp][gp][hp][qp][rp][aq][cq][eq][qq][ar][br][cr][er][ds]
+C[white to escape doom and seal the win in one move]
+PL[W]
+GN[prob5]
+;
+W[gf]
+CR[gf]
+C[RIGHT]
+PL[B]
+)

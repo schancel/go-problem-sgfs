@@ -1,0 +1,39 @@
+(;GE[tesuji]DI[2d]DP[14]SO[wtd]CO[8]AW[pl][rl][qm][pn][po][so][no][nq][oq][pq][qq][nr][rr][sr][ns]
+AB[rn][qo][rp][rq][or][pr][qr][rs]LB[ll:W]
+C[For Black's position just play; for White's play at 'W', and I'll play first.]
+
+(;B[qs]CR[qs]C[OK you chose the inside position, playing 1st.];W[os]
+
+(;B[sn];W[ps];B[sq];W[ss];B[qr]
+C[RIGHT The 'Under the Stones' tesuji takes the corner.])
+
+(;B[sq];W[sn]C[You cannot get 2 eyes.]))
+
+(;B[sq];W[os]
+(;B[ss];W[ps]
+
+(;B[sn];W[rr];B[sr];W[qs]C[You cannot get 2 eyes.])
+(;B[qs];W[sn]C[You cannot get 2 eyes.])
+(;B[rr];W[sn]C[You cannot get 2 eyes.]))
+
+(;B[qs];W[sn]C[You cannot get 2 eyes.])
+
+(;B[sn];W[qs]
+(;B[ps];W[qs]C[You cannot get 2 eyes.])
+(;B[ss];W[rr]
+(;B[ps];W[qs]C[You cannot get 2 eyes.])
+(;B[sr];W[ps]C[You cannot get 2 eyes.]))))
+
+(;B[sn];W[qs];B[sq];W[os]
+(;B[ps];W[qs]C[You cannot get 2 eyes.])
+(;B[ss];W[rr];B[sr];W[ps]C[You cannot get 2 eyes.]))
+
+(;B[ll]
+AW[rn][qo][rp][rq][or][pr][qr][rs]AB[pl][rl][qm][pn][po][so][no][nq][oq][pq][qq][nr][rr][sr][ns]
+;W[qs]C[OK you chose the outside position, playing 2nd.]
+
+(;B[os];W[sn];B[ps];W[sq];B[ss];W[qr]
+C[The 'Under the Stones' tesuji takes the corner.])
+
+(;B[sn];W[os];B[sp];W[sq];B[sm];W[ro]
+C[I have 2 eyes.])))

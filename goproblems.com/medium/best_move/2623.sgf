@@ -1,0 +1,33 @@
+(;GE[best move]DI[1k]DP[18]SO[ferdi]CO[7]SZ[4]AB[ad]AB[bd]AB[cd]C[White to play - what's the best he can do?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÆ’Ã…Â¸]PB[Schwarz]PL[W]
+(;W[cb];B[bb]
+(;W[ba]
+(;B[ab];W[cc]
+(;B[dc]
+(;W[bc];B[db];W[ca];B[ac]C[Seki & Jigo! RIGHT])
+(;W[db];B[bc];W[ca];B[dd]C[Seki & Jigo! RIGHT])
+(;W[ca]
+(;B[db];W[bc])
+(;B[bc];W[db])))
+(;B[bc]))
+(;B[bc]
+(;W[dc];B[cc];W[ab];B[db];W[da]C[Sooner or later Black has to scarifice a stone to prevent a white eye. White wins by one point!RIGHT])
+(;W[cc]
+(;B[dc];W[ab];B[db];W[ca]C[Seki & Jigo! W C2 was wrong....RIGHT])
+(;B[ab];W[dc];B[ca];W[da]C[White wins by one point - W C2 was a mistake, and B A3 was a mistake!RIGHT]))))
+(;W[cc];B[ca];W[bc];B[ac]
+(;W[db];B[ab];W[ba];B[aa]C[Seki, Black wins by one point  (the prisoner)!])
+(;W[dc];B[ab];W[ba];B[aa]C[Seki, Black wins by one point (the prisoner).])
+(;W[ab];B[aa]
+(;W[db]C[Seki, Black wins by one point (the prisoner).])
+(;W[dc]C[Seki, Black wins by one point (the prisoner).]))
+(;W[ba];B[aa]
+(;W[db]C[Seki, Black wins by one point (the prisoner).])
+(;W[dc]C[Seki, Black wins by one point (the prisoner).]))))
+(;W[bb];B[cb]
+(;W[ca];B[db];W[bc];B[cc]
+(;W[ac];B[da]C[Black wins.])
+(;W[ba];B[ac];W[ab];B[da]C[Black wins.])
+(;W[dc];B[ac];W[ba];B[ab]C[Black wins.]))
+(;W[bc];B[cc];W[ca];B[ac]C[Black wins.]))
+(;W[cc];B[bb];W[cb])
+(;W[bc];B[cc];W[bb];B[cb]))

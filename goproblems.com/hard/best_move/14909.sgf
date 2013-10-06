@@ -1,0 +1,11 @@
+(;GE[best move]DI[6d]DP[0]SO[Field Mouse]CO[0]AB[bl]AB[bm]AB[cn]AB[dm]AW[cm]AW[np]AB[oo]AB[op]AB[nq]AB[mp]AB[gf]AW[gg]C[Black to play. Capture both marked stones! In a classic ladder! (yes, the C7 stone too, no tricks with C8 - D9!) To make the problem a lot easier, I give you only four places to start at - ABCD.FORCE]TR[cm]MA[np]LB[gh:A]LB[gi:B]LB[gj:C]LB[gk:D]AP[goproblems]
+(;B[gh];W[gj]C[White plays ladder breaker for both ladders - you cannot capture both white stones now!])
+(;B[gi];W[gk]C[White has this double ladder breaker, one of the stones escapes.])
+(;B[gj]
+(;W[cl]C[CHOICE]
+(;B[ck];W[dl];B[el];W[dk];B[dj];W[ek];B[fk];W[ej];B[ei];W[no];B[nn];W[mo];B[lo];W[mn];B[mm];W[ln];B[kn];W[lm];B[ll];W[km];B[jm];W[kl];B[kk];W[jl];B[il];W[jk];B[jj];W[ik];B[hk];W[ij];B[ii]C[Very good, both ladders work and white could not do anything about it!RIGHT])
+(;B[dk]C[This would work too, but it is not a ladder :)NOTTHISRIGHT]))
+(;W[fj];B[cl];W[no];B[nn]C[White cannot help one of the stones by adding a move in the center.RIGHT]))
+(;B[gk];W[cl];B[ck];W[dl];B[el];W[dk];B[dj];W[ek];B[fk];W[ej];B[ei];W[fj]
+(;B[fi];W[gj];B[hj];W[gi];B[gh])
+(;B[gj];W[fi];B[fh];W[gi])))

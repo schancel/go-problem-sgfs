@@ -1,0 +1,68 @@
+(;GE[life and death]DI[2d]DP[14]SO[Haze]CO[5]AB[rs]AB[qr]AB[qq]AB[qp]AB[pp]AB[op]AB[oq]AB[qo]AB[rn]AB[qn]AB[so]AB[pm]AB[qm]AB[ql]AB[rk]AB[sl]AB[qh]AW[pq]AW[pr]AW[ps]AW[qs]AW[or]AW[os]AB[nr]AW[ms]AW[mr]AW[nq]AW[mq]TR[mq]AB[ls]AB[lr]AB[lq]AB[lp]AB[lo]AB[ln]AB[lm]AB[ll]AB[lk]AB[lj]AB[mj]AB[nk]AB[ni]AB[oj]AB[ok]AB[pj]AB[pi]AB[qg]AB[pf]AB[pe]AB[qe]AB[re]AB[pd]AW[qd]AB[qc]AB[qb]AW[rd]AW[rc]AW[rb]AW[pb]AW[pc]AW[nc]AW[oc]AW[od]AW[nb]AW[na]AW[mc]AB[mb]AB[ma]AB[lb]AB[lc]AB[ld]AB[le]AB[ne]AB[oe]AW[np]AW[no]AW[oo]AW[po]AW[nm]AW[ol]AW[nl]AW[ml]AW[mk]AW[pl]AW[pk]AW[qk]AW[qj]AW[qi]AW[rj]AW[rh]C[White has just played the marked stone.  Black to kill.]AP[goproblems]
+(;B[ns]C[];W[sg]
+(;B[sf];W[si];B[rg];W[or];B[sh]C[Ko.  Black can do better.  Why capture the stones if you can kill all of them anyway?])
+(;B[si];W[se]
+(;B[sj]
+(;W[ri]C[White escapes.])
+(;W[sh];B[sk];W[ri]C[White escapes.]))
+(;B[rg];W[sh]C[White escapes.]))
+(;B[sj];W[se]C[White escapes.])
+(;B[sh];W[si]C[White will find it easy to make two eyes or to escape now.]))
+(;B[sg]
+(;W[rg]
+(;B[sf]C[]
+(;W[si]C[CHOICE];B[sh]C[Correct!  Finding T13 is the clincher.  I had previously thought white was alive unconditionally after N3, and it took me a few hours to find T13.RIGHT])
+(;W[sh]C[CHOICE];B[sj]C[Correct!  Finding T13 is the clincher.  I had previously thought white was alive unconditionally after N3, and it took me a few hours to find T13.RIGHT])
+(;W[sj]C[CHOICE];B[sh]C[Correct!  Finding T13 is the clincher.  I had previously thought white was alive unconditionally after N3, and it took me a few hours to find T13.RIGHT]))
+(;B[rf];W[si];B[sj]C[];W[sk]C[Ko.])
+(;B[sh];W[sf])
+(;B[si];W[sf]
+(;B[se];W[rf];B[sj];W[sh])
+(;B[ri];W[sh]))
+(;B[sj];W[si]
+(;B[sk];W[sf];B[rf]C[Correct!  Thanks to BartTM for finding this variation!  Good eye!RIGHT])
+(;B[rf];W[sk]C[Ko.])
+(;B[sf];W[sk];B[rl];W[sh];B[sj]C[Ko.  Probably the most favorable ko I've found though, as in this one black takes first.])))
+(;W[si]
+(;B[sh]C[Correct!  Finding T13 is the clincher.  I had previously thought white was alive unconditionally after N3, and it took me a few hours to find T13.RIGHT])
+(;B[sk];W[sj];B[sh];W[rg];B[sf]C[RIGHT])
+(;B[rg];W[sh];B[sj];W[sk]C[Ko.]))
+(;W[sh];B[sj]C[Correct!  Finding T13 is the clincher.  I had previously thought white was alive unconditionally after N3, and it took me a few hours to find T13.RIGHT]))
+(;B[si];W[sj];B[sh]
+(;W[rg]C[FORCE];B[sg];W[sf]C[However, if white were to mistakenly atari at T13 instead of first extending an extra stone, white would die.])
+(;W[sg]C[White should not play this move.];B[rg];W[sf];B[se];W[ri];B[sh]C[This variation was to demonstrate the result of white's mistake.]))
+(;B[sj];W[si]
+(;B[rg];W[sk]C[Ko.])
+(;B[sk];W[sg]MA[rg]MA[se]C[White lives with either S13 or T15.]))
+(;B[rg];W[si];B[sj];W[sk]C[Ko.])
+(;B[sh];W[rg]
+(;B[sg];W[sf])
+(;B[si];W[sj])
+(;B[sj];W[sg]
+(;B[si];W[se])
+(;B[sf];W[si])
+(;B[se];W[si])))
+(;B[ri];W[si]
+(;B[rg];W[sj])
+(;B[sj];W[sg]
+(;B[rg];W[se])
+(;B[sf];W[rg])
+(;B[se];W[rg])))
+(;B[sk];W[sg]
+(;B[sj];W[se])
+(;B[si]
+(;W[se]
+(;B[ri];W[sj];B[rg];W[sh])
+(;B[sj];W[ri]))
+(;W[sj];B[rg];W[se];B[sh];W[sf];B[ri];W[rh]))
+(;B[sf];W[rg]
+(;B[sj];W[si])
+(;B[si];W[sj]))
+(;B[se];W[rg]
+(;B[si];W[sj])
+(;B[sj];W[si]))
+(;B[rg];W[sh]
+(;B[sj];W[se])
+(;B[si]
+(;W[se];B[sj];W[ri])
+(;W[sj];B[sf];W[ri])))))

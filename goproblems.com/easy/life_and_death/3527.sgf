@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[40]SO[emeraldemon]CO[7]AB[so]AB[rn]AB[sn]AB[rm]AB[rl]AB[ql]AB[qk]AB[pj]AB[oi]AB[ni]AB[nh]AW[sp]AW[rp]AW[ro]AW[qo]AW[qn]AW[qm]AW[pn]AW[on]AW[pl]AW[pk]AW[oj]AW[nj]AW[mj]AW[nk]AW[mi]AB[mh]AB[ph]AB[rh]AW[sh]AW[sj]AW[sg]AW[rg]AW[qg]AB[lf]AW[qf]AW[qe]AW[se]C[capture the black stones!]AP[goproblems]
+(;W[qj];B[rj]
+(;W[qi];B[ri]
+(;W[qh];B[rk]
+(;W[si]C[good job!RIGHT])
+(;W[pi];B[si]C[black has two eyes.])
+(;W[sk];B[si]C[This is ok, the group still dies, but black could force you to play t8 as a ko threat.  there is a better way.];W[sl]C[RIGHT]))
+(;W[si];B[qh]))
+(;W[pi];B[qi]
+(;W[pj];B[qh]
+(;W[si];B[ri]C[black connects.])
+(;W[ri];B[si]C[black connects]))
+(;W[qh];B[pj]C[black connects.])
+(;W[ri];B[pj]C[black connects]))
+(;W[ri];B[qi]C[black connects.])
+(;W[qh];B[qi];W[ri];B[qj]C[black connects.]))
+(;W[rj];B[qj];W[ri];B[pi]C[black connects.])
+(;W[qi];B[qj];W[pi];B[rj]
+(;W[qh];B[sk]C[Black has two eyes.])
+(;W[ri];B[sk]C[Black has two eyes.])
+(;W[si];B[sk]C[Black has two eyes.])
+(;W[sk];B[qh]
+(;W[ri];B[si]C[black has a bamboo joint.  This is an automatic connection.])
+(;W[si];B[ri]C[Black connects.])))
+(;W[qh];B[qi]C[black connects.]))

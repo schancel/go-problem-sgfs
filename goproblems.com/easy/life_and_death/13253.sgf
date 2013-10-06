@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[31]SO[Stable]CO[0]AB[ba]AB[bb]AB[bc]AB[bd]AB[cd]AB[dd]AB[dc]AB[ec]AB[fb]AB[gb]AW[ab]AW[ac]AW[ad]AW[be]AW[ce]AW[de]AW[ee]AW[fd]AW[fc]AW[gc]AW[hc]AW[hb]AW[ga]AW[ca]AW[cb]AW[cc]AP[goproblems]
+(;B[fa]
+(;W[eb]
+(;B[ha];W[ea];B[db];W[ga];B[da]
+(;W[cb];B[fb]C[RIGHT])
+(;W[ia];B[cb]C[Better play by white, but less satisfying for b.RIGHT]))
+(;B[db];W[ea];B[da];W[cb];B[fb];W[fa]C[Nearly the right idea...])
+(;B[ea];W[da]
+(;B[db];W[ea];B[fb];W[fa]C[Nearly the right idea...])
+(;B[fb];W[ea]))))
+(;B[db];W[fa]
+(;B[ea];W[eb];B[fb])
+(;B[da];W[cb]))
+(;B[ea];W[ha]
+(;B[db];W[fa])
+(;B[fa];W[db]))
+(;B[da];W[fa])
+(;B[eb];W[fa];B[ea];W[ha]))

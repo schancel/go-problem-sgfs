@@ -1,0 +1,33 @@
+(;GE[best move]DI[1k]DP[18]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[bb][cb][db][dc][cd][hd][ce][de][he][ie][je][ke][le][me][qe][cf][ff][pf][fg][mg][ng][fh][gh][hh][mh][oh][ph][qh][mi][pi][mj][qj][mk][pk][hl][il][ll][cm][dm][fm][im][lm][pm][qm][dn][en][gn][jn][ln][pn][eo][go][jo][lo][qo][gp][hp][jp][lp][mp][pp][qp][rp][eq][fq][iq][jq][mq][rq][hr][ir][mr][pr][qr][sr][rs]AB[eb][bc][cc][ec][bd][dd][ed][jd][kd][ld][md][nd][pd][qd][ge][gf][if][of][gg][ig][kg][og][pg][ch][nh][ji][li][ni][hj][nj][oj][pj][ck][gk][jk][nk][dl][el][nl][em][jm][km][om][an][bn][cn][kn][on][qn][ao][co][do][fo][io][ko][mo][oo][po][ap][ep][fp][ip][kp][op][cq][dq][gq][hq][kq][oq][pq][qq][br][cr][fr][gr][kr][nr][as][ks]LB[il:1]C[white plays 1. should black respond to this, and if so, how?]
+(;B[lk]CR[lk]
+;W[ml]CR[ml]
+(;B[ms]CR[ms]C[RIGHT
+black connects his groups and attacks the big white dragon])
+(;B[gl]CR[gl]
+;W[gm]CR[gm]))
+(;B[kk]CR[kk]
+;W[ms]CR[ms])
+(;B[jl]CR[jl]
+;W[ms]CR[ms])
+(;B[kl]CR[kl]
+;W[ms]CR[ms])
+(;B[ik]CR[ik]
+;W[ms]CR[ms])
+(;B[kj]CR[kj]
+;W[ms]CR[ms])
+(;B[ml]CR[ml]
+;W[kk]CR[kk]
+(;B[jl]CR[jl]
+;W[ms]CR[ms])
+(;B[ms]CR[ms]
+;W[jl]CR[jl]))
+(;B[ms]CR[ms]
+;W[jl]CR[jl]
+;B[kl]CR[kl]
+;W[kk]CR[kk]C[not black's best fight])
+(;B[ns]CR[ns]
+;W[jl]CR[jl])
+(;B[er]CR[er]
+;W[jl]CR[jl]))

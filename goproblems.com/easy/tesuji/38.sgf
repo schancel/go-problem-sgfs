@@ -1,0 +1,43 @@
+(;GE[tesuji]DI[7k]DP[41]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[oa][nb][pb][lc][nc][pc][ld][md][qd][rd][le][qf][pg][qg]
+AB[ob][oc][qc][rc][nd][od][pd][me][mf][nf][of][pf]
+C[black to do something in the corner
+]
+(;B[pa];W[qa]
+(;B[qb];W[pa];B[ra];W[na];B[sb]C[RIGHT
+])
+
+(;B[ra];W[sc]
+(;B[rb];W[na])
+
+(;B[qb];W[rb])
+)
+)
+
+(;B[qb];W[pa]
+(;B[qa];W[na];B[sb];W[ra])
+
+(;B[ra];W[sb])
+
+(;B[sb];W[ra])
+)
+
+(;B[ra];W[pa]
+(;B[qb];W[sb])
+
+(;B[sb];W[qb])
+)
+
+(;B[sb];W[pa]
+(;B[qb];W[ra])
+
+(;B[ra];W[qb])
+)
+
+)

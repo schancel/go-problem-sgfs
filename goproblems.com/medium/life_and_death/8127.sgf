@@ -1,0 +1,38 @@
+(;GE[life and death]DI[1k]DP[18]SO[kimochi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][ap][bp][dp][bq][cq][eq][dr][es]AB[an][bn][cn][ao][co][do][eo][cp][aq][fq][cr][er][fr][fs]C[Black To Kill Without Ko]
+(;B[ds]CR[ds]
+;W[br]CR[br]
+;B[dq]CR[dq]C[Ko])
+(;B[br]CR[br]
+;W[ar]CR[ar]
+;B[ds]CR[ds]
+;W[bs]CR[bs]
+;B[dq]CR[dq]C[Ko])
+(;B[cs]CR[cs]
+;W[bs]CR[bs]
+;B[br]CR[br]
+;W[ar]CR[ar]C[Ko])
+(;B[bs]CR[bs]
+(;W[br]CR[br]C[CHOICE]
+;B[cs]CR[cs]C[RIGHT])
+(;W[ds]CR[ds]C[CHOICE]
+(;B[cs]CR[cs]
+;W[dq]CR[dq]
+;B[ar]CR[ar]C[RIGHT])
+(;B[ep]CR[ep]
+(;W[dq]CR[dq]
+(;B[br]CR[br]
+;W[ar]CR[ar]C[Seki])
+(;B[ar]CR[ar]C[RIGHT])
+(;B[cs]CR[cs]
+;W[ar]CR[ar]C[Seki])
+(;B[as]CR[as]
+;W[br]CR[br]C[White Lives]))
+(;W[br]CR[br]
+;B[dq]CR[dq]C[RIGHT Correct, but not optimal ]))
+(;B[ar]CR[ar]C[RIGHT Thanks go to Fieldmouse for this Variation])))
+(;B[ar]CR[ar]
+;W[br]CR[br]
+;B[ds]CR[ds]
+;W[cs]CR[cs]))

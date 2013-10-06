@@ -1,0 +1,28 @@
+(;GE[endgame]DI[5k]DP[35]SO[Kijana]CO[7]SZ[19]AW[fa]AW[ja]AW[ra]AW[eb]AW[fb]AW[hb]AW[ib]AW[kb]AW[ob]AW[pb]AW[qb]AW[dc]AW[ec]AW[hc]AW[kc]AW[lc]AW[mc]AW[nc]AW[pc]AW[dd]AW[gd]AW[jd]AW[kd]AW[nd]AW[de]AW[ge]AW[he]AW[je]AW[oe]AW[af]AW[cf]AW[ef]AW[ff]AW[hf]AW[ag]AW[cg]AW[hg]AW[mg]AW[ah]AW[bh]AW[ch]AW[dh]AW[eh]AW[hh]AW[lh]AW[mh]AW[nh]AW[qh]AW[ai]AW[ci]AW[ei]AW[fi]AW[ki]AW[li]AW[ni]AW[si]AW[fj]AW[ij]AW[jj]AW[nj]AW[oj]AW[pj]AW[rj]AW[sj]AW[fk]AW[gk]AW[jk]AW[lk]AW[mk]AW[rk]AW[il]AW[jl]AW[ll]AW[nl]AW[rl]AW[em]AW[fm]AW[jm]AW[lm]AW[mm]AW[nm]AW[qm]AW[bn]AW[cn]AW[dn]AW[en]AW[fn]AW[in]AW[kn]AW[mn]AW[nn]AW[qn]AW[do]AW[eo]AW[io]AW[ko]AW[ro]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[ip]AW[jp]AW[kp]AW[qp]AW[aq]AW[bq]AW[eq]AW[kq]AW[qq]AW[cr]AW[er]AW[ir]AW[kr]AW[pr]AW[rr]AW[bs]AW[ds]AW[hs]AW[is]AW[js]AW[ks]AW[ls]AW[ps]AW[qs]AB[da]AB[ea]AB[ma]AB[bb]AB[cb]AB[db]AB[jb]AB[rb]AB[cc]AB[fc]AB[ic]AB[jc]AB[oc]AB[qc]AB[sc]AB[bd]AB[cd]AB[hd]AB[id]AB[ld]AB[md]AB[od]AB[pd]AB[qd]AB[ae]AB[ce]AB[ie]AB[ke]AB[me]AB[ne]AB[bf]AB[gf]AB[if]AB[jf]AB[kf]AB[mf]AB[of]AB[pf]AB[eg]AB[fg]AB[gg]AB[ig]AB[kg]AB[lg]AB[ng]AB[gh]AB[jh]AB[kh]AB[oh]AB[ph]AB[rh]AB[sh]AB[di]AB[gi]AB[hi]AB[ji]AB[pi]AB[qi]AB[ri]AB[aj]AB[bj]AB[cj]AB[dj]AB[ej]AB[gj]AB[hj]AB[kj]AB[qj]AB[ek]AB[hk]AB[ik]AB[nk]AB[ok]AB[pk]AB[qk]AB[el]AB[fl]AB[gl]AB[hl]AB[ol]AB[ql]AB[am]AB[bm]AB[cm]AB[dm]AB[gm]AB[im]AB[pm]AB[an]AB[gn]AB[hn]AB[ln]AB[on]AB[pn]AB[ao]AB[bo]AB[co]AB[fo]AB[go]AB[lo]AB[mo]AB[no]AB[po]AB[qo]AB[ap]AB[gp]AB[hp]AB[lp]AB[pp]AB[fq]AB[hq]AB[iq]AB[jq]AB[lq]AB[pq]AB[fr]AB[hr]AB[lr]AB[nr]AB[or]AB[es]AB[fs]AB[gs]AB[ms]AB[os]LB[hm:A]C[Should nothing happen, White will win by 11 points. But can Black turn the tables? If you think he can't, play at A. Unnecessary forcing moves have been blocked to limit variations.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]TM[]PW[White]PB[Black]
+(;B[hm]C[Wrong - Black can still win])
+(;B[rp];W[rn]
+(;B[so];W[rq]C[Black destroys his last chance])
+(;B[rq]C[RIGHT])
+(;B[sq];W[rq]C[Black destroys his last chance])
+(;B[sm]C[RIGHT]))
+(;B[rn]
+(;W[rm]
+(;B[rp];W[sn];B[rq]C[RIGHT])
+(;B[sn];W[rp])))
+(;B[rm];W[rn]
+(;B[sm];W[sn];B[rp];W[sl];B[rq]C[RIGHT])
+(;B[rp];W[rq]
+(;B[sm]C[RIGHT])
+(;B[sp];W[sm])))
+(;B[dg]C[NOTTHIS])
+(;B[qa]C[NOTTHIS])
+(;B[nb]C[NOTTHIS])
+(;B[la]C[NOTTHIS])
+(;B[ka]C[NOTTHIS])
+(;B[ia]C[NOTTHIS])
+(;B[lb]C[NOTTHIS])
+(;B[mb]C[NOTTHIS])
+(;B[oa]C[NOTTHIS])
+(;B[df]C[NOTTHIS])
+(;B[pa]C[NOTTHIS])
+(;B[na]C[NOTTHIS]))

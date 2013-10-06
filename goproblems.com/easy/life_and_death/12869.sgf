@@ -1,0 +1,32 @@
+(;GE[life and death]DI[7k]DP[41]SO[Gelya]CO[0]SZ[19]AW[qg]AW[rg]AW[ph]AW[qh]AW[li]AW[mi]AW[ni]AW[oi]AW[pi]AW[ij]AW[kj]AW[ik]AW[kk]AW[lk]AW[rk]AW[sk]AW[il]AW[ll]AW[ml]AW[nl]AW[rl]AW[im]AW[jm]AW[km]AW[nm]AW[rm]AW[ln]AW[mn]AW[on]AW[pn]AW[qn]AW[rn]AW[oo]AB[rh]AB[hi]AB[ii]AB[ji]AB[ki]AB[qi]AB[hj]AB[jj]AB[lj]AB[mj]AB[nj]AB[oj]AB[pj]AB[qj]AB[rj]AB[sj]AB[jk]AB[nk]AB[ok]AB[pk]AB[qk]AB[hl]AB[jl]AB[kl]AB[ol]AB[pl]AB[ql]AB[hm]AB[om]AB[pm]AB[qm]AB[hn]AB[in]AB[jn]AB[kn]AB[nn]AB[ko]AB[lo]AB[mo]AB[no]TR[ij]TR[kj]TR[ik]TR[kk]TR[lk]TR[il]TR[ll]TR[ml]TR[nl]TR[im]TR[jm]TR[km]TR[nm]TR[ln]TR[mn]C[White to live! (assume outside groups are alive)]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]PL[W]
+(;W[lm]
+(;B[hk]
+(;W[si];B[sh]LB[ng:T]C[T=tenuki]
+(;W[sg];B[ri]C[seki!RIGHT])
+(;W[ng];B[ri]C[and if black plays here?];W[sg]C[still seki! (thanks to BartTM)RIGHT]))
+(;W[sh];B[mk]))
+(;B[sh]LB[ng:T]C[T=tenuki]
+(;W[si];B[ri];W[sg];B[hk]C[seki!RIGHT])
+(;W[ng]
+(;B[hk]
+(;W[si])
+(;W[ri];B[si];W[sg]C[Still seki.RIGHT])
+(;W[sg];B[mk]))
+(;B[ri]C[];W[sg]C[still seki!RIGHT])
+(;B[sg]
+(;W[re]C[RIGHT])))
+(;W[ri]
+(;B[si];W[sg]C[seki!RIGHT])
+(;B[sg];W[sf];B[si];W[rf]C[seki!RIGHT]))
+(;W[sg]
+(;B[hk]
+(;W[ri];B[si]C[seki!RIGHT])
+(;W[si];B[ri]C[seki!RIGHT]))
+(;B[si]C[black just made a HUGE mistake!!!];W[mk];B[hk];W[ri]C[Yep, black lost everythingRIGHT]))))
+(;W[mk];B[lm]C[snapback!])
+(;W[hk];B[gk]
+(;W[lm];B[mk]C[atari!])
+(;W[si];B[lm]))
+(;W[si];B[lm]C[kakeme! seki failed!];W[mm]
+(;B[sh]))
+(;W[sh];B[lm]C[kakeme!]))

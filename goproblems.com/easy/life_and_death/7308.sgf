@@ -1,0 +1,179 @@
+(;GE[life and death]DI[5k]DP[35]SO[LCZLAPINSKI]CO[3]SZ[13]AB[bl]AB[ck]AB[cj]AB[di]AB[dh]AW[dg]AW[ch]AW[bi]AB[fi]AB[gi]AW[ae]AW[be]AW[bd]AW[cd]AW[dd]AB[ad]AB[ac]AB[bc]AB[cc]AB[dc]AB[fd]AW[cl]AW[dl]AW[dk]AW[ej]AW[fj]AB[gj]AB[fk]AW[gk]AW[gl]AB[fl]AB[cg]AB[ei]AB[ic]AB[kd]AB[le]AW[hj]AW[hl]AB[im]AB[il]AW[ik]AW[jk]AW[kj]AB[ij]AW[ii]AW[kf]AW[lf]AB[cf]AB[ce]AB[bf]AW[bk]AB[bj]AB[ci]AB[ai]AW[bh]AW[bg]AW[ag]AW[af]AW[ee]AW[fe]AB[ge]AW[eg]AB[gg]AW[if]MA[dd]MA[cd]MA[bd]MA[be]MA[ae]MA[af]MA[ag]MA[bg]MA[dg]MA[eg]MA[ee]MA[fe]MA[bh]MA[ch]MA[bi]MA[bj]MA[ck]MA[cj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gi]MA[gj]AP[goproblems]
+(;W[ff]
+(;B[df]C[This is a mistake by black. Black should play G8 to ensure life for his stones.CHOICE];W[gf]
+(;B[hf]C[CHOICE]
+(;W[ed]
+(;B[gd];W[ec];B[fc];W[db];B[cb];W[fb];B[da];W[eb];B[ba];W[ab]C[];B[fg];W[bb];B[aa];W[ab];B[eh];W[ef];B[gb];W[ea];B[aj]
+(;W[de];B[cf]C[Cross of size 5 nakade.];W[ca]C[Ko is the only way to save the B5 group in this line.RIGHT])
+(;W[ca]C[Ko is the only way to save the B5 group in this line.RIGHT]))
+(;B[ec];W[gd];B[fc];W[he];B[hg];W[ie];B[jf];W[jg]C[RIGHT]))
+(;W[he];B[hg]C[CHOICE];W[gd]
+(;B[gc]C[CHOICE]
+(;W[ed];B[fc];W[ec];B[eb];W[ie]C[RIGHT])
+(;W[ie]C[RIGHT])
+(;W[fc];B[ec]
+(;W[ie]C[RIGHT])
+(;W[ed];B[ie])))
+(;B[ie];W[ec];B[eb];W[fc];B[gc];W[ed]TR[de]TR[fd]C[RIGHT];B[hd];W[ge]C[RIGHT]
+(;B[fg]LB[ma:T]
+(;W[ef]C[RIGHT])
+(;W[ma]C[White can play a move anywhere.];B[eh];W[ef]C[RIGHT]))
+(;B[ef];W[de]C[RIGHT]))))
+(;B[he]C[CHOICERIGHT]
+(;W[hg]C[RIGHT]
+(;B[gd]
+(;W[ie];B[hf]
+(;W[fc];B[ec])
+(;W[gh]C[RIGHT]))
+(;W[hf]C[RIGHT]))
+(;B[hf];W[gh]C[RIGHT]))
+(;W[hf]C[RIGHT])))
+(;B[gf]C[CHOICE]
+(;W[df]C[White can play anywhere even if black fills E10 or F7. The capture of the black stones connects.RIGHT]
+(;B[ed]C[CHOICE]LB[ma:T]
+(;W[fg]C[RIGHT])
+(;W[ma]C[White can play anywhere.];B[fg];W[de]TR[cf]TR[ef]))
+(;B[fg]LB[ma:T]
+(;W[ed]C[RIGHT])
+(;W[ma]C[White can play anywhere.];B[ed];W[de]C[RIGHT])))
+(;W[ed];B[df];W[ec];B[eb]
+(;W[fc];B[gd];W[gc];B[hc];W[gh];B[fh];W[hh];B[bm])
+(;W[fb];B[db];W[fc];B[gd];W[gh];B[fh];W[hh];B[bm]))))
+(;W[gf]
+(;B[hf]
+(;W[ff];B[df];W[gd];B[he];W[ed];B[fc];W[ec];B[eb];W[fb]
+(;B[db];W[gc];B[fc];W[hb];B[hc];W[gb]C[RIGHT])
+(;B[gc];W[db];B[cb];W[da];B[ca]
+(;W[ab];B[gb]
+(;W[ea];B[ga]C[RIGHT])
+(;W[fa];B[ga];W[ea];B[eb]C[Snapback]))
+(;W[ba];B[gb]
+(;W[ea]C[RIGHT])
+(;W[fa];B[ga];W[ea];B[eb]C[Snapback]))))
+(;W[gd];B[ff];W[fc];B[ed];W[ec];B[fd];W[ed]C[RIGHT]
+(;B[eb];W[gc]C[RIGHT])
+(;B[gc]
+(;W[db];B[cb];W[da];B[ba];W[ab]C[RIGHT])
+(;W[gb];B[hc];W[db];B[cb];W[da];B[ca];W[ab]C[RIGHT])))
+(;W[he]C[RIGHT];B[hg];W[gd];B[ie];W[id];B[je];W[fc]C[RIGHT]))
+(;B[bm]C[CHOICERIGHT]
+(;W[hf]C[RIGHT])
+(;W[hg]C[RIGHT])
+(;W[he]C[RIGHT]))
+(;B[he]C[CHOICE]
+(;W[hf]C[RIGHT];B[bm]C[RIGHT])
+(;W[hg]C[RIGHT];B[bm]C[RIGHT])
+(;W[bm];B[hf];W[fg];B[gh];W[ff];B[hg])))
+(;W[fg];B[df]
+(;W[gf];B[hf]
+(;W[ed];B[ff];W[ec];B[eb];W[fc];B[gd];W[gc];B[hc];W[gb];B[hb];W[ef];B[gf];W[de];B[cf]C[Cross of size 5 nakade])
+(;W[ff];B[he]
+(;W[hg]
+(;B[gh]C[This is a mistake by black.]
+(;W[hh];B[bm];W[cm];B[ak])
+(;W[bm]C[RIGHT];B[al])
+(;W[al];B[bm]))
+(;B[bm];W[gh]C[RIGHT]))
+(;W[ed]
+(;B[ec]
+(;W[hg];B[gh])
+(;W[gh];B[hg];W[hh];B[fh];W[bm];B[al];W[dj];B[ak];W[hi];B[aj];W[cm];B[ah];W[am];B[de]
+(;W[eh];B[ef])
+(;W[ef];B[cf];W[eh]C[RIGHT])))
+(;B[gh];W[ec];B[eb];W[fc];B[gd];W[gc];B[hc];W[gb];B[hb];W[ga];B[ha];W[bm];B[al];W[dj];B[ak];W[hi];B[aj];W[hh];B[fb];W[hg];B[db];W[cm];B[fa];W[am];B[ah];W[eh];B[de];W[ef];B[cf];W[fh]C[RIGHT])))
+(;W[gh]
+(;B[bm]C[CHOICE];W[hg]C[RIGHT])
+(;B[ff];W[ef]
+(;B[gf];W[bm];B[fh];W[hh]C[RIGHT])
+(;B[fh];W[hh]C[RIGHT]
+(;B[bm]C[RIGHT])
+(;B[gf];W[bm]C[RIGHT])))))
+(;W[ff];B[gf];W[ed];B[ec]
+(;W[de];B[fh];W[ef];B[cf]C[Cross of size 5 nakade.])
+(;W[ef];B[fh];W[de];B[cf]C[Cross of size 5 nakade]))
+(;W[gh];B[gf];W[fh]
+(;B[hh]
+(;W[al];B[bm])
+(;W[bm];B[al];W[hi]MA[al]MA[bl]MA[ck]MA[bj]MA[cj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gi]MA[gj]MA[ai]C[Black loses the capturing race.RIGHT];B[ff];W[ef];B[ed];W[de];B[cf];W[dj];B[ak];W[cm]C[RIGHT]
+(;B[eh];W[am])
+(;B[bf];W[am];B[cg];W[ah];B[df];W[ce]
+(;B[cf]C[CHOICE];W[aj]MA[al]MA[bl]MA[ak]C[Black can't connect at B3 because of atari.RIGHT];B[ai]C[NOTTHIS])
+(;B[aj];W[cf]MA[al]MA[bl]MA[ak]MA[aj]MA[ai]MA[bj]MA[ck]MA[cj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gi]MA[gj]C[Black's A2 group is dead.RIGHT]))))
+(;B[bm]C[CHOICE];W[hh]C[RIGHT])))
+(;W[df]C[Since white doesn't get a 2nd eye after this move, this is a mistake. White has more liberties after capturing black's group if black plays D8.];B[ff]C[Black connects and gets two eyes. Black seals out white's other groups from connecting with White's B5 group. White's one eye dies.]
+(;W[ed];B[ec])
+(;W[de];B[cf])
+(;W[ef];B[gd]
+(;W[gh];B[hh]
+(;W[fh];B[hi])
+(;W[hi];B[fh]))
+(;W[ed];B[ec]))
+(;W[ec];B[eb])
+(;W[fh];B[gh]
+(;W[ed];B[ec])
+(;W[ec];B[eb]))
+(;W[gh];B[fh]
+(;W[ed];B[ec])
+(;W[ec];B[eb]))
+(;W[fg];B[gh]))
+(;W[ak];B[bm]
+(;W[al];B[gf];W[gh];B[hh];W[fh];B[fg];W[eh];B[hi];W[hg];B[ih];W[ji];B[ig];W[hf];B[jf];W[jg];B[je];W[ff];B[df];W[gd];B[he];W[fc];B[ec];W[ed];B[fb];W[hd];B[ie]MA[ai]MA[bj]MA[ck]MA[cj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gi]MA[hi]MA[gj]MA[hh]MA[ih]MA[ig]MA[gh]MA[fh]MA[eh]MA[eg]MA[dg]MA[ch]MA[bi]MA[bh]MA[bg]MA[ag]MA[af]MA[ae]MA[be]MA[bd]MA[cd]MA[dd]MA[ed]MA[ff]MA[fe]MA[ee]MA[gd]MA[hd]MA[fc]C[Your one eye marked group dies. You lose the white group because black's marked stones are alive; white stones are cut off and black can almost fill with a rabbity six (marked with triangles). The current black shape of the cross of size 5 is also a dead shape.]TR[cg]TR[bf]TR[cf]TR[ce]TR[df]TR[de]
+(;W[hb];B[ib];W[gb];B[hc];W[eb];B[db];W[ea];B[da];W[bb];B[ba]
+(;W[cb];B[ab])
+(;W[ab];B[cb]))
+(;W[aj];B[am])
+(;W[cm];B[aj]))
+(;W[cm];B[ff];W[gh];B[fh]))
+(;W[de];B[ff]
+(;W[ef]MA[bl]MA[ck]MA[cj]MA[bj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gi]MA[gj]C[Black's B4 group is now alive. White's A7 group is dead as long as black doesn't let any of the surrounding groups get captured. Black must be careful to keep it that way.]MA[bi]MA[bh]MA[ch]MA[ag]MA[bg]MA[af]MA[ae]MA[be]MA[bd]MA[cd]MA[dd]MA[de]MA[ee]MA[fe]MA[ef]MA[eg]MA[dg]
+(;B[bm]C[Black's B4 group is now alive.];W[ed];B[fc];W[ec];B[eb])
+(;B[he]C[Black's B4 group is alive. White's A7 group has a dead shape inside and is cut off so it is dead as long as black doesn't let any of the surrounding groups get captured. Black has to be careful to keep it that way.])
+(;B[hh])
+(;B[hi];W[jj];B[ih]))
+(;W[df]
+(;B[cf]C[Black should make sure he has two eyes or more liberties before playing the farmer's hat nakade.A bigger eye space gives you more liberties if neither your group nor your opponent's group has two eyes.]
+(;W[gh];B[hh];W[fh];B[hi];W[hg];B[fg];W[eh];B[hf];W[ig];B[ih];W[ji]
+(;B[jf];W[jg];B[jh];W[kh];B[bm]
+(;W[ak];B[al])
+(;W[al];B[ak];W[cm];B[am]TR[al]TR[bk]C[Black gets two eyes and white's marked group dies. WD8 really hurt :(]MA[bi]MA[bh]MA[bg]MA[ag]MA[af]MA[ae]MA[be]MA[bd]MA[cd]MA[dd]MA[de]MA[ee]MA[fe]MA[df]MA[dg]MA[eg]MA[eh]MA[fh]MA[gh]MA[ch]))
+(;B[bm];W[ak];B[aj];W[cm];B[al]TR[am]TR[ak]))
+(;W[aj];B[ak];W[bm];B[al])
+(;W[dj];B[bm];W[ak];B[cm];W[al];B[aj])
+(;W[fg];B[gh]))
+(;B[gh]))
+(;W[fg];B[gh]C[Black has two eyes. White's B5 group dies because it only has one.])
+(;W[eh];B[ec]))
+(;W[ed];B[gd];W[ec];B[eb]
+(;W[fc];B[gc];W[fb];B[gb])
+(;W[fb];B[db];W[fc];B[gc]))
+(;W[gh];B[fh]
+(;W[hh];B[fg];W[ed];B[gd];W[ec];B[eb];W[fc];B[gc])
+(;W[fg];B[ff];W[ef];B[gf];W[hh];B[bm])
+(;W[ff];B[df]))
+(;W[ec];B[eb];W[fc];B[gc];W[ed];B[gd])
+(;W[al];B[bm]C[Black's B4 group is now alive. This is not good for white.];W[ff];B[gf];W[df]C[White is alive. White can connect by capturing, by E10 or by F7.RIGHT];B[ak]C[Both black and white are alive.RIGHT])
+(;W[ef];B[gh];W[gf];B[hf];W[ff];B[he];W[hg];B[bm]MA[bm]MA[bl]MA[ck]MA[bj]MA[cj]MA[ci]MA[di]MA[dh]MA[ei]MA[fi]MA[gj]MA[gi]MA[gh]MA[gg]C[]TR[cg]TR[bf]TR[cf]TR[ce]TR[df]
+(;W[ak];B[al];W[cm];B[aj])
+(;W[al];B[ak]C[Black lives. White's B5 group dies because it only has one eye.]MA[bi]MA[bh]MA[ch]MA[bg]MA[ag]MA[af]MA[ae]MA[be]MA[bd]MA[cd]MA[dd]MA[eg]MA[dg]MA[ef]MA[ee]MA[fe]MA[ff]MA[gf];W[cm];B[am]))
+(;W[fh];B[gh];W[ff];B[gf];W[ed];B[df]MA[bf]MA[cf]MA[ce]MA[df]MA[cg]MA[de]C[White has a killable shape inside. Black can almost fill with a rabbity six (marked). Black's stones form a cross of size which is also a killable shape. For beginners, the vital point of a cross of size five is the center point.];W[ec];B[eb];W[fc];B[gd];W[fb];B[ea];W[gc];B[hc];W[hb];B[ib];W[ha];B[fa];W[ia];B[jb])
+(;W[fc];B[ed]
+(;W[gh];B[fh];W[df];B[ff])
+(;W[ff];B[gf]
+(;W[df]C[RIGHT])
+(;W[de];B[df]C[Black almost fills with a cross of size 5 which is a killable shape. White dies unless he can kill one of the surrounding groups.]MA[bf]MA[cf]MA[ce]MA[df]MA[cg])
+(;W[ef];B[df]MA[bf]MA[cf]MA[ce]MA[df]MA[cg]C[Black forms a cross of size five which is a killable shape. White dies unless he can capture one of the surrounding groups.])))
+(;W[bm];B[ff];W[gh];B[fh])
+(;W[gd]
+(;B[gc]C[CHOICE];W[gf]C[RIGHT];B[he]C[RIGHT];W[hf]C[RIGHT])
+(;B[ec]C[CHOICE]
+(;W[ff]
+(;B[gf]C[This is probably black's best.]
+(;W[df]C[RIGHT])
+(;W[de];B[df];W[ef];B[cf]C[White could have connected to ensure two eyes.]))
+(;B[df]C[This is a mistake by black. He should ensure life for his B4 group or at least a bigger eye space for it first.]
+(;W[gf]C[RIGHT]
+(;B[he]C[RIGHT];W[hf]C[RIGHT])
+(;B[hf];W[he];B[hg];W[je]C[RIGHT]))
+(;W[fg];B[gf]C[White may live but there is a shorter way to ensure life of b5 group.])
+(;W[ed];B[gf];W[fc];B[hc];W[eb];B[db];W[ba];B[fb];W[gb];B[ea];W[gc];B[ab])))
+(;W[gf]C[RIGHT];B[hf]C[RIGHT];W[he]C[RIGHT]))))

@@ -1,0 +1,44 @@
+(;GE[elementary]DI[18k]DP[68]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;
+AW[ma][qa][ra][sa][mb][rb][mc][pc][qc][rc][md][pd][ne][oe]
+AB[na][oa][pa][nb][sb][nc][oc][sc][od][sd][pe][qe][re][se]
+C[black to kill faster than white
+]
+(;B[pb];W[nd]
+(;B[qd]C[RIGHT
+white can't push
+])
+
+(;B[rd]C[RIGHT
+white can't push
+])
+
+(;B[qb];W[ob])
+
+(;B[ob];W[qb])
+)
+
+(;B[qd];W[pb]
+(;B[rd];W[nd])
+
+(;B[ob];W[nd])
+)
+
+(;B[rd];W[pb]
+(;B[ob];W[nd])
+
+(;B[qd];W[nd])
+)
+
+(;B[nd];W[pb])
+
+(;B[qb];W[pb])
+
+(;B[ob];W[pb])
+
+)

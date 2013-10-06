@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1k]DP[20]SO[uwe001]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+AW[dn][fn][do][fo][fp][kp][bq][cq][dq][eq][cr]AB[gl][cm][dm][em][cn][co][bp][cp][hp][fq][gq][dr][er]
+(;B[en]CR[en]
+;W[hn]CR[hn]
+;B[ep]CR[ep]
+;W[bs]CR[bs]
+;B[ar]CR[ar]
+;W[eo]CR[eo]
+;B[dp]CR[dp]C[RIGHT White's C3 Group cannot escape])
+(;B[dp]CR[dp]
+;W[ep]CR[ep]
+;B[en]CR[en]
+;W[hn]CR[hn]C[Black captures two white stones eventually , but it is possible to get the five stones in the corner. Try again.])
+(;B[ar]CR[ar]
+;W[hn]CR[hn]
+;B[dp]CR[dp]
+;W[ep]CR[ep])
+(;B[bs]CR[bs]
+;W[hn]CR[hn]
+;B[dp]CR[dp]
+;W[ep]CR[ep]))

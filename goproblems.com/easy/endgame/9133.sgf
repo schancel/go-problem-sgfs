@@ -1,0 +1,12 @@
+(;GE[endgame]DI[5k]DP[33]SO[aditsu]CO[4]AW[qb]AW[qc]AW[rd]AW[re]AB[pb]AB[pc]AB[qd]AB[qe]AB[qf]AB[rf]AB[nc]AB[qh]AW[sc]AB[ra]AW[qa]AB[sb]AP[goproblems]
+(;W[rb];B[se]C[T = tenuki]LB[lc:T]
+(;W[sa]C[5 points, good!RIGHT])
+(;W[lc];B[sf]
+(;W[sd];B[rc])
+(;W[sa];B[sd]C[You lost a point])))
+(;W[se];B[pa]
+(;W[rc];B[sf]C[0 points])
+(;W[rb];B[rc]))
+(;W[rc];B[pa]C[]
+(;W[se];B[sf]C[0 points])
+(;W[rb];B[se];W[sa]C[4 points; you can do better])))

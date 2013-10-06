@@ -1,0 +1,167 @@
+(;GE[life and death]DI[2d]DP[12]SO[BartTM]CO[6]AB[ab]AB[bb]AB[cc]AB[bd]AB[be]AB[ce]AB[df]AB[ef]AB[ee]AB[ed]AB[fd]AB[fc]AB[fb]AB[fa]AW[ea]AW[eb]AW[ec]AW[dc]AW[dd]AW[de]AW[cb]AW[ba]AW[cf]AW[bf]AW[ch]AW[dg]AW[eh]AW[ae]TR[ae]C[I thought the triangled move would let White live unconditionally. Show me why that's not true!]AW[bh]AP[goproblems]
+(;B[aa];W[bc]
+(;B[ac];W[cd]
+(;B[ca];W[bc]C[Thanks to A19 Black has a chance to kill White with ko.RIGHT])
+(;B[da];W[bc]C[Thanks to A19 Black has a chance to kill White with ko.RIGHT])
+(;B[db];W[da]
+(;B[ca];W[bc]C[Dead in double ko.])
+(;B[bc];W[ad])
+(;B[ad];W[bc]))
+(;B[bc];W[ad])
+(;B[ad];W[bc]))
+(;B[ca];W[cd])
+(;B[ad];W[ac])
+(;B[db];W[ac])
+(;B[cd];W[ad])
+(;B[da];W[ac]))
+(;B[ad];W[af]
+(;B[cd];W[da]C[White is alive in seki. If Black plays A19 White kills Black at A17.])
+(;B[bc];W[da]C[White is alive in seki.])
+(;B[aa];W[cd]
+(;B[ca];W[bc])
+(;B[bc];W[ac])
+(;B[da];W[bc])
+(;B[db];W[bc])
+(;B[ac];W[bc]))
+(;B[ac];W[da]
+(;B[aa];W[cd];B[ca];W[bc]C[Black is dead in double ko.])
+(;B[cd]C[White lives in seki.]))
+(;B[ca];W[da]
+(;B[aa];W[cd]
+(;B[ca];W[bc])
+(;B[bc];W[ac])
+(;B[ac];W[bc]))
+(;B[cd]C[White is alive in seki. If Black plays A19 White kills Black at A17.])
+(;B[bc]C[White lives in seki.])
+(;B[ac];W[cd]))
+(;B[da];W[bc]
+(;B[cd];W[ac])
+(;B[ac];W[ca]
+(;B[cd];W[db]C[White lives in seki.])
+(;B[aa];W[db]C[White lives in seki.]))
+(;B[aa];W[ac])
+(;B[ca];W[cd])
+(;B[db];W[ca]
+(;B[ac];W[cd])
+(;B[db];W[cd])
+(;B[da];W[cd])
+(;B[cd];W[ac])
+(;B[aa];W[ac])))
+(;B[db];W[da]))
+(;B[cd];W[ad];B[bc];W[da]C[Black is dead.])
+(;B[ac];W[da]
+(;B[cd];W[af]
+(;B[aa];W[ad];B[ca];W[bc])
+(;B[ad]C[White lives in seki.]))
+(;B[ad];W[af])
+(;B[aa];W[cd]))
+(;B[bc];W[ad])
+(;B[ca];W[da]
+(;B[aa];W[bc]
+(;B[ac])
+(;B[cd];W[ad])
+(;B[ad];W[ac])
+(;B[ca];W[cd]))
+(;B[cd];W[ad])
+(;B[bc];W[ad])
+(;B[ad];W[bc]
+(;B[ac])
+(;B[cd];W[ac])
+(;B[aa])
+(;B[af];W[cd]
+(;B[ac];W[cc]C[Black loses the capturing race.])
+(;B[ae];W[ag])
+(;B[aa];W[ac])))
+(;B[ac];W[cd]
+(;B[ad];W[af])
+(;B[bc])
+(;B[aa]C[White is alive. White can even pass now. If Black takes at C19 White kills Black in double ko at B17.])))
+(;B[da];W[ad]
+(;B[ca];W[db]
+(;B[ca];W[ac]C[White lives in seki.])
+(;B[bc];W[ca])
+(;B[cd];W[bc])
+(;B[ac];W[af]
+(;B[ca]C[White lives in sente with seki.])
+(;B[cd];W[bc])
+(;B[aa];W[bc])
+(;B[da];W[ca])
+(;B[bc];W[ca]))
+(;B[aa];W[bc]
+(;B[ca];W[cd])
+(;B[ac];W[bc])))
+(;B[cd];W[bc])
+(;B[bc];W[ca]
+(;B[aa];W[db])
+(;B[cd];W[db])
+(;B[ac];W[af]))
+(;B[ac];W[af]
+(;B[ca];W[db])
+(;B[cd];W[bc])
+(;B[bc];W[ca])
+(;B[db];W[ca])
+(;B[aa];W[bc]))
+(;B[aa];W[bc]
+(;B[ac];W[bc])
+(;B[ca];W[cd])
+(;B[db];W[cd]))
+(;B[db];W[ca]))
+(;B[db];W[da])
+(;B[af];W[ag]
+(;B[aa];W[bc]
+(;B[ac];W[cd]
+(;B[ca];W[bc]C[Black now has a chance to kill White with ko.RIGHT])
+(;B[da];W[bc]C[Black now has a chance to kill White with ko.RIGHT])
+(;B[db];W[da];B[ca];W[bc]C[Double ko; black is dead.]))
+(;B[ca];W[cd])
+(;B[da];W[cd])
+(;B[db];W[ac])
+(;B[ad];W[ac])
+(;B[cd];W[ac]))
+(;B[ca];W[da]
+(;B[aa];W[bc]
+(;B[ac];W[cd])
+(;B[ca];W[cd])
+(;B[ad];W[ac]))
+(;B[cd];W[ad])
+(;B[bc];W[ad])
+(;B[ac];W[cd]
+(;B[aa]C[Black is dead; even if White passes now, Black dies in double ko after Black C19, White B17.])
+(;B[ad];W[af]))
+(;B[ad];W[bc];B[ac];W[cd];B[af];W[bc]C[Black is dead in double ko.]))
+(;B[da];W[ad]
+(;B[ca];W[db]
+(;B[ca];W[ac]C[White lives in seki.])
+(;B[bc];W[ca])
+(;B[ac];W[af];B[ca]C[White lives in seki.])
+(;B[aa];W[bc]
+(;B[ca];W[cd])
+(;B[ac];W[bc])))
+(;B[ac];W[af]
+(;B[bc];W[ca])
+(;B[ca];W[db])
+(;B[db];W[ca]))
+(;B[bc];W[ca]))
+(;B[db];W[da])
+(;B[ad];W[bc]
+(;B[ac];W[cd];B[af];W[bc]C[Black is dead with double ko.])
+(;B[af];W[cd];B[ac];W[cc])
+(;B[ca];W[cd])
+(;B[db];W[cd])
+(;B[da];W[cd]))
+(;B[cd];W[ad])
+(;B[ac];W[da]
+(;B[cd];W[af]
+(;B[aa];W[ad];B[ca];W[bc])
+(;B[ad]))
+(;B[ad])
+(;B[aa])
+(;B[bc];W[cd]))
+(;B[bc];W[ad]
+(;B[da])
+(;B[cd];W[da])
+(;B[aa];W[ca])
+(;B[ac];W[af])
+(;B[ca];W[da])
+(;B[db];W[da]))
+(;B[bg];W[ad])))

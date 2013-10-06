@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[6k]DP[37]SO[liberti]CO[3]AB[pa]AB[pb]AB[pc]AB[pd]AB[re]AB[sf]AB[qf]AB[pg]AB[og]AB[ne]AB[nh]AB[mg]AB[mh]AB[mi]AB[rh]AB[ri]AB[rk]AB[qk]AB[ql]AB[pj]AB[oj]AB[nj]AB[li]AW[qb]AW[qc]AW[mf]AW[nf]AW[ng]AW[qh]AW[ph]AW[oh]AW[oi]AW[pi]AW[ni]AW[qj]AW[rj]AW[rg]AW[si]AW[sh]AW[rf]C[the marked stone looks like tesuji]AW[pf]TR[pf]AP[goproblems]
+(;B[of];W[qe])
+(;B[qe];W[qg])
+(;B[pe];W[of])
+(;B[qg]
+(;W[qe]C[CHOICE]
+(;B[sg]C[RIGHT])
+(;B[qi]C[RIGHT]))
+(;W[qi]C[CHOICE]
+(;B[qe]C[RIGHT])
+(;B[qd]C[RIGHT])
+(;B[pe]C[RIGHT]))))

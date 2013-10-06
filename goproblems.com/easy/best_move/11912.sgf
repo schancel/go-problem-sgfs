@@ -1,0 +1,25 @@
+(;GE[best move]DI[4k]DP[30]SO[MeleeNewb]CO[0]AW[rp]AW[pp]AW[qp]AB[rr]AB[pr]AB[or]AW[nr]AW[oq]AB[os]AW[ns]AW[np]C[Live in the best way (more points > less points > sente seki > gote seki > ko).]AP[goproblems]
+(;B[rq];W[qq];B[qr];W[sq];B[sr]C[alive with 4 points, the best solution.RIGHT])
+(;B[qs];W[qq];B[qr];W[sq];B[sr]C[3 points, not the best.])
+(;B[qq];W[qs]
+(;B[rs];W[sr])
+(;B[sr];W[rs]))
+(;B[qr];W[qs]
+(;B[sr];W[rs])
+(;B[rs];W[sr]))
+(;B[sr]C[see next problem])
+(;B[sq];W[qs]
+(;B[rs];W[qr];B[qq];W[rq];B[ps];W[sr])
+(;B[qr];W[rq]
+(;B[sr];W[rs])
+(;B[rs];W[sr]))
+(;B[rq];W[qr];B[qq];W[pq]))
+(;B[rs];W[sr])
+(;B[pq];W[rq]
+(;B[qs];W[qq]
+(;B[qr];W[sr])
+(;B[sr];W[qr]))
+(;B[qq];W[qs]
+(;B[rs];W[sr])
+(;B[sr];W[rs]))
+(;B[sr];W[qr])))

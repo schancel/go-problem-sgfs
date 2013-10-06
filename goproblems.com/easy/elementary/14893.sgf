@@ -1,0 +1,12 @@
+(;GE[elementary]DI[12k]DP[56]SO[pumppy]CO[0]AB[bs]AB[cs]AB[ar]AW[br]AB[bq]AB[dp]AW[eq]AW[co]AW[do]AW[dm]AB[en]AB[er]AB[bp]AW[hl]AB[il]AB[hk]AW[fm]AB[el]AW[bf]AW[be]AB[bd]AB[ae]AB[af]AB[df]AW[iq]AW[kq]AW[hr]AW[jm]AB[jn]AB[ik]AW[pf]AB[qf]AB[qd]AB[oc]AW[qg]AB[pe]AB[rf]LB[ss:Ladder works]LB[sr:Fails]LB[sa:Not sure]AB[gq]AW[fr]C[FORCE]AP[goproblems]
+(;W[sr];B[ss]C[proveFORCE];W[cr];B[dr];W[cq];B[cp];W[dq];B[fq];W[ep];B[eo];W[fp];B[gp];W[fo];B[fn];W[go];B[ho];W[gn];B[gm];W[hn];B[in];W[hm];B[gl];W[im];B[km];W[jl];B[jk];W[kl];B[ll];W[kk];B[kj];W[lk];B[mk];W[lj];B[li];W[mj];B[nj];W[mi];B[mh];W[ni];B[oi];W[nh];B[ng];W[oh];B[ph];W[og];B[of];W[pg];B[qh];W[rg]
+(;B[rh];W[sg]
+(;B[sh];W[sf];B[se])
+(;B[sf];W[sh];B[si]))
+(;B[sg];W[rh];B[ri];W[sh];B[si]))
+(;W[ss];B[sr]C[proveFORCE];W[cr];B[dr];W[cq];B[cp];W[dq];B[fq];W[ep];B[eo];W[fp];B[gp];W[fo];B[fn];W[go];B[ho];W[gn];B[gm];W[hn];B[in];W[hm];B[gl];W[im];B[km];W[jl];B[jk];W[kl];B[ll];W[kk];B[kj];W[lk];B[mk];W[lj];B[li];W[mj];B[nj];W[mi];B[mh];W[ni];B[oi];W[nh];B[ng];W[oh];B[ph];W[og];B[of];W[pg];B[qh];W[rg]
+(;B[rh];W[sg]
+(;B[sf];W[sh];B[si]C[RIGHT])
+(;B[sh];W[sf];B[se]C[RIGHT]))
+(;B[sg];W[rh];B[ri];W[sh];B[si]C[RIGHT]))
+(;W[sa];B[ss]C[play at AFORCE]LB[cr:A];W[cr];B[dr]LB[cq:A];W[cq];B[cp]LB[dq:A];W[dq];B[fq]LB[ep:A];W[ep];B[eo]LB[fp:A];W[fp];B[gp]LB[fo:A];W[fo];B[fn]LB[go:A];W[go];B[ho]LB[gn:A];W[gn];B[gm]LB[hn:A];W[hn];B[in];W[hm];B[gl]LB[im:A];W[im];B[km]LB[jl:A];W[jl];B[jk]LB[kl:A];W[kl];B[ll]LB[kk:A];W[kk];B[kj]LB[lk:A];W[lk];B[mk]LB[lj:A];W[lj];B[li]LB[mj:A];W[mj];B[nj]LB[mi:A];W[mi];B[mh]LB[ni:A];W[ni];B[oi]LB[nh:A];W[nh];B[ng]LB[oh:A];W[oh];B[ph]LB[og:A];W[og];B[of]LB[pg:A];W[pg];B[qh]LB[rg:A];W[rg];B[rh]LB[sg:A];W[sg];B[sh]LB[sf:Final];W[sf];B[se]C[RIGHT]))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[15k]DP[64]SO[koala]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cq][dq][eq][cr][er][fr][fs]AB[co][do][bp][ep][fp][bq][fq][gq][br][dr][gr][cs][es][gs]C[Very simple problem, but its the sort beginners could learn from.]
+(;B[ds]CR[ds]
+;W[bs]CR[bs]
+(;B[ds]CR[ds]C[RIGHT][Thats it.  Sacrificing the 3 stones to create a dead shape inside.])
+(;B[cs]CR[cs]
+;W[ds]CR[ds])
+(;B[dr]CR[dr]
+;W[ds]CR[ds])
+(;B[es]CR[es]
+;W[ds]CR[ds])
+(;B[dp]CR[dp]
+;W[ds]CR[ds])
+(;B[as]CR[as]
+;W[ds]CR[ds])
+(;B[ar]CR[ar]
+;W[ds]CR[ds])
+(;B[cp]CR[cp]
+;W[ds]CR[ds]))
+(;B[dp]CR[dp]
+;W[ds]CR[ds])
+(;B[bs]CR[bs]
+;W[ds]CR[ds])
+(;B[cp]CR[cp]
+;W[ds]CR[ds]))

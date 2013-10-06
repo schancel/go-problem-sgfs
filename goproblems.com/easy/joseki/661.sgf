@@ -1,0 +1,21 @@
+(;GE[joseki]DI[25k]DP[76]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[cc][dd][cf]AB[db][fc]
+LB[dd:1][fc:2][cf:3][db:4][cc:5][hc:A][ic:B][jc:C]
+C[black to make an extension. choose between A, B, or C
+]
+(;B[ic]C[RIGHT
+the correct distance
+])
+
+(;B[hc]C[too close. the stones are not efficient.
+])
+
+(;B[jc]LB[hc:A]C[this is too far. black has a serious weakness at A.
+])
+
+)

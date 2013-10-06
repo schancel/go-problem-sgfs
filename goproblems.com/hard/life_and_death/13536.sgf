@@ -1,0 +1,99 @@
+(;GE[life and death]DI[5d]DP[6]SO[remembered]CO[0]AB[bk]AB[bl]AB[cj]AB[dj]AB[bq]AB[cp]AB[co]AB[dn]AB[en]AB[em]AB[eq]AB[go]AB[gp]AB[hp]AB[ip]AB[jp]AW[bm]AW[bo]AW[bp]AW[cm]AW[cl]AW[ej]AW[el]AW[fl]AW[fn]AW[gn]AW[gm]AW[hn]AW[ho]AW[in]AW[im]AW[jn]AW[jo]AW[ko]AB[io]AB[dh]AB[eh]AB[fh]AB[fi]AB[fj]AB[gj]AB[hk]AB[il]AB[jm]AB[jk]AB[kl]AB[kn]AB[ln]AW[kp]AW[kq]AW[jq]AW[jr]AW[ci]AW[bh]AW[cg]AW[ce]AW[eg]AW[fg]AW[gg]AW[hg]AB[hr]MA[cj]MA[bk]MA[bl]C[save B marked stone.W was just played triangle stone. you can play ko or find the clean way ^^. Thanks every comments. Hint: the best way for B is play B11 first.]MA[dj]AW[di]TR[di]AW[lo]AW[mo]AW[no]AW[oo]AW[nn]AW[on]AW[om]AB[pm]AB[pn]AB[po]AB[pp]AB[op]AB[pq]AB[pr]AW[mp]AW[mq]AW[nq]AW[oq]AB[kr]AB[lr]AB[mr]AB[lq]AW[nr]AB[ns]AB[or]AB[mn]AB[nm]AB[ol]AB[mm]AW[pl]AW[ql]AW[qm]AW[qk]AW[qn]AW[rn]AB[qo]AB[ro]AB[lk]AB[mk]AB[ok]AB[nk]AB[pk]AB[pj]AB[qi]AB[qh]AB[rh]AW[ig]AW[jh]AW[kh]AW[ii]AW[gi]AB[gf]AB[hf]AB[if]AB[jf]AB[je]AB[jg]AB[kg]AW[kf]AW[ke]AB[ld]AB[kd]AB[md]AB[me]AB[nd]AB[oe]AB[pe]AB[pg]AW[jd]AW[kc]AW[lc]AW[mc]AW[nc]AW[od]AW[pd]AW[qe]AW[qf]AW[qg]AW[rg]AW[gc]AW[dc]AP[goproblems]
+(;B[ek];W[ei]
+(;B[dl];W[dm]
+(;B[dk]C[];W[fk]
+(;B[bi];W[ch]
+(;B[bn];W[cn]
+(;B[an];W[am]
+(;B[al];W[ao]
+(;B[bn];W[ai]
+(;B[ck];W[an]
+(;B[ap]C[];W[aq];B[ar];W[bj])
+(;B[aj]C[You can get ko too.RIGHT]))
+(;B[aj];W[an]
+(;B[ah];W[ck];B[bj];W[ag];B[aq];W[ai];B[ap])
+(;B[aq];W[ck];B[bj])))
+(;B[an];W[ai]
+(;B[ck];W[bn];B[aj]C[yes the best for B to save marked stone is ko.RIGHT])
+(;B[aj];W[bn]
+(;B[aq];W[ck];B[bj])
+(;B[ah];W[ag];B[aq];W[ck];B[bj];W[ai];B[ap]))))
+(;B[ck];W[ao]
+(;B[an];W[al];B[ak];W[bn]
+(;B[ap];W[aq];B[ar];W[aj])
+(;B[aq];W[aj];B[ap]))
+(;B[bn];W[al];B[ak];W[an];B[aq];W[aj];B[ap])))
+(;B[am];W[an]
+(;B[ck];W[al];B[ak];W[aj];B[am]C[^^ you're right.This is ko for B too.RIGHT])
+(;B[al]C[RIGHT];W[ai]
+(;B[ap];W[bj])
+(;B[aq];W[bj])
+(;B[bj];W[aj]
+(;B[ap];W[ah];B[aq];W[ak];B[ao];W[ck])
+(;B[aq];W[ah];B[ap];W[ak];B[ao];W[ck]))
+(;B[aj];W[bj]C[ko too but not the best and you have approach move to do after this.RIGHT])
+(;B[ck]C[Black wins without fighting a ko. credit to Kalhartt & tails.RIGHT])))
+(;B[ck];W[am];B[al];W[an];B[ap];W[aj];B[bj];W[ai]))
+(;B[aj];W[al]
+(;B[cn];W[bn])
+(;B[bn];W[cn];B[an];W[am];B[ck];W[ao]
+(;B[bn];W[an]
+(;B[ap];W[aq];B[ar];W[ak]C[This is not a ko. White can approach here. [Credit to Tails])
+(;B[ah];W[ak]C[This is not a ko. White can approach here. [Credit to Tails]))
+(;B[an];W[bn]
+(;B[ah];W[ak]C[This is not a ko. White can approach here. [Credit to Tails])
+(;B[aq];W[ak]C[This is not a ko. White can approach here. [Credit to Tails])))))
+(;B[bn];W[cn];B[an];W[am];B[al];W[ao];B[an];W[bj];B[ck];W[ak]))
+(;B[ck];W[fk];B[dk];W[bj]C[B is dead [credit to MrMoto]))
+(;B[fk];W[dk])
+(;B[dk];W[fk];B[dl];W[dm];B[bn];W[cn]
+(;B[an];W[am]
+(;B[ap];W[ao];B[an];W[bn];B[ck];W[aq];B[ar];W[br];B[ap];W[cq];B[al];W[aq])
+(;B[al];W[ao]
+(;B[an];W[ai]
+(;B[aj])
+(;B[ck];W[bn];B[aj]C[ko credit to tails]))
+(;B[bn];W[ai]C[RIGHT];B[ck];W[an];B[aj]C[koRIGHT])))
+(;B[am];W[an]
+(;B[al];W[bj])
+(;B[bi];W[ch];B[al]C[RIGHT];W[ai];B[ck]C[You win.RIGHT])))
+(;B[bi];W[ch];B[dl];W[dm];B[ck];W[fk];B[dk];W[ai];B[bn];W[an];B[cn]C[RIGHT]))
+(;B[ei]C[NOTTHIS]
+(;W[ek])
+(;W[dl]
+(;B[ek]C[W live but B marked stone save so you slove it ^^RIGHT])
+(;B[bi]C[NOTTHIS];W[ch];B[gl]C[RIGHT])
+(;B[gl]C[NOTTHIS];W[ek];B[bi];W[ch];B[am];W[an];B[cn];W[bn])))
+(;B[fk];W[ek];B[ei];W[dk])
+(;B[dk];W[ek])
+(;B[ch];W[bi];B[ek];W[ei];B[dl];W[dm];B[dk];W[fk];B[bn];W[cn];B[an];W[am]
+(;B[ck];W[ao];B[ap];W[aq];B[ar];W[br];B[ap];W[cq];B[an];W[aq])
+(;B[al];W[ao]
+(;B[an];W[bj])
+(;B[bn];W[an];B[ap];W[bj])))
+(;B[bi];W[ch];B[ek];W[ei];B[dl];W[dm]
+(;B[dk];W[fk];B[bn];W[cn]
+(;B[an];W[am];B[al];W[ao]
+(;B[bn];W[ai]
+(;B[ck];W[an]
+(;B[ap];W[aq];B[ar];W[bj])
+(;B[aj]C[ko too [Credit to TailsRIGHT]))
+(;B[aj]C[];W[an];B[ah];W[ag]
+(;B[aq];W[ck];B[ap];W[bj])
+(;B[ck]C[koRIGHT])))
+(;B[an];W[ai]
+(;B[ck];W[bn];B[aj]C[koRIGHT])
+(;B[aj];W[bn];B[ah];W[ag]
+(;B[ck]C[koRIGHT])
+(;B[aq];W[ck];B[bj];W[ai]))))
+(;B[am];W[an]
+(;B[ck];W[al];B[ak];W[am]C[This is not a ko. White wins the race without fighting the ko [Credit to Tails])
+(;B[al];W[ap]
+(;B[ck]C[B win semeai Credit to Takamoyo and BassRIGHT])
+(;B[aj]C[The Best. Credit to Song17 'no semiai now' clean RIGHT]))
+(;B[aj];W[al])))
+(;B[ck];W[fk];B[dk]
+(;W[bj];B[aj];W[al];B[bn]C[B win. Credit to MoreKnock ,Takamoyo and BassRIGHT])
+(;W[ai]
+(;B[bj];W[al];B[bn];W[ak])
+(;B[aj]C[ko . This main line credit to Bass.RIGHT])))))

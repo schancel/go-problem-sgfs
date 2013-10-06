@@ -1,0 +1,40 @@
+(;GE[endgame]DI[1k]DP[19]SO[chrise]CO[7]AB[ea]AB[ec]AB[eb]AB[ed]AB[dd]AB[cd]AB[ce]AB[be]AB[ad]AW[bd]AW[bc]AW[bb]AW[cc]AW[dc]AW[db]AB[cb]AB[ca]AB[ah]AB[bh]AW[ai]AW[bi]AW[ch]AW[bg]AB[cg]AB[dg]AB[df]AB[ef]AW[di]AW[dh]AW[cj]AW[dj]AW[ei]AW[fi]AB[eh]AB[fh]LB[bg:1]LB[ca:2]AP[goproblems]
+(;W[da]
+(;B[ab]
+(;W[ac];B[ba])
+(;W[aa];B[ba];W[aa];B[ba]
+(;W[ac];B[ae]
+(;W[aa]C[Ko. After the small threat of bb14, white can still afford to capture with a13, as after ba18 white passes, and black still needs c19. White  then retakes the ko and there are no threats left for black.RIGHT])
+(;W[ca];B[cb])
+(;W[ag]C[This eliminates a small ko threat for black, so after bc19 wa19 black cannot reply as there are no more ko threats.RIGHT]))
+(;W[ca];B[ac];W[aa];B[ae]))
+(;W[ba];B[ac])
+(;W[ae]C[NOTTHIS]))
+(;B[ac]
+(;W[ab]
+(;B[ae];W[ba])
+(;B[ba]
+(;W[ae]
+(;B[af];W[ad])
+(;B[ad]
+(;W[aa];B[af];W[ca])
+(;W[af])))
+(;W[aa]
+(;B[ae];W[ca])
+(;B[ca];W[ae];B[ad];W[af]))))
+(;W[ae]C[NOTTHIS])))
+(;W[ba];B[da])
+(;W[ac];B[da];W[ae];B[af]
+(;W[bf];B[ad]C[Ko, and there are no threats for white.])
+(;W[ad];B[bf]))
+(;W[ab];B[da])
+(;W[aa];B[da])
+(;W[af];B[ae])
+(;W[ae];B[af]
+(;W[ac];B[da];W[ae];B[bf])
+(;W[da];B[ac]
+(;W[ab];B[ba]
+(;W[ae];B[ad])
+(;W[aa];B[ca];W[ae];B[ad]))
+(;W[ba];B[ab]))
+(;W[ba];B[da])))

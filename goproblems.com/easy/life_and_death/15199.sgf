@@ -1,0 +1,29 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[0]AB[ar]AB[br]AB[dq]AB[er]AW[fr]AW[gr]AW[eq]AW[ep]AW[do]AW[bo]AW[ao]AW[co]C[What can B do? (Direct ko would be nice)]AP[goproblems]
+(;B[ds];W[cq]
+(;B[cr];W[dp]
+(;B[bs];W[dr]C[Well done! :)RIGHT])
+(;B[bq];W[dr]
+(;B[bp];W[ap]
+(;B[dq];W[cp];B[bs];W[dr]C[Well done! :)RIGHT])
+(;B[bs];W[es]))
+(;B[bs];W[es]))
+(;B[dr];W[bs]))
+(;B[bs];W[cr])
+(;B[bq];W[cr])
+(;B[bp];W[cr]))
+(;B[cr];W[es]C[While this is possible for a ko, it's harder than it must be for B...]
+(;B[ds];W[dr]C[w still has a local threat at c3])
+(;B[cp];W[dr]LB[bp:1]LB[ap:2]LB[aq:3]LB[cq:4])
+(;B[bp];W[cp]
+(;B[ds];W[dr]C[w still has a local threat at b1])
+(;B[ap];W[bs];B[ds];W[dr]C[w still has a local threat at b3]))
+(;B[bs];W[dr]))
+(;B[dr];W[cq];B[cr];W[es]MA[bs]MA[ds])
+(;B[es];W[cr]LB[cq:1]LB[bs:2]C[cannot espace a dead shape])
+(;B[cq];W[dr]C[not enough eye space])
+(;B[cs];W[cq]C[cannot get a second eye around d2 now])
+(;B[bs];W[cq]
+(;B[dr];W[es]MA[cr]MA[ds])
+(;B[cr];W[ds]MA[dr]MA[es])
+(;B[es];W[dr]))
+(;B[cp];W[dr];B[cr];W[es]LB[bp:1]LB[ap:2]LB[aq:3]LB[cq:4]))

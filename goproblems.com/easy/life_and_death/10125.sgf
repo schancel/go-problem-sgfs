@@ -1,0 +1,18 @@
+(;GE[life and death]DI[5k]DP[34]SO[gorka]CO[9]AB[ha]AB[hb]AB[gb]AB[hc]AB[jb]AB[ib]AB[kb]AB[lb]AB[kc]AB[kd]AB[ld]AB[mc]AB[md]AB[me]AB[nc]AB[ke]AB[jf]AB[ie]AB[id]AW[ka]AW[ja]AW[la]AW[mb]AW[nb]AW[oc]AW[oa]AW[pc]AW[qc]AW[rb]AW[sc]AW[rd]AW[sd]AW[se]AW[sf]AW[sg]AB[od]AB[pd]AB[qd]AB[re]AB[rf]AB[rg]AB[rh]AB[sh]AB[pf]AB[qg]AW[qe]AW[qf]LB[ka:1]LB[jb:2]LB[ja:3]C[we are at yose, and white thought he can push at 3, what can you play ?]AP[goproblems]
+(;B[ma];W[na]
+(;B[ia];W[ma];B[pa];W[ob]
+(;B[ra]
+(;W[qb];B[sb]C[right, steps ko for huge corner.RIGHT])
+(;W[sb];B[qb]C[seki :)RIGHT]))
+(;B[qb];W[ra]C[nothing here :(]))
+(;B[pa]
+(;W[ob];B[ia];W[ma];B[ra])
+(;W[ma];B[ia];W[ob]
+(;B[ra]
+(;W[qb];B[sb]C[right, ko for huge corner.RIGHT])
+(;W[sb];B[qb]C[seki :)RIGHT]))
+(;B[qb];W[ra]C[nothing here :(]))))
+(;B[pa];W[ma];B[ra];W[qb];B[sb];W[rc];B[qa];W[ob]C[black dead in corner (thats not ko)])
+(;B[qa];W[ra];B[pb];W[ob]C[nothing here :(])
+(;B[pb];W[qb];B[ma];W[na];B[ia];W[ma]C[nothing here :(])
+(;B[ia];W[ma]C[nothing here :o]))

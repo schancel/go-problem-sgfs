@@ -1,0 +1,40 @@
+(;GE[endgame]DI[4k]DP[29]SO[Field Mouse]CO[8]AW[bc]AW[cc]AW[dc]AW[ec]AW[gc]AW[gb]AW[gd]AW[ed]AB[hb]AB[hc]AB[hd]AB[de]AB[dd]AB[cd]AB[bd]AW[ge]AW[gf]AW[ff]AW[ef]AB[df]AW[ee]AB[dg]AB[eg]AB[fg]AB[gg]AB[hg]AB[hf]AB[he]AB[bf]AB[ga]C[White to play the best endgame in the left corner. The rest of the board is not important.]AB[bg]AB[cf]AW[ce]AB[ld]AB[nc]AB[md]AB[oa]AB[pa]AB[oc]AB[kd]AW[qa]AW[qb]AW[pb]AB[ob]AW[pc]AW[pd]AW[od]AB[nd]AW[oe]AW[ne]AW[me]AW[le]AB[ke]AW[kf]AB[jf]AB[jg]AW[kg]AW[mg]AP[goproblems];W[fa];B[ha]
+(;W[ab]
+(;B[ad];W[ac]C[The best you could do!RIGHT])
+(;B[fb]C[NOTTHIS];W[ea];B[eb];W[da];B[db];W[ca];B[cb];W[ba]C[Black has nothing here.RIGHT]))
+(;W[bb];B[ac];W[ab];B[ad]C[One point worse than the solution.])
+(;W[eb];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points worse than the solution.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[fb];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points behind the solution.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[ba];B[ac];W[ab];B[ad]C[One point behind the solution.])
+(;W[cb];B[ac];W[ab];B[ad]C[One point behind the solution.])
+(;W[fc];B[ac];W[ab];B[ad]
+(;W[bb]C[You could do two points better.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[ea];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points behind the solution.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[da];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.])
+(;W[ba]C[Two points behind the solution.]))
+(;W[ca];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points behind the solution.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[db];B[ac];W[ab];B[ad]
+(;W[bb]C[Two points behind the solution.])
+(;W[ba]C[Two points behind the solution.])
+(;W[cb]C[Two points behind the solution.]))
+(;W[ad];B[fb];W[eb];B[ea];W[da];B[ae];W[fa];B[ac]
+(;W[ab];B[bb]C[Black makes double ko and white will lose something.])
+(;W[fc];B[bb]C[White could do better.])
+(;W[bb];B[ea]C[Even if white wins this ko this is worse than the solution.]))
+(;W[ac];B[fb]C[Problem.]))

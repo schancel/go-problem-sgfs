@@ -1,0 +1,14 @@
+(;GE[life and death]DI[1d]DP[16]SO[tristesse]CO[3]AB[bq]AB[cq]AB[cp]AB[ap]AB[bo]AB[dr]AW[er]AW[dq]AW[dp]AW[co]AW[cn]AW[bn]AW[an]AW[en]AW[fq]AP[goproblems]
+(;W[ds]
+(;B[cr]C[CHOICE];W[ar]C[];B[ao]
+(;W[aq];B[bp]C[RIGHT])
+(;W[br];B[bs]))
+(;B[ar]C[CHOICE];W[bs]C[RIGHT]))
+(;W[ar];B[br];W[ds];B[cs])
+(;W[br];B[cr];W[ar];B[bs])
+(;W[ao];B[ar]
+(;W[cr];B[br];W[ds];B[bs]C[Only a ko])
+(;W[bp];B[cr];W[bs];B[bo];W[ds];B[cs]LB[bp:Ko?];W[bp]C[Ko is not enough.]))
+(;W[bs];B[cs]
+(;W[br];B[ar];W[ao];B[bp];W[es];B[cr])
+(;W[ar];B[br];W[es];B[aq];W[ds];B[as];W[cr])))

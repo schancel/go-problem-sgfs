@@ -1,0 +1,41 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[0]AW[bc]AW[cc]AW[bd]AW[db]AW[eb]AB[fa]AB[fb]AB[fc]AB[dc]AB[cd]AB[ce]AB[be]AB[ae]AB[fd]AB[ed]C[b to get a ko (one where w is looking for threats is best)]AP[goproblems]
+(;B[ad]
+(;W[bb]
+(;B[ea];W[da]
+(;B[ba];W[ac]
+(;B[ec];W[aa];B[ab]C[nice, w is looking for threats now :)RIGHT])
+(;B[ca];W[aa];B[ab]C[nice, w is looking for threats now :)RIGHT])
+(;B[aa];W[ca]))
+(;B[ab];W[ac]LB[ba:1]LB[aa:2]C[w takes 1st])
+(;B[ac];W[ab])
+(;B[ec];W[ba]))
+(;B[ba];W[ca]
+(;B[ab]C[w takes 1st]LB[ea:1]LB[ac:2]LB[aa:3])
+(;B[ea];W[ac]MA[aa]MA[da]))
+(;B[da];W[ea]
+(;B[ba];W[ca]C[w takes 1st])
+(;B[ab];W[ba])
+(;B[ac];W[ab]))
+(;B[ca];W[ba])
+(;B[ac];W[ab])
+(;B[ab];W[ac]))
+(;W[ba];B[ab];W[ac];B[cb];W[bb];B[da]C[RIGHT])
+(;W[ab];B[ba]C[RIGHT]))
+(;B[ab];W[bb]
+(;B[ea];W[da]
+(;B[ba];W[ac]C[w takes 1st])
+(;B[ad];W[ac]C[w takes 1st]))
+(;B[ba];W[ac])
+(;B[ad];W[ac]))
+(;B[bb];W[ab];B[ac];W[cb];B[aa];W[ad]C[b is the one looking for threats here!])
+(;B[ba];W[ca]
+(;B[ad];W[bb];B[ab]C[w takes 1st]LB[ea:1]LB[ac:2]LB[aa:3])
+(;B[ab];W[ac])
+(;B[bb];W[ab])
+(;B[ac];W[ab]))
+(;B[ca];W[ba];B[bb];W[ab];B[aa];W[cb];B[ac];W[ad]
+(;B[ec];W[ab]C[w takes 1st])
+(;B[ea];W[ab]C[w takes 1st]))
+(;B[ac];W[bb])
+(;B[ea];W[ba])
+(;B[da];W[ea]))

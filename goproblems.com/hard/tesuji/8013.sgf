@@ -1,0 +1,43 @@
+(;GE[tesuji]DI[5d]DP[4]SO[santa c]CO[8]AW[fa]AW[ea]AW[fb]AW[gc]AW[gd]AW[ge]AW[hd]AW[hb]AW[ib]AW[ic]AW[jc]AB[ga]AB[ha]AB[ia]AB[jb]AB[kc]AB[lc]AB[lb]AB[md]AB[me]AB[he]AB[ie]AB[gf]AB[ff]AB[fc]AB[fd]AB[eb]AB[db]AB[dd]AB[df]AB[dg]AB[cg]AB[ch]AB[ci]AW[cc]AW[cf]AB[be]AW[cj]AW[dj]AB[di]AW[dh]AW[eh]AW[ei]AW[ej]AW[fe]C[White to move (PLEASE AVOID UNNECESSARY MOVES!)]AP[goproblems]
+(;W[cb];B[ed]
+(;W[ab]
+(;B[da]
+(;W[ba]
+(;B[bc]
+(;W[bd]
+(;B[ad];W[cd]C[Incredible aji usage! Thanks to this White stone, Black can't connect! Well done! :)RIGHT]LB[ac:A]MA[cf])
+(;B[cd];W[ad]C[RIGHT]))
+(;W[cd];B[bd]C[:(]TR[ce]TR[bf])
+(;W[ce];B[cd]C[:(]))
+(;B[bd];W[bc]C[RIGHT]))
+(;W[bd];B[ba];W[ca];B[ad]C[:(])
+(;W[cd];B[ba]C[:(]TR[ce]TR[bf])
+(;W[ce];B[cd]C[:(]TR[bc]TR[ba])
+(;W[ca];B[ba]
+(;W[bd];B[ad]C[:(])
+(;W[cd];B[ce];W[bd];B[ad]C[:(])
+(;W[ce];B[cd]C[:(]))
+(;W[gb]C[NOTTHIS]))
+(;B[ba];W[da]
+(;B[ca];W[gb];B[ja];W[bd]C[White either makes an eye or captures 3 to the same effect.RIGHT])
+(;B[bd];W[ca]C[RIGHT]))
+(;B[bd];W[da]C[RIGHT]))
+(;W[da];B[ab]C[:(])
+(;W[ba];B[ab]C[:(])
+(;W[bd])
+(;W[ce];B[cd]C[:(])
+(;W[ca];B[ab]C[:(])
+(;W[cd];B[ab]C[:(]))
+(;W[bb];B[cb]C[:(])
+(;W[da];B[cb]C[:(])
+(;W[ec];B[ed];W[dc];B[cb]
+(;W[cd];B[ce]C[:(])
+(;W[bc];B[bb]C[:(])
+(;W[bb];B[bc]C[:(]))
+(;W[ed];B[ec]
+(;W[cb];B[da]C[Thanks to the exchange, Black can now play D19...:(]TR[ed]TR[ec])
+(;W[bb];B[da]C[:(])
+(;W[ee];B[dc]C[:(]))
+(;W[cd];B[ed]C[:(]LB[cb:1]LB[ab:2])
+(;W[ce];B[cd]C[:(])
+(;W[gb]C[NOTTHIS]))

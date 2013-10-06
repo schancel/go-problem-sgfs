@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[35]SO[Spirit]CO[7]AW[mq]AW[pp]AW[qn]LB[yy:1]LB[qq:A]LB[mn:NO]C[Can Black locally live or make a ko by playing at A?If you think not, please play at NO.]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[qq]MN[1]
+(;W[or]
+(;B[qp];W[qo]
+(;B[pr];W[rp];B[rq];W[ro];B[oq];W[nr]
+(;B[op];W[po];B[pq];W[no])
+(;B[pq];W[no]))
+(;B[ro];W[rn];B[sp];W[rr];B[qr];W[rq];B[rp];W[pr]))
+(;B[ro];W[rn];B[qo];W[po];B[pr];W[qp]
+(;B[rp];W[rr];B[rq];W[so];B[oq];W[nr];B[pq];W[np];B[sr];W[rs];B[sp];W[ps];B[pn];W[ql])
+(;B[rr];W[rp];B[oq];W[nr];B[pq];W[qs]
+(;B[np];W[mo])
+(;B[no];W[np])))
+(;B[pr];W[rp]
+(;B[oq];W[nr];B[pq];W[np]C[Black is dead.])
+(;B[qp];W[qo])
+(;B[rq];W[qp]
+(;B[oq];W[nr];B[pq];W[np])
+(;B[rr];W[qs])
+(;B[nr];W[oq];B[os];W[mr])))
+(;B[rp];W[ro]
+(;B[rr];W[sq];B[pr];W[sp];B[oq];W[nr]
+(;B[pq];W[np])
+(;B[op];W[po];B[pq];W[no]))
+(;B[pr];W[rr]
+(;B[oq];W[nr])
+(;B[nr];W[oq];B[os];W[mr];B[rq];W[sp])))))
+(;B[mn]C[The invasion at A doesn't work without any stones nearby.RIGHT]))

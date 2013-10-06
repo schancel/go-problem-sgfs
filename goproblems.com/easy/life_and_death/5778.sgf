@@ -1,0 +1,12 @@
+(;GE[life and death]DI[5k]DP[35]SO[maba]CO[7]AW[qq]AW[qr]AW[qp]AB[mn]AB[on]AB[oo]AB[op]AB[pp]AB[pq]AB[pr]AB[os]AB[oq]AB[np]AB[mp]AB[lp]AB[lq]AW[or]AW[nr]AW[nq]AW[mr]AW[lr]AW[kr]AW[kq]AW[jq]AW[iq]AW[kp]AW[jp]AW[io]AW[in]AW[ko]AW[kn]AW[lo]AW[mo]AB[ln]AB[jr]AB[ir]AB[hq]AB[hp]AB[ip]AB[hr]AB[ho]AB[hn]AB[hm]AW[jn]AB[im]AB[jm]AB[km]AB[nn]AW[qo]AW[qn]C[If you think white is alive, play at T. Else play a move that makes white live.]LB[pm:T]AP[goproblems]
+(;W[pm]
+(;B[ks]C[How to live then?]
+(;W[ns];B[ps];W[ls]C[Well done!!!RIGHT])
+(;W[ls];B[ns]))
+(;B[ns]
+(;W[ms]
+(;B[ps];W[ks]C[RIGHT])
+(;B[ks];W[ps]C[RIGHT]))
+(;W[ks];B[ms])))
+(;W[ns]C[White was already alive.])
+(;W[ks]C[White was already alive.]))

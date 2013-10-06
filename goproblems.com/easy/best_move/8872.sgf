@@ -1,0 +1,16 @@
+(;GE[best move]DI[7k]DP[40]SO[tjl]CO[8]AB[hi]AB[ii]AB[jh]AB[jg]AB[jf]AB[ie]AB[he]AB[gf]AB[gg]AB[gh]AW[if]AW[hh]AW[gi]AW[gj]AW[hj]AW[ij]AW[ji]AW[kj]AW[kh]AW[ke]AW[je]AW[kf]AW[kg]C[]AW[jj]AB[ki]AB[li]AB[lj]AB[lk]AB[lh]AB[kk]AB[fi]AB[jd]AW[ld]AW[fk]AP[goproblems]
+(;W[ih];B[hg]C[B makes a ko threat, T for tenuki]LB[dd:T]
+(;W[dd];B[ig]C[Big loss])
+(;W[ig]C[Oh dear, now B won the ko]))
+(;W[hf];B[hg]
+(;W[ih];B[ig]C[Oops :)])
+(;W[ig];B[ih]C[Oops :)]))
+(;W[hg];B[hf]C[B makes a ko threat, T for tenuki]LB[dd:T]
+(;W[dd];B[ig]C[Big loss])
+(;W[ih];B[ig]C[B makes *another* ko threat. T for tenuki]LB[dd:T]
+(;W[dd];B[if]C[Big loss.])
+(;W[if]C[Now B definitely won the ko, getting not one but *two* threats here.]))
+(;W[ig];B[ih]C[Oops :)]))
+(;W[ig];B[hg]C[B makes a ko threat, T for tenuki]LB[dd:T]
+(;W[dd];B[ih];W[hh]C[Very good, there was no real ko threat hereRIGHT])
+(;W[ih]C[B just tricked you :) You only need to answer once B *also* plays on the marked point]MA[hf])))

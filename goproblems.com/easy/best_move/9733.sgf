@@ -1,0 +1,14 @@
+(;GE[best move]DI[4k]DP[31]SO[Stones]CO[7]AB[qs]AB[pr]AB[pq]AB[rq]AB[qq]AB[rp]AB[qo]AB[po]AB[oo]AB[on]AW[or]AW[oq]AW[ps]AW[os]AW[mr]AW[mq]AW[no]AW[mo]AW[np]AW[nn]AW[nm]AW[nl]AW[nk]AW[nj]AW[mk]AW[om]AW[pm]AW[pn]AW[qn]AW[ro]AW[rn]AB[pl]AB[qk]AB[rl]AB[oj]AB[ni]AB[nh]AB[mj]AB[lj]AB[lk]AB[ll]AB[mm]AB[ln]AB[kn]AB[jn]AB[in]AB[lp]AB[kp]AB[lq]AB[lr]AB[jr]AB[jq]AB[qi]TR[rl]LB[jj:T]C[Black has just played S8.  Is there anything white can do, or is it best to play tenuki(T) and leave the moves here for ko threats?]AP[goproblems]
+(;W[jj]C[White could have gotten a ko for life by counterattacking the R3 group.])
+(;W[sp];B[rr])
+(;W[pp];B[rr]C[Q4 is an important point, but played at the wrong time.  Black lives and white cannot make two eyes.])
+(;W[sr];B[pp])
+(;W[ss];B[pp])
+(;W[sq];B[rr])
+(;W[rr];B[sr]TR[pp]TR[sp]C[Black has miai for life.  Q5 is also safe from capture, so white cannot make two eyes.])
+(;W[rm]C[This move does not make an eye.])
+(;W[rs]
+(;B[rr]C[CHOICE]
+(;W[qr]MA[qs]C[ko is best for bothRIGHT])
+(;W[pp];B[ss]))
+(;B[qr]C[Black can not connect at R2.];W[pp]C[White Q4 destroys an eye.  The marked points are miai to kill.RIGHT]TR[sp]TR[sr])))

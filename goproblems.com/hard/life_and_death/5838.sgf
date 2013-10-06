@@ -1,0 +1,134 @@
+(;GE[life and death]DI[5d]DP[6]SO[santa c]CO[8]AB[cm]AB[cn]AB[co]AB[cp]AB[bq]AW[cq]AW[dq]AW[dp]AW[do]AW[cl]AW[bl]AW[bk]AB[dn]AW[dm]AW[em]AW[en]AW[eo]AW[er]AW[fr]AW[gs]AW[gr]C[Is the marked stone a real ko threat? Do you need to Anwser (A at B2) it?  Or can you ignore it and Fill (F at K4) the ko?FORCE]LB[jp:F]LB[br:A]MA[bq]AB[ms]AB[mr]AB[nr]AB[or]AB[pq]AB[pp]AB[po]AB[oo]AB[on]AB[om]AB[pm]AB[ql]AB[rk]AB[qq]AW[rq]AW[qp]AW[qo]AW[qn]AW[pn]AW[qm]AB[rl]AP[goproblems]
+(;W[br];B[jp]C[Is that so? What could the opponent do then? (Buttom right corner)FORCE]
+(;W[rr];B[so]
+(;W[sp];B[sm]
+(;W[sr];B[rs]
+(;W[qr];B[qs]
+(;W[pr];B[ps]C[:(])
+(;W[ps];B[pr]C[:(]))
+(;W[qs];B[qr]C[:(])
+(;W[ro];B[sn]
+(;W[qr];B[qs]
+(;W[pr];B[ps]C[:(])
+(;W[ps];B[pr]C[:(]))
+(;W[qs];B[qr]C[:(])))
+(;W[qr];B[sr]
+(;W[qs];B[ss]C[:(])
+(;W[ro];B[sn]
+(;W[qs];B[ss]C[:(])
+(;W[ss];B[rs];W[qs];B[ss]C[:(])
+(;W[pr];B[ps]C[:(]TR[ss]TR[qs]))
+(;W[ss];B[rs];W[qs];B[ss]C[:(])
+(;W[pr];B[ps]C[:(]TR[qs]TR[ss]))
+(;W[rs];B[sr]C[:(])
+(;W[ro];B[sn]
+(;W[sr];B[rs]
+(;W[qr];B[qs]
+(;W[pr];B[ps]C[:(])
+(;W[ps];B[pr]C[:(]))
+(;W[qs];B[qr]C[:(]))
+(;W[rs];B[sr]C[:(])
+(;W[qr];B[sr]TR[qs]TR[ss]C[:(])))
+(;W[ro];B[sn]
+(;W[sp];B[sm]C[:(]TR[sr]TR[rs])
+(;W[sm];B[rm];W[sp]TR[sr]TR[rs]C[:(])
+(;W[rs];B[sp]C[:(]))
+(;W[rs];B[sp]C[:(])
+(;W[sr];B[sp]C[:(])
+(;W[sn];B[sm]
+(;W[rn];B[rp]C[:(])
+(;W[sp];B[rn]TR[sr]TR[rs]C[:(];W[ro];B[sn]C[:(]TR[sr]TR[rs])
+(;W[rs];B[rn]C[:(]TR[sp]TR[sr]))
+(;W[qr];B[sm];W[sp];B[sr]C[:(]TR[qs]TR[ss])
+(;W[sm];B[rm]C[:(]))
+(;W[qr];B[sr]
+(;W[rr];B[so]TR[ss]TR[qs]C[:(])
+(;W[sq];B[rr]TR[so]TR[rs]C[:(])
+(;W[sp];B[rr]C[:(])
+(;W[so];B[rr]C[:(])
+(;W[rs];B[so]C[:(])
+(;W[ro];B[rr]C[:(])
+(;W[qs];B[so]C[:(])
+(;W[sn];B[rr]C[:(])
+(;W[rp];B[so]C[:(])
+(;W[rn];B[rr]C[:(])
+(;W[rm];B[rr]C[:(]))
+(;W[sp];B[rr]C[:(])
+(;W[sq];B[rr]C[:(])
+(;W[ro];B[rr]C[:(])
+(;W[sr];B[qr]TR[rr]TR[sp]C[:(])
+(;W[rm];B[rr]C[:(])
+(;W[sn];B[rr]C[:(])
+(;W[rs];B[sn]
+(;W[sr];B[qr]TR[sp]TR[rr]C[:(])
+(;W[qr];B[sr]C[:(])
+(;W[sp];B[sr]C[:(]))
+(;W[so];B[rr]C[:(])
+(;W[rp];B[rr]C[:(])
+(;W[rn];B[rr]C[:(])
+(;W[sm];B[rr]C[:(])
+(;W[ss];B[rr]C[:(]))
+(;W[jp];B[cr]C[Is that so? How can you kill it then? (Buttom left)FORCE]
+(;W[an];B[ao]
+(;W[br];B[ar];W[bs];B[cs];W[bp];B[ap];W[aq]MA[bq]C[:(])
+(;W[bp];B[ar]
+(;W[bs];B[ap]
+(;W[br];B[cs];W[aq]MA[bq]C[:(])
+(;W[cs];B[br]C[:(]))
+(;W[bo];B[bs]C[:(])
+(;W[bn];B[bo]C[:(])
+(;W[ap];B[bo]C[:(]))
+(;W[bo];B[bp]
+(;W[ap];B[am];W[bm];B[bn]C[:(])
+(;W[bn];B[bm]C[:(]))
+(;W[bs];B[br]C[:(])
+(;W[ar];B[br]C[:(]))
+(;W[br];B[ar]
+(;W[bs];B[cs];W[bp];B[ap]C[:(])
+(;W[bp]
+(;B[ap]C[:(])
+(;B[bs]C[:(])))
+(;W[bs];B[br]C[:(])
+(;W[ar];B[ao]
+(;W[br];B[aq]
+(;W[bp];B[ap]
+(;W[bo];B[bn]
+(;W[dr]C[Well done! :)RIGHT])
+(;W[cs]C[Well done! :)RIGHT])
+(;W[ds]C[Well done! :)RIGHT]))
+(;W[bn];B[bo]C[:(])
+(;W[an];B[bo]
+(;W[cs]C[Well done! :)RIGHT])
+(;W[dr]C[Well done! :)RIGHT])
+(;W[ds]C[Well done! :)RIGHT]))
+(;W[cs]C[Well done! :)RIGHT])
+(;W[dr]C[Well done! :)RIGHT])
+(;W[ds]C[Well done! :)RIGHT]))
+(;W[bo];B[bp]C[:(])
+(;W[bn];B[bo]C[:(])
+(;W[dr];B[bp]C[:(])
+(;W[cs];B[bp]C[:(])
+(;W[ds];B[bp]C[:(])
+(;W[bm];B[bs]C[:(]))
+(;W[aq];B[br]C[:(])
+(;W[bs];B[cs]C[:(])
+(;W[bp];B[br]C[:(])
+(;W[bm];B[aq]C[:(]))
+(;W[aq];B[ar]C[:(])
+(;W[cs];B[bs]C[:(])
+(;W[ao];B[ap]
+(;W[ar];B[bo]
+(;W[br];B[bs]C[:(])
+(;W[an];B[am]C[Hard... :( (7,8 a ko threat played by White)]LB[aq:1]LB[br:2]LB[as:4]LB[bs:5]LB[bp:3,9]LB[cs:10]LB[bm:11]LB[ap:6,12])
+(;W[aq];B[br]C[:(])
+(;W[bm]C[Ko.. :(]LB[an:1]LB[br:2]LB[bs:3]LB[bn:4]LB[aq:5]LB[am:6]LB[as:7]LB[ao:8]))
+(;W[bo];B[bp]C[:(])
+(;W[an];B[ar]C[:(])
+(;W[bs];B[an]C[:(]))
+(;W[ap];B[ao]C[:(])
+(;W[bm];B[bo]C[:(])
+(;W[am];B[ao]C[:(])
+(;W[bn];B[bo]C[:(])
+(;W[bo];B[bp]C[:(])
+(;W[as];B[br]C[:(])
+(;W[bp]C[Only a ko... :(]LB[bo:2]MA[bq]LB[ap:1]LB[ar:3]LB[bs:4]LB[bn:5]LB[br:6]LB[cs:7]LB[aq:8])))

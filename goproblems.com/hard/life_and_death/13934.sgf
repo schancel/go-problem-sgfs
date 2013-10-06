@@ -1,0 +1,13 @@
+(;GE[life and death]DI[6d]DP[0]SO[woody1224]CO[0]C[7 White stones are fighting with 4 Black stones, 3 Liberties VS 4 Liberties. The objective is to make the 7 White stones live.]AB[cr]AB[cq]AB[dq]AW[dr]AW[er]AW[eq]AW[fq]AW[gq]AW[hq]AW[fp]AB[fr]AB[gr]AB[hr]AB[gp]AB[hp]AB[ep]AB[eo]AB[fo]AW[dp]AW[do]AW[co]AW[cp]AB[bp]AW[bo]AW[cn]AW[cm]AW[cl]AW[dl]AB[el]AB[dn]AB[gm]AB[dm]AP[goproblems]
+(;W[bq];B[br]
+(;W[ap];B[iq])
+(;W[aq];B[iq]))
+(;W[aq]C[What are you doing?])
+(;W[ar]C[What are you doing?])
+(;W[bs]C[What are you doing?])
+(;W[as]C[What are you doing?])
+(;W[cs];B[br];W[bs];B[ar];W[aq];B[iq];W[ap];B[es])
+(;W[br]
+(;B[cs];W[bq]C[RIGHT])
+(;B[bq];W[cs]C[RIGHT]))
+(;W[go];B[ho];W[gn];B[fn];W[hn];B[in];W[hm];B[hl];W[im];B[jm];W[il];B[ik];W[jl];B[jk]))

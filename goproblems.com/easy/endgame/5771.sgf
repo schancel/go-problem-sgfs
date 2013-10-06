@@ -1,0 +1,25 @@
+(;GE[endgame]DI[5k]DP[35]SO[maba]CO[7]AB[aa]AB[ba]AB[bb]AB[cb]AB[cc]AB[dc]AB[da]AB[ea]AB[eb]AW[ab]AW[ac]AW[bc]AW[ch]AW[ci]AW[cj]AB[bj]AB[ai]AB[bh]AB[di]AB[ei]AW[dh]AB[dj]AB[eh]AB[eg]AB[dg]AB[cg]AB[df]AB[de]AW[ah]AW[ag]AW[af]AW[bg]AW[cf]AW[ce]AW[be]AW[cd]AW[dd]AW[ed]AW[ec]AW[ee]AW[fd]AW[fa]AW[fb]AW[gb]AW[hc]AW[hd]AW[he]AW[ge]AW[hf]AW[id]AW[jd]AW[jc]AW[jb]AW[kc]AB[kb]AB[la]AB[lc]AB[mc]AB[mb]AW[ma]AW[na]AW[oa]AW[pa]AW[nb]AW[qa]AW[pb]AB[fe]AB[ff]AB[gf]AB[ie]AB[if]AB[ig]AB[hg]AB[hh]AB[hi]AW[ej]AW[fj]AW[fk]AB[gj]AB[gk]AB[hj]AB[fi]AB[kd]AB[ke]AB[kf]AW[je]AW[jf]AW[jg]AW[kg]AW[ih]AW[ii]AW[ij]AW[ik]AW[hk]AW[hl]AW[gl]AW[gm]AB[fm]AB[ra]AB[rb]AB[sb]AB[qb]AB[qc]AB[pc]AB[rd]AB[sc]AB[se]AB[qe]AB[qf]AB[rf]AB[rg]AB[sg]AB[sh]AB[qg]AB[pf]AB[of]AB[oe]AB[nf]AB[mf]AB[lf]AW[ld]AW[md]AW[nd]AW[od]AW[oc]AW[pd]AW[qd]AW[me]AW[ne]AB[lg]AB[lh]AB[kh]AB[jh]AB[ki]AB[mh]AB[mi]AB[mj]AB[nj]AB[oj]AB[oi]AB[oh]AB[pi]AB[pj]AB[pk]AB[qk]AB[pl]AB[ol]AB[ng]AW[nh]AW[og]AW[pg]AW[ph]AW[qh]AW[rh]AW[ri]AW[si]AW[qi]AW[qj]AW[rj]AW[rk]AW[sl]AW[ql]AW[qm]AW[rm]AW[pm]AW[qn]AW[qo]AW[ro]AW[sn]AB[so]AB[sp]AB[ss]AB[sr]AB[rp]AB[rr]AW[rs]AW[qs]AW[ps]AW[qr]AW[ls]AW[lr]AW[mr]AW[kr]AW[lq]AW[kq]AW[kp]AW[jq]AB[ks]AB[js]AB[jr]AB[is]AB[gs]AB[hs]AB[hr]AB[hq]AB[iq]AB[gq]AB[fq]AW[gr]AW[fr]AW[fs]AW[es]AW[dr]AW[cr]AW[cs]AW[bs]AW[dq]AW[eq]AB[ar]AB[br]AB[bq]AB[bp]AB[ap]AB[bo]AB[cp]AB[cq]AB[dp]AB[ep]AB[eo]AB[fo]AB[go]AW[fp]AW[gp]AB[en]AW[fn]AW[gn]AW[em]AW[dm]AW[dl]AW[dk]AW[dn]AW[cn]AW[bn]AW[an]AW[ao]AW[co]AW[cm]AB[ck]AB[cl]AB[bl]AB[bm]AB[am]AB[ip]AB[jp]AB[jo]AB[kn]AB[jm]AB[hn]AB[in]AB[jn]AW[hm]AW[im]AB[il]AB[jl]AB[jk]AB[kl]AB[ll]AB[ko]AB[ln]AW[lo]AW[mo]AW[mp]AW[np]AW[nq]AB[qq]AB[pp]AB[qp]AB[po]AB[oo]AB[on]AB[om]AB[nm]AW[ml]AW[mm]AW[mn]AW[lm]AW[km]AW[mk]AW[nk]AW[ok]AW[lk]AW[kk]AW[kj]AW[jj]AW[ji]AW[li]AW[lj]AW[no]AW[oq]AW[op]AW[pq]C[White to find the winning point. ( Don't play any non-relevant sente moves. )]AW[hb]AW[ad]AW[hp]AW[nc]AP[goproblems]
+(;W[ef]C[If you want to see what happens when black doesn't defend, play O8.]
+(;B[nl]C[]
+(;W[gg]
+(;B[fg]
+(;W[gh]
+(;B[gi];W[fh]C[Black resigns.RIGHT])
+(;B[fh];W[gi]C[Black resigns.RIGHT]))
+(;W[gi];B[gh])
+(;W[fh];B[gh]))
+(;B[gh];W[fg];B[bi];W[fh];B[gi]C[RIGHT]))
+(;W[fg];B[gg]
+(;W[fh];B[gh])
+(;W[gh];B[fh])
+(;W[gi];B[fh]))
+(;W[gh];B[gg]
+(;W[gi];B[fh])
+(;W[fg];B[fh])))
+(;B[gg]C[White wins by 0.5 points.CHOICERIGHT]))
+(;W[gg];B[ef]C[Black wins by 0.5 points.])
+(;W[bi];B[bh]C[Black wins by 0.5 points.])
+(;W[ak];B[ef]C[Black wins by 0.5 points.])
+(;W[gh];B[ef]
+(;W[gg];B[gi]C[Black wins by 0.5 points.])
+(;W[gi];B[gg]C[Black wins by 0.5 points.])))

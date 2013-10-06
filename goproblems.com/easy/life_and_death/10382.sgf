@@ -1,0 +1,26 @@
+(;GE[life and death]DI[8k]DP[46]SO[koala]CO[8]AW[bd]AW[bc]AW[cc]AW[cb]AW[da]AW[eb]AW[fb]AW[gb]AB[be]AB[cd]AB[dd]AB[dc]AB[db]AB[ce]AB[hb]AB[hc]AB[gc]AB[fd]AB[ff]AB[bg]AW[ab]C[Black to kill]AP[goproblems]
+(;B[ad];W[ba]LB[bb:1]LB[aa:2])
+(;B[ga];W[ba]LB[bb:1]LB[aa:2])
+(;B[ea];W[ba]TR[eb]TR[fb]TR[gb]C[All black has is a ko for the 3 white stones]LB[bb:1]LB[aa:2])
+(;B[ca];W[ba]LB[bb:1]LB[aa:2])
+(;B[ba]
+(;W[ad]C[CHOICE]
+(;B[ca];W[ea]
+(;B[ga]C[Once white takes the 2 black stones, black will play C19 to make the eye false.RIGHT])
+(;B[bb];W[ga])
+(;B[ae];W[ga]))
+(;B[ea];W[ca])
+(;B[ga];W[ca])
+(;B[bb];W[ca]))
+(;W[ea]
+(;B[ca]LB[ad:A]LB[ga:B]C[If white A then black B (and vice versa).  Once white takes the 2 black stones, black will play C19 to make the eye false.RIGHT])
+(;B[ad]
+(;W[ga];B[ca]C[RIGHT])
+(;W[ca];B[ga]C[RIGHT])))
+(;W[ca]
+(;B[ad]LB[ea:a]LB[ga:b]C[RIGHT])
+(;B[ga];W[ad])
+(;B[ea];W[ad]))
+(;W[ga];B[ea]
+(;W[ca];B[ad]C[RIGHT])
+(;W[fa];B[ca]C[RIGHT]))))

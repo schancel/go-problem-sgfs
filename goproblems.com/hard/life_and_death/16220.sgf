@@ -1,0 +1,54 @@
+(;GE[life and death]DI[5d]DP[6]SO[eyp]CO[0]AB[pd]AW[dd]AB[qp]AW[dq]AB[nq]AW[qj]AB[co]AW[cj]AB[gq]AW[ep]AB[go]AW[en]AB[dm]AW[em]AB[dk]AW[dj]AB[ek]AW[ej]AB[fk]AW[bl]AB[gm]AW[dn]AB[cm]AW[cn]AB[bm]AW[bn]AB[ck]AW[bk]AB[an]AW[ao]AB[am]AW[bo]AB[df]AW[gi]AB[dh]AW[eg]AB[bi]AW[bj]AB[eh]AW[fg]AB[fj]AW[fi]AB[ei]AW[dg]AB[cg]AB[ci]AW[bg]AB[bh]AW[cf]AB[ch]AW[bf]AB[ai]AW[fh]AB[cl]AW[nc]AB[qf]AW[qm]AB[eb]AW[ec]AB[jc]AW[pb]AB[qc]AW[fb]AB[lc]AW[od]AB[gb]AW[fc]AB[pm]AW[lq]AB[jq]AW[jp]AB[iq]AW[oq]AB[or]AB[pq]AW[op]AB[mr]AB[ns]AW[np]AW[mq]AB[nr]AW[mn]AW[pe]AB[qe]AW[pc]AB[qd]AB[pk]AB[ml]AW[km]AW[qk]AB[ri]AW[qn]AB[pn]AW[qi]AB[rh]AW[oi]AB[ql]AW[rl]AB[pl]AB[po]AW[lk]AB[nf]AW[mk]AB[nj]AB[oj]AW[nk]AW[ni]AB[rj]AW[rk]AB[pg]AW[qh]AW[lb]AB[ph]AW[pi]AB[mi]AW[mh]AB[lh]AW[mg]AB[of]AW[lg]AB[nh]AW[ro]AB[rp]AB[kl]AW[ll]TR[nh]LB[mj:A]C[Please play at AFORCE]AP[goproblems];W[mj]C[FORCE];B[li]LB[kh:A]C[Please play at AFORCE];W[kh]C[FORCE];B[ki]C[Please play at AFORCE]LB[ji:A];W[ji];B[jh]C[White to kill black's cutting group and win the game...]
+(;W[kg];B[jj];W[ii];B[kj]
+(;W[il];B[jl]
+(;W[jk];B[kk]C[Nice. You read ahead the proper order of moves and played the K9 tesuji. Now finish black!];W[jm];B[ik];W[hk];B[hl];W[im];B[hj]
+(;W[ij];B[gk]C[];W[lj]C[Nicely done! In the game, black resigned at move 132.RIGHT]LB[ji:132])
+(;W[gk]C[NOTTHIS]
+(;B[gj];W[ij])
+(;B[ij];W[gj];B[hi];W[ih];B[hh];W[ig];B[hg];W[if];B[hf];W[he])))
+(;W[jm];B[ik]C[]
+(;W[jk];B[hk]C[oops...])
+(;W[hk];B[hl];W[im];B[hj]
+(;W[ij];B[jk]C[oops...])
+(;W[jk];B[ij]))
+(;W[ij];B[hk])
+(;W[kk];B[hk])
+(;W[hl];B[hk];W[gk];B[gl];W[gj];B[im];W[fl];B[aj]))
+(;W[ik];B[jm])
+(;W[im];B[jm];W[jn];B[kn]
+(;W[lm];B[ik]
+(;W[kk];B[jk];W[hk];B[in])
+(;W[hk];B[in])
+(;W[jk];B[kk];W[hk];B[in]))
+(;W[in];B[lm];W[mm];B[ko];W[kp];B[nl])))
+(;W[jl];B[ik])
+(;W[ij];B[jl])
+(;W[jk];B[ij]
+(;W[hk];B[hi];W[ih];B[hh];W[ig];B[ik]
+(;W[il];B[gj])
+(;W[hj];B[hl])
+(;W[gj];B[il];W[hl];B[im];W[hm];B[in]))
+(;W[hj];B[ik]))
+(;W[ik];B[jl];W[im]))
+(;W[kj];B[kg];W[lj];B[kh]C[];W[kf];B[jf]
+(;W[ke];B[je])
+(;W[je];B[lf];W[ke];B[mf])
+(;W[ih];B[jg]
+(;W[je];B[lf];W[ke];B[mf])
+(;W[ke];B[je])
+(;W[le];B[je])
+(;W[lf];B[je]))
+(;W[lf];B[je])
+(;W[le];B[je]))
+(;W[jj];B[kg])
+(;W[jg];B[kg];W[kf];B[kh]
+(;W[ih];B[jf]
+(;W[ig];B[lf];W[ke];B[mf])
+(;W[lf];B[ig]))
+(;W[jf];B[jj];W[ii];B[kj]C[this reverts back to something similar to the solution, but with the difference of an extra liberty at J12, thus sadly white will fail...]TR[ih])
+(;W[lf];B[ig])
+(;W[jj];B[jf]
+(;W[ih];B[lf])
+(;W[lf];B[ig])
+(;W[ke];B[ig]))
+(;W[kj];B[jf])))

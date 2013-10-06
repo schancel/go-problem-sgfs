@@ -1,0 +1,49 @@
+(;GE[endgame]DI[5k]DP[35]SO[smeghead]CO[0]AB[rn]AB[rm]AB[qm]AB[ql]AB[rk]AB[rj]AW[rl]AW[qk]AW[pk]AW[pl]AW[pm]AW[qn]AW[ro]AW[po]AB[or]AB[nr]AB[mr]AB[lq]AB[kq]AW[lp]AW[mp]AW[mq]AW[nq]AW[oq]AW[pr]AW[kp]C[What is black's best endgame?]AB[qj]AB[kr]AW[pj]AW[jp]AW[ll]AB[jq]AB[qi]AW[pi]AP[goproblems]
+(;B[qp];W[qo]
+(;B[qr]
+(;W[ps]
+(;B[pq]C[Correct! Navigate solution to see what white's response should have been.RIGHT])
+(;B[qq];W[pq]))
+(;W[qq]C[Either of these variations is better for white.];B[ps];W[pq]
+(;B[rr]C[])
+(;B[rq];W[rr];B[rs]C[Ko.]))
+(;W[pq]C[Either of these variations is better for white.];B[ps];W[qq]))
+(;B[pq];W[qr])
+(;B[rp];W[sn];B[pq];W[qr]
+(;B[rr];W[qq];B[pp];W[rq])
+(;B[qq];W[rr])
+(;B[rq];W[rr])
+(;B[sq]C[Some interesting variations here, but they are all worse than the correct line for black.])))
+(;B[qr]
+(;W[ps]
+(;B[qp];W[qo])
+(;B[pq];W[qq]
+(;B[qp];W[pp])
+(;B[qs];W[pp])
+(;B[pp];W[qp]))
+(;B[qq];W[pq];B[qp];W[qo]))
+(;W[qq]C[Either of these variations is better for white.];B[ps];W[pq]
+(;B[rr])
+(;B[rq];W[rr];B[rs]C[Ko.]))
+(;W[pq]C[Either of these variations is better for white.];B[ps];W[qq]))
+(;B[qq];W[pq];B[qp];W[qo];B[qr];W[ps]
+(;B[sp];W[so]C[Black is dead.])
+(;B[rp];W[sn]C[Black is dead in gote.]))
+(;B[rp];W[sn]
+(;B[sl];W[pq];B[qp];W[qo]C[Black is dead.])
+(;B[qr];W[ps]
+(;B[qq];W[pq]C[Black is dead.])
+(;B[qp];W[pq];B[qo];W[sm])))
+(;B[pq];W[qr]
+(;B[rp];W[sn]
+(;B[sl];W[qp])
+(;B[qp];W[rq])
+(;B[qq];W[rr]C[White wins the semeai.]))
+(;B[qp];W[qo]
+(;B[rp];W[sn])
+(;B[rq];W[qq])))
+(;B[ps];W[qr]C[Black can do better.])
+(;B[so];W[sp]
+(;B[sn];W[sm]C[Oops!])
+(;B[rp];W[sn])
+(;B[sl];W[sn])))

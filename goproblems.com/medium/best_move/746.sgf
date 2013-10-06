@@ -1,0 +1,15 @@
+(;GE[best move]DI[1k]DP[18]SO[adum]CO[7]AW[cc]AW[dd]AW[df]AW[dk]AW[fp]AW[dq]AW[jq]AW[br]AW[cr]AB[db]AB[fc]AB[ic]AB[pd]AB[cm]AB[do]AB[cp]AB[pp]AB[cq]C[best point for white?FORCE]SZ[19]PL[2]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-27]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;W[bl]C[];B[bm]
+(;W[cl]C[pressure on this group helps white, and this helps protect the upper-leftRIGHT])
+(;W[bq];B[cl])
+(;W[bo];B[cl]))
+(;W[bk]C[good idea but slightly too slow])
+(;W[el];B[bk])
+(;W[bq];B[bk])
+(;W[nq];B[bk])
+(;W[qf];B[bk])
+(;W[fn];B[bk])
+(;W[jo];B[bk])
+(;W[gd];B[bk])
+(;W[nc];B[bk])
+(;W[qn];B[bk]))

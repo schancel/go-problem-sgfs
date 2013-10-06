@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[4k]DP[30]SO[song17]CO[0]AB[sp]AB[ps]AW[pq]AW[pr]AW[qr]AW[rq]AW[rp]AB[ro]AB[rn]AW[qo]AW[po]AB[qn]AB[pn]AB[on]AB[op]AB[oq]AB[or]AB[mr]C[Black to kill]AP[goproblems]
+(;B[rr]C[]
+(;W[rs]C[CHOICE]
+(;B[sr];W[sq];B[qp];W[ss];B[pp]C[RIGHT])
+(;B[qp];W[sr]))
+(;W[sr]C[CHOICE]
+(;B[rs];W[qs];B[pp];W[ss];B[qp]C[RIGHT])
+(;B[pp];W[rs])))
+(;B[pp];W[qp]
+(;B[rs];W[qs];B[rr];W[os];B[sq];W[sr]C[What a shame black didn't have a stone at p5...])
+(;B[sr];W[sq];B[rs];W[qs];B[oo];W[so])
+(;B[rr];W[rs];B[sr];W[sq])
+(;B[oo];W[qs]))
+(;B[qp];W[pp]
+(;B[rr];W[sr];B[rs];W[qs]C[If only Black had a stone at p5 this could've been possible...])
+(;B[sr];W[sq]
+(;B[rr];W[so];B[qs];W[rs]C[Sorry...])
+(;B[rs];W[qs]))
+(;B[rs];W[qs];B[sr];W[sq];B[oo];W[so]C[Nothing]))
+(;B[sq];W[sr];B[rs];W[qs])
+(;B[rs];W[qs];B[pp];W[qp];B[rr];W[os];B[sq];W[sr])
+(;B[sr];W[sq];B[qp];W[pp])
+(;B[oo];W[pp]))

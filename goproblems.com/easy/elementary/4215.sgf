@@ -1,0 +1,12 @@
+(;GE[elementary]DI[8k]DP[46]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[cn][cq][fq]AB[fn][eo][dp]C[Find the move which connects the 3 white stones.]PL[W]
+(;W[br]CR[br]
+;B[cp]CR[cp]C[Let's see if the stones are connected ..]
+;W[bp]CR[bp]
+;B[dq]CR[dq]
+;W[dr]CR[dr]C[RIGHT Yes, B2 is the solution.])
+(;W[dq]CR[dq]
+;B[cp]CR[cp])
+(;W[cp]CR[cp]
+;B[dq]CR[dq]))

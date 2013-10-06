@@ -1,0 +1,46 @@
+(;GE[best move]DI[1k]DP[18]SO[Cow]CO[10]C[White just made the hane into the corner at A3.What looks like a normal endgame move, proves to bereally wicked. :-)The situation is from a game between two amateur 4dans.]AB[bq]AB[cq]AB[dq]AB[ep]AB[fp]AB[gq]AB[fr]AB[go]AW[gr]AW[hr]AW[iq]AW[hp]AW[ho]AW[gn]AW[fo]AW[eo]AW[dp]AW[cp]AW[bp]AW[dn]AW[eq]AW[aq]AP[goproblems]
+(;B[dr];W[br];B[cs];W[cr];B[ar];W[as];B[ds];W[ar]
+(;B[fs];W[er]C[White kills black.CHOICE])
+(;B[er];W[fs]C[No way to live for black.CHOICE]))
+(;B[er];W[br]
+(;B[cr];W[cs]
+(;B[fq];W[ds]C[Dead. Black got max. one eye.CHOICE])
+(;B[dr];W[ar]
+(;B[ds];W[fs]C[Black cannot live.CHOICE])
+(;B[fs];W[ds];B[bs];W[as];B[es];W[ap];B[bs];W[cs]C[Black dies.CHOICE])))
+(;B[ds];W[cr];B[dr];W[fs]
+(;B[ar];W[as];B[cs];W[ar]C[Black is dead.CHOICE])
+(;B[cs];W[ar]C[One eye, black is dead.CHOICE]))
+(;B[cs];W[cr];B[dr];W[ar]
+(;B[fs];W[ds]C[White makes blacks second eye false and black dies.CHOICE])
+(;B[ds];W[fs]C[Only one eye.CHOICE])))
+(;B[ds];W[br]
+(;B[cr];W[er];B[ar];W[as];B[bs];W[cs]C[Ko. And F3 is still possible for white.CHOICE])
+(;B[er];W[cr];B[dr];W[fs]C[Black is dead.]))
+(;B[cr];W[er]C[];B[es];W[ar]
+(;B[br];W[bs];B[dr];W[cs]C[Black cannot make two eyes.CHOICE])
+(;B[bs];W[br];B[cs];W[dr]C[Because F3 is a cut, black dies.CHOICE])
+(;B[dr];W[cs];B[bs];W[br]C[Black is dead.CHOICE]))
+(;B[ar]C[Black played this move in the actual game, but he could have done better.];W[br];B[ap];W[er]
+(;B[es];W[ds]
+(;B[fs];W[cr]C[Like this, the whole black group dies.CHOICE])
+(;B[cs];W[fs];B[bs]C[Black has gote and small life. No good option.CHOICE]))
+(;B[bs];W[fs]C[Black gets small sente-life in the corner. He could have done better.CHOICE]))
+(;B[bs];W[br]
+(;B[cr];W[er]
+(;B[ar];W[fq]C[Black has small life. No good option.])
+(;B[es];W[ar]))
+(;B[ds];W[dr])
+(;B[er];W[dr];B[fq];W[cr])
+(;B[dr];W[cr]
+(;B[cs];W[ar];B[ds];W[fs])
+(;B[er];W[fs]))
+(;B[cs];W[er];B[es];W[dr];B[cr];W[ar]))
+(;B[br]
+(;W[er];B[es];W[dr]
+(;B[cr];W[ar];B[bs]C[White cannot kill black. D1 makes life-shape, so black lives.RIGHT])
+(;B[ds];W[ar];B[bs]C[Black is alive.RIGHT]))
+(;W[ar]
+(;B[er];W[bs];B[cs];W[ds];B[dr];W[cr];B[es]C[RIGHT])
+(;B[dr]C[RIGHT])
+(;B[cs]C[RIGHT]))))

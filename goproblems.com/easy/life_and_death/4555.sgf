@@ -1,0 +1,24 @@
+(;GE[life and death]DI[10k]DP[54]SO[assacra]CO[8]AB[bs]AB[br]AB[cr]AB[dr]AB[cq]AB[dq]AB[dp]AB[do]AB[co]AB[ep]AB[fq]AB[gq]AB[iq]AB[hq]AB[hp]AB[ip]AB[ir]AB[hs]AB[gs]AW[hr]AW[eq]AW[er]AW[am]AW[bm]AW[bo]AW[bp]AW[bq]AW[cn]AW[cp]AW[ar]AW[dn]AW[en]AW[eo]AW[fo]AW[fp]AW[gp]AW[dm]AW[gn]AW[hn]AW[ho]AW[io]AW[jp]AW[jq]AW[jr]AW[js]AW[is]AW[kq]AW[ko]C[after white e2 black has played d2: punish him]LB[er:1]LB[dr:2]AP[goproblems]
+(;W[fr];B[gr]
+(;W[fs];B[es])
+(;W[es];B[ds])
+(;W[ds];B[fs]))
+(;W[es];B[ds]
+(;W[fr];B[gr])
+(;W[gr];B[fr])
+(;W[fs];B[fr])
+(;W[as];B[aq])
+(;W[aq];B[fr]))
+(;W[fs];B[gr]
+(;W[fr];B[es])
+(;W[es];B[ds])
+(;W[ds]C[well done!RIGHT])
+(;W[aq];B[ds];W[as]C[seki])
+(;W[as];B[aq];W[ds];B[cs]
+(;W[ap];B[es]C[difficult ko])
+(;W[ar];B[es]C[ko])))
+(;W[ds];B[fs]
+(;W[fr];B[gr]
+(;W[es];B[cs])
+(;W[cs]))
+(;W[es];B[fr];W[gr]C[RIGHT])))

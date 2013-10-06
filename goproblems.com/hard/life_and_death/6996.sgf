@@ -1,0 +1,54 @@
+(;GE[life and death]DI[5d]DP[5]SO[MrMoto]CO[7]AB[ns]AB[sq]AB[rr]AB[rp]AB[qp]AB[pp]AB[oq]AB[nq]AB[nr]AW[ms]AW[mr]AW[mq]AW[mp]AW[np]AW[op]AW[oo]AW[po]AW[qo]AW[ro]AW[so]AW[sp]AW[qr]C[White to kill the corner(!)]AP[goproblems]
+(;W[pq];B[pr];W[qq];B[rq]C[It's not _that_ easy.])
+(;W[qq];B[rq]
+(;W[rs];B[pr])
+(;W[pq];B[pr]))
+(;W[rq];B[qq]
+(;W[pr];B[pq])
+(;W[rs];B[pr]))
+(;W[pr];B[pq];W[rs];B[sr]C[Black gets a seki this way.])
+(;W[ps];B[pr])
+(;W[qs];B[rs])
+(;W[rs]
+(;B[pr]C[oho!CHOICE]
+(;W[qq];B[rq]C[:(])
+(;W[ps];B[qq]
+(;W[qs];B[os])
+(;W[sr];B[qs]MA[qr]C[Black lives in double ko.]))
+(;W[qs];B[rq];W[pq];B[qq];W[sr];B[ss]MA[sr]C[White will need 3 ko threats to kill.])
+(;W[ss];B[qq])
+(;W[sr];B[ss]MA[sr]C[(play a ko threat at K)FORCE]LB[mm:K];W[mm];B[nm];W[sr];B[rq]
+(;W[qs];B[pq])
+(;W[ps];B[ss]MA[sr]C[Now White needs lots of ko threats to kill.])
+(;W[pq];B[ss]MA[sr]C[If White wins this ko fight, the corner is dead.  Good work! :)  Note that black can achieve a somewhat better result by playing Q3 rather than Q2.RIGHT]))
+(;W[rq];B[qq]))
+(;B[pq]C[aha!CHOICE]
+(;W[pr];B[sr]C[Black gets a seki this way.])
+(;W[ps];B[sr]C[Seki.])
+(;W[qs];B[pr]C[This gives white the chance to kill, but white needs 3 ko threats.  Black could also have played T2 (seki).])
+(;W[qq];B[rq]C[Seki.])
+(;W[rq];B[qq];W[sr];B[ss]MA[sr]LB[mm:K]C[(play a ko threat at K)FORCE];W[mm];B[nm];W[sr];B[rq]
+(;W[ss];B[qs])
+(;W[qs];B[pr]C[You'll need 2 more ko threats this way.])
+(;W[ps];B[pr]C[You'll need 2 more ko threats this way.])
+(;W[os]C[];B[ss]C[You'll need 3 more ko threats this way.]MA[sr])
+(;W[or];B[pr])
+(;W[pr];B[ss]MA[sr]C[Play ko threat (K)?]LB[pm:K]
+(;W[sr]C[NOTTHIS])
+(;W[pm];B[qm]C[FORCE];W[sr];B[os]C[Now you still need another ko threat.])
+(;W[ps];B[qs]MA[rs]C[You'll need 2 more ko threats this way.])
+(;W[os];B[qs])
+(;W[or];B[qs])
+(;W[qs];B[os];W[sr]C[Mannen-ko.  Black can play elsewhere, or continue the fight at T1 for seki.RIGHT])))
+(;W[ss];B[pr])
+(;W[sr];B[rq]
+(;W[ss];B[qs])
+(;W[qs];B[pr])
+(;W[ps];B[pr]C[You'll need 3 more ko threats this way.])
+(;W[pr];B[ss]MA[sr]LB[mm:K]C[Play ko threat (K)?]
+(;W[sr]C[NOTTHIS])
+(;W[mm];B[nm]C[FORCE];W[sr];B[qs];W[ps];B[ss]C[You'll need 2 more ko threats this way.])
+(;W[qs];B[or]C[Seki.])
+(;W[os];B[qs])
+(;W[or];B[qs])
+(;W[ps];B[qs]LB[mm:K]C[(Play a ko threat at K)FORCE];W[mm];B[nm];W[rs]MA[qs]C[This is a bad mannen-ko for white.  Black gets many free moves while white fills up the eyespace.]))))))

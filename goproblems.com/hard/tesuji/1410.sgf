@@ -1,0 +1,62 @@
+(
+;GE[tesuji]DI[4d]DP[8]SO[gecko]CO[4]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AB[dc][cd][ce][df][gf][ge][he][id][ic]
+AW[ie][if][hf][ec][ed][de][ef]
+GN[temp]
+C[warning: this is a nitpickers problem (Coolness: 1)]
+(
+;
+W[eh]
+C[]
+;
+B[gg]
+;
+W[dg]
+;
+B[cf]
+;
+W[cg]
+C[RIGHT by first jumping, white gets to close in blacks corner and protect his cut with an active hanging connection]
+)
+(
+;
+W[dg]
+;
+B[cf]
+(
+;
+W[eg]
+;
+B[gg]
+;
+W[cg]
+C[the strategic goal of closing in blacks corner has been reached, but white wishes he had the hanging connection at a  instead of b]
+LB[eh:a][eg:b]
+)
+(
+;
+W[fg]
+;
+B[gg]
+;
+W[cg]
+LB[eh:a][fg:b]
+C[it would be better to have the hanging connection at a]
+)
+(
+;
+W[eh]
+;
+B[fg]
+;
+W[eg]
+;
+B[ch]
+C[Black plays a bothersome peep in the center and switches to the side]
+)
+)
+)

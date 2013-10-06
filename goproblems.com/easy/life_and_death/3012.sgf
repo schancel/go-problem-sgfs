@@ -1,0 +1,27 @@
+(;GE[life and death]DI[5k]DP[32]SO[adum]CO[8]AB[gr]AB[gq]AB[gp]AB[go]AB[hq]AB[ir]AW[hr]AW[hs]AW[iq]AW[kr]AW[kq]AW[jq]AW[jr]AW[kp]AB[jp]AW[jo]AW[io]AB[hn]AB[in]AB[jn]AB[kn]AB[ln]AB[lo]AB[lp]AB[lq]AB[lr]AB[ls]AB[gn]
+(;B[ip];W[hp]
+(;B[ip];W[ho]
+(;B[ko];W[jp]
+(;B[js];W[is];B[ks]C[RIGHT])
+(;B[is];W[js])
+(;B[ks];W[js]))
+(;B[js];W[ks];B[ko];W[is])
+(;B[ks];W[js])
+(;B[is];W[js]))
+(;B[ko];W[ip])
+(;B[ho];W[ip])
+(;B[jp];W[ip])
+(;B[js];W[ks]
+(;B[ip];W[is])
+(;B[jp];W[is]))
+(;B[ks];W[js])
+(;B[is];W[js]))
+(;B[hp];W[ip])
+(;B[js];W[ks]
+(;B[ip];W[hp])
+(;B[ko];W[ip])
+(;B[hp];W[ip]))
+(;B[ks];W[js])
+(;B[ko];W[ip])
+(;B[is];W[js])
+(;B[ho];W[ip]))

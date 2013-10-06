@@ -1,0 +1,16 @@
+(;GE[endgame]DI[4k]DP[30]SO[Field Mouse]CO[9]AB[nc]AB[md]AB[ld]AB[kd]AB[le]AB[mb]AB[oc]AB[ob]AW[nd]AW[od]AW[pd]AW[pc]AW[pb]AW[pa]AW[oa]AW[lb]AW[me]AW[mf]AW[lf]AW[kf]AW[ke]AW[jd]AB[jc]AB[ic]AB[hc]AW[id]AW[je]AW[hd]C[Black to play the best endgame.]AP[goproblems]
+(;B[ma];W[lc]
+(;B[mc]C[Good work!RIGHT])
+(;B[kc];W[mc])
+(;B[na];W[kc]))
+(;B[na];W[la]
+(;B[kc];W[ma])
+(;B[mc];W[ma];B[nb];W[kc]))
+(;B[kc];W[ma]C[You can do better.])
+(;B[mc];W[ma]C[You can do better.])
+(;B[kb];W[ma]C[You can do better.])
+(;B[lc];W[kb];B[kc];W[ma]C[You can do better.])
+(;B[la];W[ka]
+(;B[na];W[kc];B[mc];W[ma])
+(;B[ma];W[kc];B[mc];W[na];B[ja];W[jb]C[Ko]))
+(;B[ka];W[ma];B[la];W[na]C[Interesting idea, but the solution is a bit better.]))

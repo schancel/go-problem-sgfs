@@ -1,0 +1,22 @@
+(;GE[life and death]DI[15k]DP[64]SO[morten]CO[8]AB[cc]AB[bd]AB[db]AB[bb]AB[ad]AB[da]AW[dc]AW[ec]AW[eb]AW[cd]AW[ce]AW[be]AW[ea]AW[ae]C[White to kill.]
+(;W[ab];B[bc]
+(;W[ba];B[cb]C[Indeed - this black shape is dead. If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT])
+(;W[ca];B[cb];W[ba];B[aa];W[ba]C[Indeed - this black shape is dead.If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT]))
+(;W[aa];B[ba]
+(;W[ac];B[bc])
+(;W[ab];B[ac]))
+(;W[ca];B[cb]
+(;W[ac];B[bc]
+(;W[ab];B[aa])
+(;W[aa];B[ba])
+(;W[ba];B[aa]))
+(;W[ab];B[bc];W[ba];B[aa];W[ba]C[Indeed - this black shape is dead.If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT]))
+(;W[ba];B[cb]
+(;W[ab];B[bc]C[Indeed - this black shape is dead.If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT])
+(;W[ac];B[bc];W[ab];B[aa];W[ab]C[Indeed - this black shape is dead.If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT]))
+(;W[ac];B[bc]
+(;W[ba];B[cb];W[ab];B[aa];W[ab]C[Indeed - this black shape is dead.If there are big kos on the board, black can use the approach moves (A17/C19) as ko threats.RIGHT])
+(;W[ca];B[cb]
+(;W[ba];B[aa])
+(;W[ab];B[aa])
+(;W[aa];B[ba]))))

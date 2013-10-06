@@ -1,0 +1,25 @@
+(;GE[life and death]DI[3k]DP[27]SO[Russia]CO[0]AW[la]AW[lb]AW[kc]AW[jc]AW[hc]AW[gc]AW[gb]AW[fb]AW[gd]AB[kd]AB[ld]AB[lc]AB[mb]AB[jd]AB[id]AB[hd]AB[ge]AB[fd]AB[fc]AB[ff]AB[eb]AB[dc]AB[cb]AP[goproblems]
+(;B[jb]
+(;W[ic];B[kb];W[ib];B[ma];W[ha];B[fa]C[RIGHT])
+(;W[kb]C[CHOICE]
+(;B[ic];W[ib];B[ja];W[ia];B[fa]C[RIGHT])
+(;B[ib];W[ic]
+(;B[fa];W[ja])
+(;B[ja];W[ha];B[fa];W[ia])))
+(;W[ib];B[ic]))
+(;B[ib];W[ic]
+(;B[kb];W[jb])
+(;B[jb];W[kb]))
+(;B[ic];W[ib]
+(;B[kb];W[jb])
+(;B[jb];W[kb];B[ja];W[ia];B[fa]
+(;W[ha];B[ea];W[ka];B[ga]C[RIGHT])
+(;W[ga];B[hb]C[RIGHT]))
+(;B[fa];W[ha];B[ea];W[ga];B[jb];W[kb];B[ja]C[RIGHT])
+(;B[ha];W[jb];B[fa];W[ia]
+(;B[ga];W[ka])
+(;B[ka];W[hb])))
+(;B[fa]
+(;W[ic]C[CHOICE]
+(;B[jb];W[ib])
+(;B[ha];W[ga]))))

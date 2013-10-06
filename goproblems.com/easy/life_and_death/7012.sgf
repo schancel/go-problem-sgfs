@@ -1,0 +1,63 @@
+(;GE[life and death]DI[18k]DP[66]SO[delapra]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+AW[ba][bb][db][eb][fb][gb][ac][bc][ec][gc]
+
+[bd][cd][gd][ce][ge][cf][df][ef][ff]AB[da][ha][cb][hb][cc][dc][fc][hc][dd][ed][fd][hd][fe][he][gf][hf]LB
+
+[jb:T]TR[eb]C[White just played the triangle stone, hoping to save his stones.  What's the best black can do?  
+
+Play 'T' if you want to tenuki.]
+(;B[ea]CR[ea]
+;W[ca]CR[ca]
+(;B[fa]CR[fa]
+;W[ga]CR[ga]C[White lives =(])
+(;B[ga]CR
+
+[ga]
+;W[fa]CR[fa]
+;B[da]CR[da]
+;W[ea]CR[ea]
+;B[da]CR[da]C[RIGHT Nice!  =)]))
+(;B[ca]CR[ca]
+;W[ee]CR[ee]
+(;B[ea]CR[ea]
+;W[de]CR[de]
+;B[fa]CR[fa]
+;W[ga]CR[ga]C[=(])
+(;B[ga]CR[ga]
+;W[de]CR[de]
+(;B[fa]CR[fa]
+;W[ea]CR[ea]C[=(])
+(;B[ea]CR
+
+[ea]
+;W[fa]CR[fa]C[=(]))
+(;B[fa]CR[fa]
+;W[de]CR[de]
+;B[ea]CR[ea]
+;W[ga]CR[ga]C[=(]))
+(;B[ga]CR[ga]
+;W[ca]CR[ca]
+(;B
+
+[ea]CR[ea]
+;W[fa]CR[fa]
+;B[da]CR[da]
+;W[ea]CR[ea]
+;B[da]CR[da]C[RIGHT Nice job!  =)])
+(;B[fa]CR[fa]
+;W[ea]CR[ea]
+;B
+
+[da]CR[da]C[RIGHT Snapback!  =)]))
+(;B[fa]CR[fa]
+;W[ca]CR[ca]
+;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[da]CR[da]C[RIGHT 
+
+Snapback!  =)])
+(;B[jb]CR[jb]
+;W[ea]CR[ea]
+;B[ga]CR[ga]
+;W[ca]CR[ca]C[White lives  =(]))

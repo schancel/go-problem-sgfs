@@ -1,0 +1,145 @@
+(;GE[best move]DI[5d]DP[5]SO[marwin]CO[8]AB[dq]AB[eq]AB[do]AB[eo]AB[en]AB[em]AB[fm]AB[el]AB[gl]AB[hl]AB[il]AB[hk]AB[jm]AB[jn]AB[jo]AB[ip]AB[hp]AB[hn]AW[gm]AW[cq]AW[cp]AW[co]AW[dn]AW[dm]AW[dl]AW[cm]AW[bm]AB[bl]AB[cl]AB[dk]AB[dj]AW[ek]AW[fk]AW[fl]AW[gk]AW[hj]AW[gi]AB[fi]AB[gh]AW[ik]AW[jk]AW[jl]AW[jj]AB[kl]AB[ll]AW[km]AW[kn]AW[ko]AW[jp]AW[jq]AW[iq]AW[hq]AB[kp]AW[lp]AW[fp]AW[fq]AW[po]AB[pd]AB[ce]AB[lj]C[Black just played A, what do you think is the best answer ?]LB[lj:A]AB[dh]AP[goproblems]
+(;W[io]
+(;B[hm]C[]
+(;W[gn]C[]
+(;B[go];W[in]C[You connected in sente (white has to make live with triangle.This is best for both !!RIGHT]TR[cr])
+(;B[in]))
+(;W[ho];B[in];W[go];B[gn]C[Not good enough.]))
+(;B[in]C[This move makes it even worse for black, he lost everything now.]
+(;W[hm]
+(;B[im];W[gn]C[Didn't use the black's second mistake properly.])
+(;B[gn];W[im];B[cr]C[];W[br];B[ds]C[Didn't use the black's second mistake properly.]))
+(;W[gn]
+(;B[hm];W[go];B[ho]TR[eq]TR[dq]TR[do]TR[eo]TR[en]TR[em]TR[fm]TR[el]C[Marked black group is dead and white has sente.RIGHT])
+(;B[go]C[Third mistake of black in a row, he will loose everyithing now.];W[hm]C[All black stones are dead now.RIGHT]TR[dq]TR[eq]TR[do]TR[eo]TR[en]TR[em]TR[fm]TR[el]TR[go]TR[hp]TR[ip]TR[jo]TR[jn]TR[jm]TR[in]TR[hn]TR[il]TR[hl]TR[hk]TR[gl])))
+(;B[ho];W[im]C[RIGHT])
+(;B[im]C[CHOICE]
+(;W[ho]C[]
+(;B[gn]C[Black resists here (note, that black doesn't have to risk his whole group like this.CHOICE]
+(;W[fo]
+(;B[fn]C[];W[cr]C[RIGHT])
+(;B[hi]C[CHOICE];W[gj];B[ii];W[ij]
+(;B[ji]C[];W[fn]C[W+2 LibertiesRIGHT])
+(;B[cr]C[CHOICE]
+(;W[br]
+(;B[fn];W[dr];B[er];W[cs];B[ji];W[go];B[kj];W[in];B[hm];W[ep];B[dp];W[fr]C[RIGHT])
+(;B[bs]C[CHOICE]
+(;W[fn]
+(;B[bq]
+(;W[go];B[hm];W[in];B[gm];W[ep];B[dp];W[dr];B[er];W[cs]C[RIGHT])
+(;W[ep];B[dp];W[go];B[hm];W[in];B[gm];W[dr])
+(;W[dp];B[ep]
+(;W[go];B[hm];W[in];B[gm];W[dr]C[RIGHT])
+(;W[dr];B[er];W[cs]C[RIGHT])))
+(;B[dr]C[CHOICE]
+(;W[go];B[hm]
+(;W[in];B[gm];W[ep];B[dp];W[bq]
+(;B[ji];W[fr]C[RIGHT])
+(;B[fr];W[gr]))
+(;W[bq];B[fr])
+(;W[ep];B[dp];W[in];B[gm])
+(;W[dp];B[ep];W[in];B[gm];W[bq];B[fr];W[gr];B[es]
+(;W[gs];B[ji])
+(;W[cs]
+(;B[ds]C[CHOICE];W[ji]C[RIGHT])
+(;B[ji]C[CHOICE];W[as]C[RIGHT]))))
+(;W[bq];B[fr]
+(;W[gr];B[es]
+(;W[go];B[hm];W[in];B[gm]
+(;W[ep];B[dp];W[cs]
+(;B[ds];W[ji]C[RIGHT])
+(;B[ji];W[as];B[kj];W[bs]C[RIGHT]))
+(;W[dp];B[ep]))
+(;W[cs];B[ds];W[go];B[hm]
+(;W[in];B[gm];W[ep];B[dp])
+(;W[ep];B[dp];W[in];B[gm])
+(;W[dp];B[ep]
+(;W[in];B[gm])
+(;W[ji]C[RIGHT])))
+(;W[ep];B[dp];W[go];B[hm])
+(;W[dp];B[ep];W[go];B[hm]
+(;W[in];B[gm])
+(;W[cs];B[ds])))
+(;W[go];B[hm];W[in];B[gm];W[ep];B[dp])
+(;W[ep];B[dp];W[go];B[hm]
+(;W[in];B[gm])
+(;W[gr];B[es];W[cs];B[ji];W[as]C[RIGHT]))
+(;W[dp];B[ep];W[go];B[hm];W[in];B[gm]))
+(;W[fr];B[bq]
+(;W[ar];B[aq]
+(;W[ds]C[RIGHT])
+(;W[ep];B[dp])
+(;W[dp];B[ep];W[go];B[hm];W[in];B[gm]))
+(;W[bp];B[ar])
+(;W[ep];B[dp];W[ar];B[aq];W[go];B[hm];W[in];B[gm];W[bp];B[as];W[ds]C[RIGHT])
+(;W[dp];B[ep];W[go];B[hm];W[in];B[gm];W[ar];B[aq];W[bp];B[as];W[ds]C[RIGHT]))
+(;W[es];B[bq];W[ar];B[aq];W[ds];B[fr];W[gr];B[fs];W[go];B[hm];W[in];B[gm];W[ep];B[dp];W[gs];B[cs];W[er];B[as]C[RIGHT])
+(;W[ar];B[fr]
+(;W[gr];B[es];W[cs];B[bq];W[bp];B[ji];W[aq];B[kj];W[as];B[kk];W[ep];B[dp];W[go];B[ej])
+(;W[go];B[hm];W[in];B[gm];W[gr];B[es];W[cs];B[bq]))
+(;W[ep];B[dp];W[go];B[hm])
+(;W[dp];B[ep];W[go];B[hm]))
+(;B[fr];W[gr];B[dr];W[go];B[hm];W[in];B[gm];W[ep];B[dp];W[bq]
+(;B[ji];W[es]C[RIGHT])
+(;B[es])))
+(;W[bq];B[fn];W[ji];B[ds]C[You didn't accomplish something special, you still have to run with your group to the center.])
+(;W[dr];B[ds];W[fn];B[er];W[bq];B[ji];W[go];B[hm];W[in];B[gm];W[ep];B[dp];W[fr];B[es];W[fs];B[kj];W[ar];B[kk];W[as];B[ej])
+(;W[er];B[dr];W[fr];B[fn];W[bq];B[ji];W[ep];B[dp];W[go];B[kj];W[in];B[hm];W[ds];B[kk];W[es];B[ej])
+(;W[ep]C[NOTTHIS])
+(;W[dp]C[NOTTHIS]))
+(;B[fr];W[gr]
+(;B[fn];W[dr];B[er];W[cs];B[ji];W[go];B[kj];W[in];B[hm];W[ep];B[dp];W[fs]C[RIGHT])
+(;B[bs]
+(;W[fn])
+(;W[bq];B[fn]C[White made mistake here]
+(;W[er];B[dr];W[fs];B[ji];W[go];B[kj];W[in];B[hm];W[ep];B[dp];W[ds];B[kk])
+(;W[dr];B[ds]))
+(;W[ar]C[];B[fn]
+(;W[dr];B[ds]C[You dont need to play ko.]))
+(;W[ep]C[NOTTHIS])
+(;W[dp]C[NOTTHIS]))))
+(;W[ji];B[bq]
+(;W[fn];B[bp];W[bo];B[fr];W[gr];B[er])
+(;W[bp];B[br];W[fn];B[fr];W[gr];B[bn];W[an];B[ao];W[am];B[ap]))
+(;W[ep]C[NOTTHIS])
+(;W[dp]C[NOTTHIS])))
+(;B[gj];W[fj];B[ej];W[gj];B[hi];W[ij];B[ii];W[ji];B[jh];W[kh];B[jg];W[ki]
+(;B[cr];W[br];B[fr];W[gr];B[bs];W[bq];B[fn];W[er]C[RIGHT])
+(;B[lg];W[mi]TR[dq]TR[eq]TR[do]TR[eo]TR[en]TR[em]TR[el]TR[fm]TR[gn]TR[hn]TR[hp]TR[ip]TR[jo]TR[jn]TR[jm]TR[im]TR[il]TR[hl]TR[hk]TR[gl]C[White is out and black is dead.RIGHT])))
+(;W[go];B[fo])
+(;W[gp];B[fo])
+(;W[ep]C[NOTTHIS])
+(;W[dp]C[NOTTHIS]))
+(;B[cr];W[gn];B[go];W[gp];B[fo];W[in]C[RIGHT]))
+(;W[gn];B[go])
+(;W[fo]
+(;B[gn];W[ho])
+(;B[go]
+(;W[fn]C[RIGHT])
+(;W[gp];B[ho];W[fn]C[RIGHT])
+(;W[gn])))
+(;W[go];B[gn]
+(;W[ho])
+(;W[fo];B[ho];W[fn];B[cr];W[br];B[ds])))
+(;B[gn];W[im]C[RIGHT]))
+(;W[im];B[hm];W[io];B[in];W[go];B[gn];W[ho])
+(;W[hm];B[im];W[io];B[gn];W[ho])
+(;W[in];B[io];W[gn];B[go])
+(;W[ho];B[io]
+(;W[gn];B[go])
+(;W[go];B[gn])
+(;W[im];B[hm];W[gn];B[go]))
+(;W[hh];B[gg];W[hg];B[hf]C[You are giving too much to black.])
+(;W[jh]C[Not good enough.])
+(;W[go];B[gn];W[ho];B[io];W[im];B[hm])
+(;W[gn];B[go]
+(;W[io]
+(;B[im];W[fo];B[fn]))
+(;W[fo];B[fn]
+(;W[im];B[hm])
+(;W[io];B[in]))
+(;W[im];B[hm];W[io];B[in]))
+(;W[pq]C[You should really study the meaning of urgent vs big move :)])
+(;W[oq]C[You should really study the meaning of urgent vs big move :)])
+(;W[ih]C[Not good enough.])
+(;W[ii]C[Not good enough.]))

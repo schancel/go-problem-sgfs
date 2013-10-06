@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[8k]DP[49]SO[sabetts]CO[0]SZ[19]AW[pn]AW[qo]AW[ro]AW[pp]AW[rp]AW[pq]AW[or]AW[rs]AB[qp]AB[sp]AB[kq]AB[qq]AB[rq]AB[pr]AB[qr]AB[sr]C[Black cannot make 2 eyes so he must connect...]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[nr]
+(;W[os];B[oq];W[nq];B[op];W[po]
+(;B[ps]C[RIGHT])
+(;B[ns]C[RIGHT])
+(;B[mr]C[This depends on a ladder. There is a better way])
+(;B[np];W[mq]
+(;B[mr]C[RIGHT])
+(;B[ps];W[mr];B[ns];W[or];B[mp];W[ms];B[os]TR[ms]TR[mr]TR[mq]TR[nq]C[RIGHT]))))
+(;B[oq];W[nr]
+(;B[op];W[po];B[mq];W[nq];B[np];W[mp];B[mr];W[no];B[ns];W[oo];B[os]C[RIGHT])
+(;B[nq];W[mq]
+(;B[mp];W[np])
+(;B[mr];W[np])
+(;B[np];W[mp]))
+(;B[mq];W[nq];B[op];W[po];B[np];W[mp];B[mr];W[no]
+(;B[ns];W[oo];B[os]C[RIGHT])
+(;B[os];W[oo];B[ns]C[RIGHT])))
+(;B[os];W[nr];B[ns];W[ms]
+(;B[ps];W[mr])
+(;B[mr];W[ps]))
+(;B[nq];W[oq]))

@@ -1,0 +1,7 @@
+(;GE[best move]DI[4k]DP[29]SO[Shkola]CO[8]AB[gk]AB[hl]AB[il]AB[ik]AB[ij]AB[ji]AB[kh]AB[jm]AW[hj]AW[ih]AW[ii]AB[jh]AW[el]AW[fl]AW[gm]AW[hm]AW[im]AB[km]AB[kl]AB[ll]AB[mk]AB[nj]AB[oj]AB[oi]AB[pi]AB[qi]AB[qj]AW[lk]AW[mj]AW[ni]AW[jn]AW[kn]AW[ln]AW[lm]AW[nk]AW[ok]AW[pk]AW[pj]AW[qk]AW[mm]AW[nl]AB[ng]AB[oh]AB[lg]LB[lk:A]C[white played A, what's the best move for black?]AW[gj]AB[hk]AW[fk]AW[fi]AW[hi]AB[mg]AP[goproblems]
+(;B[ml];W[kk];B[jl];W[jj]
+(;B[jk];W[gl])
+(;B[kj];W[gl];B[jk];W[jj])
+(;B[lj]C[correct, white can't kill :)RIGHT]))
+(;B[kk];W[ml]C[black can do better!])
+(;B[lj];W[ml]C[black can do better!]))

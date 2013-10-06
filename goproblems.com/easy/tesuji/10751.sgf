@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[5k]DP[32]SO[tom111]CO[7]AW[rb]AW[qb]AW[qc]AB[qd]AB[rd]AB[rc]AB[qf]AW[pd]AW[od]AW[nd]AW[nc]AB[nb]AB[oc]AB[pc]AB[pb]AW[mb]AW[lc]AP[goproblems]
+(;B[pa]
+(;W[na]
+(;B[sb];W[ob]
+(;B[ra]C[RIGHT])
+(;B[qa]C[RIGHT]))
+(;B[ra];W[ob]
+(;B[sb]C[RIGHT])
+(;B[qa]C[RIGHT]))
+(;B[ob];W[qa])
+(;B[oa];W[ob])
+(;B[qa];W[ob]
+(;B[sb]C[RIGHT])
+(;B[ra]C[RIGHT])))
+(;W[oa]C[CHOICE]
+(;B[ra]C[RIGHT])
+(;B[qa];W[ra])
+(;B[sb]C[RIGHT])))
+(;B[oa];W[ra];B[sb];W[ma]C[:( White will start a ko next.])
+(;B[sb];W[pa])
+(;B[ra];W[pa])
+(;B[qa];W[ra]
+(;B[sb];W[pa])
+(;B[pa];W[oa]))
+(;B[na];W[pa]))

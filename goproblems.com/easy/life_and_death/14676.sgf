@@ -1,0 +1,13 @@
+(;GE[life and death]DI[8k]DP[45]SO[ctchan]CO[0]AB[qq]AW[pp]AW[qo]AB[rp]AB[pq]AW[oq]AW[or]AW[ro]AW[so]AB[sp]AB[rr]AW[pr]AW[qs]AW[sr]AB[rs]C[Can black live? Hit 'N' if not.]LB[nn:N]AP[goproblems]
+(;B[qp]
+(;W[sq]C[Black is dead.])
+(;W[qr]))
+(;B[rq]C[Black is dead.])
+(;B[qr]
+(;W[qp]C[Black is dead.CHOICE])
+(;W[sq]C[Black is dead.CHOICE]))
+(;B[ss]
+(;W[qr]C[CHOICE];B[sq];W[qp]C[Black is dead.])
+(;W[sq]C[Black is dead.CHOICE]))
+(;B[sq];W[qp];B[ss];W[qr]C[Black is dead.])
+(;B[nn]C[RIGHT]))

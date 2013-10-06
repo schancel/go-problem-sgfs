@@ -1,0 +1,40 @@
+(;GE[life and death]DI[5k]DP[32]SO[mrmoto]CO[7]AB[pa]AB[pc]AB[pb]AB[pd]AB[qd]AB[rd]AB[sc]AW[rc]AW[qc]AW[qb]AW[rb]AW[ra]AW[qa]AW[oa]AW[ob]AW[od]AW[oc]AW[oe]AW[se]AW[pf]AW[of]AW[qf]AW[sf]AW[rf]AW[sd]AW[re]C[It's black's turn.  Can he live in the corner?FORCE]LB[mc:Yes]LB[me:No]LB[mg:Ko]AP[goproblems]
+(;B[mc];W[md]C[Please show how black can live.FORCE]
+(;B[sa];W[sb])
+(;B[qe];W[pe])
+(;B[pe];W[qe])
+(;B[sb]
+(;W[qe]C[Do you still think black will live?CHOICEFORCE]LB[nc:Yes]LB[nd:No]
+(;B[nd]C[It's true. :|])
+(;B[nc];W[nd]C[Ok, please continue.FORCE];B[sa];W[rb]C[FORCE]
+(;B[rc];W[qb]C[:(])
+(;B[ra];W[qb]C[:(])
+(;B[qb];W[rc]C[:(])
+(;B[pe];W[rc])
+(;B[qc];W[rc])
+(;B[qa];W[rc])))
+(;W[sa]C[CHOICE];B[sc];W[sb]C[Do you still think black will live?FORCE]LB[nc:Yes]LB[nd:No]
+(;B[nc];W[nd]C[Ok, please continue.FORCE]
+(;B[sc];W[rc]C[Oh no! :(])
+(;B[pe];W[qe])
+(;B[qe];W[pe]))
+(;B[nd]C[It's true. :|]))))
+(;B[me]C[];W[mf]C[Correct.  Now, what if black is allowed to place two stones this turn?  Can black live?FORCE]LB[mb:Yes]LB[mc:No]LB[md:Ko]
+(;B[mc]C[Right! :)RIGHT])
+(;B[mb];W[mc]C[Ok, place your first stone.FORCE]
+(;B[pe]C[That won't help.])
+(;B[qe]C[That won't help.])
+(;B[sb];W[sg]C[... and your second stone?FORCE]
+(;B[pe];W[qe])
+(;B[qe];W[pe])
+(;B[sa];W[rb]C[Crunch.]))
+(;B[sa];W[sg]C[... and your second stone?FORCE]
+(;B[pe];W[qe])
+(;B[qe];W[pe])
+(;B[sb];W[rb]C[Squish.])))
+(;B[md]C[Nope. :(]))
+(;B[mg];W[ng]C[How many ko threats does black need?]LB[mb:2]LB[me:1/x]LB[md:-4]LB[mc:180]
+(;B[me]C[What?!])
+(;B[md]C[What?!])
+(;B[mc]C[That's about half of the go board.  But even that many ko threats won't save black.])
+(;B[mb]C[Reasonable guess.  But it's not a ko. :(])))

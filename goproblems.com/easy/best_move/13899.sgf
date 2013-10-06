@@ -1,0 +1,41 @@
+(;GE[best move]DI[10k]DP[53]SO[ytqb]CO[0]AB[gc]AB[ge]AB[cd]AB[ce]AB[df]AB[ef]AB[ff]AB[eg]AB[eh]AW[de]AW[ee]AW[fe]AW[gf]AW[gg]AW[fg]AW[dg]AW[cg]AW[cf]C[Black and White each have 3 liberties.  Black can save 5 stones by capturing 3 White stones.]SZ[9]AP[goproblems]
+(;B[fd]
+(;W[ei]C[Fokatukc's nose tesuji to connect the 2 White groups.]
+(;B[ed];W[fh]
+(;B[dd];W[dh]C[RIGHT])
+(;B[dh];W[ch];B[dd];W[di]C[RIGHT]))
+(;B[dd];W[fh]
+(;B[ed];W[dh]C[RIGHT])
+(;B[dh];W[ch];B[ed];W[di]C[RIGHT]))
+(;B[dh];W[ch]
+(;B[fh];W[gh]
+(;B[ed];W[fi];B[dd];W[di]C[RIGHT])
+(;B[dd];W[fi];B[ed];W[di]C[RIGHT]))
+(;B[di];W[fh];B[fi];W[ci];B[ei];W[gi])
+(;B[ed];W[fh];B[dd];W[di]C[RIGHT]))
+(;B[fh];W[gh];B[dh];W[ch]
+(;B[ed];W[fi];B[dd];W[di]C[RIGHT])
+(;B[dd];W[fi];B[ed];W[di]C[RIGHT])))
+(;W[fh]
+(;B[ei])
+(;B[ed]
+(;W[ei];B[dh];W[ch];B[dd];W[di]C[RIGHT])
+(;W[dh]
+(;B[ei];W[di];B[dd]C[Whites 2 groups are divided.])
+(;B[dd];W[ei]C[Black should have descended to the first line.])))
+(;B[dd];W[dh]
+(;B[ei];W[fi];B[ed]C[Black's 2 groups are divided.])
+(;B[ed];W[ei]C[Black should have descended to the first line.]))))
+(;B[gd]C[White has 3 liberties and Black has 3.  But when White moves to capture Black, Black will lose the capture race.]
+(;W[fh]C[Black has fewer liberties than the 3 White stones.]
+(;B[dh])
+(;B[ei]))
+(;W[ec]C[The Crane's Nest tesuji is the wrong move for White.];B[ed];W[fd];B[fc];W[dd];B[dc];W[ed];B[eb]C[The Crane's Nest tesuji works for Black, but it was the wrong move for White.]))
+(;B[dd];W[gd];B[he];W[fd];B[fc];W[hd];B[hf];W[hg];B[hc];W[ie];B[ed];W[if])
+(;B[ed];W[gd]
+(;B[he];W[fd];B[fc];W[hd];B[hf];W[hg];B[hc];W[ie];B[dd];W[if])
+(;B[fd];W[he];B[dd];W[ge]C[Black's 5 stones can't survive.]TR[df]TR[ef]TR[ff]TR[eg]TR[eh]))
+(;B[ei];W[gd];B[fd])
+(;B[dh])
+(;B[fh])
+(;B[gh]))

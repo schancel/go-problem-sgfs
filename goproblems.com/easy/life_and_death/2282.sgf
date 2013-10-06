@@ -1,0 +1,32 @@
+(;GE[life and death]DI[6k]DP[36]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd23]
+
+AB[gr][hr][hs][fq][ms][mr][mq][nq][oq][pq][pr][gp][hp][ip][jp]
+[kp][lp][fp][os][ls]AW[gq][hq][iq][ir][js][jq][kq][lq][lr][mp]
+[np][op][qp][qq][qr][qs][po][ps][ks]C[White to kill the P3 group]
+
+(;W[nr];B[jr]
+(;W[fr];B[er]
+(;W[pp]C[Black needs an extra approach move after white F2. RIGHT]
+)
+(;W[or];B[fs]
+(;W[pp]C[Black needs an extra approach move after white F2. RIGHT]
+)
+(;W[ns];B[os]))
+(;W[ns];B[fs]
+(;W[pp]C[Black needs an extra approach move after white F2. RIGHT]
+)
+(;W[or];B[os]))
+(;W[fs];B[es]
+(;W[pp]C[Black needs an extra approach move after white F2. RIGHT]
+)
+(;W[or]C[Black needs an extra approach move after white F2. RIGHT]
+)
+(;W[ns]C[Black needs an extra approach move after white F2. RIGHT]
+)))
+(;W[kr];B[is])
+(;W[pp];B[is])
+(;W[or];B[is])
+(;W[ns];B[is]))
+(;W[fr];B[nr]))

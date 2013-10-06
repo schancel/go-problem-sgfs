@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1k]DP[19]SO[MeleeNewb]CO[0]AW[be]AW[ad]AW[cd]AW[cc]AW[cb]AB[da]AB[db]AB[dc]AB[dd]AB[ce]AB[bf]AB[af]AB[cf]AW[ab]AP[goproblems]
+(;B[ba];W[ca]
+(;B[ae]
+(;W[bc]
+(;B[bd];W[fa]C[White plays a ko threat, please respond at KFORCE]LB[ga:K];B[ga];W[be]LB[gb:K]C['K' if you want to play a non-local ko threat.FORCE]
+(;B[bb];W[aa];B[bd]C[Very nice.CHOICERIGHT])
+(;B[gb];W[bd]C[No need to play a non-local threat yet.])
+(;B[aa];W[bd]))
+(;B[bb];W[aa]C[Wasted a threat]))
+(;W[bd];B[bb];W[bc];B[ac]C[RIGHT]))
+(;B[bb];W[bc];B[ae])
+(;B[bc];W[bb])
+(;B[bd];W[bc];B[ae];W[bd])
+(;B[ac];W[bc])
+(;B[aa]C[Congratulations, you saved white!]))
+(;B[bb];W[ba])
+(;B[bc];W[bb])
+(;B[ae];W[ba];B[bd];W[bc])
+(;B[ca];W[ba])
+(;B[bd];W[bc])
+(;B[ac];W[bc])
+(;B[aa];W[ba]))

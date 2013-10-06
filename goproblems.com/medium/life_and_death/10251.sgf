@@ -1,0 +1,46 @@
+(;GE[life and death]DI[2d]DP[13]SO[kaf]CO[8]AW[cr]AW[dq]AW[eq]AW[fq]AW[gr]AW[gs]AB[cq]AB[cp]AB[bp]AB[dp]AB[ep]AB[fp]AB[gp]AB[gq]AB[hr]AB[iq]AB[co]C[black to make ko]AP[goproblems]
+(;B[cs]
+(;W[br]
+(;B[es];W[er]C[CHOICE]
+(;B[dr]C[ko is the best black can get hereRIGHT])
+(;B[fr];W[fs])
+(;B[hs];W[fr];B[dr]C[RIGHT])
+(;B[ds];W[bs])
+(;B[ar];W[bs])
+(;B[bs];W[fs]))
+(;B[hs];W[es])
+(;B[ds];W[es])
+(;B[ar];W[ds]
+(;B[er];W[dr])
+(;B[bs];W[er])
+(;B[es];W[bs]))
+(;B[bs];W[ds])
+(;B[dr];W[es]))
+(;W[ds];B[br]
+(;W[bs];B[er]C[RIGHT])
+(;W[er];B[dr]C[RIGHT])))
+(;B[br];W[cs]
+(;B[er];W[es])
+(;B[es];W[er])
+(;B[bs];W[es])
+(;B[hs];W[es]))
+(;B[es];W[er]
+(;B[cs];W[fs])
+(;B[hs];W[ds])
+(;B[br];W[ds])
+(;B[ds]
+(;W[dr]C[thanks to hubz for finding mistake hereCHOICE]
+(;B[hs];W[cs];B[fs];W[fr];B[es];W[br];B[ar];W[aq])
+(;B[br];W[fs])
+(;B[fs];W[br]))))
+(;B[er];W[dr]
+(;B[br];W[es])
+(;B[es];W[br])
+(;B[fr];W[es])
+(;B[hs];W[es]))
+(;B[bs];W[cs])
+(;B[ds];W[es]
+(;B[er];W[dr];B[fs];W[fr];B[es];W[br])
+(;B[br];W[cs])
+(;B[cs];W[dr])
+(;B[dr];W[er])))

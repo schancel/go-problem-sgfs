@@ -1,0 +1,109 @@
+(;GE[best move]DI[3k]DP[25]SO[WuHoUnited]CO[5]AW[ba]AW[bb]AW[ab]AW[bc]AW[cb]AW[db]AW[dc]AW[ea]AW[fa]AW[fb]AW[gb]AW[gc]AW[fc]AW[gd]AW[hd]AB[da]AB[ac]AB[ad]AB[bd]AB[cd]AB[cc]AB[dd]AB[ed]AB[eb]AB[ec]AB[fd]AB[fe]AW[ge]AW[ie]AW[id]AW[jd]AB[ha]AB[hb]AW[hc]AB[ic]AB[jc]AB[kd]AB[ld]AB[le]AB[me]AB[nd]AB[nc]AB[pc]AB[oc]AB[nb]AB[na]AW[ob]AW[pb]AW[qa]AW[qc]AW[qd]AW[pd]AW[od]AW[ne]AW[nf]AW[mf]AW[lf]AW[kf]AW[ke]C[Make the BEST local moves]AW[qb]AP[goproblems]
+(;W[kc];B[kb];W[lc];B[md]
+(;W[lb];B[ka]
+(;W[la];B[jb]
+(;W[ia];B[ma]
+(;W[oa]C[Black loses all his stones now.  Congratulations!!RIGHT])
+(;W[ja]C[This leaves 2 ko threats- J18 (threatening to save the small group) and then N18. P19 as last move only leaves one threat.])
+(;W[ib]C[This leaves 2 ko threats- K19 (threatening to save the small group) and then N18. P19 as last move only leaves one threat.]))
+(;W[ja];B[ia]C[You can play better])
+(;W[ib];B[ia]C[You can play better])
+(;W[ma];B[mb];W[ia];B[mc]C[: (])
+(;W[mb];B[mc];W[ia];B[ma]C[: (])
+(;W[mc];B[mb];W[ia];B[ma]C[: (]))
+(;W[jb];B[ib]
+(;W[la];B[ja]
+(;W[mb];B[mc];W[oa];B[ma]C[: (])
+(;W[mc];B[mb];W[oa];B[ma]C[: (])
+(;W[ma];B[mb];W[oa];B[mc]C[: (])
+(;W[oa];B[mb]C[You could play better]))
+(;W[ja];B[ia]C[All black's stones dieRIGHT]))
+(;W[ja];B[jb];W[la];B[ia]
+(;W[ma];B[mb]C[You could play better])
+(;W[mb];B[mc]C[: (])
+(;W[mc];B[mb]C[: (]))
+(;W[ib];B[jb]
+(;W[ia];B[la]
+(;W[oa];B[mb];W[ga]C[You could play better])
+(;W[mb];B[ma];W[ga]C[You could play better])
+(;W[mc];B[mb]C[: (])
+(;W[ma];B[mb]C[: (]))
+(;W[la];B[ia])
+(;W[ga];B[la];W[ia];B[mb]C[: (]))
+(;W[ia];B[ib]
+(;W[ga];B[ja]C[];W[la];B[ma];W[oa]C[You could play better])
+(;W[la];B[ja];W[oa]C[You could play better])
+(;W[ja];B[la];W[ga];B[jb]C[: (])
+(;W[jb];B[ja];W[la];B[mb];W[oa]C[You could play better]))
+(;W[ma];B[la]C[: (])
+(;W[mb];B[la]
+(;W[jb];B[ib]C[: (])
+(;W[ga];B[jb]C[]))
+(;W[ga];B[ib]
+(;W[ja];B[la])
+(;W[la];B[ja]
+(;W[ma];B[mb])
+(;W[mb];B[ma])
+(;W[mc];B[mb]))
+(;W[ma];B[la])))
+(;W[jb];B[ib];W[lb];B[ja]
+(;W[la];B[ka]C[];W[oa]C[You could do better])
+(;W[ma];B[mb]
+(;W[oa];B[la])
+(;W[mc];B[la])
+(;W[la];B[ka];W[oa];B[mc]))
+(;W[mb];B[la];W[oa];B[ma]))
+(;W[ib];B[jb];W[lb];B[la]))
+(;W[oa])
+(;W[ga];B[jb]
+(;W[kc];B[kb];W[lc];B[md]
+(;W[lb];B[la]
+(;W[mb];B[ma])
+(;W[mc];B[mb])
+(;W[ma];B[mb])
+(;W[ka];B[ja]))
+(;W[mc];B[mb])
+(;W[mb];B[lb])
+(;W[ma];B[lb])
+(;W[la];B[lb])
+(;W[ka];B[lb])
+(;W[ja];B[ka]
+(;W[lb];B[la]
+(;W[ma];B[mb])
+(;W[mc];B[mb])
+(;W[ia];B[ib])
+(;W[ib];B[ia])
+(;W[mb];B[mc];W[oa];B[ma];W[ib];B[ia]))
+(;W[mc];B[mb];W[ib];B[ia])
+(;W[mb];B[lb];W[ib];B[ia])
+(;W[ib];B[ia])
+(;W[la];B[lb]
+(;W[ib];B[ia])
+(;W[mb];B[mc];W[ib];B[ia])))
+(;W[ib];B[ia])
+(;W[ia];B[ib];W[lb];B[la]
+(;W[ja];B[ka]
+(;W[ja];B[ma])
+(;W[ia];B[ma])
+(;W[mb];B[ma]))
+(;W[ka];B[ja])))
+(;W[ia];B[ib];W[kc];B[kb];W[lc];B[md]
+(;W[lb];B[la]
+(;W[ka];B[ja])
+(;W[ja];B[ka])
+(;W[mb];B[ma];W[ka];B[ja]))
+(;W[ka];B[lb]))
+(;W[lc];B[lb];W[kc];B[md])
+(;W[mc];B[lc];W[mb];B[lb])
+(;W[ja];B[ka]
+(;W[ib];B[ia])
+(;W[kb];B[la]
+(;W[lb];B[ma])
+(;W[kc];B[ia];W[lc];B[md]))
+(;W[la];B[kb];W[lb];B[lc])))
+(;W[ib];B[jb]
+(;W[kc];B[kb];W[lc];B[md];W[lb];B[la]
+(;W[ka];B[ja])
+(;W[ia];B[ja]))
+(;W[kb];B[kc]))
+(;W[qb]))

@@ -1,0 +1,41 @@
+(;GE[life and death]DI[4k]DP[31]SO[santa c]CO[8]AB[bp]AB[dr]AB[dq]AW[fr]AW[fs]AW[fp]AW[br]AB[ap]C[What can White do?]AW[aq]AB[cp]AW[ao]AW[bo]AW[co]AW[eo]AW[do]AW[fq]AB[cr]AP[goproblems]
+(;W[ar]
+(;B[bs]
+(;W[dp]
+(;B[cq];W[ds]C[Well done! :)RIGHT])
+(;B[ds];W[cq]C[RIGHT]))
+(;W[ds];B[bq]C[:(])
+(;W[bq];B[ds]C[:(]))
+(;B[dp];W[bq]TR[bs]TR[ds]C[RIGHT])
+(;B[ds];W[dp]TR[cq]TR[bs]C[RIGHT])
+(;B[bq];W[dp]C[RIGHT]))
+(;W[bq];B[ds]
+(;W[dp];B[cq]
+(;W[as];B[bs];W[cs]MA[bs]C[Not so easy a ko with these outside liberties...])
+(;W[bs];B[ar]C[:(]))
+(;W[as];B[bs]C[Not so easy a ko with these outside liberties...])
+(;W[bs];B[ar]C[Black captures a living shape!])
+(;W[ar];B[bs]C[:(]))
+(;W[bs];B[bq]C[:(])
+(;W[dp];B[cq]
+(;W[ds];B[bs];W[ar]C[Well done! :)RIGHT])
+(;W[ar]C[Well done! :)RIGHT]TR[bs]TR[ds])
+(;W[as];B[bq]
+(;W[ds];B[ar]MA[aq]C[Not so easy a ko...])
+(;W[ar];B[bs]TR[ar]TR[ds]C[:(])
+(;W[cs];B[ds]C[:(])
+(;W[bs];B[cs]C[:(]))
+(;W[bs];B[cs]C[:(])
+(;W[cs];B[ds]C[:(])
+(;W[bq];B[bs]TR[ar]TR[ds]C[:(]))
+(;W[ds];B[bq]
+(;W[cs];B[bs];W[as];B[ar]MA[aq]C[Not so easy a ko...])
+(;W[dp];B[ar]C[:(])
+(;W[ar];B[bs]C[:(])
+(;W[bs];B[cs]C[:(])
+(;W[as];B[ar]MA[aq]C[:(]))
+(;W[cs];B[ds]C[:(])
+(;W[cq];B[bq]C[:(])
+(;W[as];B[bq]
+(;W[ds];B[ar]MA[aq]C[:(])
+(;W[dp];B[ar]C[:(]MA[aq])))

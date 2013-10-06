@@ -1,0 +1,8 @@
+(;GE[endgame]DI[5k]DP[33]SO[thanush]CO[0]AW[rb]AW[rd]AW[qd]AW[re]AB[qb]AB[qc]AW[pc]AW[pb]AW[oc]AW[nb]AW[oa]AW[na]AW[ma]AB[pd]AB[od]AB[qf]AB[qe]AB[rf]AB[nc]AB[mc]AB[mb]AB[la]AB[lb]AB[nd]C[Blacks most profitable move]AP[goproblems]
+(;B[ra];W[rc];B[qa];W[sb]
+(;B[se];W[sa];B[sd];W[pa]C[Olny 9 points for wRIGHT])
+(;B[sd];W[sa];B[se];W[pa]C[RIGHT]))
+(;B[qa];W[ra]
+(;B[se];W[rc]C[2 points worse than correct variation])
+(;B[sd];W[sc]))
+(;B[rc];W[sc];B[qa];W[ra]))

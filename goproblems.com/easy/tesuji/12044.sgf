@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[4k]DP[31]SO[derplumps]CO[0]SZ[19]AW[cn]AW[en]AW[bo]AW[fo]AW[bp]AW[fp]AW[eq]AW[br]AW[cr]AW[er]AW[ds]AW[es]AB[cp]AB[dp]AB[ep]AB[bq]AB[cq]AB[fq]AB[hq]AB[fr]AB[fs]C[Black to win the semeai.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸]PB[Schwarz]
+(;B[dq];W[aq]
+(;B[dr];W[cs]))
+(;B[ar];W[dq];B[bs];W[co];B[aq];W[do];B[as];W[eo]C[No eye!])
+(;B[cs]
+(;W[bs];B[dq];W[aq]
+(;B[dr]C[RIGHT])
+(;B[ap];W[ar];B[dr]C[This is correct too but A4 is bad style. You lost 1 point (see variation when Black moves on A2)RIGHT]LB[ap:?]))
+(;W[dr]
+(;B[ar];W[bs]C[You win by 1 liberty.]
+(;B[aq]C[RIGHT]))
+(;B[aq]
+(;W[ar];B[bs];W[co];B[dq]C[RIGHT])
+(;W[bs];B[ar]C[RIGHT])))))

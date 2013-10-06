@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[8k]DP[48]SO[pimapis]CO[0]AB[qq]AB[qp]AB[qo]AB[qn]AB[mr]AB[np]AB[lp]AB[lq]AB[kp]AB[jo]AB[io]AB[ip]AB[hq]AB[gr]AB[nm]AB[ml]AB[lk]AB[lj]AB[mj]AW[ko]AW[jp]AW[jq]AW[iq]AW[jr]AW[hr]AW[hs]AW[lr]AW[ls]AW[pq]AW[pp]AW[po]AW[pn]AW[on]AW[om]AW[ol]AW[pl]AW[ql]AW[qm]AW[rk]AW[rj]AW[mk]AW[nj]AW[nk]AW[ok]AW[mn]AB[nn]TR[mn]TR[nn]LB[pr:T]C[Can white save his marked stone? The problem is only about connecting the marked white stones with other living white stones. If is possible, show it, if not, play tenuki at T. The problem is only about connecting, does not matter the value of the sequence.]AP[goproblems]
+(;W[pr]C[Wrong.CHOICE])
+(;W[no]C[Solved.  Now white can connect. There are a lot of variants which lead to the final connect, but important is this first move.]
+(;B[mo]
+(;W[mm];B[oo]
+(;W[ll]C[RIGHT])
+(;W[nl]C[RIGHT]))
+(;W[lo];B[oo])))
+(;W[mo];B[no]C[Wrong])
+(;W[mm];B[no]))

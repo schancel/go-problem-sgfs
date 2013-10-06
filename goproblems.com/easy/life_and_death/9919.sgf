@@ -1,0 +1,67 @@
+(;GE[life and death]DI[10k]DP[52]SO[K81o7]CO[7]AB[qe]AB[qf]AB[pf]AB[of]AB[oh]AB[ph]AB[qi]AB[ri]AB[si]AB[rg]AB[sj]AW[rl]AW[sk]AW[rj]AW[qj]AW[pi]AW[oi]AW[oe]AW[pe]AW[pd]AW[qd]AW[re]AW[rd]AW[qg]AB[og]AW[nf]AW[ng]AW[nh]AW[ni]AW[nd]C[White to kill.  In the actual game, black had one more eye, but still gave up part of his group.]AP[goproblems]
+(;W[sg]
+(;B[sf]
+(;W[rf];B[sh]
+(;W[qh]C[AtariRIGHT]TR[ph]TR[oh]TR[og]TR[of]TR[pf]TR[qf]TR[qe])
+(;W[se];B[qh];W[sg]C[Ko])
+(;W[rh])
+(;W[pg];B[qh]))
+(;W[sh];B[rf]
+(;W[qh];B[rh])
+(;W[rh];B[qh])
+(;W[pg];B[qh]))
+(;W[rh];B[rf]
+(;W[qh];B[sh])
+(;W[sh];B[qh]))
+(;W[qh];B[rf]
+(;W[rh];B[sh];W[sg]C[RIGHT])
+(;W[sh];B[rh])
+(;W[se];B[rh])))
+(;B[qh]
+(;W[sh];B[sf];W[rf];B[rh]
+(;W[sg]C[RIGHT])
+(;W[sh];B[sg])
+(;W[se];B[sg]))
+(;W[rf];B[sh]
+(;W[rh]C[Ko in your favor, but you can do better.])
+(;W[sf];B[pg]))
+(;W[rh];B[sh];W[rf];B[sf];W[se];B[sg])
+(;W[sf];B[sh])))
+(;W[qh];B[rh]
+(;W[rf]
+(;B[pg]
+(;W[sg]C[CyclopsRIGHT])
+(;W[qg];B[qh];W[sg]C[Okay, but keep in mind skipping R13 was fineRIGHT])
+(;W[qh];B[qg];W[sg]C[Okay, but keep in mind skipping R12 was fineRIGHT]))
+(;B[sg];W[pg]C[RIGHT]))
+(;W[sg];B[sf];W[rf]C[Atari. White can only get one eye with wQ13 which is 1 point gote. Black doesn't need to capture the P12 group unless needed to prevent capture of a white group.RIGHT])
+(;W[sh];B[sg])
+(;W[sf];B[sg]))
+(;W[rf];B[qh]
+(;W[sg];B[sh]
+(;W[rh]C[It's ko in your favor, but you can do better.])
+(;W[sf];B[pg]))
+(;W[rh];B[sh])
+(;W[sh];B[sg];W[sf];B[rh])
+(;W[sf];B[sg]))
+(;W[rh];B[qh]
+(;W[sg];B[sh])
+(;W[sh];B[sg])
+(;W[sf];B[sh])
+(;W[rf];B[sh]))
+(;W[sh];B[sg]
+(;W[qh];B[rh];W[rf];B[pg])
+(;W[rh];B[qh])
+(;W[rf];B[qh])
+(;W[sf];B[rf]
+(;W[qh];B[rh])
+(;W[rh];B[qh])
+(;W[pg];B[qh])))
+(;W[pg]C[why would you do something like this];B[rf]LB[sf:miai]LB[sg:miai])
+(;W[sf];B[qh]
+(;W[rf];B[sh];W[sg];B[pg])
+(;W[sg];B[sh];W[rf];B[pg])
+(;W[sh];B[sg];W[rf];B[rh])
+(;W[rh];B[sh]
+(;W[sg];B[rf])
+(;W[rf];B[sg]))))

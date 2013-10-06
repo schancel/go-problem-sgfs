@@ -1,0 +1,14 @@
+(;GE[endgame]DI[4k]DP[30]SO[edgardo]CO[7]AB[ap]AB[bp]AB[cp]AB[dp]AB[dq]AB[eq]AB[er]AW[br]AW[bq]AW[cq]AW[dr]AW[es]AW[fr]AB[fq]AW[gr]AB[gp]AW[hq]AW[hp]C[Black to do something, Sente is not important.]AP[goproblems]
+(;B[ar]
+(;W[aq];B[bs]
+(;W[cr]
+(;B[ds]C[Ko for the corner! Even if you lose the Ko you can still capture E1.RIGHT])
+(;B[cs]C[Ko! =)RIGHT]))
+(;W[as]C[Play at K (G3) if you want to play a ko threat.]LB[gq:K]
+(;B[cs];W[ds];B[ar]C[Good! Ko for the corner.RIGHT])
+(;B[gq];W[fp]C[White answers your Ko threat and has no Ko threats of his own, now what?];B[ar];W[cr];B[ds]C[White is in trouble.RIGHT])))
+(;W[bs];B[aq]C[Best for both.RIGHT]))
+(;B[aq];W[ar]C[Nothing black can do from here.])
+(;B[bs];W[ar]C[White avoids the Ko and keeps six points in the corner. =(])
+(;B[cs];W[bs]C[:(])
+(;B[fs];W[gs]C[From here you could play like in the solution but making this exchange first is slightly more disadvantageous.]))

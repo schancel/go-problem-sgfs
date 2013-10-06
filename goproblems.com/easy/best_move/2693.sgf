@@ -1,0 +1,19 @@
+(;GE[best move]DI[4k]DP[31]SO[wtd]CO[7]AW[or][nq][pq][qo][on][qn][rn][pp]AB[pr][qr][qq][qp][rp][ro]
+C[Please play at 'A' to start.FORCE]LB[kk:A]
+;B[kk]
+(;W[ps]
+(;B[rr]C[The standard reply to hane at 'Q1', is 'S2'. Other  replies take less territory, leave aji, become ko, or die.  CHOICERIGHT])
+(;B[sr]C[Please see problem 2695 for why this is inferior for Black.])
+(;B[rs]C[Black lives, but takes 1 point less territory than the correct reply.])
+(;B[sq]C[Black lives, but takes 1 point less territory than the correct reply.])
+(;B[qs];W[rr];B[sr];W[sq];B[rs]C[A bad ko for black.]))
+
+(;W[so]
+(;B[sr]C[The standard reply to hane at 'T5', is 'T2'. Other replies take less territory, lead to seki, become ko, or die. CHOICERIGHT])
+(;B[sp];W[ps];B[qs];W[sr];B[rr];W[sq];B[ss];W[rs]C[A bad ko for black.])
+(;B[rr];W[sq];B[sp];W[sr];B[ps];W[rs]C[Seki.])
+(;B[rs];W[ps];B[sq]C[Black lives, but takes 1 point less territory than the correct reply.])
+(;B[sq];W[ps]
+(;B[rr]C[Black lives, but takes less territory than the correct reply.])
+(;B[qs];W[rr]C[Black dies.])
+(;B[rs]C[Black lives, but takes 1 point less territory than the correct reply.]))))

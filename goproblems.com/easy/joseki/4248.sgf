@@ -1,0 +1,40 @@
+(;GE[joseki]DI[7k]DP[40]SO[wtd]CO[7]AB[pj][jp][mp][pp]LB[qq:A][qp:B][ro:C][ql:D]
+C[White can invade at any of the labelled points, but only 'A' is considered here. ---- Please play at 'A' to start. FORCE]
+
+
+;W[qq];B[qp]
+
+
+(;W[rp];B[ro];W[rr];B[sp];W[sq]C[You got a ko, but unconditional life in sente is possible.])
+
+
+(;W[rq]C[NOTTHIS])
+
+
+
+(;W[pq];B[nq]
+(;W[nr]C[NOTTHIS])
+(;W[op]C[NOTTHIS])
+(;W[oq]C[NOTTHIS])
+(;W[or]C[NOTTHIS])
+
+(;W[rp];B[ro]
+(;W[nr]C[NOTTHIS])
+(;W[op]C[NOTTHIS])
+(;W[oq]C[NOTTHIS])
+(;W[or]C[NOTTHIS])
+(;W[rr];B[sp];W[sq]C[The ko is not required, as white can live in sente unconditionally.])
+
+(;W[rq];B[qn]
+C[RIGHT White has made ~5 points, ruined black's corner, caused overconcentration of his forces, and kept sente. The 
+invasion is worth ~25 points.]))
+
+(;W[rq];B[rp]
+(;W[oq];B[op];W[nr];B[mr];W[or]C[You live in gote. The reduction in black's territory 
+is similar to the solution, but loss of sente makes this inferior.])
+
+(;W[nr];B[mr];W[oq];B[op];W[or]C[You live in gote. The reduction in black's territory 
+is similar to the solution, but loss of sente makes this inferior.])))
+
+(;W[pr];B[pq];W[rr];B[or];W[rp];B[ro]LB[qs:A][sq:B]C[You can leave a ko behind, or live playing 'A' or 'B'. The reduction 
+in black's territory is ~6 points smaller than the solution.]))

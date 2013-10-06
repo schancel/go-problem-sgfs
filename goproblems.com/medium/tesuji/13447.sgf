@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[1k]DP[20]SO[sandal]CO[0]AW[dd]AW[fc]AW[ma]AW[lb]AW[mc]AW[nb]AB[ob]AB[pb]AB[qb]AB[ra]AW[rb]AW[rc]AW[rd]AW[sc]AW[qc]AW[pc]AW[oc]AB[nc]AB[nd]AB[od]AB[pd]AB[qd]AB[re]AB[oh]AB[oi]AB[oj]AB[pk]AB[qj]AB[ql]AW[ni]AW[nj]AW[mk]AW[ok]AW[ol]AW[nl]AW[pl]AW[nn]AW[oo]AW[pn]AW[qn]AW[op]AB[po]AB[qo]AB[qq]AB[pq]AB[oq]AB[np]AB[no]AB[mo]AB[mn]AW[mp]AB[jp]AW[es]AW[er]AW[eq]AW[dq]AW[dp]AB[fr]AB[fq]AB[fp]AW[co]AW[cn]AB[cp]AB[cq]AB[cr]AB[dr]AW[ro]AW[rp]TR[cp]TR[cq]TR[cr]TR[dr]LB[do:A]C[White is aiming to kill the marked stones, but he cannot do so right away because of the potential cut at A. White to protect the cut in sente.]AP[goproblems]
+(;W[qe]
+(;B[se]C[Excellent! This was the key move. Please play at AFORCE]LB[bp:A];W[bp]C[];B[do]C[Black refuses to accept the fact that the marked stones are dead. Show him that the cut truly is defended.]TR[cp]TR[cq]TR[cr]TR[dr];W[eo]AB[dn]AW[dm]AB[en]AW[fn]AB[em]AB[fm]AB[fl]AB[gl]AB[gk]AB[hk]AB[hj]AB[ij]AB[ii]AB[ji]AB[jh]AB[kh]AB[kg]AB[lg]AB[lf]AB[mf]AW[el]AW[fk]AW[gj]AW[hi]AW[ih]AW[jg]AW[kf]AW[le]AW[gm]AW[hl]AW[ik]AW[jj]AW[ki]AW[lh]AW[mg]AW[nf];B[me]
+(;W[md];B[ne]
+(;W[pe]C[RIGHT])
+(;W[oe]C[RIGHT]))
+(;W[ne];B[md])
+(;W[pe];B[md])))
+(;W[do];B[bo]C[Black is now alive and white has nothing.])
+(;W[eo];B[bo]C[Black is now alive and white has nothing.])
+(;W[bp]C[NOTTHIS];B[bq];W[bo];B[do];W[eo];B[dn]
+(;W[dm];B[en]
+(;W[fo];B[ep])
+(;W[fn]C[the ladder is broken]))
+(;W[en];B[dm];W[ep];B[cm];W[bm];B[em];W[gn];B[aq]
+(;W[ds];B[bl];W[an];B[ap])
+(;W[cl];B[bs]))))

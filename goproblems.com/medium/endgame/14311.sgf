@@ -1,0 +1,58 @@
+(;GE[endgame]DI[3k]DP[26]SO[DarkSycthe]CO[0]SZ[9]AW[gc]AB[ib]AB[he]AW[gd]AW[ee]AB[ef]AW[de]AW[ce]AB[df]AB[cf]AW[bf]AB[bg]AW[be]AB[ch]AW[ag]AB[ah]AW[af]AW[fe]AB[ff]AB[hf]AB[gf]AW[ge]AB[gg]C[No komi. Black to win.]AW[cc]AP[goproblems]
+(;B[hb]
+(;W[hc]
+(;B[ic];W[hd];B[id];W[gb]
+(;B[ha];W[ga]C[Black wins by 1!RIGHT])
+(;B[ga];W[ha]
+(;B[ia];W[fa]
+(;B[ie];W[ha]C[White connects the ko and wins by 1])
+(;B[fb];W[ha]C[Black has no ko threats.]))
+(;B[fa];W[ea]
+(;B[ia];W[fb];B[ie];W[ha];B[ga]C[Black won!RIGHT])
+(;B[fb]C[NOTTHISRIGHT]))))
+(;B[gb]))
+(;W[gb]C[CHOICE]
+(;B[ha];W[hc];B[ic];W[hd];B[id])
+(;B[hc])
+(;B[hd];W[hc];B[ic];W[ha]C[This is only a tie (Jigo)!])
+(;B[ga]
+(;W[ic]C[CHOICE];B[hc];W[hd];B[id];W[ha]
+(;B[fa];W[ea]
+(;B[ia];W[fb]
+(;B[ie];W[ha];B[ga]C[Black wins by 1 even though White captures G9RIGHT])
+(;B[ic];W[ha];B[ga]C[Black wins by 1 even though White captures G9RIGHT]))
+(;B[fb]C[NOTTHISRIGHT]))
+(;B[ia];W[fa]C[After White takes and connects the ko White will win by 1]))
+(;W[hc];B[ic];W[hd];B[id]))))
+(;B[ga];W[hc];B[ic];W[id]
+(;B[hd];W[hb]
+(;B[ie];W[ha]C[White won!])
+(;B[ha];W[ia]))
+(;B[hb];W[hd]))
+(;B[gb];W[hc]
+(;B[ic];W[hb]
+(;B[hd];W[ha]C[White won!])
+(;B[ha];W[id])
+(;B[id];W[ha]C[White won!]))
+(;B[hb];W[ic]C[Black dies. See next problem.]))
+(;B[hc];W[gb]
+(;B[hd];W[hb];B[ha];W[ga];B[ic];W[ia]C[White connects the ko and wins by 1.])
+(;B[hb];W[hd];B[id];W[ha]C[Since Black must connect at J5, White wins by 1.])
+(;B[ha];W[hd];B[id];W[hb];B[ic];W[ga]C[After taking the ko and connecting, White wins by 2.]))
+(;B[hd];W[hc];B[ic];W[hb]C[White wins now.])
+(;B[ha];W[hc];B[ic];W[id]
+(;B[hd];W[hb];B[ie];W[ga]C[White won!])
+(;B[hb];W[hd];B[fb];W[gb]))
+(;B[fa];W[hb]
+(;B[ic];W[hc]
+(;B[hd];W[ha])
+(;B[id];W[ha])
+(;B[ha];W[id]))
+(;B[ha];W[ic])
+(;B[hc];W[hd];B[id];W[gb]C[Not a ko.]))
+(;B[id];W[hc];B[ic];W[hb]C[White won!])
+(;B[ic];W[hd];B[id];W[hb]
+(;B[hc];W[ha]C[White won!])
+(;B[ha];W[ga]
+(;B[hc];W[ia])
+(;B[ia];W[hc];B[ie]C[White won!]))))

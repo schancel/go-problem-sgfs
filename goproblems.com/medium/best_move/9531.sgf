@@ -1,0 +1,15 @@
+(;GE[best move]DI[2d]DP[12]SO[Song17]CO[7]AB[an]AB[ao]AB[bo]AB[co]AB[cp]AB[cq]AB[cr]AB[cs]AB[dr]AB[ds]AB[es]AB[fs]AB[fr]AB[fq]AW[do]AW[dp]AW[ep]AW[fp]AW[eq]AW[er]AW[dq]AW[cn]AW[cm]AW[bn]AW[am]AW[cl]AW[ck]AW[dk]AW[el]AW[fm]AW[gm]AW[hm]AW[gl]AW[fk]AB[dl]AB[dm]AB[dn]AB[en]AB[em]AB[eo]AB[fo]AB[il]AB[im]AB[in]AB[io]AB[ip]AW[gp]AW[gq]AW[gr]AW[gs]AB[gn]AB[fn]AB[hn]AB[jq]AB[jr]AB[ir]AW[iq]AW[hq]AW[hp]AW[jp]AW[kq]AW[kr]AB[kp]AW[jo]AW[jn]AW[kn]AW[jl]AW[kl]AB[ko]AB[ln]AW[ej]C[Black to play a useful move before w does...]AP[goproblems]
+(;B[go]
+(;W[js]C[CHOICE];B[hs];W[ks];B[ho]C[RIGHT])
+(;W[ik]C[CHOICE];B[hs]
+(;W[hl]C[CHOICE];B[hr];W[jm];B[ho]C[RIGHT])
+(;W[js]C[CHOICE];B[ho]C[RIGHT])))
+(;B[ho];W[is];B[js]
+(;W[ks];B[hs]C[RIGHT])
+(;W[hr];B[hs]C[this is the best white can get - a ko, but black takes firstRIGHT]))
+(;B[lq];W[lr]
+(;B[mr];W[lp];B[ls];W[lo];B[ks];W[mq];B[nr];W[ik];B[hs];W[js];B[is];W[hr])
+(;B[mq];W[js];B[mr];W[hr];B[ls];W[is]))
+(;B[hs];W[hr];B[ho];W[is];B[go];W[js])
+(;B[is];W[ik];B[lq];W[lr];B[mq];W[mr])
+(;B[gk];W[js];B[hl];W[fl];B[fj];W[ek]C[not good enough... Black could've don't better]))

@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3d]DP[9]SO[transcend]CO[7]C[Just follow along for the first few moves.]MA[dp]AP[goproblems];B[dp];W[ep]MA[eq]AB[ep];B[eq];W[dq]MA[do]AB[dq];B[do];W[fp]MA[er]AB[fp];B[er];W[dr]MA[bo]AB[dr];B[bo];W[bp]MA[dl]AB[bp];B[dl];W[gq]C[Ok now... your turn. Take the corner in the best way.]AB[gq]
+(;B[cq];W[cr]AB[cr]
+(;B[br];W[bq]AB[bq]
+(;B[cp];W[bs]AB[bs]
+(;B[ar]AW[bs]AW[cr]AW[dr]AW[dq]AW[bq]AW[bp]AW[ep]AW[fp]AW[gq]TR[aq]TR[as]C[White can't approach and you take the corner.RIGHT])
+(;B[cs];W[ar]AW[bs]AW[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq]AW[bp]AW[bq]C[White takes the corner...]))
+(;B[ds]AW[bq]AW[bp]AW[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq];W[cp]AW[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq]AW[bp]AW[bq]C[White will take the corner or the left side.])
+(;B[cs]AW[bq]AW[bp]AW[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq];W[cp]C[White will make a nice group on the left side or live in the corner.]))
+(;B[bq];W[br]AW[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq]AW[bp]))
+(;B[cr];W[cq]AW[dq]AW[dr]AW[ep]AW[fp]AW[gq]AW[bp]C[White will win.])
+(;B[br];W[fr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq]AW[bp]C[Nope.])
+(;B[ds];W[cr]AW[dr]AW[dq]AW[ep]AW[fp]AW[bp]AW[gq]C[That won't be good enough...])
+(;B[bq];W[fr]AW[dr]AW[dq]AW[ep]AW[fp]AW[gq]AW[bp]C[Although white plays cautiously in response, you can do better than B3.])
+(;B[cp];W[br]AW[bp]AW[dq]AW[dr]AW[ep]AW[fp]AW[gq]C[Nope.]))

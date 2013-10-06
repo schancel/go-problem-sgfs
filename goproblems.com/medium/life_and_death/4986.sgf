@@ -1,0 +1,38 @@
+(;GE[life and death]DI[2k]DP[21]SO[marwin]CO[9]SZ[19]AW[ca]AW[db]AW[cc]AW[dc]AW[dd]AW[ce]AW[af]AW[bf]AW[cf]AB[da]AB[ea]AB[eb]AB[ec]AB[ed]AB[de]AB[fe]AB[df]AB[ag]AB[bg]AB[cg]AB[dg]AB[eh]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[bc];W[bb]
+(;B[bd];W[cd]
+(;B[ab];W[ba]C[sente seki RIGHT])
+(;B[be];W[ac])
+(;B[ac];W[ab];B[ae];W[cb];B[ba]C[Wrong - gote seki, with one point for white, black can do better])
+(;B[ae];W[ac];B[ab];W[aa]))
+(;B[ab];W[bd];B[ba];W[ac];B[cb];W[aa]))
+(;B[bb];W[bc]
+(;B[cb];W[bd]C[Black can do better])
+(;B[ba];W[cb])
+(;B[ab];W[ac])
+(;B[ac];W[cb]
+(;B[bd];W[cd]
+(;B[be];W[ad];B[ba];W[ae])
+(;B[ae];W[ba];B[ab]C[gote seki, black can do better]))
+(;B[ab];W[bd]))
+(;B[bd];W[ab]
+(;B[cd];W[ad];B[ba];W[be];B[cb]C[black can do better])
+(;B[ad];W[cd])))
+(;B[ba];W[cb]
+(;B[bb];W[bc])
+(;B[bd];W[bc]))
+(;B[bd];W[bc]
+(;B[ba];W[cb]
+(;B[ac];W[ab]
+(;B[cd];W[ad])
+(;B[ad];W[cd]))
+(;B[bb];W[ac]
+(;B[cd];W[ad])
+(;B[ad];W[cd])))
+(;B[ae];W[cd]
+(;B[ba];W[cb];B[bb];W[ac])
+(;B[ac];W[bb];B[ab];W[ba])
+(;B[bb];W[cb];B[ac])))
+(;B[ac];W[bc];B[ba];W[cb]
+(;B[ab];W[bd])
+(;B[bd])))

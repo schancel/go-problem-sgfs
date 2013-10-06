@@ -1,0 +1,18 @@
+(;GE[endgame]DI[6k]DP[37]SO[Estrica]CO[6]AB[re]AB[qf]AB[pe]AB[pd]AB[rg]AB[rh]AB[ri]AB[qj]AB[pj]AB[oj]AB[pk]AB[pi]AB[ph]AB[ql]AB[qm]AB[qn]AB[rm]AB[pn]AW[rn]AW[qo]AW[rp]AW[so]AW[po]AW[on]AW[pm]AW[pl]AW[ok]AW[nk]AW[nj]AW[oi]AW[oh]AW[og]AW[pg]AW[pf]AW[qg]AW[qh]AW[qi]AW[rj]TR[rj]C[White played at S10. What is the best black can hope for?]AP[goproblems]
+(;B[rk];W[qk];B[sj]
+(;W[sm]C[FORCE];B[rl];W[qj];B[sk]C[RIGHT])
+(;W[qj]
+(;B[sl];W[sm]C[Ko possibility])
+(;B[sm];W[sn];B[sl]C[This variation is right for black, however white made a mistake when played R10 instead of T7. However, the problem is how black will answer white, so it can be consedered right, as black did the best that could be done.RIGHT])))
+(;B[qk];W[rk];B[sm];W[sl])
+(;B[sk]
+(;W[rk]C[];B[sl];W[sj];B[qk];W[sm]C[Ko])
+(;W[qk]C[];B[sj];W[sm];B[rk];W[rl];B[qj];W[pj])
+(;W[sj]C[CHOICE]
+(;B[rk];W[qk])
+(;B[qk];W[rk]
+(;B[rl];W[sl])
+(;B[si];W[sl]))))
+(;B[sj];W[rk])
+(;B[rl];W[rk];B[sk];W[qk];B[sj];W[sm])
+(;B[sl];W[rk]))

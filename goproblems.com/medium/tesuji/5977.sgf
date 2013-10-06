@@ -1,0 +1,63 @@
+(;GE[tesuji]DI[2k]DP[22]SO[aditsu]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[white]PB[black]AW[da][ha][db][hb][dc][hc][jc][dd][hd][de][ge][df][gf][dg][ei]AB[ea][ga][eb][gb][ec][gc][ed][gd][if][fh][gi][hi]
+(;B[fb]CR[fb]
+;W[fd]CR[fd]
+(;B[fe]CR[fe]
+;W[ee]CR[ee]
+;B[ff]CR[ff]
+;W[fg]CR[fg])
+(;B[ee]CR[ee]
+;W[fe]CR[fe]C[can't connect]))
+(;B[fd]CR[fd]
+;W[fb]CR[fb]C[can't connect])
+(;B[fe]CR[fe]C[NOTTHIS])
+(;B[ee]CR[ee]
+;W[fe]CR[fe]
+(;B[ef]CR[ef]
+;W[eg]CR[eg]
+(;B[fg]CR[fg]
+;W[ff]CR[ff]
+(;B[he]CR[he]
+;W[hf]CR[hf]
+(;B[fd]CR[fd]
+;W[fb]CR[fb])
+(;B[ie]CR[ie]
+;W[fd]CR[fd]
+(;B[fc]CR[fc]
+;W[fa]CR[fa])
+(;B[hg]CR[hg]
+;W[fc]CR[fc]
+;B[gg]CR[gg]C[RIGHT])
+(;B[gg]CR[gg]
+;W[hg]CR[hg]
+;B[ig]CR[ig]
+;W[hh]CR[hh]
+;B[ih]CR[ih]
+;W[fc]CR[fc]
+;B[gh]CR[gh]C[RIGHT
+was that trip really necessary?])))
+(;B[fd]CR[fd]
+;W[fb]CR[fb])
+(;B[fb]CR[fb]
+;W[fd]CR[fd]))
+(;B[fd]CR[fd]
+;W[fb]CR[fb]C[you're removing your own liberties])
+(;B[fb]CR[fb]
+;W[fd]CR[fd]C[you're removing your own liberties])
+(;B[ff]CR[ff]
+;W[fg]CR[fg]C[dead]))
+(;B[fd]CR[fd]
+;W[fb]CR[fb]
+;B[ef]CR[ef]
+;W[eg]CR[eg]C[can't connect])
+(;B[fb]CR[fb]
+;W[fd]CR[fd]
+;B[ef]CR[ef]
+;W[eg]CR[eg]C[can't connect]))
+(;B[he]CR[he]
+;W[fe]CR[fe])
+(;B[ff]CR[ff]
+;W[fe]CR[fe])
+(;B[ef]CR[ef]
+;W[ee]CR[ee]))

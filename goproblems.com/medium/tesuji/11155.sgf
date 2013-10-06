@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[3k]DP[27]SO[lok]CO[0]AB[dr]AB[dq]AB[dp]AB[co]AB[bo]AB[cm]AW[do]AW[eo]AW[ep]AW[eq]AW[er]AW[cp]AW[es]C[White to do his best in the corner]AP[goproblems]
+(;W[bq]
+(;B[cq]C[CHOICE]
+(;W[bp];B[br]
+(;W[cr];B[cs];W[ds];B[cr];W[ar]C[RIGHT])
+(;W[ds];B[cr]MA[bp]MA[bq]MA[cp]C[White is captured.]))
+(;W[cr])
+(;W[ds];B[bp];W[cr])
+(;W[br];B[bp];W[ds]C[White can do better.]))
+(;B[br]C[Another variation, a bit better for black.];W[cr];B[bp];W[ds];B[aq];W[cq]))
+(;W[cr];B[cq];W[bq];B[bp];W[ds];B[cp]
+(;W[br]C[White can do better.])
+(;W[ar]C[White can do better.]))
+(;W[cq];B[cr];W[br];B[bq]
+(;W[cs];B[bp];W[ds]C[White can do better.])
+(;W[ds];B[bp];W[cs]C[]))
+(;W[ds];B[bq]
+(;W[br];B[cq]C[White can do better])
+(;W[cr];B[cq]C[]))
+(;W[cs];B[br]
+(;W[bs];B[bq];W[ds])
+(;W[ds];B[cr])
+(;W[cr];B[cq];W[ds];B[bq]))
+(;W[br];B[bq]
+(;W[ds])
+(;W[cr];B[cq];W[ds])
+(;W[cq];B[cr])))

@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2d]DP[14]SO[0n1]CO[0]SZ[19]AB[qr]AB[qq]AB[pq]AB[oq]AB[pp]AB[po]AB[qn]AB[rn]AB[sn]AB[rr]AW[qp]AW[qo]AW[ro]AW[so]AW[pn]AW[pm]AW[qm]AW[rm]AW[oo]AW[op]AW[nq]AW[mp]AW[or]GM[1]AP[FlyGo]GN[b]CA[gb2312]HA[0]EV[l]
+(;B[sq];W[rp]
+(;B[ss];W[ps];B[qs]C[RIGHT])
+(;B[pr];W[nr];B[ss];W[ps];B[qs]C[RIGHT]))
+(;B[rp];W[sm];B[sp];W[sr];B[ss];W[rs]
+(;B[pr]C[Dead];W[nr];B[qs];W[rq];B[ss];W[sq]C[Dead])
+(;B[rq];W[qs]
+(;B[pr];W[ps];B[nr];W[sq])
+(;B[ps];W[nr]
+(;B[pr];W[ss];B[sq];W[rs];B[ss];W[sr]C[Dead])
+(;B[ss];W[rs]C[Dead])))
+(;B[qs];W[rq]
+(;B[ss];W[sq])
+(;B[sq];W[rq]
+(;B[sq])
+(;B[ss];W[sq])))))

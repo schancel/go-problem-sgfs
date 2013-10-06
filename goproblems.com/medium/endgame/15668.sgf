@@ -1,0 +1,17 @@
+(;GE[endgame]DI[3d]DP[11]SO[thanush]CO[0]AB[rc]AB[pc]AB[od]AB[nd]AB[md]AB[lc]AB[kc]AB[jc]AB[jb]AW[kb]AW[lb]AW[mc]AW[nc]AW[oc]AW[pb]AW[pd]AW[qd]AW[rd]AW[qf]AB[qc]TR[kb]TR[lb]C[Two move combination to capture the mark stones]AP[goproblems]
+(;B[ob];W[oa];B[pa]
+(;W[qb]C[CHOICE];B[na];W[rb];B[mb]C[RIGHT])
+(;W[nb]C[CHOICE];B[qb];W[qa];B[ra]
+(;W[pa];B[sb]C[RIGHT])
+(;W[sb];B[pa]C[koRIGHT])))
+(;B[qb];W[ob];B[ma];W[mb];B[na];W[pa])
+(;B[nb];W[ob];B[mb];W[ma])
+(;B[ma];W[mb]
+(;B[qb];W[ob])
+(;B[ob];W[oa]))
+(;B[ka];W[mb]
+(;B[qb];W[ob])
+(;B[na];W[oa];B[la];W[nb])
+(;B[la];W[ma];B[pa];W[qb];B[rb];W[oa]))
+(;B[pa];W[ob];B[qb];W[ra])
+(;B[mb];W[nb];B[ma];W[na]))

@@ -1,0 +1,38 @@
+(;GE[life and death]DI[3k]DP[25]SO[santa c]CO[7]AB[bp]AB[cp]AB[do]AB[eo]AB[ep]AB[fp]AB[fq]AB[fr]AB[el]AB[dl]AB[cl]AW[hr]AW[ho]AW[hp]AW[hn]AW[fn]AW[co]AW[bo]AW[cm]AW[dm]AW[dp]AW[dq]AW[cq]AW[eq]MA[do]MA[eo]MA[ep]MA[fp]MA[fq]MA[fr]C[Try to save these stones... (Cut straight down to buisness)]AP[goproblems]
+(;B[cn]
+(;W[bn]
+(;B[bm]
+(;W[dn]
+(;B[en]C[Well done! White can't block the connection now!RIGHT])
+(;B[em];W[en]C[Cut off and dead...]))
+(;W[em];B[an];W[dn];B[ao];W[cn];B[fm];W[en];B[gn]C[RIGHT])
+(;W[en];B[dn];W[em];B[an]C[RIGHT])
+(;W[bq];B[em]C[RIGHT]))
+(;B[em];W[en]
+(;B[bm];W[dn]C[Cut off and dead...])
+(;B[dn];W[bm]C[Cut off and dead...]))
+(;B[dn];W[bm]C[Cut off and dead...]TR[en]TR[em])
+(;B[en];W[em]
+(;B[bm];W[bl]C[Only a ko...]LB[fm:1]LB[am:2]LB[gn:3]LB[gm:4]LB[fo:5]LB[fl:6]LB[gl:7]LB[fn:8])
+(;B[fm];W[bm]C[Only a ko...]LB[gn:1]LB[gm:2]LB[fo:3]LB[fl:4]LB[gl:5]LB[fn:6])
+(;B[dn];W[bm]C[Cut off and dead...]))
+(;B[fm];W[en]C[Cut off and dead...]))
+(;W[dn];B[bn];W[bm];B[ao]LB[cq:X]LB[dq:X]LB[dp:X]LB[eq:X]C[RIGHT])
+(;W[bm];B[bn]LB[bo:X]LB[co:X]LB[cq:X]LB[dq:X]LB[eq:X]LB[dp:X]C[RIGHT])
+(;W[em]
+(;B[bm];W[bn];B[an];W[dn];B[ao];W[cn];B[fm];W[en];B[gn]C[RIGHT])
+(;B[bn]C[RIGHT]))
+(;W[en];B[bm];W[bn];B[dn];W[em];B[an]C[RIGHT]))
+(;B[dn];W[cn]C[Cut off and dead...]TR[en]TR[em])
+(;B[em];W[en]
+(;B[cn];W[bn]C[Cut off and dead...]TR[bm]TR[dn])
+(;B[dn];W[cn]C[Cut off and dead...]))
+(;B[en];W[em];B[fm];W[bm]C[Only a ko...]LB[gn:1]LB[gm:2]LB[fo:3]LB[fl:4]LB[gl:5]LB[fn:6])
+(;B[bm];W[cn]C[Cut off and dead...]TR[en]TR[em])
+(;B[bn];W[cn]C[Cut off and dead...]TR[en]TR[em])
+(;B[fm];W[en]
+(;B[cn];W[bn]C[Cut off and dead...]TR[dn]TR[bm])
+(;B[dn];W[cn]C[Cut off and dead...]))
+(;B[bq]C[NOTTHIS])
+(;B[ap];W[cn]C[Cut off and dead...]TR[en]TR[em])
+(;B[ao];W[bm]C[Cut off and dead...]TR[en]TR[em]))

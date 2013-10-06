@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[15k]DP[61]SO[ellbur]CO[8]AB[gj]AB[gk]AB[gl]AB[hl]AB[il]AB[jl]AB[kl]AB[kk]AB[kj]AW[hk]AW[ik]AW[jk]AW[ih]AW[fj]AW[fk]AW[fl]AW[lj]AW[lk]AW[ll]AB[lh]AB[lg]C[Can the three white stones escape? Play at 'T' (O12) if you think not.]LB[nh:T]AB[kh]AB[fg]AB[fh]AB[gh]AW[hf]AW[jf]AW[ig]AP[goproblems]
+(;W[nh]C[The white stones can escape])
+(;W[ii];B[ij]
+(;W[jj];B[ji]
+(;W[hj];B[hi];W[ij]C[RIGHT])
+(;W[hi];B[hj])
+(;W[jh];B[hj]))
+(;W[hj];B[hi];W[jj];B[ji];W[ij]C[RIGHT]))
+(;W[ji];B[jj];W[ij];B[hj];W[ii]C[RIGHT])
+(;W[hi];B[hj];W[ij];B[jj];W[ii]C[RIGHT])
+(;W[hj];B[hi]
+(;W[jj];B[ji];W[ij];B[ii])
+(;W[ij];B[ii];W[jj];B[ji])
+(;W[ii];B[ij];W[jj];B[ji];W[ij]C[RIGHT]))
+(;W[jj];B[ji]
+(;W[hj];B[hi];W[ij];B[ii])
+(;W[ij];B[ii];W[hj];B[hi])
+(;W[ii];B[ij];W[hj];B[hi];W[ij]C[RIGHT])
+(;W[hi];B[hj]
+(;W[ii];B[ij])
+(;W[ij];B[ii])))
+(;W[ij];B[ii]
+(;W[ji];B[hi]
+(;W[jj];B[jh];W[ki];B[li])
+(;W[jh];B[jj]))
+(;W[hi];B[ji]
+(;W[hj];B[hh];W[gi];B[fi])
+(;W[hh];B[hj]))
+(;W[hj];B[hi])
+(;W[jj];B[ji]))
+(;W[gi];B[hj]))

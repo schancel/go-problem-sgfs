@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[29]SO[Piccolo]CO[0]AB[gb]AB[hb]AB[jb]AB[ib]AB[kc]AB[lc]AB[lb]AB[oc]AB[od]AB[pd]AB[qd]AB[rd]AB[rc]AB[md]AB[me]AB[ne]AW[fb]AW[fc]AW[ec]AW[gc]AW[hc]AW[ic]AW[jc]AW[kd]AW[ld]AW[mc]AW[nc]AW[nd]AW[nb]AW[ob]AW[pc]AW[qc]AW[rb]AW[sb]C[White to kill (of course without losing q17).]AW[cc]AW[jd]AB[oe]AP[goproblems]
+(;W[la]
+(;B[ma]C[CHOICE]
+(;W[ka];B[mb];W[ga]
+(;B[ha];W[ja]C[Black will have to fill L18, so he is dead.RIGHT]))
+(;W[mb];B[ka]C[]))
+(;B[ka];W[ma];B[ga];W[ia]C[Only one eye.RIGHT]))
+(;W[ka];B[ja]
+(;W[la];B[mb]
+(;W[ga]C[];B[pb];W[qb];B[na];W[pa];B[ha];W[oa];B[kb];W[ma];B[na];W[ma];B[la]C[Alive !])
+(;W[ma];B[kb]MA[na]MA[pb]C[Easy eye at L19, black is alive.]))
+(;W[ga]
+(;B[ha];W[la];B[mb]
+(;W[ma]C[B will have to take on F19 before playing L18, so he is dead.RIGHT])
+(;W[na];B[pb];W[qb];B[kb];W[pa];B[ma]C[]))
+(;B[mb]
+(;W[ha]C[RIGHT])
+(;W[ma];B[ha];W[la]C[B will have to take on F19 before playing L18, so he is dead.])))))

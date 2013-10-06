@@ -1,0 +1,15 @@
+(;GE[life and death]DI[8k]DP[45]SO[pmurk]CO[0]SZ[19]C[From go game guru weekly problem 1 - easy problem]AW[pq]AW[qq]AW[sq]AW[or]AW[qr]AW[sr]AW[os]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[mq]AB[oq]AB[nr]AB[qs]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SO[http://gogameguru.com/]
+(;B[rs];W[rr]
+(;B[ns]C[RIGHT])
+(;B[ps]LB[ns:A]C[Playing this move at A is usually better style because it leaves less bad aji (potential for bad things to happen) on the outside.RIGHT]))
+(;B[rq];W[rr]
+(;B[ns];W[rs])
+(;B[rs];W[ps])
+(;B[ps];W[rs]))
+(;B[ns];W[rs]
+(;B[rq];W[rr]
+(;B[ps];W[pr])
+(;B[pr];W[ps]))
+(;B[ps];W[pr])
+(;B[pr];W[ps]))
+(;B[ps];W[rs]))

@@ -1,0 +1,105 @@
+(;GE[elementary]DI[8k]DP[46]SO[kimono]CO[0]AB[cq]AB[cp]AB[cr]AB[gq]AB[hp]AB[cn]AB[bm]AW[do]AW[dp]AW[dq]AW[fp]AW[em]AW[gn]AW[io]AW[jp]AW[jq]AW[jr]
+(;B[er];W[dr]
+(;B[ds];W[fr]
+(;B[fq];W[eq]
+(;B[es]C[Good ! Black has succeeded to link up his stones.RIGHT])
+(;B[fs];W[es]C[This is a failure, White has a ko.])
+(;B[gr];W[es]C[This is a failure.])
+(;B[gs];W[es]C[This is a failure.]))
+(;B[eq];W[fq]C[This is a failure.])
+(;B[fs];W[eq]
+(;B[es];W[gs];B[cs];W[gr];B[fq];W[hq];B[gp];W[hr]C[This is a failure.])
+(;B[gr];W[es]C[This is a failure, White has a ko.]))
+(;B[es];W[fq]C[This is a failure.])
+(;B[gr];W[eq]
+(;B[es];W[fs];B[cs];C[This is a failure.]W[fq])
+(;B[fs];W[es]C[This is a failure, White has a ko.]))
+(;B[gs];W[eq]
+(;B[fs];W[es]C[This is a failure, White has a ko.])
+(;B[es];W[fs];B[cs];W[fq]C[This is a failure.])))
+(;B[es];W[ds])
+(;B[cs];W[ds])
+(;B[eq];W[ds])
+(;B[fq];W[ds])
+(;B[fr];W[ds]))
+(;B[fs];W[er]
+(;B[es];W[ds]
+(;B[dr];W[fr]C[This is a failure.])
+(;B[fr];W[dr]C[This is a failure.])
+(;B[cs];W[dr]C[This is a failure.]))
+(;B[ds];W[es]C[This is a failure.])
+(;B[dr];W[es]C[This is a failure.])
+(;B[fr];W[es]C[This is a failure.]))
+(;B[dr];W[er]
+(;B[fr];W[es]C[This is a failure.])
+(;B[es];W[fr]C[This is a failure.])
+(;B[eq];W[fq]
+(;B[fr];W[es]C[This is a failure.])
+(;B[es];W[fr]C[This is a failure.]))
+(;B[fq];W[eq];B[es];W[fr]C[This is a failure.])
+(;B[fs];W[es]C[This is a failure.])
+(;B[ds];W[es]C[This is a failure.]))
+(;B[ds];W[er]
+(;B[fr];W[es]C[This is a failure.])
+(;B[es];W[fr]C[This is a failure.])
+(;B[fs];W[es]C[This is a failure.]))
+(;B[es];W[er]
+(;B[dr];W[fr]C[This is a failure.])
+(;B[ds];W[fr]C[This is a failure.])
+(;B[fr];W[fq]
+(;B[dr];W[gr]
+(;B[fs];W[hr]C[This is a failure.])
+(;B[eq];W[hr]C[This is a failure.])
+(;B[gs];W[hr]C[This is a failure.])
+(;B[hr];W[fs]C[This is a failure.])
+(;B[ds];W[fs]C[This is a failure.]))
+(;B[gr];W[ds]
+(;B[dr];W[fs]C[This is a failure.])
+(;B[fs];W[dr]C[This is a failure.])
+(;B[cs];W[dr]C[This is a failure.])
+(;B[gs];W[dr]C[This is a failure.]))
+(;B[fs];W[ds]
+(;B[dr];W[gr]
+(;B[cs];W[hr]C[This is a failure.])
+(;B[eq];W[hr]C[This is a failure.]))
+(;B[cs];W[dr]C[This is a failure.])
+(;B[gr];W[dr]C[This is a failure.]))
+(;B[ds];W[gr]
+(;B[gs];W[hr]C[This is a failure.])
+(;B[hr];W[fs]C[This is a failure.])
+(;B[fs];W[hr]C[This is a failure.])
+(;B[dr];W[fs]C[This is a failure.])
+(;B[eq];W[fs]C[This is a failure.]))
+(;B[gs];W[ds]
+(;B[dr];W[fs]C[This is a failure, it's a ko.])
+(;B[cs];W[dr]C[This is a failure.])
+(;B[fs];W[dr]C[This is a failure.])
+(;B[gr];W[dr]C[This is a failure.])
+(;B[hr];W[dr]C[This is a failure.])
+(;B[eq];W[dr]C[This is a failure.])))
+(;B[fs];W[fr]
+(;B[gr];W[ds]
+(;B[gs];W[dr]C[This is a failure.])
+(;B[dr];W[gs]C[This is a failure.])
+(;B[cs];W[dr]C[This is a failure.])
+(;B[hs];W[dr]C[This is a failure.]))
+(;B[dr];W[gs]
+(;B[gr];W[ds]C[This is a failure.])
+(;B[ds];W[gr]C[This is a failure.])
+(;B[cs];W[gr]C[This is a failure.]))
+(;B[ds];W[gr]C[This is a failure.])
+(;B[gs];W[ds]
+(;B[dr];W[gr]C[This is a failure.])
+(;B[cs];W[dr]C[This is a failure.])
+(;B[gr];W[dr]C[This is a failure.]))
+(;B[hs];W[ds]
+(;B[gs];W[dr]C[This is a failure.])
+(;B[dr];W[gs]C[This is a failure.])
+(;B[cs];W[dr]C[This is a failure.]))))
+(;B[fr];W[dr]
+(;B[ds];W[es]
+(;B[cs];W[er]C[This is a failure.])
+(;B[er];W[cs]C[This is a failure.]))
+(;B[er];W[ds]C[This is a failure.])
+(;B[es];W[ds]C[This is a failure.])
+(;B[cs];W[ds]C[This is a failure.])))

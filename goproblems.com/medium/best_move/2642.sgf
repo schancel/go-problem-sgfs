@@ -1,0 +1,53 @@
+(;GE[best move]DI[1d]DP[16]SO[Hans]CO[9]
+AW[mb][nc][nd][od][qd][oe][pe][of][qf][pg]
+AB[lb][nb][mc][oc][pc][pd][rd][qe][re]TR[pg]
+LB[of:1][rd:2][nc:3][nb:4][mb:5][mc:6][nd:7][lb:8]PL[W]
+C[Black played tenuki after the marked white move. Then white proceeds with 1 to 7. Black 8     is an overplay. White to play.
+]
+(;W[ob];B[ma]
+(;W[qc];B[pb]
+(;W[qb];B[oa]
+(;W[rc];B[sb]
+(;W[rf];B[sc]
+(;W[sd];B[se];W[sf];B[sd];W[rb]C[RIGHT
+])
+
+(;W[se];B[sd])
+)
+
+(;W[sd];B[sc];W[rf];B[se];W[sf];B[sd];W[rb]C[RIGHT
+])
+
+(;W[sc];B[qa];W[ra];B[sd]
+C[Ko. Since black could have captured white without ko I count this ko as wrong even it is very troublesome for black.
+])
+)
+
+(;W[rb];B[sb]
+(;W[sc];B[rc];W[sa];B[sd]C[Only ko.
+])
+
+(;W[rc];B[sc]C[White looses the capturing race.
+])
+
+(;W[rf];B[rc]C[White looses the capturing race.
+])
+)
+
+(;W[sc];B[rc];W[rb];B[sb];W[sa];B[sd]C[Ko. 
+])
+)
+
+(;W[rc];B[qb];W[rb];B[ra];W[sb];B[sc];W[sd];B[se]C[Only ko.
+])
+)
+
+(;W[pb];B[qc])
+)
+
+(;W[qc];B[pb]C[White looses the capturing race.
+])
+
+(;W[pb];B[qc])
+
+)

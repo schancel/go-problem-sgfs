@@ -1,0 +1,26 @@
+(;GE[elementary]DI[30k]DP[80]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[qp][rp][sp][pq][qq][sq][pr][ps][qs]
+AB[pn][qo][ro][so][op][pp][oq][or][os]C[black to kill: rabbity six
+]
+(;B[rr];W[rs]
+(;B[sr]C[RIGHT
+after white takes black, the shape will only give one eye])
+
+(;B[ss];W[sr])
+(;B[qr];W[sr])
+(;B[rq];W[sr])
+)
+
+(;B[rs];W[rr])
+
+(;B[sr];W[rr])
+
+(;B[ss];W[rr])
+
+)

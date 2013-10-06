@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[5k]DP[35]SO[DarkSycthe]CO[0]AW[bd]AW[ad]AW[ac]AW[ce]AW[bf]AW[bg]AW[bh]AW[ai]AW[bj]AB[bi]AB[ci]AB[ck]AB[cj]AB[bn]AB[cm]AB[ch]AB[cg]AB[bc]AB[bb]AB[ab]AB[cd]AB[cc]AW[de]AB[df]AB[ee]AW[dd]AW[dc]AB[db]AB[ed]AB[ec]AW[eb]AB[cb]AW[da]AW[fb]AW[gc]AW[ea]AW[hb]AB[ef]C[Black to win the capturing race (unconditionally).]AP[goproblems]
+(;B[be];W[ae]
+(;B[cf];W[be]
+(;B[ag]
+(;W[ah]C[CHOICE]
+(;B[bk]C[RIGHT])
+(;B[ak]C[RIGHT])
+(;B[aj];W[ak];B[bk];W[ca];B[aj]C[Only Ko]))
+(;W[ca];B[ah];W[af];B[ah]C[RIGHT]))
+(;B[ah];W[ag]C[White has enough liberties to win the capturing race.])
+(;B[bk];W[ca])
+(;B[ak];W[ca])
+(;B[af];W[ca])
+(;B[aj];W[ca]))
+(;B[ag];W[cf];B[ah];W[ca])
+(;B[af];W[ag];B[cf];W[be]C[White has enough liberties to win the capturing race.])
+(;B[ah];W[cf]C[White has enough liberties to win the capturing race.]))
+(;B[cf];W[be]C[White has enough liberties to win the capturing race.])
+(;B[ae];W[be]C[White has enough liberties to win the capturing race.])
+(;B[bk];W[be]C[White has enough liberties to win the capturing race.])
+(;B[ag];W[be]C[White has enough liberties to win the capturing race.])
+(;B[af];W[be]C[White has enough liberties to win the capturing race.])
+(;B[ak];W[be]C[White has enough liberties to win the capturing race.])
+(;B[ah];W[be]C[White has enough liberties to win the capturing race.])
+(;B[aj];W[be]C[White has enough liberties to win the capturing race.]))

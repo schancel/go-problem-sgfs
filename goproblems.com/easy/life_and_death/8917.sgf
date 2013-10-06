@@ -1,0 +1,36 @@
+(;GE[life and death]DI[6k]DP[39]SO[jocund]CO[7]AB[rs]AB[rr]AB[sr]AB[ss]AB[sq]AW[so]AW[rp]AW[qq]AW[qr]AW[ps]AW[pr]AW[ro]AB[sn]AB[rn]AB[qn]AB[qo]AB[qp]AB[pp]AB[pq]AB[oq]AB[or]AB[os]AW[rq]LB[mi:Seki?]MA[kj]LB[mk:Black T2 Dead?]LB[mj:White dead?]MA[ki]MA[kk]C[Please click the box for the answer you want.CHOICE]AP[goproblems]
+(;B[qs];W[sp]
+(;B[rs];W[sr];B[rr]C[Instruction skipper.RIGHT])
+(;B[sr];W[rs];B[rr]C[Instruction skipper.RIGHT])
+(;B[rr]
+(;W[rs];B[sr]C[Instruction skipper.RIGHT])
+(;W[sr];B[rs]C[Instruction skipper.RIGHT])))
+(;B[sp];W[qs])
+(;B[kj];W[kk]LB[lk:Prove it]
+(;B[sp];W[qs])
+(;B[qs];W[sp]
+(;B[sr];W[rs];B[rr])
+(;B[rs];W[sr];B[rr])
+(;B[rr];W[sr];B[rs])))
+(;B[kk];W[qs];B[sp])
+(;B[ki];W[kj]LB[hm:Yes?]LB[jm:No]LB[nl:If black plays R1 as a ko-threat is Seki still possible?]C[If black plays at R1 as a ko-threat is Seki still possible later?  Click the yes or no lable.]
+(;B[jm])
+(;B[hm];W[im]LB[ml:Please play at R1 and show us the b2bomber then!]C[Please play at R1 and show us the B2-bomber then. :D]
+(;B[qs];W[sp]
+(;B[rs]
+(;W[sr];B[rr]C[RIGHT])
+(;W[rr]LB[ml:If white does this, white dies]C[If white responds here, white dies];B[sr]))
+(;B[sr]
+(;W[rs];B[rr]C[RIGHT]LB[kl:Very Good])
+(;W[ss]C[This move by white kills white];B[rs]))
+(;B[rr];W[rs];B[sr]C[RIGHT]))
+(;B[sp])))
+(;B[mi]C[NOTTHIS])
+(;B[mj]C[NOTTHIS])
+(;B[mk]C[NOTTHIS])
+(;B[li]C[NOTTHIS])
+(;B[lj]C[NOTTHIS])
+(;B[lk]C[NOTTHIS])
+(;B[ni]C[NOTTHIS])
+(;B[nj]C[NOTTHIS])
+(;B[nk]C[NOTTHIS]))

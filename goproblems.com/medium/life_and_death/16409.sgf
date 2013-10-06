@@ -1,0 +1,13 @@
+(;GE[life and death]DI[3k]DP[25]SO[santa c]CO[0]AW[rb]AW[qb]AW[pb]AW[pa]AB[oa]AB[ob]AB[oc]AB[pc]AB[qc]AB[rd]AB[qe]AB[pd]AW[rf]AW[qg]C[Is W safe?]AW[sc]AP[goproblems]
+(;B[ra];W[sd]
+(;B[sb];W[se];B[rc];W[sa]C[nice, a ko!RIGHT])
+(;B[se];W[re]
+(;B[sb];W[sf];B[rc];W[sa]C[nice, a ko!RIGHT])
+(;B[rc];W[sb]))
+(;B[rc];W[sb]MA[re]MA[se])
+(;B[re];W[se]))
+(;B[rc];W[sb]MA[sd]MA[ra])
+(;B[sd];W[ra])
+(;B[sb]
+(;W[rc];B[ra];W[sa]C[nice but the ko is harder than it has to be...RIGHT])
+(;W[sd]C[(W could of course play like this instead, reverting to the main solution path)RIGHT]LB[rc:1]LB[se:2]LB[ra:3]LB[sa:4])))

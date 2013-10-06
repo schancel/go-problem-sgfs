@@ -1,0 +1,9 @@
+(;GE[best move]DI[2d]DP[14]SO[pimapis]CO[0]AB[ks]AB[jr]AB[jq]AB[jp]AB[ms]AB[mr]AB[nq]AB[nr]AB[mp]AB[lp]AB[ko]AB[ln]AW[js]AW[is]AW[ir]AW[iq]AW[ip]AW[jo]AW[np]AW[no]AW[mo]AB[lo]AW[oq]AW[or]AB[os]AW[pp]AW[qq]AW[pq]AW[rr]AB[om]AB[nm]AB[mm]AW[nn]AW[pn]AW[po]AW[rp]AW[rn]AW[qp]AW[ro]AB[pm]AB[qm]AB[rm]AB[sm]AW[sn]AW[io]AW[jn]AW[kn]AW[rs]C[Late yose. Black has closed all territories, but white still have three open ones. The game is close, every point in minus may mean losing the game, so White must choose the best move and moves sequence. ]AP[goproblems]
+(;W[kr];B[kq];W[ls];B[lr];W[ks];B[ps]
+(;W[qn];B[on];W[oo]C[RightRIGHT])
+(;W[on];B[qn]C[Right.RIGHT]))
+(;W[ps];B[kr]
+(;W[on];B[qn]C[];W[ns]C[Wrong. With this sequence white made the same amount of points as in the right sequence but has a ko to win.])
+(;W[qn];B[on];W[oo];B[ns]C[Wrong, White has a point less comparing with the right sequence.]))
+(;W[lq]C[Wrong];B[kr]C[Wrong.];W[ps];B[on];W[oo];B[qn];W[ns])
+(;W[on];B[kr];W[ps];B[qn];W[ns]C[Wrong]))

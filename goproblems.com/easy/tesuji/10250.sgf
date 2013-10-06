@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[7k]DP[40]SO[llel]CO[8]AB[cr]AB[cq]AB[cp]AB[co]AB[dn]AB[en]AB[ep]AW[cn]AW[cm]AW[bo]AW[bp]AW[bq]AW[gr]AW[hq]AW[hp]AW[ho]AW[do]AW[dp]AW[dq]C[Black to save the marked stones]TR[co]TR[cp]TR[cq]TR[cr]AP[goproblems]
+(;B[eo];W[dr]TR[co]TR[cp]TR[cq]TR[cr]C[THe marked stones are dead :(])
+(;B[eq];W[dr]C[The marked stones are dead =(]TR[co]TR[cp]TR[cq]TR[cr])
+(;B[dr];W[eq]
+(;B[fq];W[er]C[:(])
+(;B[er];W[fq]C[=(]))
+(;B[fq];W[dr]C[=(]TR[cp]TR[cq]TR[cr])
+(;B[er]C[this move is a tesuji]
+(;W[eo]C[CHOICE];B[fo];W[eq]
+(;B[fq];W[fp]C[]
+(;B[dr]C[Good!The stones are savedRIGHT])
+(;B[gp];W[fn]C[Just ko.]))
+(;B[fp];W[fq]C[]))
+(;W[eq]C[CHOICE];B[fq];W[eo];B[fo])
+(;W[dr]C[CHOICE]
+(;B[ds]
+(;W[eo]C[CHOICE];B[fo]C[RIGHT])
+(;W[eq]C[CHOICE];B[fq]C[RIGHT]))
+(;B[eo];W[br]C[;(])
+(;B[eq];W[br]C[:(]))))

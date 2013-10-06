@@ -1,0 +1,27 @@
+(;GE[endgame]DI[4k]DP[31]SO[hotcoffee]CO[6]SZ[9]AB[ba]AB[ca]AB[da]AB[ea]AB[eb]AB[fb]AB[ec]AB[gc]AB[ga]AB[hb]AB[ha]AB[ia]AB[ee]AB[fe]AB[ge]AW[fd]AW[hc]AW[hd]AW[he]AW[dc]AW[dd]AW[de]AW[id]AW[ic]AW[if]AW[hf]AW[hg]AW[hh]AW[ih]AW[ff]AW[ef]AW[gf]AW[df]AW[dg]AW[fg]AW[cd]AW[cc]AW[cb]AW[db]AW[ab]AW[bb]AW[be]AW[bf]AW[af]AB[cf]AB[cg]AB[bg]AB[ag]AB[ch]AB[dh]AB[fh]AB[gh]AB[gi]AB[hi]AB[eg]AB[ei]AB[bi]AB[ah]C[Black to play - no prisoners, 0.5 komi, japanese rules.]AB[ce]AW[ad]AP[goproblems]
+(;B[gd]
+(;W[ed]C[CHOICE]
+(;B[fc];W[eh];B[bd];W[bc];B[eg];W[ii];B[eh]C[White gets 5 territory, 2 prisoners, and 0.5 komi = 7.5 points. Black has 7 territory and 1 prisoner = 8 points.Black wins by 0.5! Well Done! G6 was locally worth no points, however it eliminated a vital ko threat in sente.RIGHT])
+(;B[eh];W[fc]C[Black is dead at the top.])
+(;B[bd];W[fc]C[Black is dead at the top.]))
+(;W[eh];B[ed];W[eg]LB[di:A]C[Please play at A];B[di];W[ii]LB[fi:A]C[Please play at A];B[fi]C[White gets 6 territory, 1 prisoner and 0.5 komi = 7.5 points. Black gets 7 territory and 1 prisoner. Black wins by 0.5!RIGHT]))
+(;B[ed]
+(;W[gd]C[CHOICE]
+(;B[fc];W[eh];B[bd];W[bc];B[eg];W[ii];B[eh]C[White gets 5 territory, 2 prisoners, and 0.5 komi = 7.5 points. Black has 7 territory and 1 prisoner = 8 points.Black wins by 0.5! Well Done! E6 was locally worth no points, however it eliminated a vital ko threat in sente.RIGHT])
+(;B[eh];W[fc]C[Black is dead at the top.])
+(;B[bd];W[fc]C[Black is dead at the top.]))
+(;W[eh];B[gd]))
+(;B[eh];W[fc]C[Black is dead at the top.])
+(;B[fc];W[eh]
+(;B[ed];W[eg];B[gd];W[gg]
+(;B[di];W[ii];B[fi]C[White gets 6 territory, 1 prisoner, and 0.5 komi = 7.5 points. Black has 6 territory and 1 prisoner = 7 points.Black loses by 0.5!])
+(;B[fi];W[ii];B[di]C[White gets 6 territory, 1 prisoner, and 0.5 komi = 7.5 points. Black has 6 territory and 1 prisoner = 7 points.Black loses by 0.5!]))
+(;B[gd];W[eg];B[ed])
+(;B[bd];W[bc]
+(;B[eg];W[ed]
+(;B[gd];W[eh]LB[di:A]C[Please play at A];B[di];W[eg]LB[fi:A]C[Please play at A];B[fi];W[ii]C[White gets 5 territory, 3 prisoners, and 0.5 komi = 8.5 points. Black has 5 territory and 1 prisoner = 6 points.Black loses by 1.5!])
+(;B[eh];W[gd]C[White gets 8 territory, 5 prisoners, and 0.5 komi = 13.5 points. Black has 7 territory and 1 prisoner = 8 points.Black loses by 5.5!]))
+(;B[ed];W[eg];B[gd];W[ii]
+(;B[di];W[gg];B[fi]C[White gets 5 territory, 2 prisoners, and 0.5 komi = 7.5 points. Black has 6 territory and 1 prisoner = 7 points.Black loses by 0.5!])
+(;B[fi];W[gg];B[di]C[White gets 5 territory, 2 prisoners, and 0.5 komi = 7.5 points. Black has 6 territory and 1 prisoner = 7 points.Black loses by 0.5!]))))
+(;B[bd];W[fc]C[Black is dead at the top.]))

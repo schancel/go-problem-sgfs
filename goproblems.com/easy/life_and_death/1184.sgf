@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5k]DP[32]SO[BigMetalGuy]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[White]PB[Black]AW[ba][ga][gb][ec][fc][gc][bd][dd][be][ce][ee]AB[cb][eb][fb][bc][cc][dc][cd]C[Black to play to live.]
+(;B[fa]CR[fa]
+;W[da]CR[da]
+;B[ca]LB[da:2][fa:1]CR[ca]C[RIGHT Black 1 is important to get two eyes. Black is alive. ])
+(;B[da]CR[da]
+;W[fa]CR[fa]
+;B[ea]CR[ea]
+;W[ca]LB[da:1][ea:3][fa:2]CR[ca])
+(;B[ab]CR[ab]
+;W[ca]CR[ca]
+(;B[da]CR[da]
+;W[fa]CR[fa]
+;B[ea]CR[ea]
+;W[db]CR[db])
+(;B[ea]CR[ea]
+;W[fa]CR[fa]
+(;B[da]CR[da]
+;W[db]CR[db])
+(;B[bb]CR[bb]
+;W[ad]CR[ad]
+(;B[da]CR[da]
+;W[db]CR[db])
+(;B[aa]CR[aa]
+;W[da]CR[da]
+;B[db]CR[db]
+;W[ca]CR[ca]))))
+(;B[ac]CR[ac]
+;W[ca]CR[ca])
+(;B[ca]CR[ca]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[db]CR[db])
+(;B[da]CR[da]
+;W[fa]CR[fa])
+(;B[db]CR[db]
+;W[fa]CR[fa])))

@@ -1,0 +1,30 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[0]AW[sq]AW[rq]AW[qq]AW[oq]AW[or]AB[nr]AB[nq]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[mr]AB[sr]AW[pq]C[B to move]AP[goproblems]
+(;B[ps];W[os]
+(;B[qr];W[rr];B[rs];W[ss];B[ns];W[qs]C[right, ko!RIGHT])
+(;B[rs];W[qr];B[qs];W[rr];B[ns];W[ss]C[right, ko!RIGHT])
+(;B[rr];W[qr];B[qs];W[rs])
+(;B[qs];W[rs];B[rr];W[qr])
+(;B[ns];W[qr]))
+(;B[os];W[ps]C[]
+(;B[qs];W[ns]
+(;B[qr];W[rr];B[rs]C[White alive by double-ko. (To capture B would need to win both o1-p1 ko and t1-t2 ko)])
+(;B[rr];W[qr])
+(;B[rs];W[qr])
+(;B[ms];W[rs]))
+(;B[qr]
+(;W[rr];B[rs];W[ns];B[qs])
+(;W[rs]LB[rr:1]LB[ns:2]))
+(;B[rs];W[qr]))
+(;B[qs];W[ps]
+(;B[os])
+(;B[qr];W[rr]
+(;B[rs];W[ns]C[White alive by double-ko. (To capture B would need to win both o1-p1 ko and t1-t2 ko)])
+(;B[ns];W[rs]))
+(;B[rr];W[qr])
+(;B[rs];W[qr])
+(;B[ns];W[rs]))
+(;B[rs];W[ps]MA[qr]MA[rr])
+(;B[rr];W[qr])
+(;B[qr];W[rr])
+(;B[pr];W[qr])
+(;B[ns];W[qr]))

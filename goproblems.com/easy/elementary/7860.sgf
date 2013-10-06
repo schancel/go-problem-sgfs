@@ -1,0 +1,32 @@
+(;GE[elementary]DI[4k]DP[29]SO[santa c]CO[7]AB[jf]AB[kf]AB[lf]AB[lg]AB[lh]AB[ig]AB[ih]AB[ii]AB[mi]AB[lj]AB[kj]AB[lk]AB[mk]AW[nk]AW[nj]AW[ni]AW[nh]AW[mh]AW[mg]AW[mf]AW[me]AW[le]AW[ke]AW[je]AW[ie]AW[hf]AW[hg]AW[hh]AW[hi]AW[hj]AW[ij]AW[ik]AW[jk]AW[kk]AW[kl]AW[ll]AW[ml]AW[kh]C[How can Black live?]AP[goproblems]
+(;B[jh]
+(;W[ki]
+(;B[kg]C[Well done! :)CHOICERIGHT])
+(;B[jj];W[li]C[:(])
+(;B[li];W[jj]C[:(])
+(;B[ji];W[kg]C[:(]))
+(;W[kg]
+(;B[ki]
+(;W[mj];B[jj]C[Well done! :)CHOICERIGHT])
+(;W[jj];B[mj]C[Well done! :)CHOICERIGHT]))
+(;B[jj];W[ki]C[Reduced to seki! :(])
+(;B[li];W[jj]C[:(])
+(;B[mj];W[ki]C[Reduced to seki! :(])
+(;B[ji]
+(;W[mj]C[:(])
+(;W[ki]C[:(]))))
+(;B[ki];W[jh]
+(;B[ji];W[mj]C[:(])
+(;B[mj];W[ji];B[jj];W[li]C[:(])
+(;B[jj];W[mj]C[:(])
+(;B[jg];W[mj]C[:(])
+(;B[kg];W[mj]C[:(]))
+(;B[li];W[jj]C[:(])
+(;B[mj];W[jj]C[:(])
+(;B[ji];W[mj]C[:(]TR[kg]TR[jh])
+(;B[jj];W[mj]C[:(]TR[jh]TR[li])
+(;B[kg];W[jh]C[:(])
+(;B[jg];W[ki]C[:(])
+(;B[if];W[jj]
+(;B[ji];W[mj]C[:(]TR[kg]TR[jh])
+(;B[ki];W[mj]C[:(])))

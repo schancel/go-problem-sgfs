@@ -1,0 +1,34 @@
+(;GE[life and death]DI[4k]DP[31]SO[Piccolo]CO[0]AW[fc]AW[ec]AW[gc]AW[hc]AW[ic]AB[gb]AB[hb]AB[ib]AW[jd]AW[mc]AW[nb]AW[pc]AB[kc]AB[lb]AB[me]AB[ne]AB[od]AB[pd]AB[qd]AW[rb]AW[sb]AW[ka]C[Black to live.]AW[bc]AW[dc]AW[eb]AW[fa]AB[fb]AB[ia]AW[id]AW[kd]AB[ld]AB[jc]AB[kb]AB[le]AB[nd]AB[nc]AB[qc]AW[qb]AW[ja]AW[lc]AW[mb]AW[md]AW[oc]AW[pa]AP[goproblems]
+(;B[ob]C[]
+(;W[pb]C[CHOICE];B[ma];W[oa];B[ga];W[na];B[jb];W[la];B[ma];W[la];B[ka]C[Well done !RIGHT])
+(;W[oa]
+(;B[pb]
+(;W[qa];B[la];W[na];B[ga]C[RIGHT])
+(;W[na]
+(;B[qa];W[ra];B[la];W[ga];B[rc];W[ea];B[jb];W[ha];B[ma];W[qa];B[sc]C[RIGHT])
+(;B[la]
+(;W[ga];B[qa];W[ra]
+(;B[jb]
+(;W[ea]
+(;B[rc]C[])
+(;B[ma];W[qa];B[rc];W[ha]))))
+(;W[qa]C[RIGHT]))))
+(;B[ma];W[na]))
+(;W[la];B[jb]
+(;W[oa]
+(;B[pb];W[na]
+(;B[qa];W[ra];B[ma];W[la];B[ka];W[ga];B[rc];W[ea];B[sc];W[ha];B[ma]C[Bad for whiteRIGHT])))
+(;W[na]
+(;B[pb]
+(;W[oa])
+(;W[ga];B[ma];W[la];B[oa]C[RIGHT])))))
+(;B[ma];W[na]
+(;B[ob];W[oa];B[pb];W[la];B[jb];W[ga];B[ma];W[la]
+(;B[qa];W[ra];B[ka];W[ea]
+(;B[rc];W[ha];B[ma];W[qa];B[sc];W[la]C[Ko.]))
+(;B[ka];W[qa];B[rc];W[ea];B[sc];W[ha];B[ma]C[1-step ko.]))
+(;B[jb];W[ga];B[ob];W[oa];B[pb];W[la])
+(;B[ga];W[la]))
+(;B[ga];W[la])
+(;B[la];W[ga])
+(;B[jb];W[ga]))

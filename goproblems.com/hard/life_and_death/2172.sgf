@@ -1,0 +1,443 @@
+(;GE[life and death]DI[6d]DP[1]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[temp]
+
+AB[or][oq][pq][rq][sr][rs][rn][rm][np][oo][mn][pl][ql][rk][om]
+[nl][lm][ln][pj][qk][os][jr][ir][qq][nm][pi][hq][gq][io][in]
+[jm][kl][hm][gn][fo][ep][eq][ll][nk][ph][fq][kj][lj][em][gl]
+[gk][fj][ek][dl][hj][hi][fi][ei][ck][bl][dn][do][am][bn][dp]
+[bp][ap][ar][cr][bs][gr][hs][js][mr][ms][jj][nh][nf][ld][gs]
+[qi][rh][sk][qh][pf][qf][qg][qe][pd][oe][mp][lp][oc][kp][mc]
+[jp][ob][mh][bh][de][gc][hc][ec][eb][fc][cg][dc][ef][ib][gd]
+[df][ig][ce][an]AW[lq][mq][nq][nr][op][pp][qp][ro][sp][qn][pn]
+[po][qm][ol][kq][pm][ok][mm][ml][pk][jq][kr][ns][oj][iq][hp]
+[gp][hn][im][jl][fp][hl][hk][mk][oi][km][eo][dm][fk][gj][jk]
+[gi][ij][ii][fh][gg][ej][eh][cj][en][cm][cn][co][cp][dr][dq]
+[cs][er][fr][ch][bj][kh][mg][me][kc][mi][mj][fs][pb][qd][rf]
+[ri][qj][rj][sl][rg][sh][re][qc][no][mo][ge][jb][ko][nd][lb]
+[ni][li][lo][qa][sf][rd][mf][lg][hd][bc][fd][ab][ba][bf][be]
+[bd][ea][da][ai][cf][af][fb][ji][hf][eg][ic][cc][cb][ak][ee]C[White must save the N3 and Q6 groups.]
+
+(;W[ip];B[jo]
+(;W[jn];B[ho];W[go];B[hn];W[fn];B[gm]
+(;W[fl];B[gh]
+(;W[gj];B[gi];W[fm];B[gj]
+(;W[di];B[hh]
+(;W[ih];B[hg];W[jg];B[if];W[ie];B[jf];W[kf];B[je];W[jd];B[ke]
+
+(;W[le];B[kd]LB[lc:a][md:b]C[Is 'a' or 'b' better shape?]
+(;W[md];B[lc];W[nc];B[mb];W[nb];B[ma]LB[la:a]C[please play at 'a']
+;W[la];B[dj];W[na];B[ej]
+(;W[el];B[dk]LB[bk:a][cl:b][kn:c][nn:d][on:e]C[Choose from 'c', 'd' and 'e' if you think white is already safe on the lower side or pick the better of the moves 'a' and 'b' otherwise.]
+
+(;W[bk];B[cl]LB[bm:a]C[please play at 'a'];W[bm];B[al];W[bo]
+;B[ao]
+(;W[bq];B[aq]LB[cq:a][ds:b][ff:c][kn:d][nn:e][on:f]C[If you think white is safe at the bottom choose from 'd', 'e' and 'f' otherwise play 'a', 'b' or 'c'.]
+
+(;W[kn]
+(;B[ds];W[cq];B[br]LB[fg:a][ff:b][gf:c][nn:d][on:e][ks:f]C[Please choose from a-f.]
+
+(;W[ff];B[ks];W[ls]C[The white group at the bottom is safe for now. RIGHT]
+)
+(;W[fg];B[ja];W[kb];B[ff];W[gf];B[ia]C[White is caught short of liberties.]
+)
+(;W[gf];B[ja];W[kb];B[ff];W[fg];B[ia]C[White is caught short of liberties.]
+)
+(;W[nn];B[ff]C[White must protect the double peep.])
+(;W[on];B[ff]C[White must protect the double peep.])
+(;W[ks];B[ff]C[White must protect the double peep. L1 only allows white to get the black G11 stones when they have no other escape route.]
+))
+(;B[ff];W[cq]
+(;B[fg];W[br];B[gf];W[on])
+(;B[ds];W[br])))
+(;W[cq];B[kn]
+(;W[br];B[nn]
+(;W[rp];B[si])
+(;W[si];B[rp])
+(;W[sn];B[rl]
+(;W[so];B[si])
+(;W[rp];B[si])
+(;W[si];B[rp]))
+(;W[so];B[si]))
+(;W[on];B[nn]
+(;W[br];B[oo]
+(;W[no];B[si])
+(;W[rp];B[si])
+(;W[si];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))
+(;W[sn];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp];W[no];B[sq];W[sg];B[sm])))
+(;W[oo];B[rp])
+(;W[rp];B[oo]
+(;W[br];B[si])
+(;W[si];B[ds];W[br];B[cs]))
+(;W[si];B[oo]
+(;W[rp];B[ds])
+(;W[br];B[rp])
+(;W[no];B[ds]))
+(;W[sn];B[oo]
+(;W[no];B[ds])
+(;W[rp];B[ds])
+(;W[si];B[ds])
+(;W[sm];B[ds])
+(;W[br];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm])))
+(;W[rp];B[si]
+(;W[on];B[nn])
+(;W[br];B[nn]))
+(;W[si];B[rp]
+(;W[br];B[nn])
+(;W[on];B[nn];W[br];B[oo]))
+(;W[sn];B[rl]
+(;W[so];B[si])
+(;W[si];B[rp];W[on];B[nn]
+(;W[sg];B[oo];W[no];B[ds])
+(;W[so];B[sq]))
+(;W[rp];B[si])))
+(;W[ds];B[kn]
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[si])
+(;W[si];B[rp]
+(;W[sn];B[rl]
+(;W[so];B[sq])
+(;W[sg];B[oo];W[no];B[sm]C[ko, black takes first (black has large threats at L1, B2, M2 or L1, C3, C3, M2)]
+))
+(;W[sg];B[oo];W[no];B[sm]
+(;W[sj];B[rl];W[sn];B[so]C[ko, black takes first])
+(;W[sn];B[rl];W[sj];B[so]C[ko, black takes first])
+(;W[so];B[sq])))
+(;W[sn];B[rl]
+(;W[oo];B[rp])
+(;W[rp];B[si])
+(;W[si];B[rp]
+(;W[so];B[sq])
+(;W[sg];B[oo];W[no];B[sm]C[ko, black takes first]))
+(;W[so];B[si])))
+(;W[rp];B[si])
+(;W[si];B[rp]
+(;W[on];B[nn]
+(;W[sn];B[rl]
+(;W[so];B[sq])
+(;W[sg];B[oo];W[no];B[sm]C[ko, black takes first]))
+(;W[sg];B[oo];W[no];B[sm]
+(;W[sn];B[rl]C[ko, black takes first])
+(;W[sj];B[rl]
+(;W[sn]C[ko, black takes first])
+(;W[so];B[sq]))
+(;W[so];B[sq])))
+(;W[sn];B[on])
+(;W[sg];B[on]))
+(;W[sn];B[rl]
+(;W[rp];B[si])
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[si])
+(;W[si];B[rp]
+(;W[so];B[sq])
+(;W[sg];B[oo];W[no];B[sm]C[ko, black takes first]))
+(;W[so];B[si]))
+(;W[si];B[rp]
+(;W[sg];B[on])
+(;W[on];B[nn]
+(;W[sg];B[oo];W[no];B[sm]C[ko, black takes first])
+(;W[so];B[sq])))))
+(;W[ff];B[kn]
+(;W[ds];B[si])
+(;W[cq];B[nn]
+(;W[br];B[si])
+(;W[ds];B[si])
+(;W[si];B[ds])
+(;W[rp];B[ds])
+(;W[sn];B[ds]))
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[si])
+(;W[si];B[ds])
+(;W[sn];B[si];W[sm];B[ds]))
+(;W[rp];B[ds])
+(;W[sn];B[ds])
+(;W[si];B[ds]))
+(;W[nn];B[kn]
+(;W[on];B[ds];W[cq];B[br]
+(;W[jm];B[ff]C[black catches some stones and the lower group dies]
+)
+(;W[ff];B[jm]))
+(;W[ds];B[on]
+(;W[rp];B[si])
+(;W[si];B[rp])
+(;W[sn];B[rp]))
+(;W[cq];B[on]
+(;W[br];B[si])
+(;W[ds];B[si])
+(;W[rp];B[si])
+(;W[sn];B[rp])
+(;W[si];B[rp])))
+(;W[on];B[ds];W[cq];B[br]
+(;W[ff];B[kn];W[jm];B[nn];W[oo];B[rp])
+(;W[nn];B[ff]C[black catches some stones])
+(;W[kn];B[ff]C[black catches some stones and kills the lower group]
+)))
+(;W[cq];B[kn]
+(;W[br];B[si])
+(;W[bq];B[nn]
+(;W[rp];B[si])
+(;W[si];B[rp])
+(;W[sn];B[rl];W[si];B[rp]))
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[si])
+(;W[sn];B[oo]
+(;W[no];B[ds])
+(;W[br];B[rp];W[no];B[rl]
+(;W[si];B[sq];W[sg];B[sm])
+(;W[so];B[si]))
+(;W[bq];B[rp];W[no];B[rl]
+(;W[so];B[si])
+(;W[si];B[sq];W[sg];B[sm])))
+(;W[si];B[oo]
+(;W[sn];B[ds])
+(;W[no];B[ds])
+(;W[rp];B[ds])
+(;W[br];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sg];B[so])
+(;W[sn];B[rl];W[sg];B[sm]))
+(;W[bq];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))))
+(;W[rp];B[si])
+(;W[sn];B[nn]
+(;W[sm];B[ds])
+(;W[br];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp]))
+(;W[bq];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp])))
+(;W[si];B[nn]
+(;W[br];B[rp])
+(;W[bq];B[rp])
+(;W[rp];B[ds])
+(;W[sn];B[ds])
+(;W[sg];B[ds])))
+(;W[ds];B[cq])
+(;W[kn];B[cq]))
+(;W[cl];B[bk];W[bm];B[al];W[bo];B[ao];W[bq];B[aq]LB[ff:a][bi:b]
+C[Close but white will not have time to protect against both black 'a' and 'b'. Compare with part 3 for how black can do better than ko after 'b' now.]
+)
+(;W[kn];B[bq]C[black isn't fooled into playing C3])
+(;W[nn];B[bq]C[black doesn't fall into the trap at C3])
+(;W[on];B[bq]C[black sees the danger of playing C3]))
+(;W[cl];B[kn]
+(;W[el];B[nn]
+(;W[rp];B[si])
+(;W[si];B[rp])
+(;W[sn];B[rl]
+(;W[si];B[rp])
+(;W[rp];B[si])))
+(;W[rp];B[nn]
+(;W[el];B[si])
+(;W[sn];B[el])
+(;W[si];B[el]))
+(;W[sn];B[nn]
+(;W[sm];B[el])
+(;W[el];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp]))
+(;W[si];B[el])
+(;W[rp];B[el]))
+(;W[si];B[nn]
+(;W[rp];B[el])
+(;W[sn];B[el])
+(;W[sg];B[el])
+(;W[el];B[rp]))
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[oo]
+(;W[sn];B[el])
+(;W[si];B[el])
+(;W[el];B[si]))
+(;W[el];B[oo]
+(;W[rp];B[si])
+(;W[sn];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm])
+(;W[si];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))
+(;W[no];B[si]))
+(;W[sn];B[oo]
+(;W[rp];B[el])
+(;W[sm];B[el])
+(;W[si];B[el])
+(;W[no];B[el])
+(;W[el];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm]))
+(;W[si];B[oo]
+(;W[rp];B[el])
+(;W[sn];B[el])
+(;W[sg];B[el])
+(;W[el];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))))))
+(;W[lc];B[md];W[nc];B[mb];W[nb];B[ma]LB[la:a]C[please play at 'a']
+;W[la];B[dj];W[na];B[ej];W[el];B[dk]
+(;W[bk];B[cl]LB[bm:a]C[please play at 'a'];W[bm];B[al];W[bo]
+;B[ao];W[bq];B[aq]LB[ne:a][kn:b]C[Close but white will need to protect at both 'a' and 'b'. See part 2 to see why more clearly.]
+)
+(;W[cl];B[bk];W[bm];B[al];W[bo];B[ao];W[bq];B[aq]LB[aj:a][ff:b]
+[kn:c][ne:d]C[white has left too many weaknesses behind.])))
+(;W[kd];B[le]LB[el:a][on:b]C[black has the squeeze at 'a' or wins the capturing race at 'b']
+))
+(;W[hg];B[ih]
+(;W[kn];B[el];W[fo];B[ks])
+(;W[el];B[on]
+(;W[kn];B[rp])
+(;W[nj];B[nn]C[this only adds another 4 stones to the prisoner pile]
+)
+(;W[sn];B[rp])
+(;W[si];B[rp])
+(;W[rp];B[sn]
+(;W[kn];B[sq]
+(;W[rl];B[sm]C[black wins here];W[sl];B[rl];W[si];B[so])
+(;W[si];B[so])
+(;W[nj];B[nn];W[jm];B[so]))
+(;W[rl];B[sm]
+(;W[sl];B[sq];W[si];B[rl];W[sg];B[so])
+(;W[rl];B[sq];W[si];B[sl];W[sg];B[so])
+(;W[si];B[sq]C[black wins]))
+(;W[si];B[sq]C[black wins here])
+(;W[if];B[kn]C[black wins here])))))
+(;W[hh];B[di]
+(;W[dj];B[el];W[fo];B[ks])
+(;W[dh];B[el];W[fo];B[ks])
+(;W[ci];B[el];W[fo];B[ks])
+(;W[el];B[on]
+(;W[kn];B[rp])
+(;W[si];B[rp])
+(;W[sn];B[rp])
+(;W[rp];B[sn]
+(;W[kn];B[sq]C[black wins])
+(;W[rl];B[sm]
+(;W[sl];B[sq];W[si];B[rl];W[sg];B[so])
+(;W[rl];B[sq];W[si];B[sl];W[sg];B[so])
+(;W[si];B[sq]C[black wins]))
+(;W[si];B[sq]C[black will win]))
+(;W[nj];B[nn]C[4 extra prisoners for black]))
+(;W[kn];B[el];W[fo];B[ks])))
+(;W[fm];B[gj]
+(;W[kn];B[el];W[fo];B[ks])
+(;W[el];B[on]
+(;W[kn];B[rp])
+(;W[sn];B[rp])
+(;W[si];B[rp])
+(;W[nj];B[nn]C[4 extra prisoners for black])
+(;W[rp];B[sn]
+(;W[kn];B[sq]C[black wins])
+(;W[rl];B[sm]C[black will win])
+(;W[si];B[sq]C[black wins])))))
+(;W[fm];B[fl];W[el];B[gh]
+(;W[gj];B[gi]C[this exchange doesn't help white])
+(;W[kn];B[bq]
+(;W[cl];B[bk];W[dk];B[dj])
+(;W[cq];B[ds]
+(;W[cl];B[bk];W[dk];B[dj])
+(;W[bm];B[bk]))
+(;W[bm];B[bk]))
+(;W[em];B[bq]
+(;W[cl];B[bk];W[dk];B[dj])
+(;W[bm];B[bk])
+(;W[cq];B[ds]
+(;W[cl];B[bk];W[dk];B[dj])
+(;W[bm];B[bk])))
+(;W[bq];B[on]C[black wins the capturing race and kills the right side unconditionally, he could also have fought the ko at E7.]
+)
+(;W[cl];B[on]C[black wins the capturing race against the Q6 stones]
+)
+(;W[cq];B[on]C[black wins the capturing race aginst the Q6 stones]
+)
+(;W[ds];B[on]C[black wins the capturing race against the Q6 stones]
+)))
+(;W[ho];B[il])
+(;W[gm];B[kn]
+(;W[on];B[nn]
+(;W[oo];B[rp])
+(;W[rp];B[oo]
+(;W[ho];B[si])
+(;W[go];B[si])
+(;W[sn];B[ho])
+(;W[si];B[ho]))
+(;W[sn];B[oo]
+(;W[ho];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm])
+(;W[go];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm]))
+(;W[si];B[oo]
+(;W[ho];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))
+(;W[go];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))
+(;W[sn];B[ho])
+(;W[rp];B[ho])
+(;W[sg];B[ho]))
+(;W[go];B[si])
+(;W[ho];B[oo]
+(;W[rp];B[si])
+(;W[no];B[si])
+(;W[sn];B[rp];W[no];B[rl];W[si];B[sq];W[sg];B[sm])
+(;W[si];B[rp];W[no];B[sq]
+(;W[so];B[sn])
+(;W[sn];B[rl];W[sg];B[sm])
+(;W[sg];B[so]))))
+(;W[nn];B[on]LB[ho:a][rp:b]C[white can't defend 'a' and 'b']
+)
+(;W[rp];B[nn]
+(;W[ho];B[si])
+(;W[go];B[si])
+(;W[si];B[ho]))
+(;W[sn];B[nn]
+(;W[ho];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp]))
+(;W[go];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp]))
+(;W[sm];B[ho]))
+(;W[si];B[nn]
+(;W[rp];B[ho])
+(;W[sn];B[ho])
+(;W[ho];B[rp])
+(;W[go];B[rp]))
+(;W[ho];B[nn]
+(;W[rp];B[si])
+(;W[si];B[rp])
+(;W[sn];B[rl]
+(;W[rp];B[si])
+(;W[si];B[rp])))
+(;W[go];B[si]
+(;W[sn];B[rl]
+(;W[on];B[nn];W[oo];B[rp])
+(;W[rp];B[nn]))
+(;W[rp];B[nn])
+(;W[on];B[nn]
+(;W[sn];B[rl]
+(;W[oo];B[rp])
+(;W[rp];B[oo]))
+(;W[oo];B[rp])
+(;W[rp];B[oo])))))
+(;W[jo];B[ip]
+(;W[ho];B[il])
+(;W[jn];B[ho]))
+(;W[ho];B[il])
+(;W[jn];B[ip]
+(;W[jo];B[ho])
+(;W[ho];B[go])
+(;W[gm];B[ho]))
+(;W[gm];B[ip])
+(;W[on];B[il])
+(;W[nn];B[il]))

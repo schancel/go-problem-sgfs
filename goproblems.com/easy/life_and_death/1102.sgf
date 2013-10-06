@@ -1,0 +1,13 @@
+(;GE[life and death]DI[18k]DP[65]SO[loewenherz]CO[7] 
+AB[ps][pr][oq][nq][mq][lr][kq][jq][iq][hq][gq][fr][fs][fq][lq][pq]
+AW[os][or][nr][mr][ls][kr][jr][ir][is][hr][gr][gs]
+C[Black to kill the whole group]
+(;B[ms];W[ks]C[You capture four stones, but the rest of the group is alive.])
+(;B[js];W[ms]C[White lives.])
+(;B[ns];W[ms]C[White lives.])
+(
+;B[ks];W[js]
+(;B[ns];W[ms]C[White lives.])
+(;B[ms]C[RIGHTWhite is dead!])
+)
+)

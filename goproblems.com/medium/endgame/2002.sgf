@@ -1,0 +1,136 @@
+(;GE[endgame]DI[3d]DP[10]SO[ferdi]CO[8]SZ[7]
+AW[dc][gc][cd][dd][ed][fd][gd][ce][ee][af][bf][df][ag][dg]AB[db][ac][bc][cc][ec][fc][bd][ae][be][fe][ge][ef][gf][eg][fg]C[No komi, no prisoners - White to play and draw!]PL[W]
+(;W[eb]CR[eb]
+(;B[fb]CR[fb]
+(;W[fa]CR[fa]
+;B[ea]CR[ea]
+;W[gb]CR[gb]
+(;B[ga]CR[ga]
+;W[cb]CR[cb]
+;B[bb]CR[bb]
+(;W[fa]CR[fa]
+;B[cf]CR[cf]
+(;W[cg]CR[cg]
+;B[ga]CR[ga]
+;W[ca]CR[ca]
+(;B[fa]CR[fa]
+;W[ba]CR[ba]C[With this, the ko fight ends in a seki and the game as a jigo RIGHT])
+(;B[ba]CR[ba]
+;W[fa]CR[fa]
+;B[da]CR[da]
+;W[eb]CR[eb]C[White wins by one point! Black should accept the seki....]))
+(;W[eb]CR[eb]
+;B[bg]CR[bg]
+;W[da]CR[da]
+;B[ba]CR[ba]
+;W[ca]CR[ca]C[Black wins by one point!]))
+(;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[fa]CR[fa]
+;B[cf]CR[cf]
+(;W[cg]CR[cg]
+;B[ga]CR[ga]C[White has no ko threat left. ])
+(;W[eb]CR[eb]
+;B[bg]CR[bg]
+;W[da]CR[da]C[Black wins by one point.])))
+(;B[eb]CR[eb]
+;W[cb]CR[cb]
+;B[ga]CR[ga]
+;W[ca]CR[ca]C[In this variation, Black will lose!]))
+(;W[cb]CR[cb]
+;B[ea]CR[ea]
+;W[bb]CR[bb]
+;B[ab]CR[ab]
+(;W[ba]CR[ba]
+;B[gb]CR[gb]C[This is awful for white])
+(;W[gb]CR[gb]
+;B[ba]CR[ba]
+;W[fa]CR[fa]
+;B[ga]CR[ga]C[Again, there is no white ko threat]))
+(;W[gb]CR[gb]
+(;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[ga]CR[ga]
+;W[cb]CR[cb]
+;B[bb]CR[bb]
+(;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[fa]CR[fa]
+;B[cf]CR[cf]
+(;W[cg]CR[cg]
+;B[ga]CR[ga]C[White has no ko threats left.])
+(;W[eb]CR[eb]
+;B[bg]CR[bg]
+;W[da]CR[da]C[Black wins by one point.]))
+(;W[fa]CR[fa]
+;B[cf]CR[cf]
+(;W[eb]CR[eb]
+;B[bg]CR[bg]
+;W[da]CR[da]
+;B[ba]CR[ba]
+;W[ca]CR[ca]C[Black wins by one point.])
+(;W[cg]CR[cg]
+;B[ga]CR[ga]
+;W[ca]CR[ca]
+;B[fa]CR[fa]
+;W[ba]CR[ba]C[RIGHT
+jigo
+])))
+(;B[fa]CR[fa]
+;W[cb]CR[cb]
+(;B[da]CR[da]
+;W[ca]CR[ca]
+;B[ea]CR[ea]
+;W[ga]CR[ga]C[White wins.])
+(;B[ea]CR[ea]
+;W[bb]CR[bb]
+;B[ab]CR[ab]
+;W[ba]CR[ba]
+(;B[da]CR[da]
+;W[ga]CR[ga]C[seki. White wins by one point.])
+(;B[ca]CR[ca]
+;W[da]CR[da]
+;B[cf]CR[cf]
+;W[eb]CR[eb]
+;B[bg]CR[bg]
+;W[ga]CR[ga]C[White wins by four points.]))))
+(;W[ea]CR[ea]
+;B[fa]CR[fa]
+(;W[cb]CR[cb]
+;B[ca]CR[ca]C[Black wins.])
+(;W[gb]CR[gb]
+;B[da]CR[da]
+;W[cb]CR[cb]
+;B[ca]CR[ca]C[White's attempt comes to naught.])))
+(;B[da]CR[da]
+;W[fb]CR[fb]
+;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[cb]CR[cb]C[White wins by two points! Black d7 was wrong....]))
+(;W[fb]CR[fb]
+;B[eb]CR[eb]C[This is hopeless])
+(;W[cb]CR[cb]
+;B[eb]CR[eb]
+(;W[bb]CR[bb]
+;B[ab]CR[ab]C[White can't play this way!]
+;W[ba]CR[ba]
+(;B[ca]CR[ca]
+;W[da]CR[da]
+;B[ea]CR[ea]
+(;W[fa]CR[fa]
+;B[ca]CR[ca]C[Black wins the ko and the game!])
+(;W[fb]CR[fb]
+;B[ca]CR[ca]C[White has no ko threat. Black wins the ko and the game.]))
+(;B[gb]CR[gb]
+;W[fa]CR[fa]
+;B[ea]CR[ea]C[This is a seki, and, since Black can capture a stone at f7, also a jigo, so White is satisfied; but instead of playing g6, Black can do better!]))
+(;W[ca]CR[ca]
+;B[bb]CR[bb]
+(;W[ba]CR[ba]
+;B[da]CR[da])
+(;W[ea]CR[ea]
+;B[ba]CR[ba])
+(;W[da]CR[da]
+;B[ba]CR[ba])
+(;W[fb]CR[fb]
+;B[ba]CR[ba]))))

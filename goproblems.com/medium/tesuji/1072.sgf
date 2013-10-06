@@ -1,0 +1,72 @@
+(;GE[tesuji]DI[1k]DP[18]SO[ehubin]CO[5]AW[na]AW[lb]AW[mb]AW[ob]AW[pb]AW[qb]AW[jc]AW[kc]AW[qc]AW[rc]AB[nb]AB[rb]AB[lc]AB[mc]AB[nc]AB[oc]AB[pc]AB[sc]AB[pd]AB[qd]AB[rd]AB[sd]C[Black to try something...]
+(;B[kb]
+(;W[jb]
+(;B[oa];W[pa]
+(;B[sa];W[ka]
+(;B[qa]C[ko is the best black can do.RIGHT])
+(;B[ma];W[la];B[qa]C[Direct ko, White takes first.RIGHT]))
+(;B[ma];W[la]
+(;B[sa];W[ka])
+(;B[qa];W[ra])
+(;B[sb];W[ka])
+(;B[ra];W[sb]))
+(;B[ra];W[sb])
+(;B[sb];W[ka]))
+(;B[qa];W[oa])
+(;B[ma];W[la]
+(;B[qa];W[oa])
+(;B[oa];W[pa]))
+(;B[ra];W[oa])
+(;B[sb];W[oa])
+(;B[pa];W[qa])
+(;B[la];W[ka])
+(;B[ka];W[ja]
+(;B[qa];W[oa])
+(;B[oa];W[pa];B[sa];W[la];B[qa]C[Direct ko, White takes first.RIGHT])
+(;B[ma];W[la])
+(;B[la];W[ma])
+(;B[pa];W[qa])
+(;B[ra];W[oa])))
+(;W[oa]C[White won't play like this.];B[ma];W[la];B[ka]C[RIGHT]))
+(;B[ma];W[la]
+(;B[oa];W[pa]
+(;B[sa];W[ma]
+(;B[qa];W[ra]LB[kb:A]C[Direct ko, White takes first. White can use P19 as an internal threat (Black will answer at A) but will lose more by it if Black wins the ko anyway. Black cannot use A for a threat; White would live in the corner.RIGHT])
+(;B[kb];W[jb]
+(;B[qa]C[Direct ko, White takes first.RIGHT])
+(;B[ka];W[ja]))
+(;B[sb];W[kb]))
+(;B[ra];W[sb]
+(;B[kb];W[jb])
+(;B[sa];W[kb]))
+(;B[sb];W[kb])
+(;B[kb];W[jb])
+(;B[qa];W[ra]))
+(;B[qa];W[oa])
+(;B[sa];W[oa])
+(;B[pa];W[qa])
+(;B[kb];W[jb])
+(;B[ra];W[oa]))
+(;B[oa];W[pa]
+(;B[sa]
+(;W[ma]
+(;B[qa];W[ra]LB[kb:A]C[Direct ko, White takes first. White can use P19 as an internal threat (Black will answer at A) but will lose more by it if Black wins the ko anyway.RIGHT])
+(;B[kb];W[jb]
+(;B[qa]C[Direct ko, White takes first.CHOICERIGHT])
+(;B[ka];W[ja];B[qa]C[Direct ko, White takes first. RIGHT])))
+(;W[kb]
+(;B[qa]C[Direct ko, White takes first.CHOICERIGHT])
+(;B[ma];W[la];B[qa]C[Direct ko, White takes first.RIGHT])))
+(;B[ra];W[sb];B[sa];W[kb]C[White is connected])
+(;B[ma];W[la])
+(;B[kb];W[jb])
+(;B[sb];W[kb])
+(;B[qa];W[ra]
+(;B[sb];W[kb])
+(;B[kb];W[sb])
+(;B[ma];W[sb])))
+(;B[qa];W[oa]C[White is connected])
+(;B[ra];W[oa]C[White is connected])
+(;B[sb];W[oa])
+(;B[sa];W[oa]C[Right idea, wrong timing.])
+(;B[pa];W[qa]))

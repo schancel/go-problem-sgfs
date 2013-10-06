@@ -1,0 +1,49 @@
+(;GE[life and death]DI[3d]DP[9]SO[Kijana]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[5.50]TM[]
+PW[White]PB[Black]AW[oa][eb][fb][hb][nb][ob][ec][gc][ic][mc][oc][pc][qc][rc][sc][bd][cd][dd][id][jd][kd][ld][md][be][ee][af][bg][cg][ch][ci][ei][dj][ck][dk][dl][cm][em][cn][bo][co][qo][ep][fp][gp][hp][ip][qp][cq][eq][iq][kq][oq][pq][dr][jr]AB[pa][db][ib][jb][lb][mb][pb][qb][rb][sb][bc][cc][dc][jc][kc][lc][bh][bi][bj][cj][bk][bl][cl][bm][bn][rp][fq][gq][hq][qq][er][ir][qr][es][is]C[Black to live with as many groups as possible, with optimum result - center can be ignored.]
+(;B[gr]CR[gr]
+;W[an]CR[an]C[Comb formation is alive, so playing G2 is worth -1 in gote + white kills B6 group])
+(;B[gs]CR[gs]
+;W[an]CR[an]C[Comb formation is alive, so playing G1 is worth -1 in gote + white kills B6 group])
+(;B[sq]CR[sq]
+;W[an]CR[an]C[Tripod group is alive, so playing T3 is worth -1 in gote + white kills B6 group])
+(;B[sr]CR[sr]
+;W[an]CR[an]C[Tripod group is alive, so playing T2 is worth -1 in gote + white kills B6 group])
+(;B[rr]CR[rr]
+;W[an]CR[an]C[Tripod group is alive, so playing S2 is worth -1 in gote + white kills B6 group])
+(;B[ra]CR[ra]
+;W[an]CR[an]C[B6 group is worth much more than T18 group])
+(;B[bb]CR[bb]
+;W[an]CR[an]C[L group is dead - so after playing B18 black needs one more move to live in the corner - in that time white can finish off B6 and L17 groups])
+(;B[ca]CR[ca]
+;W[an]CR[an]C[L group is dead - so after playing B18 black needs one more move to live in the corner - in that time white can finish off B6 and L17 groups])
+(;B[ba]CR[ba]
+;W[an]CR[an]C[L group is dead - so after playing B18 black needs one more move to live in the corner - in that time white can finish off B6 and L17 groups])
+(;B[an]CR[an]
+;W[ah]CR[ah]
+;B[ai]CR[ai]
+;W[ka]CR[ka]
+(;B[ra]CR[ra]C[RIGHT])
+(;B[sq]CR[sq]
+;W[ra]CR[ra])
+(;B[rr]CR[rr]
+;W[ra]CR[ra])
+(;B[sr]CR[sr]
+;W[ra]CR[ra])
+(;B[bb]CR[bb]
+;W[ra]CR[ra])
+(;B[ca]CR[ca]
+;W[ra]CR[ra])
+(;B[ba]CR[ba]
+;W[ra]CR[ra])
+(;B[gr]CR[gr]
+;W[ra]CR[ra])
+(;B[gs]CR[gs]
+;W[ra]CR[ra])
+(;B[ak]CR[ak]
+;W[ra]CR[ra])
+(;B[al]CR[al]
+;W[ra]CR[ra]))
+(;B[ka]CR[ka]
+;W[an]CR[an]C[B6 group is worth more than L17 group])
+(;B[ah]CR[ah]C[Wrong - A6 has bigger endgame value than A12]))

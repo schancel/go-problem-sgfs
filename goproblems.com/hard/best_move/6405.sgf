@@ -1,0 +1,19 @@
+(;GE[best move]DI[6d]DP[1]SO[Spirit]CO[5]AB[oc]AB[od]AB[oe]AB[pe]AB[pf]AB[qc]AB[qe]AB[qg]AB[qh]AB[qi]AB[qk]AB[rc]AB[rg]AB[ri]AB[rj]AW[nf]AW[pd]AW[pg]AW[ph]AW[pi]AW[pj]AW[qd]AW[qf]AW[qj]AW[rd]AW[re]AW[rf]AW[rk]AW[sh]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[sk]MN[2];B[sg]
+(;W[sj];B[rl];W[ql];B[pk]
+(;W[rm];B[pc];W[si];B[sd]
+(;W[ok];B[pl]
+(;W[sl];B[se]
+(;W[om]C[White captures 3 stones now. And if black doesn't play Q8 the capture is sente for white.RIGHT])
+(;W[pm]C[Black get's a ladder block this way. Playing at A would have captured Black unconditionally.]LB[pm:16]LB[om:A]))
+(;W[qm];B[ol]))
+(;W[sl];B[se]
+(;W[ok]C[Close, but a change in move order would give an even better result.])
+(;W[ol]C[Close, but a slight change would give an even better result.])))
+(;W[pl];B[ok];W[rm];B[pc];W[si];B[sd]))
+(;W[sf];B[pc])
+(;W[ql];B[pc]C[White has a better way of playing.]))
+(;W[ql];B[sg]C[White has a better way of playing])
+(;W[rl];B[sg]C[White has a better way of playing.])
+(;W[sj];B[rl];W[sk];B[sl];W[si];B[sg])
+(;W[sg];B[rl]C[White has a better way of playing]))

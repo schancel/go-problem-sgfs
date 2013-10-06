@@ -1,0 +1,7 @@
+(;GE[elementary]DI[6k]DP[39]SO[ellbur]CO[8]AB[nm]AB[om]AB[pm]AB[ql]AB[rl]AB[sl]AW[sm]AW[rm]AW[qm]AW[pn]AW[mm]AW[lm]AW[nn]AW[on]AB[ml]AB[ll]AB[nj]AB[pi]AB[rj]AW[qo]AW[mp]AW[pl]TR[pl]C[White played the marked stone as a ko threat. Make the best response]AB[qj]AB[sj]AP[goproblems]
+(;B[nl]C[White has no more ko threats hereRIGHT])
+(;B[ol];W[ok];B[nl]LB[ok:K]C[K was another ko threat for white])
+(;B[pk];W[nl];B[ol];W[ok]LB[nl:k]LB[ok:k]C[k were ko threats for white.])
+(;B[ok];W[ol];B[nl]LB[ol:k]C[k was another ko threat for white])
+(;B[nk];W[nl];B[ol];W[ok]LB[ok:k]LB[pl:k]C[k were ko threats for white.])
+(;B[mk];W[nl]))

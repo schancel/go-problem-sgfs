@@ -1,0 +1,26 @@
+(;GE[life and death]DI[10k]DP[51]SO[Battousai]CO[7]AW[sr]AW[rq]AW[qq]AW[qr]AW[ps]AW[or]AW[nq]AW[ns]AW[mq]AW[mr]AB[lq]AB[lp]AB[mo]AB[np]AB[oq]AB[pq]AB[pr]AB[oo]AB[po]AB[qp]AB[rp]AB[sq]AB[ro]AB[ls]AB[ks]SZ[19]
+(;B[rs];W[qs]
+(;B[ms]LB[nr:a]LB[os:b]C[A + B are false eyes.RIGHT])
+(;B[rr]
+(;W[sp];B[ms]C[RIGHT])
+(;W[ss]
+(;B[ms]C[RIGHT])
+(;B[rr];W[sp];B[ms]C[RIGHT])
+(;B[rs];W[sp];B[ms]C[RIGHT])))
+(;B[lr];W[ms])
+(;B[ss];W[ms])
+(;B[mp];W[ms])
+(;B[sp];W[ms]))
+(;B[ms];W[rs])
+(;B[qs];W[rs])
+(;B[ss];W[rs])
+(;B[rr];W[rs])
+(;B[lr];W[ms])
+(;B[mp];W[ms]MA[qo]C[Now the left side has a pretty hat.])
+(;B[op]LB[ko:a]LB[kp:b]LB[kq:c]LB[kr:d]LB[lr:e]LB[lo:f]LB[mp:g]LB[no:h]LB[pp:i]LB[qo:j]LB[so:k]LB[sp:l]LB[rr:m]LB[rs:n]LB[qs:o]LB[ss:p]LB[os:q]LB[nr:r]LB[ms:s]C[You found the secret letter answer!  Wow!  Letters everywhere!])
+(;B[pp]TR[ko]TR[kp]TR[kq]TR[kr]TR[lr]TR[lo]TR[mp]TR[ms]TR[nr]TR[no]TR[op]TR[os]TR[qs]TR[rs]TR[rr]TR[ss]TR[sp]TR[so]TR[qo]C[You found the secret triangle answer!  Triangles everywhere!])
+(;B[qo]AB[op]AB[pp]AB[no]AB[mp]AB[lo]AB[lr]AB[sp]AB[so]AB[kr]AB[kq]AB[kp]AB[ko]AW[ms]AW[nr]AW[os]AW[qs]AW[rr]AW[rs]AW[ss]C[You found the secret fill in all the stones answer!  Stones everywhere!  Wow!])
+(;B[sp];W[rs])
+(;B[so]AW[sn]AW[rn]AW[qn]AW[pn]AW[on]AW[nn]AW[mn]AW[lo]AW[ln]AW[ko]AW[kp]AW[kq]AW[kr]AW[lr]AW[mp]AW[no]AW[op]AW[pp]AW[qo]AW[sp]AW[js]AW[ms]C[Oh no!  White's called for reinforcements!  You're really screwed now!])
+(;B[lo]C[You found the NO answer!  Yeah you!]MA[kp]MA[kq]MA[kr]MA[ks]MA[lq]MA[mr]MA[ns]MA[nr]MA[nq]MA[np]MA[qp]MA[pq]MA[pr]MA[qs]MA[rs]MA[sr]MA[sq]MA[rp])
+(;B[no]MA[ms]MA[mr]MA[ls]MA[ns]MA[qr]MA[qs]MA[rs]MA[rr]MA[ss]MA[nr]MA[rq]MA[sq]MA[sr]MA[lr]MA[pn]MA[kr]MA[ks]MA[qn]MA[po]MA[pp]MA[os]MA[or]MA[mq]MA[kp]MA[lq]MA[kq]C[Let's play Tetris!]AB[lo]AB[ko]AB[kp]AB[kq]AB[kr]AB[lr]AB[mp]AB[sp]AB[so]AB[qo]AB[pp]AB[op]AB[kn]AB[ln]AB[mn]AB[nn]AB[on]AB[pn]AB[qn]AB[rn]AB[sn]AW[ms]AW[nq]AW[nr]AW[os]AW[qs]AW[rs]AW[rr]AW[ss]))

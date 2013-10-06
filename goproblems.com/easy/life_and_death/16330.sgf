@@ -1,0 +1,28 @@
+(;GE[life and death]DI[7k]DP[40]SO[piccolo]CO[0]C[Black to live.]AB[mr]AB[nq]AB[np]AB[no]AB[mp]AB[lp]AB[oo]AB[pp]AB[pr]AB[pq]AW[qr]AW[qq]AW[qp]AW[qo]AW[po]AW[on]AW[nn]AW[mo]AW[lo]AW[kp]AW[kq]AW[jr]AW[kr]AW[lq]AW[mq]AB[lr]AW[ls]AW[kn]AW[sr]AP[goproblems]
+(;B[ns]
+(;W[or]C[CHOICE]
+(;B[oq];W[ps]
+(;B[os]C[Well done - O1 was the vital pointRIGHT])
+(;B[nr]C[Well done - O1 was the vital pointRIGHT])
+(;B[qs]C[NOTTHIS])
+(;B[rs]C[NOTTHIS]))
+(;B[os];W[oq])
+(;B[ps];W[oq]))
+(;W[os];B[ps];W[or];B[oq]C[RIGHT])
+(;W[ps]
+(;B[or];W[qs];B[os]C[RIGHT])
+(;B[os];W[ks];B[oq];W[nr]))
+(;W[oq];B[or];W[ps];B[os]C[RIGHT])
+(;W[qs];B[ps];W[or];B[oq]C[RIGHT])
+(;W[nr];B[or];W[ps];B[os]C[RIGHT])
+(;W[ks];B[ps];W[or];B[oq]C[RIGHT]))
+(;B[nr];W[oq]
+(;B[ps];W[or];B[ms];W[os]C[The game continuation. P4 will have to be filled, so this is not a seki.])
+(;B[ms];W[os];B[ps];W[or]))
+(;B[or];W[ms];B[ns];W[nr]
+(;B[mr];W[ps])
+(;B[ps];W[mr]))
+(;B[ps];W[nr])
+(;B[os];W[nr])
+(;B[ms];W[nr])
+(;B[oq];W[nr]))

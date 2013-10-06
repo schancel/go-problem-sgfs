@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1d]DP[17]SO[passero]CO[0]AB[bc]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[gc]AB[hc]AB[ic]AB[ib]AW[cc]AW[cb]AW[ea]AW[fb]AW[gb]AW[hb]C[Black to kill]AP[goproblems]
+(;B[ec];W[eb]
+(;B[ca];W[bb]
+(;B[ab]
+(;W[da]C[CHOICE];B[dc];W[db];B[ba];W[aa];B[ba]C[RIGHT])
+(;W[ba]C[CHOICE];B[db];W[da];B[dc]C[RIGHT]))
+(;B[db];W[dc]))
+(;B[dc];W[db])
+(;B[bb];W[ca])
+(;B[db];W[dc]))
+(;B[bb];W[ca]
+(;B[dc];W[db])
+(;B[ec];W[eb])
+(;B[eb];W[ec];B[dc];W[db]))
+(;B[dc];W[db])
+(;B[db];W[dc]
+(;B[ec];W[eb];B[ca];W[bb];B[ab];W[da];B[ba];W[aa];B[ba])
+(;B[bb];W[da])
+(;B[eb];W[ec]
+(;B[fc];W[da])
+(;B[ha];W[ga];B[fc];W[da]))
+(;B[ca];W[ec]
+(;B[bb];W[da])
+(;B[da];W[bb])))
+(;B[ha];W[ga])
+(;B[eb];W[ec];B[dc];W[db])
+(;B[ca];W[ec];B[dc];W[db];B[fc];W[bb]
+(;B[ab];W[ba]
+(;B[ha];W[ga];B[eb]C[Fault. It's a Ko.])
+(;B[eb]C[Fault. It's a Ko.]))
+(;B[eb]C[Fault. It's a Ko.]))
+(;B[ba];W[ca]
+(;B[ec];W[eb])
+(;B[dc];W[db])
+(;B[db];W[dc];B[eb];W[ec])))

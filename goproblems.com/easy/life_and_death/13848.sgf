@@ -1,0 +1,20 @@
+(;GE[life and death]DI[7k]DP[42]SO[DarkSycthe]CO[0]AB[rc]AW[rb]AW[qc]AW[qd]AW[pb]AB[qb]AB[pc]AB[pd]AB[re]AB[qe]AW[ob]AW[nc]AW[mc]AW[mb]AW[ma]AB[na]AB[nb]AB[la]AB[lb]AB[lc]AB[ld]AB[md]AB[nd]AB[od]AW[pa]AW[oc]LB[oc:1]LB[qb:2]C[The move 1 was a mistake, but instead of going for the ko with T18, Black plays 2. Is the end result still ko or can white live unconditionally?FORCE]LB[mf:Ko]LB[of:Life]AP[goproblems]
+(;W[mf]C[Nope. White has a way to live unconditionally now.])
+(;W[of];B[pf]C[Please show how to live now.]
+(;W[sb]
+(;B[rd]
+(;W[qa];B[ra]
+(;W[qc]C[RIGHT])
+(;W[sa];B[qc]))
+(;W[ra]C[RIGHT])
+(;W[qc]C[NOTTHIS]))
+(;B[ra]C[White lives if Black plays here too];W[qa]))
+(;W[qa];B[sb];W[rd];B[sd]C[Ko.])
+(;W[ra];B[sb]
+(;W[rd];B[sd])
+(;W[qa];B[rd]))
+(;W[rd];B[sd])
+(;W[sc];B[rd]
+(;W[qa];B[qc])
+(;W[ra];B[sb]))
+(;W[sa];B[qa];W[ra];B[qb])))

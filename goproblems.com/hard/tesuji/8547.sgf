@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[4d]DP[7]SO[leomayjeff]CO[7]AB[cq]AB[dr]AB[dq]AB[ep]AB[eq]AW[cr]AW[ds]AW[er]AW[fr]AW[fq]AW[fp]AW[fo]AW[gp]AB[fn]AB[em]AB[dn]AB[dl]AB[cm]AW[ek]AW[el]AW[gn]AW[gm]AW[hm]AW[im]AW[in]AB[go]AB[hn]AB[ho]AB[hp]AB[io]AB[gq]AB[gr]AB[iq]AB[ir]AW[jo]AW[jp]AW[jq]AB[lp]AW[mr]AW[nr]AB[or]AB[nq]AB[np]AB[op]AB[no]AB[nn]AB[nm]AW[lo]AW[mo]AW[mn]AW[mm]AW[ml]AW[nl]TR[er]TR[fr]TR[fq]TR[fp]TR[gp]TR[fo]AP[goproblems]
+(;W[hq];B[ip];W[gs];B[hr];W[jr];B[hs];W[es];B[br];W[js];B[cs]C[FORCE];W[fm];B[en];W[is];B[fs]C[CHOICE])
+(;W[jr];B[gs];W[is];B[hq]C[CHOICE])
+(;W[gs]
+(;B[jr];W[kr];B[kq]
+(;W[lr];B[hs];W[hq];B[hr];W[ip];B[hq];W[js];B[fs];W[es];B[eo];W[gs]C[RIGHT])
+(;W[hq];B[hr];W[ip];B[lr];W[hq]C[CHOICE]))
+(;B[hq];W[hs];B[jr];W[kr];B[kq];W[lr];B[eo];W[js];B[is];W[ks]C[RIGHT])))

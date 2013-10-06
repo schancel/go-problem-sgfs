@@ -1,0 +1,151 @@
+(;GE[life and death]DI[7k]DP[41]SO[Silowyi]CO[1]AB[ai]AB[ah]AB[ag]AB[af]AB[ae]AB[ac]AB[ab]AB[ad]AB[aa]AB[ba]AB[ca]AB[da]AB[ea]AB[fa]AB[ha]AB[ia]AB[ga]AB[ib]AB[ic]AB[id]AB[ie]AB[if]AB[ig]AB[ih]AB[ii]AB[hi]AB[gi]AB[ei]AB[fi]AB[di]AB[ci]AB[ch]AB[cg]AB[cf]AB[ce]AB[cd]AB[cc]AB[dc]AB[ec]AB[fc]AB[gc]AB[gg]AB[eg]AW[bi]AW[bg]AW[bh]AW[bf]AW[bd]AW[be]AW[bc]AW[bb]AW[cb]AW[db]AW[eb]AW[fb]AW[gb]AW[hb]AW[hc]AW[hd]AW[he]AW[hf]AW[hg]AW[hh]AW[gh]AW[fh]AW[eh]AW[dh]AW[dg]AW[df]AW[dd]AW[fd]AB[gd]AB[ge]C[White thinks he can live by simply playing a variant of 'mirror' or Go.  Show him that he is wrong!  White will play mirror go except for atari, self-atari, or to fill his own eyes.]SZ[9]AP[goproblems]
+(;B[de];W[gf]
+(;B[ed];W[fg]
+(;B[ef];W[fe]
+(;B[ee]TR[ff]C[White cannot play the marked space and is dead!RIGHT])
+(;B[ff];W[ee]C[Oops!]))
+(;B[fe];W[ef]C[Oops!])
+(;B[ff];W[ee]
+(;B[fe];W[ef]C[Oops!])
+(;B[ef];W[fe]C[Oops!]))
+(;B[ee];W[ff]
+(;B[ef]C[White cannot play the marked space and is dead!RIGHT]TR[fe])
+(;B[fe];W[ef]C[Oops!])))
+(;B[fe];W[ef]
+(;B[ff];W[ee];B[ed];W[fg]C[Oops!])
+(;B[fg];W[ed];B[ee];W[ff]
+(;B[fg]C[White loses this race!RIGHT])
+(;B[ed];W[fg]C[Oops!]))
+(;B[ed];W[fg]C[Oops!])
+(;B[ee]
+(;W[fg]C[White won't self-atari!])))
+(;B[ee];W[ff]
+(;B[ef];W[fe];B[ed]TR[fg]C[White cannot play the marked space and is dead!RIGHT])
+(;B[fg];W[ed];B[fe];W[ef])
+(;B[fe];W[fg]C[White won't self-atari.])
+(;B[ed];W[fg]))
+(;B[ff];W[ee]
+(;B[fg]C[];W[ef]C[White won't play mirror go in Atari!])
+(;B[fe];W[ef])
+(;B[ef]C[White has all sorts of ways to die!RIGHT])
+(;B[ed];W[fg]))
+(;B[ef];W[fe]
+(;B[ff]C[White has all sorts of ways to die!RIGHT])
+(;B[fg];W[ff]C[White won't play mirror go in Atari!])
+(;B[ee];W[ff])
+(;B[ed];W[fg]))
+(;B[fg];W[ed]
+(;B[ef]C[White cannot escape atari!RIGHT])
+(;B[ff]C[White cannot escape atari!RIGHT])
+(;B[ee];W[ff])
+(;B[fe];W[ef])))
+(;B[gf];W[de]
+(;B[ed];W[fg]
+(;B[fe];W[ef]C[A seki :(])
+(;B[ee];W[ff];B[fe]TR[ef]C[White cannot play the marked space and is dead!RIGHT])
+(;B[ff];W[ee];B[fe]C[White cannot play the marked space and is dead!RIGHT]TR[ef])
+(;B[ef];W[fe]C[A seki :(]))
+(;B[fg];W[ed]C[A seki :(])
+(;B[ee];W[ff]
+(;B[ef];W[fe]C[A seki :(])
+(;B[fe];W[ef];B[ed]TR[fg]C[White cannot play the marked space and is dead!RIGHT])
+(;B[fg];W[ed]C[A seki :(])
+(;B[ed];W[fg]))
+(;B[fe];W[ef]
+(;B[ee];W[ff])
+(;B[ff];W[fg]C[White won't self-atari!])
+(;B[ed];W[fg]C[A seki :(])
+(;B[fg];W[ed]C[A seki :(]))
+(;B[ef];W[fe]C[A seki :(])
+(;B[ff];W[ee]
+(;B[ed];W[fg])
+(;B[fg];W[ed]C[A Seki :(])
+(;B[ef];W[fe]C[A Seki :(])
+(;B[fe];W[ed]C[White won't self-atari!])))
+(;B[fg];W[ed]
+(;B[de];W[gf])
+(;B[gf];W[de])
+(;B[ee];W[ff]
+(;B[fe];W[ef];B[de];W[gf])
+(;B[gf];W[de]C[A seki :(])
+(;B[ef];W[fe]C[A seki :(])
+(;B[de];W[gf]))
+(;B[fe];W[ef]
+(;B[ff];W[ee]C[A seki :(])
+(;B[gf];W[de]C[A seki :(])
+(;B[de];W[gf])
+(;B[ee];W[ff]))
+(;B[ef];W[fe]
+(;B[de]C[White cannot escape atari!RIGHT])
+(;B[ee];W[ff]C[A seki :(])
+(;B[ff];W[de]C[White won't play into such a destructive self-atari!])
+(;B[gf];W[de]C[A seki :(]))
+(;B[ff];W[ee]
+(;B[gf];W[de]C[A seki :(])
+(;B[fe];W[ef]C[A seki :(])
+(;B[ef];W[de]C[White won't play into such a destructive self-atari!])
+(;B[de];W[ef]C[White won't self-atari :(])))
+(;B[ed];W[fg]
+(;B[gf];W[de])
+(;B[de];W[gf])
+(;B[fe];W[ef];B[de];W[gf]C[Oops!])
+(;B[ee];W[ff]
+(;B[gf];W[de])
+(;B[ef];W[fe];B[de]TR[gf]C[White cannot play the marked space!RIGHT])
+(;B[fe];W[ef];B[gf]TR[de]C[White cannot play the marked space!RIGHT])
+(;B[de];W[gf]))
+(;B[ff];W[ee]
+(;B[fe];W[gf];B[ef]C[RIGHT])
+(;B[de];W[gf])
+(;B[ef];W[gf]C[White will not play into such a destructive self-atari!])
+(;B[gf];W[de]))
+(;B[ef];W[fe]
+(;B[de];W[gf])
+(;B[ff];W[gf]C[White won't play into such a destructive self-atari but...];B[ee]C[White cannot play at the marked space and is still dead!RIGHT]TR[de])
+(;B[gf];W[de]C[A seki :(])
+(;B[ee];W[ff])))
+(;B[ee];W[ff]
+(;B[de];W[gf])
+(;B[ed];W[fg])
+(;B[gf];W[de])
+(;B[fe];W[ef]
+(;B[ed];W[fg])
+(;B[de]
+(;W[fg]C[White won't self-atari!]))
+(;B[fg];W[ed])
+(;B[gf];W[de]))
+(;B[ef];W[fe]
+(;B[de];W[gf])
+(;B[fg];W[ed]C[A seki :(])
+(;B[gf];W[de]C[A seki :(])
+(;B[ed];W[fg]))
+(;B[fg];W[ed]))
+(;B[fe];W[ef]
+(;B[fg];W[ed])
+(;B[gf];W[de])
+(;B[ff];W[ee]
+(;B[fg];W[ed]C[A seki :(])
+(;B[ed];W[fg])
+(;B[gf];W[de];B[ed]C[White cannot play at the marked spot and is dead!]TR[fg])
+(;B[de];W[gf]))
+(;B[ee];W[ff])
+(;B[ed];W[fg])
+(;B[de];W[gf]))
+(;B[ff];W[ee]
+(;B[ed];W[fg])
+(;B[gf];W[de])
+(;B[fe];W[ef])
+(;B[fg];W[ed])
+(;B[ef];W[fe]
+(;B[de]C[White has no good options here!RIGHT])
+(;B[ed];W[de]C[White won't play mirror go while in such a destructive atari!])
+(;B[gf];W[de]C[A seki :(]))
+(;B[de];W[gf]))
+(;B[ef]
+(;W[fe]
+(;B[ff];W[ee])
+(;B[gf];W[de]C[A seki :(])
+(;B[fg];W[ed])
+(;B[ee];W[ff])
+(;B[ed];W[fg])
+(;B[de];W[gf]))))

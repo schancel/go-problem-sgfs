@@ -1,0 +1,12 @@
+(;GE[elementary]DI[20k]DP[72]SO[chrise]CO[7]AB[jj]AW[ji]AW[ii]AW[hj]AB[hi]AW[ik]AW[jk]AB[gi]AB[gj]AB[gk]AW[kk]AW[ki]AB[kl]AB[jl]AB[il]AB[hl]AW[hk]AW[ll]AW[ml]AW[mk]AW[mj]AW[li]AB[ih]AB[jh]AB[kh]AB[lh]AB[nj]AB[nk]AB[nl]AB[nh]AB[lm]AB[mm]AB[mi]AP[goproblems]
+(;B[lj]C[]
+(;W[lk]C[This would be used as a ko threat, now let's prove that white is dead]MA[lk]
+(;B[kj]C[];W[ij]C[This would be used as another ko threat, time now to finish white off]MA[ij]
+(;B[kj]C[Black has successfully reduced white to 1 eye. White is dead.FORCERIGHT])
+(;B[jj]C[];W[kj]C[White has 2 eyes and livesFORCE])
+(;B[lj]C[];W[kj]C[White has 2 eyes and livesFORCE]))
+(;B[ij];W[kj]C[White has 2 eyes and lives]))
+(;W[kj];B[lk]))
+(;B[kj];W[lj]C[White has 2 eyes and lives])
+(;B[lk];W[lj]C[White has 2 eyes and lives])
+(;B[ij];W[kj]C[White has 2 eyes and lives]))

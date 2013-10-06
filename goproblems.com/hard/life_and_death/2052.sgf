@@ -1,0 +1,48 @@
+(;GE[life and death]DI[4d]DP[8]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-25]
+KM[0.0]
+RU[Japanese]
+AB[pd][pc][pb][od][lb][kb][kc][kd][ke][kf][lf]
+AW[rb][rc][qe][qg][oc][oe][ne][mg][le][lc][ld][mb][mf]
+C[Black to save his 4 stones.]
+TR[pb][pc][pd][od]
+
+(;B[mc];W[nc]
+(;B[ma];W[nb]
+(;B[nd];W[md];B[na];W[oa];B[la]
+C[RIGHT
+White cannot connect at A, because black with B will capture
+at either C or D.  But black A not only connects his groups,
+it also threatens double-atari at C and D.  White must spend
+a move (lost sente) to protect her four stones or give 8 points to black.]
+LB[ob:A][pa:B][mc:C][me:D]
+TR[nc][oc][nb][mb]
+)
+(;B[md];W[nd];B[na];W[oa])
+(;B[na];W[nd];B[ob]
+C[RIGHT
+Black connects.  However, there is a better solution that can give black more benefits.]
+))
+(;B[nb];W[ma];B[md];W[nd];B[me];W[ob]))
+(;B[nb];W[ma]
+C[Black 1 is a good try.  However, ...]
+LB[nb:1]
+
+(;B[mc];W[nc];B[md];W[nd];B[me];W[ob])
+(;B[nc];W[mc]
+C[Black has at most one eye.  Black fails.]
+))
+(;B[ma];W[nb];B[mc];W[nd];B[ob];W[nc];B[na]
+C[RIGHT
+Black connects.  However, there is a better solution that can give black more benefits.
+The chinese text mentioned that this is variation is the strongest response white can give against black 1.  This is the text (translated) quote, 'Although black connects, but white 2 and 4 have gained benefit.'  I am not sure how white 2 and 4 have gained benefit.]
+LB[ma:1][nb:2][nd:4]
+)
+(;B[nc];W[mc]
+C[Black can make at most one eye.]
+)
+(;B[na];W[ma];B[mc];W[nc];B[md];W[nd];B[me];W[nb]))

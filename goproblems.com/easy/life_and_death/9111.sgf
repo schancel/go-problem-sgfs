@@ -1,0 +1,34 @@
+(;GE[life and death]DI[15k]DP[62]SO[LCZLAPINSKI]CO[4]AB[sb]AB[rc]AB[qc]AB[pc]AW[nc]AW[oe]AW[qd]AW[rd]AW[sc]AW[re]AW[qf]AW[pe]AB[pd]AW[nb]AW[nd]AW[oc]AB[ob]AB[pa]AW[na]AP[goproblems]
+(;B[ra]TR[sa]TR[rb]C[Creates an eye in the corner which is a useful shape in many positions.RIGHT])
+(;B[rb];W[ra];B[qa];W[pb]
+(;B[oa];W[qb])
+(;B[qb];W[oa])
+(;B[sa];W[oa]))
+(;B[oa];W[ra]
+(;B[qa];W[qb]
+(;B[pb];W[rb])
+(;B[rb];W[pb]))
+(;B[qb];W[qa])
+(;B[rb];W[qa]))
+(;B[pb];W[ra]C[Bulky five]MA[qa]MA[qb]MA[rb]MA[sa])
+(;B[qb];W[ra]C[Black is dead because white could fill the outside liberties.  Then black is left with a killable or dead shape inside.]
+(;B[oa];W[qa])
+(;B[qa];W[oa]TR[rb]C[Black only has one eye.]))
+(;B[sa]LB[pf:T]
+(;W[oa]
+(;B[pb]MA[qa]MA[ra]MA[rb]MA[qb]C[White can almost fill the marked points.])
+(;B[qb];W[ra])
+(;B[qa];W[pb])
+(;B[rb]MA[pb]MA[qa]C[Black needs both the marked points to live.])
+(;B[ra]MA[pb]MA[qb]C[Black needs both of the marked points to live.]))
+(;W[pf]C[White tenukis]))
+(;B[sd];W[ra];B[qa]LB[pf:T];W[pf]C[White tenukis; black needs both P19 and S18 to live.]
+(;B[oa];W[qb];B[pb];W[rb]C[White almost fills with a tripod dead shape. White cuts off escape and as long as the white groups live black is dead.]TR[qb]TR[rb]TR[ra])
+(;B[rb];W[pb]))
+(;B[qa];W[rb]
+(;B[ra];W[sa];B[qb];W[sb];B[sd];W[sb]
+(;B[oa];W[sc])
+(;B[sc];W[oa]))
+(;B[qb];W[sa];B[ra];W[sb];B[sd];W[sb]MA[oa]MA[sc]C[P19 and T17 are miai.]
+(;B[oa];W[sc])
+(;B[sc];W[oa]))))

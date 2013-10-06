@@ -1,0 +1,63 @@
+(;GE[life and death]DI[3d]DP[11]SO[bass]CO[9]SZ[19]AW[jj]AW[ho]AW[io]AW[jo]AW[ko]AW[lo]AW[gp]AW[hp]AW[lp]AW[mp]AW[gq]AW[mq]AW[gr]AW[mr]AW[gs]AW[ms]AB[ki]AB[hk]AB[kk]AB[hl]AB[kl]AB[ml]AB[hm]AB[gn]AB[mn]AB[fo]AB[no]AB[ep]AB[ip]AB[jp]AB[kp]AB[op]AB[eq]AB[hq]AB[iq]AB[kq]AB[lq]AB[oq]AB[er]AB[hr]AB[lr]AB[or]AB[es]AB[hs]AB[ls]AB[os]LB[pj:A]C[play at A whenever you want to play elsewhere.]AW[im]AW[jm]AW[km]AB[kj]AW[ik]AW[jk]AB[gj]AB[hi]AW[hh]AW[ih]AW[jh]AB[lm]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[pj];W[ji]C[white is saved.])
+(;B[ji]LB[pj:A]
+(;W[ii]LB[pj:A]
+(;B[ij]LB[pj:A];W[hj]LB[pj:A]
+(;B[jl]LB[pj:A];W[il]LB[pj:A]
+(;B[ij]LB[pj:A];W[jr]LB[pj:A]
+(;B[hj]LB[pj:A]
+(;W[js]LB[pj:A]
+(;B[fs]C[Black wins the semeai by one move.RIGHT])
+(;B[fr]C[Black wins the semeai by one move.RIGHT])
+(;B[fq]C[Black wins the semeai by one move.RIGHT])
+(;B[fp]C[Black wins the semeai by one move.RIGHT])
+(;B[go]C[Black wins the semeai by one move.RIGHT])
+(;B[hn]C[Black wins the semeai by one move.RIGHT])
+(;B[in]C[Black wins the semeai by one move.RIGHT])
+(;B[jn]C[Black wins the semeai by one move.RIGHT])
+(;B[kn]C[Black wins the semeai by one move.RIGHT])
+(;B[ln]C[Black wins the semeai by one move.RIGHT])
+(;B[mo]C[Black wins the semeai by one move.RIGHT])
+(;B[np]C[Black wins the semeai by one move.RIGHT])
+(;B[nq]C[Black wins the semeai by one move.RIGHT])
+(;B[nr]C[Black wins the semeai by one move.RIGHT])
+(;B[ns]C[Black wins the semeai by one move.RIGHT])
+(;B[pj];W[jq]C[white wins the semeai.]))
+(;W[ks]C[Reference variation: this does not help white.];B[is]
+(;W[js];B[kr]C[Temporary seki inside; white is dead without a capturing race.RIGHT])
+(;W[kr];B[js]C[Temporary seki inside, white is dead without a capturing race.RIGHT]))
+(;W[kr]C[Rerefence variation: this does not help white.];B[js]
+(;W[ir];B[jq]C[Temporary seki inside, white is dead without a capturing race.RIGHT])
+(;W[ks];B[is]C[Temporary seki inside, white is dead without a capturing race.RIGHT])))
+(;B[js];W[hj]C[white wins the ko.])
+(;B[pj];W[js]))
+(;B[pj];W[gi]))
+(;B[il]LB[pj:A];W[jl]LB[pj:A]
+(;B[ij]LB[pj:A];W[jr]LB[pj:A]
+(;B[hj]LB[pj:A];W[js]LB[pj:A]
+(;B[fs]C[Black wins the semeai by one move.RIGHT])
+(;B[fr]C[Black wins the semeai by one move.RIGHT])
+(;B[fq]C[Black wins the semeai by one move.RIGHT])
+(;B[fp]C[Black wins the semeai by one move.RIGHT])
+(;B[go]C[Black wins the semeai by one move.RIGHT])
+(;B[hn]C[Black wins the semeai by one move.RIGHT])
+(;B[in]C[Black wins the semeai by one move.RIGHT])
+(;B[jn]C[Black wins the semeai by one move.RIGHT])
+(;B[kn]C[Black wins the semeai by one move.RIGHT])
+(;B[ln]C[Black wins the semeai by one move.RIGHT])
+(;B[mo]C[Black wins the semeai by one move.RIGHT])
+(;B[np]C[Black wins the semeai by one move.RIGHT])
+(;B[nq]C[Black wins the semeai by one move.RIGHT])
+(;B[nr]C[Black wins the semeai by one move.RIGHT])
+(;B[ns]C[Black wins the semeai by one move.RIGHT])
+(;B[pj];W[jq]C[white wins the semeai.]))
+(;B[js];W[hj]C[white wins this ko.])
+(;B[pj];W[js]))
+(;B[pj];W[gi]))
+(;B[gi];W[ij])
+(;B[pj];W[gi]))
+(;B[pj];W[ij]C[white is saved.]))
+(;W[jr]C[this is a clever trick play.]
+(;B[js]C[black is tricked.];W[ii];B[ij];W[hj];B[il];W[jl];B[ij];W[is];B[hj];W[ks]C[now white can make an eye inside black's group and kill it.])
+(;B[ij];W[js];B[ln]C[connecting to K7 stones does not give white any extra liberties.])))
+(;B[jr];W[ji]C[K2 is not needed to live.  white is saved.]))

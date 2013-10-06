@@ -1,0 +1,14 @@
+(;GE[life and death]DI[12k]DP[57]SO[Tschanz]CO[5]AB[sr]AB[sq]AB[rp]AB[rq]AB[qp]AB[pq]AB[pr]AB[or]AW[oq]AW[nq]AW[mq]AW[pp]AW[po]AW[ro]AW[qo]AW[qq]AW[qr]AW[rr]AW[rs]C[What`s the best move for black ?]AW[rm]AP[goproblems]
+(;B[qs];W[ps]C[CHOICE]
+(;B[os]C[Indeed, ko is the best that black can get.RIGHT])
+(;B[ss];W[sp]))
+(;B[nr];W[so]
+(;B[ps];W[sp])
+(;B[mr];W[lr]C[No hope.]))
+(;B[os];W[qs]
+(;B[ps];W[nr];B[ss];W[qr])
+(;B[nr];W[mr])
+(;B[mr];W[nr];B[ns];W[lr]))
+(;B[ps];W[nr]C[Black is in damezumari (lack of liberties)])
+(;B[ss];W[sp]C[Oops...])
+(;B[so];W[nr]))

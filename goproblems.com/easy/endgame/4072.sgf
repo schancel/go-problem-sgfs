@@ -1,0 +1,10 @@
+(;GE[endgame]DI[30k]DP[83]SO[wtd]CO[8]SZ[19]AW[kq][lq][mq][nq][oq][pq][qq][rq][sq][jr][lr][mr][js][ks][ms][qs][rs]
+AB[nr][or][pr][qr][rr][sr][ns]LB[jq:P]C[Can white usefully play here? If you think so, then do; if not, play at 'P' to pass. FORCE]
+
+(;W[ps]C[RIGHT This is 'Seki' - all the stones are alive, and there is no territory inside the black group. Your move was worth 6 points in gote. If white were now to play atari, black could capture 4 stones and have 4 points of territory. If black played atari, all his stones would be captured.])
+
+(;W[ss]C[Black now has 8 points in the corner. A play at 'Q1' would have left him with nothing.])
+
+(;W[os]C[Black now has 8 points in the corner. A play at 'Q1' would have left him with nothing.])
+
+(;W[jq];B[ps]C[Black has made 6 points in gote.]))

@@ -1,0 +1,48 @@
+(;GE[endgame]DI[3k]DP[25]SO[Drai]CO[6]SZ[19]AW[aj]AW[bj]AW[cj]AW[dj]AW[ek]AW[dl]AW[el]AW[fl]AW[gl]AW[em]AW[gm]AW[hm]AW[dn]AW[gn]AW[ao]AW[co]AW[do]AW[eo]AW[ap]AW[bp]AW[dp]AW[ep]AW[fp]AW[gq]AW[hq]AW[iq]AW[jq]AW[kq]AW[lr]AB[ak]AB[bk]AB[ck]AB[dk]AB[al]AB[cl]AB[bm]AB[cm]AB[dm]AB[fm]AB[im]AB[jm]AB[an]AB[bn]AB[cn]AB[en]AB[fn]AB[hn]AB[jn]AB[bo]AB[fo]AB[go]AB[io]AB[jo]AB[gp]AB[hp]AB[ip]AB[jp]AB[kp]AB[fq]LB[cq:A]C[play A]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Rin Kaiho]PB[Toshiro Kageyama];B[cq]
+(;W[cp]C[he miss read the sequence, wich is....]
+(;B[er]
+(;W[eq];B[fr];W[dr]
+(;B[dq];W[bq];B[cr];W[br]
+(;B[cs];W[bs];B[ds];W[ar]C[you live, but you coud kill])
+(;B[ds];W[bs];B[ar];W[cs];B[dr];W[gr]
+(;B[aq];W[as]
+(;B[ar];W[fs];B[aq]C[RIGHT])
+(;B[aq];W[fs];B[ar]C[RIGHT]))
+(;B[as];W[aq]
+(;B[ar];W[fs];B[as]C[RIGHT])
+(;B[as];W[fs];B[ar]C[RIGHT]))))
+(;B[cr]
+(;W[ds]
+(;B[dq];W[gr]
+(;B[aq]C[RIGHT])
+(;B[bq]C[RIGHT])
+(;B[cs]
+(;W[br]
+(;B[bq];W[aq];B[ar]C[RIGHT])
+(;B[es];W[bq];B[bs]C[RIGHT]))
+(;W[fs];B[es]C[RIGHT])))
+(;B[es];W[gr]))
+(;W[cs]
+(;B[dq];W[br];B[ds];W[bq];B[dr];W[bs];B[ar];W[gr];B[aq];W[as];B[ar];W[fs];B[aq]C[RIGHT])
+(;B[br];W[dq];B[aq];W[bs]
+(;B[es];W[gr];B[as];W[ar]C[KO is not the solution])
+(;B[as];W[ds];B[es];W[ar]C[KO is not the solution]))))
+(;B[bq];W[dq];B[cr]
+(;W[cs]
+(;B[es];W[gr]
+(;B[aq];W[ds];B[bs]C[RIGHT])
+(;B[bs];W[aq];B[ds];W[ar]))
+(;B[bs]
+(;W[gr];B[ds];W[fs];B[aq]C[RIGHT])
+(;W[ds]
+(;B[ar];W[gr];B[aq]C[RIGHT])
+(;B[es];W[gr];B[aq]))))
+(;W[ds]
+(;B[cs];W[gr];B[aq];W[fs];B[es]C[RIGHT])
+(;B[es];W[gr];B[cs];W[fs]
+(;B[ar];W[bs])
+(;B[bs];W[ar]))
+(;B[ar];W[gr];B[bs];W[fs])
+(;B[bs];W[gr]
+(;B[aq];W[fs])
+(;B[cs];W[fs]))))))))

@@ -1,0 +1,20 @@
+(;GE[life and death]DI[10k]DP[54]SO[ehubin]CO[7]AB[sa]AB[sc]AB[rc]AB[qc]AB[pc]AB[oc]AB[ob]AB[oa]AW[na]AW[nb]AW[nc]AW[nd]AW[od]AW[pd]AW[rd]AW[re]AW[pb]AW[qb]AW[ra]AW[rb]AP[goproblems]
+(;B[qa]C[]
+(;W[pa]C[CHOICE];B[sb]C[Well done!RIGHT])
+(;W[sb]C[CHOICE];B[pa]C[You got it!RIGHT]))
+(;B[pa];W[qa]C[Bad shape!]
+(;B[sb];W[qb])
+(;B[qd];W[qe]
+(;B[sb];W[qb])
+(;B[sd];W[se];B[sb]))
+(;B[sd];W[se]
+(;B[qd];W[qe];B[sb];W[qb])
+(;B[sb];W[qb])))
+(;B[sb];W[qa]C[Bad shape :-(];B[pa];W[qb])
+(;B[qd];W[qe]C[It is a shame to waste liberties like that!]
+(;B[qa];W[pa];B[sb];W[sd]C[Oops])
+(;B[pa];W[qa];B[sb];W[qb]))
+(;B[sd];W[se]
+(;B[qa];W[pa]C[Short of liberties!])
+(;B[qd];W[qe];B[qa];W[pa])
+(;B[pa];W[qa];B[sb];W[qb])))

@@ -1,0 +1,38 @@
+(;GE[elementary]DI[20k]DP[70]SO[kvzrock]CO[5]GM[1]FF[3]
+CA[UTF-8]AP[CGoban:2]ST[2]RU[Chinese]SZ[19]KM[0]
+PW[White]
+PB[Black]
+C[Does the ladder work for w? If you think so, play A; otherwise play B.
+]
+PL[W]
+AW[db][dd][cf][qf][pn][qn][co][qo][cp][op][pp][dq][fq][qq][rq][qr]
+AB[fc][ic][pd][qd][qh][cj][cn][dn][do][oo][po][ro][qp][rp][pq][pr][rr]
+LB[no:A][jj:B]
+(;W[no];B[on];W[om];B[nn];W[mn];B[nm];W[nl];B[mm];W[lm];B[ml];W[mk];
+B[ll];W[kl];B[lk];W[lj];B[kk];W[jk];B[kj];W[ki];B[jj];W[ij];B[ji];
+W[jh];B[ii];W[hi];B[ih];W[ig];B[hh];W[gh];B[hg];W[hf];B[gg];W[fg];
+B[gf];W[ge];B[ff];W[ef];B[fe];W[fd];B[ee]
+(;W[de]C[RIGHT
+b is captured. Good job!
+])
+
+(;W[ed];B[de]
+(;W[ce]C[RIGHT
+b is captured.Good job!
+])
+
+(;W[df];B[ce];W[be];B[cd];W[cc];B[bd]
+(;W[bc]C[RIGHT
+b is caputred. Good job!
+])
+
+(;W[ad];B[bc];W[bb]C[RIGHT
+b is captured. Good job!
+])
+)
+)
+)
+
+(;W[jj])
+
+)

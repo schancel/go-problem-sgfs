@@ -1,0 +1,145 @@
+(;GE[life and death]DI[4d]DP[7]SO[Miljoo]CO[8]
+AW[pa][ob][oc][pc][rc][pd][qe][re][se]
+AB[na][oa][nb][qb][nc][nd][od][pe][pf][qf][rf][sf]C[Black to play
+]
+(;B[rb];W[pb]
+(;B[sc]
+(;W[qd]
+(;B[sd];W[ra]
+(;B[sb];W[qa]
+(;B[qc]C[RIGHT
+])
+
+(;B[rd]C[RIGHT
+])
+)
+
+(;B[qa];W[sb];B[sa]C[RIGHT
+])
+)
+
+(;B[sb];W[sd]
+(;B[qa];W[ra]C[Seki
+])
+
+(;B[ra];W[qc]C[Seki
+])
+
+(;B[qc]C[
+];W[qa]C[Two Step Ko.
+])
+)
+
+(;B[qa];W[sd]
+(;B[sb];W[ra]C[Seki
+])
+
+(;B[sa];W[sb]C[Ko.
+])
+
+(;B[qc];W[sb])
+)
+)
+
+(;W[qc]
+(;B[rd];W[ra]
+(;B[sd];W[sb]C[Direct ko.
+])
+
+(;B[sb];W[qa];B[sd];W[qd];B[sa]C[CHOICE RIGHT
+])
+)
+
+(;B[sb];W[rd];B[qa];W[ra]C[Seki.
+])
+
+(;B[qa];W[rd];B[sb];W[ra]C[Seki.
+])
+)
+)
+
+(;B[qc];W[qd]
+(;B[sc];W[sd];B[sb];W[qa]C[Two step ko.
+])
+
+(;B[sb];W[sd];B[sc];W[qa]C[Two step ko.
+])
+)
+)
+
+(;B[qc];W[qd]
+(;B[rb];W[sb]C[
+]
+(;B[pb];W[ra]C[White lives big.
+])
+
+(;B[qa];W[pb]C[White lives.
+])
+
+(;B[sc];W[sd];B[pb];W[ra]C[White lives big.
+])
+)
+
+(;B[pb];W[rb]C[
+]
+(;B[qa];W[ra]C[White lives.
+])
+
+(;B[sd];W[qa]C[White lives.
+])
+)
+)
+
+(;B[pb];W[rb]
+(;B[qa];W[ra]C[
+]
+(;B[rd];W[qc]C[White lives.
+])
+
+(;B[qc];W[qd]C[White lives.
+])
+)
+
+(;B[qc];W[qd];B[qa];W[ra]C[White lives.
+])
+
+(;B[ra];W[qc];B[qa];W[sb]C[White lives.
+])
+)
+
+(;B[qd];W[qc]
+(;B[rb];W[pb]
+(;B[sb];W[sc];B[rd];W[sd]C[White lives.
+])
+
+(;B[sc];W[ra]C[
+]
+(;B[sb];W[qa];B[sd];W[rd]C[White lives.
+])
+
+(;B[sd];W[rd];B[sb];W[qa]C[White lives.
+])
+
+(;B[rd];W[sd]C[White lives.
+])
+)
+)
+
+(;B[pb];W[rb];B[qa];W[ra]C[White lives.
+])
+)
+
+(;B[qa];W[qc]
+(;B[pb];W[rb]
+(;B[ra];W[sb]C[White lives
+])
+
+(;B[sc];W[ra]C[White lives.
+])
+)
+
+(;B[rb];W[pb];B[sc];W[rd]C[Seki.
+])
+)
+
+)

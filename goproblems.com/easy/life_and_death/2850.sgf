@@ -1,0 +1,18 @@
+(;GE[life and death]DI[5k]DP[35]SO[Lothe]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[White]PB[Black]AW[bk][ck][dk][bl][el][fl][bm]AB[aj][bj][ci][dj][ei][ek][fk][gk][cl][dl][gl][gm]C[White to live.]PL[W]
+(;W[em]CR[em]
+;B[fm]CR[fm]
+;W[dm]CR[dm]
+;B[cm]CR[cm]
+;W[el]CR[el]C[RIGHT])
+(;W[cm]CR[cm]
+;B[em]CR[em]
+;W[dm]CR[dm]
+;B[dl]CR[dl]
+(;W[fm]CR[fm]
+;B[em]CR[em])
+(;W[cl]CR[cl]
+;B[fm]CR[fm]C[White can't make this into a true eye.]))
+(;W[fm]CR[fm]
+;B[em]CR[em]))

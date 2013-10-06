@@ -1,0 +1,14 @@
+(;GE[life and death]DI[2k]DP[23]SO[fye]CO[0]AB[dr]AB[er]AB[eq]AB[ep]AB[fp]AB[gq]AB[gr]AB[hr]AW[ir]AW[hq]AW[hp]AW[gp]AW[jq]AW[fo]AW[eo]AW[dp]AW[dq]AW[do]AW[cr]AW[ds]AB[cq]AW[bq]AB[br]LB[cq:1]LB[bq:2]LB[br:3]C[After black 1, w 2 then b 3, it is a mistake. Show him why!]AP[goproblems]
+(;W[cp];B[bs]
+(;W[hs];B[cs];W[ar];B[cq]C[Yes, it is a ko. Black could live unconditionally (see the problem It's Alive!)RIGHT])
+(;W[ar];B[hs];W[fs];B[fr];W[es];B[gs]C[Black lives])
+(;W[cs]
+(;B[es];W[hs];B[cq];W[cr];B[cs];W[ar];B[cq]C[Correct, a ko :)RIGHT])
+(;B[hs];W[fs];B[es];W[fr];B[cq];W[cr];B[cs];W[ar];B[cq]C[Correct, ko :)RIGHT]))
+(;W[es];B[cs]C[];W[ar];B[fs];W[ds];B[hs])
+(;W[fs];B[fr];W[es];B[gs]))
+(;W[cs];B[es]
+(;W[cp];B[hs])
+(;W[hs];B[bs]
+(;W[cr];B[cp])
+(;W[cp];B[cr]))))

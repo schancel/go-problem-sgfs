@@ -1,0 +1,42 @@
+(;GE[life and death]DI[6k]DP[39]SO[psprof]CO[0]AB[ra]AB[rb]AB[rc]AW[qd]AW[rd]AW[pd]AW[od]AB[oc]AB[ob]AB[nb]AW[nc]AW[mc]AW[mb]AW[ma]AW[na]MA[ne]C[Can Black live in this shape?  If so, play a living move.  If not, play the marked position at O15.]AP[goproblems]
+(;B[pa]C[Correct.  Black lives.RIGHT])
+(;B[pb];W[pa]
+(;B[oa];W[qb];B[qa];W[qc])
+(;B[qa];W[oa]
+(;B[qc];W[pc])
+(;B[pc];W[qc]))
+(;B[qc];W[pc]
+(;B[oa];W[qb])
+(;B[qb];W[oa])))
+(;B[qc];W[pc]
+(;B[pb];W[pa]
+(;B[oa];W[qb])
+(;B[qb];W[oa]))
+(;B[pa];W[pb];B[oa];W[qa]))
+(;B[ne]C[Wrong. Black can live playing Q19.])
+(;B[me]C[Wrong. Black can live playing Q19.])
+(;B[nf]C[Wrong. Black can live playing Q19.])
+(;B[nd]C[Wrong. Black can live playing Q19.])
+(;B[oe]C[Wrong. Black can live playing Q19.])
+(;B[qb]
+(;W[pa]
+(;B[oa];W[pb]
+(;B[pc];W[qc])
+(;B[qa];W[pc]))
+(;B[pb];W[oa]))
+(;W[pb]
+(;B[pa];W[pc];B[oa];W[qa])
+(;B[pc];W[pa]
+(;B[oa];W[qc])
+(;B[qc];W[oa]))))
+(;B[oa];W[pa]
+(;B[pb];W[qb];B[qa];W[qc])
+(;B[qb];W[pb];B[pc];W[qc])
+(;B[qa];W[pb]
+(;B[qb];W[pc])
+(;B[pc];W[qc]))
+(;B[qc];W[pc];B[pb];W[qb])
+(;B[pc];W[qc];B[pb];W[qb]))
+(;B[pc];W[pa];B[oa];W[qc]
+(;B[pb];W[qb])
+(;B[qa];W[pb])))

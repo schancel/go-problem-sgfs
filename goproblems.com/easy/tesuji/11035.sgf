@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[7k]DP[43]SO[sabetts]CO[0]AB[qr]AB[pr]AB[pq]AB[mp]AW[oq]AW[pp]AW[qp]AW[qq]AW[pn]AW[kp]C[Black's 3 stones need help]AP[goproblems]
+(;B[nq]
+(;W[op]C[CHOICE];B[or]C[RIGHT])
+(;W[or]C[CHOICE]
+(;B[nr];W[op];B[os]C[RIGHT])
+(;B[op];W[nr];B[mr];W[rr]
+(;B[ns]C[RIGHT])
+(;B[os]C[RIGHT]))))
+(;B[or];W[nq];B[nr];W[mq];B[mr];W[lq])
+(;B[op];W[np];B[oo];W[nq])
+(;B[nr];W[nq];B[mq];W[or]
+(;B[os];W[mr];B[ms];W[ns]C[Ko. Black can do better.])
+(;B[mr];W[os];B[op];W[np];B[oo];W[no]))
+(;B[rr];W[or]))

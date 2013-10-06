@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2k]DP[21]SO[Stones]CO[9]AW[hs]AW[ir]AW[is]AW[iq]AW[jr]AW[kr]AW[lr]AB[hq]AB[hr]AB[gs]AB[fr]AB[fq]AB[fp]AW[eq]AW[er]AW[es]AB[ip]AB[jp]AB[kq]AW[hp]AW[go]AW[hn]AW[io]AW[en]AB[lq]AB[mq]AW[dp]AW[do]AB[mr]C[Black to win the capturing race.]AB[or]AP[goproblems]
+(;B[fs];W[gq];B[gr];W[gp])
+(;B[gq];W[fs]C[Ko.])
+(;B[gr];W[ms]
+(;B[ns];W[ks]C[White gets a ko.])
+(;B[ls];W[ks]C[White gets a ko.])
+(;B[js];W[ks]C[White gets a ko.])
+(;B[jq];W[ks]C[White gets a ko.])
+(;B[ks];W[gp]C[G4 or any similar move by white is useless.  Black can tenuki.RIGHT]))
+(;B[jq];W[gr];B[gq];W[fs]C[White gets a ko.])
+(;B[ls];W[gr];B[gq];W[fs]C[White gets a ko.])
+(;B[ks];W[gr];B[gq];W[fs]C[White gets a ko.])
+(;B[js];W[gr];B[gq];W[fs]C[White gets a ko.])
+(;B[gp];W[ho]
+(;B[gr];W[fo])
+(;B[fs];W[gq];B[gr]C[Now white can tenuki.])
+(;B[gq];W[fs])
+(;B[jq];W[fs]C[Thanks to Spica.])
+(;B[ls];W[fs]C[Thanks to Spica.])
+(;B[ks];W[fs]C[Thanks to Spica.])
+(;B[js];W[fs]C[Thanks to Spica.])))

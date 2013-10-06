@@ -1,0 +1,19 @@
+(;GE[elementary]DI[10k]DP[51]SO[BountyHunterSAx]CO[0]AB[ij]AB[ji]AW[ii]AW[jj]TR[jj]C[White has just played the marked stone. Assuming relatively equal strength in the surrounding area, what should black do?]LB[ki:1]LB[kj:2]LB[kk:3]AP[goproblems]
+(;B[kj];W[jk]
+(;B[hi];W[ih]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[ih];W[hi]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[hj];W[ih]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[kk];W[ih]C[Blacks stones are split apart and weaker than whites. The ladder will be broken on the marked stone. Try again.]TR[ii])
+(;B[ki];W[hj]MA[ij]C[This stone will die in the ladder. Try again.])
+(;B[jh];W[hi]MA[ij]C[Blacks stones are split apart and (especially the marked stone) weaker while whites stones are connected and stronger. Try again.])
+(;B[ik];W[jl]C[This result is fairly even - but there is another more standard response.]))
+(;B[ki];W[jk]
+(;B[hj];W[ih]C[Perfect. This shape is called the pinwheel. Both sides derive even benefit from it, and black keeps sente.RIGHT])
+(;B[hi];W[ih];B[hj]C[Blacks position is very slightly better, but white takes sente, and can easily undo that advanatage by playing at A.]LB[ig:A])
+(;B[ik];W[jl]C[Interesting result, but not the standard response.]))
+(;B[kk];W[kj]
+(;B[jk];W[hi]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. If black tries to start a ladder at L, it will be broken on the marked stone. Try again.]LB[lj:L]MA[ii])
+(;B[ki];W[hi]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[ih];W[hi]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[hi];W[ih]C[Blacks stones are split apart and weaker while whites stones are connected and stronger. Try again.])
+(;B[hj];W[jh]MA[ji]C[this stone dies in a ladder!])))

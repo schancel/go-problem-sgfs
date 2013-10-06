@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1d]DP[16]SO[hello]CO[9]AW[rb]AW[qb]AW[pb]AW[ob]AB[sb]AB[rc]AB[qc]AB[pd]AW[pc]AB[od]AW[nb]AW[na]AB[oc]AB[nc]AB[pf]AB[mc]AB[lb]AW[qi]AP[goproblems]
+(;W[qd];B[rd];W[qe];B[re];W[qf];B[qg];W[rf];B[rg]
+(;W[se]
+(;B[pe]C[CHOICE]
+(;W[sc];B[sf]
+(;W[sa]C[RIGHT])
+(;W[pa];B[ra]
+(;W[sa]C[only ko.])
+(;W[qa];B[sd])))
+(;W[ra];B[pa])
+(;W[pa];B[ra];W[sc];B[sf]
+(;W[sa]C[Only ko.])
+(;W[qa];B[sd])))
+(;B[sc]C[CHOICE];W[ra];B[pe];W[pa]C[RIGHT]))
+(;W[sf];B[sg];W[se];B[pe])
+(;W[sc];B[sd];W[pa];B[ra];W[qa];B[pe];W[sa];B[sf]C[White can live without ko.]))
+(;W[ra];B[pa];W[qd];B[rd];W[qe];B[re];W[qf];B[qg];W[rf];B[rg];W[se];B[pe];W[sc];B[sf])
+(;W[pa];B[ra];W[qd];B[rd];W[qe];B[re];W[qf];B[qg];W[rf];B[rg]
+(;W[se];B[sc])
+(;W[sc];B[sd];W[qa];B[sf];W[sa]C[Ko. White could have lived without ko.])))

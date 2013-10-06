@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[4d]DP[7]SO[mafutrct]CO[0]AB[pc]AB[qd]AB[nd]AW[pe]AW[qe]AB[pi]AW[qp]AW[nq]AB[cp]AB[ep]AB[gp]AW[eq]AW[ce]C[White to play. Find the correct area and the correct move.]AP[goproblems]
+(;W[oh];B[oi]TR[nh]C[FORCE];W[nh]LB[ni:A]LB[oc:B]C[Next, A and B are miai for black and white.RIGHT])
+(;W[qk];B[of]TR[ri]C[FORCE];W[ri];B[ed]C[If black gets to play at P14 he can make some influence while forcing white to connect with a low and thin connection. Moreover, he has sente so he can approach the other corner and can occupy the upper side.])
+(;W[pg];B[ni]TR[mf]C[FORCE];W[mf];B[ld]C[Q13 is not good because it is too narrow.])
+(;W[qg];B[qh]TR[pg]C[FORCE];W[pg];B[ni]TR[mf]C[FORCE];W[mf];B[ld]C[White is too slow.]))

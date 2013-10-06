@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[7k]DP[43]SO[adum]CO[5]AW[br]AW[cr]AW[dq]AW[dp]AW[do]AW[dn]AB[cq]AB[cp]AB[co]AB[cn]AB[cm]AB[dm]AB[ek]AB[ej]AW[ei]AW[fi]AW[fj]AW[gk]AB[gi]AB[gg]AB[eh]AB[eg]AB[ef]AW[dh]AW[ch]AW[bh]AW[dg]AB[di]AB[ci]AB[bi]AW[dj]AW[ck]TR[bi]TR[ci]TR[di]C[black to save his stones]AP[goproblems]
+(;B[cj];W[dk]
+(;B[bk]C[RIGHT])
+(;B[cl];W[bj])
+(;B[dl];W[bj])
+(;B[fk];W[bj]))
+(;B[fk];W[gj]
+(;B[cj];W[dk];B[bk]C[RIGHT])
+(;B[bk];W[bj])
+(;B[dk];W[cj]))
+(;B[bk];W[bj]
+(;B[aj];W[cj];B[ai];W[ah];B[ak];W[bl])
+(;B[cj];W[ai])
+(;B[dk];W[cj]))
+(;B[bj];W[bk]
+(;B[bl];W[ak];B[dk];W[cj])
+(;B[dk];W[cj])
+(;B[cj];W[dk]))
+(;B[dk];W[cj]
+(;B[bj];W[bk])
+(;B[bk];W[bj])
+(;B[cl];W[bj]))
+(;B[bl];W[bj])
+(;B[gj];W[fk];B[cj];W[dk];B[bk]C[not the best way, but it worksRIGHT])
+(;B[cl];W[bj];B[dk];W[cj])
+(;B[ai];W[bk];B[dk];W[cj];B[bl];W[aj])
+(;B[aj];W[bj];B[ak];W[bl];B[ai];W[bk])
+(;B[ak];W[bj];B[aj];W[cj];B[ai];W[bl])
+(;B[al];W[bj];B[aj];W[cj];B[ai];W[ak];B[bk];W[ah];B[ak];W[bl]))

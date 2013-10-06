@@ -1,0 +1,27 @@
+(;GE[life and death]DI[3d]DP[11]SO[adum]CO[8]AW[ra]AW[nb]AW[ob]AW[rb]AW[jc]AW[mc]AW[nd]AW[od]AW[qd]AW[rd]AW[ne]AW[pe]AW[re]AW[nf]AW[pf]AW[qf]AW[rh]AB[qa]AB[pb]AB[sb]AB[oc]AB[pc]AB[qc]AB[rc]AB[sc]AB[pd]AB[me]AB[oe]AB[mf]AB[of]AB[mg]AB[ng]AB[og]C[black to live in the corner]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[nc];W[md]
+(;B[lb];W[mb])
+(;B[mb];W[lb]
+(;B[ma];W[la])
+(;B[oa];W[ma])))
+(;B[mb];W[nc];B[lc];W[lb];B[kb];W[ma])
+(;B[lc];W[lb]
+(;B[md];W[nc])
+(;B[nc];W[md];B[ld];W[mb];B[kb];W[kc]))
+(;B[lb];W[md]
+(;B[mb];W[nc]
+(;B[kd];W[kc];B[lc];W[ld]
+(;B[le]C[RIGHT])
+(;B[ke];W[kb]))
+(;B[ld];W[lc];B[kc];W[kb]
+(;B[kd];W[la])
+(;B[na];W[kd];B[oa];W[kc]))
+(;B[lc];W[ld]))
+(;B[nc];W[mb])
+(;B[kd];W[ld]
+(;B[ke];W[kc]
+(;B[lc];W[mb])
+(;B[mb];W[nc];B[lc];W[kb]))
+(;B[mb];W[nc];B[le];W[kc];B[lc]C[RIGHT])))
+(;B[oa];W[nc])
+(;B[qb]C[aw, gimme a break]))

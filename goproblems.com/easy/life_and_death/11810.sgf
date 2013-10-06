@@ -1,0 +1,11 @@
+(;GE[life and death]DI[20k]DP[71]SO[enigm4]CO[0]AW[pb][pc][pd][pe][pf][od][ng][mg][lf][le][ld][lc][lb][og][nc]AB[oc][oe][of][nf][mf][md][me][nd][mc][ob]
+(;B[mb];W[oa]
+;B[nb]C[RIGHT Your group is alive.])
+(;B[nb]
+;W[mb]TR[nc]C[Your group is dead (1 eye + 1 false eye).])
+(;B[oa];W[mb]
+;B[nb]TR[nc]C[Your group is dead (1 eye + 1 false eye).])
+(;B[na];W[mb]
+;B[nb]C[Your group is dead (1 eye + 1 false eye).]TR[nc])
+(;B[ma];W[mb]
+;B[nb]C[Your group is dead (1 eye + 1 false eye).]TR[nc]))

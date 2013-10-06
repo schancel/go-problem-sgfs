@@ -1,0 +1,59 @@
+(;GE[tesuji]DI[4k]DP[29]SO[manofomens]CO[0]AB[rp]AB[qp]AB[pp]AB[qo]AB[pn]AB[on]AB[nn]AB[no]AB[mo]AB[mp]AB[lp]AB[lq]AB[kq]AB[jq]AW[mq]AW[nq]AW[np]AW[op]AB[oq]AB[nr]AB[mr]AB[or]AW[lr]AW[kr]AW[jr]AW[iq]AW[hq]AW[jp]AB[ip]AB[io]AB[in]AW[kp]AW[ko]AW[lo]AW[ln]AW[mm]AW[jm]AW[jn]AW[kl]AW[kk]AW[lk]AW[ml]AW[nl]AW[nm]AW[nk]AW[nj]AW[oj]AW[oi]AW[pi]AW[qi]AW[ph]AB[rj]AB[qj]AB[pj]AB[pk]AB[ok]AB[ol]AW[om]AW[pm]AW[pl]AW[qk]AW[rk]AW[qn]AW[rn]AW[ro]AB[im]AB[jl]AB[jk]AB[jj]AB[kj]AB[lj]AB[mj]AB[mk]AB[ni]AB[li]AB[mh]AB[qh]AB[ri]AB[pg]AB[rg]AB[og]AB[ng]C[Black to reduce white.]AB[oh]AP[goproblems]
+(;B[km]C[NOTTHIS];W[ll]
+(;B[rl];W[ql]
+(;B[sk];W[rm]
+(;B[sl];W[sm];B[sj]C[RIGHT]
+(;W[so]C[Good Job!];B[sp]C[RIGHT])
+(;W[sp]C[FORCE];B[so]C[White should have played at T5, now the whole group is dead.RIGHT];W[sn];B[sq];W[qm];B[jo];W[kn];B[mn];W[lm];B[so]C[RIGHT]))
+(;B[sm];W[sn])
+(;B[so];W[sl];B[sn];W[sj]))
+(;B[so];W[sl]
+(;B[sn];W[sm];B[sp]
+(;W[rm])
+(;W[sk])
+(;W[sj]))
+(;B[rm];W[sn])
+(;B[sm];W[rm]))
+(;B[sm];W[sk];B[so];W[rm];B[sn];W[sl];B[sp]))
+(;B[ql];W[rl])
+(;B[qm];W[rm])
+(;B[sm];W[rl];B[sl];W[sk];B[rm];W[ql];B[so];W[qm]))
+(;B[rl];W[ql]
+(;B[sk];W[rm];B[sl];W[sm];B[sj]C[RIGHT];W[so]C[]TR[sp];B[sp]C[RIGHT])
+(;B[rm];W[sk]
+(;B[so];W[qm];B[sn];W[sm]
+(;B[sl];W[sm];B[sp]C[Not as good as the solution])
+(;B[sp]C[RIGHT]))
+(;B[sn];W[so];B[qm];W[sm];B[sp];W[sl]))
+(;B[sm];W[sn];B[sk];W[rm];B[sj];W[sl])
+(;B[qm];W[rm])
+(;B[sl];W[sk]
+(;B[sn];W[so])
+(;B[so];W[sn]))
+(;B[so];W[rm]
+(;B[sn];W[sl])
+(;B[sl];W[sk]))
+(;B[km]C[NOTTHIS])
+(;B[mn]C[NOTTHIS]))
+(;B[ll];W[lm])
+(;B[lm];W[km])
+(;B[mn])
+(;B[jo])
+(;B[oo])
+(;B[qm];W[rm])
+(;B[ql];W[rl])
+(;B[sk];W[rl];B[sl];W[sm];B[sj];W[sp]C[Not a very good reduction.])
+(;B[so];W[rm];B[sn];W[sm];B[sp];W[sj])
+(;B[sl];W[sk]
+(;B[rl];W[ql];B[so];W[sn])
+(;B[ql];W[rl])
+(;B[rm];W[rl];B[sn];W[qm];B[sj];W[sm]))
+(;B[sm];W[rl];B[sl];W[sk]
+(;B[rm];W[qm])
+(;B[sn];W[so])
+(;B[so];W[sn]))
+(;B[rm];W[rl]
+(;B[sl];W[sk];B[sn];W[so])
+(;B[sm]
+(;W[qm]C[CHOICE])))
+(;B[sn];W[so];B[rl];W[ql];B[sm];W[rm];B[sp];W[sl]))

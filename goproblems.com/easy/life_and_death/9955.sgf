@@ -1,0 +1,23 @@
+(;GE[life and death]DI[8k]DP[47]SO[koala]CO[6]AW[cb]AW[cc]AW[cd]AB[db]AB[dc]AB[dd]AB[de]AW[ba]AB[cf]AB[af]AB[be]AB[ad]AW[ce]AB[bg]AW[ag]AW[ah]C[White to gain life.]AP[goproblems]
+(;W[ab]
+(;B[ac]C[CHOICE]
+(;W[bc]TR[da]C[Life in gote.  Note the ko threat at D19 - C19 would be the follow-up, which would make the eye at B18 false.RIGHT])
+(;W[bd]C[];B[bf]C[RIGHT];W[bc]C[Life in gote.  Note the ko threat at D19, followed up by C19.  Note also that after B16 black could tenuki and save B14 for a ko threat.RIGHT])
+(;W[bb];B[bf]C[]))
+(;B[bc]C[This is a mistake from black.]
+(;W[ac];B[bd])
+(;W[bd];B[ac];W[bb]TR[ae]TR[bf]C[RIGHT])
+(;W[bb];B[bd])))
+(;W[bc];B[ab]
+(;W[bd];B[ac]C[])
+(;W[ac];B[bd]))
+(;W[ac];B[bc]
+(;W[bd];B[ab];W[bb];B[ac]C[Even if you could atari, black would connet at A, and the marked stones would leave a dead shape.]LB[bf:A]TR[ad]TR[ac]TR[bc]TR[ab])
+(;W[bb];B[ab];W[aa];B[bd]))
+(;W[bd];B[ab]
+(;W[ac];B[bc]AB[fb]
+(;W[bb];B[ac]C[Even if you could atari, black would connet at A, and the marked stones would leave a dead shape.]TR[ad]TR[bc]TR[ac]TR[ab]LB[bf:A])
+(;W[ca];B[da]))
+(;W[bc];B[ac])
+(;W[bb];B[ac]))
+(;W[bb];B[ac];W[ab];B[bf]C[Just the one.]))

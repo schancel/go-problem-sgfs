@@ -1,0 +1,32 @@
+(;GE[life and death]DI[10k]DP[50]SO[tom111]CO[8]AW[br]AW[cs]AW[bq]AW[cp]AW[co]AW[dn]AW[en]AW[fn]AW[fo]AW[gp]AW[gq]AW[gr]AW[gs]AB[fs]AB[fr]AB[fq]AB[fp]AB[eo]AB[dp]AB[do]AB[dq]AB[cq]C[Black to live]AP[goproblems]
+(;B[ds]
+(;W[er]
+(;B[eq];W[dr]
+(;B[cr]C[];W[es];B[ds]C[That's it.CHOICERIGHT])
+(;B[es];W[cr]))
+(;B[dr];W[eq])
+(;B[cr];W[eq])
+(;B[es];W[eq]))
+(;W[dr]
+(;B[cr]
+(;W[es]
+(;B[er]C[];W[eq]
+(;B[ep];W[eq])
+(;B[ds]C[CHOICERIGHT])
+(;B[bs];W[ep]))
+(;B[eq];W[ds]))
+(;W[er];B[eq])
+(;W[eq];B[er]C[RIGHT]))
+(;B[er];W[cr])
+(;B[es];W[cr])
+(;B[eq];W[cr]))
+(;W[eq];B[er];W[dr];B[cr]C[RIGHT]))
+(;B[dr];W[eq]
+(;B[er];W[ds])
+(;B[ds];W[er]))
+(;B[eq];W[ds]
+(;B[es];W[dr])
+(;B[dr];W[es]))
+(;B[er];W[ds])
+(;B[es];W[eq];B[ds]C[died in gote :(])
+(;B[cr];W[ds]C[now black can't live even if he moves twice ... :(]))

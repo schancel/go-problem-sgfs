@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[4k]DP[30]SO[om3]CO[5]AB[oq]AB[op]AB[pp]AB[lq]AB[lp]AB[ko]AB[jn]AB[lm]AB[mm]AB[mn]AB[mo]AB[ip]AW[io]AW[jo]AW[jp]AW[jq]AW[iq]AW[lo]AW[ln]AW[pq]AW[qq]AW[mp]AW[np]AW[no]AW[nn]AW[pn]C[Save the triangled stones!]TR[oq]TR[op]TR[pp]AW[qo]AW[qp]AP[goproblems]
+(;B[nq];W[mq];B[mr];W[lr];B[kr];W[nr]
+(;B[or];W[ms])
+(;B[ls];W[or]))
+(;B[mq];W[nq];B[nr];W[mr]
+(;B[lr];W[or];B[ms];W[pr])
+(;B[or];W[lr];B[kr];W[kq]
+(;B[ls];W[kp])
+(;B[kn];W[jr])
+(;B[ms];W[kp])
+(;B[jr];W[kp])))
+(;B[mr];W[nr]
+(;B[or];W[mq]
+(;B[lr]LB[nq:A]LB[ns:B]C[Correct! Now A and B are miaiRIGHT])
+(;B[nq];W[lr];B[ns];W[kr];B[pr];W[qr];B[ps]C[Ok. Now Black is cut off, but he is alive.RIGHT]))
+(;B[nq];W[mq]
+(;B[lr];W[or])
+(;B[or];W[lr];B[ns];W[kr];B[pr];W[qr];B[ps]C[Ok. Now Black is cut off, but he is alive.RIGHT])))
+(;B[nr];W[mr]
+(;B[lr];W[nq]
+(;B[or]LB[mq:A]LB[ms:B]C[Now A and B are miai.RIGHT])
+(;B[mq];W[or];B[ms];W[pr]))
+(;B[mq];W[nq]
+(;B[lr];W[or]
+(;B[ms];W[pr])
+(;B[pr];W[ns]))
+(;B[or];W[lr];B[kr];W[kq];B[kn];W[jr])))
+(;B[or];W[mr];B[mq];W[nq];B[nr];W[lr];B[kr];W[kq]
+(;B[kn];W[jr])
+(;B[jr];W[kp])
+(;B[ls];W[kp])
+(;B[ms];W[kp]))
+(;B[lr];W[nr];B[nq];W[mq];B[mr];W[or]))

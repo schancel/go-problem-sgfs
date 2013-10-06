@@ -1,0 +1,17 @@
+(;GE[elementary]DI[1k]DP[20]SO[santa c]CO[9]AB[sd]AB[qd]AB[rd]AB[qc]AB[qb]AB[pc]AB[oc]AB[pa]AW[lb]AW[se]AW[re]AW[qe]AW[pe]AW[pd]AW[od]AW[nd]AW[nc]AW[nb]AW[pb]AW[qa]C[W to kill! :)]AP[goproblems]
+(;W[ob]
+(;B[rb]
+(;W[sc]C[Well done! :)RIGHT]TR[sb]TR[ra])
+(;W[ra];B[sa]C[:(]TR[sc]TR[qa])
+(;W[sb];B[sc]C[:(])
+(;W[oa];B[ra]C[:(]TR[sb]TR[sc])
+(;W[sa];B[ra]C[:(]))
+(;B[sb];W[ra]C[RIGHT])
+(;B[ra];W[sb]C[RIGHT]))
+(;W[ra];B[ob]C[:(])
+(;W[oa];B[ra]
+(;W[sb];B[ob]C[:(])
+(;W[ob];B[rb]C[:(])
+(;W[pa];B[ob];W[na];B[sb]C[:(])
+(;W[rb];B[pa]C[Complex ko.. :(]MA[qa]))
+(;W[rb];B[ob]C[:(]))

@@ -1,0 +1,47 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[7]AB[mb]AB[mc]AB[nc]AB[lc]AB[kc]AB[jb]AB[hb]AB[hc]AB[hd]AB[gd]AW[fb]AW[gb]AW[gc]AW[fd]AW[fe]AW[ge]AW[he]AW[jc]AW[jd]AW[ke]AW[ld]AW[me]AW[nd]AW[od]AW[oc]AW[ob]AW[nb]C[What can White do now?]AB[la]AW[ma]LB[ma:1]LB[la:2]AP[goproblems]
+(;W[kb]
+(;B[ic]
+(;W[ha];B[ia]
+(;W[ga];B[ka];W[id]
+(;B[lb];W[ib]C[Well done! :)CHOICERIGHT])
+(;B[ib];W[ja]C[Well done! :)CHOICERIGHT]))
+(;W[ka];B[ga];W[lb];B[ja]C[:(])
+(;W[id];B[ga]C[:(]))
+(;W[ja];B[ia];W[ib]MA[jb]C[:(])
+(;W[ka];B[ia]C[:(]LB[lb:1]LB[ja:2])
+(;W[ia];B[ha]
+(;W[ja];B[ib]C[:(])
+(;W[ka];B[lb]C[:(]))
+(;W[id];B[ia]C[:(]))
+(;B[ib];W[ha]TR[ka]TR[ia]C[RIGHT])
+(;B[ia];W[ic]TR[ib]TR[ka]C[RIGHT])
+(;B[ka];W[ib]C[RIGHT])
+(;B[ja]
+(;W[ic]TR[ib]TR[ha]C[RIGHT])
+(;W[ha]C[RIGHT])
+(;W[ia];B[ha]C[:(]))
+(;B[ha]
+(;W[ib]C[RIGHT])
+(;W[ja];B[ib]C[RIGHT])))
+(;W[ka];B[kb];W[lb]C[:(]MA[la])
+(;W[ja];B[ia]
+(;W[ic];B[ib]C[:(])
+(;W[ka];B[kb]C[:(])
+(;W[kb];B[ka]C[:(]))
+(;W[ia];B[ha]
+(;W[ib];B[ic]C[:(])
+(;W[ja];B[ib]C[:(])
+(;W[kb];B[ja]C[:(])
+(;W[ka];B[ja]C[:(]))
+(;W[ha];B[ia]
+(;W[ga];B[kb]C[:(])
+(;W[ic];B[kb]C[:(])
+(;W[kb];B[ka]C[:(])
+(;W[ka];B[kb];W[lb]MA[la]C[:(]))
+(;W[ic];B[kb]C[:(])
+(;W[ib];B[kb]
+(;W[ja];B[ic];W[ha];B[ia]MA[ib]C[:(])
+(;W[ia];B[ja]C[:(])
+(;W[ic];B[ja]C[:(])
+(;W[ha];B[ja]C[:(]))
+(;W[na];B[kb]C[:(]))

@@ -1,0 +1,10 @@
+(;GE[best move]DI[6k]DP[36]SO[chrise]CO[7]AB[qd]AB[rd]AW[qc]AW[rc]AB[qe]AB[se]AB[pe]AW[pf]AW[oe]AW[pd]AB[rg]AB[rh]AW[qh]AW[qi]AW[ri]AW[pg]AB[of]AB[og]AB[oh]AB[qf]AW[qg]AB[nc]AW[ob]AB[nb]AB[ni]AB[mc]AW[rb]AW[pb]AB[ld]AB[mi]AW[mj]AW[nj]AB[oj]AW[qj]AP[goproblems]
+(;W[oc]C[];B[ne]C[Black gains good thickness and denies white access to the centre.])
+(;W[od]C[After black has saved the side white has access to the centre and denies black thickness.RIGHT])
+(;W[pc]C[Black can force p16 immeadiately and then save the group,  thus giving black good thickness towards the centre])
+(;W[rf];B[od]C[Attacking too soon has benefited black])
+(;W[sh];B[od]C[Attacking too soon has benefited black])
+(;W[qb];B[od])
+(;W[sc];B[od])
+(;W[ne]C[Black can force p16 immeadiately and then save the group,  thus giving black good thickness towards the centre])
+(;W[nd];B[oc]))

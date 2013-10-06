@@ -1,0 +1,15 @@
+(;GE[life and death]DI[15k]DP[62]SO[polo]CO[8]AW[bb][bc][bd][ce][df][dd][ed][fd][gd][hc][ic][ib][ia]AB[cd][cc][cb][hb][ha][ga][fa][fb][fc][gc][ec]SZ[19]C[White to Kill]
+
+(;W[db];B[dc]
+(;W[ca];B[da]
+(;W[ea]C[RIGHT Black cannot atari])
+(;W[ba];B[ea])
+(;W[eb];B[ea]))
+(;W[ea];B[ca]))
+(;W[ca];B[db]
+(;W[da];B[ea]
+(;W[dc];B[ba])
+(;W[ba];B[dc]))
+(;W[dc];B[da]))
+(;W[dc];B[db];W[da];B[ea])
+(;W[da];B[ca];W[dc];B[db]))

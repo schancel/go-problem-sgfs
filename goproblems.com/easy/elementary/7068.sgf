@@ -1,0 +1,13 @@
+(;GE[elementary]DI[30k]DP[82]SO[maba]CO[7]AB[jh]AB[ji]AB[jj]AB[ki]AW[jg]AW[kg]AW[kh]AW[li]AW[lh]AW[jk]AW[kk]AW[ij]AW[ii]AW[hi]AW[hh]AB[ik]AB[hk]AB[hj]AB[gi]AB[gh]AW[gg]AW[if]AW[gf]AB[fj]AW[lk]C[Where should black play?]AP[goproblems]
+(;B[hg]
+(;W[ih];B[ig]C[RIGHT])
+(;W[ig];B[ih]C[RIGHT])
+(;W[kj];B[ih]C[RIGHT]))
+(;B[ih];W[hg])
+(;B[ig];W[hg])
+(;B[kj];W[lj]
+(;B[ih];W[ig])
+(;B[hg];W[ih]))
+(;B[lj];W[kj]
+(;B[ih];W[hg])
+(;B[hg];W[ih])))

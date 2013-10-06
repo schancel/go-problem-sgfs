@@ -1,0 +1,19 @@
+(;GE[life and death]DI[7k]DP[41]SO[polo]CO[8]AW[bb][cb][dc][ec][ed][fe][ff][fg][eh][di][ci][bi][bh][be][fd]AB[bg][cg][ch][cf][dg][bc][cc][cd][dd][de][ee][ef]SZ[19]C[White to kill]
+
+(;W[ae];B[af]
+(;W[ac];B[ad];W[bd]C[RIGHT Black cannot stop White from linking up])
+(;W[ce];B[ad])
+(;W[bd];B[ac])
+(;W[ad];B[ac]))
+(;W[ac];B[ad]
+(;W[bd];B[ab];W[ag];B[af];W[bf];B[ce];W[ae];B[af])
+(;W[ae];B[bd];W[ag];B[af];W[bf];B[ce])
+(;W[ag];B[af];W[ae];B[ce];W[bf];B[bd])
+(;W[af];B[ag]))
+(;W[ce];B[ae])
+(;W[ad];B[ac]
+(;W[ag];B[af])
+(;W[af];B[ag]))
+(;W[af];B[ag];W[ac];B[ad])
+(;W[bd];B[ac])
+(;W[bf];B[ag]))

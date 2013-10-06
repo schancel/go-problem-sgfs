@@ -1,0 +1,14 @@
+(;GE[life and death]DI[8k]DP[49]SO[karmaGfa]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[rd][of][pf][qf][rf][nh][rh][ni][qi][ri][si][nj][oj][pk][qk][rl][qm]AB[pg][qg][rg][sg][oh][ph][sh][oi][pj][qj][rj][rk][sk]LB[sk:A]TR[pd]C[Black just played at A to try to make his group alive. Where should you play? Choose Q16 if you think that white doesn't need to play.]PL[W]
+(;W[sl]CR[sl]C[Overplay ! the black group was already dead.])
+(;W[og]CR[og]C[Overplay ! the black group was already dead.])
+(;W[sf]CR[sf]C[Overplay ! the black group was already dead.])
+(;W[pi]CR[pi]
+;B[qh]CR[qh]C[Overplay ! the black group was already dead.
+You made it alive (message from black : 'thank you')])
+(;W[qh]CR[qh]C[Overplay ! the black group was already dead.])
+(;W[sj]CR[sj]
+;B[pi]CR[pi]C[Overplay ! the black group was already dead.
+You made it alive (message from black : 'thank you')])
+(;W[pd]CR[pd]C[RIGHT The black group is already dead.]))

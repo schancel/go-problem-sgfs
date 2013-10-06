@@ -1,0 +1,46 @@
+(;GE[best move]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[fp][gp][dq][eq][iq]
+AB[en][fo][ko][cp][dp][ep][cq][kq][mq]
+C[how can black best attack this shape?
+]
+(;B[gr];W[hr]
+(;B[er]LB[dr:A][fq:B]C[RIGHT
+A and B are miai
+])
+
+(;B[fq];W[fr];B[gq];W[hq])
+
+(;B[dr];W[er])
+
+(;B[gq];W[fr])
+)
+
+(;B[dr];W[er];B[cr];W[gr])
+
+(;B[io]C[wrong direction: attack from inside
+])
+
+(;B[ho]C[wrong direction: attack from inside
+])
+
+(;B[jr];W[ir]C[white now solid
+])
+
+(;B[cr];W[fr]C[white solid
+])
+
+(;B[ir];W[hr];B[jr];W[gq]C[lucky white
+])
+
+(;B[fr];W[fq];B[dr];W[er];B[es];W[cr])
+
+(;B[hq];W[hp])
+
+(;B[hr];W[ir])
+
+)

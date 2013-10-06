@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5k]DP[34]SO[maba]CO[3]AW[sa]AW[sb]AW[rc]AW[qb]AW[qa]AW[sd]AB[se]AB[re]AB[qe]AB[qd]AB[qc]AB[pc]AB[pb]AB[oc]AB[nc]AB[nb]AB[na]AW[ma]AW[mb]AW[mc]AW[md]AW[nd]AW[od]AW[pd]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]C[What is the best result black can get? Assume black and white both have some large ko threats.]AP[goproblems]
+(;B[pa];W[rd]C[Black is unconditionally dead.])
+(;B[oa];W[rd]C[Black is unconditionally dead.])
+(;B[ob]C[];W[mf]C[White ignores your move! Now what?]
+(;B[rd];W[sc]
+(;B[pa];W[oa])
+(;B[rb];W[ra])
+(;B[ra];W[rb]))
+(;B[pa];W[nf]C[White ignores again. This is not seki, Black cannot play S16 but White can.]MA[rd])
+(;B[rb];W[pa])
+(;B[ra];W[pa]))
+(;B[rd]
+(;W[pa]
+(;B[sc]C[];W[rb];B[oa];W[sd]C[Direct ko. Since Black has big ko threats Black may win this ko having to play just 2 moves in a row.RIGHT])
+(;B[oa];W[ob])
+(;B[ob];W[oa])
+(;B[rb];W[ra]
+(;B[oa];W[ob])
+(;B[ob];W[oa])
+(;B[sc]C[Two stage ko., Black takes first. White will now play a ko threat. To win this ko Black needs to play 3 moves in a row (2 more that White). This would be correct if there were only small ko threats on the board.]))
+(;B[ra];W[rb]
+(;B[oa];W[ob])
+(;B[ob];W[oa])
+(;B[sc];W[oa]C[Black is dead.])))
+(;W[sc];B[rb];W[ra];B[pa]C[RIGHT])
+(;W[rb];B[pa];W[ob];B[sc]C[RIGHT])
+(;W[ra];B[pa];W[ob];B[sc]C[RIGHT])
+(;W[oa];B[sc]C[RIGHT])
+(;W[ob];B[sc]C[RIGHT]))
+(;B[rb];W[ra]
+(;B[pa];W[rd])
+(;B[oa];W[rd])
+(;B[ob];W[pa])
+(;B[rd];W[pa]
+(;B[oa])
+(;B[ob])
+(;B[sc]C[Two stage ko., Black takes first. White will now play a ko threat. To win this ko Black needs to play 3 moves in a row (2 more that White). This would be correct if there were only small ko threats on the board.])))
+(;B[ra];W[rd]))

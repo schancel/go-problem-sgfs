@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[26]SO[tristesse]CO[6]SZ[19]AB[aq]AB[br]AB[cr]AB[bp]AB[bo]AB[bn]AB[cm]AB[dm]AB[en]AB[ep]AB[fp]AB[gq]AB[gr]AW[fr]AW[eq]AW[dr]AW[cs]AW[cq]AW[bq]AW[cp]AW[co]AW[cn]C[Problem VI.4 from The Game of Go by Arthur Smith.]FF[1]GM[1]AP[Jago:Version 4.6]GN[vi.4]
+(;W[ar];B[as]
+(;W[ap];B[ao]
+(;W[ds];B[bm];W[bs]C[RIGHT])
+(;W[bm];B[bl]
+(;W[am];B[al];W[ds];B[an]
+(;W[bm];B[am];W[bs]C[RIGHT])
+(;W[bs]C[RIGHT])
+(;W[am];B[bm];W[bs]C[RIGHT]))
+(;W[ds];B[am];W[bs]C[RIGHT])))
+(;W[ds];B[ap];W[bs];B[ar];W[bm];B[bl]))
+(;W[ap];B[ar])
+(;W[bs];B[ar])
+(;W[dp];B[ar]C[D3 is false.])
+(;W[ds];B[ar];W[dp]C[Black to tenuki; D3 is false.])
+(;W[fs];B[ar];W[dp]C[Black to tenuki; D3 is false.]))

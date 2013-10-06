@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1d]DP[16]SO[santa c]CO[4]SZ[9]AW[ea]AW[eb]AW[ec]AW[ad]AW[bd]AW[cd]AW[dd]AW[ed]AW[df]AW[ef]AW[ff]AW[ag]AW[bg]AW[cg]AW[dg]AW[fg]AW[fh]AW[fi]AB[da]AB[db]AB[ac]AB[bc]AB[cc]AB[dc]AB[eg]AB[ah]AB[bh]AB[ch]AB[dh]AB[eh]AB[di]LB[gc:D]C[Which one, u'd rather save? (Click on 'D' 4 doesn't matter! Or save 1..)FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[bi];W[bb]C[B=2(ter)=2 and W=11(ter)+6(pri)=17 W-B=15 Sorry - not the best one..]TW[aa]TW[ba]TW[ca]TW[da]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[cb]TW[db]TW[fb]TW[gb]TW[hb]TW[ib]TW[ac]TW[bc]TW[cc]TW[dc]TW[fc]TW[gc]TW[hc]TW[ic]TW[fd]TW[gd]TW[hd]TW[id]TW[ae]TW[be]TW[ce]TW[de]TW[ee]TW[fe]TW[ge]TW[he]TW[ie]TW[af]TW[bf]TW[cf]TW[gf]TW[hf]TW[if]TW[gg]TW[hg]TW[ig]TW[gh]TW[hh]TW[ih]TW[gi]TW[hi]TW[ii]TB[ai]TB[ci])
+(;B[bb];W[bi]LB[hc:1]LB[hd:2]LB[he:3]LB[hf:4]LB[hg:5]C[How by how much is it better? (Checkout 'Navigate Solution' 4 the right amount..)FORCE]TW[fa]TW[ga]TW[ha]TW[ia]TW[fb]TW[gb]TW[hb]TW[ib]TW[fc]TW[gc]TW[ic]TW[fd]TW[gd]TW[id]TW[ae]TW[be]TW[ce]TW[de]TW[ee]TW[fe]TW[ge]TW[ie]TW[af]TW[bf]TW[cf]TW[gf]TW[if]TW[eg]TW[gg]TW[ig]TW[ah]TW[bh]TW[ch]TW[dh]TW[eh]TW[gh]TW[hh]TW[ih]TW[ai]TW[ci]TW[di]TW[ei]TW[gi]TW[hi]TW[ii]TB[aa]TB[ba]TB[ca]TB[ab]TB[cb]
+(;B[he]C[B=5(ter)=5 and W=10(ter)+7(pri)=17 W-B=12 nice!!! RIGHT])
+(;B[hc]C[Wrong - The correct anwser is 3.])
+(;B[hd]C[Wrong - The correct anwser is 3.])
+(;B[hf]C[Wrong - The correct anwser is 3.])
+(;B[hg]C[Wrong - The correct anwser is 3.]))
+(;B[gc]C[Both rn't equal - Saving B7 is better!])
+(;B[ba];W[bi]LB[hc:1]LB[hd:2]LB[he:3]LB[hf:4]LB[hg:5]C[How by how much is it better? (Checkout 'Navigate Solution' 4 the right amount..)FORCE]TW[fa]TW[ga]TW[ha]TW[ia]TW[fb]TW[gb]TW[hb]TW[ib]TW[fc]TW[gc]TW[ic]TW[fd]TW[gd]TW[id]TW[ae]TW[be]TW[ce]TW[de]TW[ee]TW[fe]TW[ge]TW[ie]TW[af]TW[bf]TW[cf]TW[gf]TW[if]TW[eg]TW[gg]TW[ig]TW[ah]TW[bh]TW[ch]TW[dh]TW[eh]TW[gh]TW[hh]TW[ih]TW[ai]TW[ci]TW[di]TW[ei]TW[gi]TW[hi]TW[ii]TB[aa]TB[ba]TB[ca]TB[ab]TB[cb]
+(;B[he]C[B=5(ter)=5 and W=10(ter)+7(pri)=17 W-B=12 nice!!! RIGHT])
+(;B[hc]C[Wrong - The correct anwser is 3.])
+(;B[hd]C[Wrong - The correct anwser is 3.])
+(;B[hf]C[Wrong - The correct anwser is 3.])
+(;B[hg]C[Wrong - The correct anwser is 3.]))
+(;B[ai]C[This is just killing the buttom group - As it won't have 2 eyes.])
+(;B[ci]C[This is just killing the buttom group - As it won't have 2 eyes.])
+(;B[ei]C[This is just a wasted move.. Allows, white to decide, what's better, to kill..])
+(;B[ab]C[This is just a wasted move.. Allows, white to decide, what's better, to kill..])
+(;B[aa]C[This is just a wasted move.. Allows, white to decide, what's better, to kill..])
+(;B[cb]C[This is just a wasted move.. Allows, white to decide, what's better, to kill..])
+(;B[ca]C[This is just a wasted move.. Allows, white to decide, what's better, to kill..]))

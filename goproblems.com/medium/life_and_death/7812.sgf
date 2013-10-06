@@ -1,0 +1,66 @@
+(;GE[life and death]DI[2d]DP[12]SO[karmaGfa]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ni][qi][mj][nj][qj][lk][nk][pk][qk][kl][nl][rl][km][om][pm][qm][kn][ln][lo][lp][qp][kq][qq][sq][kr][lr][nr][or][qr][rr][sr][ms][ns][ps][qs]AB[nh][ph][qh][li][mi][oi][ri][lj][oj][rj][mk][rk][ml][pl][lm][mm][mn][mo][po][qo][ro][mp][pp][rp][sp][lq][mq][nq][pq][rq][mr][pr]LB[eo:A][fo:D][go:S][ho:K]TR[mo][po]C[If black play well (it's his turn), what is the status of the marked black group ?
+
+(A)live, (D)ead, (S)eki or (K)o for life ?
+]
+(;B[eo]CR[eo]
+;W[en]CR[en]C[Please play as black and make the group alive without a ko and without a seki.]
+(;B[rn]CR[rn]
+(;W[sn]CR[sn]C[CHOICE]
+;B[rm]CR[rm]
+;W[sm]CR[sm]
+(;B[ql]CR[ql]
+;W[ol]CR[ol]
+;B[ql]CR[ql]
+;W[pl]CR[pl]C[RIGHT White have no eye and black have one.]
+;B[oq]CR[oq])
+(;B[so]CR[so]
+;W[sl]CR[sl]
+;B[ql]CR[ql]
+;W[ol]CR[ol]
+;B[ql]CR[ql]
+;W[pl]CR[pl]C[RIGHT White have no eye and black have one.]
+;B[oq]CR[oq])
+(;B[sk]CR[sk]
+;W[sl]CR[sl]
+;B[ql]CR[ql]
+;W[ol]CR[ol]
+;B[ql]CR[ql]
+;W[pl]CR[pl]C[RIGHT White have no eye and black have one.]
+;B[oq]CR[oq]))
+(;W[rm]CR[rm]C[CHOICE]
+;B[sn]CR[sn]LB[so:1][np:2]C[RIGHT Black have 2 eyes, he is alive. White is dead.]
+;W[oo]CR[oo]
+;B[on]CR[on]
+;W[nn]CR[nn]
+;B[pn]CR[pn]LB[nm:A][no:B]
+(;W[no]CR[no]
+;B[nm]CR[nm]
+;W[oq]CR[oq]
+;B[op]CR[op])
+(;W[nm]CR[nm]
+;B[no]CR[no]
+;W[oq]CR[oq]
+;B[op]CR[op])
+(;W[oq]CR[oq]
+;B[op]CR[op]
+(;W[nm]CR[nm]
+;B[no]CR[no])
+(;W[no]CR[no]
+;B[nm]CR[nm]))))
+(;B[sm]CR[sm]
+;W[sn]CR[sn]C[Damn !]
+(;B[rn]CR[rn]
+;W[rm]CR[rm]C[Seki only. You failed.])
+(;B[sl]CR[sl]
+;W[rn]CR[rn]C[Black is not connected to the exterior and doesn't have enough space for 2 eyes. You failed.]))
+(;B[sn]CR[sn]
+;W[rn]CR[rn]
+(;B[sl]CR[sl]
+;W[sm]CR[sm]C[Ko only. You failed.])
+(;B[sm]CR[sm]
+;W[sl]CR[sl])))
+(;B[fo]CR[fo]C[Black is not dead if he plays correctly.])
+(;B[go]CR[go]C[Black can do better.])
+(;B[ho]CR[ho]C[Black can do better.]))

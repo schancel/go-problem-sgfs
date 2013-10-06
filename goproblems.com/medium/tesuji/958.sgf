@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[1d]DP[16]SO[marcin]CO[7]AB[fr]AB[gr]AB[gp]AB[fp]AB[ep]AB[dp]AB[bo]AW[hr]AW[gq]AW[fq]AW[eq]AW[dq]AW[cq]AB[hq]AB[iq]AB[ir]AW[hs]AW[is]AB[io]AB[kq]SZ[19]C[White wants to take marked stones. Help him!]TR[fr]TR[gr]AB[mp]AB[or]
+(;W[ks];B[jr];W[js]
+(;B[kr]C[CHOICE]
+(;W[lr]C[];B[ms]
+(;W[mr]C[RIGHT])
+(;W[ls];B[mr]))
+(;W[ls];B[lr];W[mr];B[ns])
+(;W[ms];B[lr];W[ls];B[mr]))
+(;B[ls];W[lr]C[RIGHT])
+(;B[lr];W[er]C[RIGHT]))
+(;W[jr];B[ks];W[kr];B[gs];W[js];B[lr];W[ls];B[jq];W[ks];B[ms])
+(;W[js];B[ks];W[kr];B[gs]C[No matter what White does, he is captured]
+(;W[ls];B[jr];W[ks];B[ms])
+(;W[jr])))

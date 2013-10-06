@@ -1,0 +1,33 @@
+(;GE[life and death]DI[6k]DP[37]SO[kdb]CO[5]AW[fr]AW[fq]AW[ep]AW[dp]AW[cp]AW[fp]AW[es]AB[eq]AB[er]AB[cs]AB[cq]AB[bq]AB[ar]AB[hr]AB[hp]AW[bo]AW[cn]C[White to kill.]AP[goproblems]
+(;W[fs];B[bs]
+(;W[dr];B[cr])
+(;W[cr];B[dr]
+(;W[ds];B[dq])
+(;W[dq];B[ds])))
+(;W[ds];B[dr];W[bs];B[fs]
+(;W[es];B[gs])
+(;W[gs];B[es]))
+(;W[dr];B[dq]
+(;W[ds];B[cr];W[bs];B[fs]
+(;W[gs];B[es])
+(;W[es];B[gs]))
+(;W[cr];B[br]
+(;W[fs];B[ds])
+(;W[ds];B[fs];W[ds];B[es])))
+(;W[br];B[bs]
+(;W[dr];B[cr])
+(;W[cr];B[dr])
+(;W[dq];B[dr]))
+(;W[dq];B[dr]
+(;W[fs];B[bs]
+(;W[cr];B[ds])
+(;W[ds];B[cr]))
+(;W[cr];B[br])
+(;W[bs];B[br];W[fs]C[black cannot play D1RIGHT]))
+(;W[bs]
+(;B[br]
+(;W[dr];B[dq]
+(;W[ds]C[RIGHT])
+(;W[fs]C[RIGHT]))
+(;W[dq];B[dr];W[fs]C[black can't play D1RIGHT]))
+(;B[ds];W[fs];B[br];W[dr];B[dq];W[cr];B[ds];W[cs];B[as];W[ds]C[RIGHT])))

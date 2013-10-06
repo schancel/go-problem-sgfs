@@ -1,0 +1,57 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[8]AW[cb]AW[ab]AB[db]AB[eb]AB[fb]AB[fc]AW[ed]AW[dc]AW[ec]AW[ee]AW[ef]AW[df]AB[dg]AB[eg]AB[ff]AB[ge]AB[gd]AB[fd]AB[de]AB[dd]AB[ce]AB[cf]AB[bf]AB[cg]AW[be]AW[bd]AW[cd]C[What did black do to the corner?FORCE]AP[goproblems]
+(;B[ba];W[ca]C[FORCE]
+(;B[ae];W[ad]
+(;B[bc];W[cc];B[bb]C[Well done! (Black killed it - It's no seki, cause black can surround from outside and only lib white'll have will be at A17)RIGHT])
+(;B[cc];W[bc]C[White lives!])
+(;B[bb];W[bc]C[White lives!])
+(;B[da];W[bb]C[White lives!]))
+(;B[bc];W[bb]
+(;B[cc];W[ac]C[White lives!]TR[cc]TR[ae])
+(;B[ac];W[cc]C[White lives!])
+(;B[ae];W[ac]C[White lives!])
+(;B[ad];W[ae]C[White lives!]))
+(;B[cc];W[bc]C[White lives!])
+(;B[bb];W[bc]C[White lives!])
+(;B[ad];W[ae]
+(;B[bc];W[ac]
+(;B[bb];W[cc]C[White lives!])
+(;B[cc];W[bb]C[White lives!]))
+(;B[bb];W[bc]C[White lives!])
+(;B[cc];W[bc]C[White lives!]))
+(;B[ac];W[bc]C[White lives!])
+(;B[da];W[bb]C[White lives!])
+(;B[af];W[bb]C[White lives!]))
+(;B[ca];W[ba]C[White lives!])
+(;B[bc];W[bb]C[]
+(;B[cc];W[ac]C[White lives!]TR[cc]TR[ae])
+(;B[ac];W[cc]C[White lives!])
+(;B[ca];W[ba]
+(;B[cc];W[ac]C[White lives!]TR[cc]TR[ae])
+(;B[ac];W[cc]C[White lives!])
+(;B[ae];W[cc]C[White lives!])
+(;B[ad];W[ae]C[White lives!]))
+(;B[ae];W[cc]C[White lives!])
+(;B[ad];W[ae]C[White lives!]))
+(;B[bb];W[bc]
+(;B[ba];W[ca]C[White lives!])
+(;B[ca];W[ba]C[White lives!]))
+(;B[cc];W[bc]
+(;B[ba];W[ca]C[White lives!])
+(;B[ca];W[ba]C[White lives!]))
+(;B[ac];W[bc]C[White lives!])
+(;B[ad];W[ba]
+(;B[ae];W[bc]C[White lives!])
+(;B[bc];W[ac]C[White lives!])
+(;B[cc];W[bc]C[White lives!])
+(;B[ac];W[bc]C[White lives!])
+(;B[af];W[ae]C[White lives!]))
+(;B[ae];W[ba]
+(;B[bc];W[cc]
+(;B[ad];W[ac]C[White lives!])
+(;B[ac];W[ad]C[White lives!]))
+(;B[ad];W[bc]C[White lives!])
+(;B[ac];W[ad]
+(;B[bc];W[cc]C[White lives!])
+(;B[cc];W[bc]C[White lives!]))
+(;B[cc];W[bc]C[White lives!]))
+(;B[af];W[ba]C[White lives!]))

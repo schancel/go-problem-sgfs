@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[4k]DP[30]SO[Field Mouse]CO[8]AB[bc]AB[cf]AB[df]AB[bg]AB[bh]AW[bi]AW[ci]AW[ch]AW[dg]AW[ei]AW[ef]AW[de]AW[dc]AB[cj]AB[cm]AB[em]AB[ce]AW[cd]AB[cg]AW[bd]AB[dh]AW[eg]TR[cg]MA[bg]C[Black to save his marked stones!]AB[be]AB[ad]AB[ac]AB[bb]AB[cb]AB[db]AW[ec]AW[eb]AW[ea]AW[da]AW[ca]AW[ba]AW[af]AB[ab]AW[aa]AW[cc]AW[ee]AB[ae]AP[goproblems]
+(;B[ai]
+(;W[bj]
+(;B[bk];W[ck]
+(;B[aj];W[dj]
+(;B[bl]C[Yaa!RIGHT])
+(;B[cl];W[bl]))
+(;B[di];W[dj];B[aj]
+(;W[eh];B[bl]C[RIGHT])))
+(;B[ak];W[aj])
+(;B[di];W[bk]))
+(;W[aj]
+(;B[bj];W[ah]
+(;B[di];W[ai];B[ak]C[:-)RIGHT])
+(;B[ak];W[ag]C[:-O]))
+(;B[di]
+(;W[ah];B[bj];W[ai];B[ak]C[RIGHT]))))
+(;B[bj];W[ai]C[No.])
+(;B[di];W[ai]C[Tricky one!]
+(;B[dj];W[ah]C[Got u!])
+(;B[bj];W[dj]))
+(;B[aj];W[ai])
+(;B[dj];W[di])
+(;B[ah];W[bj]C[No way to connect now.])
+(;B[dd]C[Get strong at pass :o)]))

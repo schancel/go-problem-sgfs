@@ -1,0 +1,17 @@
+(;GE[life and death]DI[2k]DP[21]SO[ocho]CO[6]AB[qb]AB[qa]AB[pc]AB[pd]AB[od]AB[nd]AB[md]AB[mc]AB[la]AW[mb]AW[nc]AW[oc]AW[ob]AW[pb]AW[lc]AW[ld]AW[kb]AW[jb]AB[le]AB[jd]AB[ic]AB[ib]AB[kd]AB[ke]C[white to play]AP[goproblems]
+(;W[pa];B[lb]
+(;W[na];B[kc]
+(;W[ma]C[RIGHT])
+(;W[lc];B[ld]
+(;W[ka];B[lc];W[ma]C[RIGHT])
+(;W[ma]C[RIGHT])))
+(;W[ma]
+(;B[kc];W[na]C[RIGHT])
+(;B[na];W[ka]C[RIGHT]))
+(;W[ka];B[kc]
+(;W[ma];B[na];W[lc];B[lb])
+(;W[na]C[RIGHT])))
+(;W[na];B[pa];W[oa];B[lb];W[kc];B[ja])
+(;W[ma];B[oa])
+(;W[lb];B[oa])
+(;W[ka];B[oa]))

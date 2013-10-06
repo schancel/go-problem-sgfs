@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[5k]DP[32]SO[Zwom]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dc][fc][cd][ce][qg][qj]AB[od][qd][de][cf][df][cj]
+(;B[kc]CR[kc]C[In that white positions are already strong black shouldn't leave behind a weakness around n17])
+(;B[lc]CR[lc]C[RIGHT black forms a solid position immediately in that both white positions are strong.]))

@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[29]SO[chrisg]CO[5]AB[dd]AW[fc]AB[cf]AW[ch]AB[cc]AW[db]AW[cb]AB[eb]AB[ec]AB[fb]AW[gc]AW[gb]AB[fd]AW[gd]AB[fe]AW[ge]AB[ce]AW[bd]AW[be]AW[bf]AB[bc]AB[bb]AW[cg]AB[dg]AB[eg]AW[dh]AW[eh]AW[gg]AB[fg]AW[gf]AW[fh]AB[ad]AW[ag]AB[ae]AB[ab]AW[af]AB[ac]AW[cd]TR[cd]C[W has just played the marked stone and B tenukied thinking that there was nothing that W could do]AP[goproblems]
+(;W[de];B[dc]C[B can play this way - in fact it looks like B's best play to me.CHOICE]
+(;W[ee];B[ed];W[ff]C[Although you capture 5 stones, you do loose sente :-(, but I'll let you have this oneRIGHT])
+(;W[ff];B[ed]
+(;W[ef]C[Sorry I'm not letting you have this, you could have done a little better])
+(;W[ee]C[RIGHT])))
+(;W[dc];B[da];W[de];B[ed];W[ff];B[ef];W[df]C[];B[ee]C[W only catches 2  stones])
+(;W[ff];B[de]
+(;W[ef];B[df]
+(;W[ee];B[dc];W[ed]C[Only two stones - you can do better])
+(;W[ed];B[dc];W[ee]C[And W catches 2 stones, W can do much better, so I've marked this as wrong]))
+(;W[ee]
+(;B[ed];W[ef];B[dc];W[df]C[Only 3 stones - can do better])
+(;B[df];W[ed];B[dc]C[two stones in sente - could be better]))
+(;W[ed];B[ee];W[ef];B[dc];W[df]C[Three stones - can do better])
+(;W[dc];B[da]
+(;W[ed];B[ee];W[ef];B[ca];W[df]C[Three stones - can do better])
+(;W[ef];B[ee];W[df];B[ca]C[Three stones - can do better]))))

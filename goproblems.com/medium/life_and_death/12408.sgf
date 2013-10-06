@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1d]DP[17]SO[MeleeNewb]CO[0]AW[ar]AW[cr]AW[cq]AB[ap]AB[cp]AB[dp]AB[dq]AB[dr]AB[bq]AW[co]AW[do]AW[eo]AW[eq]AW[er]AW[ds]AB[bp]AB[ao]AW[bo]AB[an]AW[bm]AW[cl]AB[ep]AB[fp]AW[fo]AW[gp]AW[go]AW[fq]AW[gr]AB[gs]AW[hr]AB[gq]AB[hq]AW[iq]AW[ip]C[D if black is dead. K if black can get a ko. S if black can get a seki. A if black can make life unconditionally.FORCE]LB[el:D]LB[gl:K]LB[fm:S]LB[hm:A]AP[goproblems]
+(;B[gl];W[el]C[A ko? How?]
+(;B[es];W[fs]
+(;B[bs];W[br];B[cs];W[as];B[cs];W[bs];B[aq];W[hp];B[cs];W[cr]C[RIGHT])
+(;B[br];W[bs]
+(;B[aq]C[RIGHT])
+(;B[cs];W[cr])))
+(;B[bs];W[es]
+(;B[cs];W[br];B[aq];W[as];B[cs];W[bs];B[cs];W[cr])
+(;B[br];W[cs]))
+(;B[br];W[bs]
+(;B[es];W[fs])
+(;B[cs];W[cr])
+(;B[aq];W[es]
+(;B[cs];W[cr])
+(;B[as];W[cs])))
+(;B[fr];W[hp]
+(;B[br];W[bs];B[aq];W[es])
+(;B[bs];W[br];B[cs];W[as];B[cs];W[bs];B[aq];W[es];B[cs];W[cr])))
+(;B[el]C[No, black has a chance.])
+(;B[fm]C[No, no seki here.])
+(;B[hm]C[Nope, black cant make unconditional life.])
+(;B[cm]C[This is a nonsense move. You get the problem wrong, but you may have a cookie.]))

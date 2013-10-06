@@ -1,0 +1,58 @@
+(;GE[life and death]DI[4d]DP[8]SO[adum]CO[3]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][hb][ac][bc][cc][fc][gc][ic][dd][ed][ce]AB[ca][ab][bb][cb][fb][dc]LB[ag:0][bg:1][cg:2][dg:3][eg:4][fg:5][gg:6]C[how many ways to kill without ko? click on the number]PL[W]
+(;W[fg]
+;B[fh]CR[fh]C[RIGHT
+now you can try different approaches in the actual problem]
+(;W[gb]CR[gb]
+;B[eb]CR[eb]
+;W[fa]CR[fa]
+;B[ea]CR[ea]
+;W[db]CR[db]
+;B[ec]CR[ec]
+;W[da]CR[da]C[RIGHT
+black dead])
+(;W[eb]CR[eb]C[RIGHT
+black dead])
+(;W[db]CR[db]
+;B[eb]CR[eb]
+(;W[ec]CR[ec]C[RIGHT
+black dead])
+(;W[da]CR[da]
+;B[ea]CR[ea]))
+(;W[ea]CR[ea]
+;B[eb]CR[eb]
+(;W[ec]CR[ec]
+;B[da]CR[da]
+;W[db]CR[db]C[ko])
+(;W[db]CR[db]
+;B[da]CR[da]
+;W[ec]CR[ec]C[ko])
+(;W[fa]CR[fa]
+;B[ga]CR[ga]
+;W[gb]CR[gb]
+;B[da]CR[da]))
+(;W[da]CR[da]
+;B[eb]CR[eb])
+(;W[ec]CR[ec]
+;B[eb]CR[eb]
+(;W[db]CR[db]C[RIGHT
+black dead])
+(;W[fa]CR[fa]C[RIGHT
+black dead]))
+(;W[fa]CR[fa]
+;B[eb]CR[eb]
+;W[ec]CR[ec]
+;B[ga]CR[ga]
+;W[db]CR[db]
+;B[da]CR[da]
+;W[gb]CR[gb]C[RIGHT
+black dead])
+(;W[ga]CR[ga]
+;B[eb]CR[eb]))
+(;W[ag]CR[ag]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[bg]CR[bg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[cg]CR[cg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[dg]CR[dg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[eg]CR[eg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[gg]CR[gg]C[incorrect. the right moves are shown after you select the correct answer.]))

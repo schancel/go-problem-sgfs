@@ -1,0 +1,68 @@
+(;GE[tesuji]DI[3k]DP[25]SO[lok]CO[0]AB[sc]AB[rc]AB[qc]AB[pd]AB[pe]AB[od]AB[nd]AB[nc]AW[mb]AW[nb]AW[oc]AW[pc]AW[lc]AW[qd]AW[rd]AW[sd]AW[re]AW[rf]AB[rg]AB[qg]AB[og]C[Black to do well.]AP[goproblems]
+(;B[qb];W[pb]
+(;B[pa];W[ob]
+(;B[sb];W[ra]
+(;B[sf]C[Black win the semai. Well done!RIGHT])
+(;B[qf]C[Black win the semai. Well done!RIGHT])
+(;B[qe]C[Black win the semai. Well done!RIGHT])
+(;B[se]C[There are better ways to reduce white liberties.Yet this works ...RIGHT]))
+(;B[qa];W[oa]C[Black 3 liberties, white 4 liberties. White wins.])
+(;B[ra];W[sb]LB[sf:A]C[Play at AFORCE];B[sf];W[oa]LB[qf:A]C[Play at AFORCE];B[qf];W[qa]C[Ko. Black can do better.])
+(;B[sf];W[sb])
+(;B[qf]C[NOTTHIS])
+(;B[qe]C[NOTTHIS]))
+(;B[sb];W[ra];B[pa];W[ob])
+(;B[ra];W[sb];B[pa];W[ob])
+(;B[sf];W[sb];B[pa];W[ob]
+(;B[ra])
+(;B[qf];W[rb];B[qa];W[oa]))
+(;B[qf]C[NOTTHIS])
+(;B[qe]C[NOTTHIS]))
+(;B[pb];W[ob]
+(;B[qb];W[pa]
+(;B[ra];W[sb]C[Black 3 liberties, white 4 liberties. White wins.])
+(;B[sf];W[sb]C[Black 2 liberties, white 3 liberties. White wins.])
+(;B[qf]C[NOTTHIS])
+(;B[qe]C[NOTTHIS]))
+(;B[qa];W[oa]
+(;B[rb];W[pa];B[sa];W[qb]C[Ko for life in the corner. Black can do better.])
+(;B[sf];W[sb]
+(;B[rb];W[pa];B[sa];W[qb]C[Ko for life in the corner. Black can do better.])
+(;B[qf];W[rb];B[qb];W[pa]C[Black is caught.])
+(;B[qe]C[NOTTHIS]))
+(;B[qf]C[NOTTHIS])
+(;B[qe]C[NOTTHIS])
+(;B[sb];W[qb]
+(;B[sf];W[pa]C[Black is caught])
+(;B[rb];W[pa]C[Ko.])
+(;B[qf]C[NOTTHIS])
+(;B[qe]C[NOTTHIS])
+(;B[ra];W[pa]C[Black 3 liberties, white 4 liberties. White wins.])))
+(;B[rb];W[pa];B[qa];W[qb]C[Ko])
+(;B[ra];W[qb]
+(;B[pa];W[rb]C[Oups.])
+(;B[rb];W[pa]C[Black 3 liberties, white 4 liberties. White wins.]))
+(;B[pa];W[rb];B[qb];W[ra]C[Black 3 liberties, white 4 liberties. White wins.]))
+(;B[sf];W[qb];B[pb];W[ob];B[rb];W[pa]C[Black 2 liberties, white 3 liberties. White wins.])
+(;B[qe]C[NOTTHIS])
+(;B[qf]C[NOTTHIS])
+(;B[pa];W[ob]
+(;B[qb];W[sb]
+(;B[sf];W[pb])
+(;B[rb];W[pb];B[sa]C[RIGHT];W[qa];B[sf]C[RIGHT])
+(;B[pb];W[ra];B[rb];W[sa]C[Black 3 liberties, white 4 liberties. White wins.FORCE]LB[sf:A])
+(;B[ra];W[pb]))
+(;B[pb])
+(;B[ra];W[qb])
+(;B[rb];W[qa]
+(;B[qb];W[pb])
+(;B[pb];W[ra]
+(;B[sa];W[sb])
+(;B[qb];W[sa]))
+(;B[ra];W[pb];B[qb];W[oa]))
+(;B[qa];W[rb];B[qb];W[oa]))
+(;B[qa];W[pb];B[rb];W[sa])
+(;B[ra];W[qb]
+(;B[pb];W[ob])
+(;B[rb];W[pb]C[Black 3 liberties, white 4 liberties. White wins.]))
+(;B[ob];W[pb];B[qb];W[pa];B[qa];W[oa]C[White wins]))

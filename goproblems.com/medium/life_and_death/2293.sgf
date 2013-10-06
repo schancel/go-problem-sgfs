@@ -1,0 +1,76 @@
+(;GE[life and death]DI[2k]DP[21]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd30]
+
+AB[ss][sq][sr][pp][pq][qr][mq][nq][nr][oo][mo][lo][kp][jq][jr]
+[lr][ko][on][rp][po][nn][hr][ro]AW[rq][qq][rr][pr][or][oq][op]
+[np][mp][lq][lp][os][no]C[Black to kill.]
+(;B[qs];W[mr]
+(;B[ms];W[ns]
+(;B[mr];W[kr]
+(;B[rs];W[ls]
+(;B[mr]C[Rabbity-six. RIGHT])
+(;B[kq];W[mr])
+(;B[js];W[mr]))
+(;B[ls];W[ks]C[alive])
+(;B[kq];W[ls]
+(;B[mr];W[ps]
+(;B[lr];W[rs]
+(;B[sp];W[mq]
+(;B[ks];W[nr])
+(;B[nr];W[ks]))
+(;B[ks];W[sp]))
+(;B[sp];W[rs];B[lr];W[mq]
+(;B[ks];W[nr])
+(;B[nr];W[ks]))
+(;B[rs];W[sp]))
+(;B[rs];W[mr])
+(;B[qp];W[mr])
+(;B[sp];W[mr]))
+(;B[ks];W[ls]
+(;B[qp];W[mr])
+(;B[rs];W[mr])
+(;B[sp];W[mr])
+(;B[mr];W[ps]
+(;B[lr];W[rs]
+(;B[sp];W[kq];B[ms];W[mq]
+(;B[js];W[nr])
+(;B[ls];W[nr])
+(;B[nr];W[nq]))
+(;B[kq];W[sp])
+(;B[ms];W[sp]))
+(;B[rs];W[sp])
+(;B[sp];W[rs];B[lr];W[kq];B[ms];W[mq]
+(;B[js];W[nr])
+(;B[ls];W[nr])
+(;B[nr];W[nq])))
+(;B[kq];W[ps]LB[nq:a][qr:b]C[white has eyes in the region of 'a' and 'b']
+))
+(;B[qp];W[ls];B[mr]C[Rabbity-six. RIGHT])
+(;B[sp];W[ls];B[mr]C[Rabbity-six. RIGHT]))
+(;B[kr];W[mr];B[nq];W[ps])
+(;B[kq];W[mr];B[nq];W[ps])
+(;B[rs];W[mr];B[nq];W[kr])
+(;B[sp];W[mr];B[nq];W[kr])
+(;B[qp];W[mr];B[nq];W[kr]))
+(;B[kr];W[ns];B[nq];W[ps])
+(;B[kq];W[ns];B[nq];W[ps])
+(;B[rs];W[ns];B[nq];W[kr])
+(;B[sp];W[ns];B[nq];W[kr])
+(;B[qp];W[ns];B[nq];W[kr]))
+(;B[kr];W[qs])
+(;B[kq];W[qs])
+(;B[ns];W[ms];B[mr];W[kr];B[ls];W[ks])
+(;B[mr];W[qs])
+(;B[rs];W[qs];B[sp];W[mr]
+(;B[ms];W[ns]
+(;B[mr];W[kr])
+(;B[qp];W[qr];B[mr];W[kr]))
+(;B[qp];W[qr];B[ms];W[ns];B[mr];W[kr]))
+(;B[ms];W[qs])
+(;B[qp];W[qs])
+(;B[sp];W[qs];B[rs];W[mr]
+(;B[ms];W[ns]
+(;B[mr];W[kr])
+(;B[qp];W[qr];B[mr];W[kr]))
+(;B[qp];W[qr];B[ms];W[ns];B[mr];W[kr])))

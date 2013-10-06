@@ -1,0 +1,65 @@
+(;GE[best move]DI[4d]DP[7]SO[Imperateur]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2001-07-18]
+SY[Cgoban 1.9.5]TM[-];
+AW[ca][ea][fa][ga][ha][ia][ka][cb][gb][ib][jb][lb][pb][qb][cc][jc][kc][lc][mc][q
+c][dd][kd][ld][qd][rd][pe][re][df][dg][dh][fh][ri][dj][rj][gk][cl][il][pl][ql][m
+m][nm][om][qm][mn][nn][rn][no][oo][ro][dp][ip][jp][np][rp][sp][fq][nq][oq][pq][s
+q][pr][ps][rs]
+AB[da][la][ma][db][eb][hb][mb][ob][dc][ec][fc][gc][hc][ic][nc][pc][fd][id][jd][m
+d][nd][pd][ke][le][oe][qe][ff][jf][qf][rf][eg][qg][gh][gi][qi][ij][pj][kk][ok][m
+l][nl][ol][lm][pm][cn][ln][on][pn][lo][po][kp][op][pp][qp][jq][lq][qq][rq][hr][m
+r][nr][qr][sr][os][qs]
+TR[os]LB[lc:A]
+C[White has foolishly ignored the marked ko threat in favor of saving her group 
+up top.  Make some noise black.
+]
+(;B[cp];W[cq];B[do];W[ep];B[bq];W[bp];B[bo];W[co]
+(;B[or]
+C[RIGHTNow the capture race means something and black will probably end up eithe
+r winning, or with a settled strong group in the lower left.
+])
+
+(;B[mq]
+C[RIGHTNow the capture race means something and black will probably end up eithe
+r winning, or with a settled strong group in the lower left.
+])
+
+(;B[mp]
+C[RIGHTNow the capture race means something and black will probably end up eithe
+r winning, or with a settled strong group in the lower left.
+])
+
+(;B[mo]
+C[RIGHTNow the capture race means something and black will probably end up eithe
+r winning, or with a settled strong group in the lower left. 
+])
+)
+
+(;B[or]LB[qn:A][qo:B]
+C[White can still pull ahead in the capturing race by playing at a or b.
+])
+
+(;B[mq]LB[qn:A][qo:B]
+C[White can still pull ahead in the capturing race by playing at a or b.
+])
+
+(;B[mp]LB[qn:A][qo:B]
+C[White can still pull ahead in the capturing race by playing at a or b.
+])
+
+(;B[mo]LB[qn:A][qo:B]
+C[White can still pull ahead in the capturing race by playing at a or b.
+])
+
+(;B[cq];W[cp]TR[cn]
+C[Playing the 3-3 invasion will get you sealed in, and the marked stone will be 
+left stranded.  It also does not take advantage of the ko threat that was played
+ at a.  You can do better.
+]
+LB[os:A])
+
+)

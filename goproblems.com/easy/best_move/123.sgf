@@ -1,0 +1,28 @@
+(;GE[best move]DI[5k]DP[33]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[fn][eo][ep][bq][dq][br][cr]
+AB[cm][co][go][bp][cp][cq][gq][iq][er]LB[er:1]PL[2]
+C[black just played 1. best response?
+]
+(;W[fr];B[fq]
+(;W[eq];B[gr];W[dr]C[RIGHT
+black ends in gote, the cad
+])
+
+(;W[dr];B[eq])
+)
+
+(;W[eq];B[fr];W[dr]C[white ends in gote
+])
+
+(;W[dr];B[eq];W[dp]C[yuck
+])
+
+(;W[es];B[fr];W[dr]C[gote
+])
+
+)

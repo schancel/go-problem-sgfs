@@ -1,0 +1,19 @@
+(;GE[elementary]DI[10k]DP[54]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bq][cq][ar][dr][ds]AB[bn][bp][cp][dp][eq][br][er][gr][cs]C[how to kill these white stones?]
+(;B[bs]CR[bs]C[RIGHT
+now white cannot make a ko, and it is a dead shape inside])
+(;B[ap]CR[ap]
+;W[bs]CR[bs]C[ko])
+(;B[cr]CR[cr]
+;W[bs]CR[bs])
+(;B[dq]CR[dq]
+;W[bs]CR[bs]C[ko])
+(;B[es]CR[es]
+;W[bs]CR[bs]C[ko])
+(;B[as]CR[as]
+;W[bs]CR[bs]C[ko])
+(;B[aq]CR[aq]
+;W[ap]CR[ap]
+;B[bs]CR[bs]C[RIGHT
+that first exchange is a little bad, but okay, it's still dead]))

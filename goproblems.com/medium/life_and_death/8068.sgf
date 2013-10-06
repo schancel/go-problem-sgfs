@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3k]DP[26]SO[santa c]CO[6]AW[ao]AW[bo]AW[co]AW[eo]AW[do]AW[fo]AW[gp]AW[gq]AW[gr]AW[gs]AB[bq]AB[br]AB[bs]AB[cp]AB[dp]AB[eq]AB[dr]AW[cr]AW[aq]AW[ar]C[White to kill]AP[goproblems]
+(;W[er]
+(;B[cq]
+(;W[ep]C[Well done! Black's unable to capture E2, making D3 a fake eye! :)RIGHT]MA[er]TR[dq])
+(;W[ds];B[cs]
+(;W[ep];B[fr]C[:(])
+(;W[es];B[ep]C[:(])
+(;W[fs];B[ep]C[:(])
+(;W[fr];B[ep]C[:(])
+(;W[fq];B[ep]C[:(]))
+(;W[es];B[ep]C[:(])
+(;W[fq];B[ep]C[:(]))
+(;B[fr];W[es];B[cq];W[ep]C[RIGHT])
+(;B[ep];W[cq]C[RIGHT]))
+(;W[cq];B[es]
+(;W[cs];B[bp]
+(;W[ap];B[ep]C[Seki! :(])
+(;W[ep];B[ap]C[:(]))
+(;W[bp];B[cs]C[:(])
+(;W[ep];B[cs]C[:(])
+(;W[fr];B[er]
+(;W[cs];B[bp]
+(;W[ap];B[ep]C[Seki! :(])
+(;W[ep];B[ap]C[:(]))
+(;W[bp];B[cs]C[:(])
+(;W[ep];B[cs]C[:(])))
+(;W[cs];B[cq]C[:(])
+(;W[ds];B[es]C[:(])
+(;W[es];B[cq]C[:(]TR[er]TR[ep])
+(;W[ep];B[es]C[:(]TR[cs]TR[cq])
+(;W[bp];B[cq]C[:(])
+(;W[ap];B[cq]C[:(])
+(;W[dq];B[cq]C[:(]))

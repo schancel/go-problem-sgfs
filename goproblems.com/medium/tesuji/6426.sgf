@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[2k]DP[22]SO[MrMoto]CO[4]AB[gd]AB[ge]AB[gf]AB[gg]AB[fh]AB[hh]AB[hi]AB[gi]AB[hj]AB[ed]AB[ec]AB[fb]AB[db]AB[dd]AB[de]AB[kf]AB[lf]AB[me]AB[mg]AB[ng]AB[nf]AB[nd]AB[oe]AB[pd]AB[pf]AB[ik]AB[il]AB[im]AB[in]AW[fi]AW[fj]AW[gj]AW[gk]AW[hk]AW[hl]AW[hm]AW[ej]AW[eh]AW[eg]AW[dh]AW[dc]AW[cc]AW[cb]AW[cd]AW[bc]AW[fc]AW[hc]AW[gc]AW[id]AW[he]AW[kd]AW[le]AW[md]AW[nc]AW[oc]AW[pc]AW[pb]AW[of]AW[ij]AW[kj]AW[mj]AB[oj]AB[pj]AW[cg]AW[cf]AW[bh]AW[bi]AB[ch]AB[ci]AB[di]AB[ei]AB[dj]AB[ck]AB[dk]AW[bg]AB[bj]AW[ak]AW[aj]AW[bk]AB[bl]AB[bm]AB[bn]AB[cm]AB[bp]AB[cq]AW[cr]AW[dq]AW[bo]AW[co]AW[cn]AW[dn]AB[ek]AB[fk]AW[fl]AW[em]AW[hn]AW[gm]AW[go]AW[gp]AW[hp]AW[hq]AB[gn]AB[gq]AB[ho]AB[io]AB[ip]AB[ro]AB[qo]AB[po]AB[oo]AB[pp]AB[np]AB[mp]AB[lq]AW[nq]AW[oq]AW[op]AW[pq]AW[qq]AW[qp]AB[qc]AB[ob]AW[ig]MA[ig]C[Black can't afford to have his moyo reduced.  How should he respond to the marked move?]AP[goproblems]
+(;B[if];W[hf]
+(;B[hg];W[jf])
+(;B[jg];W[hg])
+(;B[jf];W[hg])
+(;B[jh];W[jf])
+(;B[ie];W[hd];B[hg]C[Well done!RIGHT])
+(;B[hd];W[ie];B[jf];W[hg])
+(;B[ke]C[NOTTHIS]))
+(;B[ke]C[NOTTHIS])
+(;B[ie];W[je])
+(;B[hf];W[if])
+(;B[hd];W[ie])
+(;B[jh]C[Too submissive.]))

@@ -1,0 +1,225 @@
+(;GE[life and death]DI[4k]DP[29]SO[mrmoto]CO[9]AB[ga]AB[hb]AB[jb]AB[kb]AB[kc]AB[jd]AB[id]AB[gd]AW[fa]AW[fb]AW[fc]AW[fd]AW[la]AW[lb]AW[lc]AW[ld]AW[kd]AW[ke]AW[je]AW[ie]AW[he]AW[ge]AW[fe]AP[goproblems]
+(;W[gb];B[ic]
+(;W[ha];B[ia]
+(;W[ka];B[hc];W[ja];B[ga]C[ko, black takes first])
+(;W[ga];B[hc])
+(;W[hc];B[ga];W[ka];B[ja];W[ha]C[ko, white takes first]))
+(;W[hd];B[ia])
+(;W[hc];B[ha])
+(;W[ia];B[ha])
+(;W[ja];B[ka])
+(;W[ka];B[ja];W[ha];B[ia];W[hc];B[ga]C[ko, black takes first]))
+(;W[gc];B[ia])
+(;W[hd];B[ic])
+(;W[hc];B[ic])
+(;W[ia];B[ic])
+(;W[ib];B[ic])
+(;W[ja];B[ic]
+(;W[ka];B[ia];W[gb];B[hc];W[ha]C[ko, white takes first])
+(;W[ia];B[ka])
+(;W[gb];B[ka])
+(;W[hc];B[ka]))
+(;W[ka];B[ic]
+(;W[ja];B[ia];W[gb];B[hc];W[ha]C[ko, white takes first])
+(;W[ia];B[ja])
+(;W[gb];B[ja]
+(;W[ha];B[ia]
+(;W[ga];B[hc])
+(;W[hc];B[ga]C[ko, black takes first]))
+(;W[ia];B[ha])
+(;W[hc];B[ha]))
+(;W[hc];B[gb]))
+(;W[ic];B[hd]
+(;W[gb];B[hc]
+(;W[ha];B[ia]
+(;W[ka]C[RIGHT])
+(;W[ga];B[ka])
+(;W[ib];B[ka];W[ja]C[ko, white takes first]))
+(;W[ib];B[ka]
+(;W[ha];B[ia]
+(;W[ja]C[ko, white takes first])
+(;W[ga];B[jc]))
+(;W[ia]C[RIGHT]))
+(;W[ia];B[ib]
+(;W[ha]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[gc];B[hc]
+(;W[gb];B[ka]
+(;W[ib];B[ia])
+(;W[ha];B[ia])
+(;W[ia];B[ib];W[ha]C[RIGHT]))
+(;W[ib];B[ia]
+(;W[gb];B[ka])
+(;W[ka];B[gb]))
+(;W[ia];B[ib]
+(;W[gb];B[ha])
+(;W[ha];B[gb])
+(;W[ja];B[ka])
+(;W[ka];B[ja]))
+(;W[ja];B[ia]
+(;W[ka];B[gb])
+(;W[gb];B[ka])
+(;W[ib];B[ka]))
+(;W[ka];B[ia]
+(;W[ja];B[gb])
+(;W[gb]C[RIGHT])))
+(;W[hc];B[gc]
+(;W[gb];B[jc]
+(;W[ka]C[RIGHT])
+(;W[ib];B[ia]
+(;W[ka];B[ic])
+(;W[ic];B[ka])
+(;W[ha];B[ka]))
+(;W[ia];B[ib]
+(;W[ha]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[ja]C[RIGHT])
+(;W[ha];B[ia]
+(;W[ga];B[ka])
+(;W[ib];B[hb]
+(;W[ic];B[ka])
+(;W[ga];B[ka])
+(;W[ka];B[ic]
+(;W[ga];B[ja])
+(;W[ja];B[ga]C[ko, black takes first])))
+(;W[ka]C[RIGHT])))
+(;W[ib];B[ia]
+(;W[ka];B[gb])
+(;W[gb];B[jc]
+(;W[ka];B[ic])
+(;W[ic];B[ka])
+(;W[ha];B[ka])))
+(;W[ia];B[ib]
+(;W[gb];B[jc]
+(;W[ha]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[ka];B[ja];W[gb]C[RIGHT])
+(;W[ha];B[gb])
+(;W[ja];B[ka]))
+(;W[ja];B[ib]
+(;W[gb];B[ha];W[ka]C[RIGHT])
+(;W[ka];B[ia];W[gb]C[RIGHT])
+(;W[ha];B[ia]
+(;W[ka];B[gb])
+(;W[gb];B[ka]))
+(;W[ia];B[ka]))
+(;W[ka];B[ja]
+(;W[ib];B[ia];W[gb];B[jc]
+(;W[ha];B[ic])
+(;W[ic]C[RIGHT]))
+(;W[ia];B[ib];W[gb]C[RIGHT])
+(;W[gb]C[RIGHT]))
+(;W[ha];B[gb])
+(;W[jc];B[ib]))
+(;W[jc];B[ib])
+(;W[ha];B[gb])
+(;W[ja];B[gb]
+(;W[gc];B[hc]
+(;W[ib];B[ia]
+(;W[ha]C[ko, white takes first])
+(;W[ka];B[jc]))
+(;W[ia]C[RIGHT])
+(;W[ka];B[ia]))
+(;W[hc];B[gc]
+(;W[ia];B[ka];W[ib]C[RIGHT])
+(;W[ib];B[ia];W[ha]C[ko, white takes first])
+(;W[ka];B[ia]))
+(;W[ib];B[ia]
+(;W[ka];B[jc]
+(;W[gc];B[hc])
+(;W[hc];B[gc])
+(;W[ha]C[ko, white takes first]))
+(;W[gc];B[hc]
+(;W[ka];B[jc])
+(;W[ha]C[ko, white takes first]))
+(;W[hc];B[gc]
+(;W[ha]C[ko, white takes first])
+(;W[ka];B[jc]))
+(;W[jc];B[hc])
+(;W[ha]C[good ko for white, but still a ko.]))
+(;W[ia]C[RIGHT])
+(;W[ka];B[ia]
+(;W[gc];B[hc])
+(;W[hc];B[gc])
+(;W[jc];B[ib])
+(;W[ib];B[jc]
+(;W[hc];B[gc])
+(;W[gc];B[hc])
+(;W[ha]C[ko, white takes first])))
+(;W[jc];B[ia])
+(;W[ha];B[ia]))
+(;W[ib];B[ia]
+(;W[gb];B[ka]
+(;W[hc]C[RIGHT])
+(;W[gc];B[hc])
+(;W[ha];B[hc]
+(;W[ga];B[jc])
+(;W[ja]C[ko, white takes first])))
+(;W[gc];B[hc]
+(;W[ka];B[gb])
+(;W[gb];B[ka]))
+(;W[hc];B[gc]
+(;W[gb];B[ka])
+(;W[ka];B[gb]))
+(;W[ja];B[ka])
+(;W[ka];B[gb]
+(;W[gc];B[hc])
+(;W[hc];B[gc])
+(;W[ja];B[jc]
+(;W[hc];B[gc])
+(;W[gc];B[hc])
+(;W[ha]C[ko, white takes first]))))
+(;W[ia];B[ib]
+(;W[ka]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ha];B[gb])
+(;W[gb];B[gc]
+(;W[ha]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[gc];B[hc])
+(;W[hc];B[gc]
+(;W[gb];B[jc]
+(;W[ha]C[RIGHT])
+(;W[ja];B[ka])
+(;W[ka]C[RIGHT]))
+(;W[ha];B[gb])
+(;W[ja];B[ka])
+(;W[ka];B[ja];W[gb]C[RIGHT])))
+(;W[ka];B[gb]
+(;W[ja];B[ia]
+(;W[gc];B[hc])
+(;W[hc];B[gc])
+(;W[ib];B[jc];W[ha]C[ko, white takes first])
+(;W[jc];B[ib]))
+(;W[hc];B[gc]
+(;W[ib];B[ia])
+(;W[jc];B[ib])
+(;W[ja];B[ia])
+(;W[ia];B[ib];W[ja]C[RIGHT]))
+(;W[gc];B[hc]
+(;W[ib];B[ia])
+(;W[ja];B[ia])
+(;W[ia];B[ib];W[ja]C[RIGHT]))
+(;W[ib];B[ia]
+(;W[gc];B[hc])
+(;W[hc];B[gc])
+(;W[ja];B[jc]
+(;W[ha]C[ko, white takes first])
+(;W[hc];B[gc])
+(;W[gc];B[hc])))
+(;W[ia];B[ja]
+(;W[ib]C[RIGHT])
+(;W[gc]C[RIGHT])
+(;W[hc]C[RIGHT])
+(;W[jc];B[ib])
+(;W[ha];B[ib]))
+(;W[ha];B[ia])
+(;W[jc];B[ib])))
+(;W[jc];B[ic])
+(;W[ha];B[ia]))

@@ -1,0 +1,5 @@
+(;GE[best move]DI[5d]DP[6]SO[ÅöÇ‹ÇﬂÉSÉ}Åô]CO[0]AB[pd]LB[pd:1]LB[dd:2]AW[dd]AB[pq]LB[pq:3]LB[dp:4]LB[qo:5]LB[kq:6]LB[cn:7]LB[fp:8]LB[bp:9]LB[cm:10]AB[qo]AB[cn]AB[bp]AW[dp]AW[fp]AW[cm]AW[kq]LB[dm:11]LB[cl:12]LB[cq:13]LB[bn:14]LB[er:15]LB[bo:16]LB[gq:17]LB[nq:18]LB[cf:19]LB[ch:20]AB[cf]AB[dm]AB[cq]AB[er]AB[gq]AW[bn]AW[bo]AW[cl]AW[ch]AW[nq]LB[cc:21]LB[cd:22]LB[dc:23]LB[ed:24]LB[bd:25]LB[be:26]LB[bc:27]LB[ce:28]LB[fc:29]LB[qf:30]AB[cc]AB[dc]AB[bd]AB[bc]AB[fc]AW[cd]AW[ed]AW[be]AW[ce]AW[qf]AB[nc]AW[rd]AB[qc]AW[qi]AB[ef]AW[eh]AB[bf]AW[af]AB[fd]AW[fe]LB[nc:31]LB[rd:32]LB[qc:33]LB[qi:34]LB[ef:35]LB[eh:36]LB[bf:37]LB[af:38]LB[fd:39]LB[fe:40]LB[fh:41]LB[ee:42]LB[ag:43]LB[ae:44]LB[eg:45]LB[ei:46]LB[cg:47]LB[bh:48]LB[bg:49]LB[fi:50]AB[fh]AB[ag]AB[eg]AB[cg]AB[bg]AW[ee]AW[ae]AW[ei]AW[bh]AW[fi]AB[gg]AW[he]AB[hh]AB[id]AB[gb]AB[eb]AW[fb]AW[hc]AW[gc]LB[gg:51]LB[he:52]LB[hh:53]LB[hc:54]LB[id:55]LB[fb:56]LB[gb:57]LB[gc:58]LB[eb:59]LB[gi:C]LB[rc:D]LB[kd:B]LB[ie:A]C[FORCE]AP[goproblems]
+(;W[gi];B[kd];W[je];B[jh]LB[gi:60]LB[kd:61]LB[je:62]LB[jh:63]C[RIGHT])
+(;W[kd];B[gi])
+(;W[ie];B[gi])
+(;W[rc];B[gi]))

@@ -1,0 +1,10 @@
+(;GE[life and death]DI[30k]DP[89]SO[ctchan]CO[0]AW[cs]AW[br]AW[aq]AW[ap]AB[cr]AB[cq]AB[cp]AB[co]AB[dp]AB[bo]AB[bn]AB[an]AW[cn]AW[dn]AW[en]AW[fn]AW[do]AW[fp]AW[ep]AB[eq]AW[dr]AW[dq]AW[es]AW[fr]AW[fi]AW[bm]AW[bl]AB[dm]AB[em]AB[cm]AB[bk]AB[ak]AW[bj]C[Black to save the marked stones.]MA[an]MA[bn]MA[bo]MA[co]MA[cp]MA[dp]MA[cq]MA[cr]AP[goproblems]
+(;B[cl]TR[bl]TR[bm]C[Now the marked white stones are dead.RIGHT])
+(;B[al];W[ck]
+(;B[am];W[cl];B[aj]
+(;W[ai]C[];B[bi]C[Double atari--that works, but not the best.RIGHT]))
+(;B[cl]C[Good work!RIGHT]))
+(;B[am];W[ck]
+(;B[al];W[cl])
+(;B[cl]C[Good work!RIGHT]))
+(;B[ck]TR[bl]TR[bm]C[Black lives. The marked white stones cannot flee.RIGHT]))

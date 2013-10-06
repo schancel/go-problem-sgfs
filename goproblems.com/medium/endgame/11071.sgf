@@ -1,0 +1,10 @@
+(;GE[endgame]DI[1d]DP[15]SO[Field Mouse]CO[0]AB[ls]AB[lr]AB[lq]AB[lp]AW[jq]AW[jp]AW[ko]AW[mo]AW[lo]AW[mp]AW[mq]AW[mr]AB[hq]AB[gq]AB[fq]AB[hp]AW[ip]AB[io]AB[ho]AW[jo]AW[hn]AW[jn]AW[in]AW[nr]AW[ns]C[Black to play the best endgame possible.]AP[goproblems]
+(;B[jr];W[kr]
+(;B[js];W[iq];B[ir];W[kq];B[ks]C[You could do one point better.])
+(;B[iq];W[kq];B[ks]C[The best!RIGHT])
+(;B[ir];W[kq];B[ks];W[iq]C[You could do one point better.])
+(;B[ks];W[ir]C[Not this way.]))
+(;B[ir];W[jr];B[js];W[iq]C[You could do two points better.])
+(;B[is];W[ir];B[jr];W[kr]
+(;B[js];W[kq];B[ks];W[iq];B[hr]C[Not the best.])
+(;B[ks];W[js]C[Even if white loses this ko and connects at J3 and L3 this will be worse than the solution.])))

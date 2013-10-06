@@ -1,0 +1,48 @@
+(;GE[endgame]DI[5d]DP[4]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[ec][cd][ed][fd][gd][ae][ce][de][ee][bf][ff]AB[fa][db][eb][bc][cc][dc][fc][gc][bd][dd][be]TR[ae]C[No komi, no prisoners - black to play and win!]
+(;B[af]CR[af]
+;W[ag]CR[ag]
+(;B[cf]CR[cf]
+;W[df]CR[df]
+(;B[cg]CR[cg]
+;W[dg]CR[dg]
+;B[ad]CR[ad]
+;W[bg]CR[bg]
+;B[af]CR[af]
+;W[fb]CR[fb]
+;B[gb]CR[gb]
+;W[ae]CR[ae]
+(;B[cf]CR[cf]
+;W[cg]CR[cg]
+;B[af]CR[af]C[Black connects the ko and wins by one point! RIGHT])
+(;B[cg]CR[cg]
+;W[cf]CR[cf]
+;B[af]CR[af]C[Black connects the ko and wins by one point! RIGHT]))
+(;B[ad]CR[ad]
+;W[cg]CR[cg]
+;B[af]CR[af]
+;W[fb]CR[fb]
+(;B[gb]CR[gb]
+;W[ae]CR[ae]C[White connects the ko - jigo!])
+(;B[bg]CR[bg]
+;W[gb]CR[gb]
+;B[cf]CR[cf]
+;W[dg]CR[dg]
+;B[bf]CR[bf]
+;W[ga]CR[ga]
+;B[ea]CR[ea]C[White wins by one point!])))
+(;B[ad]CR[ad]
+;W[cf]CR[cf]
+;B[af]CR[af]
+;W[fb]CR[fb]
+;B[gb]CR[gb]
+;W[ae]CR[ae]C[Whites connects the ko - jigo!]))
+(;B[ad]CR[ad]
+;W[af]CR[af]C[This is bad - White wins by one point.])
+(;B[cf]CR[cf]
+;W[af]CR[af]
+;B[ad]CR[ad]
+;W[df]CR[df]C[This is bad - White wins by one point.])
+(;B[bg]CR[bg]
+;W[cg]CR[cg]C[Now black can't get a ko with a2 (Wa2 is good, too)]))

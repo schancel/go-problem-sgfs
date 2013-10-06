@@ -1,0 +1,16 @@
+(;GE[life and death]DI[8k]DP[48]SO[Hans]CO[8]AW[pb]AW[pc]AW[sc]AW[pd]AW[qe]AW[qf]AW[rf]AW[sf]AB[qa]AB[sa]AB[qb]AB[qc]AB[qd]AB[rd]AB[re]AB[se]TR[sc]C[Black to live.]SZ[19]
+(;B[sb];W[rb]
+(;B[rc];W[ra]
+(;B[sb];W[sa]
+(;B[sb]C[RIGHT])
+(;B[sd];W[pa]))
+(;B[sd];W[pa])
+(;B[sa];W[sb]))
+(;B[ra];W[rc]C[Correct start, wrong finish.])
+(;B[sd];W[ra]
+(;B[sb];W[sa])
+(;B[rc];W[pa])))
+(;B[rb];W[sb]
+(;B[rc];W[ra]C[Only ko.])
+(;B[sd];W[ra]C[Only ko.]))
+(;B[rc];W[sb];B[rb];W[ra]C[Only ko.]))

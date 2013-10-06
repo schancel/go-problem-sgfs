@@ -1,0 +1,4 @@
+(;GE[best move]DI[15k]DP[61]SO[chipuni]CO[7]AW[pp]AW[po]AB[pn]AB[qo]AB[qp]AB[pq]AB[pr]AB[or]AB[nr]AB[mq]AW[nq]AW[oq]AW[qq]AW[rq]AW[no]C[There are three ways to capture two white stones.  Which one is best?FORCE]LB[oo:A]LB[np:B]LB[op:C]AW[qn]AP[goproblems]
+(;B[oo];W[np];B[op]C[You've split the white stones.  Well done!RIGHT])
+(;B[np];W[oo];B[op];W[ro]C[White sacrifices two stones, but she keeps her stones together and captures two of your stones.  White does well.])
+(;B[op];W[oo];B[np];W[ro]C[White sacrifices two stones, but she keeps her stones together and captures two of your stones.  White does well.]))

@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[12k]DP[55]SO[shikamaru598]CO[0]AB[qd]AW[dc]AB[pq]AW[oc]AB[cp]AW[qo]LB[qd:1]LB[dc:2]LB[pq:3]LB[oc:4]LB[cp:5]LB[qo:6]C[The pattern of Black 1, 3, and 5 is known as the Shusaku opening.  After White 6, where would Shusaku play ?FORCE]TR[pe]TR[ld]TR[pc]TR[qg]AP[goproblems]
+(;B[pe]C[Correct Answer.  Black 1 is the famous diagonal move of Honinbo Shusaku. It is a solid move and White will have a hard time equalising. In Shusaku's time, however, games were played without a komi, but today a 6.5-point komi is given White as compensation for her playing second. For that reason, Black 1 is considered to be a bit passive, so nowadays professionals usually make a pincer around A.  <= RIGHT]LB[ld:A])
+(;B[qg]C[];W[kd]C[Too passive])
+(;B[pc]C[];W[od];B[qg];W[kc]C[you gave white power :(])
+(;B[ld]C[RIGHT]))

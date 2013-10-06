@@ -1,0 +1,63 @@
+(;GE[life and death]DI[6k]DP[38]SO[wuhounited]CO[0]AW[jr]AW[kr]AW[lr]AW[lq]AW[lp]AW[kp]AW[jp]AW[mo]AW[ln]AW[lm]AW[ll]AW[lk]AW[ki]AW[kj]AW[lj]AW[ml]AW[nl]AW[nk]AW[om]AW[jk]AW[il]AW[im]AW[jm]AW[hn]AW[ho]AB[gn]AB[hm]AB[hl]AB[gl]AB[fl]AB[fm]AB[em]AB[en]AB[dm]AB[do]AB[dp]AB[ep]AB[fp]AB[fq]AW[eo]AB[hp]AB[ip]AB[io]AW[in]AB[jo]AB[jn]AB[iq]AB[jq]AB[kq]AB[hq]AB[ir]AW[is]AW[gr]AW[fr]AW[er]AW[eq]AW[cq]AW[cp]AW[co]AW[cn]AW[dn]AB[ik]AB[ij]AB[jj]AB[ji]AB[kh]AB[lh]AB[li]AB[hk]AB[jh]AB[mi]AB[mj]AB[mk]AB[nj]AB[oj]AB[ok]AB[ol]AB[pl]AB[pm]AB[pn]AB[on]AB[no]AB[np]AB[nr]AB[nq]AW[oq]AW[pq]AW[qp]AW[qo]AW[ro]AW[rn]AB[nn]AB[mn]C[White has just played the marked stone. Can Black kill the entire group?]LB[ge:Yes]LB[me:No]TR[is]AB[kl]AP[goproblems]
+(;B[ge]C[Do It!]
+(;B[hs];W[js]
+(;B[hr];W[ls]
+(;B[km];W[kn]
+(;B[go];W[ko]
+(;B[mp];W[jl];B[kk]C[Congratulations!    <(^_^)>RIGHT])
+(;B[jl];W[mp]))
+(;B[ko];W[lo];B[go];W[jl];B[kk]C[RIGHT]))
+(;B[mp];W[kn])
+(;B[kn];W[km])
+(;B[ko];W[lo];B[km];W[kn];B[go];W[jl];B[kk]C[RIGHT]))
+(;B[ls];W[hr])
+(;B[km];W[hr])
+(;B[ko];W[hr]))
+(;B[km];W[hs]C[White connects.])
+(;B[mp];W[kn];B[hs];W[js]
+(;B[hr];W[ls]C[Alive])
+(;B[ls];W[hr]C[Alive]))
+(;B[kn];W[km]
+(;B[hs];W[js]
+(;B[hr];W[ls])
+(;B[ls];W[hr]))
+(;B[ls];W[hs]))
+(;B[jl];W[km];B[hs];W[js]
+(;B[hr];W[ls])
+(;B[ls];W[hr]))
+(;B[kk];W[km];B[hs];W[js]
+(;B[hr];W[ls])
+(;B[ls];W[hr]))
+(;B[ls];W[hs])
+(;B[ko];W[hs]))
+(;B[me]C[Look more carefully.])
+(;B[hs]C[NOTTHIS])
+(;B[hr]C[NOTTHIS])
+(;B[go]C[NOTTHIS])
+(;B[jl]C[NOTTHIS])
+(;B[kk]C[NOTTHIS])
+(;B[km]C[NOTTHIS])
+(;B[lo]C[NOTTHIS])
+(;B[ko]C[NOTTHIS])
+(;B[kn]C[NOTTHIS])
+(;B[mp]C[NOTTHIS])
+(;B[js]C[NOTTHIS])
+(;B[ls]C[NOTTHIS])
+(;B[ks]C[NOTTHIS])
+(;B[ms]C[NOTTHIS])
+(;B[ff]C[NOTTHIS])
+(;B[gf]C[NOTTHIS])
+(;B[hf]C[NOTTHIS])
+(;B[he]C[NOTTHIS])
+(;B[hd]C[NOTTHIS])
+(;B[gd]C[NOTTHIS])
+(;B[fd]C[NOTTHIS])
+(;B[fe]C[NOTTHIS])
+(;B[le]C[NOTTHIS])
+(;B[ld]C[NOTTHIS])
+(;B[md]C[NOTTHIS])
+(;B[nd]C[NOTTHIS])
+(;B[ne]C[NOTTHIS])
+(;B[nf]C[NOTTHIS])
+(;B[mf]C[NOTTHIS])
+(;B[lf]C[NOTTHIS]))

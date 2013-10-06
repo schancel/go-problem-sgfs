@@ -1,0 +1,45 @@
+(;GE[life and death]DI[1d]DP[17]SO[Lothe]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[bq][co][cp][cq][cr][cs][dr][er]
+AW[ar][bo][bp][cn][dn][do][dp][dq][eq][fq][fr][fs]
+PL[B]
+(;B[ap]
+MN[1]
+;W[bn]
+(;B[br]
+(;W[es]
+;B[as]
+LB[as:5][as:5][aq:A][bs:B]C[RIGHT CHOICE A Black connection at A 
+at any point now creates two eyes.  
+(Incidentally, if White plays at B next, 
+Black will still play at A, and can then 
+play back at A1 to make to eyes at any 
+point.)]
+)(;W[as]
+;B[es]
+C[RIGHT]
+))(;B[as]
+(;W[es]
+;B[br]
+LB[br:5][aq:A][bs:B]C[RIGHT CHOICE A Black connection at A 
+at any point now creates two eyes.  
+(Incidentally, if White plays at B next, 
+Black will still play at A, and can then 
+play back at A1 to make to eyes at any 
+point.)]
+)(;W[br]
+;B[es]
+C[RIGHT]
+)(;W[bs]
+(;B[aq]
+C[RIGHT]
+)(;B[br]
+C[RIGHT]
+))))(;B[es]
+;W[aq]
+)(;B[aq]
+;W[es]
+))

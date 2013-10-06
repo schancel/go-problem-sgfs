@@ -1,0 +1,23 @@
+(;GE[life and death]DI[10k]DP[54]SO[Athanatos]CO[6]AW[sc]AW[rd]AW[qc]AW[pc]AW[oc]AW[ob]AW[oa]AB[na]AB[nb]AB[nc]AB[nd]AB[od]AB[pd]AB[qd]AB[re]AB[se]AB[sa]AB[pa]C[Black to kill]AP[goproblems]
+(;B[rb]
+(;W[qb];B[rc];W[ra]
+(;B[sd];W[sb]
+(;B[sa]C[RIGHT])
+(;B[rd]C[RIGHT]))
+(;B[qa]C[RIGHT]))
+(;W[rc]
+(;B[qb]
+(;W[sb];B[ra]LB[pb:A]C[White can't give atariRIGHT])
+(;W[pb];B[qa]LB[sb:A]C[White can't give atariRIGHT]))
+(;B[qa];W[sb]
+(;B[qb];W[ra]C[Only ko])
+(;B[ra];W[qb]C[White is alive]))
+(;B[ra];W[qb];B[qa];W[sb]C[White is alive])))
+(;B[qb];W[rb];B[ra];W[sd]C[White is alive in a seki])
+(;B[ra];W[qb];B[qa];W[rb]C[White is alive])
+(;B[sd];W[rc];B[rb]
+(;W[qa];B[qb];W[pb]C[White is alive in a seki])
+(;W[qb];B[qa]C[White is alive in a seki])
+(;W[sb]
+(;B[ra];W[qb]C[White is alive])
+(;B[qa];W[ra]C[Only ko]))))

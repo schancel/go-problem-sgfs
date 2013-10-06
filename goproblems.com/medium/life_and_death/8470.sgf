@@ -1,0 +1,34 @@
+(;GE[life and death]DI[3d]DP[11]SO[kaf]CO[7]AB[ap]AB[bp]AB[cp]AB[dp]AB[eo]AB[cn]AB[fo]AB[go]AB[ho]AB[hp]AB[hq]AB[hr]AB[hs]AB[gs]AB[cq]AW[bq]AW[br]AW[cr]AW[eq]AW[ep]AW[fp]AW[gp]AW[gq]AW[gr]AW[fr]C[Black to kill]AP[goproblems]
+(;B[dr]
+(;W[es]C[CHOICE]
+(;B[dq];W[ds]
+(;B[er];W[fs]
+(;B[ar];W[aq];B[bs];W[as]C[koRIGHT])
+(;B[bs];W[cs];B[ar]C[RIGHT])
+(;B[aq];W[ar])
+(;B[cs];W[bs]))
+(;B[ar];W[aq]
+(;B[er];W[cs]
+(;B[fs];W[as])
+(;B[as];W[fs]))
+(;B[bs];W[cs]))
+(;B[fs];W[er]
+(;B[cs];W[bs])
+(;B[aq];W[ar])
+(;B[bs];W[aq];B[ar]C[RIGHT])
+(;B[ar];W[aq];B[bs]C[RIGHT]))
+(;B[cs];W[bs])
+(;B[aq]))
+(;B[ds];W[dq])
+(;B[fs];W[dq])
+(;B[aq]
+(;W[ds]C[thanks to Silowyi]
+(;B[dq];W[ar])
+(;B[ar];W[dq])))
+(;B[ar];W[dq]))
+(;W[dq];B[es];W[fs];B[bs]C[thanks to Field Mouse];W[cs];B[ar];W[as];B[aq]C[RIGHT]))
+(;B[ar];W[dr])
+(;B[es];W[dr])
+(;B[aq];W[dr])
+(;B[fs];W[dr])
+(;B[dq];W[dr]))

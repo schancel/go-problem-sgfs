@@ -1,0 +1,23 @@
+(;GE[endgame]DI[3d]DP[9]SO[tmcooper]CO[7]C[White to play and win (no captures yet).]SZ[9]AB[ha]AB[gb]AB[hc]AB[ic]AB[ib]AB[ca]AB[da]AB[cb]AB[db]AB[dc]AB[ec]AB[ed]AB[ee]AB[de]AB[ce]AB[cd]AB[be]AB[ae]AB[cf]AB[cg]AB[bg]AB[ag]AB[af]AB[ch]AB[fe]AB[ge]AB[he]AB[gf]AB[fd]AW[ba]AW[cc]AW[bc]AW[bd]AW[ad]AW[ea]AW[eb]AW[fb]AW[ga]AW[fc]AW[gc]AW[gd]AW[hd]AW[id]AW[ie]AW[if]AW[hf]AW[ig]AW[hg]AW[gg]AW[fh]AW[ff]AW[ef]AW[df]AW[dg]AW[dh]AW[hh]AW[hi]
+(;W[di];B[fa]
+(;W[bb];B[ab]
+(;W[ga];B[ci]
+(;W[fa]C[RIGHT])
+(;W[hb]C[RIGHT]))
+(;W[ci];B[ga]))
+(;W[ab];B[bb];W[ga];B[ci]
+(;W[fa]C[RIGHT])
+(;W[hb]C[RIGHT]))
+(;W[ci];B[ga]))
+(;W[ab];B[bb]C[You have thrown away your only ko threat.])
+(;W[bb];B[ab]C[You have thrown away your only ko threat.])
+(;W[fa];B[di];W[ei];B[ci]C[Jigo])
+(;W[hb];B[di];W[ei];B[ci]C[You need another move in the top right.  Black wins.])
+(;W[ci];B[fa]
+(;W[bi];B[ga])
+(;W[bb];B[ab];W[ga];B[bi]
+(;W[di];B[fa]C[Black lives and wins.])
+(;W[fa];B[di];W[ei];B[ci]C[Jigo]))
+(;W[ab];B[bb];W[ga];B[bi]
+(;W[di];B[fa];W[bh];B[ga])
+(;W[fa];B[di];W[ei];B[ci]C[Jigo]))))

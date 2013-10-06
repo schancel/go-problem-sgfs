@@ -1,0 +1,46 @@
+(;GE[endgame]DI[2d]DP[13]SO[sohvan]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+PW[White]PB[Black]AW[bk][gk][hk][bl][dl][el][fl][hl][il][am][bm][dm][gm][hm][bn][cn][fn][do][fo][cp][dp][fp][gp][hp][ip][eq][iq][dr][er][gr][hr][gs]AB[ci][di][ck][dk][ek][fk][jk][cl][jl][cm][im][an][gn][in][ao][bo][co][go][ho][io][bp][jp][cq][dq][fq][jq][br][cr][ir][hs][is][js]PL[W]
+(;W[ds]CR[ds]
+(;B[cj]CR[cj]C[Black does not believe D1 is sente. Prove him wrong.]
+(;W[ar]CR[ar]
+;B[aq]CR[aq]
+;W[bs]CR[bs]
+;B[as]CR[as]C[RIGHT ko])
+(;W[bs]CR[bs]
+;B[ar]CR[ar]
+(;W[cs]CR[cs]
+;B[aq]CR[aq])
+(;W[aq]CR[aq]
+;B[cs]CR[cs]))
+(;W[cs]CR[cs]
+;B[bs]CR[bs])
+(;W[aq]CR[aq]
+;B[ar]CR[ar]
+;W[cs]CR[cs]
+;B[bs]CR[bs]))
+(;B[cs]CR[cs]C[RIGHT This leaves three ko threats, (A3, B3, and B3 again, the last ko threat doesn't actually threaten to kill, though... )]))
+(;W[cs]CR[cs]
+;B[bs]CR[bs]
+;W[ds]CR[ds]C[gote])
+(;W[bs]CR[bs]
+;B[cs]CR[cs]
+(;W[ar]CR[ar]
+;B[aq]CR[aq]
+;W[ds]CR[ds]
+;B[as]CR[as]C[This leaves no ko threats.])
+(;W[ds]CR[ds]
+;B[ar]CR[ar]C[This leaves only one ko threat.]))
+(;W[ar]CR[ar]
+;B[aq]CR[aq]
+(;W[ds]CR[ds]
+;B[cs]CR[cs]C[This is what Che played. It leaves one ko threat less than the best answer, but there were no ko fights to be played out in the actual game.])
+(;W[bs]CR[bs]
+;B[cs]CR[cs]
+;W[ds]CR[ds]
+;B[as]CR[as]C[This leaves no ko threats]))
+(;W[aq]CR[aq]
+;B[ar]CR[ar]
+;W[cs]CR[cs]
+;B[bs]CR[bs]
+;W[ds]CR[ds]C[gote]))

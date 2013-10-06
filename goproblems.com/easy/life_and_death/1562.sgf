@@ -1,0 +1,86 @@
+(;GE[life and death]DI[8k]DP[45]SO[ecb1]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ep][fp][gp][dq][fq][hq][dr][hr][ds][hs]AB[do][eo][fo][go][ho][dp][hp][cq][iq][cr][fr][ir][cs][is]LB[fr:A]PL[W]
+(;W[fs]CR[fs]
+;B[gr]CR[gr]
+(;W[er]CR[er]C[RIGHT  Black can not push; White lives.])
+(;W[gq]CR[gq]
+;B[er]LB[eq:A][es:B][gs:C]CR[er]C[White has to protect at A, B, or C to get a seki.  White can do better.])
+(;W[gs]CR[gs]
+;B[er]LB[eq:A][gq:B][es:C]CR[er]C[White has to protect at A, B, or C to get a seki.  White can do better.])
+(;W[es]CR[es]
+;B[gs]CR[gs]C[White dies.])
+(;W[eq]CR[eq]
+;B[gq]CR[gq]C[White dies.]))
+(;W[er]CR[er]
+;B[gs]CR[gs]
+(;W[gq]CR[gq]
+;B[es]LB[fs:A]CR[es]C[Black starts a ko or gets a seki by playing at A instead.  White can do better.])
+(;W[fs]CR[fs]
+;B[es]CR[es]C[Ko.  White can do better.])
+(;W[gr]CR[gr]
+;B[gq]CR[gq]C[White dies.])
+(;W[es]CR[es]
+;B[gq]CR[gq]C[White dies (the three stones are caught in a snapback).])
+(;W[eq]CR[eq]
+;B[gq]CR[gq]C[White dies (the three stones are caught in a snapback).]))
+(;W[gr]CR[gr]
+;B[es]CR[es]
+(;W[eq]CR[eq]
+;B[gs]LB[fs:A]CR[gs]C[Black starts a ko or plays at A to get a seki.  White can do better.])
+(;W[fs]CR[fs]
+;B[gs]CR[gs]C[Ko.  White can do better.])
+(;W[gq]CR[gq]
+;B[eq]CR[eq]C[White dies (the three stones are caught in a snapback).])
+(;W[gs]CR[gs]
+;B[eq]CR[eq]C[White dies (the three stones are caught in a snapback).])
+(;W[er]CR[er]
+;B[eq]CR[eq]C[White dies.]))
+(;W[gq]CR[gq]
+;B[er]CR[er]
+(;W[eq]CR[eq]
+;B[fs]CR[fs]C[White has only one eye and dies.])
+(;W[gr]CR[gr]
+;B[eq]CR[eq]C[White dies.])
+(;W[es]CR[es]
+;B[eq]CR[eq]C[White dies.])
+(;W[fs]CR[fs]
+;B[eq]CR[eq]C[White dies.])
+(;W[gs]CR[gs]
+;B[eq]CR[eq]C[White dies.]))
+(;W[eq]CR[eq]
+;B[gr]CR[gr]
+(;W[gq]CR[gq]
+;B[fs]CR[fs]C[White has only one eye and dies.])
+(;W[er]CR[er]
+;B[gq]CR[gq]C[White dies.])
+(;W[es]CR[es]
+;B[gq]CR[gq]C[White dies.])
+(;W[fs]CR[fs]
+;B[gq]CR[gq]C[White dies.])
+(;W[gs]CR[gs]
+;B[gq]CR[gq]C[White dies.]))
+(;W[gs]CR[gs]
+;B[fs]CR[fs]
+(;W[gq]CR[gq]
+;B[er]LB[eq:A]CR[er]C[White dies.  Defending the cut at A leaves one eye.])
+(;W[er]CR[er]
+;B[gq]CR[gq]C[White dies (the four stones in an L are caught in a snapback).])
+(;W[es]CR[es]
+;B[gr]CR[gr]C[White dies (even without the last Black move).])
+(;W[eq]CR[eq]
+;B[gr]CR[gr]C[White dies (even without the last Black move).])
+(;W[gr]CR[gr]
+;B[gq]CR[gq]C[White dies (even without the last Black move).]))
+(;W[es]CR[es]
+;B[fs]CR[fs]
+(;W[eq]CR[eq]
+;B[gr]LB[gq:A]CR[gr]C[White dies.  Defending the cut at A leaves one eye.])
+(;W[er]CR[er]
+;B[eq]CR[eq]C[White dies (even without the last Black move)])
+(;W[gq]CR[gq]
+;B[er]CR[er]C[White dies (even without the last Black move).])
+(;W[gr]CR[gr]
+;B[eq]CR[eq]C[White dies (the four stones in an L are caught in a snapback).])
+(;W[gs]CR[gs]
+;B[er]CR[er]C[White dies (even without the last Black move).])))

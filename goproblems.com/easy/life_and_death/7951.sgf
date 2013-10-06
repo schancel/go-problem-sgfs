@@ -1,0 +1,162 @@
+(;GE[life and death]DI[4k]DP[30]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[rb][rc][pe][re][qf][rf][pg][ph][qi][ri][rj]AB[pc][qc][sc][nd][pd][qd][rd][ne][qe][se][nf][oh][pi][pj][qj][rk][ql]C[Kill the white group unconditionally.]
+(;B[rh]CR[rh]
+(;W[qh]CR[qh]C[CHOICE]
+(;B[rg]CR[rg]
+;W[sf]CR[sf]
+(;B[sj]CR[sj]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])
+(;B[sd]CR[sd]
+;W[sj]CR[sj]
+(;B[sh]CR[sh]
+;W[sg]CR[sg]C[Seki.])
+(;B[sg]CR[sg]
+;W[sh]CR[sh]LB[rg:1][si:2]C[2 Eyes]))
+(;B[sh]CR[sh]
+(;W[sj]CR[sj]C[CHOICE]
+;B[sg]CR[sg]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])
+(;W[sg]CR[sg]C[CHOICE]
+;B[sj]CR[sj]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT]))
+(;B[sg]CR[sg]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT]))
+(;B[sh]CR[sh]
+;W[rg]CR[rg]LB[qg:1][rh:2]C[2 Eyes])
+(;B[sg]CR[sg]
+;W[rg]CR[rg]LB[qg:1][rh:2]C[2 Eyes])
+(;B[si]CR[si]
+;W[rg]CR[rg]LB[qg:1][rh:2]C[2 Eyes]))
+(;W[rg]CR[rg]C[CHOICE]
+(;B[qh]CR[qh]
+;W[sh]CR[sh]
+;B[sj]CR[sj]
+;W[qg]CR[qg]
+;B[sf]CR[sf]C[RIGHT])
+(;B[sh]CR[sh]
+;W[qh]CR[qh]LB[qg:1][rh:2]C[2 Eyes])))
+(;B[sg]CR[sg]
+;W[rg]CR[rg]
+(;B[rh]CR[rh]
+;W[qh]CR[qh]LB[qg:1][rh:2]C[2 Eyes])
+(;B[sf]CR[sf]
+;W[sh]CR[sh]LB[sg:C][qh:A][sj:B]C[A, B and C miai for life.])
+(;B[qh]CR[qh]
+;W[sf]CR[sf]C[Easy life.]))
+(;B[rg]CR[rg]
+;W[sf]CR[sf]
+(;B[sd]CR[sd]
+;W[rh]CR[rh]LB[qg:A][sg:B]C[A and B miai for life.])
+(;B[rh]CR[rh]
+;W[qh]CR[qh]
+(;B[sg]CR[sg]
+;W[sj]CR[sj]
+;B[sh]CR[sh]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])
+(;B[sh]CR[sh]
+(;W[sj]CR[sj]C[CHOICE]
+;B[sg]CR[sg]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])
+(;W[sg]CR[sg]C[CHOICE]
+;B[sj]CR[sj]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT]))
+(;B[sj]CR[sj]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT]))
+(;B[sh]CR[sh]
+;W[rh]CR[rh]LB[qg:A][sg:B]C[A and B miai for life.]))
+(;B[sh]CR[sh]
+;W[rg]CR[rg]LB[qg:1][sh:2]C[2 Eyes])
+(;B[sf]CR[sf]
+;W[rg]CR[rg]
+(;B[sj]CR[sj]
+(;W[sh]CR[sh]C[CHOICE]
+;B[qh]CR[qh]C[RIGHT])
+(;W[qh]CR[qh]C[CHOICE]
+;B[sh]CR[sh]
+;W[sg]CR[sg]
+;B[si]CR[si]C[RIGHT]))
+(;B[qh]CR[qh]
+;W[sj]CR[sj]
+(;B[rh]CR[rh]
+;W[sh]CR[sh]LB[qh:1][si:2]C[2 Eyes])
+(;B[sh]CR[sh]
+;W[sg]CR[sg]
+;B[rh]CR[rh]C[RIGHT]))
+(;B[sg]CR[sg]
+;W[sh]CR[sh]))
+(;B[sj]CR[sj]
+;W[rh]CR[rh]
+(;B[qg]CR[qg]
+;W[si]CR[si]
+;B[sg]CR[sg]
+;W[sf]CR[sf]
+;B[rg]CR[rg]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])
+(;B[si]CR[si]
+;W[sh]CR[sh]
+(;B[sf]CR[sf]
+;W[sg]CR[sg]
+;B[qg]CR[qg]C[RIGHT])
+(;B[qg]CR[qg]
+;W[sf]CR[sf]
+;B[rg]CR[rg]
+;W[sd]CR[sd]
+;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]C[RIGHT])))
+(;B[sd]CR[sd]
+;W[rh]CR[rh]
+(;B[qg]CR[qg]
+;W[sj]CR[sj]LB[qg:1][si:2]C[2 Eyes])
+(;B[sf]CR[sf]
+;W[sg]CR[sg]LB[rg:2][sh:1]C[2 Eyes])
+(;B[sg]CR[sg]
+;W[sf]CR[sf]LB[sg:2][qh:1]C[2 Eyes])))

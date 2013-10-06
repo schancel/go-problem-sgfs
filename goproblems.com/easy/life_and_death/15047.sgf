@@ -1,0 +1,47 @@
+(;GE[life and death]DI[5k]DP[33]SO[jender1989]CO[0]AB[ao]AB[ap]AB[bq]AB[cq]AB[dq]AB[dr]AB[ds]AW[an]AW[bn]AW[cn]AW[bp]AW[cp]AW[dp]AW[ep]AW[eq]AW[er]AW[fr]C[White to kill.]AP[goproblems]
+(;W[aq]
+(;B[br]
+(;W[cs]
+(;B[bs];W[ar]C[Well done!];B[as]
+(;W[aq]C[Well done!RIGHT])
+(;W[ar];B[aq]))
+(;B[ar];W[bs]C[Well done!RIGHT])
+(;B[as]C[White can play tenuki]))
+(;W[ar];B[as]
+(;W[aq];B[cs];W[bo]C[Black is alive and can play tenuki.])
+(;W[cs])
+(;W[bo]C[Black is alive and can plan tenuki. He has miai.]TR[aq]TR[cs]))
+(;W[bs];B[cs];W[bo])
+(;W[as];B[bs]C[];W[bo];B[ar])
+(;W[bo];B[ar]C[Black is alive. This is what happened in my game.]))
+(;B[ar];W[bs]C[Well done!RIGHT]))
+(;W[br];B[bs]
+(;W[ar];B[cr])
+(;W[cr];B[ar]))
+(;W[bs];B[br]
+(;W[cs]
+(;B[as]
+(;W[ar];B[aq]
+(;W[bo];B[as]C[Ko. You can do better.])
+(;W[es];B[as]C[Ko. You can do better.])
+(;W[as];B[cr];W[bs];B[as];W[ar];B[cs]))
+(;W[aq]C[Well done!RIGHT]))
+(;B[aq]C[RIGHT]
+(;W[as]C[Well done! Black is dead because it's bent-four in the corner.RIGHT])
+(;W[ar])))
+(;W[as];B[cs]
+(;W[ar]C[Black is alive and can play tenuki.])
+(;W[aq]C[Black is alive and can play tenuki.]))
+(;W[ar];B[cs]
+(;W[aq];B[as])
+(;W[as])))
+(;W[ar];B[br];W[cs];B[aq];W[bs];B[cr]C[Black is alive.])
+(;W[as];B[br];W[bs])
+(;W[bo];B[aq]C[Black is alive.])
+(;W[cs];B[bs]
+(;W[br];B[cr];W[ar]C[Black is alive and can play tenuki.])
+(;W[ar];B[aq]
+(;W[br];B[cr])
+(;W[cr];B[br])
+(;W[as];B[br])
+(;W[es];B[br]))))

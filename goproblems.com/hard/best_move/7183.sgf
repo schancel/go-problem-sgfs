@@ -1,0 +1,30 @@
+(;GE[best move]DI[5d]DP[6]SO[kenti]CO[6]AB[pp]AB[jp]AW[qn]AW[qq]LB[pq:A]LB[qp:B]AB[pk]AP[goproblems]
+(;B[pq];W[qp]
+(;B[po]
+(;W[pn]
+(;B[qo];W[ro]
+(;B[rp];W[rq];B[rn];W[sp]
+(;B[on];W[om];B[pm];W[qm]
+(;B[rm];W[ql];B[pl];W[rk]
+(;B[no]C[RIGHT])
+(;B[nn]C[RIGHT]))
+(;B[pl];W[oo];B[nn];W[rm];B[np]C[i‚âii‚Å‹CE‚¿ˆ«‚¢]LB[mm:ii]LB[nm:i]))
+(;B[rm];W[on]C[White livese in the corner and black is likely to get in trouble on the outside.]))
+(;B[rn];W[rm];B[rp];W[sn];B[rq];W[nn]C[Locking white up is more important than the corner territory, especially because the two white stones still have a lot of aji.]))
+(;B[on];W[qo]C[White's corner becomes bigger than necessary.]))
+(;W[rn];B[pn]C[RIGHT]
+(;W[ql];B[pl];W[pm];B[om];W[qm];B[nl]C[RIGHT])
+(;W[pm];B[pl]
+(;W[om];B[qm]C[RIGHT])
+(;W[qm];B[om]C[RIGHT])))
+(;W[qm];B[qo];W[ro];B[rp];W[rq];B[rn];W[sp];B[rm]
+(;W[rl];B[ql];W[sm];B[pm];W[sn];B[pn]C[RIGHT])
+(;W[ql];B[qk]
+(;W[rl];B[om]C[RIGHT])
+(;W[om];B[rl];W[ol];B[no]C[RIGHT]))))
+(;B[pn];W[po];B[oo];W[qo]
+(;B[on];W[nq]C[The cut at P4 is too painful.])
+(;B[np];W[pm];B[on];W[ol]))
+(;B[qr];W[po]C[White comes out in good shape.])
+(;B[qo];W[po];B[ro];W[rn]C[White captures two stones.]))
+(;B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq];B[pn]))

@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[6k]DP[38]SO[kuche12345]CO[0]AB[dq]AB[dp]AB[do]AB[dn]AB[cm]AB[er]AB[fr]AB[gr]AW[eo]AW[ep]AW[eq]AW[gp]AW[gq]AW[hr]AW[iq]AW[dr]AW[cr]C[Black to capture the marked stones]TR[cr]TR[dr]AP[goproblems]
+(;B[bq];W[br]
+(;B[ar];W[fq])
+(;B[cq];W[fq]))
+(;B[cq];W[br];B[bq];W[fq])
+(;B[br];W[bq]
+(;B[ar];W[cq])
+(;B[bp];W[ar];B[bs];W[cs];B[cq];W[as];B[br];W[aq];B[ap];W[bs]
+(;B[es];W[gs])
+(;B[gs];W[es];B[fs];W[fq];B[ds]C[only ko]))
+(;B[cq];W[bs]
+(;B[ds];W[ar])
+(;B[ar];W[aq];B[ds];W[as];B[br];W[ar]
+(;B[bp];W[es];B[fs])
+(;B[es]
+(;W[cs];B[bp]C[RIGHT])
+(;W[bp]
+(;B[cs];W[br]
+(;B[bo]C[RIGHT])
+(;B[cp];W[bo]))
+(;B[bo];W[cs];B[cp];W[gs];B[ao];W[fq]C[])))))))

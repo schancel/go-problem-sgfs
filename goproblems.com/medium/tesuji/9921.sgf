@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[1d]DP[17]SO[Dudzik]CO[9]SZ[19]AW[la]AW[ma]AW[oa]AW[ab]AW[hb]AW[lb]AW[nb]AW[bc]AW[dc]AW[gc]AW[ic]AW[lc]AW[mc]AW[bd]AW[cd]AW[dd]AW[fd]AW[gd]AW[nd]AW[od]AW[ce]AW[ee]AW[fe]AW[me]AW[gf]AW[if]AW[mf]AW[ag]AW[cg]AW[mg]AW[og]AW[ah]AW[bh]AW[ch]AW[dh]AW[eh]AW[gh]AW[nh]AW[ai]AW[ci]AW[fi]AW[gi]AW[ii]AW[ki]AW[ni]AW[gj]AW[hj]AW[ij]AW[jj]AW[kj]AW[nj]AW[fk]AW[gk]AW[ik]AW[qk]AW[rk]AW[bl]AW[dl]AW[el]AW[fl]AW[gl]AW[kl]AW[ml]AW[pl]AW[rl]AW[sl]AW[cm]AW[gm]AW[jm]AW[mm]AW[om]AW[bn]AW[cn]AW[jn]AW[ln]AW[mn]AW[on]AW[co]AW[do]AW[io]AW[lo]AW[po]AW[ep]AW[fp]AW[gp]AW[ip]AW[jp]AW[lp]AW[op]AW[qp]AW[rp]AW[iq]AW[mq]AW[nq]AW[qq]AW[dr]AW[gr]AW[lr]AW[nr]AW[ls]AW[ns]AW[rs]AB[ea]AB[qa]AB[ra]AB[bb]AB[cb]AB[db]AB[fb]AB[gb]AB[ob]AB[pb]AB[sb]AB[ec]AB[fc]AB[hc]AB[nc]AB[oc]AB[rc]AB[ed]AB[hd]AB[pd]AB[qd]AB[rd]AB[sd]AB[be]AB[je]AB[re]AB[se]AB[cf]AB[ef]AB[jf]AB[lf]AB[rf]AB[bg]AB[dg]AB[lg]AB[ng]AB[rg]AB[jh]AB[lh]AB[mh]AB[bi]AB[di]AB[ei]AB[hi]AB[ji]AB[qi]AB[aj]AB[bj]AB[cj]AB[ej]AB[fj]AB[lj]AB[mj]AB[rj]AB[sj]AB[ck]AB[dk]AB[ek]AB[hk]AB[jk]AB[kk]AB[mk]AB[nk]AB[ok]AB[sk]AB[cl]AB[hl]AB[il]AB[jl]AB[ll]AB[bm]AB[dm]AB[em]AB[fm]AB[en]AB[gn]AB[hn]AB[in]AB[nn]AB[qn]AB[bo]AB[eo]AB[jo]AB[ko]AB[mo]AB[bp]AB[dp]AB[kp]AB[mp]AB[np]AB[cq]AB[dq]AB[eq]AB[fq]AB[hq]AB[jq]AB[kq]AB[lq]AB[pq]AB[rq]AB[hr]AB[ir]AB[kr]AB[or]AB[qr]C[Black to win the capturing race on the left side.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[am];W[an]C[]
+(;B[ak];W[al])
+(;B[bk];W[al])
+(;B[ao];W[al]C[Leads to seki--not good enough.])
+(;B[dn];W[al]C[Leads to seki--not good enough.])
+(;B[cp];W[al]C[Leads to seki--not good enough.]))
+(;B[al];W[am]
+(;B[ak];W[bm])
+(;B[bk];W[ak]C[Ko.])
+(;B[ao];W[ak])
+(;B[dn];W[ak])
+(;B[cp];W[ak]))
+(;B[an];W[am]
+(;B[ao];W[ak])
+(;B[ak];W[ao]
+(;B[al];W[bm])
+(;B[dn];W[al])
+(;B[cp];W[al])
+(;B[ap];W[al]C[Ko or seki.])))
+(;B[dn];W[am]C[White has an eye--seki at best.])
+(;B[ao];W[ak]
+(;B[am];W[an]C[Leads to seki--not good enough.])
+(;B[an];W[am]))
+(;B[cp];W[am]C[White has an eye--seki at best.])
+(;B[ak];W[am]
+(;B[ao]TR[bl]TR[am]TR[cm]TR[bn]TR[cn]TR[co]TR[do]C[The marked stones are dead.RIGHT])
+(;B[al];W[bm])
+(;B[bk];W[al])
+(;B[dn];W[al])
+(;B[cp];W[al]))
+(;B[bk];W[am]C[Leads to seki, or ko.]))

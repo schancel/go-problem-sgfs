@@ -1,0 +1,237 @@
+(;GE[endgame]DI[1d]DP[15]SO[BartTM]CO[0]AB[sd]AB[rd]AB[qd]AB[qe]AB[pe]AB[pc]AB[nd]AB[md]AB[ld]AB[me]AB[kc]AB[kb]AB[la]AB[mb]AB[oc]AW[se]AW[re]AW[qf]AW[rg]AW[rh]AW[sh]AW[pf]AW[oe]AW[od]AW[pd]AW[ne]AW[mf]AW[le]AW[kd]AW[ke]AW[je]AW[jc]AW[jb]AW[ja]AW[ka]AW[kf]AW[qc]C[White to play.]SZ[19]AB[rc]
+(;W[qb];B[rb]
+(;W[nc]
+(;B[pb]C[MoreKnock's variationCHOICE]
+(;W[mc];B[nb]
+(;W[lc];B[lb]C[Black gets only 6 points from the corner, loss included. Best result for both.RIGHT])
+(;W[lb];B[lc])
+(;W[qa];B[lc])
+(;W[pa];B[lc])
+(;W[ma];B[lc]C[Ko for just a few points]))
+(;W[nb];B[mc]
+(;W[na];B[oa])
+(;W[oa];B[qa];W[ma];B[na]C[Ko, and Black can cut the losses anyway by playing P18 instead of ko.])
+(;W[lb];B[na]
+(;W[lc];B[ob])
+(;W[ma];B[ob])))
+(;W[lc];B[mc]
+(;W[lb];B[na]C[About 3 points worse than possible.])
+(;W[nb]
+(;B[lb]
+(;W[oa];B[qa];W[ma];B[na]C[Ko])
+(;W[na];B[oa])
+(;W[ob];B[qa])
+(;W[qa];B[na])
+(;W[pa];B[qa]))
+(;B[na]C[If Black does not want to fight the ko this will still be worse for White than the solution.]))
+(;W[na];B[lb];W[nb]))
+(;W[lb];B[lc])
+(;W[ob];B[qa]
+(;W[mc];B[nb]
+(;W[lc];B[lb]C[Black gets only 6 points from the corner, loss included.RIGHT])
+(;W[lb];B[lc]))
+(;W[nb];B[mc])
+(;W[lc];B[mc]
+(;W[lb];B[na]C[About 3 points worse than the solution.])
+(;W[na];B[lb]))
+(;W[lb];B[lc]))
+(;W[qa];B[mc]))
+(;B[mc]C[Black wants to save it all, now make him pay for it.CHOICE]
+(;W[ob];B[nb]
+(;W[pb];B[nc]
+(;W[ra];B[qa]
+(;W[pa];B[sb]
+(;W[lb];B[lc];W[na]C[Gote seki. Black was a bit greedy and pays for it.RIGHT])
+(;W[na];B[ma]
+(;W[lb];B[oa]C[Ko, Black takes first. Just capturing those two stones is not enough.]TR[kb]TR[kc])
+(;W[lc];B[oa]C[Ko, Black takes first. Just capturing those two stones is not enough.]TR[kb]TR[kc]))
+(;W[lc];B[lb];W[na]C[Gote seki. Black was a bit greedy and pays for it.RIGHT]))
+(;W[sb];B[sa]C[Ko, Black takes first. You have no big threats, remember.])
+(;W[na];B[sa]
+(;W[oa];B[ma]C[2 stones are not enough.])
+(;W[lb];B[oa]
+(;W[ma];B[pa]C[Just a tiny reduction.])
+(;W[lc];B[pa]C[Black gets about 9 points from the corner, levelling out White's gain.])
+(;W[pa]
+(;B[lc]
+(;W[ra];B[of]C[Err...]
+(;W[nf];B[qa]C[Ko, Black takes first.])
+(;W[sb];B[nf]))
+(;W[sb];B[oa]))
+(;B[oa]C[If Black really does not like the ko this reduces the loss anyway.]))
+(;W[sb];B[lc]))
+(;W[lc];B[oa]
+(;W[lb])
+(;W[pa];B[lb]
+(;W[ra];B[of]C[Whoops!]
+(;W[nf];B[qa]C[Ko, Black takes first.])
+(;W[sb];B[nf]))
+(;W[sb];B[oa]))
+(;W[sb];B[lb]))
+(;W[sb];B[pa]))
+(;W[oa];B[na])
+(;W[lb];B[oa]C[Just 2 stones.])
+(;W[lc];B[oa]C[Only 2 stones.]))
+(;W[sb];B[ra]
+(;W[na];B[qa])
+(;W[lb];B[lc];W[na];B[qa])
+(;W[lc];B[lb];W[na];B[qa]))
+(;W[na];B[ra]
+(;W[lb];B[lc]
+(;W[oa];B[qa])
+(;W[sb]))
+(;W[lc];B[lb]
+(;W[oa];B[qa])
+(;W[sb])))
+(;W[lb];B[oa]C[2 stones is not enough.])
+(;W[lc];B[oa]C[2 stones is not enough.])
+(;W[oa];B[na])
+(;W[qa];B[ra])
+(;W[pa];B[ra]))
+(;W[ra];B[pb])
+(;W[pa];B[ra])
+(;W[oa];B[pb])
+(;W[qa];B[pb])
+(;W[lb];B[pb]C[2 stones is not enough.])
+(;W[lc];B[pb]C[2 stones is not enough.])
+(;W[sb];B[pb]))
+(;W[nb];B[ob]
+(;W[ra];B[sb]
+(;W[na];B[pa]
+(;W[qa];B[ma]C[2 stones is not enough.]TR[kc]TR[kb])
+(;W[lb];B[oa]
+(;W[lc];B[ma]C[2 stones is not enough.])
+(;W[ma];B[la]C[2 stones is not enough.])
+(;W[qa];B[ma]C[2 stones is not enough.]))
+(;W[lc];B[oa]
+(;W[lb])
+(;W[qa];B[ma]C[2 stones is not enough.])))
+(;W[qa];B[pa]
+(;W[na])
+(;W[lb];B[na]C[2 stones is not enough.])
+(;W[lc];B[na]C[2 stones is not enough.]))
+(;W[pb];B[na])
+(;W[pa];B[na])
+(;W[oa];B[na])
+(;W[lb];B[na]C[2 stones is not enough.])
+(;W[lc];B[lb]))
+(;W[na];B[qa])
+(;W[qa];B[pa]
+(;W[na];B[ra])
+(;W[ra];B[sb]
+(;W[na])
+(;W[lb])
+(;W[lc]))
+(;W[lb];B[na]C[2 stones is not enough.])
+(;W[lc];B[na]C[2 stones is not enough.]))
+(;W[pa];B[na])
+(;W[lb];B[lc])
+(;W[lc];B[lb])
+(;W[oa];B[na])
+(;W[sb];B[qa]))
+(;W[pb];B[ob])
+(;W[qa];B[ra]
+(;W[ob];B[nb];W[pb];B[nc])
+(;W[pb];B[ob])
+(;W[nb];B[ob])
+(;W[oa];B[ob])
+(;W[pa];B[oa]))
+(;W[pa]
+(;B[ob];W[oa];B[na];W[ra];B[sb])
+(;B[nb]))
+(;W[oa];B[ob]
+(;W[pa])
+(;W[na];B[pa]
+(;W[qa];B[ra])
+(;W[ra];B[pb])
+(;W[nb];B[ma]))
+(;W[ra];B[sb];W[pa];B[na]))
+(;W[lb];B[nb]C[2 stones is not enough.])
+(;W[lc];B[nb]C[2 stones is not enough.]))
+(;B[nb]
+(;W[lc];B[mc]C[That's just 2 stones.])
+(;W[ob];B[mc]
+(;W[lb])
+(;W[lc])
+(;W[na])
+(;W[pb])
+(;W[oa])
+(;W[pa])
+(;W[qa])
+(;W[ra])
+(;W[sb]))))
+(;W[lc];B[mc]C[2 stones is not enough.])
+(;W[lb];B[lc]
+(;W[nc];B[pb])
+(;W[ob];B[pb]))
+(;W[ob];B[nc]
+(;W[pb];B[nb]
+(;W[ra];B[sb]
+(;W[na];B[lc])
+(;W[lc];B[qa]
+(;W[pa]
+(;B[na];W[lb];B[oa])
+(;B[oa];W[na];B[ma]))
+(;W[na];B[pa]
+(;W[oa];B[qa])
+(;W[lb];B[oa]))
+(;W[oa];B[na]))
+(;W[qa];B[oa]
+(;W[na];B[lc])
+(;W[lc];B[na];W[lb];B[pa]C[Just capturing those two stones is not enough.])))
+(;W[lc];B[oa]C[Black lives with points])
+(;W[na];B[lc]))
+(;W[lc]
+(;B[pb]C[Black lives with points]))
+(;W[nb];B[pb]))
+(;W[pb];B[ob])
+(;W[nb];B[nc]
+(;W[pb];B[ob])
+(;W[ob])
+(;W[lc];B[lb]))
+(;W[ra];B[pb]
+(;W[nc];B[mc])
+(;W[lc];B[lb];W[nc];B[mc]))
+(;W[qa];B[pb]
+(;W[nc])
+(;W[ra];B[pa])
+(;W[pa];B[nc])
+(;W[lc];B[lb]
+(;W[nc];B[mc])
+(;W[pa];B[nc])))
+(;W[mc];B[nc]))
+(;W[rb];B[qb])
+(;W[nc]
+(;B[qb]C[CHOICE]
+(;W[lc];B[mc]C[2 stones is not enough.])
+(;W[mc];B[nb]C[]
+(;W[lc];B[lb]C[Right, after losses Black keeps 6 points.RIGHT])
+(;W[lb];B[lc]))
+(;W[nb];B[mc])
+(;W[lb];B[lc])
+(;W[ob];B[mc]))
+(;B[mc]C[Black wants to save all, now make him pay for it.CHOICE]
+(;W[qb];B[rb]
+(;W[lc])
+(;W[lb])
+(;W[nb])
+(;W[ob])
+(;W[pb])
+(;W[qa])
+(;W[pa])
+(;W[oa]))
+(;W[pb];B[qb])
+(;W[ob];B[qb])
+(;W[nb];B[qb])))
+(;W[lc];B[mc]C[2 stones are not enough.])
+(;W[lb];B[lc]
+(;W[qb];B[rb])
+(;W[nc];B[qb]))
+(;W[nb];B[qb])
+(;W[ob];B[qb]
+(;W[lc];B[lb];W[nc];B[mc])
+(;W[nc])
+(;W[lb];B[lc])
+(;W[mc];B[lc])
+(;W[nb];B[nc]))
+(;W[mc];B[nc]))

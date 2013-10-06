@@ -1,0 +1,41 @@
+(;GE[life and death]DI[6k]DP[38]SO[dmg]CO[4]AB[ea]AB[ed]AB[ee]AB[be]AB[bf]AB[bg]AB[ef]AW[da]AW[eb]AW[ec]AW[dc]AW[dd]AW[cd]AW[bd]AW[ae]AB[fa]AB[fb]AB[fc]AB[fd]AB[cg]AB[dg]AB[eg]AB[cb]TR[cb]C[Now black played the marked stones after white let him beeing cutted, what is the status of the white group? White to playFORCE]LB[jd:Dead]LB[jb:Alive]LB[jf:Seki]AP[goproblems]
+(;W[jd]AW[be]AB[ae]AB[bd]AB[cd]AB[dd]AB[dc]AB[ec]AB[eb]AB[da]AW[cb]AW[fa]AW[fb]AW[fc]AW[fd]AW[ed]AW[ea]AW[ee]AW[bf]AW[bg]AW[cg]AW[dg]AW[eg]AW[ef]C[]AB[jh]AB[jg]AB[jf]AB[je]AB[jd]AB[jc]AB[jb];B[bb]C[Prove it]AB[jb]AB[jc]AB[jd]AB[je]AB[jf]AB[jg]AB[jh]AE[jd]
+(;W[ca];B[db]
+(;W[bc];B[cc];W[ab];B[ba]C[Alive])
+(;W[ac];B[ad];W[bc];B[cc]C[Alive])
+(;W[ba];B[cc]
+(;W[ac];B[ad];W[ab];B[aa];W[ba];B[ca]C[Alive])
+(;W[ab];B[aa];W[ac];B[ad]))
+(;W[ab];B[ac];W[cc];B[ba]C[Alive]))
+(;W[db];B[cc]
+(;W[ca];B[ba];W[ac];B[da];W[ad];B[ab]C[Alive])
+(;W[ac];B[ca]
+(;W[ab];B[ad]C[Alive])
+(;W[ad];B[ab]C[Alive])))
+(;W[ba];B[cc];W[ab]))
+(;W[jb];B[jc]C[Prove it]
+(;W[db];B[bb]
+(;W[ba];B[ab]
+(;W[ad]C[Seki])
+(;W[ac]C[Seki]))
+(;W[bc];B[ab]
+(;W[ad];B[ba]C[Dead])
+(;W[ba];B[ad];W[ac]C[Seki (white needs to play C19 before all external liberties are filled)]))
+(;W[ab];B[ba];W[bc];B[ad]C[Dead (that what's happened in the game)]))
+(;W[ca];B[db];W[bb];B[ba];W[cc];B[ac]C[Dead])
+(;W[bb]
+(;B[ca]
+(;W[cc];B[db];W[ba];B[da]
+(;W[ac]C[RIGHT])
+(;W[ab]C[RIGHT])
+(;W[ad]C[RIGHT]))
+(;W[bc];B[db]C[Dead])
+(;W[db]C[RIGHT])
+(;W[ba];B[db];W[cc]))
+(;B[cc];W[ca];B[bc];W[ac]C[RIGHT])
+(;B[db]
+(;W[cc];B[ca];W[ba])
+(;W[ca];B[ba])
+(;W[bc];B[ca])
+(;W[ba];B[ca]))))
+(;W[jf]AW[be]AW[bf]AW[bg]AW[cg]AW[dg]AW[eg]AW[ef]AW[ee]AW[ed]AW[fd]AW[fc]AW[fb]AW[fa]AW[ea]AW[cb]AB[da]AB[ae]AB[bd]AB[cd]AB[dd]AB[dc]AB[ec]AB[eb]AB[jh]AB[jg]AB[jf]AB[je]AB[jd]AB[jc]AB[jb];B[bb]C[Prove it]AB[jh]AB[jg]AB[jf]AB[je]AB[jd]AB[jc]AB[jb]AE[jh]))

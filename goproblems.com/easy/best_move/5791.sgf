@@ -1,0 +1,10 @@
+(;GE[best move]DI[6k]DP[36]SO[maba]CO[5]AW[ab]AW[ba]AW[cb]AB[ca]AB[da]AB[db]AB[eb]AB[fb]AB[dd]AW[cc]AW[dc]AB[ec]AB[ed]AW[bd]AW[ce]AB[cd]AB[de]AW[df]AW[ef]AW[ff]AW[he]AB[hd]AB[gd]AB[fd]AW[fc]AW[gc]AW[hc]AW[gb]AW[fa]AW[ha]AW[ib]AW[ja]AW[ka]AB[ic]AB[jc]AB[jb]AB[kb]AW[lb]AW[mb]AB[kc]AB[lc]AB[mc]AW[id]AB[kd]AB[ld]AW[ke]AW[le]AB[me]AB[nb]AB[ma]AB[nd]C[If you think black cannot save his stones, play T to tenuki.]AW[ie]AW[gf]AW[bc]AW[cf]LB[jf:T]AP[goproblems]
+(;B[jf]C[Black is dead. You saved many big ko threats.RIGHT])
+(;B[la];W[ge]
+(;B[ia];W[ja]
+(;B[ka];W[fe]
+(;B[ia];W[ee];B[hb];W[ea])
+(;B[ea];W[ee]))
+(;B[ea];W[ga];B[ka];W[fe];B[ia];W[ee]))
+(;B[ea];W[ga];B[ia];W[ja];B[ka];W[fe];B[ia];W[ee]))
+(;B[ea];W[ga];B[la];W[ge];B[ia];W[ja];B[ka];W[fe];B[ia];W[ee]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[4k]DP[31]SO[hanip]CO[7]AB[hr]AB[hq]AB[hp]AB[io]AB[ho]AB[jp]AB[kp]AB[lp]AB[mp]AB[np]AB[oq]AB[pr]AB[ps]AB[pp]AW[ip]AW[jq]AW[iq]AW[kq]AW[mq]AW[nq]AW[mr]AW[or]AW[os]AW[ns]C[]AP[goproblems]
+(;B[ls];W[ks]
+(;B[kr];W[jr]
+(;B[js];W[lr]
+(;B[is]C[];W[ks]C[Yes, ko is best for bRIGHT])
+(;B[ks];W[is]
+(;B[ir];W[ms])
+(;B[lq];W[ms])
+(;B[hs];W[ms]))
+(;B[lq];W[ks]C[not a best ko for black, but also correctRIGHT])
+(;B[ir]C[RIGHT]))
+(;B[lq];W[lr]))
+(;B[lr];W[lq];B[kr];W[jr];B[js];W[ms]))
+(;B[ks];W[kr]
+(;B[ls];W[js];B[is];W[jr];B[lq];W[lr]C[W lives])
+(;B[js];W[ls];B[lq];W[lr]C[w lives]))
+(;B[js];W[kr]
+(;B[ls];W[ks];B[lq];W[lr])
+(;B[ks]))
+(;B[jr];W[kr];B[ks];W[ls];B[lq];W[ir]
+(;B[is];W[js])
+(;B[lr];W[js]))
+(;B[lr];W[lq]
+(;B[ls];W[kr];B[ks];W[js])
+(;B[ks];W[kr]
+(;B[js];W[ls])
+(;B[ls];W[js])))
+(;B[kr];W[jr]
+(;B[lr];W[lq])
+(;B[js];W[lr];B[ls];W[ms]
+(;B[is];W[ks])
+(;B[ks];W[is]))))

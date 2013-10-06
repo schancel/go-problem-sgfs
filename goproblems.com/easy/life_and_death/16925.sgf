@@ -1,0 +1,7 @@
+(;GE[life and death]DI[10k]DP[54]SO[1234boys]CO[0]AB[qs]AB[qr]AB[or]AB[pq]AB[op]AB[po]AB[pn]AB[pm]AB[qm]AB[rm]AB[sm]AB[rp]AW[rr]AW[rs]AW[pp]AW[qp]AW[qo]AW[qn]AW[rn]AW[sn]AW[so]AW[sp]AW[sq]LB[rq:a]LB[qq:b]LB[sr:c]LB[ss:d]C[Black to kill.]AP[goproblems]
+(;B[rq];W[qq]
+(;B[sr];W[ro];B[rq]C[Correct. The white stones is dead. (marked D)RIGHT]LB[rs:D]LB[rr:D]LB[qq:D]LB[pp:D]LB[qp:D]LB[qo:D]LB[qn:D]LB[rn:D]LB[ro:D]LB[sn:D]LB[so:D]LB[sp:D]LB[sq:D])
+(;B[ss];W[sr]C[Wrong. The white stones is unconditionally alive. (marked E)]LB[rs:E]LB[rr:E]LB[sr:E]LB[qq:E]LB[pp:E]LB[qp:E]LB[qo:E]LB[qn:E]LB[rn:E]LB[sn:E]LB[so:E]LB[sp:E]LB[sq:E]))
+(;B[qq];W[rq]LB[rs:E]LB[rr:E]LB[rq:E]LB[qp:E]LB[pp:E]LB[qo:E]LB[qn:E]LB[rn:E]LB[sn:E]LB[so:E]LB[sp:E]LB[sq:E]C[Wrong. The white stones is unconditionally alive. (marked E)])
+(;B[sr];W[rq]LB[rs:E]LB[rr:E]LB[rq:E]LB[sq:E]LB[qp:E]LB[pp:E]LB[qo:E]LB[qn:E]LB[rn:E]LB[sn:E]LB[so:E]LB[sp:E]C[Wrong. The white stones is unconditionally alive. (marked E)])
+(;B[ss];W[qq];B[rq];W[sr]LB[rs:E]LB[rr:E]LB[sr:E]LB[qq:E]LB[pp:E]LB[qp:E]LB[qo:E]LB[qn:E]LB[rn:E]LB[sn:E]LB[so:E]LB[sp:E]LB[sq:E]C[Wrong. The white stones is unconditionally alive. (marked E)]))

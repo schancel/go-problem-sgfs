@@ -1,0 +1,135 @@
+(;GE[life and death]DI[15k]DP[60]SO[Mocramis]CO[0]AB[dp]AW[fq]AB[hq]AW[cq]AB[dq]AW[cp]AB[do]AW[dr]AB[er]AW[cr]AB[eq]AW[cn]AB[dn]AW[dm]AB[em]AW[cm]AB[dl]AW[fo]AB[ho]AW[fm]AB[fl]AW[gm]AW[fn]AB[hl]AW[gl]AB[gk]AW[en]AB[el]AW[hk]AB[hm]AW[gj]AB[fk]AW[hj]AB[cl]AW[gn]AW[fj]AW[go]AW[eo]AW[fr]AB[dj]AB[hp]AB[ej]AW[ei]C[Black to survive.]AP[goproblems]
+(;B[fp];W[gp]
+(;B[gq];W[ep]
+(;B[hn];W[fp]
+(;B[gr];W[co]
+(;B[fs]C[Well done!RIGHT])
+(;B[es];W[ds];B[fs]C[CHOICERIGHT]))
+(;B[fs];W[gr]
+(;B[hr];W[co]
+(;B[gs]C[Well done!CHOICERIGHT])
+(;B[es];W[ds];B[gs]C[You success but whithe close off his edge in sente.RIGHT]))
+(;B[gs];W[hr]
+(;B[ir];W[co]
+(;B[hs]C[Well done!RIGHT])
+(;B[es];W[ds];B[hs]C[You success but whithe close off his edge in sente.RIGHT]))
+(;B[hs];W[ir]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]TR[fs]TR[gs]TR[hs]C[CHOICE])))
+(;B[es];W[fs]))
+(;B[gr];W[es]
+(;B[fs];W[co]C[CHOICE])
+(;B[hn];W[co]C[CHOICE])
+(;B[co];W[bo]C[CHOICE]))
+(;B[es];W[fs]
+(;B[hn];W[fp]
+(;B[gr];W[co];B[gs]C[Well done RIGHT])
+(;B[gs];W[co];B[gr]C[well done RIGHT]))
+(;B[gr];W[co]
+(;B[hn];W[ds]C[CHOICE])
+(;B[gs];W[ds]C[CHOICE])
+(;B[ds];W[cs]C[CHOICE]))
+(;B[gs];W[co]
+(;B[gr])
+(;B[hn];W[ds]C[CHOICE])
+(;B[ds];W[cs]C[CHOICE]))))
+(;B[hn];W[gq]
+(;B[ep];W[co]TR[er]TR[eq]TR[dq]TR[dp]TR[ep]TR[fp]TR[do]TR[dn]C[CHOICE])
+(;B[fs];W[gs]
+(;B[ep];W[es]TR[er]TR[eq]TR[dq]TR[dp]TR[ep]TR[fp]TR[do]TR[dn]C[CHOICE])
+(;B[es];W[hr]
+(;B[ep];W[co]C[];B[gr]C[RIGHT])
+(;B[ds];W[cs]
+(;B[co];W[bo]C[CHOICE])
+(;B[ep];W[co]C[CHOICE]))
+(;B[co];W[bo]
+(;B[bm];W[bn]C[CHOICE])
+(;B[bn];W[bm]C[CHOICE])))
+(;B[hr];W[es]
+(;B[gr];W[ep]
+(;B[hs];W[co]C[CHOICE])
+(;B[co];W[bo]C[CHOICE]))
+(;B[hs];W[ep]
+(;B[gr])
+(;B[co];W[bo]C[CHOICE])))))
+(;B[ep];W[co]TR[er]TR[eq]TR[dq]TR[dp]TR[ep]TR[fp]TR[dn]TR[do]C[CHOICE])
+(;B[es];W[gq]
+(;B[fs];W[hr]C[CHOICE]
+(;B[ir];W[gs]TR[dn]TR[do]TR[dp]TR[fp]TR[eq]TR[dq]TR[er]TR[es]TR[fs]C[CHOICE])
+(;B[gs];W[gr];B[ir];W[hs]
+(;B[is];W[co]
+(;B[hn];W[ds];B[ep]C[well done RIGHT])
+(;B[ep];W[ds]C[CHOICE]))
+(;B[hn];W[co]
+(;B[is])
+(;B[ep];W[ds]C[CHOICE]))))
+(;B[gs];W[fs];B[hn];W[hr];B[ep];W[gr];B[ir];W[co];B[hs]C[CHOICERIGHT])
+(;B[gr];W[hr];B[fs];W[gs];B[ir];W[co]TR[fs]TR[es]TR[er]TR[eq]TR[dq]TR[dp]TR[fp]TR[do]TR[dn]C[CHOICE])))
+(;B[bo];W[co]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])
+(;B[co];W[bo]
+(;B[bm];W[bn]TR[er]TR[eq]TR[dq]TR[dp]TR[co]TR[do]TR[dn]C[CHOICE])
+(;B[bn];W[bm]
+(;B[bp];W[an]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[co]TR[dn]C[CHOICE])
+(;B[bl];W[an]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[co]TR[dn])))
+(;B[hn];W[co]TR[dn]TR[do]TR[dp]TR[dq]TR[eq]TR[er]C[CHOICE])
+(;B[gp];W[fp]
+(;B[hn];W[co]TR[dn]TR[do]TR[dp]TR[dq]TR[eq]TR[er]C[CHOICE])
+(;B[co];W[bo];B[bm];W[bn]TR[dn]TR[do]TR[co]TR[dp]TR[dq]TR[eq]TR[er]C[CHOICE])
+(;B[es];W[fs]TR[es]TR[er]TR[eq]TR[dp]TR[dq]TR[dn]TR[do]C[CHOICE])
+(;B[gr];W[co]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])
+(;B[fs];W[gs]
+(;B[gr];W[es]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn])
+(;B[es];W[hr]TR[fs]TR[es]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])))
+(;B[bl];W[co]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])
+(;B[fs];W[gs];B[es];W[gq]
+(;B[fp];W[gp]
+(;B[hs];W[gr]
+(;B[hr];W[ep];B[hn];W[co];B[fp]C[Well done!RIGHT])
+(;B[hn];W[ep];B[hr])
+(;B[co]))
+(;B[hr];W[gr]
+(;B[hs])
+(;B[hn];W[ep];B[hs]))
+(;B[ep];W[ds]TR[fs]TR[es]TR[er]TR[eq]TR[ep]TR[fp]TR[dq]TR[dp]TR[do]TR[dn])
+(;B[co];W[bo]
+(;B[bn];W[bm]TR[es]TR[er]TR[fs]TR[eq]TR[dq]TR[dp]TR[co]TR[do]TR[dn]TR[fp])
+(;B[bm];W[bn]TR[fs]TR[es]TR[er]TR[dq]TR[eq]TR[fp]TR[dp]TR[do]TR[dn]TR[co]C[CHOICE]))
+(;B[hn])
+(;B[ds];W[cs]TR[fs]TR[es]TR[ds]TR[er]TR[eq]TR[dq]TR[dp]TR[fp]TR[do]TR[dn]C[CHOICE]))
+(;B[hr];W[gr]
+(;B[hs];W[ep]
+(;B[gp];W[ds];B[fp]C[Well done!RIGHT])
+(;B[fp];W[gp];B[hn];W[ds];B[fp]C[Well done!RIGHT])
+(;B[hn];W[ds]))
+(;B[gp];W[fp]
+(;B[hn];W[co];B[hs];W[ds];B[ep]C[Well done!RIGHT])
+(;B[hs];W[co];B[hn];W[ds];B[ep]C[Well done!RIGHT]))
+(;B[fp];W[gp]
+(;B[hn];W[ep];B[hs];W[ds];B[fp]C[Well done!RIGHT])
+(;B[hs];W[co];B[hn];W[ep];B[fp]C[Well done!RIGHT]))
+(;B[hn]
+(;W[fp]
+(;B[gp];W[co];B[hs];W[ds];B[ep]C[Well done!RIGHT])
+(;B[hs];W[co];B[gp];W[ds];B[ep]C[Well done!RIGHT]))))
+(;B[hn];W[fp]
+(;B[gp];W[co])
+(;B[hr];W[gr]
+(;B[gp];W[co];B[hs];W[ds];B[ep]C[Well done!RIGHT])
+(;B[hs];W[co];B[gp];W[ds];B[ep]C[Well done!RIGHT])))
+(;B[gp];W[fp]
+(;B[hn];W[co];B[hr];W[ds];B[gr];W[ep])
+(;B[hr];W[co];B[gr];W[ds];B[hs]C[Well done!RIGHT])
+(;B[hs];W[gr];B[hr];W[co];B[hn];W[ds];B[ep]C[Well done!RIGHT]))
+(;B[hs];W[hr]C[Might get messy])
+(;B[ep];W[co]))
+(;B[es];W[fp]
+(;B[fs];W[gr]
+(;B[gs];W[hr]
+(;B[hs];W[ir]C[CHOICE])
+(;B[ir];W[hs]
+(;B[is];W[co]TR[gs]TR[fs]TR[es]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])
+(;B[hn];W[is]C[CHOICE])
+(;B[co];W[bo]TR[dn]TR[do]TR[co]TR[dp]TR[eq]TR[dq]TR[er]TR[es]TR[fs]TR[gs]C[CHOICE])))
+(;B[hr];W[gs]
+(;B[hs];W[co]TR[dn]TR[do]TR[dp]TR[dq]TR[eq]TR[er]TR[es]TR[fs]C[CHOICE])
+(;B[co];W[bo]TR[es]TR[fs]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]TR[co]C[CHOICE])
+(;B[hn];W[co]TR[dn]TR[do]TR[dp]TR[dq]TR[eq]TR[er]TR[es]TR[fs]C[CHOICE])))
+(;B[gs];W[fs]TR[es]TR[er]TR[eq]TR[dq]TR[dp]TR[do]TR[dn]C[CHOICE])))

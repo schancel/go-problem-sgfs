@@ -1,0 +1,14 @@
+(;GE[best move]DI[12k]DP[58]SO[Blaster097]CO[0]C[Black to play]AB[el]AB[fm]AB[ho]AB[hp]AB[gp]AB[gq]AB[fq]AB[gr]AB[hr]AB[iq]AB[jq]AB[jr]AB[kr]AB[jp]AB[kp]AB[ko]AB[lp]AB[mo]AB[ln]AB[lm]AB[nm]AB[nn]AW[dl]AW[dm]AW[do]AB[em]AW[en]AW[fn]AW[gn]AW[go]AW[hn]AW[ip]AW[io]AW[jo]AW[kn]AW[km]AW[ep]AW[fp]AW[dq]AW[eq]AW[er]AW[dr]AW[fr]AW[kq]AW[lq]AW[lr]AW[mp]AW[no]AW[oo]AW[on]AW[nq]AB[fj]AB[ek]AB[ej]AB[dk]AB[ck]AP[goproblems]
+(;B[in];W[jn]
+(;B[im]C[RIGHT])
+(;B[kl];W[im];B[jm]
+(;W[in])
+(;W[jl])))
+(;B[jn];W[in]
+(;B[jm];W[kl]
+(;B[il]C[RIGHT])
+(;B[jl]C[OK, but white can hit the head of the stonesRIGHT]))
+(;B[kl];W[jm]))
+(;B[kl];W[in];B[il]C[RIGHT])
+(;B[im];W[in])
+(;B[jm];W[jn];B[kl];W[in]))

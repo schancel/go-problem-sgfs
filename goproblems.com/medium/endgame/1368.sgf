@@ -1,0 +1,12 @@
+(;GE[endgame]DI[2k]DP[21]SO[gecko]CO[7]SZ[19]AB[ab]AB[bb]AB[cb]AB[ec]AB[ed]AB[gc]AB[fe]AB[de]AW[ac]AW[bc]AW[cd]AW[dd]AW[ee]AW[ef]AW[dg]AW[ch]AW[bi]LB[dc:a]C[yet another noble 1-pointer. your assigment is to play a in the most profitable way.(disregard the center)]FF[4]GM[1]AP[Jago:Version 4.31]GN[temp]
+(;B[bd]
+(;W[be]
+(;B[cc];W[ad];B[dc];W[df]C[ white has to answer every moveRIGHT])
+(;B[ce];W[ad];B[cc];W[cf];B[dc];W[df]C[ the move at black a was unnecessary, but this works too.RIGHT]LB[ce:a]))
+(;W[cc]C[wrong defence];B[ce];W[be];B[bf];W[ad];B[cf];W[bg];B[af];W[cg];B[ae]C[ big trouble for whiteRIGHT]))
+(;B[dc];W[bd]LB[cc:a]C[white doesn't have to answer a])
+(;B[cc];W[bd]LB[dc:a]C[now a will be gote])
+(;B[ce];W[be]
+(;B[bd];W[ad];B[cc];W[cf];B[dc];W[df]C[ the move at black a was unnecessary, but this works too.RIGHT]LB[ce:a])
+(;B[dc];W[bd]LB[cc:a]C[white will not have to answer a])
+(;B[cc];W[bd]LB[dc:a]C[black a will be gote])))

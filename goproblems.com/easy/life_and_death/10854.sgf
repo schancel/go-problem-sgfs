@@ -1,0 +1,78 @@
+(;GE[life and death]DI[6k]DP[39]SO[BartTM]CO[0]AW[nb]AW[oc]AW[od]AW[nd]AW[md]AW[le]AW[ke]AW[kd]AW[kc]AW[kb]AB[lb]AB[lc]AB[ld]AB[mb]AB[ob]AB[pb]AB[pc]AB[qd]AB[pe]AB[oe]AB[ne]AB[me]MA[mb]C[Black just played the marked move. Prove her wrong.]AP[goproblems]
+(;W[la]
+(;B[na]
+(;W[mc];B[nc]MA[ld]MA[lc]MA[lb]MA[mb]C[Ko, White has to find the first threat. This is the best result White can hope for.RIGHT])
+(;W[ma];B[ka])
+(;W[oa];B[nc])
+(;W[nc];B[pd])
+(;W[ka];B[nc]))
+(;B[ma]
+(;W[na];B[ka];W[mc]C[RIGHT])
+(;W[mc]C[RIGHT];B[ka];W[na]C[RIGHT]))
+(;B[nc];W[mc]C[RIGHT])
+(;B[pd];W[ma]C[RIGHT]))
+(;W[ma];B[la]
+(;W[mc];B[na]
+(;W[ka];B[nc]C[Ko, White has to find the first threat. The best White can hope for.RIGHT])
+(;W[oa];B[pd]
+(;W[ka];B[nc])
+(;W[ma];B[nc])))
+(;W[na];B[oa]
+(;W[mc];B[nc];W[nb];B[pd])
+(;W[nc];B[pd])
+(;W[ka];B[nc]))
+(;W[nc];B[na])
+(;W[ka];B[na]
+(;W[mc])
+(;W[oa];B[nc]))
+(;W[oa];B[na]LB[rb:Threat]C[Play Threat if you need one.]
+(;W[mc])
+(;W[ka])
+(;W[nc];B[pa])
+(;W[rb];B[rc]
+(;W[ma];B[re]C[Consider this Black move to be a ko threat that you will have to ignore.]
+(;W[ka]C[Consider this Black move to be a ko threat that you will have to ignore.];B[na]C[Even though you have ignored a ko threat you still need another one yourself to win. This is effectively an approach-move ko. Not good enough.])
+(;W[mc];B[na]C[Even though you have ignored a ko threat you still need another one yourself to win. This is effectively an approach-move ko. Not good enough.])
+(;W[na];B[pa]
+(;W[mc];B[nc])
+(;W[nc];B[pd])
+(;W[ka];B[nc]))
+(;W[nc];B[pa]
+(;W[ka];B[na])
+(;W[na])
+(;W[mc];B[na])))
+(;W[ka];B[nc])
+(;W[mc];B[pd]
+(;W[ma];B[nc])
+(;W[ka];B[nc]))
+(;W[nc];B[pa]))))
+(;W[na];B[nc]
+(;W[mc];B[pd]
+(;W[nc];B[oa])
+(;W[la];B[nc])
+(;W[ma];B[nc]))
+(;W[la];B[pd]
+(;W[mc])
+(;W[ma];B[mc]))
+(;W[ma];B[pd]
+(;W[la])
+(;W[mc])))
+(;W[mc];B[pd]
+(;W[ma];B[nc])
+(;W[na];B[nc])
+(;W[la];B[nc]))
+(;W[ka];B[na]
+(;W[mc];B[ma])
+(;W[ma];B[nc])
+(;W[la]))
+(;W[nc];B[na])
+(;W[oa];B[nc]
+(;W[mc];B[pd])
+(;W[na];B[mc])
+(;W[la];B[na])
+(;W[ma];B[pd]
+(;W[mc];B[nc])
+(;W[la];B[mc])
+(;W[na];B[la]
+(;W[ka];B[mc])
+(;W[mc];B[nc])))))

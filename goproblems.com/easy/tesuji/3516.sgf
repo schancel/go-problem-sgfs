@@ -1,0 +1,76 @@
+(;GE[tesuji]DI[8k]DP[45]SO[fwiffo]CO[8]AW[dc]AW[he]AB[ie]AB[gc]AB[gb]AB[if]AB[jg]AB[gd]AB[hd]AW[hf]AB[hg]AW[id]AW[jd]AW[kd]AW[fe]AW[ib]AW[ic]AW[ld]AW[df]AW[gh]AW[ce]C[Can black save his G17 group?]AP[goproblems]
+(;B[ff]
+(;W[ge]C[]
+(;B[ee]
+(;W[fd]
+(;B[ed]
+(;W[fc];B[ec]
+(;W[fb]
+(;B[eb];W[ga]
+(;B[gf];W[fa]C[CHOICE]
+(;B[ea];W[ha]C[white connected == black disconnected])
+(;B[ha];W[hb];B[ea]C[White can't win that race.RIGHT]))
+(;B[fa];W[ea]
+(;B[da];W[hb]C[Too slow, you're captured.])
+(;B[ha];W[hb]C[There are better results than ko.]LB[fa:ko])
+(;B[gf];W[fa]
+(;B[ha];W[da];B[db]C[This strange route works, but the sacrifice is unnecessary.RIGHT])
+(;B[da];W[ha]C[Look what you've gotten yourself into!])))
+(;B[ha];W[hb]
+(;B[fa];W[hc]
+(;B[gf]C[White can't win that race.RIGHT])
+(;B[ga]C[White can't escape now, but you will probably need to connect or capture sooner or later.RIGHT]))
+(;B[gf];W[hc]C[Too slow, black is captured.]))
+(;B[ea];W[hb]C[Much too slow -- you're captured!]))
+(;B[fa];W[eb]
+(;B[db];W[cb]C[White's escaped!])
+(;B[ea];W[db]C[white connected == black disconnected])))
+(;W[eb];B[fb]C[White's trappedRIGHT]))
+(;W[ec]C[];B[fc]C[White can't connect out.RIGHT]))
+(;B[ec];W[ed];B[dd];W[cd]C[Black's in a bad way.]))
+(;W[gg]C[];B[gf]C[White's wrapped up!RIGHT])
+(;W[gf];B[gg]C[White's wrapped up!RIGHT]))
+(;B[gf];W[ee]C[white connected == black disconnected])
+(;B[fd];W[ee]C[white connected == black disconnected]))
+(;W[gf]
+(;B[gg];W[ge];B[ee]C[White can't escape that way.RIGHT])
+(;B[ge];W[gg]
+(;B[ee];W[fg]
+(;B[fd];W[ef]C[Black's fate is sealed.])
+(;B[ef];W[eg]C[Black's fate is sealed.]))
+(;B[fd];W[ee]C[Black's group is completely cut off.])
+(;B[ef];W[ee]C[Black's group is completely cut off.])
+(;B[eg];W[ef]C[Black's cut off.])
+(;B[fg];W[ee]C[Black's cut off.]))))
+(;B[ge];W[gf]
+(;B[gg];W[ff]C[white connected == black disconnected])
+(;B[ff];W[gg]
+(;B[ee];W[fg]
+(;B[eg];W[ef]C[Black's got no way out.])
+(;B[ef];W[eg]C[Black's sealed in.])
+(;B[fd];W[ef]C[Black remains trapped.]))
+(;B[fg];W[ee]C[Black's still cut.])))
+(;B[ef];W[ee];B[ge];W[gf]
+(;B[gg];W[ff]C[black connected == white disconnected])
+(;B[ff];W[gg]C[black connected == white disconnected]))
+(;B[gf];W[ge]
+(;B[ee];W[ff]
+(;B[gg];W[ef]C[black connected == white disconnected])
+(;B[ef];W[eg]C[black connected == white disconnected])
+(;B[fg];W[ef]C[black connected == white disconnected]))
+(;B[ef];W[ee]C[black connected == white disconnected])
+(;B[ff];W[ee]C[white connected == black disconnected]))
+(;B[ee];W[ff]C[]
+(;B[ef];W[fg]
+(;B[ed];W[eg]
+(;B[ec];W[cc]C[Your trapped group has a nice connection to....  Another trapped group.  There's a better way.])
+(;B[fd];W[cc]C[You've connected to your trapped group, but you're still trapped.  There's a better way out.]))
+(;B[eg];W[ed]
+(;B[fd];W[eh]C[Now you've got three weak groups in a big messy fight.  There's a simpler solution!])
+(;B[fh];W[eh]C[Now you've got three weak groups in a big messy fight.  There's a simpler solution!]))
+(;B[fd];W[eg]C[white connected == black disconnected]))
+(;B[fd];W[ef]C[white connected == black disconnected])
+(;B[ed];W[ef]C[white connected == black disconnected])
+(;B[gf];W[ge]C[white connected == black disconnected])
+(;B[ge];W[gf]C[white connected == black disconnected]))
+(;B[gg];W[ff]C[white connected == black disconnected]))

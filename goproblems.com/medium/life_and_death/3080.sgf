@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1d]DP[16]SO[unkx80]CO[4]AB[qa]AB[qb]AB[qc]AW[rb]AW[rc]AW[qd]AW[qe]AW[rf]AW[rg]AW[qg]AW[pg]AB[qf]AB[pf]AB[pe]AB[pd]AB[og]AB[od]AB[nd]AB[nc]AB[nb]AW[ob]AW[oc]AW[pc]AW[pa]LB[ni:W]LB[pi:L]LB[ri:K]C[Choose W if you think black can win the capturing race unconditionally, L if you think black will lose the capturing race unconditionally, K if you think the result is a ko.]AB[mb]AW[mc]AP[goproblems]
+(;B[ni]C[Try again.FORCE])
+(;B[pi]C[Try again.FORCE])
+(;B[ri];W[qi]C[Please carry on. At all times please do not play at A, I have no variations for that.FORCE]LB[oa:A]
+(;B[ra];W[sc]
+(;B[rd];W[re];B[na];W[sa];B[sb]C[RIGHT])
+(;B[na];W[sa];B[sb]C[RIGHT])
+(;B[re];W[rd]
+(;B[na];W[sa];B[sb]C[RIGHT])
+(;B[se];W[sf];B[na];W[sa];B[sb]C[RIGHT])))
+(;B[rd];W[re];B[ra];W[sc];B[na];W[sa];B[sb]C[RIGHT])
+(;B[re];W[rd];B[ra];W[sb])
+(;B[na];W[ra])))

@@ -1,0 +1,19 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[8]AW[bo]AW[co]AW[cn]AW[cp]AW[cq]AW[cr]AW[cs]AW[dq]AW[eq]AW[dp]AB[bm]AB[cl]AB[el]AB[en]AB[do]AB[fo]AB[fp]AB[fq]AB[er]AB[dr]AB[fm]AB[bp]AB[bq]AB[br]C[Best Black can do is...?]AP[goproblems]
+(;B[ao];W[an]
+(;B[bn];W[ap]
+(;B[ar]C[Well done! White can't prevent Black from creating a dead shape inside! :)RIGHT]MA[ar]MA[br]MA[bq]MA[bp]MA[aq])
+(;B[aq];W[ar]
+(;B[ao];W[bs]
+(;B[as];W[ap]MA[ao]C[Double ko!])
+(;B[am];W[ap]C[:(]))
+(;B[as]C[:(]))
+(;B[am];W[ar];B[ao];W[bs]C[:(])
+(;B[bs]C[:(]))
+(;B[ap];W[bn]C[:(])
+(;B[aq];W[bn]C[:(]))
+(;B[ap];W[ao]C[:(])
+(;B[aq];W[ao]C[Only seki! :(]LB[ar:1]LB[bs:2])
+(;B[ar];W[ao]C[Only seki! :(]LB[aq:1]LB[bs:2])
+(;B[bs];W[ao]C[:(])
+(;B[an];W[ao]C[Only seki! :(]LB[aq:1]LB[bs:2]LB[ar:3])
+(;B[as];W[ao]C[:(]))

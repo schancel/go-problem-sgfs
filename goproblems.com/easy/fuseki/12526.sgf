@@ -1,0 +1,9 @@
+(;GE[fuseki]DI[8k]DP[49]SO[dischord]CO[0]AB[do]AB[cn]AB[dm]AB[pq]AB[pp]AB[po]AB[pn]AB[pm]AW[co]AW[cp]AW[dq]AW[fq]AW[qq]AW[qp]AW[qn]AW[qo]AW[ql]AW[qk]LB[iq:A]LB[jq:B]C[A or B?]AP[goproblems]
+(;B[jq]C[Right. Extending further is too close to white's strong position.RIGHT])
+(;B[iq]C[Too close to white's strong position on the left. White's marked stones also make it easier for a weak white group to escape; they counter the influence of black's wall further up the board.]MA[qk]MA[ql];W[lp]
+(;B[io];W[ln]C[Note that black's wall isn't yet alive.])
+(;B[lr]C[Black is too low. White is happy.];W[kq]
+(;B[jr];W[ln])
+(;B[kr];W[jq]
+(;B[jr];W[ip];B[hq];W[km])
+(;B[ir];W[kn])))))

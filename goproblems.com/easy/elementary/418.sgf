@@ -1,0 +1,73 @@
+(;GE[elementary]DI[5k]DP[32]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[cl][cm][cn]AE[en][el][em][fk][dj][dh][cj][do]AW[co][bp]AE[cp]AW[dp]AE[ep]AW[dn][dm][dl]AB[dk][ek]AW[ck]AB[ch]TR[ck]C[how should black deal with the marked white stone?]
+(;B[cj]CR[cj]
+;W[bk]CR[bk]
+(;B[bl]CR[bl]
+;W[bj]CR[bj]
+(;B[bi]CR[bi]C[RIGHT
+white captured])
+(;B[ci]CR[ci]
+;W[bn]CR[bn]))
+(;B[bj]CR[bj]
+;W[bl]CR[bl]
+(;B[bm]CR[bm]
+;W[bn]CR[bn]
+;B[am]CR[am]
+;W[an]CR[an])
+(;B[bn]CR[bn]
+;W[bm]CR[bm]
+;B[am]CR[am]
+;W[bo]CR[bo]
+;B[an]CR[an]
+;W[ao]CR[ao])))
+(;B[bk]CR[bk]
+;W[cj]CR[cj]
+(;B[bj]CR[bj]
+;W[di]CR[di]
+(;B[eh]CR[eh]C[RIGHT
+this works for black])
+(;B[ei]CR[ei]
+;W[dh]CR[dh]C[black split])
+(;B[dh]CR[dh]
+;W[ei]CR[ei]C[black split])
+(;B[ci]CR[ci]
+;W[dj]CR[dj]
+;B[eh]CR[eh]
+;W[ej]CR[ej]
+;B[fj]CR[fj]
+;W[fk]CR[fk]
+;B[el]CR[el]
+;W[fl]CR[fl]
+;B[em]CR[em]
+;W[en]CR[en]C[ladder]))
+(;B[dj]CR[dj]
+;W[bj]CR[bj]
+(;B[bl]CR[bl]C[this leaves problems for black])
+(;B[al]CR[al]
+;W[bn]CR[bn]
+;B[bm]CR[bm]
+;W[an]CR[an]
+;B[am]CR[am]
+;W[aj]CR[aj])))
+(;B[bj]CR[bj]
+;W[bk]CR[bk]
+(;B[bl]CR[bl]
+;W[cj]CR[cj]
+;B[bi]CR[bi]
+;W[al]CR[al]
+;B[am]CR[am]
+;W[ak]CR[ak]
+;B[bn]CR[bn]
+;W[ao]CR[ao]
+;B[bo]CR[bo]
+;W[ap]CR[ap]
+;B[dj]CR[dj]
+;W[an]CR[an])
+(;B[cj]CR[cj]
+;W[bl]CR[bl]
+;B[bm]CR[bm]
+;W[bn]CR[bn]))
+(;B[di]CR[di]
+;W[bk]CR[bk])
+(;B[bn]CR[bn]
+;W[bk]CR[bk]C[trouble for black]))

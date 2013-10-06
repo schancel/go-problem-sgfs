@@ -1,0 +1,23 @@
+(;GE[best move]DI[4k]DP[30]SO[adum]CO[9]SZ[19]AB[de]AW[dc]AB[fd]AW[fc]AB[gc]AW[ed]AB[ee]AW[gd]AB[fe]AW[hc]AB[gb]AW[hb]TR[gb]TR[gc]C[ladders work for black. how to save the marked stones in the best way?]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AE[ch]
+(;B[fb];W[ec]
+(;B[hd];W[ge]
+(;B[id]C[white chooses which way to dieRIGHT])
+(;B[he];W[gf];B[ic];W[ib];B[jb];W[jc]
+(;B[ia];W[id];B[ha];W[ic]C[no])
+(;B[ha];W[id];B[ia];W[ic]C[no]))
+(;B[gf];W[he]
+(;B[id];W[eb]
+(;B[ie]C[RIGHT])
+(;B[hf]C[RIGHT]))
+(;B[hf];W[id])
+(;B[ie];W[id])))
+(;B[eb];W[db];B[hd];W[ge];B[id]C[RIGHT])
+(;B[ge];W[hd]))
+(;B[hd];W[fb]
+(;B[ga];W[ge])
+(;B[ge];W[ga]C[this is not the best way]))
+(;B[eb];W[fb])
+(;B[cc];W[fb])
+(;B[dd];W[fb])
+(;B[db];W[fb])
+(;B[ib];W[fb]))

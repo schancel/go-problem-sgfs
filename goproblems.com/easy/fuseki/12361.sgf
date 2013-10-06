@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[18k]DP[65]SO[holyhell99]CO[0]AB[dd]AB[dp]AW[pp]AW[pd]AB[nq]AW[lq]AB[no]AW[pn]AB[kp]AW[lp]AB[lo]AW[kq]AB[jp]AW[jq]AB[ip]AW[hr]AB[kn]AW[fc]AB[dj]AB[fd]AW[gd]AB[fe]AW[dc]AB[ec]AW[eb]AB[ed]AW[gb]AB[cc]AW[db]AB[ge]AW[hd]AB[ji]AW[he]AB[hf]AW[if]AB[ig]AW[hg]AB[gf]AB[ih]AW[jd]AB[jf]AW[ie]AB[kg]AB[cb]C[What is the best move for black to approach Q16?FORCE]AW[kf]AB[jh]AW[lf]AB[lg]AW[mg]AB[fq]AW[mi]AB[cn]AW[mf]AW[qj]TR[pd]AP[goproblems]
+(;B[nc]TR[jd]TR[kf]TR[lf]TR[mf]TR[mg]TR[pd]C[No putting in a spot where you are trapped is not a good way to attack it.     you just get attacked yourself.])
+(;B[od]C[No.   White has too many stones here so you will be overthrown.])
+(;B[qf]AW[qe]AB[pf]AW[oe]AB[qh]LB[qe:1]LB[pf:2]LB[oe:3]LB[qh:4]C[and this is not good for Black...])
+(;B[qc]AB[qd]AW[pc]AW[qe]AB[re]AW[qf]AB[pb]AW[ob]AB[qb]AW[nc]AB[rf]AW[qg]LB[qq:a]LB[pr:b]C[Yes the san san will do good in this position-now black can play a/b--i'm not sure if  r16 or q17 work tooRIGHT]TR[pc]TR[qd]))

@@ -1,0 +1,37 @@
+(;GE[life and death]DI[5k]DP[35]SO[passero]CO[0]AB[ab]AB[bc]AB[ad]AB[be]AB[cd]AB[dd]AB[ed]AB[fd]AB[gc]AB[hc]AB[hb]AB[ha]AW[gb]AW[ga]AW[fc]AW[ec]AW[eb]AW[cc]AW[bb]C[Black to Kill.]AW[fa]AP[goproblems]
+(;B[db];W[dc]
+(;B[cb];W[ba]
+(;B[da]C[Nice. White can't move at C19 and E19.RIGHT]MA[ca]MA[ea])
+(;B[ac];W[da])
+(;B[ca];W[da]))
+(;B[ba];W[cb]
+(;B[ca];W[da])
+(;B[da];W[ca]))
+(;B[ca];W[cb];B[ba])
+(;B[da];W[ca]))
+(;B[dc];W[db]
+(;B[cb];W[da])
+(;B[ba];W[da])
+(;B[da];W[cb];B[ba];W[ca]))
+(;B[cb];W[db]
+(;B[dc])
+(;B[da];W[ca]
+(;B[dc];W[cb])
+(;B[ba];W[cb]))
+(;B[ca];W[da]))
+(;B[da];W[db]
+(;B[ca];W[ba]
+(;B[cb];W[ea])
+(;B[dc];W[cb]))
+(;B[ba];W[cb];B[ca];W[ea]
+(;B[aa];W[ac])
+(;B[ac];W[aa];B[ba];W[ca]))
+(;B[dc])
+(;B[cb];W[ca]))
+(;B[ca];W[cb]
+(;B[da];W[ba])
+(;B[ba];W[da];B[dc];W[db]))
+(;B[ba];W[cb]
+(;B[da];W[ca])
+(;B[dc];W[db];B[ca];W[da])
+(;B[ca])))

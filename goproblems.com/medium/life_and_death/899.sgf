@@ -1,0 +1,56 @@
+(;GE[life and death]DI[3d]DP[10]SO[Hans]CO[8]
+AW[ab][bb][cc][dc][dd][ee][ef][bg][dg][dh][bi][ci][di]
+AB[ac][bc][ad][cd][be][ce][de][df][cg][ch]TR[bg]
+C[White has played the marked stone. What can black do?
+]
+(;B[bf];W[af]
+(;B[bh];W[ah]C[Ko.
+])
+
+(;B[ae];W[bh]C[Only one eye.
+])
+)
+
+(;B[ae]C[Dying in gote.
+])
+
+(;B[af];W[bf];B[bh];W[ag]
+(;B[ah];W[ae]C[Ko.
+])
+
+(;B[cf];W[ae]C[Ko.
+])
+)
+
+(;B[bh]
+(;W[af]
+(;B[bf];W[ah]C[Ko.
+])
+
+(;B[ae];W[ah])
+
+(;B[cf];W[ae])
+
+(;B[ah];W[ae]
+(;B[bd];W[cf])
+
+(;B[cf];W[bd])
+
+(;B[bf];W[bd];B[ag]C[RIGHT 
+])
+
+(;B[ag];W[bd];B[bf]C[RIGHT 
+])
+)
+)
+
+(;W[ah];B[af]
+(;W[ag];B[bf]C[RIGHT
+])
+
+(;W[bf];B[cf]C[RIGHT
+])
+)
+)
+
+)

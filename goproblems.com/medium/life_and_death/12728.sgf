@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3k]DP[25]SO[stro]CO[0]AB[dd]AB[dj]AB[dp]AB[jp]AB[jj]AB[jd]AB[pd]AB[pj]AB[pp]AB[rr]AB[rq]AB[qp]AB[op]AB[oq]AB[pr]AB[os]AB[pn]AB[om]AB[nm]AB[nn]AB[pl]AB[ql]AB[qk]AB[qi]AB[qj]AB[pi]AB[rj]AB[rh]AB[rg]AB[qg]AB[sh]AB[pf]AB[qe]AB[re]AB[qd]AB[pc]AB[ks]AB[jr]AB[ir]AB[hr]AB[jq]AB[kq]AB[dr]AB[cq]AB[bq]AB[br]AB[eq]AB[ce]AB[be]AB[cc]AB[dc]AB[fc]AB[ec]AB[eb]AB[da]AW[or]AW[mr]AW[lr]AW[kr]AW[lq]AW[er]AW[fq]AW[fp]AW[rf]AW[sg]AW[se]AW[sf]AW[rd]AW[qc]AW[pb]AW[rc]AW[nq]AW[oo]AW[on]AW[mo]AW[mn]AB[ak]AB[bk]AB[cj]AB[cl]AB[dm]AB[dk]AB[bm]AB[bn]AB[cn]AB[na]AB[ja]AB[la]AB[lc]AB[lb]AB[ld]AB[le]AB[lf]AB[lg]AB[mg]AB[kf]AB[nf]AB[ne]AB[el]AB[ek]AB[fk]AB[ei]AB[di]AB[dh]AB[ch]AB[gg]AB[hg]AB[gf]AB[ge]AB[fe]AB[hh]AB[jh]AB[ih]AB[jg]AB[ij]AB[hj]AB[hk]AB[ip]AB[gm]AB[gl]AB[hm]AB[il]AB[ho]AB[hp]AB[gq]AB[gp]AB[io]AB[jo]AB[in]AB[jn]AB[ko]AB[lo]AB[ln]AB[kk]AB[lk]AB[mk]AB[ll]AW[fo]AW[go]AW[fm]AW[fl]AW[fn]AB[gn]AW[em]AW[dn]AW[do]AW[cp]AW[co]AW[bp]AW[aj]AW[bj]AW[ai]AW[bh]AW[ci]AW[bc]AW[ac]AW[ab]AW[aa]AW[ba]AW[cb]AW[db]AW[cg]AW[dg]AW[eg]AW[eh]AW[fh]AW[fi]AW[fj]AW[ej]AW[gh]AW[gj]AW[gk]AW[qh]AW[ph]AW[ri]AW[ma]AW[mb]AW[nb]AW[ob]AW[oc]AW[od]AW[oe]AB[md]AB[mc]AW[bf]AW[de]AW[ee]AW[ef]AW[fd]AW[ed]AW[gd]AW[hd]AW[he]AW[hf]AW[ig]AW[if]AW[jf]AB[ib]AB[ic]AB[id]AB[ie]AB[kd]AW[gc]AW[ia]AW[ha]AW[hb]AW[jb]AW[kb]AW[kc]AB[jc]AW[je]AW[ke]AW[kg]AW[kh]AW[lh]AW[mi]AW[mj]AW[kj]AW[im]AW[jm]AW[kn]AW[km]AW[lm]AW[mm]AB[nj]AB[ni]AB[nh]AB[oh]AW[nd]AW[pq]AW[qq]AW[ds]AW[cs]AW[gr]AW[hs]AB[is]AW[np]AW[lp]AW[kp]AW[ml]AW[nl]AW[nk]AW[ok]AW[oj]AW[oi]AW[pk]AW[hq]AW[me]AW[jk]AW[ji]AW[ff]AB[fg]LB[nn:a]LB[jk:b]C[Black plays A threatening white's rather large group - white replies with B and suddenly the centre looks very precarious.... how does black play?]AP[goproblems]
+(;B[jl];W[kl]
+(;B[ik];W[lj]
+(;B[jk];W[hi]C[Black has only one true eye, so loses the centre.])
+(;B[hi];W[jk])
+(;B[ii];W[jk])
+(;B[ki];W[jk])
+(;B[li];W[jk])
+(;B[mh];W[jk]))
+(;B[ii];W[lj])
+(;B[hi];W[lj])
+(;B[hl];W[lj]))
+(;B[kl];W[jl]TR[fe]TR[ge]TR[gf]TR[gg]TR[fg]TR[hg]TR[hh]TR[ih]TR[jh]TR[jg]TR[hk]TR[hj]TR[ij]TR[jj]TR[il]TR[gn]TR[gm]TR[gl]TR[hm]TR[gq]TR[gp]TR[hp]TR[ho]TR[ip]TR[io]TR[in]TR[jn]TR[jo]TR[jp]TR[jq]TR[jr]TR[ir]TR[hr]TR[is]TR[ks]TR[kq]TR[ko]TR[lo]TR[ln]TR[kl]TR[ll]TR[mk]TR[lk]TR[kk])
+(;B[lj];W[li]C[];B[ki];W[qr]
+(;B[mh];W[ps]C[Optimal play.  White manages to save her group but black saves many many stones in the centreRIGHT])
+(;B[qs];W[kj]C[Black does not have a ko threat large enough to make white give this ko up.  Once white takes with L8 her stones are safe, and black loses the whole centre.])
+(;B[ii]C[RIGHT]))
+(;B[ik];W[jl]TR[fe]TR[ge]TR[gf]TR[gg]TR[fg]TR[hg]TR[hh]TR[ih]TR[jh]TR[jg]TR[hj]TR[hk]TR[il]TR[ik]TR[ij]TR[jj]TR[kk]TR[lk]TR[mk]TR[ll]TR[gl]TR[gm]TR[gn]TR[hm]TR[gq]TR[gp]TR[hp]TR[ho]TR[io]TR[in]TR[ip]TR[hr]TR[ir]TR[is]TR[ks]TR[jr]TR[jq]TR[kq]TR[jp]TR[jo]TR[jn]TR[ko]TR[lo]TR[ln])
+(;B[ii];W[kl]TR[fe]TR[ge]TR[gf]TR[gg]TR[fg]TR[hg]TR[hh]TR[ih]TR[jh]TR[jg]TR[ii]TR[ij]TR[jj]TR[hj]TR[hk]TR[il]TR[gl]TR[gm]TR[gn]TR[hm]TR[gq]TR[gp]TR[hp]TR[ho]TR[io]TR[ip]TR[in]TR[jn]TR[jo]TR[jp]TR[ko]TR[lo]TR[ln]TR[ks]TR[kq]TR[jq]TR[jr]TR[ir]TR[hr]TR[is])
+(;B[hi];W[kl]TR[fe]TR[ge]TR[gf]TR[gg]TR[fg]TR[hg]TR[hh]TR[hi]TR[hk]TR[hj]TR[ij]TR[jj]TR[ih]TR[jh]TR[jg]TR[kk]TR[ll]TR[lk]TR[mk]TR[il]TR[gl]TR[gm]TR[gn]TR[hm]TR[gq]TR[gp]TR[hp]TR[ho]TR[ip]TR[io]TR[in]TR[jn]TR[jo]TR[jp]TR[ko]TR[lo]TR[ln]TR[jq]TR[kq]TR[jr]TR[ir]TR[hr]TR[is]TR[ks]))

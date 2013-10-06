@@ -1,0 +1,62 @@
+(;GE[life and death]DI[5k]DP[32]SO[chrise]CO[7]AB[la]AB[lb]AB[lc]AB[md]AW[mc]AW[mb]AW[ma]AB[nd]AB[od]AW[ob]AW[pb]AW[pa]AW[rb]AW[qc]AB[pd]AB[pc]AW[qd]AB[qe]AB[re]AB[rc]AB[nb]AW[nc]AB[na]TR[na]C[Black has played the marked stone and is confident in his board position to obtain what he is looking for. What can white do?]AP[goproblems]
+(;W[oa];B[sb]
+(;W[ra];B[qb]
+(;W[qa];B[rd]C[White is dead!])
+(;W[rd];B[sd]C[White is dead!]))
+(;W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[qb];B[ra];W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.]))
+(;W[sb];B[oc]
+(;W[rd]C[White loses four stones but lives in the cornerRIGHT])
+(;W[qa];B[rd]C[White is dead!])
+(;W[ra];B[qb]C[White is dead!])
+(;W[qb]C[Almost. Although white will live in the corner s16 is a better move.]))
+(;W[oc];B[sb]
+(;W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[qb];B[ra];W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[ra];B[qb]))
+(;W[qb];B[sb]
+(;W[rd];B[sd]C[]
+(;W[ra];B[oc]
+(;W[sc]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[sa]C[White loses four stones but lives in the cornerRIGHT]))
+(;W[oc];B[ra]C[Ko. Black was looking for this after o19. Now the whole group may die.]))
+(;W[ra];B[oc];W[rd];B[sd]C[]
+(;W[sc]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[sa]C[White loses four stones but lives in the cornerRIGHT]))
+(;W[oc];B[ra];W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.]))
+(;W[qa];B[rd]
+(;W[qb];B[sb]C[White is dead!])
+(;W[sb];B[oc]C[White is dead!])
+(;W[oc];B[sb]C[White is dead!]))
+(;W[ra];B[qb]
+(;W[qa];B[sb]
+(;W[oc];B[rd]C[White is dead!])
+(;W[rd];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.]))
+(;W[sb];B[oc]
+(;W[rd]C[];B[sd]C[White is dead!])
+(;W[qa]C[];B[rd]C[White is dead!])))
+(;W[rd];B[sb]C[]
+(;W[oc];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[oa];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[sc]C[White lives in the corner. RIGHT])
+(;W[qb];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[ra];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[sa];B[ra]
+(;W[qb];B[sd]C[Ko. Black was looking for this after o19. Now the whole group may die.])
+(;W[sc]C[White lives in the corner. RIGHT]))
+(;W[qa];B[sd])
+(;W[sd]C[White lives in the corner. RIGHT])
+(;W[se]C[White lives in the corner. RIGHT]))
+(;W[sc];B[rd]
+(;W[oa];B[qb]
+(;W[qa];B[qc]
+(;W[ra];B[sb])
+(;W[sb];B[ra]))
+(;W[ra];B[sb]))
+(;W[qb];B[oc]
+(;W[sb];B[ra])
+(;W[ra];B[sb]))
+(;W[sb];B[qb];W[qa];B[ra]
+(;W[oc];B[qc])
+(;W[sa];B[qc])
+(;W[qc];B[oc]))))

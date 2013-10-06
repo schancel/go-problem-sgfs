@@ -1,0 +1,34 @@
+(;GE[life and death]DI[2d]DP[13]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[0]
+DT[2003-05-15]
+KM[5.5]
+RU[Japanese]
+AB[qd][qe][pe][od][nd][nc][mb][lc][rf][qg]
+AW[qc][pc][oc][ob][nb][pd]
+C[Kill without ko]
+
+(;B[rc];W[rb]
+(;B[sb];W[rd];B[sd]
+C[ko]
+)
+(;B[rd];W[sb]
+C[White lives.]
+))
+(;B[rb];W[rc]
+C[White has enough space to live.]
+)
+(;B[sc];W[sb];B[rb];W[rc];B[sd];W[ra]
+C[ko]
+)
+(;B[sd];W[rc];B[sc];W[sb];B[rb];W[ra]
+C[ko]
+)
+(;B[sb];W[rd];B[sd];W[se];B[sc]
+C[RIGHT
+White cannot defend both A and B.]
+
+LB[re:B][rc:A]
+))

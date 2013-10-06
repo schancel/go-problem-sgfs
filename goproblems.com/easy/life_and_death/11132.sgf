@@ -1,0 +1,11 @@
+(;GE[life and death]DI[18k]DP[69]SO[GWG]CO[0]AW[lf]AW[nf]AW[of]AW[og]AB[ng]AB[mg]AB[nh]AB[ni]AB[oi]AB[pi]AW[oh]AW[ph]AW[qi]AW[qj]AB[qh]AB[rh]AB[ri]AB[rg]AB[rj]AW[pj]AW[oj]AW[nj]AW[mi]AW[li]AB[pg]AB[pf]AB[pe]AB[mj]TR[ni]TR[nh]TR[ng]TR[mg]TR[oi]TR[pi]LB[ml:A]LB[pl:D]C[Black to play. Can he save the marked group (N8) or is it dead (Q8)?FORCE]AP[goproblems]
+(;B[pl]C[Wrong! That group can be saved.CHOICE])
+(;B[ml];W[nl]C[Now save them.]
+(;B[mf];W[me];B[ne];W[oe]
+(;B[od]C[RIGHT])
+(;B[nd];W[od];B[oc];W[pd];B[qd];W[pc];B[pb];W[qc];B[rc];W[qb];B[rb]C[RIGHT]))
+(;B[lg];W[kg]
+(;B[kh];W[lh]
+(;B[mf];W[me];B[ne];W[mh]C[CHOICE]))
+(;B[lh];W[kh];B[mf];W[me];B[ne];W[mh]C[Wrong!CHOICE])
+(;B[mh];W[lh];B[mf];W[me]C[Wrong!]))))

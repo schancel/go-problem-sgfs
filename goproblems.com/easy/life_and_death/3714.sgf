@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[37]SO[Warp]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cg][bh][ci][fi][cj][ej][ek][fk][al][fl][gl][cm][dm][dn][en]
+[fn][gn][bo][co][do][ap][bq]AB[ai][bi][bj][bk][dk][cl][dl][el][bm][em][an][bn][cn][ao]TR[al]C[White has just played the marked stone. Black to play and live.]
+(;B[ak]CR[ak]
+;W[bl]CR[bl]
+(;B[am]CR[am]
+;W[bl]CR[bl]
+(;B[ck]CR[ck]
+;W[al]CR[al]
+;B[bm]CR[bm]
+;W[bn]CR[bn]
+(;B[am]CR[am]C[RIGHT])
+(;B[an]CR[an]
+;W[ao]CR[ao]
+;B[am]CR[am]C[RIGHT]))
+(;B[al]CR[al]
+;W[ck]CR[ck]))
+(;B[ck]CR[ck]
+;W[am]CR[am]))
+(;B[bl]CR[bl]
+;W[ak]CR[ak])
+(;B[ck]CR[ck]
+;W[ak]CR[ak]))

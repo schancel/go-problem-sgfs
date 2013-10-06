@@ -1,0 +1,21 @@
+(;GE[life and death]DI[6k]DP[37]SO[remembered]CO[0]AB[ji]AB[jj]AB[jk]AB[ki]AB[lj]AB[mk]AB[ll]AB[np]AB[jm]AB[kn]AB[ln]AB[lm]AB[ko]AB[lp]AB[mp]AB[kl]AB[lq]AB[lr]AB[kq]AB[ms]AB[nr]AB[mq]AW[mi]AW[nq]AW[or]AW[op]AW[ns]AW[pr]AW[pq]AW[pp]AW[oo]AW[no]AW[mn]AW[mm]AW[nl]AW[nk]AW[nj]AW[ii]AW[il]AW[ij]AW[ik]AW[jl]AW[kk]AW[im]AW[in]AW[jn]AW[io]AW[ip]AW[iq]AW[jq]AW[kp]AW[jp]AW[ir]AW[kr]AW[js]AW[kh]AW[kg]AW[mh]AW[mg]AW[jh]AW[nh]AW[ni]C[B to play/ B alive now click T19 to tenuki or B's Dead click T18 or must win the ko to live click T17 or play to alive unconditionally[double koFORCE]AB[mo]LB[sb:D]LB[sc:K]LB[sa:A]LB[sd:P]TAFORCESZ[19]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;B[sa];W[mr]C[If B tenuki this turn M6 will be a false eye if B lose ko fight so it's not alive yet.])
+(;B[sb];W[rb]C[B isn't dead yet because if B win ko fight B can live.])
+(;B[sc];W[rc]C[assume both didn't have ko threat.]
+(;B[oq];W[aa]C[assume both didn't have ko threat.. so just connect.]
+(;B[nq];W[ks]
+(;B[ls]C[because if B didn't have ko threat less than W B will live.In this situation assume W have 0 ko threat and B have 0 ko threatRIGHT])
+(;B[os];W[ls];B[ns]C[RIGHT]))
+(;B[ls];W[nq]
+(;B[os];W[ps];B[ns]C[RIGHT])
+(;B[ks];W[mr];B[jr];W[is];B[nr];W[os];B[oq];W[kr];B[nq]C[RIGHT]))
+(;B[os];W[ps];B[nq];W[ns];B[ls]C[RIGHT]))
+(;B[os]C[];W[ls];B[ks]C[B can make double ko too. L1 and P3 are miai. B is comfort now.RIGHT]LB[oq:A]LB[ks:a])
+(;B[ls];W[os]
+(;B[oq];W[aa]C[assume both didn't have ko threat. so just connect.];B[nq]C[because if B didn't have ko threat less than W B will live.In this situation assume W have 0 ko threat and B have 0 ko threatRIGHT])
+(;B[ks];W[oq])))
+(;B[sd];W[rd]
+(;B[oq]
+(;W[ks];B[os];W[ps]LB[os:m]LB[oq:m]C[p1 and p3 are maia. http://senseis.xmp.net/?DoubleKoRIGHT])
+(;W[os];B[ks]C[L1 and P3 are maia http://senseis.xmp.net/?DoubleKoRIGHT]LB[oq:m]LB[ks:m]))
+(;B[ks];W[os];B[oq]C[L1 and P3 are maia http://senseis.xmp.net/?DoubleKoRIGHT])))

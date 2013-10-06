@@ -1,0 +1,59 @@
+(;GE[life and death]DI[5d]DP[4]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[mb][nb][ob][jc][lc][pc][qc][je][kf][kg][mg][kh][lh][mh]AB[hb][kb][lb][gc][mc][nc][oc][gd][pd][ge][ie][ke][pe][if][jf][lf][mf][pf][lg][ng][pg]LB[jb:C][kc:B][ld:A][ke:D]PL[W]
+(;W[md]CR[md]
+(;B[kc]CR[kc]
+;W[le]LB[kd:B][nf:A]CR[le]C[White can play A or B next RIGHT CHOICE])
+(;B[ne]CR[ne]
+(;W[kd]CR[kd]
+;B[jd]CR[jd]
+;W[jb]CR[jb]C[White captures the two black stones RIGHT CHOICE])
+(;W[jb]CR[jb]
+;B[kc]CR[kc]
+;W[kd]CR[kd]
+;B[jd]CR[jd]
+;W[ld]CR[ld]C[White captures the black stones RIGHT CHOICE])))
+(;W[jb]CR[jb]
+;B[kc]CR[kc]
+;W[kd]CR[kd]
+;B[jd]CR[jd]
+(;W[ka]CR[ka]
+;B[ld]CR[ld]
+;W[la]CR[la]C[This is not good enough for white])
+(;W[ld]CR[ld]
+;B[md]LB[md:A][ne:B]C[In the solution, the WA - BB exchange is in place,so white wins the semeai, but in this variation black simply captures white]))
+(;W[kc]CR[kc]
+;B[jb]CR[jb]C[After this exchange, white can't do anything]
+(;W[md]CR[md]
+;B[ne]CR[ne])
+(;W[le]CR[le]
+;B[jd]CR[jd]
+;W[nf]CR[nf]
+;B[me]CR[me]
+;W[md]CR[md]
+;B[ld]CR[ld]))
+(;W[ld]CR[ld]
+;B[kc]CR[kc]
+(;W[kd]CR[kd]
+;B[jd]CR[jd]
+;W[le]CR[le]
+;B[je]CR[je])
+(;W[le]CR[le]
+;B[kd]CR[kd]
+;W[nf]CR[nf]
+;B[me]CR[me])
+(;W[nf]CR[nf]
+;B[kd]CR[kd]
+;W[md]CR[md]
+;B[ne]CR[ne]))
+(;W[le]CR[le]
+;B[jd]CR[jd]
+;W[md]CR[md]
+;B[ne]CR[ne]
+;W[kd]CR[kd]
+;B[je]CR[je]
+;W[jb]CR[jb]
+;B[kc]CR[kc]
+;W[ka]CR[ka]
+;B[ld]CR[ld]
+;W[la]CR[la]C[This is not good enough for white]))

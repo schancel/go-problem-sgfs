@@ -1,0 +1,21 @@
+(;GE[life and death]DI[1k]DP[19]SO[marwin]CO[6]AW[pq]AW[qq]AW[rq]AW[nr]AW[qr]AW[sr]AW[qs]AB[lp]AB[np]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[lq]AB[sq]AB[lr]AB[rr]AB[rs]C[Black to play and kill]
+(;B[or];W[oq]
+(;B[os]
+(;W[ns]C[CHOICE];B[nq]C[RIGHT])
+(;W[nq]C[CHOICE];B[ns]C[RIGHT]))
+(;B[ns];W[ms]
+(;B[ps];W[os])
+(;B[mr];W[os])
+(;B[nq];W[os];B[mr];W[pr]))
+(;B[nq];W[os];B[mr];W[pr]))
+(;B[nq];W[or];B[ns];W[os])
+(;B[oq];W[or];B[ns];W[os])
+(;B[ps];W[or];B[oq];W[pr];B[ns];W[os])
+(;B[ss];W[sr]
+(;B[rs];W[or])
+(;B[or];W[oq];B[ns];W[ms]
+(;B[mr];W[os])
+(;B[nq];W[os])))
+(;B[pr];W[or];B[ps];W[os])
+(;B[os];W[or])
+(;B[ns];W[or];B[os];W[ms];B[mr];W[ps]))

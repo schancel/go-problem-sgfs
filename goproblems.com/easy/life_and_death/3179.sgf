@@ -1,0 +1,9 @@
+(;GE[life and death]DI[15k]DP[61]SO[polo]CO[6]AB[rs][rr][qq][qp][qo][pn][pm][om][nm][mm][ln][lo][lp][lq][lr][mr][ns][op]AW[po][pp][pq][or][nr][nq][mq][ps][qs][qr][on]C[White to live.]SZ[19]
+
+(;W[np]C[
+];B[oo]
+(;W[nn];B[no])
+(;W[no];B[nn]))
+(;W[no]
+(;B[np]C[CHOICE];W[mp]C[RIGHT])
+(;B[oo]C[CHOICE];W[nn];B[np];W[mp]C[RIGHT])))

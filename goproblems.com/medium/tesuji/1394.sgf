@@ -1,0 +1,121 @@
+(
+;GE[tesuji]DI[3d]DP[10]SO[gecko]CO[9]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.32]
+AB[kd][ed][de][df][ce][bf][cg]
+AW[cd][be][ad][bc][eb]
+TR[eb]
+C[how to handle the marked stone?]
+GN[temp]
+(
+;
+B[cb]
+(
+;
+W[dc]
+;
+B[fb]
+(
+;
+W[fc]
+;
+B[ec]
+;
+W[gb]
+;
+B[db]
+;
+W[fa]
+;
+B[cc]
+C[RIGHT white makes a ponnuki, but black cleanly captures the corner]
+)
+(
+;
+W[ec]
+;
+B[fc]
+C[RIGHT being able to play the marked stone without white capturing it is satisfactory for black]
+TR[fb]
+)
+)
+(
+;
+W[db]
+;
+B[cc]
+;
+W[dc]
+;
+B[dd]
+;
+W[bd]
+;
+B[bb]
+;
+W[ab]
+;
+B[ba]
+;
+W[da]
+;
+B[fb]
+C[RIGHT very good for black. white captures, but black squeezes in sente]
+)
+)
+(
+;
+B[fc]
+;
+W[fb]
+C[too easygoing]
+)
+(
+;
+B[fb]
+;
+W[fc]
+;
+B[ec]
+;
+W[gb]
+;
+B[db]
+;
+W[fa]
+;
+B[dc]
+;
+W[id]
+LB[cb:a]
+C[white gets a good position on the outside and can revive the corner with a.]
+)
+(
+;
+B[ec]
+;
+W[fb]
+C[the nobi doesn't work]
+)
+(
+;
+B[gc]
+C[too easygoing]
+)
+(
+;
+B[dc]
+;
+W[db]
+C[this stabilizes white]
+)
+(
+;
+B[db]
+;
+W[ec]
+C[the black stone is swallowed]
+)
+)

@@ -1,0 +1,37 @@
+(;GE[life and death]DI[6d]DP[0]SO[MeleeNewb]CO[0]AB[er]AB[eq]AB[dq]AW[dp]AW[cp]AW[bo]AW[co]AB[bn]AW[fr]AW[fp]AB[cn]AW[eo]AW[dn]AB[cl]AW[ep]AW[gr]TR[er]TR[eq]TR[dq]AP[goproblems]
+(;B[bq]
+(;W[cq];B[cr];W[bs]
+(;B[br];W[es]
+(;B[aq];W[cs]
+(;B[dr];W[ap]
+(;B[as];W[ar];B[ds]C[CHOICERIGHT])
+(;B[ds];W[as]))
+(;B[ao];W[dr])
+(;B[as];W[ar];B[dr];W[ds]
+(;B[ao];W[ap]
+(;B[bp];W[fq]C[There is no need to let white have the chance at the a1 ko.])
+(;B[as]C[NOTTHIS]))
+(;B[as]C[NOTTHIS])))
+(;B[ds];W[fs];B[aq];W[ap];B[as];W[ar];B[cs];W[fq]C[Almost, but no need to lose the 3 stones.])
+(;B[cs];W[ap])
+(;B[as];W[aq]))
+(;B[cs];W[es])
+(;B[ds];W[br])
+(;B[ap];W[br]
+(;B[ds];W[bp])
+(;B[cs];W[es]
+(;B[ar];W[ao])
+(;B[ao];W[dr])
+(;B[dr];W[ao])))
+(;B[es];W[br]))
+(;W[cr]C[White's better resistance. Not the main line, therefore only one possible path has been added.];B[cq];W[br];B[bs];W[cs];B[ar];W[as];B[aq];W[ao];B[bs]C[Direct ko for black, with the option to turn it into a 1000 year ko at e1.RIGHT])
+(;W[ap];B[cr]C[Black lives.RIGHT]))
+(;B[cq];W[bq];B[br];W[ar])
+(;B[cr];W[bq];B[br];W[ar]
+(;B[ds];W[bs])
+(;B[bs];W[ds]))
+(;B[br];W[bq]
+(;B[ar];W[cr];B[cq];W[bs])
+(;B[cr]))
+(;B[aq];W[br]C[])
+(;B[ar];W[bq];B[br]))

@@ -1,0 +1,17 @@
+(;GE[endgame]DI[5k]DP[34]SO[adum]CO[8]AW[bj]AW[cj]AW[dj]AW[ek]AB[bk]AB[ck]AB[cl]AB[cm]AB[bn]AB[an]AB[ao]AW[bo]AW[co]AW[cn]AW[dm]AW[dl]AB[bp]AW[bm]AW[en]AW[eo]AB[cp]AB[dp]AW[do]AW[ep]AW[eq]AW[er]AB[dq]AB[dr]AB[br]AB[es]AW[fs]AB[ds]AW[fr]AP[goproblems]
+(;W[al];B[bl]
+(;W[ak];B[am]
+(;W[aj]C[RIGHT])
+(;W[dk];B[aj]))
+(;W[am];B[ak])
+(;W[dk];B[am])
+(;W[aj];B[am];W[ak]C[RIGHT]))
+(;W[am];B[ap];W[ak];B[al]
+(;W[bl];B[al])
+(;W[aj];B[bl]))
+(;W[ak];B[al])
+(;W[ap];B[aq]C[this exchange doesn't help you])
+(;W[bl];B[al])
+(;W[dk];B[al])
+(;W[aj];B[al])
+(;W[aq];B[ap]))

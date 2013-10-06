@@ -1,0 +1,77 @@
+(;GE[life and death]DI[5k]DP[33]SO[stevertigo]CO[6]SZ[19]AW[fo]AW[go]AW[ho]AW[bp]AW[cp]AW[dp]AW[ep]AW[ip]AW[jp]AW[kp]AW[lp]AW[mp]AW[np]AW[rp]AW[lq]AW[oq]AW[pq]AW[qq]AW[kr]AW[pr]AW[rr]AW[js]AB[im]AB[om]AB[jn]AB[ln]AB[nn]AB[io]AB[oo]AB[qo]AB[ro]AB[fp]AB[gp]AB[hp]AB[op]AB[bq]AB[cq]AB[dq]AB[eq]AB[iq]AB[jq]AB[kq]AB[mq]AB[nq]AB[lr]AB[nr]AB[or]AB[ls]AB[ms]LB[kq:2]LB[lq:5]LB[mq:4]LB[kr:1]LB[mr:3]LB[js:7]LB[ls:8]LB[ms:6]C[After the sequence, black makes the mistake of move 8. How to punish?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]TM[]PW[White]PB[Black]PL[W]
+(;W[hq];B[hr]C[Of course. Black's only choice.]
+(;W[ir];B[gq];W[os]
+(;B[ks];W[ps];B[jr];W[ns];B[is];W[mr]C[Good, But black smartly took sente with L1RIGHT])
+(;B[hq]C[this should actually be at L1];W[ps];B[jr];W[ns]C[RIGHT]))
+(;W[gq];B[fq]
+(;W[ir];B[gr]
+(;W[os];B[hq];W[ps];B[jr];W[ns];B[ks];W[mr];B[is]C[, and in sente, but the extra stone at g3 was unneccessary - no loss though.RIGHT])
+(;W[hq];B[gq];W[os];B[hq];W[ps];B[jr];W[ns]C[RIGHT])
+(;W[jr];B[hq];W[os];B[hs];W[ps];B[is];W[ns];B[ks];W[mr]C[Works, but not the best way to do things.RIGHT]))
+(;W[gr];B[ir]
+(;W[hs];B[fr]
+(;W[os];B[gs]
+(;W[ps];B[jr];W[ns]C[RIGHT])
+(;W[ks];B[is];W[ps];B[jr]))
+(;W[gs];B[ks]
+(;W[os];B[jr];W[ps];B[is])
+(;W[is];B[jr];W[kr]C[RIGHT])))
+(;W[os];B[jr];W[ps];B[ks];W[ns];B[is];W[mr]C[RIGHT])
+(;W[is];B[gs];W[os];B[ns]
+(;W[ps];B[hs])
+(;W[ks];B[ps];W[qs];B[hs]))))
+(;W[os];B[ns]
+(;W[ps];B[is]
+(;W[ir];B[gq];W[hs];B[gs]
+(;W[ks]C[RIGHT])
+(;W[jr];B[hq]C[White ran out of liberties; ko at most]))
+(;W[gq];B[fq]
+(;W[ir];B[gr];W[hs];B[hq];W[ks]C[RIGHT])
+(;W[gr];B[ir]))
+(;W[fq];B[gq]))
+(;W[ir];B[gq]
+(;W[ps]C[RIGHT])
+(;W[ks];B[ps];W[qs];B[hs];W[os]C[Hard ko for black, but white could have succeeded without ko.]))
+(;W[gq]C[NOTTHIS]))
+(;W[gr];B[gq];W[os];B[ns]
+(;W[ps];B[jr])
+(;W[ks];B[ps];W[qs];B[is];W[os]C[Ko is not necessary.])))
+(;W[ir]
+(;B[hr]
+(;W[os];B[ks];W[ps];B[jr];W[ns];B[is];W[mr]LB[hr:A]C[, Right, black couldnt connect...RIGHT])
+(;W[jr];B[hq];W[os];B[ns])
+(;W[hs];B[ks]))
+(;B[ks]C[another big mistake by black];W[hq]C[snapback.RIGHT])
+(;B[hq]C[this wont work]))
+(;W[hr];B[hq]C[this wont work])
+(;W[os];B[ns]
+(;W[hq];B[hr]
+(;W[ir];B[gq]
+(;W[ps]C[RIGHT])
+(;W[ks];B[ps];W[qs];B[hs];W[os]C[Black will have a hard time winning this ko, but white could have done without ko.]))
+(;W[ks];B[ps]
+(;W[qs];B[is];W[os]C[Ko is unnecessary.])
+(;W[ir];B[gq]
+(;W[qs];B[hs];W[os]C[Black will have a hard time winning this ko, but white could have succeeded without ko.])
+(;W[hs];B[hq])))
+(;W[ps];B[is]))
+(;W[ps];B[jr]
+(;W[hq];B[ks]
+(;W[fq]C[RIGHT])
+(;W[hr];B[gr]
+(;W[gq];B[fq]
+(;W[is];B[fr])
+(;W[fr];B[is]C[That's two eyes for black.]))
+(;W[is];B[gq]))
+(;W[gq];B[fq];W[ir];B[is]C[Two eyes for black]))
+(;W[ir];B[hq]))
+(;W[ks];B[ps]
+(;W[hq];B[hr]
+(;W[ir];B[gq];W[qs];B[hs];W[os]C[Black will have a hard time winning this ko, but white could have succeeded without ko.])
+(;W[qs];B[is]C[Ko is unnecessary.])
+(;W[fq];B[gq]
+(;W[qs];B[is])
+(;W[ir];B[hs];W[qs];B[is])))
+(;W[qs];B[is])))
+(;W[ps];B[os])
+(;W[ks];B[os]))

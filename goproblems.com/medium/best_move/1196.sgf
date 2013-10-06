@@ -1,0 +1,38 @@
+(;GE[best move]DI[2d]DP[12]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[jc][cd][ed][bg]AB[dg][cj][do]LB[bg:1]C[how should black answer white 1?]
+(;B[dc]LB[cc:B][ec:C][dd:A][cf:D]CR[dc]C[RIGHT
+testing move. if white answers at A, black can later live in the corner. if white answers at B or C, black cuts starting with D.])
+(;B[bf]CR[bf]
+;W[cf]CR[cf]
+;B[cg]CR[cg]
+;W[be]CR[be]
+;B[bh]CR[bh]
+;W[af]TR[cj]CR[af]C[white's corner is huge and the marked stone is bad])
+(;B[bh]CR[bh]
+;W[bf]CR[bf]C[black needs another move here, and will have bad shape while giving white a large corner])
+(;B[ch]CR[ch]C[slow and gote])
+(;B[cf]CR[cf]
+;W[bf]CR[bf]
+(;B[dc]CR[dc]
+;W[dd]CR[dd]C[hard to live in the corner after the first exchange])
+(;B[ce]CR[ce]
+;W[be]CR[be]))
+(;B[de]CR[de]
+;W[dd]CR[dd]
+(;B[bf]CR[bf]
+;W[cf]CR[cf]
+(;B[be]CR[be]
+;W[ce]CR[ce]
+;B[cg]CR[cg]
+;W[bh]CR[bh])
+(;B[cg]CR[cg]
+;W[be]CR[be]
+;B[bh]CR[bh]
+;W[af]CR[af]C[good for white]))
+(;B[cg]CR[cg]
+;W[bf]CR[bf]))
+(;B[ce]CR[ce]
+;W[be]CR[be]C[helps white])
+(;B[cg]CR[cg]
+;W[bf]CR[bf]C[helps white]))

@@ -1,0 +1,92 @@
+(;GE[life and death]DI[7k]DP[40]SO[Tabony]CO[8]SZ[13]AW[ei]AW[fi]AW[dj]AW[ej]AW[bk]AW[ck]AW[ek]AW[gk]AW[hk]AW[bl]AW[dl]AW[il]AB[af]AB[cf]AB[df]AB[ef]AB[ff]AB[bg]AB[cg]AB[gg]AB[fh]AB[bi]AB[ci]AB[gi]AB[cj]AB[fj]AB[gj]AB[hj]AB[fk]AB[el]AB[gl]AB[fm]TR[ci]C[Black to play and kill White.  White could live if not for the marked stone.]PW[White]PB[Black]
+(;B[cm];W[dm]
+(;B[ak];W[aj]
+(;B[bj]
+(;W[al]C[CHOICE]
+(;B[bm]C[White only has one real eye.  Good job.RIGHT])
+(;B[ai];W[bm]))
+(;W[bm]C[CHOICE]
+(;B[al];W[am];B[ak]C[White only has one real eye.  Good job.RIGHT])
+(;B[am];W[al])
+(;B[ai];W[al])
+(;B[em];W[al])
+(;B[di];W[al])
+(;B[eh];W[al])))
+(;B[bm];W[bj]
+(;B[am];W[al])
+(;B[al];W[cl]))
+(;B[ai];W[bj];B[bm];W[al])
+(;B[am];W[bj])
+(;B[al];W[am]
+(;B[ak];W[bj])
+(;B[bm];W[bj];B[al];W[cl]
+(;B[am];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[ai];W[ak])
+(;B[di];W[ak])
+(;B[em];W[ak])
+(;B[eh];W[ak]))))
+(;B[bm]
+(;W[am]C[CHOICE]
+(;B[ak];W[aj]
+(;B[bj]C[White only has one real eye.  Good job.RIGHT])
+(;B[al];W[bj])
+(;B[ai];W[bj]))
+(;B[aj];W[ak];B[al];W[cl])
+(;B[al];W[ak]
+(;B[am];W[cl];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[aj];W[cl])
+(;B[bj];W[cl])
+(;B[di];W[cl])
+(;B[eh];W[cl])
+(;B[em];W[cl])))
+(;W[bj]C[CHOICE]
+(;B[aj]
+(;W[ak]C[CHOICE]
+(;B[ai];W[am];B[al];W[cl])
+(;B[am]C[Black makes a 3-point nakade.  At the end of the game, White will have no outside liberties and Black can make bent four in the corner.  See problem 6560.  Good job.RIGHT])
+(;B[al];W[am]))
+(;W[am]C[CHOICE]
+(;B[ak]C[White only has one real eye.  Good job.RIGHT])
+(;B[al];W[ak]
+(;B[am];W[cl];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[ai];W[cl])
+(;B[em];W[am]C[Imagine A is a ko threat bigger than this group.]LB[if:A];B[if];W[ig]C[White answers.];B[al];W[ai]C[Black can never win the ko in the corner because Black would need to simultaneously win the ko above it.])
+(;B[di];W[cl])
+(;B[eh];W[cl]))))
+(;B[am];W[aj];B[al];W[cl]
+(;B[eh];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[di];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[ai];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[em];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.]))
+(;B[al];W[aj]
+(;B[ai];W[cl];B[am];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[em];W[cl];B[am];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[di];W[cl];B[am];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[eh];W[cl];B[am];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[am];W[cl]
+(;B[ai];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[di];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[eh];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])
+(;B[em];W[ak];B[bm];W[am];B[al];W[cm]C[The bent four in the corner only works if White has no outside liberties.])))))
+(;B[al];W[ak];B[bm];W[am])
+(;B[aj];W[ak];B[bm];W[am];B[al];W[cl])
+(;B[am];W[bm]))
+(;B[ak];W[cm]
+(;B[al];W[aj])
+(;B[am];W[al])
+(;B[bj];W[al]))
+(;B[aj];W[cm])
+(;B[dm];W[cm]
+(;B[ak];W[aj]
+(;B[bj];W[al])
+(;B[ai];W[bj])
+(;B[al];W[am]))
+(;B[al];W[ak]))
+(;B[al];W[cm];B[ak];W[aj])
+(;B[di];W[cm])
+(;B[eh];W[cm])
+(;B[bm];W[cm])
+(;B[am];W[cm])
+(;B[bj];W[cm])
+(;B[em];W[cm])
+(;B[cl];W[cm]))

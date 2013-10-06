@@ -1,0 +1,5 @@
+(;GE[life and death]DI[12k]DP[56]SO[Seer]CO[0]AW[bh]AW[bi]AW[cj]AW[ck]AW[bk]AW[ak]AW[bl]AW[bm]AW[am]AB[ag]AB[bg]AB[ch]AB[ci]AB[cg]AB[dj]AB[dk]AB[cl]AB[cm]AB[bn]AB[an]AB[cn]C[Simple problem]AP[goproblems]
+(;B[ai];W[aj]C[useless resistance];B[ah]LB[bj:A]C[The eye at A is false, since two stones are in atari, so the group is dead.RIGHT])
+(;B[aj];W[ai])
+(;B[ah];W[ai])
+(;B[bj];W[ai]))

@@ -1,0 +1,21 @@
+(;GE[life and death]DI[10k]DP[51]SO[Shirey101]CO[3]AB[od]AW[qb]AW[rc]AW[pc]AW[qc]AW[oc]AW[nd]AW[ne]AW[md]AW[kc]AW[jd]AB[nc]AB[nb]AB[ob]AB[pb]AB[oe]AB[qe]AB[rd]AB[nf]AB[mf]AP[goproblems]
+(;B[ld];W[mc];B[lc];W[mb]
+(;B[lb]C[RIGHT])
+(;B[ma];W[lb];B[kb]
+(;W[jb])))
+(;B[lb];W[mc];B[mb];W[sb]
+(;B[ra];W[qa]LB[kb:A]C[Please play at A];B[kb];W[jb]LB[ka:A]C[And again...];B[ka];W[pa]LB[oa:A];B[oa];W[ma]LB[qd:A]C[And again...];B[qd];W[ja]LB[pd:A]C[And again (mind you, I assume that running along the 1st line at K19 etc. wo'nt work as White will run along on the 2nd line)];B[pd];W[lc]C[You can't play atari so White wins the semeai.])
+(;B[kb];W[jb];B[ra];W[qa])
+(;B[lc];W[ld]C[This wastes a liberty, no chance whatsoever to win the semeai.]))
+(;B[sc];W[sb]
+(;B[sd]
+(;W[ra]))
+(;B[lb];W[mc];B[mb]
+(;W[ra];B[jb];W[kb];B[ka]
+(;W[ib];B[jc])
+(;W[ic];B[jc];W[kd]))
+(;W[kb];B[ra];W[qa]C[Black loses the semeai.])))
+(;B[lc];W[mc]
+(;B[mb];W[ld];B[lb];W[kb])
+(;B[lb];W[mb];B[ma];W[ld]))
+(;B[ra];W[mc]))

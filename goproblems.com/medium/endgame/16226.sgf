@@ -1,0 +1,27 @@
+(;GE[endgame]DI[1k]DP[19]SO[MeleeNewb]CO[0]AB[bc]AB[cc]AB[cb]AB[ae]AB[be]AW[af]AW[bf]AW[cf]AW[de]AW[dd]AW[dc]AW[db]AW[fb]AP[goproblems]
+(;W[ab]
+(;B[ac]
+(;W[bd];B[cd]
+(;W[ce];B[ad]
+(;W[ba];B[ca];W[da]C[Black has only 1 point (the prisoner). Good job!CHOICERIGHT])
+(;W[ca];B[ba]C[Black has 6 points]))
+(;W[ba];B[ca]
+(;W[ce];B[ad])
+(;W[da];B[ad];W[ce]C[Black has only 1 point (the prisoner). Good job!RIGHT]))
+(;W[ca];B[ba];W[ce];B[ad]C[Black has 6 points]))
+(;W[ba];B[ca];W[bd];B[bb]C[Black has 4 points])
+(;W[cd];B[bd];W[ba];B[ca];W[da];B[bb]C[Black has 5 points])
+(;W[ca];B[ba];W[cd];B[bd]C[Black has 5 points]))
+(;B[cd];W[ac];B[ce];W[ad];B[ba]C[Just to show why black wont c16. 0 points and gote seki!]))
+(;W[ba])
+(;W[cd];B[bd]
+(;W[ca];B[ba]C[Black has 5 points])
+(;W[ab];B[ac]))
+(;W[ac];B[ab]
+(;W[bd];B[cd];W[ce];B[ad];W[ca];B[ba]C[Black has 6 points])
+(;W[cd];B[bd];W[ca];B[ba]C[Black has 5 points]))
+(;W[bd];B[cd]
+(;W[ab];B[bb]
+(;W[ce];B[ad];W[ca];B[ba]C[Black has 6 points])
+(;W[ca];B[ba];W[ce];B[ad]C[Black has 6 points]))
+(;W[ce];B[ad];W[ab];B[bb])))

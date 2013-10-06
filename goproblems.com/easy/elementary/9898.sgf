@@ -1,0 +1,5 @@
+(;GE[elementary]DI[10k]DP[54]SO[Bleedo]CO[4]C[Does the ladder work? Y for Yes, N for No]AB[km]AW[lm]AW[kl]AW[kk]AW[ml]AW[nl]AW[lj]AW[mj]AW[mi]AB[ni]AB[nj]AB[nk]AB[mk]AB[lk]AB[ll]AW[oj]AW[ok]AB[pe]AB[si]AB[rc]AB[jj]LB[kg:Y]LB[lg:N]AP[goproblems]
+(;W[kg];B[lg]C[Prove it];W[nh];B[oi];W[pi];B[oh];W[og];B[ph];W[qh];B[pg];W[pf];B[qg]
+(;W[rg];B[qf]C[Nope])
+(;W[qf];B[rg]))
+(;W[lg]AB[kk]AB[kl]AW[ll]AW[lk]AW[km]AW[mk]AW[nk]AW[nj]AW[ni]AB[lj]AB[mj]AB[mi]AB[lm]AB[ml]AB[nl]AB[ok]AB[oj]AW[jj]AW[pe]AW[rc]AW[si];B[nh];W[oi];B[pi];W[oh];B[og];W[ph];B[qh];W[pg];B[pf];W[qg];B[rg];W[qf]C[Yep, the ladder breaks!RIGHT]))

@@ -1,0 +1,46 @@
+(;GE[best move]DI[5d]DP[4]SO[rainysky]CO[7]AB[qp]AB[pq]AB[pr]AB[rp]AB[nr]AW[np]AW[op]AW[pp]AW[qq]AW[qr]AW[qs]AW[rq]AW[sr]AB[rr]AB[rs]TR[op]LB[po:A]C[White connects at the marked stone rather than continuing with the joseki at A. How to respond?]AP[goproblems]
+(;B[sp];W[ss]
+(;B[sq];W[or];B[oq];W[nq];B[os];W[ps];B[or];W[mr]C[Eaten! ._.])
+(;B[mr];W[qo]
+(;B[ro];W[qn];B[rn];W[rm];B[qm];W[rl]C[B loses the race =(])
+(;B[rn];W[ro];B[so];W[qn];B[rm];W[ql]
+(;B[rl];W[sn];B[sm];W[sq];B[sn];W[rk]C[uh oh, spaghetti-O's >_<])
+(;B[qm];W[pm];B[pn];W[po];B[pl];W[on]
+(;B[qk];W[sq]
+(;B[sn];W[rl]C[=\])
+(;B[rl];W[sn]C[=/]))
+(;B[rl];W[qk];B[rk];W[sn];B[sm];W[qj]LB[rj:A]C[B can keep crawling at A to kill the corner but W's thickness is far too formidable. No good!]))))
+(;B[qn];W[or]C[B's 2 stones are eaten x_x]))
+(;B[qn];W[or];B[oq];W[nq];B[os];W[mr]LB[lr:A]C[play at A please.FORCE];B[lr];W[ss]
+(;B[ps]
+(;W[ms]C[CHOICE];B[mq];W[lq];B[mp];W[kr]
+(;B[lp];W[ls];B[no];W[ns]C[woops])
+(;B[no];W[mo];B[lp];W[nn]C[FORCE];B[kq];W[ls];B[jr];W[lq]LB[ks:A]
+(;B[ks];W[js];B[lr]C[Ko, black first. Black also has local threats at Q 5 and P 6. Difficult for W.RIGHT])
+(;B[po]C[NOTTHIS])
+(;B[oo]C[NOTTHIS])
+(;B[lr]C[Ko, black first. B also has local threats at Q5/ P6. This is difficult for WNOTTHIS])
+(;B[on]C[NOTTHIS])))
+(;W[pn]C[CHOICE]
+(;B[qm];W[ms];B[mq];W[lq];B[mp];W[kr];B[no];W[on]C[what now?])
+(;B[mq];W[qm];B[rn];W[rm]LB[sp:A]C[Play at A please.];B[sp];W[qo];B[ro];W[po];B[sn];W[sm];B[rr];W[ol]C[Black is not dead, but white's influence is impressive. Failure!])
+(;B[sp];W[qm]LB[qo:A]C[Please play at A];B[qo];W[ms];B[mq];W[lq];B[mp];W[kr]
+(;B[sq];W[mo];B[lp];W[ls];B[rr];W[ko]C[White is too strong on the outside. Sorry! No good.])
+(;B[lp];W[ls];B[sq];W[ns]C[Misclick? =/]))
+(;B[po];W[oo];B[qo]
+(;W[ms]C[CHOICE];B[mq];W[lq];B[mp];W[kr];B[on];W[no]
+(;B[lp];W[ls]
+(;B[mn];W[ns];B[pm]C[This is playable if B does not have the ladder. W gets the corner but B's influence is impressive. Well done!RIGHT])
+(;B[nn]C[laddered! Notice that B can N 6 if the ladder is not good for BRIGHT]))
+(;B[nn]C[NOTTHIS]))
+(;W[qm]C[CHOICE];B[rm]
+(;W[rl]
+(;B[pm];W[on];B[ql];W[ms];B[mq];W[lq];B[mp];W[kr];B[lp];W[ls]LB[mm:A]C[at A please.];B[mm]C[White captures the side, but B effectively locks white in. This is good for B.RIGHT])
+(;B[rn];W[pm];B[sp];W[lq];B[ms];W[kq];B[mq];W[mp]C[B gets the corner but W has incredible thickness. No good =/])
+(;B[ql];W[pm]
+(;B[rk];W[rn];B[sl];W[so]C[-.-;;])
+(;B[rn];W[qk]C[nope =/])))))))
+(;B[mq];W[ps]C[huh?]))
+(;B[ps];W[ss]
+(;B[qn];W[mr];B[mq];W[nq];B[or];W[lr]C[black is captured first.])
+(;B[sp];W[qo];B[ro];W[qn];B[rn];W[rm];B[sn];W[sm];B[rr];W[qm]LB[mq:A]C[White builds good thickness, while black must still add a move to help his group around A.])))

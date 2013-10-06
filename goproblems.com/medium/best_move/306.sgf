@@ -1,0 +1,43 @@
+(;GE[best move]DI[2d]DP[12]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[bq]AW[br]AB[cq][cr][dq][eq][er][fq][ep]AW[co][dp][bp][bn][bm][dn][dm]AB[cn][cm][cl][bl][dl]AW[fn][fo][gp][gq][fr][ec][gc]AB[fd][de][cd]AW[fp]C[black's best move? analysis required.]
+(;B[fl]CR[fl]
+;W[fm]CR[fm]
+(;B[gl]CR[gl]LB[gr:A]C[RIGHT
+white blocking at A is gote (black corner stones defend in sente)])
+(;B[eo]CR[eo]
+;W[do]CR[do]C[aji keshi])
+(;B[fj]CR[fj]C[wrong shape])
+(;B[fc]CR[fc]
+;W[gl]CR[gl]C[wrong direction])
+(;B[hl]CR[hl]LB[gl:A]C[too many weaknesses, better at A]))
+(;B[eo]CR[eo]
+;W[do]CR[do]
+(;B[en]CR[en]
+;W[em]CR[em]
+;B[fm]CR[fm]
+;W[el]CR[el]C[black is hurting on the top])
+(;B[fl]CR[fl]
+;W[fm]CR[fm]
+(;B[gl]CR[gl]
+;W[gr]CR[gr]
+(;B[ap]CR[ap]LB[eo:A][do:B]C[due to A-B exchange, black must defend corner stones and white's block is sente])
+(;B[aq]CR[aq]C[c'mon...]))
+(;B[hl]CR[hl]LB[gl:A]C[weak. A better])))
+(;B[fc]CR[fc]C[wrong direction. bottom left most important.])
+(;B[gr]CR[gr]
+;W[hr]CR[hr]
+;B[fs]CR[fs]C[gote -- too small])
+(;B[el]CR[el]
+;W[fm]CR[fm]C[slow])
+(;B[cp]CR[cp]
+;W[do]CR[do]
+;B[ap]CR[ap]C[too small])
+(;B[ar]CR[ar]C[wimpy. pathetic.])
+(;B[ds]CR[ds]C[oh please])
+(;B[aq]CR[aq]C[mamma mia, this is slow])
+(;B[fm]CR[fm]
+;W[do]CR[do]LB[gr:A]C[oops -- A is sente now])
+(;B[em]CR[em]
+;W[eo]CR[eo])
+(;B[ao]CR[ao]
+;W[ap]CR[ap]C[helps not at all]))

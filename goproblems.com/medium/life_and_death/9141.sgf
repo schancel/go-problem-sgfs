@@ -1,0 +1,30 @@
+(;GE[life and death]DI[2k]DP[21]SO[tom111]CO[9]AB[rb]AB[sc]AB[qc]AB[pc]AB[ob]AW[na]AW[nb]AW[nc]AW[od]AW[pd]AW[qd]AW[rd]AW[rc]AW[sa]C[Black to live.]AP[goproblems]
+(;B[qa];W[sb])
+(;B[ra];W[pa])
+(;B[pb];W[sb]
+(;B[ra];W[sb])
+(;B[oa];W[qa]))
+(;B[sb];W[pa]
+(;B[oa];W[qb])
+(;B[qb];W[oa])
+(;B[qa];W[oa])
+(;B[pb];W[oa])
+(;B[ra];W[oa]))
+(;B[pa]
+(;W[sb]
+(;B[ra];W[sb];B[qb]C[CHOICERIGHT])
+(;B[qa]C[Dead in Gote :(])
+(;B[qb];W[sd];B[ra]C[RIGHT]))
+(;W[oa]
+(;B[oc];W[qb])
+(;B[pb];W[sb])
+(;B[qb];W[oc]
+(;B[sb];W[ra])
+(;B[ra];W[pb]C[Ko :(])
+(;B[pb];W[ra]))
+(;B[ra]C[CHOICERIGHT])
+(;B[qa];W[pb])
+(;B[sb];W[ra]
+(;B[qa];W[pb])
+(;B[pb];W[qa])
+(;B[qb];W[oc])))))

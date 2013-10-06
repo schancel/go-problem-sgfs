@@ -1,0 +1,39 @@
+(;GE[best move]DI[5d]DP[5]SO[pimapis]CO[0]AB[cs]AB[cr]AB[ds]AB[es]AB[fs]AB[gr]AB[fq]AB[ep]AB[fp]AB[gp]AB[bb]AB[bd]AB[cd]AB[ce]AB[dc]AB[ec]AB[eb]AB[fc]AB[fd]AB[jj]AB[ik]AB[kc]AB[je]AB[jf]AB[ho]AB[io]AB[jo]AB[ip]AB[hm]AB[im]AB[gl]AB[hk]AB[kb]AB[jc]AB[jd]AB[kg]AB[jh]AB[ii]AB[ge]AB[ff]AB[gg]AB[gf]AB[hf]AB[if]AB[fh]AB[ei]AB[dj]AB[cj]AB[bj]AB[ak]AB[bl]AB[bm]AB[bn]AB[cn]AB[co]AB[ao]AB[an]AB[dm]AB[em]AB[fn]AB[bg]AW[ca]AW[cb]AW[db]AW[ea]AW[fb]AW[gc]AW[gd]AW[hd]AW[he]AW[ie]AW[ic]AW[ib]AW[jb]AW[hb]AW[ed]AW[ee]AW[fe]AW[ef]AW[eg]AW[eh]AW[fg]AW[dg]AW[di]AW[ci]AW[bi]AW[ai]AW[aj]AW[bf]AW[cf]AW[be]AW[bh]AW[cl]AW[cm]AW[br]AW[bs]AW[dr]AW[er]AW[eq]AW[cq]AW[cp]AW[dp]AW[do]AW[dn]AW[en]AW[bo]AW[bp]AW[ap]AW[aq]AW[hl]AW[il]AW[jl]AW[jk]AW[kl]AW[hp]AW[gq]AW[hr]AW[hs]AW[is]AW[iq]AW[jq]AW[jp]AW[jr]AW[kr]C[It is late yose. white just pushed at A10 and defended at A11.Last two obvious moves are at E5 and H3. Choose the biggest move. The right answer is not quite obvious.]AB[gi]AP[goproblems]
+(;B[ej]C[Almost correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more. still afer white H2 black E5,  white F7 Black needs to defend again];W[hq];B[eo];W[fm]
+(;B[gm]
+(;W[gs];B[fr];W[dq];B[go])
+(;W[fl];B[dl];W[gn]
+(;B[go];W[fo])
+(;B[fo];W[gs]C[CHOICE])))
+(;B[fl];W[gs];B[fr];W[dq];B[go]))
+(;B[fm]C[Wrong];W[ej];B[fi];W[dk]
+(;B[ek];W[bk]
+(;B[fj];W[al]C[CHOICE])
+(;B[ck];W[bk]C[CHOICE]))
+(;B[bk];W[ek];B[fk];W[ck];B[dl])
+(;B[fj];W[ek];B[bk];W[ck]))
+(;B[dl]C[Correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more.RIGHT])
+(;B[fl]C[Wrong, yes the position must be defended, here are several good moves, but this one is not among them];W[ej]C[Wrong, yes the position must be defended, here are several good moves, but this one is not among them];B[fi];W[dk]
+(;B[ek];W[bk];B[fj];W[al]C[CHOICE])
+(;B[dl];W[ck];B[bk];W[ek]
+(;B[fk];W[al])
+(;B[fj];W[al])
+(;B[el];W[al]))
+(;B[bk];W[ek]
+(;B[fk];W[ck]C[CHOICE])
+(;B[fj];W[ck])
+(;B[dl];W[ck];B[fk];W[al])))
+(;B[fj]C[Almost correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more. still afer white H2 black E5,  white F7 Black needs to defend again];W[hq];B[eo];W[fm];B[fl];W[gs];B[fr];W[dq];B[go])
+(;B[hq];W[ej]C[Wrong. you got 4 points, now defend this]
+(;B[fi];W[dk]
+(;B[ek];W[el]
+(;B[fk];W[fm])
+(;B[fj];W[fm]C[Ruined]))
+(;B[dl];W[ck];B[bk];W[ek]C[Disaster])
+(;B[fj];W[ck];B[bk];W[ek]C[Tragedy])
+(;B[bk])
+(;B[fk];W[bk]C[Wrong. snapback]))
+(;B[ek];W[fi]C[Cataclism.]))
+(;B[ck]C[Correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more.RIGHT])
+(;B[dk]C[Correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more.RIGHT])
+(;B[el]C[Correct, white will take 4 points defending the two stones, but a cut at E10 will have costed much more.RIGHT]))

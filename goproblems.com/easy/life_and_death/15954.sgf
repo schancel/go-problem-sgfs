@@ -1,0 +1,4 @@
+(;GE[life and death]DI[30k]DP[100]SO[flanner]CO[0]AW[cr]AW[cq]AW[eq]AW[fq]AW[gp]AW[hp]AW[ho]AW[bp]AW[bo]AW[bn]AW[co]AW[cm]AW[cl]AW[dl]AW[fl]AW[gm]AB[bq]AB[dq]AB[dp]AB[cp]AB[ep]AB[fp]AB[do]AB[dn]AB[cn]AB[dm]AB[go]AB[fn]AP[goproblems];B[fr]
+(;W[gq]C[CHOICE];B[br]C[RIGHT])
+(;W[br]C[CHOICE];B[gq]C[RIGHT])
+(;W[er]C[CHOICE];B[dr];W[gr];B[br]C[RIGHT]))

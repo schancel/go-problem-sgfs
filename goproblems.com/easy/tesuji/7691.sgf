@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[7k]DP[41]SO[MrMoto]CO[9]AW[rr]AW[rq]AW[rp]AW[qo]AW[qm]AW[qn]AW[rm]AW[pm]AB[rl]AB[ql]AB[pl]AB[qj]AB[pi]AW[pj]AW[oi]AW[ol]AW[ok]AB[om]AB[nl]AB[ml]AW[nm]AW[mn]AB[on]AB[pn]AB[po]AB[pp]AB[qp]AW[qq]AB[pq]AB[pr]AB[qr]AW[or]AW[nq]AB[mo]AW[lo]AW[ko]AW[lp]AB[kp]AB[kq]AB[jq]AW[jp]AB[ip]AB[qi]TR[om]TR[on]TR[pn]TR[po]TR[pp]TR[qp]TR[pq]TR[pr]TR[qr]C[How can the marked stones escape?]AW[sn]AP[goproblems]
+(;B[jo];W[lm])
+(;B[mm];W[nn]
+(;B[no];W[ln])
+(;B[ln];W[no]
+(;B[oo];W[np])
+(;B[mp];W[mq])
+(;B[np];W[mp]
+(;B[op];W[jo])
+(;B[oo];W[op]))))
+(;B[nn];W[mm]
+(;B[ll];W[km])
+(;B[lm];W[ln]
+(;B[km];W[jo])
+(;B[jo];W[ll]))
+(;B[ln];W[lm];B[kn];W[jn];B[km];W[ll]))
+(;B[no];W[ln])
+(;B[np];W[lm])
+(;B[lq];W[no])
+(;B[mp];W[mq])
+(;B[ln]
+(;W[no]
+(;B[mm];W[nn])
+(;B[nn];W[mp]
+(;B[mm]C[There's a slightly better move at the end ...RIGHT])
+(;B[lm]C[:)RIGHT])))
+(;W[lm]
+(;B[nn];W[mm])
+(;B[mm];W[kn]
+(;B[nn]C[There's a slightly better move at the end ...RIGHT])
+(;B[no]C[:)RIGHT]))))
+(;B[lm];W[ln]))

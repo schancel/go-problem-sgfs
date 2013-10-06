@@ -1,0 +1,17 @@
+(;GE[life and death]DI[6d]DP[0]SO[IlanKeshet]CO[0]AB[dp]AB[cq]AB[eo]AW[cn]AB[dm]AW[bp]AB[bq]AB[ap]AW[bo]AB[cm]AW[bm]AW[bk]AW[bj]AB[cp]AW[do]AW[dn]AB[en]AW[cl]AW[ck]AW[al]AB[dl]AB[dk]AB[dj]AB[cj]AB[bi]C[Does black have a big sente move here? If you don't think so play at T]LB[fp:T]AP[goproblems]
+(;B[aj]C[];W[fh]C[And if w tenukis here?]
+(;B[an];W[ao]
+(;B[bn];W[am]
+(;B[bn];W[an];B[co]C[Correct! A10 was a big sente move.RIGHT])
+(;B[co];W[bn]))
+(;B[co];W[bn])
+(;B[am];W[bn]))
+(;B[ao];W[an])
+(;B[co];W[an];B[bn];W[cn]))
+(;B[fp]C[Wrong. Black did have a big sente move])
+(;B[ai];W[fh]C[And if w tenukis?];B[an];W[ao]
+(;B[bn];W[am];B[bn];W[an];B[co];W[aj])
+(;B[am];W[bn]))
+(;B[ao];W[an]C[This sequence is gote. White is now alive, and a5 is in atari])
+(;B[an];W[ao]C[];B[bn];W[am];B[bn];W[an];B[co];W[aj]C[Wrong. Black's move is sente. However if white does answer, black does not gain anything, and white at the same time defends the weakness])
+(;B[co];W[bn]C[White can simply connect and now black has nothing. Black did not gain anything, and black damed the C5 group]))

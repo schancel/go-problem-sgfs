@@ -1,0 +1,90 @@
+(;GE[life and death]DI[3d]DP[9]SO[Tatsu]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cb][eb][bc][cc][dc][jc][cd][je]AB[fb][ec][bd][dd][ed][be][ce][de]C[This problem arose naturally from a teaching game I was watching. If you notice anything that isn't right, such as a bad move by white or a better solution to the problem, be sure to add a comment and let me know. Thanks and good luck.]
+(;B[ac]CR[ac]
+;W[ab]CR[ab]
+(;B[ba]CR[ba]
+;W[fa]CR[fa]
+(;B[ga]CR[ga]
+;W[da]CR[da]C[Black can do better.])
+(;B[gb]CR[gb]
+;W[ca]CR[ca]C[Alive])
+(;B[da]CR[da]
+;W[ea]CR[ea]
+(;B[ga]CR[ga]
+;W[db]CR[db]
+(;B[gb]CR[gb]
+;W[ca]CR[ca])
+(;B[ca]CR[ca]
+;W[ad]CR[ad]))
+(;B[ca]CR[ca]
+;W[db]CR[db])))
+(;B[da]CR[da]
+;W[ea]CR[ea]))
+(;B[ab]CR[ab]
+;W[fa]CR[fa]
+(;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[gb]CR[gb]
+;W[ac]CR[ac]
+(;B[da]CR[da]
+;W[db]CR[db]
+;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[ad]CR[ad]C[Seki is the next best thing, but black doesn't have to settle for this result.])
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+(;B[da]CR[da]C[Black can do better.])
+(;B[db]CR[db]C[Black can do better.])))
+(;B[gb]CR[gb]
+;W[ac]CR[ac]
+;B[da]CR[da]
+;W[ea]CR[ea]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[ad]CR[ad]C[Seki not good enough.])
+(;B[ga]CR[ga]
+;W[db]CR[db]
+;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[ad]CR[ad]C[Seki is the next best thing, but black doesn't have to settle for this result.]))
+(;B[da]CR[da]
+;W[gb]CR[gb]
+;B[fc]CR[fc]
+;W[ea]CR[ea]C[Not quite good enough.]))
+(;B[da]CR[da]
+;W[ea]CR[ea]
+(;B[ac]CR[ac]
+;W[ab]CR[ab]C[White is alive.])
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ad]CR[ad]C[Surely, black can do better.])
+(;B[fa]CR[fa]
+;W[db]CR[db]C[If you work out the variations, you will see white lives. Black can do much better than this.]))
+(;B[ea]CR[ea]
+;W[da]CR[da]
+;B[db]CR[db]C[Not quite. Black can give white a harder time than this.])
+(;B[ba]CR[ba]
+;W[fa]CR[fa]
+(;B[ga]CR[ga]
+;W[da]CR[da]
+;B[ea]CR[ea]C[RIGHT 
+This is the best result for black and the most difficult for white; white could treat this as a two step ko and make seki, or treat it as a three step ko and make eyes. Either way, it's not easy.])
+(;B[gb]CR[gb]
+;W[ca]CR[ca]C[Thanks to MrMoto and BartTM for this correction.]
+(;B[ga]CR[ga]
+;W[ea]CR[ea]
+(;B[db]CR[db]
+;W[da]CR[da]
+;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ad]CR[ad]C[Black can do better.])
+(;B[da]CR[da]
+;W[db]CR[db]
+;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ad]CR[ad]C[Seki is not good enough.]))
+(;B[da]CR[da]
+;W[ea]CR[ea]C[This will lead to seki. Black can do better.]))))

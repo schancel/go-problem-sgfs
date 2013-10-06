@@ -1,0 +1,51 @@
+(;GE[life and death]DI[4d]DP[7]SO[huhss]CO[7]SZ[19]AP[MultiGo:3.6.0]AB[bb][ca][cc][dc][cd][de][ee][ed][dh][ci][bi][bh]AW[cb][db][ea][ec][fc][fb][fd][fe][ef][cg][ch][bg][di][ei][be]
+TR[be](;B[bd]	;W[ac](;B[ce]	;W[ad](;B[ab]	;W[ba]	;B[bf]	;W[af]	;B[cf]	;W[dg]
+;B[bc]C[RIGHT]
+)
+(;B[bf]	;W[af](;B[ab]	;W[ba]	;B[cf]	;W[dg]
+;B[bc]C[RIGHT
+But white can give up to remove eye at B19, instead white can answer at C14 to take one black stone. In this case, white can get more points compared to right solution.]
+)
+(;B[cf]	;W[dg]	;B[ab]	;W[ba]
+;B[bc]C[RIGHT]
+)
+)
+(;B[dg]	;W[df](;B[cf]	;W[bf]	;B[ab]	;W[ba]	;B[eg]	;W[ff]	;B[fg]	;W[gg]	;B[fh]	;W[hi]
+;B[ag]C[RIGHT
+black wins the capturing race]
+)
+(;B[bf]	;W[af]
+;B[cf]C[RIGHT, white cannot answer]
+)
+)
+)
+(;B[bf]	;W[ad](;B[ce]	;W[af]	;B[cf]	;W[dg]	;B[ab]	;W[ba]
+;B[bc]C[RIGHT]
+)
+(;B[ab]	;W[ba]	;B[ce]	;W[af]	;B[cf]	;W[dg]
+;B[bc]C[RIGHT]
+)
+)
+(;B[dg]	;W[df](;B[cf]	;W[ce]	;B[dd]	;W[ad]	;B[bc]	;W[ab]	;B[ba]
+;W[da]C[wrong]
+)
+(;B[ce]	;W[ad]	;B[bf]	;W[af]
+;B[cf]C[RIGHT
+white cannot answer]
+)
+)
+(;B[ad]	;W[ce](;B[ab]
+;W[ba]C[wrong]
+)
+(;B[ba]
+;W[ab]C[wrong]
+)
+)
+(;B[ab]	;W[ce]	;B[ad]
+;W[ba]C[wrong]
+)
+)
+(;B[bf]	;W[ce]	;B[bd]	;W[af]	;B[ac]
+;W[ad]C[ko]
+)
+)

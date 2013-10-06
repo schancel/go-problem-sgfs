@@ -1,0 +1,5 @@
+(;GE[life and death]DI[20k]DP[71]SO[1234boys]CO[0]SZ[4]AB[cb]AB[bb]AB[ba]AB[ca]AB[da]AB[db]AW[ac]AW[bc]AW[cc]AW[cd]AW[bd]AW[ad]AP[goproblems]
+(;B[ab]TR[ac]TR[bc]TR[cc]TR[cd]TR[bd]TR[ad]C[Correct. The marked stones is dead.RIGHT])
+(;B[aa];W[dc]TR[aa]TR[ba]TR[ca]TR[da]TR[db]TR[cb]TR[bb]C[Wrong. The marked stones is dead.])
+(;B[dc];W[ab]MA[aa]MA[dd]C[Wrong. This is a seki.])
+(;B[dd];W[dc]TR[bb]TR[ba]TR[ca]TR[da]TR[db]TR[cb]C[Wrong. The marked stones is dead.]))

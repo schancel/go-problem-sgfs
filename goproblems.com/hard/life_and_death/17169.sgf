@@ -1,0 +1,100 @@
+(;GE[life and death]DI[6d]DP[1]SO[Aristotle]CO[0]AW[cr]AW[cq]AW[ar]AW[bo]AW[bn]AW[dn]AW[dm]AW[dp]AB[dq]AB[co]AB[ep]AB[eo]AB[cs]AB[fo]AB[go]AB[gp]AB[hp]AW[fn]AW[gn]AW[hn]AB[fr]AW[hq]AW[jr]AW[jq]AW[jp]AB[js]AB[ks]AB[lr]AB[lp]AW[gr]AW[jo]C[Black to get the most out of this position]AP[goproblems]
+(;B[ir]
+(;W[iq]
+(;B[hr]
+(;W[is]
+(;B[hs];W[gs]
+(;B[gq];W[is]
+(;B[fs]
+(;W[fq]
+(;B[hr];W[eq]
+(;B[hs];W[ir];B[dr]
+(;W[er];B[ds]
+(;W[gr]
+(;B[cp]
+(;W[do]
+(;B[br];W[bq]C[This position with the many black and white patches has given the problem its name: Patchwork];B[bs]
+(;W[gs];B[bp];W[ap];B[aq];W[bq]
+(;B[cq];W[es]C[Taking the ko is not bad but it is fair to assume that you lose it]
+(;B[as];W[cn];B[aq]C[You lost most of your original stones but still have taken 30 points out of formerly white territory!RIGHT])
+(;B[cn];W[cm]C[Now you must win the ko which is bad])
+(;B[aq]C[NOTTHIS])
+(;B[ao]C[NOTTHIS]))
+(;B[es];W[cq]C[You were so near ...])
+(;B[as];W[cq]C[You were so near ....]))
+(;W[aq]C[This path is given for informational purposes only; the computer will not select it];B[bp];W[ap];B[gs]TR[as]C[White cannot approach on the marked squareRIGHT]))
+(;B[bq]
+(;W[br]
+(;B[bs];W[gs];B[aq];W[es];B[as];W[bp])
+(;B[bp];W[gs];B[bs];W[es]))
+(;W[bp]C[This path is given for informational purposes only; the computer will not select it];B[es];W[gs];B[fp];W[eq];B[br]TR[cq]TR[aq]C[RIGHT]))
+(;B[bs];W[gs]
+(;B[bq];W[br])
+(;B[br]
+(;W[es];B[bp];W[ap];B[bq])
+(;W[bp];B[bq];W[cq];B[es];W[aq]))
+(;B[bp];W[br];B[aq];W[es]))
+(;B[gs];W[bs];B[es];W[gr])
+(;B[es];W[gs];B[fp];W[eq]
+(;B[bq];W[br];B[bp];W[cn])
+(;B[bp];W[bq];B[ap];W[cn])))
+(;W[gs]C[This path is given for informational purposes only; the computer will not select it];B[do];W[es];B[bq];W[br];B[bp];W[bs];B[dp]C[The black shape is alive when capturing the marked stonesRIGHT]TR[ar]TR[br]TR[cr]TR[cq]TR[bs]))
+(;B[br];W[bq]
+(;B[cp];W[gs];B[bs];W[bp])
+(;B[bs];W[gs];B[cp];W[es];B[do];W[bp]))
+(;B[gs];W[bs];B[es];W[gr])
+(;B[es];W[gs];B[fp];W[eq];B[cp];W[do];B[bq];W[br];B[bp];W[cn]))
+(;W[bs];B[es];W[gr];B[fp]TR[eq]TR[gs]TR[cp]C[Not a good line for white at allRIGHT]))
+(;W[gr]C[This path is given for informational purposes only; the computer will not select it];B[er]C[Black livesRIGHT]TR[ds]TR[gs]))
+(;B[dr]C[A forgivable change of order];W[er];B[hs];W[ir]))
+(;B[cp];W[dr];B[eq];W[er])
+(;B[eq];W[er];B[fp];W[es]))
+(;W[hr]C[This path is for informational purposes only; the computer will not play it.];B[dr]C[Black just livesRIGHT])
+(;W[eq]C[This path is for informational purposes only; the computer will not play it.];B[fq]TR[dr]TR[hr]C[RIGHT]))
+(;B[hr];W[fq]
+(;B[fs])
+(;B[dr];W[er]
+(;B[es];W[fs]
+(;B[eq];W[fr];B[fp];W[ir];B[hs];W[fr]
+(;B[gr];W[fs];B[cp];W[do];B[bp];W[bq];B[ap];W[cn])
+(;B[cp]C[NOTTHIS]))
+(;B[fp];W[fr];B[eq]))
+(;B[eq];W[fs];B[es])))
+(;B[cp];W[dr]C[See similar variation on the first move])
+(;B[dr];W[fq]))
+(;B[fs];W[gq])
+(;B[is];W[gq]C[If you really want sente you can play this way but in general, it is too big a loss]))
+(;B[cp];W[dr]C[See similar variation on the first move])
+(;B[gq];W[hs];B[dr];W[fq];B[es];W[eq];B[cp];W[do];B[bq];W[br]))
+(;W[gq]C[This path is for informational purposes only; the computer will not play it.];B[fq]
+(;W[gs];B[dr]C[RIGHT])
+(;W[fs];B[es];W[gs];B[dr]C[RIGHT]))
+(;W[gs]C[This path is for informational purposes only; the computer will not play it];B[gq];W[is];B[fs];W[hs];B[dr]C[];W[fq];B[eq];W[es];B[er]C[easy life for blackRIGHT]))
+(;B[cp];W[dr]C[See similar variation on the first move])
+(;B[gs];W[hs];B[gq];W[fs])
+(;B[dr];W[fq];B[gq];W[hr];B[fs];W[ds]))
+(;W[fq]C[This path is for informational purposes only; the computer will not play it.];B[iq]
+(;W[ip];B[er];W[eq];B[gq];W[hr];B[is];W[dr];B[gs]C[Black is happyRIGHT])
+(;W[eq];B[gq];W[er];B[hr]C[Black is happyRIGHT])))
+(;B[cp];W[dr];B[do];W[er];B[fq];W[eq];B[fs];W[hr];B[bq];W[br];B[bp];W[bs])
+(;B[gq];W[hr];B[dr];W[fq]
+(;B[eq];W[es];B[fs];W[ds])
+(;B[fs];W[ds])
+(;B[es];W[eq];B[cp];W[do]
+(;B[bq];W[br])
+(;B[bp];W[bq];B[ap];W[cn])))
+(;B[dr];W[fq]
+(;B[gq];W[hr]
+(;B[fs])
+(;B[es])
+(;B[eq]))
+(;B[ir];W[iq];B[hr];W[is];B[hs];W[gs];B[gq];W[is]
+(;B[eq];W[es])
+(;B[fs];W[er])
+(;B[hr])))
+(;B[hr];W[ir];B[hs];W[gs];B[is];W[gq];B[fq];W[dr])
+(;B[fs];W[hr];B[dr];W[fq];B[gq])
+(;B[hs];W[gs]
+(;B[fs];W[fq];B[gq];W[hr];B[dr];W[er])
+(;B[gq];W[hr];B[dr];W[fq];B[eq];W[es]))
+(;B[fq];W[dr]))

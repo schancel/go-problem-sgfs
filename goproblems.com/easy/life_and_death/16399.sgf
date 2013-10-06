@@ -1,0 +1,46 @@
+(;GE[life and death]DI[7k]DP[40]SO[t3o]CO[0]AB[hr]AB[is]AB[iq]AB[jq]AB[jr]AB[lq]AB[mq]AW[gr]AW[hq]AW[hp]AW[jp]AW[kp]AW[mp]AW[nq]AW[nr]AB[mr]AB[hs]AW[gs]AW[ks]AW[lp]AW[op]AW[ns]AW[io]AW[fq]C[This is my first problem. It happened in one of my games. Black to answer and live.CHOICE]TR[ks]AP[goproblems]
+(;B[ls]
+(;W[kq]C[CHOICE];B[kr];W[ms]
+(;B[lr]C[RIGHT])
+(;B[js];W[lr]))
+(;W[js]C[CHOICE];B[kr]C[Life !RIGHT]))
+(;B[ms]
+(;W[kq]C[CHOICE]
+(;B[kr];W[lr]
+(;B[js];W[ls])
+(;B[ls];W[lr]))
+(;B[ls];W[kr]))
+(;W[js]C[CHOICE]
+(;B[ls];W[ir])
+(;B[kr];W[ir])
+(;B[ir]
+(;W[kr]C[CHOICE];B[kq];W[ls];B[lr];W[ks])
+(;W[kq]C[CHOICE];B[kr];W[ls];B[lr];W[ks]))))
+(;B[kq]
+(;W[ms]C[CHOICE];B[ls];W[lr];B[kr];W[ls])
+(;W[js]C[CHOICE]
+(;B[ls];W[ir])
+(;B[ms];W[ir])))
+(;B[js]
+(;W[kq]
+(;B[kr];W[ls]
+(;B[lr];W[ms])
+(;B[ms];W[lr]))
+(;B[ls];W[kr])
+(;B[ms];W[kr]C[]))
+(;W[ms]
+(;B[ls];W[lr];B[kr];W[kq])
+(;B[kr]
+(;W[ls])
+(;W[kq];B[ls];W[lr]))
+(;B[kq];W[ls])))
+(;B[kr];W[ms]
+(;B[lr];W[ls])
+(;B[ls];W[lr]C[Only ko])
+(;B[js];W[ls]))
+(;B[lr];W[js]
+(;B[ir]
+(;W[ms])
+(;W[kq]))
+(;B[kr];W[ir])
+(;B[ls];W[ir])))

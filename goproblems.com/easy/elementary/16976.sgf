@@ -1,0 +1,6 @@
+(;GE[elementary]DI[25k]DP[75]SO[1234boys]CO[0]SZ[4]AB[da]AB[db]AB[dc]AB[dd]AB[ad]AB[ac]AB[ab]AB[aa]AW[ba]AW[ca]AW[bc]AP[goproblems]
+(;B[bb]TR[ba]TR[ca]C[Correct. The marked stones became atari. Was this very easy?RIGHT])
+(;B[cb];W[bb]TR[ad]TR[ac]TR[ab]TR[aa]C[Wrong! The marked stones is atari!])
+(;B[cc];W[bb]TR[ad]TR[ac]TR[ab]TR[aa]C[Wrong! The marked stones is atari!])
+(;B[cd];W[bd]TR[aa]TR[ab]TR[ac]TR[ad]C[Wrong! The marked stones is atari!])
+(;B[bd];W[bb];B[cd]C[Wrong! This is a seki!]))

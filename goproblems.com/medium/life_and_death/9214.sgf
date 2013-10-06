@@ -1,0 +1,8 @@
+(;GE[life and death]DI[1k]DP[20]SO[godork]CO[5]AB[cb]AB[cc]AB[ag]AB[ah]AB[ai]AB[bh]AB[bg]AB[cg]AB[dg]AB[df]AB[de]AB[ce]AB[ee]AB[ff]AB[fg]AB[fh]AB[fi]AB[eh]AB[gh]AB[gi]AB[gf]AB[hf]AB[he]AB[ie]AB[hd]AB[id]AB[gd]AB[jd]AB[ic]AB[ib]AB[hb]AB[ha]AB[fc]AB[fb]AB[fa]AB[eb]AW[af]AW[bf]AW[cf]AW[be]AW[bd]AW[cd]AW[dd]AW[ed]AW[fd]AW[fe]AW[ge]AW[dc]AW[ec]AW[db]AW[da]AW[ea]AW[ia]AW[ja]AW[jb]AW[jc]AW[lc]AW[lb]AW[mb]AW[ma]AW[ld]AW[kd]AW[ke]AW[je]AW[lf]AW[if]AW[ig]AW[hg]AW[gg]AW[hh]AW[hi]AW[ii]AW[ji]AW[ij]AW[lg]AW[kg]AW[jg]LB[ag:1]AP[goproblems]
+(;B[bc];W[ca];B[ab]C[RIGHT]
+(;W[ba];B[ad];W[bb];B[ac]C[RIGHT])
+(;W[ac];B[ad];W[ba];B[bb]C[RIGHT]))
+(;B[ac];W[bc];B[bb];W[ad];B[ab];W[ca])
+(;B[ab];W[bc];B[bb];W[ac]
+(;B[ca];W[ba])
+(;B[ad];W[ca])))

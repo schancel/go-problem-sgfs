@@ -1,0 +1,20 @@
+(;GE[life and death]DI[7k]DP[44]SO[Neelien]CO[0]AB[ps]AB[pr]AB[pq]AB[pp]AB[qp]AB[qo]AB[ro]AB[so]AB[sp]AB[sn]AB[sm]AB[rm]AB[ql]AB[qk]AB[pj]AB[pi]AB[oj]AB[nj]AB[mi]AB[mh]AB[nh]AB[ki]AB[kj]AB[lk]AB[ll]AB[lm]AB[kl]AB[ml]AB[nl]AB[kn]AB[ko]AB[lo]AB[no]AB[oo]AB[on]AB[jp]AB[jq]AB[kr]AB[lr]AB[lq]AB[mq]AB[ir]AW[ns]AW[or]AW[mr]AW[nq]AW[oq]AW[op]AW[mp]AW[lp]AW[kp]AW[kq]AW[mo]AW[mn]AW[ln]AW[mm]AW[nm]AW[ol]AW[ok]AW[pl]AW[pm]AW[pn]AW[po]AW[qn]AW[qm]AW[rn]AW[mk]AW[nk]AW[mj]AW[lj]AW[os]C[Black to kill the white group unconditionaly. If you think this isn't possible play at D16.]MA[dd]AP[goproblems]
+(;B[dd]AW[ps]AW[pr]AW[pq]AW[pp]AW[qp]AW[qo]AW[ro]AW[so]AW[sp]AW[sn]AW[sm]AW[rm]AW[ql]AW[qk]AW[pj]AW[pi]AW[oj]AW[nj]AW[mi]AW[mh]AW[nh]AW[ki]AW[kj]AW[lk]AW[ll]AW[kl]AW[ml]AW[nl]AW[lm]AW[kn]AW[ko]AW[lo]AW[jp]AW[jq]AW[ir]AW[kr]AW[lr]AW[lq]AW[mq]AW[no]AW[oo]AW[on]AB[ns]AB[os]AB[mr]AB[nq]AB[oq]AB[or]AB[op]AB[mp]AB[lp]AB[kp]AB[kq]AB[mo]AB[mn]AB[ln]AB[mm]AB[nm]AB[po]AB[pn]AB[pm]AB[pl]AB[ol]AB[ok]AB[nk]AB[mk]AB[mj]AB[lj]AB[qn]AB[qm]AB[rn];W[ls]C[Prove it.]
+(;B[ms];W[np];B[om];W[nr]C[Dead])
+(;B[nn];W[ms];B[om];W[nr];B[np];W[oo]C[Dead])
+(;B[np];W[ms]))
+(;B[ls]
+(;W[ms];B[np]C[White is dead nowRIGHT])
+(;W[nn];B[ms]C[White cannot make 2 eyesRIGHT])
+(;W[np]C[CHOICE];B[ms]C[White cannot make 2 eyesRIGHT]))
+(;B[li];W[om];B[ls];W[ms]C[Alive])
+(;B[nn]
+(;W[ms]C[Alive])
+(;W[om];B[ls];W[ms]C[Alive]))
+(;B[om]
+(;W[np]C[CHOICE]
+(;B[li];W[nn]TR[nr]TR[on])
+(;B[pk];W[nn])))
+(;B[pk];W[om]C[Alive])
+(;B[ms];W[ls];B[ks]
+(;W[np]C[CHOICE];B[ms])))

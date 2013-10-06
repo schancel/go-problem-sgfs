@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[15k]DP[64]SO[Tatsu]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[White]PB[Black]AW[bg][dg][eg][fg][gg][hg][dh][hh][fi][cj][ck][dk][ek][fk][gk][fl][hl][gm]AB[eh][fh][gh][bi][ci][di][hi][dj][hj][hk][jk][il]C[Black to link up.]
+(;B[fj]CR[fj]
+;W[gi]CR[gi]
+(;B[gj]CR[gj]
+;W[ei]CR[ei]
+;B[ej]CR[ej]C[RIGHT])
+(;B[ei]CR[ei]
+;W[gj]CR[gj])
+(;B[ej]CR[ej]
+;W[gj]CR[gj]))
+(;B[ei]CR[ei]
+;W[gi]CR[gi])
+(;B[gi]CR[gi]
+;W[ei]CR[ei]))

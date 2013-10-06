@@ -1,0 +1,25 @@
+(;GE[life and death]DI[1k]DP[20]SO[JoeSeki]CO[6]C[Black to save the 5 stones by connecting to the outside 2]SZ[19]AB[ps][pr][pq][pp][po][lq][jq]AW[or][nq][no][on][pn][qn][rp][rr]
+(;B[np]
+(;W[mp]
+(;B[mq]
+(;W[op];B[nr]C[RIGHT])
+(;W[mr];B[op];W[lr];B[kr]))
+(;B[nr];W[mq]
+(;B[mr];W[oq];B[os]C[There is a better way, this is 1 point worse than the correct answer])
+(;B[oq];W[mr])))
+(;W[op];B[mp]
+(;W[oo];B[oq]C[RIGHT])
+(;W[oq];B[oo]C[RIGHT])))
+(;B[nr];W[oq]
+(;B[os];W[mr];B[ns];W[mq];B[ms];W[lr];B[ls];W[kr];B[ks];W[jr];B[js];W[ir];W[mr]
+)
+(;B[mq];W[os];B[np];W[op]
+(;B[oo];W[mp])
+(;B[mp];W[oo])))
+(;B[oq];W[mq];B[nr];W[mr])
+(;B[ns]
+(;W[os]C[CHOICE];B[oq];W[mq]
+(;B[nr];W[mr])
+(;B[mr];W[nr]))
+(;W[nr]C[CHOICE];B[os];W[mr]))
+(;B[os];W[nr]))

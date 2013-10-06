@@ -1,0 +1,21 @@
+(;GE[best move]DI[15k]DP[60]SO[kochi]CO[7]AB[rr]AB[rq]AB[qp]AB[qo]AB[qn]AB[rn]AW[qq]AW[pq]AW[sq]AW[rp]AW[ro]AW[sn]AW[rm]AW[ql]AW[nq]AP[goproblems]
+(;B[sp];W[so]C[you are cut.];B[sr])
+(;B[so]
+(;W[sp]C[CHOICE]
+(;B[sr];W[sm];B[so]C[RIGHT])
+(;B[sm];W[sl]))
+(;W[sm]
+(;B[sp]C[RIGHT])
+(;B[sr]C[tricky guy. Simply capturing at t4 is best.])))
+(;B[sm];W[sl]
+(;B[so]
+(;W[sp]C[CHOICE];B[sr];W[sm];B[so]C[ok, but you gave him t8 and a point for no reason.RIGHT])
+(;W[sm]
+(;B[sp]C[ok, but you gave him t8 and a point for no reason.RIGHT])
+(;B[sr]C[];W[sp];B[so];W[sp];B[ro]C[now r2 may be sente at some point.])))
+(;B[sr];W[so])
+(;B[sp];W[so];B[sr]))
+(;B[sr];W[so]C[you are cut.])
+(;B[qr];W[so]C[you are cut.]
+(;B[or];W[pr];B[ps];W[oq])
+(;B[pr];W[or])))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[8k]DP[47]SO[MatheusB]CO[9]SZ[9]AW[da]AW[fa]AW[ga]AW[gb]AW[hb]AW[cc]AW[fc]AW[gc]AW[cd]AW[dd]AW[ed]AW[ce]AW[fe]AW[bf]AW[ff]AW[gf]AW[fg]AW[fh]AW[gh]AB[ca]AB[cb]AB[eb]AB[fb]AB[ib]AB[bc]AB[dc]AB[ec]AB[hc]AB[fd]AB[gd]AB[hd]AB[ge]AB[hf]AB[bg]AB[cg]AB[eg]AB[gg]AB[hg]AB[eh]C[White to kill the marked stones.]TR[dc]TR[ec]TR[eb]TR[fb]AW[ha]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[6.50]PW[White]PB[Black]
+(;W[bb];B[ab]
+(;W[ea]
+(;B[ba]
+(;W[db]C[B8 was the important move.RIGHT])
+(;W[ia];B[db]C[Come on!])
+(;W[ic];B[db];W[ia];B[ib]C[That's snapback.]))
+(;B[db]
+(;W[ba]C[B8 was the important move.RIGHT])
+(;W[ac];B[ba]C[Come on!])
+(;W[bd];B[ba]C[Come on!])
+(;W[aa];B[ia]C[Come on!])))
+(;W[db];B[ea]C[Come on! Now White is dead.])
+(;W[ba];B[aa]
+(;W[ea];B[db]C[And White group is in atari.])
+(;W[db];B[ea]C[Come on!])
+(;W[bb];B[ba]C[White cannot play E9 as after Black D8 White will be in atari.])
+(;W[ba];B[bb]C[White cannot play E9 as after Black D8 White will be in atari.]))
+(;W[aa];B[ba]
+(;W[ea];B[db]C[White is in atari now.])
+(;W[db];B[ea]C[Come on!]))
+(;W[bd];B[ba]
+(;W[db];B[ea]C[Come on!])
+(;W[ea];B[db]C[White is in atari now.])))
+(;W[ea];B[db]C[White group is in atari now.])
+(;W[db];B[ea]C[Come on!])
+(;W[ba];B[bb]C[White cannot play E9 as after Black D8 White group will be in atari.]))

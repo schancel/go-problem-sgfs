@@ -1,0 +1,32 @@
+(;GE[life and death]DI[5d]DP[5]SO[adum]CO[8]AW[ro]AW[mp]AW[np]AW[op]AW[pp]AW[qp]AW[lq]AW[rq]AW[sq]AW[lr]AW[ls]AB[mq]AB[nq]AB[oq]AB[pq]AB[qq]AB[rr]AB[sr]C[white to kill]SZ[19]PL[2]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[1]
+(;W[ps]
+(;B[ns]C[CHOICE]
+(;W[nr];B[or]
+(;W[ms];B[mr]
+(;W[qr];B[pr]
+(;W[qs]C[RIGHT])
+(;W[rs]C[only ko]))
+(;W[qs];B[qr])
+(;W[os];B[qs]))
+(;W[os];B[mr]
+(;W[ms])
+(;W[qr];B[pr];W[ms];B[qs]))
+(;W[qr];B[pr]
+(;W[rs];B[qs])
+(;W[qs];B[os];W[rs];B[ss];W[qs];B[mr];W[qr]C[RIGHT]))
+(;W[pr];B[qs])
+(;W[mr];B[qs]
+(;W[os];B[pr])
+(;W[pr];B[os])))
+(;W[qr];B[pr]
+(;W[rs];B[qs])
+(;W[qs];B[os]))
+(;W[pr];B[qr];W[nr];B[or];W[ms];B[qs]))
+(;B[os];W[or];B[pr];W[ns];B[qs];W[os]C[RIGHT]))
+(;W[qr];B[pr];W[qs];B[ps];W[rs];B[ss]
+(;W[ns];B[qs])
+(;W[qs];B[ns]))
+(;W[os];B[ns];W[nr];B[or];W[ms];B[ps])
+(;W[qs];B[qr]
+(;W[os];B[ns];W[nr];B[ps];W[pr];B[or];W[ms];B[rs])
+(;W[ps];B[ns];W[nr];B[mr];W[ms];B[or];W[os];B[nr])))

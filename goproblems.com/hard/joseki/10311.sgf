@@ -1,0 +1,16 @@
+(;GE[joseki]DI[5d]DP[4]SO[Athanatos]CO[10]AB[qd]AW[od]AB[ld]AW[pg]AB[oe]AW[ne]AB[of]AW[pd]AB[qf]AW[qc]AB[qe]AW[nf]LB[og:A]AB[nd]TR[nd]C[The correct joseki move is A, but here Black cuts with the triangled stone.]AP[goproblems]
+(;W[md];B[nc];W[mc];B[ob]
+(;W[pb];B[mb];W[lc];B[lb];W[kc];B[kb]
+(;W[jc]
+(;B[rd];W[og]
+(;B[rb];W[qg]C[This variation was played in a game between Sakata Eio and Cao Dayuan in 1987.RIGHT])
+(;B[rh];W[qi];B[rc]C[This variation was played in a game between Yokoyama Koichi, 5p and Oeda Yusuke, 7p in 1968.RIGHT]))
+(;B[ib];W[og];B[rb];W[rc];B[pe];W[pc];B[rh]C[This variation was played in a game between Hidaka Toshiyuki, 3p and Muramatsu Ryuichi, 1p in 1982. Play A to follow the next moves.RIGHT]AB[dd]AW[cp]AB[ep]AW[eo]AB[fo]AW[do]AB[gp]AW[pp]LB[ic:A];W[ic];B[hb]LB[na:A];W[na];B[nb]LB[rd:A];W[rd];B[re]LB[sb:A];W[sb];B[qj]LB[jb:A];W[jb];B[ja]LB[gc:A];W[gc];B[gb]LB[fc:A];W[fc];B[fb]LB[ec:A];W[ec];B[oa]LB[eb:A];W[eb];B[fa]LB[sd:A];W[sd]C[RIGHT]))
+(;W[jb]C[Too much cutting points.]TR[jc]TR[me]TR[ng]TR[og]))
+(;W[nb];B[oc]
+(;W[mb];B[pc]C[The corner is big enough to get compensation for giving influence to White. Moreover, White still has got lots of problems with his shape.])
+(;W[lb];B[na];W[mb];B[pc]C[The corner is big enough to get compensation for giving influence to White. Moreover, White still has got lots of problems with his shape.])))
+(;W[nc];B[md]C[Your White group is cut in two and you've got no compensation.])
+(;W[og];B[nc]
+(;W[pb];B[rh]C[Far worse than the correct solution.])
+(;W[rc];B[ob];W[pb];B[rh]C[Far worse than the correct solution])))

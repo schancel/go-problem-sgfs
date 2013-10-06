@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[33]SO[marwin]CO[5]AW[rs]AW[qs]AW[ps]AB[rr]AB[qr]AB[pr]AB[oq]AB[nq]AB[op]AB[pp]AB[qp]AB[ro]AB[rn]AB[sn]AW[qn]AW[qm]AW[rm]AW[np]AW[no]AW[oo]AW[mq]AW[nr]AW[or]AW[rq]AW[qq]AW[sp]C[]AW[mr]AP[goproblems]
+(;B[sr];W[rp]
+(;B[sq];W[qo];B[pq];W[sm];B[so];W[rp]
+(;B[rq];W[sp]
+(;B[ro]C[RIGHT])
+(;B[ss]
+(;W[os];B[ro]C[RIGHT]))
+(;B[os];W[ns]
+(;B[ro]C[RIGHT])
+(;B[ss];W[os];B[ro]C[RIGHT])))
+(;B[sp];W[rq]))
+(;B[qo];W[sq]C[Dead]))
+(;B[rp];W[sr];B[pq];W[os];B[so];W[sq];B[ss];W[sq]
+(;B[rq];W[sr])
+(;B[sr];W[rq]))
+(;B[sq];W[sr];B[pq];W[sq];B[rp];W[os])
+(;B[ss];W[sr])
+(;B[pq];W[sr];B[so];W[os];B[rp])
+(;B[so];W[sr];B[pq])
+(;B[qo];W[sr];B[pq];W[os];B[so];W[ss])
+(;B[os]C[NOTTHIS]))

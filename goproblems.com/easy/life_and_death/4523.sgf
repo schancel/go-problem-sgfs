@@ -1,0 +1,12 @@
+(;GE[life and death]DI[7k]DP[41]SO[Hans]CO[8]AW[pa]AW[ra]AW[nb]AW[ob]AW[nc]AW[nd]AW[od]AW[pd]AW[pe]AW[qe]AW[re]AW[se]AB[pb]AB[rb]AB[oc]AB[pc]AB[qc]AB[sc]AB[qd]AB[rd]C[Black to play.]
+(;B[qa];W[qb]LB[qg:A]C[If you wish to play a ko threat play at A.]
+(;B[sa];W[sb]LB[qg:A]C[If you wish to play a ko threat play at A.]
+(;B[qa]C[ Black lives in double ko.RIGHT])
+(;B[qg];W[qa]C[Black could have lived unconditionally (at least you have wasted a ko threat). See Navigate Solution.])
+(;B[rc];W[sd]))
+(;B[qg];W[qa]C[Black could have lived unconditionally (at least you have wasted a ko threat). See Navigate Solution])
+(;B[sb];W[qa]))
+(;B[qb];W[qa])
+(;B[sa];W[qa])
+(;B[sb];W[qa])
+(;B[sd];W[qa]))

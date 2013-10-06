@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[9]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[da][ab][db][ec][bd][cd][dd][ed][fd][ae][ge][ff][gf][gg][gh]AB[ea][cb][eb][fb][bc][dc][fc][gc][gd][id][be][ce][de][he][ef][if][bg][eg][hg][eh][hh][fi][hi][gj]LB[dc:1]C[how to answer black 1?]PL[W]
+(;W[cc]CR[cc]
+;B[ca]CR[ca]
+(;W[dc]CR[dc]
+;B[bb]CR[bb]
+(;W[ba]CR[ba]
+;B[aa]CR[aa]
+(;W[ac]CR[ac]
+;B[ad]CR[ad]
+;W[ac]CR[ac]C[RIGHT
+black dies in the corner, and white gets a live shape])
+(;W[ad]CR[ad]
+;B[ac]CR[ac]))
+(;W[ac]CR[ac]
+;B[ba]CR[ba]C[deado]))
+(;W[bb]CR[bb]
+;B[dc]CR[dc]
+(;W[ba]CR[ba]C[alive, but white has lost points unnecessarily])
+(;W[db]CR[db]
+;B[ba]CR[ba])
+(;W[ac]CR[ac]
+;B[ba]CR[ba]))
+(;W[ba]CR[ba]
+;B[dc]CR[dc]
+;W[bb]CR[bb]C[alive, but white has lost points for no compelling reason])
+(;W[ac]CR[ac]
+;B[dc]CR[dc]
+;W[bb]CR[bb]
+;B[ba]CR[ba]))
+(;W[ca]CR[ca]
+;B[ba]CR[ba])
+(;W[bb]CR[bb]
+;B[cc]CR[cc])
+(;W[ba]CR[ba]
+;B[ca]CR[ca]
+(;W[cc]CR[cc]
+;B[bb]CR[bb])
+(;W[bb]CR[bb]
+;B[cc]CR[cc])
+(;W[db]CR[db]
+;B[cc]CR[cc]))
+(;W[ac]CR[ac]
+;B[cc]CR[cc])
+(;W[aa]CR[aa]
+;B[cc]CR[cc])
+(;W[af]CR[af]
+;B[cc]CR[cc])
+(;W[ee]CR[ee]
+;B[ca]CR[ca])
+(;W[fe]CR[fe]
+;B[ca]CR[ca]))

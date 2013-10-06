@@ -1,0 +1,15 @@
+(;GE[endgame]DI[1d]DP[17]SO[Ketran0]CO[8]AB[iq]AB[ip]AW[jp]AW[jo]AW[jn]AB[io]AB[jq]AW[lp]AB[in]AB[hm]AB[il]AW[jl]AW[km]AW[jk]AB[ik]AB[dp]AB[cm]AW[jj]AW[ji]AW[je]AW[jd]AW[jc]AW[jb]AB[ij]AB[ii]AB[ih]AB[ie]AB[id]AB[ic]AB[ib]AB[dj]AB[cg]AW[pd]AW[qg]AW[pj]AW[qm]AB[bj]AW[pp]AW[pq]AB[eg]AB[em]AB[bq]AB[fp]AW[kn]AW[kl]AW[lo]AW[rq]AW[om]AW[nj]AW[og]AW[rc]AW[im]AB[hl]AB[ig]AB[if]AW[jf]AW[nr]AW[oc]C[Japanese rules, 6.5 komi. B to win (counting everything but the triangles, w is winning by 3.5 points)]AW[ld]AW[pb]AW[nc]AB[bo]AB[gg]AW[ab]AW[bb]AW[bc]AW[ad]AW[bd]AW[be]AB[ce]AB[cd]AB[cc]AB[cb]AB[ba]AB[cf]AB[bg]AB[ag]AB[fd]TR[ia]TR[ja]AW[rp]AW[ro]AW[rn]AW[ri]AW[ni]AW[lk]AW[ne]AW[qe]AW[re]AW[no]AW[mm]AW[or]AW[mq]AW[ql]AW[ol]AW[ml]AW[kg]AW[kh]AW[lf]AW[li]AW[jr]AB[kq]AW[kr]AW[ks]AW[lq]AW[kp]AW[hs]AB[hq]AW[is]AW[hr]AW[ir]AW[js]AB[gr]AB[gq]TR[gs]AP[goproblems]
+(;B[ja];W[gs]
+(;B[fs];W[fr])
+(;B[er];W[ka]C[you lose :(])
+(;B[la];W[dr])
+(;B[kb];W[dr]))
+(;B[kr];W[lr];B[is];W[ks];B[ja];W[ka];B[ia];W[kb];B[jm];W[bf];B[af];W[im];B[ls];W[ms];B[jm]C[];W[jg];B[im];W[jh]C[B+.5RIGHT])
+(;B[is];W[kr];B[ja];W[ka];B[ia];W[kb];B[jm];W[bf];B[af];W[im]
+(;B[jg]C[NOTTHIS])
+(;B[jh];W[jm];B[jg]C[w+ .5]))
+(;B[jm];W[is]C[you lose :(])
+(;B[lr];W[mr];B[gs];W[ls];B[ja];W[ka];B[ia];W[kb];B[jm];W[bf];B[af];W[im];B[ms];W[ns];B[jm];W[jh];B[im];W[jg]C[B + .5RIGHT])
+(;B[gs];W[lr];B[ja];W[ka];B[ia];W[kb];B[jm];W[bf];B[af];W[im]
+(;B[jh];W[jm];B[jg]C[w + .5])
+(;B[jg]C[NOTTHIS])))

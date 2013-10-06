@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[12k]DP[56]SO[lok]CO[7]AB[ca]AB[cb]AB[dc]AB[dd]AB[ce]AB[be]AB[ae]AW[de]AW[df]AW[cf]AW[bf]AW[cd]AW[cc]AW[bc]AW[bb]AB[ac]AW[aa]AW[bh]C[Black to win the semeai]AP[goproblems]
+(;B[ba]C[Good. B19 might look dumb, but it's the only move that works.RIGHT])
+(;B[ad];W[db]
+(;B[eb];W[af])
+(;B[ab];W[da]
+(;B[ba];W[aa])
+(;B[eb];W[ba])))
+(;B[bd];W[af])
+(;B[eb];W[ad];B[bd];W[af])
+(;B[db];W[ad];B[bd];W[af])
+(;B[ab];W[ad]))

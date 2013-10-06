@@ -1,0 +1,12 @@
+(;GE[endgame]DI[6k]DP[36]SO[thanush]CO[0]AB[qb]AB[qc]AB[pd]AB[od]AB[nd]AB[nc]AB[nb]AB[pe]AB[pg]AB[pf]AB[ph]AB[oh]AB[ng]AB[nf]AB[ne]AW[rb]AW[rc]AW[rd]AW[qd]AW[qf]AW[qg]AW[qh]AW[qi]AW[pi]AW[oi]AW[ni]AW[nh]AW[mg]AW[mf]AW[me]AW[mb]AW[lb]AW[md]AW[ob]C[Live and capture the marked stone]TR[ob]AP[goproblems]
+(;B[pa]
+(;W[na];B[oa]C[RIGHT])
+(;W[oa];B[na];W[pc]C[RIGHT]))
+(;B[oa];W[pa]
+(;B[na];W[qa];B[pc];W[pb];B[of])
+(;B[pb];W[na];B[oc];W[oa];B[qa];W[ma];B[of]C[B can do better]))
+(;B[na];W[pa]
+(;B[qa];W[pc])
+(;B[pc];W[qa];B[of])
+(;B[ra];W[pc];B[qa];W[pb]))
+(;B[pb];W[na];B[oc];W[oa];B[of]C[B can capture the stone]))

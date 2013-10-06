@@ -1,0 +1,12 @@
+(;GE[joseki]DI[4k]DP[30]SO[Spirit]CO[7]C[Black to play]AB[pp]AB[qo]AB[pq]AW[qq]AW[rp]AW[ql]
+(;B[ro];W[pr]
+(;B[rr]
+(;W[qr];B[or];W[rs];B[sr];W[so];B[rm];W[ps]C[Black can aim at the ko at A. If White prevents it by playing B Black can be satisfied with his thickness and connect at C or D.RIGHT]LB[rq:A]LB[qp:B]LB[po:C]LB[oo:D])
+(;W[or];B[qr];W[mq]))
+(;B[or];W[rr];B[ps];W[qs];B[qr]C[koRIGHT]))
+(;B[qr];W[rr]
+(;B[ro];W[pr]C[White lives.])
+(;B[qp];W[rq]
+(;B[pr];W[ro]C[Playable but Black can probably do better.RIGHT])
+(;B[ro];W[pr]C[];B[or];W[qs]C[Playable but Black can probably do better.RIGHT])))
+(;B[qm];W[pr];B[or];W[rr];B[ps];W[qr]LB[pl:A]LB[rl:B]LB[rn:X]LB[sm:X]C[Black can now play hane at A or B and get a good result. Please note that the points marked 'x' threaten to kill the corner.RIGHT]))

@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[2k]DP[22]SO[koike yoshihiro]CO[0]AW[pd]AW[mc]AW[qe]AB[qg]AB[qj]AW[og]AB[oj]AW[mj]AW[ql]AW[ph]AB[ni]AB[qh]AW[pi]AB[pj]AW[qi]AB[ri]AB[rg]AW[rj]AB[sh]AW[rk]AW[pm]AB[mi]AW[mg]AB[ng]AW[nh]AB[lg]AW[mh]AB[lh]AW[li]AB[nj]AB[re]AW[rd]AB[rf]AW[lj]AW[ml]AW[nm]TR[mi]TR[ni]TR[nj]TR[oj]TR[pj]TR[qj]AP[goproblems]
+(;B[oh];W[oi]
+(;B[mf]
+(;W[nf];B[pg]
+(;W[oh]C[CHOICE];B[of]C[RIGHT])
+(;W[ne];B[oh];W[ng]C[RIGHT])))
+(;B[pg];W[oh]
+(;B[of];W[mf])
+(;B[mf];W[of]))
+(;B[of];W[mf];B[pg];W[oh]))
+(;B[mf];W[oh]
+(;B[nf];W[of])
+(;B[of];W[nf]
+(;B[ne];W[pf])
+(;B[pg];W[ne])
+(;B[pf];W[ne])))
+(;B[pg];W[oh]
+(;B[of];W[mf])
+(;B[mf];W[of])))

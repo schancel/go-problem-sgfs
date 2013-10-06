@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[6k]DP[37]SO[frozenv7]CO[5]AB[dd]AB[pd]AB[dp]AW[oq]AB[qp]AW[po]AB[qo]AW[pn]AB[pq]AW[pp]AB[qq]AW[qn]AB[or]AW[nq]AW[qf]AB[nr]AB[mq]AW[mp]AB[np]AW[op]AB[lp]AW[mo]AB[lq]AW[cn]AB[cp]AW[ck]AB[cg]AW[nc]AB[oe]AW[qc]AB[pc]AW[pb]AB[ob]AW[qb]AW[re]AB[oc]AB[dc]AW[kc]AB[hc]AW[ke]AB[ld]AW[kd]AB[lc]AW[lb]AB[mb]AW[kb]AB[le]AW[lf]AW[mc]AB[nb]AB[me]AW[mf]AB[nd]AW[of]AB[pf]AW[pg]AB[nf]AW[og]AB[ng]AW[nh]AB[kf]AW[jf]AB[kg]AW[mg]AB[ne]AW[mh]AB[je]AW[jh]AB[jg]AW[if]AB[jd]LB[kf:1]LB[jf:2]LB[kg:3]LB[jh:8]LB[jg:9]LB[if:10]LB[mg:4]LB[ne:5]LB[mh:6]LB[je:7]LB[jd:11]C[Black cut at 1 and cut again at 7. White 10 is a nice dual propose move, threatening to capture either black 7 or 1. Black drew 7 out with 11 - white to capture the cutting stones.]AP[goproblems]
+(;W[ig];B[kh]
+(;W[ki];B[ji]
+(;W[ih];B[li];W[kj];B[lh]
+(;W[mj];B[lj];W[lk];B[kk];W[jj];B[mk];W[ll];B[mi];W[nj]C[And black resigns.RIGHT])
+(;W[lj];B[mi];W[nj]C[Black is trapped.RIGHT])
+(;W[mk]C[This also works. Remeber that when there are more than one way to capture the best sequence is the one that gives you the most thickness.RIGHT]))
+(;W[lh];B[ih];W[lg];B[jh]C[The spiral ladder is nice tesuji - but it doesn't work here :o(]))
+(;W[ji];B[li]
+(;W[lh];B[ki]C[How will you contain black now?])
+(;W[ki];B[lh];W[lj];B[mi]
+(;W[nj];B[mj];W[mk];B[lk];W[kj];B[nk];W[ml];B[ni];W[oj];B[oh]MA[lf]MA[mf]MA[mg]MA[mh]MA[nh]C[:o(])
+(;W[ni];B[mj];W[mk]C[];B[nj]C[The ladder will not work because of m13.])
+(;W[mj];B[ni];W[oi];B[nj]C[The ladder will not work because of m13.]))))
+(;W[ic];B[he]
+(;W[ig];B[kh];W[ki];B[ji];W[ih];B[li];W[kj];B[lh]
+(;W[mj];B[lj];W[lk];B[kk];W[jj];B[mk];W[ll];B[mi];W[nj]C[Right, but to exchange 1 for 2 was unnecessary and helped black.RIGHT]LB[ic:1]LB[he:2])
+(;W[lj];B[mi];W[nj]C[Right, but to exchange 1 for 2 was unnecessary and helped black.RIGHT]LB[ic:1]LB[he:2])
+(;W[mk]C[Right. Remeber that when there are more than one way to capture the best sequence is the one that gives you the most thickness. To exchange 1 for 2 was unnecessary and helped black.RIGHT]LB[ic:1]LB[he:2]))
+(;W[ie];B[id]
+(;W[ig];B[kh];W[ki];B[ih]C[:o(]MA[hg]MA[ji])
+(;W[jc];B[hd];W[ig];B[kh];W[ki];B[ih]MA[ji]MA[hg]C[:o(]))))

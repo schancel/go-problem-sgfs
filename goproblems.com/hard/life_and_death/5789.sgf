@@ -1,0 +1,52 @@
+(;GE[life and death]DI[5d]DP[4]SO[mrmoto]CO[8]AB[ab]AB[ba]AB[cc]AB[cd]AB[dd]AB[ed]AB[ec]AB[fb]AW[db]AW[af]AW[be]AW[bf]AW[ce]AW[de]AW[ee]AW[fd]AW[fc]AW[gc]AW[gb]AW[ga]AW[gf]C[Would you like (N)o hints, (S)ome hints, or (L)ots of hints?FORCE]LB[ch:N]LB[eh:S]LB[gh:L]AP[goproblems]
+(;W[ch];B[eh]C[Ok, good luck!]
+(;W[eb];B[cb])
+(;W[bd];B[bc])
+(;W[bc];B[bb])
+(;W[ac];B[cb])
+(;W[fa];B[cb])
+(;W[ea];B[cb])
+(;W[cb];B[eb]
+(;W[bb];B[bc]
+(;W[fa];B[da])
+(;W[ea];B[fa])
+(;W[da];B[ea])
+(;W[ca];B[fa]
+(;W[da];B[ac]C[Tough ko fight for white!])
+(;W[ad];B[ac])
+(;W[aa];B[ac]C[You made a hard ko fight one step harder ... :(])))
+(;W[bd];B[bc])
+(;W[bc];B[bb])
+(;W[da];B[bc])
+(;W[ca];B[bb])
+(;W[ea];B[fa])
+(;W[fa];B[ea]
+(;W[ca];B[bb])
+(;W[bd];B[bc])
+(;W[bc];B[bb])
+(;W[bb];B[bc]
+(;W[ca];B[da]C[You made the ko fight harder than it should be.])
+(;W[ac];B[ad]C[You made the ko fight harder than it should be.])
+(;W[ad];B[ac]
+(;W[bd];B[da])
+(;W[ca];B[bd]
+(;W[aa];B[ae]C[You made the ko fight harder than it should be. :(])
+(;W[ae]C[Good work! :)  It's now a tricky situation:  either player can start the ko, but at the penalty of the other side capturing first.RIGHT])))))))
+(;W[eh];B[ch]C[Ok.  E18 looks tempting, but it's not the right move.  Look towards the corner instead.];W[cb];B[eb]C[Good.  Now threaten to connect to one of your outer groups.];W[fa];B[ea];W[bb];B[bc]C[At some point, you'll want to play C19.  Not now though. :)];W[ad];B[ac]C[getting close ...];W[ca];B[bd]C[Now, A19 or A15?  One makes it messy; the other keeps it simple ...];W[ae]C[Good work! :)RIGHT])
+(;W[gh];B[eh]C[Ok.  The two stones in the corner are very close to making two eyes.  Prevent this, and keep your own stones connected.]TR[ab]TR[ba]
+(;W[cb];B[eb]C[Good.  Now reduce black's space by threatening to connect to G19.  Stay solid ...]TR[db]TR[ga]
+(;W[fa];B[ea]C[Now attack the corner -- make it hard for black to unite his stones.  Conversely, don't let your own stones get cut.]
+(;W[bb];B[bc]TR[bb]TR[be]C[Threaten to connect to B15; this will again reduce black's liberties.]
+(;W[ad];B[ac]C[Good work so far. :)  Now, time to fill up the eyespace and get a ko fight started.]
+(;W[ca];B[bd]C[A19 makes things messy, since black will just fight the other ko at A15.  Don't make things messy.]
+(;W[ae]C[Well done! :)RIGHT])
+(;W[aa];B[ae]C[You made things messy. :(]))
+(;W[da]C[This is not great.  It makes a seki, and is gote.  The good shape move is C19, which also attacks B19.])
+(;W[dc]C[This is not great.  It makes a seki, and is gote.  The good shape move is C19, which also attacks B19.]))
+(;W[bd];B[da]C[Doesn't threaten to connect.])
+(;W[ac];B[ad]C[Well, that threatened to connect, but it makes the ko fight harder for you.  The goal was just to reduce black's liberties.]))
+(;W[bc];B[bb]C[You were too aggressive in separating black's stones.]))
+(;W[da];B[bc]C[That doesn't threaten to connect.])
+(;W[ea];B[fa]C[That threatened to connect, but now white loses time saving E19.  You can't afford to give black sente.]))
+(;W[bc];B[bb]C[Black can easily keep the white stones separated.])
+(;W[eb];B[cb]C[Black will happily sacrifice F18 to save the rest of the group.])))

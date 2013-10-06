@@ -1,0 +1,32 @@
+(;GE[life and death]DI[7k]DP[42]SO[remembered]CO[0]AB[nq]AB[op]AB[mo]AB[po]AB[qo]AB[qp]AB[qn]AB[rp]AB[rq]AB[sr]AB[qr]AB[pr]AW[rs]AW[rr]AW[or]AW[nr]AW[oq]AW[pq]AW[qq]AW[pp]AW[oo]AW[no]AW[nn]AW[pn]SZ[19]AB[np]C[B to kill W marked stone. easy ^^.  This is in beginning of real game and another position on the board are empty except J6 was made.]MA[or]MA[nr]MA[oq]MA[pq]MA[qq]MA[pp]AB[in]LB[sr:1]LB[rs:2]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;B[mr]
+(;W[mq]
+(;B[mp]
+(;W[lr]
+(;B[ms];W[ps]
+(;B[ns];W[qs];B[lq]C[RIGHT])
+(;B[lq];W[qs];B[ns]C[RIGHT]))
+(;B[lq];W[ms]
+(;B[kr];W[mq])
+(;B[os];W[mq])
+(;B[mq];W[ns]
+(;B[kr];W[ps])
+(;B[ps];W[jr]))))
+(;W[ps];B[ns];W[qs];B[lq]C[RIGHT])
+(;W[lq]C[RIGHT]
+(;B[os]C[RIGHT])
+(;B[ns]C[RIGHT])
+(;B[ms];W[ps];B[ns];W[qs];B[kr];W[lr];B[ls];W[kq];B[jr];W[ks];B[js]
+(;W[os];B[ks];W[jq];B[ir]C[Credit to BartTM and MALRIGHT])
+(;W[jq];B[ir];W[mn];B[lo];W[kn];B[ko];W[jo];B[jn];W[ln];B[jp];W[io];B[ip];W[ho];B[iq]C[Credit to BartTM and MALRIGHT]))))
+(;B[ns];W[mp])
+(;B[lq];W[mp]))
+(;W[ps];B[ns];W[qs]
+(;B[mq]C[RIGHT])
+(;B[lq]C[RIGHT])
+(;B[mp]C[RIGHT])
+(;B[lr]C[RIGHT])))
+(;B[lq];W[mr]
+(;B[lr];W[ps])
+(;B[ps];W[lr]))
+(;B[mq];W[mr]))

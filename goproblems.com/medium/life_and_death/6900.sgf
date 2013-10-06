@@ -1,0 +1,21 @@
+(;GE[life and death]DI[3d]DP[11]SO[hello]CO[5]SZ[19]AW[rl]AW[on]AW[pn]AW[qn]AW[rn]AW[no]AW[so]AW[mp]AW[qp]AW[rp]AW[iq]AW[kq]AW[mq]AW[oq]AW[mr]AW[qr]AB[mo]AB[po]AB[qo]AB[ro]AB[np]AB[op]AB[pp]AB[nq]AB[pq]AB[nr]AB[pr]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]PW[White]PB[Black]
+(;B[qq];W[rr];B[rq];W[sq])
+(;B[rr];W[qq]
+(;B[qs];W[rs]
+(;B[ss];W[sq])
+(;B[rq];W[sp];B[ss];W[sq])
+(;B[sq];W[ps]
+(;B[sp];W[ns])
+(;B[os];W[rq])))
+(;B[sq]
+(;W[rs]
+(;B[sp];W[sn]
+(;B[ps];W[qs]
+(;B[ss];W[sr]C[Correct - ko is the best black can get.RIGHT])
+(;B[sr]))
+(;B[ss];W[sr]LB[nn:A]C[Please play a ko threat at 'A'];B[nn];W[oo];B[ss];W[qs];B[ps];W[sr]C[This is close to correct, but worse than the correct solution because black has used up an extra ko threat.]))
+(;B[ps];W[sp];B[qs];W[sn];B[ss];W[rq]))
+(;W[sp];B[qs]
+(;W[sn];B[rq]C[RIGHT])
+(;W[rs];B[ss];W[sn];B[rq]C[RIGHT]))))
+(;B[sq];W[rr]))

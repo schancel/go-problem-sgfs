@@ -1,0 +1,13 @@
+(;GE[best move]DI[4k]DP[29]SO[Field Mouse]CO[0]SZ[13]AW[db]AW[dc]AW[dd]AW[de]AW[ea]AW[fb]AW[gb]AW[hb]AW[fc]AW[fd]AW[gd]AW[ic]AB[gc]AB[hc]AB[hd]AB[id]AB[ib]AB[jb]AB[kc]AB[ie]AB[eb]AB[ec]AB[ed]AB[ee]AB[ef]AB[cc]AB[cd]AB[cg]AB[bg]AW[bh]AW[ch]AW[cj]AW[ck]AB[dj]AB[dk]AB[dh]AB[gj]AW[ik]AW[kj]AW[kg]AB[di]AW[ci]AW[he]AW[bf]MA[bf]C[What should black play now?]AW[cl]AB[dl]AP[goproblems]
+(;B[ce]
+(;W[df];B[cf];W[eg]
+(;B[ff]C[];W[gf];B[fg]C[This looks fine: A and B are miai, black kept some points on the left and white still needs to connect to the lower right group.RIGHT]LB[cb:A]LB[dg:B])
+(;B[ge];W[ff]C[Ouch]))
+(;W[cf]C[NOTTHIS];B[df];W[ag];B[cb];W[da];B[gf]C[White cannot play this way.RIGHT]))
+(;B[df];W[ce]C[The loss in the corner is too big])
+(;B[cf];W[ce];B[be];W[bd];B[af];W[bc]C[White gets a big corner. You could do better.])
+(;B[be];W[ce];B[bd];W[cf]
+(;B[dg];W[ag]C[Black could do better.])
+(;B[ag];W[af];B[dg];W[bb]C[This is painful]))
+(;B[ah];W[ai];B[ag];W[cf];B[df];W[af];B[dg];W[ce]C[As black cannot kill the lower left, this is painful.])
+(;B[cb];W[ce];B[ag];W[bd];B[ba];W[da]C[Painful]))

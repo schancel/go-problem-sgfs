@@ -1,0 +1,55 @@
+(;GE[life and death]DI[5k]DP[32]SO[varg]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[0.5]
+PW[]
+PB[]
+GN[ (W) vs.  (B)]
+DT[2002-04-20]
+SY[Cgoban 1.9.5]TM[-];
+C[Black played at A and White played B. He didn´t like R17 which leads to a ko (I hope this is correct). But was his defense at B a good choice? If you can kill, do so. If not play at C.
+]
+LB[rc:A][rb:B]AW[pb][qb][rb][pc][qd][qe][re]
+AB[ob][oc][rc][pd][pe][pf][qf][rf][rh]LB[ph:C]
+(;B[ph]C[well, black could kill. sorry ...
+])
+
+(;B[sd];W[se];B[qc]
+C[RIGHT
+This sequence forced my 2dan opponent to resign, hardly 30 moves beeing played.
+Well it was a leisurely handicap game late in the evening, but it still felt great :-) .
+])
+
+(;B[sb];W[sd]
+(;B[sc];W[qc];B[pa];W[qa]C[
+]
+(;B[oa];W[rd]C[white alive
+])
+
+(;B[sa];W[oa]C[white alive
+])
+)
+
+(;B[pa]
+(;W[sc];B[ra];W[sa]C[ko, black can do better.
+])
+
+(;W[qc];B[sc];W[qa]C[
+]
+(;B[sa];W[oa]C[W alive
+])
+
+(;B[oa];W[rd]C[W alive
+])
+)
+)
+)
+
+(;B[sc];W[sb];B[se];W[sd];B[rd];W[qc]C[W alive
+])
+
+(;B[rd];W[sd];B[sc];W[sb];B[se];W[qc]C[W alive
+])
+
+(;B[se];W[sd];B[sc];W[sb];B[rd];W[qc]C[W alive
+])
+
+)

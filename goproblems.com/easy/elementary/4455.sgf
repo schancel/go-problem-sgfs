@@ -1,0 +1,29 @@
+(;GE[elementary]DI[25k]DP[76]SO[ifong]CO[8]AB[ca]AB[cb]AB[dc]AB[dd]AB[ed]AB[fc]AB[gc]AB[hd]AB[ie]AB[ic]AB[da]AW[ba]AW[bb]AW[cc]AW[cd]AW[de]AW[ee]AW[fd]AW[gd]AW[ge]AW[he]C[Black is not as secure as it looks.  White to capture some stones.]
+(;W[eb]C[]
+(;B[ec]
+(;W[db]C[];B[fb];W[ea]C[. got three stonesRIGHT])
+(;W[ea];B[db]))
+(;B[ea]
+(;W[ec]C[RIGHT])
+(;W[fa]C[RIGHT])
+(;W[db]C[RIGHT])
+(;W[fb]C[RIGHT]))
+(;B[fb]
+(;W[ec]C[RIGHT])
+(;W[db]C[RIGHT])
+(;W[ea]C[RIGHT]))
+(;B[db];W[ec]C[];B[fb];W[ea]C[. black was not smart, you got 7 stonesRIGHT]))
+(;W[fb];B[eb]C[Too far in.])
+(;W[ea];B[db]C[Black connects his weak groups.])
+(;W[ec];B[eb])
+(;W[db];B[eb])
+(;W[hc]
+(;B[hb]
+(;W[eb]C[RIGHT])
+(;W[id];B[eb]))
+(;B[eb];W[id]C[RIGHT]))
+(;W[id]
+(;B[jd]
+(;W[hc];B[eb];W[id];B[hb])
+(;W[eb]C[RIGHT]))
+(;B[eb];W[hc]C[RIGHT])))

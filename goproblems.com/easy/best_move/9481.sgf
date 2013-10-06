@@ -1,0 +1,15 @@
+(;GE[best move]DI[10k]DP[52]SO[Drai]CO[8]AB[of]AB[oj]AB[oi]AB[oh]AB[og]AB[pf]AB[qe]AB[re]AB[rd]AW[qf]AW[rf]AW[pg]AW[ph]AW[pi]AW[pj]AB[qg]AB[pk]AB[qj]AW[qk]AW[ql]AW[ol]AW[pe]AW[oe]AW[nf]AW[nd]AB[pd]AB[pc]AW[qd]C[Black put at 1, and White answer at 2, punish White in the best way as possible]AW[qh]LB[qg:1]LB[qh:2]AP[goproblems]
+(;B[rh];W[rg]C[white couldn'tﾂｴt see so far (  in the real game he saw ^_^ ) , you need to show him]
+(;B[qi];W[qg]
+(;B[sg]C[RIGHT])
+(;B[sf]C[RIGHT])
+(;B[ri]C[RIGHT])
+(;B[rj]C[RIGHT])
+(;B[rk];W[ri];B[rj];W[sh];B[rl];W[rm]C[you die first];B[sf];W[sj];B[se];W[sl]))
+(;B[ri]C[RIGHT]))
+(;B[rg];W[rh];B[sf]C[you call this 'punish him'???])
+(;B[qi];W[rh];B[rj];W[rk];B[sf];W[rg])
+(;B[ri];W[rh])
+(;B[sf];W[rg])
+(;B[sg];W[rg])
+(;B[rj];W[rg];B[qi];W[ri];B[si];W[rh];B[rk];W[rl]))

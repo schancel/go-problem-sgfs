@@ -1,0 +1,97 @@
+(;GE[life and death]DI[3k]DP[26]SO[Karen B]CO[0]AB[sb]AB[rc]AB[rd]AB[qd]AB[pd]AB[od]AB[nc]AB[mc]AB[kc]AW[nb]AW[oc]AW[pc]AW[qc]AW[rb]AW[ra]C[Black to play and make the best results: seki, ko, death, etc.FORCE]LB[sa:A]AP[goproblems]
+(;B[pb];W[pa]
+(;B[oa];W[qb];B[qa]C[Correct. The result is ko.RIGHT])
+(;B[qb];W[ob]C[White lives.CHOICE])
+(;B[ob];W[qb]C[White lives.CHOICE])
+(;B[mb];W[na]
+(;B[ob];W[qb]C[White lives.CHOICE])
+(;B[qb];W[ob]C[White lives.CHOICE])
+(;B[oa];W[ob]C[White lives.CHOICE])
+(;B[qa];W[qb]C[White lives.CHOICE])
+(;B[sc];W[qb]C[White lives.CHOICE])
+(;B[ma];W[qb]C[White lives.CHOICE])))
+(;B[na]
+(;W[mb]
+(;B[ob];W[pb];B[pa]C[Correct. Black starts a ko.RIGHT])
+(;B[oa];W[pb]
+(;B[pa];W[qa]C[White lives.CHOICE])
+(;B[ma];W[lb]
+(;B[pa];W[qa]C[White lives.CHOICE])
+(;B[sc];W[pa]C[White lives.CHOICE]))
+(;B[lb];W[ma]
+(;B[la];W[ob]C[White lives.CHOICE])
+(;B[pa];W[qa]C[White lives.CHOICE]))
+(;B[sc];W[pa]C[White lives.CHOICE]))
+(;B[pa];W[ob]
+(;B[qb];W[pb]
+(;B[lb];W[qa]C[White lives.CHOICE])
+(;B[qa];W[oa]LB[lb:a]LB[qa:b]C[White lives. a and b are miai.])
+(;B[sc];W[qa]C[White lives.CHOICE]))
+(;B[oa];W[lb]
+(;B[sc];W[pb])
+(;B[qb];W[pb]C[White lives.CHOICE])
+(;B[qa];W[ma]C[White lives.CHOICE]))
+(;B[sc];W[oa]
+(;B[qb];W[pb];B[lb];W[ma];B[la];W[qa]C[White lives.CHOICE])
+(;B[sa];W[qb]C[White lives.CHOICE]))
+(;B[lb];W[ma]
+(;B[oa];W[qa]C[White lives.CHOICE])
+(;B[sc];W[oa]C[White lives.CHOICE])
+(;B[qb];W[pb];B[sc];W[qa]C[White lives.CHOICE]))
+(;B[pb];W[oa]C[White lives.CHOICE])
+(;B[qa];W[oa]C[White lives.CHOICE]))
+(;B[pb];W[ob];B[oa];W[pa]C[White lives.CHOICE])
+(;B[qb];W[pb];B[pa];W[qa]C[White lives.CHOICE])
+(;B[qa];W[pa]
+(;B[pb];W[qb]C[White lives.CHOICE])
+(;B[oa];W[pb];B[sc];W[qb]C[White lives.CHOICE]))))
+(;B[mb];W[na]C[White lives in the comb formation.CHOICE])
+(;B[ob];W[pb]C[White lives.CHOICE])
+(;B[qb];W[pb]C[White lives.CHOICE])
+(;B[qa];W[pa]
+(;B[mb];W[na]C[White lives.CHOICE])
+(;B[pb];W[qb]C[White lives.CHOICE])
+(;B[ob];W[pb]C[White lives.CHOICE]))
+(;B[ma];W[na]
+(;B[pa];W[pb];B[mb];W[qa]C[White lives.CHOICE])
+(;B[pb];W[pa]
+(;B[ob];W[qb]C[White lives.CHOICE])
+(;B[qb];W[ob]C[White lives.CHOICE])))
+(;B[sc];W[pb]
+(;B[mb];W[na]C[White lives.CHOICE])
+(;B[pa];W[oa]C[White lives.CHOICE])
+(;B[oa];W[pa]C[White lives.CHOICE])
+(;B[na];W[oa]C[White lives.CHOICE])
+(;B[qa];W[pa]C[White lives.CHOICE])
+(;B[ma];W[na]C[White lives.CHOICE]))
+(;B[pa];W[pb]
+(;B[oa];W[qa]C[White lives.CHOICE])
+(;B[qa];W[oa]C[White lives.CHOICE])
+(;B[na];W[ma]
+(;B[mb];W[oa]
+(;B[la];W[qa];B[na];W[ob]C[White lives.CHOICE])
+(;B[qa];W[ka]C[White lives.CHOICE])
+(;B[sc];W[ka]C[White lives.CHOICE]))
+(;B[ob];W[oa]C[White lives.CHOICE])
+(;B[oa];W[mb];B[sc];W[qa]C[White lives.CHOICE])
+(;B[qa];W[mb]C[White lives.CHOICE])
+(;B[sc];W[mb]
+(;B[sa];W[oa]C[White lives.CHOICE])
+(;B[qa];W[oa]C[White lives.CHOICE])))
+(;B[sc];W[oa]C[White lives.CHOICE]))
+(;B[oa];W[pb]
+(;B[pa];W[qa]C[White lives.CHOICE])
+(;B[qa];W[pa]C[White lives.CHOICE])
+(;B[sc];W[na]LB[pa:a]LB[sa:b]C[White lives. a and b are miai.CHOICE])
+(;B[na];W[mb]
+(;B[lb];W[ma]
+(;B[pa];W[qa]C[White lives.CHOICE])
+(;B[qa];W[pa]C[White lives.CHOICE])
+(;B[la];W[ob]C[White lives.CHOICE]))
+(;B[ma];W[lb]C[White lives.CHOICE])
+(;B[pa];W[qa]C[Whitle lives.CHOICE]))
+(;B[ob];W[na]C[White lives.CHOICE])
+(;B[qb];W[mb];B[lb];W[na]C[White lives.CHOICE])
+(;B[mb];W[na]
+(;B[ma];W[ob]C[White lives.CHOICE])
+(;B[pa];W[qa]C[White lives.CHOICE]))))

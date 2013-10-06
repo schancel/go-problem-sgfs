@@ -1,0 +1,34 @@
+(;GE[endgame]DI[6k]DP[39]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[aj][bj][cj][ck][cl][cm][cn][en][do][dp][dq][cr][dr][er][fr]
+AB[ak][bk][bl][am][bm][bn][ao][bo][co][cp][cq][br][cs]PL[2]
+C[white to play in the bottom left -- largest yose.
+]
+(;W[ds];B[bs])
+
+(;W[bs];B[as];W[ds]
+C[RIGHT
+black will eventually have to connect at B3
+])
+
+(;W[ar];B[bs];W[bq];B[bp];W[aq];B[ap]C[this does nothing for white.
+])
+
+(;W[bq];B[bs]
+(;W[ds];B[aq])
+
+(;W[ar];B[bp];W[aq];B[ap])
+
+(;W[aq];B[bp]
+(;W[ds];B[ap])
+
+(;W[ar];B[ap])
+)
+)
+
+)

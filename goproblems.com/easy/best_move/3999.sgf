@@ -1,0 +1,9 @@
+(;GE[best move]DI[4k]DP[30]SO[caleb]CO[6]AB[af]AB[bg]AB[cf]AB[df]AB[eg]AB[ci]AW[cj]AW[dj]AW[fh]AW[gh]AW[fg]AW[hg]AW[ig]AW[ef]AW[de]AW[dd]AW[dc]AW[ce]AW[eb]AB[be]AW[bd]AW[bc]AB[cc]AB[cd]AB[db]MA[fg]C[White has just played the marked move. Punish him for his mistake.]AP[goproblems]
+(;B[cb];W[fe];B[bb]C[Black saves his stones and takes the corner. Also, he has a move at square later that is double (or double-double?) sente.RIGHT]MA[ea])
+(;B[ee];W[ff]
+(;B[ec];W[cb]C[Black loses the corner.])
+(;B[cb];W[fc];B[bb]C[Black takes the corner, but there is another way that gives you more potential on the top, please check.]))
+(;B[ec];W[cb]C[Black has lost the corner and has no good follow-up. His group is small and weak.])
+(;B[ff];W[ee]C[Black has no good follow-up.])
+(;B[fe];W[ee];B[ff];W[cb]C[Black loses the corner and has no good follow-up.])
+(;B[aa]C[I'm worried about you.]))

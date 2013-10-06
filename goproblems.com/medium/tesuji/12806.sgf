@@ -1,0 +1,59 @@
+(;GE[tesuji]DI[2d]DP[13]SO[Clydevil]CO[0]AB[bq]AB[bp]AB[cq]AB[dq]AB[fq]AB[gp]AB[hp]AB[ho]AB[hn]AB[gn]AB[io]AB[jp]AB[jr]AB[kn]AB[ln]AB[lm]AB[lq]AB[oq]AB[ml]AB[mk]AB[lk]AB[fm]AB[fl]AB[gk]AB[hk]AB[hi]AB[fi]AB[dj]AB[di]AB[ci]AB[dn]AW[cj]AW[bj]AW[dk]AW[dl]AW[cn]AW[bo]AW[cp]AW[dp]AW[eo]AW[en]AW[fn]AW[gm]AW[gl]AW[il]AW[im]AW[in]AW[jn]AW[jo]AW[km]AW[kl]AW[jk]AW[kk]AW[ll]AW[kj]AW[lj]AW[mj]AW[nk]AW[mm]AW[ol]AW[ip]AW[iq]AW[hq]AW[er]C[Black is in a difficult position, help him.]AB[oo]AP[goproblems]
+(;B[eq];W[gq]
+(;B[fo];W[jq]
+(;B[kp];W[fr]
+(;B[kr];W[gs]C[You did not make black happy.])
+(;B[ir];W[hr]
+(;B[kr];W[gs]C[You did not make black happy.])
+(;B[kq];W[gs]C[You did not make black happy.])))
+(;B[fr];W[kp]C[You did not make black happy.]))
+(;B[fp]LB[fo:A]C[Do at least an eye at A. Eyes are important in go. :p])
+(;B[jq];W[fp])
+(;B[ep]C[NOTTHIS]))
+(;B[fp];W[fr]
+(;B[gr];W[jq];B[kp];W[kq]
+(;B[lp]
+(;W[gq]C[CHOICE]
+(;B[hr];W[kr];B[ir];W[eq]
+(;B[ep];W[hm]
+(;B[lr]C[Good boy !RIGHT])
+(;B[ks]C[Good boy !RIGHT]))
+(;B[lr];W[ep]C[You cannot be serious !]))
+(;B[eq];W[hr];B[kr];W[gs]C[You did not make black happy.])
+(;B[kr];W[hr]
+(;B[eq];W[gs]C[You did not make black happy.])
+(;B[gs];W[eq]
+(;B[ep];W[hs])
+(;B[hs]C[You cannot be serious !];W[ep]))))
+(;W[hr]C[CHOICE]
+(;B[kr];W[eq];B[ep];W[gq])
+(;B[eq];W[gq];B[kr];W[gs])
+(;B[gq];W[eq];B[ep];W[gs]
+(;B[kr];W[hm]
+(;B[ir];W[hs]
+(;B[is];W[fs];B[dr]C[Congrats !RIGHT])
+(;B[fs]C[NOTTHIS]))
+(;B[hs]C[NOTTHIS])
+(;B[fs]C[NOTTHIS]))
+(;B[dr]C[NOTTHIS])
+(;B[fs]C[NOTTHIS])
+(;B[hs]C[NOTTHIS]))))
+(;B[kr];W[lp]C[Oops.])
+(;B[mp]C[NOTTHIS]))
+(;B[jq];W[eq];B[ep];W[gq])
+(;B[gq];W[eq];B[ep];W[gr])
+(;B[eq]C[Beurk ! Starting at K3 no problem for white to live.]))
+(;B[ep];W[fr]
+(;B[gr];W[jq];B[kp];W[kq]
+(;B[lp];W[gq]
+(;B[hr];W[kr];B[ir];W[fp]
+(;B[eq];W[fo]
+(;B[lr]C[Good boy !RIGHT])
+(;B[ks]C[Good boy !RIGHT]))
+(;B[fo];W[eq];B[fp];W[hm]))
+(;B[eq];W[hr];B[kr];W[gs])
+(;B[kr];W[eq];B[fp];W[hr]))
+(;B[kr];W[lp]C[Oops !])
+(;B[mp]C[NOTTHIS]))
+(;B[jq];W[eq];B[fp];W[gq]))
+(;B[jq];W[eq]C[You cannot be serious !]))

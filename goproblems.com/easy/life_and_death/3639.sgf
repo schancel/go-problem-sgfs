@@ -1,0 +1,44 @@
+(;GE[life and death]DI[7k]DP[44]SO[unkx80]CO[7]C[White to play.]AB[br]AB[bq]AW[ap]AW[bp]AW[cp]AW[cq]AW[cr]AW[dr]AW[er]AW[es]AB[ao]AB[bo]AB[co]AB[do]AB[dp]AB[dq]AB[eq]AB[fq]AB[fr]AB[fs]AP[goproblems]
+(;W[cs]
+(;B[bs]
+(;W[aq]C[White lives unconditionally.RIGHT])
+(;W[ar]C[White lives unconditionally.RIGHT])
+(;W[as];B[ar]C[Seki.]))
+(;B[aq]
+(;W[bs]C[White lives unconditionally.RIGHT])
+(;W[as]C[White lives unconditionally.RIGHT])
+(;W[ar];B[as]C[Seki.]))
+(;B[ar]
+(;W[bs]C[White lives unconditionally.RIGHT])
+(;W[aq]C[White lives unconditionally.RIGHT])
+(;W[as];B[bs]C[Seki.]))
+(;B[as]
+(;W[aq]C[White lives unconditionally.RIGHT])
+(;W[bs]C[White lives unconditionally.RIGHT])
+(;W[ar];B[aq]C[Seki.])))
+(;W[bs];B[cs]
+(;W[ds];B[ar]C[Seki.])
+(;W[aq];B[as]C[Seki.])
+(;W[ar];B[as]C[Ko.])
+(;W[as];B[ar]
+(;W[bs];B[as]C[Seki.])
+(;W[ds];B[aq]C[White dies.])
+(;W[aq];B[ds]C[White dies.])))
+(;W[ar];B[cs]
+(;W[aq];B[bs]C[Seki.])
+(;W[bs];B[as]C[Ko.])
+(;W[as];B[bs]C[White dies.])
+(;W[ds];B[aq]C[White dies.]))
+(;W[aq];B[cs]
+(;W[ar];B[bs]C[Seki.])
+(;W[bs];B[as]C[Seki.])
+(;W[ds];B[ar]C[White dies.])
+(;W[as];B[bs]C[White dies.]))
+(;W[as];B[cs]
+(;W[bs];B[ar]
+(;W[bs];B[as]C[Seki.])
+(;W[ds];B[aq]C[White dies.]))
+(;W[aq];B[bs]C[White dies.])
+(;W[ar];B[bs]C[White dies.])
+(;W[ds];B[aq]C[White dies.]))
+(;W[ds];B[aq]C[White dies.]))

@@ -1,0 +1,50 @@
+(;GE[tesuji]DI[1k]DP[19]SO[bass]CO[7]AB[kq]AB[lq]AB[jp]AB[jo]AW[jq]AW[iq]AW[hp]AB[ho]AB[go]AW[gq]AW[fq]AW[kp]AW[ln]AB[lm]AB[mm]AB[nm]AW[om]AW[nq]AB[km]AB[jm]AB[im]AB[hm]AW[on]AW[oq]AW[pp]AW[po]AB[gm]TR[kq]TR[lq]AB[oo]AW[qn]AP[goproblems]
+(;W[lp];B[mp]
+(;W[lo]
+(;B[mo];W[mq];B[mr]
+(;W[ls];B[jr]
+(;W[ks]C[Well done, the marked stones are captured.RIGHT]TR[kq]TR[lq])
+(;W[lr];B[kr];W[ir];B[ms])
+(;W[kr];B[lr]
+(;W[js];B[ks]C[ko])
+(;W[ks];B[js]))
+(;W[nr];B[kr]))
+(;W[nr];B[jr]
+(;W[ir];B[mn])
+(;W[lr];B[kr];W[ms];B[mn])
+(;W[ls];B[kr])
+(;W[ks];B[kr]
+(;W[ms];B[mn])
+(;W[ls];B[mn])
+(;W[ir];B[ls]))
+(;W[kr];B[lr];W[ks];B[js]))
+(;W[mn];B[nn])
+(;W[kr];B[lr]
+(;W[jr];B[mn])
+(;W[nr];B[jr];W[ms];B[ks];W[ns];B[ls]
+(;W[ir];B[mn])
+(;W[is];B[ir];W[hr];B[mn]))
+(;W[ls];B[jr]
+(;W[js];B[ks]C[ko])
+(;W[ks];B[js])))
+(;W[jr];B[lr])
+(;W[lr];B[kr];W[jr];B[ls];W[js];B[ks]
+(;W[nr];B[mn])
+(;W[ns];B[nr];W[or];B[mn]))
+(;W[ks];B[lr])
+(;W[ms];B[jr];W[ir];B[nr];W[lr];B[kr];W[ks];B[ls]C[ko]))
+(;B[mq]C[This response is here for reference only.];W[mo];B[no];W[nn];B[np];W[mn]C[];B[nr];W[or];B[jr];W[ir]C[Black is dead.RIGHT]))
+(;W[mo];B[lo];W[ko];B[kn];W[lo];B[no])
+(;W[mq];B[lo]
+(;W[kr];B[lr];W[ls]
+(;B[ko];W[mr])
+(;B[mr];W[nr];B[ko];W[ms]C[Connected in gote, but black escaped.]))
+(;W[lr];B[kr];W[ks];B[jr];W[ir];B[ko];W[js]C[Connected in gote, but black escaped.]))
+(;W[kn];B[lo];W[ko];B[mn];W[mo];B[jn]))
+(;W[lo];B[lp];W[ko];B[mo])
+(;W[ko];B[mp]
+(;W[mn];B[nn])
+(;W[mo];B[no]))
+(;W[mo];B[lp])
+(;W[mp];B[lp])
+(;W[mn];B[lp];W[ko];B[kn];W[lo];B[nn];W[mo];B[mp]))

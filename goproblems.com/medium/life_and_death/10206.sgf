@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3d]DP[11]SO[Edgardo]CO[4]AB[qb]AB[pb]AB[pc]AB[pe]AB[oe]AB[nf]AB[mf]AB[kf]AB[kd]AB[jb]AB[kb]AW[pa]AW[ob]AW[oc]AW[od]AW[ne]AW[me]AW[le]AW[ld]AW[lc]AW[lb]AW[la]AB[oa]AB[nb]AB[ma]AB[lf]AB[ke]AB[kc]AB[pd]C[White to do his best.]AP[goproblems]
+(;W[na]
+(;B[rf]LB[sf:K]C[Please answer the ko threat at K.CHOICE];W[sf];B[oa]LB[se:K]C[Play at K if you want to use a Ko threat.]
+(;W[nc];B[mc];W[na]C[Great! Now black has to find a second ko threat.RIGHT])
+(;W[se]C[No need to start wasting Ko threats yet.])
+(;W[mb];B[nd];W[na];B[nc];W[oa];B[qa]))
+(;B[nc]
+(;W[nd];B[oa];W[mb];B[qa];W[mc]C[RIGHT])
+(;W[mb];B[nd]))
+(;B[mb];W[nc];B[oa];W[mc];B[qa];W[na]C[RIGHT])
+(;B[nd]
+(;W[nc];B[oa];W[md]C[RIGHT])
+(;W[mb])))
+(;W[nc];B[mc]
+(;W[na];B[rf]LB[sf:K]C[Please answer the ko threat at K.];W[sf];B[oa]C[And if you don't have any Ko threats?];W[nd];B[mb]C[White is dead.])
+(;W[nd];B[mb]C[White has a dead shape.]))
+(;W[mb];B[nd];W[na];B[nc];W[oa];B[qa];W[ma]C[Dead shape.])
+(;W[mc];B[qa]C[Black wins.])
+(;W[md];B[qa]C[Black wins.])
+(;W[nd];B[qa]C[Black wins.]))

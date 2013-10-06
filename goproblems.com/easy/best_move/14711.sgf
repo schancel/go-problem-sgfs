@@ -1,0 +1,15 @@
+(;GE[best move]DI[8k]DP[48]SO[piccolo]CO[0]AB[cc]AB[dc]AB[cd]AB[be]AB[cf]AB[cg]AW[ce]AW[dd]AW[df]AW[dg]AW[ch]AW[di]AB[fd]AW[kc]AW[nc]AW[oc]AW[pc]AW[qc]AB[qd]AB[pd]AB[od]AB[me]AB[pi]AB[qj]AB[rk]AB[sj]AB[ql]AB[pl]AW[rl]AW[sl]AW[sk]AW[qm]AW[rn]AW[ro]AW[po]AW[qo]AW[on]AW[om]AW[np]AW[op]AW[or]AW[oq]AB[no]AB[oo]AB[mp]AB[mq]AB[jp]AB[jn]AW[hn]AW[gq]AW[fq]AW[eq]AW[fr]AB[ep]AW[dp]AW[do]AW[co]AW[bn]AW[cm]AB[bo]AB[ap]AB[cp]AB[cq]AB[dq]AB[er]AB[pp]AB[pq]AB[pr]AB[qp]AB[rq]AB[rr]AB[sp]AW[rp]C[Would you play the ladder at N5 ? Tenuki at K10 if not.FORCE]LB[mo:L]LB[jj:T]AP[goproblems]
+(;W[mo];B[nn]
+(;W[mn];B[nm];W[nl];B[mm];W[lm]AB[ml]AW[mk]AB[ll]AB[lk]AB[kk]AB[kj]AB[jj]AB[ji]AB[ii]AB[ih]AB[hh]AB[hg]AB[gg]AB[gf]AW[lj]AW[ki]AW[jh]AW[ig]AW[hf]AW[ge]AW[kl]AW[jk]AW[ij]AW[hi]AW[gh]AW[fg];B[ff]
+(;W[fe];B[ef]
+(;W[ee];B[eg]
+(;W[eh]C[Nice !RIGHT])
+(;W[fh];B[eh]
+(;W[ei]C[RIGHT])
+(;W[dh];B[ei];W[ej];B[fi];W[gi];B[fj];W[fk];B[gj];W[hj];B[gk];W[gl];B[hk];W[ik];B[hl]
+(;W[hm];B[il];W[jl];B[im];W[in];B[jm]C[Oops ^^])
+(;W[il];B[hm];W[im];B[gm]))))
+(;W[eg];B[ee];W[ed];B[de];W[ce]C[Nice !RIGHT]))
+(;W[ef];B[fe]C[Oops.]))
+(;W[nm];B[mn];W[ln];B[lo];W[mm];B[mo]))
+(;W[jj]C[No need for K10, the ladder worked.]))

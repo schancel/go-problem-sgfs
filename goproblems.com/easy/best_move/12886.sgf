@@ -1,0 +1,24 @@
+(;GE[best move]DI[10k]DP[51]SO[stoone]CO[0]SZ[19]AW[ba]AW[bb]AW[cc]AW[cd]AW[be]AW[ce]AW[cf]AW[ag]AW[bg]AB[cb]AB[db]AB[dc]AB[bd]AB[dd]AB[de]AB[df]AB[cg]AB[dg]AB[ah]AB[bh]C[Is there any defect in white's group?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ae]
+(;W[ac]C[CHOICE]
+(;B[bf]
+(;W[bc]LB[ei:Tenuki
+]
+(;B[af];W[ad]C[RIGHT])
+(;B[ad];W[af])
+(;B[ei]LB[af:A]C[RIGHT])))
+(;B[af]C[];W[bc];B[bf]))
+(;W[bc]C[CHOICE]
+(;B[bf];W[ad];B[af]C[RIGHT])
+(;B[ad];W[bf])
+(;B[ac])))
+(;B[af];W[bf]
+(;B[bc];W[ae]
+(;B[ad];W[ac])
+(;B[ac];W[ab];B[ca];W[ad]))
+(;B[ae];W[bc]))
+(;B[bf];W[af];B[ad];W[ae])
+(;B[bc];W[ae];B[ac];W[ab];B[ca];W[ad])
+(;B[ac];W[bc]
+(;B[ae];W[bf];B[ab];W[af];B[ad];W[aa])
+(;B[ad];W[ae])))

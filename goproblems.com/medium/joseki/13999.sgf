@@ -1,0 +1,36 @@
+(;GE[joseki]DI[3d]DP[10]SO[DarkSycthe]CO[0]AB[pe]AW[pc]AB[nc]AW[od]AB[qc]AW[qb]AB[rb]LB[pe:1]LB[pc:2]LB[nc:3]LB[od:4]LB[qc:5]LB[qb:6]LB[rb:7]C[After the odd pincer at 3, which White correctly refutes with 4, Black 5 and White 6 are expected. But now Black plays 7 instead of withdrawing with A. How should White continue?FORCE]LB[qd:A]AP[goproblems]
+(;W[qd];B[rc]C[FORCE]
+(;W[pd];B[pb]C[Black must seek lifeFORCE]
+(;W[ob];B[qa]C[FORCE]
+(;W[mc]C[Great! Although White's position isn't too good, black has no excellent follow-up. Keep in mind that black played in the corner (5-4 point) first. If Black A, White B. If Black B, White C. If Black D, white can Tenuki or play A, B, or even E.RIGHT]LB[nb:A]LB[nd:B]LB[oe:C]LB[qe:D]LB[rd:E])
+(;W[oc]C[White's shape is horrible and White has no eyes. Plus, Black can play at A to get more on the outside. Not good.]LB[qe:A])
+(;W[nd];B[mc]C[Slack, and too slow])
+(;W[nb];B[mc]C[Slack, and too slow]))
+(;W[nd];B[qe]
+(;W[rd];B[re]
+(;W[sd];B[ob]C[Looks bad for White])
+(;W[sc];B[ob]C[Looks bad for White]))
+(;W[re]
+(;B[rd];W[rf])
+(;B[rf];W[rd];B[qg]C[Looks bad for White]))))
+(;W[pb];B[pd]MA[pc]MA[pb]MA[qb]MA[qd]C[White will lose one of the marked groups]MA[od])
+(;W[ob];B[pd])
+(;W[rd];B[pd];W[qf];B[oc]))
+(;W[rc];B[qd]
+(;W[ra];B[sb]
+(;W[sc];B[pb];W[sa];B[ob];W[re];B[qe]
+(;W[rf];B[rd];W[sd];B[qg]C[Crawling along is not good.])
+(;W[qf];B[rd];W[sd];B[rf]C[Even if Black can't ladder, black can extend at A after. Not good.]LB[rg:A])
+(;W[rd];B[nf]C[Doesn't look too good, does it?]))
+(;W[pb];B[rd]))
+(;W[sb];B[ra]
+(;W[pb];B[rd])
+(;W[qa];B[pb];W[sa];B[ob]
+(;W[re];B[qe]
+(;W[rf];B[rd];W[sd];B[qg]C[Crawling along is not good.])
+(;W[qf];B[rd];W[sd];B[rf];W[se];B[sf];W[sc];B[rb]C[Thanks to Ndkrempel for pointing this out])
+(;W[rd];B[nf]C[Doesn't look too good, does it?]))
+(;W[rd];B[re];W[sd];B[me]C[Uhoh]))))
+(;W[pb];B[qd]C[White has no base and the pincer stone is not affected]MA[nc])
+(;W[ob];B[qd]MA[nc]C[A bit better than the solid connection, but still the pincer stone is not affected much])
+(;W[oe];B[qd]C[The pincer stone is not affected much and White still lacks a base.]MA[nc]))

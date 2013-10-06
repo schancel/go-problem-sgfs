@@ -1,0 +1,22 @@
+(;GE[endgame]DI[5k]DP[33]SO[Field Mouse]CO[0]SZ[9]AW[gd]AW[ge]AB[gf]AW[hf]AW[hg]AW[gh]AW[gg]AB[fe]AB[ff]AB[fd]AB[fc]AB[gc]AB[hc]AB[he]AW[fg]AW[eg]AW[ef]AW[df]AW[de]AW[ce]AW[be]AW[bd]AB[bc]AB[cc]AB[cd]AB[dd]AB[ed]AB[ee]AB[bb]C[White to win. No komi, no prisoners at the beginning!]AP[goproblems]
+(;W[if]
+(;B[ie];W[ac];B[ab];W[ad]C[White wins by one point! :)RIGHT])
+(;B[ad];W[ae];B[ac];W[id];B[hd];W[ie];B[ic]C[Black cannot play like this.RIGHT]))
+(;W[ie];B[id]
+(;W[if];B[ad];W[ae];B[ac]C[Jigo])
+(;W[hd];B[he];W[if];B[ad];W[ae];B[ac]C[Jigo]))
+(;W[ac];B[ab]
+(;W[ad];B[if];W[ig];B[ie])
+(;W[ie];B[id];W[if];B[ad];W[ae];B[ac])
+(;W[id];B[ie])
+(;W[if];B[ad]
+(;W[ie];B[id])
+(;W[id];B[hd];W[ie];B[ae]
+(;W[af];B[ac]MA[bf]C[FORCE];W[bf];B[ic]C[Jigo (black has three prisoners)])
+(;W[ic];B[ag]))))
+(;W[ad];B[if];W[ig];B[ie];W[ac];B[ab])
+(;W[id];B[ie]
+(;W[if];B[hd];W[ac];B[ab];W[ad]C[White wins even with this strange start.RIGHT])
+(;W[ac];B[ab]
+(;W[if];B[hd])
+(;W[ad];B[if];W[ig];B[hd]C[Jigo]))))

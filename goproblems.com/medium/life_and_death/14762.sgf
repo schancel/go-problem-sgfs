@@ -1,0 +1,84 @@
+(;GE[life and death]DI[1k]DP[19]SO[piccolo]CO[0]AW[aq]AW[cq]AW[cp]AW[co]AW[cr]AB[dr]AB[dq]AW[dp]AW[eq]AW[fq]AW[fr]AB[ep]AB[fp]AB[do]AB[eo]AB[dn]AB[bm]AB[cm]AW[bn]AB[ao]AB[gq]AB[gr]AB[fs]AW[gp]AW[go]AW[gn]AW[em]AB[bl]AW[gl]C[Can black kill white ? (With or without ko).FORCE]LB[ck:Yes]LB[ek:No]AP[goproblems]
+(;B[ck];W[ek]C[Please demonstrate]
+(;B[an];W[ds]
+(;B[er]
+(;W[bs]
+(;B[ar];W[ap]
+(;B[bq];W[bp];B[br]C[White dies, but she did not play optimally.])
+(;B[bp];W[bq])
+(;B[br];W[bo];B[bq];W[am]C[Seki.])
+(;B[bo];W[bp];B[cn];W[br]))
+(;B[bp];W[bq];B[ar];W[bo])
+(;B[ap];W[bp];B[ar];W[br]C[Ko.])
+(;B[bo];W[bp]C[Living shape.])
+(;B[br];W[ar]))
+(;W[ap]C[CHOICE]
+(;B[br];W[bo]
+(;B[bq];W[am]
+(;B[bs];W[cs];B[an];W[ar]C[Sente seki, but, only seki.])
+(;B[an];W[bs];B[ar]C[Gote seki.]))
+(;B[bs]
+(;W[cs];B[bq];W[am])))
+(;B[bs];W[br]MA[as]MA[bq]C[Two eyes.])
+(;B[ar];W[br];B[bp];W[bq])
+(;B[bp];W[bo];B[br];W[bq])))
+(;B[br]
+(;W[ar]
+(;B[bs];W[er];B[bq];W[bp];B[ap];W[cs];B[as];W[aq])
+(;B[bq];W[bp];B[bs];W[er])
+(;B[er];W[bs]))
+(;W[ap];B[er])))
+(;B[cs];W[bs]
+(;B[br];W[ds];B[er];W[ar])
+(;B[bp];W[an])
+(;B[an];W[ar]))
+(;B[bp];W[bq];B[an];W[bo])
+(;B[br];W[bs];B[ar];W[an];B[bq];W[bp];B[ap];W[cs];B[cn];W[as];B[am];W[aq];B[bo];W[br])
+(;B[bs];W[cs];B[an];W[br]
+(;B[bp];W[as];B[bq];W[bo])
+(;B[as];W[ap];B[bp];W[bo]))
+(;B[bo];W[bp];B[br];W[ds];B[er];W[an])
+(;B[cn];W[an];B[bo];W[bp];B[am];W[br])
+(;B[ar];W[br]MA[an]MA[bp])
+(;B[ap];W[an]MA[ap]MA[ar]C[White gets two eyes or win the semeai.]))
+(;B[ek]AW[ao]AB[bn]AB[aq]AB[cp]AB[co]AB[cq]AB[cr]AB[dp]AW[dr]AW[dq]AW[dn]AW[do]AW[eo]AW[ep]AW[fp]AB[eq]AB[fq]AB[fr]AW[fs]AW[gr]AB[gp]AB[go]AB[gn]AB[em]AB[gl]AW[gq]AW[bm]AW[cm]AW[bl];W[an]C[How to defend ? -- Please begin at the mark to simplifiy the solution treeFORCE]TR[ds];B[ds]
+(;W[er]
+(;B[ap];W[br]
+(;B[bs];W[ar]
+(;B[bo];W[bq];B[am];W[an]C[Sente seki, well done !RIGHT])
+(;B[bq];W[bo]))
+(;B[bo];W[bq]
+(;B[bs];W[ar])
+(;B[am];W[an];B[bs];W[ar]C[Sente seki, well done !RIGHT])
+(;B[ar];W[bs];B[cs];W[am]MA[bp]C[Not a seki ! Black is dead.]))
+(;B[bq];W[bo];B[bs];W[ar])
+(;B[ar];W[bs]
+(;B[bq];W[bo])
+(;B[cs];W[bo])
+(;B[bo];W[cs])))
+(;B[bo];W[br]
+(;B[ap])
+(;B[bs];W[ar];B[ap])
+(;B[ar];W[bs]
+(;B[cs];W[ap])
+(;B[bq];W[ap])))
+(;B[bs];W[ar]
+(;B[ap];W[bq];B[bp];W[br])
+(;B[bo];W[ap])
+(;B[br];W[bp])
+(;B[bp];W[br]))
+(;B[ar];W[bs];B[cs];W[bp])
+(;B[br];W[bp])
+(;B[bp];W[br])
+(;B[cs];W[br]MA[ap]MA[bo]C[You would need both points to not die.]))
+(;W[br]C[What if white ignores the threat ?]
+(;B[ar];W[bs]
+(;B[er];W[bq]
+(;B[bp];W[ap];B[cs];W[as];B[aq]C[RIGHT])
+(;B[ap];W[bp];B[bo];W[as];B[ap];W[aq]))
+(;B[ap];W[er]))
+(;B[bs];W[ar]
+(;B[ap];W[bq];B[bp];W[er])
+(;B[er];W[bq]))
+(;B[er];W[bq];B[bp];W[ap])
+(;B[ap];W[er]))))

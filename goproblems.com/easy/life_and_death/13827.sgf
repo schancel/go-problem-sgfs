@@ -1,0 +1,14 @@
+(;GE[life and death]DI[8k]DP[49]SO[DarkSycthe]CO[0]AW[ab]AW[ca]AB[ad]AB[bd]AB[bc]AB[cb]AW[db]AW[dc]AW[cd]AW[ce]AW[be]AW[ae]AW[dd]AB[bf]AB[bg]AB[df]AB[ee]AB[ed]AB[ec]AB[eb]AB[ea]LB[cb:1]LB[db:2]C[Black just played 1, followed by White 2. What should black do now?]AP[goproblems]
+(;B[da]
+(;W[ba];B[bb];W[cc];B[aa]C[RIGHT])
+(;W[bb];B[ba]C[];W[cc];B[ca]C[RIGHT]))
+(;B[ba];W[da]
+(;B[bb];W[cc]C[Black loses the semeai])
+(;B[cc];W[bb])
+(;B[cf];W[bb])
+(;B[de];W[bb])
+(;B[af];W[bb]))
+(;B[bb];W[da]
+(;B[ba])
+(;B[cc];W[ba])
+(;B[ac];W[ba]C[This is not a ko. White can play c17 to capture the group if black takes the ko at a19])))

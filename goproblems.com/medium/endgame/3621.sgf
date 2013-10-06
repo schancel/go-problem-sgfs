@@ -1,0 +1,6 @@
+(;GE[endgame]DI[2d]DP[14]SO[pcgenes]CO[7]AB[sp]AB[rp]AB[qo]AB[rn]AB[oo]AB[po]AB[nq]AB[nr]AB[os]AB[ps]AW[qp]AW[pp]AB[op]AW[oq]AW[pr]AW[rq]AW[sq]AW[qs]AW[rs]SZ[19]C[black first]
+(;B[or];W[pq])
+(;B[rr]
+(;W[qq]C[CHOICE];B[or];W[sr];B[pq];W[qr]C[RIGHT])
+(;W[qr]C[incorrect reponse from white, now kill...CHOICE];B[sr];W[ss];B[pq]C[RIGHT]))
+(;B[qr];W[qq];B[or];W[pq]))

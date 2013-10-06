@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[34]SO[eago]CO[0]AW[jj]AW[ik]AW[il]AW[kk]AW[kl]AW[kh]AW[li]AW[ih]AW[hi]AB[jm]AB[im]AB[jg]AB[kg]AB[lg]AB[mg]AB[mh]AB[mi]AB[mj]AB[mk]AB[ml]AB[mm]AB[lm]AB[km]AB[hm]AB[gm]AB[gl]AB[gk]AB[gj]AB[gi]AB[gh]AB[gg]AB[hg]AB[ig]AP[goproblems]
+(;W[jl]
+(;B[hj]
+(;W[lj]C[];B[ji]C[]
+(;W[jh];B[ii]
+(;W[ij];B[hh];W[ki]C[RIGHT])
+(;W[ki];B[ij];W[lk]C[RIGHT]))
+(;W[ki];B[jh];W[lk]C[RIGHT]))
+(;W[ij];B[jh];W[lj];B[ji])
+(;W[jh];B[lj];W[ij];B[ki];W[ji];B[hh]))
+(;B[lj]C[]
+(;W[hj]C[];B[ji];W[jh];B[ki];W[kj];B[lh];W[ii]C[RIGHT])
+(;W[jh];B[hj];W[kj];B[ii];W[ji];B[lh])))
+(;W[hj];B[jh];W[ji];B[jl];W[lj];B[jk])
+(;W[lj];B[jh];W[ji];B[jl];W[hj];B[jk])
+(;W[jh];B[jl]
+(;W[hj];B[lj])
+(;W[lj];B[hj]))
+(;W[ji];B[jl]
+(;W[hj];B[lj])
+(;W[lj];B[hj])))

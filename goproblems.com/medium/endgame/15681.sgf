@@ -1,0 +1,13 @@
+(;GE[endgame]DI[3k]DP[25]SO[thanush]CO[0]AB[rc]AB[qc]AB[pc]AW[rb]AW[pb]AW[ob]AW[oc]AW[nb]AW[pd]AW[qd]AW[rd]AW[qe]AW[rf]AW[rg]AB[qh]AB[qg]AB[qf]AB[rh]AB[od]AB[pe]AB[oe]AB[nc]AB[mb]AB[md]C[Utilize the 3 stones in the corner the best way]AP[goproblems]
+(;B[se];W[re]
+(;B[sg];W[sc];B[sf];W[qb]C[RIGHT])
+(;B[sd];W[qb];B[sg];W[sc])
+(;B[sc];W[qb];B[sg];W[sb];B[sf];W[sd];B[sh]C[Gote]))
+(;B[sd];W[re]
+(;B[sg];W[qb];B[sf];W[sc]C[2 point difference from correct variation])
+(;B[sb];W[qb];B[sg];W[sc];B[rc];W[se]))
+(;B[sg];W[se])
+(;B[sc]
+(;W[sb];B[sd];W[re];B[sg];W[qb];B[sf];W[se];B[sh])
+(;W[sd];B[se];W[re];B[sg]))
+(;B[sf];W[se]))

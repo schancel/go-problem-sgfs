@@ -1,0 +1,10 @@
+(;GE[best move]DI[30k]DP[80]SO[Plakvoet]CO[0]AW[ae]AW[bd]AW[cd]AW[dd]AW[dc]AW[ec]AW[fc]AW[gc]AW[hc]AW[hb]AW[ga]AW[hd]AW[bf]AW[bg]AW[bh]AW[cg]AW[ai]AW[bj]AW[ci]AW[cj]AW[di]AW[ej]AW[dk]AW[el]AW[cl]AW[cm]AW[bm]AB[ck]AB[bk]AB[bl]AB[ak]AB[aj]AW[dn]AW[en]AW[eo]AW[fo]AW[dp]AW[cp]AW[bo]AW[bq]AW[ar]AW[bs]AW[cr]AB[cq]AB[dq]AB[dr]AB[ds]AB[eq]AB[fq]AB[gq]AB[fp]AB[hr]AB[ir]AB[iq]AB[ip]AW[hq]AW[hp]AW[gp]AW[ho]AW[hn]AW[hm]AW[gm]AW[fm]AW[gk]AW[gj]AW[hl]AW[il]AW[ik]AW[ij]AW[jk]AW[ii]AW[hi]AW[hh]AW[gh]AB[gl]AB[fl]AB[fk]AB[fj]AB[gi]AB[fi]AB[ei]AB[eh]AB[dh]AB[ch]AB[fh]AB[eg]AB[dg]AB[df]AB[cf]AB[ce]AB[be]AB[ed]AB[ee]AB[fd]AB[gd]AW[ff]AW[fg]AB[gg]AB[hg]AB[hf]AB[he]AB[id]AB[ic]AB[ib]AB[ia]AB[ha]AB[ja]AB[kb]AB[kc]AB[kd]AB[je]AB[jg]AB[kf]AB[jf]AB[kg]AB[lg]AB[ih]AB[ji]AB[jj]AB[kh]AB[kj]AB[ki]AB[kk]AB[kl]AB[jl]AB[km]AB[kn]AW[jm]AW[jn]AB[jo]AB[ko]AW[io]AW[jp]AW[jq]AB[kr]AB[ln]AB[lk]AB[ml]AB[mm]AW[lj]AW[li]AW[lh]AW[mh]AW[mg]AB[nh]AB[oh]AW[ng]AW[og]AW[pg]AW[qg]AW[rg]AW[sg]AW[mk]AW[nj]AW[nl]AW[ol]AW[ql]AW[pm]AW[qn]AW[rn]AW[so]AW[sp]AW[sq]AW[rr]AW[ss]AB[qs]AB[qr]AB[rq]AB[rp]AB[qo]AB[po]AB[pp]AB[pn]AB[om]AB[nm]AB[nn]AB[no]AW[on]AB[mf]AB[nf]AB[me]AB[le]AB[ld]AW[of]AW[oe]AW[ne]AW[nd]AW[md]AW[lc]AW[lb]AW[ka]AW[ma]AW[la]AW[mb]AW[nb]AW[nc]AB[na]AB[oa]AB[ob]AB[oc]AB[od]AW[qf]AW[sf]AB[pd]AB[pe]AB[pf]AB[qe]AB[re]AB[rf]AB[rd]AB[sd]AB[se]AW[ek]AB[rs]LB[ek:1]LB[rs:2]C[Black decided to ignore white 1, and play 2. Show him his mistake]AP[goproblems]
+(;W[de]
+(;B[ge];W[ef]C[Indeed!RIGHT]))
+(;W[ef];B[ge];W[de]C[Indeed!RIGHT])
+(;W[sr];B[ef];W[ge];B[gf];W[de];B[fe])
+(;W[ge]
+(;B[fe];W[de];B[gf];W[ef]C[RIGHT])
+(;B[gf];W[de];B[fe];W[ef]C[RIGHT]))
+(;W[fe];B[ge];W[de];B[ef])
+(;W[ro];B[ef];W[ge];B[gf];W[de];B[fe]))

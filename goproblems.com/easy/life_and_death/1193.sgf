@@ -1,0 +1,32 @@
+(;GE[life and death]DI[4k]DP[30]SO[BigMetalGuy]CO[8]SZ[13]AW[ba]AW[bb]AW[eb]AW[fc]AW[cd]AW[ed]AW[fd]AW[ce]AB[ab]AB[bc]AB[cc]AB[dc]AB[ec]C[Black to play to live.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[da];W[bd];B[fb];W[gb];B[fa]LB[da:1]C[ Black 1 is the key move.RIGHT])
+(;B[db];W[fb]
+(;B[da];W[bd]C[Black is dead.])
+(;B[bd];W[be]
+(;B[da];W[ad])
+(;B[ad];W[da];B[ca];W[cb]))
+(;B[ca];W[bd]
+(;B[dd];W[de]C[ Black cannot make two eyes.])
+(;B[cb];W[dd];B[aa];W[ad]C[ Black cannot make two eyes.])))
+(;B[fb]
+(;W[gb];B[da]
+(;W[bd];B[fa])
+(;W[fa];B[bd];W[be];B[ad]))
+(;W[db];B[cb];W[gb]
+(;B[da]
+(;W[fa]C[CHOICE];B[bd];W[ea];B[ca];W[be];B[ad]C[ Black lives.RIGHT])
+(;W[bd]C[CHOICE];B[ea]C[RIGHT]))
+(;B[bd];W[be]
+(;B[ad];W[ca]
+(;B[fa];W[ga]
+(;B[ea];W[da])
+(;B[da];W[ea]))
+(;B[da];W[ea])
+(;B[ea];W[fa]))
+(;B[ca];W[ad];B[fa]
+(;W[da];B[ea])
+(;W[ea];B[da];W[ae];B[ac])
+(;W[ga];B[aa];W[ea])))))
+(;B[cb];W[ca])
+(;B[ca];W[da])
+(;B[bd];W[be];B[ad];W[db];B[cb];W[ca];B[da];W[ea];B[fb];W[gb]))

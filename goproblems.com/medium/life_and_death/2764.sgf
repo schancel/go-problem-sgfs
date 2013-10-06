@@ -1,0 +1,93 @@
+(;GE[life and death]DI[2d]DP[12]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.14]
+
+GN[temp]
+
+AB[qh][pg][og][ng][mh][lh][qf][qe][pd][pc][nc][mc][lc][ld][me]
+[jd][id][ic][kg][jg][ig][if][gg][he][ge][fe][ee][gf]AW[hd][gd]
+[fg][gh][kh][ie][je][ke][le][lf][lg][mg][md][nd][pf][pe][nf]
+[of][hi][ii][dd][ji][fh][ef][de][ed][gb]TR[ee][fe][ge][he][gf]
+[gg][if][ig][jg][kg]C[White to kill the marked stones unconditionally.]
+
+(;W[ne];B[od]
+(;W[hg];B[kd]LB[ff:a][hh:b][ih:c]C[please play 'a', 'b', or 'c']
+
+(;W[ff];B[jf]LB[fd:a][hh:b][ih:c]C[please play 'a', 'b' or 'c']
+
+(;W[fd];B[hf]
+(;W[ih]C[black dies. RIGHT])
+(;W[jh]C[black dies. RIGHT])
+(;W[hh];B[kf];W[mf];B[oe])
+(;W[mf];B[oe]
+(;W[ih]C[black dies. RIGHT])
+(;W[jh]C[black dies. RIGHT])))
+(;W[hh];B[kf];W[mf];B[oe])
+(;W[ih];B[kf];W[mf];B[oe]))
+(;W[ih];B[jf]LB[ff:a][hh:b][jh:c]C[please play 'a', 'b' or 'c']
+
+(;W[jh];B[hf]
+(;W[ff]C[black dies. RIGHT])
+(;W[fd]C[black dies. RIGHT])
+(;W[hh];B[kf];W[mf];B[oe])
+(;W[mf];B[oe]
+(;W[fd]C[black dies. RIGHT])
+(;W[ff]C[black dies. RIGHT])))
+(;W[ff];B[kf];W[mf];B[oe])
+(;W[hh];B[kf];W[mf];B[oe]))
+(;W[hh];B[jf]LB[kf:1][mf:2][oe:3]C[white dies (she can't stop the 1-3 sequence from being played)]
+))
+(;W[fd];B[hg]C[white loses])
+(;W[ff];B[hg]C[white loses])
+(;W[ih];B[hg]C[white loses])
+(;W[jh];B[hg]C[white loses])
+(;W[hh];B[hg]C[white loses])
+(;W[mf];B[hg]C[white loses]))
+(;W[hg];B[ne]
+(;W[od];B[oc]TR[md][nd][od][pe][pf][of][nf]C[white must sacrifice the marked stones (the rest can become seki)]
+)
+(;W[mf];B[od]LB[fd:a][hh:b][ih:c]C[please play 'a', 'b' or 'c']
+
+(;W[fd];B[oe]LB[ff:1][hf:2][ih:3][kd:4][jh:5][hh:6]C[black is safe, white must win the ko (from playing 1-6) to get seki]
+)
+(;W[hh];B[hf]LB[fd:1][kd:2][ff:3][oe:4][ih:5][jf:6]C[white dies]
+)
+(;W[ih];B[oe]LB[fd:a][hh:b][jh:c]C[please play 'a', 'b' or 'c']
+
+(;W[fd];B[kd]
+(;W[ff];B[hf];W[jh];B[hh]C[black is safe, white must win the ko to get seki]
+)
+(;W[jh];B[jf]))
+(;W[hh];B[kd]C[white dies])
+(;W[jh];B[kd]C[white dies])))
+(;W[oe];B[od]TR[nf][of][oe][pe][pf]LB[fd:1][mf:2][ff:3][hf:4]
+[ih:5][kd:6][jh:7][hh:8]C[white must sacrifice the marked stones, she then gets a ko for seki (black is alive)]
+)
+(;W[hh];B[hf]TR[md][nd][nf][of][pf][pe]LB[fd:1][oe:2][ff:3]
+[mf:4][ih:5][kd:6][jh:7]C[white must sacrifice the marked stones for a seki]
+)
+(;W[fd];B[oe]TR[md][nd][nf][of][pf][pe]LB[mf:1][od:2][ff:3]
+[hf:4][ih:5][kd:6][jh:7][hh:8]C[white must give up the marked stones for unconditional seki. If white connects at 1 she must win the ko at H12 to get seki.]
+)
+(;W[ff]C[white can do no better than seki - see comments for this move at F16]
+)
+(;)
+(;W[ih]C[white can do no better than seki - see comments for this move at F16]
+)
+(;W[jh]C[white can do no better than seki - see comments for this move at F16]
+))
+(;W[mf];B[hg]LB[fd:1][od:2][ne:3][oe:4][ff:5][kd:6][hh:7][jf:8]
+[ih:9][kf:10]C[white loses (exchanging P16 for O15 doesn't help)]
+)
+(;W[od];B[ne]
+(;W[oe];B[oc]
+(;W[mf];B[hg]LB[fd:1][kd:2][ff:3][jf:4][hh:5][kf:6][ih:7][me:8]
+C[black wins])
+(;W[hg];B[mf]C[black wins]))
+(;W[mf];B[oc]
+(;W[oe];B[hg]LB[fd:1][kd:2][ff:3][jf:4][hh:5][kf:6][ih:7][me:8]
+C[black wins])
+(;W[hg];B[oe]C[black wins]))
+(;W[hg];B[oc]LB[fd:1][oe:2][ff:3][hf:4][hh:5][mf:6][ih:7][kd:8]
+[jh:9]TR[md][nd][od][nf][of][pf][pe]C[white must give up all the marked stones for seki (playing white 5 immediately after black 4 avoids giving black an approach ko)]
+))
+(;W[oe];B[hg]LB[od:a][mf:b]C[black wins comfortably, white needs to protect against black 'a' and has a weakness at 'b' (she needs to fill 2 of her own liberties to protect the eye)]
+))

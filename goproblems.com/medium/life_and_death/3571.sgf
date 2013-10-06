@@ -1,0 +1,12 @@
+(;GE[life and death]DI[3k]DP[24]SO[sloweddie]CO[6]SZ[19]AW[nb]AW[ob]AW[nc]AW[pc]AW[pd]AW[pe]AW[qe]AW[re]AW[rg]AB[oa]AB[pb]AB[qb]AB[oc]AB[qc]AB[qd]AB[rd]C[I tried to include a few variations for both white and black, so you can experiment against various defenses]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;W[sd]
+(;B[sc]C[CHOICE];W[rb]
+(;B[ra]C[CHOICE];W[sb];B[se];W[pa]C[RIGHT])
+(;B[sb]C[CHOICE];W[ra]C[RIGHT]))
+(;B[sb]C[CHOICE];W[ra];B[sc];W[rb]C[RIGHT])
+(;B[ra]C[CHOICE];W[sb]C[RIGHT]))
+(;W[sb];B[rb];W[sc];B[sd];W[pa];B[qa];W[sa]C[RIGHT])
+(;W[rb];B[sb]
+(;W[ra];B[sd];W[rc];B[pa];W[na];B[sc]C[Failure: Seki])
+(;W[sc];B[sd];W[sa];B[rc]C[Failure: ko]))
+(;W[pa];B[sb]C[Not at r2, when the hane kills.  Failure for white];W[ra];B[rb]C[Black is alive with territory]))

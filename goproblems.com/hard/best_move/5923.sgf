@@ -1,0 +1,39 @@
+(;GE[best move]DI[4d]DP[7]SO[santa c]CO[8]AB[gr]AB[ir]AB[iq]AB[jq]AB[jo]AB[kp]AB[lp]AB[no]AB[mo]AB[np]AB[nq]AB[pp]AB[qp]AB[qq]AB[rq]AB[sr]AW[or]AW[nr]AW[mq]AW[mp]AW[lq]AW[kq]AW[lr]AW[jr]AB[kr]LB[kr:1]LB[lr:2]C[What's the best Black can do?]AP[goproblems]
+(;B[ms];W[ks]
+(;B[is]
+(;W[ns]
+(;B[js];W[pr]
+(;B[kr]C[Well done! A very hard ko for White - Black has 5 local threats! (Each of the odd numbers is a threat and the following even one is the anwser)RIGHT]LB[ps:1]LB[qr:2]LB[rr:4]LB[os:6]LB[sq:7]LB[ss:8]LB[rs:5,9]LB[qs:3,10]MA[jr])
+(;B[ps];W[qr]C[Only wasting a ko threat! :(]TR[ps])
+(;B[qr];W[ps]C[Throwing away 5 local ko threats before the ko can't be good... o_O]TR[qr]))
+(;B[pr];W[js]C[:(]))
+(;W[js];B[ls]C[RIGHT])
+(;W[pr];B[ns]
+(;W[qr];B[qs];W[rr];B[rs]C[RIGHT])
+(;W[os];B[js];W[qr];B[qs]C[RIGHT])
+(;W[qs];B[qr]TR[ls]TR[js]C[RIGHT])))
+(;B[pr];W[ls]LB[os:1]LB[mr:2]C[:(])
+(;B[ls];W[ns]
+(;B[is];W[pr]LB[ps:1]LB[qr:2]LB[qs:3]LB[rr:4]LB[rs:5]LB[os:6]AB[ps]AW[qr]AB[qs]AW[rr]AB[rs]AW[os]C[:(])
+(;B[pr];W[js]C[:(])))
+(;B[js];W[ms]
+(;B[ls];W[ks]MA[ls]C[P1 isn't really a ko threat now! :(]TR[os])
+(;B[pr];W[os];B[ls];W[ks]MA[ls]C[:(])
+(;B[os];W[pr]
+(;B[ls];W[ks]MA[ls]C[Q1 isn't really a ko threat now! :(]TR[ps])
+(;B[ps];W[qr]
+(;B[ls];W[ks]MA[ls]C[R1 isn't really a ko threat now! :(]TR[qs])
+(;B[qs];W[rr]
+(;B[ls];W[ks]MA[ls]C[S1 isn't really a ko threat now! :(])
+(;B[rs];W[ns]
+(;B[sq];W[ss];B[ls];W[ks]C[Istead of 5 local ko threats for Black, White has 1! :(]MA[ls])
+(;B[ss];W[sq]C[:(])
+(;B[ls];W[ks]C[:(]MA[ls]))
+(;B[ss];W[rs];B[ls];W[ks]MA[ls]C[Istead of 5 local ko threat for Black, White has 1! :(]))
+(;B[rs];W[qs];B[ls];W[ks]MA[ls]C[:(]))
+(;B[qs];W[ps];B[ls];W[ks]C[:(]MA[ls]))
+(;B[ps];W[os];B[ls];W[ks]C[:(]MA[ls]))
+(;B[ls];W[ks]C[:(])
+(;B[ks];W[ls];B[js];W[ms]C[:(])
+(;B[pr];W[ks]C[:(])
+(;B[is];W[ms]C[:(]))

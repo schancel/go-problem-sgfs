@@ -1,0 +1,23 @@
+(;GE[elementary]DI[4k]DP[31]SO[santa c]CO[0]AB[sp]AB[rp]AB[pq]AB[pr]AB[rr]AW[os]AW[nr]AW[nq]AW[oq]AW[op]AW[pp]AW[qo]AW[ro]AW[so]C[B to move]AW[qq]AP[goproblems]
+(;B[rq]
+(;W[qp]
+(;B[sr];W[qr];B[rs]C[Well done! :)RIGHT])
+(;B[ps];W[qr]MA[rs]MA[sr])
+(;B[rs];W[sr]MA[qr]MA[ps])
+(;B[qr];W[sr]MA[rs]MA[ps]))
+(;W[qr];B[rs]MA[sr]MA[qp]C[RIGHT])
+(;W[sr];B[qp]C[RIGHT])
+(;W[ps];B[qr]MA[qp]MA[sr]C[RIGHT]))
+(;B[qr];W[qp]
+(;B[rq])
+(;B[sr];W[rq]MA[rs]MA[ps])
+(;B[ps];W[rq]MA[rs]MA[sr])
+(;B[rs];W[rq]MA[sr]MA[ps]))
+(;B[qp];W[rq]
+(;B[qr];W[sq])
+(;B[sr];W[sq]))
+(;B[ps];W[qp]
+(;B[qr])
+(;B[rq]))
+(;B[sr];W[rq])
+(;B[rs];W[rq]))

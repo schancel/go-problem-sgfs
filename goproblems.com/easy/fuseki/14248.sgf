@@ -1,0 +1,3 @@
+(;GE[fuseki]DI[12k]DP[59]SO[Tomsk]CO[0]AB[pc]AB[pe]AB[qj]AB[pp]AB[pq]AB[qq]AB[qr]AB[oo]AB[no]AB[nq]AB[qn]AB[dq]AB[co]AB[ci]AW[cg]AW[cd]AW[ec]AW[kc]AW[fq]AW[iq]AW[mp]AW[np]AW[op]AW[oq]AW[nr]AW[pr]AW[os]AW[qp]LB[pi:a]LB[pk:b]TR[qj]C[White to reduce black's territory by putting pressure on the marked stone. Which is best, a or b?FORCE]AP[goproblems]
+(;W[pi]C[FORCE];B[qi]LB[pg:X]C[Play at XFORCE];W[pg]C[Yes this nicely reduces black's territory. Navigate the alternative solution to see why this move is better.RIGHT])
+(;W[pk]C[FORCE];B[pj]LB[nk:X]C[Play at XFORCE];W[nk]C[FORCE];B[oj]C[White's attack has done little to weaken black's strong formation at the bottom. But it has allowed black to build a powerful wall to support his stones at the top.]))

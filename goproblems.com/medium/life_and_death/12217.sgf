@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1k]DP[19]SO[Kalmatsuh]CO[0]AW[cb]AW[cc]AW[dd]AW[ed]AW[ec]AW[ce]AW[cf]AW[cg]AB[bd]AB[de]AB[ee]AB[fe]AB[fd]AB[fc]AB[fb]AB[eb]AB[db]AB[gb]AB[hb]C[In how many different moves can black start to eat white's group? I hope I got this right. Sooo many variations.]AB[cd]AW[dc]LB[fh:1]LB[gh:2]LB[hh:3]LB[ih:4]LB[fi:5]LB[gi:6]LB[hi:7]LB[ii:8]AP[goproblems]
+(;B[bb];W[bc];B[ac])
+(;B[bc];W[bb];B[ab])
+(;B[ca];W[bb];B[ba];W[ab];B[ac];W[be];B[da];W[ae];B[aa];W[ad];B[bc])
+(;B[ba];W[bc];B[ac];W[be];B[ad];W[ab])
+(;B[ab];W[bc];B[ac];W[be];B[ad];W[ae];B[ca])
+(;B[ac];W[bc];B[bb])
+(;B[ad]
+(;W[ab]C[Mistake]
+(;B[ba]C[Another mistake]
+(;W[ca]C[This is a mistake];B[bb];W[bc];B[ac];W[aa];B[bb];W[ba];B[da])
+(;W[bb];B[ca];W[be];B[da];W[ae];B[aa]C[]))
+(;B[bb];W[bc];B[ba];W[ca];B[ac];W[aa];B[bb]))
+(;W[bb];B[ab];W[ba];B[da];W[be];B[ca];W[ae];B[ac]C[Seki not good enough]))
+(;B[aa];W[bc];B[ac];W[be];B[ad];W[ba])
+(;B[ae];W[be]
+(;B[af];W[bc];B[ad];W[ag];B[bg];W[bf];B[ah];W[ac];B[ag];W[bh])
+(;B[bc];W[bb]))
+(;B[be];W[bc]
+(;B[ab];W[ac];B[ca];W[ba])
+(;B[ac];W[ab];B[ca];W[ad];B[ae];W[ac];B[ba];W[bf])
+(;B[ca];W[ab];B[ba];W[bf];B[bb];W[ac]))
+(;B[fi]C[You are a monster!RIGHT]))

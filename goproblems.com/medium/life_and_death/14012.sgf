@@ -1,0 +1,23 @@
+(;GE[life and death]DI[3d]DP[9]SO[duelas]CO[0]AW[bq]AW[cq]AW[er]AW[eq]AW[ep]AB[dr]AB[fr]AB[fq]AB[fp]AB[dp]AB[cp]AW[eo]AW[en]AB[dk]AB[ho]AB[hm]AB[gk]AB[ik]AB[ip]AB[fk]C[White to live unconditionally]AW[cn]AB[bn]AB[cm]AB[cl]AW[dn]AW[jq]AW[lq]AB[hr]AB[bo]AP[goproblems]
+(;W[dq];B[es]
+(;W[cs];B[ds];W[cr];B[fs]
+(;W[bp];B[co];W[ar]C[miai RIGHT]LB[ap:A]LB[bs:B])
+(;W[ar]C[]
+(;B[bp];W[bs]C[B4 is better than A2RIGHT])
+(;B[bs]
+(;W[bp]
+(;B[co];W[ap]C[RIGHT])
+(;B[ap];W[co]C[RIGHT])))))
+(;W[ds];B[cs]
+(;W[bs]
+(;B[br];W[cr];B[as]
+(;W[aq];B[fs];W[ar];B[ds]C[W C1 is better than D1];W[bs]C[RIGHT]))
+(;B[ds];W[cr]
+(;B[fs]
+(;W[ar]C[RIGHT])
+(;W[bp];B[ar];W[co];B[br];W[aq];B[as];W[bs]C[RIGHT]))))
+(;W[cr]
+(;B[bs]C[Black makes a ko])))
+(;W[cr];B[ds];W[cs]))
+(;W[cr];B[dq];W[ds];B[bp];W[bs];B[ar]C[White is dead])
+(;W[ds];B[dq];W[cr]))

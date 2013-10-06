@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3k]DP[27]SO[imperator9]CO[0]AB[dd]AB[bd]AB[ce]AB[fd]AB[hd]AB[gd]AB[gc]AW[be]AW[bf]AW[cf]AW[df]AW[dh]AW[gg]AW[he]AW[jd]AW[id]AW[hc]AW[ib]AW[kc]AW[kb]AB[jc]AW[fg]AW[bc]LB[bc:A]C[How can Black best respond to A?]AP[goproblems]
+(;B[cc];W[ad]
+(;B[bb];W[cd]C[]
+(;B[db]C[Good.RIGHT])
+(;B[dc])
+(;B[cb])
+(;B[ec])
+(;B[ed])
+(;B[de]))
+(;B[cd];W[bb]C[B is too cramped.])
+(;B[dc];W[bb]C[B does not have enough space.]))
+(;B[ad];W[ec]
+(;B[cd];W[gb]
+(;B[dc];W[fb]
+(;B[bb];W[ed]C[B lives, but loses four stones. B can do better.])
+(;B[cb];W[bb])
+(;B[db];W[bb])
+(;B[ed];W[db]))
+(;B[fb];W[eb]C[B must cut W when the opportunity presents itself.])
+(;B[cc]C[Not enough space.]))
+(;B[hb];W[cc]C[B allowed W to connect his stones.])
+(;B[gb];W[cc]C[B allowed W to connect his stones.])
+(;B[fb];W[cc]C[B allowed W to connect his stones.])
+(;B[ed];W[dc]C[B allowed W to connect.])
+(;B[dc]C[D17 is the best way to deal with the mistake of A16.];W[gb]C[B will live, but this is not the best B could do. (I don't know all the variations here.)]))
+(;B[hb];W[ad];B[ic];W[jb]C[B got nothing from H18.])
+(;B[dc];W[cc]C[D17 is too early.];B[ad];W[cd]
+(;B[de];W[ac])
+(;B[cb]
+(;W[ac]C[Very bad for Black.])
+(;W[bb]))
+(;B[hb];W[ic];B[cb];W[bb]))
+(;B[cd];W[ad];B[cc];W[bb]C[B is in a lot of trouble.]))

@@ -1,0 +1,17 @@
+(;GE[endgame]DI[4k]DP[28]SO[thanush]CO[0]AW[sb]AW[rb]AW[rc]AW[rd]AW[qd]AW[pc]AW[oc]AW[nb]AW[nc]AB[qc]AB[qe]AB[re]AB[se]AB[sc]AB[sd]AB[pd]AB[od]AB[nd]AB[md]AB[mc]AB[ma]AB[mb]C[Use a tesuji to reduce w's territory as much as possible]AP[goproblems]
+(;B[pa]
+(;W[pb]
+(;B[na];W[qa];B[oa]C[RIGHT])
+(;B[qa];W[ra];B[na]C[RIGHT]))
+(;W[na];B[qb];W[pb];B[qa]C[RIGHT]))
+(;B[na];W[pa]
+(;B[oa];W[pb])
+(;B[ob];W[pb];B[oa])
+(;B[pb];W[qb];B[oa];W[ob]))
+(;B[pb];W[qb]
+(;B[na];W[oa];B[pa];W[qa])
+(;B[oa];W[na];B[qa];W[ra]))
+(;B[ob];W[oa])
+(;B[oa];W[pb]
+(;B[na];W[pa])
+(;B[pa];W[na];B[qa];W[ra])))

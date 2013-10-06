@@ -1,0 +1,14 @@
+(;GE[endgame]DI[5k]DP[32]SO[marcin]CO[5]AB[ba]AB[ac]AB[bc]AB[cc]AB[dc]AB[ec]AB[eb]AB[ea]AB[ad]AB[ed]AB[fc]AB[ic]AB[ie]AB[ga]AB[ha]AB[ia]AB[ib]AB[ge]AB[hd]AB[hf]AB[jd]AB[if]AB[gf]AB[ff]AW[ae]AW[bf]AW[bd]AW[cd]AW[dd]AW[ee]AW[fe]AW[fd]AW[fb]AW[fa]AW[gc]AW[hb]AW[gd]AW[gb]AW[hc]AW[jc]AW[kb]AW[ka]AW[jb]AW[kd]AW[je]AW[de]AW[dg]AW[le]AW[lc]SZ[19]TR[jd]PL[W]
+(;W[cb];B[id];W[bb]
+(;B[ab]
+(;W[da]C[ Gote seki, you missed the bonus point.])
+(;W[ca]C[Ten thousand year ko. Since neither side has threats nobody plays D19 or D18. Black cannot connect the ko. In the end of the game White takes the ko and connects it, having a gote seki with one bonus point (the captured stone).RIGHT]MA[da]MA[db]))
+(;B[ca];W[ab];B[da]TR[ab]C[ Sente seki - black should have triangled instead of squared to avoid this, but this way he avoids the one thousand years ko problem, trading (in this case) a move for a point.RIGHT]MA[ca]))
+(;W[bb];B[id]
+(;W[cb])
+(;W[ca];B[cb]
+(;W[aa];B[ab])
+(;W[da];B[ab])))
+(;W[ab]C[];B[id]C[];W[bb];B[cb]C[B is alive with 8 points...])
+(;W[id]C[Well, this move is illegal... remember the ko rule?NOTTHIS])
+(;W[ca];B[id];W[bb]))

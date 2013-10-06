@@ -1,0 +1,10 @@
+(;GE[endgame]DI[10k]DP[54]SO[cen2y]CO[7]AW[as]AW[ar]AW[br]AW[cr]AW[cs]AW[dr]AW[er]AW[es]AW[fs]AW[hs]AW[gs]AB[hr]AB[gr]AB[fr]AB[fq]AB[eq]AB[cq]AB[dq]AB[bq]AB[aq]AB[jr]C[White to reduce blacks territory as much as possible unconditionally (Japanese counting).]AP[goproblems]
+(;W[is];B[js];W[ir];B[iq]C[Black lost 3 moku. You can do better than that.])
+(;W[ir];B[iq]
+(;W[is];B[js]C[Black lost 3 moku. You can do better than that.])
+(;W[js];B[is]C[Black lost 0 unconditionally.]))
+(;W[js];B[ks]
+(;W[is];B[kr];W[ir];B[iq]C[Good work, black lost 5 moku.RIGHT])
+(;W[kr];B[is]C[Black lost 0 moku. You can do better than this.])
+(;W[ir]C[Black may now choose to loose 5 or 0 moku depending on if he wants a ko or not - unconditionally, this is 0 moku.]))
+(;W[ks];B[js]LB[is:A]C[Play at A];W[is];B[ir]C[That was a bit of an over-extension. Black only lost 1 moku.]))

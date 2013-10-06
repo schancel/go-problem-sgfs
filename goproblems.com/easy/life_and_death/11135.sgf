@@ -1,0 +1,33 @@
+(;GE[life and death]DI[7k]DP[44]SO[zafris]CO[0]AB[qr]AB[qq]AB[rq]AB[rp]AW[pq]AW[pr]AW[nq]AW[nr]AW[qp]AW[qo]AW[qn]AW[rm]AB[pp]AB[op]C[Black to live. Assume that the rest of the board is empty. Avoid seki.]AB[oo]AW[po]AW[rl]AP[goproblems]
+(;B[ro]
+(;W[sr]
+(;B[sq];W[so];B[rn];W[sn];B[qm];W[pn];B[pm];W[on];B[nn];W[om];B[ol]C[Ladder.RIGHT])
+(;B[rn];W[qm]
+(;B[sq];W[sn];B[so];W[rs];B[qs];W[ps]C[RIGHT])
+(;B[sn];W[rs];B[qs];W[sq];B[sp];W[ps]
+(;B[rr];W[sm];B[ss]C[RIGHT]))
+(;B[rs];W[sn];B[so];W[sq]))
+(;B[so];W[sq];B[rn];W[qm]))
+(;W[rn]
+(;B[sq];W[so];B[rs];W[sr])
+(;B[rs];W[sr]
+(;B[sq];W[so])
+(;B[so];W[sq]))
+(;B[sr]
+(;W[rs];B[qs];W[so];B[sp]C[RIGHT])
+(;W[so]
+(;B[rs]C[RIGHT])
+(;B[sp];W[rs];B[qs]C[RIGHT])))))
+(;B[sr];W[rs]
+(;B[ro];W[qs]
+(;B[rn];W[qm];B[sn]C[Black needs to play both S2 and T4 to live....])
+(;B[sp]TR[rr]TR[sn]C[Even if White tenuki, she has miai to kill.]))
+(;B[qs];W[sp];B[ro];W[so];B[rn];W[sn];B[qm]C[RIGHT]))
+(;B[rs];W[sr];B[ro];W[rn]
+(;B[sq];W[so])
+(;B[so];W[sq]))
+(;B[sp];W[sr])
+(;B[rr];W[ro]
+(;B[ss];W[qs])
+(;B[sp];W[sr];B[ss];W[rs];B[qs];W[ss];B[sq];W[ss]))
+(;B[so];W[ro];B[sr];W[rs];B[qs];W[sp]))

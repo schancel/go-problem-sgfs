@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[4k]DP[29]SO[tom111]CO[7]AB[pd]AW[qf]AB[nd]AW[md]AW[me]AB[mc]AW[nc]AW[oc]AB[mb]AW[lc]AB[jc]AB[ld]AB[le]AB[pj]AB[mf]AW[ne]AB[od]AW[lb]LB[mf:1]LB[ne:2]LB[od:3]LB[lb:4]C[Black play's the tesuji combination of 1 and 3. White answers 4. Black to punish :)]AP[goproblems]
+(;B[oe];W[nf]C[Empty Triangle ??? :)];B[ng];W[of];B[pf];W[og];B[oh];W[pg];B[qg];W[ph]
+(;B[qh];W[pi];B[oi];W[qi];B[ri];W[qj];B[qk];W[pe];B[rj];W[pf];B[rf]C[RIGHT])
+(;B[pi];W[qh]C[Oooops.]))
+(;B[nf];W[oe];B[pf];W[nb]
+(;B[pe];W[ma]C[Good, but not optimal. You should take the marked stone into account.]MA[pj])
+(;B[of]C[Good, but not optimal. Take the marked stone into account.]MA[pj]))
+(;B[of];W[nb]C[Not good enough sorry. Take the marked stone into account.]MA[pj])
+(;B[pc];W[nb]C[Aji Keshi, your chance is gone :(])
+(;B[nb];W[ob]C[You cant escape here...]))

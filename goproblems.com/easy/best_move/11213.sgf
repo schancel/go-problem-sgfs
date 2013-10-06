@@ -1,0 +1,9 @@
+(;GE[best move]DI[4k]DP[29]SO[mafutrct]CO[0]AW[pd]AW[od]AW[qe]AB[qd]AB[rd]AB[pc]AB[oc]AB[nc]AW[pg]AW[qg]AW[ph]AW[pi]AW[ok]AW[qj]AW[qk]AW[rk]AB[rj]AB[si]AB[qi]AB[rh]AB[qh]AB[rg]AB[qp]AB[pq]AB[mq]AW[qn]AB[oi]AW[id]AB[fc]AB[dc]AB[cc]AW[dd]AW[ce]AW[df]AW[ef]AB[cf]AB[dg]AW[cg]AW[dq]AW[gq]AB[do]AW[dm]AB[fo]LB[cq:A]LB[ho:B]LB[fm:C]C[Black to choose the best move from A - C.FORCE]AP[goproblems]
+(;B[fm];W[dk]C[]TR[fk]TR[hp]
+(;B[fk]C[The center is big, so this is good. Black aims at A.RIGHT]LB[ej:A])
+(;B[hp];W[hq];B[ip];W[iq];B[jp];W[fk]C[This sequence is also big, but White takes sente. White is slightly better.]))
+(;B[ho];W[gl]C[Black played a 95% move - very good, but white can answer here for a very big center. White is slightly better.])
+(;B[cq]C[];W[fm]C[This is the wrong direction. The center is more important than the corner. Play on to see why white is better.]
+(;B[eq];W[go]C[White simply gives up the corner. The center is more important.])
+(;B[ho];W[cr]C[White views the A-B as kikashi and still saves the corner.]LB[fm:A]LB[ho:B])
+(;B[dr]TR[cp]C[Too much aji. And white cansimply give up the corner, playing at A. The center is more important.]LB[go:A])))

@@ -1,0 +1,28 @@
+(;GE[best move]DI[3k]DP[25]SO[adum]CO[8]AW[hc]AW[id]AW[jd]AW[kc]AB[jc]AB[kd]AB[ke]AW[nc]AW[qd]LB[jc:A]C[how can black use the aji of A?]AP[goproblems]
+(;B[lc];W[kb]
+(;B[mc];W[jb]LB[nd:A]C[good. black probably continues at ARIGHT])
+(;B[lb];W[jb]
+(;B[md]C[not optimal. white's O17 stone remains effective])
+(;B[me]C[not optimal. white's O17 stone remains effective]))
+(;B[md];W[lb])
+(;B[jb];W[lb]
+(;B[mb];W[mc])
+(;B[mc];W[mb])))
+(;B[kb];W[lc])
+(;B[jb];W[lc])
+(;B[lb];W[lc])
+(;B[ib];W[lc])
+(;B[md];W[lb])
+(;B[mc]
+(;W[lc]C[];B[md];W[mb]
+(;B[lb];W[kb];B[nb];W[la];B[oc]C[The ladder might not work but black can trade the corner for the outside. Play on for some variations.RIGHT];W[nd]
+(;B[ne];W[od];B[pd];W[oe];B[pe];W[of]
+(;B[pc])
+(;B[pb]))
+(;B[pd];W[ne];B[qe];W[ob];B[pb];W[na];B[qc]))
+(;B[nb]
+(;W[ob];B[lb];W[na];B[kb]TR[jd]TR[id]TR[hc]C[This can be a good way of playing if the marked stones are weak.RIGHT])
+(;W[lb]LB[jb:A]C[White has bad aji at A or Black can play M16 in sente.])))
+(;W[kb]
+(;B[lc])
+(;B[oc]))))

@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[1d]DP[15]SO[santa c]CO[0]AB[cb]AB[cc]AB[cd]AB[ce]AW[be]AW[cf]AW[df]AW[de]AW[dd]AW[dc]AW[db]AB[eb]AB[ec]AB[ed]AB[gb]AW[ca]AB[bf]AB[bg]AB[cg]C[How did W put the stone to use?]AW[dg]AW[fg]AW[gg]AW[hf]AB[gf]AB[ge]AB[he]AW[gc]SZ[9]TR[ce]TR[cd]TR[cc]TR[cb]AP[goproblems]
+(;W[bd]
+(;B[bb]
+(;W[ac]
+(;B[ab];W[ba];B[ae];W[da]C[W wins the race, nice!RIGHT])
+(;B[ba];W[da];B[ae];W[ab]C[RIGHT]))
+(;W[ab];B[ac]
+(;W[ba];B[aa]C[ko even if a good one...])
+(;W[bc];B[aa]LB[da:1]LB[ae:2]))
+(;W[ba];B[ac]
+(;W[ab])
+(;W[bc];B[ab]))
+(;W[bc];B[ab]LB[ba:1]LB[ae:2]))
+(;B[ac];W[bb]C[RIGHT])
+(;B[ab];W[bb]C[RIGHT])
+(;B[ba];W[da]C[RIGHT]))
+(;W[bb];B[bd]))

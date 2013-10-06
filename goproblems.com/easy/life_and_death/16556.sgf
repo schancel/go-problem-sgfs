@@ -1,0 +1,44 @@
+(;GE[life and death]DI[6k]DP[36]SO[morten]CO[0]AB[ba]AB[eb]AB[ec]AB[dc]AB[cd]AB[ce]AB[be]AB[bg]AB[gb]AB[ee]AW[bb]AW[cb]AW[db]AW[cc]AW[bd]C[Best local play for black]AW[ac]AP[goproblems]
+(;B[ae]
+(;W[ad]
+(;B[ab];W[aa]C[Ko! But white takes first - probably white's best line.CHOICERIGHT])
+(;B[da];W[ca]
+(;B[aa];W[ab]C[Oops])
+(;B[ab];W[aa]C[Oops]))
+(;B[ca];W[da])
+(;B[aa];W[ab]C[Oops]))
+(;W[aa]
+(;B[ad];W[ca];B[bc]C[Ko! And black takes first!RIGHT])
+(;B[ab];W[ca]C[Oops])
+(;B[ca];W[ad];B[da];W[ea];B[da];W[ca]C[Oops])
+(;B[da];W[ca]))
+(;W[da]
+(;B[ad];W[aa]
+(;B[bc]C[Ko! And black takes first!RIGHT])
+(;B[ab]C[RIGHT]))
+(;B[aa];W[ad]C[Oops])
+(;B[ab];W[aa]C[Oops]))
+(;W[ab];B[ad]C[White would not answer this way - he can do better.])
+(;W[ca]
+(;B[aa];W[ad]C[Oops])
+(;B[ad];W[aa])))
+(;B[ad]
+(;W[ae]
+(;B[af]
+(;W[ad];B[ab];W[aa]C[Ko! White takes first and black has to find the first ko threat. The throw-in at A16 was a waste of a stone and if white wins the ko, he will have more points than in the correct solution. Black can do better.CHOICE])
+(;W[ca];B[ad]C[Ko! Black takes first, but white would not respond to A14 in this way.])
+(;W[aa];B[ad]C[Ko! Black takes first, but white would not respond to A14 in this way.])
+(;W[ab];B[ad]C[Ko! Black takes first, but white would not respond to A14 in this way.])
+(;W[da];B[ad]C[Ko! Black takes first, but white would not respond to A14 in this way.]))
+(;B[ab];W[ca]C[Oops])
+(;B[da];W[ca]C[Oops];B[af]
+(;W[ad];B[ab];W[aa])
+(;W[aa];B[ad];W[bc])))
+(;W[ab];B[ae])
+(;W[ca];B[bc]C[Ko! Black takes first, but white would not respond to A16 in this way.])
+(;W[aa];B[bc]C[Ko! Black takes first, but white would not respond to A16 in this way.])
+(;W[da];B[bc]C[Ko! Black takes first, but white would not respond to A16 in this way.]))
+(;B[ab];W[aa]C[Oops])
+(;B[aa];W[ab]C[Oops])
+(;B[ca];W[da];B[ae];W[ad];B[ab];W[aa]C[Oops])
+(;B[da];W[ca];B[ae];W[aa];B[ad];W[bc]C[Oops]))

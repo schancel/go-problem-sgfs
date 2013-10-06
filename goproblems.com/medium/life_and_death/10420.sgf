@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2d]DP[12]SO[kaf]CO[8]AB[aq]AB[bq]AB[cp]AB[do]AB[bo]AB[dn]AB[go]AB[hp]AB[hq]AB[hr]AB[gr]AB[er]AB[eq]AW[cq]AW[dq]AW[dp]AW[ep]AW[fp]AW[gq]AW[fr]AW[fs]AW[es]AW[cs]C[black to kill]AP[goproblems]
+(;B[dr]
+(;W[br]C[CHOICE]
+(;B[bs]
+(;W[as]C[CHOICE]
+(;B[ar]
+(;W[bs];B[fq];W[gp];B[gs]C[RIGHT])
+(;W[fq]C[CHOICE]
+(;B[bs]C[ko for seki, - this is the best black can count on at the correct play by white.RIGHT])
+(;B[cr];W[ds]
+(;B[bs]C[ko!  This is not the best play by b, though.  Wasted a ko threat.RIGHT])
+(;B[er];W[dr];B[bs]C[ko. And this is the worst play by b, - wasted all related ko threatsRIGHT])
+(;B[cr];W[bs])
+(;B[dr];W[er]))
+(;B[ds];W[cr])))
+(;B[gp];W[fq];B[ar];W[bs]C[seki]))
+(;W[ar];B[cr]C[RIGHT])
+(;W[gp];B[cr];W[as];B[ar]C[RIGHT]))
+(;B[ar];W[bs]C[seki]
+(;B[gp];W[fq])
+(;B[fq];W[gp]))
+(;B[as];W[fq];B[ar];W[bs]C[seki])
+(;B[gp];W[fq]
+(;B[bs];W[as])
+(;B[ar];W[bs]C[seki]))
+(;B[fq];W[gp]))
+(;W[gp];B[cr];W[br];B[bs])
+(;W[cr];B[gp]C[RIGHT]))
+(;B[gp];W[dr])
+(;B[br];W[cr]
+(;B[gp];W[dr])
+(;B[dr];W[gp]C[seki]))
+(;B[cr];W[br]
+(;B[bs];W[dr];B[ar];W[cr])
+(;B[dr];W[bs])
+(;B[gp];W[dr]))
+(;B[bs];W[dr]))

@@ -1,0 +1,66 @@
+(;GE[tesuji]DI[5k]DP[32]SO[piccolo]CO[0]AB[ka]AB[jb]AB[kb]AB[lb]AB[kc]AB[kd]AW[ib]AW[ic]AW[jc]AW[jd]AW[ke]AW[kf]AB[le]AB[lf]AB[lh]AW[nf]AW[nd]AW[nc]AW[lc]AW[ld]AB[nb]AB[oc]AB[pd]AB[qg]AW[ie]C[Please follow the marks for the first two moves.]TR[pf]AW[gb]AP[goproblems];W[pf]
+(;B[qf]TR[pe];W[pe]
+(;B[qe]C[This last move is a mistake played under time pressure. How to continue locally ?]
+(;W[ob]
+(;B[mb]C[]
+(;W[pc]C[]
+(;B[od]C[CHOICE]
+(;W[qd];B[oe]
+(;W[ne]C[Well done. Note that black would not answer this way, and sacrifice only L18 or the corner but not both :)RIGHT])
+(;W[of];B[md]
+(;W[ne];B[mc]C[Not optimal ! L18 should be killed too in this variation. (Black P16 is a mistake).RIGHT])
+(;W[me];B[mc];W[ne]C[Both gote AND suboptimal (you could have taken L18 in this variation).])))
+(;W[pb];B[qc];W[qb];B[rc];W[rb];B[sb]C[Semeai is lost.])
+(;W[qb];B[qc]
+(;W[pb])
+(;W[pa];B[rc];W[rb];B[pb]C[Impossible ko for white.])))
+(;B[md]C[CHOICE]
+(;W[od];B[mc]C[L18 comes back to life, but the corner is under white control. Well done.RIGHT])
+(;W[qd];B[mc]C[L18 comes back to life, but the corner is under white control. Well done.RIGHT])
+(;W[mc];B[od];W[ne];B[pb]))
+(;B[pb]
+(;W[od];B[qc]
+(;W[qd]MA[oa]MA[rd]C[Disaster for black.RIGHT])
+(;W[oc]MA[oa]MA[qb]C[Good, although R16 was better.RIGHT])
+(;W[oa];B[oc]C[Bad ko.]))
+(;W[qc];B[od];W[qd];B[oa]MA[md]C[Black has N16 at any moment, so no hope to win the smeeai for white.])
+(;W[oa];B[qc])))
+(;W[pb];B[qc]))
+(;B[pb];W[mb];B[oa];W[ma]C[Another option for black : corner is safe, but L18 dead.RIGHT])
+(;B[oa];W[pb];B[pc];W[qb];B[qc];W[rb];B[mb];W[rc];B[rd];W[od];B[qd];W[sc]
+(;B[pa];W[qa];B[sa];W[na];B[oa];W[ia];B[ma];W[mc];B[sd];W[ja]C[Seki. White is happy.RIGHT])
+(;B[sa];W[ra];B[pa];W[na]
+(;B[ma];W[ia];B[sd];W[mc];B[na];W[ja]C[Seki. White is happy.RIGHT])
+(;B[ia];W[qa];B[oa];W[ma];B[sd];W[mc];B[la];W[na];B[ma];W[ha]C[Black is dead.RIGHT]))))
+(;W[mb];B[ma]
+(;W[ob];B[oa]C[NOTE : if you plan to play a ko, do not waste local threats before !];W[na]C[];B[gh]TR[gg]C[Please answer the threat.];W[gg];B[nb];W[pb]
+(;B[mc]C[What if black ignores Q18 ?CHOICE]
+(;W[pc];B[md]
+(;W[od]C[A possible option, white gets the corner. But the main path is easier to play.RIGHT])
+(;W[qd]C[A possible option, white gets the corner. But the main path is easier to play.RIGHT]))
+(;W[md];B[pc];W[mb];B[qb]C[];W[na]C[Still a good ko for white. Note that J19 acts as a local threat which force black to take the second ko at N17 after the capture.RIGHT]))
+(;B[pc];W[na];B[hh]C[Please answer the threat.]TR[hg];W[hg];B[nb]
+(;W[qb];B[mc]TR[md]C[Please connect at the triangle mark. (Also possible to seek life in the corner, but keep it simple).];W[md];B[rc];W[mb]C[Black already has spent 2 threats, so, good ko for white. Well done.RIGHT])
+(;W[pa]C[];B[mc]
+(;W[md];B[qb];W[mb];B[qa])
+(;W[na];B[md];W[mb];B[ne]C[Black has too many local threats (O15, then connect at N15, then P13 ..etc).]))
+(;W[mc];B[qb];W[na]C[Not optimal, but a good ko for white. Note that J19 is a local threat to trade L18 for P18.RIGHT])))
+(;W[pb];B[md]
+(;W[ob];B[mc];W[pc];B[od];W[qd];B[ne];W[rd]C[You will live in the corner, but O14 group is destroyed. I would not call this a good exchange ^^])
+(;W[mc];B[ob];W[qc];B[qd]
+(;W[rb];B[rd]MA[qa]MA[sb])
+(;W[rd];B[rb]MA[rc]MA[qb]))))
+(;W[pc];B[pb];W[qc];B[qd]
+(;W[od];B[ob];W[qb];B[rb]C[])
+(;W[qb];B[od];W[rd];B[re]C[Dead shape.]))
+(;W[pb];B[qc]
+(;W[ob];B[mb];W[qb];B[rc];W[rb];B[sb]C[K19 counts twice. So black wins the semeai.])
+(;W[od]
+(;B[pc]
+(;W[mb];B[ma];W[ob];B[mc];W[md];B[mb];W[qb];B[rc];W[rb];B[sb]
+(;W[oa];B[ra];W[qa];B[na];W[sa];B[sc];W[ia];B[ra]C[Ko, black takes first. The correct answer is (at least) a much better ko for white.])
+(;W[ra];B[oa];W[pa]
+(;B[sc];W[ia];B[sa];W[na]C[Although white takes first, this is a 1-step ko. The correct answer is (at least) a much better ko.]))))))
+(;W[qc];B[pb]C[Looks dead.])
+(;W[od];B[pc]C[Black weaknesses are fixed, thanks :)]))
+(;B[qd]C[Black should go there. White would continue running.])))

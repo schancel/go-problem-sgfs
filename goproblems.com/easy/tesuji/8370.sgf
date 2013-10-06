@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[10k]DP[53]SO[alpc]CO[8]AB[fo]AB[go]AB[ho]AB[hp]AB[gq]AB[gm]AB[fm]AB[em]AB[hr]AB[ir]AB[jq]AB[jp]AB[lp]AW[hq]AW[iq]AW[ip]AW[io]AW[in]AW[hn]AW[hm]AW[jn]AW[km]AB[kn]AB[jm]AB[jl]AB[hl]AB[hk]AB[gj]AB[gi]AW[fi]AW[fj]AW[gk]AW[gl]AW[ek]AW[el]AW[hj]AB[fp]AB[fq]AB[ko]LB[kn:A]TR[hm]TR[hn]TR[in]TR[io]TR[jn]TR[ip]TR[iq]TR[hq]AW[mn]C[black just has cut at A, white to rescue his marked stones !]AP[goproblems]
+(;W[il];B[ik];W[jk];B[ij];W[kl]C[snapback!!!  W is rescued.RIGHT])
+(;W[ij];B[il];W[kl];B[jo]C[W is dead])
+(;W[ik];B[il]C[:(])
+(;W[jk];B[il];W[kl];B[ij];W[hi];B[ii]C[])
+(;W[kl];B[jk]))

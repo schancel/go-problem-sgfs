@@ -1,0 +1,21 @@
+(;GE[elementary]DI[5k]DP[32]SO[Song17]CO[8]AW[pp]AW[qp]AW[pq]AW[on]AW[mo]AB[mn]AW[no]AB[oo]AB[ro]AB[po]AW[qo]AB[qn]AW[pn]AB[op]AW[qq]AW[rp]AB[nq]AB[lq]AW[lp]AB[nn]AW[nm]AB[mm]AW[nj]AW[pk]AB[jq]TR[po]TR[oo]TR[op]C[White to kill the 3 black stones]AP[goproblems]
+(;W[mq]
+(;B[mr]C[]
+(;W[oq];B[np];W[nr]C[RIGHT];B[mp];W[mq]C[RIGHT])
+(;W[nr];B[oq]
+(;W[or];B[mp])
+(;W[mp];B[or];W[lr];B[ns];W[kq];B[pr];W[ps];B[qr]))
+(;W[np];B[oq]))
+(;B[nr]
+(;W[np];B[oq];W[mr]C[RIGHT])
+(;W[mr];B[np];W[mp]C[RIGHT])))
+(;W[oq];B[np];W[mq];B[nr]
+(;W[mr];B[mp];W[lo];B[lr])
+(;W[mp];B[mr];W[lr];B[kq])
+(;W[kq];B[lr]
+(;W[mr];B[mp])
+(;W[mp];B[mr];W[kr];B[kp];W[lo])))
+(;W[np];B[oq];W[mq];B[mr]C[not even a ko...];W[lr];B[nr];W[kq];B[lo];W[mp];B[kp];W[lq])
+(;W[nr];B[mq])
+(;W[mr];B[mq])
+(;W[kq];B[mq];W[kr];B[kp];W[ko];B[jp];W[oq];B[np];W[jr];B[ir];W[lr];B[mr];W[is];B[hr];W[ms];B[ns]))

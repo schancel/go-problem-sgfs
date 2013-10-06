@@ -1,0 +1,13 @@
+(;GE[endgame]DI[1k]DP[18]SO[Zwom]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[5]KM[0.00]
+PW[White]PB[Black]AW[ba][dc][ec][ad][bd][dd]AB[cb][db][eb][bc]
+(;B[cc]CR[cc]
+;W[cd]CR[cd]
+(;B[ac]CR[ac]
+;W[ca]CR[ca]
+;B[da]CR[da]
+;W[ab]CR[ab])
+(;B[ab]CR[ab]C[RIGHT Notice black need not answer w a3.]))
+(;B[ac]CR[ac]
+;W[cc]CR[cc]
+;B[bb]CR[bb]))

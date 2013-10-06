@@ -1,0 +1,43 @@
+(;GE[best move]DI[2d]DP[13]SO[MeleeNewb]CO[0]SZ[13]AW[ab]AW[bb]AW[bc]AW[bd]AW[be]AW[ae]AW[af]AB[ba]AB[ca]AB[cb]AB[db]AB[eb]AB[fb]AB[gb]AB[ga]AB[ja]AB[la]AB[mb]AW[kc]AW[jd]AW[ie]AB[jc]AB[id]AB[jf]AW[lf]AW[kg]AW[kh]AW[ki]AW[li]AW[lk]AW[kk]AW[kl]AW[jl]AW[jm]AB[km]AB[lm]AB[ll]AB[mk]AB[lj]AB[mi]AB[lh]AW[gl]AW[gk]AB[gj]AB[dk]AW[ck]AW[dj]AB[ee]AB[eg]AW[de]LB[ma:R]C[Atari go. Is there any chance of winning from here? Win if you can, n13 to resign if there is no hope.]AP[goproblems]
+(;B[je];W[kd];B[he];W[if];B[ig];W[hf];B[gf];W[hg];B[hh];W[gg]
+(;B[fg];W[gh]
+(;B[gi];W[fh]
+(;B[eh];W[fi]
+(;B[ei];W[fj]
+(;B[ej];W[fk];B[cj];W[di]
+(;B[ci];W[dh]
+(;B[ch];W[dg];B[df];W[cg]
+(;B[ce];W[dd];B[bg]C[Good!RIGHT])
+(;B[bg];W[cf]C[uh oh])
+(;B[cf];W[bg]
+(;B[ce];W[dd]C[uh oh])
+(;B[dd];W[ce]C[uh oh])))
+(;B[dg];W[ch];B[bh];W[cg];B[cf];W[bg]C[uh oh]))
+(;B[dh];W[ci]C[uh oh]))
+(;B[fk];W[ej]C[uh oh]))
+(;B[fj];W[ei];B[di];W[ej]
+(;B[cj];W[ek]C[uh oh])
+(;B[ek];W[cj]C[uh oh])))
+(;B[fi];W[eh]
+(;B[dh];W[ei]
+(;B[ej];W[di]
+(;B[cj];W[ci]C[uh oh])
+(;B[ci];W[cj]C[uh oh]))
+(;B[di];W[ej]C[uh oh]))
+(;B[ei];W[dh]C[uh oh])))
+(;B[fh];W[gi]
+(;B[hi];W[fi]
+(;B[ei];W[fj]C[uh oh])
+(;B[fj];W[ei]C[uh oh]))
+(;B[fi];W[hi]C[uh oh])))
+(;B[gh];W[fg]
+(;B[ff];W[fh];B[fi];W[eh];B[dh];W[ei]
+(;B[ej];W[di]
+(;B[cj];W[ci]C[uh oh])
+(;B[ci];W[cj]C[uh oh]))
+(;B[di];W[ej]C[uh oh]))
+(;B[fh];W[ff]C[uh oh])))
+(;B[kd];W[je]
+(;B[kb];W[lc]C[uh oh])
+(;B[lc];W[kb]C[uh oh]))
+(;B[ma]C[Actually there was something.]))

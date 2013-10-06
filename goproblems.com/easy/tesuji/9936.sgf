@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[6k]DP[37]SO[santa c]CO[9]C[Connect]AB[jq]AB[iq]AB[hq]AW[gq]AW[fq]AB[gp]AB[go]AW[hp]AW[jp]AW[jm]AW[ln]AW[im]AW[lo]TR[hp]AW[gm]AB[eo]AW[lq]AW[lr]AW[eq]AP[goproblems]
+(;B[jo]
+(;W[io]
+(;B[in];W[hn]
+(;B[ho];W[jn]
+(;B[ip]C[Well done! =)RIGHT])
+(;B[kp]C[Well done... =)RIGHT]))
+(;B[ip];W[ho]C[:(])
+(;B[kp];W[ho]C[:(]))
+(;B[ho];W[ip]C[:(])
+(;B[ip];W[ho]C[:(])
+(;B[kp];W[ho]C[:(]))
+(;W[ip];B[kp]C[RIGHT])
+(;W[ho];B[hn]
+(;W[in];B[io]C[RIGHT])
+(;W[ip];B[kp]C[RIGHT])
+(;W[kp];B[ip]C[RIGHT]))
+(;W[kp];B[ip]C[RIGHT]))
+(;B[kp]
+(;W[jo]TR[hp]C[:(CHOICE])
+(;W[ho]C[:(CHOICE]))
+(;B[ip];W[ho]C[:(])
+(;B[ho];W[ip]C[:(])
+(;B[io];W[ip]C[:(])
+(;B[in];W[ip]C[:(])
+(;B[hn];W[ip]C[:(]))

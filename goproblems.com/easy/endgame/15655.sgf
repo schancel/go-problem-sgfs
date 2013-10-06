@@ -1,0 +1,11 @@
+(;GE[endgame]DI[7k]DP[42]SO[thanush]CO[0]AB[pc]AB[pd]AB[qe]AB[re]AB[od]AB[nd]AB[mc]AB[lc]AB[lb]AB[jc]AW[qc]AW[pb]AW[oc]AW[nc]AW[nb]AW[mb]AW[qf]AW[pf]AW[ph]C[Reduce Whites territory]AP[goproblems]
+(;B[rb]
+(;W[qb];B[rc];W[oa]C[RIGHT])
+(;W[rc];B[qb];W[sb];B[pa];W[ob];B[ra];W[oa];B[ma]C[RIGHT]))
+(;B[rc];W[rb]
+(;B[qd];W[qb];B[sb];W[oa])
+(;B[sc];W[sb];B[qd];W[qb];B[ma];W[oa])
+(;B[sb];W[rd]C[unneccessary ko]))
+(;B[sb];W[rc];B[sc];W[rb]
+(;B[rd];W[ra]C[Not best solution])
+(;B[sd];W[ra]C[Not best solution])))

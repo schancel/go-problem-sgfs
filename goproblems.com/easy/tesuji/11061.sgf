@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[7k]DP[43]SO[sabetts]CO[0]SZ[19]AW[nn]AW[po]AW[qo]AW[ro]AW[np]AW[op]AW[rp]AW[jq]AW[pq]AB[mp]AB[pp]AB[qp]AB[mq]AB[qq]AB[rq]C[Help the black groups]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[or]
+(;W[oq]C[CHOICE];B[pr]C[RIGHT])
+(;W[pr]C[CHOICE];B[oq];W[qr];B[rr]C[RIGHT]))
+(;B[pr];W[or];B[oq];W[nq]
+(;B[nr];W[pq];B[os];W[oq]
+(;B[qr];W[mr];B[ns];W[lr]C[Black is dead])
+(;B[mr];W[qr]))
+(;B[pq];W[nr]))
+(;B[oq];W[nq];B[or];W[nr]C[This is not good enough for black]))

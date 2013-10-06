@@ -1,0 +1,5 @@
+(;GE[best move]DI[1k]DP[18]SO[n0oo]CO[7]SZ[19]AW[cb]AW[db]AW[fc]AW[gc]AW[ic]AW[ch]AW[eh]AW[bd]AB[bb]AB[cc]AB[dd]AB[cf]AB[fd]C[How to deal with WB16?]TR[bd]GM[1]FF[4]AP[GOWrite:2.1.15]PB[ ]PW[ ]GN[ ]PM[2]FG[259:]
+(;B[bc];W[bf]C[now white have lost the corner, and have to escape towards the center.])
+(;B[be];W[bc];B[ab]C[the first black move is a very interesting move];W[cd];B[dc];W[de];B[ee];W[ce];B[df];W[bf]
+(;B[ad]C[Note that we need F16 - otherwise it becomes a ladderRIGHT]TR[fd])
+(;B[ac]C[RIGHT])))

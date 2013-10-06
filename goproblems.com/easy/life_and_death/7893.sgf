@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[45]SO[happyboy]CO[5]AB[da]AB[db]AB[dc]AB[ed]AB[fd]AB[gd]AB[hc]AB[hb]AB[ha]AW[ca]AW[cc]AW[cb]AW[cd]AW[dd]AW[ee]AW[fe]AW[ge]AW[hd]AW[id]AW[ic]AW[ib]AW[ia]AW[hf]AW[df]AW[fa]C[Black first to get the best result. (Hint: Ko)]AP[goproblems]
+(;B[fc];W[fb]C[];B[gb];W[ga]C[Black is dead!])
+(;B[fb];W[gb]
+(;B[fc];W[eb]C[Black is dead!])
+(;B[gc];W[eb];B[ec];W[fc]C[Ko, correct!RIGHT]))
+(;B[gc];W[ec];B[eb];W[fb];B[fc];W[ea]C[Black is dead!])
+(;B[gb];W[ec];B[eb];W[fc]C[Black is dead!])
+(;B[ga];W[gc]C[Black is dead!]))

@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[3d]DP[10]SO[tob]CO[8]AB[pd]AB[nd]AB[qe]AB[ld]AB[jc]AB[bd]AB[bc]AB[cf]AB[dh]AB[cj]AB[bm]AB[db]AB[ec]AB[fb]AB[gc]AB[hc]AB[pk]AB[qk]AB[ok]AB[ol]AB[gh]AB[hi]AB[ii]AB[hg]AB[ig]AB[jg]AB[jh]AB[kh]AB[ki]AB[li]AB[lj]AB[mj]AB[nj]AB[kk]AB[jk]AB[ik]AB[jl]AB[hl]AB[hm]AB[im]AB[jm]AB[dr]AB[bq]AB[ap]AB[bo]AB[cn]AB[en]AB[gq]AB[gn]AB[ho]AB[qr]AB[rr]AB[pq]AB[oq]AB[mq]AB[lq]AB[np]AB[no]AB[qo]AB[ro]AB[nm]AB[mn]AB[ln]AB[lm]AW[bb]AW[cb]AW[cc]AW[dd]AW[ed]AW[fd]AW[fc]AW[gd]AW[hf]AW[if]AW[jf]AW[ke]AW[kg]AW[lh]AW[lg]AW[mi]AW[ni]AW[oi]AW[qi]AW[qf]AW[pf]AW[pl]AW[pm]AW[qn]AW[on]AW[nn]AB[om]AW[po]AW[oo]AW[pp]AW[qp]AW[qq]AW[mp]AW[mo]AW[kq]AW[kp]AW[ko]AW[kn]AW[km]AW[kl]AW[ll]AW[ml]AW[nl]AW[mm]AW[jq]AW[ip]AW[io]AW[in]AW[hn]AW[gm]AW[gl]AW[hj]AW[hk]AW[ij]AW[jj]AW[ji]AW[el]AW[cm]AW[dm]AW[dn]AW[bl]AW[am]AW[bp]AW[cp]AW[dp]AW[er]AW[eq]AB[jn]AB[jo]AB[jp]TR[bq]TR[ap]TR[bo]TR[cn]TR[bm]TR[dr]TR[en]TR[gn]TR[ho]TR[gq]LB[ip:A]C[10 black stones are dead but white made a mistake by playingat A. Can black do anything?]AP[goproblems]
+(;B[iq];W[hp]C[]
+(;B[hq]C[]
+(;W[go]C[]
+(;B[fn];W[fo]
+(;B[gp];W[ho]
+(;B[eo];W[fp]
+(;B[ep];W[fq];B[dq];W[gr]
+(;B[es];W[fr];B[do]C[Right. Black take all corner!!!CHOICERIGHT])
+(;B[do]C[RIGHT]))
+(;B[fq];W[ep]))
+(;B[fp];W[eo];B[ep];W[do];B[dq];W[cq];B[cr];W[br];B[ar];W[bs])
+(;B[ep];W[eo]
+(;B[fp];W[do];B[dq];W[cq];B[cr];W[br];B[ar];W[bs])
+(;B[do];W[co];B[fp];W[do];B[dq];W[cq];B[cr];W[br];B[ar];W[bs])))
+(;B[eo];W[fp]
+(;B[ep];W[fq]
+(;B[dq];W[gp];B[do]C[Right. Black take all corner!!!RIGHT])
+(;B[gp];W[ho];B[dq];W[gr]
+(;B[es];W[fr];B[do]C[RIGHT])
+(;B[do]C[RIGHT])))
+(;B[gp];W[ho];B[ep];W[fq];B[dq];W[gr]
+(;B[do]C[RIGHT])
+(;B[es];W[fr];B[do]C[RIGHT]))))
+(;B[gp];W[fn]C[White escapes unharmed.]))
+(;W[gp];B[fp];W[go];B[fn]C[White gets captured.RIGHT]))
+(;B[gp];W[go]
+(;B[hq];W[fn]C[White has no problems.])
+(;B[fn];W[hq]C['White escapes unharmed.])))
+(;B[hp];W[iq]C[Black achieves nothing.]))

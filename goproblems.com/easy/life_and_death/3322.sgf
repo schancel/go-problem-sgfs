@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4k]DP[31]SO[polo]CO[6]AW[cc][dc][ei][di][ci][bi][bh][bc][ed][ee][fh][fg][ff][be][dg]AB[bg][cg][ch][dh][eg][ef][de][ce][cd][bd]SZ[19]C[White to kill]
+
+(;W[ad];B[bf]
+(;W[df];B[ae])
+(;W[ae];B[df]))
+(;W[df];B[eh]
+(;W[cf];B[bf])
+(;W[bf];B[cf]
+(;W[ad];B[ae];W[af];B[ag])
+(;W[ag];B[af];W[ae];B[ad]))
+(;W[af];B[ag];W[ad];B[bf])
+(;W[ad];B[ae];W[af]C[RIGHT]))
+(;W[bf];B[cf]
+(;W[ad];B[ae];W[af];B[ag])
+(;W[ag];B[af];W[ae];B[ad]))
+(;W[eh];B[df];W[bf];B[ad];W[ag];B[af];W[ae];B[cf])
+(;W[af];B[bf]
+(;W[eh];B[df])
+(;W[df];B[ae];W[eh];B[ag])
+(;W[ag];B[df])
+(;W[ad];B[df])))

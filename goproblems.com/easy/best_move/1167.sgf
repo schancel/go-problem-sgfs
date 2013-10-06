@@ -1,0 +1,35 @@
+(
+;GE[best move]DI[8k]DP[48]SO[Spica]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AB[ac][bb][cb][db][be][ce][de][cf][cg][ch][bh][ah][eh][eg][fi][gi][ej][hk][fl][gl][gm][hm][hn][in][im][gp][fq][jo][ko][kp][kn][lm][mm][nm][nl][om][pn][qn][pp][gb][hb][hc][ib][jb][kc][ld][md][oc][pf][qf][pg][ok][oj][oi][ni][mi][kh][lj][kj][jj][ij][ii][ih][ig][hg][gg][gf][ge]
+AW[bc][bd][cd][ae][af][bf][bg][ei][di][ci][bi][fj][fk][gk][el][dn][dp][gn][go][ho][io][hl][il][jl][jm][jn][km][ll][lk][kk][nk][nj][ki][ji][jh][jg][jf][ie][jd][jc][ic][hd][gd][gc][fb][eb][ec][dc][ed][ee][fe][ff][fg][fh][gh][hh][hi][mh][nh][oh][pi][pj][pk][ol][pl][pm][qm][qh][qg][le][me][ln]
+C[Black to play. Best move?]
+(
+;
+B[ip]
+C[Big for territory but there is a more urgent move.]
+)
+(
+;
+B[cq]
+C[Looks good but there's a very urgent move around and J5 is still open.]
+)
+(
+;
+B[mk]
+C[Connects the large black group to live stones. RIGHT]
+)
+(
+;
+B[ne]
+C[Takes territory but the corner is still open since black needs to protect against connection to the R13 group.]
+)
+(
+;
+B[dq]
+C[Big for territory but a more urgent move is around and J5 is still open.]
+)
+)

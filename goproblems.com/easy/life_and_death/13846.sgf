@@ -1,0 +1,9 @@
+(;GE[life and death]DI[12k]DP[55]SO[trevor]CO[0]AB[ob]AB[pe]AB[qe]AB[re]AB[sd]AW[sc]AW[rc]AW[rd]AW[qd]AW[pd]AW[pc]AW[pa]AW[pb]AB[oe]AB[nd]AB[nb]AB[qb]AB[qa]C[Kill the white stones. No Ko or Seki.]AP[goproblems]
+(;B[rb]
+(;W[sb];B[ra]C[The black stones are a killing shape and can extend into a 5 stone killing shape to avoid Seki.RIGHT]TR[qc]TR[sa]MA[qa]MA[ra]MA[rb]MA[qb])
+(;W[ra];B[sa];W[sb];B[ra]C[The black stones are a killing shape. If captured, black plays at S19 to create a dead eye space.RIGHT]MA[qa]MA[ra]MA[sa]MA[qb]MA[rb]))
+(;B[ra];W[rb]C[Failed to create a killing shape. No seki, so white lives.])
+(;B[se];W[rb]C[Failed to create a killing shape. White lives.])
+(;B[qc];W[rb]C[Failed to create a killing shape. White lives.])
+(;B[sb];W[rb]C[Failed to create a killing shape. White lives.])
+(;B[sa];W[rb]C[Failed to create a killing shape. White lives.];B[ra]C[No seki.NOTTHIS]))

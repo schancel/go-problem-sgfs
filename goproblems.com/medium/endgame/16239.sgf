@@ -1,0 +1,12 @@
+(;GE[endgame]DI[1d]DP[17]SO[Field Mouse]CO[0]AB[rk]AW[rm]AW[pn]AW[on]AW[om]AW[oo]AW[op]AW[oq]AW[or]AW[os]AW[qr]AB[sk]AB[qk]AB[pk]AB[ok]AB[nk]AW[ol]AB[nl]AB[nm]AW[qq]C[Black to play the best endgame possible.]AP[goproblems]
+(;B[sm]
+(;W[rn];B[sn];W[so];B[sl];W[ro]C[The correct way for white.RIGHT])
+(;W[sn]
+(;B[rn];W[sl]
+(;B[qm];W[qn];B[ro];W[ql];B[rl]LB[pm:A]LB[so:B]C[Uiii, white is destroyed after A-B are played next!CHOICERIGHT])
+(;B[rl];W[ro]))
+(;B[qm];W[qn];B[rl];W[rn])
+(;B[sl];W[qn])))
+(;B[qm];W[qn];B[sm];W[sn])
+(;B[rl];W[sm];B[qm];W[qn])
+(;B[rn];W[sm];B[qm];W[qn]))

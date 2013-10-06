@@ -1,0 +1,12 @@
+(;GE[life and death]DI[4k]DP[28]SO[Edgardo]CO[8]AB[sq]AB[rq]AW[sr]AW[rr]AW[qq]AW[pq]AW[nq]AW[mq]AW[ms]AB[rp]AB[qp]AB[pp]AB[mp]AB[lq]AW[mr]AW[oq]AB[ns]AB[or]AB[qs]AB[ls]AB[lr]AB[np]AB[op]C[White to live with all his territory.]AP[goproblems]
+(;W[pr];B[ps];W[rs]C[RIGHT];B[qr]C[Blacks two last moves would be ko threats.];W[os];B[ps]LB[lp:T]C[T for Tenuki.]
+(;W[qs]C[RIGHT])
+(;W[qr]C[RIGHT])
+(;W[lp]C[Correct!
+Black's last move isn't a ko threat.RIGHT]))
+(;W[qr];B[ps]
+(;W[rs];B[pr]C[Seki.])
+(;W[pr];B[rs]C[Seki.])
+(;W[nr];B[pr]C[Ko.]))
+(;W[os];B[qr]C[White is dead!])
+(;W[ps];B[pr];W[qr];B[rs];W[ss];B[qs];W[rs]C[White cannot capture.]))

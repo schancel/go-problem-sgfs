@@ -1,0 +1,50 @@
+(;GE[fuseki]DI[6k]DP[37]SO[LCZLAPINSKI]CO[4]AB[dd]AB[pd]AB[dp]AB[pp]AW[cc]AB[dc]AW[cd]C[FORCE]AP[goproblems]
+(;B[ce];W[be]C[FORCE]
+(;B[bf]
+(;W[cf]C[FORCE];B[de];W[bg]C[FORCE];B[bd];W[af]C[FORCE];B[bc]
+(;W[df]C[This is a normal joseki move by white.FORCE]
+(;B[pj]C[The 3-10 point (R10) reduces white's potential invasion expansion because there is already a stone on the 3rd row.RIGHT])
+(;B[jq]C[The 3-10 point reduces potential white invasions because there is already a black stone on the 3rd row.RIGHT])
+(;B[jp]C[The 3-10 point (K3) reduces white's potential invasion expansion because there is already a stone on the 3rd row.RIGHT];W[qj];B[qg];W[qm];B[np];W[rp];B[cn];W[kc];B[eq]C[Protecting the corner.];W[qc];B[qd];W[pc];B[od];W[oc];B[nc];W[nb];B[mb];W[mc];B[nd])
+(;B[qj]C[The 3-10 point reduces potential white invasions because there is already a black stone on the 3rd row.RIGHT]))
+(;W[cb]C[A mistake by whiteFORCE];B[bb];W[db]C[FORCE];B[eb]TR[cd]TR[cc]TR[cb]TR[db]C[RIGHT]))
+(;W[db]C[FORCE];B[eb];W[ec]C[FORCE];B[de];W[fb]C[FORCE]
+(;B[jp]C[RIGHT];W[qj]C[RIGHT])
+(;B[jq]C[RIGHT];W[qj]C[RIGHT])
+(;B[pj]C[RIGHT];W[jq]C[RIGHT])
+(;B[qj]C[RIGHT];W[jq]C[RIGHT])
+(;B[cb]C[RIGHT])))
+(;B[cf];W[bf]C[FORCE]
+(;B[cg];W[db]C[FORCE]
+(;B[eb];W[cb]C[FORCE];B[fc];W[nc]C[FORCE]
+(;B[qf]C[RIGHT])
+(;B[lc]C[RIGHT])
+(;B[kc]C[RIGHT])
+(;B[ld];W[lc]C[White gets more space than with some of the other black moves. Remember white's playing strength is 4 levels better than your current level.];B[qf];W[pb];B[md];W[mc];B[jp];W[qn];B[ro];W[qk])
+(;B[pf]C[RIGHT])
+(;B[nd]C[RIGHT]))
+(;B[ea];W[nc]C[bE19 is gote. bE18 is normally sente.]))
+(;B[bg];W[cg]C[FORCE]
+(;B[dg];W[ch]C[FORCE]
+(;B[jp];W[qj];B[qm];W[cn];B[bo];W[qc];B[pc];W[qd];B[qe];W[re];B[rf];W[qf];B[pe];W[rg];B[rd];W[sf];B[rc];W[pf])
+(;B[bh];W[ci]C[FORCE]
+(;B[jp];W[qj])
+(;B[pj];W[jq])
+(;B[bi];W[cj]C[FORCE]
+(;B[pj];W[jq]C[FORCE];B[jc]C[RIGHT])
+(;B[jp];W[qj]C[FORCE];B[qg];W[qm]C[FORCE]
+(;B[np];W[bj]TR[bi]TR[bh]TR[bg])
+(;B[bj];W[db]C[FORCE];B[eb];W[cb]C[FORCE];B[ck]C[RIGHT])))))
+(;B[bh];W[db];B[eb]
+(;W[cb];B[fc]C[White lives small in the corner.];W[dg];B[ef];W[ci])
+(;W[ch]C[];B[ci];W[de];B[df];W[ee];B[ef];W[ec]MA[dd]MA[dc]C[D16 group is dead.];B[qj];W[jq]))
+(;B[ch];W[dg]TR[bh]TR[de]C[Black has the two marked weaknesses.];B[pj];W[jq])
+(;B[bd];W[bh];B[dg];W[ch]C[White gets potential later expansion on the left side and into the center.]
+(;B[jp];W[qj])
+(;B[pj];W[jq])
+(;B[bc];W[nc]TR[cd]TR[cc]C[Black captures the marked stones but this is a slow move.])))
+(;B[cb];W[cg]C[White gets potential later expansion on side with wC10 or into center.];B[pj];W[jq])))
+(;B[cb]C[This gives white more access to the left side and left center than white normally gets.];W[cf];B[pj];W[jq])
+(;B[de]C[RIGHT];W[ce]C[FORCE];B[df];W[cn]C[FORCE];B[fq]C[];W[nc]C[FORCE];B[qf];W[pb]C[FORCE];B[qi]C[RIGHT])
+(;B[no]C[This is unusual and plays for influence rather than immediate territory.];W[de]C[FORCE];B[qj];W[fq]C[FORCE];B[cn];W[dr]C[FORCE];B[ck];W[ee]C[FORCE];B[jc]C[RIGHT])
+(;B[cf]C[RIGHT]))

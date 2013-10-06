@@ -1,0 +1,24 @@
+(;GE[life and death]DI[2d]DP[14]SO[santa c]CO[0]AW[cr]AW[cq]AW[bp]AW[ar]AB[cp]AB[dp]AB[dq]AB[dr]AB[ds]AB[eq]AW[er]AW[fr]AW[fq]AW[eo]AB[dn]AB[cn]AB[bm]AB[bl]AB[bk]AB[cl]AW[ck]AW[dk]AW[dl]AW[cm]AB[cj]AB[ci]AB[ch]AB[dh]AW[di]AW[dj]AW[eh]AW[gn]AW[hm]AW[hk]AW[hi]AW[fg]AW[ef]AW[df]AW[cf]C[What should you do?]AP[goproblems]
+(;B[bs];W[cs]
+(;B[ap];W[bo]
+(;B[ao]
+(;W[bn]
+(;B[an]C[nice!RIGHT])
+(;B[am]C[nice!RIGHT])
+(;B[bq];W[br]
+(;B[an];W[aq];B[am]C[nice!RIGHT])
+(;B[am];W[aq];B[an]C[nice!RIGHT]))
+(;B[br];W[bq]
+(;B[an];W[am];B[al];W[dm]C[B is one liberty behind!])
+(;B[dm];W[an])))
+(;W[an];B[bn]MA[br]MA[aq]C[RIGHT]))
+(;B[br];W[bq];B[ao];W[bn])
+(;B[bq];W[br]))
+(;B[br];W[bq];B[ap];W[bo])
+(;B[bq];W[br])
+(;B[bo];W[ap])
+(;B[ao];W[ap]))
+(;B[cs];W[bs])
+(;B[bq];W[bs])
+(;B[bo];W[ap])
+(;B[ap];W[bs]))

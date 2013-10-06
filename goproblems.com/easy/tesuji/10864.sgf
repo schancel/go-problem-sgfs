@@ -1,0 +1,111 @@
+(;GE[tesuji]DI[10k]DP[52]SO[gorka]CO[0]AB[ip]AB[io]AB[in]AB[jn]AB[gp]AB[hp]AB[jq]AB[jr]AB[kr]AW[kn]AW[jo]AW[ko]AW[jp]AW[kp]AW[kq]AB[lp]AB[lq]AW[lo]AB[mn]AB[np]AB[op]AB[pp]AB[on]AB[om]AW[oo]AW[pn]AW[pm]AW[pl]AW[pk]AW[pj]AW[jm]AW[im]AW[gm]C[Can black capture those stones ? If not, play at A (tenuki)]LB[qo:A]TR[kn]TR[jo]TR[jp]TR[kp]TR[kq]TR[ko]TR[lo]AP[goproblems];B[km];W[lm];B[kl]
+(;W[ln]
+(;B[ll];W[mm]
+(;B[ml];W[nm];B[nl]
+(;W[no]
+(;B[mo]C[right :)RIGHT])
+(;B[nn];W[mo]C[wrong :(])
+(;B[po];W[ol]C[wrong :(])
+(;B[ol];W[po]C[wrong :(]))
+(;W[mo];B[ol];W[po];B[no]C[right :)RIGHT])
+(;W[ol];B[nn];W[no];B[mo]C[right :)RIGHT])
+(;W[nn];B[ol];W[po];B[no]C[right :)RIGHT]))
+(;B[nl]
+(;W[nm]
+(;B[ml])
+(;B[nn]
+(;W[mo]
+(;B[no]C[RIGHT])
+(;B[mp];W[no];B[po]C[RIGHT])
+(;B[ml];W[no];B[ol];W[po])
+(;B[ol];W[ml];B[mk]C[RIGHT])
+(;B[po];W[ml];B[mk];W[ol]
+(;B[nk];W[no])
+(;B[no];W[nk]))))
+(;B[ol];W[no]
+(;B[mo];W[nn];B[po];W[mp]
+(;B[mo];W[mq];B[lr]C[RIGHT])
+(;B[mq];W[ml]
+(;B[mk];W[nk])
+(;B[mo];W[mk]))
+(;B[ml];W[mq];B[lr]C[RIGHT]))
+(;B[ml])
+(;B[nn]C[RIGHT])
+(;B[po]C[RIGHT])))
+(;W[nn]
+(;B[ml]C[right :)RIGHT])
+(;B[nm];W[mo];B[ml];W[no];B[po]C[RIGHT]))
+(;W[no];B[ml];W[nm])))
+(;B[ml];W[ll];B[lk];W[kk];B[jl];W[mk];B[lj]
+(;W[mm];B[nl]
+(;W[nn]
+(;B[no]C[right (sorry I can't show all different variations on the N8 move, but white is dead for sure)RIGHT])
+(;B[nm];W[mo];B[no]C[RIGHT])
+(;B[mo]C[RIGHT]))
+(;W[mo];B[po]
+(;W[no];B[mp]
+(;W[nk];B[nn])
+(;W[ol];B[nm]))
+(;W[ol];B[nm];W[no];B[mp])))
+(;W[mo];B[mm])))
+(;W[mo]
+(;B[no]
+(;W[mm]
+(;B[mp];W[ln];B[ml];W[nl]
+(;B[nm];W[nn]C[Ko])
+(;B[nn];W[ll])
+(;B[ll];W[nm])
+(;B[ol];W[ll]))
+(;B[nn];W[ln]
+(;B[ml];W[ll];B[lk];W[kk];B[jl];W[mk])
+(;B[ll];W[nl]))
+(;B[ml]
+(;W[nl]
+(;B[mp];W[ln];B[nm];W[nn];B[po];W[ll])
+(;B[ll];W[nm])
+(;B[nn];W[ln])
+(;B[nm]
+(;W[ln];B[ll];W[nn])
+(;W[ll];B[mp]C[RIGHT])
+(;W[ol]
+(;B[nn]C[RIGHT])
+(;B[po]C[RIGHT]))))
+(;W[ln]
+(;B[nm];W[nl])
+(;B[ll];W[nl]
+(;B[nn];W[nm])
+(;B[nm];W[nn];B[po]C[RIGHT])))
+(;W[ll]
+(;B[lk];W[kk])
+(;B[mp];W[ln];B[lk];W[nm];B[nl]C[RIGHT]))
+(;W[nm]
+(;B[nl]
+(;W[nn];B[po];W[ol];B[oo];W[ll];B[lk]C[RIGHT])
+(;W[ll];B[mp];W[ln];B[lk]C[RIGHT])
+(;W[ln];B[ll]C[RIGHT])
+(;W[ol];B[nn]C[RIGHT]))
+(;B[nn]
+(;W[ln];B[nl]C[RIGHT])
+(;W[ll];B[ln]C[RIGHT])))
+(;W[ol]
+(;B[mp];W[ln];B[ll];W[nn];B[po];W[nm])
+(;B[nm]
+(;W[ln];B[ll]
+(;W[nn]
+(;B[nl]C[RIGHT])
+(;B[po]C[RIGHT]))
+(;W[nl]
+(;B[mp]C[RIGHT])
+(;B[nn]C[RIGHT])))
+(;W[nl];B[nn]C[RIGHT]))))
+(;B[ll];W[nl])
+(;B[nl];W[ll])
+(;B[nm];W[ll]))
+(;W[ln];B[ll];W[mm];B[ml]
+(;W[nl])
+(;W[nm];B[nl];W[nn];B[po]C[RIGHT])))
+(;B[nn];W[ll]
+(;B[lk]
+(;W[ln];B[ml];W[no];B[po];W[kk];B[jl];W[mk];B[lj];W[mm];B[nl];W[ol]))
+(;B[ln];W[kk]))
+(;B[nl];W[no];B[po];W[ll];B[lk];W[kk];B[jl];W[mk];B[ln]C[RIGHT])))

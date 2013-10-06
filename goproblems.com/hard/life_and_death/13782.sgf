@@ -1,0 +1,60 @@
+(;GE[life and death]DI[6d]DP[0]SO[Bleedo]CO[0]C[Black to get the best result in the upper-left corner]AB[cc]AW[db]AW[ec]AW[dd]AW[fe]AW[ge]AW[he]AW[ie]AW[id]AW[je]AB[if]AB[hg]AB[ic]AB[jc]AB[jd]AB[nd]AB[ne]AB[mg]AB[lg]AB[kg]AB[fg]AW[cf]AW[ef]AW[dp]AW[dq]AW[eq]AW[er]AB[ch]AW[ci]AW[dj]AB[an]AB[ao]AB[co]AB[bo]AB[cp]AB[cq]AB[cr]AB[dr]AW[do]AW[cn]AW[bn]AW[am]AW[bl]AB[eb]AB[fc]TR[db]AP[goproblems]
+(;B[cb];W[fb])
+(;B[dc];W[ed]
+(;B[cb];W[fb];B[da];W[gc])
+(;B[fb];W[cb];B[bc];W[bb]
+(;B[be];W[bd];B[cd];W[ce];B[ad];W[ab]
+(;B[ac]
+(;W[af]C[White refuses the koCHOICE];B[bf];W[bg];B[cg];W[bh];B[bi];W[dh];B[da];W[dg];B[ca];W[ag];B[ba]C[RIGHT])
+(;W[bf];B[af];W[ag];B[bg];W[ae]))
+(;B[bf];W[ac];B[bd];W[bg]
+(;B[cg];W[af])
+(;B[bh];W[af])
+(;B[af];W[ag])))
+(;B[ce];W[be])
+(;B[cd];W[ce];B[be];W[ac];B[bd];W[bf])
+(;B[bd];W[be])
+(;B[ac];W[bd])
+(;B[ad];W[cd])
+(;B[af];W[bd];B[ad];W[cd];B[ac];W[ab];B[ae];W[bg])
+(;B[ae];W[bd];B[ad];W[cd];B[ac];W[af])
+(;B[bf];W[be])
+(;B[ab];W[bd]))
+(;B[ea];W[cb];B[bc];W[bb];B[be];W[bd];B[cd];W[ce];B[ad];W[ab];B[ac];W[bf];B[af];W[da]
+(;B[bg];W[dh]
+(;B[cg];W[bi];B[dg];W[eg]C[White easily wins the capturing race])
+(;B[bi];W[cg]
+(;B[bh];W[bj])
+(;B[cj];W[bh])))
+(;B[ag];W[dh]))
+(;B[gb];W[ea]
+(;B[cb];W[fb])
+(;B[fb];W[cb];B[bc];W[bb]
+(;B[bd];W[be])
+(;B[ac];W[bd])
+(;B[ad];W[cd])
+(;B[ab];W[bd])
+(;B[af];W[bd])
+(;B[cd];W[ce];B[be];W[ac];B[bd];W[bf])
+(;B[ae];W[bd])
+(;B[ce];W[be])
+(;B[be];W[bd];B[cd];W[ce];B[ad];W[ab];B[ac];W[af];B[bf];W[bg];B[cg];W[bh];B[bi];W[dh]C[White wins the race])
+(;B[bf];W[be])))
+(;B[fa];W[cb];B[bc];W[bb]
+(;B[be];W[bd];B[cd];W[ce];B[ad];W[ab];B[ac];W[bf]
+(;B[af];W[gb]C[Black cannot live on the left side (Play A for variations)])
+(;B[da];W[af]))
+(;B[bd];W[be])
+(;B[ab];W[bd])
+(;B[ac];W[bd])
+(;B[ad];W[cd])
+(;B[cd];W[ce];B[be];W[ac];B[bd];W[bf])
+(;B[ae];W[bd])
+(;B[af];W[bd])
+(;B[bf];W[be])
+(;B[ce];W[be]))
+(;B[da];W[fb];B[cb];W[gc]))
+(;B[fb];W[dc])
+(;B[gb];W[dc])
+(;B[ea];W[dc])
+(;B[fa];W[dc]))

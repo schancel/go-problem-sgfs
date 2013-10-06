@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6k]DP[36]SO[Trucid]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[pa][qa][nb][ob][rb][pc][qc]AB[ma][mb][mc][nc][oc][pd][qd][rd][sd]C[Black to play]
+(;B[pb]CR[pb]
+(;W[oa]CR[oa]C[CHOICE]
+(;B[sb]CR[sb]C[RIGHT White is dead])
+(;B[rc]CR[rc]
+;W[qb]CR[qb]
+;B[sb]CR[sb]C[RIGHT White is dead]))
+(;W[sb]CR[sb]C[CHOICE]
+;B[oa]CR[oa]
+;W[qb]CR[qb]
+;B[na]CR[na]C[RIGHT White is dead])
+(;W[qb]CR[qb]C[CHOICE]
+;B[na]CR[na]
+;W[oa]CR[oa]
+;B[sb]CR[sb]C[RIGHT White is dead]))
+(;B[na]CR[na]
+;W[sb]CR[sb]C[Alive])
+(;B[sc]CR[sc]
+;W[sb]CR[sb]C[Alive])
+(;B[sb]CR[sb]
+;W[na]CR[na]C[Alive])
+(;B[rc]CR[rc]
+;W[sb]CR[sb]C[Alive]))

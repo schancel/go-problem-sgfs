@@ -1,0 +1,28 @@
+(;GE[life and death]DI[12k]DP[59]SO[maba]CO[8]AB[cr]AB[dr]AB[ds]AB[es]AW[fs]AW[fr]AW[er]AB[cq]AB[cp]AB[co]AB[bo]AB[ap]AW[dq]AW[dp]AW[do]AW[dn]AW[cn]AW[bn]AW[an]AW[ao]AW[aq]LB[aq:1]C[Black to live.]AP[goproblems]
+(;B[ar]
+(;W[bp]
+(;B[bq];W[ap];B[bs]C[RIGHT])
+(;B[bs]C[RIGHT])
+(;B[br];W[bs]))
+(;W[bs];B[bq]C[RIGHT])
+(;W[bq];B[br]C[RIGHT])
+(;W[br];B[bq]C[RIGHT]))
+(;B[bq];W[ar]
+(;B[bp];W[br])
+(;B[br];W[bp]C[ko])
+(;B[bs];W[bp]C[ko]))
+(;B[bs]
+(;W[ar]
+(;B[br];W[bp])
+(;B[bq];W[bp]C[ko])
+(;B[bp];W[br]C[The seki wasn't necessary.RIGHT]))
+(;W[br];B[bq]
+(;W[ar];B[as]C[RIGHT])
+(;W[bp];B[ar]C[RIGHT])))
+(;B[br];W[bp]
+(;B[bs];W[ar])
+(;B[ar];W[bs])
+(;B[bq];W[ap]
+(;B[ar];W[bs])
+(;B[bs];W[ar])))
+(;B[bp];W[br];B[bs];W[as];B[ar]C[ko]))

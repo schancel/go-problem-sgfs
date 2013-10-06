@@ -1,0 +1,22 @@
+(;GE[endgame]DI[6k]DP[39]SO[santa c]CO[8]AB[os]AB[ns]AB[mr]AB[lr]AB[ls]AB[lq]AB[lp]AB[mp]AB[mo]AB[no]AB[oo]AB[op]AB[po]AB[qo]AB[qp]AW[rp]AW[rq]AW[pp]AW[pq]AW[qq]AW[oq]AW[nq]AW[np]AW[mq]AW[nr]AW[rs]LB[os:A]C[And finally.. How did White deal with A?]AB[ro]AB[so]AP[goproblems]
+(;W[ps]
+(;B[pr]
+(;W[qr];B[qs]MA[ps]
+(;W[or]C[Well done! Anything else is too submissive! :)RIGHT])
+(;W[sr]C[Allows black to save his 2 stones by playing at A - You should've played B and put Black into a liberty-shortage!]LB[ms:A]LB[or:B]TR[pr]TR[qs])
+(;W[sp];B[ms]C[Black gets to save his stones and you have to add a move to live! :(]TR[sr])
+(;W[ps]C[NOTTHIS]))
+(;W[qs];B[or]C[White can live... But it's just too submissive... :(]LB[qr:1]LB[ms:2]LB[sr:3])
+(;W[sr];B[qs]C[Well life is sente here... But you sure got reduced... :(]LB[qr:1]LB[ms:2])
+(;W[or];B[qs];W[qr]C[Well done! Anything else is too submissive! :)RIGHT])
+(;W[sp];B[qs]C[White can live... But it's just too submissive... :(]LB[qr:1]LB[ms:2]LB[sr:3]))
+(;B[or];W[pr]C[RIGHT]))
+(;W[pr];B[ps]C[Black reduces! :(])
+(;W[qs]C[Lets black reduce! :(])
+(;W[qr];B[ps]C[Reduced in sente! Must add a move at T2 to live now! :(]TR[sr])
+(;W[rr];B[ps]C[Dead... ^^*]TR[pr]TR[qs])
+(;W[sr];B[ps]C[Reduced in sente! Must add a move to live now! :(]TR[qr]TR[sp])
+(;W[sp];B[ps]C[Reduced in sente! Must add a move at T2 to live now! :(]TR[sr])
+(;W[or];B[ps]C[Reduced in sente! Must add a move at T2 to live now! :(]TR[sr])
+(;W[sq];B[ps]C[Dead... ^^*]TR[qr]TR[sr])
+(;W[ss];B[ps]C[Dead... ^^*]))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[6k]DP[37]SO[unkx80]CO[8]AB[cc]AB[ce]AB[be]AB[bc]AW[bb]AW[cb]AW[dc]AW[de]AW[ee]AB[fe]AB[df]AB[ef]AB[cg]AB[ch]AB[ci]AW[bi]AW[bf]AW[cf]AW[bg]AW[bh]AB[cj]AB[eh]AW[ff]AW[gf]AW[gh]AB[ck]AW[bj]C[Black to play.]AP[goproblems]
+(;B[dd];W[ed]
+(;B[ec]
+(;W[cd]
+(;B[fd];W[dd]
+(;B[db]C[RIGHT])
+(;B[bd];W[db])
+(;B[eb];W[db]))
+(;B[db];W[bd]C[White can start a ko for everything, not as good as solution.])
+(;B[bd];W[eb]
+(;B[fc];W[dd])
+(;B[dd];W[fc])))
+(;W[fd];B[db]C[RIGHT]))
+(;B[cd];W[ec])
+(;B[fd];W[ec])
+(;B[db];W[ec]
+(;B[eb];W[cd]
+(;B[bd];W[fb])
+(;B[fc];W[bd])
+(;B[fb];W[bd])
+(;B[fd];W[fc]))
+(;B[fd];W[eb])
+(;B[fc];W[eb])
+(;B[cd];W[eb])
+(;B[ab];W[eb])))
+(;B[db]C[Wrong, see next problem!])
+(;B[ec];W[dd])
+(;B[ed];W[dd])
+(;B[cd];W[dd]))

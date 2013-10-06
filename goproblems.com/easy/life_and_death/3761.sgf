@@ -1,0 +1,42 @@
+(;GE[life and death]DI[18k]DP[67]SO[iqer2000]CO[6]AB[er]AB[cr]AB[dr]AB[fr]AB[gq]AB[hq]AB[hr]AB[hs]AW[gp]AW[hp]AW[iq]AW[ir]AW[is]AW[ip]AW[fq]AW[fp]AW[eq]AW[dq]AW[cq]AW[br]AP[White first to kill Black.]
+(;W[gs];B[gr]
+(;W[fs];B[es];W[cs]C[RIGHT])
+(;W[cs]
+(;B[ds];W[fs];B[bs]
+(;W[ar]C[Not the best way of defending, but it works.RIGHT])
+(;W[bq]C[RIGHT])
+(;W[aq]C[Ugly way of defending, but it works.RIGHT])
+(;W[bp]C[RIGHT])
+(;W[ap]C[Okay, it works. But don't try this kind of moves in a real game. Unless you're playing against me of course...RIGHT])
+(;W[as];B[bq]C[ko]))
+(;B[fs];W[ds]C[RIGHT])))
+(;W[cs];B[gs]
+(;W[ds];B[es])
+(;W[es];B[ds]))
+(;W[fs];B[cs]
+(;W[gr]C[RIGHT])
+(;W[gs];B[gr];W[es]C[RIGHT])
+(;W[es]C[RIGHT]))
+(;W[es];B[fs]
+(;W[ds];B[cs]
+(;W[gs];B[gr])
+(;W[gr];B[gs]))
+(;W[cs];B[ds]
+(;W[gs];B[gr])
+(;W[gr];B[gs])))
+(;W[ds];B[cs]
+(;W[es];B[fs]
+(;W[gs];B[gr])
+(;W[gr];B[gs]))
+(;W[fs];B[es]
+(;W[gs];B[gr])
+(;W[gr];B[gs])))
+(;W[gr];B[gs]
+(;W[fs];B[es])
+(;W[cs];B[ds])
+(;W[es];B[cs]
+(;W[fs];B[ds])
+(;W[ds];B[fs]))
+(;W[ds];B[cs]
+(;W[es];B[fs])
+(;W[fs];B[es]))))

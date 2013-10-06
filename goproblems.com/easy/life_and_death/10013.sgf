@@ -1,0 +1,29 @@
+(;GE[life and death]DI[7k]DP[44]SO[Field Mouse]CO[9]AB[pd]AW[qc]AW[rd]AB[pc]AB[qf]AB[mc]AB[rf]AW[pb]C[Black to find the killing move and some continuation.]AB[rb]AW[ob]AW[pa]AW[nb]AB[mb]AW[na]AB[nd]AP[goproblems]
+(;B[qb];W[rc];B[sb];W[qa]MA[sb]MA[rb]MA[qb]C[Marked stones are dead now.])
+(;B[rc]
+(;W[qb]
+(;B[qd]C[Yay!RIGHT])
+(;B[sd];W[se]
+(;B[re];W[sc]C[Ko.])
+(;B[sc];W[ra])
+(;B[sb];W[qd]C[Ko.]))
+(;B[se];W[sd];B[qd]C[RIGHT])
+(;B[re];W[qd];B[sd]C[RIGHT]))
+(;W[qd]
+(;B[qb];W[pe]
+(;B[oe]C[Yes! No way for white to live or escape.RIGHT])
+(;B[od];W[qe]C[Black is in trouble now.]))
+(;B[sd];W[se];B[sc];W[re];B[qb]C[Ya!RIGHT])
+(;B[se];W[sd];B[qb]C[:-)RIGHT])
+(;B[re];W[sd];B[qb]C[:o)RIGHT])
+(;B[sf];W[sd];B[qb];W[qa]C[!!])))
+(;B[sc];W[sd]
+(;B[rc];W[qb]C[:-(])
+(;B[qb];W[rc]C[Black is dead.]))
+(;B[sb];W[rc]
+(;B[sd];W[re]
+(;B[se];W[sc];B[qb];W[sf];B[se];W[qa])
+(;B[sc];W[se];B[qb];W[qa]))
+(;B[qb];W[qa])
+(;B[se];W[qb])
+(;B[sc];W[sd];B[qb];W[qa])))

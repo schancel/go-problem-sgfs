@@ -1,0 +1,21 @@
+(;GE[fuseki]DI[15k]DP[62]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];LB[nc:A][qf:B]
+C[black wants to approach the top-right. should he do it at A or B?
+]
+AW[pd][po][ep][pp][cq][dq][hq][lq][oq][pq][or]
+AB[dd][dn][qn][bo][cp][qp][bq][nq][qq][pr][qr]
+(;B[nc]
+C[RIGHT
+this emphasizes the top, which is the interesting side
+])
+
+(;B[qf]TR[qp][qq][qr][pr][qn]
+C[the marked stones are low, so this side is not interesting
+])
+
+)

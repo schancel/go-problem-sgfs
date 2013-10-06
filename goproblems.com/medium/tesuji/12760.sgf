@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[1k]DP[20]SO[IlanKeshet]CO[0]AW[rb]AW[qc]AW[pc]AW[oc]AW[nc]AB[qb]AB[pb]AB[ob]AB[nb]AB[mc]AB[md]AB[ld]AB[nd]AB[qd]AB[pe]AW[mb]AW[la]AW[kb]AW[kc]AW[lc]LB[rb:A]C[White just played a tricky hane at A. How to respond?]AP[goproblems]
+(;B[rc];W[rd]
+(;B[sc];W[sd]
+(;B[re];W[sb]
+(;B[rc];W[ra]
+(;B[pd];W[sc]
+(;B[od];W[rc]
+(;B[se];W[na];B[qa]C[Correct! Black is one liberty aheadRIGHT])
+(;B[qa];W[na];B[se]C[Correct! Black is one liberty aheadRIGHT])
+(;B[na];W[qa];B[se];W[pa]))
+(;B[qa]C[RIGHT])
+(;B[na];W[qa];B[od];W[rc]))
+(;B[od];W[sc]
+(;B[pd];W[rc])
+(;B[qa]C[RIGHT])
+(;B[se]C[RIGHT]))
+(;B[qa];W[na]
+(;B[pd]C[RIGHT])
+(;B[od]C[RIGHT]))
+(;B[se];W[na]
+(;B[od];W[oa];B[pd]C[RIGHT])
+(;B[pd];W[oa];B[od]C[RIGHT])
+(;B[sc];W[oa];B[pd];W[pa];B[od];W[qa])))
+(;B[pd];W[rc]))
+(;B[pd];W[sb]
+(;B[rc]C[CHOICE])
+(;B[od];W[rc]C[White wins the capture race]))
+(;B[od];W[sb]
+(;B[pd])))
+(;B[ra];W[sc];B[re];W[na])
+(;B[re];W[sc]))
+(;B[pd];W[rc]C[White has more liberties then black and wins the capturing race])
+(;B[od];W[rc]C[White has more liberties then black and wins the capturing race])
+(;B[rd];W[rc])
+(;B[ra];W[rc]))

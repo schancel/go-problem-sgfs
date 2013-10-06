@@ -1,0 +1,14 @@
+(;GE[best move]DI[10k]DP[52]SO[veehan]CO[7]AB[ae]AB[ad]AB[bd]AB[cd]AB[ce]AB[de]AB[df]AB[ef]AB[eg]AB[eh]AB[di]AB[ci]AB[dj]AB[dk]AB[el]AB[fi]AB[gi]AB[gj]AB[ed]AB[ec]AB[fc]AB[gc]AW[af]AW[bf]AW[be]AW[cf]AW[cg]AW[ch]AW[bi]AW[bj]AW[cj]AW[ck]AW[bm]AW[an]AW[ao]AW[bo]AW[cn]AW[do]AW[en]AW[em]AW[dm]AB[bh]AB[ap]AB[bp]AB[cp]AB[co]AB[dq]AB[ep]AB[eo]AB[fp]AW[fo]AW[fl]AW[fk]AW[fj]AW[gk]AW[gh]AW[gg]AW[fg]AW[ff]AW[fe]AW[fd]AW[gd]AW[go]AB[gp]C[after B plays 1, W responds with 2.  what's the most advantageous move for B?]AW[hi]AW[hj]AW[ho]AB[hp]AB[hc]AW[hd]AW[cl]LB[dh:1]LB[fh:2]AB[dh]AW[fh]AP[goproblems]
+(;B[ei];W[ah]C[W consider to defend. The oportunity vanished...])
+(;B[ag];W[ah]
+(;B[ai];W[aj]
+(;B[dg];W[ah]
+(;B[bg]C[RIGHT];W[ei]C[correct!RIGHT])
+(;B[ei];W[bg]C[gave up?]))
+(;B[ah];W[bg])
+(;B[bg];W[ah]))
+(;B[dg];W[bg]))
+(;B[ah];W[ai]C[seki. could be better...])
+(;B[bg];W[ah])
+(;B[dg];W[ah]C[let W time to defend])
+(;B[dp];W[ah]C[occasion lost..]))

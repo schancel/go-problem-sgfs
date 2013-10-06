@@ -1,0 +1,16 @@
+(;GE[life and death]DI[7k]DP[41]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bo][ap][aq][eq][ar][br][cr][er][ds][es]AB[an][cn][ao][co][eo][bp][ep][bq][dq][fq][dr][fr]C[White to play and live!]PL[W]
+(;W[dp]CR[dp]
+;B[cp]CR[cp]
+;W[cq]CR[cq]
+;B[dq]CR[dq]
+;W[bs]CR[bs]C[White lives :) RIGHT])
+(;W[cp]CR[cp]
+;B[dp]CR[dp]
+;W[cq]CR[cq]
+;B[bp]CR[bp]C[White is dead :(])
+(;W[cq]CR[cq]
+;B[dp]CR[dp]
+;W[cp]CR[cp]
+;B[bp]CR[bp]C[White is dead :(]))

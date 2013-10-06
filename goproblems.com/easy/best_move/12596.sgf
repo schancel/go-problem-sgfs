@@ -1,0 +1,34 @@
+(;GE[best move]DI[10k]DP[53]SO[ewq123]CO[0]AB[rr]AB[rq]AB[qq]AB[pq]AB[pr]AB[nr]AB[nq]AB[mq]AB[lq]AB[kq]AB[kr]AB[os]AW[or]AW[oq]AW[op]AW[np]AW[mp]AW[lp]AW[kp]AW[jq]AW[jr]AW[pp]AW[qp]AW[rp]AW[ip]AB[qs]AW[js]AP[goproblems]
+(;W[ks];B[ms]C[Black takes the key point and secures an eye left of the P line.])
+(;W[ns]
+(;B[ks];W[ms];B[ls]
+(;W[mr];B[lr];W[ns];B[ms]C[CHOICE])
+(;W[lr];B[mr];W[ns];B[ms]C[CHOICE]))
+(;B[ms];W[ks];B[ls]C[CHOICE]))
+(;W[ls];B[ks];W[ns];B[ms]C[CHOICE];W[lr];B[mr]C[CHOICE])
+(;W[ms]
+(;B[ks];W[ns]
+(;B[ls];W[ps]C[Ko for lifeRIGHT])
+(;B[ps];W[ls]C[seki! But what if b doesn't answer wN1 with bL1 ? see variations...RIGHT]))
+(;B[ns]
+(;W[ks]C[Good! Point wise, this is the same as a seki, but this way B has a ko-threat.Apparantly this is optimal play for both!RIGHT])
+(;W[ls];B[ks]C[CHOICE])
+(;W[mr];B[ks]C[CHOICE])
+(;W[lr];B[ks]C[CHOICE]))
+(;B[ls];W[ks];B[ns];W[lr]C[White takes a point, Black has none left of the P line.RIGHT])
+(;B[mr];W[ks];B[ns];W[ls]C[RIGHT]))
+(;W[lr];B[ks]
+(;W[mr];B[ns]C[CHOICE])
+(;W[ns];B[ms]
+(;W[ls];B[mr]C[CHOICE])
+(;W[mr];B[ls]C[CHOICE]))
+(;W[ls];B[ns]C[CHOICE])
+(;W[ms];B[ns]C[CHOICE]))
+(;W[mr];B[ks]
+(;W[ns];B[ms]
+(;W[lr];B[ls]C[CHOICE])
+(;W[ls];B[lr]C[CHOICE]))
+(;W[ms];B[ns]C[CHOICE])
+(;W[lr];B[ns]C[CHOICE])
+(;W[ls];B[ns]C[CHOICE]))
+(;W[sq];B[ks]C[CHOICE]))

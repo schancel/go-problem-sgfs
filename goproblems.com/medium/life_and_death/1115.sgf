@@ -1,0 +1,27 @@
+(;GE[life and death]DI[2d]DP[12]SO[zatogo]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ml][ol][lm][pm][ko][lo][po][qo][jp][mp][op][rp][jq][rq][jr][rr]AB[nm][lp][pp][lq][mq][oq][pq][lr][pr][ls][ps]C[White to play]PL[W]
+(;W[nr]CR[nr]
+(;B[oo]CR[oo]
+(;W[no]CR[no]
+;B[ns]CR[ns]
+;W[nq]CR[nq]
+;B[np]CR[np]C[RIGHT Fighting the ko is the best white can do])
+(;W[np]CR[np]
+;B[nq]CR[nq]
+;W[no]CR[no]
+;B[ns]CR[ns]C[Black lives])
+(;W[ns]CR[ns]
+;B[no]CR[no]
+;W[np]CR[np]
+;B[mo]CR[mo]
+;W[nq]CR[nq]
+;B[nn]CR[nn]C[Black wins the semeai]))
+(;B[np]CR[np]C[Black O4 is a mistake]
+;W[no]CR[no]C[White O3 makes the eyes at N4 and P4 false.  It cannot be caught.]
+;B[oo]CR[oo]
+;W[ns]CR[ns]
+;B[mo]CR[mo]
+;W[nn]CR[nn]C[The O5 stone escapes and later white can make the 'rabbity six' shape to kill black.]))
+(;W[ns]CR[ns]
+;B[nr]CR[nr]))

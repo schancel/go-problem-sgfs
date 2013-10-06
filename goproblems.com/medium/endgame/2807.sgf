@@ -1,0 +1,13 @@
+(;GE[endgame]DI[4k]DP[28]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[da][fa][db][eb][fb][gb][ac][bc][bd][cd][be][de][bf][cf][cg]AB[bb][cb][cc][dc][ec][fc][gc][dd][fd][fe][df][ef][gf][eg]C[No komi, no prisoners - Black to play and draw!]
+(;B[ab]CR[ab]
+(;W[ca]CR[ca]
+(;B[ee]CR[ee]
+;W[ba]CR[ba]
+;B[ce]CR[ce]C[& Black connects the ko: jigo! RIGHT])
+(;B[ba]CR[ba]
+;W[ee]CR[ee]C[White wins by one point!]))
+(;W[ee]CR[ee]
+;B[ca]CR[ca]C[JIgo! RIGHT]))
+(;B[ee]CR[ee]C[This is wrong! Please check the next problem for the reason :)]))

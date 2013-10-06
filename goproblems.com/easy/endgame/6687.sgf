@@ -1,0 +1,40 @@
+(;GE[endgame]DI[5k]DP[33]SO[maba]CO[8]AB[oa]AB[ob]AB[pb]AB[qb]AB[qc]AB[rd]AW[nb]AW[oc]AW[pd]AW[qd]C[Where should black play?]AB[sc]AW[sb]AW[se]AW[na]AW[nc]AW[pc]AW[re]AW[qe]AP[goproblems]
+(;B[sd];W[rc])
+(;B[rc];W[ra]
+(;B[qa];W[sd]C[Seki])
+(;B[rb];W[sd]
+(;B[qa];W[pa])
+(;B[pa];W[qa])
+(;B[sa]C[Two step ko.])))
+(;B[rb];W[sd]
+(;B[rc];W[ra]
+(;B[qa];W[pa])
+(;B[pa];W[qa])
+(;B[sa]C[two-step ko]))
+(;B[sa];W[rc]
+(;B[sb];W[qa])
+(;B[qa];W[sb]C[ko]))
+(;B[qa];W[rc]))
+(;B[sa];W[sd]
+(;B[rc];W[ra]
+(;B[qa]C[Seki])
+(;B[rb];W[qa]C[ko]))
+(;B[rb];W[rc]
+(;B[sb];W[qa])
+(;B[qa];W[sb]C[ko]))
+(;B[ra];W[rc])
+(;B[qa];W[rc]))
+(;B[ra]
+(;W[sd]
+(;B[rc]C[RIGHT])
+(;B[rb];W[rc])
+(;B[sa];W[rc])
+(;B[qa];W[rc]))
+(;W[rc];B[rb];W[sd];B[rc]C[RIGHT])
+(;W[rb];B[rc]C[RIGHT])
+(;W[qa];B[rc]C[RIGHT]))
+(;B[qa];W[sd]
+(;B[rc];W[ra]C[Seki])
+(;B[rb];W[rc])
+(;B[sa];W[rc])
+(;B[ra];W[rc])))

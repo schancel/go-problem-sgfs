@@ -1,0 +1,45 @@
+(;GE[life and death]DI[7k]DP[40]SO[maba]CO[7]AB[sc]AB[rc]AB[qc]AB[pb]AB[ob]AB[nb]AB[na]AB[ma]AW[la]AW[kb]AW[mb]AW[mc]AW[nc]AW[oc]AW[pc]AW[qd]AW[rd]AW[sd]AW[sb]C[Black to live in the best way he can.]AP[goproblems]
+(;B[ra]
+(;W[qb]
+(;B[rb];W[pa]
+(;B[qa]C[RIGHT])
+(;B[sa];W[oa]))
+(;B[qa];W[rb])
+(;B[pa];W[rb]))
+(;W[rb];B[qb]C[RIGHT])
+(;W[qa];B[qb]C[RIGHT])
+(;W[pa];B[qa]
+(;W[qb];B[rb]C[RIGHT])
+(;W[rb];B[qb]C[RIGHT])))
+(;B[qb];W[ra]
+(;B[qa];W[pa]C[seki])
+(;B[pa];W[qa]C[seki])
+(;B[rb];W[qa]
+(;B[pa];W[oa])
+(;B[sa]C[two-step ko])))
+(;B[qa];W[ra]
+(;B[rb];W[qb])
+(;B[pa];W[qb];B[rb];W[qb])
+(;B[qb];W[pa]C[seki]))
+(;B[rb];W[ra]
+(;B[qb];W[qa]
+(;B[pa];W[oa])
+(;B[sa]C[two-step ko]))
+(;B[qa];W[qb])
+(;B[pa];W[qb])
+(;B[sa]C[two-step ko]))
+(;B[pa];W[qb]
+(;B[qa];W[rb])
+(;B[ra];W[rb])
+(;B[rb];W[ra])
+(;B[sa];W[rb]))
+(;B[sa];W[ra]
+(;B[rb];W[qb])
+(;B[qa];W[qb];B[rb];W[qb])
+(;B[qb];W[qa]
+(;B[pa]C[seki])
+(;B[rb];W[pa];B[sa]C[ko]))
+(;B[pa];W[qb]))
+(;B[oa];W[qb]
+(;B[qa];W[rb])
+(;B[rb];W[ra])))

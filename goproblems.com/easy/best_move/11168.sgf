@@ -1,0 +1,11 @@
+(;GE[best move]DI[12k]DP[56]SO[elciego]CO[0]AB[sc]AB[sb]AB[rb]AB[qc]AB[pc]AB[oc]AB[ob]AB[oa]AW[na]AW[nb]AW[nc]AW[od]AW[nd]AW[pd]AW[qd]AW[rd]AW[rc]AW[sd]AB[qb]AW[pb]AW[qa]AW[ra]C[How many ko threats can White make?FORCE]LB[lb:1]LB[la:0]LB[lc:2]LB[ld:3]AP[goproblems]
+(;W[la]C[Nope, there's at least one.])
+(;W[lb];B[ld]C[Show me]
+(;W[sa];B[pa]C[You could've had more...])
+(;W[pa];B[sa]C[You've got another ko threat...]))
+(;W[lc];B[lb]C[Show me]
+(;W[pa];B[sa]
+(;W[qa];B[pa]C[Right on!RIGHT])
+(;W[pa];B[qa]C[Right on!RIGHT]))
+(;W[sa];B[pa]C[You indeed had 2 ko threats, but you played the wrong move.]))
+(;W[ld]C[Not quite that many...]))

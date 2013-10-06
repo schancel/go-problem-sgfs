@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[38]SO[unkx80]CO[7]AB[pc]AB[qc]AB[rc]AB[sb]AW[sc]AW[sd]AW[rd]AW[qd]AW[pd]AW[ob]AW[od]AW[oc]C[Can black live (unconditionally or by ko)? If not, please play at D (dead).]LB[qf:D]AP[goproblems]
+(;B[qf]C[Black is dead.RIGHT])
+(;B[ra];W[pa]
+(;B[qa];W[qb])
+(;B[qb];W[qa])
+(;B[pb];W[qa]))
+(;B[qb];W[ra])
+(;B[qa];W[pb]
+(;B[qb];W[ra])
+(;B[ra];W[qb]))
+(;B[pb];W[qa]
+(;B[pa];W[rb])
+(;B[ra];W[pa])
+(;B[qb];W[pa])))

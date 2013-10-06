@@ -1,0 +1,36 @@
+(;GE[fuseki]DI[12k]DP[59]SO[Spirit]CO[5]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:1][pk:C][qk:D][pj:E][qj:F][yy:0][pl:A][ql:B][pi:G][qi:H]PL[B]
+AB[pd][pq]
+AW[dd][dp]
+(;B[pk]
+MN[1]
+C[RIGHT
+This move makes the right balance on 
+the right.]
+)(;B[qk]
+C[RIGHT
+This move makes the right balance on 
+the right.]
+)(;B[pj]
+LB[pj:1][pk:A][qk:B]C[Experience showed that A or B is 
+better.]
+)(;B[qj]
+C[Experience showed that A or B is 
+better.]
+LB[qj:1][pk:A][qk:B])(;B[pl]
+LB[pl:1][qf:A]C[This move is not a pincer when white 
+comes in at A, so it it slack.]
+)(;B[ql]
+LB[ql:1][qf:A]C[This move is not a pincer when white 
+comes in at A, so it it slack.]
+)(;B[pi]
+LB[pi:1][po:A][qo:A]C[This move is not a pincer when white 
+comes in at A, so it it slack.]
+)(;B[qi]
+C[This move is not a pincer when white 
+comes in at A, so it it slack.]
+LB[qi:1][qo:A][po:A]))

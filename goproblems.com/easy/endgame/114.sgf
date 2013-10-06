@@ -1,0 +1,34 @@
+(;GE[endgame]DI[7k]DP[42]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[bn][jn][kn][co][do][go][ho][io][ko][ap][bp][dp][ep][fp][kp][bq][dq][kq][br][er][ir][jr][kr][js]
+AB[jo][cp][gp][hp][jp][cq][eq][fq][iq][jq][cr][dr][fr][hr][bs][gs][hs][is]
+PL[2]C[best yose for white?
+]
+(;W[hq];B[gq]
+(;W[ip]
+C[RIGHT
+black can't connect, because white then descends to E1
+])
+
+(;W[es];B[fs];W[ip]C[RIGHT
+black can't connect
+])
+)
+
+(;W[ip];B[hq];W[es];B[fs])
+
+(;W[es];B[fs];W[hq];B[gq];W[ip]C[RIGHT
+])
+
+(;W[cs];B[ds];W[hq];B[gq];W[ip];B[hq])
+
+(;W[ds];B[es])
+
+(;W[gq];B[hq];W[es];B[fs])
+
+)

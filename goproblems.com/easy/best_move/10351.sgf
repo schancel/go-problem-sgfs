@@ -1,0 +1,24 @@
+(;GE[best move]DI[5k]DP[32]SO[Athanatos]CO[9]AW[qn]AB[qm]AW[po]AB[ql]AB[rn]AW[ro]AB[pl]AW[rm]AW[rl]AB[rk]AB[om]AB[pn]AW[qo]AB[qf]AW[qg]AB[pg]AW[qj]AB[rj]AW[qk]AB[qi]AW[ok]AW[oo]C[Black to play]AP[goproblems]
+(;B[pk];W[pj]
+(;B[oj];W[pi]
+(;B[oi];W[ph]
+(;B[oh];W[qh]
+(;B[rg]
+(;W[rh]
+(;B[sh];W[ri];B[si]C[RIGHT])
+(;B[ri]C[RIGHT]))
+(;W[ri];B[rh]C[RIGHT]))
+(;B[rh];W[rg];B[rf];W[ri]
+(;B[sg];W[sh])
+(;B[sh];W[ol]))
+(;B[ri];W[ol];B[pm];W[nm]))
+(;B[qh];W[oh]
+(;B[nh];W[og])
+(;B[og];W[nh])))
+(;B[ph];W[oi]))
+(;B[pi];W[oj]))
+(;B[pj];W[pk])
+(;B[oj];W[pk]
+(;B[nk];W[ol];B[pm];W[nm])
+(;B[ol];W[nk]))
+(;B[ol];W[oj]))

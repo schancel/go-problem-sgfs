@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[4k]DP[31]SO[ferdi]CO[7]SZ[19]AW[en]AW[fn]AW[fo]AW[bp]AW[cp]AW[dp]AW[fp]AW[bq]AW[gq]AW[dr]AW[er]AW[fr]AW[gr]AW[gs]AB[bm]AB[cn]AB[dn]AB[bo]AB[eo]AB[ep]AB[gp]AB[hp]AB[cq]AB[dq]AB[eq]AB[fq]AB[hq]AB[cr]AB[hr]AB[hs]C[White to move - how can he save his stones?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]TM[]PL[W]
+(;W[br];B[do];W[cs];B[ap]
+(;W[aq]C[White lives! RIGHT])
+(;W[bs]C[Two eyes. White A3 would have been slightly better; B1 is inside your own territory.RIGHT])
+(;W[ds];B[aq];W[ar];B[bs])
+(;W[ar];B[bs]))
+(;W[do];B[br]
+(;W[ar];B[bs];W[ds];B[es];W[aq];B[co]C[White can't take away blacks liberties, so he is dead!])
+(;W[cs];B[ar];W[bs];B[co])
+(;W[bs];B[ar]
+(;W[cs];B[ap])
+(;W[aq];B[co])))
+(;W[cs];B[br]
+(;W[ar];B[do])
+(;W[do];B[ar];W[bs];B[co]C[White is short of liberties!])))

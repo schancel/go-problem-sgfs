@@ -1,0 +1,40 @@
+(;GE[best move]DI[4k]DP[30]SO[autum]CO[8]AW[ba][ca][da][ea][bb][cb][bc][cd][be][bf][bg][cg][fg][hg][hf][hh][gh][hi][ii][ji][ij][dh][di][ei][fi][je][jf][kf][lf][qb][rb][rc][rd][qd][qf][rf][rg][qh][qi][qk][ql][pk][ok][nk][nl][ml][mm][mn][lo][lp][dl][em][fm][gk][hk][il][jl][jk][jm][in][hn][gn][go][cm][cn][bo][bp][mq][mr][lr][nr][oq][pp][po][qp][rp][ro]
+AB[cc][dc][db][eb][fb][fa][ed][ce][cf][dg][eg][eh][ef][gf][gg][fh][he][ic][jd][ke][le][mc][pb][pc][pd][qc][qe][pf][of][og][qg][ph][oi][mj][mf][mg][ih][jh][kh][ki][kj][jj][kk][kl][km][im][ch][jn][io][ho][ko][gp][fp][dp][cq][bq][co][dm][dn][en][jq][kq][lq][kr][mp][np][nq][nm][nn][ol][pl][oo][pn][qn][qm][qo][rn]
+(;W[de]C[nice move - but not the best one])
+(;W[pa]C[this is a standard tsume-go-move])
+(;W[ge]C[nice move - but not the best one])
+(;W[rl]C[nice move - but not the best one])
+(;W[op]C[nice move - but not the best one])
+(;W[no]C[nice move - but not the best one])
+(;W[mo]C[nice move - but not the best one])
+(;W[om];B[pm]
+ (;W[rl]C[RIGHT])
+ (;W[so]C[RIGHT])
+ (;W[sm]C[RIGHT])
+ (;W[sl]C[RIGHT])
+ (;W[sk]C[RIGHT])
+ (;W[sj]C[RIGHT])
+ (;W[si]C[RIGHT])
+ (;W[rj]C[RIGHT])
+ (;W[rk]C[RIGHT])
+ (;W[rl]C[RIGHT])
+ (;W[sn]C[leads to a ko])
+ (;W[op];B[rl]
+  (;W[mo];B[on])
+  (;W[no];B[on])
+  (;W[rk];B[sm])
+  (;W[sm];B[sn]
+   (;W[sl];B[rk])
+   (;W[rk];B[sl]
+    (;W[no];B[on])
+	(;W[mo];B[on])
+   )
+  )
+ )
+ (;W[mo];B[rl];W[no];B[on])
+ (;W[no];B[mo]
+  (;W[rl];B[op])
+  (;W[op];B[rl])
+ )
+)
+)

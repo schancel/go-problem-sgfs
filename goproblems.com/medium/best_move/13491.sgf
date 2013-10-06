@@ -1,0 +1,8 @@
+(;GE[best move]DI[3d]DP[10]SO[willemien]CO[0]AB[ca]AB[db]AB[cc]AW[da]AW[ea]AW[ec]AW[eb]AW[dd]AW[de]AB[cd]AB[bd]AB[ce]AW[cf]AB[bf]AB[dc]AB[af]AW[ag]AW[bg]AW[cg]AW[ef]AP[goproblems];W[bb]
+(;B[cb];W[ac];B[ad];W[ba]
+(;B[bc];W[be]C[RIGHT])
+(;B[be];W[ab]C[RIGHT]))
+(;B[ac];W[cb];B[ab]
+(;W[ba])
+(;W[ae];B[aa];W[ba]C[RIGHT]))
+(;B[ba];W[cb];B[ac];W[ae];B[be];W[aa];B[ab];W[bc];B[ad];W[ae]C[RIGHT]))

@@ -1,0 +1,16 @@
+(;GE[life and death]DI[8k]DP[49]SO[tom111]CO[8]AB[ar]AB[bs]AB[dr]AB[dq]AB[er]AW[ds]AW[fs]AW[fr]AW[fq]AW[eq]AW[dp]AW[cp]AW[bp]AW[eo]C[Black to live]AP[goproblems]
+(;B[bq];W[cq]
+(;B[cr];W[es];B[cs]C[RIGHT])
+(;B[cs];W[cr];B[es];W[ds]))
+(;B[br];W[cq]
+(;B[cr];W[es])
+(;B[es];W[cr])
+(;B[cs];W[cr]))
+(;B[es];W[cr];B[cs];W[cq])
+(;B[cr];W[bq]
+(;B[br];W[es])
+(;B[es];W[br]))
+(;B[cq];W[bq])
+(;B[cs];W[bq]
+(;B[br];W[es])
+(;B[es];W[br])))

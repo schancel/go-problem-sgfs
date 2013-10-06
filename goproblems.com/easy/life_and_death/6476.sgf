@@ -1,0 +1,19 @@
+(;GE[life and death]DI[7k]DP[44]SO[maba]CO[6]AB[os]AB[or]AB[oq]AB[np]AB[mp]AB[lp]AB[lq]AB[kp]AB[jp]AB[iq]AB[hq]AB[gr]AB[fr]AW[hr]AW[ir]AW[jq]AW[kq]AW[kr]AW[lr]AW[mq]AW[nq]AW[nr]AW[ms]AB[jr]AB[ip]LB[os:1]C[black 1 was a ko threat. White ignored it...]AP[goproblems]
+(;B[js]
+(;W[ns]C[CHOICE]
+(;B[ks]
+(;W[ls]C[CHOICE];B[mr]C[RIGHT])
+(;W[is]C[CHOICE];B[hs]C[RIGHT]))
+(;B[hs];W[ks]C[Black can do better.])
+(;B[is];W[ks]C[Black can do better.])
+(;B[ls];W[ks]C[Black can do better.]))
+(;W[ks]C[CHOICE]
+(;B[ns]
+(;W[is]C[CHOICE];B[mr]C[RIGHT])
+(;W[mr]C[CHOICE];B[ls]C[RIGHT]))
+(;B[is];W[hs]C[Black can do better.])
+(;B[hs];W[is]C[Black can do better.])))
+(;B[ns];W[js]C[Black can do better.])
+(;B[hs];W[js]C[Black can do better.])
+(;B[is];W[js]C[Black can do better.])
+(;B[ks];W[js]C[Black can do better.]))

@@ -1,0 +1,105 @@
+(;GE[life and death]DI[2k]DP[23]SO[koala]CO[3]AB[pd]AB[qc]AB[od]AB[oc]AW[nd]AW[nc]AW[mc]AW[mb]AB[lb]AB[lc]AW[ld]AW[kc]AW[kb]AW[kd]AW[jc]AB[jb]AB[ib]AB[hc]AB[gc]AW[hd]AW[id]AB[md]AB[le]AB[me]AB[ne]AB[mf]AW[nf]AW[of]AW[oe]AW[og]AB[ng]AW[mg]AB[nh]AB[oh]AB[ph]AW[qf]AB[dd]AB[ed]AB[cc]AW[de]AW[ce]AW[cj]AW[bm]AW[cm]AW[bo]AW[co]AB[dl]AB[em]AB[dn]AB[en]AB[fn]AB[il]AB[im]AB[in]AB[hk]AW[jl]AW[jm]AW[fl]AW[fm]AW[gn]AW[hm]AW[fo]AB[do]AB[bp]AB[dp]AB[cq]AW[fq]AB[jn]AB[kn]AB[ko]AB[jo]AB[ll]AB[qj]AB[jk]LB[mg:1]LB[nh:2]C[White to finish off the five stones.]AP[goproblems]
+(;W[ke];B[lf]
+(;W[lg];B[kf]
+(;W[jg];B[jf]
+(;W[if]C[Well done!RIGHT])
+(;W[kg];B[if]LB[pf:a]C[White will have to defend against a (crane's nest tesuji) with b, which allows black to escape...]LB[qg:b]))
+(;W[jf];B[kg]
+(;W[kh];B[jg];W[ig];B[jh];W[ji];B[ih];W[hh];B[ii];W[ij];B[hi];W[gi];B[hj])
+(;W[jg];B[kh]TR[lg]TR[mg])))
+(;W[kg];B[lg]
+(;W[lh];B[mh])
+(;W[kf];B[lh])
+(;W[mh];B[lh];W[mi];B[ki]))
+(;W[kf];B[lg];W[mh];B[lh];W[mi];B[ki])
+(;W[kh];B[lg]
+(;W[lh];B[mh])
+(;W[kg];B[mh])
+(;W[kf];B[mh])
+(;W[mh];B[lh];W[mi];B[li]
+(;W[mj];B[kj])
+(;W[lj];B[mj];W[ni];B[nj]))))
+(;W[lg];B[ke]
+(;W[je];B[kf]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[jg:b]LB[pf:a]LB[qg:c])
+(;W[jf];B[pf]TR[og]TR[nf]TR[of]TR[oe]C[Crane's nest - see sensei's library for more info.])
+(;W[kf];B[je]LB[pf:a]LB[if:b]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[qg:c])
+(;W[if];B[pf]TR[og]TR[nf]TR[of]TR[oe]C[Crane's nest - see sensei's library for more info.])
+(;W[lf]LB[jf:a]LB[pf:b]C[Black now has the option of escaping into the centre with a, or killing with b (crane's nest tesuji)])
+(;W[jd]LB[jf:a]LB[pf:b]C[Black has the option of running away with a, or killing the five white stones at b (crane's nest - see sensei's library for more info)]))
+(;W[kf];B[lg]TR[mg]C[Caught in a ladder.])
+(;W[lf];B[ke]
+(;W[je];B[kf]
+(;W[lg];B[kg]C[White has no hope.  Black does not need to catch the three stones, for he can play a and kill the five stones there and live.]LB[pf:a])
+(;W[kg];B[lg]
+(;W[jf];B[mh])
+(;W[lh];B[mh])))
+(;W[kf];B[je]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[if:b]LB[pf:a]LB[qg:c])
+(;W[jf];B[kf]
+(;W[lg];B[kg]C[White has no hope.  Black does not need to catch the three white stones, for he can play a and kill the five stones there.]LB[pf:a])
+(;W[kg];B[lg];W[je];B[mh]))
+(;W[kg];B[je]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[if:b]LB[pf:a]LB[qg:c]))
+(;W[kg];B[lg];W[mh];B[lh];W[mi];B[ki])
+(;W[lh];B[ke]
+(;W[je];B[lg]
+(;W[kf];B[mh])
+(;W[lf];B[mh])
+(;W[mh];B[kg]
+(;W[kh];B[jg]C[Black can runaway until he has sufficient liberties to play a, and kill the 5 stones with a crane's nest tesuji.]LB[pf:a])
+(;W[jh];B[kf]TR[kh]TR[jg]TR[jf]TR[lf]MA[pg]MA[pf]MA[pe]C[4libs vs 3libs])
+(;W[jg];B[kh]C[White fails to keep black from escaping.  (The ladder doesn't work)])))
+(;W[lf];B[kf]
+(;W[lg])
+(;W[kg];B[lg]
+(;W[mh];B[jg]
+(;W[lf];B[kh]
+(;W[lg];B[li]C[Ladder.])
+(;W[ki];B[lg];W[jh];B[kg]TR[ji]TR[li]C[Black can cut comfortably at either point, or play at a (crane's nest tesuji).]LB[pf:a]))
+(;W[kh];B[if]
+(;W[je];B[jf]C[Black escapes comfortably, the marked stones are now under attack, and black still has the option of playing a, the crane's nest tesuji.]LB[pf:a]TR[kg]TR[kh]TR[lh]TR[mh]TR[mg])
+(;W[jh];B[ih]C[The marked stones are likely to die.]TR[jh]TR[kh]TR[kg]TR[lh]TR[mh]TR[mg])))
+(;W[kh];B[mh])))
+(;W[jf]LB[pf:a]LB[lg:b]C[Black can either play a (crane's nest - see sensei's library) or force with b then escape (which is possible).])
+(;W[kf];B[je]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[if:b]LB[pf:a]LB[qg:c])
+(;W[kg]LB[jf:a]LB[pf:b]C[Black has the option of extending into the centre with a or killing trapping the five white stones in a crane's nest (see sensei's library)])
+(;W[jg];B[pf]C[Crane's nest.])
+(;W[ig];B[pf]C[Crane's nest.]))
+(;W[pf];B[lg])
+(;W[qg];B[lg])
+(;W[pg];B[lg])
+(;W[pe];B[lg])
+(;W[qe];B[lg])
+(;W[mh];B[kf]C[Perhaps not blacks strongest response, but black lives as you will see...]
+(;W[ke];B[lf];W[jf];B[kg]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black can attack the marked stones or simply escape with b.]LB[jh:b]LB[pf:a]LB[qg:c]TR[mh]TR[mg])
+(;W[lg];B[kg]C[White cannot catch black like this.  Black can easily escape into the centre, and white's three stones are under pressure.  Black has enough liberties to play a (crane's nest tesuji) and win the capturing race.  Here white's main priority would be to save the three stones rather than kill.]LB[pf:a])
+(;W[lf];B[lg];W[ke];B[lf]
+(;W[lh];B[jf]LB[kh:a]LB[pf:b]C[Depending on white's response, black and play a or b.])
+(;W[jf];B[lh];W[mi];B[li];W[mj];B[kj]))
+(;W[jg];B[jf]
+(;W[if];B[kg];W[jh];B[kh];W[ki])
+(;W[kg];B[if]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[hg:b]LB[pf:a]LB[qg:c])
+(;W[ig];B[if];W[hf];B[kg];W[kh];B[pf]C[Caught in a crane's nest.]))
+(;W[kg];B[jf]C[White cannot catch black like this.  If white plays b to catch black, black plays a and catches white's stones in a crane's nest (see sensei's library for more info).  If white c, then black escapes into the centre with b.]LB[ig:b]LB[pf:a]LB[qg:c])
+(;W[jf];B[kg];W[ke];B[lf]
+(;W[jh]LB[pf:a]C[Black kills the white stones with a, or breaks out of white's net.])
+(;W[jg];B[kh])
+(;W[kh];B[jg];W[ig];B[jh];W[ji];B[ih];W[hh];B[ii];W[ij];B[hi];W[gi];B[hj])
+(;W[ki];B[jh]TR[ji]TR[pf]C[Black will play either point depending on white's move.])))
+(;W[ki];B[lg];W[mh];B[lh];W[mi];B[li]
+(;W[lj];B[mj];W[ni];B[nj])
+(;W[mj];B[lj]))
+(;W[kh];B[lg]
+(;W[mh];B[lh];W[mi];B[li]
+(;W[lj];B[mj];W[ni];B[nj])
+(;W[mj];B[kj]))
+(;W[lh];B[mh])
+(;W[ke];B[mh])
+(;W[kg];B[mh]))
+(;W[li];B[lg];W[mh];B[lh];W[mi]C[After these forcing moves black has a range of moves to escape, and can also play a (crane's nest) to capture the white stones.]LB[pf:a])
+(;W[jg];B[lg])
+(;W[jf];B[lg])
+(;W[jh];B[lg];W[mh];B[lh];W[mi];B[li]
+(;W[lj];B[mj];W[ni];B[nj])
+(;W[mj];B[kj])
+(;W[ni];B[kj])
+(;W[kj];B[mj]))
+(;W[je];B[lg]))

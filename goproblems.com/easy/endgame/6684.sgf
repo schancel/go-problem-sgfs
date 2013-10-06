@@ -1,0 +1,38 @@
+(;GE[endgame]DI[6k]DP[36]SO[Zwom]CO[7]SZ[19]AW[dp]AW[ep]AW[fp]AW[cq]AW[eq]AW[gq]AW[hq]AW[iq]AW[lq]AW[cr]AB[ck]AB[hn]AB[co]AB[do]AB[eo]AB[fo]AB[cp]AB[gp]AB[hp]AB[bq]AB[fq]AB[br]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[er];W[fr];B[dr];W[dq];B[cs];W[fq]
+(;B[ds]C[RIGHT])
+(;B[bs]C[RIGHT])
+(;B[es];W[fs])
+(;B[fs];W[ds];B[es];W[gs]))
+(;B[dr];W[er]
+(;B[cs];W[dq]
+(;B[ds];W[es];B[bs];W[fr]C[Sente but worth less then the solution.])
+(;B[es];W[fr];B[ds];W[fs];B[bs]C[smaller than the correct solution.])
+(;B[fr];W[ds];B[fs];W[gr]))
+(;B[ds];W[dq];B[cs]C[too small]))
+(;B[cs];W[dr]
+(;B[ds];W[es]
+(;B[bs];W[fr]C[Though sente this is four points less then the solution.])
+(;B[fr];W[gr]
+(;B[fs];W[bs])
+(;B[bs]C[too small; white does not need to answer])))
+(;B[er];W[fr]
+(;B[es];W[fs])
+(;B[ds];W[es]))
+(;B[fr];W[er];B[es];W[gr]
+(;B[ds];W[fs];B[bs])
+(;B[fs];W[gs])))
+(;B[fr];W[er]C[This accomplishes almost nothing.])
+(;B[es];W[dr]
+(;B[er];W[fr]
+(;B[cs])
+(;B[ds];W[fs]))
+(;B[fr];W[er]
+(;B[cs])
+(;B[fs];W[gr];B[cs]))
+(;B[cs];W[er]
+(;B[ds];W[fs];B[bs]C[too small])
+(;B[fr]))
+(;B[ds];W[er]
+(;B[fr];W[gr];B[cs])
+(;B[cs]))))

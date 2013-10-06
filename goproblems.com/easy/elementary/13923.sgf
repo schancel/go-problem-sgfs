@@ -1,0 +1,23 @@
+(;GE[elementary]DI[7k]DP[41]SO[santa c]CO[0]AB[la]AB[kb]AB[kc]AB[lc]AW[ld]AW[kd]AB[ke]AB[le]AB[me]AB[ne]AB[oe]AW[od]AB[pd]AB[pc]AB[qc]AB[qb]AB[qa]AB[ra]AB[sa]AB[rb]AW[sb]AW[sc]AW[rc]AW[rd]AW[qd]AW[pe]AW[qe]AB[jd]AB[je]AW[jc]AW[jb]AW[ja]AW[ka]AW[id]AW[ie]AB[nf]AB[mf]AW[jf]AW[kf]AW[lf]AW[lg]AW[mg]AW[ng]AW[of]AW[pg]AW[ib]AW[if]AB[nc]C[After the outside liberties are taken, B must add a move, otherwise...]AW[oc]AB[ob]AP[goproblems]
+(;W[mb]
+(;B[lb]
+(;W[md]C[B can't protect both! :)RIGHT]MA[nd]MA[mc])
+(;W[mc];B[md]))
+(;B[mc];W[lb]C[RIGHT]))
+(;W[md];B[nd]
+(;W[mb]C[B can't protect both! :)RIGHT]MA[mc]MA[lb])
+(;W[mc];B[mb])
+(;W[ma];B[lb]))
+(;W[mc];B[md])
+(;W[ma];B[lb]
+(;W[mc];B[md])
+(;W[md];B[nd])
+(;W[nd];B[md])
+(;W[mb];B[md]))
+(;W[nd];B[md])
+(;W[nb];B[nd])
+(;W[pa];B[nd])
+(;W[pb];B[nd])
+(;W[lb];B[mb])
+(;W[na];B[nd])
+(;W[oa];B[nd]))

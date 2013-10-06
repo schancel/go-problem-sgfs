@@ -1,0 +1,28 @@
+(;GE[elementary]DI[4k]DP[29]SO[mrmoto]CO[9]AB[qr]AB[qq]AB[pq]AB[qp]AB[rq]AB[or]AB[nr]AB[mr]AB[lr]AB[kr]AB[nq]AB[sp]AB[so]AB[sm]AB[sn]AB[rm]AB[ql]AB[qn]AB[qm]AB[pn]AB[on]AB[oo]AB[nn]AB[mn]AB[mm]AB[ml]AB[kn]AB[jq]AB[jp]AB[io]AB[in]AB[im]AB[jl]AB[jk]AB[kk]AB[kj]AB[lj]AB[li]AB[lh]AB[nh]AB[oh]AB[oi]AB[ni]AB[pi]AB[qi]AB[qh]AB[qg]AB[hp]AW[jm]AW[jn]AW[jo]AW[ko]AW[ln]AW[lo]AW[kp]AW[lq]AW[kq]AW[mq]AW[mp]AW[np]AW[no]AW[mo]AW[op]AW[oq]AW[pp]AW[po]AW[ro]AW[rp]AW[qo]AW[rn]AW[ll]AW[mj]AW[nk]AW[oj]AW[nl]AW[pl]AW[pm]AW[om]AW[pj]AW[qj]AW[qk]AW[rk]AW[rl]AW[ri]AW[rh]AW[rg]AW[qf]AW[il]AW[hk]AW[ik]AW[hm]AW[ij]AW[jj]AW[ji]AW[ki]AW[kg]AW[ih]AW[mg]AW[of]AW[og]AW[pg]AW[ph]AW[jg]AW[lg]LB[ml:A]C[Black just played at A.  How should white respond?]AP[goproblems]
+(;W[km];B[mk]
+(;W[lk];B[nj]C[Black connects.])
+(;W[nj];B[lk]C[Black connects.]))
+(;W[lm];B[mk]
+(;W[nj];B[lk]C[Black connects.])
+(;W[lk];B[nj]C[Black connects.]))
+(;W[kl];B[mk]
+(;W[lk];B[nj]C[Black connects.])
+(;W[nj];B[lk]C[Black connects.]))
+(;W[lk];B[mk]
+(;W[nj];B[lm]
+(;W[km];B[kl]C[Black connects.])
+(;W[kl];B[km]C[Black connects, white group dies.]))
+(;W[lm];B[nj]C[Black connects.])
+(;W[kl];B[nj]C[Black connects.]))
+(;W[mk]
+(;B[km]C[CHOICE]
+(;W[kl];B[lm];W[lk];B[lp]C[:|])
+(;W[lm];B[kl];W[lk]C[Black can't connect.RIGHT]))
+(;B[lm]C[CHOICE]
+(;W[km];B[kl];W[lk]C[Black can't connect.RIGHT])
+(;W[kl];B[km];W[lk];B[lp]C[:[])
+(;W[lk];B[km];W[kl];B[lp]C[:{]))
+(;B[kl]C[CHOICE]
+(;W[km];B[lm];W[lk]C[Black can't connect.RIGHT])
+(;W[lm];B[km];W[lk]C[Black can't connect.RIGHT])
+(;W[lk];B[lm];W[km]C[Black can't connect.RIGHT]))))

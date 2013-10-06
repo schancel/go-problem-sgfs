@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[2k]DP[22]SO[liberti]CO[5]AB[bq]AB[cq]AB[dq]AB[eq]AB[dp]AB[gq]AB[fp]AB[fo]AB[go]AB[cn]AB[bl]AB[bk]AW[bo]AW[co]AW[do]AW[eo]AW[ep]AW[cp]AW[fn]AW[gp]AW[fq]AW[cl]AW[dk]AB[ci]C[How to deal with the marked black?
+]AB[di]AB[hn]TR[cn]AP[goproblems]
+(;W[cm];B[bn];W[bm];B[am]
+(;W[dn];B[an]
+(;W[al];B[ak]
+(;W[ao];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[ao];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[an];B[ao]
+(;W[dn];B[ap])
+(;W[ap];B[an]))
+(;W[al]
+(;B[an]C[CHOICE]
+(;W[ao];B[ak]
+(;W[dn];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[dn];B[ak]
+(;W[ao];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[bj]C[RIGHT]))
+(;B[ak]C[CHOICE]
+(;W[dn];B[an]
+(;W[ao];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[ao];B[an]
+(;W[dn];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT]))
+(;W[bj]C[RIGHT])))
+(;W[ao];B[an]
+(;W[dn];B[al];W[bj]C[RIGHT])
+(;W[al];B[ak];W[dn];B[al];W[bj]C[RIGHT])
+(;W[bj]C[RIGHT])))
+(;W[bm];B[fl]C[white group is under attack])
+(;W[bn];B[fl]C[white group is under attack])
+(;W[dn];B[bm]C[white group is under attack]))

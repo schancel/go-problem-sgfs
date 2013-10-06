@@ -1,0 +1,171 @@
+(;GE[life and death]DI[1k]DP[20]SO[nightMoriak]CO[0]AB[bc]AB[bb]AB[ca]AB[db]AB[eb]AW[bd]AW[cd]AW[cc]AW[dc]AW[fc]AB[dd]AW[df]AB[ef]AB[ff]AB[he]AB[id]AB[je]AW[jd]AW[jb]AW[lc]AW[oc]AW[kd]AW[ke]AW[dg]AW[ch]C[White to play and kill the corner]AB[jg]AB[eh]TR[bc]TR[bb]TR[ca]TR[db]TR[eb]AB[bg]AP[goproblems]
+(;W[fb];B[ec]
+(;W[ed];B[fd]
+(;W[ee];B[fe]
+(;W[de]
+(;B[gb]
+(;W[gc];B[hb]
+(;W[hc];B[ic]
+(;W[ib];B[fa]
+(;W[ga];B[ea]
+(;W[cb]C[RIGHT])
+(;W[ha];B[cb]C[CHOICE])
+(;W[ac];B[cb];W[ab];B[ha];W[ia];B[ga];W[ba];B[aa]C[Ko, white can get betterCHOICE])
+(;W[ia];B[cb]C[CHOICE]))
+(;W[ha];B[ea]
+(;W[cb];B[gd];W[ga]C[RIGHT])
+(;W[ga];B[cb]))
+(;W[cb];B[gd]C[CHOICE]))
+(;W[fa];B[cb]C[White can't kill the corner here (see variation)CHOICE];W[ea];B[ac];W[aa];B[ib];W[ad];B[hd];W[ab];B[gd])
+(;W[ea];B[da]C[White can only get a ko here (see variation)CHOICE]
+(;W[fa];B[gd];W[ba];B[cb];W[ab];B[aa])
+(;W[cb];B[fa]C[CHOICE]))
+(;W[ga];B[cb]
+(;W[ea];B[ib]C[White died hereCHOICE]
+(;W[ac];B[ab]
+(;W[ad];B[gd];W[fa];B[hd])
+(;W[fa];B[gd];W[aa];B[hd]))
+(;W[fa];B[gd];W[ac];B[hd]))
+(;W[ib];B[ea]C[Black's corner is aliveCHOICE])
+(;W[ac];B[ea]MA[ab]MA[fa]C[MiaiCHOICE])))
+(;W[cb];B[fa]C[CHOICE])
+(;W[ea];B[da]C[White can only get a ko here (see variation)CHOICE]
+(;W[fa];B[hc];W[cb];B[ba];W[ac];B[gd])
+(;W[cb];B[fa])
+(;W[ba];B[cb];W[ab];B[aa]))
+(;W[fa];B[cb]C[White dead here (see variation)CHOICE];W[ea];B[ac];W[aa];B[hc]C[];W[ad];B[gd];W[ab];B[ga])
+(;W[ga];B[cb]
+(;W[ea];B[hc]
+(;W[ac];B[gd]C[CHOICE])
+(;W[ha];B[gd]C[CHOICE]))
+(;W[fa];B[ea]C[CHOICE])))
+(;W[hb];B[gc]C[CHOICE])
+(;W[hc];B[gc]C[CHOICE])))
+(;W[hb];B[de]C[CHOICE]))
+(;W[fe];B[ee]C[CHOICE])
+(;W[gd];B[ee]C[CHOICE])
+(;W[de];B[gb]
+(;W[gd];B[fe]
+(;W[gc];B[hb]
+(;W[hc];B[ic]
+(;W[ib];B[fa]
+(;W[ha];B[ea]
+(;W[cb]C[RIGHT])
+(;W[ga];B[cb]C[CHOICE]))
+(;W[ga];B[ea]
+(;W[cb]C[RIGHT])
+(;W[ha];B[cb]C[CHOICE])
+(;W[ia];B[cb]C[CHOICE]))
+(;W[cb];B[ge]C[CHOICE]))
+(;W[fa];B[cb]C[White can't kill here (see variation)];W[ea];B[ac];W[aa];B[ib];W[ad];B[ge];W[ab];B[hd])
+(;W[ea];B[da]C[White can only get a ko here (see variation)CHOICE]
+(;W[cb];B[fa])
+(;W[fa];B[ge];W[ba];B[cb];W[ab];B[aa]))
+(;W[ga];B[cb]
+(;W[ea];B[ib]C[White died hereCHOICE]
+(;W[fa];B[ge];W[ac];B[hd];W[ab];B[ha])
+(;W[ac];B[ge];W[ab];B[hd];W[fa];B[ha]))
+(;W[ib];B[ea]C[Black is aliveCHOICE])
+(;W[ac];B[ea]C[MiaiCHOICE]MA[ab]MA[fa])))
+(;W[ic];B[hc];W[hd];B[ie]C[White deadCHOICE];W[fa];B[ge])
+(;W[ib];B[hc]
+(;W[ga];B[ha]
+(;W[fa];B[ge]C[CHOICE])
+(;W[ea];B[fa]C[Ko white can get betterCHOICE]))
+(;W[fa];B[cb]C[White deadCHOICE]
+(;W[ea];B[ac];W[aa];B[ge];W[ad];B[hd];W[ab];B[ga])
+(;W[ac];B[hd];W[ab];B[ge]))
+(;W[ea];B[da]C[White can only get a ko hereCHOICE]
+(;W[fa];B[hd];W[ba];B[cb];W[ab];B[aa])
+(;W[cb];B[fa])))
+(;W[cb];B[fa]C[CHOICE])
+(;W[ea];B[da]C[White can only get a ko here (see variation)];W[ba];B[cb];W[ab];B[aa]C[CHOICE])
+(;W[ga];B[cb]
+(;W[ea];B[hc]
+(;W[ac];B[ge]
+(;W[ab];B[hd]C[CHOICE];W[fa];B[ha]C[CHOICE])
+(;W[fa];B[hd]C[CHOICE]))
+(;W[ha];B[ia]C[CHOICE]))
+(;W[fa];B[ea]C[CHOICE]))
+(;W[fa];B[cb]C[White can't kill the corner (see variation)CHOICE];W[ea];B[ac];W[aa];B[hc];W[ad];B[ge];W[ab];B[hd]))
+(;W[hb];B[gc]C[CHOICE])
+(;W[hc];B[gc]C[CHOICE]))
+(;W[gc];B[hb]
+(;W[hc];B[ic]
+(;W[ib];B[fa]
+(;W[ha];B[ea]
+(;W[cb]C[RIGHT])
+(;W[ga];B[cb]C[CHOICE]))
+(;W[ga];B[ea]
+(;W[cb]C[RIGHT])
+(;W[ha];B[cb]))
+(;W[cb];B[gd]C[CHOICE]))
+(;W[ea];B[da]C[White can only get a ko here (see variation)CHOICE]
+(;W[fa];B[gd];W[ba];B[cb];W[ab];B[aa])
+(;W[cb];B[fa]))
+(;W[ga];B[cb]
+(;W[ea];B[ib]
+(;W[ac];B[gd]
+(;W[ab];B[hd]C[CHOICE])
+(;W[fa];B[hd]C[CHOICE]))
+(;W[gd];B[fe])
+(;W[fa];B[gd]))
+(;W[fa];B[ea])
+(;W[ib];B[ea]))
+(;W[fa];B[cb]C[White can kill black here (see variation)CHOICE];W[ea];B[ac];W[aa];B[ib];W[ad];B[gd];W[ab];B[hd]))
+(;W[gd];B[fe]))
+(;W[hb];B[gc]C[CHOICE])
+(;W[hc];B[gc]C[CHOICE])
+(;W[fa];B[gc]C[CHOICE]))
+(;W[hb];B[ee]C[CHOICE]))
+(;W[fd];B[ed]
+(;W[ee];B[de]
+(;W[fe];B[ce]
+(;W[be];B[bf]C[CHOICE])
+(;W[cf];B[be]C[CHOICE]))
+(;W[ce];B[fe]))
+(;W[de];B[ee]))
+(;W[de];B[ed]
+(;W[ee];B[fd]
+(;W[fe];B[gd]C[CHOICE])
+(;W[gd];B[fe]))
+(;W[fd];B[ee]))
+(;W[ee];B[ed]
+(;W[fd])
+(;W[de])
+(;W[fe];B[de]
+(;W[ce];B[fd])
+(;W[fd];B[ce])))
+(;W[fe];B[ee]C[CHOICE]))
+(;W[ec];B[cb]
+(;W[ac];B[ab]
+(;W[fb];B[ea]C[CHOICE])
+(;W[ea];B[fb];W[fa];B[gb];W[ga];B[gc]C[CHOICE]))
+(;W[fb];B[ea])
+(;W[ab];B[ac];W[ea];B[fb];W[fa];B[gb];W[ga];B[gc]C[CHOICE]))
+(;W[cb];B[ec]
+(;W[ed];B[fd]
+(;W[de];B[gc]
+(;W[fb];B[fa]C[CHOICE])
+(;W[gd];B[fb]C[CHOICE]))
+(;W[ee];B[fe];W[de];B[gc]C[CHOICE])
+(;W[gd];B[ee]C[CHOICE]))
+(;W[fd];B[ed]
+(;W[ee];B[de];W[fe];B[ce];W[be];B[bf]C[CHOICE])
+(;W[fe];B[ee]C[CHOICE])
+(;W[de];B[ee]C[CHOICE]))
+(;W[fe];B[ee])
+(;W[ee];B[ed]
+(;W[de];B[fd]C[CHOICE])
+(;W[fd])))
+(;W[ac];B[ec]
+(;W[ed];B[fd]
+(;W[de];B[gc]C[CHOICE])
+(;W[ee];B[fe]
+(;W[de];B[gc]C[CHOICE])
+(;W[gc];B[de]C[CHOICE])))
+(;W[fd];B[ed]
+(;W[ee];B[de];W[fe];B[ce];W[be];B[bf]C[CHOICE])
+(;W[de];B[ee]C[CHOICE]))
+(;W[ee];B[ed];W[fd]))
+(;W[ed];B[cb]C[CHOICE]))

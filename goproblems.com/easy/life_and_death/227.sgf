@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[7]AW[nb]AW[mc]AW[nc]AW[qc]AW[nd]AW[qd]AW[je]AW[le]AW[ne]AW[pe]AW[jf]AW[lf]AW[nf]AW[ig]AW[mg]AW[mh]AW[mi]AW[ni]AB[na]AB[lb]AB[mb]AB[ob]AB[ic]AB[kc]AB[oc]AB[id]AB[ld]AB[md]AB[pd]AB[me]AB[qe]AB[mf]AB[qf]AB[lg]AB[ng]AB[og]AB[lh]AB[ph]AB[qh]AB[ji]AB[li]LB[na:1]C[adum plays 1. ming ju 7p punishes him for his foolishness.]SZ[19]PL[W]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]GN[White (W) vs. Black (B)]PW[White]PB[Black]DT[1999-07-28]SY[Cgoban 1.9.2]
+(;W[od]
+(;B[pc]
+(;W[pb];B[oa]
+(;W[ma];B[la]
+(;W[pa];B[ma]
+(;W[lc]
+(;B[kd];W[kb]C[oopsRIGHT])
+(;B[kb];W[kd]))
+(;W[rb];B[of]))
+(;W[lc];B[kd];W[pa];B[ma];W[kb]C[RIGHT]))
+(;W[lc];B[kd]
+(;W[ma];B[la];W[pa];B[ma];W[kb]C[RIGHT])
+(;W[pa];B[ma];W[kb]C[RIGHT]))
+(;W[pa];B[ma]
+(;W[lc];B[kd];W[kb]C[RIGHT])
+(;W[kd];B[lc])))
+(;W[lc];B[kd];W[pb];B[oa]
+(;W[ma];B[la];W[pa];B[ma];W[kb]C[RIGHT])
+(;W[pa];B[ma];W[kb]C[RIGHT]))))
+(;W[pc];B[od]
+(;W[oe];B[lc];W[pb];B[oa];W[ma];B[la];W[pa];B[ma])
+(;W[lc];B[kd];W[oe];B[pf]))
+(;W[pb];B[od]
+(;W[oe];B[lc])
+(;W[lc];B[kd]))
+(;W[oe];B[lc])
+(;W[lc];B[kd];W[od];B[of];W[pc];B[oe];W[pd]C[correct, but white can do betterRIGHT]))

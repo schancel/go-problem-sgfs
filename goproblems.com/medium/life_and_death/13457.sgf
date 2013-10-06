@@ -1,0 +1,101 @@
+(;GE[life and death]DI[2d]DP[12]SO[IlanKeshet]CO[0]AB[bq]AB[cq]AB[cp]AB[cr]AB[dp]AB[ep]AB[fp]AB[gp]AB[hp]AB[ho]AB[fo]AB[fn]AB[gn]AB[hq]AW[dq]AW[eq]AW[fq]AW[gq]AW[aq]AW[br]AW[bp]AW[bo]AW[co]AW[eo]AW[en]AW[cm]AW[gm]AW[fm]AW[in]AW[jo]AW[jr]AW[jq]AW[hr]C[Black to get best result]AP[goproblems]
+(;B[gr];W[fr]
+(;B[dr]
+(;W[gs]
+(;B[er]
+(;W[cs]
+(;B[ds];W[ar];B[fs];W[es]C[Correct Solution. However w takes ko firstRIGHT])
+(;B[fs];W[es];B[ds];W[ar];B[fs]C[Excellent. Best result -- Black takes ko firstRIGHT])
+(;B[ar];W[as]))
+(;W[es]
+(;B[ds]
+(;W[fs]
+(;B[ar];W[as];B[bs];W[cs]C[Correct. However there is slightly better ko. If instead of d1, you play a2 thrown in firstRIGHT])
+(;B[bs];W[ar]))
+(;W[ar];B[fs]C[Excellent black takes ko firstRIGHT]))
+(;B[ar];W[as]
+(;B[bs];W[cs];B[ds]
+(;W[ap];B[bs];W[ar])
+(;W[fs];B[bs]C[Excellent. 2 step ko for white, and black takes firstRIGHT]))
+(;B[ds];W[fs];B[bs];W[cs]C[Correct solution however w takes ko first.  Navigate tree for better ko in this situationRIGHT]))))
+(;B[ar];W[as]
+(;B[er]
+(;W[es]
+(;B[bs];W[cs];B[ds];W[ap];B[fs]C[Excellent! Black takes ko first, and has b1 has local ko threatRIGHT])
+(;B[ds];W[fs];B[bs];W[cs]C[Correct, however w takes ko firstRIGHT])
+(;B[cs];W[ap]))
+(;W[cs]
+(;B[fs];W[es];B[ds];W[ap];B[fs]C[Excellent. Black takes ko and has b1 ko threatRIGHT])
+(;B[ds];W[ap];B[fs];W[es];B[bs];W[ar];B[fs]C[Excellent. Black takes ko firstRIGHT]))
+(;W[fs]
+(;B[cs]
+(;W[ap];B[es]C[Excellent. Black lives this way.RIGHT])
+(;W[es];B[bs]C[Excellent. Black lives this wayRIGHT]))
+(;B[es];W[cs])))
+(;B[bs];W[cs]
+(;B[ds];W[ap];B[fs];W[es];B[er];W[gr])
+(;B[er];W[gr];B[ds];W[ap]))
+(;B[fs];W[es];B[cs];W[ap])))
+(;W[er];B[ds]
+(;W[ap];B[es];W[gs];B[fs];W[gr];B[ir])
+(;W[gs];B[ar];W[as];B[bs];W[cs]C[Good ko for black, since black also has E1 ko threat])))
+(;B[er];W[dr]
+(;B[ds];W[es]
+(;B[bs];W[ar])
+(;B[ar];W[as];B[bs];W[cs]))
+(;B[cs];W[ap];B[ds]
+(;W[gs]
+(;B[ir];W[iq])
+(;B[fs];W[es]))
+(;W[es];B[ir];W[gs])))
+(;B[ar];W[as];B[dr];W[gs]
+(;B[er]
+(;W[es])
+(;W[cs]
+(;B[ds];W[ap];B[fs];W[es];B[bs];W[ar];B[fs]C[Excellent Black takes ko firstRIGHT])
+(;B[fs];W[es];B[ds])))
+(;B[cs];W[ap];B[er];W[es])))
+(;B[er];W[gr]
+(;B[dr];W[ap]
+(;B[fr];W[fs];B[ir];W[iq])
+(;B[cs];W[es];B[fr];W[fs];B[ds];W[ir];B[gs];W[fs]))
+(;B[fr];W[dr];B[ds];W[ap])
+(;B[cs];W[ap]
+(;B[dr];W[es];B[fr];W[fs])
+(;B[fr];W[dr])))
+(;B[fr];W[gr];B[cs];W[ap]
+(;B[dr];W[er])
+(;B[er];W[dr]))
+(;B[fs];W[gr]
+(;B[cs];W[ap])
+(;B[ds];W[ap]))
+(;B[cs];W[ap]
+(;B[gr];W[fr];B[fs];W[gs])
+(;B[fr];W[gr])
+(;B[er];W[gr]))
+(;B[ds];W[ap];B[gr];W[fr];B[ir];W[gs];B[iq];W[is])
+(;B[dr];W[gr];B[er];W[ap])
+(;B[es];W[gr])
+(;B[ar];W[as]
+(;B[gr];W[fr])
+(;B[dr];W[gr]
+(;B[er];W[ap])
+(;B[cs];W[ap];B[er];W[es];B[fr];W[fs]))
+(;B[er];W[gr]
+(;B[dr];W[ap];B[cs];W[es];B[fr];W[fs];B[ds];W[ir];B[gs];W[fs])
+(;B[fr];W[dr];B[ds];W[ap];B[ir];W[iq])
+(;B[cs];W[ap];B[dr];W[es];B[fr];W[fs];B[ds];W[ir];B[gs];W[fs]))
+(;B[fr];W[gr]
+(;B[dr];W[er])
+(;B[er];W[dr]))
+(;B[cs];W[ap];B[gr];W[fr]
+(;B[ir];W[gs]
+(;B[is];W[iq])
+(;B[iq];W[is];B[jp];W[kp]))
+(;B[dr];W[gs])
+(;B[er];W[gs]))
+(;B[ds];W[ap]
+(;B[gr];W[fr];B[fs];W[gs])
+(;B[ir];W[gr]))
+(;B[es];W[gr])
+(;B[fs];W[gr])))

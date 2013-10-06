@@ -1,0 +1,35 @@
+(;GE[life and death]DI[5d]DP[4]SO[Daniel]CO[9]C[White to kill.]AB[qn]AB[qp]AB[qq]AB[rm]AB[rp]AB[rr]AB[rs]AB[sr]AB[ss]AW[or]AW[pm]AW[pn]AW[po]AW[pp]AW[pq]AW[qj]AW[ql]AW[qr]AW[qs]AW[rk]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[sq]
+(;B[sp]
+(;W[qo];B[ro]
+(;W[sn];B[sm]
+(;W[rn]
+(;B[qm];W[rq]C[RIGHT])
+(;B[so];W[rn];B[qm];W[rq]C[RIGHT]))
+(;W[rq];B[rr]C[Black lives.]))
+(;W[rq];B[rr];W[sn];B[sm];W[rn];B[sr]
+(;W[rs];B[qm]C[Black lives.])
+(;W[qm];B[rs]C[Black lives.])))
+(;W[rq];B[rr]
+(;W[qo];B[ro])
+(;W[sn];B[sr]
+(;W[rs];B[qo]C[Black lives.])
+(;W[qo];B[rs]C[Black lives.])))
+(;W[sn];B[sm]
+(;W[qo];B[ro])
+(;W[rq];B[rr]C[Black lives.]))
+(;W[ro];B[qo]C[Black lives.]))
+(;B[rq];W[qo];B[ro];W[qm];B[rn];W[sm]C[RIGHT]))
+(;W[qo];B[ro]
+(;W[sq];B[sp])
+(;W[sn];B[sq]C[Black lives.])
+(;W[sp];B[so];W[sq];B[qm]
+(;W[sm];B[sl]
+(;W[rl];B[sn];W[sk];B[rq]C[ko])
+(;W[sn];B[rn])
+(;W[rq];B[rr];W[rn];B[sn]))
+(;W[sn];B[rn]
+(;W[sm];B[sl])
+(;W[rq];B[rr];W[sm];B[sl]))))
+(;W[so];B[sp]C[Black lives.])
+(;W[sp];B[qo]C[Black lives.]))

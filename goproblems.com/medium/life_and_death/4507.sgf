@@ -1,0 +1,21 @@
+(;GE[life and death]DI[3d]DP[10]SO[transcend]CO[8]AB[sn]AB[rn]AB[qn]AB[pn]AB[on]AB[so]AB[rp]AB[no]AB[op]AB[oq]AB[or]AB[os]AB[ps]AW[pp]AW[po]AW[qo]AW[ro]AW[qr]AW[pr]AW[rr]AW[sq]AW[sp]C[What can black get out of this?]AP[goproblems]
+(;B[sr];W[rq]
+(;B[pq]
+(;W[qs]LB[qq:A]C[Use the navigation feature to see why White A is wrong.CHOICE]
+(;B[qq];W[ss]
+(;B[qp]C[White will gladly give up the 4 stones for life in the corner :)RIGHT])
+(;B[oo]C[Although black does get the 4 stones, white now has a large ko threat.]MA[pp]MA[po]MA[qo]MA[ro]))
+(;B[oo];W[ss]
+(;B[qp]C[Not as good as the best solution.])
+(;B[qq]C[White now has a large ko threat. You can do better.])))
+(;W[qq];B[rs]C[White is dead]))
+(;B[qs];W[rs];B[pq];W[qq]))
+(;B[qq];W[pq];B[qs];W[rs])
+(;B[rq];W[sr];B[pq];W[qq])
+(;B[pq];W[qq])
+(;B[qp];W[pq])
+(;B[qs];W[rs]
+(;B[pq];W[qq])
+(;B[qq];W[pq])
+(;B[rq];W[sr];B[pq];W[qq]))
+(;B[rs];W[qs];B[pq];W[qq]))

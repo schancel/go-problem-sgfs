@@ -1,0 +1,28 @@
+(;GE[life and death]DI[20k]DP[74]SO[LCZLAPINSKI]CO[6]C[Play at T if you wish to tenuki.]AB[ca]AB[cb]AB[cc]AB[cd]AB[bd]AB[ad]AW[da]AW[db]AW[dc]AW[dd]AW[de]AW[ce]AW[be]AW[ae]LB[ea:T]AP[goproblems]
+(;B[ab];W[bb]
+(;B[ba]C[RIGHT])
+(;B[bc]C[RIGHT]))
+(;B[ea];W[bb]
+(;B[ab];W[ba]
+(;B[bc];W[ac])
+(;B[aa];W[ac]TR[ad]TR[bd]TR[cd]TR[cc]TR[cb]TR[ca]C[Marked stones are dead.])
+(;B[ac]LB[eb:T];W[eb]C[White tenukis because black is dead.]))
+(;B[ba];W[ab]TR[ba]TR[ca]TR[cb]TR[cc]TR[cd]TR[bd]TR[ad]C[The marked stones are dead. White could almost fill the eye space and then capture. Even if black captures the two white stones, the black stones are dead because he can't form two eyes and white could almost fill the eye space. ])
+(;B[eb];W[ba]C[Black is dead because he can only get one eye and white could capture.]
+(;B[bc];W[ab])
+(;B[ab];W[bc]
+(;B[ac];W[aa])
+(;B[aa];W[ac]))
+(;B[ac])))
+(;B[aa];W[bb]C[Bulky five nakade. Black has a killable shape inside.])
+(;B[ac];W[bb]C[Bulky five nakade. Black has a killable shape inside.])
+(;B[bc];W[ab]C[Bulky five nakade. Black has a killable shape inside.])
+(;B[bb];W[ab]C[CHOICE]
+(;B[ac]C[RIGHT])
+(;B[aa];W[ba]C[Ko; black can do better.];B[aa]C[NOTTHIS])
+(;B[bc];W[aa]C[Black is dead because he could be captured.])
+(;B[ba];W[ac]C[Black is dead because he could be captured.]))
+(;B[ba];W[ab]C[Bulky five nakade. Black has a killable shape inside.]
+(;B[ac];W[bb])
+(;B[bb];W[ac]C[Black is dead because he could be captured.])
+(;B[bc];W[aa]C[Black is dead because he could be captured.])))

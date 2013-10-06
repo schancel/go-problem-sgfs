@@ -1,0 +1,19 @@
+(;GE[elementary]DI[1k]DP[19]SO[santa c]CO[8]AW[dq]AW[ep]AB[bo]AB[cp]AB[do]AB[dn]AB[cn]AW[bm]AW[cm]AW[dm]AW[en]AW[cq]AB[bq]AW[br]C[Black to move]AB[em]AB[fm]AB[eo]AB[fo]AW[fn]AW[gn]AW[go]AB[gm]AW[fp]AW[gq]AW[bk]AW[dk]AB[dl]AW[cl]AB[el]AP[goproblems]
+(;B[ar];W[bs]
+(;B[bn]C[Well done! Black doesn't normally want to leave wA2, a great sente endgame... :)RIGHT])
+(;B[ap];W[bn];B[dp];W[an];B[ao]C[Well done! Black doesn't normally want to leave wA2, a great sente endgame... :)RIGHT])
+(;B[ao];W[bn];B[dp]C[Well done! Black doesn't normally want to leave wA2, a great sente endgame... :)RIGHT])
+(;B[aq];W[bn]TR[ao]TR[dp]C[:(])
+(;B[an];W[bn]TR[ap]TR[dp]C[:(])
+(;B[cr]C[NOTTHIS])
+(;B[dp];W[ap]TR[aq]TR[ao]C[:(]))
+(;B[ap];W[ar]C[Why let White play this?])
+(;B[aq];W[bn]TR[ao]TR[dp]C[:(])
+(;B[ao];W[aq]C[:(])
+(;B[dp];W[aq]C[:(])
+(;B[bn];W[aq]
+(;B[ap];W[bp]C[:(]MA[bq])
+(;B[an];W[bp]C[:(]))
+(;B[cr];W[aq];B[ap];W[bp]MA[bq]C[:(])
+(;B[an];W[aq];B[ap];W[bp]MA[bq]C[:(])
+(;B[bs];W[aq];B[ap];W[bp]MA[bq]C[:(]))

@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[6k]DP[37]SO[G0rk4]CO[0]AW[ki]AW[li]AW[mi]AW[kk]AW[jj]AW[ij]AW[ll]AW[ml]AW[jl]AW[jm]AW[jn]AB[ii]AB[ji]AB[kh]AB[lh]AB[mh]AB[ni]AB[nj]AB[nk]AB[nl]AB[lm]AB[km]AB[kl]AB[il]AB[hk]AB[hj]AB[hh]AW[oh]AW[nh]AW[oi]AW[oj]AW[ok]AW[pm]AW[pl]AW[no]AW[on]AW[po]AW[jo]AB[lq]AB[kq]AB[mm]AB[nq]C[white just played the marked stone to connect and threaten black to kill, is it better to connect black (A) ? or taking the 2 white stones (B) ?]LB[lo:A]LB[lk:B]TR[jm]AP[goproblems]
+(;B[lk];W[lo]
+(;B[kj]
+(;W[lj]
+(;B[mj];W[kj];B[jk]C[yes funny tesuji isn't it ? :)RIGHT])
+(;B[jk]
+(;W[ik];B[mj]C[yes, nice tesuji isn't it ? :)RIGHT])
+(;W[mk];B[mj];W[ik];B[lk]C[yes, nice tesuji isn't it ? :)RIGHT])))
+(;W[jk]C[CHOICE]
+(;B[lj]C[RIGHT])
+(;B[mj]C[RIGHT])))
+(;B[jk];W[ik];B[kj];W[lj];B[mj]C[yes, funny tesuji isn't it ? :)RIGHT])
+(;B[mk];W[kj]C[black is dead :(])
+(;B[lj];W[kj]C[black is dead]))
+(;B[lo]C[there is better :(]
+(;W[lk]
+(;B[nm];W[iq])
+(;B[ip];W[nm]))))

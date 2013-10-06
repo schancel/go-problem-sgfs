@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[4k]DP[29]SO[MrMoto]CO[9]AW[hj]AW[gj]AW[fj]AW[fk]AW[fl]AW[gl]AW[hl]AW[gi]AW[fm]AW[jj]AW[kk]AW[jk]AW[kl]AW[km]AW[jm]AB[fi]AB[ei]AB[ej]AB[ek]AB[el]AB[fn]AB[gn]AB[gm]AB[hm]AB[in]AB[jn]AB[kn]AB[gh]AB[hh]AB[hi]AB[ji]AB[jh]AB[kg]AB[ki]AB[li]AB[mi]AB[nj]AB[mk]AB[lk]AB[lm]AB[mm]AW[ll]AB[ml]AB[em]AB[en]AB[ih]AB[kj]C[Can you kill white?]AP[goproblems]
+(;B[ij];W[il]
+(;B[im];W[ik])
+(;B[ik];W[hk]
+(;B[ii];W[im])
+(;B[im];W[ii]))
+(;B[hk];W[ik]))
+(;B[hk];W[ij]
+(;B[ik];W[il])
+(;B[il];W[im];B[ik]C[seki]))
+(;B[ik];W[ij]
+(;B[il];W[im];B[hk]C[seki])
+(;B[hk];W[il]))
+(;B[im];W[il])
+(;B[il];W[im]
+(;B[ik];W[ij];B[hk]C[seki])
+(;B[hk];W[ij];B[ik]C[seki])
+(;B[ij];W[ik]
+(;B[ii];W[hk])
+(;B[hk];W[ii]MA[ij]C[ko.   :)RIGHT]))))

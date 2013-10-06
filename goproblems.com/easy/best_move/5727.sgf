@@ -1,0 +1,19 @@
+(;GE[best move]DI[7k]DP[41]SO[maba]CO[8]AB[cd]AB[dc]AB[ec]AW[fc]AW[fd]AW[ed]AW[gd]AB[fe]AW[id]AW[hf]AW[ig]AW[ii]AW[jh]AW[kh]AW[kg]AW[lg]AB[mg]AB[ng]AB[nf]AB[nh]AB[ni]AB[nj]AB[lh]AB[ki]AB[lj]AB[mk]AW[mj]AW[mi]AB[ml]AW[nk]AW[ok]AW[pj]AW[og]AW[of]AW[pf]AW[qf]AB[qe]AB[oe]AB[od]AB[nd]AB[md]AB[nc]AB[pc]AB[pd]AB[qc]AB[qb]AB[qa]AB[pa]AW[oc]AW[ob]AW[pb]AW[oa]AW[nb]AW[mb]AW[mc]AW[lc]AW[ld]AW[le]AW[me]AW[ne]AW[mf]AB[lf]AB[kf]AB[jf]AB[jg]AB[je]AB[jd]AB[jc]AB[jb]AB[ic]AW[hc]AW[hb]AW[ib]AB[lb]AB[kb]AW[dp]AW[dn]AB[dr]AB[fq]AB[cj]AW[qp]C[White to play the best move.]AP[goproblems]
+(;W[ma];B[la]
+(;W[ja];B[kc]
+(;W[ie];B[kd];W[if];B[ke];W[ka]C[One eye beats no eye.RIGHT])
+(;W[if];B[kd];W[ie];B[ke];W[ka]C[RIGHT]))
+(;W[ie];B[ja]C[seki])
+(;W[if];B[ja]C[seki])
+(;W[kc];B[ja];W[ie];B[kd];W[if];B[ke];W[ia];B[na]C[When filling liberties, it's usually better to start from the outside.]))
+(;W[la];B[ma]
+(;W[ja];B[ka];W[ia];B[kc]
+(;W[ie];B[kd];W[if]C[seki])
+(;W[if];B[ke];W[ie]C[seki]))
+(;W[ie];B[ka];W[if];B[kc];W[ia];B[kd];W[ja]C[seki]))
+(;W[ja];B[ma]
+(;W[ie];B[kc];W[if];B[ke];W[ka];B[la];W[ia]C[seki])
+(;W[ka];B[la];W[ia];B[kc];W[ie];B[kd];W[if]C[seki]))
+(;W[ie];B[ma];W[if];B[ja];W[la];B[kc];W[ia]C[seki])
+(;W[mh];B[ma];W[li];B[lh])
+(;W[li];B[ma];W[mh];B[lh]))

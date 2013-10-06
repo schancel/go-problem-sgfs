@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[4d]DP[7]SO[Field Mouse]CO[0]AB[dp]AB[cn]AW[cq]AW[dr]AB[eq]AB[cp]AW[bp]AB[br]AW[bq]AB[bo]AW[dq]AB[er]AW[ar]AB[bs]AB[ds]AW[ep]AW[eo]AB[dn]AW[en]AW[em]AW[el]AW[dl]AW[cl]AW[bm]AB[bn]AB[do]AB[am]AW[al]AB[an]AB[fq]AB[gr]AB[fs]AB[gq]C[Can white do something in the corner? Y = Yes, N = NoFORCE]LB[cj:Y]LB[cm:N]AP[goproblems]
+(;W[cj]C[];B[dj]C[You sure know what word is going to appear in the comment box in this kind of problems: Prove (it)!]
+(;W[ap]C[Even if black passes now he still eats the white group - one eye vs no eye])
+(;W[ao];B[ap];W[aq];B[ao]C[White is captured - nothing there!])
+(;W[cm];B[cr];W[aq];B[ao]C[Black defends.]))
+(;W[cm];B[aj]LB[cj:Y]LB[dm:N]C[And does black need to defend now?FORCE]
+(;W[cj];B[dj]C[You sure know what word is going to appear in the comment box in this kind of problems: Prove (it)!];W[ao]
+(;B[aq]
+(;W[dm];B[ap];W[ao];B[ap];W[aq]C[:-) KoCHOICERIGHT])
+(;W[ap];B[cr]C[Tricked!]))
+(;B[cr];W[aq];B[ap]C[The correct way for black.RIGHT]))
+(;W[dm]C[Black had to defend to prevent a ko!])))

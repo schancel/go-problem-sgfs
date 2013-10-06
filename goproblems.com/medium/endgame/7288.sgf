@@ -1,0 +1,184 @@
+(;GE[endgame]DI[2k]DP[23]SO[wtd]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]AW[dc][fc][gc][dd][ed][fe][he][gf][gg][eh][fh][gh][hh][ih]AB[cb][cc][cd][be][de][cf][ef][cg][eg][dh][di][ei][gi][hi]C[No komi, no prisoners yet - White to win.]PL[W]
+(;W[da]CR[da]
+(;B[db]CR[db]
+;W[eb]CR[eb]
+(;B[fi]CR[fi]
+;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[ea]CR[ea]
+;B[bb]CR[bb]C[RIGHT You won by 1. Due to the gap in Whites stones on the 3rd line at 'E7', the correct way to stop the monkey jump is with placement at 'D9'. When the value of sente is > 2, this is better 
+than blocking at 'D8' (after which Black can hane and connect in sente).])
+(;B[ca]CR[ca]C[B will not play this.]
+(;W[fi]CR[fi]
+;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[da]CR[da]C[W +2])
+(;W[ea]CR[ea]
+;B[fi]CR[fi]C[B +1])))
+(;B[fi]CR[fi]
+(;W[ca]CR[ca]
+;B[db]CR[db]
+;W[eb]CR[eb]
+;B[ba]CR[ba]
+;W[ea]CR[ea]
+;B[bb]CR[bb]C[RIGHT W +1])
+(;W[db]CR[db]
+;B[ca]CR[ca]C[RIGHT W +1])))
+(;W[db]CR[db]
+(;B[da]CR[da]
+(;W[ea]CR[ea]
+(;B[ca]CR[ca]
+(;W[eb]CR[eb]
+;B[fi]CR[fi]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.])
+(;W[fb]CR[fb]
+;B[fi]CR[fi]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.])
+(;W[fa]CR[fa]
+;B[fi]CR[fi]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.])
+(;W[ec]CR[ec]
+;B[fi]CR[fi]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.])
+(;W[fi]CR[fi]
+;B[eb]CR[eb]
+;W[fb]CR[fb]
+;B[fa]CR[fa]
+;W[ga]CR[ga]
+;B[ea]CR[ea]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.]))
+(;B[fi]CR[fi]C[B will not play this.]
+;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[da]CR[da]
+;B[bb]CR[bb]C[W +3]))
+(;W[eb]CR[eb]
+(;B[fi]CR[fi]
+;W[ea]CR[ea]
+;B[ca]CR[ca]C[You lost by 1. You could not afford to let Black jump, but due to the gap at 'E7', placement (D9) is better than simple block when the value of sente is > 2. For smaller values of 
+sente, the placement and block are equivalent.])
+(;B[ea]CR[ea]C[B will not play this.]
+;W[fa]CR[fa]
+;B[ca]CR[ca]
+;W[fi]CR[fi]C[W +3]))
+(;W[fi]CR[fi]
+(;B[fa]CR[fa]
+(;W[eb]CR[eb]
+;B[ea]CR[ea]
+;W[gb]CR[gb]
+;B[ga]CR[ga]
+;W[hb]CR[hb]
+;B[ha]CR[ha]
+;W[ib]CR[ib]C[B +4])
+(;W[fb]CR[fb]
+;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[eb]CR[eb]
+;W[ec]CR[ec]
+;B[ea]CR[ea]
+;W[hb]CR[hb]
+;B[ha]CR[ha]
+(;W[ib]CR[ib]C[B +6])
+(;W[gb]CR[gb]
+;B[ia]CR[ia]
+;W[ib]CR[ib]
+;B[ca]CR[ca]C[B +6])))
+(;B[ea]CR[ea]C[B will not play this.]
+;W[fb]CR[fb]
+;B[fa]CR[fa]
+;W[ga]CR[ga]
+;B[eb]CR[eb]C[Jigo])))
+(;B[fi]CR[fi]C[B will not play this.]
+;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[da]CR[da]
+;B[bb]CR[bb]C[W +3]))
+(;W[fi]CR[fi]
+(;B[fa]CR[fa]
+(;W[fb]CR[fb]
+(;B[ea]CR[ea]
+;W[ga]CR[ga]
+;B[db]CR[db]
+;W[eb]CR[eb]
+;B[da]CR[da]C[Only jigo - you needed to stop the jump.])
+(;B[da]CR[da]
+;W[ga]CR[ga]
+;B[ea]CR[ea]
+(;W[db]CR[db]
+;B[eb]CR[eb]C[Only jigo - you needed to stop the jump.])
+(;W[eb]CR[eb]
+;B[db]CR[db]C[Only jigo - you needed to stop the jump.])))
+(;W[ga]CR[ga]
+;B[ea]CR[ea]
+(;W[fb]CR[fb]
+;B[eb]CR[eb]
+;W[db]CR[db]
+;B[da]CR[da]C[Only jigo - you needed to stop the jump.])
+(;W[db]CR[db]
+;B[da]CR[da]
+;W[fb]CR[fb]
+;B[eb]CR[eb]C[Only jigo - you needed to stop the jump.]))
+(;W[da]CR[da]
+;B[db]CR[db]
+;W[eb]CR[eb]
+;B[ea]CR[ea]
+;W[ga]CR[ga]
+;B[ca]CR[ca]
+;W[fb]CR[fb]
+;B[da]CR[da]C[Only jigo - you needed to stop the jump.])
+(;W[eb]CR[eb]
+;B[ea]CR[ea]
+(;W[da]CR[da]
+;B[db]CR[db]
+;W[ga]CR[ga]
+;B[ca]CR[ca]
+;W[fb]CR[fb]
+;B[da]CR[da]C[Only jigo - you needed to stop the jump.])
+(;W[ga]CR[ga]
+(;B[db]CR[db]
+;W[fb]CR[fb]
+;B[da]CR[da]C[Only jigo - you needed to stop the jump.])
+(;B[da]CR[da]
+;W[fb]CR[fb]
+;B[db]CR[db]C[Only jigo - you needed to stop the jump.]))))
+(;B[eb]CR[eb]C[B will not play this.]
+;W[db]CR[db]
+;B[da]CR[da]
+;W[fb]CR[fb]
+;B[fa]CR[fa]
+(;W[ga]CR[ga]
+;B[ca]CR[ca]
+;W[ec]CR[ec]
+;B[ea]CR[ea]C[Jigo])
+(;W[ec]CR[ec]
+(;B[ea]CR[ea]
+;W[ga]CR[ga]
+;B[ca]CR[ca]C[Jigo])
+(;B[ga]CR[ga]C[Bad for whoever loses this ko.]
+;W[ea]CR[ea]
+(;B[ca]CR[ca]
+;W[eb]CR[eb]C[W +5])
+(;B[ff]CR[ff]
+;W[gg]CR[gg]
+;B[eb]CR[eb]
+;W[hb]CR[hb]
+;B[ea]CR[ea]
+;W[ha]CR[ha]C[B +3]))))
+(;B[ea]CR[ea]C[B will not play this.]
+;W[fa]CR[fa]
+;B[eb]CR[eb]
+;W[db]CR[db]
+;B[da]CR[da]
+;W[fb]CR[fb]C[W +1])
+(;B[da]CR[da]C[B will not play this.]
+;W[eb]CR[eb]
+;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[db]CR[db]C[W +2])
+(;B[db]CR[db]C[B will not play this.]
+;W[eb]CR[eb]
+;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[da]CR[da]C[W +2])))

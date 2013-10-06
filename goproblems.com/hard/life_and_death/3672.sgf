@@ -1,0 +1,37 @@
+(;GE[life and death]DI[6d]DP[2]SO[ferdi]CO[9]SZ[19]AW[cp]AW[fq]AW[dr]AW[gr]AW[fs]AB[co]AB[do]AB[fo]AB[bp]AB[fp]AB[hp]AB[bq]AB[hq]AB[ar]AB[hr]AB[jr]AB[bs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÅ¸]PB[Schwarz]PL[W];W[er]
+(;B[ds];W[cr];B[cs]
+(;W[br]
+(;B[eq]
+(;W[ep];B[dq]
+(;W[gq];B[aq]
+(;W[cq];B[dp];W[es]C[White lives!  RIGHT])
+(;W[es]C[RIGHT]))
+(;W[cq];B[dp]
+(;W[es];B[gq]C[White is dead.])
+(;W[gq];B[hs];W[gs];B[gp]C[White is dead])))
+(;W[gq];B[aq]C[White is dead]))
+(;B[cq];W[dq];B[aq];W[dp]C[RIGHT]))
+(;W[cq];B[eq]
+(;W[br];B[gq];W[ep]C[This is only a ko.])
+(;W[ep];B[gq]
+(;W[dq];B[br];W[dp];B[es]C[White is dead.])
+(;W[br]C[This is only a ko.])))
+(;W[dp];B[ep]
+(;W[br];B[eq]C[White is dead.])
+(;W[eq];B[cq];W[br];B[aq]C[White is dead.])))
+(;B[eq]C[CHOICE]
+(;W[ep]
+(;B[dq]
+(;W[gq];B[ds];W[cr];B[cs]
+(;W[br];B[aq]
+(;W[cq];B[dp];W[es]C[White lives!  CHOICERIGHT])
+(;W[es];B[as];W[cq]C[RIGHT]))
+(;W[cq];B[dp];W[br];B[hs];W[gs];B[gp]C[White is dead!]))
+(;W[cr];B[gq]C[White is dead.]))
+(;B[dp]
+(;W[gq];B[ds];W[cr];B[cs];W[br];B[aq])
+(;W[cr];B[gq];W[dq]C[RIGHT])))
+(;W[cr];B[gq];W[ep];B[dq]C[White is dead.])
+(;W[gq];B[ds];W[cr];B[cs];W[br];B[aq]C[White is dead.];W[ep];B[dp]
+(;W[dq];B[cq])
+(;W[cq];B[bo]))))

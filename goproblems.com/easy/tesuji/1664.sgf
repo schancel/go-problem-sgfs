@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[20k]DP[72]SO[Era]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]TM[]
+PW[none]PB[none]AW[ef][ff][dg][fg][bh][dh][ci]AB[cf][df][eg][eh][di][ei]TR[eg][eh][di][ei]C[How can black could save the marked stone ?]
+(;B[ch]CR[ch]
+;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[ch]CR[ch]
+;B[ah]CR[ah]C[RIGHT  Black survive and win the corner !])
+(;B[cg]CR[cg]
+;W[ch]TR[dg][bh][ch][dh][ci]SQ[eg][eh][di][ei]C[White group have 3 liberties and your 2 so he win the capturing race.])
+(;B[fh]CR[fh]
+;W[gh]CR[gh]C[Black still die.])
+(;B[fi]CR[fi]
+;W[fh]CR[fh]C[black still die...])
+(;B[bg]CR[bg]
+;W[fh]TR[eg][eh][di][ei]CR[fh]C[CHOICE  This way to kill is too slow and white can kill you before you kill him.])
+(;B[gi]CR[gi]
+;W[fh]CR[fh]
+;B[fi]CR[fi]
+;W[gh]CR[gh]C[Black die...])
+(;B[bi]CR[bi]
+;W[ai]CR[ai]C[It doesn't change the situation])
+(;B[gh]CR[gh]
+;W[fh]CR[fh]C[White cut the connection.])
+(;B[ai]CR[ai]
+;W[fh]CR[fh]C[Black die...])
+(;B[ah]CR[ah]
+;W[fh]CR[fh]C[Black die...])
+(;B[ag]CR[ag]
+;W[fh]CR[fh]C[Black die...]))

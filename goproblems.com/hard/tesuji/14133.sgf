@@ -1,0 +1,73 @@
+(;GE[tesuji]DI[6d]DP[0]SO[mr0661]CO[0]AB[ah]AB[bh]AB[ch]AB[dh]AB[gi]AB[fi]AB[fh]AB[eh]AB[gg]AB[gf]AB[ge]AB[gd]AB[gc]AB[ga]AB[hb]AB[hc]AB[fc]AB[fe]AB[he]AW[fd]AW[ed]AW[ec]AW[eb]AW[fb]AW[gb]AW[dd]AW[df]AW[ff]AW[fg]AW[dg]AW[bg]AW[ci]AW[bi]AW[cj]AW[dj]AW[dk]AW[ej]AW[fj]AW[gj]AW[hh]AW[hi]AW[hg]AW[hf]AW[jf]AW[gh]AB[hj]AB[hk]AB[gk]AB[di]AB[jh]AB[jj]AB[jd]AB[kc]AB[fl]AB[em]AB[dm]AB[cm]AB[bl]AB[bm]AW[mf]AW[ld]AW[nd]AW[nc]TR[gi]TR[fi]TR[fh]TR[eh]TR[ch]TR[dh]TR[di]TR[bh]TR[ah]C[Save your stones]AW[bf]AP[goproblems]
+(;B[kf]
+(;W[jg]
+(;B[kg]
+(;W[kh]
+(;B[ki];W[ke]
+(;B[je];W[lh]
+(;B[if];W[ig]
+(;B[ii];W[ie]
+(;B[ih]C[You did it? Did you know that there was few forcing moves that you could have playedRIGHT])
+(;B[id];W[lf]C[Ko isn't enough])
+(;B[le]C[NOTTHIS])
+(;B[kd]C[NOTTHIS]))
+(;B[le]C[NOTTHIS])
+(;B[ie];W[lf]C[White connects])
+(;B[kd]C[NOTTHIS])
+(;B[ih]C[RIGHT];W[ie]
+(;B[ii]C[RIGHT])
+(;B[le]C[NOTTHIS])
+(;B[kd]C[NOTTHIS])))
+(;B[le];W[kd]
+(;B[lc];W[md]
+(;B[if];W[ig]
+(;B[ii];W[ie]
+(;B[ih]C[Yes!RIGHT])
+(;B[id];W[lf]C[White connects]))
+(;B[ie];W[lf]C[White connects])
+(;B[ih];W[ie];B[ii]C[RIGHT]))
+(;B[ig];W[if]C[White connects])
+(;B[lf];W[lg]C[White connects])
+(;B[ih];W[if]C[White connects])
+(;B[ii];W[if]C[White connects]))
+(;B[if];W[ig]
+(;B[ii];W[ie]
+(;B[ih]C[yes... but M15 didn't look too good forcing move when left like thatRIGHT])
+(;B[lc];W[md]))
+(;B[md]C[NOTTHIS])
+(;B[lc];W[md])
+(;B[ih];W[ie];B[ii]C[RIGHT]))
+(;B[md]C[NOTTHIS]))
+(;B[ig];W[if]
+(;B[ih];W[lf]C[White connects])
+(;B[ii];W[lf]C[White connects])
+(;B[ie];W[lf]C[White connects]))
+(;B[ii];W[if]
+(;B[ih];W[lf]C[White connects])
+(;B[ie];W[lf]C[White connects]))
+(;B[kd]C[NOTTHIS]))
+(;B[lh];W[je]C[White is out, in a good way])
+(;B[le];W[je]C[White is out, in a good way]))
+(;B[ke];W[ji]
+(;B[ki];W[ih];B[lh];W[if]TR[ah]TR[bh]TR[ch]TR[dh]TR[di]TR[eh]TR[fi]TR[fh]TR[gi]C[only ko])
+(;B[lh];W[ki]C[White is out, in a good way])))
+(;W[ke];B[je];W[kh];B[ki]))
+(;B[ke];W[kg]C[White is out, in a good way])
+(;B[je];W[kg]C[White is out, in a good way]))
+(;W[ke]
+(;B[jg];W[if]
+(;B[kg];W[je]C[White is out, in a good way])
+(;B[je];W[kg]C[White is out, in a good way]))
+(;B[if];W[ig];B[jg];W[ie];B[je];W[kg]C[Ko isn't enough])
+(;B[je];W[kg];B[if];W[jg];B[ig]C[RIGHT])))
+(;B[jg];W[if]
+(;B[kf];W[ke])
+(;B[ke];W[kf];B[lf];W[ai]C[White wins race]))
+(;B[kg];W[kf]C[White is out, in a good way])
+(;B[ke];W[kf];B[lf];W[lg]C[White is out, in a good way])
+(;B[if];W[ig];B[jg];W[ie];B[kf];W[ke])
+(;B[ai];W[aj]C[If you give away you one of your liberties, you soon lose them all])
+(;B[ef];W[eg]C[If you give away you one of your liberties, you soon lose them all])
+(;B[eg];W[ef]C[If you give away you one of your liberties, you soon lose them all])
+(;B[cg];W[cf]C[If you give away you one of your liberties, you soon lose them all])
+(;B[ag];W[af]C[If you give away you one of your liberties, you soon lose them all]))

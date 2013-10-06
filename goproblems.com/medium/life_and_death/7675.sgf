@@ -1,0 +1,64 @@
+(;GE[life and death]DI[1d]DP[15]SO[Hans]CO[9]AB[qb]AB[pb]AB[qc]AB[qd]AB[rd]AB[pd]AB[od]AB[nd]AB[md]AB[lc]AW[lb]AW[oc]AW[nc]AW[pc]AW[ob]AB[mc]AW[mb]AW[kc]AW[kd]AW[me]AW[le]AW[ne]AW[oe]AW[pe]AW[qe]AW[re]AW[qh]AW[pa]C[Black to survive.]AP[goproblems]
+(;B[na]
+(;W[nb]
+(;B[sb];W[ra]
+(;B[rb];W[qa]
+(;B[oa];W[ma]
+(;B[oa];W[na]
+(;B[sa]
+(;W[jb];B[oa]C[CHOICERIGHT])
+(;W[sd]
+(;B[sc];W[jb];B[oa]C[CHOICERIGHT])
+(;B[kb];W[jb]
+(;B[sc]C[CHOICERIGHT])
+(;B[oa]C[CHOICERIGHT]))
+(;B[oa];W[pa]
+(;B[qa];W[sc])
+(;B[sc];W[qa]))))
+(;B[kb];W[jb]
+(;B[ka];W[ja];B[sa];W[la];B[oa]C[RIGHT])
+(;B[sa];W[ka];B[oa]C[This is correct but gives white more eye shape than the best solution.RIGHT])))
+(;B[sa];W[oa])
+(;B[kb]C[NOTTHIS]))
+(;B[sa];W[oa])
+(;B[kb]C[NOTTHIS]))
+(;B[qa];W[sd])
+(;B[kb]C[NOTTHIS]))
+(;B[qa];W[sd]C[Black is dead.])
+(;B[sd];W[qa]
+(;B[sb];W[ra])
+(;B[ra];W[sb]))
+(;B[rb];W[sc];B[sd];W[sb]
+(;B[sa];W[qa])
+(;B[qa];W[sa]C[This is bent four in the corner (Black is dead under japanese rules and nearly dead under other rule sets).])))
+(;W[oa];B[qa];W[nb];B[sb]C[This is not the hardest resistance.RIGHT]))
+(;B[sb]C[];W[ra]
+(;B[na]
+(;W[nb]
+(;B[qa];W[sd])
+(;B[oa];W[sd];B[sc];W[rb])
+(;B[rb];W[qa];B[oa];W[ma];B[oa];W[na];B[sa];W[jb];B[oa]C[RIGHT]))
+(;W[qa];B[oa];W[nb];B[rb]))
+(;B[qa];W[sd])
+(;B[rb];W[qa]
+(;B[na];W[oa])
+(;B[sa];W[oa])))
+(;B[qa];W[sd]C[Dead shape for black.])
+(;B[ra];W[sb]C[Black is simply dead.])
+(;B[sd];W[rb]
+(;B[sb];W[ra]
+(;B[qa];W[rc])
+(;B[rc];W[qa]))
+(;B[qa];W[sb])
+(;B[ra];W[sb]))
+(;B[sc];W[rb])
+(;B[rb];W[sc]
+(;B[sd];W[sb]
+(;B[qa];W[sa]
+(;B[na];W[nb]C[This is bent four in the corner (Black is dead under japanese rules and nearly dead under other rule sets).])
+(;B[oa];W[nb]C[This is bent four in the corner (Black is dead under japanese rules and nearly dead under other rule sets).]))
+(;B[na]C[NOTTHIS])
+(;B[sa];W[qa];B[na];W[nb]))
+(;B[sb];W[sd])
+(;B[qa];W[sd])
+(;B[na]C[NOTTHIS])))

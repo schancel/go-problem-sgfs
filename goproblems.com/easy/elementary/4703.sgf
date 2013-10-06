@@ -1,0 +1,27 @@
+(;GE[elementary]DI[6k]DP[37]SO[santa c]CO[7]AW[nm]AW[nl]AW[lm]AW[ll]AW[kn]AW[jn]AW[im]AW[hm]AW[jk]AB[jl]AB[jm]AB[km]AB[kk]AB[in]AB[hn]AB[jo]AB[io]AB[ln]AB[mn]AB[nn]AB[om]AB[oi]AB[nh]AB[mi]AW[gn]AW[go]AW[gl]AW[hl]AW[ik]AW[ii]AB[lh]C[Can you save the white stones?]MA[ll]MA[lm]MA[nl]MA[nm]AB[lo]AB[pl]AB[pk]AB[pj]AB[pn]AP[goproblems]
+(;W[kl];B[ko]
+(;W[lj]C[Well done! ^^ (The black stone is now captured with a net :)RIGHT]TR[kk])
+(;W[lk];B[kj];W[lj];B[ki]C[:(])
+(;W[kj];B[lk]
+(;W[mk];B[lj]C[:(])
+(;W[lj];B[mk]C[:(])
+(;W[mj];B[lj]C[:(])))
+(;W[lk];B[kj]
+(;W[kl];B[ko];W[lj];B[ki]C[:(])
+(;W[lj];B[ki]C[:(]))
+(;W[lj];B[kj]
+(;W[li];B[ki]C[:(])
+(;W[ki];B[kl]C[:(]TR[lk]TR[li])
+(;W[lk];B[kl]C[:(])
+(;W[kl];B[ko]
+(;W[ki]C[Well done! ^^ (The black stones are now captured with a net :)RIGHT]TR[kj]TR[kk])
+(;W[li];B[ki]
+(;W[kh];B[lk];W[mj];B[mk];W[nj];B[nk]C[:(])
+(;W[lk];B[kh]C[:(]))
+(;W[lk];B[ki]C[:(])))
+(;W[kj];B[lk]
+(;W[kl];B[ko]
+(;W[lj];B[mk]C[:(])
+(;W[mj];B[lj]C[:(])
+(;W[mk];B[lj]C[:(]))
+(;W[mk];B[lj]C[:(])))

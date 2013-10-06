@@ -1,0 +1,28 @@
+(;GE[elementary]DI[7k]DP[44]SO[santa c]CO[7]AB[ar]AB[br]AB[bs]C[Black to live! :)]AB[cr]AW[gq]AW[gp]AW[gr]AW[dp]AW[ep]AW[cp]AW[aq]AW[bq]AW[bp]AP[goproblems]
+(;B[er]
+(;W[ds]
+(;B[es];W[dr];B[dq]C[Well done! Black capturing these two stones has secured herself the 2nd eye! :)RIGHT])
+(;B[dr];W[es]
+(;B[fs];W[fr];B[cs];W[es]C[:(])
+(;B[fr];W[fs]C[:(]))
+(;B[fr];W[dr];B[dq];W[eq];B[cq];W[fs]LB[cs:A]C[Black can't play at A! :(]LB[es:A])
+(;B[dq];W[es]
+(;B[fr];W[fs]C[:(])
+(;B[fs];W[fr]C[:(])))
+(;W[es];B[ds]C[RIGHT])
+(;W[dq];B[dr]C[RIGHT])
+(;W[dr];B[dq]C[RIGHT]))
+(;B[dr];W[ds]
+(;B[es];W[er]C[:(])
+(;B[er];W[es]
+(;B[fr];W[fs]C[:(])
+(;B[fs];W[fr];B[cs];W[es]C[:(]))
+(;B[fr];W[fs]C[:(]))
+(;B[ds];W[dr]C[:(])
+(;B[fr];W[dr]C[:(])
+(;B[dq];W[ds]
+(;B[er];W[es]
+(;B[fr];W[fs]C[:(])
+(;B[fs];W[fr]C[:(]))
+(;B[es];W[er]C[:(])
+(;B[dr];W[es]C[:(])))

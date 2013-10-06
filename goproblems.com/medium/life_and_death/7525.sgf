@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2k]DP[23]SO[santa c]CO[7]AB[cr]AB[cq]AB[dq]AB[dp]AB[co]AB[bo]AB[bp]AW[er]AW[eq]AW[ep]AW[eo]AW[gr]AW[cs]AW[br]AW[do]AW[cn]AW[bn]AW[dn]AW[am]C[What should Black do?]AP[goproblems]
+(;B[bs]
+(;W[ds]
+(;B[ar];W[as]MA[bs]C[Ko, well done! :) (Notice that bA2 now, wB1 and B3 and A5 are miai so Black has to fight the ko!)RIGHT])
+(;B[aq];W[as]TR[bq]TR[ao]C[Miai! :(])
+(;B[ao];W[as]C[Miai! :(]TR[aq]TR[bq])
+(;B[dr];W[as]C[:(])
+(;B[bq];W[as]C[:(]TR[aq]TR[ao]))
+(;W[as];B[ds]C[White needs to win twice to kill like this - Better for him to play A1 at D1...RIGHT]))
+(;B[bq];W[bs]C[Miai! :(]TR[aq]TR[ao]LB[ds:1]LB[dr:2])
+(;B[ds];W[bs]
+(;B[bq];W[dr]C[Miai! :(]TR[aq]TR[ao])
+(;B[dr];W[bq]C[White captures Black! :(]))
+(;B[ao];W[ds]C[:(])
+(;B[aq];W[bs]C[:(])
+(;B[ar];W[bs]C[:(]))

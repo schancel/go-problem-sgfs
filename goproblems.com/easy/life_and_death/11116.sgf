@@ -1,0 +1,32 @@
+(;GE[life and death]DI[18k]DP[67]SO[Windfoxj]CO[0]AW[sc]AW[qc]AW[se]AW[pd]AW[od]AW[oe]AW[pf]AW[pg]AW[ph]AW[qh]AW[pi]AW[pj]AW[qj]AW[ql]AB[pc]AB[qd]AB[pe]AB[qe]AB[re]AW[rd]AB[rf]AB[qf]AB[qg]AB[sg]AB[rh]AB[si]AB[qi]AB[rj]AB[rk]AB[sk]AB[rl]AB[qk]AW[sd]C[What a weird side situation...black looks full of holes, but with one move wrong he 'll live. White to kill.]A[rd]AP[goproblems]
+(;W[sf];B[rg];W[ri];B[sm];W[sh]C[Nice! Lots of eye room in there, no? Black has a lot of promise along that wall, but you'll surely live (and you took a lot of pieces through the capture, too). There's distant danger of a ko fight starting here, but even a ko threat can 't do much in that open space...and if black fills, who cares?RIGHT])
+(;W[ri];B[sf]C[Black will end up living unconditionally. He currently has no ' true eyes ', but a, b and c function as such because he can fortify. Play at A, B or C or D to see how this would play out. I challenge you to find the best 'wrong' solution.]LB[qi:A]LB[rg:a]LB[sh:b]LB[sj:c]LB[sl:B]LB[pb:C]LB[qb:D]
+(;W[sl]
+(;B[sm]
+(;W[pk];B[rm]C[Now a, b, c and d are eyes. Black lives unconditionally.]LB[rg:a]LB[sh:b]LB[sj:c]LB[sl:d])
+(;W[rm];B[qi]
+(;W[qm];B[ri]C[a, b and c are eyes. x will be filled, and black will live.]LB[rg:a]LB[sh:b]LB[sj:c]LB[sl:x])
+(;W[sn];B[ri]C[a, b and c are eyes. x can start a ko, but black will live regardless.]LB[rg:a]LB[sh:b]LB[sj:c]LB[sl:x])))
+(;B[qm];W[rm];B[sm]
+(;W[sn];B[rn]C[No matter where you play, black will fill at x. a, b and c will be eyes, and d functions as such. Black lives.]LB[rm:x]LB[rg:a]LB[sh:b]LB[sl:c]LB[sj:d])
+(;W[rn];B[qi]C[Nice move, but black now falls back on this old plan. Once he fills at x, a and b will be eyes. He will probably fill at y to save some of his bottom stones. Black lives.]LB[ri:x]LB[sj:y]LB[rg:a]LB[sh:b])))
+(;W[pb];B[qm]C[Black definitely has eye room down there, probably around T8 or T7. Black lives.])
+(;W[qi];B[rb]C[Good idea to fill in the ko, but...]
+(;W[rc];B[qb]
+(;W[pb];B[sb]C[Ouch. Lots of eye room in there...])
+(;W[sb];B[sa]C[Ouch. Lots of eye room in there...]))
+(;W[qb];B[pb]C[Nice move, but black is smarter than he looks. I mean, assuming that black looks stupid or something.];W[qa];B[rc]
+(;W[sb];B[sa]C[Ouch. Lots of eye room in there...])
+(;W[ra];B[sb]C[Ouch. Lots of eye room in there...]))
+(;W[pb];B[rc]
+(;W[oc];B[sb]C[Ouch. Lots of eye room in there...])
+(;W[sb];B[sa]C[Ouch. Lots of eye room in there...])
+(;W[qb];B[sb]C[Ouch. Lots of eye room in there...]))
+(;W[sb];B[rc]
+(;W[sa];B[ra]C[Ouch. Lots of eye room in there...])
+(;W[ra];B[sa]C[Ouch. Lots of eye room in there...]))
+(;W[oc];B[rc];W[pb];B[sb]))
+(;W[qb];B[qm]C[Nice thought to protect the corner. In fact, you could live up there now. Unfortunately, black  has at least another eye at T8 or T7. Black lives.]))
+(;W[rc];B[sf]C[Ah! Black lives? I dare you to take and fill at x and y (respectively, in that order). Come on. Double doggy-dare.]LB[ri:x]LB[qi:y]
+(;W[ri];B[pb];W[qb];B[sb];W[ra];B[pa]C[Ah...looks like you're stuck. Black will kill you in the corner.])
+(;W[pb];B[ri]C[As much as I appreciate you trying to protect your corner, black still has a, b and c as eyes. Black lives. (Hey, you might live up there...)])))

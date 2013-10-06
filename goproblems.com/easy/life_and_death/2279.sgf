@@ -1,0 +1,15 @@
+(;GE[life and death]DI[10k]DP[54]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[do][fo][go][ho][dp][fp][ip][dq][fq][iq][er][ir][ds][is]AB[cn][cp][gp][cq][eq][gq][cr][dr][gr][gs]TR[gp][gq][gr][gs]C[Black to play : do your best to save the marked stones.]
+(;B[es]
+;W[fs]
+(;B[fr]
+;W[ep]
+(;B[cs]C[RIGHT White cannot connect at E1, black connect unconditionally.])
+(;B[es]CR[es]C[RIGHT In some circumtances, the move in E1 can be a better end-game move than the move in C1.]))
+(;B[cs]
+;W[fr]))
+(;B[fr]
+;W[es])
+(;B[cs]
+;W[es]))

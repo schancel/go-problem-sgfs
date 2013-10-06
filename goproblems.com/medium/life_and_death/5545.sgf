@@ -1,0 +1,32 @@
+(;GE[life and death]DI[3d]DP[9]SO[nutcase]CO[7]AB[mb]AB[mc]AB[nd]AB[of]AB[pf]AB[qf]AB[qe]AB[rf]AB[rc]AB[rd]AB[pb]AW[re]AW[qd]AW[pc]AW[ob]AW[oc]AW[od]AW[pe]SZ[19]
+(;W[oe];B[ne]
+(;W[qc];B[qb];W[rb]
+(;B[ra];W[sb];B[qa]
+(;W[pa];B[oa];W[na]
+(;B[nb]C[Black's best option is ko.RIGHT])
+(;B[se]
+(;W[pa];B[sc]
+(;W[sa];B[qb]
+(;W[nb]C[CHOICERIGHT])
+(;W[pb];B[ra];W[nb]C[RIGHT])
+(;W[ra];B[qa]
+(;W[nb]C[RIGHT])
+(;W[pb]C[RIGHT])
+(;W[rb]C[RIGHT])
+(;W[ra];B[rb]))
+(;W[qa];B[ra]
+(;W[nb]C[RIGHT])
+(;W[pb];B[nb];W[rb];B[sb]C[Ko])
+(;W[rb];B[sb]
+(;W[nb]C[RIGHT])
+(;W[pb];B[nb]))))
+(;W[nb];B[sa]))
+(;W[nb];B[sc];W[pa];B[sa])))
+(;W[oa];B[se];W[pa];B[sc];W[sa];B[qb]C[]))
+(;B[sb];W[ra]C[RIGHT]))
+(;W[qb];B[qc];W[rb];B[sb]))
+(;W[qb];B[qc];W[rb];B[sb]C[])
+(;W[qc];B[oe]
+(;W[rb];B[sb])
+(;W[qb];B[rb]))
+(;W[rb];B[qc];W[qb];B[sb]))

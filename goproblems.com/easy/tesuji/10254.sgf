@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[6k]DP[36]SO[llel]CO[7]AB[br]AB[bs]AB[eq]AB[ep]AB[eo]AB[en]AB[dn]AB[cn]AB[bn]AB[gq]AW[bo]AW[co]AW[do]AW[dq]AW[cq]AW[bq]AW[ar]C[B to kill(hint:connect the 2 marked stones)]TR[br]TR[bs]AP[goproblems]
+(;B[es]C[Let's see if it's connected...]
+(;W[cs]C[CHOICE];B[cr];W[dr];B[ds];W[er];B[fr]C[Good!RIGHT])
+(;W[dr]C[CHOICE]
+(;B[ds]
+(;W[cr]C[CHOICE];B[cs];W[er]
+(;B[fr]C[Good!RIGHT])
+(;B[fs];W[fr];B[gr]C[RIGHT]))
+(;W[er]C[CHOICE]
+(;B[fr];W[cr];B[cs]C[Good!RIGHT])
+(;B[fs];W[fr];B[gr]C[RIGHT])))
+(;B[er];W[ds])))
+(;B[er];W[ds]
+(;B[es];W[cs]C[;(])
+(;B[dr];W[cr]C[=(]))
+(;B[ds];W[er]
+(;B[dr];W[cr]
+(;B[cs];W[es]C[=(])
+(;B[fr];W[cs]C[=(]))
+(;B[fr];W[cr]
+(;B[dr];W[cs])
+(;B[es];W[cs])
+(;B[cs];W[es])))
+(;B[dr];W[cr];B[cs];W[er]
+(;B[ds];W[es]C[=(])
+(;B[es];W[fr]
+(;B[fs];W[gs]C[=(])
+(;B[gr];W[fs]C[=(]))))

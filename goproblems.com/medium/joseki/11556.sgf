@@ -1,0 +1,32 @@
+(;GE[joseki]DI[4k]DP[28]SO[Cow]CO[0]AB[dd]AB[cf]AB[ch]AW[fc]AB[hc]AW[cc]AB[dc]AW[db]AW[cb]AW[be]AW[ce]AW[df]AB[eb]AB[ec]AB[bf]AB[de]TR[ch]TR[cf]TR[dd]LB[fc:1]LB[hc:2]LB[cc:3]LB[dc:4]LB[db:5]LB[eb:6]LB[cb:7]LB[ec:8]LB[be:9]LB[bf:10]LB[ce:11]LB[de:12]MA[df]C[Black had the marked stones placed, when white plays W1. On the pincer he reacts with the corner-invasion of W3 and follows the common joseki up to B12. The white cut (stone marked with the square) now tries to make the situation difficult. But it's an overplay. Punish him! :-)This situation can occur in many variations it is important here, that black has some stones in the are already, like C12 here.]AP[goproblems]
+(;B[ae]
+(;W[bd]
+(;B[bb];W[ba];B[ab];W[ac];B[da]C[White is dead. Well done!RIGHT])
+(;B[da]
+(;W[ac]
+(;B[bb];W[ba];B[ab]C[Like this white dies. Good job!RIGHT])
+(;B[ba];W[ca];B[bb]C[White dies. Thanks for providing this variation BartTM. :-)RIGHT]))
+(;W[bb];B[ac];W[ad];B[ca];W[ba];B[ab];W[ea];B[da]C[White is dead. Nice!RIGHT]))
+(;B[ab]
+(;W[ac];B[bb];W[ba];B[da]C[White is dead. Good Work!RIGHT])
+(;W[bb]
+(;B[ad];W[ac];B[bc]C[You can do better than ko. Try again! :-)])
+(;B[ac];W[ad];B[da]
+(;W[ca];B[aa]C[Black can make a bent-four in the corner. White is dead!RIGHT])
+(;W[aa];B[ca]C[The white group is dead. Good job!RIGHT])))))
+(;W[ad]
+(;B[af];W[cd]
+(;B[ab];W[bb];B[ac];W[bc];B[bd]C[You can do better than ko! ;-)])
+(;B[ac];W[ab];B[bd];W[bc];B[ad];W[ba]C[White is alive and the cutting-stone still has quite some aji. This is not good enough! ;-(]))
+(;B[bd];W[cd];B[ac];W[ab];B[bb];W[bc];B[aa];W[ad]C[White gets a ko for life. You can do better, try again! ;-)])
+(;B[cd]C[White has no chance to live after this move. Well done!RIGHT]))
+(;W[cd]
+(;B[ad]C[White is dead. Good job!RIGHT])
+(;B[ac];W[ad];B[bd];W[ab];B[bb];W[bc];B[aa];W[ad]C[White gets a ko. You can do better! ;-)])))
+(;B[cd];W[bd]
+(;B[ae];W[ac]
+(;B[da];W[bb]C[White lives and the cutting-stone still has some life. This result is too good for white.])
+(;B[bb];W[ba]LB[ab:A]LB[da:B]C[A and B are miai in this situation, so white is alive. This is not good enough! ;-(]))
+(;B[ac];W[ab];B[bb];W[ba];B[aa]C[You can do better than ko. Even if this is not any fun at all for white you should try to do better!]))
+(;B[bd];W[cd];B[ae];W[ac];B[ad];W[bc];B[af];W[ba]C[White lives small in the corner, but since there still is aji in the cutting-stone this result is not good enough!])
+(;B[da];W[cd];B[bb];W[ba];B[bc];W[ab];B[ac]C[Of course this ko is not any fun to play for white. But you can do better here!]))

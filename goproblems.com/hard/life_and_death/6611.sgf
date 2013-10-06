@@ -1,0 +1,119 @@
+(;GE[life and death]DI[6d]DP[3]SO[kvzrock]CO[9]SZ[19]AW[lb]AW[mb]AW[nb]AW[oc]AW[pc]AW[ld]AW[nd]AW[qd]AW[rd]AW[sd]AW[ne]AW[se]AW[pg]AB[ob]AB[pb]AB[mc]AB[nc]AB[od]AB[qe]AB[re]AB[pf]AB[sf]AB[rg]C[B to live in the corner.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[qc];W[pd]
+(;B[rc]C[];W[oe]C[]
+(;B[sb]C[];W[oa]C[]
+(;B[qa];W[ra];B[rb];W[na];B[sa];W[pa]C[B dies.])
+(;B[ra];W[qb])
+(;B[qb];W[ra]))
+(;B[rb];W[ra];B[qa];W[sb]C[Ko. B can do better.])
+(;B[ra];W[sb];B[sc];W[rb];B[qb];W[oa]LB[pa:A]C[B can't A. So B dies.])
+(;B[qa]
+(;W[sc];B[rb];W[sb];B[oa];W[ra])
+(;W[rb];B[sb];W[sc];B[qb];W[sa]C[B dies.]))
+(;B[sc];W[rb];B[qb];W[ra]))
+(;B[pe];W[rc];B[qb];W[oe]C[Nope.])
+(;B[rb];W[rc];B[oe];W[qb];B[qa];W[of];B[pe];W[rf];B[qf];W[qg];B[rf];W[rh]C[Oops.])
+(;B[oe];W[qb])
+(;B[qb];W[sb]
+(;B[oe];W[of]
+(;B[pe];W[rf])
+(;B[sc];W[rc])
+(;B[rc];W[sc])
+(;B[rb];W[sc]))
+(;B[rc];W[sc];B[oe];W[of])
+(;B[sc];W[rc]
+(;B[oe];W[of])
+(;B[rb];W[oe]))))
+(;B[pd];W[qc]
+(;B[qb]
+(;W[pe]
+(;B[oe];W[of]
+(;B[sc];W[pe]
+(;B[rb]
+(;W[oa]C[]
+(;B[rc];W[qf]
+(;B[sa]C[B lives.RIGHT])
+(;B[pa];W[ra]
+(;B[sa];W[sb]C[Ko])
+(;B[na];W[sa]))
+(;B[od];W[rf]
+(;B[pa];W[ra]
+(;B[sa];W[sb]C[Ko])
+(;B[na];W[sa]))
+(;B[sa]C[RIGHT])))
+(;B[sa];W[rc];B[od];W[sb]C[Ko.])
+(;B[pa];W[ra];B[sa];W[sb]C[Ko]))
+(;W[rc];B[sb];W[oa];B[od]LB[pd:A]C[w can't connect at A. RIGHT])
+(;W[qf];B[rc];W[oa]
+(;B[pa])
+(;B[sa]C[RIGHT])
+(;B[od])))
+(;B[rc];W[rb])
+(;B[od];W[rb])
+(;B[oa];W[rb]))
+(;B[rc];W[pe]
+(;B[sc];W[rb])
+(;B[sb];W[ra])
+(;B[rb]
+(;W[ra];B[sc];W[qf]
+(;B[sa];W[sb];B[qa]C[RIGHT])
+(;B[qa]C[RIGHT])
+(;B[oa];W[qa]
+(;B[sa];W[sb]C[Ko])
+(;B[pa];W[sa])
+(;B[lg];W[sa]C[Dead by bent 4 in the corner. This is not seki, White can play T18 at the end of the game and start a ko that Black can't answer.])))
+(;W[oa];B[sc])
+(;W[sc];B[sb];W[qf];B[oa]C[RIGHT]))
+(;B[od];W[rb]))
+(;B[rb]
+(;W[pe]
+(;B[sc])
+(;B[rc]))
+(;W[oa];B[sc];W[pe]))
+(;B[pe];W[rf];B[qf];W[qg];B[rf];W[rh]C[Oops.])
+(;B[sb];W[ra]
+(;B[rc];W[pe])
+(;B[pe];W[rf])
+(;B[qa];W[oa])))
+(;B[sc];W[oe]
+(;B[rb];W[oa])
+(;B[rc];W[rb])
+(;B[oa];W[rb]))
+(;B[rc];W[oe]
+(;B[sb];W[ra])
+(;B[ra];W[sb])
+(;B[rb];W[sc];B[sb];W[oa];B[pa];W[ra])
+(;B[sc]))
+(;B[rb];W[oe]
+(;B[sc])
+(;B[oa];W[sb])
+(;B[sb];W[oa]))
+(;B[sb];W[ra]))
+(;W[rb]
+(;B[sb]
+(;W[pe]
+(;B[oe];W[of]
+(;B[pe];W[rf])
+(;B[ra];W[pe];B[rc]C[RIGHT])
+(;B[rc];W[pe];B[ra]C[RIGHT])
+(;B[sc];W[pe]))
+(;B[rc];W[oe];B[ra]C[RIGHT])
+(;B[ra];W[oe];B[rc]C[RIGHT])
+(;B[sc];W[oe]))
+(;W[ra];B[rc]C[RIGHT]))
+(;B[sc];W[rc])
+(;B[rc];W[sc])
+(;B[ra];W[sb])))
+(;B[rb];W[qb])
+(;B[rc];W[qb])
+(;B[sc];W[qb])
+(;B[sb];W[qb]))
+(;B[qb];W[oe]
+(;B[qc];W[pd];B[rc];W[sc];B[sb];W[ra]C[B dies.])
+(;B[rc];W[ra]C[B dies.]))
+(;B[rb];W[qb];B[qc];W[pd]
+(;B[rc];W[ra];B[qa];W[sb]C[Ko. B can do better.])
+(;B[qa];W[rc];B[sb];W[oa];B[oe];W[md]))
+(;B[rc];W[qc];B[qb];W[rb]
+(;B[sb];W[sc];B[ra];W[sa])
+(;B[pd];W[sc])))

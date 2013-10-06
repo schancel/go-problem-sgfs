@@ -1,0 +1,5 @@
+(;GE[tesuji]DI[8k]DP[47]SO[sinse33]CO[0]AW[pd]AB[oc]AB[qe]LB[qe:1]LB[pd:2]LB[oe:3]AB[oe]C[White make weakness in black group with move 4 and 6. Best move for white ?FORCE]AW[pe]AB[pf]AW[od]AB[nd]LB[pe:4]LB[pf:5]LB[od:6]LB[nd:7]LB[qc:B]LB[of:A]AP[goproblems]
+(;W[of]C[];B[qd]LB[pc:A]C[Play AFORCE]
+(;W[pc]C[];B[qc]LB[pb:A]C[Play AFORCE];W[pb]C[];B[ne]C[Bad for White])
+(;W[ne]C[];B[pc]C[Bad for White]))
+(;W[qc]C[Good for white. Now black can't repair all this weakness.FORCERIGHT]LB[nc:A]LB[ne:B]LB[of:C]LB[qf:D]))

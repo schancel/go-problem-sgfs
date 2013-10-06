@@ -1,0 +1,11 @@
+(;GE[endgame]DI[7k]DP[43]SO[thanush]CO[0]AB[br]AB[bq]AB[bo]AB[bp]AB[cn]AB[en]AB[dn]AB[fn]AB[hn]AB[in]AB[io]AB[ip]AB[iq]AB[ir]AB[is]AB[hs]AW[bs]AW[cr]AW[cq]AW[cp]AW[do]AW[eo]AW[fo]AW[fp]AW[eq]AW[dq]AW[gs]AW[hr]AW[hq]AW[hp]AW[ho]C[Invade W's territory]AP[goproblems]
+(;B[gr];W[fs]
+(;B[fr];W[es];B[er];W[ds])
+(;B[er];W[fr])
+(;B[ds]
+(;W[er]C[CHOICE];B[cs]C[RIGHT])
+(;W[cs]C[CHOICE];B[fr];W[es];B[er]C[RIGHT])))
+(;B[ds]
+(;W[cs]C[CHOICE];B[gr];W[fs];B[fr];W[es];B[er]C[RIGHT])
+(;W[fr]C[CHOICE];B[cs];W[es];B[as]C[RIGHT])
+(;W[es];B[gr];W[fr])))

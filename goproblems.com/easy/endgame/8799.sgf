@@ -1,0 +1,10 @@
+(;GE[endgame]DI[8k]DP[45]SO[ketran0]CO[5]AB[ia]AB[ja]AB[jb]AB[jc]AB[ic]AB[jd]AB[kd]AB[ke]AB[kf]AB[jg]AB[jh]AB[ii]AB[hj]AB[gj]AB[fi]AB[fh]AB[gh]AB[fg]AB[eg]AB[ei]AB[di]AB[dh]AB[fe]AB[ee]AB[ed]AB[fd]AB[gd]AB[gc]AB[fc]AB[ah]AB[ai]AB[aj]AB[bj]AB[cj]AB[ck]AB[dk]AB[ek]AB[fk]AB[dl]AB[dm]AB[dn]AB[en]AB[cn]AB[co]AB[bo]AB[bp]AB[fo]AB[go]AB[ho]AB[fl]AB[gl]AB[hl]AB[im]AB[jm]AB[jn]AB[jo]AB[ko]AB[kp]AB[kq]AB[lp]AB[mp]AB[lr]AB[mr]AB[nr]AB[ns]AB[ps]AB[pr]AB[pq]AB[qs]AB[op]AB[oo]AB[kl]AB[ll]AB[lk]AB[lm]AB[kj]AB[ml]AB[nl]AB[nk]AB[ol]AB[pk]AB[qm]AB[pm]AB[qn]AB[rm]AB[rl]AB[rk]AB[rj]AB[ri]AB[rh]AB[rg]AB[pf]AB[pg]AB[qf]AB[re]AB[se]AB[sd]AB[qd]AB[pd]AB[oc]AB[nc]AB[mc]AB[md]AB[mb]AB[ma]AW[ha]AW[hb]AW[ib]AW[hc]AW[hd]AW[id]AW[je]AW[jf]AW[hf]AW[gf]AW[ge]AW[gg]AW[ig]AW[ih]AW[hh]AW[hi]AW[gi]AW[ff]AB[ef]AW[ch]AW[bh]AW[ag]AW[dg]AW[df]AW[de]AW[dd]AW[ce]AW[be]AW[bf]AW[ec]AW[eb]AW[fb]AW[gb]AW[lc]AW[nd]AW[oi]AW[mi]AW[na]AW[nb]AW[ob]AW[pa]AW[pc]AW[qc]AW[rc]AW[sc]AW[rd]AW[qh]AW[qg]AW[qi]AW[qj]AW[qk]AW[ql]AW[pl]AB[sl]AW[sm]AW[sn]AW[rn]AW[qo]AW[rp]AW[sr]AW[rs]AW[qr]AW[qq]AW[po]AW[pp]AW[pn]AW[on]AW[om]AW[nm]AW[mm]AW[mn]AW[ln]AW[kn]AW[km]AW[mq]AW[lq]AW[ms]AW[ls]AW[ks]AW[js]AW[kr]AW[ir]AW[iq]AW[jq]AW[jp]AW[io]AW[in]AW[hn]AW[hm]AW[gm]AW[fm]AW[fn]AW[em]AW[el]AW[eo]AW[do]AW[ep]AW[fq]AW[dq]AW[cq]AW[bq]AW[cp]AW[ap]AW[ao]AW[an]AW[bn]AW[bm]AW[cm]AW[cl]AW[bk]AW[ak]AW[al]AP[goproblems]
+(;W[no]
+(;B[np];W[mo]C[White wins by .5RIGHT])
+(;B[mo];W[np]
+(;B[oq];W[nn];B[nq]C[RIGHT])
+(;B[nq];W[oq];B[or];W[op]C[RIGHT])))
+(;W[mo];B[no];W[nn];B[nq]C[White loses by .5])
+(;W[oq]
+(;B[np];W[or]C[RIGHT])
+(;B[nq];W[no];B[np];W[mo]C[RIGHT])))

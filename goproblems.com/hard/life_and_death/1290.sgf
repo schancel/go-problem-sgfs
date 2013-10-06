@@ -1,0 +1,14 @@
+(;GE[life and death]DI[5d]DP[4]SO[gecko]CO[7]SZ[19]AB[bd]AB[bc]AB[cc]AB[ec]AB[eb]AW[fb]AW[fc]AW[fd]AW[dd]AW[cd]AW[be]AW[ae]AW[cf]AW[hb]FF[4]GM[1]AP[Jago:Version 4.27]GN[145]
+(;W[ea]
+(;B[da]C[CHOICE]
+(;W[dc];B[db];W[ba];B[bb]
+(;W[ed];B[fa];W[ca];B[aa]
+(;W[ac];B[ad];W[ab];B[aa];W[ab]C[ deadRIGHT])
+(;W[ab];B[ac];W[ad]C[Ko]))
+(;W[ca];B[aa]
+(;W[ac];B[ad];W[ab];B[aa];W[ab]C[ exchanging W a for B b before W c would be better ajiRIGHT]LB[ed:a]LB[fa:b]LB[ca:c])
+(;)))
+(;W[db];B[dc];W[ca];B[ba];W[bb];B[cb];W[aa];B[da]C[Ko])
+(;W[ba];B[dc];W[fa];B[ad];W[db];B[cb];W[ca]C[Ko]))
+(;B[db];W[bb]C[RIGHT]))
+(;W[db];B[dc];W[ea];B[da]))

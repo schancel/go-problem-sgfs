@@ -1,0 +1,43 @@
+(;GE[life and death]DI[1d]DP[16]SO[marwin]CO[9]AW[qq]AW[pq]AW[oq]AB[pr]AB[qp]AB[qo]AB[qn]AB[pp]AB[op]AB[oo]AB[pn]AW[np]AW[mq]AW[nn]AW[om]AW[pm]AW[qm]AW[qk]AW[sm]LB[ml:T]C[Black to live, play T if you think Black can't live here.]AP[goproblems]
+(;B[rq];W[so]C[Have you been thinking about this countermove?]
+(;B[sp];W[rr]
+(;B[qr];W[or]
+(;B[rs];W[sr]
+(;B[qs];W[os];B[rp];W[ps];B[sq];W[ss];B[qr]C[RIGHT])
+(;B[sq];W[rp])
+(;B[rp];W[ps]))
+(;B[sr];W[rs]))
+(;B[ro];W[sn];B[qr];W[or]
+(;B[rs];W[sr];B[qs];W[os];B[rp];W[ps];B[sq];W[ss];B[qr]C[RIGHT])
+(;B[sr];W[rs])))
+(;B[rp];W[qr];B[rr];W[rs]
+(;B[sp];W[sr])
+(;B[sr];W[sp]))
+(;B[rr];W[rp];B[ro];W[sp];B[rn];W[sn];B[rm];W[rl])
+(;B[sq];W[sn];B[rp];W[qr];B[rr];W[rs])
+(;B[ro];W[sp];B[sq];W[sn];B[rp];W[qr])
+(;B[qr];W[rp];B[ro];W[sp];B[rn];W[sn]))
+(;B[rp];W[rq];B[rn];W[so];B[sp];W[sn])
+(;B[sp];W[rq];B[rp];W[rn])
+(;B[so];W[rq]
+(;B[rp];W[rn])
+(;B[rn];W[rp]))
+(;B[rr];W[rq])
+(;B[ml];W[rq]AB[qq]AB[pq]AB[oq]AW[pr]AW[qp]AW[pp]AW[op]AW[oo]AW[qo]AW[qn]AW[pn]AB[qm]AB[pm]AB[om]AB[nn]AB[np]AB[mq]AB[qk]AB[sm]C[So you think it can't live, kill then]
+(;B[so];W[sp]
+(;B[rr];W[qr];B[or];W[rs]
+(;B[sr];W[qs];B[os];W[rp];B[ps];W[sq];B[ss];W[qr])
+(;B[ps];W[sr]))
+(;B[qr];W[rr];B[rs];W[sr]))
+(;B[rr];W[rp]
+(;B[qr];W[rn])
+(;B[so];W[qr];B[sr];W[sq];B[or];W[rs]))
+(;B[qr];W[rr];B[so];W[sp])
+(;B[rp];W[ro];B[rr];W[sp];B[sr];W[sq])
+(;B[rn];W[ro]
+(;B[sp];W[so];B[sq];W[rr])
+(;B[rr];W[sr];B[qr];W[so]))
+(;B[ro];W[rp];B[rr];W[qr];B[or];W[rs];B[sr];W[sq];B[ps];W[ss];B[rr];W[sr])
+(;B[sp];W[rp]
+(;B[rr];W[so])
+(;B[so];W[qr];B[rr];W[sr];B[rs];W[qs]))))

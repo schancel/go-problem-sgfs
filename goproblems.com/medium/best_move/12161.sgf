@@ -1,0 +1,21 @@
+(;GE[best move]DI[4k]DP[28]SO[karmaGfa]CO[0]SZ[19]AW[aa]AW[fa]AW[ha]AW[ab]AW[bb]AW[cb]AW[fb]AW[hb]AW[ib]AW[pb]AW[rb]AW[ac]AW[dc]AW[ec]AW[fc]AW[gc]AW[ic]AW[lc]AW[qc]AW[sc]AW[ed]AW[gd]AW[kd]AW[ld]AW[md]AW[rd]AW[he]AW[ie]AW[je]AW[ke]AW[le]AW[af]AW[bf]AW[hf]AW[kf]AW[of]AW[qf]AW[bg]AW[fg]AW[gg]AW[hg]AW[ig]AW[mg]AW[bh]AW[ch]AW[dh]AW[eh]AW[fh]AW[gh]AW[jh]AW[rh]AW[ai]AW[fi]AW[ni]AW[oi]AW[pi]AW[qi]AW[ri]AW[fj]AW[lj]AW[nj]AW[ak]AW[dk]AW[fk]AW[hk]AW[kk]AW[lk]AW[mk]AW[qk]AW[bl]AW[cl]AW[dl]AW[el]AW[hl]AW[rl]AW[dm]AW[fm]AW[gm]AW[km]AW[lm]AW[mm]AW[pm]AW[rm]AW[cn]AW[fn]AW[hn]AW[mn]AW[nn]AW[qn]AW[ho]AW[oo]AW[po]AW[ro]AW[ep]AW[hp]AW[mp]AW[qp]AW[cq]AW[dq]AW[eq]AW[hq]AW[qq]AW[br]AW[cr]AW[dr]AW[er]AW[fr]AW[hr]AW[ir]AW[rr]AW[sr]AW[as]AW[cs]AW[hs]AB[ka]AB[la]AB[na]AB[jb]AB[lb]AB[nb]AB[ob]AB[bc]AB[cc]AB[hc]AB[jc]AB[kc]AB[mc]AB[oc]AB[ad]AB[bd]AB[dd]AB[fd]AB[hd]AB[id]AB[jd]AB[nd]AB[pd]AB[qd]AB[ae]AB[be]AB[ce]AB[de]AB[ee]AB[fe]AB[ge]AB[me]AB[ne]AB[re]AB[cf]AB[ef]AB[gf]AB[if]AB[jf]AB[lf]AB[rf]AB[cg]AB[dg]AB[eg]AB[jg]AB[kg]AB[lg]AB[rg]AB[hh]AB[ih]AB[mh]AB[nh]AB[oh]AB[ph]AB[qh]AB[ei]AB[gi]AB[ii]AB[li]AB[cj]AB[dj]AB[ej]AB[gj]AB[ij]AB[jj]AB[kj]AB[oj]AB[pj]AB[bk]AB[ek]AB[gk]AB[jk]AB[nk]AB[fl]AB[gl]AB[ol]AB[ql]AB[bm]AB[cm]AB[em]AB[jm]AB[nm]AB[qm]AB[bn]AB[dn]AB[en]AB[gn]AB[jn]AB[kn]AB[ln]AB[on]AB[bo]AB[eo]AB[go]AB[mo]AB[no]AB[ap]AB[cp]AB[dp]AB[fp]AB[ip]AB[np]AB[pp]AB[aq]AB[bq]AB[fq]AB[iq]AB[jq]AB[mq]AB[oq]AB[ar]AB[jr]AB[nr]AB[pr]AB[qr]AB[is]AB[js]AB[rs]C[Black to play the best move.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[bi]
+(;W[aj];B[ah]
+(;W[ag]C[CHOICE]
+(;B[bj]C[A seki that was worth 20 points.RIGHT])
+(;B[am];W[al];B[bj]C[RIGHT]))
+(;W[ci]C[CHOICE]
+(;B[bj]
+(;W[al]
+(;B[am];W[ag];B[ff]C[A seki that was worth 20 points.RIGHT])
+(;B[ff]C[RIGHT];W[am];B[an]C[RIGHT])))))
+(;W[bj]C[Let's see what happen if white is folish enough to try the ko ...]
+(;B[aj];W[ja];B[kb];W[bj];B[am]C[Hidden ko-thread: this move cannot be ignored.]
+(;W[al];B[aj]C[Black will win the ko.])
+(;W[ck];B[al];W[ci];B[bk];W[aj]))))
+(;B[am];W[al]C[This move could have been useful later, if white choosed a ko in A10.])
+(;B[bj];W[aj]
+(;B[bi];W[ah])
+(;B[ah];W[bi]))
+(;B[ck];W[al]C[hm ....];B[bi];W[aj];B[ah];W[ci]C[There is no seki anymore, C9 was a mistake.])
+(;B[ah];W[bi]))

@@ -1,0 +1,74 @@
+(;GE[endgame]DI[3k]DP[25]SO[Karen B]CO[0]AB[aa]AB[ba]AB[bc]AB[ac]AB[cb]AB[db]AB[bd]AB[cd]AB[be]AB[ed]AB[fd]AB[fc]AB[gb]AB[ge]AB[gf]AB[if]AB[ie]AB[id]AB[kd]AW[cc]AW[dc]AW[ec]AW[eb]AW[ga]AW[dd]AW[ce]AW[de]AW[ee]AW[fe]AW[bf]AW[cg]AW[ci]AW[fg]AW[gg]C[Black to play, and make the best endgame move. Be careful to save the Black group in the corner.]AP[goproblems]
+(;B[ha]
+(;W[ea]
+(;B[da];W[fb]
+(;B[hc]C[Correct.RIGHT])
+(;B[hb]C[Correct.RIGHT])
+(;B[fa];W[gc]
+(;B[gd]
+(;W[hc]C[Black can do better as this can lead to a ko.CHOICE]))
+(;B[hc];W[gd]C[Black can do better than this.CHOICE]))
+(;B[gc];W[hb]C[Black can do better than this ko.CHOICE]))
+(;B[fa];W[da]LB[bb:A]LB[ae:B]C[The Black group in the corner is dead. A & B are miai.CHOICE])
+(;B[ae];W[fb]
+(;B[hb]C[Correct.RIGHT])
+(;B[hc]C[Correct.RIGHT])
+(;B[fa];W[gc]
+(;B[gd];W[hc]C[Black can do better as this can lead to a ko.CHOICE])
+(;B[hc];W[gd]C[Black can do better than this.CHOICE]))
+(;B[gc];W[hb]C[Black can do better than this ko.CHOICE]))
+(;B[gc];W[da]C[The Black group in the corner is dead.CHOICE]))
+(;W[hb]
+(;B[da];W[fa]
+(;B[ib];W[hc]C[White wins.CHOICE])
+(;B[hc];W[ib]C[White wins.CHOICE]))
+(;B[ae];W[fa]
+(;B[hc];W[ib]C[White wins.CHOICE])
+(;B[ib];W[hc]C[White wins.CHOICE]))
+(;B[fa];W[fb]
+(;B[ea];W[gc]C[Black can do better than this ko.CHOICE])
+(;B[gc];W[ea]C[Black must defend the corner, so White gets to play the ko at A first.CHOICE]LB[ga:A])
+(;B[ga];W[gc]C[Black can do better than this.CHOICE])
+(;B[hc];W[ea]
+(;B[da];W[ga]
+(;B[ib]C[Correct.RIGHT])
+(;B[gc];W[ia]C[Black can do better than this.CHOICE])
+(;B[ic];W[gc]C[Black can do better than this.CHOICE]))
+(;B[ae];W[ga]
+(;B[ib]C[Correct.RIGHT])
+(;B[gc];W[ia]C[Black can do better than this.CHOICE])
+(;B[ic];W[gc]C[Black can do better than this.CHOICE]))
+(;B[ga];W[da]C[The Black group in the corner is dead.CHOICE])
+(;B[ib];W[da]C[The Black group in the corner is dead.CHOICE]))
+(;B[ib];W[ea]C[Black must defend the corner, so White gets to play A.CHOICE]LB[gc:A])
+(;B[da];W[gc]C[Black can do better than this ko.CHOICE])
+(;B[ae];W[gc]C[Black can do better than this ko.CHOICE]))
+(;B[fb];W[ea]C[Black can do better as she must defend the corner, so White gets to play A.CHOICE]LB[fa:A])
+(;B[hc];W[ea]C[Black can do better as she must defend the corner, and White gets to play A.CHOICE]LB[ia:A])
+(;B[ib];W[ea]LB[hc:A]C[Black can do better as she must defend the corner, and White gets to play A.])))
+(;B[fa];W[fb]
+(;B[gc];W[ha]C[Black can do better than this.CHOICE])
+(;B[ea];W[gc]C[Black can do better than this.CHOICE])
+(;B[hb];W[ea]LB[ha:A]C[Black can do better as she must defend the corner, and White gets to play A.CHOICE])
+(;B[ha];W[ea]LB[gc:A]C[Black can do better as she must defend the corner, and White gets to play at A, which can lead to a ko.CHOICE]))
+(;B[fb];W[ea]
+(;B[fa];W[da]LB[bb:A]LB[ae:B]C[The Black group in the corner is dead. A & B are miai.CHOICE])
+(;B[da];W[fa]C[Black can do better than this.CHOICE])
+(;B[ae];W[fa]C[Black can do better than this.CHOICE])
+(;B[ha];W[da]C[The Black group in the corner is dead.CHOICE]))
+(;B[ea]C[White wins];W[fa]
+(;B[da];W[fb]C[Black can do better then this.CHOICE])
+(;B[fb];W[da]C[Black must save the group in the corner, and White will get to play A.CHOICE]LB[hb:A])
+(;B[ae];W[hb]C[White wins.CHOICE])
+(;B[ha];W[da]LB[hb:A]C[Black must defend the group in the corner. White then gets to play A.CHOICE])
+(;B[hb];W[ha]C[Black can do better than this.CHOICE]))
+(;B[da];W[fb]C[Black can do better then this.CHOICE])
+(;B[hb];W[ea]
+(;B[ae];W[ha]C[Black can do better than this.CHOICE])
+(;B[da];W[ha]C[Black can do better than this.CHOICE])
+(;B[ha];W[da]LB[bb:A]LB[ae:B]C[The Black group in the corner is dead. A & B are miai.CHOICE])
+(;B[fb];W[da]LB[bb:A]LB[ae:B]C[The Black group in the corner is dead. A & B are miai.CHOICE]))
+(;B[ae];W[ha]C[Black can do better than this.CHOICE])
+(;B[hc];W[ea]LB[ia:A]C[Black can do better as she must defend the corner, and White gets to play at A.CHOICE])
+(;B[ca];W[fb]LB[ae:A]LB[gc:B]C[Black must defend at A, so White can play B.CHOICE])
+(;B[bb];W[ha]C[Black can do better than this.CHOICE]))

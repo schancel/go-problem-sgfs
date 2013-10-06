@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[10]SO[marwin]CO[7]SZ[19]AW[po]AW[op]AW[qp]AW[rp]AW[sp]AW[oq]AW[qq]AW[pr]AW[ps]AB[on]AB[pn]AB[qn]AB[rn]AB[mo]AB[nq]AB[pq]AB[rq]AB[mr]AB[or]AB[qr]C[Black to kill white]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[rs];W[sr]
+(;B[qs];W[pp];B[os];W[pq];B[rr]C[RIGHT])
+(;B[os];W[pp];B[qs]))
+(;B[qs];W[rr]
+(;B[os];W[rs]C[white lives])
+(;B[rs];W[ss]))
+(;B[rr];W[rs]
+(;B[qs];W[pp]
+(;B[os];W[pq]
+(;B[sr];W[sq])
+(;B[ss];W[sq]))
+(;B[ss];W[sq]))
+(;B[sr];W[qs])
+(;B[sq];W[qs]))
+(;B[sr];W[qs]
+(;B[rr];W[rs];B[os];W[pp];B[ss];W[sq])
+(;B[rs];W[rr]C[just a ko]))
+(;B[sq];W[rr]
+(;B[rs];W[qs];B[os];W[ss])
+(;B[qs];W[rs])
+(;B[sr];W[qs]))
+(;B[os];W[rs]
+(;B[qs];W[rr])
+(;B[rr];W[pp];B[qs])
+(;B[sr];W[qs]
+(;B[rr])
+(;B[ss];W[pp]))
+(;B[sq];W[rr])))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[10]SO[ocho]CO[7]AB[pd]AB[pf]AB[nc]AB[pg]AW[qc]C[Kill the invader. Please start with one of the marked points]AW[qh]AW[jc]TR[re]TR[rd]TR[qd]AP[goproblems]
+(;B[re];W[rd]C[Please choose between marked points.]TR[qe]TR[qd]TR[pc]
+(;B[pc];W[pb]
+(;B[ob];W[rb]C[ko])
+(;B[rb];W[ob]
+(;B[qb];W[nb]C[w lives part])
+(;B[nb]C[White is dead. S15 is the killing move. The key here is that black will answer A with B.RIGHT]LB[qe:A]LB[rf:B])))
+(;B[qe];W[ob]C[w lives at least part])
+(;B[qd];W[rb]C[Ko at best -- see branch starting with R16]))
+(;B[qd];W[rd];B[re];W[rb]
+(;B[pb];W[qe]
+(;B[sd];W[sc]C[ko])
+(;B[pe];W[qf])
+(;B[rf];W[qb]
+(;B[sd];W[sc]C[ko])
+(;B[sc];W[pc];B[ob];W[od];B[pe];W[oc];B[nd];W[oe];B[nf];W[ne];B[me];W[of];B[ng];W[og];B[oh]
+(;W[ph];B[nh])
+(;W[sd];B[se];W[rc];B[qa]
+(;W[ph]C[CHOICE];B[nh];W[rg];B[qf];W[qg];B[ra];W[sb];B[pa];W[nb];B[mb];W[sg];B[na];W[sf])
+(;W[nb];B[mb];W[ph];B[nh];W[qg];B[qf];W[rg];B[na];W[sg];B[ra];W[sb];B[pa];W[sf])))))
+(;B[pc];W[pb]))
+(;B[rd];W[qd]
+(;B[qe];W[rc];B[re];W[ob]
+(;B[nb];W[oc];B[od];W[pc]C[ko at best...]TR[nd])
+(;B[pc];W[nb]C[w lives in part]))
+(;B[re];W[od]C[Please play at A]LB[oc:A];B[oc];W[pe]
+(;B[pc];W[qe]C[Freedom or life]LB[ne:F]LB[qf:L])
+(;B[qe];W[pc];B[ne];W[nd];B[md];W[mc]C[W lives if the ladder is good...]LB[ih:lad]LB[jh:der])
+(;B[oe]C[So S16 kills if R16 can be answered with S15. An easier alternative suggested by Guo Juan is simply S15 right away.RIGHT]))))

@@ -1,0 +1,45 @@
+(;GE[endgame]DI[6k]DP[37]SO[frostburn]CO[0]SZ[7]AB[ba]AB[bb]AB[bc]AB[bd]AW[ab]AW[ac]AW[ad]AB[be]AW[ag]AW[bg]AW[cg]AW[cf]AW[ce]AW[cd]AW[cc]AW[cb]AW[ca]AW[db]AW[eb]AW[ea]AB[fb]AB[fc]AB[ec]AB[ed]AB[ee]AB[df]AB[dg]AB[ef]AW[fg]AW[gg]AW[gf]AW[ge]AW[ff]AB[fe]AB[gd]AB[gb]C[No komi or prisoners. Black to win.]AP[goproblems]
+(;B[ae];W[fa]
+(;B[ga];W[af]
+(;B[dc];W[bf];B[aa];W[ac]
+(;B[dd];W[ab]
+(;B[de];W[ad]C[B+1. Good job!RIGHT])
+(;B[ad]C[NOTTHIS]))
+(;B[de]C[NOTTHIS]))
+(;B[aa];W[ac])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[aa];W[ac])
+(;B[dc]C[NOTTHIS])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[aa];W[fa]
+(;B[ae];W[ac]
+(;B[ga];W[af]
+(;B[dc];W[bf])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[dc]C[NOTTHIS])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[bf];W[af];B[ae];W[ac]LB[ga:A]C[Please play at A.];B[ga];W[ad]LB[dc:A]C[Please play at A.];B[dc];W[ab]C[W+1.])
+(;B[af];W[bf];B[ae])
+(;B[ga];W[bf];B[ae];W[ac]
+(;B[dc];W[af])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[dc]C[NOTTHIS])
+(;B[dd]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[fa];W[ae]C[Jigo. Black could've won.])
+(;B[bf];W[af]
+(;B[fa]C[W+1. You lost.])
+(;B[ae];W[aa]C[];B[fa]C[W+1.]))
+(;B[af];W[bf]
+(;B[fa];W[ae]C[Jigo. Black can do better.])
+(;B[ae];W[fa]
+(;B[aa];W[ac]LB[ga:A]C[Please play at A.];B[ga];W[ad]LB[dc:A]C[Please play at A.];B[dc];W[ab]C[W+1. Black lost.])
+(;B[ga];W[aa]C[W+2. That's rather harsh.])
+(;B[dc];W[aa]C[W+2.])
+(;B[dd];W[aa]C[W+2.])
+(;B[de];W[aa]C[W+2.]))))

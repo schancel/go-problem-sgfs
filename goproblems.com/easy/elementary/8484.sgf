@@ -1,0 +1,16 @@
+(;GE[elementary]DI[10k]DP[54]SO[tjl]CO[5]AW[bd]AW[be]AW[dc]AW[dd]AW[ed]AW[eb]AW[fb]AB[ec]AB[fc]AB[gc]AB[fd]AB[ee]AB[de]AB[ce]AB[bf]AB[cg]AW[ch]AW[dh]AW[ck]AW[jd]LB[fe:A]C[Can white cut at A? Play A if yes, otherwise tenuki at T.]LB[jj:T]AB[df]AP[goproblems]
+(;W[jj];B[gf]C[Wrong. W can cut.])
+(;W[fe];B[gf]
+(;W[ge];B[he]
+(;W[ff];B[fg]MA[gg]MA[hf]C[Yes. Ataris now work. At the very least, W gets the triangled stones.RIGHT]TR[ec]TR[fc]TR[gc]TR[fd])
+(;W[gd];B[hd];W[ff];B[fg];W[ef];B[eg])
+(;W[hd];B[gd];W[ff];B[fg];W[ef];B[eg])
+(;W[hf];B[ff]
+(;W[gd];B[hd])
+(;W[hd];B[gd])))
+(;W[ff]
+(;B[fg]
+(;W[ge];B[he]MA[gg]MA[hf]C[Yes. Ataris now work. At the very least, W gets the triangled stones.RIGHT]TR[ec]TR[fc]TR[gc]TR[fd])
+(;W[eg];B[ef];W[ge];B[he])
+(;W[ef];B[eg];W[ge];B[he]))
+(;B[df]))))

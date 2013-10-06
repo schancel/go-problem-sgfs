@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1d]DP[15]SO[Lazare]CO[0]AW[ba]AW[ca]AW[cb]AW[cc]AW[dc]AW[ec]AW[dd]AB[bb]AB[bc]AB[cd]AB[ce]AB[df]AB[ee]AB[da]AB[db]AB[eb]AB[fb]AB[gb]AB[hb]AB[ia]AB[jb]AW[ib]AW[ic]AW[hc]AW[gd]AW[fd]AW[jd]AW[id]AW[kd]AW[ld]AW[kb]AB[mb]AB[mc]AB[md]AB[me]AB[ke]AB[jf]AB[he]AB[ge]C[Black to both live and kill, by connecting or making eyes]AP[goproblems]
+(;B[ha];W[fa]
+(;B[kc];W[lc]
+(;B[ka];W[jc]
+(;B[ja]C[Connected, white is dead !RIGHT])
+(;B[lb];W[ja]C[Ko, black can do better])
+(;B[la];W[ja]C[Ko, black can do better]))
+(;B[lb];W[ka])
+(;B[ja];W[ka]))
+(;B[ja];W[ka])
+(;B[ka];W[la]
+(;B[kc];W[ja]C[Ko, black can do better])
+(;B[lb];W[ja]C[Ko, black can do better]))
+(;B[lb];W[ka];B[kc];W[lc]))
+(;B[kc]
+(;W[ha]
+(;B[ka];W[ja]C[Ko, but black can do better])
+(;B[ja];W[ka];B[ga];W[lc])
+(;B[ga];W[lc];B[ka];W[jc]
+(;B[lb];W[ja]C[Ko, but black can do better])
+(;B[la];W[ja]C[Ko, but black can do better]))))
+(;B[lb];W[ka];B[kc];W[lc])
+(;B[ka];W[la]
+(;B[kc];W[ja]C[Ko, black can do better])
+(;B[lb];W[ja]C[Ko, black can do better]))
+(;B[ja];W[ka];B[kc];W[lc]))

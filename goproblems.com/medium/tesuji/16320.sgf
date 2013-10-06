@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[3k]DP[25]SO[kuche12345]CO[0]AB[aq]AW[ar]AB[br]AW[bq]AW[cq]AW[dq]AW[eq]AW[fq]AB[gq]AB[gp]AB[fp]AB[dp]AB[ep]AB[cp]AB[bp]AB[ap]AW[gr]AW[hr]AW[hq]AB[fr]C[Black to kill (if an unconditional kill is possible, ko is not a solution)]AP[goproblems]
+(;B[er];W[cr]
+(;B[bs];W[cs]
+(;B[ds];W[as]
+(;B[bs];W[fs];B[br]C[RIGHT])
+(;B[br]
+(;W[fs]C[];B[bs]C[RIGHT])
+(;W[bs];B[dr]C[RIGHT])))
+(;B[dr];W[as]C[RIGHT]
+(;B[br]C[RIGHT])
+(;B[bs]C[RIGHT])))
+(;B[as];W[ds]
+(;B[dr];W[cs]C[Black can't atari now ;/])
+(;B[cs];W[bs]C[only ko])))
+(;B[cr];W[er])
+(;B[dr];W[er])
+(;B[es];W[er]
+(;B[fs];W[ds])
+(;B[ds];W[fs])
+(;B[cr];W[fs])
+(;B[dr];W[fs])
+(;B[cs];W[fs]))
+(;B[ds];W[er])
+(;B[cs];W[er]))

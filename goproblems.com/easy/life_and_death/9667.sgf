@@ -1,0 +1,9 @@
+(;GE[life and death]DI[18k]DP[69]SO[MatheusB]CO[8]SZ[9]AB[bg]AW[bh]AW[cg]AW[dg]AW[dh]AW[eh]AW[fi]AW[gh]AW[fg]AW[ff]AW[gf]AW[ef]AB[bf]AB[ce]AB[de]AB[cc]AB[cb]AB[ec]AB[ed]AB[fd]AB[fe]AB[ge]AB[he]AB[hf]AB[hg]AB[hh]AB[gg]AB[ib]AB[hb]AB[ha]AW[hc]AW[hd]AW[gd]AW[fc]AW[fb]AW[gb]AW[ga]AW[eb]AW[db]AW[da]C[Simple problem - Black to win the game (komi is 6.5). Please don't play any unnecessary forcing moves.]AB[ag]AW[ah]AP[goproblems]
+(;B[id]C[That's it. White cannot cut at A as it would be self-atari so the corner is dead.RIGHT]LB[im:A]LB[ic:A])
+(;B[ie];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[hi]TR[id]TR[ca]TR[dc]TR[cf])
+(;B[ic];W[id]C[Even if Black is to play on all triangled fields White wins.]TR[hi]TR[ca]TR[dc]TR[ie]TR[cf])
+(;B[hi];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[gi]TR[ie]TR[ca]TR[dc]TR[cf])
+(;B[dc];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[ca]TR[ie]TR[hi]TR[cf])
+(;B[ca];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[dc]TR[cf]TR[hi]TR[ie])
+(;B[ci];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[ca]TR[dc]TR[cf]TR[hi]TR[ie])
+(;B[cf];W[ic]C[Even if Black is to play on all triangled fields White wins.]TR[ca]TR[dc]TR[hi]TR[ie]))

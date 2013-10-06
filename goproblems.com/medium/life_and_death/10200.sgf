@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1k]DP[19]SO[tom111]CO[8]AB[rb]AB[qc]AB[qd]AB[pd]AB[qf]AB[oe]AB[ne]AB[me]AB[ld]AB[kd]AB[kc]AB[kb]AB[la]AB[ma]C[Black to kill (beware of the famous antisuji !!)]AW[lb]AW[lc]AW[md]AW[nd]AW[od]AW[oc]AW[nb]AW[pc]AW[pb]AP[goproblems]
+(;B[oa];W[na]
+(;B[pa];W[qb]
+(;B[qa];W[ra]
+(;B[sa];W[ob]
+(;B[mb];W[ra]
+(;B[mc]
+(;W[rc];B[qa]C[RIGHT])
+(;W[sb]
+(;B[rc]C[RIGHT])
+(;B[qa];W[rc]C[Uuuups])))
+(;B[rc];W[mc])
+(;B[qa];W[mc]LB[ka:A]LB[pa:B]))
+(;B[ra];W[rc])
+(;B[mc];W[ra]
+(;B[mb])
+(;B[qa]C[RIGHT])))
+(;B[mc];W[mb])
+(;B[mb];W[mc]LB[ka:A]LB[ob:B]))
+(;B[mc];W[mb])
+(;B[mb];W[mc]LB[ka:A]LB[qa:B]))
+(;B[mb];W[mc])
+(;B[mc];W[mb]))
+(;B[mb];W[mc]
+(;B[oa];W[na])
+(;B[na];W[oa])
+(;B[pa];W[oa]))
+(;B[mc];W[mb]
+(;B[oa];W[na];B[pa];W[qb];B[qa];W[ra];B[sa];W[ka]LB[la:A]LB[ob:B]C[White is alive since A and B are Miai])
+(;B[na];W[oa])
+(;B[pa];W[oa]))
+(;B[na];W[oa])
+(;B[qa];W[oa]LB[ob:1]LB[nc:2])
+(;B[ob];W[oa])
+(;B[nc];W[oa]))

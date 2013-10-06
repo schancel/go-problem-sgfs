@@ -1,0 +1,24 @@
+(;GE[endgame]DI[1d]DP[17]SO[Bildstein]CO[8]SZ[9]AB[ae]AB[af]AB[ba]AB[bf]AB[bg]AB[bh]AB[cc]AB[cg]AB[db]AB[dc]AB[dh]AB[ea]AB[eb]AB[ec]AB[ed]AB[ee]AB[ef]AB[eh]AB[ei]AB[fb]AB[fc]AB[fd]AB[ff]AB[gc]AB[ge]AB[gg]AB[hd]AB[hf]AB[hg]AB[id]AB[if]AW[ad]AW[bb]AW[bc]AW[be]AW[ca]AW[cb]AW[cd]AW[cf]AW[ci]AW[da]AW[dd]AW[de]AW[df]AW[dg]AW[eg]AW[fg]AW[fh]AW[ga]AW[gb]AW[gh]AW[ha]AW[hc]AW[hh]AW[ib]AW[ic]AW[ig]AW[ih]LB[ia:B]MA[ii]MA[hi]MA[ce]MA[bd]MA[ac]MA[ab]MA[aa]MA[ba]MA[ci]MA[ch]MA[di]MA[bi]MA[ah]MA[ag]MA[ai]MA[fe]MA[gf]MA[gd]MA[he]MA[ie]MA[hb]MA[ia]C[As a starting point for counting, the points marked with squares sum to... Black: 13 points (12 for territory plus 1 for prisoner). White: 11 points (10 for territory plus 1 for prisoner).]LB[fa:A]GM[1]FF[4]CA[UTF-8]AP[gGo:1.0]ST[1]HA[4]KM[0.0]PW[Human]PB[Igo for windows]DT[2006-11-28]
+(;W[bi]
+(;B[ch]
+(;W[ah]
+(;B[ag]
+(;W[fi];B[ai]LB[fa:A]C[Play A to pass.];W[fa];B[di]C[White wins by 1. Forcing Black to make and win the ko meant forcing him to make one more move inside his territory than he would otherwise have had to. (Navigate solution for why Black's other moves aren't right.)RIGHT])
+(;W[ai];B[di]
+(;W[bi];B[ai]
+(;W[ah];B[ac]LB[bd:A]C[If you want to answer the ko threat, please play A (not B).]LB[ab:B]
+(;W[bd];B[ai];W[fi];B[ci]C[Jigo.])
+(;W[fi];B[bd]C[White has no follow up.])
+(;W[ai];B[bd]C[White has no follow up.])
+(;W[ab]C[NOTTHIS]))
+(;W[fi];B[ci]C[Jigo.]))
+(;W[fi];B[bi]C[Jigo.])))
+(;B[fi];W[gi]C[White wins, but Black didn't have to allow this seki.]))
+(;W[fi];B[ah]C[Jigo.]))
+(;B[ah];W[ch]C[White wins (Black A and B both leave Black in atari), but Black has not played correctly.]LB[ai:A]LB[di:B])
+(;B[ai];W[ah];B[ch];W[fi]C[Seki. White wins by 8, but Black has not played correctly.]))
+(;W[fi];B[bi]C[Jigo.])
+(;W[fa]C[Wrong. With correct play, this would not be a draw.])
+(;W[ia]C[Wrong. With correct play, Black would not win.])
+(;W[ch];B[bi];W[fi];B[di]C[Jigo.])
+(;W[ah];B[bi];W[fi]C[Black wins by 1.]))

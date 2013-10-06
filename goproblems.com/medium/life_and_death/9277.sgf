@@ -1,0 +1,45 @@
+(;GE[life and death]DI[3k]DP[27]SO[lok]CO[6]AB[kr]AB[kp]AB[kq]AB[jo]AB[io]AB[ip]AB[hp]AB[hq]AB[hr]AW[gr]AW[gq]AW[gp]AW[ho]AW[go]AW[hn]AW[jn]AW[in]AW[ko]AW[lo]AW[lp]AW[lq]AW[lr]C[White to kill.]AP[goproblems]
+(;W[jq]
+(;B[jr]C[CHOICE]
+(;W[ks];B[iq];W[is]C[Nice!RIGHT])
+(;W[iq];B[hs];W[ks];B[js];W[ir]C[Seki :(])
+(;W[is];B[hs]TR[is]TR[jq]C[Black got 2 eyes :(]))
+(;B[ks];W[jr]))
+(;W[ks]
+(;B[js]C[CHOICE]
+(;W[jq];B[jr];W[hs]TR[iq]TR[is]C[Nice!RIGHT])
+(;W[jr];B[jq]
+(;W[ir];B[hs];W[is];B[iq]C[The marked stones can't escape :(]MA[ir]MA[is]MA[jr])
+(;W[is];B[ir]C[:(]))
+(;W[ir];B[hs]
+(;W[jr];B[jq]MA[ir]MA[jr]C[The marked stones can't escape :(])
+(;W[jq];B[jr];W[iq]C[Seki.]))
+(;W[hs];B[jq];W[ir]))
+(;B[jq]C[CHOICE];W[ir]
+(;B[js];W[hs];B[ls];W[is]C[Nice!RIGHT])
+(;B[is];W[js];B[hs];W[jr]))
+(;B[hs];W[jq])
+(;B[jr];W[jq]))
+(;W[jr];B[jq]
+(;W[ks];B[ir]C[:(])
+(;W[ir];B[ks];W[hs];B[is]C[The marked stones can't escape :(]MA[ir]MA[jr]))
+(;W[ir];B[hs]
+(;W[jr];B[jq];W[ks];B[js]MA[ir]MA[jr]C[The marked stones can't escape :(])
+(;W[ks];B[js])
+(;W[jq];B[jr];W[iq];B[ks]))
+(;W[hs];B[is]
+(;W[ir];B[gs];W[jr];B[jq]MA[ir]MA[jr]C[The marked stones can't escape :(])
+(;W[jr];B[jq];W[ir];B[ks]MA[ir]MA[jr]C[The marked stones can't escape :(])
+(;W[js];B[gs]
+(;W[ir];B[jr];W[hs];B[iq];W[fs];B[ks])
+(;W[ks];B[jr])
+(;W[jr];B[jq]))
+(;W[ks];B[jq];W[ir];B[gs];W[js];B[jr];W[hs]C[Ko.]))
+(;W[is];B[jq];W[ir];B[hs];W[ks];B[js]MA[ir]MA[is]C[The marked stones can't escape :(])
+(;W[js];B[ks]
+(;W[hs];B[jr]
+(;W[is];B[ir];W[gs];B[jq])
+(;W[ir];B[iq]))
+(;W[jr];B[jq])
+(;W[jq];B[jr])
+(;W[ir];B[hs])))

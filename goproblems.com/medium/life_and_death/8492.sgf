@@ -1,0 +1,75 @@
+(;GE[life and death]DI[3d]DP[9]SO[kaf]CO[7]AB[bq]AB[bn]AB[cm]AB[dn]AB[co]AB[do]AB[dp]AB[gn]AB[gp]AB[hq]AB[ir]AB[jq]AB[ip]AB[gr]AB[hr]AW[gq]AW[fq]AW[fr]AW[eq]AW[ep]AW[eo]AW[dq]AW[cp]AW[bo]AW[br]AW[gs]C[Black to kill]AB[fn]AP[goproblems]
+(;B[ar]
+(;W[cq]C[]
+(;B[bs]
+(;W[ap]C[];B[cr]
+(;W[aq]C[]
+(;B[es]
+(;W[ds]C[]
+(;B[fs];W[er]
+(;B[fs]C[CHOICERIGHT]TR[br];W[bp];B[br]C[black 4 stones is a 'dead shape'. If white kills it, - he still can't build two eyes.
+RIGHT])
+(;B[br];W[bp];B[fs]C[RIGHT])
+(;B[dr];W[es]C[White kills black group and gets two eyes.]))
+(;B[dr];W[er])
+(;B[br]))
+(;W[fs];B[dr]C[RIGHT])
+(;W[dr]
+(;B[ds];W[fs]C[This leads to a ko fight.])
+(;B[fs]C[RIGHT])))
+(;B[br];W[bp]C[]
+(;B[es]
+(;W[ds]
+(;B[fs];W[er]C[];B[fs]C[RIGHT])
+(;B[dr];W[er]C[the best b can get here is a hopeless ko fight]))
+(;W[dr]
+(;B[ds];W[fs]C[ko])
+(;B[fs]C[RIGHT])))
+(;B[ds];W[dr];B[es];W[fs]C[this leads to a ko fight.])
+(;B[dr];W[ds]
+(;B[es];W[er]C[White has enough outside liberties to kill black.])
+(;B[er];W[es]C[White has enough outside liberties to kill black.])))
+(;B[dr];W[ds];B[es];W[er];B[cs];W[bp]
+(;B[br];W[fs]C[ko])
+(;B[hs];W[fs]C[this multiple ko looks very gloom for black.]LB[br:ko]LB[ds:ko]))
+(;B[ds];W[dr];B[es];W[fs]C[ko, at most])
+(;B[fs];W[es]
+(;B[dr];W[ds])
+(;B[hs];W[dr])))
+(;W[ds];B[aq]
+(;W[cs];B[bp]C[RIGHT])
+(;W[bp];B[cs]C[RIGHT])))
+(;W[cr];B[bp]C[RIGHT]))
+(;B[bp];W[cs]
+(;B[dr];W[as]C[ko])
+(;B[fs];W[dr];B[es];W[as]C[ko])
+(;B[as];W[dr])
+(;B[es];W[fs];B[dr];W[as]C[ko]))
+(;B[cr];W[bs]
+(;B[bp];W[dr])
+(;B[cs];W[bp])))
+(;W[cr];B[bp]
+(;W[ds];B[bs]C[RIGHT])
+(;W[bs];B[ds]C[RIGHT]))
+(;W[bp];B[cr];W[bs];B[cq]C[RIGHT])
+(;W[bs];B[bp];W[cq];B[fs]
+(;W[es];B[dr]C[RIGHT])
+(;W[ds];B[cr];W[es];B[dr]C[RIGHT])))
+(;B[cr];W[cq]
+(;B[ar];W[bs]
+(;B[bp];W[dr])
+(;B[cs];W[bp];B[as];W[dr]))
+(;B[bs];W[ar]
+(;B[aq];W[bp];B[as];W[dr])
+(;B[bp];W[dr]))
+(;B[bp];W[ar]))
+(;B[cq];W[cr]
+(;B[ar];W[bp];B[aq];W[bs]
+(;B[dr];W[ds])
+(;B[ds];W[as]))
+(;B[bp];W[ar])
+(;B[aq];W[ar]))
+(;B[bp];W[ar];B[cr];W[cq];B[dr];W[bs]
+(;B[ao];W[ds])
+(;B[cs];W[er]))
+(;B[dr];W[cq]))

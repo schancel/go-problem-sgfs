@@ -1,0 +1,37 @@
+(;GE[life and death]DI[8k]DP[45]SO[whendrik]CO[0]AB[ba]AB[bc]AB[cb]AB[db]AW[eb]AW[fc]AW[gb]AW[fd]AW[hc]AW[ic]AW[kc]AW[jd]AW[je]AW[if]AW[hf]AW[hh]AW[gi]AW[ei]AW[dh]AW[cg]AW[df]AW[ce]AW[cd]AW[cc]AW[dc]AB[ec]AB[ed]AB[ee]AB[ef]AB[eg]AB[fe]AB[fg]AB[gf]AB[gd]AB[hd]AB[id]AB[hb]AP[goproblems]
+(;B[gc]
+(;W[fb]C[CHOICE]
+(;B[ib];W[jc]
+(;B[ea];W[jb]
+(;B[fa];W[ia];B[ga]C[RIGHT])
+(;B[ga];W[ia];B[fa]C[RIGHT])
+(;B[ha]C[RIGHT]))
+(;B[ga];W[jb]
+(;B[ea];W[ia];B[fa]C[RIGHT])
+(;B[fa];W[ia];B[ea]C[RIGHT])
+(;B[ha]C[RIGHT]))
+(;B[fa];W[jb]
+(;B[ea];W[ia];B[ga]C[RIGHT])
+(;B[ga];W[ia];B[ea]C[RIGHT]))
+(;B[jb]C[NOTTHIS])
+(;B[ha]C[RIGHT]))
+(;B[ea];W[ib])
+(;B[ga];W[ib]))
+(;W[fa]
+(;B[fb];W[fc];B[he]C[Black can at least live. Better is to play at the marked point first.RIGHT]MA[ib])))
+(;B[fb];W[fa]
+(;B[gc];W[he]
+(;B[fb];W[fc]
+(;B[ib];W[jc];B[da];W[ea]
+(;B[fd];W[jb]C[Ko. Indeed, this ko is not flavorable for white, but the solution does not contain any ko.])
+(;B[jb];W[kb];B[fd];W[ja]C[Ko. Indeed, this ko is not flavorable for white, but the solution does not contain any ko.]))
+(;B[da];W[ib]))
+(;B[ib];W[jc];B[fb];W[fc]))
+(;B[da];W[gc]C[Black dies.]))
+(;B[ib];W[gc])
+(;B[ea];W[fb]
+(;B[ib];W[gc])
+(;B[gc];W[ib]))
+(;B[da];W[gc])
+(;B[fa];W[fb])
+(;B[ga];W[gc]))

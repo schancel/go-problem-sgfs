@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[6k]DP[38]SO[sabetts]CO[0]SZ[19]AW[qm]AW[rn]AW[ro]AW[mp]AW[np]AW[rp]AW[lq]AW[oq]AW[pq]AW[rq]AW[or]AW[qr]AB[ln]AB[on]AB[qn]AB[no]AB[op]AB[pp]AB[qp]AB[jq]AB[nq]AB[qq]AB[nr]C[Save black's two stones]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[rr];W[rs]
+(;B[os];W[pr];B[sr];W[sq];B[ps];W[ss])
+(;B[sr];W[sq];B[os];W[pr];B[ps];W[ss]))
+(;B[ns]
+(;W[pr]C[CHOICE]
+(;B[kr];W[lr];B[ls]C[RIGHT])
+(;B[lr];W[kr]
+(;B[mq];W[lp];B[kq];W[ls];B[mr];W[os])
+(;B[mr];W[kq])))
+(;W[mr]C[CHOICE];B[pr];W[ps];B[os];W[pr];B[rr]C[RIGHT]))
+(;B[lr];W[kr]))

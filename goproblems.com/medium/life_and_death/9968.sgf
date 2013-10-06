@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1k]DP[18]SO[trucid]CO[9]AB[sp]AB[rp]AB[sq]AB[rr]AB[qr]AB[qq]AB[pr]AB[oq]AB[nr]AB[os]AW[pq]AW[pp]AW[qp]AW[qo]AW[ro]AW[so]AB[op]AB[oo]AB[po]AW[pn]AW[pm]AW[om]AW[ol]AW[nl]AW[nk]AW[nj]AB[ni]AB[mi]AB[mj]AB[mk]AB[ml]AB[nm]AB[mm]AB[on]AB[pk]AB[qk]AB[qj]AB[pi]AB[pg]AW[ri]AW[qh]AW[rg]AB[qf]AB[rf]AB[sh]AW[sj]AW[sk]AW[rk]AW[rl]AB[rj]AB[oi]AP[goproblems]
+(;B[sm]
+(;W[rn]
+(;B[qm];W[ql];B[rm]C[miai for killRIGHT]TR[qn]TR[pl])
+(;B[rm];W[qm];B[ql])
+(;B[ql];W[qm];B[rm]))
+(;W[rm];B[ql]
+(;W[qm];B[rn]C[RIGHT])
+(;W[sn];B[qn]C[RIGHT]))
+(;W[ql]
+(;B[rm]
+(;W[qm];B[rn]C[RIGHT])
+(;W[rn];B[qm]C[RIGHT]))
+(;B[rn];W[qn];B[rm]C[RIGHT]))
+(;W[qm];B[rn]C[RIGHT]))
+(;B[rm];W[sm]
+(;B[qn];W[qm])
+(;B[rn];W[qm])
+(;B[ql];W[qm])
+(;B[qm];W[ql]))
+(;B[qm];W[ql]
+(;B[sm];W[rm])
+(;B[rm];W[sm])
+(;B[rn];W[rm]))
+(;B[rn];W[qn]
+(;B[rm];W[sm])
+(;B[sm];W[rm];B[ql];W[sn]))
+(;B[sn];W[rn])
+(;B[ql];W[qm]
+(;B[rm];W[sm])
+(;B[sm];W[rn];B[rm];W[si]TR[rm]TR[sm]C[white lives by capturing the marked stones])
+(;B[rn];W[sm]))
+(;B[si];W[ql])
+(;B[qn]
+(;W[rn])))

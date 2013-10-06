@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1k]DP[19]SO[alpha]CO[0]AB[rq]AB[qp]AB[pq]AB[pr]AB[or]AW[pp]AW[po]AW[rp]AW[ro]AW[oq]AW[nq]AW[nr]AW[lq]AW[qn]LB[mn:T]C[Can b survive? If not, please play at T.]AP[goproblems]
+(;B[os]
+(;W[sq];B[sr];W[rr];B[sp];W[qs];B[rs];W[ss]C[RIGHT])
+(;W[qs];B[rs];W[rr];B[sr];W[ss]C[RIGHT])
+(;W[rr];B[sr]
+(;W[rs];B[qs];W[qr];B[qq];W[ps]C[RIGHT])
+(;W[qs];B[rs];W[ss]C[RIGHT])))
+(;B[sq];W[os]
+(;B[rs];W[sr];B[ps];W[qr])
+(;B[ps];W[qq];B[qr];W[rs])
+(;B[rr];W[qq]))
+(;B[rs];W[sr];B[sq];W[os]
+(;B[ps];W[qr])
+(;B[rr];W[qq]))
+(;B[qs];W[os]
+(;B[rr];W[qq])
+(;B[sr];W[rs]))
+(;B[rr];W[os]
+(;B[rs];W[ps];B[qs];W[qq];B[ns];W[os])
+(;B[sq];W[ss];B[ps];W[qq])))

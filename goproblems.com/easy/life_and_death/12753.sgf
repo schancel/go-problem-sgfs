@@ -1,0 +1,41 @@
+(;GE[life and death]DI[8k]DP[48]SO[Fokatukc]CO[0]AB[sq]AB[rp]AB[qp]AB[qq]AB[pq]AB[pr]AB[or]AB[nr]AB[ns]AW[ms]AW[mr]AW[mq]AW[nq]AW[oq]AW[op]AW[pp]AW[po]AW[qo]AW[ro]AW[so]AW[sp]LB[mo:T]C[Can white get anything here? if not, tenuki at T]AP[goproblems]
+(;W[rr];B[rq]
+(;W[qs]
+(;B[ps]
+(;W[sr];B[rs]
+(;W[qr];B[ss])
+(;W[ss]C[RIGHT]))
+(;W[qr];B[sr];W[ss];B[rs])
+(;W[ss];B[qr]))
+(;B[qr]C[CHOICE]
+(;W[ps];B[sr];W[rs]C[RIGHT])
+(;W[rs];B[ps])
+(;W[sr];B[rs])))
+(;W[rs];B[qs]
+(;W[ps];B[qr];W[sr];B[ss])
+(;W[qr];B[ps];W[sr];B[ss])
+(;W[sr];B[qr]))
+(;W[ps];B[qr]
+(;W[qs];B[sr];W[rs]C[SekiRIGHT])
+(;W[rs];B[qs];W[sr];B[ss])
+(;W[sr];B[rs])))
+(;W[sr];B[rq]
+(;W[qs];B[rs]
+(;W[rr];B[qr])
+(;W[qr];B[rr])
+(;W[ss];B[rr])
+(;W[ps];B[rr]))
+(;W[rs]
+(;B[rr]
+(;W[qs];B[ps])
+(;W[ps];B[qs];W[qr];B[ss]C[Double Ko]))
+(;B[qs]
+(;W[rr];B[qr])
+(;W[ps];B[rr];W[qr];B[ss]C[Double ko])))
+(;W[rr];B[qr]
+(;W[qs];B[rs])
+(;W[rs];B[qs]))
+(;W[ps];B[rs]
+(;W[rr];B[qr])
+(;W[qs];B[rr])))
+(;W[mo]C[Wrong, white can can get something here]))

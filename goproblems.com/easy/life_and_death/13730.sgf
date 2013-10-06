@@ -1,0 +1,18 @@
+(;GE[life and death]DI[7k]DP[40]SO[DarkSycthe]CO[0]AB[qp]AW[op]AW[pm]AW[no]AW[pp]AW[qq]AB[oo]AB[on]AB[rp]AB[qn]AB[lp]AW[pr]AW[rq]AB[om]AW[nn]AB[nm]AW[ln]C[If white A then black B kills. Instead, white played 2 in response to black 1 in an attempt to stop black from getting the central group. How can black still kill the center group?]LB[mp:A]LB[mn:B]AB[qo]AW[sp]AB[so]AW[sq]AB[ip]AW[cp]AW[eq]AB[pd]AB[pj]AW[dd]AB[jd]AW[dj]AW[fc]AB[jj]AB[fp]AW[fq]AW[dm]AW[ce]AW[dg]AW[qc]AW[pc]AW[ob]AW[nb]AW[rd]AW[rc]AB[qd]AB[re]AB[oc]AB[nc]AB[mc]AB[qf]AB[hc]AB[gp]AW[hr]LB[nm:1]LB[ln:2]AB[gm]AW[gj]AB[hk]AW[gg]AB[jg]AB[mb]AB[ir]AW[hq]AB[iq]AW[ep]AB[na]AW[pa]AB[fb]AW[eb]AB[gb]AW[ec]AW[km]AW[kk]AW[jk]AB[ij]AB[mj]AB[kj]AW[lk]AB[ni]AW[lj]AW[li]AB[mg]AB[ih]AB[nk]AW[kh]AB[kg]AW[lg]AB[lf]AW[lh]AB[im]AW[jm]AB[hj]AW[gi]AB[jl]AW[kl]AB[il]AW[ik]AB[hf]AW[gf]AB[ml]AB[nh]AW[fl]AW[in]AB[hp]AB[gn]AB[gl]AP[goproblems]
+(;B[np];W[mp]
+(;B[mo];W[nq];B[mn]C[Good job!  If white A, then black B. If white C after that, black D kills the white stones.RIGHT]LB[lo:A]LB[np:B]LB[mq:C]LB[lq:D])
+(;B[nq];W[mq];B[mo];W[mn];B[mr];W[lq];B[lr];W[kq]
+(;B[kr];W[nr]C[This is too good for white])
+(;B[or];W[kr];B[po];W[pq]C[Black loses the semeai.])
+(;B[nr];W[kr]))
+(;B[mn];W[mo])
+(;B[mq];W[nq];B[mo];W[mn];B[np]C[Ko and black takes first, but why not go for the unconditional kill?]))
+(;B[mn];W[mo]
+(;B[mm];W[lo])
+(;B[np];W[mp]
+(;B[mq];W[nq])
+(;B[mm];W[lo]))
+(;B[lo];W[mm]))
+(;B[mp];W[np];B[mn];W[mo];B[mm];W[lo])
+(;B[mo];W[np];B[mn]C[nice!RIGHT])
+(;B[mq];W[np]))

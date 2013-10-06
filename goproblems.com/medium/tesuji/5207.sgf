@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[1d]DP[17]SO[nutcase]CO[9]C[Black to play.]AB[sd]AB[re]AB[qe]AB[pd]AB[pc]AB[nd]AW[ld]AW[lc]AW[mb]AW[qa]AW[qb]AW[qc]AW[rd]
+(;B[nb];W[na];B[oa];W[ob];B[ma];W[nc];B[pb];W[na];B[pa]C[RIGHT])
+(;B[na];W[nb]
+(;B[ob];W[oa];B[pa];W[pb]
+(;B[oa];W[oc])
+(;B[oc];W[oa]C[ko]))
+(;B[oa];W[ob])
+(;B[pb];W[pa])
+(;B[pa];W[pb]))
+(;B[ob];W[oa]
+(;B[na];W[nb];B[pa];W[pb]
+(;B[oa];W[oc])
+(;B[oc];W[oa]C[ko])
+(;B[nc];W[ma]))
+(;B[nb];W[na]))
+(;B[oa];W[ob];B[pb];W[pa])
+(;B[pb];W[pa]
+(;B[nb];W[na])
+(;B[ob];W[oa])
+(;B[oa];W[ob])
+(;B[na];W[nb]))
+(;B[sc];W[ob])
+(;B[rc];W[ob])
+(;B[qd];W[ob])
+(;B[rb];W[ob]))

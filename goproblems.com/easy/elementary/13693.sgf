@@ -1,0 +1,42 @@
+(;GE[elementary]DI[10k]DP[54]SO[Cyphase]CO[0]AB[is]AB[ir]AB[iq]AW[hr]AW[gr]AW[fr]AB[fq]AB[gq]AB[hq]AW[eq]AW[dq]AW[cq]AW[bq]AW[cr]AW[cs]AB[gs]AW[hs]AW[aq]C[White foolishly answered A with B, trying to prevent a connection. Black to kill unconditionally.]AB[ap]AB[bp]AB[cp]AB[dp]AB[ep]AB[fp]LB[gs:A]LB[hs:B]AP[goproblems]
+(;B[er];W[br]
+(;B[as]
+(;W[es]
+(;B[fs];W[dr]
+(;B[fr]C[You killed White without leaving any ko threats :).RIGHT])
+(;B[ds]C[White is almost dead, but this leaves two ko threats for White, first at F2 and then at E1 or G2, depending on Blacks response. Can you find a better solution?RIGHT])
+(;B[gr];W[fr]C[A ko isn't an unconditional kill.CHOICE])
+(;B[hr];W[fr]C[CHOICE])
+(;B[hs];W[fr]C[CHOICE]))
+(;B[bs];W[dr]C[CHOICE])
+(;B[ar];W[dr]C[CHOICE])
+(;B[ds];W[dr]C[CHOICE])
+(;B[dr];W[ds]C[CHOICE]))
+(;W[fs]
+(;B[es]
+(;W[dr]
+(;B[gs]C[RIGHT])
+(;B[bs];W[ds]C[])
+(;B[ar];W[ds]C[]))
+(;W[ds]
+(;B[gs]C[RIGHT])
+(;B[bs];W[dr]C[])
+(;B[ar];W[dr]C[])))
+(;B[ds];W[dr]
+(;B[bs];W[es]C[])
+(;B[ar];W[es]C[FORCE]))
+(;B[dr];W[es]
+(;B[bs];W[ds]C[])
+(;B[ar];W[ds]C[]))))
+(;B[fs];W[as]C[You captured 4 stones and got some territory, but White lived.CHOICE])
+(;B[dr];W[as]C[CHOICE])
+(;B[es];W[as]C[CHOICE])
+(;B[ds];W[as]C[CHOICE]))
+(;B[fs];W[er]C[])
+(;B[es];W[er]C[])
+(;B[ds];W[er]C[])
+(;B[dr];W[er]C[])
+(;B[br];W[er]C[])
+(;B[bs];W[er]C[])
+(;B[as];W[er]C[])
+(;B[ar];W[er]C[]))

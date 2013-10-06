@@ -1,0 +1,21 @@
+(;GE[life and death]DI[6k]DP[37]SO[cusp]CO[7]AB[js]AB[jr]AB[jq]AB[kq]AB[ls]AB[ms]AB[mr]AB[iq]AW[kr]AW[mq]AW[nr]AW[ns]AW[kp]AW[np]AW[jp]AW[ip]AW[hq]AW[gq]AW[gr]C[How many ko threats does Black have here (play A if Black can save this group with his next move)?]LB[gn:A]LB[hn:0]LB[in:1]LB[jn:2]LB[kn:3]AB[hs]AW[lq]AW[fr]AW[fs]AP[goproblems]
+(;B[gn]C[Sorry, black stones can't live unconditionally.])
+(;B[hn]C[There is something. Please look carefully...])
+(;B[in];W[io]C[Please play the Ko threat.]
+(;B[hr];W[jo]C[White chooses to win the Ko.]
+(;B[ir]C[Come on, this is serious. The lives of 10 stones are at stake!])
+(;B[is]C[Yes, very funny.])
+(;B[ks];W[lr]C[White says: 'Thank you'.])
+(;B[lr];W[ks];B[lr];W[ls];B[ms];W[ls];B[ks]C[Nice work.RIGHT]))
+(;B[ir]C[So, how long have you been playing Go?]TR[lr]TR[hr])
+(;B[is]TR[hr]TR[lr]C[Triangles are miai for white to kill.])
+(;B[ks]C[This move is gote and does not do black group any good.]TR[hr]TR[lr])
+(;B[lr]
+(;W[jo]C[White chooses to win the Ko.CHOICE]
+(;B[hr];W[ks];B[lr];W[ls];B[ms];W[ls];B[ks]C[You did it, great!RIGHT])
+(;B[ir];W[hr]C[...and black group gets squashed.])
+(;B[is];W[hr]C[Please tell me this was a missclick.])
+(;B[ks];W[hr]C[White both won the Ko and kept the black group dead.]))
+(;W[hr]C[If White decides to respond to M2 he should play here. It kills the black group and leaves no more ko threats.])))
+(;B[jn]C[Not really.])
+(;B[kn]C[Not that many, sorry.]))

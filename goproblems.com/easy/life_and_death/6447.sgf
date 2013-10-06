@@ -1,0 +1,107 @@
+(;GE[life and death]DI[5k]DP[32]SO[Max007]CO[8]GM[1]FF[1]SZ[19]NE[B]SS[@0]
+AB[pc][pb][kb][lb][mc][md][me][mf][nf][of][pf][qf][re][rd][rc][rb][ra][qa]
+AW[pa][oa][na][mb][nc][nd][ne][oe][pe][qe][qd][qc][qb]
+(
+;B[oc]ID[1]
+;W[ob]ID[2]
+   (
+   ;B[la]ID[3]
+   ;W[od]ID[4]
+   ;B[ma]ID[5]
+   ;W[pd]ID[6]
+   ;B[pc]ID[7]C[RIGHT Nice Nakade.]
+   )
+   (
+   ;B[ma]ID[33]
+   ;W[la]ID[34]
+   ;B[ka]ID[35]
+   ;W[od]ID[36]
+   ;B[ma]ID[37]
+   ;W[pd]ID[38]
+   ;B[pc]ID[39]
+   ;W[la]ID[40]C[Ko.]
+   )
+)
+(
+;B[nb]ID[8]
+;W[ob]ID[9]
+   (
+   ;B[oc]ID[10]
+   ;W[od]ID[11]
+      (
+      ;B[la]ID[71]
+      ;W[pd]ID[72]
+      ;B[ma]ID[73]
+      ;W[pc]ID[74]
+      )
+      (
+      ;B[ma]ID[51]
+      ;W[la]ID[52]
+      ;B[ka]ID[53]
+      ;W[pd]ID[54]
+         (
+         ;B[pc]ID[55]
+         ;W[ma]ID[56]
+         )
+         (
+         ;B[ma]ID[57]
+         ;W[pc]ID[58]
+         )
+      )
+   )
+   (
+   ;B[la]ID[29]
+   ;W[oc]ID[30]
+   ;B[pd]ID[31]
+   ;W[ma]ID[32]
+   )
+)
+(
+;B[ob]ID[16]
+;W[oc]ID[17]
+)
+(
+;B[la]ID[19]
+;W[oc]ID[22]
+;B[pd]ID[23]
+;W[nb]ID[24]C[Seki.]
+)
+(
+;B[pd]ID[25]
+;W[oc]ID[26]
+)
+(
+;B[od]ID[27]
+;W[oc]ID[28]
+)
+(
+;B[ma]ID[41]
+;W[la]ID[42]
+   (
+   ;B[oc]ID[43]
+   ;W[ob]ID[44]
+   ;B[ka]ID[45]
+   ;W[od]ID[46]
+   ;B[ma]ID[47]
+   ;W[pd]ID[48]
+   ;B[pc]ID[49]
+   ;W[la]ID[50]C[Ko]
+   )
+   (
+   ;B[nb]ID[59]
+   ;W[ob]ID[60]
+   ;B[oc]ID[61]
+   ;W[od]ID[62]
+   ;B[ka]ID[63]
+   ;W[pd]ID[64]
+      (
+      ;B[pc]ID[65]
+      ;W[ma]ID[66]
+      )
+      (
+      ;B[ma]ID[67]
+      ;W[pc]ID[68]
+      )
+   )
+)
+)

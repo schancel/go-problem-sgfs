@@ -1,0 +1,49 @@
+(;GE[endgame]DI[7k]DP[40]SO[Piccolo]CO[0]AW[cc]AW[cd]AW[dc]AW[ec]AW[fc]AW[fb]AW[ea]AB[fa]AB[ga]AB[gb]AB[gc]AB[hc]AB[ha]AB[hb]AB[dd]AB[ed]AB[fd]AB[ce]AB[bf]AW[be]AW[af]AW[bg]AB[cf]AB[de]AB[ef]AW[dg]AW[cg]AW[df]AW[ch]AW[ci]AW[bi]AW[ai]AW[eg]AW[dh]AW[ff]AW[gf]AW[hf]AB[fe]AB[ee]AB[ge]AB[he]AB[hd]C[*Late endgame, each point counts.* White to play. Will you add a move in the corner ?FORCE]LB[hi:No]LB[fi:Yes]AP[goproblems]
+(;W[hi];B[da]C[How to defend then ?]
+(;W[eb];B[bd]
+(;W[ae];B[bc]
+(;W[bb];B[cb])
+(;W[cb];B[bb]
+(;W[ba];B[ca];W[db];B[ca])
+(;W[ca];B[ba]))
+(;W[ca];B[cb];W[db];B[da]))
+(;W[ad];B[ae]))
+(;W[db];B[eb]))
+(;W[fi];B[hi]C[Black tenuki. How to get some points now ?]AB[af]AB[be]AB[cd]AB[cc]AB[dc]AB[ec]AB[fc]AB[fb]AB[ea]AW[fa]AW[ga]AW[gb]AW[hb]AW[ha]AW[gc]AW[hc]AW[hd]AW[he]AW[ge]AW[fe]AW[fd]AW[ed]AW[dd]AW[ce]AW[bf]AW[cf]AW[de]AW[ee]AB[df]AW[ef]AB[ff]AB[gf]AB[hf]AB[bg]AB[cg]AB[dg]AB[eg]AB[ch]AB[dh]AB[ai]AB[bi]AB[ci]
+(;W[da];B[eb]C[(or ko)];W[bd];B[ae]C[(or ko)]
+(;W[bc];B[cb]
+(;W[bb];B[ba]C['T' for tenuki.]LB[gh:T]
+(;W[ca];B[db]C[]
+(;W[ca]C[RIGHT])
+(;W[ab];B[ca];W[aa]C[RIGHT])
+(;W[ad];B[ag]
+(;W[ca]C[RIGHT])
+(;W[ab];B[ca])))
+(;W[gh];B[ca]
+(;W[ad];B[ag];W[ab]C[Yes, tenuki still allows a seki.RIGHT])
+(;W[ab];B[ad])))
+(;W[ca];B[bb]))
+(;W[cb];B[bc]))
+(;W[bd];B[ae]C[(or ko)]
+(;W[da];B[eb]C[(or ko)])
+(;W[bc];B[db]
+(;W[bb]
+(;B[ca]C[CHOICE]
+(;W[cb];B[ba]
+(;W[ad];B[ag];W[ab]C[RIGHT])
+(;W[ab];B[ad]))
+(;W[ba];B[cb];W[ad];B[ag];W[ab]C[RIGHT])
+(;W[ad];B[ag]
+(;W[cb];B[ba])
+(;W[ba];B[ab];W[cb];B[aa]
+(;W[da]C[A good ko for white.RIGHT])
+(;W[ac]C[NOTTHIS]))
+(;W[ab];B[ba];W[cb]C[RIGHT]))
+(;W[ab];B[ad]
+(;W[cb];B[ba])
+(;W[ba];B[cb])))
+(;B[cb];W[ca];B[ad];W[ba];B[ac];W[da]C[RIGHT]))
+(;W[ba];B[bb];W[ab];B[cb];W[ac];B[ag])
+(;W[ca];B[bb])
+(;W[ab];B[bb])
+(;W[cb];B[bb])))))

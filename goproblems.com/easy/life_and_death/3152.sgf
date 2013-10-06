@@ -1,0 +1,13 @@
+(;GE[life and death]DI[8k]DP[45]SO[polo]CO[7]AB[rr][qr][qq][oq][op][oo][pn][qn][pm][pl][qk][rk][sk][rm]AW[rl][qm][rn][qo][qp][rp][rq][pp]C[White to live]SZ[19]
+
+(;W[so]
+(;B[sq]C[CHOICE];W[sm]C[RIGHT])
+(;B[sm]C[CHOICE]
+(;W[sn];B[sq];W[sl];B[rm]C[d'oh])
+(;W[sq];B[sl];W[sn]C[RIGHT])))
+(;W[sm];B[so]
+(;W[ql]C[White is dead, black can tenuki now.])
+(;W[sl]C[White is dead, black can tenuki now])
+(;W[sn]C[White is dead, black can tenuki now.])
+(;W[ro]C[White is dead, black can tenuki now.])
+(;W[sq]C[White is dead, black can tenuki now.])))

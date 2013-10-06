@@ -1,0 +1,27 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[0]AW[cq]AW[cr]AW[dq]AW[er]AW[ds]AB[eq]AB[ep]AB[eo]AB[do]AB[dp]AB[cp]AB[cn]AW[bm]AW[cm]AW[dn]AW[en]AW[fn]AW[fo]AW[fq]AW[gq]AB[dm]AB[em]AB[bl]AB[cl]AW[bo]TR[cp]TR[dp]TR[do]TR[eo]TR[ep]TR[eq]LB[bo:1]C[save the triangled stones]AP[goproblems]
+(;B[bp]
+(;W[bn]
+(;B[ao]
+(;W[an]
+(;B[co];W[ap]
+(;B[aq]C[koRIGHT])
+(;B[bq]C[RIGHT])
+(;B[al];W[bq]))
+(;B[ap];W[co])
+(;B[aq];W[co])
+(;B[al];W[co]))
+(;W[co];B[am]C[RIGHT]))
+(;B[am];W[co];B[ao];W[cn];B[an]C[RIGHT])
+(;B[an];W[co])
+(;B[ap];W[co])
+(;B[co];W[bq]))
+(;W[co];B[ao];W[bn];B[am]C[RIGHT]))
+(;B[bn];W[co]
+(;B[am];W[bp])
+(;B[an];W[bp]))
+(;B[co];W[bn];B[bp];W[bq])
+(;B[am];W[bp]
+(;B[bn];W[co])
+(;B[co];W[bn]))
+(;B[an];W[bp])
+(;B[ao];W[bp]))

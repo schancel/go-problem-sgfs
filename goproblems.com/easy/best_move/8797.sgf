@@ -1,0 +1,50 @@
+(;GE[best move]DI[4k]DP[30]SO[tjl]CO[8]AW[qq]AW[qp]AW[qn]AB[pq]AB[pp]AB[oo]AW[nq]AB[nr]AB[lq]AB[lp]AB[kq]AW[lo]AW[mo]AW[kp]AW[jp]AW[jq]AW[gq]AB[on]AB[ol]AB[nj]MA[nr]C[B tries to connect using the marked stone. How does white cut?]AP[goproblems]
+(;W[or]
+(;B[mr]
+(;W[pr];B[np];W[mp];B[jr];W[ir]C[CHOICERIGHT])
+(;W[oq];B[pr]
+(;W[ps];B[ns]C[B cuts or gets life])
+(;W[os];B[mp]MA[nq]MA[oq]MA[or]MA[os]C[W gets captured])
+(;W[ns];B[ps];W[os];B[mp];W[np];B[no]MA[np]MA[nq]MA[oq]MA[or]MA[os]MA[ns]C[W gets captured]))
+(;W[np];B[pr]MA[oq]MA[os]C[Miai]))
+(;B[np]
+(;W[mp];B[mq];W[oq];B[pr];W[mr];B[lr]
+(;W[ns]
+(;B[ps]
+(;W[os];B[ls];W[ks]C[CHOICERIGHT])
+(;W[ls]C[CHOICERIGHT])
+(;W[kr]C[RIGHT]))
+(;B[ls]
+(;W[ms];B[ps]
+(;W[os];B[op])
+(;W[ks]C[CHOICERIGHT])
+(;W[kr]C[RIGHT]))
+(;W[ks]C[CHOICERIGHT])))
+(;W[ls];B[ms])
+(;W[ms];B[ls];W[ns];B[ps]
+(;W[ks]C[RIGHT])
+(;W[kr]C[RIGHT])))
+(;W[oq];B[mp])
+(;W[mr];B[mp]))
+(;B[oq];W[np]
+(;B[pr];W[mr]C[RIGHT])
+(;B[mr];W[pr];B[jr];W[ir]C[RIGHT]))
+(;B[mq]
+(;W[np]C[CHOICERIGHT])
+(;W[mr];B[np]
+(;W[ns];B[mp])
+(;W[oq];B[mp]))
+(;W[oq];B[np];W[mp]C[RIGHT])
+(;W[pr];B[np]
+(;W[oq];B[mp])
+(;W[mp];B[oq]))))
+(;W[np];B[or];W[mr];B[mq];W[lr];B[kr])
+(;W[mr];B[mq]
+(;W[np];B[or])
+(;W[or];B[np];W[oq];B[mp])
+(;W[mp];B[np]))
+(;W[mq];B[mr])
+(;W[op];B[or])
+(;W[mp];B[oq]C[]
+(;W[mr];B[mq];W[np];B[lr]C[B either lives or connects.])
+(;W[or];B[pr];W[mr];B[os]C[RIGHT])))

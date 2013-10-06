@@ -1,0 +1,37 @@
+(;GE[life and death]DI[4k]DP[30]SO[munisai79]CO[7]AW[ob]AW[nb]AW[nc]AW[nd]AW[md]AB[ld]AB[lc]AB[mc]AB[mb]AB[ma]AB[oc]AB[pb]AB[od]AB[pc]AW[le]AW[lf]AW[mf]AW[nf]AW[oe]AB[ke]AB[kf]AB[lg]AB[kh]AB[mg]AB[ng]AB[og]AB[of]AW[pe]AW[pf]AW[pg]AW[pd]AB[qb]AW[qa]AW[ra]AB[rb]AW[qc]AW[qd]AB[rc]AB[sc]AW[rd]AW[sd]LB[mi:A]LB[oi:D]LB[qi:K]C[Assuming black has the next move locally, is black (A)live, (D)ead, or (K)o for life?]AP[goproblems]
+(;B[mi];W[mj]C[Prove it.]
+(;B[pa];W[sa]
+(;B[oa];W[na];B[sb]
+(;W[ra];B[ne]C[Excellent job!RIGHT])
+(;W[ne];B[ra]C[Great work!RIGHT]))
+(;B[na];W[oa];B[sb]
+(;W[ra];B[ne]C[Excellent job!RIGHT])
+(;W[ne];B[ra]C[Great work!RIGHT]))
+(;B[sb]
+(;W[ra]
+(;B[oa];W[na];B[ne]C[Excellent job!RIGHT])
+(;B[na];W[oa];B[ne]C[Excellent work!RIGHT])
+(;B[ne];W[me]
+(;B[na]C[Good job!RIGHT])
+(;B[oa]C[Good job!RIGHT])))
+(;W[ne];B[ra]C[Great job!RIGHT]))
+(;B[ne];W[me]
+(;B[oa]C[Very nice.RIGHT])
+(;B[na]C[Very nice.RIGHT])))
+(;B[ne];W[pa])
+(;B[oa];W[na]
+(;B[ne];W[pa]
+(;B[me];W[sb])
+(;B[sa];W[sb]))
+(;B[sa];W[sb]C[This is only ko.]))
+(;B[na];W[pa];B[ne];W[sb])
+(;B[sa];W[sb]C[This is only ko.]))
+(;B[oi];W[oj]C[Sorry, black is alive.])
+(;B[qi];W[qj]C[Sorry.  Black is alive.])
+(;B[pa]C[NOTTHIS])
+(;B[sa]C[NOTTHIS])
+(;B[oa]C[NOTTHIS])
+(;B[ne]C[NOTTHIS])
+(;B[me]C[NOTTHIS])
+(;B[na]C[NOTTHIS])
+(;B[sb]C[NOTTHIS]))

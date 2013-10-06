@@ -1,0 +1,22 @@
+(;GE[life and death]DI[3d]DP[9]SO[Dudzik]CO[9]AB[cr]AB[cq]AB[cp]AB[co]AB[dn]AB[fn]AB[ep]AB[dp]AB[fp]AB[gp]AB[gq]AB[es]AW[dr]AW[dq]AW[eq]AW[cs]AW[br]AW[bq]AW[bp]AW[bo]AW[cm]AW[dm]AW[fm]AW[gm]AW[ho]AW[hp]AW[hq]AW[hr]C[Black to live.]AP[goproblems]
+(;B[ds]
+(;W[fs]C[CHOICE]
+(;B[bs];W[er]
+(;B[fr];W[cs]
+(;B[fq];W[gs];B[es]C[RIGHT])
+(;B[ds];W[gs])
+(;B[gs];W[ds]))
+(;B[cs];W[fr])
+(;B[gs];W[cs]
+(;B[ds];W[gr])
+(;B[fr];W[ds]))
+(;B[fq];W[cs]
+(;B[ds];W[fr])
+(;B[fr];W[as];B[ds];W[es];B[gs]C[RIGHT])
+(;B[gs];W[ds])))
+(;B[fr];W[er];B[gs];W[ds]))
+(;W[er];B[bs]
+(;W[fs]C[This line transposes to the solution path.])
+(;W[fr];B[gr];W[fs];B[gs];W[cs];B[fq];W[as];B[ds])))
+(;B[eo]C[NOTTHIS])
+(;B[er];W[ds];B[fq];W[bs];B[gr];W[gs]))

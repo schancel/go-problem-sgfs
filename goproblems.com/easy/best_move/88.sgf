@@ -1,0 +1,35 @@
+(;GE[best move]DI[4k]DP[29]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+SZ[19]RU[Japanese]KM[5.50]TM[1800]
+GN[White (W) vs. Black (B)]PB[Black]PW[White]DT[1999-07-28]SY[Cgoban 1.9.2]
+;AW[mb][ob][kc][mc][qc][kd][qd][ke][pe][kf][of][pf][kg][lg][mh][nh][oh][ph]AB[qb][rb][pc][md][nd][pd][le][oe][lf][nf][mg]LB[ob:A]C[white just played A. black's best move?
+]
+(;B[pb]
+;W[rc]C[black still needs one more move: not optimal
+])
+(;B[nb]
+;W[pb]
+(;B[nc]
+;W[na])
+(;B[oc]
+;W[nc]))
+(;B[qe]
+;W[re]
+;B[rd]
+;W[qf]
+;B[rc]C[RIGHT
+black gets a few in the corner and reduces white
+])
+(;B[rd]
+;W[qe]
+;B[pb]C[RIGHT
+can be best choice depending on rest of board])
+(;B[oc]
+;W[pb]
+(;B[nb]
+;W[nc])
+(;B[nc]
+;W[nb]))
+(;B[rc]CR[rc]
+;W[rd]CR[rd]
+;B[pb]CR[pb]C[RIGHT
+this can be correct depending upon rest of board, yose situation]))

@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[36]SO[assacra]CO[8]AB[cb]AB[db]AB[dc]AB[dd]AB[bc]AB[bd]AW[ab]AW[bb]AW[ca]AW[da]AW[ea]AW[eb]AW[ec]AW[ed]AW[de]AW[ce]AW[be]AW[ae]AB[ee]AB[ef]AB[df]AB[cf]AB[bf]TR[bd]TR[bc]TR[cb]TR[db]TR[dc]TR[dd]C[black to save his marked stones]AP[goproblems]
+(;B[cd];W[ad]
+(;B[af];W[ac];B[ba];W[cc])
+(;B[ac];W[cc])
+(;B[ba];W[ac]))
+(;B[ad];W[cd]
+(;B[cc];W[ac])
+(;B[af];W[cc]))
+(;B[af];W[ad]
+(;B[ac]C[RIGHT])
+(;B[cd];W[ac];B[ba];W[cc]))
+(;B[ba];W[cd]
+(;B[cc];W[ad])
+(;B[ac];W[cc])))

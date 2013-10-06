@@ -1,0 +1,7 @@
+(;GE[life and death]DI[25k]DP[75]SO[shay-li]CO[6]AB[cs]AB[bs]AB[br]AB[cq]AB[cp]AB[bp]AB[bo]AW[ds]AW[dr]AW[cr]AW[dq]AW[dp]AW[do]AW[co]AW[bn]AW[bq]AP[goproblems]
+(;W[aq]C[Black can't push from A or B.RIGHT]LB[ap:A]LB[ar:B])
+(;W[as];B[aq])
+(;W[ar];B[aq])
+(;W[ap];B[aq];W[ao];B[an];W[ao];B[ap])
+(;W[ao];B[aq];W[ap];B[an];W[ao];B[ap])
+(;W[an];B[aq]))

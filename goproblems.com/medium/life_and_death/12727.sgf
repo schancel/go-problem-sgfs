@@ -1,0 +1,62 @@
+(;GE[life and death]DI[3k]DP[27]SO[Tantris]CO[0]AB[ea]AB[eb]AB[ec]AB[gb]AB[hc]AB[jc]AB[ic]AB[jb]AW[da]AW[db]AW[dc]AW[ed]AW[fd]AW[gd]AW[hd]AW[id]AW[jd]AW[kc]AW[kb]AW[mb]C[White to kill.]AP[goproblems]
+(;W[gc]
+(;B[fb];W[ia]
+(;B[ha];W[ja]C[Black is dead.CHOICERIGHT])
+(;B[ja];W[hb]C[Black is dead.CHOICERIGHT]))
+(;B[fa]
+(;W[ja];B[ia];W[hb];B[ka]C[Black is dead. Good job to find this solution.RIGHT])
+(;W[fc]C[];B[ha]
+(;W[fb];B[ib]C[Be careful not to let Black live now. (I added this because many have stopped here)]
+(;W[ja]C[Black is dead.CHOICERIGHT])
+(;W[ga]C[RIGHT]))
+(;W[ja]
+(;B[fb];W[ia]C[RIGHT])
+(;B[ia];W[fb]C[RIGHT])))
+(;W[ha];B[ia]
+(;W[hb]C[RIGHT])
+(;W[fc];B[hb]))
+(;W[ia];B[ha];W[ja];B[fc];W[hb]C[RIGHT])))
+(;W[fb];B[fc];W[gc];B[fa]
+(;W[ha];B[hb]
+(;W[ja];B[ia];W[ib]C[Ko is not good enough.])
+(;W[ia];B[ja]C[Black lives.]))
+(;W[ia];B[ha];W[ja];B[hb])
+(;W[ja];B[ha]C[Black lives.])
+(;W[ga];B[ha]))
+(;W[ja];B[ia]
+(;W[ha];B[ka];W[fb];B[hb];W[ga];B[fa];W[ga];B[fc];W[gc];B[ha])
+(;W[fb];B[fc];W[gc];B[fa];W[hb];B[ka];W[ha]C[Black can't give atari.CHOICERIGHT]))
+(;W[ia];B[ha];W[ja];B[ib];W[gc];B[ka]
+(;W[ja];B[fb])
+(;W[fb];B[ja]))
+(;W[ga];B[ha]
+(;W[ia];B[ja];W[hb];B[ib];W[fb];B[ha]
+(;W[fc];B[gc])
+(;W[gc];B[fa];W[fc];B[ga]))
+(;W[fb];B[fc]
+(;W[ia];B[fa])
+(;W[gc];B[fa])))
+(;W[ha]
+(;B[ia]
+(;W[fb]
+(;B[hb]C[CHOICE]
+(;W[fc];B[ga])
+(;W[ga];B[fa]
+(;W[fc];B[ga])
+(;W[ga];B[fc];W[gc];B[ha]))
+(;W[fa];B[ga])))
+(;W[hb];B[gc]C[Seki.]
+(;W[fc];B[fb];W[ga]C[Seki.])
+(;W[ga];B[fc];W[fa]C[Seki.]))
+(;W[gc];B[hb]
+(;W[fb];B[ga])
+(;W[ga];B[fc]))
+(;W[ga];B[hb];W[fb];B[fc];W[gc];B[fa]))
+(;B[hb]
+(;W[ia];B[ja])
+(;W[ja];B[ia];W[ib];B[ga]
+(;W[ia];B[ka];W[ia];B[ja];W[fc];B[fb])
+(;W[fb];B[ia];W[fc];B[fa]))))
+(;W[fa];B[fb];W[ja];B[ia]
+(;W[ha];B[ga];W[ib];B[hb])
+(;W[hb];B[ga];W[gc];B[ka])))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[15k]DP[62]SO[sing216]CO[6]AW[fq]AW[hq]AW[gq]AB[fp]AB[gp]AB[hp]AB[iq]AW[ir]AB[jq]AB[kr]AW[jr]AW[ks]AW[hr]AB[eq]AB[er]AB[fs]AB[ip]AB[ls]AB[gs]AP[goproblems]
+(;W[lr]
+(;B[js]
+(;W[kq]
+(;B[lq]
+(;W[ks]C[Ko, White takes firstRIGHT])
+(;W[mr];B[kp])
+(;W[kp];B[mr])
+(;W[is];B[kp]))
+(;B[ks]C[(black won't play like this, of course)]
+(;W[ms]C[RIGHT])
+(;W[is]C[RIGHT])
+(;W[mr]C[RIGHT])))
+(;W[is];B[lq]
+(;W[ks];B[mr])
+(;W[mr];B[ks]))
+(;W[ms];B[lq]
+(;W[ks];B[kq]
+(;W[is];B[nr]C[White cannot escape.])
+(;W[mq];B[ls]C[Ko, Black takes first.])
+(;W[mr];B[ls]C[Ko, Black takes first])
+(;W[ls];B[mr]))
+(;W[mr];B[ks])
+(;W[is];B[mr])
+(;W[kq];B[mr]))))
+(;W[js];B[lr])
+(;W[kq];B[lr])
+(;W[ms];B[lr]))

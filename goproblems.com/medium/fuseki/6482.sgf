@@ -1,0 +1,14 @@
+(;GE[fuseki]DI[1k]DP[18]SO[Zwom]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[ba][ea][ga][ka][na][ab][db][eb][fb][lb][mb][qb][rb][sb][ac][bc][cc][dc][mc][nc][oc][pc][dd][hd][id][jd][nd][ae][be][de][ge][he][ke][le][me][ne][ef][qf][dg][eg][qg][eh][mh][ph][fi][hi][pi][qj][mk][pk][rk][nl][ol][nm][mo][no][oo][po][qo][ro][pp]AB[ca][ha][ja][bb][cb][gb][ib][kb][nb][ob][pb][ec][gc][hc][ic][jc][kc][qc][rc][sc][bd][cd][ed][gd][kd][ld][md][qd][ce][ee][fe][pe][bf][cf][df][pf][cg][gg][ng][pg][dh][lh][oh][qh][di][oi][ri][lj][nj][rj][mm][om][pm][rm][np][op][qp][lq][pq][qq]LB[db:2][co:A][do:B][cp:C][dp:D][ep:E][cq:F][dq:G][eq:H][lq:1]TR[ba]
+(;B[co]CR[co]TR[fi][hi]C[white can steal away the corner or limit black's side by  threatening to and any influence black may build up is limited by white's beautiful stones in the center.])
+(;B[do]CR[do]TR[fi][hi]C[white can steal away the corner and any influence black may build up is limited by white's beautiful stones in the center.])
+(;B[dp]CR[dp]TR[fi][hi]C[white can steal away the corner or limit black's side by  threatening to.  Any influence black may build up is limited by white's beautiful stones in the center.])
+(;B[cp]CR[cp]C[RIGHT great!  That's what Mok thinks too.  This seeks territory and  to help both sides.])
+(;B[ep]CR[ep]TR[fi][hi]C[white can steal away the corner or limit black's side by  threatening to and any influence black may build up is limited by white's beautiful stones in the center.])
+(;B[eq]CR[eq]C[This works with one side but not the other.  And the neglected side could suffer very serious reductions.])
+(;B[dq]CR[dq]
+(;W[co]CR[co]C[white has good moves to undermine blacks stones on the left side.])
+(;W[do]CR[do]C[white has good moves to undermine blacks stones on the left side.]))
+(;B[cq]CR[cq]
+;W[dp]CR[dp]C[white has a good move to force black into a low position and can build up influence towards his groups in the center.]))

@@ -1,0 +1,54 @@
+(;GE[life and death]DI[4d]DP[7]SO[Field Mouse]CO[0]SZ[13]AB[ec]AB[fc]AB[gd]AB[dd]AB[ge]AB[de]AW[dc]AW[eb]AW[fb]AW[gb]AW[hc]AW[hd]AW[he]AW[cd]AW[ce]AW[df]AW[cg]AB[eg]AW[hf]AW[hg]AW[gg]AB[ff]AB[eh]AB[ei]AB[gi]AB[gh]AB[gj]AB[fj]AB[ej]AB[cl]AW[dj]AW[cj]AW[bj]AW[bk]AW[bl]AW[ci]AW[ch]AW[hh]AW[hi]AW[hj]AW[hk]AW[hl]AB[el]AB[gl]AW[hm]AW[bm]AW[gf]AW[cc]C[What can white do with the black group?]AP[goproblems]
+(;W[dk]
+(;B[gm]C[CHOICE]
+(;W[dm];B[gk]
+(;W[ek];B[em])
+(;W[em];B[ek]))
+(;W[em]
+(;B[dl]C[CHOICE]
+(;W[fl];B[gk]
+(;W[ek];B[fk]
+(;W[dm];B[fm];W[cm];B[ef]
+(;W[gc]C[Nice, black is dead!RIGHT])
+(;W[fg];B[fh];W[gc]C[Nice, black has a big false eye and is dead!RIGHT]))
+(;W[cm];B[fm];W[dm]))
+(;W[dm];B[ek];W[cm];B[fm];W[fg];B[ef]
+(;W[fh];B[gc])
+(;W[gc];B[fh])))
+(;W[gk];B[fl]))
+(;B[dm];W[dl]C[RIGHT])
+(;B[gk];W[ek];B[dl];W[fl])
+(;B[ek];W[gk]C[RIGHT]))
+(;W[ek];B[fl])
+(;W[gk];B[fl])
+(;W[dl];B[em])
+(;W[fk];B[fl]))
+(;B[fm];W[dm];B[fk];W[em]C[RIGHT])
+(;B[fk];W[dm]C[RIGHT])
+(;B[dl];W[fl]
+(;B[ek];W[fm]TR[em]TR[cm]C[Triangles are miaiRIGHT])
+(;B[em];W[ek];B[fk];W[cm]TR[gk]TR[gm]C[RIGHT])))
+(;W[fk];B[gk])
+(;W[fg];B[dk]
+(;W[fk];B[gk])
+(;W[cm];B[dm];W[ck];B[dl];W[gk];B[fk];W[gm];B[fl];W[fm];B[ef]
+(;W[gc];B[fh])
+(;W[fh];B[gc]))
+(;W[dm];B[cm]
+(;W[gm];B[fl])
+(;W[gk];B[fk])))
+(;W[fm];B[gm];W[dk];B[ee])
+(;W[ef];B[fg]
+(;W[fe];B[dk])
+(;W[dk];B[ee]))
+(;W[dm];B[dl];W[cm];B[dk]
+(;W[gk];B[fk])
+(;W[fk];B[gk];W[fl];B[fm])
+(;W[fl];B[fm];W[fk];B[gk]))
+(;W[gk];B[fl]
+(;W[gm];B[cm])
+(;W[dm];B[em]TR[cm]TR[gm])
+(;W[dk];B[dl]))
+(;W[gm];B[fm]
+(;W[dk];B[dl])
+(;W[gk];B[dk];W[fk];B[ek];W[cm];B[dm];W[ck];B[fl];W[dl]C[Only ko])))

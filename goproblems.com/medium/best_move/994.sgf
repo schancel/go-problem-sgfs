@@ -1,0 +1,35 @@
+(;GE[best move]DI[3d]DP[10]SO[wol]CO[6]
+GM[1]FF[4]VW[]AP[Many Faces of Go:10.0]
+SZ[13]
+HA[0]
+ST[1]
+DT[2001-08-13]
+KM[0.0]
+RU[GOE]
+
+AB[lb][lc][ld][kc][jb][ka][ck][dg][ei][fb][fc][fd][ee][db][cd][ej][fk][fl][fh][eg][fg][lj][kk][jj][ij]
+
+AW[ib][jc][kd][jd][le][jf][hc][fi][gb][gd][fe][ff][ia][fj][gl][gk][gh][gg][jk][kg][lh][kl][ll][ik]
+
+C[White has just played 1 threatening Black's group.  Next white
+will make the big endplay at 'A'.  How can black save his group
+and still get to play the double sente move at 'B' ? 
+]LB[gm:B][fm:A][ia:1]
+
+(;B[cc]
+PL[B];B[lf];W[me];B[ke])
+(;W[md])
+(;W[ia];B[md];W[me])
+(;B[lf];W[me]
+(;B[md];W[ke];B[gm];W[ja];B[mb]
+C[RIGHT
+])
+(;B[ke];W[kf];B[md]
+(;W[je];B[gm]
+C[
+];W[ja];B[mb]
+C[RIGHT
+])
+(;W[fm])))
+(;B[me];W[md])
+(;B[ja];W[fm]))

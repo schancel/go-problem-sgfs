@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2d]DP[13]SO[shikamaru598]CO[0]AB[rr]AB[ro]AB[so]AB[qp]AB[pp]AW[qo]AW[qn]AW[rn]AW[oo]AW[np]AW[oq]AW[or]C[kill]AP[goproblems]
+(;W[qq]C[]
+(;B[pq]C[CHOICE]
+(;W[qr]C[];B[pr]C[]
+(;W[rs]C[]
+(;B[rq]C[CHOICE];W[ps]C[]
+(;B[qs]C[];W[qr]C[good!!!!RIGHT])
+(;B[sr];W[qs]))
+(;B[ps];W[rq];B[sr];W[rp]C[RIGHT]))
+(;W[ps];B[rs]
+(;W[rq];B[qs])
+(;W[qs];B[rq];W[os];B[rp])))
+(;W[pr];B[qr])
+(;W[rq];B[qr]))
+(;B[rq];W[qr];B[rs];W[rp]C[RIGHT]))
+(;W[qr]C[];B[qq]C[];W[qs]C[];B[rs]C[b lives])
+(;W[rq];B[qq]
+(;W[rp];B[sq])
+(;W[sr];B[qs])
+(;W[qs];B[sq])
+(;W[sq];B[pr]))
+(;W[qs];B[qr]
+(;W[pq];B[qq];W[rs];B[ps])
+(;W[pr];B[rq];W[pq];B[rs])
+(;W[rs];B[ps]))
+(;W[rs];B[qr]))

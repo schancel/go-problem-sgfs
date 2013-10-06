@@ -1,0 +1,48 @@
+(;GE[life and death]DI[8k]DP[49]SO[santa c]CO[8]AW[cd]AW[bd]AW[de]AW[df]AW[dg]AW[dh]AW[cj]AW[bj]AB[bi]AB[ch]AB[cg]AB[bg]AB[cf]AB[be]C[Can white do anything with the black group? ;)]AW[di]AP[goproblems]
+(;W[af];B[ae]
+(;W[ah]
+(;B[ai];W[ag]C[Dead. Nice.. (Black'd have to play at both A and B now to get a seki - Thanks for the correction, awelux ;)CHOICERIGHT]LB[ce:A]LB[ci:B])
+(;B[ag];W[ai]C[Dead, nice ;)CHOICERIGHT]))
+(;W[ai];B[ah]LB[aj:A]LB[ci:B]C[Blac's alive - 'A' and 'B' are miai to deny him from having a second eye at B12.]LB[af:1]LB[bf:1]LB[ag:1]LB[bh:2])
+(;W[ag];B[ah]C[Blac's alive - He has 2 eyes.]LB[af:1]LB[bf:1]LB[ag:1]LB[bh:2])
+(;W[aj];B[ah]C[Blac's alive - 'A' and 'B' are miai to deny him from having a second eye at B12.]LB[ai:A]LB[ci:B]LB[af:1]LB[bf:1]LB[ag:1]LB[bh:2]))
+(;W[ah]C[NOTTHISRIGHT])
+(;W[ai]C[NOTTHIS])
+(;W[ci]C[NOTTHIS])
+(;W[aj]C[NOTTHIS])
+(;W[bh]C[NOTTHIS])
+(;W[ae];B[af]LB[ad:A]LB[ce:B]LB[bf:1]LB[ag:2]LB[bh:2]LB[ah:C2]C[A and B are miai to get a ko to kill if black takes C. Otherwise A,B and C are miai to kill. -> Black's alive.])
+(;W[bf];B[af]C[Black's alive.])
+(;W[ce];B[af]C[Black's alive.])
+(;W[ag];B[af]
+(;W[ah];B[ai]C[Black lives with 2 eyes.]LB[bf:1]LB[ag:2]LB[ah:2]LB[bh:2])
+(;W[ai];B[ah]C[Black's alive.])
+(;W[bh]
+(;B[ah]C[Black's alive.CHOICE])
+(;B[ai]C[Black's alive.CHOICE]))
+(;W[ci];B[ah]C[Black's alive.])
+(;W[aj];B[ai]C[Black's alive.])
+(;W[ce]
+(;B[ae]
+(;W[ah];B[ai];W[ad];B[bh]C[Black's alive.])
+(;W[ai];B[ah]C[Black's alive.])
+(;W[ad];B[ah]C[Black's alive.])
+(;W[ci];B[ah]C[Black's alive.])
+(;W[bh]
+(;B[ai]C[Black's alive.CHOICE])
+(;B[ah]C[Black's alive.CHOICE])))
+(;B[ah]C[Black's alive.CHOICE])))
+(;W[ad];B[ae];W[ag];B[af]
+(;W[ah];B[ai];W[ce];B[bh]C[Black's alive.])
+(;W[ai]
+(;B[ah]C[Black's alive.])
+(;B[bh]
+(;W[ah];B[aj]
+(;W[ai];B[ah]C[Black's alive.CHOICE])
+(;W[ah]C[NOTTHIS])
+(;W[ag]C[NOTTHIS]))
+(;W[aj];B[ah]C[Black's alive.])))
+(;W[ce];B[ah]C[Black's alive.])
+(;W[bh]C[NOTTHIS])
+(;W[ci]C[NOTTHIS])
+(;W[aj]C[NOTTHIS])))

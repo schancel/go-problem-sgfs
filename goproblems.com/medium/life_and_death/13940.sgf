@@ -1,0 +1,18 @@
+(;GE[life and death]DI[3k]DP[25]SO[firelordzuko]CO[0]AB[pd]AB[qc]AB[od]AB[nd]AB[md]AB[nc]AB[me]AB[ne]AB[nf]AB[lf]AB[lg]AB[mg]AB[mh]AB[kg]AB[jg]AB[jh]AB[ji]AB[jj]AB[ij]AB[ni]AB[oh]AB[ph]AB[pi]AB[pj]AB[ri]AB[qg]AB[jd]AB[jc]AB[ic]AB[ib]AB[ia]AB[hd]AB[he]AB[hf]AB[hg]AB[hh]AB[gh]AB[fg]AB[ge]AB[bp]AB[bq]AB[cq]AB[co]AB[cn]AB[bm]AB[bl]AB[bk]AB[ck]AB[cl]AB[dl]AB[dn]AB[en]AB[eo]AB[fo]AB[fn]AB[gn]AB[go]AB[gm]AB[hm]AB[im]AB[in]AB[io]AB[il]AB[jl]AB[jm]AB[kl]AB[ll]AB[ml]AB[kk]AB[nm]AB[nn]AB[lm]AB[ln]AB[lo]AB[ko]AB[pm]AB[pn]AB[po]AB[op]AB[np]AB[nq]AB[or]AB[mr]AB[lr]AB[dd]AB[dc]AB[de]AB[ce]AB[ch]AB[dh]AB[eh]AB[ei]AB[ej]AB[ek]AB[fj]AB[fi]AB[di]AW[cf]AW[cg]AW[bh]AW[be]AW[cd]AW[cc]AW[ci]AW[cj]AW[dj]AW[dk]AW[bj]AW[ai]AW[ak]AW[cp]AW[dp]AW[do]AW[dq]AW[ep]AW[fp]AW[gp]AW[hp]AW[ho]AW[hn]AW[ip]AW[jp]AW[jo]AW[jn]AW[kn]AW[km]AW[kp]AW[lp]AW[lq]AW[kr]AW[cr]AW[er]AW[oq]AW[pq]AW[pp]AW[qq]AW[qo]AW[qn]AW[qm]AW[pl]AW[pk]AW[nl]AW[nk]AW[oj]AW[oi]AW[mi]AW[nh]AW[ng]AW[og]AW[pg]AW[pf]AW[qf]AW[mk]AB[qi]AW[qj]AW[rj]AW[rk]AW[gg]AW[pc]AW[oc]AW[nb]AW[mc]AW[lc]AW[kc]AW[jb]AW[ja]AW[kd]AW[ld]AW[le]AW[ke]AW[je]AW[ie]AW[id]AW[if]AW[jf]AW[kf]AW[ig]AW[ih]AW[ii]AW[hi]AW[gi]AW[gj]AW[hj]AW[fk]AW[gk]AW[hk]AW[ik]AW[jk]AW[el]AW[fl]AW[gl]AW[hl]AW[cm]AW[dm]AW[em]AW[fm]C[This position is from a game I played on KGS on Saturday, 2010/8/4. I played black. After lots of fighting and incredible blunders, do something about the white dragon in the middle.]AP[goproblems]
+(;B[kb]
+(;W[lb]
+(;B[la];W[mb];B[pb];W[ob]C[Well done, you killed the white dragon! Your opponent stares at the board, then he bows and resigns.FORCERIGHT])
+(;B[ka];W[mb];B[ob];W[pb]
+(;B[oa];W[pa];B[qb];W[na];B[la]C[Well done, you killed the white dragon! Your opponent stares at the board, then he bows and resigns.RIGHT])
+(;B[qb]C[That's what I played...];W[oa]C[White lives. Do better!]
+(;B[la];W[ma];B[qa];W[pa]C[White lives. Do better!])
+(;B[qa];W[pa];B[la];W[ma]C[White lives. Do better!]))))
+(;W[mb]
+(;B[ob];W[pb]
+(;B[qb])
+(;B[oa];W[pa];B[qb];W[na];B[la]C[Well done, you killed the white dragon! Your opponent stares at the board, then he bows and resigns.RIGHT]))
+(;B[pb];W[ob];B[qb]C[Well done, you killed the white dragon! Your opponent stares at the board, then he bows and resigns.RIGHT];W[la];B[ka])))
+(;B[mb];W[lb]
+(;B[ob];W[ma];B[pb]C[White lives. Do better!])
+(;B[ma];W[la];B[ob];W[na];B[pb]C[White lives. Do better!]))
+(;B[ka];W[kb];B[mb];W[la];B[ob];W[na];B[oa];W[ma]C[White lives. Do better!]))

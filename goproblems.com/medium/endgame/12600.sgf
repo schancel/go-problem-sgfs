@@ -1,0 +1,13 @@
+(;GE[endgame]DI[2k]DP[21]SO[Field Mouse]CO[0]AB[jr]AB[jq]AB[kp]AB[ko]AW[ir]AW[jp]AW[ip]AW[iq]AW[jo]AB[mo]AB[no]AB[oo]AB[pp]AB[qq]AB[qr]AW[po]AW[pn]AW[on]AW[nn]AW[mn]AW[ln]AW[kn]AW[jn]AB[mp]AB[pq]AB[qo]AB[rp]AB[rn]AW[rm]AW[qm]AW[qn]AB[ro]AW[rk]AW[gr]C[Black to play - what will you do in an endgame? Points are the priority, but ko threats are also important. Sente is worth 0,5 pts (the ko)]AP[goproblems]
+(;B[sm];W[sl];B[sn];W[js];B[kr];W[ks];B[ls];W[is];B[lr];W[lo];B[lp])
+(;B[kq];W[js];B[ks];W[is];B[sm];W[sl];B[sn];W[lo];B[lp]LB[kr:A]LB[ls:B]C[A bit suboptimal - white will have two threats at A and B])
+(;B[lq];W[js];B[ks];W[is];B[kr];W[lo]
+(;B[lp];W[sn];B[so];W[sm])
+(;B[sm];W[sl];B[sn];W[lp];B[mq];W[kq];B[kp]))
+(;B[kr];W[lo];B[lp];W[js];B[ks];W[is];B[sm];W[sl];B[sn]LB[kq:A]C[Good, white has only one threat at A and you can atari at S8RIGHT])
+(;B[lr];W[lo];B[lp];W[js];B[ks];W[is];B[sm];W[sl];B[sn]C[White has two threats - a little suboptimal!])
+(;B[js];W[kq];B[kr];W[is];B[lq];W[lo];B[sm];W[sl];B[sn];W[lp]
+(;B[kq];W[mq];B[mr];W[nq];B[op];W[ls])
+(;B[mq];W[kq];B[kp]))
+(;B[ks];W[lo];B[lp];W[sn];B[so];W[sm];B[is];W[hs];B[js]C[white has 3 threats, not optimal..])
+(;B[lo];W[js];B[kr];W[ks];B[ls];W[is];B[lr];W[sn];B[so];W[sm]))

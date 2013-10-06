@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[7]AB[bo]AB[bp]AB[cr]AB[bn]AW[bm]AW[cm]AW[cn]AW[dp]AW[eq]AW[er]AW[gr]AW[bk]AW[ar]AB[br]AW[cq]AB[bq]AW[do]C[And what if it had an extra liberty? :)]AP[goproblems]
+(;W[an];B[ao]
+(;W[aq];B[ds]
+(;W[dr]
+(;B[as]
+(;W[cs]C[Well done! :)RIGHT])
+(;W[bs];B[cs]C[Please play at A... (Otherwise Black would simply A4 and live...)]LB[as:A];W[as];B[ap]LB[ar:A];W[ar];B[as]C[Black lives! :(])
+(;W[es];B[cs]C[Not a ko! :(]LB[bs:1]LB[ap:2]))
+(;B[cs];W[as]C[Well done! All that's left inside is dead shape! :)RIGHT]))
+(;W[bs]C[];B[dr]C[Please play at A...]LB[es:A];W[es];B[ap]LB[dq:A]C[Feel free to chose an A... ;P]LB[as:A]
+(;W[dq];B[cs]LB[cp:A];W[cp];B[as]C[:(])
+(;W[as];B[cs]LB[ar:A];W[ar];B[as]C[Black lives! :(]))
+(;W[as];B[dr];W[bs];B[ap]C[Please play at A...]LB[es:A];W[es];B[cs]LB[ar:A];W[ar];B[as]C[Black lives! :(]))
+(;W[cs];B[aq]C[:(]TR[bs]TR[ds])
+(;W[bs];B[aq]C[:(])
+(;W[dr];B[aq]C[:(]))
+(;W[dr];B[an]C[:(])
+(;W[am];B[an]C[:(])
+(;W[ao];B[an]C[:(])
+(;W[aq];B[an]C[:(])
+(;W[ap];B[aq]C[:(])
+(;W[cs];B[an]C[:(])
+(;W[ds];B[an]C[:(])
+(;W[bs];B[an]C[:(]))

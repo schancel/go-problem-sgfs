@@ -1,0 +1,53 @@
+(;GE[life and death]DI[4k]DP[28]SO[adum]CO[5]SZ[19]AW[ob]AW[pb]AW[rb]AW[sb]AW[qc]AB[lb]AB[nb]AB[nc]AB[rc]AB[sc]AB[od]AB[pd]AB[rd]AB[qe]LB[og:4]LB[pg:3]LB[qg:2]LB[rg:1]LB[sg:0]LB[oh:9]LB[ph:8]LB[qh:7]LB[rh:6]LB[sh:5]C[how many ways to kill without ko?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[qg];W[qh]C[now, you can explore various paths aboveRIGHT]
+(;B[qa];W[ra]
+(;B[pa];W[oa])
+(;B[pc];W[qb]))
+(;B[oa];W[pa]
+(;B[ra];W[qa];B[pc]C[RIGHT])
+(;B[pc];W[ra];B[qb]C[RIGHT])
+(;B[qa];W[ra]))
+(;B[pa];W[qa]
+(;B[oa];W[na]
+(;B[oa];W[pc]))
+(;B[pc];W[oa]))
+(;B[ra];W[qa]
+(;B[oa];W[pc])
+(;B[pc];W[oa]))
+(;B[na];W[ra]
+(;B[qb];W[pc])
+(;B[oa];W[pa])
+(;B[pc];W[qb])
+(;B[pa];W[oa]))
+(;B[pc]
+(;W[ra]
+(;B[qb]C[RIGHT])
+(;B[oa];W[pa];B[qb]C[RIGHT]))
+(;W[qa];B[oa]C[RIGHT]))
+(;B[oc];W[qa]
+(;B[oa];W[pc])
+(;B[pc];W[oa]))
+(;B[qd];W[pc]
+(;B[qa];W[ra])
+(;B[oa];W[qa]))
+(;B[sa];W[ra])
+(;B[qb];W[qa]))
+(;B[sg]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[rg]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[pg]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[og]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[sh]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[rh]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[qh]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[ph]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[oh]C[wrong. after you select the correct number, you may explore possibilities])
+(;B[na]C[NOTTHIS])
+(;B[oa]C[NOTTHIS])
+(;B[pa]C[NOTTHIS])
+(;B[qa]C[NOTTHIS])
+(;B[ra]C[NOTTHIS])
+(;B[sa]C[NOTTHIS])
+(;B[qb]C[NOTTHIS])
+(;B[oc]C[NOTTHIS])
+(;B[pc]C[NOTTHIS])
+(;B[qd]C[NOTTHIS]))

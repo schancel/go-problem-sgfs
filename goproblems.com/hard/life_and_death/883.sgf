@@ -1,0 +1,52 @@
+(;GE[life and death]DI[4d]DP[7]SO[Hans]CO[8]C[What can black do?]AW[do]AW[eo]AW[dp]AW[dq]AW[eq]AW[fq]AW[gq]AW[cr]AW[gr]AW[hr]AW[bs]AB[cn]AB[dn]AB[en]AB[fn]AB[co]AB[cp]AB[gp]AB[hp]AB[cq]AB[hq]AB[br]AB[er]AB[fr]AB[ir]AB[is]
+(;B[aq];W[fp]
+(;B[dr];W[ds]
+(;B[as];W[ar]
+(;B[cs]C[White dies: Duoble ko!RIGHT])
+(;B[bq];W[fs]C[Ko.]))
+(;B[cs];W[bl]LB[cl:A]C[Please answer the white 'ko threat' at A.];B[cl];W[cr]LB[ck:A]C[If you search for a ko threat please play at A.]
+(;B[ck];W[fs]C[Now white fights a direct ko for life. You can do better.])
+(;B[as];W[ar]
+(;B[cs]C[White dies: double ko!RIGHT])
+(;B[bq];W[fs]C[Ko.])))
+(;B[ar];W[fs]C[Ko.])
+(;B[hs];W[fs]C[Ko.])
+(;B[gs];W[fs]C[Ko.]))
+(;B[gs];W[hs]
+(;B[fs];W[dr])
+(;B[es];W[dr])
+(;B[dr];W[ds]
+(;B[cs];W[bl]LB[cl:A]C[Please answer the white 'ko threat'at A.];B[cl];W[cr]LB[ck:A]C[If you search for a ko threat, play at A.]
+(;B[ck];W[fs]C[Now white fights a direct ko for life. You can do better.])
+(;B[as];W[ar];B[cs]C[White dies. Double ko.RIGHT]))
+(;B[as];W[ar];B[cs]C[White dies: Duoble ko!RIGHT])))
+(;B[hs];W[gs];B[dr];W[ds]
+(;B[cs];W[bl]C[Please answer the white 'ko threat' at A.]LB[cl:A];B[cl];W[cr]LB[ck:A]C[If you search for a ko threat play at A.]
+(;B[ck];W[fs]C[Now white fights a direct ko for  life. You can do better.])
+(;B[as];W[ar];B[cs]C[White dies. Double ko.RIGHT]))
+(;B[as];W[ar];B[cs]C[White dies: Duoble ko!RIGHT])))
+(;B[dr];W[ds]
+(;B[cs]C[Ko is not the answer.])
+(;B[aq];W[fs]C[Ko.])
+(;B[fp];W[bq]C[Ko.]))
+(;B[ar];W[bq]
+(;B[dr];W[ds]
+(;B[cs]C[Ko.])
+(;B[fp];W[aq]C[Ko.]))
+(;B[bp];W[fp];B[dr];W[ds]C[Ko.]))
+(;B[fp];W[bq]C[]
+(;B[ar];W[aq];B[dr];W[as];B[gs];W[ds]C[White lives])
+(;B[dr];W[ar];B[gs];W[ds]C[White lives.]))
+(;B[hs];W[bq]
+(;B[gs];W[dr]C[White is alive.])
+(;B[dr];W[ds]C[Ko.])
+(;B[ar];W[gs]
+(;B[dr];W[ds]C[Ko.])
+(;B[bp];W[fp];B[dr];W[ds]C[Ko.])
+(;B[fp];W[aq];B[dr];W[ds]C[Ko.]))
+(;B[fp];W[dr];B[gs];W[ds]))
+(;B[bq];W[fp]
+(;B[dr];W[ds]C[Ko.])
+(;B[hs];W[gs];B[dr];W[ds]C[Ko.])
+(;B[hs];W[gs];B[dr];W[ds]C[Ko.])
+(;B[gs];W[hs];B[dr];W[ds]C[Ko.])))

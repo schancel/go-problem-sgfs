@@ -1,0 +1,30 @@
+(;GE[tesuji]DI[8k]DP[45]SO[brightwater]CO[7]AB[pb]AB[oc]AB[nc]AB[mc]AB[lc]AB[kb]AB[kd]AB[ke]AB[le]AB[kg]AB[mg]AB[ng]AB[og]AB[pg]AB[qg]AB[qf]AB[pe]AW[kc]AW[jc]AW[jb]AW[hc]AW[pc]AW[qc]AW[qb]AW[pd]AW[rd]AW[qe]AW[ld]AW[md]AW[me]AW[nf]AW[of]AW[pf]AW[rf]C[Black to capture the marked stones and to connect its two groups.]TR[ld]TR[md]TR[me]AP[goproblems]
+(;B[ne]
+(;W[nd];B[od];W[oe];B[mf]
+(;W[ne];B[pe]C[RIGHT])
+(;W[pe];B[ne]))
+(;W[mf];B[oe]C[RIGHT])
+(;W[oe]
+(;B[mf];W[nd];B[od]C[RIGHT])
+(;B[od];W[mf])))
+(;B[mf];W[ne]
+(;B[od];W[oe];B[nd];W[pe])
+(;B[nd];W[oe];B[od];W[pe])
+(;B[oe];W[od]))
+(;B[oe];W[od]
+(;B[mf];W[ne])
+(;B[ne];W[nd])
+(;B[nd];W[ne]))
+(;B[od];W[oe]
+(;B[mf];W[ne];B[nd];W[pe])
+(;B[nd];W[ne];B[mf];W[pe])
+(;B[ne];W[mf]
+(;B[nd];W[pe])
+(;B[lf];W[nd])))
+(;B[nd];W[ne]
+(;B[mf];W[oe];B[od];W[pe])
+(;B[oe];W[od])
+(;B[od];W[oe];B[mf];W[pe]))
+(;B[nb];W[lb];B[mb];W[ka])
+(;B[na];W[lb];B[mb];W[ka]C[Balck can not live here.];B[ob];W[pa])
+(;B[mb];W[ob];B[nb];W[pa]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[3k]DP[27]SO[MeleeNewb]CO[0]AW[rb]AW[qb]AW[pb]AB[oc]AB[ne]AW[od]AW[pc]AB[pd]AB[pe]AB[oe]AW[nd]AB[md]AB[mc]AB[qc]AB[rc]AW[re]AB[rf]AB[qf]AW[qe]AW[qd]AB[rd]AW[sf]AW[rg]AB[lb]AB[kc]AW[qh]AW[oh]AB[oa]AB[sh]AW[ri]AP[goproblems]
+(;W[sb]
+(;B[se]C[CHOICE]
+(;W[pa]
+(;B[ob];W[ra]C[RIGHT])
+(;B[ra]
+(;W[nb];B[nc];W[ob]C[RIGHT])
+(;W[ob];B[nb])))
+(;W[nb];B[ob]
+(;W[pa];B[nc];W[ra]C[RIGHT])
+(;W[nc];B[na];W[pa];B[mb];W[ra]C[RIGHT]))
+(;W[ra];B[pa]
+(;W[ob];B[nb])
+(;W[nb];B[ob];W[nc];B[na])
+(;W[nc];B[nb]))
+(;W[nc];B[nb])
+(;W[ob];B[nb];W[pa];B[ra])
+(;W[sd]C[NOTTHIS]))
+(;B[ob];W[sd];B[se];W[re]C[RIGHT]))
+(;W[nb];B[sb]
+(;W[nc];B[ra]
+(;W[qa];B[ob];W[sa];B[na];W[sc];B[se])
+(;W[ob];B[na];W[ma];B[mb];W[pa];B[na])
+(;W[na];B[ob];W[pa];B[ob]))
+(;W[ra];B[nc]))
+(;W[sc];B[se];W[pa];B[ob]
+(;W[ra];B[sb])
+(;W[sb];B[ra]))
+(;W[se];B[sg];W[sb];B[ob])
+(;W[sd]C[Blocked to reduce redundant variations.NOTTHIS];B[se]
+(;W[sb];B[sg];W[pa];B[ob];W[ra]C[RIGHT])
+(;W[re];B[sb])))

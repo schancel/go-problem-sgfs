@@ -1,0 +1,32 @@
+(;GE[life and death]DI[8k]DP[45]SO[BigMetalGuy]CO[7]SZ[13]AW[bb]AW[fb]AW[gb]AW[cc]AW[dc]AW[ec]AW[hc]AW[ad]AW[bd]AW[cd]AB[cb]AB[db]AB[eb]AB[fc]AB[dd]AB[ed]AB[fd]AB[ae]AB[be]AB[ce]C[Black to play to win. (Black's first move is the vital point to win the capturing race.)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[ab]
+(;W[ca]
+(;B[bc];W[ac];B[bc]C[ Black captures 7 White stones in a snapback.RIGHT])
+(;B[ac]
+(;W[ba];B[bc]C[ CHOICERIGHT])
+(;W[bc];B[ba]C[ CHOICERIGHT])
+(;W[ea];B[bc]C[ CHOICERIGHT])
+(;W[aa];B[bc]C[ CHOICERIGHT]))
+(;B[da];W[ea])
+(;B[ba];W[aa]TR[cb]TR[db]TR[eb]C[Black cannot save the three marked stones.]))
+(;W[ba];B[ac];W[bc];B[ca]C[RIGHT]))
+(;B[ac];W[bc]
+(;B[ba];W[ab]
+(;B[ca];W[ea]
+(;B[aa];W[da])
+(;B[da];W[aa]))
+(;B[aa];W[ca]
+(;B[da];W[ea])
+(;B[ea];W[fa])))
+(;B[ab];W[aa]))
+(;B[bc];W[ac])
+(;B[ba];W[ab]
+(;B[ac];W[bc]
+(;B[aa];W[ca]TR[cb]TR[db]TR[eb]C[The marked stones are dead.])
+(;B[ca];W[ea]TR[ba]TR[ca]TR[cb]TR[db]TR[eb]C[The marked stones are dead.]))
+(;B[aa];W[ca]TR[cb]TR[db]TR[eb]C[The marked stones are dead.])
+(;B[ea]
+(;W[fa]C[ Can white capture the Black stones this way?CHOICE];B[ac];W[bc]
+(;B[aa];W[ca]TR[ea]TR[cb]TR[db]TR[eb]C[The marked stones are dead.])
+(;B[ca]LB[aa:A]C[Black and White live in Seki. Whoever plays on A, puts himself into Atari. But Black could have won here. Keep trying!]))
+(;W[ca]C[CHOICE];B[da];W[fa]TR[da]TR[ea]TR[cb]TR[db]TR[eb]C[The marked stones are dead.]))))

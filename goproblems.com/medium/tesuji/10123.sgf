@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[3k]DP[27]SO[wuhounited]CO[6]AB[hb]AB[hd]AB[hc]AW[gc]AW[gb]AB[js]AW[is]AW[dd]AW[cf]AW[re]AW[qe]AW[pd]AW[pf]AW[of]AB[qf]AB[qg]AB[pg]AB[qi]AB[ri]AW[rj]AW[qk]AB[li]AB[lj]AB[lk]AB[kj]AW[lh]AW[lg]AW[kg]AW[lf]AW[le]AW[ke]AW[je]AW[jd]AW[jc]AW[jb]AW[kb]AW[lc]AW[mc]AB[kc]AB[kd]AB[ld]AB[md]AB[me]AB[mf]AB[mg]AB[kf]AB[jf]AB[jg]AB[if]AB[hg]AB[gg]AB[gf]AB[gh]AB[ih]AB[ii]AB[hi]AW[jh]AW[ji]AW[jj]AB[jk]AB[ik]AB[hk]AB[gk]AW[fk]AW[fj]AW[dk]AW[fg]AW[ff]AW[fe]AW[kk]AW[kl]AW[ll]AW[jl]AW[il]AW[gl]AW[gm]AW[hm]AW[hn]AW[go]AW[fo]AW[fn]AB[ho]AB[io]AB[in]AB[jn]AW[kn]AW[jo]AW[ko]AW[lo]AW[lp]AW[lq]AW[mr]AB[nr]AB[nq]AB[oq]AW[or]AB[pp]AB[qo]AB[pn]AB[on]AW[qn]AW[rn]AB[ml]AB[mm]AW[mn]AB[mo]AW[ip]AW[hp]AW[hq]AW[hr]AB[ir]AB[iq]AB[jp]AB[kq]AB[kr]AB[gp]AB[gq]AB[fq]AB[gr]AB[eo]AB[en]AB[em]AB[fm]AB[fl]AW[dm]AW[cn]AB[dp]AW[ni]AB[mh]AW[mi]LB[ni:1]LB[mi:3]LB[mh:2]LB[li:4]AB[oj]AW[lm]C[White cut black's top group and black cut white's cutting stones. White to find the BEST MOVE.]AP[goproblems]
+(;W[mk];B[mj]C[Black thinks he's going to escape.]
+(;W[nk]
+(;B[nj]
+(;W[nm]C[Congratulations! you have brought white's dragon back from the dead with eyes at M6 and N8. (This is exactly how it happened in the game)RIGHT])
+(;W[nl];B[nm]
+(;W[nn];B[om];W[np];B[no]C[White's in big trouble everywhere.])
+(;W[om];B[nn]C[White's in all sorts of trouble now.])))
+(;B[nl];W[nj]C[White kills black and saves his dragon on the bottom.RIGHT]))
+(;W[nj];B[nk]))
+(;W[mj];B[mk]C[no good.])
+(;W[nh]C[White can indeed kill the N15 group. but there was a much better alternative.];B[nj]C[White can indeed kill the N15 group. but there was a much better alternative.];W[mk];B[mj]C[Now it's too late to save white's group and black can now escape at O13 if he chooses.];W[nk];B[ok];W[nl];B[nm];W[ol];B[pl];W[nn];B[om];W[np];B[no];W[oo];B[ln]C[This is bad.])
+(;W[ng]C[White's on the wrong track.];B[nh]C[White's on the wrong track.];W[oh];B[og];W[nf];B[oi]C[Black escapes.];W[mk];B[mj];W[nk];B[nl]
+(;W[nj];B[ok]C[Ouch.])
+(;W[ok];B[nj];W[ol];B[nm];W[nn];B[om]))
+(;W[nf]C[White's on the wrong track.];B[nh]C[White's on the wrong track.];W[oh];B[og];W[ng];B[oi]C[Black escapes];W[mk];B[mj];W[nk];B[nl];W[ok];B[nj];W[ol];B[nm];W[nn];B[om];W[np];B[no];W[oo];B[ln]C[This is bad.])
+(;W[og]C[White's on the wrong track.];B[nh]C[White's on the wrong track.];W[oh];B[oi];W[mk];B[mj];W[nk];B[nl];W[ok];B[nj]C[White's messed up everything.])
+(;W[oh]C[White's on the wrong track.];B[og]C[White's on the wrong track.];W[ng];B[nh];W[nf];B[oi]C[Black's going to escape.]))

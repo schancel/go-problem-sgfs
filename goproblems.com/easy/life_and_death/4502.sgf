@@ -1,0 +1,28 @@
+(;GE[life and death]DI[6k]DP[36]SO[kochi]CO[5]AW[cs]AW[ds]AW[cr]AW[br]AW[bq]AW[cp]AW[bo]AW[ao]AW[an]AB[bn]AB[bm]AB[am]AB[co]AB[cn]AB[do]AB[dq]AB[dr]AB[es]AB[fr]AB[fq]AB[cq]AB[ep]AP[goproblems]
+(;B[ap];W[bp])
+(;B[aq];W[ar])
+(;B[ar]
+(;W[as]C[CHOICE]
+(;B[aq];W[ap])
+(;B[bp];W[aq]C[all you got was 3 stones in gote])
+(;B[bs];W[aq]
+(;B[ap];W[bp])
+(;B[bp];W[as]C[all you got was 3 stones in gote])))
+(;W[aq]C[CHOICE]
+(;B[bp];W[as]C[all you got was 3 stones in gote])
+(;B[as];W[bp])
+(;B[ap];W[bp])))
+(;B[as];W[ar]
+(;B[ap];W[bp])
+(;B[bp];W[ap]))
+(;B[bs];W[bp]
+(;B[as];W[ar])
+(;B[ar];W[aq]))
+(;B[bp]
+(;W[as];B[aq]C[w could have gotten a ko.RIGHT])
+(;W[ap]C[CHOICE]
+(;B[as];W[ar])
+(;B[dp];W[as]
+(;B[aq];W[bp])
+(;B[bp];W[aq]))
+(;B[ar];W[as];B[bs]C[good, koRIGHT]))))

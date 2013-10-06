@@ -1,0 +1,6 @@
+(;GE[endgame]DI[3k]DP[26]SO[Field Mouse]CO[0]AW[qc]AW[re]AW[rd]AW[qe]AW[qf]AW[rg]AW[rh]AW[qh]AW[sh]AB[qd]AB[pd]AB[pg]AB[qg]AW[pf]AB[pe]AB[pc]AB[of]AB[og]AB[ph]AB[pi]AB[qi]AB[ri]AB[si]AW[oe]AW[ne]AW[nd]AW[nc]AW[nb]AW[lc]AW[ld]AW[le]AW[lf]AW[lg]AW[nf]AW[ng]AW[lb]AW[la]AB[nh]AB[mh]AB[lh]LB[rc:A]LB[mg:B]C[Common endgame on the board, white wants to decide between A,B and C now. Which is the best?FORCE]LB[mf:C]AP[goproblems]
+(;W[mg];B[sf]
+(;W[se];B[rc];W[qb];B[rb];W[pb]C[Nice, black has nothing here!RIGHT])
+(;W[rf];B[rc];W[qb];B[sd];W[rb];B[sb]C[Big big ko]))
+(;W[rc];B[mg];W[mf]C[Two point worse than the solution :)])
+(;W[mf]C[This was the second best response but ok, I give you solved :)RIGHT]))

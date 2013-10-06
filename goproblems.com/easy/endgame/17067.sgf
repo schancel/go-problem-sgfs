@@ -1,0 +1,5 @@
+(;GE[endgame]DI[30k]DP[100]SO[1234boys]CO[0]SZ[4]AB[ab]AB[aa]AB[ba]AB[ca]AB[da]AB[db]AW[dc]AW[dd]AW[cd]AW[bd]AW[ad]AW[ac]AP[goproblems]
+(;B[cc]C[RIGHT])
+(;B[bc]C[RIGHT])
+(;B[bb];W[cc]MA[cb]MA[bc]C[Wrong! This is a seki!])
+(;B[cb];W[bc]MA[cc]MA[bb]C[Wrong! This is a seki!]))

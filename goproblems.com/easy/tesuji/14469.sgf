@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[4k]DP[30]SO[whendrik]CO[0]AB[br]AB[cr]AB[cq]AW[bq]AW[bp]AW[bo]AW[cp]AW[cn]AW[dn]AW[do]AW[bl]AW[bk]AW[dk]AW[el]AW[em]AB[bm]AB[cm]AB[dm]AB[dp]AB[ep]AB[gp]AB[fn]AB[en]C[Can you capture White's 7 stones?]AP[goproblems]
+(;B[bn];W[an]
+(;B[am]
+(;W[dl]C[CHOICE]
+(;B[eo];W[co]
+(;B[aq];W[cl]
+(;B[ao];W[al];B[ap]C[RIGHT])
+(;B[ap];W[al]))
+(;B[ao];W[cl]
+(;B[aq];W[al];B[ap]C[RIGHT])
+(;B[ap];W[al];B[aq]C[RIGHT]))
+(;B[ap];W[cl]
+(;B[ao];W[al];B[aq]C[RIGHT])
+(;B[aq];W[al]))
+(;B[ar];W[cl];B[ao];W[al]))
+(;B[aq];W[cl];B[ao];W[al])
+(;B[ap];W[cl];B[ao];W[al])
+(;B[ao];W[cl];B[eo];W[co];B[aq];W[al];B[ap]C[RIGHT])
+(;B[ar];W[cl];B[eo];W[co]
+(;B[ao];W[al])
+(;B[aq];W[al])))
+(;W[ap];B[eo];W[co];B[ar];W[dl];B[aq];W[cl];B[ao]C[RIGHT]))
+(;B[eo];W[am];B[co]C[White saved something...]TR[bo]TR[bp]TR[bq]TR[cp])
+(;B[ao];W[ap]
+(;B[am];W[dl]
+(;B[eo];W[co]
+(;B[ar];W[cl];B[ao]C[Ko])
+(;B[ao]C[Ko]))
+(;B[ao]C[Ko. This is a easy ko for Black, but it shouldn't be ko...]))
+(;B[eo];W[am];B[co]C[White saved something...]TR[bo]TR[bp]TR[bq]TR[cp]TR[ap])))
+(;B[aq];W[bn]TR[dm]TR[cm]TR[bm]C[The 3 black stones will be eaten. White saved his group.])
+(;B[eo];W[bn]TR[dm]TR[cm]TR[bm]C[The 3 black stones will be eaten. White saved his group.])
+(;B[am];W[bn]C[The 4 black stones will be eaten. White saved his group.]TR[dm]TR[cm]TR[bm]TR[am]))

@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[1d]DP[16]SO[guff]CO[6]AW[qq]AW[qp]AW[ro]AW[qn]AW[qm]AW[pm]AB[pn]AB[po]AB[qo]AB[pp]AB[pq]AW[pr]AW[nq]AB[om]AB[on]AB[jp]C[Black to think first before playing.]AP[goproblems]
+(;B[or];W[qr];B[oq]C[This is a mediocre result that is commonly played. Please look deeper.])
+(;B[rn];W[rp]C[Good. Note that white could not have played at A.]LB[rm:A];B[or];W[qr];B[oq]C[Correct. This sequence leaves behind aji for black to exploit later. The difference between this and the simple hane is significant in a game.RIGHT])
+(;B[mp];W[rr]C[You are too generous!])
+(;B[rp];W[rq];B[rn];W[sp];B[or];W[qr];B[oq]C[Close. But not quite.RIGHT])
+(;B[qr]C[Hmmm.... Looks fancy.];W[rr];B[or];W[qs];B[oq]C[Not too good. You could have just used the hane.])
+(;B[np];W[or]C[Nope.])
+(;B[oq];W[or]C[No!]))

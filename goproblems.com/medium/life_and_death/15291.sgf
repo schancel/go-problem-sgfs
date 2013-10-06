@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[0]AB[ar]AB[bs]AB[ds]AB[dr]AW[es]AW[er]AW[eq]AW[ep]AW[do]AW[co]AW[bo]AW[ao]C[In how many ways can B live?FORCE]LB[cm:0]LB[dm:1]LB[em:2]LB[fn:3]LB[go:4]LB[gp:5]LB[gq:6]AP[goproblems]
+(;B[gq];W[cm]C[Please demonstrate one of them :)]
+(;B[cr];W[bq];B[br]C[RIGHT])
+(;B[bq];W[cq];B[cr]C[RIGHT])
+(;B[cq]C[RIGHT])
+(;B[dq];W[bq];B[br];W[cq];B[cr]C[RIGHT])
+(;B[br];W[cq];B[cr]C[RIGHT])
+(;B[bp];W[cq]
+(;B[cr];W[bq];B[br]C[RIGHT])
+(;B[bq];W[cr])
+(;B[cp];W[cr])
+(;B[dq];W[cr])
+(;B[br];W[cr]))
+(;B[cp];W[bq]
+(;B[br];W[cr]
+(;B[cq];W[dq]
+(;B[bp];W[ap]MA[aq]MA[cs])
+(;B[cs];W[bp]))
+(;B[dq];W[cq]))
+(;B[cr];W[br])
+(;B[cq];W[br]))
+(;B[aq];W[cr]
+(;B[cq];W[dq];B[cs];W[bq])
+(;B[dq];W[cq])
+(;B[br];W[cq]))
+(;B[ap];W[bq]
+(;B[br];W[cr];B[cq];W[dq])
+(;B[cr];W[br])
+(;B[cq];W[br];B[bp];W[cp]))
+(;B[cs];W[bq])
+(;B[dp];W[bq];B[br];W[cr];B[cq];W[dq]))
+(;B[cm]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.])
+(;B[dm]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.])
+(;B[em]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.])
+(;B[fn]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.])
+(;B[go]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.])
+(;B[gp]C[The correct anwser is 6. Use 'Show Solution' -> 'Navigate Solution', following it to explore the variations.]))

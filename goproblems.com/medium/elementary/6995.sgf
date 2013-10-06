@@ -1,0 +1,174 @@
+(;GE[elementary]DI[1k]DP[20]SO[marcusb]CO[7]AW[gm]AW[hm]AW[im]AW[jm]AW[gn]AW[jn]AW[fo]AW[go]AW[ho]AW[jo]AW[dp]AW[ep]AW[jp]AW[kp]AW[eq]AW[kq]AW[dr]AW[jr]AW[kr]AW[ds]AW[ks]AB[hn]AB[in]AB[io]AB[fp]AB[gp]AB[hp]AB[ip]AB[fq]AB[iq]AB[jq]AB[er]AB[fr]AB[es]AB[is]LB[bs:A]SZ[19]C[FORCE]PL[W]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[2005-07-28]SY[Cgoban 1.9.14]TM[30:00(5x1:00)]
+(;W[hr];B[ir]LB[bs:A]C[FORCE]
+(;W[gr];B[hs]LB[bs:A]C[FORCE]
+(;W[gq];B[gs]C[The black group lives unconditionally.])
+(;W[hq];B[gs]C[The black group lives unconditionally.])
+(;W[fs];B[gs]C[The black group lives unconditionally.])
+(;W[gs];B[gq]LB[bs:A]C[FORCE]
+(;W[hq];B[fs]TR[gr]TR[hr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[hq]TR[gs]TR[gr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[bs]LB[br:A]C[FORCE]
+(;W[hq];B[fs]TR[gr]TR[hr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[hq]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[br]C[Seki! Well done.  (But remember to not give up sente needlessly.)RIGHT]))
+(;W[bs]C[Seki!  Well done.RIGHT]))
+(;W[js];B[gs]C[The black group lives unconditionally.])
+(;W[bs];B[gs]C[The black group lives unconditionally.]))
+(;W[gq];B[gs]LB[bs:A]TR[gr]TR[hs]C[The black group lives unconditionally.  White can not approach G1.])
+(;W[hq];B[gs]LB[bs:A]TR[gr]TR[hs]C[The black group lives unconditionally.  White can not approach G1.])
+(;W[fs];B[gs]LB[bs:A]TR[gr]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]LB[bs:A]TR[hq]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[gr]LB[bs:A]TR[hq]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[gs]LB[bs:A]TR[gr]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[gs]LB[br:A]TR[gr]TR[hs]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[gs];B[hr]LB[bs:A]C[FORCE]
+(;W[gq];B[gr]TR[ir]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hq];B[gr]TR[hs]TR[ir]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[gq]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]LB[bs:A]C[FORCE]
+(;W[js];B[fs]C[The black group lives unconditionally.])
+(;W[bs];B[fs]C[The black group lives unconditionally.]))
+(;W[fs];B[ir]C[The black group lives unconditionally.])
+(;W[hs];B[ir]C[The black group lives unconditionally.])
+(;W[js];B[ir]C[The black group lives unconditionally.])
+(;W[bs];B[ir]C[The black group lives unconditionally.]))
+(;W[ir];B[hs]C[FORCE]LB[bs:A]
+(;W[gq];B[gr]C[The black group lives unconditionally.])
+(;W[hq];B[gr]C[The black group lives unconditionally.])
+(;W[gr];B[gq]LB[bs:A]C[FORCE]
+(;W[js];B[fs]C[The black group lives unconditionally.])
+(;W[bs];B[fs]C[The black group lives unconditionally.]))
+(;W[fs];B[gr]C[The black group lives unconditionally.])
+(;W[js];B[gr]C[The black group lives unconditionally.])
+(;W[bs];B[gr]C[The black group lives unconditionally.]))
+(;W[fs];B[gr]TR[hs]TR[ir]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[ir]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[ir]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[ir]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[gq];B[hr]LB[bs:A]C[FORCE]
+(;W[hq];B[ir]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[gs]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]C[The black group lives unconditionally.])
+(;W[js];B[ir]C[The black group lives unconditionally.])
+(;W[bs];B[ir]C[The black group lives unconditionally.]))
+(;W[ir];B[hs]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[ir]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]C[The black group lives unconditionally.])
+(;W[fs];B[ir]C[The black group lives unconditionally.])
+(;W[hs];B[ir]C[The black group lives unconditionally.])
+(;W[js];B[ir]C[The black group lives unconditionally.])
+(;W[bs];B[ir]C[The black group lives unconditionally.]))
+(;W[hs];B[ir]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[ir]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[ir]TR[gr]TR[gs]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[hq];B[ir]LB[bs:A]C[FORCE]
+(;W[gq];B[gs]TR[gr]TR[hs]C[The black group lives unconditionally.  White can not approach the stone at G1.])
+(;W[gr];B[hr]TR[gq]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hr];B[gr]TR[gs]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[gr]TR[hr]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]TR[hr]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[gr];B[hr]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]LB[bs:A]C[FORCE]
+(;W[gq];B[gs]LB[bs:A]C[FORCE]
+(;W[js];B[hq]C[The black group lives unconditionally.])
+(;W[bs];B[hq]C[The black group lives unconditionally.]))
+(;W[hq];B[gs]LB[bs:A]C[FORCE]
+(;W[js];B[gq]C[The black group lives unconditionally.])
+(;W[bs];B[gq]C[The black group lives unconditionally.]))
+(;W[fs];B[gs]C[FORCE]LB[bs:A]
+(;W[gq];B[hq]C[The black group lives unconditionally.])
+(;W[js];B[gq]C[The black group lives unconditionally.])
+(;W[bs];B[gq]C[The black group lives unconditionally.]))
+(;W[bs];B[gq]C[The black group lives unconditionally.])
+(;W[gs];B[gq]LB[bs:A]C[FORCE]
+(;W[js];B[fs]C[The black group lives unconditionally.])
+(;W[bs];B[fs]C[The black group lives unconditionally.]))
+(;W[js];B[gq]C[The black group lives unconditionally.]))
+(;W[hs];B[gs]C[FORCE];W[ir];B[gq]C[FORCE];W[js];B[hs]C[The black group lives unconditionally.])
+(;W[gq];B[gs]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]C[The black group lives unconditionally.])
+(;W[js];B[ir]C[The black group lives unconditionally.])
+(;W[bs];B[ir]C[The black group lives unconditionally.]))
+(;W[hq];B[gs]LB[bs:A]C[FORCE]
+(;W[ir];B[hs]LB[bs:A]C[FORCE]
+(;W[js];B[gq]C[The black group lives unconditionally.])
+(;W[bs];B[gq]C[The black group lives unconditionally.]))
+(;W[js];B[ir]C[The black group lives unconditionally.])
+(;W[bs];B[ir]C[The black group lives unconditionally.]))
+(;W[fs];B[gs]TR[ir]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gq]TR[hs]TR[ir]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[ir]TR[gs]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[ir]TR[gs]TR[gq]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[ir];B[hr]LB[bs:A]C[FORCE]
+(;W[gq];B[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hq];B[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[gs]LB[bs:A]C[FORCE]
+(;W[js];B[hs]LB[bs:A]TR[gq]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[hs]TR[gq]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gq];B[hs]C[The black group lives unconditionally.]LB[bs:A])
+(;W[hq];B[gq]LB[bs:A]C[FORCE]
+(;W[js];B[hs]C[The black group lives unconditionally.])
+(;W[bs];B[hs]C[The black group lives unconditionally.])))
+(;W[fs];B[gs]C[The black group lives unconditionally.])
+(;W[gs];B[hs]C[FORCE]LB[bs:A]
+(;W[gr];B[gq]LB[bs:A]C[FORCE]
+(;W[js];B[fs]C[The black group lives unconditionally.])
+(;W[bs];B[fs]C[The black group lives unconditionally.]))
+(;W[js];B[gr]C[The black group lives unconditionally.])
+(;W[gq];B[gr]C[The black group lives unconditionally.])
+(;W[hq];B[gr]C[The black group lives unconditionally.])
+(;W[fs];B[gr]C[The black group lives unconditionally.])
+(;W[bs];B[gr]C[The black group lives unconditionally.]))
+(;W[hs];B[gs]C[The black group lives unconditionally.])
+(;W[js];B[hs]C[FORCE]LB[bs:A]
+(;W[gq];B[gr]C[The black group lives unconditionally.])
+(;W[hq];B[gr]C[The black group lives unconditionally.])
+(;W[gr];B[gs]LB[bs:A]C[FORCE]
+(;W[hq];B[gq]C[The black group lives unconditionally.])
+(;W[gq]C[];B[hq]C[The black group lives unconditionally.])
+(;W[bs];B[gq]C[The black group lives unconditionally.]))
+(;W[gs];B[gr]C[The black group lives unconditionally.])
+(;W[fs];B[gr]C[The black group lives unconditionally.])
+(;W[bs];B[gr]C[The black group lives unconditionally.]))
+(;W[bs];B[gr]TR[gs]TR[hs]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[fs];B[ir]LB[bs:A]C[FORCE]
+(;W[gq];B[gr]TR[hq]TR[hr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hq];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[hr]TR[gq]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hr];B[gr]TR[hs]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[hs];B[ir]LB[bs:A]C[FORCE]
+(;W[gq];B[gr]C[The black group lives unconditionally.  The marked points are miai.]TR[hr]TR[hq])
+(;W[hq];B[hr]C[The black group lives unconditionally.  The marked points are miai.]TR[gr]TR[gq])
+(;W[gr];B[hr]C[The black group lives unconditionally.  The marked points are miai.]TR[gq]TR[gs])
+(;W[hr];B[gr]C[The black group lives unconditionally.  The marked points are miai.]TR[hq]TR[gs])
+(;W[fs];B[gr]C[The black group lives unconditionally.  The marked points are miai.]TR[hr]TR[hq])
+(;W[gs];B[gr]C[The black group lives unconditionally.  The marked points are miai.]TR[hr]TR[hq])
+(;W[js];B[hr]C[The black group lives unconditionally.  The marked points are miai.]TR[gr]TR[gq])
+(;W[bs];B[hr]C[The black group lives unconditionally.  The marked points are miai.]TR[gr]TR[gq]))
+(;W[js];B[ir]LB[bs:A]C[FORCE]
+(;W[gq];B[gr]TR[hq]TR[hr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hq];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[hr]TR[gq]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hr];B[gr]TR[hq]TR[gs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[gr]TR[gs]TR[hr]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[bs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.]))
+(;W[bs];B[ir]LB[br:A]C[FORCE]
+(;W[gq];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hq];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gr];B[hr]TR[gs]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hr];B[gr]TR[gs]TR[hs]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[gs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[fs];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[hs];B[hr]TR[gr]TR[gq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[js];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])
+(;W[br];B[gr]TR[hr]TR[hq]C[The black group lives unconditionally.  The marked points are miai.])))

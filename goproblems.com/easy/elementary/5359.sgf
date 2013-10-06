@@ -1,0 +1,8 @@
+(;GE[elementary]DI[20k]DP[70]SO[Emile]CO[7]AB[aq]AB[cq]AB[dq]AW[ar]AW[bs]AW[cr]AW[ds]AB[eq]AB[fr]AB[fs]AB[ap]AB[bo]AB[cp]C[White to live with two eyes and without ko]AP[goproblems]
+(;W[dr];B[br];W[bq];B[bp]LB[eo:A]C[Play at A if you think you're alive without answering.]
+(;W[br]C[Very good! You're alive with two true eyes (marked with a square) and avoided a ko for your death. Go back one move and click on A for what would have happened if you ignored black's last move.RIGHT]C[Very good! You're alive with two true eyes (marked with a square) and avoided a ko for your death. See navigate for what would have happened if you ignored black's last move.RIGHT]MA[as]MA[cs])
+(;W[eo];B[br]C[You cannot capture this ko back without finding a move that threatens to get more points if I don't answer it. Since the problem was finding life without ko, this is wrong. Note that the eyes at a1 and c1 are false now.]TR[as]TR[cs]))
+(;W[br];B[dr]C[You're dead since the eye at c1 is false]TR[cs])
+(;W[er];B[dr]C[You're dead since the eye at c1 is false]TR[cs])
+(;W[bq];B[dr]C[You're dead since the eyes at c1 and b2 are false]TR[cs]TR[br])
+(;W[es];B[dr]C[You're dead since the eye at c1 is false]TR[cs]))

@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[5k]DP[32]SO[themyron]CO[0]AW[si]AW[rh]AW[qh]AW[qg]AW[pf]AW[of]AW[nf]AW[mg]AW[mh]AW[oh]AW[lj]AW[lk]AW[li]AW[ll]AW[mn]AW[mm]AW[ln]AW[no]AW[op]AW[po]AW[qn]AW[qm]AW[ql]AW[rl]AW[sm]AB[rm]AB[rn]AB[ro]AB[qo]AB[qp]AB[pq]AB[oq]AB[mq]AB[mp]AB[lo]AB[ko]AB[kn]AB[lm]AB[kl]AB[jm]AW[kk]AB[jk]AB[jj]AB[kj]AB[ih]AB[jh]AB[kh]AB[lh]AB[lg]AB[lf]AB[mf]AB[ne]AB[oe]AB[pe]AB[qf]AB[sh]AB[sg]AB[rg]AB[qe]AB[re]AB[sk]C[Black tries to invade. Defend! Thanks to MeleeNewb and Field Mouse for the correction.]AW[on]AW[om]MA[sk]AP[goproblems]
+(;W[sj];B[rk]
+(;W[qk];B[ri]C[: (])
+(;W[rj]C[CHOICE]
+(;B[qk]C[CHOICE]
+(;W[pk];B[qj]
+(;W[ri];B[sl]C[: (])
+(;W[pj];B[ri]C[: (])
+(;W[qi];B[ri]C[: (])
+(;W[sl];B[ri]C[: (]))
+(;W[qj];B[pk];W[sl]C[Excellent.RIGHT])
+(;W[sl]C[RIGHT]))
+(;B[qj];W[ri];B[qk];W[sl]C[Excellent.RIGHT]))
+(;W[qj];B[sl]C[: (]))
+(;W[rk];B[ri]
+(;W[sj];B[rj]C[: (])
+(;W[rj];B[sj]C[: (])
+(;W[sl];B[sj]C[: (]))
+(;W[sl];B[ri]
+(;W[sj];B[rj]C[: (])
+(;W[rk];B[sj]C[: (])
+(;W[rj];B[sj]C[: (])
+(;W[qi]C[: (]))
+(;W[rj];B[sl]C[: (])
+(;W[ri];B[sl]C[: (]))

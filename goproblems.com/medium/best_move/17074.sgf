@@ -1,0 +1,55 @@
+(;GE[best move]DI[3d]DP[9]SO[MurphysLaw]CO[0]AB[jr]AB[kq]AB[lq]AB[oq]AB[pr]AB[pq]AB[qq]AB[np]AB[no]AB[nn]AB[om]AB[pl]AB[ql]AB[rl]AB[qm]AB[ln]AB[lm]AB[ll]AB[ko]AB[jo]AB[jn]AB[in]AB[iq]AB[hq]AB[gq]AW[qr]AW[rs]AW[sr]AW[rq]AW[sq]AW[rp]AW[qn]AW[qo]AB[qp]AW[rn]AW[rm]AW[sn]AW[pn]AW[pm]AW[on]AW[oo]AW[op]AW[pp]AW[lo]AW[lp]AW[kp]AW[jp]AW[jq]AW[ip]AW[hp]AW[ho]AW[mq]AW[fo]AW[fp]TR[mq]C[White just played the triangled move. How does black keep everything while staying connected?]AW[fq]AP[goproblems]
+(;B[mr];W[lr];B[kr];W[nr]
+(;B[ls];W[nq]C[Black didn't have to give up the p3 group])
+(;B[nq]
+(;W[ms];B[mp];W[nm]
+(;B[os];W[ol]C[white breaks through])
+(;B[ps];W[ol]C[white breaks through])
+(;B[ol]
+(;W[ps];B[os]
+(;W[or]
+(;B[qs];W[il]LB[jl:R]C[White plays ko threat, please respond at R];B[jl];W[ps];B[mr]C[RIGHT])
+(;B[mr]C[RIGHT]))
+(;W[mn]
+(;B[qs];W[mm];B[mo];W[ps];B[mr]C[RIGHT])
+(;B[mm];W[mo];B[nl];W[or];B[qs];W[il]LB[jl:R]C[Please play at R to respond to ko threat];B[jl];W[ps];B[mr]C[RIGHT])
+(;B[mr]C[RIGHT])))
+(;W[mn]
+(;B[os];W[mm];B[mo];W[ps];B[mr]C[Captures n7 in double koRIGHT])
+(;B[ps];W[mm];B[mo]C[RIGHT]))))
+(;W[mp])))
+(;B[mp];W[mr]
+(;B[lr];W[ms]
+(;B[kr];W[nq]
+(;B[ns];W[or];B[ps];W[qs])
+(;B[os]
+(;W[nr];B[or];W[ps]C[Ko])
+(;W[ps];B[qs]C[Ko])
+(;W[ns];B[qs]C[Ko])))
+(;B[nq];W[kr];B[ks];W[ls];B[kr];W[ir])
+(;B[ls];W[ks];B[kr];W[ir];B[js];W[is]))
+(;B[kr];W[nq])
+(;B[ls]
+(;W[kr];B[lr];W[ms];B[ks])
+(;W[ms]
+(;B[nq];W[kr])
+(;B[lr];W[ks];B[kr];W[ir];B[js];W[is])
+(;B[kr];W[nq];B[os];W[ps]C[Ko])))
+(;B[ks];W[ls]))
+(;B[nq];W[mr]AW[fq]
+(;B[lr]
+(;W[ms]
+(;B[kr];W[mp]C[Black's g3 group is split])
+(;B[mp];W[kr];B[ks];W[ls];B[kr];W[ir]))
+(;W[ls];B[kr];W[mp]))
+(;B[kr];W[mp]C[Black is split!]))
+(;B[lr];W[mr];B[mp];W[ms])
+(;B[ls];W[mr]
+(;B[mp];W[ms])
+(;B[lr];W[ms];B[mp])
+(;B[kr];W[mp]
+(;B[ms];W[nq]C[Black is split!])
+(;B[nq];W[ms]C[Black is split!])))
+(;B[ks];W[mr];B[mp];W[ls]
+(;B[kr];W[nq];B[os];W[ir];B[hr];W[qs]C[Black dies])
+(;B[nq];W[kr]C[Snapback])))

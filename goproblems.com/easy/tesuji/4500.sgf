@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[15k]DP[64]SO[assacra]CO[8]AB[bb]AW[cb]AW[dc]AW[db]AW[bc]AW[ac]AB[cc]AB[cd]AB[dd]AB[ce]AB[be]AB[ae]AW[ed]AW[ee]AW[de]AW[cf]AW[bf]AW[af]AB[df]AB[dg]AB[bh]TR[cc]TR[cd]TR[dd]TR[ce]TR[be]TR[ae]C[black to save his marked stones]AP[goproblems]
+(;B[ab];W[ba]
+(;B[cg];W[aa]
+(;B[bg]C[RIGHT])
+(;B[ag]C[RIGHT]))
+(;B[bg]C[NOTTHIS])
+(;B[ag]C[NOTTHIS]))
+(;B[bd];W[ad])
+(;B[ad];W[bd])
+(;B[cg];W[ad])
+(;B[bg];W[ad])
+(;B[ag];W[ad])
+(;B[ba];W[ad]))

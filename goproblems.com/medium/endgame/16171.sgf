@@ -1,0 +1,10 @@
+(;GE[endgame]DI[2k]DP[22]SO[kmlck]CO[0]SZ[11]AW[jj]AW[kj]AW[ij]AW[hj]AW[ii]AW[ji]AW[jh]AB[ki]AB[kh]AB[kg]AB[jg]AB[ig]AB[ih]AB[hi]AB[gi]AB[gj]AW[gk]AW[fj]AB[fi]AW[ei]AW[ci]AW[di]AB[eh]AB[dh]AB[ch]AB[hh]AW[bi]AW[bh]AB[cg]AW[bg]AW[bf]AB[cf]AW[ce]AW[ia]AW[ib]AW[jb]AW[kc]AW[ka]AB[ha]AB[hb]AW[jc]AB[ic]AB[id]AB[jd]AW[kd]AW[je]AB[ie]AB[jf]AW[ke]C[White just played the numbered stone. Best endgame reduction.]AB[eb]AB[ec]AW[cd]AB[de]AB[dd]AB[ed]AW[db]AB[dc]AW[cb]AW[bc]AB[cc]AW[ad]AW[ea]LB[ea:1]AB[if]AB[df]AB[fh]AP[goproblems]
+(;B[hk]C[FORCE];W[ek]C[];B[fk]C[FORCE];W[hc]
+(;B[gk]C[FORCE];W[gb]C[Black can do much better.CHOICE])
+(;B[gb]C[FORCE];W[gk]C[Black lost the ko. Corner is alive.CHOICE]))
+(;B[ej]C[FORCE];W[fk]
+(;B[hk]C[FORCE];W[ik];B[ek]C[FORCE];W[hk];B[jk]C[Nice! White cant create ko by playing at E1 as black will simply nobi as a local threat.RIGHT])
+(;B[ek]C[FORCE];W[hk];B[jk]C[FORCE];W[dj]C[White wins the semai :(CHOICE]))
+(;B[fa]C[FORCE];W[ej];B[da]C[Black can do much better.CHOICE])
+(;B[da]C[FORCE];W[bb];B[fa]C[FORCE];W[ej]C[Black can do much better.CHOICE])
+(;B[ek]C[FORCE];W[ej]C[WrongCHOICE]))

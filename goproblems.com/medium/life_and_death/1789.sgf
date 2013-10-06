@@ -1,0 +1,41 @@
+(;GE[life and death]DI[2d]DP[12]SO[ferdi]CO[7]SZ[19]AW[ba]AW[db]AW[hb]AW[cc]AW[af]AW[df]AW[ag]AW[bg]AW[cg]AW[dg]AB[ca]AB[da]AB[fa]AB[eb]AB[ec]AB[dd]AB[fd]AB[ae]AB[ce]AB[bf]AB[cf]C[White to play]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[Weiﾃηｸ]PB[Schwarz]PL[W]
+(;W[bd];B[be]
+(;W[ab]
+(;B[ad];W[cb];B[ac];W[ea];B[bc]
+(;W[da];B[bb];W[fb]C[White is out in the open - black A16 was too ambitious  CHOICERIGHT])
+(;W[bb];B[da]))
+(;B[bb]
+(;W[cb]C[Ko! This is best for both  CHOICERIGHT])
+(;W[bc]C[Ko! This is best for both  CHOICERIGHT]))
+(;B[bc]
+(;W[ac];B[cd];W[ad];B[cb]C[CHOICE])
+(;W[bb];B[cd];W[ac];B[ad]C[CHOICE])
+(;W[cd];B[de]
+(;W[bb]C[ CHOICERIGHT])
+(;W[cb]C[ CHOICERIGHT])
+(;W[ac]C[ CHOICERIGHT])))
+(;B[cb]
+(;W[bb];B[dc]
+(;W[ad];B[bc]C[CHOICE])
+(;W[ac];B[ad]C[CHOICE])
+(;W[cd];B[ad]C[CHOICE]))
+(;W[cd];B[de];W[bb]
+(;B[dc];W[ad]C[White lives - this is worst for black  CHOICERIGHT])
+(;B[ad];W[ea];B[da]
+(;W[ca];B[dc]C[In this variation (started  with BC18) white can do better than a ko CHOICE])
+(;W[ac]C[RIGHT])))))
+(;W[cb];B[ab])
+(;W[cd];B[de];W[ab]
+(;B[ad];W[cb];B[ac];W[ea];B[bc]
+(;W[bb];B[da]C[CHOICE])
+(;W[da];B[bb];W[fb]C[White is out in the open. Black A16 was too ambitious  CHOICERIGHT]))
+(;B[cb];W[bb];B[dc];W[ad]C[White lives - this is worst for black  CHOICERIGHT])
+(;B[bb]
+(;W[bc]C[Ko! This is best for both  CHOICERIGHT])
+(;W[cb]C[Ko! This is best for both  CHOICERIGHT]))))
+(;W[cb];B[bd]
+(;W[bc];B[ab])
+(;W[ea];B[bc]))
+(;W[cd];B[de];W[bd];B[be];W[ab];B[bb]
+(;W[bc]C[Ko This is best for both RIGHT])
+(;W[cb]C[Ko This is best for both RIGHT])))

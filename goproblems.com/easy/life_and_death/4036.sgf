@@ -1,0 +1,11 @@
+(;GE[life and death]DI[7k]DP[44]SO[unkx80]CO[6]AB[dr]AB[er]AB[fr]AB[cq]AW[dq]AW[eq]AB[fq]AB[gq]AB[hs]AB[is]AW[ir]AW[jr]AW[js]AW[ks]AW[kr]AW[jq]AW[hq]AW[iq]AW[dp]AW[do]AW[fp]AW[gp]AW[hp]AW[fn]AB[cp]AB[co]AB[cn]AB[em]AB[fm]AB[gm]AW[fo]AB[kq]AB[lq]AB[lr]AB[ls]AB[jp]AB[ip]AB[hn]LB[jl:NO]C[Can white live? If not, click NO.]AB[jn]AB[jo]AW[io]AB[lo]AP[goproblems]
+(;W[jl]C[White cannot live. Please use the navigate solution feature to see why.RIGHT])
+(;W[gr]
+(;B[fs]
+(;W[hr];B[gs]C[White is dead.])
+(;W[gs];B[hr]C[White is dead.]))
+(;B[gs]C[This move is a mistake by black.];W[fs];B[es];W[hr];B[fs];W[cr]C[Although white lives, it is because black has played wrongly.]))
+(;W[gs];B[gr];W[hr];B[hs]C[White is dead.])
+(;W[hr];B[gs]
+(;W[gr];B[fs]C[White is dead.])
+(;W[fs];B[gr]C[White is dead.])))

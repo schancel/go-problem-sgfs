@@ -1,0 +1,15 @@
+(;GE[elementary]DI[20k]DP[72]SO[santa c]CO[8]AB[aq]AB[ar]AB[cq]AB[cr]AB[cs]AW[dq]AW[dr]AW[ds]AW[dp]C[Black to live...]AW[co]AW[bo]AW[ao]AP[goproblems]
+(;B[bs]
+(;W[bq];B[bp]
+(;W[cp]
+(;B[ap]C[Well done! :)RIGHT])
+(;B[br];W[ap]C[:(]))
+(;W[ap];B[cp]C[RIGHT]))
+(;W[bp];B[bq]C[RIGHT]))
+(;B[bp]
+(;W[bs];B[br]C[Well done! :)RIGHT])
+(;W[br];B[bs]C[RIGHT]))
+(;B[bq];W[bs]C[:(])
+(;B[br];W[bp]C[:(])
+(;B[cp];W[bp]C[:(]TR[bs]TR[bq])
+(;B[ap];W[bp]C[:(]TR[bq]TR[bs]))

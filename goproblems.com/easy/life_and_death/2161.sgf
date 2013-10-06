@@ -1,0 +1,47 @@
+(;GE[life and death]DI[4k]DP[30]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ea][ha][oa][eb][hb][ob][ac][bc][cc][dc][ec][hc][ic][jc][kc][lc][mc][nc][oc][af][bf][cf][qf][rf][sf][cg][dg][hg][ig][jg][kg][lg][qg][dh][gh][hh][lh][ph][di][gi][mi][pi][dj][gj][mj][pj][ck][dk][gk][mk][pk][al][bl][cl][hl][ll][ml][pl][ql][rl][sl][hm][im][jm][km][ao][bo][co][do][eo][oo][po][qo][ro][so][ep][gp][hp][ip][jp][kp][lp][mp][op][eq][gq][mq][oq][er][gr][mr][or][es][gs][ms][os]AB[da][ia][na][ab][bb][cb][db][ib][jb][kb][lb][mb][nb][ag][bg][rg][sg][bh][ch][ih][jh][kh][qh][rh][ci][hi][ii][ki][li][qi][bj][cj][hj][lj][qj][ak][bk][hk][ik][kk][lk][qk][rk][sk][il][jl][kl][ap][bp][cp][dp][pp][qp][rp][sp][aq][dq][hq][iq][jq][kq][lq][pq][sq][dr][hr][lr][pr][as][cs][ds][hs][ls][ps][qs]LB[ge:1][he:2][ie:3][je:4][ke:5][le:6][me:7][ne:8]C[click on the number that corresponds to how many of these groups you can kill with a first move as white]PL[W]
+(;W[ke]CR[ke]C[RIGHT
+]
+;B[kf]CR[kf]C[now you can play and try]
+(;W[ba]CR[ba]C[RIGHT
+black dies])
+(;W[ka]CR[ka]
+;B[la]CR[la])
+(;W[ai]CR[ai]C[RIGHT
+black dies])
+(;W[jj]CR[jj]C[RIGHT
+black dies])
+(;W[si]CR[si]C[RIGHT
+black dies])
+(;W[ri]CR[ri]
+;B[si]CR[si])
+(;W[br]CR[br]C[RIGHT
+black dies
+rabbity six])
+(;W[js]CR[js]
+;B[jr]CR[jr]
+(;W[ks]CR[ks]
+;B[is]CR[is])
+(;W[is]CR[is]
+;B[ks]CR[ks]))
+(;W[jr]CR[jr]
+;B[js]CR[js]
+;W[kr]CR[kr]
+;B[ir]CR[ir])
+(;W[rr]CR[rr]
+;B[sr]CR[sr]
+(;W[qr]CR[qr]
+;B[rs]CR[rs])
+(;W[rs]CR[rs]
+;B[qr]CR[qr]
+;W[rq]CR[rq]C[seki]))
+(;W[la]CR[la]
+;B[ka]CR[ka]))
+(;W[ge]CR[ge]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[he]CR[he]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[ie]CR[ie]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[je]CR[je]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[le]CR[le]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[me]CR[me]C[wrong number. after you get the right number, you can play with each pattern])
+(;W[ne]CR[ne]C[wrong number. after you get the right number, you can play with each pattern]))

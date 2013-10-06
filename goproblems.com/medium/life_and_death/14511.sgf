@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1k]DP[19]SO[MrMoto]CO[0]AW[bg]AW[cg]AW[ch]AW[dh]AW[di]AW[ei]AW[ej]AW[ck]AW[bk]AW[al]AB[bn]AB[bm]AB[bl]AB[cl]AB[dl]AB[dn]AB[el]AB[fk]AB[fj]AB[fi]AB[fh]AB[eg]AB[dg]AB[cf]AB[bf]AB[de]AB[af]AB[ah]AB[bh]AB[bj]C[How can white live?]AP[goproblems];W[ag];B[ai]
+(;W[aj];B[dk]
+(;W[bi];B[cj])
+(;W[cj];B[bi]))
+(;W[bi];B[ci]
+(;W[cj];B[am]
+(;W[bi]C[];B[fe]C[A good ko for white (black will need 2 threats), but you can do better.])
+(;W[aj];B[ak]C[You wasted a ko threat by throwing in at A10.]))
+(;W[aj];B[ak]C[Please continue at A.]LB[cj:A];W[cj];B[am]C[Ko, but you wasted a threat by throwing in at A10.]))
+(;W[ci];B[dk]TR[bi]TR[cj])
+(;W[cj]
+(;B[dk]C[CHOICE]
+(;W[ci];B[bi])
+(;W[aj];B[bi])
+(;W[bi];B[ci]C[If you would like to use a ko threat, please play at K.]LB[fe:K?]
+(;W[fe];B[ee]C[You don't need any external ko threats to live.])
+(;W[aj];B[ak];W[bi]C[Double ko, nice! :)RIGHT])))
+(;B[am]C[CHOICE]
+(;W[ak];B[dk];W[bi];B[ci]C[Ko, black takes first. :(])
+(;W[aj];B[ak];W[bi];B[ci]C[Ko, black takes first. :(])
+(;W[bi];B[ci]
+(;W[ak];B[dk];W[bi]C[Ko, but you could have found a better way to live.])
+(;W[aj];B[ak];W[bi]C[Ko, but you could have found a better way to live.])
+(;W[dk];B[ak];W[bi]C[Ko, but you could have found a better way to live.]))
+(;W[dk];B[ak];W[bi];B[ci]C[Ko, black takes first. :(])
+(;W[ci]TR[bi]TR[dk]C[Black cannot stop both B11 and D9. Well done! :)RIGHT]))))

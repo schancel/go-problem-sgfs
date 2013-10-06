@@ -1,0 +1,33 @@
+(;GE[elementary]DI[2d]DP[14]SO[santa c]CO[0]AB[ro]AB[rn]AB[so]AW[rm]AW[sm]AW[qn]AW[qo]AW[po]AB[qp]AB[pp]AB[pq]AB[pr]AW[op]AW[nq]AW[or]AW[os]AW[pm]AW[oo]AW[rp]AW[rq]AB[rr]C[B to move]AP[goproblems]
+(;B[sp]
+(;W[ps]
+(;B[qq]
+(;W[rs]
+(;B[qs]C[];W[qr]C[extra local threat at p3, nice! :)RIGHT])
+(;B[sq];W[qs])
+(;B[sr];W[qs]))
+(;W[qs];B[rs]C[RIGHT]))
+(;B[qs];W[sq]C[r2 turns fake])
+(;B[rs];W[sq]C[r2 remains fake])
+(;B[sr];W[rs])
+(;B[sq];W[rs])
+(;B[qr];W[qs]))
+(;W[sq];B[sr];W[sn];B[qq];W[ps];B[ro];W[rs];B[qs];W[qr]C[RIGHT])
+(;W[sn];B[qq];W[sq];B[sr]))
+(;B[sr];W[ps]
+(;B[sp])
+(;B[qs];W[sp]))
+(;B[qq]
+(;W[ps]
+(;B[sp])
+(;B[sq];W[rs];B[qs];W[qr]C[extra local threat at p3, nice! :)RIGHT])
+(;B[qs];W[sn]C[r2 remains fake])
+(;B[rs];W[sn]C[r2 remains fake])
+(;B[sr];W[qs]))
+(;W[sn];B[sp]))
+(;B[sq];W[sn])
+(;B[ps];W[sr])
+(;B[qs];W[sn]MA[qq]MA[ps])
+(;B[rs];W[sn])
+(;B[qr];W[sn])
+(;B[ss];W[sn]))

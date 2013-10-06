@@ -1,0 +1,16 @@
+(;GE[life and death]DI[5k]DP[34]SO[nutcase]CO[8]C[Black to play.]AB[na]AB[rb]AB[sc]AB[se]AB[re]AB[pd]AB[qd]AB[pf]AB[qf]AB[oc]AB[ob]AB[pb]AB[nb]AB[mb]AW[nc]AW[od]AW[sb]AW[mc]AW[lc]AW[lb]AW[la]AW[qb]AW[rd]AW[rc]AW[oe]AW[pc]AW[qc]
+(;B[ra];W[qa]
+(;B[sd];W[sa]
+(;B[rb]C[RIGHT])
+(;B[ra]C[RIGHT])
+(;B[pa];W[ma]))
+(;B[pa];W[sa]
+(;B[rb];W[ma])
+(;B[ra];W[ma])
+(;B[sd];W[ma])))
+(;B[sa];W[qa]
+(;B[pa];W[ma])
+(;B[sd];W[pa])
+(;B[sb];W[sd];B[pa];W[ra];B[sb];W[ma]))
+(;B[qa];W[ra]C[White only needs to capture one of those stones to live.]MA[sc]MA[qa])
+(;B[sd];W[ra]C[White has two eyes.]))

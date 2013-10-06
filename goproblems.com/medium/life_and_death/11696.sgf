@@ -1,0 +1,48 @@
+(;GE[life and death]DI[3d]DP[10]SO[MeleeNewb]CO[0]AB[sf]AB[rf]AB[qf]AB[pf]AB[pg]AB[pi]AB[ph]AB[pj]AB[pk]AB[pl]AB[pm]AB[qm]AB[rm]AB[sm]AW[rl]AW[ql]AW[qk]AW[qj]AW[qi]AW[qh]AW[qg]AW[rg]C[This time white is the ko master. Can you do anything? T (o11) to tenuki.FORCE]LB[ni:T]AP[goproblems]
+(;B[sh]C[];W[sg]LB[ni:T]C[T (o11) to tenuki.]
+(;B[sk];W[sl]LB[ni:T]C[T (o11) to tenuki.]
+(;B[ni];W[sj]
+(;B[rj];W[rk];B[ri]C[Sente seki (you got a move elsewhere). Good job!RIGHT])
+(;B[si];W[rj])
+(;B[ri];W[rj]))
+(;B[sj]C[Gote seki, not the best.])
+(;B[rj];W[ri];B[si]C[Gote seki, not the best.])
+(;B[si]C[Gote seki, not the best.])
+(;B[ri];W[rj];B[sj]C[Gote seki, not the best.]))
+(;B[sj];W[sk]
+(;B[sl];W[rj])
+(;B[ri];W[rj])
+(;B[si];W[rj];B[sl];W[ri])
+(;B[rj];W[ri]))
+(;B[sl];W[sk]
+(;B[sj])
+(;B[si];W[sj]))
+(;B[ni];W[sk]
+(;B[rj];W[ri])
+(;B[si];W[sj])
+(;B[sl];W[rj])
+(;B[sj];W[rj])))
+(;B[sg];W[sh]
+(;B[sl];W[sk]
+(;B[sj];W[rj])
+(;B[rj];W[ri])
+(;B[ri];W[rj])
+(;B[si];W[ri]))
+(;B[sj];W[sk]
+(;B[sl])
+(;B[rj];W[ri])
+(;B[si];W[ri]))
+(;B[si];W[ri])
+(;B[ri];W[rj])
+(;B[rj];W[ri])
+(;B[sk]C[See problem 11695]))
+(;B[si];W[sh]
+(;B[sg])
+(;B[sl];W[sk]
+(;B[sg])
+(;B[sj];W[rj])
+(;B[rj];W[ri])
+(;B[ri];W[rj]))
+(;B[sk];W[ri];B[sj];W[sl];B[sg];W[rj]))
+(;B[ri];W[rj])
+(;B[rh];W[ri]))

@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[1d]DP[17]SO[perroe2]CO[3]AB[pq]AW[qn]AW[qq]AB[pk]AB[qp]AW[pp]AB[po]AW[op]AB[rq]AW[qr]AB[qo]AW[rr]AB[mp]AW[oo]AB[pn]AW[on]AB[om]AW[mn]C[What can black do here?]AP[goproblems]
+(;B[nn]
+(;W[nm]
+(;B[oq];W[pm]
+(;B[qm];W[ol]
+(;B[rn];W[nq])
+(;B[nq];W[rn])
+(;B[np];W[rn]))
+(;B[ol];W[ro]))
+(;B[no];W[pm];B[qm];W[ol];B[oq];W[rn]))
+(;W[mo];B[no];W[np]
+(;B[nq];W[nm];B[oq];W[pm];B[qm];W[ol];B[rn];W[mq])
+(;B[nm];W[lp];B[mq];W[oq];B[lq]C[OK for black?])))
+(;B[oq];W[nm]
+(;B[nq];W[pm];B[qm];W[ol]
+(;B[rn]C[Best for black?RIGHT])
+(;B[rp]
+(;W[ql];B[rn];W[rm];B[pl]C[Big ko. Ok for black?RIGHT])
+(;W[rm];B[rn];W[ql])))
+(;B[ol];W[nq]C[Nothing gained, compared to the normal joseki])
+(;B[np];W[pm];B[qm];W[ol]
+(;B[rn]C[RIGHT])
+(;B[ql];W[rn])
+(;B[rp]
+(;W[rm];B[rn];W[ql];B[pl]C[RIGHT])
+(;W[ql];B[rn];W[rm]))))
+(;B[nq];W[oq]C[Black has a better play])
+(;B[pr];W[oq]))

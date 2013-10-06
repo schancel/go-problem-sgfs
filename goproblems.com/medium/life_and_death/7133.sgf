@@ -1,0 +1,22 @@
+(;GE[life and death]DI[2k]DP[23]SO[Trucid]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[da][ea][ab][eb][ec][dd][ed][ae][be][ce]AB[ca][bb][db][bc][dc][ad][bd]C[Black to play]
+(;B[aa]CR[aa]
+;W[ba]CR[ba]C[Ko])
+(;B[ba]CR[ba]
+;W[cc]CR[cc]C[Dead])
+(;B[cb]CR[cb]
+;W[cd]CR[cd]
+;B[aa]CR[aa]
+;W[ba]CR[ba]C[Ko])
+(;B[cc]CR[cc]
+;W[ba]CR[ba]C[Ko])
+(;B[cd]CR[cd]
+;W[cb]CR[cb]
+;B[cc]CR[cc]
+;W[ba]CR[ba]C[Ko])
+(;B[ac]CR[ac]
+;W[cc]CR[cc]
+;B[cb]CR[cb]
+;W[cd]CR[cd]
+;B[aa]CR[aa]C[RIGHT]))

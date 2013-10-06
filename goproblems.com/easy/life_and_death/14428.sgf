@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[37]SO[ottobroz]CO[0]AB[bq]AB[ar]AB[cq]AB[dq]AB[eq]AB[bp]AW[br]AW[bs]AW[er]AW[fq]AW[fp]AW[eo]AW[hq]AW[co]AW[cp]AW[bo]C[Black to play and live in the best way.]AP[goproblems]
+(;B[ds]
+(;W[ap]C[CHOICE];B[fr];W[gr];B[fs]C[Alive.RIGHT])
+(;W[fr]C[CHOICE];B[ap]C[Alive.RIGHT]))
+(;B[dr];W[fs];B[ap];W[ds]C[Dead.])
+(;B[ap];W[ds];B[fr];W[gr]
+(;B[dr];W[fs]C[Dead.])
+(;B[cs];W[cr];B[dr];W[fs]C[Dead.]))
+(;B[cr];W[ap]C[Dead.])
+(;B[fr]
+(;W[gr]
+(;B[ds];W[fs]
+(;B[ap]C[];W[dr];B[cr];W[es];B[cs]C[White's better shape after capturing the stone is balanced by the extra yose ko threat at G1 for BlackRIGHT])
+(;B[dr];W[ap]))
+(;B[ap];W[ds])
+(;B[dr];W[fs]
+(;B[ap];W[ds])
+(;B[ds];W[ap])))
+(;W[dr];B[cr];W[gr];B[ds];W[fs];B[ap]C[RIGHT]))
+(;B[es];W[fr]
+(;B[dr];W[ap]C[Dead.])
+(;B[ap];W[dr]C[Dead.]))
+(;B[cs];W[ap]C[Dead.]))

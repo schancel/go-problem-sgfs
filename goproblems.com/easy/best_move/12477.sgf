@@ -1,0 +1,47 @@
+(;GE[best move]DI[4k]DP[31]SO[dischord]CO[0]AW[hs]AW[hr]AW[hq]AB[gs]AB[gr]AB[gq]AB[hp]AB[ip]AW[jr]AW[lo]AW[no]AW[pp]AW[po]MA[hq]MA[hr]MA[hs]C[Can black kill these? If yes, try. If not, tenuki at T.]LB[gp:T]AP[goproblems]
+(;B[jq];W[kr];B[ir]
+(;W[is]C[White dies if she plays like this.]
+(;B[js];W[ks];B[iq];W[js];B[lq];W[mr];B[lr];W[ls]
+(;B[kq];W[ms];B[nq];W[or];B[nr];W[ns]
+(;B[oq];W[pr]
+(;B[os];W[ps]LB[mq:A]C[To simplify thingsFORCE];B[mq];W[os];B[pq];W[qr];B[qq];W[rr];B[rq]C[])
+(;B[pq];W[qr];B[qq];W[rr];B[os];W[ps]
+(;B[mq];W[os])
+(;B[rq];W[mq];B[mp];W[os]
+(;B[lp]C[])
+(;B[np]C[]))))
+(;B[mq];W[os]
+(;B[pq];W[oq];B[op];W[pr])
+(;B[oq];W[pr];B[pq];W[qr];B[qq];W[rr])))
+(;B[mq];W[nr];B[ms];W[ns]LB[kq:A]C[Just to simplify thingsFORCE];B[kq];W[ms];B[oq];W[nq];B[np];W[op])
+(;B[nq];W[or]
+(;B[nr];W[ns]
+(;B[oq];W[pr]LB[kq:A]C[Just to simplifyFORCE];B[kq];W[ms]
+(;B[os])
+(;B[mq];W[os];B[pq];W[qr]))
+(;B[kq];W[ms]
+(;B[mq];W[os];B[oq];W[pr];B[pq])
+(;B[oq];W[pr];B[os];W[ps]))
+(;B[mq];W[os]
+(;B[ms]C[])
+(;B[kq];W[ms])))
+(;B[kq];W[ms];B[nr];W[ns])))
+(;B[iq];W[js]
+(;B[lq]C[];W[lr]
+(;B[mq];W[mr]
+(;B[nr];W[or]
+(;B[nq];W[ns];B[oq];W[pr];B[pq];W[qq])
+(;B[ns];W[nq];B[oq];W[np];B[pr];W[kq]))
+(;B[nq];W[or];B[nr];W[ns];B[oq];W[pr];B[pq];W[qq]
+(;B[qr];W[rr];B[qp];W[rq])
+(;B[qp];W[rq])))
+(;B[mr];W[kq];B[kp];W[mq]))
+(;B[kq];W[lr])))
+(;W[js]C[CHOICE];B[iq];W[is]))
+(;B[iq];W[ir];B[kq];W[kr];B[lq];W[mr])
+(;B[ir];W[iq];B[jq];W[is])
+(;B[kq];W[jq];B[jp];W[kr];B[lq];W[mr])
+(;B[lq];W[jq];B[kp];W[lr];B[mr];W[kq]
+(;B[lp];W[ks])
+(;B[mq];W[ks]))
+(;B[gp]C[Yup.RIGHT]))

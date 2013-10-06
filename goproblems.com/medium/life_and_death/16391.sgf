@@ -1,0 +1,19 @@
+(;GE[life and death]DI[3d]DP[10]SO[piccolo]CO[0]AW[ra]AW[rb]AW[qb]AW[pb]AW[qd]AW[qe]AB[sf]AB[rf]AB[qf]AB[pf]AB[pd]AB[od]AB[oc]AB[ob]C[Black to get the best result (kill > ko > seki > alive).]AP[goproblems]
+(;B[sd]
+(;W[sc]C[CHOICE]
+(;B[sb];W[rc];B[pa];W[pc];B[rd]C[RIGHT])
+(;B[rc];W[sb]TR[pa]TR[rd]C[Miai.])
+(;B[rd];W[pa]))
+(;W[rd];B[sb];W[rc];B[sc]TR[pa]TR[pc])
+(;W[pa];B[sb];W[rc];B[sc]TR[pc]TR[rd]))
+(;B[sc];W[rc]
+(;B[sd];W[sb];B[pa];W[rd]TR[pc]TR[se]C[Miai.])
+(;B[rd];W[sb];B[pa];W[re]))
+(;B[rc];W[rd]
+(;B[sd];W[qc]
+(;B[sb];W[sa];B[sc];W[se];B[sc];W[pa];B[sd];W[re])
+(;B[sc];W[sb];B[se];W[pa]))
+(;B[sc];W[sd];B[sb];W[pa];B[qc];W[pc]))
+(;B[sb];W[sd];B[re];W[rd];B[pa];W[sc];B[pc];W[qc])
+(;B[rd];W[rc];B[pa];W[re])
+(;B[pc];W[sb];B[pa];W[sd]))

@@ -1,0 +1,76 @@
+(;GE[elementary]DI[2d]DP[12]SO[santa c]CO[8]AW[rq]AW[qr]AW[qp]AW[bk]AW[ak]AW[cj]AW[ci]AW[ch]AW[cg]AB[bj]AB[bi]AB[bh]AB[bg]AW[bf]AW[af]AW[cf]AB[ck]AB[cl]AB[bl]AW[al]AW[am]AW[an]AW[ao]AW[ap]AW[aq]AB[aj]AB[ah]AB[bq]AB[bp]AB[bn]AB[bm]AB[bo]AW[ar]AB[as]AB[bs]AB[ds]AB[cs]AB[es]AB[gs]AB[fs]AB[hs]AB[is]AB[js]AB[ls]AB[ks]AB[ms]AB[ns]AB[os]AB[ps]AB[qs]AB[rs]AB[rr]AB[sr]AW[br]AW[cr]AW[dr]AB[cq]AB[pf]AW[pe]AW[od]AW[qh]AB[qi]AW[qj]AW[rk]AB[ql]AW[rm]AW[rj]AW[pm]AW[qg]AW[cp]AW[co]AW[cm]AW[cn]AW[dm]LB[ap:..]LB[ao:..]C[Capture the snake =) (Pssst - It has to be a ladder else wA13...)]AW[dc]LB[bk:S]LB[ak:n]LB[al:a]LB[am:k]LB[an:e]LB[aq:S]LB[ar:n]LB[br:a]LB[cr:k]LB[dr:e]AP[goproblems]
+(;B[dq];W[er]
+(;B[fr];W[eq];B[ep];W[fq]
+(;B[gq];W[fp];B[fo];W[gp];B[hp];W[go];B[gn];W[ho];B[io];W[hn];B[hm];W[in];B[jn];W[im];B[il];W[jm];B[km];W[jl];B[jk];W[kl];B[ll];W[kk];B[kj];W[lk];B[mk];W[lj];B[li];W[mj];B[nj];W[mi];B[mh];W[ni];B[oi];W[nh];B[ng];W[oh]
+(;B[ph];W[og]
+(;B[pg];W[of]C[The ladder fails! :(])
+(;B[of];W[pg]C[The ladder fails! :(]))
+(;B[og];W[ph]C[The ladder fails! :(]))
+(;B[fp];W[gq]C[The ladder fails! :(]))
+(;B[eq];W[fr]
+(;B[gr];W[fq];B[fp];W[gq]
+(;B[hq];W[gp];B[go];W[hp];B[ip];W[ho];B[hn];W[io];B[jo];W[in];B[im];W[jn];B[kn];W[jm];B[jl];W[km];B[lm];W[kl];B[kk];W[ll];B[ml];W[lk];B[lj];W[mk];B[nk];W[mj];B[mi];W[nj];B[oj];W[ni];B[nh];W[oi]
+(;B[pi];W[oh];B[og];W[ph]C[The ladder fails! :(])
+(;B[oh];W[pi]C[The ladder fails! :(]))
+(;B[gp];W[hq]C[The ladder fails! :(]))
+(;B[fq];W[gr]
+(;B[hr];W[gq];B[gp];W[hq]
+(;B[iq];W[hp];B[ho];W[ip];B[jp];W[io];B[in];W[jo];B[ko];W[jn];B[jm];W[kn];B[ln];W[km];B[kl];W[lm];B[mm];W[ll];B[lk];W[ml];B[nl];W[mk];B[mj];W[nk];B[ok];W[nj];B[ni];W[oj];B[pj];W[oi]
+(;B[oh];W[pi];B[ph]C[Wooooohoooooo! ^_^RIGHT])
+(;B[pi];W[oh]C[The ladder fails! :(]))
+(;B[hp];W[iq]C[The ladder fails! :(]))
+(;B[gq];W[hr]
+(;B[ir];W[hq];B[hp];W[iq]
+(;B[jq];W[ip];B[io];W[jp];B[kp];W[jo];B[jn];W[ko];B[lo];W[kn];B[km];W[ln];B[mn];W[lm];B[ll];W[mm];B[nm];W[ml];B[mk];W[nl];B[ol];W[nk];B[nj];W[ok]
+(;B[pk];W[oj]
+(;B[oi];W[pj]C[The ladder fails! :(])
+(;B[pj];W[oi]C[The ladder fails! :(]))
+(;B[oj];W[pk]C[The ladder fails! :(]))
+(;B[ip];W[jq]C[The ladder fails! :(]))
+(;B[hq];W[ir]
+(;B[jr];W[iq];B[ip];W[jq]
+(;B[kq];W[jp];B[jo];W[kp];B[lp];W[ko];B[kn];W[lo];B[mo];W[ln];B[lm];W[mn];B[nn];W[mm];B[ml];W[nm];B[om];W[nl];B[nk];W[ol]
+(;B[pl];W[ok];B[oj];W[pk]C[The ladder fails! :(])
+(;B[ok];W[pl]C[The ladder fails! :(]))
+(;B[jp];W[kq]C[The ladder fails! :(]))
+(;B[iq];W[jr]
+(;B[kr];W[jq];B[jp];W[kq]
+(;B[lq];W[kp];B[ko];W[lp];B[mp];W[lo];B[ln];W[mo];B[no];W[mn];B[mm];W[nn];B[on];W[nm]
+(;B[nl];W[om]C[The ladder fails! :(])
+(;B[om];W[nl]C[The ladder fails! :(]))
+(;B[kp];W[lq]C[The ladder fails! :(]))
+(;B[jq];W[kr]
+(;B[lr];W[kq];B[kp];W[lq]
+(;B[mq];W[lp];B[lo];W[mp];B[np];W[mo];B[mn];W[no];B[oo];W[nn];B[nm];W[on]C[The ladder fails! :(])
+(;B[lp];W[mq]C[The ladder fails! :(]))
+(;B[kq];W[lr]
+(;B[mr];W[lq];B[lp];W[mq];B[nq];W[mp];B[mo];W[np];B[op];W[no];B[nn];W[oo];B[po];W[on]C[The ladder fails! :(])
+(;B[lq];W[mr]
+(;B[nr];W[mq];B[mp];W[nq]
+(;B[oq];W[np];B[no];W[op];B[pp];W[oo]
+(;B[on];W[po]C[The ladder fails! :(])
+(;B[po];W[on]C[The ladder fails! :(]))
+(;B[np];W[oq]C[The ladder fails! :(]))
+(;B[mq];W[nr]
+(;B[or];W[nq];B[np];W[oq]
+(;B[pq];W[op]
+(;B[oo];W[pp]C[The ladder fails! :(])
+(;B[pp];W[oo]C[The ladder fails! :(]))
+(;B[op];W[pq]C[The ladder fails! :(]))
+(;B[nq];W[or]
+(;B[pr];W[oq]
+(;B[op];W[pq]
+(;B[pp];W[qq]C[The ladder fails! :(])
+(;B[qq];W[pp]C[The ladder fails! :(]))
+(;B[pq];W[op]C[The ladder fails! :(]))
+(;B[oq];W[pr]
+(;B[pp];W[qq]C[The ladder fails! :(])
+(;B[qq];W[pq];B[pp];W[qq]C[The ladder fails! :(])
+(;B[pq];W[qq]C[The ladder fails! :(])))))))))))))
+(;B[er];W[dq]
+(;B[eq];W[dp]C[The ladder fails! :(])
+(;B[dp];W[eq]
+(;B[ep];W[fq]C[The ladder fails! :(])
+(;B[fq];W[ep]
+(;B[fp];W[eo]C[The ladder fails! :(])
+(;B[eo];W[do];B[fp];W[dp]C[The ladder fails! :(])))))

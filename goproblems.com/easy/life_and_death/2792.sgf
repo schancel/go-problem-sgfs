@@ -1,0 +1,63 @@
+(;GE[life and death]DI[7k]DP[42]SO[santa c]CO[8]SZ[9]AW[eb]AW[fb]AW[hb]AW[ib]AW[fc]AW[gc]AW[bf]AW[cf]AW[df]AW[ef]AW[bg]AW[eg]AW[fg]AW[fh]AW[gh]AB[cb]AB[db]AB[dc]AB[ec]AB[hc]AB[ed]AB[fd]AB[gd]AB[hd]AB[cg]AB[dg]AB[ah]AB[bh]AB[dh]AB[eh]LB[bd:S]LB[cg:o]LB[dg:o]LB[ah:o]LB[bh:o]LB[dh:o]LB[eh:o]C[Is the marked group alive as it stands? If so, play at 'S' and prove that it is safe
+otherwise try to kill the white group on the top!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[B]
+(;B[bd]
+(;W[ei]C[CHOICE]
+(;B[di]C[This is a bad move, since a white play at C1, would kill the group! Hoping to get a bigger territoy(by 1), causes ,the loss of all of it..];W[ci]
+(;B[ch];W[bi]C[Black is dead! - He can't have 2 eyes! CHOICE])
+(;B[bi];W[ch]C[Black is dead!])
+(;B[fi];W[bi]LB[ei:2]C[Black is dead! - He can't have 2 eyes!]))
+(;B[bi]C[This is wrong, as a white D1 would take away the hope, for a second eye..!];W[di];B[ci];W[fi]LB[ch:2]LB[ai:1]C[Black is dead! '2' is a false eye!])
+(;B[ch]C[Wrong - White B1, kills!];W[bi]C[Black can't get 2 eyes, now...])
+(;B[ci];W[fi];B[di]LB[ch:2]LB[ai:1]LB[bi:1]C[Black has 2 eyes, nice! RIGHT]))
+(;W[di]C[CHOICE]
+(;B[ch]C[Guh, what for? White B1 kills - It denies the creation of 2 eyes..];W[bi]
+(;B[ci];W[ei];B[fi];W[ei];B[di]LB[ai:1]LB[bi:1]LB[ei:2]C['2' is a false, eye, therefore, black is dead! CHOICE])
+(;B[ei];W[ci];B[ai];W[ci]C[Still no chance for 2 eyes!])
+(;B[ai];W[ei];B[ci];W[fi]LB[bi:1]C[Okie, lets count the eyes... 1... That's it?! - You're disappointing me!]))
+(;B[bi]C[And if white follows with E1? Ohh, I see, you're a beliver... You belive, that your oppoments, will always be 30ks... Stop messing around!];W[ei];B[ci]LB[ch:2]LB[ai:1]C[I think, black is still dead - Why? Isn't '2' a false eye? Yup! (Actually, because It's whites turn and he'd play there, for sure, or else, black would live!)])
+(;B[ci]LB[ch:2]LB[ai:1]LB[bi:1]LB[ei:A]LB[fi:B]C[Yes - It's alive! (It has 2 eyes! And in order, to make '2' a false eye, he'd need to play bot at 'A' and 'B' - Black would not allow this.) RIGHT])
+(;B[ei]C[Any move, would be clearly suicudal... Just gives, away points.. Not that the attack had a chance, in the first place..]
+(;W[ci]
+(;B[ch];W[bi]C[Black is dead! - He can't have 2 eyes! CHOICE])
+(;B[bi]C[Black has 2 eyes, nice!  CHOICERIGHT]))
+(;W[bi]
+(;B[ch];W[ci]C[Black is dead! - He can't have 2 eyes! CHOICE])
+(;B[ci]C[Black has 3 eyes, nice! (And a total of 6 points..)  CHOICERIGHT]))
+(;W[fi]
+(;B[bi];W[ch]C[Whow! (Black is dead!) CHOICE])
+(;B[ci]C[Black has 3 eyes, nice!  CHOICERIGHT]))))
+(;W[ci]C[CHOICE]PL[B]
+(;B[ei]C[White B1 kills..];W[bi]C[Phew, what's this smell? Ohh.. It's the roting, black group.. CHOICE])
+(;B[di]C[White B1 kills..];W[bi]C[Phew, what's this smell? Ohh.. It's the roting, black group..])
+(;B[ch]C[White B1 kills..];W[bi]C[Black won't be having 2 eyes, now, eh? Or am I wrong?]
+(;B[ei]LB[bi:x]LB[ci:x]C[Both, points, which could give life, are caught by white already... It's DEAD! CHOICE])
+(;B[di]C[Hoping, to achive, what exacly? Even if you, take A1, u still will have only one eye! CHOICE])
+(;B[ai]C[Don't you think, that it's a wasted, move? Black is dead, and White has sente... CHOICE]))
+(;B[bi]C[This is great ;) It's the only move, that can save, after,  wC1 attack... Nice! (And thanks, to OZhu for the correct following variation!)];W[ei]
+(;B[di];W[ch]C[Black is dead..!])
+(;B[ch]LB[di:B]LB[fi:A]C[Black lives! (If white tries to approach by 'A', a black 'B' would solve the problem. ;) (Variation, suggested, by OZhu) RIGHT])))
+(;W[bi]C[CHOICE]
+(;B[ei]C[Bad choice! White C1 kills...];W[ci]C[Can't get, 2 eyes now, can you? CHOICE])
+(;B[di]C[Bad choice! White C1 kills...];W[ci]C[Can't get, 2 eyes now, can you?])
+(;B[ch]C[Bad choice! Black is doomed!]
+(;W[ei]C[Black can't get 2 eyes.. CHOICE])
+(;W[di]C[Black can't get 2 eyes.. CHOICE])
+(;W[ci]C[Black can't get 2 eyes.. CHOICE]))
+(;B[ci]LB[ch:2]LB[ai:1]LB[bi:1]LB[di:A]LB[ei:B]LB[fi:C]C[Nice, black has 2 eyes... (To deny black from his 2 eyes, white should play at 'A', 'B' and 'C' simultaniusly!) RIGHT]))
+(;W[ch]LB[bi:1]LB[ci:2]LB[di:3]LB[ei:4]C[I didn't add it into the actuall playable variations, as any of the 'obvious' 4 locations, giveslife.]))
+(;B[ea];W[ga]LB[da:A]LB[fa:B]LB[ha:1]LB[ia:1]LB[gb:2]C[Black can't take away the 2 eyes! (If he tries to approach by 'A', a white 'B' should solve the problem..)])
+(;B[fa]
+(;W[ga]LB[ha:1]LB[ia:1]LB[gb:2]C[White, clearly, has 2 eyes, and black can do nothing about it... CHOICE])
+(;W[ea]LB[ga:x]LB[ha:x]C[White lives - Black cannot prevent it, as 2 locatinos, can give life.. CHOICE]))
+(;B[ga];W[ha]LB[ea:x]LB[fa:x]C[White lives - Black cannot prevent it, as 2 locatinos, can give life..])
+(;B[gb]
+(;W[ea]LB[ga:x]LB[ha:x]C[White lives - Black cannot prevent it, as 2 locatinos, can give life.. CHOICE])
+(;W[fa]LB[ga:x]LB[ha:x]C[White lives - Black cannot prevent it, as 2 locatinos, can give life.. CHOICE])
+(;W[ga]LB[da:A]LB[ea:B]LB[fa:C]LB[ha:1]LB[ia:1]LB[gb:2]C[2 eyes.. (Impossible to saperate, black has to play 'A', 'B' and 'C' to do so.) CHOICE])
+(;W[ha]LB[ea:x]LB[fa:x]LB[ga:x]C[White lives - Black cannot prevent it, as 3 locatinos, can give life.. CHOICE]))
+(;B[ha];W[ga]LB[da:A]LB[ea:B]LB[fa:C]LB[ha:1]LB[ia:1]LB[gb:2]C[2 eyes.. (Impossible to saperate, black has to play 'A' and 'B' and 'C' to do so.)])
+(;B[ia]
+(;W[ha]LB[ea:x]LB[fa:x]C[White lives - Black cannot prevent it, as 3 locatinos, can give life.. CHOICE]LB[ga:x])
+(;W[ga]LB[da:A]LB[ea:B]LB[fa:C]LB[ha:1]LB[ia:1]LB[gb:2]C[2 eyes.. (Impossible to saperate, black has to play both 'A', 'B' and 'C' to do so.) CHOICE])
+(;W[fa]LB[ga:x]LB[ha:x]C[White lives - Black cannot prevent it, as 2 locatinos, can give life.. CHOICE])
+(;W[ea]LB[fa:x]LB[ga:x]LB[ha:x]LB[gb:x]C[White lives - Black cannot prevent it, as 4 locatinos, can give life.. (This is the best way to react - biggest territory) CHOICE])))

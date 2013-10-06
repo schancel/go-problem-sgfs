@@ -1,0 +1,66 @@
+(;GE[endgame]DI[2k]DP[23]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[ka][la][kb][kc][kd][ld][md][qd][me][ne][oe][re][se][mf][pf][qf][rf]
+AB[ma][lb][mb][lc][mc][pc][nd][od][rd][sd][pe][qe]LB[qd:1]
+C[yose: white has played 1. what is black's best response?
+]
+(;B[qc];W[pd]
+(;B[oc];W[rc];B[rb];W[sb]
+C[black needs another move eventually, so this isn't best
+])
+
+(;B[rc];W[oc];B[ob];W[nc];B[nb]
+C[not best -- black loses four stones and sente
+])
+)
+
+(;B[pd];W[qc]
+(;B[qb];W[rc];B[rb]
+C[RIGHT
+optimal play considering points and optional sente
+])
+
+(;B[rc];W[qb]
+(;B[pb];W[rb])
+
+(;B[rb];W[ob]
+(;B[nc];W[pb]
+(;B[qa];W[pa]
+(;B[ra];W[sb]
+(;B[nb];W[sa];B[sc];W[sa])
+
+(;B[oc];W[sc];B[sa];W[sb])
+)
+
+(;B[nb];W[ra];B[sb];W[qa])
+)
+
+(;B[ra];W[sb]
+(;B[nb];W[qa];B[oa];W[sa];B[sc];W[sb])
+
+(;B[oa];W[qa];B[nb];W[sa];B[sc];W[sa])
+
+(;B[oc];W[qa];B[nb];W[sc];B[sa];W[sb])
+)
+)
+
+(;B[pb];W[nc]C[black can't save the five stones
+]
+(;B[oa];W[na])
+
+(;B[oc];W[pa])
+
+(;B[nb];W[na])
+)
+
+(;B[nb];W[pb])
+)
+)
+)
+
+)

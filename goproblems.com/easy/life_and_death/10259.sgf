@@ -1,0 +1,11 @@
+(;GE[life and death]DI[10k]DP[51]SO[Akira V.S. Hikaru]CO[5]AB[pd]AB[qd]AB[rd]AB[rf]AB[oc]AB[nc]AB[mc]AB[mb]AB[ma]AB[na]AW[nb]AW[ob]AW[pa]AW[qb]AW[pc]AW[qc]AW[rc]C[Try to kill white.FORCE]AP[goproblems]
+(;B[oa];W[ra]C[If black plays atari at 1 white lives at 2. if black takes the to stones, white will take blacks stone in a snapback.])
+(;B[ra]LB[oa:A]LB[qa:B]C[Black 1 is on a pivot and kills white because A and B are miai.RIGHT])
+(;B[sc];W[sb];B[ra];W[oa];B[qa]C[RIGHT])
+(;B[sb];W[sc]
+(;B[ra];W[rb];B[oa];W[sa])
+(;B[oa];W[ra];B[pb];W[ob]))
+(;B[qa];W[ra])
+(;B[rb];W[ra];B[sb];W[sc])
+(;B[sa];W[ra];B[sb];W[sc])
+(;B[sd];W[ra]))

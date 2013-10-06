@@ -1,0 +1,16 @@
+(;GE[elementary]DI[15k]DP[63]SO[chipuni]CO[7]SZ[9]AW[ga]AW[gb]AW[gc]AW[gd]AW[ee]AW[he]AW[cf]AW[df]AW[ef]AW[ff]AW[cg]AW[gg]AW[ch]AW[fh]AW[ci]AB[fa]AB[fb]AB[fc]AB[dd]AB[ed]AB[fd]AB[be]AB[ce]AB[de]AB[fe]AB[ge]AB[bf]AB[bg]AB[bh]AB[bi]C[What move lets black win this game?]
+(;B[hf]
+(;W[gf]C[CHOICE];B[hd]C[You have successfully cut White, and her upper-right corner will be captured.  Well done! RIGHT])
+(;W[hd]C[CHOICE];B[gf]C[You have successfully cut White, and her position will soon be in shambles.  Well done! RIGHT]))
+(;B[hd];W[hc]
+(;B[hf]C[You've found the alternate solution!RIGHT])
+(;B[id];W[ie]C[You don't need to sacrifice stones to solve this problem.]))
+(;B[gf];W[hf]C[White wins, 26 to 23.])
+(;B[ie];W[id]
+(;B[hf];W[if]
+(;B[hg];W[gf]C[White will eventually capture the pieces at H3 and H4, and win the game.])
+(;B[gf];W[hg]C[With the capture, white still wins the game 24 to 23.]))
+(;B[if];W[hf]C[White easily catches these stones])
+(;B[ic];W[if]C[You're creative, but on the wrong track.])
+(;B[gf];W[hf]C[White wins the game.]))
+(;B[id];W[hf]C[White wins, 27 to 23.]))

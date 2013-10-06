@@ -1,0 +1,12 @@
+(;GE[elementary]DI[5k]DP[35]SO[tom111]CO[7]AW[fa]AW[fb]AW[fc]AW[gd]AW[ge]AW[he]AW[ie]AW[je]AW[kd]AW[ld]AW[lc]AW[lb]AB[kb]AB[kc]AB[jc]AB[jd]AB[id]AB[hc]AB[hd]AB[gc]AB[gb]AB[ga]AW[hb]AW[ib]AB[ia]C[Black to play and live]AP[goproblems]
+(;B[ka]C[];W[me]LB[gf:2]LB[hf:5]LB[if:7]LB[jf:9]LB[kf:11]C[Correct, later K18 is an endgame move. But how big is it ?]LB[ff:-1]
+(;B[ff]C[No, Playing K18 prevents or makes a Seki, it is worth some points])
+(;B[gf]C[To few, count again])
+(;B[hf]C[No, count again])
+(;B[if]C[Correct. Preventing or making the Seki is worth 7 Points ( in double gote)  Actually it could be worth a bit more depending on the right side, because after white makes the Seki M19 now is a Sente move for white.RIGHT])
+(;B[jf]C[Uhm, no! Please count again])
+(;B[kf]C[Where should 11(!) points come from ??]))
+(;B[jb];W[ka]C[Black dies :(])
+(;B[ha];W[ka]C[Black dies :(])
+(;B[ja]C[Arghl! Black just died, and white does not need to add a move :(])
+(;B[ic]C[];W[ka]C[Black is dead :(]))

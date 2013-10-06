@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[43]SO[maba]CO[6]AW[qa]AW[rb]AW[rc]AW[rd]AW[re]AW[pb]AW[qc]AB[qe]AB[qd]AB[pd]AB[pc]AB[ob]AB[nc]AB[nd]AB[mb]AB[ma]AW[lb]AW[mc]AW[md]AW[ld]AW[me]AW[ne]AW[mf]AW[mg]AB[nf]AB[oe]AB[of]AB[ng]AW[mh]AW[nh]AW[oh]AW[og]AW[ph]AW[qf]C[If you think black is unconditionally alive, play at T. If you think white can kill, then kill black.]LB[rh:T]AP[goproblems]
+(;W[pf]
+(;B[oa]
+(;W[od]
+(;B[oc]C[CHOICE];W[pe]C[RIGHT])
+(;B[pe]C[CHOICE];W[oc]C[RIGHT]))
+(;W[pe];B[od])
+(;W[la];B[pe]))
+(;B[pe];W[oa]C[RIGHT]))
+(;W[oa];B[pf])
+(;W[rh]C[Black can be killed.])
+(;W[na];B[oa])
+(;W[oc];B[oa])
+(;W[od];B[pf]))

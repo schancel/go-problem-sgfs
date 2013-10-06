@@ -1,0 +1,25 @@
+(;GE[best move]DI[3d]DP[9]SO[Sestir]CO[0]AB[fb]AB[eb]AB[ec]AB[ed]AB[ee]AB[ef]AB[fg]AB[fh]AB[eh]AB[dh]AB[ch]AB[cg]AB[bh]AW[ff]AW[fe]AW[fd]AW[fc]AW[gg]AW[hc]AW[hb]AW[eg]AW[dg]AW[df]AW[cf]AW[dd]AW[dc]AW[db]AW[bg]C[Black to reduce the corner in sente. The initiative is worth 20 points.FORCE]AP[goproblems]
+(;B[de];W[ce]
+(;B[cd];W[bd]
+(;B[be]
+(;W[cc];B[bf]C[Perfect!CHOICERIGHT])
+(;W[bf];B[cc];W[cb];B[bc];W[ae];B[bb]C[Perfect!CHOICERIGHT]))
+(;B[cc];W[cb]
+(;B[be];W[bc];B[bf]C[Good!RIGHT])
+(;B[bc];W[bb]
+(;B[be];W[ac];B[bf]C[RIGHT])
+(;B[ac];W[be]))))
+(;B[be];W[cd]C[gote])
+(;B[bd];W[cd]C[gote])
+(;B[bf];W[be]C[gote]))
+(;B[be];W[de]
+(;B[bf]C[];W[hh]C[Really nice reduction! However, if the initiative is worth 20p, it is just a very nice gote sequence.CHOICE])
+(;B[ag];W[bf];B[af]C[];W[hh]C[gote]))
+(;B[bf];W[be]
+(;B[ag];W[hh]C[White will tenuki.])
+(;B[ce];W[de];B[ag];W[hh]C[White will tenuki.]))
+(;B[ce];W[de];B[bf];W[be])
+(;B[ae];W[hh]C[gote])
+(;B[bd];W[cd];B[bf];W[be];B[ag];W[hh]C[White will tenuki.])
+(;B[ag];W[hh]C[gote])
+(;B[af];W[hh]C[gote]))

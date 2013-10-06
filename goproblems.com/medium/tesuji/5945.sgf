@@ -1,0 +1,61 @@
+(;GE[tesuji]DI[2d]DP[13]SO[santa c]CO[5]AW[fr]AW[fq]AB[er]AB[es]AW[hq]AW[hr]AW[eq]AB[dq]AB[dr]AB[ep]AB[dp]AB[fp]AB[gp]AB[hp]AB[iq]AB[ir]AW[ip]AW[jp]AW[jq]AW[kr]C[How many ways to capture something?FORCE]LB[bp:1]LB[bq:2]LB[br:3]AP[goproblems]
+(;B[br]C[];W[bp]C[Well done! Well all that's left is to... Capture something :)FORCE]
+(;B[hs];W[jr]
+(;B[gr]
+(;W[is];B[gq]C[Well done! :)RIGHT])
+(;W[gq];B[fs]C[RIGHT]))
+(;B[gs];W[is]C[:(])
+(;B[fs];W[is]C[:(])
+(;B[gq];W[gr]C[:(])
+(;B[is];W[js]
+(;B[gr]
+(;W[gs];B[gq]C[Well done! :)RIGHT])
+(;W[gq];B[fs]C[RIGHT]))
+(;B[gs];W[fs]C[:(])
+(;B[fs];W[gs]C[:(])
+(;B[gq];W[gr]C[:(])))
+(;B[fs];W[is]
+(;B[gr]
+(;W[jr];B[gq]C[Well done! :)RIGHT])
+(;W[gq];B[hs]C[RIGHT]))
+(;B[gq];W[gr]C[:(]))
+(;B[is];W[js]
+(;B[hs];W[jr]
+(;B[gr]
+(;W[gs];B[gq]C[Well done! :)RIGHT])
+(;W[gq];B[fs]C[RIGHT]))
+(;B[gs];W[fs]C[:(])
+(;B[fs];W[gs]C[:(])
+(;B[gq];W[gr]C[:(]))
+(;B[fs];W[jr]
+(;B[gr]
+(;W[hs];B[gq]C[Well done! :)RIGHT])
+(;W[gq];B[hs]C[RIGHT]))
+(;B[gq];W[gr]C[:(])
+(;B[gs];W[hs]C[:(])
+(;B[hs];W[gs]C[:(]))
+(;B[gq];W[gr]C[:(])
+(;B[gr];W[gq]
+(;B[fs];W[gs]C[:(])
+(;B[gs];W[jr]C[:(])
+(;B[hs];W[gs]C[:(]))
+(;B[gs];W[jr]C[:(]))
+(;B[gq];W[gr]C[:(])
+(;B[gr];W[gq]
+(;B[hs];W[gs]
+(;B[is];W[js]C[:(])
+(;B[fs];W[is]C[:(])
+(;B[js];W[jr]C[:(]))
+(;B[gs];W[is]C[:(])
+(;B[fs];W[gs]
+(;B[is];W[js]C[:(])
+(;B[js];W[jr]C[:(]))
+(;B[is];W[js]
+(;B[gs];W[jr]C[:(])
+(;B[hs];W[gs]C[:(])
+(;B[fs];W[gs]C[:(])))
+(;B[gs];W[is]C[:(])
+(;B[jr];W[is]C[:(])
+(;B[js];W[jr]C[:(]))
+(;B[bq]C[The correct anwser is 3. Please use 'Show Solution'->'Navigate Solution' on the left, following the correct anwser to see for yourself.])
+(;B[bp]C[The correct anwser is 3. Please use 'Show Solution'->'Navigate Solution' on the left, following the correct anwser to see for yourself.]))

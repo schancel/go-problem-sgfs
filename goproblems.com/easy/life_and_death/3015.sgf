@@ -1,0 +1,34 @@
+(;GE[life and death]DI[4k]DP[31]SO[adum]CO[8]AW[bb]AB[bc]AB[bd]AB[cb]AB[db]AB[ce]AW[cc]AW[dc]AW[ec]AW[ba]LB[ba:1]C[white plays at 1 in the corner. how should black answer?]
+(;B[eb];W[fb]
+(;B[fc];W[gb]
+(;B[ed];W[fd]
+(;B[gc]C[white is caughtRIGHT])
+(;B[dd];W[gc])
+(;B[ca];W[ea]))
+(;B[fd];W[ea])
+(;B[gc];W[ea])
+(;B[ca];W[ea])
+(;B[ea];W[ca])
+(;B[ab];W[ea])
+(;B[aa];W[ea];B[ab];W[ac]))
+(;B[gb];W[fc]
+(;B[fa];W[ea];B[da];W[ca])
+(;B[ca];W[ea])
+(;B[ea];W[fa]))
+(;B[ab];W[ea])
+(;B[ca];W[ea])
+(;B[ea];W[fa])
+(;B[aa];W[ea]
+(;B[ab];W[ac])
+(;B[ca];W[da])
+(;B[da];W[ca]))
+(;B[fa];W[gb]C[thanks]))
+(;B[ab];W[eb]
+(;B[ac];W[da])
+(;B[ca];W[da])
+(;B[ea];W[ca]))
+(;B[ca];W[eb])
+(;B[da];W[eb])
+(;B[aa];W[eb]
+(;B[ab];W[ac])
+(;B[ac];W[da])))

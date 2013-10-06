@@ -1,0 +1,118 @@
+(;GE[life and death]DI[3d]DP[10]SO[adum]CO[9]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]
+AW[nb][rb][sb][nc][od][pd][rd][sd][qe][re][pf]
+AB[ob][qb][lc][oc][qc][md][nd][qd]C[white to capture black
+]
+(;W[oa];B[pa]
+(;W[pc];B[na]
+(;W[pb];B[mb])
+
+(;W[ma];B[mb]C[ko
+])
+)
+
+(;W[na];B[pc]
+(;W[rc];B[mb];W[ra];B[mc])
+
+(;W[ra];B[mb]
+(;W[qa];B[mc]C[ko
+])
+
+(;W[rc];B[mc])
+)
+)
+)
+
+(;W[pc];B[pb]
+(;W[oa];B[mb])
+
+(;W[lb];B[mb])
+
+(;W[rc];B[mb])
+
+(;W[qa];B[mb])
+)
+
+(;W[pb];B[pc]
+(;W[pa];B[mb]
+(;W[oa];B[mc])
+
+(;W[na];B[oa];W[rc];B[qa];W[ra];B[mc])
+)
+
+(;W[oa];B[pa])
+
+(;W[qa];B[pa])
+)
+
+(;W[qa];B[oa]
+(;W[pb];B[mb]
+(;W[pc];B[mc]C[black saves some
+])
+
+(;W[pa];B[pc];W[ra];B[mc])
+)
+
+(;W[pc];B[mb]C[black saves some
+])
+
+(;W[pa];B[mb]C[black saves some
+])
+
+(;W[na];B[mb]C[black saves some
+])
+)
+
+(;W[pa];B[mb]
+(;W[oa];B[mc];W[na];B[qa])
+
+(;W[na];B[ma]
+(;W[oa];B[qa]
+(;W[pc];B[pb])
+
+(;W[pb];B[pc])
+)
+
+(;W[qa];B[oa]
+(;W[pc];B[mc]C[black saves some
+])
+
+(;W[pb];B[mc]C[black saves some
+])
+)
+)
+
+(;W[pb];B[pc])
+
+(;W[pc];B[na]C[black saves some
+])
+)
+
+(;W[rc];B[mb])
+
+(;W[na];B[pc]
+(;W[pa]C[RIGHT
+black is dead
+])
+
+(;W[qa];B[pa]
+(;W[oa];B[mb]C[ko
+])
+
+(;W[ra];B[mb]
+(;W[rc];B[mc])
+
+(;W[oa];B[mc]C[ko
+])
+)
+)
+
+(;W[oa];B[pa];W[rc];B[mb];W[ra];B[mc])
+)
+
+)

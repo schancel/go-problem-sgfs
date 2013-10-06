@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[2k]DP[23]SO[santa c]CO[7]AB[qo]AB[qn]AB[qm]AW[ro]AW[rn]AB[pp]AB[pq]AB[oq]AB[or]AW[qr]AW[pr]AW[qq]AW[qp]AB[ns]AB[ms]AB[mr]AW[nr]AW[nq]AW[mq]AW[np]AW[no]AW[nn]AW[nm]AB[nl]AW[ol]AB[ml]AB[mm]AB[mn]AB[mo]AB[mp]AB[lp]AB[lq]AW[lr]AW[kr]AW[kq]AW[kp]C[Black got too lax, getting 9h by mistake and allowed this to happen...]AB[pj]AW[jo]AW[jn]AW[jm]AW[ip]AB[ko]AB[kn]AW[lo]AB[jp]AB[io]AB[in]AB[ho]AB[go]AB[gp]AB[hq]AW[fp]AW[fo]AW[hn]AW[gn]AB[dp]AB[dr]AB[jj]AB[dj]AB[cn]LB[nn:1]LB[mm:2]LB[nm:3]LB[nl:4]LB[ol:5]LB[ml:6]AB[im]AW[fq]AP[goproblems]
+(;W[pm];B[ql];W[po]C[Well done! Nice double threat! =)RIGHT])
+(;W[om];B[po]C[Missed the connect your groups...])
+(;W[pn];B[pm]
+(;W[om];B[po]C[Missed the connect your groups...])
+(;W[po];B[on];W[oo];B[om]C[Missed the connect your groups...]))
+(;W[pl];B[ql]C[Missed the connect your groups...]LB[po:1]LB[oo:2]LB[pn:3]LB[pm:4]LB[on:5]LB[om:6])
+(;W[po];B[oo];W[pn];B[pm];W[on];B[om]C[oops?])
+(;W[ql];B[om]C[captured.])
+(;W[ok];B[om]C[captured.])
+(;W[ls]C[NOTTHIS]))

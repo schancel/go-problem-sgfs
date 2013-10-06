@@ -1,0 +1,25 @@
+(;GE[fuseki]DI[5k]DP[32]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;LB[iq:A][fq:B][mn:C]
+AW[cc][dc][jc][fd][ff][qf][dh][qi][pm][cn][qn][po][dq]
+AB[bc][lc][oc][bd][qd][ce][df][ch][cj][qo][qp][nq][pq]
+C[black's best move
+]LB[lq:D]
+(;B[iq]LB[gq:1][io:2][op:3][oq:4][mo:5]
+C[after one through five, black is at a disadvantage
+])
+
+(;B[fq]C[RIGHT
+])
+
+(;B[mn]LB[iq:A]C[white takes A and has a good position
+])
+
+(;B[lq]C[much too small
+])
+
+)

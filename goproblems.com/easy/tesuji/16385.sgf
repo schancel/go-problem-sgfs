@@ -1,0 +1,82 @@
+(;GE[tesuji]DI[5k]DP[32]SO[BobTheJoe]CO[0]AB[sd]AB[rd]AB[qd]AB[qc]AB[pc]AB[oc]AB[nc]AB[mc]AB[pe]AB[of]AB[og]AB[qi]AW[ph]AW[pg]AW[pf]AW[qe]AW[re]AW[nd]AW[md]AW[ld]AW[od]AW[lc]AW[pb]AW[qb]AW[rc]AW[sc]AW[ra]AW[sa]C[How can black save his stones without any unnecessary moves? It only takes one.]TR[mc]TR[nc]TR[oc]TR[pc]TR[qd]TR[qc]TR[rd]TR[sd]AP[goproblems]
+(;B[rg]C[]
+(;W[se]
+(;B[qf]
+(;W[qg]
+(;B[rf]C[Excellent!RIGHT])
+(;B[sf]C[Excellent! White cannot play at a because of the snapback.CHOICERIGHT]LB[rf:a])))
+(;B[rf];W[qf])
+(;B[sf];W[qf])
+(;B[qg];W[qf]))
+(;W[rh]
+(;B[qh];W[rf];B[sf];W[qg];B[sg]C[Excellent!RIGHT])
+(;B[qf];W[rf];B[sf];W[qg];B[sg];W[qh])
+(;B[qg];W[qf]
+(;B[se];W[sf];B[rf];W[qh])
+(;B[qh];W[se]C[Black cannot kill the white group. You can inspect it for yourself if you disagree.CHOICE]
+(;B[oi];W[pi]
+(;B[pj];W[oh]
+(;B[nh];W[oe]
+(;B[pd];W[ni]
+(;B[oj];W[ng]C[White escapes and black is dead.])
+(;B[ng];W[oj]C[White escapes and black is dead.]))
+(;B[nj];W[pd]C[White escapes and black is dead.])
+(;B[ng];W[pd]C[White escapes and black is dead.])
+(;B[mg];W[pd]C[White escapes and black is dead.])
+(;B[ni];W[pd]C[White escapes and black is dead.])
+(;B[oj]C[];W[pd]C[White escapes and black is dead.]))
+(;B[oj];W[nh]C[White escapes and black is dead.])
+(;B[ni];W[nh]C[White escapes and black is dead.])
+(;B[nj]
+(;W[ni]C[White escapes and black is dead.])
+(;W[nh]C[White escapes and black is dead.])))
+(;B[oh];W[pj]C[White escapes and black is dead.])
+(;B[oj];W[pj]C[White escapes and black is dead.])
+(;B[qj];W[pj]C[White escapes and black is dead.]))
+(;B[pi];W[oh]C[White escapes and black is dead.])
+(;B[oh];W[pi]C[White escapes and black is dead.])
+(;B[pj];W[oi]C[White escapes and black is dead.])
+(;B[ni];W[pi]C[CHOICE];B[pj];W[oi]
+(;B[oj];W[nh]
+(;B[oh];W[oe]
+(;B[pd];W[nf]C[White escapes and black is dead.])
+(;B[ng];W[pd]C[White escapes and black is dead.]))
+(;B[ng];W[mi]
+(;B[nj];W[oh];B[mh];W[mg];B[lh];W[oe]C[White escapes and black is dead.])
+(;B[oh];W[nj]C[White escapes and black is dead.]))
+(;B[mh];W[ng]
+(;B[oh];W[nf]C[White escapes and black is dead.])
+(;B[nf];W[mg]
+(;B[mi];W[oh]C[White escapes and black is dead.])
+(;B[oh];W[oe]C[White escapes and black is dead.]))))
+(;B[nj];W[oj];B[ok];W[pk];B[qj];W[nk];B[ol];W[nh];B[oh];W[oe]
+(;B[pd];W[nf]C[White escapes and black is dead.])
+(;B[ng];W[pd]C[White escapes and black is dead.])))))
+(;B[rf];W[qf]
+(;B[se];W[qh])
+(;B[qh];W[se])
+(;B[qg];W[qh])
+(;B[sh];W[qh]TR[se]TR[si]C[Miai]))
+(;B[se];W[qf];B[qh]C[Excellent!RIGHT])))
+(;B[oe];W[pd]C[Black can still save himself, but I did say no unnecessary moves.])
+(;B[pd];W[oe]C[Black can still save himself, but I did say no unnecessary moves.])
+(;B[rf];W[qf]
+(;B[se];W[rg]C[Good idea, but a clamp is bad shape here and doesn't work.])
+(;B[sf];W[se])
+(;B[rg];W[se])
+(;B[sg];W[se]))
+(;B[sf];W[rg];B[sg];W[rh]C[While black crawls along the first line he only weakens the marked stone.]TR[qi])
+(;B[se];W[rg]C[White kills in good shape.])
+(;B[sg];W[rg]
+(;B[sf])
+(;B[rh];W[rf])
+(;B[se];W[sh]
+(;B[rh];W[sf])
+(;B[rf];W[qf]
+(;B[sf];W[qh])
+(;B[rh];W[sf]))
+(;B[qf];W[rf]))
+(;B[rf];W[qf]
+(;B[se];W[sh])
+(;B[sf];W[se])
+(;B[sh];W[sf]))))

@@ -1,0 +1,17 @@
+(;GE[best move]DI[4k]DP[29]SO[Bleedo]CO[7]C[Punish]AB[kr]AB[lr]AB[mr]AB[mq]AB[hq]AB[hr]AB[gq]AB[iq]AB[jq]AB[hp]AW[fq]AW[dq]AW[er]AW[es]AW[ep]AW[gp]AW[go]AW[fo]AW[eo]AW[dp]AW[en]AW[ho]AW[ip]AW[jp]AW[kp]AW[kq]AW[lq]AB[np]AW[mp]AW[mo]AW[oq]AW[or]AW[pq]AB[rq]AB[qq]AB[rr]AB[pr]AB[os]AB[qs]AW[qp]AW[qo]AB[mn]AB[mm]AB[ln]AB[kn]AB[jn]AB[hn]AB[gn]AB[fn]AB[fm]AB[em]AW[hm]AW[gm]AB[gk]AB[gl]AB[ik]AB[il]AB[kk]AB[kl]AB[ll]AW[lm]AW[km]AW[jm]AW[nn]AW[nm]AW[ml]AW[mk]AW[lk]AW[nk]AW[ok]AW[qm]AB[dn]AB[do]AB[dm]AB[cp]AB[cq]AB[dr]AB[ds]AB[cs]AB[br]AB[ap]TR[mo]AP[goproblems]
+(;B[nq];W[no]C[])
+(;B[no];W[io]
+(;B[nq];W[fr])
+(;B[fr];W[nq]))
+(;B[io]
+(;W[fr]
+(;B[no];W[nq]
+(;B[lo]C[RIGHT])
+(;B[lp];W[lo];B[ko]C[RIGHT])
+(;B[oo]C[RIGHT]))
+(;B[lp];W[no]C[You could have gotten more.]))
+(;W[no];B[fr]C[RIGHT]))
+(;B[lo];W[io];B[lp];W[fr];B[no];W[oo]C[Black could have done better])
+(;B[op];W[pp]
+(;B[io];W[fr];B[no];W[nq];B[lp];W[lo];B[ko];W[oo])
+(;B[no];W[nq];B[lo];W[lp];B[io];W[fr])))

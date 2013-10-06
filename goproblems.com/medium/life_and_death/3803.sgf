@@ -1,0 +1,39 @@
+(;GE[life and death]DI[3d]DP[9]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[bm][cm][dm][em][ao][bo][do][ap][ep][aq][cq][dq][eq]AB[ak][ek][bl][cl][dl][fl][am][fm][an][fn][eo][go][dp][fp][fq][br][cr][fr][es]
+(;B[cn]CR[cn]
+(;W[bn]CR[bn]
+;B[dn]CR[dn]
+;W[en]CR[en]
+;B[co]CR[co]
+;W[cp]CR[cp]
+;B[do]CR[do]
+;W[fo]CR[fo]
+;B[do]CR[do]
+;W[eo]CR[eo]
+;B[bq]CR[bq]C[White is dead! RIGHT])
+(;W[cp]CR[cp]
+;B[dn]CR[dn]
+;W[co]CR[co]
+(;B[bq]CR[bq]
+;W[en]CR[en]C[White lives])
+(;B[bn]CR[bn]
+;W[bq]CR[bq]C[White lives])
+(;B[en]CR[en]
+;W[bq]CR[bq]C[White lives])))
+(;B[dn]CR[dn]
+;W[cp]CR[cp]
+;B[cn]CR[cn]
+;W[co]CR[co]
+(;B[bq]CR[bq]
+;W[en]CR[en]C[White lives])
+(;B[bn]CR[bn]
+;W[bq]CR[bq]C[White lives])
+(;B[en]CR[en]
+;W[bq]CR[bq]C[White lives]))
+(;B[cp]CR[cp]
+;W[en]CR[en]
+;B[co]CR[co]
+;W[fo]CR[fo]C[Ko - this is not good enough for Black])
+(;B[bn]CR[bn]
+;W[cn]CR[cn]C[White lives]))

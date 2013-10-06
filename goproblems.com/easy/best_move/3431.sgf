@@ -1,0 +1,3 @@
+(;GE[best move]DI[12k]DP[56]SO[kochi]CO[5]AB[eb]AB[fb]AB[gb]AB[hb]AW[ib]AW[jb]AB[kb]AB[lb]AB[ic]AB[jc]AW[hc]AW[gc]AW[fc]AW[ec]AW[kc]AW[lc]AW[je]AW[mb]AW[mc]AB[db]AB[cb]AB[bb]AB[ab]AW[dc]AW[cc]AW[bc]AW[ac]LB[ia:A]LB[ja:B]AW[ma]AW[hd]AW[ie]AW[kd]C[Best move for B.]AP[goproblems]
+(;B[ja];W[la]C[K19 is wrong because now if B ignores this ko threat, the k19 stone will be on the wrong place.  After W L19, B's stone would be better on J19.  So J19 lowers the value of M19 as a ko threat.])
+(;B[ia]C[Ok.  If you had done k19, W's m19 ko threat is bigger.RIGHT]))

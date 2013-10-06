@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[7k]DP[44]SO[assacra]CO[6]AB[br]AB[bq]AB[cq]AB[dq]AB[dr]AB[ep]AB[do]AB[fp]AB[gq]AW[fq]AW[eq]AW[er]AW[ds]AW[cr]AW[cs]AW[gp]AW[hp]AW[hq]AW[hr]TR[cr]TR[cs]TR[ds]C[black to kill marked stones]AP[goproblems]
+(;B[fs];W[gr];B[es]C[RIGHT])
+(;B[es];W[fs]
+(;B[bs];W[es]
+(;B[gs];W[gr])
+(;B[gr];W[gs]))
+(;B[gr];W[gs])
+(;B[gs];W[gr]))
+(;B[bs];W[es]
+(;B[gr];W[gs])
+(;B[fr];W[gr]))
+(;B[fr];W[gr])
+(;B[gr];W[gs])
+(;B[gs];W[gr]))

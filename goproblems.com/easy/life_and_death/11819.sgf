@@ -1,0 +1,22 @@
+(;GE[life and death]DI[7k]DP[40]SO[enigm4]CO[0]AB[ar][aq][dr][er][eq][ep][eo][do][co][bn][an]AW[ao][bo][bp][cp][dp][dq][cr][bq]
+(;B[bs];W[cs]
+(;B[br]C[RIGHT White is dead now.])
+(;B[as];W[br])
+(;B[ds]
+;W[br]C[This result isn't good.]))
+(;B[as];W[bs]
+(;B[ds];W[ap])
+(;B[cs];W[ds]))
+(;B[cs];W[bs]
+(;B[br];W[ds]
+(;B[es]
+;W[cs]C[SEKI. There was a way to kill white, so this result isn't good.])
+(;B[as];W[ap]))
+(;B[as];W[ds];B[es];W[br])
+(;B[ap];W[br])
+(;B[ds];W[br]))
+(;B[br];W[bs]
+(;B[ds]
+;W[cs]C[SEKI. There was a way to kill white, so this result isn't good.])
+(;B[cs];W[ds];B[es]
+;W[cs]C[SEKI. There was a way to kill white, so this result isn't good.])))

@@ -1,0 +1,37 @@
+(;GE[tesuji]DI[3k]DP[26]SO[Gelya]CO[0]SZ[19]AW[qk]AW[em]AW[fm]AW[gm]AW[en]AW[jn]AW[qn]AW[do]AW[fo]AW[jo]AW[dp]AW[hp]AW[jp]AW[cq]AW[hq]AW[iq]AW[jq]AW[kq]AW[cr]AW[hr]AB[hm]AB[im]AB[jm]AB[fn]AB[gn]AB[ln]AB[eo]AB[ho]AB[io]AB[ep]AB[gp]AB[ip]AB[lp]AB[pp]AB[qp]AB[fq]AB[mq]AB[dr]AB[jr]AB[lr]C[W to play tesiji combination to connect her stones]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[п▒п╣п╩я▀п╣]PB[п╖п╣я─п╫я▀п╣]WR[9p]BR[9p]CP[Gelya]SO[п║п╩п╬п╡п╟я─я▄ я┌я█я│я┐п╢п╥п╦]AN[Gelya]US[Gelya]RE[Void]PL[W]
+(;W[eq];B[fp]
+(;W[fr];B[er]
+(;W[fs];B[dq]
+(;W[ds]C[Stones connects RIGHT])
+(;W[es];B[ds];W[cs];B[eq];W[gq];B[go]C[B cuts your stones])
+(;W[gq];B[es];W[cs];B[eq];W[ds];B[go]C[B cuts your stones]))
+(;W[ds];B[gr];W[es];B[fs];W[dq];B[fr];W[cs]C[B cuts your stones])
+(;W[dq];B[gr];W[fs];B[gs]
+(;W[es];B[ds]C[B cuts your stones])
+(;W[ds];B[es]
+(;W[cs]C[B cuts your stones])
+(;W[fr];B[fs];W[cs];B[gq]C[B cuts your stones]))
+(;W[gq];B[es]C[B cuts your stones])))
+(;W[er];B[fr]
+(;W[fs];B[gs];W[es];B[ds];W[dq];B[gr]C[B cuts your stones])
+(;W[es];B[fs]C[B cuts your stones]))
+(;W[hn];B[in];W[fr];B[er]
+(;W[fs];B[dq];W[ds]C[Actually, there is no need to sarcifice a stone RIGHT])
+(;W[gq];B[dq]
+(;W[fs];B[ds];W[cs];B[eq];W[es];B[go]C[B cuts your stones])
+(;W[ds];B[fs];W[gs];B[gr]C[Ko]))))
+(;W[hn]
+(;B[in]
+(;W[eq];B[fp];W[fr];B[er]
+(;W[fs];B[dq];W[ds]C[Actually, there is no need to sarcifice a stoneRIGHT])
+(;W[gq];B[dq];W[fs];B[ds];W[es];B[eq];W[cs];B[go]C[B cuts your stones]))
+(;W[ds];B[es];W[cs];B[er]C[B cuts your stones])
+(;W[er];B[fr];W[dq];B[es];W[ds];B[fs];W[eq];B[fp]C[B cuts your stones]))
+(;B[go];W[eq];B[fp];W[fr];B[er];W[fs];B[dq];W[ds]C[Actually, there is no need to sarcifice a stoneRIGHT]))
+(;W[ds];B[es];W[cs];B[er]C[B cuts your stones])
+(;W[er];B[fr]
+(;W[fs];B[gs]
+(;W[es];B[eq];W[dq];B[ds]C[B cuts your stones])
+(;W[gr];B[es]C[B cuts your stones]))
+(;W[dq];B[es];W[ds];B[fs]C[B cuts your stones])
+(;W[eq];B[fp];W[dq];B[es];W[ds];B[fs]C[B cuts your stones])))

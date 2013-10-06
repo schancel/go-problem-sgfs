@@ -1,0 +1,74 @@
+(;GE[tesuji]DI[1k]DP[20]SO[maba]CO[7]AB[ac]AB[ab]AB[db]AB[dc]AW[cc]AW[cb]AW[bb]AW[bd]AW[ad]AB[be]AB[ce]AW[dd]AW[ed]AB[cd]C[What can black do?]AW[fc]AW[gc]AP[goproblems]
+(;B[ba]
+(;W[ca]
+(;B[ae]
+(;W[aa]
+(;B[bc]C[RIGHT])
+(;B[da];W[bc]))
+(;W[bc];B[da]C[RIGHT])
+(;W[eb];B[bc]C[RIGHT])
+(;W[ec];B[bc]C[RIGHT])
+(;W[da];B[ea]C[RIGHT]))
+(;B[da];W[aa]C[ko])
+(;B[aa];W[bc])
+(;B[bc];W[aa]))
+(;W[bc];B[ca];W[aa];B[ab]C[RIGHT])
+(;W[da];B[ea]
+(;W[ca];B[bc]C[RIGHT])
+(;W[bc];B[ca];W[aa];B[ab]C[RIGHT])
+(;W[eb];B[ca]C[RIGHT]))
+(;W[eb]
+(;B[da]C[RIGHT])
+(;B[ca]C[RIGHT])))
+(;B[bc];W[aa])
+(;B[ca];W[ba]
+(;B[da];W[eb]
+(;B[ae];W[ec]C[Black can do better.])
+(;B[bc];W[aa])
+(;B[aa];W[bc]))
+(;B[ae];W[eb]
+(;B[bc];W[da])
+(;B[aa];W[bc])
+(;B[da];W[ec]C[Black can do better.]))
+(;B[bc];W[aa])
+(;B[aa];W[bc]))
+(;B[ae];W[eb]
+(;B[ca];W[ba]
+(;B[da];W[ec]C[Black can do better.])
+(;B[bc];W[da]C[Black can do better.])
+(;B[aa];W[bc]))
+(;B[bc];W[da]C[Black can do better.])
+(;B[ba];W[da]C[Black can do better.])
+(;B[da];W[ec]
+(;B[bc];W[ea]C[Black can do better.])
+(;B[ba];W[ea]C[Black can do better.])
+(;B[ca];W[ba]C[Black can do better.])))
+(;B[da]
+(;W[ba]
+(;B[ae];W[eb]
+(;B[bc];W[ea];B[aa]C[RIGHT])
+(;B[aa];W[bc])
+(;B[ca];W[ec]))
+(;B[bc];W[aa])
+(;B[aa];W[bc])
+(;B[ca];W[eb]
+(;B[bc];W[aa])
+(;B[aa];W[bc])
+(;B[ae];W[ea];B[bc];W[ec]C[Black can do better.])))
+(;W[ca];B[ae]
+(;W[bc];B[ba]C[RIGHT])
+(;W[aa];B[bc]C[RIGHT])
+(;W[eb];B[bc]C[RIGHT]))
+(;W[bc];B[ba]
+(;W[aa];B[ca];W[eb];B[ab];W[ec];B[ae]C[RIGHT])
+(;W[ca];B[ae]C[RIGHT]))
+(;W[aa];B[ba]C[RIGHT])
+(;W[eb]C[CHOICE]
+(;B[ae];W[ec])
+(;B[ba]C[RIGHT])
+(;B[bc];W[aa])
+(;B[ca];W[ba]
+(;B[ae];W[ec])
+(;B[bc];W[aa])
+(;B[aa];W[bc]))
+(;B[aa];W[ec]))))

@@ -1,0 +1,57 @@
+(;GE[life and death]DI[3d]DP[9]SO[chrise]CO[8]AB[cd]AW[ec]AB[dc]AW[ed]AW[dd]AB[cb]AW[ce]AB[bd]AW[be]AW[df]AW[bc]AW[bg]AW[gc]AW[hb]AW[ib]AB[gf]AB[fg]AB[hf]C[]AP[goproblems]
+(;B[cc];W[bb]
+(;B[ad];W[eb])
+(;B[ba];W[ab])
+(;B[eb];W[ad]
+(;B[fb];W[ca])
+(;B[ba];W[ac])
+(;B[ac];W[ab])
+(;B[ab];W[ac]))
+(;B[ac];W[ab]
+(;B[ba];W[ad])
+(;B[ad];W[eb]))
+(;B[ab];W[ba]
+(;B[ac];W[eb];B[db];W[da])
+(;B[eb];W[fb]
+(;B[da];W[fa]
+(;B[ac]
+(;W[ea]
+(;B[db];W[ae];B[ad]C[seki!RIGHT])
+(;B[ad];W[db])
+(;B[ca]))
+(;W[ae]
+(;B[ea];W[ad]C[It's not a seki as white can capture a17/a18 and connect out])
+(;B[ad];W[ea])))
+(;B[ea];W[ca])
+(;B[ca];W[ea])
+(;B[ad];W[ea]))
+(;B[ca];W[ea])
+(;B[ac];W[ea]
+(;B[db];W[da])
+(;B[da];W[db]C[Black cannot win this one]))
+(;B[ad];W[ea]
+(;B[db];W[da])
+(;B[da];W[db]))
+(;B[ea];W[ca]
+(;B[da];W[ad];B[db];W[fa])
+(;B[db];W[ad];B[ac];W[ae])
+(;B[ac];W[fa]
+(;B[da];W[db])
+(;B[db];W[ae];B[ad]C[seki!RIGHT]))
+(;B[ad];W[fa];B[db];W[ac])))
+(;B[ad];W[eb])))
+(;B[bb];W[ad]
+(;B[cc];W[ab]
+(;B[ac]C[Unfavourable ko for black.])
+(;B[eb];W[ac]
+(;B[da];W[ba];B[fb];W[fa])
+(;B[fb];W[da])
+(;B[ba];W[da])))
+(;B[eb];W[cc])
+(;B[ab];W[cc])
+(;B[ac];W[cc]))
+(;B[eb];W[cc];B[bb];W[ad])
+(;B[ac];W[bb]
+(;B[ab];W[ba];B[cc];W[eb])
+(;B[ba];W[ab])
+(;B[cc];W[ab])))

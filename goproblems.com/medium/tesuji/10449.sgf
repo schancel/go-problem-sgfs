@@ -1,0 +1,204 @@
+(;GE[tesuji]DI[1k]DP[18]SO[hotcoffee]CO[6]AB[ha]AB[fa]AB[ga]AB[gb]AB[eb]AB[ec]AB[fe]AB[fg]AB[eg]AB[dg]AB[cg]AB[bg]AB[bf]AW[cf]AW[be]AW[cd]AW[cc]AW[cb]AW[hc]AW[hb]AW[gd]AW[gf]AW[ge]AW[db]AB[da]AW[ib]AW[ba]SZ[9]MA[da]MA[fa]MA[ga]MA[ha]MA[gb]MA[eb]MA[ec]C[White to separate these stones from their friends.]AW[hf]AB[gg]AP[goproblems]
+(;W[fd];B[ed]
+(;W[ee];B[de]
+(;W[ef];B[ff])
+(;W[ff];B[dd]
+(;W[df];B[ce]
+(;W[ef];B[bd])
+(;W[bd];B[ef])
+(;W[ad];B[ef])
+(;W[bc];B[ef]))
+(;W[ce];B[df])
+(;W[ef];B[df]))
+(;W[df];B[ef]))
+(;W[ff];B[de];W[ee])
+(;W[ef];B[ff];W[ee];B[de])
+(;W[df];B[ee])
+(;W[de];B[ee]))
+(;W[ed];B[fd]
+(;W[fc];B[dd]
+(;W[ee];B[de]
+(;W[ff];B[dc]
+(;W[df];B[ce]
+(;W[ef];B[bd]C[Black connects another way.])
+(;W[bd];B[ef])
+(;W[ad];B[ef])
+(;W[bc];B[ef]))
+(;W[ce];B[df])
+(;W[ef];B[df]))
+(;W[ef];B[df]
+(;W[dc];B[ff])
+(;W[ff];B[dc]))
+(;W[df];B[ef])
+(;W[dc];B[ef]))
+(;W[ff];B[ee]
+(;W[ef];B[df]
+(;W[de];B[ce])
+(;W[ce];B[de]))
+(;W[df];B[ef])
+(;W[de];B[ef]))
+(;W[ef];B[ee]
+(;W[df];B[ff])
+(;W[de];B[ff])
+(;W[ff]))
+(;W[de];B[ee]))
+(;W[ee];B[ff]C[Black connects.])
+(;W[dd];B[ee]C[Black connects.])
+(;W[ff];B[ee]
+(;W[ef];B[de]
+(;W[df];B[dd]
+(;W[gc];B[fc]C[Black lives!])
+(;W[ce];B[gc]C[He's alive!])
+(;W[fc];B[gc]C[Black is alive!]))
+(;W[dd];B[df]C[Black connects.]))
+(;W[dd];B[ef]C[Black connects.])
+(;W[fc];B[dd])))
+(;W[ee];B[de]
+(;W[ed]
+(;B[fd]
+(;W[dd];B[ff]C[Black connects.])
+(;W[ff]
+(;B[dd]
+(;W[ef];B[dc]
+(;W[df];B[ce]
+(;W[bd]C[Black dies. Well done.RIGHT])
+(;W[ad]C[Black dies. Well done.RIGHT])
+(;W[ae]C[Black dies. Well done.RIGHT])
+(;W[bc]C[I think this works, but there is some terrible aji at A5. Black dies.  Well done.RIGHT])
+(;W[ac]C[Black dies. Well done.RIGHT]))
+(;W[ce];B[df])
+(;W[fc];B[df]))
+(;W[fc])
+(;W[df];B[ef])
+(;W[dc];B[ef]))
+(;B[ef]C[NOTTHIS];W[dd]C[RIGHT]))
+(;W[ef];B[ff]C[Black connects.])
+(;W[fc]
+(;B[ff]
+(;W[gc];B[dd])
+(;W[dd];B[gc])
+(;W[df];B[dd]))
+(;B[dd];W[ff];B[dc];W[df]))
+(;W[df];B[ff]
+(;W[fc])
+(;W[gc];B[fc]))
+(;W[gc];B[dd]
+(;W[ef];B[ff])
+(;W[fc];B[ef])
+(;W[dc];B[ef])
+(;W[df];B[ef])
+(;W[ff];B[ef])))
+(;B[dd]
+(;W[fd];B[dc]
+(;W[df];B[ce]
+(;W[ef];B[bd]C[Black connects another way.])
+(;W[bd];B[ef])
+(;W[ad];B[ef])
+(;W[bc];B[ef])
+(;W[ae];B[ef]))
+(;W[ce];B[df])
+(;W[ef];B[df]))
+(;W[dc];B[fd];W[ef];B[ff]C[Black connects.])
+(;W[ff];B[ef]C[Black connects.])
+(;W[ef];B[ce]
+(;W[df];B[dc]
+(;W[bd]C[Black dies. Well done.RIGHT])
+(;W[ad]C[Black dies. Well done.RIGHT])
+(;W[bc]C[Black dies. Well done. I'm not sure I like the aji at A5 though.RIGHT])
+(;W[ae]C[Black dies. Well done.RIGHT])
+(;W[ac]C[Black dies. Well done.RIGHT]))
+(;W[dc];B[df]
+(;W[bd]C[Black dies. Well done.RIGHT])
+(;W[ad]C[Black dies. Well done.RIGHT])
+(;W[bc]C[Black dies. Well done. I'm not sure I like the aji at A5 though.RIGHT])
+(;W[ae]C[Black dies. Well done.RIGHT])
+(;W[ac]C[Black dies. Well done.RIGHT]))
+(;W[bd]
+(;B[dc]C[NOTTHIS];W[df]C[RIGHT])
+(;B[df];W[dc]C[Black dies. Well done.RIGHT]))
+(;W[bc];B[df];W[dc]C[Black dies. Well done. I'm not sure I like the aji at A5 though.RIGHT])
+(;W[ad];B[df];W[dc]C[Black dies. Well done.RIGHT])
+(;W[ae];B[df];W[dc]C[Black dies. Well done.RIGHT])
+(;W[ac];B[df];W[dc]C[Black dies. Well done.RIGHT]))
+(;W[df];B[fd];W[ef];B[ff]C[Black connects.])))
+(;W[dd];B[ed]
+(;W[ef];B[ff])
+(;W[df];B[ef])
+(;W[ff];B[ef])
+(;W[fd];B[ef])
+(;W[ce];B[ef]))
+(;W[fd];B[ed])
+(;W[ef];B[ff]
+(;W[fd];B[ed])
+(;W[ed];B[fd]C[Black connects.])
+(;W[dd];B[fd]C[Black connects.])
+(;W[df];B[fd]C[Black connects.]))
+(;W[df];B[ed]
+(;W[ef];B[ff]
+(;W[ce];B[fd])
+(;W[fd];B[ce])
+(;W[dd];B[ce]))
+(;W[ce];B[ef])
+(;W[ff];B[ef])
+(;W[fd])
+(;W[dd]))
+(;W[ff];B[dd]
+(;W[df];B[ef]
+(;W[ce];B[ed])
+(;W[ed];B[fd])
+(;W[fd];B[ce])
+(;W[dc];B[ce]))
+(;W[ed])
+(;W[dc];B[ed]
+(;W[ef];B[df])
+(;W[df];B[ef])
+(;W[fd];B[df])
+(;W[ce];B[ef]))
+(;W[ef];B[df])
+(;W[fd];B[df])
+(;W[ce];B[df]))
+(;W[ce];B[ef];W[ed];B[fd];W[dd];B[ff]C[Black connects.]))
+(;W[ff]
+(;B[de]
+(;W[ef]
+(;B[df]
+(;W[dd];B[ee];W[ed];B[fd]C[Black connects.])
+(;W[ee];B[dd])
+(;W[ed]
+(;B[dd];W[dc]C[Good work.RIGHT])
+(;B[ee];W[fd]C[Good work.RIGHT])))
+(;B[ce]C[Black dies here too.NOTTHIS]))
+(;W[ed];B[dd];W[ee])
+(;W[df];B[ef]C[Black is connected.])
+(;W[fd];B[dd]
+(;W[df];B[ef])
+(;W[ef];B[df])
+(;W[ed];B[dc];W[df];B[ef]))
+(;W[dd];B[ee]
+(;W[fd];B[ed])
+(;W[ed];B[fd]C[Black is connected.]))
+(;W[ee]))
+(;B[ef]C[NOTTHIS];W[ed];B[dd];W[de]C[RIGHT]))
+(;W[ef];B[ff]
+(;W[fd];B[ed])
+(;W[ed];B[fd]C[Black connects.])
+(;W[ee];B[ed]
+(;W[fd])
+(;W[df];B[fd]))
+(;W[fc];B[ed]))
+(;W[fc];B[ed]
+(;W[ff];B[ef])
+(;W[ee];B[de]
+(;W[dd];B[ef])
+(;W[df];B[ff])
+(;W[ef];B[ff])
+(;W[ff];B[ef])
+(;W[fd];B[ef]))
+(;W[ef];B[ff])
+(;W[fd];B[ee]))
+(;W[df];B[ff]
+(;W[fd];B[ed];W[ee];B[de])
+(;W[ed];B[fd]C[Black connects.]))
+(;W[de];B[ee]
+(;W[ed];B[fd]C[Black connects.])
+(;W[fd];B[ed])))

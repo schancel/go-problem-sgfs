@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[2d]DP[14]SO[kmlck]CO[0]AW[ri]AW[rh]AW[rg]AW[qf]AW[qe]AW[rc]AW[rb]AW[qb]AB[rj]AB[qj]AB[qi]AB[qh]AB[qg]AB[pg]AB[pf]AB[pe]AB[pd]AB[pc]AB[qc]AW[pb]AW[oc]AW[nb]C[What is the best that black can get?]AP[goproblems]
+(;B[rd];W[se]
+(;B[re];W[rf]
+(;B[qd];W[sd]C[Only 5 points?])
+(;B[sd];W[qd]))
+(;B[sd];W[re]
+(;B[qd];W[sf]C[Good reduction but black can do better.])
+(;B[sf]C[White is cut and killed. Nice!RIGHT]))
+(;B[qd];W[sd];B[re];W[rf])
+(;B[rf];W[re]
+(;B[qd];W[sd])
+(;B[sd];W[sf];B[qd]C[Good reduction but black can do better.]))
+(;B[sf])
+(;B[sc];W[qd]))
+(;B[qd];W[rd])
+(;B[re];W[qd])
+(;B[rf];W[rd]))

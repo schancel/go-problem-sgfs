@@ -1,0 +1,33 @@
+(;GE[elementary]DI[12k]DP[57]SO[santa c]CO[8]SZ[13]AW[ad]AW[bd]AW[cd]AW[dd]AW[de]AW[ie]AW[je]AW[ke]AW[le]AW[me]AW[df]AW[if]AW[dg]AW[ig]AW[dh]AW[ih]AW[di]AW[ii]AW[aj]AW[bj]AW[cj]AW[dj]AW[ij]AW[jj]AW[kj]AW[lj]AW[mj]AB[ae]AB[be]AB[ce]AB[cf]AB[jf]AB[kf]AB[lf]AB[mf]AB[cg]AB[jg]AB[ch]AB[jh]AB[ai]AB[bi]AB[ci]AB[ji]AB[ki]AB[li]AB[mi]LB[gf:B]LB[fg:L]LB[hg:R]LB[gh:N]C[Which '6 on a side', are alive? (B=Both, R=Right L=Left,N=none)FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[gf]C[Nice! RIGHT])
+(;W[hg]C[];B[gg]C[Kill the left one..FORCE]
+(;W[ag];B[bg]C[White can't take both A8 and A6 - Black has 2 eyes & It lives!])
+(;W[bg];B[ag]C[White can't take both B8 and B6 - Black has 2 eyes & It lives!])
+(;W[bf]
+(;B[bg]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[ag]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[af]
+(;B[ag]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[bg]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[bh]
+(;B[bg]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[ag]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[ah]
+(;B[ag]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[bg]C[Black is guaranteed to have 2 eyes, now.CHOICE])))
+(;W[gh]C[Guh - Wasted effort, nobody will cli..WHAT?! You did?! hmm... nm.. ('Navigate Solution' - try getting, either, L/R)])
+(;W[fg]C[];B[gg]C[Kill the right one..FORCE]
+(;W[lg];B[lh]C[White can't take both L7 and N7 - Black has 2 eyes & It lives!])
+(;W[lh];B[lg]C[White can't take both L6 and N6 - Black has 2 eyes & It lives!])
+(;W[kg]
+(;B[lg]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[lh]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[kh]
+(;B[lh]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[lg]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[mg]
+(;B[lg]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[lh]C[Black is guaranteed to have 2 eyes, now.CHOICE]))
+(;W[mh]
+(;B[lh]C[Black is guaranteed to have 2 eyes, now.CHOICE])
+(;B[lg]C[Black is guaranteed to have 2 eyes, now.CHOICE]))))

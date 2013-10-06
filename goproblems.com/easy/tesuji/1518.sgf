@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[4k]DP[30]SO[unkx80]CO[8]SZ[19]AW[qr]AW[rr]AW[sq]AW[jr]AW[ir]AW[lr]AW[ls]AW[mq]AW[iq]AW[ip]AW[jp]AW[in]AW[kn]AW[ko]AW[ln]AW[mn]AW[nn]AW[on]AW[pn]AW[po]AW[qn]AW[rn]AB[pp]AB[pq]AB[pr]AB[qq]AB[rq]AB[qo]AB[ro]AB[sp]AB[sn]AB[rm]AB[qm]AB[oo]AB[no]AB[mo]AB[lo]AB[kp]AB[kq]AB[jq]AB[js]AB[kr]AB[lq]TR[mq]C[What is the best move for black?]FF[4]GM[1]AP[Jago:Version 4.35]
+(;B[mr]
+(;W[nr]
+(;B[ks]C[This kills the entire white group.CHOICERIGHT])
+(;B[lp]C[This kills the entire white group.RIGHT]))
+(;W[is];B[ms]C[Snapback.CHOICERIGHT]))
+(;B[ks];W[lp];B[mp];W[is];B[lp];W[op])
+(;B[op];W[ks])
+(;B[lp];W[ks]))

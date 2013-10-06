@@ -1,0 +1,30 @@
+(;GE[life and death]DI[3k]DP[25]SO[maba]CO[9]AW[gc]AW[gb]AW[hc]AW[ha]AW[ib]AB[jb]AB[la]AB[mb]AB[lc]AB[kc]AB[ic]AB[id]AB[jd]AB[kd]AW[he]AW[ie]AW[je]AW[ke]AW[ld]AW[mc]AW[nc]AW[nb]AW[na]C[White to play and get the best possible result.]AP[goproblems]
+(;W[ma];B[lb]
+(;W[ja];B[ka])
+(;W[ka];B[ja]))
+(;W[lb]
+(;B[kb]
+(;W[ja];B[ma])
+(;W[ma]
+(;B[ja];W[lb]C[ko and white captures first.RIGHT])
+(;B[lb];W[ja]C[RIGHT])))
+(;B[ja];W[ma]C[RIGHT])
+(;B[ka];W[ma]C[RIGHT])
+(;B[ma];W[ka]C[RIGHT]))
+(;W[ja];B[ka]
+(;W[ma];B[lb])
+(;W[lb];B[ia]
+(;W[hb];B[ma])
+(;W[ma];B[hb]C[ko, but black captures first.]))
+(;W[ia];B[ma]))
+(;W[kb];B[ja]
+(;W[ma];B[lb])
+(;W[lb];B[ka]
+(;W[lb];B[ma])
+(;W[ma];B[lb])))
+(;W[ka];B[ja]
+(;W[ma];B[lb])
+(;W[lb];B[kb];W[ma];B[lb]))
+(;W[ia];B[ja]
+(;W[ma];B[lb])
+(;W[lb];B[kb];W[ma];B[lb])))

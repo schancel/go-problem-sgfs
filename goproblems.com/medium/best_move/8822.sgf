@@ -1,0 +1,16 @@
+(;GE[best move]DI[3d]DP[9]SO[munisai79]CO[6]AB[pd]AB[qc]AB[qe]AB[oc]AB[ob]AB[nd]AB[ne]AB[mf]AB[lf]AB[kf]AB[jf]AB[rg]AB[ng]AB[og]AB[pg]AB[jh]AB[jj]AB[kj]AW[nc]AW[pc]AW[od]AW[oe]AW[nf]AW[of]AW[pf]AW[qf]AW[qg]AW[re]AW[oh]AW[nh]AW[mg]AW[lg]AW[kg]AB[lc]AB[lb]AW[rk]AB[pk]AB[ol]AB[om]AW[pm]AW[qm]AW[qn]AB[pn]AB[on]AW[qo]AB[kl]C[The last 2 moves have been marked.  Black to take what he can.]LB[qg:2]LB[rg:1]AP[goproblems]
+(;B[rf];W[rh];B[rd]C[Black can do better than reduce.])
+(;B[ph]
+(;W[qh];B[pi];W[qi];B[qj]C[Looks good for black!RIGHT])
+(;W[pi]C[CHOICE];B[qh];W[qi];B[rh];W[rf];B[ri];W[rj];B[oi];W[oj]
+(;B[ni];W[mh];B[qj];W[pj];B[qk];W[nj];B[rl]C[Great job!  RIGHT])
+(;B[mh];W[ni]
+(;B[lh];W[sg];B[kh];W[si];B[jg];W[sh]C[Black can do better.])
+(;B[mi];W[mj])
+(;B[qj];W[sg]))
+(;B[qj];W[ni]
+(;B[rl];W[sg])
+(;B[pj];W[oi]
+(;B[mh];W[sg])
+(;B[rl];W[sg])))))
+(;B[rh];W[ph]C[Black can do better.]))

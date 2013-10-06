@@ -1,0 +1,41 @@
+(;GE[life and death]DI[6d]DP[0]SO[YakumoKou]CO[0]AB[gc]AB[gd]AB[ge]AB[fe]AB[hb]AB[ef]AB[eh]AB[fh]AB[ch]AB[cg]AB[bf]AB[ce]AW[bd]AW[dc]AW[dd]AW[de]AW[ee]AW[cf]AW[dg]AW[cj]AW[dj]AW[ib]AW[ic]AB[db]CA[shift_jis]AP[goproblems]MULTIGOGM[0]
+(;B[cb];W[eb]
+(;B[fb]
+(;W[ec];B[ea];W[df];B[dh];W[be]
+(;B[bg];W[bb];B[ba];W[cc];B[ab];W[ac];B[bc])
+(;B[cc]
+(;W[bg];B[bh];W[af];B[cd]C[Dead.CHOICERIGHT])
+(;W[cd];B[bg]C[CHOICERIGHT])))
+(;W[ea];B[ec];W[ed];B[fc];W[bb];B[cc]
+(;W[cd];B[df];W[bc];B[fa]C[CHOICERIGHT])
+(;W[df];B[dh];W[be];B[cd];W[bg];B[bh];W[bc];B[fa];W[af];B[ba]C[Dead.CHOICERIGHT])))
+(;B[cc];W[cd];B[fb];W[be]
+(;B[df]C[One of 2 ko variations.];W[bg]C[One of 2 ko variations.
+This is better one.])
+(;B[bg];W[dh];B[df];W[di];B[ce]C[Worse ko variations.
+
+Ko without B13's connect is better than this ko.
+
+Any ko is better than nothing, but Black can kill!   (B manage to kill!)])))
+(;B[eb]
+(;W[cb]C[Wrong move];B[df];W[da];B[bb]
+(;W[bc];B[ea];W[ba];B[ab];W[cd];B[ca])
+(;W[ba];B[cc];W[bc];B[ca]))
+(;W[df]C[Essential exchange];B[dh];W[be];B[bg];W[cb];B[ca];W[bb]))
+(;B[cc];W[cd];B[df];W[eb];B[cb];W[da];B[bc];W[ad];B[ba];W[ab];B[ac];W[ea];B[ec];W[fc];B[fb];W[ed];B[fa];W[ec];B[be];W[ca];B[ae])
+(;B[df];W[eb];B[cb]
+(;W[ec]C[Wrong variation(White is dead).];B[bc];W[cd];B[ba];W[ab];B[ac]C[If black move to D19, white will respond by F18. Gote.];W[da];B[ad];W[be];B[ae];W[cf];B[bg]C[Nothing happens. White's dead.CHOICERIGHT])
+(;W[da]C[Wrong variation(White is dead).];B[bc]
+(;W[cc];B[bb];W[be];B[cf];W[cd]
+(;B[ac]C[Cutting is better.]
+(;W[ec];B[ca];W[aa];B[ea];W[fb];B[gb];W[fa];B[ad];W[ae];B[af];W[ba];B[ga];W[da];B[ab];W[ba];B[ea];W[dp];B[fc];W[da])
+(;W[fc];B[fb];W[fa];B[gb];W[ad];B[ca];W[aa]))
+(;B[ec];W[fc];B[fb];W[ed];B[fa];W[ea];B[ca];W[ec];B[fd]C[Simple death.CHOICERIGHT]))
+(;W[cd];B[ba];W[ab];B[ac];W[ad];B[ec];W[fc];B[fb];W[ed];B[fd];W[ec];B[fa];W[ea];B[be]C[White cannot fill dame. Dead.CHOICERIGHT]))
+(;W[ea];B[bc];W[be]
+(;B[ba];W[ab]
+(;B[cd];W[cc];B[cf];W[bb];B[ec];W[ac];B[ed];W[bc];B[ae];W[ca])
+(;B[ac];W[da];B[ae];W[cd];B[ad]C[CHOICERIGHT]))
+(;B[ad]C[Forgetting F17's effectiveness.];W[fc]
+(;B[gb];W[cc];B[ae];W[bb];B[cd];W[ab])
+(;B[cd];W[gb];B[ga];W[fa];B[fb];W[dp];B[pp];W[gb];B[ha];W[hc])))))

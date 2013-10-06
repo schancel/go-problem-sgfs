@@ -1,0 +1,13 @@
+(;GE[endgame]DI[10k]DP[51]SO[MatheusB]CO[7]SZ[9]AB[ca]AB[da]AB[ea]AB[eb]AB[ec]AB[fd]AB[ee]AB[ef]AB[ff]AB[fg]AB[fh]AB[fi]AW[ei]AW[eh]AW[eg]AW[df]AW[de]AW[cd]AW[dc]AW[db]AW[cb]AW[ba]AW[bc]AW[cg]C[Chinese rules, komi is 7.5. Black to win the game.]AW[bb]AW[bh]AB[gc]AP[goproblems]
+(;B[dd];W[ed]
+(;B[dg];W[dh];B[dd]C[White has no threats so after Black fills in the result is B+1.5.RIGHT])
+(;B[dh];W[dg];B[dd]C[White has no threats so after Black fills in the result is B+1.5.RIGHT])
+(;B[ch];W[dd]C[This was not a ko threat. The result is W+2.5.])
+(;B[di];W[dd]C[This was not a ko threat. The result is W+2.5.]))
+(;B[ed];W[dd]C[The result is W+0.5 (Chinese rules, remember).])
+(;B[dg];W[dh]
+(;B[dd];W[ed]C[Black has no ko threats now so White will fill in and the result will be W+2.5.])
+(;B[ed];W[dd]C[The result is W+0.5 (Chinese rules, remember).]))
+(;B[dh];W[dg]
+(;B[dd];W[ed]C[Black has no ko threats now so White will fill in and the result will be W+2.5.])
+(;B[ed];W[dd]C[The result is W+0.5 (Chinese rules, remember).])))

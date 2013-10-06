@@ -1,0 +1,44 @@
+(;GE[endgame]DI[6d]DP[1]SO[ferdi]CO[8]SZ[7]AW[cb]AW[eb]AW[fb]AW[cc]AW[dc]AW[ec]AW[gc]AW[bd]AW[dd]AW[fd]AW[de]AW[ee]AW[df]AW[dg]AB[ca]AB[da]AB[bb]AB[db]AB[bc]AB[cd]AB[be]AB[ce]AB[fe]AB[cf]AB[ef]AB[gf]AB[cg]AB[eg]AB[fg]C[No komi, no prisoners - white to play and draw!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PL[W]
+(;W[ba]
+(;B[aa];W[ge];B[gd];W[ab]
+(;B[ge];W[ba];B[ad];W[ea];B[ac]
+(;W[ca];B[aa]
+(;W[af]
+(;B[bf];W[ab];B[gb]
+(;W[ga];B[aa];W[ae];B[ag];W[ab]C[And white connects the ko - jigo! RIGHT])
+(;W[aa];B[fc];W[ae];B[ag];W[gc]C[And white connects the ko - jigo! RIGHT])
+(;W[fc];B[aa];W[ae];B[ag];W[ab]C[And white connects the ko - jigo RIGHT]))
+(;B[ae];W[bg];B[bf];W[ab];B[ag];W[aa]C[Black loses by 1 point..!RIGHT]))
+(;W[ae];B[af];W[ab];B[gb]
+(;W[ga];B[aa]C[Next, black  connects the ko and wins by 1 point!])
+(;W[fc];B[aa]C[Black connects and wins by 1 point])))
+(;W[af];B[aa]
+(;W[ca];B[bf];W[ab];B[gb]
+(;W[ga];B[aa];W[ae];B[ag];W[ab]C[And white connects the ko - jigo! RIGHT])
+(;W[fc];B[aa];W[ae];B[ag];W[ab]C[And white connects the ko - jigo!]))
+(;W[bg];B[ca]
+(;W[ae];B[bd];W[da];B[bf];W[ba];B[ag];W[ab];B[gb]C[Black wins!])
+(;W[da];B[ae];W[ba];B[bf];W[ab];B[ag];W[ca];B[aa]C[Black connects the ko and wins by one point!]))))
+(;B[ac];W[ge];B[ea];W[gd];B[fa];W[gb]C[White wins by 3 pointsRIGHT]))
+(;B[ge];W[ea];B[ab]C[Jigo!RIGHT])
+(;B[ad];W[ea];B[ab]C[Jigo!];W[gd];B[ge]C[Jigo again!RIGHT]))
+(;W[ea];B[ba];W[gd];B[ge]C[This is pointless - white has lost 7 (!) points])
+(;W[ge];B[gd]
+(;W[ea];B[ge];W[ba];B[ab]C[Thanks to the ko, white gained some points, but it's still not enough: Black wins by 1 point!])
+(;W[ba];B[ge]
+(;W[ab];B[aa]
+(;W[ea];B[ac];W[ba];B[ca];W[da];B[ba]C[Black wins by 6 points....])
+(;W[ae];B[ac];W[bg];B[ad];W[af];B[ea];W[fa];B[ba]C[Black wins by 2 points]))
+(;W[ea];B[ab]C[Black wins by 1 point!]))
+(;W[ab];B[ge];W[ba];B[aa]
+(;W[ea];B[ac];W[ba];B[ca];W[da];B[ba]C[Black wins by 6 points!])
+(;W[ae];B[ba];W[bg];B[ad];W[af];B[ea];W[fa];B[ac]C[Black wins by 2 points!])))
+(;W[gd];B[ge];W[ea];B[ba]C[Black wins by 7 points...!])
+(;W[ad];B[ae]
+(;W[ba];B[aa]
+(;W[ge];B[gd];W[ab];B[ge];W[ba];B[ac];W[ea];B[aa];W[ca];B[ab]C[Black wins by 2 points!])
+(;W[ea];B[ac];W[ba];B[ca];W[ge];B[gd];W[da];B[ge];W[ba];B[ab];W[ca]C[Black wins by 3 points]))
+(;W[ge];B[gd]
+(;W[ba];B[ge];W[ea];B[ac]C[Black wins by 1 point])
+(;W[ea];B[ge];W[ba];B[ac]C[Black wins by 1 point]))
+(;W[ea];B[ba];W[gd];B[ge]C[Black wins by 7 points!])))

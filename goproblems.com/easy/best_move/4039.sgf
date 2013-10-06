@@ -1,0 +1,16 @@
+(;GE[best move]DI[5k]DP[34]SO[Lok]CO[6]AB[cr]AB[dr]AB[ep]AB[fq]AB[fr]AB[gq]AB[hr]AB[fo]AB[go]AB[gn]AB[gm]AB[fl]AB[fk]AW[br]AW[cq]AW[cp]AW[dp]AB[do]AB[co]AB[bo]AB[bp]AW[eo]AW[en]AW[fn]AW[fm]AW[dn]AW[cn]AW[gl]AW[gk]AW[fj]AW[fi]AW[hj]AW[cj]AW[di]LB[bq:A]LB[bn:B]C[Can you catch the black stones? Or do you give up the corner?]AP[goproblems]
+(;W[bq];B[bn]
+(;W[cm];B[bm];W[bl];B[ap]
+(;W[bs];B[aq];W[am];B[dq];W[an];B[cs];W[al];B[ar];W[ao];B[as]C[You can't win the semai])
+(;W[ar];B[bs];W[am];B[dq];W[an];B[cs];W[al];B[as];W[ao];B[aq]C[You can't win the semai])
+(;W[am];B[bs];W[an];B[dq];W[al];B[ar];W[ao];B[aq]C[You can't win the semai]))
+(;W[bm];B[cm]
+(;W[dm];B[cl]
+(;W[dl];B[bl];W[am];B[ap];W[an];B[al];W[aq];B[ao];W[am];B[bs];W[bm];B[an];W[bm];B[am];W[ck];B[dq]C[You can't win the semai])
+(;W[bl];B[dl]))
+(;W[bl];B[dm])
+(;W[cl];B[dm]))
+(;W[cl];B[bm]C[WC8 is a 'good style' move (Thanks tderz for the comment)]
+(;W[cm];B[bl];W[bk];B[bs]C[WC8 was 'good style' move. (Thanks tderz for the comment). But black got 5 liberties and white 4. You lose the semai.])
+(;W[bl];B[cm]C[After WC8, white can in general block with WB8. But it's not a good idea here.];W[el];B[dm];W[ek];B[em];W[fl])))
+(;W[bn]C[RIGHT];B[bq]C[Right you couldn't save these stones.RIGHT]))

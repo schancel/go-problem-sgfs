@@ -1,0 +1,64 @@
+(;GE[life and death]DI[4k]DP[31]SO[Sir-shoelace]CO[2]AB[qs]AB[qr]AB[pq]AB[pp]AB[qp]AB[rp]AB[sp]AW[pr]AW[ps]AW[or]AW[oq]AW[op]AW[oo]AW[po]AW[qo]AW[ro]AW[so]AP[goproblems]
+(;W[qq];B[rq]C[what was that?])
+(;W[ss];B[rr]
+(;W[sr])
+(;W[rs];B[sr]C[no comment...])
+(;W[sq];B[sr];W[rq];B[qq]))
+(;W[rs];B[rr]
+(;W[ss])
+(;W[sr];B[ss];W[sq];B[rq]))
+(;W[sr];B[rq]
+(;W[rr];B[rs]C[Seki.])
+(;W[rs];B[rr])
+(;W[sq];B[rr]))
+(;W[sq];B[rq]
+(;W[sr];B[rr])
+(;W[rr];B[sr]
+(;W[rs];B[ss])
+(;W[ss];B[rs]))
+(;W[rs];B[sr]
+(;W[rr])
+(;W[ss];B[rr]))
+(;W[ss];B[sr]
+(;W[rr])
+(;W[rs])))
+(;W[rq]
+(;B[rr]
+(;W[qq])
+(;W[sq];B[qq]
+(;W[sr])
+(;W[ss];B[sr]))
+(;W[sr];B[qq]
+(;W[rs];B[ss]C[Ko, Black takes first. Almost right.])
+(;W[sq];B[ss]))
+(;W[ss];B[sr]
+(;W[sq])
+(;W[qq];B[sq]
+(;W[qq];B[rq])
+(;W[rq];B[qq]))))
+(;B[sr]
+(;W[sq];B[qq])
+(;W[rr];B[rs])
+(;W[qq];B[sq])
+(;W[rs];B[rr])
+(;W[ss];B[rr])))
+(;W[rr];B[rs]
+(;W[sr];B[rq]C[Sente seki is not enough.])
+(;W[rq];B[sr]
+(;W[qq];B[sq]
+(;W[qq];B[rq])
+(;W[rr];B[rq])
+(;W[rq];B[qq]))
+(;W[sq];B[qq]))
+(;W[ss];B[sr]
+(;W[qq];B[rq])
+(;W[rq];B[sq])
+(;W[sq];B[rq]))
+(;W[sq];B[sr]LB[ss:Ko?]C[]
+(;W[rq])
+(;W[qq];B[rq])
+(;W[ss]C[Ko, White takes first; the best you can get here.RIGHT]))
+(;W[qq];B[rq]
+(;W[sq])
+(;W[sr]C[seki])
+(;W[ss]))))

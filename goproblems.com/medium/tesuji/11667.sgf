@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[4k]DP[28]SO[fye]CO[0]AB[ep]AB[eq]AB[do]AB[dn]AB[dm]AB[fr]AW[eo]AW[er]AW[dr]AW[dq]AW[dp]AW[co]AW[cn]AB[dl]AW[cm]AW[cl]AW[dk]AW[iq]AB[ek]AB[jp]AB[jq]AW[ir]AW[jr]AW[kq]AW[lq]AB[lp]AB[mq]AW[mr]AB[nq]AW[nr]AB[oq]AB[jo]AB[lo]AW[dj]AW[mc]AW[pd]AB[kc]AB[hc]AB[cd]AW[jm]TR[eo]C[Capture the marked stone]AP[goproblems]
+(;B[fo];W[en]
+(;B[fm];W[fp];B[fq];W[fn]
+(;B[gn];W[go];B[em];W[fo];B[ho];W[gp]
+(;B[hq]
+(;W[hn]C[White can't atari from G7 since the ladder doesn't work for white];B[gm];W[hp];B[ip];W[io];B[gq];W[ho];B[im]C[Nice :)RIGHT])
+(;W[gm]C[This is a mistake];B[hn];W[fl];B[el];W[fk];B[ej];W[ei];B[fj];W[gj];B[fi];W[fh];B[gi];W[hi];B[gh];W[gg];B[hh];W[ih];B[hg];W[hf];B[ig];W[jg];B[if];W[ie];B[jf];W[kf];B[je];W[jd];B[ke];W[le];B[kd]C[RIGHT]))
+(;B[hp];W[gq]
+(;B[hq];W[gr])
+(;B[gr];W[hq])))
+(;B[go];W[gn]))
+(;B[fn];W[em];B[el];W[fm];B[gm];W[fl];B[fk];W[gl];B[hl];W[gk];B[gj];W[hk];B[ik];W[hj];B[hi];W[ij];B[jj];W[ii];B[ih];W[ji];B[ki];W[jh];B[jg];W[kh];B[lh];W[kg];B[kf];W[lg];B[mg];W[lf];B[le];W[mf];B[nf];W[me];B[md];W[ne];B[oe];W[nd]))
+(;B[fn];W[fo]
+(;B[go];W[fq])
+(;B[gp];W[go];B[hp];W[fp];B[fq];W[gq]
+(;B[hq];W[gr])
+(;B[gr];W[hq]
+(;B[gn];W[ho];B[ip];W[hn])
+(;B[ho];W[gn];B[gm];W[hn])
+(;B[en];W[ho])))
+(;B[gq];W[gp];B[fq];W[hp])))

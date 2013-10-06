@@ -1,0 +1,49 @@
+(
+;GE[tesuji]DI[1k]DP[19]SO[gecko]CO[6]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.34]
+AW[lc][bb][bc][cc][db][ca][dd][de][fd][fe][cg][bh]
+AB[bd][cd][cf][df][eb][ec][dc][gc][jc]
+TR[cd][bd]
+C[The marked stones are quite dear to black. How to keep the fire cooking?]
+GN[temp]
+(
+;
+B[bg]
+;
+W[bf]
+;
+B[ce]
+C[RIGHT blacks play seems a little strange, but the possible atari at 'a' is a lifeinsurance for the black stones.]
+LB[dg:a]
+)
+(
+;
+B[dg]
+;
+W[ce]
+)
+(
+;
+B[bf]
+;
+W[eg]
+C[now what?]
+)
+(
+;
+B[ce]
+;
+W[eg]
+;
+B[ef]
+;
+W[ff]
+;
+B[fg]
+;
+W[dg]
+)
+)

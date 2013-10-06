@@ -1,0 +1,29 @@
+(;GE[life and death]DI[1k]DP[20]SO[briv]CO[4]AB[br]AB[bq]AB[cp]AB[co]AW[dq]AW[dp]AW[cq]AB[do]AB[fn]AW[gp]AW[iq]AW[jp]AW[jo]AW[kq]AW[kr]AB[lq]AB[kp]AB[ko]AB[lo]AB[mo]AB[mn]AB[mr]AW[mq]AW[nq]AW[pr]AW[pp]AW[oo]AW[pn]AW[pm]AW[qn]AW[rn]AB[rm]AB[qm]AB[pl]AB[qk]AB[ok]AB[oj]AB[oi]AW[ol]AW[nl]AW[nk]AW[nj]AW[lk]AW[kl]AW[kn]AW[ln]AB[ml]AB[jn]AB[in]AB[im]AW[ff]C[Can black kill marked stones ?]LB[df:YES]LB[di:NO]LB[jd:I don't know]TR[kn]TR[ln]AB[pc]AB[pe]AB[qd]AB[od]AW[lj]AP[goproblems]
+(;B[di]
+(;W[pd]C[Are you sure ? Try to kill white];B[km];W[lm];B[ll];W[jm];B[mm];W[km];B[kk];W[jl];B[jk];W[il];B[hl];W[ik];B[ij];W[hk];B[gk];W[hj];B[hi];W[gj];B[fj];W[gi];B[gh];W[fi];B[fh];W[ei];B[ej];W[eh];B[eg]C[White is toasted !]))
+(;B[df];W[pd]C[Are you sure ? Try to kill white];B[km];W[lm];B[ll];W[jm];B[mm];W[km];B[kk];W[jl]
+(;B[jk];W[il]
+(;B[hl];W[ik];B[ij];W[hk]AB[gk]AW[hj]AB[hi]AW[gj]AB[fj]AW[gi]AB[gh]AW[fi];B[ei];W[fh];B[fg];W[eh];B[dh];W[eg]
+(;B[ef];W[gg];B[dg];W[hh]C[Sorry but white is alive])
+(;B[gg];W[ef]C[Sorry but white is alive])
+(;B[dg];W[gg]C[Sorry but white is alive]))
+(;B[hk];W[hl];B[gl];W[hm];B[hn];W[gm];B[fm];W[gk];B[fl];W[ik]
+(;B[ij];W[hj]C[White escapes])
+(;B[hj];W[jj]C[White escapes])))
+(;B[ik];W[jk]
+(;B[jj];W[kj];B[il];W[kk]C[White escapes])
+(;B[kj];W[jj]C[White escapes]))
+(;B[ij];W[jk];B[kj];W[jj]
+(;B[ji];W[ki]C[White escapes])
+(;B[ki];W[ji]C[White escapes])))
+(;B[jd]C[RIGHT];W[pd]LB[fr:Conclusion]C[Neither do i. Sorry for wasting one's time :p];B[fr]C[So black can kill white only if he believes he can't and vice versa. There is no good answer. ;-)])
+(;B[km]C[NOTTHIS])
+(;B[jm]C[NOTTHIS])
+(;B[lm]C[NOTTHIS])
+(;B[ll]C[NOTTHIS])
+(;B[jl]C[NOTTHIS])
+(;B[mm]C[NOTTHIS])
+(;B[mk]C[NOTTHIS])
+(;B[kk]C[NOTTHIS])
+(;B[jk]C[NOTTHIS])
+(;B[nm]C[NOTTHIS]))

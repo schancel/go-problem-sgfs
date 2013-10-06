@@ -1,0 +1,98 @@
+(;GE[life and death]DI[5d]DP[4]SO[MeleeNewb]CO[0]AB[sp]AB[qp]AB[rp]AB[qo]AB[qn]AB[qm]AW[ro]AW[rn]AW[rm]AB[rl]AB[sl]AB[sk]AB[rk]AW[ql]AW[qk]AW[qj]AW[rj]AB[ri]AB[qi]AW[oi]AW[pi]AW[oh]AW[pg]AW[qg]AW[rf]AB[qf]AB[pf]AB[og]AB[nh]AB[of]AB[ni]AB[nj]AB[re]AB[qd]AB[nl]AB[om]C[Black plays and white (D)ies unconditionally, gets a (K)o, gets a (S)eki, or (L)ives unconditionally?FORCE]LB[no:D]LB[op:K]LB[nq:S]LB[or:L]AB[nk]AP[goproblems]
+(;B[no]C[Incorrect, navigate solution for why.])
+(;B[op];W[or]C[How?]
+(;B[rh];W[rg]
+(;B[pj];W[sh]
+(;B[oj];W[ph]
+(;B[si]
+(;W[sj]
+(;B[sg];W[sf]C[You have successfully navigated the problem, but one challenge remains. How many more external ko threats than white does black need to kill the entire group?]LB[nc:1]LB[oc:2]LB[pc:3]LB[qc:4]LB[rc:5]LB[sc:6]
+(;B[pc];W[pc]AB[pc]C[3 is it? Then begin the ko, and play at k for external threats.]LB[ob:k]
+(;B[so];W[sh]LB[ob:k];B[ob];W[oa];B[sg];W[sm];B[se];W[sh]LB[pb:k];B[pb];W[pa];B[sg];W[rl];B[sk];W[sh]LB[qb:k];B[qb];W[qa];B[sg]C[Great job!RIGHT])
+(;B[se];W[sh]LB[ob:k];B[ob];W[oa];B[sg];W[so];B[sm];W[sh]LB[pb:k];B[pb];W[pa];B[sg];W[sn]
+(;B[sl];W[sh]LB[qb:k];B[qb];W[qa];B[sg];W[rl];B[sk];W[sh]C[Uh-oh, black needs a 4th threat.])
+(;B[rl];W[sh]LB[qb:k];B[qb];W[qa];B[sg];W[sl];B[sm];W[sh]C[Uh-oh, black needs a 4th threat.]))
+(;B[sn];W[sh]LB[ob:k];B[ob];W[oa];B[sg];W[sm];B[so];W[sh]LB[pb:k];B[pb];W[pa];B[sg];W[rl];B[sk];W[sh]LB[qb:k];B[qb];W[qa];B[sg]C[Black still needs to remove the t15 liberty before he can win the ko.]))
+(;B[nc]C[Incorrect, navigate solution for why.])
+(;B[oc]C[Incorrect, navigate solution for why.])
+(;B[qc]C[Incorrect, navigate solution for why.])
+(;B[rc]C[Incorrect, navigate solution for why.])
+(;B[sc]C[Incorrect, navigate solution for why.]))
+(;B[sf];W[qh];B[ri];W[sm])
+(;B[so]C[NOTTHIS]))
+(;W[sg]C[Variation added to demonstrate why this does not work.NOTTHIS];B[so];W[sj];B[sn];W[sm];B[rl]))
+(;B[sf];W[sj])
+(;B[sj];W[sm])
+(;B[so];W[sj];B[sn];W[sf]))
+(;B[ph];W[qh])
+(;B[sj];W[qh])
+(;B[qh];W[sj])
+(;B[si];W[qh];B[sg];W[sj])
+(;B[sf];W[sj])
+(;B[so];W[qh]))
+(;B[sj];W[sm]
+(;B[pj];W[sh])
+(;B[so];W[si]))
+(;B[sf];W[sh]
+(;B[si];W[sg]
+(;B[ph];W[se];B[pj];W[qh])
+(;B[se];W[sj]))
+(;B[pj]))
+(;B[sh];W[sg];B[qh];W[sj])
+(;B[si];W[sj])
+(;B[so];W[qh]))
+(;B[rg];W[rh];B[sf];W[qh])
+(;B[pj];W[rh])
+(;B[so];W[rh])
+(;B[sf];W[rg];B[rh])
+(;B[sj];W[rh]
+(;B[so];W[qh])
+(;B[si];W[qh])
+(;B[qh];W[ph])
+(;B[sh];W[sm])
+(;B[sf];W[qh])
+(;B[pj];W[qh]))
+(;B[sg];W[rg]
+(;B[sh];W[sf]
+(;B[sj];W[sm])
+(;B[pj];W[rh]
+(;B[si];W[qh])
+(;B[oj];W[ph]
+(;B[si];W[sj])
+(;B[sj];W[sm])
+(;B[se];W[si]))))
+(;B[sf];W[sh];B[se];W[rh]))
+(;B[sh];W[sg]
+(;B[sj];W[rh]
+(;B[qh];W[rg]
+(;B[pj];W[ph])
+(;B[so];W[ph]))
+(;B[si];W[qh])
+(;B[so];W[qh]))
+(;B[rh];W[qh])
+(;B[qh];W[rg]
+(;B[sj];W[ph];B[so];W[rh])
+(;B[pj];W[ph]
+(;B[sj];W[rh])
+(;B[oj];W[sj])
+(;B[so];W[rh]))))
+(;B[qh];W[rg]
+(;B[sj];W[rh]
+(;B[si];W[sh])
+(;B[so];W[ph];B[sn];W[si]))
+(;B[sf];W[si];B[sh];W[rh];B[sj];W[ph]
+(;B[sm];W[sg])
+(;B[sg];W[sm])
+(;B[so];W[sg]))))
+(;B[nq]C[Incorrect, navigate solution for why.])
+(;B[or];W[rh]AW[sp]AW[rp]AW[qp]AW[qo]AW[qn]AW[qm]AB[ro]AB[rn]AB[rm]AW[rl]AW[sl]AW[rk]AW[sk]AB[ql]AB[qk]AB[qj]AB[rj]AW[qi]AW[ri]AB[pi]AB[oi]AB[oh]AW[nj]AW[ni]AW[nh]AW[og]AW[of]AW[pf]AW[qf]AW[re]AW[qd]AB[pg]AB[qg]AB[rf]AW[nl]AW[om]C[How?]AW[nk];B[rg];W[pj]
+(;B[sh];W[oj];B[ph];W[si]
+(;B[sj];W[sg];B[sf]C[ko])
+(;B[qh];W[sg])
+(;B[sg];W[so];B[sj];W[sn];B[sm];W[rl]))
+(;B[sj];W[ph]
+(;B[qh];W[oj];B[ph];W[sf]))
+(;B[ph];W[sf]
+(;B[sh];W[so];B[sj];W[sn];B[sm];W[rl])
+(;B[sg];W[so];B[sj];W[sn];B[sm];W[rl])
+(;B[si];W[sg]))))

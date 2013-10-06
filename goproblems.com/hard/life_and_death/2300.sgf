@@ -1,0 +1,608 @@
+(;GE[life and death]DI[6d]DP[2]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd29]
+
+AB[aq][br][bs][cr][dr][bp][dp][ep][fo][io][hq][iq][jp][js][fr]
+[kp][lq][mr][ms][jr][go][ks][ho][bo][dn][hm]AW[bq][cq][dq][eq]
+[er][es][fp][gp][gq][hp][ip][hr][hs][jo][kr][lo][nq][nr][lp]
+[jn][mn][np][pr][is]C[Can white save herself?]
+(;W[gr];B[fs]
+(;W[ar]
+(;B[ap]
+(;W[ds];B[as]C[Note white has no need to connect at F3 until it is put into atari (and even then you don't have to connect it) so no such variations are included with white connecting before it becomes atari.]
+
+(;W[lr];B[mq]
+(;W[jq];B[kq]
+(;W[ir];B[cp]
+(;W[jq];B[iq]
+(;W[ko];B[ar]
+(;W[ns];B[cs];W[fq];B[jq];W[mp]C[seki. RIGHT])
+(;W[mp];B[cs];W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[hq];B[cs];W[jq];B[ls];W[fq];B[iq]C[a good ko for black]
+))
+(;W[mp];B[ar]
+(;W[ko];B[cs];W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[ns];B[cs];W[fq];B[jq];W[ko]C[seki. RIGHT])
+(;W[hq];B[cs];W[jq];B[ls];W[fq];B[iq]C[a good ko for black]
+))
+(;W[ns];B[ar]
+(;W[mp];B[cs];W[fq];B[jq];W[ko]C[seki. RIGHT])
+(;W[ko];B[cs];W[fq];B[jq];W[mp]C[seki. RIGHT])
+(;W[hq];B[cs];W[jq];B[ls];W[fq];B[iq]C[a good ko for black]
+))
+(;W[hq];B[ar]C[a good ko for black]))
+(;W[ko];B[ar]
+(;W[jq];B[iq]
+(;W[hq];B[cs]C[a good ko for black])
+(;W[mp];B[cs];W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[ns];B[cs];W[fq];B[jq];W[mp]C[seki. RIGHT]))
+(;W[mp];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[ns];B[fq]))
+(;W[ns];B[fq];W[jq];B[iq]))
+(;W[ns];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq];W[mp]C[seki. RIGHT])
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[mp];B[fq]))
+(;W[mp];B[fq];W[jq];B[iq])))
+(;W[mp];B[ar]
+(;W[jq];B[iq]
+(;W[hq];B[cs]C[a good ko for black])
+(;W[ko];B[cs];W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[ns];B[cs];W[fq];B[jq];W[ko]C[seki. RIGHT]))
+(;W[ko];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq];W[ns]C[seki. RIGHT])
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[ns];B[fq]))
+(;W[ns];B[fq];W[jq];B[iq]))
+(;W[ns];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq];W[ko]C[seki. RIGHT])
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[ko];B[fq]))
+(;W[ko];B[fq];W[jq];B[iq])))
+(;W[ns];B[ar]
+(;W[jq];B[iq]
+(;W[hq];B[cs]C[a good ko for black])
+(;W[ko];B[cs];W[fq];B[jq];W[mp]C[seki. RIGHT])
+(;W[mp];B[cs];W[fq];B[jq];W[ko]C[seki. RIGHT]))
+(;W[ko];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq];W[fq];B[jq];W[mp]C[seki. RIGHT])
+(;W[mp];B[fq];W[jq];B[iq]))
+(;W[mp];B[cs]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq];W[ko]C[seki. RIGHT])
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[ko];B[fq]))
+(;W[ko];B[fq];W[jq];B[iq]))))
+(;W[ko];B[ir])
+(;W[mp];B[ir])
+(;W[ns];B[ir]))
+(;W[ko];B[jq]C[the larger eye here means black kills by one move]
+)
+(;W[mp];B[jq]C[the larger eye here means black kills by one move]
+)
+(;W[ns];B[jq]C[the larger eye here means black kills by one move]
+)
+(;W[kq];B[cp]C[the larger eye here means black kills by one move]
+)
+(;W[ls];B[kq]
+(;W[lr];B[ir])
+(;W[ir];B[lr];W[jq];B[iq]))
+(;W[ir];B[jq]C[the larger eye here means black kills by one move]
+))
+(;W[ir];B[jq]
+(;W[lr];B[mq]C[the larger eye here means black kills by one move]
+)
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[jq];B[kq]
+(;W[ir];B[lr];W[jq];B[iq])
+(;W[lr];B[ir]))
+(;W[kq];B[lr])
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[lr];B[ds]
+(;W[mq];B[kq]
+(;W[ko];B[ls];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[fq]))
+(;W[ns];B[ls];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[fq]))
+(;W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq]
+(;W[ko];B[ls])
+(;W[ns];B[ls]))
+(;W[hq];B[fq];W[jq];B[ls]))
+(;W[ko];B[ls];W[jq];B[fq])
+(;W[ns];B[ls];W[jq];B[fq])))
+(;W[kq];B[mq]C[black wins this easily])
+(;W[ko];B[mq]
+(;W[kq];B[jq]C[black wins this easily])
+(;W[ns];B[cp]C[black wins this easily])
+(;W[ir];B[jq]C[black wins this easily])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq]
+(;W[mp];B[hq])
+(;W[ns];B[hq]))
+(;W[hq];B[fq];W[jq];B[ls])))
+(;W[mp];B[cp]C[black wins this easily]))
+(;W[ns];B[mq]
+(;W[ko];B[cp]C[black wins this easily])
+(;W[mp];B[cp]C[black wins this easily])
+(;W[ir];B[jq]C[black wins this easily])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq])
+(;W[hq];B[fq];W[jq];B[ls])))
+(;W[kq];B[cp]C[black wins this easily]))
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq])
+(;W[hq];B[fq];W[jq];B[ls])))
+(;W[ir];B[kq]
+(;W[jq];B[iq]
+(;W[hq];B[jq]C[white loses])
+(;W[ko];B[jq]C[white loses])
+(;W[mq];B[jq]C[white loses])
+(;W[ns];B[jq]C[white loses]))
+(;W[ko];B[ls]C[white loses])
+(;W[mq];B[ls]C[white loses])
+(;W[ns];B[ls]C[white loses])))
+(;W[kq];B[lr])
+(;W[mq];B[lr])
+(;W[ko];B[lr])
+(;W[ir];B[jq]
+(;W[lr];B[mq]
+(;W[ds];B[as]C[the bigger eye means black kills by one move]
+)
+(;W[ko];B[ds]C[black wins easily])
+(;W[mp];B[ds]C[black wins easily])
+(;W[ns];B[ds]C[black wins easily]))
+(;W[ds];B[as];W[lr];B[mq]C[the bigger eye means black kills by one move]
+)
+(;W[mq];B[lr])
+(;W[ko];B[lr])
+(;W[ns];B[lr]))
+(;W[jq];B[kq]
+(;W[ir];B[lr])
+(;W[lr];B[ir])
+(;W[ds];B[as]
+(;W[ir];B[lr])
+(;W[lr];B[ir])))
+(;W[ns];B[lr]))
+(;B[ds];W[ap];B[ao];W[aq];B[cp];W[lr];B[ir];W[kq]C[black dies this way]
+))
+(;W[ds];B[ar]C[White misses a chance here.])
+(;W[lr];B[ds]
+(;W[kq];B[mq]C[black wins easily])
+(;W[ir];B[kq]
+(;W[jq];B[iq]
+(;W[hq];B[jq]C[white loses])
+(;W[mq];B[cp];W[fq];B[jq]
+(;W[ko];B[ls])
+(;W[ns];B[ls]))
+(;W[ko];B[jq]C[white loses])
+(;W[mq];B[jq]C[white loses])
+(;W[ns];B[jq]C[white loses]))
+(;W[mq];B[ls]C[white loses])
+(;W[ko];B[ls]C[white loses])
+(;W[ns];B[ls]C[white loses]))
+(;W[mq];B[kq]
+(;W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq]
+(;W[ko];B[ls])
+(;W[ns];B[ls]))
+(;W[ko];B[ls]
+(;W[fq];B[jq])
+(;W[ns];B[fq])
+(;W[hq];B[fq]))
+(;W[ns];B[ls]
+(;W[fq];B[jq])
+(;W[ko];B[fq])
+(;W[hq];B[fq]))
+(;W[hq];B[fq];W[jq];B[ls]))
+(;W[ko];B[ls]
+(;W[jq];B[fq])
+(;W[ns];B[fq]))
+(;W[ns];B[ls]
+(;W[jq];B[fq])
+(;W[ko];B[fq])))
+(;W[ko];B[ls];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[fq]))
+(;W[ns];B[ls];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[fq])))
+(;W[ko];B[mq]
+(;W[ir];B[jq]C[black wins easily])
+(;W[kq];B[jq]C[black wins easily])
+(;W[ns];B[jq]C[black wins easily])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[jq];B[iq];W[fq];B[jq])
+(;W[fq];B[gs]))
+(;W[mp];B[jq]C[black wins easily]))
+(;W[ns];B[mq])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq])
+(;W[hq];B[fq];W[jq];B[ls]))))
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[ko];B[lr])
+(;W[kq];B[lr])
+(;W[jq];B[kq]LB[ir:a][lr:b]C['a' and 'b' are miai for black to get 2 eyes so white is dead]
+)
+(;W[ir];B[jq]
+(;W[lr];B[mq]C[white can do no better than lose by one move against the larger black eye]
+)
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[ar];B[ap]
+(;W[lr];B[mq]C[white can do no better than lose by one move against the larger black eye]
+)
+(;W[mq];B[lr])
+(;W[ko];B[lr])
+(;W[ns];B[lr])
+(;W[ds];B[as]
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[lr];B[mq]C[white can do no better than lose by one move against the larger black eye]
+)))
+(;W[ds];B[ar]
+(;W[lr];B[mq]C[white loses easily against the larger black eye]
+)
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[ap];B[ar]
+(;W[lr];B[mq]C[white can do no better than lose by one move against the larger black eye]
+)
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[ds];B[lr])))
+(;W[ap];B[ar]
+(;W[ds];B[lr])
+(;W[lr];B[ds]
+(;W[mq];B[kq]
+(;W[ko];B[ls];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[fq]))
+(;W[ns];B[ls];W[ir];B[cp]
+(;W[jq];B[fq])
+(;W[fq];B[gs])))
+(;W[kq];B[mq]C[black wins easily])
+(;W[ko];B[mq]
+(;W[kq];B[jq]C[black wins easily])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[hq];B[fq];W[jq];B[ls])
+(;W[fq];B[jq])))
+(;W[ir];B[jq]C[black wins easily])
+(;W[ns];B[jq]C[black wins easily])
+(;W[mp];B[jq]C[black wins easily]))
+(;W[ns];B[mq]
+(;W[kq];B[jq]C[black wins easily])
+(;W[ko];B[jq]C[black wins easily])
+(;W[mp];B[jq]C[black wins easily])
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq])
+(;W[hq];B[fq];W[jq];B[ls])))
+(;W[ir];B[jq]C[black wins easily]))
+(;W[ir];B[kq]
+(;W[jq];B[iq]
+(;W[hq];B[jq]C[black wins])
+(;W[ko];B[jq]C[black wins])
+(;W[mq];B[jq]C[black wins])
+(;W[ns];B[jq]C[black wins]))
+(;W[ko];B[ls]C[black wins])
+(;W[mq];B[ls]C[black wins])
+(;W[ns];B[ls]C[black wins]))
+(;W[jq];B[kq];W[ir];B[cp]
+(;W[fq];B[gs])
+(;W[jq];B[iq]
+(;W[fq];B[jq])
+(;W[hq];B[fq];W[jq];B[ls]))))
+(;W[kq];B[lr])
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[jq];B[kq]LB[ir:a][lr:b]C['a' and 'b' are miai for black to get 2 eyes so white is dead]
+)
+(;W[ir];B[jq]
+(;W[ds];B[lr])
+(;W[lr];B[mq]C[white can do no better than lose by one move against the larger black eye]
+)
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))))
+(;W[lr];B[gr]
+(;W[fq];B[kq]LB[jq:a][lr:b]C[black has eyes at 'a' and 'b', since white is unable to approach at J2, so white is dead]
+)
+(;W[kq];B[mq]
+(;W[fq];B[ds]C[easy win for black])
+(;W[ko];B[fq])
+(;W[ar];B[fq]
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp])
+(;W[ap];B[ao]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[cs];B[ds])
+(;W[as];B[fs]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp])))
+(;W[ap];B[fq]
+(;W[ds];B[ar])
+(;W[cs];B[ar])
+(;W[ar];B[ao]
+(;W[aq];B[cp]
+(;W[cs];B[ds])
+(;W[ds];B[cs])
+(;W[as];B[cs]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp])))
+(;W[cs];B[ds])
+(;W[ds];B[ar])
+(;W[fs];B[fq])
+(;W[gs];B[fq]))
+(;W[mq];B[kq]C[black has two eyes since white is unable to play J2]
+)
+(;W[ir];B[fq])
+(;W[fs];B[fq])
+(;W[ar];B[fq]
+(;W[ap];B[ao]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp]))
+(;W[ap];B[fq]
+(;W[ar];B[ao]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[ds];B[ar])
+(;W[cs];B[ds];W[ar];B[ao];W[aq];B[cp]))
+(;W[ds];B[fq]
+(;W[cs];B[ar])
+(;W[ar];B[cs])
+(;W[ap];B[ar]))
+(;W[gs];B[fq])
+(;W[jq];B[fq]))
+(;W[jq];B[kq]LB[ir:a][lr:b]C['a' and 'b' are miai for black to live so white is dead]
+)
+(;W[mq];B[lr])
+(;W[ko];B[lr])
+(;W[ns];B[lr])
+(;W[kq];B[lr])
+(;W[ir];B[jq]
+(;W[ap];B[fq]
+(;W[ar];B[ao]
+(;W[aq];B[cp]
+(;W[as];B[fs])
+(;W[cs];B[ds])
+(;W[ds];B[cs])
+(;W[fs];B[gr]C[white has nothing here]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[gr];B[gs];W[ar];B[ao]
+(;W[ds];B[cs])
+(;W[aq];B[cp]
+(;W[cs];B[ds])
+(;W[ds];B[cs]))
+(;W[cs];B[ds];W[aq];B[cp])))
+(;W[ar];B[fq]
+(;W[ap];B[ao]
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp])
+(;W[aq];B[cp]
+(;W[cs];B[ds])
+(;W[ds];B[cs])))
+(;W[gr];B[gs])
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp]))
+(;W[ds];B[fq]
+(;W[ar];B[cs])
+(;W[ap];B[ar])
+(;W[gr];B[gs]))
+(;W[gr];B[fs]
+(;W[ds];B[ar]
+(;W[lr];B[mq]C[Black wins easily])
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[ar];B[ap]
+(;W[ds];B[as]
+(;W[lr];B[mq]C[Black wins by one move with the larger eye])
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[lr];B[mq]
+(;W[ko];B[ds]C[black wins easily])
+(;W[mp];B[ds]C[black wins easily])
+(;W[ns];B[ds]C[black wins easily])
+(;W[ds];B[as]C[Black wins by one move with the larger eye]))
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr]))
+(;W[ap];B[ar]
+(;W[ds];B[lr])
+(;W[ko];B[lr])
+(;W[mq];B[lr])
+(;W[ns];B[lr])
+(;W[lr];B[mq]
+(;W[ko];B[ds]C[black wins easily])
+(;W[mp];B[ds]C[black wins easily])
+(;W[ns];B[ds]C[black wins easily])
+(;W[ds];B[cp]C[Black wins by one move with the larger eye])))
+(;W[lr];B[mq]C[white's best is to lose by one move due to black's larger eye]
+))
+(;W[fq];B[lr])
+(;W[fs];B[gr]
+(;W[fq];B[lr])
+(;W[gs];B[fq])
+(;W[ds];B[ar]
+(;W[fq];B[lr])
+(;W[gs];B[fq])
+(;W[lr];B[fq]))
+(;W[lr];B[fq])
+(;W[ar];B[ap]
+(;W[ds];B[as]
+(;W[fq];B[lr])
+(;W[gs];B[fq])
+(;W[lr];B[fq]))
+(;W[fq];B[lr])
+(;W[lr];B[fq])
+(;W[gs];B[fq]))
+(;W[ap];B[ar]
+(;W[fq];B[lr])
+(;W[lr];B[fq])
+(;W[gs];B[fq])
+(;W[ds];B[fq])))
+(;W[lr];B[gr]))
+(;W[fq];B[lr]C[black has 2 eyes to the right so white is dead]
+)
+(;W[fs];B[gr]
+(;W[fq];B[lr]C[black has 2 eyes on the right so white is dead]
+)
+(;W[ar];B[fq]
+(;W[ap];B[ao]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp]))
+(;W[ap];B[fq]
+(;W[ar];B[ao]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[ds];B[cs]
+(;W[as];B[ao])
+(;W[ar]C[bulky five]))
+(;W[cs];B[ds];W[ar];B[ao];W[aq];B[cp]))
+(;W[ds];B[ar];W[fq];B[ir];W[gs]C[black kills in sente since black already has 2 eyes on the right]
+)
+(;W[cs];B[fq]
+(;W[ds];B[ar])
+(;W[ar];B[ds];W[ap];B[ao];W[aq];B[cp])
+(;W[ap];B[ar])))
+(;W[ds];B[gr]
+(;W[ar];B[cs]C[white can't catch black F2/G2 and is reduced to a bulky five]
+)
+(;W[ap];B[ar]C[white can't catch black F2/G2 so is dead])
+(;W[cs];B[ar]C[white can't catch black F2/G2 so is dead])
+(;W[fq];B[ir]
+(;W[ar];B[cs])
+(;W[ap];B[ar])
+(;W[cs];B[ar])))
+(;W[ar];B[gr]
+(;W[fq];B[ir]
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp])
+(;W[ap];B[ao]
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp])
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[cs];B[ds]))))
+(;W[ap];B[ao]
+(;W[cs];B[fq]
+(;W[ds]C[black kills half the group in sente and is happy])
+(;W[fs];B[ds]C[dead])
+(;W[aq];B[cp]
+(;W[ds];B[fs];W[as]C[black kills half the group in sente and is happy]
+)
+(;W[fs];B[ds]C[dead])
+(;W[as];B[fs];W[ds]C[black kills half the group in sente and is happy]
+))
+(;W[as];B[aq]
+(;W[ds];B[ar])
+(;W[ar];B[ds];W[ap];B[cp]C[dead])))
+(;W[ds];B[cs]C[dead])
+(;W[aq];B[fq]
+(;W[ds];B[cs]C[dead])
+(;W[as];B[cs]C[dead])
+(;W[cs];B[cp]
+(;W[as];B[fs];W[ds]C[black kills half the group in sente and is happy]
+)
+(;W[ds];B[fs];W[as]C[black kills half the group in sente and is happy]
+)
+(;W[fs];B[ds]C[dead]))
+(;W[fs];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds])))
+(;W[fs];B[fq]
+(;W[ds];B[cs])
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[cs];B[ds];W[aq];B[cp]))
+(;W[fq];B[ir]
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[aq];B[cp])))
+(;W[fs];B[fq]
+(;W[ds];B[cs])
+(;W[cs];B[ds];W[ap];B[ao];W[aq];B[cp])
+(;W[ap];B[ao]
+(;W[ds];B[cs])
+(;W[aq];B[cp]
+(;W[ds];B[cs])
+(;W[as];B[cs])
+(;W[cs];B[ds]))
+(;W[cs];B[ds];W[aq];B[cp])))
+(;W[ds];B[cs]C[dead])
+(;W[cs];B[ap];W[ds];B[as];W[ar];B[br]
+(;W[bs];B[as]C[black has this ko for the whole group or he can kill half in sente unconditionally by playing F3 instead of A4 earlier]
+)
+(;W[cr];B[as])
+(;W[as];B[cr])))
+(;W[ap];B[ar]C[This fails because white can no longer force black to require an approach move here (and white D1 is gote if she tries). Please use the navigate solution option starting G2, F1, A4 for the full variations.]
+))

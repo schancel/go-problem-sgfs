@@ -1,0 +1,83 @@
+(;GE[best move]DI[2k]DP[21]SO[ketran0]CO[4]AB[rp]AB[ro]AB[rn]AW[sr]AW[rq]AW[qr]AW[rs]AB[rm]AW[rl]AW[ql]AW[pl]AW[ol]AB[rk]AB[qk]AB[pk]AB[ok]AB[qp]AB[qq]AB[pq]AB[pr]AW[sq]AW[qs]AB[ps]AB[oq]AB[nq]AB[mq]AB[ls]AB[mr]AW[lr]AW[lq]AW[mp]AW[np]AW[op]AW[pp]AW[qo]AW[qn]AW[qm]AW[lp]AW[jr]AW[ir]C[White needs ko threats for a big ko fight somewhere else. How many big ko threats does white have?]LB[km:1]LB[lm:2]LB[mm:3]LB[nm:4]LB[jm:0]AB[sk]AP[goproblems]
+(;W[jm]C[W has more])
+(;W[km]C[Not so few])
+(;W[lm];B[km]C[Show me]LB[lm:2]
+(;W[sl];B[sm]C[Thats one...]LB[lm:2]
+(;W[sp];B[so]C[And that's two. Now haven't we forgotten one? Play it if you think there's more, play NO (N7) if you think there really are no more that 2 threats here.]LB[mm:NO]LB[lm:2]
+(;W[mm]C[Yes. O1 is not a threat as you undoubtedly know.RIGHT])
+(;W[ns];B[mm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[nm:tenuki]
+(;W[nr];B[ms])
+(;W[ms];B[os]
+(;W[nr];B[or])
+(;W[ks];B[nr]))
+(;W[nm]C[Yeah, O1 wasn't a threat after all. Pity you lost that big ko.]))
+(;W[ms];B[mm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[lm:X];W[ns]))
+(;W[so];B[sp]C[And that's two. Now haven't we forgotten one? Play it if you think there's more, play NO (N7) if you think there really are no more that 2 threats here.]LB[mm:NO]LB[lm:2]
+(;W[mm]C[RIGHT])
+(;W[ns];B[mm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[nm:tenuki]LB[lm:X]
+(;W[ms];B[os]
+(;W[ks];B[nr])
+(;W[nr];B[or]))
+(;W[ks];B[ms])
+(;W[nr];B[ms])
+(;W[nm]C[Pity you lost the ko for it.]))
+(;W[ms];B[mm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[lm:X];W[ns])))
+(;W[sm];B[sl]C[Black is completely safe after just 1 threat. White needs 3 moves in a row to cut now.])
+(;W[sp];B[sl]C[No more threats on the T line now. Black is safe.])
+(;W[ns];B[mm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]
+(;W[sl];B[sm]
+(;W[sp];B[so];W[ms])
+(;W[so];B[sp];W[ms])
+(;W[ms];B[os]
+(;W[nr];B[or])
+(;W[ks];B[nr])
+(;W[sp];B[nr])
+(;W[so];B[nr])))
+(;W[sm];B[sl])
+(;W[ms];B[sl])
+(;W[sp];B[sl])))
+(;W[mm];B[lm]LB[mm:3]C[Show me all three of them.]
+(;W[sl];B[sm]C[The first...]LB[mm:3]
+(;W[sp];B[so]C[The second...]LB[mm:3]LB[nm:Oops]
+(;W[ns];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X]
+(;W[ms];B[os]
+(;W[ks];B[nr])
+(;W[nr];B[or]))
+(;W[ks];B[ms])
+(;W[nr];B[ms]))
+(;W[nm]C[Oops indeed. You started a ko thinking you had 3 threats and now, when it is too late, you see there are just 2. Sorry but no cigar.]LB[mm:3!])
+(;W[ms];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X];W[ns]))
+(;W[so];B[sp]C[Second...]LB[mm:3]LB[nm:Oops]
+(;W[ns];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X];W[ms];B[os]
+(;W[nr];B[or])
+(;W[ks];B[nr]))
+(;W[nm]C[Oops indeed. You started a ko thinking you had 3 threats and now, when it is too late, you see there are just 2. That won't do it for me.]LB[mm:3!!!])
+(;W[ms];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X];W[ns]))
+(;W[ns];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X]
+(;W[ms];B[os]
+(;W[ks];B[nr])
+(;W[nr];B[or])
+(;W[sp];B[nr])
+(;W[so];B[nr]))
+(;W[sp];B[so];W[ms])
+(;W[so];B[sp]))
+(;W[ms];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X]
+(;W[ns])
+(;W[sp];B[so];W[ns])
+(;W[so];B[sp];W[ns])))
+(;W[sm];B[sl]C[Thats just 1.]LB[mm:3..?])
+(;W[sp];B[sl]C[Nope, here it ends.]LB[mm:3...])
+(;W[ns];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X]
+(;W[sl];B[sm]
+(;W[sp])
+(;W[ms])
+(;W[so]))
+(;W[sm];B[sl])
+(;W[ms];B[sl])
+(;W[sp];B[sl]))
+(;W[ms];B[nm]C[Black ignores your threat and takes the big ko (somewhere else)! Now what?]LB[mm:X]
+(;W[ns])
+(;W[sl];B[sm];W[sp])
+(;W[sm];B[sl])
+(;W[sp];B[sl])))
+(;W[nm];B[lm]LB[nm:4??]C[No. Never choose the highest number in a multiple choice problem, you should know better :) But go back, choose a lower number and prove me wrong by finding 4 threats there.]))

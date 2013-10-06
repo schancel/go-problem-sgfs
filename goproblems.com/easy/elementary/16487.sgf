@@ -1,0 +1,13 @@
+(;GE[elementary]DI[6k]DP[39]SO[santa c]CO[0]AB[ir]AB[hr]AB[gr]AB[gs]AB[kr]AB[kq]AB[ls]AW[mr]AW[ms]AW[mq]AW[lp]AW[kp]AW[jp]AW[iq]AW[gq]AW[fp]AW[fr]AW[fs]AW[ip]AB[is]C[Kill B! M1 is wrong, where should it have been? There's only one correct place for it.]TR[ls]AP[goproblems]
+(;W[ks]
+(;B[js]C[CHOICE]
+(;W[jq];B[lr];W[jr]C[nice!RIGHT])
+(;W[lr];B[jq];W[ks]C[ko]))
+(;B[lr]C[CHOICE]
+(;W[jr];B[js];W[jq]C[nice!RIGHT])
+(;W[jq];B[jr])
+(;W[lq];B[jr])))
+(;W[lr];B[ks]MA[jr]MA[jq])
+(;W[jq];B[jr]MA[ks]MA[lr])
+(;W[lq];B[jr]MA[ks]MA[lr])
+(;W[jr];B[jq]))

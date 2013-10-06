@@ -1,0 +1,25 @@
+(;GE[endgame]DI[2d]DP[13]SO[ferdi]CO[8]SZ[7]AW[da]AW[db]AW[eb]AW[dc]AW[fc]AW[gc]AW[dd]AW[de]AW[ee]AW[df]AW[dg]AB[cb]AB[bc]AB[ad]AB[bd]AB[fd]AB[gd]AB[be]AB[fe]AB[cf]AB[ef]AB[gf]AB[eg]C[No komi, no prisoners - White to play and draw!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PL[W]
+(;W[bf]
+(;B[ce]
+(;W[cg];B[ab];W[ca];B[ba];W[cc];B[bb]
+(;W[ed];B[af];W[bg]C[Jigo! RIGHT])
+(;W[af];B[ed];W[ec];B[bg]
+(;W[fa];B[ae]C[Black wins by six points])
+(;W[ag];B[fa]C[white is dead!])))
+(;W[bb];B[cc]LB[ab:A]LB[af:B]C[Black can live with A or B now, and since he will capture a stone in the process, he will win by one point (compare the solution)])
+(;W[af]
+(;B[cg];W[bb];B[ba];W[ab];B[ac];W[cc];B[aa];W[bb]C[RIGHT])
+(;B[ca]C[CHOICE];W[cg];B[bg];W[ag];B[ae];W[bg];B[ab];W[ed]C[RIGHT])))
+(;B[bg];W[af]
+(;B[ce];W[bb];B[ba];W[ab]
+(;B[cc];W[ca];B[ac];W[cg]C[Black is short of liberties and can't play A3, so he is dead......])
+(;B[ac];W[cc];B[aa];W[bb];B[ab];W[ca]C[Black is dead!]))
+(;B[ae];W[bb];B[ba];W[ab];B[ac];W[ed]C[! Both black eyes are gote, so there is no need to add another move at the left :)])))
+(;W[cg];B[bg];W[ce];B[bf];W[ca];B[ba];W[cc];B[bb];W[ed]C[This is hopeless for White: Black wins by 4 points])
+(;W[bb]C[NOTTHIS])
+(;W[ab]C[NOTTHIS])
+(;W[ac]C[NOTTHIS])
+(;W[aa]C[NOTTHIS])
+(;W[ba]C[NOTTHIS])
+(;W[ca]C[NOTTHIS])
+(;W[cc]C[NOTTHIS]))

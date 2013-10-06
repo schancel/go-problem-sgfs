@@ -1,0 +1,23 @@
+(;GE[endgame]DI[5d]DP[4]SO[Field Mouse]CO[0]AB[gb]AB[fb]AB[fc]AB[ec]AB[hc]AB[ic]AB[kc]AB[kd]AB[mc]AB[ob]AB[nc]AB[pb]AB[qb]AW[rb]AW[qc]AW[pc]AW[oc]AW[rc]AW[qa]AW[nd]AW[md]AW[le]AW[ke]AW[je]AW[id]AW[hd]AW[gc]AW[gd]AW[fd]AW[ed]AW[dc]AW[db]AW[eb]AW[dd]AB[na]AB[pa]AW[ra]AW[ma]AW[hb]AB[ib]C[White to play some good endgame. If black makes a mistake punish it (the 'best for both' solution might not be correct if black makes a mistake).]AP[goproblems]
+(;W[lc];B[lb]
+(;W[ld];B[mb];W[kb];B[jc])
+(;W[kb];B[ka]))
+(;W[kb];B[jc];W[lc];B[lb];W[ld];B[mb])
+(;W[jc]
+(;B[kb];W[jb];B[ha];W[jd];B[ja];W[lb]
+(;B[lc];W[ka];B[ia];W[fa];B[mb];W[ea];B[la];W[ga]C[White did good.RIGHT])
+(;B[mb];W[lc];B[la];W[ld];B[ka]C[White did good.RIGHT]))
+(;B[jb]
+(;W[ha]
+(;B[ia]C[CHOICE];W[kb]
+(;B[jd];W[lc];B[lb];W[ld]TR[jc]TR[mb]C[Black is doomed!CHOICERIGHT])
+(;B[ga];W[lc];B[lb];W[ld];B[la];W[jd];B[ka]C[Black defended well but still suffered some damage.RIGHT]))
+(;B[jd];W[lc];B[lb];W[ld];B[mb];W[fa];B[ia];W[ga]C[RIGHT]))
+(;W[kb]
+(;B[lb];W[ha]C[CHOICERIGHT])
+(;B[ha];W[lc];B[lb];W[ld];B[la];W[jd];B[ka]C[RIGHT])))
+(;B[ha];W[lc];B[lb];W[ld]TR[kb]TR[mb]C[RIGHT])
+(;B[jd];W[jb];B[ha];W[lc];B[kb];W[lb]C[RIGHT]))
+(;W[ha];B[ia];W[jc];B[kb];W[jb];B[ga];W[jd];B[ja])
+(;W[lb];B[lc];W[jc];B[jb])
+(;W[mb];B[lb]))

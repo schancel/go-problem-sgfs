@@ -1,0 +1,16 @@
+(;GE[life and death]DI[8k]DP[47]SO[stro]CO[0]AB[cb]AB[dc]AB[dd]AB[ed]AB[fd]AB[fc]AB[be]AW[bb]AW[db]AW[eb]AW[ec]AW[fb]AW[hc]AW[he]AW[bh]AW[cf]AW[ef]AW[gf]AB[ca]AW[bc]AB[cc]AW[ce]AB[bd]AW[bf]C[Black to live]AP[goproblems]
+(;B[ba]C[See previous problem.])
+(;B[ac];W[ae]TR[ab]TR[ba]C[:(])
+(;B[ab]
+(;W[ac]
+(;B[ad];W[aa];B[ba]C[Nice!RIGHT])
+(;B[ba];W[aa];B[ad]C[Nice!RIGHT]))
+(;W[ba]
+(;B[ac];W[ae])
+(;B[ae];W[ac]C[This would be saved as a ko threat]
+(;B[ad]C[Well done! Although C16 is slightly better as A16 allows white to play A14 in sente (in the endgame)RIGHT])
+(;B[cd]C[RIGHT]))))
+(;B[ae];W[ac]
+(;B[ba];W[ab])
+(;B[ab];W[aa]TR[ad]TR[ba]C[:(]))
+(;B[aa]C[Congratulations! You found the one move white doesn't have to respond to! :D]TR[ae]TR[ac]))

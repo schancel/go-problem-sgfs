@@ -1,0 +1,54 @@
+(;GE[life and death]DI[5k]DP[33]SO[Max007]CO[9]GM[1]FF[1]SZ[19]NE[B]SS[@40]
+GC[Black to live.]
+AB[es][er][dq][cq][ap][bq]
+AW[aq][bo][bp][dp][ep][gq][eq][fr]
+(
+;B[cs]ID[1]
+;W[ar]ID[2]
+;B[br]ID[3]
+;W[ao]ID[4]
+;B[dr]ID[5]C[RIGHT]
+)
+(
+;B[ar]ID[16]
+;W[bs]ID[17]
+;B[cs]ID[18]
+;W[cr]ID[19]
+   (
+   ;B[dr]ID[20]
+   ;W[ds]ID[21]C[Itfs ko.___]
+   )
+   (
+   ;B[br]ID[35]
+   ;W[ds]ID[36]
+   )
+)
+(
+;B[br]ID[22]
+;W[cs]ID[23]
+;B[ar]ID[24]
+;W[bs]ID[25]
+)
+(
+;B[cr]ID[27]
+;W[ar]ID[28]
+   (
+   ;B[ds]ID[29]
+   ;W[bs]ID[30]
+   )
+   (
+   ;B[br]ID[37]
+   ;W[ao]ID[38]
+   )
+   (
+   ;B[bs]ID[39]
+   ;W[ds]ID[40]
+   )
+)
+(
+;B[bs]ID[31]
+;W[ar]ID[32]
+;B[cr]ID[33]
+;W[ds]ID[34]
+)
+)

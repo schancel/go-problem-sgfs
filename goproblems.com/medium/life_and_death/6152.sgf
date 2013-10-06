@@ -1,0 +1,37 @@
+(;GE[life and death]DI[3k]DP[25]SO[mrmoto]CO[8]AB[sq]AB[rq]AB[qq]AB[oq]AB[pq]AB[rr]AB[qp]AW[sr]AW[rs]AW[nq]AW[np]AW[op]AW[po]AW[qo]AW[rp]AW[sp]AW[rn]AW[sn]AW[oo]AW[mq]AW[mr]AW[ms]AW[qn]C[What can white do here?]AP[goproblems]
+(;W[or];B[qs])
+(;W[os];B[qs])
+(;W[pr];B[or])
+(;W[qr];B[or])
+(;W[ps];B[os]
+(;W[qs];B[or]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[qr];B[pr])
+(;W[pr];B[or])
+(;W[ns];B[qs]
+(;W[or];B[ss])
+(;W[qr];B[pr];W[or];B[qs]MA[ss]MA[qr]))
+(;W[or];B[pr]
+(;W[nr];B[qs])
+(;W[ns];B[qs];W[qr];B[ss]MA[qs]MA[sr])
+(;W[pp];B[qs])
+(;W[qs];B[nr]
+(;W[pp];B[ss]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[ns];B[or];W[pp];B[ss]C[Correct!  Now see if you can find two other answers.RIGHT]MA[sr]))
+(;W[qr];B[qs]))
+(;W[ss];B[qs]))
+(;W[qs];B[os]
+(;W[qr];B[pr])
+(;W[ps];B[or]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[pr];B[or])
+(;W[ss];B[or]C[])
+(;W[pp];B[or]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[ns];B[or]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[nr];B[or]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[or];B[pr]
+(;W[nr];B[ps]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[pp]C[];B[ps]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[ps];B[nr];W[ns];B[or];W[pp];B[ss]C[Correct!  Now see if you can find two other answers.RIGHT]MA[sr])
+(;W[ns];B[ps]
+(;W[pp];B[ss]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[nr];B[ss]C[Black has too many liberties; the ko fight will be hard for white.])
+(;W[ss];B[qr];W[rs];B[ss];W[sr];B[ro];W[so];B[ss]MA[sr]C[Good work :)RIGHT])))))

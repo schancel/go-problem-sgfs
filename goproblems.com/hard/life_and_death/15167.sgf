@@ -1,0 +1,40 @@
+(;GE[life and death]DI[4d]DP[8]SO[mysandbox]CO[0]AB[rr]AB[qq]AB[pp]AB[oq]AB[or]AB[nr]AB[mr]AB[mq]AW[kq]AW[lq]AW[lr]AW[mp]AW[np]AW[nq]AW[op]AW[po]AW[qo]AW[rp]AW[rq]AW[sr]AB[qs]C[neither W&B have external ko threat.]AP[goproblems]
+(;W[rs]C[];B[ss]
+(;W[pr];B[ps];W[rs];B[qr])
+(;W[pq];B[pr];W[rs]
+(;B[qr];W[qp];B[ms];W[os];B[ss];W[sq]C[RIGHT]))
+(;W[qp];B[sq]
+(;W[pq];B[qr]
+(;W[pr];B[ps]
+(;W[pp];B[os]
+(;W[ms]C[RIGHT])
+(;W[sp];B[ms];W[sr]C[RIGHT]))
+(;W[sp];B[pp]
+(;W[sr];B[pq])
+(;W[pq];B[ms])
+(;W[ms];B[pq]
+(;W[sr];B[ns])
+(;W[ns];B[sr])))
+(;W[ms];B[pp]
+(;W[ns];B[pq])
+(;W[pq];B[ns])
+(;W[sp];B[sr])))
+(;W[ms];B[pr])
+(;W[sp];B[sr]
+(;W[pr];B[ps]
+(;W[pp];B[os];W[ms]C[RIGHT])
+(;W[ms];B[pp]))
+(;W[ms];B[pr])))
+(;W[sp];B[pq]
+(;W[sr];B[ps])
+(;W[ps];B[sr])
+(;W[ms];B[sr]))))
+(;W[pr]C[];B[ps]C[White waste local ko threat])
+(;W[ms];B[pr]C[White waste local ko threat])
+(;W[os];B[rs]
+(;W[pr];B[ps]C[black is alive])
+(;W[ms];B[ns]C[black is alive])
+(;W[pq];B[pr]C[black is alive])
+(;W[ns];B[ms]C[black is alive]))
+(;W[ns];B[ms];W[rs];B[qr];W[qp];B[pq])
+(;W[ps];B[pr]C[White waste local ko threat.]))

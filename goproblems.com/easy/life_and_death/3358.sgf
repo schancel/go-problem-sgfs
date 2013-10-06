@@ -1,0 +1,14 @@
+(;GE[life and death]DI[20k]DP[71]SO[dakkon1024]CO[5]SZ[19]AW[pa]AW[ra]AW[sa]AW[pb]AW[qc]AW[qd]AW[rd]AW[sd]AB[oa]AB[ob]AB[rb]AB[sb]AB[oc]AB[rc]AB[pd]AB[pe]AB[qe]AB[re]AB[se]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;W[qb];B[qa];W[ra];B[pc]C[Seki, The only answer... RIGHT])
+(;W[pc];B[qa]
+(;W[qb];B[sc])
+(;W[sc];B[qb])
+(;W[ra];B[sa];W[qb];B[sc])
+(;W[sa];B[qb]))
+(;W[qa];B[qb]
+(;W[pc];B[sc])
+(;W[sc];B[rb]C[One eye]))
+(;W[sc];B[qa]
+(;W[qb];B[pc])
+(;W[ra];B[sa];W[qb];B[pc])
+(;W[sa];B[pc])))

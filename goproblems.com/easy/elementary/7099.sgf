@@ -1,0 +1,25 @@
+(;GE[elementary]DI[20k]DP[71]SO[maba]CO[8]AB[kh]AB[ki]AB[kj]AB[jk]AB[ik]AB[ii]AB[hj]AB[gk]AB[fk]AW[gj]AW[hk]AW[hl]AW[il]AW[jl]AW[kk]AW[lk]AW[lj]AW[lh]AW[li]AW[kg]AW[jg]AW[ih]AW[ji]AB[hh]AB[fj]AB[gh]AB[fi]C[White to capture as many stones as possible.]AP[goproblems]
+(;W[ij]
+(;B[hi]C[CHOICE]
+(;W[jh];B[jj];W[ij]C[RIGHT])
+(;W[jj]C[RIGHT]))
+(;B[jj]C[CHOICE]
+(;W[jh]
+(;B[ij]C[CHOICE];W[hi]C[RIGHT])
+(;B[hi]C[CHOICE];W[ij]C[RIGHT]))
+(;W[hi];B[gi];W[jh];B[ij]))
+(;B[jh];W[hi]C[RIGHT])
+(;B[gi];W[hi]C[RIGHT]))
+(;W[jh];B[ij];W[jj];B[gi]C[White could have captured more.])
+(;W[jj]
+(;B[ij]C[CHOICE]
+(;W[hi]C[RIGHT])
+(;W[jh];B[hi]C[White could have captured more.]))
+(;B[hi]C[CHOICE]
+(;W[ij]C[RIGHT])
+(;W[jh];B[ij]C[White could have captured more.]))
+(;B[gi];W[ij]C[RIGHT]))
+(;W[hi];B[gi]
+(;W[jj];B[ij];W[jh]C[White could have captured more.])
+(;W[jh];B[ij];W[jj]C[White could have captured more.])
+(;W[ij];B[jj];W[jh];B[ij])))

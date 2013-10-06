@@ -1,0 +1,5 @@
+(;GE[best move]DI[4k]DP[30]SO[piccolo]CO[0]AB[ea]AW[fa]AW[ga]AW[ha]AW[gb]AW[gc]AW[hc]AW[ib]AB[jb]AB[jc]AB[ic]AB[lc]AB[mc]AW[nb]AW[nc]AW[md]AW[ne]AW[mf]AW[kd]AW[ke]AW[mh]AW[ki]AW[ji]AW[jg]AW[hf]AW[he]AW[fe]AW[ed]AW[dc]AW[db]AW[eb]AW[de]AW[df]AB[fb]AB[fc]AB[fd]AB[gd]AB[hd]AB[je]AB[jf]AB[if]AB[kf]AB[ig]AB[lg]AB[gg]AB[ii]AB[cc]AB[cd]AB[cf]AB[cg]AW[eh]AW[ej]AB[pd]AB[pf]AB[qh]AW[oh]AB[qk]C[Push and cut from A, or connect at B ?FORCE]LB[ge:A]TR[fe]LB[ie:B]AP[goproblems]
+(;B[ge];W[gf]
+(;B[ff];W[id];B[ee];W[ec];B[fe];W[fg]C[Oops.]))
+(;B[ie]C[Probably the best (see blyx comment at root). Black fixes his weakness, and now threaten F15.RIGHT];W[ff];B[hj]C[Black can give up G13 and play something like this to escape faster.])
+(;B[hg]C[The game continuation, preparing to run toward the lower side. Now black threatens to push at A, so white will defend with F14.NOTTHISRIGHT];W[ff];B[ie]C[But since white now threatens to cut, black must defend and we see that the move H13 is suboptimal (just change move order: 1.J15 2.F14 3.H13 = weird).]))

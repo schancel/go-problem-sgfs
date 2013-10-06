@@ -1,0 +1,35 @@
+(;GE[life and death]DI[3d]DP[10]SO[MrMoto]CO[0]AB[dc]AB[ec]AB[fc]AB[ed]AB[bd]AB[be]AB[bg]AB[cg]AB[dg]AB[df]AB[dh]AB[eh]AB[ei]AB[fi]AB[gi]AB[hj]AB[hk]AB[gl]AB[fl]AB[fm]AB[gd]AB[ge]AB[he]AB[ie]AB[je]AB[if]AB[hg]AB[ig]AB[ih]AB[jh]AB[kh]AW[ce]AW[ee]AW[fd]AW[fe]AW[fb]AW[gb]AW[gc]AW[hb]AW[ib]AW[hd]AW[id]AW[jc]AW[jd]AW[kb]AW[kd]AW[ke]AW[kc]AW[gf]AW[ef]AW[eg]AW[fg]AW[gh]AW[hh]AW[hi]AW[ii]AW[ji]AW[ki]AB[li]AB[lh]AW[kk]AW[ij]AW[ik]AW[hl]AW[il]AW[hm]AW[hn]AW[gm]AW[bh]AW[ch]AW[bi]AW[di]AW[cj]AW[dj]AW[ej]AW[fj]AW[fk]AW[el]AW[dl]AW[dk]AW[dm]AB[em]AB[en]AB[dn]AB[cm]AB[cl]AB[bn]AB[im]AB[in]AB[io]AB[eo]AB[lk]AB[ll]AW[km]AB[lm]AB[kn]AB[lo]LB[de:A]C[White's dragon only has two half-eyes.  As a last resort, W tried A to start a fight in the corner ... (please play A)FORCE]AB[lj]MA[fd]MA[fe]MA[ee]MA[ef]MA[eg]MA[fg]MA[gf]MA[gh]MA[hh]MA[hi]MA[ii]MA[ji]MA[ki]MA[kk]MA[km]MA[hn]MA[hm]MA[gm]MA[hl]MA[il]MA[ik]MA[ij]AP[goproblems];W[de];B[kj]C[Black spent a move to kill one of the half eyes, giving White the chance he needed ...FORCE]LB[cc:A];W[cc];B[cb]C[And now what?]
+(;W[cd];B[bc])
+(;W[db];B[cd];W[bc];B[bb];W[dd];B[ac];W[cc];B[bc];W[eb];B[cc]C[White cannot hope to win here.])
+(;W[dd];B[cd];W[bc];B[bb];W[db])
+(;W[bb];B[bc]
+(;W[cd];B[db])
+(;W[db];B[cd]))
+(;W[bc];B[cd]
+(;W[db])
+(;W[dd])
+(;W[bb];B[db]
+(;W[dd];B[ba]C[And now?]
+(;W[ab]
+(;B[ae]LB[da:A]C[Please play ACHOICE];W[da];B[ac];W[ad];B[gk]C[Black had no ko threat big enough.]
+(;W[gj];B[ac];W[bf];B[aa];W[ag];B[af]C[hmm ...])
+(;W[eb]C[W lives and B has to connect at G10 in gote.  Black resigned here.RIGHT]))
+(;B[ac]C[CHOICE]
+(;W[ad];B[ae]
+(;W[bf];B[ac]
+(;W[af];B[aa]
+(;W[ag]C[This is reasonable for blackRIGHT])
+(;W[cf]C[RIGHT]))
+(;W[ag];B[aa]
+(;W[af]C[RIGHT])
+(;W[cf]C[This gives black a forcing move at A14.])
+(;W[gk];B[af]C[No reason to let black save those stones ...]))
+(;W[cf];B[af];W[ad];B[ag]))
+(;W[af];B[bf]))
+(;W[bf]C[RIGHT])))
+(;W[ca];B[da];W[ab]C[RIGHT])
+(;W[ac];B[bf]C[White will have a hard time winning this ko ...])
+(;W[bf]C[RIGHT]))
+(;W[bf]C[RIGHT]))
+(;W[bf]C[RIGHT]))
+(;W[bf];B[cf];W[bc];B[cd];W[bb];B[db];W[dd];B[ba];W[ab]C[RIGHT]))

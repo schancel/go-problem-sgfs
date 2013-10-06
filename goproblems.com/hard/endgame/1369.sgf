@@ -1,0 +1,92 @@
+(
+;GE[endgame]DI[5d]DP[5]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AB[ad][bd][cc][db][bb][fb][gb][fc][ec]
+AW[ae][be][ce][cd][dd][dc][ed][fd][gd][gc][hb][ic][eb]
+GN[temp]
+(
+;
+W[ea]
+(
+;
+B[da]
+(
+;
+W[bc]
+(
+;
+B[ac]
+;
+W[ba]
+C[RIGHT Lo and behold! If black is stubborn, we get a ko for everything. (black cannot defend both a and b)]
+LB[cb:a][ab:b]
+)
+(
+;
+B[cb]
+C[the best black can do now]
+;
+W[ab]
+;
+B[ba]
+C[RIGHT a nice grab in sente.]
+)
+)
+(
+;
+W[ba]
+;
+B[cb]
+(
+;
+W[bc]
+;
+B[ab]
+C[white can do better]
+)
+(
+;
+W[ab]
+;
+B[bc]
+)
+)
+)
+(
+;
+B[ab]
+C[blacks best play.]
+;
+W[da]
+;
+B[cb]
+(
+;
+W[ga]
+C[RIGHT gote, but nice and fat]
+)
+(
+;
+W[fa]
+C[RIGHT gote, but nice and fat]
+)
+)
+)
+(
+;
+W[bc]
+;
+B[ac]
+;
+W[ea]
+;
+B[ca]
+C[good, but not perfect. white could have gained two more points.]
+)
+(
+;
+)
+)

@@ -1,0 +1,45 @@
+(;GE[life and death]DI[1d]DP[15]SO[whendrik]CO[0]AB[qb]AB[sc]AB[rc]AW[sb]AW[rb]AW[qc]AW[pc]AW[ob]AW[nc]AW[od]AB[qd]AB[pd]AB[rd]AW[md]AW[me]AW[nf]AW[oe]AB[pe]AB[pf]AB[of]AB[ng]AB[lf]AB[le]AB[ld]AW[ma]AW[mb]AB[mc]AB[lc]AB[lb]AB[la]AB[mg]AB[oh]LB[ki:KO]LB[ni:NO KO]C[Can you see the solution? Is it a KO? Or can Black kill without KO (NO KO)?FORCE]AP[goproblems]
+(;B[ki];W[li]
+(;B[pb];W[oc]
+(;B[qa];W[na]
+(;B[ne];W[pa]
+(;B[oa]C[Indeed! Ko!RIGHT])
+(;B[ra];W[sa];B[qb];W[pb]C[White lives...]))
+(;B[ra];W[ne];B[oa];W[pa]C[White takes first...])
+(;B[oa];W[pa]C[White takes first...]))
+(;B[ra];W[pa];B[qa];W[sa];B[qb];W[na]C[White lives...])
+(;B[pa];W[oa])
+(;B[na];W[pa])
+(;B[ne];W[pa])
+(;B[oa];W[qa]))
+(;B[na];W[pb])
+(;B[nb];W[pb])
+(;B[oa];W[pb])
+(;B[pa];W[pb])
+(;B[qa];W[pb])
+(;B[ra];W[pb])
+(;B[sa];W[pb])
+(;B[nd];W[ne])
+(;B[ne];W[pb]))
+(;B[ni];W[oi]
+(;B[pb];W[oc]
+(;B[qa];W[na]
+(;B[ne];W[pa]
+(;B[ra];W[sa];B[qb];W[pb]C[White lives...])
+(;B[oa]C[Indeed... It was a Ko...]))
+(;B[ra];W[ne];B[oa];W[pa]C[White takes first...])
+(;B[oa];W[pa]C[White takes first...]))
+(;B[ra];W[pa];B[qa];W[sa];B[qb];W[na]C[White lives...])
+(;B[pa];W[oa])
+(;B[na];W[pa])
+(;B[ne];W[pa])
+(;B[oa];W[qa]))
+(;B[na];W[pb])
+(;B[nb];W[pb])
+(;B[oa];W[pb])
+(;B[pa];W[pb])
+(;B[qa];W[pb])
+(;B[ra];W[pb])
+(;B[sa];W[pb])
+(;B[nd];W[ne])
+(;B[ne];W[pb])))

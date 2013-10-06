@@ -1,0 +1,104 @@
+(;GE[best move]DI[7k]DP[44]SO[santa c]CO[5]AW[bl]AW[cl]AW[cn]AW[co]AW[cp]AW[bq]AW[ap]AW[cr]AB[br]AB[cq]AB[dr]AB[dq]AB[dp]AB[do]AB[dn]AB[dm]AB[dl]AB[ck]AB[bk]AB[cj]C[White doesn't leave any living stones on the battlefield to die, does s/he?]AP[goproblems]
+(;W[cm]C[Exactly! All stones but C2 alive! :)RIGHT])
+(;W[bm];B[bo]C[:(]TR[an]TR[al])
+(;W[al];B[an]
+(;W[bo];B[cm]
+(;W[bm];B[bn]
+(;W[ar];B[cs];W[ao];B[as];W[bs]MA[as]C[:(])
+(;W[ao];B[ar]C[:(]))
+(;W[ar];B[cs];W[bm];B[bn];W[ao];B[as];W[bs]MA[as]C[:(]))
+(;W[bn];B[cm]
+(;W[bm];B[ao]
+(;W[bo];B[ar]C[:(])
+(;W[ar];B[cs];W[bo];B[as];W[bs]MA[as]C[:(]))
+(;W[ar];B[cs];W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(]))
+(;W[cm];B[bn]
+(;W[bo];B[ar]C[:(])
+(;W[ar];B[cs];W[bo];B[as]
+(;W[aq];B[ao];W[bs]MA[as]C[:(])
+(;W[bs];B[ao];W[cr]MA[br]C[:(])))
+(;W[bm];B[ar]C[:(])
+(;W[ar];B[cs]
+(;W[bn];B[cm];W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(])
+(;W[bo];B[cm];W[bm];B[bn];W[ao];B[as];W[bs]MA[as]C[:(])
+(;W[cm];B[bn];W[bo];B[as]
+(;W[bs];B[ao];W[cr]MA[br]C[:(])
+(;W[aq];B[ao];W[bs]MA[as]C[:(]))
+(;W[bm];B[bo]C[:(])))
+(;W[am];B[cm]C[:(]TR[bm]TR[bo])
+(;W[bn];B[al]
+(;W[am];B[cm]
+(;W[bm];B[ao]
+(;W[ar];B[cs];W[bo];B[as];W[bs]MA[as]C[:(])
+(;W[bo];B[ar]C[:(]))
+(;W[bo];B[bm]C[No need to give up on these! :(])
+(;W[ar];B[cs]
+(;W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(])
+(;W[bo];B[bm]C[No need to give up on these! :(])))
+(;W[cm];B[am]C[:(])
+(;W[bo];B[an]C[:(])
+(;W[an];B[bo]C[:(])
+(;W[ar];B[cs]
+(;W[cm];B[am]C[:(])
+(;W[am];B[cm]
+(;W[bo];B[bm]C[No need to give up on these! :(])
+(;W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(]))
+(;W[bo];B[an]C[:(])
+(;W[an];B[bo]C[:(])))
+(;W[an];B[bo]
+(;W[bn];B[cm]C[:(])
+(;W[cm];B[al]TR[am]TR[bn]C[:(])
+(;W[al];B[cm]
+(;W[bm];B[bp]C[:(])
+(;W[ar];B[cs];W[bm];B[bp];W[bn];B[aq]MA[bq]C[:(]))
+(;W[ar];B[cs]
+(;W[al];B[cm];W[bm];B[bp];W[bn];B[aq]MA[bq]C[:(])
+(;W[cm];B[al]TR[am]TR[bn]C[:(])
+(;W[bn];B[cm]C[:(])))
+(;W[bo];B[an]
+(;W[ar];B[cs]
+(;W[bm];B[ao]
+(;W[am];B[as];W[bs]C[:(]MA[as])
+(;W[bn];B[as];W[bs]MA[as]C[:(]))
+(;W[bn];B[al]C[:(])
+(;W[am];B[bm]
+(;W[al];B[cm]C[:(])
+(;W[cm];B[al]C[:(]))
+(;W[al];B[cm];W[bm];B[bn];W[ao];B[as];W[bs]MA[as]C[:(])
+(;W[cm];B[al]C[:(]))
+(;W[bm];B[ar]C[:(])
+(;W[bn];B[al]C[:(])
+(;W[am];B[bm]C[:(])
+(;W[cm];B[al]C[:(]))
+(;W[ao]C[See next problem! :)])
+(;W[ar];B[cs]
+(;W[cm]C[Well done! :)RIGHT])
+(;W[bm];B[bo]TR[an]TR[al]C[:(])
+(;W[al];B[an]
+(;W[bn];B[cm];W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(])
+(;W[cm];B[bn];W[bo];B[as]
+(;W[bs];B[ao];W[cr]MA[br]C[:(])
+(;W[aq];B[ao];W[bs]C[:(]MA[as]))
+(;W[bm];B[bo]C[:(])
+(;W[bo];B[cm];W[bm];B[bn];W[ao];B[as];W[bs]MA[as]C[:(]))
+(;W[am];B[cm]TR[bo]TR[bm]C[:(])
+(;W[bn];B[al]
+(;W[am];B[cm]
+(;W[bm];B[ao];W[bo];B[as];W[bs]MA[as]C[:(])
+(;W[bo];B[bm]C[No need to give up on these! :(]))
+(;W[cm];B[am]C[:(])
+(;W[an];B[bo]C[:(]))
+(;W[an];B[bo]
+(;W[al];B[cm];W[bm];B[bp];W[bn];B[aq]MA[bq]C[:(])
+(;W[cm];B[al]C[:(]TR[bn]TR[am])
+(;W[bn];B[cm]C[:(]))
+(;W[bo];B[an]
+(;W[bm];B[ao]
+(;W[am];B[as];W[bs]MA[as]C[:(])
+(;W[bn];B[as];W[bs]MA[as]C[:(]))
+(;W[bn];B[al]C[:(])
+(;W[cm];B[al]C[:(])
+(;W[am];B[bm]C[:(])
+(;W[al];B[cm];W[bm];B[bn];W[ao];B[as];W[bs]MA[as]C[:(])))
+(;W[bp]C[An incomplete 6 on the side's dead! :(]TR[cm]TR[al])
+(;W[aq];B[cm]C[:(]))

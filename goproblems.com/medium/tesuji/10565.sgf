@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[1d]DP[17]SO[Field Mouse]CO[8]AB[ha]AB[hb]AB[hc]AB[gc]AB[ic]AB[jd]AB[ie]AB[fd]AB[fe]AB[de]AB[bf]AB[cf]AB[cg]AB[dg]AB[eg]AB[fg]AW[df]AW[gd]AW[ga]AW[gb]AW[fc]AW[ec]AW[eb]AW[cd]AW[dd]AW[bg]AW[ch]AW[bi]AW[ah]AW[dh]AW[di]AW[fh]AW[gh]AW[hg]AW[ig]AW[jg]AW[kf]AW[ke]AW[kd]AW[kc]AW[lc]AW[ld]AW[lh]AW[fi]C[White to play!]AW[be]AB[af]AW[ae]AW[bd]AW[ag]AW[eh]AP[goproblems]
+(;W[he]
+(;B[ge]C[NOTTHIS];W[hf];B[hd];W[jb]C[Black is dead!RIGHT])
+(;B[hf]
+(;W[gf]
+(;B[ge];W[if];B[hd]
+(;W[hf];B[jb];W[ee];B[ef];W[ed];B[ff];W[ce]C[You killed black! Nice.RIGHT])
+(;W[jb];B[hf]C[Only ko.])
+(;W[ee];B[hf]C[You could do better!]))
+(;B[if];W[gg];B[ge];W[ff]
+(;B[ee];W[ef];B[hd];W[ce]C[RIGHT])
+(;B[ef];W[ee]C[RIGHT])))
+(;W[if];B[gf])
+(;W[ee];B[gg];W[gf];B[if]
+(;W[ff];B[ef])
+(;W[ge];B[ef];W[ed];B[ff]))))
+(;W[jb];B[hd]
+(;W[he];B[hf])
+(;W[je];B[jc])
+(;W[jc];B[je])
+(;W[ge];B[gf]))
+(;W[ge];B[gf])
+(;W[gf]
+(;B[ge])
+(;B[hf];W[he];B[if]))
+(;W[hf];B[he])
+(;W[hd];B[he])
+(;W[ef];B[gf]))

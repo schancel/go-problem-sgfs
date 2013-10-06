@@ -1,0 +1,18 @@
+(;GE[best move]DI[3k]DP[24]SO[gedh2]CO[4]AB[ph]AB[pi]AB[qi]AB[qj]AB[rj]AB[rl]AB[qm]AB[qn]AB[ds]AB[er]AB[eq]AB[dq]AB[dp]AB[do]AB[cp]AB[cn]AB[cm]AB[bm]AB[mi]AB[gq]AB[hn]AB[hm]AB[gl]AB[fl]AB[hk]AB[hj]AB[ck]AB[cj]AB[bi]AB[ch]AB[ed]AB[cg]AB[ec]AB[dc]AB[dd]AB[dg]AB[me]AB[qg]AB[rh]AB[gd]AB[hd]AB[gc]AB[pb]AB[la]AB[mb]AB[mc]AB[ld]AB[kd]AB[kc]AB[kb]AB[jb]AB[ja]AB[mr]AB[ol]AB[pk]AB[oj]AB[nk]AB[mj]AB[li]AB[is]AB[ir]AB[jq]AB[jr]AB[kp]AB[kn]AB[ln]AB[mn]AB[nn]AB[on]AB[pn]AB[mm]AB[jj]AB[ji]AB[kh]AB[jg]AB[jf]AB[lg]AB[fd]AW[ke]AW[je]AW[jd]AW[as]AW[bs]AW[cr]AW[cq]AW[dr]AW[aq]AW[ap]AW[bp]AW[bo]AW[bn]AW[co]AW[ep]AW[ci]AW[di]AW[dh]AW[dj]AW[eg]AW[hc]AW[ib]AW[id]AW[he]AW[if]AW[ig]AW[ih]AW[hi]AW[ij]AW[gj]AW[gk]AW[hl]AW[il]AW[nb]AW[nc]AW[nd]AW[oc]AW[md]AW[pd]AW[le]AW[kr]AW[ks]AW[js]AW[pp]AW[qc]AW[qe]AW[rf]AW[rg]AW[qo]AW[ro]AW[mf]AW[oh]AW[oi]AW[jh]AW[ki]AW[kj]AW[og]AW[pg]AW[qk]AW[ql]AW[ef]AW[ee]AW[fc]AW[fb]AW[gb]AW[lj]AW[lk]AW[mk]AW[ml]AW[nl]AW[nm]AW[om]AW[pm]AW[pl]AW[kl]AW[lm]AW[jk]AW[mq]AW[nq]AW[lq]LB[ln:B]LB[qk:C]LB[lm:A]SZ[19]AP[MultiGo:3.8.6]
+(;B[ok];W[rk]
+(;B[rm];W[sk];B[mg];W[mh];B[lf];W[kf];B[nh];W[ni];B[nj];W[ng]
+(;B[lh])
+(;B[nf];W[of]C[Black is dead]))
+(;B[si];W[rm];B[rn];W[sl];B[mg];W[mh];B[lf];W[kf]
+(;B[nf];W[nh];B[lh]C[black has only one eye])
+(;B[ng];W[nh];B[lh];W[ne]C[Black has only one eye]))
+(;B[mg];W[mh];B[nf];W[lf];B[nh];W[ni];B[ng];W[nj];B[lh];W[pj])
+(;B[mh];W[mg];B[lf];W[kf];B[ng];W[nf];B[of];W[ne];B[nh];W[pf]C[black is dead])
+(;B[sk];W[rm];B[sl];W[sm];B[sj];W[rn];B[mg];W[mh];B[lf];W[kf];B[nh];W[ni];B[nj];W[ng];B[nf];W[pf]C[Black has only one eye]))
+(;B[rk];W[ok]C[how to continue? If you want a ko threat, please play J17 (marked with an X )]MA[ic]
+(;B[ic];W[jc]C[ correct; black should try to fight the ko at P8/P9RIGHT];B[ol])
+(;B[pj];W[nj]C[Black loses his M13 stones.])
+(;B[nj];W[pj]C[If you want a ko threat for black, please play J17 (marked with an X)]MA[ic];B[ic];W[jc]C[black must win the ko to rescue his O10 stones. If he fails, he has given white an extra captive compared to the  correct variation.]))
+(;B[nj];W[rk];B[sk];W[rm];B[sl];W[rn]
+(;B[mg];W[si])
+(;B[si];W[mg])))

@@ -1,0 +1,241 @@
+(;GE[life and death]DI[12k]DP[55]SO[LCZLAPINSKI]CO[5]AW[hi]AW[hg]AW[he]AW[hd]AW[hc]AW[ic]AW[jc]AW[kb]AW[lb]AW[ma]AW[nb]AW[ob]AW[pb]AW[pc]AW[nc]AW[nd]AW[ne]AW[od]AW[qd]AW[rd]AW[ig]AW[if]AW[ii]AW[jh]AW[kg]AW[lg]AW[mg]AW[ng]AW[lh]AW[mi]AW[mj]AW[nj]AW[oh]AW[qf]AB[jg]AB[jf]AB[ie]AB[id]AB[jd]AB[ke]AB[kc]AB[lc]AB[mc]AB[mb]AB[md]AB[nf]AB[oe]AB[pe]AB[pd]AB[qe]AB[re]AB[qc]AB[qb]AB[og]AB[pg]AB[qh]AB[mh]AB[nh]AB[ni]AB[oi]AB[pj]AB[kh]AB[ki]AB[li]AB[lj]AB[lk]AB[mk]AP[goproblems]
+(;W[me]
+(;B[kf]
+(;W[le]C[RIGHT])
+(;W[lf];B[le]C[Black's J15, K13 and L17 groups are alive. White does have a ko threat of L16 or M16.])
+(;W[mf]C[White saves his L13 group.RIGHT];B[le]C[White saved his L17 group. Black's J15, K13 and L17 groups are alive. White does have a ko threat of L16 or M16.RIGHT])
+(;W[ld];B[mf]
+(;W[kd];B[lf])
+(;W[lf];B[le])
+(;W[le];B[lf]))
+(;W[kd];B[mf]
+(;W[le];B[lf])
+(;W[ld];B[lf]))
+(;W[of];B[le];W[pf];B[rf];W[mf]C[RIGHT];B[qg]C[RIGHT]))
+(;B[le]
+(;W[kf]C[];B[mf];W[je]
+(;B[lf];W[kd]C[RIGHT]
+(;B[of];W[ld]C[RIGHT])
+(;B[ld];W[of]C[RIGHT]))
+(;B[jf]
+(;W[jg]C[White's L13 group lives.RIGHT];B[lf]C[RIGHT];W[je];B[kd]C[RIGHT])
+(;W[lf];B[jg])))
+(;W[mf];B[kf]))
+(;B[mf]C[CHOICE]
+(;W[lf]C[]
+(;B[le];W[of]C[RIGHT];B[pf]C[RIGHT];W[kf]C[RIGHT])
+(;B[of]C[CHOICE]
+(;W[le]C[White saves his L13 group and black's J15, K13 and L17 groups are dead.RIGHT])
+(;W[kf];B[le])))
+(;W[kf];B[lf])
+(;W[le];B[lf];W[kd];B[kf];W[je]C[You lost the L13 group. On the positive side you did capture black J15 group. Black's L17 group can be captured if necessary.Per Spica 'black gets 24 pts in the area (rows 12,13,14) and white gains 17 in gote.'])
+(;W[kd]
+(;B[kf];W[je];B[lf];W[le]C[RIGHT])
+(;B[lf]C[CHOICE];W[je];B[kf];W[le]C[RIGHT])
+(;B[le]C[CHOICE];W[ld]
+(;B[lf]C[CHOICE];W[je]C[RIGHT];B[kf]C[RIGHT])
+(;B[kf];W[je]C[RIGHT];B[lf]C[RIGHT])))
+(;W[ld];B[kf];W[kd]C[RIGHT];B[lf]C[White's best is usually to tenuki and retain  sente. White can also play wK15 for 6 points gote.RIGHT];W[je]C[RIGHT])
+(;W[of]
+(;B[lf]
+(;W[kd];B[ld];W[le];B[kf]C[White lost his L13 group. All black's original groups survived.])
+(;W[le];B[kf];W[kd]C[RIGHT];B[ld]C[BM16 would be a mistake because of snapback unless it is a ko threat.];W[kd]C[SnapbackRIGHT])
+(;W[ld];B[kd];W[le];B[kf]C[White lost the L13 group without compensation.]))
+(;B[pf]C[CHOICE];W[lf];B[le];W[of];B[nf]
+(;W[kf];B[mf]C[White loses the L13 stones.])
+(;W[mf]C[RIGHT];B[kf]C[White saves the L13 stones. Black lives.RIGHT]))))
+(;B[ji];W[ih]C[RIGHT]))
+(;W[mf];B[kf]
+(;W[le];B[me]
+(;W[lf];B[ld])
+(;W[of];B[lf]
+(;W[nf]C[RIGHT];B[pf]C[Both white and black live. Black's J15, K13 and L17 groups are alive. White does have a ko threat to kill the groups with L15 or M16.CHOICERIGHT])
+(;W[kd];B[nf]C[White loses the L13 group.])
+(;W[ld];B[nf]C[White loses the L13 group.])
+(;W[pf];B[nf]C[White loses the L13 group.]))
+(;W[kd];B[lf]C[White lost his L13 group.])
+(;W[ld];B[lf]C[White lost his L13 group.]))
+(;W[me]C[RIGHT];B[le]C[White's L13 group lives. Black's J15, K13 and L17 groups are alive. White has a ko threat to kill with L16 or M16.RIGHT])
+(;W[kd];B[me]
+(;W[je];B[lf]C[White lost his larger L13 group for 3 stones. Black's stones are alive.])
+(;W[le];B[lf]C[Whitte loses the L13 group.])
+(;W[lf];B[le])
+(;W[of]C[RIGHT]
+(;B[lf]C[RIGHT];W[nf]C[RIGHT];B[ld]C[RIGHT])
+(;B[ld]TR[lf]TR[le]C[M14 and M15 are miai for life for black.RIGHT])))
+(;W[of]C[White saves his L13 group.]
+(;B[me]C[CHOICE];W[pf]C[RIGHT];B[rf]
+(;W[qg];B[rg];W[ph]C[RIGHT];B[pi]C[RIGHT])
+(;W[ph]C[This is not a good move for white.];B[pi])
+(;W[rg];B[sd];W[qg]C[RIGHT];B[ph]C[RIGHT]))
+(;B[pf]C[This is a mistake by black.]
+(;W[le]C[Black is dead because he needs both M14 and N15 to live.RIGHT]TR[lf]TR[me])
+(;W[lf];B[le]C[In this variation you could have killed the J15, K13 and L17 groups.])
+(;W[kd];B[ld];W[le]C[Black's J15, K13 and L17 groups are dead because black needs both M14 and N15 to live.RIGHT])
+(;W[ld];B[le]C[In this variation you could have killed black's J15, K13 and L17 groups.])
+(;W[me];B[le]C[In this variation you could have killed black.]))
+(;B[le]C[CHOICERIGHT]))
+(;W[lf];B[le]
+(;W[me]C[White saves his L13 group. Black lives.RIGHT])
+(;W[of]C[White saves his L13 group. Black lives.RIGHT]))
+(;W[ld];B[me]
+(;W[of]C[RIGHT]
+(;B[le]C[White saves his L13 group and black lives.RIGHT])
+(;B[lf];W[nf]C[RIGHT]))
+(;W[lf];B[le])
+(;W[le];B[lf]))
+(;W[oj];B[ph]
+(;W[le];B[me]
+(;W[of]C[White saves his L13 group.RIGHT];B[lf];W[nf]C[RIGHT])
+(;W[kd];B[lf]C[White loses the L13 group.])
+(;W[lf];B[ld])
+(;W[ld];B[lf]))
+(;W[of]C[White saves his L13 group.RIGHT])
+(;W[kd];B[me]
+(;W[of]C[White saves his L13 group.RIGHT])
+(;W[je];B[lf]C[White lost the L13 group.])
+(;W[lf];B[le])
+(;W[le];B[lf]C[White lost the L13 group.])
+(;W[ld];B[lf])
+(;W[pf];B[of]TR[kg]TR[lh]TR[lg]TR[mg]TR[ng]TR[mf]C[The L13 group dies.]))
+(;W[ld];B[me];W[of];B[pf];W[nf]C[The L13 group lives.RIGHT])
+(;W[me]C[RIGHT])))
+(;W[lf];B[me]
+(;W[kf];B[je]
+(;W[le];B[kd]
+(;W[mf];B[ld])
+(;W[ld];B[mf]))
+(;W[mf];B[le])
+(;W[kd];B[le]C[White's L7 group is dead.])
+(;W[ld];B[le])
+(;W[of];B[le]
+(;W[mf];B[nf])
+(;W[pf];B[mf])))
+(;W[le];B[mf]
+(;W[kf];B[ld])
+(;W[kd];B[ld])
+(;W[ld];B[kd]))
+(;W[mf];B[of]
+(;W[kf];B[je]C[White's L7 group dies.])
+(;W[le];B[kf]C[White's L7 group is dead.]
+(;W[kd];B[ld])
+(;W[ld];B[kd]))))
+(;W[ld];B[kf];W[me];B[mf]
+(;W[lf];B[le])
+(;W[kd];B[lf]C[CHOICE];W[je]C[White captures more stones gote than he loses.RIGHT])
+(;W[le];B[lf]C[WL16 is better than WM15.  With wM15 white has to play two gote moves to capture the two black groups of stones. WL16 is sente since bM14 must be played either immediately or after wL16(5)  b move  ... wK15(3) bM14(5)..];W[kd]))
+(;W[of];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[me]
+(;W[kf];B[le])
+(;W[le];B[kd]
+(;W[kf];B[ld])
+(;W[ld];B[kf]))
+(;W[kd];B[ld]C[White's L13 group is dead.])
+(;W[ld];B[le]C[White's L13 group is dead. Black's groups are unconditionally alive since white can't push at L14 or L16.]))
+(;W[kd];B[ld]
+(;W[kf];B[lf])
+(;W[lf];B[me]C[White's L13 group can be captured if necessary. White has a ko threat to live with  L14-L15.]
+(;W[kf];B[le])
+(;W[le];B[kf])))
+(;W[le];B[me]C[White's L13 group is dead.]
+(;W[kf];B[lf])
+(;W[lf]C[This a mistake. White should tenuki since the  L13 group is already dead.]))
+(;W[ld];B[me]
+(;W[kf];B[lf])
+(;W[lf];B[le])
+(;W[le];B[lf]C[White's L13 group is dead. Black is unconditionally alive since white can't push at L14 or L16.]))
+(;W[me];B[lf];W[le];B[kf]
+(;W[kd]C[IMHO, black got a better result. WL16 is gote which is the same as some of the other variations.  White lost the L13 group.  The L17 group is dead because white can snap back. K15 is double gote (i.e. gote for both players).  The J15 group is not strategically important in the resulting position. It is not known who will get the 6 point K15 gote.])
+(;W[ld];B[kd])))
+(;W[pf];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[le];W[of];B[me]C[Black's J15, K13 and L17 groups live.]))
+(;W[kf];B[me]
+(;W[mf];B[lf]C[Your L13 group failed to live.])
+(;W[je]C[White saves his L13 group in sente. Black must play bN14 or bK14. . Black will connect at P14 if necessary with good chances for life.RIGHT]
+(;B[mf]C[RIGHT])
+(;B[jf];W[jg]C[SenteRIGHT];B[mf]C[RIGHT];W[je]C[RIGHT];B[kd]C[RIGHT]))
+(;W[le];B[mf]
+(;W[je];B[jf];W[jg]C[White saves his L13 group gote.RIGHT])
+(;W[kd];B[lf]C[Your L13 group failed to live.])
+(;W[ld];B[lf]C[Your L13 group failed to live.])
+(;W[lf];B[ld]C[Your L13 group failed to live.]))
+(;W[kd];B[ld];W[je]C[White's L13 group lives.RIGHT]
+(;B[jf]
+(;W[jg]C[RIGHT];B[mf]C[White saved his L13 group and black lives.RIGHT])
+(;W[mf];B[of];W[jg]C[White's L13 group lives.RIGHT]))
+(;B[mf]C[RIGHT]))
+(;W[of];B[mf]
+(;W[je];B[jf]
+(;W[jg]C[White saves his K13 group. Black connects with Q14-P14 if necessary.RIGHT])
+(;W[pf];B[rf]C[WQ14 is not as good as playing wK13 immediately. White saves his L13 group.]
+(;W[jg]C[RIGHT])
+(;W[qg];B[rg];W[jg]C[RIGHT])))
+(;W[pf];B[lf]C[White lost his L13 group.])))
+(;W[oj]C[WP4 is probably one of the strongest moves. White saves his L7 group.  Black can save some or all of his J15, K13 and L17 groups but at the cost of letting the L13 group escape with a lot of influence.]
+(;B[pi];W[me];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[le];W[of]C[RIGHT];B[kf];W[pf];B[rf];W[qg];B[ph]C[RIGHT]))
+(;B[ph]C[CHOICE]
+(;W[mf]C[White saves his L13 stones and black also lives.RIGHT];B[kf]
+(;W[me]C[RIGHT];B[le]C[RIGHT])
+(;W[of]C[White saves his L13 group.RIGHT]))
+(;W[kf];B[mf];W[je]C[White saves his L13 group.RIGHT]
+(;B[me]C[RIGHT])
+(;B[jf]C[CHOICE];W[jg]C[RIGHT];B[me]C[RIGHT])))
+(;B[me];W[pi]C[RIGHT])
+(;B[mf]C[BN14 looks like a mistake. White frees his L13 group and has gained a lot of influence. Black still needs to connect at N15.];W[pi]C[RIGHT])
+(;B[kf];W[pi]C[RIGHT]))
+(;W[pi]C[RIGHT]
+(;B[ph]C[CHOICE]
+(;W[mf]C[White saves his L13 group.RIGHT])
+(;W[kf];B[me];W[je];B[jf];W[jg]C[White saves his L13 group.RIGHT])
+(;W[kd];B[me];W[kf];B[le];W[je]C[RIGHT];B[mf]C[White's L13 group lives and white got a nice reduction.RIGHT]))
+(;B[me]C[Black N15 is bad for black. White's L13 group gets out.];W[oj]C[RIGHT]))
+(;W[na];B[mf]C[White's L13 group is dead because it can be captured.]
+(;W[kf];B[je]
+(;W[kd];B[ld]
+(;W[lf]
+(;B[le]C[White loses the L13 group.CHOICE])
+(;B[me]C[White's L13 group is dead.CHOICE]))
+(;W[le];B[lf]C[White's L13 group has been captured.])
+(;W[me];B[lf]C[White's L13 group has been captured.]))
+(;W[lf];B[le]C[White's L13 group is dead because it can be captured.]))
+(;W[kd];B[ld]
+(;W[kf];B[lf]C[White's L13 group has been captured.])
+(;W[lf];B[me]C[White's L13 group is dead because it can be captured.])
+(;W[le];B[me]C[White's L13 group is dead because it can be captured.])
+(;W[me];B[le]C[White's L13 group is dead because it can be captured.]))
+(;W[lf];B[me]C[White's L13 group is dead because it can be captured.])
+(;W[le];B[me]C[White's L13 group is dead because it can be captured.])
+(;W[ld];B[me]C[White's L13 group is dead because it can be captured.])
+(;W[me];B[le]C[White's L13 group is dead because it can be captured.]))
+(;W[qa];B[mf]C[White's L13 group is dead because it can be captured.])
+(;W[rc];B[mf]C[White's L13 group is dead.])
+(;W[se];B[mf]C[White's L13 group is dead because it can be captured.])
+(;W[qi];B[mf]C[White's L13 group is dead because it can be captured.])
+(;W[ha];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[kf]
+(;W[le];B[me];W[kd];B[ld])
+(;W[me];B[le])))
+(;W[jb];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[kf];W[le];B[me];W[kd];B[ld]))
+(;W[nk];B[mf];W[kf];B[je]
+(;W[le];B[lf])
+(;W[kd];B[lf]))
+(;W[qg];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[kf];W[le];B[me]
+(;W[kd];B[ld])
+(;W[of];B[pf])
+(;W[pf];B[of])))
+(;W[kd];B[mf]
+(;W[kf];B[lf])
+(;W[lf];B[le];W[je];B[kf]C[White loses his L13 group.]))
+(;W[le];B[mf]
+(;W[lf];B[me];W[kf];B[ld])
+(;W[kf];B[lf])
+(;W[me];B[lf];W[kd];B[kf]C[White loses his L13 group.])))

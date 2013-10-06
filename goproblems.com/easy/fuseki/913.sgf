@@ -1,0 +1,15 @@
+(;GE[fuseki]DI[7k]DP[44]SO[Spirit]CO[7]AB[dn]AB[en]AB[eo]AB[eq]AB[fp]AB[gp]AB[gq]AB[hr]AB[mp]AB[mq]AB[oq]AB[pd]AB[pq]AB[qk]AW[cp]AW[dd]AW[do]AW[dp]AW[ep]AW[er]AW[fq]AW[fr]AW[gr]AW[np]AW[op]AW[pp]AW[qo]AW[qq]LB[yy:1]LB[mn:C]LB[df:A]LB[fc:B]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[mn]C[This prevents White from pushing Black into an overconcentrated position here. (See A)RIGHT]MN[1])
+(;B[df];W[fd]
+(;B[ff];W[mo];B[lo];W[ln]C[The left side is open at the bottom and Black is flattend at the lower side.])
+(;B[cd];W[cc];B[ce];W[bc]
+(;B[di]C[The left side is open at the bottom, so it's not very interesting to play here.])
+(;B[ff];W[mo];B[lo];W[ln]C[The left side is open at the bottom and Black is flattend at the lower side.])))
+(;B[fc];W[id]
+(;B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[nq];B[nr];W[mr];B[lr];W[mo];B[lo];W[ln]C[Black's moyo-strategy has collapsed.])
+(;B[df];W[ec];B[fd];W[ee]
+(;B[cc];W[cd]
+(;B[ed];W[dc];B[de];W[eg])
+(;B[dc];W[ed];B[eb];W[db];B[cb];W[fb];B[da];W[fe]C[Black's moyo-strategy has collapsed.])
+(;B[eb];W[db];B[dc];W[ed];B[cb];W[fb];B[da];W[fe]C[Black's moyo-strategy has collapsed.]))
+(;B[ed];W[de];B[dc];W[cc];B[eb];W[db]C[Black's moyo-strategy has collapsed.]))))

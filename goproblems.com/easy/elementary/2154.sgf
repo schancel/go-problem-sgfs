@@ -1,0 +1,35 @@
+(;GE[elementary]DI[15k]DP[60]SO[falias]CO[5]SZ[13]AW[bj]AW[cj]AW[dj]AW[ej]AW[fj]AW[gj]AW[hj]AW[bk]AW[hk]AW[bl]AW[hl]AW[bm]AW[hm]AB[ck]AB[dk]AB[ek]AB[fk]AB[gk]AB[cl]AB[cm]AB[gm]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[gl]C[RIGHT]
+(;W[em]C[CHOICE]
+(;B[el];W[dm];B[fm]C[RIGHT])
+(;B[dl]C[dead as it stands])
+(;B[fl]C[dead as it stands])
+(;B[dm];W[el])
+(;B[fm];W[el]))
+(;W[el]C[CHOICE]
+(;B[em];W[dl];B[fl]C[RIGHT])
+(;B[dm]C[dead as it stands])
+(;B[fm]C[dead as it stands])
+(;B[fl];W[em])
+(;B[dl];W[em])))
+(;B[el];W[gl]
+(;B[fl];W[fm];B[em];W[gm])
+(;B[fm];W[dm])
+(;B[em];W[fm])
+(;B[dm];W[fm]))
+(;B[fl];W[gl]
+(;B[fm];W[el]
+(;B[em];W[dl];B[dm];W[dl];B[el];W[dl])
+(;B[dm]C[dead as it stands])
+(;B[dl];W[em]))
+(;B[em];W[dl])
+(;B[dl];W[em])
+(;B[dm];W[fm]))
+(;B[fm];W[gl]
+(;B[fl];W[el];B[em];W[dl];B[dm];W[dl];B[el];W[dl])
+(;B[el];W[dm]))
+(;B[em];W[gl]
+(;B[fl];W[dl])
+(;B[fm];W[fl])
+(;B[el];W[fm])
+(;B[dl];W[fl])))

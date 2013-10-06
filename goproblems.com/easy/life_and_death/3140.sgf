@@ -1,0 +1,8 @@
+(;GE[life and death]DI[7k]DP[40]SO[polo]CO[8]AB[dp][cq][bq][co][ar][ep][fp][gp][hq][iq][ir][hs][es][er]AW[bs][br][cr][dr][dq][eq][fq][gq][gr][hr]C[Black to kill]SZ[19]
+
+(;B[fs];W[gs];B[ds]C[RIGHT Well Done !  White is dead, there is no seki.])
+(;B[ds];W[fs]C[Seki, White lives.])
+(;B[gs];W[fs]
+(;B[is];W[ds];B[fr];W[fs]C[Snapback])
+(;B[fr];W[ds]C[Damezumari. Black cannot connect.])
+(;B[ds];W[is]C[White is alive, at best black can get a seki here])))

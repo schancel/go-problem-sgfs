@@ -1,0 +1,59 @@
+(;GE[life and death]DI[2k]DP[21]SO[MeleeNewb]CO[0]AW[sq]AW[sr]AW[qs]AW[os]AW[or]AW[oq]AB[nr]AB[nq]AB[np]AB[op]AB[pp]AB[rp]AB[rn]C[Black plays and the white group is (A)live, (D)ead, in (S)eki, or has a (K)o?FORCE]LB[mm:A]LB[nn:D]LB[om:S]LB[pn:K]AP[goproblems]
+(;B[pn];W[mm]C[Please demonstrate.]
+(;B[qr];W[qq]
+(;B[rs];W[pr]
+(;B[ps]C[Good.RIGHT])
+(;B[rr];W[rq];B[ps];W[ss]))
+(;B[rr];W[rq]
+(;B[rs];W[pr])
+(;B[pr];W[pq])
+(;B[pq];W[pr]))
+(;B[rq];W[rr]
+(;B[pq];W[pr])
+(;B[pr];W[pq]))
+(;B[pq];W[pr]
+(;B[rr];W[rq])
+(;B[rq];W[rr]))
+(;B[pr];W[pq]
+(;B[rq];W[rr])
+(;B[rr];W[rq])))
+(;B[pq];W[pr]
+(;B[qq];W[qr]
+(;B[rr];W[rq])
+(;B[rq];W[rr]))
+(;B[rq];W[rr])
+(;B[rr];W[rq]
+(;B[qq];W[qr])
+(;B[qr];W[qq]))
+(;B[qr];W[qq]))
+(;B[rq];W[rr]
+(;B[pr];W[pq]
+(;B[qq];W[qr])
+(;B[qr];W[qq]))
+(;B[qq];W[qr]
+(;B[pr];W[pq])
+(;B[pq];W[pr]))
+(;B[pq];W[pr])
+(;B[qr];W[qq]))
+(;B[qq];W[qr]
+(;B[rq];W[rr])
+(;B[pq];W[pr])
+(;B[rr];W[rq]))
+(;B[rs];W[qr])
+(;B[rr];W[rq]
+(;B[qr];W[qq])
+(;B[qq];W[qr])
+(;B[rs];W[qr])
+(;B[pr];W[pq]
+(;B[qq];W[qr])
+(;B[qr];W[qq]))
+(;B[pq];W[pr]))
+(;B[pr];W[pq]
+(;B[qr];W[qq])
+(;B[rr];W[rq])
+(;B[qq];W[qr]
+(;B[rq];W[rr])
+(;B[rr];W[rq]))))
+(;B[mm]C[No, black has something.])
+(;B[nn]C[No, black cannot kill outright.])
+(;B[om]C[No, this is not a seki.]))

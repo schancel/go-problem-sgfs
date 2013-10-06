@@ -1,0 +1,33 @@
+(;GE[life and death]DI[12k]DP[57]SO[Silowyi]CO[0]AB[fq]AB[fp]AW[eq]AW[ep]AB[dq]AB[dr]AB[er]AW[dp]AW[co]AW[cn]AW[cm]AB[bp]AB[cp]AW[bq]AW[cq]AW[cr]AW[bs]AW[ds]AB[fs]AB[gs]AW[eo]AW[en]C[Black to do what he can.  Please don't play useless moves.]AB[bo]AB[bn]AW[bm]AB[ar]AP[goproblems]
+(;B[aq]C[FORCE]
+(;W[as]
+(;B[ap];W[an];B[es]C[];W[am];B[cs]C[Ko, white must find the first threat.RIGHT])
+(;B[es]C[FORCE]
+(;W[an]
+(;B[cs]C[Ko, white must find the first threat.RIGHT])
+(;B[ap];W[am]))
+(;W[ap]
+(;B[ao])
+(;B[cs];W[br];B[aq];W[ds];B[ao];W[am]
+(;B[cs]C[Ko, white must find the first threat.RIGHT])
+(;B[ar]C[NOTTHIS]))))
+(;B[an];W[ap]
+(;B[ao];W[am]C[White is alive.  White may also tenuki and leave a ko threat for black.])
+(;B[es];W[am]))
+(;B[ao];W[am];B[es];W[an]C[White is alive.  White may also tenuki and leave a ko threat for black.]))
+(;W[ap]
+(;B[ao];W[as];B[es];W[am];B[cs]C[Ko, white must find the first threat.RIGHT])
+(;B[es];W[an]TR[bn]TR[bo]TR[bp]TR[cp]C[Whtie is alive.])))
+(;B[es];W[ap]
+(;B[aq])
+(;B[cs];W[an]C[White is alive.]TR[bn]TR[bo]TR[bp]TR[cp])
+(;B[br];W[cs]C[White is alive, black cannot push.])
+(;B[as];W[aq];B[cs];W[br]C[White is alive, black cannot push.]TR[bn]TR[bo]TR[bp]TR[cp])
+(;B[an];W[cs]
+(;B[aq];W[am]C[White is alive.])
+(;B[br];W[am]C[White is alive.  White may also tenuki and leave a ko threat for black.])))
+(;B[ao];W[am]C[];B[aq];W[an];B[ap];W[as]C[White is alive.  White may also tenuki and leave a ko threat for black.])
+(;B[an];W[am]C[White is alive.]TR[an]TR[bn]TR[bo]TR[bp]TR[cp])
+(;B[ap];W[aq];B[br];W[as]C[White is alive.])
+(;B[br];W[ap];B[es])
+(;B[as];W[ap]C[White is alive.]TR[bn]TR[bo]TR[bp]TR[cp]))

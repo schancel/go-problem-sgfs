@@ -1,0 +1,33 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[rr][qq][qp][rp][ro]AW[rn][qo][po][pp][pq][qr][pr][qm]AE[qn]
+(;B[sq]CR[sq]
+;W[rs]CR[rs]
+(;B[so]CR[so]
+;W[sr]CR[sr]C[ko])
+(;B[sr]CR[sr]
+;W[so]CR[so]))
+(;B[rs]CR[rs]
+;W[sq]CR[sq]
+(;B[sr]CR[sr]
+;W[so]CR[so]
+(;B[rq]CR[rq]C[RIGHT])
+(;B[sp]CR[sp]
+;W[rq]CR[rq]C[oops]))
+(;B[so]CR[so]
+;W[sr]CR[sr])
+(;B[rq]CR[rq]
+;W[sr]CR[sr]))
+(;B[qs]CR[qs]
+;W[sq]CR[sq]C[not a good move -- better to come straight down]
+(;B[rs]CR[rs]
+;W[sr]CR[sr])
+(;B[sp]CR[sp]
+;W[rs]CR[rs])
+(;B[sr]CR[sr]
+;W[rs]CR[rs]))
+(;B[sr]CR[sr]
+;W[rs]CR[rs]
+(;B[so]CR[so]
+;W[sq]CR[sq])
+(;B[sq]CR[sq]
+;W[so]CR[so])))

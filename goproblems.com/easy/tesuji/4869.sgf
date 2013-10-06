@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[6k]DP[36]SO[lok]CO[7]AB[qb]AB[pc]AB[qd]AB[pd]AB[pe]AW[rb]AW[rc]AW[qc]AW[rd]AW[re]AW[qe]AB[qf]AB[qg]AB[qh]AB[qi]AB[ri]AW[pf]AW[of]AW[ph]AW[oh]AW[nh]AB[nd]AB[oc]C[What can Black do against White's corner?]AP[goproblems]
+(;B[ra];W[pb]
+(;B[pa]C[Ko for the cornerRIGHT])
+(;B[qa];W[pa])
+(;B[sb];W[qa])
+(;B[ob];W[qa]))
+(;B[qa];W[ra]C[White is alive and Black is gote (he has to play Q18 or P18)])
+(;B[pb];W[ra]C[]
+(;B[sb];W[sc];B[se];W[rf];B[sf];W[rg];B[sg];W[sh];B[rh];W[sd];B[sg];W[sf]C[White is alive])
+(;B[rf];W[se]C[White is alive])
+(;B[sf];W[se]C[White is alive])
+(;B[se];W[rf]
+(;B[sf];W[rg];B[sg];W[sh];B[rh];W[sd]C[White is alive])
+(;B[sb];W[sc];B[sf];W[rg];B[sg];W[sh];B[rh];W[sd];B[sg];W[sf])
+(;B[sc];W[sd];B[sf];W[rg]
+(;B[sg];W[sh])
+(;B[sh];W[sg]))
+(;B[rg];W[sf])))
+(;B[rf];W[pb]C[White is alive])
+(;B[pa];W[ra]C[White is alive])
+(;B[sb];W[pb]C[])
+(;B[se];W[pb]C[]))

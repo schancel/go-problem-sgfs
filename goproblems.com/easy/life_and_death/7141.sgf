@@ -1,0 +1,89 @@
+(;GE[life and death]DI[12k]DP[55]SO[Max007]CO[8]GM[1]FF[1]SZ[19]NE[B]SS[@0]AP[StoneLeaf2]
+AB[aq][ap][bp][bo][co][do][eo][ep][eq][er][es]
+AW[ar][br][bq][dp][dq][dr][ds]
+(
+;B[bs]ID[1]
+   (
+   ;W[cs]ID[2]
+   ;B[cq]ID[3]C[RIGHT CHOICE]
+   )
+   (
+   ;W[cp]ID[4]
+      (
+      ;B[cr]ID[5]C[RIGHT CHOICE]
+      )
+      (
+      ;B[cq]ID[38]
+      ;W[im]ID[39]
+      )
+      (
+      ;B[cs]ID[40]
+      ;W[cr]ID[41]
+      )
+   )
+)
+(
+;B[cp]ID[6]
+;W[cq]ID[7]
+   (
+   ;B[cs]ID[8]
+   ;W[bs]ID[9]
+   )
+   (
+   ;B[bs]ID[34]
+   ;W[cs]ID[35]
+   )
+   (
+   ;B[cr]ID[36]
+   ;W[jj]ID[37]
+   )
+)
+(
+;B[ao]ID[10]
+;W[cp]ID[11]
+)
+(
+;B[an]ID[12]
+;W[cp]ID[13]
+)
+(
+;B[bn]ID[14]
+;W[cp]ID[15]
+)
+(
+;B[cn]ID[16]
+;W[cp]ID[17]
+)
+(
+;B[dn]ID[18]
+;W[cp]ID[19]
+)
+(
+;B[en]ID[20]
+;W[cp]ID[21]
+)
+(
+;B[fn]ID[22]
+;W[cp]ID[23]
+)
+(
+;B[fo]ID[24]
+;W[cp]ID[25]
+)
+(
+;B[fp]ID[26]
+;W[cp]ID[27]
+)
+(
+;B[fq]ID[28]
+;W[cp]ID[29]
+)
+(
+;B[fr]ID[30]
+;W[cp]ID[31]
+)
+(
+;B[fs]ID[32]
+;W[cp]ID[33]
+)
+)

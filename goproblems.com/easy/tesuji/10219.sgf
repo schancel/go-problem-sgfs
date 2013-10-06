@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[6k]DP[37]SO[adum]CO[7]AB[bj]AB[cj]AB[dj]AB[ck]AB[bl]AB[bm]AB[an]AB[bo]AB[ap]AW[bn]AW[cn]AW[cm]AW[cl]AW[dk]AW[bk]AW[ek]AW[ej]AW[ei]AW[ci]AW[bi]AW[di]AW[bh]AW[dh]AW[cg]AB[bg]AB[ag]AB[af]AW[bf]AB[be]AB[ce]AB[cd]AB[df]AB[dg]AB[ef]AB[ff]AB[ge]AB[gd]AW[bc]AW[cc]AW[dd]AW[fd]AW[gc]AW[hc]AW[eg]AB[fh]AB[gi]AW[gh]AB[gk]AB[dl]AW[dm]AW[em]AW[en]AB[do]AB[cp]AB[fo]AB[fn]AB[fm]AW[fl]AW[gl]AB[hl]AB[hm]AB[gp]LB[bk:1]C[adum throws in at 1. how to respond?]AP[goproblems]
+(;B[aj];W[am]
+(;B[al];W[ai];B[ak]C[yes, adum has nothingRIGHT])
+(;B[ak];W[ao]C[you let it become ko!])
+(;B[ah];W[al]
+(;B[ai];W[ak])
+(;B[bl];W[ai]))
+(;B[ai];W[al]))
+(;B[ak]
+(;W[aj]C[CHOICE];B[ai];W[ah]C[oops, ko])
+(;W[ah]C[CHOICE]
+(;B[cf];W[aj]C[oops, ko])
+(;B[ae];W[aj]C[oops, ko])))
+(;B[al];W[aj])
+(;B[am];W[aj])
+(;B[ai];W[aj])
+(;B[ah];W[aj])
+(;B[fg];W[aj])
+(;B[fi];W[aj])
+(;B[gg];W[aj])
+(;B[hh];W[aj])
+(;B[ae];W[aj])
+(;B[cf];W[aj]))

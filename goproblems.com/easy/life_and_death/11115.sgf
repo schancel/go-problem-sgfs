@@ -1,0 +1,13 @@
+(;GE[life and death]DI[4k]DP[31]SO[Field Mouse]CO[0]AB[sc]AB[rc]AB[qc]AB[pc]AB[oa]AB[ob]AB[oc]AW[na]AW[nb]AW[nc]AW[nd]AW[od]AW[qd]AW[rd]AW[sd]AW[pd]AW[db]AW[dc]AW[cc]AW[fb]AW[gb]AW[gc]AW[jc]AW[kc]AW[kb]AW[jb]LB[ce:A]LB[ge:B]LB[ke:C]AB[ng]AB[nh]AB[ni]AB[nj]AB[rj]AB[ri]AB[rh]AB[rg]AB[ig]AB[hg]AB[gg]AB[fg]AB[eg]AB[eh]AB[ei]AB[ej]AB[gk]AB[fk]AB[ek]AB[hk]AB[ik]AB[ij]AB[ii]AB[ih]AB[qg]AB[pg]AB[og]AB[nk]AB[ok]AB[pk]AB[qk]AB[rk]C[White to do his best in the upper right corner. Please chose the shape you want to put into blacks group by playing A or B or C.FORCE]AP[goproblems]
+(;W[ce]LB[gi:A]AW[pi]AW[ph]AW[oi]LB[ki:->]LB[li:->]TR[dc]C[Click on the place where you want the marked stone to be. An example is given: if you would click at A the position like in the right square will occur.];B[se]C[Click on the place where you want the marked stone to be. An example is given: if you would click at A the position like in the right square will occur.FORCE]TR[dc]LB[gi:A]TR[pi]
+(;W[rb]AW[ra]AW[qb]C[Nice, black is dead now! :)RIGHT])
+(;W[qb]AW[qa]AW[pb]TR[qb];B[rb]TR[qb];W[ra]C[Black gets this thousand year ko, you could do better.])
+(;W[sb]AW[rb]AW[sa];B[qb]C[Black is alive.]TR[sb]))
+(;W[ge];B[se]C[Click on the place where you want the marked stone to be. An example is given: if you would click at A the position like in the right square will occur.FORCE]TR[gb]LB[gi:A]AW[pi]AW[oi]AW[pj]TR[pi]
+(;W[sa]AW[ra]AW[sb];B[qa]C[Back lives.]TR[sa])
+(;W[ra]AW[qa]AW[rb];B[sb]C[Seki]TR[ra])
+(;W[qa]AW[pa]AW[qb];B[rb]TR[qa];W[ra]C[Black gets this thousand year ko. You could do better.]))
+(;W[ke];B[se]C[Click on the place where you want the marked stone to be. An example is given: if you would click at A the position like in the right square will occur.FORCE]TR[kc]LB[gi:A]AW[pi]AW[ph]AW[oh]AW[oi]TR[pi]
+(;W[sb]AW[rb]AW[ra]AW[sa];B[qb]TR[sb]C[Black lives.])
+(;W[rb]AW[ra]AW[qb]AW[qa];B[sb]TR[rb]C[Black lives.])
+(;W[qb]AW[qa]AW[pa]AW[pb];B[rb]C[Black lives.]TR[qb])))

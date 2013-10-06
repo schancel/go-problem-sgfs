@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[3k]DP[24]SO[meh]CO[8]AW[ah]AW[ag]AW[bg]AW[bf]AW[bi]AW[ci]AW[dj]AW[ei]AW[fi]AW[fh]AW[fg]AW[ef]AW[df]AW[de]AW[ce]AB[ff]AB[eg]AB[fe]AB[ee]AB[ed]AB[dd]AB[cd]AB[be]AB[bd]AB[ae]AB[af]AB[cj]AB[bj]AB[aj]AB[ai]AB[bk]AB[bl]AW[dk]AW[ck]C[Thanks to adum for showing me this variation... W to defeat b's ploy with the marked stone.]AB[ch]TR[ch]AP[goproblems]
+(;W[bh];B[cf]
+(;W[dg]C[Poor b thought something could be captured.RIGHT])
+(;W[cg];B[dg]C[You just gave b what he was hoping for!]))
+(;W[dh];B[dg];W[cf];B[cg])
+(;W[cg];B[dg])
+(;W[dg];B[bh];W[di];B[cg])
+(;W[cf];B[bh];W[di];B[dg])
+(;W[eh];B[dg];W[cf];B[bh]))

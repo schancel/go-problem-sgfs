@@ -1,0 +1,14 @@
+(;GE[endgame]DI[4k]DP[28]SO[santa c]CO[0]SZ[6]C[1 komi - 1 prisoner (c3) =0]AW[ee]AW[ed]AW[ec]AW[dc]AW[fb]AW[cb]AW[bb]AW[ac]AB[cc]AB[bc]AB[bd]AB[ad]AB[ce]AB[de]AB[dd]AB[df]AB[db]AP[goproblems]
+(;B[ba]
+(;W[da]
+(;B[ab];W[eb];B[ef];W[fe]C[b plus one, well done!RIGHT]LB[ac:1]LB[ca:2]LB[aa:3])
+(;B[aa];W[ca])
+(;B[ef];W[ab]))
+(;W[ca];B[da];W[aa];B[ab]C[would be a huggge winRIGHT])
+(;W[ab];B[ca]C[RIGHT]))
+(;B[ab];W[ba]C[jigo at best!]LB[ef:1]LB[fe:2]LB[ac:3]LB[da:4]LB[aa:5]LB[eb:6])
+(;B[ca];W[eb]C[in a scenario where the best play leads to a one point win, giving away prisoners is clearly a mistake!]MA[ca])
+(;B[ef];W[ab]C[while it doesn't look like much ws 6th row alone, matches bs 6 points!])
+(;B[da];W[ba]C[jigo at best!]LB[ab:1]LB[eb:2]LB[ef:3]LB[fe:4]LB[ac:5]LB[ea:6]LB[aa:7]LB[ca:8])
+(;B[eb];W[da]C[w needs one less stone to capture d5 now! clearly bad in a problem where the best play leads to a one point win!]LB[ba:1]LB[ab:2])
+(;B[ea];W[eb]C[w needs one less stone to capture d5 now! clearly bad in a problem where the best play leads to a one point win!]))

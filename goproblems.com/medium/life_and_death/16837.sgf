@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[27]SO[mountain root]CO[0]AW[ra]AW[rb]AW[rc]AB[sb]AW[oa]AW[pb]AW[pc]AB[qc]AB[qd]AW[rd]AW[sd]AB[re]AB[qf]AB[pe]AB[oc]AW[pd]AB[nb]AW[lb]AB[od]AB[oe]AB[me]AB[rg]AW[kc]AW[jb]AP[goproblems]
+(;B[pa]
+(;W[qa];B[ob]C[CHOICERIGHT])
+(;W[ob];B[qb];W[qa];B[qe]C[CHOICERIGHT])
+(;W[qb];B[ob]C[RIGHT]))
+(;B[qb];W[qa]
+(;B[qe];W[na])
+(;B[ob];W[qe])
+(;B[na];W[qe]))
+(;B[ob];W[pa]
+(;B[qb];W[na])
+(;B[na];W[qb])
+(;B[qa];W[qb]))
+(;B[qa];W[qb])
+(;B[na];W[qb])
+(;B[mb];W[qb]))

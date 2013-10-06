@@ -1,0 +1,54 @@
+(;GE[best move]DI[10k]DP[53]SO[meh]CO[6]AB[rd]AB[pd]AB[ic]AB[fd]AB[cd]AB[cg]AB[ch]AB[bh]AB[ci]AB[di]AB[dj]AB[dk]AB[ek]AB[el]AB[fl]AB[fm]AB[fn]AB[fo]AB[fp]AB[ep]AB[gp]AB[gq]AB[hr]AB[dq]AB[cq]AB[bq]AB[ap]AB[bo]AB[bn]AB[cn]AB[dn]AB[cm]AB[al]AB[pq]AB[op]AB[nq]AB[no]AB[mo]AB[lo]AB[lp]AB[mq]AB[mr]AB[qo]AB[qn]AB[pn]AB[on]AB[om]AB[nm]AB[ok]AB[pi]AB[mi]AB[fj]AB[gj]AW[fk]AW[gk]AW[ej]AW[ei]AW[fi]AW[am]AW[bm]AW[bl]AW[bi]AW[aj]AW[cj]AW[ck]AW[cl]AW[dl]AW[dm]AW[em]AW[en]AW[eo]AW[do]AW[dp]AW[cp]AW[bp]AW[fq]AW[eq]AW[er]AW[dr]AW[gr]AW[fs]AW[hq]AW[gn]AW[jj]AB[ke]AB[kf]AW[kd]AW[le]AW[lf]AW[lq]AW[lr]AW[kr]AW[kp]AW[jp]AW[jq]AW[nn]AW[mn]AW[ln]AW[kn]AW[oo]AW[po]AW[pp]AW[qp]AW[rp]AW[rn]AW[rm]AW[qk]AW[qi]AW[qh]AW[qf]AP[goproblems]
+(;W[hj]C[CHOICE];B[gi]
+(;W[hi];B[gh]TR[fi]TR[ei]TR[ej]C[The triangled group is now dead, and b escapes.])
+(;W[gh]C[];B[hi]
+(;W[ii]C[];B[hh]
+(;W[fh];B[hg]C[Nope.])
+(;W[hg];B[ih]
+(;W[jh];B[ig]
+(;W[if];B[jg]
+(;W[kg]C[Yup, that's it!RIGHT];B[jf]C[Yup, that's it!];W[je]C[Have to actually capture, eh? Don't worry, I'm the same way. :pRIGHT])
+(;W[kh];B[fh]TR[gg]TR[hk]C[Double atari, either where played or at the marked points. W loses.]))
+(;W[hf];B[fh]C[Double atari. W can't win.])
+(;W[ie];B[gg]C[Double atari. W can't win.]))
+(;W[ig];B[jh]
+(;W[fh];B[hk]C[Double atari. W loses])
+(;W[hk];B[fh]C[double atari. W loses.])))
+(;W[hf];B[fh]C[Double atari. W cannot win this.]))
+(;W[ih];B[ij];W[hk];B[ii]
+(;W[ik];B[ji]C[b escapes!])
+(;W[hh];B[ik];W[hl];B[il]C[b escapes.])
+(;W[ji];B[ik];W[hl];B[hh];W[hg];B[fh]C[double atari. W cannot win this.]))
+(;W[hh];B[ii]
+(;W[ij]
+(;B[fh];W[eh];B[fg];W[eg];B[ef];W[ff];B[gg];W[hg];B[gf];W[df];B[ee]
+(;W[dg];B[cf];W[de];B[dd];W[ce];B[be]
+(;W[hf];B[ge])
+(;W[ji];B[dh]C[w is captured]))
+(;W[ji];B[ih];W[ig];B[jh];W[kh];B[jg];W[jf];B[kg];W[if];B[hk];W[gl];B[hl];W[gm];B[hn];W[lg];B[je];W[ie];B[jd];W[jc];B[id]C[B makes several big captures, and being stubborn only makes matters worse.]))
+(;B[hk];W[gl];B[hl];W[gm];B[hn];W[hm];B[im];W[il];B[go]))
+(;W[jh];B[ij];W[hk];B[ik];W[hl];B[il];W[hm];B[ih];W[ig];B[ji];W[jg];B[ki]C[B escapes.])))
+(;W[gg];B[fh];W[eh];B[eg];W[dh];B[dg]))
+(;W[gi]C[CHOICE];B[hj]C[That wins? Show me.];W[hk];B[hi];W[hh];B[ii];W[ji];B[ih]
+(;W[ig];B[gh]TR[ej]TR[ei]TR[fi]TR[gi]TR[hh]C[One or both of the marked groups will die, and black escapes.])
+(;W[hg];B[jg];W[fg];B[ik]C[Now w's stones at the bottom are in trouble and black has escaped.]))
+(;W[ao]C[CHOICE]
+(;B[an]C[FORCE];W[co];B[ao];W[aq]C[You captured a group that was already dead. a5 was a false eye, and there's not enough eyespace in the corner. See 'navigate solution' if you want to see for yourself. It starts with a move at a15 for w.])
+(;B[cr];W[cs];B[bs];W[ar]))
+(;W[ak];B[hi]C[An interesting idea, but unnecessary - b can't take away the eye at b10.])
+(;W[bj];B[hi]C[Unnecessary, and b escapes.])
+(;W[ol];B[pl];W[nl];B[ml];W[nk];B[nj];W[mk];B[lk];W[mj];B[lj]C[Caught in a ladder])
+(;W[ld];B[hk];W[gl];B[hl];W[gm];B[hn]C[Caught in a net.];W[hm]C[Caught in a net];B[im]C[Caught in a net]
+(;W[go]C[Caught in a net];B[ho]C[Caught in a net])
+(;W[ho]C[caught in a net];B[go]C[caught in a net]))
+(;W[bc];B[cc]
+(;W[bd];B[be];W[cb];B[db];W[ab];B[ba];W[ca];B[ad]C[The invasion can't survive])
+(;W[cb];B[db];W[bb];B[bd]C[Not enough eyespace. The invasion is dead.]))
+(;W[kg];B[hk];W[gl];B[hl];W[gm];B[hn]C[Uh-oh. w's in trouble now. B escapes, -and- gets a big capture, as well as a wall for his trouble.]TR[hn]TR[hl]TR[hk];W[hj];B[gi];W[gh];B[hi];W[ij];B[ii]C[Trying to capture now only makes matters worse for w.])
+(;W[gl];B[gi];W[gh];B[fh];W[eh];B[eg];W[fg];B[dh];W[fh];B[hh];W[hi];B[hj];W[ii];B[ff];W[gg];B[hg];W[gf];B[ge];W[hf];B[if];W[he];B[hd];W[ie];B[je];W[id];B[jd]C[Ouch.])
+(;W[ae];B[cr];W[cs];B[bs];W[ar]C[Dead. a5 is a false eye, and the corner only gives one eye. D1 and J1 are miai for life of the w group, b can't take both to kill w and live, and even if c1 is captured, it also only gives a false eye. B is dead.])
+(;W[hi];B[hj];W[hk];B[ij]
+(;W[ii];B[ik];W[il];B[hl];W[gl];B[gm]C[oops!])
+(;W[ik];B[ii];W[ih];B[ji];W[ki];B[jh]
+(;W[hh];B[gi];W[gh];B[fh];W[eh];B[fg];W[jg];B[kh];W[lh];B[kg]C[Ataris work, or b can kill the d11 group.])
+(;W[jg];B[hh]C[Double atari. W can't win...]))))

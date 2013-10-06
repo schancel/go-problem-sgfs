@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[8k]DP[47]SO[TnekKralc]CO[0]AB[dp]AB[ip]AW[do]AB[eo]AW[co]AW[ep]AB[dq]AW[bq]AB[eq]AW[fp]AW[fo]AB[en]AW[cm]AB[fn]AW[gq]AB[go]AW[iq]AB[ho]AW[jp]AW[jo]AW[jq]AP[goproblems]
+(;B[hq]
+(;W[hr]C[CHOICE]
+(;B[fq]LB[hq:1]LB[hr:2]LB[fq:3]C[B 1 is the tesuji. If W answers w/ 2, B catches 3 W stones by playing 3.RIGHT])
+(;B[gr]C[];W[fq]))
+(;W[gr];B[hr]C[RIGHT]))
+(;B[fq];W[gp];B[hq];W[gr];B[hr]LB[fq:1]LB[gp:2]LB[hq:3]LB[gr:4]LB[hr:5]C[Wrong answer. If B plays 1 w/o any preparation, W plays the moves to 6, and B has no follow-up.];W[hp])
+(;B[gp];W[fq])
+(;B[gr];W[hr];B[fr];W[fq]))

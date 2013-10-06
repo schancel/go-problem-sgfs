@@ -1,0 +1,11 @@
+(;GE[life and death]DI[4k]DP[31]SO[assacra]CO[5]AW[qr]AW[qq]AW[pq]AW[qp]AW[rq]AW[or]AB[nr]AB[lr]AB[nq]AB[oq]AB[pp]AB[po]AB[qo]AB[ro]AB[rp]C[black to kill without ko (2 solutions)]AP[goproblems]
+(;B[os];W[ps]C[ko])
+(;B[sq];W[sr];B[rs];W[ps]
+(;B[ns]C[RIGHT])
+(;B[qs];W[ns];B[ms];W[rr]C[ko]))
+(;B[rs];W[ps]
+(;B[ns]C[RIGHT])
+(;B[qs];W[rr];B[ns];W[ss]TR[os]TR[sq])
+(;B[sq];W[sr]
+(;B[ns]C[RIGHT])
+(;B[qs];W[ns];B[ms];W[rr]C[ko]))))

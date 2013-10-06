@@ -1,0 +1,118 @@
+(
+;GE[elementary]DI[4d]DP[7]SO[ecb1]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AB[bd][cd][be][cf][cg][df][ef][ff][ag][bh][bi][gg][gh][gi][ih][ii][ij][jh][jj][ki][kj][le][me][ne][pd][pf][qc][qh][pj][pl]
+AW[ad][bc][cc][dd][de][fd][he][je][jg][kc][md][nc][pb][ig][kg][kh][li][mh][ai][aj][bj][cj][ci][dg][dh][fh][fi][gj][hj][mk][kl][il][ch]
+SQ[ch]
+LB[qb:A]
+(
+;
+W[ae]
+;
+B[af]
+;
+W[ac]
+;
+B[ce]
+;
+W[bg]
+C[RIGHT]
+)
+(
+;
+W[qb]
+;
+B[ae]
+C[Now Black has two eyes (around A14 and K11).
+White can do better.]
+)
+(
+;
+W[bg]
+;
+B[bf]
+(
+;
+W[ae]
+;
+B[ah]
+C[White cannot approach and Black lives with
+eyes at B13 and K11.]
+)
+(
+;
+W[ah]
+;
+B[ae]
+C[Black lives with eyes at A14 and K11.  If White takes
+at B13, Black immediately takes back at B12.]
+)
+)
+(
+;
+W[ah]
+;
+B[bg]
+;
+W[ae]
+;
+B[af]
+(
+;
+W[ac]
+;
+B[ce]
+C[Black lives.]
+)
+(
+;
+W[ce]
+;
+B[ac]
+(
+;
+W[ab]
+;
+B[ad]
+C[Black lives and White has weaknesses in the
+corner.]
+)
+(
+;
+W[ad]
+;
+B[ae]
+C[Black lives and White has weaknesses in the corner.]
+)
+)
+)
+(
+;
+W[af]
+;
+B[ae]
+(
+;
+W[ah]
+;
+B[bg]
+C[Black lives.]
+)
+(
+;
+W[ce]
+;
+B[bf]
+C[Black lives.]
+)
+(
+;
+W[bg]
+;
+B[bf]
+C[Black lives with eyes at A14 and K11.]
+)
+)
+)

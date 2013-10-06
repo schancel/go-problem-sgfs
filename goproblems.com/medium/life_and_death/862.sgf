@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1d]DP[17]SO[Hans]CO[7]AW[dn]AW[en]AW[fn]AW[bo]AW[co]AW[go]AW[ho]AW[bp]AW[hp]AW[bq]AW[eq]AW[hq]AW[br]AW[hr]AW[bs]AW[gs]AW[hs]AB[do]AB[eo]AB[fo]AB[cp]AB[gp]AB[cq]AB[gq]AB[cr]AB[gr]AB[cs]AB[ds]AB[es]AB[fs]C[Black to live. Start on one of the marked points.FORCE]MA[fp]MA[fq]MA[fr]MA[er]MA[dr]
+(;B[fp];W[er]
+(;B[dq]
+(;W[ep]
+(;B[fr]C[ Seki.RIGHT])
+(;B[fq];W[dp]))
+(;W[fr];B[ep]C[ Seki.RIGHT]))
+(;B[fr];W[dq]C[Dead shape.])
+(;B[ep];W[dq]C[Dead shape.])
+(;B[dp]C[Eventually white can create a dead shape (rabbity six).]))
+(;B[fq];W[dp]
+(;B[dq];W[ep])
+(;B[fp];W[er]
+(;B[fr];W[dq]C[Dead shape.])
+(;B[dq];W[ep])))
+(;B[fr];W[dp];B[fp];W[dq]C[Dead shape.])
+(;B[er];W[fp])
+(;B[dr];W[fp]))

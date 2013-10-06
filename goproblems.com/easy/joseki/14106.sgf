@@ -1,0 +1,4 @@
+(;GE[joseki]DI[20k]DP[73]SO[vandrei]CO[0]AB[pp]AB[pj]AB[pd]AW[dd]AW[dj]AW[dp]AW[qq]LB[qp:a]LB[pq:b]AP[goproblems]
+(;B[qp]TR[pq];W[pq]TR[oq]C[CHOICE];B[oq]TR[or];W[or]TR[nq]C[CHOICE];B[nq]TR[nr];W[nr]TR[mq]C[CHOICE];B[mq]TR[rp];W[rp]TR[ro]C[CHOICE];B[ro]TR[rq];W[rq]TR[qn]C[CHOICE];B[qn]C[RIGHT])
+(;B[pq]TR[qp];W[qp]TR[qo]C[CHOICE];B[qo]TR[ro];W[ro]TR[qn]C[CHOICE];B[qn]TR[rn];W[rn]TR[ql]C[CHOICE]
+(;B[ql]TR[rl];W[rl]TR[rm]C[CHOICE];B[rm]TR[sm];W[sm]TR[qm]C[CHOICE];B[qm]TR[rk];W[rk]TR[rj]C[CHOICE];B[rj]TR[qk];W[qk]TR[pk]C[CHOICE];B[pk]TR[qj];W[qj]TR[qi]C[CHOICE];B[qi]TR[ri];W[ri]TR[rh]C[CHOICE];B[rh]TR[sj];W[sj]TR[ph]C[CHOICE];B[ph]TR[qr];W[qr]C[CHOICE])))

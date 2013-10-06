@@ -1,0 +1,8 @@
+(;GE[best move]DI[10k]DP[54]SO[chrise]CO[8]AB[rr]AB[qq]AB[qp]AB[qn]AB[rm]AB[om]AB[pm]AW[po]AW[pn]AW[pp]AW[pq]AW[qr]AW[pr]AW[or]AW[qs]AW[os]AW[nr]AW[mr]AW[ms]AB[rs]AW[qo]AB[ro]AB[rq]AB[oq]AB[nq]AB[mq]AB[lp]AB[kq]AB[jq]AB[jp]AB[hp]AW[kp]AW[ko]AW[kn]AW[lo]AW[mp]AB[no]AW[op]AB[ok]AB[oj]AB[nj]AB[mj]AB[lk]AB[ll]AB[lm]AB[ln]AW[pj]AB[pl]AW[qk]AW[rk]AW[mn]AW[ml]AW[nl]AB[lq]AB[lr]AB[ls]AB[gp]AB[pk]AW[qj]AP[goproblems]
+(;W[nn];B[np]C[Now if white p6, then black n5 and the triangled group is struggling. If instead white risks n5 then black p6 and all of white's group is endangered.]TR[kp]TR[ko]TR[kn]TR[lo])
+(;W[mo];B[np]C[The whole triangled group will struggle to survive now]TR[kp]TR[ko]TR[kn]TR[lo]TR[mp]TR[mo]TR[mn]TR[ml]TR[nl]AB[pk])
+(;W[np]C[Correct. Black cannot immediately play n5 and so the triangled stones are free. Black can follow up in sente with o6 forcing white n5; however, if black should choose to capture the squared stones it would be in gote and would not necessarily be black's strongest play, particularly if there are bigger plays on the rest of the board. Essentially for white the triangled stones now have local influence and are not under risk of capture.RIGHT]TR[kn]TR[ko]TR[kp]TR[lo]MA[ml]MA[nl])
+(;W[mm];B[np]C[The whole triangled group will struggle to survive now]TR[kn]TR[ko]TR[kp]TR[lo]TR[mn]TR[mp]TR[mm]TR[ml]TR[nl])
+(;W[nm]C[The whole triangled group will struggle to survive now];B[np]C[The whole triangled group will struggle to survive now]TR[mn]TR[nm]TR[nl]TR[ml]TR[lo]TR[kp]TR[ko]TR[kn]TR[mp])
+(;W[on];B[np]C[After white o6 and black n5 the triangled group is struggling]TR[kp]TR[ko]TR[kn]TR[lo])
+(;W[oo];B[np]C[The whole triangled group will struggle to survive now]TR[kp]TR[ko]TR[kn]TR[lo]TR[mp]TR[mn]TR[ml]TR[nl]))

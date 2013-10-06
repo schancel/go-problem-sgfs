@@ -1,0 +1,25 @@
+(;GE[life and death]DI[3k]DP[26]SO[DarkSycthe]CO[0]AW[rb]AW[qb]AW[rc]AW[sc]AW[nb]AB[mc]AB[od]AB[pd]AB[qd]AB[qc]AB[rd]AB[nd]C[How should white defend against black 1? If you think white doesn't need to defend in order to live unconditionally in the corner, play T for tenuki.]LB[pf:T]AW[nc]AW[mb]AW[oc]AW[pb]AB[pc]AB[md]AB[lc]AB[lb]AB[la]AB[oa]LB[oa:1]AP[goproblems]
+(;W[pf];B[ma]C[Ok then, please demonstrate how to live in the best way.]
+(;W[ob];B[na]
+(;W[sa];B[pa];W[qa]C[Good.RIGHT])
+(;W[pa];B[ra];W[sa];B[sb]C[Ko.])
+(;W[qa];B[sa]))
+(;W[na];B[ob])
+(;W[pa];B[ra]
+(;W[sa];B[sb]C[];W[qa];B[na]C[You could've saved the four stones.])
+(;W[na];B[ob])
+(;W[ob];B[na];W[sa];B[sb]C[Ko.]))
+(;W[qa];B[sa]
+(;W[na];B[ob])
+(;W[ob];B[na]))
+(;W[sa];B[ob]C[You could've saved those four stones.])
+(;W[ra];B[pa]
+(;W[na];B[ob])
+(;W[ob];B[na])))
+(;W[ob]C[This is unnecessary.])
+(;W[pa]C[This is unnecessary.])
+(;W[qa]C[This is unnecessary.])
+(;W[sa]C[This is unnecessary.])
+(;W[na]C[This is unnecessary.])
+(;W[ma];B[ob])
+(;W[ra]C[This is unnecessary.]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[7k]DP[40]SO[santa c]CO[4]AB[lr]AB[lq]AB[lp]AB[kp]AB[lo]AB[ln]AB[mp]AB[np]AB[oo]AB[nn]AB[nm]AB[pn]AB[pm]AB[on]AB[oq]AB[or]AB[nr]AW[nq]AW[mq]AW[op]AW[pp]AW[po]AW[pq]AW[pr]AW[qn]AW[qm]AW[ol]AW[pl]AW[om]AW[nl]AW[ml]AW[lm]AW[km]AW[kn]AW[ko]AW[kl]AW[jp]AW[jq]AW[kq]AW[kr]AB[ks]AW[ir]C[In how many ways can the black group be killed?FORCE]LB[il:0]LB[im:1]LB[in:2]LB[rp:3]LB[rq:4]LB[rr:5]TR[io]TR[jo]TR[jn]TR[jm]TR[jl]TR[jk]TR[ik]TR[hk]TR[hl]TR[hm]TR[hn]TR[ho]TR[qr]TR[qq]TR[qp]TR[qo]TR[ro]TR[so]TR[sp]TR[sq]TR[sr]TR[ss]TR[rs]TR[qs]AP[goproblems]
+(;W[il]C[Please play at J6 if you want to see the killing attempts.]LB[in:X]
+(;B[im]C[Well done! (You could follow some of the attempts to kill using 'Navigate Solution' under 'Show Solution' from this point, to view how they fail for yourself.)CHOICERIGHT])
+(;B[in]C[These 3 locations are shown as white attempts to kill black.]LB[mn:x]LB[ms:x]LB[os:x]
+(;W[mn];B[os];W[ms];B[ls]C[Black'd live.])
+(;W[os];B[mm]C[Black'd live.])
+(;W[ms];B[mm]C[Black'd live.])))
+(;W[im]C[]AW[in];B[ip]C[Show it.]LB[im:1]
+(;W[mn];B[os]
+(;W[mm];B[no]
+(;W[ms];B[ls]C[Alive.])
+(;W[js];B[ls]))
+(;W[no];B[mo]
+(;W[mm];B[no];W[ms];B[ls])
+(;W[ms];B[ls]))
+(;W[ms];B[ls]C[Nope.])
+(;W[ls];B[ms]))
+(;W[mm];B[mn])
+(;W[no];B[mn])
+(;W[mo];B[mn])
+(;W[os];B[mm])
+(;W[ms];B[ls]))
+(;W[in]C[]AW[im];B[ip]C[Show one way.]LB[in:2]
+(;W[mn])
+(;W[mo])
+(;W[no])
+(;W[os])
+(;W[ms])
+(;W[mm]))
+(;W[rp]C[Nope - White can't kill. The correct solution is 0. You can checkout 'Navigate Solution' under 'Show solution' following the correct number(0), to see for yourself.])
+(;W[rq]C[Nope - White can't kill. The correct solution is 0. You can checkout 'Navigate Solution' under 'Show solution' following the correct number(0), to see for yourself.])
+(;W[rr]C[Nope - White can't kill. The correct solution is 0. You can checkout 'Navigate Solution' under 'Show solution' following the correct number(0), to see for yourself.]))

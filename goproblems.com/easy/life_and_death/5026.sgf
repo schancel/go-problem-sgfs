@@ -1,0 +1,37 @@
+(;GE[life and death]DI[5k]DP[32]SO[marwin]CO[7]SZ[19]AW[bb]AW[eb]AW[cc]AW[bd]AW[ae]AW[be]AB[fb]AB[dc]AB[ec]AB[fc]AB[cd]AB[ce]AB[bf]AB[cf]AB[bh]
+(;B[cb]
+(;W[bc]C[CHOICE]
+(;B[ba];W[db]
+(;B[ca];W[ab]
+(;B[ea]C[RIGHT])
+(;B[da]C[RIGHT]))
+(;B[da]C[just a ko]))
+(;B[db];W[ba])
+(;B[ca];W[ba]))
+(;W[ac]C[CHOICE]LB[bc:Ko?]
+(;B[ba];W[db]LB[bc:Ko?]
+(;B[ca];W[aa]
+(;B[bc]C[double koRIGHT])
+(;B[ab]C[double koRIGHT])
+(;B[ea];W[da]))
+(;B[bc]C[Ko is not enough.]))
+(;B[bc]C[Ko is not enough.])))
+(;B[db];W[cb]
+(;B[ac];W[ab])
+(;B[ca];W[ba];B[ac];W[ab]))
+(;B[ba];W[cb])
+(;B[ac];W[ab]
+(;B[cb];W[bc];B[ba];W[db]
+(;B[ca];W[aa])
+(;B[da]C[only ko]))
+(;B[db];W[cb];B[ca];W[ba])
+(;B[bc];W[cb]))
+(;B[ab];W[ac])
+(;B[bc];W[ac])
+(;B[ad];W[ac];B[cb];W[db])
+(;B[ca];W[ba]
+(;B[cb];W[bc])
+(;B[ac];W[ab]
+(;B[bc];W[cb])
+(;B[cb];W[bc]))
+(;B[bc];W[ac])))

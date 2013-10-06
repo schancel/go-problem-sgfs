@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5k]DP[32]SO[maba]CO[8]C[What is the best way to answer white 1?]AW[bq]AW[br]AW[bs]AW[cs]AW[ap]AB[bp]AB[cp]AB[cq]AB[cr]AB[ds]AB[fr]AB[er]AB[eq]AB[dq]AB[co]AW[bn]AW[cn]AW[dn]AW[do]AW[ep]AW[fp]AW[fq]AW[gr]AW[fs]AW[hq]LB[ap:1]AP[goproblems]
+(;B[ao];W[ar]C[2-step ko])
+(;B[bo];W[ao]C[black's dead.])
+(;B[aq];W[ar]
+(;B[ao];W[bo]C[ko])
+(;B[bo];W[ao]))
+(;B[ar]
+(;W[ao];B[aq];W[as];B[aq];W[ar];B[aq]C[RIGHT])
+(;W[aq];B[ao]
+(;W[as];B[ar]C[RIGHT])
+(;W[bo];B[as]C[RIGHT])
+(;W[an]
+(;B[as]C[RIGHT])
+(;B[bo]C[RIGHT]))))
+(;B[as];W[ao]
+(;B[ar];W[aq])
+(;B[aq];W[ar]))
+(;B[es];W[ao])
+(;B[an];W[bo]
+(;B[ao];W[am])
+(;B[aq];W[ar])
+(;B[ar];W[aq];B[ao];W[am])))

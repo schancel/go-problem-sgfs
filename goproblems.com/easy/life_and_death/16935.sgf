@@ -1,0 +1,13 @@
+(;GE[life and death]DI[6k]DP[37]SO[1234boys]CO[0]AW[br]AW[cr]AW[aq]AW[ap]AW[bo]AW[co]AW[do]AW[eo]AW[dq]AW[eq]AW[er]AW[fq]AB[bp]AB[cp]AB[ao]AB[an]AB[bn]AB[cn]AB[dn]AB[dl]AB[fm]AB[gn]AB[fp]AB[gp]AB[gq]AB[hr]AB[fr]AB[fs]AB[es]AB[ds]AB[dr]C[Black to kill.]AP[goproblems]
+(;B[ar]
+(;W[as]
+(;B[bq];W[ar]
+(;B[cs]LB[as:D]LB[ar:D]LB[aq:D]LB[ap:D]LB[bo:D]LB[co:D]LB[do:D]LB[eo:D]LB[fq:D]LB[er:D]LB[dq:D]LB[eq:D]LB[cr:D]LB[br:D]C[Correct. The white stones is dead. (marked D)RIGHT])
+(;B[cq];W[dp];B[cs]C[RIGHT]))
+(;B[cs];W[bs];B[bq]C[RIGHT]))
+(;W[bq];B[bs]C[RIGHT]))
+(;B[bq];W[ar])
+(;B[bs];W[cs];B[bq];W[ar])
+(;B[cs];W[bs]
+(;B[ar];W[bq])
+(;B[bq];W[ar])))

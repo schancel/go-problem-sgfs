@@ -1,0 +1,18 @@
+(;GE[life and death]DI[6k]DP[37]SO[happyboy]CO[0]AB[ar]AB[br]AB[cq]AB[dq]AB[dr]AB[er]AB[fr]AB[fq]AB[cp]AW[bq]AW[bp]AW[co]AW[bn]AW[bm]AW[dn]AW[dp]AW[eo]AW[ep]AW[eq]AW[fp]AW[gp]AW[gr]AW[gq]AW[gs]AW[hq]AW[iq]AW[ip]AW[jq]AW[ir]AB[jr]AB[kr]AB[kq]AB[kp]AB[jp]AB[io]AB[ho]AB[hp]AB[go]AB[en]AB[fo]AB[em]AB[el]AB[cm]AB[cl]AB[bl]AB[dh]AB[am]C[This is from a real game I just played. I need to save the white group. Luckily I got the right answer and saved it. Correct me if I am wrong anywhere. Thanks]AP[goproblems]
+(;W[aq];B[ao];W[an]
+(;B[bo]
+(;W[ap];B[bo]
+(;W[cn];B[ao];W[bp]C[white is alive. These are the real moves we played. Oh yeah!RIGHT])
+(;W[ao];B[cn]C[dead]))
+(;W[cn];B[ap]C[dead]))
+(;B[cn];W[bo]C[Great. Alive.RIGHT]))
+(;W[ao];B[aq]
+(;W[ap];B[cn]C[dead])
+(;W[cn];B[ap]C[dead]))
+(;W[an];B[aq];W[ap];B[bo];W[ao];B[cn]C[dead])
+(;W[ap]
+(;B[cn];W[an];B[bo]C[dead])
+(;B[an]C[dead]))
+(;W[cn];B[aq]
+(;W[ao];B[ap]C[dead])
+(;W[ap];B[an]C[dead])))

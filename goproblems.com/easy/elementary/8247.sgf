@@ -1,0 +1,27 @@
+(;GE[elementary]DI[15k]DP[63]SO[santa c]CO[8]AB[br]AB[ar]AB[bs]AB[cr]AB[fr]AW[cp]AW[dp]AW[ep]AW[gq]AW[gr]AB[er]AW[ds]AW[aq]AW[bq]AW[bp]AW[gp]C[White to kill]AP[goproblems]
+(;W[dr];B[dq]
+(;W[eq];B[cq]
+(;W[fs]C[Well done! Black can't approach to capture! :)RIGHT]LB[cs:A]LB[es:A])
+(;W[fq]C[Well done! Black can't approach to capture! :)RIGHT]LB[cs:A]LB[es:A])
+(;W[es];B[fs]C[:(]))
+(;W[cq];B[eq]
+(;W[fs]C[Well done! Black can't approach to capture! :)RIGHT]LB[cs:A]LB[es:A])
+(;W[fq]C[Well done! Black can't approach to capture! :)RIGHT]LB[cs:A]LB[es:A])
+(;W[es];B[fs]C[:(]))
+(;W[fs];B[es]
+(;W[cq];B[cs]
+(;W[eq];B[dr]C[:(])
+(;W[dr];B[eq]C[:(]))
+(;W[eq];B[cs]
+(;W[dr];B[cq]C[:(])
+(;W[cq];B[dr]C[:(])))
+(;W[es];B[fs]C[:(]))
+(;W[fs];B[es];W[dr];B[dq]
+(;W[eq];B[cs]
+(;W[cq];B[dr]C[:(])
+(;W[dr];B[cq]C[:(]))
+(;W[cq];B[cs]
+(;W[eq];B[dr]C[:(])
+(;W[dr];B[eq]C[:(])))
+(;W[es];B[fs]C[:(]TR[dr]TR[dq])
+(;W[dq];B[dr]C[:(]TR[fs]TR[es]))

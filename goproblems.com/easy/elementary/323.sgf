@@ -1,0 +1,46 @@
+(;GE[elementary]DI[18k]DP[67]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[oa][ob][pb][qb][rc][rd][re][se]
+AB[na][nb][nc][oc][pc][qc][qd][qe][qf][rf][sf]C[black to kill
+]
+(;B[rb];W[sb]
+(;B[ra]C[RIGHT
+white cannot push on either side
+])
+
+(;B[sc];W[ra])
+
+(;B[qa];W[ra])
+)
+
+(;B[sb];W[rb]
+(;B[ra];W[qa])
+
+(;B[sc];W[ra])
+)
+
+(;B[ra];W[rb]
+(;B[sb];W[sc])
+
+(;B[qa];W[sb])
+)
+
+(;B[sa];W[ra];B[sb];W[rb])
+
+(;B[qa];W[ra]
+(;B[sb];W[rb])
+
+(;B[rb];W[sb])
+)
+
+(;B[sc];W[sb]
+(;B[ra];W[rb])
+
+(;B[qa];W[rb])
+)
+
+)

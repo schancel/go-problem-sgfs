@@ -1,0 +1,63 @@
+(;GE[endgame]DI[4k]DP[29]SO[caleb]CO[9]AB[ea]AB[da]AB[db]AB[cb]AB[cc]AB[cd]AB[be]AB[cf]AB[cg]AB[dg]AB[fg]AB[gg]AB[hg]AB[gf]AB[fc]AW[fa]AW[fb]AW[eb]AW[ec]AW[dc]AW[dd]AW[de]AW[df]AW[ce]AW[ef]AW[fe]AW[ge]AW[hf]AW[ig]AW[hc]AW[kc]AW[mg]AW[ng]AW[of]AW[ne]AW[od]AW[pe]AW[pf]AW[pg]AW[nc]AW[nb]AW[na]AW[oa]AB[pa]AB[ob]AB[oc]AB[pc]AB[qc]AB[qb]AB[pd]AB[qe]AB[qf]AB[qg]AB[og]AB[di]AB[fh]AB[gi]AB[gj]AB[bk]AB[dk]AB[cl]AB[bm]AB[am]AB[an]AW[ao]AW[bo]AW[bn]AW[cn]AW[dn]AW[en]AW[fn]AW[fm]AW[fo]AW[go]AW[gp]AW[cm]AW[dl]AW[el]AB[ek]AB[fk]AB[fl]AB[hj]AB[ij]AB[hk]AW[gh]AW[hh]AW[hi]AW[ii]AW[jj]AW[kj]AW[ki]AW[lh]AW[lj]AW[mj]AW[mk]AW[nk]AB[oh]AB[nh]AB[ni]AB[mi]AB[nj]AB[oj]AB[pj]AB[ok]AB[ol]AB[om]AB[qh]AB[qi]AW[ph]AW[pi]AW[oi]AB[nl]AB[ml]AB[ll]AB[lk]AB[kk]AB[jk]AW[ik]AW[il]AW[hl]AW[gl]AW[jl]AW[im]AW[km]AW[lm]AW[mm]AW[nm]AW[mn]AW[mo]AW[lo]AW[on]AW[oo]AW[po]AW[op]AW[mp]AB[nn]AB[pn]AB[qn]AB[rn]AB[qo]AB[sm]AB[rl]AW[sn]AW[so]AW[ro]AW[rp]AW[qp]AW[pq]AW[pr]AB[oq]AB[or]AW[nq]AW[nr]AW[mr]AW[ns]AB[ms]AB[ls]AB[lr]AB[lq]AB[mq]AB[kq]AB[lp]AB[ko]AB[kn]AB[ln]AB[jp]AB[in]AB[hn]AB[gn]AB[gm]AB[ho]AB[hp]AB[hq]AB[gq]AB[fq]AB[fp]AB[ep]AB[gr]AW[fr]AW[eq]AW[es]AW[dr]AW[dq]AW[dp]C[White is ahead by about 15 points. Black to play and win.]AP[goproblems]
+(;B[if];W[he]
+(;B[jg]
+(;W[ih]
+(;B[kh];W[jf]
+(;B[li]C[Guess what: you got it!RIGHT])
+(;B[ji]C[RIGHT])
+(;B[jh];W[ie];B[li]C[RIGHT])
+(;B[kg];W[li]
+(;B[ji];W[ie])
+(;B[ie];W[ji]))
+(;B[lg];W[lf]
+(;B[ji]C[RIGHT])
+(;B[li]C[RIGHT])
+(;B[kg]
+(;W[kf])
+(;W[li];B[ji]C[RIGHT]))
+(;B[mh];W[kg])
+(;B[jh];W[ie]
+(;B[li]C[RIGHT])
+(;B[ji];W[kg])
+(;B[mh];W[kg])))
+(;B[ie];W[kg]C[Nothing left for black.]))
+(;B[jh];W[ji];B[kh];W[li];B[lg];W[mh];B[mf];W[nf]C[Nope. Sorry.]))
+(;W[jh];B[ih]))
+(;B[ji];W[jh];B[jg];W[ih])
+(;B[jh];W[ji]
+(;B[ih];W[jg])
+(;B[jg];W[ih]
+(;B[li];W[kh])
+(;B[kh];W[li];B[lg];W[mh];B[mf];W[nf]))
+(;B[kh];W[li];B[ih];W[jg]
+(;B[kg];W[jf];B[lg];W[mh];B[mf];W[nf])
+(;B[lg];W[kg]))
+(;B[jf];W[ih]
+(;B[kh];W[li])
+(;B[li];W[kh]))))
+(;B[gs]C[Come on, think big.])
+(;B[eg]C[Come on, think big.])
+(;B[eo]C[You're not even trying.])
+(;B[li];W[jh]C[Close, but no cigar.])
+(;B[he];W[if]C[Let's think about this one...])
+(;B[jh]C[];W[if]
+(;B[ji];W[ih]
+(;B[kh];W[li]
+(;B[lg];W[mh])
+(;B[mh];W[lg]))
+(;B[li];W[kh]))
+(;B[ih];W[ji];B[kh];W[li];B[lg];W[mh];B[mf];W[nf])
+(;B[kh];W[ih]
+(;B[li];W[ji];B[lg];W[mh];B[mf];W[nf])
+(;B[ji];W[li];B[lg];W[mh];B[mf];W[nf])))
+(;B[jn]C[Does this look like a 15-point move to you?])
+(;B[np];W[no]C[Nothing to be had in this part of the board; search elsewhere.])
+(;B[jm];W[jn]C[Congratulations, you gave away a stone. That's not going to win you the game, you know.])
+(;B[kl]C[That's really just a dame.])
+(;B[kh];W[if]
+(;B[li];W[ji]
+(;B[jh];W[ih])
+(;B[ih];W[jh]))
+(;B[jh];W[ji]
+(;B[li];W[ih])
+(;B[ih];W[li];B[lg];W[mh];B[mf];W[nf]))))

@@ -1,0 +1,47 @@
+(;GE[life and death]DI[3k]DP[24]SO[Piccolo]CO[0]AB[aq]AB[bp]AB[bn]AB[dn]AB[do]AB[fo]AB[go]AB[fm]AB[gq]AB[jq]AB[mq]AW[im]AW[kn]AW[mo]AW[bq]AW[cq]AW[dp]AW[ep]AW[dr]C[Black to kill.]AP[goproblems]
+(;B[br];W[fr]
+(;B[eq];W[gr]
+(;B[fq];W[hq]C[Please play j2 to cut off some useless (but interesting to kill) variations.]TR[ir]
+(;B[ir];W[hr]
+(;B[io]C[Yes ! You overcame all the traps, white has no room for two eyes now.RIGHT])
+(;B[ip];W[iq]C[Please defend at k2.]TR[jr];B[jr]C[RIGHT]))
+(;B[io]C[NOTTHIS];W[ir];B[jr];W[er];B[iq]C[White is dead here. But why playing complicated moves ?]))
+(;B[hq];W[fq];B[hr];W[gs];B[es];W[er];B[ds];W[cr];B[cs];W[fs];B[bs];W[ar]C[White is happy now :-)])
+(;B[hr];W[fq];B[hq])
+(;B[cr];W[cp];B[bo];W[fq];B[hq];W[ds];B[hr];W[gs]C[Alive.])
+(;B[cp];W[fq];B[cr];W[dq];B[hq];W[ds];B[hr];W[gs]C[Alive.]))
+(;B[fq];W[eq];B[cr];W[cp];B[bo];W[gr]C[Easy life for white =/])
+(;B[gr];W[eq]
+(;B[cr];W[cp]
+(;B[es];W[bo];B[ao];W[ap]C[Difficult ko for white, but, ko. You can kill unconditionnally, please navigate :-)])
+(;B[bo];W[es]C[]))
+(;B[es];W[fs];B[cr];W[cp]
+(;B[ds];W[bo];B[ao];W[ap]C[Difficult ko for white, but, ko. You can kill unconditionnally, please navigate :-)])
+(;B[bo];W[ds]C[]))
+(;B[cp];W[cr]C[])
+(;B[cs];W[ds];B[cp];W[cr];B[fs];W[es];B[fq];W[gs]C[]))
+(;B[cr];W[cp];B[bo];W[eq]
+(;B[gr])
+(;B[fq])
+(;B[es];W[ds]C[]))
+(;B[cp]
+(;W[cr]C[];B[eq];W[fq];B[gr];W[bs];B[ar];W[cs];B[es];W[fs];B[er];W[fp]C[Seki.])
+(;W[gr]
+(;B[eq])
+(;B[cr];W[dq]
+(;B[fq];W[hq];B[hp];W[iq];B[ip];W[jr]C[White will live =/])
+(;B[hr];W[fq];B[hq];W[gs]C[]))))
+(;B[es];W[eq];B[cr];W[cp];B[bo]))
+(;B[eq];W[ar]
+(;B[br];W[ap]
+(;B[bo];W[bs]C[])
+(;B[bs];W[bo]C[]))
+(;B[bs];W[cs];B[br];W[er];B[fr];W[es]C[];B[as];W[cr];B[ar];W[ap]C[]))
+(;B[fr];W[ar]
+(;B[br];W[ap]
+(;B[bs];W[bo]C[])
+(;B[bo];W[bs]C[]))
+(;B[bs];W[cs];B[br];W[er];B[eq]))
+(;B[ar]
+(;W[br])
+(;W[fr];B[eq];W[fq];B[gr];W[br]C[])))

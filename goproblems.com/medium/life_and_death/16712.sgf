@@ -1,0 +1,39 @@
+(;GE[life and death]DI[2k]DP[22]SO[magrock]CO[0]AB[sq]AB[rq]AB[qq]AB[pq]AB[oq]AB[qp]AB[lq]AB[mp]AB[mo]AB[nn]AB[nm]AB[nl]AB[ol]AB[pk]AB[qk]AB[rk]AB[rl]AW[sm]AW[rm]AW[ql]AW[pl]AW[om]AW[on]AW[no]AW[rp]AW[ro]AW[qo]AW[pp]C[there are many correct paths , try to discover the one that kills faster]AP[goproblems]
+(;B[pn];W[oo]
+(;B[po]C[sharp shooter! white is deadRIGHT])
+(;B[pm];W[qm];B[op];W[po];B[sp];W[so])
+(;B[qm];W[pm])
+(;B[qn]
+(;W[rn]
+(;B[sp];W[so];B[po];W[op];B[np];W[pm];B[qm]C[RIGHT])
+(;B[po];W[op];B[np];W[pm];B[qm]C[RIGHT]))
+(;W[po];B[sp];W[so];B[qm];W[pm];B[rn];W[sn];B[qn]C[RIGHT])
+(;W[op]
+(;B[sp];W[so];B[po];W[rn];B[pm];W[qm])
+(;B[po];W[qm];B[rn];W[sn];B[sp];W[pm])
+(;B[qm];W[pm];B[rn]
+(;W[sn];B[sp];W[so];B[np];W[po];B[qn]C[RIGHT])
+(;W[po];B[sp];W[sn];B[qn]C[RIGHT]))
+(;B[rn];W[qm];B[sp];W[so];B[np];W[po]C[only seki])
+(;B[pm];W[qm];B[np];W[po])
+(;B[so]
+(;W[po];B[sp]C[RIGHT])
+(;W[sp];B[po];W[rn];B[np];W[pm];B[qm]C[RIGHT])))
+(;W[sp];B[po];W[op];B[np]C[RIGHT])))
+(;B[oo];W[pn];B[qm];W[pm];B[qn];W[rn])
+(;B[pm];W[qm];B[pn];W[oo])
+(;B[po];W[pn];B[qm];W[pm];B[qn];W[oo];B[sp];W[op])
+(;B[qn];W[pn]
+(;B[qm];W[pm]
+(;B[po];W[oo])
+(;B[sp];W[op];B[oo];W[rn];B[np];W[so]))
+(;B[rn];W[qm];B[so];W[sn]))
+(;B[op];W[po];B[oo];W[pm]
+(;B[sp];W[so];B[qn];W[rn])
+(;B[qn];W[sp]))
+(;B[qm];W[pm];B[qn]
+(;W[pn];B[sp];W[op];B[np];W[rn];B[oo];W[so])
+(;W[rn]))
+(;B[sp];W[qn]
+(;B[so];W[sn])
+(;B[pn];W[pm];B[oo];W[po])))

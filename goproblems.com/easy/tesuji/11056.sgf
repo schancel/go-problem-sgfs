@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[7k]DP[40]SO[sabetts]CO[0]SZ[19]AW[qn]AW[no]AW[po]AW[np]AW[qp]AW[rp]AW[nq]AW[rq]AW[or]AB[mp]AB[pp]AB[kq]AB[mq]AB[pq]AB[qq]AB[pr]AB[rr]C[Save the black stones!]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ps]
+(;W[sr]C[CHOICE];B[nr];W[mr];B[ns]C[RIGHT])
+(;W[mr]C[CHOICE];B[sr]C[RIGHT]))
+(;B[sr];W[ps];B[qs];W[os]C[false eye])
+(;B[os];W[ns];B[ps];W[sr])
+(;B[qs];W[sr])
+(;B[oq];W[nr];B[sr];W[qs]
+(;B[rs];W[ps])
+(;B[ps];W[rs]))
+(;B[rs];W[sr])
+(;B[nr];W[mr];B[ps];W[sr];B[ns]C[RIGHT]))

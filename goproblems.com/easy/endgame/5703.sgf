@@ -1,0 +1,11 @@
+(;GE[endgame]DI[8k]DP[49]SO[berni]CO[7]AB[oj]AB[pj]AB[qj]AB[ri]AB[rh]AB[rg]AB[qf]AB[pf]AB[pg]AB[og]AB[oh]AB[nh]AB[mg]AB[lg]AB[lf]AB[lh]AB[kh]AB[jh]AW[qg]AW[qh]AW[ph]AW[ng]AW[nf]AW[of]AW[mf]AW[le]AW[kf]AW[kg]AW[jg]AW[ih]AW[ii]AW[ji]AW[ki]AW[kj]AW[pe]AW[qe]AW[rf]AW[sg]AW[se]AW[me]AW[nj]AW[mj]AB[nk]AB[mk]AW[lk]AB[ol]AW[if]AW[od]AW[kl]C[Find the best endgame sequence for white.]AP[goproblems]
+(;W[mh];B[mi]
+(;W[li];B[mh];W[oi]C[Yeah. Got it.RIGHT])
+(;W[oi];B[ni]
+(;W[li]C[];B[lj]C[Almost correct. White can capture six stones, but black captured two.])
+(;W[lj];B[pi];W[li]C[Yeah. Got it.RIGHT]))
+(;W[ni];B[oi]C[All the black stones are connected.]))
+(;W[oi];B[mh]C[Black saves all his stones.])
+(;W[li];B[mh];W[oi]C[];B[pi]C[Black wins the semeai.])
+(;W[mi];B[mh]C[Black wins the semeai.])
+(;W[ni];B[oi]C[All black stones are connected.]))

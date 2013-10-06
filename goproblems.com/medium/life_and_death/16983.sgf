@@ -1,0 +1,69 @@
+(;GE[life and death]DI[1k]DP[20]SO[py687]CO[0]SZ[9]AB[ig]AB[hg]AB[if]AB[gf]AB[ge]AB[gd]AB[fd]AB[fc]AB[gb]AB[ga]AB[ha]AB[ia]AW[hh]AW[hi]AW[ih]AW[gh]AW[gg]AW[ff]AW[fe]AW[ef]AW[eh]AW[fh]AW[dh]AW[df]AB[gi]AW[cf]AB[cg]AB[ci]AB[ch]AB[af]AB[ah]AB[bg]AB[bf]AB[bd]AW[be]AB[ad]AW[ed]AW[cd]AW[dc]AW[fb]AW[fa]AW[eb]AW[ec]AB[cc]AB[bb]AB[db]AB[da]AB[ca]AW[hc]AW[ac]AW[di]AW[eg]AW[ce]AW[bi]C[White has 6.5 komi and neither player has prisoners. Resign at A5 if the game cannot be won.]AP[goproblems]
+(;B[ae]C[Right. The two weaknesses at G7 and J5 can't be handled satisfactorily.RIGHT])
+(;B[gc];W[ie]
+(;B[hf];W[hd]
+(;B[he];W[id]
+(;B[hb];W[ib])
+(;B[ib];W[ic])
+(;B[ic];W[ib]))
+(;B[id];W[he]
+(;B[hb];W[ib])
+(;B[ic];W[ib])
+(;B[ib];W[ic]))
+(;B[ic];W[id]
+(;B[he])
+(;B[ib];W[he])
+(;B[hb];W[ib]C[Black has no ko threats.]))
+(;B[hb];W[ic]
+(;B[ib];W[he])
+(;B[he];W[id]))
+(;B[ib];W[ic]
+(;B[hb];W[he])
+(;B[he];W[hb])))
+(;B[he];W[hf])
+(;B[id];W[hf])
+(;B[hd])
+(;B[ic])
+(;B[ib];W[hf])
+(;B[hb];W[hf]))
+(;B[hb];W[gc])
+(;B[hf];W[gc])
+(;B[he];W[gc])
+(;B[ie];W[gc])
+(;B[id];W[gc])
+(;B[ib];W[gc])
+(;B[hd];W[ie]
+(;B[hf];W[id]
+(;B[he];W[gc])
+(;B[ic];W[ib]
+(;B[hb];W[gc])
+(;B[he];W[gc])
+(;B[gc];W[ic]C[Seki is not good enough.]))
+(;B[ib];W[gc])
+(;B[hb];W[ic]
+(;B[gc]C[Seki is not good enough.])
+(;B[he];W[gc])
+(;B[ib];W[gc]))
+(;B[gc];W[ic]C[Seki is not good enough.]))
+(;B[he];W[hf])
+(;B[id];W[hf])
+(;B[ic];W[hf])
+(;B[gc];W[hf])
+(;B[hb];W[hf])
+(;B[ib];W[hf]))
+(;B[ic];W[ie]
+(;B[hf];W[id]
+(;B[hd])
+(;B[he];W[hd]
+(;B[gc])
+(;B[hb];W[gc])
+(;B[ib];W[gc]))
+(;B[ib];W[gc])
+(;B[hb];W[hd])
+(;B[gc];W[hd]))
+(;B[he];W[hf])
+(;B[id];W[hf])
+(;B[hd])
+(;B[gc];W[hf])
+(;B[ib];W[hf])
+(;B[hb];W[hf])))

@@ -1,0 +1,107 @@
+(;GE[tesuji]DI[6k]DP[36]SO[dimitre]CO[0]AB[iq]AB[jq]AB[kr]AB[lr]AB[mr]AB[lq]AB[mo]AB[mn]AB[nn]AB[oo]AB[pp]AB[mp]AW[kq]AW[jp]AW[ko]AW[lo]AW[lp]AW[no]AW[np]AW[nq]AW[mq]AW[nr]AW[qn]AW[qq]TR[mq]TR[nq]TR[np]TR[no]TR[nr]C[Black to capture the marked stones.]AP[goproblems]
+(;B[pq]
+(;W[pr]C[CHOICE]
+(;B[qr]
+(;W[rr]C[CHOICE]
+(;B[or]
+(;W[qs]C[CHOICE]
+(;B[os]C[This works. And White cannot start a ko at P1.RIGHT])
+(;B[ns]C[];W[os]C[White can start an unfavorable ko, black can do better.]))
+(;W[ps]C[CHOICE]
+(;B[os]C[RIGHT])
+(;B[ns]C[RIGHT])
+(;B[oq];W[os])
+(;B[ms];W[ns]
+(;B[oq];W[os])
+(;B[op];W[os]))))
+(;B[qs];W[rs];B[or];W[ps];B[os];W[oq]C[White escapes.]))
+(;W[qs]C[CHOICE]
+(;B[rr];W[rq];B[rs]
+(;W[os]C[CHOICE];B[ps];W[or];B[qp];W[qs];B[rp]C[Black not only kills the marked stones, but gets the corner as well.RIGHT])
+(;W[sr]C[CHOICE];B[ps];W[or];B[qp];W[os];B[rp];W[qs];B[sq]C[Right.RIGHT]))
+(;B[or];W[rr])))
+(;B[or];W[os];B[qr];W[oq]
+(;B[rq];W[qp];B[qo];W[rp];B[ro]C[Black not only kills the marked stones, but gets the corner as well.RIGHT])
+(;B[qp]C[])
+(;B[rr];W[po]
+(;B[op]
+(;W[qp];B[on];W[rq]
+(;B[ms];W[ns]
+(;B[ps];W[qs];B[rs];W[sr]C[Just ko])
+(;B[rs];W[sr])
+(;B[sr];W[rs]))
+(;B[qs];W[sr])
+(;B[sr];W[rs]
+(;B[ms];W[ns];B[qs];W[sq]C[Seki])
+(;B[qs];W[sq];B[ms];W[ns]C[Seki]))
+(;B[ps];W[qs];B[ms];W[ns];B[rs];W[sr]C[Just ko])))
+(;B[qp];W[on];B[op]C[RIGHT]))))
+(;W[ps]C[CHOICE]
+(;B[os]
+(;W[pr]C[CHOICE];B[or];W[oq];B[qr];W[ns];B[rq];W[qp];B[qo];W[rp];B[ro]C[Black not only kills the marked stones, but gets the corner as well.RIGHT])
+(;W[or]C[CHOICE];B[pr]
+(;W[qs]C[CHOICE];B[qr]C[RightRIGHT])
+(;W[ns]C[CHOICE]
+(;B[qs];W[qr];B[os]C[Ko for White to escape.])
+(;B[qr]C[Black gets the corner as well.RIGHT]))))
+(;B[or];W[os]
+(;B[qr];W[pr]
+(;B[oq];W[rr];B[ns];W[ms];B[ls]C[];W[ns]C[White escapes.])
+(;B[rq]C[Black gets the corner as well.RIGHT])
+(;B[qs];W[oq];B[rq]C[RIGHT]))
+(;B[pr];W[qr]C[White connects.]))
+(;B[qs];W[qr]C[No good.])
+(;B[pr]C[RightRIGHT])
+(;B[qr]C[RightRIGHT])))
+(;B[oq]
+(;W[or]C[White escapes.CHOICE])
+(;W[pr]C[CHOICE];B[or];W[os];B[op];W[ns];B[ms];W[ps];B[pq];W[qr]C[White escapes.]))
+(;B[or];W[oq]
+(;B[pq];W[pr]C[]
+(;B[qr]
+(;W[os]C[CHOICE]
+(;B[qp];W[rq];B[rr];W[rp];B[ro]
+(;W[qo]C[CHOICE]
+(;B[sp]C[Black not only kills the marked stones, but gets the corner as well.RIGHT])
+(;B[sq]C[Black not only kills the marked stones, but gets the corner as well.RIGHT]))
+(;W[po]C[CHOICE]
+(;B[qo];W[pn]
+(;B[on]C[];W[rn];B[sp];W[qk]C[Bigger corner for Black and White makes some points on the side.RIGHT])
+(;B[op]
+(;W[on]C[CHOICE]
+(;B[sp]C[This is too conservative. S6 does more for Black.])
+(;B[sq]C[This is too conservative. S6 does more for Black.])
+(;B[rn]C[More favorable than playing T3 or T4.RIGHT]))
+(;W[rn]C[CHOICE]
+(;B[on];W[so]
+(;B[sp];W[sq];B[sr]C[Yes.RIGHT])
+(;B[sq]C[RIGHT]))
+(;B[so];W[on]C[]
+(;B[sp];W[sn];B[sq]C[Works, but gote.RIGHT])
+(;B[sq];W[sn];B[sp]C[Works, but gote.RIGHT]))
+(;B[sn];W[on];B[so];W[sm];B[sq];W[sp]C[Very, very wrong.])
+(;B[sp]
+(;W[on]
+(;B[sq]C[RIGHT])
+(;B[so])))
+(;B[sq];W[on]C[]
+(;B[so])
+(;B[sp]C[RIGHT])))))
+(;B[sp];W[on]
+(;B[qo];W[op]C[White escapes.])
+(;B[op];W[qo]C[Wrong.])
+(;B[sq];W[op]C[White escapes.]))
+(;B[sq];W[on]
+(;B[qo];W[op]C[White escapes.])
+(;B[sp];W[op]C[White escapes.])
+(;B[op];W[qo]C[Wrong.]))))
+(;B[rq];W[qp];B[qo];W[rp];B[ro]C[RIGHT]))
+(;W[ps]C[CHOICE]
+(;B[qs];W[os];B[rq];W[qp];B[qo];W[rp];B[ro]C[Black not only kills the marked stones, but gets the corner as well.RIGHT])
+(;B[rq]C[Black gets a corner as well.RIGHT])
+(;B[ns];W[os];B[op];W[ms];B[ls];W[rr];B[ns];W[qs];B[or];W[qp]C[It works.RIGHT])))
+(;B[rq];W[qp];B[qo];W[rr];B[rp];W[qr];B[ro];W[os]))
+(;B[pr]))
+(;B[pr];W[pq];B[oq];W[or];B[os];W[op];B[ns];W[oq]C[White escapes.])
+(;B[ns];W[pq]C[White escapes.])
+(;B[os];W[pq]C[White escapes.]))

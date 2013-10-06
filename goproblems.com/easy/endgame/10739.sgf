@@ -1,0 +1,12 @@
+(;GE[endgame]DI[8k]DP[48]SO[macho]CO[7]AB[pa]AB[qa]AB[qb]AB[qc]AB[pc]AB[oc]AB[od]AB[nd]AB[md]AB[ld]AB[le]AB[ke]AB[id]AB[je]AB[ie]AB[ic]AB[hc]AB[hb]AB[gb]AB[ga]AW[ha]AW[ia]AW[ib]AW[jc]AW[kb]AW[jd]AW[kd]AW[lc]AW[mc]AW[nc]AW[ob]AW[pb]AW[oa]AW[na]LB[qa:A]LB[oa:B]C[White just exchanged B for A.  Black's move.]AP[goproblems]
+(;B[ma];W[nb]
+(;B[ka]
+(;W[jb]C[CHOICE]
+(;B[lb]C[SekiRIGHT])
+(;B[la];W[lb])
+(;B[mb];W[lb]))
+(;W[la]C[CHOICE];B[lb];W[jb]C[SekiRIGHT]))
+(;B[lb];W[ka]))
+(;B[ka];W[la]
+(;B[ma];W[mb])
+(;B[jb];W[ja])))

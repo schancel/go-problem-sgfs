@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[6k]DP[37]SO[kuche12345]CO[0]AW[br]AW[cq]AW[bp]AW[dq]AB[cr]AB[dr]AB[er]AB[eq]AW[ep]AW[do]AW[fo]AW[fn]AB[fp]AB[gp]AB[go]AB[gq]AB[gr]AW[fq]AW[fr]AW[fs]AW[gs]AW[hr]AB[iq]C[Black to connect his stones]AP[goproblems]
+(;B[es];W[hs]
+(;B[ir];W[cs])
+(;B[hq];W[cs])
+(;B[is];W[cs]))
+(;B[hs];W[is];B[es];W[hs]
+(;B[ir];W[cs])
+(;B[hq];W[cs])
+(;B[jr];W[cs])
+(;B[js];W[cs]))
+(;B[ds];W[hs]C[white may approach the next move, no matter what black does])
+(;B[cs];W[bs])
+(;B[is]
+(;W[hs]
+(;B[ir];W[cs];B[hq]C[RIGHT])
+(;B[hq];W[ir];B[jr];W[js];B[es]C[RIGHT]))
+(;W[ir]
+(;B[es];W[hs];B[jr]C[RIGHT];W[js];B[hq])
+(;B[jr];W[cs];B[hq];W[ds])))
+(;B[ir];W[cs];B[hq];W[ds])
+(;B[hq];W[cs]))

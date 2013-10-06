@@ -1,0 +1,46 @@
+(;GE[life and death]DI[4k]DP[30]SO[santa c]CO[8]AB[cb]AB[db]AB[eb]AB[bc]AB[bd]AB[be]AW[bf]AW[cf]AW[bh]AW[ce]AW[cd]AW[cc]AW[dc]AW[ec]AW[fb]AW[fa]AW[gc]AW[bb]C[Black to live...]AP[goproblems]
+(;B[ab];W[ba]
+(;B[ca];W[ae]
+(;B[aa];W[ad]
+(;B[ea];W[af]
+(;B[ac]C[Well done! :)RIGHT])
+(;B[bb]C[Well done! :)RIGHT]))
+(;B[ac];W[ea];B[af];W[ae]C[:(])
+(;B[bb];W[ea]C[:(])
+(;B[af];W[ea];B[ac];W[ae]C[:(]))
+(;B[ad];W[ac]C[:(])
+(;B[ea];W[da]C[:(])
+(;B[ac];W[ea]C[:(]))
+(;B[ea]C[Black can't play at A... :(]LB[ca:A])
+(;B[ac];W[ae]C[:(]LB[ca:1]LB[ea:2])
+(;B[ae];W[ea]C[:(]))
+(;B[ba];W[ab]
+(;B[ac];W[ea]
+(;B[aa];W[da]
+(;B[ae];W[bb]
+(;B[ab];W[ca]C[:(])
+(;B[ca];W[ab]C[:(]))
+(;B[bb];W[ae]C[:(])
+(;B[ca];W[ae]C[:(]))
+(;B[da];W[ca]C[:(])
+(;B[ae];W[ca]
+(;B[aa];W[bb]
+(;B[ab];W[da]C[:(])
+(;B[da];W[ca]C[:(]))
+(;B[da];W[ca]C[:(]))
+(;B[ca];W[ae]C[:(]))
+(;B[ae];W[ac]C[:(])
+(;B[ca];W[ea]C[:(]TR[ae]TR[ac])
+(;B[ea];W[ca]C[:(]))
+(;B[ca];W[ab]
+(;B[ac];W[ae]C[:(])
+(;B[ae];W[ac]C[:(])
+(;B[ea];W[ba]C[:(])
+(;B[ba];W[ea]C[:(]))
+(;B[ac];W[ba]
+(;B[ae];W[ea]C[:(])
+(;B[ca]LB[ea:A]C[:(])
+(;B[ea]C[:(]LB[ca:A])
+(;B[ab];W[ae]C[:(]))
+(;B[ea];W[ca]C[:(])
+(;B[ae];W[ba]C[:(]))

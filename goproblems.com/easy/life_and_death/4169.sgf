@@ -1,0 +1,88 @@
+(;GE[life and death]DI[5k]DP[32]SO[Warp]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ao][bo][co][eo][dp][eq][br][er][es]AB[ap][bp][cp][dq][dr][bs][ds]C[Black to play and live without ko.]
+(;B[bq]CR[bq]
+;W[ar]CR[ar]
+(;B[cr]CR[cr]C[RIGHT
+Seki. (A pretty weird one, eh?)])
+(;B[cq]CR[cq]
+;W[as]CR[as]
+(;B[cr]CR[cr]
+;W[cs]CR[cs]C[Ko])
+(;B[cs]CR[cs]C[Dead (in gote, shame on you)]))
+(;B[cs]CR[cs]
+;W[as]TR[aq][cr]CR[as]C[Dead (black can't play at the marked points)])
+(;B[as]CR[as]
+;W[cr]CR[cr]C[Dead]))
+(;B[aq]CR[aq]
+;W[cq]CR[cq]
+(;B[ar]CR[ar]
+;W[cs]CR[cs]C[Dead (snapback)])
+(;B[bq]CR[bq]
+;W[ar]CR[ar])
+(;B[as]CR[as]
+;W[cs]CR[cs]C[Dead (snapback)])
+(;B[cr]CR[cr]
+;W[cs]CR[cs])
+(;B[cs]CR[cs]
+;W[ar]CR[ar]C[Dead]))
+(;B[ar]CR[ar]
+;W[cq]CR[cq]
+(;B[aq]CR[aq]
+;W[cs]CR[cs]C[Dead (snapback)])
+(;B[cs]CR[cs]
+;W[aq]CR[aq]C[Dead (snapback)])
+(;B[bq]CR[bq]
+;W[aq]CR[aq])
+(;B[cr]CR[cr]
+;W[cs]CR[cs])
+(;B[as]CR[as]C[Dead (in gote, shame on you)]))
+(;B[as]CR[as]
+;W[cq]CR[cq]
+(;B[ar]CR[ar]C[Dead (in gote, shame on you)])
+(;B[aq]CR[aq]
+;W[ar]CR[ar]C[Dead])
+(;B[bq]CR[bq]
+;W[aq]CR[aq])
+(;B[cr]CR[cr]
+;W[cs]CR[cs])
+(;B[cs]CR[cs]C[Dead (in gote, shame on you)]))
+(;B[cq]CR[cq]
+;W[ar]CR[ar]
+(;B[aq]CR[aq]
+;W[cr]TR[bq]CR[cr]C[Dead (white can atari at the marked point, making a dead shape)])
+(;B[bq]CR[bq]
+;W[as]CR[as]
+(;B[aq]CR[aq]
+;W[cs]CR[cs]C[Dead])
+(;B[cr]CR[cr]
+;W[cs]CR[cs]C[Ko])
+(;B[cs]CR[cs]C[Dead (in gote, shame on you)]))
+(;B[cr]CR[cr]
+;W[as]CR[as]C[Ko])
+(;B[cs]CR[cs]C[Dead (in gote, shame on you)])
+(;B[as]CR[as]
+;W[cr]CR[cr]C[Dead]))
+(;B[cr]CR[cr]
+;W[aq]CR[aq]
+(;B[bq]CR[bq]
+;W[cq]CR[cq])
+(;B[cq]CR[cq]
+;W[as]CR[as]C[Ko])
+(;B[ar]CR[ar]
+;W[as]CR[as]C[Ko])
+(;B[as]CR[as]
+;W[cq]CR[cq]C[Dead (snapback)])
+(;B[cs]CR[cs]
+;W[cq]CR[cq]C[Dead (snapback)]))
+(;B[cs]CR[cs]
+;W[cq]CR[cq]
+(;B[aq]CR[aq]
+;W[ar]CR[ar])
+(;B[bq]CR[bq]
+;W[aq]CR[aq])
+(;B[ar]CR[ar]
+;W[bq]CR[bq])
+(;B[as]CR[as]C[Dead (in gote, shame on you)])
+(;B[cr]CR[cr]
+;W[as]CR[as])))

@@ -1,0 +1,10 @@
+(;GE[elementary]DI[20k]DP[74]SO[Acorn]CO[0]AB[pd]AB[pc]AB[pe]AB[pf]AB[od]AB[nc]AB[mc]AB[md]AW[nb]AW[ob]AW[oc]AW[pb]AW[qc]AW[qd]AW[nd]AW[ne]AW[oe]AW[ph]AW[jd]AP[goproblems]
+(;B[mf];W[me];B[le];W[nf];B[ng]LB[mf:1]LB[me:2]LB[le:3]LB[nf:4]LB[ng:5]C[If Black plays 1, the three white stones in the center cannot escape. If White tries to escape with 2 and 4, Black blocks with 3 and 5, so there is no way to avoid capture.RIGHT])
+(;B[me];W[nf]C[White escapes.])
+(;B[nf];W[me]C[White escapes.])
+(;B[of]
+(;W[nf]C[White escapes.])
+(;W[me]C[White escapes.])
+(;W[mf]
+(;B[nf];W[me]C[White escapes])
+(;B[me];W[nf]C[White escapes.]))))

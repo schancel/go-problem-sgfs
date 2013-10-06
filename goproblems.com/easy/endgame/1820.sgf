@@ -1,0 +1,56 @@
+(;GE[endgame]DI[4k]DP[29]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[db][dc][ec][fc][dd][fd][gd][de][fe][bf][cf][ef]AB[ca][da][cb][eb][fb][gb][cc][gc][cd][be][ce][af]C[No komi, no prisoners - black to play and win!]
+(;B[bg]CR[bg]
+;W[cg]CR[cg]
+(;B[ae]CR[ae]
+;W[ag]CR[ag]
+(;B[df]CR[df]
+;W[dg]CR[dg]
+;B[bg]CR[bg]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[ag]CR[ag]
+;B[eg]CR[eg]
+;W[fg]CR[fg]
+;B[bg]CR[bg]C[Black connects the ko and wins by one point RIGHT])
+(;B[ag]CR[ag]
+;W[fa]CR[fa]
+;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[fa]CR[fa]
+;W[ea]CR[ea]C[E7 was a ko theat!]))
+(;B[dg]CR[dg]
+;W[df]CR[df]
+;B[bg]CR[bg]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[ag]CR[ag]C[Black has no more ko threats, so white will connect - jigo!
+])
+(;B[ag]CR[ag]
+;W[fa]CR[fa]
+;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[fa]CR[fa]
+;W[ea]CR[ea]C[e7 was a ko threat!]))
+(;B[eg]CR[eg]
+;W[df]CR[df]
+;B[bg]CR[bg]
+;W[ea]CR[ea]
+(;B[fa]CR[fa]
+;W[ag]CR[ag]C[Black is a ko threat  short, so white will connect and secure a jigo])
+(;B[ag]CR[ag]
+;W[fa]CR[fa]
+;B[ga]CR[ga]
+;W[ea]CR[ea]
+;B[fa]CR[fa]
+;W[ea]CR[ea]C[E7 was a ko threat....])))
+(;B[dg]CR[dg]
+;W[df]CR[df]
+;B[ae]CR[ae]
+;W[ag]CR[ag]C[white will connect next - jigo!]))
+(;B[ae]CR[ae]
+;W[bg]CR[bg]C[Connecting is secure but leads to a jigo])
+(;B[ag]CR[ag]
+;W[bg]CR[bg]
+;B[ae]CR[ae]C[This is only a jigo.]))

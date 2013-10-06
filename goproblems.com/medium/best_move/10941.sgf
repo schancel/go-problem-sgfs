@@ -1,0 +1,11 @@
+(;GE[best move]DI[2d]DP[14]SO[Field Mouse]CO[0]AW[ja]AW[jb]AW[jc]AB[ib]AB[hb]AB[fc]AB[gc]AB[ed]AB[dd]AB[cd]AB[ce]AW[ic]AW[hc]AW[hd]AW[gd]AW[fd]AB[kb]AB[lb]AB[mc]AB[nc]AB[od]AB[pd]AB[qd]AB[qe]AW[kc]AW[lc]AW[ld]AW[md]AW[nd]AW[ne]AW[oe]AW[pe]AW[fe]AW[ee]AW[de]LB[ma:A]C[Hello, I am your teammate. Lets cooperate. We will start on the right side and I will show you the best you can do there. Play the moves I show you; start at A please.FORCE]AP[goproblems];W[ma];B[mb]LB[ka:B]C[Good, black could not cut your stone - his own two were too weak! Play at B now. Note that playing at M19 is not very good idea.FORCE];W[ka];B[na]LB[la:C]C[Black could not play M19 as you would cut him at P17! Now you should protect your stone at C.FORCE];W[la];B[ob]C[Ok, the first part is over. Now its your turn - show me the second best solution please!Cou cannot BEGIN at G19 (as that is the best solution)]
+(;W[ec];B[eb];W[ga];B[gb]C[E17 and then this? What a trick!]
+(;W[ia];B[fa];W[ha];B[dc]C[You lost only one ko threat! Excellent - you did only little worse than in my solution! RIGHT])
+(;W[ha];B[fa];W[ia];B[dc]C[Excellent - you did only little worse than in my solution! You lost only one ko threat!RIGHT]))
+(;W[ga]C[NOTTHISRIGHT])
+(;W[gb];B[fb];W[ha];B[ga];W[ia];B[gb]C[You could do better!])
+(;W[ha];B[ga];W[ia];B[gb]C[You could do better.])
+(;W[ia];B[ga]C[Nice number of ko threats, but you could have destroyed more points.])
+(;W[fb];B[gb]
+(;W[ia];B[ec];W[ha];B[ga]C[Not very good.])
+(;W[ga];B[ec]C[This is painful :-(])))

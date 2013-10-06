@@ -1,0 +1,35 @@
+(;GE[life and death]DI[8k]DP[45]SO[knx]CO[7]AB[bb]AB[cc]AB[dc]AB[ec]AB[fd]AB[gd]AB[hd]AB[ic]AB[ib]AB[kb]AW[ga]AW[hb]AW[hc]AW[gc]AW[fc]AW[fb]AW[eb]AB[ea]AP[goproblems]
+(;W[db];B[da]
+(;W[cb];B[ca]
+(;W[ba]
+(;B[aa]
+(;W[fa]C[Very Good: Oiotoshi!]
+(;B[ba]C[Very Good: Oiotoshi!];W[bc];B[bd];W[ab]C[Black should not play this way.RIGHT])
+(;B[ac]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da]C[DoneRIGHT])
+(;B[bc]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da];B[ba]C[Very Good!CHOICERIGHT]))
+(;W[bc];B[bd]
+(;W[fa]C[Very Good: Oiotoshi!];B[ac]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da]C[WorksRIGHT])
+(;W[ac];B[ad]
+(;W[fa]C[Very Good: Oiotoshi!];B[ab]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da]C[GoodRIGHT])
+(;W[cd];B[ab]C[Does not work]))))
+(;B[bc];W[fa]C[DoneRIGHT]))
+(;W[bc];B[bd]
+(;W[ba]
+(;B[ac];W[fa]C[];B[aa]LB[mb:T]C[Play T if you want to Tenuki.]
+(;W[mb]C[Very Good! White is already alive and should Tenuki.RIGHT])
+(;W[ca]C[White was already alive so tenuki would have been the better answer.RIGHT]))
+(;B[aa]
+(;W[fa]C[Very Good: Oiotoshi!];B[ac]C[Very Good: Oiotoshi!];W[ba]C[];B[ca];W[da]C[DoneCHOICERIGHT])
+(;W[ac];B[ad]
+(;W[fa]C[Very Good: Oiotoshi!];B[ab]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da]C[GoodRIGHT])
+(;W[cd];B[ab]C[Does not work];W[fa];B[ba];W[bc];B[ac]))))
+(;W[ac];B[ad]
+(;W[fa];B[ba]
+(;W[aa];B[ab]C[Try again])
+(;W[ab];B[aa]C[No]))
+(;W[ba];B[aa];W[fa]C[Very Good: Oiotoshi!];B[ab]C[Very Good: Oiotoshi!];W[ba];B[ca];W[da]C[Thats it!RIGHT]))))
+(;W[ca];B[cb];W[fa];B[da];W[ea];B[ba]C[Just one eye]))
+(;W[da];B[db];W[fa];B[ca]C[Just one eye])
+(;W[ia];B[db];W[ka];B[jb];W[ja];B[mb]C[No, you cannot escape!])
+(;W[ha];B[db]C[Just one eye])
+(;W[fa];B[db];W[da];B[ca]C[Just one eye]))

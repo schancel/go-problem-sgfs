@@ -1,0 +1,39 @@
+(;GE[life and death]DI[5k]DP[32]SO[BartTM]CO[9]AB[bb]AB[bc]AB[bd]AB[ce]AB[cf]AB[dg]AB[eg]AB[fg]AB[gd]AB[gc]AB[gb]AB[fc]AB[ec]AB[ga]AW[cb]AW[dc]AW[eb]AW[fb]AW[dd]AW[de]AW[df]AW[ef]AW[ed]AW[fe]AB[ge]AB[ff]AW[fd]AP[goproblems]
+(;W[fa];B[da]
+(;W[ca];B[db]
+(;W[ea];B[db]
+(;W[cc];B[da]
+(;W[eb]C[RIGHT])
+(;W[ea];B[eb])
+(;W[fa];B[eb])
+(;W[fb];B[eb])
+(;W[cd];B[ba])
+(;W[ba];B[eb]))
+(;W[da];B[cc])
+(;W[ba];B[cc])
+(;W[cd];B[cc]))
+(;W[cc];B[ea])
+(;W[cd];B[ea])
+(;W[ba];B[ea]))
+(;W[ea];B[ca])
+(;W[db];B[ca])
+(;W[cc];B[ca])
+(;W[cd];B[ca]))
+(;W[da];B[fa]
+(;W[cc];B[ea])
+(;W[ea];B[cc])
+(;W[ca]C[Dead as it stands as White needs both marked points to live.]MA[ea]MA[cc])
+(;W[cd]C[Dead as it stands as White needs both marked points to live.]MA[cc]MA[ea])
+(;W[ba]C[Dead as it stands as White needs both marked points to live.]MA[cc]MA[ea]))
+(;W[ea];B[ca])
+(;W[db];B[fa])
+(;W[ca];B[ea])
+(;W[cc];B[fa]
+(;W[ea];B[ca])
+(;W[da];B[ea])
+(;W[ca];B[ea]))
+(;W[cd];B[fa]
+(;W[ea];B[ca])
+(;W[da];B[ea])
+(;W[ca];B[ea])
+(;W[cc];B[ea])))

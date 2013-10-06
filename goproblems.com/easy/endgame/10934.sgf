@@ -1,0 +1,174 @@
+(;GE[endgame]DI[4k]DP[31]SO[Karen B]CO[0]AW[bc]AB[bd]AW[cc]AB[cd]AB[cf]AW[dd]AW[de]AB[dg]AB[di]AW[ec]AW[ef]AW[eg]AB[eh]C[White to make the best endgame play.]AP[goproblems]
+
+   (;W[af];B[bf]
+
+      (;W[ag];B[ad]C[White can do better.])
+      (;W[ae];B[ad]C[White can do better.])
+      (;W[bg];B[ad]C[White can do better.])
+      (;W[ce];B[be]C[White can do better.])
+      (;W[be];B[ce]C[White can do better.])
+      (;W[ac];B[ad]C[White can do better.])
+      (;W[ad]
+
+         (;B[ag]C[CHOICE]
+
+            (;W[ac];B[ae]C[White can do better.])
+            (;W[be];B[ce]C[White can do better.])
+            (;W[ce];B[be]C[White can do better.])
+            (;W[ae]
+
+               (;B[cg]C[CHOICE]C[RIGHT Correct. This is best for White.])
+               (;B[be]C[CHOICE];W[ac];B[bg]C[RIGHT Correct. This is best for White.])
+            )
+         )
+
+         (;B[be]C[CHOICE]
+
+            (;W[ag];B[ae]C[White can do better.])
+            (;W[ac];B[ae]C[White can do better.])
+            (;W[bg];B[ae]C[White can do better.])
+            (;W[ae];B[ag];W[ac];B[cg]C[RIGHT Correct. This is best for White.])
+         )
+      )
+   )
+
+   (;W[ad]
+
+      (;B[bf]C[CHOICE]
+
+         (;W[ae];B[af]C[White can do better.])
+         (;W[be];B[ce]C[White can do better.])
+         (;W[ce];B[be]C[White can do better.])
+         (;W[af]
+
+            (;B[ag]C[CHOICE]
+
+               (;W[ac];B[ae]C[White can do better.])
+               (;W[be];B[ce]C[White can do better.])
+               (;W[ce];B[be]C[White can do better.])
+               (;W[ae]
+
+                  (;B[cg]C[CHOICE]C[RIGHT Correct. This is best for White.])
+                  (;B[be]C[CHOICE];W[ac];B[cg]C[RIGHT Correct. This is best for White.])
+               )
+            )
+
+            (;B[be]C[CHOICE]
+
+               (;W[ag];B[ae]C[White can do better.])
+               (;W[ac];B[ae]C[White can do better.])
+               (;W[bg];B[ae]C[White can do better.])
+               (;W[ae];B[ag];W[ac];B[cg]C[RIGHT Correct. This is best for White.])
+            )
+         )
+      )
+
+      (;B[be]C[CHOICE]
+
+         (;W[ae];B[af]C[White can do better.])
+         (;W[ce];B[af]C[White can do better.])
+         (;W[bf];B[bg]
+
+            (;W[ae];B[af]C[White can do better.])
+            (;W[ce];B[af]C[White can do better.])
+            (;W[af];B[ag]C[White can do better.])
+            (;W[ac];B[ae]C[White can do better.])
+         )
+
+         (;W[af]
+
+            (;B[bf]C[CHOICE]
+
+               (;W[ag];B[ae]C[White can do better.])
+
+               (;W[bg];B[ae]C[White can do better.])
+               (;W[ce];B[ae]C[White can do better.])
+               (;W[df];B[ae]LB[ac:A]LB[ag:B]LB[cg:1]C[The White atari at '1' runs into the double ko at 'A' and 'B,' which favors 
+
+Black.])
+               (;W[ae];B[ag];W[ac];B[cg]C[RIGHT Correct. This is best for White.])
+            )
+
+            (;B[bg]C[CHOICE]
+
+               (;W[ae];B[ag]C[RIGHT Correct. This is best for White.])
+               (;W[ag];B[ae]C[White can do better.])
+               (;W[bf];B[ag]C[White can do better.])
+               (;W[ce];B[ag]C[White can do better.])
+               (;W[ac];B[ae]C[White can do better.])
+            )
+         )       
+      )
+   )
+
+   (;W[ce];B[be]
+
+      (;W[ac];B[ae]C[White can do better.])
+      (;W[ad];B[af]C[White can do better.])
+      (;W[ae];B[af]C[White can do better.])
+      (;W[af];B[bf]C[White can do better.])
+      (;W[bg];B[bf]C[White can do better.])
+      (;W[bf];B[bg]C[White can do better.])
+      (;W[df];B[cg]C[White can do better.])
+   )
+
+   (;W[ae]
+
+      (;B[bf]C[CHOICE]
+
+         (;W[ad];B[af]C[White can do better.])
+         (;W[be];B[ce]C[White can do better.])
+         (;W[ce];B[be]C[White can do better.])
+         (;W[af];B[ad]C[White can do better.])
+      )
+
+      (;B[be]C[CHOICE]
+
+         (;W[ad];B[af]C[White can do better.])
+         (;W[af];B[ad]C[White can do better.])
+         (;W[ce];B[af]C[White can do better.])
+         (;W[bf];B[bg]C[White can do better.])
+      )
+   )
+
+   (;W[ac];B[bf]C[White can do better.])
+
+   (;W[be];B[ce];W[ad];B[bf]
+
+      (;W[ae];B[af]C[White can do better.])
+      (;W[af];B[ag]C[White can do better.])
+   )
+
+   (;W[bf];B[ce]C[White can do better.])
+
+   (;W[cg];B[bf]
+
+      (;W[df];B[dh]
+
+         (;W[bh];B[bi]C[White can do better.])
+         (;W[bg];B[bh]C[White can do better.])
+         (;W[ch];B[bi]C[White can do better.])
+         (;W[ce];B[be]C[White can do better.])
+
+      )
+
+      (;W[ce];B[be]
+
+         (;W[df];B[dh]C[White can do better.])
+         (;W[ch];B[dh]
+
+            (;W[bi];B[df]C[This goes beyond the scope of the problem.])
+            (;W[df];B[bi]C[White can do better.])
+            (;W[bg];B[bi]C[White can do better.])
+
+         )
+
+      )
+
+   )
+
+   (;W[df];B[cg]C[White can do better.])
+
+   (;W[ch];B[cg]C[White can do better.])
+
+)

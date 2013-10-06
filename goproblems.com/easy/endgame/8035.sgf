@@ -1,0 +1,28 @@
+(;GE[endgame]DI[8k]DP[48]SO[aditsu]CO[6]AB[jd]AB[kc]AB[kb]AB[ka]AB[lc]AB[mb]AB[nb]AB[nc]AB[hd]AB[hc]AB[hb]AB[gb]AB[fb]AW[eb]AW[fa]AW[fc]AW[gc]AW[gd]AW[ge]AW[fe]AW[he]AW[ie]AW[je]AW[ke]AW[kd]AW[jc]AW[ld]AW[md]AW[mc]AW[lb]AW[la]AW[nd]AW[od]AW[oc]AW[ob]AW[dc]AW[ea]AP[goproblems]
+(;B[id];W[ib]
+(;B[ia];W[ja]
+(;B[ma];W[ha];B[jb];W[ga]C[Oops, snapback])
+(;B[jb];W[ja]C[Oops]))
+(;B[jb];W[ja]C[Can't do that])
+(;B[ja];W[ia]
+(;B[ic];W[jb])
+(;B[ma];W[ha];B[jb];W[ga]C[Oops, snapback]))
+(;B[ic];W[jb];B[ma];W[ha])
+(;B[ha];W[ia]
+(;B[ma];W[ic])
+(;B[jb];W[ja]C[Oops]))
+(;B[ga];W[ia];B[ma];W[ha]C[Dead])
+(;B[ma];W[ha];B[jb];W[ga]C[Oops, snapback]))
+(;B[ic];W[jb];B[ma];W[id]C[Not much room for a second eye])
+(;B[jb];W[id]C[Ok to tenuki now?]LB[me:yes]LB[ne:no]
+(;B[me];W[ib]
+(;B[ma];W[ic]C[Oops, maybe not])
+(;B[ia];W[ja])
+(;B[ic];W[ja]))
+(;B[ne]C[Correct, black needs another move around J18 and is safe; white got a nice little sente reduction.RIGHT])
+(;B[ic]C[NOTTHIS])
+(;B[ib]C[NOTTHIS])
+(;B[ia]C[NOTTHIS]))
+(;B[ia];W[jb]
+(;B[ma];W[id]C[Dead])
+(;B[ja];W[id]C[Dead])))

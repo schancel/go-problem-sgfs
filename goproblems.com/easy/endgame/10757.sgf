@@ -1,0 +1,27 @@
+(;GE[endgame]DI[12k]DP[58]SO[jawnaw2000]CO[6]AB[pa]AB[pb]AB[oc]AB[pd]AB[qd]AB[pe]AB[pf]AB[pg]AB[qg]AB[rg]AB[rh]AB[sh]AW[qa]AW[qb]AW[qc]AW[pc]AW[rd]AB[nb]AW[qe]AW[qf]AW[rf]AW[sf]AW[sg]C[Get the most of it...]AP[goproblems]
+(;B[se]
+(;W[sb]
+(;B[re];W[sd]C[Well done! =)RIGHT])
+(;B[rc];W[sc]C[RIGHT])
+(;B[rb];W[rc];B[re]C[Capture became gote...])
+(;B[ra];W[rc];B[re];W[sd]C[RIGHT])
+(;B[sd];W[rc];B[re];W[ra]C[RIGHT])
+(;B[sc];W[rc];B[re]C[Capture became gote...]))
+(;W[sd]C[Bad for White because...];B[sb];W[rb];B[re];W[sa];B[ra]C[White now needs to winthe ko to live!])
+(;W[sc]C[Bad for White because...];B[re];W[rb];B[sd];W[sa];B[rc]C[White now needs to winthe ko to live!])
+(;W[rb]C[Bad for White because...];B[re];W[sc])
+(;W[re]C[Bad for White because...];B[rc];W[sd];B[sc])
+(;W[rc];B[re];W[sb]C[Also possilbe - Miai for two eyes - If Black takes one of these, White takes the other and is alive!RIGHT]MA[sd]MA[ra]))
+(;B[sd];W[sc]C[White is alive - Notice that there's no seki after B1...]LB[sb:1]LB[se:2])
+(;B[rc];W[rb]
+(;B[se];W[sc];B[re];W[sd]C[Well done! =)RIGHT])
+(;B[sc];W[sd];B[se];W[sb];B[re]C[Capture became gote...])
+(;B[sd];W[sc]))
+(;B[sc];W[rc];B[sb]
+(;W[sd];B[se];W[re];B[ra]C[Gote Seki... Capturing the 5 white stones in sente, would've been better...])
+(;W[rb];B[se];W[re];B[ra];W[sa]))
+(;B[rb];W[rc]C[Surely White has no shortage of space for eye-making?])
+(;B[sb];W[rc]C[Surely White has no shortage of space for eye-making?])
+(;B[ra];W[sc]
+(;B[se];W[re];B[sb];W[rc]C[Gote Seki... Capturing the 5 white stones in sente, would've been better...])
+(;B[sb];W[rc];B[se];W[re]C[Gote Seki... Capturing the 5 white stones in sente, would've been better...])))

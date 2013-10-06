@@ -1,0 +1,10 @@
+(;GE[endgame]DI[7k]DP[43]SO[thanush]CO[0]AB[pa]AB[ob]AB[oc]AB[pd]AB[qd]AB[qc]AB[nd]AW[nc]AW[na]AW[nb]AW[oa]AW[md]AW[lc]AW[me]AW[nf]AW[pf]AW[re]AW[qe]C[Best way for to defend the corner]AP[goproblems]
+(;B[rb];W[pb];B[qa];W[sc]
+(;B[sb]C[RIGHT])
+(;B[rc];W[sd];B[sb]C[RIGHT])
+(;B[rd];W[sd];B[sb]C[RIGHT]))
+(;B[qb];W[sb];B[rb];W[sc];B[ra]C[3 point loss])
+(;B[qa];W[sb];B[rb];W[sc];B[pb])
+(;B[rd];W[pb]
+(;B[qa];W[qb])
+(;B[qb];W[qa];B[ra];W[rb])))

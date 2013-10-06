@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[7k]DP[40]SO[omnigo]CO[0]AB[dp]AB[dq]AW[ep]AW[eo]AB[fo]AB[fp]AW[fq]AW[gq]AW[hp]AB[hn]AB[io]AB[jo]AW[ko]AW[kn]AW[jp]AW[ip]AB[gp]AB[hq]AB[hr]AW[eq]AW[dr]AB[do]AB[dm]AB[em]AB[fm]AB[cm]AW[gr]AB[gs]AB[cr]AB[cq]AW[er]AW[fs]AB[hs]AB[ds]AB[kp]AW[kq]AB[lp]AW[lq]AW[jq]AW[lr]AW[jr]AW[ks]AW[es]AB[cs]AW[js]AB[mq]AB[mr]AB[ms]AB[mp]AB[mn]AB[mo]AB[lm]AB[ll]AB[jl]AB[il]AB[hk]AB[gk]C[white to make a life]AP[goproblems]
+(;W[ho]
+(;B[fn];W[in];B[jn];W[jm]C[the right white group livesRIGHT])
+(;B[in];W[fn];B[go];W[gn]C[the whole white group livesRIGHT]))
+(;W[in];B[jn];W[jm];B[ho]
+(;W[hm];B[im];W[fn];B[go];W[gn];B[km];W[en];B[gm])
+(;W[im];B[hm]))
+(;W[fn];B[go]
+(;W[gn];B[ho];W[hm];B[im])
+(;W[ho]C[RIGHT]
+(;B[gn];W[in];B[jn];W[jm]C[RIGHT])
+(;B[in];W[gn]C[RIGHT])))
+(;W[ir];B[en]
+(;W[iq];B[fr])
+(;W[is];B[fr]))
+(;W[iq];B[en]
+(;W[ir];B[fr])
+(;W[is];B[fr]))
+(;W[is];B[en]
+(;W[ir];B[fr])
+(;W[iq];B[fr])))

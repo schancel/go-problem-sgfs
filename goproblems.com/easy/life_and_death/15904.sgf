@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[54]SO[jender1989]CO[0]AW[bs]AW[cr]AW[dr]AW[bq]AW[bp]AB[bo]AB[cn]AB[cp]AB[cq]AB[eq]AB[fp]AB[er]AB[es]C[Black to kill]AP[goproblems]
+(;B[ar];W[ds]
+(;B[ap]C[RIGHT])
+(;B[aq];W[ap])
+(;B[br]C[RIGHT]))
+(;B[ds];W[ar]
+(;B[cs];W[ap])
+(;B[ap];W[cs]
+(;B[aq];W[ao])
+(;B[ao];W[aq])))
+(;B[ap];W[ar];B[ds];W[cs]
+(;B[aq];W[ao])
+(;B[ao];W[aq]))
+(;B[dq];W[ar])
+(;B[aq];W[ar])
+(;B[br];W[ar]LB[ds:A]LB[ap:B]C[Now even if black plays A or B, white can play tenuki and live.]))

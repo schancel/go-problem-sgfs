@@ -1,0 +1,61 @@
+(;GE[life and death]DI[4k]DP[30]SO[ldan]CO[8]AB[jj]AB[ih]AB[ii]AB[jh]AB[kh]AB[lh]AB[mi]AB[mj]AB[mk]AB[ml]AB[ll]AB[kl]AB[km]AB[jm]AB[im]AW[ij]AW[il]AW[jl]AW[hk]AW[hi]AW[hh]AW[ig]AW[hf]AW[jf]AW[lg]AW[mg]AW[mh]AW[ni]AW[nj]AW[nl]AW[nk]AW[lm]AW[mm]AW[nm]AW[kn]AW[hm]AW[hn]C[There are two black responses, the second is the stronger.]AW[jn]AP[goproblems]
+(;W[kj]C[There are two black responses, the second is the stronger.]
+(;B[jk]C[Variation 1CHOICE]
+(;W[kk];B[ki]
+(;W[ik];B[ji]
+(;W[lj]C[Correct.  Only one eye for black possible here.RIGHT])
+(;W[li];B[lj]C[So close...])
+(;W[lk];B[lj]C[So close...]))
+(;W[lk];B[lj])
+(;W[lj];B[li])
+(;W[li];B[lj]))
+(;W[lk];B[lj])
+(;W[lj];B[ki])
+(;W[li];B[lj]TR[ki]TR[kk])
+(;W[ki];B[kk]
+(;W[ji];B[lj])
+(;W[li];B[lj])
+(;W[lj]C[];B[li]C[Seki!])
+(;W[lk];B[lj]))
+(;W[ji];B[ki]))
+(;B[kk]C[Variation 2: Imagine black has only one good ko threat and you have none.CHOICE]
+(;W[jk];B[ki]
+(;W[ji]C[RIGHT];B[me]C[Solved    ....                     Black has used his ko threat, please answer at A. (this part is optional)]LB[ne:A];W[ne];B[jj];W[lj];B[li];W[ji]C[Solved, black has no more ko threatsRIGHT])
+(;W[lk];B[lj])
+(;W[li];B[lj])
+(;W[lj];B[li];W[ji];B[me]C[Black has used his ko threat, please answer at A.]LB[ne:A];W[ne];B[jj]C[You have no more threats.]))
+(;W[ji];B[ki])
+(;W[ki];B[lj])
+(;W[li];B[lj])
+(;W[lj];B[jk]
+(;W[ji];B[ki])
+(;W[lk];B[ki])
+(;W[li];B[ki])
+(;W[ki];B[li]C[Seki]))))
+(;W[jk];B[kj]
+(;W[kk];B[lk]C[Black can tenuki])
+(;W[lk];B[kk]C[Black can tenuki])
+(;W[lj];B[kk]C[Black can tenuki])
+(;W[li];B[kk]C[Black can tenuki])
+(;W[ki];B[kk]C[Black can tenuki])
+(;W[ji];B[kk]C[Black can tenuki]))
+(;W[kk];B[kj]
+(;W[jk];B[lk]C[Black can tenuki])
+(;W[lk];B[lj]TR[jk]TR[ki])
+(;W[ki];B[jk]))
+(;W[lk];B[kk]
+(;W[jk];B[lj])
+(;W[lj];B[kj])
+(;W[ji];B[kj])
+(;W[ki];B[kj])
+(;W[kj];B[lj]))
+(;W[lj];B[kj]
+(;W[lk];B[kk])
+(;W[kk];B[lk]TR[jk]TR[li])
+(;W[li];B[jk]TR[ki]TR[lk])
+(;W[ki];B[li])
+(;W[jk];B[kk]TR[ki]TR[li]))
+(;W[li];B[ki])
+(;W[ki];B[kj];W[kk];B[lk]TR[jk]TR[li])
+(;W[ji];B[ki])
+(;W[ik];B[jk]))

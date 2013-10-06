@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[4k]DP[28]SO[guff]CO[8]AB[pp]AB[po]AB[qn]AB[qq]AB[oq]AB[or]AW[pq]AW[pr]AW[qr]AW[op]AW[np]AW[mq]AW[kq]AP[goproblems]
+(;B[rr];W[rq]
+(;B[qp];W[rs];B[sr];W[sq];B[ps];W[ss];B[rr];W[sr];B[os]C[Very good! The 'tombstone squeeze'.RIGHT])
+(;B[qs];W[qp];B[ps];W[qq];B[qo];W[sr];B[rs];W[ro];B[rn];W[nr]C[White wins this capturing race.])
+(;B[ps];W[qp];B[qs];W[qq];B[qo];W[sr];B[rs];W[ro]
+(;B[rn];W[nr]C[White wins this capturing race.])
+(;B[sp];W[so];B[os];W[nr];B[ss];W[rp];B[sq];W[sr];B[sq];W[nq]C[White wins this capturing race.])
+(;B[os];W[sp]
+(;B[rn];W[nr];B[sn];W[nq];B[so];W[ns])
+(;B[sn];W[rn];B[rm];W[nr];B[sm];W[nq];B[so]C[White can tenuki now and still catch black.])
+(;B[ss];W[sq]
+(;B[rn];W[nr];B[sn];W[nq]C[Nope.])
+(;B[sn];W[rn];B[rm];W[nr];B[sm];W[nq]C[White wins this race.])))))
+(;B[rq];W[rr]
+(;B[ps];W[sq];B[sp];W[sr];B[rs];W[rp];B[qp];W[so]
+(;B[qs];W[nr];B[ro];W[nq]C[Nope.])
+(;B[ro];W[nr];B[sp];W[nq]C[Nope.]))
+(;B[sr];W[nr]C[Nope.])
+(;B[os];W[sr]
+(;B[sq];W[nr]C[Nope.])
+(;B[ps];W[nr]
+(;B[qs];W[nq];B[rs];W[ns])
+(;B[rs];W[nq];B[qs];W[ns])
+(;B[sq];W[nq]
+(;B[rs];W[ns])
+(;B[qs];W[ns]))))))

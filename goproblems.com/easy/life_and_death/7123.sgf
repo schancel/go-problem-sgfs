@@ -1,0 +1,41 @@
+(;GE[life and death]DI[6k]DP[36]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][bb][fb][ac][bc][cc][dc][ec]AB[ea][ab][gb][fc][gc][ad][bd][cd][dd][ed]C[Black to play]
+(;B[db]CR[db]
+;W[eb]CR[eb]
+(;B[fa]CR[fa]
+;W[da]CR[da]
+(;B[ca]CR[ca]TR[cb]C[RIGHT White can't approach due to shortage of liberties.])
+(;B[ga]CR[ga]
+;W[cb]CR[cb])
+(;B[cb]CR[cb]
+;W[ga]CR[ga]))
+(;B[da]CR[da]
+;W[fa]CR[fa])
+(;B[ca]CR[ca]
+;W[fa]CR[fa]))
+(;B[eb]CR[eb]
+;W[db]CR[db]
+(;B[da]CR[da]
+;W[ca]CR[ca])
+(;B[fa]CR[fa]TR[ab][cb]C[Two eyes]))
+(;B[fa]CR[fa]
+;W[db]CR[db]
+;B[da]CR[da]
+;W[ca]CR[ca])
+(;B[da]CR[da]
+;W[db]CR[db]
+(;B[fa]CR[fa]
+;W[ca]CR[ca])
+(;B[ca]CR[ca]
+;W[fa]CR[fa])
+(;B[eb]CR[eb]
+;W[ca]CR[ca]))
+(;B[ca]CR[ca]
+;W[db]CR[db]
+(;B[da]CR[da]
+;W[fa]CR[fa])
+(;B[fa]CR[fa]
+;W[da]CR[da])
+(;B[eb]CR[eb]
+;W[da]CR[da])))

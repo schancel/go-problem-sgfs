@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[10]SO[stevertigo]CO[9]AW[ia]AW[ja]AW[ka]AW[db]AW[eb]AW[hb]AW[cc]AW[ec]AW[fc]AW[hc]AW[ic]AW[ad]AW[ed]AW[gd]AW[ee]AW[ge]AB[aa]AB[ba]AB[ca]AB[da]AB[ea]AB[fa]AB[ga]AB[ha]AB[ab]AB[bb]AB[cb]AB[fb]AB[gb]AB[ib]AB[jb]AB[mb]AB[ac]AB[dc]AB[gc]AB[kc]AB[lc]AB[cd]AB[dd]AB[fd]AB[hd]AB[fe]AB[ie]AB[je]AB[cf]AB[ff]AB[bg]AB[dg]AB[gg]AB[ig]C[Black to play, lots of ways to screw up...]GN[A problem from IgoHatsuyoron (Black to play)]DT[2001-08-05]PC[http://senseis.xmp.net/?Nakade]
+(;B[bc]PL[W];W[bd]
+(;B[be];W[cc]C[Hmm...]
+(;B[cb];W[bc]C[]
+(;B[bb]
+(;W[fa]LB[hi:T]C[Is it time to play elsewhere yet ?  T (for tenuki).  CHOICE]
+(;B[da]C[];W[gb];B[ha]C[RIGHT])
+(;B[gb];W[da];B[gc]C[RIGHT])
+(;B[hi];W[da]C[White has two eyes.])
+(;B[ha];W[da];B[gb];W[gc]C[Alive and kicking.])
+(;B[ga];W[gb]C[Wrong. White lives.]))
+(;W[jc]C[Please see variations...CHOICE];B[kb];W[ha]LB[hi:T]C[Can black play tenuki now? If yes, click on 'T'.]
+(;B[fa]C[Unnecessary.])
+(;B[hi];W[fa]
+(;B[da];W[gb]TR[ga]TR[fb])
+(;B[gb];W[da];B[gc]C[RIGHT])))
+(;W[da];B[fa]C[Reduces to one eye.RIGHT]))
+(;B[gc];W[bb]C[Naaah.])
+(;B[gb];W[bb]C[D'oh!])
+(;B[ha];W[bb]C[No.])
+(;B[ga];W[bb]C[D'oh! Wrong.])
+(;B[fa];W[bb]C[White's living la vida loca.])
+(;B[da];W[bb];B[ca];W[ba]C[bad dog.]))
+(;B[la];W[cb]C[Naah.])
+(;B[bc];W[cb]
+(;B[bb];W[fa]C[White lives easily.])
+(;B[ac];W[gb]C[White lives easily.])))
+(;B[cc];W[ce]
+(;B[de];W[df]C[No way you're gonna get that dead.])
+(;B[be];W[de]C[White is alive and kicking.])
+(;B[la];W[de];B[cc];W[cb]
+(;B[bb]C[What in the hell are you doing?    CHOICE])
+(;B[bc];W[bb];B[ac];W[ab]C[What in the heck are you doing?    CHOICE])))
+(;B[ef];W[cc];B[cb];W[bc]
+(;B[gb];W[ce])
+(;B[be];W[bb])
+(;B[bb];W[ce]))
+(;B[ce];W[cc]
+(;B[bc];W[cb])
+(;B[cb];W[bc];B[bb];W[ab]))
+(;B[de];W[cc]
+(;B[bc];W[cb])
+(;B[cb];W[bc];B[bb];W[ab])))
+(;B[de];W[bc])
+(;B[bd];W[bc]
+(;B[cb];W[bb])
+(;B[bb];W[cb])
+(;B[ga];W[bb]C[White has no problems getting two eyes.]))
+(;B[kb];W[bc])
+(;B[be];W[bc])
+(;B[la];W[bc])
+(;B[ce];W[bc])
+(;B[ef];W[bc]))

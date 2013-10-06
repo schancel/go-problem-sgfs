@@ -1,0 +1,107 @@
+(;GE[life and death]DI[4k]DP[29]SO[Hans]CO[8]
+AW[pb][nc][pc][od][qd][rd][of][oh][qh][rh]AB[qc][rc][pd][pe][qf][rf]
+C[Black to play and live.
+]
+(;B[ra];W[rb];B[qb];W[sb]
+(;B[sc];W[sd];B[sa];W[pa]
+(;B[qe];W[qa]
+(;B[se];W[rb];B[re]C[RIGHT
+])
+
+(;B[re];W[rb];B[se]C[RIGHT
+])
+)
+
+(;B[re];W[qa]
+(;B[qe];W[rb];B[se]C[RIGHT
+])
+
+(;B[se];W[rb];B[qe]C[RIGHT
+])
+)
+
+(;B[se];W[qa]
+(;B[qe];W[rb];B[re]C[RIGHT
+])
+
+(;B[re];W[rb];B[qe]C[RIGHT
+])
+)
+)
+
+(;B[sd];W[se])
+)
+
+(;B[sd];W[rb]
+(;B[re];W[qb]
+(;B[qe];W[sf]C[Black has one eye.
+])
+
+(;B[sc];W[sf]C[Black has one eye.
+])
+)
+
+(;B[sc];W[qb];B[re];W[sf]C[Black has one eye.
+])
+)
+
+(;B[sc];W[qb]
+(;B[sd];W[rb];B[re];W[sf]C[Black has one eye.
+])
+
+(;B[re];W[rb];B[sd];W[sf]C[Black has one eye.
+])
+)
+
+(;B[rb];W[ra];B[qa];W[qb];B[sa];W[sd]
+(;B[se];W[pa];B[re];W[ra]LB[qe:A]
+C[This is only ko (black has to make an approach move at A). Black can do better.
+If black simply plays A white captures and black has only one eye. 
+])
+
+(;B[sc];W[pa]LB[qe:A][re:B]
+C[A multistep ko. Black needs two approach moves at A and B.
+])
+)
+
+(;B[qb];W[sb]LB[sb:A]
+C[Black looses the capturing race in the corner. Wbite A is a standard tesuji.
+])
+
+(;B[re];W[rb]
+(;B[sd];W[qb]
+(;B[qe];W[sf]C[Only one eye.
+])
+
+(;B[sc];W[sf]C[Only one eye.
+])
+)
+
+(;B[qe];W[qb]
+(;B[sd];W[sf]C[Only one eye.
+])
+
+(;B[sc];W[sb];B[sd];W[sf]C[Only one eye.
+])
+)
+)
+
+(;B[qe];W[rb];B[sd];W[qb]
+(;B[re];W[sf]C[Only one eye.
+])
+
+(;B[sc];W[sb];B[re];W[sf]C[Only one eye.
+])
+)
+
+(;B[qa];W[rb]
+(;B[qb];W[sc])
+
+(;B[sc];W[qb])
+
+(;B[sd];W[qb])
+)
+
+(;B[sb];W[qb];B[rb];W[sd];B[ra];W[qa];B[se];W[sc])
+
+)

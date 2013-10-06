@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5k]DP[34]SO[polo]CO[9]AB[cs][bs][br][cq][cp][do][cn][fo][go][hp][iq][ir][fs][fr][fq][eq]AW[ds][dr][cr][er][dq][dp][ep][fp][gq][gr]SZ[19]
+
+(;B[gs];W[hs]
+(;B[hr];W[es]
+(;B[fq];W[gs];B[fr]C[RIGHT Well done !])
+(;B[is];W[gs]C[White is alive])
+(;B[fs];W[gs]C[White is alive])
+(;B[fr];W[fq]C[White is alive])
+(;B[gs]
+(;W[fs]C[CHOICE];B[fq]C[RIGHT Well Done !])
+(;W[fq]C[CHOICE];B[fs];W[fr];B[gs]C[RIGHT Well Done !!])))
+(;B[gp];W[es]
+(;B[fq];W[hr]C[White is alive])
+(;B[fr];W[hr]C[White is alive])
+(;B[is];W[hr]C[White is alive]))
+(;B[is];W[hr]
+(;B[hq];W[es]C[White is alive])
+(;B[gp];W[es]C[White is alive])))
+(;B[hs];W[gs]C[White is alive])
+(;B[gp];W[gs]C[White is alive])
+(;B[es];W[gs]C[White is alive])
+(;B[hr];W[gs]C[White is alive]))

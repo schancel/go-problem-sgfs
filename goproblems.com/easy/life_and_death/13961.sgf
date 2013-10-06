@@ -1,0 +1,35 @@
+(;GE[life and death]DI[8k]DP[49]SO[Hanami]CO[0]AB[qp]AB[rp]AW[sp]AB[sq]AB[rr]AW[so]AW[ro]AW[qo]AB[pq]AB[op]AW[nn]AW[lo]AW[lq]AW[pn]AW[ln]C[White played the marked stone and black tenukied, was he right?]AW[or]AW[nq]TR[or]AW[qm]AP[goproblems]
+(;W[pr];B[qr]
+(;W[qs];B[rs]
+(;W[qq];B[rq])
+(;W[sr];B[ss])
+(;W[rq];B[qq])
+(;W[ps];B[qq]C[Black is alive]))
+(;W[qq];B[rq])
+(;W[rq];B[qq]C[Nope, two eyes are assured now for black]))
+(;W[qr]
+(;B[pr]
+(;W[ps];B[rs]
+(;W[qs];B[qq];W[os]C[RIGHT])
+(;W[sr];B[qq]
+(;W[rq]C[Ko, black needs to have 2 (or 3?) more threats than white but  still it is possible to do better])
+(;W[qs];B[os]C[In the end it will still be a Ko over the marked stone, there is a better solution]TR[sq]))
+(;W[qq];B[qs]C[Nope, he lives]))
+(;W[qs];B[ps])
+(;W[rs];B[ps]))
+(;B[rs];W[qq];B[pr]
+(;W[ps];B[qs])
+(;W[qs];B[ps])))
+(;W[qs];B[ps]
+(;W[qr];B[pr]
+(;W[rs];B[ss];W[sr];B[rq]
+(;W[po];B[qq]C[Black will capture at T1 and live])
+(;W[ss];B[qq]C[This black shape is alive])
+(;W[qq];B[ss]))
+(;W[qq];B[rs]C[And black lives]))
+(;W[pr];B[qr]
+(;W[rs];B[ss];W[qs];B[rs];W[qq];B[pp])
+(;W[os];B[rs]C[Nope, black lives with an eye in R3 or S3 and one in T1 or T2])))
+(;W[qq];B[qr]C[Nope, black will have 1 eye at S3 and one at R1 or S1])
+(;W[ps];B[qr];W[rs];B[qs];W[rq];B[qq];W[ss];B[sr])
+(;W[rs];B[qr];W[qs];B[ps];W[pr]))

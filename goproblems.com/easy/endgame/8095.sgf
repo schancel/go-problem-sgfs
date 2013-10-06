@@ -1,0 +1,39 @@
+(;GE[endgame]DI[4k]DP[30]SO[jono]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[NZ]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[oa][nb][pb][rb][mc][nc][qc][rc][sc][ld][md][rd][li][mi][nj][oj][pj][mk][qk][rk][sk]AB[ob][oc][pc][nd][pd][qd][sd][le][me][ne][re][lh][mh][nh][qh][ni][oi][pi][qj][rj][sj]TR[sc]C[How should black respond to the marked stone?]
+(;B[se]CR[se]
+;W[qe]CR[qe]
+(;B[rf]CR[rf]
+;W[rg]CR[rg]
+(;B[qf]CR[qf]
+;W[pe]CR[pe]
+;B[od]CR[od]
+;W[pf]CR[pf]
+(;B[qg]CR[qg]C[RIGHT
+White's going nowhere.])
+(;B[pg]CR[pg]
+;W[qg]CR[qg]))
+(;B[pe]CR[pe]
+;W[qf]CR[qf])
+(;B[qg]CR[qg]
+;W[qf]CR[qf])
+(;B[sg]CR[sg]
+;W[qf]CR[qf]))
+(;B[qf]CR[qf]
+;W[pe]CR[pe]
+;B[od]CR[od]
+;W[rf]CR[rf])
+(;B[pe]CR[pe]
+;W[qf]CR[qf]
+;B[rf]CR[rf]
+;W[rg]CR[rg]))
+(;B[rf]CR[rf]
+;W[se]CR[se]
+;B[sf]CR[sf]C[Black can do better])
+(;B[qe]CR[qe]
+;W[se]CR[se]
+;B[sf]CR[sf]
+;W[sd]CR[sd]
+;B[rf]CR[rf]C[Black can do better.])
+(;B[sf]CR[sf]
+;W[se]CR[se]C[Black can do better than ko.]))

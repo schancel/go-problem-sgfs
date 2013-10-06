@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[4d]DP[7]SO[gecko]CO[6]SZ[19]AB[cb]AB[eb]AB[ec]AB[hc]AB[fd]AB[fe]AB[ee]AB[df]AW[fc]AW[fb]AW[hb]AW[ed]AW[dd]AW[de]AW[cd]AW[cc]FF[4]GM[1]AP[Jago:Version 4.34]GN[temp]
+(;B[ea]
+(;W[ic]
+(;B[bb]C[RIGHT];W[cf];B[dg];W[cg];B[dh]C[ the corner is alive as it stands, so black has a good positionRIGHT])
+(;B[hd]
+(;W[bb];B[gb]TR[ea]C[ White is captured because of the marked stone.RIGHT]LB[gc:a]LB[gd:b]LB[ga:c]LB[fa:d])
+(;W[jb];B[bb]C[RIGHT];W[cf];B[dg];W[cg];B[dh]C[ the corner is alive as it stands, so black has a good positionRIGHT])))
+(;W[bb];B[gb]TR[ea]C[ White is captured because of the marked stone.RIGHT]LB[gc:a]LB[gd:b]LB[ga:c]LB[fa:d]))
+(;B[db];W[ic];B[bc];W[bd];B[ac];W[cf];B[dg];W[cg]LB[ba:a]LB[bb:b]LB[aa:c]C[White a kills the corner, so black is in trouble.])
+(;B[db];W[ic];B[bc];W[bd];B[ac];W[cf];B[dg];W[cg]LB[ba:a]LB[bb:b]LB[aa:c]C[White a kills the corner, so black is in trouble.])
+(;B[ib];W[ic]
+(;B[gb];W[gc])
+(;B[gc];W[gb];B[jb];W[db])
+(;B[hd];W[gb]
+(;B[db];W[jc];B[bc];W[bd];B[ac];W[cf];B[dg];W[cg]LB[ba:a]LB[bb:b]LB[aa:c]C[White a kills the corner])
+(;B[jb];W[db])
+(;B[ea];W[bb];B[jb];W[db]))))

@@ -1,0 +1,74 @@
+(;GE[best move]DI[3k]DP[24]SO[DaMaMa]CO[7]SZ[9]
+AB[cd][db][dc][de][ef][eg][fd][gd][gh][hh][ea]
+AW[dd][eb][ec][ed][ee][fe][ff][gf][hc][hf][hg]
+LB[ea:A]
+C[Black has played the hane at A. What is White's strongest response? White can win by more than two points.]
+
+(;W[ce]
+   (;B[df] C[CHOICE]
+      (;W[cc];B[bd]
+         (;W[bc];B[be]
+            (;W[cf];B[cg]
+               (;W[ad];B[bf] 
+                 C[RIGHT White takes the upper corner comfortably and keeps sente.]
+                ;W[fg];B[fh]C[RIGHT]
+               )
+               (;W[bf];B[bg];W[ad];B[af] 
+                 C[RIGHT White takes the upper corner comfortably and keeps sente.]
+                ;W[fg];B[fh]C[RIGHT]
+               )
+            )
+            (;W[cb];B[ac] 
+              C[Oh no! White looses sente and half the corner.]
+            )
+         )
+         (;W[cb] LB[bc:A] C[Wrong direction - A would have been bigger.]
+         )
+         (;W[be];B[bc];W[cb];B[bb];W[da];B[cf]
+           LB[cc:3][bd:4][be:5][ce:1][df:2]
+           C[No, white is being too greedy when playing W5 after W1, B2, W3, and B4. This is enough for white to win on the 9x9 board, but you should have seen a better move.]
+         )
+      )
+      (;W[bd];B[cc];W[bc];B[be];W[cf];B[bf];W[cg];B[bb];W[bg];B[ad];W[af];B[ac]
+         (;W[eh];B[fg];W[fh];B[gg];W[dh]
+           C[RIGHT Though Black lives in the upper left corner, white takes the entire lower edge.]
+         )
+         (;W[dh];B[eh]
+           C[No! White will barely have a chance to kill the lower group.]
+         )
+      )
+   )
+   (;B[bd] C[CHOICE]
+      (;W[df];B[be] 
+        C[RIGHT Black is cut in two and barely lives with either group.]
+       ;W[bf] C[RIGHT]
+      )
+      (;W[be];B[df];W[cc];B[bc];W[cb];B[bb];W[da];B[cf]
+        LB[be:A]
+        C[No, white is being too greedy when palying A. Black can minimize her loss. This is enough for white to win on the 9x9 board, but you should have seen a better move.]
+      )
+      (;W[cc];B[df] LB[de:A]
+        C[Ok, I know this ends in a variation which I called 'solved' elsewhere. But here: why didn't you seize the opportunity to cut black to pieces by capturing A?]
+      )
+   )
+   (;B[fb] C[no choice] ;W[fc];B[gb];W[gc];B[hb];W[fa];B[ga];W[ib] LB[ea:A]
+     C[As you can see, black's hane at A does not even threaten to make an eye in the corner.]
+   )
+)
+(;W[cc];B[bc]
+   (;W[ce] C[RIGHT White either kills the upper left corner or cuts black in two.]
+   )
+   (;W[cb];B[bb];W[da];B[ce]
+     C[To cut was the right idea, but black can minimize the loss. On a 9x9 board this might be just about enough for white, but on a bigger board black could exploit her thickness. You should have seen a better move.]
+   )
+)
+(;W[fa];B[ce] 
+  C[No. Black wins comfortably]
+   (;W[da];B[cb];W[ca];B[ba];W[ea];B[bb];W[fg];B[fh];W[ih];B[hi]
+     C[No. Black wins comfortably]
+   )
+   (;W[cc];B[cb];W[bc];B[bb];W[bd];B[be];W[ab];B[ad];W[da];B[ih];W[fg];B[fh]
+     C[No. Black wins comfortably]
+   )
+)
+)

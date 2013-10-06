@@ -1,0 +1,94 @@
+(;GE[life and death]DI[6d]DP[0]SO[paddlefoot]CO[0]AB[cp]AB[bc]AB[cb]AB[db]AB[dc]AB[dd]AB[ec]AB[fb]AB[ea]AW[fc]AW[gc]AW[gb]AW[ga]AW[fd]AW[ge]AW[ee]AW[de]AW[ce]AW[cd]AW[cc]AW[cj]AW[fh]AW[gh]AW[hh]AW[hi]AB[ff]AB[gi]AB[hj]AW[ij]AW[ik]AB[im]AB[hn]AB[jn]AB[hp]AB[ip]AB[iq]AB[jq]AW[jr]AW[kr]AW[kq]AW[lq]AW[mq]AB[kp]AB[lp]AB[lo]AB[ln]AB[kn]AB[mo]AB[no]AW[mp]AW[np]AW[op]AW[oo]AW[nn]AW[mn]AW[mm]AB[nm]AB[om]AB[on]AW[nl]AB[pn]AB[po]AB[pp]AB[qp]AB[qo]AW[pq]AW[qq]AW[rq]AW[rp]AW[ro]AW[qn]AW[qm]AW[pm]AW[pl]AB[oq]AB[nq]AB[mr]AB[lr]AB[or]AB[ns]AW[kj]AW[kk]AB[ii]AB[ih]AB[ig]AB[hg]AW[jg]AW[jf]AW[kf]AB[kg]AB[kh]AB[ki]AB[lg]AB[lf]AB[mg]AB[mh]AB[ng]AB[nf]AB[ne]AB[oe]AB[og]AB[pf]AW[li]AW[lh]AW[mi]AW[nh]AW[oh]AW[ph]AW[pg]AW[qf]AW[qe]AW[pe]AW[qd]AW[pd]AW[od]AW[oc]AW[nd]AW[md]AW[me]AW[le]AW[ld]AW[lc]AW[kc]AW[kb]AB[lb]AB[ma]AB[mc]AB[nc]AB[nb]AB[ob]AB[pb]AB[qc]AB[rd]AB[re]AW[rf]AB[ke]AB[kd]AB[ie]AB[id]AB[hc]AB[hb]C[This is the position. white is trying to kill blacks dragon. Play the triangles to follow the game for a few movesFORCE]AB[lj]AB[jc]TR[je]AB[gm]AB[ia]AB[ho]AP[goproblems];W[je];B[jd]TR[jb]C[FORCE];W[jb];B[he]TR[ib]C[FORCE];W[ib];B[gf]TR[eg]C[FORCE];W[eg];B[fe]TR[gd]C[FORCE];W[gd];B[ed]TR[ha]C[FORCE];W[ha];B[gg]TR[if]C[FORCE];W[if];B[ef]C[FORCE]TR[dg];W[dg];B[df]C[No more triangles....don't let b get away];W[cf];B[cg]
+(;W[bg];B[ch]
+(;W[bh]C[D12 and D11 are also tricky]
+(;B[eh]
+(;W[dh];B[ei];W[fg];B[fi]
+(;W[ci];B[ml]C[can you save the lower side and hold the kill?]
+(;W[ol]
+(;B[ll]MA[mj]C[please do not play the square];W[hk];B[lk]MA[ni]C[please connect at the square];W[ni];B[gj]C[Please don't play here. This kikashi is not nescessary.]MA[kl];W[gk]C[]MA[kl]
+(;B[fk];W[fl];B[ek];W[el];B[dk];W[dl];B[ck];W[cl];B[bk]
+(;W[bl];B[gl]
+(;W[ej]C[white is ahead!RIGHT])
+(;W[dj]C[RIGHT])
+(;W[di]C[RIGHT])
+(;W[bj];B[kl]
+(;W[dj];B[jk];W[jj];B[il])
+(;W[di]C[RIGHT])
+(;W[ej]C[RIGHT]))
+(;W[kl]C[RIGHT]))
+(;W[gl];B[bl]C[This is sort of right. In fact w can play B8 instead of connecting and win the semeii. This way still leaves b room to make trouble.]))
+(;B[ek]
+(;W[el]
+(;B[fk];W[fl])
+(;B[dl];W[dk];B[dj];W[ck])
+(;B[fl];W[fk]))
+(;W[ej];B[fk]
+(;W[dj];B[fj];W[fl];B[el]C[this doe not look good])
+(;W[di];B[fj];W[fl];B[el];W[fm];B[em]C[w is in trouble here]))
+(;W[fk]
+(;B[dj]
+(;W[el];B[dl]
+(;W[fj];B[dk])
+(;W[fl];B[dm])
+(;W[ej]C[RIGHT])
+(;W[em];B[dm]
+(;W[ej]C[RIGHT])
+(;W[en];B[dn]
+(;W[fl];B[dk])
+(;W[eo];B[dk]))))
+(;W[dk];B[el])
+(;W[ej]C[RIGHT]))
+(;B[ej];W[el];B[dk];W[dl];B[ck];W[cl];B[bk]
+(;W[bl];B[fl]
+(;W[bj]C[RIGHT])
+(;W[ak]C[RIGHT])
+(;W[dj]C[RIGHT])
+(;W[di]C[RIGHT])
+(;W[fj]C[RIGHT]))
+(;W[fl];B[bl];W[cn];B[bm]C[So nearly correct. Actually b can continue to cause w a lot of issues from here because his dead group has so many liberties (and a ko). W could have made a cleaner kill.]))))
+(;B[dj];W[dk];B[ek];W[el];B[dl];W[ck];B[fl];W[fk];B[em];W[ej]C[RIGHT]))
+(;B[lk]
+(;W[ll]C[This was the game line. B resigned here. Well played!RIGHT])
+(;W[nj];B[kl];W[hk];B[gj];W[gk];B[fk];W[fl];B[ek];W[el];B[dk]
+(;W[cl];B[gl];W[dl];B[jk];W[jj];B[il];W[ej];B[ji])
+(;W[gl];B[dl]C[If w can get ahead in the capturing race he will still need to fight ko. There is a better way]))
+(;W[mj];B[kl];W[mk];B[ll];W[hk];B[gj];W[gk];B[fk];W[fl];B[ek];W[el];B[dk];W[gl];B[dl]C[This semeii is messy and b always has some sort of ko. There is a better way])
+(;W[ni];B[kl];W[hk];B[gj];W[gk];B[fk];W[fl];B[ek]
+(;W[gl];B[dl])
+(;W[el];B[dk];W[dl];B[gl];W[ck];B[jk];W[jj];B[il]))))
+(;W[lm];B[ll]
+(;W[ol]
+(;B[mj];W[ni];B[kl];W[km];B[jl])
+(;B[kl]))
+(;W[km]
+(;B[mj];W[ni];B[kl]
+(;W[ol];B[jl])))))
+(;W[di];B[ml]C[can you save the lower side as well?]
+(;W[ol];B[ll];W[hk];B[lk]MA[ni]C[please connect at the square];W[ni];B[gj];W[gk];B[dj];W[ci];B[fk];W[fl];B[ek]
+(;W[el];B[dl])
+(;W[gl];B[dm]))
+(;W[lm];B[mj];W[ni];B[ll]
+(;W[ol];B[kl])
+(;W[km];B[kl];W[jm];B[jl];W[hk];B[gj];W[gk]
+(;B[fk])
+(;B[dj];W[ci];B[fk];W[fl];B[ek];W[el];B[dl])))))
+(;W[fg];B[fi])
+(;W[fi]
+(;B[fg]))))
+(;W[bi];B[bh];W[ah];B[bf]))
+(;W[ch];B[bg]
+(;W[bh];B[bf])
+(;W[bf]
+(;B[dh]C[B tries this move]
+(;W[bh];B[eh];W[ag];B[fi])
+(;W[eh];B[bh];W[bi]C[CHOICE];B[ci];W[di];B[bd])
+(;W[di];B[bh];W[bi]C[CHOICE];B[ci]C[ko is a failure];W[eh];B[bd]C[CHOICE]))
+(;B[bh]
+(;W[ci];B[bd])
+(;W[bi];B[dh]
+(;W[ag];B[ci];W[ah]
+(;B[eh];W[ch]
+(;B[fi])))
+(;W[di];B[ci]C[non-local ko threats do not exist for ko fights this big]
+(;W[eh];B[bd])
+(;W[ag];B[eh])))))))

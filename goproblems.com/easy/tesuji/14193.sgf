@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[12k]DP[58]SO[N0n0sama]CO[0]AW[bm]AW[bn]AW[ce]AW[cg]AW[ci]AW[cj]AW[cl]AW[cn]AW[de]AW[dn]AW[do]AW[dp]AW[dq]AW[em]AW[en]AW[eq]AW[er]AW[fd]AW[fk]AW[fm]AW[fq]AW[gj]AW[gk]AW[gm]AW[hg]AW[hl]AW[hm]AW[hq]AW[ic]AW[ik]AW[ip]AW[jh]AW[jk]AW[kj]AW[li]AB[bl]AB[bo]AB[cd]AB[cm]AB[cp]AB[cq]AB[cr]AB[df]AB[di]AB[dk]AB[dm]AB[dr]AB[ec]AB[eg]AB[el]AB[eo]AB[ep]AB[fl]AB[fn]AB[fp]AB[gi]AB[gl]AB[go]AB[gq]AB[gr]AB[hi]AB[hj]AB[hk]AB[hn]AB[hp]AB[il]AB[im]AB[jc]AB[jd]AB[kk]TR[cm]TR[dm]TR[el]TR[fl]TR[gl]TR[bl]AB[kl]C[White to capture Black stones]AP[goproblems]
+(;W[ek]
+(;B[dl];W[dj];B[ck];W[bk]C[RIGHT]))
+(;W[dj]
+(;B[ej];W[dl];B[ek])
+(;B[ek];W[ej];B[fj]))
+(;W[dl];B[ek])
+(;W[ej]
+(;B[ek];W[fj];B[dj];W[ei];B[eh])
+(;B[dj];W[ei];B[dh];W[ek];B[dl]))
+(;W[fi]
+(;B[ek];W[fj];B[fh];W[dj];B[ej])
+(;B[ej]
+(;W[fh];B[fj])
+(;W[fj];B[fh]
+(;W[ek];B[ei])
+(;W[ei];B[eh];W[dl];B[ek])))))

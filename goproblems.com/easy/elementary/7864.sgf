@@ -1,0 +1,18 @@
+(;GE[elementary]DI[4k]DP[31]SO[lakeland]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+SZ[19]
+AW[aq][bq][cq][dq][dr][er][as][es]AB[ap][bp][cp][dp][eq][fq][ar][fr][fs]
+(;B[cs]CR[cs]
+;W[br]CR[br]
+(;B[bs]CR[bs]C[RIGHT])
+(;B[cr]CR[cr]
+;W[bs]CR[bs]))
+(;B[bs]CR[bs]
+;W[cs]CR[cs]C[You can do better than seki])
+(;B[br]CR[br]
+;W[cs]CR[cs]
+(;B[bs]CR[bs])
+(;B[cr]CR[cr]
+;W[bs]CR[bs]))
+(;B[cr]CR[cr]
+;W[br]CR[br]
+;B[cs]CR[cs]))

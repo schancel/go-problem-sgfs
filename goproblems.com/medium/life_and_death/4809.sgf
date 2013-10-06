@@ -1,0 +1,51 @@
+(;GE[life and death]DI[1k]DP[20]SO[transcend]CO[8]AW[sr]AW[rr]AB[qr]AW[qq]AW[oq]AW[or]AB[nq]AB[nr]AB[ns]AW[np]AW[mp]AB[op]AB[pp]AB[po]AB[rn]AB[rp]C[Black to cleanly take the corner.]AW[lr]AP[goproblems]
+(;B[ps]
+(;W[pq]
+(;B[rq]C[];W[pr]
+(;B[qs]C[The best move (White only has 1 real ko threat... S1 or P1).RIGHT])
+(;B[rs]C[Black wins, but white has a few ko threats and a multi-stage ko for life... not optimal.])
+(;B[os]C[Black does win from here, but this gives white 4 ko threats (R1, R2, N3, N2).])
+(;B[qp]C[White is dead from here and will leave it, but now has 4 ko threats (R1, R2, N3, N2).])
+(;B[ss]C[Black wins, but white has 4 ko threats now (R1, N3, R2, N2).])
+(;B[sq]C[Black wins, but white has 4 ko threats now (R1, N3, R2, N2).]))
+(;B[os];W[rq]C[The best black can do is seki if white doesn't want to fight a ko. Please continue at A.]LB[rs:A];B[rs]
+(;W[mq]LB[qp:A]C[Note that if white played at the marked square (with a triangle) that it would lead to ko.]TR[pr];B[qp];W[mr]LB[sp:A];B[sp];W[ms]LB[sq:A];B[sq]C[Seki.])
+(;W[pr]TR[mq]C[If white played at the triangle, it would have led to seki.]LB[qp:A];B[qp];W[qs]C[Long Ko for black since he cannot fill at R2. Play at A for a threat.]LB[ln:A];B[ln];W[mn]C[White responded...];B[qr];W[mq]C[Black should continue with T4 for a long ko. R1 kills black.]MA[sp]MA[qs];B[qs];W[mr];B[sp];W[ms]))
+(;B[pr];W[os])
+(;B[qs];W[os];B[rq];W[rs])
+(;B[rs];W[rq];B[os]C[This path is identical to playing P1 instead of S1. Please see that path for an explanation if you wish.]))
+(;W[pr]
+(;B[rs]
+(;W[ss]C[You thought a ko? White could play along, but this caps it.CHOICE]
+(;B[qs];W[os]C[Count the liberties... not good...])
+(;B[os];W[qs];B[pq];W[qr]C[Not enough liberties from here...])
+(;B[pq];W[qs];B[os];W[qr]C[3 outside liberties each... plus white has an eye.]))
+(;W[qs]C[White humors you... play A for a threat.]LB[ln:A]LB[os:B]
+(;B[os];W[qr]C[Far too few liberties.])
+(;B[ln];W[mn];B[qr];W[ss]C[From here, white wins and the ko is over.])))
+(;B[qs];W[pq];B[rq]C[Ta da!RIGHT])
+(;B[pq];W[qs];B[os];W[qr]C[Far too few liberties.])
+(;B[rq];W[qs]C[From here, black cannot win because of liberties.])
+(;B[os];W[qs];B[pq];W[qr]C[One eye and 5 liberties for white... three liberties for you... hmmm...])))
+(;B[pq];W[pr]
+(;B[rq];W[qs];B[os];W[mq]C[White will capture.])
+(;B[qs];W[rs];B[rq];W[ps];B[qr];W[mq]
+(;B[qp];W[mr])
+(;B[os];W[qs]))
+(;B[ps];W[qs];B[os];W[qr]C[You loose the race.]))
+(;B[pr];W[pq];B[os];W[qs];B[ps];W[rq]C[There are many variations from here, but black will loose his side group. Play at A to see how.]MA[nq]MA[nr]MA[ns]MA[os]MA[ps]MA[pr]MA[qr]LB[qp:A];B[qp];W[mq]LB[rs:A];B[rs];W[mr]LB[sp:A];B[sp];W[ms])
+(;B[rq];W[pr]
+(;B[pq];W[qs];B[os];W[mq]C[You loose the side.])
+(;B[qs];W[rs]
+(;B[pq];W[ps];B[qr];W[mq]C[Lost the race.])
+(;B[sq];W[ps];B[qr];W[pq]))
+(;B[ps];W[qs];B[os];W[mq]C[Black looses the race.]))
+(;B[qs];W[rs]
+(;B[os];W[ps];B[pr];W[pq];B[ps];W[rq];B[qp];W[mq]C[White wins the race.])
+(;B[rq];W[pr];B[pq];W[ps];B[qr];W[mq]C[White wins the race.])
+(;B[pr];W[pq])
+(;B[pq];W[pr];B[rq];W[ps];B[qr];W[mq]C[White wins the race.])
+(;B[ps];W[os]))
+(;B[os];W[qs]
+(;B[pr];W[pq];B[ps];W[rq]C[Black looses this capturing race. Continue with A to see how.]LB[qp:A];B[qp];W[mq]LB[sp:A];B[sp];W[mr]LB[rs:A];B[rs];W[ms])
+(;B[pq];W[pr];B[ps];W[qr]C[Black looses the capturing race.])))

@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2d]DP[12]SO[whendrik]CO[0]AW[ap]AW[bq]AW[cq]AW[dq]AW[er]AW[fs]AB[bp]AB[cp]AB[dp]AB[eq]AB[fq]AB[fr]AB[bn]AB[cm]AB[hr]AB[hp]C[Black to kill white, unconditionally. Since this is possible, all variations that lead to ko are marked wrong.]AP[goproblems]
+(;B[dr];W[ds]C[Ko])
+(;B[cs];W[bs])
+(;B[aq]
+(;W[ar]C[CHOICE]
+(;B[cr];W[cs]
+(;B[bs];W[ds];B[br]C[Well done!RIGHT])
+(;B[ds];W[bs];B[dr];W[br];B[es];W[er];B[dr];W[es]))
+(;B[bs];W[cr];B[ds];W[es]))
+(;W[br]
+(;B[cs];W[ds];B[cr]C[RIGHT]))
+(;W[ds];B[ar];W[br];B[ao]C[RIGHT]))
+(;B[cr];W[br]
+(;B[dr];W[ds])
+(;B[bs]))
+(;B[br];W[cr])
+(;B[ds];W[dr]
+(;B[br];W[cs])
+(;B[bs];W[es];B[aq];W[ar]
+(;B[cs];W[cr])
+(;B[cr];W[cs])))
+(;B[ar];W[aq]
+(;B[cr];W[br];B[dr];W[ds])
+(;B[br];W[cr]))
+(;B[bs]
+(;W[br]
+(;B[aq];W[ds])
+(;B[cr];W[dr]
+(;B[cs];W[aq])
+(;B[ds];W[es];B[cs];W[aq]))
+(;B[cs];W[ds]
+(;B[cr];W[aq])
+(;B[aq];W[cr];B[gs];W[as]))
+(;B[ds];W[cs];B[cr];W[dr]
+(;B[aq];W[cs])
+(;B[cs];W[aq]))
+(;B[dr];W[ds]))))

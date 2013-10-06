@@ -1,0 +1,96 @@
+(;GE[life and death]DI[1d]DP[16]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[db][eb][dc][hc][cd][gd][ce][fe][je][cf][ff][gf][hf][jf][kf][gg][ig][lg][bh][gh][ih][kh][di][fi][ji][ki][ej][fj][jj][ck][dk][ik][kk][hl][il][jl][kl][im][km][hn][jn]AB[fb][ec][fc][ic][dd][fd][hd][jd][kd][de][ge][he][ie][ke][le][df][lf][mf][dg][eh][fh][hh][lh][nh][ci][ei][gi][li][cj][dj][hj][ij][kj][lj][hk][lk][gl][ll][gm][gn][in][kn][ln][mn][go][io][lo][hp][ip][jp][kp]LB[kj:1]C[black played 1 to take away an eye. how to respond?]PL[W]
+(;W[hg]CR[hg]
+;B[gk]CR[gk]
+(;W[hi]CR[hi]
+(;B[gj]CR[gj]
+;W[ii]CR[ii]C[RIGHT CHOICE])
+(;B[ii]CR[ii]
+;W[gj]CR[gj]))
+(;W[gj]CR[gj]
+;B[hi]CR[hi])
+(;W[ii]CR[ii]
+;B[hi]CR[hi]))
+(;W[hi]CR[hi]
+;B[ii]CR[ii]
+(;W[gj]CR[gj]
+;B[gk]CR[gk]
+(;W[hi]CR[hi]C[ko is not best])
+(;W[hg]CR[hg]
+;B[hi]CR[hi]))
+(;W[gk]CR[gk]
+;B[fk]CR[fk]
+(;W[hg]CR[hg]
+;B[ek]CR[ek]
+;W[hi]CR[hi]
+;B[gj]CR[gj])
+(;W[gj]CR[gj]
+;B[ek]CR[ek])
+(;W[ek]CR[ek]
+;B[gj]CR[gj]))
+(;W[hg]CR[hg]
+;B[gk]CR[gk]))
+(;W[ii]CR[ii]
+;B[hi]CR[hi]
+;W[gk]CR[gk]
+;B[fk]CR[fk]
+(;W[hg]CR[hg]C[RIGHT])
+(;W[ek]CR[ek]
+;B[gj]CR[gj])
+(;W[gj]CR[gj]
+;B[ek]CR[ek]))
+(;W[gk]CR[gk]
+;B[fk]CR[fk]
+(;W[ii]CR[ii]
+;B[ek]CR[ek]
+;W[hi]CR[hi]
+;B[gj]CR[gj]C[RIGHT])
+(;W[gj]CR[gj]
+;B[ek]CR[ek])
+(;W[ek]CR[ek]
+;B[gj]CR[gj])
+(;W[hg]CR[hg]
+;B[ek]CR[ek]
+(;W[hi]CR[hi]
+;B[gj]CR[gj]
+;W[ii]CR[ii]C[this is not the best, because black took those stones in sente])
+(;W[ii]CR[ii]
+;B[gj]CR[gj]
+;W[hi]CR[hi]C[this is not the best, because black took those stones in sente]))
+(;W[hi]CR[hi]
+;B[ii]CR[ii]
+;W[hg]CR[hg]
+;B[gj]CR[gj]))
+(;W[gj]CR[gj]
+;B[hi]CR[hi]
+;W[gk]CR[gk]
+;B[ek]CR[ek])
+(;W[mg]CR[mg]
+;B[ng]CR[ng]C[this just helps black])
+(;W[kg]CR[kg]
+;B[gk]CR[gk]
+;W[mg]CR[mg]
+;B[ng]CR[ng]
+;W[lm]CR[lm]
+;B[mm]CR[mm]
+;W[mh]CR[mh]
+;B[mi]CR[mi])
+(;W[ee]CR[ee]
+;B[gk]CR[gk]
+;W[ed]CR[ed]
+;B[ek]CR[ek]
+;W[fk]CR[fk]
+;B[el]CR[el])
+(;W[lm]CR[lm]
+;B[mm]CR[mm]C[this just helps black])
+(;W[hm]CR[hm]
+;B[gk]CR[gk])
+(;W[jk]CR[jk]
+;B[gk]CR[gk])
+(;W[jm]CR[jm]
+;B[gk]CR[gk])
+(;W[jg]CR[jg]
+;B[gk]CR[gk])
+(;W[if]CR[if]
+;B[gc]CR[gc]))

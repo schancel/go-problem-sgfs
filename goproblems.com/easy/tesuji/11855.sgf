@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[10k]DP[53]SO[ZeroShiKii]CO[0]AW[br]AW[bq]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[fq]AW[er]AB[eq]AB[dq]AB[cq]AB[cr]AB[bs]AB[fr]AB[gr]AB[gq]AB[gp]AB[go]C[Whte to take B's 5 stones.]AP[goproblems]
+(;W[ds];B[cs];W[ar];B[fs];W[as]C[White wins by 1 move.RIGHT])
+(;W[es];B[ds]C[White is captured.])
+(;W[dr];B[cs];W[ar];B[es]C[White cannot take blacks stones.])
+(;W[cs];B[ds]
+(;W[es];B[fs])
+(;W[dr];B[es])
+(;W[ar];B[es];W[as];B[cs])))

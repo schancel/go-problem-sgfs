@@ -1,0 +1,17 @@
+(;GE[life and death]DI[3k]DP[27]SO[marwin]CO[8]AW[ps]AB[os]AB[ns]AB[or]AB[oq]AB[pq]AB[op]AW[qp]AW[qo]AW[ro]AB[rp]AW[rn]AW[rm]AB[oo]AW[nr]AW[nq]AW[np]AW[no]AW[mo]AW[lr]AW[on]AW[pn]AB[nn]AB[nm]AB[om]AB[qm]AB[ql]AB[rl]C[Do your best.]LB[qp:A]AP[goproblems]
+(;B[rq];W[qq];B[qr]
+(;W[rr]C[CHOICE]
+(;B[sr];W[rs]
+(;B[sq];W[so];B[pr];W[sp];B[qs]C[];W[ss];B[rq]C[Your opponent was staring on the goban for a while and then he resigned..RIGHT])
+(;B[pr];W[sp]))
+(;B[rs];W[sr];B[qs];W[sp])
+(;B[qs];W[rs];B[pr];W[sq]))
+(;W[sp];B[rr]))
+(;B[qq];W[rq];B[rr];W[sp];B[sr];W[sq]C[Ok, you live, but I excpected more from you.])
+(;B[qr];W[rq];B[rr];W[sr]C[Oh la la.])
+(;B[rr];W[rq];B[qq])
+(;B[sr];W[rq];B[rr];W[qq];B[qr];W[sp])
+(;B[sq];W[rq]
+(;B[qq];W[rr])
+(;B[rr];W[qq];B[qr];W[sp]))
+(;B[qs];W[rr];B[qq];W[rq]))

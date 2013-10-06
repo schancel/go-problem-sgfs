@@ -1,0 +1,26 @@
+(;GE[elementary]DI[10k]DP[54]SO[chrise]CO[8]AB[jj]AW[ji]AW[ii]AW[hj]AW[hk]AW[ik]AW[jk]AW[lk]AB[hi]AB[gj]AB[gk]AB[hl]AB[il]AB[hh]AB[ih]AB[jh]AW[ki]AB[kh]AB[jl]AW[li]AB[lh]AW[kl]AB[km]AW[ll]AW[mj]AB[mi]AB[nh]AB[nj]AW[nk]AB[ok]AB[ol]AW[nl]AB[lm]AW[mm]AB[mn]AB[om]AB[nn]AP[goproblems]
+(;B[ml];W[kj])
+(;B[nm];W[ml])
+(;B[kj]
+(;W[lj]C[CHOICE]
+(;B[ml]C[The throw-in, or horikomi in Japanese and pu in Chinese (thanks to Sensei's Library) RIGHT]MA[ml])
+(;B[mk];W[ml])
+(;B[nm];W[ml])
+(;B[kk];W[ij]
+(;B[kj];W[nm])
+(;B[ml];W[kj]))
+(;B[ij];W[kk];B[jj];W[nm]))
+(;W[kk]C[CHOICE]
+(;B[ml]C[The throw-in, or horikomi in Japanese and pu in Chinese (thanks to Sensei's Library) RIGHT]MA[ml])
+(;B[lj];W[ij]
+(;B[ml];W[kj])
+(;B[kj];W[ml]))
+(;B[ij];W[lj]
+(;B[ml];W[jj])
+(;B[jj];W[ml]))
+(;B[mk];W[ml])
+(;B[nm];W[ml])))
+(;B[ij];W[kj])
+(;B[kk];W[kj])
+(;B[lj];W[kj])
+(;B[mk];W[lj]))

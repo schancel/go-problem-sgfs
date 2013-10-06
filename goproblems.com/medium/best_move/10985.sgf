@@ -1,0 +1,14 @@
+(;GE[best move]DI[3k]DP[25]SO[mattscott]CO[0]AB[bd]AB[ce]AB[ae]AB[de]AB[ee]AB[fe]AB[fg]AB[fh]AB[ei]AB[ej]AB[di]AB[ci]AB[ch]AB[bi]AB[bj]AB[dg]AB[bg]AB[ah]AW[eh]AW[eg]AW[ef]AW[df]AW[cf]AW[bf]AW[be]AW[cg]AW[dj]AW[cj]AW[ck]AW[cl]AW[bk]AW[ak]AW[aj]AW[ek]AW[el]AW[fi]AW[fj]AW[hi]AW[hj]AB[fk]AB[fl]AB[dk]AW[em]AW[dm]TR[ae]C[black has played the triangle. White to play and win the semeii in the best way]AP[goproblems]
+(;W[af]
+(;B[ad]C[probably a black mistake...see comments by BartTM]
+(;W[ai]C[RIGHT]C[well done! maybe w can push and cut laterRIGHT])
+(;W[dh];B[ff];W[ai]C[how can this be wrong?? what more can I get??])
+(;W[ff];B[gf];W[ai]C[Creating these cutting points before black can defend at F14 is bestCHOICERIGHT]
+(;B[ge]C[RIGHT]))))
+(;W[dh];B[af];W[ai]MA[ff]TR[ah]TR[bg]C[no no no black can connect the triangles or play the square depending on the position. White can do better.])
+(;W[ai];B[af];W[dh]MA[ff]TR[ah]TR[bg]C[black can connect at the square or save his triangled stones. white can do better])
+(;W[ff];B[gf]
+(;W[gg];B[gh]
+(;W[hg];B[af])
+(;W[af];B[ag];W[ad];B[dh]))
+(;W[af];B[ag];W[ad];B[dh])))

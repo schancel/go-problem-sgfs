@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1k]DP[18]SO[warheart]CO[6]AB[an]AB[bn]AB[bo]AB[co]AB[do]AB[dp]AB[cq]AB[ds]AB[es]AB[dr]AB[cs]AW[dq]AW[eq]AW[er]AW[fr]AW[fs]AW[ep]AW[eo]AW[dn]AW[cn]AW[bm]AW[am]C[Defend against (1) the best way possibile... Assume that you don't have to take care about having enough ko threats at the moment...]AW[br]AW[cl]LB[br:1]AP[goproblems]
+(;B[bq];W[cr]C[You can live, but you lose the four stones below... This should be your choice if you lack ko threats (try again or navigate to see why).])
+(;B[bp];W[bq]
+(;B[bs];W[cr])
+(;B[cr];W[bs];B[cp];W[ap]))
+(;B[cr];W[bq]
+(;B[bp];W[bs];B[cp]C[uhh... death in gote -.-])
+(;B[ap];W[bs];B[cp];W[bp])
+(;B[bs];W[bp]
+(;B[cp]C[]LB[fm:T];W[fl]C[This is seki, so white plays tenuki (i.e. elsewhere on the board), please answer at T.]LB[fm:T]
+(;B[fm];W[gl]C[Now imagine the game continued for a while and white has gained some additional ko threats (she now has more than you)... Play (T) to tenuki or try to defend if necessary for live.]LB[gm:T]
+(;B[gm];W[aq]C[Now white can get a ko that you'll lose...])
+(;B[ar];W[ap]C[Well done, it's seki! The difficulty in the real endgame is to decide which is the right time to play A2 (or A4). If white gets to play A3 in the right moment, the group dies with losing the ko!RIGHT])
+(;B[ap];W[ar]C[Well done, it's seki! The difficulty in the real endgame is to decide which is the right time to play A4 (or A2). If white gets to play A3 in the right moment, the group dies with losing the ko!RIGHT]))
+(;B[ap];W[ar]C[This move would be ok, as it is sente and removes aji... Anyway, I told you to play (T) because I wanted to show you something else.])
+(;B[ar];W[ap]C[This move would be ok, as it is sente and removes aji... Anyway, I told you to play (T) because I wanted to show you something else.]))
+(;B[ap];W[cp])
+(;B[ar];W[cp])
+(;B[aq];W[cp]))
+(;B[cp];W[bs]
+(;B[bp];W[ap])
+(;B[ap];W[bp]))))

@@ -1,0 +1,26 @@
+(;GE[best move]DI[2d]DP[14]SO[1234boys]CO[0]SZ[4]AB[da]AB[ad]AW[aa]AW[ba]AW[dc]AW[dd]AP[goproblems];B[cb]
+(;W[bc];B[cc]
+(;W[cd];B[db]
+(;W[bb];B[bd];W[cd];B[dd];W[ac];B[cd]C[RIGHT])
+(;W[bd];B[bb];W[ab];B[ac]C[RIGHT]))
+(;W[bb]
+(;B[cd];W[ca]
+(;B[bd]
+(;W[ac];B[db];W[dc];B[ab]C[RIGHT])
+(;W[db];B[da];W[db];B[dc];W[ac];B[da];W[ba];B[ab]C[RIGHT]))
+(;B[db];W[bd];B[ac];W[ab]
+(;B[ac];W[dc];B[ad]C[RIGHT])
+(;B[ad];W[dd];B[ac]C[RIGHT])))
+(;B[bd];W[ca];B[cd];W[ac]
+(;B[db];W[dc];B[ab]C[RIGHT])
+(;B[ab]C[RIGHT]))))
+(;W[bb]
+(;B[cc];W[bc];B[cd]C[RIGHT])
+(;B[bc];W[cc]))
+(;W[cc]
+(;B[bb];W[bc]
+(;B[ac];W[bd];B[ab];W[db]
+(;B[ca];W[ba];B[cd]C[RIGHT])
+(;B[cd]C[RIGHT]))
+(;B[ab];W[db]C[RIGHT]))
+(;B[bc];W[bb])))

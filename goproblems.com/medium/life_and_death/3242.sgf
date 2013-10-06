@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1k]DP[18]SO[adum]CO[6]AW[qc]AW[qd]AB[pc]AB[pd]AW[qb]AB[ob]AB[mb]AB[mc]AB[nd]AB[ne]AB[oe]AB[pe]AW[qe]AW[pf]AW[of]AW[nf]AW[mf]AW[me]AW[md]AW[lc]AW[lb]AW[jc]AW[oc]AB[ma]LB[oc:1]LB[ma:2]C[white plays 1, black responds at 2. how many different first moves can now kill black without ko? click on the number.FORCE]LB[jh:0]LB[kh:1]LB[lh:2]LB[mh:3]LB[nh:4]LB[oh:5]AP[goproblems]
+(;W[lh];B[lg]C[correct. A is one of the two ways to kill. now play the other.]LB[nc:A]
+(;W[nc]C[NOTTHIS])
+(;W[oa];B[pa]
+(;W[pb];B[na]
+(;W[nc]C[RIGHT])
+(;W[nb];B[nc]))
+(;W[nb];B[na]
+(;W[nc];B[pb])
+(;W[pb];B[nc])))
+(;W[pb];B[nc]
+(;W[oa];B[na]C[just ko.])
+(;W[na];B[oa]))
+(;W[pa];B[oa])
+(;W[nb];B[nc]
+(;W[oa];B[na])
+(;W[pb];B[na]))
+(;W[na];B[oa])
+(;W[la];B[oa]))
+(;W[jh]C[incorrect])
+(;W[kh]C[incorrect])
+(;W[mh]C[incorrect])
+(;W[nh]C[incorrect])
+(;W[oh]C[incorrect]))

@@ -1,0 +1,10 @@
+(;GE[endgame]DI[12k]DP[59]SO[Broi]CO[0]SZ[9]AB[cf]AB[df]AB[de]AB[cd]AB[cc]AB[bc]AB[dc]AB[cb]AB[ca]AB[da]AB[eb]AB[ff]AB[gf]AB[gg]AB[eh]AB[fh]AW[ah]AW[bi]AW[bg]AW[cg]AW[dg]AW[eg]AW[fg]AW[dh]AW[ei]AW[ef]AW[ee]AW[fe]AW[ed]AW[dd]AW[ec]AW[ge]AB[ea]AB[af]AB[bf]AB[ag]AW[hd]AW[id]AB[he]AB[ie]AB[hf]AB[fi]AB[ig]LB[ei:1]LB[fi:2]C[Black responded 2 to 1. Punish him!Black captured 1 stones, komi 5.5.]AW[gc]AW[bh]AB[fb]AB[gb]AB[hb]AB[ha]AW[fc]AW[hc]AW[ib]AB[be]AP[goproblems]
+(;W[gh]
+(;B[di]
+(;W[hh]C[Black stones are dead!RIGHT])
+(;W[gi];B[hh]C[];W[ei];B[hi]C[]
+(;W[fh]C[White: territory 8, 4 prisoners, 5.5 komi. Black: territory 16, 2 prisoners. White won by 0.5. You could better!CHOICERIGHT])))
+(;B[hh]C[]
+(;W[gi];B[hi]C[White: territory 9,  3 prisoners,   5.5 komi. Black: territory 16, 1 prisoners. White won by 0.5RIGHT])
+(;W[hi];B[di])))
+(;W[di];B[gh]C[You've lost the game!White: 5 terrain, 0 prisoners, 5.5 komiBlack: 20 terrain, 1 prisonersBlack won by 11.5]))

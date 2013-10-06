@@ -1,0 +1,77 @@
+(;GE[life and death]DI[7k]DP[40]SO[santa c]CO[7]AB[cq]AW[cp]AW[co]AW[cn]AW[bn]AW[an]AW[bm]AB[am]AB[al]AB[bl]AB[cm]AB[dm]AB[dn]AB[dl]AB[do]AB[dp]AB[eo]AB[fp]AB[gp]AB[hq]AB[hr]AB[hs]AB[ip]AW[ep]AW[eq]AW[dq]AW[fq]AW[gq]AW[gr]AW[fr]AW[fs]AB[gs]AB[es]C[What can White save here?]LB[cq:A]AP[goproblems]
+(;W[bq];B[cr]
+(;W[br];B[bs]
+(;W[ar];B[dr]C[]
+(;W[ap]C[Well done! :)RIGHT])
+(;W[ao]C[Well done! :)RIGHT])
+(;W[bp]C[Well done! :)RIGHT])
+(;W[bo];B[ap]C[:(]))
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bp];B[ao]C[:(]TR[ar]TR[ap])
+(;W[bo];B[ap]C[:(])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[dr];B[cs]
+(;W[ap]C[Well done! :)RIGHT])
+(;W[ar];B[ds]
+(;W[ap]C[Well done! :)RIGHT])
+(;W[bp]C[Well done! :)RIGHT])
+(;W[ao]C[Well done! :)RIGHT])
+(;W[bo];B[ap]C[:(])
+(;W[as];B[er]
+(;W[ap]C[Well done! :)RIGHT])
+(;W[ao];B[bp]C[:(])
+(;W[bo];B[ap]C[:(])
+(;W[bp]C[Well done! :)])))
+(;W[bp];B[ao]C[]
+(;W[ar]
+(;B[ds];W[ap]C[Well done! :)RIGHT])
+(;B[ap];W[as]C[RIGHT]))
+(;W[ap];B[ar]C[:(])
+(;W[ds];B[er]C[:(]TR[ar]TR[ap])
+(;W[er];B[ds]C[:(]TR[ar]TR[ap]))
+(;W[bo];B[ap]C[:(])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[ds];B[er]
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bp];B[ao]TR[ar]TR[ap]C[:(])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[ar];B[ap]C[:(])
+(;W[bo];B[ap]C[:(])))
+(;W[cs];B[ds]
+(;W[ar];B[ap]C[:(])
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bp];B[ao]C[:(]TR[ar]TR[ap])
+(;W[bo];B[ap]C[:(])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[dr];B[er]
+(;W[ar];B[ap]C[:(])
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bp];B[ao]C[:(]TR[ar]TR[ap])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[bo];B[ap]C[:(])))
+(;W[ds];B[dr]
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bo];B[ap]C[:(])
+(;W[ar];B[ap]C[:(])
+(;W[bp];B[ao]C[:(]TR[ar]TR[ap])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[er];B[es]
+(;W[ap]C[Well done! :)RIGHT]TR[ar]TR[bo])
+(;W[bp];B[ao]C[:(]TR[ar]TR[ap])
+(;W[bo];B[ap]C[:(])
+(;W[ao];B[bp]C[:(]TR[ar]TR[ap])
+(;W[ar];B[ap]C[:(]))))
+(;W[bp];B[br]TR[aq]TR[ao]C[:(])
+(;W[ap];B[br]
+(;W[bo]C[Well done! :)RIGHT])
+(;W[dr];B[bo]C[:(]))
+(;W[bo];B[ap]C[:(]TR[br]TR[dr])
+(;W[dr];B[br]C[:(]TR[ap]TR[bo])
+(;W[ao];B[br]C[:(]TR[bp]TR[aq]))
+(;W[bp];B[cr]C[:(])
+(;W[cr];B[bq]
+(;W[br];B[dr]C[:(])
+(;W[dr];B[bp]C[:(])
+(;W[bp];B[br]C[:(])
+(;W[ds];B[er];W[dr];B[br]C[:(]))
+(;W[dr];B[bq]C[:(]))

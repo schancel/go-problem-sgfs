@@ -1,0 +1,27 @@
+(;GE[best move]DI[6k]DP[36]SO[chrise]CO[7]AB[ao]AB[bo]AB[co]AB[cp]AB[dq]AB[er]AB[es]AB[gr]AB[fr]AB[gs]AW[hs]AW[hr]AW[hq]AW[eo]AW[dn]AW[cn]AW[bn]AW[an]AW[ap]AW[aq]AW[bp]AW[cq]AW[cr]AW[dr]AW[ds]AB[eq]AB[ar]AB[gq]AW[gp]AW[fo]AW[ep]AW[hp]AB[ho]AB[gn]AB[fn]AB[em]AB[io]AW[ip]AW[dm]AP[goproblems]
+(;W[fp];B[bq]
+(;W[dp];B[br])
+(;W[fq];B[br]))
+(;W[dp];B[bq]
+(;W[fp];B[br])
+(;W[fq]C[koRIGHT])
+(;W[br];B[bs])
+(;W[do];B[br])
+(;W[ap];B[br])
+(;W[bs];B[br]))
+(;W[br];B[bq]
+(;W[dp];B[bs])
+(;W[fq];B[bs])
+(;W[bs];B[dp])
+(;W[aq];B[ap]
+(;W[dp];B[bs])
+(;W[fq];B[bs])
+(;W[bs];B[dp])))
+(;W[bq];B[br])
+(;W[as];B[bq])
+(;W[bs];B[br];W[dp];B[bq];W[do];B[as])
+(;W[do];B[bq]
+(;W[dp];B[br])
+(;W[br];B[bs])
+(;W[fq];B[br]))
+(;W[fq];B[dp]))

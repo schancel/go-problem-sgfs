@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2k]DP[22]SO[MeleeNewb]CO[0]AW[pr]AW[qq]AW[qp]AW[qo]AW[qn]AW[ql]AW[nr]AW[mr]AW[kr]AW[lr]AW[jr]AB[ir]AB[jq]AB[lq]AB[kq]AB[mq]AB[nq]AB[oq]AB[pq]AB[gr]AB[iq]TR[jr]TR[kr]TR[lr]TR[mr]TR[nr]C[Are the marked stones alive unconditionally? Play A at P5 if so, otherwise show why they are not.FORCE]LB[oo:yes]LB[or:no]AP[goproblems]
+(;B[oo]AB[nr]AB[mr]AB[lr]AB[kr]AB[jr]AW[pq]AW[oq]AW[nq]AW[mq]AW[lq]AW[ir]AB[pr]AB[qq]AB[qp]AB[qo]AB[qn]AB[ql]AW[iq]AW[jq]AW[kq]AW[gr];W[or]AB[nr]C[Okay. Save them.];B[os];W[qr]
+(;B[ps];W[ns]
+(;B[ms];W[rr]
+(;B[rq]
+(;W[sq]
+(;B[qs]C[RIGHT])
+(;B[sp];W[qs];B[ns];W[ss])
+(;B[rs];W[ss];B[ns];W[qs])
+(;B[sr];W[ss]
+(;B[qs]C[RIGHT])
+(;B[sp];W[qs]))
+(;B[ss];W[rs]
+(;B[sp];W[ks]
+(;B[sr];W[sq];B[sr];W[js];B[sq];W[is];B[ss];W[ls];B[qs];W[ns])
+(;B[js];W[sr];B[ns];W[is]))
+(;B[ns];W[sp])))
+(;W[qs];B[ns];W[sq]
+(;B[ss]C[RIGHT])
+(;B[sp])))
+(;B[qs];W[rs];B[ns];W[js])
+(;B[rs];W[qs];B[ns];W[ss];B[rq];W[js])
+(;B[sr];W[rq];B[rp];W[sq];B[rs];W[ss])
+(;B[ns];W[qs];B[rq]))
+(;B[qs];W[rs]))
+(;B[qs];W[ps])
+(;B[ns];W[ps];B[js];W[ls]))
+(;B[or];W[os]C[Actually they are safe. Navigate solution to see why.]))

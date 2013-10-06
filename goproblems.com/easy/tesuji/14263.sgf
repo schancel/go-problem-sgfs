@@ -1,0 +1,59 @@
+(;GE[tesuji]DI[7k]DP[41]SO[Tomsk]CO[0]AW[dr]AB[er]AB[fr]AW[eq]AW[fq]AW[ep]AW[cp]AW[bp]AB[co]AB[do]AB[eo]AB[fo]AB[fp]AB[gq]AB[hq]AW[gp]AW[hp]AB[ip]AW[gn]TR[gp]TR[hp]C[Black to capture the marked stones]AP[goproblems]
+(;B[hn];W[go]
+(;B[gm];W[fn]
+(;B[fm];W[en]
+(;B[dm]C[RIGHT])
+(;B[em];W[dn]
+(;B[cm];W[cn]
+(;B[bn];W[bo]TR[co]TR[do]TR[eo]TR[fo]TR[fp]C[White kills the marked stones and lives])
+(;B[bo];W[bn]TR[bo]TR[co]TR[do]TR[eo]TR[fo]TR[fp]C[White kills the marked stones and lives]))
+(;B[dm];W[cn]
+(;B[bo];W[bn]TR[bo]TR[co]TR[do]TR[eo]TR[fo]TR[fp]C[White kills the marked stones and escapes])
+(;B[bn];W[bo]TR[co]TR[do]TR[fp]TR[fo]TR[eo]C[White kills the marked stones and lives])
+(;B[bm];W[bo]TR[co]TR[do]TR[eo]TR[fo]TR[fp]C[White kills the marked stones and lives]))
+(;B[cn];W[dm];B[dl];W[cm]C[White escapes, white can't be caught in a ladder because the white stones are not in atari]))
+(;B[dn];W[em]C[White escapes, the white stones can't be caught in a ladder because they are not in atari])
+(;B[dl];W[dm];B[cm]C[RIGHT])
+(;B[cm];W[em];B[el];W[dl]
+(;B[dm];W[fl];B[ek];W[hm];B[gl];W[io])
+(;B[cl];W[dk];B[dm];W[fl];B[ek];W[hm];B[gl];W[io])
+(;B[ek];W[dm];B[dk];W[cl])))
+(;B[em];W[fm];B[fl];W[hm]
+(;B[gl];W[in];B[im];W[ho]C[White escapes])
+(;B[in];W[gl]C[White escapes])
+(;B[ho];W[gl];B[en];W[gm]C[White escapes])))
+(;B[fm];W[gm]C[White escapes]))
+(;B[go];W[ho]
+(;B[hn];W[io];B[jo];W[in]C[No, the ladder doesn't work]
+(;B[im];W[hm]C[White escapes])
+(;B[hm];W[jm]C[White escapes]))
+(;B[hm];W[hn]C[White escapes])
+(;B[in];W[hn]C[White escapes])
+(;B[io];W[hn]C[White escapes]))
+(;B[ho];W[go]C[Black has already lost here. Keep on playing if you want to see why ...]
+(;B[gm];W[hn]
+(;B[im];W[io]
+(;B[jo];W[in]
+(;B[jn];W[hm];B[hl];W[il]
+(;B[jm];W[gl]
+(;B[fm];W[hk]C[White escapes])
+(;B[hk];W[fm]C[White escapes]))
+(;B[jl];W[jm];B[km];W[im];B[ik];W[hk];B[gl];W[jk]
+(;B[ij];W[kl]C[White escapes])
+(;B[kl];W[ij]C[White escapes])))
+(;B[jm];W[jn];B[kn];W[jp]
+(;B[iq];W[ko]C[White escapes])
+(;B[ko];W[iq]C[White escapes])))
+(;B[in];W[jo]C[White escapes]))
+(;B[io];W[im]C[White escapes])
+(;B[in];W[io]
+(;B[jo];W[im]
+(;B[ho];W[jn];B[io];W[hm]C[White escapes])
+(;B[jn];W[hm]C[White escapes])
+(;B[hm];W[jn]C[White escapes]))
+(;B[hm];W[jo]C[White escapes]))
+(;B[hm];W[io];B[jo];W[jn];B[kn];W[jp]
+(;B[ko];W[iq]C[White escapes])
+(;B[iq];W[ko]C[White escapes])))
+(;B[hn];W[gm]C[White escapes]))
+(;B[gm];W[hn];B[hm];W[in]C[White escapes]))

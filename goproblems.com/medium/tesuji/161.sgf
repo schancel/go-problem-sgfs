@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[1k]DP[20]SO[Spirit]CO[7]C[Black to do something funny]LB[yy:1]AB[jp]AB[jq]AB[kp]AB[kr]AB[lp]AB[lq]AB[nr]AB[pq]AB[qp]AB[qq]AB[qr]AB[rq]AW[io]AW[ip]AW[ir]AW[jr]AW[lo]AW[mp]AW[mr]AW[np]AW[op]AW[pp]AW[qo]AW[ro]AW[rp]SZ[19]AW[kn]AW[jn]AW[hq]AW[mn]PL[B]RG[mr]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[ms]MN[1]
+(;W[or];B[os]
+(;W[nq];B[ns]
+(;W[ls];B[ps]C[Black is connected.RIGHT])
+(;W[ps];B[ls]))
+(;W[ls];B[mq]
+(;W[nq];B[lr];W[ps];B[oq];W[ns];B[mr])
+(;W[ns];B[nq]
+(;W[ps];B[oq];W[ks];B[lr])
+(;W[oq];B[ps];W[ks];B[lr])))
+(;W[ps];B[oq];W[ns];B[nq];W[mq];B[ls];W[lr];B[ks]))
+(;W[ls];B[mq];W[or];B[oq];W[ns];B[nq];W[ks];B[lr]))
+(;B[mq];W[or];B[ms];W[oq]))

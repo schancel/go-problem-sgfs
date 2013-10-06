@@ -1,0 +1,59 @@
+(;GE[endgame]DI[1d]DP[16]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+AW[fa][cb][eb][fb][cc][cd][dd][ed][fd][cf][df][ef][ff][gf][cg]AB[ca][da][ea][bb][db][bc][bd][be][ce][de][ee][fe][ge][bf][bg]C[No komi, no prisoners - Black to play and draw!]
+(;B[ba]CR[ba]
+(;W[gc]CR[gc]
+;B[dc]CR[dc]
+;W[ec]CR[ec]C[Jigo! RIGHT])
+(;W[gd]CR[gd]
+;B[gb]CR[gb]
+(;W[dc]CR[dc]
+;B[fc]CR[fc]C[White is dead.])
+(;W[gc]CR[gc]
+;B[ec]CR[ec]C[White is dead.])
+(;W[ec]CR[ec]
+;B[gc]CR[gc]C[White is dead.]))
+(;W[dc]CR[dc]
+;B[gc]CR[gc]
+;W[gd]CR[gd]
+;B[fc]CR[fc]C[White is dead.]))
+(;B[gd]CR[gd]
+;W[dc]CR[dc]
+(;B[ba]CR[ba]
+;W[gc]CR[gc]C[White wins by one point.])
+(;B[fc]CR[fc]
+;W[ba]CR[ba]
+(;B[da]CR[da]
+;W[gb]CR[gb]C[White wins.])
+(;B[gb]CR[gb]
+;W[da]CR[da]C[White wins.])))
+(;B[gc]CR[gc]
+;W[gd]CR[gd]
+(;B[fc]CR[fc]
+;W[gb]CR[gb]C[White wins.])
+(;B[ec]CR[ec]
+;W[fc]CR[fc]C[White wins.])
+(;B[gb]CR[gb]
+;W[dc]CR[dc]C[White wins.])
+(;B[ba]CR[ba]
+(;W[fc]CR[fc]
+;B[dc]CR[dc]
+;W[gb]CR[gb]C[Jigo :) RIGHT])
+(;W[gb]CR[gb]
+;B[ec]CR[ec]
+;W[fc]CR[fc]
+;B[dc]CR[dc]C[Jigo! RIGHT])))
+(;B[dc]CR[dc]
+;W[ec]CR[ec]
+;B[ba]CR[ba]
+;W[gd]CR[gd]C[White wins by one point!])
+(;B[fc]CR[fc]
+;W[dc]CR[dc]
+(;B[ba]CR[ba]
+;W[gc]CR[gc]C[White wins.])
+(;B[gd]CR[gd]
+;W[ba]CR[ba]
+(;B[gb]CR[gb]
+;W[da]CR[da]C[White wins.])
+(;B[da]CR[da]
+;W[gb]CR[gb]C[White wins.]))))

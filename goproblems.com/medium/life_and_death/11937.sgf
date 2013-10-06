@@ -1,0 +1,43 @@
+(;GE[life and death]DI[1k]DP[19]SO[Piccolo]CO[0]AB[qp]AW[pp]AW[op]AB[po]AW[nq]AW[mq]AB[lq]AB[kq]AB[mp]AB[np]AB[oo]AW[pn]AW[qn]AB[on]AW[pl]AW[nm]AB[mn]C[White to play and live with ALL the marked stones. I insist : ALL ;-)]TR[mq]TR[nq]TR[op]TR[pp]AW[lr]AB[kr]AB[nn]AW[om]AB[lo]AB[kp]AW[ql]AW[ol]AW[pj]AP[goproblems]
+(;W[pr]
+(;B[qq]C[CHOICE]
+(;W[qr]
+(;B[pq];W[oq]C[];B[mr];W[nr];B[ls]C[Yes, almost done :) Play s2 to finish the job.]TR[rr]
+(;W[rr];B[ns];W[or];B[qo]C[Now many moves ensure life. Please play s1.]
+(;W[rs]C[Well done !RIGHT]))))
+(;W[qo];B[pq];W[oq];B[qr]
+(;W[os];B[mr];W[nr];B[ls]C[];W[qs];B[ns];W[ms];B[lr];W[rr];B[ns]C[Ko, black takes first. You could have taken first at least, please navigate.])
+(;W[or];B[mr]C[White loses the semeai]))
+(;W[pq]C[]))
+(;B[qr]C[CHOICE]
+(;W[qq];B[rq];W[pq];B[rr]
+(;W[or];B[mr];W[nr];B[ls]C[]
+(;W[ns];B[ps]
+(;W[rp];B[qo]
+(;W[ro];B[qs]
+(;W[sr];B[sq];W[ss];B[rn]C[White will lose the semeai while capturing s6])
+(;W[sq];B[sr]C[Because of the weakness at s6, this leads to a 2-step, very difficult ko for white. You could do better, please navigate.]))
+(;W[qs];B[ro]C[]))
+(;W[qs];B[qo]C[]))
+(;W[ps];B[ns];W[rp];B[qo];W[ro];B[qs]
+(;W[sq];B[ss]TR[rn]C[Connect s6 please]
+(;W[rn];B[ms];W[sp];B[os];W[sr];B[oq]C[]))
+(;W[sr];B[sq];W[ss];B[rn]C[White will lose the semeai while capturing s6]))
+(;W[rp]C[TranspositionNOTTHIS]))
+(;W[nr];B[ls];W[ms];B[mr]TR[rp]C[Play at s4 please.];W[rp];B[qo];W[lr];B[ii]TR[ji]C[..and answer at k11];W[ji];B[mr]C[Ko, but white took first because black had to find the first ko threat. Not bad :)RIGHT])
+(;W[qo];B[rp];W[nr];B[ls];W[ms];B[mr]C[Ko, black takes first. You could have taken first at least, please navigate.])
+(;W[rp]C[TranspositionNOTTHIS])
+(;W[ms];B[or]C[White will lose the semeai. Navigate for a possible variation.];W[nr];B[ps];W[oq];B[os];W[qs];B[rs];W[rp];B[qo];W[ro];B[sr];W[rn];B[ks]
+(;W[sp];B[ls])
+(;W[ls];B[qs];W[sp];B[ns]))
+(;W[ns];B[ls];W[mr];B[or];W[qo];B[rp];W[ps];B[qs]C[White loses the semeai.]))
+(;W[qo];B[pq];W[oq];B[qq])
+(;W[ms];B[pq];W[oq];B[qq];W[os];B[nr]C[]))
+(;B[mr]C[Easiest way];W[nr];B[ls];W[qq]C[RIGHT]))
+(;W[qq];B[oq];W[pq];B[or]C[o3 is captured, and black has sente.])
+(;W[qr];B[oq];W[pq];B[or]C[o3 is captured, and black has sente.])
+(;W[pq];B[qq]
+(;W[pr];B[qr]
+(;W[qo];B[or]C[Black wins the semeai])
+(;W[nr];B[ls];W[ms];B[mr]C[Ko, black takes first]))
+(;W[qo];B[pr];W[oq];B[or]C[])))

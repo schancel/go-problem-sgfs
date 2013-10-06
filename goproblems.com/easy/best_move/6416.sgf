@@ -1,0 +1,11 @@
+(;GE[best move]DI[6k]DP[38]SO[Zandor]CO[4]SZ[9]AB[bc]AB[bd]AB[ad]AB[cd]AB[dc]AB[db]AB[cb]AB[da]AB[fc]AB[gd]AB[gb]AB[ga]AB[hc]AB[he]AB[ie]AB[ge]AB[fe]AB[ff]AB[ef]AB[df]AB[fg]AB[fh]AB[fi]AB[cg]AB[ch]AB[ci]AW[gi]AW[gh]AW[gg]AW[gf]AW[hf]AW[if]AW[hh]AW[ih]AW[ei]AW[eh]AW[eg]AW[dg]AW[bi]AW[bh]AW[bg]AW[cf]AW[ae]AW[be]AW[ce]AW[de]AW[dd]AW[ee]AW[ec]AW[eb]AW[ea]C[white to play and win (no komi, no prisoners)]FF[1]GM[1]AP[Jago:Version 4.53]
+(;W[bb]
+(;B[ab]
+(;W[ba];B[ed];W[fd];B[dh]
+(;W[di];B[ed]
+(;W[ca];B[aa];W[fd];B[fb];W[ed]C[RIGHT]C[white wins with 2 pointsRIGHT])
+(;W[aa];B[ca];W[fd];B[fb];W[ed]C[RIGHT]))
+(;W[ed];B[di]C[black wins]))
+(;W[ed];B[ba]C[black wins]))
+(;B[ed];W[ab];B[ba];W[fd]C[RIGHT]C[see the main lineRIGHT]))
+(;W[ed];B[bb]C[black wins]))

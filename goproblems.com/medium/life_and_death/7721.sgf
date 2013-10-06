@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2k]DP[21]SO[santa c]CO[7]AW[sq]AW[rq]AW[qq]AW[pq]AW[oq]AW[or]AW[os]AB[ns]AB[nr]AB[nq]AB[pp]AB[rp]AB[sp]AB[qp]AB[op]AB[np]AB[qs]LB[lq:T]C[As the ko master, what's the best Black can get here? Tenuki at M3 if you think it's a waste of time...]AP[goproblems]
+(;B[qr]
+(;W[rr];B[rs]C[Well done! White can't avoid the ko! :)CHOICERIGHT])
+(;W[rs];B[rr];W[sr]C[Well done! White can't avoid the ko! :)CHOICERIGHT]))
+(;B[rs];W[qr]
+(;B[ps];W[sr]C[Sente seki seems nice but you could get a ko and since you're the ko master... :(])
+(;B[sr];W[ps]C[Sente seki seems nice but you could get a ko and since you're the ko master... :(]))
+(;B[rr];W[qr];B[ps];W[sr];B[rs]C[Gote seki... :(])
+(;B[ps];W[qr]
+(;B[rs];W[sr]C[Sente seki seems nice but you could get a ko and since you're the ko master... :(])
+(;B[rr];W[sr];B[rs]C[Gote seki... :(])
+(;B[sr];W[rs]C[:(]))
+(;B[pr];W[rs]C[:(]TR[rr]TR[qr])
+(;B[sr];W[rs]C[:(]TR[rr]TR[qr])
+(;B[ss];W[rr]C[Gote seki... :(])
+(;B[lq]C[Black can get a ko... :(]))

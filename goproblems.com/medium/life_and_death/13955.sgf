@@ -1,0 +1,27 @@
+(;GE[life and death]DI[1k]DP[19]SO[ukasuhs]CO[0]AB[qr]AB[qq]AB[qp]AB[qo]AB[ro]AB[so]AW[qn]AW[rn]AW[sn]AW[qm]AW[ql]AW[rl]AW[rk]AW[sk]AW[sm]AW[po]AW[pp]AW[pq]AW[pr]AB[pn]AB[pm]AB[on]AB[nm]AB[ol]AB[nk]AB[ml]AB[mk]AB[ok]AB[pl]AB[np]AW[nq]AW[mp]AW[no]AW[oq]AW[mo]AB[mq]AB[mr]AB[lq]AB[ls]AB[kr]AB[kq]AB[jr]AB[js]AW[lp]AW[kp]AW[ko]AW[ln]AW[rr]C[Black to play a live in the corner with points. Assume neither player has any ko threats.]AP[goproblems]
+(;B[rs];W[rq]
+(;B[sr];W[sq];B[rp];W[ss];B[qs];W[sr];B[sp];W[sr];B[ps];W[os];B[or];W[nr];B[ns];W[ms];B[oo];W[op];B[ns];W[np];B[or]C[Yes! The best way for blackRIGHT])
+(;B[sq];W[sr]
+(;B[rp];W[sp]
+(;B[qs];W[sq]
+(;B[ss];W[sq];B[ps];W[os];B[or];W[nr];B[ns];W[ms]
+(;B[oo];W[op];B[ns];W[np];B[or]C[Yes! The best way for blackRIGHT])
+(;B[sr];W[ns]
+(;B[rq]C[RIGHT])
+(;B[oo];W[op];B[rq]C[RIGHT]))
+(;B[rq];W[ns]
+(;B[oo];W[op];B[sr]C[RIGHT])
+(;B[sr]C[RIGHT])))
+(;B[ps];W[os];B[ss];W[sq];B[or]))
+(;B[ps]
+(;W[qs])))
+(;B[sp]C[Seki. Black lives, but he could have gotten points tooCHOICE])))
+(;B[qs]
+(;W[rq]
+(;B[sq];W[rs]
+(;B[sp];W[sr]C[Black Died])
+(;B[sr];W[ps];B[sp]C[Seki. Black can do better])
+(;B[rp];W[ps]C[Black died]))
+(;B[ps];W[os];B[or];W[nr];B[ns];W[ms];B[oo];W[op];B[ns];W[np];B[or]C[Correct. If white blocks you at q1 then you can live in the cornerRIGHT]))
+(;W[ps];B[rq]C[Correct. If the is the first solution you found, please go through navigate solution.]))
+(;B[ps];W[os];B[qs];W[rq];B[or]))

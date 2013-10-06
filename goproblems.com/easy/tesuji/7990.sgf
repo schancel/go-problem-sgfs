@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[6k]DP[39]SO[rene]CO[4]SZ[19]AB[rr]AB[qr]AB[nr]AB[pq]AB[qp]AB[pp]AB[op]AB[np]AB[mp]AB[mo]AW[sr]AW[pr]AW[or]AW[rq]AW[qq]AW[oq]AW[rp]AW[qo]AW[po]AW[oo]AW[no]TR[pr]TR[or]TR[oq]C[Black to capture the marked white stones.]GM[1]FF[4]AP[glGo:1.4]ST[1]KM[6.5]PW[Weiss]PB[Schwarz]
+(;B[nq];W[rs]C[nope :(])
+(;B[sq]C[If you know the correct sequence, this move is not necessary.])
+(;B[ps];W[rs]C[nope :)])
+(;B[os];W[qs]C[nope :(])
+(;B[rs]
+(;W[qs];B[ps];W[os]
+(;B[ns];W[qs]C[  Ko, well done :)CHOICERIGHT])
+(;B[nq];W[qs]C[  Ko, well done :)CHOICERIGHT]))
+(;W[sq]
+(;B[nq];W[ss]C[Almost, but you missed one tesuji.])
+(;B[ro];W[rn]
+(;B[nq]C[  Well done. White should have played ko by throwing in at R1.CHOICERIGHT])
+(;B[os]C[RIGHT])))
+(;W[rn]
+(;B[nq]C[  Well done. White should have played ko by throwing in at R1.CHOICERIGHT])
+(;B[os]C[RIGHT]))))

@@ -1,0 +1,45 @@
+(;GE[best move]DI[5k]DP[32]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]
+AW[bb][ib][cc][gc][hc][ic][jc][cd][kd][ce][ke][cf][kf][dg][dh]
+AB[ka][jb][bc][fc][kc][lc][bd][gd][hd][id][jd][ld][be][bf][bg][bh]
+C[best sequence for white?
+]
+(;W[fb];B[eb]
+(;W[ec];B[fd]
+(;W[db];B[gb]
+(;W[fa];B[ia])
+
+(;W[ea];B[ia])
+)
+
+(;W[gb]C[RIGHT
+])
+
+(;W[ga]LB[gb:A]C[RIGHT
+but playing at A is simpler
+])
+)
+
+(;W[gb];B[ed];W[ea];B[db];W[da];B[ca];W[fa];B[cb])
+
+(;W[ga];B[ed];W[ea];B[db];W[da];B[ca];W[fa];B[cb])
+
+(;W[fd];B[ec];W[gb];B[fa]
+(;W[ga];B[ea];W[ge];B[ia])
+
+(;W[ge];B[ga];W[ha];B[ea])
+)
+)
+
+(;W[gb];B[fb];W[fd];B[ed];W[fe];B[ha]
+(;W[ec];B[eb];W[dc];B[ga])
+
+(;W[ge];B[ga])
+)
+
+)

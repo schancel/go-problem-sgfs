@@ -1,0 +1,15 @@
+(;GE[life and death]DI[1d]DP[16]SO[elciego]CO[7]AB[rs]AB[qr]AB[qq]AB[rq]AB[pq]AB[or]AB[kq]AB[ko]AW[sr]AW[rr]AW[rp]AW[qp]AW[pp]AW[op]AW[oq]AW[mp]AW[nr]C[Black to save the corner (Please don't make unnecessary forcing moves).]AP[goproblems]
+(;B[os];W[sq];B[mr]
+(;W[mq]
+(;B[ms]C[CHOICERIGHT])
+(;B[lr];W[ns])
+(;B[ns];W[lr]))
+(;W[lr]
+(;B[lq];W[ms];B[mq]C[CHOICERIGHT])
+(;B[nq];W[mq])))
+(;B[ps];W[sq];B[mr];W[ns])
+(;B[ns];W[ms]
+(;B[mr];W[os])
+(;B[os];W[ps];B[pr];W[sq])
+(;B[sq];W[os];B[ps];W[pr]C[You can do better than ko.]))
+(;B[sq];W[os];B[ps];W[pr]C[You can do better than ko.]))

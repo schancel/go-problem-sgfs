@@ -1,0 +1,73 @@
+(;GE[life and death]DI[5k]DP[33]SO[santa c]CO[8]AB[qh]AB[ph]AB[pg]AB[pf]AB[pe]AB[pd]AB[qd]AB[pc]AB[ob]AB[qb]AB[pb]AW[pj]AW[qg]AW[qf]AW[qe]AW[rd]AW[qc]AW[rc]AW[rb]AW[qa]AW[oi]C[What did Black see here?]SZ[19]AW[qk]AP[MultiGo:3.8.6]
+(;B[rg]
+(;W[sf]
+(;B[rf];W[re]C[Please protect at A.FORCE]LB[ri:A];B[ri];W[sg];B[rh]
+(;W[se]
+(;B[ra]
+(;W[sa];B[sc]C[Well done! :)CHOICERIGHT])
+(;W[sc]
+(;B[sa]C[Well done! :)CHOICERIGHT])
+(;B[pa]C[Well done! :)RIGHT])))
+(;B[sc]
+(;W[ra];B[sb]C[Well done! :)  CHOICERIGHT])
+(;W[sb];B[ra]C[Well done! :)  CHOICERIGHT]))
+(;B[sb];W[sc]C[:(])
+(;B[sa];W[ra]C[:(]))
+(;W[ra]
+(;B[se]
+(;W[sd];B[sb]C[Well done! :)  CHOICERIGHT])
+(;W[sb];B[sd]C[Well done! :)  CHOICERIGHT]))
+(;B[sb]
+(;W[se];B[sc]C[Well done! :)  CHOICERIGHT])
+(;W[sc];B[se]C[Well done! :)  CHOICERIGHT]))
+(;B[sc];W[sb]C[:(])
+(;B[sd];W[se]C[:(]))
+(;W[sb];B[ra]C[RIGHT])
+(;W[sc];B[se]C[RIGHT]))
+(;B[sg];W[rf]C[:(])
+(;B[re];W[rf]C[:(])
+(;B[rh];W[rf]C[:(])
+(;B[ra];W[rf]C[:(])
+(;B[sb];W[rf]C[:(]))
+(;W[rf];B[sf];W[re];B[ri]C[RIGHT]TR[ra]TR[sb])
+(;W[re];B[rf]C[RIGHT]TR[ra]TR[se])
+(;W[se];B[rf]C[RIGHT]TR[re]TR[ra])
+(;W[ra];B[re]C[RIGHT]TR[sb]TR[sd])
+(;W[sb];B[ra]C[RIGHT])
+(;W[sc];B[re]C[RIGHT]))
+(;B[re];W[sf]C[:(])
+(;B[rf];W[rg]C[:(])
+(;B[rh];W[sf]C[:(])
+(;B[sh];W[sf]C[:(])
+(;B[sg];W[se]C[:(])
+(;B[sf]
+(;W[rg]C[]
+(;B[rh]
+(;W[se];B[sg]
+(;W[re]
+(;B[sc]
+(;W[ra];B[sb]C[Well done! :)CHOICERIGHT])
+(;W[sb];B[ra]C[Well done! :)CHOICERIGHT]))
+(;B[ra]
+(;W[sa];B[sc]C[Well done! :)CHOICERIGHT])
+(;W[sc]
+(;B[sa]C[Well done! :)CHOICERIGHT])
+(;B[pa]C[Well done! :)RIGHT])))
+(;B[sb];W[sc]C[:(])
+(;B[sa];W[ra]C[:(]))
+(;W[ra];B[re]TR[sd]TR[sb]C[RIGHT]))
+(;W[sg];B[re];W[sd];B[sh]C[RIGHT])
+(;W[ra];B[sg];W[se];B[re]TR[sd]TR[sb]C[RIGHT]))
+(;B[re];W[rf]C[:(])
+(;B[sg];W[rh]LB[ri:1]LB[se:2]LB[sh:3]LB[re:4]LB[qi:5]LB[ra:6]C[Extra weakness...])
+(;B[ra];W[se]C[:(]))
+(;W[rf];B[rg];W[re];B[ri]C[RIGHT])
+(;W[sg];B[rg];W[se];B[sh];W[ra];B[re]TR[sb]TR[sd]C[RIGHT])
+(;W[se];B[rg];W[ra];B[re]TR[sb]TR[sd]C[RIGHT])
+(;W[re];B[rg]TR[ra]TR[sb]C[RIGHT]))
+(;B[se];W[rg]C[:(])
+(;B[ra];W[sf]C[:(])
+(;B[sb];W[sf]C[:(])
+(;B[sa];W[sf]C[:(])
+(;B[sc];W[sf]C[:(])
+(;B[sd];W[sf]C[:(]))

@@ -1,0 +1,9 @@
+(;GE[fuseki]DI[4k]DP[31]SO[shikamaru598]CO[0]AB[pd]AB[pf]AB[qk]AB[pq]AB[np]AB[jp]AW[dp]AW[dd]AW[nc]AW[jd]AB[fq]AW[dn]AW[po]AW[qq]AB[qr]AW[qp]AB[rr]AW[qm]AB[nn]AW[om]AB[on]AW[pn]AB[pl]C[There is a proverb which says 'Only a fool neglects to connect against a peep.' But what about in this case ? Should White connect against the peep of Black 1 or is there something else she should do ?FORCE]TR[pm]TR[nm]TR[rk]TR[ql]TR[rl]TR[rn]AP[goproblems]
+(;W[rk]C[Connecting at A is certainly an important move, but before doing so, White should play 1 ...]LB[pm:A]
+(;B[rj];W[rl]C[... and 3, ...];B[qj];W[pm]C[... then connect at 5. In this way, White creates a base for her stones and  Black's subsequent attack against them will not be so severe.  <= RIGHT])
+(;B[pm];W[rj]))
+(;W[pm]C[Blindly following the proverb by connecting at 1 is bad.];B[rl]C[Black plays 2 and White's stones are rootless, so they will have to run away into the center.  <=])
+(;W[nm]C[CHOICE])
+(;W[ql];B[pk]C[CHOICE])
+(;W[rl];B[rk]C[CHOICE])
+(;W[rn];B[pm]C[CHOICE]))

@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[1k]DP[20]SO[Field Mouse]CO[0]AB[do]AB[eo]AB[en]AB[fo]AB[go]AB[hp]AB[hq]AB[iq]AB[fq]AB[dr]AW[cq]AW[dp]AW[co]AW[dn]AW[em]AB[dm]AW[cn]AW[fm]AW[fn]AW[gn]AW[ho]AW[ip]AW[io]AW[jq]AW[jp]AB[hn]AB[in]AB[hm]AB[jl]AB[gk]AB[dj]AW[dk]AW[ej]AW[fj]AW[gj]AW[di]AW[ci]AW[hk]AW[ik]AW[jk]AW[kl]AW[jm]AW[im]AW[km]AW[lm]AB[hj]AB[ij]AB[jj]AB[kj]AB[kk]AB[hi]AB[gi]AB[fi]AB[ei]AW[bi]AB[ko]AW[mn]AW[mo]AW[mp]C[8d KGS found a nice tesuji here. Can you play it like 8d too?]AP[goproblems]
+(;B[ek];W[cj]
+(;B[fk];W[dj]
+(;B[dl];W[gl]
+(;B[el]LB[fl:A]LB[gm:B]C[Very good, black will get to A or B now!RIGHT])
+(;B[hl];W[il]))
+(;B[hl];W[il]))
+(;B[hl];W[il];B[fk])
+(;B[fl];W[dl]C[Your last move was not a 8d one :(]))
+(;B[hl];W[il];B[ek];W[cj];B[fk];W[dj]
+(;B[dl];W[gl]C[Sorry, you are not 8d.. yet :)])
+(;B[el];W[dl]C[You still have to study a bit to get your 8d :)]))
+(;B[el];W[dl]C[Not the 8d way. Try again!]))

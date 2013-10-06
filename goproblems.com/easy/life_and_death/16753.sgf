@@ -1,0 +1,21 @@
+(;GE[life and death]DI[6k]DP[38]SO[DK2]CO[0]AB[ce]AB[ae]AB[af]AB[bd]AB[bg]AB[cg]AB[cf]AW[ah]AW[bh]AW[ch]AW[cd]AW[cc]AW[bb]AW[ac]AW[ad]AW[aa]AW[ca]AB[dd]AB[ed]AB[eb]AB[gf]AW[gh]AW[gj]AW[de]AB[hc]AB[he]AB[ag]AW[eh]AW[dh]C[White and black just played the numbered exchange.  Is black's left hand group still boxed in by white or has he saved his stones?FORCE]AW[ef]AB[eg]LB[ef:1]LB[eg:2]LB[ck:B still dead]LB[fk:B group alive]AP[goproblems]
+(;W[fk]C[];B[fg]AW[eg]AB[ef]AB[de]AB[eh]AB[ah]AW[ag]AB[bh]AB[ch]AB[dh]AW[bg]AW[cg]AW[af]AW[cf]AW[ae]AW[ce]AW[bd]AB[ad]AB[ac]AB[cd]AB[cc]AB[bb]AB[aa]AB[ca]AW[dd]AW[ed]AW[gf]AW[he]AW[hc]AW[eb]AB[gh]AB[gj]MA[fg]C[They won't survive.  To see why, try to free that group after the marked move.]
+(;W[dg];B[ff]
+(;W[ee];B[df])
+(;W[df];B[ee]))
+(;W[ff];B[dg]
+(;W[df];B[ee])
+(;W[ee];B[df]))
+(;W[df];B[ee]
+(;W[ff];B[dg])
+(;W[dg];B[ff])
+(;W[fe];B[ff]))
+(;W[ee];B[df]
+(;W[ff];B[dg])
+(;W[dg];B[ff])))
+(;W[ck]C[RIGHT];B[il]C[You're right! Now kill that group.]
+(;W[fg];B[ee];W[df];B[ff];W[dg]C[RIGHT])
+(;W[dg];B[ee];W[df]C[RIGHT])
+(;W[ff];B[fg])
+(;W[df];B[dg])
+(;W[fh];B[fg])))

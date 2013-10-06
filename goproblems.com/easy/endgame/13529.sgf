@@ -1,0 +1,10 @@
+(;GE[endgame]DI[8k]DP[47]SO[bass]CO[0]SZ[7]AW[ba]AW[da]AW[ea]AW[cb]AW[db]AW[fb]AW[gb]AW[ac]AW[bc]AW[be]AW[ce]AW[af]AW[cf]AW[cg]AW[eg]AW[fg]AB[eb]AB[cc]AB[ec]AB[fc]AB[gc]AB[bd]AB[cd]AB[dd]AB[ed]AB[gd]AB[de]AB[fe]AB[ge]AB[df]AB[ef]AB[gf]AB[gg]C[No komi, no prisoners, white to play and win.]LB[fa:A]LB[ad:B]LB[dg:C]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ad];B[fa]
+(;W[db]TW[aa]TW[bb]TW[ae]TW[bf]TW[ag]TW[bg]TW[cg]TB[ga]TB[gb]TB[gc]TB[fe]TB[gf]TB[gg])
+(;W[eb]TW[aa]TW[bb]TW[db]TW[ae]TW[bf]TW[ag]TW[bg]TW[cg]TW[dg]TB[ga]TB[gb]TB[gc]TB[fe]TB[gf]TB[gg])
+(;W[dg]C[White wins by one point!RIGHT]TW[aa]TW[ca]TW[ab]TW[bb]TW[ae]TW[bf]TW[ag]TW[bg]TB[ga]TB[fb]TB[gb]TB[dd]TB[fd]TB[ee])
+(;W[ga]C[NOTTHIS]))
+(;W[fa];B[ad]
+(;W[bg];B[dg]C[Only jigo.])
+(;W[dg];B[bg]C[white dies.]))
+(;W[dg];B[ad];W[bg];B[fa]C[Black wins.]))

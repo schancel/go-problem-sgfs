@@ -1,0 +1,49 @@
+(;GE[life and death]DI[4k]DP[28]SO[santa c]CO[7]C[How to handle A?]AB[bo]AB[co]AB[cp]AB[dq]AB[fq]AB[eq]AB[fs]AB[gs]AW[dp]AW[do]AW[dn]AW[cn]AW[ep]AW[fp]AW[gp]AW[gq]AW[gr]AW[hr]AW[hs]AB[fr]AB[bn]AW[er]AW[cm]AW[bm]LB[cq:A]AW[cq]AW[bk]AP[goproblems]
+(;B[bq];W[cr]
+(;B[br];W[dr]C[]
+(;B[bs]C[Better @ C1.. But.. Well done! ;)RIGHT])
+(;B[ap]C[Better A4 @ C1.. But.. Well done! ;)RIGHT])
+(;B[an]C[Better A6 @ C1.. But.. Well done! ;)RIGHT])
+(;B[cs]C[Well done! ;)RIGHT]))
+(;B[ap];W[br]C[Better A4 @ A2])
+(;B[an];W[br]C[Better A6 @ A2])
+(;B[dr]C[W will ony chose to play B2 if he thinks he'll win the ko! Otherwise it's D1 for him..];W[br]
+(;B[es];W[ar]
+(;B[aq];W[cs]C[Won't be seki because B5s dead!])
+(;B[ap];W[cs]C[:S])
+(;B[an];W[cs]C[:S])
+(;B[cs];W[ap]C[:S]))
+(;B[ap];W[ds]C[Better B2 @ A2])
+(;B[an];W[ap]
+(;B[aq];W[ds]C[:S])
+(;B[ar];W[ds]C[:S])
+(;B[cs];W[aq]C[:S])
+(;B[es];W[aq]C[:S])
+(;B[bs];W[ds]C[:S])
+(;B[ds];W[aq]C[:S]))
+(;B[aq];W[ds]C[:S])
+(;B[ar];W[ds]C[:S])
+(;B[cs];W[aq]
+(;B[bp];W[ar]
+(;B[bs];W[an]C[:S])
+(;B[ap];W[an]C[:S])
+(;B[an];W[am]C[:S]))
+(;B[ap];W[bp]MA[bq]C[Ko fight for it all! (Black has a better ko if he first approaches at B1 instead of A4!) And the worst part is that white chose it! (White B2 @ D1 lets him avoid it!)])
+(;B[ao];W[bp]C[:S])
+(;B[bs];W[ar]
+(;B[bp];W[an]C[:S])
+(;B[ap];W[bp]C[Ko fight for it all! And the worst part is that white chose it! (White B2 @ D1 lets him avoid it!)]MA[bq])
+(;B[ao];W[bp]C[:S])))))
+(;B[cr];W[bq]
+(;B[br];W[dr]C[:S])
+(;B[dr];W[br]
+(;B[cs];W[es]
+(;B[bs];W[bp]C[:S])
+(;B[bp];W[bs]C[:S]))
+(;B[es];W[cs]
+(;B[bp];W[bs];B[aq];W[ds]C[:S])
+(;B[bs];W[as]
+(;B[bp];W[bs];B[aq];W[an]C[Not seki because B5's dead!])
+(;B[aq];W[bs];B[bp];W[an]C[Not seki because B5's dead!])))
+(;B[bp];W[cs]C[:S])
+(;B[bs];W[bp]C[:S]))))

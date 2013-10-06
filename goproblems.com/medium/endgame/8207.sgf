@@ -1,0 +1,22 @@
+(;GE[endgame]DI[2d]DP[12]SO[severin333]CO[6]SZ[19]AW[ob]AW[rb]AW[oc]AW[sc]AW[pd]AW[qd]AW[rd]AB[mb]AB[nb]AB[nc]AB[nd]AB[od]AB[sd]AB[pe]AB[qe]AB[re]AB[se]C[Black to reduce White's territory with a nice tesuji in sente. Black can win kos.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[qb]
+(;W[pb]
+(;B[ra];W[qc];B[sb];W[qa];B[rc];W[sa];B[sc];W[ra]C[You did it !RIGHT])
+(;B[qa];W[pa];B[qc];W[ra]C[seems that you loose many points here !])
+(;B[pa];W[oa];B[qa];W[qc]C[ok , try again.])
+(;B[qc];W[qa]C[Try again please.]))
+(;W[pa]C[];B[ra];W[qa];B[pc];W[rc];B[na]C[White is dead, such a mistake !]))
+(;B[pb];W[pc];B[oa];W[qb];B[pa];W[qa];B[na]C[A bit worse than the correct answer, and gote.])
+(;B[pc];W[pb]C[hmm...];B[qc];W[rc]C[No way for black to play like this.])
+(;B[oa];W[pb];B[pa];W[qa];B[na]C[poor gote moves.])
+(;B[pa]C[]
+(;W[oa]C[Here white make a mistake.];B[qb]
+(;W[pb]C[];B[ra];W[qc];B[sb];W[qa];B[rc];W[sa];B[sc]C[White can now play elsewhere, so you end in gote moreover, you loose points compared to the correct answer...])
+(;W[qc]C[This is a mistake for white to play here];B[na];W[pc]
+(;B[sb];W[sa];B[ra]C[A two step ko, nice to have find it])
+(;B[ra]C[];W[sb]C[Play T to tenuki]LB[me:T];B[qa]C[seki. (White has too much to loose in the ko)])))
+(;W[pb]C[Here white make a mistake.]
+(;B[oa];W[qa];B[na]C[Really bad for black])
+(;B[ra];W[qb]C[hmm, why don't you try again ?])
+(;B[qb];W[qc];B[ra];W[oa]C[White could also play the ko at R19 if he had some threats];B[sb];W[qa];B[rc];W[sa]C[White could also play a ko threat here];B[sc];W[ra]C[Slightly worse than the solution.]))
+(;W[qb]C[Best white answer to bQ19FORCE];B[oa]C[Poor gote movesCHOICE])))

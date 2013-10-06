@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[4k]DP[29]SO[Zwom]CO[8]SZ[19]AW[cc]AW[hc]AW[pe]AW[cg]AW[fh]AW[jh]AW[ii]AW[mi]AW[bj]AW[ek]AW[qk]AW[ol]AW[co]AW[eo]AW[ko]AW[hp]AW[lp]AW[pp]AW[oq]AW[or]AW[ns]AB[cb]AB[bc]AB[gc]AB[bd]AB[od]AB[pd]AB[qe]AB[lf]AB[bg]AB[gh]AB[gi]AB[ni]AB[cj]AB[jj]AB[kj]AB[qj]AB[dn]AB[do]AB[qo]AB[ep]AB[ip]AB[qp]AB[nq]AB[pq]AB[nr]TR[pe]TR[cc]TR[eo]TR[pp]AW[jr]AW[ca]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[dc];W[cd];B[ce];W[dd];B[ed];W[de];B[df];W[ee];B[fe];W[ef];B[eg];W[ff]LB[gf:A]LB[fg:B]C[If black A or B white Cuts and Destroys..])
+(;B[pf];W[oe];B[ne];W[of];B[og];W[nf]
+(;B[mf];W[ng]
+(;B[mg];W[nh];B[oh];W[mh]C[Black is all done.])
+(;B[nh];W[mg];B[mh];W[lg];B[kg]C[Can't bleed a turnip.];W[lh]TR[kh]TR[li]C[Can't bleed a turnip.]))
+(;B[ng];W[mf];B[mg];W[me];B[md];W[le];B[ke];W[ld];B[lc];W[nd]))
+(;B[op];W[po];B[pn];W[oo]C[No way hot shot.])
+(;B[fo];W[en];B[em];W[fn];B[gn];W[fm];B[fl];W[gm];B[hm];W[gl];B[gk];W[hl]
+(;B[il];W[hk];B[hj];W[ik];B[ij];W[jk];B[jl];W[kk];B[lk];W[kl];B[km];W[ll];B[ml]
+(;W[lm];B[ln];W[mm];B[nm];W[mn];B[mo];W[nn];B[on];W[no];B[np];W[oo]
+(;B[po];W[op];B[pr];W[os]
+(;B[ms]C[RIGHT])
+(;B[ps]
+(;W[cs])
+(;W[ms];B[mr];W[ls]
+(;B[ks];W[lr];B[lq];W[kr])
+(;B[lr];W[ks];B[kr];W[js];B[jr];W[is]))))
+(;B[op];W[po];B[pn]C[RIGHT]))
+(;W[mm]))
+(;B[jl]))
+(;B[de])
+(;B[dd];W[dc];B[ec];W[db];B[bb];W[eb];B[ed];W[gb];B[fb];W[fa];B[fc];W[hb];B[ea];W[da];B[cd];W[ea]))

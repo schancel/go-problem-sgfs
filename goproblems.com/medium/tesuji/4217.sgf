@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[1k]DP[19]SO[Hans]CO[7]AW[eg]AW[bh]AW[ch]AW[ei]AW[fi]AW[bj]AW[ck]AW[dk]AW[bl]AW[el]AW[dm]AW[em]AW[en]AW[gn]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[gp]AB[bi]AB[gi]AB[dj]AB[ej]AB[gj]AB[ek]AB[gk]AB[cl]AB[dl]AB[bm]AB[cm]AB[dn]AB[bo]AB[co]AB[do]C[Black to play.]
+(;B[aj]
+(;W[ci]
+(;B[bk]
+(;W[cj]
+(;B[al]C[RIGHT])
+(;B[ak];W[ai];B[al]C[RIGHT]))
+(;W[ak];B[cj]
+(;W[ai];B[bk]LB[bn:A]C[Depending on the circumstances white may choose this line, but black escapes and has an eye around A. Usually it would be better for white to let black live as in the main line and see what he can do with the black stones on the outside.])
+(;W[bk];B[al]C[Oops, white cannot connect.])))
+(;B[cj];W[bk])
+(;B[al];W[bk]))
+(;W[ak]C[This would be a mistake by white];B[cj];W[ai];B[bk];W[ck]C[Now black is connected to the outside.]))
+(;B[cj];W[bk]
+(;B[ci];W[ai])
+(;B[ai];W[ci])
+(;B[aj];W[ci]))
+(;B[al];W[bk]
+(;B[cj];W[ci])
+(;B[ci];W[ai];B[aj];W[ak];B[cj];W[am];B[an];W[ah]))
+(;B[ci];W[ai])
+(;B[bk];W[ak]
+(;B[cj];W[bk]
+(;B[ci];W[ai])
+(;B[ai];W[ci])
+(;B[am];W[ci]))
+(;B[ci];W[ai]))
+(;B[bn];W[ci]C[Black cannot get two eyes.]))

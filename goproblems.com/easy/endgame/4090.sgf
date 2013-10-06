@@ -1,0 +1,11 @@
+(;GE[endgame]DI[10k]DP[53]SO[wtd]CO[8]SZ[7]AW[ba][da][fa][ga][ab][cb][db][gb][ac][bc][ad][bf][cf][df][ef][ff][gf][ag][bg]
+AB[eb][cc][dc][ec][fc][gc][bd][ed][gd][ae][be][ce][de][ee][fe][ge][af][eg][fg]
+C[No komi, no prisoners yet - Black to win. FORCE]
+
+(;B[ea];W[dg]C[RIGHT You won by 1. Making seki was only worth 6 points, 1 less than the capture.])
+
+(;B[dg];W[ea]C[Jigo. The capture was worth 7 points, 1 more than making seki.])
+
+(;B[cg];W[ea]C[You lost by 8. A win by 1 was possible.])
+
+(;B[gg];W[ea]C[You lost by 8. A win by 1 was possible.]))

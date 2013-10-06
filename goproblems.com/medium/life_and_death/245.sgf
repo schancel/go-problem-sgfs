@@ -1,0 +1,35 @@
+(;GE[life and death]DI[2d]DP[13]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[pp][pj][cj][jp]AW[do][dq][dd][rc][rd][qc][pc][oc][nc][od][qf]AB[re][qd][pd][pe][oe][nd][md]LB[qf:1]C[white played at 1. how to respond?]
+(;B[pg]CR[pg]
+;W[qe]CR[qe]C[good start...]
+(;B[rf]CR[rf]
+;W[qg]CR[qg]
+(;B[qh]CR[qh]
+;W[rg]CR[rg]
+;B[rh]CR[rh]
+;W[se]CR[se]
+;B[pf]CR[pf]
+;W[sf]CR[sf]C[RIGHT
+black is solid on outside and has sente])
+(;B[rg]CR[rg]
+;W[qh]CR[qh]))
+(;B[qg]CR[qg]
+;W[rf]CR[rf]LB[rg:A]C[this isn't so great... if black encloses at A, gote])
+(;B[pf]CR[pf]
+;W[rf]CR[rf]))
+(;B[qe]CR[qe]
+;W[ne]CR[ne]C[the ladder works for white; black is cut])
+(;B[qg]CR[qg]
+;W[rf]CR[rf]
+;B[qe]CR[qe]
+;W[se]CR[se]C[not good])
+(;B[rf]CR[rf]
+;W[ne]CR[ne])
+(;B[nf]CR[nf]
+;W[qe]CR[qe])
+(;B[mf]CR[mf]
+;W[qe]CR[qe])
+(;B[rg]CR[rg]
+;W[rf]CR[rf]
+;B[qe]CR[qe]
+;W[se]CR[se]))

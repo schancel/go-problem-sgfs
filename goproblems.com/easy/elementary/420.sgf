@@ -1,0 +1,13 @@
+(;GE[elementary]DI[7k]DP[42]SO[adum]CO[7]AW[pa][pb][sb][pc][pd][qe][pf][rf][rg][sg]AB[qa][qb][qc][rc][qd][sd][re][se][sf]LB[sb:1]C[white plays at 1. how to respond?]
+(;B[rb]CR[rb]C[RIGHT
+white is dead])
+(;B[sc]CR[sc]
+;W[ra]CR[ra]C[seki: black can't kill white now])
+(;B[ra]CR[ra]
+;W[sc]CR[sc]C[black dies.])
+(;B[sa]CR[sa]
+;W[ra]CR[ra]
+(;B[rb]CR[rb]C[RIGHT])
+(;B[sc]CR[sc]C[seki]))
+(;B[rd]CR[rd]
+;W[ra]CR[ra]C[black is dead (white did not even need to play that last move)]))

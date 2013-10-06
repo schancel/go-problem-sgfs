@@ -1,0 +1,14 @@
+(;GE[endgame]DI[7k]DP[44]SO[wtd]CO[9]SZ[9]AW[ga][eb][gb][bc][ec][fc][gc][hc][ic][bd][cd][dd][fd][ae][be][de][ee][fe][ge][he][bf][cf][ef][gf][bg][ah][bh][dh]AB[ca][da][fa][ab][bb][db][ac][cc][dc][ad][gd][hd][ie][df][ff][hf][if][cg][dg][eg][fg][gg][ig][eh][hh][bi][di][ei]
+LB[ea:X][id:Y][ch:Z]C[No komi, no prisoners yet - Black to win. FORCE]
+
+(;B[ch];W[id];B[ea]LB[id:Y][ch:Z]C[RIGHT You won by 1. By starting at 'Z' (miai value 1.75), and letting white have the larger local move at 'Y' (miai value 2), you got the last play at 'E9' (miai value 1.5). In other words, you kept tedomari. This, and related concepts, are more fully explained in Sensei's Library.])
+
+(;B[id];W[ch]
+(;B[ci];W[ea]LB[id:Y][ch:Z]C[Only jigo. You started with the biggest local move at 'Y' (miai value 2); but this let white play at 'Z' (miai value 1.75), which leaves an extra move at 'C1' in addition to 'E9'. These 2 moves (miai value 1.5 each) were shared, so white got the last play. In other words, by not playing 'Z' first, you allowed white take tedomari.])
+
+(;B[ea];W[ci]LB[id:Y][ch:Z]C[Only jigo. You started with the biggest local move at 'Y' (miai value 2); but this let white play at 'Z' (miai value 1.75), which leaves an extra move at 'C1' in addition to 'E9'. These 2 moves (miai value 1.5 each) were shared, so white got the last play. In other words, by not playing 'Z' first, you allowed white take tedomari.]))
+
+(;B[ea];W[ch]
+(;B[id];W[ci]LB[ea:X][ch:Z]C[Only jigo. You chose the smallest local move at 'X' (miai value 1.5), and this let white play at 'Z' (miai value 1.75), which leaves an extra move at 'C1' (miai value 1.5) in addition to 'J6' (miai value 2). So, even though you got the biggest local play, white got the last play. In other words, by not playing 'Z' first, you allowed white take tedomari.])
+
+(;B[ci];W[id]LB[ea:X][ch:Z]C[A 1 point defeat - inferior to the solution by 2. You started with the smallest local move at 'X' (miai value 1.5), and this let white play at 'Z' (miai value 1.75), which leaves an extra move at 'C1' (miai value 1.5) in addition to 'J6' (miai value 2), allowing white to make the last play. Your 2nd move was also wrong, as you chose the smaller option and got nothing in return.])))

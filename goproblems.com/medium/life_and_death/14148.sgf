@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1d]DP[17]SO[bostongo]CO[0]AB[pa]AB[pb]AB[nb]AB[oc]AB[od]AB[oe]AB[qe]AB[re]AB[se]AB[pf]AB[pg]AB[qh]AB[rh]AW[sf]AW[rf]AW[qf]AW[pe]AW[pd]AW[pc]AW[qc]AW[qd]AW[ob]AW[oa]AP[goproblems]
+(;B[rb];W[qb];B[na]
+(;W[qa];B[sc]
+(;W[sb]
+(;B[sa];W[ra]C[]
+(;B[rc];W[sb]C[ko, White takes first.])
+(;B[rd];W[sb]C[ko, White takes first.]))
+(;B[ra];W[rd])
+(;B[rc];W[rd])
+(;B[sd];W[ra];B[sa]C[ko, Black takes first.RIGHT])
+(;B[rd];W[ra];B[sa]C[ko, Black takes first.RIGHT]))
+(;W[ra];B[sb];W[rd];B[sd]C[RIGHT]))
+(;W[ra];B[qa];W[rd];B[sa]C[RIGHT]))
+(;B[ra];W[rb]
+(;B[na];W[rd])
+(;B[rd];W[rc]
+(;B[na];W[sd])
+(;B[sb];W[sd];B[re];W[qa])))
+(;B[qb];W[rb];B[na];W[rd])
+(;B[rd];W[rc])
+(;B[sb];W[rb])
+(;B[na];W[rb]
+(;B[ra])
+(;B[rd];W[rc])))

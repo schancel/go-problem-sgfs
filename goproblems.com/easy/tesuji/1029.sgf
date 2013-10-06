@@ -1,0 +1,106 @@
+(;GE[tesuji]DI[4k]DP[30]SO[Hans]CO[7]
+C[White to connect her stones. 
+]AW[bo][co][cp][dp][eq][fq][gq][gr]
+AB[ck][hn][do][bp][ep][bq][cq][dq][er][fr][ds]
+(;W[eo];B[fp]
+(;W[go];B[fo]
+(;W[fn];B[en]
+(;W[gp];B[eo]
+(;W[em];B[dn]
+(;W[dm];B[cn]
+(;W[bn];B[cm]
+(;W[cl];B[bm]
+(;W[bl]C[
+];B[am]
+(;W[an];B[ao]C[Oops.
+])
+
+(;W[al];B[ao];W[an]C[RIGHT
+])
+)
+
+(;W[am];B[bl])
+)
+
+(;W[bm];B[cl])
+)
+
+(;W[cm];B[bn]C[Oh, no!
+])
+)
+
+(;W[cn];B[dm]
+(;W[dl]
+(;B[cm];W[cl];B[bm]C[White loses.
+])
+
+(;B[cm];W[bm];B[cl])
+)
+
+(;W[cm];B[dl])
+)
+)
+
+(;W[dn];B[em])
+
+(;W[fm];B[cn];W[em];B[dn];W[bn];B[dl]C[Black escapes.
+])
+)
+
+(;W[dn];B[gn]
+(;W[fm];B[gp]
+(;W[eo];B[hp])
+
+(;W[ho];B[hp];W[io];B[hr])
+)
+
+(;W[eo];B[fm])
+)
+
+(;W[em];B[gn];W[fm];B[gp]C[Black escapes.
+])
+)
+
+(;W[dn];B[fn])
+
+(;W[gp];B[fn])
+)
+
+(;W[dn];B[go]C[White is split into two.
+])
+
+(;W[fo];B[gp]C[Black can escape.
+])
+
+(;W[en];B[go]C[White is split into two.
+])
+
+(;W[gp];B[fo]C[Black's pivotal stones escape.
+])
+)
+
+(;W[fo];B[eo]C[Black escapes.
+])
+
+(;W[dn];B[eo]
+(;W[en];B[fo]C[Black escapes.
+])
+
+(;W[fn];B[en];W[em];B[cn]C[
+]
+(;W[dm];B[bn])
+
+(;W[bn];B[dm];W[cm];B[dn];W[dl];B[bm]
+(;W[cl];B[an])
+
+(;W[fo];B[cl];W[fp];B[cm])
+)
+
+(;W[fo];B[dm];W[fp];B[dn];W[bn];B[dl])
+)
+)
+
+(;W[fp];B[eo]C[White achieves nothing.
+])
+
+)

@@ -1,0 +1,106 @@
+(;GE[best move]DI[1k]DP[18]SO[santa c]CO[8]C[Black would love to live...]AB[bp]AB[cp]AB[dq]AB[dr]AB[ds]AW[es]AW[er]AW[eq]AW[ep]AW[do]AW[co]AW[bo]AW[br]AW[bm]AP[goproblems]
+(;B[ar]
+(;W[aq]
+(;B[bq];W[as]
+(;B[ap];W[dp]
+(;B[ar]MA[aq];W[cs]
+(;B[bs]MA[as]C[Well done! A ko which Black takes first! =)RIGHT])
+(;B[aq];W[cq]C[:(])
+(;B[cq];W[aq]C[White takes first :(]MA[ar]))
+(;B[cr];W[ao];B[ar]MA[aq]C[Well done! A ko which Black takes first! =)RIGHT])
+(;B[bs];W[cs]
+(;B[ar]MA[aq];W[cq]C[:(])
+(;B[cq];W[ar]C[:(]))
+(;B[cs];W[ao];B[ar]MA[aq];W[cq];B[cr];W[aq]MA[ar]C[White takes first :(])
+(;B[cq];W[ar]C[Dead shape :(]))
+(;B[dp];W[ap]C[:(])
+(;B[bs];W[dp]
+(;B[ar]MA[as]C[Well done! A ko which Black takes first! :)RIGHT])
+(;B[cr];W[cs]MA[bs]C[White takes first :(])
+(;B[ap];W[cs])
+(;B[cs];W[cq]C[:(])
+(;B[cq];W[cs]C[:(])
+(;B[ao];W[cs]C[:(]))
+(;B[cr];W[ap];B[bs];W[cs]MA[bs]C[White takes first! (bA5 wD4 kills, not a local threat >_>)])
+(;B[ao];W[dp]
+(;B[cr];W[an];B[bs];W[cs]MA[bs]C[White takes first :(])
+(;B[ap];W[cs]
+(;B[ar]MA[aq];W[cq]C[:(])
+(;B[cq];W[ar]C[:(]))
+(;B[bs];W[cs]C[:(])
+(;B[cs];W[an]C[:(])))
+(;B[ap];W[bq]
+(;B[dp];W[bs]C[The eye wins the semeai :(])
+(;B[cq];W[bs]C[The eye wins the semeai :(])
+(;B[bs];W[dp]
+(;B[cr];W[as]MA[ar]C[White takes first :(])
+(;B[cq];W[as]MA[ar]C[White takes first :(]))
+(;B[cr];W[bs]C[The eye wins the semeai :(])
+(;B[cs];W[bs]C[The eye wins the semeai :(]))
+(;B[ao];W[bq]C[White either connects or makes an eye and wins the semeai :(]TR[ap]TR[bs])
+(;B[bs];W[bq];B[ap];W[dp]
+(;B[cr];W[as]C[White takes first :(]MA[ar])
+(;B[cq];W[as]MA[ar]C[White takes first :(]))
+(;B[dp];W[ap]C[:(])
+(;B[cq];W[ap]C[:(])
+(;B[cr];W[bq]C[White either connects outside or makes an eye and wins the semeai :(]TR[ap]TR[bs])
+(;B[cs];W[ap]C[:(]))
+(;W[bq];B[aq];W[dp];B[cq];W[bs];B[cr]C[Seki])
+(;W[ap];B[bq];W[bs];B[cr];W[dp]C[Seki])
+(;W[cr];B[bq];W[bs];B[ap];W[dp];B[cq];W[ao]C[Seki])
+(;W[bs];B[bq]
+(;W[ap];B[cr];W[dp]C[Seki])
+(;W[cr];B[ap];W[dp];B[cq];W[ao]C[Seki]))
+(;W[dp];B[cr];W[aq];B[bq];W[as];B[ap];W[ao];B[ar]MA[aq]C[RIGHT]))
+(;B[bq];W[ar]
+(;B[cr];W[ap];B[aq];W[dp];B[ao];W[bs]C[:(])
+(;B[dp];W[cr]
+(;B[bs];W[ap];B[aq];W[cs]C[:(])
+(;B[ap];W[bs]C[:(])
+(;B[aq];W[bs]C[:(])
+(;B[ao];W[bs]C[:(])
+(;B[cs];W[bs]C[:(]))
+(;B[ap];W[cr]
+(;B[dp];W[bs]C[:(])
+(;B[cq];W[bs]C[:(])
+(;B[bs];W[dp]
+(;B[cq];W[cs]C[:(])
+(;B[cs];W[cq]C[:(]))
+(;B[cs];W[dp]
+(;B[cq];W[bs]C[:(])
+(;B[bs];W[cq]C[:(])))
+(;B[aq];W[cr]
+(;B[bs];W[dp]C[:(])
+(;B[cs];W[dp]C[:(])
+(;B[dp];W[bs]C[:(]))
+(;B[bs];W[cr]
+(;B[dp];W[ap];B[aq];W[cs]C[:(])
+(;B[ap];W[dp]C[:(])
+(;B[cs];W[dp]C[:(]))
+(;B[ao];W[bs]TR[cr]TR[dp]C[The eye wins the semeai :(]))
+(;B[ap];W[ar]
+(;B[bq];W[cr]C[:(]TR[bs]TR[dp])
+(;B[cr];W[bs]C[The eye wins the semeai :(]TR[bq]TR[dp])
+(;B[bs];W[cr]TR[dp]TR[cs]C[:(])
+(;B[dp];W[bs]C[The eye wins the semeai :(]TR[cr]TR[bq])
+(;B[cq];W[bs]C[The eye wins the semeai :(])
+(;B[cs];W[bs]C[The eye wins the semeai :(]))
+(;B[aq];W[ar]
+(;B[bs];W[cr]TR[cs]TR[dp]C[:(])
+(;B[cs];W[bq];B[ap];W[bs]C[The eye wins the semeai :(])
+(;B[bq];W[cr]TR[bs]TR[dp]C[:(])
+(;B[cr];W[bq];B[ap];W[bs]C[:(])
+(;B[dp];W[bq];B[ap];W[bs]C[The eye wins the semeai :(])
+(;B[cq];W[bq];B[ap];W[bs]C[The eye wins the semeai :(])
+(;B[ap];W[bs]C[The eye wins the semeai :(]))
+(;B[cr];W[bq]
+(;B[ap];W[bs]TR[ar]TR[dp]C[:(])
+(;B[aq];W[ar];B[ap];W[bs]C[:(]))
+(;B[cq];W[ar]TR[ap]TR[bs]C[:(])
+(;B[cs];W[ar]TR[ap]TR[bs])
+(;B[bs];W[ar]
+(;B[aq];W[cr]C[:(]TR[dp]TR[cs])
+(;B[ap];W[cr]TR[cs]TR[dp]C[:(])
+(;B[bq];W[ap];B[aq];W[dp]C[:(])
+(;B[cr];W[ap]C[:(]))
+(;B[dp];W[ar]TR[bs]TR[ap]C[:(]))

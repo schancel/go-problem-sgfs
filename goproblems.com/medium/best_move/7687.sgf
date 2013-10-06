@@ -1,0 +1,77 @@
+(
+;GE[best move]DI[3d]DP[11]SO[gkmm]CO[5]
+FF[1]
+GM[1]
+SZ[8]
+AP[Jago:Version 4.7]
+GN[Problem]
+AB[ea][fa][fb][ga][hb][hc][gd][ge][gf][ff][ef][df][ag][bf][cf][bg][de][cb]
+AW[da][eb][dc][fc][dd][fd][ee][fe][ce][be][ae][af][Pass][Pass][Pass][Pass]
+C[Black just played one. Whats the best move for white?]
+LB[cb:1]
+C[Black just played one. Whats the best move for white?]
+(
+;
+W[db]
+;
+B[cd]
+(
+;
+W[bd]
+;
+B[cc]
+;
+W[bc]
+;
+B[bb]
+C[White dies :(]
+)
+(
+;
+W[cc]
+;
+B[bd]
+;
+W[bc]
+;
+B[ad]
+;
+W[ac]
+C[This is not good for white :(]
+)
+)
+(
+;
+W[cc]
+;
+B[db]
+;
+W[bb]
+;
+B[ec]
+;
+W[ba]
+;
+B[ca]
+C[Good, but white can do better.]
+)
+(
+;
+W[bc]
+;
+B[db]
+;
+W[ec]
+;
+B[bb]
+;
+W[ab]
+;
+B[gc]
+;
+W[cc]
+;
+B[ca]
+C[RIGHT]
+)
+)

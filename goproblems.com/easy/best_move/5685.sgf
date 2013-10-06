@@ -1,0 +1,23 @@
+(;GE[best move]DI[10k]DP[54]SO[bogus]CO[7]AB[al]AB[bl]AB[cl]AB[ck]AB[cj]AB[ci]AB[ch]AB[bg]AB[cg]AB[ah]AW[ag]AW[af]AW[bf]AW[cf]AW[df]AW[dg]AW[dh]AW[di]AW[dj]AW[dk]AW[dl]AW[dm]AW[cm]AW[am]AW[bm]C[What is the best SENTE sequence for white?]AP[goproblems]
+(;W[bh];B[bi]C[Not very good for white, black got many area points and prisoners.])
+(;W[ai];B[aj]
+(;W[bh];B[bi];W[ah];B[bk]C[Only two area points left for black, and one prisoner for you, and you do it in sente, well done.RIGHT])
+(;W[bi];B[bh]C[Not very good for white, black got many area points and prisoners.]
+(;W[bj];B[bk]C[Not very good for white, black got many area points and prisoners.])
+(;W[ak];B[bj]C[Not very good for white, black got many area points and prisoners.])))
+(;W[aj];B[bj]
+(;W[ai];B[bh];W[ak]C[Seki in gote, white can do better.])
+(;W[ak];B[ai]C[Not very good for white, black got many area points and prisoners.]
+(;W[bi];B[bh]C[Not very good for white, black got many area points and prisoners.])
+(;W[bh];B[bi]C[Not very good for white, black got many area points and prisoners.]))
+(;W[bi];B[ak]C[Not very good for white, black got many area points and prisoners.]
+(;W[bh];B[ai]C[Not very good for white, black got many area points and prisoners.])
+(;W[ai];B[bh]C[Not very good for white, black got many area points and prisoners.])))
+(;W[bj];B[bi]C[Not very good for white, black got many area points.];W[aj];B[ai]C[Not very good for white, black got many area points.])
+(;W[bi];B[bj]
+(;W[ai];B[bh]C[Not very good for white, black got many area points and prisoners.]
+(;W[ak];B[aj]C[Not very good for white, black got many area points and prisoners.])
+(;W[aj];B[ak]C[Not very good for white, black got many area points and prisoners.]))
+(;W[bh];B[ai]C[Not very good for white, black got many area points and prisoners.]))
+(;W[ak];B[bi]C[Not very good for white, black got many area points and prisoners.])
+(;W[bk];B[bi]C[Not very good for white, black got many area points and prisoners.]))

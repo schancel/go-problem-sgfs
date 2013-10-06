@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[5k]DP[34]SO[MrMoto]CO[7]AW[jc]AW[ec]AW[gd]AB[cc]AB[de]AW[pd]AB[qf]AB[pj]AB[nj]AB[mk]AB[lj]AB[jj]AB[ik]AB[il]AB[dj]AW[fk]AW[hk]AW[hl]AW[gm]AW[fm]AW[fn]AW[dn]AB[cp]AB[eq]AB[fo]AB[go]AB[gn]AB[hm]AB[hq]AB[ip]AW[ho]AW[io]AW[jo]AW[jp]AW[kp]AW[jn]AW[kn]AW[ln]AW[mm]AW[ml]AW[ll]AW[nl]AW[nk]AB[ko]AB[lo]AB[lp]AB[jq]AB[kq]AB[mn]AB[no]AB[nm]AB[om]AW[oo]AW[oq]AW[pq]AW[qp]AW[qo]AW[qn]AW[rn]AB[ro]AB[rp]AB[qq]AB[qr]C[Please play at A to follow the game for a few moves.FORCE]LB[pk:A]AP[goproblems];W[pk];B[qm]LB[ql:A]C[FORCE];W[ql];B[pl]LB[qk:A]C[FORCE];W[qk];B[oj]C[Ok, now what should white do?]
+(;W[ok];B[rm]C[This is what happened in the game.  White now has two weak groups.])
+(;W[ol];B[pm]
+(;W[ok];B[rm]C[White now has two weak groups.])
+(;W[rm];B[ok];W[nn];B[on];W[pn];B[nn];W[np];B[mo];W[lq];B[mp];W[mq]C[:)RIGHT]))
+(;W[qi];B[ok])
+(;W[qj];B[ok])
+(;W[rj];B[ok])
+(;W[ri];B[ok])
+(;W[rk];B[ok])
+(;W[rl];B[ok])
+(;W[rm];B[ok]
+(;W[pm];B[ol])
+(;W[ol];B[pm];W[nn];B[on];W[pn];B[nn];W[np];B[mo];W[lq];B[mp];W[mq]C[:)RIGHT])))

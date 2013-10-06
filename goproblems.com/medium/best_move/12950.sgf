@@ -1,0 +1,95 @@
+(;GE[best move]DI[1d]DP[17]SO[Bleedo]CO[0]AW[oq]AW[op]AW[mq]AW[lp]AW[kp]AB[jp]AB[ip]AB[iq]AB[ir]AB[jr]AB[kq]AW[jo]AW[io]AW[in]AW[gp]AW[hp]AB[gr]AW[fq]AB[gq]AW[gn]AB[ko]AB[lo]AB[mo]AB[no]AB[oo]AB[mn]AW[kn]AW[ln]AW[lm]AW[mm]AW[nm]AW[om]AW[pn]AW[po]AW[qn]AW[rn]AB[pp]AB[pq]AB[qp]AB[qo]AB[ro]AW[qq]TR[mq]C[Here at goproblems.com, we don't allow mistakes.  White can win any ko.]AB[hq]AW[fr]AW[fp]AB[hs]AP[goproblems]
+(;B[or];W[nr];B[nq];W[np];B[mp];W[nq]
+(;B[lq];W[pr];B[qr];W[os]
+(;B[rq];W[lr]C[White lives but all your stones are secure.RIGHT])
+(;B[rr];W[lr]C[White lives but all your stones are secure.RIGHT])
+(;B[qs]
+(;W[rq];B[ps]C[RIGHT])))
+(;B[lr];W[pr];B[qr];W[os]
+(;B[lq];W[rq])
+(;B[rq];W[lq])
+(;B[rr];W[lq]))
+(;B[pr];W[lq])
+(;B[qr];W[lq]))
+(;B[lq];W[or]
+(;B[pr];W[mp];B[mr];W[np])
+(;B[mp];W[pr]
+(;B[rq];W[qr];B[sp];W[sn]
+(;B[rr];W[so];B[rp];W[rs])
+(;B[so];W[rr];B[sr];W[mr]))
+(;B[qr];W[rq]))
+(;B[mr];W[mp])
+(;B[nq];W[pr];B[rq];W[qr]
+(;B[sp];W[sn];B[so];W[rr];B[sr];W[mr])
+(;B[rr];W[so];B[rp];W[rs];B[qs];W[ps];B[sr];W[mr]))
+(;B[nr];W[mp])
+(;B[np];W[mr];B[mp];W[pr]C[The corner dies.]))
+(;B[mp];W[or]
+(;B[pr];W[lq]
+(;B[nq];W[nr]
+(;B[lr];W[mr];B[ms];W[np])
+(;B[os];W[lr]
+(;B[np];W[ms])
+(;B[ns];W[np];B[ms];W[mr]))
+(;B[np];W[lr]))
+(;B[np];W[nq])
+(;B[lr];W[mr];B[os];W[ms];B[nq];W[nr];B[ls];W[np]))
+(;B[lq];W[pr]
+(;B[qr];W[rq])
+(;B[rq];W[qr];B[sp];W[sn]
+(;B[rr];W[so];B[rp];W[rs])
+(;B[so];W[rr];B[sr];W[mr])))
+(;B[nq];W[pr];B[rq];W[qr];B[rr];W[so];B[rp];W[rs]
+(;B[sr];W[sp])
+(;B[qs];W[sp];B[sr];W[mr]))
+(;B[nr];W[nq];B[lq];W[pr]
+(;B[rq];W[qr]
+(;B[sp];W[sn];B[so];W[rr];B[sr];W[mr])
+(;B[rr];W[so];B[rp];W[rs];B[qs];W[sp]))
+(;B[qr];W[rq]))
+(;B[lr];W[mr];B[lq];W[pr];B[rq];W[qr]
+(;B[rr];W[so];B[rp];W[rs]
+(;B[qs];W[sp])
+(;B[sr];W[qs]))
+(;B[sp];W[sn];B[rr];W[so];B[rp];W[rs]))
+(;B[mr];W[pr]C[The corner dies.]))
+(;B[mr];W[or]
+(;B[pr];W[mp];B[lq];W[np])
+(;B[mp];W[pr]
+(;B[qr];W[rq])
+(;B[rq];W[qr]
+(;B[sp];W[sn]
+(;B[so];W[rr];B[sr];W[rs]C[This ko is as hopeless as they come])
+(;B[rr];W[so];B[rp];W[rs];B[qs];W[ps]))
+(;B[rr];W[so];B[rp];W[rs]
+(;B[sr];W[qs])
+(;B[qs];W[sp];B[ss];W[sq])))))
+(;B[nq];W[or]
+(;B[nr]
+(;W[np]
+(;B[lq];W[mr];B[mp];W[pr]C[The corner dies.])
+(;B[mp]))
+(;W[pr]
+(;B[rq];W[qr];B[rr];W[so];B[rp]
+(;W[rs])
+(;W[np];B[mp];W[mr]))
+(;B[qr];W[rq])))
+(;B[np];W[nr]
+(;B[lq];W[mr];B[mp];W[pr]
+(;B[rq];W[qr]
+(;B[sp];W[sn]
+(;B[rr];W[so];B[rp];W[rs])
+(;B[so];W[rr];B[sr];W[rs]C[]))
+(;B[rr];W[so];B[rp];W[rs];B[qs];W[sp];B[ss];W[sq]))
+(;B[qr];W[rq]))
+(;B[mr];W[lr];B[lq];W[ms];B[mp];W[pr];B[rq];W[qr];B[sp];W[sn]
+(;B[rr];W[so];B[rp];W[rs])
+(;B[so];W[rr];B[sr]
+(;W[mr])
+(;W[rs]C[White has way too many liberties to worry about the t3 ko]))))
+(;B[mp];W[pr]C[The corner dies.])
+(;B[lq];W[pr]C[The corner dies.]))
+(;B[nr];W[mp])
+(;B[np];W[nq])
+(;B[lr];W[mp])
+(;B[pr];W[mp]))

@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[5k]DP[33]SO[sabetts]CO[0]SZ[19]AW[qm]AW[on]AW[qo]AW[ro]AW[np]AW[qp]AW[pq]AW[pr]AW[sr]AB[lo]AB[pp]AB[rp]AB[sp]AB[lq]AB[qq]AB[rq]AB[qr]TR[sr]C[White plays the triangle stone. How can black save his corner?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[or];W[ps]
+(;B[op];W[oq];B[nq];W[oo])
+(;B[oq];W[op]))
+(;B[op];W[nq];B[oq];W[or];B[nr];W[mr])
+(;B[oq];W[op]
+(;B[or];W[ps])
+(;B[ps];W[or];B[nr];W[po]
+(;B[os];W[nq]
+(;B[mr]C[RIGHT])
+(;B[mq]C[RIGHT]))
+(;B[nq];W[os])
+(;B[ns]C[RIGHT])))
+(;B[ps];W[nr]
+(;B[oq];W[or])
+(;B[or];W[oq])))

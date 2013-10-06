@@ -1,0 +1,65 @@
+(;GE[elementary]DI[8k]DP[46]SO[santa c]CO[7]SZ[9]AW[ef]AW[ff]AW[gf]AW[hf]AW[if]AW[bg]AW[cg]AW[dg]AW[eg]AW[hg]AW[ig]AW[bh]AW[ih]AW[bi]AB[fg]AB[gg]AB[ch]AB[dh]AB[eh]AB[fh]AB[hh]AB[ci]AB[hi]AB[ii]LB[be:D]LB[de:A]LB[fg:?]LB[gg:?]LB[ch:?]LB[dh:?]LB[eh:?]LB[fh:?]LB[hh:?]LB[ci:?]LB[hi:?]LB[ii:?]C[Is the marked, group - 1.)'D'ead(B5) as it stands. 2.)'A'live(D5) no matter what. 3.)Killable - Play to kill.(Note - 'T' at a marked, location, means, Tenuki = Local Pass = Non Local Play)FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[White]PB[Black]PL[W]
+(;W[di]LB[de:T]C[Black 'T'enukis(D5). As this whites move, isn't endangering the black group.];B[de]LB[de:T]C[Black 'T'enukied(D5).FORCE]
+(;W[ei]LB[ee:T]LB[fi:o]LB[gi:o]C[The correct thing, for black is to play either of the marked(with circles), locations.]
+(;B[fi]LB[gh:2]LB[di:1]LB[ei:1]LB[gi:2]C[Black's alive. (He has 2 eyes.) CHOICE])
+(;B[gi]LB[gh:2]LB[di:1]LB[ei:1]LB[fi:1]C[Black's alive. (He has 2 eyes.) CHOICE])
+(;B[gh]LB[fi:x]C[This is wrong, since, white'll play at F1, denying black from having 2 eyes. (Would never happen.)])
+(;B[ee]LB[ee:T]LB[gh:B]LB[fi:A]LB[gi:x]C[This is wrong, because, white'll play at G1. Making 'A' and 'B' miai, for black to live. (Would never happen.)]))
+(;W[fi]LB[ee:T]LB[ei:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[ei]LB[gh:A2]LB[di:1]LB[fi:2]LB[gi:B2]C[Black's alive. (He has 2 eyes. - 'A' and 'B' are miai for white to kill.)])
+(;B[gi]LB[gh:x]C[Self atari - This is wrong, since, white'll play at G2, capturing the H1 group, and denying black from having 2 eyes. (Would never happen.)])
+(;B[gh]LB[ei:x]C[This is wrong, since, white'll play at E1, denying black from having 2 eyes. (Would never happen.)])
+(;B[ee]LB[gh:x]C[This is wrong, since, white'll play at G2, capturing the H1 group(using a snapback), and denying black from having 2 eyes.(Snapback means, that blacks capturing the G2 stone, won't add him a liberty - wG2 bG1 wG2) (Would never happen.)]))
+(;W[gi]LB[ee:T]LB[gh:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[gh]LB[ei:A]LB[fi:B]C[Black's alive. (White can't deny him, from having 2 eyes - To do so, white'd have to play at both 'A' and 'B' - They're miai.)])
+(;B[ei]LB[gh:x]C[This is wrong, since, white'll play at G2, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[fi]LB[gh:x]C[This is wrong, since, white'll play at G2, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[ee]LB[gh:x]LB[ei:x]LB[fi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[ei]LB[gh:B]LB[fi:A]C[Black's dead - 'A' and 'B' are miai.  (Would never happen.)])
+(;W[fi]LB[gh:B]LB[ei:A]C[Black's dead - 'A' and 'B' are miai.  (Would never happen.)])
+(;W[gh]C[Black's dead. (Would never happen.)])))
+(;W[gh]LB[ee:T]LB[gi:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[gi]LB[gh:2]LB[di:1]LB[ei:1]LB[fi:1]C[Black's alive. (He has 2 eyes.)])
+(;B[ei]LB[gi:x]C[This is wrong, since, white'll play at G1, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[fi]LB[gi:x]C[This is wrong, since, white'll play at G1, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[ee]LB[fi:x]LB[gi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[fi]C[This is wrong, since, white just setted up a snapback, and denies black from having 2 eyes.(Snapback means, that blacks capturing the G2 stone, won't add him a liberty - wG2 bG1 wG2) (Would never happen.)])
+(;W[gi]C[Black's dead.]))))
+(;W[ei]LB[de:T]LB[fi:o]LB[gi:o]C[The correct thing, for black is to play either of the marked(with circles), locations.]
+(;B[fi]LB[gh:2]LB[di:1]LB[ei:1]LB[gi:2]C[Black's alive. (He has 2 eyes.) CHOICE])
+(;B[gi]LB[gh:2]LB[di:1]LB[ei:1]LB[fi:1]C[Black's alive. (He has 2 eyes.) CHOICE])
+(;B[di]LB[gh:B]LB[fi:A]LB[gi:x]C[This is wrong, because, white'll play at G1. Making 'A' and 'B' miai, for black to live. (Would never happen.)])
+(;B[gh]LB[fi:x]C[This is wrong, since, white'll play at F1, denying black from having 2 eyes. (Would never happen.)])
+(;B[de]LB[fi:x]LB[gi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[fi]C[Black's dead. (Won't get 2 eyes, now.)])
+(;W[gi]LB[gh:B]LB[fi:A]C[Black's dead. 'A' and 'B' miai, for black to live. (Would never happen.)])))
+(;W[fi]LB[de:T]LB[ei:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[ei]LB[gh:A2]LB[di:1]LB[fi:2]LB[gi:B2]C[Black's alive. (He has 2 eyes. - 'A' and 'B' are miai for white to kill.)])
+(;B[di]LB[ei:A]LB[gi:B]C[This is wrong, since, it's a dead shape. Black has to play at 'A' and 'B', to save himself, they're miai.])
+(;B[gi]LB[gh:x]C[Self atari - This is wrong, since, white'll play at G2, capturing the H1 group, and denying black from having 2 eyes. (Would never happen.)])
+(;B[gh]LB[ei:x]C[This is wrong, since, white'll play at E1, denying black from having 2 eyes. (Would never happen.)])
+(;B[de]LB[gh:x]LB[ei:x]LB[gi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[ei]LB[di:A]LB[gi:B]C[Black's dead. 'A' and 'B' miai, for black to live. (Would never happen.)])
+(;W[gi]LB[gh:B]LB[ei:A]C[Black's dead. 'A' and 'B' are  miai, for black to live. (Would never happen.)])
+(;W[gh]C[This is wrong, since, white just setted up a snapback, and denies black from having 2 eyes.(Snapback means, that blacks capturing the G2 stone, won't add him a liberty - wG2 bG1 wG2) (Would never happen.)])))
+(;W[gi]LB[de:T]LB[gh:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[gh]LB[ei:A]LB[fi:B]C[Black's alive. (White can't deny him, from having 2 eyes - To do so, white'd have to play at both 'A' and 'B' - They're miai.)])
+(;B[di]LB[gh:B]LB[fi:A]C[This is wrong, since, it's a dead shape. Black has to play at 'A' and 'B', to save himself, they're miai.])
+(;B[ei]LB[gh:x]C[This is wrong, since, white'll play at G2, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[fi]LB[gh:x]C[This is wrong, since, white'll play at G2, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[de]LB[gh:x]LB[ei:x]LB[fi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[ei]LB[gh:B]LB[fi:A]C[Black's dead. 'A' and 'B' are miai, for black to live. (Would never happen.)])
+(;W[fi]LB[gh:B]LB[ei:A]C[Black's dead. 'A' and 'B' are miai, for black to live. (Would never happen.)])
+(;W[gh]C[Black's dead.])))
+(;W[gh]LB[de:T]LB[gi:o]C[The correct thing, for black is to play at the marked(with a circle), location.]
+(;B[gi]LB[gh:2]LB[di:1]LB[ei:1]LB[fi:1]C[Black's alive. (He has 2 eyes.)])
+(;B[di]LB[fi:x]LB[gi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]PL[W]
+(;W[fi]C[This is wrong, since, white just setted up a snapback, and denies black from having 2 eyes.(Snapback means, that blacks capturing the G2 stone, won't add him a liberty - wG2 bG1 wG2) (Would never happen.)])
+(;W[gi]C[Black's dead.]))
+(;B[ei]LB[gi:x]C[This is wrong, since, white'll play at 12, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[fi]LB[gi:x]C[This is wrong, since, white'll play at G1, capturing H1 and denying black from having 2 eyes. (Would never happen.)])
+(;B[de]LB[fi:x]LB[gi:x]C[This is wrong, since, a white play at either, of the marked, locations, would kill the black group. (Would never happen.)FORCE]
+(;W[fi]C[This is wrong, since, white just setted up a snapback, and denies black from having 2 eyes.(Snapback means, that blacks capturing the G2 stone, won't add him a liberty - wG2 bG1 wG2) (Would never happen.)])
+(;W[gi]C[Black's dead.])))
+(;W[be]C[Wouldn't even a simple move such as G1 demonstrate, black gainning 2 eyes? I'd show it, but... Not only that it's alive, black can safely, tenuki. - It's not killable. (Checkout the 'Navigate Solution' option, to see, for yourself - Try to kill.)])
+(;W[de]C[WD!!! ('Well Done', that is;) RIGHT]))

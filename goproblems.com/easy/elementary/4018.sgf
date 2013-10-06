@@ -1,0 +1,26 @@
+(;GE[elementary]DI[15k]DP[63]SO[fwiffo]CO[8]AB[ca]AB[cb]AB[cc]AB[cd]AB[ce]AW[dd]AW[dc]AW[db]AW[ec]AW[de]AB[df]AB[ee]AB[fd]AB[fc]AB[eb]AW[fb]AW[gb]AW[gc]AW[hc]C[Black to get the best result.]AW[ef]AB[cf]AW[ff]AW[gf]AW[ge]AP[goproblems]
+(;B[ea]
+(;W[fa]C[CHOICE]
+(;B[da]TR[de]TR[dd]TR[dc]TR[db]TR[ec]C[The descent to the edge is critical - white cannot atari from the left because of a shortage of liberties.  This is the only move for black that works.RIGHT])
+(;B[ed];W[da]C[White's escaped; the marked black stones are captured.]TR[ee]TR[ed]TR[fd]TR[fc])
+(;B[fe];W[da]TR[ee]TR[fe]TR[fd]TR[fc]C[White is safe and the marked stones can't escape.])
+(;B[gd];W[da]TR[ee]TR[fd]TR[gd]TR[fc]C[White is safe and the marked stones stand very little chance of escape.]))
+(;W[fe]C[CHOICE]
+(;B[da];W[ed];B[ee]C[The descent to the edge leaves white short of liberties.  Attempts to escape create a snapback.  White has an endgame followup at E16 for 4 points in gote.RIGHT])
+(;B[ed];W[gd]C[Ooops.])
+(;B[gd];W[ed]C[White's escaped; the marked black stones don't stand a chance.]TR[gd]TR[fd]TR[fc])))
+(;B[da];W[ea]
+(;B[ed];W[eb]C[White connects, capturing the black stones on the right.]TR[ee]TR[ed]TR[fd]TR[fc])
+(;B[fa];W[eb]C[White connects, capturing the black stones on the right.]TR[ee]TR[fd]TR[fc]TR[fa])
+(;B[gd];W[hd]TR[ee]TR[fd]TR[gd]TR[fc]C[White is safe and the marked stones cannot escape.])
+(;B[fe];W[gd]C[White is safe and the marked stones cannot escape.]TR[ee]TR[fe]TR[fd]TR[fc]))
+(;B[ed];W[ea]
+(;B[da];W[eb]C[White connects, capturing the black stones on the right.]TR[ee]TR[ed]TR[fd]TR[fc])
+(;B[fa];W[eb]C[White connects, capturing the black stones on the right.]TR[ee]TR[ed]TR[fd]TR[fc]TR[fa])
+(;B[gd];W[hd]TR[ee]TR[ed]TR[fd]TR[gd]TR[fc]C[White is safe and the marked stones cannot escape.]))
+(;B[gd];W[hd]
+(;B[ea];W[fe]C[Pushing only cost black a precious liberty.  Now the mark stones are captured.]TR[ee]TR[fd]TR[gd]TR[fc])
+(;B[da];W[ea]TR[ee]TR[fd]TR[fc]TR[gd]C[White is safe and the marked stones cannot escape.])
+(;B[ed];W[fe]C[Ooops.])
+(;B[fe];W[ea]TR[ee]TR[fe]TR[fd]TR[gd]TR[fc]C[White is safe and the marked stones cannot escape.]))
+(;B[fe];W[ea]TR[ee]TR[fe]TR[fd]TR[fc]C[White is safe and the marked stones cannot escape.]))

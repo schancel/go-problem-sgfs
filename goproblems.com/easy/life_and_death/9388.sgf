@@ -1,0 +1,27 @@
+(;GE[life and death]DI[8k]DP[45]SO[dmg]CO[3]AB[cc]AB[cq]AB[dj]AB[dp]AB[gg]AB[gm]AB[jd]AB[jj]AB[jp]AB[mg]AB[mm]AB[pd]AB[pj]AB[pp]AB[qc]AB[qj]AB[qq]AW[cj]AW[ci]AW[ch]AW[bj]AW[bk]AW[bl]AW[am]AW[bn]AW[co]AW[ao]AW[ai]AW[ag]AW[bf]AW[cf]AW[dg]AW[eg]AW[ee]AW[ac]AB[dd]AB[ed]AB[dc]AB[db]AB[da]AW[fd]AB[fe]AW[ge]AB[gf]AW[gd]AW[gc]AW[gb]AW[ec]AW[eb]AW[fa]AB[gh]AB[he]AB[hd]AB[id]AB[kd]AB[md]AB[ld]AW[hc]AB[ic]AW[ib]AW[ha]AW[ja]AW[jc]AW[kc]AW[lc]AW[mc]AW[mb]AW[ma]AW[la]AW[na]AW[nc]AW[nd]AW[ne]AW[nf]AW[oc]AW[ob]AW[pb]AW[qb]AB[oa]AB[pa]AB[qa]AB[rc]AB[pc]AB[qd]AB[qe]AB[od]AB[oe]AW[rd]AW[re]AW[rf]AB[sd]AW[qf]AW[pf]AW[of]AW[ng]AW[oh]AW[ph]AW[pg]AW[qh]AB[qg]AB[rg]AW[ni]AW[mh]AB[mf]AB[me]AB[lh]AB[li]AB[lj]AB[mj]AB[nj]AW[oj]AB[oi]AW[ok]AB[pk]AB[qk]AB[ql]AW[ol]AW[pl]AW[pm]AW[qm]AW[rm]AW[rl]AW[pn]AW[po]AW[oo]AW[op]AW[np]AW[mp]AB[oq]AB[pr]AB[qr]AB[qp]AB[qo]AB[qn]AB[ps]AW[nr]AW[ns]AB[mr]AB[ms]AW[lq]AW[lr]AW[kr]AW[jr]AB[ks]AB[js]AB[is]AB[ir]AB[iq]AB[jq]AB[ip]AB[hp]AB[kq]AW[hq]AW[hr]AW[gs]AW[fr]AW[fp]AW[gp]AW[go]AW[ho]AW[io]AW[jo]AW[ko]AW[kp]AW[jn]AW[jm]AW[kl]AW[jk]AW[lk]AW[mk]AW[nk]AB[km]AB[lm]AB[nm]AB[om]AB[on]AB[no]AB[nl]AW[sp]AW[sq]AB[ik]AB[gn]AB[hn]AB[fo]AB[ep]AB[do]AB[cn]AB[cm]AB[bm]AB[cl]AB[ck]AB[dk]AB[di]AB[dh]AB[dr]AB[ds]TR[sq]C[Don't make any useless moves, it will be marked wrong!Give live to the bottom right corner]PL[W]GC[Game ID: 251396]RU[Japanese]
+(;B[rr]
+(;W[sr];B[rs];W[nq];B[or]C[RIGHT])
+(;W[nq];B[sr];W[rs];B[or]C[RIGHT]))
+(;B[or];W[nq];B[rr];W[sr];B[rs]C[RIGHT])
+(;B[rs];W[rr];B[rq];W[sr]
+(;B[so];W[ro];B[rn];W[sn];B[rp];W[so])
+(;B[ro];W[so];B[sn];W[rn];B[rp];W[sm]))
+(;B[rq];W[sr]
+(;B[rr];W[rs];B[so];W[ro];B[rp];W[sn])
+(;B[rp];W[so])
+(;B[so];W[ro];B[rp];W[sn]
+(;B[rs];W[rr])
+(;B[rr];W[rs])))
+(;B[mq];W[nq]
+(;B[or];W[sr];B[rr];W[rs])
+(;B[rr];W[or]
+(;B[sr];W[rs])
+(;B[rs];W[sr])))
+(;B[nq];W[mq]
+(;B[or];W[ls]
+(;B[rr];W[sr];B[rs]C[RIGHT])
+(;B[rq];W[sr];B[rs];W[rr]
+(;B[so];W[ro];B[rp];W[sn];B[rn];W[so])
+(;B[sn];W[rn];B[ro];W[so];B[rp];W[sm]))
+(;B[rs];W[rr];B[rq];W[sr];B[so];W[ro];B[sn];W[rn];B[rp];W[sm];B[so];W[sn]))
+(;B[rr];W[sr];B[rs];W[ls];B[or]C[RIGHT])))

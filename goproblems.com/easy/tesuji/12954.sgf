@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[8k]DP[46]SO[Evariste]CO[0]AB[qe]AW[dd]AB[co]AW[pp]AB[cf]AW[gc]AB[dj]AW[od]AB[pc]AW[oc]AB[pb]AW[lc]AB[pe]AW[qm]AB[kq]AW[dp]AB[cp]AW[do]AB[dq]AW[eq]AB[cq]AW[er]AB[ep]AW[eo]AB[fp]AW[gq]AB[gp]AW[hq]AB[hp]AW[jq]AB[jp]AW[ip]AB[io]AW[iq]AB[ko]AW[kr]AB[lq]AW[gn]AB[hn]AW[gm]AB[hl]AW[dm]AB[cn]AW[fk]AB[gj]AW[fj]AB[fi]AW[gk]AB[hj]AW[hk]AB[ik]AW[ij]AB[il]AB[hi]AB[hh]AW[ei]AB[fh]AW[eh]AB[gg]AW[ej]AB[eg]AW[cm]AB[dr]AW[fq]AB[lr]AW[jr]AB[cj]AW[ch]AB[bh]AW[dg]AB[df]AW[bi]AB[bg]AW[ci]AB[ee]AW[cc]AB[qk]AW[pq]AB[pm]AB[ql]AB[nf]AW[qn]AW[oi]AB[lf]AW[ok]AB[ol]AW[nl]AB[nm]AW[ml]AB[mm]AW[mj]AB[pk]AW[oj]AB[mg]AW[qi]AB[ph]AW[qj]AB[qh]AB[rg]AW[rj]AB[sh]AW[rl]AB[rk]AW[sk]AB[rm]AW[sl]AB[sm]AW[sj]AB[kc]AW[kb]AB[jc]AW[jb]AB[ld]AW[mc]AB[ic]AW[ib]AB[hc]AW[hb]AB[gd]AW[fc]AB[li]AB[ln]AW[mp]AB[ll]AW[lk]AB[kl]AW[ki]AB[kj]AW[kk]AB[jj]AW[mi]AB[lh]AW[mh]AB[kg]AW[jl]AB[km]AW[jk]AB[jm]AW[lj]AB[ji]AW[fd]AB[fe]AW[hd]AB[ge]AW[md]AB[le]AW[bm]AB[bn]AW[ob]AB[oa]AW[na]AB[pa]AW[oe]AB[of]AW[oh]AB[og]AB[pn]AW[qo]AW[nr]AB[am]AW[al]AB[an]AW[bk]AB[bd]AW[bc]AB[ad]AW[ac]AB[cd]AW[si]AW[pd]AB[qd]AB[sg]AW[oo]AB[on]AW[no]AB[de]AW[ed]AB[ai]AW[aj]AB[ah]AW[cg]AB[bf]AB[nn]AW[mq]AB[mr]AW[ns]AB[es]AW[fs]AW[js]AB[ds]AW[ls]AB[ms]AW[lo]AB[kp]AW[gr]AB[gl]AW[fl]AB[hm]AW[fo]AB[ho]AW[dn]AB[ri]AB[rh]AW[ks]AW[nh]AB[ne]AW[nd]AB[me]AW[nb]AB[pi]AW[pj]AB[pl]AW[nk]AB[ng]AB[mn]AW[mo]AB[go]C[White just passed, he's leading by 2,5. Black to find a crazy tesuji.]AP[goproblems]
+(;B[bj];W[ak]
+(;B[di];W[dh]
+(;B[fm]
+(;W[fn]
+(;B[el];W[em]
+(;B[ek]
+(;W[fm];B[ck];W[bl];B[dl]C[RIGHT]))
+(;B[ck];W[bl];B[ek]))
+(;B[ck];W[bl];B[el]))
+(;W[em]C[]
+(;B[el];W[fn])
+(;B[fn];W[dk]C[Two stones is enough to win indeed, but you failed to punish white's mistake])))
+(;B[ck];W[bl];B[fm]
+(;W[fn];B[el];W[em];B[ek];W[fm])
+(;W[em];B[el];W[fn])))
+(;B[ck];W[bl]
+(;B[di];W[dh])
+(;B[fm];W[fn];B[di];W[dh];B[el];W[em];B[ek];W[fm];B[dl]C[RIGHT]))
+(;B[fm];W[fn]))
+(;B[fm]
+(;W[fn];B[bj];W[ak]
+(;B[di];W[dh])
+(;B[ck];W[bl];B[di];W[dh]))
+(;W[em]
+(;B[bj];W[ak];B[di];W[dh])
+(;B[fn]C[RIGHT])))
+(;B[fn];W[fm]C[You destroyed all the aji with one move, impressive.]))

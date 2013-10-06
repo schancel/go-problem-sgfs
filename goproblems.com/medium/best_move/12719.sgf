@@ -1,0 +1,24 @@
+(;GE[best move]DI[1k]DP[19]SO[santa c]CO[0]AW[bp]AW[ap]AW[cp]AW[dp]AB[bq]AB[br]AB[cq]AB[eq]AB[er]AB[es]AW[ep]AW[fp]AW[fq]AW[fr]AW[fs]C[there's one ko that's obvious here but there's a sligtly better one...]AP[goproblems]
+(;W[ar]
+(;B[aq]
+(;W[dq];B[dr];W[bs]
+(;B[cr]
+(;W[cs];B[as]C[nice! optimal for both! :D (direct ko)RIGHT])
+(;W[ds];B[as]C[nice! optimal for both! :D (direct ko)RIGHT]))
+(;B[as];W[cs];B[cr];W[ar]C[(w'd take first)RIGHT]))
+(;W[cs];B[bs]))
+(;B[cs];W[dr]C[RIGHT])
+(;B[dr];W[cs];B[aq];W[bs];B[dq];W[cr];B[as]C[RIGHT]))
+(;W[dq];B[dr]
+(;W[bs];B[cs];W[ar];B[as]C[that's the obvious ko but you could get a direct one!])
+(;W[ar];B[bs])
+(;W[cs];B[bs])
+(;W[aq];B[ar]))
+(;W[bs];B[cs]
+(;W[dq];B[dr])
+(;W[ar];B[aq])
+(;W[aq];B[ar])
+(;W[dr];B[dq]))
+(;W[aq];B[ar]MA[cs]MA[bs])
+(;W[cs];B[bs])
+(;W[dr];B[dq]))

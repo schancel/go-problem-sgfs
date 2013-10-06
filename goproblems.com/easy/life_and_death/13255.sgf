@@ -1,0 +1,20 @@
+(;GE[life and death]DI[5k]DP[33]SO[OneTrue]CO[0]AB[eb]AB[fb]AB[gc]AB[hc]AB[ic]AB[ib]AB[ha]AB[ka]AB[jc]AB[kc]AB[lc]AB[kd]AW[ke]AW[je]AW[jd]AW[id]AW[hd]AW[gd]AW[fd]AW[fc]AW[ec]AW[db]AW[dd]AW[cc]AB[cf]AB[fe]AB[kf]AB[le]AB[me]AB[ne]AW[ld]AW[md]AW[mc]AW[mb]AW[ja]AW[ia]AW[ma]AW[lb]AW[nd]AW[od]AW[oe]AB[of]AW[oa]AW[nb]AB[bd]AW[bc]LB[ka:1]C[White to kill.CHOICE]AP[goproblems]
+(;W[gb];B[ga]
+(;W[ea];B[hb]
+(;W[kb];B[jb]
+(;W[ja]C[RIGHT])
+(;W[da]C[RIGHT];B[fa];W[ja]C[RIGHT]))
+(;W[da];B[fa];W[kb];B[jb];W[ja]C[RIGHT]))
+(;W[kb];B[ea])
+(;W[fa];B[ea])
+(;W[da];B[hb]
+(;W[kb];B[ea])
+(;W[ea];B[fa];W[kb];B[jb];W[ja]C[RIGHT])))
+(;W[ea];B[gb]
+(;W[fa];B[kb])
+(;W[kb];B[fa]))
+(;W[kb];B[gb])
+(;W[ga];B[gb];W[hb];B[fa])
+(;W[fa];B[gb]
+(;W[kb];B[ea])
+(;W[ea];B[kb])))

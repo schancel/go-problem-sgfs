@@ -1,0 +1,295 @@
+(;GE[elementary]DI[5k]DP[34]SO[karmaGfa]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Blanc]PB[Noir]AW[ee][fe][ge][df][dg][eg][fg][fh][hh][gi]AB[ce][de][ef][ff][gf][cg][gg][ch][dh][eh][gh]TR[df][dg][eg][fg][fh]C[Black to play and kill the marked stones.]
+(;B[cf]CR[cf]
+;W[fi]CR[fi]
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[ei]CR[ei]
+;W[hi]CR[hi]
+(;B[hg]CR[hg]C[RIGHT])
+(;B[he]CR[he]
+;W[hf]CR[hf]C['Oh no !' (black is dead)])
+(;B[hf]CR[hf]
+;W[he]CR[he]C[it seems that you choosed to not take the shortest way ..]
+(;B[if]CR[if]
+(;W[ig]CR[ig]C[CHOICE 'Oh no !' (black is dead)
+])
+(;W[ie]CR[ie]C[CHOICE]
+(;B[ig]CR[ig]C['Oh no !' (seki)])
+(;B[hg]CR[hg]
+;W[ig]CR[ig]C['Oh no !'])
+(;B[ih]CR[ih]
+;W[ig]CR[ig]C['Oh no !' (black is dead)])))
+(;B[ig]CR[ig]
+;W[ie]CR[ie]
+(;B[if]CR[if]C['Oh no !' (seki)])
+(;B[hg]CR[hg]C[RIGHT])
+(;B[ih]CR[ih]C[RIGHT]))
+(;B[hg]CR[hg]C[RIGHT])))
+(;B[ei]CR[ei]
+;W[hi]CR[hi]
+(;B[hg]CR[hg]
+;W[ig]CR[ig]
+;B[hf]CR[hf]
+;W[he]CR[he]C[White win the race.])
+(;B[hf]CR[hf]
+;W[he]CR[he]
+(;B[ig]CR[ig]
+;W[hg]CR[hg]
+;B[if]CR[if]
+;W[ie]CR[ie]C[White win the race.])
+(;B[if]CR[if]
+;W[ie]CR[ie]
+(;B[ih]CR[ih]
+;W[hg]CR[hg]
+;B[ig]CR[ig]
+;W[ii]CR[ii]C[White win the race.])
+(;B[ig]CR[ig]
+(;W[ih]CR[ih]C[CHOICE White win the race.])
+(;W[hg]CR[hg]C[CHOICE White win the race.])))
+(;B[hg]CR[hg]
+;W[ig]CR[ig]C[White win the race.]))
+(;B[ig]CR[ig]
+;W[hg]CR[hg]
+;B[hf]CR[hf]
+;W[he]CR[he]
+;B[if]CR[if]
+;W[ie]CR[ie]C[White win the race.])))
+(;B[fi]CR[fi]
+;W[ei]CR[ei]C[This move was not usefull. You should use the more direct path to kill a group since it generate less ko-thread that the opponent can use against you.])
+(;B[hg]CR[hg]
+;W[ig]CR[ig]
+;B[hf]CR[hf]
+;W[he]CR[he]C['Oh no !' (black is dead)])
+(;B[ei]CR[ei]
+;W[hg]CR[hg]
+(;B[fi]CR[fi]
+;W[hf]CR[hf]C['Oh no !'])
+(;B[hf]CR[hf]
+;W[he]CR[he]
+;B[if]CR[if]
+;W[ie]CR[ie]C['Oh no !' (black is dead)])
+(;B[cf]CR[cf]
+;W[hf]CR[hf]C['Oh no !']))
+(;B[ih]CR[ih]
+;W[hg]CR[hg]
+;B[hf]CR[hf]
+;W[if]CR[if]
+;B[he]CR[he]
+;W[hd]CR[hd]C['Oh no !' (black is dead)])
+(;B[hf]CR[hf]
+(;W[hi]TR[cf]CR[hi]C[CHOICE Please play in C4.]
+;B[cf]CR[cf]
+;W[fi]CR[fi]C[Now try to win the capturing race...]
+(;B[hd]CR[hd]
+;W[he]CR[he]
+;B[ie]CR[ie]
+;W[gd]CR[gd]
+(;B[gc]CR[gc]
+;W[hg]CR[hg]
+;B[if]CR[if]
+;W[ig]CR[ig]
+;B[id]CR[id]
+;W[hc]CR[hc]C[Black is dead.])
+(;B[hc]CR[hc]
+;W[hg]CR[hg]
+;B[if]CR[if]
+;W[id]CR[id]
+;B[ic]CR[ic]
+;W[ig]CR[ig]
+;B[id]CR[id]
+;W[gc]CR[gc]C[Black is dead.]))
+(;B[he]CR[he]
+;W[hd]CR[hd]
+(;B[hc]CR[hc]
+;W[gd]CR[gd]
+;B[id]CR[id]
+;W[ie]CR[ie]
+(;B[ic]CR[ic]
+;W[hg]CR[hg]
+;B[if]CR[if]
+;W[ig]CR[ig]
+;B[ie]CR[ie]
+;W[gc]CR[gc]C[Black is dead.])
+(;B[if]CR[if]
+;W[ig]CR[ig]
+(;B[ic]CR[ic]
+;W[hg]CR[hg]
+;B[ie]CR[ie]
+;W[gc]CR[gc]C[Black is dead.])
+(;B[gc]CR[gc]
+;W[hg]CR[hg]C[Black is dead.])
+(;B[ie]CR[ie]
+;W[hg]CR[hg]
+;B[ic]CR[ic]
+;W[gc]CR[gc]C[Black is dead.])))
+(;B[gd]CR[gd]
+;W[gc]CR[gc]
+(;B[fd]CR[fd]
+;W[ed]CR[ed]
+;B[fc]CR[fc]
+;W[ec]CR[ec]
+;B[fb]CR[fb]
+;W[hc]CR[hc]
+;B[eb]CR[eb]
+;W[dc]CR[dc]
+;B[cc]CR[cc]C[RIGHT Black win the capture race.])
+(;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[fc]CR[fc]
+;W[gd]CR[gd]
+;B[gb]CR[gb]
+(;W[id]CR[id]C[Black lose the capture race.])
+(;W[fb]CR[fb]C[White should not have played this. To punish him, you need to find the 'karma tesuji' ...]
+(;B[ec]CR[ec]
+;W[hb]CR[hb]
+;B[id]CR[id]
+;W[hc]CR[hc]C[Black is dead
+])
+(;B[id]CR[id]
+(;W[hc]CR[hc]C[CHOICE]
+(;B[hb]CR[hb]
+;W[ec]CR[ec]
+;B[ic]CR[ic]
+;W[dd]CR[dd]C[... You found it :-)]
+(;B[ig]CR[ig]
+(;W[ih]CR[ih]C[CHOICE]
+;B[ie]CR[ie]
+;W[ib]CR[ib]
+;B[ia]CR[ia]
+;W[hg]CR[hg]
+;B[ei]CR[ei]
+;W[if]CR[if]
+;B[ib]CR[ib]
+;W[ga]CR[ga]
+;B[ig]CR[ig]C[RIGHT Let's say that black win the ko.])
+(;W[ie]CR[ie]C[CHOICE]
+(;B[ih]CR[ih]C[RIGHT Black win (easy problem, isn't it ? :-))])
+(;B[ib]CR[ib]
+;W[ih]CR[ih]
+;B[if]CR[if]
+;W[hg]CR[hg]
+;B[ie]CR[ie]
+;W[ga]CR[ga]
+(;B[ha]CR[ha]
+;W[fa]CR[fa]C[Seki.])
+(;B[ei]CR[ei]C[RIGHT What a easy problem. I am sure every beginners found this variation.]))))
+(;B[hg]CR[hg]
+;W[ih]CR[ih]
+(;B[ie]CR[ie]
+(;W[ig]CR[ig]
+;B[ib]CR[ib]
+;W[ga]CR[ga]
+;B[ha]CR[ha]
+;W[fa]CR[fa]C[Seki. The gods didn't heard your requests.])
+(;W[ib]CR[ib]
+(;B[ei]CR[ei]
+;W[ig]CR[ig]
+;B[ia]CR[ia]
+;W[ga]CR[ga]C[White wins the capturing race.])
+(;B[ia]CR[ia]
+;W[ig]CR[ig]
+;B[ga]CR[ga]
+;W[fa]CR[fa]C[Seki. Hey ! you are able to solve this easy problem ? what's wrong with you ? :-)])))
+(;B[ei]CR[ei]
+;W[ie]CR[ie]
+;B[if]CR[if]
+;W[ib]CR[ib]
+;B[ia]CR[ia]
+;W[ga]CR[ga]C[White wins the capturing race.]))
+(;B[ie]CR[ie]
+;W[ig]CR[ig]
+(;B[hg]CR[hg]
+;W[ih]CR[ih]
+(;B[ga]CR[ga]
+;W[ib]CR[ib]
+;B[ia]CR[ia]
+;W[fa]CR[fa]C[Seki. (Shame on you to not be able to solve this easy and trivial problem)])
+(;B[ib]CR[ib]
+;W[ga]CR[ga]
+(;B[ei]CR[ei]
+;W[ha]CR[ha]C[Black is dead.])
+(;B[ha]CR[ha]
+;W[fa]CR[fa]C[Seki. (Shame on you to not be able to solve this easy and trivial problem)])))
+(;B[if]CR[if]
+;W[hg]CR[hg]
+;B[ib]CR[ib]
+;W[ga]CR[ga]C[Black is dead.])
+(;B[ih]CR[ih]
+;W[hg]CR[hg]
+(;B[ei]CR[ei]
+;W[ib]CR[ib]
+;B[ia]CR[ia]
+;W[ga]CR[ga]C[Black is dead.])
+(;B[ib]CR[ib]
+;W[ga]CR[ga]
+;B[ha]CR[ha]
+;W[fa]CR[fa]C[Seki. (Shame on you to not be able to solve this easy and trivial problem)])))
+(;B[if]CR[if]
+;W[ig]CR[ig]
+;B[ie]CR[ie]
+;W[hg]CR[hg]
+;B[ib]CR[ib]
+;W[ga]CR[ga]C[Black is dead.]))
+(;B[ec]CR[ec]
+;W[hb]CR[hb]C[Black is dead.]))
+(;W[ec]CR[ec]C[CHOICE]
+;B[hc]CR[hc]
+;W[dd]CR[dd]
+;B[ig]CR[ig]
+(;W[ih]CR[ih]
+;B[ie]CR[ie]
+(;W[hg]CR[hg]C[CHOICE]
+;B[ei]CR[ei]
+;W[if]CR[if]
+;B[ic]CR[ic]
+;W[hb]CR[hb]
+;B[ig]CR[ig]C[RIGHT Let's say that black win the ko.])
+(;W[ic]CR[ic]C[CHOICE]
+;B[ib]CR[ib]
+;W[hg]CR[hg]
+;B[ei]CR[ei]
+;W[if]CR[if]
+;B[ic]CR[ic]
+;W[ga]CR[ga]
+;B[ig]CR[ig]C[RIGHT Let's say that black win the ko.]))
+(;W[hg]CR[hg]
+;B[ih]CR[ih]C[RIGHT Black win the capture race.]))))))))
+(;W[he]CR[he]C[CHOICE]
+;B[cf]CR[cf]
+;W[fi]CR[fi]
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[ei]CR[ei]
+;W[hi]CR[hi]
+(;B[if]CR[if]
+;W[ig]CR[ig]C['Oh no !' (black is dead)])
+(;B[ig]CR[ig]
+;W[ie]CR[ie]
+(;B[hg]CR[hg]C[RIGHT])
+(;B[ih]CR[ih]C[RIGHT]))
+(;B[hg]CR[hg]C[RIGHT]))
+(;B[ei]CR[ei]
+;W[hi]CR[hi]
+(;B[hg]CR[hg]
+;W[ig]CR[ig]C['Oh no !' (black is dead)])
+(;B[ig]CR[ig]
+;W[hg]CR[hg]
+;B[if]CR[if]
+;W[ie]CR[ie]C['Oh no !' (black is dead)])
+(;B[if]CR[if]
+;W[ig]CR[ig]C['Oh no !' (black is dead)]))))
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[cf]CR[cf]
+;W[fi]CR[fi]
+;B[ei]CR[ei]
+;W[hi]CR[hi]
+(;B[hg]CR[hg]C[RIGHT])
+(;B[if]CR[if]
+;W[hf]CR[hf]
+;B[hg]CR[hg]
+;W[ig]CR[ig]C['Oh no !']))
+(;B[ii]CR[ii]
+;W[hf]CR[hf]C['Oh no']))

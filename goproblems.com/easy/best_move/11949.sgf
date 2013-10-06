@@ -1,0 +1,41 @@
+(;GE[best move]DI[7k]DP[41]SO[DarkSycthe]CO[0]AB[ik]AB[jk]AB[kk]AB[jj]AW[ij]AW[hj]AW[ji]AW[kj]AW[lj]AB[pd]AB[dd]LB[jh:A]C[Please connect all stones. Does the white connection at A work? If so, play it. If not, please play a connection that will work, or that is the best in this situation. If no connection works that will connect all stones, please play T for tenuki.]LB[jd:T]AP[goproblems]
+(;W[jh];B[ki]
+(;W[lh];B[ii]
+(;W[hh];B[kh]
+(;W[kg];B[ih]
+(;W[jg];B[ig])
+(;W[li];B[ig])
+(;W[ig];B[jg]))
+(;W[ih];B[kg])
+(;W[ig];B[kg]))
+(;W[hi];B[ih];W[ig];B[hh]MA[dd]C[The ladder doesn't work.])
+(;W[ih];B[hi];W[gi];B[hh]C[The ladder doesn't work.]MA[dd]))
+(;W[kh];B[li]
+(;W[mi];B[lh]MA[pd]C[The ladder doesn't work.])
+(;W[lh];B[mi])
+(;W[mh];B[mi]
+(;W[ni];B[mj])
+(;W[mj];B[ni])))
+(;W[li];B[kh]
+(;W[kg];B[lh]MA[pd]C[The ladder doesn't work.])
+(;W[lh];B[kg])
+(;W[lg];B[kg];W[kf];B[jg];W[ig];B[jf];W[je];B[if];W[hf];B[ih]))
+(;W[lg];B[li];W[mi];B[mj];W[lk];B[mh])
+(;W[mh];B[kh];W[kg];B[ii]
+(;W[hh];B[ih])
+(;W[hg];B[ih];W[jg];B[hi];W[gi];B[gj];W[hk];B[gh])
+(;W[hi];B[ih])
+(;W[gh];B[ih];W[jg];B[hg])))
+(;W[ki];B[ii]
+(;W[ih];B[hi];W[gi];B[hh]C[The ladder doesn't work.]MA[dd])
+(;W[hh];B[ih];W[ig];B[jh];W[jg];B[kh];W[lh];B[kg];W[kf];B[lg];W[mg];B[mh];W[li];B[mf])
+(;W[hi];B[ih]))
+(;W[ii]C[NOTTHIS])
+(;W[ih]C[NOTTHIS])
+(;W[kh];B[ii]
+(;W[ih];B[hi];W[gi];B[hh]MA[dd]C[The ladder doesn't work.])
+(;W[hh];B[ih];W[ig];B[jh]
+(;W[jg];B[ki];W[hi];B[ji])
+(;W[ki];B[jg]))
+(;W[hi];B[ih]))
+(;W[jd]C[Correct. Navigate solutions for more details.RIGHT]))

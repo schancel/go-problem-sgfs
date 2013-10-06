@@ -1,0 +1,5 @@
+(;GE[elementary]DI[12k]DP[58]SO[mrfunnywhiskers]CO[0]AB[ac]AB[bc]AB[cc]AB[cb]AB[da]AB[eb]AB[ea]AB[dc]AB[ec]AW[bb]AW[ca]AW[aa]AW[ad]AW[bd]AW[cd]AW[dd]AW[ed]AW[fc]AW[fb]AW[fa]AW[fd]C[What is the status of black's group? Japanese rules, no unremovable ko threats.CHOICEFORCE]LB[ia:dead]LB[ib:alive]LB[ic:seki]LB[id:ko]AP[goproblems]
+(;B[ib]C[Correct. After both players have passed, black can remove all white's ko threats and start the ko. Since white has no more ko threats, black can make two eyes and is alive. RIGHT])
+(;B[ia]C[Wrong. White can never capture black's group since a18 is auto atari.]TR[ab])
+(;B[ic]C[Wrong. After both players have passed, black can remove all white's ko threats and start the ko. Since white has no more ko threats, black can make two eyes and is alive. ])
+(;B[id]C[Wrong. White can never capture black's group since a18 is auto atari. After both players have passed, black can remove all white's ko threats and start the ko. Since white has no more ko threats, black can make two eyes and is alive. ]TR[ab]))

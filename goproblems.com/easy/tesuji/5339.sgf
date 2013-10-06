@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[5k]DP[33]SO[brightwater]CO[7]AB[pd]AB[pc]AB[qd]AB[od]AB[nd]AB[re]AB[qf]AB[mf]AB[ke]AB[kd]AB[mc]AB[mb]AW[jc]AW[kc]AW[ld]AW[md]AW[nc]AW[nb]AW[oc]AW[qc]AW[rc]AW[rd]AW[pb]TR[mb]TR[mc]C[Black to save the marked stones.]AP[goproblems]
+(;B[ma];W[lc];B[ob];W[oa];B[na];W[ob];B[qb]C[RIGHT])
+(;B[lc];W[ma])
+(;B[ob];W[na];B[ma];W[oa])
+(;B[na];W[ob]
+(;B[qb];W[rb]
+(;B[pa];W[qa];B[lc];W[lb])
+(;B[oa];W[qa];B[lc];W[lb]))
+(;B[lc];W[lb])
+(;B[oa];W[qb];B[lc];W[lb])
+(;B[pa];W[qb];B[lc];W[lb])
+(;B[lb];W[kb]
+(;B[lc];W[la])
+(;B[la];W[ka];B[qb];W[rb])))
+(;B[oa];W[ob];B[qb];W[rb];B[na];W[qa];B[lc];W[lb])
+(;B[pa];W[qb]))

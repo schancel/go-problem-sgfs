@@ -1,0 +1,182 @@
+(;GE[life and death]DI[3d]DP[11]SO[BartTM]CO[0]AW[mr]AW[nq]AW[or]AW[qq]AB[rp]AB[qo]AB[po]AB[op]AB[np]AW[mp]AB[mq]AB[lq]AB[kq]AB[kr]AB[jr]AB[iq]AB[is]AB[hs]AB[hr]AB[hq]AB[gr]AW[gs]AW[fs]AW[fr]AW[fq]AW[gq]AW[hp]AW[ip]AW[jp]AW[jq]AW[kp]AW[lp]AW[ks]AB[rn]AB[ls]AW[lr]AB[nr]C[Black somehow does not agree to being killed outright. Now do what is best.]LB[ks:1]LB[ls:2]LB[lr:3]LB[nr:4!]AP[goproblems]
+(;W[ns];B[pr]
+(;W[pq];B[oq]
+(;W[nr];B[ps]
+(;W[qr]
+(;B[rq]
+(;W[rr];B[sr]
+(;W[qs];B[pp]
+(;W[ms];B[qp]
+(;W[os];B[pr]
+(;W[ps];B[rs]
+(;W[ls];B[sq];W[ss]C[Ko, White kills Black or lives in seki.RIGHT])
+(;W[ss];B[sq]
+(;W[rs]C[Just seki.])
+(;W[ls];B[rs]C[Ko, but White has to find the first threat]))
+(;W[sq];B[sp]
+(;W[ls];B[sq];W[ss]C[Ko, White kills Black or lives in seki.RIGHT])
+(;W[ss];B[sq]
+(;W[ls];B[rs]C[Ko, but White has to find the first threat])
+(;W[rs]C[Just seki.]))))
+(;W[ls];B[rs]
+(;W[ps])
+(;W[ss];B[sq];W[ps])
+(;W[js];B[ps])
+(;W[sq];B[ps]))
+(;W[ss];B[sq]
+(;W[ls];B[rs];W[ps];B[ss]C[Just seki])
+(;W[ps];B[rs]C[Ko, but White has to find the first threat and ignore one Black threat.]))
+(;W[rs]C[Just seki.])
+(;W[sq]C[NOTTHIS]))
+(;W[ls];B[rs])
+(;W[rs];B[ss])
+(;W[sq];B[rs]))
+(;W[os];B[qp]
+(;W[ms])
+(;W[rs]C[Just seki.])
+(;W[ss];B[sq]
+(;W[ms];B[rs]C[Ko, White has to find the first threat.])
+(;W[rs]C[Just seki.])
+(;W[ps];B[rs]C[Ko, White has to find the first threat and ignore some of Black threats to win.])
+(;W[pr];B[rs]C[Ko, White has to find the first threat and ignore some of Black threats to win.]))
+(;W[pr];B[ss]C[Just seki.])
+(;W[ps];B[ss]C[Just seki.])
+(;W[sq]C[NOTTHIS]))
+(;W[rs]C[Just seki.])
+(;W[ss];B[sq]
+(;W[rs];B[qp])
+(;W[os];B[rs]C[Ko, White has to find the first threat and ignore some of Black threats to win.])
+(;W[ms];B[rs]C[Ko, White has to find the first threat and ignore some of Black threats to win.]))
+(;W[sq]C[NOTTHIS]))
+(;W[ms];B[rs];W[qs];B[pp];W[os];B[pr];W[ls];B[qp])
+(;W[rs]C[Just seki.])
+(;W[qp];B[rs])
+(;W[pp];B[rs])
+(;W[ss];B[sq]
+(;W[rs];B[pp])
+(;W[ms];B[qp]
+(;W[ls];B[rs])
+(;W[rs])
+(;W[qs];B[rs]C[Ko, White needs to find the first threat and ignore several Black threats.]))
+(;W[qs];B[rs]C[Ko, White needs to find the first threat and ignore several Black threats.]))
+(;W[sq]C[NOTTHIS]))
+(;W[qs];B[rr]
+(;W[rs];B[sr]
+(;W[ms];B[ss]
+(;W[ls];B[pp];W[os];B[pr];W[ps];B[qp]C[Seki.])
+(;W[os];B[pp];W[ls]))
+(;W[os];B[pp];W[ms];B[qp];W[ls];B[pr];W[ps];B[ss]C[Seki]))
+(;W[ms];B[rs]
+(;W[os];B[pp];W[ls];B[pr]C[Seki])
+(;W[ls];B[pp];W[os];B[pr]C[Seki]))
+(;W[os];B[rs];W[ms]))
+(;W[ms];B[rr]
+(;W[ls];B[qs])
+(;W[rs];B[qp]
+(;W[qs];B[pp]
+(;W[os];B[sr])
+(;W[ls];B[ss]))
+(;W[os];B[ls])
+(;W[ls];B[pp]))
+(;W[qs]))
+(;W[rs]
+(;B[rr]
+(;W[sr];B[qp]
+(;W[sq];B[pp])
+(;W[qs];B[sq];W[os];B[ss]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[ms];B[pp]))
+(;W[qs])
+(;W[ms]))
+(;B[sr]
+(;W[qs];B[rr];W[ms])
+(;W[rr];B[qp]
+(;W[qs];B[pp]
+(;W[os];B[pr]
+(;W[ps];B[sq];W[ms]C[Seki])
+(;W[ms]C[Seki]))
+(;W[ms]))
+(;W[ms];B[pp])
+(;W[sq];B[pp]C[Living like a dodo.]))
+(;W[ms];B[rr]
+(;W[qs])
+(;W[ls];B[qp];W[qs];B[ss];W[os];B[pr]C[Seki]))))))
+(;W[qs];B[qr]
+(;W[rr];B[rs];W[rq];B[sq]
+(;W[sr];B[qp]
+(;W[sp];B[pp]C[White dies])
+(;W[ms]C[White is dead, really.])
+(;W[ss];B[pp]))
+(;W[ms];B[sr])
+(;W[sp];B[qp];W[sr]))
+(;W[rq];B[rr]
+(;W[sr];B[rs]
+(;W[ms];B[os])
+(;W[sq];B[os]))
+(;W[rs];B[ss])
+(;W[sq];B[os])
+(;W[ms];B[os]))
+(;W[ms];B[rr]))
+(;W[rr];B[os])
+(;W[rq];B[os])
+(;W[ms];B[os]))
+(;W[qr];B[nr]C[Ko, White needs to find the first threat])
+(;W[ms];B[nr]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[os];B[nr]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[ps];B[nr]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[qs];B[nr]C[Ko, White needs to find the first threat and ignore several Black threats.]))
+(;W[oq];B[pq]
+(;W[ps];B[qs]
+(;W[qr];B[os]C[Ko, White needs to find the first threat.])
+(;W[os];B[qr]C[Just seki.])
+(;W[ms];B[os]C[Ko, White needs to find the first threat just to get seki.])
+(;W[pp];B[os]C[Ko, White needs to find the first threat just to get seki]))
+(;W[os];B[ps]C[Just seki])
+(;W[ms];B[ps]
+(;W[os]C[Just seki.])
+(;W[ls];B[os])))
+(;W[ms];B[oq]
+(;W[nr];B[ps];W[pq])
+(;W[pq])
+(;W[os];B[pq])
+(;W[ps];B[nr]C[Ko, White needs to find the first threat.];W[os];B[qs];W[nq];B[qr])
+(;W[qr];B[nr]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[ls];B[nr]C[Ko, White needs to find the first threat.]))
+(;W[nr];B[pq])
+(;W[os];B[oq]
+(;W[pq];B[ps]
+(;W[qr];B[nr]C[Ko, White needs to find the first threat.])
+(;W[ms];B[nr]C[Ko, White needs to find the first threat.]))
+(;W[ms])
+(;W[nr];B[ps]))
+(;W[qr];B[oq]
+(;W[pq])
+(;W[nr];B[pq];W[ps];B[rr]))
+(;W[ps];B[oq]
+(;W[nr];B[qs]
+(;W[qr];B[os]C[Ko, White needs to find the first threat.])
+(;W[pq];B[os]C[Ko, White needs to find the first threat and ignore several Black threats.])
+(;W[ms];B[qr]))
+(;W[ms])
+(;W[qr];B[nr]C[Ko, White needs to find the first threat.])))
+(;W[ms];B[oq]
+(;W[ns];B[pr]
+(;W[nq];B[ps]
+(;W[pq];B[os])
+(;W[os];B[pq])
+(;W[ls];B[os])
+(;W[nr];B[os]))
+(;W[ps];B[qs];W[nq];B[os]C[White dies with a double ko.])
+(;W[os];B[ps]
+(;W[nq];B[pq])
+(;W[pq];B[ls]))
+(;W[pq];B[os]))
+(;W[os];B[pr]
+(;W[ns])
+(;W[ps];B[qs])
+(;W[qr];B[ps])
+(;W[pq];B[ps]))
+(;W[js];B[ls]
+(;W[ks];B[ns])
+(;W[ns];B[os])))
+(;W[oq];B[ms])
+(;W[os];B[ms]))

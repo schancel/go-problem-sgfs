@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3d]DP[9]SO[betka ]CO[0]AB[rq]AB[rr]AB[qr]AB[pr]AB[pq]AB[or]AB[nr]AB[mq]AB[lq]AB[kq]AB[jp]AB[jo]AB[jn]AB[km]AB[lm]AB[mm]AB[nm]AB[ln]AB[on]AB[pm]AB[ql]AB[rl]AB[rk]AW[kn]AW[kp]AW[ko]AW[mp]AW[mn]AW[mo]AW[no]AW[oo]AW[pp]AW[oq]AW[nq]AW[qq]AW[rp]AW[qp]AW[rn]AW[po]AW[jq]AW[jr]AW[hq]AW[rj]AW[qk]AW[pk]AW[oj]AW[qi]AW[oi]AW[ph]AB[jm]AW[gq]C[White just played the marked stone. What can black do?]LB[rn:M]AP[goproblems]
+(;B[qn]
+(;W[rm]C[CHOICE]
+(;B[sm]
+(;W[sn]C[CHOICE]
+(;B[sp];W[sl]
+(;B[sk];W[qm]
+(;B[pn];W[pl];B[ro]
+(;W[qo]C[CHOICE];B[sm]C[Ko, great, you are very smart!RIGHT])
+(;W[sj];B[so]C[RIGHT]))
+(;B[ro];W[qo]))
+(;B[qm])
+(;B[ro];W[qo]))
+(;B[qm];W[sl]
+(;B[qo];W[sk])
+(;B[sk];W[sp])
+(;B[sp];W[sk];B[ro];W[qo]))
+(;B[qo];W[ro];B[sp];W[qm];B[pn];W[pl]C[Ow!]))
+(;W[qo];B[sn]C[RIGHT])
+(;W[so];B[qo];W[qm];B[pn];W[pl];B[ro]C[RIGHT]))
+(;B[qo];W[ro])
+(;B[sp];W[qm])
+(;B[so];W[ro];B[sp];W[qm]))
+(;W[qo]
+(;B[so];W[sp];B[sn];W[rm];B[sm];W[ro];B[sl];W[qm])
+(;B[sm];W[sn];B[sp]C[RIGHT])
+(;B[sp];W[so])))
+(;B[so];W[ro])
+(;B[sm];W[qn])
+(;B[sp];W[so];B[qn];W[qo]
+(;B[rm];W[sq])
+(;B[sq];W[rm];B[sm];W[qm];B[pn];W[pl]))
+(;B[sn];W[so];B[qn];W[rm]))

@@ -1,0 +1,22 @@
+(;GE[endgame]DI[1k]DP[18]SO[crasher]CO[4]AB[dj]AB[ej]AB[ek]AB[fj]AB[gj]AB[gi]AB[gh]AB[gg]AW[fg]AW[fh]AW[fi]AW[ei]AW[di]AW[ci]AW[cj]AW[ck]AW[dk]AW[cl]AW[bk]AW[bl]AW[al]AW[el]AW[fl]AW[fk]AW[gk]AW[hk]AW[hi]AW[ii]AW[ih]AW[ig]AW[hg]AW[gf]AW[ge]AW[em]AW[dn]AW[do]AW[dp]AW[co]AW[bo]AW[ao]AW[an]AW[bp]AW[bq]AW[aq]AW[ar]AB[gl]AB[fm]AB[fn]AB[en]AB[eo]AB[ep]AB[gn]AB[go]AB[gp]AB[fq]AB[hp]AB[ip]AB[jp]AB[iq]AB[hq]AB[jo]AB[jm]AB[ko]AB[lo]AB[ln]AB[mo]AB[mp]AB[mq]AB[np]AB[br]AB[bs]AB[cp]AB[cq]AB[dq]AB[dr]AW[cr]AW[fp]AB[gr]AW[hr]AW[ir]AW[jr]AW[jq]AW[kp]AW[lp]AW[lq]AW[lr]AW[mr]AW[nr]AW[nq]AW[oq]AW[op]AB[nn]AB[on]AB[om]AB[pn]AB[po]AB[qo]AB[pp]AB[pq]AB[or]AB[ns]AB[qr]AB[rr]AB[rq]AW[qq]AW[qp]AW[rp]AW[sq]AW[sr]AW[ro]AW[qn]AW[qm]AW[pm]AW[rm]AB[pl]AW[ol]AW[nl]AW[ml]AW[ll]AW[kl]AW[mm]AW[mn]AW[jk]AW[jj]AW[kj]AW[lj]AW[im]AW[hm]AW[gm]AW[ho]AW[io]AB[kk]AB[lk]AB[mk]AB[nk]AB[ok]AB[ni]AB[mi]AB[li]AB[lh]AB[nh]AB[ng]AB[og]AB[of]AB[pf]AB[pe]AB[pd]AB[qd]AB[re]AB[rf]AB[rg]AB[qg]AB[md]AB[lc]AB[lb]AB[ka]AB[jb]AB[ic]AB[ib]AB[hb]AB[gb]AB[ga]AB[ed]AB[dd]AB[cd]AB[bd]AB[bc]AB[ad]AB[ce]AB[cf]AB[bg]AB[bh]AB[bi]AB[bj]AB[ai]AW[aj]AB[ch]AB[dh]AB[eh]AB[eg]AB[ef]AB[ff]AW[cg]AW[dg]AW[df]AW[de]AW[ee]AW[fe]AW[fd]AW[ec]AW[fb]AW[gc]AW[hc]AW[id]AW[ie]AW[he]AB[hd]AW[cc]AW[cb]AW[bb]AW[ab]AW[ac]AW[jc]AW[kb]AW[kc]AW[kd]AW[ke]AW[kf]AW[le]AW[me]AB[ld]AB[jd]AB[je]AB[jf]AB[if]AB[hf]AB[jg]AB[jh]AW[nc]AB[pj]AW[pk]AW[qk]AW[oj]AW[oi]AW[oh]AW[ph]AW[pg]AW[qh]AW[rh]AW[sh]AW[sg]TR[sh]C[find the largest reduction in the middle of the board.]AP[goproblems]
+(;B[jl];W[il])
+(;B[fa]C[NOTTHIS])
+(;B[ea]C[NOTTHIS])
+(;B[da]C[NOTTHIS])
+(;B[eb]C[NOTTHIS])
+(;B[db]C[NOTTHIS])
+(;B[dc]C[NOTTHIS])
+(;B[in];W[hn];B[il]
+(;W[jn])
+(;W[hl]C[nope.CHOICE]))
+(;B[km];W[jl]C[you can do better than that.])
+(;B[il]
+(;W[hl];B[jl];W[ik]C[white also has to connect at R8.RIGHT])
+(;W[jl]C[CHOICE]
+(;B[in]
+(;W[hl];B[hn]C[RIGHT])
+(;W[km]C[CHOICE]
+(;B[hn];W[jn]C[you can do a little better than this.])
+(;B[jn];W[hl];B[hn]C[there it is!RIGHT])))
+(;B[hn]C[];W[in];B[jn];W[hl]C[not good 'nuff.])))
+(;B[hn];W[in]C[White is connected.]))

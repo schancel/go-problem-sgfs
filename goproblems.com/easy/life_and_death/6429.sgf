@@ -1,0 +1,49 @@
+(;GE[life and death]DI[5k]DP[33]SO[Max007]CO[8]GM[1]FF[1]SZ[19]NE[B]SS[@25]
+AB[sd][se][re][qe][pe][oe][od][oc][nb][na][pa][sa]
+AW[oa][ob][pb][pc][pd][qd][rd][sc][sb]
+(
+;B[rb]ID[1]
+;W[rc]ID[2]
+   (
+   ;B[ra]ID[3]
+   ;W[qa]ID[4]
+   )
+   (
+   ;B[qb]ID[18]
+   ;W[qa]ID[19]
+   )
+)
+(
+;B[qb]ID[5]
+;W[rc]ID[6]
+   (
+   ;B[ra]ID[7]
+   ;W[qa]ID[8]C[ko]
+   )
+   (
+   ;B[qa]ID[16]
+   ;W[ra]ID[17]
+   )
+)
+(
+;B[rc]ID[9]
+;W[rb]ID[10]
+;B[qb]ID[11]C[RIGHT nice Ryoatari]
+)
+(
+;B[qa]ID[12]
+;W[qb]ID[13]
+;B[rb]ID[14]
+;W[ra]ID[15]
+)
+(
+;B[ra]ID[20]
+;W[rb]ID[21]
+)
+(
+;B[qc]ID[22]
+;W[rc]ID[23]
+;B[qb]ID[24]
+;W[qa]ID[25]
+)
+)

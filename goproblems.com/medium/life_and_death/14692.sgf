@@ -1,0 +1,29 @@
+(;GE[life and death]DI[1d]DP[16]SO[piccolo]CO[0]AB[bp]AB[bq]AB[cq]AB[dq]AW[bo]AW[co]AW[cp]AW[dp]AW[eo]AB[ep]AB[fp]AB[gp]AB[fq]AW[en]AB[ho]AB[io]AB[ip]AW[hp]AW[gq]AW[hq]AW[iq]AW[jp]AW[kp]AB[jq]AB[kq]AW[lp]AB[mp]AB[mq]AB[kr]AW[jr]AW[ir]AW[hs]AB[hr]AB[gr]AW[eq]AW[er]AW[fr]AW[dr]AB[cr]AB[mr]AB[nq]AW[kn]AW[ln]AW[mo]AB[fn]AB[gn]AB[cs]C[Black just played 1, threatening life with A2. What is the best reply ?]LB[cs:1]AW[bm]AW[em]AB[im]AW[mm]AP[goproblems]
+(;W[bs]
+(;B[ds]
+(;W[gs];B[gr]
+(;W[hr];B[es];W[fs];B[js];W[ap];B[aq];W[ao];B[ks]
+(;W[ar]C[Well done !RIGHT])
+(;W[br]C[Well done !RIGHT]))
+(;W[fs];B[ar];W[ap];B[js];W[ao];B[ks];W[aq];B[is]C[Seki. You can do better.]))
+(;W[fs];B[js];W[gs];B[ar];W[ap];B[ks];W[ao];B[is];W[aq];B[gr]C[Seki. You can do better.])
+(;W[js];B[fs];W[gs];B[gr];W[hr];B[es];W[gr];B[ks]C[Nope.])
+(;W[ap];B[fs];W[gs];B[gr];W[hr];B[es];W[gr];B[js]C[Oops.])))
+(;W[ap]
+(;B[ar];W[bs];B[ds];W[gs];B[gr]
+(;W[hr];B[es];W[fs];B[js];W[ao];B[ks];W[aq]C[Well done !CHOICERIGHT])
+(;W[fs]))
+(;B[ds];W[gs];B[gr]
+(;W[hr];B[es];W[fs];B[js]
+(;W[bs])
+(;W[aq];B[ar];W[ao];B[bs]C[You could have killed the corner.]))
+(;W[fs];B[js];W[ar])))
+(;W[ar];B[ds]
+(;W[gs];B[gr]
+(;W[hr];B[es];W[fs];B[js]C[Black captures first.])
+(;W[fs];B[js];W[ap];B[ks]C[Black captures first.])
+(;W[js];B[fs]))
+(;W[js];B[fs];W[gs];B[gr];W[hr];B[es];W[gr];B[ks]))
+(;W[ds];B[ar]C[The corner is alive (you could have killed).]MA[ap]MA[bs])
+(;W[gs];B[ar]MA[ap]MA[bs]C[The corner is alive (you could have killed).])
+(;W[js];B[ar]C[The corner is alive (you could have killed).]MA[ap]MA[bs]))

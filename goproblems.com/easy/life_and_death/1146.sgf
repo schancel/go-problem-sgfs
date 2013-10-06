@@ -1,0 +1,8 @@
+(;GE[life and death]DI[25k]DP[77]SO[loewenherz]CO[7]C[White to live]AB[sb]AB[rb]AB[qa]AB[nb]AB[sc]AB[rd]AB[sd]AB[oc]AB[pc]AB[od]AB[pe]AB[pf]AB[qf]AB[rf]AB[sf]AB[ne]AB[mc]AB[na]AW[qb]AW[pb]AW[ob]AW[rc]AW[qc]AW[qd]AW[qe]AW[re]AW[se]AW[pd]
+(;W[ra]C[Snapback: Black can't capture without being caught.RIGHT])
+(;W[sa];B[ra]
+(;W[pa];B[oa]C[Attacking this side means suicide])
+(;W[oa];B[pa]C[White is dead]))
+(;W[pa]
+(;B[oa]C[Attacking this side means suicide]))
+(;W[oa];B[pa]C[White is dead]))

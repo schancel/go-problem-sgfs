@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[5d]DP[6]SO[nutcase]CO[7]AB[se]AB[re]AB[qe]AB[pd]AB[od]AB[oc]AB[nc]AB[mb]AW[qh]AW[qf]AW[pe]AW[oe]AW[ne]AW[rd]AW[qd]AW[pc]AW[lb]SZ[19]
+(;B[rc];W[qc]
+(;B[pb];W[qb];B[rb];W[qa]
+(;B[ra];W[ob]
+(;B[oa];W[pa];B[na]C[RIGHT])
+(;B[sd];W[pa]
+(;B[na];W[nb];B[mc];W[sc];B[sb];W[rf];B[ma];W[sf])
+(;B[nb];W[na])))
+(;B[sd];W[ob];B[oa];W[pa];B[na];W[ra];B[sc];W[rf];B[sa]C[Wrong.]))
+(;B[sd];W[rb];B[sb];W[qb];B[ra]C[Wrong.]))
+(;B[qc];W[rc]
+(;B[pb];W[rb]C[Wrong.])
+(;B[rb];W[qb]
+(;B[sc];W[sb];B[sa];W[qa];B[sd];W[qc];B[pa];W[ob];B[oa];W[rf]C[Wrong.])
+(;B[sb];W[ob];B[pa];W[nb]
+(;B[pb];W[qa];B[qc]C[Wrong.])
+(;B[mc];W[qa];B[na];W[sd]C[Wrong.])))))

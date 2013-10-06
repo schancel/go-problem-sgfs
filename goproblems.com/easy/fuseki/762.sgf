@@ -1,0 +1,36 @@
+(;GE[fuseki]DI[18k]DP[68]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:1][jq:A][qj:B][yy:1][qi:B][jp:A][yy:1][pj:B][pi:B]C[What is the biggest extension?]
+PL[B]
+AB[pq][qo]
+(;B[jq]
+C[RIGHT
+This (or A) is an important point in any 
+fuseki and should be played as soon 
+as possible. The follow-up's are B and 
+C. Please note that the black 'wall' is 
+3 stones high.]
+LB[jq:1][jp:A][jo:B][pj:C][jq:1][jq:1][oq:1][op:2][oo:3]MN[1]
+)(;B[qj]
+C[This is the smaller side because the 
+black 'wall' is only 2 stones high.]
+LB[qj:1][qn:1][pn:2])(;B[jp]
+C[RIGHT
+This (or A) is an important point in any 
+fuseki and should be played as soon 
+as possible. B is the follow-up. Please 
+note that the black 'wall' is 3 stones 
+high.]
+LB[jp:1][jp:1][jq:A][jp:1][pj:B][pi:B][qi:B][qj:B][jp:1][oq:1][op:2][oo:3])(;B[pj]
+C[This is the smaller side because the 
+black 'wall' is only 2 stones high]
+LB[pj:1][qn:1][pn:2])(;B[qi]
+C[This is the smaller side because the 
+black 'wall' is only 2 stones high]
+LB[qi:1][qn:1][pn:2])(;B[pi]
+C[This is the smaller side because the 
+black 'wall' is only 2 stones high]
+LB[pi:1][qn:1][pn:2]))

@@ -1,0 +1,75 @@
+(;GE[life and death]DI[3k]DP[24]SO[mocramis]CO[0]AW[bg]AW[ch]AW[bi]AW[dg]AW[eg]AW[fh]AW[gi]AW[gj]AW[gk]AW[gl]AW[el]AW[ek]AW[dj]AW[di]AB[cf]AB[bf]AB[df]AB[ef]AB[ff]AB[gf]AB[bj]AB[cj]AB[ci]AB[ai]AB[bk]AB[cl]AB[dk]AB[dl]AW[bl]AW[al]AW[bm]AW[cm]AB[dm]AB[em]AB[fm]AB[gm]AB[hm]AB[hl]AB[hk]AB[hj]AB[hh]AB[fj]LB[hf:T]C[Should white tennuki (T) or Defend (D) ? On the rest of the board, the biggest move worth 10 points.FORCE]LB[hg:D]AP[goproblems]
+(;W[hf];B[cg]
+(;W[fi];B[fl];W[fk];B[dh]
+(;W[eh];B[ej]C[All Dead :(CHOICE])
+(;W[ej];B[eh]C[All Dead :(CHOICE]))
+(;W[fl];B[dh]
+(;W[eh];B[ej]C[Not Even a seki :(CHOICE])
+(;W[fi]C[Looking for a seki ?];B[eh];W[ei];B[dh]C[Not even one :(CHOICE])
+(;W[ej]C[Looking for a seki ?];B[eh];W[ei];B[dh]C[Not even one :(CHOICE]))
+(;W[dh];B[fl];W[fk];B[ei]C[All dead :(CHOICE])
+(;W[ej];B[fl]
+(;W[fi];B[eh]
+(;W[fk];B[dh]C[All Dead :(CHOICE])
+(;W[dh];B[fk]C[All Dead :(CHOICE]))
+(;W[fk];B[dh]
+(;W[eh];B[fi]C[All dead :(CHOICE])
+(;W[fi])))
+(;W[ei];B[fl]
+(;W[fk];B[dh]C[All Dead :(CHOICE])
+(;W[dh];B[fk]C[All Dead :(CHOICE]))
+(;W[eh];B[fl]C[This is not the way to live.CHOICE])
+(;W[fk];B[dh]C[All dead :(CHOICE]))
+(;W[hg];B[gg]AW[fj]AB[el]AB[ek]AB[gl]AB[gk]AB[gj]AB[gi]AB[dj]AB[di]AB[fh]AB[eg]AB[ch]AB[dg]AB[bg]AB[bi]AW[ai]AW[bj]AW[ci]AW[cj]AW[bk]AW[dk]AW[dl]AW[dm]AW[em]AW[fm]AW[gm]AW[hm]AW[hl]AW[hk]AW[hj]AW[hh]AW[gg]AW[gf]AW[ff]AW[ef]AW[df]AW[cf]AW[bf]AB[al]AB[bl]AW[cl]AB[bm]AB[cm]C[ok prove it.]
+(;W[fl];B[fk]
+(;W[cg]
+(;B[fi]
+(;W[dh]
+(;B[ej]
+(;W[eh];B[ei];W[dh]C[Right :)RIGHT])
+(;W[bh];B[eh]C[Black lives.CHOICE]))
+(;B[eh];W[ej]C[Right :)RIGHT]))
+(;W[ej];B[ei];W[dh]C[Right :)RIGHT]))
+(;B[ej]
+(;W[dh]
+(;B[eh];W[fi]C[Right :)RIGHT])
+(;B[fi]))
+(;W[fi];B[ei];W[dh]C[Right :)RIGHT])))
+(;W[ei];B[ej]
+(;W[cg];B[fi]C[Black lives easilyCHOICE])
+(;W[fi];B[cg]C[Easy life for black.CHOICE])
+(;W[eh];B[cg]C[Easy life for black.CHOICE]))
+(;W[dh];B[cg]
+(;W[ei];B[ej]C[Nope.CHOICE])
+(;W[ej];B[ei]C[Nope.CHOICE]))
+(;W[bh];B[cg]
+(;W[ei];B[eh]C[Black lives.CHOICE])
+(;W[fi];B[ei]C[Black lives.CHOICE]))
+(;W[fi];B[cg];W[ei];B[eh]C[Black lives easily.CHOICE])
+(;W[eh];B[cg]
+(;W[ei];B[ej]C[Bad shape.CHOICE])
+(;W[fi];B[ei]C[Black lives.CHOICE])))
+(;W[ei];B[ej]
+(;W[fl];B[fk])
+(;W[fi];B[cg]C[Black lives.CHOICE])
+(;W[cg];B[fi]C[Black lives.CHOICE])
+(;W[bh];B[fi]C[Black lives.CHOICE]))
+(;W[cg];B[fi]
+(;W[fl];B[fk])
+(;W[dh];B[ej]
+(;W[fl];B[fk])
+(;W[eh];B[ei];W[dh]C[Good :)RIGHT])
+(;W[fk];B[fl]
+(;W[eh]C[good :)RIGHT])
+(;W[bh];B[eh]C[Wrong.CHOICE]))
+(;W[bh];B[eh]C[Black is alive now.CHOICE]))
+(;W[fk];B[fl];W[dh];B[ej]))
+(;W[fk];B[fl]
+(;W[ei];B[ej]C[Black lives easily.CHOICE])
+(;W[dh];B[cg]
+(;W[ei];B[eh]C[Wrong.CHOICE])
+(;W[ej];B[ei]C[Wrong.CHOICE]))
+(;W[cg];B[ej]
+(;W[dh];B[fi])
+(;W[fi];B[dh]C[Black lives.CHOICE])))
+(;W[bh];B[ei]C[Black lives.CHOICE])))

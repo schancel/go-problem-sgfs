@@ -1,0 +1,11 @@
+(;GE[elementary]DI[15k]DP[63]SO[jocund]CO[3]AB[qr]AB[rq]AB[sq]AB[ps]AB[pq]AB[pp]AB[qp]AW[pr]AW[or]AB[qs]AW[os]AW[oq]AW[oo]AW[qo]AW[ro]AW[rp]AB[op]AB[np]AW[nq]AW[mq]AW[mr]AB[mp]AB[lp]AB[lq]AW[mo]AW[lo]AW[ko]AW[kp]AB[rs]AB[rr]AW[sp]AW[ss]AB[lr]AW[ns]AW[kq]AW[kr]AW[ks]AW[no]AB[po]AW[on]AW[om]AW[qn]AB[pn]AB[pm]AW[rn]AB[ql]AW[so]AW[sn]AB[rl]AB[sl]AW[pl]AW[ol]AW[qk]AW[rk]AW[sk]AW[pk]AB[ls]C[Is this seki as it stands? If you think so play L8 (Yes). If you think White is not safe yet and needs to defend play L7 (No) or just play where you think it is needed.]TR[kl]TR[km]LB[ll:Yes]LB[lm:No]AP[goproblems]
+(;W[kl]C[];B[qm]C[White dies completely. Black can play at N1 any time.])
+(;W[ms];B[qm]C[Black kills all. N1 was suicidal.])
+(;W[qm]C[Yes this is Seki.. Playing elsewhere would have been a major blunder.RIGHT])
+(;W[km];B[kl]C[Please show me how to make this seki.]
+(;W[qm]C[Correct.  Now all of those stones are in seki.  If black was allowed to connect at R7, white would be entirely dead.RIGHT])
+(;W[rm]C[White is completely dead. Black can play R7 or N1 anytime.])
+(;W[sm]C[White is completely dead. Black can play R7 or N1 anytime.])
+(;W[ms];B[qm]C[White loses all.]))
+(;W[lm]C[];B[ll]C[Please make this seki then.];W[qm]C[Very good.RIGHT])
+(;W[ll]C[];B[qm]C[White dies completely.]))

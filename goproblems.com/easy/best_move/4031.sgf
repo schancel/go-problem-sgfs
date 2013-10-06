@@ -1,0 +1,10 @@
+(;GE[best move]DI[18k]DP[68]SO[ellbur]CO[4]AB[fs]AB[er]AB[fq]AB[dr]AB[cr]AB[cq]AB[do]AB[dp]AB[ep]AB[fo]AB[go]AB[hn]AB[hm]AB[gm]AB[hl]AB[gk]AB[gj]AW[fk]AW[fl]AW[gl]AW[fm]AW[el]AW[fn]AW[gn]AW[en]AW[eo]AW[dn]AW[dm]AW[cn]AW[co]AW[cp]AW[bq]AW[br]AW[bs]AW[cs]AW[ds]AW[es]AW[gr]AB[fr]AB[ip]LB[lp:T]C[It's a little late in the game for this kikashi, but white insists on playing it. Black would like to tenuki. Play at T,  5pt, if you can.]AW[gp]MA[gp]AP[goproblems]
+(;B[lp];W[fp]
+(;B[ho];W[gq])
+(;B[gq];W[ho])
+(;B[hp];W[ho]))
+(;B[fp]C[Kikashi sente, and worth more than 5 pt.RIGHT])
+(;B[ho]C[Kikashi sente, and worth more than 5 pt.RIGHT])
+(;B[gq]C[Kikashi sente, and worth more than 5 pt.RIGHT])
+(;B[hp]C[Kikashi sente, and worth more than 5 pt. This is probably the best response as it gives the kikashi very little influence.RIGHT])
+(;B[hq];W[fp];B[ho];W[gq]))

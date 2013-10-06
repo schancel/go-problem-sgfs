@@ -1,0 +1,77 @@
+(;GE[life and death]DI[5d]DP[4]SO[pmurk]CO[0]SZ[19]AW[ro]AW[qp]AW[qq]AW[pr]AW[rs]AB[qk]AB[qn]AB[rn]AB[qo]AB[pp]AB[nq]AB[pq]AB[or]C[Black to play.http://gogameguru.com/]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]SO[http://gogameguru.com/]
+(;B[sr];W[rq]
+(;B[ps]
+(;W[sn]
+(;B[sp]
+(;W[so]
+(;B[sm];W[rp]
+(;B[qr];W[rr];B[sq]C[RIGHT])
+(;B[sq];W[qr]C[It's a seki, so white's alive.]))
+(;B[qr]C[RIGHT];W[rr]
+(;B[sm];W[rp];B[sq];W[rm];B[qm];W[rl]
+(;B[ql];W[rk];B[rj]C[RIGHT])
+(;B[rk]C[RIGHT]))
+(;B[sq];W[rm]
+(;B[qm]
+(;W[rl];B[rk]LB[sm:A]LB[rp:B]C[. If black had exchanged A for B earlier, it would be slightly better now, but that's a minor detail.RIGHT]))))
+(;B[sq]C[];W[qr]
+(;B[rp]C[RIGHT])
+(;B[sm];W[rp])))
+(;W[rp];B[so];W[sq];B[so]C[RIGHT]))
+(;B[sm];W[sp]C[White can cause trouble some trouble with a ko like this. Try to avoid fighting ko.])
+(;B[rl];W[sq])
+(;B[rm];W[sq])
+(;B[qr];W[rr];B[sp]C[RIGHT];W[so]))
+(;W[sp];B[sn]
+(;W[rr];B[so]C[RIGHT])
+(;W[sq];B[so]C[RIGHT])
+(;W[so];B[sq]C[RIGHT]))
+(;W[so];B[sq];W[rr];B[sn]C[RIGHT]))
+(;B[so];W[sp]LB[sn:A]LB[ps:B]C[It's a ko, because A and B are miai for white. Black can do better than this.])
+(;B[sp];W[sq]
+(;B[so];W[ps])
+(;B[ps];W[so])
+(;B[qr];W[rr]
+(;B[ps];W[so])
+(;B[so];W[ps]))))
+(;B[ps];W[so]
+(;B[rr];W[qr];B[rq];W[rp]
+(;B[sq];W[sr]C[It's a ko, but black can do better.])
+(;B[sr];W[sq]C[It's a ko, but black can do better.]))
+(;B[sr];W[sq]
+(;B[rq];W[rp]C[It's a ko, but black can do better.])
+(;B[rr];W[qr];B[rq];W[rp]C[It's a ko, but black can do better.]))
+(;B[sq];W[sr]
+(;B[rr];W[qr]C[It's a ko, but black can do better.])
+(;B[qr];W[rr])
+(;B[rq];W[rr];B[qr];W[rp]))
+(;B[sn];W[rq]
+(;B[sr];W[sq])
+(;B[sq];W[sr]))
+(;B[qr];W[rr]
+(;B[rq];W[rp];B[sq];W[sr])
+(;B[rp];W[rq])))
+(;B[so];W[rq]
+(;B[ps];W[sp]LB[sn:B]LB[sr:A]C[It's a ko, A and B are miai for white. Black can do better.])
+(;B[rp];W[sr]
+(;B[ps];W[qr])
+(;B[qr];W[ps]))
+(;B[sr];W[sp]LB[sn:B]LB[ps:A]C[It's a ko, A and B are miai for white. Black can do better.]))
+(;B[rp];W[rq]
+(;B[so];W[sr])
+(;B[ps];W[sp]))
+(;B[qr];W[rr]
+(;B[ps];W[rp];B[sq];W[sr];B[so];W[rq])
+(;B[rp];W[rq]
+(;B[so];W[ps])
+(;B[ps];W[sp]))
+(;B[rq];W[rp];B[sq];W[qs];B[so];W[sr]))
+(;B[sq];W[sp];B[ps];W[sr];B[rr];W[qr];B[ss];W[qs]C[It's a ko. Black can do better.])
+(;B[sp];W[rq]
+(;B[sr];W[sq]
+(;B[ps];W[so])
+(;B[qr];W[rr];B[ps];W[so])
+(;B[so];W[ps]))
+(;B[ps];W[so];B[sr];W[sq]))
+(;B[rq];W[rp];B[rr];W[qr];B[sr];W[ps];B[sp];W[so]C[Black has a two step ko, but this isn't a satisfactory result.])
+(;B[rr];W[qr];B[sr];W[rq];B[so];W[sp]LB[sn:A]LB[ps:B]C[It's a ko. A and B are miai for white, but black can do better.]))

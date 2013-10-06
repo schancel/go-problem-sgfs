@@ -1,0 +1,26 @@
+(;GE[life and death]DI[6d]DP[0]SO[santa c]CO[0]AB[sr]AB[ss]AB[rp]AB[qp]AB[qq]AB[pq]AB[oq]AW[nq]AW[nr]AW[ms]AW[mq]AW[op]AW[no]AW[pp]AW[ro]AW[so]AW[qo]C[W needs to kill to win. There are no threats elsewhere. (The two blocked locations are covered in #12631 and #15314)]AP[goproblems]
+(;B[ps]
+(;W[sp]C[CHOICE]
+(;B[rr];W[qs]
+(;B[or];W[os]
+(;B[ns]C[nice :)RIGHT])
+(;B[qr];W[pr]))
+(;B[sq];W[pr])
+(;B[qr];W[or]))
+(;B[sq];W[rr]LB[qr:1]LB[rs:2])
+(;B[or];W[rr])
+(;B[qr];W[or]))
+(;W[or]C[CHOICE]
+(;B[pr];W[rr];B[sp];W[rs];B[rq]C[];W[sq];B[sr];W[ss]C[RIGHT])
+(;B[sp];W[pr]MA[qr]MA[qs])
+(;B[rr];W[pr]MA[qr]MA[qs])))
+(;B[or]C[NOTTHISRIGHT])
+(;B[sp]C[NOTTHISRIGHT])
+(;B[qs];W[rr]
+(;B[sp];W[qr]
+(;B[rq];W[pr])
+(;B[pr];W[rq]))
+(;B[rq];W[sp])
+(;B[or];W[sp])
+(;B[qr];W[or]))
+(;B[rr];W[qs]))

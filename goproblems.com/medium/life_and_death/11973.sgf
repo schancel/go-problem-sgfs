@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3d]DP[10]SO[MeleeNewb]CO[0]AB[ra]AB[rc]AB[rd]AB[qf]AB[qg]AB[qh]AW[ri]AW[qi]AW[pi]AW[ph]AW[pf]AW[pg]AW[pe]AW[pd]AW[pa]AW[qa]AW[pc]AW[rk]AW[nc]AW[nb]AW[sb]AW[sf]AB[sg]AB[rb]LB[rb:1]LB[sf:2]LB[sg:3]C[Black defended incorrectly in problem 11971. Punish him.]AP[goproblems]
+(;W[rh];B[rg]
+(;W[re];B[qe]
+(;W[qd]C[Correct!RIGHT])
+(;W[sd];B[rf]))
+(;W[qe];B[re]))
+(;W[qe];B[re]
+(;W[rh];B[rg])
+(;W[rg];B[rh];W[sh];B[rf]
+(;W[sg];B[se];W[si];B[sc])
+(;W[sc];B[se])))
+(;W[rg];B[rh]
+(;W[sh];B[rf]
+(;W[se];B[sg]C[Ko is not enough.])
+(;W[sg];B[se];W[si];B[sc])
+(;W[re];B[sg]C[Ko is not enough.]))
+(;W[rf];B[re];W[sh];B[qe]
+(;W[si];B[se];W[sg];B[sc])
+(;W[se];B[sd];W[si];B[sg])
+(;W[sc];B[se];W[si];B[sg]))
+(;W[qe];B[rf];W[re];B[se]))
+(;W[re];B[qe]
+(;W[rg];B[rf]
+(;W[sh];B[se])
+(;W[rh];B[se]))
+(;W[rh];B[rf]
+(;W[rg];B[se])
+(;W[qd];B[se])))
+(;W[sh];B[se]
+(;W[qe];B[rf];W[rh];B[re])
+(;W[rg];B[rf];W[qe];B[re]
+(;W[sc];B[rh])
+(;W[rh];B[sc]))))

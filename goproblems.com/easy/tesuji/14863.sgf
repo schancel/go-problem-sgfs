@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[5k]DP[32]SO[dbosst]CO[0]AB[po]AB[qn]AB[qm]AB[pl]AB[ol]AB[qk]AB[oj]AW[pq]AW[qp]AW[pm]AW[om]AW[rl]AW[ql]AW[rk]AW[qi]TR[om]TR[pm]C[Capture the marked cutting stones.]AP[goproblems]
+(;B[nm];W[on]C[Good so far, but white doesn't see yet how you can capture him.  Where is the tesuji that captures these troublesome cutting stones?CHOICE]
+(;B[mo]
+(;W[oo]C[White continues to resist strongly.CHOICE];B[op];W[np]C[Hint: Be careful on this next move!CHOICE]
+(;B[no]C[Well done! White is captured.  White cannot capture P4 in a ladder because of O5.RIGHT]TR[oo]TR[on]TR[om]TR[pm])
+(;B[pp];W[no]C[So close! White escapes ...])
+(;B[oq];W[no]C[So close! White escapes.]))
+(;W[nn]C[For reference ...];B[mn]C[Black capures White easily...]
+(;W[oo];B[op]C[RIGHT])
+(;W[nl];B[mm];W[ok];B[pk];W[pj];B[nk]C[RIGHT])
+(;W[no];B[np]C[RIGHT]))
+(;W[no]C[For reference ....];B[np]C[];W[op];B[oo]C[Black captures White with a simple cross cut tesuji.RIGHT]))
+(;B[nn];W[oo]C[A loose ladder does not work here.  White escapes.])
+(;B[no];W[nn]C[The simplest net does not work here.  White escapes.  Please continue to playing if you wish to see how.];B[mn];W[mm];B[nl];W[mo];B[ln];W[oo]C[]
+(;B[op];W[np];B[pn];W[no]C[White escapes.])
+(;B[np];W[op]C[White links up and escapes.]))
+(;B[np];W[nn];B[mn];W[mm];B[nl];W[mo];B[ln];W[no]C[White escapes.])
+(;B[oo];W[nn]C[Black does not have a ladder that will work against white.  White escapes.]))
+(;B[nl];W[nn]C[White escapes.])
+(;B[mm];W[nn]C[White escapes.])
+(;B[nn];W[nm];B[mm];W[nl]
+(;B[ml];W[nk];B[mj];W[ok];B[pk];W[pj]C[The loose ladder fails.  White escapes.])
+(;B[mk];W[nk];B[nj];W[ok];B[pk];W[pj]C[The loose ladder fails.  White escapes.])))

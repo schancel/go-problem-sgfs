@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[34]SO[santa c]CO[0]AB[so]AB[sn]AB[rn]AB[qn]AB[pn]AB[oo]AB[op]AB[oq]AB[or]AB[ss]AW[sr]AW[sq]AW[sp]AW[po]AW[pp]AW[pq]AW[pr]C[B to kill]AB[nr]AP[goproblems]
+(;B[rp]
+(;W[rs]
+(;B[rq]MA[rr]MA[ps]C[RIGHT])
+(;B[qq]MA[qr]MA[rq]C[RIGHT])
+(;B[qr]MA[ps]MA[qq]C[RIGHT])
+(;B[ps]MA[rq]MA[qr]C[RIGHT]))
+(;W[qq];B[rr]C[RIGHT])
+(;W[rq];B[qq]C[RIGHT]))
+(;B[rs]C[see next problem :)])
+(;B[qq];W[rp]
+(;B[qr];W[qs])
+(;B[qs];W[qr])
+(;B[ps];W[qr]))
+(;B[rq];W[rp])
+(;B[qr];W[qq])
+(;B[rr];W[rs])
+(;B[qp];W[rs])
+(;B[qo];W[rs])
+(;B[ro];W[rs])
+(;B[qs];W[rs])
+(;B[ps];W[qs]
+(;B[rp];W[qq]
+(;B[rr];W[rq];B[rs]C[Well done! :)RIGHT])
+(;B[rq];W[rr];B[os]C[RIGHT]))
+(;B[qr];W[qq])
+(;B[rr];W[rs])
+(;B[rq];W[rp])))

@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[6d]DP[0]SO[Song17]CO[0]AB[ac]AB[bc]AB[bb]AB[cb]AB[db]AB[eb]AB[ea]AW[ca]AW[ba]AW[aa]AW[fb]AW[gb]AW[hb]AW[ga]AW[gc]AB[fc]AB[fd]AB[ed]AB[gd]AB[ge]AB[hc]AB[id]AW[ec]AW[dc]AW[cc]AW[cd]AW[bd]AW[de]AW[ee]AW[fe]AW[ff]AW[fg]AW[fh]AW[fi]AW[ei]AW[gi]AW[hi]AW[gj]AW[ii]AW[ji]AW[ki]AW[kj]AW[kk]AW[hk]AW[ik]AW[il]AW[im]AW[in]AW[gn]AW[jo]AW[iq]AW[gr]AW[dq]AW[dp]AW[cq]AW[bq]AW[co]AW[cn]AW[bm]AW[cl]AW[dl]AB[bl]AB[ck]AB[dj]AB[di]AB[ej]AB[fj]AB[eh]AB[eg]AB[ef]AB[df]AB[cf]AW[dg]AB[gk]AB[gl]AB[hl]AB[fm]AB[do]AB[ep]AB[eq]AB[fq]AB[dr]AB[cr]AB[hp]AB[ip]AB[hj]AB[ij]AB[jj]AB[jk]AB[jl]AB[jm]AB[jn]AB[kn]AW[lm]AB[mm]AB[ml]AB[mk]AB[mj]AB[li]AB[lh]AB[kg]AB[jg]AB[ig]AB[hf]AB[gf]AB[lf]AB[le]AB[ke]AB[kd]AW[he]AW[ie]AW[je]AW[jd]AW[jc]AW[kc]AB[lc]AB[mc]AB[mb]AB[nc]AB[oc]AB[od]AB[pd]AW[ob]AW[nb]AW[pc]AW[qc]AW[qb]AW[qd]AB[pb]AW[rd]AW[pe]AW[oe]AW[md]AW[ld]AW[me]AW[mf]AW[nf]AB[mg]AB[ng]AW[og]AW[nh]AW[oi]AW[pi]AW[nj]AW[nk]AB[qi]AB[ph]AB[oh]AB[qg]AB[qf]AB[qe]AB[rh]AW[ri]AW[qj]AB[pj]AW[om]AW[pm]AW[qm]AB[qn]AB[pn]AB[po]AB[qp]AB[pq]AB[op]AB[nq]AB[no]AB[mp]AB[lq]AW[oq]AW[or]AW[pr]AW[qq]AW[rq]TR[lf]AW[nd]LB[nd:1]C[Help me understand why did w resign and didn't play the move at 1]AP[goproblems]
+(;B[kb];W[ma];B[ib]
+(;W[ic];B[jb];W[hd];B[lb];W[pf];B[pg]C[Correct - white can't win this ko...RIGHT]))
+(;B[ib];W[ic]
+(;B[kb];W[ma]
+(;B[lb];W[jb]C[That can't be a good reason for white to resign, can it?])
+(;B[jb];W[lb];B[hd];W[ka];B[fa]C[Well done - The big dragon is suddenly captured!RIGHT]))
+(;B[jb];W[kb]))
+(;B[jb];W[kb];B[pg];W[lb]C[Not enough.])
+(;B[na];W[pa]
+(;B[kb]
+(;W[oa]
+(;B[ib];W[ic]
+(;B[jb];W[lb]
+(;B[hd]C[RIGHT])
+(;B[la];W[ma]
+(;B[hd]C[RIGHT])
+(;B[lb];W[ia];B[pf];W[ja];B[na]LB[kf:A]LB[ln:B]C[Not sure about this.. w has a local threat at A and B is also big. Better take a simpler path.])))
+(;B[pf];W[lb];B[la];W[ma];B[jb];W[lb];B[hd];W[ka];B[fa]C[RIGHT]))
+(;B[jb];W[ib];B[la];W[ja];B[pf];W[ma]C[Black can avoid this ko and win, so please look for the easier path.])
+(;B[pf];W[lb];B[la];W[ma]
+(;B[lb];W[jb];B[na]C[Black doesn't need this ko.])
+(;B[ib];W[ic];B[jb];W[lb];B[hd]C[This gives black the whole center - Well done.RIGHT]))))
+(;B[ib];W[ic];B[kb];W[jb];B[la];W[oa]C[Very bad ko for black...]))
+(;B[la];W[kb])
+(;B[ma];W[la];B[kb];W[pa]
+(;B[jb];W[ib])
+(;B[ib];W[ic]
+(;B[jb];W[hd]
+(;B[pf]C[RIGHT])
+(;B[pg]C[Q14 avoids the ko, but It's acceptible I think, cause white could play Q14 beforeRIGHT]))
+(;B[hd];W[jb])))
+(;B[pf];W[lb]C[Not what black intended, I'm afraid...]))

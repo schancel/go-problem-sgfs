@@ -1,0 +1,13 @@
+(;GE[life and death]DI[6k]DP[39]SO[sinse33]CO[0]AB[rr]AB[rq]AB[rp]AB[ro]AB[qo]AB[pq]AB[mq]AB[lr]AB[lp]AB[lo]AB[mn]AB[mm]AB[nm]AB[om]AB[pn]AW[pr]AW[qr]AW[qq]AW[qp]AW[oo]AW[po]AW[nn]AW[mo]AW[mp]AW[nq]AW[oq]C[Kill white group]AB[nr]AP[goproblems]
+(;B[op];W[pp])
+(;B[pp]
+(;W[op]C[CHOICE];B[no];W[np];B[on]C[Correct !RIGHT])
+(;W[on]C[CHOICE];B[np]
+(;W[no]C[CHOICE];B[op]C[Correct !RIGHT])
+(;W[op]C[CHOICE];B[no]C[Correct !RIGHT]))
+(;W[no]C[CHOICE];B[op]C[];W[np];B[pp]C[Correct !RIGHT]))
+(;B[no];W[np]
+(;B[on];W[pp])
+(;B[pp];W[on]))
+(;B[on];W[no];B[op];W[pp])
+(;B[np];W[no]))

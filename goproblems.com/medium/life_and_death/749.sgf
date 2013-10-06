@@ -1,0 +1,47 @@
+(;GE[life and death]DI[1d]DP[16]SO[JoeSeki]CO[7]AW[pd]AW[od]AW[of]AW[qd]AW[pf]AW[og]AW[qg]AW[ph]AW[rh]AW[rj]AW[oj]AW[oi]AW[ok]AW[pk]AW[nk]AW[mk]AW[lk]AW[ll]AW[mm]AW[mn]AW[mo]AW[mp]AW[ol]AW[om]AW[on]AW[oo]AW[op]AW[qo]AW[ro]AW[so]AW[sp]AW[sq]AW[lp]AW[lq]AW[kp]AW[jp]AW[iq]AW[hq]AW[gq]AW[fq]AW[hr]AW[io]AW[in]AW[im]AW[il]AW[jm]AW[km]AW[fr]AB[qf]AB[qe]AB[pi]AB[ri]AB[qj]AB[qk]AB[rk]AB[pl]AB[pm]AB[qm]AB[rm]AB[sl]AB[ml]AB[nl]AB[nm]AB[nn]AB[no]AB[np]AB[nq]AB[mq]AB[oq]AB[pq]AB[qp]AB[rp]AB[rq]AB[qr]AB[sr]AB[lr]AB[kr]AB[kq]AB[jq]AB[ir]AB[js]AB[ln]AB[lm]AB[oh]AB[nh]AB[ni]AB[ng]AB[mg]AB[mj]AB[li]AB[lh]AB[kh]AB[kj]AB[kk]AB[kl]AB[jl]AB[ik]AB[hk]AB[hl]AB[hm]AB[hn]AB[ho]AB[go]AB[fp]AB[eq]AB[er]AB[dp]C[Black to Kill]SZ[19]
+(;B[gs];W[kn]
+(;B[jo];W[lo];B[lm];W[qi]
+(;B[pj];W[si]
+(;B[sn];W[rn];B[po];W[sm]
+(;B[qn]C[Success!RIGHT])
+(;B[pn]C[RIGHT])
+(;B[pp]C[RIGHT]))
+(;B[po];W[pn]
+(;B[qn];W[pp]
+(;B[sn]C[RIGHT])
+(;B[rn];W[sn]))
+(;B[sn]
+(;W[qn]
+(;B[pp];W[rn]C[Ko. White has enough liberties and some big threats.])
+(;B[rn];W[pp]C[White is alive too.])))
+(;B[pp];W[qn])
+(;B[rn];W[sn])))
+(;B[sj];W[pj]C[Wrong])
+(;B[qh];W[fs];B[hs];W[qi];B[pj];W[si]
+(;B[sn];W[rn];B[po];W[sm]
+(;B[qn]C[RIGHT])
+(;B[pn]C[RIGHT])
+(;B[pp]C[RIGHT]))
+(;B[po];W[pn]
+(;B[qn];W[pp]
+(;B[sn];W[po]
+(;B[rn]C[RIGHT])
+(;B[nj]C[Sneaky :)RIGHT])
+(;B[lj]C[Rub it in!RIGHT]))
+(;B[rn];W[sn]))
+(;B[sn]
+(;W[qn]
+(;B[rn];W[pp]C[White lives.])
+(;B[pp];W[rn]C[Ko. White has enough liberties and some big threats.])))
+(;B[rn];W[sn]))))
+(;B[lo];W[ko];B[lm];W[ln]C[Wrong])
+(;B[ko];W[jo]))
+(;B[fs];W[gs]C[Wrong])
+(;B[sn];W[gs]C[Wrong])
+(;B[kn];W[gs]C[White has two eyes.])
+(;B[po];W[kn]C[The larger part of the white group lives.])
+(;B[hp]C[NOTTHIS])
+(;B[ko];W[gs]C[White lives])
+(;B[jo];W[gs]C[White has two eyes.])
+(;B[sj]C[Much too small. We are trying to kill the white group here!])
+(;B[qi];W[kn]C[White lives easily.]))

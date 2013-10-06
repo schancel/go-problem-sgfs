@@ -1,0 +1,7 @@
+(;GE[life and death]DI[4k]DP[30]SO[magrock]CO[0]AB[ds]AB[er]AB[eq]AB[dq]AB[fp]AB[fn]AB[em]AB[dm]AB[cm]AB[bm]AB[bn]AB[bp]AB[cp]AW[bo]AW[ao]AW[ap]AW[dn]AW[cn]AW[do]AW[dp]AW[cq]AW[cr]AW[dr]AW[ar]AP[goproblems]
+(;B[bs];W[br];B[bq];W[cs])
+(;B[cs];W[bs];B[bq];W[es])
+(;B[bq];W[br];B[bs];W[cs])
+(;B[br]
+(;W[bq]C[CHOICE];B[bs]LB[cs:X]C[white can't play at C1, so white is deadRIGHT])
+(;W[bs]C[CHOICE];B[bq]LB[cs:X]C[same story, although now C1 is 'oiotoshi'RIGHT])))

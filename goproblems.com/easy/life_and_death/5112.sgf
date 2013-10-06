@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[40]SO[marwin]CO[7]AW[lo]AW[po]AW[qo]AW[ro]AW[so]AW[mp]AW[np]AW[op]AW[kq]AW[lq]AW[rq]AW[kr]AW[nr]AW[or]AW[qr]AW[rr]AW[sr]AW[ks]AW[rs]AB[pp]AB[qp]AB[rp]AB[sp]AB[mq]AB[nq]AB[oq]AB[pq]AB[lr]AB[mr]AB[pr]AB[os]AB[ps]LB[qq:A]C[Black to kill (if you want to remove liberties,  pls begin with A)]
+(;B[ls];W[ns]TR[qq]TR[sq]TR[qs]C[Black has bigger eye, and he will take these 3 stones before taking the last triangle liberty, and then ,after O2, he will atariRIGHT])
+(;B[ns];W[ls]C[this is seki]
+(;B[qq];W[nr]
+(;B[sq];W[ms];B[or])
+(;B[qs];W[ms];B[or]))
+(;B[ms]))
+(;B[qq];W[ls]
+(;B[sq];W[ms]
+(;B[ns];W[nr]C[seki])
+(;B[qs];W[ns]))
+(;B[ns];W[ms]
+(;B[sq];W[nr]C[seki])
+(;B[qs];W[nr]C[seki]))
+(;B[qs];W[ms];B[ns];W[nr];B[or])))

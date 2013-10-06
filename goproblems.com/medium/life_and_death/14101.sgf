@@ -1,0 +1,32 @@
+(;GE[life and death]DI[2k]DP[23]SO[siulkilulki]CO[0]AB[hc]AB[fc]AB[fb]AB[fa]AB[ge]AB[ef]AB[de]AB[dd]AB[cf]AB[be]AW[bd]AW[bc]AW[bb]AW[ab]AW[dc]AW[ec]AW[ed]AP[goproblems]
+(;B[ca];W[ba];B[ad];W[cb]
+(;B[da];W[db];B[cd];W[ea])
+(;B[cd];W[da]))
+(;B[da]
+(;W[ad];B[ba];W[cb];B[ca];W[cd];B[db]C[RIGHT])
+(;W[ca]C[CHOICE];B[ba]
+(;W[cb]C[CHOICE];B[ad]
+(;W[db]C[CHOICE];B[cd]C[RIGHT])
+(;W[cd]C[CHOICE];B[db]C[RIGHT]))
+(;W[aa]C[CHOICE]
+(;B[db]
+(;W[ad]C[CHOICE];B[cb]C[RIGHT])
+(;W[cb]C[CHOICE];B[ad]C[RIGHT]))
+(;B[cc]C[RIGHT])
+(;B[cd]C[RIGHT]))))
+(;B[ba]
+(;W[cb];B[da];W[ca];B[ad])
+(;W[ca];B[da]
+(;W[cb];B[ad])
+(;W[aa];B[db];W[cb];B[ad]))
+(;W[da]C[CHOICE]
+(;B[cb];W[db];B[ca];W[ad])
+(;B[eb];W[db];B[ad];W[cd])
+(;B[cc];W[cd])
+(;B[ad];W[eb]
+(;B[cb];W[ca])
+(;B[ca];W[cb]))
+(;B[ca];W[eb]
+(;B[cb];W[ad];B[cc];W[cd];B[ea];W[aa])
+(;B[ea];W[cb]C[white can make ko so black can do better and b19 is bad
+])))))

@@ -1,0 +1,9 @@
+(;GE[life and death]DI[12k]DP[58]SO[BountyHunterSAx]CO[0]AB[ba]AB[cb]AB[bb]AB[cc]AB[ec]AB[eb]AB[fb]AB[fa]AB[dd]AW[dc]AW[ab]AW[ed]AW[ee]AW[cd]AW[ce]AW[bd]AW[bc]AW[fc]AW[gc]AW[gb]C[Black to live.]AP[goproblems]
+(;B[db];W[da]
+(;B[de];W[df]LB[dc:F]C[F is a false eye - black only has one eye, so it dies.])
+(;B[ga];W[hb])
+(;B[dc];W[de]C[Black only has one eye - so black dies.]))
+(;B[ca];W[if]C[White can tenuki now, black has taken away his own eyespace.];B[db]LB[dc:F]C[F is a false eye, so black dies.])
+(;B[da];W[de]C[Does black need another play, or can black tenuki at T?]LB[he:T]
+(;B[db]C[While this does make life, black actually could tenuki.])
+(;B[he]LB[db:A]LB[dd:B]C[Right! White cannot approach at A without first playing at B.RIGHT])))

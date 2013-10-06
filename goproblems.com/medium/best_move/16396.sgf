@@ -1,0 +1,53 @@
+(;GE[best move]DI[3k]DP[24]SO[BartTM]CO[0]AB[sj]AB[rj]AB[qj]AB[oi]AB[nj]AB[ol]AB[pn]AB[po]AW[si]AW[ri]AW[qi]AB[pi]AB[ok]AB[pm]AW[ph]AW[oh]AW[nh]AW[mi]AW[mj]AW[nk]AW[nl]AW[om]AB[ni]AW[qh]AW[rn]AB[pp]AB[rp]AB[sq]AB[rr]AW[on]AW[oo]AW[oq]AW[pr]AW[pq]AW[qr]AB[qq]AW[np]AW[rs]AP[goproblems]
+(;W[pj]
+(;B[oj]C[Black stubbornly wants to keep all...]
+(;W[pl];B[pk]
+(;W[ql];B[qk]
+(;W[rl];B[rm]
+(;W[sk];B[qm])
+(;W[qm]C[Black's greed has turned sour. White now can kill the top part of the group. (But beware of making it seki. T7 and R6 are miai for the kill.)RIGHT])
+(;W[sm];B[qm])
+(;W[sl];B[qm])
+(;W[rk];B[qm]))
+(;W[sl];B[rl])
+(;W[sk];B[rl])
+(;W[qm];B[rl])
+(;W[rm];B[rl])
+(;W[sm];B[rl]))
+(;W[qk];B[ql])
+(;W[rl];B[ql]))
+(;W[pk];B[pl];W[qk];B[rk];W[ql];B[rl];W[qm];B[rm];W[qn];B[ro])
+(;W[qk];B[pk])
+(;W[ql];B[pl])
+(;W[rk];B[qk]))
+(;B[pk]C[Black should play here of course.];W[oj];B[qk]C[Sente reduction, best for both.RIGHT])
+(;B[pl];W[oj];B[pk]C[Another sente reduction.RIGHT]))
+(;W[pl];B[pk]
+(;W[pj];B[ql];W[oj]C[You captured 4 stones in gote. This is both a point and a move worse than what you can get if you start at Q10, even if Black would play optimally there.])
+(;W[ql];B[rl]
+(;W[pj]
+(;B[qk];W[oj]C[You captured 4 stones in gote. This is both a point and a move worse than what you can get if you start at Q10, even if Black would play optimally there.]))
+(;W[qk];B[pj];W[qm];B[rk];W[ro];B[rm];W[qn];B[sr])
+(;W[rk];B[qm])
+(;W[oj];B[pj])
+(;W[qm];B[qk];W[ro];B[rm];W[qn];B[sr]))
+(;W[oj];B[pj];W[ql];B[rl])
+(;W[qk];B[ql]))
+(;W[ql];B[pl];W[pj];B[oj])
+(;W[qk];B[pk])
+(;W[pk];B[pl]
+(;W[pj];B[oj])
+(;W[qk];B[rk]
+(;W[ql];B[rl]
+(;W[pj];B[oj])
+(;W[qm];B[rm]
+(;W[qn];B[ro]
+(;W[pj];B[oj])
+(;W[qo];B[sn]))
+(;W[pj];B[oj]))
+(;W[rm];B[qm]))
+(;W[pj];B[oj])
+(;W[rl];B[ql]))
+(;W[ql];B[qk]))
+(;W[oj];B[pj])
+(;W[sr];B[pj];W[rq];B[ro]C[Nice reduction, but not that big.]))

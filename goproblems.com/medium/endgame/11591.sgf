@@ -1,0 +1,39 @@
+(;GE[endgame]DI[3d]DP[10]SO[Eryth]CO[0]AB[ra]AB[rb]AB[rc]AB[qd]AB[pd]AB[nd]AB[od]AB[me]AB[le]AB[kd]AB[kc]AB[kb]AW[lb]AW[lc]AW[ld]AW[nc]AW[oc]AW[pc]AW[qb]AW[qa]AB[ib]C[]AP[goproblems]
+(;B[pb]
+(;W[mb]C[See variations why white has to answer here]
+(;B[qc];W[ob]
+(;B[pa];W[md];B[oa];W[na]C[CHOICERIGHT])
+(;B[oa];W[na];B[pa];W[md]C[CHOICERIGHT]))
+(;B[ob];W[qc]
+(;B[la];W[md]
+(;B[ma];W[na]
+(;B[ka];W[nb])
+(;B[nb];W[ka]))
+(;B[na];W[nb];B[ma];W[oa]))
+(;B[md];W[oa]
+(;B[na];W[nb];B[pa];W[oa])
+(;B[mc];W[nb];B[la];W[ma])
+(;B[nb];W[mc];B[la];W[ma]C[You can't kill, so you are better off capturing the two stones.])
+(;B[la];W[ma]
+(;B[mc];W[nb])
+(;B[nb];W[mc])))
+(;B[nb];W[oa]
+(;B[md];W[mc];B[la];W[ma])
+(;B[la];W[ma];B[md];W[mc])))
+(;B[la];W[ob]))
+(;W[ob];B[mb];W[mc];B[la];W[nb];B[ma];W[na];B[pa]C[RIGHT])
+(;W[pa];B[la];W[mb];B[ob]C[RIGHT])
+(;W[oa];B[qc];W[pa];B[mb]C[Black to reduce white as much as possible]))
+(;B[mb];W[mc]
+(;B[la];W[ma];B[na];W[oa]
+(;B[ka];W[nb];B[ma];W[pb])
+(;B[ma];W[nb];B[ka];W[pb]C[Not good enough])
+(;B[pb];W[nb];B[qc];W[ma];B[pa];W[ob]LB[ka:a]LB[ja:b]C[As later White can exchange a for b in sente, this is 2/3 points worse than the correct answer.]))
+(;B[pb];W[pa];B[la];W[nb];B[ma];W[na];B[ka];W[ob]))
+(;B[la];W[mb]
+(;B[pb];W[ob])
+(;B[md];W[ob]))
+(;B[na];W[nb]
+(;B[la];W[oa];B[ma];W[mb];B[ka];W[md])
+(;B[oa];W[ma])
+(;B[ma];W[la])))

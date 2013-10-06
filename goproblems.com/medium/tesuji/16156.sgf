@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[2d]DP[13]SO[mrvale]CO[0]AB[bd]AB[cd]AB[dd]AB[cf]AB[ec]AB[eb]AB[ea]AB[fc]AB[gc]AB[ic]AB[jc]AB[kb]AB[ba]AW[ab]AW[bc]AW[cc]AW[dc]AW[db]AW[da]AW[ed]AW[fd]AW[gd]AW[hd]AW[id]AW[jd]AW[kc]AW[lc]AW[mc]C[Theres a Tesuji for W to make a Semiai which is good for W. Can you see it?]AP[goproblems]
+(;W[ib];B[hb]
+(;W[jb];B[hc]C[FORCE]
+(;W[lb];B[ha]LB[ka:A]C[Please play at A first.FORCE];W[ka];B[ad]
+(;W[ac];B[bb]LB[ia:A]C[Please play at AFORCE];W[ia];B[aa]LB[fa:A]C[Please play at A.FORCE];W[fa];B[ca];W[cb];B[ba]LB[gb:A]C[Please play at A.FORCE];W[gb];B[bb]LB[ga:A]C[You know what to do ;)FORCE];W[ga];B[fb];W[ga];B[aa];W[ca];B[ba]LB[gb:A]C[And again, please :)FORCE];W[gb];B[fa]LB[ga:A]
+(;W[ga]C[W wins! nice :)RIGHT])
+(;W[gb]C[RIGHT]))
+(;W[ia];B[ac];W[bb];B[ca]LB[fa:A]C[Please play at A.];W[fa];B[cb];W[aa];B[ca]LB[gb:A]C[Please play at A.];W[gb];B[cb];W[ba];B[ca]C[W dies :(]))
+(;W[ka]C[RIGHT];B[ha]LB[lb:A]C[Please play at A first.];W[lb]))
+(;W[hc];B[ga]
+(;W[jb];B[fb]C[W dies :(]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da])
+(;W[fb];B[jb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])))
+(;W[hc];B[hb]
+(;W[ib];B[ga]
+(;W[jb];B[fb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[fb];B[jb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(]))
+(;W[gb];B[ga]
+(;W[ib];B[fb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[fb];B[fa]
+(;W[ib];B[jb])
+(;W[jb];B[ib]))))
+(;W[hb];B[hc]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[gb];B[hb];W[hc];B[ga]
+(;W[ib];B[fb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[fb];B[fa]))
+(;W[ha];B[hb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[ga];B[hb]TR[ab]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[W dies :(])
+(;W[jb];B[ib])
+(;W[bb];B[ca]TR[ab]TR[bb]TR[bc]TR[cc]TR[dc]TR[db]TR[da]C[w dies :(]))

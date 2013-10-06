@@ -1,0 +1,26 @@
+(;GE[elementary]DI[10k]DP[54]SO[chrise]CO[7]AB[cb]AB[cc]AW[dc]AW[db]AB[cd]AW[dd]AW[ce]AW[be]AB[ab]AW[fb]AW[bg]AP[goproblems]
+(;B[ba];W[bc]
+(;B[bd];W[ad]
+(;B[ae]C[NOTTHIS])
+(;B[ac]C[The beauty of the eye in the corner!  RIGHT])
+(;B[ca];W[ac])
+(;B[bb]C[The beauty of the eye in the corner!  RIGHT]))
+(;B[ac];W[bd])
+(;B[bb];W[bd]))
+(;B[bc];W[ba])
+(;B[bd];W[ba]
+(;B[ca];W[bb])
+(;B[bb];W[ac]
+(;B[ad];W[ca])
+(;B[ca];W[ad]))
+(;B[ac];W[bb]))
+(;B[bb];W[bd])
+(;B[ac];W[ba]
+(;B[bb];W[bd])
+(;B[bd];W[bb]))
+(;B[ad];W[ba]
+(;B[ca];W[bd])
+(;B[bd];W[ca]))
+(;B[ca];W[ba]
+(;B[bd];W[bb];B[bc];W[ad])
+(;B[bb];W[bd])))

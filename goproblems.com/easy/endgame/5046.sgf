@@ -1,0 +1,34 @@
+(;GE[endgame]DI[6k]DP[37]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.50]
+PW[Blanc]PB[Noir]AW[hb][ib][fc][hc][cd][dd][ed][gd][hd][fe][ge][bf][cf]AB[ic][id][de][ee][ie][df][ff][gf][hf][if][bg][cg][eg]C[Komi 0.5, no prisoniers, Japanese rules, it is black's turn.]
+(;B[be]CR[be]
+;W[ce]CR[ce]
+;B[af]CR[af]
+;W[ad]CR[ad]
+(;B[ae]CR[ae]
+;W[bd]CR[bd]
+;B[ag]CR[ag]C[RIGHT Black is winning by 0.5 points])
+(;B[bd]CR[bd]
+;W[bc]CR[bc]))
+(;B[ce]CR[ce]
+;W[be]CR[be]
+;B[af]CR[af]
+;W[ad]CR[ad]
+;B[ag]CR[ag]
+;W[ae]CR[ae]C[Black is losing by 0.5 points])
+(;B[ae]CR[ae]
+;W[be]CR[be]
+;B[af]CR[af]
+;W[ad]CR[ad]
+;B[ag]CR[ag]
+;W[ce]CR[ce]C[Black is losing by 0.5 points])
+(;B[af]CR[af]
+;W[be]CR[be]
+(;B[ae]CR[ae]
+;W[ad]CR[ad]
+;B[ag]CR[ag]
+;W[ce]CR[ce]C[Black is losing by 0.5 points])
+(;B[ce]CR[ce]
+;W[ad]CR[ad]
+;B[ag]CR[ag]
+;W[ae]CR[ae]C[Black is losing by 0.5 points])))

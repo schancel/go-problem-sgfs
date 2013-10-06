@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4d]DP[8]SO[santa c]CO[6]AB[be]AB[bf]AB[cg]AB[dg]AB[eg]AB[fh]AB[fi]AB[ej]AB[dj]AB[dk]AB[dl]AB[ck]AB[bn]AB[cn]AB[bo]AB[do]AB[go]AB[gm]AW[am]AW[bm]AW[cl]AW[bk]AW[ci]AW[cj]AW[ch]AW[bg]AW[ah]AW[eh]AW[ei]AB[ai]AB[aj]AB[ak]AW[bj]C[White isn't alive yet... What can you do?]AP[goproblems]
+(;B[cm]
+(;W[bl]
+(;B[bh];W[bi];B[af];W[al]
+(;B[ag];W[aj];B[bh]C[Well done, ko! :)RIGHT]MA[bg])
+(;B[aj];W[ag]C[:(]))
+(;B[af];W[bh]C[Seki :(])
+(;B[bi]C[living shape! :(])
+(;B[ag];W[bh]C[Seki! :(]))
+(;W[al];B[af];W[bi];B[ag];W[aj]C[Would leave a double ko! :(RIGHT]LB[bh:ko]LB[bl:ko])
+(;W[bi];B[af];W[al];B[ag];W[aj]C[Would leave a double ko! :(RIGHT]LB[bh:ko]LB[bl:ko]))
+(;B[bl];W[al]
+(;B[cm];W[bi]C[:(])
+(;B[af];W[cm]C[:(])
+(;B[bh];W[bi]C[:(]))
+(;B[af];W[cm]C[:(]LB[al:A])
+(;B[bh];W[bi]C[:(])
+(;B[al]C[Capturing 4 in a row, leaves a living shape... :(])
+(;B[ag];W[bh]C[Seki at best! :(])
+(;B[bi]C[A living shape! :(]))

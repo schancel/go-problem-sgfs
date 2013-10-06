@@ -1,0 +1,22 @@
+(;GE[endgame]DI[20k]DP[73]SO[kochi]CO[4]AB[is]AB[ir]AB[hr]AB[gr]AW[jo]AW[jp]AW[jq]AW[jr]AW[js]AW[hn]AW[in]AW[jn]AB[fn]AB[fo]AB[fp]AB[fq]AB[fr]AW[gn]AW[fm]AW[gm]AW[em]AW[en]AW[eo]AB[er]AB[es]AW[ds]AW[dr]AW[dq]AW[eq]AW[ep]AW[dl]AW[hl]AW[km]AB[gs]C[make as many points as you can]AP[goproblems]
+(;B[hp];W[iq]
+(;B[go];W[hq]
+(;B[gq];W[ho])
+(;B[ho];W[gq]))
+(;B[gp];W[hq])
+(;B[hq];W[go];B[gp]C[RIGHT])
+(;B[ho];W[hq]
+(;B[gq];W[go];B[gp])
+(;B[go];W[gq])))
+(;B[gp];W[hp]
+(;B[hq];W[ip])
+(;B[iq];W[ip])
+(;B[ip];W[iq]))
+(;B[hq];W[hp]
+(;B[gp];W[ip])
+(;B[go];W[ho]))
+(;B[go];W[hp])
+(;B[iq];W[hp])
+(;B[ho];W[hp])
+(;B[ip];W[hp])
+(;B[io];W[hp]))

@@ -1,0 +1,9 @@
+(;GE[best move]DI[10k]DP[52]SO[Stones]CO[9]AB[ij]AB[jj]AB[kj]AB[ji]AB[hk]AB[hl]AB[jl]AW[kl]AW[lk]AW[lj]AW[ki]AW[kh]AW[jh]AW[ii]AW[hi]AW[hj]AW[gk]AW[gl]AW[hm]AW[gm]AB[km]AB[im]AB[in]AB[jn]AB[kn]AW[lm]AW[lo]AW[ho]AW[io]AW[jo]AW[ko]C[Where is black's best move?  Play T if you think tenuki is best.]LB[mh:T]AW[nk]AW[mm]AP[goproblems]
+(;B[mh];W[jk]C[Black is dead.  J8 is now a false eye because shortage of liberties stops black from playing L9.])
+(;B[il];W[jk]C[Black cannot play L9 because of shortage of liberties and is dead.]TR[kk])
+(;B[kk];W[ik]
+(;B[jk];W[il])
+(;B[il];W[jk])
+(;B[ll];W[il]))
+(;B[jk]C[Correct.  This is the best move.  Black needed to defend.RIGHT])
+(;B[ik];W[kk];B[jk]C[Black lives, but with less points than in the correct solution.]))

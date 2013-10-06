@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[36]SO[dbzkid]CO[5]AW[db]AW[dc]AW[dd]AW[ed]AW[fb]AW[fe]AW[gd]AW[ge]AW[hc]AW[ib]AW[ic]AW[ld]AW[le]AB[eb]AB[ec]AB[fd]AB[fc]AB[hd]AB[ga]AB[gc]AB[hb]AB[hd]AB[id]AB[kd]AB[md]AB[lc]C[Black plays first, object save the black group.]
+(;B[jc];W[ea];B[gb];W[da]
+(;B[fa];W[ia]
+(;B[jb]LB[ha:A]C[white cannot play ARIGHT])
+(;B[ja];W[jb];B[kb]C[RIGHT]))
+(;B[jb]C[RIGHT])
+(;B[ia]C[RIGHT]))
+(;B[jb];W[jc];B[kc];W[kb]C[Black losses their stone and his chances of saving the black group])
+(;B[ea];W[ia];B[jc];W[ha]
+(;B[jb];W[gb])
+(;B[gb];W[da])
+(;B[fa];W[gb];B[hb];W[gb];B[jb];W[da])
+(;B[ja];W[gb]))
+(;B[fa];W[jc];B[jd];W[ja]
+(;B[kb];W[ha];B[gb];W[da])
+(;B[kc];W[ha]
+(;B[gb];W[da]C[black cannot avoid ko])
+(;B[ia]C[ko.])
+(;B[kb];W[gb];B[hb];W[gb]))
+(;B[ha];W[da])
+(;B[da];W[lb]
+(;B[mb];W[kc];B[mc];W[kb];B[la];W[ke])
+(;B[kc];W[kb];B[mb];W[la]C[black can do much better.])
+(;B[kb];W[kc];B[mc];W[ka];B[mb];W[jb];B[ma];W[ke]C[ko]))))

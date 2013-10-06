@@ -1,0 +1,66 @@
+(;GE[joseki]DI[4d]DP[8]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[dk][dn][dp][eq][hq][fr][gr]
+AB[fo][ip][fq][gq][iq][hr]C[black's best move?
+]
+(;B[co]
+(;W[do]
+(;B[dr];W[er]
+(;B[cp]
+C[RIGHT
+black lives on the inside. there's life & death here, but that's another problem...
+])
+
+(;B[cq]C[bad shape
+])
+)
+
+(;B[er];W[dr])
+)
+
+(;W[cp];B[er]
+C[white can save stones and be cut or give up and stay connected
+])
+)
+
+(;B[dr];W[er];B[co];W[cp])
+
+(;B[er];W[dr]
+(;B[co];W[do])
+
+(;B[ep];W[es])
+)
+
+(;B[ep];W[dr])
+
+(;B[hp];W[dr])
+
+(;B[en];W[co]C[wrong direction, white fixes
+])
+
+(;B[em];W[co]C[white fixes
+])
+
+(;B[fm];W[en]C[white fixes
+])
+
+(;B[dm];W[cm]C[wrong direction
+])
+
+(;B[dq];W[dr]
+(;B[co];W[do];B[cq];W[cp])
+
+(;B[cq];W[eo])
+)
+
+(;B[cq];W[cp]
+(;B[er];W[dr];B[ep];W[dq])
+
+(;B[ep];W[dq])
+)
+
+)

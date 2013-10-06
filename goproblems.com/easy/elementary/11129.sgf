@@ -1,0 +1,12 @@
+(;GE[elementary]DI[15k]DP[62]SO[GWG]CO[0]AB[gs]AB[gr]AB[hq]AB[iq]AB[ir]AB[jr]AB[kr]AW[fs]AW[fr]AW[gq]AW[eq]AW[gp]AW[hp]AW[io]AW[kp]AW[jq]AW[kq]AW[lr]AW[lq]LB[hs:A]LB[is:B]LB[js:C]LB[ks:D]LB[ls:E]LB[ms:T]C[Should black play A, B, C, D, E, or tenuki at T?]AP[goproblems]
+(;B[hs];W[ks];B[js]C[Black lives.RIGHT])
+(;B[is];W[ks]C[Black dies.])
+(;B[js];W[hs]C[Black dies.])
+(;B[ks];W[hs]
+(;B[hr];W[is]C[Black dies.])
+(;B[is];W[hr]C[Black dies.]))
+(;B[ls]
+(;W[ks]
+(;B[js];W[hs]C[Black dies.])
+(;B[hs];W[js];B[is];W[ks];B[js]C[Black dies.])))
+(;B[ms];W[ks];B[js];W[hs]C[CHOICE]))

@@ -1,0 +1,47 @@
+(;GE[life and death]DI[7k]DP[40]SO[mushin]CO[7]AB[cb]AB[bc]AB[cc]AB[dc]AB[ce]AB[cd]AB[bf]AB[bg]AW[bh]AW[ch]AW[cg]AW[cf]AW[de]AW[dd]AW[ec]AW[eb]AW[db]AW[bb]AW[ca]AP[goproblems]
+(;B[ba];W[aa]
+(;B[ac]C[]
+(;W[da]C[CHOICE]
+(;B[ae]C[]
+(;W[ag]C[CHOICE];B[bd]C[well done:)RIGHT])
+(;W[bd]C[CHOICE];B[ag]C[yupRIGHT]))
+(;B[ab]C[];W[ba];B[ae]
+(;W[ag]C[CHOICE];B[bd]C[RIGHT])
+(;W[bd]C[CHOICE];B[ag]C[RIGHT])))
+(;W[ae]C[CHOICE]
+(;B[be];W[ad];B[ab]C[RIGHT])
+(;B[ab];W[be];B[ba]C[you lost some stones, but you are aliveRIGHT])))
+(;B[ab];W[ac];B[ad];W[be];B[ab]C[ko, you can do better]))
+(;B[ab];W[ba];B[ae];W[ag];B[bd];W[ac]C[:~(])
+(;B[bd];W[ae];B[ba];W[aa];B[ab];W[ac];B[ad];W[be]C[O_O])
+(;B[ac]C[]
+(;W[ba]C[CHOICE];B[ae]LB[bd:A]LB[ag:B]C[yes, A and B are miaiRIGHT])
+(;W[ae]C[CHOICE]
+(;B[be]
+(;W[ad]C[CHOICE]
+(;B[ba];W[aa];B[ab]C[yayRIGHT])
+(;B[ab];W[ba]C[:(]))
+(;W[ba]C[CHOICE];B[ad]C[RIGHT]))
+(;B[ba];W[be];B[ab]C[lost 2 stones, but aliveRIGHT])))
+(;B[ae];W[ac]
+(;B[ag];W[ad]
+(;B[be])
+(;B[bd];W[be]))
+(;B[ad];W[ag]
+(;B[ba];W[aa];B[ab]C[ko])
+(;B[ab];W[ba]))
+(;B[bd];W[ag];B[ab];W[aa];B[ad];W[ah];B[ab]C[ko, you can do bettter])
+(;B[ba];W[aa]
+(;B[ad];W[ag]C[W gets a three step ko, B doesn't have to let W do that.])
+(;B[bd];W[ag])
+(;B[ag];W[ad];B[bd];W[be]))
+(;B[ab];W[aa]
+(;B[ad]
+(;W[ag]))
+(;B[ag])
+(;B[bd];W[ag])
+(;B[da];W[ea]
+(;B[ad];W[ag])
+(;B[bd];W[ag])
+(;B[ag];W[ad]))))
+(;B[ad]))

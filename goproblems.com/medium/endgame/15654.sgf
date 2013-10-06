@@ -1,0 +1,12 @@
+(;GE[endgame]DI[1k]DP[20]SO[thanush]CO[0]AB[oe]AB[pe]AB[qf]AB[qg]AB[og]AB[od]AW[oc]AW[ob]AB[pc]AW[pd]AW[qd]AW[qe]AW[mc]C[Use the marked stone to reduce the corner]TR[pc]AP[goproblems]
+(;B[rc];W[qc]
+(;B[qb];W[pb];B[re];W[rb];B[rd];W[qa]C[RIGHT])
+(;B[re];W[qb];B[rd]C[Gote]))
+(;B[re];W[rd];B[rf];W[qc])
+(;B[qb];W[rc]
+(;B[rb];W[qc];B[pb];W[sb];B[re];W[rf];B[rg];W[ra])
+(;B[re];W[rd];B[rf];W[rb]))
+(;B[qc];W[rc];B[rd];W[re]
+(;B[rb];W[sd];B[qb];W[sb])
+(;B[sc];W[sd];B[rb];W[sb]))
+(;B[rd];W[re];B[qc];W[rc]))

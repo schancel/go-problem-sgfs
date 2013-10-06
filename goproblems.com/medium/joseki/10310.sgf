@@ -1,0 +1,21 @@
+(;GE[joseki]DI[3d]DP[9]SO[Athanatos]CO[5]AB[pd]AW[nc]AB[lc]AW[qc]AB[qd]AW[pc]AB[od]AW[nd]C[In general, White plays A instead of the triangled stone. But this move is joseki too. Do you know the continuation?]LB[nb:A]TR[nd]AP[goproblems]
+(;B[oc];W[ob]
+(;B[pb]
+(;W[qb];B[nb];W[pa]
+(;B[ne];W[mb];B[md];W[na]
+(;B[mc];W[nb]C[]
+(;B[mf];W[le];B[me]C[Right! This joseki is not seen very often. It was try a couple of times by Cho Chikun (among others), especially against a black sanrensei.RIGHT])
+(;B[me]C[Not as good as the correct solution: Black's last cutting point is more vulnerable in this position.]TR[oe])
+(;B[of]C[This move is not as good as in the correct solution. Black has got a bad shape on the left of his group and a cutting point remains quite vulnerable.])
+(;B[oe]C[The cutting point on the left remains threatening...]))
+(;B[me]C[Not optimal])
+(;B[mf]C[Not optimal])
+(;B[of]C[Not optimal])
+(;B[oe]C[Not optimal]))
+(;B[mb];W[ne]C[Black triangeld stone is a big mistake. This joseki is used to get influence on the right side. Here, Black is cut in two groups which is not a good result in the global position. Compare it to the correct solution.])))
+(;B[nb];W[mb];B[pb];W[na];B[qb];W[ne]C[This is a disaster for Black who wanted to get some influence on the right side and to get White confined in the corner. He only get the opposite.]))
+(;B[ne];W[oc]
+(;B[me]C[This is a very bad result for Black compared to the correct solution.])
+(;B[md]C[This is a very bad result for Black compared to the correct solution.])
+(;B[of]C[This is a very bad result for Black compared to the correct solution.]))
+(;B[ob];W[oc]C[Black has got only vulnerable stones now.]))

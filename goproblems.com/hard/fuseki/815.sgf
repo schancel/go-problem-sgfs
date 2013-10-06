@@ -1,0 +1,11 @@
+(;GE[fuseki]DI[6d]DP[1]SO[Spirit]CO[8]C[Black to make the most of his shimari (corner-enclosure)FORCE]LB[yy:0]LB[np:A]LB[ql:B]LB[qk:C]LB[qj:D]LB[pl:E]LB[pk:F]LB[pj:G]AB[oc]AB[pq]AB[qd]AW[dd]AW[dp]AW[pn]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[ql]C[RIGHT]MN[1]
+(;W[pp];B[qq];W[np];B[oq];W[nm];B[mq]C[RIGHT])
+(;W[qq];B[pp];W[qp];B[qo]C[and White is in big trouble.])
+(;W[om];B[pj]))
+(;B[pl]LB[pl:1]LB[pj:G]C[Please navigate 'G' for why this move isn't correct.])
+(;B[qj]C[Please navigate 'G' for why this move isn't correct.]LB[qj:1]LB[pj:G])
+(;B[qk]C[Please navigate 'G' for why this move isn't correct.]LB[qk:1]LB[pj:G])
+(;B[pk]C[Please return to the starting position and navigate 'G' to find out why this move isn't correct.]LB[pk:1]LB[pj:G])
+(;B[pj];W[qq];B[qp];W[pp];B[rp];W[rq];B[rr];W[qr];B[pr];W[rs];B[sr];W[sq];B[rn];W[op];B[ps];W[oq];B[qs];W[ss]LB[ss:18]LB[rr:A];B[rr];W[jp]C[The marked black stone (triangle) or any other marked point, is in a slightly awkward position since the other marked stone (square) is so low.Also Black is rather concentrated on the left.]LB[jp:20]TR[pj]LB[jp:20]MA[rn]LB[jp:20]TR[pk]TR[pl]TR[qk]TR[qj]LB[jp:20]TR[ql])
+(;B[np];W[qj]C[White has somehow prevented Black from utilizing his shimari.]))

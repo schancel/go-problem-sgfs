@@ -1,0 +1,34 @@
+(;GE[endgame]DI[7k]DP[40]SO[kochi]CO[5]AB[qq]AB[pq]AB[np]AW[pp]AW[qp]AB[pn]AB[qn]AB[rn]AB[sn]AB[rm]AB[rl]AB[no]AB[mo]AW[lo]AW[ln]AW[oo]AW[on]AW[nn]AW[om]AW[nm]AW[nl]AW[ol]AW[ok]AW[nk]AW[nj]AW[oj]AW[oi]AW[ni]AW[nh]AW[oh]AB[mn]AB[mm]AB[ml]AB[mk]AB[mj]AB[mi]AB[mh]AW[lm]AW[ll]AW[lk]AW[lj]AW[li]AW[lh]AW[lg]AW[mg]AB[ng]AB[og]AB[pg]AB[qg]AW[ph]AW[pi]AW[pj]AW[pk]AW[pl]AW[pm]AW[qm]AW[ql]AW[qk]AB[qj]AB[qi]AB[qh]AB[rk]AW[rj]AW[ri]AW[rh]AW[rg]AW[rf]AW[re]AW[rd]AW[sd]AW[sj]AW[sk]AW[sl]AW[op]AB[oq]AB[mr]AB[ms]AB[or]AB[po]AB[mp]AW[lr]AW[ls]AB[mq]AW[lp]AW[lq]AB[nr]AB[os]AB[oe]AB[od]AW[mf]AW[qc]AB[qf]AB[nf]AB[pf]AB[qe]AB[pd]AW[oc]AW[pc]AW[nc]AW[ne]AW[nd]AW[me]AW[qd]AP[goproblems]
+(;W[rp];B[rq]
+(;W[sq];B[sp]
+(;W[so];B[sr]
+(;W[ro];B[sp]C[b gets a ko to kill the huge lump of W stones.])
+(;W[rr];B[sp]C[oops, you give B a ko to kill the big lump of white stones. ]
+(;W[ro];B[qo])
+(;W[sm];B[ro])
+(;W[sq];B[ro]C[]
+(;W[sm];B[sp])
+(;W[ss];B[sp]C[you have to win another ko now.])))
+(;W[qo];B[sp]C[oops, B has a ko to kill many W stones.])
+(;W[sp];B[ro]C[oops])
+(;W[sm];B[sp]C[you're in a ko for all the W stones now.  A seki would have been much better.]))
+(;W[sr];B[so]
+(;W[rr];B[ro])
+(;W[ro];B[qo])
+(;W[qo];B[ro])
+(;W[sm];B[rr]))
+(;W[ro];B[so]))
+(;W[sp];B[sq]C[good, W saved his stones in seki.RIGHT])
+(;W[ro];B[sp]
+(;W[sm];B[so])
+(;W[so];B[qo]))
+(;W[so];B[ro]
+(;W[qo];B[sp])
+(;W[sp];B[sq];W[sm];B[qo]))
+(;W[qo];B[sp]))
+(;W[rq];B[rp])
+(;W[ro];B[rp])
+(;W[qo];B[rp])
+(;W[sp];B[rp])
+(;W[sq];B[rp])
+(;W[so];B[rp]))

@@ -1,0 +1,52 @@
+(;GE[fuseki]DI[4k]DP[30]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:0][jq:A][qj:B][jc:C][jd:D][cf:E][di:F][dj:G][ci:H][cj:I][yy:0][qi:K]AB[oc][po][pq][qd]
+AW[cp][dc][ep]
+PL[W]
+(;W[jq]
+MN[1]
+C[RIGHT
+The biggest move.]
+)(;W[jc]
+C[Too low. Also the upper side is not 
+important. ]
+)(;W[dj]
+LB[dj:1][di:A]C[Wrong point. If you want to play in this 
+area A is the proper move.]
+)(;W[jd]
+C[The upper side is not important 
+enough.]
+)(;W[qj]
+LB[qj:1][jq:A]C[Personally I wouldn't say this is bad 
+but Go Seigen seems to disagree, 
+saying that A would be better.]
+)(;W[cf]
+;B[jq]
+C[The shimari (corner enclosure) is 
+certainly big but black 2 is even 
+bigger.]
+)(;W[di]
+;B[jq]
+C[Right move, wrong area. Black 2 is 
+slightly bigger.]
+)(;W[ci]
+LB[ci:1][di:A][ci:1][jq:B]C[Too low, White A would be better. Yet 
+White B would be even bigger.]
+)(;W[cj]
+C[Wrong point. White A is better when 
+we consider just the local area.]
+LB[cj:1][di:A])(;W[qi]
+C[An invasion at A would be preferable 
+for White, as long as Black doesn't 
+have a stone around the top hoshi 
+(star-point). The idea being that, if 
+Black takes away White's base on one 
+side, White can either look forward to 
+getting a stone in at C which is the 
+weak spot of the black corner, or 
+having an easier base with D as it is 2 
+points away from the black top.]
+LB[qi:1][qj:A][qi:1][qm:C][qi:1][qg:D]))

@@ -1,0 +1,77 @@
+(;GE[life and death]DI[3k]DP[27]SO[Stones]CO[7]AB[bh]AB[ei]AW[bi]AW[ci]AW[dj]AW[bk]AB[bj]AB[ck]AB[bl]AB[dk]AB[dl]AB[el]AW[cl]AW[cm]AW[bn]AW[dm]AW[ek]AW[fk]AW[fl]AW[fm]AW[fh]AB[ag]AB[dg]AW[bf]AW[be]AW[df]AW[ef]AB[eh]AB[dh]AB[cg]AB[ej]AW[fi]AW[fj]AB[ah]C[White to play.]AP[goproblems]
+(;W[ch];B[ai])
+(;W[bg];B[cj]
+(;W[ak];B[aj])
+(;W[em];B[ak])
+(;W[aj];B[ak])
+(;W[ch];B[ai])
+(;W[di];B[ai])
+(;W[ai];B[di]
+(;W[aj];B[ak])
+(;W[em];B[ak])
+(;W[ak];B[al])))
+(;W[em];B[ak];W[cj];B[bk]
+(;W[di];B[ai])
+(;W[ai]))
+(;W[cj];B[ak]
+(;W[di];B[fe]LB[fe:T]C[Black plays tenuki.];W[em];B[bk]
+(;W[ai];B[ee]LB[ee:T]C[Black plays tenuki again.  Black is alive.])
+(;W[bm];B[ee]LB[ee:T]C[Black plays tenuki again.  Black is alive.]))
+(;W[em];B[bk]
+(;W[ai])
+(;W[di];B[ai]))
+(;W[ai];B[fe]C[Black plays tenuki.]LB[fe:T]
+(;W[em];B[bk]
+(;W[aj];B[ch])
+(;W[bm];B[ch]))
+(;W[bm];B[ch]
+(;W[am];B[di])
+(;W[em];B[bk]))))
+(;W[ai];B[ak]
+(;W[cj];B[ch];W[em];B[bk])
+(;W[bg];B[ch])
+(;W[ch];B[bg])
+(;W[di]))
+(;W[aj];B[ak])
+(;W[al];B[ak]
+(;W[cj];B[ai];W[em];B[bk]
+(;W[di]TR[aj])
+(;W[am];B[di])
+(;W[bm];B[am]))
+(;W[ai];B[am];W[em];B[cj]
+(;W[aj];B[di])
+(;W[di])))
+(;W[di];B[ai]
+(;W[ak];B[al]
+(;W[cj];B[ch])
+(;W[em];B[aj];W[bk];B[cj]))
+(;W[em];B[ak]))
+(;W[ak]
+(;B[cj];W[aj];B[di]
+(;W[ai];B[al])
+(;W[em];B[dj]
+(;W[al]C[RIGHT])
+(;W[bm]C[RIGHT])
+(;W[am]C[RIGHT])))
+(;B[ai];W[cj]C[RIGHT])
+(;B[di];W[cj]C[RIGHT])
+(;B[aj]C[CHOICE]
+(;W[ai];B[al]
+(;W[bk];B[cj])
+(;W[cj];B[bk]))
+(;W[cj];B[al]
+(;W[ai];B[bk])
+(;W[di];B[bk]TR[ak]C[Black has a second eye.])
+(;W[bk];B[ak]
+(;W[em];B[bk]
+(;W[ai];B[ch])
+(;W[di]C[RIGHT])
+(;W[am];B[di])
+(;W[bm];B[di]))
+(;W[di];B[ai];W[em];B[ch]))
+(;W[em];B[bk]
+(;W[di]TR[ak]C[Black has a second eye.])
+(;W[ai]C[White needs three moves to capture and black needs two.  Black can tenuki.])))
+(;W[di];B[al]
+(;W[cj];B[bk]TR[ak]C[Black has a second eye.])
+(;W[bk];B[cj])))))

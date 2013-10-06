@@ -1,0 +1,24 @@
+(;GE[life and death]DI[3d]DP[9]SO[bistrogo]CO[0]AB[dm]AB[am]AB[bm]AB[cn]AB[ao]AB[ap]AB[bp]AB[do]AB[dp]AB[dr]AB[eq]AB[fq]AB[gq]AB[hq]AB[hr]AB[jr]AB[gs]AW[bn]AW[bo]AW[co]AW[cp]AW[cq]AW[dq]AW[bq]AW[er]AW[fr]AW[gr]C[Black to kill (ko is possible).]AP[goproblems]
+(;B[cr]C[];W[br]
+(;B[ds]
+(;W[bs];B[an];W[cs];B[es];W[fs];B[dr];W[hs];B[ds]
+(;W[cr]
+(;B[aq]C[RIGHT])
+(;B[ar]C[RIGHT])))
+(;W[an]
+(;B[bs];W[as]C[CHOICE];B[ar];W[aq];B[ap];W[as]C[Well done! See the other variation, it is a nice one ;).RIGHT])
+(;B[aq];W[bs])))
+(;B[es];W[cs];B[fs];W[an];B[bs];W[aq];B[ap];W[as])
+(;B[an];W[ds]
+(;B[fs];W[cs])
+(;B[aq];W[ar]))
+(;B[bs]
+(;W[ds])))
+(;B[br];W[cr]
+(;B[aq];W[ds];B[fs];W[an])
+(;B[ds];W[ar]))
+(;B[an]
+(;W[ds]))
+(;B[es];W[cr];B[fs];W[an];B[cs];W[bs])
+(;B[fs];W[cr];B[es])
+(;B[cs];W[cr];B[es];W[bs];B[fs];W[an]))

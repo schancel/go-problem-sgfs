@@ -1,0 +1,11 @@
+(;GE[life and death]DI[4k]DP[30]SO[tom111]CO[6]AW[rq]AB[qr]AB[qq]AB[pr]AB[rp]AB[ro]AB[qn]AB[on]AB[nn]AB[mo]AB[mn]AB[ko]AB[kp]AB[kq]AB[kr]AB[ir]AW[lr]AW[lq]AW[lp]AW[mp]AW[np]AW[no]AW[po]AW[qp]AW[pq]AW[oq]AW[or]C[Black to kill]AP[goproblems]
+(;B[pp]
+(;W[qo];B[oo];W[op]
+(;B[rr]TR[lr]TR[lq]TR[lp]TR[mp]TR[np]TR[op]TR[oq]TR[or]C[Correct, the marked stones form the 'door group'. They are dead.CHOICERIGHT])
+(;B[pn];W[pp];B[rr]C[Correct, the marked stones form the 'door group'. They are dead.CHOICERIGHT]))
+(;W[op]
+(;B[qo];W[rr]C[White has a ko. Black can do better.])
+(;B[rr];W[qo];B[oo]C[CHOICERIGHT])))
+(;B[qo];W[pp];B[oo];W[rr])
+(;B[rr];W[oo])
+(;B[oo];W[rr]))

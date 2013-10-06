@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4d]DP[8]SO[alpha]CO[5]AB[qr]AB[pr]AB[pq]AB[nq]AB[mq]AB[mp]AB[lp]AB[ln]AB[ll]AB[ml]AB[mm]AB[nm]AB[ol]AB[pm]AB[pn]AW[rr]AW[rq]AW[qq]AW[qo]AW[qn]AW[qm]AW[ql]AW[pk]AW[pj]AW[nl]AW[nk]AW[mk]AW[lk]AW[kl]AW[km]AW[ko]AW[jp]AW[kq]AW[lq]AW[mr]AW[nr]C[Can you kill this black monster?]AP[goproblems]
+(;W[po];B[no]
+(;W[op];B[oo];W[oq];B[lo])
+(;W[lo];B[oo]))
+(;W[pp];B[op];W[no];B[nn];W[oo];B[po];W[lo];B[mo];W[lm];B[qp];W[rp];B[pl];W[on];B[pp];W[or])
+(;W[op];B[pp]
+(;W[oo];B[po];W[or];B[oq];W[lo];B[mo]
+(;W[pl];B[no];W[lm];B[mn];W[on];B[om])
+(;W[no];B[pl];W[on];B[lm];W[nn]))
+(;W[po];B[oo];W[no];B[on]))
+(;W[or];B[op];W[no];B[nn];W[oo];B[po];W[lo];B[mo];W[lm];B[pl];W[on])
+(;W[lo];B[mo];W[no];B[oo];W[nn];B[on];W[pl];B[pp];W[or];B[oq];W[np];B[lm])
+(;W[no]
+(;B[nn]
+(;W[oo];B[po];W[op];B[pp]
+(;W[or];B[oq];W[lo];B[mo];W[lm];B[pl];W[on]C[RIGHT])
+(;W[lo];B[mo];W[or];B[oq])))
+(;B[po];W[or];B[oq];W[pp];B[op];W[lo];B[mo];W[pl];B[nn];W[lm]C[RIGHT])
+(;B[oo];W[nn]
+(;B[pp];W[on];B[om];W[po];B[op];W[lo];B[mo];W[or]C[RIGHT])
+(;B[on];W[pl];B[pp];W[or];B[oq];W[mo];B[lo];W[np]C[RIGHT]))))

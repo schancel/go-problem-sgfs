@@ -1,0 +1,12 @@
+(;GE[endgame]DI[2k]DP[23]SO[thanush]CO[0]AB[sb]AB[rb]AB[qc]AB[pc]AW[rc]AW[rd]AW[qd]AW[pd]AW[oc]AW[nc]AW[mc]C[Most profitable way for black to live]AP[goproblems]
+(;B[ob];W[nb]
+(;B[oa];W[na]
+(;B[pb]C[RIGHT])
+(;B[qb]C[RIGHT])
+(;B[qa];W[pb]))
+(;B[pb];W[oa]
+(;B[qa]C[There is better solution])
+(;B[pa];W[qa];B[na];W[ra]C[b dies]))
+(;B[pa];W[na];B[ra];W[oa];B[pb]C[There is better solution]))
+(;B[pb];W[ob];B[pa];W[oa];B[ra]C[B can do better])
+(;B[pa];W[pb];B[qb];W[ob]C[B dies]))

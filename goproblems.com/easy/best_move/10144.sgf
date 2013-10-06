@@ -1,0 +1,26 @@
+(;GE[best move]DI[7k]DP[44]SO[autum]CO[6]AB[dp]AB[eo]AB[en]AB[cn]AB[eq]AB[er]AW[ep]AW[fp]AW[fq]AW[fr]AW[jq]AW[dq]TR[dq]C[the marked white stone has cut your stones - defend your corner]AP[goproblems]
+(;B[cq];W[dr];B[cr];W[es]
+(;B[cp]C[RIGHT])
+(;B[co]C[RIGHT])
+(;B[do]C[RIGHT])
+(;B[cs]C[RIGHT])
+(;B[bp]C[RIGHT]))
+(;B[dr];W[cq];B[cr];W[cp]
+(;B[do];W[br]
+(;B[bs];W[bp]
+(;B[ar];W[bq]
+(;B[ap];W[es]
+(;B[ds];W[cs])
+(;B[cs];W[fs]
+(;B[bo];W[ds])
+(;B[aq];W[ao];B[an];W[bo];B[bn];W[as];B[ar];W[ds])))
+(;B[cs];W[es];B[ap];W[fs];B[bo];W[ds];B[co];W[as]))
+(;B[ap];W[bo];B[ar];W[bq]
+(;B[ao];W[bn])
+(;B[bn];W[cs];B[ds];W[fs];B[co];W[es];B[ao];W[cs])))
+(;B[bp];W[bq];B[bo];W[cs])
+(;B[bq];W[bp];B[aq];W[ap];B[bs];W[ar]
+(;B[es];W[cs])
+(;B[cs];W[es])))
+(;B[br];W[do])
+(;B[co];W[br];B[bp];W[bq];B[bs];W[bo];B[bn];W[ap];B[ar];W[do])))

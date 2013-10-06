@@ -1,0 +1,14 @@
+(;GE[best move]DI[7k]DP[40]SO[stro]CO[0]AB[hs]AB[is]AB[js]AB[ir]AB[jr]AB[jq]AB[kq]AB[lr]AB[lp]AB[mp]AB[nq]AB[nr]AB[ns]AB[os]AB[ps]AB[pr]AB[qs]AW[gs]AW[gr]AW[hr]AW[hq]AW[iq]AW[ip]AW[jp]AW[ko]AW[lo]AW[mo]AW[no]AW[op]AW[oq]AW[or]AW[pq]AW[qr]AW[rs]AW[rr]AW[qp]AW[ks]AW[ls]AW[np]AW[kp]C[White and black are in a ko fight, when white plays M1 as a ko threat.  What is the BEST way to live? (Black wants to reduce the number of ko threats)]TR[ls]AP[goproblems]
+(;B[mr];W[lq]
+(;B[mq];W[kr]
+(;B[ms]C[2 ko threats black can do better])
+(;B[lq];W[ms]))
+(;B[kr];W[mq]))
+(;B[mq];W[kr]
+(;B[ms]C[White only manages to get one extra ko threat out of the group, well done!RIGHT])
+(;B[lq];W[ms];B[mr];W[ls];B[ks]C[3 ko threats, black can do better]))
+(;B[lq];W[mr];B[mq];W[ms];B[kr];W[ls];B[ms]C[3 ko threats, black can do better])
+(;B[ms];W[mq]C[:(])
+(;B[kr];W[mq]
+(;B[mr];W[lq])
+(;B[lq];W[mr])))

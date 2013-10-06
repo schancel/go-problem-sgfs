@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[37]SO[ceram88]CO[0]AW[pr]AW[ps]AW[qq]AW[rq]AW[rp]AB[or]AB[nq]AB[pq]AB[qp]AB[pp]AB[qo]AB[ro]AB[rr]C[Black played at 1 in hope of killing the white group. White to play  and get best possible result. ]LB[rr:1]AP[goproblems]
+(;W[rs]
+(;B[sr];W[qr]C[RIGHT])
+(;B[qr];W[sr]C[RIGHT])
+(;B[sp];W[sr]C[RIGHT]))
+(;W[sr];B[rs]
+(;W[sp];B[qr]C[White can't push anymore without filling in the eye.])
+(;W[qr];B[sp]))
+(;W[qr];B[rs]
+(;W[sr];B[sp])
+(;W[sp];B[sr]C[Because black has an eye, he will be able to fill in internal liberties to take the while group. White is dead, it's not a seki. Either way, you could have gotten unconditional life with points ;-)]))
+(;W[sp];B[qr];W[sr]
+(;B[so])
+(;B[os])))

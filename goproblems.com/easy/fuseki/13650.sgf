@@ -1,0 +1,18 @@
+(;GE[fuseki]DI[15k]DP[60]SO[gobluesky]CO[0]AW[cf]AW[qc]AW[pe]AW[pq]AW[qo]AB[dd]AB[jd]AB[cp]AB[eq]AB[kq]LB[fd:a]LB[df:b]LB[ch:c]C[FORCE]AP[goproblems]
+(;B[ch]C[RIGHT];W[cc]
+(;B[cd];W[dc]
+(;B[ec];W[bc]
+(;B[bd];W[ed]TR[bd]TR[cd]TR[dd]MA[ec]C[white eats the square black or the triangle black]
+(;B[fc];W[de];B[ee];W[fd])
+(;B[ee];W[fd];B[fc];W[de]))
+(;B[ed];W[bd]C[not very good]))
+(;B[ed];W[bd];B[be];W[bc];B[ce];W[fc]C[black can do better]))
+(;B[dc];W[cd]
+(;B[ce];W[be];B[de];W[bf];B[df];W[cj]TR[ch]C[white can do something with the marked black])
+(;B[de];W[bf]
+(;B[ce];W[be];B[eg];W[df];B[ef];W[db];B[eb];W[cb];B[fc]C[black lost a ko threatCHOICE])
+(;B[eg]C[RIGHT]))))
+(;B[df];W[dg];B[ef];W[ce];B[cd];W[ci];B[eg];W[dh];B[gc]C[black lost a ko threat white got a ko threat])
+(;B[fd]
+(;W[ci])
+(;W[bd];B[cc];W[ci]C[black could do better])))

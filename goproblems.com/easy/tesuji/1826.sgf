@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[7k]DP[44]SO[Era]CO[5]SZ[13]AW[eb]AW[gb]AW[hb]AW[fd]AW[ge]AW[gf]AW[fg]AW[hg]AB[bb]AB[cb]AB[db]AB[ib]AB[kb]AB[dc]AB[ec]AB[hc]AB[ic]AB[de]AB[ee]AB[ie]C[Black to kill the upper part.]MA[eb]MA[gb]MA[hb]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[gd]
+(;W[gc]
+(;B[hd];W[fc]
+(;B[fe];W[fa]
+(;B[ha]C[ White lose the upper part =)RIGHT])
+(;B[da]C[Yup.RIGHT]MA[ea]MA[ha])
+(;B[ea];W[da]
+(;B[ha]C[RIGHT])
+(;B[ca];W[ha]C[Just ko.]))
+(;B[ga];W[ha]))
+(;B[ea];W[fe]))
+(;B[fc];W[hd])
+(;B[fe];W[hd]))
+(;W[fe];B[fc]MA[fd]C[White can save F10, if need be. But the top is lost and Black is connected.RIGHT]))
+(;B[gc];W[fc])
+(;B[fc];W[gc]TR[eb]C[White covers the cutting point. You can have just one stone.]MA[gd])
+(;B[fb];W[gc]MA[gb]MA[hb]TR[eb]C[Two very happy White stones celebrate their unexpected rescue.])
+(;B[fe];W[gc]TR[eb]C[White covers the cutting point. You can have just one stone.]MA[gd])
+(;B[hd];W[fc])
+(;B[ed];W[fc]))

@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[10]SO[mrmoto]CO[5]AB[fs]AB[fr]AB[fq]AW[gr]AW[hr]AW[iq]AW[kq]AW[lq]AW[mq]AW[mr]AB[ns]AB[nr]AB[nq]AB[mp]AB[op]AB[lp]AB[kp]AB[jp]AB[hp]AB[hq]AB[gq]AB[go]LB[kn:save]LB[mn:dead]C[White is in trouble.  Can she save her group, or is it unconditionally dead?FORCE]AP[goproblems]
+(;W[kn];B[jn]C[Ok, save it!]
+(;W[jq];B[hs]
+(;W[is];B[gs];W[ir];B[ms])
+(;W[ir];B[ms];W[ls];B[kr]TR[lr]TR[gs]))
+(;W[jr];B[is]
+(;W[ir];B[gs];W[hs];B[ls];W[ms];B[kr]C[crounch])
+(;W[js];B[hs]))
+(;W[ir];B[jq];W[jr];B[ls]TR[kr]TR[ms])
+(;W[is];B[jr];W[jq];B[kr])
+(;W[kr];B[ls];W[ms];B[ir]
+(;W[is];B[jr];W[jq];B[hs];W[js];B[ir])
+(;W[jr];B[is];W[js];B[jq])))
+(;W[mn]AB[mn]AW[fr]AW[fs]AB[gr]AB[hr]AB[iq]AB[kq]AB[lq]AB[mr]AB[mq]AW[fq]AW[gq]AW[hq]AW[hp]AW[jp]AW[kp]AW[mp]AW[lp]AW[op]AW[nq]AW[nr]AW[ns]AW[go];B[jq]C[Ok, kill it then!]
+(;W[hs];B[ir]
+(;W[gs];B[kr]
+(;W[js];B[is];W[ls];B[ms];W[ks]C[Seki.])
+(;W[ls];B[ms];W[js];B[is]))
+(;W[ms];B[ls]
+(;W[kr];B[gs];W[lr]C[RIGHT])
+(;W[ks];B[gs];W[lr];B[kr]
+(;W[ls];B[js])
+(;W[js];B[ls]C[ko ;(]))))
+(;W[is];B[ir])
+(;W[ir];B[jr]
+(;W[is];B[js])
+(;W[ks];B[ls];W[ms];B[kr];W[lr]C[ko ;(]))
+(;W[ms];B[ls];W[kr];B[jr]
+(;W[is];B[ir])
+(;W[hs];B[is])
+(;W[ks];B[gs])
+(;W[gs];B[hs]
+(;W[is];B[ir])
+(;W[ks];B[js])
+(;W[js]C[Nice!RIGHT])))
+(;W[ls];B[ms]
+(;W[gs];B[ks])
+(;W[hs];B[is]
+(;W[gs];B[ir])
+(;W[jr];B[ir]))
+(;W[js];B[ir])
+(;W[is];B[ks])
+(;W[ir];B[jr]
+(;W[is];B[js])
+(;W[ks];B[is];W[gs]C[RIGHT])))
+(;W[ks];B[kr];W[ms];B[ls];W[lr]C[ko ;(])
+(;W[gs];B[ir]
+(;W[hs];B[kr])
+(;W[ms];B[ls];W[kr]C[RIGHT])
+(;W[ls];B[ms];W[kr]C[RIGHT])
+(;W[ks];B[kr];W[ms];B[js])
+(;W[js];B[kr];W[ms];B[ls];W[ks];B[is]C[ko ;(]))
+(;W[js];B[is])))

@@ -1,0 +1,9 @@
+(;GE[elementary]DI[25k]DP[76]SO[jocund]CO[6]AB[aq]AB[bq]AB[br]AB[bs]AB[cq]AB[dq]AB[dr]AW[fr]AB[fs]AB[gr]AB[hr]AW[fq]AW[gq]AW[hq]AW[mr]MA[gr]MA[hr]C[Capture the marked stones.]AW[jr]AW[iq]AW[is]AB[er]AP[goproblems]
+(;W[hs];B[gs]C[Now black can connect at E1 and save them all. :(])
+(;W[ir];B[gs]C[Now black can connect at E1 and save them all. :(])
+(;W[gs];B[hs]
+(;W[ir]
+(;B[es];W[gs]C[They can't get away that way. :)  Good job.RIGHT])
+(;B[gs];W[es]C[Black can't connect out after you sacrificed the stone to remove a liberty. :)RIGHT]))
+(;W[es];B[ds];W[ir];B[es];W[gs]C[Correct result in catching, but why waste the stone at E1?RIGHT]))
+(;W[es];B[gs]C[Now black saves it all! :( E1 is not right.]))

@@ -1,0 +1,48 @@
+(;GE[life and death]DI[4d]DP[8]SO[redpython]CO[8]
+;AB[bb][db][eb][fb][ec][cd][dd][be][bf][cf][cg]
+AW[gb][ib][bc][gc][bd][ed][ce][de][ee][df][dg][ch][dh]
+C[White to kill.]
+(;W[ae];B[cc])
+(;W[ba];B[cb])
+(;W[ab];B[cb])
+(;W[cc];B[cb];W[dc];B[ab])
+(;W[cb];B[ca];W[cc];B[dc]
+
+(;W[ab];B[ba]                             
+(;W[ac];B[da])
+(;W[da];B[ea];W[ac];B[ae]C[notice black could play ko at a14, but for the problem he doesn't.]
+;W[bg];B[bh];W[ag];B[ah];W[bi];B[af]
+(;W[ag];B[bg];W[ai]C[RIGHT])
+(;W[bg];B[ag];W[ai]C[RIGHT])
+)
+)
+
+(;W[da];B[ea]
+ 
+(;W[ab];B[ba];W[ac];B[ae]C[notice black could play ko at a14, but for the   problem he doesn't.]
+;W[bg];B[bh];W[ag];B[ah];W[bi];B[af]
+(;W[ag];B[bg];W[ai]C[RIGHT])
+(;W[bg];B[ag];W[ai]C[RIGHT])
+)
+
+(;W[ba];B[aa];W[ac];B[ae]C[notice black could play ko at a14, but for the   problem he doesn't.]
+;W[bg];B[bh];W[ag];B[ah];W[bi];B[af]
+(;W[ag];B[bg];W[ai]C[RIGHT])
+(;W[bg];B[ag];W[ai]C[RIGHT])
+)
+)
+
+(;W[ba];B[aa]
+(;W[ac];B[ae]C[notice black could play ko at a14, but for the problem he doesn't.]
+;W[bg];B[bh];W[ag];B[ah];W[bi];B[af]
+(;W[ag];B[bg];W[ai]C[RIGHT])
+(;W[bg];B[ag];W[ai]C[RIGHT])
+)
+(;W[da];B[ea];W[ac];B[ae]C[notice black could play ko at a14, but for the   problem he doesn't.]
+;W[bg];B[bh];W[ag];B[ah];W[bi];B[af]
+(;W[ag];B[bg];W[ai]C[RIGHT])
+(;W[bg];B[ag];W[ai]C[RIGHT])
+)
+)
+) 
+)

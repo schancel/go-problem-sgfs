@@ -1,0 +1,81 @@
+(;GE[best move]DI[8k]DP[50]SO[1234boys]CO[0]SZ[3]AP[goproblems]
+(;B[bb]
+(;W[ab]
+(;B[bc];W[ba]
+(;B[cb]TR[ab]TR[ba]C[Correct. The marked stones is dead.RIGHT])
+(;B[ca];W[cb]C[This is a seki. It black lost by jigo.])
+(;B[ac];W[cb];B[aa]C[Correct. This is a ko.RIGHT])
+(;B[cc];W[ca]C[This is a seki. It this game is tie.]))
+(;B[ba];W[bc]
+(;B[cb]TR[ab]TR[bc]C[Correct. The marked stones is dead.RIGHT])
+(;B[cc];W[cb]C[This is a seki. It black lost by jigo.])
+(;B[aa];W[cb];B[ac]C[Correct. This is a ko.RIGHT]))
+(;B[cb]
+(;W[bc]
+(;B[ba]TR[ab]TR[bc]C[Correct. The marked stones is dead.RIGHT])
+(;B[aa];W[ba]C[This is a seki. It black lost by jigo.]))
+(;W[ba]
+(;B[bc]TR[ab]TR[ba]C[Correct. The marked stones is dead.RIGHT])
+(;B[ac];W[bc]C[This is a seki. It black lost by jigo.])))
+(;B[ca];W[bc]
+(;B[cb];W[aa]C[This is a seki. It this game is tie.])
+(;B[ba];W[cc]C[This is a seki. It this game is tie.]))
+(;B[cc];W[ba]
+(;B[cb];W[ac]C[This is a seki. It this game is tie.])
+(;B[bc];W[ca]C[This is a seki. It this game is tie.])))
+(;W[bc]
+(;B[cb];W[ab]
+(;B[ba]TR[ab]TR[bc]C[Correct. The marked stones is dead.RIGHT])
+(;B[aa];W[ba]C[This is a seki. It black iost by jigo.])
+(;B[cc];W[ba];B[ac]C[Correct. This is a ko.RIGHT]))
+(;B[ab];W[cb]
+(;B[ba]TR[bc]TR[cb]C[Correct. The marked stones is dead.RIGHT])
+(;B[ac];W[ba];B[cc]C[Correct. This is a ko.RIGHT])
+(;B[ca];W[ba]C[This is a seki. It black lost by jigo.]))
+(;B[aa];W[cb]
+(;B[ab];W[ca]C[This is a seki. It this game is tie.])
+(;B[ba];W[ac]C[This is a seki. It this game is tie.]))
+(;B[ca];W[ab]
+(;B[ba];W[cc]C[This is a seki. It this game is tie.])
+(;B[cb];W[aa]C[This is a seki. It this game is tie.]))
+(;B[ba]
+(;W[ab];B[cb]TR[bc]TR[ab]C[Correct. The marked stones is dead.RIGHT])
+(;W[cb];B[ab]TR[bc]TR[cb]C[Correct. The marked stones is dead.RIGHT])))
+(;W[ba]
+(;B[ab];W[cb]
+(;B[bc]TR[ba]TR[cb]C[Correct. The marked stones is dead.RIGHT])
+(;B[aa];W[bc];B[ca]C[Correct. This is a ko.RIGHT])
+(;B[cc];W[bc]C[This is a seki. It black lost by jigo.]))
+(;B[cb];W[ab]
+(;B[bc]TR[ab]TR[ba]C[Correct. The marked stones is dead.RIGHT])
+(;B[ca];W[bc];B[aa]C[Correct. This is a ko.RIGHT]))
+(;B[bc];W[ab]
+(;B[cb]TR[ab]TR[ba]C[Correct. The marked stones is dead.RIGHT])
+(;B[ca];W[cb]C[This is a seki. It black lost by jigo.]))
+(;B[ac];W[cb]
+(;B[ab];W[cc]C[This is a seki. It black lost by jigo.])
+(;B[bc];W[aa]C[This is a seki. It black lost by jigo.])))
+(;W[cb]
+(;B[ba];W[bc]
+(;B[ab]TR[bc]TR[cb]C[Correct. The marked stones is dead.RIGHT])
+(;B[ca];W[ab];B[cc]C[Correct. This is a ko.RIGHT])
+(;B[ac];W[ab]C[This is a seki. It black lost by jigo.]))
+(;B[ab];W[ba];B[bc]TR[ba]TR[cb]C[Correct. The marked stones is dead.RIGHT])
+(;B[bc];W[ba]
+(;B[ab]TR[ba]TR[cb]C[Correct. The marked stones is dead.RIGHT])
+(;B[cc];W[ab];B[ca]C[Correct. This is a ko.RIGHT])
+(;B[aa];W[ab]C[This is a seki. It black lost by jigo.]))
+(;B[aa];W[bc]
+(;B[ba];W[ac]C[This is a seki. It this game is tie.])
+(;B[ab];W[ca]C[This is a seki. It this game is tie.]))
+(;B[ac];W[ba]
+(;B[ab];W[cc]C[This is a seki. It this game is tie.])
+(;B[bc];W[aa]C[This is a seki. It this game is tie.]))))
+(;B[ac])
+(;B[aa])
+(;B[ca])
+(;B[cc])
+(;B[bc])
+(;B[ab])
+(;B[ba])
+(;B[cb]))

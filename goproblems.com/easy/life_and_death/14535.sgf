@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5k]DP[33]SO[MrMoto]CO[0]AW[br]AW[bq]AW[cq]AW[dq]AW[dr]AB[eq]AB[er]AB[es]AB[ds]AW[fp]AW[gp]AB[gr]AW[gq]AW[hr]AW[iq]AW[hp]AB[dp]AB[cp]AB[bp]AB[bn]AB[do]AW[ep]AB[en]AW[eo]AB[dn]AW[fn]AW[gn]C[Black has just played the triangled stone to try to kill the corner. How should White respond?]AB[aq]MA[aq]AP[goproblems]
+(;W[ar];B[bs];W[ap];B[gs]
+(;W[fr];B[fq]C[F2 used up a ko threat.])
+(;W[fq];B[fr]C[It is unwise to force Black to create an eye here.])
+(;W[hs];B[fr]C[It is unwise to force Black to create an eye here.])
+(;W[cs];B[cr]
+(;W[fr];B[fq];W[cs]C[Ko, and Black needs 2 ko threats. (White has an internal ko threat at H1.) Unfortunately, you could have killed without ko.]TR[hs])
+(;W[fq];B[fr];W[cs]C[Ko, and Black needs 2 ko threats. (White has an internal ko threat at H1.) Unfortunately, you could have killed without ko.]TR[hs])))
+(;W[cs];B[ar]
+(;W[as];B[bs]C[This is a bad ko for White. You should have let Black start the ko.])
+(;W[fr];B[bs];W[as]C[Ko, but you could have killed unconditionally.]))
+(;W[fr];B[bs]C[Now Black gets a ko. (This is a transposition of the previous problem.)])
+(;W[fq];B[bs]C[Now Black gets a ko. (This is a transposition of the previous problem.)])
+(;W[bs];B[cs]
+(;W[ar];B[ap])
+(;W[fq]C[:)RIGHT])
+(;W[fr]C[:)RIGHT])))

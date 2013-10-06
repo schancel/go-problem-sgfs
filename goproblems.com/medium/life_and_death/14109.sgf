@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[24]SO[siulkilulki]CO[0]AB[bb]AB[cb]AB[db]AB[dc]AB[cd]AB[dd]AB[ed]AB[fd]AB[gd]AB[fb]AW[gc]AW[fc]AW[hd]AW[ib]AW[id]AW[ee]AW[fe]AW[ge]AW[de]AW[ce]AW[be]AW[bd]AW[bc]AW[ab]AW[cc]C[Correct, KO for life]AP[goproblems]
+(;B[ea];W[ec]
+(;B[gb];W[hc])
+(;B[hc];W[gb]))
+(;B[gb];W[hc]
+(;B[ec];W[ea];B[ba];W[da])
+(;B[ea];W[ec];B[eb];W[ga]))
+(;B[ec];W[ea]
+(;B[hc];W[hb];B[gb];W[gc])
+(;B[gb];W[hb];B[hc])
+(;B[hb];W[hc]))
+(;B[hc]
+(;W[gb]C[CHOICE]
+(;B[ec];W[fa];B[ea]C[RIGHT])
+(;B[hb];W[fa]))
+(;W[hb]C[white worst answer];B[ea];W[ec];B[gb];W[ic];B[ga]C[RIGHT])))

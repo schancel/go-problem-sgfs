@@ -1,0 +1,7 @@
+(;GE[best move]DI[25k]DP[77]SO[ctchan]CO[0]AB[rq]AB[sq]AW[sp]AW[rp]AW[qq]AB[rs]AB[sr]AW[pq]AB[po]AW[nq]AB[qm]AW[pn]AB[qn]AW[on]AW[or]AB[pk]C[How should black play?]AP[goproblems]
+(;B[qp];W[pp];B[qo]TR[rp]TR[sp]C[Black flees by capturing the marked stones.RIGHT])
+(;B[qr]
+(;W[ps]
+(;B[qs]))
+(;W[qp];B[pr];W[ps];B[qs];W[os]C[Black lived, but not the best.RIGHT]))
+(;B[qs];W[qr]TR[rq]TR[sq]TR[sr]TR[rs]TR[qs]C[The marked black stones are dead.]))

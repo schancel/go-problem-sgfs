@@ -1,0 +1,39 @@
+(;GE[tesuji]DI[5k]DP[33]SO[vkitzing]CO[8]AW[bc]AW[bb]AW[cb]AW[da]AW[dc]AW[eb]AW[ec]AW[ed]AW[fc]AB[bd]AB[cc]AB[cd]AB[dd]AB[ee]AB[be]AB[bf]AB[ag]AB[bh]AB[ch]AW[ce]AW[cf]AW[cg]AW[bg]AW[dh]AW[eh]AW[ef]AW[gf]AW[bj]AW[dj]AB[fd]AB[gd]AB[gc]AB[gb]AB[fb]C[can the marked stones escape or live?]TR[ch]TR[bh]TR[ag]TR[bf]TR[be]TR[bd]TR[cd]TR[dd]TR[cc]AP[goproblems]
+(;B[dg]
+(;W[df]
+(;B[ff];W[fg]
+(;B[fe]C[escaped, white cannot cut :-)RIGHT];W[eg];B[de]C[well done :-)RIGHT])
+(;B[de];W[fe]C[black neither escaped nor got two eyes to live :-(CHOICE]))
+(;B[de];W[fe]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[fe];W[de];B[ff];W[eg]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[eg];W[fg]LB[de:a]LB[fe:b]C[a and b are now miai and black is dead :-(CHOICE]))
+(;W[fe];B[df];W[de];B[ee];W[de]C[black has two eyes :-)RIGHT]))
+(;B[df];W[dg]
+(;B[de];W[fe]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[ff];W[de]
+(;B[fe]C[black neither escaped nor got two eyes to live and white has sente :-(CHOICE])
+(;B[fg];W[fe]C[black has neither two eyes nor is the group connected to the outside :-(CHOICE]))
+(;B[fe];W[de]C[black neither escaped nor got two eyes to live :-(CHOICE]))
+(;B[ff];W[de]
+(;B[dg];W[fe]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[fe];W[df]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[ge];W[dg]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[eg];W[fe]C[black neither escaped nor got two eyes to live :-(CHOICE]))
+(;B[de];W[fe]
+(;B[dg];W[df]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[df];W[dg]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[eg];W[fg];B[df];W[dg]C[black has neither two eyes nor is the group connected to the outside :-(CHOICE]))
+(;B[eg];W[fg];B[de];W[fe];B[df];W[dg]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[fe];W[de]
+(;B[df];W[dg]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[dg];W[df]C[black neither escaped nor got two eyes to live :-(CHOICE]))
+(;B[ea];W[fa]C[This does not solve the problem :-(CHOICE])
+(;B[af];W[de]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[fa];W[ea]C[this does not bring the marked stone to life :-(CHOICE])
+(;B[ba];W[de]C[black neither escaped nor got two eyes to live :-(CHOICE])
+(;B[ac];W[ab]C[];B[ad];W[af];B[ae];W[de]C[failed :-(CHOICE])
+(;B[ge];W[de]
+(;B[fe];W[ff]C[black has neither two eyes nor is the group connected to the outside :-(CHOICE])
+(;B[ff];W[eg]C[black has neither two eyes nor is the group connected to the outside :-(CHOICE]))
+(;B[ad];W[af];B[ae];W[de]C[failed :-(CHOICE])
+(;B[ai];W[aj]C[this move does not address the problem :-(CHOICE];B[ci];W[cj];B[di];W[ei]C[this move does not address the problem :-(CHOICE]))

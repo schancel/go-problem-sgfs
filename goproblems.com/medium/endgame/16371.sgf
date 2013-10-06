@@ -1,0 +1,16 @@
+(;GE[endgame]DI[3d]DP[10]SO[Kaenai]CO[0]AB[bs]AB[cs]AB[ar]AB[dr]AB[dq]AB[cq]AB[cp]AB[es]AB[ep]AB[fp]AB[gp]AW[eq]AW[cr]AW[br]AW[bq]AW[bp]AW[co]AW[eo]AW[do]AW[fn]AW[dn]AW[dm]AW[cl]AW[bl]AB[cm]AB[bm]AW[dk]C[]AP[goproblems]
+(;B[bo];W[bn]
+(;B[aq]C[RIGHT];W[ao]
+(;B[as];W[ap];B[ds]C[RIGHT])
+(;B[ds];W[ap];B[as]C[RIGHT]))
+(;B[ap];W[ao])
+(;B[an];W[ao])
+(;B[ao];W[an];B[aq];W[ap];B[ds];W[as];B[ar]))
+(;B[bn];W[bo];B[aq];W[ap];B[ds];W[as])
+(;B[aq];W[ap];B[bo];W[as];B[ao];W[ds]
+(;B[cs];W[bn])
+(;B[bn];W[am];B[cs];W[cn]))
+(;B[ap];W[ao];B[as];W[aq];B[ds])
+(;B[ao];W[bo];B[aq];W[ap];B[ds];W[as];B[ar])
+(;B[an];W[bo])
+(;B[ds];W[bo];B[aq];W[ap];B[as]C[correct - but do you see why white had to protect before blocking?RIGHT]))

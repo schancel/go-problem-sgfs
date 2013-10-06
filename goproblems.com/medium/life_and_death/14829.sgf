@@ -1,0 +1,61 @@
+(;GE[life and death]DI[1k]DP[20]SO[DarkSycthe]CO[0]AB[ac]AB[ad]AB[bb]AB[ca]AB[da]AB[ea]AW[bc]AW[cb]AW[cc]AW[db]AW[eb]AW[dd]AW[ec]AW[de]AW[bd]AW[ce]AB[ae]AW[be]AB[fa]AB[gb]AB[af]AB[bg]AB[gi]AB[ii]AB[ig]AW[hh]AB[ch]AB[di]AB[ei]AB[fi]AB[if]AB[ie]AB[id]AB[hc]AW[dg]AW[gd]AW[ge]AW[ff]AW[eg]AW[ah]AW[bi]AW[cj]AW[dk]AW[ek]AW[gk]AW[fk]AW[jk]AW[kk]AW[kj]AW[kg]AW[kf]AW[ke]AW[kd]AW[jc]AW[ib]AW[ha]AW[hl]AW[il]AW[li]AW[lh]C[Black to live. If this is not possible, play R for resign.]LB[ll:R]AP[goproblems]
+(;B[gg]
+(;W[ih]C[CHOICE]
+(;B[jh];W[ji]
+(;B[hi];W[jg]
+(;B[aa]C[Since the Black group is connected, the eyes in the corner are real :) RIGHT])
+(;B[hg];W[aa];B[gh];W[ih])
+(;B[gh];W[aa];B[hg]))
+(;B[jg];W[hi]
+(;B[aa];W[gh])
+(;B[gh];W[aa]))
+(;B[hg];W[aa]
+(;B[gh];W[jg];B[hi])
+(;B[hi];W[jg])
+(;B[jg];W[hi]))
+(;B[gh];W[aa]
+(;B[hg])
+(;B[hi];W[jg])
+(;B[jg];W[hi]))
+(;B[aa]C[Since the Black group is connected, the eyes in the corner are real :) RIGHT]))
+(;B[gh];W[jh]
+(;B[hg])
+(;B[aa];W[hg]))
+(;B[hg];W[jh]
+(;B[gh];W[aa])
+(;B[aa];W[gh]))
+(;B[aa];W[gh];B[fh];W[hg];B[hf];W[gf]))
+(;W[aa]C[This path is here just to show/explain];B[hi]
+(;W[ih];B[jh];W[ji];B[jg]C[Black lives. Thanks BartTM.RIGHT])))
+(;B[jj];W[gg]
+(;B[hi];W[ih])
+(;B[ih];W[hi]))
+(;B[ih];W[hi];B[hj];W[gg])
+(;B[hi];W[ih];B[jh];W[gg])
+(;B[gh];W[hg]
+(;B[hi];W[ih];B[jh];W[ji]
+(;B[gf];W[gg])
+(;B[gg];W[hf])
+(;B[hf];W[gg]))
+(;B[ih];W[hi];B[hj];W[gj]
+(;B[gf];W[gg])
+(;B[hf];W[gg])
+(;B[gg];W[hf])))
+(;B[hg];W[gh];B[ih];W[hi];B[hj];W[gj]
+(;B[fg];W[gg])
+(;B[gg];W[fh])
+(;B[fh];W[gg]))
+(;B[ji];W[gg]
+(;B[ih];W[hi])
+(;B[jg];W[hi])
+(;B[hi];W[ih]))
+(;B[ij];W[gg]
+(;B[ih];W[hi])
+(;B[hi];W[ih])
+(;B[gj];W[ih]))
+(;B[jh];W[hi];B[hj];W[gg])
+(;B[hj];W[ih];B[jh];W[gg])
+(;B[aa];W[gg]
+(;B[ih];W[hi])
+(;B[hi];W[ih]))
+(;B[ll]C[While it seems Black has only false eyes, look deeper!]))

@@ -1,0 +1,30 @@
+(;GE[best move]DI[1k]DP[19]SO[Atheri]CO[0]AB[dc]AB[de]AB[ee]AB[fe]AB[ff]AB[gc]AB[hc]AB[ic]AB[jd]AB[kd]AB[kc]AB[ke]AB[le]AB[ld]AW[fd]AW[gd]AW[ge]AW[gf]AW[hd]AW[id]AW[ie]AW[if]AW[ig]AW[jg]AW[kg]AW[kf]AW[lf]AW[me]AB[he]AB[hf]AB[hg]AB[gg]AB[hh]AB[ih]AB[jh]AB[kh]AB[ki]AW[je]AW[lh]AW[li]AW[mh]AW[nh]AW[oh]AB[lg]AB[mg]AB[mf]AB[nf]AB[of]AB[og]AB[pf]AB[nc]AB[pd]AB[qe]AB[qc]AW[re]AW[rd]AW[qf]AW[qg]AW[pg]AB[mi]AB[ni]AB[oi]AW[mj]AW[nj]AW[oj]AW[mk]AW[ml]AB[nk]AB[mm]AB[lj]AB[lk]AB[ll]AB[kl]AB[km]AB[jm]AB[kn]AW[kj]AB[jj]AB[jk]AW[ji]AW[ii]AW[ij]AW[ik]AW[il]AW[im]AW[in]AW[jn]AW[hn]AW[io]AW[lm]AW[ln]AW[lo]AB[jo]AW[no]AW[pm]AW[qj]AB[hm]AB[gm]AB[fo]AB[fp]AB[eq]AB[dp]AB[cq]AB[cn]AB[dk]AW[dr]AW[er]AW[fq]AW[gq]AW[gp]AW[iq]AW[jq]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AB[pq]AB[qq]AB[rr]AB[qs]AB[or]AB[nr]AB[mr]AB[lr]AB[kr]AW[pp]AW[qp]AW[rp]AW[rq]AW[fg]AW[ef]C[White to save the G16 stones.]AP[goproblems]
+(;W[hi];B[gh];W[fh];B[gi];W[fj];B[gj];W[gk];B[fi];W[ei];B[kk];W[hj];B[kj]
+(;W[ko]C[Good job!RIGHT])
+(;W[jl]C[];B[ko]
+(;W[kp];B[jp];W[ip]C[Good job!RIGHT])
+(;W[jp];B[kp];W[lp]C[Good job!RIGHT])))
+(;W[gh];B[hi];W[gi];B[hj]
+(;W[gj];B[hk];W[gk];B[hl]C[Oops.  Black connected through.])
+(;W[gk];B[fh]
+(;W[eg];B[gj];W[fi];B[fj]C[Oops.  Black escaped.])
+(;W[gj];B[eg]C[Oops.  Black connected through.])))
+(;W[jl];B[fh]C[You've captured a few of black's stones in exchange for your own, but there's a much better move.  Try again.])
+(;W[ko];B[ed];W[jl];B[fc];W[kk];B[jf]C[You've captured a few of black's stones in exchange for your own, but there's a much better move.  Try again.])
+(;W[gi];B[fh]
+(;W[eg];B[gh];W[ei]
+(;B[eh]C[CHOICE];W[dh];B[dg]C[Oops.  Black connected through.])
+(;B[ed]C[CHOICE];W[eh];B[fc]C[Oops, black killed your stones.]))
+(;W[gh];B[eg]C[Oops, black connected through.]))
+(;W[fi];B[fh]
+(;W[eg];B[eh]C[Oops, black escaped.])
+(;W[hi];B[gh]
+(;W[eh];B[eg]C[Oops, black connected through.])
+(;W[eg];B[eh]C[Oops, black escaped.])))
+(;W[fh];B[hi]
+(;W[hj];B[gi]C[Oops, black escaped.])
+(;W[gi];B[hj]
+(;W[hk];B[gj]C[Oops, black escaped.])
+(;W[gj];B[hk]
+(;W[hl];B[gk]C[Oops, black escaped.])
+(;W[gk];B[hl]C[Oops, black connected through.])))))

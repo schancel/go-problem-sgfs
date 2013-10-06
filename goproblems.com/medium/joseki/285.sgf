@@ -1,0 +1,18 @@
+(;GE[joseki]DI[2k]DP[22]SO[adum]CO[8]SZ[19]AB[pp]AW[nq]AB[qn]AW[pr]AB[mq]AB[dp]AW[mr]AB[oq]LB[pp:1]LB[nq:2]LB[qn:3]LB[pr:4]LB[mq:5]LB[mr:6]LB[oq:7]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]PL[W]
+(;W[lq]
+(;B[mp]
+(;W[or]C[RIGHT])
+(;W[nr]C[RIGHT]))
+(;B[or];W[mp]C[white gives up corner for outside]))
+(;W[or];B[np]
+(;W[nr];B[lq]C[bad for white])
+(;W[lq];B[nr]))
+(;W[nr];B[or]
+(;W[os];B[np]C[this is okay, but only if you're really bent on keeping the cornerRIGHT])
+(;W[lq];B[os])
+(;W[np]C[RIGHT]))
+(;W[mp];B[lq]
+(;W[nr];B[np])
+(;W[np];B[or];W[nr];B[os]C[bad for white]))
+(;W[np];B[or];W[nr]LB[os:A]C[makes miai of A and an extension along the bottomRIGHT])
+(;W[pq];B[np];W[nr];B[lq]C[good for black]))

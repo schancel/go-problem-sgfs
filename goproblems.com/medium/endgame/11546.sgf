@@ -1,0 +1,30 @@
+(;GE[endgame]DI[1d]DP[17]SO[santa c]CO[0]SZ[9]AW[ac]AW[bc]AW[bd]AW[cd]AW[dc]AW[db]AW[cb]AW[ea]AW[fa]AW[ga]AW[hb]AW[ia]AW[gc]AW[fd]AW[ge]AW[he]AW[ie]AW[gf]AW[ff]AW[fg]AW[eg]AB[dg]AB[ef]AB[ee]AB[ed]AB[ec]AB[eb]AB[fb]AB[gb]AB[dd]AB[ce]AB[be]AB[ae]AB[ad]AB[eh]AB[fh]AB[gh]AB[gg]AB[hf]AB[if]AB[ig]AB[hh]C[W has 2 prsioners + 7 komi & B has 1 prisoner...]AP[goproblems]
+(;W[fe]
+(;B[df];W[fc]C[optimal for both is a jigo, of course! =)RIGHT])
+(;B[fc]
+(;W[df];B[de]
+(;W[cf]
+(;B[hc]
+(;W[bf];B[gd]
+(;W[af];B[gc];W[ic]C[picking f5 over f7 left a only a one stone capture risk at g7, well done! black must anwser f5 with d4 and accept the jigo... =)CHOICERIGHT]TR[fc]TR[fe]MA[gc])
+(;W[cg]C[NOTTHIS])
+(;W[dh]C[NOTTHIS])
+(;W[ic];B[id]))
+(;W[cg]C[NOTTHIS])
+(;W[dh]C[NOTTHIS])
+(;W[hd];B[gd]C[no ko threat would be big enough!])
+(;W[ic];B[gd]C[]LB[id:1]LB[cg:2]))
+(;B[bf];W[cg];B[bg];W[dh];B[ch];W[dg]C[RIGHT]))
+(;W[hc];B[cf]C[b+1]))
+(;W[hc];B[df]C[b+1])))
+(;W[fc];B[fe]
+(;W[hc];B[df]C[b+1])
+(;W[df];B[de]
+(;W[hc];B[cf]C[b+1])
+(;W[cf];B[hc]LB[gd:1]LB[id:2]C[oops?])))
+(;W[df]
+(;B[de]
+(;W[fe];B[fc])
+(;W[fc];B[fe])
+(;W[cf]C[NOTTHIS]))
+(;B[cf];W[fe];B[de];W[fc]C[optimal for both is a jigo, of course! =)RIGHT])))

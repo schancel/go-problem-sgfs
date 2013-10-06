@@ -1,0 +1,30 @@
+(;GE[endgame]DI[6k]DP[36]SO[DarkSycthe]CO[0]AW[bc]AW[cd]AW[ce]AW[ad]AW[cb]AB[cc]AB[dc]AW[db]AB[eb]AB[ec]AB[dd]AB[de]AB[cf]AB[df]AW[bf]AW[bg]AW[ch]AW[ea]C[Assume the rest of the board is settled. Best local endgame move?FORCE]AB[gb]AP[goproblems]
+(;B[be];W[bd]
+(;B[bb];W[ba]
+(;B[ab]
+(;W[ae]
+(;B[ca];W[da];B[fa]C[RIGHT])
+(;B[fa];W[ac])
+(;B[da];W[ca];B[fa];W[ac]))
+(;W[ca]C[CHOICE];B[fa];W[ae];B[da]C[RIGHT];W[ac];B[aa];W[cb]C[RIGHT]))
+(;B[fa];W[ab]C[You could do better.]))
+(;B[fa];W[ba]C[You could do better.])
+(;B[da];W[ba]C[You could do better.]))
+(;B[bb];W[ba]
+(;B[be];W[bd])
+(;B[ab];W[ac]
+(;B[be]C[RIGHT])
+(;B[ae];W[aa])
+(;B[da];W[aa]C[You could do better.])
+(;B[fa];W[aa]C[You could do better.]))
+(;B[fa];W[ab]C[You could do better.]))
+(;B[fa];W[ba]C[You could do better.])
+(;B[da];W[ba]C[You could do better.])
+(;B[ca];W[ba])
+(;B[bd];W[be])
+(;B[ab];W[bb])
+(;B[ba];W[bb])
+(;B[ae];W[bb])
+(;B[fb];W[bb])
+(;B[ac];W[ab])
+(;B[aa];W[bb]))

@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Stevendeo]CO[0]AB[jo]AB[jp]AB[jq]AB[jr]AW[hq]AW[ir]AB[gq]AB[fq]AB[eq]AB[dq]AW[hp]AW[ho]AW[hn]AW[im]AW[jm]AW[km]AW[ln]AW[lo]AW[mp]AW[mq]AB[nq]AB[oq]AB[pq]AB[qq]AB[cn]AB[qn]C[Black to connect the best way he can ! (Yes, the problem changed) Mwahaha good luck =D]AP[goproblems]
+(;B[js]
+(;W[gr];B[mr];W[lr];B[ls];W[nr];B[ms];W[ns];B[ks]C[Nice one ;)RIGHT])
+(;W[mr];B[hr];W[gr];B[hs];W[gs];B[is]C[Nice one ;)RIGHT]))
+(;B[mr]C[];W[lr]
+(;B[ls];W[nr]C[Oops]
+(;B[ms]
+(;W[ks]C[Oops];B[js];W[ns];B[hr];W[gr];B[hs];W[gs];B[is]C[Connected... but there's obviously better !CHOICE]))
+(;B[js];W[ms];B[hr];W[gr];B[hs];W[gs];B[is]C[You connected... in gote, giving White a ponnuki. Not that cool :sCHOICE]))
+(;B[ms];W[ls]C[CHOICE])
+(;B[nr];W[ls]C[CHOICE])
+(;B[js];W[nr];B[hr];W[gr];B[hs];W[gs];B[is]C[Better than just giving a ponnuki at n2, but there's still better. Was N2 necessary ?CHOICE]))
+(;B[hr];W[gr]
+(;B[hs]
+(;W[gs]C[CHOICE])
+(;W[is]C[CHOICE]))
+(;B[js];W[hs];B[mr];W[lr];B[ls];W[nr];B[ms];W[ns];B[ks]C[You connected, but in gote, and giving white a ponnuki ! There's better :)CHOICE])
+(;B[mr];W[lr]
+(;B[js];W[nr];B[hs];W[gs];B[is]C[There's still better than giving the N2 stone !CHOICE])
+(;B[ls];W[nr];B[ms];W[ns];B[ks];W[kr];B[js]C[Not bad, you connected... but white can still take a ponnuki (he won't lose the sente for that right now). There's a little better :)CHOICE])))
+(;B[ns];W[mr];B[ms];W[nr]C[Black can't connectCHOICE])
+(;B[ms];W[mr]
+(;B[ls];W[nr]C[Black can't connectCHOICE])
+(;B[ns];W[nr]C[Black can't connectCHOICE]))
+(;B[is];W[hs]C[CHOICE])
+(;B[ks];W[mr]C[CHOICE])
+(;B[ls];W[mr]C[CHOICE]))

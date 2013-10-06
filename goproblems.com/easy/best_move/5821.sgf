@@ -1,0 +1,9 @@
+(;GE[best move]DI[7k]DP[42]SO[eva]CO[7]AW[rr]AW[rq]AW[sq]AW[sp]AW[qq]AW[pq]AW[oq]AW[nq]AW[mq]AW[mr]AW[or]AW[np]AW[op]AW[ps]AB[nr]AB[ns]AB[os]AB[so]AB[rp]AB[qp]AB[pp]AB[po]AB[ro]AB[oo]AB[no]AB[mo]AB[mp]AB[lp]AB[lq]AB[lr]AB[ls]AB[ms]AB[qr]AB[rs]TR[rs]C[Black has just played the marked stone. White to get the best result.]AP[goproblems]
+(;W[qs];B[pr])
+(;W[pr];B[sr]
+(;W[qs];B[qr])
+(;W[ss]C[White takes first, the best option.RIGHT]MA[sr]))
+(;W[ss];B[sr]MA[ss]C[Black takes first, not optimal.])
+(;W[sr];B[qs]
+(;W[pr];B[ss])
+(;W[ss];B[pr])))

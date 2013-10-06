@@ -1,0 +1,19 @@
+(;GE[life and death]DI[2d]DP[13]SO[kennabee]CO[9]C[Black to play.]AB[ar]AB[bq]AB[cr]AW[br]AB[dr]AW[cq]AW[dq]AW[eq]AW[er]AW[es]AW[gp]AW[gq]AW[hr]AW[ir]AB[iq]AB[hp]AB[ip]AB[go]AB[fo]AB[ep]AB[cp]AB[bp]AB[cn]AB[jr]AB[kq]AB[js]AP[goproblems]
+(;B[fr];W[gr]
+(;B[fp];W[fq])
+(;B[is];W[hs]))
+(;B[gr]
+(;W[fr]C[CHOICE];B[gs]
+(;W[hs];B[hq];W[fs];B[gr];W[gs];B[fp]C[RIGHT])
+(;W[fs];B[hq];W[bs];B[fq];W[hs];B[gr];W[gs];B[fp]C[RIGHT]))
+(;W[gs]C[CHOICE];B[fr];W[fq];B[hq];W[fs];B[gr];W[fr];B[is]C[RIGHT]))
+(;B[gs];W[gr];B[is];W[hs])
+(;B[fp];W[fr];B[gs];W[bs])
+(;B[hs];W[is];B[fr];W[gs])
+(;B[is];W[fr])
+(;B[fq];W[fp])
+(;B[bs];W[fr]
+(;B[fp];W[gs])
+(;B[gs];W[fp]))
+(;B[dp];W[fr])
+(;B[hq];W[gr]))

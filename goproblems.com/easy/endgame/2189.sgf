@@ -1,0 +1,25 @@
+(;GE[endgame]DI[5k]DP[34]SO[Hans]CO[6]
+SZ[7]C[White to play and win. No prisoners, no komi. 
+]
+AW[da][ea][eb][fc][bd][fd][ce][ee][cf][ag][bg]
+AB[ca][cb][db][ac][bc][dc][cd][dd][ed][be][de][bf]
+(;W[ef]CR[ef];B[df]CR[df]
+(;W[dg]CR[dg];B[cg]CR[cg];W[cf]CR[cf]PL[B];B[ec]
+(;W[fb];B[af];W[cg];B[ce];W[eg]C[ RIGHT White wins by one point. 
+])
+
+(;W[gb];B[af];W[cg];B[ce];W[eg]C[ RIGHT White wins by one point. 
+])
+
+(;W[fa];B[af];W[cg];B[ce];W[eg]C[ RIGHT White wins by one point.
+])
+)
+
+(;W[cg];B[dg])
+
+(;W[eg];B[dg])
+)
+
+(;W[df];B[ef];W[fe];B[dg])
+
+)

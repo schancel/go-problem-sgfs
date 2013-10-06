@@ -1,0 +1,74 @@
+(;GE[life and death]DI[1d]DP[15]SO[Wervyn]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+AW[em][dn][gn][bo][ho][cp][dp][hp][aq][bq][gq][hq][dr][hr][hs]AB[eo][go][ep][gp][cq][dq][fq][ar][br][er][gr][gs]C[White to kill.  Yes, everything.]PL[W]
+(;W[cr]CR[cr]
+;B[eq]CR[eq]
+(;W[cs]CR[cs]
+;B[es]CR[es]
+(;W[fo]CR[fo]
+;B[ds]CR[ds]
+(;W[bs]CR[bs]
+;B[as]CR[as]
+;W[cr]CR[cr]C[Black is caught! RIGHT])
+(;W[fp]CR[fp]
+;B[bs]CR[bs]C[Wha?]))
+(;W[bs]CR[bs]
+;B[fo]SQ[fp][fr][fs]CR[fo]C[Black gets two eyes.])
+(;W[fr]CR[fr]
+;B[fs]CR[fs]
+(;W[bs]CR[bs]
+;B[fo]SQ[fp][fr]CR[fo]C[Black gets two eyes.])
+(;W[fo]CR[fo]
+;B[ds]CR[ds]
+(;W[bs]CR[bs]
+;B[as]CR[as]
+;W[cr]CR[cr]C[Black is caught! RIGHT])
+(;W[fp]CR[fp]
+;B[bs]CR[bs]C[Wha?])))
+(;W[fs]CR[fs]
+;B[fr]CR[fr]
+(;W[bs]CR[bs]
+;B[fo]SQ[fp][fs]CR[fo]C[Black gets two eyes.])
+(;W[fo]CR[fo]
+;B[ds]CR[ds]
+(;W[bs]CR[bs]
+;B[as]CR[as]
+;W[cr]CR[cr]C[Black is caught! RIGHT])
+(;W[fp]CR[fp]
+;B[bs]CR[bs]C[Wha?]))))
+(;W[es]CR[es]
+;B[cs]CR[cs]
+(;W[fr]CR[fr]
+;B[ds]TR[gr][gs]CR[ds]C[White only gets two stones.])
+(;W[ds]CR[ds]
+;B[fs]CR[fs]C[No.])
+(;W[bs]CR[bs]
+;B[ds]CR[ds]C[No.]))
+(;W[bs]CR[bs]
+;B[ds]CR[ds]
+(;W[as]CR[as]
+;B[fo]CR[fo]
+(;W[fs]CR[fs]
+;B[fr]SQ[fp][fs]CR[fr]C[Black gets two eyes.])
+(;W[es]CR[es]
+;B[fs]SQ[fp][fr]CR[fs]C[Black gets two eyes.]))
+(;W[cs]CR[cs]
+;B[as]CR[as]
+;W[cr]CR[cr]
+;B[fo]TR[ar][br][as]CR[fo]C[Clever, but not clever enough.  Black is still alive.])
+(;W[fo]CR[fo]
+;B[cs]TR[go][gp]CR[cs]C[White only gets two stones.]))
+(;W[fo]CR[fo]
+;B[cs]TR[go][gp]CR[cs]C[White only gets two stones.]))
+(;W[fo]CR[fo]
+;B[cr]TR[go][gp]CR[cr]C[White only gets two stones.])
+(;W[es]CR[es]
+;B[cr]CR[cr]
+(;W[fr]CR[fr]
+;B[ds]TR[gr][gs]CR[ds]C[White only gets two stones.])
+(;W[fo]CR[fo]
+;B[ds]TR[go][gp]CR[ds]C[White only gets two stones.]))
+(;W[ds]CR[ds]
+;B[cr]CR[cr]
+;W[es]CR[es]
+;B[fr]CR[fr]C[Black keeps everything.]))

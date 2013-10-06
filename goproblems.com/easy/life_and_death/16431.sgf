@@ -1,0 +1,47 @@
+(;GE[life and death]DI[6k]DP[37]SO[morten]CO[0]AB[ae]AB[be]AB[ce]AB[de]AB[df]AB[eg]AB[eh]AB[ei]AB[dj]AB[dk]AB[ck]AB[bk]AB[ak]AB[bh]AW[af]AW[bf]AW[cf]AW[cg]AW[dg]AW[dh]AW[di]AW[ci]AW[cj]AW[bj]AW[aj]C[Status of white group?FORCE]LB[if:Alive]LB[ig:Can live]LB[ih:Can be killed]LB[ii:Is dead]AP[goproblems]
+(;W[if];B[ah]C[Please show if white is alive]
+(;W[bg];B[bi]C[This is a dead eyespace])
+(;W[ch];B[bg];W[ag];B[bi]C[This is a dead eyespace])
+(;W[bi];B[bg]C[This is a dead eyespace])
+(;W[ag];B[bi]
+(;W[ai];B[ch]C[This is a dead eyespace])
+(;W[ch];B[bg])
+(;W[bg];B[ch]C[This is a dead eyespace]))
+(;W[ai];B[bg]
+(;W[ch];B[bi]C[This is a dead eyespace])
+(;W[ag];B[ch]C[This is a dead eyespace])
+(;W[bi];B[ch]C[This is a dead eyespace])))
+(;W[ig];B[jg]C[Please show how white can live]
+(;W[ah];B[bg]
+(;W[bi]C[2 eyesRIGHT])
+(;W[ch];B[bi]C[seki])
+(;W[ai];B[bi]C[Dead shape])
+(;W[ag];B[bi]C[Dead shape]))
+(;W[bg];B[ah]C[Dead eyespace])
+(;W[ag];B[ah]C[Dead eyespace])
+(;W[ch];B[ah]C[Dead eyespace])
+(;W[bi]C[];B[ah]C[Dead eyespace])
+(;W[ai];B[ah]C[Dead eyespace]))
+(;W[ih]AW[ae]AB[af]AB[bf]AB[cf]AB[cg]AB[dg]AB[dh]AB[di]AB[ci]AB[cj]AB[bj]AB[aj]AW[ak]AW[bk]AW[ck]AW[dk]AW[dj]AW[ei]AW[eh]AW[eg]AW[be]AW[ce]AW[de]AW[df]AW[bh];B[jh]C[Please show how the group can be killed]
+(;W[ah]C[Black is dead as it stands.You can fill Black's space with a bulky 6 shape. When Black captures you play at B12; Black still has but one eye.RIGHT])
+(;W[bg];B[ah]
+(;W[bi];B[ch]C[seki])
+(;W[ch];B[bi]C[2 eyes]))
+(;W[bi];B[ah]
+(;W[bg])
+(;W[ch];B[bg]C[2 eyes]))
+(;W[ai];B[ag]
+(;W[ah];B[bi]C[seki])
+(;W[ch];B[ah]C[2 eyes])
+(;W[bi];B[ah]C[seki])
+(;W[bg];B[ah]C[2 eyes]))
+(;W[ag];B[ai]
+(;W[ah];B[bg]C[seki])
+(;W[ch];B[ah]C[2 eyes])
+(;W[bi];B[ah]C[2 eyes])
+(;W[bg];B[ah]C[seki])))
+(;W[ii]AW[ae]AB[af]AB[bf]AB[cf]AB[cg]AB[dg]AB[dh]AB[di]AB[ci]AB[cj]AB[bj]AB[aj]AW[ak]AW[bk]AW[ck]AW[dk]AW[dj]AW[ei]AW[eh]AW[eg]AW[be]AW[ce]AW[de]AW[df]AW[bh];B[ah]C[Can you still kill the group?]
+(;W[ag];B[bg]C[2 eyes])
+(;W[ai];B[bi]C[2 eyes])
+(;W[bg];B[bi]C[2 eyes])
+(;W[bi];B[bg]C[2 eyes])))

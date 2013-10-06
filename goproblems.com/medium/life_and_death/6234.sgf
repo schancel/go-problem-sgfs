@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1k]DP[18]SO[mrmoto]CO[9]AB[rq]AB[qq]AB[qr]AB[qp]AB[po]AB[oo]AB[np]AB[nq]AB[nr]AW[or]AW[oq]AW[pq]AW[pp]AW[rp]AW[sp]AW[qo]AW[qn]AW[pn]AW[nn]AW[on]AW[mn]AW[mp]AW[mo]AW[mq]AW[mr]AW[ms]AB[sq]AW[ro]C[Can black salvage anything?]AP[goproblems]
+(;B[pr];W[ps]
+(;B[ns];W[no])
+(;B[op];W[os])
+(;B[qs];W[no]))
+(;B[op];W[os])
+(;B[ps];W[rs]
+(;B[os];W[no])
+(;B[op];W[os]))
+(;B[ns]
+(;W[rs])
+(;W[os]C[Oh dear.  White can't play like this.];B[rs];W[sr];B[ps]C[Black lives :(]))
+(;B[rs];W[sr]
+(;B[pr];W[ps]
+(;B[qs];W[no])
+(;B[ns];W[no]))
+(;B[ps]
+(;W[os]
+(;B[pr];W[ns]C[How fair is this?  Quite fair.RIGHT])
+(;B[ns];W[no];B[pr];W[op]C[This is possible.RIGHT]))
+(;W[pr]C[Not the best move ever.];B[os])))
+(;B[sr];W[rs])
+(;B[os];W[ps]))

@@ -1,0 +1,15 @@
+(;GE[best move]DI[15k]DP[62]SO[koala]CO[7]AW[jc]AW[kc]AW[lb]AW[mb]AW[na]AW[ob]AW[pb]AW[qb]AW[qc]AW[rc]AB[sc]AB[rd]AB[qd]AB[pc]AB[oc]AB[nb]AB[nc]AB[mc]AB[lc]AB[jd]AB[kd]AB[ld]AB[pd]AB[rb]AB[kb]AW[jb]AW[pa]AB[ra]TR[ra]C[Black should have gone for the ko at T19, but he is feeling stubborn.  White to respond in the best way possible.]AP[goproblems]
+(;W[sb];B[sa]C[Well done.  White does not need an extra move here - if black plays 1, white can connect all his stones with the moves up to 6 (which black would save for ko threats) - so white can play elsewhere.  Since T19 is gote for black, he might choose to ignore the throw-in instead, especially if there are bigger points left on the board.RIGHT]LB[sd:1]LB[ka:2]LB[sb:3]LB[ma:4]LB[qa:5]LB[oa:6])
+(;W[ka];B[qa]
+(;W[ma];B[oa])
+(;W[sb];B[oa])
+(;W[oa];B[ma]))
+(;W[qa];B[oa])
+(;W[ma];B[qa]
+(;W[sb];B[oa])
+(;W[ka];B[oa])
+(;W[oa];B[la]))
+(;W[oa];B[qa]
+(;W[ka];B[ma])
+(;W[ma];B[la])
+(;W[sb];B[ma])))

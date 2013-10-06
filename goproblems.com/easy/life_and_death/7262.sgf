@@ -1,0 +1,15 @@
+(;GE[life and death]DI[5k]DP[32]SO[kennabee]CO[5]AB[np]AB[pp]AB[op]AB[qp]AB[rp]AB[sp]AB[oq]AB[or]AW[nq]AW[nr]AW[os]AW[ns]AB[sq]AW[sr]AW[rq]AW[qq]AW[pq]AW[mp]AW[lp]AB[lq]AB[mq]AW[kp]AB[ps]TR[mq]AW[jq]AP[goproblems]
+(;W[pr]
+(;B[mr]C[Play at (K) If White has ko threats or (N) no ko threat.CHOICE]LB[mo:(K)]LB[no:(N)]
+(;W[mo];B[no];W[qs];B[rr];W[rs];B[ss]C[Ko.RIGHT])
+(;W[no];B[mo];W[rs];B[ms];W[qs]C[RIGHT]))
+(;B[qs];W[rs];B[mr];W[qr])
+(;B[rr]C[CHOICE];W[qs]
+(;B[mr];W[rs];B[ss]C[KoRIGHT]LB[no:K];W[no];B[oo];W[sr];B[ms]
+(;W[qr];B[ps]C[RIGHT])
+(;W[ps];B[ss]C[RIGHT]))
+(;B[ss];W[lr])))
+(;W[rs];B[pr])
+(;W[qr];B[pr])
+(;W[lr];B[mr])
+(;W[ls];B[ms];W[mr];B[lr]))

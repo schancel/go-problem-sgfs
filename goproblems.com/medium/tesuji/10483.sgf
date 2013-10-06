@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[1k]DP[20]SO[Field Mouse]CO[9]AB[pb]AB[ob]AB[nb]AB[nc]AB[md]AB[lc]AB[kc]AB[jc]AB[ic]AW[mc]AW[mb]AW[lb]AW[kb]AW[ne]AW[me]AW[le]AW[od]AW[oc]AW[pc]AW[qc]AW[qb]C[Black can win any ko. What can he do?]AP[goproblems]
+(;B[ma]
+(;W[jb]
+(;B[ib];W[nd]
+(;B[ja];W[ld]
+(;B[ka]C[Yes, you connected out!RIGHT])
+(;B[la]C[Yes, you connected out!RIGHT]))
+(;B[la];W[ld];B[ja]C[Yes, you connected out!RIGHT])
+(;B[ka];W[ja]C[Uh.])
+(;B[ld];W[pa]C[Black loses :o(]))
+(;B[la];W[ka]C[Black cannot win this fight.]))
+(;W[la]
+(;B[oa];W[ld];B[nd];W[na]C[Ko for all - white cannot play like this if black has unlimited ko threats!RIGHT])
+(;B[ld];W[nd];B[oa];W[na]C[Ko for all - white cannot play like this if black has unlimited ko threats!RIGHT])
+(;B[nd];W[ld];B[oa];W[na]C[Ko for all - white cannot play like this if black has unlimited ko threats!RIGHT])))
+(;B[jb];W[ma]
+(;B[ld];W[nd];B[ka];W[pa]C[Black cannot win this fight :o(])
+(;B[nd];W[ld];B[ka];W[pa]C[Black cannot win this fight :o(]))
+(;B[nd];W[ld]C[Black just lost one liberty and cannot win anymore.]
+(;B[jb];W[pa];B[ka];W[oa])
+(;B[ma];W[pa]))
+(;B[ld];W[nd]C[Black just lost one liberty and cannot win anymore.]
+(;B[jb];W[pa];B[ka];W[oa])
+(;B[la];W[jb])
+(;B[ma];W[pa]))
+(;B[ja];W[ld]
+(;B[ma];W[nd]C[Black is separated.])
+(;B[nd];W[pa]))
+(;B[ka];W[ma];B[jb];W[nd];B[ld];W[pa]C[Black cannot win this fight :o(])
+(;B[la];W[jb]
+(;B[ib];W[ma]C[Black cannot win this fight :o(])
+(;B[ma];W[ka]
+(;B[oa];W[nd];B[ld];W[na];B[ma];W[qa]C[Black cannot win this fight :o(])
+(;B[ld];W[nd];B[oa];W[qa]C[Black cannot win this fight :o(])
+(;B[nd];W[ld];B[oa];W[qa]C[Black cannot win this fight :o(])))
+(;B[na];W[ld];B[nd];W[jb];B[ib];W[pa]C[Black cannot win this fight :o(]))

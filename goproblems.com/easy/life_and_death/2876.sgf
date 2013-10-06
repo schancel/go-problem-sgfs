@@ -1,0 +1,28 @@
+(;GE[life and death]DI[15k]DP[63]SO[misterb]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+AW[cq][dq][eq][br][fr][bs][ds][fs]AB[bp][cp][dp][ep][bq][fq][gq][gr][cs][gs]
+(;B[dr]CR[dr]
+(;W[cr]CR[cr]
+(;B[er]CR[er]
+;W[es]CR[es])
+(;B[es]CR[es]
+;W[er]CR[er]))
+(;W[er]CR[er]
+;B[es]CR[es]
+;W[cr]CR[cr]))
+(;B[cr]CR[cr]
+;W[dr]CR[dr])
+(;B[ar]CR[ar]
+;W[dr]CR[dr]
+;B[aq]CR[aq]
+;W[cr]CR[cr])
+(;B[es]CR[es]
+;W[er]CR[er]
+;B[cr]CR[cr]
+;W[dr]CR[dr])
+(;B[er]CR[er]
+;W[dr]CR[dr]
+;B[es]CR[es]
+;W[cr]CR[cr]
+;B[ar]CR[ar]
+C[Correcto mundo! Now white can't create 2 eyes. RIGHT]))

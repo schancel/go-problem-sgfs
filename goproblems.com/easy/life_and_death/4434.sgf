@@ -1,0 +1,12 @@
+(;GE[life and death]DI[6k]DP[37]SO[assacra]CO[8]AB[ea]AB[eb]AB[ec]AB[ed]AB[de]AB[df]AB[cf]AB[be]AB[bd]AB[bc]AB[ca]AW[da]AW[db]AW[dc]AW[cc]AW[cd]AW[ce]AW[bb]AW[bf]AW[bg]AW[cg]C[black to kill the marked stones]TR[ce]TR[cd]TR[cc]TR[dc]TR[db]TR[da]TR[bb]AP[goproblems]
+(;B[ba];W[cb]
+(;B[dd];W[aa]
+(;B[ac];W[ae])
+(;B[ba];W[ac];B[ab]C[ko]))
+(;B[ab];W[aa]
+(;B[ba]C[RIGHT])
+(;B[ac]C[RIGHT]))
+(;B[ac]C[];W[aa];B[ab];W[ae];B[ba];W[af];B[dd]C[RIGHT]))
+(;B[dd];W[cb];B[ab];W[ba];B[ac];W[ae])
+(;B[cb];W[ba];B[ab];W[ae];B[ac];W[aa])
+(;B[ab];W[ba];B[ac];W[ae]))

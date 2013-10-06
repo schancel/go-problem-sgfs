@@ -1,0 +1,35 @@
+(;GE[joseki]DI[1d]DP[17]SO[caleb]CO[9]AB[po]AW[pq]AB[np]AW[qo]AB[pp]AW[qp]C[What is black's next play?]AP[goproblems]
+(;B[qq]C[Please check - there is another option];W[qr]
+(;B[rq];W[rr]
+(;B[oq];W[pr]
+(;B[qn];W[rp]
+(;B[ro];W[sq]
+(;B[pm]C[Gives white a small corner and sente but black's thickness is formidable. Good jobRIGHT])
+(;B[rm]C[White capturing that stone is small potatoes. Play somewhere else.])
+(;B[or]C[Not yet: you have a cutting point to take care of.])
+(;B[pn]C[You have the right idea, but there's a better way to connect.]))
+(;B[or];W[rn]C[You could do better.]))
+(;B[rp];W[ro]C[Congratulations, you just threw away three stones.])
+(;B[or];W[qn]C[White escapes being enclosed, and black wastes the aji of his two stones.]))
+(;B[pr];W[oq]C[Q2 will be lost.])
+(;B[qn];W[rp]C[Black can now not get both marked moves in sente.]MA[oq]MA[ro])
+(;B[ro];W[qn]))
+(;B[pr];W[oq]C[Not good for Black])
+(;B[oq];W[rq]C[Black does not make full use of his aji.])
+(;B[qn];W[rq]C[Black is not using his possibilities well enough.]))
+(;B[oq]C[Please check - there is another option]
+(;W[pr]
+(;B[pn];W[or]
+(;B[nr];W[rm]C[RIGHT])
+(;B[mq]C[Good - black does not go for the maximum at the edge, but gains in thickness.RIGHT])
+(;B[qn];W[mq]C[Inconsequent]))
+(;B[qq]
+(;W[rq];B[or];W[qr]
+(;B[pm]C[RIGHT])
+(;B[qn]C[The cut at Q6 is very painful aji.]))
+(;W[qr]C[This variation is not played by the computer in the problem, not because it is wrong (it is not), but because the variations after this are not as clear-cut.];B[qn];W[rp]C[From here on, this is just one variation of various.];B[ro];W[rq];B[pm]C[RIGHT]))
+(;B[qn];W[pn]C[Results in an unnecessary and often not so profitable fight.]))
+(;W[qq];B[pn];W[qm];B[ol]C[Only the most common of various variations here.RIGHT]))
+(;B[qn];W[pn]C[Now black is in trouble.])
+(;B[pr]C[];W[oq]C[The cut at R3 does not work, so Q2 gets lost.])
+(;B[pn]C[];W[oq]C[Too soft on white.]))

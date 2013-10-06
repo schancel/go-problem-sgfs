@@ -1,0 +1,28 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[4]C[Can Black get anything but ko threats here? Tenuki (T at M3) if you don't think so...]AW[sq]AW[pq]AW[qq]AW[rq]AW[oq]AW[or]AW[os]AB[ns]AB[nr]AB[nq]AB[np]AB[op]AB[pp]AB[qp]AB[rp]AB[sp]AB[qr]LB[lq:T]AP[goproblems]
+(;B[rr]
+(;W[sr]
+(;B[rs];W[pr];B[qs]C[Well done! A Bulky 5 is guaranteed! :)CHOICERIGHT])
+(;B[qs];W[rs];B[ss]MA[rs]C[Could be unconditional kill... :(])
+(;B[pr];W[rs]C[:(]))
+(;W[rs]
+(;B[sr];W[qs]
+(;B[pr]C[Well done! :)CHOICERIGHT])
+(;B[ps]C[Well done! :)RIGHT]))
+(;B[qs];W[sr];B[ss]C[Could be unconditional kill... :(])
+(;B[pr];W[sr]C[:(])))
+(;B[rs];W[rr]
+(;B[ps]C[Still need to win a ko to kill... :(])
+(;B[qs]C[Still need to win a ko to kill... :(])
+(;B[sr]C[Still need to win a ko to kill... :(])
+(;B[ss];W[pr];B[qs]C[Seki! :(])
+(;B[pr];W[qs]C[:(]))
+(;B[sr];W[rr];B[rs]C[Still need to win a ko to kill... :(])
+(;B[qs];W[rr];B[rs]C[Still need to win a ko to kill... :(])
+(;B[ss]
+(;W[rr];B[rs];W[pr];B[qs]C[Seki... :(])
+(;W[rs];B[rr];W[sr];B[qs]C[Ko...]))
+(;B[ps]
+(;W[rs];B[rr];W[sr]C[Seki... :(])
+(;W[rr];B[rs]C[Ko... :(]))
+(;B[pr];W[rr]C[:(])
+(;B[lq]C[Actually could kill with R2 in place! :(]))

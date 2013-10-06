@@ -1,0 +1,10 @@
+(;GE[endgame]DI[15k]DP[61]SO[felixcat]CO[7]AB[ia]AB[ib]AB[hc]AB[hd]AB[gd]AB[fe]AB[ff]AB[eg]AB[dg]AB[bg]AB[cg]AB[cf]AB[be]AB[ed]AB[dd]AB[dc]AB[eb]AW[hb]AW[ga]AW[gc]AW[fc]AW[fd]AW[db]AW[cd]AW[ce]AW[de]AW[ee]AW[cc]AW[ge]AW[bf]TR[ha]AW[ha]C[White just played the triangled stone.  Black to
+make a reduction in white's territory.
+(my first problem, comments appreciated)]AP[goproblems]
+(;B[ia])
+(;B[fb];W[ec];B[gb];W[ea];B[fa]C[Nice!RIGHT])
+(;B[ec];W[fb];B[ea];W[da])
+(;B[gb];W[fb]C[didn't do much...])
+(;B[fa];W[ec]C[White must save as much as possible];B[gb]C[];W[fb];B[ea];W[da];B[ga]C[Nice reduction, but you can do a little better.RIGHT])
+(;B[da];W[ec];B[cb]C[Ko.])
+(;B[ea];W[ec]))

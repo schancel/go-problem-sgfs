@@ -1,0 +1,10 @@
+(;GE[life and death]DI[7k]DP[44]SO[Piccolo]CO[0]SZ[9]AB[ie]AB[he]AB[ge]AB[fe]AB[hd]AB[gc]AB[fc]AB[ed]AB[de]AB[ag]AB[bg]AB[cg]AB[dg]AB[df]AB[ah]AB[ai]AB[ce]AB[ef]AW[ci]AW[ch]AW[bi]AB[bh]AW[dh]AW[eg]AW[fh]AW[ff]AW[gg]AW[hf]AW[gf]AW[be]AW[cd]AW[dd]AW[ec]AW[fb]AW[gb]AW[hc]AW[hb]AW[bf]C[Black to live AND kill as much white stones as possible.]AP[goproblems]
+(;B[dc];W[eb]
+(;B[cc];W[bd];B[bc]C[Right, there are several variations from here but in short, on everything but a7 B can a7. On W a7, B plays a8 then b9 and threaten to live in the corner.RIGHT]
+(;W[db];B[ac];W[cb];B[ad];W[bb];B[ae]C[RIGHT])
+(;W[ac];B[ab];W[ad];B[ba]
+(;W[da];B[af]C[RIGHT])))
+(;B[bd];W[cc];B[bc];W[cb]C[Not optimal.]))
+(;B[bd];W[cc]
+(;B[eb];W[dc];B[bc];W[cb]C[Not optimal.])
+(;B[bc];W[cb]C[Not optimal.])))

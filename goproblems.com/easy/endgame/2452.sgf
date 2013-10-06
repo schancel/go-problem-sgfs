@@ -1,0 +1,14 @@
+(;GE[endgame]DI[4k]DP[31]SO[JoeSeki]CO[7]AB[dp]AB[cp]AB[co]AB[bo]AB[eo]AB[fn]AB[gn]AB[fm]AB[em]AB[dm]AB[cl]AB[bm]AW[an]AW[bn]AW[cn]AW[dn]AW[en]AW[fo]AW[fp]AW[bp]AW[bq]AW[cq]AW[dq]AW[fq]AW[fr]AW[fs]AW[bl]TR[bl]C[White just played B8, is this a tesuji or a mistake?]SZ[19]
+(;B[bk];W[al]
+(;B[ak];W[am]
+(;B[ao]
+(;W[cm];B[do]C[SuccessRIGHT]C[RIGHT])
+(;W[ap];B[cm]C[SuccessRIGHT]C[RIGHT]))
+(;B[do];W[ao])
+(;B[cm];W[ao]))
+(;B[cm];W[am];B[ao];W[ep];B[ak];W[do]C[Snapped back!RIGHT]))
+(;B[cm];W[am];B[bk];W[al];B[ao];W[ep];B[ak];W[do];B[eo]C[SuccessRIGHT]C[RIGHT])
+(;B[am];W[cm])
+(;B[ao];W[am]
+(;B[bk];W[cm];B[ck])
+(;B[cm];W[bk];B[al];W[ak];B[do];W[al];B[ck];W[ap])))

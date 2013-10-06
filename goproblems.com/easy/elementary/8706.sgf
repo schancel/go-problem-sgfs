@@ -1,0 +1,28 @@
+(;GE[elementary]DI[15k]DP[64]SO[LCZLAPINSKI]CO[6]AB[ao]AB[bo]AB[co]AB[cn]AB[cm]AB[cl]AB[ck]AB[bk]AB[ak]AW[aj]AW[bj]AW[cj]AW[dj]AW[dk]AW[dl]AW[dm]AW[dn]AW[do]AW[dp]AW[cp]AW[bp]AW[ap]C[FORCE]LB[ej:Y]LB[ek:N]AP[goproblems]
+(;B[ek]C[Then try to kill black.]
+(;W[am];B[bm]
+(;W[al];B[an])
+(;W[an];B[al]))
+(;W[bm];B[am]
+(;W[bl];B[bn])
+(;W[bn];B[bl]))
+(;W[an];B[bm]
+(;W[am];B[al])
+(;W[al];B[am]))
+(;W[al];B[bm]
+(;W[am];B[an])
+(;W[an];B[am]))
+(;W[bn];B[bm]
+(;W[am];B[an])
+(;W[an];B[am])
+(;W[al];B[am]))
+(;W[bl];B[bm]
+(;W[al];B[am])
+(;W[am]
+(;B[al]C[CHOICE])
+(;B[an]C[CHOICE]))
+(;W[an];B[am])
+(;W[bn];B[am])))
+(;B[ej]C[];W[am]C[Now prove it.];B[bm]
+(;W[al]C[CHOICE];B[an]C[RIGHT])
+(;W[an]C[CHOICE];B[al]C[RIGHT])))

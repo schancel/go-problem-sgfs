@@ -1,0 +1,61 @@
+(;GE[best move]DI[5k]DP[32]SO[DarkSycthe]CO[0]AW[br]AW[cq]AW[dq]AW[dp]AW[ep]AW[eo]AB[eq]AB[bq]AB[ap]AB[cp]AB[co]AB[do]AB[cn]AB[cm]AB[cl]AW[dm]AW[dl]AW[dk]AB[ck]AW[dn]AW[cj]AW[ci]AW[bh]AB[bj]AB[bi]AW[ch]AW[en]AW[gq]AW[gp]AB[hq]AB[hp]AB[ip]AB[jp]AB[jo]AW[hr]AW[iq]AW[jq]AW[ho]AW[io]AW[jn]AW[jm]AB[kn]AB[km]AB[jl]AW[il]AW[ik]AW[ij]AB[jk]AB[jj]AW[ii]AB[ji]AB[ko]AW[lp]AW[lo]AW[ln]AW[mn]AW[mq]AW[op]AW[oq]AW[oo]AW[mp]AB[lm]AB[mm]AB[nm]AW[no]AB[nn]AB[on]AB[pn]AB[po]AB[pp]AB[pq]AB[pj]AB[kq]LB[kq:1]C[White to respond to Black 1 as best as possible.]AP[goproblems]
+(;W[ir];B[kp]C[Black must protect the cut.];W[kr];B[lq];W[lr]C[Good. Everything is safe and connected.RIGHT])
+(;W[jr];B[kr]C[What if black is greedy? How should white defend?]
+(;W[gr];B[kp]C[You lost more points than necessary.])
+(;W[fr];B[kp]C[You lost more points than necessary.])
+(;W[go];B[kp]C[You lost more points than necessary.])
+(;W[im];B[kp]C[You lost more points than necessary.])
+(;W[hm];B[kp]C[You lost more points than necessary.])
+(;W[is];B[kp]C[You lost more points than necessary.])
+(;W[kp];B[js];W[ir];B[gr];W[fr];B[go]
+(;W[im];B[fp]
+(;W[fq]C[RIGHT])
+(;W[gs]C[RIGHT]))
+(;W[hm];B[hn])
+(;W[in];B[fp]
+(;W[fq]C[RIGHT])
+(;W[gs]C[RIGHT]))
+(;W[hn];B[fp]
+(;W[fq]C[RIGHT])
+(;W[gs]C[RIGHT]))
+(;W[fp];B[hn])
+(;W[fq];B[hn])
+(;W[er];B[hn])
+(;W[fo];B[in])))
+(;W[kr];B[ir];W[jr];B[gr]
+(;W[hs]C[NOTTHIS])
+(;W[is];B[go]
+(;W[fr];B[hn])
+(;W[fq];B[hn])
+(;W[hm];B[hn])
+(;W[im];B[fp])
+(;W[fp];B[hn])
+(;W[hn];B[fp])
+(;W[in];B[fp])
+(;W[fo];B[in])))
+(;W[kp];B[ir];W[jr];B[gr]
+(;W[hs]C[NOTTHIS])
+(;W[is];B[go]
+(;W[fr];B[hn])
+(;W[fp];B[hn])
+(;W[fq];B[hn])
+(;W[fo];B[in])
+(;W[in];B[fp])
+(;W[hn];B[fp])
+(;W[im];B[fp])
+(;W[hm];B[hn])))
+(;W[lq];B[kr])
+(;W[lr];B[kr])
+(;W[is];B[jr];W[ir];B[kp]C[You lost more points than necessary.])
+(;W[ks];B[kr])
+(;W[js];B[ir];W[jr];B[gr]
+(;W[hs]C[NOTTHIS])
+(;W[is];B[go]
+(;W[in];B[fp])
+(;W[hn];B[fp])
+(;W[hm];B[hn])
+(;W[im];B[fp])
+(;W[fp];B[hn])
+(;W[fq];B[hn])
+(;W[fr];B[hn])
+(;W[fo];B[in]))))

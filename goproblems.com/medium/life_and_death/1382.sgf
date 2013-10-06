@@ -1,0 +1,52 @@
+(
+;GE[life and death]DI[3d]DP[10]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AW[ad][bd][cd][dd][ed][fd][gd][gc][hb][cc][db]
+AB[bc][bb][cb][dc][ec][fc][fb]
+GN[temp]
+(
+;
+W[da]
+(
+;
+B[ab]
+;
+W[fa]
+;
+B[ga]
+;
+W[eb]
+C[RIGHT Ko]
+)
+(
+;
+B[ea]
+C[wrong defence]
+;
+W[ab]
+;
+B[ac]
+;
+W[ca]
+;
+B[aa]
+;
+W[gb]
+C[RIGHT dead]
+)
+)
+(
+;
+W[ab]
+;
+B[da]
+;
+W[ba]
+;
+B[eb]
+C[alive]
+)
+)

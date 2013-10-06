@@ -1,0 +1,33 @@
+(;GE[elementary]DI[10k]DP[53]SO[santa c]CO[7]AW[ie]AW[je]AW[ke]AW[le]AW[if]AW[hg]AW[hh]AW[ii]AW[ij]AW[ik]AW[jk]AW[kk]AW[kl]AW[ll]AW[ml]AW[nk]AW[nj]AW[nh]AW[mh]AW[mg]AW[mf]AB[jf]AB[kf]AB[lf]AB[lg]AB[lh]AB[ig]AB[ih]AB[ji]AB[jj]AB[kj]AB[lj]AB[lk]AB[mk]C[Kill Black... :)]AB[mi]AP[goproblems]
+(;W[mj]
+(;B[kh]
+(;W[jg];B[jh];W[li]C[Well done! :)RIGHT])
+(;W[li];B[jg]C[:(])
+(;W[ni];B[li]C[:(]))
+(;B[li]
+(;W[kh]TR[jh]TR[kg]C[RIGHT])
+(;W[jh]TR[kh]TR[jg]C[RIGHT]))
+(;B[jh]
+(;W[kg]TR[kh]TR[li]C[RIGHT])
+(;W[li]TR[ki]TR[kg]C[RIGHT]))
+(;B[kg]
+(;W[jh]C[RIGHT])
+(;W[li]TR[jh]TR[ki]C[RIGHT]))
+(;B[jg];W[kh]C[RIGHT]))
+(;W[kh];B[jh]
+(;W[kg];B[mj];W[ki]C[Seki! :(])
+(;W[mj];B[kg]C[:(]))
+(;W[jh];B[jg];W[kh]
+(;B[ki]
+(;W[mj]C[Well done! :)RIGHT])
+(;W[ni]C[Well done! Black can't play at A! :)RIGHT]LB[mj:A]))
+(;B[mj]
+(;W[ki]C[RIGHT])
+(;W[ni]C[Black can't play at A! :)RIGHT]LB[ki:A])))
+(;W[jg];B[jh]
+(;W[kg];B[mj]C[:(])
+(;W[mj];B[kg]C[:(]))
+(;W[kg];B[kh]C[:(])
+(;W[ki];B[kh]C[:(])
+(;W[ni];B[kh]C[:(])
+(;W[li];B[mj]C[:(]))

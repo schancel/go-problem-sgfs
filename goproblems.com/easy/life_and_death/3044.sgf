@@ -1,0 +1,11 @@
+(;GE[life and death]DI[4k]DP[31]SO[unkx80]CO[5]AB[sd]AB[qd]AB[rd]AB[qc]AB[qb]AB[pb]AB[oc]AB[od]AB[sb]AW[rb]AW[ra]AW[nb]AW[ob]AW[nc]AW[ne]AW[pc]AW[pd]AW[pe]AW[qe]AW[re]AW[se]C[Black to play.]AP[goproblems]
+(;B[pa]
+(;W[sa]
+(;B[rc]C[];W[sc]C[Ko for life, Black needs to find the first ko threat.RIGHT])
+(;B[qa];W[sc])
+(;B[sc]C[Black is dead. White can play at R19 any time and still leave a dead shape.]))
+(;W[rc];B[sc]C[Seki.RIGHT])
+(;W[qa];B[rc]C[RIGHT])
+(;W[sc];B[rc];W[oa]C[Seki.RIGHT]))
+(;B[rc];W[pa]LB[qa:A]C[Black suffers from a shortage of liberties and cannot play at A.])
+(;B[qa];W[rc]C[This is not seki; if White removes the outside liberty Black is in atari.]MA[pa]MA[oa]))

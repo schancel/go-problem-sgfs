@@ -1,0 +1,25 @@
+(;GE[elementary]DI[18k]DP[68]SO[ldan]CO[7]AB[mb]AB[nb]AB[nc]AB[od]AB[oe]AB[pd]AB[kd]AB[ke]AW[lb]AW[kc]AW[lc]AW[mc]AW[me]AW[ne]AB[mf]AB[nf]AB[jf]AW[jd]AW[ic]AW[ib]AW[ia]AB[nh]AB[ni]AB[qc]AB[pb]AB[rb]AW[rc]AW[rd]AW[qd]AW[pe]AW[pf]AW[qf]AW[qg]AW[rg]AW[rh]AB[ri]AB[qh]AB[ph]AB[oh]AW[re]AW[sc]AB[sb]AW[sg]AB[of]AW[id]AB[si]C[Black to make his best moveCHOICE]AW[jc]AB[ig]AB[ih]AB[ii]AB[jg]AW[ie]AP[goproblems]
+(;B[md]
+(;W[ld]
+(;B[nd];W[le];B[lf]C[Could have captured marked stones]TR[me]TR[ne])
+(;B[lf];W[nd];B[le];W[md]C[You could have captured the marked stones]TR[me]TR[ne])
+(;B[le]C[Snap back! If white plays O16 black  has N16 (white can keep O16 as a ko threat).RIGHT]))
+(;W[le];B[ld]C[RIGHT]))
+(;B[le];W[md]C[white saved his stones]TR[me]TR[ne])
+(;B[ld];W[md])
+(;B[nd];W[le];B[md];W[ld];B[lf])
+(;B[la];W[ka];B[ma];W[le];B[lf]C[There was a bigger move]TR[me]TR[ne])
+(;B[pg];W[le]LB[lf:A]C[Please block at A];B[lf]C[You could have captured the marked stones]TR[me]TR[ne])
+(;B[rf]C[This shape is alive!])
+(;B[sf]C[This shape is alive!])
+(;B[se]C[This shape is alive!])
+(;B[sd]C[This shape is alive!])
+(;B[jb]C[Generally you should assume groups like this one are connected to stones to the left and are therefore alive])
+(;B[og]C[It is safe to block at Q13 - but there is a bigger move]TR[me]TR[ne])
+(;B[ka];W[le]
+(;B[lf];W[la])
+(;B[la];W[lf]
+(;B[lg];W[kf]
+(;B[kg];W[je])
+(;B[je];W[kg]))
+(;B[kf];W[lg]))))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[6k]DP[37]SO[piccolo]CO[0]AB[br]AB[cr]AB[dr]AB[cq]AB[cp]AB[bp]AB[co]AB[do]AW[ds]AW[er]AW[dq]AW[dp]AW[eo]AW[bn]AW[bo]AW[cn]AW[dn]AW[dm]AB[fm]AW[fn]AB[fl]AW[dl]AB[gn]AB[go]AW[hn]AW[ho]AW[gl]AW[hl]AW[il]AB[hm]AB[im]AW[jm]AW[kl]AB[jq]AB[kq]AB[lr]AB[lp]AB[mp]AB[nq]AB[nr]AB[or]AB[op]AB[pp]AB[qp]AB[qo]AB[qn]AB[ro]AB[rr]AW[oq]AW[pq]AW[qq]AW[rq]AW[pr]AW[rp]AW[rs]AW[lq]AW[mq]AW[np]AW[no]AW[oo]AW[po]AW[pn]AB[on]AB[pm]AW[pl]AW[mm]AB[nl]AB[ql]AB[rl]AW[sr]AB[cm]AW[fp]C[Can white kill the marked group ? If yes do it, otherwise tenuki at 'T']LB[ir:T]TR[bp]TR[cp]TR[co]TR[do]TR[cq]TR[cr]TR[br]TR[dr]AP[goproblems]
+(;W[cs];B[bs];W[aq];B[ap];W[ar];B[es];W[ds];B[eq];W[ep];B[fr]C[Alive.])
+(;W[aq]
+(;B[ap]C[CHOICE]
+(;W[cs];B[bs])
+(;W[ar];B[cs]
+(;W[as]C[];B[eq];W[ep];B[fq];W[fr];B[gq]C[];W[gr];B[hq];W[hr];B[ir];W[fs];B[hs];W[ao];B[es]C[This situation ends with an interesting double ko (therefore, life). You may stop here, or navigate to see how.];W[ak];B[bk];W[ds];B[ck];W[bs];B[es];W[dk];B[ek];W[ds];B[bq];W[ar];B[as];W[bs];B[es]C[White cannot win this ko (so, G2 is dead).])
+(;W[fq];B[as];W[bs];B[es];W[fs];B[bq]C[Alive.])
+(;W[bs];B[es]TR[eq]TR[bq]C[Alive.])
+(;W[es];B[as];W[bs];B[eq];W[ep];B[as]C[White needs to find the first ko threat, then black has two local threats at F2 / F1. White also needs to fill at A5. This means white needs to find 4 threats, and ignore 1+1 = two black moves. Most probably hopeless.]TR[fr]TR[fs];W[ak];B[bk];W[bs];B[fr];W[fq];B[as];W[ck];B[dk];W[bs];B[fs];W[eq];B[as];W[ek];B[fk];W[bs];B[gk];W[ao];B[as];W[hk];B[ik];W[bs];B[jk];W[bq])
+(;W[fr];B[as];W[bs];B[es];W[ao];B[as]C[Impossible ko for white (you can stop here or navigate to see why).]
+(;W[ak];B[bk];W[bs];B[eq];W[ep];B[as];W[ck];B[dk];W[bs];B[gr];W[fs];B[as];W[ek];B[fk];W[bs];B[gs];W[fq];B[as];W[gk];B[hk];W[bs];B[ik]C[To mr0661: I disagree, white cannot really fight the ko since black has many local threats. But the variants you propose are interesting, thanks :)]))
+(;W[eq];B[as];W[bs];B[es];W[fr];B[bq]C[Alive.])
+(;W[fs];B[as];W[bs];B[es]C[White cannot wins here : on D1 black answers A1, ...etc. No time for (white) A1 since E3 is threatened.  Life in double ko :)]))
+(;W[bs];B[cs];W[ar]))
+(;B[eq];W[ep];B[fq]C[This move by black might be the best (?!), but I fail to see a clear saving line. Please comment if you see 'the truth'. For the moment I prefer to keep above variations.];W[fr];B[gq];W[gr];B[hq]C[];W[bs]
+(;B[es];W[fs]
+(;B[ar];W[ap];B[cs];W[ao];B[as];W[bq]C[Direct ko.])
+(;B[ap];W[ar]))
+(;B[ap];W[ar]
+(;B[cs];W[es];B[as];W[ak];B[bk];W[bs];B[hr];W[ao];B[as];W[ck];B[dk];W[bs]C[Looks like hard but winnable ko for white.])
+(;B[es];W[fs];B[cs];W[ao]C[Direct ko.]))
+(;B[ar];W[ap];B[cs];W[ao];B[hr];W[fs];B[es];W[ak];B[bk];W[ds]C[White has to ignore only one black move to start a direct ko.])
+(;B[hr];W[ar];B[cs];W[ap];B[as];W[ak];B[bk];W[bs];B[es];W[bq]C[Another possibility : direct ko, white still has killing hopes.])
+(;B[cs];W[ar];B[ap])
+(;B[fs];W[ar]
+(;B[ap];W[cs])
+(;B[cs];W[ap];B[as];W[ak];B[bk];W[bs];B[es];W[bq]C[Another direct ko.]))))
+(;W[ir]C[Yep, too much aji around. In fact in the game white played exactly here, and black defended at E3.RIGHT]))

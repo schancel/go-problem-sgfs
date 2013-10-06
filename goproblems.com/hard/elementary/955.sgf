@@ -1,0 +1,40 @@
+(;GE[elementary]DI[4d]DP[7]SO[kjeld]CO[8]AW[bd][cd][de][df][bg]AB[be][ce][dd][ed][gd]
+    (;B[cc];W[bc]
+        (;B[bb];W[cb]C[Now, Make the right choise !]
+            (;B[dc];W[ab]
+                (;B[ba];W[ca]
+                    (;B[ad];W[aa]
+                     ;B[bb];W[ba]
+                     ;B[ae]C[Brilliant you did it !]C[RIGHT]
+                    )
+                    (;B[ac];W[ad]C[Almost, but I'm alive !!!]
+                    )
+                )
+                (;B[ad];W[ba]C[I have 2 eyes now !]
+                )
+            )
+            (;B[ac];W[dc]
+             ;B[ad];W[cc]
+             ;B[ec];W[ba]
+             ;B[ab];W[eb]C[And now ?]
+            )
+            (;B[ad];W[dc]
+             ;B[ac];W[cc]
+             ;B[ec];W[ba]
+             ;B[ab];W[eb]C[And now ?]
+            )
+            (;B[db];W[ca]C[And now ?]
+            )
+        )
+        (;B[cb];W[bb]C[I have 4 liberties now, and you have only 3, so you must be wrong.]
+        )
+    )
+    (;B[bb];W[bf])
+    (;B[ac];W[bf])
+    (;B[bc];W[cc])
+    (;B[dc];W[bf])
+    (;B[ad];W[bb])
+    (;B[ae];W[cb])
+    (;B[cf];W[cg])
+    (;B[cg];W[cf])
+)

@@ -1,0 +1,59 @@
+(;GE[life and death]DI[5k]DP[33]SO[gounter]CO[9]
+C[black just played the marked stone. White to kill
+]
+AW[ll][ml][nl][ol][pl][gm][hm][im][jm][km][lm][pm][fn][kn][mn][pn][qn][fo][ho][io][ko][qo][pp][hq][iq][mq][oq][pq][ir][jr][nr][or][js][ks][ns]
+AB[mm][nm][om][in][jn][ln][on][jo][lo][mo][oo][po][ip][kp][np][op][jq][kq][nq][kr][mr][ls][ms]
+TR[mo]PL[2]
+(;W[nn];B[lr]
+(;W[lp];B[no]
+(;W[mn];B[jp]
+(;W[hp]C[RIGHT
+shortage of liberties. black is dead
+])
+
+(;W[hn]C[RIGHT
+shortage of liberties. black is dead
+])
+)
+
+(;W[nn];B[jp]
+(;W[hp]C[RIGHT
+shortage of liberties. black is dead
+])
+
+(;W[hn]C[RIGHT
+shortage of liberties. black is dead
+])
+)
+)
+
+(;W[mp];B[no];W[lp];B[lq])
+
+(;W[lq];B[lp])
+)
+
+(;W[lr];B[nn]
+C[white may catch the stones on the left by playing M4 but black is alive
+])
+
+(;W[mp];B[lr]
+(;W[nn];B[no])
+
+(;W[lp];B[lq])
+
+(;W[lq];B[lp])
+)
+
+(;W[lq];B[lr]
+(;W[nn];B[lp])
+
+(;W[lp];B[mp])
+
+(;W[mp];B[lp])
+)
+
+(;W[no];B[nn])
+
+(;W[lp];B[nn])
+
+)

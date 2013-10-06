@@ -1,0 +1,30 @@
+(;GE[endgame]DI[6k]DP[36]SO[maba]CO[6]AB[rl]AB[sl]AB[pl]AB[pm]AB[pn]AB[qn]AB[qo]AB[ro]AW[pk]AW[qj]AW[rj]AW[sk]AB[qi]AB[ri]AB[sh]AB[qh]AB[rg]AB[pg]AW[ph]AW[pi]AW[pj]C[White to play the best endgame. (considering only points, not sente)FORCE]AP[goproblems]
+(;W[qk];B[ql])
+(;W[rk];B[ql])
+(;W[sj];B[qk];W[rk];B[ql])
+(;W[ql]
+(;B[rk]
+(;W[sj];B[qk])
+(;W[qk];B[rm])
+(;W[rm]
+(;B[sm]
+(;W[qk];B[sn])
+(;W[qm];B[rn];W[qk];B[sj])
+(;W[rn];B[qm])
+(;W[sj];B[qm])
+(;W[sn];B[sj]
+(;W[qm];B[rn])
+(;W[rn];B[qm])
+(;W[qk]C[Black's initial response at S9 was wrong.RIGHT])))
+(;B[sj]
+(;W[qm];B[sm]
+(;W[sn];B[rn])
+(;W[rn];B[qk])
+(;W[qk];B[rn]))
+(;W[sm];B[si]
+(;W[qm];B[sk];W[qk]C[Black's initial response at S9 was wrong.RIGHT])
+(;W[qk];B[sk];W[qm]C[Black's initial response at S9 was wrong.RIGHT]))
+(;W[qk];B[si]
+(;W[sm];B[sk];W[qm]C[Black's initial response at S9 was wrong.RIGHT])
+(;W[qm];B[sm];W[sn];B[sk];W[rn]C[Black's initial response at S9 was wrong.RIGHT])))))
+(;B[qm]C[The correct black response.];W[qk]C[A difference of three points.RIGHT])))

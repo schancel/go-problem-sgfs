@@ -1,0 +1,14 @@
+(;GE[best move]DI[5d]DP[5]SO[Field Mouse]CO[0]AW[ir]AW[hr]AW[js]AB[jr]AB[kq]AB[lq]AB[nr]AB[iq]AB[hq]AW[gq]AW[fq]AW[eq]AW[er]AW[es]AW[gp]AW[ho]AW[jo]AW[io]AW[jp]AW[kp]AB[nq]AW[mp]AW[lp]AW[op]AW[oq]AB[or]AW[pr]AW[qq]AB[os]AW[no]AW[mn]AW[on]C[What is the best result black can get here? No other ko threats on the board, sente is not important!]AW[lr]AB[ls]AW[mr]AB[om]AB[nl]AB[mm]AW[mk]AW[nk]AW[ok]AW[ol]AB[pm]AB[pn]AB[ml]AB[ll]AB[kl]AB[km]AB[kn]AB[ln]AB[il]AB[jl]AB[im]AB[in]AB[jn]AW[pk]AW[qk]AW[rk]AW[ro]AW[qo]AW[mo]AW[oo]AW[go]AW[qp]AB[pl]AW[nm]AW[po]AW[rl]AW[rm]AW[rn]AW[ms]AB[mq]AB[ks]AP[goproblems]
+(;B[nn]
+(;W[mq];B[nm])
+(;W[kr]C[White is satisfied.]))
+(;B[is]
+(;W[hs]C[CHOICE];B[gr];W[js]
+(;B[gs];W[kr]
+(;B[is];W[jq];B[ks];W[ps];B[hr];W[nn]C[You could do much better.])
+(;B[jq];W[nn]C[Nice job!RIGHT]))
+(;B[kr];W[gs]))
+(;W[gs];B[jq];W[nn]C[Best for both.RIGHT]))
+(;B[gr];W[kr];B[jq];W[gs]
+(;B[ks];W[ls];B[ns];W[fr];B[ks];W[lr])
+(;B[is];W[hs];B[ks];W[ls];B[ns];W[fr];B[ks];W[lr])))

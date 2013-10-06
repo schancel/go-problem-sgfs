@@ -1,0 +1,127 @@
+(;GE[tesuji]DI[5d]DP[4]SO[Hans]CO[9]
+AW[do][eo][fo][cp][gp][cq][dq][hq][dr][hr]
+AB[bm][cm][bo][co][dp][ep][eq][er]
+C[Save the isolated black stones.]
+(;B[bq];W[bp]
+(;B[br];W[es];B[fs];W[ds];B[fr];W[ap]
+(;B[cr];W[bs]
+(;B[cs];W[ar];B[as]C[RIGHT Black takes the ko first.
+])
+
+(;B[aq];W[cs];B[ar];W[as]
+C[With such a big eye white wins the capturing race.
+])
+
+(;B[as];W[ar]C[White lives.
+])
+
+(;B[ar];W[cs]C[With such a big eye white wins the capturing race.
+])
+)
+
+(;B[bs]C[
+];W[gr]LB[bs:A]
+C[Black A would have worked if the black stones on the right had had one extra liberty.
+])
+
+(;B[aq];W[bs]
+(;B[cr];W[cs];B[ar];W[as]C[White's big eye wins the capturing race.
+])
+
+(;B[ar];W[cr])
+
+(;B[as];W[ar]C[White takes the ko first. Black can do better.
+])
+)
+
+(;B[ar];W[gr]C[White wins the race.
+])
+
+(;B[as];W[gr]C[White wins the capturing race.
+])
+
+(;B[cs];W[bs]
+(;B[as];W[cr];B[ao];W[bs]
+C[White takes the ko first. Black can do better.
+])
+
+(;B[cr];W[ar];B[as]C[RIGHT It's a ko and black takes first.
+])
+
+(;B[ar];W[cr]C[Seki.
+])
+
+(;B[aq];W[cr]C[White lives.
+])
+
+(;B[ao];W[cr]C[White lives.
+])
+)
+
+(;B[ao];W[bs]
+(;B[cr];W[ar]C[White lives.
+])
+
+(;B[ar];W[cr]C[Seki.
+])
+
+(;B[aq];W[cs]
+(;B[as];W[ar]C[White takes the ko first. Black can do better.
+])
+
+(;B[ar];W[gr];B[cr];W[as]
+C[White's eye is big, so white wins the capturing race by several moves.
+])
+)
+)
+)
+
+(;B[ap];W[br]
+(;B[ar];W[aq]C[White takes the ko first. Black can do better.
+])
+
+(;B[aq];W[ar];B[ao];W[cs])
+)
+)
+
+(;B[ds];W[cs]
+(;B[es];W[br]C[White lives.
+])
+
+(;B[bq];W[br]
+(;B[bp];W[es];B[fs];W[ds];B[fr];W[ar])
+
+(;B[es];W[bp])
+)
+)
+
+(;B[bp];W[es]
+(;B[fs];W[ds];B[fr];W[bq]
+C[White wins the race because of his big eye.
+])
+
+(;B[cs];W[ds]C[White can connect.
+])
+)
+
+(;B[ar];W[es];B[fs];W[ds];B[fr];W[gs]C[White is one liberty ahead.
+])
+
+(;B[br];W[es];B[fs];W[ds];B[fr];W[gr]C[White is one liberty ahead.
+])
+
+(;B[cs];W[es];B[fs];W[ds];B[fr];W[br];B[bp];W[bq];B[aq];W[ar];B[bs];
+W[gr];B[ap];W[fq];B[cr];W[as];B[cs];W[fp])
+
+(;B[es];W[br]
+(;B[cs];W[ds];B[bp];W[bq];B[aq];W[ar];B[bs];W[ap];B[ao];W[fr]
+(;B[cr];W[as];B[cs];W[fq];B[cr];W[fp])
+
+(;B[aq];W[fq];B[cr];W[as];B[cs];W[fs])
+)
+
+(;B[ds];W[cs]C[White lives.
+])
+)
+
+)

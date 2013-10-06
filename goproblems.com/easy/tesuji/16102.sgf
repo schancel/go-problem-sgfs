@@ -1,0 +1,43 @@
+(;GE[tesuji]DI[5k]DP[33]SO[wurfmaul]CO[0]AB[ih]AB[kh]AB[jh]AB[il]AB[jl]AB[kl]AW[hi]AW[hj]AW[hk]AW[li]AW[lj]AW[lk]LB[lh:T]LB[ii:A]LB[ji:B]LB[ij:C]LB[jj:D]C[Can black connect without ko? If not, play at T.FORCE]AP[goproblems]
+(;B[jj];W[ji]LB[ii:A]LB[ij:B]LB[ik:C]LB[jk:D]C[FORCE]
+(;B[ii];W[jk]
+(;B[kk];W[ij]
+(;B[ki]C[Nice, black is connected!RIGHT])
+(;B[kj];W[ki]C[You almost got it. Try again!])
+(;B[ik];W[ki]C[You almost got it. Try again!]))
+(;B[ik];W[ij]
+(;B[ki];W[kk]C[You got trapped. Try again!])
+(;B[kk];W[ki]C[You got trapped. Try again!])
+(;B[kj];W[lh]C[I'm sorry, white doesn't need to move. Try again!]))
+(;B[ij];W[ik])
+(;B[ki];W[ik])
+(;B[kj];W[kk]))
+(;B[ij];W[ii])
+(;B[jk];W[ii])
+(;B[ik];W[ii]))
+(;B[ij];W[jj]LB[ii:A]LB[ji:B]LB[kj:D]LB[ki:C]C[FORCE]
+(;B[ii];W[ik]
+(;B[kj];W[ki])
+(;B[jk];W[kj]))
+(;B[kj];W[ii]
+(;B[ji];W[ik]
+(;B[jk];W[ij])
+(;B[kk];W[ki];B[jk];W[ij])
+(;B[ki];W[kk];B[jk];W[ij]))
+(;B[ki];W[kk])
+(;B[kk];W[ki])
+(;B[jk];W[ji])
+(;B[ik];W[kk]))
+(;B[ji];W[kj])
+(;B[ki];W[kj]))
+(;B[ji];W[jj]LB[ii:A]LB[ij:B]LB[ik:C]LB[jk:D]C[FORCE]
+(;B[ii];W[ij])
+(;B[ij])
+(;B[ik];W[ij])
+(;B[jk];W[ij]))
+(;B[ii];W[jj]
+(;B[jk];W[ij])
+(;B[kj];W[ij])
+(;B[ji])
+(;B[ij];W[ik]))
+(;B[lh];W[jj]C[Black could have connected. Try again!]))

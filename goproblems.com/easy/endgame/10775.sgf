@@ -1,0 +1,32 @@
+(;GE[endgame]DI[6k]DP[36]SO[squirmy]CO[5]AB[sa]AB[sb]AB[rb]AB[qc]AB[rd]AB[pd]AB[pe]AB[qf]AB[of]AB[og]AB[nh]AW[ng]AW[nf]AW[ne]AW[oe]AW[od]AW[pc]AW[pb]AW[qb]AW[qa]AW[ra]AW[nc]AW[pf]AB[mh]AW[mg]AB[lh]AW[lg]MA[qf]C[The marked move was not the best response to Q14 - take advantage of blacks weakness]AP[goproblems]
+(;W[pg];B[oh]
+(;W[qe]
+(;B[qd]C[CHOICE]
+(;W[sc]
+(;B[re]C[CHOICE];W[rc]C[Black still has some stones to defendRIGHT])
+(;B[rc];W[re]C[A terrible result for blackRIGHT]))
+(;W[re];B[sc]
+(;W[rf];B[qg]
+(;W[rg];B[ph];W[se];B[pf];W[sd];B[rc]C[])
+(;W[qh];B[ph])
+(;W[ph];B[qh];W[pi]C[];B[rg]
+(;W[qi];B[sf])
+(;W[se];B[sg];W[qi];B[sf])))
+(;W[qg];B[rf])))
+(;B[re];W[qd]C[This route is really really bad for blackRIGHT]))
+(;W[sc]
+(;B[rc];W[qe]
+(;B[qd];W[re]C[A terrible result for blackRIGHT])
+(;B[re];W[qd]C[Very bad for blackRIGHT]))
+(;B[re]C[CHOICE];W[rc]C[Black still has some stones to defendRIGHT])))
+(;W[qe];B[pg];W[sc];B[rc])
+(;W[sc]
+(;B[rc]C[];W[pg];B[oh]C[];W[qe]
+(;B[re];W[qd]C[Very bad for blackRIGHT])
+(;B[qd];W[re]C[A terrible result for blackRIGHT]))
+(;B[pg]C[CHOICE];W[rc]C[This solution is sufficient, if you know why black has to allow it.  There are some more aggresive ones.RIGHT]))
+(;W[oh];B[pg])
+(;W[qd];B[qe])
+(;W[rc];B[sc]
+(;W[qe];B[pg])
+(;W[pg];B[oh];W[qe];B[qd];W[re];B[rf])))

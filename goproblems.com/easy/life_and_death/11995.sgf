@@ -1,0 +1,26 @@
+(;GE[life and death]DI[8k]DP[49]SO[DarkSycthe]CO[0]AW[rp]AW[sp]AW[qq]AW[qr]AW[rr]AW[pr]AW[ps]AB[rq]AB[qp]AB[ro]AB[po]AB[pq]AB[oq]AB[or]AB[os]AB[rn]C[What is the best black can get from white out of this situation? Death means white can be killed unconditionally.]LB[mm:Death]LB[mo:Ko]LB[mq:Seki]LB[ms:Nothing]AP[goproblems]
+(;B[mm];W[mn]C[Ok, please demonstrate.]
+(;B[sr];W[sq];B[rs];W[ss]C[Ko.])
+(;B[so];W[sq])
+(;B[rs];W[sr])
+(;B[sq];W[sr])
+(;B[ss];W[sr]))
+(;B[mo];W[mn]C[Ok, please demonstrate.]
+(;B[sr];W[sq];B[rs];W[ss]C[Right, ko.RIGHT])
+(;B[rs];W[sr])
+(;B[so];W[sq])
+(;B[ss];W[sr])
+(;B[sq];W[sr]))
+(;B[mq];W[mp]C[Ok, please demonstrate.]
+(;B[sr];W[sq];B[rs];W[ss]C[Ko.])
+(;B[so];W[sq])
+(;B[rs];W[sr])
+(;B[ss];W[sr])
+(;B[sq];W[sr]))
+(;B[ms]C[Actually, white is not unconditionally alive. Black can get something out of this group.])
+(;B[sr]C[NOTTHIS])
+(;B[sq]C[NOTTHIS])
+(;B[ss]C[NOTTHIS])
+(;B[rs]C[NOTTHIS])
+(;B[so]C[NOTTHIS])
+(;B[qs]C[NOTTHIS]))

@@ -1,0 +1,29 @@
+(;GE[endgame]DI[20k]DP[72]SO[notyourfrog]CO[0]AB[ca]AB[bb]AB[bc]AB[bd]AB[cd]AB[dc]AB[db]AB[ec]AB[bf]AB[cg]AB[dh]AB[di]AB[dj]AB[cj]AB[bj]AB[ej]AB[fj]AB[ei]AB[fi]AB[fh]AB[gi]AB[hi]AB[hj]AB[ii]AB[jh]AB[ig]AB[if]AB[ie]AB[eg]AB[ef]AW[be]AW[ae]AW[ce]AW[df]AW[dg]AW[dd]AW[ed]AW[fc]AW[gd]AW[eb]AW[id]AW[hg]AW[hh]AW[gh]AW[ih]AW[fg]AW[ff]AW[je]AW[jf]AW[ji]AW[ij]LB[gh:X]LB[hh:X]LB[hg:X]LB[ih:X]C[Kill the marked stones. This is critical for Black to win the game.]AP[goproblems]
+(;B[hf];W[gg];B[fe];W[gf];B[ge]C[This is what actually happened.RIGHT])
+(;B[gf];W[hf]
+(;B[he]
+(;W[gg];B[fe]C[Good Job!RIGHT])
+(;W[fe];B[gg]C[Not bad. You could've gotten more points though. See variations.RIGHT]))
+(;B[ge];W[he];B[fe];W[hd];B[gg]C[Not enough.]))
+(;B[fe]
+(;W[ge];B[gf];W[gg]
+(;B[hf]C[Yes.RIGHT])
+(;B[he];W[hf];B[gf]C[Yeah, the snapback works here.RIGHT]))
+(;W[ee];B[eh]
+(;W[ge]
+(;B[gf]
+(;W[gg];B[hf]C[Interesting. Yes, that would work.RIGHT]))
+(;B[cf];W[he];B[gf];W[hf]))
+(;W[fd];B[ge];W[gf];B[he];W[hf];B[gg]C[I suppose so.RIGHT])))
+(;B[ge];W[gf]
+(;B[hf];W[fe];B[gg]C[Yes, but there's a better way.RIGHT])
+(;B[he]
+(;W[fe];B[ee];W[fd];B[hf];W[gg]C[Aaaaaaaaand fail.])
+(;W[ee];B[eh];W[fe];B[hf];W[gg];B[cf];W[de];B[af];W[fd]C[White squeaked out and won the game. Oh, and the black J15 shape is in trouble.])))
+(;B[gg];W[gf];B[hf];W[gg]
+(;B[fe];W[ge]C[Negative, Ghost Rider.])
+(;B[ge];W[fe];B[he];W[jg]C[Now black's in trouble.])
+(;B[ee];W[fe];B[ge];W[he]C[Yeah, what?]))
+(;B[he];W[hf]
+(;B[ge];W[fe]C[White's just fine.])
+(;B[gf];W[ge];B[gg];W[fe]C[Not an altogether bad outcome, but if you could see the rest of the board, this wouldn't be as appealing. ^_^RIGHT])))

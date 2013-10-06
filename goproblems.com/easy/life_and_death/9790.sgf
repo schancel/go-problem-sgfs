@@ -1,0 +1,33 @@
+(;GE[life and death]DI[7k]DP[41]SO[om3]CO[6]AB[rh]AB[sh]AB[qi]AB[qj]AB[qk]AB[rl]AB[sl]AW[qh]AW[rg]AW[pi]AW[pj]AW[pk]AW[ql]AW[rm]AW[qg]AW[qm]C[Does black need to play for life? If not, play 'T' for Tenuki.]LB[ph:T]AP[goproblems]
+(;B[ph]
+(;W[sg]LB[pl:T]C[And now? Do you need to react on this or can you take your turn elsewhere?]
+(;B[sj];W[sm]LB[pl:T]
+(;B[rj]C[Alright. But you are leaving one ko threat more than necessary.RIGHT])
+(;B[rk]C[Perfect!RIGHT])
+(;B[ri]C[Perfect!RIGHT])
+(;B[pl];W[rk];B[sk];W[ri]C[Oops...])
+(;B[si];W[rk];B[sk];W[rj])
+(;B[sk];W[ri];B[si];W[rj]))
+(;B[pl];W[sj];B[rj];W[ri]C[Oops...])
+(;B[rj];W[sm]LB[pl:T]
+(;B[sj]C[Alright. But you are leaving one ko threat more than necessary.RIGHT])
+(;B[sk]C[Perfect!RIGHT])
+(;B[si]C[Perfect!RIGHT])
+(;B[pl];W[sj]
+(;B[sk];W[rk]C[Ouch!])
+(;B[si];W[ri]C[Ouch!])
+(;B[rk];W[ri]C[Ouch!])
+(;B[ri];W[rk]C[Ouch!]))
+(;B[ri];W[sk];B[rk];W[sj])
+(;B[rk];W[si];B[ri];W[sj]))
+(;B[si];W[sj])
+(;B[sk];W[rj])
+(;B[rk];W[sj])
+(;B[ri];W[sj]))
+(;W[sj];B[rj];W[sm];B[si]C[RIGHT]))
+(;B[sj]C[Not yet necessary.])
+(;B[rj]C[Not yet necessary.])
+(;B[si];W[rj]C[Now you are dead.])
+(;B[ri];W[sj]C[Now you are dead.])
+(;B[rk];W[sj]C[Now you are dead.])
+(;B[sk];W[rj]C[Now you are dead.]))

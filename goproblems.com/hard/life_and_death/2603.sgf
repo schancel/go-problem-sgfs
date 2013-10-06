@@ -1,0 +1,324 @@
+(;GE[life and death]DI[6d]DP[3]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.14]
+
+GN[templd31]
+
+AB[cr][bq][bp][cl][dm][dn][do][ep][eq][es][er][bj][cj][cs][dl]
+[ej]AW[bo][co][cp][dp][dq][dr][ds][cm][cn][ap][bl]C[Can black live in the corner?]
+
+(;B[ar];W[bs]
+(;B[ao];W[an]
+(;B[bm];W[ao]
+(;B[am];W[al]
+(;B[bk];W[bn]
+(;B[bm];W[cq];B[br];W[am];B[ak]C[gote seki. RIGHT])
+(;B[am];W[cq];B[br];W[bm];B[ak]C[gote seki. RIGHT])
+(;B[ak];W[cq];B[br];W[aq])
+(;B[br];W[cq]
+(;B[bm];W[am];B[ak]C[gote seki. RIGHT])
+(;B[am];W[bm];B[ak]C[gote seki. RIGHT])))
+(;B[ak];W[bn]
+(;B[am];W[cq];B[br];W[bm];B[bk]C[gote seki. RIGHT])
+(;B[bm];W[cq];B[br];W[am];B[bk]C[gote seki. RIGHT])
+(;B[bk];W[cq];B[br];W[aq])
+(;B[br];W[cq]
+(;B[bm];W[am];B[bk]C[gote seki. RIGHT])
+(;B[am];W[bm];B[bk]C[gote seki. RIGHT])))
+(;B[br];W[cq]
+(;B[bk];W[bn]
+(;B[bm];W[am];B[ak]C[gote seki. RIGHT])
+(;B[am];W[bm];B[ak]C[gote seki. RIGHT]))
+(;B[ak];W[bn]
+(;B[bm];W[am];B[bk]C[gote seki. RIGHT])
+(;B[am];W[bm];B[bk]C[gote seki. RIGHT]))))
+(;B[bn];W[cq];B[br];W[am]C[black dies])
+(;B[al];W[cq];B[br];W[aq])
+(;B[bk];W[cq];B[br];W[aq])
+(;B[br];W[cq];B[am];W[al]
+(;B[bk];W[bn]
+(;B[bm];W[am];B[ak]C[gote seki. RIGHT])
+(;B[am];W[bm];B[ak]C[gote seki. RIGHT]))
+(;B[ak];W[bn]
+(;B[bm];W[am];B[bk]C[gote seki. RIGHT])
+(;B[am];W[bm];B[bk]C[gote seki. RIGHT]))))
+(;B[aq];W[cq])
+(;B[bk];W[cq];B[br];W[ao])
+(;B[am];W[bm])
+(;B[al];W[cq];B[br];W[ao])
+(;B[cq];W[ao])
+(;B[br];W[bm];B[al];W[ao]C[white wins])
+(;B[ak];W[bm];B[al];W[cq];B[br];W[ao]))
+(;B[an];W[ao]
+(;B[bm];W[al]
+(;B[cq];W[am])
+(;B[aq];W[am])
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins]))
+(;B[bn];W[cq];B[br];W[bm])
+(;B[br];W[bm]C[white wins]))
+(;B[bm];W[ao]
+(;B[an];W[al]
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins])
+(;B[cq];W[am])
+(;B[aq];W[am]))
+(;B[bn];W[am]
+(;B[bk];W[an]
+(;B[bm];W[bn];B[ak];W[cq])
+(;B[bn];W[cq])
+(;B[ak];W[cq]))
+(;B[ak];W[an]C[white wins]))
+(;B[al];W[cq])
+(;B[bk];W[cq]))
+(;B[bn];W[ao]
+(;B[bm];W[am]
+(;B[bk];W[an]
+(;B[bm];W[bn];B[ak];W[cq])
+(;B[bn];W[cq])
+(;B[ak];W[cq]))
+(;B[ak];W[an]C[white wins]))
+(;B[an];W[cq];B[br];W[bm]))
+(;B[bk];W[ao])
+(;B[cq];W[ao])
+(;B[aq];W[ao])
+(;B[br];W[ao];B[bm];W[am]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn]C[white wins])))
+(;B[cq];W[ar]
+(;B[aq];W[ao]C[white wins])
+(;B[bm];W[aq])
+(;B[ao];W[aq]))
+(;B[bs];W[ar]
+(;B[ao];W[aq])
+(;B[aq];W[ao]C[white wins])
+(;B[an];W[ao]
+(;B[aq];W[cq])
+(;B[bm];W[al]
+(;B[aq];W[am])
+(;B[cq];W[aq])
+(;B[bk];W[bn])
+(;B[ak];W[bn]))
+(;B[al];W[aq])))
+(;B[aq];W[ao]
+(;B[cq];W[ar])
+(;B[br];W[as]
+(;B[bm];W[am]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn];B[al];W[cq]C[white wins]))
+(;B[an];W[bm]C[white wins])
+(;B[bn];W[bm]C[white wins]))
+(;B[bm];W[am]
+(;B[br];W[as]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn];B[al];W[ar]C[white wins]))
+(;B[as];W[br])
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn]C[white wins]))
+(;B[as];W[br]))
+(;B[br];W[ao]
+(;B[aq];W[as]
+(;B[bm];W[am]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn];B[al];W[ar]C[white wins]))
+(;B[an];W[bm]C[white wins])
+(;B[bn];W[bm]C[white wins]))
+(;B[bm];W[am]
+(;B[aq];W[as]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn];B[al];W[ar]C[white wins]))
+(;B[bn];W[aq]C[white wins])
+(;B[ak];W[bn]
+(;B[al];W[aq]C[white wins])
+(;B[aq];W[as]C[white wins]))))
+(;B[ao];W[ar]
+(;B[br];W[an]
+(;B[aq];W[as]
+(;B[bm];W[am]
+(;B[ak];W[cq];B[ao];W[bn]C[white can play ko if she has enough threats (or she could have chosen sente seki instead by connecting the ko earlier).]
+)
+(;B[bk];W[cq];B[ao];W[bn]C[white can play ko if she has enough threats (or she could have chosen sente seki instead by connecting the ko earlier).]
+)
+(;B[ao];W[ak];B[bk];W[bn];B[aj];W[cq]C[black cannot win the double ko]
+))
+(;B[ao];W[bm];B[al];W[ak];B[bk];W[am]C[double ko, white wins]
+)
+(;B[bk];W[ao])
+(;B[am];W[bm])
+(;B[al];W[ao])
+(;B[ak];W[ao]))
+(;B[as];W[bs]C[ko white takes first (white connects at A3 to finish the ko)]
+))
+(;B[aq];W[br]
+(;B[cq];W[an]C[ko white takes first (black would play B7 next)]
+)
+(;B[bs];W[cq];B[as];W[ar];B[br];W[an]C[ko white takes first (black would play B7 next)]
+)
+(;B[as];W[cq];B[bs];W[ar];B[br];W[an]C[ko white takes first (black would play B7 next)]
+)
+(;B[bm];W[am]
+(;B[cq];W[bn]
+(;B[bk];W[ak];B[aj];W[an]C[double ko, white wins])
+(;B[ak];W[an]C[ko white takes first (black would play B7 next), A8 instead would have given white a seki]
+)
+(;B[bs];W[ak];B[bk];W[an]C[double ko, white wins])
+(;B[as];W[ak];B[bk];W[an]C[double ko white wins]))
+(;B[bk];W[bn]
+(;B[cq];W[ak];B[aj];W[an]C[double ko, white wins])
+(;B[bs];W[cq];B[as];W[ar];B[br];W[ak];B[aj];W[an]C[double ko, white wins]
+)
+(;B[as];W[cq];B[bs];W[ar];B[br];W[ak];B[aj];W[an]C[double ko, white wins]
+))
+(;B[ak];W[bn]
+(;B[cq];W[an]C[ko white takes first, A8 instead would have given white a seki]
+)
+(;B[bs];W[cq];B[as];W[ar];B[br];W[an]C[ko white takes first, A8 instead would have given white a seki]
+)
+(;B[as];W[cq];B[bs];W[br];B[ar];W[an]C[ko white takes first, A8 instead would have given white a seki]
+))
+(;B[bs];W[ak]
+(;B[bk];W[bn]C[double ko, white wins])
+(;B[an];W[bn]
+(;B[cq];W[ap];B[ao];W[bk])
+(;B[bk];W[ap];B[ao];W[an]C[double ko, white wins]))
+(;B[cq];W[bn];B[bk];W[an]C[double ko, white wins]))
+(;B[as];W[ak]C[white wins through double ko, see variations at B1]
+)
+(;B[an];W[bn]
+(;B[cq];W[ap];B[ao];W[ak];B[bk];W[an]C[double ko, white wins]
+)
+(;B[ak];W[ap];B[ao];W[cq])
+(;B[bk];W[ap];B[ao];W[cq])))
+(;B[an];W[cq])
+(;B[bn];W[bm]
+(;B[an];W[cq])
+(;B[cq];W[an];B[al];W[ak];B[bk];W[am]C[white wins through double ko]
+))
+(;B[am];W[cq]))
+(;B[as];W[an]
+(;B[br];W[bs]C[ko white takes first (white connects at A3 to finish the ko)]
+)
+(;B[aq];W[bs];B[ao];W[cq]))
+(;B[an];W[br]
+(;B[bm];W[bs])
+(;B[bn];W[bs])
+(;B[aq];W[cq])
+(;B[cq];W[aq])
+(;B[bs];W[cq]))
+(;B[bm];W[aq]
+(;B[an];W[br])
+(;B[br];W[an])
+(;B[cq];W[an])
+(;B[bn];W[an]))
+(;B[bn];W[aq]
+(;B[bm];W[an])
+(;B[an];W[bm])
+(;B[br];W[an])
+(;B[cq];W[bm]))
+(;B[cq];W[aq])
+(;B[bs];W[aq]))
+(;B[bm];W[ao]
+(;B[al];W[ar]
+(;B[aq];W[br])
+(;B[br];W[cq]))
+(;B[bk];W[ar]
+(;B[aq];W[br])
+(;B[br];W[cq])
+(;))
+(;B[an];W[al]
+(;B[aq];W[am])
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[cq];W[am])
+(;B[ar];W[bs]
+(;B[cq];W[am])
+(;B[aq];W[am])
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins]))
+(;B[bn];W[ar])
+(;B[am];W[ar])
+(;B[br];W[am])
+(;B[as];W[am]))
+(;B[ar];W[bs]
+(;B[al];W[cq];B[br];W[aq])
+(;B[bk];W[cq];B[br];W[aq])
+(;B[an];W[al]
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[aq];W[am])
+(;B[cq];W[am])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins]))
+(;B[bn];W[am]C[white wins]))
+(;B[aq];W[am]
+(;B[bn];W[an]C[white wins])
+(;B[br];W[as]C[white wins])
+(;B[as];W[br]C[white wins])
+(;B[ak];W[bn]C[white wins]))
+(;B[bn];W[am]C[white wins here])
+(;B[br];W[am]
+(;B[aq];W[as]
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn]C[white wins]))
+(;B[bn];W[an]C[white wins])
+(;B[ak];W[bn]C[white wins])))
+(;B[an];W[ao]
+(;B[aq];W[bm]C[white wins])
+(;B[bm];W[al]
+(;B[aq];W[am])
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[cq];W[am])
+(;B[bn];W[am];B[bn];W[ar])
+(;B[am];W[bn];B[am];W[ar])
+(;B[ar];W[bs]
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[aq];W[am])
+(;B[cq];W[am])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins]))
+(;B[as];W[am])
+(;B[br];W[am]))
+(;B[ar];W[bs]
+(;B[bm];W[al]
+(;B[bk];W[bn])
+(;B[ak];W[bn])
+(;B[aq];W[am])
+(;B[cq];W[am])
+(;B[bn];W[am]C[white wins])
+(;B[am];W[bn]C[white wins]))
+(;B[bn];W[bm]C[white wins]))
+(;B[bn];W[bm]C[white wins])
+(;B[br];W[bm]C[white wins here]))
+(;B[bk];W[bm]
+(;B[an];W[ao]
+(;B[al];W[ar]
+(;B[br];W[cq])
+(;B[aq];W[br])
+(;B[am];W[br]))
+(;B[ar];W[bs]C[white wins])
+(;B[br];W[aq]C[white wins])
+(;B[aq];W[cq]C[white wins]))
+(;B[aq];W[ao]C[white wins here])
+(;B[ar];W[bs]
+(;B[ao];W[an];B[al];W[ao]C[white wins])
+(;B[an];W[ao]C[white wins])
+(;B[br];W[ao])
+(;B[al];W[ao]C[white wins]))
+(;B[br];W[ao]C[white is ahead])
+(;B[ao];W[an]
+(;B[al];W[ar]
+(;B[aq];W[br])
+(;B[br];W[aq]))
+(;B[ar];W[bs];B[al];W[ao]C[white wins])
+(;B[bs];W[ar];B[al];W[aq]))
+(;B[al];W[ao]
+(;B[ar];W[bs]C[white wins])
+(;B[bs];W[ar])
+(;B[aq];W[cq]C[white is ahead])
+(;B[br];W[aq]C[white is ahead]))))

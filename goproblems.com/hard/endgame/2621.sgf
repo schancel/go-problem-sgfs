@@ -1,0 +1,121 @@
+(;GE[endgame]DI[5d]DP[4]SO[Spica]CO[9]FF[4]GM[1]SZ[7]AP[SGFC:1.14]
+
+GN[tempeg7]
+
+AB[bd][cd][db][dc][fa][fb][gc][ge][ff][fg][cb][gb][ac][ba]AW[be]
+[ce][dd][ec][eb][ea][ee][ef][fc][cc][gg][ca][fd]C[Black's best result? (No komi, no prisoners, Japanese rules).]
+
+(;B[gd]
+(;W[da]
+(;B[bc];W[fe]
+(;B[eg];W[dg];B[gf];W[af]
+(;B[ae];W[ad]
+(;B[df];W[cg];B[ae];W[bb];B[ab];W[ad]
+(;B[bf];W[cf];B[ae];W[bg];B[ad]C[Black wins by 1 pt. RIGHT]
+)
+(;B[cf];W[bg];B[ae]C[white passes, black connects - jigo])
+(;B[de];W[cf];B[ae]C[White passes, black connects - jigo])
+(;B[bg];W[cf];B[ae]C[white passes, black connects - jigo]))
+(;B[de];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 1])
+(;B[cg];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 1])
+(;B[cf];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 1])
+(;B[bf];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 1])
+(;B[bg];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 1]))
+(;B[ad];W[ae]C[jigo])
+(;B[df];W[cg]C[black must settle for jigo now])
+(;B[cg];W[df]C[black must settle for jigo now])
+(;B[bg];W[df]C[black must settle for jigo now])
+(;B[cf];W[df]C[black must settle for jigo now])
+(;B[bf];W[df]C[black must settle for jigo now]))
+(;B[df];W[eg]
+(;B[gf];W[cf];B[ae];W[af];B[ad]C[black loses by 1])
+(;B[de];W[gf]
+(;B[ed];W[cf]
+(;B[dg];W[dd]C[black loses big])
+(;B[dd];W[dg]C[black loses big]))
+(;B[cf];W[bf]
+(;B[ed];W[cg];B[dd];W[dg]C[black loses big])
+(;B[cg];W[ed])
+(;B[bg];W[cg]
+(;B[dg];W[cg])
+(;B[ed];W[dg];B[dd];W[ae]
+(;B[ad];W[ag]C[white wins big])
+(;B[ag];W[af]
+(;B[ad];W[bg]C[white wins big])
+(;B[bg];W[ag];B[ad];W[bg]C[white wins big]))))
+(;B[af];W[cg];B[ed];W[dg];B[dd];W[ae]C[easy white win])
+(;B[ae];W[cg];B[ed];W[dg];B[dd];W[bg];B[af]C[easy white win]
+))
+(;B[bf];W[cf];B[ed];W[dg]C[black loses big])
+(;B[dg];W[ed]C[Black loses big])
+(;B[cg];W[cf];B[ed];W[dg];B[dd];W[ae]
+(;B[ad];W[bg]C[Black loses big])
+(;B[bg];W[bf];B[ad];W[ag]C[black loses big]))))
+(;B[ae];W[eg];B[gf];W[af]
+(;B[ad];W[bf]C[jigo])
+(;B[bf];W[ad]
+(;B[df];W[de];B[ae];W[bb];B[ab];W[ad]C[black loses by 3])
+(;B[de];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 3])))
+(;B[gf];W[eg];B[ae];W[af]
+(;B[ad];W[bf]C[jigo])
+(;B[bf];W[ad]
+(;B[de];W[df];B[ae];W[bb];B[ab];W[ad]C[black loses by 3])
+(;B[df];W[de];B[ae];W[bb];B[ab];W[ad]C[black loses by 3]))))
+(;B[bb];W[fe]
+(;B[eg];W[dg];B[gf];W[af]
+(;B[ad];W[ae]C[jigo])
+(;B[ae];W[ad];B[bc];W[ae]C[Black's shape at the top isn't strong enough to play ko here. black loses by 2]
+))
+(;B[ae];W[eg];B[gf];W[af]
+(;B[ad];W[bf]C[jigo])
+(;B[bf];W[ad];B[bc];W[ae]C[Black's shape at the top isn't strong enough to play  ko here. black loses by 4]
+))
+(;B[df];W[eg]
+(;B[gf];W[cf];B[ae];W[af];B[ad]C[black loses by 1])
+(;B[de];W[gf]
+(;B[ed];W[cf]
+(;B[dg];W[dd]C[black loses big])
+(;B[dd];W[dg]C[black loses big]))
+(;B[bf];W[cf];B[ed];W[dg]C[black loses big])
+(;B[cf];W[bf]
+(;B[ed];W[cg];B[dd];W[dg]C[black loses big])
+(;B[cg];W[ed])
+(;B[bg];W[cg]
+(;B[dg];W[cg])
+(;B[ed];W[dg];B[dd];W[ae]
+(;B[ad];W[ag]C[easy white win])
+(;B[ag];W[af]
+(;B[ad];W[bg]C[easy white win])
+(;B[bg];W[ag];B[ad];W[bg]C[easy white win]))))
+(;B[af];W[cg];B[ed];W[dg];B[dd];W[ae];B[ad];W[ag]C[easy white win]
+)
+(;B[ae];W[cg];B[ed];W[dg];B[dd];W[bg];B[af]C[easy white win]
+))
+(;B[dg];W[ed]C[black loses big])
+(;B[cg];W[cf];B[ed];W[dg];B[dd];W[ae];B[ad];W[bg]C[black loses big]
+)))
+(;B[gf];W[eg];B[ae];W[af]
+(;B[ad];W[bf]C[jigo])
+(;B[bf];W[ad];B[bc]C[black's shape is not strong enough to play ko here. black loses by 4]
+))))
+(;W[bb]C[this presents no danger to black];B[bc];W[aa];B[ab]
+;W[da];B[ba]C[the score in this corner is the same as the main line but white now has no ko-threats or other aji to work with.]
+))
+(;B[da];W[gd]C[black can't recover from this loss])
+(;B[ae];W[da]
+(;B[bb];W[gd]C[black loses by resign!])
+(;B[bc];W[gd]C[black loses by resign!])
+(;B[gd];W[bb]C[black loses by resign!]))
+(;B[df];W[gd];B[de];W[dg]
+(;B[ed];W[cf];B[dd];W[eg]
+(;B[ae];W[af]
+(;B[ad];W[ga];B[da]C[black loses by 11])
+(;B[da];W[ga];B[ad]C[black loses by 11]))
+(;B[da];W[ga];B[ae];W[af];B[ad]C[black loses by 11]))
+(;B[cf];W[bf];B[ed];W[cg];B[dd];W[eg]
+(;B[da];W[ga];B[ae];W[bg];B[af];W[fe]C[black loses by 6])
+(;B[ae];W[bg]
+(;B[af];W[fe];B[da];W[ga]C[black loses by 6])
+(;B[da];W[ga];B[af];W[fe]C[black loses by 6]))))
+(;B[fe];W[gd]C[black loses by resign!])
+(;B[eg];W[gd]C[Black loses by resign!]))

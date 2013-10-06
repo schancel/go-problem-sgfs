@@ -1,0 +1,12 @@
+(;GE[life and death]DI[6k]DP[39]SO[ZeroShiKii]CO[0]AB[cs]AB[cr]AB[dr]AB[dq]AB[eq]AB[fq]AB[gq]AB[hq]AB[hr]AW[bs]AW[br]AW[cq]AW[cp]AW[dp]AW[fp]AW[ep]AW[gp]AW[hp]AW[ip]AW[ir]AW[jr]AW[fr]C[White to Kill B.]AP[goproblems]
+(;W[gs];B[hs];W[es]C[B is dead. Any way of approaching w leads to a dead shape.RIGHT])
+(;W[es];B[gs]
+(;W[fs];B[er]C[B is alive in seki])
+(;W[er];B[fs]C[B is alive in seki]))
+(;W[fs];B[gs]
+(;W[er];B[es];W[ds];B[gr]C[W cannot connect, and B lives.])
+(;W[es];B[er]C[B is alive in seki.]))
+(;W[gr])
+(;W[hs];B[gs]
+(;W[is];B[es]C[B is alive.])
+(;W[fs];B[es];W[gr];B[er]C[B is alive.])))

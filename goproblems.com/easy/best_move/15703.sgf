@@ -1,0 +1,51 @@
+(;GE[best move]DI[5k]DP[33]SO[bostongo]CO[0]AB[ea]AB[fa]AB[ga]AB[eb]AB[gb]AB[jb]AB[kb]AB[oc]AB[pd]AB[pf]AB[qi]AB[rg]AB[pg]AB[qf]AB[re]AB[pe]AB[qd]AB[pc]AB[ni]AB[mi]AB[mj]AB[mh]AB[lh]AB[kh]AB[jh]AB[lg]AB[kf]AB[ke]AB[kd]AB[kc]AB[jd]AB[ge]AB[he]AB[fe]AB[ee]AB[de]AB[ce]AB[be]AB[ae]AB[cd]AB[gf]AB[ff]AB[cf]AB[fg]AB[fh]AB[eh]AB[dh]AB[gh]AB[hh]AB[hi]AB[ii]AB[ij]AB[jj]AB[ik]AB[hk]AB[gk]AB[hl]AB[pj]AB[pk]AB[ok]AB[nk]AB[pl]AB[pm]AB[qn]AB[qo]AB[nn]AB[mn]AB[mm]AB[lm]AB[pp]AB[pq]AB[pr]AB[or]AB[mp]AB[lp]AB[kp]AB[ko]AB[jn]AB[jm]AB[in]AB[bq]AB[bp]AB[bo]AB[cn]AB[do]AB[dp]AB[dq]AB[ep]AB[fp]AB[eq]AB[er]AB[bm]AB[am]AB[dm]AB[em]AB[el]AB[ek]AB[dk]AB[ck]AB[bk]AB[bl]AB[cl]AB[ei]AB[bh]AB[bg]AB[ag]AW[oq]AW[nq]AW[mq]AW[lq]AW[kq]AW[jp]AW[jo]AW[io]AW[op]AW[po]AW[on]AW[om]AW[ol]AW[nm]AW[nl]AW[ml]AW[mk]AW[lk]AW[nj]AW[oj]AW[oi]AW[ph]AW[es]AW[fr]AW[fq]AW[gp]AW[go]AW[fo]AW[dr]AW[cr]AW[br]AW[cq]AW[cp]AW[fm]AW[fl]AW[fk]AW[fj]AW[dj]AW[ej]AW[bj]AW[aj]AW[ak]AW[al]AW[hj]AW[gj]AW[kj]AW[nh]AW[ng]AW[mg]AW[kg]AW[jg]AW[gg]AW[hg]AW[ig]AW[hf]AW[ie]AW[id]AW[hd]AW[hc]AW[gc]AW[lf]AW[le]AW[ld]AW[lc]AW[lb]AW[nc]AW[ne]AW[oe]AW[ob]AW[pb]AW[qc]AW[rb]AW[sc]AW[rd]AW[se]AW[ca]AW[bb]AW[db]AW[cc]AW[dc]AW[dd]AW[ed]AW[fd]AW[bd]AW[ad]AW[bi]AW[ci]AW[di]AW[ch]AW[cg]AW[dg]AW[af]AW[hm]AW[hn]AW[im]AW[il]AW[jl]AW[jk]AW[ln]AW[gd]AB[ec]AB[fc]AB[hb]AB[ic]AB[qh]AB[sf]AW[sd]AB[no]AB[lo]AW[iq]AW[kr]AW[ks]AB[nr]AB[mr]AB[lr]AB[ls]AW[gr]C[Black to insure a win.]AW[da]AB[ri]AP[goproblems]
+(;B[nf]
+(;W[of]
+(;B[oh];W[og];B[pi];W[oh])
+(;B[og];W[oh]))
+(;W[ki]C[White mistake.];B[mf];W[of];B[pi];W[og];B[oh]))
+(;B[oh]
+(;W[og]C[White must defend.]
+(;B[pi];W[oh]C[White must defend.];B[ki]C[Vital point!]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[hl]TR[hk]TR[gk]TR[ik]TR[ij]TR[jj]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[be]TR[ae]TR[cd]TR[cf]TR[ag]TR[bg]TR[bh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lg]TR[lh]TR[kh]TR[jh]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[hl]TR[hk]TR[gk]TR[ik]TR[ij]TR[jj]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cd]TR[ce]TR[be]TR[ae]TR[cf]TR[bg]TR[ag]TR[bh]))
+(;B[ki]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[jj]TR[ij]TR[ik]TR[hk]TR[gk]TR[hl]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[be]TR[ae]TR[cd]TR[cf]TR[bg]TR[ag]TR[bh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[bh]TR[bg]TR[ag]TR[ae]TR[be]TR[cf]TR[ce]TR[cd]TR[de]TR[ee]TR[fe]TR[ge]TR[he]TR[gf]TR[ff]TR[fg]TR[fh]TR[eh]TR[dh]TR[ei]TR[gh]TR[hh]TR[hi]TR[ii]TR[hl]TR[hk]TR[gk]TR[ik]TR[jj]TR[jh]TR[ij]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni])))
+(;W[ki]C[White Mistake]
+(;B[pi]C[White's must defend.])
+(;B[og])))
+(;B[pi];W[oh]
+(;B[nf];W[mf];B[ki]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[gk]TR[hk]TR[ik]TR[ij]TR[jj]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[cd]TR[cf]TR[be]TR[ae]TR[ag]TR[bg]TR[bh]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[gk]TR[hk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[dh]TR[eh]TR[ei]TR[fh]TR[gh]TR[hh]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[be]TR[ae]TR[cd]TR[cf]TR[ag]TR[bg]TR[bh]TR[jh]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni]))
+(;B[ki]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[jj]TR[ij]TR[ik]TR[hk]TR[gk]TR[hl]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cf]TR[ce]TR[cd]TR[be]TR[ae]TR[bg]TR[bh]TR[ag])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[ii]TR[ij]TR[jj]TR[ik]TR[hk]TR[gk]TR[hl]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[be]TR[ae]TR[cd]TR[cf]TR[bg]TR[ag]TR[bh])))
+(;B[og];W[oh];B[nf];W[mf];B[ki]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[gk]TR[hk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[be]TR[ae]TR[cd]TR[cf]TR[bg]TR[bh]TR[ag]TR[jh]TR[kh]TR[lg]TR[lh]TR[mh]TR[mi]TR[mj]TR[ni])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[hk]TR[gk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[ei]TR[bh]TR[bg]TR[ag]TR[ae]TR[be]TR[cd]TR[ce]TR[cf]TR[de]TR[ee]TR[fe]TR[ge]TR[he]TR[gf]TR[ff]TR[fg]TR[fh]TR[eh]TR[dh]TR[gh]TR[hh]TR[jh]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni]))
+(;B[mf]
+(;W[nf]
+(;B[oh];W[og];B[pi];W[oh];B[ki]C[Vital point!RIGHT]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[hl]TR[gk]TR[hk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cd]TR[ce]TR[cf]TR[be]TR[ae]TR[ag]TR[bg]TR[bh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[gk]TR[hk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[ei]TR[bh]TR[bg]TR[ag]TR[ae]TR[be]TR[cd]TR[ce]TR[cf]TR[de]TR[ee]TR[fe]TR[ge]TR[he]TR[gf]TR[ff]TR[fg]TR[fh]TR[eh]TR[dh]TR[gh]TR[hh]TR[jh]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni]))
+(;B[pi];W[oh];B[ki]C[Vital point!]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[bh]TR[bg]TR[ag]TR[ae]TR[be]TR[cd]TR[ce]TR[cf]TR[de]TR[ee]TR[fe]TR[ge]TR[he]TR[gf]TR[ff]TR[fg]TR[fh]TR[eh]TR[dh]TR[ei]TR[gh]TR[hh]TR[hi]TR[ii]TR[ij]TR[ik]TR[hk]TR[gk]TR[hl]TR[jj]TR[jh]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[gk]TR[hl]TR[hk]TR[ik]TR[ij]TR[jj]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[ce]TR[cd]TR[cf]TR[be]TR[ae]TR[ag]TR[bg]TR[bh])))
+(;W[me];B[nf];W[of];B[pi];W[oh];B[ki]C[Vital point!]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[ii]TR[hi]TR[jj]TR[ij]TR[ik]TR[hk]TR[gk]TR[hl]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cd]TR[ce]TR[cf]TR[be]TR[ae]TR[ag]TR[bg]TR[bh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[hl]TR[gk]TR[hk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[bh]TR[bg]TR[ag]TR[ae]TR[be]TR[cd]TR[ce]TR[cf]TR[de]TR[ee]TR[fe]TR[ge]TR[he]TR[gf]TR[ff]TR[fg]TR[fh]TR[eh]TR[dh]TR[ei]TR[gh]TR[hh]TR[jh]TR[kh]TR[lh]TR[lg]TR[mh]TR[mi]TR[mj]TR[ni]))
+(;W[ki]C[White Mistake];B[nf]))
+(;B[ki]C[Vital point!RIGHT]
+(;W[ih];B[lj]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[hl]TR[hk]TR[gk]TR[ik]TR[jj]TR[ij]TR[ii]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cd]TR[ce]TR[be]TR[ae]TR[cf]TR[bg]TR[ag]TR[bh])
+(;W[lj];B[ih]C[If you did not play on the vital point (A) White would capture the marked stones and win by a very large margin.RIGHT]LB[ki:A]TR[mj]TR[mi]TR[ni]TR[mh]TR[lh]TR[lg]TR[kh]TR[jh]TR[ii]TR[jj]TR[ij]TR[ik]TR[hk]TR[hl]TR[gk]TR[hi]TR[hh]TR[gh]TR[fh]TR[eh]TR[dh]TR[ei]TR[fg]TR[ff]TR[gf]TR[he]TR[ge]TR[fe]TR[ee]TR[de]TR[cd]TR[ce]TR[cf]TR[be]TR[ae]TR[ag]TR[bg]TR[bh]))
+(;B[la]C[White will win.])
+(;B[of]C[White will win.])
+(;B[od]C[White will win.])
+(;B[pn]C[White will win.])
+(;B[oo]C[White will win.])
+(;B[kl]C[White will win.])
+(;B[ar]C[White will win.])
+(;B[en]C[White will win.])
+(;B[ab];W[bc]))

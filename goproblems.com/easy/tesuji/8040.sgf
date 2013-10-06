@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[8k]DP[46]SO[kenti]CO[2]AB[pp]AW[nq]AB[lq]AW[qq]AB[pq]AW[qp]AB[qo]AP[goproblems]
+(;W[qr]
+(;B[po];W[pr];B[np];W[oq];B[op]C[RIGHT])
+(;B[pr];W[po]
+(;B[oo]C[CHOICE];W[pn];B[np]C[];W[qn]C[RIGHT])
+(;B[qn]C[CHOICE];W[op]C[RIGHT])))
+(;W[pr]
+(;B[or];W[qr];B[oq];W[qn];B[po];W[ro]C[RIGHT])
+(;B[po]C[CHOICE];W[or]C[RIGHT])))

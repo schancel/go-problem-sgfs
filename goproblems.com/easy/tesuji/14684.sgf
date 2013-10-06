@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[10k]DP[52]SO[hudday48]CO[0]AB[pd]AB[pj]AB[qn]AB[pp]AB[oq]AB[dd]AB[dp]AB[cr]AB[cp]AB[ep]AB[fq]AB[fr]AB[gr]AB[hr]AB[ir]AB[hq]AB[js]AB[kr]AB[dn]AB[en]AB[fn]AB[fm]AB[gl]AB[el]AB[ek]AB[dk]AB[dj]AB[cj]AB[hn]AB[io]AW[nq]AW[np]AW[lq]AW[jq]AW[jr]AW[ip]AW[iq]AW[jp]AW[hp]AW[gp]AW[gq]AW[fp]AW[eq]AW[bq]AW[bp]AW[bo]AW[cn]AW[cm]AW[dm]AW[em]AW[dl]AW[ck]AW[bk]AW[bl]AW[bj]AW[fl]AW[nc]TR[fl]C[Capture the marked stones.]AB[pf]AW[fk]TR[fk]AP[goproblems]
+(;B[fj];W[gk]
+(;B[hk];W[gj];B[gi];W[hj];B[ij];W[hi];B[hh];W[ii];B[ji];W[ih];B[ig];W[jh];B[kh];W[jg];B[jf];W[kg];B[lg];W[kf];B[ke];W[lf];B[mf];W[le];B[ld];W[me];B[ne];W[md];B[mc];W[nd]C[Uh oh black is in trouble now!])
+(;B[hj]
+(;W[hk];B[ik];W[hl];B[il]C[RIGHT])
+(;W[hl]
+(;B[il]C[RIGHT])
+(;B[hk];W[gm];B[gj];W[gl];B[il]C[RIGHT]))))
+(;B[fi];W[gj];B[gk];W[fj];B[hj];W[gi];B[gh];W[hi]C[Too many liberties for this ladder to work!])
+(;B[gj];W[fj];B[fi]C[RIGHT])
+(;B[hj];W[fj]
+(;B[fi];W[gi]
+(;B[gj];W[ei];B[fh];W[ci])
+(;B[ej];W[gj]C[White out]))
+(;B[ei];W[gi]C[White is out]))
+(;B[gi]
+(;W[gk];B[hk]
+(;W[hl]
+(;B[fj];W[gm];B[gj];W[gl];B[il];W[ik]
+(;B[hm];W[hj];B[gn];W[hk];B[jk];W[ii];B[hi];W[ij];B[ih];W[ji]C[Its not going to happen ;-(])
+(;B[hj];W[im];B[jl];W[hm];B[jm];W[in];B[jn]C[Whoa cool stuffRIGHT]))
+(;B[gj];W[fj];B[fi];W[gm];B[ej];W[gl];B[il];W[ik]
+(;B[hj];W[im];B[jl];W[hm];B[jm];W[in];B[jn]C[RIGHT])
+(;B[hm];W[hj])))
+(;W[fj];B[fi];W[hl];B[gj]))
+(;W[fj];B[fi];W[gk]
+(;B[hl];W[hk];B[ik];W[hj];B[hi];W[ij]C[White out!])
+(;B[hk]))))

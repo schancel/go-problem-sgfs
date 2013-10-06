@@ -1,0 +1,9 @@
+(;GE[best move]DI[15k]DP[60]SO[Piccolo]CO[0]AB[pl]AB[ol]AB[nl]AB[om]AW[nm]AW[on]AW[no]AW[pm]AW[po]AW[qo]AW[ro]AW[pp]AB[qp]AB[rp]AB[pq]AB[oq]AW[op]AB[qr]AW[qk]AW[rj]AW[sj]AW[si]AB[ri]AB[sh]AB[rg]AB[qi]AB[oj]AB[ni]AB[nh]AW[mm]C[Black just played the marked stone. Choose between A and B]LB[ql:A]LB[qm:B]TR[pl]AP[goproblems]
+(;W[qm];B[ql];W[rl]C[..and all is safe, well played ;-) Did you read all the other alternatives ?RIGHT])
+(;W[ql];B[qm]
+(;W[rm];B[pn]C[You get less points than with the alternative correct path, but this is sente. The best one will depend on the stage of the game :)RIGHT])
+(;W[pn];B[qj]
+(;W[sl];B[rk];W[sk];B[sm];W[rl];B[rm]C[Oops.. !])
+(;W[rl];B[sk];W[rk];B[rm];W[sm];B[pk]C[Not what you expected =/])
+(;W[rk];B[rm];W[rl];B[sm]C[4 liberties to 3 =/ the other variations fail too.])
+(;W[sk];B[sl];W[rk];B[rl]C[]))))

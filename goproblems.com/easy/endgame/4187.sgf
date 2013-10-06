@@ -1,0 +1,39 @@
+(
+;GE[endgame]DI[5k]DP[33]SO[Dragon King]CO[8]AB[ah][bh][ch][ci][dj][dk][ei][el]
+AW[bi][bj][cj][ck][dl][dm][dn][cp]
+C[Black to play best move and keep sente.]
+(
+;B[aj]
+;W[ak]
+;B[ai]
+;W[bl]
+C[RIGHT]
+C[Optimun reduction and you kept sente. Well done.]
+)
+(
+;B[ai]
+;W[aj]
+C[You kept sente although there is a better move than the hane.]
+)
+(
+;B[cl]
+;W[bl]
+(
+;B[ai]
+;W[aj]
+C[Look elsewhere for the first move.]
+)
+(
+;B[aj]
+;W[ak]
+;B[ai]
+;W[cm]
+C[This is the optimun reduction although you have lost a potential ko threat.]
+)
+)
+(
+;B[ak]
+;W[ai]
+C[White has got the maximum territory and gained a prisoner.]
+)
+)

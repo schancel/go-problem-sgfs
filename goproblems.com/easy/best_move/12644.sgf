@@ -1,0 +1,3 @@
+(;GE[best move]DI[4k]DP[30]SO[TnekKralc]CO[0]AW[qb]AW[qd]AW[pc]AW[oc]AW[ob]AW[nb]AW[pe]AW[pf]AB[pd]AB[od]AB[nd]AB[nc]AB[mb]AB[lb]AB[jc]AW[mc]AW[md]AW[ld]AW[le]AB[me]AB[nf]AB[oi]LB[le:1]AP[goproblems]
+(;B[ng]C[Correct answer.  Extending to 1 is the move that prevents B's shape from collapsing.RIGHT])
+(;B[lf];W[kf];B[lg];W[ne];B[oe];W[of];B[ne];W[ng];B[mf]LB[lf:1]LB[kf:2]LB[lg:3]LB[ne:4]LB[oe:5]LB[of:6]LB[ng:8]C[7 connects at 4.  Wrong answer.  If B tries to attack W's stones w/ 1, W exchanges 2 4 3, then turnes B's group into a shapless clump of stones up 2 8]))

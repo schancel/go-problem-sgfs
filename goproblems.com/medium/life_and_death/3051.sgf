@@ -1,0 +1,17 @@
+(;GE[life and death]DI[2d]DP[14]SO[unkx80]CO[7]AB[ra]AB[qb]AB[pb]AB[rc]AB[sc]AW[oa]AW[ob]AW[oc]AW[pc]AW[qc]AW[rd]AW[sd]AB[nb]AB[nc]AB[nd]AB[nf]AB[ne]AW[qd]AW[pe]AB[pf]AB[qf]AB[re]AB[rg]C[How many starting first moves can white play in order to live?]LB[nh:0]LB[ph:2]LB[qh:3]LB[rh:4]LB[oh:1]AP[goproblems]
+(;W[oh];B[ph]C[Correct. Please proceed to make the white group live.]
+(;W[sb];B[rb];W[pa]C[Excellent job!RIGHT])
+(;W[pa];B[sb];W[qa];B[od];W[rb];B[qb];W[pb];B[rb];W[sa];B[rb]C[Rabbity six.])
+(;W[od];B[pa])
+(;W[na]C[NOTTHIS]))
+(;W[pa]C[NOTTHIS])
+(;W[qa]C[NOTTHIS])
+(;W[sb]C[NOTTHIS])
+(;W[rb]C[NOTTHIS])
+(;W[sa]C[NOTTHIS])
+(;W[na]C[NOTTHIS])
+(;W[od]C[NOTTHIS])
+(;W[pd]C[NOTTHIS])
+(;W[oe]C[NOTTHIS])
+(;W[qe]C[NOTTHIS])
+(;W[se]C[NOTTHIS]))

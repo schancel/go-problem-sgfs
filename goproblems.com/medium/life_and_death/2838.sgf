@@ -1,0 +1,30 @@
+(;GE[life and death]DI[3d]DP[9]SO[Kijana]CO[9]C[White to live on the side - the first move is the key.]SZ[19]AW[eo]AW[io]AW[jo]AW[ep]AW[fp]AW[gp]AW[eq]AW[hq]AW[iq]AW[jq]AW[er]AW[kr]AW[js]AB[fl]AB[fm]AB[im]AB[en]AB[fn]AB[kn]AB[co]AB[do]AB[go]AB[ho]AB[ko]AB[bp]AB[hp]AB[op]AB[bq]AB[dq]AB[gq]AB[kq]AB[mq]AB[oq]AB[br]AB[dr]AB[gr]AB[hr]AB[lr]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;W[fs]
+(;B[ir]C[CHOICE];W[jr];B[ip];W[jp]C[ White wins the semeaiRIGHT])
+(;B[gs]C[CHOICE]
+(;W[ir];B[ls]
+(;W[ks];B[is]C[Ko - white could have done better])
+(;W[is];B[ks]C[White is dead])
+(;W[hs]C[];B[ks]
+(;W[jr];B[is]
+(;W[fr]C[RIGHT])
+(;W[fq]C[RIGHT]))
+(;W[fr];B[jr]C[Ko. White does not need these complications.])
+(;W[fq];B[jr]C[Ko. White does not need these complications.]))
+(;W[fr];B[ks]
+(;W[jr];B[hs]C[White is dead])
+(;W[hs];B[jr];W[fq];B[gr];W[kr]C[Ko - white could have done better]))
+(;W[fq];B[ks];W[hs];B[jr];W[fr];B[gr];W[kr]C[Ko - white could have done better]))
+(;W[is]C[ White wins he semeaiRIGHT])))
+(;W[ir];B[fs]
+(;W[es];B[hs]
+(;W[is];B[dp];W[fr];B[ds]C[Ko for life - white could have done better])
+(;W[fr];B[dp];W[gs];B[ds]
+(;W[is];B[fs]C[Ko - white could have done better])
+(;W[fq];B[fs]C[Ko - and to make it even worse Black takes first !])))
+(;W[is];B[es]C[An easy kill for black]))
+(;W[hs];B[gs]
+(;W[es];B[ir];W[jr];B[is]C[Black wins the semeai])
+(;W[ir];B[es];W[fs];B[fr];W[fq];B[is]C[Ko - white could have done better]))
+(;W[gs];B[fs];W[fr];B[hs];W[es];B[ds]C[Ko - white could have done better])
+(;W[es];B[hs]C[White wins]))

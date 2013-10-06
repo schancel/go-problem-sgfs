@@ -1,0 +1,28 @@
+(;GE[life and death]DI[18k]DP[69]SO[Era]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[5.50]TM[]
+PW[Era]PB[exoss]AW[dl][el][fl][gl][hl][il][jl]AB[ck][dk][ek][fk][gk][hk][ik][jk][kk][cl][kl]C[How can black kill white ?]
+(;B[dm]CR[dm]
+;W[em]CR[em]
+(;B[jm]CR[jm]
+;W[im]CR[im]
+;B[gm]CR[gm]C[RIGHT Like this white can't make two eyes.])
+(;B[gm]CR[gm]
+;W[hm]CR[hm]
+;B[jm]CR[jm]C[RIGHT Like this white can't make two eyes.]))
+(;B[jm]CR[jm]
+;W[im]CR[im]
+(;B[dm]CR[dm]
+;W[em]CR[em]
+;B[gm]CR[gm]C[RIGHT Like this white can't make two eyes.])
+(;B[gm]CR[gm]
+;W[fm]CR[fm]
+;B[dm]CR[dm]C[RIGHT Like this white can't make two eyes.]))
+(;B[gm]CR[gm]
+(;W[dm]CR[dm]
+;B[fm]CR[fm]
+;W[jm]CR[jm]
+;B[hm]CR[hm]C[CHOICE Like this you are in a seki .])
+(;W[jm]CR[jm]
+;B[hm]CR[hm]
+;W[dm]CR[dm]
+;B[fm]CR[fm]C[CHOICE Like this you are in a seki .])))

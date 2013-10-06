@@ -1,0 +1,40 @@
+(;GE[tesuji]DI[3k]DP[25]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[gg][gh][hh][hi][ii][ji][ki][hk][ik][kk][mk][rk][il][ml][ol][pl][ql][sl][hm][jm][lm][nm][om][rm][sm][hn][in][jn][kn][ln][nn][rn][fo][go][lo][mo][hp][kp][lp][mp][np][op][fq][gq][hq][iq][nq][pq][ir][jr][kr][pr][qr][rr]
+AB[ff][gf][hf][dg][eg][hg][lg][ih][jh][kh][lh][rh][fi][li][ej][gj][lj][mj][qj][rj][gk][lk][nk][ok][pk][qk][fl][gl][hl][jl][kl][em][km][qm][fn][gn][mn][on][pn][sn][ho][io][jo][ko][no][oo][po][qo][ro][ip][jp][pp][sp][jq][kq][lq][mq][oq][qq][rq][lr][nr][or][sr][ks][ps]
+LB[kk:1]
+C[white plays 1. how to simultaneously save these stones and remove the eye above?
+]
+(;B[ll];W[hj];B[jj];W[kj];B[jk]C[RIGHT
+])
+
+(;B[jk];W[jj]
+(;B[ll];W[hj])
+
+(;B[kj];W[hj])
+)
+
+(;B[kj];W[jj]
+(;B[hj];W[ll];B[jk];W[kk])
+
+(;B[jk];W[hj])
+
+(;B[ll];W[hj])
+)
+
+(;B[jj];W[ll]
+(;B[jk];W[kj])
+
+(;B[kj];W[jk])
+)
+
+(;B[hj];W[ll])
+
+(;B[ij];W[ll])
+
+)

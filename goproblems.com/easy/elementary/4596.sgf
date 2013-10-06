@@ -1,0 +1,20 @@
+(;GE[elementary]DI[15k]DP[63]SO[santa c]CO[7]AW[js]AW[kr]AW[lr]AW[lq]AW[gs]AW[gr]AW[gq]AW[fs]AW[hp]AW[iq]AB[es]AB[fr]AB[fq]AB[fp]AB[ks]AB[ls]AB[ms]AB[mr]AB[nr]AB[nq]AW[op]AW[np]AW[mp]AB[er]AB[oq]C[Endgame reduction?]AB[gp]AW[go]AB[fo]AW[io]AW[ho]AW[oo]AW[kp]AW[lo]AP[goproblems]
+(;B[jr]C[]LB[ir:v]LB[is:x];W[is]C[White should've played J2 now in order to save as much as possible. The path shown in the problem is to demonstrate what happens in the 'worst case scenario'.]
+(;B[ir];W[hs]
+(;B[hq];W[jq];B[hr]C[Well done! ;)RIGHT])
+(;B[hr];W[hq]C[:(])
+(;B[jq];W[hq]C[:(]))
+(;B[hr];W[ir]C[:(])
+(;B[hs];W[hr];B[ir];W[jq]C[:(])
+(;B[hq];W[hr];B[ir];W[jq]C[:(])
+(;B[jq];W[ir]C[:(]))
+(;B[is];W[jr]
+(;B[hr];W[hq]C[:(])
+(;B[hq];W[hr]C[:(]))
+(;B[ir];W[jr]
+(;B[hr];W[hq]C[:(])
+(;B[hq];W[hr]C[:(])
+(;B[hs];W[hq]C[:(]))
+(;B[hs];W[ir]C[:(])
+(;B[hr];W[ir]C[:(])
+(;B[hq];W[ir]C[:(]))

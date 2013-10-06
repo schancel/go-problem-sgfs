@@ -1,0 +1,158 @@
+(;GE[life and death]DI[4k]DP[29]SO[mocramis]CO[0]AB[ee]AB[ab]AB[aa]AB[ba]AB[bb]AB[bc]AB[ca]AB[da]AB[db]AB[dc]AB[ec]AB[fc]AB[dd]AB[de]AB[ce]AB[be]AB[df]AB[fd]AB[gd]AB[he]AB[hf]AB[hg]AB[ig]AB[gh]AB[gi]AB[fg]AB[ff]AW[cb]AW[cc]AW[cd]AW[bd]AW[ac]AW[ad]AW[ae]AW[af]AW[bf]AW[cf]AW[cg]AW[dg]AW[eg]AW[fh]AW[fi]AW[ei]AW[if]AW[ie]AW[id]AW[hd]AW[hc]AW[gc]AW[gb]AW[fb]AW[eb]AW[ea]SZ[9]AP[goproblems]
+(;B[di];W[eh]
+(;B[bh]
+(;W[ci]
+(;B[ch];W[dh]
+(;B[bi];W[ah]
+(;B[ef];W[ag]
+(;B[di];W[ga]
+(;B[ci]C[Well done, it's a seki! RIGHT])
+(;B[bg];W[ci]C[Wrong! Black have no ko threats. CHOICE])
+(;B[ai];W[ci]C[Wrong! Black have no ko threats. CHOICE]))
+(;B[bg];W[ai]C[CHOICE])
+(;B[ai];W[bg]C[CHOICE]))
+(;B[bg];W[ag];B[di];W[ga]
+(;B[ef])
+(;B[ai];W[ci]C[CHOICE])
+(;B[ci];W[ai]C[Wrong, white have two eyes.CHOICE]MA[bh]MA[ci]))
+(;B[ag];W[bg]
+(;B[di];W[ga]
+(;B[ef];W[ci]C[Wrong! Black have no ko threats.CHOICE])
+(;B[ai];W[ci]C[CHOICE]))
+(;B[ef];W[ai]C[CHOICE]))
+(;B[ai];W[bg]C[CHOICE]))
+(;B[ah];W[bi]
+(;B[ai];W[ag]
+(;B[di];W[ci]
+(;B[ef]C[Well done, it's a seki!RIGHT])
+(;B[bi];W[bg]C[CHOICE])
+(;B[bg];W[bi]C[CHOICE]))
+(;B[ef];W[bg]C[CHOICE]))
+(;B[bg];W[ag]C[CHOICE])
+(;B[ag];W[bg]C[CHOICE])
+(;B[ef];W[ag]C[Well done, it's a seki!RIGHT]))
+(;B[ai];W[ag]
+(;B[bi];W[ah]
+(;B[di];W[ga];B[ef])
+(;B[ef]))
+(;B[ah];W[bg];B[ef];W[bi]C[CHOICE])
+(;B[bg];W[ah];B[ef];W[bi]C[CHOICE])
+(;B[ef];W[ah]
+(;B[bi])
+(;B[bg])))
+(;B[bg];W[bi]
+(;B[ai];W[ah]C[CHOICE])
+(;B[ah])
+(;B[ag];W[ah]C[CHOICE])
+(;B[ef];W[ah]C[CHOICE]))
+(;B[ag];W[bi]
+(;B[ai];W[ah]C[Wrong! Black have no ko threats. CHOICE])
+(;B[ah])
+(;B[bg])
+(;B[ef];W[ai]C[CHOICE]))
+(;B[ef];W[bi]
+(;B[ah])
+(;B[bg])
+(;B[ai];W[ah]
+(;B[bg];W[ag]C[CHOICE])
+(;B[ag];W[bg]C[CHOICE]))
+(;B[ag])))
+(;B[bi];W[ah]
+(;B[ch])
+(;B[ai];W[ag]
+(;B[ch];W[dh])
+(;B[ef];W[ch]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE])
+(;B[bg];W[ch]C[CHOICE]))
+(;B[ef];W[ch]C[CHOICE])
+(;B[bg];W[ch]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE])
+(;B[ag];W[bg]
+(;B[ch];W[dh])
+(;B[ef];W[ch]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE])
+(;B[ai];W[ch]C[CHOICE])))
+(;B[ai];W[ch]C[CHOICE])
+(;B[ah];W[ch]C[CHOICE])
+(;B[bg];W[ch]C[CHOICE])
+(;B[ag];W[ch]C[CHOICE])
+(;B[ef];W[ch]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE]))
+(;W[ch];B[ci];W[ah]
+(;B[bg];W[ag]
+(;B[bi];W[ai]C[CHOICE])
+(;B[ai];W[bi]C[CHOICE]))
+(;B[ag];W[bg]
+(;B[bi];W[dh]C[CHOICE])
+(;B[ai];W[bi]C[CHOICE])
+(;B[ef];W[bi]C[CHOICE]))
+(;B[ef];W[bg]
+(;B[bi]C[Well done, it's a seki! RIGHT])
+(;B[ai];W[bi]C[CHOICE])
+(;B[dh];W[bi]C[CHOICE]))
+(;B[bi];W[bg]
+(;B[ef]C[Well done, it's a seki! RIGHT])
+(;B[ai];W[dh]C[CHOICE])
+(;B[dh];W[ai]C[CHOICE]))))
+(;B[bi];W[ci]
+(;B[ch];W[ah]
+(;B[ci];W[bh]C[CHOICE])
+(;B[bh];W[dh]
+(;B[bg];W[ag]
+(;B[ef];W[ci]C[Wrong! Black have no ko threats.CHOICE])
+(;B[ci];W[ai]C[CHOICE])
+(;B[ai];W[ci]C[CHOICE]))
+(;B[ag];W[bg]
+(;B[ef];W[ci]C[Wrong! Black have no ko threats.CHOICE])
+(;B[ai];W[ci]C[CHOICE])
+(;B[ci];W[ai]C[CHOICE]))
+(;B[ef];W[ag]
+(;B[ci]C[Well done, it's a seki!RIGHT])
+(;B[bg])
+(;B[ai]))
+(;B[ci];W[bg];B[ef];W[ai]C[CHOICE])
+(;B[ai];W[ag]
+(;B[ef];W[ci]C[Wrong! Black have no ko threats.CHOICE])
+(;B[ci];W[bg]C[CHOICE])
+(;B[bg])))
+(;B[bg];W[bh]C[CHOICE])
+(;B[ag];W[bg]C[CHOICE])
+(;B[ai];W[bh]C[CHOICE])
+(;B[dh];W[bh]C[CHOICE])
+(;B[ef];W[bh]C[CHOICE]))
+(;B[bh])
+(;B[dh];W[ch]C[CHOICE])
+(;B[ah];W[ch]C[CHOICE])
+(;B[ai];W[ch]C[CHOICE])
+(;B[bg];W[ch]C[CHOICE])
+(;B[ag];W[ch]C[CHOICE])
+(;B[ef];W[ch]C[CHOICE]))
+(;B[ch];W[bh]LB[bg:Eye]C[CHOICE])
+(;B[ah];W[ci]LB[dh:eye]C[CHOICE])
+(;B[ci];W[bh]LB[bg:eye]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE])
+(;B[ef];W[ci]LB[dh:eye]C[CHOICE])
+(;B[ai];W[bh]C[CHOICE])
+(;B[bg];W[bh]C[CHOICE])
+(;B[ag];W[ci]C[CHOICE]))
+(;B[bh];W[dh]C[CHOICE])
+(;B[ef];W[dh]C[CHOICE])
+(;B[dh];W[ch]C[CHOICE])
+(;B[ci];W[bh]LB[bg:eye]C[CHOICE])
+(;B[eh];W[dh]C[CHOICE])
+(;B[ch];W[bh]
+(;B[di];W[eh]LB[bg:eye]C[CHOICE])
+(;B[eh];W[dh]C[CHOICE])
+(;B[dh];W[ci]C[CHOICE])
+(;B[ci];W[bi]C[CHOICE])
+(;B[bi];W[dh]C[CHOICE])
+(;B[ai];W[ci]C[CHOICE])
+(;B[ah];W[bi]C[CHOICE])
+(;B[bg];W[ag]C[CHOICE])
+(;B[ag];W[ah]C[CHOICE])
+(;B[ef];W[ci]C[CHOICE]))
+(;B[bg];W[bh]C[CHOICE])
+(;B[ag];W[ah]C[CHOICE])
+(;B[bi];W[bh]C[CHOICE])
+(;B[ah];W[ch]C[CHOICE])
+(;B[ai];W[bh]C[CHOICE]))

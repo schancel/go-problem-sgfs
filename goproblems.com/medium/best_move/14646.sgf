@@ -1,0 +1,68 @@
+(;GE[best move]DI[1k]DP[19]SO[psblue]CO[0]AB[bq]AB[cq]AB[dq]AB[cr]AB[ds]AB[er]AB[bp]AW[bn]AW[bo]AW[co]AW[cp]AW[dp]AW[eq]AW[gr]AW[cm]AB[cn]AW[en]AW[fm]AW[ek]AW[dk]AW[fk]AB[bm]AB[bk]AB[ck]AB[cl]AB[dl]AB[dj]AB[ej]AB[ei]AB[ci]AB[ch]AW[bj]AW[cj]AW[di]AB[df]AB[fg]AB[hh]AB[ig]AB[kh]AW[gp]AW[ip]AB[ho]AB[io]AB[jo]AB[jp]AB[iq]AB[ir]AW[jq]AW[jr]AB[kq]AB[lq]AB[lp]AW[kp]AW[ko]AW[lo]AW[km]AW[jn]AW[in]AW[lm]AW[nm]AB[mo]AB[mn]AB[on]AB[po]AB[pp]AB[pq]AB[pl]AB[ql]AB[rl]AB[qk]AB[pj]AB[pi]AB[ph]AB[pg]AB[qh]AW[pk]AW[ok]AW[oj]AW[oi]AW[nh]AB[qf]AB[rf]AB[rg]AB[sg]AB[sh]AW[qi]AW[ri]AW[rh]AW[qj]AW[rk]AW[sj]AW[of]AW[pf]AW[qe]AW[re]AW[od]AW[pd]AB[qd]AW[jf]AW[jd]AW[gd]AW[fc]AB[bc]AB[cb]AB[dc]AB[cd]AB[ed]AW[ce]AW[bd]AW[hi]AW[ii]AW[gi]C[White just played the triangle stone. Give the best answer that keeps the black stones connected.]AB[jg]AW[fh]AW[fr]AB[fs]TR[fh]AP[goproblems]
+(;B[eg]
+(;W[eh];B[dh];W[gg]
+(;B[gh];W[hg];B[ih];W[fi];B[hf];W[gf];B[ge]C[Well done !RIGHT])
+(;B[hg];W[gf]C[Wrong ! Now black is split in the center.])
+(;B[gf];W[hg];B[hf];W[gh];B[if]C[Well done ! RIGHT]))
+(;W[gg];B[gh];W[hg];B[ih];W[eh]
+(;B[dh])
+(;B[hf];W[dh]
+(;B[dg];W[fi]C[Wrong ! Black is connected but he lost three stones.]MA[dj]MA[ej]MA[ei])
+(;B[bi];W[fi];B[aj];W[cj];B[bj]
+(;W[fj]
+(;B[cj];W[dg]
+(;B[cg];W[gf];B[ge];W[ff]
+(;B[ef];W[fe]C[Wrong ! Now black must fight for life in the center.])
+(;B[fe];W[ef];B[if];W[he]C[Wrong ! Now black must fight for life in the center.]))
+(;B[gf];W[cg]C[Wrong ! Black connected his stones in the center but white destroyed his territory.]))
+(;B[gf];W[dg]
+(;B[cg];W[cj]C[Wrong ! Black can connect his stones without any loss.])
+(;B[cj])))
+(;W[dg]
+(;B[cg];W[gf];B[ge];W[ff];B[fe];W[ef]
+(;B[he];W[if]C[Wrong ! Now black is split in the center.])
+(;B[if];W[he]C[Wrong ! Now black must fight for life in the center.]))
+(;B[ff];W[cg]C[Wrong ! Black is connected in the center but white managed to enter black's territory on the left side.]))))))
+(;B[eh];W[gg]
+(;B[gh];W[hg]
+(;B[fi];W[ih]
+(;B[fh];W[if]C[Wrong !])
+(;B[hf];W[gf];B[ge];W[ff];B[fe];W[fh]
+(;B[if];W[he]C[Wrong ! Now black must fight to make life in the center.])
+(;B[he];W[if]C[Wrong !])))
+(;B[ih];W[fi];B[hf];W[gf];B[ge];W[ff];B[fe];W[eg]
+(;B[if];W[he]C[Wrong ! Now black must fight to make life in the center.])
+(;B[he];W[if]C[Wrong !])))
+(;B[hg];W[gf]C[Wrong ! Now black is split in the center.])
+(;B[fi];W[gh]C[Wrong !]))
+(;B[ff]
+(;W[gg];B[gh]
+(;W[hg];B[ih];W[hf]
+(;B[fi];W[eh];B[dh]C[Well done !RIGHT])
+(;B[if];W[eh]
+(;B[he];W[dh]MA[dj]MA[ej]MA[ei]C[Wrong ! Black is connected but he lost three stones.])
+(;B[dh];W[he];B[fi]C[Well done !RIGHT]))))
+(;W[eh];B[dh];W[gg];B[gh];W[fi];B[gf]C[Well done !RIGHT]))
+(;B[gg];W[eh]
+(;B[dh];W[eg]
+(;B[ef];W[ff]C[];B[ge]
+(;W[hf]
+(;B[hg];W[gf]C[Wrong !])
+(;B[gf];W[hg]
+(;B[gh];W[ih];B[fi]C[Wrong !])
+(;B[if];W[he]C[Wrong ! A and B are miai for white. Black has to fight in the center, but there are easy ways to connect from the start.]LB[gh:A]LB[ih:B]))
+(;B[he];W[if]
+(;B[hg];W[gf]C[Wrong !])
+(;B[gf];W[hg]C[Wrong ! A and B are miai for white.]LB[gh:A]LB[ih:B])
+(;B[gh];W[gf];B[fi];W[fj];B[dg]C[Well done !RIGHT]))
+(;B[gh]LB[fi:A]LB[gf:B]C[Well done ! A and B are miai for black to connect.RIGHT])))
+(;B[ff];W[ef]
+(;B[ee];W[fe]C[Wrong ! Black can make maybe two eyes in the center but there's a better way to connect.])
+(;B[fe];W[ee]C[]))
+(;B[fe];W[ef]
+(;B[ff];W[ee];B[fd];W[de]C[Wrong ! Black connect, but white invades his territory and split it in two.])
+(;B[ge];W[ee];B[fd];W[de]C[Wrong ! Black connects but white invades his territory and split it in two.])
+(;B[ee];W[ff]
+(;B[gf];W[ge]C[Wrong !])
+(;B[ge];W[gf];B[hf];W[he]C[Wrong ! Black can fight in the center but there were simple connections from the start.]))))
+(;B[eg];W[dh]LB[bi:A]MA[dj]MA[ej]MA[ei]C[Wrong ! Now black must defend at A his three marked stones. He is connected, but there are better ways.])))

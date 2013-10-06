@@ -1,0 +1,7 @@
+(;GE[fuseki]DI[6k]DP[36]SO[Zwom]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qc][pd][qf]AB[pb][dc][kc][nc][ce]C[What is the best place to complete the black shape?]
+(;B[id]CR[id]C[Black plays a little too close to the right black position.])
+(;B[hd]CR[hd]C[RIGHT This is a good extension from both sides.])
+(;B[ne]CR[ne]
+;W[hc]CR[hc]C[Black needed to get his corner position to work together better with the position on the right.]))

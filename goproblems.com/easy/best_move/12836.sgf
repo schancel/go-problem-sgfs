@@ -1,0 +1,53 @@
+(;GE[best move]DI[12k]DP[56]SO[pagod]CO[0]AW[kk]AW[lk]AW[mk]AW[kl]AW[ml]AW[nl]AW[km]AW[nm]AW[pm]AW[qm]AW[rm]AW[ln]AW[pn]AW[sn]AW[jo]AW[qo]AW[ro]AW[jp]AW[np]AW[pp]AW[qp]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AB[jj]AB[kj]AB[lj]AB[mj]AB[nj]AB[jk]AB[nk]AB[pk]AB[qk]AB[rk]AB[sk]AB[jl]AB[ll]AB[pl]AB[jm]AB[lm]AB[mm]AB[om]AB[jn]AB[kn]AB[on]AB[oo]AB[po]AB[lp]AB[mp]C[Try to save and connect all your stones.]
+(;B[mn];W[nn]
+(;B[mo];W[no]
+(;B[ol]C[RIGHT]N[RIGHT])
+(;B[lo];W[ol]C[])
+(;B[ko];W[ol]C[])
+(;B[kp]
+(;W[ko]C[])
+(;W[ol]C[])))
+(;B[lo];W[no]
+(;B[ol]C[RIGHT])
+(;B[mo];W[ol]C[]))
+(;B[no];W[mo]C[]))
+(;B[nn];W[mn]C[])
+(;B[ol];W[mn]C[])
+(;B[lo];W[mn]C[])
+(;B[no]
+(;W[mo]
+(;B[lo];W[mn]
+(;B[lm];W[ol]N[WRONG])
+(;B[ol];W[ko]N[WRONG])
+(;B[ko];W[ol]))
+(;B[mn];W[nn]
+(;B[ol];W[ko])
+(;B[ko];W[ol]N[WRONG]))
+(;B[ol];W[mn];B[ko]C[You connected but lost some stones in the processCHOICE]N[WRONG]))
+(;W[mn]
+(;B[ko]
+(;W[kp];B[lo];W[mo]
+(;B[ol];W[lm]C[You connected but lost some stones in the process]N[WRONG])
+(;B[lm];W[ol]
+(;B[mm];W[ll]N[WRONG])
+(;B[ll];W[mm]N[WRONG])))
+(;W[ol]
+(;B[mo];W[lm]N[RIGHT])
+(;B[lm];W[mo]N[WRONG])))
+(;B[lm]
+(;W[mo])
+(;W[ol]
+(;B[ko])
+(;B[mo];W[ko])))
+(;B[mo])))
+(;B[no];W[mo];B[ol];W[mn]
+(;B[ko]C[You connected but lost some stones in the processCHOICE]N[WRONG])
+(;B[lm];W[ko]))
+(;B[ko];W[ol]
+(;B[nn];W[mn])
+(;B[mn];W[nn])
+(;B[no];W[mo]
+(;B[ok];W[mn])
+(;B[nn];W[mn]))
+(;B[mo];W[no];B[ok];W[mn]))
+(;B[mo];W[mn]))

@@ -1,0 +1,86 @@
+(;GE[life and death]DI[5k]DP[33]SO[shaydwyrm]CO[6]AW[pq]AW[qo]AW[oq]AW[mq]AW[qp]AB[pr]AB[qq]AB[rq]AW[rp]TR[rp]AP[goproblems]
+(;B[rr]C[]
+(;W[or]
+(;B[qs]C[RIGHT])
+(;B[ps];W[os]
+(;B[qs]C[RIGHT])
+(;B[rs]C[RIGHT])
+(;B[ss];W[qs])
+(;B[qr];W[sq])
+(;B[sq];W[rs]
+(;B[ss];W[sr]C[Ko])
+(;B[qs];W[qr])
+(;B[qr];W[ss]))
+(;B[sr];W[rs]))
+(;B[rs];W[ps])
+(;B[os];W[qs]
+(;B[ps];W[ns]
+(;B[qr];W[sq])
+(;B[rs];W[qr])
+(;B[sq];W[qr]))
+(;B[rs];W[ps]
+(;B[qr];W[ps])
+(;B[ns];W[ms]
+(;B[qr];W[ps])
+(;B[nr];W[mr])
+(;B[mr];W[nr])))
+(;B[ns];W[ps]
+(;B[rs])
+(;B[qr];W[ms]
+(;B[rs])
+(;B[nr];W[mr]))
+(;B[sq];W[qr]))
+(;B[sq];W[ps])
+(;B[qr];W[ps]
+(;B[rs])
+(;B[ns])))
+(;B[sq])
+(;B[sr];W[qs])))
+(;B[or]
+(;W[rr]
+(;B[qr];W[sq]
+(;B[nq];W[np];B[nr];W[lr])
+(;B[nr];W[lr])
+(;B[mr];W[lr]
+(;B[nr];W[lp])
+(;B[nq];W[np];B[nr];W[lp])
+(;B[ms];W[lp];B[qs];W[sr];B[nq];W[np];B[nr];W[os]))
+(;B[qs];W[sr])
+(;B[rs];W[sr])
+(;B[sr];W[ss];B[qs];W[sp]))
+(;B[sq];W[qr])))
+(;B[rs]C[This lives, but with less points than the correct solution.]
+(;W[sq]C[CHOICE]
+(;B[sr]
+(;W[qr]
+(;B[rr];W[or]
+(;B[qs]C[RIGHT])
+(;B[ps]C[RIGHT]))
+(;B[sp];W[ps])
+(;B[ps];W[rr])))
+(;B[or];W[rr];B[qr])
+(;B[rr];W[sr]
+(;B[or];W[nr])
+(;B[qs];W[or]))
+(;B[qr];W[sr])
+(;B[ps];W[rr]))
+(;W[qr];B[rr]C[RIGHT])
+(;W[or];B[ps]C[RIGHT]))
+(;B[sr];W[rs]
+(;B[qs]C[See problem 4779 for how white can kill.])
+(;B[or];W[qr]C[If the marked stone were absent, black might be able to get a second eye by crawling out.  However, if this were the case, white would have blocked at P2 instead of S4.]TR[mq]))
+(;B[sq];W[or]
+(;B[rs];W[ps])
+(;B[ps];W[rs]C[This leads to ko, black can do better.])
+(;B[qs];W[rr])
+(;B[rr];W[ps]C[This leads to ko, black can do better.]))
+(;B[qs];W[sr]
+(;B[rr];W[sq]C[White gets a ko this way, black can do better.])
+(;B[sq];W[rr])
+(;B[rs];W[or])
+(;B[or];W[rr]))
+(;B[qr];W[or])
+(;B[ps];W[sr]
+(;B[sq];W[rr];B[qr];W[rs])
+(;B[rr];W[sq])
+(;B[rs];W[sq])))

@@ -1,0 +1,13 @@
+(;GE[elementary]DI[7k]DP[41]SO[Warp]CO[8]SZ[19]AW[ho]AW[hp]AW[ip]AW[iq]AW[ir]AW[hs]AB[go]AB[gp]AB[hq]AB[hr]TR[hs]C[White has just played at the marked stone. What is the correct response? (Think late endgame/yose--Black is trying to seal off the lower left side.)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]TM[]PW[White]PB[Black]
+(;B[gr]
+(;W[gs]
+(;B[fs];W[is]
+(;B[fr]C[RIGHT])
+(;B[er]LB[fq:B]LB[fr:A]C[Good, but playing at A might be slightly better (there might be some bad aji left at B).RIGHT])
+(;B[fq]LB[er:B]LB[fr:A]LB[es:C]C[It's ok, but the last stone is usually played at A or B (as it removes bad aji from C).RIGHT]))
+(;B[fr]C[No need to push further.])))
+(;B[gs];W[gr]
+(;B[is];W[gq]C[This is rather catastrophical for black. You could have avoided this.])
+(;B[gq];W[fs]C[You could have avoided this.])
+(;B[fs];W[fr]))
+(;B[fr];W[fs]C[You can do better than this.]))

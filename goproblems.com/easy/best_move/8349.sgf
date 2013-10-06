@@ -1,0 +1,93 @@
+(;GE[best move]DI[20k]DP[71]SO[LCZLAPINSKI]CO[7]AB[ad]AB[bd]AB[cd]AB[dc]AB[db]AB[da]AB[ce]AW[ae]AW[be]AW[bf]AW[cf]AW[dd]AW[ed]AW[ec]AW[eb]AW[fb]AW[fd]AW[ee]AW[gd]AW[ge]AW[gf]AW[ff]AW[ef]AW[df]AW[gc]AW[gb]AW[ga]LB[ha:T]C[Play at T if you wish to tenuki.]AP[goproblems]
+(;B[bb]C[Eight points :}RIGHT])
+(;B[ha];W[bb]
+(;B[cc];W[ab];B[ba];W[cb]LB[hb:T]C[Play T if you wish to tenuki.]
+(;B[ca];W[bc]C[Minus 25 points. White can almost fill with a bulky five.]MA[bc]MA[ac]MA[ab]MA[bb]MA[cb])
+(;B[hb];W[ca];B[bc];W[ea];B[ac];W[de])
+(;B[bc];W[ea]LB[hb:T]
+(;B[ca]C[Seki is 0 points. Black can do better.])
+(;B[hb];W[de];B[ca]C[Seki is 0 points. Black can do better.])))
+(;B[ac];W[ab];B[ba];W[cb]
+(;B[ca]C[Minus 26 points. White can almost fill with a bulky five killable shape.])
+(;B[cc];W[ea]LB[hb:T]C[Play  at T if you wish to tenuki.]
+(;B[ca];W[bc]C[Minus 24 points.])
+(;B[hb];W[ca]C[Minus 23 points. Black loses the capturing race.];B[bc];W[de])))
+(;B[ab];W[bc]
+(;B[ba];W[ac];B[cb];W[aa]C[Ko. Black can do better than a seki. Even the seki lines are better than this.]
+(;B[ab]C[NOTTHIS])
+(;B[cc];W[ca]C[Ko. The interesting thing is that white can't fill wA18 or wB19. Black can force white to use his ko threats or to concede the ko.Black can get better than seki.]))
+(;B[ac];W[ba]
+(;B[cb];W[de];B[cc]C[Seki is 0 points.])
+(;B[cc];W[cb]MA[bc]MA[bb]MA[ba]MA[cb]MA[ca]C[Black is dead. White can almost fill with a bulky five killable shape inside.])))
+(;B[bc];W[ab]
+(;B[cb];W[ba]TR[ad]TR[bd]TR[cd]TR[ce]TR[bc]TR[cb]TR[dc]TR[db]TR[da]C[Ouch :{ Black loses at least 18 points.])
+(;B[ba];W[cb];B[ca];W[ea];B[cc]C[Seki is 0 points. Black can do better.])
+(;B[cc];W[cb];B[ca];W[ba]TR[ad]TR[bd]TR[cd]TR[ce]TR[bc]TR[cc]TR[dc]TR[db]TR[da]TR[ca]C[Ouch :{  At least minus 20 points. White can almost fill with wA19 creating a bulky five killable shape inside.]MA[ab]MA[aa]MA[ba]MA[bb]MA[cb])
+(;B[ca];W[ba]C[Ouch :{ At least minus 20 points.]))
+(;B[ba];W[cb];B[ca];W[ab];B[bc];W[de];B[cc]C[Seki is 0 points.])
+(;B[cb];W[ab]
+(;B[bc];W[ba]C[White could fill the outside liberites. Then white would almost fill with a bulky five killable shape inside.])
+(;B[ba];W[de]
+(;B[bc];W[ea]C[Seki is 0 points. Black can do better.])
+(;B[cc];W[ea]C[Seki is 0 points. Black can do better.]))
+(;B[cc];W[ba]C[White fills the outside liberties. Then white creates a bulky five killable shape inside.])
+(;B[ca];W[ba]C[White can fill the outside liberties.  Then white can almost fill with a bulky five killable shape inside. ])
+(;B[ac];W[de]
+(;B[cc];W[ea])
+(;B[ba];W[ea]C[Seki is 0 points. Black can do better.]))))
+(;B[ac];W[bb]
+(;B[ba];W[cb];B[ca];W[ab];B[cc]C[Seki is 0 points. Black can  do better.])
+(;B[ab];W[ba];B[cc]MA[bc]MA[bb]MA[cb]MA[ba]MA[ca]TR[ab]TR[ac]TR[bd]TR[ce]TR[cd]TR[cc]TR[dc]TR[db]TR[da]C[Ouch! Minus 26 points. White can almost fill with a bulky five kiilable shape inside.])
+(;B[cc];W[ba]TR[ac]TR[ad]TR[bd]TR[ce]TR[cd]TR[cc]TR[dc]TR[db]TR[da]C[Ouch:{   Minus 23 points.]))
+(;B[ab];W[bb]
+(;B[ba];W[bc]
+(;B[ac]TR[aa]TR[cc]C[White can't kill the eye in the corner.RIGHT])
+(;B[cb]C[RIGHT]))
+(;B[ac];W[ba]C[White can almost fill with a bulky five killable shape inside.])
+(;B[bc];W[ba];B[cb];W[ea]C[Seki is 0 points. Black can do better.]))
+(;B[aa];W[bb];B[bc];W[ab];B[cb]
+(;W[de];B[ba];W[ca];B[ba]C[Seki is 0 points.])
+(;W[ba]C[Ouch :{ Minus 25 points.CHOICE]))
+(;B[bc];W[bb];B[cb];W[ab];B[ba];W[de]C[Seki is 0 points. Black can do better.])
+(;B[ba];W[bb];B[ab];W[bc]
+(;B[ac]TR[aa]TR[cc]C[Eight points :}RIGHT])
+(;B[cb]C[RIGHT]))
+(;B[cc];W[bb]
+(;B[ab];W[ba]
+(;B[bc];W[ea]C[Seki is 0 points. Black can do better.])
+(;B[ca];W[bc];B[cb]C[Seki is 0 points. Black can do better.]))
+(;B[aa];W[ab]C[Black dies. White can almost fill with a square four or bulky five killable shape.])
+(;B[ba];W[ab];B[cb];W[ea]C[Seki is 0 points. Black can do better.])
+(;B[cb];W[ba]
+(;B[ab];W[bc]C[Seki is 0 points. Black can do better.])
+(;B[bc];W[ab]C[Ouch :{ Minus 20 points. White can fill the outside liberties and then almost fill with a bulky five.]TR[ad]TR[bd]TR[cd]TR[ce]TR[cc]TR[bc]TR[dc]TR[cb]TR[db]TR[da]))
+(;B[ea];W[ba]
+(;B[ab];W[bc];B[cb]C[Seki is 0 points. Black can do better.])
+(;B[bc];W[ab]TR[ad]TR[bd]TR[cd]TR[ce]TR[bc]TR[cc]TR[dc]TR[db]TR[da]TR[ea]C[Ouch :{ At least minus 20 points.])))
+(;B[ca];W[bb];B[ab];W[bc];B[ac];W[ba]C[Seki is 0 points. Black can do better.])
+(;B[cb];W[bb];B[bc];W[ba];B[ab];W[ea]C[Seki is 0 points. Black can do better.])
+(;B[ea];W[bb]
+(;B[ac];W[ab];B[ba];W[cb];B[cc];W[fa]LB[ha:T]C[Black loses the capturing race. Play at T if you wish to tenuki.];B[ha];W[bc]LB[hb:T]C[Play at T if you wish to tenuki.];B[hb];W[de]C[Atari])
+(;B[ab];W[bc];B[ac];W[ba]
+(;B[cb]C[Seki is 0 points.])
+(;B[cc];W[cb]C[Minus 22 points.]))
+(;B[bc];W[ab]
+(;B[ba];W[cb];B[ca];W[fa];B[cc]C[Seki is 0 points. Black can do better.])
+(;B[cc];W[cb];B[ca];W[ba]C[At least minus 20 points. White can almost fill with wA19 creating a bulky five killable shape.]MA[ba]MA[aa]MA[ab]MA[bb]MA[cb])
+(;B[cb];W[ba]TR[ac]TR[ca]MA[aa]MA[ba]MA[ab]MA[bb]C[White can almost fill with a bulky five.  F is a false eye.]LB[cc:F])
+(;B[ca];W[ba]C[At least minus 20 points.])))
+(;B[de];W[bb]
+(;B[ac];W[ab];B[ba];W[cb];B[cc];W[ea]LB[ha:T]C[Play at T if you wish to tenuki.];B[ha];W[bc]C[Minus 24 points.])
+(;B[ab];W[bc];B[ac];W[ba]
+(;B[cc];W[cb]MA[bc]MA[bb]MA[ba]MA[cb]MA[ca]C[White almost fills with a bulky five killable shape inside.])
+(;B[cb];W[cc]C[Black loses the capturing race.]))
+(;B[bc];W[ab]
+(;B[ba];W[cb];B[ca];W[ea];B[cc]C[Seki is 0 points. Black can do better.])
+(;B[cc];W[cb];B[ca];W[ba]MA[ab]MA[aa]MA[ba]MA[bb]MA[cb]C[At least minus 22 points. White can almost fill with wA19 creating a bulky five killable shape inside.])
+(;B[cb];W[ba]TR[ad]TR[bd]TR[cd]TR[ce]TR[de]TR[bc]TR[dc]TR[db]TR[cb]TR[da]C[Black loses at least 20 points.])
+(;B[ca];W[ba]C[At least minus 20 points.]))
+(;B[ba];W[cb];B[ca];W[ab];B[bc];W[cc]TR[bc]TR[ad]TR[bd]TR[cd]TR[ce]TR[de]C[Atari. Black loses the capturing race.])
+(;B[cc];W[ab];B[ba];W[cb]LB[ha:T]C[Play at T if you wish to tenuki.]
+(;B[bc];W[ea];B[ca]C[Seki is 0 points. Black can do better.])
+(;B[ca];W[bc]C[At least minus 22 points. White can almost fill with a killable bulky five shape inside.]MA[ab]MA[bb]MA[cb]MA[bc]MA[ac])
+(;B[ha];W[bc]C[White fills the outside liberty. Then white ataris with wA17 creating a killable bulky five shape inside.]MA[ac]MA[bc]MA[bb]MA[cb]MA[ab]))))

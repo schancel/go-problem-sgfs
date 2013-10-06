@@ -1,0 +1,19 @@
+(;GE[life and death]DI[6k]DP[39]SO[DarkSycthe]CO[0]AB[hr]AB[iq]AB[jq]AB[kq]AB[jr]AB[hs]AB[gr]AB[gs]AB[fs]AB[lr]AB[ls]AB[mr]AB[ms]AB[nr]AB[ns]AW[lq]AW[mq]AW[nq]AW[oq]AW[or]AW[os]AW[eq]AW[er]AW[es]AW[fq]AW[gq]AW[hq]AW[hp]AW[io]AW[jo]AW[ko]AW[lp]AB[fr]AW[js]C[Help black make life on the side. If this is not possible, play T for tenuki.]LB[fn:T]AP[goproblems]
+(;B[ks];W[kr]
+(;B[lr]
+(;W[is]
+(;B[ks];W[ir];B[hr]C[RIGHT])
+(;B[ir];W[ls];B[ks];W[ms]))
+(;W[ls];B[ks]
+(;W[ms]C[If white doesn't have any threats...];B[is]C[RIGHT])
+(;W[is]
+(;B[ir];W[ms])
+(;B[ms];W[ir];B[hr]C[RIGHT])
+(;B[mr];W[ir];B[hr];W[kr];B[hs]C[RIGHT]))))
+(;B[is];W[ir]
+(;B[hr];W[lr])
+(;B[lr];W[hr])))
+(;B[is]C[NOTTHIS])
+(;B[kr];W[is]C[This accomplishes nothing])
+(;B[ir]C[NOTTHIS])
+(;B[fn]C[Actually, black can live.]))

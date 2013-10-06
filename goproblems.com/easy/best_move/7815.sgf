@@ -1,0 +1,35 @@
+(;GE[best move]DI[12k]DP[58]SO[autum]CO[6]FF[1]GM[1]AB[np][pn][jj][ij][hj][ji][jh][ih][gj][im][in][io][kn][ln][lo][lp][mp]
+[jp][li][mi][oh][pj][pk][ok][nl][nm][nn][oo]AW[ii][hi][hh][gh][gf][hk][ik][gl][jl]
+[fm][fn][fo][lj][ll][mk][ml][mm][mn][mo][no][nk][nj][oj][ej][ei][ek]C[Black to cut some stones. No unnecessary moves please.]
+
+(;B[jk];W[il];B[kl]
+(;W[km];B[kk];W[jm];B[lm]C[RIGHT])
+(;W[kk]
+(;B[km]C[RIGHT])
+(;B[jm];W[km])
+(;B[kj];W[km]))
+(;W[jm];B[km]))
+(;B[il];W[jk];B[kj];W[kl])
+(;B[kj];W[jk]
+(;B[kl];W[kk])
+(;B[kk];W[kl]))
+(;B[kk];W[kl]
+(;B[jk];W[il])
+(;B[il];W[jk]))
+(;B[kl]
+(;W[kk]
+(;B[km];W[jk])
+(;B[jk];W[il];B[km]C[RIGHT]))
+(;W[km]
+(;B[kk]
+(;W[jk];B[kj];W[jm];B[lm]C[RIGHT])
+(;W[kj];B[jk];W[il];B[jm]C[RIGHT]))
+(;B[jk]
+(;W[kk];B[il]C[RIGHT])
+(;W[il];B[kk];W[jm];B[lm]C[RIGHT])))
+(;W[jk];B[kk]
+(;W[kj];B[km]C[RIGHT])
+(;W[km];B[kj];W[jm];B[lm]C[RIGHT])))
+(;B[km];W[kl]
+(;B[jk];W[il])
+(;B[il];W[jk])))

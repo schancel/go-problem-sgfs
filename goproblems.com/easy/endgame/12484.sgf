@@ -1,0 +1,66 @@
+(;GE[endgame]DI[10k]DP[50]SO[cylonbunny]CO[0]SZ[19]AW[ea]AW[ha]AW[ia]AW[pa]AW[qa]AW[eb]AW[fb]AW[gb]AW[ib]AW[qb]AW[ec]AW[hc]AW[ic]AW[jc]AW[qc]AW[fd]AW[hd]AW[qd]AW[ee]AW[fe]AW[ge]AW[he]AW[ie]AW[me]AW[ne]AW[oe]AW[re]AW[df]AW[ef]AW[jf]AW[lf]AW[mf]AW[of]AW[pf]AW[qf]AW[cg]AW[dg]AW[gg]AW[hg]AW[ig]AW[jg]AW[kg]AW[pg]AW[bh]AW[fh]AW[gh]AW[hh]AW[ih]AW[kh]AW[oh]AW[ph]AW[bi]AW[ci]AW[di]AW[ei]AW[gi]AW[ki]AW[qi]AW[aj]AW[bj]AW[ej]AW[fj]AW[hj]AW[pj]AW[qj]AW[ak]AW[fk]AW[gk]AW[hk]AW[jk]AW[nk]AW[qk]AW[el]AW[hl]AW[il]AW[jl]AW[kl]AW[ml]AW[nl]AW[ol]AW[pl]AW[ql]AW[rl]AW[em]AW[im]AW[jm]AW[lm]AW[nm]AW[pm]AW[rm]AW[dn]AW[en]AW[jn]AW[ln]AW[qn]AW[rn]AW[sn]AW[co]AW[eo]AW[jo]AW[ko]AW[mo]AW[ro]AW[ap]AW[bp]AW[ep]AW[jp]AW[lp]AW[mp]AW[aq]AW[cq]AW[dq]AW[eq]AW[kq]AW[nq]AW[br]AW[hr]AW[kr]AW[mr]AW[nr]AW[bs]AW[ls]AW[ms]AB[aa]AB[ba]AB[ca]AB[da]AB[ga]AB[ja]AB[ma]AB[oa]AB[db]AB[jb]AB[lb]AB[nb]AB[pb]AB[ac]AB[dc]AB[kc]AB[pc]AB[cd]AB[dd]AB[ed]AB[id]AB[jd]AB[kd]AB[ld]AB[md]AB[nd]AB[od]AB[pd]AB[ce]AB[de]AB[je]AB[le]AB[pe]AB[qe]AB[bf]AB[cf]AB[ff]AB[gf]AB[hf]AB[if]AB[kf]AB[nf]AB[ag]AB[bg]AB[fg]AB[lg]AB[mg]AB[ng]AB[og]AB[ah]AB[ch]AB[dh]AB[eh]AB[jh]AB[lh]AB[nh]AB[hi]AB[ii]AB[ji]AB[li]AB[oi]AB[pi]AB[cj]AB[dj]AB[ij]AB[jj]AB[kj]AB[mj]AB[nj]AB[oj]AB[bk]AB[dk]AB[ek]AB[ik]AB[kk]AB[lk]AB[mk]AB[ok]AB[pk]AB[al]AB[cl]AB[dl]AB[fl]AB[gl]AB[ll]AB[bm]AB[dm]AB[gm]AB[hm]AB[mm]AB[om]AB[bn]AB[cn]AB[fn]AB[in]AB[mn]AB[nn]AB[on]AB[pn]AB[ao]AB[bo]AB[fo]AB[go]AB[io]AB[no]AB[oo]AB[qo]AB[so]AB[ip]AB[np]AB[op]AB[pp]AB[sp]AB[fq]AB[gq]AB[hq]AB[jq]AB[oq]AB[qq]AB[rq]AB[sq]AB[cr]AB[dr]AB[er]AB[ir]AB[jr]AB[or]AB[cs]AB[js]AB[ks]AB[ns]AB[os]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[rd];W[rc]
+(;B[rf];W[sd]
+(;B[qh];W[ke]C[]
+(;B[cp]
+(;W[dp]C[CHOICE];B[kf];W[is]
+(;B[ke];W[rg];B[qg];W[iq]C[RIGHT])
+(;B[hs];W[ke]
+(;B[qg]C[];W[kf]C[No threats left....])
+(;B[lq];W[kf]C[Not a threat...]))
+(;B[qg];W[iq]C[RIGHT]))
+(;W[kf];B[do];W[dp];B[co]C[Right, whites group on the bottom left is dead....RIGHT]))
+(;B[do]
+(;W[dp]C[CHOICE])
+(;W[kf];B[cp]))
+(;B[qg];W[kf]C[You need to win the ko first...])
+(;B[dp];W[kf]C[Not a threat...])
+(;B[lq]C[];W[kf]C[Not a threat... (This is how I played in the real game... I was short on time and panicked)]))
+(;B[qg];W[qh]C[Invasion failed....]))
+(;B[sd];W[se]
+(;B[sc];W[sb]C[Invasion failed....])
+(;B[sb];W[sc]C[Invasion failed...])
+(;B[rf];W[sc]
+(;B[qh];W[ke]
+(;B[cp]
+(;W[dp]C[CHOICE];B[kf];W[is]
+(;B[ke];W[rg];B[qg];W[iq]C[RIGHT])
+(;B[hs];W[ke]
+(;B[lq]C[];W[kf]C[Not a threat])
+(;B[qg];W[kf]C[No threats left...]))
+(;B[qg];W[iq]C[RIGHT]))
+(;W[kf];B[do];W[dp];B[co]C[Whites bottom left group is deadRIGHT]))
+(;B[do]
+(;W[dp]C[CHOICE])
+(;W[kf];B[cp]))
+(;B[dp];W[kf]C[Not a threat...])
+(;B[qg];W[kf]C[You need to win the ko first....])
+(;B[lq];W[kf]C[Not a threat...]))
+(;B[qg];W[qh]C[Invasion failed]))
+(;B[qh]
+(;W[rh]
+(;B[qg];W[rg])
+(;B[rf];W[qg]
+(;B[rg];W[qh];B[sf];W[sc]C[RIGHT])
+(;B[sf];W[rg];B[sc]C[RIGHT])))
+(;W[rf]C[CHOICE])))
+(;B[qh];W[rh]
+(;B[qg];W[rg]C[Invasion failed....])
+(;B[rf];W[qg];B[rg];W[qh]
+(;B[se]C[Whites upper right group is deadRIGHT])
+(;B[sd]C[Whites upper right group is dead...RIGHT]))))
+(;B[rf];W[rg]
+(;B[qh];W[qg]
+(;B[rh];W[sg]
+(;B[sh];W[sf]C[Invasion failed...])
+(;B[sf];W[se]C[Invasion failed...]))
+(;B[sg];W[rh]C[Invasion failed...]))
+(;B[sf];W[sg]C[Invasion failed...])
+(;B[qg];W[qh]C[Invasion failed...])
+(;B[rd];W[sf];B[rc]C[RIGHT]))
+(;B[cp];W[dp])
+(;B[do];W[dp])
+(;B[ke];W[qh]C[Too early...])
+(;B[qh];W[rh]
+(;B[rf];W[qg]C[];B[rg];W[qh];B[se];W[rd];B[sd];W[sc];B[sf];W[sg]C[Invasion failed...])
+(;B[qg];W[rg]C[Invasion failed...])))

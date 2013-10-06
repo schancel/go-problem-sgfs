@@ -1,0 +1,12 @@
+(;GE[life and death]DI[5k]DP[35]SO[traveller]CO[6]AB[bc]AB[bd]AB[ce]AB[de]AB[ed]AB[fd]AB[gd]AB[hc]AB[hb]AB[gb]AW[gc]AW[fc]AW[fb]AW[ec]AW[dd]AW[cc]AW[cb]AW[bb]AB[hd]C[best endgame for black . . .]AP[goproblems]
+(;B[da];W[ea]LB[db:a]LB[ab:b]C[after e19, a and b are miai for white to live.  too bad for you!])
+(;B[fa];W[ea];B[da];W[ga]C[a and b are now miai for white to live.]LB[db:a]LB[ab:b])
+(;B[ea]C[CHOICE];W[fa];B[db];W[eb]LB[da:a]LB[ab:b]C[a and b are now miai for white to live.  sadly, black only gets to play one of these locations.])
+(;B[db];W[da]
+(;B[dc];W[eb]C[white is clearly alive.])
+(;B[ea];W[fa];B[ca];W[eb]
+(;B[ab];W[da]C[this is a flowering-viewing ko for black.  really, more of a smokin-hot-woman-viewing ko.  still, black can do better.])
+(;B[da];W[ab]C[white is clearly alive.])))
+(;B[ab]C[yes! the hane kills cleanly and simply. RIGHT])
+(;B[cd]C[this kills white cleanly. a and b are miai to kill white.  RIGHT]LB[ab:a]LB[dc:b])
+(;B[eb];W[db]C[black has no good answer to d18.  white is alive.]))

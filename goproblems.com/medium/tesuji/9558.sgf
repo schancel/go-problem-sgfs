@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[2k]DP[22]SO[kaf]CO[8]AB[bp]AB[bo]AB[co]AB[do]AB[dn]AB[fn]AB[fo]AB[cq]AB[cr]AB[gp]AB[gq]AB[iq]AW[cp]AW[dp]AW[dq]AW[fp]AW[fq]AW[bq]AW[br]AW[cm]AW[dm]AW[fm]AW[gm]AW[gn]AW[go]AW[bn]AB[io]C[black to live]TR[bo]TR[bp]TR[co]TR[do]TR[dn]TR[fn]TR[fo]AP[goproblems]
+(;B[dr]
+(;W[er]
+(;B[fr];W[ds]
+(;B[ep];W[cs]C[CHOICE];B[eq]C[RIGHT])
+(;B[eq];W[ep]))
+(;B[eq];W[ep])
+(;B[ep];W[eq]
+(;B[es];W[eo]
+(;B[fr];W[en]
+(;B[bs];W[ar]
+(;B[ao];W[cn];B[aq];W[ap]C[ko])
+(;B[ap];W[cn])
+(;B[gr];W[cn])
+(;B[aq];W[ap];B[ao];W[an]C[ko]))
+(;B[gr];W[cs])
+(;B[hr];W[cs])
+(;B[ds];W[gr]))
+(;B[en];W[cs])
+(;B[gs];W[cs]))
+(;B[fr];W[es])))
+(;W[fr]C[thanks to quartzie for this var];B[bs];W[ar];B[ap];W[er];B[aq]C[RIGHT]))
+(;B[fr];W[dr])
+(;B[ep];W[eq]
+(;B[dr];W[es]
+(;B[er];W[fr];B[gr];W[eo])
+(;B[fr];W[er];B[fs];W[eo])
+(;B[bs];W[cs]
+(;B[ar];W[as]C[ko])
+(;B[ds];W[er])))
+(;B[fr];W[dr]))
+(;B[eq];W[ep]
+(;B[er];W[dr])
+(;B[dr];W[er]))
+(;B[er];W[dr])
+(;B[bs];W[dr]))

@@ -1,0 +1,13 @@
+(;GE[elementary]DI[4k]DP[31]SO[santa c]CO[6]AB[ab]AB[bb]AB[cb]AB[dc]AB[eb]AB[fb]AW[cc]AW[bc]AW[ac]AW[dd]AW[ce]AW[ed]AW[fc]AW[gc]AW[gb]AW[ib]AW[fa]AB[ea]C[White to kill...]AP[goproblems]
+(;W[ba]
+(;B[ca];W[db];B[da];W[ec]C[Well done! :)RIGHT])
+(;B[db];W[ca]C[RIGHT])
+(;B[ec];W[ca]C[RIGHT])
+(;B[da];W[ec]C[RIGHT]))
+(;W[ca];B[ba]C[:(])
+(;W[da];B[ca]C[:(])
+(;W[db];B[da]
+(;W[ec];B[ba];W[db]MA[dc]C[:(])
+(;W[ba];B[ec]C[:(]))
+(;W[ec];B[db]C[:(]TR[ca]TR[ba])
+(;W[ga];B[ec]C[:(]TR[ca]TR[ba]))

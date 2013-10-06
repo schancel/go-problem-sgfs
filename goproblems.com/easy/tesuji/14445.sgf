@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[10k]DP[54]SO[usagi5]CO[0]AB[sr]AB[sq]AW[qr]AW[qs]AB[pr]AB[ps]AW[rq]AW[rp]AW[pq]AW[pp]AB[qp]AB[qq]AB[oq]AB[nr]AB[op]AB[oo]AW[po]AW[pn]AW[qn]AW[rn]AW[sn]AB[on]AB[pm]AB[qm]AB[rm]AB[sm]AP[goproblems]
+(;B[rr];W[qo]
+(;B[qq];W[qp]
+(;B[rs];W[qq]
+(;B[so]C[RIGHT])
+(;B[sp]C[RIGHT]))
+(;B[sp];W[rs];B[so]))
+(;B[rs];W[qq];B[sp];W[so]))
+(;B[sp];W[rr]))

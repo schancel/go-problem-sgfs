@@ -1,0 +1,17 @@
+(;GE[joseki]DI[5d]DP[4]SO[benlessard]CO[8]AB[pd]AB[jd]AW[qf]AB[pf]AW[pg]AB[of]AW[qe]AB[qd]AW[pe]AB[oe]C[Help Black connect the marked groups by capturing the cutting stone or by capturing the 3 whites stones.]MA[pd]MA[qd]MA[oe]MA[of]MA[pf]LB[pe:3]LB[qe:3]LB[qf:3]AW[od]LB[od:C]AP[goproblems]
+(;B[nd];W[oc]
+(;B[rd]C[threatening r13.]
+(;W[re]C[CHOICE];B[qg];W[rg];B[qh];W[rh];B[nc];W[pb];B[nb];W[rb]
+(;B[qb]C[wedjing tesuji];W[qc];B[pc]
+(;W[ob];B[rc];W[qa];B[oa];W[qc];B[se]C[important local Ko threat];W[rf];B[qb]C[Ko is big its very unlikely white will have enough ko threat to win this KORIGHT])
+(;W[qa]
+(;B[ob];W[rc]C[W corner is alive but the B wall is worth more then the tiny W territory   Also B get sente This is succes for BRIGHT])
+(;B[rc]C[FORCE];W[ob]C[FORCE];B[qb]C[inferior Ko for black])))
+(;B[pc]C[with the S16 S15 exchange all you can get is a bad koFORCE];W[ob]C[FORCE];B[qb]C[FORCE];W[qa]
+(;B[qc]C[so bad];W[sd]C[catastrophic result for black])
+(;B[rc]C[inferior Ko for blackFORCE];W[sd]C[FORCE];B[oa]C[FORCE];W[qc]C[inferior Ko for B])))
+(;W[qg];B[nc];W[pb];B[nb];W[rb]
+(;B[ob];W[pc];B[qb])
+(;B[pc];W[ob];B[qb];W[qa];B[qc];W[pa];B[ra]C[Classic tesuji to remove 1 liberty];W[sa];B[na];W[re];B[oa];W[sd];B[ra]C[RIGHT])))
+(;B[nc]C[miss the vital point.];W[rd];B[ob];W[rc];B[pc]C[white has trimmed the corner and has sente.]))
+(;B[oc]C[Wrong direction];W[nd]C[this is complicated but the 3 black stones are more in trouble then the whites stones.]TR[oe]TR[of]TR[pf]))

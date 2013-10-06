@@ -1,0 +1,9 @@
+(;GE[endgame]DI[2d]DP[12]SO[thanush]CO[0]AW[rb]AW[sd]AW[rd]AW[se]AW[qc]AW[pb]AW[nc]AW[oc]AW[nb]AW[mb]AB[ob]AB[pd]AB[pc]AB[qd]AB[re]AB[qf]AB[sf]AB[od]AB[nd]AB[mc]AB[lb]AB[kc]C[Turn the corner into a ko]AP[goproblems]
+(;B[oa]
+(;W[pa]
+(;B[rc];W[sc];B[ra]
+(;W[sb]C[CHOICE];B[qb];W[na];B[rc]C[RIGHT])
+(;W[na]C[CHOICE];B[sb]C[RIGHT]))
+(;B[qb];W[qa];B[sb];W[rc];B[ra];W[na])
+(;B[sb];W[rc])))
+(;B[sb];W[rc];B[oa];W[pa];B[ra];W[na]))

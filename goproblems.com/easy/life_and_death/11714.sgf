@@ -1,0 +1,31 @@
+(;GE[life and death]DI[8k]DP[47]SO[Tas]CO[0]AW[da]AW[db]AW[cb]AW[cc]AW[bc]AW[cd]AW[ce]AW[cf]AW[bf]AW[af]AB[bd]AB[ac]AB[ab]AB[ea]AB[eb]AB[dc]AB[ec]AB[dd]AB[de]AB[df]AB[dg]AB[cg]AB[bg]AB[ag]C[White to live in the best wayCHOICE]AP[goproblems]
+(;W[ad]C[CHOICE];B[ae];W[be];B[ad]C[CHOICE]
+(;W[bb]C[RIGHT])
+(;W[ba]C[RIGHT])
+(;W[aa];B[ba];W[bb];B[ca]C[CHOICE]))
+(;W[be];B[ad]
+(;W[bb];B[ba]C[SekiCHOICE])
+(;W[ae];B[bb]C[Dead
+CHOICE])
+(;W[ba];B[bb]C[SekiCHOICE])
+(;W[ca];B[bb];W[ba]C[Seki])
+(;W[aa];B[ba];W[bb]C[Seki]))
+(;W[ae];B[ad];W[bb];B[ba]C[Seki
+CHOICE])
+(;W[bb];B[ba]
+(;W[ad];B[ae]C[Seki])
+(;W[be];B[ad]C[Seki])
+(;W[ae];B[ad]C[Seki])
+(;W[ca];B[ae];W[aa]C[Ko]))
+(;W[ba];B[bb]
+(;W[ad];B[ae]C[SekiCHOICE];W[be];B[ca])
+(;W[be];B[ad]C[Seki])
+(;W[ae];B[ad]C[Seki
+])
+(;W[ca]C[Seki];B[hc];W[aa];B[ad]C[Really, it is])
+(;W[aa];B[ca];W[ba];B[gd]))
+(;W[ca];B[bb];W[be];B[ad];W[ba]C[Seki])
+(;W[aa];B[ba];W[ad];B[ae];W[be];B[ad]LB[hd:T]
+(;W[bb];B[ca])
+(;W[ca];B[bb])
+(;W[hd];B[bb]C[Dead])))

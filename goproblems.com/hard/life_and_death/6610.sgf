@@ -1,0 +1,52 @@
+(;GE[life and death]DI[4d]DP[8]SO[santa c]CO[9]AB[cb]AB[db]AB[cc]AB[cd]AB[bd]AB[be]AW[af]AW[bf]AW[dd]AW[dc]AW[de]AW[ce]AW[eb]AW[fc]AW[cg]AW[bb]AW[ea]AB[da]C[What would White be able to do?]AP[goproblems]
+(;W[ba];B[ab]
+(;W[ae];B[ad]
+(;W[ca]C[Well done! :)RIGHT]TR[bc])
+(;W[bc];B[ac]C[Seki :(]))
+(;W[ca];B[bc]
+(;W[ae];B[aa]TR[ad]TR[ba]C[:(])
+(;W[ad];B[aa]C[:(]TR[ae]TR[ba]))
+(;W[bc];B[ac]C[Seki! :(])
+(;W[ac];B[bc]
+(;W[aa];B[ae]C[Seki :(])
+(;W[ae];B[ad]C[Seki :(])
+(;W[ad];B[ae];W[ac]C[Seki :(]))
+(;W[ad];B[ae]C[Seki :(])
+(;W[aa];B[ae]
+(;W[ac];B[bc]C[Seki :(])
+(;W[bc];B[ac];W[ad];B[ac]C[Seki :(])))
+(;W[ab];B[ba]
+(;W[ad];B[ae]
+(;W[bc];B[ac]MA[ad]C[Ko :(])
+(;W[ac]C[Seki :(]))
+(;W[ae];B[ad]
+(;W[ac]C[Seki :(])
+(;W[bc]C[Seki :(])
+(;W[aa]C[Ko :(]))
+(;W[ac]C[Seki :(])
+(;W[aa];B[ac]C[:(]))
+(;W[ac];B[ba]
+(;W[ae];B[ad]
+(;W[aa];B[ab]C[Ko :(]MA[aa])
+(;W[ab]C[Seki :(]))
+(;W[ad];B[ae]
+(;W[aa];B[ab]C[Ko :(]MA[aa])
+(;W[ab]C[Seki :(]))
+(;W[aa];B[ab]C[Ko :(]MA[aa])
+(;W[ab]C[Seki :(]))
+(;W[ae];B[ba]
+(;W[ab];B[ad]
+(;W[aa]C[Ko :(])
+(;W[ac]C[Seki :(]))
+(;W[ac];B[ad]
+(;W[aa];B[ab]C[Ko :(]MA[aa])
+(;W[ab]C[Seki :(]))
+(;W[ad];B[ab]C[:(]))
+(;W[ad];B[ba]
+(;W[ab];B[ae]
+(;W[bc];B[ac]MA[ad]C[Ko :(])
+(;W[ac]C[Seki :(]))
+(;W[ac];B[ae]
+(;W[aa];B[ab]MA[aa]C[Ko :(])
+(;W[ab]C[Seki :(]))
+(;W[ae];B[ab]C[:(])))

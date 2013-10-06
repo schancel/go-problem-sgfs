@@ -1,0 +1,28 @@
+(;GE[life and death]DI[4k]DP[28]SO[karmaGfa]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[gb][bc][ec][fc][gc][cd][dd][ae][be][ee][ge][df][ef]AB[bb][cb][eb][fb][cc][dc][ed][fd][bf][cf][bg]PL[W]
+(;W[da]CR[da]
+(;B[ac]CR[ac]C[CHOICE]
+(;W[bd]CR[bd]
+;B[ca]TR[ba][da]CR[ca]C[The black group is alive ...
+It have a eye in B19 and another one in D19.])
+(;W[ad]CR[ad]
+(;B[ab]CR[ab]C[CHOICE]
+(;W[bd]CR[bd]
+;B[ca]TR[ba][da]CR[ca]C[The black group is alive ...
+It have a eye in B19 and another one in D19.])
+(;W[fa]CR[fa]
+;B[ce]CR[ce]
+;W[de]CR[de]
+;B[bd]CR[bd]C[RIGHT ko to fight ..]))
+(;B[bd]CR[bd]C[RIGHT CHOICE White have now to win the ko.])))
+(;B[ca]CR[ca]C[CHOICE]
+;W[ab]CR[ab]C[RIGHT The black group is dead.])
+(;B[ab]CR[ab]C[CHOICE]
+;W[fa]CR[fa]C[RIGHT The black group is dead, the stone in D19 cannot be eaten.]))
+(;W[ab]CR[ab]
+;B[da]CR[da]
+(;W[fa]CR[fa]
+;B[ba]CR[ba]C[The black group is alive.])
+(;W[ba]CR[ba]
+;B[fa]CR[fa]C[The black group is alive])))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[1d]DP[18]SO[unkx80]CO[6]AB[rq]AB[qr]AB[pq]AB[oq]AB[np]AB[mo]AB[ko]AB[io]AB[jq]AB[lr]AB[ls]AB[ms]AB[nr]AB[mr]AB[ns]AW[kr]AW[ks]AW[lq]AW[mq]AW[nq]AW[or]AB[jr]AB[hr]AP[goproblems]
+(;B[os];W[ps]
+(;B[mr]
+(;W[ms]
+(;B[ns];W[lr];B[ls]C[RIGHT])
+(;B[nr];W[lr])
+(;B[lr];W[nr]))
+(;W[nr]
+(;B[ms];W[pr];B[ns]
+(;W[ls];B[kq]C[RIGHT])
+(;W[kq];B[ls]C[RIGHT]))
+(;B[ns];W[ls];B[ms];W[pr];B[kq]C[RIGHT]))
+(;W[pr];B[nr]C[RIGHT]))
+(;B[ms];W[mr]
+(;B[ns];W[ls])
+(;B[ls];W[ns])
+(;B[pr];W[ls]))
+(;B[ns];W[mr]
+(;B[ms];W[ls];B[kq];W[nr])
+(;B[pr];W[os]))
+(;B[ls];W[mr]
+(;B[ns];W[ms])
+(;B[ms];W[ns]))
+(;B[pr];W[mr]))
+(;B[pr];W[os]C[Comb formation is alive.])
+(;B[ps];W[os]C[Comb formation is alive.])
+(;B[kq];W[os]C[Comb formation is alive.]))

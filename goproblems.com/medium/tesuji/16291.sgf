@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[3k]DP[26]SO[kuche12345]CO[0]AB[cr]AB[dr]AB[dq]AW[cq]AW[bq]AW[do]AW[dp]AB[dn]AB[eo]AB[ep]AB[fp]AB[gp]AW[eq]AW[er]AW[fr]AB[fq]AW[gq]AW[hq]AW[hr]AB[gr]C[Black to save his three marked stones]MA[dq]MA[dr]MA[cr]AP[goproblems]
+(;B[cn];W[bo]
+(;B[co];W[cp];B[br];W[ar];B[ap];W[aq];B[bn];W[ao]
+(;B[bs];W[ds];B[an];W[bp])
+(;B[an];W[bp];B[bs];W[ds]))
+(;B[bn];W[co];B[br];W[ar];B[bs];W[ds])
+(;B[br];W[co];B[bn];W[ar];B[bs];W[ds]))
+(;B[co];W[cp]
+(;B[cn];W[br])
+(;B[bo];W[br])
+(;B[br];W[bo];B[cn];W[ar]
+(;B[bs];W[ap]
+(;B[ds];W[bn])
+(;B[bn];W[ds]))
+(;B[ap];W[aq];B[bs];W[ds];B[ao];W[bn];B[bm];W[an])
+(;B[ds];W[bs])
+(;B[bn];W[ap])))
+(;B[bo];W[br]
+(;B[cp];W[cs];B[co];W[ds];B[dp]C[good, but you could do that in sente])
+(;B[es];W[gs];B[cp]C[RIGHT];W[cs];B[co];W[fs]C[white connects in goteRIGHT]))
+(;B[cp];W[co];B[bo];W[bp];B[cn];W[cp];B[br];W[bn];B[bm];W[ao];B[am];W[ar]
+(;B[an];W[bs])
+(;B[bs];W[an];B[aq];W[ds]C[eye vs no eye]))
+(;B[br];W[bo];B[cn];W[co];B[bn];W[ar]))

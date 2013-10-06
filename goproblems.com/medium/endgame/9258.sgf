@@ -1,0 +1,55 @@
+(;GE[endgame]DI[1k]DP[20]SO[ldan]CO[7]SZ[9]AW[ca]AW[da]AW[ea]AW[bb]AW[db]AW[cc]AW[ad]AW[bd]AW[ag]AW[bg]AW[cg]AW[dg]AW[fg]AW[eh]AW[fh]AW[hh]AW[ih]AB[fa]AB[eb]AB[fb]AB[dc]AB[fc]AB[cd]AB[dd]AB[fd]AB[ae]AB[be]AB[ce]AB[fe]AB[ef]AB[gf]AB[hf]AB[eg]AB[hg]AB[ig]C[White just passed, can black win? P to pass and end the game]AB[df]AW[gg]AW[bi]AB[de]AB[ff]LB[af:P]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]TW[aa]TW[ba]TW[ab]TW[cb]TW[ac]TW[bc]TB[ga]TB[ha]TB[ia]TB[gb]TB[hb]TB[ib]TB[ec]TB[gc]TB[hc]TB[ic]TB[gd]TB[hd]TB[id]TB[ge]TB[he]TB[ie]TB[if]
+(;B[ab]
+(;W[bc];B[ba];W[aa]
+(;B[af]
+(;W[ba]C[Good.  White had to fill at B9 to avoid the ko she couldn't win.  The score is now Black 19: White 18.5RIGHT])
+(;W[bf]C[RIGHT];B[ba]C[No ko threats];W[cf];B[cb]C[RIGHT]))
+(;B[gi];W[ba]C[Black can't kill, you wasted a point and lost by half a point.]
+(;B[dh];W[gh])
+(;B[gh];W[fi]
+(;B[dh];W[hi])
+(;B[ii];W[hi])
+(;B[hi];W[ii])))
+(;B[bf]
+(;W[ba]C[Good.  White had to fill at B9 to avoid the ko she couldn't win.  The score is now Black 19: White 18.5RIGHT])
+(;W[af];B[ba]C[No ko threats];W[cf];B[cb]C[RIGHT]))
+(;B[cf]
+(;W[ba]C[Good.  White had to fill at B9 to avoid the ko she couldn't win.  The score is now Black 19: White 18.5RIGHT])
+(;W[af];B[ba]C[No ko threats];W[bf];B[cb]C[RIGHT]))
+(;B[dh];W[ba]C[Black can't kill, you wasted a point and lost by half a point.])
+(;B[gh];W[ba];B[gi];W[fi]
+(;B[hi];W[ii])
+(;B[dh];W[hi]))
+(;B[bh]C[Black can't kill, you wasted a point and lost by half a point.]))
+(;W[af]
+(;B[bc];W[ac];B[bc]C[RIGHT])
+(;B[ba];W[aa])
+(;B[bf]C[RIGHT]))
+(;W[aa]
+(;B[ba]C[No ko threats];W[af]
+(;B[cb]C[RIGHT])
+(;B[ac]C[RIGHT])
+(;B[bc]C[RIGHT]))
+(;B[af])))
+(;B[ac];W[bc];B[ab];W[af]
+(;B[ba];W[aa])
+(;B[aa];W[ba]))
+(;B[bc];W[ac])
+(;B[aa];W[ab])
+(;B[ba];W[aa])
+(;B[dh];W[ab]C[You cant kill either group]
+(;B[gi];W[gh];B[ei];W[ch])
+(;B[ch];W[bh]))
+(;B[gi];W[ab]
+(;B[gh];W[fi];B[dh];W[hi])
+(;B[fi];W[ei];B[hi];W[af]
+(;B[ii];W[gh])
+(;B[gh];W[ii])
+(;B[dh];W[ch]
+(;B[di];W[ci])
+(;B[gh];W[ii]))))
+(;B[cf]C[This move is unnecessary, filling dame will not create a ko threat at D2 and besides, you don't need one.]TR[dh])
+(;B[bf]C[This move is unnecessary, filling dame will not create a ko threat at D2 and besides, you don't need one.]TR[dh])
+(;B[af]C[No need to pass, black can win])
+(;B[ai]AW[ia]C[This also used to be the pass button]TR[ia])
+(;B[ee]C[This used to be the pass button]))

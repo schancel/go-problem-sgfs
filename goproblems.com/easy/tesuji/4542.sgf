@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[4k]DP[30]SO[guff]CO[5]AB[qp]AB[pp]AB[op]AB[np]AB[oq]AB[ql]AB[nr]AW[nq]AW[mq]AW[or]AW[pr]AW[pq]AW[qq]AP[goproblems]
+(;B[lq];W[mr];B[mp]C[RIGHT])
+(;B[mp];W[lq]C[Not too good. Look for the tesuji.])
+(;B[lo];W[mp];B[mo];W[lr]C[Not great. Keep looking for the tesuji.])
+(;B[mr];W[lq];B[lr];W[kq]C[It is hard to kill the corner quickly, so white can extend to here and then hane if black pushes one more time.])
+(;B[rq];W[rr];B[rp];W[mp]C[Uninspired. Look for the tesuji.])
+(;B[rr];W[rq];B[rp];W[sr];B[rs];W[mp]C[No.]))

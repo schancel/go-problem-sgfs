@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[40]SO[polo]CO[7]AW[cs][ds][cr][cq][cp][co][cn][dm][dl][el][fl][gm][gn][go][gp][fp][hq][hr]AB[fs][es][dr][dq][dp][do][dn][em][fm][fn][fo][eo][fq][gq]C[White to kill]SZ[19]
+
+(;W[gr];B[fr])
+(;W[gs];B[fr])
+(;W[ep];B[eq])
+(;W[er];B[fr];W[ep];B[eq])
+(;W[fr];B[gr];W[eq];B[er])
+(;W[eq]
+(;B[ep]C[CHOICE]
+(;W[fr];B[er];W[gr]C[RIGHT])
+(;W[gr];B[fr])
+(;W[er];B[fr])
+(;W[gs];B[fr]))
+(;B[er]C[CHOICE]
+(;W[gr];B[ep];W[fr]C[RIGHT])
+(;W[ep];B[gr])
+(;W[gs];B[ep]
+(;W[fr];B[gr])
+(;W[gr];B[fr]))
+(;W[fr];B[gr]))
+(;B[gr]C[CHOICE]
+(;W[er]C[RIGHT Double Damezumari, now black cannot atari])
+(;W[ep];B[er])
+(;W[fr];B[er])
+(;W[hs];B[er]))))

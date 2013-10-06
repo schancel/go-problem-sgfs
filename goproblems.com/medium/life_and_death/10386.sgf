@@ -1,0 +1,24 @@
+(;GE[life and death]DI[3d]DP[11]SO[marwin]CO[9]AW[rr]AW[rq]AW[qq]AW[pr]AB[pq]AB[pp]AB[qp]AB[rp]AB[po]AB[pn]AB[pm]AB[qm]AB[rm]AW[rl]AW[rk]AW[pl]AW[pk]AW[om]AW[on]AW[oo]AW[oq]AW[nq]AB[sr]AP[goproblems]
+(;B[qr]
+(;W[qs]C[Right, U had to force white to choose between A or B first.CHOICE]LB[qs:A]LB[rs:B];B[sq]
+(;W[rs]C[If white doesn't want to play the ko?CHOICE];B[ro]
+(;W[sp]C[CHOICE];B[qn];W[sn];B[sm]C[RIGHT])
+(;W[qn];B[sp];W[sn];B[sm];W[rn]C[This is best for both, if white doesn't wont to play the ko.RIGHT]))
+(;W[sm];B[rs]C[Ko is right. (best for both if white doesn't choose seki)RIGHT]))
+(;W[rs]LB[qs:A]LB[rs:B]C[Right, U had to force white to choose between A or B first.CHOICE];B[ro];W[sp];B[qn];W[sn];B[sm];W[so];B[sq]C[Good - white can get also ko.RIGHT]))
+(;B[sq];W[sm];B[qr];W[rs])
+(;B[ro];W[sp]
+(;B[qn];W[sn]
+(;B[sm];W[so];B[sq];W[ss];B[sq];W[sr];B[rn];W[sq]C[Amd now??])
+(;B[qr];W[sq];B[sm];W[so];B[rn];W[qs]C[]))
+(;B[qr];W[sq];B[qn];W[sn]))
+(;B[rn];W[sm];B[qo];W[so];B[sp];W[sn];B[qr];W[rs])
+(;B[so];W[rn])
+(;B[sn];W[ro])
+(;B[sm];W[sp];B[ro];W[qn]
+(;B[so];W[rn])
+(;B[rn];W[so]))
+(;B[rs];W[qr];B[ro];W[sp];B[qn];W[sn];B[sm];W[so])
+(;B[qs];W[qr])
+(;B[sp];W[sm];B[qr];W[rs];B[rn];W[qo])
+(;B[ps];W[qr];B[ro];W[sp];B[qn];W[sn];B[sm];W[so];B[sq];W[ss];B[sq];W[sr];B[rn];W[sq]))

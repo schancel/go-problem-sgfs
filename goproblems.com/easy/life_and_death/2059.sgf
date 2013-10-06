@@ -1,0 +1,56 @@
+(;GE[life and death]DI[4k]DP[30]SO[Hans]CO[8]
+C[White to live.
+]AW[nr][pr][qr][rr]
+AB[po][mp][op][jq][kq][mq][pq][qq][rq]
+(;W[os]
+(;B[sr]
+(;W[mr];B[lr];W[ms]C[RIGHT
+])
+
+(;W[rs];B[mr])
+
+(;W[qs];B[mr])
+
+(;W[oq];B[nq]
+(;W[mr];B[lr]
+(;W[ms];B[or]C[White can live unconditionally
+])
+
+(;W[or];B[ms])
+)
+
+(;W[or];B[mr])
+)
+)
+
+(;B[mr];W[sr]C[RIGHT
+])
+)
+
+(;W[or];B[sr];W[mr];B[lr]C[White is dead.
+])
+
+(;W[oq];B[nq]PL[W]
+(;W[os];B[sr];W[mr];B[lr];W[ms];B[or]
+C[White could have lived unconditionally.
+])
+
+(;W[or];B[sr])
+
+(;W[sr];B[or])
+)
+
+(;W[sr];B[or];W[os];B[oq]C[Only one eye.
+])
+
+(;W[mr];B[or]
+(;W[os];B[oq];W[lr];B[kr]C[There' s no eye on the left.
+])
+
+(;W[nq];B[oq];W[os];B[lr])
+)
+
+(;W[nq];B[oq];W[or];B[sr];W[mr];B[lr]C[White is dead.
+])
+
+)

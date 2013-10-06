@@ -1,0 +1,44 @@
+(;GE[endgame]DI[5k]DP[32]SO[adum]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+TM[30:00(5x1:00)]
+SY[Cgoban 1.9.2]
+DT[1999-07-28]
+GN[White (W) vs. Black (B)]
+PB[Black]
+PW[White]
+KM[5.5]
+HA[0]
+;C[Best endgame for black in the corner?
+]
+AB[no][qo][op][pp][nq][qq][rq][nr][rr]
+AW[mp][np][qp][mq][oq][pq][mr][or][qr]
+(;B[ps]
+(;W[ns]
+;B[pr]
+C[RIGHT]
+)(;W[os]
+;B[qs]
+C[Even better for Black as he has a big 
+ko-threat.]
+))(;B[qs]
+;W[jp]
+C[White plays tenuki.]
+LB[jp:T];B[pr]
+;W[ns]
+C[And later white can play A 
+practically forcing black to 
+connect sometime gaining a half 
+point compared to the correct 
+answer.]
+LB[ns:4][ps:A])(;B[rs]
+;W[ns]
+)(;B[ns]
+;W[pr]
+;B[qs]
+;W[ms]
+C[not optimal
+]
+))

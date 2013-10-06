@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[18k]DP[65]SO[adum]CO[8]AB[pc]AB[qf]AW[qc]AB[qd]AW[pb]AB[rc]AW[qb]AB[oc]AW[re]AB[rd]AW[rf]AW[qg]AW[qh]AB[qe]AW[oe]AB[of]AW[pf]AB[pg]AW[pe]AB[nf]AW[og]AB[ph]AW[qi]AB[oi]AW[oj]AB[ne]LB[ne:1]C[black plays 1. how should white answer?]AP[goproblems]
+(;W[oh];B[pi]
+(;W[ni];B[pj]
+(;W[pk];B[qj]
+(;W[rj]C[RIGHT])
+(;W[qk];B[rj]))
+(;W[qj];B[pk])
+(;W[nh];B[qj]))
+(;W[pj];B[ni]))
+(;W[pi];B[oh]
+(;W[ng];B[mg];W[nh];B[ni];W[mh];B[nj])
+(;W[ni];B[nh])
+(;W[nh];B[ni]))
+(;W[nd];B[od])
+(;W[pd];B[od])
+(;W[nh];B[ni])
+(;W[ni];B[ng];W[pi];B[oh];W[nh];B[og]C[not bad, but white could have done better])
+(;W[ng];B[ni])
+(;W[mg];B[ni])
+(;W[mh];B[ni])
+(;W[od];B[nd])
+(;W[rb];B[ni])
+(;W[sd];B[ni])
+(;W[pj];B[ni])
+(;W[nc];B[ni]
+(;W[ob];B[od])
+(;W[od];B[nd])
+(;W[nd];B[od]))
+(;W[ob];B[ni];W[nc];B[od]))

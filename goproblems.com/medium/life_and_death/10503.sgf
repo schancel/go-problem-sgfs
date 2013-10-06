@@ -1,0 +1,38 @@
+(;GE[life and death]DI[1k]DP[18]SO[symplicity]CO[9]AB[cb]AB[cc]AB[dc]AW[db]AW[da]AW[ec]AW[fc]AW[gc]AB[hc]AB[hd]AB[jc]AB[lc]AB[kb]AW[ed]AW[ee]AW[fe]AW[gd]AB[de]AB[he]AB[gf]AB[eg]AB[fa]TR[fa]C[Black attempts to kill. Defend yourself.]AB[gh]AB[ce]AB[ef]AP[goproblems]
+(;W[ga];B[gb]
+(;W[hb];B[ha]
+(;W[ib];B[ic]
+(;W[fb];B[jb]
+(;W[ga]C[Ko is best. White gets first capture.RIGHT])
+(;W[ea];B[ia];W[ga]C[Ko is best, but unnecessary sacrifice of 2 stones and waste of internal ko threat.]))
+(;W[ia];B[ja]C[];W[ga];B[fb];W[eb];B[ha]C[Black gets first capture.]))
+(;W[fb];B[ib]))
+(;W[fb];B[ha]))
+(;W[fb];B[ha]
+(;W[ga];B[gb])
+(;W[hb];B[ib]
+(;W[gb];B[ga])
+(;W[ga];B[gb]))
+(;W[gb];B[ga])
+(;W[ea];B[ga];W[hb];B[ib]))
+(;W[gb];B[eb]
+(;W[fb];B[ca];W[ga];B[ea])
+(;W[ga];B[ca]))
+(;W[ea];B[ha])
+(;W[hb];B[eb]
+(;W[ga];B[ca]
+(;W[fb];B[ea];W[ib];B[ia])
+(;W[ib];B[ia]))
+(;W[fb];B[ca]
+(;W[ga];B[ea];W[ib];B[ia])
+(;W[ib];B[ga])
+(;W[ea];B[eb]))
+(;W[ib];B[ga]
+(;W[fb];B[ca])
+(;W[ha]C[Death in gote. Triangles are dead and A and B are miai to destroy the second eye.]LB[ja:A]LB[jb:B]TR[db]TR[da])
+(;W[jb]C[Death in gote. Triangles are dead and A and B are miai to destroy the second eye.]TR[da]TR[db]LB[ha:A]LB[ja:B])
+(;W[ja]C[Death in gote. Triangles are dead and A and B are miai to destroy the second eye.]LB[ha:A]LB[jb:B]TR[db]TR[da])))
+(;W[eb];B[hb])
+(;W[ha];B[hb]
+(;W[ga];B[gb])
+(;W[gb];B[ga])))

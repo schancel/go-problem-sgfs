@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[20k]DP[74]SO[kochi]CO[7]AB[jc]AB[jb]AB[gc]AB[fc]AB[ec]AW[ed]AW[fd]AW[hd]AW[gd]AW[ib]AW[jd]AW[ld]AW[md]AW[kc]AW[ie]AB[cc]AB[bb]AB[ca]AB[db]AW[bc]AW[ac]AW[bd]AW[cd]AW[ae]C[B to connect.]AP[goproblems]
+(;B[hb];W[ic]
+(;B[ia];W[kb]C[you connected, but you lost points.])
+(;B[hc];W[ia])
+(;B[ha];W[ia]))
+(;B[hc];W[ic]
+(;B[hb];W[ia])
+(;B[ia];W[ha]))
+(;B[ic];W[hc];B[hb];W[kb]C[That's all there is to it.RIGHT])
+(;B[kb];W[hb])
+(;B[gb];W[ic])
+(;B[ha];W[ic];B[ia];W[hb]
+(;B[ga];W[gb];B[fb])
+(;B[gb];W[kb]C[you connected, but you lost points.])))

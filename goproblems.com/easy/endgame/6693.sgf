@@ -1,0 +1,29 @@
+(;GE[endgame]DI[10k]DP[54]SO[MrMoto]CO[5]AB[ds]AB[cs]AB[bs]AB[br]AB[cq]AB[cp]AB[bo]AB[bn]AB[am]AB[bl]AB[ak]AB[bj]AB[ck]AW[es]AW[dr]AW[cr]AW[dq]AW[dp]AW[do]AW[fs]AW[gr]AW[fq]AW[cn]AW[cm]AW[bm]AW[cl]AW[dl]AW[en]AW[em]C[The rest of the board is settled.  What can white get out of this?]AB[dj]AW[ek]AW[ej]AB[di]AP[goproblems]
+(;W[co]
+(;B[bp]C[One point.  Good work! ;)CHOICERIGHT])
+(;B[dk]C[(Suppose black passes ... what now?)CHOICE]
+(;W[bq];B[bp]
+(;W[aq];B[ap];W[an];B[ar];W[al]C[White gets a koRIGHT])
+(;W[an];B[ao]))
+(;W[bp];B[bq];W[ap];B[aq];W[an];B[ao])
+(;W[an];B[ao]
+(;W[bp];B[bq])
+(;W[bq]
+(;B[bp];W[aq]C[Black can't descend with either group.  White gets the corner!RIGHT])))
+(;W[ap];B[bp])
+(;W[aq];B[bq])))
+(;W[bq];B[bp]
+(;W[aq];B[ap]
+(;W[co];B[ar]C[That works.  White gets a point.RIGHT])
+(;W[an];B[ao];W[co];B[ar]C[1 pointRIGHT]))
+(;W[an];B[ao]
+(;W[aq];B[ap]C[1 pointRIGHT])
+(;W[co];B[aq]C[1 pointRIGHT])))
+(;W[bp];B[co]
+(;W[bq];B[ap])
+(;W[ap];B[ao]))
+(;W[an];B[ao]
+(;W[co];B[bp]C[1 pointRIGHT])
+(;W[bq];B[bp]
+(;W[aq];B[ap]C[1 pointRIGHT])
+(;W[co];B[aq]C[1 pointRIGHT]))))

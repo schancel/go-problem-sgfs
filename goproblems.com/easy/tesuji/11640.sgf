@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[8k]DP[46]SO[Piccolo]CO[0]AB[oc]AW[qd]AB[pe]AW[qe]AB[pf]AB[jc]AW[pg]AW[qg]AB[og]AW[oh]AB[ng]AW[nh]AB[mg]AW[qf]AB[je]C[Please follow the marked stones first (P16 is said to be the key point for both players)FORCE]TR[od]AP[goproblems];W[od];B[pd]TR[pc]C[FORCE];W[pc];B[pb]TR[qc]C[FORCE];W[qc];B[nd]TR[ob]C[FORCE];W[ob];B[nc]TR[nb]C[FORCE];W[nb];B[mb]TR[qb]C[FORCE];W[qb];B[na]TR[pa]C[FORCE];W[pa]
+(;B[jd]C[Now, black could not play elswhere, he had to defend. What can you do if he tenuki ?]
+(;W[ne];B[oe];W[mc];B[md];W[lc];B[lb];W[ld]LB[kb:A]LB[me:B]C[A and B are miai, well doneRIGHT])
+(;W[mc];B[md]
+(;W[ne];B[oe])
+(;W[lc];B[lb]
+(;W[ne];B[oe])
+(;W[kb];B[kc]
+(;W[ne];B[oe];W[ld];B[le]C[])
+(;W[ld];B[le];W[ne];B[oe];W[me];B[kd]C[]))
+(;W[ld];B[kc]
+(;W[ne];B[me];W[of]C[RIGHT])
+(;W[le];B[ne]C[])
+(;W[of];B[oe];W[ne];B[nf];W[me]C[RIGHT]))))))

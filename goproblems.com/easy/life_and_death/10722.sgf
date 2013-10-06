@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[45]SO[zafris]CO[8]AB[aa]AB[bb]AB[ab]AB[ac]AB[cc]AB[cd]AB[bd]AB[be]AB[bf]AB[cf]AB[gf]AB[ge]AB[gd]AB[hd]AB[ic]AB[hb]AB[jc]AB[jb]AB[ia]AB[ga]AB[fb]AW[ba]AW[ca]AW[cb]AW[db]AW[dc]AW[dd]AW[de]AW[ce]AW[fe]AW[fd]AW[fc]AW[gc]AW[hc]AW[gb]AB[gg]AB[dg]AB[eg]AB[fg]AW[ef]AW[ff]AW[df]AB[ee]AB[ed]C[White to live.]AP[goproblems]
+(;W[ea]
+(;B[fa]
+(;W[eb];B[ha]C[RIGHT])
+(;W[ec];B[ha];W[eb]C[Alive, but one less point than the other possible variation. Thanks to Song17 for this sequence.RIGHT]))
+(;B[eb];W[ec];B[fa];W[ha]C[RIGHT]))
+(;W[eb];B[ea];W[fa]C[ko, but white can live without ko])
+(;W[fa];B[ea];W[eb];B[fa]))

@@ -1,0 +1,10 @@
+(;GE[endgame]DI[5k]DP[35]SO[—´000]CO[0]SZ[5]AB[cd]AB[dd]AB[ed]AB[ec]AW[ca]AW[bb]AW[cc]AW[dc]AW[eb]AP[goproblems]
+(;B[bd];W[db]
+(;B[ac];W[ab];B[bc]C[RIGHT])
+(;B[bc];W[ac];B[ad];W[ab])
+(;B[ab];W[ac];B[bc];W[aa];B[ad];W[ab]))
+(;B[db];W[bd];B[be];W[ad])
+(;B[ad];W[bd];B[be];W[bc];B[db];W[da];B[ea];W[cb];B[eb];W[de];B[ce];W[ac])
+(;B[be];W[bd];B[ad])
+(;B[ac];W[bd];B[be];W[ad])
+(;B[bc];W[bd]))

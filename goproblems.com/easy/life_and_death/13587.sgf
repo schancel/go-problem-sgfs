@@ -1,0 +1,4 @@
+(;GE[life and death]DI[30k]DP[82]SO[gobluesky]CO[0]AB[ra]AB[sb]AB[qb]AB[rc]LB[dd:could white eat black?]LB[hd:yes]LB[hf:no]C[Can Black ever be killed if he doesn't respond to any White moves?FORCE]AP[goproblems]
+(;W[hd]AW[qa]AW[pa]AW[pb]AW[qc]AW[rd]AW[sd]AW[sc]C[right, deadRIGHT])
+(;W[hf]AW[qc]AW[rd]AW[sd]AW[sc]AW[pb]AW[pa]AW[qa]C[wrong, dead])
+(;W[rf]C[use this to explore freely the situation]))

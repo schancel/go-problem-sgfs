@@ -1,0 +1,21 @@
+(;GE[elementary]DI[10k]DP[54]SO[samthedude]CO[6]AB[rb]AB[qc]AB[rd]AB[re]AB[rf]AB[qg]AB[rh]AB[sg]AB[sh]AB[si]AB[pj]AB[pk]AB[qk]AB[oi]AB[oh]AB[ng]AB[mf]AB[me]AB[md]AB[mc]AB[nd]AB[od]AB[nb]AB[ob]AB[pc]AB[mh]AB[ni]AB[mi]AB[nj]AB[mj]AB[mk]AB[ml]AB[nm]AB[nn]AB[mn]AB[mo]AB[mp]AW[mq]AW[mr]AW[nr]AW[np]AW[no]AW[oq]AW[on]AW[om]AW[ol]AW[ok]AW[oj]AW[nk]AW[nl]AW[pi]AW[qh]AW[qj]AW[ri]AW[rk]AW[sj]AW[pg]AW[og]AW[ph]AW[nf]AW[ne]AW[oe]AW[pd]AW[qd]AW[qe]AW[qf]AW[rc]AW[pp]AW[qq]AB[lp]AB[lq]AB[lr]AB[lg]AB[lh]AB[li]AW[lf]AW[le]AW[ld]AW[lc]AW[lb]AW[mb]TR[pj]TR[pk]TR[qk]C[The three triangle stones were dead a long time ago, but it has agi. Make white regret leaving those there.]AB[rg]AP[goproblems]
+(;B[pf]
+(;W[pe]C[];B[of];W[qi]
+(;B[rj]C[The aji definitely tasted good for black!RIGHT])
+(;B[rl];W[rj]C[Just kill it...];B[sk]C[Yay!RIGHT]))
+(;W[of]C[];B[pe];W[qi]
+(;B[rj]C[That aji didn't taste well for white....RIGHT])
+(;B[rl];W[rj]C[Yeah... kill it.];B[sk]C[Sorry white...RIGHT]))
+(;W[ql]C[CHOICE]
+(;B[of];W[pe])
+(;B[pe];W[pl];B[of]C[RIGHT])))
+(;B[qn];W[ql])
+(;B[qm];W[ql])
+(;B[rl];W[ql])
+(;B[pl];W[ql];B[pm];W[qm];B[pn];W[oo];B[qn];W[rn];B[ro];W[qo];B[rm];W[po])
+(;B[ql];W[rl];B[qm];W[rm];B[qn];W[rn];B[qo];W[ro];B[qp];W[rp];B[oo];W[po];B[pn];W[op])
+(;B[pm];W[qm]
+(;B[pl];W[pn];B[ql];W[rl])
+(;B[pn];W[pl]))
+(;B[pe];W[pf])
+(;B[of];W[pf]))

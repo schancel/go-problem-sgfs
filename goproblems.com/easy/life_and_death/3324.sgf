@@ -1,0 +1,29 @@
+(;GE[life and death]DI[6k]DP[38]SO[unkx80]CO[9]AB[ca]AB[cb]AB[cc]AB[dc]AB[ec]AB[ed]AB[ee]AB[ef]AB[ff]AB[de]AB[cd]AW[db]AW[eb]AW[fc]AW[fd]AW[fe]AB[ge]AW[gf]AW[hf]AW[ie]AW[ic]AW[fg]AW[eg]AW[dg]AW[df]AW[ba]AW[bb]AW[bc]AW[be]AW[bd]AW[ce]C[Black to play.]AP[goproblems]
+(;B[fb];W[gb]
+(;B[fa]
+(;W[ga]
+(;B[gc];W[ea]
+(;B[fb];W[fa]
+(;B[gd];W[fb]
+(;B[hb]C[Black captures everything.RIGHT])
+(;B[hc];W[hb]))
+(;B[hb];W[gd])
+(;B[hc];W[hb]))
+(;B[gd];W[fb]
+(;B[hb];W[hc])
+(;B[hc];W[hb]))
+(;B[hb];W[gd]))
+(;B[gd];W[gc])
+(;B[da];W[ea]))
+(;W[gc];B[da]C[Optimal play for both players.RIGHT]))
+(;B[gc];W[fa];B[gd];W[fb])
+(;B[gd];W[gc])
+(;B[da];W[fa]))
+(;B[gd];W[gb]
+(;B[gc];W[fb])
+(;B[fb];W[gc]))
+(;B[gc];W[gb]
+(;B[gd];W[fb])
+(;B[fb];W[fa];B[gd];W[fb]))
+(;B[gb];W[fb])
+(;B[da];W[fb]))

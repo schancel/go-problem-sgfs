@@ -1,0 +1,59 @@
+(;GE[life and death]DI[3d]DP[9]SO[Berk]CO[7]SZ[19]AW[ma]AW[na]AW[kb]AW[mb]AW[dc]AW[kc]AW[lc]AW[hd]AW[kd]AW[nd]AW[ce]AW[ee]AW[je]AW[ne]AW[oe]AW[pe]AW[qe]AW[jf]AW[nf]AW[dg]AW[ig]AW[jg]AW[kg]AW[ng]AW[og]AW[pg]AW[qg]AW[fh]AW[ih]AW[oh]AW[rh]AW[hi]AW[ii]AW[ji]AW[li]AW[ni]AW[qi]AW[dj]AW[hj]AW[mj]AW[nj]AW[oj]AW[qj]AW[rj]AW[gk]AW[hk]AW[ik]AW[pk]AW[cl]AW[dl]AW[el]AW[fl]AW[jl]AW[ml]AW[nl]AW[ol]AW[dm]AW[em]AW[im]AW[nm]AW[qm]AW[bn]AW[cn]AW[en]AW[fn]AW[mn]AW[qn]AW[bo]AW[eo]AW[fo]AW[no]AW[ro]AW[bp]AW[cp]AW[mp]AW[np]AW[pp]AW[bq]AW[gq]AW[hq]AW[lq]AW[mq]AW[pq]AW[br]AW[cr]AW[hr]AW[lr]AW[nr]AW[pr]AW[cs]AW[gs]AW[ns]AW[os]AW[ps]AB[oa]AB[nb]AB[ob]AB[mc]AB[nc]AB[ld]AB[md]AB[od]AB[pd]AB[qd]AB[ke]AB[me]AB[re]AB[kf]AB[mf]AB[of]AB[pf]AB[qf]AB[rf]AB[lg]AB[mg]AB[rg]AB[jh]AB[kh]AB[mh]AB[nh]AB[sh]AB[ki]AB[mi]AB[pi]AB[fj]AB[ij]AB[jj]AB[kj]AB[lj]AB[sj]AB[fk]AB[jk]AB[lk]AB[qk]AB[rk]AB[gl]AB[hl]AB[il]AB[ll]AB[pl]AB[ql]AB[bm]AB[cm]AB[fm]AB[gm]AB[jm]AB[lm]AB[mm]AB[om]AB[rm]AB[dn]AB[gn]AB[in]AB[ln]AB[nn]AB[on]AB[pn]AB[rn]AB[co]AB[do]AB[go]AB[ko]AB[oo]AB[qo]AB[dp]AB[ep]AB[fp]AB[hp]AB[jp]AB[lp]AB[op]AB[qp]AB[cq]AB[dq]AB[fq]AB[iq]AB[jq]AB[kq]AB[nq]AB[oq]AB[qq]AB[dr]AB[fr]AB[gr]AB[ir]AB[kr]AB[or]AB[qr]AB[ds]AB[qs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]HA[2]KM[5.50]PW[White]PB[Black]PL[B]
+(;B[pj];W[ok]
+(;B[mk];W[oi]
+(;B[ph];W[si]C[];B[ri];W[po]
+(;B[pm];W[si]
+(;B[ka]C[];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[nk];W[qh]
+(;B[pi];W[sk]C[O9 wasn't a ko threat, it accomplished nothing.])
+(;B[ri];W[pi]C[O9 wasn't a ko threat, it accomplished nothing.]))
+(;B[lb];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[la];W[sk]C[The threat against the N19 group is too small, white ignores it.]))
+(;B[si];W[pm]C[Oops, you wouldn't really miss that one, the sun must have been in your eyes.])
+(;B[qh];W[pm]C[Ouch, that hurt.]))
+(;B[si];W[ph];B[ri]C[By avoiding any ko fights black wins.RIGHT])
+(;B[ri];W[si]
+(;B[ka];W[sk])
+(;B[qh];W[ph];B[ri];W[po]
+(;B[pm];W[si]
+(;B[ka];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[lb];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[la];W[sk]C[The threat against the N19 group is too small, white ignores it.]))
+(;B[qh];W[pm]C[You can't ignore that.])
+(;B[si];W[pm]C[The pain.])))
+(;B[qh];W[ph]
+(;B[ri];W[si]
+(;B[ka];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[lb];W[sk]C[The threat against the N19 group is too small, white ignores it.])
+(;B[la];W[sk]C[The threat against the N19 group is too small, white ignores it.]))
+(;B[si];W[ri])))
+(;B[ph];W[mk])
+(;B[si];W[mk]
+(;B[ph];W[oi])
+(;B[oi];W[ph])))
+(;B[mk];W[pj]C[]
+(;B[ph];W[nk])
+(;B[nk];W[ph]
+(;B[ri];W[si]C[Black doesn't have a large enough ko threat.])
+(;B[si];W[ri])
+(;B[ok];W[ri]C[Good, but not good enough.]))
+(;B[ok];W[nk])
+(;B[si];W[nk])
+(;B[qh];W[ph]))
+(;B[ok];W[pj])
+(;B[oi]
+(;W[pj]C[]
+(;B[ri];W[qh])
+(;B[ph];W[qh])
+(;B[qh];W[ph]))
+(;W[qh]C[]))
+(;B[ph];W[pj])
+(;B[ri];W[si]
+(;B[pj];W[ok];B[ri];W[po]
+(;B[pm];W[si]
+(;B[mk];W[sk])
+(;B[qh];W[ph];B[ri];W[oi]
+(;B[qh];W[mk])
+(;B[mk];W[si])))
+(;B[qh];W[pm]))
+(;B[qh];W[ph])))

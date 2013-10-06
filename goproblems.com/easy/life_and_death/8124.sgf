@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4k]DP[30]SO[kimochi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[lm][ln][nn][rn][lo][oo][qo][mp][qp][nq][oq][rq]AB[ql][mm][nm][om][rm][pn][qn][lp][lq][mq][pq][qq][nr][or][rr]
+(;B[mo]CR[mo]
+;W[mn]CR[mn]
+;B[op]CR[op]
+;W[po]CR[po]
+;B[np]CR[np]C[White Connects])
+(;B[po]CR[po]
+;W[pp]CR[pp]
+;B[np]CR[np]
+;W[op]CR[op]
+;B[mo]CR[mo]
+;W[mn]CR[mn]C[White Connects])
+(;B[pp]CR[pp]
+;W[po]CR[po]
+;B[op]CR[op]
+;W[mn]CR[mn]C[White Connects])
+(;B[op]CR[op]
+(;W[mn]CR[mn]C[CHOICE]
+(;B[po]CR[po]
+;W[np]CR[np]
+;B[pp]CR[pp]C[RIGHT])
+(;B[no]CR[no]C[RIGHT]))
+(;W[np]CR[np]C[CHOICE]
+;B[mo]CR[mo]
+;W[mn]CR[mn]
+;B[no]CR[no]
+;W[on]CR[on]
+;B[po]CR[po]C[RIGHT])
+(;W[po]CR[po]C[CHOICE]
+;B[no]CR[no]
+;W[on]CR[on]
+;B[mn]CR[mn]
+;W[mo]CR[mo]
+;B[np]CR[np]C[RIGHT])))

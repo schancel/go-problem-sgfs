@@ -1,0 +1,49 @@
+(;GE[life and death]DI[1k]DP[19]SO[mysandbox]CO[0]AB[qe]AB[re]AB[se]AB[qd]AB[pd]AB[oc]AB[nc]AB[od]AW[pc]AW[qc]AW[rc]AW[rd]AW[sd]C[]AP[goproblems]
+(;B[pb];W[qb])
+(;B[ra]
+(;W[pb]C[if white play R18 instead, B P18 will kill it];B[sb];W[rb];B[qa]
+(;W[ob];B[nb];W[oa])))
+(;B[sb]
+(;W[ob]C[this is the only move for white.];B[nb]
+(;W[pb];B[rb]
+(;W[ra]
+(;B[qa];W[qb];B[sa]C[RIGHT];W[oa]C[RIGHT])
+(;B[oa];W[pa];B[sa]
+(;W[qb];B[qa]C[koRIGHT])
+(;W[nf]
+(;B[qb];W[na];B[ma];W[mb];B[oa];W[me];B[ne])
+(;B[na]
+(;W[qb];B[qa])
+(;W[qa]))))))
+(;W[pa]C[RIGHT];B[ra];W[rb]
+(;B[qa];W[qb];B[na];W[sa];B[ra];W[oa])
+(;B[na];W[qa];B[pb]C[direct ko for B but W have local threat at R18RIGHT])))
+(;W[pb];B[rb];W[ra]
+(;B[qa];W[qb];B[sa];W[ob];B[nb]C[RIGHT];W[oa]C[sekiRIGHT])
+(;B[ob];W[pa]
+(;B[sa];W[qb];B[qa]C[koRIGHT])
+(;B[qb]C[RIGHT];W[qa]C[sekiRIGHT]))))
+(;B[rb];W[qb]
+(;B[ob];W[sb])
+(;B[sb];W[ob]))
+(;B[qa];W[ra]
+(;B[pb];W[qb])
+(;B[sb];W[pb];B[pa];W[ob]
+(;B[nb];W[oa])
+(;B[oa];W[na];B[nb];W[qb])))
+(;B[pa]
+(;W[pb]
+(;B[ob];W[qa];B[rb];W[sb])
+(;B[ra];W[ob];B[nb];W[oa])))
+(;B[qb];W[pb];B[rb];W[sb])
+(;B[ob];W[pb]
+(;B[qa]
+(;W[sb]
+(;B[ra];W[pa])
+(;B[pa];W[ra])))
+(;B[sb];W[rb];B[qa];W[pa];B[ra]C[seki in goteRIGHT]))
+(;B[oa];W[pb]
+(;B[pa];W[ob];B[nb];W[qa];B[rb];W[na])
+(;B[sb];W[rb];B[qa];W[pa];B[ra]C[seki and black can tenuki, if w play t17 to make ko then B will play T19 and it will be direct ko for black at the end. but this is gote for Black and you can do betterRIGHT])
+(;B[ra];W[qa];B[rb];W[sb])
+(;B[qa];W[sb]C[W is alive])))

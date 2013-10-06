@@ -1,0 +1,51 @@
+(;GE[best move]DI[6d]DP[2]SO[smartaleck]CO[0]SZ[7]AB[dd]AB[de]AB[ec]AB[eb]AB[cf]AB[df]AW[ce]AW[cd]AW[cc]AW[dc]AW[bf]AW[ed]AB[db]AP[goproblems]
+(;W[fd]
+(;B[ee]C[CHOICE]
+(;W[fe];B[ff]
+(;W[bg];B[cg];W[cb];B[da];W[ca];B[fc]C[RIGHT])
+(;W[cg];B[dg]
+(;W[bg];B[fc];W[cb];B[ca];W[ba];B[da];W[bb]C[black wins 9 points.])
+(;W[fg];B[bg];W[gf];B[cb];W[be];B[ef];W[fc];B[fb];W[gb];B[gc];W[gd];B[fa]))
+(;W[fg];B[bg];W[gf];B[be]
+(;W[cb];B[bd];W[bc];B[fc];W[ef];B[af])
+(;W[af];B[ef];W[fb];B[fc];W[gc];B[cb];W[bd];B[gb];W[ga];B[gd];W[ge];B[eg]))
+(;W[cb];B[bg];W[da];B[fc];W[ea];B[fa];W[ca];B[ge];W[af];B[ad];W[bd];B[ab];W[bc];B[ac];W[bb];B[cg];W[ae]C[black wins 9 points.]))
+(;W[cb];B[bg];W[da];B[fc]
+(;W[ea];B[fa];W[ca];B[fe];W[af];B[ad];W[bd];B[ab];W[bc];B[ac];W[bb];B[cg];W[ae];B[ag];W[aa]C[black wins 9 points.])
+(;W[fa];B[be])))
+(;B[bg];W[ff]C[black can't win more than 7 points. see 7x7 go board problem #2RIGHT]))
+(;W[bg];B[fd])
+(;W[cb];B[fd])
+(;W[fe];B[ff]
+(;W[bg];B[fd];W[cb];B[ca];W[ba];B[da];W[cg];B[dg];W[bb]C[black wins 9 points])
+(;W[fc];B[ee];W[fd];B[fb];W[bg];B[cg];W[cb];B[ca];W[ba];B[da];W[gf];B[fg];W[gb];B[bb];W[bc];B[aa];W[ac];B[gc];W[gd];B[gg];W[ab];B[ba]))
+(;W[ee];B[ef]
+(;W[ff];B[fg]
+(;W[fd];B[gf];W[ge];B[fe];W[fc];B[gd])
+(;W[gf];B[fc];W[fe];B[bg];W[be];B[fd])
+(;W[fe];B[bg]
+(;W[be];B[gd])
+(;W[ae];B[gd];W[eg];B[dg]
+(;W[ag];B[af];W[fc];B[be])
+(;W[cb];B[fd];W[da];B[ea];W[ca];B[gf];W[ac]C[black wins 9 points.]))
+(;W[fc];B[fb]
+(;W[be];B[gd])
+(;W[gb];B[gd];W[gc];B[cb]
+(;W[be];B[gf];W[fd];B[bc];W[cg];B[dg]
+(;W[ag];B[af];W[ae];B[ad];W[ag];B[ga])
+(;W[ge];B[af];W[ae];B[ad];W[ag];B[ga])
+(;W[bb];B[fa];W[ge];B[af];W[ac];B[ga];W[gg];B[ae];W[bd];B[gf])
+(;W[af];B[bd]
+(;W[ge];B[ae];W[ad];B[ac])
+(;W[bb];B[fa];W[ge];B[ga];W[gg];B[ae])))
+(;W[ae];B[gf]
+(;W[fd];B[fa];W[ge];B[ga];W[gg];B[eg])
+(;W[eg];B[dg];W[fd];B[fa];W[ge];B[ga];W[gg];B[be])))
+(;W[gd];B[be]C[];W[cb];B[gb];W[gc];B[ba]
+(;W[ca];B[bb];W[bc];B[da];W[ab];B[fa])
+(;W[bb];B[ca];W[da];B[ea];W[bd];B[af];W[aa];B[ab];W[ac];B[gf])
+(;W[af];B[ae];W[bb];B[ca];W[da];B[ea];W[aa];B[ab];W[ac];B[bd];W[aa];B[ge])))
+(;W[af];B[be];W[bd];B[gd])
+(;W[cg];B[gd];W[ag];B[eg];W[gf];B[fd];W[fc];B[fb]))
+(;W[fc]C[NOTTHIS]))
+(;W[fc]C[NOTTHIS])))

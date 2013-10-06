@@ -1,0 +1,84 @@
+(;GE[life and death]DI[3d]DP[11]SO[lok]CO[0]SZ[19]AW[rl]AW[nn]AW[on]AW[pn]AW[qn]AW[rn]AW[mo]AW[qo]AW[mp]AW[mq]AW[lr]AW[nr]AB[oo]AB[ro]AB[qp]AB[sp]AB[qq]C[White to kill.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[tsumego brice]PL[W]
+(;W[qs]
+(;B[rs]C[CHOICE]
+(;W[sr]
+(;B[ps]C[CHOICE]
+(;W[pr];B[qr]
+(;W[or]
+(;B[sq]C[CHOICE];W[sn];B[rr];W[rp]C[Well done!!RIGHT])
+(;B[sn];W[rq]C[]))
+(;W[pq];B[rr];W[sn];B[sq];W[rp]C[Well done!!RIGHT])
+(;W[rr];B[or]C[Q2 is captured, black lives.])
+(;W[rq];B[rr];W[sq];B[or]C[Q2 is captured, black lives.])
+(;W[sn];B[or]C[Q2 is captured, black lives.])
+(;W[oq]C[It is boring to forbid all these stupid moves.NOTTHIS])
+(;W[pp]C[Nothing here.NOTTHIS])
+(;W[op]C[Here? Why?NOTTHIS])
+(;W[po]C[Nice shape.NOTTHIS])
+(;W[np]C[I wonder what kind of twisted mind would think of playing here.NOTTHIS])
+(;W[no]C[What a  ladder breakerNOTTHIS]))
+(;W[qr];B[pr];W[rr];B[rq])
+(;W[rr];B[qr]
+(;W[ss];B[rq])
+(;W[rq];B[rp]MA[qs]C[R1 is an eye, so black is alive.]))
+(;W[rq];B[rr];W[pr];B[sq]))
+(;B[rr]C[CHOICE];W[sn];B[oq]
+(;W[ps];B[pr]
+(;W[pp];B[os];W[or]C[Well done !! RIGHT])
+(;W[os]))
+(;W[pr];B[or];W[os];B[pq]
+(;W[ns];B[po];W[op];B[np]
+(;W[nq];B[pp];W[no]C[Well done !! RIGHT])
+(;W[no]C[Well done !! RIGHT]))
+(;W[ps]C[NOTTHIS]))
+(;W[or];B[pr];W[ps];B[pp])
+(;W[os];B[pr];W[ps];B[pp])))
+(;W[rr];B[ps]
+(;W[pr];B[qr]
+(;W[rq];B[sr])
+(;W[sr];B[or]TR[pr]C[Q2 is captured, black lives.]))
+(;W[qr];B[pr];W[rq];B[rp]C[Black lives]))
+(;W[ps];B[rr]C[Black is alive]))
+(;B[ps]C[CHOICE]
+(;W[pr];B[rs]
+(;W[sr])
+(;W[qr];B[rr])
+(;W[rr]))
+(;W[rr];B[pr]C[Black has enough eyes space to live]))
+(;B[pr]C[Another black defense.];W[ps];B[os];W[or];B[rs];W[sr];B[qr];W[ps]C[])
+(;B[rq]C[Another black defense.];W[rs];B[sr];W[rr];B[pr];W[ps];B[or];W[os];B[oq];W[pp]C[]))
+(;W[sr]
+(;B[rr]
+(;W[qs];B[rs])
+(;W[pr];B[rq];W[rs]))
+(;B[pr]C[Another defense];W[rr];B[rq];W[sn])
+(;B[rq]C[Another defense.];W[qs])
+(;B[qr];W[ps]))
+(;W[rs];B[pr]
+(;W[ps];B[os]
+(;W[or];B[qs];W[rr];B[rq];W[qr];B[pq];W[ps]C[Ko is not enough.])
+(;W[rr];B[rq];W[or];B[qs]))
+(;W[rq];B[rr];W[sr];B[qr]C[Black lives])
+(;W[rr];B[rq];W[ps];B[os]))
+(;W[rr];B[rq]
+(;W[qs];B[pr];W[ps];B[os];W[or];B[rs];W[ns];B[sr];W[ss]C[Ko is not enough.])
+(;W[qr];B[pr]
+(;W[pq];B[ps]
+(;W[or];B[oq])
+(;W[oq];B[sr]))
+(;W[ps];B[os];W[or];B[qs]
+(;W[pq]C[Ko])
+(;W[rs]C[])))
+(;W[sr];B[qr]
+(;W[sn];B[sq];W[so];B[or]
+(;W[os];B[ps];W[oq];B[pq];W[pr]C[Ko.])
+(;W[oq];B[os]C[Black lives.]))
+(;W[ps];B[sq]))
+(;W[pr];B[qr];W[qs];B[rs];W[ss];B[sr];W[sq]C[Ko])
+(;W[ps];B[qr];W[qs];B[rs];W[ss];B[sr]
+(;W[rs];B[os]C[If white doesnt want to fight the ko...];W[pr];B[or];W[pq];B[oq];W[pp];B[po];W[sq]C[The ko grows bigger.])
+(;W[sq]C[Ko])))
+(;W[pr];B[rq]
+(;W[rs];B[rr];W[sr];B[qs];W[qr];B[ss]C[Ko])
+(;W[rr]))
+(;W[ps];B[rr];W[rs];B[qs];W[qr];B[pr];W[os];B[qs]C[Ko]))

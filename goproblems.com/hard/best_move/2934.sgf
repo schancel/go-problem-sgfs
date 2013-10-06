@@ -1,0 +1,62 @@
+(;GE[best move]DI[5d]DP[6]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[Blanc]PB[Noir]AW[cc][bd][cd][dd][ce][de][ee][fe][he][ef][gf][if][cg][gg][ch][dh][eh][gh][di][gi]AB[db][dc][ed][fd][gd][hd][be][ge][bf][cf][df][ff][bg][dg][eg][fg][fh][ei][fi]LB[ha:Y][ia:N][bf:?]C[Can White kill the black group on B4? Play on Y(es) or N(o) to start.]PL[B]
+(;B[ia]
+;W[bh]C[Let's see how you can defend you group now.]
+(;B[ah]
+;W[ag]
+(;B[af]
+;W[bi]
+(;B[cb]
+;W[ad]
+;B[ac]
+(;W[bb]C[CHOICE]
+(;B[ba]C[ White cannot do anything against the black group.RIGHT])
+(;B[ab]
+;W[ba]C[Seki ! a strange one, but seki anyway.RIGHT]))
+(;W[ab]C[CHOICE]
+;B[bb]
+;W[bc]C[ White cannot do anything against the black group.RIGHT]))
+(;B[ad]
+;W[ac]
+;B[cb]
+;W[ae]C[And now, where to find your ko-threat ? :p]))
+(;B[bi]
+;W[ai]C[And now, where to find your ko-threat ? :p ... Next move, play at A5 to capture or connect and capture later. You lose.]))
+(;B[cb]
+;W[ad]
+(;B[ac]
+;W[bb]
+(;B[ae]
+;W[bc]
+(;B[ba]
+;W[ab]
+(;B[ca]
+;W[ag]C[You lose.])
+(;B[ah]
+;W[ag]C[You lose.]))
+(;B[ah]
+;W[ag]C[You lose.]))
+(;B[ba]
+;W[ag]C[You lose.])
+(;B[ah]
+;W[ag]
+(;B[af]
+;W[bi]
+;B[ba]C[ White cannot do anything against the black group.RIGHT])
+(;B[bi]CR[bi]
+;W[ai]CR[ai]
+;B[bc]CR[bc]
+;W[ab]CR[ab]
+;B[ah]CR[ah]
+;W[ec]CR[ec]
+;B[ci]CR[ci]C[RIGHT White could not do anything against the the middle black group.])))
+(;B[ah]
+;W[ag]
+;B[af]
+;W[ae]C[You lose.]))
+(;B[ad]
+;W[ae]
+;B[af]
+;W[ac]))
+(;B[ha]C[White cannot do anything against the black group.]))

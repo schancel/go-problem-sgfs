@@ -1,0 +1,43 @@
+(
+;GE[tesuji]DI[1k]DP[19]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AB[cb][dc][dd][de][cf][ci][bi][bj][hb][hc][hd][he][hf][if][gg][kd]
+AW[bk][ck][cj][ej][db][ec][fc][gc][fe][ff][fg][jc][kc][ld][ie][je][kg][ih][hi][gj]
+GN[temp]
+(
+;
+B[fh]
+;
+W[eh]
+(
+;
+B[ei]
+;
+W[di]
+;
+B[eg]
+C[RIGHT white cannot get both a and b, so white is cut of himself]
+LB[dh:a][gh:b]
+)
+(
+;
+B[gh]
+;
+W[dg]
+C[black is doomed]
+)
+)
+(
+;
+B[gh]
+;
+W[eh]
+;
+B[fi]
+;
+W[ei]
+)
+)

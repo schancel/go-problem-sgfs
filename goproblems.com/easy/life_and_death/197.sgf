@@ -1,0 +1,22 @@
+(;GE[life and death]DI[20k]DP[72]SO[adum]CO[7]AW[rc]AW[od]AW[rd]AW[ne]AW[oe]AW[pe]AW[re]AW[nf]AW[pf]AW[rf]AW[qg]AW[rg]AB[nc]AB[oc]AB[qc]AB[md]AB[qd]AB[me]AB[qe]AB[of]AB[qf]AB[og]AB[pg]AB[qh]AB[rh]AB[pi]AB[ri]C[white to connect her two weak groups]SZ[19]PL[2]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;W[pc]
+(;B[qb]
+(;W[pb]C[
+black dies first];B[ob]
+(;W[pa];B[pd]
+(;W[rb]C[RIGHT])
+(;W[qa]C[RIGHT]))
+(;W[pd];B[pa])
+(;W[qa];B[ra];W[pa]C[RIGHT])
+(;W[rb];B[pa])
+(;W[oa];B[pd]))
+(;W[rb];B[pb];W[ob];B[pd])
+(;W[pd];B[pb]))
+(;B[pb];W[qb]C[
+white gets black in a snapbackRIGHT]))
+(;W[qb];B[pc]C[bad: white remains cut into two weak parts])
+(;W[rb];B[qb])
+(;W[pd];B[pc])
+(;W[mf];B[qb])
+(;W[ng];B[qb])
+(;W[mg];B[qb]))

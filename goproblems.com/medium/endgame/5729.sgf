@@ -1,0 +1,53 @@
+(;GE[endgame]DI[1k]DP[19]SO[maba]CO[8]AW[qr]AW[rq]AW[pq]AW[pp]AW[qp]AW[qo]AW[pn]AW[om]AW[ol]AW[pl]AW[ok]AW[oj]AW[oi]AW[pi]AW[qi]AW[qj]AW[ri]AW[sh]AW[rh]AB[pj]AB[pk]AB[qk]AB[ql]AB[qm]AB[pm]AB[qn]AB[ro]AB[rp]AB[rj]AB[sj]AB[si]AB[rl]C[White to play a nice endgame sequence.]AP[goproblems]
+(;W[sn]
+(;B[sm]
+(;W[sk]
+(;B[rn];W[rk]C[RIGHT])
+(;B[rk];W[rn]C[And black is dead.RIGHT]))
+(;W[sp];B[rn]C[White can do better.])
+(;W[rn];B[sk]
+(;W[sp]C[RIGHT])
+(;W[so]C[RIGHT]))
+(;W[so];B[rn]))
+(;B[rn]
+(;W[sl];B[sm];W[rm]C[]
+(;B[so];W[rk];B[sm];W[sk]C[RIGHT])
+(;B[rk]
+(;W[sp];B[sm]C[White gets a ko for the whole group.RIGHT])
+(;W[sm];B[sp]C[sekiRIGHT])))
+(;W[sm];B[sl])
+(;W[sk];B[rk])
+(;W[sp];B[so];W[sl];B[sm]))
+(;B[sl];W[rn]C[Black is dead.RIGHT])
+(;B[rm];W[sk];B[rk];W[sp]C[Black is dead.RIGHT])
+(;B[sk];W[sm]
+(;B[sl];W[sp]C[Black is dead.RIGHT])
+(;B[sp];W[sl];B[rk]C[Black is dead.RIGHT]))
+(;B[so];W[sk];B[rn];W[rk];B[sm]C[RIGHT])
+(;B[sp];W[sk]
+(;B[rk];W[rn]C[Black is dead.RIGHT])
+(;B[rn];W[rk];B[sm]C[RIGHT]))
+(;B[rk];W[sp]
+(;B[rn];W[sm]C[Black is dead.RIGHT])
+(;B[sm];W[rn]C[Black is dead.RIGHT])))
+(;W[sp];B[sn]C[White can do better.])
+(;W[rn];B[sn]C[White can do better.])
+(;W[so];B[sp])
+(;W[sl];B[sm]
+(;W[sn];B[rm]
+(;W[sp];B[rn]C[White can do better.])
+(;W[sk];B[rk];W[sp];B[rn]C[White can do better.]))
+(;W[sp];B[sn]C[White can do better.])
+(;W[rn];B[sn]C[White can do better.]))
+(;W[sm];B[sn]
+(;W[sl];B[rm]
+(;W[sp];B[sk])
+(;W[sk];B[rk]))
+(;W[sk];B[rk]))
+(;W[sk];B[rk]
+(;W[sp];B[sn])
+(;W[sn];B[rn]
+(;W[sm];B[sl])
+(;W[sp];B[so];W[sl];B[sm]))
+(;W[sm];B[sn])
+(;W[rn];B[sn])))

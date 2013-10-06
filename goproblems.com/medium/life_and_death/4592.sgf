@@ -1,0 +1,25 @@
+(;GE[life and death]DI[4k]DP[28]SO[unkx80]CO[8]AW[eq]AW[dr]AB[er]AB[fr]AB[gq]AB[hq]AB[iq]AW[jq]AW[kq]AW[hr]AW[ir]AW[lr]AW[ks]AB[jp]AB[kp]AB[mr]AB[mp]AB[nq]AB[or]AW[dq]C[Black to kill.]AW[do]AP[goproblems]
+(;B[jr]
+(;W[gr]
+(;B[gs];W[js]
+(;B[fq];W[kr];B[hs]C[RIGHT])
+(;B[hs];W[kr];B[fq]C[RIGHT])
+(;B[lq];W[kr]
+(;B[fq];W[hs])
+(;B[hs];W[fq])))
+(;B[fq];W[gs])
+(;B[is];W[js])
+(;B[lq];W[kr]
+(;B[gs];W[fq])
+(;B[fq];W[gs]))
+(;B[js];W[fq];B[lq]C[Black only capture some White stones and allowed the rest of the White group to escape.]))
+(;W[js];B[hs];W[gr];B[gs];W[kr];B[fq]C[RIGHT]))
+(;B[gr];W[jr])
+(;B[gs];W[jr])
+(;B[lq];W[jr])
+(;B[hs];W[jr]
+(;B[is];W[gr]
+(;B[gs];W[fq])
+(;B[fq];W[gs]))
+(;B[gr];W[is]))
+(;B[fq];W[jr]))

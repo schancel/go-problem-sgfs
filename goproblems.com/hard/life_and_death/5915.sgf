@@ -1,0 +1,149 @@
+(;GE[life and death]DI[4d]DP[8]SO[santa c]CO[5]C[Had Black not added an extra stone now, in how many ways would white be able to kill him?FORCE]AB[hb]AB[hc]AB[hd]AB[gd]AB[jb]AB[kc]AB[lc]AB[mb]AB[mc]AB[nc]AW[nb]AW[ob]AW[oc]AW[od]AW[nd]AW[me]AW[ld]AW[ke]AW[jc]AW[jd]AW[he]AW[ge]AW[fe]AW[fd]AW[gb]AW[fb]AW[fc]LB[gg:1]LB[hg:2]LB[ig:3]LB[jg:4]LB[kg:5]LB[lg:6]LB[mg:7]LB[ng:0]AP[goproblems]
+(;W[jg];B[kg]C[Exactly! Well all that's left to do is to kill it, right? ;)]
+(;W[ha]
+(;B[ia]
+(;W[ic]
+(;B[ib]
+(;W[ka]
+(;B[la];W[kb]C[Well done! :)RIGHT])
+(;B[kb];W[la]C[RIGHT]))
+(;W[la]TR[ka]TR[ma]C[Well done! :)RIGHT]))
+(;B[ka];W[ib]C[RIGHT]))
+(;W[ka];B[la]
+(;W[kb]
+(;B[ic];W[ga]C[Well done! :)RIGHT])
+(;B[ga];W[ic]C[RIGHT]))
+(;W[ic];B[kb]C[:(])
+(;W[ga];B[kb]C[:(]))
+(;W[la];B[ma]
+(;W[ka]
+(;B[ic]
+(;W[ga]C[Well done! :)RIGHT])
+(;W[ja];B[ga]C[:(]))
+(;B[ga];W[ic]C[RIGHT]))
+(;W[ic];B[ka]
+(;W[lb];B[ib]C[:(])
+(;W[ib];B[lb];W[ja]MA[ia]C[:(]))
+(;W[kb];B[ka];W[ja]MA[ka]C[:(])
+(;W[ja];B[ka]C[:(])
+(;W[ga];B[ka]C[:(]))
+(;W[ga];B[ka]C[:(])
+(;W[ma];B[la]
+(;W[ka];B[kb];W[lb]MA[la]C[:(])
+(;W[kb];B[ka]C[:(])
+(;W[ic];B[kb]C[:(])
+(;W[ga];B[kb]C[:(])))
+(;B[ka];W[ia]
+(;B[ma];W[lb]C[RIGHT])
+(;B[lb];W[ma]C[RIGHT])))
+(;W[ka];B[la]
+(;W[kb];B[ic]
+(;W[ha];B[ia]
+(;W[ga]C[Well done! :)RIGHT])
+(;W[id]C[:(]))
+(;W[ja];B[ia];W[ib]MA[jb]C[:(])
+(;W[ia];B[ha]C[:(]))
+(;W[ja];B[kb]C[:(])
+(;W[ia];B[ib]C[:(])
+(;W[ha];B[kb]C[:(])
+(;W[ib];B[ic]
+(;W[ha];B[ia]
+(;W[ga];B[kb]C[:(])
+(;W[kb];B[ga]C[:(])
+(;W[id];B[ga]C[:(]))
+(;W[ia];B[ha]C[:(])
+(;W[kb];B[ia]C[:(]))
+(;W[ic];B[kb]C[:(]))
+(;W[ib];B[ic]C[:(])
+(;W[ia];B[ha]
+(;W[ib];B[ic]C[:(])
+(;W[ka];B[ja]C[:(])
+(;W[ja];B[ka]C[:(])
+(;W[ma];B[la]
+(;W[ka];B[ja]C[:(])
+(;W[ja];B[ka]C[:(])
+(;W[ib];B[ic]C[:(]))
+(;W[la];B[ma]
+(;W[ja];B[ka]C[:(])
+(;W[kb];B[ja]C[:(]))
+(;W[ic];B[ib]
+(;W[ka];B[ja]C[:(])
+(;W[la];B[ma]C[:(])
+(;W[ma];B[la];W[ka];B[ja]C[:(])))
+(;W[kb];B[ka]
+(;W[ib];B[lb]
+(;W[ma];B[ic]C[:(])
+(;W[ic];B[ma]C[:(])
+(;W[ha];B[ma];W[ja];B[ia]C[:(]MA[ja])
+(;W[ia];B[ja]
+(;W[ma];B[ic]C[:(])
+(;W[ha];B[ma]C[:(])
+(;W[ic];B[ma]C[:(])))
+(;W[ma];B[lb]C[:(])
+(;W[ia];B[ha];W[ib];B[ic]C[:(])
+(;W[ha];B[ia]C[:(]))
+(;W[la];B[ma]
+(;W[ka];B[ha]C[:(])
+(;W[ha]
+(;B[ka]
+(;W[ia]
+(;B[lb];W[ja]C[Well done! :)RIGHT])
+(;B[ja];W[lb]C[RIGHT]))
+(;W[lb];B[ia]C[:(])
+(;W[ib];B[lb];W[ja];B[ia]MA[ja]C[:(]))
+(;B[ia];W[ka]C[RIGHT]))
+(;W[ja];B[ia]
+(;W[ka];B[ic]C[:(])
+(;W[ic];B[ka]C[:(]TR[lb]TR[ib])
+(;W[kb];B[ka]MA[ja]C[:(]))
+(;W[ic];B[ka]TR[ib]TR[lb]C[:(]))
+(;W[ma];B[la]
+(;W[ka];B[kb];W[lb]C[:(]MA[la])
+(;W[ja];B[ia]C[:(])
+(;W[ia];B[kb]
+(;W[ha];B[ja]C[:(])
+(;W[ja];B[ha]C[:(])
+(;W[ib];B[ja]C[:(]))
+(;W[ha];B[ia]
+(;W[ka];B[kb];W[lb]MA[la]C[:(])
+(;W[kb];B[ka]C[:(])
+(;W[ic];B[kb]C[:(])
+(;W[ga];B[kb]C[:(]))
+(;W[kb];B[ic]
+(;W[ka];B[ia]C[:(])
+(;W[ja];B[ia];W[ib]C[:(]MA[jb])
+(;W[ia];B[ha]C[:(])
+(;W[ha];B[ia]
+(;W[ka];B[ga]C[:(])
+(;W[ga];B[ka]C[:(])))
+(;W[ib];B[ic]C[:(])
+(;W[ic];B[kb]C[:(]))
+(;W[ic]C[Well done! :)RIGHT]TR[ka]TR[ib])
+(;W[ja];B[ic]
+(;W[ha];B[ia];W[ib]MA[ia]C[:(])
+(;W[ia];B[ha]
+(;W[kb];B[ib]
+(;W[la];B[ma]C[:(])
+(;W[ma];B[la]C[:(]))
+(;W[ka];B[la]C[:(])
+(;W[la];B[ma]C[:(]))
+(;W[kb];B[ia];W[ib]MA[jb]C[:(])
+(;W[ka];B[ia]
+(;W[ma];B[la];W[lb];B[kb]C[:(])
+(;W[kb];B[la];W[ib]MA[jb]C[:(])
+(;W[la];B[ma]C[:(]))
+(;W[la];B[ia]
+(;W[ma];B[ka]C[:(])
+(;W[ka];B[ma]C[:(])
+(;W[kb];B[ka]MA[ja]C[:(]))
+(;W[ma];B[ia]
+(;W[ka];B[la];W[lb];B[kb]C[:(])
+(;W[la];B[ka]C[:(])
+(;W[kb];B[ka]C[:(]))))
+(;W[gg]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[hg]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[ig]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[kg]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[lg]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[mg]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.])
+(;W[ng]C[The correct anwser is 4 (four). Please use 'Show Solution' -> 'Navigate Solution' on the left, following the correct number to explore the variations.]))

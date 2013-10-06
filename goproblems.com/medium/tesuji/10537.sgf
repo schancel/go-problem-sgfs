@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[4k]DP[28]SO[Bleedo]CO[9]AB[cc]AB[cd]AB[be]AB[bf]AB[bg]AB[fc]AB[fd]AB[ge]AB[gf]AB[fg]AB[gh]AB[eh]AB[ei]AB[hc]AW[dc]AW[ec]AW[de]AW[cf]AW[fe]AW[ff]AW[eg]AW[ch]AW[dh]AW[cj]C[Black to take marked stones.]TR[dc]TR[ec]AP[goproblems]
+(;B[ee]
+(;W[dd]
+(;B[df]
+(;W[cg];B[ce];W[ef];B[dg]C[RIGHT])
+(;W[ce];B[cg];W[dg];B[ef]C[RIGHT]))
+(;B[ef];W[cg])
+(;B[dg];W[cg]))
+(;W[ef];B[dg];W[cg];B[df];W[dd];B[ce]C[RIGHT]))
+(;B[dd];W[ed];B[ef];W[ee]
+(;B[cg];W[dg])
+(;B[dg];W[cg]))
+(;B[ef];W[ee]
+(;B[dg];W[cg])
+(;B[cg];W[dg]))
+(;B[ed];W[dd])
+(;B[df];W[ee]
+(;B[cg];W[dg];B[ce]C[White doesn't even have to do anything, shortage of liberties =/])
+(;B[ce];W[cg]))
+(;B[cg];W[dg]
+(;B[ee];W[dd];B[df];W[ef])
+(;B[ed];W[dd])
+(;B[dd];W[ed]))
+(;B[dg];W[cg];B[ee];W[dd]))

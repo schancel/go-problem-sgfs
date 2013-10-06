@@ -1,0 +1,40 @@
+(;GE[life and death]DI[5k]DP[35]SO[pitchflare]CO[0]AW[fq]AW[fn]AB[en]AB[eo]AB[ep]AB[eq]AW[fp]AW[fo]AW[fr]AW[ap]AB[dr]AW[es]AW[fs]AW[fm]AW[em]AW[dm]AW[cm]AW[bm]AW[am]AB[an]AB[bn]AB[cn]AB[dn]AB[er]AB[ds]AB[cs]AW[dq]AW[cr]AW[br]AW[aq]AB[ao]AW[bo]AW[cp]AB[co]C[White to kill black's group unconditionally - seki or ko doesn't count.]AP[goproblems]
+(;W[bs];B[bp]
+(;W[dp]
+(;B[ar]C[CHOICE]
+(;W[bq]C[Black is dead. :)RIGHT])
+(;W[as]))
+(;B[bq]C[CHOICE];W[ar]))
+(;W[cq])
+(;W[bq];B[dp];W[bo];B[cq]C[Double ko doesn't work either. :(])
+(;W[ar];B[dp];W[cq]C[Seki...]))
+(;W[dp];B[bp]
+(;W[bs]
+(;B[ar]C[CHOICE]
+(;W[bq]C[Black is dead. :)RIGHT])
+(;W[as];B[bq];W[ar];B[cq]C[Oops.]))
+(;B[bq]C[CHOICE];W[ar]AB[an];B[an]C[Black passes.];W[cq]AB[an];B[an]C[Black passes again...];W[bo];B[bp];W[do]C[And black dies. :)RIGHT]))
+(;W[do];B[cq]C[Oops.])
+(;W[bq];B[do];W[bo]C[A ko. :(])
+(;W[cq];B[bs]
+(;W[ar];B[as]C[Seki. FORCE]AB[as])
+(;W[bq];B[do];W[bo]C[Ko.])
+(;W[as];B[ar];W[bq];B[do])
+(;W[do];B[ar];W[as]C[Ko...])))
+(;W[cq];B[bp]
+(;W[bs];B[dp]
+(;W[ar]C[Seki.])
+(;W[bq]))
+(;W[dp]))
+(;W[bp];B[dp]
+(;W[cq];B[bs]
+(;W[ar]C[Seki.])
+(;W[as];B[ar]C[Ko. :(]))
+(;W[bs];B[cq]
+(;W[ar]C[Seki.])
+(;W[as]C[]))
+(;W[bq];B[cq]C[Just another ko. :(]))
+(;W[bq];B[bp]
+(;W[dp])
+(;W[bs])
+(;W[cq];B[dp];W[bs];B[ar];W[bo]C[Ko...])))

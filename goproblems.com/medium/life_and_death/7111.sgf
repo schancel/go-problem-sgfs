@@ -1,0 +1,35 @@
+(;GE[life and death]DI[2k]DP[22]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][da][gb][bc][fc][gc][bd][cd][dd][ed]AB[fa][bb][db][fb][cc][dc][ec]C[What can black do here?]
+(;B[ea]CR[ea]
+;W[ab]CR[ab]
+(;B[cb]CR[cb]C[RIGHT])
+(;B[ca]CR[ca]
+;W[cb]CR[cb]C[Ko. Black can do better.]))
+(;B[ab]CR[ab]
+;W[cb]CR[cb]
+(;B[eb]CR[eb]
+;W[ca]CR[ca]C[Black is dead])
+(;B[ea]CR[ea]
+;W[eb]CR[eb])
+(;B[ca]CR[ca]C[Ko. Black can do better.]))
+(;B[cb]CR[cb]
+;W[ga]CR[ga]
+(;B[ca]CR[ca]
+;W[ea]CR[ea]
+;B[eb]CR[eb]
+;W[ab]CR[ab])
+(;B[ab]CR[ab]
+;W[eb]CR[eb]
+(;B[ca]CR[ca]
+;W[ea]CR[ea])
+(;B[ea]CR[ea]
+;W[eb]CR[eb])))
+(;B[ca]CR[ca]
+;W[cb]CR[cb]C[Ko. Black can do better.])
+(;B[eb]CR[eb]
+;W[ca]CR[ca]
+(;B[ab]CR[ab]
+;W[cb]CR[cb])
+(;B[cb]CR[cb]
+;W[ab]CR[ab])))

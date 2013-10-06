@@ -1,0 +1,17 @@
+(;GE[life and death]DI[15k]DP[61]SO[dserdt]CO[8]
+PW[White]PB[Black]AW[bc][cd][ae][be][ce][bf][bg]AB[bb][cc][dc][ad][bd][dd][de][cg][bh][ch][bj]PL[W]
+(;W[ab]CR[ab]
+;B[ag]CR[ag]
+;W[cb]CR[cb]C[RIGHT White makes another eye in the corner])
+(;W[ag]CR[ag]
+;B[ac]CR[ac])
+(;W[ac]CR[ac]
+;B[ag]CR[ag]
+(;W[ab]CR[ab]
+;B[cb]CR[cb])
+(;W[cb]CR[cb]
+;B[db]CR[db]))
+(;W[ah]CR[ah]
+;B[ag]CR[ag]
+;W[ab]CR[ab]
+;B[cb]CR[cb]))

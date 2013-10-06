@@ -1,0 +1,27 @@
+(;GE[life and death]DI[4k]DP[30]SO[lok]CO[0]AB[nc]AW[oc]AB[ob]AB[na]AB[mc]AB[lc]AB[kc]AB[jb]AB[ka]AW[nd]AW[md]AW[ld]AW[kd]AW[jc]AW[jd]AW[ib]AW[pc]AW[pb]AW[pa]C[White to kill.]AW[hd]AP[goproblems]
+(;W[lb];B[mb]
+(;W[oa];B[la];W[nb]C[Ko. But White can get a slightly better result.RIGHT])
+(;W[la];B[oa]))
+(;W[mb];B[lb])
+(;W[oa];B[lb];W[nb];B[ma]TR[kb]TR[la]C[Black is alive.])
+(;W[nb];B[lb]
+(;W[oa])
+(;W[ma];B[mb];W[oa];B[nb]))
+(;W[ia]
+(;B[lb]C[CHOICE]
+(;W[ja];B[ma]
+(;W[kb]TR[oa]C[Ko with one internal threat at P19. The best result!RIGHT])
+(;W[oa];B[nb];W[kb]C[Ko, but playing P19 lose one internal threat.])
+(;W[nb];B[oa];W[kb]C[Ko, but playing O18 lose one internal threat.]))
+(;W[ma];B[ja])
+(;W[mb];B[ja])
+(;W[oa];B[ja];W[nb];B[ma]))
+(;B[la];W[mb];B[lb];W[ja]))
+(;W[la];B[lb]
+(;W[ia];B[ma])
+(;W[oa];B[ma]))
+(;W[ma];B[lb])
+(;W[kb];B[lb])
+(;W[ja];B[ia]
+(;W[hb];B[lb])
+(;W[ha];B[hb];W[ja]C[White get a ko, but there is too much to lose.])))

@@ -1,0 +1,29 @@
+(;GE[endgame]DI[8k]DP[48]SO[Bill Spight]CO[6]GM[1]FF[4]SZ[9]AP[SmartGo:1.5]
+AB[ca][bb][bc][bd][be][db][eb][fb][gb][hb][dc][dd][de][fc][fd][fe][hd][he][ae]
+AW[ha][ia][cb][ib][ic][ec][ed][gc][hc][cd][af][bf][cf][df][ef][ff][gf][hf][if]
+(;B[ee];W[ce]
+(;B[cc];W[ge];B[gd];W[ie];B[id]
+C[The territory is equal, but Black has played one more stone than White. Black wins by 1 point.
+
+RIGHT]
+)
+(;B[ge];W[ie];B[id];W[cc]
+C[White gets the last play to win by 1 point.])
+(;B[ie];W[ge];B[gd];W[cc]
+C[White gets the last play to win by 1 point.]))
+(;B[ce];W[ge];B[gd];W[ie];B[id];W[ee]
+C[White gets the last play to win by 1 point.])
+(;B[ge];W[ce]
+(;B[ee];W[ie];B[id];W[cc]
+C[White gets the last play to win by 1 point.])
+(;B[ie];W[ee];B[cc]
+C[Black did not always take the largest play. White wins by 1 point.])
+(;B[cc];W[ie];B[id];W[ee]
+C[Black did not always take the largest play. White wins by 3 points.]))
+(;B[ie];W[ce]
+(;B[ee];W[ge];B[gd];W[cc]
+C[White gets the last play to win by 1 point.])
+(;B[ge];W[ee];B[cc]
+C[Black did not always take the largest play. White wins by 1 point.])
+(;B[cc];W[ge];B[gd];W[ee]
+C[Black did not always take the largest play. White wins by 3 points.])))

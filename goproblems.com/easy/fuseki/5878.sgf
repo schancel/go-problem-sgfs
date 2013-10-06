@@ -1,0 +1,7 @@
+(;GE[fuseki]DI[15k]DP[60]SO[santa c]CO[7]AW[ec]AW[dp]AB[cn]AW[jq]AB[oq]AB[qp]AW[kd]AW[nc]AB[pd]AB[pf]AW[dl]LB[cn:1]LB[dl:2]C[Last 2 moves are marked. How should Black resume there?]AB[qj]LB[en:A]LB[cq:B]AP[goproblems]
+(;B[en]C[Exactly! Jumping into the corner and settling low would've been bad not only because of the great White influence but because of E17 as well!RIGHT])
+(;B[cq]
+(;W[dq]C[Please follow the joseki at the marked points.]LB[cp:B];B[cp];W[do]LB[co:B]
+(;B[co];W[dn]LB[cm:B];B[cm];W[dm]LB[ck:B];B[ck]C[After the joseki here, Black is low on the left and E17 feels great for White. (An approach to it from C16 would be bad as Black results with 2 low groups on fighting for the same territory while White gets great influence!)]LB[cd:a]TR[ec]LB[de:1]LB[ce:2]LB[df:3])
+(;B[cr];W[dn];B[cm];W[dm]C[Also is joseki.]))
+(;W[cp];B[dq];W[ep];B[bp];W[bo];B[bq];W[co];B[fq]C[Would be unreasonable by White and isn't joseki (Because If White adds the needed stone at D6 to hold C6 down, D8 is too close. If however D8 was at C8..).])))

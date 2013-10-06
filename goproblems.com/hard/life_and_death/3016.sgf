@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4d]DP[7]SO[KenshinX]CO[5]AB[bq]AB[bp]AB[cr]AB[er]AB[eq]AW[fr]AW[fq]AW[ep]AW[cq]AW[co]AW[bo]AW[bm]LB[bs:A]C[Please play at A(which is at B1...somehow the A isn't showing up...I made this problem graphically BTW) to start the problem. (Note: White can kill at this point by approaching E1, this problem however explores the possibility of B1 (how black screws up basically in response to this), so please play at A)]LB[``:null]AP[goproblems];W[bs]C[]
+(;B[ar]C[Hopefully it's not too difficult ;)...if you can see through this =)];W[dq]C[CHOICE]
+(;B[dr]C[]
+(;W[ap];B[es]
+(;W[cs];B[fs]C[Black Escapes])
+(;W[fs];B[cs];W[br];B[as];W[br];B[aq]))
+(;W[cs]
+(;B[ap]
+(;W[br]C[Black can't push from both sides! brilliant of you! =) (navigate through to from the start to see how black should have responded to live)RIGHT])
+(;W[es]C[RIGHT]))
+(;B[br];W[ap]))
+(;W[es]
+(;B[ap]
+(;W[ds]C[RIGHT])
+(;W[cs]C[RIGHT])
+(;W[br]C[RIGHT]))
+(;B[cs];W[ap]C[RIGHT]))
+(;W[br]C[RIGHT]))
+(;B[ap]C[careful now...];W[cs]C[Bingo! Black can't defend both A and B! =) (navigate through to from the start to see how black should have responded to live)RIGHT]LB[br:A]LB[dr:B]))
+(;B[dq];W[cp];B[br];W[ds];B[cs]))

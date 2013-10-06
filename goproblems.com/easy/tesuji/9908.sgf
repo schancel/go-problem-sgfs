@@ -1,0 +1,37 @@
+(;GE[tesuji]DI[10k]DP[51]SO[Edgardo]CO[9]AB[kk]AB[kj]AB[hk]AB[hj]AB[hi]AB[nl]AB[nk]AB[nj]AB[ni]AB[nh]AW[mh]AW[lh]AW[kh]AW[jh]AW[ih]AW[hh]AW[gh]AW[fh]AW[fi]AW[fj]AW[fk]AW[fl]AW[gl]AW[hl]AW[il]AW[jl]AW[kl]AW[ll]AW[ml]TR[hi]TR[hj]TR[hk]C[Black to save the marked stones.]AP[goproblems]
+(;B[ki];W[li]
+(;B[lj];W[mj];B[mk];W[lk];B[mi];W[jj]C[FORCE]
+(;B[ji];W[ii];B[jk];W[ij];B[ik]C[Well done!RIGHT])
+(;B[ii];W[ji]TR[ik]TR[jk])
+(;B[ij];W[ji]TR[ik]TR[jk]))
+(;B[lk];W[mk]TR[lj]TR[mj])
+(;B[mi];W[lj]TR[lk]TR[mk])
+(;B[mj];W[lj]TR[lk]TR[mk])
+(;B[mk];W[lk];B[lj];W[jj]C[FORCE]
+(;B[ji];W[ii];B[jk];W[ik];B[ij]C[Very good!RIGHT])
+(;B[ii];W[ji]TR[ik]TR[jk])
+(;B[ij];W[ji]TR[ik]TR[jk])))
+(;B[ik]C[See Black J10 variation.])
+(;B[ij];W[lj]
+(;B[ki];W[li]TR[lk]TR[mk])
+(;B[li];W[lk]TR[ki]TR[mi])
+(;B[mi];W[li]TR[lk]TR[mk])
+(;B[mj];W[lk]TR[li]TR[mi])
+(;B[lk];W[mk];B[li];W[mj]TR[ki]TR[mi])
+(;B[mk];W[lk]TR[li]TR[mi]))
+(;B[ii]C[See Black J10 variation.])
+(;B[jk]C[See Black J10 variation.])
+(;B[jj]C[See Black J10 variation.])
+(;B[ji]C[See Black J10 variation.])
+(;B[lk]C[See Black M10 variation.])
+(;B[lj];W[jj]
+(;B[ii];W[ji]TR[ik]TR[jk])
+(;B[ji];W[jk]TR[ii]TR[ki])
+(;B[ki];W[jk]TR[ii]TR[ji])
+(;B[ij];W[ji]TR[ik]TR[jk])
+(;B[ik];W[jk]TR[ji]TR[ki])
+(;B[jk];W[ik];B[ji];W[ij]TR[ii]TR[ki]))
+(;B[li]C[See Black M10 variation.])
+(;B[mk]C[See Black M10 variation.])
+(;B[mj]C[See Black M10 variation.])
+(;B[mi]C[See Black M10 variation.]))

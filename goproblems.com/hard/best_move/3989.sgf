@@ -1,0 +1,19 @@
+(;GE[best move]DI[5d]DP[6]SO[adum]CO[7]AB[qd]AW[dd]AB[pq]AW[oc]AB[dp]AW[po]AB[qo]AW[qn]AB[qp]AW[pn]AB[md]AW[oe]AB[pf]AW[oq]AB[or]AW[pp]AB[qr]AW[nq]AB[nr]AW[lq]AB[pc]AW[pi]AB[of]AW[pb]AB[pk]AW[ok]AB[qb]AW[mc]AB[lc]AW[ld]AB[me]AW[kc]AB[lb]AW[kb]LB[kb:A]C[white just played A. how to answer?]AP[goproblems]
+(;B[mb];W[ke]
+(;B[nc]C[now white may not answer a peep at K16.])
+(;B[nb]C[better to take, this leaves aji])
+(;B[le];W[kd]C[aji keshi])
+(;B[jd];W[kd]
+(;B[nc]C[RIGHT])
+(;B[nb]C[this leaves aji])))
+(;B[kd];W[le]C[the black atari was bad])
+(;B[le];W[kd]C[this helps white fix the shape. now you die])
+(;B[nc];W[mb]C[giving up these stones is really bad])
+(;B[nb];W[mb])
+(;B[jb];W[mb])
+(;B[ob];W[mb])
+(;B[ke];W[mb])
+(;B[fc];W[mb])
+(;B[ol];W[mb])
+(;B[pj];W[mb])
+(;B[od];W[mb]))

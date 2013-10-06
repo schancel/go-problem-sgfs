@@ -1,0 +1,11 @@
+(;GE[best move]DI[6k]DP[37]SO[DarkSycthe]CO[0]AB[pd]AB[pc]AB[qe]AB[pe]AB[rd]AB[rc]AW[rg]AW[qf]AW[re]AW[sf]AW[pf]AB[of]AB[og]AB[qh]AB[qi]AB[rj]AB[si]AW[sj]AW[sk]AW[rk]AW[qk]AW[pk]AB[pg]AW[pj]AW[pi]AB[ne]AB[nd]AB[od]AW[nf]AW[ng]AW[nh]AW[oh]AB[ph]AW[oi]AB[qj]C[Best move for White?]AP[goproblems]
+(;W[rh];B[ri]
+(;W[sh]LB[qg:A]C[Black can't play A due to a shortage of liberties!RIGHT])
+(;W[qg];B[sh]C[White has only one eye]))
+(;W[sh];B[rh];W[ri]C[Ko. You could do better.])
+(;W[qg];B[sh]C[White has only one eye])
+(;W[ri];B[rh];W[sh];B[ri]C[White has only one eye])
+(;W[sg]C[Dead in gote])
+(;W[rf]C[Dead in gote])
+(;W[se];B[sh]C[White has only one eye])
+(;W[sd];B[sh]C[White has only one eye]))

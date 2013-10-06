@@ -1,0 +1,45 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[8]AB[ba]AB[bb]AB[ac]AB[cc]AB[dc]AB[cd]AW[bc]AW[bd]AW[ae]AW[ce]AW[de]AW[cf]AW[ed]AW[ec]AW[gd]AW[id]AW[ic]AW[ib]AB[eb]LB[ca:A]LB[ba:B]LB[eb:C]C[Black plays at B instead of A - White think it's dead in gote and passes. Black plays at C. Was white right? Can you kill?]AP[goproblems]
+(;W[ab];B[da]
+(;W[cb]
+(;B[fb];W[fa];B[gb];W[ga];B[ha];W[hb];B[ea];W[ga]C[Exaclly.. No mistake by white! :)CHOICERIGHT])
+(;B[gb]
+(;W[fa]
+(;B[fb];W[ga];B[ha];W[hb];B[ea];W[ga]C[Exaclly.. No mistake by white! :)CHOICERIGHT])
+(;B[ga];W[fb];B[fc];W[gc];B[ea];W[fb]C[Exaclly.. No mistake by white! :)CHOICERIGHT]))
+(;W[ga];B[fa]C[E19 is the second eye!])
+(;W[fb];B[fc]
+(;W[gc];B[fa]C[E19 is the second eye!])
+(;W[fa];B[gc]
+(;W[ga];B[ha];W[hb];B[ea]C[F18 is the second eye!])
+(;W[ha];B[ga]C[Black's alive!]))
+(;W[ga]
+(;B[fa])
+(;B[ha]C[Black's alive!])))))
+(;W[fb];B[cb]C[Black's alive!]))
+(;W[da];B[db]C[Black's alive!])
+(;W[fb];B[da]C[Black's alive!]LB[ab:A]LB[cb:B])
+(;W[cb];B[db]C[Black's alive!])
+(;W[ea];B[fb]
+(;W[db];B[cb]C[Black's alive!])
+(;W[da];B[db]C[Black's alive!])
+(;W[ab];B[da]C[Black's alive!]))
+(;W[db];B[da]
+(;W[cb];B[ca]
+(;W[ab]
+(;B[gb]
+(;W[fb];B[fc]
+(;W[fa];B[gc]
+(;W[ga];B[ha];W[hb];B[ea]C[Black's alive!])
+(;W[ha];B[ga]C[Black's alive!]))
+(;W[gc];B[fa]C[E19 is the second eye!]))
+(;W[fa]
+(;B[fb];W[ga];B[ha];W[hb];B[ea];W[ga]C[Exaclly.. No mistake by white! :)CHOICERIGHT])
+(;B[ga];W[fb];B[fc];W[gc];B[ea];W[fb]C[Exaclly.. No mistake by white! :)CHOICERIGHT]))
+(;W[ga];B[fa]C[E19 is the second eye!]))
+(;B[fb];W[fa];B[gb];W[ga];B[ha];W[hb];B[ea];W[ga]C[Exaclly.. No mistake by white! :)CHOICERIGHT]))
+(;W[fb];B[ab]C[Black's alive!]))
+(;W[ab];B[cb]C[Black's alive!])
+(;W[fb];B[cb]C[Black's alive!]))
+(;W[ca];B[da]
+(;W[ab];B[cb]C[Black's alive!])
+(;W[cb]C[];B[ab]C[Black's alive!])))

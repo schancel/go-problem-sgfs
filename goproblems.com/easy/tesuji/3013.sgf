@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[10k]DP[54]SO[adum]CO[6]AW[bb]AB[cb]AB[db]AB[bc]AB[bd]AW[cc]AW[dc]AW[ec]AB[ce]TR[bb]C[what can white do with the marked stone?]AW[ee]AW[de]AB[cf]
+(;W[ba];B[ab]
+(;W[eb]C[RIGHT])
+(;W[aa];B[ca])
+(;W[ac];B[ca])
+(;W[da];B[eb];W[fb];B[ea];W[fa]C[RIGHT])
+(;W[ca];B[da])
+(;W[ea];B[ca]))
+(;W[ab];B[ba]
+(;W[eb];B[ac])
+(;W[ac];B[ad])
+(;W[ca];B[ac]
+(;W[aa];B[ba])
+(;W[da];B[aa]))
+(;W[da];B[ac])
+(;W[aa];B[ac]))
+(;W[eb];B[ba];W[ab];B[ac])
+(;W[ca];B[ab];W[ba];B[da])
+(;W[da];B[ba];W[ab];B[ac])
+(;W[ac];B[ba];W[ab];B[ad])
+(;W[aa];B[ac]))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[5k]DP[33]SO[Andre Engels]CO[8]AB[bs]AB[cr]AB[dq]AB[er]AB[fr]AB[eq]AW[ar]AW[br]AW[cq]AW[bq]AW[bp]AW[ap]AB[cp]AB[co]AB[bo]AB[ao]AB[cm]AW[dp]AW[ep]AW[fp]AW[fq]AW[gr]AW[hq]AW[ir]AP[goproblems]
+(;B[ds];W[fs]
+(;B[cs];W[gs]
+(;B[as]C[RIGHT])
+(;B[es]C[seki in gote]))
+(;B[es];W[gs]C[seki])
+(;B[as];W[cs];B[bs];W[gs]
+(;B[es]C[seki in gote])
+(;B[cs];W[es])))
+(;B[cs];W[ds]
+(;B[dr];W[fs];B[es];W[gs]C[seki])
+(;B[es];W[gs];B[dr];W[fs]C[seki])
+(;B[fs]C[seki in gote]))
+(;B[fs];W[ds]
+(;B[cs]C[seki in gote])
+(;B[dr];W[cs];B[es];W[cs];B[ds];W[gs])
+(;B[es];W[cs];B[dr];W[cs];B[ds];W[gs]))
+(;B[dr];W[fs]
+(;B[cs];W[es]C[black dies])
+(;B[es];W[cs];B[gs];W[hs]C[black dies]))
+(;B[es];W[gs]
+(;B[cs];W[ds];B[dr];W[fs]C[seki])
+(;B[ds]C[seki in gote])
+(;B[dr];W[cs];B[ds];W[fs]))
+(;B[as];W[cs]
+(;B[dr];W[fs]C[black loses])
+(;B[ds];W[bs]C[black dies])))

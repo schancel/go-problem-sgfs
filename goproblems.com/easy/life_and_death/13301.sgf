@@ -1,0 +1,18 @@
+(;GE[life and death]DI[5k]DP[33]SO[Fokatukc]CO[0]AB[sp]AB[rq]AB[qq]AB[pq]AB[pp]AB[oo]AB[on]AB[pn]AB[pm]AB[qm]AW[qo]AW[po]AW[qn]AB[rn]AW[rm]AW[rl]AB[sl]AB[rk]AB[rj]AB[sj]AB[si]AB[sh]AB[rh]AB[rg]AW[qg]AW[qh]AW[qi]AW[qj]AW[qk]AW[ri]AB[ql]AW[rf]AW[sq]AW[pr]AW[qr]AW[rr]AW[sr]AW[or]AW[nr]AB[oq]AB[nq]AW[qf]AB[pl]AW[pk]AW[ok]AW[ol]AB[om]AP[goproblems]
+(;W[ro]
+(;B[sn]
+(;W[so]
+(;B[sm];W[rp]C[RIGHT])
+(;B[rp];W[sm];B[qp]
+(;W[sk]C[Two-step ko, white takes firstRIGHT])
+(;W[sf];B[sn];W[sk]C[This works, but is not as good as taking the ko directlyRIGHT])))
+(;W[rp];B[qp];W[so];B[sp]C[CHOICE]))
+(;B[so]
+(;W[rp];B[qp]C[CHOICE])
+(;W[sn];B[rp];W[sf];B[qp];W[sg];B[rn];W[sk]C[RIGHT]))
+(;B[sm];W[rp]C[RIGHT]))
+(;W[rp];B[so]
+(;W[ro];B[qp]C[CHOICE])
+(;W[sm];B[sn]))
+(;W[so];B[rp];W[ro];B[sm]C[CHOICE])
+(;W[sn];B[ro]))

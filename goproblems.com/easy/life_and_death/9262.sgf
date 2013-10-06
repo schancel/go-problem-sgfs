@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[44]SO[whendrik]CO[8]AB[bc]AB[cb]AB[db]AB[eb]AB[ea]AW[fb]AW[fc]AW[ec]AW[dc]AW[cc]AW[cd]AW[bd]AW[ad]AW[hb]C[Black to live. Be carefull, only one first move possible.]AP[goproblems]
+(;B[ab];W[ba]
+(;B[bb];W[ca])
+(;B[ca];W[bb]
+(;B[aa];W[bb];B[ba];W[ac])
+(;B[ac];W[aa]))
+(;B[ac];W[bb])
+(;B[aa];W[ac]
+(;B[bb];W[ca])
+(;B[ca];W[bb])))
+(;B[ac];W[bb])
+(;B[aa];W[bb])
+(;B[ba];W[ab])
+(;B[ca];W[bb])
+(;B[bb]
+(;W[ac];B[ab]C[RIGHT])
+(;W[ba];B[ca];W[ab];B[ac];W[fa];B[aa]C[RIGHT])))

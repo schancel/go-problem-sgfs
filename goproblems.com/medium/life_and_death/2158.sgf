@@ -1,0 +1,50 @@
+(;GE[life and death]DI[1k]DP[18]SO[neiluj]CO[8]SZ[9]AW[ba]AW[da]AW[ea]AW[ab]AW[bb]AW[db]AW[eb]AW[ac]AW[dc]AW[fc]AW[ad]AW[bd]AW[dd]AW[ed]AW[gd]AW[ae]AW[be]AW[ee]AW[fe]AW[ge]AW[bf]AW[ef]AW[gf]AW[ag]AW[eg]AW[gg]AW[bh]AW[ch]AW[fh]AW[bi]AB[ca]AB[fa]AB[ga]AB[ha]AB[cb]AB[fb]AB[gb]AB[ib]AB[bc]AB[cc]AB[gc]AB[hc]AB[ic]AB[cd]AB[hd]AB[id]AB[ce]AB[de]AB[he]AB[ie]AB[df]AB[hf]AB[if]AB[bg]AB[cg]AB[dg]AB[hg]AB[ig]AB[dh]AB[hh]AB[ih]AB[ci]AB[hi]AB[ii]LB[gh:A]LB[gi:B]C[How can you kill White? Use A and B as passes.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[Julien]PB[Vong]
+(;B[ah];W[di]
+(;B[ei]
+(;W[eh]
+(;B[ci];W[fi]
+(;B[ai];W[bh]
+(;B[af]
+(;W[bi]
+(;B[ag];W[di]
+(;B[gh];W[ei];B[ch];W[bh]C[Seki!])
+(;B[ch];W[bh];B[ei];W[gh];B[cf];W[di];B[aa]C[You killed White! RIGHT])
+(;B[gi];W[ei];B[ch];W[bh]C[Seki!]))
+(;B[ch];W[bh]
+(;B[ag];W[di]C[Seki.])
+(;B[cf];W[ag];B[bi]C[Black kills white by double ko! (thanks unkx80) RIGHT])
+(;B[bi];W[di]
+(;B[cf]C[double ko, white dies.RIGHT])
+(;B[gi];W[ei]
+(;B[ag]C[seki])
+(;B[cf];W[ag]C[Black loses big.])
+(;B[gh];W[ag]C[White connects the ko and gets a seki.]))
+(;B[gh];W[ei]
+(;B[ag]C[seki])
+(;B[cf];W[ag]C[Black has no ko threat])
+(;B[gi];W[ag]C[White connects the ko; seki.])))))
+(;W[di]
+(;B[ag]
+(;W[ch]
+(;B[cf];W[bi]C[Whoops.])
+(;B[gh];W[ei];B[bi];W[ch]C[Seki! (thanks Grebble)])
+(;B[gi];W[ei];B[bi];W[ch]C[Seki!])
+(;B[ei];W[fg];B[cf];W[di];B[aa]C[You killed white! RIGHT]))
+(;W[bi];B[ei];W[fg];B[cf];W[di];B[aa]C[You killed White! RIGHT]))
+(;B[ch];W[ag];B[bi];W[ei]C[Seki.])
+(;B[cf];W[ag];B[ei];W[bi];B[ah];W[ai]C[Whoops.])))
+(;B[bi];W[di]
+(;B[ch];W[ei]C[Seki.])
+(;B[af];W[ei]C[Seki!]))
+(;B[ch];W[di];B[af];W[ei]C[Seki! (if black tries to kill white, it will fail)]))
+(;B[di];W[cf]C[Whoops.]))
+(;B[af];W[fi]C[You got killed!]))
+(;W[fi];B[ci];W[eh];B[ai];W[bh];B[af]
+(;W[di];B[ag];W[ch]
+(;B[gh];W[ei];B[bi];W[ch]C[Seki!])
+(;B[gi];W[ei];B[bi];W[ch];B[bh]C[Seki!])
+(;B[bi];W[ch];B[ei];W[gh];B[cf];W[di];B[aa]C[You killed White! RIGHT]))
+(;W[bi];B[ch];W[di];B[ag];W[bh];B[ei];W[gh];B[cf];W[di];B[aa]C[You killed White! RIGHT])))
+(;B[af];W[eh]C[You got killed!])
+(;B[eh];W[ei];B[af];W[fi]C[Seki!]))
+(;B[di];W[ah]C[You let White live! (you can live through F1)]))

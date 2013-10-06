@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[10k]DP[50]SO[adum]CO[7]AW[jn]AW[jo]AW[gp]AW[ip]AW[kp]AW[mp]AW[gq]AW[iq]AW[kq]AW[mq]AB[hm]AB[im]AB[km]AB[kn]AB[ho]AB[io]AB[ko]AB[jp]AB[jq]AB[jr]C[white to connect]SZ[19]PL[2]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;W[js]C[RIGHT];B[ir]
+(;W[hr];B[jm]
+(;W[kr];B[in]
+(;W[jo];B[jn];W[is]C[RIGHT])
+(;W[is]C[RIGHT])
+(;W[hs]C[RIGHT]))
+(;W[is];B[kr]
+(;W[ks];B[lr]
+(;W[ls];B[ms])
+(;W[mr];B[ls]))
+(;W[lr];B[in]
+(;W[jo];B[jn];W[ks]C[RIGHT])
+(;W[ks]C[RIGHT])
+(;W[ls]C[RIGHT])))
+(;W[in];B[is])
+(;W[ks];B[is]))
+(;W[is];B[hr])
+(;W[kr];B[hr])
+(;W[in];B[hn])
+(;W[jm];B[jl]))
+(;W[kr];B[js])
+(;W[ir];B[js])
+(;W[jm];B[jl])
+(;W[is];B[js])
+(;W[ks];B[js]))

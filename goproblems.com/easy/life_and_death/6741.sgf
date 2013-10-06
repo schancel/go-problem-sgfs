@@ -1,0 +1,30 @@
+(;GE[life and death]DI[4k]DP[30]SO[Stones]CO[7]C[White to kill.]AB[jj]AB[jk]AB[ki]AB[lj]AB[mi]AB[kh]AB[lh]AB[mh]AW[lk]AW[mk]AW[mj]AW[ni]AW[nh]AW[ng]AW[jh]AW[ji]AW[ij]AW[ik]AB[fk]AB[fl]AW[ej]AW[ek]AW[el]AB[fm]AB[gn]AW[em]AW[en]AW[fo]AW[mn]AW[ii]AW[jg]AW[fh]AB[km]AW[lm]AW[hm]AB[jn]AW[ko]AW[mo]AW[fj]AB[il]AB[hk]AB[gk]AB[hn]AB[in]AW[jo]AW[io]AW[ho]AW[go]AB[kn]AB[fn]AW[mg]AW[kg]AW[lg]AP[goproblems]
+(;W[im];B[kl]
+(;W[kk];B[kj])
+(;W[jl];B[jm]
+(;W[hl];B[jl];W[kk];B[kj])
+(;W[kk];B[kj]))
+(;W[hl];B[jl]))
+(;W[kk];B[jl]
+(;W[im];B[kj])
+(;W[kj];B[im]C[Black saves the majority of his group.]))
+(;W[kj];B[kk])
+(;W[jm];B[kl])
+(;W[kl];B[jl])
+(;W[jl];B[hl]
+(;W[gm];B[kl]
+(;W[jm];B[kk])
+(;W[kk];B[jm];W[kj]C[RIGHT]))
+(;W[kl];B[gm]
+(;W[im];B[jm])
+(;W[jm];B[im]))
+(;W[jm];B[kl];W[kk];B[im]
+(;W[gm];B[jl])
+(;W[jl];B[gm]))
+(;W[im];B[kl]
+(;W[jm];B[kk])
+(;W[gm];B[kk])
+(;W[kk];B[jm]
+(;W[gm];B[kj])
+(;W[kj];B[gm]))))
+(;W[hl];B[jl]TR[kj]C[Black will be able to connect at L10 and has two eyes.]))

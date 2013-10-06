@@ -1,0 +1,16 @@
+(;GE[best move]DI[5k]DP[32]SO[labeo]CO[0]AB[cp]AB[co]AB[cn]AB[cm]AB[dm]AB[ep]AB[eq]AB[fo]AB[go]AB[hp]AB[io]AB[iq]AB[jq]AW[bp]AB[bq]AW[cq]AW[br]AW[dq]AW[fq]AW[gq]AW[hq]AW[bo]AW[bn]AW[bm]AW[cl]AW[dl]AW[el]AW[em]AW[en]C[Black best local move]AP[goproblems]
+(;B[cr]
+(;W[dr];B[er];W[cs]
+(;B[dp]C[RIGHT])
+(;B[eo]C[RIGHT])))
+(;B[er];W[dp]C[You could save those 5 stones])
+(;B[dr];W[cr]
+(;B[er];W[dp]C[You could save those 5 stones])
+(;B[fr];W[dp]C[You could save those 5 stones]))
+(;B[fr];W[dp]C[You could save those 5 stones])
+(;B[dp];W[er]
+(;B[dr];W[cr];B[fr];W[ds]C[You could capture 3 white stones])
+(;B[fr];W[dr]C[You could capture 3 white stones]))
+(;B[eo];W[er]
+(;B[fr];W[dr]C[You could have captured those 3 white stones])
+(;B[dr];W[cr];B[fr];W[ds]C[You could have captured those 3 white stones])))

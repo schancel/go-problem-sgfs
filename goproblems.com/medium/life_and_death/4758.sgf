@@ -1,0 +1,17 @@
+(;GE[life and death]DI[1k]DP[18]SO[shaydwyrm]CO[8]AW[pq]AW[qp]AW[qo]AW[oq]AB[qq]AB[pr]AB[rq]AW[or]AB[qs]AW[sr]C[Black to live]AP[goproblems]
+(;B[rr];W[os]
+(;B[ss]
+(;W[rs]
+(;B[sq];W[ps]
+(;B[qr]C[RIGHT])
+(;B[ss];W[qr]C[Ko - black can do better]))
+(;B[rp];W[ps]C[Ko - black can do better]))
+(;W[ps];B[qr]C[Black is alive.]))
+(;B[sq];W[ps]C[Ko - black can do better])
+(;B[ps];W[rs]C[Ko - black can do better.]))
+(;B[rp];W[ro]
+(;B[rr];W[os];B[ps];W[rs]C[Ko - black can do better])
+(;B[sp];W[rr])
+(;B[rs];W[rr])
+(;B[ps];W[os];B[rr];W[rs]C[Ko - black can do better]))
+(;B[rs];W[rr]))

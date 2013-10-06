@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3k]DP[24]SO[passero]CO[0]AB[rc]AB[qb]AB[pa]AB[ob]AB[pc]AB[oc]AB[od]AB[of]AB[oe]AB[re]AB[qe]AW[ra]AW[rb]AW[qc]AW[qd]AW[rd]AW[pd]AW[pe]AW[pf]AW[pg]AW[qg]AB[rh]AB[rg]AB[oh]AB[ri]AW[qh]AW[qi]AB[qj]AB[pj]AB[ph]AB[og]C[Black to Kill. (without Ko)]AP[goproblems]
+(;B[sd];W[rf]
+(;B[sg];W[sc]
+(;B[se];W[qf];B[sf]C[RIGHT])
+(;B[sf];W[se]C[It's a Ko.]))
+(;B[sf];W[sc]
+(;B[qf];W[se]C[It's a Ko.])
+(;B[se];W[sg]
+(;B[qf];W[rf])
+(;B[sh];W[qf]
+(;B[sg];W[rj])
+(;B[rj];W[sg])
+(;B[pi];W[sg]))))
+(;B[sc];W[sf]
+(;B[pi];W[qf];B[sb];W[se])
+(;B[sb];W[se];B[pi];W[qf])
+(;B[sg];W[qf];B[pi];W[se]))
+(;B[se];W[sc]
+(;B[sg]C[RIGHT];W[qf])
+(;B[sf]))
+(;B[sb];W[sc]C[It's a Ko.]))
+(;B[sc];W[sd]
+(;B[sb];W[rf]
+(;B[sf];W[se])
+(;B[qf];W[se]))
+(;B[se];W[sb]))
+(;B[se];W[sd])
+(;B[qf];W[se]
+(;B[rf];W[sc])
+(;B[sc];W[rf]))
+(;B[sf];W[sd])
+(;B[rf];W[sd])
+(;B[qa];W[sc]))

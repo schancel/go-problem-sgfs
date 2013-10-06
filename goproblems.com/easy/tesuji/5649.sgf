@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[5k]DP[34]SO[maba]CO[7]AB[bc]AB[cb]AB[db]AB[eb]AB[ga]AB[hb]AB[gc]AB[fc]AB[gd]AB[ge]AB[ff]AB[ee]AB[ed]AB[de]AB[ce]AW[ec]AW[dc]AW[cd]AW[bd]AW[be]AW[cf]AW[ci]AW[dj]AW[cl]AW[bm]AW[co]AB[aq]AB[ap]AB[bp]AB[cp]AB[dp]AB[do]AB[dn]AB[cn]AB[em]AB[el]AB[ek]AB[ej]AB[di]AB[dh]AW[ei]AW[fj]AW[fk]AW[gi]AW[hh]AW[hg]AW[he]AW[if]AW[je]AW[id]AW[ib]AW[ic]AB[jb]AB[jc]AB[jd]AB[kc]AB[lc]AB[lb]AB[ld]AW[kd]AW[le]AW[me]AW[md]AB[nd]AB[nb]AB[mc]AB[mb]AB[ma]AW[na]AW[oa]AW[ob]AW[pa]AW[qa]AW[qb]AW[qc]AW[qd]AB[oc]AB[pc]AB[pb]AB[pd]AB[pe]AB[qe]AW[re]AB[pf]AB[pg]AW[qf]AW[qg]AW[qh]AW[ph]AW[og]AW[oe]AW[nf]AW[kf]AW[kg]AB[lg]AB[lh]AB[kh]AB[jh]AB[ih]AB[ji]AB[kj]AB[lj]AB[mj]AB[mi]AW[mh]AW[nh]AW[ni]AW[nj]AW[oi]AB[oj]AB[ok]AW[mk]AW[ri]AW[rj]AW[sk]AW[rl]AW[ql]AW[pl]AW[ol]AW[pk]AW[pj]AW[pm]AB[qm]AB[rm]AB[sn]AB[so]AB[sp]AB[ro]AB[qo]AB[pn]AB[on]AB[om]AB[nm]AB[nl]AB[kk]AB[lk]AW[ml]AW[mm]AW[ll]AW[kl]AB[jk]AB[jl]AB[jm]AB[im]AB[in]AB[io]AB[ip]AB[hp]AB[gq]AB[hq]AB[gr]AB[fr]AB[er]AB[dr]AB[es]AW[ds]AW[cr]AW[cq]AW[bq]AW[dq]AW[eq]AW[fq]AW[ep]AW[fo]AW[go]AW[gp]AW[ho]AW[hm]AW[hn]AB[gm]AB[gn]AB[fn]AB[eo]AB[fl]AW[gl]AW[hk]AW[ii]AW[ij]AW[jj]AW[gs]AW[hr]AW[iq]AW[jq]AW[jp]AW[jr]AW[is]AW[lq]AW[mr]AW[mp]AW[lo]AW[ln]AW[kn]AW[jn]AB[mn]AB[mo]AB[np]AB[op]AB[pp]AB[qp]AB[mq]AB[nq]AB[nr]AB[ns]AB[oq]AW[os]AW[or]AW[pr]AW[pq]AW[qq]AW[rq]AW[rp]AW[sq]AW[rr]AB[qs]AB[rs]AB[ss]AW[oo]AW[fb]AW[gb]AW[li]C[Black to save his dragon. (Don't play any unnecessary moves.)]AP[goproblems]
+(;B[bs]
+(;W[cs]C[CHOICE];B[br]C[RIGHT])
+(;W[br]C[CHOICE];B[ar];W[hl];B[cs];W[fp]C[RIGHT])
+(;W[ar]C[CHOICE]
+(;B[br]C[RIGHT])
+(;B[cs];W[br])
+(;B[as];W[br];B[cs];W[ds])))
+(;B[br];W[bs]
+(;B[cs];W[ar])
+(;B[ar];W[hl]C[]
+(;B[as];W[fp];B[cs]C[RIGHT])
+(;B[cs];W[fp];B[as]C[RIGHT])))
+(;B[cs];W[ar];B[bs];W[br]))

@@ -1,0 +1,17 @@
+(;GE[endgame]DI[2k]DP[23]SO[mountain root]CO[0]AB[as]AB[ap]AB[bp]AB[cp]AB[dp]AB[ep]AB[fp]AB[fq]AB[fr]AB[fs]AW[aq]AW[bq]AW[cq]AW[dq]AW[eq]AW[er]AW[cs]AP[goproblems]
+(;B[ds]
+(;W[br]
+(;B[es];W[dr]C[W 5points!CHOICERIGHT])
+(;B[dr];W[es])
+(;B[bs];W[ar]
+(;B[bs];W[as];B[es];W[dr])
+(;B[es];W[dr])))
+(;W[es];B[cr];W[dr];B[br]C[Seki.RIGHT]))
+(;B[es];W[ds]C[W 6points!])
+(;B[cr];W[br]
+(;B[ds];W[dr];B[es]C[W 6points!])
+(;B[es];W[ds]))
+(;B[dr];W[es])
+(;B[br];W[cr])
+(;B[bs];W[cr])
+(;B[ar];W[es]))

@@ -1,0 +1,43 @@
+(;GE[elementary]DI[6k]DP[36]SO[santa c]CO[6]C[How would White live?]AW[br]AW[cr]AW[cp]AW[co]AW[bo]AW[cq]AW[dq]AB[dr]AB[eq]AB[cs]AB[dp]AB[do]AB[dn]AB[cn]AB[bn]AB[bl]AB[er]AP[goproblems]
+(;W[bs]
+(;B[aq]
+(;W[ap]C[Well done! Thanks to this miai White will surely have more than one eye! :)CHOICERIGHT]TR[bq]TR[ar])
+(;W[bq];B[ao]
+(;W[ap];B[bp]MA[ap]C[Ko! :(])
+(;W[ar];B[ap]C[:(])
+(;W[an];B[ap]C[:(]))
+(;W[ao];B[ar]C[Only a seki! Of course both have a threat at one of the marked points but they're miai... :(]TR[ap]TR[bq])
+(;W[ar];B[ao]
+(;W[ap];B[bp]C[White can't approach at A! :(]LB[bq:A])
+(;W[bq];B[ap]C[:(])
+(;W[an];B[ap]C[:(]))
+(;W[an]
+(;B[ap];W[ao];B[ar]C[Need one more move to get a seki! :(]TR[bq])
+(;B[am]
+(;W[ap];B[ao]MA[an]C[Also is obviously worse than unconditional life...])
+(;W[bq]
+(;B[ao];W[ap];B[bp]MA[ap]C[Ko... :(])
+(;B[ap];W[ao];B[ar]C[Seki... :(]))
+(;W[ao];B[ar]C[Seki... :(]TR[ap]TR[bq])
+(;W[ar];B[ao]C[Playing at A is pointless cause of lack-of-libs... :(]LB[ap:A])))
+(;W[bp];B[ar]C[Dead! :O])
+(;W[ds];B[ao]C[:(]))
+(;B[ap]
+(;W[aq]C[Well done! Thanks to this miai White will surely have more than one eye! :)CHOICERIGHT]TR[ao]TR[bp])
+(;W[ao];B[ar]
+(;W[bq];B[aq]C[Only seki! :(])
+(;W[aq];B[bq]C[Dead! :O])
+(;W[bp];B[aq]C[:(]))
+(;W[bp];B[aq]C[:(])
+(;W[ds];B[ao]C[:(]))
+(;B[ao];W[ap]TR[an]TR[aq]C[RIGHT])
+(;B[ar];W[ap]TR[aq]TR[bq]C[RIGHT]))
+(;W[aq];B[bs]C[:(]TR[ao]TR[bp])
+(;W[ap];B[bs]C[:(]TR[ar]TR[bq])
+(;W[ar];B[bs]C[:(]TR[bq]TR[ap])
+(;W[ao];B[bs]C[:(]TR[aq]TR[bp])
+(;W[as];B[aq]C[:(]TR[ap]TR[bq])
+(;W[bq];B[bs]C[:(]TR[ap]TR[ar])
+(;W[bp];B[bs]C[:(]TR[aq]TR[ao])
+(;W[an];B[bs]C[:(])
+(;W[ds]C[NOTTHIS]))

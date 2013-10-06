@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[4d]DP[8]SO[Field Mouse]CO[0]AW[cc]AW[dd]AW[fd]AW[hd]AW[jd]AB[bd]AB[cf]AB[ef]AB[if]AB[gf]AB[gh]AW[ch]AW[eh]AW[dh]AW[ei]AW[ej]AW[dj]AB[di]AB[ci]AB[cj]AB[bh]AW[ck]AW[cl]AW[bm]AB[dk]AB[dl]AB[cm]AB[cn]AB[do]AB[dq]AW[gj]AW[qd]AB[pp]C[Although white can easily discard three stones now and get an okay-result, there is also much cooler option - discard nothing. How?]AP[goproblems]
+(;W[aj]
+(;B[bi];W[bg];B[cg];W[ah];B[bk];W[bl];B[bf];W[ag]C[Yes, this is how the game went!CHOICERIGHT])
+(;B[bg];W[bi]C[RIGHT]))
+(;W[ai];B[bk];W[bl];B[bi]
+(;W[ak];B[bg];W[bj];B[bn];W[am]C[You saved all, but in a not very good way.])
+(;W[bg];B[aj];W[al];B[cg];W[ak];B[bf];W[bj];B[ag];W[bn];B[bo];W[an]C[You could do even better!]))
+(;W[bg];B[bk];W[bl];B[bj];W[ah];B[bn];W[bi];B[am]C[Oh no! You discarded the three stones after all! The result is not bad for white, but you could... follow the instructions better :)])
+(;W[bj];B[bi];W[bg];B[bk])
+(;W[ak];B[bi];W[bg];B[cg]))

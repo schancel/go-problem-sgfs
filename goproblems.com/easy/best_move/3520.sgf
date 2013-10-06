@@ -1,0 +1,34 @@
+(;GE[best move]DI[4k]DP[29]SO[kochi]CO[5]AB[eb]AB[ec]AB[ed]AB[dd]AB[ce]AW[be]AW[cd]AW[cc]AW[dc]AW[db]C[How should B play down the left side?]AP[goproblems]
+(;B[bf];W[cf]
+(;B[de];W[bg]
+(;B[bd];W[af]
+(;B[bc];W[bb]
+(;B[da];W[cb];B[ab];W[ad])
+(;B[ab];W[ad])
+(;B[ca];W[cb]
+(;B[ab];W[ad])
+(;B[ba];W[ad]))
+(;B[ac];W[ab])
+(;B[ad];W[ae]))
+(;B[bb];W[bc])
+(;B[cb];W[bc])
+(;B[da];W[bc]))
+(;B[df];W[cg])
+(;B[cg];W[df])
+(;B[af];W[ae]
+(;B[bd];W[ag]
+(;B[bc];W[bb];B[da];W[cb];B[ca];W[ab])
+(;B[da];W[bb]))
+(;B[df];W[cg];B[bd];W[ag];B[bc];W[bb];B[da];W[cb])))
+(;B[df];W[cg]))
+(;B[cf];W[bf]
+(;B[cg]C[You can't double hane here.RIGHT])
+(;B[bg]C[B is left with a weakness below]))
+(;B[df];W[cf];B[de];W[cg])
+(;B[de];W[bf])
+(;B[bd];W[cf];B[de];W[bg]
+(;B[bc];W[bb]
+(;B[da];W[cb];B[ca];W[ad])
+(;B[ab];W[ad]))
+(;B[da];W[bc]))
+(;B[bb];W[cf];B[de];W[cg]C[W is alive and running along the side.]))

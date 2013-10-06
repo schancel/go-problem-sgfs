@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[37]SO[dmwit]CO[0]AB[mb]AB[mc]AB[nc]AB[oc]AB[pc]AB[qc]AB[qd]AB[rd]AW[nb]AW[ob]AW[pb]AW[qb]AW[rc]AW[sc]AW[sb]AB[ra]AB[qa]TR[qa]LB[me:Y]LB[oe:N]C[Misclick... panic attack! Can white recover from your unintended play?FORCE]AB[ma]AP[goproblems]
+(;B[me];W[ne]AW[mb]AW[mc]AW[nc]AW[oc]AW[pc]AW[qc]AW[qd]AW[rd]AB[nb]AB[ob]AB[pb]AB[qb]AB[rc]AB[sc]AB[sb]AW[qa]AW[ra]C[Okay, then, recover.]AW[ma]
+(;B[na];W[rb])
+(;B[pa];W[na])
+(;B[sa];W[sd];B[rb];W[na])
+(;B[rb];W[na])
+(;B[oa];W[oe]C[Death in gote.])
+(;B[sd];W[rf]C[Can't escape.]))
+(;B[oe];W[na]C[Okay, then, how do you kill?]
+(;B[pa];W[rb]C[Seki -- not as good as the non-misclick route!])
+(;B[rb]C[Good, damezumari!RIGHT])
+(;B[sa];W[pa])
+(;B[sd];W[pa])
+(;B[oa];W[pa])))

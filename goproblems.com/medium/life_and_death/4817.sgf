@@ -1,0 +1,10 @@
+(;GE[life and death]DI[2k]DP[22]SO[happyboy]CO[8]AB[cr]AB[dq]AB[eq]AB[er]AW[cq]AW[cp]AW[co]AW[eo]AW[fq]AW[fr]AW[hr]C[Black to live!]AP[goproblems]
+(;B[br]C[First move is right!];W[es];B[ds];W[fs]
+(;B[bs]C[Good job!RIGHT])
+(;B[bq]C[Black makes a mistake by playing at B3.];W[bs];B[bp];W[bo];B[ap];W[ar]C[Black is dead!! B3 is a wrong move.]))
+(;B[ds];W[br]C[Dead!!])
+(;B[bq];W[bs];B[br];W[es];B[ds];W[fs];B[bp];W[bo];B[ap];W[ar]C[Black is dead!!])
+(;B[bs];W[bq]C[Dead!!])
+(;B[ar];W[bs]
+(;B[br];W[es];B[ds];W[fs];B[bq];W[bp]C[Dead!!])
+(;B[cs];W[bq];B[br];W[es]C[Dead!!])))

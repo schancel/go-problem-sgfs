@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[7k]DP[41]SO[rabbit]CO[8]AB[qr]AB[qq]AB[rq]AB[qp]AB[pp]AB[po]AB[op]AB[oq]AB[np]AW[pq]AW[pr]AW[or]AW[nr]AW[mq]AW[mp]AB[mo]AB[mn]AB[nm]AW[no]AW[oo]AW[on]AW[pn]AW[qo]AW[rp]AW[ro]AW[rn]AB[qn]AB[qm]AW[ol]C[White to play.]AP[goproblems]
+(;W[ql];B[pm]
+(;W[rm];B[om]TR[pn]TR[on]TR[oo]TR[no]C[black escapes])
+(;W[pl];B[om]TR[on]TR[pn]TR[oo]TR[no]C[black escapes])
+(;W[om];B[rm]
+(;W[rl];B[sn];W[pl]C[good : )RIGHT])
+(;W[pl];B[sm]
+(;W[rl]C[RIGHT])
+(;W[sn];B[sp])
+(;W[sl]C[this is a really strange move... but it works... I guessRIGHT];B[rl];W[rk];B[sk];W[sn]C[RIGHT]))
+(;W[sm];B[rl];W[rk];B[pl];W[pk];B[qk];W[sl]C[there is a much simpler way to playRIGHT])))
+(;W[rm];B[ql]
+(;W[om];B[rl])
+(;W[pl];B[rl])
+(;W[pm];B[rl])
+(;W[rl];B[om];W[pm];B[pl]))
+(;W[om];B[rm])
+(;W[pl];B[rm])
+(;W[rl];B[om];W[pm];B[pl])
+(;W[pm];B[ql]
+(;W[rm];B[rl])
+(;W[rk];B[rm])
+(;W[qk];B[rk]
+(;W[rm];B[rl])
+(;W[rl];B[rm]))
+(;W[rl];B[rm]
+(;W[qk];B[rk])
+(;W[rk];B[sn])))
+(;W[sq]C[NOTTHIS])
+(;W[sr]C[NOTTHIS])
+(;W[qs]C[NOTTHIS])
+(;W[rr]C[NOTTHIS]))

@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[4k]DP[30]SO[traveller]CO[4]AB[nq]AB[qp]AB[qq]AB[qr]AB[qs]AB[mq]AB[kq]AW[or]AW[op]AW[oo]AW[pn]AW[qo]AW[rn]AW[rp]AW[rq]AW[rr]AW[rs]AP[goproblems]
+(;B[nr]
+(;W[pr]
+(;B[os]
+(;W[ps];B[oq];W[ns];B[pq]C[Good job.  If you're reading this, your name must not be MrMoto!RIGHT])
+(;W[pq];B[ps]C[RIGHT]))
+(;B[ps];W[os]C[You had me going there for a second -- after O2 I thought you knew what you were doing.];B[oq];W[pq]C[Now -- you've just been spanked.  Maybe you like that sort of thing?]))
+(;W[oq];B[os]C[Superb! You did find this on the first try, right?RIGHT]))
+(;B[oq];W[pq]C[Forecast: Dead black stones with a chance of sarcasm.]
+(;B[pp];W[pr]C[Count the liberties -- white has three, black has two.  See if you can figure out who wins the capturing race by yourself.  (You can use your fingers if you have to.)])
+(;B[pr];W[pp]C[Do these kinds of moves work in real games for you?]))
+(;B[pq];W[oq]C[Why?])
+(;B[os];W[nr]
+(;B[ms];W[pq]
+(;B[ps];W[ns]C[Black has two liberties.  White has three.])
+(;B[ns];W[ps];B[pr];W[pp];B[ps];W[mr];B[ls];W[lr]C[Okay . . . how exactly are you expecting to escape?])
+(;B[mr];W[ps];B[pr];W[pp]C[Dee-Eee-Ahh-Dee -- find out what it means to be!]))
+(;B[mr]C[I didn't see this line when I made the problem for some reason.  Actually, the problem just kinda sucks now, since the whole point was supposed to be that the empty triangle was the right move for b.RIGHT]))
+(;B[pr];W[oq]C[This is not going anywhere you're going to like . . .]
+(;B[nr];W[os])
+(;B[os];W[nr])))

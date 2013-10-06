@@ -1,0 +1,29 @@
+(;GE[life and death]DI[4k]DP[30]SO[Field Mouse]CO[0]AW[ac]AW[db]AW[dc]AW[ce]AW[cf]AW[bg]AW[bh]AB[ci]AB[ch]AB[df]AB[ec]AB[eb]AB[ea]AB[ca]AB[da]AB[ed]AW[bb]AW[cb]AW[ab]AB[cc]AW[cd]AB[dd]AB[ba]AB[aa]AB[bi]AB[ai]AB[dg]AB[ef]AW[cg]AB[de]C[Can you send the white angel back into the heaven?]AP[goproblems]
+(;B[ad];W[bc];B[bd];W[cc]
+(;B[af];W[be]
+(;B[ag];W[ah])
+(;B[ah];W[ag])
+(;B[ae];W[ag]))
+(;B[be]
+(;W[bf]C[CHOICE]
+(;B[ae];W[af];B[ah]C[You did it!RIGHT])
+(;B[ah];W[ae]
+(;B[bd];W[ag])
+(;B[ag];W[bd]))
+(;B[af];W[ae])
+(;B[ag];W[ae]
+(;B[bd];W[ah])
+(;B[ah];W[bd])))
+(;W[ae];B[af];W[bf];B[ae]C[RIGHT]))
+(;B[ae];W[af];B[be];W[ah])
+(;B[ah];W[be];B[af];W[ag])
+(;B[ag];W[af];B[ah];W[be])
+(;B[bf];W[be]))
+(;B[ah];W[bd])
+(;B[ag];W[bd];B[ah];W[af])
+(;B[bd];W[bc];B[ad])
+(;B[ae];W[bd])
+(;B[bc];W[bd])
+(;B[be];W[bd])
+(;B[bf];W[bd])
+(;B[af];W[bd]))

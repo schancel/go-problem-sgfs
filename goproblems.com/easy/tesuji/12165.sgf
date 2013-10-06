@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[6k]DP[36]SO[Meysel]CO[0]AB[bp]AB[cp]AB[dp]AB[ep]AW[bq]AW[cq]AW[dq]AB[eq]AW[ds]AW[bs]AW[er]AB[fr]AB[gr]AW[fq]AW[fp]AW[gp]AB[fo]AB[hq]AW[jq]LB[hn:A]LB[ho:B]LB[io:C]C[FORCE]AP[goproblems]
+(;B[hn];W[hp];B[ip];W[iq];B[ho];W[hr]
+(;B[go];W[gq];B[hq]C[RIGHT])
+(;B[gq];W[gs]
+(;B[go];W[fs]C[ the stones are captured, but there is a better way, without letting white connect all of the remaining stonesRIGHT])
+(;B[fs];W[es]C[CHOICE])))
+(;B[io];W[go];B[gn];W[fn];B[eo];W[hn];B[gm];W[ho]C[CHOICE])
+(;B[ho];W[go];B[gn];W[fn];B[eo];W[hn];B[gm];W[hp];B[io];W[ip]C[CHOICE]))

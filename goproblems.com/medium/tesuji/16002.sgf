@@ -1,0 +1,102 @@
+(;GE[tesuji]DI[1k]DP[20]SO[meek]CO[0]AB[rq]AB[qq]AB[qp]AB[pp]AB[op]AB[np]AB[mp]AB[pr]AB[lq]AB[lr]AW[mq]AW[mr]AW[pq]AW[oq]AW[or]AW[lp]AW[kp]AW[jq]AW[qo]C[Your two cutting stones on the left are hung out to dry unless you can save them by killing all five white stones.]TR[mr]TR[mq]TR[oq]TR[pq]TR[or]AP[goproblems]
+(;B[ms];W[nr];B[os];W[qr]
+(;B[ns];W[ps];B[ls]C[You are on the right track, now FINISH HIM!!!]
+(;W[rr]
+(;B[sr];W[kr];B[nq];W[pr];B[rs];W[kq];B[qs]C[You stole all of white's eyes and squeezed him to death.  So mean!RIGHT])
+(;B[nq];W[pr]
+(;B[sr];W[kr];B[rs];W[kq];B[qs]C[You got him!RIGHT])))
+(;W[kr];B[nq];W[pr];B[rr];W[kq];B[qs]C[You stole all of white's eyes and you squeezed him to death!  So mean!]))
+(;B[qs];W[ps]C[Assume ko fails]))
+(;B[ns]
+(;W[qr]
+(;B[ps];W[qs]
+(;B[os];W[nr]
+(;B[ms];W[ls]C[:-(])
+(;B[ls];W[ms]
+(;B[pr];W[ps];B[os];W[ns]C[white lives])
+(;B[ps];W[pr];B[os];W[kr]C[white wins 4 libs to 2])
+(;B[os];W[ps]C[white lives])
+(;B[ns];W[kr]C[white wins 3 libs to 2])
+(;B[rr];W[kr];B[rs];W[kq];B[pr];W[ps];B[os];W[ns];B[nq];W[ks]C[stymied])
+(;B[rs]
+(;W[rr])
+(;W[kr]C[white wins the race]))
+(;B[nq];W[kr]C[white wins the race])
+(;B[jr];W[ir]C[white lives and your left group can't escape])
+(;B[is];W[ir]C[monkey jump? really?])))
+(;B[ls];W[os];B[ms];W[kr];B[nr];W[nq];B[ps];W[pr];B[rr];W[ks];B[rs];W[kq]C[darn]))
+(;B[os];W[ps]
+(;B[nq];W[nr]
+(;B[ls];W[ms]C[:-(])
+(;B[ms];W[ls]C[:-(]))
+(;B[ms]
+(;W[rr])
+(;W[nr];B[ls];W[rr];B[nq];W[pr]))))
+(;W[ms];B[nr];W[nq];B[os];W[ps]C[:-(]))
+(;B[os]C[CHOICE];W[ls];B[ks];W[ms]
+(;B[nq];W[kr];B[nr];W[kq]C[oops])
+(;B[nr];W[kr];B[nq];W[kq]C[oops]))
+(;B[ps];W[ls]
+(;B[ks];W[kr];B[ms];W[kq]
+(;B[ls];W[ns];B[js];W[is]
+(;B[nr];W[jr]C[Rescue failed])
+(;B[jr];W[ir]C[Rescue failed]))
+(;B[nq];W[ls];B[nr];W[ns];B[os];W[js]C[:-(]))
+(;B[nr];W[nq];B[ms];W[ns]
+(;B[os];W[qr]
+(;B[rs])
+(;B[qs];W[rs]C[:-(])
+(;B[rr];W[qs]C[:-(]))
+(;B[ks];W[kr];B[ms]
+(;W[js])
+(;W[kq];B[os];W[ls]C[:-(]))))
+(;B[ls]
+(;W[kr];B[ms];W[ns]
+(;B[nr];W[nq]
+(;B[os];W[ps];B[qr];W[kq];B[ks];W[js]C[:-(])
+(;B[ks];W[js]C[:-(]))
+(;B[nq]
+(;W[nr])
+(;W[qr];B[nr];W[ps];B[os];W[pr];B[rr])))
+(;W[ms]))
+(;B[nq]
+(;W[qr];B[nr])
+(;W[kr];B[nr];W[ls];B[ms])
+(;W[nr]
+(;B[ms];W[qr];B[os];W[ps];B[ls];W[ns];B[rr];W[qs]C[White Lives])
+(;B[os];W[qr];B[ms];W[ps]
+(;B[ls];W[ns];B[qs];W[rs];B[rr];W[sr];B[sq];W[kr];B[jr];W[ks];B[js];W[kq]C[white whooped you])
+(;B[ns];W[ls]C[nope]))
+(;B[ls]
+(;W[kr];B[ms];W[ks];B[ns])
+(;W[qr];B[ms];W[kr];B[ns];W[ps])
+(;W[ks];B[ms];W[ns];B[os])
+(;W[kq];B[ms];W[kr];B[ns];W[os];B[ps])
+(;W[ms];B[ns];W[os];B[ps];W[qr];B[ns])
+(;W[ps];B[ms];W[kr];B[ns];W[qr];B[os];W[pr];B[rr];W[ks];B[qs]C[got him!RIGHT]))
+(;B[qr];W[ls];B[os];W[kr];B[ns];W[kq]C[:-(])))
+(;B[nr];W[nq]
+(;B[ms];W[ns]
+(;B[qr];W[ls];B[ps];W[kr]C[You stones on the left are dead])
+(;B[ls];W[kr]C[stones on the left are dead];B[os];W[ps];B[ks];W[js])
+(;B[ks];W[ls]C[ko is no good])
+(;B[ps];W[ls];B[os];W[kr]C[stones on the left are dead]))
+(;B[qr];W[ls]
+(;B[os];W[ns];B[ps];W[kr]C[no luck there])
+(;B[ns];W[kr];B[os];W[kq]C[no luck there])
+(;B[ms];W[ns]C[no luck there]))
+(;B[os];W[ns];B[ps];W[qr];B[ms];W[qs]C[oops])
+(;B[ns];W[qr];B[ps];W[qs];B[os];W[ms]C[oops])
+(;B[ps];W[qr];B[qs];W[ls];B[os];W[ns];B[rr];W[kr]C[oops])
+(;B[ls]
+(;W[ns])
+(;W[kr]
+(;B[ms];W[ns]
+(;B[os];W[ps];B[qr];W[ks];B[qs];W[kq]C[oops])
+(;B[ks];W[js];B[os];W[kq]C[oops]))
+(;B[ns];W[kq])
+(;B[os];W[ns];B[qs];W[ps]C[ko is no good])
+(;B[ps];W[kq];B[os];W[ns];B[ms];W[ks]C[oops])
+(;B[qr];W[kq]
+(;B[ms];W[ns];B[os];W[ks]C[oops])
+(;B[os];W[ns];B[ps];W[ks];B[js];W[ms]C[oops]))))))

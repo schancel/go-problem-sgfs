@@ -1,0 +1,39 @@
+(;GE[life and death]DI[7k]DP[41]SO[Mocramis]CO[0]AB[ck]AB[dk]AB[ek]AB[fl]AB[gl]AB[gk]AB[gj]AB[hk]AB[il]AB[eh]AB[fh]AB[gh]AB[hh]AB[ih]AB[jh]AB[kh]AB[li]AB[mi]AB[kj]AB[kk]AB[lk]AB[mk]AW[ik]AW[jk]AW[jl]AW[kl]AW[ll]AW[ml]AW[jj]AW[ji]AW[ki]AW[hi]AW[hj]AW[gi]AW[fi]AW[fj]AW[ej]AW[cj]AW[dh]AW[dg]AW[eg]AW[fg]AW[bj]LB[eh:A]LB[dg:B]C[White answer B to A. Show him his eror]AW[fk]SZ[13]AP[goproblems]
+(;B[dj];W[ii]LB[ij:1]LB[lm:2]C[Wrong! two eyes. And the C5 cut don't work.CHOICE])
+(;B[ei];W[dj]C[And now ?]
+(;B[ii];W[ij];B[di];W[ci];B[ch];W[bh]C[No, the shicho is bad for black.CHOICE])
+(;B[ij];W[ii];B[di];W[ci];B[ch];W[bh]C[No, the shicho is bad for black.CHOICE])
+(;B[di];W[ci]C[And Now ?]
+(;B[ch];W[bh]C[No, the shicho is bad for black.CHOICE])
+(;B[ii];W[ij])
+(;B[ij];W[ii])))
+(;B[di];W[dj];B[ei])
+(;B[ii];W[ij]
+(;B[ei];W[dj])
+(;B[dj];W[di]
+(;B[ei];W[jm]
+(;B[lm];W[hl]
+(;B[hm];W[im]
+(;B[hl]C[Good white is dead !RIGHT])
+(;B[el];W[hl]C[Consider white would win the ko];B[gm]C[Good! white is dead  !RIGHT])
+(;B[em];W[hl];B[gm]C[Good! white is dead  !RIGHT])
+(;B[fm];W[hl]
+(;B[el];W[gm]C[wrong ko!CHOICE])
+(;B[gm];W[el]C[Wrong you are deadCHOICE]))
+(;B[gm];W[hl];B[el]C[Good! white is dead  !RIGHT]))
+(;B[el];W[hm]C[Wrong, white have two eyes.CHOICE]LB[im:1]LB[km:2])
+(;B[em];W[hm]LB[im:1]LB[km:2]C[Wrong, white have two eyes.CHOICE])
+(;B[fm];W[hm]LB[im:1]LB[km:2]C[Wrong, white have two eyes.CHOICE]))
+(;B[im];W[lm]C[WrongCHOICE])
+(;B[hm];W[lm]C[WrongCHOICE])
+(;B[el];W[lm]C[WrongCHOICE]))
+(;B[jm];W[ei]C[WrongCHOICE]))
+(;B[di];W[dj]
+(;B[ci];W[ei]C[White have too liberties, you can't kill him this wayCHOICE])
+(;B[ei])))
+(;B[ij];W[ii]
+(;B[dj];W[di])
+(;B[ei];W[dj])
+(;B[di];W[dj]
+(;B[ci];W[ei]C[Wrong, white ever have two eyesCHOICE])
+(;B[ei]))))

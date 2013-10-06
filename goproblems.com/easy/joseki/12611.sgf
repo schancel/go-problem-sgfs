@@ -1,0 +1,14 @@
+(;GE[joseki]DI[20k]DP[72]SO[Gelya]CO[0]SZ[19]AW[cc]AW[cd]AW[be]AW[cf]AB[ed]AB[ce]AB[de]AB[df]AB[dg]LB[ed:1]LB[jd:Y]LB[jj:N]C[do you know this joseki?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Ð¿â–’Ð¿â•£Ð¿â•©Ñâ–€Ð¿â•£]PB[Ð¿â•–Ð¿â•£Ñâ”€Ð¿â•«Ñâ–€Ð¿â•£]
+(;B[jd];W[jj]MA[pe]C[start from squareFORCE];B[pe];W[pc]C[FORCE]
+(;B[oc];W[ob]C[FORCE]
+(;B[od];W[nc]C[FORCE]
+(;B[md];W[qc]C[FORCE];B[nd]C[];W[nb]C[correct josekiRIGHT])
+(;B[nd]C[it is another joseki])
+(;B[nb]C[it is another joseki])
+(;B[pb]C[it is another joseki]))
+(;B[nc]C[it is another joseki]))
+(;B[md]C[it is another joseki])
+(;B[nd]C[it is another joseki])
+(;B[nc]C[it is another joseki])
+(;B[qc]C[it is another joseki]))
+(;B[jj];W[jd]MA[pe]C[start from squareFORCE];B[pe]MA[pc];W[pc]LB[pe:1]MA[oc]C[FORCE];B[oc]LB[pc:2]LB[pe:1]MA[ob];W[ob]LB[oc:3]LB[pc:2]LB[pe:1]MA[od]C[FORCE];B[od]LB[ob:4]LB[oc:3]LB[pc:2]LB[pe:1]MA[nc];W[nc]LB[ob:4]LB[oc:3]LB[pc:2]LB[od:5]LB[pe:1]MA[md]C[FORCE];B[md]LB[ob:4]LB[nc:6]LB[oc:3]LB[pc:2]LB[od:5]LB[pe:1]MA[qc];W[qc]LB[ob:4]LB[nc:6]LB[oc:3]LB[pc:2]LB[md:7]LB[od:5]LB[pe:1]MA[nd]C[FORCE];B[nd]LB[ob:4]LB[nc:6]LB[oc:3]LB[pc:2]LB[qc:8]LB[md:7]LB[od:5]LB[pe:1]C[];W[nb]LB[pe:1]LB[pc:2]LB[oc:3]LB[ob:4]LB[od:5]LB[nc:6]LB[md:7]LB[qc:8]LB[nd:9]C[good))RIGHT]))

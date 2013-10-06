@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[37]SO[polo]CO[8]AB[br][cr][aq][ap][bp][cp][do][en][cn][fn][gn][ho][hq][hr][hs][fs][es]AW[bq][cq][dq][dp][eo][fo][eq][fq][fp][er][gr][gs]SZ[19]C[White to live]
+
+(;W[dr];B[ds]
+(;W[cs];B[bs]
+(;W[fr];B[ar];W[cs];B[ds];W[es]C[RIGHT])
+(;W[ar];B[as];W[fr];B[ar];W[cs];B[ds];W[es]C[RIGHT])
+(;W[as];B[cs];W[fr];B[ar]))
+(;W[fr];B[cs];W[ar];B[as])
+(;W[bs];B[cs])
+(;W[ar];B[cs])
+(;W[as];B[cs];W[ar];B[bs];W[ar];B[as];W[fr];B[ar]))
+(;W[ds];B[dr]
+(;W[fr];B[es])
+(;W[cs];B[ar])
+(;W[ar];B[as];W[cs];B[bs]
+(;W[fr];B[ds])
+(;W[ds];B[cs];W[fr];B[ar];W[ds];B[es])))
+(;W[cs];B[dr]
+(;W[fr];B[ar];W[ds];B[es])
+(;W[ds];B[ar];W[fr];B[es])
+(;W[ar];B[ds]
+(;W[fr];B[as])
+(;W[as];B[bs])
+(;W[bs];B[as]))))

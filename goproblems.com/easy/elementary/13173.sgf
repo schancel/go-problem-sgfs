@@ -1,0 +1,11 @@
+(;GE[elementary]DI[12k]DP[55]SO[Bleedo]CO[0]AW[sc]AW[rc]AW[qc]AW[oc]AW[ob]AB[nb]AB[nc]AW[mc]AW[nd]AW[oe]AW[pe]AW[qe]AW[re]AB[od]AB[pd]AB[qd]AB[rd]AB[sd]AB[me]AB[ld]C[Black to save the most stones]AP[goproblems]
+(;B[md];W[ne];B[mb]C[White gets five stones])
+(;B[ne];W[md]
+(;B[mb];W[lc];B[kc]C[White is caughtRIGHT])
+(;B[lc];W[mb]))
+(;B[mb];W[ne]
+(;B[lc];W[md]C[White gets five stones])
+(;B[md]C[White gets five stones]))
+(;B[lc];W[mb])
+(;B[pc];W[pb])
+(;B[lb];W[mb]))

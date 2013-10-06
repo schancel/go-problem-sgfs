@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[11]SO[jonathan]CO[7]GM[1]FF[3]
+RU[Chinese]
+SO[Taiwanese problem book]
+SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2000-05-20]
+SY[Cgoban 1.9.10]TM[30:00(5x1:00)];C[Black to play.
+]PL[1]
+AW[ea][db][fb][hb][ib][kb][gc][ic][jc][kc][lc][qc][gd][jd][nd][qd][le]
+AB[ia][ja][ka][eb][jb][lb][cc][ec][fc][oc][fd][id][kd][ld][od][rd][ce][ge][ie][me][oe][re][gf][jf][kf][mf][pf]
+(;B[mb];W[nb]
+(;B[mc];W[md]
+(;B[nc];W[ha];B[hd];W[la];B[ja]LB[ka:A][hc:B]
+C[RIGHT 'a' and 'b' are miai.
+])
+
+(;B[ke]
+(;W[nc])
+
+(;W[la]
+(;B[ma];W[nc]
+(;B[ob];W[na])
+
+(;B[ne];W[na])
+)
+
+(;B[nc];W[ha]
+(;B[hd];W[hc]
+(;B[ga];W[fa])
+
+(;B[fa];W[ga];B[ja];W[ka])
+)
+
+(;B[ja];W[ka];B[hd];W[hc])
+)
+)
+)
+)
+
+(;B[nc];W[mc];B[ob];W[la];B[ma];W[ha];B[la];W[na])
+)
+
+(;B[mc];W[mb]
+(;B[nb];W[la])
+
+(;B[la];W[ma];B[nb];W[ha])
+)
+
+(;B[nb];W[mb];B[ma];W[mc];B[la];W[ha];B[na];W[hd])
+
+)

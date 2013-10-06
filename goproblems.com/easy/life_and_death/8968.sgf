@@ -1,0 +1,57 @@
+(;GE[life and death]DI[5k]DP[33]SO[koala]CO[5]AB[pr]AB[qr]AB[rr]AB[qq]AB[rp]AB[sp]AB[ro]AB[so]AB[sn]AW[qp]AW[qo]AW[rn]AW[sm]AW[qm]AW[oo]AW[or]AW[nq]AW[op]AW[sr]TR[sr]C[It's late in the endgame, there are no ko threats, and white plays the marked stone.  How should black play?]AW[oq]AP[goproblems]
+(;B[ss];W[rs]
+(;B[qs];W[rq]
+(;B[sq];W[rq]
+(;B[ss];W[rp])
+(;B[rp]C[];W[sp];B[sq]C[Ko, well done.RIGHT])
+(;B[sq];W[sp]C[]))
+(;B[ss]C[(ko)];W[sq];B[rp]C[RIGHT]))
+(;B[sq];W[rq]
+(;B[rp];W[sp];B[sq]C[Ko, well done.RIGHT])
+(;B[sp];W[rp])
+(;B[sq];W[sp])
+(;B[qs];W[rp]))
+(;B[rq];W[ss]C[Dead shape, and no room for extra eyes.])
+(;B[ps];W[sq]
+(;B[qs];W[rq]
+(;B[ss];W[rp])
+(;B[rp];W[sp];B[ss];W[ro]C[WHITE HAS ESCAPED WITH YOUR EYES]))
+(;B[rq];W[pq]
+(;B[qs];W[os])
+(;B[ss];W[sr]))))
+(;B[rq];W[rs]
+(;B[qs];W[ss])
+(;B[sq];W[ss])
+(;B[ps];W[ss]))
+(;B[rs];W[ps]
+(;B[ss];W[sq]C[One eye])
+(;B[sq];W[rq]
+(;B[rp];W[sq]C[Dead shape.])
+(;B[ss];W[rp]))
+(;B[rq]C[Only one eye])
+(;B[qs];W[sq]
+(;B[rq]C[One eye])
+(;B[ss];W[rq]
+(;B[rp];W[pq])
+(;B[os];W[rp]))))
+(;B[ps];W[rs]
+(;B[sq];W[rq];B[rp]C[];W[sp];B[sq]C[Ko, well done.RIGHT])
+(;B[rq];W[ss])
+(;B[qs];W[rq]
+(;B[ss]C[(ko)];W[sq];B[rp]C[RIGHT])
+(;B[sq];W[rq];B[rp];W[sp]C[]
+(;B[sq]C[Ko, well done.RIGHT])
+(;B[ss];W[ro]))))
+(;B[sq];W[rq]C[]
+(;B[rp];W[sp]
+(;B[sq]C[Ko, well done.RIGHT])
+(;B[ss];W[ro])
+(;B[rs];W[ro])
+(;B[qs];W[ro])
+(;B[ps];W[ro]))
+(;B[sq];W[sp])
+(;B[ss];W[rp])
+(;B[sp];W[rp]))
+(;B[qs];W[ss]
+(;B[sq];W[rq];B[rp];W[sp];B[sq];W[so])
+(;B[rs];W[sq];B[rq];W[sr])))

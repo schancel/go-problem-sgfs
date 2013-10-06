@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[19]SO[shaydwyrm]CO[6]AW[pq]AW[qo]AW[qp]AW[oq]AB[pr]AB[qq]AB[rq]AB[rp]AW[ro]TR[rp]TR[ro]AP[goproblems]
+(;W[or];B[qs]
+(;W[sr];B[rr]
+(;W[os];B[ps];W[rs]C[Ko - this is a good result, since before the marked exchange black was unconditionally alive.RIGHT]TR[rp]TR[ro])
+(;W[sp];B[sq]))
+(;W[os];B[sr]TR[sp]TR[rs]C[Miai for life.])
+(;W[rr];B[sr]TR[sp]TR[rs]C[Miai for life.])
+(;W[rs];B[rr]
+(;W[os];B[ss])
+(;W[sr];B[sq])
+(;W[sp];B[ss]TR[sq]TR[ps]C[Miai for life.]))
+(;W[sq];B[sr]TR[rs]TR[sp]C[Miai for life.])
+(;W[sp];B[rr]C[Black is alive.]))
+(;W[sp]
+(;B[rr]C[]
+(;W[sq];B[sr]
+(;W[qs];B[rs];W[ps];B[or])
+(;W[rs];B[qs])
+(;W[or];B[qs]))
+(;W[sr];B[sq]
+(;W[rs];B[so])
+(;W[qs];B[ss])
+(;W[or];B[qs]))
+(;W[or];B[qs])
+(;W[qs];B[rs]
+(;W[or];B[ps])
+(;W[ps];B[or]))
+(;W[rs]C[This works, but is not the best solution.  If black can escape by crawling out to P2, he can play T2 instead of S2 and live.]))
+(;B[rs]C[NOTTHIS]
+(;W[sr];B[sq])
+(;W[or];B[sr])
+(;W[sq];B[sr])))
+(;W[sr];B[rs]
+(;W[rr];B[qr])
+(;W[or];B[ps]))
+(;W[rs];B[qs])
+(;W[rr];B[sr]))

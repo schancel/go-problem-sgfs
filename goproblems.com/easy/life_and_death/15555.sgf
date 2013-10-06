@@ -1,0 +1,67 @@
+(;GE[life and death]DI[7k]DP[42]SO[Zander]CO[0]AB[sb]AB[rb]AB[rc]AB[qc]AB[pc]AB[pd]AB[oe]AB[od]AB[nd]AW[pe]AW[pf]AW[pg]AW[qh]AW[rg]AW[ri]AW[si]AW[sj]AW[qd]AW[rd]AW[sd]AW[sc]AB[of]AW[og]AB[ng]AB[nh]AB[oh]AB[ph]AB[qi]AB[pj]AB[rj]AB[rk]AB[sk]AP[goproblems]
+(;B[rf];W[qf]
+(;B[sg];W[rh]
+(;B[re];W[qe]
+(;B[se];W[sf])
+(;B[sf]C[Seki.RIGHT])
+(;B[sh];W[sf]))
+(;B[se]C[];W[qe]C[Sente seki.RIGHT])
+(;B[sf]C[];W[re]C[Sente seki.RIGHT])
+(;B[qe];W[re])
+(;B[sh];W[sf];B[re];W[qe]))
+(;B[sf];W[sg]
+(;B[re];W[qe])
+(;B[qe];W[re])
+(;B[se];W[re]))
+(;B[se];W[qe];B[sg];W[rh]C[Sente seki.RIGHT])
+(;B[re];W[sf]))
+(;B[qe];W[re]
+(;B[qf];W[qg]
+(;B[rf];W[sf])
+(;B[sg];W[rh]
+(;B[rf];W[sf])
+(;B[sf];W[rf])
+(;B[se];W[sf])
+(;B[sh];W[sf])))
+(;B[rf];W[qf]
+(;B[sf];W[sg])
+(;B[sg];W[sf]))
+(;B[sf];W[rf])
+(;B[sg];W[sf];B[qf];W[qg])
+(;B[qg];W[qf])
+(;B[sh];W[rh];B[qf];W[qg]
+(;B[rf];W[sf])
+(;B[sf];W[rf])
+(;B[sg])))
+(;B[re];W[qe]
+(;B[rf];W[qf]
+(;B[sg];W[sf]
+(;B[rh];W[sh])
+(;B[se];W[sf]))
+(;B[se];W[sf])
+(;B[sf];W[sg]))
+(;B[sg];W[sf]
+(;B[rf];W[qf])
+(;B[qf];W[rf])))
+(;B[se];W[re]
+(;B[rf];W[sf];B[qf];W[nk]C[White can tenuki.]
+(;B[qg];W[qe])
+(;B[qe];W[qg])
+(;B[sh];W[rh]))
+(;B[sf];W[rf]))
+(;B[qf];W[qe];B[rf];W[sf])
+(;B[sf];W[rf]
+(;B[qe];W[re])
+(;B[sg];W[rh]
+(;B[se];W[re])
+(;B[qe];W[re])
+(;B[re];W[qe])))
+(;B[sg];W[rh]
+(;B[rf];W[qf])
+(;B[sf];W[rf])
+(;B[qe];W[re];B[rf];W[qf]
+(;B[sf]C[Seki.RIGHT])
+(;B[se];W[sf])))
+(;B[qg];W[qf])
+(;B[rh];W[sh])
+(;B[sh];W[rh];B[rf];W[qe];B[qf];W[sf]))

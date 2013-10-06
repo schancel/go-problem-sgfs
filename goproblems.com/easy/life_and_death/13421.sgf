@@ -1,0 +1,114 @@
+(;GE[life and death]DI[7k]DP[41]SO[BartTM]CO[0]AB[qd]AB[pd]AB[od]AB[me]AW[ke]AW[og]AW[oe]AB[jc]AB[ld]AB[lc]AB[nf]AB[ne]AB[pc]AB[rd]AW[re]AW[pe]AW[pg]AW[mg]AW[kg]AW[le]AB[lb]AW[md]AW[nd]AW[nc]AW[mb]MA[me]MA[ne]MA[nf]C[Those marked stones need some TLC, can you manage that?]AP[goproblems]
+(;B[nb];W[ob]
+(;B[na];W[oa]
+(;B[oc];W[ma]
+(;B[nb];W[mc]
+(;B[pb];W[ng]
+(;B[la]C[Right.RIGHT])
+(;B[pa];W[mf]
+(;B[la];W[of]C[You can still have those 2 stones. They just don't taste so well anymore.]MA[oa]MA[ob])
+(;B[na];W[of]C[Not optimal, by a wide margin.])))
+(;B[pa];W[pb])
+(;B[la]C[Easy!RIGHT])
+(;B[ng];W[nh])
+(;B[mf];W[ng])
+(;B[of];W[pf]))
+(;B[la];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[mc];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[pb];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[pa];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[ng];W[nh])
+(;B[mf];W[ng])
+(;B[of];W[pf])
+(;B[na]C[White lives and tenukies...]))
+(;B[mc];W[ma]
+(;B[nb];W[oc]
+(;B[la];W[ng]
+(;B[na];W[mf])
+(;B[pb];W[mf]
+(;B[na];W[of])
+(;B[pa];W[of])))
+(;B[pb];W[ng];B[pa]C[RIGHT])
+(;B[pa];W[pb]
+(;B[qb];W[qa]
+(;B[ra];W[ng]
+(;B[pa];W[na];B[la];W[qa]C[Ko])
+(;B[la];W[mf]
+(;B[pa];W[of])
+(;B[na];W[of])))
+(;B[la]
+(;W[na])
+(;W[rb]
+(;B[na];W[qc])
+(;B[qc];W[na])
+(;B[rc];W[na])
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf])
+(;B[ra];W[qc])))
+(;B[rb];W[ng]))
+(;B[la];W[qb])
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf])
+(;B[qa];W[qb]))
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf]))
+(;B[oc])
+(;B[la];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[pb];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[pa];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.]))
+(;B[pb];W[ma]
+(;B[nb];W[mc];B[oc])
+(;B[mc])
+(;B[oc])
+(;B[la];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[pa];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf]))
+(;B[pa];W[pb];B[oc];W[ma];B[nb];W[mc])
+(;B[la];W[ma]
+(;B[nb];W[oc]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[oc])
+(;B[mc])
+(;B[pb])
+(;B[pa];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.]))
+(;B[ma];W[la])
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf]))
+(;B[oc];W[na]
+(;B[mc];W[nb];B[pb];W[ng])
+(;B[pb];W[ng])
+(;B[la];W[ng]))
+(;B[mc];W[na];B[oc])
+(;B[ma];W[na]
+(;B[la];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[mc];W[la]
+(;B[oc];W[nb]
+(;B[pb];W[ng])
+(;B[ka];W[ng]))
+(;B[ka];W[ng]
+(;B[ma];W[nb])
+(;B[oc];W[nb]))
+(;B[pb];W[ng]))
+(;B[oc];W[la]
+(;B[mc])
+(;B[ka];W[ng]
+(;B[ma];W[nb])
+(;B[mc])
+(;B[pb];W[nb]))))
+(;B[oa];W[na]))
+(;B[mc];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[ob];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[oc];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[ma];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[na];W[nb]C[White has 4 liberties to Black's 3 and wins the capturing race.])
+(;B[ng];W[nh])
+(;B[mf];W[lf])
+(;B[of];W[pf])
+(;B[lf];W[mf])
+(;B[lg];W[mf])
+(;B[qe];W[ng]))

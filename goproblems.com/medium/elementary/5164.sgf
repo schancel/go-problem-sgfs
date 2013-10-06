@@ -1,0 +1,27 @@
+(;GE[elementary]DI[2k]DP[22]SO[santa c]CO[8]SZ[19]AW[oc]AW[dd]AW[od]AW[de]AW[ee]AW[ne]AW[ef]AW[lf]AW[pf]AW[qf]AW[dg]AW[eg]AW[dh]AW[fh]AW[hh]AW[ih]AW[jh]AW[kh]AW[di]AW[ei]AW[hi]AW[ii]AW[bj]AW[cj]AW[ej]AW[fj]AW[gj]AW[lj]AW[oj]AW[qj]AW[bk]AW[bl]AW[kl]AW[cm]AW[dn]AW[bo]AW[fo]AW[go]AW[ho]AW[io]AW[dp]AW[fp]AW[hp]AW[jp]AW[mp]AW[cq]AW[dq]AW[eq]AW[iq]AW[kq]AW[lq]AW[nq]AW[oq]AW[ir]AW[lr]AW[nr]AW[ms]AB[cc]AB[fc]AB[kc]AB[mc]AB[pc]AB[rc]AB[cd]AB[id]AB[pd]AB[fe]AB[qe]AB[cf]AB[df]AB[ff]AB[cg]AB[fg]AB[gg]AB[ig]AB[ch]AB[gh]AB[ci]AB[fi]AB[gi]AB[ji]AB[dj]AB[hj]AB[ck]AB[dk]AB[gk]AB[hk]AB[dl]AB[ml]AB[pl]AB[bn]AB[cn]AB[mo]AB[ep]AB[gp]AB[kp]AB[lp]AB[np]AB[op]AB[pp]AB[fq]AB[gq]AB[hq]AB[jq]AB[pq]AB[dr]AB[er]AB[gr]AB[hr]AB[fs]C[How can Black capture White?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[fk];W[ek];B[el];W[fl];B[fm];W[gl];B[hm]C[Well done! With B connected he has more then enough liberties for the race! :)RIGHT])
+(;B[fl];W[el]
+(;B[ek];W[fk];B[em];W[gl]C[W captures one of these small black groups...]MA[dj]MA[hj]MA[ck]MA[dk]MA[ek]MA[gk]MA[hk]MA[dl]MA[fl]MA[em])
+(;B[em];W[ek]C[:(]MA[dm]MA[fm]))
+(;B[el];W[fk];B[fl];W[gl]C[W will capture one of these black groups...]MA[dj]MA[hj]MA[ck]MA[dk]MA[gk]MA[hk]MA[dl]MA[el]MA[fl])
+(;B[fm];W[el]
+(;B[ek];W[fk];B[em];W[fl]C[;(])
+(;B[em];W[fl]C[;(])
+(;B[fl];W[ek]C[;(]))
+(;B[em];W[fl]
+(;B[fm];W[el];B[dm];W[gm]C[;(])
+(;B[fk];W[ek]
+(;B[fm];W[el];B[dm];W[gm]C[;(])
+(;B[el];W[fm]C[;(])))
+(;B[ek];W[fk];B[fl];W[gl]C[W will capture one of these black groups...]MA[dj]MA[hj]MA[ck]MA[dk]MA[ek]MA[gk]MA[hk]MA[dl]MA[fl])
+(;B[gl];W[el]
+(;B[ek];W[fk]
+(;B[em];W[fl]C[;(])
+(;B[fl];W[em]C[;(]))
+(;B[em];W[fl]C[;(]))
+(;B[gm];W[el];B[em];W[fl]C[;(])
+(;B[dm];W[fl]
+(;B[fk];W[ek]
+(;B[fm];W[em]C[;(])
+(;B[el];W[fm]C[;(]))
+(;B[ek];W[fk]C[;(])))

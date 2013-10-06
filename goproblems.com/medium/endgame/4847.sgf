@@ -1,0 +1,20 @@
+(;GE[endgame]DI[2k]DP[22]SO[sohvan]CO[6]SZ[19]AW[cn]AW[bp]AW[cp]AW[gp]AW[hp]AW[ip]AW[jp]AW[bq]AW[dq]AW[fq]AW[dr]AW[er]AW[gr]AB[bi]AB[ci]AB[ei]AB[gi]AB[ii]AB[bo]AB[co]AB[fo]AB[go]AB[ho]AB[io]AB[jo]AB[dp]AB[ep]AB[fp]AB[cq]AB[eq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[White]PB[Black]PL[W]
+(;W[ao];B[bn]
+(;W[an];B[am]
+(;W[ap];B[bm]C[Not the best reduction])
+(;W[bm];B[ap]))
+(;W[bm];B[cm]
+(;W[an];B[dn]C[RIGHT])
+(;W[am];B[dn];W[an]C[Gote])
+(;W[dn];B[bl]))
+(;W[am];B[an]
+(;W[bm];B[do])
+(;W[do];B[bm])))
+(;W[bn];B[ao])
+(;W[do];B[bn]
+(;W[bm];B[dn]
+(;W[cm];B[ao])
+(;W[an];B[cm];W[ao];B[eo]C[D5 was a wasted ko-threat];W[bl]C[RIGHT])
+(;W[ao];B[cm];W[an];B[eo]C[D5 was a wasted ko-threat]))
+(;W[ao];B[bm])
+(;W[an];B[bm])))

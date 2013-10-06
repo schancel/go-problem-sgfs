@@ -1,0 +1,79 @@
+(;GE[life and death]DI[6k]DP[37]SO[Mocramis]CO[0]AB[dp]AW[cn]AB[dm]AW[bp]AB[cq]AW[bq]AB[br]AW[cp]AB[dq]AW[dn]AB[cm]AW[em]AB[el]AB[ck]AB[hq]AW[dl]LB[dl:A]C[White cut in A. Please play B moveFORCE]LB[fl:B]AW[fk]AP[goproblems];B[fl]C[];W[cl]C[white attack! defend you !];B[bm];W[bl]
+(;B[bn];W[bo]C[See the next problem (11947) to see why  white do not play C5.]
+(;B[en];W[fm]
+(;B[gm];W[fn]
+(;B[eo];W[an]
+(;B[fo];W[am]C[wrong !CHOICE])
+(;B[co];W[am]C[wrong !CHOICE])
+(;B[do];W[am]C[wrong !CHOICE])
+(;B[am];W[al]C[wrong !CHOICE])
+(;B[gn];W[am]C[wrong !CHOICE]))
+(;B[co];W[eo];B[do];W[en]
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[an]C[You will not win this life raceCHOICE])
+(;B[ap];W[an]C[You will not win this life raceCHOICE]))
+(;B[do];W[eo];B[co])
+(;B[fo];W[eo];B[gn];W[en]C[and now ?CHOICE])
+(;B[gn];W[eo];B[fo]))
+(;B[fn];W[gm]
+(;B[do];W[co]
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[ap];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[am]C[You will not win this life raceCHOICE]))
+(;B[co];W[do];B[eo];W[co]
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[ap];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[am]C[You will not win this life raceCHOICE])))
+(;B[do];W[co]
+(;B[ap];W[am]C[You will not win this life raceCHOICE])
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[am]C[You will not win this life raceCHOICE]))
+(;B[co];W[do]
+(;B[gm];W[fn]
+(;B[fo];W[eo]
+(;B[gn];W[en];B[ep];W[co]
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[ap]C[];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[am]C[You will not win this life raceCHOICE]))
+(;B[ep];W[an]C[DeadCHOICE]))
+(;B[gn];W[eo]C[bad result :(CHOICE])
+(;B[eo];W[co]
+(;B[ao];W[am]C[You will not win this life raceCHOICE])
+(;B[ap];W[am]C[You will not win this life raceCHOICE])
+(;B[aq];W[an]C[You will not win this life raceCHOICE])
+(;B[fo];W[gn];B[hn];W[an]
+(;B[go];W[am]
+(;B[em];W[dk]C[Good :DCHOICERIGHT]))
+(;B[am];W[al]C[CHOICE]))))
+(;B[eo];W[co]
+(;B[gm];W[fn])
+(;B[ao];W[am]C[ou will not win this life raceCHOICE])
+(;B[ap];W[am]C[ou will not win this life raceCHOICE])
+(;B[aq];W[am]C[ou will not win this life raceCHOICE])))
+(;B[eo];W[am]C[Dead :(CHOICE]))
+(;B[fm];W[en]C[And now ?CHOICE])
+(;B[co];W[en]C[And now ?CHOICE])
+(;B[do];W[en]C[And now ?CHOICE])
+(;B[al];W[an]C[CHOICE]))
+(;B[bk];W[am]C[white is happyCHOICE])
+(;B[am];W[bn]
+(;B[bk];W[al]C[deadCHOICE])
+(;B[an];W[ao]C[DeadCHOICE])
+(;B[al];W[ak]C[Dead]))
+(;B[al];W[bn];B[am])
+(;B[an];W[bn];B[am])
+(;B[en];W[fm]
+(;B[gm];W[fn]
+(;B[eo];W[bn]C[WrongCHOICE])
+(;B[bn];W[bo])
+(;B[fo];W[eo]
+(;B[gn];W[en]
+(;B[bn];W[bo])
+(;B[ep];W[bn]C[CHOICE]))
+(;B[bn];W[bo])))
+(;B[bn];W[bo])
+(;B[co];W[bn]
+(;B[bo];W[do]C[CHOICE])
+(;B[eo];W[do]C[CHOICE])
+(;B[gm];W[am]C[CHOICE])
+(;B[do];W[bo]C[CHOICE]))))

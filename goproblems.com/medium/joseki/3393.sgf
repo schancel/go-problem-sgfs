@@ -1,0 +1,22 @@
+(;GE[joseki]DI[3d]DP[10]SO[santa c]CO[8]C[Have you ever tried a 3x4 approach to a 5x5? Do you know the joseki? Start at 'A'.FORCE]AB[oe]LB[qd:A]LB[qc:x]LB[pd:x]LB[pc:x]LB[oc:x]LB[nc:x]LB[qe:x]LB[qf:x]AP[goproblems];W[qd]
+(;B[qe]
+(;W[re]C[S15 indeed seem to be a bit better, in some cases than Q15 - With Q15, black gets a lot of influence, although, white does get some nice territory.]
+(;B[pe]C[]
+(;W[rf]C[];B[oc];W[pc];B[ob]C[Nice! ;)CHOICERIGHT])
+(;W[qf]C[S14 is a better move for white than R14. See the variations.]
+(;B[rf];W[rg];B[rd];W[sf];B[qc]C[Playing at S14 would have givven a better resualt(A part of which would be the corner..)CHOICE])
+(;B[rd];W[rc];B[rf];W[sd];B[qg];W[oc]C[Playing at S14 would have givven a better result.CHOICE])))
+(;B[rf]C[White gets too much in the corner, and teh top.. Q15 is a much better move for black.];W[pe];B[qf];W[pd];B[pf];W[od];B[ne];W[nd];B[me];W[lc]C[Could white shine more? It's not the light reflecting stones, I'm talking about - Imagine your opponents, smile..]))
+(;W[pe]C[White choses to have some solid territory on the right at the price of a black wall by the top.];B[pd];W[pf];B[qc];W[rd];B[od];W[rc];B[og]
+(;W[pg];B[ph];W[qh];B[of];W[pi];B[oh];W[qg]C[Nice! ;)RIGHT])
+(;W[of]C[wQ13 is better than P14 as this gives black even more power towards the right side of the top.];B[nf];W[qf];B[ng]C[This is worse, as blacks wall covers the upper side, too well, now.]))
+(;W[pd]C[THE REPLY TO THIS MOVE IS A NICE PROBLEM..];B[pe]C[This reply makes it similar to a variation of the 4x4 attachment to 5x5. I wonder if bP16 or some other move would punish white for wQ16..]
+(;W[od];B[nd];W[nc];B[mc];W[nb];B[mb];W[pb];B[md]C[Nice... I guess... ;)RIGHT])
+(;W[nc];B[oc];W[od];B[nd]
+(;W[md];B[ne];W[mc];B[rd];W[pb];B[qb];W[pc];B[qc];W[ob]C[Nice... I guess... ;)RIGHT])
+(;W[ob];B[mc];W[nb];B[md]C[Nice... I guess... ;)RIGHT]))))
+(;B[pc];W[qc];B[pf]
+(;W[pd];B[od]
+(;W[oc];B[nc];W[pb];B[ob];W[rf]C[Nice! ;)CHOICERIGHT])
+(;W[ob];B[oc];W[pb];B[nb];W[rf];B[mc];W[qg]C[Nice! ;)RIGHT]))
+(;W[rf];B[pb];W[qg];B[kc]C[Nice! ;)RIGHT])))

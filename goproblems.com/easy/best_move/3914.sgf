@@ -1,0 +1,25 @@
+(;GE[best move]DI[5k]DP[34]SO[adum]CO[7]AB[pq]AB[qp]AB[rp]AB[po]AB[oo]AB[qm]AB[rm]AB[pl]AB[pk]AW[qj]AW[ql]AW[rl]AW[om]AW[pm]AW[pn]AW[qo]AW[ro]AP[goproblems]
+(;B[sn]
+(;W[qn];B[so]C[the white group is now floatingRIGHT])
+(;W[so];B[qn]C[RIGHT]))
+(;B[qn];W[sm])
+(;B[rn];W[qn])
+(;B[so];W[sn]
+(;B[sm];W[sp])
+(;B[rn];W[sp])
+(;B[qn];W[sp]
+(;B[sm];W[sl])
+(;B[rn];W[sm])))
+(;B[sm];W[qn]
+(;B[so];W[sn];B[rn];W[sl])
+(;B[qk];W[rk])
+(;B[sn];W[so]))
+(;B[qk];W[rk]C[good exchange for white])
+(;B[nk];W[qn])
+(;B[nl];W[qn])
+(;B[nn];W[qn])
+(;B[sp];W[qn])
+(;B[on];W[qn])
+(;B[rk];W[qk])
+(;B[pj];W[qi]C[this exchange is too early])
+(;B[sl];W[qk]C[good exchange for white]))

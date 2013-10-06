@@ -1,0 +1,14 @@
+(;GE[endgame]DI[6k]DP[36]SO[berni]CO[7]SZ[9]AW[hh]AB[hg]AB[gg]AB[gh]AB[gf]AW[ig]AW[hf]AW[he]AW[gd]AW[gc]AB[ge]AB[fd]AB[ee]AW[ed]AB[fe]AW[dc]AW[eb]AB[dd]AB[bf]AW[bd]AB[de]AW[fb]AB[fc]AB[bg]AW[be]AB[ce]AW[cd]AW[cc]AW[hb]AB[cg]AB[eg]AB[hd]AW[hc]AB[gb]AW[ie]C[No komi, no prisoners, japanese rules. Black to win the game.]GM[1]FF[4]CA[UTF-8]ST[2]RU[Japanese]KM[0.00]
+(;B[ih];W[ii]
+(;B[gi]C[Black will capture the two marked stones and win by 1 point.RIGHT]TR[hh]TR[ii])
+(;B[ae];W[id]C[You found the tesuji, but not the right continuation. White will win by 1 point.])
+(;B[ec];W[id]C[You found the tesuji, but not the right continuation. White will win by 1 point.])
+(;B[id];W[ic]C[You found the tesuji, but not the right continuation. White will win by 4 points.])
+(;B[hi];W[gi];B[fi]C[This move also wins the game, but if white had some more ko-threads it would have been a highly risky move. The stable move at G1 instead of H1 is better.RIGHT]))
+(;B[hi];W[ih]C[White will win by 2 points.])
+(;B[gi];W[ih]C[White will win by 2 points.])
+(;B[id];W[ic]C[White will win by 3 points.])
+(;B[ae];W[ih]C[White wins by 2 points.])
+(;B[ec];W[ih]C[White wins by 2 points.])
+(;B[ic]C[This move is not allowed, because white will play at J8 and the problem is still the same.NOTTHIS])
+(;B[ga]C[This move is not allowed, because white will play at H9 and the problem is still the same.NOTTHIS]))

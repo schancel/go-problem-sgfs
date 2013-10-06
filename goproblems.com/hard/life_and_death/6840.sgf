@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4d]DP[8]SO[MrMoto]CO[9]AB[pr]AB[pq]AB[pp]AB[qp]AB[ro]AB[rq]AW[os]AW[or]AW[oq]AW[oo]AW[op]AW[po]AW[qo]AW[qn]AW[sn]AW[rn]AW[rs]C[White to kill.]AP[goproblems]
+(;W[ps];B[qr]C[]
+(;W[qs];B[so]
+(;W[sp];B[rp])
+(;W[sr];B[sq])
+(;W[sq];B[sr]))
+(;W[so];B[qs]))
+(;W[qs];B[ps]
+(;W[so];B[qr])
+(;W[qr];B[sp]))
+(;W[so];B[qr])
+(;W[sr];B[qr])
+(;W[rr];B[qr])
+(;W[qr];B[ps]
+(;W[so];B[rr]
+(;W[rp];B[sq]
+(;W[qs];B[qq])
+(;W[sp];B[qq]
+(;W[qs];B[ss])
+(;W[sr];B[ss]MA[sr]C[Ko]))
+(;W[ss];B[qq]))
+(;W[qs];B[sq];W[rp];B[qq])
+(;W[ss];B[rp])
+(;W[sr];B[sq];W[rp];B[ss]MA[sr]C[Ko]))
+(;W[sr];B[rr];W[so];B[sq];W[rp];B[ss]C[Ko]MA[sr])
+(;W[rr];B[so]
+(;W[sp];B[rp])
+(;W[sq];B[sr];W[ss];B[rp]C[Seki])
+(;W[sr];B[sq]
+(;W[qq];B[rp]C[Seki])
+(;W[qs];B[qq])
+(;W[rp];B[sp];W[qq]C[:)RIGHT]))
+(;W[rp];B[sp]
+(;W[qq];B[sr]C[Seki])
+(;W[sr]C[:)RIGHT]))))
+(;W[sp];B[qr];W[sr];B[sq];W[ps];B[qs];W[so];B[rr];W[rp];B[ss]C[Nice reduction - but you could have killed black.]))

@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[5k]DP[33]SO[kuche12345]CO[0]AB[cs]AB[cr]AB[cq]AB[cp]AB[bq]AB[ap]AB[ds]AW[dq]AW[dr]AW[dp]AW[es]AW[er]AW[fr]AW[gr]AW[co]AW[bo]AW[bp]AW[bn]AB[cn]AW[cm]AB[do]AB[eo]AB[go]AB[fq]AB[gq]AB[hr]AB[iq]C[black to kill the marked white stones unconditionally]TR[dp]TR[dq]TR[dr]TR[er]TR[fr]TR[gr]TR[es]AP[goproblems]
+(;B[ep];W[bs]
+(;B[gs];W[br])
+(;B[ar];W[ao];B[gs];W[aq]C[only ko]))
+(;B[bs];W[ar]
+(;B[ep];W[aq]
+(;B[gs]C[RIGHT])
+(;B[eq];W[ao];B[gs]C[RIGHT]))
+(;B[gs];W[aq]
+(;B[eq];W[ao];B[ep]C[RIGHT])
+(;B[ep]C[RIGHT];W[ao];B[eq]C[RIGHT]))
+(;B[eq];W[aq]
+(;B[gs]C[RIGHT];W[ao]C[RIGHT];B[ep]C[RIGHT])
+(;B[ep]C[RIGHT];W[ao];B[gs]C[RIGHT])))
+(;B[eq];W[bs];B[gs];W[br])
+(;B[gs];W[bs];B[ar];W[ao];B[ep];W[aq])
+(;B[ar];W[bs];B[ep];W[ao];B[gs];W[aq]C[only ko]))

@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[20k]DP[73]SO[meh]CO[6]AB[fd]AB[gd]AB[gc]AW[fc]AW[ec]AW[ed]AB[eg]AB[fg]AB[gg]AW[df]AW[dg]AW[eh]AW[fh]AW[gh]AW[hf]AW[he]AW[hd]AW[hg]AW[ic]AB[hh]AB[ih]AB[ig]AB[if]AB[ie]AB[jd]AB[jc]AB[fe]TR[fe]C[w to respond to b's marked stone]AP[goproblems]
+(;W[ff]
+(;B[gf];W[ge]
+(;B[ef];W[ee];B[ff]
+(;W[gb]C[This is what happens if b doesn't read ahead at allRIGHT];B[hc];W[hb]C[RIGHT])
+(;W[hc];B[gb]
+(;W[hb]C[RIGHT])
+(;W[ga]C[RIGHT])
+(;W[fb]C[RIGHT])
+(;W[ha]C[RIGHT])
+(;W[ib]C[RIGHT])
+(;W[jb]C[RIGHT])
+(;W[ia]C[RIGHT])))
+(;B[hc];W[ef];B[ib];W[id];B[hb]C[best moves for both sidesRIGHT]))
+(;B[ef];W[ee];B[gf];W[ge]
+(;B[hc];W[ff];B[ib];W[id];B[hb]C[Best moves for both sides.RIGHT])
+(;B[ff]
+(;W[gb];B[hc];W[hb]C[What happens if b doesn't read ahead at allRIGHT])
+(;W[hc];B[gb]
+(;W[hb]C[RIGHT])
+(;W[ha]C[RIGHT])
+(;W[ib]C[RIGHT])
+(;W[ia]C[RIGHT])
+(;W[jb]C[RIGHT])
+(;W[ga]C[RIGHT])
+(;W[fb]C[RIGHT])))))
+(;W[gf];B[ff]
+(;W[ib];B[hc];W[id];B[jb]C[Oh, no! g14 killed w.])
+(;W[hc];B[gb]C[4 vs 6 - g14 killed w!]))
+(;W[ef];B[ff]
+(;W[ib];B[hc];W[id];B[jb]C[4 vs 5 - e14 killed w!])
+(;W[hc];B[gb]C[5 vs6 - e14 killed w!])))

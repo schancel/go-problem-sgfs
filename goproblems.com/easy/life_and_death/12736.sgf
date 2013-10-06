@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[41]SO[stro]CO[0]AB[ra]AB[rb]AB[qc]AB[qb]AB[pc]AB[oc]AB[nc]AB[mc]AB[la]AB[mb]AB[lc]AB[pd]AB[qe]AB[qf]AB[pf]AW[kb]AW[lb]AW[kc]AW[kd]AW[ld]AW[md]AW[nd]AW[ob]AW[pb]AW[pa]AW[qd]AW[rc]AW[rd]AW[sb]AB[sc]AW[re]AW[rf]AW[qg]AW[pg]AB[ri]AB[qi]AB[pi]AB[nh]AB[ni]AW[rh]AB[oj]AW[pj]AW[qj]AW[rj]AB[pk]AB[qk]AB[rk]AB[sh]AW[ng]AW[mg]AW[lh]AB[mh]AB[li]AB[ki]AW[kg]AW[jg]AW[oh]AB[na]TR[na]C[White to kill]AB[ph]AB[sf]AW[rg]AP[goproblems]
+(;W[of];B[oa]C[seki])
+(;W[oe];B[oa]C[seki])
+(;W[oa];B[of]
+(;W[oe];B[og]C[White's weak group is disconnected])
+(;W[og]
+(;B[od]C[CHOICE]
+(;W[oe];B[ne]
+(;W[nf]C[RIGHT])
+(;W[me];B[nf]))
+(;W[ne];B[oe])
+(;W[nf];B[oe]))
+(;B[oe];W[od]C[RIGHT]))
+(;W[od];B[og]C[White's weak group is disconnected]))
+(;W[pe];B[oa]C[seki]))

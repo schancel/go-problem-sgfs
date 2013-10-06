@@ -1,0 +1,48 @@
+(;GE[life and death]DI[2k]DP[23]SO[Kanashimi]CO[9]AB[ra]AB[rb]AB[rc]AB[rd]AB[qc]AB[qd]AB[pd]AB[pe]AB[oe]AB[of]AB[og]AW[sd]AW[re]AW[qe]AW[qf]AW[qg]AW[rg]AW[sg]AW[pg]AB[ph]AW[oh]AW[pi]AW[ri]AW[qi]AB[si]AB[rk]AB[sl]AB[qj]AB[ql]AB[oi]AB[pj]AB[nj]AB[lj]AB[li]AB[lh]AB[lg]AB[lk]AW[nh]AW[ng]AW[nf]AW[ne]AW[nd]AW[od]AW[pc]AW[pb]AW[qb]AW[ob]AB[oc]AB[nc]AB[mc]AB[lc]AB[kc]AW[kb]AW[lb]AW[mb]AB[nb]AW[la]AW[na]AW[pa]AW[jc]AB[le]AW[rl]AW[rm]AW[rn]AW[qp]AW[rq]AW[rr]AB[qq]AB[pq]AB[op]AB[nq]AB[qm]AB[pn]AB[on]AB[mm]AB[mn]AB[mo]AB[lo]AB[ko]AB[kn]AB[jn]AB[jm]AB[jl]AB[kk]AB[kh]AB[jh]AB[ih]AW[ki]AW[kj]AW[ji]AW[ii]AW[jk]AW[ik]AW[il]AW[im]AW[in]AW[io]AW[jo]AW[ip]AW[iq]AB[jp]AB[jq]AB[kq]AB[lq]AW[kp]AW[lp]AW[mp]AW[lr]AW[ll]AW[kl]AW[lm]AW[ln]AW[ml]AW[nm]AW[pl]AW[gc]AB[jj]AB[gp]AB[fq]AB[dq]AB[cq]AB[bq]AB[bp]AW[cp]AW[dp]AW[eo]AW[bn]AW[bo]AB[cn]AW[dm]AW[fm]AW[gm]AB[gn]AB[hl]AW[ci]AB[cg]AB[de]AB[cd]AB[cc]AW[dc]AW[cb]AW[bb]C[White made a pretty deep invasion. Can you help whites poor stones live?]TR[ri]TR[qi]TR[pi]TR[oh]TR[nh]TR[ng]TR[nf]TR[ne]TR[nd]TR[od]TR[pg]TR[qg]TR[rg]TR[sg]TR[qf]TR[qe]TR[re]TR[sd]AP[goproblems]
+(;W[sh]C[];B[qh]C[]
+(;W[rh]C[];B[ph]C[];W[rj]C[];B[sj]C[CHOICE];W[sm]C[CHOICERIGHT])
+(;W[rj];B[sj]
+(;W[rh];B[ph];W[sm]C[RIGHT])
+(;W[sk];B[sj];W[rh];B[ph];W[si];B[sk];W[sm];B[qk])))
+(;W[sc];B[rj])
+(;W[rj]C[];B[sj]C[CHOICE]
+(;W[sh]C[CHOICE]
+(;B[qh]
+(;W[rh];B[ph];W[sm]C[RIGHT])
+(;W[sk];B[sj];W[si];B[sk];W[sm];B[qk]))
+(;B[ro]))
+(;W[sm];B[sk];W[sh];B[qk];W[qh];B[ro]C[Solves the problem, but is not optimal. Whites dies in the lower corner. Black could kill but not after trying to kill S13]))
+(;W[qh];B[sh]
+(;W[sj];B[rj];W[rh];B[si])
+(;W[rj];B[sj]
+(;W[rh];B[sk];W[sm];B[qk])
+(;W[sm];B[sk];W[rh];B[qk]))
+(;W[rh];B[sj];W[rj];B[sk];W[sm];B[qk]))
+(;W[sj];B[rj]
+(;W[qh];B[sh];W[rh];B[si])
+(;W[sh];B[qh];W[rh];B[ph]))
+(;W[ld];B[kd]
+(;W[ke];B[md];W[lf];B[kf]
+(;W[mf];B[je])
+(;W[je];B[mf]))
+(;W[md];B[ke]))
+(;W[rh])
+(;W[sk];B[sj]
+(;W[sh];B[qh];W[rh];B[ph];W[rj];B[sk];W[sm];B[qk])
+(;W[rj];B[sh];W[rh];B[sk];W[sm];B[qk]))
+(;W[ni];B[oj]
+(;W[sh];B[qh];W[rh];B[ph];W[rj];B[sj];W[sm]C[RIGHT])
+(;W[rj];B[sj]
+(;W[sh];B[qh];W[rh];B[ph];W[sm]C[RIGHT])
+(;W[sm];B[sk];W[sh];B[qk];W[qh];B[ro]C[Solves the problem but is not optimal. White dies in the lower corner. Black could kill but not after trying to kill S13])))
+(;W[ok];B[oj]C[bad exchange for white])
+(;W[oa];B[qa];W[ma];B[jb];W[ib];B[ka])
+(;W[jb];B[qa]
+(;W[ma];B[oa])
+(;W[oa];B[ma]))
+(;W[rf]C[totally wrong])
+(;W[sf];B[rj])
+(;W[mj];B[mk]
+(;W[ni];B[oj];W[nk];B[mi])
+(;W[mi];B[nk])
+(;W[nk];B[ni];W[ok];B[oj];W[mh];B[mi])))

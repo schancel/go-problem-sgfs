@@ -1,0 +1,72 @@
+(;GE[best move]DI[4d]DP[8]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[db][cc]AB[bb][ad][bd][cd]C[White to play - what's the best he can do?]PL[W]
+(;W[bc]CR[bc]
+;B[ac]CR[ac]
+(;W[ab]CR[ab]
+;B[aa]CR[aa]
+(;W[dd]CR[dd]
+(;B[cb]CR[cb]C[Taking the ko is worse (see variations)]
+;W[ab]CR[ab]
+;B[ac]CR[ac]
+(;W[bd]CR[bd]
+;B[ca]CR[ca]C[Seki! White wins by 2 points (4 prisoners against 2) RIGHT])
+(;W[ca]CR[ca]
+;B[bd]CR[bd]C[Seki! White wins by 2 points (4 prisoners against 2) RIGHT]))
+(;B[dc]CR[dc]
+;W[cb]CR[cb]
+;B[ca]CR[ca]
+;W[dd]CR[dd]C[Black is completely lost]))
+(;W[cb]CR[cb]
+;B[ca]CR[ca]C[It's to late to start the ko now - Black wins by one point (the prisoner)])
+(;W[ca]CR[ca]
+;B[cb]CR[cb]
+;W[dc]CR[dc]C[Black wins by one point (the prisoner)]))
+(;W[cb]CR[cb]
+;B[ca]CR[ca]C[White can't start the ko anymore and will lose by one point (he has to sacrifice a stone to prevent a black eye)])
+(;W[ca]CR[ca]
+(;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[aa]CR[aa]
+;W[cb]CR[cb]C[B4??! Stupid Black :) Instead of this big mistake, he should have played B C3 (see variations).])
+(;B[cb]CR[cb]
+;W[dc]CR[dc]
+(;B[ba]CR[ba]
+;W[ab]CR[ab]C[B4??! Stupid, stupid Black :)   Of course, if Black plays c3 himself instead, it's a seki (see variations)])
+(;B[ab]CR[ab]
+;W[ba]CR[ba]C[Seki & jigo!])))
+(;W[dd]CR[dd]
+(;B[ab]CR[ab]
+;W[cb]CR[cb]
+;B[ca]CR[ca]
+;W[ba]CR[ba]
+;B[dc]CR[dc]C[Black wins!])
+(;B[dc]CR[dc]
+;W[cb]CR[cb]
+;B[ca]CR[ca]
+;W[dd]CR[dd]
+;B[ab]CR[ab]
+;W[ba]CR[ba]
+;B[dc]CR[dc]C[Black wins!])))
+(;W[cb]CR[cb]
+;B[bc]CR[bc]
+;W[ba]CR[ba]
+(;B[ab]CR[ab]
+;W[ca]CR[ca]C[Seki & Jigo, but both can do better!])
+(;B[ca]CR[ca]
+;W[da]CR[da]
+;B[ab]CR[ab]C[White is lost - 'one eye beats no eye'!]))
+(;W[ca]CR[ca]
+;B[bc]CR[bc]
+(;W[cb]CR[cb]
+;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[dd]CR[dd]
+;W[ac]CR[ac]
+;B[aa]CR[aa]
+;W[ab]CR[ab]
+;B[ac]CR[ac]C[Maybe Black can also play d2 instead of d1, but as usual I am not sure about the rules :) Anyway, this is a three point win for black.])
+(;W[ba]CR[ba]
+;B[cb]CR[cb]
+;W[dc]CR[dc]
+;B[ab]CR[ab]C[Black wins!])))

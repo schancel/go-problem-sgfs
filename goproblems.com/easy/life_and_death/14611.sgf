@@ -1,0 +1,9 @@
+(;GE[life and death]DI[8k]DP[49]SO[ctchan]CO[0]AW[rq]AW[rr]AW[qq]AB[qr]AB[ps]AB[pq]AB[or]AB[oq]AB[nq]AB[mq]AW[lq]AW[kq]AW[iq]AB[jp]AB[lo]AB[mo]AW[lp]AW[mp]AW[np]AW[no]AW[oo]AB[nn]AB[on]AB[po]AW[pp]AW[qo]AW[ro]AB[qn]AB[rn]AB[sn]AB[so]AW[sp]AB[op]C[Black to kill.]AW[mr]AP[goproblems]
+(;B[qp];W[rp]
+(;B[rs];W[pp];B[pn]TR[pp]TR[qo]TR[ro]TR[rp]TR[qq]TR[sp]TR[rq]TR[rr]C[])
+(;B[pn];W[rs];B[sr]TR[ro]TR[qo]TR[rp]TR[sp]TR[rq]TR[qq]TR[rr]TR[rs]C[])
+(;B[sr];W[pp];B[pn]TR[rr]TR[rq]TR[qq]TR[pp]TR[qo]TR[ro]TR[rp]TR[sp]C[])
+(;B[pp]
+(;W[rs]C[CHOICE];B[sr]C[White is dead.RIGHT])
+(;W[sr]C[CHOICE];B[rs]C[White is dead.RIGHT])))
+(;B[pn];W[qp]TR[mq]TR[nq]TR[oq]TR[op]TR[or]TR[pq]TR[qr]TR[ps]C[Now white is alive and black's marked stones are in danger.]))

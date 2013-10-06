@@ -1,0 +1,24 @@
+(;GE[elementary]DI[18k]DP[65]SO[iPiou]CO[8]AB[js]AB[jr]AB[jq]AB[ip]AB[io]AB[jo]AB[kn]AB[ln]AB[mn]AB[no]AB[np]AB[nq]AB[nr]AB[ns]AB[kr]AB[mr]AB[lr]AW[is]AW[ir]AW[iq]AW[hq]AW[hp]AW[ho]AW[in]AW[jn]AW[km]AW[lm]AB[mm]AB[nm]AW[ml]AW[nl]AW[ol]AW[om]AW[nn]AW[on]AW[oo]AW[op]AW[oq]AW[or]AW[os]C[White to play and reduce black]AP[goproblems]
+(;W[ko]
+(;B[lo]
+(;W[jp];B[kp]
+(;W[jo]C[RIGHT];B[lp]C[A nice little reduction, moreover sente. Black has to play at M4 to prevent further reduction.RIGHT])
+(;W[lp];B[jo]C[A ko is not what you want here. Black is almost safe from any loss now.])
+(;W[io];B[jo]C[Don't give black a ko which moreover threatens the white stone at K4.]TR[jp]))
+(;W[mo];B[kp]C[Black is safe now]))
+(;B[jp];W[mo];B[mp]
+(;W[lo];B[kp];W[lp];B[lq]C[Black suffers a great lossRIGHT])
+(;W[lp]
+(;B[lo]C[];W[mo]C[Snapback, terrible for blackRIGHT])
+(;B[kp];W[lo];B[lq]C[Black suffers a great lossRIGHT])))
+(;B[lp]C[CHOICE]
+(;W[lo];B[mo]
+(;W[jp];B[kp];W[jo]C[A nice little reduction. However white lost the sente.RIGHT])
+(;W[kp];B[jp]C[That would be too greedy]))
+(;W[jp];B[kp]LB[hl:T]C[Play T if you want to tenuki]
+(;W[lo];B[mo];W[jo]C[A nice little reductionRIGHT])
+(;W[hl]MA[lo]C[A nice little reduction. White kept the sente and M5 can now be saved as a ko threat.RIGHT]))
+(;W[mo];B[lo];W[jp];B[kp];W[jo]C[Black is reducted, though not as much as possible. See variations for details.RIGHT])))
+(;W[jp];B[kp])
+(;W[mo];B[ko]C[Black is safe now.])
+(;W[kp];B[ko]C[Black is safe now. He can connect his groups at N5 or K4.]))

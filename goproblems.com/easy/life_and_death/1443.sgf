@@ -1,0 +1,33 @@
+(;GE[life and death]DI[4k]DP[31]SO[varg]CO[7]GM[][1]FF[][3]RU[][Japanese]SY[][Cgoban 1.9.5]SZ[19]GN[ (W) vs.  (B)]DT[2002-04-14]
+PB[]PW[]KM[0.5]HA[0]TM[-]
+;AB[li][rf][qf][of][pe][rd][pd][pc][pb]AW[rg][qg][pg][pf][oe][od][oc][ob]PL[2]C[Black has just played A. Can white capture? If not play B.
+]
+LB[of:A][kd:B]
+(;W[ng];B[nf];W[mf];B[ne];W[me];B[nd]
+(;W[mc]
+(;B[nc];W[nb]C[RIGHT CHOICE
+])
+(;B[md];W[ld]C[RIGHT CHOICE a loose ladder and a net
+])
+(;B[og];W[oh]C[RIGHT CHOICE a loose ladder and a net
+]))
+(;W[md];B[nc];W[nb];B[mc];W[lc];B[mb]
+(;W[lb];B[na])
+(;W[ma];B[oa]))
+(;W[mb];B[mc]
+(;W[md];B[nc]
+(;W[nb];B[lc]C[
+])
+(;W[lc];B[nb]C[to throw away this 4 stones was unneccessary
+]))
+(;W[nc];B[oa];W[nb];B[md];W[ld];B[lc])))
+(;W[nf];B[og];W[nh];B[oh];W[oi];B[ph]
+(;W[pi];B[qh];W[ri];B[rh]C[On this side the tesuji doesn´t work.
+])
+(;W[qi]C[
+];B[ng];W[mg];B[mf]
+(;W[pi];B[ne];W[qh];B[nf];W[nd];B[mh])
+(;W[ne];B[mh];W[pi];B[lg])))
+(;W[mg];B[nf];W[mf];B[ne];W[md]C[White captures blacks cutting stones. That is alright, but blacks stones have one more liberty and one more peep (at A and B) than in the correct solution.
+When you capture cutting stones, you want to capture them as tightly as possible. So unless N13 is an important tesuji for some other problem on the board (well not here obviously) it is inferiour.]
+LB[nh:A][oh:B]))

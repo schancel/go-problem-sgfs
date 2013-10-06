@@ -1,0 +1,44 @@
+(;GE[tesuji]DI[12k]DP[58]SO[iPiou]CO[4]AB[sb]AB[rb]AB[rc]AB[qd]AB[qc]AB[pd]AB[pe]AB[pf]AB[pg]AB[ph]AW[sc]AW[sd]AW[rd]AW[re]AW[qe]AW[qf]AW[qg]AW[qh]AW[si]AW[rj]AW[qj]AW[qi]AB[pi]AB[pj]AB[pk]AB[qk]AB[rk]AB[sk]AB[sj]C[A territory worth 8 points is not yet safe, black to trouble white]AP[goproblems]
+(;B[ri];W[rh])
+(;B[sh]
+(;W[ri]
+(;B[sf];W[rg];B[sg]C[Seki, white's territory is ruinedRIGHT])
+(;B[rg]
+(;W[sf]
+(;B[rf]C[Seki, black ruined white's territoryRIGHT])
+(;B[sg];W[rf])
+(;B[rh];W[rf]))
+(;W[rf];B[sf]C[White is reduced in a dead shape and diesRIGHT])))
+(;W[sg]
+(;B[ri];W[rh]
+(;B[si]C[A nice reduction in sente];W[sf]C[A nice reduction in senteRIGHT])
+(;B[rg];W[si]))
+(;B[rh];W[ri]
+(;B[sf];W[rg])
+(;B[rg];W[rf])
+(;B[se];W[sf]))
+(;B[rg];W[rh]))
+(;W[sf]
+(;B[ri];W[rh]C[CHOICE]
+(;B[si]MA[sg]C[Correct. White can now play a one point reverse sente move at T13 or tenuki.RIGHT])
+(;B[sg];W[si]C[ko. Black can reduce white without having to fight a ko.]))
+(;B[rg]
+(;W[ri]
+(;B[rf]C[Seki, white's territory is but a mere memoryRIGHT])
+(;B[rh];W[rf]))
+(;W[sg]C[CHOICE]
+(;B[rf];W[rh])
+(;B[rh];W[ri])
+(;B[ri];W[rh];B[si]C[White is nicely reduced, and with one mistake by white this could turn out to death or seki.RIGHT]))))
+(;W[rh]
+(;B[ri];W[sf]C[CHOICE];B[si]C[Correct. White can now play a one point reverse sente move at T13 or tenuki.RIGHT]MA[sg])
+(;B[sg];W[sf];B[ri]TR[si]TR[rg]C[White can now either fight for the ko at T11 or get one point in sente at S13.RIGHT])))
+(;B[sg];W[sf]
+(;B[sh];W[ri])
+(;B[rh];W[ri])
+(;B[ri];W[rh])
+(;B[rf];W[rg])
+(;B[rg];W[rh]))
+(;B[sf];W[rh]C[White has two eyes now])
+(;B[rh];W[rg])
+(;B[rg];W[rh]))

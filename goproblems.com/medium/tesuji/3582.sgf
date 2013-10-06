@@ -1,0 +1,45 @@
+(;GE[tesuji]DI[2d]DP[13]SO[adum]CO[9]AW[bp]AB[cp]AB[bo]AW[co]AB[cq]AB[dq]AB[dr]AB[es]AB[fs]AW[er]AW[eq]AW[ep]AW[dp]AW[cn]AB[bn]AW[fp]AB[fq]AB[fr]AW[gq]AW[gr]AW[ir]AW[iq]AB[gp]AB[go]AW[en]AB[io]AB[gm]C[this problem drove me half-crazy until i solved it. here's hoping it drives you half-crazy too!]AP[goproblems]
+(;W[bq];B[br]
+(;W[bs]
+(;B[cs]
+(;W[gs];B[ds];W[cr]C[CHOICERIGHT])
+(;W[ar];B[as];W[gs];B[ds];W[bs]C[RIGHT]))
+(;B[ar]
+(;W[ds];B[cs];W[gs]C[RIGHT])
+(;W[gs];B[ds];W[cr]C[RIGHT]))
+(;B[ds];W[ar];B[cs]C[best for black -- a koCHOICERIGHT])
+(;B[aq];W[ds];B[cs];W[gs];B[as];W[ds];B[es]C[RIGHT]))
+(;W[ar];B[ap])
+(;W[gs];B[ds]
+(;W[cs];B[cr];W[ar];B[bs])
+(;W[ar];B[ap])
+(;W[bs];B[ap]))
+(;W[ds];B[cs]
+(;W[gs];B[ds])
+(;W[ar];B[ap]))
+(;W[cs];B[ds]
+(;W[gs];B[cr];W[ar];B[bs])
+(;W[ar];B[ap]))
+(;W[cr];B[cs]))
+(;W[gs];B[ds])
+(;W[bm];B[bq]C[white closes black in, but this is not the best you can do])
+(;W[br];B[bq])
+(;W[cr];B[bq])
+(;W[ds];B[cs]
+(;W[br];B[bq])
+(;W[bq];B[br])
+(;W[gs];B[ds]))
+(;W[cs];B[ds]
+(;W[bq];B[br]
+(;W[gs];B[cr]
+(;W[ar];B[bs])
+(;W[bs];B[ar]))
+(;W[ar];B[ap])
+(;W[cr];B[bs])
+(;W[bs];B[ap]))
+(;W[br];B[bq])
+(;W[gs];B[bq]))
+(;W[bs];B[bq])
+(;W[aq];B[bq])
+(;W[ar];B[bq])
+(;W[as];B[bq]))

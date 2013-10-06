@@ -1,0 +1,26 @@
+(;GE[life and death]DI[10k]DP[53]SO[ohjeohje]CO[0]AB[ga]AW[ha]AB[gb]AB[hb]AB[ic]AB[hd]AB[id]AB[jd]AW[ib]AW[jc]AW[kd]AW[le]AW[md]AW[ld]AW[lc]AW[mb]AW[ma]AW[kb]AB[ke]AB[kf]AB[lg]AB[mf]AB[ne]AB[nd]AB[nc]AB[mc]AB[nb]AB[na]AW[ia]C[Black to move]AP[goproblems]
+(;B[ka]
+(;W[lb]
+(;B[jb];W[ja];B[jb]C[CorrectRIGHT])
+(;B[la]
+(;W[ja]C[White lives])
+(;W[jb]C[White lives]))
+(;B[ja];W[jb]C[White lives]))
+(;W[jb]
+(;B[lb];W[la];B[lb]C[CorrectRIGHT])
+(;B[ja]
+(;W[la]C[White lives])
+(;W[lb]C[White lives]))
+(;B[la];W[lb]C[White lives])))
+(;B[jb];W[ja]C[White lives])
+(;B[lb];W[la]C[White lives])
+(;B[ja];W[jb]
+(;B[ka];W[la]C[White lives])
+(;B[la];W[lb]C[White lives])
+(;B[lb];W[la]C[White lives]))
+(;B[la];W[lb]
+(;B[ka];W[ja]C[White lives])
+(;B[ja];W[jb]C[White lives])
+(;B[jb];W[ja]C[White lives]))
+(;B[lf];W[ka]C[White lives])
+(;B[me];W[ka]C[White lives]))

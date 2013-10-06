@@ -1,0 +1,18 @@
+(;GE[life and death]DI[3k]DP[26]SO[traveller]CO[5]SZ[19]AW[ep]AW[bq]AW[cq]AW[eq]AB[do]AB[eo]AB[fo]AB[bp]AB[cp]AB[fp]AB[gq]AB[hq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[er];W[dr];B[fr];W[bs]
+(;B[ar];W[aq]
+(;B[ds];W[cs];B[br]C[Cleanly killed.RIGHT])
+(;B[br];W[ds];B[cr]C[This is not a seki because white's main group is not connected to the liberty at a1.RIGHT])
+(;B[cs];W[ds]))
+(;B[ds];W[ar];B[cr];W[dq];B[cs]C[RIGHT]))
+(;B[dr];W[er];B[dq];W[dp]
+(;B[aq];W[cr]
+(;B[ar]C[RIGHT])
+(;B[br]))
+(;B[br];W[cr];B[aq];W[ds];B[fr];W[ar];B[as];W[bs]C[ko.]))
+(;B[dq];W[dr]
+(;B[dp];W[br]))
+(;B[aq];W[ar]
+(;B[er];W[dr];B[fr];W[bs])
+(;B[bs];W[dr];B[fr];W[cs];B[br];W[er]))
+(;B[fr];W[er];B[es];W[ds];B[dr];W[fs];B[dq];W[dp];B[aq];W[ar];B[br];W[cr];B[as];W[bs]C[ko.]))

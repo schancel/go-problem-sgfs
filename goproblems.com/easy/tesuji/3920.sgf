@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[10k]DP[50]SO[MrMoto]CO[7]AB[da]AB[ea]AB[db]AB[dc]AB[cd]AB[ed]AB[de]AB[ee]AB[fe]AB[cf]AB[bf]AB[af]AB[ag]AB[eh]AB[ei]AB[dj]AB[ej]AB[fj]AB[gj]AB[dk]AB[el]AB[fl]AB[fk]AB[em]AB[en]AB[dn]AB[eo]AB[ep]AB[dp]AB[fp]AB[dq]AB[cq]AB[cr]AB[br]AB[bs]AB[as]AB[gq]AB[gr]AB[fr]AB[er]AB[fs]AB[iq]AB[jq]AB[jr]AB[ip]AB[io]AB[jn]AB[kn]AB[ko]AB[kp]AB[ks]AB[lr]AB[mp]AB[jm]AB[im]AB[jl]AB[jk]AB[jj]AB[ji]AB[kk]AB[jg]AB[ig]AB[jf]AB[kf]AB[lf]AB[mf]AB[nf]AB[of]AB[pf]AB[qf]AB[ke]AB[le]AB[ld]AB[me]AB[lg]AB[nd]AB[oe]AB[pe]AB[pd]AB[qd]AB[oc]AB[pc]AB[pb]AB[pa]AB[qa]AB[qg]AB[rg]AB[rh]AB[sh]AB[si]AB[sj]AB[ri]AB[qi]AB[qj]AB[pi]AB[ph]AB[ok]AB[nk]AB[nj]AB[mj]AB[ll]AB[ml]AB[nl]AB[mm]AB[mn]AB[pl]AB[ql]AB[pm]AB[qm]AB[rm]AB[pn]AB[po]AB[pp]AB[qo]AB[pq]AB[pr]AB[qr]AB[qs]AW[fa]AW[eb]AW[ec]AW[fc]AW[fd]AW[gc]AW[ge]AW[gf]AW[ff]AW[ef]AW[df]AW[eg]AW[cg]AW[bg]AW[ah]AW[bi]AW[dh]AW[di]AW[cj]AW[ck]AW[bl]AW[cl]AW[dl]AW[dm]AW[an]AW[am]AW[cn]AW[bo]AW[co]AW[do]AW[cp]AW[bp]AW[bq]AW[ar]AW[aq]AW[ap]AW[fq]AW[fo]AW[fn]AW[gp]AW[hp]AW[hq]AW[hr]AW[gs]AW[is]AW[hs]AW[ir]AW[js]AW[ho]AW[hn]AW[in]AW[hm]AW[gm]AW[hl]AW[hk]AW[ih]AW[ik]AW[ii]AW[hi]AW[gi]AW[fi]AW[fh]AW[hg]AW[if]AW[je]AW[jd]AW[kd]AW[lc]AW[mc]AW[md]AW[nc]AW[nb]AW[na]AW[ra]AW[rb]AW[qb]AW[qc]AW[rd]AW[qe]AW[re]AW[rf]AW[sf]AW[sg]AW[se]AW[kh]AW[ki]AW[kj]AW[lj]AW[lk]AW[mk]AW[lh]AW[mh]AW[mg]AW[ng]AW[og]AW[oh]AW[mi]AW[ni]AW[oi]AW[oj]AW[pj]AW[pk]AW[ol]AW[om]AW[kl]AW[km]AW[lm]AW[ln]AW[lo]AW[qk]AW[rk]AW[rj]AW[rl]AW[sk]AW[sm]AW[rn]AW[qn]AW[ro]AW[so]AW[qp]AW[qq]AW[rr]AW[rs]C[Black must find a way to win several points.]AP[goproblems]
+(;B[rq];W[rp]
+(;B[sq]C[White cannot save the corner.RIGHT])
+(;B[sp];W[sq])
+(;B[sr];W[sq]))
+(;B[rp];W[rq];B[sp];W[sq])
+(;B[sq];W[rq])
+(;B[sr];W[sq];B[rp];W[rq])
+(;B[sp];W[rp]
+(;B[sq];W[rq])
+(;B[rq];W[sq]))
+(;B[sc];W[sb]
+(;B[rc];W[sd])
+(;B[sd];W[rc]))
+(;B[rc];W[sc])
+(;B[sb];W[sc]))

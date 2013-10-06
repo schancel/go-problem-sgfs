@@ -1,0 +1,22 @@
+(;GE[life and death]DI[10k]DP[51]SO[1234boys]CO[0]AB[ar]AB[br]AB[bs]AB[co]AB[cp]AB[cq]AW[an]AW[bn]AW[cn]AW[do]AW[dp]AW[dq]AW[dr]AW[cr]LB[ap:a]LB[bp:b]LB[bo:c]LB[bq:d]LB[dn:e]AP[goproblems]
+(;B[ap]LB[bp:a]LB[ao:b]LB[bo:c]LB[bq:d]
+(;W[bp];B[bo];W[ao];B[bq]C[RIGHT])
+(;W[ao]LB[bp:a]LB[bo:b]
+(;B[bp]C[RIGHT])
+(;B[bo];W[bq]LB[bp:a]LB[aq:b]
+(;B[bp];W[aq])
+(;B[aq];W[bp])))
+(;W[bo];B[bp]C[RIGHT])
+(;W[bq]
+(;B[bp]C[RIGHT])
+(;B[aq];W[bo];B[bp]C[RIGHT])))
+(;B[bp];W[ap]LB[aq:a];B[aq]LB[bq:A]C[A is a false eye, so black's group will be captured.])
+(;B[bo];W[ao]LB[ap:a]LB[bp:b]
+(;B[ap];W[bq]LB[bp:a]LB[aq:b]
+(;B[bp];W[aq])
+(;B[aq];W[bp]))
+(;B[bp];W[ap]))
+(;B[bq];W[ap])
+(;B[dn];W[bq]LB[bp:a]LB[ap:b]
+(;B[bp];W[ap]LB[aq:a];B[aq];W[ao]C[White can capture black's stones now, so the cutting stone black played loses its value.])
+(;B[ap];W[bp])))

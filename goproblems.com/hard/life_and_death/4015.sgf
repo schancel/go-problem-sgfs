@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6d]DP[2]SO[Florian]CO[9]AW[ep]AW[fp]AW[hp]AW[ip]AW[gq]AW[iq]AW[dr]AW[er]AW[ir]AW[jr]AB[do]AB[eo]AB[fo]AB[go]AB[ho]AB[io]AB[jo]AB[dp]AB[gp]AB[jp]AB[lp]AB[dq]AB[br]AB[cr]AB[kr]AB[lr]AB[js]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+(;B[ds];W[fr];B[hr];W[gs]LB[fq:B]LB[hr:A]LB[fs:C]C[w is alive. A is one eye and B and C are miai for thr secound.])
+(;B[fr];W[gr]
+(;B[is];W[hs];B[fs];W[fq]C[w is alive])
+(;B[fs];W[gs]C[w is alive])
+(;B[ds];W[fs]C[w is alive]))
+(;B[gr];W[fr];B[hr];W[gs]C[w is alive])
+(;B[eq];W[fr];B[hr];W[gs]
+(;B[ds];W[es];B[is];W[hs]C[w is alive])
+(;B[is];W[hs];B[ds];W[es]C[w is alive])
+(;B[hs];W[is];B[ds];W[es]C[w is alive]))
+(;B[hr]
+(;W[gs]C[CHOICE];B[is];W[hs];B[gr];W[ks];B[fr]
+(;W[eq];B[fs]
+(;W[fq]C[CHOICE]
+(;B[is];W[hq]
+(;B[ls]
+(;W[hs]C[CHOICE];B[gs];W[js];B[ds];W[hs]C[Ko, is the best for both.RIGHT])
+(;W[js];B[ds]C[w is deathRIGHT]))
+(;B[js];W[hs];B[js];W[es]C[w is alive]))
+(;B[ds];W[hq]C[w is alive]))
+(;W[es];B[is];W[hs];B[hq]C[RIGHT]))
+(;W[fq];B[ds]C[w is death]))
+(;W[hs];B[gs];W[is];B[fr]C[w is deathRIGHT])))

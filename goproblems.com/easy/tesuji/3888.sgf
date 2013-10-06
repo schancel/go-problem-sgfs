@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[10k]DP[50]SO[snip]CO[7]SZ[19]AW[ec]AW[fc]AW[dd]AW[gd]AW[jd]AW[be]AW[ce]AW[de]AW[ee]AW[bf]AW[ff]AW[bg]AW[dg]AW[eg]AW[fg]AW[gg]AW[gh]AB[cc]AB[dc]AB[bd]AB[cd]AB[ed]AB[fd]AB[fe]AB[ge]AB[cf]AB[df]AB[ef]AB[gf]AB[cg]AB[ch]AB[dh]AB[eh]AB[fh]AB[ci]AB[jj]TR[ed]TR[fd]TR[fe]TR[ge]TR[gf]C[White to capture the marked stones]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[hf];B[he];W[ie];B[hd];W[hc];B[gc]
+(;W[id]C[];B[gb];W[gd]C[RIGHT])
+(;W[gb];B[if];W[hg];B[id];W[je];B[ic];W[gd];B[hb];W[gc];B[jb];W[jc];B[ib];W[kb];B[eb];W[ja];B[ga];W[ia];B[fb]))
+(;W[he];B[hf];W[if];B[hg];W[hh];B[ig];W[jg];B[ih];W[ii];B[jh];W[kh];B[ji])
+(;W[if];B[gc]
+(;W[hd];B[fb])
+(;W[he];B[hd];W[hf];B[gd];W[gb];B[hb]
+(;W[id];B[hc]
+(;W[ib];B[fb];W[eb];B[ga])
+(;W[eb];B[ga];W[fa];B[fb]))
+(;W[hc];B[ic];W[id];B[hc];W[jc];B[fb];W[eb];B[ga])))
+(;W[hd];B[hf]
+(;W[if];B[hg];W[hh];B[ig])
+(;W[kg];B[ig];W[ih];B[hh];W[hi];B[jh];W[hg];B[gi];W[hh];B[hj];W[ii];B[ji]))
+(;W[ig];B[gc];W[he];B[hd];W[hf];B[gd];W[gb];B[hb];W[id];B[hc];W[eb];B[ga];W[fb];B[db];W[ib];B[ea]))

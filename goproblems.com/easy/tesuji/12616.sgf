@@ -1,0 +1,45 @@
+(;GE[tesuji]DI[5k]DP[34]SO[Gelya]CO[0]SZ[19]AW[cj]AW[ej]AW[io]AW[ko]AW[jp]AW[lp]AW[fq]AW[jq]AW[oq]AW[gr]AW[hr]AW[ir]AB[cl]AB[el]AB[hm]AB[in]AB[jn]AB[do]AB[jo]AB[ip]AB[qp]AB[dq]AB[gq]AB[hq]AB[er]AB[fr]C[W to play tesuji combination]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Ð¿â–’Ð¿â•£Ð¿â•©Ñâ–€Ð¿â•£]PB[Ð¿â•–Ð¿â•£Ñâ”€Ð¿â•«Ñâ–€Ð¿â•£]PL[W]
+(;W[hp]C[Wrong. See why];B[gp]
+(;W[iq];B[ho];W[ip])
+(;W[ho];B[go]
+(;W[iq];B[hn];W[ip])
+(;W[hn];B[gn]))
+(;W[fp]
+(;B[ho])
+(;B[fo];W[go];B[ho];W[gn];B[gm];W[fn];B[eo];W[en]
+(;B[em];W[dn];B[cn];W[dm];B[cm];W[dl];B[dk];W[fm];B[fl];W[ep];B[dp])
+(;B[dn];W[fl];B[fm];W[em];B[dm]))))
+(;W[gp]C[Correct first move]
+(;B[fp]
+(;W[hp];B[eq];W[iq]C[Good one ;) This is a book answerRIGHT])
+(;W[eq]C[Oh no!!];B[ep];W[hp]
+(;B[fq];W[iq];B[ho];W[ip];B[go])
+(;B[ho]
+(;W[iq];B[go])
+(;W[go];B[gn];W[fo];B[fn];W[eo];B[en])))
+(;W[iq];B[eq]
+(;W[hp]C[RIGHT])
+(;W[ho]C[RIGHT])
+(;W[go];B[hp])))
+(;B[ho]
+(;W[hp]
+(;B[fp];W[iq]C[Good one ;)RIGHT])
+(;B[iq];W[io]C[Good one ;)RIGHT]))
+(;W[eq]C[Oh no!!];B[fp]
+(;W[hp];B[go])
+(;W[go];B[gn];W[fo];B[fn];W[ep];B[eo];W[dp];B[cp];W[fp];B[hp]))
+(;W[fo];B[go];W[hp];B[fp];W[ep];B[eq];W[eo];B[fn];W[dp];B[cp];W[en];B[em];W[dn];B[cn];W[co];B[dm]))
+(;B[hp];W[ho]))
+(;W[ho]C[Wrong. See why];B[gp]
+(;W[hp];B[iq];W[fp];B[go];W[hn];B[gn])
+(;W[go];B[fp];W[hp];B[iq];W[fo];B[ep];W[eo];B[en];W[fn];B[fm];W[gm];B[gl];W[gn];B[hn]))
+(;W[iq];B[hp]
+(;W[fp];B[ho])
+(;W[ho];B[gp]
+(;W[go];B[fp];W[fo];B[ep])
+(;W[fp];B[go]
+(;W[gn];B[hn])
+(;W[fo];B[gn]))
+(;W[fo];B[go]))
+(;W[go];B[ho])
+(;W[fo];B[fp])))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[4k]DP[29]SO[passero]CO[0]AB[hc]AB[hb]AB[id]AB[jd]AB[ld]AB[kd]AB[md]AB[mc]AW[kb]AW[kc]AW[lc]AW[mb]AW[ib]AW[ic]C[Black to kill]AB[gc]SZ[13]AB[ge]AW[eb]AW[ed]AP[goproblems]
+(;B[la]
+(;W[jc]
+(;B[lb];W[ka]
+(;B[ia]LB[ja:A]C[Correct. White can't move at K13 by Damezumari.RIGHT])
+(;B[ma];W[mb]))
+(;B[ja];W[ia]
+(;B[lb];W[ka])
+(;B[ka];W[lb]C[It's seki.]))
+(;B[ia];W[ja]
+(;B[lb];W[ha]
+(;B[ma];W[fa])
+(;B[ga];W[ka]
+(;B[ia];W[ma])
+(;B[ma];W[mb])))
+(;B[ka];W[ha];B[ga];W[ia]))
+(;B[ka];W[ja])
+(;B[ma];W[lb]
+(;B[ia];W[ja])
+(;B[ja];W[ia];B[ka];W[jb]C[White has got four territories.])))
+(;W[ka];B[ia];W[ja];B[jc];W[ha];B[jb];W[fa];B[ia];W[ib]))
+(;B[jc];W[la])
+(;B[ia];W[la])
+(;B[ja];W[la])
+(;B[ka];W[la])
+(;B[lb];W[la]))

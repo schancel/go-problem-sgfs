@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[8k]DP[46]SO[huhss]CO[8]SZ[19]AP[MultiGo:3.6.0]AB[cr][dr][fq][fr][gr][bq][bp][bo][cn][dn][en][fn]AW[bn][bm][cm][dm][fl][hm][go][fp][eo][co][cp][cq][gq][hq][hr]
+TR[cn][dn][en][fn]C[black to save marked 4 stone]
+;B[ep](;W[eq]	;B[dp](;W[do]	;B[fo]	;W[dq]	;B[ep](;W[dp]
+;B[er]C[RIGHT]
+)
+(;W[gp]
+;B[er]C[RIGHT]
+)
+)
+(;W[dq]
+;B[do]C[RIGHT]
+)
+)
+(;W[dp]
+;B[eq]LB[do:A][fo:B]C[RIGHT]
+)
+)

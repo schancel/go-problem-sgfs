@@ -1,0 +1,9 @@
+(;GE[endgame]DI[3k]DP[25]SO[Karen B]CO[6]C[ How much is A worth?FORCE]LB[aj:7]LB[cj:8]LB[ej:9]LB[gj:10]LB[al:11]LB[cl:12]LB[el:13]LB[gl:14]AW[bq]AW[br]AW[bs]AW[dr]AW[er]AW[fq]AW[fr]AW[hq]AW[iq]AB[ap]AB[aq]AB[bn]AB[bp]AB[cq]AB[cr]AB[do]AB[dq]AB[ep]AB[eq]AW[ar]LB[cs:A]AW[ds]AB[cs]
+(;B[aj]C[Sorry, try practicing counting more often.]LB[cs:A])
+(;B[cj]C[Sorry, no. It's worth more.]LB[cs:A])
+(;B[ej]C[Close.]LB[cs:A])
+(;B[al]C[Oops! Close.]LB[cs:A])
+(;B[el]C[Sorry, not this much.]LB[cs:A])
+(;B[gl]C[Sorry, try practicing counting more often.]LB[cs:A])
+(;B[gj]C[Correct: 10 points. Black C-1 wins 9 points (4 stones + 5 spaces). White C-1 wins 1 point at A-1.  Therefore,  9 + 1 = 10.RIGHT])
+(;B[cl]C[Sorry, it's worth less.]))

@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[18]SO[saiko*]CO[0]AB[pd]AB[mc]AB[kc]AW[oc]AB[pc]AW[od]AB[oe]AW[md]AW[mb]AW[ic]AW[hc]AB[qb]AB[rc]AB[re]AW[rf]AW[rg]AB[pf]AW[ie]AW[rd]AB[qd]AW[ph]AW[qh]C[Black to play and fight strong]AP[goproblems]
+(;B[lc]
+(;W[nc]C[CHOICE]
+(;B[ne]C[Nice, white is hopeless! - the triangled places are miai!RIGHT]TR[nd]TR[le])
+(;B[ke];W[ne];B[nf];W[mf])
+(;B[ob];W[nb];B[ne]C[Good, white is doomed! The triangled places are miai!RIGHT]TR[nd]TR[le]))
+(;W[ne];B[nc]C[Black is still okRIGHT]))
+(;B[ne];W[lc])
+(;B[nc];W[nd];B[ob];W[lc];B[nb];W[ld])
+(;B[nb];W[lc];B[nc];W[ld]C[You could do better.])
+(;B[ld];W[nc]
+(;B[me];W[lc])
+(;B[lc];W[me]))
+(;B[lb];W[nc];B[lc];W[ne])
+(;B[nd];W[nc]
+(;B[ne];W[lc])
+(;B[lc];W[ne]))
+(;B[ob];W[lc];B[nc];W[nd]))

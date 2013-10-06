@@ -1,0 +1,22 @@
+(;GE[fuseki]DI[10k]DP[54]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;C[white's best move
+]
+AW[dc][jc][fd][ff][qf][dh][qi][pm][cn][qn][co][po][dp][ip][dq][eq][er]
+AB[bc][lc][oc][qd][ce][df][ch][cj][bn][bo][qo][qp][cq][fq][nq][pq][cr][dr]
+LB[fp:A][oe:B][bm:C]PL[2]
+(;W[bm]LB[cp:1][cm:2][fo:3]
+C[white lose sente with little compensation
+])
+
+(;W[fp]C[RIGHT
+])
+
+(;W[oe]LB[fo:A]C[black plays A and has a good game
+])
+
+)

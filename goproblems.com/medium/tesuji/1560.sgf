@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[3k]DP[26]SO[adum]CO[7]SZ[19]AW[qa]AW[qb]AW[rb]AW[qc]AW[pd]AW[pe]AW[pf]AW[qf]AW[sf]AW[rg]AW[sg]AW[qh]AB[sb]AB[oc]AB[pc]AB[rc]AB[nd]AB[qd]AB[sd]AB[qe]AB[re]AB[se]AB[nf]AB[rf]LB[qa:1]C[white just played 1. how to respond?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[sa];W[ra]
+(;B[pb];W[sc]
+(;B[sb]C[white dies without koRIGHT])
+(;B[pa];W[rd])
+(;B[sa];W[rd]))
+(;B[pa];W[sc];B[sb];W[pb]
+(;B[ob]C[a little messy, this sequence, but it worksRIGHT])
+(;B[oa];W[ob]
+(;B[nb];W[na]
+(;B[oa]C[RIGHT])
+(;B[ma];W[sa])
+(;B[mb];W[sa]))
+(;B[na];W[nb])))
+(;B[oa];W[sc];B[sb];W[sa])
+(;B[sc];W[rd]))
+(;B[pb];W[sa]C[ko. black can do better])
+(;B[pa];W[sa]C[ko])
+(;B[ra];W[sa]C[ko])
+(;B[sc];W[sa]C[koh])
+(;B[oa];W[sa]C[ko]))

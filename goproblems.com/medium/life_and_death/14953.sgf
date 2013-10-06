@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3d]DP[11]SO[MeleeNewb]CO[0]AB[rp]AB[rq]AB[qq]AB[or]AW[nr]AB[qr]AB[pr]AW[ro]AW[pp]AW[qs]AW[rs]AB[ns]AW[qp]AB[oq]AW[qn]AW[op]AW[pq]AW[np]AW[nq]AW[mr]AP[goproblems]
+(;B[sp];W[os]
+(;B[rr];W[sr]
+(;B[sq];W[so]
+(;B[ss]C[Good, ko.RIGHT])
+(;B[ps]))
+(;B[ps]))
+(;B[ps];W[sr]
+(;B[rr];W[so]
+(;B[ss];W[rs])
+(;B[sq];W[os]))
+(;B[sq];W[so]))
+(;B[sr];W[ps]))
+(;B[sr];W[sp])
+(;B[sq];W[rr])
+(;B[os];W[sp];B[sq];W[rr])
+(;B[rr];W[sp]
+(;B[sq];W[ss])
+(;B[ss];W[sq]))
+(;B[ps]C[Dead in gote.]))

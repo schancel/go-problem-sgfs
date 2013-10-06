@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[37]SO[happyboy]CO[7]AB[dd]AB[ed]AB[fd]AB[fc]AB[ce]AB[ae]AB[be]AB[eb]AB[db]AW[fb]AW[gb]AW[ec]AW[dc]AW[cc]AW[cd]AW[bd]AW[ad]AP[goproblems]
+(;B[cb];W[bb]
+(;B[ab]
+(;W[ba]
+(;B[bc]C[white is dead.RIGHT])
+(;B[ac];W[bc];B[ca];W[aa]
+(;B[ab];W[ac];B[ab]C[RIGHT])
+(;B[ac];W[ab];B[ac]C[RIGHT])))
+(;W[bc];B[ba]C[RIGHT])
+(;W[ca]
+(;B[bc]C[white is dead.RIGHT])
+(;B[ac]C[white is dead.RIGHT])))
+(;B[ba];W[ab]
+(;B[bc];W[ac];B[ca];W[ea])
+(;B[ca];W[ea]))
+(;B[ac];W[bc];B[ba];W[ab];B[ca];W[ea])
+(;B[ca];W[ab]
+(;B[bc];W[ac];B[ba];W[ea])
+(;B[ba];W[ea])))
+(;B[bb];W[cb];B[ca];W[ea])
+(;B[ba];W[cb];B[ca];W[da];B[ea];W[fa];B[da];W[bb])
+(;B[ca];W[cb];B[bb];W[ea])
+(;B[ac];W[cb])
+(;B[ab];W[cb]))

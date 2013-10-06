@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[6k]DP[39]SO[caleb]CO[9]AB[qc]AB[qd]AB[pd]AB[qf]AB[rf]AB[qg]AB[md]AB[me]AB[mf]AB[mg]AB[nh]AB[oh]AB[ph]AW[rb]AW[qb]AW[pc]AW[od]AW[nc]AW[mc]AW[ne]AW[ng]AW[og]AW[pg]AW[qh]AW[rg]AW[sh]AW[qi]AW[ri]C[Black to capture some stones and link up his groups.]AP[goproblems]
+(;B[oe];W[pe]
+(;B[of];W[nf]
+(;B[nd];W[pf]
+(;B[oe];W[of]
+(;B[qe]C[Excellent.RIGHT])
+(;B[pb];W[oc];B[qe];W[oe]C[White connected.]))
+(;B[qe];W[oe]C[In case you haven't noticed, white is connected now.]))
+(;B[pf];W[nd]C[The point of this problem was to NOT let white connect.])
+(;B[qe];W[pf]
+(;B[oe];W[nd]C[Try again.])
+(;B[nd];W[oe]C[This just isn't your day.])))
+(;B[nf];W[of]C[Sacrificing just one stone won't help.])
+(;B[pf];W[of]C[Sacrificing just one stone won't help.])
+(;B[nd];W[of]C[Sacrificing just one stone won't help.]))
+(;B[nf];W[of]C[Sorry, try again.])
+(;B[of];W[nf]C[White connects.])
+(;B[pf];W[of]C[Nope.])
+(;B[sa]C[I'm worried about your future in solving problems...])
+(;B[pb];W[oc]C[Now what, genius?])
+(;B[oc];W[ob]C[Knock knock, hey McFly.])
+(;B[sg];W[sf]C[Knock knock, hey McFly.])
+(;B[rc]C[This really doesn't keep white from connecting WHICH IS THE WHOLE POINT OF THE PROBLEM!])
+(;B[re]C[Go back and read what the goal of this problem is.])
+(;B[nd];W[oe]C[A bamboo joint will pretty much always connect. White could also play p14 here (or q15 for that matter).])
+(;B[ob]C[Whatever this move may accomplish, it's not the point of this problem.]))

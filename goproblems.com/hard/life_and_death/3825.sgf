@@ -1,0 +1,69 @@
+(;GE[life and death]DI[4d]DP[8]SO[Andre Engels]CO[9]AB[kd]AB[kc]AB[kb]AB[le]AB[lf]AB[lg]AB[ng]AB[nh]AB[of]AB[pf]AB[qg]AB[qe]AB[pd]AB[qd]AB[qc]AB[qb]AB[ph]AB[mc]AB[nc]AW[lc]AW[ld]AW[md]AW[mb]AW[nf]AW[ne]AW[oe]AW[pe]AW[od]AW[oc]AW[pc]AW[og]AW[pg]AW[oh]AW[oi]AB[qf]C[Can white live?]AB[qh]AB[ri]AB[sh]AW[pi]AW[qi]AW[rj]AW[qk]AP[goproblems]
+(;W[lb];B[pb]
+(;W[ob];B[oa]
+(;W[na];B[la])
+(;W[la];B[na]))
+(;W[nb];B[ob]C[No chance of getting two eyes; M19 and O19 are mi-ai]))
+(;W[ob];B[lb]
+(;W[nb];B[pb])
+(;W[ma];B[pb]
+(;W[oa];B[nb]C[dead])
+(;W[nb];B[oa])))
+(;W[pb]
+(;B[nb]C[CHOICE]
+(;W[lb];B[pa]
+(;W[oa];B[qa]
+(;W[ma];B[me]
+(;W[nd]C[seki!RIGHT])
+(;W[na]C[Dead]))
+(;W[la];B[ob])
+(;W[na];B[la]C[dead])
+(;W[nd]C[If you check this position closely, you see that the best black can do is make a seki with black M19-white N19.RIGHT]))
+(;W[na];B[oa];W[ob];B[la];W[qa];B[pa])
+(;W[la];B[oa])
+(;W[mg]C[NOTTHIS]))
+(;W[ob];B[lb])
+(;W[ma];B[lb])
+(;W[na];B[lb]
+(;W[ob];B[ma])
+(;W[oa];B[ma])
+(;W[ma];B[oa]))
+(;W[mg]C[NOTTHIS]))
+(;B[lb];W[nb])
+(;B[pa]C[CHOICE]
+(;W[oa];B[nb]
+(;W[lb];B[qa]
+(;W[ma];B[me];W[nd]C[seki!RIGHT])
+(;W[na];B[la])
+(;W[la];B[ob])
+(;W[ob];B[la])
+(;W[nd]C[If you examine this position closely, you'll see that the best black can do is to make a seki with black M19-white N19.RIGHT]))
+(;W[ma];B[lb]
+(;W[na];B[la]C[White may capture at R19, but what remains is a dead shape.])
+(;W[ob]C[dead as it stands.])
+(;W[qa];B[na]))
+(;W[na];B[lb];W[ma];B[qa])
+(;W[qa];B[lb];W[ma];B[na])
+(;W[mg]C[NOTTHIS]))
+(;W[nb];B[oa])
+(;W[lb];B[oa])
+(;W[na];B[oa];W[mg]C[NOTTHIS])
+(;W[mg]C[NOTTHIS])))
+(;W[nb];B[pb]C[M18 and M19 are mi-ai for black, as are P18 and P19, so white will never get a second eye on the edge.])
+(;W[oa];B[nb]
+(;W[na];B[lb];W[ma];B[pb])
+(;W[ob];B[lb];W[ma];B[me])
+(;W[lb];B[pb];W[ob];B[la])
+(;W[ma];B[lb]
+(;W[na];B[pb])
+(;W[pa];B[pb])
+(;W[pb];B[la];W[na];B[me]))
+(;W[pb];B[lb]
+(;W[ma];B[na])
+(;W[na];B[ma])))
+(;W[pa];B[pb];W[ob];B[lb]
+(;W[ma];B[nb])
+(;W[nb]C[dead as it stands])
+(;W[oa];B[ma]))
+(;W[nd];B[pb])
+(;W[mg]C[NOTTHIS]))

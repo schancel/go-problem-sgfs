@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[3k]DP[24]SO[adum]CO[7]AW[jb]AW[ib]AW[ic]AB[kb]AB[lb]AB[jc]AB[jd]AB[id]AW[kc]AW[ld]AB[nc]AB[hc]AB[gc]AB[fc]AW[hd]AW[he]AW[hf]AW[hg]AB[dd]AW[fd]AW[ed]AB[ec]AB[de]AW[ef]AW[ff]C[what can white do here?]AB[cg]AP[goproblems]
+(;W[je];B[kd]
+(;W[lc];B[ke]
+(;W[mb]C[RIGHT])
+(;W[le];B[kf];W[mb]C[RIGHT])
+(;W[kf];B[le])
+(;W[lf];B[hb]))
+(;W[ke];B[lc])
+(;W[ie];B[lc])
+(;W[le];B[lc])
+(;W[mb];B[lc]))
+(;W[lc];B[hb])
+(;W[ie];B[ke]C[depends on ladder... you can do better])
+(;W[kd];B[je])
+(;W[mb];B[hb])
+(;W[mc];B[hb])
+(;W[dc];B[hb])
+(;W[df];B[cf]C[this exchange doesn't help white])
+(;W[gd];B[hb])
+(;W[hb];B[ke])
+(;W[ke];B[hb])
+(;W[ka];B[hb]))

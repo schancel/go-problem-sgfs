@@ -1,0 +1,36 @@
+(;GE[life and death]DI[3k]DP[26]SO[marwin]CO[8]C[Black to play and kill]AB[sr]AB[rr]AB[qr]AW[rs]AW[pr]AW[pq]AW[pp]AW[rq]AW[sq]AW[so]AW[ro]AW[qo]AB[po]AB[op]AB[oq]AB[or]AB[os]AB[pn]AB[nn]AB[qm]AB[rm]AP[goproblems]
+(;B[qq];W[qp]
+(;B[ps];W[qs]
+(;B[ss];W[qs]
+(;B[rs];W[qs]
+(;B[qr]C[White has only one eye now. Black R3 was captured but by dieing it provided the liberty to make this work.RIGHT])
+(;B[rs];W[qr])
+(;B[rr];W[qr]))
+(;B[rp];W[rs])
+(;B[sp];W[rs]))
+(;B[rp];W[ss])
+(;B[sp];W[ss]))
+(;B[rp]
+(;W[ps]
+(;B[sp]
+(;W[sq]
+(;B[rq];W[qs]C[White wins the semeai (because I removed 2 Black stones from the marked positions)]MA[rn]MA[qn])
+(;B[qs];W[rq]))
+(;W[qs]))
+(;B[qs];W[ss])))
+(;B[sp];W[ps]
+(;B[rp])
+(;B[qs];W[ss]))
+(;B[qs];W[ps]))
+(;B[ps];W[qq];B[rp];W[qs];B[ss];W[qs];B[rs];W[qs])
+(;B[qs];W[ps]
+(;B[qq];W[qp])
+(;B[rp];W[qq];B[qp];W[sp]))
+(;B[qp];W[qq]
+(;B[ps];W[qs];B[ss];W[qs];B[rs];W[qs])
+(;B[rp];W[qs];B[sn];W[sp]))
+(;B[rp];W[qq];B[ps])
+(;B[sp];W[qq])
+(;B[ss];W[qq]
+(;B[ps];W[qs])
+(;B[qs];W[ps])))

@@ -1,0 +1,16 @@
+(;GE[life and death]DI[8k]DP[49]SO[assacra]CO[8]AB[an]AB[bn]AB[cn]AB[bm]AB[cm]AB[ai]AB[bi]AB[bj]AB[cj]AB[ci]AW[ah]AW[bh]AW[ch]AW[dh]AW[di]AW[dj]AW[dm]AW[dn]AW[co]AW[bo]AW[ao]AW[do]AB[dk]AB[dl]AW[fl]AW[fk]C[w has just played the marked stones. How can b live?]AW[bl]TR[bl]AW[fi]AW[fn]AP[goproblems]
+(;B[cl];W[bk]
+(;B[ck];W[al]
+(;B[ak];W[aj]LB[jj:K]C[Play at K for a ko threat]
+(;B[am]C[RIGHT])
+(;B[jj]C[b could play a7 :(]))
+(;B[am];W[ak]))
+(;B[al];W[ak];B[ck];W[am]C[Play at K for a ko threat]LB[jj:K]
+(;B[aj]C[RIGHT])
+(;B[jj]C[u could play a10 :(]))
+(;B[ak];W[al]
+(;B[am];W[aj];B[ck]C[RIGHT])
+(;B[ck];W[aj];B[am]C[RIGHT])))
+(;B[ck];W[cl])
+(;B[bk];W[cl])
+(;B[al];W[cl]))

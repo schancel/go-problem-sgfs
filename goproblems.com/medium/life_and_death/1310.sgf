@@ -1,0 +1,91 @@
+(
+;GE[life and death]DI[2d]DP[13]SO[gecko]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.29]
+AB[bc][bd][dc][db][ea]
+AW[be][cd][de][ed][ec][eb][gb]
+GN[temp]
+(
+;
+B[ab]
+;
+W[ba]
+;
+B[ad]
+;
+W[cb]
+;
+B[cc]
+;
+W[da]
+(
+;
+B[bb]
+;
+W[fa]
+LB[ca:a]
+C[play a if you think its ko]
+(
+;
+B[aa]
+C[RIGHT alive]
+)
+(
+;
+B[ca]
+C[nope. Actually it's not the move itself that is wrong, but the intention of playing ko is wrong. Even if you 
+see that your group is now alive, you've given white an extra ko threat at a which black has to answer at b.]
+LB[cb:a][aa:b]
+)
+)
+(
+;
+B[aa]
+;
+W[fa]
+;
+B[bb]
+C[RIGHT]
+)
+(
+;
+B[ca]
+C[This move is not really wrong, but I decided to penalize the intention of playing ko.]
+)
+)
+(
+;
+B[cc]
+;
+W[ad]
+C[dead ( this is the L-shape. make shure you understand why it's dead)]
+)
+(
+;
+B[ba]
+;
+W[cc]
+;
+B[cb]
+;
+W[ab]
+LB[bb:a][da:b]
+C[dead ( a and b are miai )]
+)
+(
+;
+B[ad]
+;
+W[cc]
+;
+B[cb]
+;
+W[ab]
+;
+B[bb]
+LB[ba:a][da:b]
+C[dead as it stands. (a and b are miai)]
+)
+)

@@ -1,0 +1,11 @@
+(;GE[endgame]DI[1k]DP[20]SO[thanush]CO[0]AB[rb]AB[rc]AB[rd]AB[qf]AB[pf]AB[ne]AB[od]AB[oc]AB[nb]AB[mb]AW[nc]AW[mc]AW[lc]AW[jc]AW[ob]AW[qc]AW[pc]AW[qb]AW[pa]TR[ra]TR[qd]TR[pd]C[Black would like to play at all the marked spots in sente]AP[goproblems]
+(;B[ra];W[qa]
+(;B[oa];W[na];B[ma];W[oa]
+(;B[pd];W[lb];B[qd];W[la]C[RIGHT])
+(;B[qd];W[lb];B[pd];W[la]C[RIGHT]))
+(;B[qd];W[lb]C[B can do better])
+(;B[pd];W[lb]C[b can do better])
+(;B[lb];W[kb];B[ma];W[oa];B[pd]))
+(;B[oa];W[na];B[ma];W[oa];B[ra];W[lb];B[pd]C[Gote])
+(;B[ma];W[oa];B[ra];W[qa];B[qd];W[lb])
+(;B[pd];W[lb];B[ra];W[qa]))

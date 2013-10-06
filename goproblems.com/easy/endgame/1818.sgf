@@ -1,0 +1,25 @@
+(;GE[endgame]DI[12k]DP[58]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[cb][db][eb][fb][gb][ec][fd][ee][fe][cf][df][ef][eg]AB[ba][ca][da][ea][bb][cc][dc][bd][cd][ed][ce][de][bf][bg]C[White to play and win!]PL[W]
+(;W[fa]CR[fa]
+;B[cg]CR[cg]
+;W[dd]CR[dd]
+;B[dg]CR[dg]
+;W[ed]CR[ed]C['Save the ko for last' - since there is no black ko threat, white wins by 1 point! RIGHT])
+(;W[cg]CR[cg]
+;B[fa]CR[fa]
+;W[dd]CR[dd]
+;B[ga]CR[ga]
+;W[ed]CR[ed]C['Save the ko for last' - since there is no black ko threat, white wins by 1 point! RIGHT])
+(;W[dd]CR[dd]
+;B[cg]CR[cg]
+(;W[fa]CR[fa]
+;B[ed]CR[ed]
+(;W[dg]CR[dg]
+;B[dd]CR[dd]C[Since there is no ko threat for white, taking the ko first is a mistake - black wins by one point!])
+(;W[ad]CR[ad]
+;B[dd]CR[dd]
+;W[ab]CR[ab]
+;B[ae]CR[ae]C[White has no ko threat here]))
+(;W[ed]CR[ed]
+;B[fa]CR[fa]C[This is only a jigo - taking the ko was wrong!])))

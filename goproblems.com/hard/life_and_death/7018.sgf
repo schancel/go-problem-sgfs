@@ -1,0 +1,53 @@
+(;GE[life and death]DI[4d]DP[8]SO[MrMoto]CO[8]AB[sr]AB[rr]AB[qq]AB[pq]AB[nr]AB[mr]AW[ls]AW[lr]AW[lq]AW[mq]AW[sq]AW[rq]AW[rp]AW[qp]AW[pp]AW[op]AW[np]AW[mp]C[Can you kill the corner?]AP[goproblems]
+(;W[ms];B[pr];W[qs];B[ps];W[rs];B[ns])
+(;W[ns];B[or])
+(;W[os];B[pr])
+(;W[ps];B[pr])
+(;W[qs];B[qr]
+(;W[rs];B[oq])
+(;W[ps];B[pr]))
+(;W[ss];B[qs])
+(;W[or];B[pr]
+(;W[qs];B[oq])
+(;W[ps];B[oq])
+(;W[oq];B[qs]))
+(;W[pr];B[qr]
+(;W[or];B[oq]
+(;W[nq];B[os];W[ns];B[ps];W[or];B[pr];W[ms];B[rs])
+(;W[os];B[ns])
+(;W[ps];B[qs])
+(;W[ns];B[ps])
+(;W[qs];B[os]))
+(;W[oq];B[or])
+(;W[os];B[or])
+(;W[ps];B[or])
+(;W[qs];B[or]))
+(;W[qr];B[pr])
+(;W[nq];B[or])
+(;W[oq];B[or])
+(;W[rs]
+(;B[qs]C[CHOICE];W[ps]
+(;B[pr]C[CHOICE];W[qr]MA[qs]C[Ko.  This is the best for both.  Good work! :)RIGHT])
+(;B[qr]C[CHOICE]
+(;W[oq];B[or])
+(;W[ns];B[or])
+(;W[or];B[oq]
+(;W[ns];B[pr]C[:(])
+(;W[os];B[ns])
+(;W[nq]C[Black can't approach.  Good work!  (Black made a mistake at R2 though)RIGHT])))
+(;B[ss]
+(;W[pr];B[or];W[oq]C[RIGHT])))
+(;B[qr]C[CHOICE]
+(;W[qs];B[os])
+(;W[ps];B[oq])
+(;W[os];B[or])
+(;W[ns];B[or])
+(;W[ms];B[or])
+(;W[nq];B[or])
+(;W[oq];B[or])
+(;W[or];B[oq]
+(;W[ps];B[pr];W[ns];B[qs])
+(;W[os];B[nq])
+(;W[ns];B[pr]
+(;W[ps];B[qs]C[:(])
+(;W[os];B[nq];W[ms]C[Good work!  (Black made a mistake at R2 though)RIGHT]))))))

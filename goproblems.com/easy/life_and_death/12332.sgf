@@ -1,0 +1,60 @@
+(;GE[life and death]DI[7k]DP[42]SO[themyron]CO[0]AB[pd]AW[qf]AB[nc]AW[rd]AB[qh]AW[qc]AB[pc]AW[of]AB[qd]AW[rc]AW[pe]AB[rf]AW[pg]AB[re]AW[pb]AB[ob]AW[pa]C[And if white plays here? Thanks to kaf for the correction.]AP[goproblems]
+(;B[ra]
+(;W[rb]
+(;B[oa]C[Correct, white is dead!RIGHT])
+(;B[sd];W[qa]
+(;B[sb];W[sa]C[Ko. Not good enough here.])
+(;B[oa];W[sa]C[Nope.])
+(;B[sc];W[sa]C[Nope.]))
+(;B[qb];W[qa];B[oa];W[sa]C[Nope.])
+(;B[sb];W[qa]
+(;B[oa];W[sa]C[Ko. Not good enough here.])
+(;B[sd]))
+(;B[qa]
+(;W[sd]
+(;B[oa];W[qb];B[sb];W[sa];B[ra]C[White is dead with bent 4 in the corner.RIGHT])
+(;B[sb];W[qb]
+(;B[oa];W[sa];B[ra]C[Bent 4 in the corner.RIGHT])
+(;B[se];W[sa];B[ra]C[Bent 4 in the corner.RIGHT])
+(;B[sa];W[sc];B[ra];W[sa];B[sb];W[qa]))
+(;B[se];W[sb])
+(;B[sa];W[sb]))
+(;W[qb]
+(;B[sd];W[sc];B[sa]C[RIGHT])
+(;B[sb];W[sc])
+(;B[oa];W[sa]))))
+(;W[sb]
+(;B[sd];W[rb]
+(;B[qa]C[Dead. Nice.RIGHT])
+(;B[oa]C[Dead. Nice.RIGHT])
+(;B[qb];W[qa]))
+(;B[rb];W[sd];B[qb]C[Cool looking kill. Nice!]))
+(;W[sd];B[sb];W[rb];B[oa]C[Dead. Nice.RIGHT]))
+(;B[sb];W[rb]
+(;B[oa];W[ra]C[Nope.])
+(;B[ra])
+(;B[sd];W[sc]
+(;B[ra];W[sa]C[Ko. Not good enough here.])
+(;B[oa];W[ra]C[Nope.])))
+(;B[rb];W[ra]
+(;B[sb];W[qb])
+(;B[sd];W[sb]C[Nope.])
+(;B[qb];W[sb];B[sd];W[qa]C[Nope.])
+(;B[oa];W[sb]))
+(;B[sd];W[rb]
+(;B[ra])
+(;B[sc];W[sb]
+(;B[ra];W[qa];B[oa];W[sa]C[Nope.])
+(;B[qa];W[ra])
+(;B[oa];W[ra]))
+(;B[oa];W[ra]C[Nope.]))
+(;B[oa];W[ra]
+(;B[sd];W[rb]C[Nope.])
+(;B[qb];W[qa]
+(;B[sd];W[rb]C[Nope.])
+(;B[sb];W[rb]C[Nope.]))
+(;B[rb];W[sb]C[Nope.])
+(;B[sb];W[rb]C[Nope.]))
+(;B[qb];W[rb]
+(;B[ra])
+(;B[sd];W[qa])))

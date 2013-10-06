@@ -1,0 +1,64 @@
+(;GE[life and death]DI[3k]DP[27]SO[piccolo]CO[0]AB[rq]AB[qp]AB[pp]AB[oq]AB[po]AB[pn]AB[ql]AW[oo]AW[qo]AW[rp]AW[qq]AW[rr]AB[sq]LB[sq:2]LB[rr:1]C[White to live locally -- escape is not enough.]AP[goproblems]
+(;W[sr];B[qr];W[sp];B[rq]C[Now white need an eye around S6 in sente. Please don't play at the bottom.]
+(;W[rm];B[rl];W[qm];B[pm];W[qn];B[rs]C[yes, you cannot get more than one gote eye at S6.])
+(;W[rn];B[rm]
+(;W[qn];B[sn];W[qm];B[pm];W[ro];B[sl])
+(;W[qm];B[qn];W[rl];B[ro];W[sn];B[pm];W[sm];B[rk])
+(;W[sm];B[rl])
+(;W[sn];B[qn]))
+(;W[qn];B[qm];W[rm];B[rl];W[sm]C[yes, you cannot get more than one gote eye at S6.])
+(;W[sn];B[rn];W[rm];B[qm];W[rl];B[rk];W[ro];B[qn]C[Only false eyes there.])
+(;W[qm];B[qn];W[rn];B[ro];W[so];B[rm])
+(;W[ro];B[rm];W[rn];B[sn];W[qm];B[rl];W[qn];B[pm]))
+(;W[sp];B[qr];W[sr])
+(;W[pr]
+(;B[ro]TR[sr]C[Play at the triangle mark to simplify the solution tree :)CHOICEFORCE];W[sr];B[sp]
+(;W[or]
+(;B[nr]C[Please do not play tricky moves outside, like N2 or O3 (yes, they are OK, but you don't need them).]
+(;W[pq];B[nq]C[Do you need to add a move ?]LB[qs:Yes]LB[pl:No]
+(;W[qs]C[Not necessary.])
+(;W[pl]
+(;B[qs]C[How to defend then ?];W[rs];B[os];W[qr];B[ns];W[ps]C[Well done !RIGHT])
+(;B[os]C[How to defend then ?]
+(;W[qs];B[ns];W[ps]C[Well done !RIGHT])
+(;W[ps];B[qs]MA[ns]MA[rs]C[Oops ! Not good although you may escape.  But tenuki is correct, only Q1 is wrong. Navigate to see why.]))))
+(;W[qs];B[pq];W[qr];B[os])
+(;W[qr];B[os];W[nq];B[mr])
+(;W[ps];B[pq];W[qr];B[rs])
+(;W[rs];B[os];W[ps];B[qr])
+(;W[os]
+(;B[pq];W[qr]C[Best play for white. Sooner or later, the cut at O3 is possible.RIGHT])
+(;B[qs];W[rs];B[qr];W[ps];B[qr];W[pq]C[CHOICERIGHT])))
+(;B[pq]
+(;W[nq];B[qr];W[qs];B[ps]C[Escape, but locally very bad for white.])
+(;W[nr];B[qr];W[qs];B[ps]C[Escape, but locally very bad for white.])
+(;W[qr];B[nr];W[os]C[Best play for white. Sooner or later, the cut at O3 is possible.RIGHT])))
+(;W[qs];B[pq]
+(;W[or];B[nr])
+(;W[nr];B[or];W[os]C[Escape, but locally dead.]))
+(;W[ps];B[pq];W[qr];B[rs];W[nr];B[or];W[os]C[Escape, but locally dead.])
+(;W[os];B[pq];W[qr];B[or];W[nr];B[ps];W[qs]C[Escape, but locally dead.])
+(;W[rs];B[or];W[ps];B[pq];W[qr]C[RIGHT])
+(;W[pq];B[or]
+(;W[ps]C[Not optimal because black P1 will be sente.RIGHT])
+(;W[qs]C[Not optimal because black P1 will be sente.RIGHT]))
+(;W[nr];B[or];W[os];B[pq];W[qr])
+(;W[qr];B[or]))
+(;B[pq];W[qr];B[ro];W[sr];B[sp];W[or]C[]))
+(;W[pq];B[or]
+(;W[sr];B[qr];W[sp];B[rq]C[This is very similar to the line where white capture S3 from the first move. Please navigate.])
+(;W[sp];B[qr];W[sr]))
+(;W[qr];B[ro]TR[sr]C[Play at the triangle mark to simplify the solution tree :)];W[sr];B[sp]
+(;W[or];B[nr]
+(;W[pr])
+(;W[os];B[pq];W[pr]C[Best play for white. Sooner or later, the cut at O3 is possible.RIGHT])
+(;W[pq];B[os]
+(;W[pr];B[nq])
+(;W[ps];B[pr]C[Ko is not enough.]))
+(;W[ps];B[pq];W[ns];B[pr]))
+(;W[pr])
+(;W[rs];B[pr];W[pq];B[or]))
+(;W[qs];B[pr]
+(;W[sr];B[qr];W[sp];B[rq]C[Similar to main line : white cannot get both S1 and an eye at S6, so the corner is dead.])
+(;W[sp];B[qr];W[sr]))
+(;W[so];B[qr]C[No way to get two eyes around S6.]))

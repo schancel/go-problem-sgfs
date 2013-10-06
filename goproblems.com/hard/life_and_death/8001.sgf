@@ -1,0 +1,39 @@
+(;GE[life and death]DI[4d]DP[8]SO[munisai79]CO[3]AB[qr]AB[qq]AB[rq]AB[qp]AB[oq]AB[nq]AB[mr]AB[lr]AB[ns]AB[no]AB[mo]AB[lp]AW[ls]AW[kr]AW[kq]AW[lq]AW[mq]AW[lo]AW[ko]AW[ip]AW[io]AW[jq]AW[qo]AW[rp]AW[ro]AW[sq]AW[rr]AW[po]AW[mn]AW[nn]AW[lm]AW[pm]AW[qm]C[It is white's turn.  Is black (A)live or (D)ead?]LB[nk:A]LB[pk:D]AP[goproblems]
+(;W[nk]AW[np]AW[oo]AB[op]C[Black tenuki after (3).  Is black's corner (A)live or (D)ead?];B[nl]LB[np:1]LB[oo:3]LB[op:2]LB[pk:A]LB[rk:D]C[Black played tenuki after (3).  Is black's corner (A)live or (D)ead?]
+(;W[rk];B[rl]C[Prove your claim.]
+(;W[or];B[pr]
+(;W[pp];B[sr]
+(;W[ss];B[qs];W[pq];B[nr];W[os];B[ps]
+(;W[sp]C[Excellent job!RIGHT])
+(;W[sr]C[Excellent job!  RIGHT])
+(;W[or]C[...but black gets one more ko threat.RIGHT])
+(;W[os]C[... but black gets one more ko threat.RIGHT]))
+(;W[pq];B[rs])
+(;W[rs];B[sp]))
+(;W[os];B[pp]))
+(;W[pp];B[or])
+(;W[qs];B[ps];W[pr];B[rs]
+(;W[pq];B[pp]
+(;W[sr];B[or])
+(;W[or];B[sr]))
+(;W[sr];B[or]))
+(;W[pr];B[or];W[qs];B[pq];W[ps];B[os]
+(;W[rs];B[sr])
+(;W[sr];B[rs])))
+(;W[pk];B[pl]C[Sorry, black is dead.]))
+(;W[pk];B[pl]C[Sorry, black is alive.  You may try to kill if you wish.]
+(;W[np];B[or])
+(;W[or];B[pr]
+(;W[pp];B[sr];W[ss];B[qs]
+(;W[os];B[rs])
+(;W[sp];B[os])
+(;W[sr];B[os]))
+(;W[os];B[pp])
+(;W[qs];B[pp]))
+(;W[pp];B[or])
+(;W[ks];B[pp]
+(;W[oo];B[pr])
+(;W[pr];B[sr];W[ss];B[qs]
+(;W[sp];B[oo])
+(;W[sr];B[oo])
+(;W[oo];B[rs])))))

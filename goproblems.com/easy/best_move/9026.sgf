@@ -1,0 +1,10 @@
+(;GE[best move]DI[5k]DP[33]SO[EvilBuu]CO[3]AB[jo]AB[ho]AB[hp]AB[hq]AB[in]AW[io]AW[ip]AW[jq]AW[hn]C[Please play 'A'.  Just for reference the shape marked above is the reason for this problem :).  How to punish white's play at 'O', the play it self is not wrong.  Just if white goes greedy how to answer it.  This problem also has info on if white plays proper, then what to do.]LB[kq:A]TR[jc]TR[je]LB[ip:1]LB[hp:2]LB[io:3]LB[in:4]LB[hn:5]AB[he]AB[je]AB[jc]TR[he]AW[hc]TR[hc]LB[id:O]AP[goproblems];B[kq]
+(;W[jr]C[White should have played at the marked location and went for a equal trade.  Instead of being greedy with #7, show white the error of in his ways.]LB[ip:1]LB[hp:2]LB[in:4]LB[io:3]LB[hn:5]LB[kq:6]LB[jr:7]TR[jn]
+(;B[jp];W[iq];B[kr];W[hr]
+(;B[js];W[ir];B[gr]C[W00T! Death waits for all who want more then what they deserve .. well in the world of Go any ways ;-)  Navigate back to seee what white could have done.RIGHT])
+(;B[gr];W[gq]
+(;B[hs];W[is]C[KO! No no no, your doing it all wrong.  Given this is not a easy ko to win, why give white a ko at all?])
+(;B[js];W[fr];B[ir];W[gs]C[Black caught some stones and stayed connected, but giving white a Ponnuki, can't be good.])
+(;B[gn];W[hm];B[fq];W[jn];B[im];W[kp];B[ko];W[kn];B[lo];W[il]C[Ladder, I think white will ignore any ladder breaker.  But still why let white escape.])))
+(;B[kr];W[jn];B[im];W[ko]C[Opps, White escapes, and successed in his plan to keep everything divided :(.]))
+(;W[jn]C[The proper cut!];B[im];W[ko];B[jm];W[kn];B[jr]C[A fair trade, white gets to live, black gets to stay linked.  Good for both is good for everyone right ;-)]))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[6k]DP[36]SO[elahrairah]CO[0]AB[ra]AB[rb]AB[rc]AB[rf]AB[qf]AB[pf]AB[sg]AB[rh]AB[qh]AW[ph]AW[qi]AW[ri]AW[og]AW[of]AW[oe]AW[qe]AW[rd]AW[sc]AB[pe]AW[pd]AW[qc]AW[od]C[Black to play.]AP[goproblems]
+(;B[se]
+(;W[re]C[CHOICE]
+(;B[sb]C[Correct. White cannot connect at T16 because her stones would still be in atari. The best result for White, locally, would have been to capture the corner with T16 instead of trying S15.RIGHT])
+(;B[sf];W[sd])
+(;B[sd];W[sf])
+(;B[qg];W[sd])
+(;B[rg];W[sd])
+(;B[pg];W[sd]))
+(;W[sd];B[re];W[qd]C[RIGHT]))
+(;B[re];W[se]
+(;B[qd]C[Incorrect. Black can live unconditionally.])
+(;B[sf];W[sd]
+(;B[qd]C[Incorrect. Black can live unconditionally.])
+(;B[sb];W[qd]))
+(;B[sb];W[sd]
+(;B[qd]C[Incorrect. Black can live unconditionally.])
+(;B[sf])))
+(;B[pg];W[re])
+(;B[qg];W[re])
+(;B[rg];W[re])
+(;B[sf];W[re])
+(;B[sd];W[se])
+(;B[sb];W[se]
+(;B[re])
+(;B[sf];W[re])
+(;B[sd];W[re])))

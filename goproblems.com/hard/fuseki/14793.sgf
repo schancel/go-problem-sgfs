@@ -1,0 +1,22 @@
+(;GE[fuseki]DI[4d]DP[8]SO[smartaleck]CO[0]LB[dc:black]LB[nq:black]LB[pp:white]AB[cp]C[You are allowed to make a move in every corner except the lower left. But be careful not to violate the assumptions above.FORCE]LB[pc:?]LB[pd:?]LB[qd:?]AP[goproblems]
+(;W[pp]
+(;B[dc]C[FORCE]
+(;W[pd];B[nq]C[this violates assumption 1FORCE])
+(;W[qd];B[nq]C[this violates assumption 1FORCE])
+(;W[pc];B[nq]C[this violates assumption 1FORCE])))
+(;W[qp]C[this violates assumption 2.])
+(;W[pq];B[pc]C[this violates assumption 2.])
+(;W[pd]
+(;B[pq]C[FORCE]
+(;W[cd];B[qf]C[this violates assumption 1FORCE])
+(;W[dd];B[qf]C[this violates assumption 1FORCE])
+(;W[dc];B[qf]C[this violates assumption 1FORCE])))
+(;W[pc];B[pq]C[this violates assumption 2.])
+(;W[qd];B[dd]C[this violates assumption 2.])
+(;W[cd];B[qd]C[this violates assumption 2.])
+(;W[dc]C[this violates assumption 2.])
+(;W[dd]
+(;B[pq]C[FORCE]
+(;W[pd];B[qf]C[this violates assumption 1FORCE])
+(;W[pc]C[this violates assumption 2.])
+(;W[qd]C[RIGHT]))))

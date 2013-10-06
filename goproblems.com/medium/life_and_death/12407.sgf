@@ -1,0 +1,53 @@
+(;GE[life and death]DI[3d]DP[9]SO[MeleeNewb]CO[0]AB[ap]AB[bq]AB[br]AB[cr]AW[cq]AW[cp]AW[bp]AW[bn]AW[cn]AW[dn]AB[dp]AB[eq]AB[fp]AB[fo]AB[fn]AB[fm]AW[dl]AW[ck]AW[fq]AW[gq]AW[hp]AW[gp]AW[gn]AW[hn]AW[ko]AW[jo]AW[lo]AB[lq]AB[lp]AB[mo]AB[np]AB[gm]AW[kl]TR[cr]TR[br]TR[bq]C[Can the marked stones be killed unconditionally? If so, kill them. Otherwise, play T (k8) and show why not.]LB[jl:T]AW[ar]AB[gk]AB[hk]AB[fk]AB[ks]AB[lr]AB[ls]AP[goproblems]
+(;W[jl]AB[jl]AB[kl]AB[jo]AB[ko]AB[lo]AW[mo]AW[lp]AW[lq]AW[ls]AW[np]AB[hn]AB[gn]AB[gp]AB[fq]AB[gq]AB[hp]AW[dp]AW[eq]AW[fp]AW[fo]AW[fn]AW[fm]AW[gm]AB[dn]AB[cn]AB[bn]AB[bp]AB[cp]AB[cq]AW[cr]AW[br]AW[bq]AW[ap]AB[dl]AB[ck]AB[ar]AW[fk]AW[gk]AW[hk]AW[ks]AW[lr];B[er]C[Oh? Then what can you get? Caution: There are no variations added for pointless forcing moves.]AW[ks]AW[lr]
+(;W[dr];B[dq]
+(;W[fr]
+(;B[ep]
+(;W[es]
+(;B[eq]
+(;W[ds]
+(;B[bs]C[CHOICE]
+(;W[gs];B[gr];W[fs]C[Correct! Note that black could have gotten a ko with better play. Navigate solution to see how.RIGHT])
+(;W[hr];B[gr];W[gs];B[fs]C[You could have lived unconditionally.])
+(;W[hs];B[is]
+(;W[ir];B[gs])
+(;W[hr];B[gr];W[gs];B[ir]))
+(;W[gr];B[hr])
+(;W[is];B[gs];W[gr];B[hr])
+(;W[fs];B[hr])
+(;W[ir];B[gr];W[gs];B[hs];W[fs];B[hr]))
+(;B[gr];W[aq];B[bs];W[cs]C[RIGHT]))
+(;W[gs];B[gr]
+(;W[ds];B[fs];W[aq];B[bs]
+(;W[fr];B[mn]LB[nn:K]C[Please respond to the ko threat at K (o6)];W[nn]C[];B[fs]LB[mm:K]C[Play at K (n7) if you need to make a threat.]
+(;W[as]C[Life in double ko. You could have lived without giving black an infinite source of threats, but life is life. Good job!RIGHT])
+(;W[mm]C[Incorrect. You could have lived without starting a ko fight.]))
+(;W[as];B[mn]C[Please respond to the ko threat at K (o6)]LB[nn:K];W[nn];B[ar];W[fr]C[Life in double ko. You could have lived without giving black an infinite source of threats, but life is life. Good job!RIGHT]))
+(;W[fs];B[hs];W[ds];B[hr];W[aq];B[bs]C[You could have lived without ko.])
+(;W[hs];B[fs]C[];W[ds];B[fr];W[aq];B[bs]C[You could have done it without ko.])
+(;W[aq];B[ds];W[cs];B[as];W[hs];B[fs]C[You could have done it without ko.])
+(;W[as];B[bs]
+(;W[hs];B[fs]C[You could have done it without ko.])
+(;W[cs];B[as]
+(;W[hs];B[fs]C[You could have done it without ko.])
+(;W[aq];B[as];W[hs];B[fs]C[You could have done it without ko.]))))
+(;W[hr];B[gr]
+(;W[ds];B[bs])
+(;W[gs];B[fs]C[You could have done it without ko.]))
+(;W[aq];B[ds]
+(;W[as];B[cs];W[bs];B[ds])
+(;W[cs];B[as]
+(;W[hr];B[gr];W[gs]C[You could have done it without ko.])
+(;W[gs];B[gr]))))
+(;B[ds]C[Black can also make a ko this way, although a much worse one than if he had just played e1 in the first place.NOTTHIS]))
+(;W[ds]C[Black capturing at e4 was a mistake. This move lets black play e1 and reduce back to his correct play.])
+(;W[as];B[bs]C[This exchange hurts white. Look at the correct path to see why.]))
+(;B[es]C[NOTTHIS];W[ds];B[ep];W[aq];B[bs]C[Black could make a ko this way.]))
+(;W[ep];B[fr]C[Dead.])
+(;W[es];B[fr]C[Dead]))
+(;W[dq];B[dr]C[Dead]))
+(;W[dr];B[er]
+(;W[dq];B[ds])
+(;W[ds];B[dq]))
+(;W[dq];B[er];W[dr])
+(;W[er]C[The best attack, but it does not kill unconditionally. Navigate solution or restart and play T to see why.]))

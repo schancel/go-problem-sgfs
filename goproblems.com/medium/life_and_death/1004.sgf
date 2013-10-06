@@ -1,0 +1,92 @@
+(;GE[life and death]DI[3d]DP[11]SO[Daniel]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+;AW[ao][bo][co][cp][dp][ep][rp][fq][gq][hq][hr][mr][nr][or][pr][hs]AB[qo][ro][so][bp][op][pp][qp][bq][lq][mq][nq][dr][er][fr][gr][lr][ls]LB[rq:B][cr:A]C[If you think the left black group need another 
+stone to live play at A.
+If you think the left black group is alredy alive play 
+at B.
+]PL[B]
+(;B[rq]
+;W[cq]
+(;B[cr]
+;W[br]
+(;B[ar]
+;W[bs]
+(;B[aq]
+;W[ap]
+(;B[cs]
+;W[as]
+;B[bq]C[RIGHT])
+(;B[gs]
+;W[cs]
+;B[ds]
+;W[as]
+;B[bq]
+;W[aq]
+;B[ar]
+;W[bs]
+;B[br]C[RIGHT]))
+(;B[cs]
+;W[aq]C[Black dies.])
+(;B[gs]
+;W[aq]C[Black dies.]))
+(;B[bs]
+;W[ar]C[Black dies.])
+(;B[cs]
+;W[aq]C[Black dies.])
+(;B[gs]
+;W[aq]C[Black dies.]))
+(;B[bs]
+;W[cr]C[Black dies.])
+(;B[br]CR[br]
+;W[cr]CR[cr]
+;B[cs]CR[cs]
+;W[gs]CR[gs]C[Black has only one eye in the corner, and none at the edge.]))
+(;B[cr]
+;W[rq]C[Now the problem is for Black to kill the White 
+right group.]
+(;B[qq]
+;W[qr]
+(;B[rr]
+;W[sr]
+(;B[rs]
+;W[sq]
+(;B[sp]
+;W[qs]
+;B[ss]CR[ss]
+;W[rq]CR[rq]C[White lives.])
+(;B[qs]
+;W[ps]C[White lives.])
+(;B[ms]
+;W[ns]
+(;B[qs]
+;W[ps]C[White lives.])
+(;B[sp]
+;W[qs]
+;B[ss]CR[ss]
+;W[rq]CR[rq]C[White lives.])))
+(;B[sq]
+;W[rs]C[White lives.]))
+(;B[sp]
+;W[sr]C[White lives.])
+(;B[sq]
+;W[sr]C[White lives.])
+(;B[sr]
+;W[rr]C[White lives.])
+(;B[rs]
+;W[rr]C[White lives.])
+(;B[ms]
+;W[sr]C[White lives.]))
+(;B[sp]
+;W[qr]C[White lives.])
+(;B[sq]
+;W[rr]C[White lives.])
+(;B[sr]
+;W[rr]C[White lives.])
+(;B[rr]
+;W[qq]C[White lives.])
+(;B[rs]
+;W[rr]C[White lives.])
+(;B[qr]
+;W[qq]C[White lives.])
+(;B[qs]
+;W[qr]C[White lives.])))

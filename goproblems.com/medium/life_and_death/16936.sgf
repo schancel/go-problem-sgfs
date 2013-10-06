@@ -1,0 +1,17 @@
+(;GE[life and death]DI[2d]DP[12]SO[1234boys]CO[0]AB[cr]AB[dr]AB[dq]AB[dp]AB[do]AB[gr]AB[gq]AB[gp]AB[hr]AW[br]AW[bq]AW[cq]AW[co]AW[cm]AW[dn]AW[en]AW[fp]AW[go]AW[ho]AW[hq]AW[iq]AW[ir]LB[es:a]LB[fq:b]LB[fo:c]LB[hs:d]LB[cs:e]LB[fs:f]C[Black to live.]AP[goproblems]
+(;B[es]
+(;W[fq];B[fr];W[eq]LB[er:b]LB[cs:a]
+(;B[cs];W[fn];B[er]C[RIGHT])
+(;B[er];W[fn];B[cs]C[RIGHT]))
+(;W[cs];B[fr];W[eq];B[ep]
+(;W[fq])
+(;W[fo])))
+(;B[fq];W[ep];B[fs];W[er];B[eq];W[hs]LB[es:a]LB[cs:b]
+(;B[es];W[cs])
+(;B[cs];W[es]))
+(;B[fo];W[eo];B[ep];W[fn];B[fq];W[er];B[es];W[fs];B[cs];W[ds]C[It's a ko, but black can better.])
+(;B[hs];W[fs];B[es];W[er];B[cs];W[ds]C[It's a ko, but black can better.])
+(;B[cs];W[fq];B[fr];W[es]LB[fs:a]LB[hs:b]
+(;B[fs];W[hs])
+(;B[hs];W[fs]))
+(;B[fs];W[fq];B[fr];W[hs]))

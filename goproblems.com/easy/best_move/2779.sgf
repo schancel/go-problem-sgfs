@@ -1,0 +1,15 @@
+(;GE[best move]DI[6k]DP[36]SO[wtd]CO[8]
+AW[hb][pb][rb][dc][hc][gd][id][qd][ce][je][le][qg][kq][nq][pr]
+AB[ib][kb][ob][jc][lc][nc][md][nf][cj][qj][pl][qn][dp][pp][fq][qq]LB[ch:A][ej:D][cl:B][cq:E][hq:C]
+C[FORCE Which is the best play for white, A, B, C, D, or E?]
+(;W[cl];B[ej]LB[el:B]C[FORCE];W[el];B[gj]LB[gl:B]C[FORCE];W[gl];B[cg]LB[bp:B]C[FORCE];W[bp]LB[cl:B]
+C[RIGHT Invading at B is the best way for white to use her thickness above. After b4, white is ahead in territory. Higher kyu players try to use thickness to surround territory. Generally, the correct way is to find a weak point of your opponent, that allows you to drive him towards your thickness.])
+(;W[ch];B[ej]LB[eh:A]C[FORCE];W[eh];B[co]
+C[White should have used her thickness above to attack the black stone at c10, rather than make territory from 
+it. On the left, she is now overcongested, whilst black's stones are efficiently placed.])
+(;W[cq];B[cp]LB[bp:E]C[FORCE];W[bp];B[bo]LB[br:E]C[FORCE];W[br];B[ap]LB[aq:E]C[FORCE];W[aq]
+C[Too early for this invasion. White may only get ko, and even if she wins it, the efficiency of black's stone at c10 is enhanced.])
+(;W[ej];B[dl]LB[ej:D]
+C[White is trying to make territory in the centre by playing D, whilst black calmly strengthens his moyo.])
+(;W[hq];B[fj]LB[hq:C]
+C[White C is a good move locally, but it invites a jump from c10, creating a large moyo for black, and greatly reducing the power of her thickness above.]))

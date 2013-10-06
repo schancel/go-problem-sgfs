@@ -1,0 +1,27 @@
+(;GE[life and death]DI[2d]DP[13]SO[magrock]CO[0]AB[dr]AB[ds]AB[dq]AB[ap]AB[bp]AB[co]AB[do]AB[ep]AB[cq]AW[bq]AW[cr]AW[cp]AW[bo]AW[bn]AW[cn]AW[dn]AW[en]AW[fo]AW[fp]AW[fq]AW[fr]AP[goproblems]
+(;W[br];B[ar];W[aq];B[dp];W[ao];B[cp];W[as];B[cs])
+(;W[ar]
+(;B[bs]C[CHOICE];W[aq];B[dp];W[ao];B[cp];W[br]C[RIGHT])
+(;B[cs]C[CHOICE]
+(;W[aq];B[dp];W[ao];B[cp];W[br]C[RIGHT])
+(;W[bs];B[dp];W[aq]C[white needs to win 2 kos, not best])
+(;W[br];B[dp];W[ao])
+(;W[ao];B[dp];W[aq];B[cp];W[br]C[RIGHT])))
+(;W[aq]
+(;B[br];W[ao];B[ar]
+(;W[bs];B[cs])
+(;W[cs];B[bs]))
+(;B[dp];W[ao];B[cp];W[br];B[ar];W[as];B[cs]))
+(;W[ao];B[dp];W[aq];B[cp]
+(;W[bs];B[ar])
+(;W[br];B[ar];W[as];B[cs])
+(;W[cs];B[br]))
+(;W[bs]
+(;B[aq]
+(;W[ar]C[];B[br]C[white needs to win two kos, not the best])
+(;W[br];B[dp];W[ao];B[cs]C[W can't atari]))
+(;B[cs]
+(;W[aq];B[br];W[ao];B[ar])
+(;W[br];B[aq];W[ao];B[dp]C[W can't atari]))
+(;B[ar];W[br];B[aq];W[ao];B[dp]))
+(;W[cs];B[br];W[ar];B[bs];W[ao];B[dp];W[aq];B[as]))

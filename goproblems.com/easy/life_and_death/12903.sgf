@@ -1,0 +1,6 @@
+(;GE[life and death]DI[12k]DP[55]SO[shikamaru598]CO[0]AW[sa]AW[sd]AW[qd]AW[pd]AW[pc]AW[pb]AW[qb]AW[qa]AB[ra]AB[re]AB[qe]AB[pe]AB[oe]AB[od]AB[oc]AB[ob]AB[pa]C[B to kill]AP[goproblems]
+(;B[rc];W[rd];B[rb]C[W is deadRIGHT])
+(;B[rd];W[rc];B[sb]C[W livesCHOICE])
+(;B[sb];W[rc];B[rd]C[W livesCHOICE])
+(;B[se];W[rc];B[rd];W[sc];B[sb]C[CHOICE];W[oa];B[na];W[rb]C[W livesCHOICE])
+(;B[rb];W[rc];B[rd];W[sb]C[W livesCHOICE]))

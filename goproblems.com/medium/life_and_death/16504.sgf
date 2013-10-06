@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3k]DP[26]SO[Cei]CO[0]AB[bh]AB[cg]AB[ci]AB[bi]AW[cj]AW[bj]AB[ai]AB[ag]AB[am]AW[ch]AW[bm]AB[bn]AW[dq]AW[ep]AW[eq]AW[fq]AW[er]AB[fp]AB[gq]AB[fr]AB[eo]AB[dp]AW[bp]AW[bq]AB[bo]AB[co]AB[cp]AW[bl]AW[dg]AW[di]AW[eh]AB[bf]AW[cf]AW[df]AW[ae]AB[be]AB[ce]AB[de]AW[ee]AW[ff]AB[ed]AW[fd]AB[fc]AW[gd]AB[dd]AB[ec]AW[gb]AW[ad]AB[af]AB[fb]AB[gc]AW[hb]AW[hc]AW[ge]AW[id]AW[ac]AW[bc]AW[cc]AW[cb]AW[ca]AB[fa]AW[ga]AW[db]AB[ab]AB[aa]AB[eb]LB[ch:1]C[White has just recaptured at 1 and neither player has more ko threats on the omitted right half of the board.  Help black live.  10/20/2012 - Edited variations on the correct paths.  Thanks to BartTM for his helpful suggestion!]AW[dm]AB[dn]AW[dk]AB[go]AP[goproblems]
+(;B[dh]C[NOTTHIS])
+(;B[cq];W[dh]LB[cq:2]C[White will not respond to 2 because the top left corner is bigger.  In the actual game, black played 2 as a ko threat and lost the upper group.CHOICE])
+(;B[aj];W[al]C[CHOICE];B[dh];W[fn]
+(;B[fo];W[ch]C[If black plays at A, white will not respond because killing the top left group is bigger.CHOICE]LB[cq:A])
+(;B[ch];W[fo]C[Indeed, the top left was bigger.RIGHT]))
+(;B[al];W[aj]C[CHOICE];B[dh];W[fn]
+(;B[fo];W[ch]C[If black plays at A, white will not respond because killing the top left group is bigger.CHOICE]LB[cq:A])
+(;B[ch];W[fo]C[Indeed, the top left was bigger.RIGHT]))
+(;B[bb];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[ba];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[bd];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[cd];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[dc];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[da];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[ea];W[dh]C[Black is dead because he cannot kill the white group in the top left without filling in his own liberties.CHOICE])
+(;B[ak];W[dh]
+(;B[al];W[aj]C[Black is unable to connect and dies.CHOICE])
+(;B[aj];W[al];B[bk];W[ck]C[Black is unable to connect and dies.CHOICE]))
+(;B[bg];W[dh]C[Black fills in his only possibility for a second eye and dies.  The white group in the top left cannot be killed now.CHOICE]))

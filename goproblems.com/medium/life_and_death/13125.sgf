@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1k]DP[20]SO[GeGe]CO[0]AB[aq]AB[br]AB[cr]AB[dq]AB[eq]AB[ep]AB[fr]AB[es]AB[bo]AB[co]AB[cm]AB[em]AB[gn]AB[hn]AB[hp]AB[gp]AB[gq]AW[ap]AW[bp]AW[cp]AW[cq]AW[dp]AW[do]AW[eo]AW[fo]AW[fp]AW[fq]AW[gr]AW[gs]AW[hq]AW[ir]AW[jq]AW[ip]C[white to live]AP[goproblems]
+(;W[fs];B[er]
+(;W[ds];B[dr]
+(;W[ar]
+(;B[bq];W[bs]C[Ko is the best white can get. Well done!RIGHT])
+(;B[as];W[bq];B[cs];W[ar]C[RIGHT]))
+(;W[cs];B[bs]C[Black is alive, so white is dead. You can do better!]))
+(;W[ar];B[ds]
+(;W[bs];B[bq]C[Black is alive, so white is dead. You can do better!])
+(;W[bq];B[bs]C[Black is alive, so white is dead. You can do better!]))
+(;W[cs];B[bs]
+(;W[bq];B[ar]C[Black is alive, so white is dead. You can do better!])
+(;W[ar];B[bq]C[Black is alive, so white is dead. You can do better!])
+(;W[ds];B[dr]C[Black is alive, so white is dead. You can do better!]))
+(;W[bq];B[ar]))
+(;W[ar];B[bq];W[fs]
+(;B[er];W[ds];B[dr])
+(;B[dr];W[er]C[RIGHT]))
+(;W[cs];B[bs];W[fs];B[er])
+(;W[ds];B[er];W[fs]))

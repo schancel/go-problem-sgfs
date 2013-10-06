@@ -1,0 +1,11 @@
+(;GE[life and death]DI[12k]DP[58]SO[maba]CO[6]AB[gb]AB[hb]AB[hc]AB[ic]AB[id]AB[jb]AB[kb]AW[fb]AW[gc]AW[fd]AW[hd]AW[ie]AB[lc]AB[ld]AB[kd]AB[ke]AB[kf]AW[lb]AW[mb]AW[mc]AW[md]AW[le]AW[lf]AW[kg]AW[jg]AW[kc]AB[ha]AW[ib]AW[ga]AW[hf]AW[ge]C[If you think black is alive, play at T. Else kill black.]LB[ff:T]AP[goproblems]
+(;W[ff]C[];B[jd])
+(;W[jd]
+(;B[jc];W[je]C[RIGHT])
+(;B[je];W[jf]C[RIGHT])
+(;B[ia];W[ka]C[RIGHT])
+(;B[ka];W[ia]C[RIGHT]))
+(;W[ka];B[jd])
+(;W[ia];B[jd])
+(;W[jf];B[jd])
+(;W[je];B[jd]))

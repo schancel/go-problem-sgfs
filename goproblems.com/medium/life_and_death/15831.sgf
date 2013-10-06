@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3d]DP[9]SO[MrMoto]CO[0]AW[ba]AB[bb]AB[cb]AB[db]AB[eb]AB[bd]AB[cd]AW[bf]AW[af]AW[ce]AW[be]AW[dd]AW[fb]AW[fa]AW[ea]AW[ec]AW[ed]AW[fe]AW[df]AP[goproblems]
+(;W[da];B[ca]
+(;W[ad];B[ac];W[cc];B[bc]TR[aa]TR[dc])
+(;W[cc];B[bc]TR[dc]TR[aa])
+(;W[bc];B[ac])
+(;W[ac];B[ad];W[ab];B[bc])
+(;W[aa];B[ab];W[ad];B[dc])
+(;W[ab];B[ac]))
+(;W[ab];B[ac])
+(;W[aa];B[ac])
+(;W[bc];B[ac])
+(;W[ac];B[ad])
+(;W[dc];B[cc];W[da];B[ca]
+(;W[ac];B[ad];W[ab];B[aa]C[Ko fight for bent-four, Black takes first. You can do better.])
+(;W[ab];B[ac])
+(;W[ad];B[ac])
+(;W[aa];B[ac]))
+(;W[ad];B[ac];W[cc];B[bc];W[dc];B[aa];W[ab]TR[ca]C[Ko, White takes first. Black cannot play C19 because of shortage of liberties. But you can do better!])
+(;W[cc]
+(;B[dc]
+(;W[da];B[ca]
+(;W[ad];B[bc];W[ab];B[aa]C[Close!])
+(;W[ab];B[bc];W[ad])
+(;W[ac];B[bc]))
+(;W[ac];B[bc])
+(;W[ad];B[bc]
+(;W[da];B[ca])
+(;W[ab];B[ac]
+(;W[da]C[Very nice!RIGHT])
+(;W[ca]C[RIGHT])))
+(;W[ab];B[bc]
+(;W[ad])
+(;W[da];B[ca])))))

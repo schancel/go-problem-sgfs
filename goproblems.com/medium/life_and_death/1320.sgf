@@ -1,0 +1,76 @@
+(
+;GE[life and death]DI[3d]DP[11]SO[gecko]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.29]
+AW[db][eb][ec][ed][ee][fe][de][ff][eg][dg][df][cg]
+AB[gb][gc][gd][ge][gf][gg][fg][eh][dh][ch][ci][bg][cf][ce][dd][dc][cb]
+C[black is already salivating. teach him some manners.]
+GN[temp]
+(
+;
+W[bf]
+;
+B[be]
+;
+W[cc]
+;
+B[cd]
+;
+W[bc]
+;
+B[bb]
+;
+W[ab]
+;
+B[bd]
+;
+W[ac]
+LB[bf:a]
+C[RIGHT how keen of you to play a!]
+)
+(
+;
+W[cc]
+;
+B[cd]
+(
+;
+W[bc]
+;
+B[bb]
+;
+W[bf]
+;
+B[bd]
+;
+W[bh]
+;
+B[bi]
+C[close only counts in horseshoes.]
+)
+(
+;
+W[bb]
+;
+B[bc]
+;
+W[ca]
+;
+B[cc]
+C[dead end]
+)
+)
+(
+;
+W[cd]
+;
+B[cc]
+;
+W[bd]
+;
+B[be]
+C[white can do nothing]
+)
+)

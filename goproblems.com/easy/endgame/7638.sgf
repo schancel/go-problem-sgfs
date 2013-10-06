@@ -1,0 +1,48 @@
+(;GE[endgame]DI[4k]DP[31]SO[LCZLAPINSKI]CO[5]AB[os]AB[ps]AB[pr]AB[pq]AB[qp]AB[rp]AB[rr]AB[po]AB[pn]AB[on]AB[nn]AB[no]AB[np]AB[ln]AW[ns]AW[or]AW[mr]AW[mp]AW[lp]AW[jq]AW[kn]AW[km]AW[ml]AW[om]AW[pm]AW[qm]AW[qo]AW[ro]AW[oo]AW[op]AW[pp]AP[goproblems]
+(;W[oq];B[mq]
+(;W[nr];B[lr]
+(;W[lq];B[nq]C[You failed to save the P2 stone.];W[kr];B[ls];W[ks];B[ms])
+(;W[nq];B[ms]C[Self-atari. You failed to save the P2 stone.])
+(;W[ls];B[nq]C[You failed to save the P2 stone.])
+(;W[kq];B[lq]C[You failed to save the P2 stone.])
+(;W[kr];B[nq]C[You failed to save the P2 stone.]))
+(;W[lq];B[nq];W[nr];B[lr]C[You failed to save the N2 group.];W[kr];B[ls];W[ks];B[ms])
+(;W[lr];B[nr]
+(;W[nq];B[nr]C[Snapback :(])
+(;W[ms]LB[sm:T];B[sm]C[Black can tenuki. You failed to save the P2 stone.])
+(;W[lq];B[nq]C[You failed to save the P2 stone.]))
+(;W[nq]C[wO3 is self-atari.];B[nr])
+(;W[ms];B[nr]
+(;W[nq];B[nr]C[Snapback :(])
+(;W[lq];B[nq]C[You failed to save the P2 stone.]))
+(;W[qq];B[rq])
+(;W[mn];B[nr]
+(;W[nq];B[nr]C[Snapback :(])
+(;W[ms];B[lr])
+(;W[lq];B[nq])))
+(;W[nr]
+(;B[mq]
+(;W[lr]C[RIGHT];B[oq]C[RIGHT])
+(;W[oq];B[lr]C[You failed to save the P2 stone.])
+(;W[lq];B[nq]
+(;W[oq];B[lr])
+(;W[lr]C[Per BartTM, white O2 is the best first move.RIGHT];B[oq]C[RIGHT]))
+(;W[nq]C[];B[oq]LB[jl:T]
+(;W[lq]C[RIGHT])
+(;W[lr]C[RIGHT])
+(;W[sp];B[sq];W[so]C[];B[qn];W[rn];B[rm])
+(;W[jl]C[Per BartTM, tenuki is best.RIGHT])))
+(;B[oq]C[Per BartTM: wO2 is best.RIGHT]))
+(;W[rq];B[sp];W[qq]
+(;B[qr]C[CHOICE])
+(;B[sq]C[CHOICE]))
+(;W[nq]C[WO2 is slightly better if played correctly because it doesn't leave the ko threat of bO2-bN1. WO2 is sente. If you connect at wO2 after wO3, it isn't sente.RIGHT];B[oq]C[RIGHT])
+(;W[qq];B[rq])
+(;W[sp];B[sq];W[so];B[qn];W[rn];B[rm]TR[qo]TR[ro]TR[rn]TR[so]TR[sp]C[You lose the R5 group.])
+(;W[mm];B[so];W[sn];B[sp]
+(;W[qn];B[nq];W[nr];B[mq]
+(;W[oq];B[lr])
+(;W[lq]C[Not bad but you lost points on the right. WO2 is best first move since it should black's best local move in the starting position after wO2 is to capture the white P4 group.])
+(;W[lr]C[Not bad but you lost points on the right. WO2 is best first move.]))
+(;W[rn];B[qn];W[rm];B[nq];W[nr];B[oq]C[You lost points on the right.]))
+(;W[mq];B[oq]C[WN3 isn't as good as WO2 because after bP3, black has a potential bO2 2 point gote move later. If you connect, you give black sente.]))

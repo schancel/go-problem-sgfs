@@ -1,0 +1,38 @@
+(;GE[elementary]DI[8k]DP[45]SO[santa c]CO[7]AW[bs]AW[cr]AW[er]AW[dp]AW[dq]AW[do]AB[cq]AB[bq]AB[br]AB[cp]AB[co]AW[fm]AB[hl]AW[fl]AB[fk]AB[io]AB[ip]AB[iq]AB[hq]AB[hr]AB[fr]AB[fq]AB[gs]AB[gk]C[What can black do?FORCE]AW[fn]AW[dn]AB[dm]AB[cn]AB[cl]AB[fp]AW[gp]AW[fo]AW[gn]AW[hn]AW[ho]AB[hp]AB[gq]AB[in]AW[hm]AW[gl]AB[im]AB[hk]AW[en]AB[em]AB[ek]AW[el]AB[dl]AP[goproblems]
+(;B[ep]
+(;W[eq]
+(;B[ds];W[es]
+(;B[cs];W[dr];B[cs]C[Well done! ;)RIGHT])
+(;B[dr];W[cs]C[White's alive!])
+(;B[fs];W[cs]C[White's alive!]))
+(;B[es];W[ds];B[fs]C[Well done! ;)RIGHT])
+(;B[cs];W[ds]
+(;B[es];W[fs]MA[es]C[Too bad..])
+(;B[fs];W[es]C[White's alive!]))
+(;B[fs];W[es]
+(;B[ds];W[cs]C[White's alive!])
+(;B[cs];W[ds]C[White's alive!])
+(;B[dr];W[ds]C[White's alive!]))
+(;B[dr];W[ds]
+(;B[es];W[fs]C[Too bad..]MA[es])
+(;B[fs];W[es]C[White's alive!]))
+(;B[go];W[es]
+(;B[cs];W[ds]C[White's alive!])
+(;B[ds];W[cs]C[White's alive!])
+(;B[dr];W[cs]C[White's alive!])))
+(;W[es]
+(;B[eq]TR[dr]TR[cs]C[RIGHT])
+(;B[dr]TR[eq]TR[ds]C[RIGHT])
+(;B[cs]TR[ds]TR[eq]C[RIGHT]))
+(;W[ds]
+(;B[eq]C[RIGHT])
+(;B[es]TR[fs]TR[eq]C[RIGHT])))
+(;B[es];W[ep]C[White's alive!])
+(;B[eq];W[ep]C[White's alive!])
+(;B[fs];W[ep]C[White's alive!])
+(;B[ds];W[ep]C[White's alive!])
+(;B[dr];W[ep]C[White's alive!])
+(;B[go];W[ep]C[White's alive!])
+(;B[cs];W[ep]C[White's alive!])
+(;B[eo];W[ep]C[White's alive!])
+(;B[as];W[ep]C[White's alive!]))

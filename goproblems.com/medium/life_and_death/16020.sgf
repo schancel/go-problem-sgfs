@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[19]SO[passero]CO[0]AW[rb]AW[rc]AW[rd]AW[qd]AW[pc]AW[pb]AB[oa]AB[ob]AB[oc]AB[od]AB[pd]AB[qe]AB[re]AB[sd]AB[rg]C[Black to kill]AP[goproblems]
+(;B[sb];W[sc]
+(;B[qa]
+(;W[qb]
+(;B[ra]MA[pa]C[Correct. White can't play Q19 by Damezumari.RIGHT])
+(;B[pa];W[ra])
+(;B[se];W[ra]))
+(;W[ra]
+(;B[qb];W[qc];B[pa]C[RIGHT])
+(;B[pa];W[qb]))
+(;W[pa];B[qb]C[RIGHT]))
+(;B[pa];W[qa])
+(;B[ra];W[qa]
+(;B[qb];W[sa])
+(;B[pa];W[sa])))
+(;B[qa];W[qb]
+(;B[sc];W[pa])
+(;B[sb];W[ra]
+(;B[pa];W[sc])
+(;B[sc];W[pa]))
+(;B[ra];W[pa];B[sb];W[sa];B[ra];W[sc])
+(;B[pa];W[ra];B[sc];W[sb]))
+(;B[pa];W[qa])
+(;B[sc];W[sb];B[qa];W[qb]
+(;B[pa];W[ra])
+(;B[ra];W[pa]))
+(;B[ra];W[qa]
+(;B[qb];W[sa])
+(;B[pa];W[sa])
+(;B[sb];W[sc])
+(;B[sc];W[sb]))
+(;B[qb];W[qa]
+(;B[pa];W[qc])
+(;B[sc];W[sb])
+(;B[sb];W[sc]
+(;B[pa];W[qc])
+(;B[ra];W[sa]))))

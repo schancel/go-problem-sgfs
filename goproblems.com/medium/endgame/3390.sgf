@@ -1,0 +1,56 @@
+(;GE[endgame]DI[4k]DP[28]SO[wtd]CO[8]SZ[9]AW[fb][fc][ed][fd][hd][ge][gf][if][hg][dh][gh][ih][bi][ci][di][fi][gi]
+AB[dc][ec][cd][ce][de][ee][fe][bf][df][ff][cg][dg][fg][ah][bh][eh][fh][ai]LB[ca:L][da:S][ei:C]
+C[Which is the biggest move; large monkey jump 'L', small mj 'S', or capture 'C'? FORCE]
+
+(;W[da];B[cb]
+(;W[ei];B[eb];W[ea];B[ca]LB[da:S][ei:C][cb:F]
+C[RIGHT You won by 1. Due to it's big followup move at 'F', the small monkey jump into this corner formation at 'S', is 
+equal in value to a gote move worth 14 points. When black has an alternative reply to 'F' of 9 to 15 points, it is 
+bigger than the large monkey jump at 'C9'. If 'C' is worth 8 points or less, or equals 16 points, first moves 'C9' and 'S' allow the same best result. If 'C' is worth 17 points or more, 'C9' is 1 point bigger than 'S'.])
+
+(;W[ca];B[ba]
+(;W[eb];B[db]
+(;W[ei];B[ea];W[fa];B[da]LB[ei:C]
+C[You lost by 1. Your 1st move was correct, but the 2nd should have been to connect at 'C', rather than play 'C9'.])
+
+(;W[ea];B[ei];W[bb];B[bc];W[aa];B[dd]C[Please play 'B9'.];W[ba];B[ac]LB[ei:C]
+C[Jigo. This is the 2nd best result. Your 1st move was correct, but the 2nd should have been to connect at 'C', rather than play 'C9'.]))
+
+(;W[ei];B[ea];W[eb];B[db];W[fa];B[da]LB[ei:C]
+C[You lost by 1. Your 1st move was correct, but the 2nd should have been to connect at 'C', rather than play 'C9'.])))
+
+
+(;W[ca];B[cb]
+(;W[ea];B[ei];W[bb];B[bc];W[db];B[cc]
+(;W[aa];B[eb];W[da];B[ac]LB[ca:L][da:S]
+C[You lost by 1. Jigo was possible from 'L', whilst 1st move 'S' allows a 1 point win.])
+
+(;W[eb];B[ab];W[ba]LB[ca:L][da:S][ei:C]
+C[Jigo, the best result from the large monkey jump. 'L' is inferior to 'S', when the size of the gote move at 'C' is 
+worth 9 to 15 points. If 'C' is worth 8 points or less, or equals 16 points, first moves 'L' and 'S' allow 
+the same best result. If 'C' is worth 17 points or more, 'L' is 1 point bigger than 'S'.])
+
+(;W[ba];B[eb];W[da];B[ab]LB[ca:L][da:S]
+C[You lost by 1. Jigo was possible from 'L', whilst 1st move 'S' allows a 1 point win.]))
+
+(;W[da];B[ba]
+(;W[eb];B[db]
+(;W[ei];B[ea];W[fa];B[da]LB[ca:L][da:S]
+C[You lost by 1. Jigo was possible from 'L', whilst 1st move 'S' allows a 1 point win.])
+
+(;W[ea];B[ei];W[bb];B[bc];W[aa];B[dd]C[Please play 'B9'.];W[ba];B[ac]LB[ca:L][da:S][ei:C]
+C[Jigo, the best result from the large monkey jump. 'L' is inferior to 'S', when the size of the gote move at 'C' is 
+worth 9 to 15 points. If 'C' is worth 8 points or less, or equals 16 points, first moves 'L' and 'S' allow 
+the same best result. If 'C' is worth 17 points or more, 'L' is 1 point bigger than 'S'.]))
+
+(;W[ei];B[ea];W[eb];B[db];W[fa];B[da]LB[ca:L][da:S]
+C[You lost by 1. Jigo was possible from 'L', whilst 1st move 'S' allows a 1 point win.]))
+
+(;W[ei];B[da];W[ea];B[db];W[eb];B[dd]LB[ca:L][da:S][ei:C]
+C[Jigo, the best result from the large monkey jump. 'L' is inferior to 'S', when the size of the gote move at 'C' is 
+worth 9 to 15 points. If 'C' is worth 8 points or less, or equals 16 points, first moves 'L' and 'S' allow 
+the same best result. If 'C' is worth 17 points or more, 'L' is 1 point bigger than 'S'.]))
+
+
+(;W[ei];B[eb];W[ea];B[da];W[fa];B[dd]LB[ei:C][da:S]
+C[You lost by 2. If 'C' is worth 13 points or less, it is smaller than 'S'. Here, a 1st move at 'S' would have allowed a win by 1.]))

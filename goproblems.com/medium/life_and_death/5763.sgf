@@ -1,0 +1,20 @@
+(;GE[life and death]DI[2k]DP[22]SO[maba]CO[4]AW[db]AW[dc]AW[dd]AW[ec]AB[eb]AB[fa]AB[fc]AB[fd]AB[ed]AW[ce]AW[cf]AW[cg]AW[dg]AB[dh]AB[di]AB[ei]AB[dj]AB[dk]AB[dl]AB[dm]AB[cm]AW[cl]AW[bl]AW[al]AW[bm]AW[an]AW[ao]AW[bo]AW[co]AW[cn]AW[do]AW[cp]AW[ap]AB[bp]AB[aq]AB[ar]AB[br]AB[cq]AB[dq]AB[dp]AB[dr]AB[eq]AB[ep]AB[eo]AB[en]AB[dn]AB[em]AB[fm]AB[fl]AW[ej]AW[fj]AW[el]AW[ek]AB[fk]AW[fi]AW[fh]AW[eh]AB[eg]AB[fg]AB[ef]AB[df]AB[de]AB[ee]AW[ff]AB[gf]AB[ge]AB[he]AB[gh]AB[hg]AB[if]AB[je]AB[jc]AB[mc]AB[md]AB[me]AW[nc]AB[lf]AB[mg]AB[lh]AW[lg]AW[kg]AW[jg]AW[ig]AW[jf]AW[ii]AW[hj]AW[gj]AW[gk]AW[gl]AW[hl]AW[il]AW[gm]AW[gn]AW[fn]AB[fo]AW[go]AW[hn]AW[in]AW[io]AW[hp]AW[hq]AW[ir]AB[iq]AB[ip]AB[jp]AB[jq]AB[jr]AB[kq]AB[lq]AB[lp]AW[jo]AW[ko]AW[kp]AW[lo]AW[kn]AW[lm]AW[mn]AW[nn]AW[pn]AW[po]AW[qp]AW[qq]AW[rr]AW[qs]AB[qr]AB[pr]AB[or]AB[pq]AB[pp]AB[op]AB[oo]AB[no]AB[mo]AW[qm]AW[ql]AW[pl]AW[pk]AW[ol]AW[nl]AB[ml]AB[mm]AB[mk]AB[lk]AB[kk]AB[kl]AB[km]AB[jm]AB[jl]AB[jn]AB[im]AB[hm]AB[ik]AB[jj]AW[mh]AW[nh]AW[oh]AW[og]AW[of]AW[pf]AB[mi]AB[mj]AB[ni]AB[oi]AB[nk]AB[ok]AB[pj]AB[pi]AB[ph]AB[pg]AB[qg]AB[qf]AB[rf]AW[qd]AW[qe]AW[re]AW[nb]AW[rh]AW[qi]AW[rj]AB[qj]AB[qk]AW[rk]AB[rl]AW[ro]AW[nq]AW[cr]AW[er]TR[jj]TR[ik]TR[lh]TR[hm]TR[im]TR[jm]TR[jl]TR[km]TR[jn]TR[kk]TR[kl]TR[lk]TR[mj]TR[mi]TR[oi]TR[ni]TR[pi]TR[pj]TR[qj]TR[qk]TR[ph]TR[pg]TR[qg]TR[qf]TR[rf]TR[mk]TR[nk]TR[ok]TR[ml]TR[mm]C[Can white kill the marked group? If you think she can, then do it. Else play at T (A1).]LB[as:T]AP[goproblems]
+(;W[as]C[Black is alive.RIGHT])
+(;W[kh];B[li];W[ki];B[kj])
+(;W[ki];B[kj]
+(;W[ij];B[li])
+(;W[li];B[ij]))
+(;W[li];B[ki];W[kh]
+(;B[ji]
+(;W[lj];B[ij];W[kj];B[lh])
+(;W[ij];B[lj];W[hk];B[jk]))
+(;B[ij]
+(;W[ji];B[kj])
+(;W[kj];B[lj])))
+(;W[ji];B[ki]
+(;W[li];B[kh]
+(;W[jh];B[kj])
+(;W[kj];B[lj]))
+(;W[kh];B[li]))
+(;W[kj];B[ki];W[kh];B[li])
+(;W[ij];B[ki];W[li];B[kh]))

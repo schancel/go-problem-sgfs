@@ -1,0 +1,113 @@
+(;GE[life and death]DI[4k]DP[29]SO[hababa]CO[9]AW[rj]AW[pl]AW[ql]AW[rl]AW[om]AW[pm]AW[nn]AW[qn]AW[qo]AW[np]AW[nq]AW[or]AW[pr]AW[rr]AW[ps]AW[qs]AB[qm]AB[rm]AB[pn]AB[rn]AB[po]AB[pp]AB[rp]AB[qq]AB[qr]C[Black to live]
+(;B[sm];W[so]
+(;B[sp];W[ro]
+(;B[qp];W[sl];B[sn]C[ Try to find the other variation (play something else than T4)RIGHT])
+(;B[sr];W[sl]
+(;B[rs]TR[qm]TR[rm]TR[sm]TR[rn]C[ko + lose triangled stones];W[ss])
+(;B[qp];W[sn]LB[rs:A]C[you lost a local ko threat. ko starts with A.]))
+(;B[rs];W[sl]
+(;B[sr]TR[qm]TR[rm]TR[sm]TR[rn]C[ko + lose triangled stones];W[ss])
+(;B[qp];W[sn]LB[sr:A]C[you lost a local ko threat. ko starts with A.])))
+(;B[ro];W[sp]
+(;B[rq];W[sq]
+(;B[sr];W[ss];B[sn];W[rs];B[sr];W[sq];B[sp]C[RIGHT])
+(;B[sn];W[sr];B[rs];W[ss];B[rs]C[RIGHT])
+(;B[rs];W[ss];B[sn];W[rs];B[sr];W[sq];B[sp]C[RIGHT]))
+(;B[sq];W[rq]))
+(;B[rq];W[ro]TR[qm]TR[rm]TR[sm]TR[rn]C[triangled stones die. 2 vs. 3 liberties])
+(;B[sq];W[ro]TR[qm]TR[rm]TR[sm]TR[rn]C[triangled stones die. 2 vs. 3 liberties])
+(;B[qp];W[sp]
+(;B[ro];W[sq])
+(;B[sq];W[rq];B[ro];W[sr];B[sn];W[rs];B[sq];W[sp])
+(;B[rq];W[sq])
+(;B[sn];W[sq])
+(;B[sr];W[sq])))
+(;B[so];W[sm]
+(;B[sq];W[rq])
+(;B[rq];W[sq])
+(;B[sr];W[sq]
+(;B[rq];W[ss])
+(;B[sp]C[Death in gote]))
+(;B[rs];W[ss]
+(;B[rq];W[sq])
+(;B[sq];W[rq]))
+(;B[ss];W[rs]
+(;B[sq];W[rq])
+(;B[rq];W[sq])))
+(;B[rq];W[sm]
+(;B[so];W[sq])
+(;B[sn];W[ro])
+(;B[ro];W[sq]
+(;B[sp];W[sn])
+(;B[ss];W[rs]
+(;B[sp];W[sn])
+(;B[sn];W[sp]))
+(;B[sn];W[sp];B[so];W[rs];B[sr];W[sq]))
+(;B[sq];W[sn])
+(;B[sr];W[rs]
+(;B[sn];W[ro])
+(;B[so];W[sq])
+(;B[ro];W[sn];B[so];W[sq];B[sl];W[sm]C[two false eyes])
+(;B[sq];W[ro]))
+(;B[rs];W[ss]))
+(;B[ro];W[sm]
+(;B[rq];W[sq]
+(;B[sp];W[sn])
+(;B[ss];W[rs]
+(;B[sp];W[sn])
+(;B[sn];W[sp]))
+(;B[sn];W[sp];B[so];W[rs];B[sr];W[sq]))
+(;B[sq];W[rq]
+(;B[sr];W[rs])
+(;B[sp];W[sn])
+(;B[sn];W[sp]))
+(;B[sn];W[sp]
+(;B[rq];W[sq]
+(;B[so];W[rs];B[sr];W[sq])
+(;B[sr];W[ss];B[so];W[rs];B[sr];W[sq])
+(;B[rs];W[ss];B[so];W[rs];B[sr];W[sq]))
+(;B[sq];W[rq])))
+(;B[sq];W[sm]
+(;B[ro];W[rq]
+(;B[sr];W[rs]
+(;B[sp];W[sn])
+(;B[sn];W[sp]))
+(;B[sp];W[sn])
+(;B[sn];W[sp]))
+(;B[sr];W[rs]
+(;B[so];W[rq])
+(;B[rq];W[ro])
+(;B[ro];W[rq]))
+(;B[so];W[rq]))
+(;B[sn];W[ro]
+(;B[rq]C[death in gote])
+(;B[sp]C[Death in gote])
+(;B[sq]C[death in gote])
+(;B[qp]C[death in gote])
+(;B[so]C[death in gote]))
+(;B[sp];W[sm]
+(;B[sn];W[ro])
+(;B[ro];W[sn]))
+(;B[qp];W[sm]
+(;B[sq]C[death in gote])
+(;B[ro]C[death in gote])
+(;B[so]C[death in gote])
+(;B[rq]C[death in gote])
+(;B[sp]C[death in gote])
+(;B[sn]C[death in gote]))
+(;B[pq];W[sm]
+(;B[ro]C[death in gote])
+(;B[so]C[death in gote])
+(;B[sq]C[death in gote])
+(;B[rq]C[death in gote])
+(;B[sp]C[death in gote]))
+(;B[sr];W[sm]
+(;B[sn];W[ro])
+(;B[so];W[sq]
+(;B[sp];W[ss];B[rq];W[rs])
+(;B[rq];W[ss];B[sp];W[rs]))
+(;B[rq];W[rs]
+(;B[so];W[sq])
+(;B[ro]
+(;W[sn];B[so];W[sq];B[sl];W[sm])
+(;W[sq];B[sp];W[sn])))))

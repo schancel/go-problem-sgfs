@@ -1,0 +1,68 @@
+(;GE[best move]DI[4d]DP[7]SO[kochi]CO[9]AB[ce]AW[cg]AW[dg]AW[ab]AW[bc]AW[cb]AW[ba]AB[bd]AB[cd]AB[dc]AB[db]AB[cj]AB[di]AB[eh]AB[fg]AB[gf]AW[eg]AW[ff]AW[fe]AW[fd]AB[ec]AB[fc]AB[gc]AB[hb]AW[gd]AW[bg]AW[bi]AW[he]AW[ie]AW[id]AW[ic]AW[hc]AB[hf]AB[if]AB[je]AB[jc]AB[ib]AW[jb]AW[kb]AW[lb]AW[mc]AB[kf]AB[bj]AW[ee]AB[fh]AB[ej]AB[kc]AB[ad]AB[ac]AW[cc]AB[da]AB[ed]AB[fb]AP[goproblems]
+(;B[ca];W[de]
+(;B[ge];W[ch]
+(;B[ah];W[ai];B[ag];W[bf];B[af]C[that's right!  W is dead as it stands below, so you should just kill the corner.RIGHT])
+(;B[cf];W[df];B[ah];W[ai]
+(;B[af];W[ag])
+(;B[ag];W[bf]
+(;B[ae];W[af])
+(;B[af];W[ae];B[be];W[bh]
+(;B[dd];W[ae])
+(;B[bb];W[ae])
+(;B[ae];W[dd]))))
+(;B[ag];W[ah]
+(;B[aj];W[ai]
+(;B[af];W[ci])
+(;B[ci];W[af]))
+(;B[ci];W[af]))
+(;B[ai];W[ah]
+(;B[aj];W[ci])
+(;B[ci];W[aj]))
+(;B[ci];W[ah])
+(;B[df];W[cf]
+(;B[ah];W[ai];B[ag];W[af])
+(;B[ai];W[ah]
+(;B[aj];W[ci])
+(;B[ci];W[aj]))))
+(;B[cf];W[df]
+(;B[ge];W[ch];B[ah];W[ai];B[ag];W[bf];B[af];W[ae];B[be];W[bh]C[You should not have exchanged c14 for d14.];B[bb];W[ae])
+(;B[bh];W[ge])
+(;B[ch];W[ge])
+(;B[ag];W[ge])
+(;B[bf];W[ge])
+(;B[af];W[ge]))
+(;B[df];W[cf]
+(;B[ch];W[ge])
+(;B[bh];W[ge])
+(;B[ah];W[ge])
+(;B[ge];W[ch]
+(;B[ah];W[ai];B[ag];W[af])
+(;B[ai];W[ah]
+(;B[ci];W[aj];B[ak];W[ai];B[af];W[ag])
+(;B[af];W[aj]
+(;B[ag];W[ci])
+(;B[ci];W[ag])))
+(;B[ag];W[ah]
+(;B[ci];W[af])
+(;B[af];W[ci]))
+(;B[ci];W[ah]))
+(;B[ci];W[ge]))
+(;B[ch];W[ge])
+(;B[bh];W[ge])
+(;B[ah];W[ge])
+(;B[ci];W[ge])
+(;B[ai];W[ge])
+(;B[ag];W[ge])
+(;B[bf];W[ge])
+(;B[dd];W[ge])
+(;B[bb];W[ge]))
+(;B[df];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[de];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[ge];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[ah];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[bh];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[ch];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[dh];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[ci];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[ef];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.])
+(;B[bf];W[ca]C[You could have killed all of W's stones.  The outside W stones are already dead.]))

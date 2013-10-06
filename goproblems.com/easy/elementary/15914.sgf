@@ -1,0 +1,21 @@
+(;GE[elementary]DI[8k]DP[48]SO[Asplenium]CO[0]AB[ah]AB[ai]AB[aj]AB[bj]AB[cj]AB[dj]AB[di]AB[ck]AB[dl]AB[el]AB[dm]AB[fn]AB[gn]AB[fo]AB[eo]AB[do]AB[co]AB[bo]AW[bp]AW[cp]AW[dq]AW[ep]AW[fp]AW[go]AW[ho]AW[fm]AW[em]AW[fl]AW[ek]AW[dk]AW[ej]AW[ei]AW[bh]AW[bi]AW[ci]AW[ag]AW[cg]AW[cf]AB[df]AW[de]AW[ee]AW[fe]AW[gf]AB[ge]AB[fd]AB[ed]AB[dd]AB[cd]AB[ce]AW[fg]C[Responding with 2 was a mistake by black. Minimize the damage by white 3.]LB[ag:1]LB[aj:2]AW[gq]AW[gk]AW[hf]AB[he]AB[gc]AW[dh]AW[cl]LB[cl:3]AB[hm]AP[goproblems]
+(;B[bl];W[cm]
+(;B[bm];W[dn]C[Right, this way white gets only 6 points.RIGHT])
+(;B[dn];W[bm]C[Wrong, the nine black stones are dead.])
+(;B[cn];W[bm]C[]
+(;B[am];W[dn]
+(;B[an];W[ak]C[Wrong, white can capture at least 8 stones.])
+(;B[ak];W[an]
+(;B[bn];W[al]C[Wrong, now black needs big ko threads.])
+(;B[ao];W[bn]C[Wrong. The 11 black stones are dead.]))
+(;B[en];W[ak]C[Wrong, black will lose at least 8 stones.])
+(;B[bn];W[ak]C[Wrong, white can capture at least 8 stones.]))
+(;B[al];W[am]C[Wrong the 10 black stones are dead.]))
+(;B[bn];W[bm]
+(;B[am];W[dn]
+(;B[ak]C[Correc. white gets only six points. But black is reduced to much. you can do better.RIGHT])
+(;B[bk];W[al]C[Wrong. The Snapback captures at least 10 stones.])
+(;B[al]C[Correct. White only gets six points. But black is reduced. You can do better.RIGHT])
+(;B[an];W[ak]C[Wrong, white captures at least 8 stones.]))
+(;B[dn];W[al]C[Wrong. Balck will loste 9 stones.])))
+(;B[cm];W[bl]C[Wrong, the 8 black stones are dead.]))

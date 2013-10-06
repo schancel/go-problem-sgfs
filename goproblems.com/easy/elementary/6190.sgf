@@ -1,0 +1,6 @@
+(;GE[elementary]DI[15k]DP[60]SO[maba]CO[7]AW[dd]AW[jc]AW[qd]AB[bo]AB[cn]AB[cp]AB[do]AB[dp]AB[dq]AW[cm]AW[dn]AW[en]AW[eo]AB[gm]AB[go]AB[gn]AB[gp]AB[gq]AW[hp]AW[ip]AW[io]AW[hn]AW[jn]AW[jm]AW[jl]AB[kl]AB[km]AB[kn]AB[jo]AB[jp]AW[jq]AW[jr]AB[kq]AB[lp]AB[lr]AW[mn]AW[on]AW[no]AW[np]AW[nr]AB[pr]AB[oo]AB[po]AB[qo]AW[ko]LB[ko:1]C[White plays 1. How should black answer?FORCE]AP[goproblems]
+(;B[kp];W[lo]C[Black is cut into two weak groups. The lower one may even be dead.])
+(;B[ln];W[lo]C[black is cut.])
+(;B[lo]
+(;W[kp];B[ln]C[Black stays connected.RIGHT])
+(;W[ln];B[kp])))

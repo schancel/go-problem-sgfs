@@ -1,0 +1,42 @@
+(;GE[tesuji]DI[3k]DP[24]SO[bedhead]CO[0]AB[bp]AB[cp]AB[cq]AB[cr]AB[dq]AB[eq]AB[fp]AB[fo]AB[go]AB[hp]AB[hq]AB[jp]AW[gq]AW[fq]AW[gp]AW[er]AW[dr]AW[ho]AW[hn]AW[ep]AW[dp]AW[co]AW[bo]AW[en]C[Black's corner looks to be in trouble! What's the best black can hope to do? (I found this neat little problem on http://senseis.xmp.net/?TrainLikeAPro while looking at go books)]AP[goproblems]
+(;B[ds]
+(;W[fn]
+(;B[gr];W[fr]
+(;B[fs]C[:) thats one wayRIGHT])
+(;B[es]C[RIGHT]))
+(;B[fr];W[gr];B[es];W[gn];B[hr];W[eo]C[Black can do better than that XD])
+(;B[es];W[gn];B[gr];W[eo]C[Black can do better than that XD]))
+(;W[fr]
+(;B[fs];W[gs];B[hr];W[es];B[cs]C[:) That's one wayRIGHT])
+(;B[es];W[fs];B[cs];W[hr]
+(;B[ir];W[hs];B[is]C[:) thats one wayRIGHT])
+(;B[gs];W[gr];B[ir];W[hs];B[is]C[:) thats one wayRIGHT]))
+(;B[ar];W[fn];B[bs];W[gn]C[Well that corner was important, but perhaps there was something else?])))
+(;B[es]
+(;W[fs];B[gr];W[fr];B[gs];W[ds];B[cs]C[:) thats one wayRIGHT])
+(;W[fr];B[ds];W[fs];B[cs];W[hr]
+(;B[gs];W[gr];B[ir];W[hs];B[is]C[:) thats one wayRIGHT])
+(;B[ir];W[hs];B[is]C[:) thats one wayRIGHT])))
+(;B[fs]
+(;W[fr];B[ds];W[gs];B[hr];W[es];B[cs]C[:) thats one wayRIGHT])
+(;W[fn];B[gr];W[fr];B[ds]C[:) thats one wayRIGHT]))
+(;B[hs]
+(;W[fn];B[fr];W[gr];B[fs];W[gn];B[gs];W[eo]C[Black can do better than that XD])
+(;W[fr];B[fs];W[fn];B[ds];W[gn];B[es];W[eo]C[Black can do better than that XD]))
+(;B[gs];W[fr];B[gr];W[fn]
+(;B[ds];W[gn];B[fs];W[eo]C[Black can do better than that XD])
+(;B[fs];W[gn];B[ds];W[eo]C[Black can do better than that XD]))
+(;B[gr];W[fr]
+(;B[fs];W[hr];B[ds];W[gs]C[This is a disaster :(])
+(;B[gs];W[fn];B[es];W[gn];B[ds];W[eo]C[Black can do better than that XD]))
+(;B[fr];W[gr]
+(;B[fs];W[gs];B[hr];W[es];B[hs];W[fn];B[fr];W[fs];B[cs];W[gn];B[ds];W[eo]C[Not the worst result but still quite bad])
+(;B[ds];W[fs];B[hr];W[fn];B[hs];W[gn]C[not the worst result but still quite bad]))
+(;B[hr];W[fr]
+(;B[fs];W[fn];B[ds];W[gn];B[es];W[eo]C[Black can do better than that XD])
+(;B[gr];W[fn];B[fs];W[gn];B[ds];W[eo]C[Black can do better than that XD]))
+(;B[cs];W[fn]
+(;B[gr];W[fr];B[fs];W[gn];B[ds];W[eo]C[Black can do better than that XD])
+(;B[fr];W[gr];B[hr];W[fs];B[hs];W[gn]C[not that worst result but still quite bad]))
+(;B[ar];W[fn];B[bs];W[gn]C[Well the corner was important, but perhaps there was something else?])
+(;B[bs];W[fn];B[ar];W[gn]C[Well the corner was important, but perhaps there was something else?]))

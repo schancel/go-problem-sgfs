@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[8k]DP[45]SO[naustin]CO[0]AW[rc]AW[ra]AW[sb]AW[qb]AW[qd]AW[pd]AW[pf]AW[of]AW[qg]AW[ng]AW[nh]AW[pi]AB[rd]AB[qc]AB[pc]AB[pb]AB[nc]AB[od]AB[oe]AB[nf]AB[mf]AB[og]C[Black to take a bite out of white's position.]AP[goproblems]
+(;B[qf]
+(;W[pe];B[pg]C[RIGHT])
+(;W[pg];B[pe]C[RIGHT])
+(;W[qe];B[rf]
+(;W[pg];B[pe]C[RIGHT])
+(;W[re];B[pe]C[RIGHT]))
+(;W[re]C[RIGHT]
+(;B[pe];W[sd];B[pg]C[RIGHT])
+(;B[qe];W[sd]
+(;B[pe]
+(;W[rd];B[pg]C[RIGHT]))
+(;B[pg]C[RIGHT]))
+(;B[pg];W[sd];B[pe]C[RIGHT])))
+(;B[qe];W[pe];B[qf];W[pg])
+(;B[pe];W[qe]
+(;B[pg];W[qf])
+(;B[re];W[qf])
+(;B[rf];W[qf]))
+(;B[rf];W[qf])
+(;B[re];W[pe])
+(;B[pg];W[qf])
+(;B[sd];W[re];B[qe];W[pe];B[rf];W[qf];B[se];W[qe];B[sf];W[rg]))

@@ -1,0 +1,29 @@
+(;GE[endgame]DI[3d]DP[11]SO[santa c]CO[8]AB[bg]AB[cg]AB[ch]AB[dj]AB[dk]AB[dm]AB[bn]AB[bo]AW[cn]AW[cm]AW[bm]AW[cl]AW[ck]AW[cj]AW[ci]AW[bh]AW[ai]AW[an]AB[be]C[Best way to cope with the black stone at A?]LB[al:A]AB[al]AB[dh]AB[di]AB[co]AB[dl]AB[en]AB[do]AP[goproblems]
+(;W[am]
+(;B[ak]
+(;W[aj];B[ag]
+(;W[ah]C[Well done! Alive with points! :)RIGHT])
+(;W[bj];B[ah]C[:(])
+(;W[bk];B[bi]C[:(])
+(;W[bi];B[bk]C[:(]))
+(;W[bj];B[ag]C[:(]TR[aj]TR[ah])
+(;W[bk]C[Only seki! :(])
+(;W[ah];B[aj]C[Only seki! :(])
+(;W[bi];B[bk]C[:(])
+(;W[ag];B[af]
+(;W[bk]C[Black can choose between seki and ko... :(]LB[bi:Ko])
+(;W[bj];B[ah]MA[ag]C[:(])
+(;W[ah];B[aj];W[bi];B[bk]C[:(])
+(;W[bi];B[bk]C[:(])
+(;W[aj];B[ah]MA[ag]C[:(])))
+(;B[aj];W[ak];B[bk];W[bj];B[ag];W[bl]C[Pointwise, it seems better for Black.RIGHT])
+(;B[ag];W[ak];B[ah];W[bi]C[Also is better for Black.RIGHT]))
+(;W[bl];B[bj]C[:(])
+(;W[bj];B[ak]C[:(])
+(;W[bk];B[am]C[:(]TR[bj]TR[ak])
+(;W[ak];B[bj]C[:(])
+(;W[bi]
+(;B[ak]C[:(]TR[bk]TR[am])
+(;B[am]C[:(]))
+(;W[aj];B[am]C[:(])
+(;W[ah];B[am]C[:(]TR[bj]TR[ak]))

@@ -1,0 +1,13 @@
+(;GE[elementary]DI[12k]DP[59]SO[adum]CO[6]AW[nc]AW[nd]AB[od]AB[oc]AW[ld]AB[nb]AW[mb]AB[ne]AB[of]AB[ob]AW[jc]AW[ic]AB[mc]LB[mc:1]C[how to deal with black 1?]AP[goproblems]
+(;W[md];B[lc]
+(;W[lb];B[kc]
+(;W[kd]C[RIGHT])
+(;W[kb]C[this is a bad idea. black might be able to escape or play a ladder blocker. better to push black to the edge.]))
+(;W[kc];B[lb]C[no need to let black catch this stone])
+(;W[kb];B[lb])
+(;W[kd];B[lb]))
+(;W[lc];B[md]C[this is giving black much too much])
+(;W[lb];B[md])
+(;W[kb];B[md])
+(;W[ma];B[md])
+(;W[kc];B[md]))

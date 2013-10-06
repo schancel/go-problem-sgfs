@@ -1,0 +1,14 @@
+(;GE[life and death]DI[15k]DP[61]SO[TheBigH]CO[0]AB[cs]AB[cr]AB[br]AB[bq]AB[ap]AW[an]AW[bn]AW[bo]AW[bp]AW[cp]AW[cq]AW[dr]AW[er]AW[es]AW[dp]C[Black's corner is dead as it stands. But there is one gigantic blunder white can make that will save black. What is it? (Assume one big mistake, then perfect play by both sides.)]AP[goproblems]
+(;W[ar];B[as]
+(;W[ao];B[aq]C[Two eyes!RIGHT])
+(;W[bs];B[aq]C[No matter what white does, black will make 2 eyes by playing at A1.RIGHT])
+(;W[ds];B[aq]C[Two eyes!!RIGHT]))
+(;W[aq];B[ar]C[A3 remains a false eye, and black remains dead.])
+(;W[as]
+(;B[bs]C[White can kill by straight three.CHOICE])
+(;B[ar]C[The eye at A3 remains false, and black remains dead.CHOICE]))
+(;W[bs];B[as]C[You can still kill by playing at A3.])
+(;W[ao];B[aq]C[You can still kill by playing at A1.])
+(;W[ds]
+(;B[aq]C[You can still kill by playing at A1.CHOICE])
+(;B[as]C[You can still kill by playing at A3.CHOICE])))

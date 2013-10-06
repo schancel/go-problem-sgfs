@@ -1,0 +1,50 @@
+(;GE[endgame]DI[12k]DP[55]SO[Kaenai]CO[0]AW[ks]AW[kr]AW[kq]AW[js]AW[lp]AW[ko]AW[jn]AW[mn]AW[nn]AW[on]AW[oo]AW[pn]AW[pm]AW[nm]AW[op]AW[oq]AW[nq]AW[nr]AW[pq]AB[or]AB[pr]AB[qq]AB[pp]AB[po]AB[qn]AB[qm]AB[qr]AB[pl]AB[ol]AB[om]AB[nl]AB[ok]AW[ql]AB[qk]AB[mm]AB[ll]AB[km]AB[kp]AB[jp]AB[ip]AB[jr]AB[is]AB[hr]AB[iq]AB[hq]AB[ho]AB[hn]AB[hm]AB[hl]AB[ik]C[Early in the game white answered 1 with 2. When black played 3 white ignored it thinking it is only worth the one stone black saved. Black to punish]LB[kp:1]LB[lp:2]LB[jp:3]AP[goproblems]
+(;B[lo];W[mp]
+(;B[ln]C[RIGHT])
+(;B[ns];W[ms];B[ln]C[Good, but the O1 - N1 exchange was really unnecessaryRIGHT])
+(;B[mo];W[ln])
+(;B[kn];W[ln];B[jo]C[Good on the reduction, but for best results black should have played at M6 instead of atari at L6 (then the push at N5 would have been sente in late endgame)RIGHT]))
+(;B[lq];W[mq]
+(;B[lo];W[mp];B[ln]C[RIGHT])
+(;B[ns];W[lr];B[ln];W[lo])
+(;B[ln];W[lo])
+(;B[mp];W[lo]
+(;B[lr];W[ls])
+(;B[ns];W[ms])))
+(;B[ln];W[lo];B[lq];W[mq])
+(;B[ns];W[ms]
+(;B[mr];W[os]
+(;B[lq];W[ln];B[mp];W[lo])
+(;B[lo];W[ln];B[lq];W[mp])
+(;B[ln];W[lo]))
+(;B[lo];W[ln];B[lq];W[mp]
+(;B[lr];W[ls])
+(;B[mr];W[os]))
+(;B[lq];W[ln]
+(;B[mp];W[lo];B[mr];W[os])
+(;B[lr];W[ls];B[mp];W[lo])
+(;B[mq];W[mp])
+(;B[kn];W[jo];B[mp];W[lo];B[mr];W[ls];B[mq];W[mo]))
+(;B[kn];W[jo];B[lo];W[ln];B[lq];W[mp])
+(;B[ln];W[lo]))
+(;B[mp];W[lq]
+(;B[ln];W[lo])
+(;B[lo];W[ln];B[mo];W[kn])
+(;B[ns];W[ms];B[mr];W[os];B[mq];W[ln]))
+(;B[kn];W[ln]
+(;B[lq];W[mq];B[mp];W[lo])
+(;B[jo]C[Good, but black can get better]))
+(;B[ms];W[ns]
+(;B[lq];W[mq];B[lo];W[mp];B[ln]C[almost perfect, but the move at N1 forced white to play at O1 which is bad for black])
+(;B[lo];W[mp];B[ln]C[almost perfect, but the move at N1 forced white to play at O1 which is bad for black]))
+(;B[mr];W[ms]
+(;B[lo];W[ln];B[lq];W[mp])
+(;B[lq];W[ln];B[mp];W[lo])
+(;B[ln];W[lo])
+(;B[kn];W[jo]
+(;B[lo];W[ln];B[lq];W[mo])
+(;B[ln];W[lo])))
+(;B[mo];W[ln]
+(;B[lq];W[mq];B[lo];W[mp];B[kn];W[jo])
+(;B[lo];W[lq];B[kn];W[jo])
+(;B[mp];W[mq])))

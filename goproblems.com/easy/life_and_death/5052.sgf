@@ -1,0 +1,26 @@
+(;GE[life and death]DI[8k]DP[45]SO[marwin]CO[8]SZ[19]AW[pl]AW[rl]AW[qm]AW[qn]AW[sn]AW[po]AW[pp]AW[pq]AW[rq]AW[pr]AW[rr]AW[sr]AW[ps]AW[ss]AB[rn]AB[qo]AB[ro]AB[qp]AB[qq]AB[qr]AB[qs]AB[rs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[sq];W[sp]
+(;B[rp]C[RIGHT])
+(;B[so];W[sm];B[rp];W[rm])
+(;B[sm];W[so]
+(;B[sl];W[rm])
+(;B[rm];W[sl]))
+(;B[rm];W[sm]
+(;B[rp];W[so])
+(;B[so];W[rp])))
+(;B[rp];W[sq];B[sp];W[sr]C[oops])
+(;B[so];W[sp]
+(;B[sm];W[rm]C[black is dead])
+(;B[rp];W[rm])
+(;B[rm];W[sm];B[sl];W[sm];B[sn];W[rk]))
+(;B[sm];W[rm]
+(;B[sq];W[sp]
+(;B[rp];W[so])
+(;B[so]))
+(;B[so];W[sp])
+(;B[rp];W[sq];B[sp];W[sr]C[Black is dead]))
+(;B[sp];W[sq]
+(;B[sm];W[rm];B[rp];W[sr])
+(;B[rp];W[sr])
+(;B[rm];W[sm];B[rp];W[sr])
+(;B[so];W[sm];B[rp];W[sr])))

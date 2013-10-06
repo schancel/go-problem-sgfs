@@ -1,0 +1,16 @@
+(;GE[elementary]DI[30k]DP[85]SO[brightwater]CO[7]AB[gb]AB[gc]AB[gd]AB[ge]AW[fc]AW[fb]AB[fa]AB[ga]AW[ea]AW[fd]AW[fe]AW[cc]AW[cd]LB[ea:A]C[Black to capture stone A]AP[goproblems]
+(;B[da];W[eb])
+(;B[cc])
+(;B[eb];W[da]
+(;B[db];W[ca];B[cb];W[ba]
+(;B[bb]C[RIGHT])
+(;B[bc];W[bb]
+(;B[ab]C[RIGHT])
+(;B[aa];W[ab];B[ac]C[RIGHT]))
+(;B[ab];W[bb];B[bc]C[RIGHT])
+(;B[ac];W[bb];B[bc];W[dc])
+(;B[aa];W[bb];B[bc];W[ab];B[ac]C[RIGHT]))
+(;B[cb];W[db])
+(;B[ec];W[db])
+(;B[ca];W[db]))
+(;B[db];W[eb]))

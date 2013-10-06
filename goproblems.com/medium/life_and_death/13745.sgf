@@ -1,0 +1,53 @@
+(;GE[life and death]DI[2k]DP[21]SO[DarkSycthe]CO[0]SZ[9]AW[dd]AW[ed]AW[ee]AW[ef]AW[df]AW[cf]AW[bf]AW[af]AW[hc]AW[ic]AW[fd]AW[gd]AB[hd]AB[id]AB[he]AB[ge]AB[fe]AB[ff]AB[eg]AB[dg]AB[cg]AB[bg]AB[ag]AB[gg]AB[hh]AW[gc]AB[cb]AW[bc]AB[bb]AW[ab]C[ATARI GO: The first capture wins!]LB[db:A]LB[cb:1]LB[bc:2]LB[ab:4]LB[bb:3]AP[goproblems]
+(;B[eb];W[fb]
+(;B[ea]
+(;W[ac]
+(;B[ba];W[dc];B[db]C[Since this is atari go, white cannot play inside the black space to kill. Black lives!RIGHT])
+(;B[dc]C[Black has a two space eye and since this is atari go white cannot play inside :)RIGHT])
+(;B[cc];W[dc];B[db]
+(;W[ba];B[ca];W[aa];B[bd]C[RIGHT])
+(;W[bd];B[ba]C[Since this is atari go, white cannot play inside the black space to kill. Black lives!RIGHT])))
+(;W[ba];B[ca]C[If White responds like this black wins by capturing b9.RIGHT]))
+(;B[dc];W[ea]
+(;B[da];W[fa]
+(;B[cc];W[ec];B[db];W[bd])
+(;B[ec];W[cc])
+(;B[ba];W[ec];B[db];W[cc])
+(;B[bd];W[ad];B[cc];W[ac]))
+(;B[bd];W[ad];B[cc];W[ac]))
+(;B[db];W[ea])
+(;B[ba];W[ea];B[da];W[fa]
+(;B[dc])
+(;B[cc];W[bd];B[dc];W[ec]))
+(;B[cc];W[bd]))
+(;B[db];W[eb])
+(;B[cc];W[bd]
+(;B[eb]
+(;W[fb]
+(;B[ea]C[Since this is atari go, white cannot play inside the black space to kill. Black lives! Navigate solution and see first path for why.RIGHT])
+(;B[dc]C[];W[ea];B[da];W[fa]
+(;B[ba];W[ec])
+(;B[ec];W[ba]
+(;B[ca]C[RIGHT])
+(;B[fc]C[NOTTHIS])))
+(;B[ec];W[dc];B[db];W[ea])
+(;B[db];W[ea])
+(;B[ba];W[ea];B[da];W[fa])))
+(;B[cd];W[eb])
+(;B[db];W[eb])
+(;B[fb];W[eb];B[ea];W[da];B[fa];W[db])
+(;B[ec];W[eb])
+(;B[dc];W[eb]))
+(;B[fb];W[eb]
+(;B[cc];W[bd])
+(;B[ea];W[da];B[fa];W[db])
+(;B[db];W[ec]))
+(;B[dc];W[eb];B[bd];W[ad];B[cc];W[ac])
+(;B[cd];W[cc]
+(;B[db];W[bd])
+(;B[eb];W[bd])
+(;B[dc];W[bd])
+(;B[bd];W[db]))
+(;B[bd];W[cc]MA[bd]C[The marked stone dies])
+(;B[ba];W[eb])
+(;B[da];W[eb]))

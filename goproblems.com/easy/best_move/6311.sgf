@@ -1,0 +1,21 @@
+(;GE[best move]DI[4k]DP[31]SO[Stones]CO[8]AW[jf]AW[if]AW[kf]AW[kg]AW[kh]AW[ki]AW[ji]AW[ih]AW[ig]AB[je]AB[ld]AB[le]AB[lf]AB[lg]AB[lh]AB[hd]AB[hf]AB[he]AB[hg]AB[hh]AB[ii]AW[li]AB[ij]AB[ik]AB[mi]AB[mj]AW[jk]AW[kk]AW[lk]AB[lj]AB[kj]AB[oi]AW[mh]AW[mg]AW[mf]AW[og]AW[of]AW[hc]AW[kc]AW[mc]AB[il]AB[jm]AB[km]AB[lm]AW[hi]AW[gi]AW[gh]AW[gd]AW[fd]AW[ff]AW[oc]AW[od]AW[jc]AB[pk]AW[mk]AB[nk]AB[nl]AB[nm]AW[lc]AW[ic]C[Black thinks he's funny.  Can white do anything or should he play tenuki at T(F8)?]AB[ke]LB[ke:1]LB[fl:T]AP[goproblems]
+(;W[jj];B[ie]C[Black wins the capturing race.])
+(;W[fl];B[ie]C[It didn't have to be this way!])
+(;W[id];B[ie];W[jj]C[Black wins the capturing race.])
+(;W[jd];B[ie]C[Black wins the capturing race.
+])
+(;W[ie];B[id]
+(;W[jd];B[jj]
+(;W[kd];B[jg])
+(;W[md];B[jg])
+(;W[me];B[jg])
+(;W[ge];B[jg])
+(;W[gf];B[jg])
+(;W[gg];B[jg]))
+(;W[jj];B[jd]
+(;W[ge]C[white wins.RIGHT])
+(;W[gf]C[white winsRIGHT])
+(;W[gg]C[white wins.RIGHT])
+(;W[kd]C[white wins.RIGHT])
+(;W[md]C[white wins.RIGHT])
+(;W[me]C[white wins.RIGHT]))))

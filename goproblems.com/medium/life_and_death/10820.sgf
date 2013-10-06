@@ -1,0 +1,31 @@
+(;GE[life and death]DI[3k]DP[27]SO[mrmoto]CO[7]AB[ab]AB[bb]AB[cc]AB[cd]AB[bf]AB[cf]AB[df]AB[bg]AW[bh]AW[cg]AW[dg]AW[di]AW[ba]AW[cb]AW[db]AW[dc]AW[dd]AW[ee]AW[ef]C[White to kill.]AP[goproblems]
+(;W[bd];B[bc]
+(;W[ad];B[de]
+(;W[be];B[ag]
+(;W[ae]C[RIGHT])
+(;W[ah];B[ae];W[af]C[You can do better than ko.]))
+(;W[ae];B[be]
+(;W[af];B[ag])
+(;W[ag];B[ac]))
+(;W[af];B[ag]
+(;W[be];B[ae])
+(;W[ae];B[be])
+(;W[ah];B[be]))
+(;W[ag]
+(;B[ae];W[be])
+(;B[be]C[CHOICE]
+(;W[af];B[ac])
+(;W[ae];B[ac]))))
+(;W[be];B[ad]
+(;W[ce];B[de])
+(;W[ae];B[ce];W[ac];B[af]))
+(;W[ae];B[be];W[ad];B[de])
+(;W[de];B[ad]))
+(;W[bc];B[bd])
+(;W[de];B[ad])
+(;W[ce];B[de])
+(;W[be];B[bd])
+(;W[ae];B[be])
+(;W[ad];B[bd])
+(;W[ag];B[ad])
+(;W[af];B[ag]))

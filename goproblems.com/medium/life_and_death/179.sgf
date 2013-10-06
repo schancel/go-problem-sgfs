@@ -1,0 +1,77 @@
+(;GE[life and death]DI[3d]DP[9]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[5.50]
+GN[White (W) vs. Black (B)]PW[White]PB[Black]DT[1999-07-28]SY[Cgoban 1.9.2]
+;AW[qa][sa][lb][mb][ob][qb][rb][nc][oc][pc][qc][md][me][re][se][nf][pf][rf][pg][rg][ph][pi][qi][ri][si]AB[na][pa][kb][kc][lc][mc][rc][nd][od][pd][qd][rd][qe][qf][qg][sg][qh][rh][sh]C[white to kill
+]PL[W]
+(;W[sf]
+;B[oa]C[good start: you must first make a dead shape on the right. now what?
+]
+(;W[la]
+;B[nb]C[black plays here to stop white getting a seki on top
+]
+(;W[pb]
+;B[ka]
+(;W[ma]
+;B[oa]
+(;W[sb]
+;B[nb]
+(;W[pa]
+;B[na]
+;W[mb]C[RIGHT
+white plays under the stones and saves the day
+])
+(;W[na]
+;B[nb]
+(;W[mb]
+;B[ma]C[ko
+])
+(;W[pa]
+;B[mb])))
+(;W[na]
+;B[nb])
+(;W[nb]
+;B[sd]
+(;W[rf]
+;B[sb]C[ko
+])
+(;W[sb]
+;B[rf]))
+(;W[pa]CR[pa]
+;B[na]CR[na]
+(;W[sb]CR[sb]
+;B[nb]CR[nb]
+;W[mb]CR[mb]C[RIGHT])
+(;W[nb]CR[nb]
+;B[sd]CR[sd]
+;W[rf]CR[rf]
+;B[sb]CR[sb]C[ko])))
+(;W[sb]
+;B[ma]))
+(;W[sb]
+;B[ka]
+(;W[pb]
+;B[ma])
+(;W[sc]
+;B[sd]))
+(;W[ma]CR[ma]
+;B[ka]CR[ka]))
+(;W[ma]
+;B[sd]
+;W[rf]
+;B[sb]C[ko for one white eye on top
+])
+(;W[nb]
+;B[la]
+;W[ma]
+;B[sd]
+;W[rf]
+;B[sb]C[ko for one eye on top for white
+]))
+(;W[nb]
+;B[sf])
+(;W[la]
+;B[sf])
+(;W[oa]
+;B[sf])
+(;W[ma]
+;B[sf]))

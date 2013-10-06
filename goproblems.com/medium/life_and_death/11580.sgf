@@ -1,0 +1,67 @@
+(;GE[life and death]DI[3d]DP[9]SO[MeleeNewb]CO[0]C[Black plays, and white has (L)ife, (S)eki, (K)o, or (D)eath?FORCE]AB[fc]AW[gb]AB[jd]AW[jb]AW[rc]AW[qg]AB[cb]AB[cc]AW[db]AB[dd]AB[ec]AW[fb]AW[gc]AB[fe]AB[gd]AB[id]AW[ib]AW[ic]AB[jc]AW[lb]AB[mb]AB[mc]AB[ld]AW[rb]AW[ra]LB[if:L]LB[kf:S]LB[mf:K]LB[of:D]AW[pd]AW[qe]AP[goproblems]
+(;B[kf];W[kf]AB[kf]C[Prove it.]
+(;B[ha];W[eb]C[]
+(;B[da];W[ea]
+(;B[ga];W[ma]
+(;B[ob];W[na]
+(;B[pc];W[kc]
+(;B[lc];W[la]
+(;B[kb];W[ka]
+(;B[ia]C[Well done!RIGHT])
+(;B[kd]C[NOTTHIS])
+(;B[hc]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[ia];W[kb];B[ja];W[hb]C[White captures a living shape.])
+(;B[hc]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[ka];W[la]C[No way to stop white from making 2 eyes now.])
+(;B[kd];W[lc]C[No way to stop white from making 2 eyes now.])
+(;B[ia];W[lc]C[No way to stop white from making 2 eyes now.])
+(;B[hc]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[oa];W[nb];B[nc];W[la]
+(;B[oc];W[kb])
+(;B[pc];W[kb])
+(;B[od];W[kb]))
+(;B[nb];W[oa];B[pa];W[la]
+(;B[pb];W[kb])
+(;B[pc];W[kb])
+(;B[qb];W[kb]))
+(;B[hc]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[na];W[la]
+(;B[nb];W[kb])
+(;B[ob];W[kb])
+(;B[nc];W[kb]))
+(;B[nb];W[na]
+(;B[oa];W[la]
+(;B[ob];W[kb])
+(;B[pb];W[kb])
+(;B[oc];W[kb]))
+(;B[ob];W[oa];B[pa]))
+(;B[hc]C[NOTTHIS])
+(;B[hb]C[NOTTHIS]))
+(;B[kc];W[ga])
+(;B[kb];W[kc])
+(;B[lc];W[kb]
+(;B[ga];W[la])
+(;B[la];W[ga]))
+(;B[la];W[ka])
+(;B[hb]C[NOTTHIS])
+(;B[hc]C[NOTTHIS]))
+(;B[ga];W[da];B[fa];W[kb]
+(;B[la];W[ka];B[ia];W[hb]C[White captures a living shape])
+(;B[ia];W[la];B[ja];W[hb]C[white captures a living shape]))
+(;B[ia];W[ga])
+(;B[la];W[ka]
+(;B[ia];W[ga])
+(;B[da];W[ia]))
+(;B[hb]C[NOTTHIS])
+(;B[hc]C[NOTTHIS]))
+(;B[eb];W[ha])
+(;B[hc];W[ha])
+(;B[la];W[ha])
+(;B[kc];W[ha]))
+(;B[mf]C[No ko here.])
+(;B[of]C[Black cannot quite kill this.])
+(;B[if]C[Black can do more than that.]))

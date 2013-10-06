@@ -1,0 +1,14 @@
+(;GE[best move]DI[4d]DP[7]SO[cheyenne]CO[8]SZ[19]AW[pb]AW[kd]AW[qf]AB[nd]AB[pd]LB[pb:A]C[What A is hamete.  How should black respond?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[qc];W[mc];B[nb];W[nc];B[ob];W[oc];B[pc];W[mb];B[qb];W[od]C[This position is unacceptable for Black])
+(;B[oc];W[rd];B[qc];W[mc]C[Black.  So very many stones doing so very little])
+(;B[nb];W[qd];B[qc];W[pc];B[qb];W[rd]
+(;B[rc];W[pe];B[od];W[ra]LB[ra:A]C[After White A black loses the corner])
+(;B[oc];W[pe];B[od];W[rb];B[ob];W[rc]LB[pa:A]C[Black plays A and lives, however Black has lost the corner and the Black stones are overly concentrated.]))
+(;B[pc]
+(;W[qb]C[CHOICE];B[ob];W[rd]LB[re:A]C[Please play 'A'.  This is another tesuji to separate the White stones into two groups.];B[re]
+(;W[qe]C[CHOICE];B[rc];W[qd];B[qc]C[ After this exchange, Black is left with a very secure corner, and White is left with very little for the hamete investment.RIGHT])
+(;W[qd];B[qe]
+(;W[pe]C[CHOICE];B[rf];W[qc];B[qg]C[ This is a position that is poor for white.  Saving the outside White stones doesn't help much and the White corner group is not alive yet.  White can live in the corner with goteRIGHT])
+(;W[rf];B[pe];W[se];B[qc];W[rc];B[rb];W[sb];B[ra]C[ white has very little to show for all his effortsRIGHT])))
+(;W[ob]LB[mc:A]C[Please play A.  White can safely live in the corner, but there are bigger things then the corner.];B[mc];W[qc];B[qd];W[rc];B[rd];W[rb];B[qh]C[ Black has a very strong positionRIGHT]))
+(;B[pf];W[pg];B[qe];W[of];B[pe];W[mc];B[qg]C[RIGHT]))

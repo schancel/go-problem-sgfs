@@ -1,0 +1,25 @@
+(;GE[life and death]DI[10k]DP[50]SO[kaiou]CO[8]SZ[19]AW[ca][ea][eb][fb][ac][cc][dc][ad][bd]AB[fa][ga][gb][ec][fc][cd][dd][gd][ae][be][ce][ee]
+(;B[bb]CR[bb]
+;W[bc]CR[bc]
+(;B[db]CR[db]
+;W[da]CR[da]
+;B[cb]CR[cb]C[RIGHT])
+(;B[cb]CR[cb]C[CHOICE]
+(;W[db]CR[db]
+;B[ab]CR[ab]C[RIGHT])
+(;W[ab]CR[ab]
+;B[db]CR[db]C[RIGHT])))
+(;B[db]CR[db]
+;W[bb]CR[bb]
+;B[da]CR[da]
+;W[cb]CR[cb])
+(;B[ab]CR[ab]
+;W[bc]CR[bc]
+(;B[bb]CR[bb]
+;W[cb]CR[cb])
+(;B[db]CR[db]
+;W[da]CR[da]
+(;B[bb]CR[bb]
+;W[cb]CR[cb])
+(;B[ba]CR[ba]
+;W[cb]CR[cb]C[seki, not enough]))))

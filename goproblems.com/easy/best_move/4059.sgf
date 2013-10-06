@@ -1,0 +1,10 @@
+(;GE[best move]DI[6k]DP[37]SO[chrisg]CO[8]SZ[19]AW[rb]AW[rd]AW[qf]AW[qi]AB[qc]AB[nd]AB[pd]LB[rc:A]C[The normal play by W in this situation is 'A', the marked stone is an overplay - punish W]MA[rb]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[re];W[rc];B[qe];W[pb]
+(;B[qb];W[qd];B[pc];W[pe];B[pf];W[oe];B[rf];W[qg];B[rg];W[rh])
+(;B[qd];W[qb];B[ob];W[sa]))
+(;B[rc];W[sc]
+(;B[re];W[qe];B[qd];W[sd]
+(;B[sb];W[sa];B[se]C[W dies in the corner.RIGHT])
+(;B[se];W[sb];B[qb];W[rf];B[ra];W[sf]C[Doh (nearly!)]))
+(;B[qd];W[re];B[qb]C[You'll have to do better than this])
+(;B[qb];W[qd]C[You'll have to better than this])))

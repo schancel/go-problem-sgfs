@@ -1,0 +1,22 @@
+(;GE[elementary]DI[6k]DP[38]SO[DarkSycthe]CO[0]AB[nn]AW[mn]AB[oo]AB[om]AB[ol]AB[nl]AB[ml]AB[ll]AB[mp]AB[np]AB[op]AB[lp]AW[kn]AW[km]AW[kl]AW[kk]AW[lk]AW[nk]AW[ok]AW[mk]AW[pk]AW[pl]AW[pm]AW[pp]AW[po]AW[pq]AW[oq]AW[nq]AW[mq]AW[lq]AW[kq]AW[kp]AW[ko]C[Black plays and the best that can be gotten out of these stones is...]LB[rl:Life]LB[rn:Seki]LB[rp:Ko]LB[rr:Dead]AP[goproblems]
+(;B[rr]C[No, there is some life in the black stones.])
+(;B[rp]C[];W[rq]C[Ok, please demonstrate.]
+(;B[mm];W[mo])
+(;B[mo];W[mm])
+(;B[ln];W[mm]
+(;B[mo];W[lm])
+(;B[lm];W[mo];B[lo]C[Seki.]))
+(;B[lo];W[ln])
+(;B[lm];W[ln]))
+(;B[rn]C[];W[ro]C[Ok, please demonstrate.]
+(;B[ln];W[mm];B[lm];W[mo];B[lo]C[RIGHT])
+(;B[mm];W[mo])
+(;B[mo];W[mm])
+(;B[lo];W[ln])
+(;B[lm];W[ln]))
+(;B[rl]C[];W[rm]C[Ok, please demonstrate.]
+(;B[ln];W[mm];B[lm];W[mo];B[lo]C[Seki.])
+(;B[mm];W[mo])
+(;B[mo];W[mm])
+(;B[lm];W[ln])
+(;B[lo];W[ln])))

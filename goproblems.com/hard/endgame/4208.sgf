@@ -1,0 +1,71 @@
+(;GE[endgame]DI[4d]DP[7]SO[wtd]CO[9]SZ[9]AW[dc][ec][fc][fd][hd][id][ee][ge][ef][ff][hf][gg][eh][fh][gh][hh][hi]
+AB[fa][cb][cc][bd][dd][ed][be][de][af][cf][df][bg][dg][bh][dh][ci][di][fi]LB[fa:M]
+C[No komi, no prisoners yet - White to win. FORCE]
+
+
+(;W[db];B[da];W[ea];B[eb];W[fb];B[ea];W[ga];B[ca];W[gb];B[ei];W[eg]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.])
+
+
+(;W[eb];B[ea];W[da];B[db];W[ga];B[ca];W[fb];B[da];W[gb];B[ei];W[eg]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.])
+
+
+(;W[fb]
+(;B[da]
+(;W[ga];B[ea];W[gb];B[ei]
+(;W[db];B[eg]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.])
+
+(;W[eg];B[db]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.]))
+
+(;W[db];B[ea];W[hb];B[ha];W[gb];B[ga];W[ei];B[ib];W[ic];B[ia];W[eg]LB[ga:D][fb:E]C[You lost by 1. Jigo was possible from 1st move 'E', whilst starting at 'D' allows a win by 1.])
+
+(;W[ea];B[eb];W[db];B[ea];W[ga];B[ca];W[gb];B[ei];W[eg]
+LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.]))
+
+(;B[ea]
+(;W[da];B[db];W[ga];B[eb];W[gb];B[ei];W[eg]LB[ga:D][fb:E]
+C[You lost by 2. Jigo was possible from 1st move 'E', whilst starting at 'D' allows a win by 1.])
+
+(;W[ga];B[db];W[eb];B[da];W[gb];B[ei];W[eg]LB[ga:D]
+C[Only jigo. 1st move 'D' allows a win by 1.])
+
+(;W[db];B[da];W[hb];B[ha];W[gb];B[ga];W[ei];B[ib];W[ic];B[ia];W[eg]LB[ga:D][fb:E]C[You lost by 1. Jigo was possible from 1st move 'E', whilst starting at 'D' allows a win by 1.])))
+
+
+(;W[gb];B[ga]
+(;W[db];B[da];W[eb];B[ea];W[hb];B[ha];W[ei];B[ib];W[ic]
+;B[ia];W[eg]LB[ga:D]C[You lost by 1. 1st move 'D' allows a 1 point win.])
+
+(;W[ha];B[ea];W[db];B[da];W[hb];B[ei];W[eg]LB[ga:D]C[You lost by 1. 1st move 'D' allows a 1 point win.]))
+
+
+(;W[ga]
+(;B[da]C[CHOICE]
+(;W[gb];B[ei];W[db];B[ea];W[eg]TR[dc][ec][fc]LB[ga:A][fb:B][db:C]C[RIGHT You won by 1. When the 3 marked stones are 
+in place and 'G7' is open, 1st move 'A' is better than 'B' by 1, as it allows the defender to occupy 'C' without loss. This is the standard defence against a monkey jump into this formation.])
+
+(;W[db];B[ea];W[gb];B[ei];W[eg]TR[dc][ec][fc]LB[ga:A][fb:B][db:C]C[RIGHT You won by 1. When the 3 marked stones are 
+in place and 'G7' is open, 1st move 'A' is better than 'B' by 1, as it allows the defender to occupy 'C' without loss. Your 2nd move would have been firmer at 'G8' (the standard move), but here both give the same result.])
+
+(;W[fb];B[ea];W[gb];B[ei]
+(;W[db];B[eg]C[Only jigo. Your 1st move was correct, but your 2nd should have been at 'G8' or 'D8' to allow a win by 1.])
+
+(;W[eg];B[db]C[Only jigo. Your 1st move was correct, but your 2nd should have been at 'G8' or 'D8' to allow a win by 1.])))
+
+(;B[ea]C[CHOICE]
+(;W[gb];B[ei];W[db];B[da];W[eg]TR[dc][ec][fc]LB[ga:A][fb:B][db:C]C[RIGHT You won by 1. When the 3 marked stones are 
+in place and 'G7' is open, 1st move 'A' is better than 'B' by 1, as it allows the defender to occupy 'C' without loss. This is the standard defence against a monkey jump into this formation.])
+
+(;W[db];B[da];W[gb];B[ei];W[eg]TR[dc][ec][fc]LB[ga:A][fb:B][db:C]C[RIGHT You won by 1. When the 3 marked stones are 
+in place and 'G7' is open, 1st move 'A' is better than 'B' by 1, as it allows the defender to occupy 'C' without loss. Your 2nd move would have been firmer at 'G8' (the standard move), but here both give the same result.])
+
+(;W[fb];B[db];W[eb];B[da];W[gb];B[ei];W[eg]C[Only jigo. Your 1st move was correct, but your 2nd should have been 
+at 'G8' or 'D8' to allow a win by 1.])
+
+(;W[da];B[db];W[eb];B[ca];W[fb];B[da];W[gb];B[ei];W[eg]C[Only jigo. Your 1st move was correct, but your 2nd should 
+have been at 'G8' or 'D8' to allow a win by 1.])))
+
+
+(;W[ea];B[eb];W[db];B[da];W[fb];B[ea];W[ga];B[ca];W[gb];B[ei];W[eg]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.])
+
+
+(;W[da];B[db];W[eb];B[ea];W[ga];B[ca];W[fb];B[da];W[gb];B[ei];W[eg]LB[ga:D]C[Only jigo. 1st move 'D' allows a win by 1.]))

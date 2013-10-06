@@ -1,0 +1,24 @@
+(;GE[elementary]DI[7k]DP[43]SO[fightt]CO[0]AB[as]AB[ar]AB[aq]AW[bs]AW[br]AB[cs]AB[cr]AW[bq]AB[hm]AW[gm]AW[gl]AB[gj]AB[gi]AW[hi]AW[hj]AW[ek]AB[hh]AB[fl]AW[il]AB[ik]AW[ii]AW[ji]AB[ih]AB[jh]AB[ki]AW[jk]AB[lj]AB[jl]AW[kk]AB[ap]AW[bn]AW[fq]C[Can you ladder the marked stones? Play at K4 (NO) if you think it doesn't work.]AW[jm]LB[jp:NO]TR[bq]TR[br]TR[bs]AP[goproblems]
+(;B[bp];W[cq]
+(;B[dq];W[cp];B[co];W[dp];B[ep];W[do];B[dn];W[eo];B[fo];W[en]
+(;B[em];W[fn]
+(;B[gn];W[fm]
+(;B[hl];W[gk]
+(;B[fk];W[hk]
+(;B[jj];W[ij];B[ik]C[RIGHT])
+(;B[ij];W[jj]C[])
+(;B[im];W[fj]))
+(;B[hk];W[fk]))
+(;B[gk];W[hl]
+(;B[im];W[hk]
+(;B[jj]
+(;W[kl]MA[jm]C[Nope. The stone at K7 was most helpful in preventing this line.]))
+(;B[ij];W[jj]C[]))
+(;B[hk];W[kl])
+(;B[kl];W[hk])))
+(;B[fm]C[];W[gn]))
+(;B[fn];W[em]))
+(;B[cp]C[];W[dq]))
+(;B[jp];W[bp]AW[ap]AW[aq]AW[ar]AW[as]AB[bq]AB[br]AB[bs]AW[cr]AW[cs]AB[bn]AB[fq]AB[gm]AW[hm]AB[jm]AW[fl]AB[gl]AB[il]AW[jl]AB[ek]AW[ik]AB[jk]AB[kk]AW[gj]AB[hj]AW[lj]AW[gi]AB[hi]AB[ii]AB[ji]AW[ki]AW[hh]AW[ih]AW[jh]AW[jp]C[Let's swap sides so you can prove the ladder does not work.];B[cq];W[dq];B[cp];W[co];B[dp];W[ep];B[do];W[dn];B[eo];W[fo];B[en];W[em];B[fn];W[gn];B[fm];W[hl];B[gk];W[fk];B[hk];W[jj];B[ij];W[ik]C[It did work after all.])
+(;B[cq];W[bp])
+(;B[cp];W[bp]))

@@ -1,0 +1,41 @@
+(;GE[endgame]DI[4d]DP[8]SO[smartaleck]CO[0]SZ[7]AB[dd]AW[cd]AB[dc]AW[de]AB[ce]AW[be]AB[cf]AW[ee]AB[cc]AW[bd]AB[bf]AW[bc]AB[ed]AW[fd]AW[ff]AB[ef]AW[ge]AB[df]AW[fe]AB[fc]AW[fb]AB[bb]AW[eb]AB[db]AW[ab]AB[ac]AW[da]AP[goproblems]
+(;B[ca]
+(;W[ec];B[ea];W[fa];B[ae];W[da];B[ad];W[eg]
+(;B[dg];W[fg];B[ea];W[gc];B[da]C[RIGHT]))
+(;W[ea]C[CHOICE]
+(;B[ae];W[ec];B[ad];W[eg];B[dg];W[fg]C[b loses by 0.5])
+(;B[gb];W[gc];B[gd];W[ba]
+(;B[aa];W[gc]
+(;B[fg];W[ec];B[cb]C[RIGHT])
+(;B[ae];W[ec];B[ad];W[eg];B[dg];W[fg]C[b loses by 0.5])
+(;B[cb]C[NOTTHIS])
+(;B[fa]C[NOTTHIS])
+(;B[eg]C[NOTTHIS])
+(;B[dg]C[NOTTHIS]))
+(;B[fg];W[gc];B[aa];W[ec]))
+(;B[aa];W[ec];B[cb]))
+(;W[ad];B[ea];W[fa];B[af];W[ec];B[ae];W[da];B[ac];W[eg];B[dg];W[fg];B[ea];W[gc];B[da]C[RIGHT]))
+(;B[ec];W[gc];B[cb];W[ad])
+(;B[ea];W[fa]
+(;B[ec];W[ba]
+(;B[aa];W[gc];B[cb];W[ab])
+(;B[cb];W[ad];B[gc];W[gb]))
+(;B[ca];W[ec];B[ea];W[ad];B[da];W[af]
+(;B[fg];W[eg]
+(;B[dg];W[bg];B[gc];W[ba];B[aa];W[cg])
+(;B[bg];W[dg];B[cg];W[eg];B[gc];W[gg]))
+(;B[bg];W[eg]
+(;B[ag];W[dg];B[ae];W[fg];B[ac];W[cg]C[b loses by 0.5])
+(;B[fg];W[dg]))
+(;B[eg];W[fg];B[bg];W[cg]))
+(;B[aa];W[ec];B[cb];W[fg]
+(;B[ca];W[eg];B[dg];W[ea]C[b loses by 0.5])
+(;B[eg];W[ca];B[ae];W[ea];B[ad];W[ba];B[ab]))
+(;B[ae];W[ec];B[ad];W[ca];B[fg];W[ba];B[gc];W[gb];B[eg];W[gd];B[aa];W[ea];B[ab];W[gf]C[b loses by 0.5]))
+(;B[ae];W[ec];B[ad];W[ca]
+(;B[fg];W[ba];B[gc];W[gb];B[eg];W[ea];B[aa];W[gd];B[ab];W[gf];B[cb];W[gg]C[b loses by 0.5])
+(;B[ba];W[fg];B[eg];W[ea];B[cb]C[b loses by 0.5]))
+(;B[aa];W[ec];B[cb];W[ea]
+(;B[ca];W[eg];B[dg];W[fg]C[b loses by 0.5])
+(;B[fg];W[ca];B[ae];W[ba];B[ad];W[gc];B[ab];W[gf];B[eg];W[gg]C[b loses by 0.5]))
+(;B[fg];W[ec];B[cb];W[ad]))

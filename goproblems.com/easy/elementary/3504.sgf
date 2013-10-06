@@ -1,0 +1,8 @@
+(;GE[elementary]DI[6k]DP[37]SO[kochi]CO[6]AB[bc]AB[cb]AB[cd]AB[dd]AW[dc]AW[cc]AW[ed]AW[de]AW[fc]AP[goproblems]
+(;B[db];W[ec]
+(;B[be]C[Black forced white into bad shape.RIGHT])
+(;B[ce]C[W has bad shape.RIGHT]))
+(;B[eb];W[ec])
+(;B[bb];W[ce];B[bd];W[db])
+(;B[be];W[ce];B[bd];W[db]C[Bad for B])
+(;B[ce];W[db]C[B can do better.]))

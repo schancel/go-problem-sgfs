@@ -1,0 +1,38 @@
+(;GE[life and death]DI[4k]DP[30]SO[santa c]CO[6]AB[ah]AB[bh]AB[ci]AB[cj]AB[ck]AB[cl]AB[bm]AB[am]AW[ag]AW[bg]AW[cf]AW[ch]AW[dh]AW[di]AW[dl]AW[dj]AW[dk]AW[dm]AW[cm]AW[bn]AW[an]AW[co]C[How many ways to wipe this Black group off the board?FORCE]AB[aj]LB[fh:0]LB[fi:1]LB[fj:2]LB[fk:3]LB[fl:4]LB[fm:5]AP[goproblems]
+(;W[fi];B[fl]C[Correct - Which move would it be? :)]
+(;W[bi]
+(;B[bk]
+(;W[ai]C[Well done! :)RIGHT]TR[bj]TR[al])
+(;W[al]C[Well done! :)RIGHT]TR[bl]TR[ai]))
+(;B[bj]
+(;W[ai]C[RIGHT])
+(;W[ak]TR[ai]TR[bl]C[RIGHT])
+(;W[bl]C[RIGHT]))
+(;B[ak]
+(;W[ai]TR[bj]TR[bl]C[RIGHT])
+(;W[bl]TR[al]TR[ai]C[RIGHT])
+(;W[bj]TR[ai]TR[bl]C[RIGHT]))
+(;B[bl]
+(;W[ai]TR[bj]TR[ak]C[RIGHT])
+(;W[bj]C[RIGHT])
+(;W[ak]TR[bj]TR[ai]C[RIGHT]))
+(;B[ai]
+(;W[ak];B[bj];W[bl]C[RIGHT])
+(;W[bl]C[RIGHT]))
+(;B[al]
+(;W[ai]TR[bk]TR[bj]C[RIGHT])
+(;W[bj]C[RIGHT])
+(;W[bk]TR[bj]TR[ai]C[RIGHT])))
+(;W[ai];B[bi]C[:(])
+(;W[bj];B[bi]C[:(])
+(;W[bk];B[bl]C[:(])
+(;W[ak];B[bi]C[:(]TR[bl]TR[bk])
+(;W[bl];B[bk]
+(;W[bi];B[al];W[ai];B[bj]C[:(])
+(;W[al];B[bi]C[:(]))
+(;W[al];B[bl]C[:(]))
+(;W[fh]C[The correct anwser is 1. Please use 'Navigate Solution' under 'Show Solution' after the correct anwser to see for yourself.])
+(;W[fj]C[The correct anwser is 1. Please use 'Navigate Solution' under 'Show Solution' after the correct anwser to see for yourself.])
+(;W[fk]C[The correct anwser is 1. Please use 'Navigate Solution' under 'Show Solution' after the correct anwser to see for yourself.])
+(;W[fl]C[The correct anwser is 1. Please use 'Navigate Solution' under 'Show Solution' after the correct anwser to see for yourself.])
+(;W[fm]C[The correct anwser is 1. Please use 'Navigate Solution' under 'Show Solution' after the correct anwser to see for yourself.]))

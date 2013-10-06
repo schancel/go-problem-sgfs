@@ -1,0 +1,4 @@
+(;GE[life and death]DI[8k]DP[48]SO[Emurga]CO[0]AB[fd]AB[gd]AB[fg]AB[ff]AB[fh]AB[eg]AB[dg]AB[dh]AB[ei]AB[he]AB[hf]AB[hg]AW[fc]AW[gc]AW[ed]AW[ee]AW[ef]AB[fe]AW[df]AW[cg]AW[ch]AW[ci]AW[dj]AW[ej]AW[fi]AW[gi]AW[gg]AW[hh]AW[ii]AW[ig]AW[if]AW[ie]AW[id]AW[hd]C[Black to play and live (3 moves)]AP[goproblems]
+(;B[gf];W[gh];B[di]C[Two eyes (A and B).  Black is living.RIGHT]LB[eh:A]LB[ge:B])
+(;B[gh];W[gf];B[ge];W[di]TR[ei]C[The marked stone is dead destroying the lower eye.  Black is dead.])
+(;B[di];W[gf]TR[he]TR[hf]TR[hg]C[If you connect at B, white next move is A and you'll have only one eye.  If you cut white at A, white response will be at B capturing the marked stones.]LB[gh:A]LB[ge:B]))

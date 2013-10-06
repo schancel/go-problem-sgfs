@@ -1,0 +1,38 @@
+(;GE[life and death]DI[2k]DP[21]SO[bass]CO[7]AB[aq]AB[bq]AB[cq]AB[dq]AB[eq]AB[er]AB[es]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AW[fs]AW[cr]LB[cn:N]LB[en:H]C[N=normal, H=hardFORCE]AP[goproblems]
+(;B[cn];W[en]C[ok, go ahead. Black must avoid ko.]
+(;B[bs];W[br]
+(;B[cs];W[ar];B[ds]C[RIGHT])
+(;B[ar];W[cs]C[1000-year ko.]))
+(;B[ar];W[bs];B[ds];W[br];B[cs]C[RIGHT])
+(;B[br];W[bs]
+(;B[dr];W[cs]C[white will later start a ko with A2.])
+(;B[ds];W[ar]C[Two step ko.]))
+(;B[cs];W[bs]
+(;B[br];W[ds]C[white can later start a ko with A2.]))
+(;B[ds]
+(;W[ar]
+(;B[br];W[bs]C[ko.])
+(;B[cs];W[bs]C[black dies.])
+(;B[bs];W[br];B[cs]C[RIGHT]))
+(;W[cs];B[br];W[bs];B[ar]C[RIGHT])))
+(;B[en];W[cn]C[Ok, we all know the usual answer. Let's try something else :-)]
+(;B[bs]C[NOTTHIS])
+(;B[ar]
+(;W[cs];B[br];W[bs];B[ds]C[RIGHT])
+(;W[br];B[cs]C[RIGHT])
+(;W[bs];B[ds]C[RIGHT])
+(;W[ds]C[this is a mistake by white.];B[bs];W[br]C[RIGHT]))
+(;B[ds]
+(;W[bs]
+(;B[ar]C[RIGHT])
+(;B[br];W[ar]C[two step ko.])
+(;B[cs];W[ar]C[oops.]))
+(;W[br];B[cs]C[RIGHT])
+(;W[cs];B[br];W[bs];B[ar]C[RIGHT])
+(;W[ar];B[bs]C[RIGHT]))
+(;B[br];W[bs]
+(;B[ds];W[ar]C[two step ko.])
+(;B[dr];W[cs]))
+(;B[cs];W[bs]
+(;B[ds];W[ar])
+(;B[br];W[ds]))))

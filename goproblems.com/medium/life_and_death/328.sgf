@@ -1,0 +1,15 @@
+(;GE[life and death]DI[2d]DP[13]SO[Spirit]CO[9]AB[bp]AB[bs]AB[co]AB[cp]AB[do]AB[dr]AB[eo]AB[er]AB[fp]AB[fq]AB[gp]AB[gr]AB[hq]AB[in]AB[io]AB[ip]AB[iq]AB[jq]AW[ar]AW[bn]AW[br]AW[cm]AW[cq]AW[cr]AW[dm]AW[dp]AW[dq]AW[ds]AW[ep]AW[eq]AW[fm]AW[fo]AW[go]AW[hm]AW[ho]AW[hp]AW[hr]AW[ir]AW[jl]AW[jr]AW[kn]AW[kp]AW[kq]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[es]MN[1]
+(;B[fr]C[CHOICE]
+(;W[gs];B[cs];W[as];B[cs];W[bs];B[hs];W[is];B[gq]C[FORCE];W[fs];B[bq]C[FORCE]
+(;W[kr];B[aq]
+(;W[hs];B[cs];W[cr]C[Black is dead.RIGHT])
+(;W[cs];B[hs]))
+(;W[hs];B[aq]C[FORCE]
+(;W[cs];B[kr])
+(;W[kr]))
+(;W[cs];B[aq]))
+(;W[cs];B[fs]))
+(;B[fs];W[fr];B[er];W[en];B[fr];W[dn];B[dr];W[cn];B[cs];W[bo];B[aq];W[ao];B[ds];W[ap]C[RIGHT]))
+(;W[cs];B[es];W[gs];B[fr];W[hs];B[bq];W[fs];B[gq])
+(;W[gs];B[fs];W[hs];B[cs]))

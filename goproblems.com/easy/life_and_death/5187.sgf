@@ -1,0 +1,13 @@
+(;GE[life and death]DI[5k]DP[34]SO[peto.franek]CO[8]SZ[19]AW[sc]AW[rd]AW[qe]AW[re]AW[qf]AW[qg]AW[sg]AW[rh]AW[ri]AB[qc]AB[rc]AB[pd]AB[qd]AB[pe]AB[pf]AB[sf]AB[pg]AB[qh]AB[qi]AB[qj]AB[rj]LB[pa:N]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[si]C[]
+(;W[rf]
+(;B[sj]C[RIGHT]C[White cannot connect at T12RIGHT])
+(;B[se];W[sd]C[White lives]))
+(;W[se];B[rf]C[RIGHT]))
+(;B[pa]C[White could be killed])
+(;B[rf];W[si]C[White lives])
+(;B[sd];W[si]C[White lives])
+(;B[sb];W[si]
+(;B[se];W[sd]C[White lives])
+(;B[sd];W[se]C[White lives]))
+(;B[se];W[si]C[White lives]))

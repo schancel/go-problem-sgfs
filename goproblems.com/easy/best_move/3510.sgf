@@ -1,0 +1,10 @@
+(;GE[best move]DI[5k]DP[32]SO[kochi]CO[8]AB[cc]AB[dc]AB[ec]AB[fb]AW[eb]AW[ed]AW[fc]AW[gc]AW[ce]AW[de]AW[be]AP[goproblems]
+(;B[gb];W[hb]
+(;B[db];W[ga];B[ea];W[hc]C[B kept senteRIGHT])
+(;B[ea];W[ga];B[db];W[hc]C[B kept sente.RIGHT]))
+(;B[db];W[gb];B[ea]C[gote.  W will play elsewhere.])
+(;B[bd];W[db];B[cb];W[gb];B[da];W[fa])
+(;B[bc];W[db]
+(;B[gb];W[hb];B[cb];W[ga])
+(;B[cb];W[gb];B[da];W[fa];B[ba];W[ab]C[dead.]))
+(;B[ea];W[gb];B[db]C[White's weaknesses here are much less than in the correct variation, therefore he doesn't need another move and will play elsewhere.]))

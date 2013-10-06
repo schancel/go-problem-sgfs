@@ -1,0 +1,47 @@
+(;GE[life and death]DI[10k]DP[53]SO[remembered]CO[0]AB[hc]AB[ic]AB[jc]AB[kc]AB[lc]AB[mb]AB[jb]AW[fb]AW[fc]AW[fd]AW[gd]AW[hd]AW[id]AW[jd]AW[kd]AW[ld]AW[md]AW[nd]AW[nc]AW[nb]AW[ja]AW[ia]SZ[19]AB[gb]C[B to play for life. not seki not ko.]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;B[ka];W[ga]
+(;B[ha];W[hb]
+(;B[ib];W[gc])
+(;B[gc];W[ha]))
+(;B[ib];W[ha];B[hb];W[fa]))
+(;B[ha];W[ka]
+(;B[ma]C[RIGHT])
+(;B[la];W[na]
+(;B[ma];W[mc];B[lb];W[fa]
+(;B[ga];W[gc];B[hb])
+(;B[ib];W[ga]
+(;B[kb]C[];W[gc]C[only ko])
+(;B[hb])))
+(;B[kb];W[ma]
+(;B[lb];W[fa]
+(;B[ga];W[gc]
+(;B[hb])
+(;B[ib]C[RIGHT]))
+(;B[ib]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[ib]C[RIGHT])
+(;B[mc];W[lb];B[ib];W[la]))
+(;B[mc];W[ma]
+(;B[kb];W[lb];B[ib];W[la])
+(;B[lb];W[fa]
+(;B[ib];W[ga];B[kb]C[];W[gc];B[ja];W[hb])
+(;B[ga];W[gc];B[hb])))
+(;B[lb];W[fa];B[ib];W[ga]
+(;B[kb]C[];W[gc];B[ja];W[hb])
+(;B[hb]))
+(;B[ib]C[RIGHT])
+(;B[ga]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[ib];W[ma]
+(;B[kb];W[la];B[lb];W[na])
+(;B[la];W[lb];B[kb];W[mc];B[la];W[ka];B[ja]C[RIGHT]))
+(;B[kb]C[RIGHT])
+(;B[na]C[correct, regardless whether black can escape.RIGHT]))
+(;B[la];W[ga])
+(;B[ib];W[ga];B[ha];W[hb];B[ka];W[gc]C[i shocked in real game O.O];B[ha];W[ia])
+(;B[kb];W[ga])
+(;B[hb];W[ga];B[ha];W[ma]
+(;B[la];W[mc];B[lb];W[ka])
+(;B[lb];W[ka];B[la]))
+(;B[lb];W[ga];B[ha];W[hb];B[ib];W[gc];B[ka];W[ma];B[ha];W[ia])
+(;B[ga]C[RIGHT]))

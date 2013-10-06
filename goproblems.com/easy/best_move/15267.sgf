@@ -1,0 +1,75 @@
+(;GE[best move]DI[7k]DP[42]SO[pimapis]CO[0]AB[ks]AB[jr]AB[jq]AB[jp]AB[ko]AB[lo]AB[ln]AB[mm]AB[nm]AB[om]AB[pm]AB[qm]AB[rm]AB[sm]AB[lp]AB[mp]AB[nq]AB[nr]AB[mr]AB[ms]AB[os]AW[js]AW[is]AW[ir]AW[iq]AW[ip]AW[io]AW[jo]AW[jn]AW[kn]AW[mo]AW[no]AW[nn]AW[np]AW[oq]AW[or]AW[pq]AW[qq]AW[qp]AW[pp]AW[po]AW[pn]AW[rn]AW[ro]AW[sn]AW[rr]AW[rs]AW[rp]AW[kr]C[White attacked, defend yourself. What is on the rest of the board will not influence  this pozition]AW[ps]AB[ns]AP[goproblems]
+(;B[kq]
+(;W[ls]
+(;B[lr];W[ks]C[Lost only 4 points this way.RIGHT])
+(;B[lq]C[You lost 5 points in gote.])
+(;B[pr];W[lq]
+(;B[kp];W[qr])
+(;B[lr];W[mq])
+(;B[qs];W[kp])
+(;B[mq];W[kp]))
+(;B[qs];W[lq]
+(;B[kp];W[qr])
+(;B[lr];W[mq])
+(;B[pr])
+(;B[mq];W[kp]))
+(;B[mq]C[That move costs you a point. Now White can take another point away at M2 or just tenuki.]))
+(;W[lr];B[lq];W[ls];B[ks]C[White cannot play like this of course.RIGHT]))
+(;B[ls];W[lq]
+(;B[kp];W[mq]C[])
+(;B[mq];W[kp]C[Snapback. In fact this is the position that inspired the problem.  This is much worse for Black than the correct solution.]MA[jp]MA[jq]MA[jr])
+(;B[kq];W[kp])
+(;B[lr];W[mq]))
+(;B[lr]C[]
+(;W[kq]
+(;B[kp];W[ls]
+(;B[pr]
+(;W[ks]
+(;B[qs];W[lq]
+(;B[mq]C[There is no territory left, but at least you took 4 points away from White.RIGHT])
+(;B[ps];W[mq]))
+(;B[lq];W[qr]C[There is hardly any territory left.]))
+(;W[qr];B[ks]C[As the rest of the board does not influence the problem, White has no ko threat and loses the ko. White will not play like this.RIGHT]))
+(;B[lq];W[ks]C[There's hardly any territory left.]))
+(;B[ls];W[kp])
+(;B[lq];W[kp])
+(;B[pr];W[kp])
+(;B[qs];W[kp]))
+(;W[ls]
+(;B[qs];W[lq]
+(;B[pr];W[kp])
+(;B[kq])
+(;B[kp];W[mq])
+(;B[ks];W[kq]
+(;B[kp];W[ls]
+(;B[mq];W[ks];B[pr]C[You took 4 points away from White.RIGHT])
+(;B[pr];W[ks]
+(;B[ps])
+(;B[mq]C[4 points to Black.RIGHT])))
+(;B[pr];W[kp])
+(;B[mq];W[kp]))
+(;B[mq];W[kq]
+(;B[kp])
+(;B[pr];W[kp])))
+(;B[pr];W[lq]
+(;B[ks];W[kq]
+(;B[kp];W[ls]
+(;B[mq];W[ks];B[qs]C[4 points to Black.RIGHT])
+(;B[qs]))
+(;B[qs])
+(;B[mq];W[kp])
+(;B[ls];W[mq]))
+(;B[mq];W[kq]
+(;B[ks];W[kp])
+(;B[kp])
+(;B[qs]))
+(;B[qs])
+(;B[kp];W[mq])
+(;B[kq]))
+(;B[kq])
+(;B[lq];W[kq]
+(;B[kp])
+(;B[ks];W[kp]))))
+(;B[lq];W[kq]
+(;B[kp];W[ls])
+(;B[lr])))

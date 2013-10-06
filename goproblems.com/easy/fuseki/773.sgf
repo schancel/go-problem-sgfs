@@ -1,0 +1,35 @@
+(;GE[fuseki]DI[5k]DP[32]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+PL[B]
+LB[yy:1][ci:B][ck:D][mc:C][qh:A][jq:E]AB[jc][pe][po][pq][qd][ql]
+AW[ce][cp][dc][eq][oc][qj]
+(;B[qh]
+C[RIGHT
+If White A, Black B and vica versa.
+If White C, Black D, E, F and black has 
+closed the upper side.]
+LB[qh:1][kp:A][ck:B][lc:C][nd:D][nc:E][ld:F]MN[1]
+)(;B[mc]
+;W[qg]
+C[The marked white stone retains some 
+potential  and the 2 space extension 
+acts as a wedge between the black 
+forces.]
+LB[qg:2]TR[oc])(;B[ci]
+;W[ck]
+C[black 2 is of the mark as he can't make 
+a 2 space extension on the left. If you 
+want to go in 'D' would be the proper 
+move.]
+)(;B[ck]
+;W[qg]
+LB[qg:2][ck:1]C[This move is simply perfect for white.
+Black 1 is a little slack.]
+)(;B[jq]
+C[The 2nd best move]
+;W[qg]
+C[The 2nd best move.]
+))

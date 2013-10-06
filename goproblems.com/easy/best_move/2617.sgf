@@ -1,0 +1,20 @@
+(;GE[best move]DI[6k]DP[37]SO[ferdi]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ba][bb][ac][cc][ad][cd]AB[ca][ab][cb][dc][dd]C[Black to play - what's the best he can do?]
+;B[bc]CR[bc]
+(;W[db]CR[db]
+;B[aa]CR[aa]
+(;W[bd]CR[bd]
+(;B[bb]CR[bb]
+;W[dc]CR[dc]C[Seki & Jigo (2 prisoners each)! RIGHT])
+(;B[dc]CR[dc]
+;W[bb]CR[bb]C[Uh oh... White wins!])
+(;B[da]CR[da]
+;W[bb]CR[bb]C[Uh oh... White wins!]))
+(;W[bb]CR[bb]
+;B[bd]CR[bd]
+;W[ac]CR[ac]C[Nice try, but since there is no stone at D4, Black can capture at B4.]))
+(;W[bd]CR[bd]
+;B[bc]CR[bc]C[This was easy :)])
+(;W[aa]CR[aa]
+;B[ab]CR[ab]C[This was easy :)]))

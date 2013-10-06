@@ -1,0 +1,16 @@
+(;GE[elementary]DI[25k]DP[77]SO[ZeroTalent]CO[8]AB[ed][fd][gd][hd][id][ie][jf][jg][jh][ii][hi][gi][fi][ei][eh][dg][df][ee]AW[fe][ge][he][ff][ef][eg][fh][gh][hh][ih][ig][if]C[Black to play and kill]
+
+(;B[gg];W[hg]
+(;B[gf]C[RIGHT])
+(;B[hf];W[gf]C[WRONG])
+(;B[fg];W[gf]C[WRONG]))
+(;B[gf];W[gg]
+(;B[hf];W[hg]C[WRONG])
+(;B[hg];W[hf]C[WRONG]))
+(;B[fg];W[gg]C[WRONG])
+(;B[hg];W[gg]
+(;B[hf]C[WRONG])
+(;B[gf];W[hf]C[WRONG]))
+(;B[hf];W[gg]
+(;B[gf];W[hg]C[WRONG])
+(;B[hg]C[WRONG])))

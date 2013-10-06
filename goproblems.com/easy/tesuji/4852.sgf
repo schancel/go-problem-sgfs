@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[8k]DP[49]SO[MrMoto]CO[7]AW[jj]AW[ik]AW[jk]AW[kk]AW[lk]AW[ji]AW[jh]AW[jg]AB[kg]AB[kh]AB[kj]AB[lj]AB[mi]AB[mh]AB[nh]AW[mj]AW[nj]AW[ni]AW[oi]AW[oh]AW[oj]AB[jf]AB[je]AB[jd]AW[hj]AB[gj]AB[ii]AB[gi]AB[hh]AB[hg]AB[hk]AB[hl]AB[hm]AB[im]AB[jl]AW[km]AW[lm]AB[mk]AB[nk]AB[mm]AB[nm]AB[mn]AB[mo]AB[og]AW[ng]AB[pg]AB[ph]AW[ok]AW[ol]AB[jo]AW[nn]AW[on]AW[pm]AW[pl]AB[qd]AB[oc]AB[pi]AB[qi]AW[pj]AW[qj]AB[pk]AB[qk]AW[rj]AB[ri]AW[qh]AP[goproblems]
+(;W[kf];B[ki]
+(;W[lf];B[mg]
+(;W[nf];B[mf]
+(;W[me];B[ne];W[of];B[oe])
+(;W[ne];B[me])
+(;W[lg];B[me]))
+(;W[mf];B[nf])
+(;W[lg];B[mf]))
+(;W[lg];B[lf])
+(;W[mg];B[lf])
+(;W[lh];B[lf])
+(;W[le];B[lf];W[ke];B[mf]
+(;W[me];B[nf])
+(;W[nf];B[me])
+(;W[mg];B[nf])))
+(;W[mg];B[ki])
+(;W[lg];B[ki])
+(;W[li];B[ki]
+(;W[kf];B[lf])
+(;W[mg];B[lh]))
+(;W[lh];B[ki])
+(;W[ki];B[li];W[mg];B[lh];W[kf]C[RIGHT])
+(;W[sa]C[White cannot play this way.]))

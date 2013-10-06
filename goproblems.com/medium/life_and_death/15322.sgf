@@ -1,0 +1,32 @@
+(;GE[life and death]DI[1k]DP[20]SO[wolverest]CO[0]AB[ps]AB[pr]AB[pq]AB[pp]AB[qo]AB[qn]AB[rn]AB[sn]AW[sm]AW[rm]AW[qm]AW[pm]AW[pn]AW[po]AW[op]AW[oq]AW[or]AW[os]AW[oo]C[can white kill black? Unconditionally!]LB[ol:Y]LB[om:N]AP[goproblems]
+(;W[ol]C[No black is alive!])
+(;W[om];B[ol]C[Then what's the best white can get! ko threat W0 B1];W[rp];B[qp]
+(;W[rr];B[rq];W[sq];B[qq]
+(;W[sr];B[rs]C[RIGHT]
+(;W[qr];B[sp]
+(;W[ro];B[so])
+(;W[so];B[qs]C[Yes seki!RIGHT]))
+(;W[sp]C[Yes seki!RIGHT])
+(;W[ss];B[sp];W[so];B[ro])
+(;W[so];B[ro];W[sp];B[qs]C[RIGHT])
+(;W[qs])
+(;W[nn]C[RIGHT]))
+(;W[rs];B[sp];W[so];B[ro])
+(;W[sp];B[rs]
+(;W[ss];B[sr]C[Ko, not the best!])
+(;W[sr]C[Right!RIGHT])
+(;W[qr];B[sr];W[ss]C[Ko, not the best!])
+(;W[qs];B[qr]))
+(;W[qs]C[]
+(;B[rs]
+(;W[ss];B[qr]C[]
+(;W[sp];B[rs];W[sr];B[so];W[qs]C[ko])
+(;W[sr];B[rs];W[sp];B[so];W[qs]C[ko])
+(;W[so];B[rs]C[ko]))
+(;W[sr];B[qr]C[RIGHTRIGHT])
+(;W[sp];B[qr];W[sr]C[RIGHT])
+(;W[so];B[qr];W[sr]C[RIGHT])))
+(;W[qr];B[rs];W[sr];B[qs]C[RIGHT]))
+(;W[rq];B[rr]
+(;W[rs];B[sr];W[qr];B[qq])
+(;W[sr];B[rs]))))

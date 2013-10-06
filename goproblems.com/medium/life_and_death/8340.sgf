@@ -1,0 +1,14 @@
+(;GE[life and death]DI[1k]DP[18]SO[yorkson]CO[6]AB[br][cq][cp][dp][ep][gp][gq][bo][ao][cn][gn]AW[bp][bq][cr][dq][eq][ds][hq][iq]
+C[White to live.]AP[MultiGo:4.2.1]SZ[19]MULTIGOGM[0]
+
+(;W[gr];B[fr];W[fs]C[RIGHT])
+(;W[fr];B[gr]
+(;W[fs];B[er];W[ar];B[bs];W[aq];B[fq];W[dr];B[gs])
+(;W[ar];B[bs]
+(;W[fs];B[er]TR[fq][aq]C[:(])
+(;W[aq];B[fq];W[er];B[fs];W[cs];B[gs]LB[es:A]C[White can't play at A, D2 is a false eye]))
+(;W[er];B[fs];W[ar];B[bs];W[aq];B[fq];W[cs];B[gs]LB[es:A]C[White can't play at A, D2 is a false eye]))
+(;W[er];B[fr];W[ar];B[bs];W[aq];B[fs]
+(;W[cs];B[fq]LB[es:A]C[White can't play at A, D2 is a false eye])
+(;W[es];B[fq]))
+(;W[ar]C[NOTTHIS]))

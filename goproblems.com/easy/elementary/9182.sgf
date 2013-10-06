@@ -1,0 +1,4 @@
+(;GE[elementary]DI[20k]DP[73]SO[AndyLau]CO[6]AB[af]AB[bf]AB[cf]AB[ce]AB[dd]AB[ee]AB[ec]AB[db]AB[ca]AB[da]AB[ea]AW[ae]AW[be]AW[ad]AW[cd]AW[dc]AW[cc]AW[cb]AW[ba]AW[bb]AP[goproblems]
+(;B[ac];W[bd];B[ab]C[If white captures the 2 stones, white is left with a dead shape inside. White is dead because black can almost fill with a killable shape inside.RIGHT])
+(;B[ab];W[ac])
+(;B[bc];W[ac]))

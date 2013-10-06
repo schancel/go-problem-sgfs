@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[8k]DP[49]SO[meh]CO[8]AB[jj]AB[ik]AB[il]AB[kk]AB[lk]AB[mk]AW[kj]AW[lj]AW[mj]AW[nk]AW[ji]AW[ii]AB[ki]AW[hh]AB[ng]C[Can w capture the cutting stone? Play T to tenuki if you don't think so...]LB[kf:T]AP[goproblems]
+(;W[lh];B[kh];W[kg]
+(;B[jh];W[jg]
+(;B[li];W[mi];B[ih];W[ig]C[RIGHT])
+(;B[ih];W[ig];B[hi];W[li]C[RIGHT]))
+(;B[li];W[mi];B[mh]
+(;W[lg];B[ni];W[jh];B[nj]C[Not the best result - w doesn't have to let the o9 stone get cut off.])
+(;W[jh]C[RIGHT])))
+(;W[kh];B[li]
+(;W[mi];B[lh];W[lg]C[What now?])
+(;W[mh];B[mi]
+(;W[nj];B[ni]C[... and b plays the atari and escapes.])
+(;W[ni];B[nj]C[The goal is to capture the cutting stone, not to get your own stones captured. :p])))
+(;W[li];B[kh];W[lh];B[kg]C[B escaped!])
+(;W[kf]C[B can be captured.]))

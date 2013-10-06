@@ -1,0 +1,65 @@
+(;GE[life and death]DI[3d]DP[9]SO[Field Mouse]CO[8]AB[je]AB[ke]AB[le]AB[lf]AB[lg]AB[lh]AB[li]AB[ki]AB[ji]AB[ii]AB[hi]AB[gi]AB[gh]AB[gg]AB[ge]AB[gf]AB[he]AB[ie]AW[kd]AW[ld]AW[md]AW[me]AW[mf]AW[mg]AW[mh]AW[mi]AW[lj]AW[kj]AW[jj]AW[ij]AW[gj]AW[hj]AW[fj]AW[fi]AW[fh]AW[fg]AW[ff]AW[fe]AW[fd]AW[gd]AW[hd]AW[id]AW[jd]AW[mj]AW[kf]C[Black to play and live. After each blacks move white has two moves in a row!]AP[goproblems]
+(;B[kg]AW[jg];W[jh]
+(;B[jf]AW[ih];W[hg]
+(;B[if]C[Good, white cannot capture black any more! RIGHT])
+(;B[hf]AW[if];W[hh]C[Black cannot win this ko - white can anytime just say pass and take. And when black runs out of threats, white can play L12 and L14 to capture.])
+(;B[hh]AW[if]C[Specific form of seki - black does not live with points, but ok, you solved it :)RIGHT]))
+(;B[hg]AW[if];W[ih]
+(;B[jf]C[Good! White cannot win anymore.RIGHT])
+(;B[ig]AW[jf];W[kh]C[Not a seki, black is dead, next turn white will play both places to capture.]))
+(;B[if]AW[hg];W[jf];B[ig]AW[ih];W[hh]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[ih]AW[hg];W[jf];B[ig]AW[hf];W[if]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[ig]AW[jf];W[if];B[ih]AW[hg];W[hf]C[Not a seki, black is dead, next turn white will play both places to capture.]))
+(;B[jf]AW[jg];W[kg]
+(;B[hg]AW[ig];W[if]
+(;B[ih]C[Good, white cannot capture black any more!RIGHT])
+(;B[jh]AW[ih];W[hh]C[Not a seki, black is dead, next turn white will play both places to capture.]))
+(;B[ig]AW[ih];W[hg]
+(;B[if]AW[hh];W[jh]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[hf]AW[jh];W[if]C[Black has no chance in this ko - white can pass and retake any time.]))
+(;B[ih]AW[ig];W[hg]C[Not a seki, black is dead.]))
+(;B[jg]AW[jf]
+(;W[kg]
+(;B[ig]AW[if];W[hg]C[Black is in trouble.])
+(;B[jh]AW[ig];W[if])
+(;B[if]AW[jh];W[ig];B[hg]AW[kh];W[ih]C[Next, white will play H12 and 14 and wins.])
+(;B[hg]AW[if];W[ih]
+(;B[ig]AW[jh];W[kh])
+(;B[jh]AW[ig];W[kh]))))
+(;B[hg]AW[if];W[ih]
+(;B[jf]AW[kg];W[ig];B[jg]AW[jh];W[kh])
+(;B[ig]AW[jf];W[jh]
+(;B[jg]AW[kg];W[kh]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[kg]AW[jg];W[kh]C[Not a seki, black is dead, next turn white will play both places to capture.]))
+(;B[kg]AW[jf];W[jh]C[Not a seki, black is dead.])
+(;B[jg]AW[ig];W[jf]C[Not a seki, black is dead.])
+(;B[jh]AW[ig];W[kg];B[jg]AW[jf];W[hf]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[kh]AW[jf];W[ig]))
+(;B[if]AW[hg];W[jh]
+(;B[kg]AW[jg];W[jf];B[ig]AW[ih];W[hh]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[jg]AW[kg];W[ig]C[];B[kh];W[jf]AW[jg]C[Not a seki, black is dead.])
+(;B[ig]AW[ih];W[hh]
+(;B[kg]AW[jg];W[jf])
+(;B[jg]AW[kg];W[kh]))
+(;B[ih]AW[ig];W[jg]))
+(;B[ig]AW[hg];W[if]
+(;B[jf]AW[jg];W[ih];B[kg]AW[jh];W[hf]C[Not a seki, black is dead.])
+(;B[jg]AW[jf];W[kg];B[hf]AW[jh];W[ih])
+(;B[kg]AW[jg];W[jf]
+(;B[ih]AW[hf];W[jh]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[jh]AW[hf];W[ih]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[hf]AW[jh];W[ih]C[Not a seki, black is dead.]))
+(;B[hf]AW[jg];W[ih])
+(;B[ih]AW[hf];W[jf]
+(;B[jg]AW[kg];W[kh])
+(;B[kg]AW[jg];W[jh])))
+(;B[ih]AW[hg];W[jf]
+(;B[kg]AW[jg];W[jh];B[ig]AW[if];W[hf]C[Not a seki, black is dead, next turn white will play both places to capture.])
+(;B[jg]AW[kg];W[ig];B[kh]AW[if];W[jh]C[Black really cannot win this ko in such rule system.])
+(;B[ig]AW[if];W[hf]
+(;B[jg]AW[kg];W[kh])
+(;B[kg]AW[jg];W[jh])))
+(;B[jh]AW[kg];W[ig];B[hg]AW[if];W[ih]C[Not a seki, black is dead.])
+(;B[kh]AW[jg];W[ig];B[hg]AW[if];W[ih]C[Not a seki, black is dead.])
+(;B[hf]AW[ig];W[jg]C[Not a seki, black is dead.])
+(;B[hh]AW[ig];W[jg]C[Not a seki, black is dead.]))

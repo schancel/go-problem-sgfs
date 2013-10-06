@@ -1,0 +1,67 @@
+(;GE[life and death]DI[6d]DP[3]SO[vlkplk]CO[9]SZ[19]AB[qa]AB[pa]AB[pb]AB[pc]AB[pd]AB[pe]AB[pf]AB[qf]AB[qg]AB[qh]AB[rh]AB[sh]AW[nb]AW[nd]AW[of]AW[og]AW[oi]AW[pi]AW[qi]AW[ri]AW[qb]AW[rb]AW[sb]AW[rd]AW[qe]AW[rf]AW[rg]C[This problem is taken from Japanese newspapers. They claim its difficulty to be 3rd to 4th dan. Black to move.]GM[1]VW[]
+(;B[rc];W[qc]
+(;B[qd];W[re];B[sg];W[sf];B[sd];W[sc]C[])
+(;B[sf];W[se];B[sg];W[sc];B[re];W[rf]C[])
+(;B[sg];W[sc];B[ra];W[sf];B[re];W[se];B[qd];W[re]C[])
+(;B[se];W[re];B[sg];W[sf];B[qd];W[sc]C[])
+(;B[ra];W[sc];B[sf];W[se];B[sg];W[re]C[]))
+(;B[qc];W[rc]
+(;B[ra];W[sg]
+(;B[se];W[sd];B[re];W[sf];B[re];W[qd];B[se];W[rf]C[])
+(;B[sd];W[se]C[]))
+(;B[sg];W[ra];B[se];W[re]C[]))
+(;B[sf];W[se];B[sg];W[qc])
+(;B[se];W[re];B[sg];W[sf]
+(;B[ra];W[qc]C[])
+(;B[qc];W[rc]C[]))
+(;B[ra];W[sg]
+(;B[se];W[sd];B[re];W[sf];B[re];W[qd];B[se];W[rf]C[])
+(;B[qc];W[rc];B[se];W[sd];B[re];W[sf];B[re];W[qd];B[se];W[rf]C[])
+(;B[qd];W[re]C[])
+(;B[sd];W[qc]
+(;B[qd];W[re]C[])
+(;B[se];W[sc];B[re];W[sf];B[re];W[se];B[qd];W[re]C[])
+(;B[sc];W[se]C[])))
+(;B[sd];W[qc]
+(;B[se];W[re]
+(;B[sg];W[sf]
+(;B[sc];W[ra]C[])
+(;B[qd];W[sc]C[])
+(;B[ra];W[sc]C[]))
+(;B[ra];W[sc];B[sg];W[sf]C[]))
+(;B[sf];W[re];B[sg];W[se]C[])
+(;B[sg];W[se]
+(;B[ra];W[sc];B[sf];W[re]C[])
+(;B[qd];W[re]
+(;B[ra];W[sc]C[])
+(;B[sf];W[sc]C[])
+(;B[sc];W[ra]C[]))
+(;B[sc];W[ra];B[sf];W[re]C[])
+(;B[sf];W[re]
+(;B[sc];W[ra]C[])
+(;B[ra];W[sc]C[])
+(;B[qd];W[sc]C[])))
+(;B[ra];W[re]
+(;B[sc];W[sg];B[se];W[qd]C[White lives.])
+(;B[sg];W[sc]C[])))
+(;B[sc];W[qc]
+(;B[se];W[re];B[sg];W[sf];B[ra];W[sd]C[])
+(;B[sf];W[re];B[sg];W[ra]C[])
+(;B[sd];W[se];B[qd];W[re]C[])
+(;B[sg];W[ra];B[se];W[re];B[sf];W[sd]C[])
+(;B[ra];W[sg]
+(;B[se];W[sd];B[re];W[sf];B[re];W[qd];B[se];W[rf]C[])
+(;B[sd];W[se];B[qd];W[re]C[])))
+(;B[sg];W[ra]
+(;B[sd]
+(;W[se]
+(;B[qd]
+(;W[qc]
+(;B[sf];W[sc];B[re];W[sd]C[Black lives in sente.RIGHT])
+(;B[re];W[sc];B[sf];W[sd]C[Another possibiliy. Black lives in senteRIGHT])
+(;B[sc];W[re]))
+(;W[sc];B[qc]))
+(;B[rc];W[qc];B[qd];W[sc];B[re]C[In this case black can live but in gote, so it's not the best result.];W[sd];B[sf]))
+(;W[re]))
+(;B[sf];W[sd];B[re];W[qd])
+(;B[rc];W[qc];B[qd])))

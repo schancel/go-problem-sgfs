@@ -1,0 +1,44 @@
+(;GE[endgame]DI[8k]DP[46]SO[varg]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[13]HA[0]KM[0.5]
+PW[]
+PB[]
+GN[ (W) vs.  (B)]
+DT[2002-05-12]
+SY[Cgoban 1.9.5]TM[-];PL[2]
+C[White to play the biggest endgame move on the upper or right side. The lower
+left or the center are not existing for you.
+ ]
+AW[fb][hb][cc][hc][ic][jd][ie][jf][jg][jh][ki][kj][kk][lk][mk]
+AB[ib][jb][kc][lc][ld][je][ke][kf][kg][lg][kh][li][lj]
+(;W[mj];B[mi]C[1 point in sente is not the biggest.
+])
+
+(;W[mi];B[mh];W[mj]
+C[White n5 has been a 4 point gote play and a simple edgame tesuji. 
+If you wonder why it´s not three points:
+White m6 is a 1 point sente move later, so we add this point to the three points white has destroyed.
+RIGHT
+])
+
+(;W[ia];B[jc];W[ja];B[ka];W[ha]
+C[J13 was 2 points in gote and a mistake as it allowed black to play k11.
+])
+
+(;W[jc];B[mj]
+C[black tenukis on the upper side and plays the bigger point.
+]
+(;W[kb];B[lb];W[ia];B[ka]
+C[k11 was 3 points in gote, not the biggest point.
+])
+
+(;W[ia];B[ka]C[k11 was 3 points in gote, not the biggest point
+])
+)
+
+(;W[kb];B[jc]C[
+])
+
+(;W[le];B[kd]C[
+])
+
+)

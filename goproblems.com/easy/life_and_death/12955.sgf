@@ -1,0 +1,20 @@
+(;GE[life and death]DI[10k]DP[50]SO[stro]CO[0]AB[pb]AB[qb]AB[qc]AB[rd]AB[sd]AW[se]AW[re]AW[qe]AW[pc]AW[pd]AW[ob]AW[nc]AW[qd]TR[qd]C[Easy problem, black to avoid slipping up and losing the corner]AP[goproblems]
+(;B[rc];W[sb]
+(;B[ra];W[pa])
+(;B[pa];W[ra])
+(;B[rb];W[ra]))
+(;B[sb];W[pa]
+(;B[ra]C[R19 is betterRIGHT])
+(;B[qa]C[White just has ko threats, well done :)RIGHT])
+(;B[rc]C[RIGHT])
+(;B[rb]C[RIGHT]))
+(;B[rb];W[sb]
+(;B[rc];W[ra])
+(;B[ra];W[rc])
+(;B[pa];W[rc])
+(;B[sc];W[rc]))
+(;B[ra];W[sb]
+(;B[rc];W[pa])
+(;B[pa];W[rc]))
+(;B[pa];W[rc])
+(;B[sc];W[sb]))

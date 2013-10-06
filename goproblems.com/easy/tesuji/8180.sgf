@@ -1,0 +1,38 @@
+(;GE[tesuji]DI[4k]DP[30]SO[huhss]CO[3]AB[fo]AB[dq]AB[eq]AB[fq]AB[ep]AB[iq]AB[fn]AB[gn]AB[ho]AB[ip]AB[ls]AB[ir]AB[jo]AB[ko]AB[kn]AB[lp]AB[mp]AB[nq]AB[nr]AB[mr]AB[pj]AW[dr]AW[cq]AW[dp]AW[do]AW[cn]AW[go]AW[gp]AW[io]AW[in]AW[jn]AW[hm]AW[jp]AW[kp]AW[jq]AW[jr]AW[js]AW[kr]AW[lr]AW[lq]AW[mq]AW[hn]AW[lo]C[White first - save the white group on the bottom side(many solutions)]SZ[19]AP[SSH]
+(;W[hr];B[hq]
+(;W[gq];B[gr]
+(;W[hp];B[hs];W[is];B[hr];W[fr]C[RIGHT])
+(;W[hs];B[fp]C[])
+(;W[is];B[hs];W[hp]C[RIGHT]))
+(;W[mo];B[np]
+(;W[gq];B[gr];W[is];B[hs];W[hp];B[hr];W[fr]C[RIGHT])
+(;W[km]C[Aji keshi])))
+(;W[lm];B[ln];W[mo]
+(;B[np];W[mn];B[km];W[kl];B[jm];W[jl]C[RIGHT])
+(;B[mn];W[np]C[RIGHT]))
+(;W[gr];B[gq];W[hq];B[hr];W[hp];B[fr]C[])
+(;W[mo];B[np]
+(;W[km]C[, ladder doesn't work])
+(;W[lm];B[km];W[kl];B[jm];W[jl]C[RIGHT])
+(;W[hr];B[ln]C[Aji keshi.]LB[mo:1]LB[np:2]))
+(;W[gq];B[is])
+(;W[ln]C[];B[km];W[np];B[mo]
+(;W[op];B[pq];W[mn];B[no];W[on]C[RIGHT])
+(;W[lm];B[kl];W[op];B[pq];W[nn]C[RIGHT])
+(;W[mn];B[no];W[op];B[pq]))
+(;W[mn];B[mo];W[np];B[no];W[op];B[oo];W[pp];B[pr];W[ln];B[km];W[mm]
+(;B[kl];W[pn]C[RIGHT])
+(;B[om];W[kl]C[RIGHT]))
+(;W[np];B[mo]
+(;W[op]
+(;B[mn];W[pr];B[oq];W[pq];B[pp];W[po];B[qp];W[oo];B[is]
+(;W[or];B[ms];W[os]C[RIGHT])
+(;W[os];B[ms];W[or]C[RIGHT])
+(;W[ms];B[ns]
+(;W[os]C[RIGHT])
+(;W[or]C[RIGHT]))
+(;W[ns];B[os];W[or];B[ms];W[ps];B[qq]))
+(;B[pq];W[ln];B[km]))
+(;W[ln];B[km]))
+(;W[km];B[ln];W[mo];B[np]C[Aji keshi.])
+(;W[no];B[np]C[Aji keshi.]))

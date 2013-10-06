@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[41]SO[DarkSycthe]CO[0]AW[aq]AW[bq]AW[cq]AW[cr]AW[dq]AW[es]AW[fr]AW[gr]AW[hr]AW[hs]AB[is]AB[ir]AB[iq]AB[gq]AB[hq]AB[fq]AB[eq]AB[dp]AB[cp]AB[bp]AB[ap]AB[ep]AB[bs]C[What if black decides to play A instead of B? How should white respond?]LB[bs:A]LB[er:B]AP[goproblems]
+(;W[cs];B[er];W[fs]C[];B[ds];W[dr];B[ar]C[Seki.])
+(;W[er];B[cs]
+(;W[ds];B[ar]C[Seki. Not the best.])
+(;W[ar]C[RIGHT])
+(;W[br]C[RIGHT])
+(;W[dr]C[RIGHT]))
+(;W[br];B[er]
+(;W[fs];B[ds];W[cs];B[dr];W[as]C[Life, but could be better.])
+(;W[cs];B[fs];W[as]C[Life, but could be better.]))
+(;W[fs];B[cs]
+(;W[dr];B[ar]
+(;W[ds];B[er]C[Seki.])
+(;W[er];B[br]C[Seki.])
+(;W[br];B[er];W[as]C[Ko.]))
+(;W[er];B[ar]C[Seki.])
+(;W[ds];B[ar]C[Seki.]))
+(;W[ds];B[er];W[fs];B[dr]
+(;W[cs];B[ar]C[Seki.])
+(;W[br];B[ar];W[as]C[Ko.]))
+(;W[dr];B[er];W[fs];B[ds]
+(;W[cs];B[ar]C[Seki.])
+(;W[br];B[ar]
+(;W[cs];B[ds])
+(;W[as]C[Ko.]))))

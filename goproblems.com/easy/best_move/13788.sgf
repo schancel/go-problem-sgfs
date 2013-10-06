@@ -1,0 +1,6 @@
+(;GE[best move]DI[7k]DP[41]SO[elciego]CO[0]AW[bc]AW[cb]AB[cc]AB[bd]AW[be]AW[cd]AB[dc]AB[ec]AB[ed]AB[fb]AW[fc]AW[gc]AW[hb]AW[ib]AW[jb]AW[jc]AW[kc]AW[kd]AW[ld]AW[md]AW[je]AW[jf]AW[kf]AW[lf]AB[gd]AB[ge]AB[he]AB[ie]AB[id]AB[jd]AB[ic]AB[hc]AB[hf]AW[if]AW[ig]AB[jg]AB[kg]AB[lg]AB[kj]AW[ii]AW[gi]AB[ef]AW[df]AW[dg]AB[lb]AB[lc]AB[mc]AB[nb]AW[nc]AW[oc]AW[ob]AW[ne]AW[oe]AB[oa]AB[pb]AB[pc]AB[pd]AB[pe]AB[qe]AW[pf]AW[qf]AW[ph]AW[pi]AW[qi]AB[le]AB[me]AB[mf]AB[of]AB[og]AB[oj]AB[pj]AB[qj]AW[pk]AW[qk]AW[ql]AB[pl]AB[ij]AB[hj]AW[gj]AW[gk]AB[hk]AW[ik]AW[il]AB[gl]AW[fl]AW[fk]AB[fj]AB[ek]AB[el]AB[cl]AW[cn]AW[en]AW[em]AW[fn]AW[gm]AB[gn]AB[hm]AB[im]AB[eo]AW[ep]AW[fp]AW[go]AW[fq]AW[fr]AB[es]AB[er]AB[eq]AB[dr]AW[cr]AW[br]AB[bq]AB[cq]AB[dp]AB[cp]AB[ho]AB[io]AB[hp]AB[hq]AW[iq]AW[jp]AW[jo]AW[jn]AW[jm]AB[jl]AB[kl]AW[ds]AB[qn]AB[pp]AB[pr]AW[nq]AW[mp]AB[ln]AW[ri]AW[rj]AW[rl]AW[sl]AB[sk]AB[rm]AB[rh]AW[rf]AB[re]TR[me]C[Black played the marked move as a ko threat.  Is a response necessary?  Play 'Y' if so, and play 'N' if not.FORCE]MA[fm]LB[hl:N]LB[ke:Y]AP[goproblems]
+(;W[ke];B[fm]C[Correct, a response is necessary.  Navigate the solution to see why.RIGHT])
+(;W[hl];B[ke]
+(;W[mg];B[nf]
+(;W[mh];B[nd]C[Caught])
+(;W[nh];B[nd]C[Caught]))))

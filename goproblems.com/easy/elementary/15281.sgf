@@ -1,0 +1,8 @@
+(;GE[elementary]DI[7k]DP[43]SO[santa c]CO[0]AB[ar]AB[bs]AB[ap]AB[bp]AB[dr]AB[ds]AW[ao]AW[bo]AW[cp]AW[dp]AW[eq]AW[er]AW[es]C[Kill B]AP[goproblems]
+(;W[bq]
+(;B[br]C[CHOICE];W[cr]C[niceRIGHT])
+(;B[cr]C[CHOICE];W[br]C[niceRIGHT]))
+(;W[cq];B[cr]LB[bq:1]LB[br:2])
+(;W[cr];B[bq]MA[br]MA[cq])
+(;W[br];B[bq]MA[cr]MA[cq])
+(;W[dq];B[cr]))

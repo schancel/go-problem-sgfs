@@ -1,0 +1,34 @@
+(;GE[elementary]DI[10k]DP[54]SO[MechanicalPoet]CO[7]AW[gc]AW[lc]AW[cd]AW[dd]AW[ed]AW[gd]AW[id]AW[ce]AW[fe]AW[he]AW[cf]AW[aa]AW[ab]AW[be]AB[db]AB[gb]AB[cc]AB[dc]AB[ec]AB[fc]AB[hc]AB[jc]AB[hd]AB[ld]AB[ie]AB[je]AB[le]AB[kf]AB[ca]AB[bb]AB[ac]AB[bd]C[Black mistakenly decided to cut off the marked stone. Now put it to good use.]LB[he:1]LB[ie:2]TR[id]
+(;W[hb];B[ic];W[fb]C[White catches a stone and breaks through Black's wall.RIGHT])
+(;W[ic];B[hb]TR[ic]TR[id]C[Playing atari here doesn't help. After Black connects, White's two stones are trapped.])
+(;W[fb];B[ib])
+(;W[ib]C[This tricky move wasn't even covered...! White would like to undercut Black's group.];B[hb]
+(;W[jb];B[lb]
+(;W[kb];B[mc])
+(;W[mb];B[mc])
+(;W[kc];B[mc])
+(;W[mc];B[kb])
+(;W[la];B[mb]))
+(;W[ic];B[jb])
+(;W[kb];B[jb];W[ja];B[kc]
+(;W[lb];B[ha];W[ia];B[ka];W[la];B[ic];W[ka];B[mc])
+(;W[mb];B[ha];W[ia];B[mc];W[lb];B[ka];W[la];B[ic])
+(;W[mc]
+(;B[lb]
+(;W[mb];B[ka])
+(;W[la];B[ka]C[Black will happily fiight this ko, or approach at H19 if it does not work.]))
+(;B[ha];W[ia];B[ic]))
+(;W[la];B[mc]
+(;W[lb];B[mb])
+(;W[mb];B[lb]C[A flower picking ko for Black.]))
+(;W[ka];B[mc])
+(;W[ic];B[lb])
+(;W[ia];B[lb]))
+(;W[kc];B[jb])
+(;W[jd];B[kc]))
+(;W[jb];B[ib]C[This helps Black repair the weakness.])
+(;W[hf];B[ib]C[Black repairs.])
+(;W[ga];B[ib])
+(;W[kc];B[ib])
+(;W[kd];B[ib])
+(;W[kb];B[ib]))

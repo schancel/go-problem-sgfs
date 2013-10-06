@@ -1,0 +1,50 @@
+(;GE[best move]DI[3d]DP[9]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[cj][dm][im][cn][hn][fo][ho][gp][dq][eq][fq][hq]
+AB[fk][fm][gn][eo][go][jo][cp][ep][fp][cq][jq][lq]TR[cn]
+C[the marked stone threatens to cut. how to respond?
+]
+(;B[gr]
+(;W[gq];B[co]
+C[RIGHT
+black gets the peep for free before protecting the cut
+])
+
+(;W[hr]
+C[if white plays here, black doesn't need to protect the cut any more... watch
+]
+;B[fi];W[dp];B[do];W[co];B[gq];W[hp];B[fr]C[white dies
+])
+)
+
+(;B[co]LB[gr:A][hr:B]C[ajikeshi: now white can answer A at B
+])
+
+(;B[dp]C[bad shape
+])
+
+(;B[dn];W[do];B[en];W[dp])
+
+(;B[do]C[bad shape
+])
+
+(;B[bn];W[bm])
+
+(;B[cm];W[dp];B[do];W[co]
+(;B[dn];W[en])
+
+(;B[cl];W[en];B[fn])
+)
+
+(;B[cl];W[dp])
+
+(;B[cr];W[dp])
+
+(;B[bo];W[dp])
+
+)

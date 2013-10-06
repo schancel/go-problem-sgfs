@@ -1,0 +1,21 @@
+(;GE[life and death]DI[7k]DP[41]SO[creslin]CO[4]AB[as]AB[cs]AB[br]AB[cq]AB[aq]AW[ds]AW[dr]AW[dq]AW[dp]AW[cp]AW[bo]AB[eo]AB[cn]AW[bl]AW[bk]AW[bj]AB[dn]AB[am]AB[bn]AW[bm]AB[cr]AW[co]AB[fp]AB[fq]AB[fr]AB[fs]AB[en]AB[go]C[White to connect or live. Black has no Ko threats, while White has one really big one. (this is my first problem. If I missed something, please comment)]AP[goproblems]
+(;W[ap]C[]
+(;B[bp];W[bq];B[ao];W[ar]C[RIGHT])
+(;B[bq]
+(;W[an];B[bp]
+(;W[al];B[ao]LB[fj:Ko]C[Play Ko threat];W[fj];B[gj];W[ap];B[es];W[ao]C[RIGHT])
+(;W[ao]C[RIGHT]))
+(;W[ao];B[an]))
+(;B[an];W[bq];B[bp]LB[fj:Ko]C[Plaay Ko threat];W[fj];B[gj]C[Black answers];W[bq]
+(;B[es];W[ar]C[RIGHT])
+(;B[ao];W[ar]C[RIGHT]))
+(;B[ao];W[an]
+(;B[bp];W[ao];B[bq]C[RIGHT])
+(;B[bq];W[al]C[RIGHT])))
+(;W[an];B[ao];W[ap];B[bp])
+(;W[bq];B[bp];W[ao];B[an];W[ap];B[bq])
+(;W[bp];B[bq];W[an];B[ao];W[ap];B[an])
+(;W[ao];B[an]
+(;W[bq];B[bp];W[ap];B[bq])
+(;W[bp];B[bq])
+(;W[ap];B[bq])))

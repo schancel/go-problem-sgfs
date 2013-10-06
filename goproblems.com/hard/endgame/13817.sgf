@@ -1,0 +1,68 @@
+(;GE[endgame]DI[5d]DP[5]SO[Athanatos]CO[0]SZ[13]AB[cb]AB[bc]AB[ab]AB[ad]AB[cl]AB[ck]AB[cj]AB[ci]AB[bj]AB[ei]AB[ej]AB[el]AB[fl]AB[fk]AW[ek]AW[dk]AW[dl]AW[fi]AW[fj]AW[gj]AW[gk]AW[gl]AW[fm]AB[hm]AB[hl]AB[ik]AB[jl]AB[kl]AW[ll]AW[lk]AB[kk]AW[kj]AW[ki]AW[kh]AW[kg]AW[kf]AB[jj]AW[ji]AB[ii]AB[gi]AB[fh]AW[eh]AW[eg]AW[cg]AW[dg]AW[ch]AW[bi]AW[ah]AW[bg]AW[bf]AW[af]AB[ae]AB[be]AB[cf]AB[df]AB[ef]AB[ee]AW[de]AB[dd]AB[cd]AW[ed]AW[ff]AW[fe]AB[jh]AB[jg]AB[jf]AB[if]AB[hg]AB[gh]AW[gg]AW[le]AW[ld]AW[lg]AW[mf]AW[lc]AB[lb]AB[mc]AB[kc]AB[kb]AB[kd]AB[ke]AW[bl]AW[gc]AW[hc]AB[ib]AB[ic]AB[hd]AW[id]AW[hf]AW[eb]AW[dc]AB[cc]AB[gd]AB[hi]AB[ij]AB[hk]C[White to win this game. Komi is 7,5. Black has 8 prisonners and White has 3 prisonners.]AB[ba]AP[goproblems]
+(;W[cm];B[ce]
+(;W[fg];B[fd];W[he];B[ie]
+(;W[ge];B[ec]
+(;W[km];B[jm]
+(;W[lm];B[md]C[White wins by 0,5.RIGHT])
+(;W[md];B[lm];W[mb];B[ml]))
+(;W[md];B[lm]
+(;W[ml];B[mb]C[Black wins by 2,5.])
+(;W[mb];B[ml])))
+(;W[fc];B[jd];W[ge];B[id];W[km];B[jm]
+(;W[lm];B[md]C[White wins by 0,5.RIGHT])
+(;W[md];B[lm];W[mb];B[ml])))
+(;W[fd];B[fg]
+(;W[fb];B[hb]
+(;W[db]
+(;B[gb];W[fc];B[ie])
+(;B[ie]))
+(;W[gb];B[ie])
+(;W[he];B[ie])
+(;W[ie];B[gb];W[fc];B[db]))
+(;W[he];B[db]
+(;W[gb];B[ec];W[fc];B[fa])
+(;W[fb];B[hb];W[ec];B[ie])
+(;W[ec];B[fb];W[fa];B[ga];W[ea];B[hb])
+(;W[hb];B[ec];W[fb];B[ie])
+(;W[ga];B[ec];W[fc];B[hb])
+(;W[fc];B[hb];W[gb];B[ie])
+(;W[fa];B[hb];W[ec];B[gb]))
+(;W[db];B[gb];W[fc];B[hb]
+(;W[fb];B[ie])
+(;W[he];B[fb]))
+(;W[gb];B[ie])
+(;W[hb];B[fc]
+(;W[fb];B[ha])
+(;W[he];B[ha];W[ge];B[fb]
+(;W[gb];B[ga])
+(;W[fa];B[ga];W[ea];B[gb]))))
+(;W[he];B[fg];W[fd];B[db]
+(;W[ec];B[fb])
+(;W[ie];B[ec];W[fb];B[hb])))
+(;W[ce];B[bm]
+(;W[al];B[cm]
+(;W[aj];B[gm];W[em];B[fl]
+(;W[bk];B[dm];W[el];B[dj];W[fk];B[hj])
+(;W[di];B[dj]
+(;W[bk];B[dh]C[White does not have any suitable ko threat.])
+(;W[dm];B[hj])))
+(;W[di];B[dj];W[em];B[fl];W[gm];B[dm];W[aj];B[hj];W[bk];B[dh]C[White does not have any suitable ko threat.])
+(;W[em];B[fl]
+(;W[di];B[dj];W[aj];B[gm];W[bk];B[dh]C[White does not have any suitable ko threat.])
+(;W[aj];B[gm]
+(;W[bk];B[dm];W[el];B[dj];W[fk];B[hj])
+(;W[di];B[dj];W[bk];B[dh]C[White does not have any suitable ko threat.])))
+(;W[dm];B[gm];W[em];B[fl]
+(;W[di];B[dj];W[aj];B[hj])
+(;W[aj];B[hj];W[fk];B[dj])))
+(;W[ak];B[cm]
+(;W[em];B[fl];W[di];B[dj];W[aj];B[gm];W[bk];B[dh]C[White does not have any suitable ko threat.])
+(;W[aj];B[gm];W[em];B[fl]
+(;W[bk];B[dj];W[di];B[dh]C[White does not have suitbale ko threat.])
+(;W[di];B[dj];W[bk];B[dh]C[White does not have any suitable ko threat.])))
+(;W[cm];B[dm];W[em];B[al]
+(;W[fl];B[fc]C[And Black wins by some points.])
+(;W[cm];B[bk];W[fl];B[fc]C[And Black wins by some points.]))
+(;W[di];B[dj];W[em];B[fl];W[ak]
+(;B[cm];W[aj];B[gm];W[bk];B[dh]C[And White does not have any suitable ko threat.])))
+(;W[em]C[NOTTHIS]))

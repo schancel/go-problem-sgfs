@@ -1,0 +1,31 @@
+(;GE[life and death]DI[4k]DP[30]SO[Piccolo]CO[0]AB[rr]AB[sq]AB[sp]AB[qq]AB[pq]AB[pp]AB[po]AB[np]AB[mn]AB[ml]AB[ol]AB[pl]AB[qk]AB[rk]AB[pj]AB[ri]AB[rm]AB[sn]AW[on]AW[pn]AW[qn]AW[pm]AW[qo]AW[qp]AW[rp]AW[rq]AW[ql]AW[rl]AW[sl]AW[sm]C[White to live.]AP[goproblems]
+(;W[rn];B[so]
+(;W[sr];B[ss];W[ro];B[sr];W[qr]C[Nice !RIGHT])
+(;W[ro];B[sr]C[])
+(;W[rs];B[sr];W[qr];B[pr]C[])
+(;W[qr];B[sr];W[pr];B[or];W[rs];B[ps];W[ro];B[qs]C[]))
+(;W[so];B[rn]C[Hey ! He was supposed to take your stone, no ? But black has some tricky moves ;-)]
+(;W[sr];B[sq];W[qr];B[ss]
+(;W[qs];B[pr];W[sp];B[ps];W[sr];B[rs]C[Not even ko =/ Look at the last variations down the tree for some additional explanations.])
+(;W[sp];B[pr];W[sr];B[qs]C[]))
+(;W[qr];B[ss]
+(;W[qs];B[pr];W[sr];B[sq])
+(;W[sr];B[sq])))
+(;W[sr];B[rn]C[What is black doing ?! But, wait.. white has only one eye for the moment !]
+(;W[so])
+(;W[qr];B[ss]
+(;W[qs];B[pr];W[so];B[ps];W[sr];B[sq]C[Here, white will be forced sooner or later to fill at r7 : it is not seki. navigate to see how.];W[sp];B[rs]C[];W[sr];B[sk];W[qm];B[nn];W[oo];B[op];W[om];B[nm];W[no];B[mo];W[ro];B[rn];W[mj];B[sn];W[nj];B[sq];W[rm];B[rn];W[sr];B[ni];W[mi];B[sq];W[oi];B[sn]C[This is one possibility (for beginners who discover this 'false seki')])
+(;W[so];B[pr];W[qs])))
+(;W[qr]
+(;B[sr]C[CHOICE]
+(;W[so];B[rn];W[rs];B[ro]
+(;W[qm]C[RIGHT])
+(;W[pr]C[alternative, longer path (thanks to MeleeNewB)NOTTHIS];B[or];W[qs];B[os];W[qm];B[ps];W[so];B[ss];W[qr]))
+(;W[rn];B[so])
+(;W[rs];B[so];W[rn])
+(;W[pr]C[NOTTHIS])
+(;W[ps]C[NOTTHIS])
+(;W[qs]C[NOTTHIS]))
+(;B[rn]
+(;W[so])
+(;W[rs];B[qm];W[sr];B[sk];W[pr];B[or];W[so]C[Although S8 died, white gets the corner so this result is very good too.RIGHT]))))

@@ -1,0 +1,23 @@
+(;GE[life and death]DI[18k]DP[68]SO[chrise]CO[8]AB[dc]AW[ca]AB[cb]AB[ea]AB[eb]AW[fa]AW[fb]AW[gc]AW[bd]AW[cd]AW[ec]AB[dd]AW[ed]AW[de]AB[cc]AB[bc]AW[be]AP[goproblems]
+(;B[ba];W[da]
+(;B[db];W[ab]
+(;B[ac]C[The corner is safeRIGHT])
+(;B[ad]C[];W[ac]C[Black dies])
+(;B[aa];W[ac]C[Black dies])
+(;B[bb];W[ac]C[Black dies]))
+(;B[bb];W[db]C[Black dies])
+(;B[ab];W[db]C[No need to lose those stones])
+(;B[ac];W[db]C[No need to lose those stones, and you have to play at a18 to save the whole group])
+(;B[aa];W[ab]C[Black dies]))
+(;B[db];W[ab]
+(;B[ac];W[ba]
+(;B[bb];W[ad];B[aa]C[Only ko. Why did you make it so difficult for yourself?])
+(;B[da];W[ad]C[Black dies]))
+(;B[da];W[ac]C[Black dies])
+(;B[ba];W[ac]C[Black dies])
+(;B[bb];W[ac]C[Black dies]))
+(;B[da];W[db]C[Oh dear])
+(;B[bb];W[db]C[Snapback. Oops!])
+(;B[aa];W[db]C[Snapback. Oops!])
+(;B[ac];W[db]C[Snapback. Oops!])
+(;B[ab];W[db]C[Snapback. No need to lose those stones. White could even have played b19, but that's for another problem...]))

@@ -1,0 +1,18 @@
+(;GE[life and death]DI[6k]DP[39]SO[passero]CO[0]AB[qb]AB[qd]AB[pc]AB[od]AB[nd]AB[me]AB[le]AB[ke]AB[kd]AB[kc]AB[kb]AB[ka]AW[ld]AW[lc]AW[lb]AW[ma]AW[na]AW[nc]AW[oc]AW[pb]AW[pa]AB[la]C[Black to kill]AP[goproblems]
+(;B[ob]
+(;W[nb]
+(;B[mc]C[Correct. White can't play N16 to cut Black.RIGHT]TR[md])
+(;B[qa];W[oa];B[mc]C[Correct. White can't play N16 to cut Black.RIGHT]))
+(;W[md]
+(;B[nb]C[RIGHT])
+(;B[mb]C[RIGHT])
+(;B[qa]C[RIGHT])))
+(;B[mc];W[mb]
+(;B[md];W[ob])
+(;B[ob];W[md]))
+(;B[md];W[mc];B[qa];W[ob])
+(;B[qa];W[ob]
+(;B[mc];W[mb])
+(;B[mb];W[mc]))
+(;B[mb];W[mc])
+(;B[nb];W[ob]))

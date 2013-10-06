@@ -1,0 +1,60 @@
+(;GE[life and death]DI[4d]DP[8]SO[eranorn]CO[6]AB[cb]AB[cc]AB[dc]AB[bd]AB[be]AB[ce]AB[df]AB[ef]AB[ed]AB[fd]AB[gd]AB[hd]AB[hc]AB[ib]AB[jc]AB[fa]AW[cf]AW[cg]AW[cd]AW[dd]AW[de]AW[ee]AW[fe]AW[ff]AW[db]AW[eb]AW[ec]AW[fc]AW[gc]AW[gb]AW[hb]AW[bb]C[Black has to do his best...FORCE]AW[fg]AP[goproblems]
+(;B[ca];W[bc]C[FORCE]
+(;B[ba];W[da]C[CHOICE])
+(;B[da];W[ea]C[CHOICE])
+(;B[ac];W[ba]C[CHOICE])
+(;B[ab];W[ba]C[CHOICE])
+(;B[aa];W[ba]C[CHOICE])
+(;B[bf];W[bg]
+(;B[ac];W[da]C[CHOICE])
+(;B[ba];W[da]C[CHOICE])
+(;B[aa];W[da]C[CHOICE])
+(;B[ab];W[ba]C[CHOICE]))
+(;B[ad];W[ba]C[CHOICE])
+(;B[ae];W[ba]C[CHOICE]))
+(;B[da];W[bc]
+(;B[ca];W[ea]C[CHOICE])
+(;B[ba];W[ca]C[CHOICE]))
+(;B[ba];W[bc]
+(;B[ca];W[da]C[CHOICE])
+(;B[ab];W[ca]C[CHOICE]))
+(;B[ab];W[bc]C[CHOICE])
+(;B[aa];W[bc];B[ca];W[ba]C[CHOICE])
+(;B[ac];W[bc]C[CHOICE])
+(;B[ad];W[bc]C[CHOICE])
+(;B[ae];W[bc]C[CHOICE])
+(;B[bc];W[ca]
+(;B[ab];W[ba];B[da];W[ea];B[ha];W[ga];B[ac];W[bf];B[aa];W[ia];B[da];W[ca]
+(;B[ba];W[ae];B[ja];W[af];B[da];W[ad];B[ha];W[ca]C[Black is dead because of the two step ko.CHOICE])
+(;B[ae];W[ba];B[ja];W[af];B[ha]C[Black must fight a ko to live in a seki.CHOICE]))
+(;B[da];W[ba]
+(;B[ea];W[ga];B[ab];W[fb];B[da];W[ea];B[ac];W[bf];B[aa];W[da]C[CHOICE])
+(;B[ab];W[ea];B[ha];W[ga];B[ac];W[bf];B[aa];W[ia];B[da];W[ca]
+(;B[ae];W[ba];B[ja];W[af];B[ha]C[Black has to fight a ko to live in seki.CHOICE])
+(;B[ba];W[ae];B[ja];W[af]C[Black is dead because of the two step ko.])))
+(;B[ba];W[aa]
+(;B[da];W[bf];B[ba];W[hi]C[Let's suppose this is a ko threat. (Answer at the triangle.)FORCE]TR[hj];B[hj]C[];W[ca]
+(;B[ea];W[ae];B[ba]C[];W[gi]C[FORCE]TR[gj];B[gj];W[ca]
+(;B[ha];W[ac];B[ba]C[Ko for life, but White needs at least 2 more ko threats than Black !CHOICERIGHT])
+(;B[ac];W[ga]
+(;B[ba]C[Ko for life, but White needs at least 2 more ko threats than Black !CHOICERIGHT])))))
+(;B[aa];W[ba];B[da];W[ea];B[ab];W[ac];B[ab];W[bf];B[ha];W[ga];B[ad])
+(;B[ac];W[ba];B[ab];W[da]C[Capturing race.]
+(;B[ha];W[bf]
+(;B[ae])
+(;B[ga];W[ae];B[ea]C[SemeaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯, but White wins.];W[af];B[ia]C[]))
+(;B[bf];W[bg];B[ha]
+(;W[ga])
+(;W[af];B[ga]
+(;W[aa])
+(;W[ae];B[ea];W[ag];B[ia];W[ad]C[Capturing race, but White wins.]))))
+(;B[ea];W[da];B[ab];W[ba]
+(;B[ha];W[ga];B[ia]
+(;W[ac];B[ad];W[bf])
+(;W[bf];B[ac];W[ae]))
+(;B[ga];W[ha];B[ia];W[ac];B[bf];W[bg];B[ad];W[af])
+(;B[bf];W[bg]
+(;B[ac]
+(;W[af];B[ae];W[ag];B[ha];W[ga];B[ia]C[Seki. But you can do better...])
+(;W[ha];B[af]C[Seki. But Black can do better.]))
+(;B[af];W[ac];B[ad];W[ha]C[Seki, but you can do better.])))))

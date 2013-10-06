@@ -1,0 +1,33 @@
+(;GE[life and death]DI[2k]DP[21]SO[Andre Engels]CO[7]AB[dc]AW[de]AB[ee]AW[dd]AB[fc]AW[cc]AB[ec]AB[df]AB[cf]AW[bd]AW[db]AB[be]AB[bb]AB[eb]AW[cb]AB[ff]AW[cd]AB[eg]AW[ea]AB[gb]AB[bg]AP[goproblems]
+(;W[ab];B[ba]
+(;W[ad];B[bc]
+(;W[da]C[RIGHT]C[White can live in seki by playing A17, and if black plays there, he leaves a living shape for white to capture.RIGHT])
+(;W[ca]C[This is not a seki, because white's main group is not connected to the liberty at A19.])
+(;W[ac];B[da]))
+(;W[da];B[ad])
+(;W[bc];B[ad])
+(;W[ca];B[bc];W[ad]C[This is not a seki, because white's main group is not connected to the liberty at A19.])
+(;W[ac];B[da]C[Not enough room for two eyes]))
+(;W[ba];B[ab]
+(;W[da];B[ad])
+(;W[ac];B[da])
+(;W[ad];B[da])
+(;W[ae];B[da]))
+(;W[da];B[ba]
+(;W[ac];B[ab]C[Black kills by making an 'eye in the stomach'])
+(;W[ab];B[ac]
+(;W[ad];B[aa]
+(;W[bc];B[ab])
+(;W[ca];B[ab]))
+(;W[bc];B[aa]
+(;W[ca];B[ab])
+(;W[ad];B[ab]))
+(;W[ca];B[aa]
+(;W[ad];B[ab])
+(;W[bc];B[ab])))
+(;W[bc];B[ab]C[Black kills by making an 'eye in the stomach'])
+(;W[ad];B[ab]C[Black kills by making an 'eye in the stomach']))
+(;W[ac];B[ba];W[da];B[ab])
+(;W[ad];B[ab]
+(;W[da];B[ba]C[Black kills by making an 'eye in the stomach'])
+(;W[ba];B[da])))

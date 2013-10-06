@@ -1,0 +1,10 @@
+(;GE[best move]DI[4k]DP[29]SO[ferdi]CO[9]SZ[4]AW[ba]AW[ca]AW[db]AW[ac]AW[dc]AW[cd]AB[ab]AB[bb]AB[cc]C[Black to play - what's the best he can do?!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÅ¸]PB[Schwarz]
+(;B[bd]
+(;W[cb]
+(;B[bc]C[RIGHT];W[dd];B[ad]C[Seki, Black wins by one point (the prisoner)! RIGHT])
+(;B[dd];W[bc];B[ad];W[bc];B[ac];W[cd]C[Black has lost!]))
+(;W[dd];B[cb]C[This is not good for White :)])
+(;W[bc];B[dd];W[cb]))
+(;B[bc];W[bd];B[ad];W[dd]
+(;B[cb];W[ac]C[and White wins.])
+(;B[ac];W[cb]C[White wins.])))

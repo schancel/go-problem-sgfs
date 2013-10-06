@@ -1,0 +1,22 @@
+(;GE[endgame]DI[8k]DP[46]SO[Narek]CO[0]AB[mq]AB[js]AB[is]AB[ir]AB[hr]AB[hq]AW[ks]AW[jr]AW[jq]AW[nr]AW[nq]AW[or]AW[pq]AW[pp]AW[qq]AB[oq]AB[op]AB[np]AW[mp]AW[lp]C[W ignored the marked stone, can B punish?]TR[is]LB[io:T]AW[jp]AW[po]AB[no]AB[nn]AW[qn]AW[kn]AP[goproblems]
+(;B[kr]C[W ignored the marked stone, can B punish?];W[ls]
+(;B[lr];W[ms]
+(;B[mr];W[ns];B[pr]C[In the game, W protected.RIGHT])
+(;B[ns];W[mr])
+(;B[pr];W[mr]))
+(;B[ms];W[lr]
+(;B[mr];W[lq])
+(;B[lq];W[mr]))
+(;B[mr];W[lr]
+(;B[ms])
+(;B[lq];W[kq])
+(;B[pr];W[qr]))
+(;B[kq];W[lr]))
+(;B[pr];W[mr]
+(;B[qr];W[rr];B[kr];W[ls];B[lr];W[ms])
+(;B[kr];W[ls];B[lr];W[ms]))
+(;B[lr];W[kr])
+(;B[ls];W[kr])
+(;B[mr];W[lr])
+(;B[lq];W[kq])
+(;B[io];W[kr]C[There was something there.]))

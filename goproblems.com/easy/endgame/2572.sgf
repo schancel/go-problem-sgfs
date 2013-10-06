@@ -1,0 +1,16 @@
+(;GE[endgame]DI[18k]DP[69]SO[Karen B]CO[5]
+   AW[bp][bq][br][bs][cn][co][cs][dr]
+   AB[cp][cq][cr][dp][ds][ep][eq][er][es][gp][hq];
+   C [How many points does Black win by playing at A?]
+
+   LB[ds A]
+   LB[bl 2]
+   LB[dl 3]
+   LB[fl 4]
+   LB[hl 5]
+
+   (;B[dl] C[RIGHT Correct! Black wins 3 points! 1 point for D3 and 2 (prisoner) at D2.] LB[ds A])
+   (;B[bl] C[Sorry, Black wins 3 points.] LB[ds A])
+   (;B[fl] C[Sorry, Black wins 3 points.] LB[ds A])
+   (;B[hl] C[Sorry, Black wins 3 points.] LB[ds A])
+)

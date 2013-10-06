@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[7k]DP[40]SO[hello]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[cc][cd][dc]AB[dd][ed][fd][ce][cf][cg][dh][di][ei][fh][gh][hh][hg]AW[fc][gc][gd][eh][eg][fg][gg][df][de][hf][if][id]C[Black to save 3 stones]
+;B[ef]CR[ef]
+(;W[dg]CR[dg]
+;B[gf]CR[gf]
+;W[ff]CR[ff]
+;B[ge]CR[ge]C[RIGHT])
+(;W[gf]CR[gf]
+;B[dg]CR[dg]C[RIGHT])
+(;W[ee]CR[ee]
+;B[fe]CR[fe]
+;W[ff]CR[ff]
+;B[dg]CR[dg]C[RIGHT]))

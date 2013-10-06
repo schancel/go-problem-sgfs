@@ -1,0 +1,26 @@
+(;GE[endgame]DI[5k]DP[33]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[ca][fa][ab][cb][eb][cc][ec][fc][ad][bd][ed][gd][fe]AB[da][ea][db][gb][dc][cd][dd][ae][be][de][ee][cf][ef][ff]TR[gb]C[No komi, no prisoners - White to play and win!]PL[W]
+(;W[gf]CR[gf]
+(;B[fg]CR[fg]
+(;W[fb]CR[fb]
+;B[gg]CR[gg]
+;W[ge]CR[ge]C[White wins by one point! RIGHT])
+(;W[ge]CR[ge]
+;B[gg]CR[gg]
+(;W[fb]CR[fb]C[White wins by one point! RIGHT])
+(;W[gc]CR[gc]C[White wins by one point! RIGHT]))
+(;W[gc]CR[gc]
+;B[gg]CR[gg]
+;W[ge]CR[ge]C[White wins by one point! RIGHT]))
+(;B[fb]CR[fb]
+;W[gc]CR[gc]
+;B[ga]CR[ga]
+;W[fa]CR[fa]
+;B[fg]CR[fg]C[White wins by two points! RIGHT]))
+(;W[fb]CR[fb]
+;B[gf]CR[gf]
+;W[ge]CR[ge]C[Black wins by one point!])
+(;W[gc]CR[gc]
+;B[gf]CR[gf]
+;W[ge]CR[ge]C[Black wins by one point!]))

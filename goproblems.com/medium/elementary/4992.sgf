@@ -1,0 +1,39 @@
+(;GE[elementary]DI[1d]DP[18]SO[klapaucius]CO[8]AB[mb][of][qc][oe][pc][pd][pf][oc]AW[qd][od][pe][qe][nd][qf][ld][qh]C[Normally in this position of the Taisha, black will do something to protect his stones such as play at C, but black has ADD and has played elsewhere.  If you think white can capture black by playing at A, play there.  Otherwise, play B.]
+LB[ng:A][sa:B][oh:C]AP[MultiGo:3.9.4]SZ[19]
+
+(;W[ng]
+(;B[me]
+(;W[md]
+(;B[ne]
+(;W[le];B[mf]
+(;W[mg];B[lf];W[kf];B[lg];W[lh];B[kg]C[You think this is a ladder?  Okay. \:-)]
+;W[jg];B[kh];W[ki];B[li];W[mh];B[ji];W[kj];B[jf];W[ke];B[ig]C[ This is not a ladder.  At any time black can break out with a series of ataris.  If black really wanted to be mean, he'd just continue playing at A and wait for you to figure this out.CHOICE]
+LB[jh:A])
+(;W[lg];B[mg];W[mh];B[oh]C[Black escapes.]))
+(;W[lf];B[ph];W[pg];B[og];W[oh];B[nh];W[oi];B[mg]C[CHOICE]))
+(;B[mf]C[CHOICE Black escapes.]))
+(;W[ne];B[nf]
+(;W[md];B[lf];W[mg];B[mf]C[CHOICE])
+(;W[mf];B[md];W[nc];B[nb];W[mc];B[lc]C[CHOICE]))
+(;W[mf];B[ne];W[md];B[le];W[ke];B[lf]C[ Not a ladder here.  Black can escape.CHOICE])
+(;W[le];B[md]
+(;W[mf];B[ne])
+(;W[ne];B[nf])
+(;W[nc];B[mc])
+(;W[mc];B[nc])))
+(;B[ph]
+(;W[pg];B[og];W[oh];B[qg]
+(;W[pi];B[pg]
+(;W[rg];B[oi];W[nh];B[qi]
+(;W[rh];B[pj]C[CHOICE])
+(;W[pj];B[rh]))
+(;W[ni];B[rf];W[re];B[rd];W[se];B[sd]C[CHOICE]))
+(;W[rg];B[oi];W[nh];B[pi];W[pg];B[mf];W[nf];B[qg];W[ne];B[pg]C[CHOICE])
+(;W[nf];B[oi];W[nh];B[qi]C[White has more problems than black.]))
+(;W[pi];B[oh]C[ Black escapes through white's weak diagonal shape.CHOICE])
+(;W[oh];B[pg];W[pi];B[qg];W[rg];B[rh]
+(;W[ne];B[qi];W[nf];B[qj]C[CHOICE])
+(;W[qi];B[rf];W[sg];B[rd]))))
+(;W[sa]C[ - Because of white's defects at A and B, it is very hard (maybe impossible) for white to simply net black.   See 'Navigate Solution' for a couple of ways for black to break out.  I'm not saying white can tenuki, becaues white can start a good attack on the three black stones, it's just that they are hard to capture directly.RIGHT]
+LB[md:A][qg:B])
+(;W[oh];B[mf]C[Black gets out, no doubt about it.]))

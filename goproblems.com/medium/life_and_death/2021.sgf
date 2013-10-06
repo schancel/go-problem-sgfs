@@ -1,0 +1,112 @@
+(;GE[life and death]DI[1k]DP[20]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-19]
+KM[0.0]
+RU[Japanese]
+AW[bo][ep][cq][dq][fq][br][dr]AB[cn][do][dp][eq][er][fr]TR[ep]C[Black is cut by white's stone.  Connect black's two groups.]VW[]
+(;B[fp]
+;W[eo]
+(;B[fn]
+;W[en]
+;B[em]
+;W[fo]
+(;B[go]
+;W[gp]
+;B[dn]
+;W[fp]
+(;B[hp]C[RIGHT
+The ladder works.])
+(;B[gq]CR[gq]
+;W[hp]CR[hp]))
+(;B[dn]CR[dn]
+;W[go]CR[go]))
+(;B[en]
+;W[fo]
+(;B[go]
+;W[fn]
+;B[fm]
+;W[gn]
+;B[hn]
+;W[gp]C[White breaks free.])
+(;B[fn]CR[fn]
+;W[go]CR[go])
+(;B[gp]CR[gp]
+;W[gn]CR[gn]C[Black captures one stone, but the other one is still cutting black in two.])
+(;B[gq]CR[gq]
+;W[fn]CR[fn]C[Black captures one stone, but the other one is still cutting black in two.]))
+(;B[fo]CR[fo]
+;W[en]CR[en]C[This stone is escaping.])
+(;B[gq]CR[gq]
+;W[en]CR[en]C[Black captured one stone, but the other one escapes.]))
+(;B[gq]
+;W[fo]SQ[fq]C[Yes, black captures one white stone, but white's key stone still 
+cut black in two.])
+(;B[go]CR[go]
+;W[gp]CR[gp]
+(;B[eo]CR[eo]
+;W[fp]CR[fp]
+;B[hp]CR[hp]
+;W[gr]CR[gr]
+(;B[fo]CR[fo]
+;W[gq]CR[gq]C[Interesting squeeze, but the black stones are caught.])
+(;B[hq]CR[hq]
+;W[fs]CR[fs]))
+(;B[hp]CR[hp]
+;W[gr]CR[gr]
+(;B[eo]CR[eo]
+;W[fp]CR[fp]
+(;B[fo]CR[fo]
+;W[gq]CR[gq]C[Interesting squeeze, but black's stones get caught.])
+(;B[hq]CR[hq]
+;W[fs]CR[fs]))
+(;B[hq]CR[hq]
+;W[fs]CR[fs])
+(;B[fp]CR[fp]
+;W[fo]CR[fo]
+;B[eo]CR[eo]
+;W[fp]CR[fp]
+;B[fn]CR[fn]
+;W[gq]CR[gq]))
+(;B[fp]CR[fp]
+;W[fo]CR[fo]
+;B[eo]CR[eo]
+;W[fp]CR[fp]
+;B[fn]CR[fn]
+;W[gr]CR[gr]))
+(;B[eo]CR[eo]
+;W[fp]CR[fp]
+(;B[go]CR[go]
+;W[gr]CR[gr])
+(;B[fo]CR[fo]
+;W[gr]CR[gr])
+(;B[gr]CR[gr]
+;W[hp]CR[hp]))
+(;B[fo]CR[fo]
+;W[fp]CR[fp]
+(;B[gp]CR[gp]
+;W[gq]CR[gq]
+(;B[hq]CR[hq]
+;W[gr]CR[gr]
+;B[hr]CR[hr]
+;W[fs]CR[fs])
+(;B[go]CR[go]
+;W[gr]CR[gr])
+(;B[gr]CR[gr]
+;W[hq]CR[hq]))
+(;B[gr]CR[gr]
+;W[hp]CR[hp]
+(;B[hq]CR[hq]
+;W[gp]CR[gp])
+(;B[gp]CR[gp]
+;W[gq]CR[gq]
+(;B[go]CR[go]
+;W[hq]CR[hq])
+(;B[hq]CR[hq]
+;W[go]CR[go]
+;B[eo]CR[eo]
+;W[gp]CR[gp])))
+(;B[eo]CR[eo]
+;W[gr]CR[gr])))

@@ -1,0 +1,19 @@
+(;GE[elementary]DI[5k]DP[33]SO[karmaGfa]CO[7]SZ[19]AW[dl]AW[el]AW[fl]AW[bm]AW[dm]AW[an]AW[bn]AW[cn]AW[dn]AW[co]AW[do]AW[bp]AW[bq]AW[dq]AW[iq]AW[cr]AW[dr]AW[er]AW[fr]AW[hr]AW[ir]AW[es]AW[fs]AW[gs]AW[hs]AW[is]AB[cj]AB[ej]AB[dk]AB[fk]AB[al]AB[bl]AB[cl]AB[gl]AB[am]AB[cm]AB[fm]AB[gm]AB[en]AB[eo]AB[cp]AB[dp]AB[ep]AB[ip]AB[jp]AB[cq]AB[eq]AB[fq]AB[gq]AB[hq]AB[jq]AB[gr]AB[jr]AB[js]LB[lj:1]LB[lk:2]LB[ll:3]LB[lm:4]LB[ln:5]LB[lo:6]LB[ep:3]LB[lp:7]LB[cq:1]LB[lq:8]LB[cr:2]LB[lr:9]LB[ls:10]C[The white group has how many points?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]PW[Blanc]PB[Noir]PL[B]
+(;B[lr];W[ks]C[ See the navigation option for the details if you don't understand why.RIGHT];B[em];W[ls];B[ek]
+(;W[br]C[ White need to add one stone in its territory to survive to the potential black attack.RIGHT])
+(;W[ms];B[ao];W[bo];B[br]C[White is dead.]
+(;W[ar];B[bs]C[White cannot atari, but black can kill E1, so everything is dead.])
+(;W[bs];B[ar]
+(;W[cs];B[aq])
+(;W[aq];B[ap])
+(;W[ns];B[cs]C[Black can kill if he want, so C1 is not needed.])
+(;W[ap];B[cs]))))
+(;B[ls]C[Incorrect.])
+(;B[lq]C[Incorrect.])
+(;B[lp]C[Incorrect.])
+(;B[lo]C[Incorrect.])
+(;B[ln]C[Incorrect.])
+(;B[lm]C[Incorrect.])
+(;B[ll]C[Incorrect.])
+(;B[lk]C[Incorrect.])
+(;B[lj]C[Incorrect.]))

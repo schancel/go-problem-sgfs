@@ -1,0 +1,46 @@
+(;GE[life and death]DI[5d]DP[4]SO[tigre]CO[7]SZ[19]AW[na]AW[ra]AW[mb]AW[ob]AW[rb]AW[gc]AW[ic]AW[nc]AW[qc]AW[dd]AW[ld]AW[md]AW[qd]AW[le]AW[oe]AW[lf]AW[of]AW[qf]AW[rf]AW[pg]AW[ph]AW[pi]AW[qi]AW[pj]AW[pk]AW[do]AW[dp]AW[dq]AW[eq]AW[hq]AW[er]AB[pb]AB[qb]AB[kc]AB[lc]AB[mc]AB[pc]AB[kd]AB[nd]AB[od]AB[pd]AB[ie]AB[ke]AB[pe]AB[nf]AB[pf]AB[jg]AB[qg]AB[rg]AB[qh]AB[sh]AB[ri]AB[qj]AB[rj]AB[qk]AB[pl]AB[cn]AB[cp]AB[pp]AB[cq]AB[fq]AB[cr]AB[dr]LB[md:A]LB[nf:B]C[Black responds to the cut at A with B.  How should white follow up?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]PL[W]
+(;W[ng];B[ne]
+(;W[og];B[lg];W[mg];B[mf]C[White has now lost the cutting group and will try to make the best of things.];W[lh];B[kg]
+(;W[ol]C[White leans against the right to build territory in the lower middle, preparing for a potential invasion at R3.RIGHT])
+(;W[kh]C[Not the best outcome since white loses sente and is open to attack from the right.]))
+(;W[mg];B[og]
+(;W[oh];B[lg]
+(;W[lb];B[kf];W[mf];B[kb];W[la];B[pa];W[lh];B[kg]
+(;W[ol]C[White saves the cutting stones and has good influence.RIGHT])
+(;W[kh]C[White loses sente and is open to attack from the right.]))
+(;W[kg];B[lh]
+(;W[lb];B[kf];W[mf];B[of];W[kb];B[nh];W[mh];B[ni];W[li];B[kh];W[mi];B[nj]C[White now has two heavy groups to defend.]
+(;W[ok];B[kj]
+(;W[mj];B[nk];W[mk];B[nl];W[ol];B[ml]C[If black can't kill one, he'll kill the other.])
+(;W[mk];B[mj];W[lj];B[nk];W[nl];B[ml]C[I'm pretty sure white can kill at least one group at this point, while strengthening either the lower right or middle group.])
+(;W[lj];B[lk]))
+(;W[nk];B[ok])
+(;W[mj];B[ok]))
+(;W[kf]
+(;B[kh];W[jf]
+(;B[if];W[jh];B[ig];W[mf];B[id]C[White would've been better off not pushing black into attacking the top.])
+(;B[ig];W[if];B[hf];W[je];B[jd];W[he];B[id];W[hg];B[gf];W[jh];B[ih];W[mf]C[White has made a fine mess of black's central group, but at the same time brought his upper left under attack.]))
+(;B[jf];W[kh];B[li])))
+(;W[lh];B[kg]
+(;W[mf];B[ok]C[White lost sente and comes under attack])
+(;W[ol]C[White wisely ignores N14 at this point to worry about the group as a whole.RIGHT])))
+(;W[of];B[oh]C[White can't kill the corner, so black will continue the cut.])))
+(;W[ne]C[This is how Cho Chikun responded in the actual game.];B[og];W[me];B[lg]C[At this point Cho Chikun resigned.  I played out a couple of variations from here on in, but they don't look too good for white]
+(;W[ng];B[oh]
+(;W[nh];B[oi];W[oj];B[ni];W[nj];B[mi]C[This is about the best white could hope for after Cho's error.  No wonder he resigned!])
+(;W[oi];B[nh];W[ni];B[mh];W[mi];B[li]C[This is about the best white could hope for after Cho's error.  No wonder he resigned!])
+(;W[mg];B[kf];W[mf];B[mh]C[Now white has two heavy groups to defend.]))
+(;W[mf];B[ng];W[mg];B[mh])
+(;W[mg];B[ng]
+(;W[nh];B[kf])
+(;W[mf];B[mh])))
+(;W[og];B[ne];W[ng];B[mg]
+(;W[lg];B[mh]
+(;W[lh]
+(;B[ni];W[mf];B[ok];W[oj];B[nj];W[mi];B[nh];W[nk];B[ol];W[mj];B[mk];W[nl];B[li];W[lj];B[ki]C[Messy, but black wins the race])
+(;B[mf];W[mi];B[ni]
+(;W[li];B[nh];W[nj];B[oj];W[ok];B[nk];W[oi];B[mj];W[ol];B[oj]C[ko, and white must make the first threat.])
+(;W[nj];B[oj];W[ok];B[mj];W[li];B[nk];W[ol];B[nh]C[Black escapes and white is divided])))
+(;W[mf];B[lh]))
+(;W[mh];B[lg];W[lh];B[kh];W[ol]C[White preserves some of his stones and much of his influence, then leans against the right.RIGHT]))
+(;W[mg]))

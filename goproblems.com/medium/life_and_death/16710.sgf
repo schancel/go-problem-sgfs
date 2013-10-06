@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[20]SO[magrock]CO[0]AB[ap]AB[bp]AB[bq]AB[cp]AB[dp]AB[ep]AB[fp]AB[fq]AB[fr]AB[gq]AB[hr]AB[ir]AB[iq]AW[gr]AW[gs]AW[hq]AW[hp]AW[gp]AW[fo]AW[gn]AW[dn]AW[bn]AW[aq]AW[ar]AW[br]AW[cq]AW[dq]AW[eq]AW[er]AW[fs]AB[mq]C[black to save his marked stones]TR[ap]TR[bp]TR[bq]TR[cp]TR[dp]TR[ep]TR[fp]TR[fq]TR[gq]TR[fr]AP[goproblems]
+(;B[ds];W[cs];B[es];W[dr];B[es])
+(;B[cs];W[cr]
+(;B[ds];W[bs];B[es];W[dr])
+(;B[es];W[ds]))
+(;B[cr];W[cs]
+(;B[bs];W[dr];B[es];W[ds];B[hs]C[RIGHT])
+(;B[es];W[ds]
+(;B[hs]C[RIGHT];W[es]C[];B[bs]C[RIGHT])
+(;B[bs];W[dr];B[hs]C[RIGHT])))
+(;B[bs];W[cr];B[ds];W[es];B[cs]C[not seki, white captures 10 stones])
+(;B[es];W[ds];B[cr];W[bs])
+(;B[dr];W[ds];B[hs];W[es]))

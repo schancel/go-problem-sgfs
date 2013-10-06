@@ -1,0 +1,14 @@
+(;GE[elementary]DI[4k]DP[29]SO[bogus]CO[3]AW[ra]AB[sc]AB[rb]AB[rc]AB[rd]AB[qc]AB[pc]AW[qb]AW[pb]AW[oc]AB[ob]AB[oa]AB[nb]AW[od]AW[pd]AW[pf]AB[nc]AB[og]AB[pg]AB[qg]AB[sh]AB[si]AB[sj]AW[rh]AW[ri]AW[rj]AB[ng]AW[ne]AB[nf]AW[of]AB[md]AB[me]AW[nd]AB[mc]AW[pe]AB[qd]AW[qe]AB[qf]AW[re]AB[rf]AB[sf]C[Capture some black stones.]AP[goproblems]
+(;W[sb];B[sa]
+(;W[sk];B[se]C[Well done. Black couldn't play T13 cos of your T18 threat.RIGHT];W[sg]C[Good captureRIGHT])
+(;W[sg];B[se]C[Well done. Black can't play S13 cos of your T18 threat.RIGHT];W[sk]C[Good capture.RIGHT])
+(;W[se];B[qa]C[White can't capture anything])
+(;W[sd];B[qa]C[White can't capture anything])
+(;W[rg];B[se]
+(;W[sk];B[sg])
+(;W[sg];B[sk]C[No good])))
+(;W[sk];B[sg]
+(;W[sb];B[sa];W[se];B[qa]C[White can't capture anything])
+(;W[se];B[pa]C[White can't capture anything]))
+(;W[se];B[pa];W[sk];B[sg]C[White can't capture anything])
+(;W[sg];B[rg]))

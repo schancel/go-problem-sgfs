@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[1k]DP[19]SO[santa c]CO[0]AB[al]AB[am]AB[bl]AB[cl]AB[ck]AB[dk]AW[bj]AB[bi]AB[bh]AW[bg]AW[cg]AW[ci]AW[di]AW[ei]AB[ej]AB[ek]AB[fk]AB[fl]AB[fm]AW[el]AW[dl]AW[dm]AW[cm]AW[bm]AW[an]AW[bo]AW[em]AW[en]AW[fn]AW[gm]AW[gl]AW[gk]AW[gj]AW[fj]AB[fi]AB[fh]AB[eh]AB[eg]AB[ef]AB[ee]AB[bf]AB[ce]AB[dd]AB[ed]AB[cc]AB[bc]AB[bb]AB[ba]AB[ca]AW[cb]AW[db]AW[da]AW[dc]AW[ec]AW[fd]AW[fe]AW[ff]AW[fg]AW[gg]AW[gh]AW[gi]C[Black ingored what seemed to him like dame filling moves. What now?]LB[bj:5]LB[em:1]LB[el:3]AP[goproblems]
+(;B[cj]
+(;W[ai]
+(;B[bk];W[ah];B[aj];W[ag];B[ch];W[dh];B[dg];W[bj];B[bi];W[bh];B[bj]C[well done :)RIGHT])
+(;B[ah];W[ak]C[a ko result isn't optimal]))
+(;W[ah];B[aj]MA[bk]MA[ch]C[RIGHT])
+(;W[ch];B[aj]MA[ah]MA[bk]C[RIGHT])
+(;W[aj];B[ch]C[RIGHT]))
+(;B[aj];W[cj]
+(;B[ch];W[dh];B[ag]C[well done :)RIGHT])
+(;B[ag];W[ak]C[black is the one lacking liberties...]))
+(;B[ch];W[dh]C[the three black stones are captured!])
+(;B[ag];W[ch]MA[aj]MA[cj]))

@@ -1,0 +1,71 @@
+(;GE[best move]DI[5d]DP[4]SO[picketfence]CO[8]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-19]
+KM[0.0]
+RU[Japanese]
+AB[pd][od][qe][pf][le][jc][jd][je][jf][kf]
+AW[pe][lf][mf][ke][kd][kc][kb]
+PL[W]
+(;W[nc];B[nd];W[md]
+(;B[mc]
+C[CHOICE]
+;W[lc];B[mb];W[nb]
+C[RIGHT
+White 1 is the so called 'big net.']
+LB[nc:1]
+)
+(;B[nb]
+C[CHOICE]
+
+(;W[oc];B[mc]
+(;W[mb];B[me];W[lc]
+C[RIGHT
+White 1 is the so called 'big net.'  This is the best result 
+for both sides.  White gains sente because of A and B, while 
+black can choose to attack white's 2 stones outside.]
+LB[nc:1][ne:A][pc:B]
+TR[lf][mf]
+)
+(;W[me];B[pc]
+C[White can do much better.]
+))
+(;W[mc];B[ob]
+C[White's eye shape is uncertain.  White fails.]
+)))
+(;W[md];B[ne]
+C[White 1 is the familiar net play.  However, ...]
+LB[md:1]
+
+(;W[me];B[nc]
+C[White can do better.]
+)
+(;W[oc];B[me]
+C[White's 2 stones will face tough battle.]
+TR[lf][mf]
+)
+(;W[nc];B[me]
+C[White's 2 stones will face tough battle.]
+TR[lf][mf]
+))
+(;W[me];B[md];W[mc];B[nd]
+C[Black forced white's false eye.  White fails.]
+SQ[le]
+)
+(;W[mc];B[md]
+(;W[me];B[nd]
+C[Black forced white's false eye.  White fails.]
+)
+(;W[nd];B[ne]
+C[A and B are miai for black.  White fails.]
+LB[me:A][nc:B]
+))
+(;W[nd];B[ne];W[me];B[nc]
+C[White's bad aji at A forces her into gote.]
+LB[md:A]
+)
+(;W[ne];B[oe]
+C[White just helped black to strengthen her shape.]
+))

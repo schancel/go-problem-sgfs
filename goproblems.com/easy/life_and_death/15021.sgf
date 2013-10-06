@@ -1,0 +1,28 @@
+(;GE[life and death]DI[4k]DP[30]SO[DarkSycthe]CO[0]AW[cp]AW[cq]AW[cr]AW[dr]AB[co]AB[cn]AB[bp]AB[bn]AB[dp]AB[dq]AB[er]AB[fr]AW[eq]AW[fq]AB[gq]AB[fp]AB[eo]AB[dn]AW[en]AW[fn]AW[fo]AW[gp]AW[hr]AW[iq]AW[jq]AW[kq]AW[hn]TR[gp]C[DarkScythe should not have ignored the marked move. Can you punish DarkScythe just like Jokersaku did?]AW[bq]AB[ao]AW[io]AP[goproblems]
+(;W[ds];B[bs]C[DarkScythe offers resistance.]
+(;W[fs]
+(;B[gr]C[CHOICE];W[gs]C[Black can't play E1 due to a lack of liberties, and White connects.RIGHT])
+(;B[gs];W[gr]
+(;B[es];W[fs]C[RIGHT])
+(;B[ep];W[es]C[RIGHT]))
+(;B[es];W[gr]C[RIGHT]))
+(;W[gr];B[ep]))
+(;W[ar];B[bs])
+(;W[bs]C[];B[ar]
+(;W[ds];B[aq]
+(;W[fs];B[gr];W[gs]C[Black can't play E1 due to a lack of liberties, and White connects.RIGHT])
+(;W[gr];B[ep]))
+(;W[aq];B[ds])
+(;W[fs];B[ds])
+(;W[gr];B[ep]))
+(;W[fs];B[ds]
+(;W[cs];B[gs];W[gr];B[ep];W[es];B[ds])
+(;W[gs];B[es])
+(;W[gr];B[ep])
+(;W[es];B[gs]))
+(;W[gr];B[ep]C[This exchange doesn't help White])
+(;W[es];B[fs])
+(;W[gs];B[es])
+(;W[aq];B[ds])
+(;W[hq];B[gr]C[White can save the corner stones.])
+(;W[ep];B[fp]C[Snapback.]))

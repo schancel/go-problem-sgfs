@@ -1,0 +1,62 @@
+(
+;GE[endgame]DI[7k]DP[40]SO[Spica]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AB[is][hr][gq][gp][fp][fo][gn][ho][hp][io][iq][jp][kp][lp][lq][mq][lr][kq]
+AW[hs][gs][gr][fr][fq][eq][ep][eo][en][fn][gm][hn][in][jo][ko][lo][mo][mp][hm][nq][mr][or][op]
+C[Best endgame for white?]
+(
+;
+W[js]
+;
+B[ir]
+;
+W[ls]
+;
+B[ks]
+(
+;
+W[ms]
+C[The atari at K1 changes the hane at M1 from 1pt gote to 2 pts sente since black needs another move (assuming there aren't bigger moves elsewhere). RIGHT]
+)
+(
+;
+W[kr]
+;
+B[jr]
+(
+;
+W[ms]
+;
+B[ks]
+C[L2 overcomplicates things but still means M1 is 2 pts sente instead of the 1 pt gote (assuming there aren't bigger moves elsewhere). RIGHT]
+)
+(
+;
+W[ks]
+;
+B[ms]
+)
+)
+)
+(
+;
+W[ls]
+;
+B[ks]
+C[1 pt gote]
+)
+(
+;
+W[jr]
+;
+B[ir]
+;
+W[ls]
+;
+B[ks]
+C[1 pt gote]
+)
+)

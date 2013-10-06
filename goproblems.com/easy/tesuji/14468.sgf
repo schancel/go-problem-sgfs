@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[12k]DP[57]SO[whendrik]CO[0]AB[bs]AB[br]AB[cr]AB[dq]AB[dp]AB[ep]AB[cp]AB[co]AB[bn]AB[cm]AW[ar]AW[bq]AW[cq]AW[bp]AW[bo]AW[ao]AW[dr]AW[er]AW[eq]AW[fp]AW[gq]AP[goproblems]
+(;B[aq]
+(;W[ds]C[CHOICE]
+(;B[an]C[RIGHT])
+(;B[cs];W[as])
+(;B[as];W[cs]
+(;B[an];W[ar])
+(;B[ap];W[ar])
+(;B[ar];W[ap])))
+(;W[ap];B[an]C[RIGHT];W[aq]))
+(;B[ap];W[aq]TR[as]C[White made an eye. Now Black will never be able to approach, due a shortage of liberties.])
+(;B[an];W[aq]TR[as]C[White made an eye. Now Black will never be able to approach, due a shortage of liberties.])
+(;B[as];W[cs])
+(;B[ds];W[aq]TR[as]C[White made an eye. Now Black will never be able to approach, due a shortage of liberties.])
+(;B[cs];W[aq]TR[as]C[White made an eye. Now Black will never be able to approach, due a shortage of liberties.]))

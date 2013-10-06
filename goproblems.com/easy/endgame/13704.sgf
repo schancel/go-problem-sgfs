@@ -1,0 +1,6 @@
+(;GE[endgame]DI[6k]DP[39]SO[gobluesky]CO[0]AB[ao]AB[bo]AB[co]AW[bp]AW[cp]AW[dq]AW[dr]AW[ds]AW[fq]AW[hq]AB[dp]AB[ep]AB[fp]AB[gp]AB[hp]AB[ip]AW[eq]AW[gq]AB[iq]AB[ir]AB[is]AW[hr]AW[hs]AP[goproblems]
+(;B[bq];W[cq];B[ap];W[br];B[aq];W[ar]LB[as:1]LB[bs:2]LB[cs:3]LB[cr:4]LB[es:5]LB[er:6]LB[fr:7]LB[fs:8]LB[gr:9]LB[gs:10])
+(;B[ap];W[bq];B[aq];W[br];B[ar];W[bs]LB[cq:1]LB[cr:2]LB[cs:3]LB[er:4]LB[fr:5]LB[gr:6]LB[es:7]LB[fs:8]LB[gs:9])
+(;B[br]
+(;W[cq];B[ap];W[bq];B[aq]C[RIGHT])
+(;W[bq];B[aq]C[RIGHT])))

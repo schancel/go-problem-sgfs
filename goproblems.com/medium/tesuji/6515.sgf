@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[3d]DP[10]SO[kvzrock]CO[9]SZ[19]AW[cb]AW[jb]AW[cc]AW[hc]AW[kc]AW[cd]AW[fd]AW[kd]AW[ld]AW[md]AW[be]AW[he]AW[af]AW[cf]AW[df]AW[bg]AB[bb]AB[kb]AB[lb]AB[bc]AB[dc]AB[ic]AB[jc]AB[lc]AB[nc]AB[bd]AB[dd]AB[pd]AB[ce]AB[de]AB[ee]AB[fe]AB[ie]MA[hc]MA[fd]MA[he]C[W to do something effective with the marked stones.]TR[kd]TR[kc]TR[ld]TR[md]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #2]US[YuJun]PL[W]
+(;W[fb];B[ec]C[F18 is sente. Then what?];W[id];B[jd];W[je];B[hd];W[ib];B[id];W[if];B[gd];W[ge];B[gc];W[fc];B[hb];W[gb]C[B is captured.RIGHT])
+(;W[ib];B[je]C[W is still split.])
+(;W[id];B[jd];W[je];B[hd];W[ib];B[id];W[if];B[gd];W[ge];B[gc];W[fc];B[gb]
+(;W[fb];B[hb]C[The squeeze doesn't work. More preperation is needed.])
+(;W[hb];B[fb];W[eb];B[ec]C[The squeeze doesn't work. More preperation is needed.]))
+(;W[je];B[id];W[if];B[ib]LB[jf:a]LB[hf:b]C[W has two cutting points a and b.])
+(;W[if];B[je]C[W can't connect])
+(;W[eb];B[db];W[id];B[jd];W[je];B[hd];W[ib];B[id];W[if];B[gd];W[ge];B[gc];W[fc];B[gb];W[hb];B[jf];W[ke];B[hf]C[b escapes.]))

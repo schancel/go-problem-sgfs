@@ -1,0 +1,10 @@
+(;GE[endgame]DI[4d]DP[8]SO[krt]CO[0]SZ[9]AB[ih]AB[hh]AB[hi]AW[ig]AW[hg]AW[hf]AW[he]AW[ie]AW[gg]AW[gh]AW[fi]AW[fh]AB[ei]AB[eh]AB[eg]AB[fg]AB[gf]AB[ge]AB[hd]AB[gd]AB[id]AW[ff]AW[fe]AW[fd]AW[fc]AW[gc]AW[ib]AW[gb]AW[hb]AB[ia]AB[ha]AB[ga]AB[fa]AB[fb]AB[ec]AB[ed]AB[ee]AB[df]AW[ef]AB[dg]AB[ch]AB[di]AW[bi]AW[bh]AW[cf]AW[cg]AW[de]AW[dd]AB[db]AB[ce]AB[bf]AW[bg]AB[ag]AW[ah]AB[af]AW[cc]AB[bd]AB[da]AW[bb]AW[ba]AB[ad]AW[cb]AB[bc]AW[aa]AB[ae]C[komi+1,5]AP[goproblems]
+(;B[cd];W[dc];B[eb];W[ab]C[W+1,5])
+(;B[dc];W[cd]
+(;B[ab];W[ac])
+(;B[ca];W[be]
+(;B[ic]C[NOTTHIS])
+(;B[gi];W[ac];B[if];W[eb])
+(;B[hc]
+(;W[ic];B[ce];W[eb];B[ab];W[ea]C[B+0,5RIGHT])
+(;W[ac];B[ic];W[ci];B[dh]C[B+0,5RIGHT])))))

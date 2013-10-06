@@ -1,0 +1,25 @@
+(;GE[fuseki]DI[20k]DP[70]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[What is the right komoku (3-4 point) for 
+White?]
+PL[W]
+LB[yy:1][dc:A][cd:B]AB[pd]
+(;W[dc]
+LB[dc:1]TR[pd]C[RIGHT
+
+Black has no approach move on the 
+left that helps building the potential of 
+the mrked black stone.]
+MN[1]
+)(;W[cd]
+;B[po]
+LB[po:2][dp:A];W[dp]
+;B[ed]
+C[Kajiwara Takeo thinks the game is 
+already lost for White as Black's 
+stones are neatly working toghether in 
+controlling the centre.]
+))

@@ -1,0 +1,23 @@
+(;GE[life and death]DI[2d]DP[13]SO[redpython]CO[8]
+;AW[bn][bp][cp][dp][ep][fp][aq][gq][hq][br][hr][bs][ds][hs]
+AB[bq][cq][dq][eq][fq][ar][gr][es][gs][er]
+C[White to kill.]
+(;W[cr];B[ap])
+(;W[cs];B[ap])
+(;W[dr];B[ap])
+(;W[as];B[cr];W[cs];B[dr])
+(;W[fr];B[ap]
+(;W[ao];B[cr];W[cs]C[This fails; if Ba3 it's seki, if Bd2 it leads to ko.  You can do better])
+(;W[fs];B[cr];W[cs]C[Wrong, this is seki.])
+(;W[cr]C[Wrong.  If Bf1 Wd2 it's seki, if Bd2 Wf1 it becomes ko.  But you can do better.])
+)
+(;W[fs];B[ap]
+(;W[ao];B[cr];W[cs]C[This fails; if Ba3 it's seki, if Bd2 it leads to ko.  You can do better])
+(;W[fr];B[cr];W[cs]C[Wrong, this is seki.])
+(;W[cr]C[Wrong.  If Bf2 Wd2 it's seki, if Bd2 Wf2 it becomes ko.  But you can do better.])
+)
+(;W[ap];B[cr];W[cs];B[dr]
+(;W[fr];B[as];W[cs];B[ds];W[bs];B[br];W[fs]C[RIGHT])
+(;W[fs];B[as];W[cs];B[ds];W[bs];B[br];W[fr]C[RIGHT])
+)
+)

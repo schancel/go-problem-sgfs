@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[2k]DP[23]SO[karmaGfa]CO[8]SZ[19]AW[db]AW[fb]AW[gb]AW[dc]AW[ec]AW[bd]AW[cd]AW[dd]AW[df]AB[da]AB[ea]AB[cb]AB[eb]AB[hb]AB[cc]AB[fc]AB[hc]AB[fd]AB[he]TR[fb]TR[gb]C[White do his best to save the 2 stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]PL[W]
+(;W[ba]
+(;B[bb]
+(;W[ca];B[aa];W[ca];B[ba]
+(;W[fa];B[ca]
+(;W[bc]C[RIGHT])
+(;W[ab];B[ac];W[bc]C[RIGHT]))
+(;W[bc];B[ga]))
+(;W[ab]
+(;B[ca]
+(;W[bc];B[aa]LB[ac:A]C[Please play A];W[ac];B[gc];W[ba]C[Ko only])
+(;W[fa];B[aa]C[Ko only]))
+(;B[ac]C[This move of black is a mistake.];W[fa]))
+(;W[fa];B[ca];W[ab];B[aa]C[Ko only]))
+(;B[ca]C[This move of black is a mistake.];W[bb])
+(;B[bc]C[This move of black is a mistake.];W[ca]))
+(;W[bb];B[ga])
+(;W[bc];B[ga]))

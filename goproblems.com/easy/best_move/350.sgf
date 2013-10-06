@@ -1,0 +1,19 @@
+(;GE[best move]DI[8k]DP[45]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qd]AW[dp]AB[pp]AW[dd]AB[fc]AW[ee]AB[db]AW[gd]AB[gc]AW[hd]AE[cc][cd]LB[hc:A][ic:B]PL[B]C[should black play at A or B?]
+(;B[hc]CR[hc]LB[ec:A]C[RIGHT
+this eliminates the bad aji at A])
+(;B[ic]CR[ic]
+;W[ec]CR[ec]
+(;B[eb]CR[eb]
+;W[hc]CR[hc]
+;B[hb]CR[hb]
+;W[ib]CR[ib]
+(;B[jb]CR[jb]
+;W[gb]CR[gb]
+;B[ia]CR[ia]
+;W[fb]CR[fb]
+;B[fd]CR[fd]
+;W[fe]CR[fe])
+(;B[gb]CR[gb]
+;W[jc]CR[jc]C[bad for black]))
+(;B[fb]CR[fb]C[necessary, but terrible shape])))

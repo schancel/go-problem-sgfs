@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[10k]DP[54]SO[santa c]CO[8]AB[bo]AB[co]AB[cn]AB[cp]AB[bl]AB[bm]AB[ep]AB[fo]AB[fn]AB[hn]AB[io]AB[iq]AW[bp]AW[bq]AW[cq]AW[dq]AW[fr]AW[fp]AW[gp]AW[eo]AW[dn]AW[cm]AW[cl]AW[ck]AW[bk]AW[el]C[Black seems to have been disconnected and thus doomed to die but a player skilled in tesuji ought to be able to tell that this is not really so.]AP[goproblems]
+(;B[dm]
+(;W[em]
+(;B[en];W[dl]
+(;B[do]C[Well done!RIGHT])
+(;B[dp]C[RIGHT]))
+(;B[do];W[en]C[Black died on the left! :(]))
+(;W[dp];B[do];W[eq]
+(;B[en]C[And black connects! :)RIGHT])
+(;B[em]C[RIGHT]))
+(;W[do];B[dp]C[And black connects! :)RIGHT])
+(;W[en];B[em]C[And black connects! :)RIGHT]))
+(;B[en];W[do]
+(;B[dp];W[dm]C[Black died on the left! :(])
+(;B[dm];W[dp]C[Black died on the left! :(]))
+(;B[do];W[en]C[Black died on the left! :(])
+(;B[em];W[dm]C[Black died on the left! :(])
+(;B[dp];W[dm]C[Black died on the left! :(]))

@@ -1,0 +1,13 @@
+(;GE[life and death]DI[8k]DP[49]SO[18 K]CO[6]AB[al]AB[bl]AB[cl]AB[dl]AB[an]AB[ao]AB[cn]AB[co]AB[do]AB[dp]AB[dq]AB[dr]AB[cr]AB[cs]AW[bs]AW[br]AW[aq]AW[ap]AW[cq]AW[cp]AW[bo]AW[bn]AP[goproblems]
+(;B[bp]
+(;W[bq]
+(;B[bm];W[am];B[ao];W[an])
+(;B[am]C[RIGHT]))
+(;W[am];B[bq]C[White cannot make two eyes: All marked points are needed to live.RIGHT]TR[ao]TR[ar]TR[bm]))
+(;B[bq];W[bp]TR[as]TR[ar]TR[bq])
+(;B[ar];W[am]C[White lives.])
+(;B[as];W[am]C[White lives.])
+(;B[am];W[bp]C[White lives.])
+(;B[bm]
+(;W[am]C[White lives.])
+(;W[bp]C[White lives.])))

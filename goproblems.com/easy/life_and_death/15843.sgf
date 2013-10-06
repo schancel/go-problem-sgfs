@@ -1,0 +1,129 @@
+(;GE[life and death]DI[10k]DP[52]SO[PaGoD]CO[0]SZ[19]AW[jb]AW[kb]AW[lb]AW[mb]AW[ob]AW[pb]AW[qb]AW[rb]AB[ia]AB[ib]AB[ic]AB[jc]AB[kc]AB[lc]AB[mc]AB[nc]AB[oc]AB[pc]AB[qc]AB[rc]AB[sc]C[try to kill]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[nb]
+(;W[na]
+(;B[ma]
+(;W[la]
+(;B[oa];W[pa]
+(;B[ja]C[];W[sb];B[ra]C[RIGHT])
+(;B[sb]
+(;W[ra];B[ja]C[RIGHT])
+(;W[ja];B[ra]C[RIGHT])))
+(;B[ja]
+(;W[sb]
+(;B[ra]
+(;W[oa];B[qa]C[RIGHT])
+(;W[sa]
+(;B[qa]C[RIGHT];W[pa])
+(;B[pa];W[qa]C[CHOICE];B[ka];W[oa]))
+(;W[qa];B[oa]C[RIGHT])
+(;W[pa]))
+(;B[qa]
+(;W[ra]
+(;B[oa];W[pa]C[CHOICE])
+(;B[pa];W[oa]C[CHOICE]))
+(;W[oa];B[ra]C[RIGHT]))
+(;B[oa]
+(;W[pa])
+(;W[ra]
+(;B[pa];W[qa];B[oa]C[RIGHT])
+(;B[ma];W[pa]C[CHOICE])))
+(;B[pa];W[oa]C[CHOICE])
+(;B[sa]
+(;W[oa]C[CHOICE])
+(;W[ra]C[CHOICE]
+(;B[pa];W[oa]C[CHOICE])
+(;B[oa];W[pa]C[CHOICE]))))
+(;W[oa]
+(;B[sb]C[RIGHT])
+(;B[ra];W[sb])))
+(;B[sb]
+(;W[ja];B[ra]
+(;W[qa];B[oa]C[RIGHT])
+(;W[oa];B[qa]C[RIGHT]))
+(;W[ra])
+(;W[oa]
+(;B[ra];W[qa];B[ja]C[RIGHT])
+(;B[ja]C[RIGHT])
+(;B[sa];W[ja]C[CHOICE]))))
+(;W[sb];B[oa];W[pa];B[ra];W[na]
+(;B[ja]C[RIGHT];W[la];B[ka]C[RIGHT])
+(;B[ka]
+(;W[ja];B[oa];W[la];B[na]C[RIGHT])
+(;W[la];B[ja]C[RIGHT]))))
+(;B[sb];W[ra]
+(;B[oa];W[pa]
+(;B[ma];W[la])
+(;B[ja];W[ma];B[ka]C[white is deadRIGHT])
+(;B[la];W[ma]C[white is alive])
+(;B[ka];W[ja]C[white is aliveCHOICE]))
+(;B[pa];W[oa]
+(;B[ma];W[la];B[ja]C[white is deadRIGHT])
+(;B[la];W[ma]C[white is aliveCHOICE])
+(;B[ka];W[ja]C[white is alive])
+(;B[ja];W[ma];B[ka]C[white is deadRIGHT]))
+(;B[ma];W[la]
+(;B[ja]C[RIGHT])
+(;B[oa]
+(;W[pa])
+(;W[ja]
+(;B[pa])
+(;B[ma]C[RIGHT])))
+(;B[pa]
+(;W[oa])
+(;W[ja];B[oa];W[qa];B[oa]C[RIGHT])))
+(;B[ja];W[ka]
+(;B[ma]C[RIGHT]
+(;W[oa];B[la]C[RIGHT])
+(;W[pa];B[oa]C[RIGHT]))
+(;B[pa]
+(;W[ma];B[oa];W[qa];B[oa]C[RIGHT])
+(;W[oa];B[ma]C[RIGHT]))
+(;B[oa]
+(;W[pa];B[ma]C[RIGHT])
+(;W[ma];B[pa])))
+(;B[la];W[ma]C[white is aliveCHOICE];B[pa];W[oa]C[white is aliveCHOICE])
+(;B[ka];W[ja]C[white si aliveCHOICE]))
+(;B[oa];W[pa]
+(;B[ma];W[la])
+(;B[ja]
+(;W[ka];B[ma]C[RIGHT];W[sb];B[ra]C[RIGHT])
+(;W[sb];B[ra]))
+(;B[sb];W[ra]))
+(;B[ra]
+(;W[ja]
+(;B[sb];W[qa];B[oa]C[CHOICERIGHT])
+(;B[ma];W[la];B[sb];W[oa]))
+(;W[sb]))
+(;B[ja];W[sb];B[oa];W[pa];B[ra]))
+(;W[sb]
+(;B[oa];W[pa];B[ra];W[na]
+(;B[ja]C[RIGHT]
+(;W[ka];B[ma]C[RIGHT])
+(;W[ma];B[ka]C[RIGHT])
+(;W[la]))
+(;B[ma];W[la];B[ja]C[RIGHT])
+(;B[ka];W[ja]
+(;B[ma];W[la])
+(;B[la];W[ma]))
+(;B[la]
+(;W[ka];B[ja];W[ma])
+(;W[ma];B[ja];W[ka])))
+(;B[na];W[oa])))
+(;B[sb];W[nb]C[white is aliveCHOICE]
+(;B[ra];W[qa];B[ja];W[ka])
+(;B[ja]
+(;W[ka];B[ra];W[qa])
+(;W[ra];B[ka];W[la]C[CHOICE])))
+(;B[ra]
+(;W[nb]C[white is aliveCHOICE])
+(;W[sb];B[nb];W[na]
+(;B[ma];W[la];B[ja];W[oa];B[qa]C[RIGHT])
+(;B[ja];W[ma];B[ka];W[oa];B[qa]C[CHOICERIGHT])))
+(;B[na];W[nb]C[white is aliveCHOICE]
+(;B[ra];W[sb];B[ja])
+(;B[sb];W[ja];B[ra];W[qa]))
+(;B[ja]
+(;W[nb]C[white is aliveCHOICE];B[sb])
+(;W[sb];B[nb]
+(;W[oa]C[CHOICE])
+(;W[na]))))

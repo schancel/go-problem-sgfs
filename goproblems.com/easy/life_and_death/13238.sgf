@@ -1,0 +1,7 @@
+(;GE[life and death]DI[12k]DP[57]SO[pomodoro]CO[0]AB[ha]AB[hb]AB[hc]AB[hd]AB[ge]AB[fe]AB[ed]AB[ec]AB[eb]AW[fb]AW[gb]AW[gc]AW[gd]AW[he]AW[ie]AW[id]AW[ic]AW[jb]AW[kc]AB[cb]TR[fb]TR[gb]TR[gc]TR[gd]MA[ha]MA[hb]MA[hc]MA[hd]C[Can Black win the capturing race?]AP[goproblems]
+(;B[fa];W[ga]
+(;B[fc];W[ea];B[fd];W[ib];B[fa]C[RIGHT])
+(;B[fd];W[ea];B[fc];W[ib];B[fa]C[RIGHT]))
+(;B[ga];W[fa];B[fc];W[ib];B[ea];W[ia])
+(;B[fc];W[ib];B[fd];W[ia];B[ga];W[fa])
+(;B[fd];W[ib];B[fc];W[ia];B[ga];W[fa]))

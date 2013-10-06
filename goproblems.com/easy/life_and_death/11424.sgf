@@ -1,0 +1,41 @@
+(;GE[life and death]DI[18k]DP[65]SO[queyas]CO[0]AB[bb]AB[bc]AB[cc]AB[dd]AB[ed]AB[fd]AB[gd]AB[hd]AB[id]AB[je]AB[kd]AB[lc]AB[mb]AB[hc]AB[ec]AB[ma]AB[la]AB[md]AB[me]AB[mf]AB[nc]AB[ob]AW[cb]AW[db]AW[dc]AW[eb]AW[fc]AW[gc]AW[hb]AW[ic]AW[jc]AW[jd]AW[kb]AW[lb]AW[ka]AW[kc]AW[ba]C[White has missed some weak points in his position.Punish him!]AP[goproblems]
+(;B[ib]
+(;W[ia]C[CHOICE]
+(;B[gb]
+(;W[jb];B[fb]C[RIGHT])
+(;W[ha]
+(;B[ga];W[jb];B[fb]C[Good. White can't defend two groups.RIGHT])
+(;B[fb];W[jb]C[White has chosen group on the right to rescue. He cannot defend both of them.RIGHT])
+(;B[jb];W[fb];B[ja];W[ga]C[RIGHT]))
+(;W[ga];B[fb];W[fa])
+(;W[fb]))
+(;B[fb];W[gb]C[:(])
+(;B[jb];W[ja];B[gb];W[fb];B[ga]C[White lives with two groups]))
+(;W[ga];B[ia]
+(;W[fa];B[gb]
+(;W[ha];B[fb]C[RIGHT])
+(;W[fb];B[ha]C[RIGHT]))
+(;W[ca];B[ea];W[fa];B[ha]C[RIGHT])))
+(;B[gb]
+(;W[fb]C[CHOICE];B[ib]
+(;W[ha]C[CHOICE]
+(;B[ga];W[fa]
+(;B[ja]C[White cannot defend two groupsRIGHT])
+(;B[jb]C[White cannot defend two groupsRIGHT])
+(;B[ia]C[Seki. Black can do better]))
+(;B[ia];W[ga]C[Seki. Black can do better])
+(;B[ja]C[One group killed :)RIGHT])
+(;B[jb]C[One group killed :)RIGHT]))
+(;W[ga]C[CHOICE]
+(;B[jb]C[White cannot defend two groupsRIGHT])
+(;B[ja]C[White cannot defend two groupsRIGHT])
+(;B[ia]C[];W[ha]C[Seki. Black can do better])))
+(;W[ia]C[CHOICE]
+(;B[fb];W[jb]C[Group on the left is deadRIGHT])
+(;B[jb];W[fb]
+(;B[ha];W[ga]C[White lives with two groups])
+(;B[ga];W[fa];B[da];W[ha]C[White lives with two groups])
+(;B[fa]
+(;W[ga]C[White lives with two groupsCHOICE])
+(;W[ea]C[White lives with two groupsCHOICE])))))
+(;B[fb];W[gb]C[Black has no follow-up move :(]))

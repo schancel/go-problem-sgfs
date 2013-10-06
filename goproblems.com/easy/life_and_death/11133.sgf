@@ -1,0 +1,6 @@
+(;GE[life and death]DI[12k]DP[57]SO[GWG]CO[0]AB[aq]AB[cr]AB[dr]AW[ap]AW[bo]AW[cp]AW[do]AW[ep]AW[eq]AW[ao]C[Can white kill black? Play Y if you think so and N if you dont.FORCE]LB[go:Y]LB[gq:N]AB[br]AB[bq]AW[cq]AB[ds]AW[er]AW[es]AW[dp]AP[goproblems]
+(;W[go]C[];B[gq]C[Now kill it.]
+(;W[bs];B[as];W[ar];B[cs];W[dq];B[as]C[Wrong! A shortage of liberties prevented white from playing A1 so black played there and got 2 eyes.]LB[bs:2]LB[ar:1])
+(;W[dq];B[as]C[Black lives.])
+(;W[bp];B[as]C[Black lives.]))
+(;W[gq]C[Correct. Black is alive in the corner.RIGHT]))

@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[7k]DP[40]SO[Florian]CO[7]AW[ch]AW[ei]AW[bj]AW[cj]AW[dj]AW[bk]AW[ek]AW[el]AW[dm]AW[cn]AW[do]AW[eo]AW[fo]AW[bp]AW[cp]AB[bi]AB[ci]AB[di]AB[ej]AB[fj]AB[ck]AB[dk]AB[bl]AB[cl]AB[dl]AB[cm]AB[em]LB[cl:2]LB[dm:1]LB[em:4]LB[cn:3]TR[bj]TR[cj]TR[dj]TR[bk]GM[1]FF[4]CA[UTF-8]RE[W+Resign]PL[W]
+(;W[bm];B[al]
+(;W[am];B[dn]C[White loses his four stones, and more seem to be following. This is probably the worst white can do.])
+(;W[fm];B[fl];W[en];B[fk]
+(;W[em];B[bn]C[Black captures the four stones, and also has the chance to play F8 and F9. He is happy.])
+(;W[am];B[em])))
+(;W[al];B[bm]
+(;W[bn];B[dn];W[am];B[dm];W[fm]C[RIGHT])
+(;W[am];B[bn]
+(;W[an];B[dn];W[bo];B[co]C[In correct play white does not need to play a ko.])
+(;W[bo];B[dn];W[an];B[co]C[In correct play white does not need to play a ko.])))
+(;W[fm];B[fl];W[en];B[fk]
+(;W[em];B[ak]C[Black gets what he wants - both the four stones and some stones on the outside.])
+(;W[al];B[em]
+(;W[am];B[an]
+(;W[bn];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.])
+(;W[bm];B[bn])
+(;W[el];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.]))
+(;W[bm];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.])
+(;W[el];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.]))
+(;W[bm];B[em]
+(;W[al];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.])
+(;W[el];B[aj]C[Black is happy, getting both the four stones and the chance to play F8 and F9 at the outside.])))
+(;W[dn];B[ak]
+(;W[fm];B[fl]
+(;W[en];B[gl]C[Black captures the four stones, and gets some stones on the outside. He is happy.])
+(;W[gl];B[gk]C[Black captures the four stones without suffering too much on the outside.]))
+(;W[fl];B[gl];W[fm];B[gk]C[Black gets the four stones, and yet has an option to play on the outside.])))

@@ -1,0 +1,6 @@
+(;GE[best move]DI[4k]DP[29]SO[HikaShin]CO[9]AW[ib]AW[jb]AW[ob]AW[ec]AW[jc]AW[nc]AW[dd]AW[kd]AW[nd]AW[ce]AW[de]AW[fe]AW[ke]AW[ef]AW[ff]AW[gf]AW[kf]AW[rf]AW[hg]AW[bh]AW[eh]AW[fh]AW[hh]AW[qh]AW[bi]AW[ii]AW[ki]AW[cj]AW[fj]AW[gj]AW[ij]AW[jj]AW[pj]AW[qj]AW[ck]AW[nk]AW[pk]AW[rk]AW[rl]AW[dm]AW[on]AW[fo]AW[go]AW[mo]AW[cp]AW[dp]AW[fp]AW[mp]AW[op]AW[qp]AW[cq]AW[oq]AW[dr]AW[pr]AB[hb]AB[kb]AB[cc]AB[gc]AB[pc]AB[bd]AB[cd]AB[hd]AB[be]AB[ge]AB[le]AB[ne]AB[oe]AB[qe]AB[cf]AB[hf]AB[if]AB[jf]AB[lf]AB[bg]AB[cg]AB[gg]AB[lg]AB[ih]AB[jh]AB[ci]AB[di]AB[ei]AB[bj]AB[kj]AB[ek]AB[fk]AB[gk]AB[ik]AB[jk]AB[lk]AB[ok]AB[qk]AB[ml]AB[nl]AB[pl]AB[pm]AB[qm]AB[rm]AB[gp]AB[hp]AB[lp]AB[dq]AB[eq]AB[fq]AB[mq]AB[nq]AB[er]AB[nr]AB[or]LB[on:4]LB[nr:3]LB[or:1]LB[pr:2]C[White 4 was mistake. How should black play?];B[qr]
+(;W[pq]
+(;B[ps]C[  Great job! Black can now play S3 later and white looks like hes in trouble!CHOICERIGHT])
+(;B[rq];W[rp];B[ps]C[RIGHT]))
+(;W[ps];B[qq];W[pq];B[rp];W[qo];B[ro]C[  Great! Black now lives.CHOICERIGHT])
+(;W[qq];B[ps];W[rr];B[pq];W[pp];B[rs]LB[qq:1]C[  White 1 was pointlessCHOICERIGHT]))

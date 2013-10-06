@@ -1,0 +1,20 @@
+(;GE[life and death]DI[15k]DP[62]SO[cusp]CO[7]AB[ak]AB[bk]AB[ck]AB[cj]AB[bi]AB[ch]AB[dh]AB[dg]AW[al]AW[bl]AW[cl]AW[dl]AW[dk]AW[dj]AW[di]AW[ci]C[White to capture some black stones.]AP[goproblems]
+(;W[ah];B[bh]C[Black is safe.])
+(;W[bh];B[bg]
+(;W[ah];B[ai]
+(;W[aj]C[];B[ag];W[bj]C[Good job.RIGHT])
+(;W[bj]C[];B[ag];W[aj]C[Good job.RIGHT]))
+(;W[ai];B[ah]C[Black is safe.])
+(;W[aj];B[ah]C[];W[bj]C[Good job.RIGHT])
+(;W[bj];B[aj];W[ah];B[ag]C[Black is safe.]))
+(;W[ai];B[ah]C[Black is safe.])
+(;W[aj];B[bj]C[And what if black plays here (which he normally wouldn't)?]
+(;W[ah];B[bh]C[Black is safe.])
+(;W[bh];B[ai]
+(;W[ah];B[bg];W[aj]C[Good job, though there was a possibility of a bigger gain.RIGHT])
+(;W[bg]C[Black stones are killed, and you gained extra territory. Good work.RIGHT]))
+(;W[ai];B[ah]C[Black is safe.]))
+(;W[bj];B[aj]
+(;W[ah];B[bh]C[Black is safe.])
+(;W[bh];B[bg];W[ah];B[ag]C[Black is safe.])
+(;W[ai];B[ah]C[Black is safe.])))

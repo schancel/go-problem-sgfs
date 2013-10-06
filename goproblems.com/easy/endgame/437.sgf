@@ -1,0 +1,47 @@
+(;GE[endgame]DI[5k]DP[34]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]
+C[black tried to be sneaky by covering both bases at 4. how to punish?
+]
+AW[bm][bo][co][do][eo][fo][go][ho][hp][hq][hr][jr][gs][hs]
+AB[bp][cp][dp][ep][fp][gp][gq][br][gr][fs]LB[gs:1][fs:2][hs:3][br:4]
+(;W[fr];B[es]
+(;W[er];B[ds]
+(;W[cr];B[cs]
+(;W[bs];B[as];W[dr];B[bs];W[bq]C[RIGHT
+])
+
+(;W[dr];B[bs];W[bq];B[cq])
+
+(;W[bq];B[dr])
+)
+
+(;W[dr];B[cs]
+(;W[bs];B[cr])
+
+(;W[cr];B[bs];W[bq];B[cq])
+)
+)
+
+(;W[dr];B[er];W[eq];B[fq];W[dq];B[cr])
+)
+
+(;W[er];B[fr])
+
+(;W[cr];B[fr])
+
+(;W[aq];B[bq];W[ap];B[ar];W[ao])
+
+(;W[cr];B[er])
+
+(;W[ar];B[aq];W[fr];B[es];W[er];B[ds];W[cr];B[cs]
+(;W[dr];B[bs])
+
+(;W[bs];B[as];W[dr];B[bs])
+)
+
+)

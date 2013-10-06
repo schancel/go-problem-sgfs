@@ -1,0 +1,56 @@
+(;GE[endgame]DI[12k]DP[55]SO[Wervyn]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]TM[]
+PW[Igowin]PB[Wervyn]AW[ca][ga][ha][cb][gb][bc][cc][hc][bd][fd][gd][hd][ae][be][ge][ff][gf][cg][dg][eg][gg][bh][gh][gi]AB[da][fa][db][fb][dc][ec][fc][gc][cd][ed][ce][ee][fe][af][bf][cf][ef][bg][fg][ch][dh][eh][fh][fi]C[Black is down by a point.  How can she win?  (No captures have been made.)]
+(;B[ab]CR[ab]
+(;W[ac]CR[ac]
+(;B[ba]CR[ba]C[RIGHT Now THAT'S sneaky.  White has 15 to your 20, now.])
+(;B[bb]CR[bb]C[Why throw away stones?])
+(;B[aa]CR[aa]C[Wasted effort]))
+(;W[ba]CR[ba]
+(;B[ac]CR[ac]C[White loses the corner and the game.])
+(;B[bb]CR[bb]
+;W[ac]CR[ac]C[No, that wasn't it...])
+(;B[aa]CR[aa]
+;W[ac]CR[ac]C[Yeah, and?])
+(;B[ad]CR[ad]
+;W[ac]CR[ac]C[There WAS a point to that, right?]))
+(;W[aa]CR[aa]
+(;B[ac]CR[ac]
+;W[bb]CR[bb]
+;B[ba]CR[ba]C[Bent five in the corner?])
+(;B[ba]CR[ba]
+;W[bb]CR[bb]
+(;B[aa]CR[aa]
+;W[ac]CR[ac]C[Ooh, so close.])
+(;B[ac]CR[ac]
+;W[aa]CR[aa]C[Black wins since she has ko threats and white doesn't, but this is rather tedious.]))
+(;B[bb]CR[bb]
+;W[ac]CR[ac]
+;B[ba]CR[ba]
+;W[aa]CR[aa]C[Whoops...])
+(;B[ad]CR[ad]
+;W[ac]CR[ac]C[Winners don't do drugs.]))
+(;W[bb]CR[bb]
+(;B[ac]CR[ac]
+;W[aa]CR[aa]
+;B[ba]CR[ba]C[Bent five in the corner?])
+(;B[aa]CR[aa]
+;W[ac]CR[ac]C[No, that wasn't it...])
+(;B[ba]CR[ba]
+;W[aa]CR[aa]C[Okay, now what?])
+(;B[ad]CR[ad]
+;W[ac]CR[ac]C[It seemed like a good idea at the time...]))
+(;W[ad]CR[ad]C[Um...crack kills, mmkay?]))
+(;B[ac]CR[ac]
+;W[ab]CR[ab]C[Newp.])
+(;B[aa]CR[aa]
+;W[ab]CR[ab]C[Nada.])
+(;B[ba]CR[ba]
+;W[ab]CR[ab]C[Zip.])
+(;B[bb]CR[bb]
+;W[ab]CR[ab]C[Is there a pattern here?])
+(;B[ad]CR[ad]
+;W[ac]CR[ac]C[Well, THAT was stupid...])
+(;B[ib]CR[ib]
+;W[hb]CR[hb]C[While not necessarily wrong, as it forces white to reply, this doesn't accomplish anything and wastes a ko threat.])
+(;B[df]CR[df]C[These stones are already captured.  There is no need to waste a move and decrease your own territory.]))

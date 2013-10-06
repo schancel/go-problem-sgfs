@@ -1,0 +1,35 @@
+(;GE[life and death]DI[6k]DP[36]SO[BigMetalGuy]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[White]PB[Black]AW[db][eb][fb][gb][bc][cc]AB[hb][dc][fc][gc][hc][bd][cd][dd]C[Black plays, White dies. (Take advantage of White's shortage of liberties.) ]
+(;B[bb]CR[bb]
+;W[cb]CR[cb]
+;B[ac]CR[ac]
+;W[ab]CR[ab]
+;B[aa]CR[aa]
+;W[ca]CR[ca]
+(;B[ad]CR[ad]
+;W[ga]CR[ga]
+;B[ea]LB[bb:1][cb:2][ac:3]CR[ea]C[RIGHT After 3, White has no space enough to get two eyes. ])
+(;B[ab]CR[ab]
+;W[ga]CR[ga]
+;B[ea]CR[ea]C[RIGHT]))
+(;B[ac]CR[ac]
+;W[bb]CR[bb]
+;B[ab]CR[ab]
+;W[ba]LB[ab:3][bb:2][ac:1]CR[ba]C[If Black plays 1, White can live with 2 and 4. ])
+(;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[ga]CR[ga]
+;W[bb]CR[bb])
+(;B[ba]CR[ba]
+;W[cb]CR[cb]
+;B[ac]CR[ac]
+;W[ab]CR[ab]
+;B[bb]CR[bb]
+;W[ad]CR[ad]
+;B[ae]CR[ae]
+;W[ca]CR[ca]
+;B[ea]CR[ea]
+;W[aa]CR[aa]
+;B[ga]CR[ga]
+;W[fa]CR[fa]))

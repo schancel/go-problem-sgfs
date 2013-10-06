@@ -1,0 +1,37 @@
+(;GE[tesuji]DI[1d]DP[16]SO[Field Mouse]CO[0]AB[rb]AB[qa]AB[pa]AB[qb]AW[rc]AW[qc]AW[pd]AW[od]AW[oe]AW[md]AW[me]AW[kd]AW[ke]AB[jb]AB[ib]AB[hb]AW[ie]AW[hd]AW[id]AB[fc]AB[la]AB[jc]AW[qd]C[What can white play here?]AP[goproblems]
+(;W[mb];B[ma];W[na];B[nb];W[ka];B[lb];W[kb];B[mc];W[kc];B[oa])
+(;W[na];B[nb]
+(;W[mb];B[ma])
+(;W[ob];B[oa];W[mb];B[ma]))
+(;W[ma];B[mb]
+(;W[lb];B[ka])
+(;W[ka];B[lb];W[kb];B[kc]))
+(;W[lb];B[ka]
+(;W[na];B[nb])
+(;W[ma];B[mb]))
+(;W[nb];B[na])
+(;W[ob];B[oa];W[ka];B[lb];W[kb];B[kc];W[mb];B[ma])
+(;W[ka]
+(;B[lb]
+(;W[kb]
+(;B[kc];W[mb]C[Black is disconnected!];B[mc]
+(;W[ob]C[Nice, black is disconnected!RIGHT])
+(;W[nc];B[ma]C[])
+(;W[nb];B[nc];W[ob];B[oc];W[pb];B[pc];W[sb];B[ma];W[ra];B[sa]C[Only ko :(]))
+(;B[nb]C[Black cannot play this way:NOTTHIS];W[kc]
+(;B[mc];W[ob];B[oa];W[nc];B[sb];W[na];B[ma]C[RIGHT];W[lc])
+(;B[oc];W[pc]
+(;B[sb];W[nc];B[ob];W[mb]C[RIGHT])
+(;B[pb];W[nc];B[mc];W[ob];B[oa];W[lc]TR[mb]TR[sb]C[RIGHT]))))
+(;W[mb];B[nb]
+(;W[mc];B[ma])
+(;W[kb];B[mc]
+(;W[kc];B[oc])
+(;W[lc];B[ma]
+(;W[nc];B[kc])
+(;W[kc];B[oc])))))
+(;B[mb]C[NOTTHIS]
+(;W[ob];B[oa];W[lb];B[lc];W[ma];B[nb])
+(;W[kb];B[kc];W[lb];B[lc];W[nb];B[na];W[ma];B[mc];W[oa];B[ob];W[nc];B[na]C[Black can try a ko like this.RIGHT])))
+(;W[oa];B[ob])
+(;W[kb];B[ka]))

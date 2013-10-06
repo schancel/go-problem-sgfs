@@ -1,0 +1,41 @@
+(;GE[life and death]DI[20k]DP[74]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[oa][ra][mb][nb][pb][rb][sb][lc][pc][sc][ld][sd][se][sf]
+AB[ob][qb][oc][qc][nd][pd][qd][me][re][rf][rg][sg]PL[2]
+C[white to connect his stones
+]
+(;W[qa];B[pa]
+(;W[pb];B[pc]
+(;W[pa]C[RIGHT
+black cannot cut white now
+])
+
+(;W[na];B[pa])
+)
+
+(;W[na];B[pb])
+
+(;W[ma];B[na])
+)
+
+(;W[pa];B[qa]C[white is cut
+])
+
+(;W[na];B[pa]
+(;W[qa];B[pb])
+
+(;W[pb];B[qa])
+)
+
+(;W[rd];B[pa])
+
+(;W[rc];B[pa])
+
+(;W[nc];B[pa])
+
+)

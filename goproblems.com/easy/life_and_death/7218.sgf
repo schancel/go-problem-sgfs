@@ -1,0 +1,7 @@
+(;GE[life and death]DI[10k]DP[53]SO[iqer2000]CO[6]AB[or]AB[pq]AB[qq]AB[rr]AB[sr]AW[nr]AW[oq]AW[pp]AW[np]AW[qp]AW[rp]AW[rq]AW[sq]AB[ps]AW[ns]AP[Black to live]
+(;B[pr];W[rs];B[qs];W[os];B[ss]C[RIGHT])
+(;B[rs];W[pr];B[qr];W[os];B[pr]C[RIGHT])
+(;B[qs];W[pr];B[qr];W[os])
+(;B[os];W[qs];B[pr];W[qr])
+(;B[qr];W[os];B[pr];W[rs])
+(;B[ss];W[pr];B[qr];W[os]))

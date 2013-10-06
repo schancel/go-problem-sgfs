@@ -1,0 +1,27 @@
+(;GE[endgame]DI[7k]DP[43]SO[Zander]CO[0]AW[ab]AW[bb]AW[bc]AW[cc]AW[cd]AW[db]AW[eb]AW[fa]AW[gb]AB[fb]AB[ac]AB[ad]AB[bd]AB[ae]AB[ce]AB[bf]AB[cf]AB[cg]AB[dc]AB[dd]AB[ed]AW[ec]AB[fc]AB[fd]AB[gd]AB[ef]AW[ag]AW[bg]AW[bh]AW[bi]AB[ch]AW[ci]AW[di]AB[hc]AB[ic]AB[jc]AB[jd]AB[kb]AB[ja]AW[jb]AW[ib]AW[hb]AW[ha]AW[gc]TR[ja]C[]AP[goproblems]
+(;B[ea]
+(;W[da]
+(;B[ka];W[ca];B[ia];W[ea];B[ga]C[RIGHT])
+(;B[ca];W[ba])
+(;B[ba];W[ca]))
+(;W[ca]
+(;B[ga];W[af]
+(;B[ia];W[be]C[Black can do better.])
+(;B[be];W[fa];B[ka];W[da];B[ia];W[ea];B[ga]C[RIGHT]))
+(;B[ka];W[da])))
+(;B[ka];W[ea]
+(;B[ia];W[ga];B[ca];W[ba])
+(;B[ca];W[ba];B[ia];W[ga]))
+(;B[ca]
+(;W[ba]
+(;B[ea]
+(;W[da];B[ka];W[ea];B[ia];W[cb];B[ga]C[RIGHT])
+(;W[cb];B[ga];W[af];B[be];W[fa];B[ka];W[da];B[ia]))
+(;B[da];W[ea];B[ka];W[cb];B[ia];W[ga])
+(;B[ka];W[ea]))
+(;W[da]))
+(;B[ba];W[ca];B[ea];W[da];B[ka];W[ea];B[ia];W[aa];B[ga]C[RIGHT])
+(;B[cb];W[ca])
+(;B[da];W[ca];B[ka];W[ea];B[ia];W[ga])
+(;B[aa];W[ba];B[ea];W[da];B[ka];W[ea];B[ia];W[ga])
+(;B[af];W[ea];B[ca];W[ba]))

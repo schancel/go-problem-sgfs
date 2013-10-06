@@ -1,0 +1,33 @@
+(;GE[life and death]DI[8k]DP[47]SO[cae]CO[0]AB[aq]AB[bq]AB[cq]AB[dr]AB[er]AW[bp]AW[cp]AB[bs]AW[cr]AW[dp]AW[dq]AW[bn]AW[eq]AW[fr]AW[fs]AW[fq]C[Black to live.FORCE]A[fq]AP[goproblems]
+(;B[ds]
+(;W[es]
+(;B[cs]C[CHOICERIGHT])
+(;B[br];W[cs])
+(;B[ar];W[cs]))
+(;W[br]
+(;B[ar];W[ap];B[cs]C[CHOICERIGHT])
+(;B[cs];W[ar]))
+(;W[cs]
+(;B[br]C[RIGHT])
+(;B[ar];W[es])
+(;B[as];W[es]))
+(;W[ar]
+(;B[br]C[RIGHT])
+(;B[cs];W[br])
+(;B[as];W[br]))
+(;W[ap]
+(;B[cs]C[Best for bothCHOICERIGHT])
+(;B[br];W[es];B[cs]C[One point less than the correct solutionCHOICERIGHT])))
+(;B[es];W[ds])
+(;B[cs];W[ds]
+(;B[es];W[ds])
+(;B[br];W[es]))
+(;B[br];W[ds];B[cs];W[es])
+(;B[as];W[cn]C[White plays Tenuki]
+(;B[es];W[ds])
+(;B[ds];W[br])
+(;B[br];W[ds];B[cs];W[es])
+(;B[cs];W[ds]
+(;B[es];W[ds])
+(;B[br];W[es])))
+(;B[ar];W[ds]))

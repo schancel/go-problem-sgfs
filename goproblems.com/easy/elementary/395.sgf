@@ -1,0 +1,40 @@
+(;GE[elementary]DI[12k]DP[59]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[qp][rp][nq][oq][pq]
+AB[pn][qo][ro][mp][np][op][pp][lq][qq][lr]LB[qq:1]
+C[black plays 1. can white capture, or must sacrifice?
+]
+(;W[rq];B[qr]
+(;W[rr]C[RIGHT
+white captures
+])
+
+(;W[pr];B[rr]
+(;W[sr];B[sp])
+
+(;W[qs];B[sq])
+)
+
+(;W[qs];B[rr])
+)
+
+(;W[qr];B[rq];W[rr];B[sp]C[white can do better
+])
+
+(;W[rr];B[rq]
+(;W[sq];B[sp])
+
+(;W[qr];B[sp])
+)
+
+(;W[pr];B[rq])
+
+(;W[sp];B[rq])
+
+(;W[or];B[rq])
+
+)

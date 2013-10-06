@@ -1,0 +1,86 @@
+(;GE[life and death]DI[1k]DP[19]SO[trucid]CO[8]AB[rc]AB[qc]AB[pc]AB[oc]AB[nc]AB[pd]AB[pe]AB[qd]AB[re]AW[rd]AW[rf]AW[qf]AW[pf]AW[of]AW[ne]AW[nd]AW[od]AW[ob]AW[nb]AW[mc]AW[lc]AW[kc]AW[jc]AW[le]AB[qg]AB[qh]AB[qi]AB[qj]AW[pg]AW[ph]AW[pi]AB[pj]AB[qm]C[Life and Death problem. White to play.]AP[goproblems]
+(;W[ra];B[qa]
+(;W[qb];B[pb]
+(;W[pa];B[rb]
+(;W[qa];B[sb]
+(;W[sd];B[sa]
+(;W[mb];B[oa]
+(;W[qa];B[pa]
+(;W[se]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[qe]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[sf]C[In the real game white missed the T16 move and failed to kill.RIGHT]))
+(;W[se];B[qa]C[You let black live.])
+(;W[qe];B[qa]C[You let black live.]))
+(;W[na];B[oa]
+(;W[qa];B[mb];W[pa];B[ma]C[You let black live.])
+(;W[qe];B[mb]C[You let black live.])
+(;W[se];B[mb]C[You let black live.])
+(;W[lb];B[se]C[You let black live.])
+(;W[mb];B[se]C[You let black live.])
+(;W[ma];B[se]C[You let black live.])
+(;W[la];B[se]C[You let black live.]))
+(;W[oa];B[mb])
+(;W[ma];B[oa];W[qa];B[pa]
+(;W[qe]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[se]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[sf]C[In the real game white missed the T16 move and failed to kill.RIGHT]))
+(;W[lb];B[oa];W[qa];B[pa]
+(;W[qe]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[se]C[In the real game white missed the T16 move and failed to kill.RIGHT])
+(;W[sf]C[In the real game white missed the T16 move and failed to kill.RIGHT]))
+(;W[qe];B[oa]
+(;W[qa];B[mb]C[You let black live.])
+(;W[mb];B[qa]C[You let black live.])
+(;W[ma];B[qa]C[You let black live.])
+(;W[lb];B[qa]C[You let black live.]))
+(;W[se];B[oa]
+(;W[qa];B[mb]C[You let black live.])
+(;W[mb];B[qa]C[You let black live.])
+(;W[lb];B[qa]C[You let black live.])
+(;W[ma];B[qa]C[You let black live.]))
+(;W[sf];B[oa]
+(;W[qa];B[mb]C[You let black live.])
+(;W[mb];B[qa]C[You let black live.])
+(;W[lb];B[qa]C[You let black live.])
+(;W[ma];B[qa]C[You let black live.])))
+(;W[oa];B[sd]C[You let black live.])
+(;W[mb];B[sd]C[You let black live.])
+(;W[ma];B[sd]C[You let black live.])
+(;W[lb];B[sd]C[You let black live.]))
+(;W[sd];B[qa]C[You let black make a ko.])
+(;W[sb]
+(;B[qa]C[You let black make a ko.])
+(;B[sc]C[You let black get away with a ko.]))
+(;W[mb];B[qa]C[You let black make a ko.])
+(;W[ma];B[qa]C[You let black make a ko.])
+(;W[lb];B[qa]C[You let black make a ko.])
+(;W[oa];B[qa]C[You let black make a ko.])
+(;W[na];B[sb]C[You let black live.]))
+(;W[sd];B[rb]C[You let black live.]))
+(;W[sd];B[rb]
+(;W[pb];B[sc]C[You let black live.])
+(;W[se];B[pb]C[You let black live.])
+(;W[sc];B[se]C[You let black live.])
+(;W[pa];B[sa]C[You let black live.])))
+(;W[sd];B[ra]
+(;W[se];B[sc]
+(;W[sb];B[sf]C[You let black live.])
+(;W[qe];B[pb]C[You let black live.])
+(;W[sf];B[pb]C[You let black live.]))
+(;W[sb];B[sc]C[You let black live.])
+(;W[qa];B[sc];W[rb];B[pa]C[You let black live.]))
+(;W[sf];B[sd];W[ra];B[rb]
+(;W[sb];B[qa]C[You let black live.])
+(;W[qa];B[sb]C[You let black live.])
+(;W[pb];B[sb]C[You let black live.])
+(;W[pa];B[sb]C[You let black live.]))
+(;W[qa];B[pa]
+(;W[pb];B[ra];W[qb];B[rb]C[You fail to kill black.])
+(;W[sd];B[sc];W[pb];B[ra];W[qb];B[rb]C[You fail to kill black.]))
+(;W[qb];B[pb];W[pa];B[ra]C[You let black live.])
+(;W[qe];B[sd];W[ra];B[rb];W[sb];B[qa]C[You let black live.])
+(;W[se];B[sd]
+(;W[ra];B[rb]
+(;W[qa];B[sb]C[You let black live.])
+(;W[sb];B[qa]C[You let black live.]))
+(;W[sf];B[qe];W[ra];B[rb]C[You let black live.])))

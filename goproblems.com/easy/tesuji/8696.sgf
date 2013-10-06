@@ -1,0 +1,51 @@
+(;GE[tesuji]DI[4k]DP[31]SO[veehan]CO[5]AB[fp]AB[gp]AB[hp]AB[ip]AB[io]AB[jo]AB[kn]AB[lm]AB[mn]AB[nn]AB[om]AB[pm]AB[pn]AB[po]AB[op]AB[oq]AB[nq]AB[mq]AB[lr]AB[ls]AB[lp]AB[qp]AB[jj]AB[ji]AB[ii]AB[ik]AB[hk]AB[hl]AB[gl]AB[im]AB[hn]AB[pj]AB[pi]AB[qi]AB[rd]AB[rc]AB[qc]AB[pc]AB[ob]AB[nb]AB[mc]AB[lb]AB[lc]AB[kc]AB[kd]AB[jd]AB[id]AB[hd]AB[he]AB[ge]AB[gf]AB[gc]AB[fc]AB[ec]AB[ed]AB[de]AB[df]AB[ef]AB[eg]AB[eh]AB[fi]AB[gi]AB[gj]AB[di]AB[dj]AB[dk]AB[el]AB[dq]AB[cd]AB[bd]AW[be]AW[cf]AW[cg]AW[ch]AW[cj]AW[ck]AW[dm]AW[em]AW[cn]AW[do]AB[co]AB[cp]AW[fo]AW[go]AW[ho]AW[in]AW[jn]AW[jm]AW[km]AW[jk]AW[jl]AW[il]AW[fl]AW[fk]AW[fj]AW[gk]AW[hj]AW[ij]AW[hi]AW[hh]AW[gh]AW[gg]AW[fg]AW[ff]AW[fe]AW[fd]AW[hf]AW[if]AW[ie]AW[ig]AW[jh]AW[kg]AW[kf]AW[ke]AW[je]AW[ld]AW[md]AW[nc]AW[oc]AW[pd]AW[qd]AW[re]AW[qf]AW[lk]AW[mm]AW[nm]AW[nk]AW[ok]AW[pk]AW[qj]AW[rj]AW[ni]AW[qm]AW[qn]AW[qo]AW[pp]AW[pq]AW[qq]AW[or]AW[nr]AW[mr]AW[kr]AW[mb]AW[hc]AW[ic]AW[jc]C[at this point the table looks like white wins. But he has some weak spots. Let's advance a bit in his territory!]AW[od]AP[goproblems]
+(;B[ml];W[mk]
+(;B[kk];W[hm];B[kl];W[gm];B[ll];W[kj]
+(;B[nl]C[there is a better solution!])
+(;B[lj];W[ki];B[li];W[kh]C[white has strong groups so there are little chances to conquer]))
+(;B[nl];W[kk]C[there was more to do..]))
+(;B[kk];W[hm]
+(;B[kl];W[gm]
+(;B[ll];W[lj]
+(;B[kj];W[ki]
+(;B[nl]C[right! the best black can do!RIGHT])
+(;B[li];W[kh]
+(;B[mj];W[mk]C[some points are lost and white is strong enough to defend!])
+(;B[mi];W[mk]C[some points are lost and white is strong enough to defend!])
+(;B[nl]C[right! the best black can do.RIGHT])
+(;B[mk];W[mj];B[nl]C[good! white loses a lot.RIGHT]))
+(;B[mk];W[mj];B[nl]C[right! the best black can do!RIGHT]))
+(;B[mk];W[mj]
+(;B[ml];W[kj]C[you let white some extra points!])
+(;B[kj];W[ki]
+(;B[li];W[kh];B[mi];W[ml]C[you let white some extra points!])
+(;B[nl]C[good! white loses a lot.RIGHT]))
+(;B[nl];W[kj])))
+(;B[ml];W[ll]C[double atari...there is a better way!])
+(;B[mk];W[ll]C[double atari...])
+(;B[lj];W[ll]C[double atari...]))
+(;B[ll];W[lj];B[kj]C[];W[ki]C[good! white can't play L8 before capturing and still has to defend the remained territory...]
+(;B[nl]C[right! the best black can do!RIGHT])
+(;B[li];W[kh]
+(;B[mj];W[mk]C[some points are lost and white is strong enough to defend!])
+(;B[mi];W[mk]C[some points are lost and white is strong enough to defend!])
+(;B[mk];W[mj];B[nl]C[good! white loses a lot.RIGHT])
+(;B[nl]C[right! the best black can do.RIGHT]))
+(;B[mk];W[mj];B[nl]C[right! the best black can do!RIGHT])
+(;B[kl];W[gm]
+(;B[li];W[kh];B[mk];W[mj];B[nl]C[correct!RIGHT])
+(;B[nl]C[correct!RIGHT])
+(;B[mk];W[mj];B[nl]C[correct!RIGHT]))))
+(;B[ll];W[kk]
+(;B[mk];W[mj];B[nl];W[ml];B[mk];W[ml]C[there is a better solution!])
+(;B[ml];W[mk];B[nl]C[there is a better solution!])
+(;B[nl];W[mk]C[can be better..]))
+(;B[kl];W[kk];B[ll];W[ml];B[ln]C[there is a better solution!])
+(;B[nl];W[ll];B[ml];W[mk]C[ok, but there was more to do!])
+(;B[nd];W[ne])
+(;B[mk];W[kk]
+(;B[ml];W[mj];B[lj];W[ll]C[could be better...])
+(;B[mj];W[ll]C[not good! only luck can save black now...]))
+(;B[hm];W[gm])
+(;B[fm];W[gm])
+(;B[eo];W[en];B[fn];W[ep]))

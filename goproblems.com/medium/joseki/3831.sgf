@@ -1,0 +1,21 @@
+(;GE[joseki]DI[3k]DP[27]SO[sloweddie]CO[8]SZ[19]AW[cc]AB[dc]AB[dd]AB[cf]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[db];B[eb]
+(;W[bb];B[da];W[ca]C[RIGHT])
+(;W[ca];B[bb])
+(;W[cb];B[cd];W[bd];B[be];W[bc];B[ad]
+(;W[ac];B[da]C[Dead!];W[ca];B[bb])
+(;W[ba];B[ab];W[ac];B[da]C[Dead.])
+(;W[ab];B[ba]C[Dead!])))
+(;W[cb];B[db]
+(;W[ce];B[be];W[cd];B[de];W[bd];B[bf];W[bb];B[ca];W[ba];B[ac]C[Dead!])
+(;W[cd];B[ce];W[be];B[bf];W[bd];B[bb];W[ca];B[ac];W[ba];B[ab]C[Dead.  Thanks to Cyclone for pointing out the error in my previous variation.]))
+(;W[cd];B[bf]
+(;W[ce];B[de];W[db];B[eb];W[bb];B[ad]
+(;W[bc]
+(;B[ca];W[da];B[ba])
+(;B[da];W[ca];B[ea];W[ac];B[aa]))
+(;W[ca];B[ab];W[ac];B[bc];W[bd];B[ae]))
+(;W[db];B[eb];W[bb];B[da];W[ca];B[ea];W[bd];B[ac];W[ab];B[ad];W[ae];B[be];W[bc];B[ad];W[ce];B[de]))
+(;W[bd];B[cb];W[bb];B[cd];W[bc];B[db]
+(;W[bf];B[be];W[ae];B[ce]C[Depends on the situation, but even if white can live this way, it is usualy very bad for him.])
+(;W[be];B[bf];W[ba];B[ae])))

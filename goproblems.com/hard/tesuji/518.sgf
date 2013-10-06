@@ -1,0 +1,38 @@
+(;GE[tesuji]DI[4d]DP[8]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+PL[B]
+;C[Honinbo Shusai played at B. How 
+would you play if he had played at A 
+instead?]
+AB[ak][bb][bc][cb][ck][cl][cp][db][dc][dj][dm][dp][ea][eb][ej][ek][el][ep][eq][fc][ff][fh][fj][fn][fo][fp][fr][gd][ge][gf][gj][gm][gp][hd][hf][hg][hj][hp][hq][ig][ih][ik][il][ip][jc][jf][ji][jj][jp][ke][kf][kk][ko][kq][le][ll][lo][me][mo][mp][nd][ne][nf][nl][nm][nn][oa][ob][oe][og][om][pg][pj][pk][pl][qc][qd][qg][ql][qm][qp][qr][rf][rn][ro][rq][rr]
+AW[ai][bd][bh][bj][bp][cc][cd][ch][cj][cm][cn][co][cq][dd][di][dq][dr][ec][ed][ei][em][en][eo][er][fb][fg][fi][fm][fq][gb][gh][gq][gr][hc][he][hh][hi][hl][hr][ic][id][ie][if][ii][ij][iq][je][jg][jh][jq][kc][kd][kh][kp][lm][lp][lq][mb][mf][mg][mn][mq][nb][ng][nj][no][nq][of][oh][on][op][pd][pe][ph][pi][pm][pn][pq][pr][qj][qk][qn][qq][rh][rl][rm]
+LB[yy:0][kh:A][yy:0][mk:B];B[lh]
+;W[ki]
+(;B[mi]
+;W[lj]
+;B[mj]
+;W[mk]
+(;B[lk]
+;W[lg]
+;B[kg]
+;W[mh]
+;B[kj]
+C[RIGHT
+You just punish him for being so 
+stupid]
+)(;B[kg]
+C[RIGHT
+You just punish him for being so 
+stupid]
+)(;B[li]
+C[RIGHT
+You just punish him for being so 
+stupid]
+))(;B[li]
+;W[kj]
+;B[jk]
+;W[lj]
+))

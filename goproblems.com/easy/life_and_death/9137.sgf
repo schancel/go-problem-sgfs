@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[33]SO[aditsu]CO[6]AW[qb]AW[qc]AW[rd]AW[re]AB[pb]AB[pc]AB[nc]AB[qd]AB[qe]AB[qf]AB[rf]AB[qh]AP[goproblems]
+(;W[rb]
+(;B[sc]C[CHOICE]
+(;W[sb];B[se];W[rc]C[Yes!RIGHT])
+(;W[se];B[qa];W[ra];B[sb])
+(;W[qa];B[se]
+(;W[rc];B[sd])
+(;W[sb];B[sd])))
+(;B[qa]C[CHOICE]
+(;W[sc];B[ra];W[se];B[sb]C[Ko; white could live unconditionally])
+(;W[ra];B[sc];W[sb];B[se];W[rc]C[Yes!RIGHT])))
+(;W[sc]C[See problem 9134])
+(;W[sb]C[];B[se]
+(;W[ra];B[rc])
+(;W[rc];B[ra])
+(;W[sd];B[ra];W[qa];B[rc];W[sc];B[rb])
+(;W[sc];B[ra];W[qa];B[rb])
+(;W[rb];B[sd])
+(;W[qa];B[rc]))
+(;W[ra]C[See problem 9136])
+(;W[se];B[rb]
+(;W[qa];B[rc])
+(;W[rc];B[qa])
+(;W[ra];B[rc];W[qa];B[pa]))
+(;W[rc];B[se]
+(;W[sb])
+(;W[ra];B[sb])
+(;W[sd];B[sb])))

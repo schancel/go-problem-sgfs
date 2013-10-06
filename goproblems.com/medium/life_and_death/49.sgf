@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1d]DP[16]SO[adum]CO[7]AW[ob]AW[mc]AW[nc]AW[oc]AW[pc]AW[md]AW[rd]AW[me]AW[qe]AW[re]AW[mf]AW[qf]AW[ng]AW[og]AW[pg]AW[qg]AB[pb]AB[qc]AB[rc]AB[nd]AB[od]AB[pd]AB[qd]AB[pe]AB[of]AB[pf]C[black to live unconditionally]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[ra];W[pa]
+(;B[ne];W[qb];B[rb]C[RIGHT])
+(;B[qb];W[sb];B[sc];W[ne]))
+(;B[qa];W[sb]
+(;B[sc];W[rb]
+(;B[qb];W[ne])
+(;B[ne];W[qb];B[pa];W[oa]))
+(;B[rb];W[sc];B[ne];W[oa];B[pa];W[ra]C[only ko]))
+(;B[ne];W[rb]
+(;B[sc];W[qb])
+(;B[qb];W[sc]))
+(;B[rb];W[pa]
+(;B[ne];W[ra])
+(;B[qa];W[qb]
+(;B[ra];W[ne])
+(;B[ne];W[ra])))
+(;B[pa];W[rb]
+(;B[ne];W[sc])
+(;B[sb];W[ra]
+(;B[ne];W[qb])
+(;B[qb];W[ne]))
+(;B[qb];W[sc];B[sb];W[sa];B[ra];W[qa]C[ko])))

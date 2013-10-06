@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2d]DP[12]SO[nutcase]CO[8]C[White to play.]AB[nc]AB[nd]AB[od]AB[pd]AB[pb]AB[qc]AW[pc]AW[oc]AW[lc]AW[lb]AW[le]AW[mf]AW[of]AW[qf]AW[qe]AW[qd]AW[re]
+(;W[ob];B[nb]
+(;W[qb];B[rc]
+(;W[pa];B[rb]
+(;W[ra];B[na]
+(;W[oa];B[sa];W[sb];B[sc]C[]
+(;W[sd];B[sa]C[Two-stage ko in white's favor; the best result.RIGHT])
+(;W[rd];B[sa]C[Two-stage ko in white's favor; the best possible resultRIGHT]))
+(;W[sb];B[oa])
+(;W[rd];B[oa]))
+(;W[na];B[ma]
+(;W[mb];B[oa]C[Direct ko, black takes first. White has a better ko.])
+(;W[oa];B[mb];W[ra];B[sc];W[sb];B[sa]C[This is ko, but white has to win it twice. There is a better ko.])))
+(;W[rb];B[oa]))
+(;W[rc];B[qb];W[rb];B[oa])
+(;W[oa];B[qb]C[Capturing four stones in a row is enough for two eyes for black.]))
+(;W[qb];B[ob]
+(;W[pc];B[rc];W[rb];B[sb])
+(;W[rc];B[pc];W[rb];B[mb]))
+(;W[rc];B[ob]
+(;W[qb];B[pc];W[rb];B[mb])
+(;W[pc];B[qb]
+(;W[mb];B[rb];W[sb];B[nb])
+(;W[rb];B[mb])))
+(;W[rb];B[qb];W[rc];B[mb];W[ob];B[oa];W[qa];B[nb]TR[ma]TR[oc]C[The marked points are mi-ai for two eyes.])
+(;W[nb];B[ob]
+(;W[mb];B[rb])
+(;W[rc];B[mb])))

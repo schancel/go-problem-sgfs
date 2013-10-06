@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[18k]DP[65]SO[ellbur]CO[4]AB[dn]AB[do]AB[dp]AB[ep]AB[fp]AB[go]AW[gp]AW[hp]AW[ho]AB[hn]AB[in]AW[io]AW[cn]AW[dm]AB[em]AB[el]AW[dl]AW[co]AW[cp]AW[dq]AW[eq]AB[fq]AB[gq]AB[hr]AB[ir]AW[is]AW[hs]AW[jq]AW[gs]AW[fs]AW[fr]AW[iq]AW[cr]C[White to do something useful.]AB[jr]AW[kq]AW[ks]AW[kr]AB[js]AW[er]AP[goproblems]
+(;W[hq];B[gr]C[Black should not have made this move.]
+(;W[fo];B[gn];W[en];B[fn];W[eo]C[RIGHT])
+(;W[gn];B[fo]
+(;W[fn];B[en])
+(;W[en];B[fn])))
+(;W[gr];B[hq]C[Black should not have made this move.]
+(;W[fo];B[gn];W[en];B[fn];W[eo]C[RIGHT])
+(;W[gn];B[fo]
+(;W[fn];B[en])
+(;W[en];B[fn])))
+(;W[gn];B[fo]
+(;W[hq];B[gr]
+(;W[fn];B[en])
+(;W[en];B[fn]))
+(;W[gr];B[hq]
+(;W[fn];B[en])
+(;W[en];B[fn])))
+(;W[fo];B[gn]
+(;W[hq];B[gr]C[Black should not have made this move.];W[en];B[fn];W[eo]C[RIGHT])
+(;W[gr];B[hq]C[Black should not have made this move.];W[en];B[fn];W[eo]C[RIGHT])
+(;W[en];B[fn]
+(;W[hq]C[RIGHT])
+(;W[gr]C[RIGHT]))))

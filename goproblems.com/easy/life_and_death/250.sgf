@@ -1,0 +1,19 @@
+(;GE[life and death]DI[5k]DP[34]SO[hello]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AE[bd]AB[be][ce][cd][bc][cb][db]AW[eb][ec][dc][cc][dd][de][cf][bf][af]AB[ad]AW[gb]AB[df]AE[bh]AW[cj][ch]AE[bb]PL[B]TR[be][ce][cd]C[Black to save the marked stones]
+(;B[ab]CR[ab]C[RIGHT])
+(;B[ae]CR[ae]
+;W[bb]CR[bb]
+;B[ba]CR[ba]
+;W[ab]CR[ab])
+(;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[da]CR[da]
+;W[ae]CR[ae]
+;B[bd]CR[bd]
+;W[bb]CR[bb])
+(;B[bb]CR[bb]
+;W[ae]CR[ae]
+;B[bd]CR[bd]
+;W[ab]CR[ab]
+;B[da]CR[da]
+;W[ba]CR[ba]))

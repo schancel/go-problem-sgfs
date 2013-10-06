@@ -1,0 +1,97 @@
+(;GE[life and death]DI[2k]DP[23]SO[megabyte]CO[0]GM[1]FF[4]AP[glGo:1.4]ST[1]
+
+SZ[19]KM[6.5]
+PW[White]PB[Black]
+AB[ap][fq][eq][dq][bp][cq]AW[br][gr][gq][gp][fp][ep][dp][cn][cp][bo][ir]
+(;B[bq]
+;W[ds]TR[gr][ds][br]C[It's a monkey hyperjump]
+(;B[es]
+;W[er]
+(;B[dr]
+;W[fs]
+(;B[fr]
+;W[cs]
+;B[es]C[RIGHT])
+(;B[cs]
+;W[cr]
+(;B[es]C[RIGHT])
+(;B[fr]
+;W[bs]
+;B[es]C[RIGHT])))
+(;B[fr]
+;W[fs]
+(;B[dr]
+;W[cs]
+;B[es]C[RIGHT])
+(;B[cs]
+;W[cr]
+;B[dr]
+;W[bs]
+;B[es]C[RIGHT]))
+(;B[cs]
+;W[fs]
+(;B[dr]
+;W[cr]
+(;B[es]C[RIGHT])
+(;B[fr]
+;W[bs]
+;B[es]C[RIGHT]))
+(;B[fr]
+;W[cr]
+;B[dr]
+;W[bs]
+;B[es]C[RIGHT])))
+(;B[dr]
+;W[es]
+(;B[cs]
+;W[ar]
+;B[fs]
+;W[fr]
+;B[er]
+;W[es])
+(;B[fs]
+;W[fr]
+(;B[er]
+;W[cs]C[White connects]
+(;B[bs]
+;W[as]
+;B[cr]
+;W[gs])
+(;B[ar]
+;W[gs]))
+(;B[cs]
+;W[ar]
+;B[er]
+;W[es])))
+(;B[fr]
+;W[cr]C[Black dies]
+(;B[es]
+;W[dr]
+;B[ar]
+;W[bs])
+(;B[dr]
+;W[es]
+(;B[fs]
+;W[ar])
+(;B[ar]
+;W[fs]
+;B[bs]
+;W[cs]))
+(;B[ar]
+;W[dr]
+;B[bs]
+;W[fs]))
+(;B[cr]
+;W[ar])
+(;B[cs]
+;W[es]))
+(;B[fr]
+;W[bq]C[Black cut])
+(;B[ds]
+;W[bq]C[Black cut])
+(;B[cr]
+;W[bq]C[Black cut])
+(;B[es]
+;W[bq]C[Black cut])
+(;B[bs]
+;W[bq]C[Black cut]))

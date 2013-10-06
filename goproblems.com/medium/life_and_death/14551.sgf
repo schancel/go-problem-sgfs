@@ -1,0 +1,72 @@
+(;GE[life and death]DI[3k]DP[26]SO[whendrik]CO[0]AB[cr]AB[bq]AB[bp]AB[bo]AW[bn]AW[cn]AW[co]AW[cp]AW[dq]AW[eq]AW[gq]AW[bl]AP[goproblems]
+(;W[ar];B[dr]
+(;W[er]
+(;B[ao]
+(;W[aq]
+(;B[ds]
+(;W[br]
+(;B[bs];W[cq]C[Well done!RIGHT])
+(;B[cq];W[bs]C[Well done!RIGHT]))
+(;W[cq];B[br]C[Black lives])
+(;W[bs];B[br]))
+(;B[br];W[ds];B[cs];W[as]C[Bent 4 in the cornerRIGHT]))
+(;W[br];B[aq])
+(;W[ds];B[aq]
+(;W[br];B[cq])
+(;W[bs];B[cs])
+(;W[cs];B[bs])
+(;W[as];B[br])
+(;W[cq];B[br]))
+(;W[bs];B[br]
+(;W[ds];B[cs])
+(;W[aq];B[ds]))
+(;W[cq];B[aq]))
+(;B[ds];W[bs]
+(;B[br];W[ao]C[RIGHT])
+(;B[ao]C[CHOICE]
+(;W[br]
+(;B[aq];W[cq]C[Well done!RIGHT])
+(;B[cq];W[aq]C[Well done!RIGHT]))
+(;W[cq]
+(;B[br];W[aq]C[Seki]))
+(;W[aq];B[br]C[Seki]))
+(;B[aq];W[ao]C[RIGHT])))
+(;W[ao];B[er]
+(;W[fr];B[bs])
+(;W[ap];B[aq];W[fr];B[an];W[ao];B[es]))
+(;W[es];B[ao]
+(;W[aq];B[br]
+(;W[ds];B[er];W[fr];B[cs]
+(;W[as];B[fs]
+(;W[es]C[Black dies by bent 4 in the corner. When everyting else is settled and all outside liberties and threats are gone, White can play at B1 and A2. Black can start a ko but there are no threats at the end of the game (by default) so White wins.RIGHT]MA[bs]MA[ar])
+(;W[gs];B[es]))
+(;W[fs];B[as];W[bs];B[ap]))
+(;W[as];B[ds];W[bs]C[Seki])
+(;W[er];B[ds];W[bs]C[Seki])
+(;W[bs];B[ds]C[Seki]))
+(;W[br];B[aq]
+(;W[cq];B[bs])
+(;W[bs];B[cq])
+(;W[an];B[cq])
+(;W[cs];B[cq];W[ds];B[bs]))
+(;W[bs];B[aq]
+(;W[br])
+(;W[cs];B[ds])
+(;W[cq];B[br]))
+(;W[ds];B[aq]
+(;W[cs];B[bs]
+(;W[br];B[cq])
+(;W[cq];B[br]))
+(;W[bs];B[cs])
+(;W[br];B[cq])
+(;W[cq];B[br]))
+(;W[cq];B[aq])))
+(;W[dr];B[ar])
+(;W[bs];B[ar])
+(;W[ao];B[ar])
+(;W[ap];B[ao])
+(;W[aq];B[ar])
+(;W[br];B[ar])
+(;W[cq];B[ar])
+(;W[cs];B[dr])
+(;W[ds];B[ar]))

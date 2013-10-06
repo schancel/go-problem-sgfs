@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2d]DP[13]SO[kennabee]CO[6]AB[br]AB[ar]AB[cq]AB[cp]AB[co]AB[cn]AB[do]AB[bm]AB[bl]AW[bk]AW[ck]AW[cl]AW[dm]AW[en]AW[dn]AW[eo]AW[ep]AW[dp]AW[dq]AW[dr]AW[cr]AW[fr]AW[gr]AB[hs]AB[hr]AB[hq]AB[hp]AB[ip]AW[jp]AW[iq]AW[ir]AW[jr]AW[kr]AB[jq]AB[kq]AW[lr]AB[lq]AW[nr]AW[nq]AW[np]AB[mp]AB[el]AB[fm]AB[fn]AB[fo]AB[dk]AB[dj]AB[ej]AB[ei]AB[eh]AW[dh]AW[di]AW[cj]AW[bi]AW[ai]AB[aj]AB[ak]AB[dg]AB[df]AB[bh]C[Can Black kill?FORCE]AW[bs]AW[fp]LB[aj:1]LB[ai:2]LB[ak:3]LB[gr:4]LB[hs:5]LB[fp:6]LB[hk:Yes]LB[ik:No]AB[jn]AW[gm]AB[jl]AW[im]AB[jm]AP[goproblems]
+(;B[hk];W[ik]C[Prove it.]
+(;B[gq]
+(;W[fq]C[CHOICE]
+(;B[gs]
+(;W[cs]C[CHOICE];B[es];W[fs];B[er]C[RIGHT])
+(;W[es]C[CHOICE];B[cs]C[RIGHT])
+(;W[er]C[CHOICE]
+(;B[cs];W[fs];B[ds];W[es];B[cs]C[RIGHT])
+(;B[fs];W[es];B[cs];W[ds]C[RIGHT])))
+(;B[es];W[er])
+(;B[cs];W[gs];B[es];W[er])
+(;B[er];W[es]
+(;B[gs];W[cs])
+(;B[cs];W[gs])))
+(;W[gs];B[fq]
+(;W[eq];B[es]C[RIGHT])
+(;W[es];B[eq];W[er];B[cs]C[RIGHT])))
+(;B[gs];W[gq]
+(;B[eq];W[cs];B[es];W[fs];B[er];W[gp]C[Seki])
+(;B[es];W[fs]))
+(;B[es];W[gq])
+(;B[gp];W[gq]))
+(;B[ik]AB[dh]AB[di]AB[cj]AB[ck]AB[cl]AB[bk]AB[bi]AB[ai]AW[bh]AW[dg]AW[df]AW[eh]AW[ei]AW[ej]AW[dj]AW[dk]AW[el]AB[dm]AB[dn]AB[en]AW[cn]AW[co]AW[do]AW[cp]AW[cq]AW[br]AW[ar]AB[bs]AB[dr]AB[cr]AB[dq]AB[dp]AB[ep]AB[eo]AB[fp]AW[fo]AW[fn]AW[fm]AW[bm]AW[bl]AW[ak]AW[aj]AB[gr]AB[fr]AW[hs]AW[hr]AW[hq]AW[hp]AW[ip]AB[iq]AB[ir]AB[jr]AB[kr]AB[lr]AW[lq]AW[kq]AW[jq]AB[jp]AB[nr]AB[nq]AB[np]AW[mp]AW[jn]AW[jm]AW[jl]AB[im]AB[gm];W[gq]
+(;B[fq];W[gs]
+(;B[er];W[fs];B[es];W[cs])
+(;B[fs];W[cs];B[ds];W[er])
+(;B[es];W[cs]))
+(;B[gs];W[fq]
+(;B[es];W[eq];B[er];W[cs])
+(;B[eq];W[es]))
+(;B[es];W[fq]
+(;B[eq];W[gs];B[fs];W[cs])
+(;B[gs];W[eq];B[er];W[cs])
+(;B[cs]
+(;W[eq];B[er];W[gs])
+(;W[gs];B[eq];W[fs])))))

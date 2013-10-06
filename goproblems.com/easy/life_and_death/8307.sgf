@@ -1,0 +1,71 @@
+(;GE[life and death]DI[12k]DP[57]SO[knx]CO[9]AB[da]AB[db]AB[ea]AB[cc]AB[bd]AB[dd]AW[fa]AW[eb]AW[dc]AW[ec]AW[fc]AB[ba]AW[bf]AW[cf]AW[ef]AW[fe]AW[ff]AW[fg]AW[cb]LB[ba:1]LB[cb:2]C[You just realized that 1 is not the best way to defend the corner. Save this situation if it is possible. (T for Tenuki)]LB[cg:T]AW[gb]AW[dg]AP[goproblems]
+(;B[bb];W[ca]AW[dg]
+(;B[ac];W[ce]
+(;B[cd]C[Very good. The best you can do!RIGHT])
+(;B[ad];W[cd]C[The corner is lost.])
+(;B[be];W[cd]
+(;B[ae];W[bc]C[Ko. You can do better!])
+(;B[bc];W[ae]C[Only one eye.]))
+(;B[ab];W[cd]
+(;B[be];W[ae]C[The corner is lost.])
+(;B[ad]C[The corner is lost.]))
+(;B[ae];W[cd];B[be];W[bc]C[Ko. You can do better!]))
+(;B[ce];W[ac]
+(;B[be];W[de]
+(;B[ad];W[ab]C[The corner is lost.])
+(;B[bc];W[ab]C[No way to make two eyes now.])
+(;B[ab];W[bc];B[ad]C[YesRIGHT]))
+(;B[de];W[be];B[ad];W[ab]C[The corner is lost!])
+(;B[bc];W[be];B[ad];W[ab]C[The corner is lost.])
+(;B[ad];W[ab];B[be];W[de]C[The corner is lost.])
+(;B[ae];W[ab]
+(;B[bc];W[be]C[The corner is lost.])
+(;B[ad];W[be]C[The corner is lost.]))
+(;B[ab];W[ad]
+(;B[ae];W[be];B[bc];W[ad]C[No way to make two eyes now.])
+(;B[bc];W[be];B[ae];W[ad]C[No way to make two eyes now.])
+(;B[be];W[ae]
+(;B[bc];W[af];B[de]C[Yes!RIGHT])
+(;B[de]C[Very Good! White cannot cut at B17.RIGHT]))))
+(;B[ab];W[ad]
+(;B[ae];W[be];B[ac]C[Yes! RIGHT])
+(;B[be];W[ae];B[ac];W[af];B[ce];W[de]C[The group is dead.])
+(;B[ac];W[ae];B[ce];W[be]C[B17 is false.])
+(;B[bc];W[be]C[The group is dead.])
+(;B[ce];W[be];B[ac];W[ae]C[B17 is false.]))
+(;B[ad]C[Yes. That is life!RIGHT])
+(;B[ae];W[ac];B[ab];W[ad]
+(;B[be]C[Very good!RIGHT])
+(;B[cd];W[be]C[Only one eye.];B[bc];W[ad]))
+(;B[be];W[ac];B[ab];W[ad];B[ae]C[Very good!RIGHT])
+(;B[af];W[ac];B[ab];W[ad]
+(;B[be];W[ae];B[bc];W[ad];B[ae]C[Very good!RIGHT])
+(;B[ae];W[be]C[Only one eye.])
+(;B[ce];W[be]C[No way to make two eyes now.]))
+(;B[bc];W[ad]
+(;B[ac];W[ae];B[be];W[af]
+(;B[ce];W[de]C[Only one eye.])
+(;B[de];W[ce]C[Only one eye]))
+(;B[be];W[ae];B[ce];W[de]C[Only one eye now])))
+(;B[bc];W[bb]
+(;B[ca];W[aa]C[No.])
+(;B[ab];W[ca]C[No. There is not enough eyespace this way.])
+(;B[ac]C[No way to make two eyes now. (White can tenuki)])
+(;B[ce];W[be]C[No way to make two eyes without killing whites two stones.]))
+(;B[ab];W[bb]
+(;B[bc];W[ca]C[Not enough eyespace.])
+(;B[ca];W[aa];B[ba];W[bc]C[No.])
+(;B[ce];W[bc]C[There in not enough eyespace.])
+(;B[be];W[bc]C[This is not the way.]))
+(;B[ce];W[bb]C[No. You have to take the corner.])
+(;B[cd];W[bb]C[No. You have to take the corner.])
+(;B[ac];W[bb];B[ab];W[ca]C[There is not enough eyespace.])
+(;B[ad];W[bb]C[No. You have to take the corner to make two eyes.])
+(;B[cg]C[];W[bb]C[Wrong. You can save the corner!])
+(;B[fd];W[bb];B[ed];W[gd]C[The corner is lost.])
+(;B[fb]
+(;W[gb])
+(;W[ca];B[bb])
+(;W[bb];B[ga]))
+(;B[ga];W[bb];B[fb];W[ca]C[The corner is lost.])
+(;B[ca];W[bb]C[The corner is lost.]))

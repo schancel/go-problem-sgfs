@@ -1,0 +1,69 @@
+(;GE[life and death]DI[5k]DP[33]SO[DarkSycthe]CO[0]AB[ip]AB[jp]AB[kp]AB[lq]AB[lr]AB[ls]AB[hq]AB[hr]AB[hs]AW[gs]AW[gr]AW[gq]AW[gp]AW[hp]AW[ho]AW[io]AW[jo]AW[ko]AW[lo]AW[lp]AW[mp]AW[mr]AW[ms]AW[mq]LB[gm:0]LB[hm:1]LB[im:2]LB[jm:3]LB[km:4]LB[lm:5]LB[mm:6]LB[in:7]LB[jn:8]LB[kn:9]C[How many different first moves can black play to live unconditionally with points? In other words, black to play and live, without seki, and no ko - how many possible moves are there?FORCE]AP[goproblems]
+(;B[gm]C[No, black can live. K2 works.])
+(;B[hm]C[K2 of course, right? But there's more. Navigate solutions for details])
+(;B[im]C[There's more! Navigate solutions for details.])
+(;B[jm];W[km]C[Correct! Now you can play around with variations of moves that work and don't work. In symmetrical situations, please play on the right.RIGHT]
+(;B[jr]C[RIGHT])
+(;B[jq]
+(;W[jr]
+(;B[js]
+(;W[ir];B[kr]C[RIGHT])
+(;W[kr];B[ir]C[RIGHT]))
+(;B[kr])
+(;B[ir]C[NOTTHIS]))
+(;W[js];B[jr]C[RIGHT])
+(;W[kr];B[jr]C[RIGHT])
+(;W[ks];B[jr]C[RIGHT]))
+(;B[js]
+(;W[jr]
+(;B[jq])
+(;B[kr];W[iq])
+(;B[ir]C[NOTTHIS])
+(;B[kq])
+(;B[iq]C[NOTTHIS]))
+(;W[kq]
+(;B[jq]
+(;W[kr];B[ks]C[RIGHT])
+(;W[jr];B[kr]C[RIGHT]))
+(;B[jr]C[RIGHT])
+(;B[kr]C[RIGHT]))
+(;W[jq];B[jr]C[RIGHT])
+(;W[kr];B[jr]
+(;W[jq];B[iq]C[RIGHT])
+(;W[kq];B[ks]C[RIGHT])))
+(;B[kq];W[jr]
+(;B[ir];W[js];B[jq];W[is])
+(;B[js];W[ir]
+(;B[kr];W[iq])
+(;B[is];W[iq])
+(;B[iq];W[kr];B[jq]C[Seki]))
+(;B[jq];W[is])
+(;B[iq];W[js]))
+(;B[kr];W[jr]
+(;B[jq];W[is]
+(;B[js];W[ks]C[Ko])
+(;B[iq];W[ks]C[Ko]))
+(;B[ir];W[js];B[jq]C[Seki])
+(;B[js];W[iq]
+(;B[kq];W[is])
+(;B[is];W[kq]))
+(;B[iq];W[js];B[jq];W[ks]))
+(;B[ks];W[jr]
+(;B[ir];W[js]
+(;B[jq];W[kq])
+(;B[kq];W[jq]))
+(;B[jq];W[js]
+(;B[kq];W[ir])
+(;B[ir];W[kq]))
+(;B[js];W[iq])
+(;B[kr];W[js];B[kq];W[iq])
+(;B[kq];W[iq];B[js];W[is]))
+(;B[iq]C[NOTTHIS])
+(;B[ir]C[NOTTHIS])
+(;B[is]C[NOTTHIS]))
+(;B[km]C[Nope. Too many. Navigate solution for details.])
+(;B[lm]C[Nope. Too many. Navigate solution for details.])
+(;B[mm]C[Nope. Too many. Navigate solution for details.])
+(;B[in]C[Nope. Too many. Navigate solution for details.])
+(;B[jn]C[Nope. Too many. Navigate solution for details.])
+(;B[kn]C[Did you read out the variations first? Navigate solutions for details.]))

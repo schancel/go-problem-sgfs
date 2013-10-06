@@ -1,0 +1,25 @@
+(;GE[endgame]DI[4k]DP[29]SO[MeleeNewb]CO[0]AW[am]AW[bm]AB[al]AB[bl]AB[cm]AB[cl]AW[co]AW[bo]AW[bq]AB[cq]AW[cp]AB[dp]AB[do]AB[dn]AB[dq]AW[cr]AW[dr]AB[er]AB[fq]AW[cn]AP[goproblems]
+(;B[br]
+(;W[bs];B[ar]
+(;W[aq]
+(;B[ao];W[as]
+(;B[bn];W[ds];B[bp]C[CHOICERIGHT])
+(;B[ds];W[ap]))
+(;B[ds];W[as]))
+(;W[cs]
+(;B[ap];W[ao]
+(;B[bn];W[an];B[aq]C[RIGHT])
+(;B[an];W[bn];B[aq]C[RIGHT]))
+(;B[aq];W[ap])
+(;B[an];W[ao]
+(;B[ap];W[bn];B[aq]C[RIGHT])
+(;B[bp];W[ap];B[bn]C[RIGHT])
+(;B[aq];W[ap]))
+(;B[bn];W[an]
+(;B[ap];W[bp];B[aq]C[RIGHT])
+(;B[aq];W[ap]))))
+(;W[ar];B[bs]C[Best for bothRIGHT]))
+(;B[ao];W[ap];B[br];W[bs];B[ar];W[cs];B[es];W[an];B[ds];W[aq];B[as];W[cr])
+(;B[ap];W[aq];B[ao];W[bp];B[an];W[bn])
+(;B[ds];W[bs])
+(;B[an];W[bn];B[br];W[bs];B[ar];W[aq]))

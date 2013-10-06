@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4k]DP[29]SO[stefliew]CO[0]AB[pa]AB[pb]AB[qc]AB[rb]AB[qd]AB[qe]AB[re]AB[sd]AW[oa]AW[ob]AW[oc]AW[pc]AW[pd]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]AW[se]AW[ra]TR[ra]C[White has just played the triangled stone. Black to defend the best way he can.]AP[goproblems]
+(;B[sb];W[qb];B[rc]C[];W[qa]C[Black is alive, but there is a better way to save the group.])
+(;B[rc];W[qb];B[sb]C[];W[qa]C[Black is alive, but there is a better way to save the group.])
+(;B[qb];W[sc]
+(;B[rd];W[sb]C[Seki.RIGHT])
+(;B[sb];W[rd]C[Black has only one eye now.];B[rc];W[sd])
+(;B[rc];W[rd]C[Ko for life. Black can do better.];B[sb];W[sd]))
+(;B[qa];W[qb]C[Oops. Snapback.])
+(;B[sa];W[sb];B[qb];W[sc];B[rd]C[Seki. Not the best Black can do.])
+(;B[sc];W[qb]
+(;B[qa];W[qb]
+(;B[sb];W[qa]C[Black is dead.])
+(;B[rc];W[sa]C[Black is dead.]))
+(;B[rc];W[sa]C[Black is dead.]
+(;B[sb];W[qa])
+(;B[qa];W[qb]))
+(;B[sb];W[qa]C[Black is dead.]))
+(;B[rd];W[qb];B[sc];W[sa]C[Black is dead.]
+(;B[qa];W[qb])
+(;B[sb];W[qa])))

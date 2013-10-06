@@ -1,0 +1,25 @@
+(;GE[endgame]DI[7k]DP[44]SO[kochi]CO[7]AB[ig]AB[jg]AB[kg]AB[kb]AB[ka]AW[gg]AW[hg]C[White just played B.  Should black play A or C now?]AB[od]AW[fh]AB[le]AB[lf]AW[ff]AW[fe]AB[ha]AB[hb]AB[hc]AB[hd]AW[ja]AW[jb]AW[ic]AW[id]AW[he]AW[hf]AB[ie]AB[if]AW[lc]AW[ld]AW[ke]AW[je]AW[jd]AW[kd]AW[jc]AB[lb]AB[nc]AB[md]AB[mc]AB[nb]AB[ma]AB[kc]AW[ec]AW[cd]AW[ga]AW[gb]AW[fd]AW[fc]AB[mg]AB[ii]AB[ih]AW[hj]AW[hi]AW[hh]AB[ik]AB[lk]AB[kk]AB[mj]AW[hk]AB[jk]AB[mi]AB[lh]AW[ij]AW[kj]AW[gk]AW[fk]AW[ek]AW[dk]AW[ck]AW[bk]AW[bj]AW[aj]AB[ak]AB[al]AB[bl]AB[cl]AB[dl]AB[el]AB[fl]AB[gl]AB[hl]AB[il]LB[he:B]LB[jj:A]LB[jf:C]AP[goproblems]
+(;B[jj]C[Yes, above is a seki, B has a 1 point gote on the left.  Playing the forcing moves above is wrong because they are bigger threats for B than for W, so he should preserve them.RIGHT])
+(;B[jf]LB[jj:A];W[gd]LB[jj:A]
+(;B[kf]LB[jj:A];W[gc]C[]LB[jj:A];B[jj]C[Wasting these ko threats is wrong, since they are 22 point threats for B but only 8 point threats for W.  You should just play at A.])
+(;B[gc];W[ib])
+(;B[ib];W[gc])
+(;B[ia];W[gc])
+(;B[jj]C[You wasted a ko threat above.  Although they're threats for both B and W, they're much bigger threats for B.]))
+(;B[kf]LB[jj:A];W[gd]LB[jj:A]
+(;B[jf]LB[jj:A];W[gc]C[]LB[jj:A];W[jj]C[Wasting these ko threats is wrong, since they are 22 point threats for B but only 8 point threats for W.  You should just play at A.])
+(;B[gc];W[ib])
+(;B[ib];W[gc])
+(;B[ia];W[gc])
+(;B[jj]C[You wasted a ko threat above.  Although they're threats for both B and W, they're much bigger threats for B.]))
+(;B[gd];W[jj]C[White does not even have to answer. Black has given up sente for only one point; much too small.])
+(;B[gc];W[fb]LB[jj:A]
+(;B[kf];W[jj]C[Black has lost sente, for only one point or so. Much too small.])
+(;B[jf];W[jj]C[Black has given up sente, for only one point or so. Much too small.])
+(;B[gd];W[ge]LB[jj:A]
+(;B[kf];W[ib])
+(;B[jf];W[ib])
+(;B[jj];W[ib]))
+(;B[jj];W[gd]
+(;B[jf];W[ib])
+(;B[kf];W[ib]))))

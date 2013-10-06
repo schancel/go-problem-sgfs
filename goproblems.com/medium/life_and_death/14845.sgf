@@ -1,0 +1,68 @@
+(;GE[life and death]DI[2d]DP[13]SO[traxtin]CO[0]AB[ga]AB[gb]AB[fb]AB[gc]AB[fd]AB[fe]AB[ee]AB[dd]AB[cd]AB[ce]AB[cf]AB[bf]AB[ae]AW[be]AW[bd]AW[cc]AW[ac]AW[dc]AW[ec]AW[ed]AW[fc]AW[eb]C[Black to play and Win the game. The rest of the board is settled and Black is behind by around 10 points.]AP[goproblems]
+(;B[bb];W[bc]
+(;B[cb]
+(;W[ba];B[ab]
+(;W[da]
+(;B[fa]
+(;W[ca];B[ea]C[RIGHT])
+(;W[ea];B[ca]C[RIGHT]))
+(;B[ea];W[fa]C[There was no reason to start this Ko. White Thanks you! :(])
+(;B[ca];W[db]C[You were in too much of a rush! Now white can live. :(])
+(;B[db];W[ca]C[3 in a row kills... Not 4 :(])
+(;B[aa]C[Dead shapes are your friend! By the way White will now play elsewhere since he is now alive in sente :(]))
+(;W[ea]
+(;B[ca];W[da];B[fa]C[RIGHT])
+(;B[da];W[db])
+(;B[db]C[3 in a row kills... Not 4 :( By the way... You let White live in sente!])
+(;B[aa];W[db];B[ca];W[da])
+(;B[fa];W[ca])))
+(;W[ab];B[ba]
+(;W[da]
+(;B[fa]
+(;W[ca];B[ea]C[RIGHT])
+(;W[ea];B[ca]C[RIGHT]))
+(;B[ca]C[Yes, Dead shape!RIGHT])
+(;B[db];W[aa]C[Cries!])
+(;B[aa];W[db]C[and then there was... not even a ko threat :(])
+(;B[ea];W[fa]LB[di:Threat?]
+(;B[di];W[ca]C[Well lets hope you have LOTS of threats now. White just made his group into a ko for seki when he should have died unconditionally!])
+(;B[ca]C[Yea but... Why did you play E19? Wrong for wasting moves!])))
+(;W[ea]LB[di:Tenuki?]
+(;B[di]C[Correct! White just died in Gote!RIGHT])
+(;B[da]C[Was this really needed?])
+(;B[ca]C[Was this really needed?])
+(;B[db];W[ca];B[da];W[aa]C[Okay... That was silly!])
+(;B[aa];W[ca];B[da];W[db]C[*insert tears here*]))))
+(;B[ba];W[cb]
+(;B[ca];W[ea]C[Not even a Ko threat exists here!])
+(;B[da];W[ea]C[Still no ko threats!])
+(;B[ea];W[da];B[ca];W[fa]C[You found a Ko... But it has 2 flaws! 1) White takes first 2) its ONLY a ko!]))
+(;B[ab]
+(;W[cb])
+(;W[ea]C[This move is a mistake! You can make a Ko now!]
+(;B[cb];W[ca];B[ba];W[db];B[da]C[Yep... But you are STILL wrong!])
+(;B[ba];W[cb])
+(;B[ca];W[cb])
+(;B[da];W[ca])))
+(;B[ca];W[cb]
+(;B[ea];W[ba]
+(;B[aa];W[ab])
+(;B[da];W[ab]))
+(;B[da];W[ea])
+(;B[ba]))
+(;B[da];W[ea];B[cb];W[ba]C[:(])
+(;B[ea];W[ba]
+(;B[ab];W[da];B[cb])
+(;B[cb];W[da]
+(;B[ab])
+(;B[fa];W[ab])
+(;B[ca];W[ab];B[aa]C[Ko!]))
+(;B[ca];W[cb])
+(;B[da];W[ab];B[cb];W[db])))
+(;B[da];W[ea]
+(;B[bb];W[bc])
+(;B[cb];W[bb]))
+(;B[ea];W[bb]
+(;B[ca];W[ba])
+(;B[da];W[ca]))
+(;B[ca];W[bb]))

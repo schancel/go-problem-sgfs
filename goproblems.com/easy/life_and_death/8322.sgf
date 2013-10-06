@@ -1,0 +1,6 @@
+(;GE[life and death]DI[8k]DP[45]SO[cusp]CO[6]AB[dp]AB[ep]AB[co]AB[pp]AB[op]AB[qo]AW[do]AW[po]AW[od]TR[do]TR[po]C[Exercise in ladders and ladder breakers: out of the two triangled stones, how many can be killed by Black?]LB[hq:0]LB[jq:1]LB[lq:2]AW[ee]AP[goproblems]
+(;B[hq]C[Actually, one of the stones can be killed :). Navigate for the solution.])
+(;B[jq]C[Correct, Black can take one of the stones. Navigate the solution if your answer was a lucky guess :)RIGHT])
+(;B[lq]C[It's impossible to kill both of them. As soon as Black threatens one of them White can escape with the other.])
+(;B[dn]C[This line of play shows what happens when White tries to save both stones.];W[eo];B[pn];W[oo];B[no];W[on];B[fo];W[en];B[em];W[fn];B[om];W[nn];B[mn];W[nm];B[gn];W[fm];B[fl];W[gm];B[nl];W[mm];B[lm];W[ml];B[hm];W[gl];B[gk];W[hl];B[mk];W[ll];B[kl];W[lk];B[il];W[hk];B[hj];W[ik];B[lj];W[kk];B[jk]C[Double atariRIGHT])
+(;B[jk]C[Double ladder maker. K10 would also work (see comments).RIGHT]))

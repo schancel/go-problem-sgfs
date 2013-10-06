@@ -1,0 +1,97 @@
+(;GE[life and death]DI[4d]DP[7]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[pb][rb][sb][pc]AB[lb][mb][mc][nc][oc][rc][od][pd][qd][sd][re]LB[ng:5][og:4][pg:3][qg:2][rg:1][sg:0][oh:10][ph:9][qh:8][rh:7][sh:6]C[how many ways to kill without ko? click on the number]
+(;B[ph]CR[ph]
+;W[pi]CR[pi]C[RIGHT
+correct answer. now you can explore]
+(;B[sa]CR[sa]
+;W[qc]CR[qc]
+;B[qa]CR[qa]
+;W[ra]CR[ra]
+;B[pa]CR[pa]
+;W[ob]CR[ob]
+;B[oa]CR[oa]
+;W[na]CR[na])
+(;B[qb]CR[qb]
+;W[qc]CR[qc]
+;B[pa]CR[pa]
+;W[qa]CR[qa]
+;B[oa]CR[oa]C[RIGHT
+dead])
+(;B[ra]CR[ra]
+(;W[qc]CR[qc]
+;B[qa]CR[qa]
+;W[pa]CR[pa]C[RIGHT
+dead])
+(;W[qa]CR[qa]
+;B[qc]CR[qc]C[RIGHT
+dead]))
+(;B[qa]CR[qa]
+;W[ra]CR[ra]
+(;B[pa]CR[pa]
+;W[ob]CR[ob]
+;B[oa]CR[oa]
+;W[na]CR[na])
+(;B[qb]CR[qb]
+;W[qc]CR[qc]))
+(;B[qc]CR[qc]C[RIGHT
+dead])
+(;B[ob]CR[ob]
+;W[qa]CR[qa]
+;B[qc]CR[qc]C[RIGHT
+dead])
+(;B[pa]CR[pa]C[RIGHT
+dead])
+(;B[oa]CR[oa]
+;W[pa]CR[pa]
+(;B[qc]CR[qc]C[RIGHT
+dead])
+(;B[qb]CR[qb]
+;W[qc]CR[qc])
+(;B[ra]CR[ra]C[RIGHT
+dead])
+(;B[ob]CR[ob]C[RIGHT
+dead]))
+(;B[nb]CR[nb]
+;W[qc]CR[qc]
+;B[qa]CR[qa]
+;W[ra]CR[ra]
+;B[pa]CR[pa]
+;W[oa]CR[oa]
+;B[ob]CR[ob]C[RIGHT
+dead])
+(;B[na]CR[na]
+;W[qc]CR[qc]
+;B[qa]CR[qa]
+;W[ra]CR[ra]
+;B[pa]CR[pa]C[RIGHT
+dead])
+(;B[ma]CR[ma]
+;W[qc]CR[qc]
+;B[qa]CR[qa]
+;W[ra]CR[ra]
+;B[pa]CR[pa]
+;W[ob]CR[ob]
+;B[oa]CR[oa]C[RIGHT
+dead]))
+(;B[sg]CR[sg]C[wrong. after you select the correct number, you can explore])
+(;B[sa]CR[sa]C[NOTTHIS])
+(;B[ra]CR[ra]C[NOTTHIS])
+(;B[qa]CR[qa]C[NOTTHIS])
+(;B[qb]CR[qb]C[NOTTHIS])
+(;B[qc]CR[qc]C[NOTTHIS])
+(;B[pa]CR[pa]C[NOTTHIS])
+(;B[ob]CR[ob]C[NOTTHIS])
+(;B[oa]CR[oa]C[NOTTHIS])
+(;B[na]CR[na]C[NOTTHIS])
+(;B[nb]CR[nb]C[NOTTHIS])
+(;B[ma]CR[ma]C[NOTTHIS])
+(;B[rg]CR[rg]C[wrong. after you select the correct number, you can explore])
+(;B[qg]CR[qg]C[wrong. after you select the correct number, you can explore])
+(;B[pg]CR[pg]C[wrong. after you select the correct number, you can explore])
+(;B[og]CR[og]C[wrong. after you select the correct number, you can explore])
+(;B[ng]CR[ng]C[wrong. after you select the correct number, you can explore])
+(;B[sh]CR[sh]C[wrong. after you select the correct number, you can explore])
+(;B[rh]CR[rh]C[wrong. after you select the correct number, you can explore])
+(;B[qh]CR[qh]C[wrong. after you select the correct number, you can explore])
+(;B[oh]CR[oh]C[wrong. after you select the correct number, you can explore]))

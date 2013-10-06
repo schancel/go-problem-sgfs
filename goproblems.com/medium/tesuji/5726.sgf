@@ -1,0 +1,67 @@
+(;GE[tesuji]DI[2d]DP[13]SO[maba]CO[8]AB[rb]AB[rd]AW[rc]AB[qc]AB[oc]AB[pc]AB[nb]AB[mc]AB[lc]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[ob]AB[la]AB[re]AW[qe]AW[rf]AW[qg]C[White to do something good.]AP[goproblems]
+(;W[sc]
+(;B[sb]
+(;W[qb];B[sd]
+(;W[rc];B[sc]
+(;W[pb];B[rc]C[The two stone edge squeeze to reduce black's liberties. Both groups have three liberties now and it's white's turn, but white needs an approach move. How to handle this?]
+(;W[na];B[mb]
+(;W[ra]TR[na]TR[ra]C[]
+(;B[oa]
+(;W[sf];B[ma]
+(;W[se];B[qa];W[sa]C[RIGHT])
+(;W[qa];B[na];W[se];B[pa];W[sa]C[RIGHT]))
+(;W[qa];B[ma];W[sf];B[na];W[se];B[pa];W[sa]C[RIGHT])
+(;W[pa];B[ma];W[sf];B[oa]C[ko]))
+(;B[pa]
+(;W[qa]C[RIGHT])
+(;W[oa];B[ma];W[qa]C[RIGHT])
+(;W[sf];B[qa];W[oa];B[qa]
+(;W[se]C[RIGHT])
+(;W[pa];B[ma]
+(;W[se];B[qa])
+(;W[qa];B[sa])
+(;W[sa];B[qa]))))
+(;B[qa]C[Because of the two marked hanes black needs another three moves to capture white, so white wins the race :)CHOICE]TR[na]TR[ra]
+(;W[sf];B[pa];W[oa];B[qa]
+(;W[se]C[RIGHT])
+(;W[pa];B[ma]))
+(;W[oa];B[ma])
+(;W[pa];B[ma];W[sf];B[oa]C[ko]))
+(;B[sf];W[sg];B[qa];W[se]C[Black gets an indirect ko.RIGHT]))
+(;W[qa];B[ra]
+(;W[sf];B[oa])
+(;W[oa];B[ma]))
+(;W[oa];B[qa])
+(;W[pa];B[ra])
+(;W[sf];B[ra]
+(;W[se];B[qa])
+(;W[qa];B[oa])
+(;W[oa];B[qa])))
+(;W[ra];B[oa];W[qa];B[na]
+(;W[sf];B[pa])
+(;W[mb];B[ma];W[sf];B[pa]))
+(;W[qa];B[ra];W[sf];B[oa])
+(;W[pa];B[na])
+(;W[oa];B[na];W[ra];B[qa])
+(;W[sf];B[oa]
+(;W[pa];B[qa])
+(;W[qa];B[ra])
+(;W[ra];B[pa])
+(;W[mb];B[na];W[ma];B[lb]))
+(;W[mb];B[na]
+(;W[ma];B[lb])
+(;W[oa];B[ma]
+(;W[qa];B[ra])
+(;W[ra];B[qa]))
+(;W[ra];B[oa];W[qa];B[ma];W[sf];B[pa])))
+(;W[na]C[];B[pb]C[Black lives. You  could have killed after he played T18.]))
+(;W[na]C[];B[pb]C[Black lives. You  could have killed after he played T18.]))
+(;W[pb];B[qb])
+(;W[se];B[sd];W[rc];B[sc];W[qb];B[pb])
+(;W[na]C[];B[pb]C[Black lives. You  could have killed after he played T18.]))
+(;B[qb]
+(;W[se]C[T18 is a bit better.RIGHT])
+(;W[sb]C[Best sequence for bothRIGHT])))
+(;W[na]C[NOTTHIS])
+(;W[qb];B[sc];W[pb];B[rc]C[White cannot win this.])
+(;W[mb];B[na]))

@@ -1,0 +1,12 @@
+(;GE[life and death]DI[8k]DP[47]SO[tobiume]CO[0]SZ[9]AB[cb]AB[bb]AB[bc]AB[bd]AB[bf]AB[cf]AB[bh]AB[bi]AW[be]AW[ce]AW[cd]AW[cc]AW[dc]AW[db]AW[df]AW[dg]AW[ch]C[Life and Death 1 - Black to live]AP[goproblems];B[ae];W[bg];B[ag];W[cg]
+(;B[ah];W[af];B[bf]C[Correct alive.RIGHT])
+(;B[ca];W[af];B[bf];W[ah]
+(;B[aa];W[af]C[Alive somehow. Find a better way.])
+(;B[ad];W[ab];B[aa];W[ba];B[ac];W[af]C[Alive somehow. Find a better way.]))
+(;B[aa];W[af];B[bf];W[ah];B[ca];W[af]C[Alive somehow. Find a better way.])
+(;B[ad];W[af];B[bf];W[ah]
+(;B[ca];W[ab];B[aa];W[ba];B[ac];W[af]C[Alive somehow. Find a better way.])
+(;B[ab];W[ca];B[ba];W[af]C[Alive somehow. Find a better way.]))
+(;B[af];W[ah]
+(;B[ad];W[ca];B[ba];W[ab]C[Dead.])
+(;B[ai];W[ad];B[ac];W[ca];B[ba]C[Dead.])))

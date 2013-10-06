@@ -1,0 +1,22 @@
+(;GE[life and death]DI[7k]DP[44]SO[tannguyen8]CO[0]AB[bs]AB[bq]AB[bp]AB[cq]AB[dq]AB[dr]AB[er]AW[ar]AW[ap]AW[bo]AW[cp]AW[cn]AW[dp]AW[ep]AW[eq]AW[fr]AW[gq]AW[bl]C[Black to live]AP[goproblems]
+(;B[aq]
+(;W[es]
+(;B[br];W[ds]
+(;B[cs]C[RIGHT])
+(;B[fs];W[gs];B[cs]C[RIGHT])
+(;B[gs];W[fs];B[cs]C[Wasting points, but alive.RIGHT]))
+(;B[ds];W[br]
+(;B[fs];W[cr])
+(;B[cr];W[cs])
+(;B[ao];W[cr]))
+(;B[fs];W[br]
+(;B[cr];W[ds])
+(;B[ds];W[cr])))
+(;W[br]
+(;B[es]
+(;W[cs];B[cr]C[RIGHT])
+(;W[cr];B[cs]C[RIGHT]))
+(;B[cr];W[es])
+(;B[cs];W[es])))
+(;B[br];W[aq])
+(;B[es];W[aq]))

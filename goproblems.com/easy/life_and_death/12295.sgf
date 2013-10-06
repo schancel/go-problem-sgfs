@@ -1,0 +1,9 @@
+(;GE[life and death]DI[5k]DP[33]SO[wuhounited]CO[0]AW[ar]AW[bs]AW[bq]AW[cq]AB[cs]AB[es]AW[fs]AW[fr]AW[gr]AW[gq]AW[fq]AW[fp]AW[fo]AW[eq]AW[dq]AB[aq]AB[bp]AB[ap]AB[co]AB[dp]AB[ep]AB[eo]AB[en]AB[gn]AB[go]AB[gp]AB[fn]AB[hq]AB[iq]AB[hr]AB[hs]AB[gs]C[Black has just played the marked stone. Should white defend or play a 1 point  tenuki at T?]LB[cl:T]LB[bk:*]LB[ck:*]LB[dk:*]LB[dl:*]LB[dm:*]LB[cm:*]LB[bm:*]LB[bl:*]TR[cs]AB[bo]AP[goproblems]
+(;W[cl]C[Black has just played the marked stone. Should white defend or play a 1 point  tenuki (T)?];B[cp]C[Defend or Tenuki a second time?]LB[cm:T];W[cm];B[dr]C[Again?FORCE]LB[cn:T]
+(;W[cr]C[];B[hp]C[What is the status of the white group?FORCE]LB[ej:Ko]LB[ek:Ko]LB[fk:Seki]LB[el:Alive]LB[fl:Dead]
+(;W[el]C[RIGHT])
+(;W[ek])
+(;W[fk])
+(;W[fl]))
+(;W[cn];B[cr]C[Seki])
+(;W[br];B[cr])))

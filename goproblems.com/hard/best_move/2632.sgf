@@ -1,0 +1,44 @@
+(;GE[best move]DI[5d]DP[4]SO[cheyenne]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[nc][qf]AB[pd]LB[pf:A]C[This is the lead in sequence.. just play the marked moves]PL[B]
+;B[pf]CR[pf]
+;W[pg]LB[of:A]CR[pg]
+;B[of]CR[of]
+;W[qe]LB[qd:A]CR[qe]
+;B[qd]CR[qd]
+;W[ob]LB[ob:A]C[This is how the position begins with White playing at A.  Now how to proceed..]
+(;B[nd]CR[nd]
+;W[od]CR[od]
+;B[oe]CR[oe]
+;W[oc]CR[oc]
+;B[pe]CR[pe]
+;W[qi]CR[qi]
+;B[md]CR[md]
+;W[kc]LB[lf:A]CR[kc]C[After the exchange Black is left with an overly concentrated group of stones.  Black has a large weakness at 'A', and the ownership of the corner is small and in doubt for Black.])
+(;B[od]CR[od]
+(;W[qi]LB[jc:B][od:A]CR[qi]C[CHOICE The Black response at A is the correct move, and should  obvious to stronger players.  Now continue -- punish white's two lonely stones
+
+If looking for a pincer, play at B]
+;B[jc]CR[jc]
+;W[lc]CR[lc]
+;B[pb]LB[pb:C][jc:B][qi:A]C[RIGHT After White A, Black will be able to squeeze the opposite White group with Black B and C.
+
+Other pincers are possible])
+(;W[kc]LB[od:A][pi:B]CR[kc]C[CHOICE The Black response at 'A' is the correct move, and should be obvious to stronger players. Play 'B' to see if White can be harassed]
+;B[pi]CR[pi]
+;W[og]CR[og]
+;B[ng]CR[ng]
+;W[oh]LB[pk:A]CR[oh]C[Play A to settle the right side]
+;B[pk]CR[pk]
+;W[aa]LB[pb:A]CR[aa]C[White plays tenuki - Please play A to see if the corner can be saved]
+;B[pb]CR[pb]
+;W[qb]CR[qb]
+(;B[pa]CR[pa]
+;W[qc]CR[qc]
+;B[pc]CR[pc]
+;W[rd]CR[rd]C[If Black chooses this exchange, White will be able to take the corner])
+(;B[oc]CR[oc]
+;W[nb]CR[nb]
+;B[pa]CR[pa]
+;W[qc]CR[qc]
+;B[rb]LB[rb:A]C[RIGHT Black retains the corner with A]))))

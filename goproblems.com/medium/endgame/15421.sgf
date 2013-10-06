@@ -1,0 +1,135 @@
+(;GE[endgame]DI[1d]DP[16]SO[Sestir]CO[0]AB[ps]AB[os]AB[or]AB[nr]AB[nq]AB[op]AB[oo]AB[on]AB[po]AW[qs]AW[pr]AW[pq]AW[pp]AW[qq]AW[qo]AW[pn]AW[om]AW[ol]AW[pl]AW[pk]AW[sk]AW[rk]AW[qk]C[Gain as many points as you can in this corner! (Neither side has any ko-threats.)]AW[sl]AP[goproblems]
+(;B[qn];W[pm]
+(;B[rr];W[qr]
+(;B[ro];W[qp]
+(;B[rn]
+(;W[sr]
+(;B[rp];W[rq]
+(;B[rs];W[sp]
+(;B[so];W[rm]
+(;B[sq];W[ss]
+(;B[rr];W[sp]
+(;B[oq];W[qm];B[sq]C[You win! However S4 could have been at S1 in order to avoid ko.RIGHT])
+(;B[qm];W[ql];B[sq];W[rs]))
+(;B[oq];W[qm]
+(;B[rr];W[sp]C[oops ... wrong order])
+(;B[sp];W[sn]C[oops ... wrong order])
+(;B[rs];W[sp]C[oops ... wrong order]))
+(;B[rs];W[sp]
+(;B[oq];W[qm];B[sq]C[You win! However S4 could have been at S1 in order to avoid ko.RIGHT])
+(;B[qm];W[ql];B[sq];W[rr];B[oq];W[sp]))
+(;B[sp];W[qm]))
+(;B[oq];W[ss]
+(;B[rr];W[qm];B[sq]C[You win! However S4 could have been at S1 in order to avoid ko.RIGHT])
+(;B[rs];W[qm];B[sq]C[You win! However S4 could have been at S1 in order to avoid ko.RIGHT])
+(;B[sq];W[qm])))
+(;B[oq];W[ss]
+(;B[so];W[rm]
+(;B[rr]C[])
+(;B[rs]C[])
+(;B[sq]))
+(;B[rr];W[rm];B[so])
+(;B[rs];W[rm];B[so])))
+(;B[sq];W[rs])
+(;B[sp];W[rs])
+(;B[oq];W[rs])
+(;B[ss];W[rs]))
+(;B[rs]
+(;W[rp]
+(;B[sp]
+(;W[so]
+(;B[oq];W[sq];B[sn]C[You win! However P3 would have been better immediately at T6, to avoid ko.RIGHT])
+(;B[sq];W[rq];B[sp];W[rm])
+(;B[rq];W[sq];B[oq];W[ss];B[rr];W[rm])
+(;B[sn];W[rq]
+(;B[so];W[rm];B[sq];W[ss]
+(;B[rr]C[Very well done!RIGHT])
+(;B[rs]C[Very well done!RIGHT]))
+(;B[oq];W[ss]
+(;B[so];W[rm];B[sq];W[qm])
+(;B[rr];W[rm];B[so];W[qm])
+(;B[rs];W[rm];B[so];W[qm]))))
+(;W[rq];B[so]C[Very well done!RIGHT]))
+(;B[oq];W[rq]
+(;B[so];W[ss])
+(;B[sp];W[ss];B[so];W[rm])))
+(;W[sp]
+(;B[rq]C[Very well done!RIGHT])
+(;B[rp];W[rq])))
+(;B[sq];W[rs]
+(;B[ss];W[rq]
+(;B[sp];W[sr])
+(;B[sr];W[sp];B[sr];W[rp]))
+(;B[rq];W[rp];B[ss];W[sp]))
+(;B[rq];W[rp]
+(;B[rs];W[sq];B[so];W[rm];B[sp];W[ss];B[rr];W[qm])
+(;B[sp];W[rs])
+(;B[oq];W[rs])
+(;B[sq];W[rs];B[ss];W[sp]))
+(;B[sp];W[rs]
+(;B[sq];W[rq])
+(;B[rq];W[rp]))
+(;B[ss];W[rs])
+(;B[so];W[rs];B[rq];W[rp])
+(;B[oq];W[rs]
+(;B[rq];W[rp])
+(;B[sq];W[rq])))
+(;W[rp];B[sp]
+(;W[rs]
+(;B[sr]C[RIGHT])
+(;B[sq];W[sr];B[ss];W[so];B[oq];W[sr]))
+(;W[sq];B[so];W[rq]
+(;B[oq]C[Very well done!RIGHT])
+(;B[sr]C[Very well done!RIGHT])
+(;B[rs]C[Very well done!RIGHT]))
+(;W[sr];B[rs])))
+(;B[sn];W[rm];B[rn];W[sp]
+(;B[rp];W[rq];B[so];W[sq])
+(;B[sq];W[rp];B[rs];W[qm]))
+(;B[rp];W[rn];B[rq];W[rs])
+(;B[rm];W[rp];B[sp];W[sq]
+(;B[so];W[rn];B[sn];W[sm])
+(;B[sn];W[qm];B[rn];W[rl])
+(;B[rn];W[so];B[sn];W[rl])))
+(;B[rn];W[ro];B[rp];W[qp]
+(;B[so];W[rq]
+(;B[sp];W[sq];B[sn];W[rm])
+(;B[sq];W[sp]))
+(;B[rq];W[sn];B[sm];W[so];B[rm];W[rl]))
+(;B[rp];W[qp]
+(;B[rn];W[ro])
+(;B[ro];W[rn])))
+(;B[ro];W[qp]
+(;B[rr];W[qr])
+(;B[rn];W[rr])
+(;B[rp])
+(;B[rs];W[qr])
+(;B[rq];W[rn];B[rr];W[qr];B[rp])
+(;B[sn];W[rr]))
+(;B[rs];W[qr]))
+(;B[rr];W[qr]
+(;B[qn];W[pm])
+(;B[ro];W[qn])
+(;B[rp];W[qp];B[qn];W[pm]))
+(;B[rp];W[qp]
+(;B[rr];W[qr];B[qn];W[pm])
+(;B[qn];W[pm]
+(;B[ro];W[rn];B[rr];W[qr])
+(;B[rr];W[qr]))
+(;B[rs];W[qr];B[qn];W[pm]))
+(;B[rs];W[qr]
+(;B[qn];W[pm]
+(;B[ro];W[qp];B[rn];W[rp];B[sp];W[sq];B[rr];W[sn];B[so];W[rm])
+(;B[rp];W[qp]
+(;B[ro];W[rn]C[Black does not have enough space to make two eyes.])
+(;B[rn];W[ro];B[so];W[rq]))
+(;B[rn];W[ro]
+(;B[so];W[rp])
+(;B[rp];W[qp]))
+(;B[rr];W[rn])
+(;B[rq];W[rn]))
+(;B[rr];W[qn]C[Black does not have enough space to live here.])
+(;B[rp];W[qp]))
+(;B[rn];W[qn])
+(;B[ro];W[qn]C[Black will not have enogh space to live in the corner, this way.])
+(;B[qm];W[qn]))

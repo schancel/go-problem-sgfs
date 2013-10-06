@@ -1,0 +1,4 @@
+(;GE[elementary]DI[12k]DP[58]SO[transcend]CO[8]AB[bs]AB[br]AB[bq]AB[cp]AB[dp]AB[ep]AB[eq]AW[dq]AW[cq]AW[cr]AW[cs]AW[ds]AW[er]AB[fr]AB[gr]AW[fq]AW[gp]AW[hq]AW[hr]MA[fr]MA[gr]C[Save these stones by starting ko that is favorable for you. A, B, or C?]AW[mp]LB[es:A]LB[fs:B]LB[gs:C]AP[goproblems]
+(;B[es];W[fs];B[gs];W[hs];B[es]C[Good. Force white to find the first ko threat.RIGHT])
+(;B[gs];W[hs];B[es];W[fs]C[Bad. You have to find the first ko threat.])
+(;B[fs];W[gq];B[hs];W[is]C[White shouldn't really play this... but let's see how it goes.];B[ir];W[gs]C[White can keep extending across the bottom to make up for a lack of threats.]MA[js]MA[ks]MA[ls]MA[ms]MA[ns]))

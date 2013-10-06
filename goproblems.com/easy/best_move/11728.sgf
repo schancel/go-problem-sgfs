@@ -1,0 +1,9 @@
+(;GE[best move]DI[5k]DP[32]SO[Field Mouse]CO[0]AB[cp]AB[do]AB[fn]AB[go]AB[fl]AW[eq]AW[gq]AW[jq]AW[jr]AW[jp]AW[cr]AB[br]AW[hp]AB[dk]TR[br]C[Black played the marked stone. White turn!]AP[goproblems]
+(;W[bq];B[cq]
+(;W[ar];B[bs];W[cs];B[dr];W[as];B[dq]
+(;W[er];B[ds];W[bp];B[bo];W[ap]C[White is happy with this!RIGHT])
+(;W[bp];B[bo]
+(;W[ap]C[Good result!RIGHT])
+(;W[er];B[ds])))
+(;W[bs];B[ar];W[aq];B[dr];W[as];B[dq]C[White is dead]))
+(;W[cq];B[bq]C[Not so good, black C1 is sente and he gets a nice result]))

@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[1d]DP[16]SO[whendrik]CO[0]AB[co]AB[eo]AB[fo]AB[go]AB[fp]AB[fq]AB[gr]AB[hp]AB[ip]AB[iq]AB[jr]AW[cq]AW[ep]AW[eq]AW[fr]AW[gp]AW[gq]AW[hq]AW[hr]C[kill marked stones]TR[hr]TR[hq]TR[gq]TR[gp]AP[goproblems]
+(;B[er];W[gs]
+(;B[dr];W[dq]
+(;B[is]
+(;W[hs]C[CHOICE]
+(;B[fs];W[es];B[ds];W[cr];B[fs]C[RIGHT])
+(;B[es];W[cr])
+(;B[ds];W[fs]))
+(;W[cr];B[hs];W[ds];B[ir]C[RIGHT]))
+(;B[cr];W[br];B[is];W[hs]))
+(;B[dq];W[dp];B[dr];W[cp];B[is];W[cr];B[hs];W[ds];B[ir];W[es];B[gr];W[do]))
+(;B[gs];W[fs];B[er];W[hs];B[dr];W[dq];B[cr];W[br];B[bq];W[bp];B[aq];W[ap];B[cp];W[ar];B[bq];W[aq];B[dp];W[bq])
+(;B[hs];W[gs])
+(;B[ir];W[gs])
+(;B[is];W[gs])
+(;B[es];W[er])
+(;B[dr];W[er])
+(;B[fs];W[gs])
+(;B[ds];W[er]))

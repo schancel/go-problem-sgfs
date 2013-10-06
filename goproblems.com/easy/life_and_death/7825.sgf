@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[8]AB[bo]AB[bp]AB[cr]AB[bn]AW[bm]AW[cm]AW[cn]AW[co]AW[dp]AW[eq]AW[er]AW[gr]AW[bk]AW[an]AW[ao]AB[cq]AB[ap]AW[cs]AB[br]C[What's the next White move?]AP[goproblems]
+(;W[aq];B[ar]
+(;W[bs];B[ds]
+(;W[dr];B[as]
+(;W[cs];B[am];W[an]C[Well done! :)RIGHT])
+(;W[cp];B[am]C[:(]TR[an]TR[cs])
+(;W[am];B[cs]C[:(]))
+(;W[am];B[dr]C[:(])
+(;W[cp];B[am]C[:(]TR[an]TR[dr]))
+(;W[am];B[ds]C[:(]TR[dr]TR[bs])
+(;W[cp];B[am]C[:(]TR[an]TR[bs])
+(;W[ds];B[am]C[:(]TR[bs]TR[an]))
+(;W[am];B[aq]C[:(]TR[ds]TR[bs])
+(;W[ds];B[bs]C[:(]TR[aq]TR[ar])
+(;W[bs];B[ds];W[dr];B[as]C[:(]TR[cs]TR[aq])
+(;W[ar];B[aq]C[:(])
+(;W[as];B[bs]C[:(])
+(;W[cp];B[aq]C[:(]))

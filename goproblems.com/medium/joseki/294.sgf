@@ -1,0 +1,69 @@
+(;GE[joseki]DI[2d]DP[13]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[pm][po][op]AB[on][lp][qp]
+LB[qp:1][op:2][lp:3][pm:4][on:5][po:6]
+C[how to continue after 6 for black?
+]
+(;B[pn];W[qo]
+(;B[qn];W[rn]
+(;B[qm]C[
+];W[rp]
+C[RIGHT
+white gets the corner, black gets outside thickness
+])
+
+(;B[rm];W[ro];B[qm]LB[rm:A][rn:1]
+C[now A looks bad: if white were to play at 1 with no A, black would not block
+])
+
+(;B[ro];W[rp])
+
+(;B[rp];W[ro];B[qm]C[RIGHT
+])
+)
+
+(;B[ro];W[rn];B[rp];W[qn])
+
+(;B[oo];W[qn];B[pp];W[oq])
+
+(;B[pp];W[oo]C[this exchange just helps white
+])
+)
+
+(;B[qo];W[pn]LB[on:A]C[what's black A doing now?
+])
+
+(;B[qn];W[pn]C[yuck
+])
+
+(;B[np];W[oq]C[this exchange doesn't really help black
+])
+
+(;B[pp];W[oo]TR[on]LB[qp:A]
+C[this exchange weakens the marked stone and makes white stronger outside. joseki sacrifices A
+])
+
+(;B[pq];W[oq]
+(;B[qo];W[pn]LB[on:A]C[what's A doing? corner still weak too
+])
+
+(;B[pn];W[qo]
+(;B[qn];W[rn]LB[pq:A][oq:B]C[now the A-B exchange looks really bad
+])
+
+(;B[ro];W[qn])
+)
+)
+
+(;B[oq];W[nq];B[pq];W[mp]
+(;B[qo];W[pn]LB[lp:A]C[A looks bad
+])
+
+(;B[pn];W[qo];B[qn];W[ro])
+)
+
+)

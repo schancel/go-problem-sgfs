@@ -1,0 +1,12 @@
+(;GE[best move]DI[8k]DP[47]SO[thavdog]CO[0]AW[rc]AW[qc]AW[pc]AW[pd]AW[pg]AW[ph]AW[pi]AW[of]AW[oe]AW[me]AW[lg]AW[ng]AB[nh]AB[oh]AB[og]AB[re]AB[qd]AB[pe]AB[pf]AB[od]AB[nd]AB[md]C[Black's best move?]AP[goproblems]
+(;B[mf]
+(;W[mg];B[nf];W[ne];B[le]C[RIGHT])
+(;W[ne];B[le];W[nf];B[mg]C[RIGHT])
+(;W[le];B[ne];W[nf];B[mg]C[RIGHT])
+(;W[nf];B[mg];W[ne];B[le]C[RIGHT]))
+(;B[ne];W[nf];B[mg];W[mf])
+(;B[nf];W[ne]
+(;B[mf];W[le])
+(;B[mg]C[Black can capture more than one white stone.]))
+(;B[mg];W[mf])
+(;B[le];W[mf]))

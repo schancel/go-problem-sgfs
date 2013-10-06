@@ -1,0 +1,39 @@
+(;GE[joseki]DI[1k]DP[20]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;
+LB[cd:1][ed:2][ee:3][fe:4][de:5][ff:6]AW[cd][de][ee]AB[ed][fe][ff]
+PL[2]C[standard continuation for white?
+]
+(;W[fd];B[gd]
+(;W[fc];B[gc]
+(;W[eb];B[fb];W[ec]C[RIGHT
+])
+
+(;W[fb];B[gb]LB[dc:A]
+C[this move is bad as if white doesn't fix, black plays at A
+])
+
+(;W[gb];B[fb];W[ec];B[hb])
+)
+
+(;W[ec];B[fc])
+)
+
+(;W[ec];B[fc]LB[ec:A][gd:B][ff:C]
+C[A is joseki when black played C at B, but now better to cut
+])
+
+(;W[fc];B[fd]C[bad aji for white
+])
+
+(;W[dg]C[need a move in the corner
+])
+
+(;W[dh]C[need a move in the corner
+])
+
+)

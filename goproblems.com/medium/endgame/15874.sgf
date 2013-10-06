@@ -1,0 +1,16 @@
+(;GE[endgame]DI[1d]DP[17]SO[wolverest]CO[0]AB[ds]AB[cr]AB[cq]AB[dp]AB[ep]AB[eq]AB[fq]AB[er]AB[co]AB[cn]AB[cm]AB[bn]AB[dn]AB[ao]AB[en]AB[em]AB[fm]AW[an]AW[am]AW[bm]AW[bl]AW[cl]AW[dl]AW[el]AW[do]AW[eo]AW[fo]AW[fn]AW[fp]AW[gp]AW[gq]AW[fr]AW[fs]AW[es]AW[gr]AW[cp]AW[bs]AW[dr]LB[cn:ALIVE]LB[dr:A]C[White just played A. Endgame, do your best.]AP[goproblems]
+(;B[dq];W[cs]
+(;B[dr];W[bp];B[br]
+(;W[bo];B[aq];W[ap];B[as]C[So close. total score in corner 5]))
+(;B[br];W[dr]C[FORCE]
+(;B[ar];W[bp]LB[bo:a]LB[ds:b]C[a or bFORCE]
+(;B[bo];W[ds]C[Black will have to respond to white a1. Total score in corner 6.RIGHT])
+(;B[ds];W[bo];B[as];W[ap]C[so close. total score in corner 5]))
+(;B[bp]C[NOTTHISRIGHT]))
+(;B[bp];W[dr];B[br];W[ds];B[ar]C[6 points in cornerRIGHT]))
+(;B[bp];W[cs]
+(;B[br];W[ar];B[aq];W[ds]
+(;B[as];W[dq];B[cp];W[ar])
+(;B[dq];W[as]C[]))
+(;B[dq];W[br];B[ds];W[bq]))
+(;B[cs];W[dq];B[bp];W[dp];B[bq]))

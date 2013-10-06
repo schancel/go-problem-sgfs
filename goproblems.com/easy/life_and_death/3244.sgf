@@ -1,0 +1,22 @@
+(;GE[life and death]DI[8k]DP[49]SO[polo]CO[8]AW[ac][ab][bb][cb][db][ed][fd][gd][hd][he][hf][hg][gh][fh][eg][dg][di][ci][bh][bg][bd]AB[ch][cg][df][ef][ee][fe][ge][gf][gg][fg][dd][cc][bc][ad][ae][bf]SZ[19]C[White to kill]
+
+(;W[ce]
+(;B[de]C[CHOICE]
+(;W[cf];B[cd];W[dh];B[be];W[cg]C[RIGHT])
+(;W[cd];B[dc])
+(;W[be];B[af]))
+(;B[cf]C[CHOICE]
+(;W[dc];B[de];W[cd]C[RIGHT])
+(;W[be];B[af]
+(;W[dc];B[de];W[cd]C[RIGHT Black is dead, but there is a slightly neater way to do it.])
+(;W[cd];B[de])
+(;W[de];B[cd]))
+(;W[cd];B[dc])
+(;W[de];B[be])))
+(;W[be];B[af]
+(;W[cd];B[dc];W[ce];B[cf])
+(;W[ce];B[de];W[cf];B[cd];W[cf];B[ce])
+(;W[ag];B[cf]))
+(;W[cd];B[dc]
+(;W[be];B[af];W[ce])
+(;W[ce];B[de])))

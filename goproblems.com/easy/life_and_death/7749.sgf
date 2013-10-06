@@ -1,0 +1,35 @@
+(;GE[life and death]DI[5k]DP[35]SO[inextremis]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ea][ga][db][bd][dd][ae][bf][cf][df][cg][eg][fg][gg][ai][ei][gi][ej][gj][bk][ck][ek][bl][el][fl][gl][cm][gm][hm][cn][hn][co][ho][dp][fp][gp][dq][eq][hq][fr]AB[ha][gb][fc][hc][gd][fe][he][af][ef][ff][gf][ag][bg][dg][hg][bh][dh][hh][di][hi][bj][dj][hj][ak][dk][hk][dl][hl][dm][em][fm][gn][do][eo][fo][go][ep][fq]LB[aa:A]TR[ai]C[Can TheCaptain stop mnb's attempt to kill black's dragon? If not, play 'A' (a19). (The game move was actually white a8, not a11)]
+(;B[aj]CR[aj]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[ch]CR[ch]
+(;B[ah]CR[ah]
+;W[bi]CR[bi]
+(;B[cj]CR[cj]
+;W[ai]CR[ai]
+;B[bh]CR[bh]
+;W[ah]CR[ah]
+;B[ag]CR[ag]C[RIGHT])
+(;B[ai]CR[ai]
+;W[cj]CR[cj]C[A false eye!]))
+(;B[cj]CR[cj]
+;W[ah]CR[ah]))
+(;B[cj]CR[cj]
+;W[ch]CR[ch])
+(;B[ch]CR[ch]
+;W[cj]CR[cj])
+(;B[ah]CR[ah]
+;W[ch]CR[ch]))
+(;B[bi]CR[bi]
+;W[aj]CR[aj]C[A false eye!])
+(;B[cj]CR[cj]
+;W[aj]CR[aj]C[A false eye!])
+(;B[ch]CR[ch]
+;W[aj]CR[aj]
+(;B[bi]CR[bi]
+;W[cj]CR[cj]C[Only one eye!])
+(;B[cj]CR[cj]
+;W[bi]CR[bi]C[Only one eye!]))
+(;B[aa]CR[aa]C[Take another look!]))

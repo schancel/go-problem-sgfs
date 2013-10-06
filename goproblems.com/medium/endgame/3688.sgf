@@ -1,0 +1,92 @@
+(;GE[endgame]DI[3d]DP[9]SO[wtd]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[cb][cc][ad][bd][dd][ed][fd][ae][ce][de][fe][ge][bf][cf][ef][gf][bg][cg][eg][fg][gg][bh][gh][hh]AB[dc][ec][fc][gc][hc][ic][hd][he][af][hf][ag][dg][ig][ah][ch][dh][eh][fh][ih][ai][ci][ei][gi][hi]LB[db:B][hg:nd][bi:C]C[Choose the larger move of connection 'C' and block 'B', or play at 'nd' for no difference. FORCE]
+(;B[bi]
+;W[fa]
+(;B[fb]
+(;W[ea]C[CHOICE]
+(;B[db]
+;W[da]
+;B[ga]LB[db:B][gc:A][bi:C]C[RIGHT You won by 1 point. Due to the presence of the stone at 'A', white's monkey jump into this 
+formation would usually be an 8 point gote move. In this case, as there were no moves left after the jump sequence, during it black could choose to play 'D8' before white did. This let white keep the 
+redundant sente, whilst reducing the value of the jump to 7 points. So, at the start, the 8 point gote move at 'C' was 1 point bigger than the block at 'B'.])
+(;B[ga]
+;W[db]
+;B[eb]
+;W[da]LB[ga:B][db:A]C[Jigo - Your 1st two moves were correct, but the 3rd should have been at 'A' rather than 'B'.]))
+(;W[da]C[CHOICE]
+(;B[ga]
+;W[ea]
+;B[db]LB[gc:A][bi:C]C[RIGHT You won by 1 point. Due to the presence of the stone at 'A', white's monkey jump into this 
+formation would usually be an 8 point gote move. In this case, as there were no moves left after the jump sequence, during it black could choose to play 'D8' before white did. This let white keep the 
+redundant sente, whilst reducing the value of the jump to 7 points. So, at the start, the 8 point gote move at 'C' was 1 point bigger than the block at 'D8'.])
+(;B[eb]
+;W[ea]
+;B[ga]
+;W[db]LB[ga:A][eb:B]C[Jigo - Your 1st two moves were correct, but the 3rd should have been at 'A' rather than 'B'.])))
+(;B[ga]
+(;W[ea]C[CHOICE]
+;B[db]
+;W[da]
+;B[fb]LB[db:B][gc:A][bi:C]C[RIGHT You won by 1 point. Due to the presence of the stone at 'A', white's monkey jump into this 
+formation would usually be an 8 point gote move. In this case, as there were no moves left after the jump sequence, during it black could choose to play 'D8' before white did. This let white keep the 
+redundant sente, whilst reducing the value of the jump to 7 points. So, at the start, the 8 point gote move at 'C' was 1 point bigger than the block at 'B'.])
+(;W[da]C[CHOICE]
+;B[fb]
+;W[ea]
+;B[db]LB[db:B][gc:A][bi:C]C[RIGHT You won by 1 point. Due to the presence of the stone at 'A', white's monkey jump into this 
+formation would usually be an 8 point gote move. In this case, as there were no moves left after the jump sequence, during it black could choose to play 'D8' before white did. This let white keep the 
+redundant sente, whilst reducing the value of the jump to 7 points. So, at the start, the 8 point gote move at 'C' was 1 point bigger than the block at 'B'.]))
+(;B[da]CR[da]
+;W[db]CR[db]
+;B[eb]CR[eb]
+;W[ea]CR[ea]
+;B[ga]CR[ga]
+;W[ca]CR[ca]
+;B[fb]CR[fb]
+;W[da]CR[da]C[Jigo])
+(;B[eb]CR[eb]
+;W[ea]CR[ea]
+;B[da]CR[da]
+;W[db]CR[db]
+;B[ga]CR[ga]
+;W[ca]CR[ca]
+;B[fb]CR[fb]
+;W[da]CR[da]C[Jigo])
+(;B[ea]
+;W[eb]
+(;B[fb]
+;W[da]CR[da]
+;B[db]CR[db]
+;W[ea]CR[ea]
+;B[ga]CR[ga]
+;W[ca]CR[ca]C[Jigo])
+(;B[db]CR[db]
+;W[da]CR[da]
+;B[fb]CR[fb]
+;W[ea]CR[ea]
+;B[ga]CR[ga]
+;W[ca]CR[ca]C[Jigo]))
+(;B[db]
+;W[da]C[You played 'D8' too early. With insufficient ko threats, the best you could get from this is 
+jigo.]
+;B[ea]))
+(;B[db]
+;W[bi]
+;B[ca]
+;W[ba]
+;B[da]
+;W[bb]LB[db:B][gc:A][bi:C]C[Jigo - Due to the presence of the stone at 'A', white's monkey jump into this formation would usually be an 8 point gote move. In this case, as there were no moves left after the jump 
+sequence, during it black could have choosen to play at 'D8' before white did. This would have let white keep the redundant sente, whilst reducing the value of the jump to 7 points. So, at the start, the 8 point gote 
+move at 'C' was 1 point bigger than the block at 'B'.])
+(;B[hg]
+;W[gd]LB[bi:Z]C[WRONG This is wrong. --- Please follow 'Z' to see why. FORCE]
+;B[bi]
+;W[fa]LB[fb:Z]C[FORCE]
+;B[fb]
+;W[ea]LB[db:Z]C[FORCE]
+;B[db]
+;W[da]LB[ga:Z]C[FORCE]
+;B[ga]LB[db:B][gc:A][bi:C]C[This wins by 1 point; a 1st move at 'B' could only give jigo. Due to the presence of the stone at 'A', white's monkey jump into this formation would usually be an 8 point gote move. In this case, as 
+there were no moves left after the jump sequence, during it black could choose to play 'D8' before white did. This let white keep the redundant sente, whilst reducing the value of the jump to 7 points. 
+So, at the start, the 8 point gote move at 'C' was 1 point bigger than the block at 'B'.]))

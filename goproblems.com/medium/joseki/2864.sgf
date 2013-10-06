@@ -1,0 +1,16 @@
+(;GE[joseki]DI[1d]DP[16]SO[wtd]CO[7]
+AB[qj][pp][nq]
+LB[ro:A]
+C[Please play at 'A' to start. FORCE]
+;W[ro];B[rp]LB[qn:x][qo:y][qp:z]C[Note: Other black replies of x, y and z, are not considered here.]
+;W[qp]
+(;B[qq];W[qo];B[rq]
+(;W[ql]C[RIGHT])
+(;W[po]
+(;B[op];W[ql]C[RIGHT CHOICE])
+(;B[ql];W[op];B[pq];W[nn]C[RIGHT CHOICE])))
+(;B[qo];W[qq];B[rq];W[po];B[qn];W[pq];B[op];W[rn];B[rr];W[qm];B[pn]
+(;W[pm];B[on];W[om];B[rl];W[nn];B[oo];W[rm];B[nm];W[nl];B[mm]
+(;W[rk]C[RIGHT CHOICE])
+(;W[ok]C[RIGHT]))
+(;W[om];B[on];W[nn]C[RIGHT])))

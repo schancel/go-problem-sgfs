@@ -1,0 +1,108 @@
+(;GE[life and death]DI[6k]DP[37]SO[neiluj]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Problem Solve]PB[Problem Make]AW[bp][cp][dp][eq][ar][er][bs][es]AB[ao][bo][co][do][eo][ap][ep][fp][aq][fq][fr][fs]
+;B[]C[Can you make White live? (Hint: there are two weak points, so don't take the obvious way)]
+(;W[cr]CR[cr]
+;B[bq]CR[bq]
+(;W[br]CR[br]
+(;B[cq]CR[cq]
+(;W[dq]CR[dq]
+;B[ds]CR[ds]
+(;W[dr]TR[cr]CR[dr]C[Here is the vital point of White. If Black would have gotten there (where the triangle is) first, White would have died. RIGHT])
+(;W[cs]CR[cs]
+;B[dr]TR[ds]CR[dr]C[All Black was trying to do all along is to capture you!]))
+(;W[dr]CR[dr]
+;B[dq]CR[dq]C[Umm... you can do better than that by four points.]))
+(;B[dr]CR[dr]
+(;W[dq]CR[dq]
+;B[cq]CR[cq]
+;W[ds]TR[cr]CR[ds]C[You live! The mark is the vital point. RIGHT])
+(;W[ds]CR[ds]
+;B[cq]CR[cq]
+;W[dq]CR[dq]C[White lives! RIGHT])
+(;W[cq]CR[cq]
+;B[ds]CR[ds]
+;W[dq]CR[dq]C[This group lives! RIGHT])))
+(;W[cq]CR[cq]
+;B[br]CR[br]
+(;W[cs]CR[cs]
+;B[dr]CR[dr]C[Your White group dies (only one eye)])
+(;W[as]CR[as]
+;B[cs]CR[cs]C[White dies])
+(;W[dr]CR[dr]
+;B[cs]CR[cs]C[White dies (even though you capture the stone, it is a false eye) ])))
+(;W[bq]CR[bq]
+;B[cr]CR[cr]
+(;W[br]CR[br]
+;B[dq]CR[dq]C[Uh oh!]
+(;W[ds]CR[ds]
+;B[cs]CR[cs]C[Your White group is dead])
+(;W[cs]CR[cs]
+;B[ds]CR[ds]
+;W[dr]CR[dr]
+;B[ds]CR[ds]C[Snapback!]))
+(;W[dq]CR[dq]
+;B[br]CR[br]C[Hmmm....]
+(;W[as]CR[as]
+;B[cs]CR[cs]C[You die])
+(;W[cs]CR[cs]
+;B[as]SQ[ar]CR[as]C[Uh oh, you die! (Unless there are ko threats)]))
+(;W[cs]CR[cs]
+;B[br]CR[br]
+;W[dq]CR[dq]
+;B[as]CR[as]
+;W[ds]CR[ds]
+;B[ar]CR[ar]C[White's dead]))
+(;W[br]CR[br]
+;B[cr]CR[cr]
+(;W[cq]CR[cq]
+;B[bq]CR[bq]
+;W[dq]CR[dq]
+;B[ds]CR[ds]C[You lose!])
+(;W[bq]CR[bq]
+;B[dq]CR[dq]C[You'll see why he did that....]
+(;W[cs]CR[cs]
+;B[ds]CR[ds]
+;W[dr]CR[dr]
+;B[ds]CR[ds]C[You lose! (snapback)])
+(;W[dr]CR[dr]
+;B[ds]CR[ds]C[Hey, you killed - uh, you lose.])
+(;W[ds]CR[ds]
+;B[cs]CR[cs]C[There's nothing you can do, so you lose!]))
+(;W[dr]CR[dr]
+;B[bq]CR[bq]
+;W[cs]CR[cs]
+;B[cq]CR[cq]C[White's dead]))
+(;W[dr]CR[dr]
+;B[cr]CR[cr]
+;W[cq]CR[cq]
+;B[br]CR[br]
+;W[cs]CR[cs]
+;B[bq]CR[bq]C[White dies!])
+(;W[cq]CR[cq]
+;B[cr]CR[cr]
+(;W[br]CR[br]
+;B[bq]CR[bq]
+;W[dq]CR[dq]
+;B[ds]CR[ds]C[White dies!])
+(;W[dr]CR[dr]
+;B[br]CR[br]
+;W[cs]CR[cs]
+;B[bq]CR[bq]C[You die!]))
+(;W[cs]CR[cs]
+;B[br]CR[br]
+;W[as]CR[as]
+(;B[cq]CR[cq]
+;W[bq]CR[bq]
+;B[cr]CR[cr]
+;W[dq]CR[dq]
+;B[ds]CR[ds]C[White dies!])
+(;B[cr]CR[cr]
+;W[ds]CR[ds]
+;B[dq]CR[dq]C[You die!]))
+(;W[ds]CR[ds]
+;B[cr]CR[cr]
+;W[cq]CR[cq]
+;B[br]CR[br]
+;W[cs]CR[cs]
+;B[as]CR[as]C[You die!]))

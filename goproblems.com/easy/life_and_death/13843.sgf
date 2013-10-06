@@ -1,0 +1,32 @@
+(;GE[life and death]DI[5k]DP[34]SO[maba]CO[0]AW[br]AW[cr]AW[dr]AW[aq]AW[ap]AW[bp]AW[es]AW[fs]AW[fr]AB[er]AB[eq]AB[dq]AB[cq]AB[bq]AB[fq]AB[cp]AB[co]AB[bn]AB[cn]AB[an]AW[am]AW[bm]AW[cm]AW[dm]AW[gq]AW[gp]AW[fp]AW[ep]AW[dn]AB[gr]AB[hr]AB[iq]AB[bs]AP[goproblems]
+(;W[ar]C[];B[ds]
+(;W[cs];B[gs]
+(;W[ds];B[ao]
+(;W[do]C[Black is captured.RIGHT])
+(;W[dp]C[Black is captured.RIGHT])
+(;W[as];B[bo])
+(;W[bo];B[as]))
+(;W[dp];B[ds])
+(;W[do];B[ds])
+(;W[bo];B[ds])
+(;W[ao];B[ds]))
+(;W[gs];B[hs])
+(;W[as];B[gs])
+(;W[do];B[gs])
+(;W[dp];B[gs])
+(;W[bo];B[gs])
+(;W[ao];B[gs]))
+(;W[cs];B[gs]
+(;W[ds];B[ar])
+(;W[ar];B[ds])
+(;W[as];B[ds]))
+(;W[ds];B[ar]C[This is a two-step ko for black, not white's best result.])
+(;W[as];B[ar]C[This is a direct ko for black, not white's best result.])
+(;W[dp];B[ds];W[cs];B[gs]
+(;W[ds];B[ar])
+(;W[ar];B[ds])
+(;W[as];B[ds]))
+(;W[do];B[ds];W[cs];B[gs]
+(;W[ds];B[ar])
+(;W[ar];B[ds])
+(;W[as];B[ds])))

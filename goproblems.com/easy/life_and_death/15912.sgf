@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[38]SO[Soligo]CO[0]AB[jp]AB[jo]AB[jn]AB[jm]AB[il]AB[hm]AB[gm]AB[ik]AB[hk]AB[gk]AB[gl]AW[jl]AW[hn]AW[gn]AW[io]AW[ip]AW[kl]AW[km]AW[kn]AW[ko]AW[kp]AB[iq]AB[kq]AW[jq]AB[hq]AW[gq]AW[gp]AW[mq]AW[mp]AB[mr]AB[gr]AW[oq]AW[eq]AW[eo]AW[fr]AW[nr]AB[ls]AB[lq]AW[lp]AB[fm]AB[em]AB[el]AB[fk]AW[hp]AB[is]AW[fs]AW[gs]AW[ks]LB[jr:A]C[Should white play at A, surely capturing the black stones on the bottom, or can he capture more? Assume black will try to save his k4-k5-k6-k7 stones at any cost.]AP[goproblems]
+(;W[im];B[jr];W[in];B[jq]C[And if balck refuses to lose his stones?]
+(;W[hr];B[kr]
+(;W[ns]
+(;B[js]
+(;W[ms]C[RIGHT])
+(;W[ir];B[ms])
+(;W[hs];B[ms]))
+(;B[ir];W[ms]C[RIGHT]))
+(;W[hs];B[ms])
+(;W[ms];B[ns];W[os];B[js];W[ms]C[Unnecessary ko])
+(;W[os];B[ms])
+(;W[ir]))
+(;W[kr];B[hr])
+(;W[ns];B[hr])
+(;W[hs];B[hr])
+(;W[ms];B[ns];W[os];B[hr];W[ms];B[lr])
+(;W[lr];B[kr]
+(;W[ns];B[hr])
+(;W[hr];B[ms];W[ns];B[js]))
+(;W[js];B[hr])
+(;W[ir];B[hr]))
+(;W[jr];B[im]C[Should white play at A, surely capturing the black stones on the bottom, or can he capture more? Assume black will try to save his k4-k5-k6-k7 stones at any cost.]))

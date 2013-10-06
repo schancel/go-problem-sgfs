@@ -1,0 +1,60 @@
+(;GE[best move]DI[5d]DP[5]SO[field mouse]CO[0]SZ[9]AW[fh]AW[gf]AW[gd]AW[gc]AB[fb]AB[fc]AB[fd]AB[ec]AB[dd]AB[ce]AB[be]AB[af]AB[bf]AB[ee]AB[ef]AB[eg]AB[eh]AW[eb]AW[db]AW[dc]AW[cd]AW[bd]AW[ad]AW[ae]AW[cc]AW[bb]C[Black needs to find really good continuation to win this game.]AP[goproblems]
+(;B[gg]
+(;W[hg]
+(;B[hf];W[he];B[hh];W[if]
+(;B[fg];W[gb]
+(;B[ga];W[ha];B[fa];W[hb]
+(;B[ih];W[fe]
+(;B[ff];W[ge]
+(;B[ea];W[da];B[ed];W[ig]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])
+(;B[ig];W[ea];B[ed];W[hf]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])
+(;B[ed];W[ig];B[ea];W[da]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT]))
+(;B[ea];W[da];B[ed];W[ff];B[ig];W[hf]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])
+(;B[ig];W[ea];B[ed];W[hf];B[ff];W[ge]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])
+(;B[ed];W[ea]
+(;B[ff];W[ge];B[ig];W[hf]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])
+(;B[ig];W[hf];B[ff];W[ge]C[White 16, black 23 - you won even with the 6,5 komi, good!RIGHT])))
+(;B[fe];W[ih];B[ge];W[hi];B[gh];W[ea];B[gi];W[hf];B[ii];W[ig]
+(;B[hi];W[hd]C[White 15, black 21.. one point behind the solution!])
+(;B[id];W[ic];B[hd];W[hc]C[...])
+(;B[ic];W[id])
+(;B[ib];W[id]))
+(;B[ea];W[ih]
+(;B[da];W[ca];B[fe];W[hi];B[gh];W[ge];B[gi];W[ig];B[ii];W[ff];B[hi]C[White 15, black 21 - one point behind the solution!])
+(;B[fe];W[hi];B[gh];W[ge];B[da];W[ca])))
+(;B[ih];W[fa]C[You should play this four points sente first.]))
+(;B[gh];W[gb];B[ga];W[ha];B[fa];W[ib];B[ih];W[ff]
+(;B[fg];W[fe];B[ig];W[ea];B[ed];W[hf]C[White 17, black 22.])
+(;B[ig];W[fg];B[hf];W[fi];B[ie];W[id]C[White is ok.])))
+(;B[fg];W[hh];B[hb];W[gh];B[hc];W[hd];B[gb];W[ei]
+(;B[di];W[fi]
+(;B[dh];W[ic];B[ib];W[id]C[Black could do better!])
+(;B[id];W[dh];B[ie];W[hf]C[Too bad.]))
+(;B[id];W[dh]C[You could do better.]))
+(;B[hh];W[gh];B[fg];W[hi]
+(;B[hf];W[ih];B[ge];W[he];B[ff];W[if];B[hb];W[ei];B[di];W[fi];B[dh];W[gb];B[ga];W[hd];B[gf];W[ie];B[ic];W[ea];B[fa];W[hc];B[ha];W[ib];B[ia]C[The score on the board is 12 white - 17 black. You could do better.])
+(;B[ih];W[ig];B[hf];W[ii];B[ge];W[he];B[ff];W[if]
+(;B[hd];W[gf];B[hc];W[fe];B[gb];W[ge]
+(;B[fi];W[id];B[ib];W[fa];B[ga];W[ea];B[ic];W[ie];B[ei];W[gi]C[White 15, black 20. You could  do better!])
+(;B[id];W[hb];B[ha];W[ei];B[di];W[fi];B[dh];W[fa];B[ib];W[ie]C[White 16, black 19.]))
+(;B[hb];W[fi]
+(;B[ei];W[gb];B[ga];W[hd];B[gf];W[ea];B[fa]C[A bit worse than the solution.])
+(;B[hd];W[gf];B[hc];W[fe];B[ei];W[ge];B[gb];W[fa];B[ga];W[ea];B[id];W[ie]C[White 16, black 21.]))))
+(;B[gh];W[hh];B[ff];W[ge];B[hb];W[gi];B[fg];W[gb];B[ga];W[hc]
+(;B[fi];W[ib];B[ha];W[ea];B[fa];W[hi];B[fe]C[White 17, black 19.])
+(;B[ha];W[fi];B[ei];W[hi];B[ic];W[id];B[ib];W[ea];B[fa];W[ie]C[White 15, black 17.]))
+(;B[hb];W[fg]TR[gg]TR[hg]C[The marked exchange was clearly bad.])
+(;B[ff];W[ge]
+(;B[gh];W[hh])
+(;B[hh];W[gh];B[hi];W[fg];B[fi];W[gb];B[ga];W[ha];B[fa];W[hb]C[You could do better.]))))
+(;B[hb];W[gg]
+(;B[gb];W[ic];B[hc];W[hd];B[ib];W[id];B[fi];W[gi];B[ei];W[ge];B[ea];W[da];B[fa];W[gh]C[White 17, black 19])
+(;B[hc];W[hd];B[id];W[ie];B[ic];W[hf];B[fi];W[gi];B[ei];W[gb];B[ga];W[ge];B[fg];W[ea];B[fa];W[gh]C[White 16, black 19.])
+(;B[he];W[ge]
+(;B[hc];W[hd];B[id];W[gb];B[ga];W[ic];B[ib];W[ha];B[fa];W[hf]C[You could do better.])
+(;B[id];W[ic];B[hc];W[hd];B[ib];W[gb];B[ga];W[ha];B[fa];W[hf]C[You could do better.])
+(;B[ic];W[id];B[hd];W[hc];B[ie];W[hf];B[gb];W[if]C[You could do better.])
+(;B[hd];W[hc];B[ic];W[gb];B[ga];W[id];B[ie];W[hf];B[ha];W[if]C[You could do better.])))
+(;B[he];W[ge]C[This move does not help you.])
+(;B[gh];W[hh];B[gg];W[hg])
+(;B[fg];W[gg];B[gh];W[hh];B[fi];W[gb];B[ga];W[ha];B[fa];W[hb];B[hi];W[ih]C[You could do better!]))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6d]DP[0]SO[Lightbaron]CO[0]AB[cj]AB[dj]AB[ci]AB[dk]AB[dl]AB[bk]AB[ch]AB[cg]AB[dh]AB[eg]AB[fg]AB[em]AB[fm]AB[fl]AB[fk]AB[en]AB[dn]AB[co]AB[bp]AB[cp]AB[dp]AB[dq]AB[dr]AB[eq]AB[fq]AB[il]AW[dg]AW[df]AW[cf]AW[dd]AW[gi]AW[eh]AW[ei]AW[ej]AW[ek]AW[el]AW[di]AW[ck]AW[cl]AW[cm]AW[cn]AW[dm]AW[bm]AW[bo]AW[do]AW[eo]AW[ep]AW[fp]AW[gq]AW[go]AW[fr]AW[er]C[This situation was a part of my last game on KGS. Can you rescue the white stones on the left. My opponent played on A10 instead of B12 and died. But you need to find an other way]MA[dm]MA[cm]MA[cn]MA[bm]MA[cl]MA[ck]TR[dl]TR[dk]TR[dj]TR[cj]TR[ci]TR[ch]TR[cg]TR[dh]AP[goproblems]
+(;W[bj];B[bi]
+(;W[bg]
+(;B[bh];W[ah];B[aj];W[ag];B[bf];W[be]
+(;B[ao]
+(;W[af];B[ai];W[bl];B[am];W[al];B[bn];W[an];B[bo]C[And you are dead!CHOICE])
+(;W[al];B[bn];W[ak];B[an];W[af];B[am];W[ai];B[bl]C[DeadCHOICE]))
+(;B[bl];W[al];B[ao];W[af];B[bn];W[am];B[an];W[ai];B[ak]C[Ups. Wrong wayCHOICE]))
+(;B[aj];W[bh];B[ao];W[ai];B[ah];W[ag];B[bn];W[ai];B[bj];W[bl];B[ah];W[al];B[bf];W[ai]C[RIGHT]))
+(;W[bh];B[bg];W[bf];B[ah];W[af];B[ag];W[ak];B[aj];W[bl];B[bj]C[DeadCHOICE]))
+(;W[ah]
+(;B[bh];W[ag];B[bg];W[bf];B[ai];W[af];B[ao];W[bj]C[You did itRIGHT])
+(;B[bg]
+(;W[ag];B[bf];W[be];B[af];W[ae];B[bh];W[ai];B[aj];W[al];B[bl];W[am];B[ao];W[ak];B[bn];W[bj]C[You did itCHOICERIGHT])
+(;W[bf];B[ag]
+(;W[af];B[ai];W[bi];B[bh];W[ak];B[aj];W[bl];B[al];W[am];B[ak]C[You diedCHOICE])
+(;W[bi];B[aj];W[ai];B[bl];W[al];B[ao];W[an];B[bn]C[CHOICE]))))
+(;W[bh];B[bg];W[bf];B[ah]
+(;W[bi];B[bj];W[af];B[bl];W[ag];B[am];W[bn];B[ao]C[CHOICE])
+(;W[ai];B[bi];W[aj];B[bj];W[ag];B[af];W[ap];B[aq];W[ao];B[an];W[bn];B[am]C[CHOICE]))
+(;W[ak];B[aj];W[al];B[bh];W[ah]
+(;B[ag];W[bl];B[bj];W[bf];B[ai];W[bg]C[RIGHT])
+(;B[ai]
+(;W[ag];B[bf];W[af];B[ae]C[CHOICE])
+(;W[af];B[ag];W[bf];B[bg];W[bj];B[ao];W[bl];B[bn];W[bk];B[an]C[You diedCHOICE]))))

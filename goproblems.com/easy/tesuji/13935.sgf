@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[8k]DP[45]SO[adum]CO[0]AB[ij]AB[ii]AB[ih]AB[ig]AW[ji]AW[jh]AW[jg]AW[kg]AB[kh]AB[lh]AB[li]AB[lk]AB[kl]AB[jl]AB[il]AB[hl]AW[hj]AW[hi]AW[hh]AW[hg]AW[if]AW[ie]AW[je]AW[ke]AW[kf]AW[mh]AW[mi]AW[mj]AB[mk]AB[nl]AB[ml]AB[lg]AB[mg]AB[lf]AW[ng]AW[og]AW[ph]AW[pi]AW[pj]AB[nf]AB[of]AW[ll]AW[lm]AW[mm]AW[nm]AW[om]AW[pl]AW[km]AW[jm]AW[im]AW[hm]AW[gm]AW[gl]AW[gk]AB[oc]AB[mc]C[what can Black save in the middle?]AP[goproblems]
+(;B[kj];W[jj]
+(;B[ik];W[kk]
+(;B[jk];W[hk];B[kk];W[lj];B[ki]C[everything!RIGHT])
+(;B[lj];W[jk])
+(;B[ki];W[jk]))
+(;B[kk];W[ik])
+(;B[jk];W[ik]))
+(;B[lj];W[jj]
+(;B[ik];W[kk])
+(;B[kk];W[ik]))
+(;B[ki];W[jj];B[ik];W[kk])
+(;B[jj];W[lj]
+(;B[kj];W[ki])
+(;B[ki];W[kj]))
+(;B[kk];W[lj])
+(;B[jk];W[lj])
+(;B[nj];W[jj])
+(;B[ni];W[jj])
+(;B[hk];W[lj])
+(;B[ik];W[lj]))

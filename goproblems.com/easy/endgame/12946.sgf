@@ -1,0 +1,20 @@
+(;GE[endgame]DI[6k]DP[36]SO[Silowyi]CO[0]AB[hb]AB[gd]AB[ha]AB[gc]AW[gb]AW[ga]AW[fc]AW[fd]AW[ec]AW[eb]AW[dd]AW[cd]AW[be]AW[ad]AW[bf]AB[fe]AB[ee]AB[ed]AB[de]AB[ce]AW[cf]AB[df]C[White has 25 + 6.5 Komi, Black has only 24.  Black will lose unless he can find the winning move.]AB[eh]AB[ei]AW[dh]AB[eg]AW[dg]AW[cg]AW[ci]AB[di]AB[he]AB[gf]SZ[9]AP[goproblems]
+(;B[dc]
+(;W[cc]C[It's so obvious!]
+(;B[fa];W[db];B[fb];W[ea]C[Black 26+2 prisoners, White 20+1 prisoners+6.5 Komi.  Black wins by 0.5 points!RIGHT])
+(;B[db];W[fa])
+(;B[ea];W[da]C[Black has nothing here.])
+(;B[da];W[db]C[Black has nothing here.]))
+(;W[fa];B[cc];W[bd];B[db];W[ca];B[da];W[bc];B[bb];W[ab];B[ba];W[ac]C[sekiRIGHT]))
+(;B[fa]
+(;W[ea]C[White F8 would be a disaster, see variations.]
+(;B[fb];W[dc]C[Black 26+2 prisoners, White 21+6.5 Komi.  Black wins by 0.5 points!  This is the simplest path.RIGHT])
+(;B[dc];W[cc]))
+(;W[fb];B[dc]
+(;W[db];B[cc]
+(;W[bd];B[cb];W[ea];B[ca];W[bc];B[da];W[bb];B[fa];W[ba])
+(;W[cb];B[bd];W[bc];B[cd];W[bb]))
+(;W[cc];B[db];W[cb];B[ea];W[ca])))
+(;B[db];W[dc]C[Black has nothing here.])
+(;B[ea];W[da];B[db];W[dc];B[ca];W[fb]C[Black has nothing here.])
+(;B[da];W[dc]C[Black has nothing here.]))

@@ -1,0 +1,68 @@
+(;GE[endgame]DI[6k]DP[37]SO[santa c]CO[6]SZ[9]AB[bg]AB[bh]AB[bi]AB[cg]AB[cf]AB[ce]AB[bd]AB[ad]AB[bc]AB[dd]AB[dc]AB[ed]AB[de]AB[fe]AB[ff]AB[gf]AB[hf]AB[gg]AB[ic]AB[ib]AB[ha]AB[ga]AB[gb]AB[gc]AW[hc]AB[hd]AB[id]AW[he]AW[ie]AW[if]AW[ge]AW[gd]AW[fd]AW[fc]AW[ec]AW[fb]AW[fa]AW[ea]AW[da]AW[db]AW[cc]AW[bb]AW[ab]AW[ac]AW[hg]AW[ih]AW[gh]AW[fg]AW[eg]AW[df]AW[dh]AW[ch]C[Don't lose... Not now... (NO KOMI!)]AW[af]AP[goproblems]
+(;B[dg];W[ef]
+(;B[ee];W[eh]
+(;B[ci];W[di]C[Please add a move at C6. (It doesn't change the points stat, but it's easier for beginner such as myself, to count this way.)];B[cd]C[Well bC6 isn't really nessaccery - But it's sente.. (Thanks Spirit for the note.)];W[cb]C[Jigo (Tie)! Nice! ;)RIGHT])
+(;B[cd]C[Well bC6 isn't really nessaccery - But it's sente.. (Thanks Spirit for the note.)];W[cb];B[ci];W[di]C[Jigo (Tie)! Nice! ;)RIGHT]))
+(;B[eh];W[ee]
+(;B[ei];W[fi]
+(;B[di];W[fh];B[ci];W[cb];B[cd]C[White - 19 moku : Black - 16 moku -> Black lost... :'(])
+(;B[ci]C[NOTTHIS]))
+(;B[fi];W[fh]
+(;B[ei];W[gi]
+(;B[ci];W[di];B[cd];W[cb]C[White - 24 moku : Black - 12 moku -> Black lost... :'(])
+(;B[di];W[ci];B[cd];W[cb]C[White - 26 moku : Black - 12 moku -> Black lost... :'(])
+(;B[cd];W[cb]
+(;B[ci];W[di]C[White - 24 moku : Black - 12 moku -> Black lost... :'(])
+(;B[di];W[ci]C[White - 26 moku : Black - 12 moku -> Black lost... :'(])))
+(;B[di];W[ei]MA[eh]
+(;B[ci];W[eh];B[cd];W[cb]C[White - 16 moku : Black - 12 moku -> Black lost... :'(])
+(;B[eh]C[NOTTHIS])
+(;B[cd];W[cb]
+(;B[eh]MA[ei];W[gi]
+(;B[ci];W[ei]MA[fi]
+(;B[dh];W[fi]C[White - 20 moku : Black - 16 moku -> Black lost... :'(])
+(;B[fi]C[NOTTHIS]))
+(;B[ei];W[ci]C[White - 27 moku : Black - 13 moku -> Black lost... :'(]))
+(;B[ci]C[];W[eh]C[White - 22 moku : Black - 12 moku -> Black lost... :'(])))
+(;B[ci];W[ei];B[di];W[eh];B[cd];W[cb]C[White - 26 moku : Black - 12 moku -> Black lost... :'(])
+(;B[cd];W[ei]
+(;B[cb];W[ca]
+(;B[ba];W[cc]MA[cb]
+(;B[ci];W[cb];B[di];W[eh]C[White - 23 moku : Black - 13 moku -> Black lost... :'(])
+(;B[di];W[cb];B[eh];W[gi];B[ci];W[ei];B[dh];W[fi]C[White - 21 moku : Black - 17 moku -> Black lost... :'(])
+(;B[cb]C[NOTTHIS]))
+(;B[aa]C[NOTTHIS])
+(;B[cc];W[ba];B[ci];W[eh]C[White - 21 moku : Black - 13 moku -> Black lost... :'(])
+(;B[ci];W[cc]MA[cb]
+(;B[di];W[eh];B[cb];W[ba]C[];B[cc]C[White - 21 moku : Black - 14 moku -> Black lost... :'(])
+(;B[cb]C[NOTTHIS]))
+(;B[di];W[ci]
+(;B[cc];W[ba]C[White - 23 moku : Black - 13 moku -> Black lost... :'(])
+(;B[ba];W[cc]C[After white 1(C7), black doesn't have any ko threats, so he passes, and white plays 3(C8). White - 23 moku : Black - 13 moku -> Black lost... :'(]LB[cc:1]AW[cb]LB[cb:3])
+(;B[aa]C[NOTTHIS])))
+(;B[ci];W[cb];B[di];W[eh]C[White - 22 moku : Black - 12 moku -> Black lost... :'(])
+(;B[di];W[ci];B[cb];W[ca]
+(;B[cc];W[ba]C[White - 23 moku : Black - 13 moku -> Black lost... :'(])
+(;B[ba];W[cc]C[After white 1(C7), black doesn't have any ko threats, so he passes, and white plays 3(C8). White - 23 moku : Black - 13 moku -> Black lost... :'(]AW[cb]LB[cc:1]LB[cb:3])
+(;B[aa]C[NOTTHIS]))))
+(;B[di];W[fh]
+(;B[ei];W[fi];B[ci];W[cb];B[cd]C[White - 19 moku : Black - 16 moku -> Black lost... :'(])
+(;B[fi];W[ei]MA[eh]
+(;B[cd];W[ci];B[cb];W[ca]
+(;B[cc];W[ba]C[White - 23 moku : Black - 13 moku -> Black lost... :'(])
+(;B[ba];W[cc]C[After white 1(C7), black doesn't have any ko threats, so he passes, and white plays 3(C8). White - 23 moku : Black - 13 moku -> Black lost... :'(]AW[cb]LB[cc:1]LB[cb:3])
+(;B[aa]C[NOTTHIS]))
+(;B[ci];W[eh];B[cd];W[cb]C[White - 22 moku : Black - 12 moku -> Black lost... :'(])
+(;B[eh]C[NOTTHIS]))
+(;B[ci];W[fi]
+(;B[cd];W[cb];B[ei]C[White - 19 moku : Black - 16 moku -> Black lost... :'(])
+(;B[ei];W[cb];B[cd]C[White - 19 moku : Black - 16 moku -> Black lost... :'(]))))
+(;B[cd];W[ee]C[Black lost - Please follow the marked path, to see for yourself.FORCE]TR[cb];B[cb]C[FORCE];W[ca]TR[ba]C[FORCE];B[ba]C[FORCE];W[cc]TR[eh]C[FORCE]MA[cb];B[eh]C[FORCE];W[cb]TR[ei]C[FORCE];B[ei]C[FORCE];W[fi]TR[di]C[FORCE];B[di]C[FORCE];W[fh]TR[ci]C[FORCE];B[ci]C[White - 20 moku : Black - 17 moku -> Black lost... :'(FORCE]))
+(;B[ee];W[dg]
+(;B[ci];W[di];B[cd];W[cb]C[White - 13 moku : Black - 12 moku -> Black lost... :'(])
+(;B[cd];W[cb];B[ci];W[di]C[White - 13 moku : Black - 12 moku -> Black lost... :'(]))
+(;B[ef]C[FORCE];W[ee]C[Black lost. Follow the marked path to see for yourself.FORCE]TR[ci];B[ci]C[FORCE];W[eh]TR[di]C[FORCE];B[di]C[FORCE];W[ei]TR[dg]C[FORCE];B[dg]C[FORCE];W[ef]TR[cd]C[FORCE];B[cd]C[FORCE];W[cb]C[White - 22 moku : Black - 12 moku -> Black lost... :'(FORCE])
+(;B[ci]C[FORCE];W[ee]C[Black lost. Follow the marked path to see for yourself.FORCE]TR[dg];B[dg]C[FORCE];W[ef]TR[eh]C[FORCE];B[eh]C[FORCE];W[ei]TR[di]C[FORCE];B[di]C[FORCE];W[fi]TR[dh]C[FORCE];B[dh]C[FORCE];W[fh]TR[cd]C[FORCE];B[cd]C[FORCE];W[cb]C[White - 19 moku : Black - 15 moku -> Black lost... :'(])
+(;B[cd]C[FORCE];W[ee]TR[cb]C[Black lost. Follow the marked path to see for yourself.FORCE];B[cb]C[FORCE];W[ca]TR[ba]C[FORCE];B[ba]C[FORCE];W[dg]TR[aa]C[FORCE];B[aa]C[FORCE];W[ci]C[White - 22 moku : Black - 20 moku -> Black lost... :'(FORCE])
+(;B[di]C[FORCE];W[ee]C[Black lost. Follow the marked path to see for yourself.FORCE]TR[ci];B[ci]C[FORCE];W[ei]TR[dg]C[FORCE];B[dg]C[FORCE];W[ef]TR[eh]C[FORCE];B[eh]C[FORCE];W[fi]TR[dh]C[FORCE];B[dh]C[FORCE];W[fh]TR[cd]C[FORCE];B[cd]C[FORCE];W[cb]C[White - 19 moku : Black - 15 moku -> Black lost... :'(])
+(;B[cb];W[ee]C[Black loses]))

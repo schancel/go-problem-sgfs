@@ -1,0 +1,47 @@
+(;GE[life and death]DI[3d]DP[10]SO[hikaru16]CO[0]C[black to move, do not lose a single black stone. hint* capture the white group first then try isolating white to the corner.]AW[dq]AW[bp]AW[br]AB[cq]AB[ep]AB[er]AB[cp]AW[dp]AW[co]AB[do]AP[goproblems]
+(;B[dr];W[cr]C[I was playing white here and played here insted of A.]LB[bq:A]
+(;B[eq]
+(;W[bq]C[CHOICE]
+(;B[cn];W[bo]
+(;B[cs];W[bs]
+(;B[ds];W[bn]
+(;B[cm];W[bm];B[bl];W[al]
+(;B[bk];W[ak];B[aj];W[am];B[bj]C[RIGHT])
+(;B[ak];W[bk]
+(;B[am];W[aj];B[al];W[cl])
+(;B[cl];W[aj])
+(;B[aj];W[cl])
+(;B[bj];W[cl])
+(;B[ck];W[cl])))
+(;B[bm];W[cm]
+(;B[dn];W[bl]
+(;B[dm];W[am])
+(;B[cl];W[am])
+(;B[bk];W[am]))
+(;B[bl];W[dn])
+(;B[cl];W[dn])))
+(;B[bn];W[ar]
+(;B[ao];W[ap]
+(;B[ds];W[an])
+(;B[an];W[ds]))
+(;B[ds];W[an]
+(;B[bm];W[am];B[al];W[ao];B[bl]C[GoodRIGHT])
+(;B[am];W[ao];B[bm]C[Great!RIGHT]))
+(;B[an];W[ds];B[ao];W[ap])))
+(;B[bn];W[an];B[am];W[ao];B[bm];W[ds];B[es];W[cs]C[GoodRIGHT])
+(;B[ds];W[bn];B[cm];W[bm];B[bl];W[al];B[bk];W[ak];B[aj];W[am];B[bj];W[cs]C[ok but not the bestRIGHT]))
+(;B[cs];W[cn];B[dn];W[cm]C[There is a better way not to lose any stones.]))
+(;W[cn]C[ I would also not like to be in the ending position here if I was playing white because of the loss of stone and the fact there could be more black stones around the D10 point.];B[bq];W[aq];B[bo];W[ap];B[bn];W[bm];B[cs];W[bs];B[ds]
+(;W[ao];B[ar];W[as];B[ar];W[an];B[dk])
+(;W[an];B[ar];W[as];B[ar])))
+(;B[cn];W[bq])
+(;B[bo];W[bq])
+(;B[bq];W[aq])
+(;B[cs];W[bq]))
+(;B[cr]C[There is a better move. I have played multiple positions through from here but white WILL take the advantage by playing at A in the end or capture a black stone.]LB[cn:A];W[dr]C[There is a better move. I have played multiple positions through from here but white WILL take the advantage by playing at A in the end or capture a black stone.]LB[cn:A]
+(;B[ds];W[bq];B[eq];W[cn])
+(;B[cn];W[bo]
+(;B[dn];W[cs])
+(;B[cs];W[bq];B[ds];W[dn];B[eo];W[cm])
+(;B[ds];W[dn];B[eo];W[cm];B[bq];W[aq];B[eq]))
+(;B[cs];W[bq];B[cn];W[bo];B[ds];W[dn];B[eo];W[cm])))

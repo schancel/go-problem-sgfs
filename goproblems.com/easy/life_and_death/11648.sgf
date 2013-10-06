@@ -1,0 +1,43 @@
+(;GE[life and death]DI[5k]DP[34]SO[ceram88]CO[0]AW[ls]AW[mr]AW[lq]AW[kq]AW[jq]AW[iq]AW[jo]AW[kp]AW[io]AW[ho]AW[hp]AW[gp]AB[jp]AB[ko]AB[mo]AB[lo]AB[lp]AB[np]AB[mq]AB[nq]AB[nr]AB[ir]AB[hr]AB[hq]AB[ds]AB[dr]AB[dq]AB[dp]AB[do]AB[dn]AB[fo]AB[go]AB[gn]AB[jn]AB[in]AW[kn]AW[ln]AW[mn]AB[nn]AB[oo]AB[om]AB[pn]AB[js]C[Was K1 the killing move or can white survive? Play D if you think white is dead. If not, show life.]TR[js]LB[jl:D]AB[hn]AP[goproblems]
+(;W[ks];B[ns];W[jr];B[lr];W[is];B[ms]
+(;W[gr]C[];B[hs]
+(;W[js]C[That's right. If black plays H1 then white must connect to avoid the ko. RIGHT])
+(;W[gs];B[js]C[];W[gq];B[kr];W[is]C[RIGHT])
+(;W[gq];B[js]C[];W[gs];B[kr];W[is]C[RIGHT]))
+(;W[gq];B[hs]
+(;W[js];B[fs];W[gs];B[gr];W[fr]C[RIGHT])
+(;W[gr];B[js]C[])))
+(;W[jl]C[Wrong, white can live.])
+(;W[kr]
+(;B[ns]
+(;W[ms];B[ks])
+(;W[ks];B[ms];W[gr];B[gq];W[fq];B[fr])
+(;W[gr];B[gq];W[fq];B[fr];W[jr];B[is];W[ks])
+(;W[gq];B[gr];W[fr];B[fs];W[jr];B[is];W[ks];B[ms];W[gs]C[RIGHT])
+(;W[jr];B[is];W[gr];B[gq];W[fq];B[fr];W[ks];B[gs];W[ms]C[RIGHT]))
+(;B[ks]C[RIGHT]
+(;W[is]C[RIGHT];B[jr];W[gr]C[RIGHT])
+(;W[jr];B[is];W[gr]C[RIGHT])
+(;W[gr];B[gq];W[fq];B[fr];W[jr]C[RIGHT])
+(;W[gq];B[gr];W[fr];B[fs];W[jr]C[RIGHT])))
+(;W[jr]
+(;B[ks];W[kr];B[is];W[gr]C[RIGHT])
+(;B[ns]C[CHOICE]
+(;W[ks];B[lr]
+(;W[is];B[ms];W[gr]C[];B[hs]
+(;W[js]C[That's right. If black plays H1 then white must connect to avoid the ko. RIGHT])
+(;W[gq];B[js]C[You can do better than a ko.])
+(;W[gs];B[js]C[You can do better than a ko.]))
+(;W[gr];B[ms];W[is];B[hs]
+(;W[js]C[RIGHT])
+(;W[gs];B[js]C[])
+(;W[gq];B[js]C[])))
+(;W[kr];B[ms];W[gr];B[gq]
+(;W[fr];B[fq])
+(;W[fq];B[fr]))))
+(;W[gr];B[gq];W[fq];B[fr]
+(;W[ks]
+(;B[ns];W[jr];B[lr];W[is]C[RIGHT]))
+(;W[jr]
+(;B[ns];W[ks];B[lr];W[is]C[RIGHT])))
+(;W[gq];B[gr]C[];W[fr];B[fs];W[ks];B[ns];W[jr];B[lr];W[is];B[gs];W[ms]C[RIGHT]))

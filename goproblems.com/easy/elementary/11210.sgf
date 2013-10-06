@@ -1,0 +1,12 @@
+(;GE[elementary]DI[4k]DP[30]SO[mafutrct]CO[0]SZ[7]AW[cg]AW[bf]AW[ae]AW[dg]AW[ef]AB[ff]AB[fg]AW[eb]AW[ea]AB[da]AB[ca]AB[fa]AB[fb]AW[gb]AW[gc]LB[aa:R]TR[ea]TR[eb]C[If possible, please capture the 2 marked stones in a ladder. Else, resign at R (A7).FORCE]AP[goproblems]
+(;B[ec];W[db]
+(;B[cb];W[dc];B[dd];W[cc];B[bc];W[cd];B[ce];W[bd];B[be];W[ad]
+(;B[af];W[ag];B[ac];W[af];B[cf];W[bg]
+(;B[eg];W[df];B[de];W[ee];B[ed];W[fe]
+(;B[ge];W[fd]C[Sorry, you misread - the ladder actually does not work.])
+(;B[fd];W[ge]C[Sorry, you misread - the ladder actually does not work.]))
+(;B[df];W[de]C[Woops.]))
+(;B[ac];W[af]C[Sorry, this is not working.]))
+(;B[cc];W[fc]C[Sorry, you fail.])
+(;B[dc];W[cb]C[Sorry, you fail.]))
+(;B[aa]C[Correct! The ladder is broken. :>RIGHT]))

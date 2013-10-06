@@ -1,0 +1,15 @@
+(;GE[life and death]DI[4k]DP[29]SO[mafutrct]CO[0]AW[rc]AW[rd]AW[qe]AW[qf]AW[qg]AW[rg]AW[rh]AW[pg]AB[qd]AB[qc]AB[pc]AB[oc]AB[nd]AB[pe]AB[pf]AW[pd]AW[of]AW[ne]AW[mf]AW[ng]AB[me]AB[le]AB[id]AW[lh]AW[mh]AW[nh]AW[oh]AB[ph]AB[qh]AB[qi]AB[ri]AB[oi]AB[ni]AB[mi]AB[li]AW[oj]AW[qj]AW[qk]AW[ql]AB[rl]AB[qm]AB[pl]AB[rn]AB[pn]AW[qn]AW[qo]AW[ro]AW[po]AW[pp]AW[pq]AW[pr]AB[oq]AB[or]AB[op]AB[on]AB[nn]AB[np]AW[nq]AW[nr]AB[mr]AB[mq]AB[lr]AW[kr]AW[jr]AW[lq]AW[lp]AW[mp]AW[mo]AW[mn]AW[mm]AB[nl]AB[lo]AB[ko]AB[kq]AB[kp]AW[kn]AW[jn]AW[io]AW[ip]AW[iq]AW[ho]AW[gq]AB[ar]AB[bs]AB[aq]AB[bq]AB[cr]AB[dr]AW[ap]AW[bp]AW[cp]AW[dq]AW[cq]AW[er]AW[fr]AW[fq]AB[gr]AW[hq]AB[hp]AB[gp]AB[eq]AB[ep]AB[dp]AB[co]AB[cn]AB[dn]AB[en]AB[fo]AB[fn]AB[go]AW[fp]AB[hn]AB[hm]AB[hl]AW[gn]AW[gm]AW[fm]AB[em]AW[el]AB[fk]AB[dj]AB[cj]AB[bk]AB[bi]AW[dk]AW[cm]AW[bn]AW[bo]AW[dc]AW[cd]AW[ce]AB[de]AW[df]AW[ef]AB[cf]AB[cg]AW[ci]C[Black to play. Find the correct area and win easily by playing the optimal moves.]AP[goproblems]
+(;B[fl];W[dm]
+(;B[gl]C[];W[bl]
+(;B[ck]C[Yep!RIGHT])
+(;B[cl];W[ck])
+(;B[am];W[ck]))
+(;B[bl];W[do])
+(;B[cl];W[do])
+(;B[ck];W[do])
+(;B[ek];W[do]))
+(;B[gl];W[dm]TR[gl]C[Black's marked move is a bit weird, but it turns out the same way as A instead does.]LB[fl:A];B[fl])
+(;B[bl];W[do])
+(;B[cl];W[do])
+(;B[ck];W[do])
+(;B[dl];W[do]))

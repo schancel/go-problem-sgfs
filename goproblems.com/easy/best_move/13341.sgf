@@ -1,0 +1,15 @@
+(;GE[best move]DI[8k]DP[49]SO[thavdog]CO[0]AW[cq]AW[dr]AW[er]AW[fq]AW[gp]AW[go]AW[hn]AW[in]AW[jo]AW[jq]AB[ho]AB[hp]AB[hq]AB[gn]AB[gm]AB[fo]AB[eq]C[How can black capture the two marked stones?]TR[go]TR[gp]AP[goproblems]
+(;B[fr]
+(;W[gr]
+(;B[gq];W[fs]
+(;B[fp]C[RIGHT])
+(;B[ep]C[RIGHT]))
+(;B[fp];W[gq]))
+(;W[gq];B[gr]C[RIGHT])
+(;W[ep];B[fp];W[gq];B[gr]C[RIGHT]))
+(;B[fp];W[gq]
+(;B[fr];W[gr];B[hr];W[gs])
+(;B[gr];W[fr]))
+(;B[gq];W[fp]
+(;B[ep];W[fr])
+(;B[fr];W[ep])))

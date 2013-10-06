@@ -1,0 +1,92 @@
+(;GE[joseki]DI[6d]DP[2]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]PL[B]AE[qo]AW[qp][mq]AB[oq][po]AW[pp]LB[qp:1][oq:2][mq:3][po:4][pp:5]C[let's walk through this joseki variation]
+;B[op]CR[op]
+;W[oo]CR[oo]LB[no:A]C[play at A]
+(;B[no]CR[no]
+;W[on]CR[on]
+(;B[mp]CR[mp]
+;W[lp]CR[lp]
+(;B[lo]CR[lo]
+;W[kp]CR[kp]C[keep going?]
+;B[ko]CR[ko]
+;W[jp]CR[jp]C[black must now hit the vital spot]
+;B[ro]CR[ro]
+;W[qr]CR[qr]LB[pr:A][qo:B]C[A or B?]
+(;B[qo]CR[qo]
+;W[or]CR[or]C[let's play a good forcing move along the bottom now]
+(;B[pq]CR[pq]
+;W[qq]CR[qq]
+(;B[pr]CR[pr]
+;W[nq]CR[nq]
+(;B[np]CR[np]
+;W[ps]CR[ps]C[let's take our forcing moves along the bottom now]
+;B[nr]CR[nr]
+;W[os]CR[os]LB[mr:A]C[play at A]
+;B[mr]CR[mr]
+;W[lq]CR[lq]
+(;B[nn]CR[nn]
+;W[om]CR[om]C[this move is necessary to stop white's shape-hurting atari]
+;B[rq]CR[rq]C[RIGHT
+the correct tesuji for the corner. reason why to follow.])
+(;B[rq]CR[rq]
+;W[nn]CR[nn]
+;B[mo]CR[mo]C[too painful])
+(;B[ql]CR[ql]
+;W[nn]CR[nn])
+(;B[qk]CR[qk]
+;W[nn]CR[nn]))
+(;B[nr]CR[nr]
+;W[np]CR[np]
+;B[os]CR[os]
+;W[mr]CR[mr]C[black is toast. the ko is unwinnable]))
+(;B[nr]CR[nr]
+;W[nq]CR[nq]
+(;B[np]CR[np]
+;W[pr]CR[pr]C[white's shape is better than it should be in this variation])
+(;B[pr]CR[pr]
+;W[np]CR[np]
+;B[os]CR[os]
+;W[mr]CR[mr]C[black is dead])))
+(;B[nr]CR[nr]
+;W[nq]CR[nq]
+(;B[np]CR[np]
+;W[pq]CR[pq]C[too good for white])
+(;B[pr]CR[pr]
+;W[np]CR[np]
+;B[os]CR[os]
+;W[pq]CR[pq]
+;B[or]CR[or]
+;W[mr]CR[mr]C[black toast]))
+(;B[nq]CR[nq]
+;W[nr]CR[nr]C[bad shape])
+(;B[pr]CR[pr]
+;W[nq]CR[nq]
+(;B[np]CR[np]
+;W[pq]CR[pq])
+(;B[nr]CR[nr]
+;W[np]CR[np]
+(;B[pq]CR[pq]
+;W[qq]CR[qq]
+;B[os]CR[os]
+;W[mr]CR[mr])
+(;B[os]CR[os]
+;W[pq]CR[pq]
+;B[or]CR[or]
+;W[mr]CR[mr]))))
+(;B[pr]CR[pr]
+;W[rp]CR[rp]
+;B[qo]CR[qo]
+;W[qm]CR[qm]))
+(;B[lq]CR[lq]C[too strong]))
+(;B[nn]CR[nn]
+;W[pn]CR[pn]C[this helps white fix his shape]))
+(;B[mp]CR[mp]
+;W[no]CR[no]
+(;B[pn]CR[pn]
+;W[np]CR[np])
+(;B[np]CR[np]
+;W[pn]CR[pn]C[good for white]))
+(;B[qo]CR[qo]
+;W[ro]CR[ro]
+;B[rn]CR[rn]
+;W[rp]CR[rp]C[this fight is good for white]))

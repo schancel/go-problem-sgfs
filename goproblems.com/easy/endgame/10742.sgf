@@ -1,0 +1,22 @@
+(;GE[endgame]DI[7k]DP[41]SO[ceram88]CO[5]AB[so]AB[ro]AB[qp]AB[pp]AB[oq]AB[nq]AB[mq]AB[lq]AB[kq]AW[pq]AW[qq]AW[rr]AW[rp]AW[sq]AW[sp]AW[or]AW[nr]AW[mr]AW[os]AB[lr]AB[ms]AB[ns]C[White responded to black a with white b. Black to play the best endgame possible.]LB[ns:a]LB[os:b]AB[qo]AB[op]AP[goproblems]
+(;B[pr]
+(;W[ls]C[CHOICE];B[qr]
+(;W[rq];B[rs]C[RIGHT])
+(;W[qs]C[CHOICE];B[rq];W[qq]
+(;B[ms]C[RIGHT])
+(;B[ps];W[pq])
+(;B[pq]C[];W[ps]
+(;B[ss];W[ms];B[rq]C[You could do better.])
+(;B[ms]C[RIGHT]))
+(;B[ss];W[ms];B[pq];W[ps];B[rq]C[You could do better.])))
+(;W[qr];B[ps]C[RIGHT])
+(;W[ps];B[qs]C[RIGHT]))
+(;B[ls];W[pr]C[Black can do better.])
+(;B[sr];W[ss];B[pr];W[ls];B[qr];W[rq]
+(;B[qs];W[ps])
+(;B[ps];W[qs]))
+(;B[ps];W[pr])
+(;B[qr];W[pr])
+(;B[rs];W[qr])
+(;B[qs];W[ls];B[pr];W[qr])
+(;B[ss];W[rs]))

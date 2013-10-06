@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[12k]DP[58]SO[berni]CO[7]
+AB[sc][rb][qc][pb][rd][re][se][qf][qg][of][og][oh]
+AW[qd][qe][sf][rf][rg][rh][qh][od][mc][me][lc][mg][ni][oi][pj]
+MA[of][og][oh][qf][qg]
+C[Black to rescue his five endangered stones.]
+(;B[pd];W[pe]
+(;B[oe];W[pc]
+(;B[pf];W[pd];B[nd];W[oc];B[nc]C[RIGHTThis is the squeeze tesuji.])
+(;B[nd];W[nc];B[pf]C[RIGHTThis is the squeeze tesuji.])
+(;B[oc];W[nd]C[This is a ko. Black can do better.]))
+(;B[pc];W[oe]C[White has connected.]))
+(;B[pe];W[pd];B[nd];W[ne]
+(;B[nc];W[oe]C[White has connected.])
+(;B[oe];W[nc]C[White has connected.]))
+(;B[oe];W[pd];B[nd];W[nc]
+(;B[ne];W[oc]C[White has connected.])
+(;B[oc];W[ne]C[White has connected.]))
+(;B[nd];W[oe];B[ne];W[oc];B[nc];W[nb]
+(;B[nf];W[ob]C[White has connected.])
+(;B[ob];W[nf];B[pe]C[RIGHTThis solution is less preferable to the solution starting with Q16.]))
+(;B[pf];W[oe]C[White has connected.]))

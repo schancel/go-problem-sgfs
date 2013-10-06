@@ -1,0 +1,58 @@
+(;GE[life and death]DI[3d]DP[9]SO[lok]CO[7]AW[bp]AW[cp]AW[co]AW[dp]AW[eq]AW[fp]AW[fo]AW[en]AW[fm]AW[el]AW[dl]AW[ek]AW[di]AW[dh]AW[ch]AW[bi]AW[bj]AW[ai]AB[bo]AB[bm]AB[cn]AB[dn]AB[cl]AB[ck]AB[bk]AB[cj]AB[ci]AW[cg]AB[do]C[White to kill. (without ko of course, almost any first move here  can get a ko)]AP[goproblems]
+(;W[al]
+(;B[dm]C[CHOICE]
+(;W[ak]
+(;B[ap]C[CHOICE]
+(;W[an];B[ao]
+(;W[am];B[bn]
+(;W[bh];B[bq];W[cr]C[Good ^^RIGHT])
+(;W[aj]C[NOTTHIS])
+(;W[ah]C[NOTTHIS])
+(;W[bg]C[NOTTHIS]))
+(;W[aq];B[bn]))
+(;W[am];B[an]
+(;W[bh];B[bq];W[cr]C[Yup ^^RIGHT])
+(;W[aj]C[NOTTHIS])
+(;W[ah]C[NOTTHIS])
+(;W[bg]C[NOTTHIS]))
+(;W[aq];B[an];W[ao]C[Two stage ko for black.])
+(;W[bq];B[am]))
+(;B[an];W[ap]))
+(;W[ao];B[an]
+(;W[ak];B[ap];W[aq];B[bq];W[ao]C[Ko])
+(;W[bn]C[Ko.])
+(;W[ap];B[ak];W[bn]C[Ko.]))
+(;W[an];B[ao]C[Black is alive :(])
+(;W[am];B[an]
+(;W[ak];B[bl])
+(;W[ap];B[ak])))
+(;B[ak]C[If black play here];W[dm]
+(;B[ao];W[cm])
+(;B[ap];W[bq];B[am];W[ao]))
+(;B[ao]C[If black play here];W[ak]
+(;B[dm];W[am])
+(;B[am];W[dm]))
+(;B[an]C[If black play here];W[dm];B[ak];W[cm])
+(;B[ap];W[dm]
+(;B[ak]C[Same sequence starting with wA8 bA9. Black is dead.];W[cm])
+(;B[bq];W[cr]C[Black can't get an eye in the corner.])))
+(;W[dm];B[al]
+(;W[ao];B[an];W[bn]C[Ko.])
+(;W[cm];B[ao]))
+(;W[am];B[al];W[ao];B[bn]TR[am]TR[bl]C[2 eyes :(])
+(;W[an];B[ao]
+(;W[dm];B[ak])
+(;W[al];B[ak]
+(;W[dm];B[am])
+(;W[am];B[dm]))
+(;W[ak];B[al]))
+(;W[ak];B[al]
+(;W[ao];B[an];W[bn]C[Ko.])
+(;W[dm];B[ao];W[cm];B[aj]C[Ko]))
+(;W[ao];B[an]C[]
+(;W[bn]C[Ko.])
+(;W[ap];B[al];W[bn]C[Ko])
+(;W[dm];B[ap];W[aq];B[al];W[ao];B[bn])
+(;W[al];B[ap];W[ak];B[dm]
+(;W[aq];B[bq];W[ao]C[Ko.])
+(;W[bq];B[am]))))

@@ -1,0 +1,32 @@
+(;GE[best move]DI[2d]DP[13]SO[able]CO[0]AB[bb]AW[fg]AW[dg]AB[id]AB[ic]AB[ib]AB[jb]AB[kb]AB[kd]AB[kc]AB[jd]AB[aa]AB[ac]AB[ca]AB[cb]AB[cd]AB[dd]AB[ce]AW[de]AB[df]AW[ed]AW[fd]AW[dc]AW[cc]AW[fc]AW[ec]AB[gd]AB[gc]AB[gb]AB[hd]AB[hb]AW[fb]AW[db]AW[ea]AW[fa]AW[eb]AW[ga]AW[ia]AW[ha]AW[ja]AW[ka]AW[la]AW[lb]AW[lc]AW[ld]AW[ff]AW[ef]AB[eg]AW[cg]AW[bg]AW[be]AW[bf]AB[bc]AW[bd]AW[ae]AW[ad]AW[ag]AB[ah]AB[bh]AB[ch]AB[dh]AB[hf]AB[gf]AB[if]AB[kf]AB[jf]AB[kg]AB[kh]AB[ih]AB[jh]AB[ig]AB[gh]AB[gg]AB[hh]AW[ge]AW[ie]AW[he]AW[je]AW[ke]AW[lf]AW[lh]AW[lg]AW[li]AW[ki]AW[ji]AW[hi]AW[ii]AW[fh]AB[eh]AW[ei]AW[ej]AW[fj]AW[gj]AW[gi]AB[di]AB[dj]AB[ek]AB[dk]AB[mj]AB[mi]AB[mh]AB[ss]AB[sr]AW[rs]AW[rr]AW[rq]AW[rp]AW[sp]AB[qp]AB[qq]AB[pr]AB[pp]AB[ps]AW[op]AW[oq]AW[os]AW[or]AW[mp]AW[np]AW[mq]AW[mr]AW[ms]AB[nr]AB[ns]AB[lr]AB[ls]AB[lq]AB[lp]AW[ks]AW[kr]AW[kq]AW[kp]AW[jp]AW[ip]AW[iq]AW[ir]AW[is]AB[jr]AB[js]AB[hs]AB[hr]AB[gq]AB[gp]AB[hp]AB[io]AB[ko]AB[jo]AB[oo]AB[no]AB[mo]AB[lo]AB[on]AB[om]AB[pm]AB[qm]AB[rm]AB[rn]AB[ro]AB[so]AB[sn]AB[sm]AW[po]AW[qo]AW[in]AW[jn]AW[kn]AW[ln]AW[mn]AW[nn]AW[nm]AW[ol]AW[nl]AW[pl]AW[ql]AW[rl]AW[sl]AW[ho]AW[go]AW[fp]AW[fq]AW[fr]AW[fs]AW[ep]AW[dp]AW[dq]AW[dr]AW[ds]AB[er]AB[es]AB[fo]AB[eo]AB[do]AW[ai]AW[bi]AW[ci]AW[bj]AW[bk]AW[bl]AW[bm]AW[am]AB[ak]AB[al]AB[cm]AB[cl]AB[ck]AB[bn]AB[bo]AB[ao]AB[dm]AB[dn]AW[cn]AW[co]AW[cp]AW[cq]AW[cr]AW[cs]AB[bp]AB[ap]AB[aq]AB[ar]AB[br]AB[bq]AB[bs]AB[cj]AB[ml]AB[mm]AB[jm]AB[im]AB[oj]AB[pj]AB[qj]AB[qi]AB[si]AB[ri]AW[rg]AW[qg]AW[re]AW[qf]AW[sf]AB[se]AB[sd]AB[qd]AB[qe]AB[rd]AB[pf]AB[pe]AW[rh]AW[qh]AW[ph]AW[pi]AW[oi]AW[ni]AB[pg]AB[oh]AB[nh]AW[og]AW[of]AW[oe]AW[oc]AW[od]AW[ob]AW[oa]AW[pa]AW[ra]AW[sb]AW[rb]AW[qb]AW[pb]AB[pd]AW[rk]AW[sk]AW[sh]AB[el]AB[em]AW[hn]AB[gn]AB[hm]AB[gm]AB[nk]AB[mk]AW[ok]AW[nj]AB[kl]AB[ll]AB[jl]AW[ij]AW[hk]AW[il]AW[hl]AW[ik]AW[hj]AW[jk]AW[jj]AW[kj]AW[kk]AW[lk]AW[lj]AB[ng]AB[nf]AB[ne]AB[nd]AB[nc]AB[nb]AB[na]AW[mg]AW[mf]AW[me]AW[md]AW[mc]AW[mb]AW[ma]AB[fn]AB[qr]AB[gr]AB[fm]AW[gk]AW[fk]AW[fl]AW[gl]AW[da]C[Seki as far as the eye can see! A bit contrived, but I thought worth showing. White is in trouble, but with 6 unremovable ko threats his four stage ko to win by seki almost everywhere doesn't look so bad. black needs 3 ko threats, but where to find them?]AW[fi]AP[goproblems]
+(;B[rf];W[aj]
+(;B[al];W[re]
+(;B[ee];W[pc];B[rf];W[sq]
+(;B[ss];W[re];B[fe]C[definately a big ko threat];W[de]C[definately big enough.];B[rf];W[nq]
+(;B[ns];W[re];B[ee];W[qc];B[rf];W[jq]
+(;B[js];W[re];B[fe];W[de]C[Haven't you already used that?];B[rf];W[eq]
+(;B[es];W[re];B[ee];W[rc];B[rf];W[an]
+(;B[ak];W[re]
+(;B[fe]C[RIGHT];W[de]C[Correct! you can use the same threat 3 times! White will lose, he still has some fight however.];B[rf];W[qn]
+(;B[pn];W[re]
+(;B[gs];W[hq];B[rf];W[cf];B[sg]C[RIGHT])
+(;B[hq]C[];W[gs];B[rf];W[cf];B[sg]C[RIGHT])
+(;B[ee];W[sc]C[RIGHT])
+(;B[fe];W[sc];B[le];W[cf];B[ke]C[RIGHT]))
+(;B[sg];W[pn]))
+(;B[cf]C[RIGHT];W[de]C[It works, but is suboptimal. You now have no chance to make a seki here.];B[rf];W[qn];B[pn];W[re]C[Now you either play a big loss making ko threat, or a useless move. You could have made c15 a seki.RIGHT]))
+(;B[fe];W[de]))
+(;B[er]C[NOTTHIS]))
+(;B[jr]C[NOTTHIS])
+(;B[fe];W[de]))
+(;B[nr]C[NOTTHIS])
+(;B[fe]))
+(;B[sr]C[NOTTHIS])
+(;B[fe];W[de]))
+(;B[fe];W[ee];B[rf];W[nq];B[ns];W[re];B[km];W[pc];B[rf];W[sq];B[ss];W[re];B[lm];W[qc];B[rf];W[eq];B[es];W[re];B[pk];W[rc];B[rf];W[jq]
+(;B[sg];W[hq]C[White wins])
+(;B[js];W[re];B[qk];W[sc]))
+(;B[km];W[pc];B[rf];W[sq];B[ss];W[re];B[lm];W[qc];B[rf];W[nq];B[ns];W[re];B[pk];W[rc];B[rf];W[jq];B[js];W[re]))
+(;B[ak]C[NOTTHIS])
+(;B[sg];W[an]C[white gets plenty compensation for the ko.];B[ee];W[as];B[km];W[gs];B[lm];W[hq]))
+(;B[ee];W[pc];B[rf];W[aj];B[al];W[re];B[fe]C[Right idea, but why let white have a free move.];W[de];B[rf];W[sq];B[ss];W[re];B[ee];W[qc];B[rf];W[nq];B[ns];W[re];B[fe];W[de];B[rf];W[jq];B[js];W[re];B[ee];W[rc];B[rf];W[eq];B[es];W[re];B[fe];W[de];B[rf];W[an];B[ak];W[re];B[fe];W[sc];B[le];W[cf];B[ke];W[ee];B[ge]))

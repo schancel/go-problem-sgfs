@@ -1,0 +1,27 @@
+(;GE[endgame]DI[15k]DP[60]SO[MrMoto]CO[8]AW[gs]AW[hs]AW[is]AW[hr]AW[hp]AW[ip]AW[gq]AB[ir]AB[iq]AB[jq]AB[jp]AW[jo]AW[ko]AW[kp]AW[kq]AW[kr]AW[nr]AW[np]AW[nq]AW[no]AW[oo]AW[po]AW[qo]AB[io]AB[ho]AW[go]AB[gn]AB[hn]AW[fo]AB[jn]AB[kn]AB[lo]AB[mo]AB[ln]AB[nn]AB[on]AB[pn]AB[qn]AB[ro]AW[rp]AW[rq]AW[qq]AW[pq]AB[qp]AB[pp]AB[op]AB[oq]AB[or]AB[pr]AB[qr]AB[rr]AB[rn]AB[gr]AB[fr]AB[fs]AW[fq]AW[fn]AB[eq]AB[er]AB[ep]AW[fp]C[The next few moves are from a game sequence.  Please play at A.FORCE]AW[eo]LB[mr:A]AP[goproblems];B[mr];W[mq]LB[ns:A]C[FORCE];B[ns];W[lr]LB[ms:A]C[don't worry, almost there ...FORCE];B[ms];W[ls]LB[os:A]C[FORCE];B[os];W[en]C[(white tenuki.)  How can black profit from this position?]
+(;B[sq]C[Those stones are already dead!])
+(;B[sp]C[Those stones are already dead!])
+(;B[js];W[hq]
+(;B[lp];W[lq]C[You can do better.])
+(;B[mp];W[lq]C[You can do better.])
+(;B[lq];W[lp];B[mp];W[lq]C[If only you could play K2 ...]))
+(;B[mp];W[lq]
+(;B[lp];W[jr]C[You can do better.])
+(;B[jr];W[js];B[lp];W[hq]C[You can do better.])
+(;B[js];W[hq]C[You can do better.]))
+(;B[lp];W[lq]
+(;B[jr];W[js];B[mp];W[hq]C[You can do better.])
+(;B[js];W[hq]C[You can do better.]))
+(;B[jr];W[lq]
+(;B[js];W[hq]C[You can do better.])
+(;B[lp];W[js];B[mp];W[hq]C[You can do better.])
+(;B[mp];W[js];B[lp];W[hq]C[You can do better.]))
+(;B[ks];W[js]
+(;B[lq];W[lp];B[mp];W[lq]C[You can do better.])
+(;B[mp];W[lq]C[You can do better.])
+(;B[lp];W[lq]C[You can do better.]))
+(;B[lq];W[lp]
+(;B[mp]
+(;W[lq]C[CHOICE];B[jr]C[Nice work!  (white's last move was a mistake)RIGHT])
+(;W[jr]C[CHOICE];B[lq]C[Nice work! :)RIGHT]))
+(;B[js];W[hq];B[mp];W[lq]C[hmmm ... too bad you played K1 earlier :|])))

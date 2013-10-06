@@ -1,0 +1,44 @@
+(;GE[life and death]DI[1k]DP[19]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[1];AW[pb][qb][pc][qd][rd]
+AB[nb][ob][oc][od][pd][qe][re][rf]C[black to kill
+]
+(;B[rc];W[sd]
+(;B[rb];W[ra]
+(;B[sb];W[pa]
+(;B[qc]C[RIGHT
+white can't atari
+])
+
+(;B[sc];W[qc])
+
+(;B[oa];W[qc])
+)
+
+(;B[pa];W[sb])
+)
+
+(;B[qc];W[rb])
+
+(;B[pa];W[rb];B[qa];W[ra];B[sc];W[sb])
+)
+
+(;B[sb];W[rc];B[rb];W[sc]
+(;B[ra];W[qa])
+
+(;B[pa];W[ra])
+
+(;B[se];W[ra])
+)
+
+(;B[rb];W[rc]
+(;B[sc];W[sd])
+
+(;B[sb];W[sc];B[qa];W[ra])
+)
+
+)

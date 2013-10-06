@@ -1,0 +1,129 @@
+(;GE[tesuji]DI[3k]DP[24]SO[Kijana]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[dn][hn][io][fp][ip][hq][kq][hr]AB[go][ho][cp][hp][dq][gq][iq]TR[hq][hr]C[Black to capture two marked stones]
+(;B[ir]CR[ir]
+;W[gr]CR[gr]
+(;B[fr]CR[fr]
+;W[fq]CR[fq]
+(;B[gp]CR[gp]
+;W[gn]CR[gn]
+;B[fo]CR[fo]
+;W[eo]CR[eo]
+;B[fn]CR[fn]
+;W[fm]CR[fm])
+(;B[er]CR[er]
+;W[gp]CR[gp]
+(;B[hs]CR[hs]
+;W[gs]CR[gs])
+(;B[gs]CR[gs]
+;W[hs]CR[hs]))
+(;B[hs]CR[hs]
+;W[gp]CR[gp]
+;B[gs]CR[gs]
+;W[gq]CR[gq]
+(;B[fo]CR[fo]
+;W[er]CR[er]
+(;B[eq]CR[eq]
+;W[fs]CR[fs]
+(;B[is]CR[is]
+;W[dr]CR[dr]
+(;B[ep]CR[ep]
+;W[fr]CR[fr]
+;B[cr]CR[cr]C[RIGHT Its all over for White])
+(;B[cr]CR[cr]
+;W[ep]CR[ep]
+;B[eo]CR[eo]
+;W[dp]CR[dp]C[White escapes]))
+(;B[ep]CR[ep]
+;W[is]CR[is]C[Oops]))
+(;B[fs]CR[fs]
+;W[eo]CR[eo]
+;B[ep]CR[ep]
+;W[eq]CR[eq]
+;B[dp]CR[dp]
+;W[fn]CR[fn]C[Black is annihilated])
+(;B[ep]CR[ep]
+;W[eq]CR[eq]
+(;B[fs]CR[fs]
+;W[eo]CR[eo]
+;B[dp]CR[dp]
+;W[fn]CR[fn]C[Black is annihilated])
+(;B[es]CR[es]
+;W[fs]CR[fs]C[Ko - black could have done better])))
+(;B[eq]CR[eq]
+;W[fo]CR[fo]
+;B[gn]CR[gn]
+;W[gm]CR[gm]
+;B[fn]CR[fn]
+;W[en]CR[en]
+;B[fm]CR[fm]
+;W[fl]CR[fl]C[Black is caught])
+(;B[er]CR[er]
+;W[fo]CR[fo]C[Black is caught in a ladder])
+(;B[ep]CR[ep]
+;W[fo]CR[fo]C[Black is caught in a ladder])
+(;B[eo]CR[eo]
+;W[fo]CR[fo]
+;B[gn]CR[gn]
+;W[gm]CR[gm]
+;B[fn]CR[fn]
+;W[en]CR[en]C[Black is caught in a ladder]))
+(;B[gs]CR[gs]
+;W[gp]CR[gp]
+;B[hs]CR[hs]
+;W[gq]CR[gq]
+(;B[fo]CR[fo]
+;W[er]CR[er]
+(;B[eq]CR[eq]
+;W[fs]CR[fs]
+(;B[is]CR[is]
+;W[dr]CR[dr]
+(;B[ep]CR[ep]
+;W[fr]CR[fr]
+;B[cr]CR[cr]C[RIGHT Its all over for White])
+(;B[cr]CR[cr]
+;W[ep]CR[ep]
+;B[eo]CR[eo]
+;W[dp]CR[dp]C[White escapes]))
+(;B[ep]CR[ep]
+;W[is]CR[is]C[Oops]))
+(;B[fs]CR[fs]
+;W[eo]CR[eo]
+;B[ep]CR[ep]
+;W[eq]CR[eq]
+;B[dp]CR[dp]
+;W[fn]CR[fn]C[Black is annihilated])
+(;B[ep]CR[ep]
+;W[eq]CR[eq]
+(;B[fs]CR[fs]
+;W[eo]CR[eo]
+;B[dp]CR[dp]
+;W[fn]CR[fn]C[Black is annihilated])
+(;B[es]CR[es]
+;W[fs]CR[fs]C[Ko - black could have done better])))
+(;B[eq]CR[eq]
+;W[fo]CR[fo]
+;B[gn]CR[gn]
+;W[gm]CR[gm]
+;B[fn]CR[fn]
+;W[en]CR[en]
+;B[fm]CR[fm]
+;W[fl]CR[fl]C[Black is caught])
+(;B[er]CR[er]
+;W[fo]CR[fo]C[Black is caught in a ladder])
+(;B[ep]CR[ep]
+;W[fo]CR[fo]C[Black is caught in a ladder])
+(;B[eo]CR[eo]
+;W[fo]CR[fo]
+;B[gn]CR[gn]
+;W[gm]CR[gm]
+;B[fn]CR[fn]
+;W[en]CR[en]C[Black is caught in a ladder])))
+(;B[fq]CR[fq]
+;W[jq]CR[jq]))
+(;B[gr]CR[gr]C[...]
+;W[ir]CR[ir]
+;B[jq]CR[jq]C[. . .]
+;W[jp]CR[jp]
+;B[jr]CR[jr]C[..................................]
+;W[kr]CR[kr]))

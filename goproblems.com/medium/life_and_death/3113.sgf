@@ -1,0 +1,71 @@
+(;GE[life and death]DI[1k]DP[18]SO[ZhuGeLiuYun]CO[6]AB[pr]AB[or]AB[oq]AB[op]AB[po]AB[pn]AB[qm]AB[pl]AB[rl]AW[qo]AW[pp]AW[pq]AW[qr]C[Variations by zinger. A thousand thanks.]AP[goproblems]
+(;W[rr]
+(;B[ro];W[rp]MA[rr]C[The first move is the key to solving this problem. (As the name implies, with S2, the group changes from a snake to a dragon.)CHOICERIGHT])
+(;B[rp];W[ro]MA[rr]C[The first move is the key to solving this problem. (As the name implies, with S2, the group changes from a snake to a dragon.) =)CHOICERIGHT]))
+(;W[qs];B[rq]
+(;W[qq];B[ro]
+(;W[rp];B[sp]
+(;W[rn];B[qp]C[Only ko.])
+(;W[qp];B[rn]))
+(;W[rn];B[qn]
+(;W[rp];B[qp]C[Ko.])
+(;W[qp];B[rp])))
+(;W[rr];B[ro]
+(;W[rp];B[sp]
+(;W[qp];B[rn])
+(;W[qq];B[qp]C[ko])
+(;W[rn];B[qp]))
+(;W[qq];B[rp]))
+(;W[rp];B[qq];W[qp];B[rr])
+(;W[qp];B[rr];W[qq];B[rn]
+(;W[rp];B[sr])
+(;W[ro];B[so];W[sp];B[sr]C[If black plays at s1, he will win because of his eye. If white plays there, black t3 kills.
+])))
+(;W[rp];B[qq]
+(;W[qp];B[rr]
+(;W[qs];B[rq])
+(;W[rq];B[qs]))
+(;W[rq];B[rr]
+(;W[qs];B[rs];W[qp];B[ps];W[qq];B[rn])
+(;W[qp];B[qs]))
+(;W[rr];B[qp]
+(;W[rq];B[ro])
+(;W[rn];B[rq])))
+(;W[rq]
+(;B[rs]C[CHOICE]
+(;W[qs];B[ro]
+(;W[rp];B[qp];W[qq];B[rn])
+(;W[qp];B[rp]))
+(;W[rp];B[qs];W[rn];B[qq]
+(;W[qp];B[rr])
+(;W[rr];B[qp])))
+(;B[qp]C[CHOICE]
+(;W[qq];B[ro]
+(;W[rp];B[rn]
+(;W[sr];B[rs])
+(;W[sp];B[sr])
+(;W[rs];B[sr]))
+(;W[rs];B[sr])
+(;W[sr];B[rs]))
+(;W[rp];B[qq]
+(;W[rs];B[sr])
+(;W[sr];B[rs]))))
+(;W[rn];B[qq]
+(;W[qp];B[rr]
+(;W[rq];B[qs])
+(;W[qs];B[rq]))
+(;W[rq];B[qp];W[rp];B[rr]))
+(;W[qq];B[ro]
+(;W[rp];B[rn]C[dead shape.])
+(;W[rn];B[qn];W[rp];B[qp]C[ko]))
+(;W[qp];B[rr];W[qs];B[rq]
+(;W[rp];B[qq])
+(;W[qq];B[rn];W[ro];B[so];W[sp];B[sr]))
+(;W[ro];B[qq]
+(;W[rq];B[qp];W[rp];B[rr])
+(;W[qp];B[rr]
+(;W[qs];B[rq])
+(;W[rq];B[qs])))
+(;W[qn];B[qq]
+(;W[rq];B[qp];W[rp];B[rr]C[Too little eyespace left.])
+(;W[qp];B[rr];W[rq];B[qs])))

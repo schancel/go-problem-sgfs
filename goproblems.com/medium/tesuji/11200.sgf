@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[3k]DP[27]SO[lok]CO[0]AB[ds]AB[dr]AB[dq]AB[cq]AB[bq]AW[es]AW[er]AW[eq]AW[dp]AW[cp]AW[bp]AW[ap]AB[ep]AB[eo]AB[dn]AB[cn]AB[bn]AW[fp]AW[gq]AB[fn]AW[cr]C[Black to do well.]AP[goproblems]
+(;B[ar];W[bs]
+(;B[aq]C[Correct. Black has 6 liberties, white has 4 only four. Black winsRIGHT])
+(;B[ao];W[aq]
+(;B[br];W[cs];B[as];W[cs]C[Black is one liberty behind.])
+(;B[cs];W[br]C[Oups])
+(;B[bo];W[br]))
+(;B[bo]C[NOTTHIS])
+(;B[co]C[NOTTHIS])
+(;B[do]C[NOTTHIS])
+(;B[br];W[cs]
+(;B[as];W[cs]C[Black is one liberty behind.])
+(;B[ao];W[aq]))
+(;B[cs];W[br];B[as];W[br]))
+(;B[aq];W[ar]
+(;B[br];W[bs]
+(;B[cs];W[cr]C[Oups])
+(;B[as]C[Ko, black can do better]))
+(;B[bs];W[br])
+(;B[cs];W[br]))
+(;B[br];W[ar]
+(;B[aq])
+(;B[bs];W[aq])
+(;B[cs];W[aq]C[Black is one liberty behind.]))
+(;B[ao];W[br]
+(;B[aq];W[ar]C[The black stones are already in atari :(])
+(;B[ar];W[aq]C[The black stones are captured.])
+(;B[bs];W[aq]C[The black stones are captured.])
+(;B[cs];W[aq]C[The black stones are captured.]))
+(;B[bs];W[ar]
+(;B[br])
+(;B[aq]))
+(;B[bo]C[NOTTHIS])
+(;B[co]C[NOTTHIS])
+(;B[do]C[NOTTHIS]))

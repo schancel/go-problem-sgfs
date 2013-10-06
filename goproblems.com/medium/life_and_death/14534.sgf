@@ -1,0 +1,28 @@
+(;GE[life and death]DI[3k]DP[26]SO[MrMoto]CO[0]AW[br]AW[bq]AW[cq]AW[dq]AW[dr]AB[eq]AB[er]AB[es]AB[ds]AW[fp]AW[gp]AB[gr]AW[gq]AW[hr]AW[iq]AW[hp]AB[dp]AB[cp]AB[bp]AB[bn]AB[do]AW[ep]AB[en]AW[eo]AB[dn]AW[fn]AW[gn]C[What can Black get from this situation? Any ko is better than seki.]MA[ds]MA[es]MA[er]MA[eq]AP[goproblems]
+(;B[cs];W[bs])
+(;B[aq];W[bs]
+(;B[ar];W[fr])
+(;B[cs];W[fr])
+(;B[fr];W[ar];B[cs];W[gs]))
+(;B[fr];W[cs])
+(;B[gs];W[cs])
+(;B[bs]
+(;W[ar]LB[dl:Yes]LB[fl:No]C[So far, so good. Would you like a hint for the next move?FORCE]
+(;B[dl];W[el]TR[cr]C[Both players want to force the other to start a ko at the triangled space. It would be unwise to fight the ko while the other group has so many liberties ...]
+(;B[cs]C[This will only lead to seki.])
+(;B[cr];W[cs]C[Starting the ko this early is bad! You will need to find many ko threats while White removes your liberties.])
+(;B[fq];W[gs]C[The best you can hope for now is seki.])
+(;B[fs];W[fq]C[The best you can hope for now is seki.])
+(;B[gs];W[cs]C[Interesting idea, but White can take advantage of the weakness of the bamboo joint for the ko fight. A better move would have been F2. (Please see the continuation by fighting the ko.)];B[cr];W[fr]LB[fq:A];B[fq];W[cs]LB[dk:K]C[(Play a ko threat at K)FORCE];B[dk];W[ek];B[cr];W[hs];B[fs];W[cs]C[... and Black needs another ko threat to kill.])
+(;B[fr];W[gs]
+(;B[cr];W[cs]C[F2 was fine, but you shouldn't have started the ko before approaching at A4 and A3.])
+(;B[ap];W[fq];B[aq];W[hs];B[cr];W[cs]C[Ko, well done! :)RIGHT]))
+(;B[ap];W[fr]
+(;B[aq];W[fs];B[cr];W[cs]C[Ko, well done! :)RIGHT])
+(;B[cr];W[cs]C[You started the ko too early! Now you will need an extra ko threat.])))
+(;B[fl];W[gl]C[Ok, you're on your own!]
+(;B[fr];W[gs];B[ap];W[fq];B[aq];W[hs];B[cr];W[cs]C[Ko, well done! :)RIGHT])
+(;B[ap];W[fr];B[aq];W[fs];B[cr];W[cs]C[Ko, well done! :)RIGHT])))
+(;W[cs]C[Note that if White wants to avoid the main line, she can throw in here to kill black, at the cost of having to find the first ko threat herself.]))
+(;B[fq];W[cs])
+(;B[fs];W[cs]))

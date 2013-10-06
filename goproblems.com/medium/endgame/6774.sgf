@@ -1,0 +1,33 @@
+(;GE[endgame]DI[1k]DP[19]SO[gedh2]CO[8]AB[ki][kh][jh][gh][ii][hi][gj][fj][ej][dj][ck][fn][eo][ho][jp][nq][op][qr][or]
+[pb][pc][pd][oe][pf][nf][kj][ng][mg][lg][ni][oi][oh][ph][qh][rh][qi][rg][sg][mk]
+[lk][ll][km][jm][jk][gk][gl][fm][en][do][go][so][eb][sq][rq][rp][qo][qp][pq][pm]
+[mq][lr][eq][er][fq][fr][fs][gr][hr][ir][iq][ip][kq][lp][lo][ln][np][no][mj][om]
+[nl][nk][ab][bc][ad][ae][be][bf][cc][cb][cd][fb][fc][ec][ea][df][ob][oa][na][ma]
+[mb][mc][lc][db]AW[dp][dq][dr][ds][es][ep][fp][gp][gq][fo][jq][co][dn][cm][dl][dm]
+[em][kk][mh][lh][sh][si][ri][pp][po][pn][sn][rn][qn][qm][rk][ok][ol][oo][on][nn]
+[nm][lm][ml][mm][mn][mo][mp][kn][kp][jo][jr][if][jg][kg][lf][ih][mf][ne][nd][md]
+[ld][nc][nb][oc][kc][lb][la][ka][ia][fa][ga][gb][gc][hc][ji][jj][qj][fl][fk][jb]
+[ro][ek][dk][pi][nj][oj][pj][dc][dd][de][ed][fd][ce][cf][cg][bg][ag][af][cj][bj]
+[di][ei][fi][gi][hg][hh]MA[fo]AP[MultiGo:3.8.6]SZ[19]
+
+(;B[hp];W[gm];B[gn];W[sp]C[The ko for the game continues - black will win as he has several more ko threats than white (c4 area for instance), and he will therefore win the game by 0.5 points; black connecting on the outside of his group at H4 was the important move.RIGHT])
+(;B[io];W[gm];B[gn];W[sp]C[black has lost his 1/2 point advantage by defending inside his own territory; even if he wins the ko, which he should, he will lose the game.])
+(;B[sp]
+(;W[hp]C[Can black pass now?If you want black to pass, please play P16 (marked with a square)]
+MA[od]
+(;B[od];W[gm];B[gn];W[hm]
+(;B[io];W[hj];B[ij];W[hk])
+(;B[hn];W[io];B[in];W[im];B[jn];W[jl]
+(;B[ko];W[hj]
+(;B[hk];W[ij]C[black loses the game])
+(;B[ij];W[hk]C[black loses the game])
+(;B[il];W[ij]C[black loses the game]))
+(;B[kl];W[hj]
+(;B[ij];W[hk]C[black loses the game])
+(;B[il];W[ij]C[black loses the game]))))
+(;B[io]C[black will lose by half a point now, due to not dealing with F5 correctly.])
+(;B[hm]C[black will lose by half a point now, due to not dealing with F5 correctly.]))
+(;W[gm];B[gn];W[hp]C[black has to defend and will lose by 0.5 point]))
+(;B[hm];W[sp]C[black has lost his 1/2 point advantage by defending inside his own territory; even if he wins the ko, which he should, he will lose the game.])
+(;B[gm];W[sp]C[black has lost his 1/2 point advantage by defending inside his own territory; even if he wins the ko, which he should, he will lose the game.])
+(;B[gn];W[sp]C[black has lost his 1/2 point advantage by defending inside his own territory; even if he wins the ko, which he should, he will lose the game.]))

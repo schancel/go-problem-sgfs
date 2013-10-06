@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[50]SO[woland8171]CO[0]AB[br]AB[bp]AB[cp]AB[dp]AB[dq]AB[dr]AB[ds]AW[bq]AW[ap]AW[bo]AW[co]AW[do]AW[eo]AW[ep]AW[eq]AW[er]AW[es]C[Black to live unconditionally]AP[goproblems]
+(;B[ar];W[aq]
+(;B[cq];W[ao]
+(;B[cs]C[RIGHT])
+(;B[bs]C[RIGHT]))
+(;B[bs];W[cq];B[cr];W[ao]C[RIGHT]))
+(;B[cq];W[ar]C[Ko])
+(;B[cr];W[ar])
+(;B[aq];W[ar];B[cq];W[aq])
+(;B[bs];W[ar]
+(;B[cq];W[aq])
+(;B[cr])
+(;B[cs])
+(;B[as];W[aq];B[cq];W[ao]))
+(;B[cs];W[ar];B[cq];W[aq];B[as];W[ao])
+(;B[as];W[aq];B[cq];W[ao];B[cs];W[ar]))

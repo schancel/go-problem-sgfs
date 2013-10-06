@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[5k]DP[33]SO[adum]CO[8]AW[lb]AW[kb]AW[lc]AB[kc]AB[jb]AB[ib]AW[jc]AW[ic]AB[kd]AB[jd]AB[fc]AB[fd]AB[fe]AW[ff]AW[hf]AW[ie]AW[gd]AB[kf]AW[md]TR[ib]TR[jb]C[can white catch these stones?]AB[ke]AW[le]AP[goproblems]
+(;W[gb];B[hc]
+(;W[id];B[gc];W[hb]C[RIGHT])
+(;W[gc];B[id])
+(;W[hb];B[id]))
+(;W[hb];B[hc]
+(;W[id];B[gb])
+(;W[gb];B[id]))
+(;W[hc];B[hb]
+(;W[gb];B[gc])
+(;W[gc];B[gb]))
+(;W[gc];B[hc];W[id];B[gb])
+(;W[id];B[hc])
+(;W[fb];B[gb])
+(;W[hd];B[hc])
+(;W[ja];B[hc])
+(;W[ia];B[hc])
+(;W[ga];B[hc];W[id];B[gb]))

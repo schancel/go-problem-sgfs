@@ -1,0 +1,129 @@
+(;GE[tesuji]DI[5k]DP[35]SO[fwiffo]CO[0]SZ[19]AW[kj]AW[ik]AW[jk]AW[lk]AW[ll]AW[im]AW[lm]AW[gn]AW[in]AW[ln]AW[mn]AW[nn]AW[jo]AW[mo]AW[kp]AW[lp]AW[jq]AW[kq]AB[kl]AB[km]AB[jn]AB[kn]AB[io]AB[no]AB[oo]AB[gp]AB[ip]AB[mp]AB[iq]AB[lq]AB[mq]TR[kl]TR[km]TR[jn]TR[kn]C[Black to save the marked stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[6.50]PW[White]PB[Black]
+(;B[ko];W[jp]
+(;B[lo];W[ir]
+(;B[js];W[lr]
+(;B[ks]
+(;W[hr]C[Tanuki no hara tsuzumi! But what if white resists?CHOICE]
+(;B[jr];W[kr]
+(;B[mr]C[Drum that belly!RIGHT])
+(;B[ls];W[mr];B[nr]C[It works, but why chase like that?RIGHT])
+(;B[ms]C[I guess that works, but Kage will lecture you about firmness.RIGHT]))
+(;B[kr];W[jr]C[Oh no, so close.])
+(;B[mr];W[jr]C[Oh no, so close.])
+(;B[hq];W[jr]C[Oh no, so close.]))
+(;W[is]C[Tanuki no hara tsuzumi! But what if white resists?CHOICE]
+(;B[hr]
+(;W[jr]C[CHOICE]
+(;B[hs]C[Now white can never get more than two liberties, even if the two black stones are captured.RIGHT])
+(;B[mr]C[Now white can never get more than two liberties, even if the two black stones are captured.RIGHT])
+(;B[ls];W[ms]C[Ooops, now white will have enough liberties after capturing those black stones to win the capturing race above.])
+(;B[kr];W[ls]C[Ooops, now white will have enough liberties after capturing those black stones to win the capturing race above.]))
+(;W[kr]C[CHOICE]
+(;B[mr]C[Now white can never get more than two liberties, even if the two black stones are captured.RIGHT])
+(;B[ls];W[mr]C[Ooops, now white will have enough liberties after capturing those black stones to win the capturing race above.])
+(;B[jr];W[ls]C[Ooops, now white will have enough liberties to win the capturing race above.])
+(;B[hs];W[jm]C[White has enough liberties to win the capturing race.])))
+(;B[jr];W[kr]C[After white captures those three stones, there will be enough liberties to win the capturing race at the top.])
+(;B[kr];W[jr]C[Oh dear, white will capture those stones then have plenty of liberties for the race above.])
+(;B[mr]
+(;W[jr]C[CHOICE]
+(;B[hr]C[Now white will never get more than two liberties, even by capturing the two black stones at the edge.RIGHT])
+(;B[kr];W[ls]C[Now white has plenty of liberties to win the capturing race at the top.])
+(;B[ls];W[hr]C[Now white has plenty of liberties to win the capturing race at the top.]))
+(;W[kr]C[CHOICE];B[hr]C[Now white will never get more than two liberties, even by capturing the two black stones at the edge.RIGHT])))
+(;W[jr]C[Tanuki no hara tsuzumi! But what if white resists?CHOICE]
+(;B[mr];W[hr]C[Now white will have plenty of liberties to win the capturing race.])
+(;B[kr];W[hr]C[Now white will have plenty of liberties to win the capturing race.])
+(;B[ls];W[hr]C[Now white will have plenty of liberties to win the capturing race.])
+(;B[is];W[hr]C[Now white will have plenty of liberties to win the capturing race.])
+(;B[hr]C[Drum that belly!RIGHT])))
+(;B[jr];W[kr];B[mr];W[is];B[ls];W[ks]C[White will win the capturing race now])
+(;B[kr];W[jr]
+(;B[ks];W[hr]C[White will win the race now.])
+(;B[hr];W[ks]C[White will win the race now.]))
+(;B[hr];W[kr]
+(;B[jr];W[jm]C[White will win the race now.])
+(;B[mr];W[jm]C[White will win the race now.])
+(;B[is];W[jm]C[White will win the race now.])
+(;B[ks];W[jm]C[White will win the race now.])
+(;B[ls];W[jm]C[White will win the race now.]))
+(;B[mr];W[jr]
+(;B[hr];W[ks]
+(;B[is];W[hs]C[White will win the race now.])
+(;B[hs];W[is]C[You let white live? Here?]))
+(;B[ls];W[jm]C[White will win the race now.])
+(;B[ks];W[jm]C[White will win the race now.]))
+(;B[is];W[kr]C[White has enough liberties to win the capturing race now.]))
+(;B[jr];W[kr]
+(;B[hr];W[js]
+(;B[lr];W[jm]C[Black has to make approach moves from either side, so white has enough liberties to win the race.])
+(;B[hs];W[jm]C[Black has to make approach moves from either side, so white has enough liberties to win the race.])
+(;B[ls];W[jm]C[Black has to make approach moves from either side, so white has enough liberties to win the race.]))
+(;B[lr];W[js]
+(;B[hr];W[jm]C[Black has to make approach moves from either side, so white has enough liberties to win the race.])
+(;B[ls];W[hr];B[ks];W[jr]
+(;B[hq];W[jm]C[Black loses the race.])
+(;B[gr];W[jm]C[Black loses the race.])))
+(;B[ks];W[js]
+(;B[lr];W[ls];B[ms];W[hr];B[ks];W[jr];B[hq];W[jm]C[Black loses the race.])
+(;B[ls];W[hr];B[lr];W[jr];B[hq];W[jm]C[Black loses the race.])
+(;B[hr];W[lr];B[mr];W[ls]C[You let white make life here?]))
+(;B[js];W[is]
+(;B[lr];W[ks]
+(;B[ls];W[jm]C[Black loses the race.])
+(;B[hr];W[jm]C[Black loses the race.]))
+(;B[hr];W[ks]
+(;B[lr];W[jm]C[Black loses the race.])
+(;B[hs];W[jm]C[Black loses the race.])
+(;B[ls];W[jm]C[Black loses the race.])))
+(;B[is];W[js]
+(;B[hr];W[hs]C[You will never capture white that way.])
+(;B[lr];W[jm]C[Black loses the race.])
+(;B[hs];W[jm]C[Black loses the race.])))
+(;B[kr];W[jr]
+(;B[hr];W[lr]
+(;B[mr];W[ks]C[White will win the capturing race now.])
+(;B[js];W[ks]C[Black will have to approach from either side so white will have enough liberties to win the capturing race.])
+(;B[is];W[ks]C[Black will have to approach from either side so white will have enough liberties to win the capturing race.])
+(;B[ls];W[ks]C[Black will have to approach from either side so white will have enough liberties to win the capturing race.])
+(;B[ks];W[ls]C[White will capture these stones and then have enough liberties to win the capturing race above.]))
+(;B[lr];W[jm]C[White will win the capturing race now.])
+(;B[js];W[hr]C[White will have plenty of liberties to win the capturing race now.]))
+(;B[hr];W[lr]
+(;B[jr];W[kr]
+(;B[is];W[jm]C[White will win the capturing race now.])
+(;B[mr];W[js]C[Black has to make approach moves from either side, so white will win the capturing race.])
+(;B[js];W[jm]C[White has enough liberties to win the capturing race now.])
+(;B[ks];W[js]C[Black has to make approach moves from either side, so white will win the capturing race.])
+(;B[ls];W[js]C[Black has to make approach moves from either side, so white will win the capturing race.]))
+(;B[kr];W[jr]C[White will capture this stone, then have enough liberties to win the capturing race.])
+(;B[mr];W[jm]
+(;B[kr];W[jr]
+(;B[ls];W[jl]C[White will win the capturing race now.])
+(;B[js];W[ks]C[Black needs approach moves from either side, so white will win the capturing race.])
+(;B[is];W[ks]C[Black needs approach moves from either side, so white will win the capturing race.]))
+(;B[jr];W[kr]
+(;B[is];W[jl]C[White will win the capturing race now.])
+(;B[ls];W[js]C[Black needs approach moves from either side, so white will win the capturing race.])
+(;B[ks];W[js]C[Black needs approach moves from either side, so white will win the capturing race.]))
+(;B[ls];W[jl]C[White wins the capturing race.])
+(;B[is];W[jl]C[White wins the capturing race.])
+(;B[js];W[jl]C[Too late!])
+(;B[ks];W[jl]C[Too late!]))
+(;B[is];W[kr]C[White has enough liberties to win the capturing race now.])
+(;B[js];W[kr]C[White now has enough liberties to win the capturing race above.])
+(;B[ks];W[kr]
+(;B[mr];W[js]C[Black will need multiple approach moves now, so white will have enough liberties to win the capturing race above.])
+(;B[ls];W[ms]C[Black will need multiple approach moves now, so white will have enough liberties to win the capturing race above.])))
+(;B[lr];W[jr]C[White has enough liberties to win the capturing race now.])
+(;B[ks];W[jr]C[White has enough liberties to win the capturing race now.]))
+(;B[jr];W[lo]C[White Connects! There's no hope now.])
+(;B[kr];W[lo]C[White Connects! There's no hope now.]))
+(;B[jp];W[ko]C[White Connects! There's no hope now.])
+(;B[lo];W[ko]C[White Connects! There's no hope now.])
+(;B[jr];W[ko]C[White Connects! There's no hope now.])
+(;B[kr];W[ko]C[White Connects! There's no hope now.])
+(;B[kk];W[ko]C[White connects, now there is no hope.])
+(;B[il];W[ko]C[White connects, now there is no hope.])
+(;B[jl];W[ko]C[White connects, now there is no hope.])
+(;B[jm];W[ko]C[White connects, now there is no hope.]))

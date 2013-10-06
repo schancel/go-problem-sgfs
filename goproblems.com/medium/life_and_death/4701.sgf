@@ -1,0 +1,47 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[9]AB[ab]AB[bc]AB[bd]AB[ce]AB[cf]AB[ef]AB[gf]AB[ff]AB[ge]AB[gd]AB[gc]AB[gb]AB[df]AW[bb]AW[ba]AW[cc]AW[dd]AW[ee]AW[fe]AW[fd]AW[fc]AW[eb]AB[db]C[Kill white...]AP[goproblems]
+(;B[fb]
+(;W[ea]
+(;B[ec];W[dc]
+(;B[fa];W[ed];B[da]C[Well done! ;)RIGHT])
+(;B[de];W[ed]C[:(])
+(;B[da];W[ed];B[fa]C[Well done! ;)RIGHT])
+(;B[cb];W[da]C[:(]))
+(;B[dc];W[cb]
+(;B[ec];W[da]C[:(])
+(;B[cd];W[ec]C[:(])
+(;B[da];W[ec]C[:(]))
+(;B[cb];W[dc]
+(;B[ec];W[da]C[:(])
+(;B[fa];W[da]C[:(]))
+(;B[cd];W[dc]
+(;B[ec];W[cb]C[:(])
+(;B[cb];W[da]C[:(])
+(;B[fa];W[da]C[:(])
+(;B[da];W[cb]C[:(])))
+(;W[da];B[ec];W[ea];B[fa];W[ca];B[dc]C[Well done! (It isn't seki because white can be forced to connect.RIGHT]))
+(;B[dc];W[cb]
+(;B[fb];W[ea]C[:(])
+(;B[ec];W[fb]C[:(])
+(;B[ea];W[fa]C[:(])
+(;B[da];W[ea]
+(;B[ec];W[fb]C[:(])
+(;B[fb];W[ec]C[:(]))
+(;B[fa];W[ea]C[:(]))
+(;B[ec];W[fb]
+(;B[dc];W[da]C[:(])
+(;B[fa];W[dc];B[ea];W[da];B[ca];W[cb]C[:(]))
+(;B[da];W[ea]C[:(])
+(;B[cd];W[dc]C[:(])
+(;B[cb];W[dc]C[:(])
+(;B[de];W[dc]C[:(])
+(;B[ea];W[fa]
+(;B[fb];W[da]
+(;B[ec];W[dc]
+(;B[ea]MA[eb]C[Only ko - An unconditional kill's possible.. :(])
+(;B[de];W[ed]C[:(]))
+(;B[dc];W[ec]C[:(])
+(;B[cb];W[dc]C[:(]))
+(;B[ec];W[fb]C[:(]TR[dc]TR[da])
+(;B[dc];W[cb]C[:(])
+(;B[da];W[fb]C[:(])
+(;B[cb];W[dc]C[:(])))

@@ -1,0 +1,9 @@
+(;GE[life and death]DI[8k]DP[48]SO[MeleeNewb]CO[0]C[I thought I would try my hand at a Help Thy Opponent problem, so without further ado... Black to make his group not alive in one move.]AB[rc]AB[rb]AB[ra]AB[pc]AB[oc]AB[ob]AB[oa]AW[nb]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[rd]AW[lb]AW[rf]AP[goproblems]
+(;B[sa];W[sc]C[Excellent. Black is dead as a doornail.RIGHT])
+(;B[sb]C[Jeez, that doesnt help, now black has two eyes!]TR[sa]TR[pa])
+(;B[sc]C[Jeez, that doesnt help, now black has two eyes!]TR[sa]TR[pa])
+(;B[qc]C[Jeez, that doesnt help, now black has two eyes!]TR[pa]TR[sa])
+(;B[qb]C[This is even worse than before. Now white needs 3 moves to kill!])
+(;B[pb]C[Jeez, that doesnt help, now black has two eyes!]TR[pa]TR[sa])
+(;B[pa]C[Jeez, that doesnt help, now black has two eyes!]TR[qa]TR[sa])
+(;B[qa]C[Jeez, that doesnt help, now black has two eyes!]TR[pa]TR[sa]))

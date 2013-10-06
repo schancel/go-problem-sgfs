@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4k]DP[30]SO[bass]CO[8]AB[io]AB[ko]AB[hq]AB[ip]AB[kp]AB[hr]AB[lq]AB[lr]AB[hn]AB[hm]AB[hl]AB[jl]AB[kl]AB[ll]AB[lm]AB[ln]AW[lp]AW[lo]AW[mn]AW[mm]AW[ml]AB[il]AW[gl]AW[gm]AW[gn]AW[ho]AW[hp]AW[in]AW[kn]AW[kq]AB[nq]AB[fq]TR[hn]TR[hm]TR[hl]TR[il]TR[jl]TR[kl]TR[ll]TR[lm]TR[ln]AW[fo]AW[no]AB[fk]AB[nk]AW[hj]AW[lj]AW[gk]AB[gj]AB[fj]AB[hk]AW[ij]AW[ik]AW[kk]AW[kj]AB[lk]AW[mk]AB[mj]AB[nj]TR[hk]TR[lk]AP[goproblems]
+(;W[iq];B[jn]
+(;W[jp];B[im];W[jo]C[RIGHT])
+(;W[jq];B[im]))
+(;W[jo];B[jp]
+(;W[jn];B[iq]C[only seki])
+(;W[iq];B[jn]))
+(;W[jn];B[iq]C[only seki.])
+(;W[jp];B[jo]
+(;W[jn];B[jq]C[only seki])
+(;W[iq];B[jq];W[jn];B[ir]C[only seki.]))
+(;W[jq];B[jn])
+(;W[jm];B[im]
+(;W[jp];B[jo];W[iq];B[jq])
+(;W[jn];B[jo])
+(;W[iq];B[jn])))

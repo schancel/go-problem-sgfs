@@ -1,0 +1,60 @@
+(;GE[life and death]DI[2k]DP[21]SO[morten]CO[0]AB[pc]AB[qd]AB[oc]AB[nd]AB[ne]AB[me]AB[le]AB[lc]AB[kd]AB[jd]AB[jc]AW[mc]AW[nc]AW[md]AW[od]AW[oe]AW[of]AW[ng]AW[lg]AW[je]AW[jb]AW[kb]AW[kc]C[Black to get the best out of this]AW[ib]AW[ie]AP[goproblems]
+(;B[lb]
+(;W[mb]
+(;B[ma]
+(;W[ka]
+(;B[la];W[ob];B[ld];W[nb];B[pb]C[NiceCHOICERIGHT])
+(;B[ld];W[la];B[nb]C[RIGHT])
+(;B[nb];W[la];B[ld]C[RIGHT]))
+(;W[na];B[la];W[ka];B[ld];W[ob];B[nb]C[RIGHT]))
+(;B[la];W[ma];B[ld]C[Nice.RIGHT])
+(;B[ld];W[la];B[nb])
+(;B[nb]))
+(;W[ld]
+(;B[nb]
+(;W[ke];B[mb]C[NiceRIGHT])
+(;W[mb];B[ma]C[NiceRIGHT]))
+(;B[ke];W[mb]C[Black can do better])
+(;B[mb];W[nb];B[ob]C[NiceRIGHT])
+(;B[ma];W[na];B[nb]C[RIGHT])
+(;B[na]
+(;W[mb];B[la]C[RIGHT])
+(;W[ma];B[mb]C[RIGHT]))
+(;B[la];W[nb]
+(;B[mb];W[ka])
+(;B[ob];W[ma])
+(;B[ma];W[na])
+(;B[na];W[ka]
+(;B[ma];W[oa])
+(;B[oa];W[ma];B[mb];W[ma])))))
+(;B[nb];W[mb]
+(;B[lb];W[la]
+(;B[ld];W[ma]
+(;B[na];W[ka]C[Black achieves nothing - in gote]TR[ob])
+(;B[ka];W[ja];B[na];W[ka]C[Black achieves nothing - in gote]TR[ob]))
+(;B[na];W[ld]C[Black can do better])
+(;B[ka];W[ja];B[ld];W[ma])
+(;B[ma];W[na];B[ld];W[ma];B[ka];W[ob]C[Black achieves nothing - in gote]))
+(;B[ld];W[lb]C[Black can do better])
+(;B[ob];W[ld];B[lb];W[la]C[Black can do better])
+(;B[ma];W[lb];B[ld];W[ob]C[Black can do better]))
+(;B[ld];W[lb]
+(;B[mb];W[nb]C[Black can do better])
+(;B[nb];W[mb]C[Black can do better]))
+(;B[mb]
+(;W[nb]C[CHOICE]
+(;B[lb];W[la]
+(;B[ld];W[ma]C[Oops])
+(;B[ma];W[ld];B[ka];W[na]C[Oops])
+(;B[na];W[oa];B[ld];W[ma];B[ob];W[na])
+(;B[ob];W[ma];B[ld];W[na];B[oa];W[ka])
+(;B[oa];W[ma]
+(;B[na];W[ld])
+(;B[ld];W[na])))
+(;B[na];W[lb]C[Oops])
+(;B[ld];W[lb]C[Oops])
+(;B[ma];W[ld]))
+(;W[lb]
+(;B[ld])))
+(;B[ke];W[ld];B[lb])
+(;B[la];W[lb];B[mb];W[ld];B[nb];W[lc]C[Black can do better]TR[ke]TR[ka]TR[ob]))

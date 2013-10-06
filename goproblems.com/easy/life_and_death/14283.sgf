@@ -1,0 +1,10 @@
+(;GE[life and death]DI[20k]DP[70]SO[Snow Dragon]CO[0]AB[ba]AB[bb]AB[cb]AB[cc]AB[dd]AB[ec]AB[eb]AB[fb]AW[ab]AW[bc]AW[bd]AW[cd]AW[de]AW[cf]AW[ed]AW[fd]AW[fc]AW[gb]AW[hc]C[Black to live.]AP[goproblems]
+(;B[da]
+(;W[fa]C[CHOICE];B[dc]C[RIGHT])
+(;W[dc]C[CHOICE];B[fa]C[RIGHT]))
+(;B[db];W[fa]C[]
+(;B[ea]C[Only one eye.])
+(;B[da]C[Only one eye.]))
+(;B[fa];W[da])
+(;B[ea];W[da])
+(;B[dc];W[da]))

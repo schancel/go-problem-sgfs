@@ -1,0 +1,20 @@
+(;GE[life and death]DI[20k]DP[72]SO[enigm4]CO[0]AB[ds]AB[dr]AB[dq]AB[ep]AB[fp]AB[gp]AB[hp]AB[ip]AB[gq]AB[jq]AB[jr]AB[js]AW[es]AW[er]AW[fq]AW[gr]AW[gs]AW[hq]AW[iq]AW[ir]AW[is]
+(;B[eq];W[fr])
+(;B[hr];W[hs]
+(;B[eq];W[fr])
+(;B[fr]
+(;W[fs];B[eq]C[RIGHT])
+(;W[eq];B[fs]C[RIGHT])))
+(;B[hs];W[hr]
+(;B[fr];W[fs];B[eq]C[RIGHT])
+(;B[eq];W[fr]))
+(;B[fr]
+(;W[eq]C[CHOICE]
+(;B[fs]C[RIGHT])
+(;B[hr]C[RIGHT])
+(;B[hs]C[RIGHT]))
+(;W[fs]C[CHOICE]
+(;B[eq]C[RIGHT])
+(;B[hr];W[hs];B[eq]C[RIGHT])
+(;B[hs]C[RIGHT])))
+(;B[fs];W[fr]))

@@ -1,0 +1,48 @@
+(;GE[tesuji]DI[5k]DP[33]SO[FrozenV7]CO[8]AB[pd]AB[ic]AB[cd]AB[ed]AB[dr]AB[cr]AB[cq]AB[cp]AB[bo]AB[bn]AB[ce]AB[df]AB[ef]AB[eg]AB[eh]AB[dh]AB[ci]AW[ii]AW[sq]AW[sp]AW[so]AW[rq]AW[qq]AW[pq]AW[pp]AW[or]AW[no]AW[np]AW[mo]AW[mn]AW[lm]AW[ll]AB[op]AB[oq]AB[qp]AB[rp]AB[ro]AW[oo]AB[po]AB[pn]AB[qn]AB[sn]AB[nn]AB[on]AB[mm]AB[nm]AB[nl]AB[nk]AB[oj]AB[oi]AB[pi]AB[sl]AB[ql]AB[qk]AB[rk]AB[sk]AW[nj]AW[mj]AW[ol]AW[ok]AW[pk]AW[pj]AB[pm]AB[ln]AB[lo]AB[kn]AW[jp]AW[er]AW[fq]AW[dq]AW[dp]AW[co]AW[cn]AW[cm]AW[di]AW[dj]AW[bi]AW[ch]AW[cg]AW[cf]AW[dg]AW[de]AW[nc]LB[lo:A]LB[nc:B]TR[mn]TR[mo]TR[no]TR[np]TR[oo]LB[kg:No]LB[ig:Yes]C[White ignored Blacks play at A to attack at the top. Can Black now capture the triangled Stones? (Please play at J13 or L13)FORCE]AB[ml]AW[pr]AP[goproblems]
+(;B[ig];W[kg]C[Please show how.]
+(;B[nq];W[mp]
+(;B[mq];W[lp]
+(;B[kp];W[lq]
+(;B[lr];W[kq]
+(;B[jq]C[FORCE]
+(;W[ko]
+(;B[kr];W[kp]
+(;B[ip];W[jo]
+(;B[jn];W[io];B[ho];W[in];B[im];W[hn];B[gn];W[hm];B[hl];W[gm];B[fm];W[gl];B[gk];W[fl];B[el];W[fk];B[fj];W[ek];B[dk];W[ej];B[cj]C[Great! :o)RIGHT])
+(;B[io];W[jn]TR[kn]TR[ln]TR[lo]C[:o(])
+(;B[in];W[mr]TR[mq]TR[nq]TR[oq]TR[op]C[:o(]))
+(;B[jo];W[ip]C[White escapes!]LB[mr:A]LB[jn:B]))
+(;B[jo];W[mr]TR[mq]TR[nq]TR[oq]TR[op]C[:o(])
+(;B[jr];W[mr]TR[mq]TR[nq]TR[oq]TR[op]C[:o(]))
+(;W[kr];B[jr];W[ks]
+(;B[ls];W[ko];B[js];W[kp];B[ip];W[jo]
+(;B[jn];W[io];B[ho];W[in];B[im];W[hn];B[gn];W[hm];B[hl];W[gm];B[fm];W[gl];B[gk];W[fl];B[el];W[fk];B[fj];W[ek];B[dk];W[ej];B[cj]C[Great! :o)RIGHT])
+(;B[io];W[jn]TR[kn]TR[ln]TR[lo]C[:o(]))
+(;B[js];W[ko];B[ls];W[kp];B[ip];W[jo];B[jn];W[io];B[ho];W[in];B[im];W[hn];B[gn];W[hm];B[hl];W[gm];B[fm];W[gl];B[gk];W[fl];B[el];W[fk];B[fj];W[ek];B[dk];W[ej];B[cj]C[Great! :o)RIGHT])))
+(;B[ko];W[jq]C[White Escapes! :o(])
+(;B[kr];W[jq]C[White escapes. :o(]))
+(;B[kq];W[lr]TR[mq]TR[nq]TR[oq]TR[op]C[:o(]
+(;B[mr];W[ms])
+(;B[nr];W[ns])
+(;B[kr];W[mr]))
+(;B[kr];W[mr]TR[mq]TR[nq]TR[oq]TR[op]C[:o(]))
+(;B[lq];W[kp]C[White escapes!]))
+(;B[lp];W[mq]TR[nq]TR[oq]TR[op]C[:o(])
+(;B[lq];W[mq]TR[nq]TR[oq]TR[op]C[:o(])
+(;B[nr];W[lp];B[kp];W[kq]
+(;B[lq];W[ko]C[White escapes!])
+(;B[mq];W[ko]C[White escapes!])
+(;B[ko];W[lq];B[jq];W[mr]TR[nr]TR[nq]TR[oq]TR[op]C[:o(])))
+(;B[mq]TR[oq]TR[op]C[:o(])
+(;B[mp]TR[op]TR[oq]C[:o(]))
+(;B[kg]C[Wrong, they can be captured!]AW[pd]AB[nc]AW[ic]AW[kg]AW[ed]AW[cd]AW[ce]AB[de]AB[cf]AB[cg]AB[ch]AB[dg]AW[df]AW[ef]AW[eg]AW[eh]AW[dh]AW[ci]AB[bi]AB[di]AB[dj]AB[cm]AB[cn]AB[co]AW[bn]AW[bo]AW[cp]AW[cq]AW[cr]AW[dr]AB[dp]AB[dq]AB[er]AB[fq]AB[jp]AW[kn]AW[ln]AW[lo]AB[lm]AB[ll]AB[mo]AB[no]AB[oo]AB[np]AW[op]AW[oq]AB[or]AB[pq]AB[qq]AB[rq]AB[sq]AB[sp]AB[so]AW[qp]AW[rp]AW[ro]AW[sn]AW[qn]AW[ql]AW[qk]AW[rk]AW[sk]AW[sl]AW[pm]AW[pn]AW[po]AW[oj]AW[oi]AW[pi]AB[pj]AB[pk]AB[ok]AB[ol]AB[mj]AB[nj]AW[nk]AW[nl]AW[ml]AB[mn]AW[mm]AW[nm]AW[nn]AW[on]AB[ii]AB[pr];W[nq]C[Escape!];B[mp];W[mq];B[lp];W[kp];B[lq];W[lr];B[kq];W[jq]
+(;B[ko];W[kr];B[kp];W[ip];B[jo];W[jn];B[io];W[ho];B[in];W[im];B[hn];W[gn];B[hm];W[hl];B[gm];W[fm];B[gl];W[gk];B[fl];W[el];B[fk];W[fj];B[ek];W[dk];B[ej];W[cj];B[ei];W[fi]C[:o(])
+(;B[kr];W[jr]
+(;B[ks]
+(;W[ls]
+(;B[js];W[is]C[:o(])
+(;B[ko];W[js];B[kp];W[ip];B[jo];W[jn];B[io];W[ho];B[in];W[im];B[hn];W[gn];B[hm];W[hl];B[gm];W[fm];B[gl];W[gk];B[fl];W[el];B[fk];W[fj];B[ek];W[dk]
+(;B[ej];W[cj];B[ei];W[fi]C[:o(])
+(;B[cj];W[ej]C[:o(])))
+(;W[js];B[ls];W[ms]C[:o(]))
+(;B[ko];W[ks];B[kp];W[ip];B[jo];W[jn];B[io];W[ho];B[in];W[im];B[hn];W[gn];B[hm];W[hl];B[gm];W[fm];B[gl];W[gk];B[fl];W[el];B[fk];W[fj];B[ek];W[dk];B[ej];W[cj];B[ei];W[fi]C[:o(]))))

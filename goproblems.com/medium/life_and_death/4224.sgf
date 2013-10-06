@@ -1,0 +1,59 @@
+(;GE[life and death]DI[2k]DP[22]SO[BartTM]CO[8]AB[ba]AB[cb]AB[cc]AB[cd]AB[ce]AB[be]AW[bb]AW[bc]AW[db]AW[dc]AW[dd]AW[ee]AW[df]AW[cf]AW[bf]AW[bh]AW[fb]AP[goproblems]
+(;B[ac]
+(;W[ab];B[ad]C[Seki, best result for both.RIGHT])
+(;W[ad]C[CHOICE]
+(;B[ab];W[aa]
+(;B[ab];W[ae]
+(;B[bd]C[White was too greedy to allow a seki; but now Black lives with territory.RIGHT])
+(;B[ac];W[aa])
+(;B[ca];W[af])
+(;B[aa];W[bd]))
+(;B[bd];W[ca])
+(;B[ac];W[ca])
+(;B[ae];W[ca])
+(;B[ca];W[ae]
+(;B[ab])
+(;B[ac];W[bd])
+(;B[bd];W[ac])))
+(;B[bd];W[ab]
+(;B[ae];W[ac]C[One eye only.])
+(;B[ca];W[ae]C[Black can only get one eye now.])
+(;B[af];W[ac]C[Just one eye.]))
+(;B[ae];W[ab]
+(;B[bd])
+(;B[ca]C[Dead as it stands.])
+(;B[af]C[Black remains dead.]))
+(;B[ca];W[ae]
+(;B[ab];W[aa])
+(;B[bd];W[ab]C[Black can get just one eye now.])
+(;B[aa];W[bd]))
+(;B[aa];W[ae]
+(;B[bd];W[af]C[Just one eye.])
+(;B[ab];W[af]C[Just one eye.]))))
+(;B[ab];W[ac]
+(;B[ad];W[aa]C[Ko, and Black has to find the first ko threat.])
+(;B[ca];W[aa]
+(;B[ae]C[];W[af]C[]
+(;B[ab];W[da]C[This is a so-called 10000 year ko. Neither player can connect it. But White can kill Black if White has more ko threats.])
+(;B[ad];W[ab]C[One eye...])
+(;B[bd];W[ab]C[One eye!]))
+(;B[ad];W[ab]C[That's just one eye.])
+(;B[bd];W[ab]C[One eye only.])
+(;B[ab]C[Hey!NOTTHIS]))
+(;B[bd];W[aa]C[Ko])
+(;B[ae];W[da]
+(;B[ad];W[aa]C[Ko])
+(;B[bd];W[aa]C[Ko])
+(;B[ca];W[af]C[This is a so-called 10000 year ko. Neither player can connect it. But White can kill Black if White has more ko threats.])))
+(;B[aa];W[ac]C[Just one eye.])
+(;B[bd];W[ab]C[Just one eye.])
+(;B[ca];W[ab]C[Just one eye.])
+(;B[ad];W[ac]
+(;B[ab])
+(;B[bd];W[ab]C[Well, dead.])
+(;B[ca];W[ab]C[As a dodo.])
+(;B[aa]C[Black is dead as it stands.])
+(;B[ae];W[ab]C[Just one eye.]))
+(;B[ae];W[ab]C[Only one eye.])
+(;B[da];W[ab]C[Only one eye.])
+(;B[af];W[ab]C[Only one eye.]))

@@ -1,0 +1,16 @@
+(;GE[life and death]DI[4k]DP[28]SO[nyuves]CO[0]AB[aj]AB[bj]AB[bk]AB[ck]AB[bl]AB[ci]AB[ch]AB[cg]AB[cf]AB[bg]AB[be]AB[ae]AW[ad]AW[bd]AW[cd]AW[ce]AW[df]AW[dg]AW[dh]AW[di]AW[dj]AW[cj]AW[dk]AW[cl]AW[cm]AW[bm]AW[am]AW[al]AW[dl]AW[de]C[White tries to kill! Black to live with the best result! Last move marked with triangle.]AW[ah]TR[ah]AP[goproblems]
+(;B[bh]
+(;W[af]
+(;B[bf]C[RIGHT];W[ak];B[ag]C[Correct!CHOICERIGHT])
+(;B[ag])
+(;B[ai];W[bf];B[ag]C[You should not loose those 2 stones!]))
+(;W[ag];B[ai];W[ak];B[af]C[Correct!CHOICERIGHT])
+(;W[ai]
+(;B[ag]C[Correct!CHOICERIGHT])))
+(;B[ag];W[bf]
+(;B[af];W[bi]C[Wrong! You cant approach to B12 or A11.])
+(;B[bh];W[af];B[ai]C[You should not loose those 2 stones.])
+(;B[ai];W[af];B[bh]C[You should not loose those 2 stones.]))
+(;B[ai];W[ak]C[Wrong!])
+(;B[af];W[ag]C[Wrong!])
+(;B[bi];W[ag]C[Wrong! Not enough space left for a second eye.]))

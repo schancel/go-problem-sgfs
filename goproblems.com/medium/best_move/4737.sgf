@@ -1,0 +1,14 @@
+(;GE[best move]DI[4k]DP[28]SO[unkx80]CO[8]AB[sr]AB[rr]AB[qq]AB[pq]AB[or]AW[lr]AW[mq]AW[nr]AW[ms]AW[np]AW[oq]AW[pp]AW[qp]AW[rq]AB[oo]AW[op]AW[sp]AW[ro]C[Black to live in the best possible way.]AP[goproblems]
+(;B[os];W[ns]
+(;B[pr]C[Black lives with 5 points.
+(However, Q2 is better played at R2, because White would have one less ko-threat.)RIGHT])
+(;B[qr]C[Black lives with 5 points.RIGHT])
+(;B[qs];W[pr])
+(;B[rs];W[qr]))
+(;B[pr];W[os]
+(;B[qs]C[Black lives with 3 points.])
+(;B[ps];W[qs]))
+(;B[qr];W[os])
+(;B[ps];W[os])
+(;B[qs];W[pr])
+(;B[rs];W[pr]))

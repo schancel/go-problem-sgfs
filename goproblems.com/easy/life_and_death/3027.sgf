@@ -1,0 +1,37 @@
+(;GE[life and death]DI[6k]DP[36]SO[russeasby]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[om][on][oo][po][qp][oq][pq][qq][rq][or]AB[ol][nm][nn][qn][rn][no][qo][so][np][op][pp][rp][nq][nr][pr][qr]C[White to live]PL[W]
+(;W[rr]CR[rr]
+;B[os]CR[os]
+(;W[ps]CR[ps]
+;B[sq]CR[sq]
+(;W[qs]CR[qs]
+;B[sr]CR[sr]
+(;W[ns]CR[ns]
+;B[mr]CR[mr]C[Dead])
+(;W[ss]CR[ss]
+;B[sp]CR[sp]
+;W[ns]CR[ns]
+;B[mr]CR[mr]C[Dead]))
+(;W[sr]CR[sr]
+;B[qs]CR[qs]
+(;W[rs]CR[rs]
+;B[ss]CR[ss])
+(;W[sp]CR[sp]C[Ko, there is a better way])))
+(;W[rs]CR[rs]
+;B[ps]CR[ps]C[Dead])
+(;W[qs]CR[qs]
+;B[ns]CR[ns]
+;W[ps]CR[ps]C[AliveRIGHT]))
+(;W[rs]CR[rs]
+;B[sr]CR[sr]
+(;W[rr]CR[rr]
+;B[sq]CR[sq]C[Dead])
+(;W[ps]CR[ps]
+;B[sq]CR[sq]C[Dead])
+(;W[sq]CR[sq]
+;B[rr]CR[rr]
+;W[ps]CR[ps]
+;B[sp]CR[sp]C[Dead]))
+(;W[os]CR[os]
+;B[rr]CR[rr]C[Dead]))

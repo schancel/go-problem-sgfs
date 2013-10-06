@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[15k]DP[63]SO[iqer2000]CO[8]AW[dq]AW[fq]AW[gq]AW[hr]AW[ir]AW[jq]AW[jp]AB[ip]AB[iq]AB[hq]AW[do]AB[gr]AB[jo]AB[hn]AB[fn]AB[fs]AB[dr]TR[ip]TR[iq]TR[hq]AP[White first to kill the J3 Black group.]
+(;W[io];B[hp]
+(;W[ho];B[gp]
+(;W[go];B[fp]
+(;W[fo];B[ep]
+(;W[eq]C[Exactly !RIGHT])
+(;W[eo];B[eq])
+(;W[dp];B[eq]))
+(;W[ep];B[fo])
+(;W[eo];B[fo]))
+(;W[fp];B[go])
+(;W[fo];B[go]))
+(;W[gp];B[ho])
+(;W[go];B[ho]))
+(;W[hp];B[io])
+(;W[ho];B[io]))

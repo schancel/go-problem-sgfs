@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[1d]DP[16]SO[kuche12345]CO[0]AW[bq]AW[bp]AW[cp]AW[dp]AW[ep]AB[cq]AB[dq]AB[eq]AB[dr]AW[er]AW[fr]AW[fq]AW[gr]AB[gp]AB[fp]AB[gq]AB[hr]AB[iq]C[Black to win the semeai (unconditionally)]AP[goproblems]
+(;B[ds];W[cr]
+(;B[gs];W[cs])
+(;B[es];W[cs])
+(;B[fs];W[cs]
+(;B[es];W[gs])
+(;B[gs];W[es]))
+(;B[br];W[bs]
+(;B[cs];W[ar];B[as]C[ko ;/])
+(;B[ar];W[es])
+(;B[gs]
+(;W[cs];B[as]C[RIGHT])
+(;W[ar]
+(;B[es]C[RIGHT])
+(;B[fs]C[RIGHT])))
+(;B[es]C[RIGHT];W[cs];B[as]C[RIGHT])
+(;B[fs];W[gs]
+(;B[es];W[cs])
+(;B[hs]
+(;W[cs];B[as]C[RIGHT])
+(;W[es];B[fs]C[RIGHT])))))
+(;B[br];W[ds];B[cr];W[ar])
+(;B[cr];W[br])
+(;B[es];W[cr];B[ds];W[cs])
+(;B[gs];W[cr];B[ds];W[cs])
+(;B[fs];W[cr];B[ds];W[cs])
+(;B[cs];W[br]
+(;B[gs];W[cr])
+(;B[es];W[cr])))

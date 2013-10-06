@@ -1,0 +1,61 @@
+(;GE[life and death]DI[5d]DP[5]SO[zuuzuu]CO[0]AW[sb]AW[rc]AW[qc]AW[qd]AW[od]AW[oe]AW[of]AW[pg]AW[qg]AW[rg]AW[ob]AW[nc]AW[mc]AW[mb]AB[nb]AB[oc]AB[pc]AB[pd]AB[pe]AB[pb]AB[pa]AB[qb]AB[rb]AP[goproblems]
+(;B[sd]
+(;W[se]C[CHOICE]
+(;B[re];W[qe]
+(;B[sf]
+(;W[sc]
+(;B[qf];W[rf]
+(;B[oa]
+(;W[ra];B[pf]
+(;W[sg];B[qa]C[KoRIGHT])
+(;W[ma]))
+(;W[pf];B[ra]C[RIGHT])
+(;W[ma]C[CHOICE]
+(;B[ra];W[na];B[pf]C[KoRIGHT])
+(;B[na];W[ra])
+(;B[pf]
+(;W[na];B[ra]C[KoRIGHT])
+(;W[ra]
+(;B[qa]C[KoRIGHT])
+(;B[na])))))
+(;B[pf];W[na];B[ra];W[oa]C[Black can not approach white]))
+(;B[oa];W[ra]))
+(;W[qf];B[oa];W[ra];B[sc]C[KoRIGHT]))
+(;B[qf];W[rf]
+(;B[sf]
+(;W[sc])
+(;W[pf];B[oa];W[ra];B[sc]C[Ko];W[ma];B[na]C[RIGHT]))
+(;B[ra];W[na])
+(;B[oa]
+(;W[ra];B[sf];W[sc];B[pf])
+(;W[ma]
+(;B[na];W[ra];B[sf];W[sc];B[pf];W[sg])
+(;B[ra];W[na];B[sf];W[pf]C[Black is dead])
+(;B[sf];W[pf];B[na];W[ra];B[sc]C[KoRIGHT]))))
+(;B[oa];W[ra]))
+(;B[oa]
+(;W[ma]
+(;B[ra]C[Mistake];W[na];B[re];W[qe];B[sf];W[qf];B[sc]C[Black is dead])
+(;B[na]C[Mistake];W[ra];B[re];W[qe];B[sf];W[sc];B[qf];W[rf];B[pf]C[Black can not approach white so he is dead.])
+(;B[re];W[qe];B[sf];W[qf];B[na];W[ra];B[sc]C[RIGHT]))
+(;W[ra];B[re];W[qe];B[sf]
+(;W[sc];B[qf];W[rf];B[pf])
+(;W[qf];B[sc]C[KoRIGHT])))
+(;B[qe]C[Does not work];W[re];B[rf];W[qf];B[oa];W[ra];B[qa];W[sc];B[sa];W[rd])
+(;B[rd];W[re]C[Nothing here for black])
+(;B[ra];W[na];B[re];W[qe]
+(;B[sf];W[qf]C[No second eye])
+(;B[qf];W[rf];B[sf];W[pf]C[No second eye])))
+(;W[rd]C[Mistake];B[re];W[sc];B[se]C[Very bad for whiteRIGHT])
+(;W[na]C[Mistake];B[qe];W[re];B[rd]C[RIGHT])
+(;W[qe];B[oa];W[ra];B[sc]C[KoRIGHT])
+(;W[sc];B[ra];W[na];B[qe];W[re];B[sa];W[rd];B[rf];W[se];B[sf]C[White can not kill black unconditionallyRIGHT]))
+(;B[ra];W[na]C[Nothing here for black])
+(;B[oa];W[ra];B[sd];W[sc]
+(;B[qe];W[re];B[rf];W[qf])
+(;B[re];W[qe];B[qf];W[rf];B[pf];W[sf];B[qa];W[se];B[sa];W[rd]))
+(;B[qe];W[re];B[oa];W[ra];B[sd];W[sc])
+(;B[re];W[qe];B[sd];W[sc];B[qf];W[rf]
+(;B[pf];W[ra];B[oa])
+(;B[ra];W[na];B[pf];W[oa]C[Black can not approach white])
+(;B[oa];W[ra])))

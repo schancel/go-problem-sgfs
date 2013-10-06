@@ -1,0 +1,26 @@
+(;GE[endgame]DI[12k]DP[58]SO[MrMoto]CO[6]AB[di]AB[ei]AB[ej]AB[dh]AB[dg]AB[eg]AB[fg]AB[fh]AB[ff]AB[fe]AW[ci]AW[ch]AW[cg]AW[cf]AW[df]AW[ef]AW[ce]AB[ee]AB[de]AB[ed]AW[dd]AW[dc]AW[ec]AW[fc]AW[fb]AW[gb]AW[ga]AW[fd]AB[ge]AB[gd]AB[gc]AB[hc]AB[hb]AB[ha]AW[gg]AW[hg]AW[ig]AW[hh]AW[gh]AW[gi]AW[gj]AW[fj]AW[hj]AW[ij]AW[gk]AW[ek]AW[dj]AW[fl]AW[fm]AB[hk]AB[ik]AB[hl]AB[hm]AB[gm]AB[em]AB[fn]AB[fo]AB[gp]AW[gn]AW[go]AW[jk]AW[jl]AW[il]AW[kl]AW[im]AW[jm]AW[io]AW[in]AW[ip]AW[iq]AW[hq]AW[gq]AW[gr]AB[aq]AB[ap]AW[ao]AW[bo]AW[bp]AW[cp]AW[cq]AW[dq]AW[eq]AW[fr]AB[hi]AB[ii]AB[ji]AB[jj]AB[kj]AB[kk]AB[lk]AB[ll]AW[lm]AW[kn]AB[ml]AB[mm]AB[mn]AB[ih]AB[jg]AB[kh]AB[lg]AB[jf]AB[if]AB[hf]AB[gf]AB[cr]AB[bq]AB[dr]AB[fq]AW[er]AB[es]AB[ds]AB[bs]AW[fs]C[This is the end of a close game.  White has just passed -- a fatal mistake!  What can black do here?]AW[ln]AW[mo]AW[mp]AP[goproblems]
+(;B[cd]C[The corner is safe.])
+(;B[ho];W[hn]C[aji keshi.])
+(;B[hn];W[ho]C[aji keshi.])
+(;B[dn]C[These stones will be hard to bring to life ...])
+(;B[do]C[These stones will be hard to bring to life ...])
+(;B[cj];W[dk]C[You fixed white's bad shape.])
+(;B[el];W[dk]C[You fixed white's bad shape.])
+(;B[gl];W[hn]C[:T])
+(;B[fi];W[dk]C[Black can do better than this.])
+(;B[dk]
+(;W[cj]C[CHOICE];B[el];W[hn];B[fk]
+(;W[gl];B[ek]C[Good work! This decides the game.  (White probably shouldn't play this way)RIGHT])
+(;W[ar]C[(let's pretend this is a big ko fight)];B[br];W[ek];B[fi];W[gl];B[fk]C[white still must find another threat to prevent the connection here]))
+(;W[ck]C[(mistake by white)]
+(;B[cj]C[(mistake by black)];W[dl]
+(;B[el];W[dj]C[Reasonable play if black has a ko threat.  But black missed a big opportunity!])
+(;B[dj];W[el]C[A decent endgame reduction. But black missed a big opportunity!]))
+(;B[dl]LB[cj:A]LB[el:B]C[Now A and B are miai and are both terrible for white.]))
+(;W[dl]C[(this is probably the best defense for white)CHOICE]
+(;B[el];W[ck]C[oops!])
+(;B[cj];W[ck]
+(;B[el];W[dj]C[Reasonable play if black has a ko threat.RIGHT])
+(;B[dj];W[el]C[A decent endgame reduction.RIGHT]))
+(;B[ck];W[el];B[cj];W[cl]C[A decent endgame reduction.RIGHT])))
+(;B[ar]C[-1 point in gote?!]))

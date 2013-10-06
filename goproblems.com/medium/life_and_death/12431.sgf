@@ -1,0 +1,17 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[0]AB[ap]AB[bp]AB[cq]AB[dq]AB[er]AB[br]AW[fs]AW[fr]AW[fq]AW[cp]AW[bo]AW[ao]AW[co]AW[dp]AW[ep]C[I'd surely miss this one... Best possible sequence (ko)? :)]AP[goproblems]
+(;W[ar];B[bq]
+(;W[dr];B[ds]
+(;W[es];B[cr];W[eq];B[bs];W[dr]C[ah a ko you take first... nice! :)RIGHT])
+(;W[eq];B[cr];W[es]))
+(;W[es];B[dr]
+(;W[ds];B[cs];W[bs];B[as]C[b takes first!])
+(;W[cs];B[ds]TR[bs]C[seki])
+(;W[bs];B[ds]TR[cs]C[seki]))
+(;W[eq];B[dr])
+(;W[ds];B[es])
+(;W[cs];B[ds])
+(;W[bs];B[ds]))
+(;W[es];B[ar])
+(;W[bs];B[ar])
+(;W[cs];B[ar])
+(;W[ds];B[ar]))

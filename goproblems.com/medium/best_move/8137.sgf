@@ -1,0 +1,26 @@
+(;GE[best move]DI[2k]DP[21]SO[kochi]CO[7]AW[hr]AW[hq]AW[iq]AW[is]AB[hs]AB[gs]AB[gr]AB[fq]AB[fp]AB[gp]AB[ep]AB[eo]AB[go]AB[hp]AB[ip]AB[jq]AB[kq]AW[jr]AW[kr]AW[jp]AW[jo]AB[io]AB[jn]AW[kn]AW[ln]AW[ll]AW[lk]AW[lj]AW[kj]AW[jj]AW[kl]AB[jk]AB[jl]AB[km]AB[jm]AB[ij]AB[ii]AB[ji]AB[ki]AB[hk]AB[il]AB[mi]AB[li]AB[mj]AB[mk]AW[oq]AW[nq]AW[pr]AB[pq]AB[op]AB[qp]AB[rr]AW[qr]AB[qq]AW[rs]AB[sr]AB[np]AW[lp]AW[mq]AB[mp]AW[mn]AW[mm]AW[ml]AB[lm]AB[kk]AB[nl]AB[nm]AB[on]AB[nn]AB[ok]AB[lo]LB[lo:A]C[Black just played A.]AB[po]AB[er]AP[goproblems]
+(;W[mo];B[lq]
+(;W[lr];B[kp];W[ko];B[no])
+(;W[kp];B[ko])
+(;W[ko];B[gq]
+(;W[lr];B[ir])
+(;W[ir];B[lr]
+(;W[ls];B[ks])
+(;W[ks];B[ls]))
+(;W[kp];B[ir]))
+(;W[ir];B[kp])
+(;W[no];B[kp]))
+(;W[lq]
+(;B[mo]C[CHOICE]
+(;W[ko];B[kp])
+(;W[kp];B[ko]C[this is the best you can do.RIGHT]))
+(;B[ko]C[CHOICE];W[kp];B[mo]C[this is the best you can do.RIGHT]))
+(;W[kp];B[mo]
+(;W[lq];B[ko]C[this is the best you can do.RIGHT])
+(;W[ko];B[lq])
+(;W[lr];B[ko];W[lq]))
+(;W[ko];B[mo]
+(;W[lq];B[kp])
+(;W[kp];B[lq])
+(;W[lr];B[kp]))
+(;W[lr];B[kp];W[lq];B[ko]))

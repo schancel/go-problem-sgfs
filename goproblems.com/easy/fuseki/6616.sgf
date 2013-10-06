@@ -1,0 +1,10 @@
+(;GE[fuseki]DI[18k]DP[65]SO[Zwom]CO[4]SZ[19]AB[lq]AB[mo]AB[op]AB[pp]AB[qp]AB[pj]AB[gd]AB[jd]AW[dc]AW[de]AW[cj]AW[dp]AW[qq]AW[pq]AW[nq]AW[nr]C[Where should black play to coordinate with his stones most efficiently?]LB[oc:A]LB[pc:B]LB[qc:C]LB[od:D]LB[pd:E
+]LB[qd:F]LB[pe:G]LB[qe:H]GM[1]FF[4]AP[Drago:1.42]L[oc]L[pc]L[qc]L[od]L[pd]L[qd]L[pe]L[qe]
+(;B[pd]C[This move, having no directional bias, coordinates well with all blacks stones.RIGHT])
+(;B[qc];W[pd]C[This is the worst of all black's options, white immediately disrupts black's framework.])
+(;B[oc]C[white will immediately jump in and settle himself quickly.])
+(;B[od]C[white will immediately jump in and settle himself quickly.])
+(;B[pc]C[white will immediately jump in and settle himself quickly.])
+(;B[qe]C[white will immediately jump in and settle himself quickly.])
+(;B[pe]C[white will immediately jump in and settle himself quickly.])
+(;B[qd]))

@@ -1,0 +1,13 @@
+(;GE[life and death]DI[15k]DP[61]SO[redpython]CO[7]
+;AW[ap][aq][ar][bo][bp][cq][cs][dq][eq][es][fr]
+AB[bn][bq][br][cm][cn][co][cp][cr][dr][ds]
+C[White to win the capturing race.]
+(;W[er];B[bs])
+(;W[as];B[bs])
+(;W[ao];B[an])
+(;W[an];B[bs]
+(;W[er];B[am])
+(;W[am];B[as];W[ao];B[al])
+)
+(;W[bs];B[as];W[bs];B[an];W[er]C[RIGHT])
+)

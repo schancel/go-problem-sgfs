@@ -1,0 +1,13 @@
+(;GE[endgame]DI[20k]DP[71]SO[ytqb]CO[0]AB[rb]AB[sc]AB[qc]AB[qd]AB[pd]AB[rd]AB[oe]AB[pg]AB[og]AB[ne]AB[of]AB[ng]AB[nh]AB[oi]AB[oj]AB[nj]AB[pj]AB[ok]AB[pk]AB[qk]AB[rk]AB[ql]AB[qm]AB[qn]AB[rn]AB[sj]AW[sk]AW[sl]AW[rm]AW[sn]AW[so]AW[ro]AW[qo]AW[pp]AW[pn]AW[pm]AW[pl]AW[ol]AW[nm]AW[nk]AW[ml]AW[mj]AW[mi]AW[ni]AW[mh]AW[mg]AW[mf]AW[nf]AW[me]AW[nd]AW[mc]AW[od]AW[pc]AW[ob]AW[qb]AW[ra]C[Black has surrounded the area on the side, but White can still invade it.  Black has to give up territory.]AP[goproblems];W[rj]
+(;B[rh]
+(;W[sh];B[sg]
+(;W[si];B[rg]C[White has sente.RIGHT])
+(;W[ri];B[si];W[sh];B[si]C[RIGHT]))
+(;W[ri];B[sh];W[si]C[];B[qi]C[White is sente.RIGHT])
+(;W[qh];B[ri];W[si];B[sh]C[White has sente.RIGHT])
+(;W[rg];B[ri];W[si];B[sh]C[White has sente.RIGHT])
+(;W[si]C[RIGHT]))
+(;B[ri];W[si]C[RIGHT])
+(;B[si];W[ri];B[sh]
+(;W[rh];B[sg];W[rf]C[RIGHT])
+(;W[rg]C[White can invade further by extending at S12 first.RIGHT])))

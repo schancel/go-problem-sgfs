@@ -1,0 +1,25 @@
+(;GE[life and death]DI[1k]DP[18]SO[mrmoto]CO[6]AB[bb]AB[da]AB[cb]AB[bd]AW[be]AW[ce]AW[de]AW[ae]AW[dc]AW[dd]AW[eb]AW[fb]AW[fa]C[What's the best black can do?]AP[goproblems]
+(;B[db];W[ba]
+(;B[bc];W[ab])
+(;B[cd];W[cc];B[bc];W[ab])
+(;B[cc];W[ac];B[ad];W[cd];B[bc];W[ab];B[aa];W[ab])
+(;B[ad];W[cc];B[bc];W[ab])
+(;B[ac];W[cc])
+(;B[ab];W[ad])
+(;B[aa];W[ab]))
+(;B[ca];W[ac])
+(;B[ba];W[db])
+(;B[ab];W[ad])
+(;B[ac];W[cc])
+(;B[bc];W[ad])
+(;B[ad];W[cc];B[bc];W[ab]
+(;B[ca];W[aa])
+(;B[aa];W[ba]))
+(;B[cd];W[cc];B[bc];W[ad])
+(;B[cc];W[ad];B[ac];W[cd]
+(;B[bc]C[:O])
+(;B[ca];W[aa]C[:(])
+(;B[ba];W[db]C[:(])
+(;B[db];W[ba];B[aa];W[ab]MA[aa]MA[bc]C[Double ko])
+(;B[ab]C[:O])
+(;B[aa];W[bc]C[Well done!  Black now needs two ko threats to live, since white has a threat at D18.RIGHT])))

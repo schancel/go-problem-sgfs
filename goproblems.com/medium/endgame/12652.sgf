@@ -1,0 +1,17 @@
+(;GE[endgame]DI[3k]DP[24]SO[Field Mouse]CO[0]AW[sb]AW[rb]AW[qc]AW[qd]AW[qe]AW[qf]AW[qg]AW[rg]AW[sg]AB[qb]AB[ra]AB[pb]AB[pc]AB[pd]AB[pe]AB[pg]AB[pf]AB[qh]AB[rh]AB[sh]AB[ph]AB[sd]C[A 4d black tries this. I believe he does know it does not work and he is just trying some hopeless magic. Defend in the best way possible.]AP[goproblems]
+(;W[rd];B[se]
+(;W[re];B[qa]C[How to finish the position?]
+(;W[sf]C[Good. Seven pointsRIGHT])
+(;W[sc];B[sa];W[sf]TR[sc]C[The marked stone was not needed - one point behind optimal result.]))
+(;W[sf];B[qa]C[How to finish the position?];W[re]C[RIGHT]))
+(;W[re];B[rc];W[rd];B[qa];W[sc];B[sa];W[se]C[The 4d tricked you - you have only six points now (two prisoners)])
+(;W[rc];B[se]C[Seki!])
+(;W[sc]
+(;B[re];W[rd];B[sf]C[Black can play this many step ko. Not optimal.])
+(;B[qa];W[se];B[sa];W[rd]C[You have only six points now, not optimal.]))
+(;W[se];B[re];W[rd];B[sf]
+(;W[sc];B[qa];W[se]C[This step ko for the life of the white group is not very good.]))
+(;W[sf];B[rd]
+(;W[re];B[rc]C[Ouch!])
+(;W[rc];B[re];W[se]C[Seki]))
+(;W[qa]C[NOTTHIS]))

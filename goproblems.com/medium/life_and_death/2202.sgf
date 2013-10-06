@@ -1,0 +1,62 @@
+(;GE[life and death]DI[3k]DP[26]SO[tigre]CO[6]SZ[19]AW[ea]AW[fa]AW[fb]AW[gb]AW[hb]AW[bc]AW[cc]AW[dc]AW[ec]AB[ga]AB[ha]AB[ia]AB[ib]AB[ac]AB[fc]AB[gc]AB[hc]AB[bd]AB[cd]AB[dd]AB[ed]AB[bf]TR[ac]C[How to respond to the triangled stone?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ab];B[bb]C[]
+(;W[ad];B[da]
+(;W[eb];B[cb]
+(;W[ca];B[ba];W[ac];B[db]C[death])
+(;W[ba]C[sekiRIGHT]))
+(;W[ca];B[eb];W[ba]C[white lost too much]))
+(;W[cb];B[da]
+(;W[eb];B[aa]C[death])
+(;W[ba];B[eb]
+(;W[ca]C[white lost too much])
+(;W[db]C[white lost too much]))
+(;W[ca];B[eb];W[ba]C[No need to lose those 5 stones.]))
+(;W[ba]
+(;B[cb]C[CHOICE]
+(;W[db];B[aa]C[ko for survival])
+(;W[ca];B[aa]C[ko])
+(;W[ad];B[da];W[db];B[eb];W[ca];B[ea]C[white lost too much]))
+(;B[aa]C[ko for survivalCHOICE])))
+(;W[ca]
+(;B[bb]
+(;W[cb];B[ab];W[db]C[white saves all, butblack limits white to only two points of territory. B19 is worth 2 points in gote for either side.RIGHT])
+(;W[ab];B[cb]
+(;W[ad];B[ba]
+(;W[db];B[da]C[Ko for life])
+(;W[da];B[db];W[eb];B[ac])
+(;W[eb];B[da]))
+(;W[db];B[aa])
+(;W[ba])
+(;W[da];B[db]
+(;W[ad];B[ba])
+(;W[eb];B[ba])
+(;W[ba];B[eb]))))
+(;B[db]C[(this is actually a mistake by Black)]
+(;W[bb];B[ab])
+(;W[ab];B[da]
+(;W[cb];B[eb]
+(;W[fb]C[not ideal, but makes up for most of the lost stonesRIGHT])
+(;W[ba];B[fb]C[lives but lost an opportunity]))
+(;W[eb];B[bb]
+(;W[cb]C[Good, but not quite!])
+(;W[ad]C[RIGHT])))
+(;W[da];B[bb])
+(;W[eb];B[bb]))
+(;B[ab]
+(;W[bb];B[db])
+(;W[cb];B[db])
+(;W[db];B[bb];W[cb]C[white saves all, butblack limits white to only two points of territory. B19 is worth 2 points in gote for either side.RIGHT])
+(;W[ba];B[db])))
+(;W[bb];B[da]
+(;W[ca];B[db]
+(;W[cb];B[ab])
+(;W[ab];B[eb];W[fb];B[fa]))
+(;W[db];B[ca]C[death]))
+(;W[db];B[bb])
+(;W[cb];B[ab]C[whitee has no chance now])
+(;W[ba];B[ab]
+(;W[db];B[bb];W[cb];B[ca]C[nowhere to run to baby])
+(;W[bb]
+(;B[db])
+(;B[cb]))
+(;W[ca];B[db])))

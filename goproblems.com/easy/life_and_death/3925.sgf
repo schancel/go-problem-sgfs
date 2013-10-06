@@ -1,0 +1,17 @@
+(;GE[life and death]DI[12k]DP[58]SO[sloweddie]CO[8]SZ[19]AW[rn]AW[op]AW[pp]AW[qp]AW[rp]AW[oq]AW[mr]AW[or]AB[pq]AB[qq]AB[rq]AB[pr]AB[rs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[rr];B[sr]
+(;W[qs];B[qr]C[Black Lives])
+(;W[ps];B[qs]))
+(;W[sr];B[sq]
+(;W[ps];B[qs];W[rr]C[RIGHT])
+(;W[rr];B[ps]C[];W[qr]C[Not a seki - white can fill up the liberties from the outside, and black will be in atari.
+The reason that this is not a seki, is that the main black group does not border the liberty at t1.RIGHT])
+(;W[qs];B[ps]C[Failure!  Black is Alive.]))
+(;W[qs];B[ps]C[Black Lives]
+(;W[sq];B[sr])
+(;W[sr];B[sq]
+(;W[rr];B[qr])
+(;W[qr];B[rr]))
+(;W[rr];B[qr]))
+(;W[ps];B[sr];W[qs];B[qr]C[Failure.  Black Lives!])
+(;W[sq];B[sr]C[];W[ps];B[qs]C[Failure.  Black Lives.]))

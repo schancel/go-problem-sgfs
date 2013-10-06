@@ -1,0 +1,25 @@
+(;GE[endgame]DI[6k]DP[36]SO[Stones]CO[6]AB[sh]AB[sg]AB[rh]AB[ri]AB[qi]AB[qg]AB[pg]AB[pf]AB[pe]AB[pd]AB[od]AB[qc]AB[rd]AB[rb]AB[sb]AB[sa]AW[ra]AW[qa]AW[qb]AW[pb]AW[pc]AW[oc]AW[nc]AW[nb]AW[nd]AW[ne]AW[oe]AW[of]AW[og]AW[oh]AW[ph]AW[qh]AW[pi]AW[nh]AW[ni]AW[qj]AW[oj]AW[rj]AW[sj]AW[si]C[White to play.]AP[goproblems]
+(;W[rf];B[rg]C[There is nothing left here.])
+(;W[se];B[sd]C[White has nothing.])
+(;W[sc];B[rc]C[This destroys the potential white had in the corner.])
+(;W[re];B[sd])
+(;W[sd];B[se]
+(;W[sc];B[rc])
+(;W[rf];B[rg])
+(;W[re];B[sc]))
+(;W[sf];B[rg]
+(;W[sc];B[rc])
+(;W[re];B[sd])
+(;W[qe];B[re])
+(;W[se];B[sd])
+(;W[sd];B[rc]
+(;W[se];B[re])
+(;W[qf];B[re])
+(;W[qd];B[re])
+(;W[qe];B[re];W[rf];B[qd])
+(;W[rf];B[re];W[qe];B[qd])
+(;W[re]
+(;B[qe];W[rf]C[Seki.RIGHT])
+(;B[rf]C[CHOICE]
+(;W[se];B[qe])
+(;W[qe];B[se]C[This is a ko.  Please play at K to simulate a ko threat.]LB[ng:K];W[ng];B[nf];W[sf];B[qd]C[Black will probably play this way to avoid the danger of the ko.  One last move is all I ask.];W[se]C[Seki.  Good job!RIGHT]))))))

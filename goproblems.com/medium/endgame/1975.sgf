@@ -1,0 +1,106 @@
+(;GE[endgame]DI[1k]DP[18]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[ba][bb][bc][dc][bd][dd][ed][ae][be][ee][df][ff][dg]AB[ca][cb][db][eb][cc][ec][cd][ce][de][af][bf][cf][cg][eg]LB[fg:A]TR[eg]C[No komi, no prisoners - White to play and draw!]PL[W]
+(;W[ef]CR[ef]
+;B[fd]CR[fd]
+(;W[ge]CR[ge]
+;B[gd]CR[gd]
+;W[fe]CR[fe]
+;B[fc]CR[fc]C[Jigo! RIGHT])
+(;W[fe]CR[fe]
+;B[fc]CR[fc]
+(;W[ge]CR[ge]
+;B[gd]CR[gd]C[Jigo! (In this position, it doesn't matter, but normally it's better to play g3 first, then f3) RIGHT])
+(;W[gd]CR[gd]
+;B[ge]CR[ge]
+(;W[gf]CR[gf]
+;B[fg]CR[fg]C[White is dead!])
+(;W[fg]CR[fg]
+;B[gf]CR[gf]
+;W[gg]CR[gg]
+;B[ge]CR[ge]C[White is dead!]))
+(;W[fg]CR[fg]
+;B[ge]CR[ge]
+;W[gf]CR[gf]
+;B[gd]CR[gd]C[Black wins by two points!]))
+(;W[fc]CR[fc]
+;B[fb]CR[fb]
+(;W[fe]CR[fe]
+;B[gc]CR[gc]
+;W[ge]CR[ge]
+;B[gd]CR[gd]C[Jigo! ( Of course, there was no need to 'sacrifice' a stone) RIGHT])
+(;W[ge]CR[ge]
+;B[gd]CR[gd]
+;W[fe]CR[fe]
+;B[gc]CR[gc]C[Jigo! (Of course, there was no need to 'sacrifice' a stone) RIGHT]))
+(;W[fg]CR[fg]
+;B[ge]CR[ge]
+;W[gf]CR[gf]
+;B[fc]CR[fc]
+;W[fe]CR[fe]
+;B[gd]CR[gd]C[Black wins by two points!]))
+(;W[fc]CR[fc]
+;B[ef]CR[ef]
+(;W[fb]CR[fb]
+;B[fg]CR[fg]
+(;W[fe]CR[fe]
+(;B[fa]CR[fa]
+;W[gd]CR[gd]
+;B[gf]CR[gf]
+;W[gb]CR[gb]C[Black wins by one point!])
+(;B[gf]CR[gf]
+;W[ge]CR[ge]
+;B[fa]CR[fa]
+(;W[gb]CR[gb]
+;B[gd]CR[gd]C[White is dead!])
+(;W[gd]CR[gd]
+;B[gb]CR[gb]C[White is dead!])))
+(;W[gf]CR[gf]
+;B[fa]CR[fa]
+(;W[gd]CR[gd]
+;B[fe]CR[fe]
+;W[fd]CR[fd]
+;B[gb]CR[gb]C[White is dead!])
+(;W[fd]CR[fd]
+;B[gb]CR[gb]
+(;W[gc]CR[gc]
+;B[ge]CR[ge]C[White is dead!])
+(;W[ge]CR[ge]
+;B[gc]CR[gc]C[White is dead!]))
+(;W[gb]CR[gb]
+;B[fd]CR[fd]
+;W[fe]CR[fe]
+;B[gd]CR[gd]C[White is dead!]))
+(;W[ge]CR[ge]
+;B[fd]CR[fd]
+;W[fe]CR[fe]
+;B[gd]CR[gd]
+;W[gc]CR[gc]
+;B[fa]CR[fa]C[White is dead!]))
+(;W[fg]CR[fg]
+;B[fb]CR[fb]
+(;W[fd]CR[fd]
+;B[gc]CR[gc]
+;W[ge]CR[ge]C[Black wins by three points!])
+(;W[gc]CR[gc]
+;B[fe]CR[fe]
+;W[fd]CR[fd]
+;B[ge]CR[ge]C[White is dead!])))
+(;W[fg]CR[fg]
+;B[ef]CR[ef]
+;W[fc]CR[fc]
+;B[fb]CR[fb]
+(;W[fd]CR[fd]
+;B[gc]CR[gc]
+(;W[gd]CR[gd]
+;B[ge]CR[ge]C[White is dead!])
+(;W[ge]CR[ge]C[Black wins by three points!]))
+(;W[gd]CR[gd]
+;B[gb]CR[gb]
+;W[fd]CR[fd]
+;B[gc]CR[gc]
+;W[ge]CR[ge]C[Black wins by three points!])
+(;W[gc]CR[gc]
+;B[fe]CR[fe]
+;W[fd]CR[fd]
+;B[ge]CR[ge]C[White is dead!])))

@@ -1,0 +1,15 @@
+(;GE[life and death]DI[8k]DP[47]SO[balmung]CO[8]AB[dp]AB[cq]AB[dr]AB[eo]AB[fo]AB[go]AB[ho]AB[io]AB[jp]AB[jq]AB[jr]AB[js]AW[eq]AW[er]AW[es]AW[fq]AW[gp]AW[fp]AW[hp]AW[iq]AW[ir]AW[is]AB[gq]AB[fr]AB[fs]AB[hr]AP[goproblems]
+(;B[gs];W[hs]
+(;B[gr];W[hq];B[gr]C[CHOICERIGHT])
+(;B[ip];W[gr])
+(;B[hq];W[gr]))
+(;B[hs];W[hq];B[gr];W[gs]C[White has a living shape. (White does not have to capture immediately of course)])
+(;B[gr];W[gs]
+(;B[hs];W[hq]C[White can capture and get a living shape (White does not have to play H3 immediately of course)])
+(;B[ip];W[hq]C[White can capture Black and get a living shape. ( White does not have to play H3 immediately, of course.)]))
+(;B[ip];W[hq]
+(;B[gs];W[hs])
+(;B[gr];W[hs]))
+(;B[hq];W[ip]
+(;B[gs];W[hs])
+(;B[gr];W[hs])))

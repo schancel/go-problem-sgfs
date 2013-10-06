@@ -1,0 +1,23 @@
+(;GE[life and death]DI[10k]DP[52]SO[koala]CO[7]AB[qs]AB[qr]AB[qp]AB[rp]AB[so]AB[sr]AW[sp]AW[ro]AW[rn]AW[pm]AW[po]AW[pp]AW[pq]AW[pr]AW[nr]AP[goproblems]
+(;B[rs]
+(;W[qq];B[rq]C[RIGHT])
+(;W[rq]
+(;B[sq];W[qq]TR[sp]C[False eye])
+(;B[qq]
+(;W[sn];B[sq]C[RIGHT])
+(;W[sq];B[rr];W[sq];B[sp]C[RIGHT]))))
+(;B[rr];W[qq]
+(;B[rq]C[T4 is a false eye.])
+(;B[sq]TR[sp]C[False eye]))
+(;B[ss];W[rq]
+(;B[sq];W[qq]TR[sp]C[False eye.])
+(;B[qq];W[rr]
+(;B[sq]TR[sp]C[False eye])
+(;B[rs]C[Eye at T4 will be false.])))
+(;B[rq];W[rs]C[Eye at T4 is false])
+(;B[sq];W[qq]
+(;B[rs];W[rq]TR[sp]C[False eye])
+(;B[rq];W[rs]TR[sp]C[False eye]))
+(;B[qq];W[rs]
+(;B[rr];W[sq]C[The eye will be false.])
+(;B[sq];W[rr]TR[sp]C[False eye])))

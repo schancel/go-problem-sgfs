@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4k]DP[28]SO[Soligo]CO[0]AB[bf]AB[cf]AB[ch]AB[dh]AB[dj]AB[ck]AB[ek]AB[el]AB[em]AB[dm]AB[fm]AB[gm]AB[hm]AW[be]AW[ce]AW[df]AW[dg]AW[eh]AW[fg]AW[fi]AW[fj]AW[fk]AW[fl]AW[dl]AW[cl]AW[bl]AW[bj]AW[cn]AW[ep]AW[eo]AW[cq]C[What is the best W can do locally? Assume the rest of the board is not finished yetFORCE]AW[de]AW[bn]AP[goproblems]
+(;W[di];B[ci]
+(;W[cj];B[ei]
+(;W[ej];B[dk];W[di]C[Good. W takes the ko first.RIGHT])
+(;W[dk];B[ej]))
+(;W[ej];B[dk];W[cj];B[ei]C[B takes the ko first.])
+(;W[dk];B[ej])
+(;W[ei];B[cj]))
+(;W[ej];B[dk];W[di];B[ci];W[cj]AW[cg];B[ei]C[B takes the ko first. W can do better.])
+(;W[ci];B[di]C[B stays connected.])
+(;W[cj];B[di]C[B stays connected.])
+(;W[ei];B[di]C[B stays connected.])
+(;W[dk];B[ej]
+(;W[ei];B[di]C[B stays connected.])
+(;W[di];B[ci]C[B stays connected.])
+(;W[cj];B[di]C[B stays connected.])))

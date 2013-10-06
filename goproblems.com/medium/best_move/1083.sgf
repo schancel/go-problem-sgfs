@@ -1,0 +1,23 @@
+(;GE[best move]DI[2k]DP[21]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[dc][dk][el][cm][dm][cn][co][cp][iq]AB[pd][dl][em][fm][dn][do][po][dp][bq][cq][kq]LB[de:A][fo:F][io:I][kp:J][dq:B][eq:D][fq:G][kq:1][mq:K][dr:C][er:E][fr:H]C[black plays 1. best move for white?]PL[W]
+(;W[de]CR[de]C[big but not urgent])
+(;W[dq]CR[dq]
+;B[eq]CR[eq]
+;W[dr]CR[dr]
+;B[er]CR[er]C[this doesn't work for white])
+(;W[dr]CR[dr]
+;B[dq]CR[dq]C[helps black fix shape])
+(;W[eq]CR[eq]
+;B[dq]CR[dq]C[helps black])
+(;W[er]CR[er]C[RIGHT
+this hurts black's shape and makes eye space])
+(;W[fo]CR[fo]
+;B[fq]CR[fq]C[black fixes])
+(;W[fq]CR[fq]C[doesn't take advantage of black])
+(;W[fr]CR[fr]C[not sente])
+(;W[io]CR[io]
+;B[gq]CR[gq]C[black fixes])
+(;W[kp]CR[kp]
+;B[lq]CR[lq]C[too early to run like this])
+(;W[mq]CR[mq]))

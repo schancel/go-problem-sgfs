@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4k]DP[29]SO[Field Mouse]CO[0]AB[ic]AB[jc]AB[kc]AB[hd]AB[he]AB[ld]AB[le]AB[ig]AB[hf]AB[jg]AW[kg]AW[lg]AW[me]AW[md]AW[mc]AW[lc]AW[lb]AW[kb]AW[jb]AW[ib]AW[hb]AW[hc]AW[gc]AW[gd]AW[gf]AW[gg]AW[hh]AW[ih]AW[jh]AB[hg]AB[je]AW[lf]AW[fe]AW[fd]AW[ff]C[White to play and get the most points out of this black killable group.]AP[goproblems]
+(;W[ie];B[kf]C[The best variation for black :)])
+(;W[ke];B[kd]
+(;W[id];B[kf];W[ie];B[jd]C[The best variation for black :)])
+(;W[kf];B[id]C[Black lives.]))
+(;W[kf];B[ke];W[jf];B[if]C[Black is alive.])
+(;W[jf];B[ke];W[kf];B[if]C[Black is alive.])
+(;W[id]
+(;B[ie]
+(;W[jd];B[kd];W[jf];B[kf];W[ke]C[Only ko])
+(;W[jf];B[ke];W[jd]TR[kf]TR[kd]C[Well done, you created miai!RIGHT])
+(;W[kd];B[jd];W[ke];B[jf]C[Black lives])
+(;W[ke];B[jf]C[Black lives.]))
+(;B[ke]
+(;W[jd];B[kd]
+(;W[jf]C[White is killer.RIGHT])
+(;W[kf]C[RIGHT]))
+(;W[jf];B[jd]C[Not this way.])))
+(;W[jd];B[id];W[ke];B[kd]C[Black lives.])
+(;W[kd];B[ke];W[jf];B[kf]C[The best variation for black :)])
+(;W[if];B[kf]C[The best variation for black :)]))

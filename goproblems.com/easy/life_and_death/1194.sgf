@@ -1,0 +1,18 @@
+(;GE[life and death]DI[12k]DP[56]SO[BigMetalGuy]CO[6]SZ[13]AW[ac]AW[ec]AW[gc]AW[ad]AW[bd]AW[cd]AW[dd]AB[ab]AB[bc]AB[cc]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[ba];W[cb]
+(;B[db];W[dc]
+(;B[bb];W[eb]
+(;B[da]LB[ba:1]C[Black 1 is the vital point of the eye shape. Black is alive.RIGHT])
+(;B[ca]C[RIGHT])
+(;B[ea];W[da]C[Black dies.]))
+(;B[ca];W[bb]C[Black dies.])
+(;B[da];W[bb]C[Black dies.]))
+(;B[ca];W[dc]
+(;B[bb];W[db]C[Black dies.])
+(;B[db];W[bb]C[Black dies a horrible death.])))
+(;B[cb];W[ba])
+(;B[db];W[bb]
+(;B[cb];W[aa])
+(;B[ba];W[aa];B[cb];W[ca];B[da];W[ab];B[ba];W[eb]C[Black dies.])
+(;B[eb];W[cb];B[dc];W[ba]))
+(;B[bb];W[db]))

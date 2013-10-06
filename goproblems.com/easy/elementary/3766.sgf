@@ -1,0 +1,45 @@
+(;GE[elementary]DI[4k]DP[31]SO[Berk]CO[7]AB[es]AB[fs]AB[fr]AB[gr]AB[gq]AB[hq]AB[ip]AB[jp]AB[ko]AB[lo]AB[lp]AB[lq]AB[mq]AB[mr]AB[ms]AW[ds]AW[dr]AW[er]AW[eq]AW[fq]AW[fp]AW[gp]AW[hp]AW[io]AW[jo]AW[jn]AW[kn]AW[ln]AW[mn]AW[mo]AW[mp]AW[np]AW[nq]AW[ns]AW[nr]LB[hp:A]AW[iq]TR[iq]AP[goproblems]
+(;B[ir];W[jq]
+(;B[jr];W[kp];B[kq];W[jp]C[NOTE: White's last move is gote and is only worth 1.5 points so normally such moves would wait.RIGHT])
+(;B[kp];W[jr]
+(;B[hs];W[ls]
+(;B[kr];W[ks];B[is];W[js])
+(;B[lr];W[ks];B[is];W[js])
+(;B[js];W[ks]
+(;B[is];W[kr])
+(;B[kr];W[is]C[No ko threats, black dies.]))
+(;B[ks];W[kr];B[lr];W[js];B[is];W[ls]C[No ko threats, half the group dies.]))
+(;B[js];W[ks]
+(;B[is];W[hs])
+(;B[ls];W[is])
+(;B[kr];W[is])
+(;B[kq];W[is])
+(;B[hs];W[is]))
+(;B[is];W[hs]
+(;B[kq];W[js])
+(;B[kr];W[js])
+(;B[ks];W[js])
+(;B[js];W[ks])
+(;B[lr];W[js])
+(;B[ls];W[js])
+(;B[hr];W[js])
+(;B[gs];W[hr])))
+(;B[kq];W[jr];B[hs];W[kr]
+(;B[js];W[kp];B[jp];W[ks];B[is];W[ip])
+(;B[lr];W[kp])
+(;B[ks];W[js]
+(;B[is];W[kp];B[jp];W[lr];B[ip];W[kp];B[jp];W[ip])
+(;B[lr];W[kp];B[jp];W[ip])))
+(;B[kr];W[jr];B[js];W[kp];B[kq];W[hs]
+(;B[is];W[jp])
+(;B[jp];W[ip];B[is];W[kp])
+(;B[hr];W[is];B[gs];W[is];B[hs];W[is])
+(;B[gs];W[is];B[hr];W[is];B[hs];W[is]))
+(;B[hs];W[ks]
+(;B[kr];W[jr]
+(;B[ls];W[js];B[kq];W[kp])
+(;B[kq];W[kp])
+(;B[kp];W[ls];B[is];W[js]))
+(;B[js];W[jr];B[is];W[kp];B[kr];W[ls];B[lr];W[ks];B[ls];W[kq];B[ks])))
+(;B[jq];W[ir];B[jr];W[hr];B[is];W[gs]C[Not good enough.])
+(;B[jr];W[ir];B[hr];W[hs];B[jq];W[gs]C[Not good enough.]))

@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[12k]DP[55]SO[miniarmstrong]CO[0]SZ[15]AB[ha]AB[hb]AB[jb]AB[ic]AB[hd]AB[jd]AB[ie]AB[ig]AB[if]AB[jf]AB[ke]AB[kd]AB[ld]AB[jh]AB[kh]AB[ki]AB[li]AW[ji]AW[jg]AW[kg]AW[kf]AW[mg]AW[mf]AW[lh]AW[mh]AW[le]AW[md]AW[nd]AW[nc]AW[lc]AB[mc]AB[mb]AB[nb]AB[ii]AW[ih]AW[hh]AW[hi]AW[gi]AW[hg]AW[hf]AW[gf]AB[gg]AB[gh]AB[fh]AB[eh]AB[ei]AB[ej]AW[he]AW[fg]AW[eg]AW[ef]AW[df]AB[ff]AB[fe]AB[ge]AB[fd]AB[fc]AB[fb]AW[gc]AW[hc]AW[gb]AW[ga]AW[fa]AW[eb]AW[ec]AW[dd]AB[dh]AB[dg]AB[cg]AW[bh]AW[ch]AW[di]AW[dj]AW[ek]AW[el]AW[bf]AB[ij]AB[fk]AW[gk]TR[gk]C[White jumps here.  Black to respond.]AP[goproblems]
+(;B[hk];W[gj]
+(;B[gl]
+(;W[fl]
+(;B[fj];W[hl]
+(;B[gm];W[ik]
+(;B[fi];W[hj];B[hk]C[Well done. RIGHT])
+(;B[hj];W[jj])
+(;B[il];W[hj];B[hm];W[jj])
+(;B[jj];W[hj];B[fi];W[hk];B[hm];W[cf]))
+(;B[hj];W[gm];B[fi];W[gl])
+(;B[fi];W[gm];B[hj];W[gl])
+(;B[ik];W[gm]))
+(;B[hj];W[fj];B[fi];W[fk])
+(;B[fi];W[fj];B[hj];W[fk])
+(;B[hl];W[fj])))
+(;B[fj];W[gl])
+(;B[hj];W[gl])
+(;B[hl];W[gl];B[fl];W[fj];B[fm];W[cf])
+(;B[fi];W[gl])
+(;B[fl];W[gl];B[fm];W[fj]))
+(;B[gl];W[hk]C[White escapes.])
+(;B[fj];W[hk]C[White escapes.])
+(;B[hj];W[gj];B[gl];W[fl];B[fj];W[hl];B[gm];W[hk]C[White escapes.])
+(;B[fi];W[hk]C[White escapes.])
+(;B[gj];W[hj];B[hk];W[fj]
+(;B[fi];W[fl]
+(;B[gj]C[Well done. RIGHT])
+(;B[gl];W[fk];B[gj]C[RIGHT]))
+(;B[gl];W[ik];B[gj];W[jj]C[White gets out, while these stones are not yet alive. CHOICE]TR[ej]TR[ei]TR[eh]TR[fh]TR[gh]TR[gg]TR[dh]TR[dg]TR[cg]))
+(;B[ea];W[gj]TR[ej]TR[ei]TR[eh]TR[dh]TR[dg]TR[cg]TR[fh]TR[gh]TR[gg]C[Capturing these stones is bigger for white.]))

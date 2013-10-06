@@ -1,0 +1,42 @@
+(;GE[endgame]DI[3d]DP[11]SO[xXARKXx]CO[0]AB[oa]AB[na]AB[ob]AB[pb]AB[pc]AB[qd]AB[od]AB[pe]AB[oe]AB[ne]AB[qf]AB[qg]AB[ph]AB[pi]AB[pj]AB[oj]AB[ok]AB[qk]AB[qj]AB[pl]AB[pm]AB[pn]AB[po]AB[qp]AB[qq]AB[rp]AB[ro]AB[rr]AB[sr]AB[qs]AB[le]AB[lf]AB[kf]AB[jf]AB[je]AB[kg]AB[if]AB[jh]AB[ii]AB[ij]AB[hi]AB[hh]AB[gh]AB[ei]AB[fi]AB[he]AB[ge]AB[gd]AB[gc]AB[gb]AB[ga]AB[ha]AB[hc]AB[fc]AB[dc]AB[eb]AB[ec]AB[ed]AB[ee]AB[ef]AB[cd]AB[dd]AB[df]AB[cf]AB[cg]AB[bg]AB[bh]AB[ah]AB[dj]AB[dk]AB[dl]AB[dm]AB[cl]AB[em]AB[fm]AB[bn]AB[cn]AB[co]AB[cp]AB[bp]AB[ao]AB[dp]AB[ep]AB[fp]AB[fo]AB[fq]AB[fr]AB[gq]AB[hq]AB[hr]AB[gs]AB[hs]AB[is]AB[br]AW[ma]AW[mb]AW[nb]AW[nc]AW[oc]AW[md]AW[me]AW[ld]AW[kd]AW[jd]AW[id]AW[ia]AW[ib]AW[ic]AW[hd]AW[ie]AW[ke]AW[fb]AW[fa]AW[ea]AW[da]AW[db]AW[ca]AW[aa]AW[bb]AW[cc]AW[bc]AW[ac]AW[bd]AW[be]AW[bf]AW[af]AW[ag]AW[ce]AW[de]AW[ar]AW[aq]AW[ap]AW[cq]AW[bq]AW[dq]AW[eq]AW[er]AW[es]AW[fs]AW[cr]AW[rq]AW[rs]AW[qr]AW[pr]AW[pq]AW[pp]AW[oo]AW[on]AW[om]AW[ol]AW[qm]AW[hf]AW[dg]AW[cj]AW[pg]AW[pf]AW[of]AW[nf]AW[ng]AW[nh]AW[ni]AW[oi]AW[mi]AW[li]AW[nj]AW[nk]AW[ji]AW[jj]AW[kj]AW[kh]AW[lg]AW[mg]AW[ik]AW[hj]AW[gj]AW[fj]AW[ej]AW[gi]AW[gk]AW[fl]AW[el]AW[gm]AW[hl]AW[hn]AW[ir]AW[iq]AW[jr]AW[js]AW[hp]AW[gp]AW[go]AW[io]AW[fn]AW[en]AW[dn]AW[im]AB[op]AB[nq]C[Shusai (White) plays A, engaging in a ko fight.  Senji (Black) plays B as a threat.  Shusai resolves the ko instead with C, thinking black's threat is completely empty.  How to respond when Senji follows through with his threat?]AW[lq]LB[kh:A]LB[op:B]LB[mg:C]TR[nq]AP[goproblems]
+(;W[os]
+(;B[nr]C[CHOICE];W[ns]C[Yup, white connects out.  Black resigned after P-1 in real life.RIGHT])
+(;B[mr]C[CHOICE]
+(;W[np];B[oq];W[mq];B[nr];W[lr]C[Yup, black loses the capturing race, white wins.  Black resigned after P-1 in real life.RIGHT])
+(;W[oq];B[np];W[nr];B[ms];W[mq];B[ns];W[no];B[or]C[2-step ko.  Not good enough, white can live hassle free.])))
+(;W[oq];B[np]
+(;W[nr];B[mr]
+(;W[mq];B[ns]
+(;W[or];B[os]C[])
+(;W[no];B[or];W[mp];B[ps]))
+(;W[os];B[ms];W[mq];B[ns]
+(;W[mp];B[or]C[2-step ko.  Not good enough, white can live hassle free.])
+(;W[no];B[or]C[2-step ko.  Not good enough, white can live hassle free.])))
+(;W[ps];B[nr]))
+(;W[ps]
+(;B[nr]
+(;W[oq];B[np])
+(;W[np];B[oq];W[mq];B[mr];W[lr];B[os];W[ms];B[sq];W[ls];B[ss];W[ns];B[qs];W[or]))
+(;B[ns]
+(;W[np];B[oq];W[mq];B[or];W[mr];B[os])
+(;W[oq];B[np];W[nr];B[mr];W[os];B[ms];W[mq];B[or]C[2-step ko for white.  The lack of threats spells doom for white.])))
+(;W[nr];B[or]
+(;W[os];B[oq];W[ps];B[mr]
+(;W[mq];B[ns];W[np];B[qs])
+(;W[ns];B[ms]))
+(;W[oq];B[ps]))
+(;W[mr];B[nr];W[ns];B[os];W[ms];B[or];W[np];B[oq];W[mq];B[ps])
+(;W[ms];B[mr]
+(;W[ns];B[ls];W[lr];B[os];W[ks];B[or];W[mq];B[oq])
+(;W[lr];B[ns];W[ls];B[or];W[np];B[oq];W[mq];B[ps]))
+(;W[or];B[nr];W[ns];B[ms];W[os];B[mr])
+(;W[ns];B[ms]
+(;W[mr];B[os]
+(;W[or];B[nr];W[np];B[oq];W[mq];B[ps])
+(;W[nr];B[or];W[np];B[oq];W[mq];B[ps]))
+(;W[nr];B[or]
+(;W[np];B[oq];W[mq];B[ps])
+(;W[os];B[oq];W[ps];B[mr])
+(;W[ps];B[mr]
+(;W[np];B[oq];W[mq];B[os])
+(;W[os];B[oq])))))

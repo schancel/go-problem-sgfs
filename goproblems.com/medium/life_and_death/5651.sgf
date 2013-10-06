@@ -1,0 +1,49 @@
+(;GE[life and death]DI[2d]DP[13]SO[santa c]CO[8]AB[bg]AB[ag]AB[ch]AB[ci]AB[cj]AB[ck]AB[bl]AB[al]AW[af]AW[bf]AW[ce]AW[cg]AW[dg]AW[dh]AW[di]AW[dk]AW[dl]AW[dj]AW[cl]AW[bm]AW[bo]AW[cm]C[Black to move... (Yeah I know you see it just below... But... Have to say something, right? ;)FORCE]AP[goproblems]
+(;B[bi]
+(;W[aj]
+(;B[bj]
+(;W[ai];B[ak];W[am];B[ah]C[Well done! ^_^RIGHT])
+(;W[am];B[ai]C[RIGHT]))
+(;B[ai];W[ah]
+(;B[bh];W[bk]C[:(])
+(;B[bj];W[bh];B[ak]C[Don't have to lose 2 stones! :(])
+(;B[ak];W[bh];B[bj]C[Don't have to lose 2 stones! :(]))
+(;B[bk];W[ai]C[:(])
+(;B[ah];W[ai]C[:(])
+(;B[ak];W[am]C[:(]))
+(;W[ai];B[aj]C[RIGHT])
+(;W[ah];B[bh];W[aj];B[bj];W[am];B[ai]C[RIGHT]))
+(;B[bh];W[ai]
+(;B[aj];W[bj]
+(;B[bk];W[ak]C[:(]MA[aj])
+(;B[ak];W[bi]C[:(])
+(;B[bi];W[ak]C[:(]))
+(;B[bj];W[aj];B[ak];W[am]C[:(])
+(;B[bi];W[aj]C[:(]))
+(;B[ah];W[ai]
+(;B[bi];W[aj]C[:(])
+(;B[aj];W[bh]C[:(]TR[bi]TR[bk])
+(;B[bk];W[bh]C[:(]TR[aj]TR[bi])
+(;B[bh];W[aj]C[:(]))
+(;B[ai];W[bh]
+(;B[ah];W[aj];B[bi];W[bk]C[:(])
+(;B[bj];W[ah]C[:(]TR[ak]TR[bi])
+(;B[ak];W[ah]C[:(]TR[bj]TR[bi])
+(;B[bi];W[ah]C[:(])
+(;B[aj];W[ah]C[:(]TR[bk]TR[bi])
+(;B[bk];W[ah]C[:(]TR[bi]TR[aj]))
+(;B[bj];W[bh]
+(;B[ai];W[ah]C[:(]TR[bi]TR[ak])
+(;B[ah];W[ai]C[:(])
+(;B[ak];W[ah]C[:(]TR[ai]TR[bi]))
+(;B[aj];W[bh]
+(;B[bi];W[ah];B[bk]C[No need to give away the 2 stones... :(])
+(;B[bk];W[bi]C[:(])
+(;B[ai];W[ah]C[:(]TR[bi]TR[bk])
+(;B[ah];W[ai]C[:(]TR[bi]TR[bk]))
+(;B[bk];W[ai]TR[aj]TR[bh]C[:(])
+(;B[ak];W[bh]
+(;B[bi];W[ah]TR[bj]TR[ai]C[:(])
+(;B[ai];W[ah]C[:(]TR[bj]TR[bi])
+(;B[ah];W[ai]C[:(])
+(;B[bj];W[ah]C[:(]TR[ai]TR[bi])))

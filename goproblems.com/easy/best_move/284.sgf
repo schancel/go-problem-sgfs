@@ -1,0 +1,33 @@
+(;GE[best move]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[qd]AB[od]AW[ld]AB[pf]AW[qf]AB[qg]AW[pg]AB[of]AW[qh]AB[rg]AW[rf]AB[rh]AW[qi][pp]AB[cp][dc]LB[qi:1]PL[B]
+(;B[ph]CR[ph]
+;W[og]CR[og]
+(;B[pi]CR[pi]LB[qj:A][ng:B]C[RIGHT
+makes miai of A and B])
+(;B[oh]CR[oh]
+;W[ng]CR[ng])
+(;B[ri]CR[ri]
+;W[qj]CR[qj]))
+(;B[ri]CR[ri]
+;W[qj]CR[qj]SQ[qg][rg][rh][ri]C[the marked stones are pretty much toast])
+(;B[qj]CR[qj]
+;W[ri]CR[ri])
+(;B[qe]CR[qe]
+;W[re]CR[re]C[bad exchange])
+(;B[og]CR[og]
+;W[ph]CR[ph]SQ[qg][rg][rh]C[this hurts your marked stones too much])
+(;B[qc]CR[qc]SQ[qg][rg][rh]C[white will kill marked stones and come out on top])
+(;B[rj]CR[rj]
+;W[ri]CR[ri]
+(;B[ph]CR[ph]
+;W[og]CR[og]
+(;B[pi]CR[pi]
+;W[sh]CR[sh])
+(;B[ng]CR[ng]
+;W[oh]CR[oh]
+;B[nh]CR[nh]
+;W[oi]CR[oi]))
+(;B[si]CR[si]
+;W[sg]CR[sg]))
+(;B[sf]CR[sf]
+;W[ri]CR[ri]))

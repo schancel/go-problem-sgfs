@@ -1,0 +1,5 @@
+(;GE[life and death]DI[8k]DP[45]SO[mafutrct]CO[0]AB[cb]AB[db]AB[eb]AW[fb]AW[gb]AW[gc]AW[gd]AW[ib]AB[ic]AB[hc]AB[hd]AW[jc]AW[kc]AW[kd]AW[ke]AW[kf]AW[kg]AB[lh]AW[jh]AB[kh]AB[jg]AB[je]AB[jd]AB[jf]AW[ih]AW[hg]AW[hf]AB[ge]AB[gf]AB[ff]AB[fe]AB[fd]AB[fc]AB[ed]AW[ec]AW[dc]AW[dd]AW[bc]AW[ce]AW[cf]AW[fg]AW[fh]AB[eg]AB[df]AB[de]AW[ee]AB[dg]AW[di]AW[mf]AW[ne]AB[nf]AB[ng]AB[oe]AB[pd]AB[pc]AB[qe]AW[nc]AW[oc]AW[he]C[]AW[cg]AB[mc]AP[goproblems];B[hb]
+(;W[id]
+(;B[ha];W[ia];B[ie]C[Black is alive.CHOICERIGHT])
+(;B[ie];W[ha]C[Black is dead.]))
+(;W[ha];B[id];W[ga];B[jb];W[ja]C[Ko, but white will not find a threat big enough.CHOICERIGHT]))

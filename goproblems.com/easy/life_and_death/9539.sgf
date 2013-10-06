@@ -1,0 +1,20 @@
+(;GE[life and death]DI[7k]DP[44]SO[Nanojr]CO[6]AB[qq]AB[qp]AB[qo]AB[pn]AB[on]AB[om]AW[po]AW[pp]AW[pq]AW[qn]AW[qm]AW[pm]AW[ol]AW[ok]AB[pl]AB[qk]AB[qi]AB[nl]AW[nm]AW[mm]AB[no]AB[nq]AW[lq]AW[lo]TR[om]TR[on]TR[pn]C[Capture the three black stones and save white]AP[goproblems]
+(;W[nn];B[oo];W[np];B[op];W[oq];B[mp];W[mo];B[np];W[nr]C[Black is trapped!RIGHT])
+(;W[np];B[op]
+(;W[nn]
+(;B[mp];W[oo]C[RIGHT])
+(;B[oo];W[oq];B[mp];W[mo];B[np];W[nr]C[Black is trapped!RIGHT]))
+(;W[oo];B[nn]
+(;W[oq];B[mp]
+(;W[mo];B[op];W[mn];B[np];W[nr]C[RIGHT])
+(;W[nr];B[op]
+(;W[mo]C[RIGHT])
+(;W[mq];B[ql]))
+(;W[mq];B[op]
+(;W[nr];B[ql])
+(;W[mo];B[nr])))
+(;W[mp]C[This works but is not as good as P3];B[pr];W[oq];B[or];W[op]C[Not the best wayRIGHT]))
+(;W[oq];B[mp]
+(;W[nn];B[oo])
+(;W[oo];B[nn])))
+(;W[oo];B[nn];W[np];B[mp];W[mo];B[op];W[mn];B[np]))

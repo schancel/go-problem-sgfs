@@ -1,0 +1,26 @@
+(;GE[best move]DI[7k]DP[40]SO[Bleedo]CO[0]AW[hb]AW[ic]AW[jb]AW[kb]AW[kc]AW[lc]AB[lb]AB[mc]AB[nc]AW[mb]AW[md]AW[nd]AW[od]AW[oc]AW[ob]AW[oe]AW[of]AW[og]AB[ng]AB[nf]AB[ne]AB[me]AB[lf]AB[lg]AB[lh]AB[ld]AB[kd]AB[jd]AB[jc]AB[id]AB[ie]AB[if]AB[ig]AW[jf]AW[kf]AW[ih]AW[jh]AW[kh]AB[ki]AW[li]AW[nh]AW[ni]AW[nj]AW[oj]AW[hi]AW[gi]AW[fi]AW[ei]AW[eh]AB[fh]AB[gh]AB[hh]AB[hg]AW[fg]AW[ff]AW[gf]AW[ge]AB[gb]AB[gc]AB[gd]AB[fa]AW[fd]AW[fb]AW[fc]AW[ed]AW[ec]AW[dd]AW[de]AW[df]AW[dg]AB[eb]AB[db]AB[dc]AB[cd]AB[ce]AB[bc]AW[lj]C[Black to live or connect out]AW[ha]TR[ha]AP[goproblems]
+(;B[hd];W[ga])
+(;B[hc];W[ga]
+(;B[ib];W[ea]
+(;B[ia]C[];W[fa]C[]
+(;B[he]C[RIGHT])
+(;B[ja];W[la];B[he]C[RIGHT])
+(;B[ka];W[la];B[he]C[RIGHT]))
+(;B[he]C[You should J19 or K19 firstRIGHT])
+(;B[ja];W[la]
+(;B[he]C[You should J19 because L19 captures K19RIGHT])
+(;B[ia]C[];W[fa];B[he]C[RIGHT])))
+(;B[hd];W[ea])
+(;B[ea]C[White doesn't need to respond]))
+(;B[ga];W[hd]C[Black can't atari])
+(;B[ea];W[ga])
+(;B[ke];W[ga])
+(;B[he];W[ga])
+(;B[ib];W[ia]
+(;B[hc];W[ga]
+(;B[ib];W[ea]
+(;B[ic];W[he])
+(;B[he];W[ic]C[White gets a ko]))
+(;B[he];W[ib]))
+(;B[hd];W[ga])
+(;B[ga];W[hd])))

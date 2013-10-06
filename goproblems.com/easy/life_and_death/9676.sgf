@@ -1,0 +1,16 @@
+(;GE[life and death]DI[15k]DP[64]SO[MatheusB]CO[8]SZ[9]AB[ba]AB[bb]AB[ab]AB[cb]AB[db]AB[bc]AB[gb]AB[hb]AB[hc]AB[hd]AB[he]AB[hf]AB[gf]AB[gg]AB[ff]AB[fe]AB[ee]AB[ed]AB[de]AB[df]AB[cf]AB[bf]AB[af]AB[bg]AB[cg]AB[bh]C[Easy one - black to win.]AW[eb]AW[da]AW[ea]AW[fb]AW[fc]AW[gc]AW[gd]AW[ge]AW[ec]AW[dc]AW[cc]AW[dd]AW[ce]AW[be]AW[bd]AW[ad]AW[ac]AW[bi]AW[ch]AW[dh]AW[dg]AW[eg]AW[ef]AW[fg]AW[gh]AW[hh]AW[hg]AW[fi]AB[ah]AP[goproblems]
+(;B[ae];W[cd]
+(;B[fd]C[Correct - this was a clasical eye vs no-eye capturing race.RIGHT])
+(;B[fa];W[ga]
+(;B[fd]C[Correct - this was a clasical eye vs no-eye capturing race. Playing F6 a move earlier would be simpler though.RIGHT])
+(;B[ha];W[ca]C[Black cannot protect against A9 so White wins.])
+(;B[ca];W[aa]C[White can easily make two eyes now - triangled moves are miai.]TR[bb]TR[cb]))
+(;B[ca];W[aa]TR[cb]TR[bb]C[White can easily make two eyes now - triangled moves are miai.]))
+(;B[fd];W[ca]
+(;B[ae];W[aa]C[White wins now.])
+(;B[ga];W[aa]C[White wins now.])
+(;B[fa];W[ga]C[Black cannot protect against A9 so White wins.]))
+(;B[ca];W[aa]C[Come on...])
+(;B[fa];W[ca]C[Black cannot protect against A9 so White wins.])
+(;B[aa];W[ca]C[What was that?])
+(;B[ga];W[ca]C[Black cannot protect against A9 so White wins.]))

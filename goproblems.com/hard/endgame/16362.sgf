@@ -1,0 +1,22 @@
+(;GE[endgame]DI[4d]DP[7]SO[Field Mouse]CO[0]AB[dd]AB[cd]AB[ce]AW[ef]AB[cf]AB[jg]AB[kg]AB[lg]AW[be]AW[af]AB[bg]AB[bh]AW[ag]AW[ci]AW[di]AB[ic]AB[jc]AB[jd]AB[me]AB[md]AB[mf]AB[mg]AB[jf]AB[je]AW[he]AW[hf]AW[hg]AW[hh]AW[hi]AW[fe]AW[ff]AW[eg]AW[eh]AW[ei]AB[ed]AB[ec]AW[ga]AW[gc]AW[bf]AB[cg]AB[mb]AB[mc]AB[bd]AW[bb]AW[ad]AW[bc]AB[ac]AW[ah]AB[bi]AB[ai]AW[aj]AW[bj]AW[cj]TR[ga]C[White just played the marked move, thinking about reducting black in a cool way. But black wants to be cool herself. Show the best way how!]AB[nb]AP[goproblems]
+(;B[gb];W[hc];B[hb];W[fb])
+(;B[gd]
+(;W[fb]C[CHOICE]
+(;B[hb];W[hd])
+(;B[hd])
+(;B[fd];W[hc];B[hd];W[hb])
+(;B[hc];W[fc];B[fd];W[hb]
+(;B[ia]C[];W[eb];B[db];W[ea];B[ha]C[Nice!RIGHT])
+(;B[ea];W[eb];B[db];W[ib]))
+(;B[fc];W[hc];B[hd];W[hb]
+(;B[ia];W[eb]
+(;B[db];W[ea];B[ha]C[Good!RIGHT])
+(;B[ha];W[db]))
+(;B[ea];W[eb];B[db];W[ib])
+(;B[eb];W[ib];B[ia];W[jb];B[ja];W[kb];B[ka];W[la])))
+(;W[hb];B[hc];W[fc];B[fd]
+(;W[eb];B[fb];W[gb];B[db]C[RIGHT])
+(;W[fb]))
+(;W[fd];B[fc];W[hd];B[gb];W[hc];B[hb]C[RIGHT])
+(;W[fc];B[fd];W[eb];B[db];W[hc];B[hd];W[ea];B[hb];W[da];B[cb]C[RIGHT]))
+(;B[fd];W[gd]))

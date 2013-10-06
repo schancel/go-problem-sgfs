@@ -1,0 +1,45 @@
+(;GE[tesuji]DI[4d]DP[7]SO[Holyhell99]CO[0]TR[ao]TR[bo]TR[co]TR[do]TR[ep]TR[eq]TR[er]TR[es]C[BEAT ME-4x4 BOARD-1.5 KOMI-CHINESE RULESFORCE]TR[eo]LB[cq:A]LB[cp:B]LB[dp:C]AP[goproblems]
+(;B[cq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[er]TR[es];W[br]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]C[FORCE]
+(;B[bq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cr]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]TR[ao]C[FORCE]
+(;B[dr]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[aq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[cs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[bp]TR[bo]TR[ao]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[bs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[dp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]LB[bq:1]LB[cq:2]LB[dp:3]LB[dq:4]LB[dr:5]LB[ds:6]LB[cs:7]LB[bs:8]LB[ap:2]LB[bp:1]LB[aq:3]LB[ar:4]LB[br:5]LB[cr:6]C[B=8W=6=1.5B wins by 0.5-simple is best--RIGHT])
+(;B[cp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[dq]TR[bo]TR[ao]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[ap]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[do]TR[co]TR[bo]TR[ao]MA[bp];W[ds]MA[ap]MA[bq]MA[cq]MA[cp]C[..........]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]MA[dr])
+(;B[dq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]LB[cp:1]LB[bp:2]LB[ap:3]LB[aq:4]LB[ar:5]LB[br:6]LB[cr:7])
+(;B[ds]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cp]TR[ao]TR[bo]TR[do]TR[co]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[dq]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[er]TR[eq]TR[es]LB[cp:1]LB[bp:2]LB[ap:3]LB[aq:4]LB[ar:5]LB[br:6]LB[cr:7]LB[bq:1]LB[cq:3]LB[dq:2]LB[dr:4]LB[ds:5]LB[cs:6]LB[bs:7]))
+(;B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[es]TR[eq];W[cs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er]
+(;B[as]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[es]TR[er]TR[eq];B[ap]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[dp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[es]TR[er]C[FORCE];B[dq]LB[bs:2]LB[as:1x]LB[cs:3]LB[cr:4]LB[br:5]LB[ar:6]LB[aq:7]LB[ap:1]LB[bp:2]LB[bq:3]LB[cq:4]LB[dr:6]LB[dp:7]LB[cp:8]C[B=8W=7+1.5W wins by 0.5]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er])
+(;B[dp]C[just to save time making problem from this point on there will be no guiding triangle-too see scores please NAVIGATE])
+(;B[ap];W[ar];B[dq]TR[es]TR[er]TR[eq]TR[ep]TR[co]TR[do]TR[eo]TR[bo]TR[ao]C[W+1.5....]))
+(;B[cp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[ap]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[er]TR[es]TR[ep];W[bp]TR[ao]TR[bo]TR[co]TR[eo]TR[eq]TR[es]TR[ep]TR[er]TR[do]MA[ap];B[dq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[er]TR[es];W[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[ap]AB[bp]LB[ap:1]LB[bp:2]LB[cp:3]LB[bq:4]LB[cq:5]LB[dq:6]LB[dr:7]LB[dp:8]LB[aq:1]LB[ar:2]LB[as:3]LB[br:4]LB[bs:5]LB[cr:6]LB[cs:7]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[es]TR[eq]C[B=8W=7+1.5 komiW wins by 0.5])
+(;B[dq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[ap]TR[bo]TR[ao]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[ds]TR[ao]TR[bo]TR[do]TR[co]TR[eo]TR[ep]TR[eq]TR[er]TR[es]LB[cp:1]LB[dp:2]LB[bq:3]LB[cq:4]LB[dq:5]LB[dr:6]LB[ds:7]LB[ap:1]LB[aq:2]LB[ar:3]LB[as:4]LB[br:5]LB[bs:6]LB[cr:7]LB[cs:8]C[B=7W=8+1.5W wins by 2.5])
+(;B[bp]C[............]TR[ao]TR[bo]TR[do]TR[eo]TR[co]TR[ep]TR[eq]TR[er]TR[es]))
+(;B[bs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cs]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[do]TR[co]TR[bo]TR[ao]C[In this variation positions maybe equal,but you forgot that white has komi!!!!!])
+(;B[dp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[er]TR[es])
+(;B[ap];W[bp])
+(;B[ar];W[as]))
+(;B[dq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[aq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[dr]TR[ao]TR[bo]TR[co]TR[do]TR[ep]TR[eo]TR[eq]TR[er]TR[es];W[cs]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[ap]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]C[W+1.5];W[dp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[er]TR[es]C[FORCE];B[bs]LB[aq:1]LB[ar:2]LB[br:3]LB[cr:4]LB[cs:5]LB[as:7]LB[bs:8]LB[ap:1]LB[bp:2]LB[bq:3]LB[cq:4]LB[dq:5]LB[dr:6]LB[dp:7]LB[cp:8]TR[ep]TR[eq]TR[er]TR[es]TR[eo]TR[do]TR[co]TR[bo]TR[ao]C[B=8W=8+1.5W wins by 1.5])
+(;B[ds];W[cp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]C[FORCE];B[bs]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es]LB[bp:1]LB[bq:2]LB[cp:3]LB[cq:4]LB[dp:5]LB[dq:6]LB[dr:7]LB[ds:8]LB[aq:1]LB[ar:2]LB[as:3]LB[br:4]LB[bs:5]LB[cr:6]LB[cs:7]C[B=8W=7+1.5W wins by 0.5]))
+(;B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er];W[dr]TR[ao]TR[bo]TR[co]TR[do]TR[ep]TR[eq]TR[es]TR[er]TR[eo]C[this is obvios-black lost])
+(;B[cp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[dr]TR[ao]TR[bo]TR[co]TR[eo]TR[ep]TR[eq]TR[er]TR[es]TR[do]))
+(;B[dp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[aq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[eq]TR[es]C[FORCE]
+(;B[dr]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es];W[cs]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[do]TR[co]TR[ao]TR[bo];B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[ds]TR[ao]TR[bo]TR[do]TR[co]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[dq]MA[dr]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[ap]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es];W[cp]TR[ao]TR[co]TR[bo]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]C[1 step slower than w]MA[dp])
+(;B[cp]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es];W[ap]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[eq]TR[ep]TR[er]TR[es];B[bq]TR[ao]TR[bo]TR[do]TR[eo]TR[co]TR[ep]TR[eq]TR[er]TR[es];W[cq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er];W[cp]C[1 eye to 2 eye-B dies]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[eq]TR[es]MA[ap]LB[aq:X]))
+(;B[dq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er];W[ar]TR[ao]TR[co]TR[bo]TR[do]TR[eo]TR[es]TR[er]TR[eq]TR[ep]LB[aq:1]LB[ar:2]LB[br:3]LB[cr:4]LB[cs:5]LB[ds:6]LB[as:7]LB[bs:8]LB[bp:1]LB[cp:2]LB[dp:3]LB[bq:4]LB[cq:5]LB[dq:6]LB[dr:7]C[B will play B1/A1B=7W=8+1.5W wins by 2.5]))
+(;B[bp]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[dr]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es])))
+(;B[dp]TR[bo]TR[ao]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[es]TR[eq];W[cr]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[bq]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[do]TR[co]TR[ao]TR[bo];W[aq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es]
+(;B[bp]TR[bo]TR[ao]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[es]TR[er];W[dr])
+(;B[dr]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cs]TR[ao]TR[bo]TR[eo]TR[ep]TR[er]TR[es]TR[eq]TR[do]TR[co];B[bp]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[co]TR[do]TR[bo]TR[ao];W[ds]TR[es]TR[er]TR[eq]TR[eo]TR[ep]TR[do]TR[co]TR[bo]TR[ao]
+(;B[dq]TR[es]TR[eq]TR[ep]TR[eo]TR[do]TR[bo]TR[ao]TR[co]TR[er];W[ar]C[W+2.5]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es])
+(;B[ar]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[er]TR[es]TR[eq];W[dq]MA[dr]TR[es]TR[er]TR[eq]TR[ep]TR[eo]TR[co]TR[ao]TR[bo]TR[do];B[ap]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es];W[cp]TR[ao]TR[bo]TR[co]TR[eo]TR[do]TR[ep]TR[eq]TR[er]TR[es]LB[aq:X]C[...]MA[dp])))
+(;B[dr];W[bp]
+(;B[bq];W[aq];B[cs];W[as])
+(;B[cs];W[as];B[bq];W[aq]))))
+(;B[cp];W[cq]TR[ao]TR[bo]TR[co]TR[do]TR[eo]TR[ep]TR[eq]TR[er]TR[es])
+(;B[dp]C[..............honestly that is a very bad move...........lesson:don't play there in real games]TR[do]TR[ep]AW[cq]LB[cq:2]TR[co]TR[eq]TR[bo]TR[er]))

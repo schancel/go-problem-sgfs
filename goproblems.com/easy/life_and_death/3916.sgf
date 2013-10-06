@@ -1,0 +1,37 @@
+(;GE[life and death]DI[10k]DP[50]SO[ciith]CO[8]AW[cd]AW[dd]AW[ed]AW[be]AW[ae]AW[ag]AW[bg]AB[ce]AB[de]AB[ee]AB[cg]AB[dg]AB[bh]AB[ai]AB[ci]AB[cj]AB[bk]AB[bl]AB[am]AB[an]AB[ao]AB[bo]AB[bp]AB[bf]AW[ch]AW[dh]AW[di]AW[dj]AW[dk]AW[ck]AW[cl]AW[cm]AW[bm]AW[bn]AW[cn]AW[co]AW[cp]AW[cq]AW[bq]C[CHOICE]AB[bi]AP[goproblems]
+(;B[ah]
+(;W[af]
+(;B[cf];W[bd];B[aj];W[al];B[ak]C[A8 is a false eye])
+(;B[bd];W[cf]
+(;B[ad]C[Good jobRIGHT])
+(;B[df];W[ad]
+(;B[bc]C[NiceRIGHT])
+(;B[ac];W[bc]))))
+(;W[aj]
+(;B[af]C[Good jobRIGHT])
+(;B[ak];W[bj]))
+(;W[ak]
+(;B[aj];W[bj])
+(;B[af]C[NiceRIGHT])))
+(;B[aj];W[al]
+(;B[ak]
+(;W[af]
+(;B[bd];W[bc]C[No way to kill white's A14 group, and A8 is a false eye])
+(;B[cf];W[bd]C[White connects out, and evetually causes black to fill A8])
+(;B[ah];W[bd]))
+(;W[bd]
+(;B[af];W[cf])
+(;B[cf];W[af]C[A8 gets filled eventually, black dies])))
+(;B[ah];W[af]
+(;B[cf];W[bd])
+(;B[bd];W[cf];B[ad]C[];W[aq]
+(;B[bf];W[ap]C[Black lives, but there's no need to sacrifice those stones])
+(;B[ak];W[ap]
+(;B[bf];W[al])
+(;B[al];W[bj])))))
+(;B[ak];W[af];B[aj];W[bd]C[A8 is a false eye])
+(;B[al];W[aj])
+(;B[bj];W[af];B[ak];W[bd])
+(;B[cf];W[af];B[bd];W[bc])
+(;B[bd];W[bc];B[ah]C[RIGHT])
+(;B[ad];W[bd]))

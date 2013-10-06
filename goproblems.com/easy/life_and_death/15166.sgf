@@ -1,0 +1,32 @@
+(;GE[life and death]DI[4k]DP[29]SO[mysandbox]CO[0]AB[rr]AB[qq]AB[pp]AB[oq]AB[or]AB[nr]AB[mr]AB[mq]AW[kq]AW[lq]AW[lr]AW[mp]AW[np]AW[op]AW[nq]AW[po]AW[qo]AW[rp]AW[rq]AW[sr]AP[goproblems]
+(;B[ps];W[pq]
+(;B[pr];W[rs]
+(;B[qr];W[qp]))
+(;B[qr];W[rs];B[qp]C[RIGHT])
+(;B[rs];W[qp];B[qr]C[RIGHT]))
+(;B[pr];W[rs]
+(;B[qr];W[ms]
+(;B[qp];W[qs])
+(;B[ns];W[qs];B[ps];W[qp];B[ss];W[rs]))
+(;B[qp];W[qr])
+(;B[ms];W[qr]))
+(;B[qr];W[ps]
+(;B[pr];W[qp])
+(;B[os];W[ms]
+(;B[pr];W[qp])
+(;B[qp];W[pr]))
+(;B[qp];W[pr]
+(;B[os];W[ms])
+(;B[ms];W[os]C[])))
+(;B[qs];W[rs]C[in fact this path is wrong and white can get ko but you can play on to see some white local threat];B[ss];W[pr]
+(;B[rs];W[pq])
+(;B[pq];W[ps])
+(;B[ps];W[rs]))
+(;B[ms]
+(;W[rs];B[qr]
+(;W[pq]
+(;B[qp];W[qs])
+(;B[os];W[qs])))
+(;W[qr]))
+(;B[os];W[rs];B[qr];W[ms])
+(;B[rs];W[ps]))

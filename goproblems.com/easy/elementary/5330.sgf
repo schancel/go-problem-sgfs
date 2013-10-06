@@ -1,0 +1,17 @@
+(;GE[elementary]DI[5k]DP[33]SO[marwin]CO[7]AB[sq]AB[rq]AB[qq]AB[qr]AW[pr]AW[pq]AW[nq]AB[pp]AB[po]AB[qn]AB[rm]AW[qp]AW[rp]AW[sp]AW[so]AW[rn]AW[rl]AW[ql]AW[pl]AP[goproblems]C[Black to win]
+(;B[qo];W[qm];B[ro]C[RIGHT])
+(;B[rs];W[qm])
+(;B[ro];W[qo];B[qm];W[sr]
+(;B[sm];W[qs])
+(;B[rs];W[ps];B[sm];W[qs];B[rr];W[ss]))
+(;B[qs];W[qo];B[qm];W[sm])
+(;B[qm];W[sm];B[qo];W[sn])
+(;B[sm];W[qm]
+(;B[qo];W[sl];B[ro];W[sn])
+(;B[ro];W[qo]))
+(;B[sn];W[sm];B[qo];W[qm])
+(;B[rr];W[qs];B[rs];W[ps];B[ss])
+(;B[ss];W[qs]
+(;B[qo];W[rr])
+(;B[rr];W[ps])
+(;B[rs];W[ps])))

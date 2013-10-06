@@ -1,0 +1,102 @@
+(
+;GE[fuseki]DI[5d]DP[5]SO[Imperateur]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.10]
+AB[qd][oc][db][cd][de][ee][ef][hd][jq]
+AW[qq][ep][cp][cf][df][eg][dh][ec]
+C[Black has moyo on the upper side, and will now want to approach white's 3-3 stone.  What is white's best move?]
+GN[prob]
+(
+;
+W[hq]
+;
+B[np]
+(
+;
+W[qn]
+C[RIGHTBlack is forced to approach from the left side to defend his lone stone on the bottom, white can expand up the right side, countering a possible extension from black's shimari in the upper right.]
+)
+(
+;
+W[pn]
+;
+B[qj]
+C[Close but no, this leaves white oppen at the bottom when black extends, and another move would be inefficient.]
+)
+)
+(
+;
+W[nq]
+;
+B[gq]
+C[Black is all too happy to extend in this direction before making an approach from the side of his shimari.]
+)
+(
+;
+W[np]
+;
+B[gq]
+C[Black is all to happy to extend in this direction before making an approach from the direction of his shimari.  In addition, white is still open at the bottom in the direction of blacks stones on the lower side.]
+)
+(
+;
+W[mp]
+;
+B[gq]
+C[Black is all to happy to extend here before making an approach from the top supported by his upper right shimari.]
+)
+(
+;
+W[mq]
+;
+B[gq]
+C[Black is all too happy to extend in this direction before making an approach from the top supported by his upper right shimari.]
+)
+(
+;
+W[qg]
+C[Wrong direction, black can make an approach at a followed by an extension at b, weakening white's lower left shimari and giving black a strong foundation on the lower side.]
+LB[np:a][gq:b]
+)
+(
+;
+W[qi]
+LB[np:a][gq:b]
+C[Wrong direction, black can still make an approach at a, followed by an extension at b, weakening whites lower left shimari, and giving him a strong foundation on the lower side.]
+)
+(
+;
+W[qj]
+LB[np:a][gq:b]
+C[Wrong direction, black can still make an approach at a, then an extension at b weakening white's lower left shimari and giving him a strong foundation on the lower side.]
+)
+(
+;
+W[pj]
+C[Wrong direction, although it splits the marked stone from the moyo on top, black can still make an approach at a, and after white responds, black can extend to b, threatening whites lower left shimari.  Black is left with a solid foundation on the bottom, splitting white, leaving the right side without a substantial moyo.]
+TR[jq]
+LB[np:a][gq:b]
+)
+(
+;
+W[gf]
+C[This corner is more or less settled for now, there are way too many big points left to be playing around here.]
+)
+(
+;
+W[cg]
+C[This corner is more or less settled for now, there are way too many big points left to be playing around here.]
+)
+(
+;
+W[cc]
+C[This corner is more or less settled for now, there are way too many big points left to be playing around here.]
+)
+(
+;
+W[gq]
+C[Right idea, too narrow.]
+)
+)

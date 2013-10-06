@@ -1,0 +1,31 @@
+(;GE[life and death]DI[3d]DP[11]SO[santa c]CO[7]AB[bg]AB[cb]AB[bc]AB[be]AB[ce]AB[de]AB[ed]AB[ec]AB[eb]AB[ea]AW[ab]AW[bd]AW[cc]AW[db]C[Can white live here? Play T for tenuki if you think he can't.. :)]LB[dg:T]AP[goproblems]
+(;W[dg]AB[cc]AB[db]AB[ab]AB[bd]AW[cb]AW[bc]AW[be]AW[ce]AW[de]AW[ed]AW[ec]AW[eb]AW[ea]AW[bg];B[ca]C[Alright, how to kill then? :)]
+(;W[cd];B[bb]
+(;W[ad]C[Well done! :)RIGHT]TR[dc]TR[da])
+(;W[dc];B[ac]C[:(])
+(;W[da];B[ac]C[:(]))
+(;W[dc];B[bb]C[:(])
+(;W[da];B[bb]C[:(])
+(;W[ad];B[cd]
+(;W[dc];B[bb]C[:(])
+(;W[bb];B[ba]C[:(])
+(;W[ac];B[bb];W[ae]C[Well done! :)RIGHT]TR[da]TR[dc])
+(;W[ae];B[ac]C[:(]))
+(;W[bb];B[ba]C[:(])
+(;W[ac];B[ad]C[:(])
+(;W[ba];B[bb]C[:(])
+(;W[ae];B[bb]C[:(])
+(;W[aa];B[bb]C[:(]))
+(;W[ca];B[cd]
+(;W[bb];B[ad]C[:(]TR[da]TR[dc])
+(;W[ac];B[dc]C[:(])
+(;W[dc];B[ad]C[:(]TR[da]TR[bb])
+(;W[ad];B[dc]C[:(])
+(;W[ba];B[dc]C[:(]))
+(;W[bb];B[ca]TR[ad]TR[cd]C[:(])
+(;W[da];B[ca]C[:(])
+(;W[dc];B[cd]C[:(])
+(;W[ba];B[cd]C[:(])
+(;W[ad];B[cd]C[:(])
+(;W[cd];B[ca]C[:(])
+(;W[ac];B[ca]C[:(]))

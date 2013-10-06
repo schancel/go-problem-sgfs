@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[29]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ra][ob][qb][rb][oc][od][pd][qd][rd][sd]AB[oa][pa][qa][nb][pb][sb][nc][nd][ne][oe][pe][qe][re][se]C[Black to play]
+(;B[na]CR[na]
+(;W[pc]CR[pc]
+;B[rc]CR[rc]C[RIGHT White is dead.])
+(;W[sc]CR[sc]
+;B[qc]CR[qc]C[RIGHT White is dead]))
+(;B[pc]CR[pc]
+;W[qc]CR[qc]
+(;B[na]CR[na]
+;W[sc]CR[sc])
+(;B[sc]CR[sc]
+;W[na]CR[na]))
+(;B[qc]CR[qc]
+;W[pc]CR[pc]C[White is alive.])
+(;B[rc]CR[rc]
+;W[sc]CR[sc]C[White is alive.])
+(;B[sc]CR[sc]
+;W[pc]CR[pc]
+(;B[na]CR[na]
+;W[rc]CR[rc])
+(;B[rc]CR[rc]
+;W[na]CR[na])))

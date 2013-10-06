@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[4k]DP[29]SO[santa c]CO[7]AB[eq]AB[fq]AB[gq]AB[fp]AB[fo]AB[hp]AB[jq]AB[jr]AB[kp]AB[lp]AB[mr]AW[kq]AW[jp]AW[jo]AW[ko]AW[ho]AW[go]AW[gp]AW[io]AW[in]AW[fn]AW[en]AW[eo]AW[ep]AW[dq]AW[er]AW[cp]AB[lo]AB[ln]AB[kn]AB[jn]C[What does W have here?]AP[goproblems]
+(;W[hr];B[hq]
+(;W[iq];B[ir]
+(;W[gr];B[ip]
+(;W[fr];B[iq]
+(;W[kr]C[Well done! :)RIGHT])
+(;W[lr];B[lq];W[kr];B[ls]C[:(])
+(;W[lq];B[mq]C[:(]))
+(;W[kr]C[Well done! :)RIGHT])
+(;W[lr];B[kr]C[:(])
+(;W[lq];B[mq]C[:(]))
+(;W[fr];B[gr]C[:(])
+(;W[kr];B[gr]C[:(])
+(;W[lr];B[gr]C[:(])
+(;W[ip];B[gr]C[:(]))
+(;W[kr];B[iq]C[:(])
+(;W[ir];B[iq]C[:(])
+(;W[gr];B[iq]C[:(]))
+(;W[ip];B[hr]C[:(])
+(;W[iq];B[ir]LB[hr:1]LB[gr:2]C[:(])
+(;W[ir];B[iq]C[:(])
+(;W[hq];B[hr]C[:(])
+(;W[gr];B[iq]C[:(])
+(;W[fr];B[hr]C[:(])
+(;W[kr];B[iq]C[:(])
+(;W[lr];B[kr]C[It removes the precious liberty which allows W to capture G3 otherwise! :(])
+(;W[lq];B[mq]C[It removes the precious liberty which allows W to capture G3 otherwise! :(]))

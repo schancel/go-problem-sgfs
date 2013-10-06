@@ -1,0 +1,37 @@
+(;GE[life and death]DI[2k]DP[22]SO[pitchflare]CO[0]AB[ss]AB[sr]AB[rr]AW[sq]AW[sp]AW[qq]AB[qr]AW[pr]AB[ps]C[As white, can you kill this black group?]LB[mn:Yes]LB[nn:No]AB[jr]AP[goproblems]
+(;W[nn]C[Yes. Black is alive. The best move is probably at Q3 to save the wall.RIGHT])
+(;W[mn];B[nn]C[Then please kill black.]
+(;W[pq]
+(;B[qs]
+(;W[rq];B[or];W[oq];B[nr]
+(;W[os];B[ns];W[nq];B[mr];W[lr];B[ls];W[ks];B[kr]C[Black lives.])
+(;W[mq];B[mr];W[lr];B[os]
+(;W[nq];B[ms]C[Nope.])
+(;W[ms];B[nq];W[np];B[lq];W[mp];B[kr]C[Nope.])))
+(;W[or];B[os];W[nr];B[ns];W[mr];B[ms];W[lr];B[ls];W[kr];B[ks]C[Black connects and live. Thanks to Yoda1977 for catching this - there was a stone on the second line in 16023, as well.])
+(;W[os];B[or];W[nr];B[ns]C[Nope.])))
+(;W[oq];B[or];W[nr];B[pq];W[pp];B[pr]
+(;W[np];B[rq];W[qp];B[rp]C[Nope.])
+(;W[qp];B[nq];W[op];B[mr]C[Black lives.])
+(;W[nq];B[qp]
+(;W[rq];B[rp]C[Oops.])
+(;W[rp];B[qo]
+(;W[rq];B[ro]C[Oh dear.])
+(;W[ro];B[po]
+(;W[rq];B[rn]C[Not good.])
+(;W[op];B[rq]C[Black escapes.]))))
+(;W[op];B[qp];W[rq];B[rp]C[Oops.]))
+(;W[rq];B[or];W[qs];B[pq]C[Nope.])
+(;W[or];B[rq]
+(;W[rp];B[qp];W[pq];B[ro]C[No...])
+(;W[qp];B[rp];W[ro];B[so];W[sp];B[rn]
+(;W[sn];B[qo];W[so];B[sm]C[:(])
+(;W[qo];B[sn];W[qn];B[rm]C[Black escapes...])))
+(;W[os]
+(;B[or]C[CHOICE];W[pq];B[ns]C[Nope.])
+(;B[pq]C[CHOICE]
+(;W[qs];B[or];W[ps];B[ns]C[Gah.])
+(;W[or];B[rq];W[qp];B[rp];W[ro];B[so];W[sp];B[qo]
+(;W[sn];B[pp])
+(;W[pp];B[rn])
+(;W[rn];B[pp]))))))

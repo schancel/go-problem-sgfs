@@ -1,0 +1,77 @@
+(;GE[life and death]DI[4k]DP[30]SO[BartTM]CO[8]AB[ar]AB[bq]AB[bo]AB[cp]AB[do]AB[fo]AB[fp]AB[hp]AB[hq]AB[hr]AB[jr]AW[br]AW[bs]AB[cr]AW[cq]AW[dq]AW[eq]AW[gq]AW[gr]AP[goproblems]
+(;W[ds]
+(;B[gs]C[CHOICE]
+(;W[fs];B[fr]
+(;W[fq];B[es];W[er]C[RIGHT])
+(;W[hs];B[fq])
+(;W[er];B[fq])
+(;W[es];B[fq]))
+(;W[dr];B[fq])
+(;W[fr];B[fs]
+(;W[es];B[hs]TR[dr]TR[fq]C[White is dead.])
+(;W[dr];B[fq])
+(;W[fq];B[es]))
+(;W[fq];B[fs])
+(;W[hs];B[fs])
+(;W[er];B[fs]))
+(;B[fr]C[CHOICE]
+(;W[fq];B[gs]
+(;W[fs];B[es]
+(;W[er]C[RIGHT])
+(;W[dr];B[hs]))
+(;W[er];B[fs])
+(;W[cs];B[fs])
+(;W[es];B[fs])
+(;W[dr];B[fs]))
+(;W[dr];B[fq])
+(;W[er];B[fq])
+(;W[gs];B[fq])
+(;W[fs];B[fq])))
+(;W[dr];B[fr]
+(;W[fq];B[gs]
+(;W[er];B[fs];W[es];B[cs]C[If White captures the triangled stones Black captures the corner stones; White has only one eye.]TR[fs]TR[fr]TR[gs])
+(;W[es];B[cs]LB[ds:A]LB[fs:B]C[If White A then Black B; if White B then Black C. White has only one eye.]LB[as:C])
+(;W[fs];B[es])
+(;W[cs];B[es])
+(;W[ds];B[fs]))
+(;W[er];B[fq])
+(;W[es];B[fq]LB[er:B]LB[cs:A]C[White now needs both A and B to live.])
+(;W[fs];B[fq]C[Dead as a dodo.])
+(;W[cs];B[fq]C[A and B are miai. C doesn't even have to be answered.]LB[es:A]LB[er:B]LB[fs:C])
+(;W[gs];B[fq]
+(;W[es]MA[er]MA[cs]C[Dead as it stands; White needs both marked points to live...])
+(;W[fs]C[White has only one eye.])
+(;W[cs]MA[es]MA[er]C[Dead, as White needs both marked points to live.])
+(;W[ds]C[Just one eye!])
+(;W[er]MA[cs]MA[es]C[Dead, as White needs both marked points to live.]))
+(;W[ds];B[fq]))
+(;W[es];B[cs])
+(;W[fq];B[cs])
+(;W[cs];B[fq]
+(;W[fr];B[dr]
+(;W[er];B[gs]
+(;W[fs];B[ds])
+(;W[ds];B[fs]))
+(;W[gs];B[ds])
+(;W[es];B[gs])
+(;W[ds];B[gs];W[fs];B[er]))
+(;W[dr];B[fr]C[A and B are miai.]LB[er:A]LB[es:B])
+(;W[er];B[fr]C[Just one eye.])
+(;W[es];B[fr]C[Just one eye.]))
+(;W[ap];B[cs]C[White cannot save the corner stones, and throwing in fails because of damezumari.])
+(;W[er];B[cs])
+(;W[fr];B[cs])
+(;W[fs];B[cs])
+(;W[gs];B[cs])
+(;W[aq];B[ap]C[Even if White proceeds to live this exchange has wasted a ko threat for no gain at all])
+(;W[bp];B[ap]C[White can still live, but this exchange just wastes a ko threat for no gain.])
+(;W[ep];B[cs]C[White may cut Black, but cannot escape, nor live, nor catch Black's surrounding group(s).])
+(;W[en];B[cs]C[White may cut Black, but cannot escape, nor live, nor catch Black's surrounding group(s).])
+(;W[ho];B[cs]C[White may cut Black, but cannot escape, nor live, nor catch Black's surrounding group(s).])
+(;W[co];B[cn]C[Although White can still live, this exchange only strengthened Black's outer position for no gain.])
+(;W[ao];B[cs])
+(;W[dp];B[cs])
+(;W[eo];B[cs])
+(;W[gp];B[go]C[];W[ds];B[gs];W[fs];B[er]
+(;W[dr];B[fq])
+(;W[fr];B[dr])))

@@ -1,0 +1,6 @@
+(;GE[best move]DI[20k]DP[73]SO[kochi]CO[7]AB[gf]AB[ge]AB[gd]AB[gc]AB[hc]AB[ic]AB[jc]AB[jb]AB[ja]AW[hb]AW[ha]AW[gb]AW[fb]AW[fa]AW[fc]AW[fd]AW[fe]AW[ff]AB[fg]AB[eg]AB[ef]AB[ee]AB[ce]AB[dc]AB[eb]AB[ea]AW[gg]AW[hg]AW[jd]AW[kc]AW[ld]AW[hf]AW[id]C[Play the best local move.]AW[jf]AW[lb]AB[dd]AW[ab]AW[cb]AW[bc]AW[ba]AW[ca]AB[db]AB[cd]AB[bd]AB[ad]AB[ac]AB[di]AP[goproblems]
+(;B[ec];W[kb]C[B's stones on the right are dead, so you wasted a ko threat.])
+(;B[cc]C[The other B stones are dead, so save them for ko threats.RIGHT])
+(;B[ed];W[kb]C[B's stones on the right are dead, so you wasted a ko threat.])
+(;B[ib];W[kb]C[B's stones on the right are dead, so you wasted a ko threat.])
+(;B[ia];W[kb]C[B's stones on the right are dead, so you wasted a ko threat.]))

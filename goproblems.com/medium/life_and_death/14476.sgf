@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2k]DP[22]SO[MrMoto]CO[0]AW[ae]AW[be]AW[ce]AW[de]AW[ed]AW[ec]AW[eb]AW[fa]AW[fb]AW[ff]AW[gc]AB[bd]AB[cd]AB[dd]AB[dc]AB[cb]AB[da]C[White to kill.]AP[goproblems]
+(;W[ad];B[bc])
+(;W[ac];B[ad])
+(;W[db];B[bc])
+(;W[bb];B[bc])
+(;W[ab];B[bc])
+(;W[ba];B[bc])
+(;W[bc];B[ad]
+(;W[bb];B[ba]
+(;W[db];B[ab])
+(;W[ab];B[db]C[This will turn into ko or seki.]))
+(;W[ba];B[bb])
+(;W[db]
+(;B[bb]C[CHOICE]
+(;W[ac];B[cc];W[ca]C[RIGHT])
+(;W[ca];B[ac];W[ea];B[aa])
+(;W[ab];B[cc];W[ba];B[ac];W[ea];B[aa]C[White gets a ko ... but you could have killed.]))
+(;B[ab]C[CHOICE]
+(;W[cc];B[ac])
+(;W[bb];B[ba])
+(;W[ba]C[RIGHT])))))

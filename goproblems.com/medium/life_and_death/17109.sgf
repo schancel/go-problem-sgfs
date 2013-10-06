@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3k]DP[27]SO[1234boys]CO[0]AB[ss]AB[sr]AW[rs]AW[rr]AB[sq]AB[rq]AW[qq]AW[qp]AW[ps]AB[ns]AB[mr]AB[mq]AB[mp]AW[nr]AW[nq]AW[np]AW[oo]AW[po]AW[qo]AB[mo]AB[no]AB[nn]AB[on]AB[pn]AB[rn]AB[qn]AB[ro]AB[rp]C[Black to kill.]AP[goproblems]
+(;B[qr]LB[qr:1];W[pr]LB[qr:1]LB[pr:2];B[oq]LB[qr:1]LB[pr:2]LB[oq:3];W[qs]LB[pr:2]LB[oq:3]LB[qs:4];B[or]LB[pr:2]LB[oq:3]LB[or:5]LB[qs:4];W[op]LB[pr:2]LB[oq:3]LB[qs:4]LB[or:5]LB[op:6];B[pq]LB[pr:2]LB[oq:3]LB[qs:4]LB[or:5]LB[op:6]LB[pq:7]C[Well done!RIGHT])
+(;B[pr]
+(;W[or]
+(;B[qr];W[pq];B[qs];W[op])
+(;B[pq]
+(;W[qr];B[op];W[os];B[ms]C[])
+(;W[op];B[qr]C[RIGHT])))
+(;W[qr];B[or]C[RIGHT]))
+(;B[or]
+(;W[pq]C[CHOICE]
+(;B[qr];W[pr]
+(;B[qs];W[os])
+(;B[oq];W[op]))
+(;B[pr]C[RIGHT]))
+(;W[pr];B[op]C[RIGHT]))
+(;B[oq];W[pr];B[or];W[op]
+(;B[pq];W[os])
+(;B[os];W[pq]))
+(;B[pq];W[pr];B[qr];W[oq];B[qs];W[pp]))

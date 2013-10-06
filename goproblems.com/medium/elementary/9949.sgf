@@ -1,0 +1,11 @@
+(;GE[elementary]DI[2k]DP[23]SO[Bleedo]CO[5]C[How many ko threats can you squeeze out of this living group? Side note: The ko is worth less than this group.]AB[ka]AB[jb]AB[jc]AB[kc]AB[lc]AB[ld]AB[md]AB[nd]AB[od]AB[pd]AB[qd]AB[qc]AB[rb]AB[qa]AW[kb]AW[lb]AW[ma]AW[mc]AW[nc]AW[oc]AW[pc]AW[pb]AW[qb]AW[nb]LB[jf:0]LB[lf:1]LB[nf:2]LB[pf:3]LB[rf:4]AP[goproblems];B[rf]AW[pf]AW[nf]AW[lf];W[jf]C[Prove it!]
+(;B[oa];W[pa]
+(;B[na];W[ob]
+(;B[ja];W[la];B[na];W[oa]C[You got 'emRIGHT])
+(;B[na];W[oa];B[ja];W[la]C[You got 'emRIGHT]))
+(;B[ja];W[la];B[na];W[ob];B[na];W[oa]C[You got 'emRIGHT])
+(;B[ob];W[la]C[Only 2 Threats]))
+(;B[ja];W[oa]C[Only 1 threat])
+(;B[pa];W[oa]C[Only 1 Threat])
+(;B[ob]C[Not Threat])
+(;B[na]C[Not Threat]))

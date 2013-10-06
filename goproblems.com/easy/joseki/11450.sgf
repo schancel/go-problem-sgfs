@@ -1,0 +1,34 @@
+(;GE[joseki]DI[4k]DP[29]SO[randomly_anonymous]CO[0]AB[qc]C[3-3 Joseki. Please begin at the triangle.FORCE]TR[pd]AP[goproblems];W[pd];B[qd]C[FORCE]
+(;W[pe]
+(;B[pc]C[FORCE]
+(;W[nd];B[oc]C[FORCE]
+(;W[mf]
+(;B[qf]C[FORCE];W[nc]C[CHOICERIGHT])
+(;B[mc]C[FORCE];W[qe]C[CHOICERIGHT]))
+(;W[nc];B[od];W[oe];B[ne]C[This looks difficult for white.CHOICE]))
+(;W[oc];B[nc]C[This is bad for white. Instead pf P17, White should have played O16. The triangles are miai for black]
+(;W[od];B[ob]C[No good. White is heavy, and black has a good position on the top side.CHOICE])
+(;W[ob];B[od]
+(;W[nb];B[mc];W[nd];B[oe];W[md]C[White can only play here if the ladder to lower left is favourable for her (at the triangle), otherwise, black will extend at A, and white will be in big trouble. Even if black makes the Q14-M17 exchange in the even of a favourable ladder for white, his position is still better.CHOICE]TR[of]LB[lc:A])
+(;W[nd];B[oe];W[mc];B[ne];W[md];B[pf]C[This is obviously very bad for white.CHOICE])))
+(;W[qe]C[Bad for white.];B[od];W[oe];B[nd]
+(;W[qi];B[jc]C[Black is better off.CHOICE])
+(;W[pi];B[jc]C[Black is better off.CHOICE])))
+(;B[ob]C[FORCE]
+(;W[md];B[rf];W[ph]C[CHOICERIGHT])
+(;W[qe];B[nd]
+(;W[qi]C[CHOICERIGHT]))))
+(;W[pf]
+(;B[od]C[FORCE];W[oe]
+(;B[oc]C[Black will play here for sente as opposed to the usual continuation at Q17];W[me]C[RIGHT])
+(;B[pc]C[FORCE];W[nd];B[pe]TR[ne]C[The marked points are symmetrical, so please only play on the right side.CHOICEFORCE]MA[qe]MA[oc]TR[of]
+(;W[qe]C[BAD move for white.];B[ne];W[pd];B[oc];W[md];B[nf];W[of]C[CHOICE];B[le];W[kc];B[nh]C[This looks difficult for white.CHOICE])
+(;W[of];B[nc]C[FORCE];W[md];B[mc]C[FORCE];W[ld]C[CHOICERIGHT])
+(;W[nf];B[qf]C[FORCE];W[pg]
+(;B[qg]C[FORCE];W[ph]C[CHOICERIGHT])
+(;B[me]C[FORCE];W[oc];B[ob]C[FORCE];W[pd];B[qe]C[CHOICERIGHT]))))
+(;B[pe]C[FORCE];W[oe];B[qe]C[FORCE]
+(;W[mf];B[nc]C[RIGHT])
+(;W[of]
+(;B[qg]C[FORCE];W[nc]C[RIGHT])
+(;B[nc]C[FORCE];W[qf]C[RIGHT])))))

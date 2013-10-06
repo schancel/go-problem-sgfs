@@ -1,0 +1,47 @@
+(;GE[life and death]DI[2d]DP[12]SO[tderz]CO[7]AB[aq]AB[bq]AB[bp]AB[cp]AB[dp]AB[cr]AB[eq]AB[fq]AB[gp]AW[ap]AW[ao]AW[bo]AW[co]AW[do]AW[eo]AW[ep]AW[dq]AW[dr]C[White to move.What is the status of the Black group? Dead, Ko or Seki?          What influence would white stones around a, b, c have?]LB[is:a]LB[ir:b]LB[hr:c]AP[goproblems]
+(;W[bs]C[The 1-2 is the keypoint.  =>                                                                                                                     Everything else is wrong and should fail unless Black makes mistakes too..]
+(;B[br]C[Again the only move, threatening oshi-tsubushi, quenching (sqashing/squishing) for life with bA1, wA2, bC1 alive.]
+(;W[cs]C[What type of ko could result from here, seki in sente or gote? These are giveaways, however in the navigate solution only..];B[er]C[Which reply is now better?: A1 or D1? Is white A2 possible?CHOICE]
+(;W[ar];B[as]C[Direct ko, black takes first? Success for Black? White should have connected at D1 after Black played E2 in order to get sente. However, as pointed out by Grebble, White can connect at D1 now (using it as internal ko-threat!), black E2 and white takes the ko first!.];W[ds]C[White can connect at D1, using it as internal ko-threat!];B[es];W[ar]C[Direct ko, white takes first! Hence starting the ko with A1 was not favourable for Black.RIGHT])
+(;W[as]C[White can also play 5 here and chose seki if the ko is favourable for black.If Black would like to prevent this, he could deviate one move before (4) to A1 himself.However, then it is White who takes the ko first! White A1 here however is inferior vs. D1 (gote seki: Black E1, w D1), which means tha even this solution does not get full marks!CHOICE];B[es];W[ds])
+(;W[ds]C[White D1 is much better because Black must reply at E1 (the approach-move ko at A1 against  Black (White takes first) is very unfavourable ).The choice A1 or D1 is thus not about an endgame at E1 but about sente. With D1 white gets sente, because either player refrains now from starting an unfavourable ko against him/herself at A1, resp. A2. Either player can resolve with A2 resp. A1 in gote for seki.]
+(;B[as];W[ar]C[This approach-move ko (Yose-ko) is not at all favourable for Black. He can do much better (getting direct ko or seki) by taking the outside liberties first (as usual).])
+(;B[es]C[The final result: a mannen-ko (10.000 year ko/seki) type situation.Sente for White! Can you imagine? Have a look at the comments (too big for only 3 lines) in the navigate solution. CHOICERIGHT]
+(;W[as]C[White can chose this gote-seki if Black comes away too well with the other option: ko for Black where White has too look first for the Ko-threat.RIGHT])
+(;W[ar]C[If White evaluates this direct ko favourable for herself, despite that Black will take first, she can play this way.];B[as]C[If White evaluates this direct ko favourable for herself, despite that Black will take first, she can play this way.]))))
+(;W[ar];B[cs]C[Life by 'oshi-tsubushi', literally  'push and smash (squish)'.http://senseis.xmp.net/?Oshitsubushi])
+(;W[ds];B[cs]
+(;W[cq];B[as])
+(;W[as];B[er])))
+(;B[cs]C[Once Black answered here, death is unpreventable.];W[br]
+(;B[ar];W[cq];B[as];W[br];B[bs];W[ds])
+(;B[ds];W[es];B[cq];W[ar])))
+(;W[br]C[White's hallucination, hoping for black A2 now.]
+(;B[ar];W[bs];B[cs]
+(;W[ds]C[This white move is wrong (should be C3). It does not give a consecutive series of ataris. Because black has an eye and 3 liberties, white then will lose this fight 'me ari me nashi' with her own 3 liberties. Reverting almost to the other wrong variation.];B[as]
+(;W[cq];B[er]C[White lost.])
+(;W[br];B[er]C[White lost.]))
+(;W[cq];B[as];W[br];B[bs];W[ds]C[wrong+wrong = correct? or how to come with consecutive, mutual mistakes (wB2 + bA2) to a correct result.]))
+(;B[bs]C[Black plays here and is alive. As usual in Go, Black & White are allowed to commit mistakes!CHOICE];W[ar];B[as]
+(;W[ds];B[er];W[br]C[White dies in gote.])
+(;W[es];B[er];W[fs];B[ds];W[cs];B[cq]C[Even if there are white stones on the right, Black has nothing to fear about.])))
+(;W[ar]C[This move is wong. However, black has still 4 moves to get it wrong ... and only 2 to punish White for her wrong A2. Find them!CHOICE]
+(;B[er]
+(;W[br];B[cq];W[cs]C[Wrong + wrong = ?])
+(;W[cs];B[bs]C[White lost.]))
+(;B[cq];W[cs]C[Wrong + wrong = ?])
+(;B[cs]C[In some other problems this seems to be the tesuji, but now white will atari from the left ....];W[br];B[cq];W[ds]C[Wrong + wrong = correct?])
+(;B[br]
+(;W[bs];B[cs]C[Wrong + wrong = ? Black is alive by 'oshi-tsubushi'.])
+(;W[cs];B[bs]
+(;W[cq];B[ds];W[er];B[fr]C[White lost , because the A2 - starting move was countered by black.])
+(;W[ds];B[er])))
+(;B[ds]C[Often a good move for taking the liberties, but now white ataris from the left ...];W[br]C[wrong + wrong = correct?])
+(;B[bs]C[Also a stylish way for Black to make an eye. White cannot approach the eye without herself taking a liberty away (and losing: 'me ari me nashi')];W[es]C[Threatening ko... and a connection to points a, b or c.]LB[is:a]LB[ir:b]LB[hr:c]
+(;B[gn]C[Tenuki?];W[cq];B[br];W[cs];B[ds]C[The ko.])
+(;B[gr]C[This would be a normal way to stop white's connection to neighbouring groups (a, b, not c), but then ...]LB[is:a]LB[ir:b]LB[hr:c];W[gs];B[hs];W[fs];B[hr];W[cq];B[br];W[cs]C[The ko. (far inferior to a clean kill)])
+(;B[er]
+(;W[gs]LB[is:a]LB[ir:b]LB[hr:c]C[Wants to connect to a, b and c.];B[ds]C[This throw-in resolves the problems.];W[cs];B[fs]LB[ds:1]C[Better to take the ko 1 now (if there is white on either a or c), but I want to shorten the SGF-path (strenuous)]LB[is:a]LB[ir:b]LB[hr:c];W[fr];B[gr]LB[ds:1]LB[fs:2]LB[is:a]LB[ir:b]LB[hr:c]LB[cq:d]C[Black's problem is, that he cannot atari at d (auto-atari), neither can white at this moment. However Black must also stop white's connection to the right side. Against only a white b helps black e. If there is a white 'a', then it is one of kos 1 or 2. If there is a white c, black could not even play here and he better had taken the ko 1 earlier..]LB[hs:e])
+(;W[fs];B[ds];W[cs];B[gr];W[gs]
+(;B[hs]LB[ir:b]C[If there is white b around, otherwise W jumps there herself..])
+(;B[ir];W[hr];B[hq];W[hs];B[is]))))))

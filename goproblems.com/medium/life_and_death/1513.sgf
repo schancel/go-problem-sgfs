@@ -1,0 +1,47 @@
+(;GE[life and death]DI[3k]DP[26]SO[Wervyn]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[Igo for windows]PB[Human]
+AW[dl][am][an][ao][bo][bp][dp][bq][cq][dr][fr][cs][ds][es][fs][gs]
+AB[al][cl][bm][cm][dm][gm][bn][cn][dn][co][eo][cp][dq][eq][fq][hq][er][gr][hs]C[Black to kill.]
+(;B[ar]CR[ar]
+(;W[aq]CR[aq]C[CHOICE]
+;B[bs]CR[bs]
+;W[cr]CR[cr]C[It's the famous two stone seki!])
+(;W[br]CR[br]C[CHOICE]
+;B[aq]CR[aq]
+;W[bs]CR[bs]C[WRONG White puts a stop to your evil plans!]))
+(;B[bs]CR[bs]
+;W[cr]CR[cr]
+;B[ar]CR[ar]
+;W[br]CR[br]
+;B[aq]CR[aq]
+;W[as]CR[as]C[WRONG Ko in white's favor.  White stands to lose a lot, so a suitable threat is unlikely])
+(;B[br]CR[br]
+(;W[ar]CR[ar]C[CHOICE]
+(;B[bs]CR[bs]
+;W[cr]CR[cr]
+;B[aq]CR[aq]
+;W[as]CR[as]C[The pain of loss.])
+(;B[aq]CR[aq]
+(;W[bs]CR[bs]C[CHOICE]
+;B[as]CR[as]C[RIGHT Ko in favor of black.  Given the size of the prize, it's unlikely that white has a viable threat.])
+(;W[ap]CR[ap]C[CHOICE]
+;B[bs]CR[bs]
+;W[cr]CR[cr]
+;B[aq]CR[aq]C[RIGHT White = 0wz0rd])))
+(;W[cr]CR[cr]
+;B[aq]CR[aq]
+(;W[bs]CR[bs]
+;B[ar]CR[ar]C[Dead as a proverbial doornail.])
+(;W[ar]CR[ar]
+;B[as]CR[as]C[Butt-whooped.])
+(;W[as]CR[as]
+;B[ar]CR[ar]C[Would be seki, but b1 works for black.]))
+(;W[aq]CR[aq]
+;B[cr]CR[cr]C[Divided and conquered.])
+(;W[bs]CR[bs]C[CHOICE]
+(;B[ar]CR[ar]
+;W[aq]CR[aq]C[Whoopsie.])
+(;B[aq]CR[aq]
+;W[ar]CR[ar]
+;B[as]CR[as]C[RIGHT Ko in favor of black.  Given the size of the prize, it's unlikely that white has a viable threat.]))))

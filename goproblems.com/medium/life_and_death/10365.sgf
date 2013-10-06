@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[19]SO[kaf]CO[10]AB[bq]AB[bp]AB[cp]AB[dp]AB[eq]AB[fq]AB[gq]AB[gr]AB[hr]AB[hs]AW[cr]AW[cq]AW[dq]AW[er]AW[fr]AW[fs]AW[gs]AW[bo]AW[co]AW[do]AW[eo]AW[ep]AW[ir]AW[iq]AW[kr]AW[hp]AW[go]C[black to live]AP[goproblems]
+(;B[ds]
+(;W[br]C[CHOICE]
+(;B[dr];W[cs]
+(;B[ar];W[es]
+(;B[dr]
+(;W[ds]C[CHOICE];B[bs]C[yes, - ko is the best that black can get hereRIGHT])
+(;W[ap];B[ds];W[aq];B[fs]C[RIGHT]))
+(;B[bs];W[ap])
+(;B[ds];W[dr];B[bs]C[yes, - ko is the best that black can do here.RIGHT]))
+(;B[es];W[fs]))
+(;B[es];W[dr])
+(;B[ar];W[dr])
+(;B[bs];W[ar];B[dr];W[cs];B[es];W[fs]))
+(;W[cs];B[bs];W[br];B[ar]C[RIGHT]))
+(;B[bs];W[ds])
+(;B[br];W[ds])
+(;B[cs];W[ds]))

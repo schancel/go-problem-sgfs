@@ -1,0 +1,10 @@
+(;GE[life and death]DI[6k]DP[37]SO[Spirit]CO[7]AB[lb]AB[lc]AB[ld]AB[me]AB[na]AB[ne]AB[oa]AB[od]AB[of]AB[pf]AB[qa]AB[qd]AB[qe]AB[qf]AB[rb]AB[rc]AW[ma]AW[mb]AW[mc]AW[nb]AW[nd]AW[ob]AW[oe]AW[pc]AW[pd]AW[pe]AW[qc]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[oc]MN[1];W[pa]
+(;B[pb]
+(;W[oa]C[CHOICE];B[qb]C[RIGHT])
+(;W[qb]C[CHOICE];B[pb]C[RIGHT])
+(;W[nc]C[CHOICE];B[oa]C[RIGHT]))
+(;B[qb];W[pb])
+(;B[oa];W[pb]))
+(;B[pb];W[oc])
+(;B[pa];W[oc]))

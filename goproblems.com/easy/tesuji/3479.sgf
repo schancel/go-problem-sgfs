@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[6k]DP[36]SO[bass]CO[7]AB[ca]AB[cb]AB[cc]AB[dd]AB[ed]AB[fd]AB[fc]AB[fb]AB[gb]AB[ga]AW[ha]AW[hb]AW[gc]AW[gd]AW[ge]AW[fe]AW[ee]AW[de]AW[ce]AW[cd]AW[bc]AW[bb]AW[ba]AP[goproblems]
+(;W[dc];B[db];W[eb];B[ec];W[ea]C[Gote seki, and black got one point.])
+(;W[eb]
+(;B[ea]C[CHOICE]
+(;W[dc];B[da]C[Sente seki.RIGHT])
+(;W[db];B[da]C[Black lives.]))
+(;B[db]C[]
+(;W[ea];B[ec]C[Sente seki.RIGHT])
+(;W[dc];B[ec];W[ea]C[Gote seki, and black got one point.])))
+(;W[db];B[dc]C[Black lives.])
+(;W[ea];B[eb]C[Black lives]))

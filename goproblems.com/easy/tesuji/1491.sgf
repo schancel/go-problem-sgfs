@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[12k]DP[59]SO[Battousai]CO[7]AW[rr][qq][rp][sp][pq][or][pl][rl]AB[nr][oq][mq][pp][qp][ro][so][pn][om][ol][pk][qk][qj][mo]C[Black doesn't realize that you can hurt him, so give him a jolly rogering]SZ[19]
+
+(;W[op];B[nq]
+(;W[qo];B[po]
+(;W[qn];B[rn]
+(;W[qm]MA[op]C[RIGHT He gave his life for the benefit of the cause.  We'll remember you P4!])
+(;W[rm];B[qm])
+(;W[sn];B[qm])
+(;W[sm];B[qm])
+(;W[pm];B[qm]))
+(;W[rn];B[qn])
+(;W[sn];B[qn])
+(;W[qm];B[qn])
+(;W[rm];B[qn]))
+(;W[po];B[qo])
+(;W[oo];B[po])
+(;W[rn];B[qo])
+(;W[sn];B[qo])
+(;W[qn];B[qo]))
+(;W[qo];B[qn];W[op];B[po]C[RIGHT This definitely works, but going at P4 first may have been better, as explained in the comments by Tommy 3d.])
+(;W[nq];B[np])
+(;W[po];B[oo])
+(;W[qn];B[qo])
+(;W[rn];B[qo])
+(;W[sn];B[qo])
+(;W[oo];B[po]))

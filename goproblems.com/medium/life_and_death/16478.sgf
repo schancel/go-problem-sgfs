@@ -1,0 +1,26 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[0]AB[jr]AB[ls]AB[lr]AB[lq]AB[hq]AB[hr]AB[hs]AW[gs]AW[gr]AW[gq]AW[hp]AW[ip]AW[kp]AW[lp]AW[jo]AW[mq]AW[mr]AW[ms]AW[mo]AW[go]C[Surely not all is lost?]AP[goproblems]
+(;B[kq]
+(;W[jq]C[CHOICE]
+(;B[iq]
+(;W[js];B[jp]C[ko, nice!RIGHT])
+(;W[ks];B[jp]C[RIGHT]))
+(;B[ks];W[ir]LB[iq:A]C[Cannot play at A!])
+(;B[js];W[ir]C[Cannot play at A!]LB[iq:A])
+(;B[ir];W[ks]LB[kr:1]LB[js:2])
+(;B[is];W[iq]MA[ir]MA[ks]))
+(;W[ks]C[CHOICE]
+(;B[iq];W[jq];B[jp]C[ko, nice!RIGHT])
+(;B[jq];W[iq]MA[ir]MA[js])
+(;B[ir];W[js])
+(;B[js];W[jq]MA[kr]MA[ir])
+(;B[is];W[iq])))
+(;B[jq];W[kq]
+(;B[kr];W[iq]MA[ir]MA[js])
+(;B[iq];W[kr])
+(;B[js];W[kr]))
+(;B[kr];W[iq]MA[ir]MA[js])
+(;B[ks];W[kq])
+(;B[js];W[kr];B[kq];W[jq];B[ks];W[ir]LB[iq:A]C[Cannot play at A!])
+(;B[iq]C[NOTTHIS])
+(;B[ir]C[NOTTHIS])
+(;B[is]C[NOTTHIS]))

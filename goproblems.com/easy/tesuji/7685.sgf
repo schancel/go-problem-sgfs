@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[12k]DP[56]SO[adum]CO[8]AW[pj]AW[pl]AW[ql]AW[qm]AW[rm]AW[sm]AB[rl]AB[rk]AB[qj]AW[ri]AB[rh]AW[qh]AW[rf]AW[qf]AW[oh]AB[oj]AB[ok]AB[ol]AB[nk]AB[pm]AB[pn]AB[qn]AB[rn]AW[mk]AW[ml]AW[nl]AW[nm]AW[om]AW[nj]AW[ni]AW[mh]AW[og]LB[pj:1]C[white plays one. how to win this situation?]AP[goproblems]
+(;B[pk];W[qk]
+(;B[pi];W[oi]
+(;B[pj];W[rj]
+(;B[sn]C[RIGHT])
+(;B[sl];W[sk])
+(;B[qi];W[ph])
+(;B[ph];W[pg]))
+(;B[rj];W[pj])
+(;B[qi];W[pj]))
+(;B[rj];W[oi])
+(;B[oi];W[pi])
+(;B[qi];W[pi]))
+(;B[pi];W[pk]
+(;B[oi];W[qi])
+(;B[qi];W[oi])
+(;B[qk];W[oi]))
+(;B[qk];W[pk])
+(;B[oi];W[pi])
+(;B[qi];W[pk])
+(;B[rj];W[pk])
+(;B[sn];W[pk])
+(;B[sl];W[pk]))

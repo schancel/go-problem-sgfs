@@ -1,0 +1,31 @@
+(;GE[life and death]DI[10k]DP[54]SO[Munisai79]CO[8]AB[ca]AB[da]AB[db]AB[cc]AB[cd]AB[ce]AB[be]AB[bf]AB[af]AW[ag]AW[bg]AW[cf]AW[cg]AW[de]AW[dd]AW[dc]AW[ea]AW[eb]AW[fc]LB[ea:1]LB[da:2]C[Black has played 2 in response to 1.  What can white do?]AP[goproblems]
+(;W[bb];B[cb]
+(;W[ac];B[ad]
+(;W[ba];B[bc])
+(;W[bc];B[ba]))
+(;W[ad]
+(;B[bc]C[CHOICE];W[ac];B[ba];W[ab]C[Gote seki.  RIGHT])
+(;B[ac];W[bc]
+(;B[ba];W[ab];B[bd])
+(;B[bd];W[ab];B[ba])))
+(;W[bd];B[bc]
+(;W[ac];B[ad])
+(;W[ad];B[ab])
+(;W[ab];B[ad]))
+(;W[bc];B[ba]
+(;W[ad]C[]
+(;B[ab]C[CHOICE]
+(;W[ac]C[Thousand-year ko.  Check out the excellent comments on this position.  :)  Thanks everyone!RIGHT])
+(;W[ae]C[Gote seki.RIGHT])
+(;W[bd]C[Gote seki.  RIGHT]))
+(;B[ac];W[ab];B[bd]C[]))
+(;W[ab]C[]
+(;B[ad]C[CHOICE];W[bd]C[Gote seki.RIGHT])
+(;B[bd];W[ad]C[Gote seki.RIGHT]))
+(;W[bd];B[ad];W[ab]C[Gote seki.RIGHT])
+(;W[ac];B[ad];W[aa]C[This is an unfavorable ko for white.])
+(;W[aa];B[ad];W[ac]C[This is an unfavorable ko for white.])))
+(;W[ba];B[cb]
+(;W[bb];B[bc])
+(;W[bc];B[bb];W[ab]C[Unfavorable ko for white.])
+(;W[ab];B[ad];W[bc];B[bb]C[])))

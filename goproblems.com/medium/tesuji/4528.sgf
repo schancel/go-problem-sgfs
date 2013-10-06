@@ -1,0 +1,38 @@
+(;GE[tesuji]DI[2d]DP[12]SO[huhss]CO[8]SZ[19]AB[cs]AB[ds]AB[er]AB[eq]AB[hq]AB[hr]AB[cr]AB[cq]AB[cp]AB[bo]AB[bn]AB[cm]AB[em]AW[bp]AW[bq]AW[br]AW[co]AW[do]AW[dp]AW[dq]AW[dr]AW[ep]AW[gp]AW[gr]C[black to play]TR[bp]TR[bq]TR[br]AP[MultiGo:3.6.0]
+(;B[es]
+(;W[gs]
+(;B[bs];W[fq]
+(;B[ap]C[RIGHT])
+(;B[ar]C[RIGHT]))
+(;B[ap];W[fq];B[aq];W[fr];B[ar]C[, but it is not bestRIGHT])
+(;B[fq];W[gq]
+(;B[bs];W[fp];B[ap];W[fr];B[aq]C[, but it is not bestRIGHT])
+(;B[ap];W[fp];B[aq];W[fr];B[ar]C[, but it is not bestRIGHT]))
+(;B[gq];W[fq];B[fr];W[fp]
+(;B[hs]C[RIGHT])
+(;B[bs]C[right, but I don't want to take this variation as solution. ^^RIGHT])))
+(;W[fs];B[fr]C[RIGHT])
+(;W[fr];B[gs]LB[fs:A]LB[gq:B]C[];W[fs];B[gq]C[RIGHT])
+(;W[fq];B[gs]C[RIGHT]))
+(;B[fr];W[es];B[fs];W[bs];B[es];W[gs]C[wrong])
+(;B[gq];W[fq]
+(;B[fr];W[bs]C[wrong])
+(;B[gs];W[bs];B[es];W[fr]C[wrong]))
+(;B[bs];W[fs]
+(;B[es];W[fq];B[ap];W[fr]C[wrong])
+(;B[ar];W[es])
+(;B[fr];W[fq]))
+(;B[ap];W[bs];B[es];W[fq]
+(;B[aq];W[fr]C[wrong])
+(;B[gs];W[fs]))
+(;B[fs];W[bs];B[es];W[gs];B[gq];W[fq]C[wrong])
+(;B[fq];W[gq];B[es];W[fs];B[ap];W[fp];B[aq];W[fr]C[wrong])
+(;B[gs];W[fs]
+(;B[gq];W[hs]
+(;B[fr];W[bs]C[wrong])
+(;B[fq];W[es]C[wrong])
+(;B[es];W[fq]C[wrong]))
+(;B[fr];W[hs]
+(;B[gq])
+(;B[es]C[ko])
+(;B[bs];W[fq];B[ar];W[es]))))

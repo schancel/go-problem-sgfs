@@ -1,0 +1,24 @@
+(;GE[life and death]DI[5d]DP[5]SO[ferdi]CO[8]SZ[19]AW[ad]AW[cd]AW[dd]AW[ed]AW[fd]AW[be]AW[ce]AW[dg]AW[eg]AW[fg]AW[ch]AW[bi]AW[ci]AW[cj]AB[eb]AB[bc]AB[cc]AB[dc]AB[fc]AB[gc]AB[bd]AB[gd]AB[cf]AB[gf]AB[gg]AB[dh]AB[fh]AB[di]AB[fi]AB[bj]AB[dj]AB[bk]AB[ck]C[Black to play]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[WeiÃƒÅ¸]PB[Schwarz]
+(;B[cg];W[bg]
+(;B[ai];W[bh]
+(;B[df];W[ef]
+(;B[ah]C[Now white can't get two eyes]
+(;W[bf];B[fe];W[ag];B[ae];W[aj];B[ai]C[ CHOICERIGHT])
+(;W[ag]
+(;B[fe];W[aj];B[ai];W[bf];B[ae]C[ CHOICERIGHT])
+(;B[bf]LB[fe:A]C[Possible, but A is better];W[aj];B[ai]
+(;W[fe];B[af]C[ CHOICERIGHT])
+(;W[af];B[fe]C[ CHOICERIGHT]))
+(;B[ae];W[fe])))
+(;B[fe];W[ah];B[bf];W[aj];B[ee];W[de]))
+(;B[ff];W[df];B[ee];W[ah])
+(;B[ah];W[df];B[fe];W[ee]C[White lives!]))
+(;B[df];W[ah];B[ef];W[bf]C[Black has captured three stones, but the white group lives]))
+(;B[df];W[cg]C[There is no weakness in whites formation, he lives without any problems]
+(;B[ef];W[ff])
+(;B[bf];W[bg]))
+(;B[bg];W[cg]C[There is no weakness in whites formation now, so he lives without any problems];B[bf];W[df]C[In this position,  D15 is an eye!])
+(;B[ai];W[cg]C[The black hane looks dangerous, but white connects and can live after that]
+(;B[ag];W[df];B[bf];W[bg];B[af];W[ah];B[bh];W[ae])
+(;B[bf];W[df];B[ag];W[bg];B[af];W[ah];B[bh];W[ae])
+(;B[ff];W[df];B[ag];W[ee];B[bf];W[bg];B[af];W[ah];B[bh];W[ae])))

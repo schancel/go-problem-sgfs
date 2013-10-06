@@ -1,0 +1,25 @@
+(;GE[life and death]DI[18k]DP[66]SO[utku]CO[6]SZ[19]AW[bb]AW[cb]AW[db]AW[eb]AW[bc]AB[aa]AB[fa]AB[fb]AB[cc]AB[dc]AB[ec]AB[fc]AB[ad]AB[bd]AB[cd]C[Black plays and kill. Have more than one correct answer.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Beyaz]PB[Siyah]
+(;B[ea];W[da]
+(;B[ba]C[RIGHT])
+(;B[ac];W[ab];B[ba]C[RIGHT])
+(;B[ab];W[ac];B[ba];W[ca];B[aa]C[RIGHT]))
+(;B[ba];W[ca]
+(;B[ea]C[RIGHT])
+(;B[ac];W[ea];B[ab]C[RIGHT])
+(;B[ab];W[ac]
+(;B[ea];W[aa])
+(;B[aa];W[ea])))
+(;B[ab];W[ac]
+(;B[ea]
+(;W[da];B[ba];W[ca];B[aa]C[RIGHT])
+(;W[ba];B[da]C[RIGHT]))
+(;B[ba];W[ca]
+(;B[aa];W[ea])
+(;B[ea];W[aa])))
+(;B[ac];W[ab]
+(;B[ea]
+(;W[ba];B[da]C[RIGHT])
+(;W[da];B[ba]C[RIGHT]))
+(;B[ba]C[RIGHT]))
+(;B[ca];W[ba])
+(;B[da];W[ea]))

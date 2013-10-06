@@ -1,0 +1,16 @@
+(;GE[life and death]DI[5k]DP[33]SO[chrise]CO[8]AB[cs]AB[cr]AB[cq]AB[co]AB[bo]AB[ao]AB[cn]AW[br]AW[bq]AW[bp]AW[bn]AW[am]AW[cm]AW[cl]AW[dl]AW[el]AW[fm]AW[fn]AW[en]AW[fo]AW[gp]AW[hp]AW[jp]AW[gq]AW[fq]AW[fr]AW[es]AW[ds]AW[dr]AB[er]AB[eq]AB[ep]AB[eo]AB[fp]AB[dp]AB[dn]AB[dm]AB[em]AB[go]AB[hn]AB[in]AB[jn]AW[hm]AW[im]AW[gl]AW[fk]C[Black played tenuki thinking that the corner is safe and sound. Can white find something useful?]AW[bl]AP[goproblems]
+(;W[cp];B[bs]
+(;W[ar];B[ap]
+(;W[fs];B[aq])
+(;W[an];B[dq];W[fs]C[SekiRIGHT]))
+(;W[an];B[ar])
+(;W[fs];B[dq];W[ar];B[ap];W[an]C[SekiRIGHT])
+(;W[ap];B[ar])
+(;W[aq];B[ap])
+(;W[dq];B[fs]))
+(;W[bs];B[cp];W[ap];B[ar])
+(;W[ap];B[cp]
+(;W[bs];B[ar])
+(;W[ar];B[bs]))
+(;W[fs];B[cp])
+(;W[an];B[cp]))

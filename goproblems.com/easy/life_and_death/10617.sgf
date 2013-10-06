@@ -1,0 +1,17 @@
+(;GE[life and death]DI[12k]DP[57]SO[zafris]CO[5]AW[fi]AW[gi]AW[hi]AW[ii]AW[ji]AW[ig]AW[jg]AW[kh]AB[ki]AB[kj]AB[kg]AB[kf]AW[if]AB[hf]AB[hg]AB[gg]AW[fg]AW[lh]AW[lg]AW[li]AW[mg]AW[ng]AW[nh]AW[ni]AW[mi]AW[gf]AB[gc]AB[hc]AB[ic]AB[jd]AB[ld]AB[kd]AB[nd]AB[oe]AB[pf]AB[ph]AB[pi]AB[ok]AB[nk]AB[lk]AB[jk]AB[hk]AB[fk]AB[dj]AB[ek]AB[dh]AB[df]AB[ee]AB[ed]C[White to live]AB[eh]AB[je]AP[goproblems]
+(;W[he];B[ge]
+(;W[hh];B[ff]
+(;W[jh]C[RIGHT])
+(;W[gh];B[jh];W[gf];B[hf]
+(;W[gg];B[ie])
+(;W[hg];B[fh]
+(;W[ie]C[RIGHT]))))
+(;W[ff];B[ie]
+(;W[hh];B[hd]
+(;W[jh]TR[ff]C[the marked stone wasn't neccessary to liveRIGHT])
+(;W[gh];B[jh];W[he];B[hf];W[hg];B[fh]C[];W[he]C[ko]))
+(;W[gh];B[hd];W[hh];B[jh];W[he];B[hf];W[hg];B[fh];W[he]C[ko]))
+(;W[gh];B[ff];W[hh];B[gf];W[jh]C[RIGHT]))
+(;W[hh];B[he];W[jh]C[RIGHT])
+(;W[gh];B[he];W[jh];B[hh])
+(;W[jh];B[hh];W[he];B[ge];W[ff];B[ie]))

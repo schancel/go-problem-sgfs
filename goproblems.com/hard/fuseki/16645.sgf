@@ -1,0 +1,11 @@
+(;GE[fuseki]DI[4d]DP[8]SO[inextremis]CO[0]AB[pd]AB[dp]AB[jq]AB[jo]AB[dd]AB[ce]AB[df]AB[ed]AB[fc]AB[gd]AB[eb]AW[bb]AW[bc]AW[bd]AW[cd]AW[dc]AW[ec]AW[db]AW[ca]AW[qo]AW[pq]AW[lo]AW[lq]C[What is the best response to this approach?]AW[nc]TR[nc]MA[pf]MA[jc]MA[kd]MA[lc]AP[goproblems]
+(;B[pf];W[kc]C[White limits the effectiveness of the thickness in the upper left corner.])
+(;B[jc]C[This is too close to Black's thickness. Also, it has little effect on the white stone. White can counterattack as marked.]MA[qf]MA[pf])
+(;B[kd];W[ne]MA[pf];B[pf];W[pb]MA[qc];B[qc];W[kb]C[Black suffers an incursion into an area which should have been made territory.])
+(;B[lc]
+(;W[qc]C[NOTTHIS];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[nb];W[qf]C[Black expands the moyo and gets a favorable result.RIGHT])
+(;W[ne]C[Yes, the narrow, severe pincer is correct. Now, how do you follow up? (White could also invade the corner, but this variation is more interesting.)CHOICE]
+(;B[pf];W[le]MA[jc]MA[jd]C[This move is also important.]
+(;B[jd];W[kc];B[kd];W[ld];B[kb];W[mc];B[lb]C[White's shape is fixed, limiting the effectiveness of the pincer.])
+(;B[jc];W[ng]MA[ph];B[ph]C[Correct. Black takes profit with the marked stone and can aim at peeping at the marked point. White is not yet settled, so Black can consider further attacks.RIGHT]TR[ph]MA[md]))
+(;B[qf]C[NOTTHIS]))))

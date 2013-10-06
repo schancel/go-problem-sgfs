@@ -1,0 +1,49 @@
+(;GE[endgame]DI[4d]DP[8]SO[severin333]CO[7]AW[qc]AW[qd]AW[re]AW[rf]AW[ob]AW[nb]AW[mb]AB[lb]AB[lc]AB[mc]AB[nc]AB[oc]AB[oe]AB[qe]AB[qf]AB[qg]AB[rg]TR[mb]TR[nb]TR[ob]MA[re]MA[rf]C[Black can capture the 3 marqued stones on the left, or the two on the right, do your best !  (White hasn't any threats but black has one if he need ^^)]
+(;B[pb]C[CHOICE]
+(;W[pc]C[CHOICE]
+(;B[qb];W[rb]
+(;B[rc]C[CHOICE]
+(;W[rd]C[];B[ra];W[sb];B[oa]C[You did itRIGHT])
+(;W[pa]C[CHOICE];B[rd];W[qa]
+(;B[sf]C[Ok];W[sc];B[se]C[RIGHT])
+(;B[se]C[Sorry, T14 is usually considered as a beter move than T15])))
+(;B[ra];W[pa];B[rc];W[qa];B[rd];W[sd]C[It seems that it doesn't work like that...]))
+(;B[rc];W[qb];B[rd];W[rb];B[sf];W[sc];B[se]C[RIGHT]))
+(;W[qb]C[CHOICE];B[pc]
+(;W[pa]C[Here White has made a big mistake, then kill him !]
+(;B[oa]
+(;W[na]C[Here White makes a second mistake, he'll die]
+(;B[la];W[qa];B[sf];W[sd]C[White is all alive :(])
+(;B[ra]
+(;W[rb];B[qa];W[sa];B[qa];W[ra];B[sc];W[sd];B[sf];W[rc];B[sg];W[sb];B[se]C[])
+(;W[qa];B[sf];W[sd];B[sg]
+(;W[se];B[sc];W[rd];B[sb];W[rb];B[la];W[sa];B[ma]
+(;W[oa];B[ra];W[kh]C[White tenuki];B[pd];W[sa]C[Play A to use your ko threat :-)]LB[lg:A];B[lg];W[lh];B[ra]C[You get white because he has no more threats])
+(;W[rc];B[oa]C[White leave he stones because he as more ko threat, but the result is worst than the correct answer]))
+(;W[rc];B[se];W[rd];B[sb]C[White is dead]))))
+(;W[qa]
+(;B[sf];W[sd];B[sb];W[sc];B[sg];W[rb];B[rd];W[sa];B[se]C[after wR18 you should have done much beter.CHOICE])
+(;B[ma]C[Ok you took 3 stones, but after wR18 you should have done much beter.])))
+(;B[sf];W[sd];B[sb];W[rb];B[sg];W[sc]
+(;B[rd];W[sa];B[se];W[qa])
+(;B[qa]
+(;W[ra];B[rd];W[rc];B[se]C[White is doomedRIGHT])
+(;W[se]
+(;B[oa]C[ok you took 3 stonesRIGHT])
+(;B[rc];W[rd];B[oa]C[Took stones, but loose a threat]))))
+(;B[ma]
+(;W[oa];B[sf];W[sd];B[sb];W[rb];B[sg]
+(;W[ra];B[rd];W[rc];B[se]C[White is dead])
+(;W[sc];B[rd];W[rc];B[se];W[sa];B[qa]C[White is dead]))
+(;W[qa];B[oa]C[You take 3 stones in go, but after wR18 you should have done much beter.CHOICE]))
+(;B[qa];W[ra];B[sf];W[sd]C[you didn't take anything :(]))
+(;W[qa]
+(;B[sf];W[sd];B[pa]C[okRIGHT])
+(;B[pa]C[okRIGHT]))))
+(;B[ma];W[pb]C[Haven't I told you to take some stones ? Try again])
+(;B[qb];W[pb];B[rb];W[rc];B[pc];W[sb]C[Try again])
+(;B[rc]
+(;W[rd];B[pb];W[pc];B[qb];W[rb];B[ra]
+(;W[sc];B[oa])
+(;W[sb]))
+(;W[rb];B[pb];W[pc];B[qb];W[qa];B[rd];W[pa];B[sf];W[sc];B[se]C[CHOICERIGHT])))

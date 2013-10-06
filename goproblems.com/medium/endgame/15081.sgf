@@ -1,0 +1,20 @@
+(;GE[endgame]DI[4k]DP[28]SO[santa c]CO[0]AW[cd]AW[bd]AW[be]AW[ae]AW[af]AW[dc]AW[db]AW[ed]AW[fc]AW[fd]AW[fe]AW[gb]AW[ga]AW[ha]AB[ia]AB[hb]AB[hc]AB[ge]AB[ff]AB[ef]AB[ee]AB[de]AB[dd]AB[ce]AB[cf]AB[bf]AB[ag]AB[bh]AB[jb]AB[ec]C[Is there a need for moves inside? Just g17 otherwise...]LB[gc:NO]AP[goproblems]
+(;B[eb];W[cc]
+(;B[gc];W[fb]
+(;B[gd];W[ea]C[nice squeeze!RIGHT])
+(;B[ea];W[da];B[gd]C[nice squeeze!RIGHT]))
+(;B[ea];W[da]
+(;B[gc];W[fb])
+(;B[gd];W[fb];B[gc]C[nice squeeze!RIGHT]))
+(;B[gd];W[fb]
+(;B[gc])
+(;B[ea];W[da]))
+(;B[fa];W[fb]C[w gets an extra point!])
+(;B[fb];W[ea]C[w gets an extra point!]))
+(;B[cc]C[NOTTHIS])
+(;B[gc];W[eb]C[there's a slightly better way])
+(;B[fb];W[eb]C[doesn't really help, does it?])
+(;B[gd]C[NOTTHIS])
+(;B[cb]C[NOTTHIS])
+(;B[bb]C[NOTTHIS])
+(;B[bc]C[NOTTHIS]))

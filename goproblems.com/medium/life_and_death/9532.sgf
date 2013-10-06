@@ -1,0 +1,68 @@
+(;GE[life and death]DI[3k]DP[24]SO[Bleedo]CO[6]AW[nd]AW[md]AW[ld]AW[kd]AW[jd]AW[id]AW[hd]AB[me]AB[ne]AB[od]AB[pe]AB[qd]AB[re]AB[sf]AB[rg]AW[se]AW[sd]AW[rd]AW[le]AB[lf]AB[lg]AB[lh]AW[mf]AW[mg]AW[mh]AB[mi]AB[mj]AW[li]AW[kh]AW[jj]AW[ge]AB[gd]TR[lf]TR[lg]TR[lh]C[Save these 3 stones!]AP[goproblems]
+(;B[ki];W[lj]
+(;B[kg];W[jh]
+(;B[jg];W[ig]
+(;B[ih];W[ji]
+(;B[if];W[hg]
+(;B[jf]
+(;W[nh]
+(;B[oh];W[ni])
+(;B[ni];W[oh];B[oi];W[ph];B[pi];W[qh];B[qi];W[rh];B[hf];W[gf]TR[he]TR[ie]TR[je]TR[ke]TR[kf]TR[sh]TR[ri]TR[qg]TR[pg]TR[og]TR[ng]TR[nf]C[Black - 5 liberties. White - 7 liberties.])
+(;B[ng];W[ni])
+(;B[nf];W[ni])
+(;B[oi];W[oh]
+(;B[ph];W[hf];B[og];W[ie];B[ng];W[je];B[nf];W[kf])
+(;B[ni];W[hf];B[ph];W[ie];B[og];W[je];B[ng];W[kf])))
+(;W[hf]))
+(;B[nh];W[jf];B[ng];W[kf]C[White wins the Semeai, or in english, the capturing race.]))
+(;B[jf];W[if]))
+(;B[nh]))
+(;B[nh];W[jg]
+(;B[kf];W[jf]C[Nope.])
+(;B[ng];W[kf]C[White wins the Semeai, or in english, the capturing race.])))
+(;B[jh];W[kg];B[kf];W[jg]
+(;B[ig];W[jf]C[Ladder is not a solution.])
+(;B[if];W[ig];B[nh];W[jf])
+(;B[jf];W[ig]
+(;B[nh];W[nf];B[oe];W[of]
+(;B[pf];W[og];B[oh];W[pg]
+(;B[ph];W[qg];B[qh]C[Lok's Solution, and it's the true one.]
+(;W[qf]
+(;B[ng];W[if]
+(;B[rf];W[je];B[qe]C[RIGHT])
+(;B[qe];W[je];B[rf]C[RIGHT]))
+(;B[rf];W[if]
+(;B[ng];W[je];B[qe]C[RIGHT])
+(;B[qe];W[je];B[ng]C[RIGHT]))
+(;B[qe];W[if]
+(;B[ng];W[je];B[rf]C[RIGHT])
+(;B[rf];W[je];B[ng]C[RIGHT])))
+(;W[if]
+(;B[qf];W[je];B[ng]C[RIGHT])
+(;B[ng];W[ke];B[qf]C[RIGHT])))
+(;B[qg];W[ph];B[pi];W[qh];B[qi];W[rh]
+(;B[ri];W[sh];B[si];W[if]
+(;B[ng];W[je];B[sg]C[Niceness =DRIGHT])
+(;B[sg];W[je];B[ng]C[Coolness =D lolRIGHT]))
+(;B[sh];W[ri];B[rj];W[si]
+(;B[sg];W[sj];B[sk];W[rk];B[ng]C[Yip!RIGHT])
+(;B[sj];W[sg]C[Ko, you can kill this baby without giving white compensation]))))
+(;B[og];W[pf]
+(;B[qf];W[pg];B[ph];W[if]
+(;B[ng]
+(;W[je];B[qg]C[davidgoto's solutionRIGHT])
+(;W[ni];B[qg]C[RIGHT])
+(;W[qg];B[qh]C[RIGHT]))
+(;B[qg];W[je];B[ng]C[RIGHT]))
+(;B[qg];W[if];B[qf];W[je];B[pg];W[ke])))
+(;B[if])))
+(;B[jg];W[kg]
+(;B[jh];W[kf])
+(;B[kf];W[jh];B[ih];W[ji]
+(;B[if]C[MrMoto's SolutionRIGHT])
+(;B[jf];W[ig];B[if];W[hg];B[hf];W[gf];B[nh];W[nf];B[oe];W[of];B[pf];W[og];B[oh];W[pg];B[ph];W[qg];B[qh]C[One of many alternate solutions!RIGHT]))))
+(;B[nh];W[kf]
+(;B[ng];W[kg]C[White wins the Semeai, or in english, the capturing race.])
+(;B[nf];W[kg]C[White wins the Semeai, or in english, the capturing race.]))
+(;B[kf];W[jf];B[ki];W[lj];B[jh];W[ji];B[kg];W[kj]C[I'll just end you here and say that ko isn't the best way to go.])
+(;B[jg];W[kg];B[kf];W[jf]))

@@ -1,0 +1,33 @@
+(;GE[life and death]DI[8k]DP[46]SO[DarkSycthe]CO[0]AB[ns]AB[nr]AB[nq]AB[np]AB[op]AB[pp]AB[qp]AB[ro]AW[oq]AW[pq]AW[qq]AW[rq]AW[sq]AW[sr]AB[qr]AB[rr]C[White to live.]AP[goproblems]
+(;W[rs];B[qs]
+(;W[pr];B[ss];W[ps]C[RIGHT])
+(;W[ps];B[ss];W[pr]C[RIGHT])
+(;W[ss];B[os])
+(;W[or]
+(;B[os]C[NOTTHIS];W[ps];B[ss];W[pr]C[RIGHT])
+(;B[ss]
+(;W[os];B[rs]C[Seki, not the best.])
+(;W[ps];B[rs]C[White is dead.])
+(;W[pr];B[rs]C[White is dead.])))
+(;W[os];B[ss]
+(;W[or];B[rs]C[Seki. Not the best.])
+(;W[ps];B[rs])
+(;W[pr];B[rs])))
+(;W[pr];B[rs]C[White is dead.])
+(;W[ps];B[rs]
+(;W[or];B[qs])
+(;W[os];B[qs]))
+(;W[qs];B[rs]
+(;W[pr];B[os];W[ss];B[rr])
+(;W[ps];B[pr];W[or];B[os])
+(;W[os];B[or]
+(;W[pr];B[ps];W[ss];B[os];W[qs];B[rr])
+(;W[ps];B[pr])))
+(;W[or];B[os]
+(;W[ps];B[rs])
+(;W[pr];B[ps])
+(;W[rs];B[ps])
+(;W[qs];B[rs]))
+(;W[os];B[or];W[pr];B[rs]
+(;W[ss];B[qs])
+(;W[qs];B[ps];W[ss];B[os];W[qs];B[rr])))

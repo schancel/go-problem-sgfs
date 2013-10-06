@@ -1,0 +1,37 @@
+(;GE[life and death]DI[10k]DP[51]SO[ekberg]CO[8]AB[pp]AB[pq]AB[pr]AW[qq]AW[rr]AW[sr]AW[sq]AW[qp]AW[ro]AW[rn]AW[rm]AB[rs]AB[qr]AB[qo]AB[qn]AB[qm]AB[ql]AB[rk]AB[qj]AB[no]TR[sr]C[GnuGo played the marked stone. Let the machine suffer!]AP[goproblems]
+(;B[rp]C[];W[rq]
+(;B[sp];W[so]
+(;B[sm]
+(;W[rl];B[sl]C[CHOICERIGHT])
+(;W[sl];B[rl]C[RIGHT]))
+(;B[rl];W[sm])
+(;B[sl];W[sm]))
+(;B[sm]
+(;W[sp]
+(;B[sn];W[rl];B[sl];W[so];B[sk]C[RIGHT])
+(;B[rl];W[sn]C[CHOICE]))
+(;W[sn];B[sp];W[so]C[Black can tenuki, white can't make second eyeRIGHT])
+(;W[so]C[Black can tenuki; second white eye will be falseRIGHT])
+(;W[rl]
+(;B[sl];W[sp];B[sn])))
+(;B[so];W[sp]
+(;B[sn];W[sm])
+(;B[sm];W[sn]))
+(;B[sn];W[so])
+(;B[rl];W[sp]MA[sn]MA[sm])
+(;B[sl];W[sp]MA[sn]MA[sm]))
+(;B[ss];W[qs];B[rp];W[rq];B[sp];W[rs]
+(;B[ps];W[so])
+(;B[so];W[sn]))
+(;B[qs];W[rp]MA[so]MA[sn]MA[sm])
+(;B[rq];W[rp]MA[sm]MA[sn]MA[so])
+(;B[sp];W[rp]
+(;B[so];W[sn])
+(;B[qs];W[so]))
+(;B[so];W[rp]MA[sn]MA[sm])
+(;B[sn];W[so]
+(;B[rp];W[rq];B[sm];W[rl];B[sl];W[sk];B[sl];W[sm])
+(;B[rl];W[rp]))
+(;B[sm];W[rp]MA[so]MA[sn])
+(;B[rl];W[rp]MA[sm]MA[sn]MA[so])
+(;B[sl];W[rp]MA[so]MA[sn]MA[sm]))

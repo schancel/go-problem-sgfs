@@ -1,0 +1,14 @@
+(;GE[endgame]DI[1d]DP[15]SO[—´000]CO[0]SZ[4]AB[aa]AB[ab]AB[bb]AB[ba]AB[cc]AW[ac]AW[bd]AW[ca]AW[dd]AP[goproblems]
+(;W[cb];B[bc]
+(;W[dc];B[ad])
+(;W[cd];B[ad]))
+(;W[cd];B[db];W[bc];B[cb])
+(;W[dc];B[db];W[cd])
+(;W[bc];B[cb];W[cd];B[da])
+(;W[db];B[ad]C[hou meny won in white?]LB[cb:0]LB[bc:5]LB[dc:8]LB[cd:16]LB[da:1]LB[ad:2]
+(;W[cd])
+(;W[dc])
+(;W[cb]C[sekiRIGHT])
+(;W[bc])
+(;W[da])
+(;W[ad])))

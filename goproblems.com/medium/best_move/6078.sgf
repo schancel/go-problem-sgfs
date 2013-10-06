@@ -1,0 +1,14 @@
+(;GE[best move]DI[2k]DP[22]SO[maba]CO[6]AW[nb]AW[nc]AW[oa]AW[nd]AW[oc]AW[pc]AW[qd]AW[qe]AW[pe]AB[pd]AB[od]AB[oe]AB[ne]AB[md]AB[mc]AB[mb]AB[ma]AB[na]AB[qc]LB[qc:1]C[Black cut at 1. How shoud white respond?]AB[pf]AB[pg]AW[qg]AW[qf]AB[mf]AP[goproblems]
+(;W[pb];B[qb]
+(;W[rb]
+(;B[rc]C[CHOICE];W[qa]C[Black should have played at Q19 in stead of R17.RIGHT])
+(;B[qa]C[CHOICE];W[rc]C[Black should have played at Q19 in stead of R17.RIGHT]))
+(;W[qa];B[ra])
+(;W[rc];B[rb]
+(;W[rd];B[pa];W[qa];B[ra])
+(;W[sd];B[pa];W[qa];B[ra])))
+(;W[qb];B[pa]
+(;W[ob];B[pb])
+(;W[pb];B[ob]C[White can do better.])
+(;W[qa];B[ob]))
+(;W[rc];B[qb];W[pb];B[rb]))

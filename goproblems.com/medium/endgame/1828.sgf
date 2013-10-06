@@ -1,0 +1,35 @@
+(;GE[endgame]DI[3k]DP[25]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[gb][bc][cc][dc][fc][bd][ed][ce][de][fe][cf][ff][fg]AB[bb][cb][db][eb][fb][ac][ad][ae][be][bf][df][ef][bg][cg]C[White to play and  draw!]PL[W]
+(;W[fa]CR[fa]
+;B[ea]CR[ea]
+;W[gc]CR[gc]
+;B[ga]CR[ga]
+(;W[ee]CR[ee]
+(;B[dg]CR[dg]
+;W[fa]CR[fa]
+;B[ec]CR[ec]
+;W[ga]CR[ga]C[White was able to draw the game RIGHT])
+(;B[fa]CR[fa]
+;W[dg]CR[dg]C[White wins by 3 ponts...!]))
+(;W[dg]CR[dg]
+;B[eg]CR[eg]
+;W[fa]CR[fa]
+;B[ec]CR[ec]
+;W[ga]CR[ga]C[White has won the ko, but black wins the game - by 1 point! With his ko threat at d1 white gave black an extra prisoner....])
+(;W[eg]CR[eg]
+;B[dg]CR[dg]
+;W[fa]CR[fa]
+;B[ee]CR[ee]
+(;W[ec]CR[ec]
+;B[ga]CR[ga]C[Black will connect the ko and wins by 1point - the white ko threat at e1 made the black threat at e4 possible. ])
+(;W[ga]CR[ga]
+;B[dd]CR[dd]
+;W[cd]CR[cd]
+;B[ec]CR[ec]C[White must answer the black ko threat!])))
+(;W[ga]CR[ga]
+;B[fa]CR[fa]
+;W[gc]CR[gc]C[Black wins by 1 point])
+(;W[ee]CR[ee]C[With this, white plays a ko threat before the ko even started!])
+(;W[dg]CR[dg]C[With this, white plays a ko threat before the ko even started!
+There is  one more at e3, so it seems still to be okay, but he also loses a point by sacrificing on a dame point - black will win by 1 point!]))

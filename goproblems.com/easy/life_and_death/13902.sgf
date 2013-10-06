@@ -1,0 +1,19 @@
+(;GE[life and death]DI[4k]DP[29]SO[ytqb]CO[0]AW[ag]AW[af]AW[bf]AW[ce]AW[bd]AW[de]AW[ee]AW[dc]AW[ec]AW[fd]AW[ff]AW[fg]AW[eh]AW[ei]AW[ej]AW[gj]AW[fk]AW[fl]AW[dm]AW[em]AW[en]AW[fn]AW[ep]AW[fp]AW[cq]AW[dq]AW[dr]AW[fr]AW[hq]AB[ah]AB[bh]AB[bg]AB[cf]AB[df]AB[ef]AB[eg]AB[dh]AB[di]AB[dj]AB[ek]AB[el]AB[dl]AB[cm]AB[dn]AB[eo]AB[fo]AB[go]AB[io]AB[dp]AB[cp]AB[bq]AB[cr]AB[bs]TR[cf]TR[df]TR[ef]TR[eg]C[Should Black sacrifice the 4 marked stones?]AW[cg]LB[nd:No]LB[ld:Yes]AP[goproblems]
+(;B[ld];W[md]C[Where should Black move?]
+(;B[cl];W[ch];B[ci];W[dg]
+(;B[bi]C[White has sente.RIGHT]))
+(;B[cn];W[cl];B[dk]
+(;W[ch];B[ci];W[dg];B[bj]C[RIGHT])
+(;W[dg]
+(;B[ch];W[bj];B[ck];W[bl];B[bk];W[ak];B[bm];W[al];B[aj];W[ai];B[am];W[aj];B[cj])
+(;B[ck]C[Not Black's best move.];W[ch];B[bi];W[bj];B[ci];W[bl];B[bk];W[ak];B[bm];W[al];B[am];W[aj]C[Seki.]))
+(;W[bj]
+(;B[dg]C[Not Black's best move.];W[bl])
+(;B[ck];W[bl];B[bk];W[ak];B[bm];W[al];B[aj];W[ai];B[am];W[aj];B[cj])))
+(;B[dg]C[];W[cl];B[cn];W[ck];B[dk];W[bi];B[bj]C[BartTM and DarkSycthe contributed this variation.])
+(;B[ck]C[RIGHT])
+(;B[gn]C[RIGHT]))
+(;B[nd];W[od]C[Where should Black move?];B[dg];W[cl]
+(;B[cn];W[ck];B[dk];W[bi];B[bj];W[ai];B[cj];W[ch]C[Because of the White invasion, Black has sacrificed more territory.])
+(;B[dk];W[cn]
+(;B[do];W[bm];B[bj]C[Black has given up more territory because he let White invade, and he now has 2 weak groups.]))))

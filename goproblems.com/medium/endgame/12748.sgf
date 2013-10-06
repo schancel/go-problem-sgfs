@@ -1,0 +1,12 @@
+(;GE[endgame]DI[3d]DP[10]SO[alpha]CO[0]AB[bs]AB[br]AB[bq]AB[cp]AB[cn]AB[co]AB[cm]AB[ao]AW[cq]AW[cr]AW[cs]AW[dp]AW[eq]AW[do]AW[dn]AW[dm]AW[cl]AW[ck]AW[bm]AW[dj]AB[as]C[Obviously black is alive, but there is still some defect in its shape.]AP[goproblems]
+(;W[ap];B[bl]
+(;W[aq]
+(;B[am]
+(;W[bp];B[bn]C[RIGHT])
+(;W[bo];B[bn];W[an];B[bp])))
+(;W[bk];B[bn];W[bp];B[am];W[aq]C[Gote for white. Not very good.])
+(;W[an]
+(;B[bp];W[bo];B[bn];W[al];B[am])))
+(;W[bn];B[bo]C[TOO good for black])
+(;W[bp];B[bo])
+(;W[an];B[bo]))

@@ -1,0 +1,13 @@
+(;GE[elementary]DI[10k]DP[50]SO[maba]CO[0]AB[jj]AB[kj]AB[ii]AB[hj]AW[ij]AW[ik]AW[jk]AB[jl]AW[jm]AW[jn]AB[im]AB[in]AB[jo]AB[kn]AW[kk]AB[lk]AB[ll]C[Black to capture the marked white stones.]AW[gm]TR[ij]TR[ik]TR[jk]TR[kk]TR[jm]TR[jn]AW[gl]AP[goproblems]
+(;B[hk]
+(;W[il]
+(;B[hl]C[White cannot escape.RIGHT])
+(;B[kl];W[hl])
+(;B[km];W[hl]))
+(;W[km];B[lm];W[il];B[hl]C[RIGHT]))
+(;B[il];W[hk])
+(;B[kl];W[hk])
+(;B[km];W[hk])
+(;B[hl];W[hk];B[gk];W[gj]
+(;B[hi];W[fk])
+(;B[fk];W[hi])))

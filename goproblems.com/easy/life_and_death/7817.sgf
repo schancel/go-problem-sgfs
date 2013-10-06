@@ -1,0 +1,26 @@
+(;GE[life and death]DI[12k]DP[58]SO[megari]CO[7]AW[ha][hb][jb][lb][ic][jc][kc][lc]AB[ga][gb][mb][ob][hc][mc][gd][id][jd][kd][ld][md]
+(;B[la]CR[la]
+;W[ka]CR[ka])
+(;B[ia]CR[ia]
+;W[ib]CR[ib]
+(;B[ka]CR[ka]
+;W[la]CR[la]
+(;B[ja]CR[ja]C[RIGHT])
+(;B[ma]CR[ma]
+;W[ja]CR[ja]))
+(;B[la]CR[la]
+;W[ka]CR[ka]))
+(;B[ka]CR[ka]
+;W[la]CR[la]
+(;B[ja]CR[ja]C[RIGHT])
+(;B[ia]CR[ia]
+;W[ib]CR[ib]
+;B[ja]CR[ja]C[RIGHT]))
+(;B[ib]CR[ib]
+;W[ia]CR[ia]
+;B[ka]CR[ka]
+;W[la]CR[la])
+(;B[ja]CR[ja]
+;W[ka]CR[ka]
+;B[ib]CR[ib]
+;W[ia]CR[ia]))

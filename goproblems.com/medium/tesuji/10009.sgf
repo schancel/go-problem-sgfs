@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[2k]DP[21]SO[Field Mouse]CO[9]AB[rc]AB[qc]AB[qb]AB[pb]AW[pc]AW[pd]AW[rd]AB[qd]AW[re]AW[qe]AW[pf]AW[sb]AB[kc]C[White to play.]AB[ic]AP[goproblems]
+(;W[nb]
+(;B[ob]
+(;W[nc];B[oa]
+(;W[sc]C[Oh yes! Mighty Corner Eater shows his strength! =)RIGHT])
+(;W[qa];B[sc];W[ra];B[rb]C[!!]
+(;W[oc];B[pa])
+(;W[sa];B[pa];W[ra];B[sa];W[sb];B[qa]))
+(;W[ra];B[sc];W[qa];B[rb]
+(;W[oc];B[pa])
+(;W[sa];B[pa];W[ra];B[sa];W[sb];B[qa])))
+(;W[oc];B[oa]
+(;W[sc];B[mb]C[Black connects out.])
+(;W[mc];B[sc]C[Black lives.])
+(;W[nc];B[sc]C[Black lives.])))
+(;B[oc]
+(;W[ob];B[od];W[pe]C[Black cannot win now and mighty Corner Eater will eat the corner. Correct! =)RIGHT])
+(;W[od];B[nc]
+(;W[ob];B[mc])
+(;W[mc];B[ob];W[mb];B[nd]))
+(;W[md];B[oe];W[ne];B[od];W[of];B[sc];W[pe];B[ob];W[mc];B[oa])))
+(;W[ob];B[nb]
+(;W[oa];B[oc];W[nc];B[od]C[White is in trouble.])
+(;W[oc];B[oa]C[Black escapes his doom.])
+(;W[nc];B[oa];W[mb];B[oc];W[od];B[ob]C[Of course black can play ko now.];W[mc];B[sc]C[Black lives!]))
+(;W[oc];B[nb]C[Black escapes.])
+(;W[nc];B[nb]
+(;W[mb];B[oc]
+(;W[na];B[ob];W[nd];B[od]
+(;W[oe];B[mc])
+(;W[ne];B[sc]
+(;W[oa];B[pe])
+(;W[oe];B[oa])))
+(;W[od];B[ob];W[mc];B[sc]
+(;W[na];B[ra])
+(;W[ra];B[na];W[qa];B[pa]))
+(;W[nd];B[od];W[oe];B[pe];W[pd];B[mc]))
+(;W[ob];B[oa];W[oc];B[mb]C[Black escapes.]))
+(;W[mb];B[oc]
+(;W[md];B[nc];W[mc];B[oe];W[ne];B[od];W[of];B[sc];W[pe];B[oa];W[nb];B[ob];W[qa];B[ra])
+(;W[nd];B[nb];W[nc];B[od]
+(;W[oe];B[pe];W[pd];B[mc])
+(;W[ne];B[oe];W[of];B[sc];W[pe];B[ob];W[na];B[oa]
+(;W[qa];B[ra])
+(;W[ra];B[qa]))))
+(;W[mc];B[oc];W[od];B[nc];W[nd];B[mb];W[nb];B[ob];W[lb];B[na]))

@@ -1,0 +1,11 @@
+(;GE[life and death]DI[7k]DP[41]SO[santa c]CO[9]AW[ar]AW[dr]AW[bq]AW[cq]AW[ap]AB[ao]AB[bo]AB[bp]AB[cp]AB[dp]AB[dq]AB[er]AW[cs]C[Can black do anything?]AB[fr]AP[goproblems]
+(;B[bs];W[br]C[]
+(;B[es]C[Nice! White can't play at A! :)RIGHT]LB[ds:A])
+(;B[ds];W[es]C[];B[fs];W[as];B[ds]MA[es]C[Only a ko! :(])
+(;B[aq];W[ds]C[White's fine!]))
+(;B[br];W[bs]C[White's alive!]LB[as:1]LB[br:2]LB[cr:2])
+(;B[cr];W[br]C[White's alive!]LB[as:1]LB[bs:1]LB[cr:2])
+(;B[as];W[bs]C[White's alive!]LB[as:1]LB[br:2]LB[cr:2])
+(;B[aq];W[bs]C[White's alive!]LB[as:1]LB[br:2]LB[cr:2])
+(;B[ds];W[es]C[White's alive! (A, B miai to kill)]LB[br:A]LB[bs:B])
+(;B[es];W[bs]C[White's alive! (A and B are miai to kill!)]LB[cr:A]LB[ds:B]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[15k]DP[62]SO[tom111]CO[6]AB[cr]AB[br]AB[dr]AB[dq]AB[fr]AB[fq]AB[fp]AB[gq]AW[gr]AW[hr]AW[hq]AW[gp]AW[go]AW[fo]AW[eo]AW[dp]AW[co]AW[cq]AW[bq]AW[ar]C[Black to live]AP[goproblems]
+(;B[es]C[Correct E2 and D1 are the eyesRIGHT])
+(;B[bs];W[es]
+(;B[ds];W[fs]
+(;B[er];W[ep];B[gs];W[fs])
+(;B[ep];W[er]))
+(;B[fs];W[ds]
+(;B[ep];W[er])
+(;B[er];W[ep]))
+(;B[er];W[fs]
+(;B[ds];W[ep];B[gs];W[fs])
+(;B[ep];W[ds])))
+(;B[ep];W[es]
+(;B[fs];W[er]
+(;B[ds];W[bs])
+(;B[bs];W[ds]))
+(;B[er];W[fs]
+(;B[ds];W[bs];B[gs];W[fs])
+(;B[bs];W[ds]))
+(;B[bs];W[fs]
+(;B[ds];W[er])
+(;B[er];W[ds])))
+(;B[er];W[ep]C[5 (and even 6) Stones on the second line only make one eye])
+(;B[fs];W[es]
+(;B[ep];W[er]
+(;B[bs];W[ds])
+(;B[ds];W[bs])
+(;B[eq]C[Still dead : Died in Gote :(]))
+(;B[bs];W[ds]
+(;B[ep];W[er])
+(;B[er];W[ep]))
+(;B[ds];W[bs];B[ep];W[er])))

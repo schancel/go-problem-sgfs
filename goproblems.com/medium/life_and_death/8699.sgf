@@ -1,0 +1,133 @@
+(;GE[life and death]DI[1k]DP[19]SO[ldan]CO[7]AB[eq]AB[fp]AB[ep]AB[dp]AB[do]AB[go]AB[gn]AB[in]AB[io]AB[jo]AB[ip]AB[iq]AB[jq]AB[ir]AB[gk]AB[gj]AB[gl]AW[gm]AW[fm]AW[fn]AW[fo]AW[eo]AW[fl]AW[fk]AW[dn]AW[dm]AW[dl]AW[ek]AW[dk]AW[cm]AW[bm]AW[an]AW[co]AW[cp]AW[dq]AW[dr]AW[er]AW[hk]AW[ik]AW[il]AW[im]AW[jm]AW[jn]AW[kn]AW[ln]AW[ko]AW[jp]AW[kp]AW[lp]AW[kq]AW[jr]AW[ks]AW[mq]AW[lq]AW[mr]AW[ms]AW[gp]AB[fr]C[Save all your stones.]AP[goproblems]
+(;B[fq]
+(;W[gq]C[CHOICE]
+(;B[gr];W[hn]
+(;B[ho];W[hq]
+(;B[is]
+(;W[fs]C[CHOICE]
+(;B[gs];W[hr]
+(;B[hs];W[js]
+(;B[hp]C[Well done. This solution is inferior to E1 or H7 because white can use the group as ko threat by playing G3 or H3 thereby threating to reduce black to one eye.RIGHT])
+(;B[es]C[Well done. This is preferable to H4 because the black group is not left as a potential ko threat.   If white blocks at D1 black can Tenuki. See the comments section.RIGHT])
+(;B[hm]C[Well done. This is preferable to H4 because the black group is not left as a potential ko threat.   If white blocks at H8 black can Tenuki . See the comments section.RIGHT]))
+(;B[hp];W[hs])
+(;B[es];W[hp]C[White has formed a bulky five nakade which will produce only one eye for black.]))
+(;B[hr];W[gs]
+(;B[hp];W[gq])
+(;B[hs];W[es];B[hp];W[gq]))
+(;B[hs];W[es]C[Only one eye here.])
+(;B[hp];W[gs]
+(;B[hr];W[gq])
+(;B[hs];W[hr])))
+(;W[gs];B[fs];W[hr];B[hs])
+(;W[hr]
+(;B[fs])
+(;B[hs];W[fs];B[hp]))
+(;W[hs];B[hr];W[fs];B[gs]))
+(;B[hr];W[fs]
+(;B[gs];W[is]C[There goes the second eye.]
+(;B[hp];W[gq];B[cq])
+(;B[hs]
+(;W[es];B[hp];W[gq])
+(;W[js];B[hp];W[gq])))
+(;B[is];W[gs]C[There goes the second eye])
+(;B[hs];W[es])
+(;B[hm];W[hl]))
+(;B[fs];W[hs]
+(;B[hr];W[is]
+(;B[gs];W[js];B[hp];W[gq])
+(;B[hp];W[gq])
+(;B[hm];W[hl]))
+(;B[is];W[hr]C[Black can't approach from either side. You can try and save the right group if you want.];B[hm];W[es];B[hl];W[gs]C[You saved only half :(])
+(;B[hp];W[hr])
+(;B[hm];W[is];B[hl];W[hr]C[You saved only half.]))
+(;B[hs];W[fs]C[Dead shape.])
+(;B[gs];W[is]
+(;B[hs];W[hp]C[No room for two eyes.])
+(;B[hr]))
+(;B[hp];W[is];B[hr];W[gq];B[hs];W[fs]C[One eye only.])
+(;B[hm];W[is]
+(;B[hl]C[];W[hr]C[You saved only half :(])
+(;B[hs];W[fs]
+(;B[hl]C[You connected :)RIGHT])
+(;B[hr];W[hl])
+(;B[gs]
+(;W[hr])
+(;W[hl]C[Only one eye.]))
+(;B[hp];W[hl]
+(;B[hn];W[hr])
+(;B[hr];W[gq])
+(;B[gs];W[hr])
+(;B[es];W[ds])
+(;B[js];W[kr])))
+(;B[hr];W[hl]C[Dead])
+(;B[gs];W[hl]C[Dead])
+(;B[fs];W[hs]
+(;B[hr];W[hl])
+(;B[hl];W[hr]C[You saved only half :(])))
+(;B[hl];W[is]
+(;B[hm];W[hr]C[You saved only half :(])
+(;B[hs];W[fs]
+(;B[gs];W[hr])
+(;B[hr];W[hm]C[Dead]))
+(;B[hr];W[hm]C[Dead])
+(;B[gs];W[hm]C[Dead])
+(;B[fs];W[hr];B[hm];W[es]C[you saved only half :(]))
+(;B[js];W[is];B[hs];W[fs]))
+(;B[hp];W[ho]C[No space for two eyes now.];B[hq]
+(;W[go]
+(;B[hs];W[fs])
+(;B[fs];W[is];B[hr];W[hs]))
+(;W[is]
+(;B[go];W[gp];B[gq];W[hs])
+(;B[hs];W[hr])
+(;B[gs];W[hr])
+(;B[fs];W[hr])
+(;B[hr];W[hs];B[go];W[gn])))
+(;B[hr];W[ho])
+(;B[hq];W[ho];B[hs];W[fs])
+(;B[hm];W[ho])
+(;B[hl];W[ho]))
+(;B[gs];W[gr];B[fs];W[hs]C[The E3 group is in big trouble.]
+(;B[es];W[ds])
+(;B[hr];W[es])
+(;B[hp];W[es])
+(;B[hq];W[es])
+(;B[is];W[es])
+(;B[ho];W[es])
+(;B[hn];W[es]))
+(;B[hp];W[gr]C[The E3 group is in big trouble.])
+(;B[ho];W[gr]C[The E3 group is in big trouble.])
+(;B[hq];W[gr]C[The E3 group is in big trouble.])
+(;B[hr];W[gr]C[The E3 group is in big trouble.])
+(;B[hs];W[gr]C[The E3 group is in big trouble.])
+(;B[fs];W[gr];B[gs];W[hs]C[The E3 group is in big trouble.])
+(;B[hm];W[gr];B[hl];W[fs])
+(;B[hn];W[gr]))
+(;W[gr]
+(;B[gq]C[White G2, followed by black G3, appears to give black guaranteed life...]
+(;W[fs]
+(;B[hp]
+(;W[hn];B[hr];W[gs]C[Well done.RIGHT])
+(;W[hr]
+(;B[hn];W[hq];B[gp];W[gs]C[One eye only.])
+(;B[hq];W[hn];B[gs];W[hs];B[is];W[gs];B[es];W[hm];B[ho]C[RIGHT])))
+(;B[hq];W[hn])
+(;B[hr];W[hq])
+(;B[hn];W[hq])
+(;B[ho];W[hq])
+(;B[is];W[hq])
+(;B[hs];W[hq]))
+(;W[hq]
+(;B[hp];W[fs];B[hr];W[hn];B[ho]C[RIGHT])
+(;B[fs];W[gs];B[hp];W[is];B[hr];W[hs];B[hn]))
+(;W[hr];B[hq];W[hn];B[ho];W[fs];B[gs];W[hs];B[is];W[es];B[gs]C[RIGHT])
+(;W[ho];B[hp];W[hn];B[hm];W[hr]C[RIGHT]))
+(;B[fs];W[gq]C[The left group has been cut off.])))
+(;B[hp];W[fq])
+(;B[gq];W[fq])
+(;B[gr];W[fq])
+(;B[hm];W[fq]C[You lost half your stones])
+(;B[hl])
+(;B[hn];W[fq])
+(;B[ho];W[fq]))

@@ -1,0 +1,33 @@
+(;GE[elementary]DI[10k]DP[51]SO[santa c]CO[7]SZ[9]AW[ca]AW[ga]AW[cb]AW[eb]AW[fb]AW[gb]AW[cc]AW[dc]AW[ef]AW[ff]AW[gf]AW[hf]AW[bg]AW[cg]AW[dg]AW[eg]AW[hg]AW[bh]AW[hh]AW[bi]AW[hi]AB[ba]AB[ha]AB[bb]AB[hb]AB[bc]AB[ec]AB[fc]AB[gc]AB[hc]AB[bd]AB[cd]AB[dd]AB[ed]AB[fg]AB[gg]AB[ch]AB[dh]AB[eh]AB[gh]AB[ci]AB[gi]LB[ce:D]LB[fg:x]LB[gg:x]LB[ch:x]LB[dh:x]LB[eh:x]LB[gh:x]LB[ci:x]LB[gi:x]C[Is the marked group alive? (Black at the bottom.) If you think it's dead, play at 'D'(D5). If you think, you need to play to kill, then do so. If you think, it's alive, no matter, what - play 'A'(G5).FORCE]LB[ge:A]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ce]LB[ge:T]LB[ei:o]LB[fi:o]C[The two circle let it live. Any other black move, even, lack of it, means, white can kill, by playing either, of the 2. ('T' is for black non-local response: tenuki.)]PL[B]
+(;B[ei]LB[fh:2]LB[di:1]LB[fi:2]C[It has 2 eyes. Hence, it's alive. CHOICE])
+(;B[fi]LB[fh:2]LB[di:1]LB[ei:1]C[It has 2 eyes. Hence, it's alive. CHOICE])
+(;B[di]LB[fi:o]C[Easy kill.];W[fi]C[Black won't have two eyes, now.])
+(;B[fh]LB[ei:o]C[Easy kill.];W[ei]C[Black won't have two eyes, now.])
+(;B[ge]
+(;W[ei]TR[fh]TR[fi]C[Black won't have two eyes, now. (F1 is self atari. If black F1 then white F2 takes it. - Won't have 2 eyes.)])
+(;W[fi]TR[fh]TR[ei]C[Black is dead. (If black goes E1 then white takes G1 group at F2. If black protects from the atari, at F2, then wE1 will deny it from having 2 eyes.)])))
+(;W[ei]TR[fh]TR[fi]C[NICE! - Black won't have two eyes, now. (F1 is self-atari.- If black F1 then white F2 takes it. - Won't have 2 eyes.) RIGHT])
+(;W[fi]TR[fh]TR[ei]C[NICE! - Black is dead. (If black goes E1 then white takes G1 group at F2. If black protects from the atari, at F2, then wE1 will deny it from having 2 eyes.) RIGHT])
+(;W[fh]LB[ge:T]LB[fi:o]C[Not only will black live, but he'll have 3 points of territory + 1 captured stone. A black move at the marked location, saves, him. Any other move, includnig a non-local play(tenuki), means suicide.]
+(;B[fi]LB[fh:2]LB[di:1]LB[ei:1]C[Wrong, black lives - 2 eyes. (3 points of territory + 1 captured stone.)])
+(;B[ei];W[fi]C[Black has one, eye - Does it mean, he's half alive? Nope. Still dead.])
+(;B[di];W[fi]C[Dead.])
+(;B[ge]
+(;W[ei]LB[fh:2]LB[fi:1]C[Dead. (Black won't have 2 eyes, due to a snapback.)])
+(;W[fi]C[Black is dead.])))
+(;W[di]LB[ei:o]LB[fi:o]C[Black, can safely, play at either of the marked, locations, for 2 eyes.]
+(;B[ei]LB[fh:2]LB[di:1]LB[fi:2]C[Wrong, black lives - 2 eyes. (3 points of territory + 1 captured stone.)])
+(;B[fi]LB[fh:2]LB[di:1]LB[ei:1]C[Wrong, black lives - 2 eyes. (3 points of territory + 1 captured stone.)]))
+(;W[ge]LB[da:o]LB[ea:o]C[Black will play at either, of the marked locations - To kill.]
+(;B[da]C[This kills. But I added, why, since it's for absolute beginners.]
+(;W[db]LB[ea:o]LB[ce:T]C[Black will surely play at E9(marked), to kill. ('T'(C5) for pass or non local play. If you think you can tenuki(Play elsewhere).)]
+(;B[ea]C[See? White, won't have 2 eyes. CHOICE])
+(;B[fa];W[ea]LB[da:1]LB[fa:2]C[White has 2 eyes.-> It's alive! Black F9 was a mistake. (Never would happen.)])
+(;B[ce];W[ea]LB[da:1]LB[fa:2]C[Wrong. White has 2 eyes. It's alive. (Never would happen.)]))
+(;W[ea]LB[db:o]LB[ce:T]C[Black will surely play at D8(marked), to kill. ('T'(C5) for pass or non local play. If you think you can tenuki(Play elsewhere).)]
+(;B[db]C[See? White is obviously, dead. CHOICE])
+(;B[ce];W[db]LB[da:1]LB[fa:2]C[Wrong. White has 2 eyes. It's alive. (Never would happen.)])))
+(;B[ea]C[This kills. But I added, why, since it's for absolute beginners. (If white D9 then black takes, at D8. -> White can't have 2 eyes.) CHOICE];W[da];B[db]C[White's absolutly, dead... Don't let such a thing, happen, in a game of yours ;)])
+(;B[db];W[da]LB[ea:2]LB[fa:2]LB[db:1]C[White has 2 eyes -> It's alive. (And he has, 4 points.) (Never would happen.)])
+(;B[fa];W[ea]LB[da:1]LB[fa:2]LB[db:1]C[White has 2 eyes -> It's alive. (And he has, 4 points.) (Never would happen.)])))

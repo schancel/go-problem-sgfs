@@ -1,0 +1,16 @@
+(;GE[endgame]DI[6k]DP[38]SO[Stones]CO[4]AW[rj]AW[pq]AW[qo]AB[po]AB[pn]AW[qm]AW[ql]AB[qk]AB[pk]AB[pl]AB[pm]AW[rk]AB[oq]AB[or]AB[op]AB[ps]AW[pr]AW[qq]AB[pp]AW[qp]AB[os]TR[ps]C[Black has just played the marked stone.  How should white respond?]AP[goproblems]
+(;W[rr]C[Good!  Since R1 is not safe, this is the best response.  RIGHT])
+(;W[qs];B[qn];W[rn];B[rr]
+(;W[rq];B[qr]C[: (])
+(;W[qr];B[rm]
+(;W[ro];B[rl])
+(;W[rl];B[ro]
+(;W[rp];B[sn])
+(;W[sm];B[rp]))))
+(;W[qr];B[rr]
+(;W[rs];B[qs])
+(;W[qs];B[qn];W[rn];B[rm]
+(;W[ro];B[rl])
+(;W[rl];B[ro]
+(;W[rp];B[sn])
+(;W[sm];B[rp])))))

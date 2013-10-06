@@ -1,0 +1,56 @@
+(;GE[elementary]DI[15k]DP[60]SO[ewq123]CO[0]AW[ca]AW[db]AW[eb]AW[fb]AW[fc]AW[gc]AW[gd]AW[hb]AW[ib]AW[ia]AW[ja]AB[ka]AB[kb]AB[jb]AB[jc]AB[ic]AB[hc]AB[hd]AB[he]AB[ge]AB[fd]AB[fe]AB[dc]AB[cc]AB[cb]AB[dd]C[Black to kill]AP[goproblems]
+(;B[ga];W[fa]
+(;B[da]C[One eye. Even if White captures D1 Black can tenuki as White cannot live even then.RIGHT])
+(;B[ba];W[da]C[CHOICE]
+(;B[gb];W[ha];B[gb];W[ga]C[CHOICE])
+(;B[ha];W[gb]C[CHOICE])
+(;B[ec];W[gb]C[CHOICE]))
+(;B[ea];W[da]
+(;B[ec];W[gb]C[CHOICE])
+(;B[ba];W[bb]
+(;B[bc];W[aa];B[ac];W[gb]C[CHOICE])
+(;B[ab];W[aa];B[bc];W[ac];B[ad];W[gb];B[ab];W[ba]C[CHOICE]))
+(;B[gb];W[ha];B[gb];W[ga]C[CHOICE])
+(;B[ha];W[gb]C[CHOICE]))
+(;B[ec];W[da]
+(;B[gb];W[ha];B[gb];W[ga]C[CHOICE])
+(;B[ha];W[gb]C[CHOICE]))
+(;B[gb];W[ha]
+(;B[gb];W[da];B[ga];W[hb]C[Alive!])
+(;B[da]C[One eye. Even if White captures D1 Black can tenuki as White cannot live even then.RIGHT])
+(;B[ga];W[da];B[gb];W[hb]C[Whoops!]))
+(;B[ha];W[gb]
+(;B[ba];W[da]C[CHOICE])
+(;B[da]C[One eye. Even if White captures D1 Black can tenuki as White cannot live even then.RIGHT])
+(;B[ea];W[da]C[CHOICE])
+(;B[ec];W[da]C[CHOICE])
+(;B[ga];W[da]C[CHOICE])
+(;B[ha];W[da]C[CHOICE])))
+(;B[gb];W[ga]
+(;B[da])
+(;B[ba];W[da]C[CHOICE])
+(;B[ec];W[da]C[CHOICE])
+(;B[fa];W[da]C[CHOICE])
+(;B[ea];W[da]C[CHOICE]))
+(;B[ha];W[ga]
+(;B[fa];W[da]C[CHOICE])
+(;B[ea];W[da]C[CHOICE])
+(;B[da];W[ea];B[ba];W[da]C[CHOICE])
+(;B[ec];W[da]C[CHOICE]))
+(;B[fa];W[ga]
+(;B[ba];W[da]C[CHOICE])
+(;B[da];W[ea];B[ba];W[da]C[CHOICE])
+(;B[ea];W[da]C[CHOICE]))
+(;B[da];W[ga]
+(;B[ba];W[ea]C[CHOICE])
+(;B[ea];W[fa]
+(;B[da];W[ea];B[ba];W[da])
+(;B[ea];W[da]C[CHOICE]))
+(;B[fa];W[ea]
+(;B[ba];W[da]C[CHOICE])
+(;B[ec];W[da]C[CHOICE]))
+(;B[ec];W[ea];B[ba];W[da]C[CHOICE]))
+(;B[ea];W[ga]
+(;B[fa];W[da]C[CHOICE])
+(;B[da];W[fa];B[da]))
+(;B[ba];W[ga];B[da];W[ea]C[CHOICE]))

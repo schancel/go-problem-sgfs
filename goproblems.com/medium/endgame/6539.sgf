@@ -1,0 +1,104 @@
+(;GE[endgame]DI[3k]DP[25]SO[Trucid]CO[7]SZ[9]AW[ba]AW[da]AW[bb]AW[db]AW[ac]AW[bc]AW[cc]AW[hc]AW[ic]AW[bd]AW[hd]AW[be]AW[he]AW[ef]AW[ff]AW[gf]AW[hf]AW[if]AW[hg]AW[hh]AW[ih]AW[gi]AB[aa]AB[ea]AB[fa]AB[ga]AB[eb]AB[gb]AB[hb]AB[dc]AB[ec]AB[fc]AB[gc]AB[dd]AB[de]AB[ee]AB[fe]AB[ge]AB[af]AB[bf]AB[cf]AB[df]AB[bg]AB[ah]AB[bh]AB[ch]AB[dh]AB[eh]AB[fh]AB[gh]AB[bi]C[No komi, no prisoners. White to play and win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ib];B[fi]
+(;W[hi]
+(;B[eg]C[CHOICE];W[gd]
+(;B[ae]C[CHOICE];W[fd]C[ White wins by one point.RIGHT])
+(;B[fd]C[CHOICE];W[ae]C[ White wins by one point.RIGHT]))
+(;B[gd]C[CHOICE];W[eg]
+(;B[ae]C[CHOICE];W[dg]C[ White wins by one point.RIGHT])
+(;B[dg]C[CHOICE];W[ae]C[ White wins by one point.RIGHT])))
+(;W[gd];B[hi]
+(;W[eg];B[ae]
+(;W[dg];B[fd]C[Jigo])
+(;W[fd];B[dg]C[Jigo]))
+(;W[fd];B[eg];W[ae]C[Jigo])
+(;W[ae];B[eg];W[fd]C[Jigo]))
+(;W[eg];B[hi]
+(;W[gd];B[fd]
+(;W[dg];B[ae]C[Jigo])
+(;W[ae];B[dg]C[Jigo]))
+(;W[ae];B[gd];W[dg]C[Jigo])
+(;W[dg];B[gd];W[ae]C[Jigo]))
+(;W[ae];B[hi]
+(;W[gd];B[eg];W[fd]C[Jigo])
+(;W[eg];B[gd];W[dg]C[Jigo])))
+(;W[fi];B[ei]
+(;W[hi];B[ib]
+(;W[eg];B[gd]
+(;W[dg];B[ae]C[Jigo])
+(;W[ae];B[dg]C[Jigo]))
+(;W[gd];B[eg]
+(;W[fd];B[ae]C[Jigo])
+(;W[ae];B[fd]C[Jigo]))
+(;W[ae];B[gd];W[eg];B[dg]C[Jigo]))
+(;W[ib];B[hi]C[Oops]))
+(;W[eg];B[fi]
+(;W[hi];B[ib]
+(;W[gd];B[dg]
+(;W[fd];B[ae]C[Jigo])
+(;W[ae];B[fd]C[Jigo]))
+(;W[dg];B[gd];W[ae]C[Jigo])
+(;W[ae];B[gd];W[dg]C[Jigo.]))
+(;W[ib];B[hi]
+(;W[gd];B[dg]
+(;W[fd];B[ae]C[Jigo])
+(;W[ae];B[fd]C[Jigo]))
+(;W[dg];B[gd];W[ae]C[Jigo])
+(;W[ae];B[gd];W[dg]C[Jigo]))
+(;W[gd];B[hi]
+(;W[ib];B[dg]
+(;W[fd];B[ae]C[Jigo])
+(;W[ae];B[fd]C[Jigo]))
+(;W[fd];B[ib]
+(;W[dg];B[ae]C[You somehow manage to lose by a point]TW[aa]TW[ca]TW[ab]TW[cb]TW[id]TW[ie]TW[ig]TB[ha]TB[ia]TB[fb]TB[ag]TB[ai]TB[ci]TB[di]TB[ei])
+(;W[ae];B[dg]))
+(;W[dg];B[ib]
+(;W[fd];B[ae])
+(;W[ae];B[fd]))
+(;W[ae];B[ib]
+(;W[fd];B[dg])
+(;W[dg];B[fd]))))
+(;W[gd];B[fi]
+(;W[hi];B[ib]
+(;W[eg];B[ae]
+(;W[dg];B[fd]C[Jigo])
+(;W[fd];B[dg]C[Jigo]))
+(;W[fd];B[eg];W[ae]C[Jigo])
+(;W[ae];B[eg];W[fd]C[Jigo]))
+(;W[ib];B[hi]
+(;W[eg];B[ae]
+(;W[dg];B[fd]C[Jigo])
+(;W[fd];B[dg]C[Jigo]))
+(;W[ae];B[eg];W[fd]C[Jigo])
+(;W[fd];B[eg];W[ae]C[Jigo]))
+(;W[eg];B[hi]
+(;W[ib];B[ae]
+(;W[dg];B[fd]C[Jigo])
+(;W[fd];B[dg]C[Jigo]))
+(;W[fd];B[ib]
+(;W[dg];B[ae]C[You somehow manage to lose by a point.])
+(;W[ae];B[dg]C[You somehow manage to lose by a point.]))
+(;W[dg];B[ib]
+(;W[fd];B[ae]C[You somehow manage to lose by a point.])
+(;W[ae];B[fd]))
+(;W[ae];B[ib]
+(;W[fd];B[dg]C[You somehow manage to lose by a point.])
+(;W[dg];B[fd]C[You somehow manage to lose by a point.]))))
+(;W[hi];B[ib]
+(;W[fi];B[ei])
+(;W[gd];B[fi])
+(;W[eg];B[fi])
+(;W[ae];B[fi]
+(;W[gd])
+(;W[eg])))
+(;W[ae];B[ib]
+(;W[fi];B[ei];W[hi])
+(;W[hi])
+(;W[eg];B[fi]
+(;W[hi])
+(;W[gd];B[hi])
+(;W[dg];B[hi];W[gd]))
+(;W[gd];B[fi]
+(;W[hi])
+(;W[eg];B[hi])
+(;W[fd];B[hi];W[eg]))))

@@ -1,0 +1,20 @@
+(;GE[life and death]DI[15k]DP[62]SO[polo]CO[6]AW[rq][qq][pq][op][np][mn][mm][ml][nk][ok][pk][ql][rl][rm][qo]AB[nm][nl][ol][pl][pm][on][oo][qm][rn][qp]SZ[19]C[Black to live]
+
+(;B[po]
+(;W[ro]C[CHOICE]
+(;B[qn]C[RIGHT])
+(;B[rp];W[qn]))
+(;W[qn]C[CHOICE]
+(;B[ro];W[rp]
+(;B[pp]C[RIGHT])
+(;B[pn]TR[pp][qo]C[RIGHT Black is alive, but there is a better way. White can use either of the marked points as ko-threats.]))
+(;B[rp];W[ro])
+(;B[pp];W[ro])
+(;B[pn];W[ro])))
+(;B[ro];W[po])
+(;B[qn];W[po])
+(;B[pp];W[po])
+(;B[pn];W[po];B[ro];W[rp])
+(;B[rp];W[po]
+(;B[pp];W[ro])
+(;B[ro];W[pp])))

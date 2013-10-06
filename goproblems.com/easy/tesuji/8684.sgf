@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[5k]DP[33]SO[tjl]CO[6]AW[nc]AW[nd]AW[ne]AB[lb]AW[kb]AB[jb]AB[jc]AB[jd]AW[ja]AW[ib]AW[ic]AW[id]AW[hd]AW[gd]AB[ie]AB[jf]AB[he]AB[ge]AB[fd]AB[fc]AB[fb]C[W to connect]AB[me]AB[le]AW[nf]AW[ng]AB[pb]AB[pc]AB[pd]AB[qe]AW[qg]AW[qj]AB[gb]AB[je]AP[goproblems]
+(;W[mb]
+(;B[la]C[B makes a mistake];W[lc];B[kc];W[ma]C[Unconditional connection due to B mistake (ko is best when B plays optimally)CHOICERIGHT])
+(;B[kc];W[la]C[Ko - best resultCHOICERIGHT]))
+(;W[lc];B[kc]
+(;W[ka];B[la]
+(;W[ia];B[mc])
+(;W[mb];B[ia])
+(;W[mc];B[ia]))
+(;W[la];B[mb]
+(;W[mc];B[ma])
+(;W[nb];B[ma])
+(;W[ma];B[na])
+(;W[ka];B[ma])))
+(;W[kc];B[lc])
+(;W[la];B[mb]))

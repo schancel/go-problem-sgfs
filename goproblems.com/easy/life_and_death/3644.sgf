@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[49]SO[santa c]CO[5]C[Black plays and lives.]AW[ac]AW[ab]AW[bd]AW[be]AW[ce]AW[de]AW[ed]AW[fd]AW[fc]AW[gb]AW[hb]AW[ha]AB[fb]AB[ec]AB[db]AB[cc]AB[cd]AW[bc]AB[bb]AB[ba]AW[ea]AP[goproblems]
+(;B[fa]C[Well done! :)RIGHT])
+(;B[eb];W[fa]C[Black's dead! (A and B are miai to live)]LB[ca:A]LB[da:A]LB[dd:B])
+(;B[da];W[fa]C[Black's dead! (A and B are miai to live)]LB[dd:A]LB[eb:B])
+(;B[ca];W[fa]C[Black's dead! (A and B are miai to live)]LB[dd:A]LB[eb:B])
+(;B[cb];W[fa]C[Black's dead! (A, B and C are miai to live)]LB[da:A]LB[dd:B]LB[eb:C])
+(;B[dd];W[fa]C[Black's dead! (A and B are miai to live)]LB[da:A]LB[eb:B]LB[ca:A])
+(;B[dc];W[fa]C[Black's dead!]))

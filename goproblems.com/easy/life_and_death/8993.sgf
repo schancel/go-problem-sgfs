@@ -1,0 +1,43 @@
+(;GE[life and death]DI[15k]DP[62]SO[LCZLAPINSKI]CO[6]AB[ac]AB[db]AB[dc]AB[dd]AB[ce]AB[be]AW[ab]AW[cb]AW[cc]AW[cd]AW[bd]AB[df]AB[bg]AB[fb]AP[goproblems]
+(;W[ba];B[ad]TR[aa]C[Creating an eye in the corner is useful in many positions.];W[bc]C[RIGHT])
+(;W[bc];B[ba]
+(;W[ca];B[ad])
+(;W[ad];B[ca]))
+(;W[ad]
+(;B[ba]
+(;W[ca];B[bb]LB[fg:T]C[Play at T if you wish to tenuki.]
+(;W[bc]C[wB17 works but it is usually better is to tenuki.RIGHT])
+(;W[fg]C[RIGHT];B[aa];W[bc]C[RIGHT]))
+(;W[bb];B[ca])
+(;W[aa];B[ca])
+(;W[bc];B[ca])
+(;W[da];B[ca]))
+(;B[bb]
+(;W[bc]C[RIGHT])
+(;W[ba];B[aa];W[bc];B[ca];W[ab]C[Ko];B[ac]C[NOTTHIS])
+(;W[aa];B[ba];W[ca];B[da];W[ab];B[aa];W[bc];B[ae]))
+(;B[ca];W[ba]C[RIGHT]))
+(;W[ae]
+(;B[ca]
+(;W[ba]C[White gets a 2nd eye in the corner.RIGHT]TR[aa]TR[bc])
+(;W[bc];B[ba])
+(;W[da];B[ba])
+(;W[eb];B[ba]))
+(;B[ba]
+(;W[ca];B[ad];W[bc];B[ad])
+(;W[ad];B[ca])))
+(;W[af]C[This can work but isn't the best.];B[ba];W[ca];B[ad];W[ae];B[bb];W[bc];B[ad])
+(;W[aa];B[ad];W[bc];B[ae])
+(;W[bb];B[ad])
+(;W[ca];B[ad];W[bc];B[ba];W[ae];B[ad])
+(;W[da];B[ad];W[bc];B[ba]C[Pyramid four nakade.]TR[aa]TR[ba]TR[ca]TR[bb]
+(;W[ae];B[ad])
+(;W[ea];B[fa];W[eb];B[ec])
+(;W[eb];B[ec];W[ea]LB[ee:T];B[ee]C[Black tenukis.]))
+(;W[bf];B[ad];W[bc];B[ba]
+(;W[ca];B[ae])
+(;W[ae];B[ca]))
+(;W[ea];B[ba]
+(;W[ca];B[ad])
+(;W[ad];B[ca];W[da];B[fa];W[bb];B[eb]))
+(;W[eb];B[ba];W[ca];B[ad]))

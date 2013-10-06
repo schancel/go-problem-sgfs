@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[1k]DP[18]SO[santa c]CO[0]AB[ap]AB[bq]AB[cp]AB[dq]AB[dr]AB[ds]AW[er]AW[dp]AW[bo]AW[cn]AW[do]AW[ep]AW[cs]AW[br]AW[es]AW[fq]AW[fr]AW[an]C[there're no outside threats, what can you do?]AP[goproblems]
+(;B[bs]
+(;W[as]
+(;B[cr];W[bp];B[bs]C[nicely done!RIGHT])
+(;B[ar]
+(;W[bp];B[bs]C[nicely done!RIGHT])
+(;W[aq]
+(;B[bp];W[eq];B[cq];W[ao];B[ar]C[RIGHT])
+(;B[cr];W[bp];B[ar]C[RIGHT])))
+(;B[bp];W[eq];B[cq];W[ar]))
+(;W[cr];B[ar];W[as];B[cq];W[aq];B[bp];W[eq];B[ar]C[RIGHT]))
+(;B[bp];W[eq];B[cq];W[ar];B[cr];W[bs];B[aq]
+(;W[ao];B[as];W[bs];B[br];W[ar]C[no outside threats, remember?])
+(;W[co]C[NOTTHIS]))
+(;B[cr];W[bs]
+(;B[bp];W[eq];B[cq];W[ar])
+(;B[ar];W[bp]))
+(;B[ar];W[bp]
+(;B[bs];W[as]C[no outside threats, remember?];B[cr];W[aq]
+(;B[cq]
+(;W[bs]))
+(;B[bs];W[cq]))
+(;B[cr];W[bs])))

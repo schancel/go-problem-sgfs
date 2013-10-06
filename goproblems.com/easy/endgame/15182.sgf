@@ -1,0 +1,13 @@
+(;GE[endgame]DI[7k]DP[42]SO[mysandbox]CO[0]AB[db]AB[dc]AB[ea]AB[ga]AB[fa]AB[cd]AB[ce]AB[cf]AW[eb]AW[ec]AW[gb]AW[gc]AW[ha]AW[ia]AW[hb]AW[dd]AW[ed]AW[df]AW[ef]AW[fe]AW[ge]AW[hd]AW[id]AB[dg]AB[dh]AB[di]AB[eg]AB[dj]MA[ea]MA[fa]MA[ga]AP[goproblems]
+(;W[cc];B[cb]
+(;W[bc];B[bb]
+(;W[fb];B[da])
+(;W[da];B[ca]
+(;W[fb]C[RIGHT])
+(;W[ab];B[bd];W[fb]C[RIGHT])
+(;W[ac];B[bd];W[fb]C[RIGHT])))
+(;W[da];B[ca]
+(;W[fb];B[bc];W[da]C[RIGHT])
+(;W[bc];B[bb];W[fb]C[RIGHT])))
+(;W[da];B[ca];W[fb];B[da];W[cc];B[bc])
+(;W[fb];B[da];W[cc];B[cb];W[bc];B[bb]))

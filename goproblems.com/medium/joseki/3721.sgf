@@ -1,0 +1,6 @@
+(;GE[joseki]DI[3d]DP[10]SO[happyboy]CO[8]AB[dp]AW[fq]AB[hq]AW[cq]AB[dq]AW[cp]AW[cr]AB[co]LB[co:A]LB[cr:B]AP[goproblems]
+(;B[do];W[dr];B[fp];W[eq];B[gp]C[OK for both.RIGHT])
+(;B[dr];W[do]
+(;B[eo];W[dn];B[fp];W[cn]C[Bad for black.])
+(;B[cn];W[ep]C[D4 group is dead.])
+(;B[dn];W[eo]C[D4 group is dead.])))

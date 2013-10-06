@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[2k]DP[22]SO[godork]CO[7]AB[bi]AB[bj]AB[ck]AB[bl]AB[dj]AB[di]AB[dl]AB[ek]AB[fj]AB[gj]AB[hj]AB[ii]AB[ih]AB[hh]AB[hg]AB[jh]AB[kh]AB[kg]AW[kf]AW[je]AW[jg]AB[ie]AB[he]AW[kd]AW[kc]AW[jb]AW[ic]AW[id]AW[hd]AW[gd]AW[fd]AW[fc]AW[fb]AW[ee]AW[df]AW[dg]AW[dh]AW[cg]AW[bh]AW[ci]AW[ei]AW[fh]AW[gh]AW[gf]AB[ff]AW[cl]AW[bm]AW[cm]AW[dm]AW[cn]AW[co]AW[em]AW[do]AW[fn]AW[fo]AW[ep]AW[eq]AW[dr]AW[fr]AW[fl]AW[gk]AW[hk]AW[ik]AW[ij]AB[jj]AB[jk]AB[il]AB[hl]AW[jl]AW[kl]AW[ki]AW[li]AW[mi]AW[mg]AW[lg]AB[lf]AB[mf]AB[ng]AB[nh]AB[ni]AB[nj]AW[mj]AW[mk]AW[nk]AB[ok]AB[pj]AB[qk]AB[rk]AB[nl]AW[ol]AW[pl]AW[ql]AW[nm]AW[mm]AW[mn]AB[om]AB[on]AB[pn]AB[nn]AB[rn]AB[pp]AW[oo]AW[nq]AB[pr]AB[lo]AB[ln]AB[lq]AB[kq]AB[jq]AB[jp]AW[kp]AW[jo]AW[ip]AB[hq]AB[fq]AB[fp]AB[go]AB[gn]AW[hb]AB[hc]AB[gc]AB[gb]AB[ga]AB[fa]AB[ea]AB[eb]AB[ec]AB[dc]AB[dd]AB[cd]AB[bd]AB[ce]AB[cf]AW[cc]AW[bc]AW[ac]AW[db]AW[da]AW[ca]AW[ba]AW[aa]AB[bb]AB[lc]AB[lb]AB[md]AB[pd]AB[pc]AB[qe]AW[re]AW[qf]AW[pf]AW[qc]AW[qb]AB[dp]AB[cp]AB[bp]AP[goproblems]
+(;B[ak]
+(;W[ai]
+(;B[el];W[fk]
+(;B[ej]C[RIGHT])
+(;B[gl];W[fm];B[ej]C[RIGHT]))
+(;B[fk];W[gl]
+(;B[ej];W[el])
+(;B[el];W[ej])))
+(;W[el];B[ai]C[RIGHT]))
+(;B[el])
+(;B[fk];W[gl]
+(;B[el];W[ej])
+(;B[ej];W[el]))
+(;B[al];W[el])
+(;B[ai];W[ak];B[al];W[am];B[bk];W[el]))

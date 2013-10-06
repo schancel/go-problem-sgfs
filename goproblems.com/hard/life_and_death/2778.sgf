@@ -1,0 +1,43 @@
+(;GE[life and death]DI[4d]DP[7]SO[Hans]CO[7]AW[lb]AW[qb]AW[kc]AW[pc]AW[ld]AW[pd]AW[ke]AW[me]AW[pe]AW[mf]AW[nf]AW[pf]AW[fo]AW[ep]AW[gp]AW[eq]AW[fq]AW[gq]AW[dr]AW[gr]AW[cs]AB[mb]AB[pb]AB[mc]AB[nc]AB[oc]AB[md]AB[od]AB[ne]AB[dn]AB[fn]AB[gn]AB[do]AB[go]AB[io]AB[dp]AB[hp]AB[dq]AB[iq]AB[cr]AB[hr]LB[cs:A]LB[qa:B]C[White has played at A in order to live. If you think you can kill white try it out at the bottom. If you think the surrounded group can live play at B in the upper right corner.]
+(;B[br];W[eo]
+(;B[fs];W[es];B[gs];W[fr];B[hs]C[RIGHT])
+(;B[er];W[es]C[Ko.])
+(;B[bs];W[er]C[White lives.])
+(;B[gs];W[fs];B[bs];W[er]))
+(;B[er];W[es]C[Ko.])
+(;B[eo];W[cq]
+(;B[er];W[br])
+(;B[br];W[bq]
+(;B[bs];W[es]C[Ko.])
+(;B[er];W[es]C[Ko.])))
+(;B[fs];W[es]
+(;B[br];W[gs]
+(;B[fr];W[eo])
+(;B[eo];W[fr])
+(;B[bs];W[eo]))
+(;B[gs];W[cq];B[br];W[bq];B[bs]C[];W[ar]C[Ko.])
+(;B[eo];W[gs];B[fr];W[cq];B[br];W[bq];B[bs];W[ar]C[Ko.]))
+(;B[qa];W[rb]
+(;B[oe];W[na]
+(;B[ma];W[ob];B[pa];W[ra])
+(;B[ob];W[ma])
+(;B[oa];W[ma];B[nb];W[la]))
+(;B[oa];W[oe]
+(;B[ma];W[nb])
+(;B[nb];W[ma])))
+(;B[cq];W[br]
+(;B[bq];W[eo]
+(;B[fs];W[gs];B[er];W[ds])
+(;B[er];W[es]C[Ko.]))
+(;B[eo];W[bq]
+(;B[bp];W[aq];B[er];W[es]C[Ko.])
+(;B[er];W[es]C[Ko.]))
+(;B[er]C[];W[es]))
+(;B[bq];W[br];B[cq];W[eo]
+(;B[er];W[es]C[Ko.])
+(;B[fs];W[gs];B[er];W[ds]))
+(;B[cp];W[br];B[cq];W[bq]
+(;B[er];W[es]C[Ko.])
+(;B[eo];W[es];B[bp];W[aq]C[White lives.])
+(;B[fs];W[gs])
+(;B[eo];W[es];B[bp];W[aq]C[White lives.])))

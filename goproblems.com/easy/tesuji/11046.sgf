@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[5k]DP[33]SO[sabetts]CO[0]SZ[19]AW[pn]AW[po]AW[mp]AW[np]AW[op]AW[jq]AW[lq]AW[oq]AW[nr]AW[ns]AB[qm]AB[qo]AB[qp]AB[mq]AB[nq]AB[qq]AB[mr]AB[or]C[Black needs to help his single stone and three stones]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[pr];W[lr])
+(;B[ms];W[pr]
+(;B[ps]
+(;W[qr]
+(;B[pq];W[rr];B[rq]C[RIGHT])
+(;B[rr];W[qs]
+(;B[pq];W[os])
+(;B[os];W[pq])))
+(;W[pq];B[qr]C[RIGHT]))
+(;B[os];W[pq]))
+(;B[os];W[pr];B[ms];W[pq]))

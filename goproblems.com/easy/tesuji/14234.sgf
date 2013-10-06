@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[8k]DP[48]SO[whendrik]CO[0]AB[dr]AB[er]AB[eq]AB[fp]AB[gq]AB[go]AB[ho]AB[iq]AW[cq]AW[cr]AW[ds]AW[fr]AW[ep]AW[dp]AW[en]AW[fo]AW[gn]C[Protect your points. Don't let white connect the marked stone.]TR[fr]AP[goproblems]
+(;B[fs]C[Well done! White can't play at the marked points now.RIGHT]TR[fq]TR[es])
+(;B[es];W[fq]
+(;B[gp];W[fs])
+(;B[fs];W[gp])
+(;B[gr];W[gp]))
+(;B[gr];W[es]C[White connected.])
+(;B[fq];W[es]C[White connected.])
+(;B[gs];W[fq];B[gp];W[es]))

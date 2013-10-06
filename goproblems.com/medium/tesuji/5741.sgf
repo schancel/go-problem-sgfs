@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[2d]DP[14]SO[maba]CO[8]AB[ak]AB[bl]AB[bm]AB[bj]AB[ci]AB[dh]AB[eg]AB[cf]AB[df]AW[de]AW[ef]AW[gf]AW[fe]AW[ed]AW[gd]AB[cd]AW[dc]AW[eb]AW[fc]AB[fb]AB[gb]AB[gc]AB[hc]AB[hd]AB[he]AB[hf]AB[if]AB[ig]AB[ih]AW[hg]AW[hh]AW[hi]AW[hj]AW[bk]AW[cj]AW[ck]AW[cl]AW[di]AW[dj]AW[eh]AB[gg]AB[ii]AB[dm]AB[dl]AB[cn]AB[el]C[White to connect all her groups. Assume ladders don't work for white. (no ko )]AW[ik]AB[dd]AB[bd]AB[bb]AW[cc]AB[bc]AB[dg]AB[bh]AP[goproblems]
+(;W[fg];B[fh]
+(;W[gh]
+(;B[ei]
+(;W[ej]
+(;B[fj]
+(;W[fi];B[gi];W[fk];B[fi]
+(;W[gj];B[eh];W[ek]C[RIGHT])
+(;W[ek];B[gk];W[gj];B[eh];W[gl]C[RIGHT]))
+(;W[fk];B[fi];W[ek];B[gk];W[gl];B[hk];W[hl];B[gj];W[fl];B[ij]))
+(;B[fi];W[fj]C[RIGHT]))
+(;W[fi];B[ej])
+(;W[fj];B[ej];W[ek];B[fk])
+(;W[fk];B[ej])
+(;W[ek];B[fj];W[fi];B[fk]))
+(;B[fi];W[fj]
+(;B[ei];W[ej]C[RIGHT])
+(;B[ej];W[ei])))
+(;W[ff];B[ei];W[ej];B[fj])
+(;W[ei];B[ff])
+(;W[fi];B[ff]))
+(;W[gh];B[fg]))

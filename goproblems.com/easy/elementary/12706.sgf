@@ -1,0 +1,14 @@
+(;GE[elementary]DI[20k]DP[73]SO[Acorn]CO[0]AB[sc]AB[rc]AB[qc]AB[pc]AB[oc]AB[od]AB[ne]AB[nf]AB[qf]AB[pg]AB[oh]AW[of]AW[pf]AW[oe]AW[pd]AW[qd]AW[qe]AW[rd]AW[nd]AW[nc]AW[ob]AW[pb]AW[qb]AW[rb]AP[goproblems]
+(;B[og];W[pe]
+(;B[re]LB[og:1]LB[pe:2]LB[re:3]C[Giving atari with Black 1 is the correct answer. If White connects at 2, he can't escape after 3.RIGHT])
+(;B[sd]C[RIGHT])
+(;B[rf];W[sd])
+(;B[se];W[rf];B[qg];W[sf]
+(;B[sd];W[re])
+(;B[sb];W[re])
+(;B[rg];W[sb];B[sd];W[re]))
+(;B[sf];W[sb]))
+(;B[sd];W[se]LB[sd:1]LB[se:2]C[If Black plays 1, White 2 puts seven black stones into atari. Black has failed.])
+(;B[rf];W[sd])
+(;B[qg];W[sd])
+(;B[ng];W[sd]))

@@ -1,0 +1,53 @@
+(;GE[life and death]DI[7k]DP[42]SO[DarkSycthe]CO[0]AB[ij]AB[jj]AB[hj]AB[hk]AB[hl]AB[hi]AB[li]AB[kh]AB[jg]AB[ih]AB[kj]AB[lj]AB[lk]AB[ll]AW[gl]AW[gk]AW[gj]AW[gi]AW[hh]AW[hg]AW[jf]AW[lh]AW[lg]AW[mi]AW[mj]AW[mk]AW[ml]AW[kf]AW[if]AW[lm]AW[km]AW[jm]AW[im]AW[hm]AW[lf]AW[hf]C[Play T for tenuki if you think black is unconditionally alive, D for dead if you think black is unconditionally dead, or P for play if you think you must play to save black.]LB[ho:T]LB[jo:D]LB[mo:P]AP[goproblems]
+(;B[ho];W[ji]C[Then show me how to live.]
+(;B[jh];W[jk])
+(;B[jk];W[jh]
+(;B[ii];W[kg]
+(;B[ki]
+(;W[kl];B[il]C[RIGHT])
+(;W[il];B[kl]C[RIGHT]))
+(;B[ig];W[ki];B[kh]C[RIGHT]))
+(;B[kg];W[ig];B[ki];W[ii];B[ih]MA[ji]MA[il]MA[kl]C[Nice, black is alive.RIGHT])
+(;B[ig];W[kg];B[ii];W[ki];B[kh]MA[il]MA[kl]MA[ji]C[Nice, black is alive.RIGHT])
+(;B[ki];W[ig]
+(;B[ii]MA[il]MA[kl]C[RIGHT])
+(;B[kg];W[ii];B[ih]C[RIGHT]))
+(;B[kl]C[NOTTHIS])
+(;B[il]C[NOTTHIS]))
+(;B[kl];W[jh]
+(;B[ki];W[ig]
+(;B[ii];W[jk];B[jl];W[il];B[ik]C[RIGHT])
+(;B[kg];W[ii];B[ih];W[jk];B[jl];W[il];B[ik]C[RIGHT]))
+(;B[ii];W[kg]
+(;B[ki];W[jk];B[jl];W[il];B[ik]C[RIGHT])
+(;B[ig];W[ki];B[kh];W[jk];B[jl];W[il];B[ik]C[RIGHT]))
+(;B[jk]C[NOTTHIS])
+(;B[kg];W[ig];B[ki];W[ii];B[ih];W[jk]
+(;B[jl];W[il];B[ik]C[RIGHT])
+(;B[ji]C[RIGHT]))
+(;B[ig];W[kg];B[ii];W[ki];B[kh];W[jk]
+(;B[jl];W[il]
+(;B[ik]C[RIGHT]))
+(;B[ji]C[RIGHT])))
+(;B[il]C[NOTTHIS];W[jh];B[ig];W[kg];B[ii];W[ki];B[kh])
+(;B[kg];W[jk])
+(;B[ig];W[jk])
+(;B[ki];W[jk])
+(;B[ii];W[jk])
+(;B[kk];W[jl])
+(;B[ik]C[NOTTHIS])
+(;B[jl];W[kl]
+(;B[jk];W[il])
+(;B[kk];W[il])
+(;B[ik];W[kk])
+(;B[il];W[jk];B[kk];W[jh]
+(;B[ig];W[kg];B[ii];W[ki];B[kh]C[RIGHT])
+(;B[kg];W[ig];B[ki];W[ii];B[ih]C[RIGHT])
+(;B[ii];W[kg];B[ki]C[RIGHT])
+(;B[ki];W[ig]
+(;B[ii]C[RIGHT])))))
+(;B[jo]C[Wrong, black is actually alive. See solution for more details.])
+(;B[lo]C[Wrong, black is actually unconditionally alive. See solution for more details.NOTTHIS]
+(;W[ko]C[NOTTHIS])
+(;W[mo]))
+(;B[mo]C[Wrong, black is actually unconditionally alive. See solution for more details.]))

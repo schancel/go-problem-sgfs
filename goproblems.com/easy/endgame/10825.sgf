@@ -1,0 +1,14 @@
+(;GE[endgame]DI[5k]DP[32]SO[Field Mouse]CO[7]AB[ab]AB[bb]AB[cc]AB[ec]AB[cd]AB[dd]AB[ed]AB[eb]AB[ea]AW[bc]AW[ac]AW[bd]AW[be]AW[ce]AW[fe]AW[ee]AW[de]AW[fd]AW[fc]AW[fb]AW[fa]C[Black to play the best endgame, be careful :)]AB[gb]AB[hc]AB[ic]AW[ga]AB[jc]AB[kb]AB[kc]AB[mb]AB[mc]AB[lc]AB[la]AB[nb]AB[ob]AB[pa]AB[oa]AW[qa]AW[qb]AW[pb]AW[pc]AW[oc]AW[nc]AW[md]AW[nd]AW[kd]AW[ld]AW[jd]AW[id]AW[hd]AW[gc]AP[goproblems]
+(;B[hb];W[ha];B[ia];W[cb]
+(;B[ca];W[db]
+(;B[ba]C[I absolutely missed this move. You are better than me! :-)RIGHT])
+(;B[da];W[ba];B[dc];W[cb]
+(;B[db];W[cb])
+(;B[aa];W[ba])))
+(;B[db];W[ca]C[Black cannot approach :-(]))
+(;B[cb];W[hb]C[You could do better.])
+(;B[ha];W[hb];B[ia];W[ib];B[ja]C[You could do better.])
+(;B[ib];W[hb]C[Not optimal])
+(;B[ia];W[hb]C[Black could do better.])
+(;B[ca];W[hb]C[You could do better.])
+(;B[db];W[hb]C[Cou could do better.]))

@@ -1,0 +1,14 @@
+(;GE[endgame]DI[7k]DP[44]SO[DarkSycthe]CO[0]AW[pd]AW[pe]AW[oe]AW[ne]AW[me]AB[qd]AB[qe]AB[qf]AB[pf]AB[of]AB[nf]AB[mf]AB[le]AB[pc]AW[oc]AB[od]AW[ld]AW[ke]AW[kd]AB[lf]AB[kf]AB[qc]AW[pb]AW[qb]AW[rb]AW[rc]AW[re]AW[rd]AB[rf]AW[se]AB[sf]LB[pd:1]C[Nearing the end of the game, White just played 1. Should Black tenuki (T) (worth 2 points) or is there still something that Black can do in White's moyo?FORCE]LB[qg:T]AW[kb]AP[goproblems]
+(;B[nc]
+(;W[nd];B[ob]
+(;W[md];B[od]C[Right! A ko where Black takes first! This is optimal play by both sides. Note that if Black loses the ko Black can still tenuki, so it is better to play this ko out first before playing tenuki.RIGHT])
+(;W[od]C[Connecting fails for White];B[md]))
+(;W[ob]C[White doesn't want you making the ko... not a good play by white];B[md]C[Snapback.];W[nd];B[od]))
+(;B[qg]C[Nope. Black can still do something to white's moyo on the top])
+(;B[nd];W[md];B[nc];W[ob])
+(;B[md];W[nd]
+(;B[mc];W[nc])
+(;B[nc];W[mc]))
+(;B[ob];W[nc])
+(;B[nb];W[nd])
+(;B[mc];W[nd]))

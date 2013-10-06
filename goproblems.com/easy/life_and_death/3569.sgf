@@ -1,0 +1,40 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[6]AW[ca]AW[bb]AB[cb]AB[ac]AB[bd]AB[ae]AW[be]AW[bf]AW[af]AW[ag]AW[ah]AW[bh]AW[cg]AW[cf]AW[eg]AW[ff]AW[ge]AW[hd]AW[hc]AW[gb]AW[fb]AW[eb]AW[ec]AW[da]AB[db]AB[dc]AB[dd]AB[ed]AB[fd]AB[fc]AB[gc]AB[cd]AB[ce]C[What's the best black can do?]AP[goproblems]
+(;B[ba]C[White connects at E19. A19 is only here to show that white can't avoid the ko.]
+(;W[ea]
+(;B[ab];W[aa]MA[ba]C[Yup, Ko - Well done! ;)RIGHT];B[ba]C[NOTTHIS])
+(;B[bc];W[aa]
+(;B[ab];W[ba]C[Black's dead!])
+(;B[hb];W[ib];B[ab];W[ba]C[Black's dead!]))
+(;B[aa];W[ab]
+(;B[bc];W[ba]C[Black's dead!])
+(;B[ba];W[aa]
+(;B[bc];W[ba]C[Black's dead!])
+(;B[hb];W[ib];B[bc];W[ba]C[Black's dead!]))
+(;B[hb];W[ib]
+(;B[bc];W[ba]C[Black's dead!])
+(;B[ba];W[aa];B[bc];W[ba]C[Black's dead!])))
+(;B[hb];W[ib]
+(;B[ab];W[aa]MA[ba]C[Yup - It's a ko - but H18 is a waste of a ko threat..!];B[ba]C[NOTTHIS])
+(;B[bc];W[aa]C[Black's dead!])
+(;B[aa];W[ab]C[Black's dead!])
+(;B[ha];W[ia]
+(;B[ab];W[aa]MA[ba]C[Yup - It's a ko - but H18 is a waste of a ko threat..!];B[ba]C[NOTTHIS])
+(;B[bc];W[aa]C[Black's dead!])
+(;B[aa];W[ab]C[Black's dead!]))))
+(;W[aa]C[This just lets black live, without a ko.];B[ea];W[fa];B[ab]
+(;W[ea];B[bc];W[ba];B[hb]C[White can't avoid the ko.])
+(;W[ba];B[bc];W[ea];B[hb]C[White can't avoid the ko.])
+(;W[hb];B[bc];W[ea];B[ba]C[White can't avoid the ko.])))
+(;B[bc];W[ba]C[Black's dead!])
+(;B[ab];W[ba]C[Black's dead!])
+(;B[aa];W[ba]C[Black's dead!])
+(;B[ea];W[ba]C[Black's dead!])
+(;B[hb];W[ib];B[ba];W[ea]
+(;B[ab];W[aa]C[Yup - It's a ko - but H18 is a waste of a ko threat..!]MA[ba];B[ba]C[NOTTHIS])
+(;B[bc];W[aa]C[Black's dead!])
+(;B[aa];W[ab]C[Black's dead!])
+(;B[ha];W[ia]
+(;B[ab];W[aa]C[Yup - It's a ko - but H18 is a waste of a ko threat..!]MA[ba];B[ba]C[NOTTHIS])
+(;B[bc];W[aa]C[Black's dead!])
+(;B[aa];W[ab]C[Black's dead!])))
+(;B[ef]C[NOTTHIS]))

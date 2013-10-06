@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[1k]DP[18]SO[ketran0]CO[7]AB[sc]AB[se]AB[sg]AB[si]AW[pb]AW[oc]AW[od]AW[oe]AW[of]AW[og]AW[oh]AB[pc]AW[qc]AB[pd]AW[sa]AB[rb]AB[ri]AB[qi]AB[pi]C[W to win]AP[goproblems]
+(;W[pe];B[qd];W[rd];B[qe]
+(;W[re];B[qf];W[sd];B[sf];W[rc];B[sb];W[qb];B[ra]C[what game are you playing? go?])
+(;W[qf];B[re]))
+(;W[qd];B[pe]
+(;W[pf];B[qe]
+(;W[re];B[qf];W[rf];B[qg];W[sf];B[sd];W[rg];B[sh];W[qh]C[RIGHT])
+(;W[qf];B[re]))
+(;W[qe];B[pf]
+(;W[qf];B[pg]
+(;W[qg];B[ph]C[uh, no.])
+(;W[ph];B[qg]
+(;W[qh];B[rg])
+(;W[rg];B[qh])))
+(;W[pg];B[qf]
+(;W[rf];B[qg];W[rg];B[qh];W[sf];B[sh];W[re];B[sd])
+(;W[qg];B[rf]))))
+(;W[qe];B[ra]C[You lose :(]))

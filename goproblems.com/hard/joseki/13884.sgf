@@ -1,0 +1,29 @@
+(;GE[joseki]DI[5d]DP[4]SO[DarkSycthe]CO[0]AB[qd]AW[od]AB[md]AW[of]AB[qf]AW[oh]AB[qh]AW[qc]AB[rc]AW[kc]LB[kc:1]C[White has just counter-pincered at 1, following the exchange of A for B. It is a good idea to leave C unplayed, although playing C is also OK. If Black now tries to escape with 2, how can white profit? (Hint: use the A-B exchange to your advantage.FORCE]AB[le]LB[le:2]LB[qc:A]LB[rc:B]LB[pc:C]AP[goproblems]
+(;W[pd];B[re]C[FORCE]
+(;W[rb];B[qb]C[FORCE];W[pc]
+(;B[ra]C[CHOICEFORCE]
+(;W[sb]C[];B[sc]C[This exchange is good.FORCE];W[pb];B[sa]C[Because if Black doesn't respond White immediately lives.FORCE];W[mb]C[White connects!RIGHT])
+(;W[pb]
+(;B[sb]C[Black will capture for the sake of the current state, but if Black decides instead to split white, note that the capture of R18 could be followed by B T18, which is indeed a difficult ko but a ko nonetheless that could threaten White. That's why you should exchange T18 for T17 first.CHOICE];W[mb]C[FORCERIGHT])
+(;B[mb];W[qa];B[sb]C[Note this variation. While it might be overplay right now, later this could cause problems for White.]))
+(;W[mb];B[pb]C[FORCE]
+(;W[ob];B[nc]C[FORCE];W[oc];B[nb]C[FORCE];W[na]C[This is poor shape and lacking in terms of territory, despite the connection.])
+(;W[nc]C[White is losing territory by this connection. Compare with the solution.])))
+(;B[sb]C[Wrong atari];W[mb];B[nc];W[nb];B[oc];W[ob];B[pb];W[ra]C[White can still connect.]))
+(;W[pb];B[qb]C[FORCE]
+(;W[pc];B[mb]C[Black prevents the connection. What now?FORCE]
+(;W[rb];B[sb]C[FORCE];W[qa]C[Although White almost has a base in the corner (note that it's not entirely two eyes yet), White's L17 stone is cut and can now be counter-attacked, especially considering the fact that it is Black's turn now. Not best.])
+(;W[lg]C[Running battle. Not best, as Black can aim at L17 with a severe attack next. You could have connected under])
+(;W[hc]C[These stones are not secure yet and neither are the Q17 stones. Not good.]MA[hc]MA[kc]))
+(;W[mb];B[pc]C[Whatever the connection may be now, White has lost a stone (and possibly the Q18 one too) and/or a few points of territory, making this worse than the solution]))
+(;W[qb];B[nc]C[White is cut.]))
+(;W[pc];B[rb]C[White is still not settled and cannot connect under either.])
+(;W[rb];B[pc];W[qb];B[pd]C[White is now forced to allow black to connect and attack the floating white stones by living small in the corner or White could lose the three corner stones.  Neither is good.])
+(;W[mb]C[Correct too, but blocked to reduce variations. A follow-up has been providedNOTTHIS];B[nc];W[pd];B[re];W[rb];B[qb];W[pc];B[ra];W[sb];B[sc];W[pb];B[sa];W[nb]C[RIGHT])
+(;W[rd];B[qe]C[FORCE]
+(;W[rb];B[pc]C[FORCE]
+(;W[qb];B[oc]C[Trouble for White...])
+(;W[sc];B[qb]C[FORCE]
+(;W[pb];B[rc]C[White cannot afford to lose this ko, while Black can always draw back. Poor result for White.])
+(;W[rc];B[oc]C[Clearly bad for White.])))
+(;W[pc];B[rb]C[Not good...])))

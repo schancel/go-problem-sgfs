@@ -1,0 +1,44 @@
+(;GE[life and death]DI[2k]DP[21]SO[adum]CO[5]AW[pb]AW[oc]AW[qc]AW[rc]AW[sc]AB[ob]AB[mc]AB[nc]AB[pc]AB[pd]AB[qd]AB[ne]AB[oe]AB[re]C[can white live?]SZ[19]AB[kc]AB[ld]AE[pa]PL[W]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[5.50]TM[]GN[White (W) vs. Black (B)]PB[Black]PW[White]DT[1999-07-28]SY[Cgoban 1.9.2]
+(;W[oa]
+(;B[nb]
+(;W[ra];B[qb]
+(;W[pa]C[Please read the comments and/or check the paths - black could have gotten a ko.RIGHT])
+(;W[qa];B[pa]C[ko])
+(;W[rb];B[pa]))
+(;W[qa];B[rb])
+(;W[qb];B[ra])
+(;W[pa];B[ra];W[rb];B[na]C[ko])
+(;W[rb];B[na]
+(;W[pa];B[ra]
+(;W[sa];B[sb]C[ko])
+(;W[qb];B[sa]))
+(;W[qa];B[pa]C[ko (white T19 and black R18 follow)])
+(;W[sa];B[qa])
+(;W[ra];B[pa])))
+(;B[rb]C[This moves gives a ko.]
+(;W[nb];B[qa]C[White dies.])
+(;W[ra];B[qa];W[sb]C[ko])))
+(;W[qa];B[rb])
+(;W[ra];B[pa]
+(;W[qb];B[sb])
+(;W[rb];B[qb])
+(;W[qa];B[qb])
+(;W[nb];B[qb]))
+(;W[rb];B[pa]
+(;W[qa];B[qb]C[ko])
+(;W[qb];B[sa]))
+(;W[sb];B[qb])
+(;W[od];B[qb])
+(;W[nb];B[od]
+(;W[oa];B[qb]C[kp])
+(;W[qb];B[ra])
+(;W[qa];B[rb])
+(;W[rb];B[pa]
+(;W[qa];B[qb])
+(;W[qb];B[sa])))
+(;W[pa];B[ra]
+(;W[rb];B[oa]
+(;W[sa];B[sb]C[ko])
+(;W[qb];B[sa])
+(;W[qa];B[qb]))
+(;W[qa];B[rb])))

@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[1k]DP[20]SO[ocho]CO[9]AW[aq]AW[br]AW[cr]AB[ap]AW[cq]AW[bp]AB[bo]AB[ao]AB[cp]AB[cn]AB[dp]AB[dq]AB[dr]AB[es]AB[fr]AB[fq]AW[gq]AW[gr]AW[gs]AW[fs]AW[hp]AW[go]AW[hn]AB[gn]AB[fn]AW[gm]AW[fm]AB[hm]AB[hl]AB[gl]AB[ek]AB[cl]AB[gj]AW[cs]AB[as]LB[cs:A]LB[as:B]C[The marked exchange just took place. What can white do? Hint: Order is IMPORTANT]AP[goproblems]
+(;W[en];B[fo];W[fp];B[eo]
+(;W[ds];B[er])
+(;W[er];B[eq];W[ds];B[ep];W[er];B[gp]
+(;W[es];B[ho]C[Mutual destruction can be avoided if correct order is chosen!])
+(;W[ho];B[es]C[Avoid ko by choosing a proper move order!]))
+(;W[do];B[ep];W[er];B[eq];W[ds];B[gp];W[er];B[ho]C[Avoid mutual destruction by choosing the proper order!]))
+(;W[fp];B[en];W[er];B[eq];W[ds];B[er])
+(;W[fo];B[en])
+(;W[er];B[eq]
+(;W[ds];B[er];W[en];B[fo];W[fp];B[eo];W[do]C[RIGHT])
+(;W[en];B[fo];W[fp];B[eo]))
+(;W[ds];B[er])
+(;W[dn];B[eo];W[er];B[eq];W[ds];B[er];W[en];B[fo];W[do];B[co]))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[2k]DP[22]SO[MeleeNewb]CO[0]AB[rc]AB[qd]AB[pc]AB[pb]AB[ob]AW[nb]AW[na]AW[mc]AW[oc]AW[od]AW[pd]AW[qe]AW[re]AW[pf]AW[rb]AP[goproblems]
+(;B[ra];W[qb]
+(;B[sb];W[qa]
+(;B[qc];W[sa]
+(;B[pa];W[sc];B[sd];W[rd];B[sb]C[Very good, ko, black takes first.RIGHT])
+(;B[sd];W[sc];B[pa]))
+(;B[pa];W[sa]
+(;B[qc])
+(;B[sd];W[sc];B[qc]))
+(;B[sd];W[oa]))
+(;B[qa];W[sb])
+(;B[oa];W[qc])
+(;B[qc];W[sb]TR[sc]TR[oa])
+(;B[rd];W[pa]))
+(;B[qb];W[ra]
+(;B[rd];W[qa])
+(;B[sb];W[rd])
+(;B[qa];W[oa]
+(;B[sb];W[rd])
+(;B[rd];W[pa])))
+(;B[sb];W[ra]
+(;B[qb])
+(;B[rd];W[qb]
+(;B[sd];W[qc])
+(;B[qc];W[sd]))
+(;B[oa];W[rd]
+(;B[qb];W[qa])
+(;B[qc];W[qa])))
+(;B[oa];W[rd]))

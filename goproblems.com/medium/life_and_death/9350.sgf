@@ -1,0 +1,70 @@
+(;GE[life and death]DI[1d]DP[16]SO[mihoda]CO[7]AB[bc]AW[ad]AW[bd]AB[cd]AB[dd]AB[de]AB[df]AW[cf]AW[ce]AW[cg]AW[dg]AW[ch]AB[dh]AB[eg]AB[fg]AB[ff]AB[di]AB[bj]AB[cj]AB[aj]AW[ai]AW[bi]AB[ci]AW[eh]AW[fi]AW[ck]AB[cl]AW[dl]AW[em]AW[fl]AW[dn]AW[cn]AW[an]AB[gl]AB[hk]AB[il]AB[hm]AW[gm]AW[gn]AB[hn]AW[fc]AB[jc]AB[nc]AB[pd]C[Black to save his stones and capture all of white's group.]AW[ag]AW[ef]AW[bn]AP[goproblems];B[bh]
+(;W[ah];B[af];W[bg];B[be]
+(;W[bk]
+(;B[ej];W[fj];B[ac];W[ak];B[ae];W[dj];B[dk];W[ei])
+(;B[fj];W[gj]
+(;B[fh];W[ei];B[gi];W[ej];B[ek])
+(;B[ei];W[fh]
+(;B[fk]
+(;W[ej]
+(;B[ek]
+(;W[dk]
+(;B[dj];W[ak];B[ej];W[gk])
+(;B[gi];W[gh];B[dj];W[ak];B[ej]TR[gi]MA[gk]C[Right.  With the triangle stone white can't push.RIGHT]))
+(;W[gi]))
+(;B[gi];W[gh];B[ek];W[dk];B[dj];W[ak];B[ej]MA[gk]TR[gi]C[Right.  With the triangle stone white can't push.RIGHT]))
+(;W[gk]C[White mistake, white has a better resistance.];B[gi]
+(;W[gh];B[hj]C[RIGHT])
+(;W[hj];B[gh]C[RIGHT])))
+(;B[gi];W[gh];B[fk];W[ej];B[ek];W[dk];B[dj];W[ak];B[ej]TR[gi]MA[gk]C[Right.  With the triangle stone white can't push.RIGHT]))
+(;B[gi]
+(;W[ej];B[ei]C[RIGHT])
+(;W[gk];B[ei]C[RIGHT])
+(;W[fk];B[fh]C[RIGHT])
+(;W[gh];B[fh]C[RIGHT])))
+(;B[ac];W[ei]
+(;B[ae];W[dj]C[Behind in the semai.  Black can do better.])
+(;B[ej];W[dj];B[dk];W[ak];B[dj];W[fj]))
+(;B[ei];W[fh];B[fj];W[gj]
+(;B[fk];W[ej]
+(;B[ek];W[dk]
+(;B[dj];W[ak]
+(;B[gk])
+(;B[ej];W[gk]))
+(;B[gi];W[gh];B[dj];W[ak];B[ej]TR[gi]MA[gk]C[Right, with the triangle stone white can't push.RIGHT]))
+(;B[gi];W[gh];B[ek];W[dk];B[dj];W[ak];B[ej]TR[gi]MA[gk]C[Right, with the triangle stone white can't pushRIGHT]))
+(;B[gi];W[gh];B[fk];W[ej];B[ek];W[dk];B[dj];W[ak];B[ej]TR[gi]MA[gk]C[Right, with the triangle stone white can't pushRIGHT])))
+(;W[ei];B[dk];W[bl];B[bk]
+(;W[cm]C[A small white mistake.  Black can play F9 to avoid the semedori with a ko, assuming he has ko threats.RIGHT]TR[fk]TR[ac]
+(;B[ac];W[ck];B[ae];W[ek];B[bf];W[dj];B[bh]C[Black eeks out a winRIGHT])
+(;B[fk];W[ek];B[ej];W[fj];B[el]C[RIGHT]))
+(;W[ek]C[Black has to play out the semedori now.  Best result for whiteRIGHT];B[ac];W[cm];B[ae];W[ck];B[bf];W[dj];B[bh]C[RIGHT]))
+(;W[dj]
+(;B[bk])
+(;B[ei];W[fh];B[fj];W[gj]
+(;B[gi];W[gh]
+(;B[ej]
+(;W[fk];B[dk]C[RIGHT])
+(;W[dk];B[fk]C[Withe G11 there, white can't push.RIGHT]))
+(;B[fk];W[ej];B[bk];W[dk];B[al];W[bl];B[bm];W[cm];B[ac];W[am];B[ae];W[bl]C[One behind.  You must connect out.]))
+(;B[ej]
+(;W[fk];B[dk]C[RIGHT])
+(;W[dk]
+(;B[gi];W[gh];B[fk]C[Right. With the triangle stone there white can't push.RIGHT]TR[gi])
+(;B[fk];W[gk];B[gi]C[RIGHT]))))
+(;B[ej];W[ek];B[fj];W[gi];B[ei];W[fh];B[gj]C[RIGHT])))
+(;W[bf]C[White thinks he has a ko.  Prove him wrong.];B[ah];W[ae];B[bg];W[bi]
+(;B[af]C[No ko, black can do better]MA[ai])
+(;B[ai]C[From here white has few options, all bad.  Feel free to add variations and comments about the play after or before this point.RIGHT]
+(;W[cc];B[cb];W[dc];B[ec]C[This doesn't get white out of it])
+(;W[bk]
+(;B[ac];W[ak];B[af]C[3 step ko in black's favor, black takes first??  go black!])
+(;B[fj];W[gj];B[ei];W[fh]
+(;B[gi];W[gh];B[fk];W[ej];B[ek];W[dk];B[dj]C[No ko.RIGHT])
+(;B[fk];W[ej]
+(;B[gi];W[gh];B[ek]C[RIGHT])
+(;B[ek]C[RIGHT]
+(;W[dj])
+(;W[dk];B[dj];W[gk];B[gi]C[RIGHT])))))
+(;W[ei];B[bk];W[dk];B[al]C[Avoid the ko and the semidoriRIGHT])))
+(;W[bg];B[ah]C[Please add variations hereRIGHT]))

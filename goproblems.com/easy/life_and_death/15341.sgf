@@ -1,0 +1,80 @@
+(;GE[life and death]DI[6k]DP[38]SO[wolverest]CO[0]AB[ps]AB[pr]AB[pq]AB[pp]AB[qo]AB[qn]AB[rn]AB[sn]AW[os]AW[or]AW[oq]AW[op]AW[po]AW[pn]AW[qm]AW[rm]AW[sm]AW[pm]AW[rp]AB[qp]AW[rr]AB[rq]AW[sq]AB[qr]C[Black has one ko threat. Tenuki'n takes it away.]LB[ol:Tenuki]AP[goproblems]
+(;W[qq];B[rs]
+(;W[rq]
+(;B[ro]LB[ol:a]C[Play a to tenuki!CHOICE];W[ol]
+(;B[sp]C[CHOICE];W[so];B[om]LB[on:a]C[Play a if you want to respond to blacks tenuki.]
+(;W[qs]C[RightRIGHT])
+(;W[on];B[sp]C[Black didn't have any more ko threats because of your tenuki.]))
+(;B[om]C[Black should tenuki]))
+(;B[so]LB[ol:T]C[T for tenukiCHOICE]
+(;W[ss];B[sp];W[qs];B[ol]C[please play a]LB[om:a];W[om];B[rs])
+(;W[ol]C[yes white can tenukiRIGHT])
+(;W[sr]C[RIGHT])
+(;W[sp];B[sr];W[ss];B[ol]LB[pl:a]C[please play a];W[pl];B[sr])))
+(;W[ro];B[so];W[rq];B[sr];W[ss];B[ol]C[please play a]LB[pl:a];W[pl];B[sr])
+(;W[ss];B[rq];W[qs];B[qq]
+(;W[so];B[rs])
+(;W[sp];B[rs];W[sr];B[so];W[qs];B[ol]C[please play a]LB[pl:a];W[pl];B[rs])
+(;W[sr];B[sp];W[so];B[rs];W[sp]))
+(;W[sr];B[sp]
+(;W[so];B[rq];W[sp];B[ro];W[qq];B[ol]LB[om:a]C[please play a];W[om];B[rq])
+(;W[ro];B[rq])
+(;W[rq];B[ro]C[black still has a ko threat])
+(;W[ol];B[rq];W[so];B[ro];W[qq];B[sp]C[to show that tenuki doesn't work]))
+(;W[sp];B[so]
+(;W[rq])
+(;W[sr];B[rq]C[play a for tenuki]LB[ol:a];W[ol];B[ro];W[qq];B[om]LB[on:a]C[play a if you want to answer blacks tenuki]
+(;W[on];B[rq])
+(;W[qs]C[RIGHT])))
+(;W[so];B[rq];W[sr];B[ro];W[qq];B[sp]))
+(;W[rs];B[sr]
+(;W[sp];B[qs]
+(;W[qq];B[ol]LB[om:a]C[please play a];W[om];B[rq];W[ss];B[sr])
+(;W[ss];B[sr]))
+(;W[ss];B[sp]
+(;W[so];B[ro];W[qq];B[ol]C[please play a]LB[om:a];W[om];B[rq])
+(;W[qq];B[om]C[please play a]LB[ol:a];W[ol];B[rq];W[so];B[qq]C[RIGHT]))
+(;W[qq];B[ol]C[please play a]LB[om:a];W[om];B[rq]
+(;W[sp];B[qq];W[ss];B[qs];W[sr]C[RIGHT])
+(;W[ss];B[qq]
+(;W[sr];B[qs];W[sp]C[RIGHT])
+(;W[sp])
+(;W[so]C[RIGHT]))))
+(;W[qs];B[rs]
+(;W[qq];B[ol]C[please play a]LB[om:a];W[om];B[rq];W[sr];B[sp]
+(;W[qq];B[ro];W[so];B[rq])
+(;W[so];B[ro];W[qq];B[sp]))
+(;W[sr];B[sp]
+(;W[qq];B[ro];W[so];B[rq])
+(;W[so])))
+(;W[sr];B[sp]
+(;W[so];B[ro]
+(;W[qq];B[sp]
+(;W[rs];B[rq])
+(;W[rq];B[rs]))
+(;W[rs];B[sp]))
+(;W[rs];B[ro]))
+(;W[ss];B[rs]
+(;W[qq];B[sr];W[rq];B[ro];W[ss];B[ol]C[please play a]LB[om:a];W[om];B[sr])
+(;W[qs]))
+(;W[sp];B[sr]C[]
+(;W[rs])
+(;W[ss];B[so]
+(;W[sr];B[ro])
+(;W[qq];B[rs]
+(;W[qs];B[rq]LB[ol:tenuki]
+(;W[ol];B[rs];W[qq];B[sr])
+(;W[sr];B[rs];W[qq]C[RIGHT]))
+(;W[rq];B[sr])))
+(;W[qq];B[so]
+(;W[rs];B[rq];W[ss];B[ro];W[qq];B[ol]C[please play a]LB[om:a];W[om];B[rq])
+(;W[ss];B[rs])))
+(;W[so];B[ro];W[qq];B[sp];W[rq];B[rs];W[so];B[ol]C[please play a]LB[om:a];W[om];B[sp])
+(;W[ro];B[sp];W[qq];B[ol]C[please play a]LB[om:a];W[om];B[rq])
+(;W[ol];B[rs]C[]
+(;W[qq];B[so]
+(;W[rq]C[RIGHT])
+(;W[sp];B[rq];W[sr])
+(;W[sr]C[NOTTHIS])
+(;W[ss];B[rq];W[qs];B[sp];W[qq];B[rs]))
+(;W[sr];B[sp];W[qq];B[ro];W[so];B[rq])))

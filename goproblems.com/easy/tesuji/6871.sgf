@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[12k]DP[55]SO[tristesse]CO[8]SZ[19]AB[pq]AB[qq]AB[po]AB[qo]AB[ro]AB[or]AB[os]AB[nq]AB[mr]AB[mp]AB[lp]AW[np]AW[op]AW[oq]AW[mo]AW[on]AW[qm]AW[rn]AW[so]AW[rp]AW[rq]AW[qr]AW[pr]C[Problem VI.2 in The Game of Go by Arthur Smith]FF[1]GM[1]AP[Jago:Version 4.6]GN[vi.2];B[rr]
+(;W[sr]C[CHOICE];B[rs]C[White can't approach!RIGHT])
+(;W[rs]C[CHOICE]
+(;B[sr];W[sq]
+(;B[qs];W[ss];B[rr];W[sr];B[ps]C[Well done!RIGHT])
+(;B[ps];W[ss];B[rr];W[sr];B[qs]C[Well done!RIGHT])
+(;B[qp];W[ss]))
+(;B[qs];W[sr])))

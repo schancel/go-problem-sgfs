@@ -1,0 +1,10 @@
+(;GE[endgame]DI[12k]DP[55]SO[godlight]CO[6]AB[gq]AB[fr]AB[gs]AB[er]AW[fq]AW[eq]AW[dr]AW[es]AB[gp]AB[fp]AB[hp]AB[go]AW[ep]AW[eo]AW[fo]AW[dq]AW[cs]AB[kr]AB[kq]AB[ks]AB[jp]AB[jo]AW[kp]AW[lq]AW[lr]AB[ls]AW[ms]AW[mr]AW[lp]AW[nq]AW[oq]C[White to something effective]AP[goproblems]
+(;W[hr]
+(;B[gr]C[CHOICE];W[jq]
+(;B[iq];W[jr];B[ir];W[js]C[RIGHT])
+(;B[jr]C[CHOICE];W[iq];B[ir];W[is]C[RIGHT];B[ip]C[RIGHT]))
+(;B[jq];W[gr]C[RIGHT];B[hs];W[is];B[ir];W[fs];B[iq]))
+(;W[jq];B[jr]
+(;W[iq];B[ir]C[Black is safe.];W[hr];B[hq];W[is];B[ip];W[gr];B[hs])
+(;W[hr];B[gr];W[iq];B[ir];W[is]C[RIGHT])
+(;W[ir];B[iq];W[hr];B[gr])))

@@ -1,0 +1,36 @@
+(;GE[life and death]DI[1k]DP[19]SO[MeleeNewb]CO[0]AB[er]AB[dr]AB[bq]AW[fr]AW[eq]AW[gq]AW[gp]AW[fp]AW[fo]AB[go]AB[gn]AB[hp]AB[hq]AB[hr]AW[ir]AB[iq]AW[jr]AW[jq]AW[ho]AB[jp]AW[hn]AB[hm]AW[im]AW[in]AW[lq]AB[lp]AW[mq]AW[mp]AB[jo]AB[lo]AW[kn]AB[mo]AW[no]AW[nn]AW[mm]AW[dp]AB[dq]AB[cq]AB[cp]AB[do]AW[co]AW[cn]AB[bo]AW[bn]AB[ap]AW[cl]AW[kl]AP[goproblems]
+(;B[fs];W[gs]
+(;B[gr];W[es]
+(;B[hs]
+(;W[fs]C[CHOICE]
+(;B[ep];W[fn]
+(;B[fq]C[RIGHT])
+(;B[gm];W[fq])
+(;B[ds];W[fq]))
+(;B[fn];W[eo]
+(;B[ep];W[en];B[fq]C[RIGHT])
+(;B[en];W[dn])
+(;B[dn];W[en]C[Dont waste ko threats. What would your mother say?]))
+(;B[fm];W[fn];B[gm];W[en])
+(;B[ds];W[fq];B[fn];W[eo]
+(;B[ep];W[en])
+(;B[en];W[dn])
+(;B[dn];W[en]))
+(;B[en];W[fn]))
+(;W[fq]C[];B[fs]C[RIGHT]))
+(;B[ds];W[hs]
+(;B[fs];W[ip])
+(;B[ip];W[fs])))
+(;B[es];W[hs])
+(;B[hs];W[gr]
+(;B[fn];W[eo])
+(;B[en];W[fn])))
+(;B[gr];W[fs]
+(;B[ep];W[fq]
+(;B[gs];W[fn])
+(;B[fn];W[hs]))
+(;B[fn];W[hs])
+(;B[gs];W[fn]))
+(;B[ep];W[gr])
+(;B[gs];W[fs];B[ep];W[fq];B[fn];W[en];B[eo];W[dn];B[dp];W[fm];B[gm];W[gl])
+(;B[fn];W[gr]))

@@ -1,0 +1,54 @@
+(;GE[life and death]DI[8k]DP[48]SO[discipulus]CO[0]AB[ih]AB[jh]AB[kh]AB[ll]AB[kl]AB[jl]AB[il]AB[hk]AB[hj]AB[hi]AB[hh]AW[hl]AW[gk]AW[gj]AW[gi]AW[gh]AW[gg]AW[hg]AW[ig]AW[jg]AW[kg]AW[lm]AW[km]AW[jm]AW[im]AW[hm]AB[ki]AB[lj]AB[lk]AW[ml]AW[mk]AW[mj]AW[mi]AW[li]AW[lh]C[White to do his best.]AP[goproblems]
+(;W[jj]
+(;B[jk]
+(;W[kj]
+(;B[ij]
+(;W[ji]C[Seki, good job!RIGHT])
+(;W[kk];B[ji])
+(;W[ii];B[ji]))
+(;B[ji];W[ij]C[Seki, very good!RIGHT]))
+(;W[ij];B[kj])
+(;W[ji];B[kj])
+(;W[ii];B[kj]))
+(;B[ij]
+(;W[ji]
+(;B[jk];W[kj]C[Seki, good job!RIGHT])
+(;B[kj];W[jk]C[Correct, seki!RIGHT]))
+(;W[jk];B[ji])
+(;W[kj];B[ji]))
+(;B[kj]
+(;W[jk]
+(;B[ij];W[ji]C[Seki, well done!RIGHT])
+(;B[ji]
+(;W[ij];B[ik]C[Seki, well done!RIGHT])
+(;W[ik];B[ij])
+(;W[kk];B[ij])))
+(;W[ij];B[jk])
+(;W[ik];B[jk])
+(;W[ii];B[jk]))
+(;B[ji]
+(;W[ij];B[jk]
+(;W[kj]C[Right, seki!RIGHT])
+(;W[ik];B[kj])
+(;W[ii];B[kj]))
+(;W[kj];B[ij])
+(;W[kk];B[ij])
+(;W[ik];B[ij])
+(;W[jk];B[ij])))
+(;W[jk];B[jj]
+(;W[ij]
+(;B[ii])
+(;B[kk]))
+(;W[ik];B[ij])
+(;W[ii];B[kk])
+(;W[kk];B[ij]))
+(;W[ij];B[jj]
+(;W[jk]
+(;B[kk])
+(;B[ii]))
+(;W[kk];B[ii])
+(;W[ik];B[jk])
+(;W[ii];B[jk]))
+(;W[kj];B[jj])
+(;W[ji];B[jj])
+(;W[ik];B[jj]))

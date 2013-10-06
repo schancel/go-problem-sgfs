@@ -1,0 +1,15 @@
+(;GE[life and death]DI[3d]DP[10]SO[Cow]CO[0]AB[qb]AB[se]AB[re]AB[qe]AB[pe]AB[oe]AB[nd]AB[ld]AB[kc]AB[lb]AB[na]AW[ma]AW[nb]AW[pc]AW[qc]AW[rc]C[Black to kill unconditionally.]AP[goproblems]
+(;B[mb]
+(;W[oc];B[oa];W[pa]
+(;B[la];W[ob];B[ma];W[rb];B[sc];W[sb];B[ra];W[pb];B[qa];W[sd];B[rd];W[sa];B[qa]C[Great! You did it. :)RIGHT])))
+(;B[oc];W[ob];B[pb];W[sc]
+(;B[rb];W[mb]C[White is alive.])
+(;B[mb];W[rb];B[nc];W[oa]C[Black cannot play on Q19, so white is alive!]))
+(;B[rb];W[sb];B[ra];W[mb]
+(;B[oc];W[ob]C[White is alive.])
+(;B[ob];W[oc]C[White lives.])
+(;B[pb];W[ob]C[Black cannot kill white- he lives.]))
+(;B[sc];W[sb];B[sd];W[rb];B[ra];W[mb]C[White is alive.])
+(;B[sb];W[sc];B[rb];W[pb];B[mb];W[oa];B[oc];W[ob]C[Black wont get any better than ko this way.])
+(;B[ob];W[oc];B[nc];W[pb];B[mb];W[rb]C[White is alive.])
+(;B[pb];W[ob];B[rb];W[sb];B[ra];W[mb]C[White lives.]))

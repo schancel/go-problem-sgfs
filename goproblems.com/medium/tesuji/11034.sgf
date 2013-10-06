@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[3k]DP[26]SO[sabetts]CO[0]AB[qq]AB[qr]AB[rq]AB[rp]AB[ps]AB[or]AB[oo]AB[no]AB[mo]AB[lp]AB[lq]AW[sp]AW[ro]AW[qp]AW[po]AW[pn]AW[pq]AW[pr]AW[nr]AW[np]AW[op]C[What can black do?]AW[kq]
+(;B[oq]
+(;W[pp]C[CHOICE]
+(;B[mr]
+(;W[nq];B[ns]C[RIGHT])
+(;W[mq];B[ns];W[nq]
+(;B[os];W[lr])
+(;B[kr];W[os];B[or]C[RIGHT])
+(;B[lr]C[RIGHT])
+(;B[ls]C[RIGHT])))
+(;B[nq];W[mq];B[os];W[lr]))
+(;W[nq]C[];B[pp];W[pq];B[rs]C[RIGHT]))
+(;B[mr];W[oq];B[ns];W[os]C[Ko. Black can do better.])
+(;B[rs];W[sr];B[oq];W[pp]
+(;B[nq];W[mq];B[os];W[lr])
+(;B[mr];W[nq];B[ns]C[RIGHT]))
+(;B[sr];W[rs];B[oq];W[pp]
+(;B[nq];W[mq];B[os];W[lr])
+(;B[mr];W[nq];B[ns];W[qs])))

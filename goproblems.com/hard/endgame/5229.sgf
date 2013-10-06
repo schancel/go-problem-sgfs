@@ -1,0 +1,77 @@
+(;GE[endgame]DI[5d]DP[6]SO[cut]CO[6]AB[pr]AB[or]AB[oq]AB[op]AB[oo]AB[pn]AB[qn]AB[rm]AB[ql]AW[qr]AW[pq]AW[pp]AW[qo]AW[rn]AW[ro]SZ[19]C[White shape is alive but black has severe moves that can reduce white territory]
+(;B[rr]
+(;W[qs]
+(;B[rq];W[qq]C[so far so good...]
+(;B[rs]
+(;W[rp]C[...];B[po];W[sq];B[ps];W[qp];B[sn]C[... straight 3, white is butchered])
+(;W[sr]C[tesuji, now how will u cont'd?CHOICE]
+(;B[po]
+(;W[sp]C[CHOICE]
+(;B[sn];W[sq];B[ps];W[qp];B[sm]C[RIGHT];W[so]C[sekiRIGHT])
+(;B[ps];W[qp];B[sn];W[sq];B[sm]C[RIGHT];W[so]C[sekiRIGHT])
+(;B[qp];W[rp];B[ps];W[qp];B[sn]C[RIGHT];W[ol]C[CHOICE]))
+(;W[sq]C[CHOICE]
+(;B[ps];W[qp]
+(;B[sn];W[sp]C[The best result for both sides is seki.RIGHT];B[sm];W[so]C[RIGHT])
+(;B[sm];W[rp];B[sn];W[ss])
+(;B[sp];W[rp];B[ss];W[sq]
+(;B[sr];W[sq])
+(;B[sn];W[so];B[sm];W[sr])))
+(;B[sn];W[rp])
+(;B[rp];W[sp])
+(;B[qp];W[rp])
+(;B[sp];W[rp];B[ss];W[sq])
+(;B[so];W[rp])
+(;B[ss];W[rp]))
+(;W[rp];B[ps];W[qp])
+(;W[qp];B[sn];W[sp];B[sm];W[so];B[sq]))
+(;B[rp];W[sp]C[White wins the semeai])
+(;B[sn];W[rp]
+(;B[ps];W[sq])
+(;B[po];W[sq])
+(;B[so];W[sq])
+(;B[sp];W[sq];B[ss];W[sq];B[sr];W[sq])))
+(;W[sq]C[T3 variation as proposed by Bass...I dunno wat I'd left out, so if anyone finds anything missing, pls point it out.];B[po]
+(;W[qp];B[sn];W[so];B[sm];W[sp];B[ps];W[sr]C[Seki])
+(;W[sn];B[rp];W[qp];B[ps]))
+(;W[sp];B[po];W[qp];B[sn])
+(;W[so]C[White should not choose to play this as it can let Black to choose between direct Ko or seki];B[po]
+(;W[sr];B[ps];W[qp];B[sp])
+(;W[sq]
+(;B[ps];W[qp]
+(;B[sm];W[sr];B[sn];W[sp])
+(;B[sr];W[rp]C[Direct Ko]))
+(;B[sr];W[rp];B[sp]C[Direct Ko...])
+(;B[qp];W[rp];B[ps];W[qp])))
+(;W[po];B[rp]C[White will lose this semeai])
+(;W[qp];B[sn]
+(;W[sp]
+(;B[sq];W[rp];B[ps];W[sr];B[po];W[ss])
+(;B[ps];W[sq]
+(;B[po])
+(;B[sm];W[so];B[sr]C[RIGHT];W[rp];B[po]C[RIGHT])))
+(;W[so];B[sq];W[sr];B[ps];W[rp];B[po]C[RIGHT])))
+(;B[rp];W[sr]C[tesuji, now how will u cont'd?]
+(;B[sq];W[rs]
+(;B[po];W[qp];B[ss];W[sp];B[so];W[sn]C[white lives by double ko])
+(;B[ss];W[so];B[po];W[qp];B[ps];W[sm]C[White lives by double ko.]))
+(;B[rs];W[so]C[semeai, black lose by 1 move])
+(;B[po];W[rs];B[sq];W[qp];B[ss];W[sp];B[so];W[sn]C[White lives by double ko.])
+(;B[sn];W[so]
+(;B[rs];W[sp]C[Black loses the semeai.])
+(;B[sq];W[rs];B[ss];W[qp];B[po];W[sm]
+(;B[sl];W[sp])
+(;B[ps];W[sr]C[White lives by double ko])))))
+(;B[qq];W[rq];B[ps];W[qp];B[rs];W[qq])
+(;B[rp];W[rq];B[sq];W[qq])
+(;B[rs];W[rq]
+(;B[ps];W[qq])
+(;B[qq];W[qp];B[ps];W[qq])))
+(;W[rq];B[qs];W[qq];B[rs];W[sr];B[po];W[sn];B[sp]))
+(;B[qs];W[rr];B[rs];W[rq])
+(;B[qq];W[rq]
+(;B[qs];W[rr]C[Black can do much better.])
+(;B[rr];W[qs];B[rs];W[qp];B[ps];W[qq]C[Black accomplishes nothing.]))
+(;B[rq];W[rr];B[qq];W[sq];B[sp];W[sr]
+(;B[qs];W[rp];B[rs];W[qp]C[Black can do much better.])
+(;B[rp];W[qs]C[Black accomplishes nothing.])))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6k]DP[38]SO[kevinwm]CO[0]AB[bf]AB[be]AB[cd]AB[cc]AB[cb]AW[cg]AW[cf]AW[ce]AW[dd]AW[dc]AB[db]AW[eb]AW[gb]AW[de]AW[df]AW[ef]AW[eg]AW[fg]AW[gg]AW[gf]AW[hf]AW[hg]AW[if]AW[jf]AW[je]AW[jd]AW[id]AW[ic]AW[kc]AW[lc]AW[md]AW[nc]AW[oc]AW[ob]AW[pd]AW[qb]AW[rb]AB[qa]AB[pa]AB[oa]AB[nb]AB[mb]AB[ma]AB[mc]AB[lb]AB[kb]AB[jb]AB[ib]AB[ia]AB[hb]AB[hc]AB[hd]AB[he]AB[ge]AB[fe]AB[ee]AB[ff]AW[fc]AW[ha]AP[goproblems]
+(;W[ka]C[];B[ga]C[]
+(;W[fb]
+(;B[fd]C[]
+(;W[gc]C[CHOICEFORCERIGHT])
+(;W[fa];B[gc]C[CHOICE]))
+(;B[ec];W[ed];B[ea];W[fa]
+(;B[fd];W[gc];B[gd];W[ec]C[FORCERIGHT])
+(;B[gc];W[fd]C[RIGHT]))
+(;B[ea];W[fa];B[ec];W[ed];B[fd]))
+(;W[fa];B[gc]
+(;W[fd];B[fb]C[Ko is not good enough.CHOICE];W[ea];B[gb]C[CHOICE])
+(;W[fb];B[fd])
+(;W[ha];B[fd]))
+(;W[fd];B[ea];W[fa];B[fb]C[Ko. White can kill unconditionally.])
+(;W[gc];B[ea];W[fa];B[fb])
+(;W[ea]
+(;B[gc]
+(;W[fd];B[fb])
+(;W[fb];B[fd]))))
+(;W[ra])
+(;W[ga];B[ka]C[CHOICE])
+(;W[da]C[CHOICE];B[ka])
+(;W[fb];B[ka]C[CHOICE])
+(;W[fa];B[ka]C[CHOICE]))

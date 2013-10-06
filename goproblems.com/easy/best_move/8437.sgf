@@ -1,0 +1,12 @@
+(;GE[best move]DI[7k]DP[44]SO[Dudzik]CO[7]SZ[13]AW[eb]AW[cc]AW[dc]AW[fc]AW[hc]AW[ic]AW[jc]AW[lc]AW[bd]AW[cd]AW[ed]AW[fd]AW[gd]AW[kd]AW[de]AW[ee]AW[je]AW[ke]AW[cf]AW[hf]AW[jf]AW[cg]AW[jg]AW[ch]AW[eh]AW[ih]AW[jh]AW[di]AW[fi]AW[ki]AW[fj]AW[gj]AW[hj]AW[ij]AW[jj]AW[kj]AW[lj]AW[mj]AW[gl]AB[bb]AB[cb]AB[db]AB[ac]AB[bc]AB[ad]AB[hd]AB[id]AB[jd]AB[ae]AB[be]AB[ce]AB[fe]AB[ge]AB[ie]AB[bf]AB[df]AB[ef]AB[ff]AB[if]AB[kf]AB[lf]AB[mf]AB[bg]AB[gg]AB[hg]AB[kg]AB[mg]AB[bh]AB[kh]AB[lh]AB[ci]AB[gi]AB[hi]AB[ii]AB[ji]AB[li]AB[mi]AB[cj]AB[dj]AB[hk]AB[ik]AB[cl]TR[hf]C[White (this was me) thought that the marked stone killed the black group.  Can you find the best way to live?  Just saving the group is not enough.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Chinese]KM[0.00]PW[White]PB[Black]
+(;B[eg];W[dh];B[fh]C[This is what black chose in the game.  Black is alive, but the sequence is gote.  There is a much better solution.])
+(;B[dh];W[dg];B[eg];W[dh];B[fh]C[This keeps sente, and is the best solution.  Starting with black E7 to threaten a snapback is worth one more point, but sente is more important.RIGHT])
+(;B[fh];W[eg]
+(;B[hh];W[ei]C[(note: white cannot play F7 here because of black D7.];B[fg]C[Black can do better than gote.])
+(;B[fg];W[dg];B[hh]C[This is gote, and one point worse than the correct solution.])
+(;B[dh];W[dg]
+(;B[fg];W[hh])
+(;B[hh];W[ei];B[fg]C[This is gote, and two points worse than the correct solution.]))
+(;B[dg];W[dh]
+(;B[fg];W[ei];B[hh]C[Black can do better than gote.])
+(;B[hh];W[ei];B[fg]C[Black can do better than gote.]))))

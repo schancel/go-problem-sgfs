@@ -1,0 +1,26 @@
+(;GE[life and death]DI[8k]DP[48]SO[DK2]CO[0]AB[ca]AB[cb]AB[bb]AB[bc]AB[cd]AB[ce]AB[cf]AW[cc]AW[db]AW[dc]AW[da]AW[de]AW[dd]AW[df]AW[eg]AW[cg]AW[bg]AW[bf]AB[bd]TR[bd]C[White pushed into black's group, and black defended with the marked stone.  He's still not safe though... show me why not (without a ko).]AP[goproblems]
+(;W[ad];B[ac]
+(;W[aa]C[];B[be];W[ae];B[af];W[ae]C[RIGHT])
+(;W[ae];B[aa]C[Black is alive])
+(;W[be];B[aa]C[Black is alive.]))
+(;W[be];B[ad]
+(;W[ab];B[aa]C[Ko.])
+(;W[aa];B[ab]C[Black is alive.]))
+(;W[ae];B[ad]
+(;W[ab];B[aa]C[ko.])
+(;W[aa];B[ab]C[Black is alive.]))
+(;W[ac];B[ad]
+(;W[ab];B[aa]C[Black is alive.])
+(;W[aa];B[ab]C[Black is alive.]))
+(;W[af];B[ad]
+(;W[aa];B[ab]C[Black is alive.])
+(;W[ab];B[aa]C[Looks like a ko, but will it work?];W[ba];B[ac]C[No, this is not even a ko, because of the damezumari (shortage of liberties).]))
+(;W[ab];B[aa]
+(;W[ba];B[ac]C[Because of this damezumari, shortage of liberties, black is alive])
+(;W[ac];B[ad]C[Black is alive.])
+(;W[ad];B[ac]C[Black is alive.]))
+(;W[aa];B[be]
+(;W[ab]C[RIGHT])
+(;W[ae];B[ad];W[ab]C[RIGHT])
+(;W[ac];B[ab]C[Black is alive.])
+(;W[ad];B[ae]C[Black is alive.])))

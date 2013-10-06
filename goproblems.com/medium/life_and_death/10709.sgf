@@ -1,0 +1,31 @@
+(;GE[life and death]DI[2k]DP[23]SO[BartTM]CO[7]AW[fs]AW[gs]AW[hs]AW[ir]AW[iq]AW[ip]AW[io]AW[jo]AW[ko]AW[kp]AW[lp]AW[lq]AW[lr]AW[ls]AW[kr]AB[is]AB[js]AB[jq]AB[jp]AB[kq]AB[hr]AB[hq]AB[hp]AB[ho]AB[hn]AB[in]AB[jn]AB[kn]AB[lo]AB[mp]AB[mq]AB[mo]AB[ns]AB[nr]AB[er]AB[fq]LB[fo:No]C[Same as 10706, but the marked stones have one more liberty. So, can Black kill? Play F5 ('No') if you think not; otherwise just kill.FORCE]TR[hs]TR[gs]TR[fs]AP[goproblems]
+(;B[jr];W[ks]
+(;B[jq]C[Yet another K3 fan ;-)]
+(;W[jr]C[CHOICE];B[is]C[Easy as that!RIGHT])
+(;W[is]C[CHOICE];B[jr]MA[kq]MA[jp]C[White has just one eye; Black can fill the outer liberties and markes spots if need be, and continue at K3 if White captures.RIGHT]))
+(;B[is];W[jq])
+(;B[js];W[is])
+(;B[jr];W[jq])
+(;B[es];W[is])
+(;B[fr];W[is])
+(;B[gr];W[is])
+(;B[mr];W[is])
+(;B[ms];W[is]))
+(;B[es]C[White can capture and play either spot to live.];W[ks]MA[is]MA[jq])
+(;B[fr];W[ks]MA[is]MA[jq]C[White can capture and play either spot to live.])
+(;B[gr];W[ks]MA[is]MA[jq]C[White can capture and play either spot to live.])
+(;B[mr];W[ks]MA[is]MA[jq]C[White can capture and play either spot to live.])
+(;B[ms];W[ks]MA[is]MA[jq]C[White can capture and play either spot to live.])
+(;B[ks]C[If only this were tesuji... White lives just like that.])
+(;B[fo];W[jr]AB[fs]AB[gs]AB[hs]AB[ir]AB[iq]AB[ip]AB[io]AB[jo]AB[ko]AB[kp]AB[lp]AB[lq]AB[lr]AB[ls]AB[kr]AW[is]AW[js]AW[jq]AW[jp]AW[kq]AW[hr]AW[hq]AW[hp]AW[ho]AW[hn]AW[in]AW[jn]AW[kn]AW[lo]AW[mp]AW[mq]AW[mo]AW[ns]AW[nr]AW[er]AW[fq]C[Okay, let's swap color; now show me how to live.FORCE];B[ks]
+(;W[jq]
+(;B[is];W[jr])
+(;B[jr];W[is]))
+(;W[is];B[jq])
+(;W[js];B[is])
+(;W[jr];B[jq])
+(;W[es];B[is])
+(;W[fr];B[is])
+(;W[gr];B[is])
+(;W[mr];B[is])
+(;W[ms];B[is])))

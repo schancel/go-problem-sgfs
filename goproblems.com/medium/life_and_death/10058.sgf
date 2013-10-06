@@ -1,0 +1,10 @@
+(;GE[life and death]DI[3k]DP[26]SO[awa]CO[2]AW[na]AW[nb]AW[mb]AW[mc]AW[lc]AW[kb]AW[jc]AW[ic]AW[ib]AW[id]AW[ie]AW[ld]AB[md]AB[nd]AB[oc]AB[ob]AB[oa]AW[nc]AW[le]AW[ke]AB[kd]AB[kc]AB[jd]AB[je]AW[ne]AW[me]AB[od]AW[oe]AB[pd]AB[pe]AB[pf]AB[kf]AB[jf]AB[lf]AB[mf]AB[ng]AB[pg]AB[of]AW[mg]AW[lg]AW[lh]AW[kh]AW[ki]AB[ig]AB[hf]AB[he]AB[hd]AB[gc]AB[fb]AB[hb]AB[gd]AB[jh]AB[kg]AB[fe]AW[ge]AW[fd]AW[ed]AW[ec]AW[eb]AB[gi]AB[hi]AW[nh]AW[oh]AW[ga]C[Please follow the set-up sequence.]LB[ha:A]AW[gf]AW[ff]AB[hg]AB[ii]AW[ih]AW[hh]AW[gh]AW[gg]AW[fh]AB[ji]AB[fi]AW[ei]AW[eh]AW[ef]AP[goproblems];B[ha];W[fa]LB[gb:A];B[gb];W[ea]C[What can Black do? J14 to tenuki.]LB[if:T]
+(;B[ia]
+(;W[la];B[ja];W[ka];B[jb]C[Nice...Black effectively reduces White. Navigate solution for other variations, and an alternate solution.CHOICERIGHT])
+(;W[ja];B[la]TR[jb]C[Oops.])
+(;W[ka];B[la];W[ja];B[if]TR[jb]C[Oops.])
+(;W[jb];B[ja];W[ka];B[la];W[if];B[nf];W[fc];B[lb];W[ma];B[la];W[hc];B[lb]C[Black's capture is larger.]))
+(;B[if]C[Black can do more that this...])
+(;B[la];W[ia]
+(;B[ka];W[ja];B[if];W[lb];B[hc];W[ma])
+(;B[lb];W[ka];B[nf];W[ma])))

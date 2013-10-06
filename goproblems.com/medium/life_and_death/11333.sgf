@@ -1,0 +1,25 @@
+(;GE[life and death]DI[3k]DP[24]SO[Kenji54]CO[0]AB[ae]AB[be]AB[ce]AB[de]AB[ee]AB[ge]AB[ie]AB[ke]AB[le]AB[me]AB[ne]AB[oe]AB[pe]AB[qe]AB[re]AB[se]AB[he]AB[fe]AW[jf]AW[if]AW[je]AW[kf]AW[hg]AW[pp]AW[cp]AW[ep]AB[fn]AW[gp]AW[hm]AB[dj]AB[qn]AW[np]AB[rp]AW[qq]AB[pl]AW[ol]AB[pk]AW[ok]AB[pj]AW[oj]AW[mg]AB[oi]AW[ni]AB[oh]AW[mj]AW[hj]AB[on]AW[nn]AB[oo]AW[no]AB[dn]AW[jd]AB[id]AB[kd]AB[ic]AB[kc]AW[jc]AP[goproblems]
+(;W[jb]
+(;B[ib]C[CHOICE];W[ia]
+(;B[ha]C[CHOICE]
+(;W[ja]C[RIGHT];B[hb];W[mb]C[RIGHT])
+(;W[hb];B[ja];W[kb];B[lb];W[ka];B[la];W[ia]))
+(;B[kb];W[ka]))
+(;B[kb]C[CHOICE];W[ka]
+(;B[la]C[CHOICE]
+(;W[ja]C[RIGHT];B[lb];W[gb]C[RIGHT])
+(;W[lb];B[ja];W[ib];B[hb];W[ia];B[ha];W[ka]))
+(;B[ib];W[ia]C[RIGHT]
+(;B[la];W[ja];B[lb]C[RIGHT];W[fb]C[RIGHT])
+(;B[ha];W[ja];B[hb]C[RIGHT];W[nb]C[RIGHT]))))
+(;W[ib];B[hb];W[jb];B[kb];W[ha];B[gb];W[ga];B[fa];W[ia];B[fb];W[ka];B[la];W[ja];B[lb])
+(;W[kb];B[lb];W[jb];B[ib];W[la];B[mb];W[ma];B[na];W[ka];B[nb];W[ia];B[ha];W[ja];B[hb])
+(;W[ja];B[jb]
+(;W[ib];B[kb])
+(;W[kb];B[ib]))
+(;W[ka];B[jb]
+(;W[kb];B[ib])
+(;W[ib];B[kb]))
+(;W[ia];B[jb]
+(;W[ib];B[kb])
+(;W[kb];B[ib])))

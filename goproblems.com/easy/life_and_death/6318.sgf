@@ -1,0 +1,87 @@
+(;GE[life and death]DI[10k]DP[54]SO[BartTM]CO[8]AB[aq]AB[bq]AB[cq]AB[dq]AB[er]AB[es]AW[bp]AW[cp]AW[dp]AW[eq]AW[fr]AW[fs]AW[ap]C[Black to get the best result (using Japanese rules); assume there are no large ko threats for Black.]AW[ep]AW[fq]AP[goproblems]
+(;B[dr];W[cs]
+(;B[br];W[bs]
+(;B[as];W[ar]C[A 1000 year ko. If Black wins it Black cannot connect and must play C2 or D1, after which White retakes. If White wins it White can connect to make a seki (1 point for the captured stone) or give atari at C2 or D1 after which Black retakes. Neither wants to start this ko; hence its name. This is worse for Black than a regular seki.]MA[cr]MA[ds])
+(;B[cr];W[as]C[Bent 4 in the corner; Black is dead.])
+(;B[ar])
+(;B[ds];W[as]C[Bent 4 in the corner; Black is dead.]))
+(;B[cr];W[bs]
+(;B[as];W[ar])
+(;B[br])
+(;B[ds];W[ar]))
+(;B[bs];W[br]
+(;B[ar];W[as]C[Ko])
+(;B[cr];W[as])
+(;B[as];W[ar])
+(;B[ds];W[ar]))
+(;B[as];W[br]
+(;B[cr];W[bs])
+(;B[bs])
+(;B[ds];W[ar]))
+(;B[ar];W[bs])
+(;B[ds];W[br]
+(;B[bs])
+(;B[cr];W[ar])
+(;B[ar];W[bs])))
+(;B[cr];W[bs]
+(;B[cs];W[ar]C[Sente seki, no points. If next B2 then White plays D1 (atari); Black takes at A1, White takes at D2. 4 points each, still equal to seki. This is one point worse than the solution.]MA[br]MA[ds])
+(;B[ds];W[cs])
+(;B[br];W[cs]
+(;B[as];W[ar]C[Ko])
+(;B[ds];W[dr])
+(;B[ar];W[dr])
+(;B[dr]))
+(;B[dr];W[cs])
+(;B[as];W[cs]
+(;B[br])
+(;B[ar];W[dr])
+(;B[ds];W[dr])
+(;B[dr]))
+(;B[ar];W[cs]))
+(;B[cs]
+(;W[dr]
+(;B[ds];W[bs]
+(;B[cr];W[ar]C[Sente seki; also Black has a point (the captured stone)RIGHT])
+(;B[br];W[cr])
+(;B[as];W[cr])
+(;B[ar];W[cr]))
+(;B[cr];W[ds])
+(;B[br];W[ds])
+(;B[as];W[ds])
+(;B[bs];W[ds])
+(;B[ar];W[ds]))
+(;W[bs];B[dr]C[Black lives with points, White won't play like this.RIGHT]))
+(;B[ds];W[cs]
+(;B[dr])
+(;B[cr];W[bs])
+(;B[bs];W[dr]
+(;B[cr];W[ar])
+(;B[ar];W[cr])
+(;B[ds];W[cr])
+(;B[er];W[cr]))
+(;B[br];W[dr]))
+(;B[bs];W[dr]
+(;B[cr];W[ds]
+(;B[ar]C[Black lives but White has sente and 3 points more than in the solution.])
+(;B[cs];W[ar]))
+(;B[ar];W[cr])
+(;B[ds];W[cs])
+(;B[cs]))
+(;B[br];W[dr]
+(;B[cr];W[cs])
+(;B[cs])
+(;B[ds];W[cs]))
+(;B[ar];W[dr]
+(;B[cr];W[bs]
+(;B[ds];W[cs])
+(;B[cs];W[ds]))
+(;B[bs])
+(;B[ds];W[cs]
+(;B[cr];W[bs])
+(;B[bs]))
+(;B[cs]))
+(;B[as];W[dr]
+(;B[cr];W[cs])
+(;B[cs])
+(;B[ds];W[cr])
+(;B[br];W[cr])))

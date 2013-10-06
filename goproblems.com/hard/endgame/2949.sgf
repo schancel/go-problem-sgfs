@@ -1,0 +1,973 @@
+(;GE[endgame]DI[5d]DP[4]SO[Spica]CO[7]FF[4]GM[1]SZ[7]AP[SGFC:1.14]
+
+GN[temp1]
+
+AB[bf][be][cd][dd][fe][ee][ef][cb][cc][bd][gc][gb][ad]AW[de]
+[df][cf][ed][fd][gd][ge][db][fb][bb][da][ba][bc]C[White seems to be ahead. Find black's best result (No komi, no prisoners, Japanese Rules).]
+
+(;B[ec];W[fc]
+(;B[eb]
+(;W[fa]
+(;B[fg];W[gf]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef]
+(;W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[dc];W[eg]
+(;B[bg];W[ea]C[jigo. RIGHT])
+(;B[ea];W[bg];B[af];W[cg]C[Black loses by 1]))
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies])
+(;B[dc];W[ea]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[eg];W[bg])
+(;B[ce]C[NOTTHIS]))
+(;B[eg];W[ca]C[black dies])))
+(;W[ca];B[dc];W[ea];B[ee];W[fe];B[eg];W[gg];B[ce];W[ac]C[C7 is no good for white - a loss by 1]
+))
+(;B[ca];W[bg])
+(;B[dc];W[bg]
+(;B[ea];W[af]C[Both players need a defensive move and white wins the ko at A1 - Black loses by 4]
+)
+(;B[af];W[ea];B[ca];W[cg]C[Black loses by 7])))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 3])
+(;B[bg];W[dg]LB[ca:1][eg:2]C[Black loses by 2])
+(;B[ca];W[dg]
+(;B[bg];W[eg]C[Black loses by 2])
+(;B[dc]C[NOTTHIS]))
+(;B[dc];W[ea]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 3])
+(;B[bg];W[dg]LB[ca:1][eg:2]C[Black loses by 2])
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 2])))
+(;B[dg]
+(;W[ff]C[Black D1 would usually be better placed at C1, but as the variation shows, in this particular situation white is unable to play the ko by replying at C1 herself.]
+
+(;B[cg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[eg];W[bg])
+(;B[dc];W[eg]
+(;B[bg];W[ea]C[jigo. RIGHT])
+(;B[ea];W[bg];B[af];W[cg]C[Black loses by 1])))
+(;B[eg];W[ca]C[black dies])
+(;B[dc];W[ea];B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[eg];W[bg])))
+(;B[ca];W[bg])
+(;B[dc];W[bg]
+(;B[af];W[ea];B[ca];W[cg]C[Black loses by 7])
+(;B[ea];W[af]C[Black and white both need to add a defensive move. White will win the potential ko at A1 so black loses by 4]
+)))
+(;B[eg];W[cg])
+(;B[ca];W[bg])
+(;B[dc];W[bg]
+(;B[ea];W[af]LB[ca:a][cg:b][eg:c][ag:d]C[Black needs to add a defensive move (eg. 'a') while white needs to add moves at 'b' and 'c'. Black wins the ko at 'd' but loses by 2]
+)
+(;B[af];W[ea]
+(;B[ca];W[cg]C[Both players need to add a defensive move, black loses by 7]
+)
+(;B[ag];W[ca]C[black will die]))))
+(;W[cg];B[bg];W[eg];B[dc];W[ff];B[ea]C[White can do no better than a loss by 1 if she plays C1]
+))
+(;B[bg];W[dg]LB[ca:a][ff:b][eg:c]C[Black loses by 2 after playing 'a', white must add stones at 'b' and 'c'.]
+)
+(;B[eg];W[ff]LB[cg:1][gg:2][ca:3][dg:4][bg:5]C[Black loses by 3]
+)
+(;B[ca];W[dg]LB[bg:a][eg:b][ff:c]C[After black 'a' white must add stones at 'b' and 'c', black loses by 2]
+)
+(;B[dc];W[ea]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 3])
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 2]))
+(;B[dg];W[cg]
+(;B[ca];W[bg]
+(;B[af];W[ff]C[Both need to add another move, black loses by 7]
+)
+(;B[ce];W[eg];B[af];W[ff]C[Black needs to add another move and loses by 7]
+))
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 4])
+(;B[ce];W[ff];B[ca]C[Black loses by 4]))
+(;B[ce];W[eg]
+(;B[bg];W[ff];B[ca]C[Black loses by 4])
+(;B[ca];W[ff];B[bg]C[Black loses by 4])))
+(;B[ca];W[dg]
+(;B[bg];W[ff]LB[eg:a]C[White still needs to add a move at 'a' but black will lose by 2]
+)
+(;B[ce];W[ff];B[bg];W[eg]C[Black loses by 2]))
+(;B[bg];W[dg]LB[ca:a][ff:b][eg:c]C[After black plays 'a' white will still need to play 'b' and 'c' but black loses by 2]
+)
+(;B[eg];W[ff]LB[ca:1][dg:2][bg:3][gg:4]C[Black will lose by 3 after the sequence 1-4]
+)))
+(;B[dc];W[ea]
+(;B[fg];W[gf]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[jigo. RIGHT])
+(;B[ce]C[NOTTHIS])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 3 after the sequence 1-3]
+)
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 2]))
+(;B[eg];W[ff]LB[ca:1][dg:2][bg:3][gg:4]C[Black loses by 3 after the sequence 1-4]
+)
+(;B[ca];W[dg]LB[bg:a][eg:b][ff:c]C[After black 'a' white must add stones at 'b' and 'c'. Black loses by 2]
+)
+(;B[bg];W[dg]LB[ca:a][eg:b][ff:c]C[After black 'a' white still needs to add stones at 'b' and 'c'. Black loses by 2]
+)
+(;B[dg];W[cg]
+(;B[ca];W[bg]
+(;B[af];W[ff]LB[eg:a]C[Black needs another defensive move and white must add a stone at 'a'. Black loses by 7]
+)
+(;B[ce];W[eg];B[af];W[ff]C[Black needs to add another move, he loses by 7]
+))
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 4])
+(;B[ce];W[ff];B[ca]C[Black loses by 4]))
+(;B[ce];W[eg]
+(;B[bg];W[ff];B[ca]C[Black loses by 4])
+(;B[ca];W[ff];B[bg]C[Black loses by 4]))))
+(;B[ca];W[eg]
+(;B[cg];W[dg];B[bg];W[ff]C[Black loses by 2])
+(;B[bg];W[cg];B[ce];W[ff]C[Black loses by 3]))
+(;B[cg];W[eg];B[ca];W[dg];B[bg];W[ff]C[Black loses by 2])
+(;B[gf];W[eg]
+(;B[ca];W[ff]
+(;B[cg];W[dg];B[bg]C[Black loses by 3])
+(;B[bg];W[cg]C[Black loses by 4]))
+(;B[bg];W[ca];B[af];W[ac];B[cg];W[ff]C[Black loses by 15])
+(;B[cg];W[ca]C[black dies]))
+(;B[ff];W[gf]
+(;B[ca];W[eg]
+(;B[cg];W[dg];B[bg];W[fg]C[Black loses by 2])
+(;B[bg];W[cg]LB[fg:a]C[White needs to play at 'a'. Black loses by 3]
+))
+(;B[cg];W[eg]
+(;B[ca];W[fg]LB[bg:a]C[Black loses by 2 after playing 'a'])
+(;B[ce];W[fg];B[ca]LB[bg:a]C[Black loses by 2 after playing 'a']
+))
+(;B[bg];W[ca]C[a big loss for black]))
+(;B[eg];W[fg]
+(;B[cg];W[ff]
+(;B[ca];W[dg];B[bg]C[Black loses by 3])
+(;B[bg];W[dg];B[ca]C[Black loses by 3]))
+(;B[ca];W[dg]
+(;B[bg];W[ff]C[Black loses by 3])
+(;B[ce];W[ff];B[bg]C[Black loses by 3]))
+(;B[bg];W[ff]
+(;B[ca];W[dg]C[Black loses by 3])
+(;B[cg];W[dg];B[ca]C[Black loses by 3]))
+(;B[dg];W[cg])
+(;B[ff];W[dg])
+(;B[gf];W[dg]))
+(;B[dg];W[cg]
+(;B[eg];W[fg])
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 4])
+(;B[ce];W[ff];B[ca]C[Black loses by 4]))
+(;B[gf];W[eg])
+(;B[fg];W[gf]
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 4])
+(;B[ce];W[ff];B[ca]C[Black loses by 4]))
+(;B[ce];W[eg]
+(;B[bg];W[ff];B[ca]C[Black loses by 4])
+(;B[ca];W[ff];B[bg]C[Black loses by 4]))
+(;B[ca];W[bg];B[ce];W[eg];B[af];W[ff]C[Black needs to add another defensive move and loses by 7]
+))
+(;B[ca];W[ff]
+(;B[bg];W[eg]C[Black loses by 4])
+(;B[ce];W[eg];B[bg]C[Black loses by 4]))
+(;B[ff];W[fg]))
+(;B[bg];W[eg]
+(;B[ca];W[cg];B[ce];W[ff]C[Black loses by 3])
+(;B[cg];W[ca]C[black loses])))
+(;B[gf];W[eg]
+(;B[cg];W[ca]C[black dies])
+(;B[bg];W[ca]C[black loses big])
+(;B[ca];W[ff]
+(;B[dc];W[ea]
+(;B[cg];W[dg];B[bg]C[Black loses by 3])
+(;B[bg];W[cg]C[Black loses by 4]))
+(;B[bg];W[cg]C[Black loses by 4])
+(;B[cg]LB[bg:a]C[Black loses by 3 after connecting at 'a']))
+(;B[dc];W[ea]
+(;B[cg];W[ca]C[black dies])
+(;B[bg];W[ca]C[black loses big])
+(;B[ca];W[ff]
+(;B[cg];W[dg];B[bg]C[Black loses by 3])
+(;B[bg];W[cg]C[Black loses by 4]))))
+(;B[ca];W[eg]
+(;B[dc];W[ea]
+(;B[cg];W[dg];B[bg];W[ff]C[Black loses by 2])
+(;B[bg];W[cg];B[ce];W[ff]C[Black loses by 3]))
+(;B[cg];W[dg]
+(;B[bg];W[ff]C[Black loses by 2])
+(;B[dc];W[ea];B[bg];W[ff]C[Black loses by 2]))
+(;B[bg];W[cg]
+(;B[ce];W[ff]C[Black loses by 3])
+(;B[dc];W[ea];B[ce];W[ff]C[Black loses by 3])))
+(;B[bg];W[eg]
+(;B[cg];W[ca]C[black loses big])
+(;B[ca];W[cg]
+(;B[ce];W[ff]C[Black loses by 3])
+(;B[dc];W[ea];B[ce];W[ff]C[Black loses by 3]))
+(;B[dc];W[ea]
+(;B[cg];W[ca]C[black loses big])
+(;B[ca];W[cg];B[ce];W[ff]C[Black loses by 3])))
+(;B[ff];W[gf]LB[cg:1][eg:2][ca:3][fg:4][bg:5]C[Not tesuji - black loses by 2]
+)
+(;B[eg];W[fg]LB[cg:1][ff:2][ca:3][dg:4][bg:5]C[Black must abandon the E2 group and loses by 3]
+)
+(;B[cg];W[eg]
+(;B[dc];W[ea]
+(;B[ca];W[dg];B[bg];W[ff]C[Black loses by 2])
+(;B[ce];W[ff];B[ca];W[dg];B[bg]C[Black loses by 2])
+(;B[bg];W[ca]C[big loss for black]))
+(;B[ca];W[ff]LB[bg:a]C[Black still needs to play 'a', he loses by 2]
+)
+(;B[bg];W[ca]C[big loss for black])
+(;B[ce];W[ff]
+(;B[ca]LB[bg:a]C[Black still needs to play 'a', he loses by 2]
+)
+(;B[dc];W[ea];B[ca];W[dg];B[bg]C[Black loses by 2])))
+(;B[dg];W[cg]
+(;B[ca];W[eg]
+(;B[dc];W[ea];B[bg];W[ff]C[Black loses by 4])
+(;B[bg];W[ff]C[Black loses by 4]))
+(;B[bg];W[eg]
+(;B[ce];W[ff]
+(;B[ca]C[Black loses by 4])
+(;B[dc];W[ea];B[ca]C[Black loses by 4]))
+(;B[dc];W[ea]
+(;B[ce];W[ff];B[ca]C[Black loses by 4])
+(;B[ca];W[ff]C[Black loses by 4]))
+(;B[ca];W[ff]C[Black loses by 4]))
+(;B[gf];W[eg]LB[ca:1][ff:2][bg:3]C[Black loses by 5])
+(;B[fg];W[eg]
+(;B[dc];W[ea];B[dg];W[gf]
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 4])
+(;B[ce];W[ff];B[ca]C[Black loses by 4]))
+(;B[ce];W[eg]
+(;B[bg];W[ff];B[ca]C[Black loses by 4])
+(;B[ca];W[ff];B[bg]C[Black loses by 4]))
+(;B[ca];W[bg]
+(;B[ce];W[eg];B[af];W[ff]C[black needs to add another defensive move so loses by 7]
+)
+(;B[af];W[eg]LB[ff:a]C[White will move at 'a' next while black needs to add another defensive move, he loses by 7]
+)))
+(;B[ca];W[ff]LB[bg:a]C[Black loses by 5 after playing 'a'])
+(;B[bg];W[ff]LB[ca:a]C[Black loses by 5 after playing 'a'])
+(;B[ff];W[gf]LB[dg:a][gg:b][bg:c][ca:d]C[If black 'a' then white 'b', black will lose by 5 after playing 'c' and 'd']
+))))
+(;W[dc];B[gf];W[ea];B[fg];W[ca];B[ac];W[ab]C[White can't afford to play D5 - she loses by 5]
+)
+(;W[ff];B[ea];W[fa];B[dc];W[bg];B[af];W[eg];B[ag];W[cg]C[This path isn't tested but would also be jigo. RIGHT]
+))
+(;B[fg];W[gf]
+(;B[eb];W[dc]
+(;B[cg];W[ca]
+(;B[ff];W[dg]
+(;B[bg];W[ac]LB[ce:a][eg:b]C[Black must defend at 'a' and 'b' while white also needs a defensive move. Black loses by 2]
+)
+(;B[ce];W[bg]LB[af:a][ac:b]C[black dies, he will be unable to at A1 or E1]
+)
+(;B[ac];W[bg];B[ce];W[af]C[black dies, he is unable to push at A3 or E1]
+))
+(;B[ac];W[ff];B[eg];W[ab]C[Black needs to add two defensive moves and white one more, black loses by 1]
+)
+(;B[dg];W[ff]
+(;B[eg];W[ac]C[Both need to add another defensive move, black loses by 2]
+)
+(;B[ce];W[ac]C[Both need to add anoher move, black loses by 2]
+))
+(;B[eg];W[ac]C[Black needs to add 2 defensive moves and white 1 more, black loses by 2]
+)
+(;B[ce];W[ff]
+(;B[eg];W[ac]C[Both sides need to add another defensive move, black loses by 2]
+)
+(;B[dg];W[ac]C[Both sides need to add another, black loses by 2]
+)))
+(;B[dg];W[ca]
+(;B[cg];W[ff];B[eg];W[ac]C[Both sides need another defensive move, black loses by 2]
+)
+(;B[eg];W[ac]C[Black needs 2 more defensive moves and white 1 more, black loses by 2]
+)
+(;B[ce];W[ff];B[eg];W[ac]C[Both sides need another defensive move, black loses by 2]
+)
+(;B[bg];W[ff];B[eg];W[ac]C[Both sides need another defensive move, black loses by 2]
+)
+(;B[ff];W[cg]LB[bg:1][eg:2][af:3][gg:4][ac:5][ab:6]C[Black has no ko-threat after white C7, following the sequence 1-6 black loses by 22]
+)
+(;B[ac];W[ff]LB[bg:1][eg:2][af:3][cg:4][ab:5][ea:6]C[White can't afford to push at A5 due to playing at D1 instead of C1. Black lives in the sequence 1-6 but loses by 19]
+))
+(;B[ca];W[ea]
+(;B[cg];W[ff]
+(;B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[eg];W[gg]))
+(;B[dg];W[cg]LB[bg:1][eg:2][ce:3][ff:4]C[Black has no ko-threats, he loses by 7]
+)
+(;B[bg];W[dg]LB[eg:a][ff:b]C[White needs additional moves at 'a' and 'b' later. Black loses by 5]
+)
+(;B[eg];W[ff]LB[bg:a]C[Black's E2 group is captured, he loses by 8 after playing 'a']
+)))
+(;B[dc];W[eb]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 2])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 5]))
+(;B[dg];W[cg]
+(;B[bg];W[eg]
+(;B[ce];W[ff];B[ca]C[Black loses by 6])
+(;B[ca];W[ff]C[Black loses by 6]))
+(;B[ce];W[eg]
+(;B[bg];W[ff]C[Black loses by 6])
+(;B[ca];W[ff];B[bg]C[Black loses by 6]))
+(;B[ca];W[bg]
+(;B[af];W[eg]LB[ff:a]C[White will play 'a' next and black needs to add a defensive move. Black loses by 9]
+)
+(;B[ce];W[eg];B[af];W[ff]C[Black needs to add a defensive move, he loses by 9]
+)))
+(;B[eg];W[ff]LB[cg:1][gg:2][ca:3][dg:4][bg:5]C[Black loses by 5 after the sequence 1-5]
+)
+(;B[bg];W[dg]LB[ca:a][ff:b][eg:c]C[After black 'a' white needs to add stones at 'b' and 'c'. Black loses by 4]
+)
+(;B[ca];W[bg]C[Black will lose by 8]))
+(;B[ca];W[dg]
+(;B[eb];W[ea];B[dc];W[fa]LB[bg:a][eg:b][ff:c]C[After black 'a' white must defend at 'b' and 'c'. Black loses by 2]
+)
+(;B[dc];W[eb]LB[bg:a][eg:b][ff:c]C[After black 'a' white must defend at 'b' and 'c', black loses by 4.]
+)
+(;B[bg];W[dc]LB[eg:a][ff:b]C[White still needs to play 'a' and 'b'. Black loses by 7]
+)
+(;B[ce]C[NOTTHIS]))
+(;B[eg];W[ff]LB[cg:1][gg:2][eb:3][fa:4][dc:5][ea:6][ca:7][dg:8]
+[bg:9]C[Black's E2 group is caught, with the continuation 1-9 black loses by 3]
+)
+(;B[cg];W[ff]
+(;B[eb];W[dc]
+(;B[eg];W[ca];B[ac];W[ab]C[Black needs to add 2 defensive moves and white needs to add 1. Black loses by 1]
+)
+(;B[ca];W[ea]
+(;B[eg];W[gg];B[bg];W[dg]C[Black loses by 8])
+(;B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+))
+(;B[dg];W[eg]
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs to play a defensive in addition to E1 and white also needs a defensive move. Black loses by 4.]
+)
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)))
+(;B[dc];W[eb]
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 5])
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 2])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg])))
+(;B[ca];W[dg]
+(;B[eb];W[ea];B[dc];W[fa];B[bg];W[eg]C[Black loses by 2])
+(;B[dc];W[eb];B[bg];W[eg]C[Black loses by 4])
+(;B[bg];W[dc]LB[eg:a]C[White must add a stone at 'a', black loses by 7]
+))
+(;B[eg];W[gg]LB[eb:1][fa:2][dc:3][ea:4][ca:5][dg:6][bg:7]C[Black loses the E2 stones, with the sequence 1-7 he loses by 3]
+)
+(;B[dg];W[eg]
+(;B[ef];W[ca]
+(;B[ee];W[dc];B[ac];W[ab]C[Black must add a defensive move in addition to E1, he loses by 3]
+)
+(;B[dc];W[ee]C[black dies])
+(;B[eb];W[ee]LB[dc:a][ea:b]C[White can connect at 'a' or 'b' so black dies]
+))
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black will lose by 8 after the sequence 1-7]
+)
+(;B[eb];W[dc]
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs to add a defensive move in addition to E1 and white also needs a defensive move. Black loses by 4]
+))
+(;B[dc];W[bg]
+(;B[eb];W[ea];B[ca];W[fa];B[af];W[cg]C[Black must add another defensive move, he loses by 8]
+)
+(;B[ca];W[eb];B[af];W[cg]C[Black must add a defensive move, he loses by 10]
+))))
+(;B[bg];W[dg]LB[dc:1][eb:2][ca:3][eg:a][ff:b]C[Black loses by 4 after the sequence 1-3, white must come back to play 'a' and 'b' later]
+)
+(;B[dg];W[ff]C[Note black D1 is usually better placed at C1 because white may be able to start a ko by playing C1 herself. In this particular situation the ko is not good for white.]
+
+(;B[eb];W[ca]LB[dc:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[White would also be unable to play C7 now if D1 was at C1. Black lives with the sequence 1-8 but loses by 16]
+)
+(;B[dc];W[ca]LB[eb:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[This move at C7 would also not be possible if D1 was at C1. Black lives with the sequence 1-8 but loses by 16]
+)
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7][eg:8]
+C[This move is another disadvantage of black D1 over C1. After the sequence 1-8 black loses by 7]
+)
+(;B[cg];W[eg];B[ef];W[ca]
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs to add a defensive move in addition to E1, black loses by 3]
+)
+(;B[dc];W[ee]C[black dies]))))
+(;B[dc];W[eb]
+(;B[ca];W[bg]TR[cg][eg][ff]C[White needs to add stones at the marked points and black needs a defensive move in addition to A2. Black loses by 8]
+)
+(;B[cg];W[eg]LB[ca:1][ff:2][bg:3]C[Black loses by 4])
+(;B[bg];W[eg]
+(;B[cg];W[ca]LB[af:a]C[big loss for black])
+(;B[ca];W[cg];B[ce];W[ff]C[Black loses by 5]))
+(;B[dg];W[ff]LB[bg:1][eg:2][ca:3][cg:4]C[Black loses by 6 after the sequence 1-4]
+)
+(;B[eg];W[fg]LB[cg:1][ff:2][ca:3][dg:4][bg:5]C[Black loses by 5 after the sequence 1-5]
+)
+(;B[gf];W[eg]LB[ca:1][bg:2][af:3][cg:4][ab:5][ff:6]C[Black loses by 9 after the sequence 1-6]
+)
+(;B[ff];W[gf]LB[cg:1][eg:2][ca:3][fg:4][bg:5]C[Black loses by 4 after the sequence 1-5]
+)
+(;B[fg];W[gf]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 2])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg])
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4]))
+(;B[ca];W[bg]TR[cg][eg][ff]C[Black needs to add a defensive move in addition to A2 while white must play the marked points. Black loses by 8]
+)
+(;B[dg];W[cg]LB[bg:1][eg:2][ca:3][ff:4]C[White wins the ko so black must submit with 1-4, he loses by 6]
+)
+(;B[eg];W[ff]LB[cg:1][gg:2][ca:3][dg:4][bg:5]C[Black loses by 5]
+)))
+(;B[ca];W[eg]
+(;B[cg];W[dc]LB[bg:a][ff:b]C[Defensive moves are needed at 'a' and 'b', black loses by 7]
+)
+(;B[eb];W[ea];B[dc];W[fa];B[cg]LB[bg:a][ff:b]C[Both sides need to add a defensive move, black loses by 2]
+)
+(;B[dc];W[eb];B[cg]LB[bg:a][ff:b]C[Both sides need to add a defensive move, black loses by 4]
+))
+(;B[cg];W[eg]
+(;B[ca];W[dc]LB[bg:a][ff:b]C[Both sides need to make a defensive move, black loses by 7]
+)
+(;B[ce]C[NOTTHIS])
+(;B[eb];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies]))
+(;B[dg];W[ff]LB[bg:1][eg:2][ca:3][dc:4][cg:5]C[Black must submit with 1-5, he loses by 7. Black at 3, white at 1, black at E6 leads to the same result]
+)
+(;B[eg];W[fg]LB[eb:1][fa:2][cg:3][ff:4][ca:5][dg:6][bg:7]C[Black's E2 group is dead, the sequence 1-7 (or similar) makes best use of their aji, black loses by 3]
+)
+(;B[ff];W[gf]LB[cg:1][eg:2][ca:3][dc:4][bg:5][fg:6]C[Not tesuji, black must play submissively at the top allowing white to capture at 4. Black loses by 7]
+)
+(;B[gf];W[eg]
+(;B[eb];W[fa]
+(;B[ca];W[ff]
+(;B[cg]LB[bg:a]C[Black loses by 3 after defending at 'a'])
+(;B[bg];W[cg]C[Black loses by 4])
+(;B[dc];W[ea]
+(;B[cg]LB[bg:a]C[Black loses by 3 after defending at 'a'])
+(;B[bg];W[cg]C[Black loses by 4])))
+(;B[dc];W[ea];B[ca];W[ff]
+(;B[cg]LB[bg:a]C[Black loses by 3 after defending at 'a'])
+(;B[bg];W[cg]C[Black loses by 4]))
+(;B[cg];W[ca]C[Black dies])
+(;B[bg];W[ca]LB[af:a]C[Black loses big]))
+(;B[dc];W[eb]
+(;B[ca];W[bg]TR[cg][ff]C[Black needs to add a defensive move in addition to A2 while white needs to add stones at the marked points. Black loses by 9]
+)
+(;B[cg];W[ca]C[black dies])
+(;B[bg];W[ca]LB[af:a]C[a big loss for black]))
+(;B[ca];W[dc]
+(;B[cg]C[Both sides need to add another move, black loses by 8]
+)
+(;B[bg];W[cg]LB[ff:a]C[White needs to add another move, black loses by 9]
+))
+(;B[cg];W[ca]C[black is dead])
+(;B[bg];W[ca]LB[af:a]C[A big loss for black who needs to play 'a' soon]
+)))
+(;B[dc];W[ec]
+(;B[ca]
+(;W[eg]
+(;B[cg];W[ff]LB[bg:a]C[Black loses by 6 after defending at 'a']
+)
+(;B[bg];W[cg]LB[ff:a]C[Black loses by 7 after white defends at 'a']
+))
+(;W[bg];B[eb];W[ea];B[fa];W[ga];B[gf];W[eg];B[fa];W[ff];B[eb]
+;W[fc];B[af];W[ga];B[gb];W[gc];B[ea];W[ga];B[cg];W[dg];B[gb]
+;W[da];B[db];W[ga];B[ee];W[fe];B[gb];W[cg];B[ga]C[White B1 is too greedy, black wins by 2]
+))
+(;B[cg];W[eg]
+(;B[ca]C[Both sides need to add another move, black loses by 6]
+)
+(;B[ce];W[ff];B[ca]C[Black needs to connect at B1, he loses by 6]
+))
+(;B[dg];W[ff]LB[bg:1][eg:2][ca:3][cg:4]C[Black must abandon the E2 group, he loses by 8 after the sequence 1-4]
+)
+(;B[eg];W[fg]LB[cg:1][ff:2][ca:3][dg:4][bg:5]C[Black must abandon the E2 stones. After the sequence 1-5 he loses by 7]
+)
+(;B[ff];W[gf]LB[cg:1][eg:2][ca:3][fg:4][bg:5]C[Not tesuji, black loses by 6 with the sequence 1-5]
+)
+(;B[gf];W[eg]
+(;B[cg];W[ca]C[black dies])
+(;B[bg];W[ca]LB[af:a]C[Big loss for black who needs to play 'a' to live]
+)
+(;B[ca];W[cg]
+(;B[bg];W[ff]C[Black loses by 8])
+(;B[eb];W[ea];B[fa];W[ga]
+(;B[bg];W[ff]C[Black loses by 8])
+(;B[ff];W[fc];B[bg];W[fg];B[ce];W[gg]C[Black loses by 7])))
+(;B[eb]C[NOTTHIS]))
+(;B[eb];W[eg]LB[ca:1][ea:2][cg:3][ff:4][bg:5]C[Black loses by 6 after the sequence 1-5]
+)
+(;B[fg];W[gf]
+(;B[cg];W[ff]
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 7])
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 6]))
+(;B[ca];W[bg]
+(;B[af]
+(;W[ff]LB[cg:a][eg:b][ab:c]C[Black looks to have lost by 10 but he can force white to fill an extra point of territory (see the variation for this white move at C1 for one possible continuation).]
+)
+(;W[cg];B[eb];W[ea];B[fa];W[ga];B[eg];W[ff];B[fa];W[eb];B[ce]
+;W[ac];B[ab];W[ga];B[aa];W[gg];B[ag];W[dg]C[black loses by 9]
+))
+(;B[eb]C[NOTTHIS]))
+(;B[dg];W[cg]
+(;B[bg];W[eg]
+(;B[ca];W[ff]C[Black loses by 8])
+(;B[ce];W[ff];B[ca]C[Black loses by 8]))
+(;B[ce];W[eg]
+(;B[bg];W[ff];B[ca]C[Black loses by 8])
+(;B[ca];W[ff];B[bg]C[Black loses by 8]))
+(;B[ca];W[ff]
+(;B[bg];W[eg]C[Black loses by 8])
+(;B[ce];W[eg];B[bg]C[Black loses by 8])))
+(;B[eg];W[ff]LB[cg:1][gg:2][ca:3][dg:4][bg:5]C[Black loses by 7 after 1-5]
+)))
+(;B[ca];W[eg]
+(;B[dc];W[ec]
+(;B[cg];W[ff]LB[bg:a]C[Black loses by 6 after playing 'a'])
+(;B[bg];W[cg]LB[ff:a]C[Black loses by 7 after defending at 'a']
+))
+(;B[cg];W[dc]C[Both sides need to add a defensive move. Black loses by 7]
+)
+(;B[ec];W[fc]
+(;B[eb];W[ea];B[dc];W[fa];B[cg]C[Both sides need to add another move. Black loses by 2]
+)
+(;B[dc];W[eb];B[cg]C[Both sides need to add another move, black loses by 4]
+)))
+(;B[gf];W[eg]
+(;B[cg];W[ca]C[black dies])
+(;B[ca];W[dc];B[cg]C[Black loses by 8 after both sides add another defensive move]
+)
+(;B[dc];W[ec]
+(;B[cg];W[ca]C[black dies])
+(;B[ca]
+(;W[ff];B[cg]C[black loses by 7])
+(;W[cg];B[eb];W[ea];B[fa];W[ga];B[ff];W[fc];B[bg];W[fg];B[ce]
+;W[gg]C[also a loss by 7 for black])
+(;W[bg];B[eb];W[ea];B[fa];W[ga];B[cg];W[ff];B[ag];W[dg];B[bg]
+C[this is also a loss by 7 for black])))
+(;B[ec];W[fc]
+(;B[eb];W[fa]
+(;B[dc];W[ea]
+(;B[ca];W[ff];B[cg]C[Black loses by 3])
+(;B[cg];W[ca]C[black dies]))
+(;B[ca];W[ff]LB[cg:a]C[After black 'a' he loses by 3])
+(;B[cg];W[ca]C[black dies]))
+(;B[dc];W[eb]
+(;B[cg];W[ca]C[black dies])
+(;B[ca];W[bg];B[af]TR[cg][ff]C[Black needs to add a defensive move and white needs to play the marked points. Black loses by 9]
+))
+(;B[ca];W[dc];B[cg]C[Both sides need another defensive move, black loses by 8]
+)
+(;B[cg];W[ca]C[black dies])))
+(;B[cg];W[eg]
+(;B[ca];W[dc]C[Both sides need to add another move, black loses by 7]
+)
+(;B[dc];W[ca]C[black dies])
+(;B[ec];W[fc]
+(;B[dc];W[ca]C[black dies])
+(;B[eb];W[ca]LB[dc:a][ea:b]C[white can connect at 'a' or 'b' so black dies]
+)
+(;B[ca];W[dc]C[Both sides need to add another move, black loses by 7]
+))
+(;B[eb];W[ca];B[fc];W[ec];B[fa];W[ea];B[dc];W[ff];B[ac];W[af]
+;B[ab];W[fb]C[black dies everywhere]))
+(;B[dg];W[ff]
+(;B[fg];W[eg]C[white will get the entire lower right])
+(;B[cg];W[eg]
+(;B[bg];W[ca]LB[af:1][dc:2][ac:3][ab:4]C[Black must play at 1 next to live, he loses by 18]
+)
+(;B[ec];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])
+(;B[ca];W[bg]
+(;B[ec];W[eb];B[dc];W[fc];B[af];W[cg]C[Black needs another defensive move, he  loses by 10]
+)
+(;B[dc];W[ec];B[af];W[cg]C[Black needs another defensive move, he loses by 12]
+)
+(;B[af];W[dc]C[Both sides need another move, black loses by 13]
+)))
+(;B[ca];W[bg]
+(;B[ec];W[fc]
+(;B[eb];W[ea];B[dc];W[fa];B[af];W[cg]C[Both sides need to add another move, black loses by 7]
+)
+(;B[dc];W[eb];B[af];W[cg]C[Both sides need to add another move, black loses by 9]
+))
+(;B[dc];W[ec];B[af];W[cg]C[Both sides need to add another move, black loses by 11]
+)
+(;B[af];W[dc];B[ag];W[eg];B[cg];W[bg];B[cg];W[dg];B[bg]C[Black needs to add another move, he loses by 10]
+))
+(;B[dc];W[ec]LB[bg:1][eg:2][ca:3][cg:4]C[Black loses by 8 after the sequence 1-4]
+)
+(;B[bg];W[eg]
+(;B[ca];W[dc];B[cg]C[Black loses by 7])
+(;B[cg];W[ca]LB[af:a]C[black must play 'a' to live, he suffers a big loss]
+)
+(;B[ec];W[ca]LB[dc:1][fc:2][eb:3][ea:4][af:5][cg:6][ac:7][ab:8]
+C[Black suffers a big loss after the sequence 1-8])
+(;B[dc];W[ca]LB[ec:1][fc:2][eb:3][ea:4][af:5][cg:6][ac:7][ab:8]
+C[Black suffers a big loss after the sequence 1-8]))
+(;B[ec];W[fc]
+(;B[eb];W[ca]LB[dc:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[Black must submit with 3 and 5 to live])
+(;B[dc];W[ca]LB[eb:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[Black must submit with 3 and 5 to live])
+(;B[ca];W[bg]
+(;B[eb];W[ea];B[dc];W[fa];B[af];W[eg]C[Both sides need another move, black loses by 7]
+)
+(;B[dc];W[eb];B[af];W[eg]C[Both sides need another move, black loses by 9]
+)
+(;B[af];W[dc];B[ag];W[eg];B[cg];W[bg];B[cg];W[dg];B[bg]C[Black still needs another move, he loses by 10]
+))
+(;B[cg];W[eg]
+(;B[bg];W[ca]LB[af:a]C[black must play 'a' next to live, he suffers a big loss]
+)
+(;B[dc];W[ca]C[black dies])
+(;B[eb];W[ca]C[black dies])
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black loses by 8 after the sequence 1-7]
+))
+(;B[bg];W[eg]
+(;B[ca];W[dc];B[cg]C[Black loses by 7])
+(;B[cg];W[ca]LB[af:a]C[a big loss, black must play 'a' next]
+)
+(;B[dc];W[ca]LB[eb:1][ea:2][af:3][cg:4][ac:5][ab:6]C[A big loss]
+)
+(;B[eb];W[ca]LB[dc:1][ea:2][af:3][cg:4][ac:5][ab:6]C[A big loss]
+)))
+(;B[eg];W[cg]))
+(;B[bg];W[eg]LB[ca:1][dc:2][cg:3][ff:4][ec:a][fc:b]C[Black helps white to remove his aji, black loses by 7 after 1-4 or similar. Although white could exchange 'a' for 'b', black is unable to pull out the stone at 'a' since white could then play at 1]
+)
+(;B[eg];W[fg]LB[ec:1][fc:2][eb:3][fa:4][dc:5][ea:6][ca:7][dg:8]
+[bg:9][ff:10]C[White takes the entire corner. Black loses by 3 after the sequence to 10. White 1 and 3 both threaten to cut directly or atari at G2 followed by C1]
+)
+(;B[ff];W[gf]LB[cg:1][eg:2][ca:3][dc:4][bg:5][fg:6][ec:a][fc:b]
+[eb:c]C[White controls the right side. Black loses by 7 after the sequence 1-6. Even if black exchanges 'a' for 'b' white will be able to play at 3 if he tries to stop white getting 4 later. The sequence black 'a', white 'b', black 'c' is not playable for black - white can reply at 3.]
+)
+(;B[fg];W[gf]
+(;B[ec];W[fc]
+(;B[eb];W[dc]
+(;B[cg];W[ff]
+(;B[eg];W[ca];B[ac];W[ab]C[Black needs to make 2 defensive moves and white 1, black loses by 1]
+)
+(;B[ca];W[ea]
+(;B[eg];W[gg]LB[bg:1][dg:2]C[Black loses by 8])
+(;B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+))
+(;B[dg];W[eg]
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs a defensive move in addition to E1 and white also needs another move, black loses by 4]
+)
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)))
+(;B[dg];W[ff]C[Black D1 is usually better placed at C1 to avoid the possibility of white getting  ko by playing C1 herself. In this particular situation the ko is no good for white.]
+
+(;B[eg];W[cg])
+(;B[ca];W[ea];B[cg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[cg];W[eg]
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs a defensive move in addition to E1 and white also needs another move, black loses by 4]
+)
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)))
+(;B[ca];W[ea]
+(;B[cg];W[ff]
+(;B[eg];W[gg]LB[bg:1][dg:2]C[Black loses by 8])
+(;B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+))
+(;B[dg];W[cg]LB[bg:a][eg:b][ff:c]C[Black has no ko threats he plays 'a' while white plays 'b' then 'c'. Black loses by 9]
+))
+(;B[eg];W[ca];B[ac];W[ab]C[Black needs 3 more defensive moves and white needs 1. Black loses by 1]
+))
+(;B[ca];W[dg]
+(;B[eb];W[ea]
+(;B[dc];W[fa]LB[bg:a][eg:b][ff:c]C[After black 'a' white still needs to add stones at 'b' and 'c'. Black loses by 2]
+)
+(;B[ce]C[NOTTHIS]))
+(;B[ce]C[NOTTHIS])
+(;B[dc];W[eb]LB[bg:a][eg:b][ff:c]C[After black 'a' white still needs to add stones at 'b' and 'c'. Black loses by 4]
+)
+(;B[bg];W[dc]LB[eg:a][ff:b]C[White still needs to play 'a' and 'b'. Black loses by 7]
+))
+(;B[dc];W[eb]
+(;B[ca];W[ff]LB[cg:1][eg:2][bg:3][dg:4]C[Black loses by 4])
+(;B[cg];W[ff]
+(;B[eg];W[gg])
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[eg];W[ca]C[black dies])
+(;B[ca];W[gg];B[bg];W[eg]C[Black loses by 2]))
+(;B[ca];W[bg]))
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4]))
+(;B[dg];W[cg]LB[bg:1][eg:2][ca:3][ff:4]C[Black has no ko threats, after the sequence 1-4 he loses by 6]
+))
+(;B[cg];W[ff]
+(;B[ca];W[dg]
+(;B[eb];W[ea];B[dc];W[fa];B[bg];W[eg]C[Black loses by 2])
+(;B[dc];W[eb];B[bg];W[eg]C[Black loses by 4])
+(;B[bg];W[dc]LB[eg:a]C[White plays 'a' and black loses by 7]
+))
+(;B[dc];W[eb]
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4])
+(;B[dg];W[eg]
+(;B[ef];W[ee]
+(;B[eg];W[ca]C[black dies])
+(;B[ca];W[gg];B[bg];W[eg]C[Black loses by 2]))
+(;B[ca];W[bg]))
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 5]))
+(;B[eb];W[dc]
+(;B[ca];W[ea];B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[eg];W[ca];B[ac];W[ab]C[Black needs to add 2 moves and white needs one more. Black loses by 1]
+)
+(;B[dg];W[eg]
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs to add a move in addition to E1 and white also needs to defend. Black loses by 4]
+)
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)))
+(;B[eg];W[gg]LB[eb:1][fa:2][dc:3][ea:4][ca:5][dg:6][bg:7]C[Black loses by 3 after 1-7]
+)
+(;B[dg];W[eg]
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black loses by 8 after the sequence 1-7]
+)
+(;B[ef];W[ca]
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs to add a defensive move in addition to E1, he loses by 3]
+)
+(;B[dc];W[ee]C[black dies])
+(;B[eb];W[ee]C[black dies]))
+(;B[eb];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])))
+(;B[dg];W[ff]C[Black D1 would be better at C1 since white can play C1 herself to make ko. In this particular situation the ko isn't good for white.]
+
+(;B[cg];W[eg]
+(;B[ef];W[ca]
+(;B[eb];W[ee]C[black dies])
+(;B[dc];W[ee]C[black dies])
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs to add a defensive move in addition to E1, he loses by 3]
+))
+(;B[eb];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black loses by 8 after 1-7]
+))
+(;B[ca];W[cg]LB[eb:1][ea:2][dc:3][fa:4][bg:5][eg:6]C[Black loses by 4 after 1-6]
+)
+(;B[dc];W[ca]LB[eb:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[Black barely lives, he loses by 16])
+(;B[eb];W[ca]LB[dc:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[black barely lives, he loses by 16 after 1-8]))
+(;B[eg];W[ff]LB[eb:1][fa:2][dc:3][ea:4][cg:5][gg:6][ca:7][dg:8]
+[bg:9]C[The E2 group is caught, black loses by 3 in the sequence 1-9 or similar.]
+))
+(;B[ca];W[ff]
+(;B[dc];W[ec];B[cg];W[dg];B[bg];W[eg]C[Black loses by 6])
+(;B[ec];W[fc]
+(;B[eb];W[ea]
+(;B[dc];W[fa];B[cg];W[dg];B[bg];W[eg]C[Black loses by 2])
+(;B[cg]C[NOTTHIS]))
+(;B[dc];W[eb];B[cg];W[dg];B[bg];W[eg]C[Black loses by 4])
+(;B[cg]C[NOTTHIS]))
+(;B[cg];W[dg]
+(;B[bg];W[dc]LB[eg:a]C[Black loses by 7 after white 'a'])
+(;B[dc];W[ec];B[bg];W[eg]C[Black loses by 6])
+(;B[ec];W[fc]
+(;B[eb];W[ea];B[dc];W[fa];B[bg];W[eg]C[Black loses by 2])
+(;B[dc];W[eb];B[bg];W[eg]C[Black loses by 4]))))
+(;B[dc];W[ec]
+(;B[ca];W[bg]
+(;B[eb]C[NOTTHIS])
+(;B[af]
+(;W[cg]LB[eg:a][ff:b][ab:c]C[black can force white to fill an extra point of territory (see variation for this move at 'b') so he loses by 9 rather the 10 if he simply defends at 'c' while white plays 'a' and 'b'.]
+)
+(;W[ff];B[ag];W[cg];B[eb];W[ea];B[fa];W[ga];B[eg];W[ac];B[fa]
+;W[eb];B[ab];W[ga];B[aa];W[gg];B[ce];W[dg]C[black loses by 9]
+)))
+(;B[cg];W[ff]
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 7])
+(;B[dg];W[eg]
+(;B[ca];W[bg]LB[af:1][cg:2][ab:3]C[Black loses by 12])
+(;B[ef];W[ee]
+(;B[eg];W[ca]C[black dies])
+(;B[ca];W[gg];B[bg];W[eg]C[Black loses by 5])))
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 6]))
+(;B[dg];W[cg]LB[bg:1][eg:2][ca:3][ff:4]C[Black has no ko-threat, he loses by 8 after 1-4]
+)
+(;B[eg];W[ff]LB[cg:1][gg:2][ca:3][dg:4][bg:5]C[Black loses by 7 after 1-5]
+))
+(;B[eg];W[ff]LB[ec:1][fc:2][eb:3][fa:4][dc:5][ea:6][ca:7][dg:8]
+[bg:9][gg:10]C[White takes the lower right. Black loses by 3 after the sequence to 10.]
+)
+(;B[cg];W[ff]
+(;B[ca];W[dg]
+(;B[bg];W[dc]LB[eg:a]C[Black loses by 7 after white 'a'])
+(;B[dc];W[ec];B[bg];W[eg]C[Black loses by 6])
+(;B[ec];W[fc]
+(;B[eb];W[ea];B[dc];W[fa];B[bg];W[eg]C[Black loses by 2])
+(;B[dc];W[eb];B[bg];W[eg]C[Black loses by 4])))
+(;B[dc];W[ec]
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 6])
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 7])
+(;B[dg];W[eg]
+(;B[ca];W[bg]LB[af:1][cg:2][ab:3]C[Black loses by 12])
+(;B[ef];W[ee]
+(;B[eg];W[ca]C[black dies])
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[bg])))))
+(;B[ec];W[fc]
+(;B[eb];W[dc]
+(;B[ca];W[ea];B[dg];W[eg];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[dg];W[eg]
+(;B[ca];W[ea];B[ef];W[ee];B[eg];W[gg];B[bg]C[Black loses by 1]
+)
+(;B[ef];W[ca];B[ee];W[ac]C[Black needs a defensive move in addition to E1 and white also needs another move. Black loses by 4]
+))
+(;B[eg];W[ca];B[ac];W[ab]C[Black needs to add two defensive moves and white also needs another move. Black loses by 1]
+))
+(;B[dc];W[eb]
+(;B[ca];W[dg];B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[gg]LB[ca:1][dg:2][bg:3]C[Black loses by 5])
+(;B[dg];W[eg]
+(;B[ca];W[bg])
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 2])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))))
+(;B[ca];W[dg]LB[eb:1][ea:2][dc:3][fa:4][bg:5][eg:6]C[Black loses by 2 after 1-6]
+)
+(;B[dg];W[eg]
+(;B[eb];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black loses by 8 after 1-7]
+)
+(;B[ef];W[ca];B[ee];W[dc];B[ac];W[ab]C[Black needs to add two moves, he loses by 3]
+))
+(;B[eg];W[gg]LB[eb:1][fa:2][dc:3][ea:4][ca:5][dg:6][bg:7]C[Black loses by 3 after 1-7]
+))
+(;B[eg];W[gg]LB[ec:1][fc:2][eb:3][fa:4][dc:5][ea:6][ca:7][dg:8]
+[bg:9]C[Black loses by 3 after 1-9])
+(;B[dg];W[eg]
+(;B[ec];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])
+(;B[ca];W[bg]LB[ec:1][eb:2][dc:3][fc:4][af:5][cg:6][ab:7]C[Black loses by 10 after 1-7]
+)
+(;B[ef];W[ca]
+(;B[ec];W[ee]C[black dies])
+(;B[dc];W[ee]C[black dies])
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs to add two more moves, he loses by 3]
+))))
+(;B[dg]
+(;W[ff]C[Black D1 is better placed at C1 so white can't make ko by playing C1 herself. In this particular situation the ko is bad for white (see variations at C1).]
+
+(;B[ca];W[bg]LB[ec:1][fc:2][eb:3][ea:4][dc:5][fa:6][af:7][cg:8]
+[ab:9][eg:10]C[Black loses by 7 after 1-10])
+(;B[dc];W[ec]
+(;B[ca];W[bg]LB[af:1][cg:2][ab:3][eg:4]C[Black loses by 11 after 1-4]
+)
+(;B[eg];W[cg])
+(;B[cg];W[eg]
+(;B[ca];W[bg]LB[af:1][cg:2][ab:3]C[Black loses by 12])
+(;B[ef];W[ee]
+(;B[ca];W[gg]
+(;B[bg];W[eg]C[Black loses by 4])
+(;B[eg];W[bg]))
+(;B[eg];W[ca]C[black dies]))))
+(;B[ec];W[fc]
+(;B[eb];W[ca]LB[dc:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[Black must submit with 3 and 5 to live, he loses by 16])
+(;B[dc];W[ca]LB[eb:1][ea:2][bg:3][eg:4][af:5][cg:6][ac:7][ab:8]
+C[Black must submit with 3 and 5 to live he loses by 16])
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7][eg:8]
+C[Black loses by 7 after 1-8])
+(;B[eg];W[cg])
+(;B[cg];W[eg]
+(;B[eb];W[ca]C[black dies])
+(;B[dc];W[ca]C[black dies])
+(;B[ca];W[bg]LB[eb:1][ea:2][dc:3][fa:4][af:5][cg:6][ab:7]C[Black loses by 8 after 1-7]
+)
+(;B[ef];W[ca]
+(;B[dc];W[ee]C[black dies])
+(;B[eb];W[ee]C[black dies])
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs to add two moves, he loses by 3]
+))))
+(;B[eg];W[cg])
+(;B[cg];W[eg]
+(;B[ca];W[bg]LB[ec:1][eb:2][dc:3][fc:4][af:5][cg:6][ab:7]C[Black loses by 10 after the sequence 1-7]
+)
+(;B[dc];W[ca]C[black is dead])
+(;B[ec];W[ca]C[black dies, he can't cut])
+(;B[ef];W[ca]
+(;B[ee];W[dc];B[ac];W[ab]C[Black needs two more defensive moves, he loses by 3]
+)
+(;B[dc];W[ee]C[black dies])
+(;B[ec];W[ee]C[black dies, he can't cut]))))
+(;W[cg];B[bg];W[eg];B[ec]
+(;W[dc];B[ca];W[ff];B[eb];W[fc];B[ea];W[fa]C[Black wins by 2]
+)
+(;W[fc];B[eb]
+(;W[ff];B[ea];W[fa];B[dc]C[Black wins by 1])
+(;W[ea];B[dg];W[ca];B[ce];W[dc];B[ac];W[ab];B[ff]C[Black wins by 1]
+))))))

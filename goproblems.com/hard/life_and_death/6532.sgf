@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5d]DP[6]SO[kvzrock]CO[7]SZ[19]AW[bb]AW[bc]AW[fc]AW[hc]AW[ed]AW[fd]AW[be]AW[ce]AW[de]AB[cb]AB[ac]AB[dc]AB[ec]AB[bd]AB[cd]C[W to kill b's entire group.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #9]US[YuJun]PL[W]
+(;W[ab];B[ad]C[A18 A16 of course. Then what?]
+(;W[dd]C[];B[ba]C[CHOICE];W[eb];B[db]
+(;W[ea]C[];B[fb]C[E19 is the follow-up tesuji. Finish the job.]
+(;W[gb];B[da]
+(;W[ae]LB[cc:A]C[B can't connect at A, so B's entire group is dead!RIGHT])
+(;W[fa];B[cc]C[B lives.]))
+(;W[ae];B[cc];W[da];B[aa]LB[bb:a]LB[gb:b]C[a and b are miai. B lives.]))
+(;W[fb];B[da];W[ae];B[cc]C[B lives.]))
+(;W[db]C[];B[eb]C[Looks like a tesuji.];W[cc];B[da];W[dd];B[fb];W[gb];B[fa]C[Part of b's group is a live. W can do better.])
+(;W[eb];B[db]
+(;W[fb];B[ba]
+(;W[da];B[dd];W[ea];B[ca]C[Seki.])
+(;W[dd];B[da];W[ae];B[cc]C[B lives.]))
+(;W[ea];B[fb]
+(;W[gb];B[da];W[dd];B[cc];W[fa];B[ba]C[B lives.])
+(;W[dd];B[cc];W[gb];B[da];W[fa];B[ba]C[B lives.]))))
+(;W[eb];B[db];W[fb];B[ba];W[ab];B[ad]
+(;W[dd];B[da];W[ae];B[cc];W[ea];B[aa]C[B lives.])
+(;W[da];B[dd];W[ea];B[ca]C[Seki.]))
+(;W[ba];B[eb]C[B lives.])
+(;W[db];B[eb];W[cc];B[da];W[dd];B[fb];W[gb];B[fa]C[Part of b's group is alive. W can do better.])
+(;W[da];B[eb];W[ca];B[cc];W[ab];B[ad];W[fb];B[ea];W[ae];B[aa];W[ba];B[db]C[B lives.])
+(;W[dd];B[ab];W[ba];B[cc];W[eb];B[db];W[fb];B[da];W[ae];B[ad]C[Seki.])
+(;W[ca];B[da];W[ea];B[ba];W[ab];B[ad]C[B's alive.]))

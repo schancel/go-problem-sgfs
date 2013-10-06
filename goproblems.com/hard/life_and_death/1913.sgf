@@ -1,0 +1,77 @@
+(;GE[life and death]DI[4d]DP[8]SO[karmaGfa]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[&#30333;&#26041;]PB[&#40657;&#26041;]AW[gb][gc][kc][gd][fe][gf][gg][kg][lg][dh][eh][gh][hh][kh][ai][bi][ci][fi][gi][ii][ji][ki][aj][ak][fk][hk][al][bl][fl]AB[fb][fc][ed][fd][ce][ee][ef][bg][cg][dg][eg][fg][ah][bh][lh][hi][li][bj][cj][dj][hj][ij][lj][bk][ek][jk][kk][lk][cl][el][bm][em][jm][km]TR[cj]PL[W]
+(;W[cm]CR[cm]
+;B[ei]CR[ei]C[CHOICE]
+;W[fh]CR[fh]
+;B[fj]CR[fj]
+;W[gj]CR[gj]
+;B[gl]CR[gl]
+(;W[gk]CR[gk]
+;B[fm]CR[fm]
+(;W[il]CR[il]
+(;B[hl]CR[hl]C[CHOICE]
+(;W[gm]CR[gm]
+;B[hm]CR[hm]
+;W[im]CR[im]
+;B[gm]CR[gm]
+;W[ik]CR[ik]C[RIGHT])
+(;W[im]CR[im]
+;B[ik]CR[ik]
+;W[gm]CR[gm]
+;B[jl]CR[jl]
+;W[hm]CR[hm]C[RIGHT]))
+(;B[im]CR[im]C[CHOICE]
+;W[hm]CR[hm]C[RIGHT]))
+(;W[hl]CR[hl]
+;B[hm]CR[hm]C[ko - there is better]))
+(;W[fm]CR[fm]
+;B[gk]CR[gk]C[ko - there is better])
+(;W[hl]CR[hl]
+;B[fm]CR[fm]
+;W[gk]CR[gk]
+;B[hm]CR[hm]C[ko - there is better]))
+(;W[dm]CR[dm]
+;B[cm]CR[cm]
+(;W[dl]CR[dl]
+;B[dk]CR[dk]C[2 eyes - group alive])
+(;W[dk]CR[dk]
+;B[dl]CR[dl]C[2 eyes - group alive])
+(;W[ck]CR[ck]
+;B[dk]CR[dk]C[2 eyes - group alive]))
+(;W[dl]CR[dl]
+;B[dk]CR[dk]
+(;W[cm]CR[cm]
+;B[dm]CR[dm]C[2 eyes - group alive])
+(;W[dm]CR[dm]
+;B[cm]CR[cm]C[2 eyes - group alive]))
+(;W[dk]CR[dk]
+;B[ei]CR[ei]
+;W[fh]CR[fh]
+;B[fj]CR[fj]
+;W[gj]CR[gj]
+;B[gl]CR[gl]
+(;W[gk]CR[gk]
+;B[fm]CR[fm]
+(;W[il]CR[il]
+(;B[hl]CR[hl]C[CHOICE]
+(;W[gm]CR[gm]
+;B[hm]CR[hm]
+;W[im]CR[im]
+;B[gm]CR[gm]
+;W[ik]CR[ik]C[RIGHT])
+(;W[im]CR[im]
+;B[ik]CR[ik]
+;W[gm]CR[gm]
+;B[jl]CR[jl]
+;W[hm]CR[hm]C[RIGHT]))
+(;B[im]CR[im]C[CHOICE]
+;W[hm]CR[hm]C[RIGHT]))
+(;W[hl]CR[hl]
+;B[hm]CR[hm]C[ko - there is better]))
+(;W[fm]CR[fm]
+;B[gk]CR[gk]C[ko - there is better])
+(;W[hl]CR[hl]
+;B[fm]CR[fm]
+;W[gk]CR[gk]
+;B[hm]CR[hm]C[ko - there is better])))

@@ -1,0 +1,10 @@
+(;GE[joseki]DI[4d]DP[7]SO[aditsu]CO[7]AB[rb]AB[rc]AB[qc]AB[pb]AB[ob]AB[pd]AB[od]AW[qd]AW[rd]AW[qf]AW[oc]AW[pc]AW[qb]AW[nc]AW[nb]LB[ja:|]LB[jb:|]LB[jc:|]LB[jd:|]LB[je:|]LB[jf:|]LB[jg:|]C[Try to mirror the position on the right, with the same colors.]AP[goproblems]
+(;W[cd];B[ed]
+(;W[cf];B[cc];W[dc];B[dd];W[cb];B[bc];W[bd];B[db]C[This was black's mistake. Normal move is E17. Go on :)];W[ec];B[eb];W[fc];B[bb];W[fb]C[Yep, that's what happened in the game.
+Afterwards, black protected so that he wouldn't end up like in the previous problem.RIGHT])
+(;W[ec]C[Good try, but it's a different joseki])
+(;W[dc]C[I said black makes a joseki mistake, not white]))
+(;W[dd]C[That stone is black on the right side]TR[pd])
+(;W[dc]C[If white starts here, there is no black stone on the right that could be a joseki response]TR[pe]TR[qe]TR[qf]MA[pc]TR[pf])
+(;W[qa]C[You didn't understand what the problem asks you to do.])
+(;W[cc]C[That stone is black on the right side]TR[qc]))

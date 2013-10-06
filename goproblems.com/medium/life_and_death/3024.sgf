@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[28]SO[unkx80]CO[7]SZ[19]AB[ra]AB[rb]AB[qc]AB[qd]AB[rd]AB[rf]AB[sf]AW[sc]AW[qb]AW[pb]AW[pc]AW[pe]AW[qf]AW[qg]AW[rg]AW[ri]AW[nc]C[White to play.]AB[qe]AW[sd]FF[1]GM[1]AP[Jago:Version 4.53]GN[Clipboard Content]
+(;W[re]
+(;B[se]C[CHOICE]
+(;W[sg];B[re]
+(;W[pd];B[rc];W[sb]C[RIGHT])
+(;W[sb]C[RIGHT]))
+(;W[sb];B[rc]))
+(;B[rc]C[CHOICE];W[sg]C[RIGHT])
+(;B[sb]C[CHOICE];W[sg]C[RIGHT]))
+(;W[sg];B[re]
+(;W[sb];B[rc])
+(;W[rc];B[sb])
+(;W[pd];B[sb]))
+(;W[se];B[sb]
+(;W[sg];B[re];W[pd];B[rc])
+(;W[pd];B[rc];W[sg];B[re]))
+(;W[sb];B[rc]
+(;W[sg];B[re])
+(;W[re];B[se]))
+(;W[rc];B[se])
+(;W[pd];B[rc]
+(;W[sg];B[sb])
+(;W[re];B[se])))

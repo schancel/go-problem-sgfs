@@ -1,0 +1,8 @@
+(;GE[endgame]DI[6k]DP[37]SO[thanush]CO[0]AW[ra]AW[rc]AW[sd]AW[rd]AW[qc]AW[pc]AW[pb]AB[oa]AB[ob]AB[oc]AB[od]AB[pd]AB[qd]AB[re]AB[se]AB[qf]C[B to reduce white]AP[goproblems]
+(;B[qa]C[]
+(;W[sb]C[CHOICE];B[pa];W[qb]C[RIGHT])
+(;W[pa]C[CHOICE];B[rb];W[qb];B[sb]C[RIGHT]))
+(;B[pa];W[qa];B[sb];W[rb])
+(;B[sb];W[rb];B[pa];W[qa])
+(;B[qb];W[qa])
+(;B[rb];W[sb];B[qa];W[qb];B[pa]C[W gets sente]))

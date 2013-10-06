@@ -1,0 +1,13 @@
+(;GE[endgame]DI[3d]DP[9]SO[saiko*]CO[0]AB[qc]AB[rc]AB[pc]AB[sd]AW[se]AB[rd]AW[re]AW[qe]AW[qd]AW[pd]AW[od]AW[nd]AB[nc]AB[mc]AW[md]AW[ie]AW[jf]AW[kg]AW[kh]AW[mh]AW[nj]AW[mi]AW[li]AW[oi]AB[oj]AB[ok]AB[nk]AW[sj]AW[rj]AW[pi]AW[mj]AB[mk]AB[lk]AB[lj]AB[ki]AB[kj]AB[ji]AB[jh]AW[jg]AB[ih]AB[ig]AW[if]AB[he]AB[hf]AW[id]AW[hd]AW[gd]AB[ge]AB[fe]AW[fd]AB[ed]AW[ec]AW[eb]AW[ea]AB[dd]AB[dc]AB[db]AB[da]AB[ob]AW[oc]C[What will white play here? Sente is not important, only points.]AW[ri]AW[qi]AB[sk]AB[rk]AB[qk]AB[qj]AB[pj]AP[goproblems];W[lc];B[lb]
+(;W[kb]
+(;B[mb]C[CHOICE]
+(;W[jb]
+(;B[ka];W[la];B[ma];W[ja]C[Well done, this works too!RIGHT])
+(;B[la];W[ka]C[Good result!CHOICERIGHT]))
+(;W[jc];B[ka]
+(;W[ja];B[la]C[One point behind]))
+(;W[ka];B[kc];W[ld];B[jc];W[ib];B[gb]
+(;W[gc];B[jb];W[ja];B[la];W[ia];B[ic])
+(;W[hb];B[fc])))
+(;B[kc];W[mb];B[ld];W[nb]C[Black cannot afford thisRIGHT]))
+(;W[mb];B[nb];W[kb];B[ma];W[jb];B[ka];W[ja];B[la]))

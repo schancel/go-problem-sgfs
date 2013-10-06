@@ -1,0 +1,13 @@
+(;GE[life and death]DI[3k]DP[25]SO[redpython]CO[7]
+;AW[qs][ps][os][ns][nr][mq][nq][oq][pq][qq][rp][ro][so]
+AB[ss][rs][ms][js][jr][mr][or][pr][rr][sr][jq][kq][lq][rq][sq][mp][np][op][pp][qp][qo][rn][sn]
+(;W[lr];B[qr])
+(;W[qr];B[lr];W[sp];B[rq]
+(;W[ss];B[rr])
+(;W[sr];B[rr];W[rs];B[sq];W[rp] C[RIGHT])
+(;W[rr];B[sr]
+(;W[ss];B[rs] C[two step ko, but you can do better])
+(;W[sq];B[rq];W[ss];B[rs] C[ko isn't good enough])
+)
+)
+)

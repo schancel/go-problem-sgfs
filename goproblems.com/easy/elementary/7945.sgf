@@ -1,0 +1,22 @@
+(;GE[elementary]DI[12k]DP[57]SO[maba]CO[7]AW[sc]AW[rc]AW[qd]AW[sd]AW[qb]AW[pd]AW[qe]AW[od]AW[oc]AW[ob]AW[pa]AB[qc]AB[oa]AB[na]AB[nb]AB[nc]AB[nd]AB[oe]AB[pe]AB[qf]AB[re]AB[rd]AB[se]AB[rg]AB[pg]C[Black to make a seki.]AP[goproblems]
+(;B[rb]
+(;W[pc]
+(;B[sb]
+(;W[qc]
+(;B[ra]C[RIGHT])
+(;B[qa];W[ra]))
+(;W[ra];B[qc]))
+(;B[ra];W[sb])
+(;B[sa];W[qa])
+(;B[qa];W[ra]))
+(;W[ra];B[sb])
+(;W[sb];B[sa]))
+(;B[pc];W[pb]
+(;B[rb];W[qc])
+(;B[qc];W[rb]))
+(;B[pb];W[pc])
+(;B[sb];W[rb])
+(;B[qa];W[ra])
+(;B[ra];W[rb]
+(;B[qa];W[sa])
+(;B[pb];W[pc])))

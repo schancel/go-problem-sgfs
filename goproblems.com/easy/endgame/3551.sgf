@@ -1,0 +1,9 @@
+(;GE[endgame]DI[15k]DP[63]SO[kochi]CO[8]AB[ea]AW[ec]AW[dd]AB[fb]AW[gc]AW[gb]AB[ga]AB[eb]AW[db]AW[hd]AB[ia]AW[ib]AW[ic]AB[kb]AB[kc]AB[mc]AB[ke]AW[cc]LB[db:A]C[In the endgame, W just played A.  How should B respond on top?]AW[fc]AB[jb]AB[ha]AW[hb]AB[le]AB[me]AB[ne]AB[kd]AW[jc]AW[jd]AW[jf]AW[je]AW[kf]AW[lf]AW[mf]AW[nf]AW[cf]AP[goproblems]
+(;B[ja]C[Right, now all W has is a 6 point ko threat, if you'd played F19 he would have a much larger one.RIGHT])
+(;B[da];W[ca])
+(;B[ka];W[da])
+(;B[fa]C[You leave W with two big ko threats at A and B]LB[ja:A]LB[da:B])
+(;B[ca];W[da]C[doesn't work.])
+(;B[cb];W[da]C[doesn't work.]
+(;B[bc];W[bd])
+(;B[bb];W[bc])))

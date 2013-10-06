@@ -1,0 +1,8 @@
+(;GE[endgame]DI[25k]DP[76]SO[ytqb]CO[0]AB[ah]AB[bh]AB[bg]AB[cf]AB[df]AB[ef]AB[eg]AB[dh]AB[di]AB[dj]AB[ek]AB[el]AB[dl]AB[cm]AB[dn]AB[eo]AB[fo]AB[go]AB[dp]AB[cp]AB[bq]AB[cr]AB[bs]AW[ep]AW[fp]AW[dq]AW[cq]AW[dr]AW[hq]AW[dm]AW[em]AW[en]AW[fn]AW[fl]AW[fk]AW[ej]AW[gj]AW[ei]AW[eh]AW[ce]AW[de]AW[dc]AB[io]AW[fg]AW[ff]AW[ee]AW[fd]AW[ec]C[Black's territory on the left is not completely safe.  How can White invade it?]AW[fr]AB[ch]AB[bf]AB[af]AW[be]AW[ae]AW[bc]AP[goproblems]
+(;W[cl]
+(;B[cn];W[dk]C[RIGHT])
+(;B[dk];W[cn];B[do];W[bm]C[RIGHT]))
+(;W[cn]
+(;B[do];W[cl];B[dk];W[bm]C[RIGHT])
+(;B[cl];W[do]C[Black has to save his group in the corner with a ko.RIGHT]))
+(;W[bo];B[bp];W[cn];B[cl];W[do];B[co];W[dn];B[bn]C[RIGHT]))

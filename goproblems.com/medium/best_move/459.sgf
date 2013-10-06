@@ -1,0 +1,37 @@
+(;GE[best move]DI[1d]DP[15]SO[hello]CO[6]LB[yy:0][yy:0][fe:D][fc:C][df:E][yy:0][yy:0]AB[pc][ld][od][qd][ce][cm][ko][cp][lp][mp][dq][gq][kq][mq][pq][mr][or][qr]
+AW[dc][oc][dh][qh][qk][eo][po][jp][kp][op][qp][eq][iq][lq][qq][er][kr][lr]
+PW[]
+PB[]
+TM[]
+KM[0]
+(;B[fc]
+CR[fc]MN[1]
+;W[de]
+;B[df]
+;W[ee]
+;B[cd]
+;W[ec]
+;B[cc]
+;W[ef]
+(;B[ic]
+C[RIGHT Black has taken the corner and 
+the upper side, while White's 
+thickness is ineffective.]
+)(;B[jc]
+C[RIGHT Black has taken the corner and 
+the upper side, while White's 
+thickness is ineffective.]
+))(;B[fe]
+LB[fe:1]MN[1]
+;W[gc]
+C[The upper side is more important than 
+the left. This exchange is bad for 
+Black.]
+)(;B[df]
+;W[fd]
+;B[bc]
+;W[jc]
+C[The upper side is more important than 
+the left. White can be happy with this 
+result.]
+))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[12k]DP[58]SO[erics]CO[8]AB[ar]AB[bs]AB[cq]AB[dr]AB[er]AB[es]AB[ds]AB[br]AW[cr]AW[fs]AW[fr]AW[fq]AW[eq]AW[dq]AW[dp]AW[cp]AW[bp]AW[ap]C[Black s move... (if you want to Tenuki, use T)FORCE]LB[cr:O]LB[fp:T]AP[goproblems]
+(;B[cs];W[bq]TR[bq]TR[dq]LB[cr:A]C[Since two of its corners are lost,  A is not an eye.])
+(;B[bq]LB[fp:T];W[cs]C[FORCE]LB[fp:T]
+(;B[dr]C[]LB[fp:T];W[ds]LB[fp:T]C[Ishi-no-shita, playing under the stones !]
+(;B[es]LB[fp:T]C[]
+(;W[er]C[CHOICE]LB[fp:T]
+(;B[cr];W[ds]C[So close ! You should study the Bamboo Joint formation, see how the solution achieves it.])
+(;B[cs];W[ds]C[Almost ! This is Ko... You can t take back right away, you have to threaten somewhere else first. And if you can t find a Ko Threat big enough, White will fill in at a...]LB[es:a])
+(;B[ds]C[Everything is under control :)RIGHT]LB[fp:T])
+(;B[fp];W[cs]C[]
+(;B[cr];W[ds];B[es];W[ds]C[Nope, Tenuki was too soon.])
+(;B[ds];W[cr]C[Damezumari, shortage of liberties.]))))
+(;B[er];W[es]C[You re on the right track, though.]))
+(;B[ds];W[dr])
+(;B[aq]LB[fp:T];W[fp]
+(;B[dr];W[as])
+(;B[ds];W[as]))
+(;B[as]LB[fp:T];W[fp]
+(;B[dr];W[aq])
+(;B[ds];W[aq]))
+(;B[er];W[dr])
+(;B[es];W[dr])
+(;B[fp];W[dr]))
+(;B[aq]LB[fp:T];W[fp]C[If the liberty at A3 disappears, then Black can t be saved any more.FORCE])
+(;B[as]LB[fp:T];W[fp]C[Don t gouge your own eye out...])
+(;B[fp];W[bq]C[Black could actually have lived.]))

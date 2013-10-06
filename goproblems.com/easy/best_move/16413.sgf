@@ -1,0 +1,7 @@
+(;GE[best move]DI[7k]DP[43]SO[wolverest]CO[0]AB[ar]AW[aq]AW[bq]AW[cq]AW[cr]AW[dq]AW[cp]AW[bo]AW[ao]AW[an]AB[am]AB[bn]AB[cm]AB[co]AB[do]AB[dp]AB[eq]AB[dr]AB[ds]AB[es]AB[fr]AB[fp]LB[ds:a]C[Black just played A. What is white's best move?]AP[goproblems]
+(;W[bs]C[YupRIGHT])
+(;W[cs];B[ap]
+(;W[bp];B[bs]C[seki])
+(;W[br];B[bp];W[as]))
+(;W[as];B[cs];W[bs];B[br];W[bs];B[ap])
+(;W[br];B[bs];W[cs];B[bp];W[as];B[ap]))

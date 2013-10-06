@@ -1,0 +1,22 @@
+(;GE[life and death]DI[2k]DP[21]SO[DarkSycthe]CO[0]AW[bs]AW[br]AW[bq]AB[cr]AB[dq]AB[eq]AB[fq]AW[dr]AW[cp]AB[bo]AB[bn]AB[cn]AW[co]AW[eo]AW[ep]AW[fp]AW[gp]AB[hp]AW[gq]AB[gr]AB[hr]AB[hq]AW[er]AW[bp]AB[en]AB[fn]AB[go]AB[hn]AB[dn]C[Black to kill unconditionally]AW[do]AP[goproblems]
+(;B[ds];W[cs]
+(;B[cq];W[fr])
+(;B[fs];W[cq]
+(;B[es]C[RIGHT])
+(;B[fr];W[es]))
+(;B[es];W[fs])
+(;B[fr];W[cq]))
+(;B[es];W[cs]
+(;B[cq];W[fr])
+(;B[ds];W[fs])
+(;B[fs];W[ds]
+(;B[cq];W[fr])
+(;B[fr];W[cq]))
+(;B[fr];W[cq]))
+(;B[cq];W[fr]C[3 liberties to 2])
+(;B[fr];W[cq])
+(;B[cs];W[cq])
+(;B[fs];W[ds]
+(;B[cq];W[fr])
+(;B[fr];W[cq])
+(;B[es];W[cq])))

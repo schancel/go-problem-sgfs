@@ -1,0 +1,13 @@
+(;GE[joseki]DI[6k]DP[36]SO[godork]CO[0]AB[pd]AW[qc]C[FORCE]AP[goproblems]
+(;B[pc];W[qd]C[FORCE];B[qe];W[re]C[FORCE]
+(;B[rf];W[qf];B[pe]
+(;W[rg];B[rd];W[sf];B[rc]C[RIGHT]))
+(;B[pe];W[rf])
+(;B[qb];W[rb])
+(;B[qf];W[pb]))
+(;B[qd];W[pc]C[FORCE];B[oc];W[ob]C[FORCE]
+(;B[nb]
+(;W[nc];B[od];W[mb];B[pb];W[na];B[qb]C[RIGHT]))
+(;B[od];W[nb])
+(;B[rc];W[rb])
+(;B[nc];W[rd])))

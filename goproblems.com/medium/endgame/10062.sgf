@@ -1,0 +1,36 @@
+(;GE[endgame]DI[3d]DP[10]SO[godlight]CO[5]AB[dp]AB[rb]AB[sb]AB[qa]AB[pb]AB[oa]AB[ob]AB[na]AB[nb]AB[ma]AB[la]AB[pc]AB[qc]AB[rc]AB[rd]AB[sc]AB[mc]AB[od]AB[oe]AB[of]AB[pf]AB[mf]AB[ia]AB[hb]AB[hc]AB[id]AB[ie]AB[jf]AB[kf]AB[jg]AB[ig]AB[hg]AB[ih]AB[ii]AB[hi]AB[hj]AB[hk]AB[hl]AB[hm]AB[hn]AB[ho]AB[il]AB[ai]AB[aj]AB[bj]AB[cj]AB[dk]AB[dl]AB[ek]AB[em]AB[en]AB[cm]AB[ep]AB[eq]AB[dr]AB[ds]AB[ae]AB[ad]AB[bd]AB[cd]AB[de]AB[ed]AB[ef]AB[ff]AB[gf]AB[kj]AB[kk]AB[kl]AB[km]AB[kn]AB[jn]AB[lo]AB[mo]AB[mn]AB[no]AB[nm]AB[ol]AB[ok]AB[ml]AB[mj]AB[nj]AB[mp]AB[mq]AB[mr]AB[ms]AB[ls]AB[nq]AB[or]AB[pq]AB[qq]AB[rq]AB[rp]AB[sp]AB[rr]AW[ah]AW[af]AW[bg]AW[be]AW[ce]AW[cf]AW[df]AW[dg]AW[eg]AW[bi]AW[ci]AW[dj]AW[ej]AW[fh]AW[gh]AW[hh]AW[gi]AW[gj]AW[fk]AW[fl]AW[el]AW[fm]AW[fn]AW[fo]AW[fp]AW[fq]AW[er]AW[es]AW[gr]AW[hp]AW[io]AW[in]AW[im]AW[jm]AW[jl]AW[jk]AW[ik]AW[jj]AW[jh]AW[ji]AW[ki]AW[kg]AW[lh]AW[mi]AW[ni]AW[oi]AW[oj]AW[pk]AW[pl]AW[lf]AW[ke]AW[je]AW[jd]AW[ic]AW[ib]AW[jb]AW[kb]AW[lb]AW[mb]AW[ka]AW[nc]AW[nd]AW[md]AW[oc]AW[mg]AW[qe]AW[qd]AW[pd]AW[re]AW[qf]AW[sd]AW[se]AW[pg]AW[qh]AW[sr]AW[so]AW[ro]AW[qp]AW[pp]AW[op]AW[np]AW[oq]AW[oo]AW[on]AW[om]AW[nn]AW[lp]AW[ko]AW[jp]AW[lq]AW[lr]AW[ks]AW[jr]AB[fi]AW[ra]C[]AP[goproblems];B[le]C[]
+(;W[ld];B[lg];W[nf];B[kh];W[me];B[lf];W[ng];B[kg]C[You have enough points now too win.RIGHT])
+(;W[lg]C[White cannot protect his stone as he did because he will loose more. Find the best way to punish it!)CHOICE]
+(;B[ld];W[lc]
+(;B[ne];W[og]
+(;B[ha];W[nf];B[me];W[mc];B[kd];W[jc]
+(;B[ja];W[ng];B[kc]C[RIGHT]))
+(;B[me];W[mc];B[kd];W[jc];B[kc];W[ng]C[];B[ja]C[RIGHT]))
+(;B[kd];W[me];B[jc];W[nf]C[you can do better than capturing 3 stones])
+(;B[me]C[];W[kd]
+(;B[ne]C[RIGHT];W[mc]
+(;B[ha]
+(;W[og]
+(;B[kc]C[RIGHT])
+(;B[jc]C[RIGHT])
+(;B[ja];W[pe])))
+(;B[kc];W[jc];B[ha];W[pe];B[ja];W[og]C[RIGHT])
+(;B[jc];W[kc];B[ha];W[pe];B[ja]C[RIGHT])
+(;B[og]C[RIGHT]))
+(;B[kc]C[RIGHT])
+(;B[jc]C[RIGHT])
+(;B[og]C[RIGHT])
+(;B[ha];W[og]
+(;B[ne];W[mc])
+(;B[kc];W[nf];B[jc];W[ne];B[ja]C[RIGHT])
+(;B[jc];W[nf];B[kc])
+(;B[ja];W[nf])
+(;B[nf];W[ng]))))
+(;B[kd]
+(;W[jc];B[ld];W[lc];B[me];W[nf];B[ne];W[mc];B[ng];W[og];B[kc];W[pe];B[ja])
+(;W[me]C[CHOICE]
+(;B[nf];W[ld])
+(;B[jc]
+(;W[nf];B[lc];W[ld];B[kc];W[ke];B[ja]C[You can do better.])
+(;W[lc];B[nf];W[ld];B[ke])))
+(;W[nf];B[me];W[ne];B[ld];W[ng];B[jc];W[lc]C[It's not the best way.]))))

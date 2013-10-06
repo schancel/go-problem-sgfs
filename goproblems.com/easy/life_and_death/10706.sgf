@@ -1,0 +1,9 @@
+(;GE[life and death]DI[6k]DP[38]SO[zafris]CO[7]AB[fr]AW[gs]AW[hs]AB[hr]AB[hq]AB[hp]AW[ir]AW[iq]AW[ip]AW[io]AB[jq]AB[kq]AB[jp]AW[jo]AW[ko]AW[kp]AW[lq]AW[lp]AW[lr]AW[ls]AB[ho]AB[eq]AB[in]AB[hn]AB[jn]AB[kn]AB[mo]AB[lo]AB[mp]AB[mq]AB[ns]AB[nr]AB[js]AB[is]AW[kr]C[Does White need another move to live?   Yes(J9) or No(L9)FORCE]LB[ik:Yes]LB[kk:No]AP[goproblems]
+(;W[ik];B[jk]C[What's the move that's needed?]
+(;W[ks];B[gr];W[jr]
+(;B[is];W[jq]C[RIGHT])
+(;B[jq];W[is]C[RIGHT]))
+(;W[jr];B[jq];W[ks];B[is]))
+(;W[kk]C[... and if Black plays this?];B[gr]
+(;W[jr];B[jq];W[ks];B[is])
+(;W[ks];B[fs];W[jr];B[jq];W[hs];B[is])))

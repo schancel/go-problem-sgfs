@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1d]DP[15]SO[santa c]CO[0]AW[bc]AW[bb]AW[cd]AW[dd]AW[ec]AW[eb]AW[ea]AB[fa]AB[fb]AB[fc]AB[ed]AB[de]AB[ce]AB[bd]AB[ad]AB[ee]AB[bf]C[There are no threats elsewhere, can you kill?]AP[goproblems]
+(;B[dc];W[db];B[cc];W[cb]
+(;B[ba];W[ac]
+(;B[ca];W[aa];B[ab]C[niceRIGHT])
+(;B[ab];W[aa])
+(;B[aa];W[ca]))
+(;B[ac];W[ab])
+(;B[ab];W[ac];B[ba];W[aa])
+(;B[ca];W[ba]))
+(;B[cb];W[ca]
+(;B[cc];W[dc])
+(;B[ac];W[cc])
+(;B[ab];W[cc])
+(;B[db];W[cc]))
+(;B[cc];W[dc]MA[cb]MA[ca])
+(;B[db];W[dc]
+(;B[da];W[cc]
+(;B[ab];W[ac];B[ba];W[aa])
+(;B[ac];W[ab])
+(;B[ba];W[ab]))
+(;B[cb];W[ca]))
+(;B[ca];W[cb])
+(;B[da];W[db])
+(;B[ba];W[cb])
+(;B[ac];W[cb])
+(;B[ab];W[cb]))

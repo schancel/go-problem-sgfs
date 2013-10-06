@@ -1,0 +1,106 @@
+(;GE[life and death]DI[6d]DP[1]SO[Kijana]CO[9]SZ[19]AW[na]AW[mb]AW[ob]AW[rb]AW[sb]AW[kc]AW[mc]AW[oc]AW[pc]AW[qc]AW[ld]AW[pd]AW[je]AW[ke]AW[me]AW[mf]AW[of]AW[mg]AW[og]AW[pg]AW[qg]AW[rh]AW[ci]AW[qi]AW[ck]AW[bm]AW[cm]AW[dn]AW[do]AW[ep]AW[fp]AW[dq]AW[cr]AW[er]AW[cs]AB[nb]AB[jc]AB[nc]AB[rc]AB[md]AB[nd]AB[od]AB[qd]AB[rd]AB[le]AB[oe]AB[pe]AB[kf]AB[lf]AB[pf]AB[qf]AB[rf]AB[rg]AB[el]AB[dm]AB[cn]AB[co]AB[cp]AB[bq]AB[cq]AB[eq]AB[br]AB[bs]C[Black to live unconditionally with his groups in upper right and lower left]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[qb];W[qa];B[sc];W[ap]C[Upper right is alive, but can you save the lower left now?]
+(;B[bn];W[an];B[ao];W[bo]
+(;B[cl];W[bl]
+(;B[am];W[al]
+(;B[bp];W[ao];B[aq];W[am]
+(;B[em];W[dp];B[bk];W[dl];B[ak];W[cl];B[cj];W[dk]
+(;B[dj];W[ek];B[fk];W[ej];B[ei];W[fj];B[gj];W[fi];B[fh];W[gi];B[hi];W[gh];B[gg];W[hh];B[ih];W[hg];B[hf];W[ig];B[jg];W[if];B[ie];W[jf]
+(;B[jd];W[kd];B[kb];W[lc]
+(;B[lb];W[ma]
+(;B[la];W[oa]C[White lives and Black is demolished])
+(;B[oa];W[pa];B[la];W[oa];B[ra]C[ CongratsRIGHT]))
+(;B[ma];W[la];B[lb];W[ma]
+(;B[oa];W[pa];B[ka];W[oa];B[ra]C[RIGHT])
+(;B[ka];W[oa])))
+(;B[kd];W[jd];B[id];W[kd];B[kb];W[lc]
+(;B[lb];W[ma]
+(;B[oa];W[pa];B[la];W[oa];B[ra]C[RIGHT])
+(;B[la];W[oa]))
+(;B[ma];W[la];B[lb];W[ma]
+(;B[oa];W[pa];B[ka];W[oa];B[ra]C[RIGHT])
+(;B[ka];W[oa])))
+(;B[lc];W[as]))
+(;B[ek];W[dj]C[Uh oh]))
+(;B[bk];W[dl];B[em];W[dp];B[ak])
+(;B[dl];W[bj]C[Black dies]))
+(;B[aq];W[ao];B[bp]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough])
+(;B[am];W[al]
+(;B[cl];W[bk])
+(;B[aq];W[ao];B[bp];W[am];B[cl];W[bk])))
+(;B[ao];W[bo];B[bn];W[an]
+(;B[cl])
+(;B[bp])))
+(;B[se];W[ap]C[Upper right is alive, but can you save the lower left now?]
+(;B[bn];W[an];B[ao];W[bo]
+(;B[cl];W[bl]
+(;B[am];W[al];B[bp];W[ao];B[aq];W[am]
+(;B[em];W[dp];B[bk];W[dl];B[ak];W[cl];B[cj];W[dk]
+(;B[dj];W[ek];B[fk];W[ej];B[ei];W[fj];B[gj];W[fi];B[fh];W[gi];B[hi];W[gh];B[gg];W[hh];B[ih];W[hg];B[hf];W[ig];B[jg];W[if];B[ie];W[jf]LB[jd:A];B[jd];W[kd];B[kb];W[lc];B[lb];W[ma]
+(;B[la];W[oa]C[White lives and Black is demolished])
+(;B[oa];W[pa];B[la];W[oa]C[White lives]))
+(;B[ek];W[dj]C[Uh oh]))
+(;B[bk];W[dl];B[em];W[dp];B[ak])
+(;B[dl];W[bj]C[Black dies]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[ao];W[bo];B[bn];W[an]
+(;B[cl])
+(;B[bp]))
+(;B[dp]
+(;W[fq])))
+(;B[sc];W[ap]C[Upper right is alive, but can you save the lower left now?]
+(;B[bn];W[an];B[ao];W[bo]
+(;B[cl];W[bl]
+(;B[am];W[al];B[bp];W[ao];B[aq];W[am]
+(;B[em];W[dp];B[bk];W[dl];B[ak];W[cl];B[cj];W[dk]
+(;B[dj];W[ek];B[fk];W[ej];B[ei];W[fj];B[gj];W[fi];B[fh];W[gi];B[hi];W[gh];B[gg];W[hh];B[ih];W[hg];B[hf];W[ig];B[jg];W[if];B[ie];W[jf]LB[jd:A];B[jd];W[kd];B[kb];W[lc];B[lb];W[ma]
+(;B[la];W[oa]C[White lives and Black is demolished])
+(;B[oa];W[pa];B[la];W[oa]C[White lives]))
+(;B[ek];W[dj]C[Uh oh]))
+(;B[bk];W[dl];B[em];W[dp];B[ak])
+(;B[dl];W[bj]C[Black dies]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[ao];W[bo];B[bn];W[an]
+(;B[cl])
+(;B[bp])))
+(;B[sg];W[ap]C[Upper right is alive, but can you save the lower left now?]
+(;B[bn];W[an];B[ao];W[bo]
+(;B[cl];W[bl]
+(;B[am];W[al];B[bp];W[ao];B[aq];W[am]
+(;B[em];W[dp];B[bk];W[dl];B[ak];W[cl];B[cj];W[dk]
+(;B[dj];W[ek];B[fk];W[ej];B[ei];W[fj];B[gj];W[fi];B[fh];W[gi];B[hi];W[gh];B[gg];W[hh];B[ih];W[hg];B[hf];W[ig];B[jg];W[if];B[ie];W[jf]LB[jd:A];B[jd];W[kd];B[kb];W[lc];B[lb];W[ma]
+(;B[la];W[oa]C[White lives and Black is demolished])
+(;B[oa];W[pa];B[la];W[oa]C[White lives]))
+(;B[ek];W[dj]C[Uh oh]))
+(;B[bk];W[dl];B[em];W[dp];B[ak])
+(;B[dl];W[bj]C[Black dies]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[ao];W[bo];B[bn];W[an]
+(;B[cl])
+(;B[bp])))
+(;B[re];W[ap]C[Upper right is alive, but can you save the lower left now?]
+(;B[bn];W[an];B[ao];W[bo]
+(;B[cl];W[bl]
+(;B[am];W[al];B[bp];W[ao];B[aq];W[am]
+(;B[em];W[dp];B[bk];W[dl];B[ak];W[cl];B[cj];W[dk]
+(;B[dj];W[ek];B[fk];W[ej];B[ei];W[fj];B[gj];W[fi];B[fh];W[gi];B[hi];W[gh];B[gg];W[hh];B[ih];W[hg];B[hf];W[ig];B[jg];W[if];B[ie];W[jf]LB[jd:A];B[jd];W[kd];B[kb];W[lc];B[lb];W[ma]
+(;B[la];W[oa]C[White lives and Black is demolished])
+(;B[oa];W[pa];B[la];W[oa]C[White lives]))
+(;B[ek];W[dj]C[Uh oh]))
+(;B[bk];W[dl];B[em];W[dp];B[ak])
+(;B[dl];W[bj]C[Black dies]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[bp];W[am]C[Now Black must fight a ko to live - not good enough]))
+(;B[ao];W[bo];B[bn];W[an]
+(;B[cl])
+(;B[bp])))
+(;B[dp];W[fq]C[This move removes the aji of e7 thus making it impossible for black to win])
+(;B[bn];W[sc]C[Upper right dies])
+(;B[ap];W[sc]C[Upper right dies])
+(;B[bo];W[sc]C[Upper right dies])
+(;B[an];W[sc]C[Upper right dies]))

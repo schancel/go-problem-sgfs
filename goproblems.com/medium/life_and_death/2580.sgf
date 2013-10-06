@@ -1,0 +1,60 @@
+(;GE[life and death]DI[3d]DP[10]SO[picketfence]CO[8]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[0]
+DT[2003-06-13]
+KM[5.5]
+RU[Japanese]
+AB[ra][rb][qc][qd][pd][od][nd][md][ld][kc][kb][ka]
+AW[qa][qb][pc][oc][ob][nc][mc][ma]
+C[Kill without ko.]
+
+(;B[mb];W[lb]
+(;B[la]
+(;W[na]
+C[CHOICE]
+;B[pa]
+C[RIGHT]
+)
+(;W[nb]
+C[CHOICE]
+;B[oa]
+C[RIGHT]
+))
+(;B[lc];W[pa]
+(;B[na];W[nb])
+(;B[la];W[na]))
+(;B[oa];W[na])
+(;B[pa];W[pb]
+(;B[la];W[nb];B[lc];W[oa]
+C[A is ko.]
+LB[mb:A]
+)
+(;B[lc];W[nb];B[la];W[oa]
+C[A is ko.]
+LB[mb:A]
+))
+(;B[na];W[nb]))
+(;B[oa];W[na])
+(;B[pa];W[pb]
+(;B[mb];W[lb]
+(;B[la];W[nb];B[lc];W[oa]
+C[A is ko.]
+LB[mb:A]
+)
+(;B[lc];W[nb]
+(;B[oa];W[la])
+(;B[la];W[oa]
+C[A is ko.]
+LB[mb:A]
+)))
+(;B[na];W[nb]LB[oa:A]
+)
+(;B[lb];W[mb])
+(;B[nb];W[lb])
+(;B[lc];W[lb])
+(;B[la];W[mb]))
+(;B[na];W[nb];B[pa];W[pb])
+(;B[lb];W[mb];B[oa];W[na])
+(;B[pb];W[pa];B[na];W[mb]))

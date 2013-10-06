@@ -1,0 +1,28 @@
+(;GE[life and death]DI[10k]DP[50]SO[Watz]CO[6]AW[ir][jr][kr][mr][nr][or][pr][rr][sr][is][ls][qs][rs]AB[hq][iq][jq][kq][lq][mq][nq][oq][pq][qq][rq][sq][hr][lr][qr][hs]LB[ks:A]
+C[White just failed to play at A, assuming he would lose only the 4 stones on the left. Show him otherwise and kill the whole corner.]
+(;B[ps]CR[ps]
+;W[os]CR[os]
+;B[ms]CR[ms]
+;W[ns]CR[ns]
+;B[ks]CR[ks]C[RIGHT
+Well done!])
+(;B[ms]CR[ms]
+;W[ps]CR[ps]
+(;B[ns]CR[ns]
+;W[os]CR[os]
+;B[ms]CR[ms]
+;W[ns]CR[ns]
+;B[ks]CR[ks]C[RIGHT
+Well done!])
+(;B[ks]CR[ks]
+;W[ns]CR[ns]))
+(;B[ks]CR[ks]
+;W[ms]CR[ms]
+;B[ps]CR[ps]
+;W[os]CR[os])
+(;B[js]CR[js]
+;W[ks]CR[ks])
+(;B[ns]CR[ns]
+;W[ks]CR[ks])
+(;B[os]CR[os]
+;W[ks]CR[ks]))

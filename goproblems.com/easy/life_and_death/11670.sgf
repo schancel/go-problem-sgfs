@@ -1,0 +1,12 @@
+(;GE[life and death]DI[8k]DP[46]SO[graemy]CO[0]AB[pr]AB[po]AB[no]AB[nr]AB[or]AB[pq]AB[pp]AB[oo]AB[mn]AB[ln]AB[lo]AB[ko]AB[jo]AB[jp]AB[gp]AB[hp]AB[ip]AB[gq]AB[gr]AB[gs]AB[hs]AB[is]AB[lr]AW[hr]AW[hq]AW[iq]AW[jq]AW[jr]AW[js]AW[mr]AW[nq]AW[np]AW[mp]AW[mo]AW[lp]AW[kp]C[White to liveCHOICE]AP[goproblems]
+(;W[ls]C[life];B[kr]
+(;W[lq]C[RIGHT])
+(;W[kq];B[lq]C[Seki]))
+(;W[ms]
+(;B[ls]
+(;W[kr];B[ns];W[mq];B[lq]C[dead, w must connect at l3 once p3 and p4 are filled in])
+(;W[lq];B[ns];W[mq];B[kr]C[dead])))
+(;W[lq]
+(;B[ms];W[kr];B[mq]C[ko for life, undesirable, white can do better])
+(;B[ls];W[ms]))
+(;W[kr];B[ms];W[lq]))

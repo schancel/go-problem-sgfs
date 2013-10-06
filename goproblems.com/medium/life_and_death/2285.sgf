@@ -1,0 +1,68 @@
+(;GE[life and death]DI[3d]DP[10]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd26]
+
+AB[qm][rq][sq][qr][qs][qn][qo][qp][rp][pp][oo][no][np][mp][kq]
+[ps][jr][js][jp][lq][ms]AW[rn][rl][qq][pq][os][oq][so][ql][op]
+[pl][po][pn][nq][mq][lr][pm][or][kr][ks][mr]C[Black to kill white's P3 group.]
+
+(;B[ns];W[rr]
+(;B[rs];W[sr]
+(;B[rm];W[sm]
+(;B[ss]C[Black kills by one move. RIGHT])
+(;B[nr];W[sn]
+(;B[ss];W[ls];B[ns]C[Black kills by one move. RIGHT])
+(;B[pr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[ls];B[ns];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[ls];B[ns];W[ps];B[qs];W[rr]C[black dies])))
+(;B[ls];W[sn]
+(;B[pr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[nr];B[ms];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[nr];B[ms];W[ps];B[qs];W[rr]C[black dies]))
+(;B[ss];W[nr];B[ms]C[Black kills by one move. RIGHT]))
+(;B[pr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[ps];B[qs];W[rr]C[black dies])))
+(;B[ss];W[rm]
+(;B[nr];W[ro]C[black is dead due to white's bigger eye])
+(;B[ls];W[ro]C[black is dead due to white's bigger eye])
+(;B[pr];W[sr];B[rr];W[ro]C[black is dead]))
+(;B[pr];W[rm]
+(;B[ss];W[sr];B[rr];W[ro]C[black dies])
+(;B[nr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[ls];B[ns];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[ls];B[ns];W[ps];B[qs];W[rr]C[black dies]))
+(;B[ls];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[nr];B[ms];W[pr];B[qs];W[rr]C[black is dead])
+(;B[pr];W[nr];B[ms];W[ps];B[qs];W[rr]C[black dies])))
+(;B[nr];W[rm]
+(;B[ss];W[ro]C[black is dead])
+(;B[pr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[ls];B[ns];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[ls];B[ns];W[ps];B[qs];W[rr]C[black dies])))
+(;B[ls];W[rm]
+(;B[ss];W[ro]C[black is dead])
+(;B[pr];W[ss];B[qr];W[rs]
+(;B[qs];W[rr]C[black is dead])
+(;B[ps];W[nr];B[ms];W[pr];B[qs];W[rr]C[black dies])
+(;B[pr];W[nr];B[ms];W[ps];B[qs];W[rr]C[black dies]))))
+(;B[rm];W[rs])
+(;B[ss];W[pr])
+(;B[sr];W[rs]
+(;B[rm];W[pr])
+(;B[ss];W[rm]
+(;B[nr];W[ro];B[pr];W[ls];B[ns];W[rr]C[black is dead (whether he had played Q2 or not)]
+)
+(;B[ls];W[ro];B[pr];W[nr];B[ms];W[rr]C[black is dead (whether he had played Q2 or not)]
+)
+(;B[pr];W[ro]
+(;B[nr];W[ls];B[ns];W[rr]C[black is dead])
+(;B[ls];W[nr];B[ms];W[rr]C[black is dead])))))
+(;B[rm];W[ns])
+(;B[rr];W[ns]))

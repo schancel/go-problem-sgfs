@@ -1,0 +1,31 @@
+(;GE[best move]DI[5k]DP[33]SO[uwe001]CO[6]
+AW[ra][pb][qb][pc][pd][rd][qe][qf][qi]AB[ob][rb][sb][oc][qc][rc][qd][oe][pe]LB[oh:A]PL[W]
+(;W[se]LB[oh:A]
+;B[od]LB[oh:A]
+;W[sc]LB[oh:A]
+;B[sd]LB[oh:A]
+;W[oh]CR[oh]C[RIGHT White wins the corner if she has enough KO threats])
+(;W[sd]LB[oh:A]
+;B[re]LB[oh:A]
+;W[rf]LB[oh:A]
+;B[od]LB[oh:A]
+;W[se]LB[oh:A]
+;B[pa]LB[oh:A])
+(;W[sa]LB[oh:A]CR[sa]
+;B[qa]LB[oh:A]CR[qa]
+;W[pa]LB[oh:A]CR[pa]
+;B[od]LB[oh:A]CR[od]
+;W[ra]LB[oh:A]CR[ra]
+;B[oa]LB[oh:A]CR[oa])
+(;W[sc]LB[oh:A]CR[sc]
+;B[sd]LB[oh:A]CR[sd]
+;W[re]LB[oh:A]CR[re]
+;B[od]LB[oh:A]CR[od]
+;W[se]LB[oh:A]CR[se]
+;B[pa]LB[oh:A]CR[pa])
+(;W[re]LB[oh:A]CR[re]
+;B[od]LB[oh:A]CR[od]
+;W[sc]LB[oh:A]CR[sc]
+;B[sd]LB[oh:A]CR[sd]
+;W[se]LB[oh:A]CR[se]
+;B[pa]LB[oh:A]CR[pa])))

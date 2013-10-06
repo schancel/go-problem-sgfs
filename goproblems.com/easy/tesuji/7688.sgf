@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[10k]DP[53]SO[tom111]CO[7]AW[qr]AW[rr]AW[rq]AW[rp]AW[pq]AW[oq]AW[np]AW[mq]AW[mn]AW[nn]AW[on]AW[qn]AB[pr]AB[or]AB[nr]AB[mr]AB[qp]AB[pp]AB[qq]AB[mp]C[Basic Tesuji: Black to capture the cutting stones]AP[goproblems]
+(;B[op];W[nq]
+(;B[no];W[lq]C[White escapes :(])
+(;B[lq];W[no]))
+(;B[no]
+(;W[op];B[oo]C[CHOICERIGHT])
+(;W[nq];B[lq]C[CHOICERIGHT])
+(;W[lq];B[nq]C[CHOICERIGHT]))
+(;B[nq];W[op])
+(;B[lq];W[op])
+(;B[lp];W[op])
+(;B[oo];W[no]))

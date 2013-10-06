@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[7k]DP[44]SO[mrmoto]CO[7]SZ[9]AW[fa]AW[cb]AW[eb]AW[fb]AW[dc]AW[ec]AW[bd]AW[cd]AW[fd]AW[ae]AW[ce]AW[de]AW[fe]AW[he]AW[af]AW[bf]AW[ef]AW[eg]AW[fg]AW[gg]AW[hg]AW[hh]AW[fi]AW[gi]AB[ga]AB[gb]AB[bc]AB[cc]AB[fc]AB[gc]AB[gd]AB[hd]AB[ge]AB[cf]AB[df]AB[ff]AB[gf]AB[hf]AB[if]AB[ag]AB[bg]AB[cg]AB[dg]AB[ig]AB[bh]AB[ch]AB[eh]AB[fh]AB[ih]AB[ci]AB[ei]C[Black to win, using the fewest number of moves.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[hi]C[];W[ii]
+(;B[gh];W[ee]
+(;B[hi]C[Black wins. :)RIGHT])
+(;B[ad];W[ac]C[Bad style.]))
+(;B[hi]C[NOTTHIS])
+(;B[ad];W[ac]C[Unnecessary - you do not need to fight this ko.])
+(;B[ed]C[Unnecessary - you do not need to fight this ko.])
+(;B[ee]C[Unnecessary - you do not need to fight this ko.]))
+(;B[gh];W[hi]C[You lost your chance.])
+(;B[ii];W[gh]C[You lost your chance.])
+(;B[ai]C[You just lost a point!])
+(;B[ed];W[ee]C[This fixes white's weakness.])
+(;B[bb]C[Doesn't help.])
+(;B[ac]C[Doesn't help.])
+(;B[ad];W[ac]C[Bad style.])
+(;B[ee];W[ed]C[Unnecessary move.]))

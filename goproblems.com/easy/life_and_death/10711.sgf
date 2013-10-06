@@ -1,0 +1,10 @@
+(;GE[life and death]DI[12k]DP[57]SO[zafris]CO[8]AW[ij]AW[ji]AW[ki]AW[ik]AW[lj]AW[lk]AW[kl]AW[jl]AW[km]AW[lm]AW[mm]AW[mk]AW[hh]AW[hi]AW[hj]AW[hg]AW[jh]AW[jg]AW[hf]AW[if]AW[jf]AB[ig]AB[ih]AW[nk]AW[nl]AW[nm]AB[ml]AB[li]AB[lh]AB[kh]AB[kg]AB[kf]AB[ke]AB[je]AB[ie]AB[ge]AB[he]AB[gf]AB[gg]AB[gi]AB[gj]AB[gh]AB[gk]AB[hk]AB[il]AB[im]AB[jm]AB[jn]AB[kn]AB[ln]AB[mn]AB[nn]AB[on]AB[om]AB[ol]AB[ok]AB[oj]AB[nj]AB[mj]AB[jk]C[Can Black gain anything? Yes(O13) or No(Q13).FORCE]LB[ng:Yes]LB[pg:No]AP[goproblems]
+(;B[ng];W[og]C[What can Black do?]
+(;B[kj];W[ii]LB[nf:Tenuki]C[White captures 2 stones, is there anything to do now? If not play Tenuki (O14).]
+(;B[ih]C[Seki! White can't capture the marked stones. White has just 4 points for the 2 stones in the eyes and the 2 stones White just captured a move ago. This is 7 points better for Black than letting White play first.RIGHT]TR[jk]TR[kj])
+(;B[ig]C[Seki! White can't capture the marked stones. White has just 4 points for the 2 stones in the eyes and the 2 stones White just captured a move ago. This is 7 points better for Black than letting White play first.RIGHT]TR[jk]TR[kj])
+(;B[nf];W[jj]C[White lives with points!])
+(;B[kk];W[jj]))
+(;B[kk];W[kj])
+(;B[jj];W[kj]))
+(;B[pg]C[];W[kj]C[White now is unconditionally alive and has 12 points locally (8 territory, 4 captured stones)]))

@@ -1,0 +1,57 @@
+(;GE[elementary]DI[7k]DP[42]SO[ewq123]CO[0]AB[dp]AW[dd]AW[pd]AB[jj]AB[pp]AB[pq]AW[qp]AW[qq]AW[pr]AW[po]AW[pn]AW[pm]AB[qo]AB[qn]AB[qm]AB[on]AB[oo]AW[nq]AW[mq]AB[mm]AW[kl]AB[jh]AB[kg]AW[jg]AW[kh]AW[mh]AB[mg]AB[ni]TR[pm]TR[pn]TR[po]LB[rk:T]C[Can B kill the marked stones? Tenuki at T if not]AP[goproblems]
+(;B[pl];W[om]
+(;B[nm];W[ol];B[ok];W[nl]
+(;B[ml];W[nk]
+(;B[nj];W[mk];B[lk];W[mj]
+(;B[mi];W[lj]
+(;B[li];W[kj]
+(;B[kk];W[ki]
+(;B[lh];W[ji];B[ii]C[Well done! Could you read it all? ^^RIGHT])
+(;B[ji];W[lh]
+(;B[nh];W[lg];B[lf]C[Well done! Could you read it all? ^^RIGHT])
+(;B[lg];W[nh];B[oh];W[ng];B[nf];W[og];B[pg];W[of];B[oe];W[pf]
+(;B[qf];W[pe]C[If b can get >2 liberties its over : (CHOICE])
+(;B[pe];W[qf]C[If b can get >2 liberties its over : (CHOICE]))))
+(;B[ki];W[kk]C[If b can get >2 liberties its over : (CHOICE]))
+(;B[kj];W[li]
+(;B[ki];W[lh]
+(;B[lg];W[nh];B[oh];W[ng];B[nf];W[og];B[pg];W[of];B[oe];W[pf]
+(;B[qf];W[pe]C[If b can get >2 liberties its over : (CHOICE])
+(;B[pe];W[qf]C[If b can get >2 liberties its over : (]))
+(;B[nh];W[lg];B[lf]C[Well done! Could you read it all? ^^RIGHT]))
+(;B[lh];W[lg];B[ki];W[lh]
+(;B[nh];W[kf];B[lf];W[kg]C[If b can get >2 liberties its over : (CHOICE])
+(;B[lf];W[kf];B[nh];W[kg]C[If b can get >2 liberties its over : (CHOICE]))))
+(;B[lj];W[mi]C[If b can get >2 liberties its over : (CHOICE]))
+(;B[mk];W[nj]
+(;B[mj];W[oj]
+(;B[pk];W[pj]C[If b can get >2 liberties its over : (CHOICE])
+(;B[oi];W[pk];B[pj];W[ql]C[This might work in a real game, but B didnt capture the marked stones : (])
+(;B[pj];W[oi];B[oh];W[pk];B[pi];W[ql]C[This might work in a real game, but B didnt capture the marked stones : (]))
+(;B[oj];W[mj]
+(;B[lj];W[mi]C[If b can get >2 liberties its over : (CHOICE])
+(;B[mi];W[lj]C[If b can get >2 liberties its over : (]))))
+(;B[nk];W[ml];B[ll];W[mk];B[mj];W[lk]
+(;B[kk];W[lm];B[lj];W[ll]C[If b can get >2 liberties its over : (CHOICE])
+(;B[lm];W[kk]C[If b can get >2 liberties its over : (CHOICE]))
+(;B[mk];W[op]C[A net wont work : (CHOICE]))
+(;B[ol];W[nm]
+(;B[nn];W[nl];B[nk];W[ml];B[ll];W[mk];B[mj];W[lk]
+(;B[kk];W[lm];B[lj];W[ll]C[CHOICE])
+(;B[lm];W[kk]C[CHOICE]))
+(;B[nl]C[Wrong direction...];W[nn]
+(;B[no];W[mn];B[ln];W[mo];B[mp];W[lo];B[ko];W[lp]
+(;B[np];W[op]C[CHOICE])
+(;B[lq];W[np];B[kp];W[mp]C[CHOICE])
+(;B[kp];W[lq]C[CHOICE]))
+(;B[mo];W[no];B[np];W[op]
+(;B[mn];W[oq]C[CHOICE])
+(;B[oo];W[mp]C[CHOICE])
+(;B[mp];W[oq]C[CHOICE]))
+(;B[mn];W[no]
+(;B[op];W[np]C[CHOICE])
+(;B[np];W[op]
+(;B[mo];W[mp]C[CHOICE])
+(;B[mp];W[oq]C[CHOICE])
+(;B[oo];W[mp]C[CHOICE]))))))
+(;B[rk]C[But he can !!CHOICE]))

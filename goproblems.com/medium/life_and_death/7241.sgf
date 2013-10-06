@@ -1,0 +1,28 @@
+(;GE[life and death]DI[3d]DP[9]SO[Field Mouse]CO[8]AB[hh]AB[hi]AB[ih]AB[hg]AB[gh]AB[kh]AB[lh]AB[lg]AB[mh]AB[li]AB[lk]AB[ll]AB[ml]AB[lm]AB[kl]AB[hl]AB[hk]AB[il]AB[hm]AB[gl]AW[jj]AW[ji]AW[ij]AW[kj]AW[jk]AW[gg]AW[mg]AW[mf]AW[lf]AW[kf]AW[if]AW[hf]AW[gf]AW[fg]AW[fh]AW[ff]AW[fi]AW[fk]AW[fl]AW[fm]AW[fn]AW[gn]AW[hn]AW[in]AW[kn]AW[ln]AW[mn]AW[nn]AW[nm]AW[nl]AW[nk]AW[ni]AW[nh]AW[ng]C[Can black live with his center group?Click X of your choice.]LB[cd:Y]LB[dd:E]LB[ed:S]LB[fd::]LB[gd:X]LB[od:N]LB[pd:O]LB[qd::]LB[rd:X]AP[goproblems]
+(;B[gd]C[No :-(])
+(;B[rd];W[qd]C[Well, and can black live if he plays twice (two moves now, then the game continues normally)?]LB[cp:Y]LB[dp:E]LB[ep:S]LB[fp::]LB[gp:X]LB[op:N]LB[pp:O]LB[qp::]LB[rp:X]
+(;B[rp]C[Um.. he can.])
+(;B[gp]C[];W[fp]C[Show me :-)]
+(;B[jh];W[gq]
+(;B[jl];W[lj];B[mj];W[mi];B[mk];W[hj];B[gj];W[gi];B[gk];W[jg]C[This is not the solution.])
+(;B[hj];W[lj];B[mj];W[mk];B[mi];W[jl]C[Black is captured.])
+(;B[lj];W[jl];B[jm];W[im];B[km];W[hj]C[Klhzm :-(]))
+(;B[hj];W[dp]
+(;B[lj];W[jl];B[jm];W[km];B[im];W[jh];B[jg];W[kg];B[ig]C[White resigns.RIGHT])
+(;B[jh];W[lj];B[mj];W[mk];B[mi];W[jl]C[Eeeee.])
+(;B[jl];W[lj];B[mj];W[mi];B[mk];W[jh]C[Uuuuu.]))
+(;B[lj];W[rc];B[hj];W[jg];B[jh];W[jm];B[jl]C[Seki is the best result.RIGHT])
+(;B[jl];W[oo]
+(;B[hj];W[jh];B[jg];W[ig];B[kg];W[lj];B[mj];W[mk];B[mi]C[Wow, semiai.])
+(;B[jh];W[lj];B[mj];W[mi];B[mk];W[hj];B[gj];W[gi];B[gk];W[jg]C[I would prefer white.])
+(;B[lj];W[jh];B[jg];W[ig];B[kg];W[hj]C[Poor black stones.]))
+(;B[jg];W[go]
+(;B[jl];W[lj];B[mj];W[mi];B[mk];W[hj];B[gj];W[gi];B[gk];W[jh])
+(;B[jm];W[lj];B[mj];W[mi];B[mk];W[jh]C[Brh.])
+(;B[hj];W[lj];B[mj];W[mk];B[mi];W[jl])
+(;B[gj];W[lj];B[mj];W[jl]C[Cut cut cut cut cut!])
+(;B[lj];W[jl];B[jm];W[im];B[km];W[hj])
+(;B[mj];W[hj];B[gj];W[jl];B[jm];W[im]C[Bad position :-/]))
+(;B[jm]C[No.])
+(;B[gj];W[jp];B[lj];W[jh];B[jg];W[ig];B[kg];W[hj])
+(;B[mj];W[of];B[hj];W[lj]C[That is not good at all.]))))

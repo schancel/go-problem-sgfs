@@ -1,0 +1,23 @@
+(;GE[endgame]DI[5k]DP[33]SO[ferdi]CO[8]SZ[7]AW[ab]AW[bb]AW[fb]AW[gb]AW[cc]AW[dc]AW[ec]AW[fc]AW[ad]AW[dd]AW[ce]AW[de]AW[cf]AW[cg]AB[ac]AB[bc]AB[gc]AB[bd]AB[ed]AB[fd]AB[be]AB[ee]AB[ge]AB[bf]AB[df]AB[ff]AB[gf]AB[bg]C[No komi, no prisoners - black to play and draw!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]TM[]
+(;B[dg];W[gd]
+(;B[cb];W[ca];B[gc];W[ae]
+(;B[af];W[gd]
+(;B[db];W[da];B[gc];W[ef];B[eg];W[gd]
+(;B[ba];W[eb];B[gc];W[fg]
+(;B[gg];W[gd];B[cb];W[db];B[gc];W[cd];B[gd]C[In the end, it's a jigo.... RIGHT])
+(;B[ef];W[gd];B[cb];W[db];B[gc];W[cd];B[gd]C[In the end, it's a jigo... RIGHT]))
+(;B[aa];W[eb];B[gc];W[fg]
+(;B[gg];W[gd];B[cb];W[ba];B[gc];W[cd];B[gd]C[RIGHT])
+(;B[ef];W[gd];B[cb];W[ba];B[gc];W[cd];B[gd]C[RIGHT]))
+(;B[ea];W[eb];B[gc];W[fg];B[gg];W[gd];B[cd];W[gc]C[White wins by 1 point]))
+(;B[da];W[db];B[gc];W[ef];B[eg];W[gd];B[ba];W[cb];B[gc];W[fg];B[gg];W[gd];B[cd];W[gc]C[White wins by 1 point])
+(;B[ba];W[db];B[gc];W[ef];B[eg];W[gd];B[da];W[cb];B[gc];W[fg];B[gg];W[gd];B[cd];W[gc]C[White wins by 1 point]))
+(;B[gd];W[af]C[This kills the corner]))
+(;B[db];W[cb];B[gc];W[ae];B[af];W[gd];B[cd];W[gc]C[White wins by 1 point])
+(;B[ca];W[cb];B[gc];W[ae];B[af];W[gd];B[cd];W[gc]C[White wins by 1 point]))
+(;B[gd];W[dg]
+(;B[ef];W[eg];B[fg]C[White wins by 3 points - connecting the ko was wrong])
+(;B[eg];W[ef];B[cb];W[fg]C[Black can't play this ko because his whole corner is at stake]))
+(;B[cb];W[dg]
+(;B[ef];W[eg];B[fg];W[db]C[Black must first defend at the bottom.])
+(;B[ba];W[db];B[aa];W[fg]C[The black group is dead!])))

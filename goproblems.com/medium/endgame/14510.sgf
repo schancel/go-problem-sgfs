@@ -1,0 +1,15 @@
+(;GE[endgame]DI[3k]DP[24]SO[Field Mouse]CO[0]AB[qs]AB[ps]AB[pr]AB[pq]AB[nr]AB[op]AB[np]AB[nn]AB[on]AW[mp]AW[mq]AW[mr]AW[ls]AW[ks]AW[js]AB[jr]AB[kr]AB[lr]AB[lq]AB[lp]AB[kp]AB[jp]AB[jq]AB[lo]AB[kn]AB[jo]AW[mo]AW[mn]AW[mm]AW[ir]AW[rs]AW[ss]AW[sr]AW[qq]AW[qr]AW[qp]AW[qo]AW[so]AW[sp]AW[sq]AW[qn]AW[qm]AW[rm]AW[sm]AW[sn]AW[rp]AW[ro]AW[rr]AB[ol]AB[nl]AW[ml]AW[mk]AW[lj]AW[kj]AW[jk]AW[jl]AW[jm]AW[km]AW[lm]AW[ll]AW[kk]AB[ln]AB[jn]AW[iq]AW[ip]AW[io]AW[in]AW[im]AB[nk]AB[nj]AB[oj]AB[pj]AB[qj]AB[rj]AB[rk]AB[rl]AB[ql]AB[pl]AB[pk]AB[pm]AW[nm]AB[pn]AB[no]AW[po]TR[nr]AW[hr]AW[gr]AW[fr]AW[fs]C[Based on a 6d-7d game I observed (slightly modified ;-) ). Black just played the marked stone and white got tricked badly. Can you play better than the 7d? Every point counts, sente is not important.]AP[goproblems]
+(;W[nq];B[ns]
+(;W[oq]
+(;B[ms]
+(;W[or];B[is]
+(;W[os];B[pp];W[ls];B[hs]C[White has five points (3 prisoners, 2 territory), black has three (prisoners)!])
+(;W[pp]))
+(;W[pp];B[is]
+(;W[or];B[hs]C[White has eight points, black has four (3 prisoners and one territory)!RIGHT])
+(;W[ls]C[Okay, I will mark it correct.. but did you know that this move is lowering the value of white H1 and takes away one tiny ko threat from you?RIGHT])))
+(;B[pp];W[or];B[os];W[ms]C[Black has zero, white has three! The best result for everybody!RIGHT]))
+(;W[ms];B[oq]C[White has three points, black has two. This is how the game went! :-)]))
+(;W[ns]
+(;B[nq];W[os];B[or];W[ms]C[Black has one point, white has three!])
+(;B[os]C[Now the result depends on ko! Worse than the solution.])))

@@ -1,0 +1,33 @@
+(;GE[life and death]DI[12k]DP[59]SO[cascade]CO[7]AB[br]AB[bq]AB[bp]AB[cp]AB[dp]AB[ep]AB[fq]AB[fr]AW[cq]AW[cr]AW[dq]AW[eq]AW[fp]AW[gp]AW[gq]TR[eq]TR[dq]TR[cq]TR[cr]C[White to save the marked stones]AB[ar]AP[goproblems]
+(;W[er];B[es]
+(;W[gr];B[fs]
+(;W[ds]C[RIGHT];B[gs];W[hs]C[Well done! :)RIGHT])
+(;W[gs];B[ds]
+(;W[cs];B[bs];W[dr]C[Solved, but white made an ugly shape :/RIGHT])
+(;W[dr];B[cs])))
+(;W[fs];B[gs]
+(;W[gr];B[fs];W[hs];B[ds];W[cs];B[bs];W[dr]C[Solved, but white lost a stone and made an ugly shape :(RIGHT])
+(;W[ds];B[gr];W[hr];B[cs];W[fs]MA[es]C[Life by double ko, but couldn't you find a simpler way?! :)RIGHT]))
+(;W[ds];B[cs]C[Black wouldn't normally play this way, but he is being stubborn. Show him a lesson!]
+(;W[fs];B[gr];W[hr]C[];B[bs]C[Well done! Explore the variations for some simpler solutions.RIGHT])
+(;W[bs]C[That'll teach him. White is now unconditionally alive, and picked up another point of territory and a prisoner in the process!RIGHT]))
+(;W[cs]C[];B[bs];W[gr]C[Well done! White saves her stones and secures another point of territory in the process, although she did take gote.RIGHT]))
+(;W[gr];B[er]
+(;W[cs];B[bs]
+(;W[fs];B[ds]TR[eq]TR[dq]TR[cr]TR[cq]TR[cs]C[Dead, and not even a ko threat to show for it :(])
+(;W[es];B[dr]
+(;W[ds];B[fs])
+(;W[fs];B[ds]C[Black captures, and in sente too!])))
+(;W[fs];B[ds]
+(;W[es];B[gs]C[... What, it's not enough for you to be dead, you're giving away 2 more stones? :)])
+(;W[dr];B[cs])
+(;W[cs];B[bs]C[Dead, and not even a ko threat to show for it :(]))
+(;W[es];B[dr]
+(;W[fs];B[cs])
+(;W[ds];B[cs]TR[ds]TR[es]C[Dead, and so are the marked stones])
+(;W[cs];B[bs]
+(;W[fs];B[ds]C[Black captures, and in sente too!])
+(;W[ds];B[fs])))
+(;W[dr];B[ds]))
+(;W[cs];B[er]LB[dr:A]C[Dead. :( Black's next move will be at A, and white cannot save her stones])
+(;W[dr]C[];B[er]TR[eq]TR[dq]TR[cq]TR[cr]TR[dr]C[Dead :(]))

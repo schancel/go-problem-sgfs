@@ -1,0 +1,202 @@
+(
+;GE[life and death]DI[6d]DP[2]SO[gecko]CO[9]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.29]
+AB[dd][ce][bd][fc][fe]
+AW[be][bf][cf][ef][hc][bc][kc]
+GN[temp]
+TR[bc]
+(
+;
+B[ad]
+;
+W[cc]
+;
+B[cd]
+;
+W[eb]
+(
+;
+B[fb]
+;
+W[ec]
+;
+B[ed]
+;
+W[gd]
+;
+B[fd]
+(
+;
+W[fa]
+(
+;
+B[ga]
+;
+W[dc]
+;
+B[ea]
+;
+W[da]
+;
+B[ac]
+;
+W[ab]
+;
+B[bb]
+;
+W[ba]
+C[Please do not play 'a'. In a real game 'a' is a good move, as it gaines a threat.]
+LB[aa:a]
+;
+B[cb]
+;
+W[fa]
+LB[aa:a]
+C[Please do not play 'a'. In a real game 'a' is a good move, as it gaines a threat.]
+(
+;
+B[hb]
+;
+W[ca]
+;
+B[aa]
+C[RIGHT White has turned the corner into ko, but black has already profited from the a - b exchange. In any case, the attack on black, that white was hoping for, will not materialize. White's original clamping move at c has to be termed 'handicap style'.]
+LB[fa:a][hb:b][bc:c]
+)
+(
+;
+B[ea]
+C[illegal]
+)
+(
+;
+B[gb]
+C[bad shape]
+)
+(
+;
+B[gc]
+C[bas shape]
+)
+)
+(
+;
+B[gb]
+;
+W[ba]
+LB[fa:a]
+C[The hane at a gives white life and black is in trouble.]
+)
+)
+(
+;
+W[dc]
+C[white mistake]
+;
+B[ac]
+(
+;
+W[ab]
+(
+;
+B[da]
+;
+W[ea]
+;
+B[bb]
+;
+W[ba]
+;
+B[cb]
+C[RIGHT white should be taking black]
+)
+(
+;
+B[bb]
+;
+W[ba]
+C[now a ko is not optimal]
+)
+)
+(
+;
+W[fa]
+(
+;
+B[gb]
+;
+W[ab]
+;
+B[da]
+;
+W[ea]
+;
+B[bb]
+;
+W[ba]
+;
+B[cb]
+C[RIGHT good moves at a and b]
+LB[gb:a][da:b]
+)
+(
+;
+B[ga]
+C[this reverts back to the correct ko solution. Both sides have made a mistake.]
+)
+)
+)
+(
+;
+W[ba]
+C[white mistake]
+;
+B[ab]
+;
+W[ac]
+;
+B[dc]
+;
+W[db]
+;
+B[bb]
+;
+W[cb]
+;
+B[ea]
+C[RIGHT now white is dead]
+)
+)
+(
+;
+B[dc]
+;
+W[db]
+LB[dc:a][db:b][fb:c][ab:d][ba:e][ca:f][bb:g][ea:h]
+C[because of the a - b exchange, after Bc, W can live with Wd, Be, Wf, Bg, Wh]
+)
+(
+;
+B[gc]
+C[this lets white live unconditionaly.]
+)
+)
+(
+;
+B[cc]
+;
+W[ad]
+C[too easygoing]
+)
+(
+;
+B[ac]
+;
+W[cc]
+LB[ab:a]
+C[the free move at a will let white live easily.]
+)
+)

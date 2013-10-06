@@ -1,0 +1,63 @@
+(;GE[best move]DI[4k]DP[28]SO[wtd]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pn][qn][nq][oq][qq][mr][nr][pr]AB[qo][ro][mp][np][op][pp][jq][mq][pq][lr][rr]LB[rr:A]C[Best defence for white following black 'A'.]
+(;W[qr]
+;B[rq]
+(;W[os]LB[rr:A]C[RIGHT Black has made profit in the corner, and kept sente. This is the lowest price White pays for not completing the joseki at 'A'.])
+(;W[qp]
+;B[po]
+;W[rp]
+;B[sp]
+;W[os]LB[rr:A]C[RIGHT Black has made profit in the corner, and kept sente. This is the lowest price White pays for not completing the joseki at 'A'.]))
+(;W[rq]
+;B[qr]
+(;W[sr]
+;B[ps]
+(;W[or]
+;B[rs]
+(;W[os]
+;B[ms]C[A bad ko for White.])
+(;W[sq]
+;B[ms]
+;W[ss]
+;B[qs]C[White is dead.]))
+(;W[os]
+;B[or]C[A bad ko for white.]))
+(;W[qs]
+;B[rs]
+(;W[ms]
+;B[ps]
+;W[os]
+;B[or]C[A bad ko for White.])
+(;W[os]
+;B[ps]C[A bad ko for White.])
+(;W[sr]
+;B[ps]
+(;W[os]
+;B[or]C[A bad ko for White.])
+(;W[or]
+;B[ms]C[White is dead.]))
+(;W[ps]
+;B[os]
+;W[or]
+;B[ms]C[White is dead.]))
+(;W[rs]CR[rs]
+(;B[ps]CR[ps]
+(;W[or]CR[or]
+;B[qs]CR[qs]
+;W[sr]CR[sr]
+;B[ss]CR[ss]
+;W[sq]CR[sq]
+;B[ms]CR[ms]
+;W[rs]CR[rs]C[A bad ko for White.])
+(;W[os]CR[os]C[A bad ko for White.]))
+(;B[qs]CR[qs]C[If Black does not want ko........]
+;W[ps]CR[ps]
+;B[ss]CR[ss]
+(;W[os]CR[os]
+;B[rp]CR[rp]
+;W[ms]CR[ms]C[White lives, but loses part of the group.])
+(;W[sq]CR[sq]
+;B[os]CR[os]
+;W[or]CR[or]
+;B[ms]CR[ms]C[White is dead.])))))

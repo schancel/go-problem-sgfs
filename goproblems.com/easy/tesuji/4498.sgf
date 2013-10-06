@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[8k]DP[45]SO[huhss]CO[7]SZ[19]FF[4]GM[1]GN[sb]
+KO[0]DT[1999-04-05]RE[W+E]TN[100]
+AB[pd][qc][pc][oc][nc][lc][jd][pg][qg]AW[qd][pe][pf][md][nd][od][ke][nf][nh][oi][qi]TR[pg][qg]C[black first]
+
+(;B[re](;W[rf]	;B[qf](;W[rd]
+;B[qe]C[RIGHT]
+)
+(;W[qe]
+;B[rd]C[RIGHT]
+)
+)
+(;W[qe]	;B[rd]	;W[rf]
+;B[qf]C[RIGHT]
+)
+)
+(;B[qe]	;W[qf]	;B[rd]
+;W[rf]C[wrong]
+)
+(;B[rd]	;W[re](;B[qe]	;W[qf]	;B[rf](;W[rg]	;B[se]
+;W[rh]C[wrong]
+)
+(;W[se]C[ko]
+)
+)
+(;B[rf]	;W[se]	;B[qe]
+;W[qf]C[ko]
+)
+)
+(;B[rf]	;W[re]	;B[rd]	;W[se]	;B[qe]
+;W[qf]C[ko]
+)
+)

@@ -1,0 +1,63 @@
+(;GE[life and death]DI[3d]DP[9]SO[Hans]CO[9]
+SZ[19];TR[qq][po][pp][qo][qp][pq]
+C[Black to capture the marked stones.
+]
+AW[ah][bh][ch][dh][gi][oi][fj][lj][mj][nj][rj][sj][ak][gk][ik][jk][kk][pk][qk][al][gl][am][fm][jm][lm][sm][in][mn][sn][do][eo][no][po][qo][so][ap][dp][ep][np][pp][qp][sp][mq][pq][qq][sq][ar][dr][jr][kr][lr][mr][sr][js][ls][os][rs]
+AB[hi][hj][bk][ck][dk][ek][hk][bl][el][hl][jl][ll][bm][em][hm][cn][dn][en][jn][kn][ln][on][pn][qn][rn][co][io][mo][oo][ro][cp][ip][mp][op][rp][cq][jq][kq][lq][oq][rq]
+(;B[pr];W[qr];B[rr];W[qs]C[This ladder does not work.
+])
+
+(;B[qr];W[pr]
+(;B[or];W[ps];B[ns];W[qs];B[rr];W[ss];B[sl];W[rm];B[rl];W[qm];B[ql];
+W[pm];B[pl];W[om];B[nm];W[ol];B[ok];W[nl];B[nk];W[ml];B[mk];W[mm]
+(;B[nn];W[km]
+(;B[kl];W[im];B[il];W[hn];B[gn];W[ho]
+(;B[go];W[hp];B[hq];W[gp];B[fp];W[gq]
+(;B[gr];W[fq]
+(;B[eq];W[fr]
+(;B[er];W[fs]LB[gs:A]C[Please play at A. 
+];B[gs];W[fo];B[es];W[fp];
+B[dq];W[fn]
+(;B[gm];W[fl]
+(;B[gj];W[fk];B[fi];W[ej];B[ei];W[dj];B[di];W[cj];B[ci];W[bj];B[bi];
+W[aj];B[ai];W[an]
+(;B[ao];W[bo];B[bn];W[ao]
+(;B[aq];W[bq];B[bp];W[aq];B[br];W[as];B[bs]C[RIGHT 
+])
+
+(;B[bp];W[aq])
+)
+
+(;B[bn];W[ao])
+)
+
+(;B[fk];W[gj])
+)
+
+(;B[fl];W[gm])
+)
+
+(;B[fs];W[er])
+)
+
+(;B[fo];W[gm])
+)
+
+(;B[fq];W[gr])
+)
+
+(;B[hp];W[go];B[fo];W[gp];B[gq];W[fp])
+)
+
+(;B[nq];W[kl])
+)
+
+(;B[km];W[nn]
+C[Black cannot approach the white stones so he is captured.
+])
+)
+
+(;B[rr];W[or];B[nq];W[nr])
+)
+
+)

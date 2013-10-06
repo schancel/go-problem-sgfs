@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[5k]DP[32]SO[gorka]CO[7]AW[dq]AW[ep]AW[fq]AW[fr]AW[fs]AB[fp]AB[fo]AB[go]AB[ho]AB[io]AB[jo]AB[ko]AB[kp]AB[kq]AB[lq]AB[mq]AB[mr]AB[gq]AB[gs]AB[ir]AB[gr]AB[hr]AW[gp]AW[hp]AW[ip]AW[jp]AW[jq]AW[jr]AW[kr]AW[lr]C[black to play and win this semeai]AP[goproblems]
+(;B[is]
+(;W[ms]
+(;B[or]
+(;W[js]
+(;B[ls]C[YESRIGHT])
+(;B[ns];W[ls]C[seki]))
+(;W[ls];B[js]C[YESRIGHT]))
+(;B[ns];W[ls]
+(;B[or];W[js]C[seki])
+(;B[nr];W[js]C[seki]))
+(;B[js];W[nr]C[white escape and and is going to kill black])
+(;B[nr];W[ns]
+(;B[ls]C[YESRIGHT])
+(;B[or];W[os]
+(;B[pr]C[YESRIGHT])
+(;B[ls];W[ks];B[ps]C[YESRIGHT]))
+(;B[os];W[ls]C[];B[or];W[js]C[seki])
+(;B[pr]C[YESRIGHT]))
+(;B[ls]
+(;W[ks]
+(;B[ns];W[nr]C[ko])
+(;B[or]C[YESRIGHT])
+(;B[nr]C[YESRIGHT]))
+(;W[ns];B[nr];W[ks];B[os]C[YESRIGHT]))
+(;B[ks];W[js]C[seki :(]))
+(;W[js];B[ls]C[YESRIGHT])
+(;W[ls]
+(;B[js]C[YESRIGHT])
+(;B[ms];W[js]C[seki])))
+(;B[js];W[is]C[ko here :(])
+(;B[iq];W[is]C[rest in peace :(])
+(;B[ls];W[is]
+(;B[ks];W[js]C[seki])
+(;B[js];W[ks]C[seki])))

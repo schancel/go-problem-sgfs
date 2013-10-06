@@ -1,0 +1,23 @@
+(;GE[life and death]DI[7k]DP[41]SO[AkaHige]CO[8]SZ[19]AW[dp]AW[cq]AW[dq]AW[eq]AW[ar]AW[br]AW[cs]AB[co]AB[do]AB[bp]AB[cp]AB[ep]AB[fp]AB[bq]AB[fq]AB[fr]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[es]
+(;W[dr]C[CHOICE];B[ds]C[Good job !RIGHT])
+(;W[ds]C[CHOICE]
+(;B[dr]C[Good Job !RIGHT])
+(;B[er];W[dr]C[White lives]))
+(;W[er];B[ds]C[Good Job !RIGHT]))
+(;B[dr];W[er]
+(;B[es];W[cr]C[White lives])
+(;B[ds];W[es]C[White lives])
+(;B[cr];W[ds]C[White lives]))
+(;B[cr];W[dr]C[Alive])
+(;B[ds];W[es]
+(;B[er];W[dr]C[White lives])
+(;B[dr];W[er]C[White lives])
+(;B[cr];W[dr]C[White lives])
+(;B[fs];W[er]C[White lives]))
+(;B[aq];W[er]C[White lives])
+(;B[er];W[dr]C[White lives])
+(;B[fs];W[er]
+(;B[es];W[ds]C[White lives])
+(;B[ds];W[es]C[White lives]))
+(;B[bs];W[dr]C[White lives]))

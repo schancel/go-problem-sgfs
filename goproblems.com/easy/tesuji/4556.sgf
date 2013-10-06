@@ -1,0 +1,37 @@
+(;GE[tesuji]DI[7k]DP[45]SO[dobromila]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[hl][dm][hm][cn][dn][en][hn][in][eo][fo][go][ho]AB[dl][el][fl][il][em][fm][gm][im][fn][gn][jn][do][io][jo][cp][ep][ip][gq]LB[lo:T]TR[ep][ip][gq]C[Disconnect black stones into 2 groups.
+If black stones are conneted play T]PL[W]
+(;W[fq]CR[fq]
+;B[fp]CR[fp]
+(;W[hq]CR[hq]C[RIGHT
+Black groups are disconnected])
+(;W[gp]CR[gp]
+;B[hq]CR[hq]
+;W[eq]CR[eq]
+;B[dp]CR[dp]
+;W[dq]CR[dq]
+;B[cq]CR[cq]C[wrong. 3 white stones are to weak and can be captured]))
+(;W[hq]CR[hq]
+;B[hp]CR[hp]
+(;W[fq]CR[fq]C[RIGHT
+Black groups are disconnected])
+(;W[gp]CR[gp]
+;B[fq]CR[fq]
+;W[iq]CR[iq]
+;B[jq]CR[jq]
+;W[jr]CR[jr]
+;B[kr]CR[kr]
+(;W[kq]CR[kq]
+;B[jp]CR[jp]
+;W[lr]CR[lr]
+;B[ir]CR[ir]C[black stones are connected])
+(;W[hr]CR[hr]
+;B[kq]CR[kq]
+;W[gr]CR[gr]
+;B[fr]CR[fr]
+;W[is]CR[is]
+;B[gs]CR[gs]C[white stones are dead])))
+(;W[lo]CR[lo]C[Wrong
+Black stones can be disconnected.
+See variants.]))

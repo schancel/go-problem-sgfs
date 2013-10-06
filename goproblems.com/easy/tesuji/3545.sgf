@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[8k]DP[49]SO[kochi]CO[5]AW[ed]AW[fd]AB[ic]AB[jc]AB[kc]AB[lc]AW[id]AW[jd]AW[kd]AW[ld]AB[dd]AB[dc]AW[de]AW[ef]AB[ce]AB[be]C[B to connect.]AW[bc]AW[cb]AW[ba]AW[ab]AW[cc]AW[bd]AW[ad]AB[db]AB[da]AB[ca]AB[cd]AB[bf]AB[cg]AB[ci]AB[hc]AB[gc]AW[fc]AW[dg]AW[dh]AB[ch]AW[he]AP[goproblems]
+(;B[fb]C[that's all there is to it.RIGHT])
+(;B[eb];W[fb]
+(;B[fa];W[gb])
+(;B[gb];W[fa]))
+(;B[ec];W[fb])
+(;B[ea];W[fb]
+(;B[fa];W[gb])
+(;B[ga];W[fa]))
+(;B[gb];W[fb];B[fa]C[You connected, but you lost points.])
+(;B[fa];W[fb]
+(;B[gb]C[You connected, but you lost points.])
+(;B[ga];W[gb];B[hb];W[eb];B[ea]C[you connected, but you lost a lot of points.]))
+(;B[ga];W[eb]
+(;B[fa];W[ea])
+(;B[ea];W[gb]
+(;B[fb];W[fa]C[ko.])
+(;B[hb];W[fb];B[fa]C[You connected, but you lost points.])
+(;B[fa];W[hb];B[fb]C[You connected, but in a bad way.  Why didn't you just play F18 right off?])
+(;B[ha];W[hb];B[ib];W[fb];B[fa]C[You connected, but not in the best way.]))
+(;B[fb];W[ec];B[ea]C[You connected, but you lost points.])))

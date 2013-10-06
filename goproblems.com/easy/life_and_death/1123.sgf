@@ -1,0 +1,17 @@
+(;GE[life and death]DI[4k]DP[31]SO[BigMetalGuy]CO[7]SZ[19]AW[cc]AW[dc]AW[fc]AW[dd]AW[be]AW[ce]AB[cb]AB[bc]AB[bd]AB[cd]AB[jj]LB[jj:A]C[Black to play and live.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]
+(;B[ab]
+(;W[ba]PL[B];B[ad]C[Black 1 is the vital point, and Black livesRIGHT])
+(;W[ad];B[ba]C[Black 1 is the vital point, and Black lives.RIGHT]))
+(;B[ba];W[ab];B[db];W[eb];B[da];W[bb]C[White 2 is the vital point. Black is dead due to the shortage of liberties.])
+(;B[db];W[bb]
+(;B[ba];W[ab]
+(;B[aa];W[ca];B[da]
+(;W[ac]
+(;B[ba];W[ad])
+(;B[ad];W[ae]))
+(;W[ad];B[ba];W[ac]))
+(;B[ac];W[ad])
+(;B[ad];W[ae];B[eb];W[ac]))
+(;B[ab];W[ba]
+(;B[aa];W[ac])
+(;B[ca];W[ad];B[aa];W[eb]))))

@@ -1,0 +1,11 @@
+(;GE[best move]DI[25k]DP[77]SO[Blaster097]CO[0]AB[ba]AB[bb]AB[cb]AB[db]AB[dc]AB[eb]AB[fc]AB[gc]AB[hc]AB[ic]AB[id]AB[je]AB[if]AB[hf]AB[gf]AB[ge]AB[gg]AB[gh]AB[fh]AB[eh]AB[dh]AB[dg]AB[eg]AB[ef]AW[aa]AW[ab]AW[ac]AW[bc]AW[cc]AW[dd]AW[ed]AW[ec]AW[fd]AW[ee]AW[gd]AW[hd]AW[he]AW[ie]AW[fe]AW[ff]AW[fg]AW[df]AW[cf]AW[cg]AW[ch]C[Find white's weak point and exploit it!]AW[ci]AW[cj]AW[ck]AW[cl]AW[bl]AW[al]AB[di]AB[dj]AB[dk]AB[dl]AB[cm]AB[bm]AB[am]AB[dm]AW[bf]AW[af]AP[goproblems]
+(;B[cd];W[de]
+(;B[bd]C[RIGHT])
+(;B[ad]C[RIGHT])
+(;B[be]C[RIGHT])
+(;B[ce];W[be]))
+(;B[bd];W[cd])
+(;B[ad];W[bd])
+(;B[ce];W[cd])
+(;B[de];W[ce])
+(;B[be];W[cd];B[ce];W[de]))

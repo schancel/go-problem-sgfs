@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[10]SO[MrMoto]CO[0]AW[gs]AW[gr]AW[hq]AW[gp]AW[hp]AW[jp]AW[kq]AW[kr]AB[gq]AB[fs]AB[fr]AB[eq]AB[fp]AB[er]AB[eo]AB[ep]AB[go]AB[ho]AB[io]AB[jo]AB[ko]AB[lp]AB[lq]AB[lr]AB[nr]AB[oq]AB[mn]AB[fn]C[Can White possibly survive here?]AP[goproblems]
+(;W[fq];B[ir])
+(;W[ip];B[ir])
+(;W[hr];B[is])
+(;W[jq];B[ir])
+(;W[kp];B[ir])
+(;W[is];B[ip])
+(;W[ir];B[ip]C[That was the easy part. What now?]
+(;W[iq];B[ks]
+(;W[js];B[hs]TR[jq]TR[hr])
+(;W[is];B[jq])
+(;W[kp];B[js]TR[is]TR[jr]))
+(;W[js];B[jq])
+(;W[jq];B[js];W[ks];B[fq]
+(;W[is];B[hr])
+(;W[iq];B[is]))
+(;W[jr];B[ks])
+(;W[is];B[ks]
+(;W[iq])
+(;W[js];B[iq]))
+(;W[ks];B[jq]
+(;W[iq];B[kp]TR[hs]TR[jr])
+(;W[jr];B[is]))
+(;W[hs];B[iq]
+(;W[jq];B[hr])
+(;W[jr];B[hr])
+(;W[ks];B[hr])
+(;W[js];B[hr])
+(;W[fq]LB[js:A]LB[jr:B]LB[ls:C]C[Good job! :) It is now a ko for life. Black has three local threats at A, B, C.RIGHT]))))

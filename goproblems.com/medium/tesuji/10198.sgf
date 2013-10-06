@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[1d]DP[15]SO[tom111]CO[8]AB[rc]AB[qd]AB[pd]AB[oc]AB[ob]AB[oa]AB[mb]AB[lb]AW[kc]AW[lc]AW[od]AW[pc]AW[qc]AW[pb]AW[pa]AW[rb]AW[re]AW[oe]AW[md]C[Black to play]AP[goproblems]
+(;B[rd];W[ra]
+(;B[sb];W[qe]C[Too slow, black cant approach])
+(;B[qb];W[qa];B[sb];W[qe]C[Too slow. Black cant approach])
+(;B[sc];W[sb]))
+(;B[sb]
+(;W[ra]
+(;B[rd])
+(;B[sc];W[rd]))
+(;W[rd]
+(;B[sd];W[se])
+(;B[sc];W[sd])
+(;B[ra];W[sc])
+(;B[qb];W[sc])))
+(;B[qb];W[qa]
+(;B[rd];W[sb]C[White is alive])
+(;B[sb];W[rd]
+(;B[sd];W[se])
+(;B[sc];W[sd])))
+(;B[ra];W[rd])
+(;B[qa];W[qb]
+(;B[rd];W[ra];B[sb];W[qe]C[Too slow. Black cannot approach])
+(;B[sb];W[ra];B[rd])
+(;B[ra];W[sa]
+(;B[rd];W[qe]
+(;B[ra];W[qa];B[sb];W[sc];B[sd];W[pe];B[sb]C[Ko is correct. Well done.RIGHT])
+(;B[sc];W[pe]C[Black cant approach])
+(;B[sb];W[sc];B[sd]C[Approach Ko only. Black can do better. (You are almost there...)];W[se]))
+(;B[ra];W[rd]C[Black has lost everything]))))

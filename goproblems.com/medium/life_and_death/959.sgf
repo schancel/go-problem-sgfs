@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[9]SO[marcin]CO[9]AW[ia][ib][ic][kb][lb][mb][gc][fc]AB[cc][dc][ec][fd][gd][bc][hd][id][jd][kc][lc][mc][nc][nb][na][bc]SZ[19]C[Black to play and sweep white off the board. A hint: order of moves is important here. White should be driven to the edge.]
+
+(;B[hc];W[hb];B[ga];W[fb];B[jb];W[jc](;B[ma];W[ja];B[la];W[ka];B[fa];W[eb];B[ea]
+;W[db];B[da];W[cb];B[ca];W[bb];B[ba];W[ab];B[gb]C[RIGHT That's it!])(;B[la];W[ja];B[ma];W[ka];B[fa];W[eb];B[ea]
+;W[db];B[da];W[cb];B[ca];W[bb];B[ba];W[ab];B[gb]C[RIGHT That's it!]))
+(;B[ma];W[ga];B[hb];W[hc];B[jb];W[eb];B[gb];W[fb];B[db];W[ea]C[This is wrong approach])
+(;B[jb];W[ga]
+(;B[ka];W[eb];B[db];W[ea]C[White is alive])
+(;B[hc];W[hb];B[fb];W[gb];B[eb];W[jc];B[ma];W[ka];B[la];W[ja]C[Again white resists])
+(;B[hb];W[hc];B[ka];W[eb];B[gb];W[fb]C[White profits from the wrong order of moves]))
+(;PL[B]B[ga];W[hc]
+(;B[jb];W[gb]PL[B]
+(;B[ha];W[eb]
+(;B[fa];W[db]
+(;B[cb];W[da];B[ca];W[fb]C[Seki])
+(;PL[B]B[da];W[cb]C[Lives]))
+(;PL[B]B[ka];W[fa];B[db];W[ea];B[da];W[hb]C[Lives]))
+(;PL[B]B[fa];W[eb]
+(;B[ea];W[db];B[da];W[cb];B[ca];W[bb];B[ba];W[ab]C[Lives])
+(;PL[B]B[ha];W[db];B[cb];W[da]C[White lives])
+(;PL[B]B[db];W[ea]C[White lives])))
+(;PL[B]B[fb];W[gb];B[ha];W[eb];B[ea];W[fa]C[Ko])
+(;PL[B]B[gb];W[fb];B[fa];W[eb]C[White lives])
+(;PL[B]B[fa];W[gb]
+(;B[jb];W[ha]
+(;B[ka];W[eb]C[White!])
+(;PL[B]B[eb];W[jc]C[White lives]))
+(;PL[B]B[ha];W[eb];B[db];W[ea]C[White lives]))
+(;B[ea]C[RIGHT If You think this is not correct, contact me.])(;B[eb]C[RIGHT])))

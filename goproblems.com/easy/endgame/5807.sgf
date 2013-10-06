@@ -1,0 +1,16 @@
+(;GE[endgame]DI[8k]DP[48]SO[maba]CO[6]AW[fs]AW[fr]AW[gq]AW[fq]AB[gr]AB[hs]AB[hq]AB[iq]AB[jq]AB[kr]AB[lr]AW[kq]AW[kp]AW[jp]AW[ip]AW[hp]AW[jr]LB[jr:1]C[How should black respond to white 1?]AP[goproblems]
+(;B[js];W[gs]
+(;B[hr]C[RIGHT])
+(;B[ir];W[hr]C[Not optimal.])
+(;B[is];W[hr]C[Not optimal.]))
+(;B[ir];W[gs]C[White can tenuki, but she will be able to play at G1 in sente at the appropriate time and black will have at least one point less.])
+(;B[is];W[gs]
+(;B[hr];W[js];B[ks];W[ir]C[:(])
+(;B[ir];W[hr]C[Not optimal.])
+(;B[js];W[hr]C[Not optimal.]))
+(;B[hr];W[is]
+(;B[ir];W[gs])
+(;B[js];W[ks])
+(;B[ks];W[gs];B[js];W[ir]))
+(;B[gs];W[is];B[ir];W[hr]C[:(])
+(;B[ks];W[ir];B[hr];W[gs]C[:(]))

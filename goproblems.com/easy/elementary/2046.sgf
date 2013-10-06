@@ -1,0 +1,10 @@
+(;GE[elementary]DI[20k]DP[71]SO[ZeroTalent]CO[6]AB[bb][bc][bd][be][ae]AW[cb][db][cd][ed][ce][cf][bf][af]C[Make 2 eyes and save your group]
+(;B[ba];W[ac];B[ab]C[RIGHT])
+(;B[ca];W[ba]
+(;B[aa];W[ac]C[WRONG])
+(;B[ac];W[aa]C[WRONG]))
+(;B[ad];W[ba]C[WRONG])
+(;B[ac];W[ba]C[WRONG])
+(;B[ab];W[ba]C[WRONG])
+(;B[aa];W[ba]C[WRONG])
+(;B[cc];W[ba]C[WRONG]))

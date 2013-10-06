@@ -1,0 +1,5 @@
+(;GE[best move]DI[12k]DP[55]SO[tom111]CO[8]AB[bb]AB[cc]AB[cd]AB[dd]AB[de]AB[cf]AB[ef]AW[ba]AW[cb]AW[da]AW[dc]AW[ec]AW[eb]AW[ed]AW[ee]AW[fe]AB[gd]AW[cp]AW[dp]AW[fp]AW[jq]AW[kq]AW[lr]AB[lq]AB[mr]AB[nr]AB[mp]AB[np]AB[op]AB[oq]AB[pq]AW[oo]AW[qo]AW[qm]AW[rq]AB[qk]AB[ok]AW[qb]AW[pb]AW[qc]AW[rd]AB[rf]AB[pf]AB[pd]AB[pc]AB[ob]AB[kd]LB[ic:a]LB[bh:b]AB[bo]AB[cl]C[Black to play : a or b Please consider the whole board situation]AW[dh]AP[goproblems]
+(;B[bh]C[Connecting your groups is very important and the white invasion at J17 is not a good move. (see variations)RIGHT]
+(;W[ic]C[Correct ! Connecting your groups is the biggest move available. Lets see why White J17 is not dangerous at all... (see variations for White playing J16)];B[id];W[jc];B[jd];W[hc];B[kc]C[blacks thickness works fine and white has gained almost nothingRIGHT])
+(;W[id];B[ic];W[hc];B[jc];W[hd]C[black has sente and gained more than white]))
+(;B[ic];W[bh]C[Allowing white to play here splits your groups apart. The big white group on top is in no real trouble and J17 is too small from territorial point of view.FORCE]))

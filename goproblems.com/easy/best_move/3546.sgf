@@ -1,0 +1,15 @@
+(;GE[best move]DI[15k]DP[61]SO[kochi]CO[5]AB[gc]AB[hb]AB[ib]AB[gd]AB[fe]AW[ff]AW[fc]AW[fb]AW[ga]AW[ha]AW[ia]AB[ja]AB[ka]AW[jb]AW[jc]AW[jd]AW[id]AW[hd]AW[he]AW[gf]AB[ge]AB[hf]AB[if]AB[ke]AB[kd]AB[kc]AB[kb]AB[je]AB[ab]AB[ba]AB[cb]AB[bc]AW[bd]AW[db]AW[da]AW[cc]AB[ee]AB[ef]AB[cg]AB[cf]AB[df]AW[fg]AW[fh]AW[dh]AW[ch]AW[bg]AW[bf]AW[ce]AW[ed]AW[dg]AW[eg]AW[fa]AW[de]C[B to play the best local move.]AW[dc]AP[goproblems]
+(;B[ca];W[gb]
+(;B[ie];W[fd]C[B loses big.])
+(;B[hc];W[fd]C[B has 2 pts on top, W has 30.  Not good for B.])
+(;B[ic];W[hc])
+(;B[fd];W[hc]))
+(;B[gb];W[fd]
+(;B[ie];W[ca]C[B has no points on top, W has about 20.])
+(;B[ca];W[hc]C[B has 2 points on top, W has about 30.]))
+(;B[fd];W[gb];B[ca]C[B loses big.])
+(;B[hc];W[gb]
+(;B[ie];W[ca]C[B has 12 points on top, W has about 20.  This is the best result for B.RIGHT])
+(;B[ca];W[fd]))
+(;B[ic];W[gb])
+(;B[ie];W[ca]C[B has 12 points on top, W has about 20.  This is the best B can do.RIGHT]))

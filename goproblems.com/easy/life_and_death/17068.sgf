@@ -1,0 +1,44 @@
+(;GE[life and death]DI[5k]DP[33]SO[DK2]CO[0]AW[cs]AW[br]AW[cr]AW[bq]AW[cp]AW[bo]AW[dp]AW[ep]AW[do]AW[eo]AB[bn]AB[cn]AB[co]AB[dn]AB[en]AB[fn]AB[fo]AB[gp]AB[fq]AB[cq]AB[dq]AB[dr]AB[er]AB[fr]AB[gq]AB[go]AB[ds]C[Kill white, without ko.]AP[goproblems]
+(;B[as];W[ar]
+(;B[ap];W[ao]
+(;B[bp];W[aq]
+(;B[bp]C[Yes, you did it!RIGHT])
+(;B[ap];W[bp]))
+(;B[aq];W[bp]))
+(;B[ao];W[ap]C[Ko.  You almost got it, so try something a little different.])
+(;B[aq];W[ap])
+(;B[bp];W[ap]))
+(;B[bs];W[as]
+(;B[ao];W[bp];B[ap];W[aq]C[White is alive.])
+(;B[aq];W[ap]C[White is alive.])
+(;B[ar];W[ao]C[White is alive.]))
+(;B[ar]
+(;W[as]
+(;B[bs];W[aq]C[Oshi-tsubushi, black cannot connect in the corner as it would be a suicide move.]
+(;B[ap];W[bp])
+(;B[ao];W[bp])
+(;B[bp];W[ap]))
+(;B[ao];W[bp]C[White is alive.])))
+(;B[aq]
+(;W[ap]
+(;B[as];W[ar]C[White is alive.])
+(;B[ar];W[as]C[White is alive.]))
+(;W[ao];B[an];W[ar]C[White is alive.]))
+(;B[ap];W[ao]C[White is alive.])
+(;B[ao]
+(;W[ap]C[Ko.  The instructions were to solve without engaging the ko rule.CHOICE]
+(;B[bp]
+(;W[as];B[aq])
+(;W[hn]
+(;B[hm];W[bo];B[ho];W[an]
+(;B[ar];W[as])
+(;B[as];W[ar]))
+(;B[bo])))
+(;B[as];W[ar];B[bp])
+(;B[ar]
+(;W[an]C[])
+(;W[as];B[bs]
+(;W[aq])
+(;W[an];B[as])))
+(;B[aq];W[an]))
+(;W[as];B[aq];W[bp];B[ap]C[RIGHT])))

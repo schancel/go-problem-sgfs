@@ -1,0 +1,34 @@
+(;GE[tesuji]DI[10k]DP[50]SO[1234boys]CO[0]AW[br]AW[cs]AW[dr]AW[cq]AW[cp]AW[bp]AB[er]AB[eq]AB[dq]AB[dp]AB[bo]AB[co]AB[cn]AB[cm]AB[ck]AW[bl]AW[cl]AB[dl]AB[el]AB[em]AB[fm]AB[fn]AB[gm]AB[go]AB[im]AW[dm]AW[dn]AW[do]AW[en]AW[eo]AW[ep]AW[fo]AW[fp]AW[ho]AW[iq]AW[gr]LB[gq:a]LB[fq:b]LB[gp:c]LB[bk:d]LB[bm:e]C[Black to play.  http://gogameguru.com/]AP[goproblems]
+(;B[gq]LB[gp:a]LB[bm:b]
+(;W[gp]LB[hp:a]LB[gn:b]LB[fq:c]
+(;B[hp]LB[gn:a];W[gn]LB[fq:a]LB[hn:b]LB[io:c]LB[hq:d]
+(;B[fq]LB[go:a];W[go]LB[io:a]LB[ip:b]LB[hq:c]LB[hn:d]
+(;B[io]LB[hn:a];W[hn]LB[hm:a]LB[in:b]
+(;B[hm]C[Well done!RIGHT])
+(;B[in]C[Well done!RIGHT]))
+(;B[ip]LB[io:a];W[io]LB[jp:a];B[jp]LB[hq:a];W[hq])
+(;B[hq]LB[io:a];W[io]LB[ip:a];B[ip]LB[jo:a];W[jo]LB[jp:a];B[jp]LB[bm:a];W[bm])
+(;B[hn]LB[io:a];W[io]LB[ip:a]LB[hq:b]
+(;B[ip]LB[hq:a];W[hq]LB[jp:a];B[jp]LB[es:a];W[es])
+(;B[hq]LB[ip:a];W[ip])))
+(;B[hn]LB[hq:a];W[hq]LB[go:a];B[go]LB[ip:a];W[ip])
+(;B[io]LB[hq:a];W[hq]LB[hn:a]LB[ip:b]
+(;B[hn]LB[ip:a];W[ip])
+(;B[ip]LB[fq:a];W[fq]))
+(;B[hq]LB[io:a];W[io]LB[ip:a];B[ip]LB[jo:a];W[jo]LB[jp:a];B[jp]LB[bm:a];W[bm]))
+(;B[gn]LB[hp:a];W[hp])
+(;B[fq]LB[hp:a];W[hp]LB[hr:a];B[hr]LB[ir:a];W[ir]))
+(;W[bm]LB[gp:a];B[gp]C[Well done!RIGHT]))
+(;B[fq]LB[gp:a];W[gp]LB[gq:a]LB[hp:b]
+(;B[gq]LB[hp:a];W[hp]LB[hr:a]LB[ir:b]
+(;B[hr]LB[ir:a];W[ir])
+(;B[ir]LB[hr:a];W[hr]LB[hq:a];B[hq]LB[es:a];W[es]))
+(;B[hp]LB[gq:a];W[gq]))
+(;B[gp]LB[fq:a];W[fq]LB[gq:a]LB[fr:b]LB[hr:c]
+(;B[gq]LB[fr:a];W[fr])
+(;B[fr]LB[gq:a];W[gq])
+(;B[hr]LB[hq:a];W[hq]LB[gq:a]LB[fr:b]
+(;B[gq]LB[fr:a];W[fr])
+(;B[fr]LB[gq:a];W[gq])))
+(;B[bk]LB[gp:a];W[gp])
+(;B[bm]LB[gp:a];W[gp]))

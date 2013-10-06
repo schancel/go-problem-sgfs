@@ -1,0 +1,16 @@
+(;GE[best move]DI[3d]DP[10]SO[ketran0]CO[7]AB[db]AB[da]AB[bb]AB[cb]AB[ac]AW[ad]AW[cc]AW[cd]AB[de]C[White to win - 6.5 point komi, japanese rules]AB[bc]AW[bd]AW[dc]AW[ec]AW[eb]AW[ea]AW[fb]AW[gb]AW[ga]AW[gc]AW[fd]AW[ed]AB[ae]AB[be]AB[ce]AB[ee]AB[fe]AB[ge]AB[hd]AB[hc]AB[hb]AB[ha]AB[gd]AW[ie]AW[id]AW[ic]AW[ib]AW[ia]AW[if]AW[hf]AW[gf]AW[ff]AW[ef]AW[cf]AW[df]AW[bf]AW[bg]AW[ag]AB[ah]AB[bh]AB[ch]AB[dg]AB[eg]AB[fg]AB[gg]AB[hg]AB[ig]AB[dh]AB[jf]AB[je]AB[jd]AB[jc]AB[jb]AB[ja]AB[jg]AB[ei]AB[fi]AB[gi]AB[hh]AB[fh]AW[sb]AW[sc]AW[sd]AW[se]AW[sf]AW[sg]AW[si]AW[sj]AW[sm]AW[ss]AW[rs]AW[qs]AW[ps]AW[os]AW[ns]AW[ms]AW[ls]AW[ks]AW[is]AW[hs]AW[ar]AW[aq]AW[ao]AW[an]AW[am]AW[al]AW[ak]AW[aj]AW[ai]AW[bi]AW[ci]AW[di]AW[dj]AW[ej]AW[fj]AW[gj]AW[hj]AW[hi]AW[ii]AW[ih]AW[jh]AW[kh]AW[kg]AW[kf]AW[ke]AW[kc]AW[kb]AW[ka]AW[kd]AW[la]AW[ma]AW[na]AW[oa]AW[pa]AW[qa]AW[ra]AW[sh]AW[sk]AW[sl]AW[sn]AW[so]AW[sp]AW[sq]AW[sr]AW[js]AW[gs]AW[fs]AW[es]AW[cs]AW[ds]AW[bs]AB[br]AB[bq]AB[cr]AW[ap]AB[bp]AB[bo]AB[bn]AB[bm]AB[bl]AB[bk]AB[ck]AB[dk]AB[ek]AB[fk]AB[gk]AB[hk]AB[ik]AB[jj]AB[ij]AB[ji]AB[ki]AB[li]AB[lh]AB[lg]AB[lf]AB[le]AB[ld]AB[lc]AB[lb]AB[mb]AB[nb]AB[ob]AB[pb]AB[qb]AB[rb]AB[rc]AB[rd]AB[re]AB[rf]AB[rg]AB[rh]AB[ri]AB[rj]AB[rk]AB[rm]AB[rn]AB[ro]AB[rq]AB[rr]AB[qr]AB[dr]AB[er]AB[fr]AB[gr]AB[hr]AB[ir]AB[jr]AB[kr]AB[lr]AB[mr]AB[nr]AB[or]AB[pr]AB[rp]AB[rl]AW[dq]AW[cq]AW[cp]AW[co]AW[cn]AW[cm]AW[cl]AW[dl]AW[el]AW[fl]AW[gl]AW[il]AW[hl]AW[jl]AW[kk]AW[kl]AW[lj]AW[lk]AW[mj]AW[mi]AW[mh]AW[mg]AW[mf]AW[me]AW[md]AW[mc]AW[nc]AW[oc]AW[pc]AW[qc]AW[qd]AW[qe]AW[qg]AW[qf]AW[qh]AW[qi]AW[qk]AW[qj]AW[ql]AW[qm]AW[qn]AW[qp]AW[qo]AW[qq]AW[pq]AW[oq]AW[nq]AW[mq]AW[lq]AW[kq]AW[jq]AW[hq]AW[gq]AW[eq]AW[fq]AW[iq]AB[ep]AB[do]AB[en]AB[fo]AB[dn]AB[fp]AB[fm]AB[gm]AB[gn]AB[em]AB[gp]AB[hp]AB[ip]AB[jp]AB[kp]AB[lp]AB[mp]AB[np]AB[op]AB[pp]AB[po]AB[pn]AB[pl]AB[pk]AB[pi]AB[pg]AB[pf]AB[pe]AB[pd]AB[od]AB[nd]AB[ne]AB[ph]AB[pj]AB[pm]AB[nf]AB[ng]AB[ni]AB[nj]AB[nh]AB[nk]AB[ll]AB[mk]AB[km]AB[jm]AB[im]AB[hm]AW[ko]AW[lo]AW[mo]AW[oo]AW[no]AW[on]AW[om]AW[mn]AW[lm]AW[kn]AW[mm]AB[ml]AB[jn]AW[jo]AW[io]AW[in]AW[hn]AB[ho]AW[nl]AB[ok]AW[ol]AW[cj]AB[dm]AP[goproblems]
+(;W[dd];B[cg]
+(;W[bj];B[dp];W[ba];B[aa];W[ab]C[RIGHT])
+(;W[ba];B[aa];W[bj];B[dp];W[ab]C[RIGHT]))
+(;W[bj];B[dp]
+(;W[dd];B[cg];W[ba];B[aa];W[ab]C[RIGHT])
+(;W[ba];B[aa];W[dd];B[cg];W[ab]C[RIGHT]))
+(;W[ba];B[aa]
+(;W[dd];B[cg];W[bj];B[dp];W[ab]C[RIGHT])
+(;W[bj];B[dp];W[dd];B[cg];W[ab]C[RIGHT])
+(;W[ab];B[cg]
+(;W[dd];B[dp]
+(;W[bj];B[aa]C[You lose by .5 :(])
+(;W[ca];B[jk]LB[cb:A]C[FORCE];W[cb]C[Play A];B[kj]C[That's worth a lot more ^^]))
+(;W[ca];B[he]C[play A]LB[cb:A];W[cb];B[af]C[That's worth more than the corner ^^])))
+(;W[aa];B[ba]))

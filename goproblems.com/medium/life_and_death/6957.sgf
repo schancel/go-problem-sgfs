@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1k]DP[19]SO[Trucid]CO[8]SZ[19]AW[eo]AW[dp]AW[fp]AW[cq]AW[dq]AW[eq]AW[fq]AW[ar]AW[br]AW[er]AW[gr]AW[gs]AB[dn]AB[en]AB[fn]AB[gn]AB[bo]AB[do]AB[ho]AB[cp]AB[aq]AB[bq]AB[gq]AB[hq]AB[cr]AB[dr]AB[hr]AB[hs]C[Black to do his best]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Black to play]DT[2004-03-26]PC[http://senseis.xmp.net/?UnderTheStonesProblem4]PL[B]
+(;B[cs]
+(;W[fs]
+(;B[fo];W[ds]
+(;B[bs];W[as];B[cr]TR[fr]TR[es]C[Two eyes.])
+(;B[es]C[ Ko is best.RIGHT]))
+(;B[es];W[ds]C[Ko, but white takes first.])
+(;B[bs];W[fo];B[es];W[ds]C[Ko, but white takes first.])
+(;B[ds];W[fo]TR[ep]TR[fr]C[Two eyes.]))
+(;W[es];B[fo];W[ds];B[bs];W[as];B[cr]C[E1 was white's mistake.RIGHT]))
+(;B[es];W[cs]
+(;B[fr];W[ds]C[White lives])
+(;B[ds];W[fs]C[White lives])
+(;B[fo];W[ds]C[White lives])
+(;B[bs];W[ds]C[White lives]))
+(;B[ds];W[es]C[White lives.])
+(;B[bs];W[ds]
+(;B[cs];W[as];B[cr];W[fs]C[White lives])
+(;B[fs];W[cs]C[White lives])
+(;B[fo];W[cs]C[White lives])
+(;B[as];W[fo]C[White lives]))
+(;B[fs]
+(;W[ds]C[White lives.  Later F2 is a 7 point gote.])
+(;W[fr];B[cs]
+(;W[fo];B[es];W[ds];B[es])
+(;W[es];B[fo];W[ds];B[bs];W[as];B[cr]))))

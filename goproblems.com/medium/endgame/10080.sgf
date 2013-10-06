@@ -1,0 +1,48 @@
+(;GE[endgame]DI[2d]DP[12]SO[field mouse]CO[9]AB[ib]AB[ic]AB[gc]AB[dc]AW[jb]AW[jc]AW[kc]AW[he]AW[ge]AW[fe]AW[eg]AW[ef]AB[de]AB[cg]AW[ch]AB[bg]AB[dg]AB[df]AW[dh]AB[ah]AW[ai]AW[bi]AW[eh]AW[je]AW[hd]AB[id]AW[jd]AW[ie]AB[ee]AB[dd]AW[bb]AW[bd]AB[be]AB[ae]AW[cd]AW[ad]AB[ce]AB[bh]AW[ci]AB[ba]AB[cc]AB[cb]AW[bc]AW[ab]C[White to play the best endgame. Sente is not important and white will win any ko.]AP[goproblems]
+(;W[fc];B[fb]
+(;W[gb];B[hb]
+(;W[eb];B[ga]TR[ec]MA[fd]C[Triangle and square are miai now. White can do better.])
+(;W[hc];B[ga]C[White can do better.]))
+(;W[hc];B[hb]C[White can do better.])
+(;W[eb];B[fd]
+(;W[ec];B[gb])
+(;W[gb];B[ec]
+(;W[fa];B[hc])
+(;W[hb];B[hc]
+(;W[fa];B[ja])
+(;W[ia];B[ga]))))
+(;W[fd];B[gb]C[White can do better.]))
+(;W[gb];B[fb];W[fc];B[hb]
+(;W[eb];B[ga]TR[fd]MA[ec]C[Triangle and square are miai now. White can do better.])
+(;W[hc];B[ga]C[White can do better.]))
+(;W[fb];B[fc];W[hc];B[gb];W[hb];B[ha];W[ia];B[ga];W[fd];B[ed]C[One point behind the solution!])
+(;W[hc]
+(;B[hb]
+(;W[fb];B[gb];W[fc];B[fd];W[gd];B[ec]C[Ko - good!RIGHT])
+(;W[fc];B[fb]C[White can do better.]))
+(;B[gb];W[hb];B[fd];W[ga];B[fa];W[ha];B[gd]C[The best endgame!RIGHT]))
+(;W[hb];B[hc]
+(;W[gb];B[fb];W[fc];B[ha]
+(;W[eb];B[ga]MA[ec]TR[fd])
+(;W[fd];B[ec]))
+(;W[ia];B[gb];W[ha];B[ga]
+(;W[ja];B[fd];W[gd];B[fc]C[White can do better.])
+(;W[fc];B[ja]C[White can do better.])))
+(;W[ia];B[gb]
+(;W[fd];B[fc];W[ga];B[fa];W[ha];B[ed]C[White can do better.])
+(;W[ga];B[fa];W[ha];B[fc];W[fd];B[ed]C[White can do better.]))
+(;W[ha];B[gb]
+(;W[ga];B[ia])
+(;W[ia];B[fc]
+(;W[ga];B[fa];W[fd];B[ed]C[White can do better.])
+(;W[fd];B[ed];W[ga];B[fa]C[White can do better.])))
+(;W[ga];B[gb];W[fb];B[fc]
+(;W[ia];B[eb];W[fa];B[ea];W[ha];B[fd]C[White can do better.])
+(;W[eb];B[ha]
+(;W[hc];B[hb];W[ec];B[fd];W[ed];B[db];W[gd];B[fa]C[!])
+(;W[ec];B[hc]
+(;W[fd];B[ed];W[ja];B[fa])
+(;W[ed];B[fd]
+(;W[ja];B[fa])
+(;W[ea];B[da])))))
+(;W[fa];B[gb]))

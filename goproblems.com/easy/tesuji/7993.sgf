@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[20k]DP[72]SO[cusp]CO[6]AB[qs]AB[pr]AB[pq]AB[qq]AB[rq]AB[rp]AW[ro]AW[qo]AW[qp]AW[pp]AB[op]AB[oo]AB[on]AB[nn]AB[nm]AB[pn]AB[qn]AB[rn]AB[rm]AB[rl]AB[qm]AW[ps]AW[os]AW[or]AW[oq]AW[np]AW[no]AW[mq]AW[nr]AW[mn]AW[mm]AW[ml]AW[nl]AW[om]AW[pm]AW[pl]AW[pk]AW[ok]AW[ql]AW[qk]AW[rk]AW[rj]AW[sl]LB[sl:2]LB[rm:3]C[Black has answered white 2 with 3 - a costly mistake. Show him the error of his ways.]AP[goproblems]
+(;W[sm];B[so]C[Incorrect.])
+(;W[sn]TR[rl]TR[rm]TR[rn]TR[qm]TR[qn]TR[pn]TR[on]TR[nn]TR[nm]TR[oo]TR[op]C[Bang! Black lost over 30 points.RIGHT])
+(;W[so];B[sn]C[White can't approach from either side :(])
+(;W[sp];B[sn]C[Too greedy!])
+(;W[po];B[so]C[Come on!]))

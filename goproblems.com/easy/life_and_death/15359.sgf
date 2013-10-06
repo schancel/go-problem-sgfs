@@ -1,0 +1,12 @@
+(;GE[life and death]DI[6k]DP[38]SO[santa c]CO[0]AB[ar]AB[as]AB[bs]AW[ap]AW[bp]AW[cp]AW[dq]AW[dp]AW[dr]AW[er]AB[fs]AB[fr]AB[eq]AB[ep]AB[eo]AB[do]AB[bo]AB[ao]AB[co]C[is there any ko at all here? (yea sure without bA1 you'd be able to kill)]AP[goproblems]
+(;B[cr]
+(;W[bq]
+(;B[ds];W[es]LB[br:1]C[niceRIGHT])
+(;B[es];W[ds]C[seki])
+(;B[br];W[ds]C[seki]))
+(;W[ds];B[bq]C[(dead shape)RIGHT])
+(;W[es];B[bq]C[(dead shape)RIGHT]))
+(;B[es];W[cr]MA[bq]MA[br]TR[ds]TR[cs])
+(;B[bq];W[cr]LB[br:1]C[seki])
+(;B[ds];W[cr]MA[bq]MA[br]TR[cs]TR[es])
+(;B[br];W[cr]LB[bq:1]C[seki]))

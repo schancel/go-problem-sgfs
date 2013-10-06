@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[10k]DP[53]SO[mrmoto]CO[7]AB[fs]AB[gs]AB[er]AB[fr]AB[gr]AB[hr]AB[fq]AB[gq]AB[gp]AB[go]AB[fo]AB[ho]AB[gn]AB[fn]AB[fm]AB[em]AW[dr]AW[eq]AW[ep]AW[dp]AW[fp]AW[eo]AW[en]AW[dm]AW[dl]AW[dk]AB[dn]AW[cq]AW[bq]AB[cn]AB[cm]AB[ck]AB[cj]AB[dj]AB[bj]AB[ci]AB[bh]AB[ai]AW[ch]AW[bg]AW[di]AW[eh]AW[ej]AB[fj]AW[fk]AW[gm]AW[hl]AW[hn]AW[in]AW[io]AW[hq]AW[hp]AW[ir]AW[iq]AW[ip]AW[jo]AW[jq]AW[js]AW[cs]AB[ii]C[MrMoto's dumpling is about to be eaten!  Please help black to escape towards the middle.]AB[gl]AW[hm]AP[goproblems]
+(;B[cl];W[gk]
+(;B[ek];W[el];B[fl];W[ek])
+(;B[el];W[ek]))
+(;B[el];W[ek];B[gk];W[fl];B[cl];W[ei])
+(;B[ek];W[el]
+(;B[cl];W[gk];B[fl];W[ek])
+(;B[fl];W[gk];B[cl];W[ek])
+(;B[gk];W[fl];B[cl]C[:)RIGHT]))
+(;B[fl];W[gk]
+(;B[ek];W[el];B[cl];W[ek])
+(;B[cl];W[ek])
+(;B[el];W[ek]))
+(;B[gk];W[fl]
+(;B[cl];W[ek];B[el];W[ei])
+(;B[el];W[ek];B[cl];W[ei])
+(;B[ek];W[el];B[cl]C[:)RIGHT])))

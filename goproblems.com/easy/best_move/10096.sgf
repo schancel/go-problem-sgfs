@@ -1,0 +1,89 @@
+(;GE[best move]DI[12k]DP[58]SO[chipuni]CO[6]SZ[9]AW[ch]AW[dh]AW[eh]AW[dg]AB[eg]AB[ff]AB[fg]AB[fh]AB[gh]AB[hi]AB[ih]AW[gf]AW[hf]AW[gg]AW[hg]AW[hh]AB[if]AW[ie]AW[id]AW[hc]AW[gc]AW[gd]AW[fd]AW[fe]AW[ee]AW[ef]AB[ed]AB[dd]AB[de]AB[df]AB[cc]AB[cd]AB[ce]AB[bc]AB[bf]AB[cg]AB[bh]AB[ec]AB[eb]AB[ea]AW[fa]AW[fb]AW[fc]C[You play black.  What move will let you win the game?]AP[goproblems]
+(;B[ei];W[fi]
+(;B[gi];W[ig]
+(;B[di];W[ii]
+(;B[ci]C[Congratulations!RIGHT])
+(;B[fi];W[ci]C[White wins.]))
+(;B[ci];W[ii]
+(;B[di]C[Congratulations!RIGHT])
+(;B[fi];W[di]C[White wins.]))
+(;B[bi];W[ii]
+(;B[di];W[fi]C[White wins.])
+(;B[ci];W[fi]C[White wins.])
+(;B[fi];W[di]C[White wins.])
+(;B[he];W[fi]C[White wins.]))
+(;B[he];W[ii]
+(;B[ge];W[fi]C[White wins.])
+(;B[hd];W[fi]C[White wins.])
+(;B[fi];W[di]C[White wins.])
+(;B[di];W[fi]C[White wins.])
+(;B[ci];W[fi]C[White wins.])
+(;B[ic];W[fi]C[White wins.])))
+(;B[di];W[gi]C[White wins the game.])
+(;B[ci];W[gi]C[White wins the game.])
+(;B[ig];W[gi]C[White wins the game.])
+(;B[ii];W[gi]C[White wins the game.]))
+(;B[ci];W[fi]
+(;B[di];W[gi]C[White wins the game.])
+(;B[ei];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[ii];W[gi]C[White wins the game.])
+(;B[ig];W[gi]C[White wins the game.]))
+(;B[di];W[fi]
+(;B[ci];W[gi]C[White wins the game.])
+(;B[ei];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[ii];W[gi]C[White wins the game.])
+(;B[ig];W[gi]C[White wins the game.]))
+(;B[he];W[fi]
+(;B[ge];W[gi]C[White wins the game.])
+(;B[hd];W[gi]C[White can keep you from getting a second eye.])
+(;B[ig];W[ii]C[White wins the game.])
+(;B[ii];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[ei];W[gi]C[White wins the game.])
+(;B[ci];W[gi]C[White wins the game.])
+(;B[di];W[gi]C[White wins the game.]))
+(;B[fi];W[ei]
+(;B[ci];W[gi]C[White wins the game.])
+(;B[di];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[he];W[gi]C[White wins the game.]))
+(;B[gi];W[ig]
+(;B[ei];W[ii]
+(;B[di];W[fi]C[White wins the game.])
+(;B[ci];W[fi]C[White wins the game.])
+(;B[fi];W[di]C[White wins the game.]))
+(;B[di];W[ii]
+(;B[ei];W[fi]C[White wins the game.])
+(;B[ci];W[fi]C[White wins the game.])
+(;B[fi];W[ei]C[White wins the game.]))
+(;B[ci];W[ii]
+(;B[di];W[fi]C[White wins the game.])
+(;B[ei];W[fi]C[White wins the game.])
+(;B[fi];W[ei]C[White wins the game.]))
+(;B[fi];W[ii]
+(;B[ei];W[di]C[White wins the game.])
+(;B[di];W[ei]C[White wins the game.])
+(;B[ci];W[ei]C[White wins the game.]))
+(;B[ii];W[fi]C[White wins the game.])
+(;B[he];W[ii]
+(;B[ge];W[fi]C[White wins the game.])
+(;B[ei];W[fi]C[White wins the game.])
+(;B[di];W[fi]C[White wins the game.])
+(;B[ci];W[fi]C[White wins the game.])
+(;B[fi];W[ei]C[White wins the game.])
+(;B[hd];W[fi]C[White wins the game.])))
+(;B[ig];W[fi]
+(;B[he];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[ei];W[gi]C[White wins the game.])
+(;B[di];W[gi]C[White wins the game.])
+(;B[ci];W[gi]C[White wins the game.]))
+(;B[bi];W[fi]
+(;B[he]C[White wins the game.])
+(;B[ci];W[gi]C[White wins the game.])
+(;B[di];W[gi]C[White wins the game.])
+(;B[ei];W[gi]C[White wins the game.])
+(;B[gi];W[ii]C[White wins the game.])
+(;B[ig];W[gi]C[White wins the game.])))

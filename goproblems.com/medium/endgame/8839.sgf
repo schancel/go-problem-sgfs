@@ -1,0 +1,11 @@
+(;GE[endgame]DI[3k]DP[24]SO[bourbaki]CO[8]AB[ls]AB[lr]AB[mr]AB[mq]AB[mp]AB[np]AB[op]AB[pp]AB[qo]AB[ro]AB[so]AB[rp]AB[rq]AB[rr]AW[ks]AW[kr]AW[kq]AW[lq]AW[lp]AW[lo]AW[mo]AW[no]AW[oo]AW[po]AW[pn]AW[qn]AW[rn]AW[sn]AW[qp]AW[qq]AW[qr]AB[pq]AW[oq]AW[ns]C[W is leading by 5 points on the rest of the board.  How can he win?
+
+From an actual game (11k vs. 11k).]AP[goproblems];W[pr];B[or]
+(;W[os];B[nr]
+(;W[rs];B[sr]
+(;W[sq]C[Correct, seki!  Black loses 20 points of territory compared to defending at Q2, delivering a half point win for white.  In the actual game I misjudged the balance of territory and lost by 1.5; I should have gone for the ko (see variations).RIGHT])
+(;W[sp]C[Correct, seki!  Black loses 20 points of territory compared to defending at Q2, delivering a half point win for white.  In the actual game I misjudged the balance of territory and lost by 1.5; I should have gone for the ko (see variations).RIGHT])
+(;W[ps];B[ss];W[sq];B[qs]C[Unfavorable ko.  White can do better.])
+(;W[qs];B[ss]C[White is dead.]))
+(;W[ps];B[rs]C[White is dead.]))
+(;W[nr];B[nq];W[os];B[qs];W[oq]C[A favorable ko, but the correct variation guarentees an unconditional win.]))

@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[36]SO[marwin]CO[8]SZ[19]AW[mp]AW[np]AW[op]AW[kq]AW[lq]AW[pq]AW[qq]AW[rq]AW[kr]AW[rr]AB[nq]AB[oq]AB[lr]AB[mr]AB[pr]AB[qr]C[Black to live]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[os];W[ls]TR[mq]C[This is the right side because of the triangle liberty]
+(;B[nr]C[RIGHT])
+(;B[qs]C[RIGHT])
+(;B[ns];W[qs])
+(;B[ms];W[nr];B[qs];W[mq]C[Oups]))
+(;B[ns];W[or];B[os];W[qs]
+(;B[ps];W[ls])
+(;B[ls];W[ps])
+(;B[nr];W[ls]))
+(;B[nr];W[os]
+(;B[ns];W[ls])
+(;B[qs];W[ls]))
+(;B[mq];W[qs];B[os];W[ls])
+(;B[ls];W[qs]
+(;B[ns];W[or])
+(;B[os];W[ns];B[nr];W[rs]
+(;B[ms];W[ps])
+(;B[ps];W[or])))
+(;B[qs])
+(;B[or];W[ns]
+(;B[qs];W[os])
+(;B[os];W[qs])))

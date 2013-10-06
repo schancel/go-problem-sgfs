@@ -1,0 +1,81 @@
+(;GE[life and death]DI[8k]DP[49]SO[santa c]CO[8]AB[pc]AB[nc]AB[mc]AB[ne]AB[me]AW[md]AW[lc]AW[jc]AW[jd]AW[ke]AW[le]AB[lf]AB[kf]AB[je]AB[ie]AB[ic]AB[hc]C[.. and white lives? ;)]AP[goproblems]
+(;W[kb]C[Nice! (White can get the second eye by playing either A or B - He's alive! ^^)RIGHT]LB[ib:A]LB[mb:B])
+(;W[jb];B[lb]
+(;W[kb];B[mb];W[ib];B[hb]C[White's dead!]LB[ia:A]LB[ka:B])
+(;W[ib];B[hb];W[kb];B[mb]C[White's dead!]LB[ia:A]LB[ka:B]))
+(;W[lb];B[jb]
+(;W[kb];B[ib];W[mb];B[nb]C[White's dead!]LB[ka:A]LB[ma:B])
+(;W[mb];B[nb];W[kb];B[ib]C[White's dead!]LB[ka:A]LB[ma:B]))
+(;W[ib];B[kb]
+(;W[jb];B[hb]
+(;W[lb];B[mb]
+(;W[ia];B[ka]
+(;W[kc];B[la]C[White's dead!])
+(;W[la];B[kc]
+(;W[kd]C[White's dead!])
+(;W[ld]C[White's dead! (Not a seki, because black can approach from the outside)]))
+(;W[kd]C[White's dead! M16 is a false eye.]))
+(;W[ka];B[ia]
+(;W[kd]C[White's dead! M16's a false eye.])
+(;W[kc];B[ld]C[White's dead! M16 is a false eye.]))
+(;W[la];B[ia]
+(;W[ka]C[White's dead!])
+(;W[kc];B[ld]C[White's dead! M16's a false eye.])
+(;W[kd]C[White's dead! M16's a flase eye.]))
+(;W[kc];B[ld]C[White's dead!]LB[ia:A]LB[ka:B])
+(;W[kd]C[White's dead!]LB[ia:A]LB[ka:B]))
+(;W[ka];B[lb]C[White's dead!];W[mb];B[kd]LB[ld:1]LB[nd:2]LB[kc:3]C[White's dead!])
+(;W[mb];B[lb]C[White's dead!])
+(;W[la];B[lb]C[White's dead!])
+(;W[ja];B[lb]C[White's dead!])
+(;W[ia];B[lb]C[White's dead!]))
+(;W[lb];B[jb]C[White's dead!])
+(;W[kc];B[lb]C[White's dead!]))
+(;W[kc];B[ib]
+(;W[jb];B[lb]C[White's dead!])
+(;W[kb];B[mb]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!]))
+(;W[mb];B[kb]
+(;W[jb];B[nb]
+(;W[lb]C[];B[ib]C[White's dead!]LB[kc:1]LB[ka:2]LB[ja:A]LB[ld:B])
+(;W[ib];B[lb]C[White's dead!]))
+(;W[lb];B[nb];W[jb];B[ib]C[White's dead!]LB[kc:1]LB[ka:2]LB[ja:A]LB[ld:B])
+(;W[nb];B[nd]
+(;W[ob];B[lb]
+(;W[jb];B[kc]C[White's dead!])
+(;W[kc];B[jb]C[White's dead!]))
+(;W[lb];B[jb]C[White's dead!]LB[ob:1]LB[pb:2]LB[kc:A]LB[ld:B])
+(;W[kc];B[jb]C[White's dead!])
+(;W[jb]C[THIS IS WRONG, BUT I CAN'T FIND WHAT CAN WHITE DO.. :(])))
+(;W[kd];B[ib]
+(;W[kb];B[mb]C[White's dead!])
+(;W[jb];B[lb]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!])
+(;W[mb];B[kb]
+(;W[lb];B[jb]C[White's dead!])
+(;W[jb];B[ja]C[White's dead!])))
+(;W[ka];B[kb]
+(;W[jb];B[lb]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!])
+(;W[ja];B[lb]C[White's dead!])
+(;W[la];B[jb]C[White's dead!])
+(;W[ib];B[lb]C[White's dead!])
+(;W[mb];B[jb]C[White's dead!]))
+(;W[ja];B[kb]
+(;W[lb];B[jb]C[White's dead!])
+(;W[jb];B[lb]C[White's dead!])
+(;W[kc];B[lb]C[White's dead!])
+(;W[ka];B[lb]C[White's dead!])
+(;W[la];B[lb]C[White's dead!]))
+(;W[la];B[kb]
+(;W[jb];B[lb]C[White's dead!])
+(;W[ja];B[jb]C[White's dead!])
+(;W[ka];B[jb]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!]))
+(;W[ld];B[ib]
+(;W[kb];B[mb]C[White's dead!])
+(;W[jb];B[lb]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!])
+(;W[mb];B[kb]
+(;W[jb];B[ja]C[White's dead!])
+(;W[lb];B[jb]C[White's dead!]))))

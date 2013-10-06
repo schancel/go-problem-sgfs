@@ -1,0 +1,40 @@
+(;GE[life and death]DI[2k]DP[21]SO[chrisg]CO[5]SZ[19]AW[in]AW[jn]AW[kn]AW[ln]AW[io]AW[lo]AW[mo]AW[po]AW[qo]AW[ro]AW[ap]AW[bp]AW[cp]AW[dp]AW[hp]AW[mp]AW[np]AW[op]AW[rp]AW[sp]AW[eq]AW[gq]AW[qq]AW[rq]AW[dr]AW[fr]AW[hr]AW[jr]AW[lr]AW[pr]AW[qr]AB[cl]AB[ao]AB[bo]AB[co]AB[do]AB[eo]AB[go]AB[ho]AB[ep]AB[fp]AB[ip]AB[jp]AB[lp]AB[pp]AB[fq]AB[kq]AB[mq]AB[nq]AB[oq]AB[pq]AB[kr]AB[or]TR[lr]C[W:just played the marked stone. B to live, with some territory.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Problem 3009]DT[2003-05-07]PL[B]
+(;B[ls];W[mr]
+(;B[iq];W[hq];B[ir];W[is];B[js];W[ks]C[ko])
+(;B[js];W[iq];B[os];W[ms];B[ks];W[nr]C[- B is dead]))
+(;B[js];W[ms]
+(;B[ns];W[ks]
+(;B[is];W[ir]C[- ko])
+(;B[mr];W[is]
+(;B[ls];W[js];B[lq]C[Correct (thekro's Solution)RIGHT])
+(;B[lq];W[js];B[ls]C[RIGHT])))
+(;B[iq];W[ks];B[ls];W[nj]LB[oj:A]C[Please answer W's ko threat at 'A'];B[oj];W[ks]
+(;B[ir];W[is]
+(;B[hq];W[gr];B[gp];W[lq];B[kp];W[os]C[])
+(;B[mr];W[hq];B[ns];W[ls]C[]))
+(;B[hq]
+(;W[gr];B[ls];W[nk]LB[ok:A]C[Please answer W's ko threat at 'A'];B[ok];W[ks]
+(;B[ir];W[is]
+(;B[gp];W[lq]C[])
+(;B[mr];W[gp]C[]))
+(;B[is];W[ir];B[ls];W[mr];B[ks];W[os]
+(;B[nr];W[ns]C[])
+(;B[ns];W[nr];B[lq];W[gp]C[])
+(;B[gp];W[lq];B[kp];W[ns]C[])))
+(;W[lq];B[ls];W[kp];B[mr];W[ks]C[- ko]))))
+(;B[os];W[ks];B[iq];W[hq];B[ir];W[is]C[])
+(;B[iq];W[ir]
+(;B[ls];W[hq];B[mr];W[os];B[ns];W[ps]C[Though B could do better than thisRIGHT])
+(;B[hq];W[gr];B[gp];W[lq]
+(;B[kp];W[ks]C[])
+(;B[ks];W[kp]
+(;B[ls];W[jq];B[mr];W[lp]C[])
+(;B[jq];W[ls]C[]))
+(;B[ls];W[kp];B[mr];W[lp];B[jq]C[though B could do better than thisRIGHT]))
+(;B[ks];W[hq];B[mr];W[os];B[ns];W[ps]C[RIGHT]))
+(;B[ks];W[iq]
+(;B[mr];W[os];B[ns];W[ps]C[RIGHT])
+(;B[js];W[lq];B[kp];W[mr];B[ms];W[os];B[ns]C[])
+(;B[ls];W[mr]
+(;B[ms];W[os];B[ns]C[])
+(;B[nr];W[os]C[]))))

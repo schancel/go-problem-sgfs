@@ -1,0 +1,72 @@
+(;GE[life and death]DI[1d]DP[16]SO[trucid]CO[9]AB[rq]AB[qq]AW[pq]AW[pr]AW[qr]AW[oq]AW[nr]AB[np]AB[nq]AB[op]AB[pp]AW[qp]AW[rp]AW[ro]AW[rn]AB[rm]AB[qm]AB[qn]AB[qo]AB[on]AW[mq]AW[mp]AW[mo]AB[rr]LB[rr:1]C[Black just played 1. Best way to defend your corner?]AB[rk]AW[kq]AP[goproblems]
+(;W[rs];B[qs]
+(;W[sr];B[ss]C[You can do better than ko.])
+(;W[ps];B[sr]
+(;W[sp];B[sn]
+(;W[qs];B[os]
+(;W[mr];B[sm]C[White dies.])
+(;W[or];B[mr]
+(;W[lr];B[sm]C[White dies.])
+(;W[ns];B[ms];W[lr];B[sm]C[White dies.])))
+(;W[os];B[sm]C[White dies.]))
+(;W[so];B[sq];W[sm];B[sl]C[White can do better than an approach ko.])
+(;W[qs];B[os]
+(;W[sp];B[sn];W[or];B[mr]
+(;W[lr];B[sm]C[White dies.])
+(;W[ns];B[ms];W[lr];B[sm]C[White dies.]))
+(;W[or];B[mr]
+(;W[ns];B[ms];W[lr];B[sp]C[White dies.])
+(;W[sp];B[sn]
+(;W[lr];B[sm]C[White dies.])
+(;W[ns];B[ms];W[lr];B[sm]C[White dies.]))
+(;W[lr];B[sp]))
+(;W[so];B[sq]
+(;W[sm];B[sl]C[W can do better than an approach ko.])
+(;W[or];B[mr]
+(;W[sm];B[sl])
+(;W[lr];B[sm])
+(;W[ns];B[ms];W[sm];B[sl]C[W can do better than an approach ko.])))
+(;W[ns];B[sp])))
+(;W[sq];B[ss];W[ps];B[os]C[Very bad ko for white.])
+(;W[sp];B[ss]
+(;W[sq];B[sn];W[ps];B[os])
+(;W[ps];B[os])))
+(;W[sq];B[sr]
+(;W[so];B[sp]C[White can do better than an approach ko.])
+(;W[rs];B[sp]))
+(;W[sr];B[sq]
+(;W[rs];B[ss]C[White can do better than a ko.])
+(;W[sp];B[ss]C[White dies.]))
+(;W[sp]
+(;B[sn]
+(;W[rs];B[qs]
+(;W[sr];B[ss]C[White can do better than a ko.])
+(;W[ps];B[sr]
+(;W[or];B[sm]C[White dies.])
+(;W[mr];B[sm]C[White dies.])
+(;W[qs];B[os]
+(;W[ss];B[or])
+(;W[or];B[mr]
+(;W[lr];B[sm]C[White dies.])
+(;W[ns];B[ms]
+(;W[ss];B[os])
+(;W[lr];B[sm]C[White dies.])))
+(;W[mr];B[sm]C[White dies.])
+(;W[ns];B[sm]C[White dies.]))))
+(;W[sq];B[sr])
+(;W[sr]
+(;B[rs]
+(;W[qs]C[Starting with T4 was the only way to save your stones. Use Navigate Solution to explore all the wrong variations.RIGHT])
+(;W[sq]C[Starting with T4 was the only way to save your stones. Use Navigate Solution to explore all the wrong variations.RIGHT]))
+(;B[qs]
+(;W[sq];B[rs];W[ps]C[Starting with T4 was the only way to save your stones. Use Navigate Solution to explore all the wrong variations.RIGHT])
+(;W[rs];B[ss]C[White can do better than ko.])
+(;W[ps]C[Starting with T4 was the only way to save your stones. Use Navigate Solution to explore all the wrong variations.RIGHT])
+(;W[os];B[ss]C[White can do better than ko.]))))
+(;B[sr];W[qs]C[RIGHT])
+(;B[rs];W[qs]C[RIGHT])
+(;B[qs];W[sr]
+(;B[ps];W[or]
+(;B[mr];W[sq]C[RIGHT])
+(;B[rs];W[sq]C[RIGHT]))
+(;B[rs];W[sq]C[RIGHT]))))

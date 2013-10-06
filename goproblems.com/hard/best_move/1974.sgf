@@ -1,0 +1,31 @@
+(;GE[best move]DI[4d]DP[8]SO[caocao]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ea][fa][ja][bb][cb][db][eb][kb][nb][ob][ac][bc][dc][jc][kc][pc][qc][rc][dd][ed][rd][ae][ie][ke][bf][ff][if][bg][cg][dg][eg][fg][hg][ig][hh][kh][lh][ei][fi][gi][ii][mi][bj][cj][ij][jj][oj][bk][dk][ek][hk][ik][ok][pk][bl][dl][hl][ll][ml][cm][em][im][jm][mm][pm][jn][nn][on][bo][go][mo][po][qo][ap][cp][dp][ep][gp][kp][lp][mp][eq][hq][iq][jq][lq][oq][fr][lr][or][es]AB[ga][fb][hb][ib][jb][cc][ec][fc][ic][mc][nc][oc][bd][cd][fd][id][pd][qd][be][de][ee][fe][he][re][cf][ef][gf][hf][mf][qf][gg][dh][gh][ih][jh][nh][bi][ci][di][hi][li][pi][aj][dj][ej][fj][gj][hj][pj][gk][jk][kk][qk][el][gl][il][kl][ql][gm][km][lm][hn][in][ln][mn][jo][ko][no][oo][bp][hp][ip][jp][np][op][pp][qp][rp][bq][cq][dq][mq][nq][pq][br][dr][er][mr][cs][ms]C[Black to play and win.]
+(;B[jg]CR[jg]
+(;W[kf]CR[kf]C[CHOICE Good start.  Did you read both variations?]
+;B[ki]CR[ki]
+;W[jf]CR[jf]
+(;B[ji]CR[ji]C[RIGHT Killing white's J10 saves black's center dragon.  Though white can save his J14 stones with N18, victory should be certain for black.])
+(;B[kj]LB[kg:B][ji:A]TR[kj]C[Though black has caught the white stones at J10, the marked stone should be at A, as white B is now sente.  Still, black should win.])
+(;B[hm]LB[kg:B][ji:A]TR[hm]C[Though the marked stone catches the white J10 group, there is no reason to allow w to connect at B in sente.  The marked stone should simply play at A.]))
+(;W[jf]CR[jf]C[CHOICE Good start.  Did you read this line?]
+(;B[kf]CR[kf]
+;W[je]CR[je]
+;B[kg]CR[kg]
+;W[lf]CR[lf]
+;B[lg]CR[lg]
+;W[mg]CR[mg]
+;B[le]LB[mb:B][ki:A]CR[le]C[RIGHT A and B are black's can catch white's J14 or J10 groups.])
+(;B[kg]CR[kg]
+(;W[kf]CR[kf]
+;B[lg]LB[mb:A][ki:B]CR[lg]C[RIGHT Black can kill either J10 stones or J14 stones with A or B.])
+(;W[lg]CR[lg]
+;B[kf]CR[kf]
+;W[je]CR[je]
+;B[lf]LB[mb:A][ki:B]CR[lf]C[RIGHT A and B are black's miai to kill white J14 or J10 groups.]))
+(;B[je]CR[je]
+;W[kf]LB[hm:B][ho:A]TR[je]CR[kf]C[Black K15 is no good, as it allows white to fix all problems with L14.  Black has a gote eye at 'A' and another gote eye at the sequence starting with 'B'.
+
+If black takes one, white deprives the other.])))
+(;B[hm]CR[hm]
+;W[jg]LB[jl:B][ho:A]CR[jg]C[While it is true that black has eyes at A and B, they are both gote.  When black plays one, white can simply poke the other out.]))

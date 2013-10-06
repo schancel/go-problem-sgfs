@@ -1,0 +1,53 @@
+(;GE[best move]DI[8k]DP[49]SO[Athanatos]CO[8]AB[kk]AB[kj]AB[ki]AB[kh]AB[mi]AB[mh]AB[mj]AB[kl]AB[ng]AB[mf]AW[mg]AW[lg]AW[kg]AW[jg]AW[jh]AW[ji]AW[jj]AW[jk]AW[jl]AW[nh]AW[ni]AW[ph]AW[pj]AW[ok]AW[nk]AW[mk]AW[ml]AW[mm]AW[mo]AW[mn]AB[km]AB[ne]AB[oe]AB[qj]AB[qi]AB[qh]AB[qg]AB[qf]AB[pe]AB[qk]AB[ol]AB[pl]AB[nl]AB[nm]AB[nn]AB[no]AB[op]AB[oq]AB[pq]AW[pp]AW[np]AW[nq]AW[nr]AB[nj]AB[jm]AW[im]AW[in]AW[jo]TR[nj]C[White to answer the marked move]AP[goproblems]
+(;W[oj];B[oi]
+(;W[pi];B[oh]C[Black is connected])
+(;W[oh];B[pi]C[Black is connected]))
+(;W[oi];B[oj]
+(;W[pk];B[pi]C[Black is connected])
+(;W[pi];B[pk]C[Black is connected]))
+(;W[pi]C[Simplest way]
+(;B[oj]
+(;W[pk]C[RightRIGHT])
+(;W[og]TR[nf]TR[pk]C[Miai for WhiteRIGHT]))
+(;B[pk]
+(;W[oj]C[RightRIGHT])
+(;W[og]TR[oj]TR[nf]C[Miai for WhiteRIGHT])))
+(;W[pk]
+(;B[oi]
+(;W[pi];B[oh])
+(;W[oh];B[pi]))
+(;B[pi]
+(;W[oi];B[oj])
+(;W[oj];B[oi])))
+(;W[oh];B[oj]
+(;W[pk];B[pi])
+(;W[pi];B[pk]))
+(;W[og]
+(;B[oi]
+(;W[nf];B[oj];W[pi]C[RIGHT])
+(;W[oh];B[pi]TR[oj]TR[nf]C[Miai for connecting]))
+(;B[nf]
+(;W[pi]C[RIGHT])
+(;W[oj];B[oi]
+(;W[pi]C[Black is connected];B[oh])
+(;W[oh];B[pi]C[Black is connected]))
+(;W[oi];B[oj]TR[pk]TR[pi]C[Miai for connecting])
+(;W[pk];B[oi]
+(;W[oh];B[pi]C[Black is connected])
+(;W[pi];B[oh]C[Black is connected])))
+(;B[oj]
+(;W[pi];B[oi]
+(;W[oh]
+(;B[nf];W[pk]C[RIGHT])
+(;B[pk];W[nf]))
+(;W[nf];B[oh]
+(;W[ng];B[pg];W[pk]C[RIGHT])
+(;W[pk];B[ng];W[nh]C[RIGHT])
+(;W[pg];B[ng];W[nh]C[RIGHT])))
+(;W[pk];B[pi]
+(;W[oi];B[oh])
+(;W[oh];B[oi]))
+(;W[oi];B[pi]C[Double atari: Black connects])
+(;W[nf];B[pi]
+(;W[pk];B[oi])
+(;W[oi];B[pk])))))

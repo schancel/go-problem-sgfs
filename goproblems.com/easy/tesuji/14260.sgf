@@ -1,0 +1,56 @@
+(;GE[tesuji]DI[5k]DP[35]SO[Tomsk]CO[0]AB[sr]AB[rr]AB[sq]AB[qq]AB[rp]AB[qp]AB[pp]AB[ro]AB[so]AB[oo]AB[on]AB[pn]AB[np]AB[nq]AB[nr]AW[rs]AW[qr]AW[pr]AW[or]AW[oq]AW[op]AW[po]AW[qo]AW[qn]AW[rn]AW[pm]AW[ql]AW[mp]AW[no]AB[lq]AB[ll]TR[oo]TR[on]TR[pn]C[White to capture the marked stones]AP[goproblems]
+(;W[mm]
+(;B[nn];W[mo];B[mn];W[ln];B[nm];W[nl]C[RIGHT])
+(;B[nm]
+(;W[nl];B[mo])
+(;W[nn];B[om];W[nl];B[ol];W[ok];B[pl];W[pk]C[Correct, black is capturedRIGHT])
+(;W[om];B[nn]
+(;W[nl];B[mo]C[Black escapes])
+(;W[mo];B[nl]C[Black escapes])))
+(;B[nl]C[CHOICE]
+(;W[nm];B[om]
+(;W[ol]C[Black is capturedRIGHT])
+(;W[nn];B[ol]C[Black escapes])
+(;W[ml];B[ol]C[Black escapes]))
+(;W[om];B[nn]
+(;W[mo];B[nm]C[Black escapes])
+(;W[nm];B[mo]C[Black escapes])
+(;W[mn];B[mo]C[Black escapes]))
+(;W[nn];B[om]C[Black escapes])
+(;W[mn];B[nm]C[Black escapes])
+(;W[ol];B[nm]C[Black escapes]))
+(;B[om];W[ol];B[nm]
+(;W[nl];B[nn];W[mn]C[RIGHT])
+(;W[nn])))
+(;W[nm];B[nn]
+(;W[mo];B[mn]
+(;W[ln];B[mm]C[Black escapes])
+(;W[mm];B[ln]C[Black escapes])
+(;W[lm];B[ln]C[Black escapes])
+(;W[km];B[lm]C[Black escapes]))
+(;W[mn];B[mo]C[Black escapes])
+(;W[om];B[mo]C[Black escapes]))
+(;W[om];B[nn]
+(;W[mn];B[mo]C[Black escapes])
+(;W[mo];B[mm]C[Black escapes]))
+(;W[nn];B[om]
+(;W[ol];B[nm]
+(;W[mm];B[nl];W[nk];B[ml]C[No, the ladder doesn't work])
+(;W[nl];B[mm]C[Black escapes])
+(;W[ml];B[mm];W[lm];B[mo]TR[no]TR[nn]C[Black kills the marked stones and lives]))
+(;W[ok];B[nl]C[Black escapes])
+(;W[nm];B[ol]C[Black escapes])
+(;W[nl];B[pl]
+(;W[ol];B[qm]
+(;W[nm];B[pm]C[CHOICE]
+(;W[pk];B[rm]TR[po]TR[qo]TR[qn]TR[rn]C[Black kills the marked stones and lives])
+(;W[rm];B[pk]C[Black escapes]))
+(;W[rm];B[pk]C[Just ko.]))
+(;W[qm];B[ol]
+(;W[ok];B[pk]C[Black escapes, black's stones can't be caught in a ladder because they are not in atari])
+(;W[pk];B[ok]C[Black escapes, black's stones can't be caught in a ladder because they are not in atari.])
+(;W[pj];B[ok]C[Black escapes]))))
+(;W[nl];B[om];W[ol];B[nn]
+(;W[mo];B[mm]C[Black escapes])
+(;W[mn];B[mo]C[Black escapes])
+(;W[mm];B[mo]C[Black escapes])))

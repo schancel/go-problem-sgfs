@@ -1,0 +1,62 @@
+(;GE[tesuji]DI[6k]DP[36]SO[unkx80]CO[8]AB[pd]AB[qe]AB[rf]AB[od]AB[oc]AB[nc]AW[nd]AB[oe]AW[pe]AW[pf]AW[of]AW[qd]AB[qc]AW[rd]AW[qg]AW[rg]C[Black to play.]AP[goproblems]
+(;B[re];W[rc]
+(;B[rb];W[qb]
+(;B[sc];W[pc];B[sd];W[qc]
+(;B[pb]C[RIGHT])
+(;B[qa]C[RIGHT])
+(;B[sb]C[Not as good as solution.RIGHT])
+(;B[ra];W[sb])
+(;B[se];W[sb];B[sa];W[qa]
+(;B[pb];W[ob])
+(;B[pa];W[ob];B[nb];W[oa];B[na];W[pb])
+(;B[ob];W[ra])
+(;B[oa];W[ra])
+(;B[sb];W[qf]
+(;B[pb];W[ob])
+(;B[pa];W[ob];B[nb];W[oa];B[na];W[pb])
+(;B[ob];W[ra])
+(;B[oa];W[ra])))
+(;B[ob]C[Not as good as solution.RIGHT])
+(;B[pa]C[Not as good as solution.RIGHT]))
+(;B[pb];W[pc])
+(;B[qa];W[pc];B[pb];W[qf])
+(;B[pc];W[sb]
+(;B[ra];W[qa]
+(;B[sd];W[sa]
+(;B[rb];W[ra];B[se];W[qf])
+(;B[se];W[qf]))
+(;B[pb];W[sa])
+(;B[se];W[sa]
+(;B[sd];W[qf])
+(;B[rb];W[ra];B[sd];W[qf])))
+(;B[sd];W[ra])
+(;B[pb];W[ra]))
+(;B[sd];W[pc];B[sc];W[qc]
+(;B[pb]C[RIGHT])
+(;B[qa]C[RIGHT])
+(;B[sb]C[Not as good as solution.RIGHT])
+(;B[ob]C[Not as good as solution.RIGHT])
+(;B[ra];W[sb])
+(;B[se];W[sb];B[sa];W[qa]
+(;B[pb];W[ob])
+(;B[pa];W[ob];B[nb];W[oa];B[na];W[pb])
+(;B[ob];W[ra])
+(;B[oa];W[ra])
+(;B[sb];W[qf]
+(;B[pb];W[ob])
+(;B[pa];W[ob];B[nb];W[oa];B[na];W[pb])
+(;B[ob];W[ra])
+(;B[oa];W[ra])))
+(;B[pa]C[Not as good as solution.RIGHT]))
+(;B[ra];W[pc])
+(;B[sb]C[The descent is a solution, but not recommended compared to the others.];W[pc]
+(;B[sd]C[RIGHT])
+(;B[sc]C[RIGHT]))
+(;B[se];W[sb]))
+(;B[qb];W[rb]
+(;B[ra];W[qf])
+(;B[sd];W[qf])
+(;B[se];W[qf]))
+(;B[sd];W[rb];B[qb];W[qf])
+(;B[se];W[rb]))
+(;B[rc];W[re]))

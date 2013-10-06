@@ -1,0 +1,66 @@
+(;GE[elementary]DI[5k]DP[34]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[2];
+AW[op][pp][qp][rp][oq][pr][sr][ps]
+AB[nn][on][pn][rn][ro][np][nq][pq][qq][rq][mr][or][os]
+C[white to live
+]
+(;W[rs];B[sp]
+(;W[sq]C[RIGHT
+white catches the three black stones
+])
+
+(;W[rr];B[sq]
+(;W[qr];B[so]C[some stones die
+])
+
+(;W[so];B[sn];W[qr];B[so]C[not the best
+])
+)
+
+(;W[qr];B[sq]
+(;W[rr];B[so])
+
+(;W[so];B[sn];W[rr];B[so])
+)
+)
+
+(;W[sq];B[qr]C[no way to get two eyes now
+])
+
+(;W[sp];B[qr]C[no way to get two eyes now
+])
+
+(;W[qr];B[rr]
+(;W[rs];B[qs])
+
+(;W[qs];B[rs])
+
+(;W[sq];B[qs])
+)
+
+(;W[rr];B[qr]
+(;W[qs];B[rs])
+
+(;W[rs];B[qs])
+
+(;W[sq];B[qs])
+)
+
+(;W[qs];B[rs]
+(;W[qr];B[rr])
+
+(;W[rr];B[qr])
+)
+
+(;W[ss];B[qr]
+(;W[qs];B[rs])
+
+(;W[rs];B[qs])
+)
+
+)

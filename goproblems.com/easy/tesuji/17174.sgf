@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[15k]DP[61]SO[1234boys]CO[0]SZ[7]AB[cf]AB[df]AB[cd]AB[dd]AB[ed]AB[ee]AW[be]AW[ce]AW[de]AW[fe]AW[fd]AW[gf]AW[fg]AW[ef]LB[bf:a]LB[bd:b]LB[ae:c]C[http:gogameguru.com]AP[goproblems]
+(;B[bf];W[bd];B[bc]C[Well done! White only has two liberties and all of black's groups have more than that. No matter what white does next, black can atari.RIGHT])
+(;B[bd];W[bf];B[bg];W[dg]LB[cg:a]LB[ae:b]LB[af:c]
+(;B[cg])
+(;B[ae];W[cg])
+(;B[af]))
+(;B[ae];W[bd];B[bc];W[bf];B[bg];W[dg]LB[cc:A]C[This variation is even worse for black than the previous one because white's stones are safe and black still has to worry about white cutting at A.]))

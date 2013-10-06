@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6k]DP[38]SO[gobluesky]CO[0]AB[ra]AB[qb]AB[qc]AB[rd]AB[qf]AB[pf]AB[nf]AB[lf]AB[ld]AB[md]AW[ke]AW[kd]AW[kc]AW[lc]AW[qa]AW[pa]AW[pb]AW[pc]AW[pd]AW[pe]AP[goproblems]
+(;B[mc];W[mb];B[nb];W[na]LB[nc:a]TR[pa])
+(;B[nb];W[mb];B[na]C[];W[nc]
+(;B[mc];W[lb]
+(;B[oc];W[nd]
+(;B[od];W[ne]
+(;B[oe];W[me]
+(;B[le]C[RIGHT])
+(;B[mf];W[le]))
+(;B[me];W[oe]))
+(;B[ne];W[od]))
+(;B[nd];W[oc]))
+(;B[oc];W[mc]
+(;B[od];W[ob])
+(;B[ob];W[od])
+(;B[nd];W[od])))
+(;B[nc];W[nb]
+(;B[mb];W[mc];B[ob];W[na];B[oc];W[oa];B[nd])
+(;B[ob];W[mb];B[oc];W[oa]))
+(;B[oc];W[ob];B[nc];W[nb]
+(;B[mb];W[mc];B[ne])
+(;B[mc];W[mb]))
+(;B[od];W[nb])
+(;B[mb];W[mc];B[nc];W[nb];B[ob]
+(;W[na];B[oc];W[oa];B[ne])))

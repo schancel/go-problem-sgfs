@@ -1,0 +1,40 @@
+(;GE[best move]DI[5d]DP[4]SO[rainysky]CO[8]AB[qd]AW[dc]AB[dp]AW[pq]AB[ce]AW[po]AB[nd]AW[ed]AB[ci]AW[qj]AB[jq]AW[cq]AB[cp]AW[dq]AB[eq]AW[er]AB[dr]LB[cq:1]LB[cp:2]LB[dq:3]LB[eq:4]LB[er:5]TR[dr]C[Black has just played an unexpected move at the marked stone. How for white to respond?]AP[goproblems]
+(;W[cr];B[fr];W[ds];B[fq];W[bp];B[bo];W[bq];B[cn]C[The natural sequence but... Black has formidable thickness on both sides. No good =])
+(;W[fq];B[ep]
+(;W[gr];B[es]
+(;W[fs];B[fr]C[A big ko, but where are white's threats?])
+(;W[fr];B[cr]C[W has heavy shape, B has cash. Who would you prefer?]))
+(;W[fr];B[cr]TR[jq]C[White's shape is not good for eyes, and K3 checks white from extending effectively. Black succeeds =])
+(;W[cr];B[fr];W[ds];B[gq]C[locked tightly into the corner. No good!]))
+(;W[fr];B[cr]C[want to fight huh? let's see if it'll work >_>];W[bq];B[br];W[bp];B[bo];W[ep];B[fq]
+(;W[gq];B[fp];W[eo];B[ap]C[you are eaten x_x])
+(;W[co];B[do]
+(;W[gq];B[fp];W[eo];B[dn];W[fo];B[gp]C[Does this ladder really work?];W[hp];B[go];W[gn];B[ho];W[io];B[hn];W[hm];B[in];W[jn];B[im];W[il];B[jm];W[km];B[jl];W[jk];B[kl];W[ll];B[kk];W[kj];B[lk];W[mk];B[lj];W[li];B[mj];W[nj];B[mi];W[mh];B[ni];W[oi];B[nh];W[ng];B[oh];W[ph];B[og];W[of];B[pg];W[qg];B[pf];W[pe];B[qf]C[What now? =])
+(;W[eo];B[dn];W[gq]TR[eo]TR[dn]C[The marked exchange is bad for W. If the ladder worked (which it doesn't) and you captured at F4, would you still atari at E 5?])))
+(;W[bp]
+(;B[bq]C[Hm... an equally interesting move by WCHOICE];W[cr]
+(;B[bo]
+(;W[fq];B[ep];W[gr];B[br];W[ds];B[go]C[B has good influence but has lost sente. White can be satisfiedRIGHT])
+(;W[br];B[fr]
+(;W[ds];B[ep];W[aq];B[cn]C[Still no good!])
+(;W[aq];B[cn];W[ds];B[fq]C[sealed!])))
+(;B[br];W[ds];B[bo]LB[gq:A]C[B at B2 first is a mistake. Now white can jump to A rather than atari at F3]))
+(;B[ep]C[CHOICE]
+(;W[cr];B[bo]
+(;W[bq];B[fr];W[ds];B[gq]C[not good enough!])
+(;W[fr]C[good! W is slightly better here compared to the normal joseki with B D2 at F3RIGHT]))
+(;W[bo];B[cr];W[bq];B[fr];W[cl]C[B's left side goal is gone ^^RIGHT])))
+(;W[ep];B[fq]
+(;W[bp];B[bo]
+(;W[co];B[do];W[cn];B[bq]C[huh? was that a misclick? ;)])
+(;W[bq];B[cn];W[cr];B[fr];W[ds]C[nope :)]))
+(;W[fr];B[cr];W[bq];B[br];W[bp];B[bo];W[co];B[do]
+(;W[eo];B[dn];W[gq];B[fp]C[The ladder fails. ])
+(;W[gq];B[fp];W[eo];B[dn]C[The ladder fails])))
+(;W[bq];B[fr];W[ep];B[fq]
+(;W[bp];B[cn]C[crawling on the second line this early is no good =/])
+(;W[do]
+(;B[co];W[cn])
+(;B[bo]
+(;W[co];B[bp];W[bn];B[eo];W[fp];B[cn];W[dn];B[gp]C[laddered! =(])
+(;W[eo];B[cn]C[dead corner + floating outside = losing position * 2])))))

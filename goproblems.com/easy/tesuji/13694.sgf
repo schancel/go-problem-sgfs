@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[4k]DP[31]SO[adum]CO[0]AW[rm]AW[ql]AW[pm]AW[qn]AB[pn]AB[po]AB[qo]AB[rn]AB[qp]AB[qq]AB[rq]AB[qk]AB[rk]AB[sk]AB[sj]AW[rj]AW[si]AW[qj]AW[pj]AB[pl]AW[rh]AW[nj]AW[ml]AW[mm]AW[mo]TR[qn]C[white plays R6. how to answer?]AP[goproblems]
+(;B[rl];W[pk]
+(;B[qm]C[RIGHT])
+(;B[sm];W[sl])
+(;B[ol];W[sl])
+(;B[om];W[sl]))
+(;B[om];W[pk]
+(;B[qm];W[rl])
+(;B[ol];W[rl]))
+(;B[sm];W[pk]
+(;B[om];W[ol])
+(;B[qm]C[this ko is not good for black])
+(;B[sl];W[ro]
+(;B[om];W[sn])
+(;B[sn];W[so])))
+(;B[pk];W[om])
+(;B[ro];W[pk])
+(;B[sl];W[pk])
+(;B[qm]C[FORCENOTTHIS])
+(;B[sn];W[pk])
+(;B[so];W[pk]))

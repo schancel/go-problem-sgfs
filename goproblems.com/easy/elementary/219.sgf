@@ -1,0 +1,26 @@
+(;GE[elementary]DI[20k]DP[74]SO[adum]CO[5]AW[qm]AW[qn]AW[po]AW[ip]AW[kp]AW[lp]AW[lq]AW[lr]AW[ms]AB[nn]AB[pn]AB[oo]AB[mp]AB[np]AB[op]AB[pp]AB[qp]AB[mq]AB[mr]LB[ms:1]C[white just played 1. what's black's best response?]SZ[19]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[5.50]GN[White (W) vs. Black (B)]PW[White]PB[Black]DT[1999-07-28]SY[Cgoban 1.9.2]
+(;B[ns];W[ls]C[correct so far...]
+(;B[or]C[you must protect agains O2RIGHT])
+(;B[nr]C[you must protect against O2RIGHT])
+(;B[qo];W[nr]
+(;B[os];W[or];B[ps];W[pr];B[qs];W[qr];B[rs];W[rr])
+(;B[or];W[os];B[ps];W[pr]C[bad ko for black]))
+(;B[qr]C[You must protect against O2; whether O2, P2 or this move is correct depends on the situation.];W[rq]
+(;B[rp];W[nr];B[os];W[or];B[ps];W[pr];B[qs];W[qq])
+(;B[qq];W[rp])
+(;B[rr];W[rp]))
+(;B[rr];W[nr];B[os];W[or];B[ps];W[qr]
+(;B[pr];W[pq])
+(;B[qs];W[pr];B[rs];W[rq]C[Black loses many stones.]))
+(;B[nq]C[Strange shape; O2 (less ko threats) or P2 (better eyeshape is better.])
+(;B[lo];W[nr])
+(;B[pr];W[nr];B[os];W[or];B[ps]C[RIGHT]))
+(;B[qo];W[os]C[bad: black loses a lot on the bottom])
+(;B[nr];W[ns]C[]
+(;B[or];W[os]C[worse])
+(;B[os];W[ls]
+(;B[or]C[Black has lost more territory than necessary.])
+(;B[pr]C[not good])
+(;B[qo];W[or])))
+(;B[or];W[os];B[ps];W[ns]C[black loses more than he has to])
+(;B[os];W[ns];B[nr];W[ls]C[black gives up more than he has to]))

@@ -1,0 +1,201 @@
+(;GE[life and death]DI[4k]DP[31]SO[BartTM]CO[0]AB[ph]AB[qh]AB[qi]AB[qj]AB[qk]AB[ql]AB[ok]AB[ol]AB[pm]AB[pn]AB[on]AB[nn]AW[om]AW[nm]AW[pl]AW[pk]AW[pj]AW[pi]AW[nj]AW[oh]AW[of]AW[qf]AW[mf]AW[mn]AW[mo]AW[no]AW[oo]AB[og]AW[ng]AB[pg]AW[pf]C[What can Black do in the center?]AP[goproblems]
+(;B[mm]
+(;W[nl]
+(;B[nk];W[ml]
+(;B[mk];W[ll]
+(;B[ni]TR[pl]TR[pk]TR[pj]TR[pi]C[The sweet smell of tesuji in the morning...RIGHT])
+(;B[oj];W[oi]
+(;B[nh];W[ni]
+(;B[mh];W[mj]C[White escapes])
+(;B[mi];W[mh])
+(;B[mj];W[mh]))
+(;B[ni];W[nh])
+(;B[mh];W[nh])
+(;B[mi];W[ni]))
+(;B[oi];W[oj]
+(;B[ni];W[mj]C[You can capture one stone but you fortified White's position in the center.])
+(;B[mj];W[ni])
+(;B[mi];W[ni])
+(;B[nh];W[mi]
+(;B[mg];W[mh]C[White saves the center.])
+(;B[mj];W[ni]
+(;B[oh];W[mh])
+(;B[mh];W[li]
+(;B[oh];W[lh])
+(;B[lh];W[oh]))
+(;B[li];W[mh]C[White seals off the center. Black's N10 stones are just a cumbersome eyeless lump in White's moyo.]))
+(;B[mh];W[li]C[Black breaks through but fails to take the bonus.]))
+(;B[mh];W[nh]))
+(;B[mj];W[ni])
+(;B[mi];W[ni])
+(;B[nh];W[ni]
+(;B[oi];W[oj]
+(;B[mi];W[oh]
+(;B[mj];W[mh])
+(;B[mh];W[mj])
+(;B[lm];W[mh]C[Poor eyeless Black stones, swimming in a powerful White center...]))
+(;B[oh];W[mj])
+(;B[mj];W[mi])
+(;B[mg];W[lj]C[Black breaks through but White saves her stones and builds up strength in the lower center.]))
+(;B[oj];W[oi])
+(;B[mh];W[mj]
+(;B[oi];W[oj]
+(;B[lj];W[lk])
+(;B[lk];W[li]C[White retains most of the center. The maked stones are eyeless and vulnerable in White's strong center.]MA[lk]MA[mk]MA[nk]MA[ok]MA[ol]))
+(;B[lk];W[li]C[White retains most of the center. The maked stones are eyeless and vulnerable in White's strong center.]MA[lk]MA[mk]MA[nk]MA[ok]MA[ol]))
+(;B[mj];W[mh])
+(;B[mi];W[mh]))
+(;B[mh];W[nh])
+(;B[lk];W[ni]))
+(;B[oi];W[oj]
+(;B[nh];W[mk]C[Capturing a stone and breaching the center is nice, but not the best you can do.])
+(;B[ni];W[mj]
+(;B[nh];W[mh]C[You captured a stone! Pity that White has such a solid wall now.])
+(;B[mi];W[nh]))
+(;B[mk];W[ll])
+(;B[mi];W[ni]))
+(;B[oj];W[oi]
+(;B[mk];W[ll])
+(;B[ni];W[mk])
+(;B[nh];W[mk])
+(;B[mi];W[mk]))
+(;B[nh];W[ni]
+(;B[mk];W[ll])
+(;B[oi];W[oj]
+(;B[mk];W[ll])
+(;B[oh];W[mk])
+(;B[mh];W[mk]))
+(;B[oj];W[oi]
+(;B[mk];W[ll])
+(;B[mh];W[mk])))
+(;B[ni];W[mk]
+(;B[nh];W[oj]C[You can capture a stone, but it is not enough.])
+(;B[oi];W[oj]C[There is a stone for you. White is content with the strength in the center.])
+(;B[oj];W[oi])
+(;B[mj];W[nh]))
+(;B[mj];W[ni];B[mk];W[ll])
+(;B[mi];W[ni])
+(;B[ll];W[mk]))
+(;B[oi];W[oj]
+(;B[nh];W[mh]C[Just a stone.])
+(;B[ni];W[mi]
+(;B[nh];W[mh]
+(;B[oh]C[One stone in gote.])
+(;B[ml];W[nk]))
+(;B[ml];W[nk]))
+(;B[ml];W[nk]
+(;B[nh];W[mh]C[Just one stone, White is massive in the center.])
+(;B[ni];W[mi]))
+(;B[nk];W[mk]))
+(;B[nh];W[oj]
+(;B[oi])
+(;B[ml];W[nk]
+(;B[oi])
+(;B[mi];W[mh]
+(;B[oi];W[ni];B[oh];W[lk])
+(;B[ni];W[oi]
+(;B[lh];W[mg]
+(;B[mj];W[mk];B[lk];W[ll];B[lm];W[lj])
+(;B[mk];W[mj]))
+(;B[mj];W[mk]
+(;B[lk];W[ll];B[lm];W[lj])
+(;B[lh];W[mg]))
+(;B[mk];W[mj]))
+(;B[lh];W[ni]))))
+(;B[oj];W[oi])
+(;B[ni];W[oj])
+(;B[mj];W[nk])
+(;B[mk];W[nk])
+(;B[ml];W[nk]
+(;B[oi];W[oj])
+(;B[oj];W[oi])
+(;B[nh];W[oi])
+(;B[ni];W[nh])))
+(;W[oj];B[ml]C[White can save the 4 stones at the Q line like this, but Black's strong position completely erases White's strength in the center.RIGHT])
+(;W[lm];B[ml];W[ll];B[mk];W[lk];B[mj];W[lj];B[ni]C[White can shield off the center but pays a hefty price.RIGHT]TR[nj]TR[nm]TR[om]TR[pl]TR[pk]TR[pj]TR[pi]))
+(;B[ml];W[mm]
+(;B[oi];W[oj]
+(;B[nh];W[mh])
+(;B[ni];W[mi]))
+(;B[oj];W[oi])
+(;B[nh];W[oj];B[oi];W[mh])
+(;B[ni];W[oj])
+(;B[mk];W[ni]))
+(;B[mk];W[ml]
+(;B[oi];W[oj]
+(;B[ni];W[mi])
+(;B[nh];W[mh]))
+(;B[oj];W[oi])
+(;B[ni];W[oj])
+(;B[nh];W[ni])
+(;B[nk];W[ni]))
+(;B[nk];W[mk]
+(;B[mm];W[lm]
+(;B[nl];W[ni]
+(;B[mj];W[ml];B[nm])
+(;B[ml];W[ll]C[White gladly sacrifices 2 stones to maintain that solid center-facing wall.]))
+(;B[ml];W[ll]
+(;B[nl];W[ni]C[White gladly sacrifices 2 stones to maintain that solid center-facing wall.])
+(;B[oi];W[oj]
+(;B[nl];W[ni])
+(;B[nh];W[nl]))
+(;B[oj];W[oi];B[nl];W[mj])
+(;B[mj];W[nl])
+(;B[ni];W[nl]))
+(;B[oi];W[oj])
+(;B[oj];W[oi]))
+(;B[oi];W[oj])
+(;B[nl];W[mm])
+(;B[ni];W[oj])
+(;B[oj];W[oi])
+(;B[ml];W[mm]))
+(;B[nl];W[mm]
+(;B[oi];W[oj];B[nh];W[mh]C[Just a single stone.])
+(;B[oj];W[oi])
+(;B[nh];W[oj]
+(;B[oi])
+(;B[ni];W[mh]
+(;B[oi];W[mi]C[Just one stone.])
+(;B[mi];W[mj]
+(;B[li];W[oi]MA[nl]MA[ol]MA[ok])
+(;B[oi];W[li]C[Just one stone.])
+(;B[lh];W[oi]MA[nl]MA[ol]MA[ok]))
+(;B[mj];W[mi]))
+(;B[mk];W[mh]C[You can capture one stone in gote.]))
+(;B[ni];W[nh])
+(;B[mk];W[ni]MA[mk]MA[nl]MA[ol]MA[ok]C[Black has made an eyeless lump inside White's moyo.]))
+(;B[oj];W[oi]
+(;B[mm];W[nl])
+(;B[nk];W[mk])
+(;B[nl];W[mm])
+(;B[ni];W[nh]
+(;B[mm];W[nl])
+(;B[nk];W[mk]
+(;B[mj];W[nl]
+(;B[nj];W[lj])
+(;B[ml];W[nj])
+(;B[mm];W[nj]))
+(;B[mm];W[nl]))
+(;B[nl];W[mm])
+(;B[ml];W[nl]))
+(;B[mk];W[nk])
+(;B[ml];W[nl])
+(;B[nh];W[ni]))
+(;B[oi];W[oj]
+(;B[ni];W[mj]C[Black can only capture one stone, White's center remains strong.])
+(;B[mm];W[nl])
+(;B[nh];W[mh]C[Just a single stone; White's center wall is unbreached.])
+(;B[nl];W[mm]))
+(;B[ni];W[oj]
+(;B[oi])
+(;B[mm];W[nl])
+(;B[nl];W[mm]
+(;B[mj];W[nh])
+(;B[oi];W[mi]C[Just one stone.])
+(;B[nh]))
+(;B[nh];W[mj]C[You can catch one stone, but White's center remains intact.])
+(;B[mj];W[nk]))
+(;B[nh];W[oj]
+(;B[oi])
+(;B[nl];W[mm])
+(;B[mm];W[nl])))

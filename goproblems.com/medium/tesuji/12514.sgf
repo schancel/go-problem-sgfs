@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[1d]DP[17]SO[themyron]CO[0]AB[bc]AB[bd]AB[cd]AB[ce]AB[dc]AB[db]AB[fc]AB[fb]AB[ea]AB[ed]AB[fe]AB[ff]AB[fg]AB[fh]AB[cg]AB[dg]AB[dh]AB[di]AB[bh]AB[bi]AB[bj]AB[bk]AW[ac]AW[bb]AW[cb]AW[cc]AW[dd]AW[de]AW[df]AW[cf]AW[bf]AW[bg]AW[ch]AW[ci]AW[cj]AW[ck]AW[dj]AW[ej]AW[ei]AW[fi]AW[gi]AW[gh]AW[gg]AW[gf]AW[ge]AW[gd]AW[hc]AW[hb]AW[pd]AW[qc]AB[rd]AB[qg]AB[qj]AB[qo]AB[rp]AW[pp]AW[qq]AW[pn]AW[oq]AW[qm]AB[cl]AB[dk]AB[ek]AB[el]AB[fj]AB[gj]AB[hj]AB[hi]AB[ii]AB[ji]AB[hh]AB[hg]AB[hf]AB[if]AB[ie]AB[id]AB[ic]AB[jc]AB[lc]AB[lb]AB[jg]AW[ig]AW[ih]AW[jh]AW[kh]AB[je]AW[jf]AW[kf]AW[ke]AW[kd]AW[jd]AW[md]AW[mc]AW[mb]AW[fk]AW[gl]AW[hk]AW[gm]AW[gn]AW[fo]AW[gp]AW[ip]AB[fm]AB[fn]AB[en]AB[eo]AB[ep]AB[cr]AB[dq]AB[er]AW[dr]AB[jo]AB[jp]AB[jq]AB[jl]AW[jm]AW[dl]AW[dm]AW[dn]AW[do]AB[co]LB[do:1]LB[ep:2]C[This situation looks dire for W. Help him out please.]AP[goproblems]
+(;W[bl];B[cm];W[bm];B[cn]
+(;W[bo];B[cp];W[bn]
+(;B[bp]
+(;W[ah]C[Yes! White lives on the side and black is decimated. RIGHT])
+(;W[ak]C[Yes! White lives on the side and black is decimated. RIGHT])
+(;W[aj]C[RIGHT])
+(;W[ai];B[ah];W[al]C[RIGHT])
+(;W[al]C[RIGHT])))
+(;W[bn];B[bo]C[W comes up short.])
+(;W[cp];B[bo];W[bp];B[dp];W[ao];B[em];W[an];B[bn];W[am];B[aq];W[bq];B[br];W[ah];B[cq];W[ai];B[ap]))
+(;W[cm];B[bl];W[bm];B[bn]
+(;W[cp];B[bp];W[dp];B[cq]C[Doesn't work.])
+(;W[dp];B[cp]C[Doesn't work.]))
+(;W[bm];B[bl];W[cm];B[bn]
+(;W[cp];B[bp];W[dp];B[cq]C[Doesn't work.])
+(;W[dp];B[cp]C[Doesn't work.]))
+(;W[dp];B[cp]
+(;W[bl];B[cm];W[cn];B[bm];W[bn];B[al]C[What now?])
+(;W[cm];B[bl];W[bm];B[bn]C[Doesn't work.]))
+(;W[bn]
+(;B[cn]
+(;W[cm];B[bl]
+(;W[bm];B[bo];W[cp];B[bp];W[dp];B[cq]C[Nope.]))
+(;W[bl];B[cm]
+(;W[bm];B[bo]C[W falls short.])
+(;W[bo];B[bm]C[Nope.]))))
+(;W[cn];B[bm]
+(;W[cm];B[bl];W[bn];B[bo];W[cp];B[bp];W[dp];B[cq]C[Nope.])
+(;W[bn];B[bo];W[cp];B[bp];W[dp];B[cq]C[Nope.])
+(;W[cp];B[bo];W[bn];B[bp];W[dp];B[cq]C[Nope.])
+(;W[bo];B[cp];W[bn];B[bp]C[Nope.])
+(;W[dp];B[cp];W[bn];B[bo]C[Nope.])))

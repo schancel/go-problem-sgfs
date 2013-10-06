@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[48]SO[Kaenai]CO[0]AB[oc]AB[ob]AW[nc]AW[pc]AW[od]AW[oe]AW[pe]AW[qe]AW[ne]AB[pd]AB[qd]AB[qc]AB[rd]AB[re]AB[rf]AB[sf]AW[qf]AW[rg]AW[sg]AW[pg]AB[nd]AB[md]AB[me]AB[le]AB[nf]AW[mf]AW[mg]AW[lg]AW[lh]AB[kg]AB[kh]AB[jf]AB[je]AW[kd]AW[kc]AW[jd]AW[id]AW[ie]AW[if]AB[ig]AB[hf]AB[gf]AW[hg]AW[gg]AB[fg]AB[gh]AB[hi]AB[ji]AB[kb]AB[lc]AB[jc]AB[ib]AB[hb]AB[gc]AW[mi]AW[ki]LB[kd:1]LB[le:2]C[White played at 1 hoping that black makes a mistake. Black obliges with 2. White to save his group]AW[fc]AW[fd]AB[gd]AB[fe]AW[ee]AP[goproblems]
+(;W[ke]
+(;B[kf];W[lf];B[nb];W[jh];B[ih];W[jg]C[RIGHT])
+(;B[lf];W[kf]
+(;B[jg]C[CHOICE];W[mc];B[lb];W[ld]C[RIGHT])
+(;B[nb]C[CHOICE];W[jh];B[ih];W[jg]C[RIGHT])))
+(;W[ld];B[ke])
+(;W[kf];B[ke];W[lf])
+(;W[lf];B[ke])
+(;W[mc];B[ke]))

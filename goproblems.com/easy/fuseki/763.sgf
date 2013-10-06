@@ -1,0 +1,46 @@
+(;GE[fuseki]DI[5k]DP[33]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Black to play the best extension.]
+PL[B]
+LB[yy:1][jq:A][kq:B][lq:C][mq:D][jp:E][kp:F][lp:G][mp:H]AB[pq][qo]
+AW[dp][hn][ho][hp][hq]
+(;B[mq]
+C[RIGHT
+This is a solid move that denies white 
+any severe attack on any of the black 
+stones.]
+MN[1]
+)(;B[lq]
+LB[lq:1][nq:A]C[This is too close to the white 
+thickness. If white invades at A, 
+black 1 will have trouble connecting to 
+the black corner.]
+)(;B[kq]
+C[This is too close to the white 
+thickness. If white invades at A, 
+black 1 will come under a severe 
+attack.]
+LB[kq:1][mq:A])(;B[jq]
+C[This is too close to the white 
+thickness. If white invades around A, 
+black 1 will come under a severe 
+attack.]
+LB[jq:1][mq:A])(;B[mp]
+LB[mp:1][mr:A]C[White has a nice move at A.]
+)(;B[lp]
+C[White has a nice move at A or he 
+might cause some trouble by attaching 
+at B. Black played too loose.]
+LB[lp:1][lr:A][oq:B])(;B[kp]
+C[This is too close to the white 
+thickness. If white invades at A, black 
+1 will come under a severe attack.]
+LB[kp:1][mp:A])(;B[jp]
+C[This is too close to the white 
+thickness. If white invades around A, 
+black 1 will come under a severe 
+attack.]
+LB[jp:1][mp:A][mq:A]))

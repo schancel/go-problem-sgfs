@@ -1,0 +1,90 @@
+(;GE[life and death]DI[7k]DP[40]SO[elahrairah]CO[0]SZ[19]AW[ab]AW[db]AW[jb]AW[kb]AW[bc]AW[dc]AW[fc]AW[ic]AW[jc]AW[bd]AW[cd]AW[dd]AW[ed]AW[fd]AW[gd]AW[hd]AW[id]AB[ba]AB[da]AB[ea]AB[ia]AB[ja]AB[bb]AB[cb]AB[eb]AB[fb]AB[hb]AB[lb]AB[mb]AB[cc]AB[ec]AB[gc]AB[kc]AB[jd]AB[ld]AB[je]AB[if]AB[hf]AB[gf]AB[ef]AB[df]AB[bf]AB[cf]C[White to live. If Black can escape (at A) without you getting some stones, you die.]LB[ka:A]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;W[ka]C[];B[ga]
+(;W[hc];B[ib];W[gb]C[Advantageous ko. White can get better and live with no condition.])
+(;W[ib];B[hc];W[ha];B[ia]C[])
+(;W[ac];B[hc]C[]))
+(;W[ga];B[ka]
+(;W[gb];B[hc]
+(;W[ib]C[Well done. Black cannot connect and save his three stones, as he would still be in atari (oiotoshi, or connect-and-die).RIGHT])
+(;W[ac];B[ha]
+(;W[aa];B[fa];W[ca];B[cb]
+(;W[bb];B[ba]C[Disadvantageous ko. White can do better and live wih no condition.])
+(;W[ba])
+(;W[cc];B[ba];W[bb];B[ca]))
+(;W[ib];B[fa]))
+(;W[ha];B[fa])
+(;W[fa];B[ha])
+(;W[la]C[RIGHT];B[ma]
+(;W[ib]C[Well done. Black cannot connect and save his three stones, as he would still be in atari (oiotoshi, or connect-and-die).RIGHT])
+(;W[ha];B[fa])
+(;W[fa];B[ha])
+(;W[ac];B[ha]
+(;W[aa];B[fa];W[ca];B[cb]
+(;W[bb];B[ba]C[Disadvantageous ko. White can do better and live wih no condition.])
+(;W[cc];B[ba];W[bb];B[ca])
+(;W[ba]))
+(;W[ib];B[fa]))))
+(;W[ha];B[ib])
+(;W[fa];B[gb])
+(;W[ib];B[ha])
+(;W[hc];B[gb])
+(;W[la];B[ma])
+(;W[ac];B[gb]))
+(;W[ib];B[ka]
+(;W[ga];B[ha])
+(;W[ha];B[ga])
+(;W[hc];B[gb])
+(;W[gb];B[ga])
+(;W[fa];B[ga])
+(;W[la];B[ma])
+(;W[ac];B[gb]))
+(;W[ha];B[ga])
+(;W[hc];B[ka]
+(;W[gb];B[ga]
+(;W[gc];B[ha])
+(;W[ib];B[gc]C[Disadvantageous ko. White can get better and live with no condition.]))
+(;W[ib];B[gb])
+(;W[ha];B[ga])
+(;W[ga];B[gb])
+(;W[fa];B[ga])
+(;W[ac];B[gb])
+(;W[la];B[ma]C[]
+(;W[gb];B[ga]
+(;W[ib];B[gc]C[Disavantageous ko. White can get better and live with no condition.])
+(;W[gc];B[ha]))
+(;W[ib];B[gb])
+(;W[ha];B[ga])
+(;W[ga];B[gb])
+(;W[fa];B[ga])
+(;W[ac];B[gb])))
+(;W[gb];B[ga])
+(;W[fa];B[ga])
+(;W[ac];B[ka]
+(;W[hc];B[gb])
+(;W[ga];B[gb])
+(;W[gb];B[ga])
+(;W[ib];B[gb])
+(;W[ha];B[ga])
+(;W[fa];B[ga])
+(;W[aa];B[ca]
+(;W[hc];B[gb])
+(;W[gb];B[ga])
+(;W[ga];B[gb])
+(;W[ha];B[ga])
+(;W[fa];B[ga])
+(;W[ib];B[gb])
+(;W[la];B[ma]))
+(;W[la];B[ma]
+(;W[ga];B[gb])
+(;W[hc];B[gb])
+(;W[ib];B[gb])
+(;W[ha];B[ga])
+(;W[gb];B[ga])
+(;W[fa];B[ga])
+(;W[aa];B[ca]
+(;W[gb];B[ga])
+(;W[fa];B[ga])
+(;W[ga];B[gb])
+(;W[ha];B[ga])
+(;W[hc];B[gb])
+(;W[ib];B[gb])))))

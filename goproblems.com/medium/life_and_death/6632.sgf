@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[19]SO[Zwom]CO[9]SZ[19]AW[ka]AW[la]AW[kb]AW[nb]AW[pb]AW[kc]AW[lc]AW[mc]AW[oc]AW[pc]AB[ja]AB[oa]AB[jb]AB[jc]AB[nc]AB[qc]AB[rc]AB[jd]AB[kd]AB[ld]AB[md]AB[nd]AB[od]AB[pd]AB[qe]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[na]
+(;W[ob];B[mb];W[pa];B[ma];W[lb]
+(;B[na]C[white can't approach or get another eye.RIGHT])
+(;B[ma]C[];W[mb];B[na]C[RIGHT]))
+(;W[mb];B[pa];W[qb];B[qa];W[rb];B[ra];W[sb];B[ob]C[both white groups are in damezumariRIGHT]))
+(;B[mb];W[na]
+(;B[pa];W[qb];B[qa]
+(;W[rb];B[ra];W[sb])
+(;W[ra]
+(;B[rb];W[ob];B[qa];W[pa])
+(;B[ma];W[lb];B[ma];W[mb];B[rb])))
+(;B[qb];W[pa];B[ma];W[lb]
+(;B[ma];W[mb];B[qa];W[ob])
+(;B[mb];W[ma];B[qa];W[ob])))
+(;B[ob];W[pa];B[mb];W[na])
+(;B[qb];W[pa];B[na];W[ma];B[mb];W[ob];B[na];W[oa];B[qa];W[lb])
+(;B[pa];W[qb];B[qa];W[na];B[rb];W[ob];B[mb];W[ra]))

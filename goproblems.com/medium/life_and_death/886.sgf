@@ -1,0 +1,22 @@
+(;GE[life and death]DI[2k]DP[21]SO[Hans]CO[6]
+AW[oa][ob][rb][sb][oc][qc][qd]
+AB[na][nb][nc][sc][nd][od][pd][rd][qe][re]C[Black to kill.
+]
+(;B[pc];W[pb]
+(;B[qa];W[ra];B[qb];W[pa];B[qb];W[qa];B[rc]C[RIGHT])
+(;B[rc];W[qb]C[White lives.])
+(;B[qb];W[qa]C[White lives.])
+(;B[ra];W[qa]C[White lives.])
+)
+(;B[qb];W[qa]C[White lives.])
+(;B[qa];W[pc]
+(;B[qb];W[rc];B[ra];W[pa]C[Seki.
+])
+
+(;B[ra];W[qb];B[pa]C[Gote Seki for black.
+])
+)
+(;B[rc];W[qa]C[White lives.])
+(;B[pb];W[pc]C[White lives.])
+
+)

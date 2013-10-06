@@ -1,0 +1,43 @@
+(;GE[life and death]DI[8k]DP[47]SO[Chroliver]CO[0]
+
+AW[og][pg][qg][oh][qh][rh][sh][ni][si][nj][nk][ol][om][pm][pn][qn][rn][ro][so]
+AB[oi][pi][qi][ri][pj][sj][ok][pk][qk][pl][qm][rm][sm][sn]TR[sh]
+C[Black Tenuki'd when white played the marked stone. Take advantage!]
+PL[W]
+(;W[sk]
+;B[rj]
+(;W[rl]
+;B[rk]C[You made the same mistake I did :(])(;W[ql]
+(;B[rk])
+(;B[rl])))
+
+(;W[rj]
+
+(;B[rl]
+(;W[rk]C[RIGHT You're 1/3 of the way to winning my game :D])
+(;W[sk]
+;B[rk]LB[oo:tenuki]
+;W[oo]C[RIGHT White can tenuki]))
+(;B[rk]
+;W[sk]
+(;B[sl]
+;W[sj]C[RIGHT])
+(;B[rl]
+LB[oo:tenuki];W[oo]C[RIGHT White can tenuki]))
+
+(;B[sk]
+;W[rk]C[RIGHT]))
+(;W[rk]
+;B[rj]
+(;W[rl]
+;B[ql])
+(;W[ql]
+;B[rl]))
+(;W[rl]
+;B[rk]
+;W[sl]
+;B[ql])
+(;W[ql]
+;B[rk])
+(;W[sl]
+;B[rk]))

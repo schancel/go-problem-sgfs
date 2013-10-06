@@ -1,0 +1,12 @@
+(;GE[endgame]DI[12k]DP[56]SO[adum]CO[6]AW[rb]AW[qb]AW[qc]AW[pc]AB[pb]AB[qa]AB[oa]AB[na]AB[nb]AB[nc]AB[oc]AW[od]AW[nd]AB[pd]AB[qd]AB[rd]AB[rc]AB[sd]AB[re]AB[rf]AB[sf]AB[rg]AW[rh]AW[sh]AW[sg]AW[qh]AW[qg]AW[qf]AW[qe]AW[oe]AW[pe]AB[mc]AB[lc]AW[ra]LB[ra:A]C[how to handle white A?]AP[goproblems]
+(;B[sb];W[pa]
+(;B[ob]C[white cannot approach in the cornerRIGHT])
+(;B[sc];W[ob])
+(;B[sa];W[ob]))
+(;B[pa];W[sb]C[seki])
+(;B[sa];W[pa]
+(;B[ob];W[sb])
+(;B[sb];W[sc];B[sb];W[ob]))
+(;B[sc];W[pa]
+(;B[sb];W[ob])
+(;B[ob];W[sb])))

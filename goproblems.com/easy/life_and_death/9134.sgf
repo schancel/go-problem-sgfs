@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4k]DP[31]SO[aditsu]CO[6]AW[qb]AW[qc]AW[rd]AW[re]AB[pb]AB[pc]AB[nc]AB[qd]AB[qe]AB[qf]AB[rf]AB[qh]AW[sc]AP[goproblems]
+(;B[ra]
+(;W[rb]C[CHOICE]
+(;B[qa];W[se];B[sb];W[sa]C[Ko and white takes first. This is optimal play for both sides.RIGHT])
+(;B[se];W[qa]))
+(;W[qa]C[White made a mistake, how to punish?CHOICE]
+(;B[sb]C[See problem 9133])
+(;B[rb];W[se];B[rc]C[Correct; try the other variation too (white's best play)RIGHT])
+(;B[se];W[rb]C[])))
+(;B[se];W[rb]C[])
+(;B[qa];W[ra]
+(;B[rb];W[pa]
+(;B[se];W[sb])
+(;B[sb];W[se])
+(;B[oa];W[sb]))
+(;B[se];W[rb]))
+(;B[rb];W[ra]
+(;B[sb];W[se])
+(;B[se];W[sb]))
+(;B[sb];W[rb];B[se];W[sa]))

@@ -1,0 +1,56 @@
+(;GE[tesuji]DI[6k]DP[39]SO[dischord]CO[0]LB[gg:O]LB[ig:K]LB[kg:T]LB[mg:L]AP[goproblems]
+(;B[gg];W[as]LB[gi:J]C[Jump!FORCE];B[gi];W[gh]C[Stay connected]
+(;B[hh];W[fh]
+(;B[hi];W[hg];B[sa])
+(;B[hg];W[hi])
+(;B[fi];W[eh]
+(;B[hi];W[hg])
+(;B[hg];W[hi]))
+(;B[fg];W[eh]
+(;B[hg];W[hi])
+(;B[hi];W[hg])))
+(;B[fh];W[hh]
+(;B[fg];W[fi])
+(;B[fi];W[fg])
+(;B[hg];W[ih]
+(;B[fg];W[fi])
+(;B[fi];W[fg]))
+(;B[hi];W[ih]
+(;B[fi];W[fg])
+(;B[fg];W[fi]))
+(;B[eh];W[fg];B[ff];W[eg];B[dg];W[fi]C[Horrible for white, but still cut.])))
+(;B[ig];W[as]LB[ji:J]C[Jump!FORCE];B[ji];W[jh]C[Stay connected]
+(;B[ih];W[ii]
+(;B[kh];W[jg];B[jf]C[Yup! The keima is the only jump that can stay connected.RIGHT]))
+(;B[ii];W[ih];B[hh];W[jg]
+(;B[if];W[hi])
+(;B[hg];W[hi])
+(;B[hi];W[hg])
+(;B[jf];W[lg]
+(;B[hg];W[hi])
+(;B[hi];W[hg]))))
+(;B[kg];W[as]LB[kj:J]C[Jump!FORCE];B[kj];W[kh]C[Stay connected]
+(;B[lh];W[jh]
+(;B[li];W[lg])
+(;B[lg];W[li]
+(;B[lj];W[mi])
+(;B[ki];W[mi])))
+(;B[jh];W[lh]
+(;B[jg];W[ji]
+(;B[ki];W[ii])
+(;B[jj];W[ii]))
+(;B[ji];W[jg])))
+(;B[mg];W[as]LB[lj:J]C[Jump!FORCE];B[lj];W[mh]C[Stay connected]
+(;B[lh];W[lg]
+(;B[kh];W[lf];B[ng];W[mi];B[nj];W[oh]AB[ss]AB[sa]AB[aa])
+(;B[ng];W[mi];B[kh];W[lf])
+(;B[mi];W[nh]
+(;B[kh];W[mf])
+(;B[ng];W[oh])
+(;B[ni];W[oh]))
+(;B[mf];W[kg])
+(;B[lf];W[kg]
+(;B[mi];W[nh])
+(;B[nh];W[mi])))
+(;B[lg];W[lh])
+(;B[mi];W[lh];B[nh];W[ng])))

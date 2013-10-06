@@ -1,0 +1,11 @@
+(;GE[life and death]DI[5k]DP[35]SO[gorka]CO[0]AB[br]AB[bo]AB[co]AB[do]AB[ep]AB[eq]AB[gq]AB[hq]AB[hr]AW[bq]AW[bp]AW[dp]AW[dr]AW[er]AW[fr]AW[gr]C[Black to play]AP[goproblems]
+(;B[cq];W[cr]
+(;B[ar];W[bs]
+(;B[cp]C[CorrectRIGHT])
+(;B[ap]C[RIGHT]))
+(;B[aq];W[bs]C[Incorrect, white got 2 eyes.]))
+(;B[cr];W[dq]
+(;B[gs];W[ar]C[incorrect, white got 2 eyes])
+(;B[ar];W[gs]C[incorrect, white got 2 eyes]))
+(;B[ar];W[dq];B[cr])
+(;B[dq];W[cr]C[Incorrect, white got 2 eyes.]))

@@ -1,0 +1,19 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[3]AB[bb]AB[cb]AB[db]AB[eb]AB[fb]AW[gc]AW[fc]AW[ec]AW[dc]AW[cc]AW[bc]AW[be]AW[ea]AW[gb]AW[ib]C[A seemingly dead position? You're in trouble? Well what about the move with opponents stone handicap you set?  :) (ALLOW BLACK TO LIVE!)]AP[goproblems]
+(;W[ca]
+(;B[ab]C[Well done! Thanks to C19, now B19 and F19 are miai! White can't kill! :)RIGHT]LB[ca:A]TR[ba]TR[fa])
+(;B[fa]
+(;W[ab];B[ba]C[RIGHT])
+(;W[da];B[ab]C[RIGHT])
+(;W[ba];B[ab]C[RIGHT]))
+(;B[da];W[fa])
+(;B[ba]
+(;W[ab];B[fa]C[RIGHT])
+(;W[fa];B[ab]C[RIGHT]))
+(;B[ga];W[ab]TR[ba]TR[fa]))
+(;W[da]C[Black still can't live! :(]TR[fa]TR[ab])
+(;W[fa]C[Black still can't live! :(])
+(;W[ba]C[Black still can't live! :(]TR[fa]TR[ab])
+(;W[ab]C[Black still can't live! :(])
+(;W[ga]C[Black still can't live! :(]TR[fa]TR[ab])
+(;W[aa]C[Black still can't live! :(]TR[ab]TR[fa])
+(;W[ac]C[Black still can't live! :(]TR[ab]TR[fa]))

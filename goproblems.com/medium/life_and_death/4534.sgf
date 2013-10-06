@@ -1,0 +1,45 @@
+(;GE[life and death]DI[1d]DP[15]SO[assacra]CO[8]AB[ea]AB[eb]AB[ec]AB[ab]AB[bc]AB[bd]AB[be]AB[af]AB[cf]AB[df]AB[de]AB[dd]AW[bb]AW[db]AW[cc]AW[cd]AW[ce]AW[ac]AW[bf]AW[bg]AW[bh]C[black to kill marked stones]TR[ac]TR[bb]TR[cc]TR[cd]TR[ce]TR[db]AP[goproblems]
+(;B[cb];W[ca]
+(;B[dc];W[cb]
+(;B[da];W[aa]
+(;B[ad];W[ae])
+(;B[ae];W[ag]))
+(;B[ad];W[aa];B[ba]C[only two stage ko])
+(;B[aa];W[ad];B[ae];W[ac]
+(;B[da];W[ba];B[ab]C[RIGHT])
+(;B[ad];W[ag])))
+(;B[ad];W[aa]
+(;B[ac];W[ae])
+(;B[ba]C[ko]))
+(;B[aa];W[ba]
+(;B[dc];W[cb]
+(;B[da];W[ad])
+(;B[ab];W[ad]
+(;B[da];W[ae])
+(;B[ae]C[RIGHT]))
+(;B[ad];W[ae]))
+(;B[ab]
+(;W[aa]
+(;B[ad];W[ae])
+(;B[dc];W[cb];B[da]C[RIGHT]))
+(;W[ad];B[ae];W[ac];B[dc];W[cb];B[da]))))
+(;B[dc];W[cb];B[ad];W[ag]
+(;B[ae];W[ac])
+(;B[da];W[ae]C[one-step ko for black])
+(;B[ba];W[ae]C[one step ko for black])
+(;B[ca]C[NOTTHIS]))
+(;B[ae];W[ag]
+(;B[dc];W[ad])
+(;B[ad];W[ac]))
+(;B[ca];W[cb];B[ba];W[aa]C[ko])
+(;B[ad];W[cb]
+(;B[ba];W[ag]
+(;B[dc];W[ae]C[one-step ko for black])
+(;B[da];W[ae]C[one-step ko for black])
+(;B[ca];W[ae]C[one-step ko for black]))
+(;B[dc]C[NOTTHIS])
+(;B[ca]C[NOTTHIS])
+(;B[da];W[ag]
+(;B[ca];W[ae]C[one-step ko for black])
+(;B[ba];W[ae]C[one-step ko for black])
+(;B[dc];W[ae]C[one-step ko for black]))))

@@ -1,0 +1,53 @@
+(;GE[life and death]DI[8k]DP[45]SO[traxtin]CO[0]AB[aa]AB[ab]AB[ac]AB[bc]AB[bb]AB[cc]AB[ec]AB[dd]AB[ed]AW[ee]AW[ba]AW[ca]AW[da]AW[cb]AW[db]AW[eb]AB[dc]AW[fb]AW[fc]AW[fd]AW[gc]AW[hc]AW[ic]AW[jb]AW[kc]AW[lc]AW[md]AW[nd]AW[od]AB[pd]AB[pc]AB[pb]AW[ob]AW[qb]AW[rc]AW[sc]AW[qd]AW[rd]AW[qe]AW[pe]AB[sd]AB[se]AB[sf]AB[sg]AB[re]AB[rf]AB[qf]AB[pf]AB[pg]AB[ph]AW[oh]AW[rg]AW[qg]AW[pi]AW[qi]AW[qh]AW[sh]AB[oi]AB[ni]AB[mi]AB[nj]AB[pj]AW[oj]AW[ok]AW[pk]AW[qk]AW[rk]AW[sk]AW[sl]AW[sm]AW[nk]AW[mk]AW[mj]AB[lj]AB[lk]AW[li]AW[kj]AB[lh]AB[ng]AB[oe]AB[ne]AB[me]AB[ld]AB[kd]AB[jd]AB[jc]AB[id]AB[gd]AB[hd]AB[ge]AB[fe]AB[ef]AB[df]AB[cf]AW[ff]AW[fg]AW[eg]AW[dg]AW[dh]AW[eh]AB[gf]AB[gg]AB[gh]AB[fh]AB[gi]AB[hh]AB[hg]AB[ii]AB[ij]AB[ik]AB[jk]AB[kk]AB[hk]AB[hl]AB[hm]AB[im]AB[in]AB[jn]AB[jo]AW[jm]AW[jl]AW[kl]AW[ll]AW[ml]AW[nl]AW[ol]AW[om]AW[pm]AW[qm]AW[mm]AB[km]AB[lm]AW[kn]AW[kp]AW[jp]AW[ko]AW[lp]AB[ln]AB[lo]AB[mn]AB[nm]AB[nn]AB[on]AB[pn]AB[qn]AB[rn]AB[rm]AB[rl]AB[ql]AB[pl]AB[sn]AB[po]AB[mp]AB[np]AB[op]AB[nq]AB[qp]AB[qq]AB[pq]AB[rq]AB[sr]AB[ss]AB[qr]AB[qs]AB[ps]AB[os]AW[oq]AW[or]AW[pr]AW[nr]AW[lr]AW[mq]AW[lq]AW[ms]AW[ns]AW[ei]AW[ej]AW[fj]AW[gj]AW[hj]AW[hi]AW[gk]AW[gl]AW[gm]AW[gn]AW[hn]AW[ho]AW[io]AW[fk]AW[fl]AW[fn]AW[en]AW[fo]AW[fp]AW[fq]AW[gq]AW[hq]AW[hp]AW[eq]AW[dq]AW[cq]AW[bq]AW[bp]AW[ap]AW[ao]AW[an]AW[dp]AW[dr]AB[am]AB[bn]AB[bo]AB[cn]AB[co]AB[cp]AB[dn]AB[do]AB[eo]AB[ep]AB[em]AB[fm]AB[el]AB[dm]AB[dl]AB[ek]AW[cl]AW[cm]AW[bk]AB[ck]AB[dj]AB[di]AB[bj]AB[ch]AB[cg]AW[bi]AB[ci]LB[fi:A]C[Should White pass at A or B? Or defend at C?]LB[il:B]LB[pa:C]AP[goproblems]
+(;W[fi]
+(;B[nb]C[Ah so you pass but black thinks that he has a trick up his sleeve here... what to do?]
+(;W[oc];B[oa]
+(;W[mc];B[ra]
+(;W[qa]
+(;B[rb];W[qc]C[YES! Black can't connect.RIGHT])
+(;B[pa]
+(;W[rb];B[sa];W[ma];B[na];W[mb]C[Black can't approach your group so you win :)RIGHT])
+(;W[ma];B[rb]C[tsk tsk... too much of a hurry! you need to make that eye complete first!])
+(;W[qc];B[na]C[*bonks* quit taking your own liberties!])))
+(;W[qc];B[pa];W[qa];B[na]C[atari-atari is ugly :( you lose this race])
+(;W[rb];B[qa];W[ma];B[na];W[mb];B[pa];W[nc]C[And now its up to Black wheter he plays the Ko here or if he just makes seki... either way is good for him]))
+(;W[qc];B[pa];W[qa];B[na]
+(;W[mb];B[mc]C[snapback :(])
+(;W[mc]TR[ma]TR[mb]TR[nc]TR[ra]TR[rb]TR[sb]C[3 vs 3... Black plays first so he wins :(])))
+(;W[oa];B[oc]MA[mc]MA[pa]C[The 2 marked points are now miai. :(])
+(;W[nc];B[oc];W[mc];B[pa]C[White will now die in the corner :(])
+(;W[mc];B[oc];W[ra];B[sb];W[pa];B[nc];W[mb];B[oa];W[ma];B[qc];W[rb];B[qa]C[Ko for Black to kill you and he takes first! plus you have to win... TWICE!])
+(;W[mb];B[oc];W[mc];B[pa];W[ra];B[sb];W[na];B[oa];W[ma];B[qc];W[rb];B[qa]C[Ya.... your dead]))
+(;B[mc]C[Really? Then how to defend?CHOICE]
+(;W[mb]
+(;B[kb];W[lb];B[ib];W[ka];B[hb];W[ga];B[oa];W[nb];B[qa];W[ra];B[qc])
+(;B[oa];W[nb];B[qa];W[ra];B[qc];W[pa]C[Ko with White taking first but Black has at least 5 threats on the top so should be easy for him]))
+(;W[oc];B[kb];W[lb]
+(;B[ib];W[ka];B[hb];W[ga]C[Right, nothing but KO threats!RIGHT])
+(;B[mb]C[CHOICE];W[ka];B[ma];W[la];B[oa]C[Credit to SmartAleck]
+(;W[qc];B[pa];W[qa];B[na]C[You die(1 eye in corner)! :(CHOICE])
+(;W[pa];B[qa];W[qc];B[pa];W[ra];B[na];W[sb]C[You Live... But so did Black(SEKI!) :(CHOICE])))
+(;W[nb];B[mb];W[lb];B[la];W[kb];B[pa];W[nc];B[ra]C[corner is now at best a seki... which is no good])
+(;W[nc];B[mb]C[Ya... wheres the resign button?])))
+(;W[il]C[NOTTHIS];B[pa]
+(;W[qa]
+(;B[nb];W[oc]
+(;B[oa];W[mc];B[ra]
+(;W[rb];B[sa];W[ma]C[Good job :)RIGHT])
+(;W[sa]C[RIGHT];B[sb];W[ma];B[na];W[mb]C[RIGHT]))
+(;B[lb];W[kb];B[oa];W[mc]C[This exchange didn't help Black.. he still dies :)RIGHT]))
+(;B[rb];W[ra];B[sb];W[sa]
+(;B[nb];W[oc];B[oa];W[mc]C[Black still has no hope :)RIGHT])
+(;B[mb]
+(;W[oc];B[mc];W[kb];B[oa];W[na]C[RIGHT])
+(;W[mc];B[oc]
+(;W[nb]C[RIGHT])
+(;W[nc];B[nb];W[kb];B[oa];W[ma];B[qc]C[Give Black an eye... and you SHALL die!]))
+(;W[nb];B[mc]C[]
+(;W[lb];B[la];W[kb];B[na];W[qc];B[nc]C[disaster :(])
+(;W[kb];B[na];W[oa];B[nc];W[ma];B[oc]C[DISASTER!]))
+(;W[oa];B[mc]C[Can you smell the miai that were cooking here?]MA[oc]MA[kb]))))
+(;W[oc];B[ra]
+(;W[oa];B[rb]C[just dies])
+(;W[rb];B[qa];W[oa]C[Black can either play at t19 for seki, t18 for a ko with white taking first or he can ignore and play elsewhere... if elsewhere white can play t19 for ko with black taking first or t18 for seki... so Black plays elsewhere here])))
+(;W[pa]C[CORRECT! Navigate problem to see possible mistakes that Black can make (these are marked as correct but Black won't play them out in the problem)RIGHT]))

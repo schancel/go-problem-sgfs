@@ -1,0 +1,68 @@
+(;GE[life and death]DI[15k]DP[61]SO[wheezy]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]HA[2]KM[0.00]
+PW[Dan Rosen]PB[Maja Catipovic]AW[ec][fc][gc][cd][dd][ed][be][ee][fe][cf][df][gf][lf][bg][eg][gg][lg][bh][fh][hh][ih][kh][ai][hi][ji][ej][fj][gj][hj][jj][ck][dk][kk][al][bl][el][fl][kl][cm]AB[eb][fb][bc][cc][dc][hc][bd][fd][gd][jd][ge][he][le][ff][kf][cg][dg][ig][jg][ch][eh][jh][bi][di][ei][fi][gi][ii][bj][cj][dj][ij][ak][bk][ek][fk][gk][hk][ik][gl][jl]TR[kl]C[White is down on points so he must resort to drastic measures: he plays at L2 to limit the eyespace of, and kill, the marked black stones. How can black punish white?]PL[B]MA[ii][ij][ek][fk][gk][hk][ik][gl][jl]
+(;B[hf]CR[hf]
+(;W[fg]CR[fg]
+(;B[hg]CR[hg]
+(;W[ef]CR[ef]
+;B[gh]LB[ff:A]CR[gh]C[Black successfully exploits the aji at A by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[gh]CR[gh]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;B[gh]CR[gh]
+;W[hg]CR[hg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;W[hg]CR[hg]
+;B[gh]CR[gh]
+(;W[ef]CR[ef]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[fg]CR[fg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;W[gh]CR[gh]
+;B[hg]CR[hg]
+(;W[ef]CR[ef]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[fg]CR[fg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;W[ef]CR[ef]
+(;B[hg]CR[hg]
+(;W[fg]CR[fg]
+;B[gh]LB[ff:A]CR[gh]C[Black successfully exploits the aji at A by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[gh]CR[gh]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;B[gh]CR[gh]
+(;W[hg]CR[hg]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[fg]CR[fg]
+;B[hg]LB[ff:A]CR[hg]C[Black successfully exploits the aji at A by creating a shortage of liberties for white. CHOICE RIGHT]))))
+(;B[hg]CR[hg]
+(;W[gh]CR[gh]
+;B[hf]CR[hf]
+(;W[fg]CR[fg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[ef]CR[ef]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT]))
+(;W[fg]CR[fg]
+(;B[gh]TR[ff]CR[gh]C[White is forced to sacrifice to save the marked stones, due to the potential shortage of liberties created by black at F8. CHOICE RIGHT]MA[gf][eg][fg][gg][fh])
+(;B[hf]CR[hf]
+(;W[gh]CR[gh]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[ef]CR[ef]
+;B[gh]LB[ff:A]CR[gh]C[Black successfully exploits the aji at A by creating a shortage of liberties for white. CHOICE RIGHT]))))
+(;B[gh]CR[gh]
+(;W[hg]CR[hg]
+(;B[fg]CR[fg]
+;W[ef]CR[ef]
+(;B[hf]TR[ff]CR[hf]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;B[fh]TR[ff]CR[fh]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. The marked stones are dead. CHOICE RIGHT]MA[gf][gg][hg][hh][ih][hi][ej][fj][gj][hj]))
+(;B[hf]CR[hf]
+(;W[ef]CR[ef]
+;B[fg]TR[ff]CR[fg]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[fg]CR[fg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])))
+(;W[fg]CR[fg]
+(;B[hg]TR[ff]CR[hg]C[White is forced to sacrifice to save the marked stones, due to the potential shortage of liberties created by black at F8. CHOICE RIGHT]MA[gf][eg][fg][gg][fh])
+(;B[hf]CR[hf]
+(;W[hg]CR[hg]
+;B[ef]TR[ff]CR[ef]C[Black successfully exploits the aji of the stone at F8 by creating a shortage of liberties for white. CHOICE RIGHT])
+(;W[ef]CR[ef]
+;B[hg]LB[ff:A]CR[hg]C[Black successfully exploits the aji at A by creating a shortage of liberties for white. CHOICE RIGHT])))))

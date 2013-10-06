@@ -1,0 +1,23 @@
+(;GE[endgame]DI[10k]DP[50]SO[cyp2d6]CO[0]GM[1]FF[4]AP[Drago:3.12]SZ[19]CA[UTF-8]PL[W]AB[en][nn][fo][dp][ep][fp][gp][eq][hq][iq][kq][lq][mq][br][cr][dr][gr][ir][jr][kr][bs][js]AW[bn][dn][fn][gn][kn][mn][ao][do][eo][go][no][cp][hp][ip][jp][kp][lp][mp][np][aq][bq][cq][dq][gq][jq][nq][ar][lr][mr][nr][ks][ls][ms][as]
+(;W[er];B[fq]
+(;W[ds];B[fr];W[es];B[fs]
+;W[cs]WV[]C[White can do better.])
+(;W[fr];B[gq]
+(;W[ds];B[fs];W[cs]
+;B[hs]C[White reduces the black territory in sente. RIGHT])
+(;W[fs]
+;B[gs]WV[]C[Black is happy.])
+(;W[gs]
+;B[ds]C[Now white cannot approach this group.];W[hs]
+;B[fs]C[That was too greedy. White has nothing.])
+(;W[es]C[A nice reduction. Thanks to Idan for pointing out this variation. RIGHT]))
+(;W[es];B[fr];W[ds];B[fs]
+;W[cs]WV[]C[There is a better solution])
+(;W[fs];B[fr];W[ds]
+;B[es]C[White has to find a really *big* threat in order to win this ko.])
+(;W[cs]
+(;B[ds];W[fr]
+;B[gq]C[White can't approach. Thanks to Meleenewb for pointing out my error.])
+(;B[fr];W[es];B[fs]
+;W[ds]C[1 pt worse than the solution and black has sente.])))
+(;W[em]WV[]C[Are you serious about that?]))

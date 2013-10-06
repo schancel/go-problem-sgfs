@@ -1,0 +1,51 @@
+(;GE[best move]DI[5d]DP[4]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[eq][dp]AW[fq][fp][hp][ir][jr]AB[jq][jp][kr][np][pp]AW[qn]AE[dn]AB[cn]AE[qq][rp]TR[fq][fp][hp][ir][jr]PL[B]
+(;B[iq]CR[iq]
+;W[hr]CR[hr]
+(;B[fr]CR[fr]
+;W[gr]CR[gr]
+(;B[er]CR[er]
+;W[lr]CR[lr]
+(;B[kq]CR[kq]
+;W[ks]CR[ks]
+(;B[mq]CR[mq]C[RIGHT
+best shape for black, worst for white])
+(;B[lq]CR[lq]
+;W[mr]CR[mr]))
+(;B[lq]CR[lq]
+;W[ks]CR[ks]
+;B[kq]CR[kq]
+;W[mr]CR[mr])
+(;B[ks]CR[ks]
+;W[kq]CR[kq]
+;B[lq]CR[lq]
+;W[kp]CR[kp]
+;B[lp]CR[lp]
+;W[ko]CR[ko]
+;B[mr]CR[mr]
+;W[jo]CR[jo]))
+(;B[hq]CR[hq]
+;W[er]CR[er]))
+(;B[hq]CR[hq]
+;W[gr]CR[gr]LB[fr:A]C[this stops the hane at A])
+(;B[lq]CR[lq]
+;W[er]CR[er]))
+(;B[hq]CR[hq]
+;W[iq]CR[iq]
+(;B[ip]CR[ip]
+;W[hr]CR[hr]C[white is strong])
+(;B[hr]CR[hr]
+;W[gr]CR[gr]))
+(;B[fr]CR[fr]
+;W[gr]CR[gr]
+;B[er]CR[er]LB[iq:A][hq:B]C[now white can block A at B])
+(;B[gr]CR[gr]
+;W[fr]CR[fr]
+;B[iq]CR[iq]
+;W[hr]CR[hr])
+(;B[hr]CR[hr]
+;W[gr]CR[gr])
+(;B[js]CR[js]
+;W[iq]CR[iq])
+(;B[ho]CR[ho]
+;W[er]CR[er]))

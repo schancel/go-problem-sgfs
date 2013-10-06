@@ -1,0 +1,47 @@
+(;GE[life and death]DI[2d]DP[12]SO[lok]CO[8]AB[jr]AB[jq]AB[jp]AB[io]AB[ho]AB[hp]AB[gq]AB[gr]AB[gp]AW[in]AW[hn]AW[go]AW[gn]AW[fp]AW[fq]AW[fr]AW[jn]AW[ko]AW[kp]AW[kq]AW[kr]C[White to kill.]AW[dr]AW[mr]AP[goproblems]
+(;W[js]
+(;B[is]C[CHOICE]
+(;W[gs]
+(;B[iq]C[CHOICE];W[hr]C[^^RIGHT])
+(;B[ir]
+(;W[iq])
+(;W[hs])))
+(;W[iq];B[gs]
+(;W[ir];B[ks]
+(;W[hr];B[hq]C[Seki :(])
+(;W[jo];B[hr]))
+(;W[ks];B[ir])
+(;W[hr];B[ir];W[hq]C[Seki :(]))
+(;W[hr];B[gs];W[ir];B[iq];W[hs];B[hq])
+(;W[ir];B[iq]
+(;W[hr];B[gs])
+(;W[hs];B[hr]))
+(;W[hs];B[gs];W[ir];B[iq]
+(;W[hr])
+(;W[ks];B[hr])))
+(;B[gs];W[is])
+(;B[ir];W[iq])
+(;B[iq];W[hr];B[is];W[gs]))
+(;W[iq];B[gs]
+(;W[js];B[is])
+(;W[ir];B[is];W[hr];B[hq])
+(;W[is];B[js];W[ir];B[hr]C[Seki :(]))
+(;W[gs];B[hs]
+(;W[js];B[ir]TR[hq]TR[iq]C[Miai for life.])
+(;W[iq];B[ir]TR[hq]TR[js]C[Miai for life.])
+(;W[ir];B[iq];W[hr];B[js]TR[hr]TR[ir]C[The white stones can't escape.])
+(;W[is];B[fs];W[hr];B[ir];W[gs];B[js];W[es];B[hq])
+(;W[hr];B[fs]
+(;W[is])
+(;W[ir];B[iq]MA[hr]MA[ir]C[The white stones can't escape.])))
+(;W[ir];B[iq]
+(;W[hr];B[gs];W[js];B[is])
+(;W[js];B[hr]))
+(;W[hr];B[gs]
+(;W[js];B[is])
+(;W[ir];B[iq])
+(;W[iq];B[ir];W[hq];B[js]))
+(;W[is];B[js]
+(;W[gs];B[ir];W[hs];B[hr];W[fs];B[iq])
+(;W[ir];B[iq];W[gs];B[hs];W[hr];B[hq]))
+(;W[hs];B[iq];W[hr];B[gs];W[js];B[is];W[ir]))

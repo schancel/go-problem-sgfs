@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[12k]DP[55]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fc][dd][ed][fd][id][ce][fe][ff][bg][cg][dg][di]AB[bc][dc][ec][cd][be][de][ef][fg][gg][gi]LB[de:1]C[black cuts at 1. please connect the two white groups]PL[W]
+(;W[df]CR[df]
+;B[cf]CR[cf]
+(;W[eg]CR[eg]C[RIGHT])
+(;W[ee]CR[ee]
+;B[eg]CR[eg]C[ko])
+(;W[bf]CR[bf]
+;B[eg]CR[eg]))
+(;W[eg]CR[eg]
+;B[cf]CR[cf]
+;W[df]CR[df]C[RIGHT])
+(;W[cf]CR[cf]
+;B[eg]CR[eg])
+(;W[ee]CR[ee]
+;B[df]CR[df]
+(;W[cf]CR[cf]
+;B[eg]CR[eg])
+(;W[eg]CR[eg]
+;B[cf]CR[cf])))

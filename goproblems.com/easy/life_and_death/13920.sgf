@@ -1,0 +1,30 @@
+(;GE[life and death]DI[8k]DP[47]SO[osiris]CO[0]AB[bd]AB[cd]AB[be]AB[bf]AB[de]AB[df]AB[cg]AB[ch]AB[bi]AB[cj]AB[ck]AB[dk]AB[ej]AB[gj]AB[gh]AB[gf]AB[gg]AB[gd]AB[fd]AB[ed]AW[bc]AW[cc]AW[ad]AW[dc]AW[dd]AW[ec]AW[fc]AW[hc]AW[hd]AW[if]AW[ih]AW[ee]AW[ef]AW[fg]AW[dg]AW[dh]AW[di]AW[dj]AW[ci]AW[ek]AW[gl]AW[dl]AW[cl]LB[dk:1]LB[ek:2]LB[ej:3]C[Black pushes with 1 and cuts with 3. How does white save his group so he can continue attacking black?]AB[kc]AB[oc]AB[qd]AB[qh]AB[pi]AB[ql]AB[ol]AW[qj]AB[sr]AB[rr]AB[rq]AB[rp]AB[qp]AB[pq]AB[oq]AB[or]AB[ps]AB[qs]AW[qr]AW[rs]AB[ns]AW[ms]AW[nr]AW[nq]AW[np]AW[op]AW[po]AW[qo]AW[ro]AW[sp]AW[sq]AW[dp]AW[eq]AB[gq]AB[go]AB[jr]AW[jp]AB[fh]AP[goproblems]
+(;W[cf];B[ce]
+(;W[bj];B[bk];W[bh];B[aj];W[bg]
+(;B[cf]
+(;W[af]C[Nice, you've found the tesuji. Black will want to continue with A.RIGHT]LB[bl:A])
+(;W[ae]C[RIGHT])))
+(;W[bh];B[bg];W[bj];B[ah];W[bk]C[Black may be alive but White is now very thick facing the left edge and Black's groups are under a lot of trouble.RIGHT]))
+(;W[bh];B[bj]
+(;W[cf];B[ce];W[bg];B[cf];W[af]C[RIGHT])
+(;W[bg];B[cf];W[af];B[ah]))
+(;W[bk];B[bj]C[White can't capture the black group anymore.])
+(;W[ae];B[bh])
+(;W[af];B[ag]
+(;W[bj];B[bk];W[bh];B[aj])
+(;W[bh];B[bj];W[ah];B[ae]))
+(;W[bj];B[bk];W[bh];B[aj]
+(;W[bg];B[cf];W[af];B[ah])
+(;W[cf];B[ce];W[bg]
+(;B[cf];W[af]C[RIGHT])))
+(;W[fj];B[ei]
+(;W[fi];B[eh])
+(;W[eh];B[eg]))
+(;W[fi];B[ei]
+(;W[eh];B[eg])
+(;W[fj];B[eh]))
+(;W[ei];B[fj])
+(;W[eh];B[ei])
+(;W[ge];B[fe]
+(;W[he]TR[ff]C[If white plays at the marked point he will put himself into atari.])
+(;W[ff];B[eg])))

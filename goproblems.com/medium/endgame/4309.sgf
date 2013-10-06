@@ -1,0 +1,35 @@
+(;GE[endgame]DI[3d]DP[9]SO[kochi]CO[4]AW[qp]AW[pp]AB[op]AB[np]AB[nq]AB[nr]AB[or]AB[pq]AB[po]AW[oo]AW[no]AW[mo]AW[mp]AW[mq]AW[mr]AW[ms]AB[ns]AB[pn]AW[on]AW[ol]AW[om]AB[qq]AB[qn]AB[rn]AB[sn]AB[sk]AB[sl]AB[sm]AW[pj]AW[ok]AB[rk]AB[si]AB[sh]AW[rg]AB[sj]AW[rf]AW[sf]AB[rj]AB[ri]AB[rh]AW[qg]AB[qj]AB[qk]AB[qi]AB[qh]AW[pi]AW[ph]AW[pg]AW[pk]AB[qm]AB[ql]AB[rl]AB[rm]AB[pm]AB[pl]AP[goproblems]
+(;W[rp];B[rq]
+(;W[sp];B[sq]C[seki, but you could have done 2 points better.])
+(;W[sq]
+(;B[sp]C[CHOICE];W[so]
+(;B[sr]
+(;W[ro]C[];B[sp]C[good, you've got a lot to gain and not much to lose with this ko.  B's first T4 was a mistake, After your T3 B should T2 and force a seki instead.RIGHT])
+(;W[qo];B[sp]C[good, you've got a lot to gain and not much to lose with this ko.  B's T4 after your T3 was a mistake, T2 is better to force a seki.RIGHT])
+(;W[sp];B[ro]C[oops])
+(;W[rr];B[sp]C[ko for all the B stones, but not the best one.  If you win this ko, B will play S5 and you can't connect, you will have to win another ko.];W[sq];B[ro];W[ss];B[sp])
+(;W[sg];B[sp]C[this ko is good for you.RIGHT]))
+(;B[ro]
+(;W[sp];B[sr])
+(;W[qo];B[sp])
+(;W[sg];B[sp]C[right, this is a good ko for W.])))
+(;B[sr]C[CHOICE]
+(;W[sp];B[rr]C[the best sente seki, good.RIGHT])
+(;W[so];B[ro]C[oops.];W[rr];B[sp])
+(;W[rr];B[sp])))
+(;W[so];B[sq]
+(;W[sg];B[sp]
+(;W[qo];B[ro])
+(;W[ro];B[qo]))
+(;W[sp]C[seki, but not the best one.]))
+(;W[ro];B[sp])
+(;W[qo];B[sp]))
+(;W[rq];B[rp]
+(;W[sp];B[qo])
+(;W[rr];B[qr]))
+(;W[sp];B[rp])
+(;W[ro];B[rp])
+(;W[qo];B[rp])
+(;W[sg];B[rp])
+(;W[sq];B[rp])
+(;W[so];B[rp]))

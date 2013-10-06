@@ -1,0 +1,56 @@
+(;GE[tesuji]DI[1d]DP[16]SO[Field Mouse]CO[0]SZ[6]AB[da]C[Rules example: If you play A6, A5, A4, B4, C4, C5, C6 or B6, you lose as that stone would touch the B5 stone.]AB[bb]AW[af]AW[cf]AW[ee]AP[goproblems]
+(;B[fa];W[dc]
+(;B[fc];W[bd]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[bd];W[fc]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[ad];W[fc]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[dc];W[fc]
+(;B[fa];W[bd]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[bd];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[ad];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[ec];W[cd]
+(;B[fa];W[ad]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[ad];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[cd];W[ec]
+(;B[fa];W[ad]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[ad];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[fc];W[cd]
+(;B[ad];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[fa];W[ad]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[fb]
+(;W[bd]C[CHOICE];B[dc];W[aa]C[Good, white had to play a stone that touches another one, you win! :)RIGHT]TR[bb])
+(;W[dc]
+(;B[bd];W[aa]C[RIGHT])
+(;B[ad];W[cd]C[RIGHT]))
+(;W[ad]
+(;B[cd]C[RIGHT])
+(;B[dc]C[RIGHT]))
+(;W[cd];B[ad]C[RIGHT]))
+(;B[ad];W[ec]
+(;B[fa];W[cd]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[cd];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[bd];W[fc]
+(;B[dc];W[fa]C[Now you will have to play a stone that will touch another one - you lost! :(])
+(;B[fa];W[dc]C[Now you will have to play a stone that will touch another one - you lost! :(]))
+(;B[dd]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[ed]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[eb]C[This stone touches the marked one - you lost! :(]TR[da])
+(;B[ea]TR[da]C[This stone touches the marked one - you lost! :(])
+(;B[be]TR[af]TR[cf]C[This stone touches the marked ones - you lost! :(])
+(;B[ce]TR[cf]C[This stone touches the marked one - you lost! :(])
+(;B[cc]TR[bb]C[This stone touches the marked one - you lost! :(])
+(;B[bc]TR[bb]C[This stone touches the marked one - you lost! :(])
+(;B[ac]TR[bb]C[This stone touches the marked one - you lost! :(])
+(;B[db]TR[da]C[This stone touches the marked one - you lost! :(])
+(;B[cb]TR[bb]TR[da]C[This stone touches the marked ones - you lost! :(])
+(;B[ca]TR[bb]TR[da]C[This stone touches the marked ones - you lost! :(])
+(;B[ba]TR[bb]C[This stone touches the marked one - you lost! :(])
+(;B[aa]C[This stone touches the marked one - you lost! :(]TR[bb])
+(;B[ab]TR[bb]C[This stone touches the marked one - you lost! :(])
+(;B[fd]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[fe]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[ff]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[ef]TR[ee]C[This stone touches the marked one - you lost! :(])
+(;B[ae]TR[af]C[This stone touches the marked one - you lost! :(])
+(;B[df]TR[cf]TR[ee]C[This stone touches the marked ones - you lost! :(])
+(;B[de]TR[cf]TR[ee]C[This stone touches the marked ones - you lost! :(])
+(;B[bf]TR[af]TR[cf]C[This stone touches the marked ones - you lost! :(]))

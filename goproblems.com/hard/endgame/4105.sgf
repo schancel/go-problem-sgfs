@@ -1,0 +1,96 @@
+(;GE[endgame]DI[5d]DP[5]SO[wtd]CO[9]SZ[11]AW[dc][jc][dd][de][ee][fe][ge][he][ie][je][ke][ef][if][hg][jg][eh][fh][gh][hh][ii][ij][ik]
+AB[fa][cb][cc][cd][ce][df][ff][gf][bg][dg][eg][fg][dh][bi][di][ei][fi][dj][gj][hj][dk][fk][hk]LB[fa:M]
+C[No komi, no prisoners yet - White to win.]
+
+
+
+(;W[db];B[da]
+
+(;W[eb];B[ea];W[gb];B[ga];W[fb];B[ha];W[ib];B[ia];W[ja];B[hb];W[hc];B[ca]LB[db:B][eb:A]
+C[You lost by 2, the best result starting at 'B'. 1st move 'A' allows a win by 1.])
+
+(;W[gb];B[ga];W[eb];B[ea];W[hb];B[ha];W[ib];B[ia];W[ja];B[fb];W[fc];B[ca]LB[db:B][eb:A]
+C[You lost by 2, the best result starting at 'B'. 1st move 'A' allows a win by 1.])
+
+(;W[fb];B[ga]
+(;W[ea];B[eb];W[ec];B[ea];W[gb];B[ha];W[ib];B[ia];W[ja];B[hb];W[hc];B[ca]LB[db:B][eb:A]
+C[You lost by 4, 2 points worse than the best result starting at 'B'. 1st move 'A' allows a win by 1.])
+
+(;W[eb];B[ea];W[hb];B[ha];W[ib];B[ia];W[ja];B[gb];W[gc];B[ca]LB[db:B][eb:A]
+C[You lost by 2, the best result starting at 'B'. 1st move 'A' allows a win by 1.])))
+
+
+
+(;W[eb];B[ea]
+
+
+(;W[gb]
+(;B[fb]C[CHOICE]
+(;W[db];B[da];W[fc];B[ga];W[ha];B[ca]
+(;W[hb]C[RIGHT You won by 1, the best result.])
+(;W[hc]C[RIGHT You won by 1, the best result.])
+(;W[ib]C[RIGHT You won by 1, the best result.])
+(;W[ia]C[NOTTHIS])(;W[ja]C[NOTTHIS])(;W[jb]C[NOTTHIS]))
+(;W[fc];B[db];W[ec];B[ga];W[ha];B[da];W[hb]LB[db:A][fc:B]C[You lost by 1. Your 1st 2 moves were correct, but your 3rd 
+should have been at 'A' rather than 'B'.]))
+
+(;B[da]C[];W[ga];B[fb];W[fc];B[db];W[ec]C[RIGHT You won by 1, the best result.])
+
+(;B[ga]C[CHOICE]
+(;W[da];B[db];W[ha];B[ca];W[fb];B[da]
+(;W[hb]C[RIGHT You won by 1, the best result.])
+(;W[hc]C[RIGHT You won by 1, the best result.])
+(;W[ib]C[RIGHT You won by 1, the best result.])
+(;W[ia]C[NOTTHIS])(;W[ja]C[NOTTHIS])(;W[jb]C[NOTTHIS]))
+(;W[ha];B[da];W[hb];B[fb];W[fc];B[db];W[ec]LB[da:A][ha:B]C[You lost by 1. Your 1st 2 moves were correct, but your 3rd 
+should have been at 'A' rather than 'B'.]))
+
+(;B[db]C[];W[fb];B[ga];W[ha];B[da]
+(;W[hb]C[RIGHT You won by 1, the best result.])
+(;W[hc]C[RIGHT You won by 1, the best result.])
+(;W[ib]C[RIGHT You won by 1, the best result.])
+(;W[ia]C[NOTTHIS])(;W[ja]C[NOTTHIS])(;W[jb]C[NOTTHIS])))
+
+
+(;W[da];B[db];W[fb];B[ga];W[hb];B[ha];W[ia];B[ca];W[gb];B[da];W[ib]LB[gb:A][da:B]
+C[You lost by 1. Your 1st move was correct, but your 2nd should have been at 'A' rather than 'B'.])
+
+
+(;W[fb];B[ga];W[db];B[da];W[hb];B[ha];W[ib];B[ia];W[ja];B[gb];W[gc];B[ca]LB[fb:B][gb:A]
+C[You lost by 2. Your 1st move was correct, but your 2nd should have been at 'A' rather than 'B'.])
+
+
+(;W[db];B[da];W[gb];B[ga];W[hb];B[ha];W[ib];B[ia];W[ja];B[fb];W[fc];B[ca]LB[db:B][gb:A]
+C[You lost by 2. Your 1st move was correct, but your 2nd should have been at 'A' rather than 'B'.]))
+
+
+
+(;W[fb];B[ga]
+
+
+(;W[db];B[da];W[eb];B[ea]
+(;W[hb];B[ha];W[ib];B[ia];W[ja];B[gb];W[gc];B[ca]LB[eb:A][fb:B][ec:C][ga:D]
+C[You lost by 2, the best result starting at 'B'. 1st move 'A' allows a win by 1._______ 1st move 'B' is probably 
+the commonest defence against the monkey jump, but it requires a friendly stone at 'C' in the starting 
+position, to prevent the intruder pushing to 'D' without being cut off.])
+
+(;W[gb];B[ia];W[hb];B[ha];W[ib];B[ja];W[jb];B[ka];W[kb];B[ca]LB[eb:A][fb:B][ec:C][ga:D]
+C[You lost by 4, 2 points worse than the best result starting at 'B'. 1st move 'A' allows a win by 1._______ 1st 
+move 'B' is probably the commonest defence against the monkey jump, but it requires a friendly stone at 'C' 
+in the starting position, to prevent the intruder pushing to 'D' without being cut off.]))
+
+(;W[eb];B[ea];W[db];B[da];W[hb];B[ha];W[ib];B[ia];W[ja];B[gb];W[gc];B[ca]LB[eb:A][fb:B][ec:C][ga:D]
+C[You lost by 2, the best result starting at 'B'. 1st move 'A' allows a win by 1._______ 1st move 'B' is probably 
+the commonest defence against the monkey jump, but it requires a friendly stone at 'C' in the starting 
+position, to prevent the intruder pushing to 'D' without being cut off.])
+
+(;W[ea];B[eb]LB[ec:A]C[You needed a friendly stone at 'A' in the starting position, to play this defence.]))
+
+
+(;W[gb];B[db]
+
+(;W[eb];B[fb];W[fc];B[ea];W[ec];B[ga];W[ha];B[da];W[hb]LB[eb:A][gb:B]
+C[You lost by 1, the best result starting at 'B'. 1st move 'A' allows a win by 1.])
+
+(;W[fb];B[eb];W[ec];B[ga];W[ha];B[ea];W[hb]LB[eb:A][gb:B]
+C[You lost by 1, the best result starting at 'B'. 1st move 'A' allows a win by 1.])))

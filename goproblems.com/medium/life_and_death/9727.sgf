@@ -1,0 +1,31 @@
+(;GE[life and death]DI[2d]DP[13]SO[kaf]CO[8]AB[cq]AB[dq]AB[eq]AB[dr]AB[es]AB[fs]AB[fr]AW[fq]AW[gq]AW[gr]AW[gs]AB[fp]AB[gp]AB[hp]AB[ip]AB[ir]AW[ep]AW[dp]AW[cp]AW[bp]AW[br]AW[cs]C[Can black live here? It seems impossible ...]AW[bn]AP[goproblems]
+(;B[bq]
+(;W[ds]C[CHOICE]
+(;B[ar]
+(;W[er]C[CHOICE]
+(;B[bs]C[yes, ko is the best black can do here.RIGHT])
+(;B[es]
+(;W[bs];B[fr];W[fs];B[er];W[ap];B[aq]C[RIGHT])
+(;W[fs]C[CHOICE];B[bs]C[koRIGHT]))
+(;B[fs];W[cr])
+(;B[fr]
+(;W[bs];B[es])
+(;W[fs]C[CHOICE])))
+(;W[bs];B[er];W[ap];B[aq]C[obviously, white group dies firstRIGHT]TR[gs]TR[gr]TR[gq]TR[fq]))
+(;B[cr];W[er])
+(;B[bs];W[as])
+(;B[aq];W[er])
+(;B[er];W[aq]))
+(;W[aq];B[cr]C[];W[bs];B[ar]C[RIGHT])
+(;W[cr];B[ar]C[RIGHT]))
+(;B[ds];W[bq])
+(;B[hr];W[ds])
+(;B[cr];W[bs];B[bq];W[ds])
+(;B[bs];W[cr]C[thanks to Blyx and Kanashimi]
+(;B[bq];W[as]
+(;B[aq];W[ds])
+(;B[ds];W[aq]))
+(;B[ds];W[bq]))
+(;B[hq];W[ds])
+(;B[hs];W[ds])
+(;B[ar];W[bq]))

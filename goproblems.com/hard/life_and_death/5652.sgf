@@ -1,0 +1,50 @@
+(;GE[life and death]DI[4d]DP[7]SO[santa c]CO[7]AB[ar]AB[br]AB[cq]AB[cp]AB[co]AB[cn]AB[do]AB[bm]AB[am]AW[al]AW[bl]AW[cm]AW[ck]AW[dm]AW[dn]AW[en]AW[eo]AW[dp]AW[dq]AW[dr]AW[cr]AW[bs]C[In how many ways can all of black live?FORCE]LB[dk:0]LB[ek:1]LB[el:2]AP[goproblems]
+(;B[el];W[ek]C[Correct! One which remains from the previous problem (marked A) where the shape is located on the side and the other...?]LB[bo:A]
+(;B[bo]C[NOTTHISRIGHT])
+(;B[bn]
+(;W[ao]
+(;B[bp];W[ap];B[aq];W[cs]
+(;B[bo];W[as];B[an]C[Correct! Being close to the corner denies White the fast aproach! Well done! :)RIGHT])
+(;B[an];W[as];B[bo]C[Correct! Well done! :)RIGHT]))
+(;B[ap];W[bp]
+(;B[bq];W[aq]MA[ap]C[:(])
+(;B[bo];W[aq]C[:(])
+(;B[aq];W[bo]C[:(]))
+(;B[bq];W[ap]C[:(])
+(;B[aq];W[bp]TR[ap]TR[bo]C[:(])
+(;B[bo];W[ap]C[:(]))
+(;W[bp];B[ao]C[RIGHT])
+(;W[ap];B[ao]C[RIGHT]))
+(;B[ao];W[bn]
+(;B[an];W[ap];B[bo];W[bq]C[:(])
+(;B[bp];W[an]C[:(]TR[bo]TR[aq])
+(;B[bo];W[an]C[:(])
+(;B[ap];W[an]C[:(]TR[bo]TR[bq])
+(;B[bq];W[an]C[:(]TR[bo]TR[ap]))
+(;B[an];W[ao]
+(;B[bn];W[ap]C[:(])
+(;B[bo];W[ap]C[:(])
+(;B[ap];W[bn]C[:(]TR[bo]TR[bq])
+(;B[bp];W[bn]C[:(]))
+(;B[ap];W[bn]
+(;B[bo];W[an];B[bq]C[No! As a whole! No point in give away points! :(])
+(;B[ao];W[an]C[:(])
+(;B[bq];W[bo]C[:(])
+(;B[an];W[ao]C[:(]TR[bp]TR[bq]))
+(;B[bp];W[bn]
+(;B[ao];W[an]C[:(]TR[bo]TR[aq])
+(;B[bo];W[an]C[:(]TR[aq]TR[ao])
+(;B[an];W[ao]C[:(])
+(;B[aq];W[an]C[:(]TR[ao]TR[bo]))
+(;B[bq];W[bn]
+(;B[bo];W[ap]TR[ao]TR[an]C[:(])
+(;B[ap];W[bo]C[:(])
+(;B[an];W[ao]C[:(])
+(;B[ao];W[an]C[:(]TR[bo]TR[ap]))
+(;B[aq];W[bn]
+(;B[bo];W[an]C[:(]TR[bp]TR[ao])
+(;B[an];W[ao]C[:(])
+(;B[ao];W[an]C[:(]TR[bo]TR[bp])
+(;B[bp];W[an]C[:(]TR[bo]TR[ao])))
+(;B[dk]C[Corrent anwser is 2. One from the previous problem and B6 because W can't play A1 right away. Use 'Navigate Solution' under 'Show Solution' to see one of the correct paths and see the previous problem for the other.])
+(;B[ek]C[Corrent anwser is 2. One from the previous problem and B6 because W can't play A1 right away. Use 'Navigate Solution' under 'Show Solution' to see one of the correct paths and see the previous problem for the other.]))

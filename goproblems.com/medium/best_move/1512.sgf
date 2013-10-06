@@ -1,0 +1,32 @@
+(
+;GE[best move]DI[1k]DP[19]SO[Imperateur]CO[5]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.10]
+AB[qd][po][pq][gp][fq][cq][cp][br][bo][bn][ap][do][dd][de][fc][fd][ge][he][ff][id][jd][jc]
+AW[cc][ce][cf][dh][gh][gf][hf][ie][hd][gc][ic][fb][co][cn][cm][bm][eo][dp][dq][cr][iq][mq]
+GN[prob-2]
+;
+B[if]
+;
+W[je]
+(
+;
+B[ig]
+;
+W[hh]
+;
+B[ke]
+C[RIGHTThis move both save's Black's group and creates a bit of thickness facing his komoku]
+)
+(
+;
+B[ke]
+;
+W[jf]
+;
+B[ig]
+C[RIGHTThis move both save's Black's group, and create's a bit of thickness facing his komoku.]
+)
+)

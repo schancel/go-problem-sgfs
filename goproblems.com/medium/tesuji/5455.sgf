@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[2d]DP[13]SO[nutcase]CO[6]AB[je]AB[jd]AB[kd]AB[lc]AB[mc]AB[mb]AB[nb]AB[oc]AB[pc]AW[ke]AW[kc]AW[ld]AW[md]AW[ob]AW[nc]AW[nd]AW[od]AW[qg]AW[qe]SZ[19];W[pb];B[qc];W[qb];B[rb]
+(;W[kb];B[qa]C[Wrong.])
+(;W[rc];B[rd]
+(;W[qd];B[sc];W[pd];B[rc]C[Wrong.])
+(;W[sc];B[sd];W[qd];B[sb];W[rc];B[sc];W[pd];B[rc];W[na];B[kb];W[ra];B[re];W[rf];B[sf];W[sg];B[pa]
+(;W[se]C[, Unfaourable approach ko for black.RIGHT])
+(;W[qa]C[RIGHT])
+(;W[oa]C[RIGHT]))))

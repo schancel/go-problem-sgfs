@@ -1,0 +1,51 @@
+(;GE[tesuji]DI[10k]DP[50]SO[dimitre]CO[0]AB[ak]AB[bj]AB[cj]AB[ck]AB[bl]AB[bm]AB[bn]AB[cn]AB[dn]AB[ep]AB[fo]AB[gn]AB[gm]AB[fm]AB[hm]AB[im]AB[di]AB[ei]AB[ej]AW[ci]AW[bi]AW[dg]AW[cf]AW[dj]AW[dk]AW[ek]AW[fj]AW[cl]AW[gk]AW[fl]AW[hl]AW[ik]AW[il]AW[jk]AW[ij]AB[hk]AB[hj]AB[hi]AB[ii]AW[ji]AW[kj]AW[lj]AB[ih]AB[hg]AB[if]AB[jf]AB[kf]AB[ke]AB[lf]AB[mf]AB[me]AW[le]AW[md]AW[nd]AW[kd]AW[kc]AW[je]AW[ie]AW[ic]AW[hf]AW[gf]AW[gg]AW[gh]AW[dm]AW[em]AW[en]AW[fn]AB[jl]AB[kk]AB[lk]AW[mk]AB[ll]AB[lm]AB[ln]AB[kn]AB[jn]AW[nj]AW[oi]AW[nh]AW[mh]AW[lh]AW[lg]AB[mg]AB[ng]AB[og]AB[of]AB[oh]AB[pi]AB[pj]AW[ph]AB[pf]TR[di]TR[ei]TR[ej]C[B to do something useful using the marked stones.]AP[goproblems]
+(;B[fi];W[gi]
+(;B[gj]
+(;W[fk]C[CHOICE]
+(;B[gl]
+(;W[jj]C[CHOICE]
+(;B[dl];W[el]
+(;B[eo];W[dh];B[cm];W[fh];B[dl]C[B connects!!RIGHT])
+(;B[cm];W[dh];B[eo]))
+(;B[el];W[dl]
+(;B[eo];W[dh];B[cm];W[fh];B[el]C[B connects!RIGHT])
+(;B[cm];W[dh];B[eo]))
+(;B[cm];W[dh]
+(;B[dl];W[eh];B[el]C[B connects!RIGHT])
+(;B[eo]))
+(;B[eo];W[dh]
+(;B[cm];W[fh];B[dl];W[eh];B[el]C[This is not the best outcome.])
+(;B[dl];W[el])))
+(;W[dh]C[CHOICE];B[jj]C[This variation works for W.RIGHT]))
+(;B[dl];W[gl];B[cm];W[el];B[eo];W[jj]C[So, so wrong.])
+(;B[el];W[gl];B[cm];W[dl]C[What were you thinking?])
+(;B[cm];W[gl];B[dl]))
+(;W[gl]C[CHOICE];B[fk]
+(;W[el]C[CHOICE];B[fj]C[B connects!RIGHT])
+(;W[jg]LB[ig:A]C[Please answer ko threat at A.CHOICEFORCE];B[ig];W[fj]C[A ko fight starts for the stones.RIGHT]TR[di]TR[ei]TR[fi]TR[ej])))
+(;B[gl]
+(;W[jj]C[CHOICE];B[gj];W[fk])
+(;W[dh]C[CHOICE];B[jj];W[gj]C[This works for W.RIGHT])))
+(;B[gi];W[fi];B[gl];W[jj];B[gj]
+(;W[eh]C[CHOICE];B[fk];W[dh]
+(;B[el];W[cm]C[W is connected and B's stones are gone.])
+(;B[dl];W[cm];B[el];W[fl];B[el]C[Wrong.]))
+(;W[fk]C[CHOICE];B[fh];W[eh]C[Wrong.]))
+(;B[gl]C[RIGHT]
+(;W[jj]C[CHOICE]
+(;B[gj];W[fi];B[fk];W[el]
+(;B[eo];W[eh];B[cm];W[gk]C[Wrong.])
+(;B[cm];W[eh];B[eo])
+(;B[fh];W[gk];B[gi];W[fk]
+(;B[eh];W[dh]
+(;B[eo];W[eg];B[cm];W[fg]C[Wrong.])
+(;B[cm];W[eg]
+(;B[eo])
+(;B[dl];W[fg]C[Wrong.])))
+(;B[eo];W[eh]C[Wrong.])
+(;B[cm];W[eh]C[Wrong.])))
+(;B[fi];W[gi])
+(;B[gi];W[fi]))
+(;W[dh]C[Yes, White must sacrifice the stones to save his group on the left.CHOICE];B[jj];W[fi]C[RIGHT]))
+(;B[ch]C[This can work out, but it is an unnecessary move that gives W a stone.])
+(;B[dl];W[fi]C[You get a stone, but W gets your stones. Not a favorable result.]))

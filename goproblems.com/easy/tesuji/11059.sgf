@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[7k]DP[43]SO[sabetts]CO[0]SZ[19]AW[on]AW[qn]AW[no]AW[qo]AW[rp]AW[mq]AW[nq]AW[oq]AW[pq]AW[rq]AW[rr]AW[qs]AB[lo]AB[mp]AB[pp]AB[qp]AB[lq]AB[qq]AB[lr]AB[qr]AB[rs]C[Black to connect]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[os]
+(;W[ns]C[CHOICE];B[nr];W[or];B[ms];W[ss];B[pr]C[RIGHT])
+(;W[ms]C[CHOICE];B[mr];W[nr];B[ns];W[ss];B[pr]C[RIGHT]))
+(;B[ps];W[ns])
+(;B[pr];W[or])
+(;B[or];W[nr]
+(;B[ns];W[ms]
+(;B[ps];W[mr])
+(;B[mr];W[os]))
+(;B[ps];W[ns]))
+(;B[ns];W[os];B[or];W[ms];B[ps];W[mr]))

@@ -1,0 +1,83 @@
+(;GE[best move]DI[5d]DP[4]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[cp][pp]AW[ep]AB[eq]AW[fq]AB[dq]AW[gp]AB[cn]AW[kq]AB[mq]AE[iq]AW[gr]AB[hq][jp]PL[W]LB[hq:1][gr:2][jp:3]C[black has invaded at 1 through 3. how to respond?]
+(;W[jq]CR[jq]
+;B[iq]CR[iq]
+(;W[ir]CR[ir]
+;B[hr]CR[hr]
+(;W[hs]CR[hs]
+;B[jr]CR[jr]
+;W[is]CR[is]
+;B[kp]CR[kp]
+(;W[kr]CR[kr]
+;B[lq]CR[lq]
+(;W[lr]CR[lr]
+;B[mr]CR[mr]C[and to finish...]
+;W[ho]CR[ho]C[RIGHT
+the only sequence])
+(;W[ho]CR[ho]
+;B[lr]CR[lr]
+;W[js]CR[js]C[too bad to let black get this sente])
+(;W[ip]CR[ip]
+;B[lr]CR[lr]))
+(;W[lq]CR[lq]
+;B[lp]CR[lp]
+;W[lr]CR[lr]
+;B[mr]CR[mr]C[bad for white])
+(;W[lr]CR[lr]
+;B[lq]CR[lq]
+;W[kr]CR[kr]
+;B[mr]CR[mr]
+;W[ho]CR[ho]C[RIGHT]))
+(;W[js]CR[js]
+;B[hs]CR[hs]C[cannot let black split white like this]))
+(;W[kp]CR[kp]
+;B[jr]CR[jr]C[now white cannot connect underneath])
+(;W[lp]CR[lp]
+;B[jr]CR[jr]C[now white cannot connect underneath])
+(;W[ip]CR[ip]
+;B[jr]CR[jr]
+(;W[hp]CR[hp]
+;B[kr]CR[kr])
+(;W[kr]CR[kr]
+;B[hp]CR[hp]C[now white cannot connect underneath])))
+(;W[kp]CR[kp]
+;B[jq]CR[jq]
+(;W[jr]CR[jr]
+;B[ir]CR[ir]C[white split])
+(;W[jo]CR[jo]
+;B[kr]CR[kr]
+;W[lr]CR[lr]
+;B[jr]CR[jr]
+;W[lq]CR[lq]
+;B[ko]CR[ko]C[white split]))
+(;W[lp]CR[lp]
+;B[jq]CR[jq]C[white split])
+(;W[jr]CR[jr]
+;B[hr]CR[hr]C[white split])
+(;W[ir]CR[ir]C[too low])
+(;W[ip]CR[ip]
+;B[iq]CR[iq]
+;W[jq]CR[jq]
+;B[hp]CR[hp]
+(;W[io]CR[io]
+;B[ho]CR[ho])
+(;W[ir]CR[ir]
+;B[hr]CR[hr]
+;W[hs]CR[hs]
+;B[jr]CR[jr]
+;W[is]CR[is]
+;B[kr]CR[kr]
+;W[lr]CR[lr]
+;B[lq]CR[lq]
+;W[kp]CR[kp]
+;B[mr]CR[mr]
+;W[jo]CR[jo]
+;B[ho]CR[ho]C[white is split]))
+(;W[iq]CR[iq]
+;B[jq]CR[jq]
+(;W[ir]CR[ir]
+;B[jr]CR[jr]C[good for black])
+(;W[jr]CR[jr]
+;B[ir]CR[ir]
+;W[ip]CR[ip]
+;B[kr]CR[kr]C[good for black])))

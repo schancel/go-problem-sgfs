@@ -1,0 +1,19 @@
+(;GE[life and death]DI[2k]DP[22]SO[Evariste]CO[0]AB[qe]AW[pc]AB[nd]AW[pe]AB[qd]AW[pd]AW[qf]AB[qc]AW[qg]AB[pb]AW[of]AB[oc]AW[pg]AB[lc]AW[po]AB[eq]AW[jp]AB[oq]AW[np]AB[nq]AW[mp]AB[qp]AW[qo]AB[rp]AW[lf]AB[ro]AW[qm]AB[kk]AW[ik]AB[jj]AW[hi]AB[jh]AW[ig]AB[mi]AW[nj]AB[ni]AW[oj]AB[km]AW[im]AB[kf]AB[rb]AW[ld]AB[mc]AB[jg]AW[if]AW[kc]AB[lg]AW[ob]AB[qa]AW[ne]AB[kd]AW[ke]AB[jd]AW[jf]AB[mk]AW[kb]AB[hd]AW[ic]AB[id]AW[hc]AB[gd]AW[fb]AB[ed]AW[fc]AB[fd]AW[cd]AB[dc]AW[cc]AB[db]AW[df]AB[ga]AW[fa]AB[jc]AW[jb]AB[ia]AW[nb]AB[mb]AW[lb]AB[ma]AW[ha]C[White just played h19 to live. Find a way to kill white without ko.]AP[goproblems]
+(;B[hb];W[gb]
+(;B[ib];W[gc]
+(;B[ja];W[ha];B[la];W[ka];B[ib]C[Nice, 'under the stone' tesujiRIGHT])
+(;B[la];W[ha];B[ja]))
+(;B[gc];W[ib];B[ha];W[la]C[White lives.])
+(;B[la];W[ha]
+(;B[ka];W[ib];B[ja];W[gc]C[That's two eyes....])
+(;B[ja];W[ib];B[ka]))
+(;B[ka];W[ib];B[ha];W[la])
+(;B[ha];W[la]C[White lives.]))
+(;B[gb];W[gc];B[hb];W[ib];B[ha];W[la]C[White lives.])
+(;B[ka];W[gb]
+(;B[ib];W[hb];B[la];W[ja])
+(;B[ja];W[ib];B[la]))
+(;B[la];W[gb];B[ka];W[ib])
+(;B[ja];W[gb]
+(;B[la];W[ib])
+(;B[ka])))

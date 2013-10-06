@@ -1,0 +1,9 @@
+(;GE[life and death]DI[8k]DP[48]SO[BostonGo]CO[0]AB[ba]AB[ab]AB[bc]AB[bd]AB[be]AB[bf]AB[bg]AB[ah]AB[bi]AW[ai]AW[aj]AW[bj]AW[cj]AW[cg]AW[cf]AW[dh]AW[de]AW[cd]AW[dc]AW[bb]AW[cb]C[Black to live.]AP[goproblems]
+(;B[ac];W[ag]
+(;B[bh];W[af];B[ae]C[Yes, connecting is the best starting move.RIGHT])
+(;B[af]C[Yes, connecting is the best starting move.RIGHT]))
+(;B[ae];W[ac])
+(;B[ad];W[af])
+(;B[af]C[];W[ac];B[ad]C[Black lives, but the result is not as good as the other solution.RIGHT])
+(;B[ag];W[ac];B[ae];W[ca])
+(;B[bh];W[ac];B[ad];W[af]))

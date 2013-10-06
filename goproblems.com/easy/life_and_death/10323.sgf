@@ -1,0 +1,19 @@
+(;GE[life and death]DI[18k]DP[65]SO[koala]CO[5]AW[qc]AW[qd]AW[rb]AW[re]AW[rf]AB[sg]AB[rg]AB[qg]AB[qf]AB[qe]AB[pd]AB[pc]AB[oe]AB[qb]AB[pb]AW[sc]TR[sc]C[Black to kill, no ko.]AP[goproblems]
+(;B[rd]C[Simple!  Note that white needs 3 moves to live (a, b and c) without interference from black.RIGHT]LB[rc:a]LB[sd:b]LB[sf:c]LB[ra:c])
+(;B[ra];W[rd]C[Only ko.])
+(;B[se];W[rd]
+(;B[sf]TR[sd]TR[ra]C[RIGHT])
+(;B[ra];W[sf]C[Only ko.]))
+(;B[sf];W[rd]
+(;B[ra];W[se]C[Only ko.])
+(;B[se]TR[sd]TR[ra]C[RIGHT])
+(;B[sa];W[ra]))
+(;B[sd];W[rd])
+(;B[sb];W[rd]
+(;B[ra];W[sa]C[Only ko.])
+(;B[sf];W[sa])
+(;B[se];W[sa])
+(;B[sd];W[sa]))
+(;B[sa];W[rd]
+(;B[ra];W[sf]TR[qa]TR[sb])
+(;B[sf];W[ra])))

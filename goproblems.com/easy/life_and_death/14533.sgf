@@ -1,0 +1,30 @@
+(;GE[life and death]DI[7k]DP[42]SO[hudday48]CO[0]AB[db]AB[eb]AB[fb]AB[fc]AB[fd]AB[ge]AB[gf]AB[ga]AB[hd]AB[ic]AB[jc]AB[jb]AW[ca]AW[cb]AW[dc]AW[ec]AW[ce]AW[ee]AW[fe]AW[gd]AW[gc]AW[gb]AW[hb]AW[ib]AW[fa]C[This is my first problem.  Let me know if there are mistakes :-)]AP[goproblems]
+(;B[hc]
+(;W[ja]
+(;B[ka];W[ha]C[White has an awful ko you can do better though!];B[ea];W[da]C[Find a better solution that doesn't give white the compensation of a ko fight])
+(;B[ea]
+(;W[da];B[ha];W[ia];B[ka]C[RIGHT])
+(;W[ed];B[ia];W[ha]C[RIGHT]))
+(;B[ha];W[ia]
+(;B[ea];W[ed];B[ga];W[da])
+(;B[ga];W[ha];B[ea];W[da];B[ga]C[Only a ko :-(])))
+(;W[ha];B[ja]C[RIGHT];W[ea]))
+(;B[ia];W[ha]
+(;B[ja]C[Good job!RIGHT])
+(;B[hc];W[ja];B[ka];W[ea]C[Black can do better then a ko to kill]))
+(;B[ha];W[ia])
+(;B[ea];W[ed]
+(;B[ia];W[da])
+(;B[ha];W[da])
+(;B[hc];W[da])
+(;B[fa];W[da])
+(;B[da];W[fa]))
+(;B[ba];W[bb])
+(;B[da];W[ed])
+(;B[ed];W[dd])
+(;B[cc];W[ed];B[bb];W[da])
+(;B[ja]
+(;W[ed]
+(;B[ha];W[ea])
+(;B[ea];W[da]))
+(;W[ea];B[da];W[fa];B[ha];W[ia];B[hc];W[ed])))

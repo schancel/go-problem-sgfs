@@ -1,0 +1,9 @@
+(;GE[best move]DI[12k]DP[55]SO[adum]CO[6]SZ[19]LB[cd:A]LB[dc:B]LB[pc:C]LB[qd:D]LB[cp:E]LB[dq:F]LB[pq:G]LB[qp:H]C[etiquette problem: first 3-4 move where?FORCE]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]
+(;B[cd]C[wrong corner])
+(;B[dc]C[wrong corner])
+(;B[pc]LB[qd:A]LB[dd:B]LB[pp:C]C[right corner, but A is more polite, as white usually responds B instead of C])
+(;B[qd]C[right corner, right orientationRIGHT])
+(;B[cp]C[wrong corner])
+(;B[dq]C[wrong corner])
+(;B[pq]C[wrong corner])
+(;B[qp]C[wrong corner]))

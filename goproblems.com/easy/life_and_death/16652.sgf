@@ -1,0 +1,13 @@
+(;GE[life and death]DI[6k]DP[38]SO[ptyrna]CO[0]AB[sr]AB[rq]AB[qq]AB[qp]AB[pq]AB[or]AW[nr]AW[oq]AW[np]AW[pp]AW[po]AW[qo]AW[ro]AW[rp]AB[ps]AW[qs]C[White to kill.]AW[mr]AP[goproblems]
+(;W[rs]
+(;B[qr]
+(;W[ns];B[ss]TR[os]C[Black is dead! She can't play the marked stone to make live.RIGHT])
+(;W[rr];B[ss]C[Black is alive!])
+(;W[ss];B[rr]C[Black is alive!])))
+(;W[qr];B[rs];W[ns];B[rr];W[os];B[pr]C[Black is alive!])
+(;W[rr];B[qr]
+(;W[ns];B[rs]C[Black is alive!])
+(;W[rs];B[ss]C[Black is alive!]))
+(;W[ns];B[rs]
+(;W[os];B[qr]C[Black is alive!])
+(;W[qr];B[rr];W[os];B[pr]C[Black is alive!])))

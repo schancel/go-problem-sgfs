@@ -1,0 +1,11 @@
+(;GE[best move]DI[1k]DP[19]SO[ketran0]CO[6]AB[db]AB[dc]AB[cc]AB[bc]AB[bd]AB[ad]AW[ae]AW[be]AB[bf]AW[cd]AW[dd]AW[cf]AW[dg]AW[ef]AB[ff]AB[fg]AB[dh]AB[fh]AB[ch]AB[bh]AB[di]AB[dj]AB[dk]AW[gh]AW[hh]AW[ih]AW[ii]AW[ji]AB[gi]AB[hi]AB[ik]AB[hk]AW[jj]AW[mi]AW[lj]AW[lh]AW[ki]AW[kk]AW[lk]AW[kh]AB[gg]AB[hg]AB[ig]AB[jh]AB[jg]AB[kg]AB[lg]AB[mg]AB[ng]AB[mf]AB[og]AB[of]AB[pf]AB[pe]AB[pd]AB[od]AB[nd]AB[md]AW[oe]AW[ne]AW[me]AW[lf]AW[ld]AW[kd]AW[ke]AW[jd]AW[id]AW[hd]AW[gf]AW[ge]AW[fe]AB[ee]AB[ed]AB[fd]AW[ec]AW[fc]AW[gc]AW[gb]AW[hb]AB[hc]AB[ic]AB[ib]AB[ia]AB[jc]AB[kc]AB[kb]AB[ma]AB[mb]AB[mc]AB[lc]AW[ba]AW[ab]AW[eb]AW[da]AP[goproblems]
+(;B[af];W[ce]
+(;B[eg];W[df];B[cg]C[RIGHT])
+(;B[cg];W[gd];B[eg];W[de]))
+(;B[de];W[ce];B[cg];W[df]C[black lost his chance])
+(;B[ca];W[cb];B[bb];W[ac])
+(;B[eg];W[df]
+(;B[ce];W[de];B[af];W[gd];B[ce]C[black saves his stones in gote; not the best choice])
+(;B[af];W[ce];B[cg]C[RIGHT])
+(;B[cg];W[gd];B[af];W[de];B[ce]C[black saves the corner, but in gote]))
+(;B[ce];W[de];B[af];W[ce];B[cg];W[gd]))

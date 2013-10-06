@@ -1,0 +1,49 @@
+(;GE[tesuji]DI[6k]DP[37]SO[adum]CO[8]GM[1]FF[3]
+CA[UTF-8]SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]
+PW[]
+PB[]
+AB[rb][rc][qc][qd][re][rf][rg]AW[rh]AB[ri][qi]AW[qh][qg][qf][qe]
+AB[ph][oi]AW[pd][pc][pb][qb][ra][of]PL[2]
+C[how should white attack the black stones?]
+(;W[sd]CR[sd];B[sh]CR[sh]
+(;W[rd]CR[rd];B[se]CR[se]
+(;W[sg]CR[sg]C[RIGHT
+black's foolish resistance is futile])
+
+(;W[sf]CR[sf];B[sg]CR[sg])
+)
+
+(;W[sg]CR[sg];B[sf];W[rd]C[RIGHT
+white catches four stones
+])
+
+(;W[se]CR[se];B[rd]CR[rd])
+
+(;W[sb]CR[sb];B[rd]CR[rd])
+)
+
+(;W[sh]CR[sh];B[sd]CR[sd]C[black lives])
+
+(;W[sg]CR[sg];B[sd]CR[sd]
+(;W[sb]CR[sb];B[sf]CR[sf])
+
+(;W[sf]CR[sf];B[se]CR[se];W[sh]CR[sh];B[sb]CR[sb])
+)
+
+(;W[sb]CR[sb];B[sh]CR[sh]
+(;W[sc]CR[sc];B[rd]CR[rd];W[sg]CR[sg];B[sf]CR[sf])
+
+(;W[sg]CR[sg];B[sf]CR[sf];W[sd]CR[sd];B[rd]CR[rd])
+)
+
+(;W[se]CR[se];B[sd]CR[sd])
+
+(;W[sf]CR[sf];B[sh]CR[sh]
+(;W[sd]CR[sd];B[rd]CR[rd])
+
+(;W[sg]CR[sg];B[se]CR[se])
+)
+
+(;W[si]CR[si];B[sd]CR[sd])
+
+)

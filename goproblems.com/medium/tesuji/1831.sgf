@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[3d]DP[9]SO[marcin]CO[9]AB[ob][oc][oa][nd][nc][ne][pd][qd][rc]AW[rb][qc][pc][pb][pa][od][oe][pe][qf][rf]C[Black to play and get a ko (really!)]SZ[19]
+
+(;B[qa];W[qb]
+(;B[ra];W[sa];B[rd];W[sd]
+(;B[ra];W[qa]
+(;B[sb];W[sc];B[se];W[re];B[sb];W[sc];B[sd];W[sf];B[sb]C[RIGHT
+Doesn't it give a new meaning to the word 'throw-in'?])
+(;B[se];W[re];B[sb];W[sc];B[sb];W[sc];B[sd];W[sf];B[sb]C[RIGHT
+Doesn't it give a new meaning to the word 'throw-in'?
+(This is the dual solution with t18 and t15 exchanged)]))
+(;B[se];W[re]
+(;B[sb];W[sc];B[sb];W[sc];B[ra];W[qe]C[Something wrong with order...])
+(;B[sc];W[qe]C[Not working])
+(;B[ra];W[qe]C[Not this way...])))
+(;B[sb];W[ra];B[rd];W[re];B[sc];W[qe];B[sa];W[sd]C[Not the desired outcome...]))
+(;B[rd];W[ra]C[Black is short of liberties]))

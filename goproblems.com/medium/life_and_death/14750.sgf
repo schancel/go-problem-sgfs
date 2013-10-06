@@ -1,0 +1,94 @@
+(;GE[life and death]DI[2d]DP[12]SO[piccolo]CO[0]SZ[9]AW[ae]AW[af]AW[bf]AW[cf]AW[de]AW[ed]AW[ec]AW[eb]AW[ea]AB[ad]AB[be]AB[ce]AB[cc]AB[db]AW[eg]AW[ef]C[*** Both sides have no outside ko threats. *** Best play in the corner ?]AP[goproblems]
+(;B[bd];W[bb]
+(;B[cb];W[ab];B[da];W[ba])
+(;B[da];W[cb];B[dc];W[bc]C[3 VS 4 liberties.])
+(;B[ba];W[cb]MA[da]MA[dc])
+(;B[bc];W[cb]MA[da]MA[dc]))
+(;B[cd];W[bb]
+(;B[cb];W[bc];B[bd];W[da];B[ca];W[ab])
+(;B[da];W[cb];B[dc];W[bc];B[bd];W[ac]C[2 VS 3 liberties.])
+(;B[bc];W[cb]MA[dc]MA[da])
+(;B[ba];W[cb]MA[dc]MA[da]))
+(;B[dd];W[bb]C[Then either C8 connects, or B7-A8 kills.])
+(;B[ac];W[bb]C[Then either C8 connects, or B7-A8 kills.]MA[bc]MA[cb])
+(;B[bc]
+(;W[da]
+(;B[ca]
+(;W[ba]C[CHOICE]
+(;B[bb];W[cb]C[]
+(;B[cd];W[ab];B[ca]C[Right, white has no ko threats, so black is alive.RIGHT])
+(;B[ab];W[cd];B[ca];W[dc]MA[bd]MA[cb]C[]))
+(;B[cb];W[cd]
+(;B[bd];W[ab])
+(;B[bb];W[bd])))
+(;W[ab];B[bb];W[cd];B[dc];W[ba];B[aa]C[RIGHT])
+(;W[bb];B[ab];W[cd];B[ba]C[RIGHT]))
+(;B[bb];W[ba]
+(;B[ca])
+(;B[ab];W[cd]C[];B[ca];W[cb]C[White takes first, so black dies.])
+(;B[cd];W[ab]C[];B[ca];W[cb]C[White takes first, so black dies.]))
+(;B[ba];W[ab];B[cd];W[ac];B[bb];W[bd]C[White takes first, so black dies.])
+(;B[cb];W[cd]MA[ba]MA[ab])
+(;B[cd];W[bb]C[B8 cannot be killed, so black is dead.]))
+(;W[ba];B[bb]
+(;W[cd];B[ca];W[da];B[aa];W[dc];B[cb];W[bd];B[ac]C[RIGHT])
+(;W[da]))
+(;W[ca];B[da];W[cd];B[ba]C[RIGHT])
+(;W[cb];B[bb]
+(;W[ca];B[ba]MA[cd]MA[da]C[RIGHT])
+(;W[cd];B[ca]MA[aa]MA[dc]C[RIGHT]))
+(;W[bb];B[ba];W[ab];B[cb]MA[cd]MA[da]C[RIGHT])
+(;W[cd];B[ba];W[ab];B[da]MA[ca]MA[ab]C[Two eyes.RIGHT]))
+(;B[dc];W[bb]MA[da]MA[bc]C[Miai for connection or kill by shortage of liberties.])
+(;B[ab];W[ba]
+(;B[ca];W[bd]
+(;B[bc];W[cd];B[bb];W[dc];B[aa];W[da])
+(;B[bb];W[cd];B[dc];W[da]
+(;B[bc];W[cb]C[White takes first, so black dies.])
+(;B[aa];W[bc]))
+(;B[cd];W[ac];B[bc];W[ad];B[bb];W[dc]MA[da]C[D19 cannot be played, so white will get it.]))
+(;B[bb];W[bd];B[ca])
+(;B[da];W[bd]
+(;B[bc];W[cd]C[])
+(;B[cd];W[ac];B[bc];W[ad]C[]))
+(;B[cd];W[da]
+(;B[ca];W[bb];B[cb];W[bc]C[Not a seki : black will have to play A7.])
+(;B[bb];W[bc];B[ca];W[cb]C[White takes first, so black dies.])))
+(;B[bb]C[];W[bd]
+(;B[ac];W[cd]
+(;B[ca];W[bc];B[ab];W[da])
+(;B[bc];W[ca];B[da];W[ba]C[]
+(;B[dc];W[aa]C['P' to pass.]LB[ch:P];B[ch];W[dd]LB[bh:P];B[bh];W[ab];B[cb];W[ba];B[aa];W[ab]C[Dead.])
+(;B[aa];W[ab];B[dc];W[aa];B[cb];W[ba];B[aa];W[ab]MA[ca]C[C19 cannot be played, so white will fill, and black dies.])))
+(;B[bc];W[ac]
+(;B[ab];W[ca]C[This is not a ko : if black A6, white C6.])
+(;B[ca];W[ab]))
+(;B[da];W[ab]C[A8 cannot be killed, so black is dead.])
+(;B[ca];W[ab]C[A8 cannot be killed, so black is dead.])
+(;B[ab];W[ca])
+(;B[cd];W[ac]))
+(;B[cb];W[bd]
+(;B[bc];W[ac];B[ab];W[ba];B[ad];W[cd])
+(;B[cd];W[bc]C[Lead to dead shape.]))
+(;B[aa];W[bb]
+(;B[cb];W[bc];B[bd];W[ac];B[cd];W[da])
+(;B[bc];W[cb]MA[da]MA[dc]))
+(;B[ba]C[];W[bc]
+(;B[bd];W[cd];B[dd];W[ac];B[cd];W[cb])
+(;B[ab];W[bd])
+(;B[bb];W[cd]MA[ab]MA[da])
+(;B[da];W[bd]))
+(;B[ca]C[];W[bd]
+(;B[bb])
+(;B[bc];W[ac];B[ab];W[ba];B[bb];W[dc];B[aa];W[da])
+(;B[ab];W[ac];B[bc])
+(;B[cd];W[bc];B[bb];W[ac];B[ab];W[ad]MA[dc]MA[da]))
+(;B[da];W[bd]
+(;B[bb])
+(;B[bc];W[ac];B[ab];W[ba];B[ad];W[cd])
+(;B[ab];W[bb];B[bc];W[ac]
+(;B[ba];W[aa]C[]
+(;B[cb];W[ca];B[cd];W[ad];B[ba];W[ab])
+(;B[cd];W[ca];B[ad];W[cb];B[dc];W[bd]C[No ko threats, black is dead.]))
+(;B[cd];W[ad];B[ba];W[aa]C[No ko threats, black is dead.]))
+(;B[cd];W[ac];B[bc];W[ad];B[ab];W[ba])))

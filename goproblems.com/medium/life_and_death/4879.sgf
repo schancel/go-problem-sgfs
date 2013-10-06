@@ -1,0 +1,35 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[7]AB[cr]AB[cq]AB[dq]AB[fr]AB[fq]AB[do]AB[eo]AB[en]AB[em]AB[gp]AB[go]AW[br]AW[bq]AW[cp]AW[co]AW[bo]AW[dn]AW[dm]AW[el]AW[dk]AW[fm]AW[gm]AW[hn]AW[ho]AW[hp]AW[hq]AW[gr]AW[iq]AW[jq]C[W to kill.]AP[goproblems]
+(;W[ds]
+(;B[er]
+(;W[ep]C[Well done! :)RIGHT])
+(;W[cs];B[ep]C[:(])
+(;W[fn];B[cs]C[:(])
+(;W[dp];B[ep]C[:(])
+(;W[fs];B[ep]C[:(]))
+(;B[cs];W[fs]TR[er]TR[ep]C[RIGHT])
+(;B[ep];W[er]TR[fs]TR[cs]C[RIGHT])
+(;B[fs];W[ep]TR[cs]TR[dp]C[RIGHT])
+(;B[fn];W[dp]TR[ep]C[RIGHT]TR[er])
+(;B[es]C[See problem 4916.RIGHT]))
+(;W[cs];B[ds]C[:(])
+(;W[fs];B[ds]C[:(])
+(;W[es];B[er]C[:(])
+(;W[er];B[es]C[:(]TR[eq])
+(;W[fn];B[er]C[:(])
+(;W[dp];B[ep]C[:(])
+(;W[ep];B[dp]C[]
+(;W[er];B[ds]C[:(]TR[eq]TR[fn])
+(;W[ds];B[es]
+(;W[cs];B[dr]
+(;W[fp];B[eq]C[:(])
+(;W[eq]
+(;B[gq];W[hr];B[fn];W[fp]C[Seki.. :(])
+(;B[fn];W[fp]C[Seki.. :(]))
+(;W[fn];B[eq]C[:(]))
+(;W[er];B[fs]
+(;W[cs];B[eq]C[:(])
+(;W[fn];B[eq]C[:(])
+(;W[eq];B[cs]C[:(]))
+(;W[fn];B[cs]C[:(]))
+(;W[fn];B[eq]C[:(])
+(;W[es];B[fs];W[cs];B[ds];W[dr];B[er]C[:(])))

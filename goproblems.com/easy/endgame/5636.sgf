@@ -1,0 +1,36 @@
+(;GE[endgame]DI[5k]DP[34]SO[mrmoto]CO[8]AB[qr]AB[qq]AB[qp]AB[qn]AB[qm]AB[ql]AB[rl]AB[sl]AB[sk]AB[ro]AW[pr]AW[pq]AW[pp]AW[po]AW[qo]AW[pm]AW[pk]AW[pl]AB[on]AB[pn]AW[oo]AW[nn]AW[om]AW[no]AW[rk]AW[qk]AW[sj]AW[ri]AW[mm]AW[or]AW[lr]AW[lq]AW[lp]AW[mo]C[Best endgame for black?]AP[goproblems]
+(;B[rn];W[qs]
+(;B[rr];W[rs];B[sr]C[8 points])
+(;B[rs];W[ps]
+(;B[rr]C[10 points])
+(;B[sr]C[10 points])))
+(;B[rp];W[qs]
+(;B[rr];W[rs];B[sr]C[8 points])
+(;B[rs];W[ps]
+(;B[rr]C[10 points])
+(;B[sr]C[10 points])))
+(;B[ps]C[This is not an 'honest' move - your greed robs you of a liberty.];W[os]
+(;B[qs]
+(;W[rn]C[CHOICE]
+(;B[rp];W[sm];B[so]C[-9  points :(])
+(;B[sn];W[rp]
+(;B[rq];W[so]C[-40 points! :O])
+(;B[rm];W[rq];B[sp];W[sr]C[-10 points :(])
+(;B[sp];W[so]C[-40 points if you lose the ko, and white has a threat at S3.])))
+(;W[rp]C[CHOICE]
+(;B[rn];W[rq]TR[sm]TR[so]C[-40 points! :O])
+(;B[rq];W[rn];B[sp];W[sm]
+(;B[sn];W[so]C[Not a good ko for black. :|])
+(;B[so]C[-9 points :(]))
+(;B[sp];W[rn]
+(;B[rq];W[sm]
+(;B[so]C[-9 points :(])
+(;B[sn];W[so]C[Not a good ko for black. :|]))
+(;B[sn];W[so]C[-40 points if you lose the ko, and white has a threat at S3.]))))
+(;B[rs];W[qs]C[13 points, but you have to fight a ko for it, and white has nothing to lose. :T]))
+(;B[qs];W[ps]LB[mi:T]C[13 points so far ... T for tenuki?]
+(;B[rn]C[12 points, the best. :)RIGHT])
+(;B[rp]C[12 points, the best. :)RIGHT])
+(;B[mi];W[rp]C[Ack.]))
+(;B[rq]C[Black has protected against S4 and made white R1 gote. This may be either one point better or one point worse than playing R1, depending on whether black gets Q1 or white R1.RIGHT])
+(;B[rr]C[It works, but S3 looks much better.RIGHT]))

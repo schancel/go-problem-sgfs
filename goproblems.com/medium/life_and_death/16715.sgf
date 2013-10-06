@@ -1,0 +1,19 @@
+(;GE[life and death]DI[1d]DP[16]SO[magrock]CO[0]AB[qb]AB[rc]AB[rd]AB[pc]AB[pd]AB[oc]AB[pe]AB[pf]AB[og]AB[ng]AB[mg]AB[lf]AB[le]AB[ld]AB[lc]AB[lb]AW[ma]AW[mb]AW[mc]AW[md]AW[me]AW[mf]AW[nf]AW[oe]AW[nd]AW[ob]AW[pb]AW[qc]AB[oa]AB[la]C[white to live unconditionally]AP[goproblems]
+(;W[na];B[nc]
+(;W[nb];B[pa];W[qa];B[rb];W[pa]C[RIGHT])
+(;W[pa];B[nb])
+(;W[qa];B[nb];W[rb];B[sb])
+(;W[rb];B[qd]
+(;W[nb];B[pa];W[qa];B[pa];W[qc]C[not good enough, black gets a chance to kill you])
+(;W[pa];B[nb])))
+(;W[pa];B[nb];W[na];B[nc])
+(;W[qa];B[nb]
+(;W[rb];B[nc]
+(;W[na];B[sb])
+(;W[sb];B[na]))
+(;W[na];B[pa])
+(;W[nc];B[pa]))
+(;W[rb];B[nb];W[qa];B[nc]
+(;W[na];B[sb])
+(;W[sb];B[na]))
+(;W[nb];B[pa];W[rb];B[qd]))

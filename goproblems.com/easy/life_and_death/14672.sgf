@@ -1,0 +1,21 @@
+(;GE[life and death]DI[30k]DP[93]SO[ctchan]CO[0]AB[jp]AB[ln]AB[lp]AW[mn]AW[mp]AW[mo]AW[ml]AW[lk]AW[jk]AW[il]AW[im]AB[kl]AB[kn]AB[jm]AB[lo]AB[jo]AW[jq]AB[kq]AW[lq]AW[lr]AB[lm]AW[io]AW[ip]C[White to kill.]AW[jr]AW[mk]AP[goproblems]
+(;W[jl];B[ll];W[kp]C[Black is dead.RIGHT])
+(;W[ll];B[jl];W[kp]C[Black is dead.RIGHT])
+(;W[in];B[kp]
+(;W[ll];B[jl];W[jn];B[kk];W[kj]C[Black is dead.RIGHT])
+(;W[jl]
+(;B[jn];W[ll]C[Black is dead.RIGHT])
+(;B[ll];W[jn]C[Black is dead.RIGHT])))
+(;W[kp]C[Black is dead.RIGHT])
+(;W[kk];B[kp]
+(;W[ll];B[jl];W[jn];B[in];W[hn];B[jn]C[Black is alive...])
+(;W[jl];B[ll];W[jn];B[in];W[hn];B[jn]C[Black is alive...])
+(;W[in]
+(;B[jl]C[CHOICE];W[jn];B[ll]C[Black is alive...])
+(;B[ll]C[CHOICE]
+(;W[jl];B[jn]C[Black is alive...])
+(;W[jn];B[jl]C[Black is alive...]))))
+(;W[jn]
+(;B[jl]C[CHOICE];W[kp];B[ko]C[Black is dead.RIGHT])
+(;B[in]C[CHOICE];W[kp];B[hn]C[Not the best solution: black can get out.RIGHT])
+(;B[kp]C[CHOICE];W[jl];B[in];W[hn];B[ll];W[jn]C[Black is dead.RIGHT])))

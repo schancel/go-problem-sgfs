@@ -1,0 +1,26 @@
+(;GE[life and death]DI[7k]DP[40]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[bf][cf][cg][dg][dh][di][dj][ak][bk][ck][dk]
+AB[cc][dc][bd][bg][ah][ch][ci][aj][bj][cj]PL[2]LB[ah:1]
+C[black just played 1. how does white kill black?
+]
+(;W[bi];B[af]
+(;W[ae];B[be]C[only a ko
+])
+
+(;W[be];B[ae])
+)
+
+(;W[af]C[RIGHT
+])
+
+(;W[ae];B[bi])
+
+(;W[be];B[bi])
+
+)

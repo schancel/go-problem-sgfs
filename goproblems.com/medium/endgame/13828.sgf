@@ -1,0 +1,28 @@
+(;GE[endgame]DI[3d]DP[10]SO[darksycthe]CO[0]SZ[13]AW[ac]AW[bc]AW[cc]AW[db]AW[ec]AW[ea]AW[fb]AW[fc]AW[gb]AW[ga]AW[gc]AB[ig]AB[ih]AB[hd]AB[gd]AB[hc]AB[ha]AB[hb]AB[fd]AB[ed]AB[dd]AB[dc]AB[cd]AB[bd]AB[ad]AB[df]AB[cf]AB[be]AB[de]AW[bj]AW[bk]AW[ck]AW[dl]AW[cm]AB[ml]AB[mk]AB[mj]AW[lk]AW[ll]AW[lm]AW[kk]AW[ki]AW[li]AW[mi]AB[lj]AW[ji]AW[jk]AB[hi]AB[hj]AB[il]AB[jl]AB[kl]AB[jh]AB[kh]AB[lh]AB[mh]AW[kc]AW[ke]AW[kd]AB[bi]AB[ci]AB[cj]AB[ek]AB[dk]AB[el]AW[ic]AW[ia]AW[ib]AW[id]AW[ie]AW[if]AW[hg]AB[hh]AW[gg]AW[ge]AW[gf]AW[he]AW[kf]AW[jg]AW[kg]AW[gh]AW[gi]AW[gj]AW[fj]AW[ei]AW[eh]AW[ef]AW[eg]AW[fe]AB[ee]AB[dh]AB[di]AB[dg]AB[ej]AB[fk]AB[gk]AW[km]AB[jm]AW[ld]C[Both Black and White have 2 prisoners. White has a komi of 0.5. Japanese rules. Black to win this game! Note: Please finish the local sequence before moving on to another one. If you want to play either L4 or n1, play n1.]AB[af]AB[bh]AB[ik]AB[ii]AW[jj]AB[ij]AW[jc]AW[kb]AW[ja]AW[je]AP[goproblems]
+(;B[me];W[bl]C[Black does not have enough points to win this game, regardless of the endgame played at this point. You can follow A for one variationFORCE]LB[em:A];B[em];W[dm]LB[aj:A]C[FORCE];B[aj];W[ak]LB[ai:A]C[FORCE];B[ai];W[md]C[White wins by 13.5])
+(;B[al];W[bl];B[em];W[dm]
+(;B[bm];W[am]
+(;B[me];W[ak]C[Too early. White has enough points to win now.])
+(;B[cb];W[ak]
+(;B[bb];W[lg]LB[mg:A]C[FORCE];B[mg];W[mf]LB[ca:A]C[FORCE];B[ca];W[da]LB[ai:A]C[FORCE];B[ai]C[White wins by 0.5])
+(;B[ba]
+(;W[mf]
+(;B[da];W[ca]
+(;B[mm]
+(;W[kj];B[da];W[lg]
+(;B[eb]C[White is dead and black wins! Note that connecting at C13 is better.RIGHT])
+(;B[ca]C[White is dead and black wins!RIGHT]))
+(;W[bb]C[This is another possibility that still won't save white];B[kj];W[lg];B[ai]C[Black wins by 4.5]))
+(;B[kj]C[NOTTHIS]))
+(;B[lg];W[da]
+(;B[lf];W[le]LB[ai:A]C[FORCE];B[ai];W[ca]LB[bb:A]C[FORCE];B[bb]C[Black wins by 1.5! Thanks to Bass for this variation.RIGHT])
+(;B[ai];W[lf]C[White wins by 0.5!])))
+(;W[da]C[This weaker resistance (yet better play) doesn't help white win.];B[me];W[md];B[mf];W[ca];B[bb];W[ai];B[ah];W[aj]C[Black wins by 1.5!]))
+(;B[ca];W[da]LB[bb:A]C[Please play A];B[bb];W[lg]C[FORCE]LB[mg:A];B[mg];W[mf]))
+(;B[mm];W[kj];B[bm];W[lg];B[cl];W[mg]C[White wins by 4.5])
+(;B[kj]C[NOTTHIS]))
+(;B[me];W[ak]C[Too early. White wins now.]))
+(;B[em];W[al]
+(;B[aj];W[bm];B[dm];W[cl];B[me];W[md]C[Despite the nice reduction in sente, this is not enough for black to win.])
+(;B[dm];W[cl];B[aj];W[bm])
+(;B[bm];W[aj])))

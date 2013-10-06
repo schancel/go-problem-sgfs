@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[4k]DP[31]SO[gobluesky]CO[0]AW[cb]AW[cc]AB[db]AB[dc]AB[dd]AW[ce]AW[cf]AB[de]AB[dg]AW[bg]AW[bh]AW[bi]AW[bj]AB[ck]AB[bk]AB[cd]AW[bd]AW[jd]AW[pd]AW[oc]AW[qf]AB[pj]AB[df]AB[cg]AB[cj]AB[ci]C[black to play some awsome moves]AP[goproblems]
+(;B[be];W[bf];B[bc];W[ae];B[bb]C[black can do better])
+(;B[bc]
+(;W[bb];B[be]
+(;W[bf];B[ad]C[both side is deadRIGHT])
+(;W[ac];B[bf]C[black still kill some  stonesRIGHT]))
+(;W[bf];B[ad];W[be];B[bb];W[ae]
+(;B[aj]
+(;W[ag];B[ai]C[RIGHT])
+(;W[ai];B[ag]C[RIGHT]))
+(;B[ai];W[aj]
+(;B[ah];W[ag])
+(;B[ag];W[ah]))
+(;B[ag]
+(;W[ah];B[aj]C[RIGHT])
+(;W[aj];B[ah]C[RIGHT]))
+(;B[ah];W[ag];B[aj];W[ai])))
+(;B[bb];W[bc];B[ca]C[this is not an end game if black plays the right move white will probably resign])
+(;B[ca];W[bb];B[ba]C[this is not an end game if black plays the right move white will probably resign])
+(;B[bf];W[be];B[bb];W[bc];B[ca]C[this is not an end game if black plays the right move white will probably resign])
+(;B[ad];W[be];B[bc];W[bb];B[ab];W[ac];B[ca]C[this is  a bad solution])
+(;B[ab];W[bc];B[ca];W[ba];B[da];W[bb]C[this is not an end game if black plays the right move white will probably resign]))

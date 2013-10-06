@@ -1,0 +1,40 @@
+(;GE[life and death]DI[1k]DP[20]SO[tigre]CO[8]AB[ce]AB[dg]AB[ci]AB[cj]AB[ck]AB[bl]AW[cg]AW[bi]AW[bj]AW[gd]AB[hd]AB[gf]AB[gg]AB[gh]AW[hf]AW[hg]AB[ie]AB[jd]AB[if]AW[ei]AB[gb]AW[hb]AW[gc]AB[hc]AB[ec]AW[ic]AB[jc]AW[ed]AB[fd]AB[dd]AB[cd]AB[bd]AB[id]AW[be]AW[fe]AB[ge]AW[he]AW[af]AW[cf]AB[df]AB[ch]AW[dh]AW[eh]AB[hh]AB[fi]AB[dj]AB[ej]AB[bk]AW[bh]AW[ad]LB[bl:1]LB[ad:2]AW[fj]AW[dk]AW[ek]AW[fk]AB[gj]AW[cl]AP[goproblems]
+(;B[aj];W[bg])
+(;B[bg];W[bf]
+(;B[aj];W[bc]
+(;B[bb];W[cc]
+(;B[dc];W[cb])
+(;B[cb]
+(;W[dc];B[ee];W[db])
+(;W[ee]C[This is what actually happened in the game.  It's not marked correct because I only survived because of white's mistake.];B[dc];W[fc];B[de];W[fb]C[White lost the side but was able to squeeze a small victory on the top out of it.]))
+(;B[db];W[cb];B[ca];W[ba];B[aa];W[ab]C[Ko. Black takes first, but white has internal threats.]))
+(;B[cb];W[cc]
+(;B[bb];W[dc];B[ee];W[db])
+(;B[dc];W[bb]
+(;B[db];W[ba])
+(;B[ba];W[db]
+(;B[da];W[ca]C[Ko.])
+(;B[ca];W[da])))
+(;B[db];W[bb];B[ba]C[RIGHT]))
+(;B[ac];W[ab]
+(;B[bb];W[cb])
+(;B[cb];W[bb];B[ba];W[cc]
+(;B[dc];W[db])
+(;B[db]C[RIGHT]))))
+(;B[ag];W[ah];B[aj];W[bc]
+(;B[bb];W[cc]
+(;B[cb];W[dc];B[ee];W[db])
+(;B[dc];W[cb]))
+(;B[cb];W[cc]
+(;B[dc];W[bb]
+(;B[ba];W[db]
+(;B[da];W[ca]C[Ko.])
+(;B[ca];W[da]))
+(;B[db];W[ba]))
+(;B[bb];W[dc];B[ee];W[db])
+(;B[db];W[bb];B[ba]C[RIGHT]))
+(;B[ac];W[ab]
+(;B[bb];W[cb])
+(;B[cb];W[bb];B[ba];W[cc]
+(;B[dc];W[db])
+(;B[db]C[RIGHT]))))))

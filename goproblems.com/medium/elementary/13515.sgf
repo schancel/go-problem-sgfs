@@ -1,0 +1,17 @@
+(;GE[elementary]DI[3k]DP[25]SO[mattn]CO[0]AW[bp]AW[bq]AW[cq]AW[dq]AW[er]AW[fq]AW[gq]AB[hq]AB[jp]AB[gp]AB[fp]AB[ep]AB[eq]AB[dp]AB[cp]AB[co]AB[bo]AW[cn]AB[ck]AB[ci]AB[dh]AB[eh]AW[dg]AW[cg]AW[ch]AW[dd]AB[gi]AB[hh]AB[ih]AB[hg]AB[hj]AB[ij]AW[ik]AW[jj]AW[kk]AW[ig]AW[jg]AW[jh]AW[kh]AW[lh]AW[mh]AB[if]AB[jf]AB[kf]AB[kg]AB[mf]AB[mg]AB[me]AB[md]AB[ld]AW[gh]AW[gg]AW[ff]AW[ge]AW[hf]AW[he]AW[ie]AW[je]AW[ke]AW[kd]AW[le]AW[jc]AB[kc]AB[kb]AB[jb]AB[jd]AB[id]AB[hd]AB[gd]AB[fd]AB[fe]AW[lc]AW[lb]AW[nc]AW[oc]AW[pd]AW[ng]AW[og]AW[oh]AB[nh]AB[ni]AB[oi]AB[oj]AB[ok]AB[ol]AB[om]AB[on]AW[pi]AW[pj]AW[pk]AW[pl]AW[pm]AB[pn]AW[qn]AW[qp]AW[qq]AB[pp]AB[pq]AW[fi]AB[fh]TR[fi]TR[fh]AP[goproblems]
+(;W[ii];B[hi]
+(;W[hk];B[gj];W[fj];B[gk];W[gl];B[fk];W[ek];B[fl];W[fm];B[el];W[dl];B[em];W[en];B[dm];W[cm];B[ji];W[dn];B[ii];W[ki]C[RIGHT])
+(;W[gj];B[hk]
+(;W[hl];B[gk]
+(;W[fj];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[fk];B[fj];W[gl];B[ji]
+(;W[ki];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[ef];B[kj];W[jk];B[lj];W[ki];B[ei];W[ii];B[lf];W[gf];B[ji]C[CHOICE])))
+(;W[gk];B[hl]C[CHOICE])))
+(;W[gj];B[hk];W[hi];B[ii]C[CHOICE])
+(;W[hi];B[ii];W[gj];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[lg];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[lf];B[lg];W[gf];B[ef]C[CHOICE])
+(;W[hk];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[fj];B[lf];W[gf];B[ef]C[CHOICE])
+(;W[ef];B[fj]C[CHOICE]))

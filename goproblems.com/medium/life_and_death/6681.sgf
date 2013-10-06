@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2d]DP[13]SO[aditsu]CO[8]AB[ms]AB[ns]AB[os]AW[ps]AW[qs]AW[nr]AW[or]AB[pr]AW[qr]AB[lr]AW[mq]AB[pq]AW[qq]AW[mp]AB[np]AB[pp]AW[rp]AW[rm]AW[rn]AW[qn]AB[mo]AB[on]AB[pn]AB[kr]AB[ls]AW[mr]AW[lo]AW[lp]AW[mn]AB[no]AB[qo]AW[ro]AW[pm]AB[qm]AB[ql]AB[ol]AB[pl]AB[rl]AB[pk]AB[rk]AW[ml]AW[ll]AW[nk]AW[ok]AW[oj]AW[oi]AW[pi]AB[pj]AB[rj]AW[qj]AW[ri]AW[qh]AB[rh]AW[qg]AW[si]AB[kq]AW[ln]AW[nl]C[Try to attack black's stones.]AB[rf]AB[sf]AW[ph]AB[qf]AP[goproblems]
+(;W[po];B[kg]AB[ps]AB[qs]AW[ls]AW[ms]AW[ns]AW[os]AW[kr]AW[lr]AB[mr]AB[nr]AB[or]AW[pr]AB[qr]AW[kq]AB[mq]AW[pq]AB[qq]AB[lp]AB[mp]AW[np]AW[pp]AB[rp]AB[lo]AW[mo]AW[no]AB[po]AW[qo]AB[ro]AB[mn]AW[pn]AW[on]AB[qn]AB[rn]AB[pm]AW[qm]AB[rm]AB[ll]AB[ml]AW[ol]AW[pl]AW[ql]AW[rl]AB[nk]AB[ok]AW[pk]AW[rk]AB[oj]AW[pj]AB[qj]AW[rj]AB[oi]AB[pi]AB[ri]AB[si]AW[rh]AB[qg]C[Don't be scared, Q5 is correct; I just inverted the colors :) Now try to save white's stones.]AB[nl]AB[ln]AW[qf]AW[rf]AW[sf]AB[ph]AB[qh]
+(;W[oq];B[qp];W[oo];B[nq];W[qo];B[om];W[nm];B[po]
+(;W[sj];B[sl]C[Black could take at P4 and let you live, but let's say he goes for the whole thing.];W[qo];B[nn];W[om];B[po]
+(;W[sh];B[qi];W[qo]C[With no external threats, white is aliveRIGHT])
+(;W[qk];B[qi];W[qo]C[With no external threats, white is aliveRIGHT]))
+(;W[sl];B[sj];W[qo];B[nn];W[om];B[po]C[];W[qk];B[op];W[qi];B[rg]C[R9 was not a threat. You missed a ko threat on the way.])
+(;W[qk];B[sj]
+(;W[qo];B[nn];W[om];B[po];W[qi];B[op]
+(;W[qj];B[rg])
+(;W[sk];B[qj]C[With no external threats, white is dead. R9 was not a good threat at that time.])
+(;W[sh];B[qj]C[With no external threats, white is dead. R9 was not a good threat at that time.]))
+(;W[qi];B[op]
+(;W[qj];B[rg])
+(;W[sk];B[qj]C[With no external threats, white is dead. R9 was not a good threat at that time.])
+(;W[sh];B[qj]C[With no external threats, white is dead. R9 was not a good threat at that time.]))))
+(;W[qp];B[op]
+(;W[oq];B[nq]C[Oops])
+(;W[oo];B[oq]C[White is quite dead]))
+(;W[oo];B[oq]MA[op]MA[qp]C[Miai to destroy the eye])
+(;W[op];B[qp]))
+(;W[qp];B[po]MA[pm]MA[oo]C[Two eyes])
+(;W[oo];B[op]MA[pm]MA[oo]C[Two eyes])
+(;W[op];B[oq]MA[op]MA[pm]C[Two eyes])
+(;W[oq];B[op]MA[oo]MA[pm]C[Two eyes])
+(;W[nn];B[om]C[This was just a wasted ko threat])
+(;W[om];B[nm]C[This was just a wasted ko threat])
+(;W[nm];B[om]C[This was just a wasted ko threat]))

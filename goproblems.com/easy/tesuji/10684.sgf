@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[10k]DP[50]SO[ceram88]CO[4]AB[mb]AB[nc]AB[nd]AB[od]AB[pd]AB[pc]AB[pb]AB[pe]AB[of]AB[mf]AB[me]AB[lf]AB[kf]AB[jf]AB[ie]AB[id]AB[hf]AW[le]AW[ke]AW[je]AW[jd]AW[md]AW[mc]AW[ic]AW[hd]AW[gc]AW[fc]AW[ec]AB[gd]AB[fd]AB[fe]AB[ee]AB[ff]AW[ed]C[Stop black's invasion.]MA[mb]AW[nb]AW[ob]AW[oc]AP[goproblems]
+(;W[lb];B[lc]
+(;W[ma];B[ld]
+(;W[mb];B[jc]
+(;W[kd];B[kc])
+(;W[kc];B[kd])
+(;W[jb];B[kd]))
+(;W[kc];B[mb]C[You can do much better.]))
+(;W[ld]C[This is the best solution.RIGHT]
+(;B[jc]C[RIGHT];W[kc]C[RIGHT])
+(;B[ma]C[RIGHT];W[la]C[RIGHT])))
+(;W[lc];B[lb]C[]
+(;W[kb];B[kc]
+(;W[ld];B[jc])
+(;W[kd];B[ld])
+(;W[jc];B[ld]))
+(;W[kc];B[kb];W[jb]C[With this you lose the triangle pieces.]TR[oc]TR[ob]TR[nb]))
+(;W[ld];B[lb];W[kb];B[na]C[You lose the triangle stones.]TR[oc]TR[ob]TR[nb])
+(;W[kb];B[lb]
+(;W[lc];B[kc];W[ld];B[jc])
+(;W[ld];B[na]))
+(;W[ma];B[lc]
+(;W[lb];B[ld]
+(;W[mb];B[jc];W[kd];B[kc])
+(;W[kc];B[mb]C[You can do better]))
+(;W[ld];B[lb]
+(;W[kc];B[oa])
+(;W[la];B[oa]))))

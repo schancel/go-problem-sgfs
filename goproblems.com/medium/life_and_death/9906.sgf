@@ -1,0 +1,30 @@
+(;GE[life and death]DI[2d]DP[13]SO[trucid]CO[9]AB[cc]AB[dc]AB[db]AW[ba]AW[eb]AW[ec]AW[ed]AW[dd]AW[cd]AB[cf]AW[fd]AW[gd]AB[gc]AB[hd]AB[he]AB[bf]AB[gb]AB[ic]AB[fg]AB[eg]AB[dg]AB[ge]AW[fe]AW[de]AB[ch]AW[df]AB[ff]AB[bc]AW[bd]C[]AP[goproblems]
+(;B[ad];W[ae]
+(;B[ac];W[be];B[ea];W[fa];B[da];W[fb]
+(;B[ab]C[RIGHT];W[bb]LB[af:A]C[You win semeai. Play at A to continue.FORCE];B[af];W[cb]LB[ce:A]C[Play at A.FORCE];B[ce];W[ca]LB[aa:A]C[Play at A.FORCE];B[aa];W[ba]LB[ef:A]C[Play at A.FORCE];B[ef];W[bb]C[Play at A.FORCE]LB[ee:A];B[ee];W[cb]LB[ca:A]C[Play at A.FORCE];B[ca]C[You win, 3 to 2.RIGHT])
+(;B[bb];W[ca]C[Ko is not good enough.]))
+(;B[ea]C[NOTTHIS]))
+(;B[ea];W[fa]
+(;B[da];W[fb];B[ad];W[ae];B[ac];W[be]
+(;B[ab]C[RIGHT];W[bb]C[You win semeai. Play at A to continue.FORCE]LB[af:A];B[af];W[cb]LB[ce:A]C[Play at A.FORCE];B[ce];W[ca]LB[aa:A]C[Play at A.FORCE];B[aa];W[ba]C[Play at A.FORCE]LB[ef:A];B[ef];W[bb]C[Play at A.FORCE]LB[ee:A];B[ee];W[cb]LB[ca:A]C[Play at A.FORCE];B[ca]C[You win, 3 to 2.RIGHT])
+(;B[bb];W[ca]C[Ko is not good enough.]))
+(;B[ad]C[NOTTHIS]))
+(;B[ac];W[ad];B[da];W[ea]
+(;B[ab];W[bb]C[You lose, 6 to 8 liberties.])
+(;B[bb];W[ca];B[aa];W[ab]C[Ko is not the best solution.]))
+(;B[da];W[ea];B[ac];W[ad]
+(;B[ab]C[];W[bb]C[You lose, 6 to 8 liberties.])
+(;B[bb];W[ca];B[aa];W[ab]C[Ko is not the best solution.]))
+(;B[ca];W[bb]
+(;B[ac];W[ad];B[ea];W[fa];B[fb];W[da]C[Ko is not good enough.])
+(;B[ea];W[fa];B[fb];W[da]C[Ko is not good enough.])
+(;B[ad];W[ae];B[ac];W[be];B[ea];W[fa];B[fb];W[da]C[Ko is not good enough.])
+(;B[da];W[ea];B[ad];W[ae];B[ac];W[be]C[You lose semeai.])
+(;B[ab];W[ad];B[ea];W[fa];B[fb];W[da]C[Ko is not good enough.]))
+(;B[bb];W[ca]
+(;B[da];W[ea];B[ad];W[ae];B[ac];W[be]C[Ko is not good enough.])
+(;B[ac];W[ad];B[ea];W[fa];B[da];W[fb]C[Ko is not good enough.])
+(;B[ea]
+(;W[fa];B[da];W[fb];B[ad];W[ae];B[ac];W[be]C[Ko is not good enough.])
+(;W[da];B[fa];W[ab];B[ac];W[ad];B[aa]C[Ko is not good enough.]))
+(;B[ad];W[ae];B[ac];W[be];B[ea];W[fa];B[da];W[fb]C[Ko is not good enough.])))

@@ -1,0 +1,223 @@
+(;GE[best move]DI[8k]DP[48]SO[chipuni]CO[7]AB[jn]AB[ko]AB[ln]AB[jp]AW[kp]AW[kq]AW[lq]AW[lp]AW[lo]AB[jq]AW[mp]AW[np]AB[mn]AB[mo]AB[no]AW[nn]AW[on]AW[oo]AW[po]AW[qo]AB[ro]AB[op]AB[pp]AB[qp]AB[qq]AB[pn]AW[nl]AB[nj]AB[pj]AB[rj]TR[pn]C[Capture the marked stone.]AP[goproblems]
+(;W[qm];B[qn]
+(;W[rn];B[pm]
+(;W[pl];B[om]
+(;W[nm];B[ol];W[ok]C[Good job!RIGHT])
+(;W[ol];B[nm]C[Thank you.])
+(;W[rp];B[nm]C[Thank you.])
+(;W[rl];B[nm]C[Thank you.]))
+(;W[om];B[pl]C[Black escapes.])
+(;W[rp];B[pl]C[Black escapes.])
+(;W[pk];B[rm]
+(;W[ql];B[sn]C[Black escapes.])
+(;W[sn];B[ql]C[Black escapes.])
+(;W[rp];B[ql]C[Black escapes.])
+(;W[sm];B[sn]C[Black escapes.])
+(;W[so];B[sn]C[Black escapes.])
+(;W[om];B[sn]C[Black escapes.])
+(;W[pl];B[sn]C[Black escapes.]))
+(;W[rm];B[pl]C[Black escapes.])
+(;W[rl];B[pl]C[Black escapes.])
+(;W[ol];B[pl]C[Black escapes.])
+(;W[ql];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[pl];B[om]C[Thank you.])))
+(;W[pm];B[rn]C[Black escapes.])
+(;W[rp];B[sp]C[Good thought, but it doesn't help with this problem.])
+(;W[sn];B[rn]C[Black escapes.]))
+(;W[pm];B[qn]
+(;W[qm];B[rn]C[Black escapes.])
+(;W[rn];B[qm]
+(;W[ql];B[rm]
+(;W[rl];B[sn]C[Black escapes.])
+(;W[sm];B[sn]C[Black escapes.])
+(;W[sl];B[sn]C[Black escapes.])
+(;W[rp];B[rl]C[Black escapes.])
+(;W[sn];B[sm]
+(;W[rl];B[so]C[Black escapes.])
+(;W[sl];B[so]C[Black escapes.])
+(;W[so];B[sp]C[Thank you.])
+(;W[rp];B[so]
+(;W[sp];B[rq]C[Black escapes.])
+(;W[rq];B[rr];W[qr];B[pr]C[Black escapes.])
+(;W[sq];B[rq]C[Black escapes.]))
+(;W[sp];B[rp]C[Black escapes.]))
+(;W[so];B[sn]C[Black escapes.]))
+(;W[rm];B[ql]C[Black escapes.])
+(;W[rl];B[rm]
+(;W[sm];B[sn]C[Black escapes.])
+(;W[ql];B[sn]C[Black escapes.])
+(;W[rp];B[sn]
+(;W[rq];B[rr]
+(;W[ql];B[sq]
+(;W[sm];B[sl]C[Thank you.])
+(;W[sl];B[sp]C[Black escapes.])
+(;W[sp];B[so]C[Thank you.])
+(;W[so];B[sp]C[Thank you.]))
+(;W[sl];B[sq]
+(;W[ql];B[sp]C[Black escapes.])
+(;W[sm];B[sp]C[Black escapes.])))
+(;W[sp];B[rq]C[Black escapes.])
+(;W[sq];B[rq]C[Black escapes.])
+(;W[so];B[sp]C[Thank you.])))
+(;W[rp];B[rl]C[Q6 lives.]))
+(;W[rm];B[rn]C[Black escapes.]))
+(;W[qn];B[pm]
+(;W[pl];B[qm]
+(;W[rl];B[rn]
+(;W[rm];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[ql];B[om]C[Thank you.]))
+(;W[ql];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[rm];B[om]C[Thank you.]))
+(;W[om];B[rm]C[Black escapes.])
+(;W[ol];B[rm]C[Black escapes.])
+(;W[nm];B[rm]C[Black escapes.])
+(;W[rp];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[ql];B[om]C[Thank you.])
+(;W[rm];B[om]C[Thank you.])
+(;W[ol];B[om]C[Thank you.])))
+(;W[ql];B[rm]
+(;W[rn];B[sn]
+(;W[rp];B[rl]C[Black escapes.])
+(;W[rl];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[rp];B[om]C[Thank you.]))
+(;W[om];B[rl]C[Black escapes.])
+(;W[sl];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[sm];B[om]C[Thank you.])
+(;W[rp];B[om]C[Thank you.])
+(;W[rl];B[om]C[Thank you.]))
+(;W[sm];B[sl]C[Thank you.])
+(;W[nm];B[rl]C[Black escapes.]))
+(;W[rl];B[rn]C[Black escapes.])
+(;W[om];B[rl]C[Black escapes.])
+(;W[sl];B[rn]C[Black escapes.])
+(;W[sm];B[rn]C[Black escapes.])
+(;W[rp];B[rq]C[Black escapes this way, too.]))
+(;W[rm];B[ql]
+(;W[qk];B[rl]
+(;W[rk];B[rn]
+(;W[sl];B[sm]C[Black escapes.])
+(;W[om];B[sm]C[Black escapes.])
+(;W[sm];B[sl]
+(;W[sk];B[sn]C[Black escapes.])
+(;W[om];B[sn]C[Black escapes.])
+(;W[sn];B[so]C[Thank you.])
+(;W[rp];B[rq]
+(;W[om];B[sn]C[Black escapes.])
+(;W[sk];B[sn]C[Black escapes.])
+(;W[so];B[sn]C[Black escapes.])
+(;W[sn];B[so]C[Thank you.])
+(;W[sp];B[sq]
+(;W[sk];B[sn]C[Black escapes.])
+(;W[om];B[sn]C[Black escapes.])))
+(;W[so];B[sn]C[Black escapes.]))
+(;W[rp];B[nm]
+(;W[om];B[ol]C[Thank you.])
+(;W[sl];B[om]C[Thank you.])
+(;W[ol];B[om]C[Thank you.])
+(;W[rq];B[om]C[Thank you.]))
+(;W[nm];B[sm]C[Black escapes.]))
+(;W[sl];B[rk]C[Black escapes.])
+(;W[om];B[rk]C[Black escapes.])
+(;W[rn];B[rk]C[Black escapes.]))
+(;W[rl];B[qk]C[Black escapes.])
+(;W[om];B[qk]C[Black escapes.])
+(;W[rp];B[qk]C[Black escapes.])
+(;W[rn];B[qk]C[Black escapes.]))
+(;W[om];B[ql]
+(;W[qk];B[pk]
+(;W[ol];B[rk]C[Black escapes.])
+(;W[rl];B[ol]C[Black escapes.])
+(;W[rm];B[ol]C[Black escapes.]))
+(;W[rm];B[qk]C[Black escapes.])
+(;W[rl];B[qk]C[Black escapes.])
+(;W[rk];B[qk]C[Black escapes.])
+(;W[pk];B[qk]C[Black escapes.]))
+(;W[rn];B[ql]
+(;W[qk];B[pk]
+(;W[ol];B[rk]C[Black escapes.])
+(;W[qj];B[ol]C[Black escapes.])
+(;W[rl];B[ol]C[Black escapes.])
+(;W[rm];B[ol]C[Black escapes.]))
+(;W[om];B[qk]C[Black escapes.])
+(;W[rm];B[qk]C[Black escapes.])
+(;W[rl];B[qk]C[Black escapes.]))
+(;W[ol];B[rn]C[Black escapes.]))
+(;W[om];B[pl]C[Black escapes.])
+(;W[qm];B[pl]C[Black escapes.])
+(;W[ql];B[pl]C[Black escapes.]))
+(;W[rn];B[qm]
+(;W[pm];B[qn]
+(;W[ql];B[rm]
+(;W[rl];B[sn]C[Black escapes.])
+(;W[sm];B[sn]C[Black escapes.])
+(;W[sn];B[sm]
+(;W[rl];B[so]C[Black escapes.])
+(;W[sl];B[so]C[Black escapes.])
+(;W[so];B[sp]C[Thank you.])
+(;W[rp];B[so]C[Black escapes.])
+(;W[sp];B[so]C[Black escapes.]))
+(;W[rp];B[rl]C[Black escapes.])
+(;W[sl];B[sn]C[Black escapes.])
+(;W[so];B[sn]C[Black escapes.]))
+(;W[rm];B[ql]C[Black escapes.])
+(;W[rl];B[pl]
+(;W[om];B[ql]C[Black escapes.])
+(;W[ql];B[om]
+(;W[rm];B[nm]C[Thank you.])
+(;W[pk];B[nm]C[Thank you.])
+(;W[ol];B[nm]C[Thank you.])
+(;W[nm];B[pk]C[Black escapes.]))
+(;W[rm];B[om]
+(;W[nm];B[pk]C[Black escapes.])
+(;W[ol];B[nm]C[Thank you.])
+(;W[ql];B[nm]C[Thank you.])
+(;W[pk];B[nm]C[Thank you.])
+(;W[rp];B[nm]C[Thank you.])))
+(;W[rp];B[ql]C[Black escapes.])
+(;W[pl];B[rm]
+(;W[ql];B[sn]C[Black escapes.])
+(;W[rl];B[sn]C[Black escapes.])
+(;W[sm];B[sn]C[Black escapes.])
+(;W[sn];B[so]
+(;W[ql];B[sm]C[Black escapes.])
+(;W[rl];B[sm]C[Black escapes.])
+(;W[sl];B[sm]C[Black escapes.])
+(;W[sm];B[sl]C[Thank you.]))))
+(;W[qn];B[pm]
+(;W[pl];B[ql]C[Black escapes.])
+(;W[ql];B[pl]C[Black escapes.])
+(;W[rm];B[pl]C[Black escapes.])
+(;W[om];B[pl]C[Black escapes.])
+(;W[ol];B[pl]C[Black escapes.])
+(;W[rl];B[pl]C[Black escapes.])
+(;W[rp];B[pl]C[Black escapes.])
+(;W[pk];B[rl]C[Black escapes.]))
+(;W[rm];B[ql]C[Black escapes.])
+(;W[rp];B[ql]C[Black escapes.])
+(;W[ql];B[pl]
+(;W[qn];B[pm]
+(;W[pk];B[qk]C[Black escapes.])
+(;W[qk];B[pk]C[Black escapes.])
+(;W[rm];B[pk]C[Black escapes.])
+(;W[ol];B[pk]C[Black escapes.])
+(;W[om];B[pk]C[Black escapes.]))
+(;W[pm];B[om]C[Thank you.])
+(;W[om];B[pm]
+(;W[pk];B[qk]C[Black escapes.])
+(;W[ol];B[pk]C[Black escapes.])
+(;W[rm]C[];B[pk]C[Black escapes.])
+(;W[qn];B[pk]C[Black escapes.])
+(;W[rp];B[pk]C[Black escapes.]))
+(;W[rm];B[pk]C[Black escapes.])
+(;W[ol];B[pm]C[Black escapes.])
+(;W[pk];B[qk]C[Black escapes.])
+(;W[qk];B[pk]C[Black escapes.]))
+(;W[pl];B[ql]C[Black escapes.])
+(;W[rl];B[pl]C[Black escapes.]))
+(;W[rp];B[qm]C[Q6 escapes.]))

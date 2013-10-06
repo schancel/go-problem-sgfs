@@ -1,0 +1,16 @@
+(;GE[best move]DI[4k]DP[28]SO[mr0661]CO[0]SZ[9]AB[db]AB[eb]AB[fc]AB[fd]AB[ee]AB[de]AB[cd]AB[cc]AB[dd]AB[ec]AW[bc]AW[bb]AW[da]AW[ea]AW[fb]AW[gb]AW[gc]AW[gd]AW[ge]AW[gf]AW[gg]AW[gh]AW[fh]AW[ff]AW[df]AW[dh]AW[ch]AW[cf]AW[cg]AW[ce]AW[bd]AW[be]AB[bi]AB[ad]AB[ae]AB[af]AB[ac]AB[ab]AB[aa]AB[ci]AB[di]AB[ei]AB[fi]AB[gi]AB[hi]AB[hh]AB[hg]AB[hf]AW[fa]AW[ca]AB[fe]AB[cb]AW[ba]AB[ai]AB[he]AB[ic]AB[ia]AW[ih]AW[ig]AW[if]AB[ah]AW[bh]AW[bg]AW[bf]AB[ag]AB[hb]AB[ga]C[White to win, no komi]AB[hd]AW[hc]AB[id]AP[goproblems]
+(;W[eg];B[ib]
+(;W[ha];B[ef]
+(;W[ga];B[eh]C[Life with two false eyes, white wins with one pointRIGHT])
+(;W[eh];B[ga]C[Only jigo]))
+(;W[eh];B[ha]C[Jigo])
+(;W[ef];B[ha]C[Jigo]))
+(;W[ha];B[ib]
+(;W[eg];B[ga]C[Only jigo])
+(;W[eh];B[eg]C[White is dead])
+(;W[ef];B[eg]C[White is dead])
+(;W[ga];B[eg]C[White is dead]))
+(;W[ef];B[eg]C[White is dead])
+(;W[eh];B[eg]C[White is dead])
+(;W[ii];B[eg]C[White is dead])
+(;W[ie];B[eg]C[White is dead]))

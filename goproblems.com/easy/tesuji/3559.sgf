@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[5k]DP[33]SO[adum]CO[9]AB[bb]AB[cc]AB[dd]AB[de]AB[be]AW[bc]AW[bd]AW[cb]AW[db]AW[ec]AW[gc]TR[bc]TR[bd]C[can black catch these two stones?]AP[goproblems]
+(;B[ab]
+(;W[cd]
+(;B[dc];W[ce]
+(;B[cf];W[bf]
+(;B[ad];W[ae]
+(;B[ac];W[be]
+(;B[bg]C[RIGHT])
+(;B[cg];W[ba]))
+(;B[bg];W[ac]))
+(;B[ae];W[af])
+(;B[bg];W[ae])
+(;B[ac];W[ae];B[ad];W[be];B[bg]C[RIGHT]))
+(;B[bf];W[cf])
+(;B[ef];W[cf])
+(;B[df];W[cf])
+(;B[ba];W[cf]))
+(;B[ce];W[dc]C[you can connect, but better exits])
+(;B[ad];W[ce];B[cf];W[dc]C[not best])
+(;B[ac];W[dc]))
+(;W[ba];B[ad]C[RIGHT]))
+(;B[ba];W[ab])
+(;B[cd];W[ab])
+(;B[ad];W[ab])
+(;B[ac];W[ba];B[ab];W[ad])
+(;B[dc];W[ba]))

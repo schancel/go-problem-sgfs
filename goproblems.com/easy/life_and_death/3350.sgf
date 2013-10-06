@@ -1,0 +1,15 @@
+(;GE[life and death]DI[8k]DP[49]SO[polo]CO[7]AW[dq][dr][er][fr][fq][fp][fo][fn][fm][em][dn]AB[cr][cq][cp][co][cn][cm][dl][el][fl][gm][gn][go][gp][gq][gr][fs][eq]SZ[19]C[White to live]
+
+(;W[eo];B[do]
+(;W[dm]C[RIGHT])
+(;W[dp];B[dm])
+(;W[ep];B[dm]))
+(;W[ep];B[do]
+(;W[eo];B[dm])
+(;W[dm];B[eo]))
+(;W[do];B[ep]
+(;W[dp];B[eo])
+(;W[eo];B[dp]))
+(;W[dp];B[eo]
+(;W[do];B[ep])
+(;W[ep];B[do])))

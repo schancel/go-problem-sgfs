@@ -1,0 +1,37 @@
+(;GE[joseki]DI[3d]DP[9]SO[Alexxp]CO[7]AB[pp][lq][pq][qo]
+AW[nq][qq][qp]LB[pp:a][nq:b][lq:c][qq:d][pq:e][qp:f][qo:g]
+C[This is a common joseki, occuring when white invades the three-three point in response to a black pincer. However the last black move is a mistake. Do you know how to punish it?]
+(
+;W[qr]
+;B[pr]
+;W[po]
+;B[qn]
+(
+;W[op]
+;B[oo]
+;W[pn]
+;B[pm]
+;W[on]
+;B[no]
+;W[nn]
+;B[oq]
+;W[mq]
+C[RIGHT]
+C[The four black stones are captured]
+)
+(
+;W[oo]
+;B[nr]
+C[Black escapes]
+)
+)
+(
+;W[pr]
+;B[or]
+;W[qr]
+;B[oq]
+;W[qn]LB[po:a][ro:b]
+C[RIGHT]
+C[a and b are miai]
+)
+)

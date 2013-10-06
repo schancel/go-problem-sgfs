@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[18]SO[lok]CO[7]AB[ab]AB[bb]AB[cc]AB[bd]AB[be]AB[ce]AW[ba]AW[cb]AW[dc]AW[ec]AW[eb]AW[ea]AW[dd]AW[de]AW[cf]AW[bf]AW[bh]AW[ch]AW[dg]AW[eh]AW[ci]AB[df]AB[ef]AB[ee]AB[ed]AB[fd]AB[fc]AB[fb]AB[fa]AW[ca]C[Black to get a ko. (White has no ko threat)]TR[ca]AW[ag]AP[goproblems]
+(;B[aa];W[ac];B[bc];W[ae];B[ad];W[af]
+(;B[db]C[NOTTHIS])
+(;B[da];W[db]C[Seki]))
+(;B[cd];W[ac]
+(;B[db]C[NOTTHIS])
+(;B[bc];W[ae];B[ad];W[af]
+(;B[da];W[db]C[Seki])
+(;B[db]C[NOTTHIS]))
+(;B[da]C[NOTTHIS])
+(;B[ad]C[Seki])
+(;B[ae]C[Seki]))
+(;B[ad];W[bc];B[cd];W[af]
+(;B[ac];W[ae]
+(;B[da];W[db]C[Seki])
+(;B[db]C[NOTTHIS]))
+(;B[da]C[NOTTHIS])
+(;B[db]C[NOTTHIS]))
+(;B[ae];W[ac]C[Seki])
+(;B[bc];W[ae];B[ad];W[af]C[Seki])
+(;B[ac]
+(;W[cd]C[CHOICE]
+(;B[bc];W[ae]C[Dead])
+(;B[ae];W[bc]C[One approach move Ko. There is a better one.]TR[ha])
+(;B[da];W[bc]C[Direct Ko. White to take first (White has an internal threat at D18) RIGHT])
+(;B[db];W[bc]C[Direct Ko. White to take first (White has an internal threat at D19)RIGHT])
+(;B[aa];W[bc]C[One approach move Ko. There is a better one.]))
+(;W[ae];B[cd];W[af];B[db];W[da];B[aa]C[Dead]))
+(;B[da]C[NOTTHIS])
+(;B[db];W[ac]
+(;B[cd];W[da]C[Seki])
+(;B[bc];W[ae]
+(;B[ad];W[af]C[Seki])
+(;B[aa];W[da];B[ad];W[af]C[Seki]))
+(;B[ad];W[af]
+(;B[cd];W[da];B[bc];W[ae]C[Seki])
+(;B[bc];W[ae]C[Seki]))))

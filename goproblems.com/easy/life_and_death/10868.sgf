@@ -1,0 +1,41 @@
+(;GE[life and death]DI[6k]DP[38]SO[meleenewb]CO[0]AB[qs]AB[qr]AB[qq]AB[qp]AB[qo]AB[pn]AB[on]AB[nn]AB[mn]AB[mo]AB[mp]AB[lq]AB[lr]AB[ls]AW[ms]AW[mr]AW[mq]AW[no]AW[np]AW[oo]AW[po]AW[pp]AW[pq]C[White plays and gets...?FORCE]LB[jp:Life]LB[jq:Seki]LB[jr:Ko]LB[js:Death]AP[goproblems]
+(;W[jp];B[kp]
+(;W[or];B[os]
+(;W[ns];B[nq];W[ps];B[pr];W[oq];B[os];W[nr]C[RIGHT])
+(;W[oq];B[nr];W[nq];B[ps];W[ns]C[RIGHT])
+(;W[nq];B[ns])
+(;W[nr];B[oq])
+(;W[pr];B[ps]
+(;W[oq];B[nr]
+(;W[nq];B[ns])
+(;W[ns];B[nq]))
+(;W[ns];B[nq]
+(;W[oq];B[nr])
+(;W[nr];B[oq]))
+(;W[nq];B[ns])
+(;W[nr];B[oq])))
+(;W[oq];B[or];W[pr];B[ps]
+(;W[nr];B[os])
+(;W[os];B[ns];W[nr];B[nq]))
+(;W[nq];B[or])
+(;W[pr];B[ps]
+(;W[os];B[or]
+(;W[nr];B[ns])
+(;W[ns];B[nq]))
+(;W[or];B[os])
+(;W[oq];B[os]
+(;W[nr];B[or])
+(;W[or]))
+(;W[nr];B[os]
+(;W[oq])
+(;W[or]))
+(;W[nq];B[or]))
+(;W[nr];B[os]
+(;W[or])
+(;W[oq];B[or]))
+(;W[ps];B[or];W[pr];B[nq])
+(;W[os];B[or];W[pr];B[ps])
+(;W[ns];B[or];W[pr];B[ps];W[os]))
+(;W[jq]C[No, white can do better.])
+(;W[jr]C[No, white can do better.])
+(;W[js]C[No, white can do better.]))

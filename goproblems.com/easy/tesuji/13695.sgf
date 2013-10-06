@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[6k]DP[37]SO[adum]CO[0]AB[hs]AB[gr]AB[gq]AB[hq]AB[hp]AB[iq]AB[ir]AB[kq]AW[jp]AW[ip]AW[jn]AB[io]AB[in]AB[im]AB[il]AB[jl]AB[hk]AW[hn]AW[ho]AB[go]AB[gn]AW[gp]AW[fp]AW[fq]AW[fr]AW[fs]AW[gs]AW[dp]AW[do]AW[co]AW[cn]AB[eo]AB[dn]AB[dm]AB[cm]AW[bm]AW[cl]AW[ck]AW[cj]AW[dk]AW[ek]AW[bh]AW[bi]AB[ci]AB[ch]AB[bg]AB[bf]AB[eh]AB[eg]AB[fi]AB[fj]AB[fk]AB[fl]AB[el]AB[dl]AW[fm]AW[gm]AW[gl]AW[gk]AW[gj]AW[gi]AB[gh]AB[gg]AB[hh]AB[ih]AB[ii]AW[ji]AW[jj]AW[jk]AW[kl]AW[lk]AW[mk]AW[nk]AB[km]AB[lm]AB[mm]AB[ln]AB[mq]AB[mo]AB[no]AB[oo]AW[mn]AW[nn]AW[on]AW[nm]AW[om]AW[ol]AW[oj]AB[nl]AB[jh]LB[gn:A]C[In a tight endgame, Sako played atari at A, and traveller promptly resigned. But could he have saved those two white stones? Play at B to save the big group if you think traveller is infallible.]LB[fo:B]AP[goproblems]
+(;W[hm];B[en]
+(;W[hj];B[ij]
+(;W[ik];B[hl];W[jm]C[RIGHT])
+(;W[hl];B[ik])
+(;W[jm];B[ik]))
+(;W[ij];B[hj]
+(;W[hi];B[jm])
+(;W[ik];B[jm])
+(;W[hl];B[jm]))
+(;W[ik];B[hj]
+(;W[hl];B[jm])
+(;W[jm];B[hl]))
+(;W[hl];B[hj])
+(;W[jm];B[hj])
+(;W[jo];B[jm])
+(;W[fo];B[fn]C[you lose a ko threat]))
+(;W[fo];B[hm]C[naaaaaaaah]))

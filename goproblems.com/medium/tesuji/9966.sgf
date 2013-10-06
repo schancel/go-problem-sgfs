@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[3k]DP[25]SO[ketran0]CO[4]AB[bs]AB[as]AB[ar]AB[aq]AB[ap]AB[ao]AB[an]AB[am]AB[al]AB[aj]AB[ak]AB[ai]AB[ah]AB[ag]AB[af]AB[ae]AB[ad]AB[ac]AB[ab]AB[aa]AB[ba]AB[ca]AB[da]AB[ea]AB[fa]AB[ga]AB[ha]AB[ia]AB[ka]AB[ja]AB[la]AB[ma]AB[na]AB[oa]AB[pa]AB[qa]AB[ra]AB[sa]AB[sb]AB[sc]AB[sd]AB[se]AB[sf]AB[sg]AB[sh]AB[si]AB[sj]AB[sk]AB[sl]AB[sm]AB[so]AB[sn]AB[sp]AB[sq]AB[sr]AB[ss]AB[rs]AB[qs]AB[ps]AB[os]AB[ns]AB[ms]AB[ls]AB[ks]AB[js]AB[is]AB[hs]AB[gs]AB[fs]AB[es]AB[ds]AB[cs]AW[br]AW[cr]AW[cq]AW[dr]AB[er]AW[eq]AW[fq]AW[fr]AB[dq]AB[dp]AW[cp]AW[co]AW[do]AW[eo]AB[ep]AB[fp]AB[bp]AB[bo]AB[cn]AB[dn]AB[en]AB[bq]AB[gp]AW[gr]AW[hr]AW[ir]AW[jr]AW[kr]AW[lr]AW[mr]AW[nr]AB[or]AW[pr]AW[qr]AW[rr]AW[oq]AW[nq]AW[qq]AW[qp]AW[qo]AW[po]AW[oo]AB[pq]AB[pp]AB[op]AB[np]AB[mp]AW[fo]AB[rq]AB[rp]AB[ro]AB[qn]AB[pn]AB[on]AW[no]AW[rn]AW[rm]AW[rl]AW[rk]AW[rj]AW[rh]AW[ri]AW[rg]AW[rf]AW[re]AW[rd]AW[rc]AW[rb]AW[bn]AW[bm]AW[bl]AW[bk]AW[bj]AW[bi]AW[bh]AW[bg]AW[bf]AW[be]AW[bd]AW[bc]AW[bb]AW[cb]AW[db]AW[eb]AW[fb]AW[gb]AW[hb]AW[lb]AW[mb]AW[nb]AW[pb]AW[qb]AW[ob]AW[jb]AW[jk]AW[jj]AW[jl]AB[cm]AB[cl]AB[ck]AB[cj]AB[ci]AB[ch]AB[cg]AB[cf]AB[ce]AB[cd]AB[cc]AB[dc]AB[ec]AB[fc]AB[gd]AB[hd]AB[id]AB[jd]AB[kd]AB[ld]AB[md]AB[nc]AB[oc]AB[pc]AB[qc]AB[qd]AB[qe]AB[qf]AB[qg]AB[qh]AB[qi]AB[qj]AB[qk]AB[ql]AB[qm]C[B to win]AP[goproblems]
+(;B[fn];W[go];B[ho];W[gn];B[gm];W[hn];B[in];W[hm];B[hl];W[im]
+(;B[jm];W[il]
+(;B[nn];W[mo];B[lo];W[mn];B[mm];W[ln];B[kn];W[lm];B[ll];W[km];B[kl]C[RIGHT])
+(;B[mo];W[nn];B[nm];W[mn];B[ln];W[mm];B[ml];W[lm]
+(;B[km];W[ll]
+(;B[lk];W[kl])
+(;B[kl];W[lk]))
+(;B[ll];W[km]
+(;B[kl];W[jn])
+(;B[kn];W[jn]))))
+(;B[il];W[jm]
+(;B[nn];W[mo];B[lo];W[mn];B[mm];W[ln];B[kn];W[lm]
+(;B[ll];W[km])
+(;B[km];W[ll]))
+(;B[mo];W[nn];B[nm];W[mn];B[ln];W[mm];B[ml];W[lm];B[km];W[ll]
+(;B[lk];W[kl])
+(;B[kl];W[lk]))))
+(;B[nn]C[NOTTHIS])
+(;B[mo]C[NOTTHIS])
+(;B[mn]C[NOTTHIS])
+(;B[go];W[fn];B[fm];W[gn];B[hn];W[gm];B[gl];W[hm];B[im];W[hl]
+(;B[il];W[hk];B[nn];W[mo];B[lo];W[mn];B[mm];W[ln];B[kn];W[lm];B[ll];W[km]C[You missed :(])
+(;B[hk];W[il]
+(;B[nn];W[mo];B[lo];W[mn];B[mm];W[ln];B[kn];W[lm]
+(;B[ll];W[km])
+(;B[km];W[ll]))
+(;B[mo];W[nn];B[nm];W[mn];B[ln];W[mm];B[ml];W[lm];B[km];W[ll]
+(;B[lk];W[kl])
+(;B[kl];W[lk]))))
+(;B[gn];W[kb]
+(;B[go];W[ib])
+(;B[fn];W[ib]))
+(;B[ib];W[ic];B[kb];W[kc])
+(;B[kb];W[kc];B[ib];W[ic])
+(;B[jm];W[ib]C[Not enough liberties :(]))

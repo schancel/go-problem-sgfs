@@ -1,0 +1,64 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[8]AB[fb]AB[gb]AB[hb]AB[gc]AB[hd]AB[id]AB[jd]AB[jc]AB[kc]AB[je]AB[jf]AW[kd]AW[kf]AW[ke]AW[kg]AW[jg]AW[ig]AW[hg]AW[hf]AW[ge]AW[he]AW[gd]AW[fd]AW[fc]AW[ec]AW[dc]AW[eb]AW[lc]AW[lb]AW[mb]AW[gg]AB[or]AB[oq]AB[pq]AB[nq]AB[np]AB[mp]AW[nr]AW[mr]AW[mq]AW[lr]AW[lp]AW[kp]AW[jp]AW[jq]AW[jo]AW[jn]AW[iq]AB[hr]AB[hq]AB[gr]AB[ip]AB[io]AB[im]AB[in]AB[jm]AB[km]AB[ln]AB[lo]AB[mo]AB[lm]AB[mm]C[Can you kill the white group at the buttom (K4)? Tenuki (T at K10) if you think it's alive as it is.]LB[jj:T]AW[hc]AB[lq]AP[goproblems]
+(;B[jj];W[ia]C[Is that so? How to save it then?]
+(;B[ja];W[jb]
+(;B[kb];W[ka]
+(;B[ib];W[ja]
+(;B[ha];W[la];B[fa]C[Well done! :)RIGHT])
+(;B[fa];W[ha]C[:(])
+(;B[la]C[NOTTHIS]))
+(;B[ha];W[la]
+(;B[ib];W[ja];B[fa]C[Well done! :)RIGHT])
+(;B[fa];W[ib]C[:(]))
+(;B[la]C[NOTTHIS])
+(;B[fa];W[ha]C[:(])
+(;B[ic];W[ha]C[:(]))
+(;B[ib];W[kb]TR[ha]TR[fa]C[:(])
+(;B[ha];W[kb]TR[ib]TR[fa]C[:(])
+(;B[fa];W[kb]TR[ib]TR[ha]C[:(]))
+(;B[ib];W[ja]C[:(]TR[ha]TR[fa])
+(;B[ha];W[ja]TR[fa]TR[ib]C[:(])
+(;B[fa];W[ja]TR[ha]TR[ib]C[:(])
+(;B[kb];W[ka]
+(;B[la]C[NOTTHIS])
+(;B[ja];W[jb]
+(;B[ib];W[ja]
+(;B[ha];W[la];B[fa]C[Well done! :)RIGHT])
+(;B[la]C[NOTTHIS])
+(;B[fa];W[ha]C[:(]))
+(;B[ha];W[la]
+(;B[ib];W[ja];B[fa]C[Well done! :)RIGHT])
+(;B[fa];W[ib]C[:(]))
+(;B[la]C[NOTTHIS])
+(;B[fa];W[ha]C[:(]))
+(;B[ha];W[ja]C[:(]TR[ib]TR[fa])
+(;B[fa];W[ha]C[:(])
+(;B[ib];W[ja]C[:(]TR[ha]TR[fa])
+(;B[jb];W[ja]C[:(]))
+(;B[jb];W[ja]
+(;B[ha];W[ka]C[:(]TR[ib]TR[fa])
+(;B[fa];W[ha]C[:(])
+(;B[ka];W[kb]TR[ha]TR[fa]C[:(])
+(;B[ib];W[ka]TR[ha]TR[fa]C[:(]))
+(;B[ic];W[ja]C[:(]TR[ha]TR[fa]))
+(;B[js];W[ks]C[:(])
+(;B[ks];W[js]
+(;B[jr];W[ir]
+(;B[is];W[ls]
+(;B[ns];W[kr]C[:(])
+(;B[hs];W[kr]C[:(]TR[js]TR[ns])
+(;B[js];W[kr];B[hs];W[ns]C[:(])
+(;B[kr];W[kq]C[:(]))
+(;B[kr];W[kq]C[:(])
+(;B[ns];W[kr]C[:(]))
+(;B[is];W[jr]C[:(])
+(;B[ir];W[jr]C[:(])
+(;B[ns];W[kr]C[:(])
+(;B[kr];W[jr]C[:(]))
+(;B[is];W[ks]C[:(])
+(;B[ir];W[jr]C[:(])
+(;B[jr];W[ir]C[:(])
+(;B[kr];W[kq]C[:(])
+(;B[ns];W[ir]C[:(])
+(;B[ls];W[ks]C[:(])
+(;B[ms];W[ns]C[:(])
+(;B[kq];W[kr]C[:(]))

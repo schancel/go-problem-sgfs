@@ -1,0 +1,315 @@
+(;GE[life and death]DI[1k]DP[18]SO[LCZLAPINSKI]CO[6]AB[ga]AB[ja]AB[ka]AB[la]AB[kb]AB[lb]AB[jc]AB[kc]AB[id]AB[jd]AB[kd]AB[ld]AB[ke]AB[ie]AB[be]AB[cf]AB[df]AB[dg]AB[dh]AB[de]AB[dd]AB[ee]AB[cc]AB[db]AW[ch]AW[cg]AW[bg]AW[bf]AW[ce]AW[cd]AW[bd]AW[dc]AW[ec]AW[eb]AW[ed]AB[fd]AW[fe]AB[fc]AB[gd]AB[ge]AB[gf]AB[hf]AB[hg]AB[hh]AB[if]AB[jf]AW[ig]AW[jg]AW[jh]AW[kg]AW[kf]AW[lh]AW[le]AW[me]AW[md]AW[mc]AW[mb]AW[ma]AW[fb]AW[gb]AW[gc]AW[hb]AW[ia]AW[ib]AW[jb]AW[ic]AW[hc]AW[hd]AW[he]AP[goproblems]
+(;B[cb]
+(;W[bc]
+(;B[fa];W[bb];B[ea]C[RIGHT];W[ca];B[ha]C[RIGHT])
+(;B[bb];W[da];B[fa];W[ba]C[BartTM: 'Black cannot kill due to damezumari.'];B[ab];W[ca];B[aa];W[ac])
+(;B[ea]C[White's D17 group loses the capturing race.];W[bb]C[]
+(;B[fa]C[White's D17 group loses the capturing race.RIGHT])
+(;B[ha];W[fa]
+(;B[ga];W[da])
+(;B[ha];W[da])))
+(;B[da];W[bb]
+(;B[ea]C[White's D17 group loses the capturing race.RIGHT];W[ba]
+(;B[fa]C[RIGHT])
+(;B[ha];W[fa]
+(;B[ga];W[ca])
+(;B[ha];W[ca])))
+(;B[fa]C[White's D17 group loses the capturing race.RIGHT])))
+(;W[da]C[CHOICE]
+(;B[bc]
+(;W[ae]C[CHOICE]
+(;B[ea];W[fa]C[BE19 wastes a move since white wants to play F19 to setup a ko.];B[ca]C[Only Ko. Black can kill without ko.];W[ab]
+(;B[ea]C[Only ko. Black can kill without ko.])
+(;B[ac];W[ba];B[ea]C[You failed to kill white's D17 group without ko.]))
+(;B[ba]
+(;W[fa]
+(;B[ca];W[ac];B[ea]C[Only ko. Black can kill without ko.])
+(;B[ab]C[White's D17 group dies because black lives in the corner.  A17 and C19 are miai for black to live.RIGHT]TR[ac]TR[ca]))
+(;W[ab]C[CHOICE]
+(;B[fa];W[ac];B[ca]C[RIGHT])
+(;B[ac];W[fa];B[ad];W[be];B[ca]LB[na:T];W[na]C[You failed to kill white's D17 group without ko. White has a ko threat of wA19 or wB19 to kill black's group.])))
+(;B[ca];W[fa]C[Only ko. Black can kill without ko.]
+(;B[ea]C[Only ko. Black can kill without ko.])
+(;B[ab];W[ba]C[Only ko. Black could kill without ko.]))
+(;B[fa];W[ac]
+(;B[ca];W[bb];B[ea];W[ba];B[ha]C[RIGHT])
+(;B[ab];W[ba]
+(;B[ad]C[Only ko if white has a ko threat worth more than 6 points. Black can kill without a ko.])
+(;B[ea];W[ha];B[fa];W[ca];B[ad]C[Only ko. You failed to kill white's D17 group without ko.];W[be]
+(;B[ac]
+(;W[aa]C[CHOICE])
+(;W[bb]C[CHOICE]))
+(;B[aa]C[White can play the wA17 ko at any time. You failed to kill white's D17 group without ko.])
+(;B[bb];W[ea]C[Black can't push at A19. White can play the A17 ko if necessary. You failed to kill white without ko.])))
+(;B[ba];W[ab];B[ca]C[White's D17 group dies.RIGHT])
+(;B[ea];W[ha]
+(;B[ea];W[fa];B[ca];W[ab];B[ea]C[Only a ko. Black can kill white's D17 group without ko.])
+(;B[fa];W[ca]C[Atari!];B[bb]
+(;W[ab]C[Atari! White's D17 group lives.CHOICE])
+(;W[ba]C[Atari! White's D17 group lives.CHOICE]))
+(;B[ga];W[ca]C[Atari! White's K17 group lives.];B[bb]
+(;W[ab]C[Atari!CHOICE])
+(;W[ba]C[Atari!CHOICE]))
+(;B[ba];W[ab];B[ca];W[fa]C[You failed to kil white's D17 group without ko.])
+(;B[ca];W[fa])))
+(;B[ab];W[ba]
+(;B[ca];W[fa];B[ea]C[Only ko. Black could kill without ko.])
+(;B[fa];W[ca];B[ea];W[ha];B[ea];W[fa]C[Black is dead in the corner.]
+(;B[ad];W[bb]C[Black dies in the corner.])
+(;B[ac];W[bb]C[Black is dead in the corner.])
+(;B[aa];W[ea]
+(;B[ad]C[Only ko. Black could kill without ko.])
+(;B[ac];W[ad])))
+(;B[ea];W[ca];B[fa];W[ha];B[ea];W[ad]C[Black dies in the corner due to shortage of liberties. You failed to kill white's D17 group without ko.];B[fa];W[ga]
+(;B[ea];W[fa];B[aa];W[ac])
+(;B[fa];W[ea];B[aa];W[ac])
+(;B[bb];W[ac])))
+(;B[ac];W[fa]
+(;B[ca];W[aa]C[Only ko. Black could kill without ko.])
+(;B[ba];W[ab]C[Only ko. Black could kill without ko.]))
+(;B[ad];W[ac]
+(;B[fa];W[bb]C[Black loses the capturing race. You failed to kill black without ko.])
+(;B[ca];W[fa];B[ea]C[Ko. You failed to kill white's D17 group without ko.])))
+(;W[ba];B[ad]C[Black can keep white's D17 group from getting two eyes.RIGHT])
+(;W[ad]
+(;B[fa]C[White's D17 group is dead.RIGHT];W[ea];B[ca]C[RIGHT];W[ha]
+(;B[fa]C[RIGHT])
+(;B[ga]C[RIGHT]))
+(;B[ac];W[ae];B[fa]C[White's K17 group is dead.RIGHT]
+(;W[ea];B[ca];W[ha]
+(;B[fa]C[RIGHT])
+(;B[ga]C[RIGHT]))
+(;W[ca];B[ba]C[RIGHT]))
+(;B[ba];W[ab];B[fa];W[ac];B[ca]C[White's D17 group is dead.]))
+(;W[fa];B[ad]C[Under Japanese rules, after bC19 white is dead at the end of the game. Bc19 creates a 2nd eye for black.  After the game ends, if bE19 ko, white must first pass once for that ko.RIGHT]))
+(;B[ca]
+(;W[fa]C[White gets a ko. Black can kill without a ko.]
+(;B[ea]C[Only ko. Black can kill without ko.])
+(;B[ac];W[bc];B[bb];W[ae];B[ea]C[Only ko. Black can kill without ko.])
+(;B[bc];W[ad]
+(;B[ac];W[ae];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ab];W[ba])))
+(;W[ad]))
+(;B[ea];W[fa]
+(;B[ca];W[bc]C[Only ko. Black can kill without ko.];B[ea]C[Ko. You failed to kill white's D17 group without ko.])
+(;B[bc]
+(;W[ae]C[CHOICE]
+(;B[ac];W[ad];B[ca];W[ab];B[ea]C[Only a ko. Black can kill white's D17 group without ko.])
+(;B[ab];W[ba]
+(;B[ca];W[ad];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ad];W[ac]C[Unfavorable ko. You failed to kill white without ko.]))
+(;B[ca];W[ad]
+(;B[ab];W[ba];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ba];W[ab];B[ea]C[Only ko. Black can kill white's D17 group without ko.])))
+(;W[ad]
+(;B[ac];W[ae];B[ca]
+(;W[ab]C[CHOICE]
+(;B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[aa];W[ba];B[ea]C[Only ko. Black can kill white's D17 group without ko.]))
+(;W[ba]
+(;B[aa];W[ab];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ea]C[Only ko. Black can kill white's D17 group without ko.])))
+(;B[ba];W[ab];B[ca];W[ac];B[ea]C[Ko. You failed to kill white's D17 group without ko.])
+(;B[ca];W[ab];B[ea]C[Ko. You failed to kill white's D17 group without ko.]))))
+(;B[fa]C[White's D17 group dies.RIGHT];W[bc];B[ca];W[bb];B[ea];W[ba];B[ha]C[RIGHT])
+(;B[ab];W[bc]
+(;B[bb];W[fa];B[ca];W[ae];B[ea]C[Only ko. Black can kill white without a ko.])
+(;B[fa];W[bb]C[White's D17 group lives.];B[ea];W[ca]))
+(;B[ac];W[fa];B[bc];W[ae];B[ca];W[ab];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ha];W[fa];B[bc];W[ae]C[CHOICE];B[ba];W[ab];B[ca];W[ac]
+(;B[ea]C[Only ko. Black can kill white without ko.])
+(;B[ga];W[aa];B[ea]C[Only ko. Black can kill white's D17 group without ko.])
+(;B[ha];W[aa];B[ea]C[Only ko. Black can kill white's D17 group without ko.]))
+(;B[bb];W[fa]C[Black fails to kill white without ko.])
+(;B[ad]
+(;W[bc]C[WA15 is better for white since black lives in the corner if black kills the B16 group. WA15 gives black  a chance to go wrong and miss bF19..];B[bb];W[ae];B[fa];W[ac];B[ca];W[ab];B[ea]C[White's D17 group dies without ko.RIGHT])
+(;W[ae]C[CHOICE]
+(;B[fa];W[bc];B[ca]LB[na:T]C[RIGHT]
+(;W[bb];B[ea];W[ba];B[ha]C[RIGHT])
+(;W[na]C[White's best is to take sente by playing tenuki.  This saves wB18-wB19 for a ko threat.RIGHT]))
+(;B[bc];W[be];B[ba];W[ab];B[fa];W[ac]
+(;B[ca]C[RIGHT])
+(;B[ea];W[ha];B[ca];W[fa];B[ea]C[Only ko. You failed to kill white's D17 group without ko.])
+(;B[ha];W[ea];B[ga];W[ad]
+(;B[ca];W[bb];B[fa];W[aa])
+(;B[fa];W[ha]
+(;B[fa];W[bb]C[Black loses the capturing race. You failed to kill white's D17 group without ko.])
+(;B[ga];W[bb]C[Black loses the capturing race. You failed to kill white's D17 group without ko.]))))))
+(;B[ba];W[fa]C[Leads to a bE19 ko - black can do better.];B[ab];W[bc];B[ca];W[bb];B[ea]C[Ko - black can do better.])))
+(;B[bc];W[cb]
+(;B[ad];W[bb]C[You failed to kill White's D17 group without ko.]
+(;B[ab];W[da]C[You failed to kill white's D17 group without ko.]
+(;B[aa];W[ca]C[White gets two eyes.])
+(;B[ba];W[ca]C[You failed to kill white's D17 group without ko. Black does have a ko threat to kill of bE19-bD18.]
+(;B[ea];W[fa])
+(;B[fa];W[ea]))
+(;B[ca];W[ba]C[White's D17 group gets three eyes.]TR[ca]TR[db]TR[ea]
+(;B[ea];W[fa])
+(;B[fa];W[ea]))
+(;B[fa]LB[na:T]
+(;W[ba]C[You failed to kill white's D17 group without ko.]TR[ca]TR[db]TR[ea])
+(;W[na]C[You failed to kill white's D17 group. White can get sente by playing tenuki.CHOICE];B[ba];W[ca]C[You failed to kill white's D17 group. Black does have a ko threat to kill  of bE19-bD18.]TR[db]TR[ea])))
+(;B[da]
+(;W[ca]C[White gets two eyes.CHOICE])
+(;W[ea]C[White gets two eyes.CHOICE])
+(;W[ab]C[CHOICE]
+(;B[ea];W[ca]C[You failed to kill white's D17 group without ko.])
+(;B[ca]
+(;W[ba]C[You failed to kill white's D17 group without ko.CHOICE])
+(;W[ea]C[You failed to kill white's D17 group without ko.]))))
+(;B[ca];W[da];B[ab];W[ba]C[White gets three eyes and lives.]TR[ca]TR[db]TR[ea])
+(;B[ba];W[ab];B[da];W[ea]
+(;B[aa];W[ca])
+(;B[ca];W[aa]C[White lives.]))
+(;B[ea];W[da]C[White has two eyes and lives.]TR[db]TR[fa])
+(;B[fa];W[ab];B[da];W[ca]C[White gets two eyes and lives.]
+(;B[ea];W[ha])
+(;B[ha];W[ea]))
+(;B[ha];W[fa]C[White gets two eyes and lives.]))
+(;B[bb];W[ca]C[White's D17 group is alive.]
+(;B[ba];W[da]C[White's D17 group lives.])
+(;B[ad]LB[na:T];W[na]C[White's D17 group is alive. Gote if white tenukis.])
+(;B[ea];W[da]C[You failed to kill white's D17 group without ko. White must respond to bE19 with wD19 because after bB19 wD19 bD18 snapback.]
+(;B[ba];W[fa]C[White's D17 group lives because it has two or more eyes.]TR[db]TR[ea]TR[ha])
+(;B[fa];W[ha]
+(;B[ea];W[fa])
+(;B[fa];W[ea])
+(;B[ga]
+(;W[ea]C[CHOICE])
+(;W[fa]C[CHOICE]))))
+(;B[da];W[ea]C[You failed to kill white's D17 group without ko.]))
+(;B[da];W[bb]
+(;B[ad]
+(;W[ca]C[White's D17 group gets two eyes.CHOICE])
+(;W[ea]C[White's D17 group gets two eyes.CHOICE])
+(;W[ab]C[You failed to kill white's D17 group without ko.CHOICE]))
+(;B[ac];W[ae];B[ab];W[ad]C[White's D17 group lives because black's A17 group has damezumari.]
+(;B[ba];W[aa])
+(;B[ca];W[aa])))
+(;B[ca];W[bb]
+(;B[ad]
+(;W[da]C[White's D17 group lives.CHOICE])
+(;W[ab]C[You failed to kill white's D17 group without ko.CHOICE]))
+(;B[ab];W[ac]C[White's K17 group is alive.]))
+(;B[ae];W[bb]
+(;B[ad];W[ab]C[White's K17 group gets two eyes.])
+(;B[ac];W[ab];B[da]
+(;W[ca]C[CHOICE])
+(;W[ea];B[fa];W[ca])))
+(;B[ba];W[bb];B[ad];W[ab];B[da];W[ea]C[White's D17 group lives.])
+(;B[ea];W[bb]
+(;B[ad];W[ab];B[da];W[ca]C[White's D17 group wins the capturing race.])
+(;B[ac];W[ab]C[You failed to kill white's D17 group without ko. White is alive.];B[ad]LB[na:T];W[na]C[You failed to kill white's D17 group without ko. White can take sente by playing tenuki.])))
+(;B[ae]
+(;W[cb];B[bc];W[bb]C[White's D17 group gets two eyes and lives.]
+(;B[ad]C[];W[ab])
+(;B[ac];W[ab];B[da];W[ca]))
+(;W[bc]C[CHOICE]
+(;B[cb];W[bb]C[White wins the capturing race. White gets two eyes and lives.]
+(;B[ca];W[ba]C[Atari])
+(;B[da];W[ea]C[Atari])
+(;B[ea];W[ca]C[Atari])
+(;B[fa]
+(;W[ca]C[CHOICE])
+(;W[da]C[CHOICE])))
+(;B[bb];W[cb]C[White gets two eyes for the D17 group.])))
+(;B[ad];W[bc]
+(;B[cb];W[bb]C[White gets two eyes and lives.]
+(;B[ea];W[ca];B[da];W[fa])
+(;B[ca];W[ba]C[Atari])
+(;B[da];W[ea]C[Atari]))
+(;B[bb];W[cb]C[White's K17 group gets two eyes.]))
+(;B[ac];W[bc]
+(;B[cb];W[bb]
+(;B[ca];W[ba]C[Atari])
+(;B[da];W[ea]C[Atari]))
+(;B[bb];W[cb]
+(;B[ca];W[da]C[White lives.])
+(;B[da];W[ca]C[White lives.])))
+(;B[ab];W[cb];B[bc]
+(;W[ca])
+(;W[bb]C[White lives.]))
+(;B[bb];W[da]
+(;B[ad];W[cb];B[bc]LB[na:T]
+(;W[ca]C[White's D17 group has two eyes.]TR[db]TR[ea])
+(;W[na]C[White's D17 group is alive and white can tenuki.]))
+(;B[ea];W[cb]C[You failed to kill white's D17 group without ko.])
+(;B[cb];W[fa]C[Only ko. Black can kill without ko.])
+(;B[ca];W[cb]C[Unfavorable ko since black must find the first ko threat. Black can kill white's D17 group without ko.];B[db]C[NOTTHIS])
+(;B[bc]
+(;W[cb]
+(;B[ad]LB[na:T]
+(;W[na]C[Tenuki and getting sente is white's best. You failed to kill white's D17 group without ko.CHOICE])
+(;W[ca]C[You failed to kill white's D17 group. White's best is to tenuki and get sente.]))
+(;B[ba]
+(;W[ca]TR[db]TR[ea]C[You failed to kill white's D17 group without ko.])
+(;W[ae]C[You failed to kill white's D17 group without ko. Black's B17 group loses the capturing race.CHOICE];B[ca];W[db]
+(;B[ea];W[fa])
+(;B[fa];W[ac];B[ea];W[ha];B[fa];W[ab]
+(;B[ea];W[aa])
+(;B[ga];W[aa])))))
+(;W[ae]C[WC18 is usally better than wA15 because white lives without ko. White should not play wA15 unless he can afford to ignore black's ko threat. White might play the ko to connect and give life to the B13 group.CHOICE]
+(;B[fa];W[cb];B[ba];W[db];B[ca];W[ac];B[ea];W[ha];B[fa];W[ab]C[Black loses the capturing race. You failed to kill white's D17 group without ko.])
+(;B[ca];W[cb]C[Only ko. You failed to kill white's D17 group without ko.]))))
+(;B[da];W[cb]
+(;B[bc];W[bb];B[ad]
+(;W[ca]C[White lives.CHOICE])
+(;W[ea]C[White lives.CHOICE])
+(;W[ab]C[You failed to kill white's D17 group without ko.CHOICE];B[ca]
+(;W[ba]C[CHOICE])
+(;W[ea]C[CHOICE];B[fa];W[ba])))
+(;B[bb];W[bc];B[ca];W[cc]C[White D17 group is alive. White can get two eyes if necessary by connecting with wA15.])
+(;B[ea]
+(;W[ca]C[White's D17 group is alive.]
+(;B[fa];W[ha]C[White's D17 group is alive.])
+(;B[ha];W[fa]C[White's D17 group is alive.])
+(;B[bc];W[ae]C[White's D17 group is alive.])
+(;B[bb];W[fa])
+(;B[ba];W[fa]))
+(;W[bc]C[White's D17 group lives. White must watch for ko threats and his liberties.CHOICE]))
+(;B[fa];W[bc]C[You failed to kill white's D17 group without ko. Black's marked stones are dead.]MA[be]MA[db]MA[da]MA[fa]MA[ga]))
+(;B[ea];W[cb]
+(;B[bc]
+(;W[bb]
+(;B[ad];W[da]C[White's D17 group lives.])
+(;B[ab];W[ac]C[White's D17 group is alive.]))
+(;W[ae]C[You failed to kill white's D17 group without ko. Black's  marked stones are dead.]MA[bc]MA[cc]MA[db]MA[ea]MA[ga]
+(;B[fa];W[da])
+(;B[da];W[ca]C[You failed to kill white's D17 group without ko.])))
+(;B[fa];W[bc]C[White's D17 group lives.])
+(;B[bb];W[bc]
+(;B[ca];W[cc]C[White's D17 group is alive.])
+(;B[da]LB[na:T];W[na]C[White's D17 group is alive. White can tenuki. White must watch out for ko threats and ataris.]))
+(;B[ca];W[bb]C[White's D17 group is alive.];B[bc];W[ac])
+(;B[da];W[bc]C[White's D17 group lives. Whte must watch for ko threats and his liberties.]))
+(;B[ca];W[bc]
+(;B[cb];W[bb]
+(;B[ea];W[ba]C[White's K17 group lives.])
+(;B[fa];W[ba]C[White wins the capturing race.])
+(;B[ba];W[ea]C[White's D17 group lives. Black can't push at D19 because of shortage of liberites.]))
+(;B[ea];W[cb];B[bb];W[cc]C[White's D17 is alive. It can get two eyes if necessary.])
+(;B[bb];W[cb]C[Unfavorable ko. Black can kill without ko.]))
+(;B[fa];W[cb]
+(;B[bc]
+(;W[bb]
+(;B[ad]
+(;W[da]C[White's D17 group gets two eyes.])
+(;W[ab]C[CHOICE];B[da];W[ca]C[You failed to kill white's D17 group  without ko. White is alive.CHOICE]))
+(;B[ac];W[ab]C[White's K17 group is alive.]))
+(;W[ae]C[CHOICE]
+(;B[da];W[ca])
+(;B[ca];W[bb];B[ac]
+(;W[ad]C[You failed to kill white's D17 group without ko.CHOICE])
+(;W[ab]C[You failed to kill white's D17 group  without ko.]))))
+(;B[ca];W[bc]C[White's D17 group lives. White must watch for ko threats and his liberties.])
+(;B[da];W[bc]C[White's D17 group lives. White must watch for ko threats and his liberites.])
+(;B[ea];W[bc]C[White's D17 group lives. White must watch for ko threats and his liberties.]))
+(;B[ha];W[cb];B[bc];W[ae];B[bb];W[ca]C[Black lost the capturing race. You failed to kill white's D17 group without ko.];B[da];W[ea])
+(;B[lc];W[cb]C[White's D17 group lives. Playing bM17 was a wasted move.])
+(;B[ff];W[cb]C[White's D17 group lives.])
+(;B[eh];W[cb]C[White's D17 group lives.])
+(;B[je]C[Don't fill in your own eyes.];W[cb]C[Don't fill in your own eyes.])
+(;B[lf];W[cb]C[White's D17 group lives.])
+(;B[ng];W[cb]C[White's K17 group lives.])
+(;B[ba];W[cb]C[White gets two eyes for the D17 group.])
+(;B[ef];W[cb]C[White gets two eyes for the D17 group.]))

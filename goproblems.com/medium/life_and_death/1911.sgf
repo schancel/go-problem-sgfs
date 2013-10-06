@@ -1,0 +1,87 @@
+(;GE[life and death]DI[2k]DP[21]SO[DaMaMa]CO[7]
+AW[dd][ed][fd][de][fe][cf][ff][hf][jf][lg][gh][hh][lh][ii][jj][bk][ck][ek][gk][ik][dl][jl][jm]
+AB[kd][ee][ef][kf][lf][eg][kg][ch][ih][kh][di][fi][gi][hi][fk][il][cm][dm][em][gm][im][fn]
+LB[hh:A][ih:B][hi:B][ii:A][fk:C]
+C[Black after being cut at AABB attempted a countercut at C. What is white's best answer.]
+
+(;W[fj];B[fl]
+   (;W[ei];B[gj]
+      (;W[ej];B[fh];W[eh];B[fg]
+         (;W[dh];B[dg];W[cg] 
+           LB[hg:A][hk:B]
+           TR[ee][ef][dg][eg][fg][fh][fi][gi][hi][gj]
+           C[RIGHT Black A or B saves the marked stones, but white's gain on the edge is good enough.]
+         )
+         (;W[dg] 
+           LB[hg:A][hk:B]
+           TR[ee][ef][eg][fg][fh][fi][gi][hi][gj]
+           C[RIGHT Black A or B saves the marked stones, but white's gain on the edge is good enough.]
+         )
+         (;W[gg];B[dg] TR[ch]
+           C[No. Black saves the marked stone, and White has to struggle to make a living for the surrounded group.]
+         )
+      )
+      (;W[fh];B[ej];W[eh];B[dj]
+         TR[bk][ck][ek][dl]
+         C[No. White cannot save the marked stones.]
+      )
+   )
+   (;W[ej];B[gj];W[ei];B[fh];W[eh];B[fg]
+      (;W[dh];B[dg];W[cg] 
+        LB[hg:A][hk:B]
+        TR[ee][ef][dg][eg][fg][fh][fi][gi][hi][gj]
+        C[RIGHT Black A or B saves the marked stones, but white's gain on the edge is good enough.]
+      )
+      (;W[dg]
+        LB[hg:A][hk:B]
+        TR[ee][ef][eg][fg][fh][fi][gi][hi][gj]
+        C[RIGHT Black A or B saves the marked stones, but white's gain on the edge is good enough.]
+      ) 
+      (;W[gg];B[dg] TR[ch]
+        C[No. Black saves the marked stone, and White has to struggle to make a living for the surrounded group.]
+      )
+   )
+   (;W[gj];B[ej]
+      (;W[dj];B[ei]
+        C[No. White is deadder than black.]
+       ;W[ci];B[bi];W[cj];B[cg]
+        C[No. White is deadder than black.]
+      )
+      (;W[fh];B[eh];W[dj];B[ei];W[ci];B[bi]
+        C[No. White is deadder than black.]
+       ;W[cj];B[cg]
+        C[No. White is deadder than black.]
+      )
+   )
+   (;W[gl];B[ej];W[gj];B[dj]
+     TR[bk][ck][ek][dl]
+     C[No. White is deadder than black.]
+   )
+)
+(;W[fl];B[fj]
+   (;W[gl];B[el];W[ej];B[ei]
+     C[No. White is deadder than black.]
+    ;W[dj];B[cj]
+     C[No. White is deadder than black.]
+   )
+   (;W[el];B[gl]
+      (;W[ej];B[hk]
+        TR[ej][bk][ck][ek][dl][el][fl]
+        C[No. White looses the marked group.]
+       ;W[fh];B[ei];W[eh];B[dg];W[dh];B[bi]
+        TR[ej][bk][ck][ek][dl][el][fl]
+        C[No. White looses the marked group.]
+      )
+      (;W[hk];B[bg]
+        C[No. White is deadder than black.]
+      )
+   )
+)
+(;W[ej];B[fj];W[ei];B[eh];W[fh];B[el]
+  LB[cj:A]
+  C[Right or wrong? I don't know. Add a comment! White has to be careful about the snapback-set-up at A.]
+)
+(;W[jh];B[fj];W[fl];B[gl] LB[el:A][hk:B] TR[bk][ck][ek][dl]
+ C[No. Black can escape with either A or B while white's stones are in deep trouble.]
+)
+)

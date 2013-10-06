@@ -1,0 +1,15 @@
+(;GE[life and death]DI[18k]DP[68]SO[SinianSung]CO[8]AB[cs]AB[ds]AB[cr]AB[cq]AB[cp]AB[hr]AB[hq]AB[gq]AB[iq]AB[jq]AB[kr]AB[js]AW[lr]AW[lq]AW[kp]AW[jp]AW[ip]AW[hp]AW[gp]AW[fq]AW[eq]AW[dq]AW[dr]AW[es]AW[gs]AW[gr]C[Black to live]AP[goproblems]
+(;B[hs]
+(;W[fr];B[ir]C[Black has two eyes and lives. CHOICERIGHT])
+(;W[ir];B[fr]
+(;W[fs];B[er]C[Black has two eyes and lives. CHOICERIGHT])
+(;W[er];B[fs]C[Black has two eyes and lives. CHOICERIGHT])))
+(;B[ks];W[ir];B[hs];W[fr]C[Black dies.])
+(;B[ir];W[hs]
+(;B[fr];W[fs];B[is];W[er]C[black dies.])
+(;B[er];W[fr]C[Black dies.]))
+(;B[is]C[Black has just one eye and dies.])
+(;B[fp];W[fr])
+(;B[fr];W[er]
+(;B[hs]C[RIGHT])
+(;B[fp];W[ep];B[hs]C[RIGHT])))

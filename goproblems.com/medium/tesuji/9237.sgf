@@ -1,0 +1,44 @@
+(;GE[tesuji]DI[3d]DP[11]SO[santa c]CO[9]AW[ls]AW[lr]AW[lq]AW[lp]AB[kr]AB[kq]AB[kp]AB[jp]AB[ip]AB[hp]AB[gq]AB[fq]AB[fp]AB[er]AB[dq]AB[cr]AB[cp]AB[bp]AB[bo]AB[cn]AB[cm]AB[bl]AB[dl]AB[el]AB[fl]AB[fm]AB[gl]AB[hl]AW[em]AW[fn]AW[fo]AW[eo]AW[do]AW[co]AW[dp]AW[ep]AW[eq]AW[bm]AW[go]AW[gp]AW[ho]AW[io]AW[ko]AW[lo]AB[jo]AW[jn]AW[jm]AW[im]AW[gm]AW[hm]C[What can White do?]AW[hr]AW[hq]AB[gs]AB[js]AP[goproblems]
+(;W[jr]C[]
+(;B[ks]
+(;W[fs];B[gr]
+(;W[is]C[Well done! Black can't approach - White has a clean capture! =)RIGHT]MA[fs]MA[hs])
+(;W[ir]C[];B[is];W[hs];B[fr]C[Seki isn't enough...])
+(;W[hs];B[fr]
+(;W[ir]C[Seki isn't enough...])
+(;W[is];B[iq]C[:(])
+(;W[iq];B[is]C[Seki isn't enough...])
+(;W[jq];B[ir]C[:(]))
+(;W[iq]C[Seki or Ko? An unconditional capture was possible!]))
+(;W[gr];B[fs]C[(Seki or) Ko at best...]LB[is:1]LB[hs:2]LB[iq:3])
+(;W[hs];B[gr]C[Seki isn't enough...])
+(;W[ir];B[hs]C[Seki isn't enough...])
+(;W[is];B[hs]
+(;W[fs]C[Well done! Black's disconnected and dies! =)RIGHT])
+(;W[gr];B[fs]C[Ko at best...]LB[iq:1])
+(;W[fr];B[fs]C[Ko at best...]LB[iq:1])
+(;W[ir];B[gr]C[Seki isn't enough...])
+(;W[iq];B[ir]C[Ko isn't enough...]MA[is])))
+(;B[ir];W[ks]
+(;B[iq];W[is]C[RIGHT])
+(;B[is];W[iq]C[RIGHT])
+(;B[hs];W[iq]C[RIGHT])
+(;B[jq];W[iq]C[RIGHT]))
+(;B[hs];W[ks]
+(;B[ir];W[iq]C[RIGHT])
+(;B[gr];W[is]C[RIGHT]))
+(;B[is];W[ks];B[ir];W[iq]C[RIGHT]))
+(;W[hs];B[gr]
+(;W[ks];B[ir]C[:(])
+(;W[jr];B[ir]C[:(]))
+(;W[ir];B[is]C[:(])
+(;W[is];B[ir]C[:(])
+(;W[ks];B[jr]C[:(])
+(;W[fr];B[gr]C[:(]
+(;W[jr];B[ir]C[:(])
+(;W[ks];B[ir]C[Seki isn't enough...]))
+(;W[gr];B[fr]
+(;W[hs];B[ir]C[:(])
+(;W[jr];B[ir]C[:(])
+(;W[ks];B[ir]C[:(]))
+(;W[fs];B[gr]C[Seki isn't enough...]))

@@ -1,0 +1,36 @@
+(;GE[endgame]DI[8k]DP[46]SO[sever]CO[0]AB[ns]AB[ms]AB[mr]AB[mq]AB[nq]AB[oq]AB[pp]AB[qp]AB[ro]AB[sn]AB[qn]AW[ps]AW[or]AW[nr]AW[pq]AW[rq]AW[qq]AW[rp]AW[sp]AW[so]C[How to response black 1 ?]LB[ns:1]AP[goproblems]
+(;W[qr];B[os]
+(;W[pr];B[rs];W[sr];B[rr]C[Seki. Black and White can't approach. You can do better.])
+(;W[rs];B[pr];W[or])
+(;W[sr]
+(;B[rs])
+(;B[pr];W[or])))
+(;W[pr]
+(;B[rr]
+(;W[sr];B[rs]
+(;W[qr];B[os]C[Seki. You can do better.])
+(;W[qs];B[os]C[Seki. You can do better.]))
+(;W[rs];B[sr];W[qr];B[os]C[Seki. You can do better.])))
+(;W[os];B[qs];W[pr]
+(;B[sr]
+(;W[rs];B[rr];W[qr]C[Seki. Black and White can't approach. You can do better.])
+(;W[rr];B[rs]C[Seki. You can do better.]))
+(;B[rr]
+(;W[sr]
+(;B[rs]C[Seki. Black and White can't approach. You can do better.])
+(;B[ss]C[Black can also choose ko.]))
+(;W[qr];B[sq])))
+(;W[qs];B[os]
+(;W[pr];B[rr];W[sr];B[rs]C[Seki. You can do better.])
+(;W[sr];B[pr];W[qr]C[White is safe but you can save the two stones.];B[or]))
+(;W[rr]
+(;B[os];W[pr]C[White is safe!RIGHT])
+(;B[rs];W[sr]))
+(;W[rs];B[os];W[pr]C[RIGHT])
+(;W[sr];B[rs]
+(;W[rr];B[os];W[pr]C[RIGHT])
+(;W[pr];B[rr])
+(;W[qr];B[os]
+(;W[pr])
+(;W[qs];B[pr]C[You can save these two stones.])
+(;W[rr];B[pr]C[You can save these two stones.]))))

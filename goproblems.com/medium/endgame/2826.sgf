@@ -1,0 +1,24 @@
+(;GE[endgame]DI[1d]DP[15]SO[Hans]CO[7]AW[cm]AW[bo]AW[co]AW[cp]AW[dq]AW[eq]AW[gq]AB[bp]AB[aq]AB[cq]AB[cr]C[White to play the most profitable endgame sequence.]PL[W]
+(;W[ao];B[bs]
+(;W[dr];B[ar];W[ap];B[bq]C[ White has sente and black just two points.RIGHT])
+(;W[ap];B[dr]
+(;W[er];B[ds];W[bq];B[ar]LB[es:A]C[The white territory is open at A.])
+(;W[bq];B[ar];W[er];B[ds]C[The white territory is open at A.]LB[es:A])))
+(;W[dr];B[br]
+(;W[ao];B[ap]C[Black has four points.])
+(;W[cs];B[bs];W[ao];B[ap]C[Black has at least 3 points.]))
+(;W[br];B[bs]
+(;W[dr];B[ar]LB[ao:A]C[Black has at least 3 points and chance to play the endgame move at A.])
+(;W[ar];B[dr];W[er];B[ds]LB[es:A]C[Black has 5 points and the endgame at A.])
+(;W[ao];B[ar];W[ap];B[dr];W[er];B[ds];W[bq];B[bp];W[bq]LB[es:A]C[Black has 2 points and A.]))
+(;W[ar];B[br]
+(;W[ao];B[as]
+(;W[dr];B[cs];W[ap];B[bq]C[Black has 3 points.])
+(;W[ap];B[bq];W[dr];B[cs]C[Black has 3 points.]))
+(;W[dr];B[as];W[ao];B[ap]C[Black has 3 points.])
+(;W[as];B[bs];W[ao];B[ap];W[dr]C[Black has 5 points.]))
+(;W[bs];B[br]
+(;W[ao];B[as]
+(;W[ar];B[cs];W[ap];B[bq];W[dr];B[as]C[Black has 3 points.])
+(;W[dr];B[cs];W[ap];B[bq]C[Black has 3 points.]))
+(;W[ar];B[cs])))

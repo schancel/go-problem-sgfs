@@ -1,0 +1,16 @@
+(;GE[elementary]DI[25k]DP[78]SO[maba]CO[7]AB[jh]AB[ji]AB[ij]AB[jk]AW[ii]AW[kj]AW[kk]AW[lj]AB[lk]AB[ll]AB[kl]AW[jl]AW[il]AW[gl]AB[hh]AB[gi]C[White to capture the cutting stone.]AB[fk]AP[goproblems]
+(;W[jj]
+(;B[ik]
+(;W[hj];B[hk]
+(;W[gk]
+(;B[hl];W[hm]C[RIGHT])
+(;B[hm];W[hl]C[RIGHT]))
+(;W[hl];B[gk])
+(;W[gj];B[gk]))
+(;W[hk];B[hj]
+(;W[gj];B[hi])
+(;W[hi];B[ih])))
+(;B[hj];W[ik]C[RIGHT])
+(;B[hk];W[ik]C[RIGHT]))
+(;W[ik];B[jj])
+(;W[hj];B[jj]))

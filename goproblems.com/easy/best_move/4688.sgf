@@ -1,0 +1,17 @@
+(;GE[best move]DI[8k]DP[49]SO[adum]CO[6]AW[ib]AW[jc]AW[kc]AW[kd]AB[ic]AB[jd]AB[je]AB[ke]AB[le]AB[ld]AB[lc]AB[lb]AW[cd]AW[ec]LB[lb:1]C[how to handle black 1?]AP[goproblems]
+(;W[hc];B[id]
+(;W[jb]C[RIGHT])
+(;W[kb];B[ka];W[jb]C[bad shape for white])
+(;W[ja];B[ka]C[bad shape for white])
+(;W[ia];B[jb])
+(;W[ka]C[];B[jb];W[kb];B[hb]
+(;W[ja];B[gc]C[white should not leave this ladder as aji])
+(;W[ia];B[gc]C[bad for white])))
+(;W[jb];B[hc]C[black gets a key point])
+(;W[kb];B[ka];W[jb];B[hc]C[good for black])
+(;W[hb];B[jb])
+(;W[ja];B[hc]C[good for black])
+(;W[ka];B[hc]C[good for black])
+(;W[id];B[hc])
+(;W[hd];B[jb])
+(;W[gc];B[jb]))

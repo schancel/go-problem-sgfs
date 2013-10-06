@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[4d]DP[8]SO[ketran0]CO[6]AB[qc]AB[rd]AB[se]AB[pb]AB[pc]AB[qd]AB[re]AB[qe]AB[pe]AB[pd]AB[od]AB[oe]AB[ne]AB[nd]AB[oc]AB[nc]AB[sf]AB[rf]AB[qf]AB[pf]AB[of]AB[nf]AB[mf]AB[me]AB[md]AB[mc]AB[lb]AB[kb]AB[ka]AB[lc]AB[kc]AB[jb]AB[ja]AB[jc]AB[kd]AB[ld]AB[jd]AB[le]AB[lf]AB[kf]AB[ke]AB[je]AB[jf]AB[if]AB[ie]AB[id]AB[ic]AB[ib]AB[ia]AB[ha]AB[hb]AB[hc]AB[he]AB[hf]AB[hd]AB[gf]AB[ge]AB[gd]AB[gc]AB[gb]AB[fb]AB[fa]AB[fc]AB[fd]AB[fe]AB[ff]AB[ef]AB[ee]AB[ed]AB[ec]AB[eb]AB[ea]AB[da]AB[db]AB[dc]AB[dd]AB[de]AB[df]AB[cf]AB[ce]AB[cd]AB[cc]AB[cb]AB[ca]AB[ba]AB[bb]AB[bd]AB[bc]AB[be]AB[bf]AB[af]AB[ae]AB[ad]AB[ac]AB[ab]AB[aa]AB[sg]AB[rg]AB[qg]AB[pg]AB[og]AB[ng]AB[mg]AB[kg]AB[jg]AB[lg]AB[hg]AB[ig]AB[gg]AB[fg]AB[eg]AB[dg]AB[cg]AB[bg]AB[ag]AW[ch]AW[ah]AW[bh]AW[dh]AW[eh]AW[fh]AW[gh]AW[hh]AW[ih]AW[jh]AW[kh]AW[lh]AW[mh]AW[nh]AW[oh]AW[ph]AW[qh]AW[rh]AW[sh]AW[bi]AW[cj]AW[bj]AW[aj]AW[di]AB[ak]AB[bk]AB[ck]AB[dk]AB[dj]AB[ej]AB[ei]AB[fi]AB[gi]AB[hi]AB[ji]AB[ii]AB[ki]AB[li]AB[mi]AB[ni]AB[oi]AB[pi]AB[qi]AB[ri]AB[si]AB[gs]AB[fs]AB[fr]AB[fq]AB[eq]AB[ep]AW[eo]AB[hs]AW[cn]AB[fk]AB[el]AB[gj]AB[dq]AB[dp]AB[er]AB[es]AB[dr]AB[ds]AB[cs]AB[cr]AB[cq]AB[cp]AB[bp]AB[bq]AB[br]AB[bs]AB[as]AB[ar]AB[aq]AB[ap]AB[do]AB[co]AB[bo]AB[ao]AW[dn]AB[om]AB[qm]C[W to win or Resign - no captures, 6.5 komi, Japanese rules]AB[bn]AB[an]AW[am]AW[bm]AB[cm]AB[qo]AB[is]AB[gr]AB[js]AB[jr]AB[ir]AB[hr]AB[gq]AB[hq]AB[jq]AB[fp]AB[gp]AB[hp]AB[iq]AB[ip]AW[fo]AW[go]AW[ho]AW[io]AW[jn]AW[in]AW[jp]AB[kp]AW[kq]AW[kr]AB[op]AB[ks]AB[ls]AW[mk]LB[gl:R]AB[sd]AB[sc]AB[rc]AB[rb]AB[sb]AB[sa]AB[ra]AB[qa]AB[qb]AW[ob]AW[nb]AW[mb]AW[na]AW[pa]AB[ma]AP[goproblems]
+(;W[mr];B[bl])
+(;W[lr];B[ms];W[mr];B[ns];W[nr];B[os];W[or];B[ps]
+(;W[pr];B[qs]
+(;W[rs];B[qr];W[qq];B[rr];W[sr];B[rq];W[rp];B[ss];W[la];B[oa];W[rs];B[jo];W[sq];B[ss];W[pa];B[ma];W[rs];B[jp];W[lp]C[B can't winRIGHT])
+(;W[qr];B[rs];W[rr];B[jo]
+(;W[ko];B[bl])
+(;W[sr];B[bl])))
+(;W[qs];B[pr];W[pq];B[qr];W[rr];B[qq];W[qp];B[rq];W[rp];B[rs]))
+(;W[gl]C[W can win]))

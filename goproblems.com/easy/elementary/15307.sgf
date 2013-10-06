@@ -1,0 +1,23 @@
+(;GE[elementary]DI[5k]DP[33]SO[santa c]CO[0]AB[bp]AB[cp]AB[cq]AB[dq]AB[dr]AB[bs]AW[ds]AW[es]AW[er]AW[eq]AW[dp]AW[do]AW[co]AW[bo]AW[ao]C[save youself]AP[goproblems]
+(;B[br];W[ap]
+(;B[aq];W[ar]
+(;B[as];W[cs];B[cr]C[niceRIGHT])
+(;B[bq];W[cs])
+(;B[cs];W[bq]C[ko]))
+(;B[cs];W[aq]MA[ar]MA[bq])
+(;B[ar];W[aq]MA[bq]MA[cs]))
+(;B[ar]C[];W[ap]
+(;B[aq];W[cr];B[bq];W[cs])
+(;B[br];W[aq]MA[bq]MA[cs])
+(;B[bq];W[cs]MA[cr]MA[aq])
+(;B[cr];W[aq]MA[cs]MA[bq])
+(;B[cs];W[bq];B[cr];W[aq]))
+(;B[cs]C[];W[aq]
+(;B[ap];W[bq];B[cr];W[ar])
+(;B[br];W[ap]MA[bq]MA[ar])
+(;B[ar];W[bq])
+(;B[bq];W[ar]MA[br]MA[ap]))
+(;B[ap];W[br]MA[ar]MA[cr])
+(;B[aq];W[br]MA[ar]MA[cr])
+(;B[cr];W[ar]MA[aq]MA[br])
+(;B[bq];W[ar]MA[br]MA[cs]))

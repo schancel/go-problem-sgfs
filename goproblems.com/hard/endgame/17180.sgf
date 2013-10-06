@@ -1,0 +1,9 @@
+(;GE[endgame]DI[5d]DP[5]SO[nimbim]CO[0]AW[rb]AW[qc]AW[pb]AW[rd]AW[pc]AW[oc]AW[qe]AW[qf]AW[rf]AW[re]AB[qd]AB[pd]AB[od]AB[nd]AB[nc]AB[ob]AB[na]AB[pe]AB[pf]AB[pg]AB[qg]AB[rg]AB[sf]AB[rj]C[best endgame for black? nothing else left on the board]AP[goproblems]
+(;B[sb]
+(;W[sc]C[CHOICE];B[se]C[very nice, white has 5 pointsRIGHT])
+(;W[se]C[if white resists];B[sc];W[rc];B[qa];W[pa];B[ra]C[RIGHT]))
+(;B[pa];W[qa]
+(;B[oa]C[];W[se];B[sg]LB[ra:1]LB[sa:2]LB[qb:3]LB[sb:4]LB[rc:5]LB[sc:6]LB[sd:7]C[not good enough])
+(;B[se];W[sd];B[sg];W[oa]C[not good enough, you don't have a threat for this ko]LB[ra:1]LB[sa:2]LB[qb:3]LB[sb:4]LB[rc:5]LB[sc:6]LB[pa:7]))
+(;B[se];W[sd];B[sg]C[];W[pa])
+(;B[qa];W[pa]C[this is giving white an extra point]))

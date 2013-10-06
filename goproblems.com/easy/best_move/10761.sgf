@@ -1,0 +1,28 @@
+(;GE[best move]DI[8k]DP[45]SO[briv]CO[7]AB[aq]AB[ap]AB[bq]AB[cq]AB[dq]AB[dp]AB[ep]AB[eo]AB[fp]AB[gp]AB[gq]AB[fr]AB[er]AB[es]AB[ak]AB[bk]AB[cj]AB[cl]AB[ck]AB[dk]AB[el]AB[ek]AB[fk]AB[gk]AB[gi]AB[ej]AB[di]AB[ei]AB[eh]AB[fh]AB[fg]AB[gf]AB[fe]AB[fc]AB[gd]AB[hd]AB[ic]AB[ia]AB[ib]AB[kb]AB[lc]AB[mb]AB[ma]AB[na]AB[ld]AB[md]AB[le]AB[kf]AB[kg]AB[lg]AB[jh]AB[ji]AB[jj]AB[ii]AW[ao]AW[bp]AW[cp]AW[do]AW[co]AW[en]AW[em]AW[dm]AW[dl]AW[cm]AW[bm]AW[al]AW[fo]AW[go]AW[ho]AW[hp]AW[hq]AW[gr]AW[gs]AW[fs]AW[hs]AW[is]AW[js]AW[ir]AW[jq]AW[jp]AW[ip]AW[ko]AW[lo]AW[mn]AW[nn]AW[ln]AW[lm]AW[kl]AW[jm]AW[jn]AW[in]AW[il]AW[hl]AW[jk]AW[ij]AW[hj]AW[hk]AW[hi]AW[gl]AW[fl]AW[fm]AW[gm]AB[jr]AB[kq]AB[kp]AB[lp]AB[lr]AB[mr]AB[or]AB[oq]AB[pq]AB[pr]AB[os]AB[np]AB[no]AB[mo]AB[oo]AB[pp]AB[qo]AB[qn]AB[qm]AB[pm]AB[om]AB[on]AB[nm]AB[nl]AB[ll]AB[ml]AB[mm]AB[rm]AB[sm]AB[sn]AB[sl]AB[sk]AB[rj]AB[ri]AB[qi]AB[pi]AB[pj]AB[oi]AB[ni]AB[oh]AB[og]AB[pg]AB[ng]AB[of]AB[oe]AB[pe]AB[pf]AB[qf]AB[rf]AB[re]AB[rd]AB[sd]AB[sc]AW[sb]AW[rb]AW[rc]AW[qc]AW[qd]AW[qe]AW[pd]AW[pb]AW[oa]AW[nb]AW[nc]AW[mc]AW[nd]AW[od]AW[ne]AW[nf]AW[mf]AW[mg]AW[mh]AW[nh]AW[mi]AW[lh]AW[kh]AW[ki]AW[kj]AW[lk]AW[mk]AW[nk]AW[nj]AW[oj]AW[ok]AW[ol]AW[pk]AW[qk]AW[qj]AW[rk]AW[rl]AW[rn]AW[ro]AW[sp]AW[sq]AW[rq]AW[qq]AW[qp]AW[rr]AW[qr]AW[qs]AW[ps]AW[ss]AW[ae]AW[be]AW[cd]AW[dd]AW[ec]AW[db]AW[fb]AW[gb]AW[hb]AW[ha]AW[hc]AW[gc]AW[ed]AW[ee]AW[ef]AW[ff]AW[eg]AW[dg]AW[dh]AW[cg]AW[cf]AB[bf]AB[af]AB[bg]AB[bh]AB[ch]AB[hh]AB[hg]AW[me]AB[kr]AW[so]AW[bl]AB[gj]AW[lf]AB[ge]AW[kd]C[]AB[ie]AP[goproblems]
+(;W[lb];B[la]
+(;W[jg];B[ih]C[]
+(;W[ke];B[jf]
+(;W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT])
+(;W[je];B[if];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT]))
+(;W[kc];B[ke]C[There is nothing]))
+(;W[kc];B[ke]C[There is nothing])
+(;W[ke];B[jf];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT]))
+(;W[jg];B[ih]
+(;W[ke];B[jf]
+(;W[lb]
+(;B[la]C[CHOICE];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT])
+(;B[kc];W[la];B[ka]C[RIGHT]))
+(;W[kc];B[lb];W[jb];B[jc]C[There is nothing])
+(;W[je];B[if];W[lb];B[la];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT]))
+(;W[jf];B[ke]C[No good])
+(;W[lb];B[la]
+(;W[ke];B[jf];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT])
+(;W[kc];B[ke]C[There is nothing])))
+(;W[kc];B[ke]C[There is nothing])
+(;W[fd];B[lb]C[Black repaired his weakness])
+(;W[ks];B[lb]C[Black repaired his weakness])
+(;W[ke];B[jf]
+(;W[lb]
+(;B[la]C[CHOICE];W[kc];B[lb];W[jb]C[Black is crying. You're very happy !RIGHT])
+(;B[kc];W[la];B[ka]C[RIGHT]))
+(;W[kc];B[lb];W[jb]C[];B[jc]C[Black is alive])))

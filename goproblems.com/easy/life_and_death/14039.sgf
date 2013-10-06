@@ -1,0 +1,11 @@
+(;GE[life and death]DI[4k]DP[31]SO[Silowyi]CO[0]AB[rb]AW[sb]AW[rc]AW[rd]AW[qd]AB[qc]AW[pc]AW[pb]AW[ob]AW[nb]AB[mb]AB[lb]AB[pd]AB[od]AB[md]AB[qe]AB[re]AB[se]AW[qf]AW[rf]AW[sf]AW[pg]AB[pf]AB[of]AW[qh]LB[li:Ko]C[Black to move, what is the best black can hope for?FORCE]AB[oc]AB[nd]AB[lc]AB[kc]AW[mc]AW[nc]LB[lg:Nothing]LB[lh:Kill]AP[goproblems]
+(;B[lh];W[mh]C[Prove it!]
+(;B[sc];W[qb]
+(;B[sd];W[pe]C[Self atari is seldom a solution :(])
+(;B[ra];W[sd]C[White is clearly alive :(])
+(;B[sa]C[RIGHT]))
+(;B[qb];W[ra]C[White lives :(])
+(;B[sd];W[qb]C[White is definitely alive here :(])
+(;B[ra];W[qb]C[White is definitely alive here.]))
+(;B[lg]C[No, it can be killed.])
+(;B[li]C[No, it can be killed.]))

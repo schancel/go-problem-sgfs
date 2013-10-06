@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[4k]DP[28]SO[fye]CO[0]AB[ro]AB[rp]AB[qp]AB[pp]AB[op]AB[pq]AB[rm]AB[qm]AB[pl]AB[pk]AB[pj]AB[rk]AW[ql]AW[qi]AW[qh]AW[qg]AW[ph]AW[oi]AW[oj]AW[ok]AW[ol]AW[pm]AW[oo]AW[po]AW[qo]AW[np]AW[oq]AW[mp]AW[lp]AW[kq]AW[kr]AB[jr]AB[iq]AB[jp]AB[kp]AB[hp]AB[ho]AB[in]AB[im]AB[il]AB[ik]AB[hm]AW[kn]AW[ko]AB[mo]AB[lo]AB[no]AB[nm]AW[ij]AW[jj]AW[hk]AW[hl]AW[gm]AW[gn]AW[hn]AW[fl]AW[eo]AW[dq]AW[gq]AW[hq]AW[ni]AW[mh]AW[mg]AW[mf]AW[ng]AW[ig]AW[ih]AW[if]AW[hf]AW[id]AW[hc]AW[gc]AW[fc]AW[ed]AW[dc]AW[cc]AB[bb]AB[bc]AB[cd]AB[df]AB[ff]AB[gf]AB[fd]AB[gd]AB[hd]AB[hj]AB[hi]AB[hh]AB[hg]AB[ci]AB[cl]AB[nh]AB[oh]AB[og]AB[nf]AB[oe]AB[pg]AB[pf]AB[qf]AB[rg]AB[qd]AB[pd]AB[qc]AW[ne]AW[nd]AW[oc]AW[pc]LB[nm:A]LB[on:B]C[Black just played A. It should had been at B instead. White to capture N5 three stones unconditionally. Tips to simplify: start at O6 :)]AP[goproblems];W[nn];B[mn]
+(;W[mm];B[on];W[ln];B[nn];W[pn];B[ml]
+(;W[nl];B[lm]LB[om:A]C[Please play at A first];W[om];B[mm];W[km];B[kl]
+(;W[mk];B[ll]
+(;W[jl];B[jk];W[kk];B[jm];W[lk];B[jl];W[io]C[Bingo :)RIGHT])
+(;W[io];B[jl]))
+(;W[ll];B[lk];W[mk];B[ll];W[jl];B[jk];W[lj];B[jm]))
+(;W[lm];B[nl]
+(;W[om];B[ll];W[kl];B[km]
+(;W[jm];B[kk]
+(;W[lk];B[jl];W[mk];B[km]C[Ko. There is a better sequence])
+(;W[jk];B[jl];W[io];B[km]C[Ko. You could have killed black unconditionally.])
+(;W[jl];B[jk])
+(;W[io];B[jk]
+(;W[jo];B[ip];W[lk];B[jn])
+(;W[jq];B[ir];W[jo];B[ip];W[lk];B[jn])))
+(;W[kk];B[jm])
+(;W[lk];B[jn];W[jm];B[jo];W[km];B[kk]))
+(;W[ll];B[om]C[Very good, but not the best. White could have killed the whole group])))
+(;W[on];B[lm]C[L7 and P7 miai. You did good to kill J7, but the objective was to kill N5 unconditionally :)]))

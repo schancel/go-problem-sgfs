@@ -1,0 +1,51 @@
+(;GE[best move]DI[3k]DP[28]SO[BartTM]CO[8]AW[qb]AW[pb]AW[pc]AW[od]AW[nd]AW[md]AW[ld]AW[kd]AW[ne]AW[jd]AW[hc]AB[qa]AB[rb]AB[rc]AB[qc]AB[pd]AB[qe]AB[oe]AB[of]AB[nf]AB[mf]AB[me]AB[ke]C[At some point in the game it will be worthwhile to play here. Especially if you can make your opponent play the last move.]AP[goproblems]
+(;B[oa]
+(;W[nb]C[(White's best defense)]
+(;B[pa];W[na]C[4 points gained in sente; the best result. Black can gain another point by playing at P18; but that would be gote, so it will have to wait until the end of the game.RIGHT]MA[ob])
+(;B[na];W[pa])
+(;B[ob];W[oc];B[pa];W[na];B[ra]C[5 points in gote; one point better than the solution, but you lost sente; so one move worse. You should not play like this unless it is the last point on the board.])
+(;B[oc];W[ob];B[pa];W[na];B[ra]C[Just 3 points in gote.]))
+(;W[ob];B[nb]C[White P18 would be bad; after Black O18 White cannot cut, so Black takes a huge chunk out of White's side.RIGHT])
+(;W[pa];B[oc];W[ra];B[ob]C[This would of course be a complete disaster to White.RIGHT])
+(;W[na];B[nb]
+(;W[pa];B[oc]C[Another line White should avoid; snapback.RIGHT])
+(;W[ob];B[ma]C[White can't cut and loses the side territory.RIGHT]))
+(;W[nc];B[nb]
+(;W[pa];B[oc]C[Snapback...RIGHT])
+(;W[mb];B[pa];W[oc];B[ma];W[la];B[na];W[lb]C[A huge reduction (and still sente!)RIGHT]))
+(;W[oc];B[pa];W[nb];B[na];W[lb];B[la];W[ka];B[ma];W[kb]C[Black would be delighted with this sente reduction...RIGHT]))
+(;B[pa];W[oa]
+(;B[ra];W[ob]C[Just 2 points in sente.])
+(;B[oc];W[ob]
+(;B[ra]C[One point in gote. Sure you can do better than this.])
+(;B[nb];W[ra]
+(;B[qa];W[nc]C[This will not gain Black anything.])
+(;B[nc];W[qa]C[Black loses the semeai and any chance at profit in the corner.]))
+(;B[nc];W[ra]
+(;B[nb])
+(;B[qa];W[nb]C[Black gains nothing.])
+(;B[mc];W[qa]C[Black will lose the semeai.])
+(;B[mb];W[mc];B[nb];W[lb]C[No chance.])))
+(;B[ob];W[ra]))
+(;B[na];W[pa];B[oc];W[ob])
+(;B[ob];W[oc];B[pa];W[nb]
+(;B[oa])
+(;B[ra];W[oa]C[Just 2 points in sente. Also White could postpone P2 taking sente at the cost of just a few points extra.])
+(;B[na];W[ma]MA[na]MA[ob]C[Ouch. You lost 2 stones. In total you just gained 2 points in sente.]))
+(;B[oc];W[ob]
+(;B[pa];W[oa])
+(;B[oa];W[nb])
+(;B[nb];W[nc]
+(;B[oa];W[mb]
+(;B[ma];W[la]
+(;B[pa];W[na];B[ra]C[When the smoke clears all Black has gained was 3 points in gote.])
+(;B[ra]C[White can tenuki now; Black has just 3 points in gote.])
+(;B[na];W[pa]))
+(;B[pa];W[na])
+(;B[na];W[ma])
+(;B[ra];W[na]C[About 2 points in sente (3 in gote or 1 if White gets to play O19).]))
+(;B[pa];W[oa])
+(;B[na];W[pa]))
+(;B[nc];W[nb]))
+(;B[nb];W[oc])
+(;B[ra];W[pa]C[0 points in sente]))

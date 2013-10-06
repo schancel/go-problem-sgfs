@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[1k]DP[20]SO[nutcase]CO[7]AB[qd][re][qf][qg][ph][pi][qi][ng][ne][nc][oc][pc]
+AW[qh][rc][qc][ob][pb][pg][pf][pe][pd]SZ[19]GN[Go Seigen L&D]
+
+(;W[rg]
+(;B[rf]
+(;W[rd]
+(;B[rh];W[qe]C[RIGHT])
+(;B[qe];W[rh]C[RIGHT]))
+(;W[rh];B[rd]C[Wrong.]))
+(;B[rh];W[qe]C[RIGHT]))
+(;W[qe];B[rd];W[rh];B[rg];W[sg];B[rf]C[Wrong.])
+(;W[rh];B[rg]C[Wrong.])
+(;W[rd];B[qe];W[rh];B[rg]C[Wrong.]))

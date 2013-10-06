@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[10k]DP[50]SO[Schizoid]CO[7]AB[mc]AB[lc]AB[nc]AB[od]AB[oe]AB[pf]AB[pg]AW[mh]AW[og]AW[of]AW[ne]AW[md]AW[ld]AB[kd]AB[ke]AW[kc]AW[jc]AW[id]AW[fc]TR[ld]TR[md]C[Black to capture the two white cutting stones.]AP[goproblems]
+(;B[me];W[le]
+(;B[mf];W[lf]C[:S])
+(;B[nd];W[lf]C[:S])
+(;B[lf];W[mf]
+(;B[nd];W[me];B[mg];W[nf];B[oh]C[Great!RIGHT])
+(;B[mg];W[lg]
+(;B[nd];W[kf]C[:S])
+(;B[kf];W[ng]C[:S]))))
+(;B[le];W[nf]C[:S])
+(;B[nd];W[me]C[:S])
+(;B[mf];W[nf]C[:S])
+(;B[lf];W[nf]C[:S])
+(;B[nf];W[mf]
+(;B[ng];W[mg]C[:S])
+(;B[me];W[le]
+(;B[nd];W[ng]C[:S])
+(;B[lf];W[ng]C[:S]))))

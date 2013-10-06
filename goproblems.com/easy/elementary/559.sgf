@@ -1,0 +1,19 @@
+( ;GE[elementary]DI[15k]DP[63]SO[xeno]CO[7]
+  ;AB[ap][bp][dr][ds][dp][bn][fr]
+   AW[cr][cs][aq][bq][ar]
+    C[Black to kill.]
+
+  (;B[cq];W[bs])
+  (;B[cp];W[bs])
+  (;B[as];W[bs])
+  (;B[br];W[bs])
+  
+  (;B[dq];W[bs])
+  (;B[eq];W[bs])
+
+  (;B[er];W[bs])
+
+  (;B[es];W[bs])
+
+  (;B[bs];W[dq];B[eq]C[RIGHT])
+)

@@ -1,0 +1,10 @@
+(;GE[life and death]DI[1k]DP[20]SO[Drai]CO[3]AW[ra]AW[sb]AB[qa]AB[qb]AB[qc]AB[pc]AB[rc]AB[sc]AB[qd]AW[pb]AW[oc]AW[pd]AW[qe]AB[re]AB[se]AW[rf]AW[sf]AW[ob]AW[nc]AW[pf]C[White to get seki, T to Tenuki]LB[nf:T]AP[goproblems]
+(;W[rd];B[sd];W[pa]C[good, is a seki, but one point worst than the right answer])
+(;W[pa];B[nf]C[White need another move?Yes O15 , No O16]LB[nd:N]LB[ne:Y]
+(;W[nd]C[very good, but you count it? if Black S18?];B[rb]C[very good, but you count it? if Black S18?]
+(;W[rd];B[sa];W[sd]C[4 point to everyone, black continue with sente, so it´s just a KO threat( and you can play it before him ; ) ) so it can be count like a seki, even that no one die playing itRIGHT])
+(;W[sd];B[sa];W[rd]C[4 point to everyone, black continue with sente, so it´s just a KO threat( and you can play it before him ; ) ) so it can be count like a seki, even that no one die playing itRIGHT]))
+(;W[ne]C[where?];B[mf]
+(;W[rd];B[sd]C[good, is a seki, but one point worst than the right answer, and you lost a good KO threat])
+(;W[sd];B[rd]C[good, is a seki, but one point worst than the right answer, and you lost a good KO threat])))
+(;W[nf];B[rb]))

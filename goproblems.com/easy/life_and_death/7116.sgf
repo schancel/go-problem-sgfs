@@ -1,0 +1,64 @@
+(;GE[life and death]DI[6k]DP[37]SO[Trucid]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][fa][bb][eb][bc][ec][cd][dd][ed]AB[db][fb][hb][fc][bd][fd][be][ce][de][ee]C[What can black do here?]
+(;B[da]CR[da]
+;W[ea]CR[ea]
+(;B[cc]CR[cc]
+;W[cb]CR[cb]
+(;B[ga]CR[ga]
+;W[dc]CR[dc]
+;B[cc]CR[cc]C[RIGHT])
+(;B[ac]CR[ac]
+;W[dc]CR[dc]C[White is alive]))
+(;B[ac]CR[ac]
+;W[cb]CR[cb]
+(;B[ab]CR[ab]
+;W[dc]CR[dc]C[White is alive])
+(;B[ga]CR[ga]
+;W[ca]CR[ca]
+(;B[ab]CR[ab]
+;W[dc]CR[dc])
+(;B[dc]CR[dc]
+;W[cc]CR[cc]C[White is alive])))
+(;B[ga]CR[ga]
+;W[cc]CR[cc]C[White is alive]))
+(;B[cc]CR[cc]
+;W[da]CR[da]
+(;B[ga]CR[ga]
+;W[ea]CR[ea]C[White lives])
+(;B[dc]CR[dc]
+;W[cb]CR[cb]C[White lives]))
+(;B[ga]CR[ga]
+;W[ea]CR[ea]
+(;B[cc]CR[cc]
+;W[da]CR[da]C[White lives])
+(;B[da]CR[da]
+;W[cc]CR[cc]C[White lives])
+(;B[cb]CR[cb]
+;W[cc]CR[cc]C[White lives])
+(;B[ac]CR[ac]
+;W[ab]CR[ab]
+(;B[cc]CR[cc]
+;W[da]CR[da]C[White lives])
+(;B[cb]CR[cb]
+;W[cc]CR[cc]C[White lives])
+(;B[da]CR[da]
+;W[cc]CR[cc]C[White lives])))
+(;B[ac]CR[ac]
+;W[cb]CR[cb]
+(;B[ga]CR[ga]
+;W[da]CR[da]
+;B[ea]CR[ea]
+;W[dc]CR[dc]C[White lives])
+(;B[dc]CR[dc]
+;W[da]CR[da]C[White lives])
+(;B[da]CR[da]
+;W[dc]CR[dc]
+(;B[ga]CR[ga]
+;W[ca]CR[ca]
+;B[ea]CR[ea]
+;W[fa]CR[fa]C[White lives])
+(;B[ea]CR[ea]
+;W[ca]CR[ca]C[White lives])))
+(;B[cb]CR[cb]
+;W[cc]CR[cc]C[White is alive]))

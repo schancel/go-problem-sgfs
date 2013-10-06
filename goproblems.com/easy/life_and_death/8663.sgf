@@ -1,0 +1,614 @@
+(;GE[life and death]DI[4k]DP[30]SO[koala]CO[6]AB[br]AB[er]AB[fr]AB[dq]AB[dp]AB[co]AB[bo]AB[bl]AB[cm]AB[dm]AB[dn]AB[en]AB[fn]AB[go]AB[ho]AB[hp]AB[hq]AB[iq]AB[ir]AB[is]AB[hs]AW[gs]AW[gr]AW[hr]AW[gq]AW[fq]AW[eq]AW[ep]AW[eo]AW[fo]AW[gp]AW[do]AW[cn]AW[bn]AW[dr]LB[dr:1]C[No ko threats anywhere else.  Don't let white live!]AP[goproblems]
+(;B[cs];W[cq]
+(;B[ds];W[cp]C[Black cannot take the second eye away.])
+(;B[cr];W[cp]TR[dq]TR[bp]C[White can make a second eye playing at either point.])
+(;B[cp];W[bp]C[No way out for black]))
+(;B[cr]
+(;W[cp]
+(;B[cq];W[bp]
+(;B[ds];W[bq]
+(;B[aq];W[ao]
+(;B[co];W[ar]
+(;B[as];W[fs]
+(;B[es]C[RIGHT])
+(;B[dr];W[bs]
+(;B[cs];W[ap]C[White will win this capturing race (verify for yourselves)])
+(;B[ar];W[ap]C[Black loses (please verify this for yourselves)]))
+(;B[cs]C[NOTTHIS])
+(;B[bs]C[NOTTHIS])
+(;B[ar]C[NOTTHIS])
+(;B[ap]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[an]C[NOTTHIS])
+(;B[al]C[NOTTHIS]))
+(;B[fs];W[bo]TR[dr]TR[es]C[RIGHT])
+(;B[bs];W[fs]
+(;B[es];W[bo]C[RIGHT])
+(;B[as];W[bo]
+(;B[es]C[RIGHT])
+(;B[bm];W[es]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[am];W[es]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[an];W[es]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[ar];W[es]C[Black loses the capturing race (please verify this for yourselves)])))
+(;B[an]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[bm]C[NOTTHIS]))
+(;B[am];W[co])
+(;B[bm];W[co])
+(;B[ar];W[co])
+(;B[fs];W[co])
+(;B[bs];W[co])
+(;B[as];W[co])
+(;B[cs];W[co])
+(;B[es];W[co]))
+(;B[bs];W[ao]TR[aq]TR[co]C[Two eyes for white])
+(;B[ar];W[ao]TR[aq]TR[co]C[Two eyes for white])
+(;B[fs];W[ao]C[];B[co];W[bo];B[aq]C[RIGHT])
+(;B[ao];W[an]C[Black cannot escape])
+(;B[ap];W[ao]TR[aq]TR[co]C[Black cannot play both])
+(;B[bm];W[ao]TR[aq]TR[co]C[Black cannot play both])
+(;B[an];W[ao]TR[co]TR[aq]C[Black cannot play both]))
+(;B[bq];W[ao]
+(;B[co];W[ds]C[]
+(;B[cs];W[ar]
+(;B[as];W[bs]
+(;B[es];W[aq]C[Provided black doesn't fill in F1 himself, black will win the capturing race (please verify this for yourselves)RIGHT])
+(;B[aq];W[ap]))
+(;B[aq]C[Two eyes for black.RIGHT]))
+(;B[aq];W[es])
+(;B[es];W[fs])
+(;B[fs];W[es])
+(;B[as];W[es])
+(;B[bs];W[es]))
+(;B[aq];W[co])
+(;B[ds];W[co])
+(;B[cs];W[co])
+(;B[bs];W[co])
+(;B[as];W[co])
+(;B[ar];W[co]))
+(;B[aq];W[ds]
+(;B[bq];W[es])
+(;B[cs];W[ao]
+(;B[co];W[ar]
+(;B[as];W[bq]LB[ar:A]C[Please play at A]
+(;B[ar]C[Black has two eyes.  White dies!RIGHT])
+(;B[bs]C[NOTTHIS])
+(;B[ap]C[NOTTHIS])
+(;B[es]C[NOTTHIS])
+(;B[fs]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[an]C[NOTTHIS]))
+(;B[bq]C[Two eyes for blackRIGHT])
+(;B[es];W[as]
+(;B[bs];W[ar]
+(;B[bq]C[RIGHT])
+(;B[as];W[bq]C[This race ends in seki.  please verify this for yourselves]))
+(;B[bq]C[RIGHT])))
+(;B[am];W[co])
+(;B[bm];W[co])
+(;B[es];W[co])
+(;B[ar];W[co])
+(;B[as];W[co])
+(;B[bq];W[co])
+(;B[bs];W[co])
+(;B[fs];W[es])
+(;B[an];W[co])
+(;B[ap];W[co]))
+(;B[ao];W[es])
+(;B[ap];W[es])
+(;B[es];W[fs])
+(;B[fs];W[es])
+(;B[bs];W[es])
+(;B[ar];W[es])
+(;B[as];W[es]))
+(;B[ap];W[ao]
+(;B[co];W[aq]
+(;B[bq];W[ds];B[cs];W[ar];B[es];W[bo]
+(;B[bm];W[fs];B[am];W[dr];B[ds];W[bs];B[as];W[ap];B[an];W[bs]C[No ko threats, black loses])
+(;B[am];W[fs]
+(;B[an];W[dr];B[ds];W[bs];B[as];W[ap];B[bm];W[bs]C[No ko threats black loses])
+(;B[bm];W[dr];B[ds];W[bs];B[as];W[ap];B[an];W[bs]C[No ko threats black loses])))
+(;B[fs];W[es])
+(;B[ar];W[bq]))
+(;B[aq];W[co]C[])
+(;B[bo];W[co])
+(;B[bq];W[co]))
+(;B[ao];W[ap]
+(;B[bm];W[an]TR[bo]TR[co])
+(;B[an];W[am])
+(;B[bq];W[an]TR[co]TR[bo]C[White can have two eyes playing at either point])
+(;B[aq];W[an]TR[bo]TR[co]C[White can play either point and gain two eyes])
+(;B[ds];W[an]TR[bo]TR[co]C[White can play either point to gain two eyes]))
+(;B[ar];W[ao];B[co];W[ds];B[cs];W[aq]
+(;B[bq]C[Black has two eyes, white has one.RIGHT])
+(;B[es];W[bq]C[Two eyes for white]))
+(;B[es];W[aq]
+(;B[ar];W[ao]TR[bq]TR[co]C[Black cannot play both])
+(;B[bq];W[ao];B[co]C[Black cannot gain two eyes or win the capturing race.  Please verify this for yourselves.]))
+(;B[cs];W[aq]
+(;B[ar];W[ao]TR[bq]TR[co]C[Black cannot play both points])
+(;B[bq];W[ao];B[co];W[fs];B[ds];W[ar]C[Black loses this capturing race.  Please verify this for yourselves.]))
+(;B[fs];W[es])
+(;B[as];W[aq]
+(;B[ar];W[ao]TR[co]TR[bq]C[Black cannot play both points])
+(;B[bq];W[ao];B[co];W[ds];B[cs];W[ap]
+(;B[ar];W[bs])
+(;B[es];W[ar]
+(;B[bm];W[bo];B[am];W[fs];B[an];W[bs]LB[gl:T]C[T to tenuki];B[gl];W[dr];B[as];W[ds];B[co]C[Blacks stones are alive, but white got off quite lightly])
+(;B[am];W[bo]
+(;B[bm];W[fs];B[an];W[bs]LB[gl:T]C[T to tenuki];B[gl];W[dr];B[as];W[ds];B[co]C[Blacks stones are alive, but white got off quite lightly])
+(;B[an];W[fs];B[bm];W[bs]LB[gl:T]C[T to tenuki];B[gl];W[dr];B[as];W[ds];B[co]C[Blacks stones are alive, but white got off quite lightly])))))
+(;B[bm];W[ao];B[co];W[aq]
+(;B[bq];W[ds];B[cs];W[ar];B[es]C[];W[dr]C[The best black can get is a seki (continue if you want to verify this)]
+(;B[am];W[bo]
+(;B[ds];W[fs];B[an];W[as]C[Seki])
+(;B[an];W[fs];B[ds];W[as]C[Seki])
+(;B[as];W[bs];B[ds];W[fs];B[as];W[ap];B[an];W[bs]C[No ko threats]))
+(;B[ds];W[as]
+(;B[am];W[bo]C[Seki])
+(;B[fs];W[bo]C[Seki])
+(;B[bs];W[ap];B[am];W[bo];B[an];W[co]C[Seki]))
+(;B[fs];W[ds];B[er];W[bs])
+(;B[as];W[bs];B[ds];W[bo]
+(;B[as];W[ap];B[am];W[fs];B[an];W[bs]C[No ko threats])
+(;B[am];W[fs];B[as];W[ap];B[an];W[bs]C[No ko threats])))
+(;B[ar];W[bq])
+(;B[ds];W[bq]))
+(;B[an];W[ao]
+(;B[co];W[am]
+(;B[bm];W[bq]
+(;B[aq];W[ds]
+(;B[cs];W[ar]
+(;B[es];W[ap]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[as];W[fs];B[es];W[bo]TR[ar]C[Black can connect to form two eyesRIGHT]))
+(;B[ar];W[es])
+(;B[bs];W[es])
+(;B[as];W[es]))
+(;B[ds];W[aq])
+(;B[ar];W[aq]))
+(;B[bq];W[bm])
+(;B[aq];W[bm])
+(;B[ds];W[bm]))
+(;B[am];W[co])
+(;B[bm];W[co]))
+(;B[bs];W[aq]
+(;B[bq];W[ao];B[co];W[ds]
+(;B[cs];W[ar];B[es];W[dr]
+(;B[bm];W[bo];B[am];W[fs];B[ds]C[Seki])
+(;B[am];W[bo]
+(;B[bm];W[fs];B[ds]C[Seki])
+(;B[an];W[fs];B[ds]C[Seki])))
+(;B[es];W[fs])
+(;B[fs];W[es])
+(;B[ar];W[es]))
+(;B[ds];W[bq];B[ar];W[ao])))
+(;B[bp];W[cq]C[]
+(;B[dq];W[bq]
+(;B[aq];W[dp]TR[es]TR[ao]C[White can play either point for an eye])
+(;B[ds];W[ap])
+(;B[bm];W[ds]TR[er]TR[fr]C[No way to save the marked stones])
+(;B[an];W[ds]TR[er]TR[fr]C[No way to save the marked stones]))
+(;B[bq];W[dq])
+(;B[ds];W[dq]))
+(;B[bq];W[cq]TR[dq]TR[bp]C[White can gain an eye playing either point])
+(;B[ds];W[cq]
+(;B[dr];W[bp]
+(;B[bq];W[ao]
+(;B[co];W[aq]LB[ar:A]C[Please play A]
+(;B[ar]TR[bs]TR[fs]C[Black gains two eyes at either pointRIGHT])
+(;B[as]C[NOTTHIS])
+(;B[bs]C[NOTTHIS])
+(;B[cs]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[an]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[fs]C[NOTTHIS])
+(;B[es]C[NOTTHIS]))
+(;B[aq];W[co])
+(;B[ar];W[co])
+(;B[as];W[co])
+(;B[bs];W[co])
+(;B[cs];W[co])
+(;B[es];W[co])
+(;B[fs];W[co])
+(;B[ap];W[co])
+(;B[bm];W[co])
+(;B[am];W[co])
+(;B[an];W[co])
+(;B[bo];W[co]))
+(;B[ap];W[ao]
+(;B[co];W[aq];B[bq];W[ar]
+(;B[bs];W[fs]C[Black loses this capturing race.  Please verify this for yourselves.])
+(;B[fs];W[bo];B[bs]C[Black is safe with two eyes.RIGHT])
+(;B[bm]C[Black loses this capturing race.  Please verify this for yourselves.])
+(;B[am]C[Black loses this capturing race.  Please verify this for yourselves.])
+(;B[as];W[bs]C[Black loses this capturing race.  Please verify this for yourselves.]))
+(;B[aq];W[co])
+(;B[bo];W[co]C[Two eyes for white]))
+(;B[aq];W[fs]
+(;B[ar];W[bs]
+(;B[ap]C[Mostly ends in seki.  Verify this if you want, though not many variations];W[ao]
+(;B[bq];W[co])
+(;B[co];W[cs]
+(;B[bq];W[bo]
+(;B[bm];W[es])
+(;B[am];W[es]))
+(;B[bm];W[bo];B[am];W[bq];B[an];W[co]C[Seki])
+(;B[am];W[bo];B[bm];W[bq];B[an];W[co]C[Seki])))
+(;B[bq]C[Mostly ends in seki.  Verify this if you want, though not many variations];W[ao]
+(;B[co];W[cs]
+(;B[es];W[bo];B[bm];W[ap];B[as];W[cs])
+(;B[ap];W[bo];B[bm];W[es];B[as];W[cs])
+(;B[bm];W[ap];B[am];W[bo];B[an];W[co]C[Seki])
+(;B[am];W[ap];B[an];W[bo];B[bm];W[co]C[Seki]))
+(;B[ap];W[co])
+(;B[es];W[co])
+(;B[cs];W[co])
+(;B[as];W[co]))
+(;B[ao]C[NICE!RIGHT]))
+(;B[bq];W[ao];B[co];W[bs];B[as];W[ar];B[cs]C[Two eyes for blackRIGHT]))
+(;B[ar];W[bq]
+(;B[aq];W[ao];B[co]TR[bs]TR[fs]C[Black can play either point to gain two eyesRIGHT])
+(;B[bs];W[ao]TR[co]TR[aq]C[Black cannot play both])
+(;B[fs];W[ao];B[co];W[bo];B[aq]C[C5 is a false eye!RIGHT])
+(;B[ap];W[ao]TR[aq]TR[co]C[Black cannot play both]))
+(;B[ao];W[ap]
+(;B[bm];W[an]TR[bo]TR[co]C[White can gain an extra eye at either point])
+(;B[an];W[am]))
+(;B[fs];W[ao]
+(;B[bs];W[co])
+(;B[as];W[co])
+(;B[ar];W[co])
+(;B[bq];W[co])
+(;B[aq];W[co])
+(;B[co];W[bo]C[Black could tenuki and still easily gain two eyesRIGHT]))
+(;B[bm];W[ao];B[co];W[bq]
+(;B[aq];W[fs]C[Mostly ends in seki.  Verify this if you want, though not many variations]
+(;B[bs];W[ar]
+(;B[as];W[ap]
+(;B[am];W[bo];B[an];W[co]C[Seki, due to lack of ko threats])
+(;B[es];W[bo];B[am];W[ar]C[no ko threats])
+(;B[ar];W[bo];B[am];W[es]))
+(;B[am];W[ap];B[an];W[bo];B[as]C[White tenukis as it is a seki (due to the lack of ko threats).  Verify this for yourselves]))
+(;B[ar];W[bs];B[am];W[cs];B[an];W[bo];B[ap];W[co]C[Seki]))
+(;B[fs];W[bo];B[aq]C[nice!RIGHT])))
+(;B[bq];W[dr]TR[dq]TR[bp]C[White can gain an extra eye at either point])
+(;B[bp];W[dr]
+(;B[bq];W[dq]C[Two eyes for white])
+(;B[dq];W[bq]
+(;B[aq];W[dp]
+(;B[dr];W[ao]C[White gains a second eye])
+(;B[ap];W[es]
+(;B[fs];W[dr]C[Black is caught! No ko threats!])
+(;B[dr]C[Whatever white does, black has an answer for.RIGHT])
+(;B[cs];W[dr]C[Black is caught in a snapback and has no ko threats to get out.];B[fs];W[es]))
+(;B[ar];W[es]
+(;B[fs];W[dr])
+(;B[ap];W[dr]C[Black is caught in a snapback and has no ko threats to escape])
+(;B[dr]C[White can do nothingRIGHT])
+(;B[bs];W[dr]C[Black is caught in a snapback and has no ko threats to escape])
+(;B[cs];W[dr]C[Black is caught in a snapback and has no ko threats to escape]))
+(;B[fs];W[dr]TR[cs]TR[es]C[No ko threats to get out of this one])
+(;B[an];W[es]
+(;B[fs];W[dr]TR[cs]TR[es])
+(;B[dr]C[White can do nothingRIGHT])
+(;B[cs];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[bs];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[ap];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[bm];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[ao];W[dr]C[Black is caught in a snapback with no ko threats to get out]))
+(;B[bm];W[es]
+(;B[fs];W[dr]TR[cs]TR[es])
+(;B[dr]C[White can do nothingRIGHT])
+(;B[an];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[cs];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[ap];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[bs];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[ar];W[dr]C[Black is caught in a snapback with no ko threats to get out])
+(;B[as];W[dr]C[Black is caught in a snapback with no ko threats to get out])))
+(;B[dr];W[ap]C[If black decides to cut, white can save his group with A5])
+(;B[an]C[Mostly ends in seki.  I haven't included many variations on this one.];W[ap]
+(;B[ao];W[am])
+(;B[bm];W[ar]
+(;B[bs];W[fs];B[ao];W[aq];B[as];W[dp]
+(;B[es];W[dr]C[Black loses])
+(;B[dr]C[Seki]))
+(;B[fs];W[bs]
+(;B[dr];W[dp];B[ao];W[aq]C[Seki])
+(;B[cs];W[aq];B[ao];W[dp];B[as];W[dr]C[Black loses])
+(;B[ao];W[aq]
+(;B[cs];W[dp];B[as];W[dr]C[Black loses])
+(;B[dr];W[dp]C[Seki])))
+(;B[dr];W[dp]
+(;B[fs];W[bs];B[ao];W[aq]C[Seki])
+(;B[as];W[bs];B[fs];W[aq];B[ao]C[Seki])
+(;B[ao];W[aq]
+(;B[fs];W[bs]C[Seki])
+(;B[bs];W[fs]C[Seki])))
+(;B[ao];W[aq]
+(;B[bs];W[fs];B[as];W[dp]
+(;B[es];W[dr]C[No ko threats])
+(;B[dr]C[Seki]))
+(;B[dr];W[dp];B[fs];W[bs]C[Seki])
+(;B[fs];W[bs];B[cs];W[dp];B[as];W[dr]C[No ko threats]))))))
+(;B[fs];W[dr]
+(;B[dq];W[bp]C[Two eyes for white])
+(;B[bp];W[es])
+(;B[bq];W[es])
+(;B[cs];W[es])
+(;B[bm];W[es])
+(;B[ao];W[es])
+(;B[ap];W[es])
+(;B[aq];W[es])
+(;B[ar];W[es])
+(;B[as];W[es])
+(;B[bs];W[es])
+(;B[dp];W[es])))
+(;B[fs];W[es])
+(;B[es];W[cq]TR[dq]TR[bp]C[White can gain an eye at either point]))
+(;W[cq]))
+(;B[cp];W[ds]C[Black cannot take away whites second eye])
+(;B[bp];W[ds]C[Black cannot take away whites second eye])
+(;B[cq];W[es]C[Black cannot take away whites second eye])
+(;B[bq];W[ds]C[Black cannot take away whites second eye])
+(;B[es];W[ds])
+(;B[fs];W[es])
+(;B[ds];W[cp]
+(;B[cq];W[bp]
+(;B[bq];W[ao]
+(;B[co];W[fs]
+(;B[cr];W[aq]LB[ar:A]C[Please play A]
+(;B[ar];W[bs]LB[es:A]
+(;B[es]C[White dies!RIGHT])
+(;B[dr]C[NOTTHIS])
+(;B[cs]C[NOTTHIS])
+(;B[as]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[an]C[NOTTHIS]))
+(;B[as]C[NOTTHIS])
+(;B[bs]C[NOTTHIS])
+(;B[cs]C[NOTTHIS])
+(;B[es]C[NOTTHIS])
+(;B[dr]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[an]C[NOTTHIS]))
+(;B[es];W[cs])
+(;B[cs];W[es];B[er]C[Nice throw-in, but black will lose this capturing race (please verify this for yourselves)])
+(;B[bs];W[es]
+(;B[er];W[cs])
+(;B[cs];W[er]))
+(;B[ar];W[es]
+(;B[cs];W[er])
+(;B[er];W[cs]))
+(;B[aq];W[es]
+(;B[er];W[cs])
+(;B[cs];W[er])))
+(;B[cr];W[co]))
+(;B[ap];W[ao]
+(;B[co];W[bq]TR[cr]TR[aq]C[White can gain an eye at either point])
+(;B[aq];W[co])
+(;B[bq];W[co]))
+(;B[aq];W[ao]
+(;B[co];W[fs]
+(;B[cr];W[bs]
+(;B[es];W[bo];B[ar]C[Two eyes for blackRIGHT])
+(;B[ar];W[bo];B[es]C[RIGHT])
+(;B[as];W[ar]
+(;B[cs];W[bo]
+(;B[as];W[es]
+(;B[bq]C[RIGHT])
+(;B[ap]C[I don't know the outcome of this capturing race.  It can easily be avoided so I've  marked it wrong]))
+(;B[es];W[bq];B[as]C[RIGHT]))
+(;B[es];W[bo];B[cs]C[RIGHT])
+(;B[bq];W[bo];B[es]C[RIGHT])
+(;B[ap];W[bq]C[Black loses the capturing race (please verify this for yourselves)]))
+(;B[cs];W[bq]
+(;B[ar];W[bo];B[es]C[RIGHT])
+(;B[as];W[bo];B[es];W[ap];B[ar]C[RIGHT])
+(;B[es];W[bo]C[RIGHT])))
+(;B[es];W[cs])
+(;B[cs];W[es];B[er];W[bq];B[cr];W[ar]C[Black loses this capturing race.  Please verify this for yourselves])
+(;B[bs];W[es]
+(;B[er];W[cs])
+(;B[cs];W[er])))
+(;B[cr];W[co])
+(;B[fs];W[es]))
+(;B[cr];W[aq]
+(;B[bq];W[ao]
+(;B[co];W[fs]TR[es]TR[ar]C[Playing any of these points pretty much guarantees black two eyes.RIGHT]TR[bs])
+(;B[es];W[co])
+(;B[fs];W[co])
+(;B[bs];W[co]))
+(;B[ar];W[ao]TR[co]TR[bq]C[Black cannot play both])
+(;B[fs];W[ao]
+(;B[co];W[bo]C[]
+(;B[ar];W[bq])
+(;B[bs];W[bq])
+(;B[as];W[bq])
+(;B[bq]C[Black is safe and sound, and white is reduced to one eyeRIGHT]))
+(;B[bs];W[co])
+(;B[ar];W[co])
+(;B[cs];W[co])
+(;B[bq];W[co])
+(;B[bm];W[co]))
+(;B[ao];W[an]
+(;B[bq];W[ap]TR[co]TR[bo]C[Black needs to play both to make this eye false])
+(;B[bm];W[ap]TR[co]TR[bo]C[Black needs to play both to make this eye false])
+(;B[am]C[Black needs to play both to make this eye false])
+(;B[fs];W[ap]TR[co]TR[bo]C[Black needs to play both to make this eye false])))
+(;B[ao];W[ap]
+(;B[an];W[am])
+(;B[bm];W[an]TR[co]TR[bo]C[White can play either for a second eye])
+(;B[bq];W[an]TR[co]TR[bo]C[Black needs to play both in order to make a false eye])
+(;B[aq];W[an]TR[bo]TR[co]C[Black needs to play both in order to make a false eye]))
+(;B[bm];W[ao];B[co];W[bq]
+(;B[cr];W[aq]C[Two eyes for white])
+(;B[aq];W[cr]))
+(;B[an];W[ao]
+(;B[am];W[co])
+(;B[co];W[bq]TR[aq]TR[cr]C[White can play either point for an eye])))
+(;B[bp];W[cq]C[Black cannot take this eye away])
+(;B[bq];W[cq]C[Black cannot take this eye away])
+(;B[cr];W[cq]
+(;B[dr];W[bp]
+(;B[bq];W[ao]
+(;B[co];W[aq]LB[ar:A]C[Please play at A]
+(;B[as]C[NOTTHIS])
+(;B[bs]C[NOTTHIS])
+(;B[cs]C[NOTTHIS])
+(;B[es]C[NOTTHIS])
+(;B[fs]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[an]C[NOTTHIS])
+(;B[ar]TR[bs]TR[fs]C[Black can make two eyes at either pointRIGHT]))
+(;B[aq];W[co])
+(;B[ar];W[co])
+(;B[as];W[co])
+(;B[bs];W[co])
+(;B[cs];W[co])
+(;B[fs];W[co])
+(;B[es];W[co])
+(;B[ap];W[co])
+(;B[bm];W[co])
+(;B[am];W[co])
+(;B[an];W[co]))
+(;B[ap];W[ao]
+(;B[co];W[aq]
+(;B[bq];W[ar]
+(;B[bs];W[fs]C[White wins this capturing race.  Please verify this for yourselves])
+(;B[fs];W[bo];B[bs]C[Nice!RIGHT]))
+(;B[ar];W[bq]C[Two eyes for white]))
+(;B[aq];W[co]))
+(;B[ao];W[ap]
+(;B[an];W[am])
+(;B[bm];W[an]TR[bo]TR[co]C[White can get an eye at either point]))
+(;B[aq];W[bm]
+(;B[bq];W[ao]TR[co]TR[am]C[Black cannot play both])
+(;B[ap];W[ao]TR[co]TR[am]C[Black cannot play both])
+(;B[am];W[ao];B[co];W[ar]LB[fs:A]C[Please play A]LB[bq:A]
+(;B[as]C[NOTTHIS])
+(;B[bs]C[NOTTHIS])
+(;B[cs]C[NOTTHIS])
+(;B[bq]TR[as]TR[fs]C[Black is secured two eyesRIGHT])
+(;B[ap]C[NOTTHIS])
+(;B[an]C[NOTTHIS])
+(;B[es]C[NOTTHIS])
+(;B[fs];W[bo]
+(;B[bs]C[RIGHT])
+(;B[bq]C[RIGHT])
+(;B[as];W[bq]
+(;B[ap];W[ar]C[Pointless])
+(;B[ar]C[RIGHT])
+(;B[bs]C[RIGHT])))))
+(;B[bm];W[ao]
+(;B[co];W[fs]
+(;B[bq]C[Black wins the capturing race (verify this for yourselves)RIGHT])
+(;B[aq];W[bq];B[ar];W[bs]C[Black wins the capturing race (verify this for yourselves)RIGHT])
+(;B[ap];W[aq];B[bq];W[ar]
+(;B[as];W[bs]C[Black is screwed])
+(;B[bs];W[bo];B[am];W[ap];B[an];W[es]C[Seki]))
+(;B[ar];W[bs]
+(;B[ap];W[aq];B[bq];W[cs];B[ap];W[bo];B[am]C[White settles for a seki and plays elsewhere])
+(;B[bq];W[cs];B[am];W[bo];B[an]C[Seki])
+(;B[aq];W[cs];B[am];W[bo];B[ap];W[es];B[an]C[Seki]))
+(;B[bs];W[ar]
+(;B[bq];W[aq]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[aq];W[bq]C[Black loses the capturing race (please verify this for yourselves)])))
+(;B[aq];W[co])
+(;B[bq];W[co])
+(;B[ar];W[co])
+(;B[fs];W[co])
+(;B[bs];W[co])
+(;B[as];W[co])
+(;B[ap];W[co])
+(;B[an];W[co])
+(;B[bo];W[co]))
+(;B[an];W[ao]
+(;B[co];W[am];B[bm];W[fs]
+(;B[bq];W[ar];B[aq]C[RIGHT])
+(;B[ar];W[bs];B[ap];W[bo];B[bq]TR[aq]TR[an]C[double ko.  black cannot kill])
+(;B[aq];W[ar]
+(;B[bq]C[RIGHT])
+(;B[as];W[bq]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[bs];W[bq]C[Black loses this race]))
+(;B[bs];W[ar]
+(;B[aq];W[bq]C[Black loses the capturing race (please verify this for yourselves)])
+(;B[bq];W[aq]C[Black loses the capturing race (please verify this for yourselves)])))
+(;B[am];W[co])
+(;B[fs];W[co]))
+(;B[fs];W[ao]
+(;B[co];W[bo]C[White is deadRIGHT])
+(;B[bq];W[co])
+(;B[ap];W[co])
+(;B[aq];W[co])
+(;B[ar];W[co])
+(;B[bs];W[co])
+(;B[as];W[co])))
+(;B[bp];W[dr]
+(;B[dq];W[bq]
+(;B[aq];W[dp]
+(;B[dr];W[ao]TR[ap]TR[ar]C[:(])
+(;B[ar];W[es]
+(;B[dr]C[Black is safeRIGHT])
+(;B[fs];W[dr]TR[es]TR[cs])
+(;B[cs];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[bs]C[];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[ap];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[as];W[dr]C[Black is caught in a snapback with no ko threats to get out]))
+(;B[ap];W[es]
+(;B[dr]C[White can do nothingRIGHT])
+(;B[fs];W[dr]TR[cs]TR[es])
+(;B[cs];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[ar];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[bs];W[dr]C[Black is caught in a snapback and has no ko threats to get out])
+(;B[as];W[dr]C[Black is caught in a snapback with no ko threats to get out]))
+(;B[ao];W[an]TR[ap]TR[ar]C[:(])
+(;B[fs];W[dr]TR[cs]TR[es])
+(;B[bm];W[ap]
+(;B[fs];W[dr]TR[cs]TR[es]C[No ko threats to get you out of this one])
+(;B[ao];W[es]
+(;B[dr]C[Well done!RIGHT])
+(;B[fs];W[dr]TR[cs]TR[es]C[No ko threats to get you out....])
+(;B[cs];W[dr]C[Black is caught in a snapback with no ko threats to save him])
+(;B[bs];W[dr]C[Black is caught in a snapback with no ko threats to save him])
+(;B[an];W[dr]C[Black is caught in a snapback with no ko threats to save him])
+(;B[ar];W[dr]C[Black is caught in a snapback with no ko threats to save him])
+(;B[as];W[dr]C[Black is caught in a snapback with no ko threats to save him]))
+(;B[an];W[ar]
+(;B[fs];W[dr]TR[cs]TR[es]C[No ko threats to get out of this one])
+(;B[dr];W[bs]
+(;B[ao];W[aq]C[Seki (unless you play C1)])
+(;B[fs];W[aq];B[ao]C[Seki])))))
+(;B[dr];W[ap])
+(;B[ar];W[ap])
+(;B[an]C[After this move white is effectively crippled and can do littleRIGHT])
+(;B[bm]C[After this move white is effectively crippled and can do littleRIGHT]))
+(;B[bq];W[dq])
+(;B[es];W[dq]))
+(;B[bq];W[dr]TR[dq]TR[bp]C[White can get his second eye at either point])
+(;B[bm];W[dr];B[dq];W[bp]
+(;B[fs];W[ao])
+(;B[an]C[Black can wrap white up pretty quickly if he wants toRIGHT]))
+(;B[fs];W[dr]
+(;B[bp];W[es])
+(;B[bq];W[es])
+(;B[dq];W[bp]C[White will have two eyes after taking these two stones])))
+(;B[cs])
+(;B[fs];W[es]))
+(;B[ao];W[ds]C[Black cannot take away this eye])
+(;B[an];W[ds]C[Black cannot take away this eye])
+(;B[ap];W[ds]C[Black cannot take away this eye])
+(;B[aq]C[White cannot take away this eye];W[ds]C[Black cannot take away this eye])
+(;B[as];W[ds]C[Black cannot take away this eye])
+(;B[bs];W[ds]C[Black cannot take away this eye])
+(;B[ar];W[ds]C[Black cannot take away this eye])
+(;B[bm];W[ds]C[Black cannot take away this eye])
+(;B[am];W[ds]C[Black cannot take away this eye])
+(;B[al];W[ds]C[Black cannot take away this eye])
+(;B[gn]C[NOTTHIS])
+(;B[gm]C[NOTTHIS]))

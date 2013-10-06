@@ -1,0 +1,76 @@
+(;GE[life and death]DI[5d]DP[4]SO[santa c]CO[8]AW[bq]AW[cq]AW[cp]AB[dq]AB[dp]AB[cr]AB[ds]AB[er]AB[eq]AB[do]AB[eo]AB[fo]AW[ep]AW[fp]AW[fq]AW[fr]AW[fs]AW[hp]AW[go]AW[gn]AW[fm]AW[dm]AW[cm]AW[bm]C[Rasputin-like black, eh? Just won't die? ;)]AP[goproblems]
+(;B[br]C[Only wA2 will be played out as a response by the applet. Since wE1 lets live too easily - Isn't the strongest resistance.]
+(;W[ar]C[CHOICE]
+(;B[bo];W[co]
+(;B[cn];W[bn]
+(;B[ap]C[White takes at D6. The other sequence, is just to show that nothing can be done..]
+(;W[dn]C[CHOICE]
+(;B[es]C[Well - It really should end here, as A and B are miai to kill... But it won't! ;) The applet will play B cause it requires a move more - Yup ;) (But A is also possible..)]LB[aq:A]LB[bs:B]
+(;W[bs]C[CHOICE]
+(;B[aq];W[cn]
+(;B[cs]C[Well done! ;)RIGHT])
+(;B[as]C[Black can live by playing c1 instead.  As White has an extra big ko-threat and the chances of winning the ko (and thereby gaining an extra point.) are negligible, strictly speaking this move is inferior to c1.RIGHT]))
+(;B[cs];W[aq]C[Black's dead!]))
+(;W[aq];B[bs]C[And black'd live.. ;)RIGHT]))
+(;B[bs];W[es]C[Black's dead! (A2 will be a flase eye)])
+(;B[aq];W[es]C[Black's dead! (A2 will be a flase eye after bB1!)]))
+(;W[aq];B[bs];W[es];B[dn];W[an];B[as]C[Bam! - Wouldn't it be even worse for white? :)RIGHT]))
+(;B[dn];W[ao]C[Black's dead!])
+(;B[bs];W[es]
+(;B[ap];W[dn]C[Black's dead!])
+(;B[dn];W[ao]C[Black's dead!]))
+(;B[es];W[bs]
+(;B[dn];W[ao]C[Black's dead!])
+(;B[ap];W[aq]
+(;B[dn];W[an];B[cs];W[ao]C[Black's dead! (Thanks BartTM!;)])
+(;B[cs];W[dn]C[Black's dead!]))))
+(;B[es];W[bs]
+(;B[ap];W[aq];B[cn];W[bn])
+(;B[cn];W[bn]))
+(;B[bs];W[es]
+(;B[cn];W[bn])
+(;B[ap];W[cn]C[Black's dead!]))
+(;B[ap];W[cn]
+(;B[aq];W[es]C[Black's dead!])
+(;B[bs];W[es];B[aq]C[Black's dead!])
+(;B[es];W[bs];B[aq];W[bp]
+(;B[cs];W[ao]C[Black's dead!])
+(;B[as]MA[ar]C[Ko.. Not enought when unconditionaly life's there, no? (Thanks Spirit and BartTM!)];W[ar]C[NOTTHIS]))))
+(;B[bs];W[es]C[Black's dead!])
+(;B[es];W[bs]
+(;B[bo];W[co])
+(;B[co];W[bo]C[Black's dead!])
+(;B[cs];W[aq]
+(;B[bo];W[co];B[cn];W[bn]
+(;B[ap])
+(;B[dn];W[ao]C[Black's dead!]))
+(;B[co];W[bo]C[Black's dead!])))
+(;B[co];W[bo]
+(;B[bs];W[es]C[Black's dead!])
+(;B[es];W[bs]C[Black's dead!])))
+(;W[es];B[ar];W[bs];B[co];W[bo];B[bp];W[ap];B[aq]C[Well done ;)RIGHT]))
+(;B[co];W[bo];B[br];W[ar])
+(;B[bo];W[co];B[cn];W[bn]
+(;B[br];W[es]C[Black's dead!])
+(;B[dn];W[ao]
+(;B[es];W[br]C[Black's dead!])
+(;B[br];W[es]C[Black's dead!]))
+(;B[es];W[br]C[Black's dead!]))
+(;B[es];W[br];B[bo];W[an];B[co];W[ao]C[Black's dead!])
+(;B[ar];W[br]
+(;B[co];W[bo]C[Black's dead!])
+(;B[bo];W[co];B[cn];W[bn];B[dn];W[ao]C[Black's dead!]))
+(;B[bs];W[br]
+(;B[bo];W[co];B[cn];W[bn]C[Black's dead!])
+(;B[co];W[bo]C[Black's dead!]))
+(;B[ap];W[co]
+(;B[cn];W[bn]
+(;B[br];W[es]
+(;B[ar];W[bs]C[Black's dead!])
+(;B[bs];W[ar]C[Black's dead!]))
+(;B[es];W[br]C[Black's dead!])
+(;B[dn];W[br]C[Black's dead!]))
+(;B[br];W[es]
+(;B[ar];W[bs];B[cn];W[bn]C[Black's dead!])
+(;B[bs];W[ar];B[cn];W[bn]C[Black's dead!]))
+(;B[es];W[br];B[cn];W[bn]C[Black's dead!])))

@@ -1,0 +1,7 @@
+(;GE[best move]DI[18k]DP[65]SO[chipuni]CO[6]AB[fc]AB[jc]AB[pd]AB[bd]AW[dd]AW[be]AW[ce]AW[bf]AB[cf]AB[df]AB[dg]AB[bg]AB[bh]AW[cg]AW[ch]AW[dp]AW[mo]AB[mp]AW[np]AW[nq]AB[pp]AB[pq]AW[qq]AB[qn]LB[ci:A]LB[jo:B]TR[cg]TR[ch]C[If the ladder works, play at A.  If the ladder does not work, play at B.FORCE]AP[goproblems]
+(;B[ci];W[dh]
+(;B[eh];W[di];B[dj];W[ei];B[fi];W[ej];B[ek];W[fj];B[gj];W[fk];B[fl];W[gk];B[hk];W[gl];B[gm];W[hl];B[il];W[hm];B[hn];W[im];B[jm];W[in];B[io];W[jn];B[kn];W[jo];B[jp];W[ko];B[lo];W[kp];B[kq];W[lp]
+(;B[lq]C[The ladder works!RIGHT])
+(;B[mq];W[ln]))
+(;B[di];W[eh]C[Sorry, that's not a ladder.]))
+(;B[jo]C[Actually, the ladder works.]))

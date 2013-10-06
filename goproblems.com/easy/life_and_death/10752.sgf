@@ -1,0 +1,62 @@
+(;GE[life and death]DI[4k]DP[30]SO[Athanatos]CO[3]AB[br]AB[bq]AB[cp]AB[dp]AB[eo]AB[en]AB[fn]AB[fp]AB[gn]AB[ho]AB[hp]AB[hq]AB[hr]AB[hs]AW[cq]AW[dq]AW[eq]AW[ep]AW[fo]AW[go]AW[gp]AW[gq]AW[gr]C[White to live]AP[goproblems]
+(;W[es]
+(;B[gs]
+(;W[fs]C[RIGHT])
+(;W[fr]C[Though not optimalRIGHT]))
+(;B[cr]
+(;W[fq];B[fs]
+(;W[gs];B[er]
+(;W[dr];B[ds])
+(;W[fr];B[dr]))
+(;W[dr]C[RIGHT]))
+(;W[dr]
+(;B[fr];W[fq]C[RIGHT])
+(;B[gs]
+(;W[fs]C[RIGHT])
+(;W[fq];B[fs];W[fr]C[Though not optimalRIGHT])))
+(;W[fr];B[dr])))
+(;W[cr];B[gs]
+(;W[ds];B[fr];W[fq];B[er])
+(;W[fs];B[fr];W[fq];B[es];W[er];B[ds];W[fs];B[cs])
+(;W[fr];B[es]
+(;W[ds];B[er]
+(;W[fs];B[fq])
+(;W[dr];B[fs]))
+(;W[er];B[ds]TR[cs]TR[fs]))
+(;W[er];B[ds]
+(;W[es];B[cs])
+(;W[cs];B[es];W[fr];B[fs]))
+(;W[cs];B[fr];W[fq];B[er])
+(;W[es];B[fr];W[fq];B[er]))
+(;W[ds];B[cr]
+(;W[dr];B[fr]
+(;W[gs];B[fq])
+(;W[fq];B[gs];W[fs];B[es];W[er];B[fs]))
+(;W[fr];B[dr];W[er];B[gs])
+(;W[fq];B[dr];W[er];B[fs]
+(;W[gs];B[es])
+(;W[es];B[gs])))
+(;W[gs];B[es]
+(;W[fq];B[ds]
+(;W[cs];B[cr];W[er];B[fs];W[dr];B[bs])
+(;W[er];B[fs];W[cs];B[cr]))
+(;W[er];B[ds]
+(;W[fs];B[fq];W[fr]C[You died in gote...])
+(;W[fq];B[fs];W[cs];B[cr]))
+(;W[ds];B[dr];W[er];B[cs]
+(;W[fs];B[fq]
+(;W[ds];B[cr])
+(;W[cr];B[fr]))
+(;W[fq];B[fs];W[cr];B[ds];W[fr];B[fp]))
+(;W[cr];B[cs]
+(;W[er];B[ds]
+(;W[fs];B[fq])
+(;W[fq];B[fs]))
+(;W[ds];B[er]C[Thought about it...?]
+(;W[fq];B[dr])
+(;W[fr];B[dr])
+(;W[dr];B[fq]))))
+(;W[fr];B[es]
+(;W[dr];B[ds])
+(;W[ds];B[dr];W[cr];B[cs];W[er];B[ds])
+(;W[cr];B[cs];W[ds];B[dr];W[er];B[ds])))

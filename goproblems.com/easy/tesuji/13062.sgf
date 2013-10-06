@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[7k]DP[41]SO[Gelya]CO[0]SZ[19]AW[ga]AW[pa]AW[eb]AW[gb]AW[mb]AW[nb]AW[qb]AW[rb]AW[hc]AW[ic]AW[nc]AW[oc]AW[pc]AW[rc]AW[bd]AW[hd]AW[jd]AW[md]AW[be]AW[fe]AW[he]AW[je]AW[le]AW[cf]AW[df]AW[gf]AW[hf]AW[qf]AW[sf]AW[fg]AW[hg]AW[ig]AW[jg]AW[mg]AW[rg]AW[sg]AW[ch]AW[fh]AW[lh]AW[qh]AW[rh]AW[ci]AW[fi]AW[gi]AW[ii]AW[ji]AW[ki]AW[li]AW[pi]AW[qi]AW[ri]AW[gj]AW[hj]AW[qj]AW[sj]AW[ck]AW[gk]AW[hk]AW[ik]AW[nk]AW[rk]AW[sk]AW[bl]AW[cl]AW[dl]AW[nl]AW[ql]AW[cm]AW[mm]AW[qm]AW[bn]AW[cn]AW[kn]AW[co]AW[fo]AW[ho]AW[hp]AW[jp]AW[np]AW[cq]AW[fq]AW[gq]AW[nq]AW[qq]AW[rq]AW[nr]AW[pr]AW[rr]AW[os]AB[fa]AB[cb]AB[fb]AB[lb]AB[pb]AB[bc]AB[dc]AB[fc]AB[jc]AB[kc]AB[lc]AB[mc]AB[qc]AB[cd]AB[dd]AB[fd]AB[id]AB[nd]AB[od]AB[pd]AB[qd]AB[rd]AB[ce]AB[ie]AB[ke]AB[me]AB[re]AB[se]AB[if]AB[jf]AB[kf]AB[lf]AB[mf]AB[pf]AB[rf]AB[gg]AB[kg]AB[lg]AB[pg]AB[qg]AB[dh]AB[gh]AB[hh]AB[ih]AB[jh]AB[kh]AB[ph]AB[sh]AB[di]AB[hi]AB[oi]AB[dj]AB[fj]AB[ij]AB[jj]AB[kj]AB[lj]AB[nj]AB[pj]AB[dk]AB[ek]AB[mk]AB[pk]AB[qk]AB[el]AB[hl]AB[jl]AB[pl]AB[rl]AB[sl]AB[dm]AB[fm]AB[hm]AB[jm]AB[pm]AB[rm]AB[dn]AB[en]AB[gn]AB[pn]AB[bo]AB[go]AB[bp]AB[cp]AB[dp]AB[fp]AB[gp]AB[pp]AB[qp]AB[rp]AB[dq]AB[oq]AB[pq]AB[dr]AB[or]C[B to play a tesuji (perfect move)]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo];B[ef]
+(;W[ff]C[white mistakes]
+(;B[ee];W[eg];B[dg]C[Correct! White is dead. Check it on your own if you are unsure.RIGHT]TR[eg]TR[fg]TR[ff]TR[fe]TR[gf]TR[hf]TR[he]TR[hd]TR[hc]TR[ic]TR[gb]TR[ga]TR[gi]TR[fi]TR[fh]TR[gj]TR[gk]TR[hk]TR[hj]TR[ik]TR[hg]TR[ig]TR[jg])
+(;B[eg];W[ee];B[de]C[Correct! White is dead. Check it on your own if you are unsure.RIGHT]TR[ee]TR[fe]TR[ff]TR[fg]TR[fh]TR[fi]TR[gi]TR[gj]TR[gk]TR[hk]TR[hj]TR[ik]TR[gf]TR[hf]TR[he]TR[hd]TR[hc]TR[ic]TR[hg]TR[ig]TR[jg]TR[gb]TR[ga])
+(;B[dg];W[ee]
+(;B[de];W[eg]C[alive...])
+(;B[eg];W[de]C[alive...]))
+(;B[de];W[eg]
+(;B[dg];W[ee]C[alive...])
+(;B[ee];W[dg]C[alive...])))
+(;W[ee]C[white's correct play]
+(;B[eg];W[dg];B[eh];W[de];B[ff]TR[fg]TR[fh]TR[fi]TR[gi]TR[gj]TR[hk]TR[gk]TR[hj]TR[ik]C[Correct!RIGHT])
+(;B[de];W[dg]C[alive...]))
+(;W[eg]C[white's correct play]
+(;B[ee];W[dg];B[ff]TR[fe]TR[gf]TR[hf]TR[hg]TR[ig]TR[jg]TR[he]TR[hd]TR[hc]TR[ic]TR[gb]TR[ga]C[Correct!RIGHT])
+(;B[dg];W[ee]C[alive...])))

@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[31]SO[tristesse]CO[6]C[Find the best solution.FORCE]AB[sb]AB[rb]AB[rc]AB[qd]AB[pd]AB[oc]AB[pb]AB[pa]AW[qa]AW[oa]AW[nb]AW[nc]AW[nd]AW[od]AW[pe]AW[qe]AW[rd]AW[sd]AW[sc]AW[rf]AP[goproblems]
+(;W[ra];B[qb];W[pc]C[RIGHT])
+(;W[qb];B[qc]
+(;W[ra];B[sa]
+(;W[qa];B[ob])
+(;W[ob];B[qa]))
+(;W[ob];B[ra]))
+(;W[qc];B[qb];W[pc];B[ra])
+(;W[pc];B[qc]
+(;W[ob];B[ra])
+(;W[ra];B[ob]))
+(;W[sa];B[ra]
+(;W[qb];B[qc])
+(;W[ob];B[pc]))
+(;W[na];B[qb]
+(;W[ob];B[pc])
+(;W[pc];B[qc]
+(;W[ra];B[ob])
+(;W[ob];B[ra])))
+(;W[ob];B[qb]
+(;W[pc];B[ra])
+(;W[ra];B[pc])))

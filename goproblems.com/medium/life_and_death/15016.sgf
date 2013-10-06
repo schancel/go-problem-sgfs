@@ -1,0 +1,16 @@
+(;GE[life and death]DI[1d]DP[17]SO[remembered]CO[0]AW[ae]AW[bd]AW[cd]AW[db]AW[dc]AW[ec]AW[ed]AW[fd]AW[fe]AW[gd]AW[gc]AW[hc]AB[eb]AB[fb]AB[fc]AB[gb]AB[hb]AB[ib]AB[ic]AB[id]AB[hd]AB[he]AB[gf]AB[gg]AB[fg]AB[ef]AB[ee]AB[ce]AB[be]AB[cg]AB[ch]AB[ci]AB[cj]AB[dj]AB[dk]AW[dg]AW[di]AW[dh]AW[ei]AW[ek]AW[ej]AW[fi]AW[fk]AW[gi]AB[bb]AB[jd]AB[kd]AB[ld]C[W to get ko or seki. W can't live unconditionally.]AW[hi]AW[ih]AW[jg]AW[lg]AW[kg]AW[gl]AW[hl]AW[il]AW[jk]AB[dl]AB[cm]AB[bm]AB[am]AP[goproblems]
+(;W[bc];B[da]
+(;W[ca];B[cb];W[ea];B[ba]
+(;W[da];B[ab]C[W is dead])
+(;W[ab];B[da]MA[ad]C[If W win ko, B will move at A 16. W is dead]))
+(;W[cb];B[ca];W[ac];B[ba]))
+(;W[cb];B[bc]
+(;W[ac];B[ba])
+(;W[ba];B[ab]
+(;W[da];B[ad]
+(;W[ac]C[koRIGHT])
+(;W[af]C[W waste ko threat.RIGHT];B[ag]C[Thank to GameCarpenter & Wolverest.RIGHT]))
+(;W[ad];B[da]C[]
+(;W[ca];B[ac])
+(;W[ac];B[ea];W[ca]C[sekiRIGHT])))
+(;W[ab];B[ba])))

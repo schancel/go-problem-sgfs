@@ -1,0 +1,9 @@
+(;GE[best move]DI[2k]DP[22]SO[mafutrct]CO[0]AB[qd]AB[oc]AB[qg]AB[pl]AB[ql]AB[pn]AB[on]AB[pp]AB[pq]AB[qq]AB[rq]AB[or]AB[nq]AB[mr]AB[ns]AB[bp]AB[cn]AB[en]AB[bk]AW[dk]AW[dc]AW[jc]AW[og]AW[pi]AW[qm]AW[qn]AW[rn]AW[po]AW[qp]AW[rp]AW[so]AW[oo]AW[no]AW[mp]AW[mq]AW[lr]AW[dp]AW[fp]AW[cq]LB[de:A]C[Which of the moves A-D is best?FORCE]LB[ce:B]LB[qi:C]LB[go:D]AP[goproblems]
+(;B[de]C[95% move. Well, more like 0%. But a good move. However, the right looks as though a fight is going to develop there, so you should play there.])
+(;B[ce]C[Hm, 92%. No, 0%. The right looks as though a fight is going to develop there, so you should play there.])
+(;B[qi]C[After the white keima Black can connect like this. 98% move. But fighting spirit is a bit missing.])
+(;B[go]C[]
+(;W[hq]C[CHOICE]
+(;B[oh];W[ph]C[];B[pg]C[The initial marked black stone is the 100% move. It aims at A, which would completely seal in the corner group. However, it is also a ladder breaker. To intersperse this shows a whole-board vision and a lot of strength. This move is possible because White played the keima on the right side.RIGHT]LB[gp:A]TR[go])
+(;B[gp]C[This move is useless and strengthens white without any profit. Never play like this.]))
+(;W[fo]C[White wants to break the ladder breaker.CHOICE];B[fn];W[gn]C[]TR[ho];B[ho];W[gm]C[]TR[gq];B[gq]C[So a fight develops. The initial marked black stone is the 100% move. It aims at A, which would completely seal in the corner group. However, it is also a ladder breaker. To intersperse this shows a whole-board vision and a lot of strength. This move is possible because White played the keima on the right side.RIGHT]TR[go]LB[gp:A])))

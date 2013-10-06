@@ -1,0 +1,5 @@
+(;GE[life and death]DI[8k]DP[45]SO[chrisg]CO[6]SZ[9]AW[ba]AW[ca]AW[ga]AW[bb]AW[db]AW[eb]AW[hb]AW[cc]AW[dc]AW[hc]AW[ed]AW[fd]AW[gd]AW[hd]AW[ee]AW[ef]AW[ff]AW[gf]AW[eg]AW[gg]AW[eh]AW[gh]AW[hh]AW[hi]AB[aa]AB[ea]AB[ha]AB[ab]AB[fb]AB[gb]AB[ac]AB[bc]AB[ec]AB[fc]AB[bd]AB[cd]AB[dd]AB[de]AB[df]AB[dg]AB[fg]AB[dh]AB[fh]AB[di]AB[ei]AB[fi]AB[gi]LB[bf:B]C[No komi B to play - Who has won? If B has won, play at 'B', if W has won play at 'W'.]LB[hf:W]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[hf];W[ad]C[Yes the top isn't a seki!RIGHT])
+(;B[bf];W[hf]C[OK, prove it (W adds a stone to his own area to compensate)]
+(;B[da]C[];W[fa];B[ea];W[gc]C[Now What?])
+(;B[fa];W[gc]C[B cannot approach and is dead])))

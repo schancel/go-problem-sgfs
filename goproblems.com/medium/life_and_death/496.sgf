@@ -1,0 +1,48 @@
+(;GE[life and death]DI[3d]DP[11]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Suppose black's a little behind and he 
+doesn't have enough ko threats to start 
+the ko immediately. How to play?
+]
+PL[B]
+AB[ld][oe][pf][pg][ph][pi][qb][qd][qe][qj][qk][rc][re][rf]
+AW[nd][oc][pc][pd][pe][qc][qf][qg][qh][qi][rb][rg][rj][sc]
+(;B[ri]
+MN[1]
+(;W[si]
+;B[sd]
+;W[rd]
+;B[sg]
+;W[rh]
+;B[rc]
+;W[sb]
+;B[ra]
+;W[rd]
+;B[sh]
+;W[sf]
+;B[rc]
+;W[se]
+(;B[sg]
+;W[rd]
+;B[sh]
+C[RIGHT
+Nice hey? Double eternal life with a ko. ]
+)(;B[sa]
+;W[rd]
+C[Black can't live here.]
+))(;W[sg]
+C[Although a nice move this doesn't 
+eliminate the ko and also it loses a 
+great deal of territory on the right.]
+))(;B[sd]
+;W[rd]
+LB[rd:2][se:A]C[Whatever you do white will capture at 
+A next.]
+)(;B[rd]
+;W[sf]
+;B[ra]
+;W[sb]
+))

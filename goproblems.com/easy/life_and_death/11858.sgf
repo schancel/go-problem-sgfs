@@ -1,0 +1,27 @@
+(;GE[life and death]DI[7k]DP[42]SO[ZeroShiKii]CO[0]AW[dr]AW[fr]AW[er]AW[dq]AW[aq]AW[bp]AW[bo]AW[ao]AW[co]AW[do]AW[eo]AW[ep]AB[cq]AB[cp]AB[dp]AB[bq]AB[cr]AB[eq]AB[fq]AB[gq]AB[gr]C[Black to save his stones without ko.]AP[goproblems]
+(;B[bs]
+(;W[ar]
+(;B[cs];W[ds]
+(;B[fs]C[CHOICERIGHT])
+(;B[es]C[RIGHT]))
+(;B[fs];W[ds]
+(;B[cs]C[RIGHT])
+(;B[gs];W[br]))
+(;B[ds]C[RIGHT])
+(;B[es];W[ds]
+(;B[cs]C[RIGHT])
+(;B[fs];W[gs])
+(;B[gs];W[fs]))
+(;B[br]LB[ap:1]LB[fs:2]LB[as:3]))
+(;W[ds]
+(;B[fs];W[ar]C[CHOICE])
+(;B[cs];W[ar])
+(;B[es];W[ar])
+(;B[gs];W[ar])))
+(;B[ar];W[cs];B[ap];W[bs])
+(;B[cs];W[bs]
+(;B[ar];W[ds];B[ap])
+(;B[fs];W[br]))
+(;B[ds];W[br];B[cs];W[bs])
+(;B[fs];W[br])
+(;B[es];W[br]))

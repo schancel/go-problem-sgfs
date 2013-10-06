@@ -1,0 +1,49 @@
+(;GE[life and death]DI[4k]DP[30]SO[santa c]CO[9]AB[cr]AB[er]AB[dr]AB[fr]AB[gr]AW[br]AW[bq]AW[bp]AW[co]AW[cn]AW[en]AW[fn]AW[go]AW[gp]AW[gq]AW[hr]AW[iq]AB[cq]AB[cp]AW[dq]C[Black moves and lives.]AP[goproblems]
+(;B[eo];W[ep]
+(;B[fp]
+(;W[fq]
+(;B[eq];W[fo]
+(;B[dp];W[cs]
+(;B[ds];W[gs];B[fs]C[Well done! :)CHOICERIGHT])
+(;B[gs];W[ds]
+(;B[es]C[Well done! :)RIGHT])
+(;B[bs];W[as];B[es]C[RIGHT]))
+(;B[fp];W[ds]C[Black's dead...])
+(;B[do];W[ds]C[Black's dead...]))
+(;B[do];W[fp];B[dp];W[cs]
+(;B[ds];W[gs];B[fs]C[RIGHT])
+(;B[gs];W[ds]
+(;B[es]C[RIGHT])
+(;B[bs];W[as];B[es]C[RIGHT]))))
+(;B[dp];W[eq]C[Black's dead...])
+(;B[cs];W[fo]C[Black's dead...]TR[es]TR[gs])
+(;B[gs];W[fo]TR[cs]TR[es]C[Black's dead...])
+(;B[es];W[fo]C[Black's dead...]TR[cs]TR[gs]))
+(;W[do]
+(;B[dp];W[fo]
+(;B[eq];W[cs]
+(;B[ds];W[gs];B[fs]C[Well done! :)CHOICERIGHT])
+(;B[gs];W[ds];B[es]C[Well done! :)RIGHT])
+(;B[eo];W[ds]C[Black's dead...])
+(;B[fq];W[ds]C[Black's dead...]))
+(;B[fq];W[eo];B[eq];W[cs]
+(;B[ds];W[gs];B[fs]C[RIGHT])
+(;B[gs];W[ds]
+(;B[es]C[RIGHT])
+(;B[bs];W[as];B[es]C[RIGHT]))))
+(;B[eq];W[dp]C[Black's dead...])
+(;B[cs];W[dp]C[Black's dead...]TR[es]TR[gs])
+(;B[es];W[dp]C[Black's dead...]TR[cs]TR[gs])
+(;B[gs];W[dp]TR[cs]TR[es]C[Black's dead...])))
+(;B[dp];W[eq]C[Black's dead...])
+(;B[eq];W[dp]C[Black's dead...])
+(;B[cs];W[fp]C[Black's dead...]TR[es]TR[gs])
+(;B[gs];W[fp]C[Black's dead...]TR[cs]TR[es])
+(;B[es];W[fp]C[Black's dead...]TR[cs]TR[gs]))
+(;B[ep];W[dp];B[do];W[eo];B[eq];W[dp]C[Black's dead...])
+(;B[dp];W[eq]C[Black's dead...])
+(;B[fp];W[dp];B[do];W[eo]C[Black's dead...])
+(;B[eq];W[dp]C[Black's dead...])
+(;B[cs];W[dp]C[Black's dead...]TR[es]TR[gs])
+(;B[gs];W[dp]C[Black's dead...]TR[cs]TR[es])
+(;B[es];W[dp]C[Black's dead...]TR[cs]TR[gs]))

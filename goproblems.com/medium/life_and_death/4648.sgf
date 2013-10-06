@@ -1,0 +1,59 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[8]AB[br]AB[cr]AB[bp]AB[cp]AB[dp]AW[bo]AW[co]AW[do]AW[ep]AW[eq]AW[dr]AW[fo]AW[bm]C[Regain the corner.]AP[goproblems]
+(;W[cs];B[dq]
+(;W[er];B[bs]C[Black's alive.])
+(;W[es];B[bs]C[Black's alive.])
+(;W[ds];B[bs]C[Black's alive.])
+(;W[bs];B[er]
+(;W[es];B[fr]C[No ko.. Black's alive.])
+(;W[fr];B[ds]C[Black's alive.])
+(;W[ds];B[fr]C[Alive and kickin...]))
+(;W[fr];B[bs]C[Black's alive.]))
+(;W[dq];B[cq]
+(;W[cs];B[bs]
+(;W[aq];B[ap];W[ar]C[Well done! :)RIGHT])
+(;W[ap];B[aq]C[Black's alive.])
+(;W[ar];B[aq]C[Black's alive.]))
+(;W[bs];B[cs]C[Black's alive.])
+(;W[aq];B[ap]
+(;W[cs];B[bs];W[ar]C[Well done! :)RIGHT])
+(;W[ar];B[cs]
+(;W[as]C[Bent 4 in the corner. Under japanese rules it's dead and being the default ruleset on this site you've killed! :) (However there're asolution which's k for other rules sets as well..)RIGHT])
+(;W[bs];B[bq]C[Black's alive.]))
+(;W[bs];B[cs]C[Black's alive.]))
+(;W[ap];B[aq]C[Black's alive.])
+(;W[ar];B[aq]C[Black's alive.])
+(;W[ds];B[aq]C[Black's alive.]))
+(;W[cq];B[dq]C[Black's alive.])
+(;W[ds];B[dq]C[Black's alive.])
+(;W[ap];B[dq]C[]
+(;W[bq];B[cq]
+(;W[aq];B[ar];W[ao];B[er]C[Black's alive.])
+(;W[ar];B[aq]C[Ko.. Not good enough..]MA[bq])
+(;W[er];B[aq]C[Black's alive.]))
+(;W[ar];B[bq]C[Black's alive.])
+(;W[aq];B[ar]C[Black's alive.])
+(;W[er];B[aq]C[Black's alive.])
+(;W[cs];B[aq]C[Black's alive.])
+(;W[es];B[aq]C[Black's alive.])
+(;W[ds];B[aq]C[Black's alive.]))
+(;W[aq];B[ar]
+(;W[ap];B[dq]C[Black's alive.])
+(;W[bq];B[ap]C[Black's alive.])
+(;W[dq];B[ap]C[Black's alive.])
+(;W[cq];B[dq]C[Black's alive.])
+(;W[cs];B[dq]C[Black's alive.]))
+(;W[er];B[dq]C[Black's alive.])
+(;W[bq];B[aq]C[Black's alive.])
+(;W[bs];B[cs]
+(;W[cq];B[dq]C[Black's alive.])
+(;W[dq];B[as]C[Black's alive.])
+(;W[ds];B[dq]C[Black's alive.])
+(;W[ap];B[aq]C[Black's alive.])
+(;W[aq];B[ap]
+(;W[ar];B[dq]C[Black's alive.])
+(;W[bq];B[dq]C[Black's alive.])
+(;W[dq];B[ar]C[Black's alive.])
+(;W[cq];B[dq]C[Black's alive.]))
+(;W[bq];B[aq]C[Black's alive.]))
+(;W[ar];B[aq]C[Black's alive.])
+(;W[ao];B[dq]C[Black's alive.]))

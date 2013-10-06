@@ -1,0 +1,118 @@
+(;GE[life and death]DI[5d]DP[6]SO[lok]CO[0]SZ[19]AW[lp]AW[op]AW[lq]AW[oq]AW[pq]AW[qq]AW[lr]AW[qr]AW[ls]AB[ko]AB[lo]AB[mo]AB[no]AB[oo]AB[ro]AB[kp]AB[pp]AB[qp]AB[kq]AB[rq]AB[kr]AB[rr]AB[ks]C[Black to do his best.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[nr]
+(;W[nq]C[CHOICE]
+(;B[mp];W[mq]
+(;B[qs]
+(;W[ps]C[CHOICE]
+(;B[os];W[or];B[pr];W[ns];B[ms];W[ps]C[Ko])
+(;B[or];W[ns]))
+(;W[ns]C[CHOICE]
+(;B[or];W[ps]
+(;B[os];W[mr];B[ms]C[Ko.])
+(;B[mr];W[os]C[Seki]))
+(;B[os];W[or];B[ms];W[mr])
+(;B[ps];W[mr];B[or];W[pr])))
+(;B[or];W[qs]C[Seki])
+(;B[os];W[qs];B[or];W[ms]C[Seki]))
+(;B[qs]
+(;W[ns]C[If white plays here...];B[mr])
+(;W[mr]C[If white plays here...];B[ns];W[ps];B[mp])
+(;W[ps]C[CHOICE]))
+(;B[os];W[mr];B[or];W[qs];B[mq];W[mp];B[np]C[1000 years ko])
+(;B[or];W[qs]
+(;B[mq];W[mp]
+(;B[np];W[mr]
+(;B[os]C[1000 years ko])
+(;B[ns];W[os];B[ps];W[pr];B[rs];W[os]C[Ko]))
+(;B[mr];W[np]C[];B[ps]))
+(;B[mp];W[mq]C[Seki])
+(;B[ps]))
+(;B[mr];W[mq];B[qs];W[ps])
+(;B[mq];W[mp]
+(;B[mr];W[np]
+(;B[qs];W[ps])
+(;B[ps];W[qs])
+(;B[or];W[ps];B[rs];W[qs]C[Seki]))
+(;B[np];W[mr])))
+(;W[mp]C[Doesnt work for white.];B[np];W[nq];B[mr];W[mq];B[qs];W[ps];B[or];W[ns];B[os];W[rs];B[ms])
+(;W[or]C[Wrong defense.];B[nq]))
+(;B[os];W[or]
+(;B[ps];W[qs]
+(;B[mq];W[mr];B[nq];W[nr];B[ns]C[Seki])
+(;B[nq];W[nr];B[mq];W[mr]))
+(;B[qs];W[ps];B[pr];W[ns])
+(;B[mq];W[mr];B[nq];W[nr];B[ps];W[qs])
+(;B[nq];W[nr];B[mq];W[mr]))
+(;B[qs]
+(;W[mr]C[Doesnt work];B[ps];W[ns];B[nq];W[np];B[or];W[nr];B[mp])
+(;W[ps]C[CHOICE]
+(;B[nr];W[nq]
+(;B[os];W[or];B[pr];W[ns];B[ms];W[mr])
+(;B[or]
+(;W[ns]C[CHOICE]
+(;B[mq];W[mp];B[mr];W[np]
+(;B[os];W[rs];B[ms]C[Correct, making one eye inside is the solution.RIGHT])
+(;B[ms];W[rs];B[os]C[Correct, making one eye inside is the solution.RIGHT])
+(;B[pr];W[rs]C[Seki, you were so close...]))
+(;B[mr];W[mq])
+(;B[mp];W[mq])
+(;B[os];W[pr])
+(;B[pr];W[mr]))
+(;W[mr]C[If white plays here...];B[mp];W[mq];B[ns])
+(;W[mp]C[If white plays here...];B[mr]
+(;W[np];B[os];W[rs];B[ms])
+(;W[rs];B[np];W[mq];B[os]))
+(;W[mq]C[If white plays here...];B[os]))
+(;B[mq];W[mp]
+(;B[mr];W[np]
+(;B[or];W[os];B[rs];W[ns]C[Seki])
+(;B[os];W[rs];B[or];W[ms]C[Seki]))
+(;B[np];W[mr]
+(;B[or];W[ns])
+(;B[os];W[or];B[pr];W[ns]))
+(;B[os];W[mr];B[pr];W[or]))
+(;B[mp];W[mq])
+(;B[mr];W[mq]
+(;B[or];W[rs]C[Seki.])
+(;B[rs];W[or])))
+(;B[nq];W[nr];B[mq];W[mr]C[])
+(;B[mq];W[mr];B[nq];W[nr]C[])
+(;B[np];W[nr])
+(;B[ns];W[nr])
+(;B[mp];W[nr])
+(;B[os];W[ns]))
+(;W[os]C[Doesnt work];B[nr]))
+(;B[nq];W[nr]
+(;B[mq];W[mr])
+(;B[mr];W[mq]))
+(;B[mq];W[mr]
+(;B[nq];W[nr]
+(;B[ps];W[qs];B[ns];W[or];B[os]C[Seki])
+(;B[qs];W[ps]
+(;B[os];W[rs]TR[ns]TR[or]C[Miai for life])
+(;B[ns];W[or]C[White lives])
+(;B[or];W[os]C[White lives]))
+(;B[os];W[ps]TR[ns]TR[or]C[Miai for life])
+(;B[ns];W[ps]C[White lives]))
+(;B[nr];W[mp]
+(;B[nq];W[np])
+(;B[np];W[nq]
+(;B[or];W[ps])
+(;B[qs];W[ps])
+(;B[ns];W[or]))))
+(;B[mp];W[nr])
+(;B[ns];W[nr])
+(;B[ps];W[qs]
+(;B[nr];W[nq]
+(;B[mq];W[mp]
+(;B[mr];W[np];B[or];W[pr];B[ns];W[os]C[Ko with an approach move at S1])
+(;B[np];W[mr];B[or];W[ns];B[rs]))
+(;B[or];W[ns]
+(;B[mr];W[mq])
+(;B[mq];W[mp]
+(;B[mr];W[np];B[rs];W[ms])
+(;B[np];W[mr]))))
+(;B[nq];W[nr];B[mq];W[mr]))
+(;B[mr];W[mq]
+(;B[nq];W[nr];B[np];W[ms])
+(;B[nr];W[nq])))

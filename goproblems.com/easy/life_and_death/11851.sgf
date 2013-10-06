@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[29]SO[ZeroShiKii]CO[0]AB[dr]AB[dq]AB[fq]AB[gq]AB[hp]AB[ho]AB[go]AB[en]AB[cn]AB[co]AB[cp]AW[bp]AW[cq]AW[cr]AW[hq]AW[gp]AW[fp]AW[ep]AW[dp]C[White to save his 4 stones.]AP[goproblems]
+(;W[gr];B[fr]
+(;W[fs]
+(;B[er];W[hr];B[fo];W[ds]C[W wins by one move.CHOICERIGHT])
+(;B[eq];W[ds]C[W winsCHOICERIGHT])
+(;B[hr];W[er];B[gs]
+(;W[eq];B[es];W[ds]C[CHOICERIGHT])
+(;W[ds];B[es];W[eq]C[RIGHT])))
+(;W[hr];B[eq]
+(;W[fs];B[es];W[gs];B[fo])
+(;W[es];B[fo]))
+(;W[ds];B[hr]
+(;W[er];B[iq];W[eq]C[RIGHT])
+(;W[fs];B[er])
+(;W[eq];B[er])))
+(;W[eq];B[er]
+(;W[gr];B[fr]
+(;W[hr];B[fo])
+(;W[ds];B[hr]))
+(;W[fr];B[gr];W[fs];B[gs];W[hr];B[es]))
+(;W[fr];B[gr];W[er];B[eq];W[ds];B[fs])
+(;W[er];B[eq];W[ds];B[hr];W[iq];B[gr];W[ir];B[fo]))

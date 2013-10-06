@@ -1,0 +1,5 @@
+(;GE[elementary]DI[8k]DP[46]SO[TheBigH]CO[0]AW[ii]LB[iq:T]C[Does the ladder work for black? If you think so, play it out. If not, tenuki at T.]AW[ji]AB[jj]AW[kj]AW[jk]AB[bp]AB[dq]AW[dr]AW[cq]AW[fr]AP[goproblems]
+(;B[iq]C[No, the ladder actually does work for black. Start over and play it out to see what happens.CHOICE])
+(;B[ij];W[hj];B[ik];W[il];B[hk];W[gk];B[hl];W[hm];B[gl];W[fl];B[gm];W[gn];B[fm];W[em];B[fn];W[fo];B[en];W[dn];B[eo];W[ep];B[do];W[co];B[dp]
+(;W[eq]C[CHOICE];B[cp]C[Success. Black escapes. Now it sucks to be white.RIGHT])
+(;W[cp]C[CHOICE];B[eq]C[Success. The marked black stone caused the ladder to turn around and now the marked white stone is in atari. White can't defend it and continue the ladder, so black escapes.RIGHT]MA[bp]TR[ep])))

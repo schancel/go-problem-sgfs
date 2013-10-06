@@ -1,0 +1,9 @@
+(;GE[endgame]DI[4k]DP[30]SO[thanush]CO[0]AB[rc]AW[rb]AW[rd]AW[qc]AW[qd]AW[pc]AW[pb]AB[nb]AB[ob]AB[od]AB[oc]AB[pd]AB[qe]AB[re]AB[se]AB[pf]AW[nc]AW[mc]AW[lc]AW[lb]C[Best way to reduce the corner]AP[goproblems]
+(;B[pa]
+(;W[qa];B[sc];W[oa];B[sd];W[sb]C[RIGHT])
+(;W[sc];B[qa];W[ra]C[RIGHT]))
+(;B[sc];W[sd];B[pa];W[sb]
+(;B[ra];W[qa];B[qb];W[sa])
+(;B[qa];W[ra]C[W can live with 1 less point]))
+(;B[sd];W[sc];B[pa];W[qa];B[oa])
+(;B[qa];W[pa];B[sc];W[sd]))

@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[10k]DP[51]SO[Cei]CO[0]AB[cs]AB[ds]AB[dr]AB[dq]AW[bs]AW[cr]AW[cq]AW[dp]AW[do]AB[ep]LB[bs:1]C[]AW[bp]AB[fq]AP[goproblems];B[br];W[bq]LB[fn:T]C[Play at 'T' if and when you wish to tenuki, worth 2 points.  (Thanks to Dark Sycthe for suggesting a point value!)]
+(;B[as]LB[fn:T]C[Play at 'T' if and when you wish to tenuki]
+(;W[aq]LB[fn:T]C[Play at 'T' if and when you wish to tenuki]
+(;B[fn]C[RIGHT])
+(;B[ar];W[bs]C[CHOICE])
+(;B[bs]C[This move is not necessary.CHOICE])))
+(;B[ar];W[aq];B[as];W[bs]C[CHOICE]))

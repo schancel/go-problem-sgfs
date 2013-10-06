@@ -1,0 +1,10 @@
+(;GE[life and death]DI[4k]DP[31]SO[philip101]CO[8]AW[bb]AW[ac]AW[aa]AW[ec]AW[dc]AW[eb]AW[ea]AW[fb]AB[gc]AB[fc]AB[ed]AB[dd]AB[cd]AB[bd]AB[bc]AW[ga]AW[hb]AW[ib]AW[jb]AW[kb]AW[ka]AB[gb]AB[hc]AB[ic]AB[jc]AB[kc]AB[lb]AB[la]AB[ld]AB[ha]TR[ha]C[Black has just played the marked stone. How should white respond?]AP[goproblems]
+(;W[cc];B[ca]
+(;W[ia];B[cb]C[White can not capture the two stones due to a shortage of liberties. Therefore, white is dead.])
+(;W[cb];B[ia]
+(;W[ja];B[ha];W[da]C[White saves some stones, but ends in gote. This is worse than the optimal solution.])
+(;W[da]C[White saves some stones, but ends in gote. This is worse than the optimal solution.])))
+(;W[ia];B[cb];W[cc];B[ca]C[White can not capture the two stones due to a shortage of liberties. Therefore, white is dead.])
+(;W[cb];B[ia]TR[hb]TR[ib]TR[jb]TR[kb]TR[ka]C[Good. White sacrifices the marked stones to live in the corner, and white keeps sente. Black's original move was a mistake, and should have been played at C18 for the kill.RIGHT])
+(;W[fa];B[cb];W[cc];B[ca]C[White can not capture the marked stones, and is dead.])
+(;W[ca];B[ia]C[Good. White sacrifices the marked stones to live in the corner, and white keeps sente. Black's original move was a mistake, and should have been played at C18 for the kill.RIGHT]))

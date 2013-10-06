@@ -1,0 +1,39 @@
+(;GE[life and death]DI[4k]DP[31]SO[santa c]CO[8]C[At this point White adds a move inside his territory... Why?]SZ[9]AB[de]AW[fe]AB[ef]AB[dd]AW[ff]AB[ec]AW[eg]AB[ee]AW[dg]AB[fd]AW[bf]AW[gg]AB[ge]AB[bd]AW[gf]AB[he]AW[hf]AW[hd]AB[gd]AW[ie]AB[hc]AW[id]AB[ic]AW[if]AB[fg]AW[be]AB[ce]AW[ad]AB[ac]AW[ae]AB[bc]AW[cf]AB[df]AP[goproblems]
+(;B[cg];W[bg]
+(;B[fh]
+(;W[ch]
+(;B[gh];W[hh]
+(;B[ih]C[Well done! White can't save H4! :)RIGHT]LB[hf:A])
+(;B[hi];W[ih]C[:(])
+(;B[ig];W[hg];B[hi];W[ih]C[:(])
+(;B[hg];W[ig]C[:(])
+(;B[eh];W[ih]C[:(]))
+(;B[hh];W[gh];B[gi];W[eh];B[fi];W[hi];B[ii];W[ei];B[hi];W[ig]C[Seki! :(])
+(;B[eh];W[gh]C[:(]))
+(;W[gh];B[ch]
+(;W[eh];B[bh]C[RIGHT])
+(;W[bh];B[dh]C[Miai...RIGHT]TR[bi]TR[hh])))
+(;B[ch];W[bh]
+(;B[eh];W[fh];B[dh];W[fg]C[:(])
+(;B[fh]
+(;W[dh]
+(;B[gh];W[hh]
+(;B[ih]C[Well done! White can't save H4! :)RIGHT]LB[hf:A])
+(;B[ig];W[hg];B[hi];W[ih]C[:(])
+(;B[hg];W[ig]C[:(])
+(;B[hi];W[ih]C[:(])
+(;B[eh];W[ci]
+(;B[ih]C[Well done! White can't save H4! :)RIGHT]LB[hf:A])
+(;B[ig];W[hg];B[hi];W[ih]C[:(])
+(;B[hg];W[ig]C[:(])
+(;B[hi];W[ih]C[:(])))
+(;B[hh];W[gh];B[gi];W[eh];B[fi];W[hi];B[ii]C[Well done, White can't seki with E1-J3! :)RIGHT]))
+(;W[gh];B[dh]C[Miai...RIGHT]TR[bi]TR[hh]))))
+(;B[fh];W[ch]
+(;B[gh];W[hh]
+(;B[ih]C[Well done! White can't save H4! :)RIGHT]LB[hf:A])
+(;B[ig];W[hg];B[hi];W[ih]C[:(])
+(;B[hi];W[ih]C[:(])
+(;B[eh];W[ih]C[:(]))
+(;B[hh];W[gh];B[gi];W[eh];B[fi];W[hi];B[ii];W[ei];B[hi];W[ig]C[Seki! :(])
+(;B[eh];W[gh]C[:(])))

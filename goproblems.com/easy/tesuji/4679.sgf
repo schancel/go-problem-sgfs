@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[20k]DP[72]SO[adum]CO[8]AB[ls]AB[lr]AB[lq]AB[mr]AB[kp]AB[jp]AB[jo]AB[jq]AB[jr]AB[iq]AB[ip]AB[hq]AB[gr]AB[fr]AB[er]AW[gq]AW[gp]AW[hp]AW[io]AW[kn]AW[jn]AW[ko]AW[lp]AW[mp]AW[mq]AW[nr]AW[ns]AW[ms]AW[oq]AW[js]AW[hr]AW[kr]LB[js:1]C[how to answer white 1?]AW[hn]AP[goproblems]
+(;B[is];W[hs]
+(;B[ks]C[RIGHT])
+(;B[ir];W[kq])
+(;B[kq];W[ir])
+(;B[gs]C[RIGHT]))
+(;B[ir];W[ks]
+(;B[kq];W[is])
+(;B[hs];W[kq])
+(;B[is];W[kq]))
+(;B[hs];W[ks]
+(;B[kq];W[ir])
+(;B[ir];W[kq]))
+(;B[ks];W[kq])
+(;B[kq];W[ir]
+(;B[ks];W[kr])
+(;B[hs];W[ks])
+(;B[is];W[ks]))
+(;B[gs];W[ks]))

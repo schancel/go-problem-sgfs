@@ -1,0 +1,96 @@
+(;GE[life and death]DI[6k]DP[38]SO[ytqb]CO[0]AB[mj]AB[ij]AB[pd]AB[nf]AW[sh]AW[si]AW[ok]AW[nl]AB[kn]AB[no]AB[oo]AB[nn]AB[op]AB[np]AB[oq]AW[qp]AW[qq]AW[qs]AW[qr]AB[nr]AB[or]AB[sd]AB[re]AB[qd]AB[qf]AB[oe]AB[of]AB[sf]AB[rg]AB[qh]AB[ph]AB[oh]AB[nh]AB[mg]AB[lg]AW[sg]AW[rh]AW[qi]AW[pi]AW[oi]AW[ni]AB[mi]AB[li]AB[ki]AB[ji]AB[ii]AW[jj]AB[kk]AB[jk]AB[lj]AB[nj]AW[lk]AW[mk]AW[nk]AW[oj]AW[pj]AB[kl]AB[ll]AB[ml]AW[ql]AW[om]AB[nm]AB[on]AB[pm]AB[mn]AB[ln]AB[km]AB[po]AB[qn]AB[rn]AW[qo]AW[ro]AW[pp]AB[pq]AW[pr]AW[ps]AW[os]AB[ns]AB[mq]AB[lr]AB[kr]AB[rr]C[Black to play and kill the large white group.]LB[rn:1]LB[ro:2]AP[goproblems]
+(;B[rj]
+(;W[ri]C[]
+(;B[sk]
+(;W[rl];B[sl];W[sm];B[rm];W[rk]
+(;B[sn];W[sj]
+(;B[qj];W[sm];B[sl]
+(;W[pl];B[qk]C[RIGHT])
+(;W[qk];B[pl]C[RIGHT]))
+(;B[pl]C[RIGHT]))
+(;B[pl];W[sj];B[sl];W[qj];B[pk]C[RIGHT]))
+(;W[rk];B[sl];W[sj]
+(;B[sm]
+(;W[qj];B[pl];W[pk];B[rl])
+(;W[pl]))
+(;B[pl];W[sm];B[rm];W[rl];B[sl]C[RIGHT])
+(;B[qj];W[sm];B[rm];W[rl];B[sl]C[RIGHT]))
+(;W[sl];B[rl];W[rm];B[sm];W[qm];B[pl];W[qk];B[sl]C[])
+(;W[rm];B[sm];W[rk];B[sl];W[sj];B[qj]
+(;W[qk];B[pl]C[])
+(;W[pl];B[qk]C[])))
+(;B[rk];W[rl];B[sm];W[sl];B[pl];W[pk];B[qk]C[RIGHT])
+(;B[pl];W[rk]
+(;B[sl];W[sk];B[sm];W[pk]
+(;B[qj]C[RIGHT])
+(;B[rl]C[RIGHT]))
+(;B[rm]C[RIGHT]))
+(;B[qm]C[RIGHT])
+(;B[rl]C[RIGHT])
+(;B[rm]C[RIGHT])
+(;B[sn]C[RIGHT])
+(;B[sm]C[RIGHT])
+(;B[sl]C[RIGHT])
+(;B[sj]C[RIGHT])
+(;B[qk]C[RIGHT]))
+(;W[rk];B[ri]C[])
+(;W[sj];B[rk];W[ri];B[rl]C[]))
+(;B[sj]LB[rn:1]LB[ro:2]
+(;W[ri]
+(;B[sl]C[RIGHT])
+(;B[rm]C[RIGHT])
+(;B[sm]C[RIGHT])
+(;B[rl]C[RIGHT])
+(;B[sk]C[RIGHT])
+(;B[rj]C[RIGHT])
+(;B[qk]C[RIGHT])
+(;B[pl]C[RIGHT])
+(;B[rk]C[RIGHT]))
+(;W[rj];B[ri];W[rk];B[pl]C[RIGHT]))
+(;B[rq];W[rj]C[The White group in the corner is smaller than the group on the side.  In this case, White's best move is also Black's best move, to save or kill the large White group on the side.])
+(;B[sp];W[rj]C[The White group in the corner is smaller than the group on the side.  In this case, White's best move is also Black's best move, to save or kill the large White group on the side.])
+(;B[so];W[rj]C[The White group in the corner is smaller than the group on the side.  In this case, White's best move is also Black's best move, to save or kill the large White group on the side.])
+(;B[sn];W[rj]C[In this case, White's best move is also Black's best move.])
+(;B[sk]C[];W[rj]C[Monkey jump tesuji.]
+(;B[sj]
+(;W[ri]
+(;B[sm]C[RIGHT])
+(;B[rk];W[rl]
+(;B[sl];W[qk];B[sm];W[pl])
+(;B[qk];W[sl]
+(;B[pl];W[pk];B[sm];W[qj]
+(;B[rk];W[sk])
+(;B[sk];W[rk]))
+(;B[pk];W[pl];B[sm];W[qj]))
+(;B[pl];W[pk];B[sl];W[sm];B[rm];W[qk];B[sl];W[sk]))
+(;B[rl];W[rk];B[rm];W[qk];B[pl]C[RIGHT]))
+(;W[sl];B[ri]C[RIGHT]))
+(;B[rk];W[qk]
+(;B[sj];W[ri]
+(;B[sm];W[pl])
+(;B[pl];W[rl])
+(;B[rl];W[rm]
+(;B[qm];W[sl])
+(;B[sm];W[sl])))
+(;B[sm];W[sj];B[pl];W[pk]))
+(;B[sl];W[rk]
+(;B[sm];W[sj];B[pl];W[qk])
+(;B[sj];W[sm];B[rm];W[rl];B[sl];W[sk]C[Black has to play gote to prevent the connection underneath.])))
+(;B[rl];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.]
+(;B[sk];W[rk];B[sl];W[sj];B[pl];W[qk])
+(;B[qk];W[rk];B[pl];W[sk])
+(;B[rk];W[qk];B[sk];W[sj]))
+(;B[pl];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.])
+(;B[kj];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.])
+(;B[ol];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.])
+(;B[qm];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.])
+(;B[rk];W[rj]C[Black has two options to follow the principle that White's best move is also Black's best move.]
+(;B[qk];W[rl];B[pl];W[pk])
+(;B[sk];W[qk])
+(;B[rl];W[qk]))
+(;B[sq];W[rj]C[The White group in the corner is smaller than the group on the side.  In this case, White's best move is also Black's best move, to save or kill the large White group on the side.])
+(;B[qk];W[rj]
+(;B[rk])
+(;B[rl];W[rk])
+(;B[pl];W[rk])
+(;B[sl];W[rk];B[sk];W[rl];B[sm];W[sj];B[pl];W[pk])))

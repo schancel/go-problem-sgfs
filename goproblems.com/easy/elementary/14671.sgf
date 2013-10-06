@@ -1,0 +1,17 @@
+(;GE[elementary]DI[8k]DP[47]SO[ctchan]CO[0]AB[lq]AW[kr]AW[lr]AW[mq]AW[lp]AB[kn]AB[jn]AB[kq]AB[kp]AW[lo]AB[hq]AB[hp]AW[io]AW[hr]AW[gp]AW[ir]AB[kl]AB[jl]AW[ho]C[White to cut and capture some stones.]AW[eq]AP[goproblems]
+(;W[ko];B[jo]
+(;W[jp]C[]
+(;B[jq]
+(;W[ip]C[Correct. Black is sealed in.RIGHT])
+(;W[iq];B[ip]
+(;W[gq];B[jp]C[Black has escaped...])
+(;W[jr];B[jp]C[Black has escaped...])))
+(;B[ip];W[jq]C[Correct. Black is sealed in.RIGHT]))
+(;W[jq];B[jp]C[Black has escaped...])
+(;W[ip];B[jp]C[Black has escaped...])
+(;W[iq];B[jp]C[Black has escaped...]))
+(;W[jo];B[ko]C[Black has escaped...])
+(;W[jp];B[ko]TR[hp]TR[hq]C[These two stones are dead, but can do better.])
+(;W[jq];B[ko]TR[hp]TR[hq]C[These two stones are dead, but can do better.])
+(;W[ip];B[ko]TR[hp]TR[hq]C[These two stones are dead, but can do better.])
+(;W[iq];B[ko]TR[hp]TR[hq]C[These two stones are dead, but can do better.]))

@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[30]SO[maba]CO[9]AB[ar]AB[br]AB[cq]AB[cp]AB[bp]AB[dr]AB[cs]AW[eq]AW[er]AW[es]AW[aq]AW[bo]AW[co]AB[do]AB[dp]AW[ep]AW[eo]AW[dn]AW[cm]AW[en]AW[ds]C[How can white attack?]AP[goproblems]
+(;W[bs]
+(;B[as]C[]
+(;W[dq]
+(;B[ap];W[cr]C[koRIGHT])
+(;B[cr];W[ap]C[RIGHT]))
+(;W[ap];B[dq]
+(;W[ao];B[bq])
+(;W[bq];B[ao])))
+(;B[ap]
+(;W[cr]C[koRIGHT])
+(;W[dq];B[cr]))
+(;B[cr];W[ap]C[RIGHT])
+(;B[dq];W[cr]C[koRIGHT]))
+(;W[ap];B[dq]
+(;W[bs];B[as]
+(;W[ao];B[bq])
+(;W[bq];B[ao]))
+(;W[bq];B[ao])
+(;W[ao];B[bq]))
+(;W[dq];B[ap]
+(;W[bs];B[cr])
+(;W[cr];B[bs]))
+(;W[ao];B[ap]))

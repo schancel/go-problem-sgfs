@@ -1,0 +1,18 @@
+(;GE[best move]DI[6d]DP[1]SO[Field Mouse]CO[0]AW[rh]AW[qh]AW[ph]AW[oh]AW[nh]AW[qi]AW[pj]AW[oj]AW[ni]AW[mg]AW[mf]AW[ne]AW[od]AW[pe]AW[qd]AW[re]AW[rf]AW[qf]AB[oe]AB[pd]AB[qc]AB[pc]AB[ob]AB[me]AB[md]AB[nf]AB[pf]AB[pg]AB[qg]AB[rg]AB[og]AB[ng]AB[sh]AB[ri]AB[rj]AB[qk]AB[ql]AB[pl]AB[ol]AB[ok]AB[nk]AB[nj]AB[mi]AB[li]AB[lg]AW[mj]AW[mk]AW[ml]AW[nl]AW[nm]AW[om]AW[pm]AW[qm]AW[rm]AW[rl]AB[pi]AW[pk]AB[kf]AB[le]AB[ke]AB[lh]AB[mb]AB[nb]AB[mc]C[White to play and get the best result in a common game terms. There are no outside threats and white can take the ko now.]AP[goproblems]
+(;W[of];B[sg]
+(;W[qj]
+(;B[rk];W[si];B[sj];W[sf];B[oe];W[sk];B[nd];W[si]C[Nice - you made the most points!RIGHT])
+(;B[mh];W[rk];B[kc]C[Black tenukied - what aji will you use now?]
+(;W[rc];B[sd];W[rb]C[Good, things are still a bit complicated, but you can live in the corner and without ko :-)CHOICERIGHT])
+(;W[sf];B[lf];W[rc];B[sd];W[rb];B[rd]C[Unnecessary ko.])))
+(;W[si];B[oe];W[rk];B[mh];W[qj])
+(;W[sf];B[oe];W[qj];B[nd];W[rk]C[You could do better - compare with the solutions.])
+(;W[rk]
+(;B[qj];W[sf];B[oe];W[si];B[nd];W[sj]C[Cool!RIGHT])
+(;B[mh];W[qj])))
+(;W[qj];B[nd];W[rk]C[Worse than the solution.])
+(;W[sg];B[sf];W[of];B[sg];W[qj];B[mh];W[rk]C[Worse than the solution - no aji in the corner!])
+(;W[si];B[sg];W[qj];B[mh];W[rk];B[kc]C[Black tenukies now - what will you do?]
+(;W[sf];B[nd];W[rc];B[sd])
+(;W[rc];B[sd];W[of];B[lf];W[rb]))
+(;W[rk];B[nd];W[qj]C[A bit worse than the solution.]))

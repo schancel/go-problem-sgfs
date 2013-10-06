@@ -1,0 +1,21 @@
+(;GE[elementary]DI[4k]DP[29]SO[santa c]CO[7]AB[nb]AB[oc]AB[pb]AB[qb]AB[rb]AB[qc]AB[pd]AB[oe]AW[qd]AW[qe]AW[rc]AW[sd]AW[of]AW[nf]AW[ne]AW[nc]AW[nd]AW[mb]AW[lc]AW[qg]C[How can W attack this one?]AP[goproblems]
+(;W[na]
+(;B[oa]
+(;W[ob]MA[nb]C[Well done! A ko's indeed the best White can get.RIGHT])
+(;W[sb];B[ma]C[:(])
+(;W[od];B[ma]C[:(])
+(;W[ma];B[ob]C[:(]TR[od]TR[sb]))
+(;B[sb];W[ob]TR[ra]TR[pa]C[RIGHT])
+(;B[ob]
+(;W[sb]TR[od]TR[ra]C[RIGHT])
+(;W[od]TR[sb]TR[oa]C[RIGHT]))
+(;B[od];W[ob]C[RIGHT]))
+(;W[oa];B[na]TR[od]TR[sb]C[:(])
+(;W[sb];B[oa]C[:(])
+(;W[od];B[oa]C[:(])
+(;W[ra];B[oa]C[:(])
+(;W[qa];B[oa]C[:(])
+(;W[ob];B[oa]C[:(])
+(;W[pa];B[oa]C[:(])
+(;W[sa];B[sb]C[:(])
+(;W[ma];B[na]TR[od]TR[sb]C[:(]))

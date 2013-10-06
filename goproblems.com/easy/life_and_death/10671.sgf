@@ -1,0 +1,38 @@
+(;GE[life and death]DI[6k]DP[37]SO[Silowyi]CO[9]AB[sq]AB[rq]AW[rr]AW[sr]AW[rs]AW[qq]AW[pq]AW[oq]AB[nq]AB[nr]AB[ns]AB[op]AB[pp]AB[qp]AB[qo]C[Black to kill white unconditionally.  There are two initial moves, but the playout is much the same.]AB[rn]AP[goproblems]
+(;B[or];W[rp]
+(;B[qr];W[sp]
+(;B[rq];W[sq]
+(;B[pr]C[White dies!RIGHT])
+(;B[ps]C[White is dead!RIGHT])
+(;B[qs];W[pr]TR[qr]TR[qs]C[The marked stones are dead and white lives!]))
+(;B[pr];W[rq]C[Oops!  White lives :(])
+(;B[ps];W[rq]C[Oops!  White lives :(])
+(;B[qs];W[pr]TR[qr]TR[qs]C[The marked stones are dead and white lives!]))
+(;B[pr];W[qr]TR[rq]TR[sq]C[White connects, and the marked stones are dead for two eyes :(]))
+(;B[qr];W[pr]
+(;B[ps];W[qs]
+(;B[or];W[os]C[A ko, but black can kill unconditionally.])
+(;B[os];W[rp]TR[rq]TR[sq]C[Oops.  White will take the marked stones and live!])
+(;B[rp];W[os]C[White lives with ease. Miai at A and B.
+]LB[or:A]LB[ps:B]))
+(;B[or];W[ps]C[Oh no!  White lives :(]))
+(;B[pr];W[qr]
+(;B[ps];W[rp]TR[rq]TR[sq]C[The marked stones are dead and white makes life!])
+(;B[os];W[rp]TR[rq]TR[sq]C[The marked stones are dead and white makes life!])
+(;B[or];W[rp]TR[rq]TR[sq]C[The marked stones are dead and white makes life!])
+(;B[rp];W[or]TR[pr]C[The marked stone is dead and white makes life!]))
+(;B[ps];W[rp]
+(;B[qr];W[sp]
+(;B[rq]C[White is dead!  White cannot threaten at A (self-atari).  Note that if white captures, black will have to respond to avoid the threat at A.RIGHT]LB[pr:A])
+(;B[pr];W[rq]C[Oops!  White lives.])
+(;B[or])
+(;B[os];W[rq]C[Oops!  White lives.])
+(;B[qs];W[rq]C[Oops!  White lives.]))
+(;B[pr];W[qr]C[The marked stones are dead and white makes life!]TR[rq]TR[sq])
+(;B[or];W[qr]C[The marked stones are dead and white makes life!]TR[rq]TR[sq])
+(;B[ro];W[sp]C[White has miai for life at A and B.]LB[qr:A]LB[rq:B])
+(;B[qs];W[qr]TR[rq]TR[sq]C[The marked stones are dead and white lives!]))
+(;B[rp];W[ps]
+(;B[pr];W[or]C[The marked stone is dead and white lives!]TR[pr])
+(;B[qr];W[pr]C[Sweet life for white.])
+(;B[or];W[pr]C[White makes life!])))

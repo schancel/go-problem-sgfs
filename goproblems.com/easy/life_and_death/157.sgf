@@ -1,0 +1,36 @@
+(;GE[life and death]DI[18k]DP[68]SO[jonathan]CO[6]GM[1]FF[3]
+RU[Chinese]GC[simple problem, coposed by jonathan Cano.
+]SZ[19]HA[0]
+KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2000-05-21]
+SY[Cgoban 1.9.10]TM[30:00(5x1:00)];PL[1]
+AW[ea][fb][gb][cc][dc][ec][ad][bd][cd][gd]AB[bb][cb][db][eb][ac][bc]
+C[Black to play and live.
+]
+(;B[aa];W[da];B[ca]C[RIGHT.  Black lives unconditionally.
+])
+
+(;B[ab];W[da];B[ca];W[fa]C[one eye, black is dead.
+])
+
+(;B[ba];W[da]C[one eye, black is dead
+])
+
+(;B[ca];W[aa]C[one eye, black is dead.
+])
+
+(;B[da];W[ba]
+(;B[ca];W[aa]C[one eye, black is dead.
+])
+
+(;B[aa];W[ab]
+C[Ko at A1.  If white wins the ko (and connects at A1, black dies.  (variation follows)
+]
+;B[fa];W[aa];B[ca];W[aa]C[one eye, black is dead.
+])
+)
+
+)

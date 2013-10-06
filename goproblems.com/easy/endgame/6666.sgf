@@ -1,0 +1,35 @@
+(;GE[endgame]DI[15k]DP[60]SO[maba]CO[7]AW[ra]AW[rb]AB[qa]AB[qb]AW[qc]AW[qd]AW[re]AW[qe]AW[rf]AW[rg]AB[pc]AB[ob]AB[pd]AB[pe]AB[qf]AB[qg]AB[qh]AB[rh]AB[sg]AB[se]C[What's the best endgame for white?]AB[rj]AP[goproblems]
+(;W[sd]
+(;B[sh];W[sf]C[RIGHT])
+(;B[sf];W[sh]C[RIGHT])
+(;B[rd];W[sf]C[RIGHT])
+(;B[rc];W[sc]
+(;B[sf];W[sh]C[RIGHT])
+(;B[sh];W[sf];B[sb];W[rd]C[RIGHT])
+(;B[sb];W[rd]
+(;B[sf];W[sh]C[RIGHT])
+(;B[sh];W[sf]C[RIGHT])))
+(;B[sc];W[rd]
+(;B[sf];W[sh]C[RIGHT])
+(;B[sh];W[sf]C[RIGHT])
+(;B[rc];W[sb];B[sh];W[sf]C[RIGHT]))
+(;B[sb];W[rc]
+(;B[sc];W[sf]C[RIGHT])
+(;B[sh];W[sf]C[RIGHT])))
+(;W[sc];B[sf];W[sd];B[sh]C[White can do better.])
+(;W[rd];B[sf];W[sd];B[sh]
+(;W[sb]C[White can do better.])
+(;W[sc]C[White can do better.]))
+(;W[rc];B[sf];W[sd];B[sh]C[White can do better.])
+(;W[sb];B[sd]
+(;W[rd];B[sf])
+(;W[rc];B[sf])
+(;W[sc];B[sf])
+(;W[sf];B[rc]C[White is dead.]))
+(;W[sh]C[NOTTHIS])
+(;W[sf];B[rc]
+(;W[rd];B[sd])
+(;W[sh];B[sb])
+(;W[sd];B[sb])
+(;W[sc];B[rd])
+(;W[sb];B[rd])))

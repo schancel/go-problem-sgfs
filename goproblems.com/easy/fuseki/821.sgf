@@ -1,0 +1,26 @@
+(;GE[fuseki]DI[8k]DP[49]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[jp][pq][qo]
+AW[dj][dp][hq]
+LB[yy:1][ho:A][pj:B]PL[B]
+C[Black to make his moyo as big as 
+possible.]
+(;B[ho]
+MN[1]
+(;W[fq]
+C[RIGHT
+Black can now play at A.
+If Black wants to reinforce te lower 
+side he can play B, white C and D.]
+LB[fq:2][pj:A][fq:2][iq:B][hp:C][io:D])(;W[pj]
+;B[gq]
+C[If white ignores black 1, black can 
+play here and take a big lower side.]
+LB[gq:3][ho:1]))(;B[pj]
+;W[io]
+C[White keeps black's moyo in check 
+while increasing his own.]
+))

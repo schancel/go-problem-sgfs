@@ -1,0 +1,13 @@
+(;GE[endgame]DI[5k]DP[32]SO[rex]CO[8]AW[cq][bq][aq][dr][er][fr][fs]AB[ap][bp][cp][dq][eq][fq][gr][gs][gq][dp]C[Black needs to do something in the corner.]SZ[19]
+
+(;B[bs]
+(;W[cs]
+(;B[ar];W[cr]
+(;B[ds]N[Seki]C[RIGHT CHOICE])
+(;B[es]C[RIGHT]))
+(;B[ds];W[cr];B[ar]C[RIGHT]))
+(;W[cr];B[cs];W[ds];B[ar]C[RIGHT]N[Seki]))
+(;B[cs];W[bs]
+(;B[br];W[cr];B[as];W[ds])
+(;B[cr];W[br]))
+(;B[ds];W[cs];B[bs];W[cr];B[ar]C[RIGHT]))

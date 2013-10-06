@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[5k]DP[35]SO[sabetts]CO[0]AB[rs]AB[rr]AB[rq]AB[qp]AB[pp]AB[op]AB[np]AB[mp]AB[nq]AB[nr]AW[or]AW[pq]AW[qq]AW[qr]AW[ns]AW[mr]AW[mq]AW[kq]AW[ko]AW[no]AW[qn]AW[ro]AW[rp]C[How can black take advantage of White's shortage of liberties?]AP[goproblems]
+(;B[oq];W[os]
+(;B[pr];W[ps];B[qs]C[RIGHT])
+(;B[qs];W[pr]))
+(;B[qs];W[os];B[oq];W[pr])
+(;B[pr];W[ps])
+(;B[ps];W[os]
+(;B[oq];W[pr])
+(;B[qs];W[oq])))

@@ -1,0 +1,46 @@
+(;GE[life and death]DI[6d]DP[3]SO[chrise]CO[8]AB[qb]AB[qa]AB[qc]AB[se]AB[re]AB[qe]AB[pd]AB[od]AB[nd]AB[oc]AB[ob]AW[pb]AW[pa]AW[oa]AW[nb]AW[nc]AW[ne]AB[me]AB[oe]AW[nf]AW[of]AB[pf]AW[og]AW[pg]AB[qf]AW[qg]AW[rf]AW[sf]AW[sg]AW[rh]AW[md]AW[lc]AW[ld]AW[le]AB[la]AB[lb]AB[kb]AB[kc]AB[kd]AW[ke]AW[rb]AW[rc]AW[rd]C[Can white capture the whole corner?]AW[sh]AP[goproblems]
+(;W[qd];B[na]
+(;W[ma];B[pc]
+(;W[ra];B[na];W[oa];B[mb]C[CHOICE]
+(;W[mc];B[na]C[Ko for the corner. White plays out her superior ko threat at a. Black responds at b]LB[mh:A];W[mh]C[Black responds at BFORCE]LB[kh:B];B[kh]C[Now finish the job!FORCE]
+(;W[ma];B[sd]
+(;W[sc];B[na]
+(;W[pa];B[pb]
+(;W[oa];B[ma];W[pe]C[White captures the corner with the aid of superior ko threatsRIGHT])
+(;W[pa];B[oa]C[So close!]))
+(;W[pe];B[pa]C[So close!]))
+(;W[na];B[sc]))
+(;W[sd];B[pa]))
+(;W[sd];B[mc]))
+(;W[na];B[mc]C[Snapback. Ouch!])
+(;W[sd];B[mb]
+(;W[ra];B[na])
+(;W[mc];B[na])
+(;W[pe];B[na]))
+(;W[mb];B[na]
+(;W[mc];B[ra];W[sd];B[pe];W[sb];B[sa])
+(;W[oa];B[ra]
+(;W[sd];B[pe])
+(;W[sb];B[sd])
+(;W[sc];B[pe]))
+(;W[sd];B[mc])
+(;W[ra];B[mc]))
+(;W[mc];B[na];W[oa];B[ra]
+(;W[sd];B[pe]
+(;W[sb];B[sa])
+(;W[pa];B[sb])
+(;W[pb];B[sb]))
+(;W[sb];B[sd])
+(;W[sc];B[sa])))
+(;W[ra];B[pc])
+(;W[mb];B[ma]))
+(;W[ra];B[qd])
+(;W[pc];B[na])
+(;W[sb];B[qd])
+(;W[sd];B[qd])
+(;W[sc];B[qd])
+(;W[na];B[qd])
+(;W[sa];B[qd])
+(;W[ma];B[qd])
+(;W[mb];B[qd])
+(;W[mc];B[qd]))

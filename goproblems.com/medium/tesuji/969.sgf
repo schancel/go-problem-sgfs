@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[3d]DP[10]SO[marcin]CO[5]SZ[19]AB[bp]AB[bq]AB[cq]AB[dp]AB[do]AB[eo]AB[fp]AB[fq]AW[dq]AW[eq]AW[ep]AW[fr]AW[hq]AW[cp]AW[co]AW[bo]AW[cm]AW[em]C[What can Black do in this position?]
+(;B[es];W[cr];B[ds]
+(;W[fs]
+(;B[gr];W[dr]
+(;B[br];W[cs]
+(;B[bs];W[er]
+(;B[gs]C[ Black is superior now.RIGHT])
+(;B[ds]C[RIGHT])
+(;B[es]C[RIGHT]))
+(;B[gs];W[er];B[bs]C[ Black does wellRIGHT]))
+(;B[gs];W[br]C[Insufficient]))
+(;B[br];W[dr]
+(;B[gr])
+(;B[cs];W[er];B[bs];W[gr])
+(;B[bs];W[gr])))
+(;W[dr];B[br];W[cs];B[bs]C[ White is 'toast'RIGHT]))
+(;B[gr];W[cr];B[br];W[fo]C[White is safe])
+(;B[cr];W[er];B[ar];W[gr]C[Black is left weak outside and life is gote.]))

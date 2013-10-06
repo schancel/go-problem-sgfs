@@ -1,0 +1,34 @@
+(;GE[life and death]DI[2d]DP[13]SO[Hans]CO[7]
+AW[on][pn][qn][rn][sn][oo][qp][qq][rr][qs][ss]
+AB[ml][sl][om][pm][qm][rm][mn][po][mp][pp][rp][nq][pq][pr][qr]PL[W]
+C[What can white do?
+]TR[rp]
+(;W[qo];B[sq]
+(;W[rq];B[so])
+
+(;W[so];B[rq])
+
+(;W[ro];B[sp])
+
+(;W[sp];B[so])
+)
+
+(;W[rq];B[sq]
+(;W[so];B[qo])
+
+(;W[qo];B[so])
+
+(;W[sr];B[sp])
+
+(;W[sp];B[so])
+)
+
+(;W[sp];B[qo])
+
+(;W[ro];B[rq];W[qo];B[sp];W[sq]
+C[RIGHT White can fight a ko for life.
+])
+
+(;W[sq];B[qo])
+
+)

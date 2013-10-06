@@ -1,0 +1,21 @@
+(;GE[endgame]DI[4k]DP[30]SO[coutty]CO[0]AB[nk]AB[nl]AB[nm]AB[nn]AB[mn]AB[ml]AB[li]AB[lj]AB[lk]AB[kk]AB[jk]AB[jj]AB[ij]AB[ii]AB[hi]AW[ki]AW[ji]AW[jh]AW[ih]AW[hh]AW[gi]AW[gj]AW[gk]AW[fj]AW[hj]AW[ik]AW[il]AW[hl]AW[hm]AW[fl]AB[gm]AW[gn]AW[fn]AB[hn]AB[in]AB[im]AB[jn]AB[jo]AB[jp]AW[jl]AW[kl]AW[jm]AW[ll]AW[lm]AW[mm]AW[ln]AW[kn]AW[ko]AW[kp]AW[lp]AW[mo]AW[no]AB[kq]AB[lq]AB[mp]AB[np]AB[mq]AB[oq]AB[go]AB[gp]AB[hq]AB[iq]AB[ir]AW[hr]AW[fp]AW[eo]AW[dp]AW[cp]AW[bq]AW[br]AW[ar]AB[aq]AB[ap]AB[bp]AB[ao]AB[bn]AB[cn]AB[co]AB[do]AB[cm]AB[bl]AB[al]AB[ak]AB[aj]AB[bj]AW[bk]AW[ck]AW[cl]AW[cj]AW[dl]AW[dm]AW[dn]AW[em]AB[fk]AB[ek]AB[el]AB[dk]AB[dj]AB[di]AB[ci]AB[dh]AB[ei]AB[fi]AB[gh]AB[gg]AB[hg]AB[ig]AB[gf]AB[ge]AB[gd]AB[he]AB[fe]AB[ee]AW[ef]AW[eg]AB[dg]AB[df]AB[cf]AB[cg]AB[bh]AB[ag]AW[bg]AW[bf]AW[ae]AW[ad]AW[ac]AW[bb]AW[cc]AW[db]AW[de]AW[ce]AW[ed]AW[fd]AW[fc]AB[ec]AW[gc]AW[hd]AW[ib]AW[jb]AW[jc]AW[kc]AW[jd]AW[je]AW[jf]AW[jg]AW[if]AW[hf]AW[ie]AW[kg]AW[lg]AW[lh]AB[fh]AB[mh]AB[mg]AW[nh]AB[lf]AB[kf]AB[ke]AB[ld]AB[lc]AB[lb]AB[mc]AB[ma]AB[ka]AB[ja]AB[ia]AB[ha]AB[ga]AW[na]AW[nb]AW[mb]AW[nc]AW[oc]AW[pc]AW[qc]AW[rc]AW[rd]AW[sd]AW[se]AW[od]AB[nd]AB[ne]AB[oe]AB[pd]AB[qd]AB[qe]AB[re]AB[sf]AB[rg]AB[qh]AB[ri]AB[si]AB[rj]AW[sj]AW[sk]AW[rk]AW[rl]AW[ql]AW[pl]AW[ol]AW[ok]AW[om]AW[on]AW[pm]AB[pn]AB[qn]AW[rn]AW[po]AW[qo]AW[ro]AW[so]AW[sp]AW[pp]AW[op]AB[qp]AB[rp]AB[pq]AB[rq]AB[sq]AB[qr]AB[qk]AB[pk]AB[pj]AB[oj]AB[js]AW[hs]AB[la]AB[ah]AW[af]AW[fo]AW[gb]AW[fa]AW[eb]AW[ea]AB[gq]AW[gr]AW[fq]AW[eq]AW[hb]AB[kd]C[At now white have 73.5 pts (59 territory, 6.5 komi and 8 prisoners), black have 73 pts (65 territory and 8 prisoners). Black need one point (or more) to win. Can black win? Please, choose 'White' (T19) if you think that white unconditionally win; choose 'Black' (T18) if you think than black can win yet.FORCE]AW[es]LB[sb:Black]LB[sa:White]AB[is]AB[kr]AP[goproblems]
+(;B[sa]C[You right, white win. 1) Black can kill some white stones (F2), but white can kill more stones at (O10). Navigate solution, if you don't see it. 2) If black protect B, then white - A and win by 0.5.FORCERIGHT]LB[fr:A]LB[nj:B])
+(;B[sb];W[sa]C[Where black should to play?]
+(;B[fr];W[nj]C[]
+(;B[er];W[dr];B[gs];W[mi]C[Now black lose 15 stones + some territory. White win.])
+(;B[ni];W[mk]C[White to kill more stones, than black. White win.])
+(;B[gs]C[];W[mi]C[4 white stones still dead without G1-move. But white eat much more stones and black should resign.])
+(;B[mk];W[mi]
+(;B[oi];W[kj]LB[ni:A]C[White can connect at A to eat stones with some territory, but this is not important at now. White win.])
+(;B[ni];W[oi])
+(;B[ng];W[kj]C[White can move to A or B, but this is not important at now.]LB[ni:A]LB[oh:B]))
+(;B[mi];W[mk];B[ni];W[fs];B[gs];W[er];B[gr]C[White kill more, than black. White win.])
+(;B[mj];W[ni]
+(;B[mi];W[mk]C[Oh, white eat 6 stones and territory. White win.])
+(;B[mk];W[mi]C[Hmm... Black really can't save these stones. White win.])))
+(;B[nj];W[fr]C[White save preference +0.5 pts and win.])
+(;B[mj];W[fr]C[White save preference +0.5 pts and win.])
+(;B[mi];W[fr]C[White save preference +0.5 pts and win.])
+(;B[ni];W[fr]C[White save preference +0.5 pts and win.])
+(;B[mk];W[fr]C[White save preference +0.5 pts and win.])
+(;B[oi];W[fr]C[White save preference +0.5 pts and win.])))

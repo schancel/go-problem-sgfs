@@ -1,0 +1,29 @@
+(;GE[endgame]DI[2k]DP[22]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+AW[da][eb][dc][dd][ed][be][ce][ee][ef]AB[ca][cb][cc][bd][cd][de][af][df][dg]C[No komi, no prisoners - Black to play and win!]
+(;B[bg]CR[bg]
+;W[eg]CR[eg]
+;B[db]CR[db]
+;W[ea]CR[ea]C[Black wins by one point! RIGHT])
+(;B[cf]CR[cf]
+;W[eg]CR[eg]
+(;B[bf]CR[bf]
+;W[db]CR[db]C[White wins by one point])
+(;B[ae]CR[ae]
+;W[db]CR[db]C[White wins by one point!]))
+(;B[bf]CR[bf]
+;W[eg]CR[eg]
+(;B[cf]CR[cf]
+;W[db]CR[db]C[White wins by one point!])
+(;B[ae]CR[ae]
+;W[db]CR[db]C[White wins by one point!]))
+(;B[ae]CR[ae]
+;W[eg]CR[eg]
+(;B[cf]CR[cf]
+;W[db]CR[db]C[White wins by one point!])
+(;B[bf]CR[bf]
+;W[db]CR[db]C[White wins by one point!]))
+(;B[eg]CR[eg]
+;W[cf]CR[cf]C[White will capture the black stones!])
+(;B[db]CR[db]
+;W[cf]CR[cf]C[The four black stones are lost!]))

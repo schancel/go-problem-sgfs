@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[45]SO[adum]CO[7]AB[ab]AB[bb]AW[ac]AW[bc]AW[cc]AW[dc]AW[ec]AW[fc]AW[gc]AW[hc]AW[ic]AW[jc]AW[kc]AW[lc]AW[mc]AW[nc]AW[pc]AW[qc]AW[rc]AW[sc]AW[oc]AB[cb]AB[eb]AB[fb]AB[hb]AB[ib]AB[jb]AB[mb]AB[ob]AB[rb]AB[sb]AB[pb]AB[kb]AW[nb]AB[na]AW[lb]AB[la]AB[ma]AW[gb]AB[ga]AW[db]AB[da]AW[qb]AB[qa]C[save as many as you can]AP[goproblems]
+(;B[ha];W[ra]C[white gets some stones])
+(;B[ka];W[ra]C[white gets some stones])
+(;B[ca];W[ha];B[ia];W[ka];B[ja];W[ra])
+(;B[fa];W[ha];B[ia];W[ka];B[ja];W[ra])
+(;B[ea];W[ha];B[ia];W[ka];B[ja];W[ra])
+(;B[ba];W[ha];B[ia];W[ka];B[ja];W[ra])
+(;B[ra];W[ka];B[ja];W[ca];B[ba];W[ha]
+(;B[ia];W[pa];B[oa];W[ea];B[fa]C[all stones safeRIGHT])
+(;B[fa]C[];W[ea])))

@@ -1,0 +1,41 @@
+(;GE[endgame]DI[3d]DP[9]SO[lakeland]CO[6]SZ[19]AW[ja]AW[ka]AW[ra]AW[gb]AW[ib]AW[jb]AW[ob]AW[qb]AW[ec]AW[fc]AW[hc]AW[ic]AW[lc]AW[nc]AW[oc]AW[pc]AW[rc]AW[ad]AW[bd]AW[cd]AW[dd]AW[md]AW[od]AW[ae]AW[ce]AW[de]AW[ee]AW[fe]AW[ie]AW[me]AW[qe]AW[re]AW[se]AW[df]AW[ff]AW[mf]AW[qf]AW[sf]AW[dg]AW[gg]AW[mg]AW[qg]AW[gh]AW[hh]AW[jh]AW[lh]AW[qh]AW[hi]AW[ki]AW[li]AW[qi]AW[aj]AW[ij]AW[jj]AW[qj]AW[ak]AW[bk]AW[dk]AW[fk]AW[jk]AW[kk]AW[lk]AW[ok]AW[pk]AW[sk]AW[bl]AW[dl]AW[el]AW[gl]AW[kl]AW[ml]AW[nl]AW[pl]AW[rl]AW[cm]AW[fm]AW[gm]AW[hm]AW[im]AW[lm]AW[qm]AW[rm]AW[an]AW[bn]AW[cn]AW[dn]AW[en]AW[fn]AW[gn]AW[in]AW[kn]AW[mn]AW[qn]AW[co]AW[eo]AW[go]AW[jo]AW[ko]AW[mo]AW[po]AW[ap]AW[cp]AW[dp]AW[fp]AW[jp]AW[lp]AW[pp]AW[rp]AW[bq]AW[cq]AW[dq]AW[iq]AW[kq]AW[lq]AW[mq]AW[rq]AW[cr]AW[sr]AB[la]AB[na]AB[oa]AB[pa]AB[qa]AB[kb]AB[mb]AB[nb]AB[gc]AB[jc]AB[kc]AB[mc]AB[fd]AB[gd]AB[hd]AB[id]AB[ld]AB[nd]AB[pd]AB[be]AB[ge]AB[je]AB[le]AB[ne]AB[af]AB[bf]AB[cf]AB[ef]AB[hf]AB[if]AB[lf]AB[rf]AB[cg]AB[eg]AB[ig]AB[kg]AB[lg]AB[rg]AB[sg]AB[ch]AB[dh]AB[eh]AB[fh]AB[ih]AB[kh]AB[rh]AB[ai]AB[ci]AB[ei]AB[gi]AB[ii]AB[ji]AB[ri]AB[si]AB[bj]AB[dj]AB[ej]AB[fj]AB[gj]AB[hj]AB[kj]AB[rj]AB[ck]AB[ek]AB[gk]AB[hk]AB[ik]AB[qk]AB[rk]AB[hl]AB[il]AB[jl]AB[ol]AB[ql]AB[jm]AB[km]AB[nm]AB[om]AB[pm]AB[hn]AB[jn]AB[nn]AB[pn]AB[ho]AB[io]AB[no]AB[oo]AB[qo]AB[ro]AB[ep]AB[gp]AB[hp]AB[ip]AB[mp]AB[np]AB[qp]AB[aq]AB[eq]AB[fq]AB[jq]AB[nq]AB[oq]AB[pq]AB[qq]AB[sq]AB[ar]AB[br]AB[dr]AB[er]AB[gr]AB[jr]AB[kr]AB[lr]AB[mr]AB[rr]AB[as]AB[bs]AB[cs]AB[ds]C[Please fill the F8 ko rather than the F5 ko.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]PW[Solaris]PB[lesio]
+(;W[fl];B[ed]
+(;W[fo];B[gf];W[fg];B[hg]C[If you do not think D17 is needed, play Q18.]
+(;W[pb];B[dc]
+(;W[cb];B[db];W[eb];B[ea];W[fb];B[ha]
+(;W[ga];B[hb];W[ia];B[ha];W[hb];B[cc];W[bc]C[RIGHT])
+(;W[hb];B[fa];W[cc];B[da];W[ca]C[RIGHT]))
+(;W[db];B[cc];W[bc];B[eb]
+(;W[fb];B[cb]
+(;W[ea];B[bb])
+(;W[bb];B[da]
+(;W[fa];B[ba]
+(;W[ab];B[ha]
+(;W[ea];B[hb])
+(;W[hb];B[ea]))
+(;W[ea];B[ab]))
+(;W[ba];B[ca]
+(;W[fa];B[ha]
+(;W[ea];B[hb])
+(;W[hb];B[ga];W[ia];B[ha];W[ab]C[big gain by black]))
+(;W[ha];B[ab];W[fa];B[aa];W[ac];B[aa])
+(;W[ea];B[fa];W[ga];B[ha];W[ea];B[hb];W[ia];B[ha];W[hb];B[fa]))))
+(;W[cb];B[fb];W[dc];B[ga]
+(;W[ha]C[White cannot win this ko])
+(;W[hb];B[ha])))
+(;W[cc];B[db]
+(;W[fb];B[cb];W[bb];B[ac];W[bc];B[ba];W[ab];B[ha]
+(;W[hb];B[ea];W[fa];B[ia];W[ga];B[ha]
+(;W[da];B[ca])
+(;W[ca];B[da]))
+(;W[ga];B[hb];W[ia];B[ha];W[hb];B[ea])
+(;W[eb];B[hb])
+(;W[ea];B[hb]))
+(;W[eb];B[ea];W[fb];B[cb];W[bb];B[ac];W[bc];B[ba];W[ab];B[ha]
+(;W[ga];B[hb];W[ia];B[ha];W[hb])
+(;W[hb];B[fa])
+(;W[fa];B[hb]))
+(;W[ea];B[eb];W[fb];B[cb];W[bb];B[ac];W[bc];B[ba];W[ab];B[ca];W[fa];B[ha];W[hb];B[ia];W[ga];B[ha])))
+(;W[db]C[Black wins by 0.5]))
+(;W[db]C[Black wins]))
+(;W[fo]C[NOTTHIS]))

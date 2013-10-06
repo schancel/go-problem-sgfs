@@ -1,0 +1,37 @@
+(;GE[best move]DI[3d]DP[9]SO[MeleeNewb]CO[0]AW[rr]AW[rq]AW[qq]AW[qp]AB[pp]AB[pq]AB[pr]AB[qr]AB[rs]AB[po]AW[ro]AB[qo]AW[qn]AW[pm]AW[pl]AW[ql]AW[rl]AW[qk]AW[rj]AW[sk]AB[si]AB[ri]AB[qi]AB[qj]AB[pk]AB[ok]AB[ol]AB[om]AB[pn]C[FORCE]AP[goproblems]
+(;B[rn]
+(;W[qm]C[]
+(;B[so];W[rp]
+(;B[sm]
+(;W[rm]
+(;B[sr]
+(;W[sl]
+(;B[sn];W[sp]
+(;B[sn];W[sj];B[rn]C[Navigate solution to see better responses by white.CHOICERIGHT])
+(;B[sj];W[sn]))
+(;B[sj];W[sn])
+(;B[sq];W[sn])
+(;B[sp];W[sn]))
+(;W[sn]C[RIGHT]))
+(;B[sn];W[sr]
+(;B[sj];W[sp])
+(;B[sp];W[sl];B[sj];W[sq]))
+(;B[sj];W[sp]
+(;B[sn];W[sl];B[sn];W[sr];B[rn];W[so])
+(;B[sr];W[sn]))))
+(;B[sr];W[rm]
+(;B[sm])
+(;B[sn];W[sm];B[sj];W[sp]
+(;B[rk];W[sn])
+(;B[sn];W[rk])))
+(;B[sj];W[sp]
+(;B[sm];W[rm])
+(;B[sn];W[sm];B[rk];W[rm]
+(;B[sr];W[sn])
+(;B[sn];W[sr]))
+(;B[sr];W[sn])))
+(;B[sm];W[so];B[sr];W[sp])
+(;B[sj];W[sn]))
+(;W[sn]C[Best play by white.];B[qm];W[rm];B[qn];W[sj]C[RIGHT]))
+(;B[sj];W[rn])
+(;B[sp];W[rn]))

@@ -1,0 +1,82 @@
+(;GE[life and death]DI[4k]DP[30]SO[ketran0]CO[6]AB[ro]AB[rn]AB[qn]AB[rm]AW[sl]AW[rl]AW[ql]AW[qm]AW[pl]AW[pk]AB[qk]AB[qj]AB[pj]AB[rk]AB[sk]AB[qi]AB[qh]AB[ph]AW[oj]AW[oi]AW[pi]AW[oh]AW[og]AW[pg]AW[pf]AW[qg]AB[pd]AB[oe]AB[of]AW[rg]AB[ok]AB[ol]AB[mk]AW[pn]AW[om]AW[qo]C[Black to save all of his stones after white responded incorrectly]AB[nm]LB[nm:1]AW[rp]LB[rp:2]AW[mp]AW[nq]AW[lo]AB[qq]AW[mg]AP[goproblems]
+(;B[nm]AB[nm];B[oo])
+(;B[sm];W[pm];B[po];W[on]
+(;B[oo];W[nn];B[mn];W[no];B[mo];W[np])
+(;B[qp]C[Not all stones are safe])
+(;B[no]
+(;W[oo]C[CHOICE];B[op];W[pp]
+(;B[nn];W[po];B[pq];W[qp]
+(;B[rq]C[RIGHT])
+(;B[sp]C[RIGHT]))
+(;B[pq];W[np];B[oq];W[nn];B[mn];W[mo]))
+(;W[nl]C[CHOICE];B[nk];W[nn];B[mn];W[mm];B[oo];W[nm];B[lm];W[ml];B[ll]C[RIGHT]))
+(;B[nn];W[oo];B[no];W[op]))
+(;B[qp];W[po];B[rq];W[rh]C[Black could have saved both groups])
+(;B[po]
+(;W[so]
+(;B[qp];W[sm];B[on];W[sn];B[pm];W[sp];B[rq]C[RIGHT])
+(;B[on];W[sm];B[pm];W[sn];B[sp]C[RIGHT]))
+(;W[qp]
+(;B[sm]C[RIGHT])
+(;B[on];W[pm];B[sm]C[RIGHT]))
+(;W[on]C[CHOICE]
+(;B[no]
+(;W[oo]C[CHOICE]
+(;B[op];W[pp]
+(;B[sm];W[pm];B[nn];W[po];B[pq];W[qp]
+(;B[qq];B[rq]C[RIGHT])
+(;B[rq]C[RIGHT]))
+(;B[nn]
+(;W[pq];B[sm];W[pm];B[po]C[])
+(;W[so]C[CHOICE];B[qp]C[Ko, black can kill unconditionally])))
+(;B[qp];W[op])
+(;B[sm];W[pm];B[op];W[pp];B[nn];W[po];B[pq];W[qp];B[rq]C[RIGHT]))
+(;W[nn]C[CHOICE]
+(;B[mn];W[oo]
+(;B[sm];W[op];B[pm]C[RIGHT])
+(;B[op];W[pp];B[sm];W[pm];B[po]C[RIGHT])))
+(;W[nl]C[CHOICE];B[nk];W[nn];B[mn];W[mm];B[oo];W[nm];B[lm];W[ln];B[sm];W[pm];B[ml]C[RIGHT])
+(;W[pp])
+(;W[qp];B[sm];W[pm]))
+(;B[sm];W[pm]
+(;B[oo];W[nn];B[mn];W[no];B[mo];W[np];B[qp]C[Not both groups were saved])
+(;B[no]
+(;W[oo]C[CHOICE];B[op];W[pp];B[nn];W[po];B[pq];W[qp];B[rq]C[RIGHT])
+(;W[nl]C[CHOICE];B[nk];W[nn]
+(;B[oo];W[mn])
+(;B[mn]
+(;W[mm];B[oo];W[nm];B[lm];W[ml];B[ll]C[RIGHT])
+(;W[ml]))
+(;B[mm];W[mn]))
+(;W[nn];B[mn]))))
+(;W[nl]C[CHOICE]
+(;B[nk];W[nn]
+(;B[mm];W[on];B[sm];W[pm])
+(;B[sm]C[RIGHT]))
+(;B[sm]
+(;W[pm];B[on])
+(;W[nk]C[CHOICE]))))
+(;B[on];W[po];B[pm]C[Ko; black can kill without ko])
+(;B[oo]
+(;W[po]C[];B[sm];W[pm];B[pp];W[qp];B[rq];W[op];B[pq];W[on];B[no]
+(;W[nn];B[mn]C[])
+(;W[nl]C[CHOICE];B[nk];W[nn];B[mn];W[mm];B[sp];W[nm];B[lm];W[ml];B[ll]))
+(;W[so]C[];B[po];W[qp];B[on];W[sn];B[pm];W[sm];B[sp]C[])
+(;W[on]C[]
+(;B[po];W[nn])
+(;B[nn];W[po];B[sm];W[pm];B[pp];W[qp];B[rq]C[]))
+(;W[nn];B[sm];W[pm];B[on];W[po])
+(;W[nl]C[CHOICE];B[nk];W[nn];B[mm];W[on];B[mo];W[no];B[sm];W[pm];B[op];W[np]))
+(;B[no]
+(;W[nn];B[mn];W[on])
+(;W[pp]C[CHOICE]
+(;B[on];W[pm];B[sm];W[po];B[op];W[pq];B[oq];W[pr];B[or];W[qr])
+(;B[qp];W[po];B[rq];W[pq]C[both groups aren't safe])
+(;B[oo];W[po]
+(;B[oq];W[op];B[np];W[pq];B[or];W[pr];B[nr];W[so])
+(;B[op];W[so])
+(;B[pq];W[so])
+(;B[on];W[pm];B[op]
+(;W[so])
+(;W[pq]C[CHOICE];B[oq];W[or])))))
+(;B[rq];W[on]C[The top group is dead]))

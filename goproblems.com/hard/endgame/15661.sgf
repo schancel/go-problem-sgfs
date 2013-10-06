@@ -1,0 +1,13 @@
+(;GE[endgame]DI[5d]DP[6]SO[thanush]CO[0]AW[pd]AW[pb]AW[od]AW[qg]AW[qf]AW[qh]AB[pg]AB[ng]AB[ne]AB[nd]AB[nc]AB[id]AB[if]AW[ma]C[Best response to monkey jump (hint: dont n18 first)]AP[goproblems]
+(;B[pc]
+(;W[qc]C[CHOICE];B[oc];W[qb];B[mb];W[na];B[la];W[ob];B[nb];W[oa];B[lb]C[RIGHT])
+(;W[oc]C[ResistanceCHOICE];B[nb];W[na];B[ob];W[oa];B[qc];W[qb];B[qd];W[pe];B[rb];W[ra];B[sc]C[RIGHT]))
+(;B[mb];W[na]
+(;B[la];W[ob];B[nb];W[oa];B[lb]C[2 points worse than correct variation])
+(;B[oa];W[ob];B[la];W[nb];B[lb]C[B can do better]))
+(;B[ob];W[oa]
+(;B[pc];W[qc];B[oc];W[qb])
+(;B[nb];W[na];B[pc];W[qc];B[oc];W[qb]))
+(;B[na];W[nb];B[mb];W[oa]
+(;B[la];W[na];B[lb];W[oc])
+(;B[oc];W[pc];B[ob];W[na];B[la];W[pa];B[lb]C[2 points worse than solution with possible ko from w])))

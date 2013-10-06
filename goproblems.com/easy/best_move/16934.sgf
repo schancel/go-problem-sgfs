@@ -1,0 +1,16 @@
+(;GE[best move]DI[5k]DP[34]SO[1234boys]CO[0]AB[dq]AB[eq]AB[cr]AB[ck]AB[rp]AB[qn]AW[pp]AW[np]AW[iq]AW[ep]AW[dp]AW[co]AW[cq]AW[bq]AB[gp]LB[ep:A]LB[gr:a]LB[fp:b]LB[gq:c]LB[hq:d]LB[fq:e]C[Imagine white's just played A. What's the best shape to defend your group?FORCE]AP[goproblems]
+(;B[gr]LB[fq:A]LB[fp:B]LB[fr:C]LB[er:D]C[Correct. This is the best shape. because it gives black the best potential for making eyes later. A and B are miai for black now. If white tries to play A-C, black D captures white's stones.RIGHT])
+(;B[fp]C[]LB[ep:A];W[gr]LB[fr:a]LB[fq:C]LB[ep:A]LB[gr:B]C[White plays on the vital point and black's group becomes weak. Notice the relationship between A and B-the point at C can only ever become a false eye now.]
+(;B[fr];W[gq])
+(;B[fq]))
+(;B[gq];W[fr]LB[gr:a]LB[fq:b]C[Later on there's still a vital point here...];B[gr];W[fq]LB[fp:a]LB[er:b]LB[es:c]
+(;B[fp];W[dr])
+(;B[er];W[es];B[dr];W[fp])
+(;B[es];W[fs]LB[fp:a]LB[er:b]
+(;B[fp];W[dr])
+(;B[er];W[fp])))
+(;B[hq]
+(;W[ip]LB[gr:A]LB[fq:B]C[Making this exchange helps white. In addition,black still has weaknesses at A and B,so black hasn't developed a good shape and still has to play another move here. In some situations white might choose to play at A or B immediately after black kicks with the diagonal attachment.]
+(;B[gr])
+(;B[fq])))
+(;B[fq];W[gr]C[Later on white can play here and black doesn't have much eyespace, so the group will be weak.]))

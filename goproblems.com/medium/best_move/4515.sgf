@@ -1,0 +1,40 @@
+(;GE[best move]DI[3k]DP[27]SO[chrise]CO[9]AW[pp]AB[qp]AB[pq]AB[oq]AW[nq]AW[op]AB[np]AB[mp]AB[lq]AB[kq]AW[lp]AB[ro]AB[qn]AB[rm]AW[rn]AB[so]AB[qm]AW[rl]AW[ql]AW[pk]AB[pl]AW[qk]AB[ok]AB[nj]AB[mj]AW[oj]AW[pi]AW[ni]AW[mi]AW[lj]AW[ll]AW[km]AW[kn]AW[ko]AB[mo]AW[mn]AB[ln]AB[lm]AB[mm]AW[kk]AB[nl]AW[nm]AW[on]AW[oo]AW[no]AB[pm]AB[qq]AB[po]AW[sl]AW[sm]AW[sn]AW[oi]AW[qi]AB[pj]AW[rj]AP[goproblems]
+(;W[pn];B[om]
+(;W[qo];B[nn])
+(;W[ml];B[nn])
+(;W[mq];B[nn])
+(;W[lo];B[nn]))
+(;W[om];B[ol]
+(;W[mq];B[nn]C[ko])
+(;W[lo];B[nn]C[ko])
+(;W[ml];B[nn]C[ko]))
+(;W[ml];B[nn]
+(;W[om];B[ol]
+(;W[lo];B[pn])
+(;W[mn]C[ko])
+(;W[mq];B[pn]))
+(;W[lo];B[om])
+(;W[mq];B[om])
+(;W[mn]C[NOTTHIS]))
+(;W[lo];B[mq]
+(;W[ml]C[White has saved her stones but there is a stronger sequence])
+(;W[om];B[nn]C[ko]))
+(;W[mq]
+(;B[nn]
+(;W[om];B[ol]
+(;W[mn]C[ko])
+(;W[lo];B[pn]))
+(;W[ml];B[om])
+(;W[lo];B[om]
+(;W[mn]C[White saves her stones and can invade black's territory later. Please see the navigate solution feature regarding black's initial response at o2 which leads to a similar scenario. RIGHT])
+(;W[ml];B[pn]))
+(;W[pn];B[om])
+(;W[mn]C[NOTTHIS]))
+(;B[nr];W[lo]C[Black now has the choice between securing territory or losing more stonesRIGHT]))
+(;W[nk];B[om]
+(;W[mk];B[nn])
+(;W[ol];B[nn]))
+(;W[mk];B[ml]
+(;W[mq];B[lo];W[nk];B[ol])
+(;W[lo];B[mq];W[nk];B[ol]))
+(;W[ol];B[om]))

@@ -1,0 +1,51 @@
+(;GE[life and death]DI[3d]DP[10]SO[DarkSycthe]CO[0]AB[qq]AB[qr]AB[pr]AB[qo]AB[ro]AW[sq]AW[po]AW[pp]AW[pq]AW[or]AW[nq]AW[qn]AW[rn]AW[pn]C[T5 should have been White's play. If White tries this, what can Black do?]AP[goproblems]
+(;B[sr];W[rr]
+(;B[rq];W[ss]
+(;B[sp];W[qp]C[Please refrain from unnecessary moves.]
+(;B[rs];W[qs]
+(;B[ps]C[Black lives in double ko!RIGHT])
+(;B[sr]C[Black can live in double ko. If you played this, you either misclicked or thought the only option for black was to play out a ko fight.]))
+(;B[sr]C[Black can live in double ko. If you played this, you either misclicked or thought the only option for black was to play out a ko fight.])
+(;B[rp];W[ps]C[Ko for life. You can do better.])
+(;B[ps];W[rs];B[qs];W[rp];B[sr];W[rs])
+(;B[qs];W[sr]))
+(;B[rs];W[qs]
+(;B[ps];W[so]C[]
+(;B[sp];W[rp];B[rs]C[Ko for life. You can do better.])
+(;B[rs]C[Ko for life. You can do better.]))
+(;B[sp];W[ps];B[sr]C[Ko for life. You can do better.])))
+(;B[rs];W[rq]
+(;B[rp];W[ss]C[Ko for life. You can do better.])
+(;B[sp];W[ss]C[Ko for life. You can do better.]))
+(;B[sp];W[rq]
+(;B[rs];W[ss])
+(;B[qp];W[ps]
+(;B[rs];W[ss])
+(;B[qs];W[os];B[rs];W[ss]))))
+(;B[rq];W[sr]
+(;B[sp];W[qp];B[ps];W[rs];B[rr];W[rp];B[ss];W[sr])
+(;B[qp];W[so];B[sp];W[rp]C[Ko for life. You can do better.])
+(;B[rp];W[ps])
+(;B[so];W[qp];B[rp];W[ps]))
+(;B[rp];W[ps]
+(;B[sr];W[rr];B[rs];W[ss]C[Ko for life. You can do better.])
+(;B[qs];W[so]
+(;B[rq];W[sr])
+(;B[sp];W[qp])))
+(;B[qp];W[so]
+(;B[sp];W[rp]
+(;B[rq];W[sr];B[sp]C[Ko for life. You can do better.])
+(;B[sr];W[rr];B[rq];W[ss];B[sp]C[Ko for life. You can do better.]))
+(;B[rq];W[sp])
+(;B[sr];W[sp]
+(;B[rs];W[rq])
+(;B[rq];W[rs])))
+(;B[sp];W[qp]
+(;B[sr];W[rp]
+(;B[rq];W[rs])
+(;B[rs];W[rq]))
+(;B[rq];W[sr]))
+(;B[rr];W[so])
+(;B[so];W[qp])
+(;B[rs];W[sr])
+(;B[ps];W[so];B[sr];W[rs]))

@@ -1,0 +1,54 @@
+(;GE[life and death]DI[4k]DP[29]SO[silentnight]CO[7]AW[pb]AW[qb]AW[rb]AW[sb]AW[ra]AW[nb]AW[nc]AW[nd]AB[mb]AB[mc]AB[md]AB[ld]AB[kd]AB[jd]AB[jc]AB[jb]AW[ib]AW[ic]AW[id]AW[gb]AW[me]AW[le]AW[ie]AW[jf]AW[kf]AW[lg]AW[li]AB[ne]AB[pc]AB[qc]AB[rc]AB[sc]AB[oe]AB[qe]AB[ng]AB[ni]AB[pd]AP[goproblems]
+(;B[ka];W[ob])
+(;B[kb]
+(;W[ob];B[ja])
+(;W[lc];B[ja];W[la];B[ma];W[lb];B[ob]C[White is killed for the variation.];W[oa];B[oc])
+(;W[ja]C[CHOICE]
+(;B[lc]
+(;W[la];B[ma];W[ka];B[ob];W[oa];B[oc];W[pa];B[na]C[White's tail dies for the variation.])
+(;W[ob]C[CHOICE];B[la]C[This lives far too smaller then the solution.]))
+(;B[ma];W[ob]
+(;B[ka]C[Still lives a bit smaller, but as you lives with using the technique, you get a pass. RIGHT])
+(;B[lc]C[RIGHT]))
+(;B[ob];W[oc]
+(;B[oa];W[na];B[ma];W[pa]
+(;B[ka]C[RIGHT])
+(;B[lc]C[RIGHT]))
+(;B[ma];W[oa]
+(;B[ka]C[RIGHT])
+(;B[lc]C[RIGHT])))))
+(;B[ob]
+(;W[oc]C[CHOICE]
+(;B[na];W[oa]
+(;B[ja];W[ma];B[la];W[kb])
+(;B[pa];W[ob];B[lb];W[kc];B[ja];W[kb];B[ma];W[ka]))
+(;B[pa];W[oa];B[ma];W[ja];B[na];W[ob])
+(;B[ma];W[oa]
+(;B[ja]C[This way you lose 1 point but the theory is correct.RIGHT])
+(;B[kb]C[RIGHT])
+(;B[lb]C[RIGHT])
+(;B[na];W[ja]))
+(;B[oa];W[na];B[ma];W[pa];B[ja]C[RIGHT]))
+(;W[oa]C[CHOICE];B[oc];W[pa];B[ma];W[na]
+(;B[ja]C[RIGHT])
+(;B[kb]C[RIGHT])
+(;B[lb]C[RIGHT]))
+(;W[na];B[oc];W[oa];B[pa]))
+(;B[ma]
+(;W[ja];B[ob]
+(;W[oc];B[oa])
+(;W[oa];B[oc];W[na];B[pa]))
+(;W[ob]C[CHOICE]
+(;B[ja]C[RIGHT])
+(;B[lb]C[Black lives but K19 would have been a few points better.RIGHT])
+(;B[kb]C[Black lives but K19 would have been a few points better.RIGHT])
+(;B[ka];W[lb])))
+(;B[na];W[oa]
+(;B[ma];W[ja])
+(;B[lb];W[kc];B[ma];W[ka];B[ja];W[kb]))
+(;B[lb];W[ma];B[kc];W[ka];B[ja];W[la]
+(;B[kb];W[na];B[ob];W[oc])
+(;B[na]
+(;W[ob])
+(;W[oa]))
+(;B[ob];W[oc];B[oa];W[pa])))

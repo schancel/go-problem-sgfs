@@ -1,0 +1,53 @@
+(;GE[life and death]DI[4k]DP[30]SO[Trucid]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ea][cb][eb][bc][dc][fc][dd][ed][fd]AB[da][bb][fb][gb][cc][gc][cd][gd][ce][de][ee][fe][ge]C[Black to play]
+(;B[ca]CR[ca]
+;W[db]CR[db]
+(;B[aa]CR[aa]
+;W[ba]CR[ba]
+;B[ca]CR[ca]
+;W[bd]CR[bd]
+(;B[be]CR[be]
+;W[ac]CR[ac]
+(;B[fa]CR[fa]C[RIGHT White can't approach from either side.])
+(;B[ae]CR[ae]
+;W[da]CR[da]
+(;B[ad]CR[ad]
+;W[ba]CR[ba]
+;B[ab]CR[ab]C[RIGHT])
+(;B[fa]CR[fa]
+;W[ba]CR[ba]C[Ko. Black can do better.])))
+(;B[fa]CR[fa]
+;W[ad]CR[ad]
+(;B[be]CR[be]
+;W[ab]CR[ab]C[Ko. Black can do better.])
+(;B[ab]CR[ab]
+;W[ac]CR[ac]C[White lives])
+(;B[ac]CR[ac]
+;W[ab]CR[ab]C[Ko. Black can do better.])))
+(;B[ba]CR[ba]
+;W[ab]CR[ab]C[White lives])
+(;B[ac]CR[ac]
+;W[ba]CR[ba]
+(;B[ab]CR[ab]
+;W[ca]CR[ca]C[White lives])
+(;B[ca]CR[ca]
+;W[ab]CR[ab]C[White lives]))
+(;B[bd]CR[bd]
+;W[ba]CR[ba]
+(;B[ac]CR[ac]
+;W[ca]CR[ca]C[White lives])
+(;B[ca]CR[ca]
+;W[ab]CR[ab]C[White lives])))
+(;B[ba]CR[ba]
+;W[db]CR[db]
+(;B[ca]CR[ca]
+;W[ab]CR[ab]C[White lives])
+(;B[ac]CR[ac]
+;W[ca]CR[ca]C[White lives])
+(;B[bd]CR[bd]
+;W[ca]CR[ca]C[White lives]))
+(;B[ac]CR[ac]
+;W[ca]CR[ca]C[White lives])
+(;B[ab]CR[ab]
+;W[ca]CR[ca]C[White lives]))

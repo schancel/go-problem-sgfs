@@ -1,0 +1,54 @@
+(;GE[life and death]DI[7k]DP[41]SO[BountyHunterSAx]CO[0]AB[cb]AB[cc]AB[bd]AW[dc]AW[ec]AW[gc]AW[cd]AW[ce]AW[cg]C[Is the group in the corner alive as it stands? Play Y if you think so, N if not. {White can win any Ko}]LB[gf:N]LB[gg:Y]AP[goproblems]
+(;B[gg]C[]
+(;W[be]C[Show me!   (Tripod - Descent)]
+(;B[ac];W[db]
+(;B[bb]C[Excellent! This is the first defense of the tripod group. From here A and B are miai for two eyes.RIGHT]LB[ba:A]LB[ca:B])
+(;B[ba];W[ab]
+(;B[bb];W[ae]
+(;B[ad];W[bc])
+(;B[aa];W[ad]LB[bc:F]LB[ab:R]C[If black plays at F black still only has one real eye, so black dies in gote.]))
+(;B[aa];W[ae]
+(;B[ad];W[bc]C[Black dies.])
+(;B[bb];W[ad]C[If black plays at F black still only has one real eye, so black dies in gote.]LB[ab:R]LB[bc:F]))
+(;B[ad];W[ae]
+(;B[bb];W[bc]C[Black dies.])
+(;B[bc]TR[aa]TR[ab]TR[bb]C[Bent 3 nakade, black dies.]))))
+(;B[ad];W[ab]
+(;B[bb];W[ae]
+(;B[bc];W[db]
+(;B[ca];W[aa])
+(;B[da];W[ea];B[ca];W[aa]C[Dead])
+(;B[ba]C[];W[gf]C[Dead, in gote - white tenukis.];B[da];W[ea])
+(;B[ac];W[ca];B[aa]LB[ab:1]LB[ba:F]C[1 real eye...F isnt even a false eye.]))
+(;B[ac];W[bc])
+(;B[ba];W[bc]C[Cut - the lone group of marked stones will not survive.]MA[ba]MA[bb]MA[cb]MA[cc];B[ac];W[bc])
+(;B[aa];W[ba];B[bc];W[db]
+(;B[ca];W[aa])
+(;B[da];W[ea])))
+(;B[db];W[bc];B[bb];W[ae]C[Snapback.])
+(;B[bc];W[db]
+(;B[da];W[ea]
+(;B[ca]C[Bulky five nakade.]MA[aa]MA[ab]MA[bb]MA[ba]MA[ac])
+(;B[ba]LB[ca:F]C[F is a false eye, and the marked squares are a pyramid four. Only one eye, black is dead.]TR[aa]TR[ab]TR[bb]TR[ac]))
+(;B[ca]MA[aa]MA[ba]MA[bb]MA[ab]MA[ac]C[This is a bulky-five nakade, black is dead.])
+(;B[ba]TR[aa]TR[ab]TR[bb]TR[ac]C[F will never be more than a false eye, and the marked squares are a pyramid four, black is dead.]LB[ca:F])))
+(;B[bc];W[db]
+(;B[ba];W[ab]C[Black is dead. The marked squares form a pyramid four - only one eye.]TR[aa]TR[bb]TR[ac]TR[ab])
+(;B[ab];W[ba]
+(;B[ca];W[ad]C[Black is dead.])
+(;B[ad];W[ca]C[Black is dead.]))
+(;B[ae];W[bf]
+(;B[da];W[ba];B[ab];W[ad]C[Black is dead. The throw-in made the lower eye (at A17) false, and the top group is a bent 3 nakade.])
+(;B[ba];W[ab]C[Black is dead. The marked squares form a pyramid four - only one eye.]TR[ab]TR[aa]TR[bb]TR[ac])))
+(;B[bb];W[ad]
+(;B[db];W[bc];B[eb];W[fb]C[Black is dead at this point.];B[fa];W[ga];B[ab];W[ea];B[da];W[ba])
+(;B[ac];W[bc]C[Here its a ko - you will live this way, but its possible to live without ko, so this path is wrong.];B[ab]MA[bd];W[db]MA[bd]))
+(;B[db];W[bc]C[The marked stone dies, splitting the group - black is dead.]TR[bd])
+(;B[ab]
+(;W[ad]
+(;B[ac];W[bc])
+(;B[bc];W[ba]TR[aa]TR[ba]TR[ca]TR[bb]C[Pyramid four, only one eye.]
+(;B[ac];W[ae];B[db];W[eb])
+(;B[db];W[eb]TR[ba]TR[bb]TR[ca]TR[aa]C[Pyramid four - only one eye here.];B[ac];W[ae]))))
+(;B[ae];W[bc];B[ac];W[ad]C[Dont forget - white is ko-master here.])))
+(;B[gf]C[Wrong! This group is known as the Tripod Group and is in fact alive.]))

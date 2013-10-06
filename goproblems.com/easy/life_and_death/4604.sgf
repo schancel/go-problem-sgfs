@@ -1,0 +1,30 @@
+(;GE[life and death]DI[4k]DP[29]SO[adum]CO[7]SZ[6]AW[ba]AW[ca]AW[da]AW[fa]AW[ab]AW[db]AW[eb]AW[fb]AW[ac]AW[ec]AW[ad]AW[ed]AW[fd]AW[ae]AB[bb]AB[cb]AB[bc]AB[dc]AB[bd]AB[dd]AB[ee]AB[fe]AB[cf]AW[aa]C[no komi, no prisoners. white to win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ce];B[be]
+(;W[df]
+(;B[bf]
+(;W[de];B[cd]
+(;W[ef];B[ff];W[de]C[RIGHT])
+(;W[ff];B[ef]))
+(;W[ef];B[de])
+(;W[cd];B[de]))
+(;B[de];W[bf]
+(;B[ef];W[cd])
+(;B[cd];W[cf];B[ef];W[af]C[white wins: one prisoner])))
+(;W[de];B[df]
+(;W[cd];B[cc])
+(;W[ef];B[cd];W[de];B[ce]))
+(;W[cd];B[de])
+(;W[ef];B[de])
+(;W[bf];B[df]
+(;W[cd];B[af])
+(;W[de];B[cd]))
+(;W[af];B[de]))
+(;W[be];B[ce])
+(;W[de];B[ce])
+(;W[bf];B[ce])
+(;W[df])
+(;W[ef];B[de])
+(;W[af];B[be])
+(;W[ff];B[ef])
+(;W[cd];B[ce])
+(;W[cc];B[cd]))

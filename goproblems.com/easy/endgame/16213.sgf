@@ -1,0 +1,61 @@
+(;GE[endgame]DI[7k]DP[43]SO[Chroliver]CO[0]AB[cs]AB[cr]AB[dr]AB[br]AB[bq]AB[ap]AB[bo]AB[cn]AB[cm]AW[ds]AW[es]AW[er]AW[eq]AW[dq]AW[bp]AW[co]AW[cp]AW[cq]AW[do]AW[dn]AW[dm]AB[gr]AB[gs]AW[gq]AB[ip]AB[is]AW[hr]AW[hq]AB[hs]AB[ir]AB[iq]AB[ho]AW[hp]AB[gp]AB[go]AB[io]AB[cl]AB[dl]AB[el]AW[fm]AW[em]AW[fn]AW[fo]AW[fp]AW[eo]LB[ds:1]LB[cs:2]LB[es:3]LB[fq:No]C[Does Black need to defend after this exchange?]LB[hl:Yes]AP[goproblems]
+(;W[hl]
+(;B[hm]C[Now prove it.]
+(;W[bn];B[ao]
+(;W[an];B[aq]
+(;W[as];B[bm])
+(;W[ar])
+(;W[bs];B[as]))
+(;W[aq];B[ar];W[an];B[aq]
+(;W[as];B[bm];W[bs]C[RIGHT])
+(;W[bs];B[bm];W[as]C[RIGHT])))
+(;W[aq]
+(;B[ao];W[bn])
+(;B[ar];W[bn];B[ao]))
+(;W[an];B[bn]
+(;W[aq];B[ao]
+(;W[as];B[ar]C[Wrong.])
+(;W[ar];B[as]C[Wrong.]))
+(;W[ao];B[am]C[Wrong.])
+(;W[ar];B[aq]
+(;W[bs];B[as]C[Black is alive in the corner, so you don't even have ko threats.])
+(;W[ao]C[Black is alive in the corner, so you don't even have ko threats.];B[as])))
+(;W[ao];B[an]C[Wrong. You allowed black to defend and gave him a point to do it.])
+(;W[ar];B[aq]
+(;W[bn];B[ao]
+(;W[an];B[as]C[Wrong. Black is alive, and the two white stones can't escape.])
+(;W[as];B[bm];W[an];B[am]C[Wrong.]))
+(;W[an];B[ao];W[bn]))
+(;W[as];B[an]C[Wrong.])
+(;W[bs];B[an])
+(;W[am];B[bn]C[Wrong.])
+(;W[bm];B[bn]C[Wrong.]))
+(;B[fq]C[Correct - now show me why.CHOICE]
+(;W[aq];B[ar]
+(;W[bn];B[ao];W[an];B[aq]
+(;W[as];B[bm];W[bs]C[Well done!RIGHT])
+(;W[bs];B[bm];W[as]C[Well done!RIGHT]))
+(;W[an];B[bn]C[White can't approach. Black should have enough to keep White in if White runs at A7.]))
+(;W[bn];B[ao]
+(;W[aq];B[ar])
+(;W[an];B[aq]
+(;W[as])
+(;W[bs])
+(;W[ar])))
+(;W[an];B[bn]
+(;W[ao];B[am];W[aq];B[ar]C[Now what?])
+(;W[aq];B[ar]C[White can't approach. Black should have enough to keep White in if White runs at A7.])
+(;W[ar];B[aq]C[What can white do now? (clue: Nothing).]))
+(;W[ao];B[an]C[Playing in to atari is generally not a good idea.])
+(;W[ar];B[aq]
+(;W[bn];B[ao]
+(;W[an];B[as]C[Nope. Black is now unconditionally alive in the corner.])
+(;W[as];B[bm];W[an];B[am]C[Tenacious - but didn't quite work.]))
+(;W[an];B[bn]C[What can white do now? (clue: Nothing).]))
+(;W[as];B[aq];W[bn];B[ao];W[an];B[bm]C[Nope. Black is ok here.])
+(;W[bs];B[aq];W[bn];B[ao]
+(;W[an];B[as]C[Nope - Black is now unconditionally alive in the corner.])
+(;W[as];B[bm]C[All White's base are belong to black. Only one ko threat left here.]))
+(;W[bm];B[bn])
+(;W[am];B[bn])))
+(;W[fq];B[an]C[Wrong. White could have done something here.]))

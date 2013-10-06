@@ -1,0 +1,34 @@
+(;GE[life and death]DI[5d]DP[5]SO[ceram88]CO[0]AW[pr]AW[rp]AB[or]AB[pp]AB[qo]AW[ps]AW[qq]AW[rq]AB[pq]AB[nq]AB[qp]AB[ro]C[Black to play, chinese rules. ]AP[goproblems]
+(;B[rs];W[rr]
+(;B[os];W[ss]
+(;B[sr];W[qr]LB[nn:T]C[Tenuki?]
+(;B[sp]C[RIGHT])
+(;B[nn];W[sp]C[This now ends up as a bent four, under chinese rules this must be played out and is therefore a ko. Unfavorable to white because it plays out at the end of the game, but black can do better. ]))
+(;B[qr];W[qs])
+(;B[sq];W[qs])
+(;B[sp];W[qs])
+(;B[qs];W[qr]))
+(;B[sr];W[qs];B[sp];W[ss]C[ko, white can do better. ])
+(;B[sp];W[qs]
+(;B[sq];W[sr])
+(;B[sr])
+(;B[os];W[ss];B[sq];W[sr])))
+(;B[rr];W[rs]
+(;B[sr];W[qr])
+(;B[qr];W[sr]))
+(;B[qr];W[rr];B[rs];W[qs];B[os];W[ss])
+(;B[sp];W[rs]
+(;B[sr];W[sq];B[rr];W[qr];B[os];W[ss])
+(;B[qr];W[rr])
+(;B[rr];W[qr];B[sr];W[sq];B[os];W[ss]))
+(;B[sq];W[rs]
+(;B[sp];W[sr])
+(;B[rr];W[qr];B[ss];W[sr])
+(;B[sr];W[sp]
+(;B[rr];W[qr])
+(;B[os];W[qr])))
+(;B[sr];W[rs]
+(;B[rr];W[qr])
+(;B[sp];W[sq]
+(;B[qr];W[rr])
+(;B[rr];W[qr]))))

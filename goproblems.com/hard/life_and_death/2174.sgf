@@ -1,0 +1,264 @@
+(;GE[life and death]DI[6d]DP[1]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[temp3]
+
+AB[bs][cr][br][ar][ds][aq][ap][bp][ao][an][bn][am][al][bl][cl]
+[dl][ck][dk][ek][dj][ej][fj][gj][hj][ei][fi][gi][hi][gh][hh]
+[hg][ig][if][jf][je][ke][kd][ld][lc][mc][mb][ma][gk][gl][gm]
+[gn][dn][do][dp][ep][eq][fq][gq][hq][gr][gs][hs][ir][jr][js]
+[ks][mr][ms][os][or][oq][pq][qq][rq][sq][sr][rs][np][mp][lp]
+[kp][jp][jo][io][ho][in][hn][hm][jj][kj][lj][ki][kk][kl][ll]
+[lm][ln][mn][nn][oo][on][om][nm][nl][nk][pl][ql][rl][rm][sm]
+[rn][qk][rk][sk][pj][pi][qi][rh][qh][ph][oh][nh][mh][lh][nf]
+[ng][oe][pe][qe][qf][qg][pf][pd][pc][oc][ob][oa][ib][hc][gd]
+[gc][fc][ec][eb][dc][de][ce][df][ef][cg][bh][ja]AW[fs][fr][ee]
+[er][dr][dq][cq][bq][cp][co][bo][cn][cm][bm][dm][el][fk][fl]
+[fm][fn][en][eo][go][gp][fp][hp][ip][iq][jq][kq][kr][ls][lq]
+[mq][nq][nr][ns][sp][so][rp][ro][qp][pp][op][po][pn][pm][qm]
+[qn][ol][ok][pk][oj][oi][ni][mi][li][mj][mk][ml][mm][qj][rj]
+[sj][si][ri][sh][sg][rg][sf][rf][re][rd][qd][qc][pb][pa][qa]
+[of][og][od][nd][nc][nb][na][md][me][le][mf][mg][lg][kg][kf]
+[kh][jg][jh][ih][ii][ji][ij][hk][hl][ik][jk][jl][il][im][jm]
+[km][kn][jn][ko][lo][mo][no][ak][bk][bj][cj][ai][ch][di][eg]
+[eh][fh][ff][gg][fd][ge][hf][hd][ie][ic][jd][jb][kc][lb][la]
+[fb][ea][da][ba][cb][cc][bc][ab][bd][be][bf][cf][af]TR[ja]C[Black has continued from part 2 with the marked stone. White to ensure the continuing safety of the M3 and Q6 groups.]
+
+(;W[kb];B[ia]
+(;W[hb];B[gb]LB[he:a][ga:b]C[ connect at 'a' or steal the eye at 'b'?]
+
+(;W[he];B[ha]LB[id:a]C[please connect at 'a'];W[id];B[ed];W[fe]
+;B[dg];W[dh];B[bi]
+(;W[ah];B[bg]
+(;W[ci];B[ag]
+(;W[dd];B[aj];W[ai];B[cd];W[fa];B[ga]C[Please defend at R18 if and when you think the top left is played out.]
+
+(;W[db];B[dd]
+(;W[aj];B[rb]
+(;W[qb];B[sd]
+(;W[rc];B[sc]
+(;W[ra];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sb];B[sa]C[You have saved all white's groups although the sacrifice at T18 was not needed (S19 good enough). RIGHT]
+)
+(;W[sa];B[sb]))
+(;W[se];B[rc];W[sc];B[ra])
+(;W[ra];B[sc]
+(;W[rc];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sa];B[sb]C[dead])
+(;W[se];B[sb]C[dead])
+(;W[sb];B[sa]C[white is heading for a big loss by setting up the ko, black has very large threats at A12 and Q13 (and other loss making threats which would still be profitable overall).]
+))
+(;W[sa];B[sb]C[dead])
+(;W[sc];B[rc]
+(;W[se];B[ra])
+(;W[sb];B[sa]
+(;W[sc];B[sb]C[You have saved all white's groups (although using a lot of unnecessary sacrifices at the end). RIGHT]
+)
+(;W[sb];B[sc]C[dead]))
+(;W[ra];B[sb]C[You have saved all white's groups (although the sacrifice at T17 was unnecessary). RIGHT]
+)
+(;W[sa];B[sb]C[dead]))
+(;W[sb];B[sc]
+(;W[ra];B[sa]C[white is heading for a big loss by setting up the ko, black has very large threats at A12 and Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[rc];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+)
+(;W[sa];B[ra]C[dead])
+(;W[se];B[sa]C[dead])))
+(;W[ra];B[qb]C[disaster])
+(;W[rc];B[qb]C[disaster]))
+(;W[qb];B[ah]
+(;W[jc];B[aj];W[fg];B[ka];W[ai];B[pg]C[this threat is much bigger than the ko which is also enormous but white has no ko-threat to follow which doesn't incur an equally big loss.]
+)
+(;W[fg];B[aj];W[jc];B[ka];W[ai];B[pg]C[this threat is much bigger than the ko which is also enormous but white has no ko-threat to follow which doesn't incur an equally big loss.]
+))
+(;W[fg];B[ah]
+(;W[aj];B[rb];W[qb];B[sd]
+(;W[rc];B[sc]
+(;W[ra];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sb];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+)
+(;W[sa];B[sb]C[dead]))
+(;W[se];B[rc];W[sc];B[ra])
+(;W[ra];B[sc]
+(;W[rc];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sb];B[sa]C[white is heading for a big loss by setting up the ko, black has  a very large threat Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[sa];B[sb]C[dead])
+(;W[se];B[sb]C[dead]))
+(;W[sa];B[sb]C[dead])
+(;W[sb];B[sc]
+(;W[ra];B[sa]C[white is heading for a big loss by setting up the ko, black has a very large threat Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[sa];B[ra]C[dead])
+(;W[se];B[sa]C[dead])
+(;W[rc];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+))
+(;W[sc];B[rc]
+(;W[se];B[ra])
+(;W[ra];B[sb]C[You have saved all white's groups (although the sacrifice at T17 was unnecessary). RIGHT]
+)
+(;W[sb];B[sa]
+(;W[sb];B[sc]C[dead])
+(;W[sc];B[sb]C[You have saved all white's groups (although the sacrifices at the end were unnecessary). RIGHT]
+))
+(;W[sa];B[sb]C[dead])))
+(;W[qb];B[aj]C[black can play the 1000yr ko thanks to the threat at Q13]
+)
+(;W[jc];B[aj]C[whiite must avoid the 1000yr ko due to black's ko-threat at Q13]
+))
+(;W[jc];B[ah];W[fg];B[aj]C[white must avoid the 1000yr ko due to black's ko-threat at Q13]
+))
+(;W[aj];B[dd]
+(;W[db];B[rb]
+(;W[ra];B[qb]C[disaster])
+(;W[rc];B[qb]C[disaster])
+(;W[qb];B[sd]
+(;W[rc];B[sc]
+(;W[ra];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sa];B[sb])
+(;W[sb];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+))
+(;W[se];B[rc];W[sc];B[ra])
+(;W[ra];B[sc]
+(;W[rc];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sb];B[sa]C[white is heading for a big loss by setting up the ko, black has very large threats at A12 and Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[se];B[sb]C[dead])
+(;W[sa];B[sb]C[dead]))
+(;W[sa];B[sb]C[dead])
+(;W[sc];B[rc]
+(;W[se];B[ra])
+(;W[ra];B[sb]C[You have saved all white's groups (although the sacrifice at T17 was unnecesssary). RIGHT]
+)
+(;W[sb];B[sa]
+(;W[sc];B[sb]C[You have saved all white's groups (altough the sacrifices in the top right were unnecessary). RIGHT]
+)
+(;W[sb];B[sc]C[dead]))
+(;W[sa];B[sb]C[dead]))
+(;W[sb];B[sc]
+(;W[rc];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+)
+(;W[ra];B[sa]C[white is heading for a big loss by setting up the ko, black has very large threats at A12 and Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[se];B[sa]C[dead])
+(;W[sa];B[ra]C[dead]))))
+(;W[qb];B[ah];W[fg];B[ka]))
+(;W[qb];B[dd]
+(;W[db];B[ah]
+(;W[fg];B[aj];W[jc];B[ka];W[ai];B[pg]C[this threat is much bigger than the ko which is also enormous but white has no ko-threat to follow which doesn't incur an equally big loss.]
+)
+(;W[jc];B[aj];W[fg];B[ka];W[ai];B[pg]C[this threat is much bigger than the ko which is also enormous but white has no ko-threat to follow which doesn't incur an equally big loss.]
+))
+(;W[fg];B[ka];W[jc];B[ah];W[db];B[aj]C[ko, black takes first]
+)
+(;W[jc];B[ah]
+(;W[fg];B[ka];W[db];B[aj]C[ko, black takes first])
+(;W[db];B[aj];W[fg];B[ka];W[ai];B[pg]C[this threat is much bigger than the ko which is also enormous but white has no ko-threat to follow which doesn't incur an equally big loss.]
+)))
+(;W[fg];B[dd]
+(;W[db];B[ah]
+(;W[aj];B[rb]
+(;W[ra];B[qb]C[disaster])
+(;W[rc];B[qb]C[disaster])
+(;W[qb];B[sd]
+(;W[rc];B[sc]
+(;W[ra];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[sa];B[sb]C[dead])
+(;W[sb];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+))
+(;W[se];B[rc];W[sc];B[ra])
+(;W[ra];B[sc]
+(;W[rc];B[sb]C[You have saved all white's groups. RIGHT])
+(;W[se];B[sb]C[dead])
+(;W[sa];B[sb]C[dead])
+(;W[sb];B[sa]C[white is heading for a big loss by setting up the ko, black has a very large threat at Q13 (and other loss making threats which would still be profitable overall).]
+))
+(;W[sa];B[sb]C[dead])
+(;W[sb];B[sc]
+(;W[ra];B[sa]C[white is heading for a big loss by setting up the ko, black has a very large threat at Q13 (and other loss making threats which would still be profitable overall).]
+)
+(;W[rc];B[sa]C[You have saved all white's groups (although the sacrifice at T18 was unnecessary). RIGHT]
+)
+(;W[sa];B[ra]C[dead])
+(;W[se];B[sa]C[dead]))
+(;W[sc];B[rc]
+(;W[ra];B[sb]C[You have saved all white's groups (although the sacrifce at T17 was unnecessary). RIGHT]
+)
+(;W[sb];B[sa]
+(;W[sc];B[sb]C[You have saved all white's groups (although all the sacifices at the end were unnecessary). RIGHT]
+)
+(;W[sb];B[sc]C[dead]))
+(;W[se];B[ra])
+(;W[sa];B[sb]C[dead]))))
+(;W[jc];B[aj]C[white must avoid the 1000yr ko due to black's threat at Q13]
+))
+(;W[aj];B[ka];W[jc];B[ah])
+(;W[jc];B[ah];W[db];B[aj]C[black has the large threat at Q13 with which to win the 1000 yr ko]
+)
+(;W[qb];B[ka];W[jc];B[ah];W[db];B[aj]C[ko, black takes first]
+))
+(;W[jc];B[dd]
+(;W[fg];B[ah];W[db];B[aj]C[black has the large threat at Q13 with which to play the 1000 yr ko]
+)
+(;W[db];B[ah]
+(;W[fg];B[aj]C[black has the large threat at Q13 with which to play the 1000 yr ko]
+)
+(;W[qb];B[aj];W[fg];B[ka];W[ai];B[pg]C[this threat is even larger than the ko.]
+))
+(;W[qb];B[ah]
+(;W[db];B[aj];W[fg];B[ka];W[ai];B[pg]C[this threat is even larger than the ko]
+)
+(;W[fg];B[ka];W[db];B[aj]C[ko, black takes first]))))
+(;W[cd];B[dd];W[fa];B[aj];W[ai];B[ka];W[jc];B[ah];W[ga];B[aj]
+C[ko, black takes first (if white exchanges H18 for F13 the M3 group is dead).]
+)
+(;W[fa];B[ka];W[jc];B[aj];W[ai];B[ah]
+(;W[ga];B[aj]C[ko, black takes first (if white exchanges H18 for F13 the M3 group dies).]
+)
+(;W[dd];B[aj]C[ko, black takes first])
+(;W[cd];B[aj]C[ko, black takes first (D16 acts as a local threat for black)]
+))
+(;W[fg];B[ka];W[jc];B[aj];W[ai];B[fa])
+(;W[jc];B[aj];W[ai];B[fa]))
+(;W[ag];B[ci])
+(;W[dd];B[ci])
+(;W[cd];B[ci]))
+(;W[ci];B[ah]
+(;W[bg];B[aj]C[ko, black takes first (if white connects at F13 black plays atari at L19)]
+)
+(;W[ag];B[aj]C[ko, black takes first (if white connects at F13 black plays atari at L19), B13 acts as if a local threat for black]
+))
+(;W[bg];B[ah]
+(;W[ag];B[aj]C[ko, black takes first])
+(;W[ci];B[aj]C[ko, black takes first (if white connects at F13 black plays atari at L19)]
+)
+(;W[fg];B[aj]C[ko, black takes first (if white connects at C11 black plays atari at L19)]
+)
+(;W[dd];B[aj]C[ko, black takes first])
+(;W[cd];B[aj]C[ko, black takes first])))
+(;W[ga];B[ha]LB[fa:a][he:b]C[connect at 'a' or 'b'?]
+(;W[fa];B[hb]C[white will be unable to connect after black L19]
+)
+(;W[he];B[fa]LB[id:a]C[please connect at 'a'];W[id];B[dg];W[dh]
+;B[ka];W[jc];B[ed];W[fe];B[bi]
+(;W[ah];B[bg]
+(;W[ag];B[ci])
+(;W[dd];B[ci])
+(;W[ci];B[ag];W[dd];B[aj];W[ai];B[cd]))
+(;W[ci];B[ah]
+(;W[bg];B[aj]C[ko, black takes first])
+(;W[ag];B[aj]C[ko, black takes first (B13 acts as if a local black threat)]
+))
+(;W[bg];B[ah]
+(;W[ag];B[aj]C[ko, black takes first])
+(;W[ci];B[aj]C[ko, black takes first])
+(;W[dd];B[aj]C[ko, black takes first])))))
+(;W[he];B[ka])
+(;W[id];B[ka])
+(;W[jc];B[ka])
+(;W[ha];B[hb]
+(;W[he];B[ka])
+(;W[id];B[ka])
+(;W[jc];B[ka])))
+(;W[ia];B[ha];W[kb];B[ia]C[black captures some stones])
+(;W[hb];B[kb]C[the M3 stones die]))

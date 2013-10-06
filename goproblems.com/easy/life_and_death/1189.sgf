@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[34]SO[BigMetalGuy]CO[7]SZ[13]AW[ca]AW[ea]AW[cb]AW[fb]AW[gb]AW[cc]AW[dc]AW[ec]AW[ed]AW[de]AW[ee]AB[ha]AB[bb]AB[db]AB[hb]AB[bc]AB[fc]AB[gc]AB[hc]AB[bd]AB[ce]AB[ge]AB[cf]AB[df]AB[ef]C[Black to play. (Black can destroy White's eye shape by sacrificing stones.)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[eb]
+(;W[da]
+(;B[eb];W[db]
+(;B[ga];W[fa];B[cd]C[Black has destroyed White's eye shape.RIGHT])
+(;B[fa];W[ga]TR[fa]TR[eb]C[White has two eyes.])
+(;B[cd];W[ga]TR[fa]TR[eb]C[White has two eyes.]))
+(;B[ga];W[cd]TR[dd]MA[db]MA[eb]C[White has two eyes.])
+(;B[fa];W[ga]TR[fa]MA[db]MA[eb]C[White has two eyes.]))
+(;W[cd]C[CHOICE]
+(;B[fa];W[da]
+(;B[eb];W[db];B[ga]C[RIGHT])
+(;B[ga];W[eb]))
+(;B[ga];W[fa];B[da];W[fb]
+(;B[fa];W[ea])
+(;B[ea];W[fa]))))
+(;B[ga];W[cd]
+(;B[eb];W[da]
+(;B[eb];W[fa])
+(;B[fa];W[eb]C[White has two eyes.]))
+(;B[fa];W[eb]C[White lives.]))
+(;B[cd];W[ga]
+(;B[eb];W[da]
+(;B[eb];W[db]C[White gets two eyes.])
+(;B[db];W[eb]C[White gets two eyes.]))
+(;B[da];W[eb]))
+(;B[fa];W[ga]LB[fa:A]C[Captured stone A gives White a second eye.])
+(;B[da]LB[ga:B]LB[cd:A]C[White can play A or B and live.])
+(;B[dd];W[cd]C[White has two eyes.]))

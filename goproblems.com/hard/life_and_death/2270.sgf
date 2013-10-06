@@ -1,0 +1,35 @@
+(;GE[life and death]DI[5d]DP[4]SO[fujiwara]CO[7]SZ[19]AW[eb]AW[fb]AW[gc]AW[hc]AW[jb]AW[kb]AB[gd]AB[hd]AB[jd]AB[kd]AB[lc]AB[lb]AB[db]AB[dc]AB[ed]AB[fd]C[Black to kill]
+(;B[hb]
+(;W[gb]C[CHOICE]
+(;B[ic];W[ib];B[ha]C[ White deadRIGHT])
+(;B[ib];W[ic]
+(;B[jc];W[ia]C[ White livesWRONG])
+(;B[ha];W[ga]
+(;B[ea];W[ia]C[ White lives, A and B are miaiWRONG]L[hb]L[ka])
+(;B[ia];W[ea]))
+(;B[ea]C[ White is deadRIGHT])))
+(;W[ga];B[ib];W[ic]
+(;B[ka]
+(;W[ea]C[CHOICE]
+(;B[ia]
+(;W[jc]C[CHOICE];B[ja]C[ White deadRIGHT])
+(;W[ja];B[jc];W[la];B[kc]C[ White deadRIGHT]))
+(;B[ja];W[ia]
+(;B[ha];W[gb]C[ White livesWRONG])
+(;B[jc];W[la]))
+(;B[jc];W[ia];B[kc]C[RIGHT]))
+(;W[ja];B[ia];W[gb];B[ea]C[ White deadRIGHT]))
+(;B[ia];W[ea]
+(;B[jc];W[gb])
+(;B[ka])
+(;B[ja];W[ka];B[jc];W[gb]))))
+(;B[ha];W[ga];B[hb];W[ea]
+(;B[ib];W[ic];B[ja];W[jc];B[ka];W[gb]C[ White livesWRONG])
+(;B[ic];W[ib]C[ White livesWRONG]))
+(;B[ic];W[ib]C[ White livesWRONG])
+(;B[ib];W[ic]
+(;B[hb];W[ia];B[ka];W[ea];B[ga];W[gb]C[ White livesWRONG])
+(;B[ia];W[hb]C[ White livesWRONG]))
+(;B[ea];W[hb])
+(;B[ga];W[hb])
+(;B[ka];W[hb]))

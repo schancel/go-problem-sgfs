@@ -1,0 +1,77 @@
+(;GE[life and death]DI[6d]DP[0]SO[passero]CO[0]AB[pa]AB[pb]AB[pc]AB[pd]AB[oe]AB[of]AB[nf]AB[me]AB[le]AB[lc]AB[kb]AW[pe]AW[qe]AW[qd]AW[qc]AW[qb]AW[qa]AW[ne]AW[od]AW[nc]AW[md]TR[pa]TR[pb]TR[pc]TR[pd]C[Black to Rsscue the 4 stones. (without Ko)]AP[goproblems]
+(;B[oa]
+(;W[mb]C[CHOICE]
+(;B[oc];W[nd]
+(;B[nb];W[mc]
+(;B[ld]C[RIGHT])
+(;B[lb]C[RIGHT]))
+(;B[ma];W[nb]))
+(;B[ma];W[la];B[na];W[lb]
+(;B[nb];W[mc])
+(;B[oc];W[nd]))
+(;B[nd];W[oc]
+(;B[mc];W[nb])
+(;B[ma];W[ob];B[na];W[la])
+(;B[nb];W[mc]))
+(;B[nb];W[mc]
+(;B[oc];W[nd])
+(;B[ma];W[la]
+(;B[lb];W[na]C[Fault. It's a Ko.])
+(;B[nd];W[oc]
+(;B[lb];W[na]C[Fault. It's Ko.])
+(;B[ld];W[na]C[Fault. It's Ko.]))
+(;B[oc];W[nd];B[lb];W[na]C[Fault. It's Ko.]))
+(;B[nd];W[oc]
+(;B[ma];W[ob])
+(;B[lb];W[ob])
+(;B[ld];W[ob]))))
+(;W[na]C[CHOICE]
+(;B[nb];W[mb]
+(;B[ma];W[la]
+(;B[oc];W[nd]
+(;B[mc]C[RIGHT])
+(;B[ld]C[RIGHT]))
+(;B[nd];W[oc];B[mc]C[RIGHT])
+(;B[mc];W[na]C[Fault. It's a Ko.];B[nd];W[ob]))
+(;B[nd];W[ob]))
+(;B[nd];W[oc]))
+(;W[nb];B[na];W[ma];B[mb]C[RIGHT])
+(;W[ma]
+(;B[oc];W[nd];B[nb];W[mb];B[mc]C[RIGHT])
+(;B[nb];W[mb];B[oc];W[nd])))
+(;B[oc];W[nd]
+(;B[nb];W[oa];B[ob];W[mb])
+(;B[mb];W[oa]))
+(;B[nb];W[ob]
+(;B[oa];W[oc];B[na];W[mb])
+(;B[na];W[oc];B[oa]))
+(;B[na];W[mb]
+(;B[ma];W[la]
+(;B[lb];W[oa];B[ob];W[nb];B[ka];W[oc])
+(;B[oc];W[nd]
+(;B[nb])
+(;B[lb]
+(;W[ob])
+(;W[oa];B[ob];W[nb]))))
+(;B[oc];W[nd]
+(;B[nb];W[oa];B[ob];W[ma])
+(;B[mc];W[nb];B[ma]
+(;W[ob])
+(;W[oa])
+(;W[la])))
+(;B[nd];W[oc]
+(;B[ma];W[ob];B[oa])
+(;B[mc];W[nb];B[ma]
+(;W[oa])
+(;W[ob])
+(;W[la])))
+(;B[nb];W[ob]))
+(;B[nd];W[oc]
+(;B[nb];W[ob])
+(;B[na];W[oa];B[ob];W[nb])
+(;B[mc];W[ob]))
+(;B[mb];W[ob])
+(;B[ma];W[mb]
+(;B[na])
+(;B[nd];W[oc];B[na])
+(;B[oc];W[nd];B[na];W[ob];B[oa];W[la])))

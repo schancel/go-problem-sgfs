@@ -1,0 +1,25 @@
+(;GE[elementary]DI[20k]DP[73]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[9]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2000-11-07]
+SY[Cgoban 1.9.8]TM[30:00(5x1:00)];TR[ac][ad][ae][ff]PL[2]
+C[which group should white capture?
+]
+(;AW[ca][ab][bb][db][bc][cc][bd][be][fe][gf][fg]
+AB[ea][ha][eb][fb][gb][ib][ac][dc][ec][gc][hc][ad][ae][ff][cg]
+(;W[ef]C[RIGHT
+this gives white a strong shape in a crucial area
+])
+
+(;W[af];B[ef]
+C[even though white took three stones, the other stone is more important
+])
+)
+
+(;W[ef])
+
+(;W[ff])
+
+)

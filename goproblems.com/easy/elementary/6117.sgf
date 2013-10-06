@@ -1,0 +1,33 @@
+(;GE[elementary]DI[18k]DP[67]SO[brightwater]CO[7]AB[jd]AB[je]AB[jc]AW[ic]AW[id]AW[ie]AW[ib]AW[jb]AB[kb]AW[ka]AB[la]C[]TR[kb]TR[la]AB[nb]AP[goproblems]
+(;W[lb];B[ja]
+(;W[kc]
+(;B[ka]
+(;W[ma]C[Black cannot connect, obviously.RIGHT])
+(;W[ia];B[ma];W[mb];B[na]))
+(;B[lc]C[CHOICE]
+(;W[ka]C[A flower picking ko. If Black wins it your loss is minimal, while if you win Black is devastated.RIGHT])
+(;W[mb];B[kd])
+(;W[ia];B[kd])
+(;W[kd];B[mb])
+(;W[ma];B[mb])))
+(;W[ma]
+(;B[ka]
+(;W[kc]C[Black cannot connect, obviously.RIGHT])
+(;W[ia];B[kc]))
+(;B[lc]C[CHOICE]
+(;W[ka]C[A flower picking ko. If Black wins it your loss is minimal, while if you win Black is devastated.RIGHT])
+(;W[mb];B[ka])
+(;W[ia];B[mb])
+(;W[kc];B[mb])))
+(;W[ia];B[lc]
+(;W[ka];B[mb])
+(;W[mb];B[mc]
+(;W[ka];B[ma])
+(;W[ma];B[na]))
+(;W[ma];B[mb]))
+(;W[lc];B[kc])
+(;W[mb];B[lc]))
+(;W[kc];B[lb])
+(;W[ja];B[lc])
+(;W[ma];B[lb])
+(;W[lc];B[kc]))

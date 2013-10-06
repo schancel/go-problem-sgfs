@@ -1,0 +1,30 @@
+(;GE[elementary]DI[2k]DP[22]SO[corentinc]CO[8]AB[dr]AB[er]AB[fq]AB[gq]AB[gr]AB[hp]AB[ip]AB[iq]AB[kq]AB[mq]AW[cr]AW[cq]AW[eq]AW[dq]AW[fp]AW[gp]AW[do]AW[dm]AW[hq]AW[hr]AW[ds]TR[ds]C[White just played the marked stone. What is the bes way to defend?]
+(;B[fs];W[cs]
+(;B[es]C[Black saves the stones and some territory as well.RIGHT]MA[fr]MA[gs]MA[hs]MA[ir])
+(;B[ir];W[es])
+(;B[hs];W[es])
+(;B[gs];W[es]MA[er]MA[dr]))
+(;B[es];W[gs]C[It's terrible for black : his group is dead!])
+(;B[ir];W[fs]
+(;B[fr];W[es];B[hs]C[Black is losing too much territory!])
+(;B[gs];W[es]C[Black can not save all his stones!])
+(;B[hs];W[fr]))
+(;B[hs];W[fs]
+(;B[gs];W[es]C[Black can not save all his stones.])
+(;B[fr];W[es];B[ir]C[Black is losing too much territory])
+(;B[ir];W[fr]))
+(;B[fr]
+(;W[fs]
+(;B[hs])
+(;B[es];W[gs])
+(;B[gs];W[hs]
+(;B[es];W[fs])
+(;B[ir];W[es]))
+(;B[ir])
+(;B[cs];W[gs];B[es];W[ds])))
+(;B[gs];W[es]
+(;B[fr];W[hs])
+(;B[ir];W[fr])
+(;B[fs];W[fr]
+(;B[er];W[hs])
+(;B[ir];W[hs]))))

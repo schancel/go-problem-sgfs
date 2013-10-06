@@ -1,0 +1,12 @@
+(;GE[life and death]DI[8k]DP[47]SO[Snow Dragon]CO[0]AW[ab]AW[ad]AW[ae]AW[be]AW[ce]AW[de]AW[dd]AW[eb]AW[ec]AW[ea]AW[da]AB[ca]AB[cb]AB[db]AB[ac]AB[bc]AB[bd]AB[cd]C[Black to live.]AP[goproblems]
+(;B[bb]
+(;W[dc]C[CHOICE];B[aa]C[RIGHT])
+(;W[aa]C[CHOICE]
+(;B[dc]C[RIGHT])
+(;B[ba];W[dc])))
+(;B[dc];W[bb]C[Black dies.  He cannot connect at C17.])
+(;B[ba];W[dc])
+(;B[aa]
+(;W[bb]
+(;B[dc];W[cc])
+(;B[ba];W[dc]))))

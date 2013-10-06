@@ -1,0 +1,10 @@
+(;GE[life and death]DI[3k]DP[26]SO[Field Mouse]CO[0]AW[ri]AW[rh]AW[qg]AW[pg]AW[og]AW[ng]AW[of]AW[rf]AW[qe]AB[re]AB[rd]AB[qc]AB[pd]AB[oc]AB[oe]AW[ne]AW[nd]AW[nc]AW[mb]AW[ob]AW[pb]AW[qb]AW[rb]AW[lb]AB[mc]AB[md]AB[me]AB[mf]AB[nf]AB[mg]AB[mh]AB[nh]AB[oh]AB[ph]AB[qh]AB[qi]AB[qj]AB[rj]AB[rk]AB[od]AW[nb]AW[pe]AB[sf]AW[rg]AB[qd]AW[pf]AB[si]C[What must white do now?]AP[goproblems]
+(;W[sh];B[sj]C[Right, black could not approach because of the lack of liberties (after black played T10, whtie still has to play one defending move to win the semeai)RIGHT])
+(;W[sg];B[sd]LB[sj:A]LB[sh:B]C[Next, black will play A and B and the position will be ko])
+(;W[se];B[sh];W[sg];B[sj]C[This will end only in ko])
+(;W[sj];B[sk]
+(;W[sh];B[se]C[This will be ko])
+(;W[sg];B[sd]C[White will have to play ko to capture black]))
+(;W[rc];B[sh]C[Whtie is captured])
+(;W[pc];B[sg]C[Whtie is captured])
+(;W[sd];B[sg]C[Whtie is captured]))

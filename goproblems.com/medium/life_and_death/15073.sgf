@@ -1,0 +1,40 @@
+(;GE[life and death]DI[1k]DP[20]SO[santa c]CO[0]AW[da]AW[ea]AW[fa]AW[gc]AW[gb]AW[gd]AW[gf]AW[ff]AW[gg]AB[fb]AB[eb]AB[ec]AB[fc]AB[ed]AB[ee]AB[fe]AB[de]AB[ce]AB[ef]AB[cf]AB[be]AB[ae]AB[af]AW[bf]AW[bg]AW[cg]AW[dg]AW[eg]AW[hh]AW[fh]AW[db]AB[bb]C[what can w salvage? (see navigate solution for all the solutions)]LB[db:1]LB[bb:2]AB[eh]AB[dh]AW[he]AW[bh]AP[goproblems]
+(;W[cb]
+(;B[bc]
+(;W[ba]
+(;B[dc]
+(;W[cd];B[cc];W[ab];B[ac];W[bd];B[aa]C[the best ko you could get, well done! :)RIGHT])
+(;W[ab];B[cd])
+(;W[cc];B[cd]))
+(;B[ab];W[dc]C[RIGHT]))
+(;W[cc];B[ba])
+(;W[ab];B[ba]))
+(;B[cc];W[ba];B[bd];W[ab];B[ac];W[bc]C[RIGHT]))
+(;W[ba]
+(;B[cb]
+(;W[dc];B[ca]
+(;W[cd];B[cc];W[ab];B[aa]C[not the best ko but the idea was nice, well done!RIGHT])
+(;W[bc];B[cc])
+(;W[ab];B[bc])
+(;W[cc];B[bc])
+(;W[bd];B[cc]))
+(;W[ca];B[dc]C[pretty lively...])
+(;W[cc];B[bc])
+(;W[ab];B[dc]))
+(;B[cc];W[dc])
+(;B[ab];W[cc])
+(;B[ac];W[cc])
+(;B[bc];W[dc]))
+(;W[dc]C[what can w salvage? (see navigate solution for both reasonable solutions)];B[cb]
+(;W[ba])
+(;W[cc];B[bc])
+(;W[ca];B[ba])
+(;W[cd];B[cc])
+(;W[ab];B[cc]))
+(;W[cc];B[bc]C[here goes all the aji...]MA[cb]MA[ba])
+(;W[bc];B[cc]
+(;W[ba];B[cb])
+(;W[cb];B[ac]))
+(;W[bd];B[cc])
+(;W[cd];B[cc])
+(;W[ab];B[cb]))

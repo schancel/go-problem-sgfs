@@ -1,0 +1,25 @@
+(;GE[fuseki]DI[8k]DP[46]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Black to close the corner. What's the 
+proper move?]
+PL[B]
+AB[nq][pp]
+AW[qn]
+LB[yy:1][qo:D][qp:A][rp:B][ro:C](;B[rp]
+MN[1]
+C[RIGHT]
+)(;B[ro]
+C[Not unplayable but B is usually a 
+better move.]
+LB[ro:1][rp:B])(;B[qo]
+;W[pn]
+C[if we suppose Black plays around S now, 
+White can still aim at A and/or B or 
+simply move out at D or E.]
+LB[pn:2][pk:S][no:D][mn:E][op:A][qq:B])(;B[qp]
+C[This move is a little too solid for the 
+small knight's move.]
+LB[qp:1]TR[nq]))

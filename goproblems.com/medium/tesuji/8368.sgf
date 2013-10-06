@@ -1,0 +1,5 @@
+(;GE[tesuji]DI[2d]DP[12]SO[alpc]CO[7]AB[cp]AB[do]AB[dm]AB[cl]AB[bl]AB[bk]AB[bj]AB[bi]AB[ci]AB[di]AB[ej]AB[fj]AB[gj]AB[gk]AB[gl]AW[eq]AW[iq]AW[cj]AW[ck]AW[dj]AW[dk]AW[dl]AW[cm]AW[dn]AW[ek]AW[fk]AW[fl]AW[ei]AW[fi]AW[gi]AW[eg]AW[bh]AW[cg]C[kill the marked stones....]MA[dl]MA[ck]MA[cj]MA[dj]MA[dk]MA[ek]MA[fk]MA[fl]AP[goproblems]
+(;B[fn];W[em];B[en]C[RIGHT];W[bn]C[];B[co]C[white is dead!!!!RIGHT])
+(;B[em];W[fm];B[en];W[gm]C[white is out :(])
+(;B[fm];W[em];B[fn];W[en];B[eo];W[cn]C[white lives :(])
+(;B[en];W[fn];B[fm];W[em]C[:(]))

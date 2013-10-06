@@ -1,0 +1,25 @@
+(;GE[life and death]DI[6k]DP[38]SO[polo]CO[8]AB[rb]AB[rc]AB[rd]AB[qe]AB[re]AB[se]AB[pf]AB[of]AB[oe]AB[od]AB[pc]AW[ra]AW[qb]AW[qc]AW[ob]AW[oc]AW[mc]AW[nd]AW[ne]AW[nf]AW[og]AW[pg]AW[qg]AW[rf]AW[pe]SZ[19]C[White to kill]
+(;W[pd];B[qd]
+(;W[pd];B[pe]
+(;W[pb]C[RIGHT])
+(;W[oa];B[pb]
+(;W[qa]C[RIGHT])
+(;W[pa];B[qa];W[qb]))
+(;W[pa]C[RIGHT])
+(;W[qa]C[RIGHT]))
+(;W[pb];B[pd])
+(;W[sb]C[NOTTHIS])
+(;W[sc]C[NOTTHIS]))
+(;W[qf];B[pd]
+(;W[qd];B[pb]
+(;W[qa];B[pa])
+(;W[pa];B[qa]))
+(;W[pb];B[qd]))
+(;W[qd];B[pd]
+(;W[qf];B[pb]
+(;W[qa];B[pa])
+(;W[pa]))
+(;W[pb];B[qf]))
+(;W[pb];B[pd])
+(;W[sb]C[NOTTHIS];B[sc]C[You can play this forcing exchange first and still kill, but is is not really relevant.])
+(;W[sc]C[NOTTHIS]))

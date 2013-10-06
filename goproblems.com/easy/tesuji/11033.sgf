@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[10k]DP[51]SO[sabetts]CO[0]AB[rs]AB[qr]AB[qq]AB[rq]AB[pq]AB[or]AB[os]AB[kq]AB[ko]AW[rr]AW[sr]AW[sq]AW[rp]AW[qp]AW[pp]AW[op]AW[oq]AW[nr]AW[mp]C[Black must connect out]AP[goproblems]
+(;B[mr]
+(;W[nq]C[CHOICE];B[ns]C[RIGHT])
+(;W[mq]C[CHOICE]
+(;B[ms]C[RIGHT])
+(;B[lr];W[ns]))
+(;W[lr]C[CHOICE];B[lq];W[ms];B[mq]TR[nq]TR[ns]C[RIGHT]))
+(;B[ns];W[mr];B[ms];W[lr];B[ls];W[kr]))

@@ -1,0 +1,9 @@
+(;GE[fuseki]DI[3k]DP[25]SO[santa c]CO[7]AB[qd]AB[po]AB[od]AB[qn]AB[pn]AB[np]AW[dd]AW[dp]AW[qi]AW[qo]AW[qp]AW[pq]LB[fc:B]LB[ic:E]LB[qg:F]LB[oi:G]LB[qk:H]C[Where should black play next?]LB[fq:A]LB[cj:C]LB[dj:D]AP[goproblems]
+(;B[qg]C[Yup! Extending (Gainning both territory and strengh) + Severly Attacking white on the right (Sente)RIGHT])
+(;B[qk];W[qf]C[Not only is R9 too close to the R6 wall (Correct extension is 2(Walls height)+1=3 spaces away.), you're also letting white raise hopes for the future as far as the upper part concerned. It is indeed a good idea to do some thing with R11 but it should be done by playing R13.])
+(;B[oi]C[];W[qf]C[It's indeed a good idea to attack R11, but it should be done by playing at R13 instead.])
+(;B[fc]AW[df]AB[db]AW[cc]AB[ic]AW[qf]LB[df:1]LB[db:2]LB[cc:3]LB[ic:4]LB[qf:5]C[It's better to attack at R13 instead.])
+(;B[ic]C[It's better to attack at R13 instead.])
+(;B[fq]C[It's better to attack at R13 instead.])
+(;B[cj]C[It's better to attack at R13 instead.])
+(;B[dj]C[It's better to attack at R13 instead.]))

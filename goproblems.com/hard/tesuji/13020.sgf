@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[4d]DP[7]SO[randomly_anonymous]CO[0]AW[kc]AW[ld]AW[md]AW[nd]AW[od]AW[pd]AW[qe]AW[qf]AB[qh]AB[rd]AB[qd]AB[qc]AB[qg]AB[rf]AB[pc]AB[nc]AB[mc]C[White to do something. The moves can be played in many many many different orders, so bear with me if the particular sequence you came up with isnt posted. I'll try to cover everything sooner or later.]AP[goproblems]
+(;W[oc];B[ob]
+(;W[re];B[se]
+(;W[pb];B[nb];W[qb];B[rb]
+(;W[rg];B[sf];W[sb]
+(;B[pa]
+(;W[sd];B[sc];W[sg]C[RIGHT])
+(;W[sg];B[sd]))
+(;B[ra];W[sd];B[sc];W[sg];B[sa];W[sd];B[rc]C[RIGHT]))
+(;W[sc];B[sd];W[rg];B[sf];W[sg];B[rc];W[ra];B[sb]))
+(;W[nb];B[mb];W[pb];B[na]
+(;W[rg];B[sf];W[qb];B[rb];W[sb];B[pa];W[sd];B[sc];W[sg];B[sd];W[rc]C[RIGHT])
+(;W[qb];B[rb];W[rg];B[sf]
+(;W[sg];B[sd];W[sc];B[rc];W[ra];B[sb])
+(;W[sd];B[sc];W[sg];B[sd];W[ra];B[pa])
+(;W[sb];B[sd])))
+(;W[rg];B[sf]
+(;W[pb];B[nb];W[qb];B[rb])
+(;W[sg];B[sd];W[pb];B[nb];W[qb];B[rb];W[sc];B[rc];W[ra];B[sb])))
+(;W[pb];B[nb];W[qb];B[rb];W[re];B[se];W[rg];B[sf])
+(;W[nb];B[mb];W[pb];B[na];W[qb];B[rb];W[re];B[se];W[rg];B[sf]
+(;W[sc];B[sd];W[sg])
+(;W[sg];B[sd];W[sc];B[rc];W[ra];B[sb])))
+(;W[re];B[se]
+(;W[oc];B[ob])
+(;W[rg];B[sf];W[oc];B[ob])))

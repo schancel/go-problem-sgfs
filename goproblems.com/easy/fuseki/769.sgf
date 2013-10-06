@@ -1,0 +1,32 @@
+(;GE[fuseki]DI[15k]DP[63]SO[Spirit]CO[5]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:1][jq:A][gc:B][cf:C][qc:D]AB[co][dq][nd][pc]
+AW[dd][pf][pp]
+PL[W]
+(;W[jq]
+C[RIGHT
+
+This move prevents a black move at 
+this point, which would be an ideal 
+extension from the corner-enclosure.]
+MN[1]
+)(;W[gc]
+;B[jq]
+C[White 1 is non-urgent. Black 2 is big]
+LB[jq:2][gc:1])(;W[cf]
+;B[jq]
+LB[jq:2][do:A][jq:2]TR[co]C[White 1 is uninteresting as the left 
+side is small because of the low 
+position of the marked black stone.
+(Even if it it were at A, black 2 would 
+still be the spot for white.)]
+)(;W[qc]
+C[This move is not really possible 
+without stones at A and/or B.
+Check out Ishida Yoshio's 'Dictionary 
+of Basic Joseki' part 1 for some 
+variations concerning this move.]
+LB[qc:1][jd:A][qj:B]))

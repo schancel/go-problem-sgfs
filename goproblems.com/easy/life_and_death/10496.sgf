@@ -1,0 +1,27 @@
+(;GE[life and death]DI[6k]DP[38]SO[alexandrk]CO[8]AW[rs]AW[rr]AW[rq]AW[rp]AW[qp]AB[pq]AB[pp]AB[po]AB[nq]AB[lq]AB[lp]AB[lo]AW[ls]AW[kr]AW[kq]AW[jr]AW[kp]AB[ro]AB[rn]AB[pm]AW[iq]AW[jp]AW[ip]AB[ir]AB[hr]AB[hq]AB[hp]AB[ho]AB[io]AB[jo]C[Save both wite groups]AB[lm]AP[goproblems]
+(;W[or]C[CHOICERIGHT]
+(;B[nr]C[White groups connected and alive];W[ns];B[pr];W[ps]C[RIGHT])
+(;B[pr]C[White groups connected and alive];W[ps];B[nr];W[ns]C[RIGHT]))
+(;W[pr];B[or]C[CHOICE]
+(;W[lr]
+(;B[ps];W[js])
+(;B[js];W[ps]))
+(;W[js]
+(;B[ps];W[lr])
+(;B[lr];W[ps])))
+(;W[lr];B[pr]C[CHOICE]
+(;W[js])
+(;W[ps];B[os];W[js]))
+(;W[js];B[pr]C[CHOICE]
+(;W[lr])
+(;W[ps];B[os];W[lr]))
+(;W[nr];B[pr]C[CHOICE])
+(;W[os];B[or]C[CHOICE]
+(;W[pr];B[ns])
+(;W[ps];B[ns])
+(;W[nr];B[ps])
+(;W[ns];B[ps]))
+(;W[ns];B[or]C[CHOICE];W[os];B[ps])
+(;W[ps];B[or]C[CHOICE];W[os];B[ns])
+(;W[sp]C[NOTTHIS])
+(;W[sr]C[NOTTHIS]))

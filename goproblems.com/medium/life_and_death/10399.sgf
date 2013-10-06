@@ -1,0 +1,23 @@
+(;GE[life and death]DI[2k]DP[23]SO[Athanatos]CO[0]AB[bq]AB[bp]AB[bo]AB[cp]AB[dp]AB[ep]AB[eq]AB[fr]AW[cm]AW[bn]AW[co]AW[do]AW[eo]AW[fo]AW[fq]AW[gq]AW[er]AW[dr]AW[dq]AW[cq]C[Black to find a way]AP[goproblems]
+(;B[br];W[gr]
+(;B[bs];W[ao];B[ap];W[ar])
+(;B[cs];W[cr]
+(;B[bs];W[ao];B[ap];W[ar])
+(;B[ao];W[aq]
+(;B[ar];W[bs])
+(;B[bs];W[ar]))
+(;B[ar];W[bs]))
+(;B[cr];W[cs];B[bs];W[ao]))
+(;B[cr]
+(;W[br];B[bs]
+(;W[cs];B[ar];W[as]C[koRIGHT])
+(;W[ar];B[ds]C[better ko for black than in the correct solution]))
+(;W[cs]
+(;B[br])
+(;B[bs];W[br];B[ar];W[as]C[koRIGHT])))
+(;B[cs];W[cr]
+(;B[es];W[br])
+(;B[br];W[gr]
+(;B[bs];W[ao];B[ap];W[ar])
+(;B[ao];W[bs])))
+(;B[bs];W[cr]))

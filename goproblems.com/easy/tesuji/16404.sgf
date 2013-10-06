@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[8k]DP[48]SO[jug]CO[0]AW[lk]AW[mk]AW[ml]AW[qo]AW[rp]AW[qq]AW[rq]AW[pr]AW[qs]AB[qp]AB[op]AB[pq]AB[or]AB[lj]AB[mj]AB[kk]AB[nk]AB[ll]LB[lq:NO]C[Can Black capture the marked stones? If you think so, then please show how. Otherwise click 'NO' on M3.FORCE]TR[lk]TR[mk]TR[ml]AP[goproblems]PL[W]
+(;B[mm];W[nl];B[ol];W[nm];B[nn];W[om];B[pm];W[on]
+(;B[oo];W[pn]
+(;B[qn];W[po]
+(;B[ro];W[pp];B[qp]C[Congratulations!RIGHT])
+(;B[pp];W[ro]))
+(;B[po];W[qn]))
+(;B[pn];W[oo]
+(;B[no];W[po])
+(;B[po];W[no])))
+(;B[lq]))

@@ -1,0 +1,25 @@
+(;GE[life and death]DI[2k]DP[23]SO[Field Mouse]CO[0]AB[bd]AB[ce]AB[bh]AB[bg]AW[bc]AW[dd]AW[dc]AW[cc]AW[de]AW[dh]AW[ci]AW[cj]AW[bj]AB[df]AW[ef]AB[dg]AW[eg]AW[eh]AB[ad]AP[goproblems]
+(;W[bf];B[cf]
+(;W[ch];B[af]TR[ah]TR[be])
+(;W[ah];B[af]TR[be]TR[ch])
+(;W[af];B[ch]
+(;W[ah];B[ag];W[bi];B[ai])
+(;W[ag];B[ah])))
+(;W[cg];B[cf];W[ch];B[af]TR[ah]TR[be])
+(;W[ch];B[cg]
+(;W[bf];B[af];W[be];B[ah])
+(;W[ah];B[bf]))
+(;W[cf];B[cg];W[bf];B[af];W[be];B[ae]TR[ah]TR[bf])
+(;W[be];B[bf];W[cg];B[cf];W[ch];B[ah])
+(;W[cd];B[bf];W[cg];B[cf];W[ch];B[ah])
+(;W[af];B[bf];W[cg];B[cf];W[ch];B[ae])
+(;W[ah];B[af]
+(;W[cg];B[cf];W[ch];B[be])
+(;W[cf];B[cg])
+(;W[bf];B[be])
+(;W[be];B[bf]
+(;W[cg];B[cf];W[ch]C[Nice!RIGHT])
+(;W[cd];B[cg]C[Ko!]))
+(;W[cd];B[be])
+(;W[ch];B[cg]))
+(;W[ag];B[af]))

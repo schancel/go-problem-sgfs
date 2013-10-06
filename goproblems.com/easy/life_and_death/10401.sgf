@@ -1,0 +1,19 @@
+(;GE[life and death]DI[12k]DP[58]SO[gil12]CO[4]AB[jj]AB[ij]AB[jk]AB[kj]AB[ii]AB[ih]AB[kh]AB[li]AW[lj]AW[kk]AW[ll]AW[jl]AW[km]AW[lm]AW[ik]AW[il]AW[hk]AW[hj]AW[hi]AW[hh]AW[hg]AW[ig]AW[jg]AW[kg]AB[jh]AW[lg]C[White to kill.]AP[goproblems]
+(;W[mi]
+(;B[mh];W[lh]C[RIGHT])
+(;B[mj]C[CHOICE]
+(;W[lk];B[mh];W[lh];B[ni];W[ki]C[];B[ji];W[ki]C[RIGHT])
+(;W[lh];B[lk];W[mk];B[lj];W[nj];B[ni];W[mh];B[nk]MA[mk]MA[nj])
+(;W[mk]C[];B[nj]C[Just ko.])
+(;W[ki];B[lh])
+(;W[mh];B[lk]
+(;W[mk];B[nj]C[Just ko.])
+(;W[nj];B[nk]))))
+(;W[lh]
+(;B[mi];W[ki]C[];B[ji];W[ki]C[RIGHT])
+(;B[ki];W[mi]C[RIGHT])
+(;B[mj];W[lk];B[mi];W[ki];B[ji];W[ki]C[RIGHT]))
+(;W[mh];B[mi];W[ni];B[mj];W[lk];B[nj]C[CHOICE])
+(;W[mj];B[mi]
+(;W[ni];B[mh];W[ng];B[nh];W[oh];B[mg];W[mf];B[og];W[nf];B[oi]C[White had too much weak spots.CHOICE])
+(;W[nj];B[ni]C[Black escaped.])))

@@ -1,0 +1,12 @@
+(;GE[life and death]DI[10k]DP[52]SO[mizutip]CO[5]AB[rd]AB[qd]AB[pc]AB[oc]AB[nc]AB[nb]AW[rc]AW[sc]AW[qb]AW[pb]AW[ob]C[What can Black do here?]AP[goproblems]
+(;B[ra]
+(;W[oa]
+(;B[qa];W[rb];B[sa]C[Well done! :)CHOICERIGHT])
+(;B[rb];W[qa]C[The two stones are now captured! :(])
+(;B[qc];W[qa]C[White gets two eyes! :(])
+(;B[sb];W[qa]C[White has two eyes! :(]))
+(;W[rb]
+(;B[sa];W[oa];B[qa]C[Well done! :)CHOICERIGHT])
+(;B[oa];W[sa]C[White lives! :(]LB[sb:1]LB[qa:2])))
+(;B[oa];W[ra]C[White is alive thanks to the miai! :(]TR[pa]TR[sb])
+(;B[qc];W[ra]C[White is alive! :(]))

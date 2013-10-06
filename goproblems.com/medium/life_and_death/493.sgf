@@ -1,0 +1,27 @@
+(;GE[life and death]DI[3k]DP[25]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[bb]AE[ab]AB[ac][bc][cc][cb]AW[db][da]AB[eb][dc]AW[ec][dd]AB[fb]AW[fc][gc][gb]AE[ed]AB[cd][bd]AW[ce][be][ae][ad]AE[ee]AW[de]PL[W]
+(;W[ab]CR[ab]
+;B[aa]CR[aa]
+(;W[ca]CR[ca]C[RIGHT
+black can't approach on either side])
+(;W[fa]CR[fa]
+;B[ca]CR[ca])
+(;W[ea]CR[ea]
+;B[ca]CR[ca]))
+(;W[ba]CR[ba]
+;B[aa]CR[aa]
+(;W[ab]CR[ab]C[ko])
+(;W[ca]CR[ca]
+;B[ea]CR[ea]))
+(;W[ca]CR[ca]
+;B[ba]CR[ba])
+(;W[fa]CR[fa]
+;B[ca]CR[ca]
+;W[ea]CR[ea]
+;B[aa]CR[aa])
+(;W[ea]CR[ea]
+;B[ca]CR[ca]
+;W[fa]CR[fa]
+;B[aa]CR[aa])
+(;W[aa]CR[aa]
+;B[ca]CR[ca]))

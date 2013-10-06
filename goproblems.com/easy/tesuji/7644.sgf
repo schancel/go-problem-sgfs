@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[12k]DP[58]SO[Chaos Theory]CO[8]SZ[19]AB[rs]AB[rr]AB[rq]AB[rp]AB[ro]AB[oq]AB[nq]AB[mq]AB[lq]AW[qr]AW[pq]AW[pp]AW[qo]AW[oo]AW[rn]AW[qm]AW[so]C[Black to live.]GM[1]FF[4]AP[Drago:1.44]HA[1]
+(;B[pr]
+(;W[or];B[ps]C[RIGHT])
+(;W[ps];B[or]
+(;W[qs];B[qq]C[RIGHT])
+(;W[qq];B[qs]C[RIGHT])))
+(;B[sp];W[sr]
+(;B[pr]
+(;W[or];B[ps]C[RIGHT])
+(;W[ps];B[or]
+(;W[qs];B[qq]C[RIGHT])
+(;W[qq];B[qs]C[RIGHT])))
+(;B[qq];W[pr]C[just dead])
+(;B[ps];W[qs];B[pr];W[qq]C[just dead])
+(;B[qs];W[ps];B[qq];W[pr]C[just dead]))
+(;B[qq];W[pr])
+(;B[ps];W[qs];B[pr];W[qq])
+(;B[sr];W[sp]
+(;B[pr]C[RIGHT]
+(;W[or]C[RIGHT];B[ps]C[RIGHT])
+(;W[ps];B[or]
+(;W[qq];B[qs]C[RIGHT])
+(;W[qs];B[qq]C[RIGHT])))
+(;B[ps];W[qs];B[pr];W[qq]C[just dead])
+(;B[qq];W[pr]C[just dead])
+(;B[qs];W[ps];B[qq];W[pr]C[just dead]))
+(;B[qs];W[ps];B[qq];W[pr]C[just dead]))

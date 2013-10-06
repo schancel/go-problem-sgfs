@@ -1,0 +1,41 @@
+(;GE[life and death]DI[4d]DP[7]SO[unkx80]CO[8]AB[ar]AB[bs]AB[cr]AB[dr]AB[ds]AB[er]AW[es]AW[fs]AW[fr]AW[gr]AB[eq]AB[fq]AW[hq]AW[iq]AW[kq]AB[dp]AB[do]AB[eo]AB[hp]AB[ho]AB[go]AB[fp]AW[bq]AW[cq]AW[dq]AW[bo]AW[co]AW[dn]AW[en]AW[cm]AW[bm]AW[an]AB[dm]AW[fn]AW[ip]AW[io]AW[in]AW[hm]AB[gn]AW[gm]AB[aq]AB[ap]AB[kr]AB[lq]AW[kp]AB[lp]AB[lo]C[White to play. Can the corner black group be killed? Y = Yes, N = No, K = Ko.FORCE]LB[dk:Y]LB[fk:N]LB[hk:K]AP[goproblems]
+(;W[dk];B[fk]C[Now proceed to kill.]
+(;W[br];B[gq]
+(;W[fo];B[hr]
+(;W[is]
+(;B[gs]
+(;W[fs]
+(;B[ir];W[jr];B[fr]
+(;W[js];B[jq]
+(;W[jp];B[ks]
+(;W[jq];B[es];W[hs]C[RIGHT])
+(;W[lr];B[es]LB[hs:A]C[Uh oh, white cannot approach at A.]))
+(;W[lr];B[es]C[Uh oh, white cannot approach at A.]LB[hs:A]))
+(;W[lr];B[es])
+(;W[jq];B[es]))
+(;B[fr];W[ir];B[es];W[hs]C[RIGHT]))
+(;W[ir];B[fs])
+(;W[jr];B[fs])
+(;W[fr];B[fs])
+(;W[gr];B[hs])
+(;W[hs];B[ir]))
+(;B[hs];W[ir];B[gs];W[fs]C[RIGHT])
+(;B[ir];W[jr];B[gs];W[fs]C[This transposes back to the main line.RIGHT]))
+(;W[ir];B[gs]
+(;W[fs];B[is]
+(;W[js];B[jr])
+(;W[jr];B[fr];W[js];B[es])
+(;W[fr];B[jr]))
+(;W[is];B[fs])
+(;W[fr];B[fs])
+(;W[jr];B[fs])
+(;W[js];B[fs]))
+(;W[jr];B[gs])
+(;W[hs];B[gs];W[ir];B[is];W[js];B[fs]))
+(;W[hr];B[fo])
+(;W[ir];B[fo])
+(;W[hs];B[fo]))
+(;W[gq];B[br])
+(;W[fo];B[br]))
+(;W[fk])
+(;W[hk]))

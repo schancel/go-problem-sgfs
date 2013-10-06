@@ -1,0 +1,51 @@
+(;GE[endgame]DI[2d]DP[12]SO[MrMoto]CO[0]AW[ea]AW[fa]AW[ga]AW[fb]AW[db]AW[ec]AW[dc]AW[ed]AW[fe]AW[ge]AB[fc]AB[fd]AB[gd]AB[gb]AB[hc]AB[ha]AB[he]AB[if]AB[jf]AB[le]AB[kg]AB[lg]AB[mf]AB[ld]AB[lc]AB[mc]AW[nc]AW[nb]AB[na]AB[oa]AB[pa]AB[ob]AB[oc]AB[od]AB[nd]AW[qa]AW[pb]AW[qc]AB[pc]AW[qb]AW[qd]AW[pd]AB[oe]AB[nf]AB[of]AW[pf]AW[pe]AW[pg]AW[og]AW[ng]AW[mh]AW[lh]AW[kh]AW[jh]AW[jg]AW[ig]AW[hg]AW[hf]AW[ee]AW[fg]AW[ib]MA[ib]C[White has just played at the marked stone in the endgame. Keep as many points as possible!]AB[mg]AP[goproblems]
+(;B[hb];W[ie]
+(;B[hd];W[ic]C[What now?]
+(;B[ia];W[kb]
+(;B[id];W[je]
+(;B[kf];W[jd]
+(;B[jc];W[jb]
+(;B[kd];W[kc];B[ke];W[jc]
+(;B[lb]C[Well done! :)RIGHT])
+(;B[ka]
+(;W[lb]C[CHOICE]
+(;B[la]C[:)RIGHT])
+(;B[mb];W[la];B[ma]C[:)RIGHT]))
+(;W[la]C[CHOICE];B[lb]C[:)RIGHT])))
+(;B[ke];W[kc];B[kd])
+(;B[kc];W[ja]))
+(;B[jb];W[jc]))
+(;B[jd];W[kf]C[You didn't need to give up those stones.])
+(;B[jc];W[kf]C[You didn't need to give up those stones.])
+(;B[jb];W[kf]C[You didn't need to give up those stones.]))
+(;B[je];W[id])
+(;B[ja];W[id]
+(;B[ka];W[jb]TR[kf]TR[lb])
+(;B[jb];W[jc]))
+(;B[ka];W[la]
+(;B[ja];W[lb]
+(;B[id];W[je]
+(;B[kf];W[jd])
+(;B[jd];W[kf]C[You didn't need to give up those stones.]))
+(;B[jb];W[jc];B[id];W[je]TR[jd]TR[kf]))
+(;B[id];W[je]
+(;B[jd];W[kf]C[You didn't need to give up those stones.])
+(;B[kf];W[jd]
+(;B[ja];W[jb])
+(;B[jb];W[jc])
+(;B[jc];W[jb]
+(;B[kd];W[kc];B[ke];W[jc])
+(;B[ke];W[kc];B[kd]))))
+(;B[jb];W[jc]
+(;B[ja];W[id])
+(;B[id];W[je]TR[kf]TR[jd])))
+(;B[jb];W[jc]
+(;B[id];W[je]TR[kf]TR[jd])
+(;B[ja];W[id])))
+(;B[id];W[je]
+(;B[jd];W[kf]C[You didn't need to give up those stones.])
+(;B[kf];W[jd]))
+(;B[je];W[id]))
+(;B[id];W[hd]C[;|])
+(;B[je];W[hd]C[;(]))
+(;B[ic];W[hb]C[;|]))

@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[5k]DP[34]SO[wurfmaul]CO[0]AB[hl]AB[gl]AB[hk]AB[gk]AB[pp]AB[qo]AB[op]AB[np]AW[po]AW[no]AW[oo]AW[om]AB[nl]AB[nm]AB[nn]AB[pm]AB[mo]AB[ln]AB[lo]AB[lp]AB[ko]AB[io]AB[jm]AB[im]AB[hm]AB[il]AB[fl]AW[ik]AW[ij]AW[hj]AW[gj]AB[km]AW[mn]AW[mm]AW[ml]AW[mk]AW[lm]AB[ll]AW[kl]AW[kk]AW[jl]AB[jk]AW[fk]AW[ek]AW[el]AW[fm]AW[gm]AW[gn]AW[mq]AW[lq]AW[mp]AW[kq]AW[hn]AW[ho]AW[ip]AW[jp]AW[kp]MA[fl]MA[gl]MA[gk]MA[hk]MA[hl]MA[il]MA[hm]MA[im]MA[jm]MA[km]LB[fp:T]C[Save the marked stones. If you think they are already save, or they cannot be saved, play tenuki at F4.]AP[goproblems]
+(;B[kn]C[Saved! The three white stones are dead.RIGHT]TR[no]TR[oo]TR[po])
+(;B[pn];W[kn]
+(;B[jn];W[jo];B[on];W[in])
+(;B[jo];W[in]))
+(;B[on];W[kn]
+(;B[jn];W[jo]C[This is the variation that was played in the game.];B[pn])
+(;B[jo];W[in]))
+(;B[ol]C[];W[kn]C[P8 is almost the same as playing tenuki.]
+(;B[jo];W[in])
+(;B[jn];W[jo]))
+(;B[jo];W[in]
+(;B[on];W[jn])
+(;B[pn];W[jn]))
+(;B[jn];W[jo])
+(;B[in];W[jo])
+(;B[fp];W[kn]C[Now white will capture the marked stones. You could have saved them.]MA[gl]MA[fl]MA[gk]MA[hk]MA[hl]MA[hm]MA[im]MA[il]MA[jm]MA[km]MA[ln]MA[lo]MA[ko]MA[lp]MA[mo]
+(;B[jn];W[jo])
+(;B[jo];W[in])))

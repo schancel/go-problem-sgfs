@@ -1,0 +1,14 @@
+(;GE[endgame]DI[5k]DP[33]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ba][bb][bc][ec][fc][gc][bd][dd][fd][ae][be][de][ee][fe][af][ff]AB[ca][cb][db][eb][fb][gb][cc][cd][ce][bf][df][ef][ag][bg][fg][gg]C[No komi, no prisoners - what's the best Black can do?]RE[0]
+(;B[eg]CR[eg]C[ ]
+;W[gf]CR[gf]C[Jigo. Starting with g2 instead of e1 would have been too greedy! RIGHT])
+(;B[gf]CR[gf]
+;W[eg]CR[eg]
+;B[dg]CR[dg]
+;W[ge]CR[ge]
+(;B[eg]CR[eg]
+;W[cf]CR[cf]C[White wins!])
+(;B[cf]CR[cf]
+;W[eg]CR[eg]
+;B[fg]CR[fg]C[White wins by 2 points])))

@@ -1,0 +1,3 @@
+(;GE[best move]DI[3k]DP[25]SO[TnekKralc]CO[0]AW[qc]AB[oe]AW[od]AB[nf]AW[ne]AB[me]AW[nd]AB[mc]AW[md]AB[ld]AW[nc]AB[lc]AW[nb]AB[le]AW[pg]AB[kf]AW[jd]AB[dp]AW[pi]AB[dd]AP[goproblems]
+(;B[pf];W[pe];B[of];W[qf];B[qe];W[pd];B[qg];W[rf];B[qh]C[Correct answer: The open connection of B 1 is correct. With the moves up 2 B 9, W's 2 groups have been effectively separated.RIGHT]LB[pf:1]LB[pe:2]LB[of:3]LB[qf:4]LB[qe:5]LB[pd:6]LB[qg:7]LB[rf:8]LB[qh:9])
+(;B[of];W[qe]LB[of:1]LB[qe:2]C[Wrong answer: If B makes a solid connection at 1, W plays 2 and his stones on the right side are linked up. B has failed.]))

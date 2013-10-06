@@ -1,0 +1,66 @@
+(;GE[life and death]DI[12k]DP[58]SO[Gelya]CO[0]SZ[19]AW[bc]AW[cc]AW[dc]AW[fc]AW[ic]AW[kc]AW[lc]AW[qc]AW[rc]AW[bd]AW[md]AW[rd]AW[me]AW[cf]AW[of]AW[qf]AW[mg]AW[ng]AW[og]AW[bk]AW[ck]AW[dk]AW[cl]AW[cm]AW[dm]AW[mm]AW[dn]AW[nn]AW[ho]AW[io]AW[no]AW[cp]AW[dp]AW[ep]AW[gp]AW[np]AW[bq]AW[dq]AW[eq]AW[fq]AW[gq]AW[hq]AW[jq]AW[lq]AW[pq]AW[er]AW[or]AW[qr]AB[pc]AB[cd]AB[dd]AB[kd]AB[nd]AB[pd]AB[qd]AB[be]AB[ce]AB[ee]AB[le]AB[ne]AB[mf]AB[nf]AB[dg]AB[lg]AB[oh]AB[qh]AB[li]AB[bj]AB[cj]AB[ak]AB[qk]AB[bl]AB[dl]AB[el]AB[bm]AB[nm]AB[om]AB[hn]AB[mn]AB[eo]AB[fo]AB[go]AB[mo]AB[po]AB[fp]AB[hp]AB[ip]AB[lp]AB[qp]AB[iq]AB[oq]AB[qq]AB[cr]AB[fr]AB[gr]AB[hr]LB[jo:A]LB[ss:T]C[Very easy problem.Does A works? If not, play T]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]
+(;B[jo];W[in];B[im];W[jn];B[kn];W[jm];B[jl];W[km]
+(;B[lm];W[kl]
+(;B[kk];W[ll]
+(;B[ml];W[lk]
+(;B[mk];W[lj]
+(;B[kj];W[mj];B[nj];W[mi]
+(;B[mh];W[ni]
+(;B[nh];W[oi]
+(;B[pi];W[oj]
+(;B[ok]
+(;W[pj]
+(;B[pk]
+(;W[qj];B[rj];W[nk];B[qi]C[RIGHT])
+(;W[nk];B[qj]C[RIGHT]))
+(;B[qj]C[RIGHT]))
+(;W[nk];B[pj]C[RIGHT]))
+(;B[pj];W[ok]
+(;B[nk];W[jp])
+(;B[pk];W[jp])
+(;B[ol]
+(;W[jp])
+(;W[nk]
+(;B[pk];W[jp])
+(;B[nl];W[jp]))))
+(;B[nk];W[jp]C[You are too greedy]))
+(;B[oj];W[pi]))
+(;B[oi];W[nh]C[Dont do this in a real game!]))
+(;B[ni];W[mh]C[Dont look very good]))
+(;B[mj];W[kj]C[Hmm]))
+(;B[lj];W[mk];B[nk];W[mj]
+(;B[nj];W[mi]
+(;B[mh];W[ni]
+(;B[nh];W[oi]
+(;B[pi];W[oj]
+(;B[ok];W[pj]
+(;B[qj];W[pk]
+(;B[pl]C[RIGHT])
+(;B[ql]C[RIGHT])
+(;B[pm]C[RIGHT])
+(;B[ol]C[RIGHT]))
+(;B[pk];W[qj];B[rj];W[qi]
+(;B[ri]C[RIGHT])
+(;B[ph]C[RIGHT])
+(;B[lh]C[RIGHT])))
+(;B[pj];W[ok]
+(;B[ol];W[nl];B[nk];W[jp])
+(;B[nl];W[jp])
+(;B[pk];W[nl])))
+(;B[oj];W[pi]C[Empty traingle is bad here...]TR[oj]TR[nj]TR[nk]))
+(;B[oi];W[nh]C[Nice try, but wrong]))
+(;B[ni];W[mh]C[you let white connect]))
+(;B[mi];W[nj];B[oj];W[ni]
+(;B[nh];W[oi]
+(;B[pi]C[RIGHT])
+(;B[pj]C[RIGHT])
+(;B[qi]C[RIGHT])
+(;B[ph]C[RIGHT]))
+(;B[oi];W[nh]C[Very bad]))
+(;B[ni];W[jp]C[geta dont work])))
+(;B[ln]
+(;W[ml]C[Well, it is not good])
+(;W[jp]C[Not good for black])))
+(;B[ll];W[kk]C[Escaped!]))
+(;B[kl];W[lm]C[This is no good]))
+(;B[ss]C[No.. ot works. Try again]))

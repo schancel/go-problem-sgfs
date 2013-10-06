@@ -1,0 +1,40 @@
+(;GE[life and death]DI[3k]DP[26]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[ig][jg][kg][ih][kh][hi][li][hj][lj][ik][jk][lk][jm]AB[hf][if][jf][kf][lf][hg][lg][gh][lh][gi][mi][gj][mj][hk][mk][hl][ll][hm][im][lm][jn][ln][ko]C[Black to play! Is there a way to stop white from getting two eyes?]
+(;B[ji]CR[ji]
+;W[jj]CR[jj]
+(;B[ii]CR[ii]
+;W[ki]CR[ki]
+(;B[kk]CR[kk]
+;W[kl]CR[kl]
+(;B[jl]CR[jl]
+;W[il]CR[il]
+(;B[km]CR[km]
+;W[kj]LB[hh:B][ij:C][jl:A]CR[kj]C[White would like to connect at A, but then black plays at B and white can't connect at C because he is short of liberties]
+;B[jl]CR[jl]C[Ko! RIGHT])
+(;B[hh]CR[hh]
+;W[km]CR[km]))
+(;B[hh]CR[hh]
+;W[ij]CR[ij]
+;B[jl]CR[jl]
+;W[il]CR[il]
+;B[km]CR[km]
+;W[kj]CR[kj]
+;B[jl]CR[jl]C[Ko! RIGHT]))
+(;B[hh]CR[hh]
+;W[ij]CR[ij]
+(;B[kk]CR[kk]
+;W[kl]CR[kl]
+(;B[jl]CR[jl]
+;W[il]CR[il]
+;B[km]CR[km]
+;W[kj]CR[kj]
+;B[jl]CR[jl]C[Ko! RIGHT])
+(;B[km]CR[km]
+;W[jl]CR[jl]))
+(;B[kl]CR[kl]
+;W[kk]CR[kk])))
+(;B[ki]CR[ki]
+;W[ii]CR[ii]))
+(;B[jj]CR[jj]
+;W[ji]CR[ji]))

@@ -1,0 +1,36 @@
+(;GE[life and death]DI[2k]DP[22]SO[MeleeNewb]CO[0]SZ[5]AB[be]AW[ea]C[Remember, diagonals count as a connection too.]AW[ab]AP[goproblems]
+(;B[dc]
+(;W[ca]C[CHOICE]
+(;B[de]C[White cannot win now. Good job :DRIGHT])
+(;B[ee]C[White cannot win now. Good job :DRIGHT]))
+(;W[de]C[CHOICE];B[ca]C[White cannot win now. Good job :DRIGHT]))
+(;B[cc];W[de]
+(;B[ec];W[ca]C[Uh oh, you have nowhere left to play.])
+(;B[ca];W[ec]C[Uh oh, you have nowhere left to play.]))
+(;B[dd];W[cb]C[Uh oh, you have nowhere left to play.])
+(;B[de];W[cc]
+(;B[ca];W[ec]C[Uh oh, you have nowhere left to play.])
+(;B[ec];W[ca]C[Uh oh, you have nowhere left to play.]))
+(;B[ee];W[cc]
+(;B[ec];W[ca]C[Uh oh, you have nowhere left to play.])
+(;B[ca];W[ec]C[Uh oh, you have nowhere left to play.]))
+(;B[ed];W[cb]C[Uh oh, you have nowhere left to play.])
+(;B[ec];W[cc]
+(;B[ca];W[de]C[Uh oh, you have nowhere left to play.])
+(;B[de];W[ca]C[Uh oh, you have nowhere left to play.])
+(;B[ee];W[ca]C[Uh oh, you have nowhere left to play.]))
+(;B[cb];W[dd]C[Uh oh, you have nowhere left to play.])
+(;B[ca];W[dd]C[Uh oh, you have nowhere left to play.])
+(;B[ae]C[Oh no! You played next to a stone!])
+(;B[ad]C[Oh no! You played next to a stone!])
+(;B[bd]C[Oh no! You played next to a stone!])
+(;B[bc]C[Oh no! You played next to a stone!])
+(;B[bb]C[Oh no! You played next to a stone!])
+(;B[ba]C[Oh no! You played next to a stone!])
+(;B[ce]C[Oh no! You played next to a stone!])
+(;B[cd]C[Oh no! You played next to a stone!])
+(;B[da]C[Oh no! You played next to a stone!])
+(;B[db]C[Oh no! You played next to a stone!])
+(;B[eb]C[Oh no! You played next to a stone!])
+(;B[aa]C[Oh no! You played next to a stone!])
+(;B[ac]C[Oh no! You played next to a stone!]))

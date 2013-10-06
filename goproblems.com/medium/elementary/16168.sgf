@@ -1,0 +1,9 @@
+(;GE[elementary]DI[2d]DP[12]SO[santa c]CO[0]AB[bs]AB[cr]AB[bq]AB[dp]AB[er]AB[cp]AW[cq]AW[dq]AW[ep]AW[do]AW[co]AW[bo]AW[ao]AW[hr]AW[hq]AW[gp]C[Maybe it does look a bit forced... ;p Is B alive? Or can you something about it?]AP[goproblems]
+(;W[aq];B[ar]
+(;W[bp];B[ap]C[nice, a ko you can fight :)RIGHT])
+(;W[dr];B[ap])
+(;W[ap];B[dr]))
+(;W[ar];B[dr]LB[bp:1]LB[aq:2])
+(;W[dr];B[bp]MA[eq]MA[ar])
+(;W[bp];B[aq]MA[ar]MA[dr])
+(;W[ap];B[aq]MA[ar]MA[dr]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[4k]DP[30]SO[aditsu]CO[8]AB[qb]AB[rb]AB[rc]AB[pc]AB[ob]AB[nb]AB[ma]AW[na]AW[mb]AW[kb]AW[mc]AW[nc]AW[oc]AW[qc]AW[qd]AW[rd]AW[pe]AW[qf]AP[goproblems]
+(;B[ra];W[pa]
+(;B[pb];W[oa]
+(;B[qa];W[na]
+(;B[oa]C[Well done, S19 is the main line. Can you find another solution?RIGHT])
+(;B[la];W[oa]C[Oops, the eye is gone]))
+(;B[la]C[NOTTHIS]))
+(;B[oa];W[pb];B[qa];W[pb]C[Oops])
+(;B[qa];W[pb];B[oa];W[pb]C[Oops]))
+(;B[sc];W[pb]
+(;B[pa];W[pd]
+(;B[pb]
+(;W[sd]C[If you feel you don't need to respond in the corner, please play P19.]
+(;B[ra]C[The T17 variation may be slightly worse than the main line because of this white sente sequence.RIGHT])
+(;B[sa]C[The T17 variation may be slightly worse than the main line because of this white sente sequence. Also, your last move is sub-optimal.RIGHT])
+(;B[oa];W[ra];B[sa];W[sb]C[Ko]))
+(;W[ra]C[This is to show that this bent-4 is alive (2 outside liberties)];B[sa];W[sb];B[qa];W[sd];B[sa]C[RIGHT]))
+(;B[ra];W[pb]C[Ko])
+(;B[sa];W[pb]C[Remember, ko is not good enough]
+(;B[qa];W[oa]C[Well, you managed to live, but this is wrong because you didn't need to lose those stones.])
+(;B[oa];W[qa]C[Ko])))
+(;B[qa];W[sa]C[Black is dead here...])
+(;B[sa];W[oa];B[qa]C[Well, you managed to live, but this is wrong because you didn't need to lose those stones.])
+(;B[oa];W[pd]C[]
+(;B[qa];W[sa])
+(;B[pa];W[pc]MA[qa]MA[sa]C[Miai bites you. You die.])))
+(;B[pa];W[ra]C[Black is dead here. T17 kills too.])
+(;B[pb];W[sc];B[sb];W[ra]MA[oa]MA[qa]C[Miai bites you. You die.])
+(;B[oa];W[sc];B[sb];W[ra]MA[pb]MA[qa]C[Miai bites you. You die.])
+(;B[qa]C[Dead in gote, congratulations.])
+(;B[sb];W[ra]C[Anything you would respond here is death in gote.])
+(;B[sa];W[sc]C[Anything you would respond here is death in gote.]))

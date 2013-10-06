@@ -1,0 +1,38 @@
+(;GE[best move]DI[10k]DP[53]SO[lion123123123]CO[0]AW[qb]AW[qc]AW[rc]AW[pc]AW[ob]AW[nb]AB[mb]AB[mc]AB[nc]AB[oc]AW[nd]AW[mf]AW[nf]AW[of]AW[qf]AB[pd]AB[qd]AB[rd]AB[ld]AB[le]AB[lf]AW[lc]AW[kc]AW[kd]AB[jf]AB[kh]AW[hc]AW[pj]AW[ed]LB[nd:1]C[what move is the best?(update in 2011-8-13)]AW[ph]AP[goproblems]
+(;B[ne]
+(;W[oe]
+(;B[od]
+(;W[me];B[md]C[good job!RIGHT])
+(;W[md];B[me]C[RIGHT]))
+(;B[md];W[od];B[me]C[they are died!]TR[pd]TR[qd]TR[rd])
+(;B[pe];W[md]
+(;B[od];W[me]TR[rd]TR[qd]TR[pd]TR[pe]TR[od]TR[oc]TR[nc]TR[mc]TR[mb]C[they are died!])
+(;B[me];W[od]TR[rd]TR[qd]TR[pd]TR[pe]TR[oc]TR[nc]TR[mc]TR[mb]C[they are died!]))
+(;B[me]C[they are died!];W[od]))
+(;W[me]
+(;B[md]
+(;W[oe];B[od]C[good job!RIGHT])
+(;W[od];B[oe]C[RIGHT]))
+(;B[od];W[md];B[oe]TR[ne]TR[oe]TR[od]TR[oc]TR[nc]TR[mc]TR[mb]TR[pd]TR[qd]TR[rd]C[they are died!])
+(;B[pe];W[md]TR[ne]TR[pe]TR[pd]TR[qd]TR[rd]TR[oc]TR[nc]TR[mc]TR[mb]C[they are died!])
+(;B[oe];W[md]TR[ne]TR[oe]TR[pd]TR[oc]TR[nc]TR[mc]TR[mb]TR[qd]TR[rd]C[they are died!]))
+(;W[od]
+(;B[oe]
+(;W[md];B[me]C[good job!RIGHT])
+(;W[me];B[md]C[good job!RIGHT]))
+(;B[me];W[oe]C[];B[md]C[they are died!]TR[pd]TR[qd]TR[rd]))
+(;W[md]
+(;B[me]
+(;W[od];B[oe]C[good job!RIGHT])
+(;W[oe];B[od]C[good job!RIGHT]))
+(;B[oe])))
+(;B[md];W[od]TR[pd]TR[qd]TR[rd]C[they are died!])
+(;B[od];W[md]TR[mb]TR[mc]TR[nc]TR[oc]TR[od]TR[pd]TR[qd]TR[rd]C[they are died!])
+(;B[me];W[od];B[md]TR[pd]TR[qd]TR[rd]C[they are died!])
+(;B[oe];W[md]
+(;B[me];W[ne]TR[oe]TR[pd]TR[qd]TR[rd]TR[mc]TR[mb]C[they are died!]TR[nc]TR[oc]AW[ph])
+(;B[ne];W[me]TR[mb]TR[mc]TR[nc]TR[oc]TR[oe]TR[ne]TR[pd]TR[qd]TR[rd]C[they are died!]))
+(;B[pe];W[md]TR[mc]TR[mb]TR[nc]TR[oc]TR[pd]TR[pe]TR[qd]TR[rd]C[they are died!])
+(;B[pb];W[md]
+(;B[oa];W[pa]TR[mb]TR[mc]TR[nc]TR[oc]TR[oa]TR[pd]TR[qd]TR[rd]C[they are died!])
+(;B[na];W[pa]C[they are died!]TR[rd]TR[qd]TR[pd]TR[oc]TR[nc]TR[mc]TR[mb]TR[na])))

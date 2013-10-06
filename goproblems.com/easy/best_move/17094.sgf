@@ -1,0 +1,30 @@
+(;GE[best move]DI[5k]DP[34]SO[wolverest]CO[0]AB[ac]AB[bc]AB[bd]AB[cd]AB[ce]AB[de]AB[df]AW[ad]AW[ae]AW[be]AW[bf]AW[cf]AW[cg]AW[dg]AW[ch]AW[di]AW[ei]AW[dj]AW[ck]AW[bk]AW[bj]AW[bl]AW[bm]AB[al]AB[am]AB[bn]AB[bo]AB[ao]AB[cm]AB[cl]AB[dl]AB[dk]AB[ek]AB[ej]AB[fj]AB[fi]AB[eh]AB[dh]AB[eg]AB[ef]AB[fh]AB[cn]AB[bi]C[Defend]AP[goproblems]
+(;W[aj];B[ci]
+(;W[cj];B[bh])
+(;W[bh];B[cj];W[ag];B[ai]))
+(;W[bh];B[aj]
+(;W[cj];B[ak];W[ci];B[ai];W[ah];B[an];W[ag]C[Small life. But you can do better.])
+(;W[ci];B[ak];W[ai];B[an]C[RIGHT]))
+(;W[ak];B[ci];W[bh];B[ag];W[an];B[cj])
+(;W[cj]
+(;B[aj]
+(;W[bh])
+(;W[ci];B[ak];W[bh]))
+(;B[bh]
+(;W[ai]C[];B[ah]C[leads to ko or seki both worse than solution.]
+(;W[aj];B[bg];W[ag];B[af]C[Black takes first])
+(;W[ag];B[aj];W[ci];B[ak])
+(;W[ak];B[ci];W[an];B[ag])
+(;W[ci];B[ag];W[ak];B[an])
+(;W[bg];B[aj];W[ci];B[ak]))
+(;W[ah]C[];B[ai]C[best you can get is seki]
+(;W[ag];B[aj])
+(;W[bg];B[ag])
+(;W[aj];B[ag])
+(;W[ci];B[ag];W[ak];B[an];W[bg]))
+(;W[ci]C[seki])))
+(;W[ai];B[ah]
+(;W[aj];B[ci])
+(;W[bh];B[aj];W[ci];B[ak];W[ai]C[ko,])
+(;W[ci];B[aj];W[bh]))
+(;W[ci];B[aj];W[bh]))

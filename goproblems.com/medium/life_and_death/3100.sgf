@@ -1,0 +1,48 @@
+(;GE[life and death]DI[3d]DP[11]SO[hubin_at]CO[8]AB[db]AB[dc]AB[cd]AB[bd]AB[ce]AB[de]AB[ee]AB[bf]AB[cf]AB[cg]AB[dg]AW[bc]AW[cc]AW[cb]AW[ec]AW[ed]AW[dd]AW[be]AW[ad]AW[fe]AW[ff]AW[gc]AW[dh]AW[eh]AW[ci]AW[bh]C[Black to live in the corner]AP[goproblems]
+(;B[ef];W[ae]
+(;B[af];W[ac];B[ca];W[eb])
+(;B[ac];W[ab];B[ca];W[eb])
+(;B[ab];W[ac];B[ca];W[eb]))
+(;B[ac];W[ab]
+(;B[ae];W[ef]
+(;B[ca];W[eb])
+(;B[ba];W[eb];B[bb];W[da])
+(;B[ac];W[eb]))
+(;B[ca];W[eb]))
+(;B[ab]C[]
+(;W[ac]C[]
+(;B[ae];W[ef]
+(;B[ca]C[Black livesRIGHT])
+(;B[bb]C[]))
+(;B[ef];W[ae]
+(;B[af];W[eb])
+(;B[ca];W[eb])))
+(;W[ef]C[CHOICE]
+(;B[ac];W[bb];B[ae];W[eb])
+(;B[bb];W[ca]
+(;B[ac];W[ba])
+(;B[ba];W[ac]))
+(;B[ae];W[da]
+(;B[ac];W[bb])
+(;B[bb];W[eb];B[ac];W[ba]))
+(;B[ba];W[ca]
+(;B[ac];W[da];B[ae];W[eb];B[bb]C[Black livesRIGHT])
+(;B[ae];W[eb]
+(;B[ac];W[da];B[bb]C[Black livesRIGHT])
+(;B[bb];W[da];B[ac]C[Black livesRIGHT])))
+(;B[ca];W[eb]
+(;B[bb];W[da]
+(;B[ac];W[ba])
+(;B[ba];W[ac]))
+(;B[ac];W[da];B[bb];W[ba]))))
+(;B[ae];W[ef];B[ac];W[eb]
+(;B[bb];W[da];B[ba];W[ab];B[aa];W[ca])
+(;B[ca];W[da];B[bb];W[ba])
+(;B[da];W[ca]))
+(;B[ca];W[eb]
+(;B[bb];W[da];B[ae];W[ef])
+(;B[da];W[ba]))
+(;B[da]
+(;W[eb])
+(;W[ca]))
+(;B[eb];W[fb]C[Not actually wrong, but it is equal to the initial situation and I was too lazy to do all the (same) variations from this point over again :-)]))

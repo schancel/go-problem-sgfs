@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4k]DP[29]SO[ceram88]CO[0]AW[fi]AW[fj]AW[gk]AW[hj]AW[hl]AW[il]AW[jl]AW[hh]AW[gh]AW[hg]AW[jk]AW[kk]AW[jj]AW[ji]AB[jh]AW[jg]AB[kg]AB[lh]AB[ki]AB[kj]AB[li]AW[mh]AW[lg]AW[lf]AB[mg]AB[mf]AB[nf]AB[ne]AB[oe]AW[me]AB[le]AB[ke]AB[he]LB[he:2]LB[jl:1]AB[fd]AB[fc]AB[kc]AB[kb]AW[lb]AW[nc]AW[nd]AW[pc]AW[pb]AB[pd]AB[od]AW[qd]AW[rd]AW[rc]AB[qc]AW[ng]AW[of]AW[og]AW[oh]AB[pg]AB[pf]AB[qe]AB[re]AB[pj]AB[ql]AW[qn]AW[pn]AB[ro]AB[qo]AB[qp]AB[pp]AB[pq]AB[or]AB[nq]AW[pr]AW[ps]AW[qq]AW[rq]AW[rp]AW[rs]AB[rr]AB[sr]AB[im]AB[hm]AB[gn]AB[fm]AB[gl]AB[fl]AB[fk]AB[ek]AB[ej]AB[ei]AB[fh]AB[dh]AB[eg]AB[gg]AB[ef]AB[df]AB[cg]AW[cf]AW[de]AW[dd]AW[cd]AW[be]AW[ec]AB[ck]AW[lq]AW[kq]AW[kp]AB[jp]AB[ip]AW[iq]AW[hp]AW[ho]AW[io]AW[jo]AW[in]AW[hn]AW[go]AW[fo]AW[fn]AW[fp]AB[jn]AB[kn]AB[km]AB[kl]AB[ko]AB[lo]AB[lp]AW[no]AW[mo]AW[mn]AW[ln]AW[nm]AB[nn]AB[on]AB[oo]AB[om]AW[dp]AW[cm]AW[en]AW[dn]AW[dm]AB[em]AB[dl]AB[lk]AW[qr]C[Black responded to white 1 with black 2. What can white do?]AP[goproblems]
+(;W[jm]
+(;B[gm]C[CHOICE]
+(;W[mp];B[mq];W[ll];B[lm];W[mm]C[Note: black would simply allow you to take the four stones rather than suffer this terrible loss. Arguably playing H15 is bigger than covering for this in gote. This sequence would be more proper slightly later in the end game. RIGHT])
+(;W[mq];B[mp]
+(;W[np];B[ll])
+(;W[ll];B[np]))
+(;W[ll];B[mp]))
+(;B[mq];W[gm]C[This is the path that would happen in the real game if black notices the tesuji. It should be noted that this is only 6 points gote for white, and other moves may be worth more at this point in the game. RIGHT]))
+(;W[mp];B[mq]
+(;W[jm]
+(;B[ll];W[gm]C[This is the path that would happen in the real game if black notices the tesuji. It should be noted that this is only 6 points gote for white, and other moves may be worth more at this point in the game. RIGHT])
+(;B[gm];W[ll];B[lm]))
+(;W[ll];B[gm];W[lm];B[jm]))
+(;W[mq];B[mp];W[jm];B[gm];W[np];B[ll])
+(;W[ll];B[mp];W[jm];B[gm];W[np];B[mq]))

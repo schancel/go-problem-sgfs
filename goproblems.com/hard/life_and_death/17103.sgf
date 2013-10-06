@@ -1,0 +1,14 @@
+(;GE[life and death]DI[4d]DP[7]SO[hanxu1981]CO[0]AB[ap]AB[aq]AB[ar]AB[br]AB[bq]AB[bp]AB[cq]TR[ap]TR[bp]TR[bq]TR[aq]TR[ar]TR[br]TR[cq]AW[ao]AW[bo]AW[bn]AW[bm]AW[as]AW[cp]AW[dp]AW[dr]AW[fp]AB[am]AB[al]AB[bk]AB[cl]AB[cn]AB[dn]AB[en]AB[fo]AB[go]AB[gq]AB[hq]AB[hr]AB[fs]C[although a group of black is surrounded, Black can still kill white unconditionally.]AP[goproblems]
+(;B[es]
+(;W[dq];B[ds];W[cs];B[cr];W[bs];B[bq];W[aq];B[cr];W[ar];B[br]C[B kill WRIGHT])
+(;W[cs];B[co];W[dq];B[cm];W[bs];B[bl];W[cr];B[bq];W[aq];B[bp];W[br];B[an]C[w still dieRIGHT])
+(;W[ds];B[dq];W[eq];B[er]C[w is simply deadRIGHT])
+(;W[cr];B[cs]
+(;W[ds];B[dq];W[er];B[eq];W[fr];B[fq])
+(;W[dq];B[ds];W[bs];B[bq];W[aq];B[br])))
+(;B[dq];W[eq];B[er];W[fr];B[ds]C[ko])
+(;B[ds];W[cs];B[dq];W[eq];B[er];W[es]C[ko])
+(;B[eq];W[dq];B[ds];W[cs];B[es];W[cr]C[W alive])
+(;B[cs];W[ds];B[dq];W[eq];B[er];W[fr]C[B fails])
+(;B[co];W[dq];B[cm];W[cr];B[bl];W[bs];B[bq];W[bp]LB[aq:A]LB[ds:B]C[W can get A or B to make two eyes])
+(;B[cr];W[ds];B[dq];W[eq];B[er];W[fr]C[B fails]))

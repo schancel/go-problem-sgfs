@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[4k]DP[28]SO[naustin]CO[0]AB[dd]AB[dc]AB[ed]AB[fe]AB[gf]AB[ef]AB[df]AB[eh]AB[ei]AB[ej]AB[dj]AB[gh]AW[cc]AW[db]AW[ec]AW[fc]AW[fd]AW[ge]AW[he]AW[be]AB[ce]AW[cf]AW[cg]AW[dh]AW[di]C[Black to cut white in two.]AP[goproblems]
+(;B[cb]
+(;W[bb]
+(;B[bc];W[bd];B[cd];W[ca];B[cc];W[ac];B[eb];W[ea]C[Ko.  Black can do better.])
+(;B[cd];W[bc];B[bd];W[ad];B[bf];W[ae]
+(;B[af];W[ac])
+(;B[bg];W[bh]))
+(;B[eb];W[ca];B[fb];W[gb])
+(;B[bd]C[RIGHT])))
+(;B[cd];W[bc];B[bd];W[ad]
+(;B[bf];W[ae];B[af];W[ac];B[cb];W[bb];B[eb];W[ca])
+(;B[cb];W[bb];B[eb];W[ca];B[fb];W[gb]))
+(;B[bd];W[cd]
+(;B[cb];W[de]
+(;B[ee];W[bb];B[ce];W[bc])
+(;B[eb];W[ee]))
+(;B[de];W[bc]))
+(;B[eb];W[cb]
+(;B[cd];W[bd])
+(;B[bd];W[cd];B[bf];W[de];B[ee];W[ce]))
+(;B[bf];W[bd]
+(;B[bg];W[bh])
+(;B[cd];W[bb])
+(;B[bc];W[cd];B[cb];W[eb])))

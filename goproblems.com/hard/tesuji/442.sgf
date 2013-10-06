@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[6d]DP[2]SO[Spirit]CO[8]AB[ar]AB[br]AB[cq]AB[dp]AB[eo]AB[fo]AB[go]AB[gq]AB[ho]AB[ip]AB[iq]AB[ir]AB[is]AW[aq]AW[bn]AW[bp]AW[bq]AW[co]AW[do]AW[en]AW[fn]AW[gn]AW[hn]AW[hp]AW[io]AW[jp]AW[jq]AW[jr]AW[js]C[Is there anything white can do?]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[eq]MN[1]
+(;B[dq];W[ep];B[fq]
+(;W[dr];B[cr];W[gr]C[RIGHT]
+(;B[fr];W[hq]C[RIGHT])
+(;B[hq];W[fr];B[ds];W[er]
+(;B[es];W[fs];B[cs];W[fp];B[gp];W[hs]C[RIGHT])
+(;B[hr];W[fs];B[hs];W[cs];B[bs];W[cp];B[fp]C[RIGHT]))
+(;B[hr];W[fr];B[fp];W[er];B[ds];W[hq];B[gp];W[hq];B[hp];W[fs];B[hs];W[bs];B[cs];W[cp]C[RIGHT]))
+(;W[er];B[dr]))
+(;B[ep];W[cr];B[dr];W[dq];B[cp];W[cs]
+(;B[er];W[bs]C[RIGHT])
+(;B[ds];W[gp];B[bs];W[cr];B[cs];W[fp];B[cr];W[fq];B[fs];W[gr];B[gs];W[hq];B[hs]C[RIGHT])))
+(;W[ep];B[eq])
+(;W[cr];B[dr];W[eq];B[dq];W[ep];B[fq])
+(;W[dr];B[cr])
+(;W[dq];B[eq];W[dr];B[cr];W[cp];B[ep];W[er];B[fr];W[gp];B[hq]))

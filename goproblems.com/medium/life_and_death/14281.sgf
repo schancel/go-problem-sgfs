@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1d]DP[15]SO[bass]CO[0]SZ[4]AB[ca]AB[da]AB[db]AB[ac]AB[ad]AB[cd]AW[bd]AW[bc]AW[cb]AW[dc]AW[dd]AP[goproblems]
+(;B[bb]
+(;W[ba];B[cc];W[ab]
+(;B[aa];W[bc]
+(;B[bd];W[ab];B[db];W[bc];B[ca];W[da];B[bb];W[dc];B[aa]C[Black captures everything!RIGHT])
+(;B[ca];W[bd]
+(;B[db];W[da];B[cc];W[cd];B[db];W[ab];B[ac];W[da]C[white gets everything])
+(;B[cc];W[cd];B[db];W[da]C[white gets everything.]))
+(;B[db];W[ab];B[bd];W[bb];B[dc]C[only seki.]))
+(;B[ca];W[bc];B[db];W[bb];B[bd];W[da]C[black dies.])
+(;B[db];W[bc]
+(;B[bd];W[bb];B[dc]C[only seki.])
+(;B[ca];W[bb]C[White captures everything.])))
+(;W[ab]C[Reference variation: this does not help white.];B[cc];W[ba];B[cb];W[dc];B[aa]C[Black gets everything.RIGHT]))
+(;B[cc];W[bb]
+(;B[ba];W[ab]C[black dies])
+(;B[dc];W[ba]C[black dies.])
+(;B[ab];W[aa]C[black dies.])))

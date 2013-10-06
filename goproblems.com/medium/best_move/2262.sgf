@@ -1,0 +1,50 @@
+(;GE[best move]DI[2k]DP[21]SO[ferdi]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[da][bb][ac][bc][dd]AB[aa][cb][db][cc][ad]C[Black to play - what's his best result?]
+(;B[cd]CR[cd]
+(;W[ba]CR[ba]
+(;B[bd]CR[bd]C[White can't play c4, so he is dead RIGHT])
+(;B[ca]CR[ca]
+;W[bd]CR[bd]C[This is only a jigo....]))
+(;W[ca]CR[ca]
+;B[ba]CR[ba]
+;W[ca]CR[ca]
+(;B[da]CR[da]
+;W[bd]CR[bd]
+;B[dc]CR[dc]C[Seki, Black wins by three points (4 prisoners against 1)])
+(;B[bd]CR[bd]
+;W[ab]CR[ab]
+;B[ba]CR[ba]C[White is dead])))
+(;B[ca]CR[ca]
+;W[bd]CR[bd]
+(;B[ba]CR[ba]
+;W[cd]CR[cd]C[This is only a jigo - seki....])
+(;B[cd]CR[cd]
+;W[ba]CR[ba]C[This is only a jigo]))
+(;B[ba]CR[ba]
+;W[cd]CR[cd]C[This is only a jigo - seki])
+(;B[dc]CR[dc]
+;W[ba]CR[ba]
+(;B[cd]CR[cd]
+;W[ca]CR[ca]C[White wins!])
+(;B[ca]CR[ca]
+(;W[cd]CR[cd]
+;B[bd]CR[bd]
+;W[cd]CR[cd]
+;B[bd]CR[bd]
+;W[ad]CR[ad]C[Seki, White wins by one point (4 prisoners against 3)])
+(;W[bd]CR[bd]
+;B[cd]CR[cd]C[White wins by one point!])))
+(;B[bd]CR[bd]
+;W[cd]CR[cd]
+;B[bd]CR[bd]
+;W[ba]CR[ba]
+(;B[ca]CR[ca]
+;W[ad]CR[ad]C[Black is lost])
+(;B[dc]CR[dc]
+(;W[ca]CR[ca]
+;B[cd]CR[cd]
+;W[ab]CR[ab]C[Jigo, White wins by one point (3 prisoners against 2)])
+(;W[cd]CR[cd]
+;B[ca]CR[ca]
+;W[ad]CR[ad]C[Jigo, White wins by one point (4 prisoners against 3)]))))

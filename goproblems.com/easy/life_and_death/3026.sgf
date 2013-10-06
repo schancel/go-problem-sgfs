@@ -1,0 +1,12 @@
+(;GE[life and death]DI[4k]DP[30]SO[unkx80]CO[6]AB[ra]AB[rb]AB[qc]AB[qd]AB[rd]AB[rf]AB[sf]AW[rg]AW[ri]AW[qg]AW[qf]AW[pe]AW[pc]AW[nc]AW[pb]AW[qb]AW[sc]AW[sd]C[Black to play.]AP[goproblems]
+(;B[re]
+(;W[sb]C[CHOICE];B[rc]C[RIGHT])
+(;W[rc]C[CHOICE];B[sb]C[RIGHT]))
+(;B[qe]C[Please see problem 3024.])
+(;B[se];W[sg];B[re];W[sb])
+(;B[sb];W[re]
+(;B[qe];W[sg])
+(;B[rc];W[qe];B[se];W[sd]))
+(;B[rc];W[re]
+(;B[qe];W[sg])
+(;B[sb];W[qe];B[se];W[sd])))

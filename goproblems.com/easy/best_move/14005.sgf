@@ -1,0 +1,12 @@
+(;GE[best move]DI[6k]DP[37]SO[Field Mouse]CO[0]AB[jb]AB[kc]AB[lb]AB[kd]AB[ke]AB[lc]AW[mb]AW[mc]AW[md]AW[ld]AW[jc]AW[ib]AW[jd]AW[je]AB[kf]AB[lg]AB[mf]AW[me]AW[kg]AW[jg]AW[jf]AB[nf]AB[of]AB[pf]AB[mh]AB[nh]AB[oh]AB[ph]AB[qg]AB[qe]AB[re]AB[rf]AW[pe]AW[pd]AW[qd]AW[rg]AW[rh]AW[qi]AW[pi]AW[oi]AW[ni]AW[mi]AW[li]AW[kh]AW[ng]AW[og]AW[oc]AW[pb]AB[oe]C[Black can sure live quite easily. What is the best way?]AW[dd]AW[ce]AW[be]AW[fd]AB[eb]AB[db]AW[cc]AW[bb]AB[cb]AW[ba]AB[fb]AW[gd]AB[lh]AB[qh]AW[ri]AW[rc]AB[rd]AB[sd]AB[sc]AW[rb]AB[sb]AW[sf]AW[ra]AW[qc]AW[od]AP[goproblems]
+(;B[ia];W[ha]
+(;B[ja];W[lf]
+(;B[le];W[la]
+(;B[hb];W[kb]C[Not the best way :)])
+(;B[kb];W[hb]C[Ouch!]))
+(;B[hb];W[le]C[White is quite happy with this.]))
+(;B[ka];W[ja]AB[od]))
+(;B[ka]C[Yes. Simple, isn't it? :)RIGHT])
+(;B[ja];W[la];B[hb];W[lf];B[le];W[ia];B[ic];W[kb]C[This is not good.])
+(;B[la];W[ja]C[No.])
+(;B[hb];W[ja];B[ka];W[kb]C[Sorry. The ko is too good for white - you don't even have a local ko threat!]))

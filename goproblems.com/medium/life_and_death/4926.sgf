@@ -1,0 +1,12 @@
+(;GE[life and death]DI[3d]DP[9]SO[hseedtime]CO[6]SZ[9];AB[da]AB[cb]AB[cc]AB[cd]AB[dd]AW[dc]AW[db]AW[eb]AW[fb]AW[ed]AW[fd]AW[gc]AW[gd]AB[cg]AB[eg]AB[gg]C[Black to connect all groups and live big.]AW[ce]AW[de]AP[goproblems];B[be];W[bf]
+(;B[cf];W[bd];B[ae];W[ad];B[ee];W[af];B[be];W[ae];B[df];W[be]C[OK. you've followed the normal descend-throw in pattern. Nowhere is where I consider the real problem. Its best if you can read throughthis basic pattern from the beginning and then read on to win from this point.]
+(;B[bc];W[ab]C[B made the wrong move and W corrects it with this shape-killing tesuji. Read out thefew variations and you'll see that B loses.])
+(;B[ab]
+(;W[ba]
+(;B[ca];W[bb];B[bc];W[ac];B[aa];W[bb]C[As you see, B dies.];B[bg])
+(;B[bc]C[Correct. W gets a little back, but its nothing compared to the
+8 stone gift he just gaveRIGHT]))
+(;W[bc];B[bb];W[ba]
+(;B[bg]C[This move is not as correct as C19, as now there are more ko threats])
+(;B[ca];W[ea];B[bg]C[Yes the solution. Least-ko-threats-life.RIGHT]))))
+(;B[ee];W[cf]C[Order of moves IS important. now either B will live in 2 piecesor B  will crumble completely because there are no ko threats]))

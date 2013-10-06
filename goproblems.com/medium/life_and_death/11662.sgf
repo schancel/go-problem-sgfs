@@ -1,0 +1,60 @@
+(;GE[life and death]DI[1d]DP[16]SO[MeleeNewb]CO[0]AW[sr]AW[rr]AW[qr]AW[pr]AW[oq]AW[nq]AW[mr]AB[ls]AB[lr]AB[lq]AB[mq]AB[np]AB[op]AB[pq]AB[qq]AB[rq]AB[sq]C[Black plays and the white group (L)ives, gets a (S)eki, gets a (K)o, or (D)ies unconditionally?FORCE]LB[ln:L]LB[nn:S]LB[pn:K]LB[rn:D]AP[goproblems]
+(;B[pn];W[on]C[Go for it.]
+(;B[os];W[ns]
+(;B[ms];W[ps]
+(;B[rs];W[or]
+(;B[nr]C[Good job!RIGHT])
+(;B[qs]C[Very funny.])
+(;B[ss]C[Very funny.])
+(;B[os]C[What? What are you doing? How did you even go there?]))
+(;B[nr];W[rs])
+(;B[or];W[nr])
+(;B[qs];W[rs])
+(;B[ss];W[rs]))
+(;B[or];W[ps]
+(;B[nr];W[rs])
+(;B[rs];W[nr]))
+(;B[rs];W[nr])
+(;B[nr];W[or])
+(;B[ps];W[nr])
+(;B[qs];W[nr])
+(;B[ss];W[nr]))
+(;B[nr];W[or]
+(;B[ms];W[os])
+(;B[ns];W[os]))
+(;B[ms];W[os]
+(;B[nr];W[or])
+(;B[ns];W[or])
+(;B[or];W[nr];B[ns];W[or]))
+(;B[ns];W[os]
+(;B[ms])
+(;B[nr];W[or])
+(;B[or];W[nr];B[ms]))
+(;B[or];W[nr]
+(;B[ms];W[os];B[ns];W[or])
+(;B[ns];W[os];B[ms];W[or])
+(;B[os];W[ps]))
+(;B[ps];W[os]
+(;B[nr];W[or])
+(;B[ms];W[nr])
+(;B[ns];W[or])
+(;B[or];W[nr]))
+(;B[qs];W[ns]
+(;B[ms];W[nr];B[ps];W[rs])
+(;B[nr];W[or];B[ms];W[nr])
+(;B[os])
+(;B[or];W[nr]))
+(;B[rs];W[ns]
+(;B[ms];W[nr])
+(;B[nr];W[or];B[ms];W[nr])
+(;B[os])
+(;B[ps];W[nr])
+(;B[or];W[nr])
+(;B[qs];W[nr]))
+(;B[ss];W[ns]
+(;B[ms];W[nr])
+(;B[or];W[nr])
+(;B[ps];W[nr])))
+(;B[ln]C[No, black can do better.])
+(;B[nn]C[No, black can do better])
+(;B[rn]C[No, black cannot get an unconditional kill.]))

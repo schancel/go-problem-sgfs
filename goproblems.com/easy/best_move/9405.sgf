@@ -1,0 +1,9 @@
+(;GE[best move]DI[15k]DP[60]SO[Bleedo]CO[6]AB[rb]AB[qc]AB[sc]AB[rd]AB[pd]AB[qe]AB[re]AW[sd]AW[se]AW[sf]AW[rf]AW[qf]AW[pf]AW[pe]AB[oe]AB[of]AB[na]AB[nb]AB[nc]AB[mc]AB[md]AB[ld]AW[lc]AW[mb]AW[ma]AB[og]AB[ng]AB[mg]AB[lg]AW[pg]AW[rg]AB[sg]AW[od]LB[od:1]LB[nc:2]C[Black makes a costly mistake by answering 1 with 2. Punish him for it.I added better black moves =DCHOICE]AW[lb]AP[goproblems]
+(;W[pc];B[pb];W[qd]C[This could be a ko, but since the loss would be too great and the gain too small for black, he will probably refuse the ko.];B[rc]
+(;W[pd];B[oc]C[Still you pushed a spear into black's crack in the wall =DRIGHT])
+(;W[ob];B[pd]C[Even if you win the meager ko, P18 is doomed. Unless of course you plan on making this a multi-step ko... which in this case would be typically insane.])
+(;W[oc]AW[lb]C[];B[pd]AW[lb]C[Big loss, small win ko... can be considered a picnic ko.]))
+(;W[oc];B[pc])
+(;W[nd];B[oc]
+(;W[pc];B[pb])
+(;W[ne];B[me])))

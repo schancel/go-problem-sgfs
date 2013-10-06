@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[5k]DP[35]SO[TnekKralc]CO[0]AB[qd]AW[pe]AW[qe]AW[re]AB[qg]AB[og]AW[pc]AW[ob]AW[mb]AW[lb]AW[lc]AW[ld]AB[nb]AB[mc]AB[md]AB[me]AB[le]AB[je]AB[ic]AP[goproblems]
+(;B[od];W[pd];B[na]C[Correct answer.  Peeping w/ B 1 is the key move.  W has no choice but 2 defend at 2 & limit his loss.  B can now isolate the 4 W stones at the top with 3.RIGHT]LB[od:1]LB[pd:2]LB[na:3])
+(;B[oc];W[na];B[pd];W[od]C[Wrong answer.  B 1 fails.  B may try 3 in response to 2, but after W 4 he has no follow-up.]LB[oc:1]LB[na:2]LB[pd:3]LB[od:4])
+(;B[na];W[nc]
+(;B[nd];W[oc]C[B fails :-(])
+(;B[od];W[pd];B[oc]C[RIGHT])))

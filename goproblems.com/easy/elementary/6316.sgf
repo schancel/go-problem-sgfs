@@ -1,0 +1,21 @@
+(;GE[elementary]DI[12k]DP[56]SO[maba]CO[8]AB[qs]AB[qr]AB[pr]AB[rr]AB[sq]AB[sp]AB[ro]AB[qp]AB[qq]AW[or]AW[os]AW[ps]AW[nq]AW[pq]AW[pp]AW[qo]AW[qn]AW[sn]AW[rn]AW[sl]AW[rl]AW[qk]AW[pk]AW[pj]AW[oj]AW[nk]AW[nl]AW[ll]AW[lm]AW[mm]AW[kn]AW[jo]AW[io]AW[jq]AB[jn]AB[jm]AB[km]AB[kl]AB[lk]AB[mk]AB[ml]AB[mj]AB[nj]AB[oi]AB[pi]AB[qi]AB[qj]AB[ri]AB[rk]AB[sj]C[Black to do something.]AP[goproblems]
+(;B[ln];W[ko]
+(;B[nm];W[mn]
+(;B[ol];W[ok]
+(;B[ql]C[RIGHT])
+(;B[nn];W[mo];B[ql]C[RIGHT]))
+(;B[nn];W[mo]
+(;B[ol];W[ok];B[ql]C[RIGHT])
+(;B[ql];W[pl];B[ol]C[RIGHT]))
+(;B[ql];W[pl]
+(;B[ol]C[RIGHT])
+(;B[nn];W[mo];B[ol]C[RIGHT])))
+(;B[mn];W[nm]))
+(;B[ko];W[ln])
+(;B[nm]
+(;W[om]C[CHOICE]
+(;B[ln]C[RIGHT])
+(;B[nn];W[ln]))
+(;W[ln]C[CHOICE]
+(;B[ol];W[ok];B[ql]C[RIGHT])
+(;B[ql];W[pl];B[ol]C[RIGHT]))))

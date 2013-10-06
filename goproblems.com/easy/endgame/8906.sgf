@@ -1,0 +1,33 @@
+(;GE[endgame]DI[5k]DP[33]SO[ldan]CO[8]SZ[9]AW[ca]AW[da]AW[ea]AW[bb]AW[db]AW[cc]AW[ad]AW[bd]AW[de]AW[ee]AW[df]AW[ag]AW[bg]AW[cg]AW[dg]AW[fg]AW[gg]AW[eh]AW[fh]AW[hh]AW[ih]AB[fa]AB[eb]AB[fb]AB[dc]AB[fc]AB[cd]AB[dd]AB[ed]AB[fd]AB[ae]AB[be]AB[ce]AB[fe]AB[cf]AB[ef]AB[ff]AB[gf]AB[hf]AB[eg]AB[hg]AB[ig]AB[dh]AW[ch]LB[dh:1]LB[ch:2]C[White responded to black 1 with 2, which was a mistake.  Punish him and win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]TW[aa]TW[ba]TW[ab]TW[cb]TW[ac]TW[bc]TB[ga]TB[ha]TB[ia]TB[gb]TB[hb]TB[ib]TB[ec]TB[gc]TB[hc]TB[ic]TB[gd]TB[hd]TB[id]TB[ge]TB[he]TB[ie]TB[if]
+(;B[ab];W[bc]
+(;B[ba];W[aa]
+(;B[gi];W[ba];B[gh];W[di]
+(;B[hi];W[fi];B[ii]C[That's it! The marked formation was the source of white's weakness.RIGHT]TR[bb]TR[cc]TR[db]TR[bd])
+(;B[ii];W[fi];B[hi]C[That's it! The marked formation was the source of white's weakness.RIGHT]TR[bb]TR[cc]TR[db]TR[bd])
+(;B[fi];W[ei]))
+(;B[gh];W[ba];B[gi];W[di]
+(;B[hi];W[fi];B[ii]C[That's it! The marked formation was the source of white's weakness.RIGHT]TR[bb]TR[cc]TR[db]TR[bd])
+(;B[ii];W[fi];B[hi]C[That's it! The marked formation was the source of white's weakness.RIGHT]TR[bb]TR[cc]TR[db]TR[bd])
+(;B[fi];W[ei]))
+(;B[di];W[ba]C[The D1 group doesn't really threaten white.]))
+(;B[aa];W[ba]C[The lower white groups are safe now the ko threat has gone...]))
+(;B[gi];W[gh]
+(;B[ab];W[bc];B[ba];W[aa]C[You don't have a ko threat])
+(;B[ei];W[di])
+(;B[fi];W[di])
+(;B[hi];W[di])
+(;B[ci];W[di])
+(;B[di];W[ci]))
+(;B[gh];W[gi];B[ab];W[bc];B[ba];W[aa]C[You don't have a ko threat])
+(;B[di];W[ab]
+(;B[gi];W[gh])
+(;B[ci];W[bi])
+(;B[ei];W[fi])
+(;B[fi];W[gi])
+(;B[bi];W[ci]))
+(;B[ac];W[bc]C[Now what?])
+(;B[ci];W[di];B[ab];W[bc];B[ba];W[aa]C[You don't have a ko threat])
+(;B[ei];W[di];B[ab];W[bc];B[ba];W[aa]C[You don't have a ko threat])
+(;B[bc];W[ac])
+(;B[aa];W[ab])
+(;B[ba];W[aa]))

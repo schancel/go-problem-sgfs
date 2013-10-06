@@ -1,0 +1,48 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[be][ce][ee][fe][df][ef][eg][ah][bh][ch][dh]
+AB[bb][bd][cd][dd][ed][fd][ae][de][ge][gf][gg][eh][fh][ai][bi][ci][di][ej]
+LB[ae:1]PL[2]
+C[Harrison has just played 1. how can adum save his stones?
+]
+(;W[af];B[bf]
+(;W[cf];B[ag];W[bg]
+C[RIGHT
+of course, adum missed this in the actual game
+])
+
+(;W[ad];B[cf]
+(;W[ae];B[ac];W[ag];B[cg])
+
+(;W[cg];B[ae])
+
+(;W[bg];B[ae])
+)
+
+(;W[ag];B[cf])
+)
+
+(;W[bf];B[cg]
+(;W[bg];B[af])
+
+(;W[af];B[bg])
+)
+
+(;W[cf];B[af])
+
+(;W[bg];B[bf]
+(;W[cf];B[af])
+
+(;W[af];B[cf])
+)
+
+(;W[cg];B[bf];W[cf];B[af])
+
+(;W[ag];B[bf];W[cf];B[af])
+
+)

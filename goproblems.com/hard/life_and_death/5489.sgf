@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5d]DP[5]SO[nutcase]CO[7]AB[rb][pc][pd][nc][oe][of][og][pg][qg][rg][sg][sf]
+AW[pe][pf][qf][rf][se][rd][qd][qb]SZ[19]
+(;B[re]
+(;W[sb]
+(;B[sc]
+(;W[rc]
+(;B[sa];W[sd];B[qe];W[sb]C[RIGHT])
+(;B[ra];W[sd]C[Wrong.]))
+(;W[ra]
+(;B[rc];W[qc];B[sa]C[RIGHT])
+(;B[sa]C[RIGHT])))
+(;B[qc];W[rc];B[ra];W[qe]C[Wrong.])
+(;B[ra];W[qe];B[qc];W[rc]C[Wrong.]))
+(;W[qe];B[qc];W[rc];B[sc];W[ra];B[sb];W[qa];B[pb]C[RIGHT])
+(;W[qc];B[qe];W[ra];B[sb]C[RIGHT])
+(;W[ra];B[sb]C[RIGHT]))
+(;B[qc];W[rc];B[sc];W[ra];B[sb];W[sd];B[re];W[sa];B[qe]C[Wrong.]))

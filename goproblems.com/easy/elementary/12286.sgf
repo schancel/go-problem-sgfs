@@ -1,0 +1,6 @@
+(;GE[elementary]DI[30k]DP[85]SO[santa c]CO[0]AW[ek]AW[el]AW[fk]AB[fl]AB[fm]AB[gk]AW[en]AW[fn]AB[gn]AB[go]AB[fo]AW[eo]AW[gm]C[How to deal with the cutting stone?]MA[gm]AW[ho]AP[goproblems]
+(;B[hm]C[Well done! White is captured and you're connected! =)RIGHT])
+(;B[hl];W[hm]C[W splits the black stones into two groups!]MA[gn]MA[go]MA[fo]TR[hl]TR[gk])
+(;B[hn];W[hl]C[W splits the black stones into two groups!]MA[gn]MA[go]MA[fo]TR[gk]MA[hn])
+(;B[gl];W[hm]C[W splits the black stones into two groups!]MA[gn]MA[go]MA[fo]TR[gk]TR[gl]TR[fl]TR[fm])
+(;B[em]LB[gl:1]LB[dm:2]LB[hn:3]C[W splits the black stones into three groups!]MA[fo]MA[go]MA[gn]LB[fl:O]LB[fm:O]TR[gk]))

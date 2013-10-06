@@ -1,0 +1,223 @@
+(;GE[tesuji]DI[5d]DP[4]SO[incster10]CO[8]
+
+;AB[bb][bc][bg][bn][br][cc][cg][ch][cj][ck][cl][cm][cn][cp][cq][cr][dk][dn][dq][ds][ec][el][em][er][es][fg][fk][gd][gg][gh][gi][gk][gl][gr][hd][he][hh][hm][hq][hr][id][ig][ii][ij][ik][im][in][io][ip][ir][jc][jg][jl][jm][jp][kc][kg][lb][lf][lp][lq][mh][ml][mo][mp][nf][nh][nj][nk][nl][no][of][oh][oo][pb][pc][pf][pg][pi][pj][pk][po][qc][qd][qe][qf][qk][ql][qo][qp][re][rk][rm][rn][sd][sk][sl]
+;AW[ac][an][ar][bd][bf][bl][bm][bo][bp][bq][bs][ce][co][dh][dj][dl][do][dp][ee][ef][eg][ej][ek][ep][eq][fh][fi][fl][fm][fo][fp][fr][fs][ge][gf][gm][gp][gq][hf][hg][hl][hp][if][ih][il][iq][jd][jf][jh][ji][jj][jk][jn][jo][kd][kl][km][lc][lk][ln][lo][mb][mc][mj][mk][mn][mr][nd][ne][ng][nn][nq][ob][oc][og][oi][ol][on][oq][pd][pe][ph][pl][pn][pp][qg][qh][qi][qj][qm][qn][qq][rb][rc][rd][rf][rg][rj][ro][rp][rr][se][sf][sh][sq]C[Black to catch a big white group.
+
+Please start wtih the tesuji.]
+(
+;B[ld]
+;W[kf]C[Tesuji!]
+(
+;B[li]
+(
+;W[ll]C[CHOICE]
+;B[le];W[fd];B[fc];W[en];B[dm];W[gj];B[hi]
+(
+;W[dg]
+(
+;B[di];W[bi];B[ci]
+(
+;W[af]
+(
+;B[cd]
+(
+;W[cf];B[de]
+(
+;W[dd]
+;B[ed]C[RIGHT]
+)
+(
+;W[ed];B[dd];W[df];B[ff]C[RIGHT]
+)
+)
+(
+;W[dd];B[cf];W[ed];B[ff]C[RIGHT CHOICE]
+)
+)
+(
+;B[cf]C[RIGHT]
+;W[cd]
+(
+;B[ed]C[RIGHT]
+;W[dd]
+)
+(
+;B[df];W[ed];B[ff];W[dc];B[db];W[de];B[ag];W[ic]
+(
+;B[hc];W[ib];B[jb]
+)
+(
+;B[ib];W[gc];B[hc];W[gb];B[fb];W[ie];B[ke];W[je];B[hb]
+)
+)
+)
+)
+(
+;W[cf];B[ae];W[af];B[ad];W[be];B[ad]
+(
+;W[bk];B[bj];W[aj];B[am];W[al];B[ai];W[ah];B[ag]C[RIGHT CHOICE]
+)
+(
+;W[ag]C[If white makes a desperate effort to connect underneath...]
+;B[ah]
+(
+;W[aj]
+(
+;B[am];W[bh];B[bj];W[ai];B[ak];W[ah];B[ao]C[RIGHT]
+)
+(
+;B[bj];W[ak];B[bh];W[ai];B[bk]C[RIGHT CHOICE
+You have just enough liberties
+]
+)
+)
+(
+;W[ai]
+(
+;B[am];W[al];B[bj];W[aj];B[ak];W[bk];B[bh]C[RIGHT CHOICE
+You have just enough liberties]
+)
+(
+;B[bh];W[ak];B[aj];W[bj];B[bk]C[RIGHT CHOICE 
+B just enough liberties again.]
+)
+)
+(
+;W[ak];B[am];W[ao];B[bk];W[al];B[aj];W[am];B[ai]C[RIGHT]
+)
+)
+)
+)
+(
+;B[cf];W[ae];B[di];W[ed];B[ff]C[RIGHT CHOICE w dies]
+)
+)
+(
+;W[di];B[dg];W[eh];B[ae];W[af];B[ad];W[be];B[ad];W[ag];B[ah]
+;W[bi];B[ci];W[bj];B[bk];W[ak];B[am];W[al];B[aj];W[ai];B[bh]C[RIGHT CHOICE]
+)
+)
+(
+;W[le]C[CHOICE]
+;B[lj]
+(
+;W[lm]
+;B[ko]C[ w dies]
+)
+(
+;W[ll];B[mm];W[lm];B[ko]C[w dies ]
+)
+)
+)
+(
+;B[lg]
+(
+;W[le];B[li];W[ll];B[mm];W[lj]C[w lives]
+)
+(
+;W[ll]
+(
+;B[le]C[RIGHT w group on the left dies.  Play m16 first, then m11 (or Navigate) to kill.  ]
+)
+(
+;B[ke];W[je];B[le]C[RIGHT w group on the left dies.  Play m16 first, then m11 (or Navigate) to kill.  ]
+)
+)
+)
+(
+;B[lh];W[le];B[ll]
+(
+;W[lm];B[ko];W[kh];B[lg];W[li]C[ w lives]
+)
+(
+;W[kh];B[lg];W[li]C[w lives]
+)
+)
+)
+(
+;B[li]C[A key move.]
+;W[ll]
+;B[ld]C[RIGHT The key move.  Play this move first to see how to kill w's group in the upper left.
+]
+)
+(
+;B[ke]C[Not the right move....]
+(
+;W[je]C[W can save everything by playing at M15.  But what if w plays here instead?  ]
+;B[ld];W[kf]
+(
+;B[le];W[lg];B[kh];W[lh];B[ki];W[li];B[kj];W[kk];B[lj];
+)
+(
+;B[li]C[The key spot.  ]
+;W[ki];B[lh];W[le]
+(
+;B[lj]C[CHOICE RIGHT ]
+)
+(
+;B[ll];W[lj];B[kk]C[CHOICE RIGHT]
+)
+)
+)
+(
+;W[le]C[If white plays here, she is safe.]
+(
+;B[je];W[kf];B[li];W[lg];B[kh];W[ll];B[ld];W[mf]
+)
+(
+;B[me];W[ld];B[je];W[kf];B[li];W[ll];B[ie];W[lg];B[kh];W[mf]
+)
+)
+)
+(
+;B[kh];W[kf]
+(
+;B[ll];W[li];B[ki];W[kj];C[RIGHT w dies]
+)
+(
+;B[lm];W[ll];B[mm];W[li];B[ki];W[kj];
+;W[lj]C[w lives]
+)
+(
+;B[ko];W[ll]
+(
+;B[mm];W[li];B[ki];W[kj];
+;W[lj]C[w lives]
+)
+(
+;B[lj];W[kn];B[mm]C[RIGHT w dies]
+)
+)
+(
+;B[ki]
+(
+;W[ll];B[mm];W[kj];B[lj]
+)
+(
+;W[kj]
+(
+;B[lj];W[ll];B[mm];W[ko];B[lm]
+)
+(
+;B[ll];W[lm];B[ko];W[li];C[RIGHT w dies]
+)
+)
+)
+(
+;B[li];W[ll];B[mm];W[lj];B[ki];W[kj]C[w lives]
+)
+)
+(
+;B[kf];W[je]
+(
+;B[ll];W[li];B[kk];W[kj];
+;W[kh];B[lj];W[lh];B[kk];C[w lives]
+)
+(
+;B[li];W[ll];B[mm];W[lj]C[w lives]
+)
+(
+;B[lm];W[ll];B[mm];W[li]C[w lives]
+)
+)
+)

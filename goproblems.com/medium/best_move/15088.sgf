@@ -1,0 +1,86 @@
+(;GE[best move]DI[3d]DP[10]SO[Ceram88]CO[0]AB[bo]AW[ap]AW[ao]AW[bp]AW[cp]AW[dp]AW[cq]AW[eo]AW[fo]AW[fn]AW[fm]AW[go]AW[fp]AW[fq]AW[hp]AW[ip]AB[jo]AB[io]AB[ho]AB[hn]AB[gn]AB[gm]AB[fl]AB[em]AB[en]AB[do]AB[co]AB[an]AB[bn]AB[dn]AB[ep]AB[eq]AB[dq]LB[ep:1]LB[fp:2]LB[eq:3]LB[fq:4]LB[dq:5]LB[cq:6]C[White, rushed by 5 second sudden death byo-yomi, plays the following exchange. Can black pull something off or should he tenuki (T)?]LB[jl:T]AW[js]AW[jr]AW[kq]AW[kp]AW[jp]AW[lr]AW[ls]AB[lq]AB[lp]AB[lo]AB[ko]AP[goproblems]
+(;B[cr];W[br]
+(;B[aq];W[bq];B[bs];W[ar]LB[jl:T]C[T to tenuki.]
+(;B[er]
+(;W[ds]C[T to tenuki.]LB[jl:T]
+(;B[cs]
+(;W[es]LB[jl:T]C[T to tenuki.]
+(;B[fr]
+(;W[gr]C[CHOICE]
+(;B[fs];W[gs]C[T to tenuki.]LB[jl:T]
+(;B[dr];W[ds]C[Huge seki. White can play differently (Instead of wD1, wF2) to slightly minimize the damage and keep sente, but a large seki is inevitable. RIGHT])
+(;B[jl];W[dr]C[Woops]))
+(;B[gs]LB[jl:T]C[RIGHT];W[hr]LB[jl:T]
+(;B[fs];W[hs];B[dr];W[es]C[RIGHT])
+(;B[hs];W[is];B[dr]C[];W[kl]C[White now plays elsewhere. Taking at F1 would cost him the seki.RIGHT])
+(;B[jl]C[];W[hs];B[dr]C[White now plays elsewhere. Taking at F1 would cost him the seki.RIGHT]))
+(;B[gq];W[gp];B[gs];W[hr]LB[jl:T]C[Tenuki at T.]
+(;B[fs];W[hs];B[dr];W[ds]C[RIGHT])
+(;B[hs];W[is];B[dr]C[];W[jl]C[White now plays elsewhere. Taking at F1 would cost him the seki.RIGHT])
+(;B[jl];W[hs]
+(;B[dr]
+(;W[kl]C[White now plays elsewhere. Taking at F1 would cost him the seki.RIGHT]))
+(;B[fs];W[dr])))
+(;B[dr];W[gs];B[fs];W[es]C[RIGHT]))
+(;W[fs]C[White should not play this, but if he does...];B[gs];W[gr];B[dr];W[fs];B[es]
+(;W[hr];B[as]C[RIGHT])))
+(;B[fs];W[fr];B[dr];W[es];B[ds]
+(;W[gs])
+(;W[gr]))
+(;B[jl];W[fr]C[Why would you even do that? You were so close!]))
+(;W[fr];B[es];W[fs];B[dr]C[RIGHT]))
+(;B[fr];W[cs]
+(;B[es];W[as];B[dr];W[gr];B[bs];W[cs])
+(;B[dr];W[gr]
+(;B[es];W[cs])
+(;B[fs];W[gs];B[es];W[cs]))
+(;B[gr];W[dr]))
+(;B[es];W[cs];B[dr];W[cs])
+(;B[dr];W[cs]
+(;B[fr])
+(;B[es];W[cs];B[fr];W[gr]))
+(;B[jl];W[cs];B[es];W[fr];B[dr];W[cs]))
+(;W[fr]C[T to tenuki.]LB[jl:T]
+(;B[ds];W[fs];B[es]C[RIGHT])
+(;B[es]
+(;W[ds];B[cs])
+(;W[fs]C[T to tenuki.]LB[jl:T]
+(;B[cs];W[dr]LB[jl:T]C[T to tenuki.]
+(;B[ds]C[Huge sekiRIGHT])
+(;B[jl];W[ds]))
+(;B[ds]C[RIGHT])
+(;B[jl];W[ds]))
+(;W[cs];B[ds];W[fs];B[cs]C[RIGHT]))
+(;B[cs];W[es];B[dr])
+(;B[fs];W[gs]
+(;B[es];W[ds])
+(;B[ds];W[es]C[Black gives white a ko. F1 was overplay.]))
+(;B[jl];W[es])))
+(;B[cs];W[er];B[dr];W[fr])
+(;B[ds];W[er];B[dr];W[es])
+(;B[dr];W[fr]
+(;B[cs];W[er])
+(;B[es];W[fs];B[er];W[cs]))
+(;B[es];W[dr])
+(;B[fr];W[dr]
+(;B[er];W[cs];B[gq];W[gp]C[Black has nothing.])
+(;B[cs];W[er]))
+(;B[jl];W[er]C[You could have had something.]))
+(;B[ds];W[er]C[This is what was played in the game, much to white's (my) satisfaction :P])
+(;B[dr];W[ar]
+(;B[fr];W[bs]C[Not enough room to make two eyes :(])
+(;B[bs];W[fr]
+(;B[bq];W[aq])
+(;B[aq];W[bq])
+(;B[cs];W[er]
+(;B[bq];W[aq])
+(;B[aq];W[bq]))
+(;B[es];W[er])))
+(;B[er]
+(;W[fr];B[aq];W[bq];B[bs];W[ar])
+(;W[cs];B[ds];W[dr]C[White can opt for a ko. RIGHT])
+(;W[ds];B[aq];W[bq];B[bs];W[ar])))
+(;B[dr];W[cr];B[fr];W[ds];B[er];W[gr]C[Black has nothing here.])
+(;B[jl]C[No, black could have done something!])
+(;B[er];W[cr]C[White can now easily defend the invasion.])
+(;B[fr];W[dr];B[er];W[cr];B[gq];W[gp]C[Black has no room to make eyes and is trapped between two living white groups.]))

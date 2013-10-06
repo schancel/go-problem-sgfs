@@ -1,0 +1,39 @@
+(;GE[best move]DI[4k]DP[30]SO[Stones]CO[8]AB[dp]AB[dq]AB[cr]AW[cq]AW[cp]AW[co]AB[bn]AW[eq]AW[er]AB[dr]AB[es]AW[cs]AW[ep]AW[gp]AB[bm]AB[dn]AB[dm]TR[co]TR[cp]TR[cq]C[Can white do anything for his 3 stones?  Tenuki(T) if not.]AB[eo]AB[fo]AW[gq]AW[ir]AW[io]AB[gm]LB[im:T]AP[goproblems]
+(;W[br];B[do]
+(;W[aq]C[Nice!RIGHT])
+(;W[fs];B[ds]
+(;W[bs];B[aq])
+(;W[aq];B[bs]))
+(;W[bs];B[ds]
+(;W[aq]C[Nice!RIGHT])
+(;W[ap];B[aq]
+(;W[ar];B[bp];W[bo];B[ao];W[bq]C[Nice!RIGHT])
+(;W[bq];B[bo]TR[ar]TR[bp])
+(;W[ao];B[bq])
+(;W[bo];B[bq])
+(;W[bp];B[ar])))
+(;W[ap];B[bs]))
+(;W[fs];B[do]
+(;W[ds];B[bs])
+(;W[br];B[ds]
+(;W[as];B[aq])
+(;W[bq];B[bs])
+(;W[bs];B[aq])))
+(;W[do];B[br]
+(;W[bq]
+(;B[bs];W[fs];B[ds];W[ar])
+(;B[aq])
+(;B[ar]C[CHOICE]
+(;W[ds];B[aq];W[ap];B[bo];W[bs];B[as]C[Three liberties to two.])
+(;W[aq];B[bs])
+(;W[bs];B[aq];W[ap];B[bo]
+(;W[as];B[ds])
+(;W[ds];B[as]C[Three liberties to two.]))))
+(;W[bp];B[bq]C[Three liberties to four.])
+(;W[bo];B[bq]))
+(;W[bq];B[br])
+(;W[bs];B[br]
+(;W[do];B[bq]C[Three liberties against four.])
+(;W[fs];B[ds];W[do];B[bq];W[bp];B[as]
+(;W[aq];B[ao])
+(;W[bs];B[cs];W[aq];B[ao]))))

@@ -1,0 +1,39 @@
+(;GE[life and death]DI[6k]DP[36]SO[BartTM]CO[6]C[Black to get a ko out of this.]AW[sa]AW[rb]AW[rc]AW[rd]AW[sd]AW[qe]AW[pe]AW[pd]AW[oc]AW[ob]AB[pb]AB[qb]AB[qc]AB[qd]AB[qf]AB[rf]AB[re]AB[se]AP[goproblems]
+(;B[sb];W[sc]
+(;B[ra];W[qa];B[pa]C[];W[oa];B[ra]C[Ko, and White has to find the first ko threat. This is the best result for Black.RIGHT])
+(;B[qa];W[pc]C[There's no way to capture White now.])
+(;B[pa];W[oa];B[ra];W[qa]C[Also ko, but now White takes first. You can do better than that.])
+(;B[oa];W[na]
+(;B[pa];W[pc]C[That's it then.])
+(;B[qa];W[pc]LB[nb:A]C[If Black would start a ko by playing at A white is first to take it, and also White can use running along the first line as ko threats as a last resort. This certainly is not the best possible ko for Black.])))
+(;B[ra];W[qa]
+(;B[pa];W[pc]
+(;B[ra];W[oa]C[Atari! Whatever you do now, White can capture the triangled stones at A. You did not see that coming, did you?]TR[pa]TR[pb]TR[qb]TR[qc]TR[qd]LB[qa:A])
+(;B[sb];W[oa]))
+(;B[sb];W[pc]C[Oh boy.])
+(;B[oa];W[pc])
+(;B[sc];W[pc]))
+(;B[qa];W[pc]
+(;B[sb];W[sc]C[There's no way to capture White now.])
+(;B[ra];W[pa])
+(;B[pa];W[ra])
+(;B[sc]C[Black can never give atari now.])
+(;B[oa];W[ra]))
+(;B[pa];W[ra]C[One eye against no eye; black is dead.])
+(;B[oa];W[pc]
+(;B[na];W[mb]
+(;B[ma];W[pa];B[qa];W[ra]LB[pa:A]LB[la:B]TR[pb]TR[qa]TR[qb]TR[qc]TR[qd]C[If A then B and vice versa. White doesn't even need a ko this way.])
+(;B[pa];W[nb]
+(;B[sb];W[ma]C[Gotcha.])
+(;B[ra];W[ma]LB[qa:A]C[Black cannot prevent White from capturing at A.]))
+(;B[sb];W[ra]C[Black can't approach.])
+(;B[ra];W[pa]C[Snapback!]))
+(;B[nb];W[qa]C[There is no way to escape atari now.])
+(;B[pa];W[na]C[Blammo.])
+(;B[qa])
+(;B[ra];W[qa])
+(;B[sb];W[qa]))
+(;B[sc];W[pa]C[White cannot be captured now; if you play R19 White simply connects at P19.])
+(;B[od];W[pc])
+(;B[pc];W[pa])
+(;B[pf];W[pc]))

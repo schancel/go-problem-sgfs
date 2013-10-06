@@ -1,0 +1,45 @@
+(;GE[life and death]DI[5k]DP[33]SO[unkx80]CO[5]AB[pa]AB[qb]AB[qc]AB[pc]AB[ob]AB[rc]AW[ra]AW[lb]AW[nb]AW[nc]AW[oc]AW[pd]AW[qd]AW[rd]C[Black to live in the best possible way.]AW[rf]AP[goproblems]
+(;B[rb];W[na]
+(;B[oa]LB[sc:A]LB[sd:B]C[Counting black A, white B, black live with 6 points.RIGHT])
+(;B[sc];W[oa]
+(;B[sa];W[pb];B[qa]C[Black loses points.])
+(;B[qa];W[sa])
+(;B[pb];W[sa]))
+(;B[qa];W[oa])
+(;B[sa];W[sc]
+(;B[oa];W[sb])
+(;B[sb];W[oa])
+(;B[qa];W[oa])))
+(;B[qa];W[na]
+(;B[oa];W[sb]
+(;B[sc];W[sd]C[White can get a seki.])
+(;B[rb];W[sc]))
+(;B[sc];W[oa])
+(;B[sb];W[oa])
+(;B[rb]))
+(;B[sb];W[na]
+(;B[oa];W[qa])
+(;B[qa];W[oa]))
+(;B[sc];W[na]
+(;B[rb];W[oa]
+(;B[sa];W[pb];B[qa]C[Black loses points.])
+(;B[qa];W[sa])
+(;B[pb];W[sa]))
+(;B[sa];W[oa]
+(;B[rb];W[pb];B[qa]C[Black loses points.])
+(;B[qa];W[rb])
+(;B[pb];W[sb]))
+(;B[oa];W[qa])
+(;B[sb];W[oa])
+(;B[qa];W[oa]))
+(;B[oa]
+(;W[na]
+(;B[rb]C[Counting black A, white B, black live with 6 points.RIGHT]LB[sc:A]LB[sd:B])
+(;B[qa];W[sb]
+(;B[sc];W[sd]C[White can get a seki.])
+(;B[rb];W[sc]))
+(;B[sb];W[qa])
+(;B[sc];W[qa])
+(;B[sa];W[sc]))
+(;W[sc];B[sb];W[sd];B[qa]LB[na:A]LB[ma:B]C[Although black has only 5 points, but black A and white B causes white to lose a point outside, so black does not lose points compared to the other solutions.RIGHT]))
+(;B[sa];W[sc]))

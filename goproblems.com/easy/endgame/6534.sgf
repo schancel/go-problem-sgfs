@@ -1,0 +1,7 @@
+(;GE[endgame]DI[10k]DP[53]SO[MrMoto]CO[6]AB[ab]AB[bc]AB[bd]AB[be]AB[de]AB[cf]AB[ef]AB[ed]AB[ec]AB[fd]AB[gd]AB[gc]AB[hd]AB[ic]AB[jc]AB[kd]AB[je]AB[ie]AW[ba]AW[bb]AW[cc]AW[dd]AW[cd]AW[eb]AW[fb]AW[fc]AW[gb]AW[hb]AW[hc]AW[jb]C[What can black do here?]AW[ha]AW[ib]AB[kb]AB[ka]AW[ja]AP[goproblems]
+(;B[dc];W[db]C[White has 6 points.  You can do better.])
+(;B[cb];W[db]C[You gave White a point!])
+(;B[ce];W[db]C[];B[dc];W[cb]C[White has 6 points.  You can do better.])
+(;B[db];W[cb]C[CHOICE]
+(;B[dc];W[da]C[You reduced White to 3 points; this is the best possible.RIGHT])
+(;B[da];W[dc])))

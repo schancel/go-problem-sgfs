@@ -1,0 +1,38 @@
+(;GE[life and death]DI[10k]DP[54]SO[vandrei]CO[0]AW[br]AW[bq]AW[cr]AB[dp]AB[eq]AB[er]AB[co]AB[bo]C[If you need a move to keep the corner dead then play it. Play at T if you think it is dead anyway.FORCE]AW[as]LB[eo:T]MA[eo]AP[goproblems]
+(;B[aq]C[You just wasted a move on a group that was already dead.])
+(;B[cs]C[You just wasted a move on a group that was already dead.])
+(;B[eo]C[];W[dr]C[White tries to live anyway. Now what?]
+(;B[ds];W[cs]
+(;B[aq];W[bp]
+(;B[ap];W[cp]
+(;B[dq]C[RIGHT])
+(;B[ao];W[dq]
+(;B[ar]C[RIGHT])
+(;B[es];W[ar]))
+(;B[es];W[dq]))
+(;B[ar];W[ap])
+(;B[es];W[ap]))
+(;B[ar];W[aq])
+(;B[es];W[aq])
+(;B[bp];W[aq])
+(;B[cp];W[aq])
+(;B[dq];W[aq]))
+(;B[cs];W[ds]
+(;B[aq];W[ap];B[bp]C[RIGHT])
+(;B[ap];W[aq])
+(;B[ar];W[aq]))
+(;B[aq];W[bp]
+(;B[ap]C[RIGHT])
+(;B[ds]C[RIGHT])
+(;B[cs]C[RIGHT])
+(;B[bs];W[ap]
+(;B[ar];W[cs])
+(;B[ds];W[cs])
+(;B[cs];W[ds]))
+(;B[ar];W[ap]))
+(;B[bp];W[aq])
+(;B[ap];W[aq])
+(;B[bs];W[aq]
+(;B[ar];W[cs])
+(;B[ds];W[cs])
+(;B[cs];W[ds]))))

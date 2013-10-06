@@ -1,0 +1,23 @@
+(;GE[best move]DI[1k]DP[19]SO[Field Mouse]CO[0]SZ[4]AB[ac]AB[bc]AB[ad]AB[bb]AB[cc]AW[ab]AW[aa]AW[ba]AW[ca]AW[da]AW[db]AW[dc]AW[dd]C[Can white do something here or has black already won? If you think black has already won play at C3.]LB[cb:+]AP[goproblems]
+(;W[cd];B[bd]C[Looks like a dead shape, isnt it?];W[cb];B[bc]
+(;W[ac];B[bd]AB[cc]AB[bb]C[Lets assume you have passed several times...];W[ad];B[bc]AB[cc]AB[bb]C[Again a few passes];W[bd];B[bc]AB[bb]C[Again..];W[cc];B[bc];W[bb];B[bc]
+(;W[cb];B[cc]
+(;W[bb];B[db]
+(;W[ac]C[];B[ca]
+(;W[ba];B[ab];W[da];B[dc]C[Black wins])
+(;W[aa];B[bd]C[Black wins])
+(;W[ab];B[ba];W[bd];B[dc];W[cd]C[And white wins (16 captures to 15 and the board is seki!) In fact the position was a very special form of seki after your first move as black lost one point by capturing white group.RIGHT])
+(;W[bd];B[cd]
+(;W[dc];B[ad]
+(;W[da];B[ab];W[ba]C[And white wins (18 captures to 17 and the board is seki!)RIGHT])
+(;W[ab]C[White kills all :)RIGHT]))
+(;W[ab];B[ba];W[dc]C[Yes, white captures all :)RIGHT])
+(;W[ba];B[ab];W[da];B[ad];W[dc]C[And white wins by one point! :)RIGHT])))
+(;W[ab];B[ac]C[Black wins.]))
+(;W[db];B[bb]C[Black wins.]))
+(;W[bb];B[cb]C[No chance here. Black wins])
+(;W[cc];B[cb]C[No chance here. Black wins.]))
+(;W[bd]C[NOTTHISRIGHT])
+(;W[bb];B[bd];W[ac];B[cc];W[ad];B[bc]AB[bd];W[cc];B[bc];W[bd];B[bc];W[cb];B[cc];W[bb];B[db];W[ac];B[ca];W[bd];B[dc];W[ab];B[ba];W[cd]C[White loses - 12 captures against 15.]))
+(;W[cb]C[There was a secret way...])
+(;W[bd];B[cd]C[There was a better way.]))

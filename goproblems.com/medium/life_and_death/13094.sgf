@@ -1,0 +1,49 @@
+(;GE[life and death]DI[3k]DP[27]SO[pseudog]CO[0]SZ[19]AW[na]AW[nb]AW[rb]AW[nc]AW[oc]AW[qc]AW[rc]AW[od]AW[oe]AW[pe]AW[qe]AW[re]AW[se]AB[oa]AB[ob]AB[pb]AB[pc]AB[pd]AB[qd]AB[rd]AB[sd]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[qb];W[ra]
+(;B[qa];W[sc]C[Dead.])
+(;B[sc];W[sb]C[Dead.])
+(;B[sb];W[sc]C[Dead.])
+(;B[sa];W[qa]C[Dead.]))
+(;B[qa];W[ra]
+(;B[qb];W[sc]C[Dead.])
+(;B[sc];W[qb]
+(;B[sb];W[pa]C[without ko threats, black is dead.])
+(;B[sa];W[pa]C[without ko threats, black is dead.])
+(;B[pa];W[sb]C[!!!]))
+(;B[sb];W[qb]
+(;B[pa];W[sc])
+(;B[sa];W[sc])
+(;B[sc];W[pa]C[without ko threats, black is dead.]))
+(;B[sa];W[qb];B[sc];W[pa]C[ko]))
+(;B[sb];W[qa]
+(;B[sc];W[sa];B[ra];W[mf]LB[nf:A]C[you have to answer a huge threat at A.];B[nf];W[sa]LB[ng:A]C[Play at A.];B[ng];W[qb];B[ra];W[mg]LB[mh:A]C[you have to answer a huge threat at A.];B[mh];W[sa]C[without ko threats, black is dead.])
+(;B[qb];W[sa]
+(;B[ra];W[mg]LB[ng:A]C[you have to answer a huge threat at A.];B[ng];W[sa]C[without ko threats, black is dead.])
+(;B[sc];W[pa]C[!!!]))
+(;B[ra];W[qb];B[sc];W[sa]C[without ko threats, black is dead.]))
+(;B[sc];W[sb]
+(;B[qa];W[qb])
+(;B[qb];W[qa])
+(;B[ra];W[qb])
+(;B[sa];W[qb]))
+(;B[sa];W[qb]C[dead.])
+(;B[ra];W[qa]
+(;B[pa];W[sc];B[qb];W[qa])
+(;B[qb];W[sa]
+(;B[sc]C[ Good, seki.RIGHT])
+(;B[sb];W[sc]C[Dead.]))
+(;B[sa];W[sb]
+(;B[pa];W[qb]C[Dead.])
+(;B[qb];W[sc]C[Dead.])
+(;B[ra];W[qb]C[Dead.])
+(;B[sa];W[qb]C[Dead.])
+(;B[sc];W[qb]C[Dead.]))
+(;B[sb];W[qb]LB[nf:A]C[if you want to tenuki, play A.]
+(;B[pa];W[sc]C[!!!])
+(;B[sc];W[sa]C[without ko threats, black is dead.])
+(;B[sa];W[sc]C[Dead.])
+(;B[nf];W[sa]LB[of:A]C[if you want to tenuki, play A.]
+(;B[sc];W[pa]C[!!!])
+(;B[of];W[sc]C[Dead.])
+(;B[pa];W[sc]C[!!!])))
+(;B[sc];W[sb])))

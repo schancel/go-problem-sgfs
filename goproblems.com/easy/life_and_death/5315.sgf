@@ -1,0 +1,28 @@
+(;GE[life and death]DI[8k]DP[49]SO[Emile]CO[6]AB[pa]AB[pb]AB[ob]AB[nb]AB[na]AB[nc]AB[mc]AB[ld]AB[le]AB[lf]AB[mf]AB[nf]AW[md]AW[me]AW[pd]AW[pe]AW[qc]AW[qb]AW[qa]AB[og]AW[pc]AW[lc]AW[lb]AW[kd]AW[jc]AW[ke]AW[kf]AW[kg]AW[kh]AW[li]AW[mh]AB[oi]AB[qh]AW[rg]AW[rh]AW[qf]AW[rj]AW[mk]AW[lk]AW[qi]AW[re]AW[nj]AW[of]AB[oe]LB[of:1]LB[oe:2]AW[pk]AB[pj]AB[ok]AW[ol]AW[nl]AW[qk]C[White threatened to cut with p14, after which black didn't believe that it could be cut, so he played at p15. A fatal (life&death) mistake. Show him how.]AP[goproblems]
+(;W[od]
+(;B[nd]C[What does this look like?CHOICE];W[ne];B[oe]
+(;W[ne]C[Indeed, a snapback, but one that you can snap back at him also. With the triangle stone, this nicely renders the eye at n16 false. Black should have just made his second eye at n15 and let the other stones get cut.RIGHT]TR[lc])
+(;W[pf];B[ne])
+(;W[ng];B[pf]))
+(;B[ne];W[nd]C[Black is just dead.RIGHT])
+(;B[pf];W[nd]C[Black is just dead.RIGHT]))
+(;W[pf];B[ne]
+(;W[ng]C[Okay, you have cut, but you could've killed.])
+(;W[od];B[nd];W[ng]C[Okay, you have cut, but you could've killed.])
+(;W[pg];B[nh]C[Hmm, not a very good result. Especially because you could've killed.])
+(;W[nd];B[od]C[Black is alive]))
+(;W[nd];B[od]C[Black is alive])
+(;W[ne];B[nd]C[Black lives])
+(;W[oc];B[ne]
+(;W[nd];B[od])
+(;W[od];B[nd]))
+(;W[ng];B[pf]
+(;W[pg];B[ph];W[of]C[Just a ko to cut. Kill all black stones unconditionally.])
+(;W[od];B[nd]C[Black is alive]))
+(;W[pg];B[ne]C[Why start a ko when you can kill?])
+(;W[oh];B[pf]C[Black is safe now and white cut off even less than he was aiming for when he played p14.])
+(;W[ph];B[pf]C[Black is safe now and white cut off less than he was aiming for when he played p14.])
+(;W[nh];B[pf]C[Black is safe now and white cut off less than he was aiming for when he played p14.FORCE];W[oh]C[FORCE];B[ph]C[FORCE];W[pi]C[FORCE])
+(;W[sb]C[Are you paying attention?])
+(;W[sg]C[Are you paying attention?])
+(;W[mg];B[pf]C[Black lives and you cut off nothing]))

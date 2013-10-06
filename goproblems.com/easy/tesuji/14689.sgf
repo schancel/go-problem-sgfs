@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[6k]DP[37]SO[DarkSycthe]CO[0]AW[iq]AW[ip]AW[hq]AW[ir]AW[jq]AW[mq]AB[kp]AB[jo]AB[io]AB[ho]AB[gp]AB[gq]AB[hs]AB[gr]AB[hr]MA[ip]MA[iq]MA[hq]MA[ir]MA[jq]C[What is the best Black can do about the marked stones, if White responds in the best manner?FORCE]LB[gm:Kill]LB[im:Ko]LB[km:Nothing]AB[jp]AW[qp]AW[nq]AP[goproblems]
+(;B[gm]C[];W[hm]C[Please demonstrate.]
+(;B[kq];W[kr]
+(;B[lr];W[lq]
+(;B[jr];W[js];B[is];W[mr];B[hp]C[RIGHT])
+(;B[ks];W[js]
+(;B[is];W[ls];B[hp]C[Ok, but why give up a stone?RIGHT])
+(;B[jr];W[im]C[White plays a threat. Please respond at A.]LB[jm:A];B[jm];W[kr]LB[km:K]C[Play K if you want a ko threat.FORCE]
+(;B[is];W[ls];B[hp]C[RIGHT])
+(;B[km]C[You just wasted a ko threat.]))
+(;B[hp];W[ls];B[is]C[RIGHT])
+(;B[ls];W[mr]
+(;B[is];W[ms])
+(;B[jr]C[Now it's a ko.])))
+(;B[js];W[jr]C[White stubbornly resists.]
+(;B[ks];W[mr];B[ls]C[RIGHT])
+(;B[ls]C[RIGHT]))
+(;B[is];W[mr]
+(;B[jr];W[js])
+(;B[js];W[jr];B[ls]C[RIGHT])
+(;B[ks];W[ls])
+(;B[hp];W[jr];B[ls];W[ms]))
+(;B[ls]C[RIGHT])
+(;B[mr];W[nr]))
+(;B[js];W[jr];B[lr];W[lq])
+(;B[jr];W[js];B[lr];W[lq])
+(;B[is];W[lr]))
+(;B[lr];W[lq];B[kq];W[kr])
+(;B[kr];W[kq];B[lq];W[lr])
+(;B[lq];W[lr]))
+(;B[km]C[Nope. Black can kill. Navigate solution for details.])
+(;B[im]C[Nope. Black can kill. Navigate solution for details.]))

@@ -1,0 +1,56 @@
+(;GE[life and death]DI[5k]DP[35]SO[tristesse]CO[7]SZ[19]AW[qb]AW[qc]AW[rc]AW[pc]AW[pd]AW[pe]AW[ob]AB[nb]AB[nc]AB[od]AB[of]AB[pf]AB[qf]AB[qd]AB[rd]AB[sc]AB[rb]C[Problem VI.1 from The Game of Go by Arthur Smith.]FF[1]GM[1]AP[Jago:Version 4.6]GN[vi]
+(;W[sb];B[sa]
+(;W[qa];B[sb]
+(;W[ra]
+(;B[sd];W[qe]C[But if black was any wiser she wouldn't try to save the two stones though...RIGHT]))
+(;W[qe]C[RIGHT]))
+(;W[qe];B[re]
+(;W[qa];B[rg];W[ra]C[RIGHT])
+(;W[rf];B[rg]
+(;W[qa];B[sf];W[ra]C[RIGHT])
+(;W[sd])
+(;W[se]))))
+(;W[qa];B[sb])
+(;W[ra];B[sb];W[pa]C[Nuh uh, not that simple. R19 is false.])
+(;W[pa]C[Not enough space to make eyes here, Buster.])
+(;W[qe]
+(;B[re]
+(;W[rf];B[rg]
+(;W[sd];B[se];W[sb];B[sa];W[qa];B[sf];W[ra];B[sd]C[Backwards approach...RIGHT])
+(;W[sb];B[sa]
+(;W[qa];B[sf];W[ra];B[sd];W[sb]C[Backwards approach...RIGHT])
+(;W[sd];B[se];W[qa];B[sf];W[ra];B[sd];W[sb]C[Backwards approach...RIGHT])
+(;W[se];B[sf];W[qa];B[sb];W[ra];B[sd]))
+(;W[se];B[sf];W[sb];B[sa];W[qa];B[sb];W[ra];B[sd]))
+(;W[sb];B[sa]
+(;W[qa];B[rg];W[ra]C[RIGHT])
+(;W[rf];B[rg]
+(;W[qa];B[sf];W[ra]C[RIGHT])
+(;W[sd]C[RIGHT])
+(;W[se])))
+(;W[sd];B[se];W[sb];B[sa];W[qa]C[RIGHT]))
+(;B[rf]C[Black might also try this.]
+(;W[re];B[se]
+(;W[sb];B[sa]
+(;W[qa];B[sb]
+(;W[ra]C[RIGHT])
+(;W[sd];B[rd]))
+(;W[sd];B[rd])
+(;W[ra];B[qa]
+(;W[pa];B[sb]
+(;W[ra]C[Ko])
+(;W[sd];B[rd]))
+(;W[sd];B[rd]))
+(;W[pa];B[sb]
+(;W[ra];B[qa]C[Ko])
+(;W[sd];B[rd])))
+(;W[sd];B[rd];W[qa];B[sd];W[sb];B[sa];W[ra];B[sb])
+(;W[qa];B[sd];W[sb];B[sa];W[ra])
+(;W[ra];B[sb]))
+(;W[qa];B[sb];W[re];B[se]
+(;W[sd];B[rd])
+(;W[ra];B[sd]))
+(;W[ra];B[sb]
+(;W[re];B[se])
+(;W[se];B[re]))
+(;W[sd];B[se]))))

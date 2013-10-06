@@ -1,0 +1,115 @@
+(;GE[life and death]DI[1k]DP[18]SO[bass]CO[9]AB[pp]AB[pq]AB[qp]AB[rp]AW[ro]AW[rn]AW[po]AW[pn]AW[op]AW[oq]AW[or]AW[mr]AP[goproblems]
+(;B[rr];W[qr];B[pr]
+(;W[sr]
+(;B[sq];W[rs];B[ss]C[direct ko, black takes first.RIGHT])
+(;B[rq];W[ps]C[black is dead.])
+(;B[sp];W[rs]C[black is dead.])
+(;B[qq];W[sp];B[sq];W[rq]C[direct ko, white takes first.])
+(;B[qs];W[sp]C[black is dead.]))
+(;W[ps]C[this is a mistake by white. black can live.];B[rs]
+(;W[qs];B[qq];W[os];B[sq])
+(;W[sp]TR[qo]C[black has an extra liberty, and therefore will live.];B[sq];W[qs];B[qq];W[os];B[so])))
+(;B[rs]
+(;W[sp]
+(;B[sr];W[qr];B[pr];W[rr]
+(;B[rq];W[qs];B[ps];W[ss]C[direct ko, white takes first])
+(;B[qs];W[sq];B[rq];W[ss]C[direct ko, white takes first.]))
+(;B[sq];W[qr];B[pr];W[rr]
+(;B[rq];W[ps]C[black is dead.])
+(;B[sr];W[ps]C[black is dead.])
+(;B[qs];W[rq];B[so];W[sr]C[black is dead.])
+(;B[ps];W[rq];B[so];W[sr]C[black is dead.]))
+(;B[rq];W[qr];B[pr];W[rr]
+(;B[sr];W[qs];B[ps];W[ss]C[direct ko, white takes first.])
+(;B[qs];W[sq];B[sr];W[ss]C[direct ko, white takes first.])
+(;B[ps];W[sq];B[sr];W[ss]C[two-step ko for black, direct ko for white.])
+(;B[qq];W[sr]C[black is dead.])
+(;B[sq];W[ps]C[black is dead.])))
+(;W[sr]C[this is a mistake by white. black can avoid ko.];B[rq];W[qr];B[pr]
+(;W[ps];B[qs];W[rr];B[os]C[seki.])
+(;W[qs];B[ps];W[rr];B[sq]TR[qo]C[black lives due to his extra liberty.])
+(;W[rr];B[qs];W[sp];B[sq]C[seki.]))
+(;W[qr]C[this does not help white.];B[pr]
+(;W[ps]C[this is a mistake by white.];B[rr];W[sp];B[sq];W[qs];B[qq];W[os];B[so]C[black lives.])
+(;W[rr];B[qs];W[sp];B[rq];W[sq];B[sr];W[ss]C[still ko.])
+(;W[sr]C[this is a mistake by white.];B[sp]
+(;W[ps];B[qs];W[rr];B[os]C[seki.])
+(;W[qs];B[rr];W[rq];B[qq];W[ss];B[sq];W[ps];B[rr]C[black lives.]))))
+(;B[pr]
+(;W[rr]
+(;B[rs];W[sp]
+(;B[rq];W[sq];B[sr];W[ss]C[direct ko, white takes first.])
+(;B[sq];W[qr]
+(;B[qs];W[rq];B[so];W[sr]C[black is dead.])
+(;B[ps];W[rq];B[so];W[sr]C[black is dead.]))
+(;B[sr];W[rq]C[black is dead.]))
+(;B[qr]
+(;W[sq];B[sp];W[rq];B[rs];W[ps];B[sr];W[ss]C[ko for life.])
+(;W[rq]C[this does not help white.];B[sp]
+(;W[rs];B[sr];W[ps];B[qs]C[seki.])
+(;W[sr];B[rs];W[ps];B[sq]C[seki.])
+(;W[sq];B[rs];W[ps];B[sr]C[ko for life.]))
+(;W[sp]C[CHOICE]
+(;B[sq];W[rq];B[so];W[sr]
+(;B[rs];W[sp]C[ko for seki, white takes first.])
+(;B[sp];W[rs]C[black is dead.])
+(;B[ps];W[rs]C[black is dead.]))
+(;B[rq];W[sq]C[black is dead.])
+(;B[sr];W[sq]C[black is dead.])))
+(;B[ps];W[rq]
+(;B[sp];W[rs]C[black dies.])
+(;B[sq];W[sr];B[sp];W[rs]C[black is dead.]))
+(;B[qs];W[rq]
+(;B[sp];W[rs];B[sr];W[qr]C[black is dead.])
+(;B[sq];W[sr]C[black is dead.]))
+(;B[rq]C[NOTTHIS])
+(;B[sp]C[NOTTHIS])
+(;B[sq]C[NOTTHIS])
+(;B[sr]C[NOTTHIS]))
+(;W[sr]C[this is a trick play by white. black can avoid ko.];B[sp];W[qr];B[rs]
+(;W[qs];B[rr];W[rq];B[qq];W[ss];B[sq];W[ps];B[rr])
+(;W[ps];B[qs];W[rr];B[os]C[seki.])))
+(;B[qr];W[rq]
+(;B[sp];W[rr]
+(;B[rs];W[ps]
+(;B[qs];W[sr]LB[sq:A]LB[pr:B]C[black dies.])
+(;B[sr];W[qs]C[direct ko, white takes first.]))
+(;B[sr]
+(;W[sq];B[rs];W[ss]
+(;B[pr]
+(;W[ps];B[sr]C[direct ko, black takes first.RIGHT])
+(;W[qs];B[ps];W[os]C[black can choose between a favorable direct ko and a two-stage ko.RIGHT]LB[qq:A]LB[rs:B]))
+(;B[ps]
+(;W[pr];B[sr]C[direct ko, black takes first.RIGHT])
+(;W[qs];B[pr]C[this is the complicated way of playing.];W[os]C[black can now choose between a favorable direct ko and a two-stage ko.RIGHT]LB[qq:A]LB[rs:B]))
+(;B[qq];W[qs];B[ps];W[pr];B[rs]C[direct ko, black takes first.RIGHT]))
+(;W[rs]C[this is a mistake by white.];B[pr]C[seki.])
+(;W[ps]C[this is a mistake by white.];B[qs]
+(;W[rs];B[pr]C[seki.])
+(;W[sq];B[rs];W[ss];B[qq]C[black lives.])))
+(;B[pr];W[ps]
+(;B[rs];W[sq];B[sr];W[ss]C[direct ko, white takes first])
+(;B[qs];W[sr]C[black dies.])
+(;B[sr];W[qs];B[rs];W[ss]C[good ko for white.]))
+(;B[qs];W[pr]C[black dies.]LB[sr:A]LB[rs:B]))
+(;B[sq];W[sr]
+(;B[sp];W[rr];B[rs];W[pr]C[black is dead.])
+(;B[rr];W[sp]C[black is dead.]))
+(;B[sr]
+(;W[sq];B[sp];W[rr]
+(;B[rs];W[ss]
+(;B[pr]
+(;W[ps];B[sr]C[direct ko, black takes first.RIGHT])
+(;W[qs];B[ps];W[os]C[black can choose between a favorable direct ko and a two-stage ko.RIGHT]LB[qq:A]LB[rs:B]))
+(;B[ps]
+(;W[pr];B[sr]C[direct ko, black takes first.RIGHT])
+(;W[qs];B[pr];W[os]C[black can choose between a favorable direct ko and a two-stage ko.RIGHT]LB[qq:A]LB[rs:B]))
+(;B[qq];W[qs];B[ps];W[pr];B[rs]C[direct ko, black takes first.RIGHT]))
+(;B[qs];W[ss]C[black dies.]))
+(;W[rs]C[this is a mistake by white. black can avoid ko.];B[pr]C[black gets a seki, white cannot play at 'A' because of the marked liberty.]TR[qo]LB[sq:A])))
+(;B[sr];W[qr];B[pr];W[ps]C[black is dead.])
+(;B[rq];W[qr]C[black is dead.])
+(;B[qs];W[pr];B[qr];W[rq]C[black is dead.])
+(;B[sq];W[qr];B[pr];W[ps]C[black is dead.])
+(;B[sp];W[qr];B[pr];W[ps]C[black is dead])
+(;B[ps];W[pr];B[qr];W[rq]C[black is dead.]))

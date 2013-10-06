@@ -1,0 +1,44 @@
+(;GE[elementary]DI[12k]DP[59]SO[adum]CO[7]AW[rp][sp][pq][rq][qr][qs]AB[sn][qo][ro][op][pp][qp][oq][or][os]C[black to kill
+]
+(;B[sr]
+;W[rr]
+(;B[ss]C[RIGHT
+White has no possibility left of making a second eye.])
+(;B[rs]CR[rs]
+;W[sq]CR[sq]C[White lives])
+(;B[qq]CR[qq]
+;W[ss]CR[ss]
+(;B[rs]CR[rs]
+;W[sq]CR[sq]C[White lives.])
+(;B[pr]CR[pr]
+;W[sq]CR[sq]))
+(;B[pr]CR[pr]
+;W[ss]CR[ss]
+(;B[rs]CR[rs]
+;W[sq]CR[sq]C[White lives.])
+(;B[qq]CR[qq]
+;W[sq]CR[sq]))
+(;B[sq]CR[sq]
+;W[ss]CR[ss]C[White has two eyes.]))
+(;B[rr]
+;W[sr]
+(;B[ss]
+;W[rs])
+(;B[rs]
+;W[ss])
+(;B[qq]CR[qq]
+;W[rs]CR[rs]C[White has three eyes (and in fact that last move was not even necessary to live)]))
+(;B[ss]
+;W[sr]
+(;B[rs]
+;W[rr])
+(;B[qq]
+;W[rs])
+(;B[rr]CR[rr]
+;W[rs]CR[rs]))
+(;B[rs]
+;W[sr])
+(;B[qq]
+;W[sr])
+(;B[pr]
+;W[sr]))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[3k]DP[27]SO[santa c]CO[8]AW[ra]AW[qb]AW[pc]AW[oc]AB[rb]AB[sb]AB[qc]AB[qd]AW[od]AW[nd]AW[nb]AW[mb]AW[mc]AB[lc]AB[lb]AB[ld]AB[ma]AB[jb]AB[ne]AB[oe]AB[pe]AB[md]C[Black to move]AP[goproblems]
+(;B[oa]
+(;W[na]
+(;B[pb];W[qa]
+(;B[sa]C[Well done! :)RIGHT])
+(;B[pd];W[rc]
+(;B[rd];W[la];B[ka];W[ob]C[:(])
+(;B[la];W[sc]C[:(];B[rd];W[sa]
+(;B[rb]C[Seki. But isn't enough as killing the group was possible.])
+(;B[sb]C[NOTTHIS])
+(;B[sd];W[pa]C[:(]))
+(;B[sc]C[NOTTHIS]))
+(;B[la];W[ob]C[:(]))
+(;B[la];W[pb]C[:(])
+(;B[pd];W[pb]C[:(])
+(;B[pa];W[pb]C[:(]))
+(;W[ob];B[na];W[pa];B[la]C[RIGHT])
+(;W[pa];B[na];W[ob];B[la]C[RIGHT]))
+(;B[na];W[oa]
+(;B[pb];W[pa];B[qa]MA[qb]C[:(])
+(;B[la];W[pb]C[:(])
+(;B[pa];W[la]C[:(]))
+(;B[ob];W[oa]C[:(])
+(;B[pb];W[pa];B[qa]MA[qb]C[Ko. But it's not good enough as kill was possible!])
+(;B[pa];W[oa]
+(;B[pb];W[ob]C[:(])
+(;B[qa];W[pb]C[:(]))
+(;B[pd];W[pb]C[:(]))

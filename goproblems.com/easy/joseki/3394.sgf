@@ -1,0 +1,13 @@
+(;GE[joseki]DI[4k]DP[29]SO[santa c]CO[6]AB[oe]LB[qe:A]LB[pd:x]LB[qd:x]LB[qc:x]LB[pc:x]LB[oc:x]LB[nc:x]LB[qf:x]C[Have you ever tried to approach a 5x5 with a 3x5? Do you know the joseki? Start at 'A'.FORCE]AP[goproblems];W[qe]C[Unfortunatly, the CHOICE tag, only allows, 2 branches, so bR14, won't be played automatically by the applet... Although R14 is such a nice move - It asks to have the right side... And go is a game of sharing - You give som, take some... And try to get just slightly more to win... But we won't have white's decision shown by the applet... :(]
+(;B[oc]
+(;W[qh];B[qc]C[Nice! ;)CHOICERIGHT])
+(;W[qc];B[pg];W[rg];B[jd]C[Nice! ;)RIGHT]))
+(;B[qd]
+(;W[rd]C[White predders to get a bigger right side.];B[pd]
+(;W[qg]C[White keeps the 'Right side idea' in mind..];B[rc];W[qj]C[Nice! ;)CHOICERIGHT])
+(;W[qc]C[White choses to get a life and keep sente.];B[pc];W[rb];B[qb];W[rc];B[qf];W[re];B[pf]C[Nice! ;)RIGHT]))
+(;W[pd]C[And white'd rather fight... (<- Is that a rhyme?;)];B[pe];W[qc];B[rd];W[qf];B[pc];W[od];B[qb];W[oc];B[pb];W[md];B[ne];W[ld];B[pi];W[qh];B[og];W[qi];B[pj];W[qk];B[id]C[Nice! ;)RIGHT]))
+(;B[qf]C[];W[rf];B[pf]
+(;W[pd];B[rg];W[od];B[re];W[rd];B[sf];W[md]C[Well done! Isn't it really nice? :)RIGHT])
+(;W[qc]C[White shows himslef to be a lose type of player.. (That is if you belive that players have certain habbits - Such as playing tight or lose..) Anyway - Go is a game of sharing... But so you really think it's a good move? :)];B[rg];W[nc];B[rd]C[Okie - I'm not sure about this one - Seems too good for black in my opinion - What's going on?! (Playable, but.. waaa, imo)RIGHT])
+(;W[qg]C[I'll quote what's written in the dictionary - Instead of twisting it for a change... - 'White 6 is not recommended.'];B[rg];W[rh];B[re];W[sg];B[qd];W[pg];B[jd]C[Doesn't look too good, for white, does it?])))

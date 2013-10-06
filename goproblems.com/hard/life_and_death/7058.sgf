@@ -1,0 +1,53 @@
+(;GE[life and death]DI[5d]DP[6]SO[MrMoto]CO[8]AW[ao]AW[bo]AW[cp]AW[bq]AW[aq]AW[dq]AW[dr]AB[es]AB[er]AB[eq]AB[ep]AB[dp]AB[do]AB[co]AB[cn]AB[bn]AB[an]C[Black to kill the corner (with ko).]AP[goproblems]
+(;B[ds];W[cr])
+(;B[cs];W[cr]
+(;B[ds];W[bs])
+(;B[bs];W[br])
+(;B[br];W[bs];B[as];W[ar]))
+(;B[bs];W[br]
+(;B[ds];W[cr])
+(;B[cr];W[ds])
+(;B[cs];W[cr]))
+(;B[as];W[br])
+(;B[ar];W[br])
+(;B[br];W[cr]
+(;B[bs];W[ds])
+(;B[cs];W[bs];B[as];W[ar]))
+(;B[cr];W[br]
+(;B[ds];W[bs]
+(;B[cq];W[bp])
+(;B[bp];W[cq]
+(;B[ap];W[cs])
+(;B[cs];W[ap]))
+(;B[cs];W[cq]))
+(;B[bp];W[cq]
+(;B[ap];W[cs])
+(;B[cs];W[ds]))
+(;B[cs];W[bs]
+(;B[bp];W[cq]
+(;B[ds];W[ap])
+(;B[ap];W[ds]))
+(;B[ds];W[cq]))
+(;B[bs];W[ds]))
+(;B[cq];W[cr])
+(;B[ap];W[bp])
+(;B[bp]
+(;W[cr]
+(;B[ap];W[bs])
+(;B[bs];W[ap])
+(;B[ds];W[ap])
+(;B[cq]MA[cp];W[bs]
+(;B[ar];W[ds])
+(;B[ap];W[ds])
+(;B[cp];W[ds])
+(;B[ds];W[cp]MA[cq]LB[fm:K]C[(play K for ko threat)]
+(;B[cq]C[NOTTHIS])
+(;B[ap];W[ar])
+(;B[fm];W[fn];B[cq];W[ar]
+(;B[ap];W[cs])
+(;B[cs];W[cp]C[(play K for ko threat)]MA[cq]LB[gm:K]
+(;B[cq]C[NOTTHIS])
+(;B[gm];W[gn];B[cq]MA[cp]C[Good work! :)RIGHT])
+(;B[ap];W[cq]))
+(;B[cp];W[cs])))))
+(;W[ap]C[This is a mistake.];B[cr];W[br];B[ds];W[cq];B[bs];W[cs]MA[cr]C[Now black only needs 1 ko threat instead of 2.])))

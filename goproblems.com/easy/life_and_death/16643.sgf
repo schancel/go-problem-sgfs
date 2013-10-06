@@ -1,0 +1,19 @@
+(;GE[life and death]DI[6k]DP[37]SO[magrock]CO[0]AW[bb]AW[cb]AW[db]AW[fc]AW[ec]AW[dd]AW[de]AW[ef]AW[ac]AB[bc]AB[cc]AB[dc]AB[bd]AB[be]AB[cf]AB[ed]AB[fd]AB[gd]AB[hc]C[kill]AP[goproblems]
+(;B[gb];W[fb]
+(;B[fa];W[ea];B[ga];W[ab];B[gc];W[eb])
+(;B[ea];W[fa]))
+(;B[fb]
+(;W[eb]C[CHOICE];B[gb]
+(;W[ea]C[CHOICE]
+(;B[ab];W[aa];B[ca]C[RIGHT])
+(;B[ca]C[RIGHT]))
+(;W[ab]C[CHOICE];B[ea]C[RIGHT]))
+(;W[gb]C[CHOICE];B[eb];W[gc]
+(;B[hb]C[RIGHT])
+(;B[ga]C[RIGHT])))
+(;B[ea];W[gb];B[ga];W[hb];B[fb];W[gc];B[ib]
+(;W[ha];B[eb];W[fa])
+(;W[eb];B[ha];W[da]))
+(;B[ga];W[ea];B[fb];W[eb];B[ab];W[aa];B[ca];W[gb];B[hb];W[gc];B[ha];W[fa])
+(;B[fa];W[ea];B[gb];W[ab];B[fb];W[eb])
+(;B[eb];W[fb];B[fa];W[ea];B[ga];W[gb];B[ha];W[hb];B[ia]))

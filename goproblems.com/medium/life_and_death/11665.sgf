@@ -1,0 +1,27 @@
+(;GE[life and death]DI[1d]DP[17]SO[fye]CO[0]AB[qd]AB[oc]AB[ob]AB[ne]AB[nf]AB[ng]AB[oh]AB[pg]AB[qh]AB[rh]AB[ni]AB[nj]AB[nk]AB[nl]AB[jp]AB[hq]AB[mq]AB[oq]AB[pq]AB[ro]AB[qp]AW[op]AW[on]AW[pn]AW[qn]AW[rn]AW[pk]AW[pj]AW[pi]AW[ph]AW[qi]AW[rj]AB[qk]AB[pm]AW[mi]AW[mj]AW[mk]AW[mg]AW[mf]AW[md]AW[nc]AW[ke]AW[kf]AW[kg]AW[kh]AW[ki]AW[kj]AB[lh]AB[li]C[After Lee ChangHo played A, Takao Shinji immediately resigned. Why?Please start at A.Note: White won't play at M3 area. There's nothing there for white, so to save time I decided not to provide variations there.]AB[ij]AB[ih]AB[jh]AB[gi]AB[gj]AB[if]AB[jf]AB[je]AB[lc]AB[jc]AB[ic]AB[hd]AB[gd]AB[ge]AB[fe]AB[ef]AB[de]AW[hf]AW[gf]AW[gg]AW[gh]AW[fi]AW[fj]AW[gk]AW[gl]AW[fm]AB[fk]AW[dl]AW[cl]AW[bl]AW[df]AW[dg]AW[cg]AW[ce]AW[cd]AW[dc]AW[ec]AW[fb]AW[gc]AW[hc]AW[fd]AB[cf]AW[go]AW[fp]AW[er]AW[dq]AW[dp]AW[cp]AB[cq]AB[bq]AB[bp]AB[br]AB[dr]AB[cs]AB[cm]AB[cn]AB[en]AB[pl]AB[ql]AB[rl]AB[om]AB[ml]AB[lm]AB[kn]AB[nn]AB[no]AB[np]AW[nm]AW[mm]AW[mn]AW[mo]AW[lo]AW[ko]AW[ol]AW[ok]AW[sl]LB[sk:A]AW[jk]AP[goproblems];B[sk];W[sm]C[This is the strongest resistance. How to handle?]
+(;B[ri];W[qj]
+(;B[sj];W[rk]
+(;B[si];W[rm];B[jo];W[qm];B[ql];W[om];B[pl]C[Correct, white is all deadRIGHT])
+(;B[oi];W[si]
+(;B[sj];W[jo]C[White escapes])
+(;B[jo];W[sj]C[White lives]))
+(;B[oj];W[si]
+(;B[sj];W[jo]C[White escapes])
+(;B[jo];W[sj]C[White lives])))
+(;B[rk];W[sj]C[White lives unconditionally])
+(;B[si];W[sj];B[oi];W[rk];B[oj];W[sk];B[jo]AW[rm];W[qm]C[Later white will have to capture. Then what?]
+(;B[ql];W[om];B[pl]C[RIGHT])
+(;B[om];W[ql]C[White lives])))
+(;B[si];W[sj]
+(;B[rk];W[rm])
+(;B[qj];W[ri])
+(;B[ri];W[qj];B[oi];W[rk];B[oj];W[sk];B[jo]C[RIGHT]))
+(;B[rk];W[sj];B[ri];W[qj])
+(;B[qj];W[ri];B[rk];W[rm])
+(;B[sj];W[si];B[ri];W[rk]
+(;B[sj];W[qj];B[jo]AW[qm];W[rm]C[Later white will need to capture. Then what?];B[ql];W[om];B[pl]C[Correct :)RIGHT])
+(;B[qj];W[rm];B[sj];W[qm]C[White lives])
+(;B[jo];W[sj]C[White lives]))
+(;B[rm];W[sn]
+(;B[sj];W[si];B[ri];W[rk])
+(;B[ri];W[sj];B[qj];W[rk])))

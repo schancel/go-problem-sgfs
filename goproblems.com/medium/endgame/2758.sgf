@@ -1,0 +1,66 @@
+(;GE[endgame]DI[1d]DP[16]SO[Hans]CO[8]
+AW[jb][lb][mb][nb][jc][kc][mc][rc][sc][ld][nd][od][pd][qd][re]
+AB[la][ma][na][kb][ob][rb][sb][nc][oc][pc][qc]PL[W]
+C[Endgame problem: White to gain as much as she can. 
+Sente is not important. 
+]
+(;W[qb];B[qa]
+(;W[oa];B[pa]
+(;W[ka]
+(;B[oa];W[ra]C[RIGHT Black should have sacrificed the 3 stones. 
+])
+
+(;B[pb];W[oa]C[RIGHT
+])
+)
+
+(;W[ra];B[pb];W[ka];B[sa];W[oa]C[RIGHT
+])
+
+(;W[sa];B[pb])
+)
+
+(;W[pa];B[pb];W[ka];B[oa]C[White could have captured three stones.
+])
+
+(;W[ra];B[pb];W[oa];B[pa];W[ka];B[sa];W[oa]C[RIGHT
+])
+
+(;W[ka];B[oa])
+)
+
+(;W[pa];B[qa]
+(;W[ka];B[oa])
+
+(;W[ra];B[sa])
+)
+
+(;W[qa];B[qb]
+(;W[pa];B[ra])
+
+(;W[ra];B[pa])
+)
+
+(;W[oa];B[pa];W[ka];B[oa]
+(;W[qa];B[qb])
+
+(;W[ra];B[qb])
+
+(;W[qb];B[ra])
+)
+
+(;W[ra];B[qb];W[pa]
+(;B[oa];W[qa]C[
+];B[ka]
+C[This is seki but inferior to the correct solution as black was able to rescue the marked stone. 
+]
+TR[kb])
+
+(;B[qa];W[oa];B[pb];W[oa]C[
+];B[pa]C[This would be fatal for black.
+])
+)
+
+(;W[ka];B[oa])
+
+)

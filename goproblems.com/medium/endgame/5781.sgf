@@ -1,0 +1,40 @@
+(;GE[endgame]DI[3d]DP[9]SO[wtd]CO[7]SZ[11]AW[dc][jc][dd][de][ee][fe][ge][he][ie][je][ke][df][hf][bg][eg][fg][gg][bh][ai][bi][ji][ki][aj][cj][ij][kj][bk][jk]
+AB[cb][eb][cc][cd][ce][af][bf][cf][if][jf][kf][ag][cg][dg][hg][jg][ch][eh][fh][gh][ih][jh][kh][di][hi][dj][hj][dk][hk]LB[eb:A]
+C[No komi, no prisoners yet - White to draw. FORCE]
+
+;W[db];B[da]
+
+(;W[gb](;B[fc](;W[fb];B[ec](;W[gc];B[fd](;W[fa];B[ea];W[gd]LB[fb:X][gb:Z]
+C[RIGHT Jigo! With this formation, when Black has 2 threats of size 19 & 14 or over (if the value of sente is not too large at the lower 
+end of this size range), the defender can save upto 5 points by falling back to 'Z' after bD11, rather than allowing a big ko with 'X'.])
+(;W[gd];B[fa](;W[ed];B[ea];W[ga];B[ca]C[You lost by 1. Your 1st 4 moves were correct, but the 5th should have been at 'F11', allowing jigo.])
+(;W[ga];B[ea]C[You lost by 1. Your 1st 4 moves were correct, but the 5th should have been at 'F11', allowing jigo.])))
+(;W[fa];B[ea];W[gc];B[fd];W[gd]LB[fb:X][gb:Z]
+C[RIGHT Jigo! With this formation, when Black has 2 threats of size 19 & 14 or over (if the value of sente is not too large at the lower 
+end of this size range), the defender can save upto 5 points by falling back to 'Z' after bD11, rather than allowing a big ko with 'X'.]))
+(;W[fa](;B[fb];W[gc];B[ea];W[ga];B[fd];W[gd]C[You lost by 1. Your 1st 2 moves were correct, but the 3rd should have been at 'F10' or 'G9', allowing jigo.])
+(;B[ea]C[Bad for black.](;W[fb];B[ec];W[gc];B[fd];W[gd]LB[fb:X][gb:Z]C[Jigo])
+(;W[gc];B[fb];W[ga];B[fd];W[gd]C[B +1])))
+(;W[gc](;B[fd];W[fb];B[ec];W[fa];B[ea];W[gd]LB[fb:X][gb:Z]
+C[RIGHT Jigo! With this formation, when Black has 2 threats of size 19 & 14 or over (if the value of sente is not too large at the lower 
+end of this size range), the defender can save upto 5 points by falling back to 'Z' after bD11, rather than allowing a big ko with 'X'.])))
+(;B[fb];W[fc];B[ga];W[hb];B[ca];W[ha](;B[ec];W[ed];B[ea];W[fa];B[ii];W[ik];B[ga]LB[ah:P]C[Please play 'P' to pass. FORCE];W[ah];B[fa]LB[fb:X][gb:Z]
+C[RIGHT Jigo! With this formation, when Black has 2 threats of size 19 & 14 or over (if the value of sente is not too large at the lower 
+end of this size range), the defender can save upto 5 points by falling back to 'Z' after bD11, rather than allowing a big ko with 'X'.])
+(;B[fa]C[Bad for black.];W[ec];B[ea]C[W +1])))
+
+(;W[fb](;B[gb](;W[ec];B[fa];W[ea](;B[ci](;W[ca];B[ck];W[bb];B[bc](;W[ba];B[ab]
+C[You lost by 1. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])
+(;W[aa];B[ac];W[da]C[You lost by 1. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])
+(;W[ab];B[ba](;W[aa];B[ac];W[da];B[ba]C[You lost by 6. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])
+(;W[da];B[ac];W[aa];B[ba]C[You lost by 6. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])))
+(;W[ck];B[eb];W[ca](;B[ba];W[ea](;B[ii](;W[ca];B[ik];W[da];B[bb]
+C[You lost by 1. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])
+(;W[ik];B[eb];W[fc];B[ea];W[hb];B[gc];W[ha];B[ga];W[hc];B[gd]C[FORCE];W[hd];B[fd]
+C[You lost by 5. Your 2nd move should have been at 'G10' to avoid a big ko and allow jigo.])))
+(;B[fc]C[Bad for black.];W[ea](;B[ii];W[da];B[ik];W[bb];B[bc](;W[ab];B[ac];W[ba]C[W +6])
+(;W[ba];B[ab]C[W +5]))))))
+(;W[fa];B[fc];W[ec];B[ga];W[fj]))
+(;B[fa]C[Bad for black.];W[gb];B[ec]
+(;W[fc];B[ga];W[ha];B[ea];W[ed];B[ca];W[hb]C[Jigo])
+(;W[ga];B[fc];W[ea];B[ci];W[ck];B[fa];W[gc];B[ea];W[fd]C[Jigo]))))

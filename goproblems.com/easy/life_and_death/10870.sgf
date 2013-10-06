@@ -1,0 +1,17 @@
+(;GE[life and death]DI[8k]DP[45]SO[zafris]CO[0]AB[cd]AB[ce]AB[be]AB[bf]AB[bg]AB[bh]AB[bi]AB[ci]AB[dj]AB[ei]AB[fi]AW[de]AW[ee]AW[cf]AW[cg]AW[ch]AW[dh]AW[di]AW[eh]AW[fh]AB[gh]AW[gi]AW[hi]AW[ii]AW[ji]AW[jh]AW[ig]AW[hg]AW[hf]AW[he]AW[fd]AW[gd]AB[gc]AB[fc]AW[ec]AW[dc]AW[ed]AW[cc]AB[eb]AW[db]AB[fb]AW[ea]AW[da]AB[fa]AB[hd]AB[id]AB[ie]AB[if]AB[hc]AB[jg]AB[kg]AB[kh]AB[ki]AB[fk]AB[dk]AB[ge]AB[fe]AB[df]AB[ih]AB[gg]C[Can White rescue all her stones? Yes(J18) or No(L18)FORCE]LB[ib:Yes]LB[kb:No]AP[goproblems]
+(;W[ib];B[jb]C[Show how.]
+(;W[ff];B[eg]
+(;W[fg]C[RIGHT])
+(;W[gf];B[fg])
+(;W[ef];B[fg]))
+(;W[fg];B[ff]
+(;W[ef]C[RIGHT])
+(;W[hh]C[RIGHT]))
+(;W[gf]
+(;B[fg];W[eg];B[ef];W[ff];B[dg])
+(;B[ff];W[hh];B[fg];W[ef];B[eg];W[dg]C[RIGHT]))
+(;W[hh];B[fg];W[ef];B[eg];W[dg];B[df]))
+(;W[kb];B[jb]AW[fa]AW[fb]AW[eb]AW[fc]AW[gc]AW[hc]AW[hd]AW[ie]AW[id]AW[ge]AW[fe]AW[df]AW[gg]AW[gh]AW[ih]AW[if]AW[jg]AW[kg]AW[kh]AW[ki]AW[ce]AW[be]AW[bf]AW[bh]AW[bg]AW[bi]AW[ci]AW[dj]AW[dk]AW[ei]AW[fi]AW[fk]AB[ea]AB[da]AB[db]AB[dc]AB[ec]AB[ed]AB[fd]AB[gd]AB[cc]AW[cd]AB[de]AB[ee]AB[cf]AB[cg]AB[ch]AB[dh]AB[di]AB[eh]AB[fh]AB[gi]AB[hi]AB[ii]AB[ji]AB[jh]AB[ig]AB[hg]AB[hf]AB[he]AB[fg]C[If Black plays the triangle stone...?]TR[fg]
+(;W[gf];B[hh]C[All Black stones live.])
+(;W[ef];B[ff]C[All Black stones live.])
+(;W[ff];B[ef]C[All Black stones live.])))

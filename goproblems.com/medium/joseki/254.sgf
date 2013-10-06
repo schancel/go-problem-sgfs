@@ -1,0 +1,111 @@
+(;GE[joseki]DI[2d]DP[12]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[qp][nq][pq][rq][pr]
+AB[po][pp][qq][qr]
+LB[pq:1][po:2][nq:3][qq:4][qp:5][pp:6][rq:7][qr:8][pr:9]
+C[after 1 through 9, how should black play?
+]
+(;B[qo];W[rp]
+(;B[ro];W[rr]
+(;B[qk]
+C[RIGHT
+black loses a few points in the corner, but this is even, and better than saving corner
+])
+
+(;B[ql]C[too small extension
+])
+
+(;B[oq];W[or];B[op];W[qk])
+
+(;B[pk]C[RIGHT
+works
+])
+)
+
+(;B[rr];W[ro];B[rn];W[sr];B[qm];W[qi])
+)
+
+(;B[rp];W[qo]
+(;B[rr];W[qn]
+(;B[pn];W[qm]
+(;B[pm];W[ql]LB[ok:A]C[play at A?
+]
+(;B[ok];W[sq]C[uh oh, trap
+]
+(;B[sr];W[qs]
+(;B[rs];W[ss])
+
+(;B[sp];W[rs]C[black dead
+])
+)
+
+(;B[ps];W[ro])
+
+(;B[qs];W[ro])
+)
+
+(;B[pl];W[sq];B[sr];W[qs]
+(;B[rs];W[ss])
+
+(;B[sp];W[rs])
+)
+)
+
+(;B[ps];W[pm]C[these stones are hurting
+]TR[pn][po][pp])
+)
+
+(;B[ps]C[
+];W[pn]TR[po][pp]
+C[good protection, but marked stones are hurting
+])
+
+(;B[no];W[sq];B[sr];W[qs]
+(;B[sp];W[rs])
+
+(;B[rs];W[ss])
+)
+)
+
+(;B[ro];W[qn];B[rr];W[rn]
+(;B[sq]TR[po][pp]C[marked stones bad
+])
+
+(;B[pn];W[pm]
+(;B[om];W[pl];B[nn];W[sq];B[sr];W[qs]
+(;B[rs];W[ss])
+
+(;B[sp];W[rs])
+)
+
+(;B[no];W[sq];B[sr];W[qs]
+(;B[rs];W[ss])
+
+(;B[sp];W[rs])
+)
+)
+)
+)
+
+(;B[rr];W[rp]C[um, black's toast
+])
+
+(;B[qs];W[rp]C[huh?
+])
+
+(;B[ro];W[rp]C[not exactly
+])
+
+(;B[rs];W[rr])
+
+(;B[oq];W[or]
+(;B[op];W[rr])
+
+(;B[rp];W[qo];B[rr];W[qn])
+)
+
+)

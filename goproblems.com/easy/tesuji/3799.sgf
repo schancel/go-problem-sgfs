@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[10k]DP[52]SO[ellbur]CO[6]AB[gj]AB[gk]AB[gl]AB[hl]AB[jl]AB[kl]AB[kk]AB[kj]AW[hk]AW[ik]AW[jk]AB[im]AB[jn]AB[km]C[Can the white stones escape? play at 'T' (O12) if you think not.]LB[nh:T]AP[goproblems]
+(;W[ii];B[ij]
+(;W[jj];B[ji]
+(;W[hj];B[hi]
+(;W[ih];B[il];W[ij]C[RIGHT])
+(;W[ij];B[ih]))
+(;W[jh];B[ki];W[hj]C[RIGHT]))
+(;W[hj];B[hi]
+(;W[jj];B[ji]
+(;W[ih];B[il];W[ij]C[RIGHT])
+(;W[ij];B[ih])
+(;W[hh];B[gi]
+(;W[ih]C[RIGHT])
+(;W[jh]C[RIGHT])
+(;W[ig];B[il]))
+(;W[jh];B[ki]
+(;W[ih]C[RIGHT])
+(;W[hh]C[RIGHT])
+(;W[ig];B[il])))
+(;W[hh];B[gi];W[jj]C[RIGHT])))
+(;W[hi];B[hj]
+(;W[ij];B[ii];W[ji];B[ih];W[jj];B[kh];W[jh];B[jg];W[ig];B[hh];W[kg];B[jf];W[ki];B[lh];W[li];B[mi];W[mh];B[lg];W[mj];B[ni];W[lj]C[There is a _much_ better way to escape])
+(;W[ji];B[jj];W[ij]C[RIGHT]))
+(;W[ji];B[jj]
+(;W[ij];B[ii];W[hi];B[ih];W[hj];B[gh];W[hh];B[hg];W[ig];B[jh];W[gg];B[hf];W[gi];B[fh];W[fi];B[ei];W[eh];B[fg];W[ej];B[di];W[fj]C[There is a _much_ better way to escape])
+(;W[hi];B[hj];W[ij]C[RIGHT]))
+(;W[nh]C[White can escape])
+(;W[ij];B[ii]
+(;W[ji];B[ih];W[jj];B[kh])
+(;W[hi];B[ih];W[hj];B[gh]))
+(;W[hj];B[hi];W[ii];B[ij];W[jj];B[ji]
+(;W[ih]C[RIGHT])
+(;W[hh]C[RIGHT])
+(;W[jh]C[RIGHT]))
+(;W[jj];B[ji];W[ii];B[ij];W[hj];B[hi]
+(;W[ih]C[RIGHT])
+(;W[hh]C[RIGHT])
+(;W[jh]C[RIGHT]))
+(;W[ih];B[ij]
+(;W[jj];B[ji];W[hj];B[hi];W[ii];B[il];W[ij]C[RIGHT])
+(;W[hj];B[hi];W[jj];B[ji];W[ii];B[il];W[ij]C[RIGHT])))

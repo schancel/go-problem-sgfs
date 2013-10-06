@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[9]AB[bc]AB[cc]AB[ea]AB[ec]AB[eb]AB[ed]AB[dd]AW[fa]AW[fb]AW[fc]AW[ee]AW[fe]AW[fd]AW[de]AW[cd]AW[bd]AW[bf]AW[cf]AW[ab]C[Black to live unconditionally.]AP[goproblems]
+(;B[ca];W[ac]
+(;B[db];W[bb];B[cb]C[Well done! :)RIGHT])
+(;B[bb];W[db]C[:(])
+(;B[cb];W[db]C[:(])
+(;B[ba];W[db]C[:(]))
+(;B[bb];W[db]C[:(]TR[ac]TR[dc])
+(;B[cb];W[ac]C[:(]TR[db]TR[ca])
+(;B[db];W[ca]
+(;B[ac];W[cb];B[bb];W[ba];B[aa]MA[ab]C[A hard ko for white - Needs to win it, approach at A16 and win again to kill. But unconditional life's possible!])
+(;B[bb];W[ba];B[ac];W[cb];B[aa]MA[ab]C[A hard ko for white - Needs to win it, approach at A16 and win again to kill. But unconditional life's possible!])
+(;B[cb];W[ac]C[:(])
+(;B[ba];W[bb]
+(;B[cb];W[ac]C[:(])
+(;B[ac];W[cb]C[Eye - No eye.. :(])))
+(;B[ba];W[ac]TR[bb]TR[db]C[:(])
+(;B[ac];W[cb]
+(;B[db];W[bb]C[White wins the race.. :(])
+(;B[bb];W[da]
+(;B[dc];W[ba];B[aa];W[ad];B[ca]MA[ba]C[Ko - Can be avoided.])
+(;B[ba];W[dc]C[:(]))
+(;B[ca];W[bb]C[White wins the race.. :(]))
+(;B[ad];W[db]TR[dc]TR[ac]C[:(]))

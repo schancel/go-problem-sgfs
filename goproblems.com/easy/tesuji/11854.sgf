@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[4k]DP[31]SO[ZeroShiKii]CO[0]AB[er]AB[eq]AB[ep]AB[fp]AB[gp]AB[fo]AB[fn]AB[hq]AW[gq]AW[fq]AW[fr]AW[ir]AW[iq]AW[ip]AW[hp]AW[eo]AW[en]AW[em]AB[do]AB[co]AW[dq]AW[dp]AW[dr]AW[cp]AB[bp]AB[bo]AB[cq]AW[es]AW[gm]AW[hn]C[B to connect his two groups.]AP[goproblems]
+(;B[cr];W[ds]
+(;B[gs]
+(;W[fs];B[hr]C[CHOICERIGHT])
+(;W[gr];B[cs];W[fs];B[hr]C[CHOICERIGHT])
+(;W[hr];B[fs];W[gr];B[cs]C[CHOICERIGHT]))
+(;B[cs];W[fs]
+(;B[hr];W[hs])
+(;B[gs];W[hr])
+(;B[gr];W[hr])))
+(;B[gr];W[hr])
+(;B[fs];W[gs];B[ds];W[cs];B[cr];W[ds];B[bs];W[fs]
+(;B[hs];W[hr])
+(;B[hr];W[hs]))
+(;B[cs];W[cr];B[bq];W[br]))

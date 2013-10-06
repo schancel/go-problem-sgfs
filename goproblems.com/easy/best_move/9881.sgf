@@ -1,0 +1,12 @@
+(;GE[best move]DI[15k]DP[64]SO[awa]CO[3]C[Easy; find the best move for Black.]AB[dq]AW[eq]AB[ep]AW[fq]AB[fp]AW[hq]AB[gp]AW[hp]AB[gq]AW[gr]AB[ho]AW[ip]AB[io]AB[jp]AW[jq]AB[kp]AW[kq]AB[pp]AW[qq]AB[pq]AW[qp]AB[qo]AW[ro]AB[qn]AW[rn]AW[pr]AB[or]AW[qr]AB[oq]AB[qm]AP[goproblems]
+(;B[lq])
+(;B[hr];W[iq]
+(;B[gs];W[ir];B[hs];W[is];B[fr]C[=)RIGHT])
+(;B[fr]C[=)RIGHT])
+(;B[ir];W[jr]
+(;B[fr]C[=)CHOICERIGHT])
+(;B[gs];W[fr]
+(;B[er];W[fs];B[es]C[=)CHOICERIGHT])
+(;B[fs];W[er];B[dr];W[es];B[ds]C[=)CHOICERIGHT]))))
+(;B[ir])
+(;B[er];W[fr];B[dr];W[ir]))

@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4d]DP[8]SO[picketfence]CO[9]SZ[19]AB[pc]AB[qc]AB[od]AB[pf]AB[ne]AB[mf]AB[md]AB[jd]AB[ke]AB[ic]AB[jb]AW[rc]AW[qd]AW[re]AW[qg]AW[nd]AW[nc]AW[mc]AW[lc]AW[kc]C[White to connect her groups without ko.]TR[nd]TR[nc]TR[mc]TR[lc]TR[kc]GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]HA[0]ST[1]DT[2003-03-25]KM[0.0]RU[Japanese]PL[W]
+(;W[oe];B[pe]
+(;W[qb];B[pb]
+(;W[pd];B[oc];W[pa]C[Black A is pointless because of White B.RIGHT]LB[nb:B]LB[ob:A])
+(;W[pa]C[RIGHT]))
+(;W[pd];B[oc]
+(;W[qb];B[ob]C[White 1 has lost its purpose.  White fails.]LB[oe:1])
+(;W[ob];B[qb]C[White 1 has lost its purpose.  White fails.])))
+(;W[qb];B[oc]
+(;W[ob];B[pb];W[pa];B[rb]
+(;W[ra];B[qa]C[White has to win 2 ko's A and B.]LB[sb:B]LB[qb:A])
+(;W[oa];B[qa]C[White cannot live because A and B are miai for Black.]LB[kb:B]LB[nb:A]))
+(;W[oe];B[pb]
+(;W[pa];B[rb])
+(;W[pe];B[nb];W[mb];B[rb])))
+(;W[oc];B[pd];W[pb];B[qb];W[qa];B[rb];W[kb];B[ob];W[oa]C[White can only live by ko on top.  Even if she lives there, Black A would severely threathen White's right group.  It is better to try to connect the two weak groups.]LB[qi:A]))

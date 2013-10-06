@@ -1,0 +1,27 @@
+(;GE[best move]DI[5k]DP[35]SO[DarkSycthe]CO[0]AW[gc]AB[fe]AW[ge]AW[he]AW[ib]AB[ff]AB[hf]AB[hg]AB[ie]AB[id]AB[kc]AB[kd]AW[if]AW[ke]AW[ig]AW[le]AW[lb]AB[je]AW[kb]AB[eg]AW[dc]AB[fd]AW[mc]AW[md]AB[cf]AW[cc]AB[bd]AB[bc]AW[bb]AB[ab]AW[ba]AB[be]AW[kg]AW[ih]AB[gh]AB[jf]AW[lh]LB[fd:1]C[White to respond to Black 1 in the best way]AP[goproblems]
+(;W[hb]
+(;B[fc]C[CHOICE];W[fb];B[gd];W[hd]C[White is all connected.RIGHT])
+(;B[eb];W[ec]C[RIGHT]))
+(;W[hc];B[eb]
+(;W[ec];B[fc])
+(;W[fb];B[ec];W[ea];B[da])
+(;W[fc];B[ec];W[ed];B[dd]))
+(;W[fc];B[gd]C[Oops])
+(;W[gd];B[eb]
+(;W[ec];B[fc])
+(;W[fb];B[ec])
+(;W[fc];B[ec];W[ed];B[dd]))
+(;W[hd];B[eb]
+(;W[fc];B[ec];W[ed];B[dd])
+(;W[ec];B[fc])
+(;W[fb];B[ec]))
+(;W[fb];B[gd]C[Oops])
+(;W[gb];B[gd]C[Oops])
+(;W[ec];B[gd]C[Oops])
+(;W[eb];B[gd]C[Oops])
+(;W[ic];B[eb]
+(;W[ec];B[fc])
+(;W[fb];B[ec])
+(;W[fc];B[ec]))
+(;W[gf];B[gd]C[Oops])
+(;W[db];B[gd]C[Oops]))

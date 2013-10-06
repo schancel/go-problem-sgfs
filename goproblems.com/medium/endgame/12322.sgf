@@ -1,0 +1,26 @@
+(;GE[endgame]DI[1k]DP[19]SO[santa c]CO[0]AB[sq]AB[or]AB[nr]AB[rq]AB[sr]AW[ms]AW[mr]AW[nq]AW[op]AW[po]AW[qp]AW[rp]AW[mp]C[Black found the only first move... But...]AW[rr]AW[ro]AB[rs]MA[rs]AP[goproblems]
+(;W[pr];B[pq]
+(;W[ps];B[qq]
+(;W[oq];B[qr]
+(;W[ns]C[nice little endgame, nice! :)RIGHT])
+(;W[os]C[RIGHT]))
+(;W[ns];B[oq]MA[os]MA[qr])
+(;W[os];B[oq]MA[ns]MA[qr])
+(;W[qr];B[os]))
+(;W[os];B[ps]
+(;W[qr];B[qq])
+(;W[qq];B[qr])
+(;W[qs];B[qr])
+(;W[ns];B[qr])
+(;W[oq];B[qr]))
+(;W[ns];B[ps])
+(;W[qr];B[qq])
+(;W[qs];B[qr])
+(;W[qq];B[qr])
+(;W[oq];B[qr]))
+(;W[qr];B[qq];W[pr];B[pq])
+(;W[ns];B[pr])
+(;W[os];B[pr])
+(;W[ps];B[pr])
+(;W[pq];B[pr])
+(;W[qq];B[qr]))

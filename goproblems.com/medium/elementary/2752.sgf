@@ -1,0 +1,12 @@
+(;GE[elementary]DI[2d]DP[12]SO[santa c]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.14]AB[ps][pr][pq][qq][rq]AW[sp]
+[rp][qp][pp][op][oq][or][os]
+(;B[rr];W[rs]
+(;B[sq];W[qs];B[ss];W[sr]C[ko RIGHT])
+(;B[qs];W[sr])
+(;B[sr];W[qs])
+(;B[ss];W[sq]
+(;B[qs];W[sr])
+(;B[sr];W[qs])))
+(;B[rs];W[sr];B[sq];W[rr])
+(;B[sq];W[rr];B[rs];W[sr])
+(;B[sr];W[rs]))

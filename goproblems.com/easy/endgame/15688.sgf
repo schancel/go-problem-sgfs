@@ -1,0 +1,10 @@
+(;GE[endgame]DI[15k]DP[62]SO[Zander]CO[0]SZ[9]AB[bc]AW[eb]AW[hc]AW[ic]AB[be]AW[ec]AW[gc]AW[fc]AW[fa]AW[fh]AW[gh]AB[cf]AB[cg]AB[bd]AB[ef]AB[ee]AB[ed]AB[gf]AB[ge]AW[hf]AW[he]AW[gd]AW[hg]AW[eh]AW[dg]AW[df]AW[de]AB[dd]AB[ce]AB[cc]AW[dc]AB[db]AB[ca]AW[gb]AB[bg]AB[da]AB[fd]AB[af]AW[dh]AB[ch]AB[ci]AB[di]AB[ei]AW[fi]AW[ih]AP[goproblems]
+(;W[ba];B[fg])
+(;W[ff];B[fg]
+(;W[gg];B[fe];W[eg]C[RIGHT])
+(;W[eg];B[fe];W[gg]C[RIGHT]))
+(;W[fg];B[ff]C[White loses.])
+(;W[gg];B[ff]C[White loses.])
+(;W[eg];B[ff]C[White loses.])
+(;W[fe];B[ff]C[White loses.])
+(;W[ea];B[fg]C[White loses.]))

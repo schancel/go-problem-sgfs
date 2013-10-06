@@ -1,0 +1,3 @@
+(;GE[fuseki]DI[25k]DP[77]SO[Spirit]CO[6]AB[qd]AW[dp]LB[yy:0]LB[pq:A]LB[qp:B]C[Which komoku in the lower right corner is best, A or B? (komoku means 3-4 point)FORCE]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[pq]C[This 3-4 point makes good balance with the stone in the upper right.RIGHT]MN[1])
+(;B[qp]C[Wrong.Black is too low on the right.Also White will get a nice move at one of the A's. Both are moves that combine well with the White star point on the left.]LB[qp:1]LB[op:A]LB[qp:1]LB[np:A]))

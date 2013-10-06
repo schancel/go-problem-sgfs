@@ -1,0 +1,53 @@
+(;GE[elementary]DI[8k]DP[48]SO[maba]CO[7]AB[br]AB[cr]AB[es]AB[er]AB[eq]AB[dq]AW[aq]AW[bq]AW[cq]AW[bp]AW[bo]AW[ao]AW[co]AW[dp]AW[ep]AW[fq]AW[fr]AW[fs]AW[fp]AB[gp]AB[gq]AB[gr]AB[gs]AB[go]AB[do]AB[dn]AB[cn]AB[bn]AB[an]AB[fo]C[What is the best white can do here?]AP[goproblems]
+(;W[ds]
+(;B[dr]
+(;W[ar];B[eo]
+(;W[cp]
+(;B[bs]C[sente sekiRIGHT])
+(;B[cs]C[Both black and white could start a ko, but both would rather have it started by the opponent because whoever starts it will have to find the first threat.RIGHT]))
+(;W[bs];B[cp])
+(;W[cs];B[cp])
+(;W[as];B[cp]))
+(;W[eo];B[en]
+(;W[cp];B[ar])
+(;W[ar];B[cp]))
+(;W[cs];B[eo]
+(;W[bs];B[cp])
+(;W[ar];B[cp])
+(;W[cp];B[ar]))
+(;W[bs];B[eo]
+(;W[cs];B[cp])
+(;W[ar];B[cp])
+(;W[cp];B[ar]))
+(;W[as];B[eo]
+(;W[bs];B[cp])
+(;W[cs];B[cp])
+(;W[ar];B[cp]))
+(;W[cp];B[ar]))
+(;B[eo];W[dr]C[RIGHT]))
+(;W[dr];B[ds]C[Black has two eyes.])
+(;W[cs];B[eo]
+(;W[dr];B[cp])
+(;W[ds];B[cp])
+(;W[ar];B[cp])
+(;W[bs];B[cp])
+(;W[cp];B[ar]
+(;W[dr];B[ap])
+(;W[ds];B[ap])))
+(;W[ar]C[];B[eo];W[cp]
+(;B[cs];W[dr]C[];B[ds];W[as]C[why play gote seki instead of sente seki?RIGHT])
+(;B[ds]C[CHOICE]
+(;W[bs]C[gote seki. White could do a bit better.RIGHT])
+(;W[as];B[bs])
+(;W[cs];B[bs]))
+(;B[bs];W[ds];B[dr]C[RIGHT]))
+(;W[bs];B[eo]
+(;W[ar];B[cp])
+(;W[dr];B[cp])
+(;W[ds];B[cp])
+(;W[cp];B[ar]))
+(;W[eo];B[en]
+(;W[cp];B[ar])
+(;W[dr];B[cp])
+(;W[ds];B[cp])
+(;W[ar];B[cp])))

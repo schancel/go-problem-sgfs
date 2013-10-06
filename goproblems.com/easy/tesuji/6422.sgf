@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[7k]DP[41]SO[adum]CO[6]AB[pq]AB[pp]AB[qp]AB[qq]AB[qr]AW[pr]AW[oq]AW[qs]AW[rr]AW[rq]AW[rp]AW[qo]AW[po]AB[op]AB[ce]AW[cd]AB[dd]AW[dc]AW[ec]AW[cf]AB[ed]AB[fc]LB[gm:N]C[can white catch black's marked stones in a ladder? play N if you think not. otherwise, ladder away.]TR[op]TR[pp]TR[qp]TR[qq]TR[pq]TR[qr]AP[goproblems]
+(;W[np];B[oo];W[on];B[no];W[mo];B[nn];W[nm];B[mn];W[ln];B[mm];W[ml];B[lm];W[km];B[ll];W[lk];B[kl];W[jl];B[kk];W[kj];B[jk];W[ik];B[jj];W[ji];B[ij];W[hj];B[ii];W[ih];B[hi];W[gi];B[hh];W[hg]
+(;B[gh];W[fh];B[gg];W[gf];B[fg];W[eg];B[ff]
+(;W[fe];B[ef]
+(;W[df];B[ee];W[fd];B[de];W[be]C[RIGHT])
+(;W[ee];B[df];W[dg];B[de]
+(;W[fd];B[be])
+(;W[be];B[fd])))
+(;W[ef];B[fe]))
+(;B[lj]C[CHOICE]
+(;W[gh]C[very good. you are alert to my machinations.RIGHT])
+(;W[fh];B[mk]C[oops!])))
+(;W[gm]C[incorrect -- the ladder works]))

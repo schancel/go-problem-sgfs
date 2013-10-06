@@ -1,0 +1,3 @@
+(;GE[best move]DI[7k]DP[44]SO[TnekKralc]CO[0]AB[dp]AB[dq]AB[dn]AB[fp]AB[fr]AB[hq]AW[er]AW[fq]AW[gp]AW[ho]AW[fo]AW[kp]AW[lq]AP[goproblems]
+(;B[eq];W[ep];B[gr]LB[eq:1]LB[ep:2]LB[gr:3]C[Correct answer.  B 1 enables B 2 link up without any problems.RIGHT])
+(;B[gq];W[ep];B[eq];W[gr]LB[gq:1]LB[ep:2]LB[eq:3]LB[gr:4]C[Wrong answer.  If B plays from the other side, W gets a ko by playing 2 & 4.]))

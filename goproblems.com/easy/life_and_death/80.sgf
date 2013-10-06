@@ -1,0 +1,52 @@
+(;GE[life and death]DI[5k]DP[32]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[on][pn][rn][oo][qo][op][rp][oq][os]
+AB[rl][om][pm][qm][rm][qn][qp][qq][rq][qr][rr][qs]
+C[black to live in corner without ko
+]
+(;B[so];W[sn]
+(;B[sq];W[ss]
+(;B[ro];W[sp]
+(;B[ro];W[so];B[sm]C[RIGHT
+])
+
+(;B[so];W[ro])
+)
+
+(;B[sp];W[ro])
+
+(;B[sm];W[ro])
+)
+
+(;B[ro];W[sp]
+(;B[sq];W[ss]
+(;B[ro];W[so];B[sm]C[RIGHT
+])
+
+(;B[so];W[ro])
+
+(;B[sm];W[ro])
+)
+
+(;B[ro];W[so];B[sq];W[ss];B[sm]C[RIGHT
+])
+)
+)
+
+(;B[sp];W[so]C[hey! i said no ko!
+])
+
+(;B[sn];W[so]C[ko!
+])
+
+(;B[ss];W[sq];B[so];W[ro])
+
+(;B[sq];W[ss];B[so];W[sn];B[ro];W[sp];B[ro];W[so];B[sm]C[RIGHT
+])
+
+)

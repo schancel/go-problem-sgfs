@@ -1,0 +1,45 @@
+(;GE[life and death]DI[2k]DP[22]SO[uwe001]CO[8]SZ[19]AW[ba]AW[cb]AW[db]AW[eb]AW[fb]AW[cc]AW[ad]AW[dd]AW[de]AW[df]AW[cg]AW[dg]AW[ch]AW[dh]AW[eh]AW[fh]AW[ai]AW[bi]AW[ci]AW[ei]AW[cj]AW[ej]AW[bk]AW[bm]AB[bb]AB[bc]AB[dc]AB[ec]AB[fc]AB[cd]AB[be]AB[ce]AB[ee]AB[fe]AB[cf]AB[bg]AB[eg]AB[fg]AB[bh]AB[gh]AB[di]AB[fi]AB[hi]AB[dj]AB[fj]AB[ck]AB[dk]AB[ek]AB[bl]AB[cl]AB[cm]AB[cn]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PL[B]
+(;B[ah]
+(;W[ab]
+(;B[af]
+(;W[bd];B[ae]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT])
+(;W[ae];B[bd];W[ac];B[aa]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT]))
+(;B[bd]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT])
+(;B[ae]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT]))
+(;W[af];B[ae];W[ab];B[bd];W[ac];B[aa];W[ab];B[ac]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT])
+(;W[bd]
+(;B[af];W[ac];B[ae]C[black is alive and white's D 12 group gets into trouble CHOICERIGHT])
+(;B[ae]C[RIGHT]))
+(;W[ae];B[af];W[ab];B[bd]C[black is alive and white's D 12 group gets into troubleRIGHT])
+(;W[ac]
+(;B[af];W[ab];B[bd]C[black is alive and white's D 12 group gets into troubleRIGHT])
+(;B[ab]C[RIGHT]
+(;W[af]
+(;B[ae]C[RIGHT])
+(;B[bf];W[ae]
+(;B[ag];W[bd])
+(;B[bd];W[ca];B[ag]C[RIGHT])))
+(;W[ae]C[RIGHT];B[af];W[ca];B[ed];W[aa];B[bd]C[RIGHT])))
+(;W[bf];B[af]C[black is alive and white's D 12 group gets into troubleRIGHT])
+(;W[ag];B[af]C[black is alive and white's D 12 group gets into troubleRIGHT])
+(;W[aa];B[af];W[ae];B[bd];W[ab];B[ac]C[black is alive and white's D 12 group gets into troubleRIGHT])
+(;W[ca];B[af];W[ac];B[bd];W[ab];B[ae]C[black is alive and white's D 12 group gets into troubleRIGHT]))
+(;B[ae];W[ag]
+(;B[bf];W[ah]C[black gets caught])
+(;B[ah];W[bf]C[black gets caught])
+(;B[af];W[ah];B[bf];W[bd]C[black gets caught]))
+(;B[af];W[ah]
+(;B[ag];W[ae]C[black is caught])
+(;B[ac];W[ag]C[black is caught]))
+(;B[ab];W[ah];B[ag];W[bd]
+(;B[ae];W[bf];B[af];W[bf]C[black gets caught])
+(;B[af];W[ca]C[black gets caught]))
+(;B[ac];W[ab]
+(;B[af];W[bd];B[ah];W[ae]C[black gets caught])
+(;B[bd];W[af]C[black gets caught]))
+(;B[bd];W[af]
+(;B[ah];W[bf]C[black gets caught])
+(;B[ae];W[ag]C[black gets caught])
+(;B[bf];W[ah];B[ag];W[ae];B[ab];W[ca];B[ak];W[aa];B[ac];W[ae]C[black gets caught]))
+(;B[ag];W[ae];B[ac];W[af];B[aa];W[ca];B[ak];W[ah]C[black gets caught])
+(;B[ak];W[ag]C[black gets caught.]))

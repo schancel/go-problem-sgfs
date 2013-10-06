@@ -1,0 +1,9 @@
+(;GE[fuseki]DI[3d]DP[11]SO[mafutrct]CO[0]AB[pd]AB[dd]AB[jj]AB[pp]AB[dp]AW[qf]AB[nc]AW[nq]AB[qm]AW[cn]AB[fq]AW[ch]AB[cj]AW[fc]AB[fd]AW[gd]AB[fe]AW[ec]AB[dc]AW[hc]AB[cf]LB[eh:A]LB[dk:B]LB[bp:C]TR[cf]C[Black just played the marked stone. How should white answer? Think careful and read the whole sequence! (You will have to play it out!)FORCE]AP[goproblems]
+(;W[eh];B[co]
+(;W[dn]C[];B[ej];W[gh];B[fn]TR[eh]C[To run away with the marked stone shows shallow thinking. After the sequence we just saw, White is in all too apperent difficulties.]))
+(;W[dk];B[dj]C[FORCE]
+(;W[ej];B[ck]TR[dl]C[FORCE];W[dl];B[dh]TR[di]C[FORCE];W[di];B[ci];W[ei];B[bh]C[FORCE];W[eh];B[dg]LB[dk:1]TR[ch]C[White 1, sacrificing the marked stone and gaining outer influence in return, is a good move here.RIGHT])
+(;W[ek];B[ej]C[This is bad for white.]))
+(;W[bp];B[cl]C[White 1 favors the A stone and tries to get it squared away, but Black 2 is severe. Can you see a tesuji so white will at least not get shut in?]LB[bp:1]LB[cl:2]
+(;W[do];B[cp]C[Nice move! This is better than playing 3-3. Since the sequence is very uncommon, i willl help you a bit :)]TR[bq]MA[do];W[bq];B[eo]TR[co];W[co];B[en]C[Although White can avoid being shut in with the tesuji at A, Black gets to stretch out in comfort with the marked moves. Black is better.]LB[do:A]MA[en]MA[eo])
+(;W[cq];B[co];W[bo];B[dn]C[White is shut in - this is very bad.])))

@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[2k]DP[23]SO[usagi5]CO[0]AW[br]AW[cr]AW[dr]AW[dq]AB[cq]AB[bq]AW[aq]AB[bp]AW[cp]AB[dp]AB[do]AB[dn]AW[co]AW[cn]AB[cm]AB[bn]AB[ds]AB[er]AB[eq]AW[ep]AW[fp]AW[gp]AW[hp]AB[gq]AB[hq]AW[iq]AB[ir]AW[gs]AW[fq]AB[fr]AW[gr]AB[hr]AW[es]AB[jr]AB[kr]AB[ip]AW[jq]AB[kq]AW[jp]AW[lr]AW[lq]AB[dm]AW[fm]AB[fl]AW[gl]AW[hl]AB[fk]AB[gk]AB[hk]AW[ik]AB[il]AW[jk]AW[kk]AW[mp]AW[mr]AW[nq]AW[ms]AW[nn]AW[ml]AW[nm]AW[lk]AB[dk]AB[gm]AW[hm]AB[gn]AB[ks]TR[gn]AP[goproblems]
+(;W[fn];B[hn];W[im];B[jm]
+(;W[jl];B[in];W[il];B[io]
+(;W[jo];B[jn]
+(;W[ko];B[kn];W[lo];B[fo];W[eo];B[en];W[go];B[em])
+(;W[kp];B[ko];W[lp];B[fo];W[eo];B[en];W[go];B[em]))
+(;W[kp];B[fo];W[eo];B[en];W[go];B[em])
+(;W[go];B[kp])
+(;W[fs];B[kp])
+(;W[jn];B[jo];W[kp];B[ko];W[lp];B[fo];W[eo];B[en];W[go];B[em])
+(;W[fo];B[kp]))
+(;W[in];B[io]
+(;W[jl];B[jn];W[il];B[kp])
+(;W[jn];B[jo])))
+(;W[hn];B[fn]C[RIGHT]))

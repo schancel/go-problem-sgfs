@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[4k]DP[31]SO[sabetts]CO[0]SZ[19]AW[nn]AW[pn]AW[qn]AW[ro]AW[pp]AW[qp]AW[mq]AW[nq]AW[oq]AW[nr]AB[ok]AB[qk]AB[oo]AB[jp]AB[op]AB[rp]AB[pq]AB[qq]AB[rq]AB[or]AB[pr]C[White attempts a net on black's two stones. Show how black can escape.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[on];W[om];B[no];W[mo]
+(;B[mn];W[nm];B[mp];W[lo]
+(;B[lp];W[np])
+(;B[np];W[lp]))
+(;B[nm];W[mn];B[pm];W[ol]))
+(;B[mp]
+(;W[np]C[CHOICE];B[no];W[mo];B[mn];W[lp];B[on]C[RIGHT])
+(;W[mo]C[CHOICE];B[np];W[lp]
+(;B[lo];W[lq];B[mn];W[no];B[on]C[RIGHT])
+(;B[lq];W[lr]
+(;B[lo];W[kq]
+(;B[mn];W[no];B[on]C[RIGHT])
+(;B[on];W[om];B[mn];W[po]))
+(;B[kq];W[lo]
+(;B[ns]C[RIGHT])
+(;B[kr];W[ms]
+(;B[os]C[RIGHT])
+(;B[ks];W[on]))
+(;B[ms]C[RIGHT])
+(;B[mr];W[ms];B[os];W[ns])))))
+(;B[no];W[mo];B[on];W[om])
+(;B[mo];W[no];B[np];W[mp];B[on];W[om]))

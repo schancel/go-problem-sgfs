@@ -1,0 +1,12 @@
+(;GE[life and death]DI[3d]DP[11]SO[nutcase]CO[7]AB[rb][rd][qd][pd][od][nd][mc]
+AW[lc][ld][md][nc][oc][pb][ne][of][qf][re]SZ[19]GN[Go Seigen L&D]
+
+(;B[nb]
+(;W[mb];B[pc]
+(;W[qb];B[ob];W[mc];B[qc];W[na];B[qa];W[oa];B[sc]C[RIGHT])
+(;W[ob];B[qb]C[RIGHT]))
+(;W[ob];B[qb];W[pc];B[qc];W[mb];B[sd]C[RIGHT]))
+(;B[qb];W[pc];B[qc];W[sc];B[sd];W[qa];B[mb];W[nb]C[Wrong.])
+(;B[qc];W[sc];B[sd];W[qb]C[Wrong.])
+(;B[pc];W[qb]C[Wrong.])
+(;B[sc];W[qb]C[Wrong.]))

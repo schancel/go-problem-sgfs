@@ -1,0 +1,45 @@
+(;GE[life and death]DI[5k]DP[34]SO[huhss]CO[9]SZ[19]AW[br]AW[cs]AW[cq]AW[cp]AW[do]AW[eo]AW[fo]AW[go]AW[gp]AW[hq]AW[hr]AW[gs]AB[cr]AB[dr]AB[dq]AB[ep]AB[fp]AB[gq]AB[gr]AB[fr]C[black play]AP[MultiGo:3.6.0]
+(;B[eq];W[es]
+(;B[fs];W[ds]
+(;B[bs];W[as]
+(;B[er]
+(;W[bs];B[bq]C[RIGHT])
+(;W[bq];B[bs];W[cs];B[ds]C[RIGHT]))
+(;B[bq];W[bp]))
+(;B[bq];W[bs]C[wrong]))
+(;B[bs];W[fs];B[bq];W[as];B[ds];W[bp];B[bs];W[aq];B[ar];W[bq]C[wrong]))
+(;B[fs];W[eq];B[ds];W[er]C[wrong])
+(;B[bq]
+(;W[as]
+(;B[ds];W[eq];B[fs];W[er];B[bs]C[ko])
+(;B[eq];W[es]
+(;B[ds];W[fs];B[bs]C[ko])
+(;B[fs];W[ds];B[er];W[bp];B[bs];W[cs];B[ds]C[RIGHT])))
+(;W[bs]
+(;B[ds]
+(;W[eq]
+(;B[fs];W[er];B[ar];W[dp];B[as];W[bs];B[bp];W[bo];B[ap]C[black lived, but it is not best solution])
+(;B[er];W[fs];B[ar]C[RIGHT]))
+(;W[fs];B[eq];W[es];B[ar]C[RIGHT]))
+(;B[eq];W[es]
+(;B[fs];W[ds]C[wrong])
+(;B[ds];W[fs];B[ar]C[RIGHT])))
+(;W[bp]
+(;B[bs]
+(;W[aq];B[eq];W[es];B[fs]C[RIGHT])
+(;W[as];B[eq];W[es];B[fs];W[ds];B[er]C[RIGHT]))
+(;B[eq];W[es];B[fs];W[ds];B[bs];W[as];B[er]C[RIGHT]))
+(;W[eq];B[ar];W[bs];B[ds];W[fs]
+(;B[es];W[dp];B[hs];W[fq];B[bp];W[bo];B[ap]C[black lived, but it is not best solution])
+(;B[er]C[RIGHT]))
+(;W[ar]
+(;B[eq];W[es];B[fs];W[ds];B[bs];W[as];B[er]C[RIGHT])
+(;B[bs]
+(;W[bp];B[eq];W[es];B[fs]C[RIGHT])
+(;W[as];B[eq];W[es];B[fs];W[ds];B[er]C[RIGHT])))
+(;W[aq]
+(;B[eq];W[es];B[fs];W[ds];B[bs];W[as];B[er]C[RIGHT])
+(;B[bs]
+(;W[bp];B[eq];W[es];B[fs]C[RIGHT])
+(;W[as];B[eq];W[es];B[fs];W[ds];B[er]C[RIGHT]))))
+(;B[bs];W[eq];B[bq];W[as];B[ds];W[bp];B[fs];W[er];B[bs];W[aq];B[ar];W[bq]C[wrong]))

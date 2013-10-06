@@ -1,0 +1,62 @@
+(;GE[endgame]DI[5k]DP[33]SO[ferdi]CO[6]SZ[7]AW[da]AW[cb]AW[db]AW[ac]AW[bc]AW[bd]AW[ee]AW[fe]AW[ge]AW[bf]AW[cf]AW[df]AW[ef]AB[aa]AB[ea]AB[ab]AB[eb]AB[cc]AB[dc]AB[fc]AB[cd]AB[ed]AB[fd]AB[be]AB[ce]AB[de]C[No komi, no prisoners - Black to play and draw!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PL[B]
+(;B[ba];W[ae]
+(;B[bb];W[ca]
+(;B[bb];W[ab]
+(;B[ba];W[cb]
+(;B[db];W[gd]
+(;B[gc]C[Jigo! RIGHT])
+(;B[ca];W[af]
+(;B[aa];W[ad];B[gc]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[af];W[ag]
+(;B[ca];W[af]
+(;B[aa];W[ad];B[gc]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[gc]C[RIGHT])))
+(;B[ca];W[gd]
+(;B[gc]C[Jigo! RIGHT])
+(;B[db];W[af]
+(;B[gc]C[RIGHT])
+(;B[aa]))
+(;B[af];W[ag]
+(;B[gc]C[RIGHT])
+(;B[aa];W[ad];B[gc]C[RIGHT])))
+(;B[da];W[gd]
+(;B[gc]C[Jigo! RIGHT])
+(;B[ca];W[af]
+(;B[aa];W[ad];B[gc]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[af];W[ag]
+(;B[ca];W[af]
+(;B[aa];W[ad];B[gc]C[RIGHT])
+(;B[gc]C[RIGHT]))
+(;B[gc]C[RIGHT])))
+(;B[af];W[ag]
+(;B[ca];W[af]
+(;B[db];W[gd]
+(;B[gc]C[RIGHT])
+(;B[aa]))
+(;B[gd]C[RIGHT]))
+(;B[gd];W[ca])
+(;B[db];W[af]
+(;B[gd]C[RIGHT])
+(;B[ca]))
+(;B[da];W[gd]
+(;B[gc]C[RIGHT])
+(;B[ca])))
+(;B[gd];W[ca]))
+(;B[af];W[ba])
+(;B[gd];W[ba]))
+(;B[gd];W[bb])
+(;B[af];W[bb]
+(;B[aa];W[ag])
+(;B[ad];W[aa])))
+(;B[gd];W[bb])
+(;B[af];W[bb]
+(;B[ad];W[ca]
+(;B[ae];W[aa])
+(;B[aa];W[ae]))
+(;B[gd];W[ag])))
+(;B[af];W[ba];B[gd];W[bg]C[Black showed little imagination, White wins by five points!])
+(;B[ae];W[ba];B[af];W[gd];B[gc];W[bg]C[White wins by six points.... Black should have tried a little harder!])
+(;B[gd];W[ae]))

@@ -1,0 +1,48 @@
+(;GE[best move]DI[3k]DP[24]SO[inspere]CO[0]AB[hc]AB[hb]AB[jb]AB[jc]AB[jd]AB[id]AB[hf]AB[he]AB[hg]AB[gg]AB[gh]AB[ih]AB[jh]AB[kh]AB[kg]AB[ji]AB[jj]AB[mh]AB[mi]AB[mj]AB[nh]AB[oi]AB[pi]AB[qh]AB[pg]AB[of]AB[oe]AB[ne]AB[qf]AB[qe]AB[qd]AB[pc]AB[pb]AB[oc]AB[qa]AB[ra]AW[sa]AW[rb]AW[qb]AW[qc]AW[sc]AW[rd]AW[re]AW[pd]AW[od]AW[nc]AW[ob]AW[lc]AW[md]AW[nf]AW[og]AW[ng]AW[mg]AW[lg]AW[kf]AW[ke]AW[ie]AW[if]AW[ig]AW[lh]AW[li]AW[ki]AW[oh]AW[ph]AW[ic]AW[ib]C[Shoul black capture the marked stones or can he do better? Assume that white has lots of ko threats in other areas of the board and black has no ko threat besides what you can see]AB[kj]AB[lj]AB[lf]AW[le]TR[ki]TR[li]TR[lh]TR[lg]TR[mg]TR[ng]TR[nf]TR[og]TR[oh]TR[ph]AB[nd]AW[mb]AW[lb]AW[rf]AB[qi]AP[goproblems]
+(;B[mf];W[pa]C[Black can do much better!])
+(;B[me];W[pa]C[Black can do much better!])
+(;B[pe]
+(;W[mf]C[White tries to save his stone. What to do...]
+(;B[me];W[lf]
+(;B[kd];W[ld];B[oa];W[na]
+(;B[pa];W[la];B[nb];W[gk]C[White plays a ko threat. Play on the marked point to respond to the threat.FORCE]TR[gj];B[gj];W[ob]
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[je];W[nb];B[jf]C[You were going to capture 11 stones, but you're capturing only 3 now. I'd say that's a rotten deal..])
+(;B[rg];W[nb]C[White can ignore this threat, no sweat.])
+(;B[jf];W[nb];B[je]C[You were going to capture 11 stones, but you're capturing only 3 now. I'd say that's a rotten deal..]))
+(;B[nb];W[gl]MA[gk]C[Click marked point to respond to the threatFORCE];B[gk];W[ob]
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[je];W[pa];B[jf]C[You were going to capture 11 stones, but you're capturing only 3 now. I'd say that's a rotten deal..])
+(;B[jf];W[pa];B[je]C[You were going to capture 11 stones, but you're capturing only 3 now. I'd say that's a rotten deal..])
+(;B[pa];W[la]
+(;B[nb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT]))))
+(;B[oa];W[na]
+(;B[nb];W[gm]TR[gl]C[Click marked point to respond to the threatFORCE];B[gl];W[ob]
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[pa]
+(;W[la]
+(;B[nb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])))
+(;B[ld];W[kd];B[nb]
+(;W[pa]C[CHOICE]
+(;B[ob]C[White's toastRIGHT])
+(;B[qa];W[ob]C[White, being the ko master, won't break a sweat on this one.])
+(;B[ma];W[la]
+(;B[qa]C[RIGHT])
+(;B[ob]C[RIGHT])
+(;B[mc]C[RIGHT])))
+(;W[hm]C[Another ko threat, please respond at the marked pointCHOICEFORCE]TR[hl];B[hl];W[ob]
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[pa];W[nb]C[That's too bad- white lives])))
+(;B[kd];W[ld];B[nb];W[hm]C[Another ko threat, please respond at the marked pointFORCE]TR[hl];B[hl];W[ob]
+(;B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[pa];W[la];B[nb];W[im]C[Another ko threat, please respond at the marked pointFORCE]TR[il];B[il];W[ob];B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])))
+(;B[pa];W[la]
+(;B[nb];W[gm]TR[gl]C[Click marked point to respond to the threatFORCE];B[gl];W[ob];B[sb]C[Excellent! Now white has to choose which group to let go ofRIGHT])
+(;B[sb];W[gm]TR[gl]C[Click marked point to respond to the threatFORCE];B[gl];W[sa];B[nb]C[Excellent! Now white has to choose which group to let go ofRIGHT]))))
+(;B[oa];W[me]
+(;B[nb];W[kd]
+(;B[kc];W[pa]C[White's the ko master so he can afford to play this move. Black can do much better than this])
+(;B[mc];W[pa];B[kc];W[nc]C[White's the ko master so he can afford to play this move. Black can do much better than this]))
+(;B[kd];W[nb];B[ld];W[na];B[la];W[pa]C[Saving the 3 marked stones alone does not cut it. That's less points than if black had just captured at first.])))))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[10k]DP[54]SO[transcend]CO[8]AB[br]AB[aq]AB[ap]AB[bp]AB[cp]AW[dp]AB[cn]AW[ep]AW[eq]AW[fq]AW[gq]AW[gr]AB[fr]AB[er]AB[dr]AB[dq]AW[cq]AW[cr]AW[cs]AW[ar]AW[bq]C[Black to take the corner.]AP[goproblems]
+(;B[bs];W[as]
+(;B[bs];W[fs]
+(;B[br]
+(;W[ar]
+(;B[ds]C[RIGHT])
+(;B[as];W[ar]))
+(;W[ds];B[es]C[RIGHT]))
+(;B[ds];W[es]))
+(;B[br];W[fs];B[bs]
+(;W[ds];B[es]C[RIGHT])
+(;W[ar]C[CHOICE]
+(;B[as];W[ar])
+(;B[ds]C[RIGHT])))
+(;B[ds];W[fs]
+(;B[bs];W[es])
+(;B[br];W[es]))
+(;B[fs];W[gs];B[br];W[ds];B[bs];W[es]))
+(;B[ds];W[bs]C[White has two eyes.])
+(;B[fs];W[gs]
+(;B[bs];W[as];B[br];W[ds];B[bs];W[es])
+(;B[as];W[ds])
+(;B[ds];W[es]))
+(;B[as];W[fs]
+(;B[ds];W[es])
+(;B[bs];W[ar])
+(;B[ar];W[ds];B[bs];W[es])))

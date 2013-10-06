@@ -1,0 +1,49 @@
+(;GE[life and death]DI[1d]DP[17]SO[liopic]CO[7]AW[ap][bp][cp][aq][cq][dq][dr][es][fs][gs]AB[an][bn][cn][co][do][eo][ep][eq][fq][gq][hq][ar][br][cr][er][hr][ir][as][cs][ds][is]C[Tip: Do the opposite]
+(;B[ao]CR[ao]
+;W[bq]CR[bq]
+;B[bo]CR[bo]
+;W[bs]CR[bs])
+(;B[hs]CR[hs]
+;W[bq]CR[bq]
+;B[gr]CR[gr]
+;W[bs]CR[bs])
+(;B[dp]CR[dp]
+;W[bq]CR[bq]
+;B[bo]CR[bo]
+;W[bs]CR[bs])
+(;B[fr]CR[fr]
+;W[bq]CR[bq]
+;B[gr]CR[gr]
+;W[bs]CR[bs])
+(;B[bq]CR[bq]
+;W[bs]CR[bs]
+;B[br]CR[br]
+;W[ar]CR[ar]
+;B[cs]CR[cs]
+;W[cr]CR[cr]C[only ko])
+(;B[bs]CR[bs]
+;W[bq]CR[bq]
+(;B[bs]CR[bs]
+;W[br]CR[br]
+;B[cs]CR[cs]
+;W[as]CR[as]
+;B[ar]CR[ar]
+;W[ds]CR[ds]
+;B[as]CR[as]
+;W[cr]CR[cr]
+;B[bs]CR[bs]
+;W[as]CR[as]
+;B[ar]CR[ar]
+;W[cs]CR[cs]C[white alive])
+(;B[br]CR[br]
+;W[bs]CR[bs]
+;B[ar]CR[ar]
+;W[cr]CR[cr]
+;B[ds]CR[ds]C[CHOICE RIGHT dead!])
+(;B[ds]CR[ds]
+;W[bs]CR[bs]
+;B[ar]CR[ar]
+(;W[br]CR[br]
+;B[cs]CR[cs]C[CHOICE RIGHT dead!])
+(;W[cs]CR[cs]
+;B[br]CR[br]C[CHOICE RIGHT dead!]))))

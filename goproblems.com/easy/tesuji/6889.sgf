@@ -1,0 +1,81 @@
+(;GE[tesuji]DI[5k]DP[33]SO[dserdt]CO[9]AW[ab]AW[cb]AW[db]AW[cc]AW[bd]AW[gd]AW[id]AW[ee]AW[ge]AW[ie]AW[bf]AW[cf]AW[ef]AW[gf]AW[cg]AW[dg]AW[eg]AW[fg]AW[ch]AW[gh]AW[di]AW[dj]AW[dk]AW[bl]AW[cl]AW[el]AB[eb]AB[dc]AB[ec]AB[gc]AB[hc]AB[dd]AB[fd]AB[ae]AB[be]AB[ce]AB[de]AB[fe]AB[df]AB[ff]AB[gg]AB[hg]AB[bh]AB[fh]AB[ci]AB[fi]AB[hi]AB[cj]AB[ck]AB[ek]AB[fk]AB[dl]AB[dm]AB[dp]PW[White]PB[Black]PL[W]
+(;W[bi];B[bj]
+(;W[aj];B[ai]
+(;W[ak];B[af]
+(;W[bk]C[RIGHT])
+(;W[ag]C[RIGHT])
+(;W[bg];B[ag];W[bk]C[RIGHT]))
+(;W[bk];B[ak];W[al];B[cm]C[KO]))
+(;W[bk];B[ai]
+(;W[ag];B[dh]
+(;W[eh];B[ei];W[ak];B[ej];W[dh];B[aj];W[ah]C[RIGHT])
+(;W[ak];B[ei];W[eh];B[ej];W[dh];B[aj]
+(;W[ah]C[RIGHT])
+(;W[bg];B[ed]C[W can't atari])))
+(;W[ak]
+(;B[ag]
+(;W[aj]C[RIGHT])
+(;W[af];B[aj];W[bg];B[cm]C[KO]))
+(;B[af];W[aj]C[RIGHT])))
+(;W[ah];B[ai];W[ag];B[dh]
+(;W[eh];B[ei];W[bg];B[ej];W[dh];B[af]C[KO])
+(;W[bg];B[ei];W[eh];B[ej];W[dh];B[af]C[KO])
+(;W[bk];B[ei];W[eh];B[ej];W[dh];B[af];W[bg];B[ed]C[OOOPS!!!]))
+(;W[ak];B[ai]
+(;W[aj]C[RIGHT])
+(;W[af];B[dh]
+(;W[aj];B[ei];W[eh];B[ej];W[dh];B[ag];W[bk];B[bi])
+(;W[eh];B[ei]
+(;W[ag];B[ej];W[dh];B[aj]
+(;W[ah];B[ed])
+(;W[bk];B[ed]))
+(;W[aj];B[ej];W[dh];B[ag];W[bk];B[bi])))
+(;W[ag];B[dh];W[eh];B[ei];W[aj];B[ej];W[dh];B[bg];W[bk]C[RIGHT])
+(;W[bg];B[aj]
+(;W[ag];B[cm];W[bm];B[bn]
+(;W[cn];B[bo];W[ah];B[am])
+(;W[bo];B[cn];W[an];B[am];W[ah];B[ao]))
+(;W[bn];B[dh];W[ag];B[ei];W[eh];B[ej];W[dh];B[af]))))
+(;W[bj];B[bi]
+(;W[bk];B[af]
+(;W[bg];B[ag]
+(;W[ai];B[ah]C[Black has connected])
+(;W[ah];B[ai];W[aj];B[ah]C[Black has connected]))
+(;W[ag];B[dh]
+(;W[eh];B[ei];W[ah];B[ej])
+(;W[ai];B[ei];W[eh];B[ej];W[dh];B[ed]C[White is caught])))
+(;W[af];B[bk];W[ah];B[dh];W[ai];B[aj];W[eh];B[ag])
+(;W[ag];B[bk];W[ah];B[aj];W[dh];B[af];W[bg];B[ed];W[al];B[ej]
+(;W[ak];B[ei]C[White can't atari])
+(;W[ai];B[ei];W[ak];B[eh])))
+(;W[bk];B[bi]
+(;W[ag];B[dh]
+(;W[eh];B[ei];W[bj];B[ej];W[dh];B[af];W[ah];B[ed]C[W can't connect])
+(;W[ah];B[ai];W[eh];B[ei];W[aj];B[ej];W[dh];B[af];W[bj];B[bg];W[ag];B[ed])
+(;W[bj];B[ei];W[eh];B[ej];W[dh];B[ed];W[ai];B[af]))
+(;W[bj]
+(;B[af];W[ag];B[dh]
+(;W[eh];B[ei]
+(;W[ai];B[ej];W[dh];B[ed])
+(;W[ah];B[ej];W[dh];B[ed])
+(;W[bg];B[ej];W[dh];B[ed]))
+(;W[ai];B[ei];W[ah];B[ej];W[bg];B[cm];W[bm];B[bn]))
+(;B[ag];W[af];B[dh]
+(;W[bg];B[ei];W[eh];B[ej]
+(;W[ah];B[dh];W[ai];B[aj];W[ak];B[cm];W[bm];B[bn]C[White can't scape])
+(;W[dh];B[ed]))
+(;W[ai];B[eh]
+(;W[aj];B[ei])
+(;W[bg];B[ed])
+(;W[ah];B[aj]))))
+(;W[bg];B[af];W[ag];B[dh];W[eh];B[ei];W[bj];B[ej]C[This is the sequence actually played.
+White resigned now];W[ah];B[dh];W[ai];B[aj];W[ak];B[cm]
+(;W[bm];B[bn]C[White can't scape])
+(;W[bn];B[bm];W[am];B[di])))
+(;W[aj];B[bi];W[ag];B[af]
+(;W[bg];B[dh];W[eh];B[ei];W[ah];B[ej]
+(;W[bn];B[ai])
+(;W[ai];B[dh];W[bn]C[I think that w can't live in the corner.
+B has escaped anyway.]))
+(;W[ah];B[bg];W[ai];B[ak])
+(;W[ai];B[bg];W[ah];B[ak])))

@@ -1,0 +1,29 @@
+(;GE[elementary]DI[25k]DP[79]SO[Bildstein]CO[7]AW[ss]AW[sr]AW[sq]AW[rq]AW[qq]AW[qr]AW[pr]AW[ps]AB[nr]AB[or]AB[pq]AB[qp]AB[rp]AB[ro]AB[mr]AW[ns]AB[sn]AB[op]AB[oq]AB[pp]AB[rn]C[White to play and get the best result in this corner.]AB[ms]AP[goproblems]
+(;W[rs];B[os];W[sp]C[White has two points, Black has two points (remember, Black captured a stone).RIGHT]LB[ns:2]LB[qs:1]LB[rr:1])
+(;W[os];B[rs]C[This way, White dies. Play T to see how Black can eventually capture White, or play on to try to save the group.]LB[nq:T]
+(;W[sp];B[so]LB[nq:T]
+(;W[qs];B[rr])
+(;W[rr];B[qs])
+(;W[nq];B[qs]LB[np:T]
+(;W[rr];B[rs]LB[np:T]
+(;W[qs];B[rs])
+(;W[np];B[qs]))
+(;W[np];B[rr])))
+(;W[rr];B[sp]LB[nq:T]
+(;W[qs];B[rs])
+(;W[nq];B[qs]))
+(;W[qs];B[sp]LB[nq:T]
+(;W[rr];B[rs])
+(;W[nq];B[rr]))
+(;W[nq];B[sp]LB[np:T]
+(;W[rr];B[qs])
+(;W[qs];B[rr])
+(;W[np];B[qs]LB[no:T]
+(;W[rr];B[rs]LB[no:T]
+(;W[qs];B[rs])
+(;W[no];B[qs]))
+(;W[no];B[rr]))))
+(;W[sp];B[rs]C[White is dead. To see why, look at the other variation (p1 instead of t4).])
+(;W[so]C[This can't be good. Black can capture straight away at t4, or do something even better.])
+(;W[rr]C[NOTTHIS])
+(;W[qs]C[NOTTHIS]))

@@ -1,0 +1,57 @@
+(;GE[life and death]DI[2k]DP[23]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[al][bl][cl][dl][em][en][do][dp][bq][eq][ar][er][as][bs][cs][ds]
+AB[am][bm][cm][dm][dn][bo][co][ap][aq][dq][br][cr]PL[2]
+C[kill this, white!
+]
+(;W[bn];B[cp]
+(;W[an];B[cn]
+(;W[cq];B[bp]
+(;W[cq];B[dr];W[bq]C[RIGHT
+])
+
+(;W[dr];B[cq])
+)
+
+(;W[dr];B[cq])
+)
+
+(;W[cq];B[an])
+
+(;W[dr];B[an])
+)
+
+(;W[cq];B[an]
+(;W[bp];B[cp])
+
+(;W[cp];B[bp])
+
+(;W[dr];B[bp])
+)
+
+(;W[cp];B[bp]
+(;W[bn];B[an])
+
+(;W[an];B[bn])
+)
+
+(;W[bp];B[ao]
+(;W[bn];B[cp])
+
+(;W[cp];B[bn])
+)
+
+(;W[an];B[bn];W[bp];B[ao])
+
+(;W[ao];B[bp];W[bn];B[an])
+
+(;W[cn];B[bn])
+
+(;W[dr];B[bp])
+
+)

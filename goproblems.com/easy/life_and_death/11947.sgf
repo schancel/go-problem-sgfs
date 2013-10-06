@@ -1,0 +1,12 @@
+(;GE[life and death]DI[6k]DP[39]SO[Mocramis]CO[0]AB[dp]AW[cn]AB[dm]AW[bp]AB[cq]AW[bq]AB[br]AW[cp]AB[dq]AW[dn]AB[cm]AW[em]AB[el]AB[hq]AW[dl]C[the situation is a bit different from problem 11946 now, you are white.  play A pleaseFORCE]AB[cj]AB[fl]LB[cl:A]AP[goproblems];W[cl];B[bm]
+(;W[bl];B[en]
+(;W[fm];B[bn]
+(;W[co]C[Good! the white group in C8 have enouth liberties to  take the squared stones.RIGHT]MA[dm]MA[cm]MA[bm]MA[bn]LB[bo:1]LB[an:2]LB[am:3]LB[dk:1]LB[ck:2]LB[bk:3]LB[al:4])
+(;W[bo]C[Wrong. See problem 11946 to see why.CHOICE])
+(;W[do];B[eo];W[co];B[gm]C[Wrong !CHOICE])
+(;W[am];B[co]C[And now ?]))
+(;W[bn];B[fm]C[NoCHOICE]))
+(;W[bn];B[bl]
+(;W[bk];B[ck]C[wrongCHOICE])
+(;W[ck];B[bk]C[O_oCHOICE])
+(;W[dk];B[bk]C[Black is happyCHOICE])))

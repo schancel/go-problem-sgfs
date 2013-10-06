@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[8k]DP[46]SO[mysandbox]CO[0]AB[bs]AB[br]AB[aq]AB[bp]AB[bo]AB[co]AB[do]AB[dp]AB[fo]AB[fp]AB[fq]AB[fr]AW[cq]AW[cp]AW[bq]AW[cr]AW[er]AW[fs]AW[gr]AW[gq]AW[gp]C[Tesuji cut White]AP[goproblems]
+(;B[ds];W[dr];B[es];W[cs];B[es];W[gs];B[eq];W[ar]
+(;B[dq];W[as])
+(;B[as];W[ar]))
+(;B[dr]
+(;W[dq]
+(;B[ds];W[eq])
+(;B[eq];W[ds];B[cs];W[ar]
+(;B[as])
+(;B[dr]C[RIGHT])))
+(;W[ds]
+(;B[dq];W[cs]
+(;B[eq]C[RIGHT])
+(;B[ar];W[es]))
+(;B[cs];W[dq];B[eq];W[ar]
+(;B[as];W[ar])
+(;B[dr]C[RIGHT]))))
+(;B[cs];W[dr];B[es];W[ds];B[eq];W[ar];B[dq];W[as])
+(;B[es];W[ds];B[dr];W[cs]
+(;B[dq];W[ar])
+(;B[ar];W[dq]))
+(;B[dq];W[dr];B[es];W[ds];B[cs];W[ar]
+(;B[eq];W[as])
+(;B[as];W[ar])))

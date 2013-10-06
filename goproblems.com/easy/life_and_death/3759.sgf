@@ -1,0 +1,30 @@
+(;GE[life and death]DI[5k]DP[32]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ig][hh][jh][hi][ii][ij][lj][kk][mk][il][jl][kl][ll]AB[hf][if][jf][gg][kg][gh][kh][gi][li][mi][gj][hj][nj][ik][jk][nk][gl][hl][nl][im][jm][km][lm][mm]C[You can save the white group :)]PL[W]
+(;W[ki]CR[ki]
+;B[jj]CR[jj]
+(;W[ji]CR[ji]C[White lives RIGHT])
+(;W[kj]CR[kj]C[White lives RIGHT])
+(;W[hk]CR[hk]C[NOTTHIS]))
+(;W[jj]CR[jj]
+;B[ki]CR[ki]
+(;W[hk]CR[hk]
+;B[ik]CR[ik]C[Black can always destroy one white eye, so White is dead.])
+(;W[ji]CR[ji]
+;B[kj]CR[kj]C[White is dead])
+(;W[kj]CR[kj]
+;B[ji]CR[ji]C[White is dead.]))
+(;W[kj]CR[kj]
+;B[jg]CR[jg]
+(;W[jj]CR[jj]
+;B[ki]CR[ki]C[White is dead.])
+(;W[ki]CR[ki]
+;B[hg]CR[hg]
+(;W[jj]CR[jj]C[This is only a ko.])
+(;W[ih]CR[ih]
+;B[jj]CR[jj]C[White is dead.])))
+(;W[ji]CR[ji]
+;B[mj]CR[mj]
+;W[ki]CR[ki]
+;B[ml]CR[ml]
+;W[jj]CR[jj]C[This is only a ko.]))

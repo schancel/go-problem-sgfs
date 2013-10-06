@@ -1,0 +1,10 @@
+(;GE[best move]DI[6k]DP[37]SO[TnekKralc]CO[0]AB[br]AB[dr]AB[cq]AB[co]AB[do]AB[ep]AB[jo]AB[jq]AB[gq]AW[dq]AW[eq]AW[fq]AW[fr]AW[fp]AW[eo]AW[go]C[FORCE]AP[goproblems]
+(;B[en];W[dp]
+(;B[fn]LB[en:1]LB[dp:2]LB[fn:3]C[ The stone in atari was not important.  Black now builds a big wall towards the top while keeping White under pressure. White cannot cut at D6 yet; Black would atari at D7 and answer White C6 by extending down at B5.RIGHT])
+(;B[hp]
+(;W[fn]C[H4 is a mistake, it does not threaten White because White can escape into the center in good shape. Black now has to guard against the cutting points at D6 and C4. Also, White can still undercut Black at H2 so H4 has almost no meaning territorially.])
+(;W[fm];B[fn];W[gn];B[gm];W[dn];B[dm];W[cp];B[bp];W[cn];B[bo];W[em]C[White can also jump out. If Black tries to cut it ends in this demonstration of how to ruin your position.]))
+(;B[dm]C[White will probably ignore this move or jump out to G7 or so. Close but not as good as F6 would be.]))
+(;B[dp];W[en]LB[dp:1]LB[en:2]LB[em:A]C[If Black rescues one stone with D4 then White plays either E6 or E7; escaping into the center and towering over Black's groups.])
+(;B[hp];W[fm]C[White jumps out into the center, overtowering Black's position. White can still undercut Black's territory on the right at H2.]MA[hr])
+(;B[gr];W[fm]C[Black takes a few points on the side while White commands the center.]))

@@ -1,0 +1,151 @@
+(;GE[life and death]DI[1k]DP[19]SO[Guff]CO[7]AB[ac]AB[bc]AB[bd]AB[cd]AB[dd]AB[ee]AB[ge]AB[hb]AB[hc]AB[hd]AW[ab]AW[bb]AW[cc]AW[dc]AW[fc]AW[gc]SZ[19]PL[B]GM[1]FF[4]AP[Jago:Version 3.11]ST[3]
+(;B[db];W[cb]
+(;B[eb];W[ec]
+(;B[fb]C[Correct.  White dies.RIGHT])
+(;B[ga]C[RIGHT])
+(;B[eb];W[db]C[Wrong.  White can live by giving up two stones.])
+(;B[ea];W[eb]
+(;B[fa];W[da]C[Wrong.  White lives.])
+(;B[da];W[ca]C[Wrong.  White lives.])
+(;B[ca];W[fa]
+(;B[da];W[gb]C[Wrong. White lives.])
+(;B[cb];W[da]
+(;B[gb];W[db]C[Wrong.  White lives.])
+(;B[ba];W[gb]C[Wrong.  White lives.]))))
+(;B[ca];W[cb]
+(;B[eb];W[ec];B[fa];W[ga]C[Wrong. White lives.])
+(;B[ea];W[eb]
+(;B[fa];W[da];B[db];W[ba];B[da];W[ga]C[Wrong. White lives.])
+(;B[da];W[fa]C[Wrong. White dies.]))
+(;B[da];W[gb];B[eb];W[ec]C[Wrong.  White dies.]))
+(;B[ca];W[cb];B[ea];W[eb]C[ko.])
+(;B[gb];W[fb])
+(;B[fa];W[ga];B[gb];W[fb];B[ha];W[da]))
+(;B[ec];W[eb])
+(;B[fb];W[eb]))
+(;B[ca]
+(;W[da]
+(;B[eb];W[ec]
+(;B[db];W[cb];B[ea];W[fb])
+(;B[fb];W[gb];B[ga];W[db]
+(;B[fa];W[ba])
+(;B[ba];W[fa])))
+(;B[db];W[eb];B[ea];W[cb]
+(;B[da];W[fa])
+(;B[fb];W[ec]
+(;B[da];W[ba];B[fa];W[gb])
+(;B[fa];W[ba];B[da];W[gb])
+(;B[gb];W[ba])
+(;B[ga];W[ba]))
+(;B[fa];W[ba];B[da];W[ga]))
+(;B[fa];W[ba];B[db];W[eb];B[ea];W[cb])
+(;B[ba];W[cb]
+(;B[eb];W[ec];B[fb];W[gb];B[ga];W[fa];B[ea];W[db])
+(;B[ea];W[eb]
+(;B[db];W[fa])
+(;B[fa];W[ga]
+(;B[gb];W[fb])
+(;B[db];W[fb])))
+(;B[fa];W[eb];B[ea];W[ga];B[db];W[fb])
+(;B[fb];W[eb])
+(;B[ec];W[eb])))
+(;W[eb];B[cb])
+(;W[db];B[ba];W[gb];B[cb];W[da];B[aa];W[eb])
+(;W[cb];B[ea];W[eb];B[fa];W[da];B[db];W[ba]))
+(;B[cb];W[db];B[ca];W[da];B[ba];W[aa];B[ca];W[gb])
+(;B[ea];W[eb]
+(;B[ca];W[cb]
+(;B[ba];W[fa])
+(;B[da];W[fa])
+(;B[fa];W[da]C[Look for something better.]))
+(;B[da];W[fa]
+(;B[cb];W[ba])
+(;B[ca];W[cb])
+(;B[ga];W[fb]
+(;B[ca];W[cb])
+(;B[cb];W[db])))
+(;B[fa];W[da]
+(;B[gb];W[cb])
+(;B[ga];W[cb])
+(;B[ca];W[ba]
+(;B[db];W[cb];B[da];W[ga])
+(;B[cb];W[db])))
+(;B[ga];W[da]))
+(;B[ga];W[ca]
+(;B[db];W[eb])
+(;B[eb];W[db];B[ec]C[Try to catch the whole thing.]))
+(;B[fa];W[eb]
+(;B[da];W[ea]
+(;B[ba];W[cb]C[])
+(;B[cb];W[db]))
+(;B[ca];W[cb]
+(;B[da];W[ea])
+(;B[ea];W[da];B[db];W[ba]))
+(;B[cb];W[ca])
+(;B[ea];W[da];B[ca];W[cb];B[db];W[ba]))
+(;B[gb];W[ca]
+(;B[db];W[eb])
+(;B[eb];W[db];B[ec]C[Try to catch the whole thing.]))
+(;B[fb];W[eb];B[gb];W[ca])
+(;B[ec];W[eb]
+(;B[cb];W[db];B[ca];W[da];B[ba];W[aa]
+(;B[ca];W[gb])
+(;B[fa];W[ca]))
+(;B[db];W[cb])
+(;B[ed];W[cb];B[da];W[ea])
+(;B[fb];W[ed]))
+(;B[eb];W[db]
+(;B[da];W[ca]
+(;B[ea];W[ec]
+(;B[ga];W[fa];B[fb];W[gb])
+(;B[fa];W[ga])
+(;B[gb];W[fb])
+(;B[fb];W[gb]))
+(;B[fa];W[ea]C[ko]))
+(;B[ec];W[da])
+(;B[ea];W[da]))
+(;B[da]
+(;W[ca]C[CHOICE]
+(;B[ea];W[fa]
+(;B[fb];W[eb];B[ga];W[db];B[fa]C[RIGHT])
+(;B[eb];W[ec]
+(;B[fb];W[gb];B[ga];W[db])
+(;B[ba]C[NOTTHIS]))
+(;B[ba]C[NOTTHIS])
+(;B[ga];W[fb]))
+(;B[db];W[eb])
+(;B[ba]C[NOTTHIS])
+(;B[eb];W[ec]
+(;B[fb];W[gb];B[ga];W[fa];B[ea];W[db])
+(;B[fa];W[db]
+(;B[ga];W[ea]C[ko])
+(;B[ea];W[ga])
+(;B[gb];W[fb]))
+(;B[db];W[fb])
+(;B[ea];W[fb])
+(;B[gb];W[fb];B[fa];W[db])
+(;B[ga];W[db];B[ea];W[fa];B[fb];W[gb]))
+(;B[ec];W[eb]
+(;B[db];W[ed])
+(;B[ea];W[fa])
+(;B[ed];W[ea]))
+(;B[fa];W[ga]
+(;B[gb];W[ea];B[eb];W[db];B[ea];W[fb];B[ha]C[RIGHT])
+(;B[eb];W[ec];B[gb];W[fb];B[ha];W[db]))
+(;B[fb];W[ea]))
+(;W[db];B[ea];W[fa];B[fb]
+(;W[eb];B[ga])
+(;W[ca];B[ga]))
+(;W[eb];B[cb];W[db];B[ca];W[ea];B[ba];W[aa];B[ca])
+(;W[ba];B[cb];W[db];B[ea]
+(;W[fa];B[ec];W[ca];B[eb])
+(;W[ca])
+(;W[eb];B[fa];W[ga];B[gb];W[fb];B[ha];W[ca];B[ga];W[ed];B[fd]))
+(;W[ea];B[eb]
+(;W[db];B[fa];W[ca];B[ea])
+(;W[ca];B[db];W[ec];B[fb];W[gb];B[ga];W[cb];B[fa])
+(;W[ec];B[fa];W[ga];B[gb];W[fb];B[ha];W[db];B[ea];W[ca];B[ga]))
+(;W[cb];B[eb];W[ec];B[fa])
+(;W[fb];B[cb];W[db];B[ca];W[ea];B[ba];W[aa];B[ca])
+(;W[fa];B[cb];W[db];B[ca];W[ea];B[ba];W[aa];B[ca];W[cb];B[ec];W[eb];B[gb])
+(;W[gb];B[eb];W[ec];B[cb];W[db];B[ca];W[fa];B[ba];W[ea];B[aa])))

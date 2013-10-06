@@ -1,0 +1,52 @@
+(;GE[endgame]DI[8k]DP[49]SO[varg]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[9]HA[0]KM[0.5]
+PW[]
+PB[]
+GN[ (W) vs.  (B)]
+DT[2002-04-14]
+SY[Cgoban 1.9.5]TM[-];C[
+];PL[2]
+C[Black has just played at A. What to do now? There is a 0.5 komi and no captures were made.
+]
+LB[if:A]AW[ga][db][eb][gb][bc][cc][dc][fc][fd][fe][ef][ff][gf][hf][eg]
+AB[ec][bd][cd][dd][ed][de][df][if][dg][fg][gg][hg][ch][eh][fh][ci]
+(;W[ie];B[ig]
+(;W[ad]C[
+];B[he]LB[ad:A]
+C[White had the right idea with A but oh too late :( .
+]
+(;W[af];B[hc];W[hd];B[id]C[Black wins now.
+])
+
+(;W[hd];B[id];W[ic];B[ie];W[af];B[hc]
+C[White will make no eye on the left, so he will later defend at a7 and the capture at j5 decides the game.
+])
+
+(;W[be];B[bg];W[hd];B[id];W[ic];B[ie];W[af];B[hc])
+)
+
+(;W[he];B[ac];W[ab];B[ad]
+(;W[bb]
+C[White submissively answered blacks sente moves (which is locally correct) and thus lost 4 points.
+])
+
+(;W[ba]C[White submissively answered blacks sente moves (which is locally
+correct) and thus lost 4 points. ])
+)
+
+(;W[hd];B[ac];W[ab];B[ad]
+(;W[bb]
+C[White submissively answered blacks sente moves (which is locally correct)
+and thus lost 4 points.  ])
+
+(;W[ba]C[White submissively answered blacks sente moves (which is locally
+correct) and thus lost 4 points. ])
+)
+)
+
+(;W[ad]
+C[RIGHT This is the right  spirit: Ignore the black sente at j4 and do the
+same to him :) . Continuing with mirror go here is a simple sure win strategy
+here. ])
+
+)

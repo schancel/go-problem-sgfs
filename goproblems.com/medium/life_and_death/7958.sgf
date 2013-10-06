@@ -1,0 +1,160 @@
+(;GE[life and death]DI[3d]DP[11]SO[BartTM]CO[7]AB[qa]AB[qb]AB[qc]AB[pd]AB[pe]AB[qf]AB[pf]AB[pg]AW[qe]AW[qd]AW[rc]AW[rb]AW[ra]AB[se]TR[se]LB[oc:No]C[White's corner is in danger, but Black's stone at T15 looks a bit awkward. Can White save the corner? Play P17 ('No') if you think not.FORCE]AP[goproblems]
+(;W[oc]AW[qa]AW[qb]AW[qc]AW[pd]AW[pe]AW[qf]AW[pf]AW[pg]AB[qe]AB[qd]AB[rc]AB[rb]AB[ra]AW[se]C[];B[rf]C[You thought the corner was dead. So the stones have been swapped and Black has just played S14. Can you kill the corner?]
+(;W[rg];B[sd]
+(;W[sf]
+(;B[sb]
+(;W[rd]C[RIGHT])
+(;W[re];B[rd]))
+(;B[sg]C[CHOICE]
+(;W[sh];B[sb]
+(;W[rd]C[RIGHT])
+(;W[re];B[rd]))
+(;W[re];B[rd]
+(;W[sb];B[rf])
+(;W[sh];B[sb])
+(;W[rf];B[sb]))
+(;W[rd];B[re])
+(;W[sb];B[re])
+(;W[sc];B[re])))
+(;W[re];B[rd]
+(;W[sb];B[sf])
+(;W[sf];B[sb]))
+(;W[rd];B[re])
+(;W[sg];B[sb]
+(;W[rd];B[re];W[sf];B[rd])
+(;W[re];B[rd])
+(;W[sf];B[rd]))
+(;W[sb];B[sf])
+(;W[sc];B[sb]
+(;W[sf];B[rd])
+(;W[rd];B[re])
+(;W[re];B[rd])))
+(;W[re];B[rd]
+(;W[rg];B[sd]
+(;W[sf];B[sb])
+(;W[sb];B[sf]))
+(;W[sd];B[rg]C[The corner lives and grows rapidly.])
+(;W[sb];B[rg]C[The corner lives and grows like cabbage.])
+(;W[sf];B[rg]C[Come on...!])
+(;W[sc];B[rg]C[Alive and kicking.]))
+(;W[rd];B[re]
+(;W[rg];B[sd])
+(;W[sd];B[rg]C[Black gains some extra points.])
+(;W[sc];B[sf]
+(;W[sb];B[sd])
+(;W[rg];B[sd])
+(;W[sd]C[Black plays elsewhere, satisfied with living in sente.]))
+(;W[sf];B[rg])
+(;W[sb];B[sd]))
+(;W[sf];B[rg]C[This only helps Black.])
+(;W[sd];B[rg]C[Black's corner grows rapidly.])
+(;W[sg];B[rg]
+(;W[rh];B[re]
+(;W[sf];B[sd]
+(;W[sh];B[sb])
+(;W[qg];B[sh]))
+(;W[qg];B[sd]
+(;W[sf];B[sh])
+(;W[sh];B[sf]))
+(;W[sd];B[sf])
+(;W[rd];B[sd]))
+(;W[sf];B[sd]
+(;W[re];B[rd]MA[sh]MA[sb]C[Either way Black lives.])
+(;W[rd];B[re]MA[sh]MA[sb]C[Black lives.])
+(;W[sb];B[sh]))
+(;W[re];B[rd]
+(;W[rh];B[sd])
+(;W[sf];B[rh])
+(;W[qg];B[rh]))
+(;W[rd];B[re]))
+(;W[sb];B[sd]
+(;W[re];B[rd])
+(;W[rg];B[re])
+(;W[sf];B[rg])
+(;W[sg];B[rg])
+(;W[rd];B[re]))
+(;W[sc];B[rd]
+(;W[sd];B[rg])
+(;W[rg];B[sf])
+(;W[re];B[rg])
+(;W[sf];B[rg])
+(;W[sb];B[rg])
+(;W[sg];B[rg])))
+(;W[rf];B[rg]
+(;W[sf];B[rd]C[White cannot live without the marked stones; and they remain in atari even if White connects.]TR[qe]TR[qd])
+(;W[sd];B[sf]
+(;W[re];B[rd])
+(;W[sb];B[rd]
+(;W[re];B[rd])
+(;W[sg];B[re]))
+(;W[rd];B[sb])
+(;W[sg];B[sh]
+(;W[sb];B[rd];W[re];B[rd])
+(;W[re];B[rd])
+(;W[rd];B[sb]))
+(;W[pc];B[rd]
+(;W[pb];B[re])
+(;W[re];B[rd])
+(;W[sg];B[re])
+(;W[pa];B[re])))
+(;W[re];B[sf]
+(;W[sd];B[rd])
+(;W[rd]C[White dies in gote.])
+(;W[sb]C[White remains dead even without Black playing.]))
+(;W[rd];B[sf]
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[re]C[White is dead even if Black plays elsewhere.])
+(;W[pc];B[pb]
+(;W[oc];B[ob]C[Black can keep on crawling until Black has enough liberties to kill the corner.White can't block; Black would cut.])
+(;W[re]C[White is dead as it stands.])
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[sg];B[sh]
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[re]C[White is dead as it stands.])
+(;W[oc];B[ob]C[Black can keep on crawling until Black has enough liberties to kill the corner.White can't block; Black would cut.])))
+(;W[sg];B[sh]
+(;W[pc];B[pb]
+(;W[oc];B[ob]C[Black can keep on crawling until Black has enough liberties to kill the corner.White can't block; Black would cut.])
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[re]C[White is dead...!]))
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[re]C[White is dead as it stands.])))
+(;W[sb];B[rd])
+(;W[sg];B[rd])
+(;W[pc];B[rd]))
+(;W[re];B[rf]
+(;W[sd];B[rd])
+(;W[rd]C[White dies even if Black plays elsewhere.])
+(;W[sb]C[White has only one eye, because Black can play either at S16 or at T16.])
+(;W[sf];B[rd]))
+(;W[rd];B[rf]
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[pc];B[pb]
+(;W[sd];B[sb])
+(;W[sb];B[sd])
+(;W[oc];B[ob]C[Black can keep on crawling until Black has enough liberties to kill the corner.White can't block; Black would cut.])))
+(;W[sd];B[rf]
+(;W[rd];B[sb])
+(;W[sb];B[rd]
+(;W[re];B[rd])
+(;W[sf];B[re]))
+(;W[re];B[rd])
+(;W[sf];B[re]
+(;W[rd];B[sb])
+(;W[sb];B[rd]))
+(;W[pc];B[rd]
+(;W[pb];B[re])
+(;W[re];B[rd])
+(;W[sf];B[re])))
+(;W[sf];B[rd])
+(;W[sb];B[rd])
+(;W[sc];B[rd])
+(;W[rg];B[rd])
+(;W[sg];B[rd])
+(;W[pc];B[rd]))

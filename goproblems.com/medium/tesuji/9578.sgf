@@ -1,0 +1,50 @@
+(;GE[tesuji]DI[2k]DP[22]SO[adum]CO[7]AB[bd]AB[cd]AB[dd]AB[ed]AW[db]AW[eb]AW[gc]AW[fd]AW[ge]AW[jc]AB[fe]AB[ff]AB[gf]AB[ef]AW[ee]AW[df]AW[cf]AW[be]AW[dg]AW[eh]AW[gh]AW[bg]AW[de]AB[he]AB[cb]AB[cc]C[black's corner is in trouble. what's the best way to save it?]AP[goproblems]
+(;B[fc];W[gd]
+(;B[gb];W[fb]
+(;B[hc];W[ec]
+(;B[hd]C[RIGHT])
+(;B[hb];W[hd];B[id];W[fc];B[ic];W[hf]))
+(;B[hb];W[hd];B[id];W[ec];B[hc];W[fc];B[ic];W[hf])
+(;B[ec];W[hb])
+(;B[hd];W[hc])
+(;B[hg];W[hb])
+(;B[hf];W[hb]))
+(;B[fb];W[gb]
+(;B[fa];W[ec])
+(;B[ec];W[fa]))
+(;B[ec];W[fb])
+(;B[hc];W[gb]
+(;B[fb];W[ec])
+(;B[ec];W[fb]))
+(;B[hd];W[gb])
+(;B[hg];W[gb]))
+(;B[gd];W[fc];B[hc];W[hb])
+(;B[fb];W[gb]
+(;B[gd];W[fc])
+(;B[fc];W[gd];B[ec];W[fa]))
+(;B[ab];W[gd]C[black lives but this is not a great result])
+(;B[ac];W[gd]C[black lives but this is not a great result])
+(;B[bb];W[gd]C[black lives but this is not a great result])
+(;B[ba];W[gd]C[black lives but this is not a great result])
+(;B[gb];W[fb]
+(;B[gd];W[fc])
+(;B[hd];W[hc]))
+(;B[ec];W[fc])
+(;B[hd];W[gb])
+(;B[ae];W[gd]
+(;B[bb];W[ca]
+(;B[ba];W[ac]
+(;B[ad];W[ab])
+(;B[ab];W[ad]))
+(;B[ac];W[ba]))
+(;B[ab];W[ba];B[ca];W[ad]
+(;B[ac];W[bb])
+(;B[bb];W[ac])))
+(;B[da];W[fc]
+(;B[ab];W[ad])
+(;B[bb];W[ac];B[ad];W[ca]))
+(;B[ad];W[gd]C[black lives but this is not a great result])
+(;B[ca];W[gd]C[black lives but this is not a great result])
+(;B[hc];W[gb]
+(;B[gd];W[fc];B[hb]C[RIGHT])
+(;B[fc];W[gd];B[hd];W[hb])))

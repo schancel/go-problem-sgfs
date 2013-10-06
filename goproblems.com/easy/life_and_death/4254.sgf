@@ -1,0 +1,19 @@
+(;GE[life and death]DI[4k]DP[30]SO[dakkon1024]CO[7]SZ[19]AW[pb]AW[qb]AW[oc]AW[nd]AW[qd]AW[ne]AW[oe]AW[pe]AW[qe]AB[mb]AB[ob]AB[nc]AB[md]AB[rd]AB[me]AB[re]AB[nf]AB[of]AB[pf]AB[qf]C[Viva la resistance!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[rc]C[You have killed all the white stones =*(RIGHT])
+(;B[pc];W[pd]C[Death Not Ko!];B[qc];W[rc]C[uh-huh....];B[qc];W[pc];B[rb];W[sb]C[....])
+(;B[od];W[pd];B[qc];W[rc])
+(;B[pd];W[rc];B[pc];W[qc];B[od];W[oc]C[Not enough mana...])
+(;B[qc];W[rc]
+(;B[pd];W[pc])
+(;B[od];W[pd])
+(;B[pc];W[pd]))
+(;B[rb];W[rc]
+(;B[pd];W[sc];B[pc];W[qc];B[od];W[oc]C[Don't worry, everything will be alright, you'll get those pesky white stones one day....])
+(;B[pc];W[pd]C[Ko?])
+(;B[sc];W[qc];B[pd];W[sb]
+(;B[sa];W[qa]
+(;B[sb]
+(;W[sd];B[se];W[ra])
+(;W[ra];B[sd];W[rf]))
+(;B[ra];W[sb]))
+(;B[ra];W[sd]))))

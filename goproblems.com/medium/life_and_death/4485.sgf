@@ -1,0 +1,96 @@
+(;GE[life and death]DI[3d]DP[9]SO[Greywulf]CO[8]AB[dd]AB[cf]AW[cc]AB[dc]AW[db]AB[eb]AW[bb]AB[bd]LB[da:A]C[For some reason black has deviated from the joseki move A. Play along.]TR[bd]LB[db:1]LB[eb:2]LB[bb:3]AP[goproblems]
+(;W[bc];B[ac]
+(;W[ca];B[ab]
+(;W[fb];B[ea];W[ec];B[fc];W[ed];B[gb];W[cd]C[You are alive!RIGHT])
+(;W[ec];B[fc]LB[ed:A]C[Do not play A]
+(;W[cd];B[de];W[be]C[You have found life.RIGHT])
+(;W[ed]C[NOTTHIS]))
+(;W[cd];B[be]
+(;W[fb];B[fc];W[ea];B[gb];W[ec];B[ed];W[eb];B[gc]C[Later you may want to play B19 to prevent a 2-step ko.RIGHT])
+(;W[ec]
+(;B[fb];W[de];B[ed]
+(;W[ee];B[fd];W[ce]C[Escape is a valid solution.RIGHT])
+(;W[ce]C[Escape is a valid solution.RIGHT]))
+(;B[ce]
+(;W[fb];B[ba])
+(;W[fc];B[ba]C[The ko is nastier.])))
+(;W[ce];B[de]
+(;W[bf];B[bg];W[df];B[cg]
+(;W[ec];B[fc];W[ed];B[ee];W[fd];B[fb])
+(;W[fb];B[ec];W[ea];B[ba]C[I'm afraid this won't do..]))
+(;W[fb];B[ec];W[ea];B[ba]C[Ko. This won't do.]))))
+(;W[ab];B[ca]
+(;W[ba];B[da]
+(;W[cb];B[fb];W[cd];B[be];W[ce];B[de];W[ea];B[da])
+(;W[cd];B[be]
+(;W[de];B[ce];W[ec];B[ed]C[Now what?])
+(;W[ce];B[de];W[bf];B[bg];W[df];B[cg];W[ec];B[ed]TR[db]TR[ec]C[Now what?])))
+(;W[cd];B[be]
+(;W[de];B[ce]
+(;W[fb];B[da];W[ec];B[cb];W[ed];B[db];W[ad];B[ee];W[df];B[ba];W[fa];B[fc];W[fd];B[dg];W[ef];B[fe];W[gd];B[ff])
+(;W[ec];B[ed];W[fb];B[ea]))
+(;W[ce];B[de]
+(;W[bf];B[bg];W[df];B[cg];W[ec];B[fc];W[ed];B[ee];W[fd];B[cb])
+(;W[fb];B[ec]
+(;W[da];B[ea])
+(;W[ea];B[da]))
+(;W[ec];B[fc];W[bf];B[bg];W[df];B[cg];W[ee];B[ed];W[fd];B[ec])
+(;W[df];B[bf];W[ec];B[fc];W[ed];B[ee];W[fd];B[cb]))
+(;W[ec];B[ed];W[fc];B[cb]))
+(;W[da];B[ea]
+(;W[cb];B[ba])
+(;W[cd];B[be]
+(;W[de];B[ce];W[cb];B[ba];W[ad];B[ec])
+(;W[ce];B[de];W[bf];B[bg];W[df];B[cg]C[Having the marked stones in atari doesn't really help]TR[da]TR[db]))
+(;W[ba];B[cb]))
+(;W[ec];B[ed]
+(;W[fc];B[cb])
+(;W[cd];B[be];W[ce];B[df];W[de];B[ee];W[fb];B[ea]))))
+(;W[ca];B[bc]C[A false eye..]MA[cb];W[fb];B[ea];W[ec];B[fc];W[ed];B[gb];W[cd];B[de]C[And no getting out.])
+(;W[ab];B[bc]
+(;W[da];B[fc]C[You're dead. The marked points are miai.]MA[ba]MA[cb])
+(;W[fb];B[ea];W[ec];B[fc];W[ed]
+(;B[da];W[ca];B[cb]C[Unfortunately the ko is not good enough anymore.])
+(;B[gb]C[Black won't play this move on the problem];W[da];B[fa];W[cd];B[de];W[cb];B[be];W[ba]))
+(;W[ec];B[fb];W[cd];B[ce];W[cb];B[ed];W[fc];B[gb]C[Not even a ladder.]))
+(;W[cd];B[be]
+(;W[ca];B[ea]
+(;W[da]
+(;B[bc];W[ec];B[ce]
+(;W[fb]C[RIGHT])
+(;W[cb];B[ab]C[oops])
+(;W[fc]C[RIGHT]))
+(;B[de];W[bc]))
+(;W[de];B[ce];W[ec];B[ed];W[fc];B[bc];W[cb];B[fd];W[gc];B[gd];W[hc]C[RIGHT]))
+(;W[bc];B[da];W[ca]C[The ko is no longer good enough.])
+(;W[de];B[ce]
+(;W[fb];B[da]
+(;W[cb];B[ec])
+(;W[ca];B[cb]C[Not good]))
+(;W[ec];B[ed];W[fc];B[fb]
+(;W[fd];B[ee];W[gb]C[Works.RIGHT])
+(;W[gb]C[Yes indeedRIGHT])))
+(;W[fb];B[da]
+(;W[cb];B[ec])
+(;W[ca];B[cb]C[Bad ko.]))
+(;W[ec];B[da];W[cb];B[fb];W[de];B[ed]
+(;W[ce]C[RIGHT])
+(;W[ee];B[fd];W[ce]C[EscapedRIGHT])))
+(;W[da];B[bc]
+(;W[fb];B[fc]
+(;W[ea];B[gb];W[ec];B[ed]
+(;W[eb];B[gc]C[Doesn't work])
+(;W[gc];B[eb]C[A fair ko, but ko is not good enough.]))
+(;W[fa];B[gb]
+(;W[hb];B[ga];W[ea];B[gc])
+(;W[ea];B[gc])))
+(;W[ec];B[fc];W[ed];B[fb];W[cd];B[de])
+(;W[ab];B[fb]
+(;W[ba];B[cb])
+(;W[cb];B[ba];W[cd];B[ce];W[be];B[bf])))
+(;W[ea];B[fb]
+(;W[bc];B[ac];W[ab];B[ca];W[ba];B[da])
+(;W[cd];B[be];W[bc];B[ac];W[ab];B[ca]))
+(;W[fb];B[da]
+(;W[ca];B[cb]C[Ko's not good enough])
+(;W[cb];B[ec])))

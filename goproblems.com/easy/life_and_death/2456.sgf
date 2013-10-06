@@ -1,0 +1,18 @@
+(;GE[life and death]DI[7k]DP[43]SO[Tropsy]CO[8]SZ[19]AW[ho]AW[ro]AW[hp]AW[rp]AW[iq]AW[pq]AW[qq]AW[rq]AW[ir]AW[mr]AW[nr]AW[or]AW[rr]AW[js]AW[ks]AW[ls]AW[rs]AB[qn]AB[rn]AB[io]AB[qo]AB[so]AB[ip]AB[jp]AB[pp]AB[qp]AB[sp]AB[jq]AB[lq]AB[mq]AB[nq]AB[oq]AB[sq]AB[jr]AB[kr]AB[lr]AB[pr]AB[qr]AB[sr]AW[gq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanco]PB[Negro]
+(;B[qs];W[ps])
+(;B[ss];W[sn])
+(;B[os];W[ps]
+(;B[qs];W[ps])
+(;B[ms];W[ns]))
+(;B[ps]
+(;W[ms]
+(;B[sn];W[os])
+(;B[os];W[is]))
+(;W[os];B[ms]
+(;W[qs];B[is];W[pr]C[Black gets 3 stones in sente, and might optionally invade the moyo at the left, but white lives.])
+(;W[ns];B[ms]C[This is obviously good for black, white should never play it.It is here only to show what would happen if white played it.])))
+(;B[ms]
+(;W[ns];B[ps];W[is];B[sn];W[ms];B[ss]C[Black gets the corner.RIGHT])
+(;W[ps];B[is]C[White has a single eye.RIGHT]))
+(;B[ns];W[ps])
+(;B[sn];W[ps];B[ms];W[ns]))

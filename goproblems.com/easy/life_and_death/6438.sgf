@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[49]SO[Schizoid]CO[9]AB[cs]AB[cr]AB[cq]AW[ds]AW[dr]AW[dq]AW[cp]AW[co]AB[bp]AB[bo]AB[bn]AW[cn]AW[cm]AW[as]LB[eo:Y]LB[fo:N]C[Black played tenuki here. Was this a wise thing to do? (Y=Yes) (N=No)]AB[bm]AW[cl]AP[goproblems]
+(;B[eo];W[bq]C[OK. Now show why.]
+(;B[aq];W[br]C[B dies.])
+(;B[br];W[aq]
+(;B[ar];W[bs]C[Oops! Black dies.])
+(;B[ap];W[ar];B[bs]C[Well Done! B lives.RIGHT]))
+(;B[ar];W[br];B[bs];W[as]C[B dies in snapback!])
+(;B[bs];W[br]C[Nope!])
+(;B[ap];W[br]C[B dies.]))
+(;B[fo];W[ep]C[That's not true. There's a way to counter the white cut.]))

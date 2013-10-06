@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[4]SZ[19]AP[Kombilo];AW[bm][cl][dk][ek][fk][dm][cj][bj]AB[ck][bk][bl][dj][ej][fj][gk][gl][gm][em]C[how to enclose white on the bottom?]
+
+(;B[dl];W[el](;B[fl];W[dl](;B[dn];W[cm](;B[bn];W[al];B[cn];W[ak]C[RIGHT]
+)(;B[cn];W[bn]C[black gets weaknesses this way]
+))(;B[cm];W[cn];B[dn];W[cm]C[not best shape]
+)(;B[cn];W[dn]))(;B[dn];W[al]C[white gets some shape]
+)(;B[cm];W[cn];B[fl];W[dl];B[dn];W[cm]C[cannot enclose white now]
+))(;B[fl];W[al]C[without the throw-in to start, white cannot be enclosed]
+)(;B[ci];W[ak]C[wrong direction: better to enclose white on the bottom side]
+)(;B[cm];W[cn]C[this helps white]
+)(;B[dn];W[al]C[white cannot be enclosed now]
+)(;B[bi];W[ci]C[good for white]
+)(;B[bn];W[al]C[too slow]
+)(;B[el];W[al]C[white cannot be enclosed]
+)(;B[cn];W[al]C[white cannot be enclosed]
+)(;B[am];W[ak])(;B[aj];W[al]))

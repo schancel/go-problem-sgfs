@@ -1,0 +1,11 @@
+(;GE[life and death]DI[18k]DP[66]SO[KET]CO[7]AB[rq]AB[rp]AB[qq]AB[qr]AB[qs]AB[so]AB[ro]AW[sn]AW[rn]AW[qo]AW[qp]AW[pq]AW[pr]AW[ps]AW[op]AW[qn]AP[goproblems]
+(;W[sr]
+(;B[sq];W[rs]C[Seki. Neither side can play S2; the other side would capture all stones.RIGHT]MA[rr])
+(;B[rr];W[sq]
+(;B[ss];W[rs]C[Black takes a huge risk by starting this ko. Black can gain just 5 points compared to the seki, and it will cost Black 2 extra moves. Losing the ko would lose Black 18 points compared to the seki.RIGHT])
+(;B[on];W[ss]C[Black cannot ignore T3; White will play here and kill Black. This is not seki; White can play S1 and start a ko fight  at the end of the game when there are no more threats. Under Japanese rules this is bent 4 in the corner and Black is dead by default.RIGHT];B[pn];W[rs];B[sp];W[sr];B[ss];W[rs]C[Tke ko in effect. White chooses the moment to start this (if need be).RIGHT])))
+(;W[sq];B[sr])
+(;W[rs];B[sr])
+(;W[rr];B[sr])
+(;W[ss];B[sr])
+(;W[sp];B[sr]))

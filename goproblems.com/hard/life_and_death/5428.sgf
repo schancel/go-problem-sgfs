@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5d]DP[5]SO[ferdi]CO[5]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[25/600 Canadian]
+PW[danoontje]PB[ferdi]WR[6d]BR[5d]DT[2003-11-03]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AW[ii][ki][hj][jj][lj][hk][lk][il][kl]AB[ig][jg][kg][hh][lh][gi][hi][li][mi][ij][kj][ik][kk][gl][hl][ll][ml][hm][lm][in][jn][kn]C[
+]RE[W+Resign]
+(;B[jh]CR[jh]
+(;W[jm]CR[jm]
+(;B[im]CR[im]
+(;W[jk]CR[jk]
+;B[km]CR[km]
+;W[ji]CR[ji]
+;B[jl]CR[jl]C[Ko :) RIGHT])
+(;W[jl]CR[jl]
+;B[ji]CR[ji]C[White is dead.]))
+(;B[km]CR[km]
+(;W[jk]CR[jk]
+;B[im]CR[im]
+;W[ji]CR[ji]
+;B[jl]CR[jl]C[Ko :) RIGHT])
+(;W[jl]CR[jl]
+;B[ji]CR[ji]C[White is dead.]))
+(;B[ji]CR[ji]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+(;W[ji]CR[ji]C[White lives.])
+(;W[jl]CR[jl]
+;B[ji]CR[ji]C[White is dead.])))
+(;W[jk]CR[jk]
+;B[jm]CR[jm]C[White is dead.])
+(;W[ji]CR[ji]
+;B[jl]CR[jl]C[White is dead.]))
+(;B[jm]CR[jm]
+;W[jl]CR[jl]C[White lives.])
+(;B[jl]CR[jl]
+;W[jk]CR[jk]
+(;B[jm]CR[jm]
+;W[jh]CR[jh]C[White lives.])
+(;B[jh]CR[jh]
+;W[jm]CR[jm]C[White lives.])))

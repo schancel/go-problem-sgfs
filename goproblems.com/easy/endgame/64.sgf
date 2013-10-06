@@ -1,0 +1,36 @@
+(;GE[endgame]DI[8k]DP[47]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];LB[qf:1]
+AW[ob][pb][rb][sb][nc][pc][qc][rc][nd][ne][of][qf][pg][ph][pi][pj][rj][pk][qk][sk][rl]
+AB[oc][sc][od][pd][qd][rd][sd][oe][pf][qg][rg][qh][qi][ri][qj]
+C[white just played 1. a real threat?
+]
+(;B[rf];W[pe];B[qe];W[pf]
+C[RIGHT
+black gets sente and only concedes a few points
+])
+
+(;B[pe];W[re]
+(;B[rf];W[se]
+(;B[qe];W[qf])
+
+(;B[sf];W[qe];B[sh]C[not so hot
+])
+)
+
+(;B[qe];W[rf])
+)
+
+(;B[qe];W[rf]
+(;B[sf];W[pe]C[ko for life of group: bad
+])
+
+(;B[re];W[pe]C[bad
+])
+)
+
+)

@@ -1,0 +1,38 @@
+(;GE[elementary]DI[2d]DP[12]SO[santa c]CO[8]AB[ac]AB[bc]AB[cd]AB[dd]AB[dc]AW[bd]AW[be]AW[ce]AW[de]AW[ee]AW[ed]AW[ec]AB[db]AW[eb]AW[bb]C[How many ways does Black have here to guarantee her group, unconditional life?FORCE]LB[gb:0]LB[gc:1]LB[gd:2]LB[ge:3]AP[goproblems]
+(;B[ge];W[gb]C[Correct... Pick one and live... :)]
+(;B[cb]C[Well done! :)RIGHT])
+(;B[ab]
+(;W[cb]
+(;B[ba]
+(;W[da]
+(;B[cc];W[ea];B[ca]C[Well done! :)CHOICERIGHT])
+(;B[ca];W[cc]C[:(]))
+(;W[ca];B[da];W[aa];B[cc]C[RIGHT]))
+(;B[ca];W[ba]C[:(])
+(;B[da];W[ba]C[:(])
+(;B[cc];W[ba]C[:(]))
+(;W[ba]
+(;B[cb];W[da]
+(;B[aa]C[Well done! :)CHOICERIGHT])
+(;B[ca];W[cc]C[:(]))
+(;B[da];W[cb]C[:(])
+(;B[ca];W[cb]C[:(])))
+(;B[ba]
+(;W[cb]
+(;B[ab]
+(;W[da]
+(;B[cc];W[ea];B[ca]C[Well done! :)RIGHT])
+(;B[ca];W[cc]C[:(]))
+(;W[ca];B[da];W[aa];B[cc]C[RIGHT]))
+(;B[cc];W[ab]C[:(])
+(;B[ca];W[ab]C[:(])
+(;B[da];W[ab]C[:(]))
+(;W[ab];B[cb]C[RIGHT])
+(;W[ca];B[cb];W[aa];B[ab]C[RIGHT]))
+(;B[da];W[cb]C[:(]TR[ab]TR[ba])
+(;B[ca];W[cb]C[:(]TR[ab]TR[ba])
+(;B[aa];W[cb]C[:(])
+(;B[ea];W[cb]C[:(]))
+(;B[gd]C[The correct anwser is 3. Use 'Navigate Solution' under 'Show Solution' on the left, following the correct path to see for yourself.])
+(;B[gc]C[The correct anwser is 3. Use 'Navigate Solution' under 'Show Solution' on the left, following the correct path to see for yourself.])
+(;B[gb]C[The correct anwser is 3. Use 'Navigate Solution' under 'Show Solution' on the left, following the correct path to see for yourself.]))

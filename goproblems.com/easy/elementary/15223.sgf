@@ -1,0 +1,6 @@
+(;GE[elementary]DI[20k]DP[71]SO[mysandbox]CO[0]AW[rc]AW[rd]AW[qd]AW[pd]AW[oc]AW[nc]AB[od]AB[pe]AB[qe]AB[re]AB[pc]AB[pb]AB[qc]AB[rb]AW[qb]AW[ra]C[black to force 2 step ko for  W]AP[goproblems]
+(;B[qa];W[sb];B[sa]C[W have 2 step ko to killRIGHT])
+(;B[sb];W[pa]C[W have direct ko to kill])
+(;B[pa];W[sb])
+(;B[sa];W[sb])
+(;B[ob];W[sb]C[W alive, or W can play O18 and Black waste ko threat]))

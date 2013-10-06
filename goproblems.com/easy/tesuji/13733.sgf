@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[12k]DP[56]SO[DarkSycthe]CO[0]AW[bd]AW[dd]AW[fc]AW[bf]AW[bg]AW[ch]AW[ci]AW[bi]AW[bj]AW[bk]AB[ck]AB[cj]AB[bl]AB[cl]AB[di]AB[dh]AB[cg]AB[cf]AB[bh]AB[ah]AB[ef]AB[ej]LB[ah:1]LB[bf:2]C[White responded 2 to black 1. Black to punish.]AP[goproblems]
+(;B[be]
+(;W[ce]
+(;B[ak]C[Good! White can't play at A!RIGHT]LB[ai:A])
+(;B[ai]C[Works, but slightly worse due to ko threats.RIGHT])
+(;B[aj]C[RIGHT]))
+(;W[ai]C[If white is desperate for these stones this move is possible.]MA[bk]MA[bj]MA[bi]MA[ci]MA[ch]MA[ai]
+(;B[ak];W[ag]
+(;B[ce];W[ae];B[cd]
+(;W[bc];B[cc];W[cb];B[db];W[bb];B[dc]C[White lives, but at the cost of the corner enclosure white had.RIGHT]))
+(;B[cd];W[ae];B[ce];W[bc]))
+(;B[ce];W[ak];B[cd];W[cc]
+(;B[bc];W[bb];B[ad];W[dc]C[Playable due to senteRIGHT])
+(;B[dc];W[db];B[bc];W[cb]C[sente is good.RIGHT]))
+(;B[ae];W[ce])
+(;B[af]C[NOTTHIS])
+(;B[cd];W[ae]
+(;B[cc]C[NOTTHIS])
+(;B[ce];W[bc];B[cc];W[cb];B[db];W[bb];B[dc]C[Corner is destroyedRIGHT]))
+(;B[de];W[ae]
+(;B[ce];W[cd])
+(;B[cd];W[cc];B[ce];W[bc]))
+(;B[ed]C[NOTTHIS])))
+(;B[ce];W[be])
+(;B[ak];W[ag];B[be];W[ai])
+(;B[ed]C[NOTTHIS])
+(;B[de];W[ce])
+(;B[cd]C[NOTTHIS])
+(;B[cc]C[NOTTHIS])
+(;B[ec]C[NOTTHIS])
+(;B[dc]C[NOTTHIS]))

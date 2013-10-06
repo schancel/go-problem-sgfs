@@ -1,0 +1,27 @@
+(;GE[life and death]DI[15k]DP[64]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[po][qo][so][pp][rp][oq][pq][qq][rq][or][pr][os]
+AB[pn][qn][rn][sn][oo][ro][op][nq][nr][qr][rr][sr][ns][ps][rs]PL[2]
+C[white to live unconditionally
+]
+(;W[sq];B[sp];W[qs]
+C[RIGHT
+white lives by double ko, black cannot win this
+])
+
+(;W[qs];B[sq]
+(;W[sp];B[ps]C[ko
+])
+
+(;W[ps];B[sp])
+)
+
+(;W[sp];B[sq]C[ko
+])
+
+)

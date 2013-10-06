@@ -1,0 +1,11 @@
+(;GE[elementary]DI[12k]DP[55]SO[thavdog]CO[0]AW[qr]AW[qq]AW[qp]AW[po]AW[pn]AW[qm]AB[pp]AB[pq]AB[pr]AB[or]AW[nr]AW[oq]AW[op]AW[np]AB[oo]AB[no]AB[mo]AB[lp]AB[lq]AW[lo]AW[ko]AW[mn]AW[nn]TR[np]TR[op]TR[oq]C[Black to capture the marked stones.]AP[goproblems]
+(;B[nq];W[mq]
+(;B[mp];W[nq]
+(;B[mr]C[RIGHT])
+(;B[ns]C[RIGHT]))
+(;B[mr];W[os])
+(;B[ns];W[ps]))
+(;B[mp];W[nq];B[ns];W[ps])
+(;B[mq];W[nq];B[mr];W[ps])
+(;B[mr];W[os])
+(;B[ns];W[ps]))

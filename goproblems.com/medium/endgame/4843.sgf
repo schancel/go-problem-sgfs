@@ -1,0 +1,17 @@
+(;GE[endgame]DI[2d]DP[12]SO[hello]CO[6]AB[dq]AB[dp]AB[cp]AW[cq]AW[dr]AW[bp]AB[en]AB[eo]AB[fo]AB[gn]AB[ho]AB[iq]AW[bq]AW[co]AW[do]AW[dn]AW[cm]AW[em]AW[fm]AW[fn]TR[dr]C[How should black handle whites marked move?]AP[goproblems]
+(;B[er];W[fr]
+(;B[eq];W[es]C[Black lost a lot])
+(;B[cr];W[ds]
+(;B[es];W[ep]
+(;B[cs];W[dr];B[eq];W[fp];B[go];W[fq])
+(;B[eq];W[fp];B[go];W[fq];B[cs];W[br];B[fs];W[gr]C[No escape for black]))
+(;B[cs];W[ep];B[eq];W[fp];B[go];W[fq];B[es];W[br];B[fs];W[gr];B[hr];W[gs];B[hs];W[dr];B[ds];W[bs]))
+(;B[es];W[ep];B[eq];W[fp];B[go];W[fq]))
+(;B[fq];W[fr];B[gr];W[er];B[hq])
+(;B[eq];W[er];B[fq];W[gr])
+(;B[fr];W[er]
+(;B[fq];W[fs];B[gs];W[es]
+(;B[gr]C[RIGHT])
+(;B[hr]C[RIGHT])
+(;B[gq]C[RIGHT]))
+(;B[eq];W[fq];B[ep];W[gr])))

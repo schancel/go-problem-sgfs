@@ -1,0 +1,14 @@
+(;GE[endgame]DI[2d]DP[12]SO[severin333]CO[8]SZ[19]AB[qb]AB[qc]AB[rd]AB[pc]AB[ob]AB[od]AB[nd]AB[md]AB[ld]AB[kd]AB[kc]AW[lc]AW[mc]AW[nc]AW[oc]AW[pb]AW[na]AW[kb]AW[jb]AW[jc]AW[jd]AW[je]AW[kf]AW[mf]AW[of]AW[pf]AB[pe]AB[qe]AB[qf]AW[re]AW[rf]AB[rg]AB[rh]AW[qg]AW[qh]AW[qi]AW[ri]C[There are two moves that Black wants to play. Is it possible for him to play both of them ?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[ma]
+(;W[la]
+(;B[se];W[nb];B[pa]C[RIGHT])
+(;B[nb];W[mb]
+(;B[pa];W[sh]C[There's a way to kill both Q18 and S15, try again !])
+(;B[se];W[oa]C[There's a way to kill both Q18 and S15, try again !]))
+(;B[sf]C[Sorry, but T15 is a bit better]))
+(;W[sh];B[lb]C[a big mistake for white...]))
+(;B[nb];W[mb];B[pa];W[sh]C[There's a way to kill both Q18 and S15, try again !])
+(;B[se];W[pa];B[qa];W[oa];B[ma];W[nb]C[You should have take both Q18 and S15])
+(;B[oa];W[nb]
+(;B[pa];W[sh]C[You should have take both Q18 and S15])
+(;B[se];W[pa]C[You should have take both Q18 and S15])))

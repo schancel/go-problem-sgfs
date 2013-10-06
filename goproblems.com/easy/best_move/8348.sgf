@@ -1,0 +1,3 @@
+(;GE[best move]DI[10k]DP[52]SO[jocund]CO[6]AW[a1]AB[A2]C[Can white profit from this ladder? If so play at L otherwise, Tenuki at T.CHOICE]AB[oq]AB[pq]AB[qp]AW[pp]AB[po]AW[dd]AB[cd]AB[ed]AB[ec]AB[ce]AW[dc]AW[cc]AB[db]AB[cb]AB[bb]AW[bc]AW[bd]AB[be]AW[de]TR[pp]LB[pd:T]LB[op:L]
+(;W[pd]C[RIGHT])
+(;W[op];B[np];W[oo];B[on];W[no];B[mo]AW[nn]AB[nm]AW[mn]AB[ln]AW[mm]AB[ml]AW[lm]AB[km]AW[ll]AB[lk]AW[kl]AB[jl]AW[kk]AB[kj]AW[jk]AB[ik]AW[jj]AB[ji]AW[ij]AB[hj]AW[ii]AB[ih]AW[hi]AB[gi]AW[hh]AB[hg]AW[gh]AB[fh]AW[gg]AB[gf]AW[fg]AB[eg];W[ff];B[fe];W[ef];B[df];W[ee];B[ad]))

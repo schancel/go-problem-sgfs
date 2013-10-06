@@ -1,0 +1,91 @@
+(;GE[endgame]DI[3d]DP[9]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[da][ab][bb][cb][db][cc][cd][fd][ce][ge][cf][ef][ff][cg][eg]AB[ea][eb][ac][bc][dc][ec][fc][bd][dd][be][de][ee][fe][bf][bg]C[No komi, no prisoners - Black to play and win!]
+(;B[gb]CR[gb]
+(;W[gd]CR[gd]
+(;B[df]CR[df]
+(;W[dg]CR[dg]
+;B[fa]CR[fa]C[Black wins by one point! RIGHT])
+(;W[fa]CR[fa]
+;B[dg]CR[dg]
+;W[ba]CR[ba]
+;B[ed]CR[ed]
+;W[fb]CR[fb]
+;B[ga]CR[ga]
+;W[fb]CR[fb]
+;B[fa]CR[fa]
+;W[gf]CR[gf]
+;B[gg]CR[gg]
+;W[fg]CR[fg]C[Black wins by four points!]))
+(;B[fa]CR[fa]
+;W[df]CR[df]C[This is only a jigo - Black missed d2!]))
+(;W[df]CR[df]
+;B[gd]CR[gd]
+;W[gc]CR[gc]
+;B[ed]CR[ed]C[Black wins big!])
+(;W[fa]CR[fa]
+;B[gd]CR[gd]
+;W[gc]CR[gc]
+;B[ed]CR[ed]C[Black wins big!]))
+(;B[gd]CR[gd]
+;W[gc]CR[gc]
+;B[gb]CR[gb]
+;W[gd]CR[gd]
+(;B[df]CR[df]
+;W[dg]CR[dg]
+(;B[fa]CR[fa]C[This is only a jigo - sacrificing a stone was bad!])
+(;B[ed]CR[ed]
+;W[gf]CR[gf]
+;B[fa]CR[fa]C[This is only a jigo - sacrificing a stone was wrong]))
+(;B[fa]CR[fa]
+;W[df]CR[df]C[WHITE wins by one point?! Sacrificibg a stone was wrong, and Black also missed the sente play d2]))
+(;B[df]CR[df]
+;W[dg]CR[dg]
+(;B[gb]CR[gb]
+;W[fa]CR[fa]
+;B[gd]CR[gd]
+;W[gc]CR[gc]
+(;B[gf]CR[gf]
+;W[gg]CR[gg]
+;B[gd]CR[gd]
+;W[af]CR[af]
+(;B[ae]CR[ae]
+;W[gc]CR[gc]C[Black has no more ko threat])
+(;B[gf]CR[gf]
+;W[ae]CR[ae]C[This is hopeless for Black]))
+(;B[ed]CR[ed]
+;W[fb]CR[fb]C[ooops....]))
+(;B[gd]CR[gd]
+;W[gc]CR[gc]
+(;B[gb]CR[gb]
+(;W[gd]CR[gd]
+(;B[fa]CR[fa]C[This is only a jigo, but Black had no choice - after playing d2, he must sacrifice a stone at g4])
+(;B[ed]CR[ed]
+;W[gf]CR[gf]
+;B[fa]CR[fa]C[This is only a jigo]))
+(;W[fa]CR[fa]
+;B[gd]CR[gd]
+;W[af]CR[af]
+;B[ae]CR[ae]
+;W[gc]CR[gc]
+;B[gf]CR[gf]C[This would be ok for Black, but White F9 was a mistake - g4 is better]))
+(;B[ed]CR[ed]
+;W[gd]CR[gd]C[good enough for white - he can also fight the ko]
+;B[gb]CR[gb]
+;W[gf]CR[gf]
+;B[fa]CR[fa]C[Jigo!]))
+(;B[gf]CR[gf]
+;W[gd]CR[gd]
+(;B[ba]CR[ba]
+;W[gg]CR[gg]C[White lives, Black is dead])
+(;B[gg]CR[gg]
+;W[ba]CR[ba]C[White lives, black is dead])))
+(;B[gc]CR[gc]
+;W[gd]CR[gd]C[Black is dead])
+(;B[gf]CR[gf]
+;W[gd]CR[gd]
+;B[df]CR[df]
+;W[dg]CR[dg]
+;B[gg]CR[gg]
+;W[ba]CR[ba]C[Black is dead])
+(;B[ba]CR[ba]C[There is always a second white eye at the bottom]))

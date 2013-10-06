@@ -1,0 +1,86 @@
+(;GE[life and death]DI[2d]DP[13]SO[idiot2]CO[0]AB[ad]AB[bd]AB[bc]AB[cc]AB[dc]AB[eb]AB[fb]AB[fc]AB[gc]AW[ec]AW[ed]AW[dd]AW[cd]AW[be]AW[ce]AW[ae]AW[fd]AW[gd]AW[fe]AW[ff]AW[df]AW[hc]AW[hb]AW[jb]AW[jc]AW[id]AW[jd]AW[kd]AW[ke]AW[ka]AW[db]AB[hd]AB[he]AB[ie]AB[je]AB[jf]AB[kf]AB[lf]AB[le]AB[ld]AB[lc]AB[kc]AB[kb]AB[la]AB[ki]AW[cj]TR[db]C[black should regret ignoring the marked move.]AP[goproblems]
+(;W[cb];B[bb]
+(;W[ga]
+(;B[da]
+(;W[gb];B[ia];W[ea];B[ca];W[db];B[cb];W[fa];B[db]
+(;W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT])
+(;W[ib];B[ja];W[ab];B[aa];W[ba]C[a big koRIGHT]))
+(;W[ea];B[ca]
+(;W[db];B[fa];W[gb];B[cb];W[ja]C[RIGHT])
+(;W[gb];B[ia];W[db];B[cb];W[fa];B[db]
+(;W[ab])
+(;W[ib];B[ja];W[ab];B[aa];W[ba]C[RIGHT]))))
+(;B[ea];W[gb];B[ia];W[fa]C[RIGHT])
+(;B[ca];W[gb];B[ia];W[ea];B[da];W[db];B[cb];W[fa];B[db];W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT]))
+(;W[ea];B[ca];W[ga];B[da]
+(;W[db]
+(;B[fa];W[gb];B[cb]
+(;W[ia]C[RIGHT])
+(;W[ja]C[RIGHT])
+(;W[ib]C[RIGHT]))
+(;B[cb]
+(;W[gb];B[ia];W[fa];B[db];W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT])
+(;W[fa];B[ia]
+(;W[gb];B[db]
+(;W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT])
+(;W[ib]C[RIGHT]))
+(;W[ib];B[ja];W[ab]C[RIGHT]))))
+(;W[gb]C[RIGHT]))
+(;W[ca];B[ba];W[ga];B[ia])
+(;W[da];B[ea]
+(;W[gb];B[ca]
+(;W[ia];B[ga])
+(;W[ga];B[ia]))
+(;W[ga];B[ia];W[gb];B[ca]
+(;W[ja];B[ib])
+(;W[ib];B[ja])))
+(;W[ba];B[da]
+(;W[ga];B[ca]
+(;W[ia];B[gb])
+(;W[ib];B[gb]))
+(;W[gb];B[ia];W[fa];B[ca]))
+(;W[fa];B[da];W[ia];B[gb];W[ga];B[ca];W[db];B[ea])
+(;W[gb];B[da]
+(;W[ga];B[ia];W[ea];B[ca];W[db];B[cb];W[fa];B[db]
+(;W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT])
+(;W[ib];B[ja];W[ab];B[ka];W[ba];B[aa]C[a big koRIGHT]))
+(;W[ea];B[ca];W[db]
+(;B[fa])
+(;B[cb];W[ga];B[ia];W[fa];B[db];W[ab];B[ib];W[ba];B[aa]C[a big koRIGHT]))))
+(;W[da];B[ca]
+(;W[ga];B[cb]
+(;W[ib];B[gb])
+(;W[ia];B[gb]))
+(;W[cb];B[bb];W[ba];B[ea]
+(;W[ga];B[ia];W[gb];B[ca];W[ib];B[ja])
+(;W[ia];B[ga];W[gb];B[ca])
+(;W[ca];B[aa]))
+(;W[ea];B[cb]
+(;W[ga];B[fa]
+(;W[ia];B[gb])
+(;W[ib];B[gb]))
+(;W[gb];B[fa];W[ib];B[ga])))
+(;W[ea];B[cb];W[ga];B[da]
+(;W[ia];B[gb])
+(;W[gb];B[ia];W[fa];B[db]
+(;W[ab];B[ba])
+(;W[ba];B[ab])
+(;W[bb];B[ab];W[ba])
+(;W[ib];B[ja];W[ab];B[ba])
+(;W[ja];B[ib]))
+(;W[fa];B[ia];W[ib];B[ja]
+(;W[gb];B[db];W[ab];B[ba])
+(;W[ab];B[ba])
+(;W[ba];B[ab])))
+(;W[fa];B[cb]
+(;W[ia];B[ga])
+(;W[gb];B[da];W[ga];B[ia];W[ea];B[db]
+(;W[ab];B[ba])
+(;W[ba];B[ab]))
+(;W[da];B[ca];W[gb];B[ea]
+(;W[ia];B[ga])
+(;W[ga];B[ia])))
+(;W[gb];B[cb];W[ga];B[ia]
+(;W[ea];B[da];W[fa];B[db];W[ab];B[ba])
+(;W[ib];B[ja];W[ea];B[da];W[fa];B[db];W[ab];B[ba]))
+(;W[ga];B[cb];W[ea];B[da]))

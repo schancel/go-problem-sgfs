@@ -1,0 +1,50 @@
+(;GE[tesuji]DI[5d]DP[5]SO[tristesse]CO[4]SZ[19]AW[oo]AW[on]AW[pq]AW[pp]AW[pk]AW[qq]AW[qk]AW[rp]AW[ro]AW[rm]AW[rl]AW[sn]AB[mp]AB[or]AB[oq]AB[op]AB[po]AB[qp]AB[qo]AB[qn]AB[qm]AB[ql]AB[rn]C[Play T if you think Black can't be saved, save black otherwise.]LB[ml:T]TR[po]TR[qo]TR[qp]TR[qn]TR[rn]TR[qm]TR[ql]AW[ol]FF[1]GM[1]AP[Jago:Version 4.6]GN[vi.7]
+(;B[rq];W[rr]
+(;B[qr];W[sq]
+(;B[pr];W[rq]
+(;B[so];W[rs];B[sm];W[rk];B[qs];W[pl];B[sn];W[pm]
+(;B[sr];W[pn])
+(;B[ss];W[pn]))
+(;B[sm];W[so])
+(;B[rs];W[so]))
+(;B[so];W[rs];B[pr];W[rq]))
+(;B[sq];W[sr])
+(;B[so];W[sq];B[sm];W[sk]C[White will win this semeai.]))
+(;B[so];W[rr];B[sm];W[sk]C[White wins this semeai.])
+(;B[rr];W[rq])
+(;B[sq];W[rq])
+(;B[ml]AB[pq]AB[qq]AB[pp]AW[op]AW[oq]AW[or]AW[po]AW[qo]AW[qp]AB[rp]AB[ro]AW[rn]AW[qn]AB[sn]AW[qm]AW[ql]AB[rm]AB[rl]AB[pk]AB[qk]AB[on]AB[oo]AB[ol];W[rq]C[Show how to kill white then.]TR[po]TR[qo]TR[qp]TR[qn]TR[rn]TR[qm]TR[ql]AB[ol]
+(;B[rr];W[qr];B[sq];W[pr];B[rq];W[so]
+(;B[rs];W[sm]
+(;B[rk];W[qs]
+(;B[pl];W[sn];B[pm];W[sr]
+(;B[pn]C[RIGHT])
+(;B[sl]C[RIGHT]))
+(;B[sl];W[sn];B[pl];W[sr]
+(;B[pm]C[RIGHT])
+(;B[pn]C[RIGHT]))
+(;B[pm];W[sn]
+(;B[pl])
+(;B[pn];W[sr]
+(;B[pl]C[RIGHT])
+(;B[sl]C[RIGHT]))
+(;B[sl];W[sr]
+(;B[pl]C[RIGHT])
+(;B[pn]C[RIGHT])))
+(;B[pn];W[sr]
+(;B[pl];W[sn]
+(;B[sl]C[RIGHT])
+(;B[pm]C[RIGHT]))
+(;B[sl];W[sn]
+(;B[pl]C[RIGHT])
+(;B[pm]C[RIGHT]))
+(;B[pm];W[sn])))
+(;B[sk]C[NOTTHIS])
+(;B[rj]C[NOTTHIS])
+(;B[pl];W[rk])
+(;B[pn];W[rk])
+(;B[pm];W[rk]))
+(;B[sm];W[rs];B[sp];W[sr]C[Ko])
+(;B[pl];W[sm];B[rk];W[rs];B[pm];W[sr])
+(;B[pm];W[sm];B[rk];W[rs]))
+(;B[sq];W[rr])))

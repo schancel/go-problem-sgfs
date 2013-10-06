@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[30k]DP[83]SO[santa c]CO[8]AW[po]AW[qo]AW[oo]AW[qn]AB[pn]AB[on]AB[om]AB[ol]AW[pm]AB[qm]AB[ql]AB[ok]AB[pk]AW[nn]AW[nm]AB[no]AB[mo]AB[op]AB[pq]AB[qr]AW[np]AW[qq]AW[ln]LB[op:A]C[Black played 'A' to disconnect - 'Undo' it ;)]AP[goproblems]
+(;W[oq]C[Q4 was originally played, but black shouldn't fall for the ladder and try to live in the corner. (All the bS2 variations were suggested by tderz)]
+(;B[pp]
+(;W[pr];B[qp];W[rp]C[Nice! (I connected as well - Lost the game, but connected, and got this one corner..) - Shouldn't happen as black's unlikly to proceed with the ladder.])
+(;W[qp];B[pr]))
+(;B[rq]C[Black lives in the corner, and everybody's happy... (You could resume it, but it's not a part of the problem anymore - As what's requested was to connect.. - To see for yourself, that you can't kill, BUT a mistake would fail you.)RIGHT]
+(;W[qp]
+(;B[pr];W[pp]
+(;B[rs]
+(;W[lo]C[Nice ;)CHOICERIGHT])
+(;W[lp]C[Nice ;)CHOICERIGHT]))
+(;B[or];W[nr];B[rs]
+(;W[lo]C[Nice ;)CHOICERIGHT])
+(;W[lp]C[Nice! ;)CHOICERIGHT])))
+(;B[or]C[];W[pp];B[pr];W[nr];B[rs]
+(;W[lo]C[Nice! ;)CHOICERIGHT])
+(;W[lp]C[Nice! ;)RIGHT])))
+(;W[pr];B[qp];W[pp];B[qq]
+(;W[nr]C[Nice ;)CHOICERIGHT])
+(;W[lo]C[Nice ;)CHOICERIGHT])
+(;W[lp]C[Nice ;)CHOICERIGHT]))))
+(;W[pp];B[oq])
+(;W[nq]C[Nice - This posses a double threat - either to connect through capturing P4 or by netting and getting N5 (Tderz - Thanks!;)RIGHT])
+(;W[mp]C[];B[lo]C[This isn't too good, as the black move at M5 is harming the center.])
+(;W[mq]C[This isn't too good, as the following black move at M5 is harming the center.]))

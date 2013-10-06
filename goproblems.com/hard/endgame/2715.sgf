@@ -1,0 +1,127 @@
+(;GE[endgame]DI[4d]DP[8]SO[Hans]CO[9]
+AW[rp][sp][pq][qq][sq][mr][nr][or][ms]
+AB[qn][ro][so][pp][qp][lq][mq][nq][oq][lr][ls]C[Black to play.
+]
+(;B[sr];W[rq]
+(;B[pr];W[qr]
+(;B[qs];W[ps]
+(;B[rs]C[
+];W[pr];B[os];W[ns]
+C[This is not best. It is seki but white has captured 2 stones.
+])
+
+(;B[rr];W[rs])
+)
+
+(;B[ps];W[qs];B[rs];W[os])
+)
+
+(;B[rr];W[qs])
+
+(;B[qs];W[pr]
+(;B[rr];W[qr])
+
+(;B[rs];W[ps]
+(;B[rr];W[qr])
+
+(;B[os];W[rr])
+)
+)
+)
+
+(;B[pr];W[qr]
+(;B[sr];W[rq]
+(;B[qs];W[ps]
+(;B[rs]C[
+];W[pr];B[os];W[ns]
+C[This is not best. It is seki, but white has captured two stones.
+])
+
+(;B[rr];W[rs])
+)
+
+(;B[rr];W[ps])
+)
+
+(;B[rr];W[rq];B[qs];W[ps])
+
+(;B[qs];W[ps];B[sr];W[rq];B[rs]C[
+];W[pr];B[os];W[ns]
+C[This is not best. It is a seki but white has captured two stones.
+])
+)
+
+(;B[ps];W[qr]
+(;B[rr];W[rq];B[qs];W[sr];B[rs];W[os]C[White lives with territory.
+])
+
+(;B[sr];W[rq]
+(;B[pr];W[qs]
+(;B[os];W[ns]
+(;B[ps]
+(;W[rr]C[White lives with territory.
+])
+
+(;W[pr];B[rs]C[This would be a failure for white. 
+])
+)
+
+(;B[rs];W[ps]C[White lives with territory.
+])
+)
+
+(;B[rs];W[os])
+)
+
+(;B[qs];W[rs])
+
+(;B[rs];W[qs];B[os]
+C[This is a gote seki (for black) but white can capture the stones at P1/Q1 and black has to sacrifice another stone to be alive in a seki. In the correct solution black can get a seki without sacrificing stones.
+])
+)
+
+(;B[pr];W[qs])
+)
+
+(;B[qs];W[pr]
+(;B[rr];W[rq];B[ps]C[
+];W[qr];B[os];W[sr];B[rs]C[RIGHT Seki.
+])
+
+(;B[sr];W[rq]
+(;B[rr];W[qr]C[White lives with territory.
+])
+
+(;B[rs];W[ps]C[White lives with territory.
+])
+
+(;B[ps];W[rs];B[rr];W[qr])
+)
+)
+
+(;B[rs];W[ps]
+(;B[sr];W[rq];B[qs];W[pr]C[White lives with territory.
+])
+
+(;B[qs];W[pr]C[White lives with territory.
+])
+
+(;B[pr];W[qr];B[sr];W[rq];B[qs]C[
+];W[pr];B[os];W[ns]
+C[This is not best. It is seki but white has captured two stones.
+])
+)
+
+(;B[rr];W[rq]
+(;B[qs];W[pr]
+(;B[ps];W[qr];B[os];W[sr];B[rs]C[RIGHT Seki.
+])
+
+(;B[sr];W[qr])
+)
+
+(;B[ps];W[qr];B[qs];W[sr];B[rs];W[os]C[White lives with territory
+])
+)
+
+)

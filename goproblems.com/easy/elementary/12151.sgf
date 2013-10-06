@@ -1,0 +1,14 @@
+(;GE[elementary]DI[7k]DP[41]SO[holyhell99]CO[0]AW[ep]AW[dp]AW[cp]AW[bp]AW[ap]C[Can black capture the marked stone???Y for yes,N for no]AW[fp]AW[cs]AW[fs]AB[gs]AW[fq]AB[gq]AB[gp]AB[go]LB[fr:Y]LB[gr:N]TR[fs]AP[goproblems]
+(;B[gr];W[fr]C[There was a way but there isn't now])
+(;B[fr]C[It's black's turn can black capture the marked stone???Y for yes,N for no];W[es]
+(;B[ds];W[dr])
+(;B[dr];W[er])
+(;B[er];W[ds]
+(;B[dr];W[cr])
+(;B[br];W[cr])
+(;B[cr];W[br]
+(;B[dr];W[bs])
+(;B[bs];W[as]
+(;B[dr];W[bs];B[bq]C[RIGHT])
+(;B[bq];W[dr])))
+(;B[bs];W[cr]))))

@@ -1,0 +1,70 @@
+(;GE[endgame]DI[15k]DP[64]SO[Py687]CO[0]AB[rs]AB[qs]AB[qr]AB[pr]AB[pq]AB[oq]AB[op]AB[on]AB[om]AB[pl]AB[qm]AB[pk]AB[qk]AB[rk]AB[np]AB[no]AW[rm]AW[sm]AW[sl]AW[rl]AW[ql]AW[pm]AW[pn]AW[oo]AW[po]AW[pp]AW[qp]AW[qq]AW[rq]AW[sr]AW[rr]AB[sk]LB[kk:Tenuki]AB[ss]C[Can you find the correct move in this endgame situation? Assume that any tenuki you make is worth 3-4 points.CHOICE]AP[goproblems]
+(;W[kk];B[rn];W[qn]
+(;B[ro]
+(;W[sn];B[so];W[qm]
+(;B[rp];W[sp];B[sq]C[You don't need a ko to live...])
+(;B[sp];W[rp]C[Black made a mistake, giving you a seki, but you can do better.]))
+(;W[so];B[sp]C[]
+(;W[rp];B[sn];W[qm]C[Seki. :(])
+(;W[sq];B[sn];W[qm]C[Dead!]))
+(;W[qm];B[sp]
+(;W[rp];B[sn]C[Seki. :(])
+(;W[sn]LB[so:B]LB[rp:A]C[Wrong. White needs both A and B to live.])
+(;W[sq];B[sn]C[Dead!])
+(;W[qo];B[sn]C[Dead!]))
+(;W[sp];B[sn];W[qm];B[rp]C[Seki. :(])
+(;W[rp];B[sn];W[qm];B[sp]C[Seki. :(])
+(;W[qo]
+(;B[sn];W[qm];B[sp]C[Dead!])
+(;B[sp]
+(;W[sn];B[rp]C[Seki. :(])
+(;W[qm];B[sn]C[Dead!])
+(;W[rp];B[so]C[Seki. :(])))))
+(;W[qn];B[rn]LB[kk:Tenuki]
+(;W[ro]C[RIGHT])
+(;W[sp]C[RIGHT])
+(;W[rp]C[RIGHT])
+(;W[sn];B[ro]
+(;W[so];B[sp];W[qm];B[rp]C[Seki. :(])
+(;W[rp]
+(;B[so]C[CHOICE];W[qm];B[sp]C[Seki. :(])
+(;B[sp];W[sq]C[Lucky for you Black made a mistake.RIGHT]))
+(;W[sp]C[RIGHT]))
+(;W[so];B[ro]
+(;W[sn];B[sp];W[qm];B[rp]C[Seki. :(])
+(;W[rp]C[RIGHT])
+(;W[sp]C[RIGHT]))
+(;W[qm];B[ro]
+(;W[so]
+(;B[sp];W[sn])
+(;B[rp]
+(;W[sn];B[sp]C[Seki. :(])
+(;W[sp]C[RIGHT])))
+(;W[sp]C[RIGHT])
+(;W[rp];B[sp];W[sn];B[so]C[Seki. :(])
+(;W[sn];B[sp]
+(;W[rp];B[so]C[Seki. :(])
+(;W[so];B[rp]C[Seki. :(])))
+(;W[kk]))
+(;W[ro]C[Nice and simple!RIGHT])
+(;W[rn]C[Nice and simple! (Also the best move as it eliminates Black's ko threats.)RIGHT])
+(;W[sn]
+(;B[rn]
+(;W[qn])
+(;W[so]C[];B[ro]
+(;W[sp]C[RIGHT])
+(;W[qn])))
+(;B[ro]
+(;W[qn];B[rn])
+(;W[rn]C[RIGHT])
+(;W[qo];B[rn];W[qn]
+(;B[sp];W[rp]C[RIGHT])
+(;B[so];W[qm];B[sp]C[Unfortunately, you're dead.]))))
+(;W[qo];B[rn];W[qn];B[sn];W[qm];B[sp]
+(;W[ro];B[so]C[Seki. :(])
+(;W[so];B[ro]C[Dead!]))
+(;W[sp]C[Nice and simple!RIGHT])
+(;W[so]
+(;B[rn];W[qn])
+(;B[ro];W[qn];B[rn]))
+(;W[rp];B[rn];W[qn]C[RIGHT]))

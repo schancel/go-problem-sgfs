@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[10]SO[marcin]CO[8]AB[cb][cc][cd][de][cf][ff][ee][gf][if][hd][he][hc][ib][jb][ga]AW[ia][hb][gc][gd][ge][fb][db][dc][ed][dd]PL[B]SZ[19]
+
+(;B[ha]
+(;W[fe]
+(;B[fc]
+(;W[da]
+(;B[gb];W[fd]
+(;B[fa];W[ea];B[eb]C[RIGHT])
+(;B[ja];W[fa])
+(;B[eb];W[ec];B[fa];W[ea]))
+(;B[ja];W[gb]
+(;B[fa];W[ea]LB[ia:a][ec:b]C[White lives])
+(;B[ec];W[fa];B[eb]C[Seki]))
+(;B[ec];W[fa];B[eb];W[gb];B[ha]C[Seki]))
+(;W[fa];B[da];W[gb];B[ha];W[ea];B[ec]C[RIGHT]))
+(;B[ja];W[fc])
+(;B[gb];W[fa];B[ja];W[da]))
+(;W[fa];B[da]
+(;W[ea];B[ec]LB[fc:a][fe:b]C[RIGHT])
+(;W[fe];B[fc]LB[ea:a][ec:b]C[RIGHT])))
+(;PL[B]B[da];W[ea];B[fe];W[ha])
+(;PL[B]B[ja];W[fe]
+(;B[fc];PL[W]W[gb]
+(;B[ha];W[da]C[White gets a seki];B[ec];W[fa];B[eb]C[Seki])
+(;B[da];W[ea]LB[ha:a][ec:b]C[White lives]))
+(;B[ha];W[fc])
+(;B[ea];W[eb];B[fc];W[da];B[fa];W[gb]))
+(;PL[B]B[fe];W[ha])
+(;PL[B]B[fd];W[fe];B[gb];W[fc]))

@@ -1,0 +1,63 @@
+(;GE[best move]DI[5d]DP[5]SO[DarkSycthe]CO[0]AW[rb]AB[qb]AW[pb]AW[ob]AW[nb]AW[mc]AW[lb]AW[nc]AB[qd]AB[pd]AB[pc]AB[qa]AB[oc]AW[pe]AW[oe]AW[od]AW[pg]AB[nd]AB[ne]AB[ld]AB[lc]AB[kb]AB[la]C[What is the best white can do in this situation?]AP[goproblems]
+(;W[rc];B[qc]
+(;W[rd];B[qe]
+(;W[qf];B[re]
+(;W[ra]C[White wins the semeaiRIGHT])
+(;W[rf];B[ra]
+(;W[se];B[sd]
+(;W[sf];B[sb])
+(;W[sc];B[sb]C[Ko is not best]))
+(;W[pa];B[sd]
+(;W[sb];B[se]C[White will lose the semeai])
+(;W[sf];B[sb]))))
+(;W[re];B[qf]))
+(;W[qe];B[rd];W[re];B[ra]
+(;W[sd];B[sb])
+(;W[sb];B[sd]C[white will lose the semeai]
+(;W[se];B[mb];W[sc];B[na];W[pa];B[sa])
+(;W[mb];B[md];W[se];B[ma];W[sc];B[na]))
+(;W[sc];B[sb];W[sa];B[sd]))
+(;W[re];B[rd]
+(;W[qe])
+(;W[sd];B[qe]
+(;W[qf];B[rf])
+(;W[rf];B[qf]
+(;W[qg];B[rg];W[rh];B[ra];W[sb];B[sa]
+(;W[pa];B[sc];W[sg];B[se];W[rb];B[mb])
+(;W[sg];B[sc];W[rb];B[se]))
+(;W[rg];B[qg]
+(;W[rh];B[qh])
+(;W[qh];B[pf];W[of];B[og]))))))
+(;W[ma];B[rc]C[this is not a good trade for white])
+(;W[mb];B[rc]C[this is not a good trade for white])
+(;W[pa];B[rc]
+(;W[ra];B[qc]C[];W[re];B[mb]C[White will lose the semeai]
+(;W[rd];B[sb];W[qe];B[sa];W[sd];B[na])
+(;W[qe];B[sb];W[sd];B[na];W[sc];B[sa];W[rb];B[md])
+(;W[sc];B[sb];W[sd];B[na]
+(;W[qe];B[sa])
+(;W[rd];B[sa];W[rb];B[md])))
+(;W[re];B[ra]
+(;W[sb];B[rd])
+(;W[rd];B[sb])))
+(;W[rd]
+(;B[qe];W[qf];B[re];W[rc];B[qc])
+(;B[rc];W[qe];B[qc]
+(;W[sc];B[re])
+(;W[re];B[sb]
+(;W[sd];B[ra])
+(;W[ra]C[White will win the semeai.RIGHT]))))
+(;W[ra]
+(;B[rc]
+(;W[pa])
+(;W[re];B[rd]))
+(;B[qe]
+(;W[qf];B[rc];W[pa];B[qc];W[re];B[sb];W[rd];B[sa];W[rf];B[mb];W[sd];B[na];W[sc];B[md])
+(;W[rc];B[qf]
+(;W[og];B[qc])
+(;W[qc];B[ph]C[Could be better for white.]))))
+(;W[qe];B[rd];W[rc];B[qc])
+(;W[re];B[rd]
+(;W[qe];B[rc])
+(;W[rc];B[qc]))
+(;W[md];B[rc]C[White captures two stones at the cost of the corner.]))

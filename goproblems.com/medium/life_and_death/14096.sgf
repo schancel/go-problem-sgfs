@@ -1,0 +1,81 @@
+(;GE[life and death]DI[1d]DP[17]SO[tails]CO[0]AB[ps]AB[os]AB[or]AB[oq]AB[op]AB[on]AB[po]AB[qn]AB[rn]AW[ro]AW[pp]AW[pq]AW[pr]AW[qs]AW[rr]AB[rs]C[Please read the instruction above. White to live using as few external ko threats as possible.]AB[rm]AP[goproblems]
+(;W[qq];B[qr]LB[ms:K]C[Play at K if you need a ko threat now.]
+(;W[ms];B[ns];W[qs];B[rp]
+(;W[rq];B[qr]LB[mr:K]C[Play at K if you need a ko threat now.]
+(;W[sr];B[sp]
+(;W[qs]C[Nice!RIGHT])
+(;W[so];B[qs]))
+(;W[sp];B[sr]
+(;W[qs]C[];B[qo]
+(;W[ss]C[Nice!RIGHT])
+(;W[qp];B[qr]LB[mr:K]C[Play at K for a ko threat.];W[mr];B[nr];W[qs]C[You lived, but you used too many ko threats.]))
+(;W[qp];B[qs])
+(;W[qo];B[qs])
+(;W[sq];B[qs]))
+(;W[mr];B[nr];W[qs]C[You lived, but you used too many ko threats.])
+(;W[qp];B[qs];W[sp];B[sr])
+(;W[qo];B[qs];W[sp];B[sr])
+(;W[so];B[qs]
+(;W[sr];B[sp])
+(;W[sp];B[sr])))
+(;W[ss];B[rq])
+(;W[qp];B[qr]LB[mr:K]C[Play at K if you need a ko threat now.]
+(;W[mr];B[nr];W[qs];B[rq]C[You can live with yet another ko threat, that is too many.])
+(;W[sp];B[qs])
+(;W[rq];B[qs]))
+(;W[qo];B[rq]
+(;W[sp];B[sq]
+(;W[sr];B[so])
+(;W[so];B[sn]))
+(;W[sq];B[so]))
+(;W[sp];B[rq]
+(;W[qp];B[qr]C[Play at K for a ko threat.]LB[mr:K]
+(;W[mr];B[nr];W[qs];B[qo];W[sq];B[qr]C[You can live with yet another ko threat, that is too many.])
+(;W[sq];B[qs]))
+(;W[sq];B[qr]C[Play at K for a ko threat.]LB[mr:K]
+(;W[mr];B[nr];W[qs];B[qo];W[qp];B[qr]C[You can live with yet another ko threat, that is too many.])
+(;W[qp];B[qs]))
+(;W[ss];B[qp]))
+(;W[sq];B[qr]C[Play at K for a ko threat.]LB[mr:K];W[mr];B[nr];W[qs];B[rq]
+(;W[sp];B[qr]C[You can live with yet another ko threat, that is too many.])
+(;W[qp];B[qr]C[You can live with yet another ko threat, that is too many.])
+(;W[ss];B[qp]))
+(;W[qr]C[You died in gote.]))
+(;W[rp];B[qs];W[qo];B[sr];W[sq];B[rq]C[Play at K if you need a ko threat now.]LB[ms:K]
+(;W[ms];B[ns];W[rr];B[ss];W[so];B[rq]C[Play at K if you want to use a ko threat.]LB[mr:K];W[mr];B[nr];W[rr]C[You lived, but you used too many ko threats.])
+(;W[so];B[qp]))
+(;W[qo];B[rp];W[qs];B[rq]
+(;W[sp];B[sq]
+(;W[sr];B[so])
+(;W[so];B[sn]))
+(;W[sq];B[so])
+(;W[so];B[qp]))
+(;W[sq];B[qs]
+(;W[rp];B[qo]
+(;W[qp];B[so])
+(;W[so];B[qp]))
+(;W[qo];B[rp]))
+(;W[rq];B[qs]
+(;W[sp];B[sr])
+(;W[sr];B[sp]))
+(;W[sp];B[qs]
+(;W[sr];B[qp]
+(;W[rq];B[qo])
+(;W[qo];B[rq]))
+(;W[rq];B[sr])
+(;W[qo];B[rq]))
+(;W[sr];B[qs]
+(;W[rp];B[qo])
+(;W[qo];B[rq])
+(;W[sp];B[qp];W[rq];B[qo])
+(;W[rq];B[sp])))
+(;W[rp];B[qr];W[qq])
+(;W[ss];B[rq]C[You are dead. See Problem #597.])
+(;W[rq];B[qr])
+(;W[qo];B[qr])
+(;W[qp];B[qr])
+(;W[qr];B[rp]
+(;W[qp];B[rq])
+(;W[rq];B[qp]))
+(;W[sq]
+(;B[qr];W[qq])))

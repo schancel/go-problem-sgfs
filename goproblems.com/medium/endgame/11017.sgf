@@ -1,0 +1,9 @@
+(;GE[endgame]DI[1k]DP[18]SO[Field Mouse]CO[0]AB[rb]AB[qb]AB[rc]AB[pc]AB[oc]AB[ob]AB[nb]AW[mc]AW[nc]AW[pa]AW[lc]AW[lb]AB[mb]AW[nd]AW[od]AW[pd]AW[qd]AW[qc]AW[rd]AW[re]AW[kb]AW[ma]C[Black to play the best endgame. Points are more important than ko threats, ko threats are more important than sente..]AP[goproblems]
+(;B[pb];W[sc];B[sb];W[sd];B[na];W[la]C[Simply for the best result!RIGHT])
+(;B[sd];W[se];B[sc];W[na];B[qa];W[oa];B[pb];W[la];B[sa]C[This was not a good action.])
+(;B[sc];W[na];B[qa];W[oa];B[pb];W[la];B[sa];W[sd]C[This was not good.])
+(;B[oa];W[sc];B[sb];W[sd]C[Compare this with the solution; this is one point worse.])
+(;B[qa];W[na];B[pb];W[sc];B[sb];W[sd];B[oa];W[la]C[Two points worse than the solution.])
+(;B[na];W[pb];B[la];W[sc]
+(;B[sb];W[qa]C[This is an unhappy variation :-(])
+(;B[qa];W[sb]C[:-( :-(])))

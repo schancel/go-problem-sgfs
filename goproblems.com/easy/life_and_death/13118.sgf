@@ -1,0 +1,22 @@
+(;GE[life and death]DI[7k]DP[40]SO[pseudog]CO[0]SZ[19]AW[pa]AW[mb]AW[nb]AW[qb]AW[oc]AW[pc]AW[nd]AW[pd]AW[ne]AW[pe]AW[nf]AB[la]AB[ra]AB[lb]AB[rb]AB[lc]AB[mc]AB[nc]AB[qc]AB[rc]AB[me]AB[qe]AB[mf]AB[pf]AB[qf]AB[mg]AB[ng]AB[og]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+(;B[na];W[ob]
+(;B[ma];W[qa]
+(;B[oa]C[Dead RIGHT])
+(;B[oe]C[kills, but unnecessarily gives white a free ko threat (P19 or P14).RIGHT])
+(;B[of]C[kills, but unnecessarily gives white a free ko threat (P19 or P15).RIGHT]))
+(;B[qa];W[ma];B[pb];W[oa]C[alive.]))
+(;B[ma];W[na]
+(;B[qa];W[pb]C[alive.])
+(;B[pb];W[ob];B[qa];W[pb]C[alive.])
+(;B[oa];W[ob];B[qa];W[pb]C[alive.])
+(;B[ob];W[oa];B[qa];W[pb]C[alive.]))
+(;B[oa];W[na]
+(;B[ma];W[ob];B[qa];W[pb]C[alive.])
+(;B[ob];W[pb]C[alive.])
+(;B[pb];W[ob];B[qa];W[pb]C[alive.]))
+(;B[ob];W[na];B[pb];W[oa]
+(;B[pb];W[qa]C[alive.])
+(;B[qa];W[pb]C[alive.]))
+(;B[qa];W[ob]
+(;B[pb];W[sg]LB[sh:A]C[answer white's threat at A];B[sh];W[qb];B[ma];W[na]C[Although hard for white, it's only ko.])
+(;B[ma];W[na]C[Although hard for white, it's only ko.])))

@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[44]SO[DK2]CO[0]AB[ra]AB[qa]AW[rb]AW[qb]AW[pb]AW[oa]AW[oc]AW[nc]AW[nb]AW[mb]AB[ma]AB[lb]AB[lc]AB[mc]AB[nd]AB[me]AB[le]AB[od]AB[pd]AB[qd]AB[pc]AB[qc]AB[rc]AB[sd]AW[rd]AW[re]AW[pe]AW[qe]AW[rf]AW[kb]AW[jd]AW[kf]AW[mf]AW[nf]AW[ne]AW[jc]LB[pi:tenuki]C[If black needs to play locally to kill the entire interior white group, do so.   If not, then tenuki.FORCE]AP[goproblems]
+(;B[pi]AW[na]AB[la];W[sb]C[White lives after a tenuki.  For example, consider the position after the marked exchange.]LB[na:1]LB[la:2]LB[sb:3])
+(;B[sb]C[RIGHT];W[pa]
+(;B[sc]C[RIGHT];W[sa];B[ra]C[RIGHT])
+(;B[ki]C[RIGHT];W[sa];B[ra];W[qa];B[li];W[sa];B[sc]C[RIGHT]))
+(;B[ka];W[sb]C[White lives because black cannot approach at where marked.]TR[na])
+(;B[la];W[sb]
+(;B[na];W[sc];B[ob];W[se];B[pa];W[sd]C[Not bad, you captured part of the white group, but some survived.You can do better...])
+(;B[sc];W[na]C[White is alive.]))
+(;B[sc];W[sb]
+(;B[la];W[na]C[White is alive.])
+(;B[na];W[la]C[White is alive and connected.]))
+(;B[sa];W[sb]
+(;B[sc];W[na]C[White is alive.])
+(;B[la];W[na]C[White is alive.]))
+(;B[na];W[la]C[White lives by connecting.])
+(;B[pa];W[sb]C[White lives because black cannot approach where marked.]TR[na]))

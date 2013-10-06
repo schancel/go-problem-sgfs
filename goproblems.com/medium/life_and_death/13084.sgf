@@ -1,0 +1,58 @@
+(;GE[life and death]DI[1d]DP[17]SO[ndkrempel]CO[0]AB[aq]AB[br]AB[bp]AB[cp]AB[do]AB[eo]AB[fp]AB[eq]AB[er]AB[ds]AB[fn]AB[fm]AB[go]AW[ap]AW[ao]AW[bo]AW[co]AW[dn]AW[dm]AW[cl]AW[fl]AW[gl]AW[gm]AW[hn]AW[io]AW[jp]AW[hp]AW[gp]AW[fq]AW[fr]AW[fs]AW[es]AW[hr]AW[dp]C[Please try to kill the whole group.]AP[goproblems]
+(;W[dr];B[cq]
+(;W[dq];B[cs];W[ep];B[cr]C[You let half of the group live!])
+(;W[cs];B[dq]
+(;W[bs];B[cr];W[ar];B[ds]C[Black lives in double ko.])
+(;W[cr];B[bs]))
+(;W[bs];B[dq];W[cs];B[cr];W[ar];B[ds]C[Black lives in double ko.])
+(;W[cr];B[dq];W[cs];B[bs]))
+(;W[cr]
+(;B[cs]C[]
+(;W[bs];B[as];W[dr];B[dq];W[bs];B[cq];W[ar]C[A direct ko with white taking first. Black has a slightly tougher resistance.RIGHT])
+(;W[cq];B[bq];W[bs];B[as])
+(;W[dr];B[bs]
+(;W[cq];B[bq])
+(;W[dq];B[ep]))
+(;W[dq];B[dr];W[cq];B[bq]))
+(;B[bs]
+(;W[dq];B[bq];W[dr];B[ep];W[cs]C[RIGHT])
+(;W[cq];B[bq];W[dr];B[cs])
+(;W[dr];B[cs]
+(;W[cq];B[bq])
+(;W[dq];B[ep]))
+(;W[bq];B[cq];W[dq];B[bq];W[dr];B[ep];W[cs];B[ds])
+(;W[cs];B[dr];W[cq];B[bq])
+(;W[ar];B[bq];W[dr];B[cs]
+(;W[dq];B[ep])
+(;W[cq];B[dq])))
+(;B[dr];W[cq];B[bq];W[bs]C[RIGHT])
+(;B[cq];W[dq];B[bq]
+(;W[bs]C[RIGHT])
+(;W[dr]C[RIGHT])
+(;W[cs]C[RIGHT]))
+(;B[bq]
+(;W[dr]
+(;B[bs];W[dq];B[ep];W[cs]C[RIGHT])
+(;B[dq];W[bs]C[RIGHT]))
+(;W[bs]
+(;B[as];W[dr]C[RIGHT])
+(;B[dq];W[dr]C[RIGHT])))
+(;B[dq]C[CHOICE]
+(;W[ar];B[bs]
+(;W[bq];B[cq];W[aq];B[cs])
+(;W[cq];B[bq])
+(;W[dr];B[cq])
+(;W[cs];B[cq]))
+(;W[bs]
+(;B[cq]C[CHOICE];W[ar];B[as]LB[kk:K]C[K for a ko threat.];W[kk];B[jk];W[ar];B[bq];W[cs];B[as]C[The best result for both - a direct ko with black taking first.RIGHT])
+(;B[dr];W[ar];B[as]C[RIGHT])
+(;B[ep];W[dr]C[RIGHT])
+(;B[bq];W[dr]C[RIGHT]))
+(;W[cq];B[bq]
+(;W[cs];B[bs];W[dr];B[ds])
+(;W[bs];B[ep]
+(;W[cs];B[dr])
+(;W[ar];B[dp];W[cs];B[dr])))
+(;W[dr];B[cq];W[cs];B[bs])
+(;W[cs];B[dr];W[cq];B[ep]))
+(;B[ep];W[cq];B[bq];W[dr];B[dq];W[cs];B[bs];W[ds]C[RIGHT])))

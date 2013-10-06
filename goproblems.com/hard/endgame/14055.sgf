@@ -1,0 +1,25 @@
+(;GE[endgame]DI[4d]DP[8]SO[MeleeNewb]CO[0]AB[rd]AB[rc]AB[rb]AB[qa]AB[qe]AB[qf]AB[pg]AB[pd]AB[ma]AB[mb]AB[kc]AB[kd]AB[md]AB[lc]AW[lb]AW[la]AW[kb]AW[jc]AW[ra]AW[sa]AW[sb]AW[sc]AW[sd]AW[se]AW[re]AW[rf]AW[qg]AW[qh]AB[ke]AB[kf]AB[kg]AW[jd]AW[je]AW[jf]AB[ph]AB[oh]AB[mf]AB[lh]AB[mh]AB[nh]AW[jg]AW[kh]AW[li]AW[mi]AW[ni]AW[oi]AW[pi]AW[ki]C[Does black need to (P)rotect or can he (T)enuki?FORCE]AW[ib]LB[hi:P]LB[ii:T]AW[rh]AP[goproblems]
+(;B[hi]AW[rd]AW[qa]AW[rb]AW[rc]AW[qe]AW[qf]AW[pd]AW[pg]AW[ph]AW[oh]AW[nh]AW[mh]AW[lh]AW[kg]AW[kf]AW[ke]AW[kd]AW[mf]AW[md]AW[kc]AW[lc]AW[mb]AW[ma]AB[la]AB[ib]AB[lb]AB[kb]AB[jc]AB[jd]AB[je]AB[jf]AB[jg]AB[kh]AB[ki]AB[li]AB[mi]AB[ni]AB[pi]AB[oi]AB[qh]AB[qg]AB[rf]AB[re]AB[se]AB[sd]AB[sc]AB[sb]AB[sa]AB[ra]AB[rh];W[ii]C[Why?]
+(;B[qb];W[pa]
+(;B[nc]
+(;W[mc]
+(;B[pc];W[pb]
+(;B[ob];W[qc]
+(;B[od];W[oa];B[pe]C[CHOICERIGHT])
+(;B[oc];W[oa]))
+(;B[qc];W[qd];B[oc];W[na])
+(;B[od];W[qc]
+(;B[ob])
+(;B[oc];W[oe])))
+(;B[ob];W[oa])
+(;B[pb];W[oa]))
+(;W[pb];B[mc];W[oa];B[ob];W[na];B[pc];W[qc];B[od]C[RIGHT])
+(;W[oc];B[ob];W[pb];B[mc];W[nd];B[nb]C[RIGHT]))
+(;B[pc];W[pb]
+(;B[qc];W[qd];B[oc];W[na])
+(;B[nc];W[oc];B[ob];W[qc];B[mc];W[oa])
+(;B[ob];W[qc];B[nc];W[oc]))
+(;B[ob];W[oa])
+(;B[pb];W[oa]))
+(;B[nc];W[mc];B[qb];W[pa]))
+(;B[ii]AW[rh]))

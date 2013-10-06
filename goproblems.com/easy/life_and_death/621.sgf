@@ -1,0 +1,84 @@
+(
+;GE[life and death]DI[10k]DP[50]SO[tomjk]CO[6]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.18]
+AB[da][db][dc][ea][cd][de][ce][ef][df][fe][ge][gd][gf][hf][if][je][jd][id][ic][kc][lc][lb][mb][ga]
+AW[dd][ec][eb][fa][fd][ee][fc][gc][hc][hb][ib][jb][kb][jc]
+GN[ld_180501]
+C[White to fight for life]
+(
+;
+W[gb]
+C[RIGHT
+White gets a ko for life. After White G18 Black will take at F18 and the Ko fight is on. White has now to find a viable Ko threat 'elsewhere' on the board (not shown here) which Black can answer locally or Black can connect the Ko at F19 and White is dead. If Black connects at F19 then White has a free move to make his Ko threat good (i.e. take advantage of the fact that Black did not answer locally to the Ko threat). If Black instead answers the Ko threat from White, then White retakes the Ko at F19 and Black has to play a Ko threat elsewhere. White can then choose to ignore this Ko threat and play at H19 to live.]
+)
+(
+;
+W[fb]
+;
+B[ka]
+(
+;
+W[ia]
+C[White gets just one eye (pls verify on your own).]
+)
+(
+;
+W[la]
+;
+B[ha]
+C[White gets just one eye (pls verify on your own).]
+)
+(
+;
+W[ha]
+;
+B[ja]
+C[White gets just one eye (pls verify on your own).]
+)
+(
+;
+W[ja]
+;
+B[ha]
+C[White gets just one eye (pls verify on your own).]
+)
+)
+(
+;
+W[ha]
+;
+B[fb]
+C[White cannot get two eyes (pls verify on your own).]
+)
+(
+;
+W[ia]
+;
+B[fb]
+C[White cannot get two eyes (pls verify on your own).]
+)
+(
+;
+W[ja]
+;
+B[fb]
+C[White cannot get two eyes (pls verify on your own).]
+)
+(
+;
+W[ka]
+;
+B[fb]
+C[White cannot get two eyes (pls verify on your own).]
+)
+(
+;
+W[la]
+;
+B[fb]
+C[White cannot get two eyes (pls verify on your own).]
+)
+)

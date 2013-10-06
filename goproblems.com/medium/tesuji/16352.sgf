@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[2d]DP[13]SO[flanner]CO[0]AB[qq]AB[qp]AB[qo]AB[po]AB[on]AB[pk]AW[pn]AW[oo]AW[pp]AW[oq]AW[mq]AP[goproblems]
+(;W[om];B[nn]LB[np:A]C[this leaves white open for attack at A])
+(;W[pl];B[nn];W[ol]C[RIGHT])
+(;W[nn];B[om];W[mo]C[giving atari is a clumsy move, now white has to go back  to defend ending in gote])
+(;W[no]
+(;B[om]C[CHOICE];W[mm]C[RIGHT])
+(;B[nn]C[CHOICE];W[mn];B[mm]C[CHOICE];W[lm]TR[pn]C[use the double hane and put the triangle stone to workRIGHT])))

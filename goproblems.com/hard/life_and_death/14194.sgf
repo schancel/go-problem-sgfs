@@ -1,0 +1,25 @@
+(;GE[life and death]DI[4d]DP[8]SO[xiuma]CO[0]AB[ep]AB[eq]AB[go]AB[ho]AB[hq]AB[iq]AB[jr]AB[kq]AB[bp]AB[cp]AB[dp]AW[gp]AW[gq]AW[gr]AW[hr]AW[ir]AW[cq]AW[dq]AW[er]C[Black forces Ko!]N[Black achieves Ko!]
+(;B[cr];W[fs]
+(;B[fq];W[br]
+(;B[dr];W[bq]
+(;B[fr]
+(;W[es]
+(;B[ar]
+(;W[aq];B[bs]C[RIGHT]))))
+(;B[bs];W[ds])))
+(;B[dr];W[fq]))
+(;B[bq];W[cr])
+(;B[br];W[cr]
+(;B[cs];W[ds];B[bs];W[fs])
+(;B[bq];W[ds]))
+(;B[dr]C[If Black loses Ko, hi will play here and give White small life, otherwise hi plays c1 and forces Ko!];W[cr];B[fr]C[FORCE]
+(;W[ds]C[NOTTHIS];B[fq]
+(;W[fs]))
+(;W[es];B[fs];W[ds];B[fq];W[bq]C[RIGHT]))
+(;B[fr];W[fq]
+(;B[dr];W[fs])
+(;B[fs];W[ds]))
+(;B[fq];W[fr])
+(;B[is];W[fq];B[cr];W[br]
+(;B[bq];W[dr])
+(;B[dr];W[bq])))

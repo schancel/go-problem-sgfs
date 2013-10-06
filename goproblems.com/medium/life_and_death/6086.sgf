@@ -1,0 +1,36 @@
+(;GE[life and death]DI[2d]DP[12]SO[santa c]CO[3]AB[fa]AB[fb]AB[gb]AB[jb]AB[ja]AB[jd]AB[id]AB[hd]AB[gd]AB[fd]AB[ed]AW[ec]AW[eb]AW[ea]AW[fc]AW[dc]AW[dd]AW[ee]AW[fe]AW[ge]AW[he]AW[ie]AW[le]AW[lc]AW[lb]AW[kb]C[How many ways to kill would White have here?FORCE]AW[ld]LB[bb:1]LB[bc:2]LB[bd:3]AW[je]AP[goproblems]
+(;W[bc];B[cb]C[Alright, kill it then...]
+(;W[gc];B[hb]
+(;W[ha]
+(;B[hc]
+(;W[jc]C[Well done! :)RIGHT]TR[ic]TR[ia])
+(;W[ia];B[jc];W[ib]C[Seki... :(])
+(;W[ic];B[jc]C[:(])
+(;W[ib];B[ia]C[:(]))
+(;B[ia];W[ic];B[hc];W[jc];B[kd];W[kc]C[RIGHT]))
+(;W[hc];B[ic]C[:(])
+(;W[ic];B[hc]
+(;W[jc];B[ib]TR[kc]TR[ha]C[:(])
+(;W[ha];B[jc]C[:(]))
+(;W[jc];B[ic]C[:(])
+(;W[ib];B[ic]C[:(])
+(;W[ia];B[ha]C[:(]))
+(;W[hb];B[gc]
+(;W[jc];B[ha]C[:(])
+(;W[ha];B[jc]C[Seki... :(])
+(;W[ic];B[jc]C[:(])
+(;W[ib];B[ha]C[:(]))
+(;W[ha];B[gc]
+(;W[jc];B[ic];W[hb]C[Well done! :)RIGHT])
+(;W[hb];B[jc]C[Seki... :(]))
+(;W[hc];B[gc]C[:(])
+(;W[ic];B[ha]C[:(])
+(;W[jc];B[ha]C[:(])
+(;W[ib];B[gc]C[:(])
+(;W[ka];B[ha]C[:(])
+(;W[kc];B[ha]C[:(])
+(;W[ia];B[ha]C[:(])
+(;W[ga];B[ha]C[:(])
+(;W[kd];B[ha]C[:(]))
+(;W[bb]C[The correct anwser is 2. Use 'Show Solution' -> 'Navigate Solution' on the left, following the correct anwser to see the variations.])
+(;W[bd]C[The correct anwser is 2. Use 'Show Solution' -> 'Navigate Solution' on the left, following the correct anwser to see the variations.]))

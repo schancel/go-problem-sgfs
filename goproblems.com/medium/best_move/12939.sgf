@@ -1,0 +1,43 @@
+(;GE[best move]DI[3d]DP[11]SO[Bleedo]CO[0]AW[fs]AW[fr]AW[fq]AW[fp]AW[ep]AW[dp]AW[do]AW[dn]AW[dm]AW[cm]AW[cl]AW[bl]AW[am]AW[bn]AB[an]AB[ao]AB[bo]AB[co]AB[cn]AB[ap]AB[cp]AB[bq]AB[br]AW[cq]AW[cr]AB[dq]AB[dr]AB[bk]AB[ck]AB[cj]AB[dj]AB[ci]AW[dk]AW[ek]AW[fk]AW[ej]AB[dl]AB[el]AB[em]AB[fm]AB[en]AB[eo]AB[fo]AB[go]AB[gn]AB[gp]AB[gq]AB[gr]AB[gs]AW[hs]AW[hr]AW[hq]AW[iq]AW[jq]AW[jr]AB[ir]AW[ho]AW[hn]AB[hm]AW[gm]AW[gl]AB[ei]AB[fi]AW[di]AW[dh]AW[eh]AB[eg]AB[ce]AB[ed]AB[cc]AW[eb]AB[gc]AW[gb]AW[hc]AW[hd]AW[id]AW[ge]AW[gg]AB[ih]AB[ie]AB[if]C[Be careful]AB[bi]AB[bg]AP[goproblems]
+(;W[fg];B[gk]
+(;W[gj];B[hk]
+(;W[fl];B[hl];W[fj];B[gi]C[The ladder works])
+(;W[fj];B[fl])
+(;W[hl];B[fl]C[]))
+(;W[hk];B[gj]
+(;W[fl];B[hl])
+(;W[hl];B[fl])
+(;W[hj];B[fl]))
+(;W[fl];B[hl])
+(;W[hl];B[fl])
+(;W[fj];B[gj])
+(;W[hj];B[fj]))
+(;W[fh];B[gk]
+(;W[hk];B[gj]
+(;W[fl];B[hl])
+(;W[hl];B[fl])
+(;W[gi];B[hl]))
+(;W[gj];B[hk]
+(;W[fl];B[hl]
+(;W[fj];B[gi];W[hj];B[ij];W[hi]C[Right, the ladder breaksRIGHT])
+(;W[gi];B[fj]))
+(;W[fj];B[fl])
+(;W[hl];B[fl])
+(;W[hj];B[hl]))
+(;W[fl];B[hl])
+(;W[fj];B[hl])
+(;W[hl];B[fl])
+(;W[hj];B[fj]))
+(;W[gj];B[fh])
+(;W[gh];B[gk]C[View [Show Solution])
+(;W[fj];B[fh])
+(;W[gk];B[fh])
+(;W[hi];B[gk]C[View [Show Solution])
+(;W[gi];B[fh]
+(;W[fg];B[dg])
+(;W[dg];B[fg]))
+(;W[dg];B[gk]C[View [Show Solution])
+(;W[hl];B[fh])
+(;W[hk];B[fh])
+(;W[fl];B[fh])
+(;W[hp];B[fh]))

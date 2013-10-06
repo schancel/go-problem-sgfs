@@ -1,0 +1,24 @@
+(;GE[best move]DI[6k]DP[36]SO[DarkSycthe]CO[0]AB[rr]AB[rq]AB[qq]AB[pp]AB[op]AB[np]AB[jq]AB[jo]AW[rs]AW[qr]AW[ps]AW[pq]AW[oq]AW[or]AW[lq]AB[mr]LB[lq:1]LB[mr:2]C[White played 1, which was a mistake, and black punished white with 2. Help white respond to 2 as best as possible.]AB[qo]AB[mn]AB[kn]AB[ir]AP[goproblems]
+(;W[nr]
+(;B[mq]
+(;W[ns]C[Good, this is simple and best, because the stone at 1 was lost anyway.RIGHT])
+(;W[ms];B[ns])))
+(;W[mq];B[nr];W[nq];B[lr])
+(;W[lr];B[mq]
+(;W[ns];B[nr];W[ms];B[kr]C[Very bad for white.])
+(;W[nr];B[ns]C[White is dead.]))
+(;W[nq];B[mq];W[mp];B[lp]
+(;W[lr];B[mo])
+(;W[nr];B[ns])
+(;W[ns];B[nr];W[lr];B[mo];W[ms];B[mp]))
+(;W[ns];B[nr];W[nq];B[mq])
+(;W[ms];B[mq]
+(;W[nr];B[ns])
+(;W[lr];B[ns])
+(;W[ns];B[nr];W[lr];B[kr]))
+(;W[ls];B[nr]
+(;W[nq];B[mq];W[mp];B[lp])
+(;W[ns];B[nq]
+(;W[lr];B[ms])
+(;W[ms];B[lr]))
+(;W[mq];B[nq])))

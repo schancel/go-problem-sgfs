@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[1k]DP[20]SO[Field Mouse]CO[0]AW[bp]AW[bo]AW[cp]AW[dp]AW[fo]AW[fp]AW[fq]AW[gq]AB[co]AB[bn]AB[cm]AB[bl]AB[dm]AB[dn]AB[en]AB[fn]AW[gn]AW[hn]AW[fm]AW[gm]AW[el]AW[dk]AW[ck]AW[bk]AW[di]AW[ei]AW[gh]AB[fl]AB[gl]AB[hl]AB[hm]AB[ej]AB[gj]AB[ci]AB[ce]AB[dc]AW[im]AW[il]AW[jl]AW[kl]AW[km]AW[kk]AW[lk]AB[go]AB[gp]AB[ho]AB[in]AB[io]AB[jm]AB[kn]AB[ko]AB[jo]AB[jp]AB[lo]AB[lp]AB[hq]AB[hr]AB[ir]AW[hp]AW[ip]AW[iq]AW[jq]AW[kp]AW[lq]AW[kq]AW[kr]AB[lr]AB[mq]AB[nr]AB[mp]AB[nq]AB[pr]AB[qq]AW[or]AW[oq]AW[op]AW[pp]AW[qp]AW[rq]AW[qr]AW[qm]AW[ql]AW[qn]AB[np]AB[no]AB[oo]AB[on]AB[pn]AB[pm]AB[pl]AB[ol]AB[pk]AB[qk]AB[qj]AB[pj]AB[ri]AW[pi]AW[qh]AW[rh]AW[qe]AW[rf]AW[rd]AW[qc]AW[rc]AW[pd]AW[od]AW[nc]AW[nb]AB[mb]AB[mc]AB[md]AB[nd]AB[oc]AB[ob]AB[pc]AB[qb]AB[me]AB[nf]AB[oe]AB[pe]AB[oh]AB[oi]AB[ni]AB[mj]AB[mk]AW[oj]AW[ok]AW[nk]AW[nj]AW[nl]AW[nm]AW[om]AW[nn]AW[mn]AW[ln]AW[mm]AW[ml]TR[fl]C[Black just played the marked stone - white to save the four stones in atari!]AP[goproblems]
+(;W[em];B[ek];W[dl];B[dj]
+(;W[cj]
+(;B[ch]
+(;W[hk]
+(;B[fi]C[CHOICE]
+(;W[fk]C[Good, black is in trouble!RIGHT])
+(;W[gk]C[Black is in trouble, good!RIGHT])
+(;W[eh];B[fh]C[Your last move did not help you at all, sorry (although you can still capture the H7 stones, which is still good).])
+(;W[hj]C[A bit suboptimal to capture like this but it works too.RIGHT]))
+(;B[ak];W[aj];B[al];W[fj];B[bi]C[Black will probably play this way. White gets a nice profit in the center and sente; the game is still playable.RIGHT]))
+(;W[fi];B[hj];W[fj];B[fk];W[hk];B[gk];W[ij];B[hi])
+(;W[fk];B[fj];W[hk];B[gk];W[hj];B[fi])
+(;W[fj];B[fk];W[hk];B[fi];W[gk];B[fj])
+(;W[gk];B[hk])
+(;W[hj]
+(;B[fi]C[CHOICE];W[hk]C[Very good!RIGHT])
+(;B[hk];W[fk];B[fj];W[ik];B[gk];W[gi]C[RIGHT]))
+(;W[gi];B[hj]))
+(;B[ak];W[bi];B[ch];W[hk]C[];B[cl];W[bj];B[bh];W[fj];B[ai];W[fk];B[aj]C[White still has a fair chance in this game.RIGHT]))
+(;W[fk];B[cj])
+(;W[bi];B[cj];W[bj];B[ch]))
+(;W[ch];B[em]C[Black is too happy with this result.])
+(;W[ls]C[NOTTHIS])
+(;W[ns]C[NOTTHIS])
+(;W[ms]C[NOTTHIS]))

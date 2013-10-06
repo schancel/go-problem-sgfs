@@ -1,0 +1,10 @@
+(;GE[endgame]DI[12k]DP[55]SO[bass]CO[8]AB[bp]AB[bq]AB[br]AB[cr]AB[cs]AW[bo]AW[co]AW[cp]AW[cq]AW[dr]AW[eq]AW[cl]AW[cj]C[Black to live in the best way possible.]AP[goproblems]
+(;B[as]C[Correct. White will now play elsewhere because she has no sente endgame here. Later it is black's privilege to play A5 in sente.RIGHT])
+(;B[ap];W[ao]C[This move is now sente for white.]
+(;B[ar]C[Black has 3 points in the corner, but white has points at A6 and B6]MA[an]MA[bn])
+(;B[as]C[Black has 3 points in the corner, but white has points at A6 and B6.]MA[an]MA[bn])
+(;B[em]C[This variation is to show what happens if black plays elsewhere.];W[ar];B[as];W[bs]LB[aq:A]TR[ao]C[Black cannot crush at A, so the whole group becomes a ko.]))
+(;B[ao];W[ap]C[Oops, black dies.])
+(;B[ds];W[es]
+(;B[as]C[D1 was a wasted ko threat, and if there happened to be a helpful white stone somewhere around the bottom edge, white could have killed black.])
+(;B[ap];W[ar]C[oops, ko.])))

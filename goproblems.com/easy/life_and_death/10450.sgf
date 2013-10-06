@@ -1,0 +1,30 @@
+(;GE[life and death]DI[6k]DP[39]SO[MeleeNewb]CO[6]AB[rc]AB[qc]AB[pc]AB[mc]AB[lc]AW[rd]AW[qd]AW[pd]AW[od]AW[nd]AP[goproblems]
+(;W[ob];B[oc];W[nc];B[pb]C[FORCE];W[nb]
+(;B[rb]
+(;W[qa];B[pa]
+(;W[sc];B[sb];W[ra]C[Cleanly killed, good job.CHOICERIGHT])
+(;W[ra]
+(;B[sc];W[sa]C[Black is dead, this is not seki because white can always make a bent 4 in corner.RIGHT])
+(;B[sa]C[CHOICE]
+(;W[sc]C[Black is dead, good job.RIGHT])
+(;W[sb];B[sc]
+(;W[sa];B[qb];W[ra];B[sa];W[sb];B[qa]C[Black managed to live!])
+(;W[sd];B[sa]C[There's no need for a ko.])
+(;W[oa];B[sa]C[There's no need for a ko])))))
+(;W[sc];B[sb];W[qa];B[pa];W[ra]C[RIGHT]))
+(;B[ra]
+(;W[sb];B[sc]
+(;W[pa];B[qa];W[rb]C[Cleanly killed, good job.CHOICERIGHT])
+(;W[rb];B[pa];W[qb]C[Black is dead, good job.RIGHT]))
+(;W[pa];B[sb];W[qa];B[qb]C[Black is alive!]))
+(;B[pa];W[sc];B[sb];W[ra]C[RIGHT])
+(;B[sc];W[pa];B[qa];W[rb]C[RIGHT])
+(;B[qa];W[rb]C[RIGHT])
+(;B[sb];W[ra]C[RIGHT]))
+(;W[oc];B[ob];W[nb];B[pa]
+(;W[nc];B[ra]C[Black is alive!])
+(;W[ra];B[nc]C[Black is alive!]))
+(;W[nb];B[ob]
+(;W[nc];B[pa]C[Black is alive!])
+(;W[oc]))
+(;W[nc];B[ob];W[nb]))

@@ -1,0 +1,57 @@
+(;GE[best move]DI[10k]DP[54]SO[dmwit]CO[6]AB[ma]AB[mb]AB[mc]AB[nd]AB[ne]AB[of]AB[pf]AB[qe]AB[re]AB[se]AB[pd]AW[la]AW[lb]AW[lc]AW[md]AW[me]AW[nf]AW[og]AW[pg]AW[qf]AW[rf]AW[sf]AW[qh]AW[mg]AB[qd]AP[goproblems]
+(;W[nc]
+(;B[nb]C[Black shouldn't do this, but if he does...CHOICE]
+(;W[oe];B[od]
+(;W[pe]C[];B[oc]C[White can do better.])
+(;W[oc];B[ob]C[You can only capture 2 stones this way.]))
+(;W[oc]C[];B[ob]
+(;W[pc];B[pb]
+(;W[od];B[qc];W[oe]C[Not bad, even though you have not yet taken the max out of Black's mistake.RIGHT])
+(;W[qc]
+(;B[rc]
+(;W[od];B[qb];W[oe]C[You even get those 2 stones for free.RIGHT]MA[sd]TR[of]TR[pf]MA[pe])
+(;W[oe];B[od]C[Just too small.])
+(;W[qb];B[od])))
+(;W[oe];B[od]C[Just too small]))
+(;W[pb];B[pc]
+(;W[oe];B[od];W[pe]C[Just too small.])
+(;W[od];B[oe]))
+(;W[od];B[pc];W[oe])
+(;W[oe];B[od]C[Just too small.]))
+(;W[od];B[oc]))
+(;B[oc]C[]
+(;W[nb]C[]
+(;B[ob]C[CHOICE]
+(;W[na]C[];B[oa]C[Black had to prevent against P15 and P19, but P15 is smaller, so you can still have a nice big gote play at P15.RIGHT]MA[oe];W[oe])
+(;W[oe];B[na]C[Nope, not enough.]))
+(;B[od]C[CHOICE]
+(;W[ob];B[pb]C[RIGHT])
+(;W[oa];B[ob];W[na];B[qb]C[A very nice reduction.RIGHT])
+(;W[na];B[pb]C[RIGHT])
+(;W[pb];B[ob];W[na];B[oa]C[Thanks for the free stone.])))
+(;W[oe];B[nb]C[Just too small.]))
+(;B[od]
+(;W[ob];B[pb]C[Nice sente reduction.CHOICERIGHT])
+(;W[nb]C[OK.RIGHT])
+(;W[na];B[ob];W[nb];B[pb]C[RIGHT])
+(;W[oc];B[pc]
+(;W[pb];B[ob])
+(;W[ob];B[pb]
+(;W[na]C[RIGHT])
+(;W[nb]C[RIGHT])
+(;W[oa];B[pa]C[An unnecessary seki.])
+(;W[pa];B[qa]
+(;W[na]C[RIGHT])
+(;W[oa];B[qb]C[An unnecessary seki.])
+(;W[nb];B[oa];W[na]C[Correct but uglyRIGHT])))
+(;W[nb];B[ob];W[na]C[RIGHT])
+(;W[oa];B[ob])
+(;W[na];B[ob];W[nb]C[RIGHT]))
+(;W[pb];B[ob];W[nb];B[oc])
+(;W[oa];B[nb])
+(;W[pc];B[oc];W[nb];B[ob];W[na];B[oa]C[That corner still looks awfully big.])
+(;W[oe];B[nb])
+(;W[pe];B[nb]C[Just too small.])))
+(;W[oe];B[od]C[White can do a bit better.])
+(;W[pe];B[oe];W[nc];B[nb]C[O17 came too late.];W[oc];B[ob];W[pc];B[pb])
+(;W[od];B[oc]C[Now what?]))

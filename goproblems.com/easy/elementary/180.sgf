@@ -1,0 +1,26 @@
+(;GE[elementary]DI[25k]DP[77]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[rq][sq][pr][qr][rr][rs]
+AB[ro][so][qp][mq][oq][pq][qq][nr]C[black to kill
+]
+(;B[ps];W[os]
+(;B[or]C[RIGHT
+white is reduced to one eye
+])
+
+(;B[ns];W[or])
+)
+
+(;B[os];W[ps])
+
+(;B[or];W[ps])
+
+(;B[ss];W[ps])
+
+(;B[sr];W[ps])
+
+)

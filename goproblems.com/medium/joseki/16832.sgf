@@ -1,0 +1,39 @@
+(;GE[joseki]DI[2d]DP[13]SO[mountain root]CO[0]AB[pd]AB[qf]AB[pj]AW[nc]AW[ph]AB[qh]AW[qe]LB[ph:1]LB[qh:2]LB[qe:3]C[Hamete!]AP[goproblems]
+(;B[pe];W[qi]
+(;B[qg];W[pi]MA[pj]C[Amai (soft).])
+(;B[pi];W[qg]
+(;B[pg];W[rh];B[oh];W[rf];B[pf];W[qh]C[Ok. But, white is alive.RIGHT])
+(;B[rh];W[pf]
+(;B[rf];W[rg]
+(;B[sg];W[pg]
+(;B[re];W[ri];B[sh];W[sf];B[se];W[qd]
+(;B[rd];W[qc]
+(;B[rc];W[pc]MA[pd]MA[pe]C[White is thick.]TR[qi]TR[ri])
+(;B[pc];W[rc]TR[rd]TR[re]TR[se]TR[qf]TR[rf]TR[sg]TR[sh]TR[rh]TR[qh]))
+(;B[qc];W[si]TR[sg]TR[sh]TR[rh]TR[qh]C[Oiotoshi!])
+(;B[rj];W[rd])
+(;B[qj];W[rd]))
+(;B[ri];W[re];B[sf];W[sh];B[si];W[qj]
+(;B[qk];W[se]TR[qf]TR[rf]TR[sf]TR[sg])
+(;B[rj];W[qk]
+(;B[pk];W[rk]TR[qf]TR[rf]TR[sf]TR[sg]TR[rh]TR[qh]TR[ri]TR[rj]TR[si])
+(;B[rk];W[pk]MA[pi]MA[pj]C[White is thick.]))
+(;B[rd];W[se]TR[qf]TR[rf]TR[sf]TR[sg])
+(;B[qd];W[se]TR[qf]TR[rf]TR[sf]TR[sg]))
+(;B[qd];W[re])
+(;B[qj];W[ri]))
+(;B[of];W[pg]TR[qf]TR[rf]TR[qh]TR[rh]))
+(;B[of];W[rf])
+(;B[qd];W[rf])))
+(;B[pg];W[pi]C[Amai.]MA[pj]))
+(;B[pg];W[pe]
+(;B[od]C[RIGHT];W[og]
+(;B[nd]C[Black is thick.RIGHT]LB[of:a]LB[mc:b])
+(;B[oh];W[pf]
+(;B[qg];W[me])
+(;B[pi];W[me]))
+(;B[oe];W[pf];B[qg];W[of]TR[oe])
+(;B[of];W[pf];B[qg];W[oe]))
+(;B[oe];W[od]))
+(;B[pf]C[Amai.])
+(;B[qd];W[pe]C[Amai]))

@@ -1,0 +1,55 @@
+(;GE[tesuji]DI[3k]DP[25]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[qa][nb][qb][nc][qc][rc][nd][qd][sd][oe][pe]
+AB[pa][pb][pc][pd][rd][qe][re][qg][rg]PL[2]
+C[white to win the semeai. please always start at A if playing on that side.
+]
+LB[od:A]
+(;W[ra];B[sb]LB[od:A]C[please play at A
+];W[od];B[sc]LB[oc:A]
+C[please play at A
+];W[oc];B[se]LB[ob:A]C[please play at A
+];W[ob]
+C[RIGHT
+])
+
+(;W[sb];B[ra]C[ko
+])
+
+(;W[sc];B[se])
+
+(;W[od];B[ra]
+(;W[rb];B[sb]C[ko
+])
+
+(;W[sb];B[se]
+(;W[oc];B[sc])
+
+(;W[sc];B[rb])
+)
+)
+
+(;W[rb];B[sb]
+(;W[sa];B[ra]C[ko
+])
+
+(;W[sc];B[sa])
+
+(;W[ra];B[sc])
+
+(;W[od];B[ra]C[ko
+])
+)
+
+(;W[sa];B[rb]
+(;W[sb];B[se])
+
+(;W[ra];B[sb])
+)
+
+)

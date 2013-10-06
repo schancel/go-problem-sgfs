@@ -1,0 +1,48 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[5]AB[rc]AB[oc]AB[ob]AB[nb]AW[kb]AW[mb]AW[mc]AW[nc]AW[od]AW[pd]AW[qd]AW[rg]AB[pa]C[Save Black!]AW[na]AW[re]AP[goproblems]
+(;B[pc]
+(;W[qb];B[qc]
+(;W[rb]
+(;B[sb]
+(;W[qa];B[ra];W[sa]MA[ra]C[Ko, well done! :)RIGHT])
+(;W[ra];B[qa]C[(Seki)RIGHT]))
+(;B[ra]
+(;W[qa];B[sb];W[sa]MA[ra]C[Ko, well done! :)RIGHT])
+(;W[sb];B[sc]C[(Seki)RIGHT]))
+(;B[sc];W[ra]
+(;B[qa];W[sb]C[Dead hat shape! :(])
+(;B[sb];W[qa]C[Dead Bulky Five shape!]))
+(;B[qa];W[sb]
+(;B[ra];W[sc]C[White escapes! :(])
+(;B[sc];W[ra]C[Dead hat shape! :(]))
+(;B[rd];W[sb]
+(;B[sd];W[ra]C[Dead shape if B approaches to capture... But with an eye, winning the semeai! :(])
+(;B[ra];W[sd];B[sc];W[ma]
+(;B[oa];W[qa]C[Black can't approach! :(])
+(;B[qa];W[oa]C[:(])
+(;B[pb]C[Dead 3-in-a-row shape! :(])
+(;B[se];W[oa]C[Dead 3-in-a-row shape! :(]))
+(;B[oa];W[ma]
+(;B[ra];W[sd];B[sc];W[qa]C[Black can't approach! :(])
+(;B[sd];W[ra]C[Dead shape if B approaches to capture... But with an eye, winning the semeai! :(]))))
+(;W[sb];B[rb]C[RIGHT])
+(;W[ra];B[rb]
+(;W[sc];B[qa]TR[sb]TR[sd]C[RIGHT])
+(;W[qa];B[sc]C[RIGHT]))
+(;W[sc];B[rb]C[RIGHT]))
+(;W[qc];B[qb]C[:(])
+(;W[rb];B[qb]C[:(]))
+(;B[qb];W[pc]
+(;B[ra];W[sb]
+(;B[pb];W[sc]C[:(])
+(;B[sc];W[pb]C[:(]))
+(;B[sb];W[ra]C[:(])
+(;B[pb];W[ra]C[:(]))
+(;B[qc];W[pc]
+(;B[pb];W[ra]
+(;B[rb];W[qa]TR[sa]TR[sc]C[:(])
+(;B[qa];W[rb]C[:(]))
+(;B[ra];W[pb]C[:(]TR[qb]TR[sb])
+(;B[sb];W[pb]C[:(]TR[ra]TR[qb]))
+(;B[ra];W[qb];B[qc];W[pc];B[pb];W[sb]C[:(]TR[rb]TR[sc])
+(;B[sb];W[qb];B[qc];W[pc];B[pb];W[qa]C[:(])
+(;B[sc];W[qb];B[qc];W[pc];B[pb];W[qa]C[:(]))

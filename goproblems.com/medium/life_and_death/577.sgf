@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[28]SO[adum]CO[7]AW[ma]AW[na]AW[jb]AW[lb]AW[qb]AW[ic]AW[lc]AW[oc]AW[qc]AW[ld]AW[nd]AW[pd]AW[rd]AW[le]AW[pe]AW[lf]AW[pf]AW[mg]AW[og]AB[ka]AB[la]AB[mb]AB[pb]AB[mc]AB[pc]AB[md]AB[od]AB[me]AB[ne]AB[oe]C[black to live]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-28]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[ob]
+(;W[nc]C[CHOICE]
+(;B[oa];W[ja];B[nb];W[nc];B[ma]C[RIGHT])
+(;B[nb];W[nc])
+(;B[pa];W[kb];B[nb];W[nc]))
+(;W[kb];B[nb];W[ja]C[a better play by whiteRIGHT]))
+(;B[nc];W[ob]
+(;B[nb];W[pa];B[oa];W[na])
+(;B[pa];W[qa])
+(;B[oa];W[pa]))
+(;B[nb];W[nc]
+(;B[ob];W[nc])
+(;B[oa];W[ma];B[ob];W[nc])
+(;B[pa];W[ja];B[oa];W[ma];B[ob];W[nc]))
+(;B[oa];W[ob]
+(;B[nb];W[pa])
+(;B[pa];W[qa]))
+(;B[pa];W[ob]
+(;B[nb];W[qa]
+(;B[nc];W[oa])
+(;B[oa];W[na]))
+(;B[nc];W[qa]))
+(;B[qa];W[ob]))

@@ -1,0 +1,14 @@
+(;GE[elementary]DI[8k]DP[45]SO[santa c]CO[0]AB[cr]AB[dr]AB[er]AB[es]AB[cq]AW[ap]AW[bp]AW[cp]AW[dq]AW[eq]AW[fr]AW[fs]AW[fp]C[can you avoid the seki here? (Default ruleset on goproblems is the japanese one in case you're wondering...)]AP[goproblems]
+(;B[ar];W[bs]
+(;B[cs];W[bq];B[br]C[life with points, nice!RIGHT])
+(;B[br];W[cs])
+(;B[bq];W[cs]))
+(;B[bq];W[bs]
+(;B[aq];W[cs];B[br];W[as]C[Bent 4 is dead under JP rules])
+(;B[cs];W[ar];B[aq]C[this is the seki the problem asks you to avoid (as it's no points for black, under jp rules)])
+(;B[br];W[aq]MA[ar]MA[cs])
+(;B[ar];W[cs]))
+(;B[bs];W[ar])
+(;B[br];W[ar])
+(;B[aq];W[bq])
+(;B[cs];W[ar]))

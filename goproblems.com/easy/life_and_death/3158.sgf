@@ -1,0 +1,17 @@
+(;GE[life and death]DI[8k]DP[45]SO[polo]CO[8]AW[pq][qq][rq][sp][ro][qo][qn][qm][sk][rk][qk][pk][ok][nk][ml][mm][mn][mo][np][op]AB[sl][rl][ql][pl][ol][nm][nn][pm][pn][po][pp][qp][rp]C[Black to live]SZ[19]
+
+(;B[sn]
+(;W[so]C[CHOICE]
+(;B[rm]C[RIGHT White cannot atari])
+(;B[rn];W[rm]C[oops]))
+(;W[rn]C[CHOICE]
+(;B[rm]C[RIGHT White cannot connect])
+(;B[so];W[sm];B[so];W[sn];B[rm]C[RIGHT Wow, you took the scenic route, but got there in the end.])
+(;B[sm];W[so])))
+(;B[so];W[sn]C[Sorry Black, you are dead.])
+(;B[rm];W[sn]C[One eye only])
+(;B[rn];W[so]
+(;B[sn];W[rm])
+(;B[rm];W[sn]))
+(;B[oo];W[sn])
+(;B[no];W[sn]))

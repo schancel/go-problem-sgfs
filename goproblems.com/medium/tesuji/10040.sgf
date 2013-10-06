@@ -1,0 +1,64 @@
+(;GE[tesuji]DI[2d]DP[13]SO[Field Mouse]CO[8]AW[rr]AW[rq]AW[qq]AW[pr]AW[or]AW[ps]AW[rs]AB[sq]AB[rp]AB[ro]AB[qp]AB[oq]AB[pq]AB[pp]AB[nq]AB[mp]AB[lp]AB[kq]AB[ko]AB[io]AW[hr]AW[gr]AW[fr]AW[fo]AW[eo]AB[em]AB[dm]AB[fm]AB[gm]AB[lr]AW[ir]AW[gs]AW[en]AW[ep]AW[fq]AW[gp]AW[go]AW[gn]AB[hn]AB[hm]AB[dn]AB[dp]AB[es]AB[er]AB[dq]AB[dr]AB[hq]AB[in]C[White to save her dog and make him happy by trying to save his toy in the corner.]AB[hp]AB[ho]AW[iq]AW[ip]AB[kn]AB[kp]AB[jp]AB[cp]AB[cn]AB[bn]AB[bp]LB[co:Dog]LB[do:-->]AB[bo]LB[ss:<- Toy]AP[goproblems]
+(;W[ls];B[jr]C[Wow! You found my special solution.]
+(;W[is];B[sr]C[Last not easy move, think twice before playing...]
+(;W[ns];B[nr]C[Ya! And now..];W[js];B[ks]C[];W[kr]C[Well done - ko! Your dog is happy, says woof (haf in czcech) and is jumping aroud :-)RIGHT]LB[co:Woof!]LB[do:Haf!]TR[en]TR[gn]MA[eo]MA[go]MA[fo]MA[gp]MA[ep]MA[fq]MA[fr]MA[gr]MA[hr]MA[ir]MA[iq]MA[ip]MA[is]MA[gs])
+(;W[nr];B[ns]C[Not the best...])
+(;W[js];B[ns];W[nr];B[ms])
+(;W[ms];B[nr];W[ns];B[js]))
+(;W[js];B[is]
+(;W[hs];B[ms]C[Ouch!])
+(;W[ks];B[ms]))
+(;W[sr];B[is])
+(;W[ns];B[is])
+(;W[ks];B[is];W[js];B[ms]))
+(;W[js]
+(;B[jr]
+(;W[is];B[sr];W[ns];B[nr];W[ls];B[ks];W[kr]LB[co:Wau!]LB[do:Bau!]C[Well done! Your dog is safe and there is a ko for the corner group.RIGHT]TR[en]TR[gn]MA[ep]MA[fo]MA[gp]MA[go]MA[eo]MA[fq]MA[fr]MA[gr]MA[hr]MA[ir]MA[iq]MA[ip]MA[is]MA[gs])
+(;W[ls];B[is]C[Killed :-(])
+(;W[ks];B[is])
+(;W[nr];B[is])
+(;W[ns];B[is])
+(;W[ms];B[is])))
+(;W[ns];B[is]
+(;W[jr];B[js];W[kr];B[ks])
+(;W[js];B[jr])
+(;W[ls];B[ks])
+(;W[ks];B[jr]))
+(;W[ks];B[jr]
+(;W[js];B[is])
+(;W[is];B[sr]
+(;W[ns];B[nr])
+(;W[nr];B[ns]
+(;W[mr];B[ms];W[ls];B[js])
+(;W[ms];B[mr])))
+(;W[sr];B[is]))
+(;W[ms]
+(;B[ns]
+(;W[mr];B[nr];W[sr];B[is];W[jr];B[js];W[kr];B[ks];W[hs]C[Strange, but it works too. Note that black could make shape and ko like in the other solutions.RIGHT])
+(;W[sr];B[is];W[jr];B[js];W[kr];B[ks])
+(;W[js];B[sr];W[nr];B[mr])
+(;W[nr];B[mr];W[sr];B[is];W[jr];B[js]
+(;W[ks];B[kr];W[hs];B[js])
+(;W[kr];B[ks]))
+(;W[ks];B[sr];W[nr];B[mr];W[ls];B[js])))
+(;W[jr];B[sr];W[nr];B[ns])
+(;W[sr];B[is];W[jr];B[js]LB[do:Ouch!])
+(;W[kr];B[ks]
+(;W[sr];B[is])
+(;W[jr];B[sr];W[nr];B[ns])
+(;W[ms];B[mr]
+(;W[ns];B[nr];W[sr];B[is])
+(;W[jr];B[sr]
+(;W[ns];B[nr])
+(;W[nr];B[ns])))
+(;W[is];B[sr]
+(;W[nr];B[ns])
+(;W[ns];B[nr])))
+(;W[nr];B[is];W[jr];B[js]C[]LB[do:Ouch!])
+(;W[is];B[sr]
+(;W[ns];B[nr])
+(;W[nr];B[ns]))
+(;W[mr];B[is];W[jr];B[js])
+(;W[fp];B[sr]C[Lost everything! :-(]LB[co:Oh]LB[do:no!])
+(;W[jq];B[sr];W[nr];B[ns])
+(;W[km]C[Oh, why this? :-D]))

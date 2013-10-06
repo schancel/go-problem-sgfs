@@ -1,0 +1,166 @@
+(;GE[joseki]DI[5d]DP[4]SO[Field Mouse]CO[8]AB[pp]C[Play at *a* few times to learn a new joseki first :o)]LB[qq:a]AP[goproblems]
+(;W[qq]LB[qp:a];B[qp]LB[pq:a];W[pq];B[oq]LB[or:a];W[or];B[nq]LB[gq:a]
+(;W[gq]C[Just testing your attention :o)];B[iq]LB[nr:a]C[Whoops! Black has summoned some help at Q and R 11!]AB[pi]AB[qi];W[nr];B[mr]C[Oh! What is this? Looks like a good move that closes white in a better way than n3! What to do about this? Play at a first.]LB[rp:a]
+(;W[rp];B[ro]C[Now - white to do something useful. All ladders are good for black. Do not play unnecessary moves (if you donÃ‚Â´t want to get this *wrong* :-). And donÃ‚Â´t risk(be careful about kos).]
+(;W[mq];B[lr]LB[lq:a]C[Play at a now ( donÃ‚Â´t be afraid, it is a good move :o)];W[lq]
+(;B[kr]
+(;W[op];B[np]
+(;W[oo];B[po]C[Only this prevents white move at a.]LB[mo:a]
+(;W[pn];B[qo]
+(;W[on];B[mo]
+(;W[rm];B[rq];W[rr];B[sp];W[sr];B[rn]C[If you want to answer here, do it at a. If you want to proteck your s2 group play at b. If you donÃ‚Â´t want anything play c.]LB[qm:a]LB[ns:b]LB[jk:c]
+(;W[qm];B[sq];W[sn]C[Yes. Black is going to resign. You should say *hoooorrayyy* now!RIGHT])
+(;W[jk]C[Interesting and wise choice.RIGHT])
+(;W[ns]C[You donÃ‚Â´t have to protect here.]))
+(;W[qn];B[rq];W[rr];B[sp]
+(;W[sr];B[rm];W[rn];B[sn]C[I think black can escape. Let me pls know if not.])
+(;W[rn];B[sr]
+(;W[rs];B[pr];W[qr];B[ps]C[Bad  :o(])
+(;W[qs]C[Looks like a ko or seki - white can do better.])))
+(;W[rn];B[rq];W[rr];B[sp];W[qn];B[sr]
+(;W[ps];B[qr];W[pr];B[rs])
+(;W[qr];B[ps];W[pr];B[rs];W[sn];B[so];W[qs];B[ns]C[Only (?) ko])
+(;W[pr];B[rs]
+(;W[qs];B[qr])
+(;W[qr];B[qs];W[ps];B[ns];W[ss];B[rs])))
+(;W[qm];B[rq];W[rr];B[sp];W[sr];B[rm];W[rl];B[sm]
+(;W[sq];B[rk]C[Black can escape this way.])
+(;W[sl];B[qn];W[ql];B[sq])
+(;W[qn];B[rn]
+(;W[sq];B[rk])
+(;W[qk];B[sq])
+(;W[ql];B[sq])))
+(;W[rq];B[qm]C[White can do much better!])
+(;W[ql];B[rm];W[rl];B[rq];W[rr];B[sp];W[sr];B[sq];W[sn];B[sm]))
+(;W[nn];B[mo]MA[mn]TR[no]C[Please do not try to play the forcing moves like triangle or square.]
+(;W[rm];B[rq];W[rr];B[sp];W[sr];B[sq]C[If you want to protect the lower right group, play at a.If you want to close black totally, play at b.If you want to get this wrong, play at c.]LB[ns:a]LB[rn:b]LB[fp:c]
+(;W[fp]C[Wrong!! :o)])
+(;W[rn];B[qr];W[pr];B[qs];W[ps]C[Very nice.RIGHT])
+(;W[ns];B[rn]
+(;W[sn];B[qm];W[rl];B[pm]C[Looks like black is out. Bad aji at least.])
+(;W[qm];B[sn])))
+(;W[qm];B[rq];W[rr];B[sp]
+(;W[sr];B[rm];W[rl];B[sm];W[sq];B[rk])
+(;W[rn];B[sr]C[Looks like a ko at least.]))
+(;W[qn];B[rq];W[rr];B[sp]
+(;W[sr];B[rm]C[Looks like black can escape with ko - white can do a bit better.])
+(;W[rn];B[sr]C[This will be only ko. DonÃ‚Â´t risk! Says the comment.]))
+(;W[rn];B[rq];W[rr];B[sp];W[qn];B[sr]C[Ko.])
+(;W[mn];B[lo]C[Ehm... Please do not play the forcing moves here!]
+(;W[rm];B[rq];W[rr];B[sp];W[sr]C[Ok...RIGHT])
+(;W[ln];B[ko]C[Ehm!!!!!]
+(;W[no]C[Hey! No solved for you!])
+(;W[rm];B[rq];W[rr];B[sp];W[sr]C[Wwweeeelllllll...RIGHT]))
+(;W[no]C[Hey hey hey!]))
+(;W[no];B[mp]LB[mn:a]C[Huh. Play at a now.];W[mn];B[lp]
+(;W[rm];B[rq];W[rr];B[sp];W[sr]C[Ok, but you were lucky!RIGHT])
+(;W[lo];B[kq]C[I told you no forcing moves. Do you want to get this *wrong*? Do you think I can cover all these vars? IÃ‚Â´m just a human! Stop trying your luck!];W[rm];B[rq];W[rr];B[sp];W[sr]C[Yes, thatÃ‚Â´s right, good boy, good.RIGHT])))
+(;W[om];B[no];W[on];B[qm]
+(;W[mn];B[lp];W[kq];B[kp])
+(;W[lo];B[mn])
+(;W[mo];B[nn];W[mm];B[mn];W[ln];B[mp];W[lp]C[Woo hoo!RIGHT]))
+(;W[mn]C[NOTTHIS])
+(;W[rm]C[Nice move.RIGHT]AB[iq])
+(;W[rq];B[qm]C[Black connects and white cannot capture anything.]))
+(;W[on]C[NOTTHISRIGHT])
+(;W[nn];B[mo];W[pn];B[qo];W[rm];B[rq];W[rr];B[sp];W[sr]C[Also one way to win.RIGHT])
+(;W[mo];B[no];W[on];B[nn]
+(;W[pn];B[qo];W[rm];B[rq];W[rr];B[sp];W[sr];B[qm];W[qn];B[rn];W[ql];B[pm];W[om];B[pl]
+(;W[ol];B[pk]
+(;W[rl];B[sq]
+(;W[sn];B[qk]C[White is in trouble.];W[mm]C[But you still saved the day, good :)RIGHT])
+(;W[mm]C[RIGHT]))
+(;W[mm];B[mn];W[ln];B[mp];W[lp]C[RIGHT]))
+(;W[rl];B[ol]C[Ladders are good for black.])
+(;W[mm];B[nm];W[ol];B[pk];W[nl]C[Nice!RIGHT]))
+(;W[rq];B[pn];W[om];B[pm]))
+(;W[no]C[];B[mp]C[(Ladders are good for black and do NOT play unnecessary moves :-)]
+(;W[pn];B[qo]
+(;W[on];B[lp];W[rm];B[rq];W[rr];B[sp];W[sr]C[OK, IÃ‚Â´ ll let it for you.RIGHT])
+(;W[rm]C[Looks like a tesuji. Well, it is a tesuji. I hope you can see it :-)RIGHT])
+(;W[om];B[qm]
+(;W[lp];B[mo];W[ln]C[IIyaRIGHT])
+(;W[qn];B[rn]C[unnecessary...]
+(;W[rm]C[Unnecessary...];B[rl]C[UNNECESSARRY...]
+(;W[so]C[];B[sm]C[VERY UNNECESSARRY...]
+(;W[sn]C[];B[sp]C[MEGA UPGRADED UNNECESSARRY];W[lp];B[mo];W[ln]C[Huh, duh, buh!!!RIGHT])
+(;W[lp];B[mo];W[ln]C[HmpffffhRIGHT]))
+(;W[lp];B[mo];W[ln]C[hmmmhhhRIGHT]))
+(;W[lp];B[mo];W[ln]C[Ooo-kkkRIGHT]))
+(;W[ql];B[rl]C[Please note white cannot capture this group.]
+(;W[lp];B[mo];W[ln]C[YessyRIGHT])
+(;W[pl];B[rk]C[And thus really does not need to play here...]
+(;W[lp];B[mo];W[ln]C[;-)RIGHT])
+(;W[qn];B[rn]C[Another moves not needed.];W[lp];B[mo];W[ln]C[WellRIGHT])
+(;W[rq];B[lp]C[White missed his chance.])))))
+(;W[mo];B[lp];W[pn];B[qo]
+(;W[qn];B[rq];W[rr];B[sp];W[sr];B[rn]
+(;W[ql];B[rm];W[ol];B[rk]C[Nice, but white could do much better.])
+(;W[rm];B[rl];W[qm];B[sm]C[White could do better.]))
+(;W[rm];B[rq];W[rr];B[sp];W[sr];B[qm];W[qn];B[rn];W[rl];B[qk];W[sq];B[rk];W[rp];B[pm];W[on];B[rq]C[Ko, but white could do better.])))
+(;W[mn];B[no];W[on];B[lp]
+(;W[pn];B[qo]
+(;W[rm];B[rq];W[rr];B[sp];W[sr]C[RIGHT])
+(;W[nn]C[Unnecessary move :o/];B[mp];W[rm];B[rq];W[rr];B[sp];W[sr]C[RIGHT]))
+(;W[nn];B[mp];W[pn];B[qo]
+(;W[rm];B[rq];W[rr];B[sp];W[sr]C[RIGHT])
+(;W[rn];B[rq];W[rr];B[sp];W[qn];B[sr]
+(;W[rs];B[pr];W[qr];B[ps])
+(;W[qs];B[ns];W[pr];B[os]C[This will be seki or ko - white could do better.]))
+(;W[qm];B[rq];W[rr];B[sp]
+(;W[rn];B[sr]C[White can do better.])
+(;W[sr];B[rm];W[rl];B[sm]
+(;W[sq];B[rk];W[sl];B[ql];W[rn];B[sk])
+(;W[ql];B[sq]C[Nice, but white could do better.]))))))
+(;W[qo];B[po]
+(;W[oo];B[qn];W[pn];B[qo]C[White is in trouble.])
+(;W[qn];B[rq]
+(;W[oo];B[sp];W[pn];B[rp]
+(;W[mn];B[no];W[on];B[lp]
+(;W[nn];B[mp];W[rr];B[sr];W[qs];B[pr];W[qr];B[rn];W[rm];B[sn]C[Seki or ko.. white can do better.])
+(;W[rr];B[sr];W[qs];B[pr];W[qr];B[rn];W[rm];B[sn]C[Seki or ko now.. white can do better.]))
+(;W[mo];B[no];W[on];B[nn];W[mm];B[nm];W[nl];B[om];W[pl];B[mn];W[ln];B[lo];W[ko];B[lm]C[:-) :-) :-)])
+(;W[no];B[mp];W[lp];B[mo];W[mn];B[lo];W[ko];B[ln];W[lm];B[kn];W[jn];B[km];W[kl];B[jm];W[im];B[jl];W[jk];B[il];W[hl];B[ik];W[ij];B[hk];W[gk];B[hj]C[Sorry, but there was a *all ladders are good for black* sign :-)]))
+(;W[rr];B[sp];W[oo]))))
+(;W[np];B[op]TR[qn]TR[rq]C[Miai and white cannot capture anything.])
+(;W[qo];B[po]
+(;W[qn];B[rq];W[op];B[np];W[oo];B[sp];W[pn];B[rp]C[Now a hard fight for white will follow.])
+(;W[np];B[op];W[qn];B[rq])
+(;W[op];B[np]
+(;W[qn];B[rq];W[oo];B[sp];W[pn];B[rp]C[Very hard for white.])
+(;W[oo];B[qn];W[pn];B[qo]C[White has no good continuation.])))
+(;W[po];B[op]TR[qo]TR[rq]C[Triangles are miai now and white will not take anything.])
+(;W[rq]C[Black will protect his wall now. The result is not bad for white, but you could do better.])))
+(;W[op]C[NOTTHIS])
+(;W[qo];B[po]
+(;W[rq];B[qn]C[Very bad for white.])
+(;W[mq];B[lr]
+(;W[op];B[np];W[oo];B[qn];W[pn];B[qo];W[lq];B[kq]C[Looks like white will not be able co catch anything.])
+(;W[lq];B[kq]
+(;W[kp];B[jq]
+(;W[np];B[op];W[qn];B[rq])
+(;W[op];B[np];W[oo];B[qn];W[pn];B[qo]
+(;W[on];B[lp])
+(;W[mo];B[no];W[on];B[nn])
+(;W[no];B[mp];W[lp];B[mo];W[mn];B[lo]C[Ladders are good for black.]))
+(;W[qn];B[rq];W[op];B[np];W[no];B[oo]))
+(;W[op];B[np];W[oo];B[qn];W[pn];B[qo]C[White cannot do anything useful.]))
+(;W[np];B[op]
+(;W[qn];B[rq])
+(;W[rq];B[qn]C[White can do better.])))
+(;W[op];B[mq]C[Very bad for white!])
+(;W[qn];B[rq];W[mq];B[lr]
+(;W[op];B[np];W[oo];B[pn];W[on];B[pm];W[mp];B[no];W[nn]C[Ladders are good for black.])
+(;W[lq];B[kr];W[pn];B[op];W[rr];B[sp])))
+(;W[rq];B[qn]C[Good, but twhite can do much better!])
+(;W[rr]C[This is not the best white can do.]))
+(;W[hs]C[];B[ir]C[Congratulations! Although your last move was a bad one, you are now about to find the bonus picture! Click on one of the *a* symbols and if you will be lucky enough...]LB[rr:a]LB[sr:a]LB[rs:a]LB[ss:a]
+(;W[rs]C[Yes, here is your bonus picture! (maybye it is not clear enough but it is a chicken :o)RIGHT]LB[il:_]LB[jl:_]LB[kl:_]LB[ll:_]LB[hl:]LB[hk:/]LB[ik:-]LB[jk:-]LB[kk:-]LB[lk:-]LB[ml:/]LB[nk:/]LB[mj:/]LB[mk:           ]LB[nj:|]LB[ni:O]LB[oi:>]LB[nh:_]LB[mi:/]LB[km:|]LB[jm:|]LB[jn:|]LB[kn:|]LB[lo:]LB[io:/]LB[jo:/]LB[ko:]LB[gk:])
+(;W[rr]C[No bonus picture for you :o(])
+(;W[ss]C[One to the left next time...])
+(;W[sr]C[You did not find the bonus picture :o(])))
+(;W[nr]C[Never play go automatically. Do you know, where *a* was?]))
+(;W[pi]C[This onca was a *Bonus! You are lucky one!* and it was marked as solved. But now you have to search for other bonuses.])
+(;W[qr]C[Looks like a misclick :o(]MA[is]MA[ir]MA[jr]MA[kr]MA[ks]MA[lr]MA[mr]MA[ms]MA[nq]MA[np]MA[no]MA[nr]MA[iq]MA[ip]MA[jp]MA[ko]MA[kn]MA[km]MA[kl]MA[jl]MA[il]MA[hl]MA[gl]MA[gm]MA[gn]MA[go]MA[gp]MA[hp]TR[gk]TR[kk]MA[kp]LB[hm:O]LB[jm:O]LB[io:X])
+(;W[rq]C[Oops :o(])
+(;W[rr];B[qq]LB[ss:b]C[Hmm, wrong :-) But you can play at b a few times now if you want to. For no reason.];W[ss];B[qr]LB[rs:b];W[rs];B[rq]LB[sr:b];W[sr];B[sq]LB[qs:b];W[qs];B[ps]C[Haha! Got you! :-D]))

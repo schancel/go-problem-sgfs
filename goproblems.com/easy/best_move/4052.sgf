@@ -1,0 +1,18 @@
+(;GE[best move]DI[5k]DP[34]SO[santa c]CO[7]AB[js]AB[jr]AB[iq]AB[hq]AB[gq]AW[jq]AW[kq]AB[kr]AW[lr]AW[ls]LB[ho:1]LB[io:2]LB[jo:3]LB[ko:4]C[Endgame. A 1 point ko somewhere on the board. How many ko threat does white have here? (Both white and black are 'big groups' - Aren't in need of eyes and are alive unconditionally.)FORCE]AB[fq]LB[go:0]AW[mq]LB[lo:5]AW[lq]AP[goproblems]
+(;W[jo]C[];B[io]C[Play the 1st ko threat.FORCE]
+(;W[ir];B[hr]C[Play the 2nd ko threat.FORCE]
+(;W[ks];B[is]C[Play the 3nd ko threat.];W[hs];B[gs]C[Well done! ^^RIGHT])
+(;W[is];B[hs]C[Only 2 this way! :(])
+(;W[hs];B[gs]C[Play the 3rd ko threat.FORCE]
+(;W[ks];B[is]C[Well done! ^^RIGHT])
+(;W[fs];B[go]C[Black wins the ko. Since it's the endgame and white can't do anything with the little triangle within, F1 isn't a ko-threat.. :(]AW[gr]LB[gr:A])
+(;W[gr];B[go]C[Black wins the ko. Since it's the endgame and white can't do anything with the little triangle within, G2 isn't a ko-threat.. :(]AW[fs]LB[fs:A])))
+(;W[hr];B[ir]C[Only 1 this way! :(])
+(;W[is];B[ir]C[Only 1 this way! :(])
+(;W[ks];B[ir]C[Only 1 this way! :(])
+(;W[hs];B[ir]C[Only 1 this way! :(]))
+(;W[go]C[Wrong. The correct anwser is 3. Please do checkout 'Navigate Solution' under 'Show Solution' following the correct, green path to see for yourself.])
+(;W[ho]C[Wrong. The correct anwser is 3. Please do checkout 'Navigate Solution' under 'Show Solution' following the correct, green path to see for yourself.])
+(;W[io]C[Wrong. The correct anwser is 3. Please do checkout 'Navigate Solution' under 'Show Solution' following the correct, green path to see for yourself.])
+(;W[ko]C[Wrong. The correct anwser is 3. Please do checkout 'Navigate Solution' under 'Show Solution' following the correct, green path to see for yourself.])
+(;W[lo]C[Wrong. The correct anwser is 3. Please do checkout 'Navigate Solution' under 'Show Solution' following the correct, green path to see for yourself.]))

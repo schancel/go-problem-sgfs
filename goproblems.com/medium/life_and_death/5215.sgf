@@ -1,0 +1,25 @@
+(;GE[life and death]DI[2d]DP[14]SO[nutcase]CO[9]C[Black to play.]AB[rd]AB[re]AB[se]AB[qd]AB[pc]AB[oc]AB[nc]AB[mc]AB[lc]AB[kc]AB[kb]AW[sd]AW[rc]AW[ra]AW[pb]AW[ob]AW[nb]AW[mb]AW[lb]
+(;B[rb];W[qb]
+(;B[sb];W[qa]
+(;B[la];W[sa];B[sc];W[sd];B[sc];W[sb];B[qc]C[koRIGHT])
+(;B[sc];W[la])
+(;B[qc];W[la]))
+(;B[qc];W[sb])
+(;B[sc];W[sb]))
+(;B[qb];W[rb]
+(;B[qc];W[qa]
+(;B[sc];W[sb])
+(;B[pa];W[oa]
+(;B[sc];W[sb])
+(;B[la];W[ma]))
+(;B[la];W[pa]
+(;B[sc];W[sb])
+(;B[ma];W[na])))
+(;B[sc];W[qc]))
+(;B[sb];W[rb]
+(;B[sc];W[qc])
+(;B[qc];W[qb];B[sc]C[White is alive and doesn't even need to answer.])
+(;B[qb];W[qc]))
+(;B[qc];W[qb]
+(;B[sc];W[rb];B[sb]C[White is alive and doesn't even need to answer.])
+(;B[sb];W[rb];B[sc]C[White is alive and doesn't even need to answer.])))

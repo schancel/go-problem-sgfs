@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[3k]DP[27]SO[Zwom]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cc][dc][gc][dd][qf]AB[cd][jd][pd][ce][cg]
+(;B[mc]CR[mc]C[This move puts undo emphasis on the connection and leaves the corner more vulnerable.])
+(;B[nc]CR[nc]C[RIGHT this helps protect the corner as well as anticipating a connection.]))

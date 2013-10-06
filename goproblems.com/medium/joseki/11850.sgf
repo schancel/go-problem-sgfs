@@ -1,0 +1,13 @@
+(;GE[joseki]DI[3d]DP[9]SO[ZeroShiKii]CO[0]C[Black to play the Taisha Joseki.]AB[oc]AW[qd]AP[goproblems];B[pf];W[od];B[pd];W[pe];B[pc]
+(;W[oe];B[qe];W[qf];B[re];W[pg]C[CHOICE]
+(;B[rf]C[This is unfavorable for Black.])
+(;B[mc];W[of];B[rd]C[This is one variation.CHOICERIGHT]))
+(;W[qe];B[oe];W[of]C[White p14 instead of O16 to avoid the 1000 variations. Maybe in another problem.]
+(;B[nd]
+(;W[ne]
+(;B[od])
+(;B[me];W[od]C[CHOICERIGHT])
+(;B[md];W[od];B[qc];W[pg]C[CHOICERIGHT])
+(;B[nf];W[od]C[This variation is only possible if black has many ko threats.CHOICERIGHT]))
+(;W[pg];B[nf];W[og];B[ng];W[oi];B[nh];W[pi]C[This is a very unfavorable position for white.CHOICERIGHT]))
+(;B[ne];W[pg];B[nf];W[og]LB[ng:A]C[This variation is good for both sides. A is a huge continuation.CHOICERIGHT])))

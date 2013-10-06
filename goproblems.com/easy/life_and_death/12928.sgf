@@ -1,0 +1,23 @@
+(;GE[life and death]DI[7k]DP[41]SO[ccsco]CO[0]AB[rd]AB[qd]AB[rf]AB[pc]AB[oc]AB[nc]AB[nb]AB[oa]AW[ob]AW[pb]AW[qc]AW[rc]AW[sb]AW[qa]AP[goproblems]
+(;B[ra];W[rb];B[na];W[pa];B[qb]C[];W[pb]LB[mg:Tenuki?]C[Can B tenuki?  If so, click 'Tenuki?'  (Otherwise, keep playing locally.)FORCE]TR[mg]
+(;B[qa];W[pa]LB[mg:Tenuki?]C[W is threatening to take the triangled stones.  Can B tenuki?  (If you think so, click 'Tenuki?')]TR[qb]TR[qa]TR[ra]
+(;B[mg];W[sa];B[qa]C[You were correct to tenuki!  W still dead.  However, you could also have tenuki'd the _first_ time, too...])
+(;B[ob]C[Although W dies, B could have played elsewhere _both times_ (W was dead anyway).  This is not the best result for B.]))
+(;B[pa];W[qa]C[Yep, W is dead.  (W can only make one eye this way.)  However, B _was_ able to tenuki the first time too...])
+(;B[mg]
+(;W[pa]
+(;B[qa];W[sa];B[qa]C[Correct!  W is dead and B was able to tenuki to boot.RIGHT])
+(;B[ob];W[qa];B[qb]C[Yes - you were correct to tenuki, and w is dead.RIGHT]))
+(;W[qa]
+(;B[pa]C[Correct!  W is dead and B was able to tenuki to boot.RIGHT])
+(;B[ob];W[pa];B[qb]C[Yep - W is dead (and B got to tenuki as well).RIGHT])))
+(;B[ob];W[qa];B[pa]C[Yes, W can only make one eye.  However, W was already dead, so you could have tenuki'd...]))
+(;B[na];W[ra]
+(;B[qb];W[pa]C[Nope -- w lives. : (])
+(;B[pa];W[qb]C[Nope -- w lives. : (]))
+(;B[rb];W[ra];B[na];W[mg]C[W tenukis...]
+(;B[pa];W[qb]C[W is alive! :-/])
+(;B[sd];W[nf]C[W tenukis again..]
+(;B[sc];W[qb]C[W is alive! :-/])
+(;B[pa];W[qb]C[W is alive! :-/])))
+(;B[sd];W[ra];B[na]LB[qb:B]LB[pa:A]C[W is alive and can even tenuki, as A and B are miai for W to live.]))

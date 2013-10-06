@@ -1,0 +1,27 @@
+(;GE[endgame]DI[4d]DP[7]SO[field mouse]CO[9]AB[lr]AB[kr]AB[kp]AB[ko]AB[jo]AB[io]AB[ho]AW[ip]AW[iq]AB[hp]AB[hq]AB[hr]AB[gp]AW[go]AW[fo]AW[fp]AW[fq]AW[fr]AW[er]AW[dr]AW[br]AW[cq]AB[bq]AB[bp]AB[dp]AB[ep]AB[gn]AB[fm]AB[em]AB[en]AB[ar]AB[bn]AW[hn]AW[in]AW[jn]AW[kn]AW[ln]AW[lo]AW[lp]AW[lq]AW[mq]AW[mr]AW[ls]AB[or]AB[oq]AB[hl]AB[il]AB[ik]AW[hk]AW[jk]AW[jl]AW[ij]AW[ii]AW[kj]AW[ki]AW[jh]AW[om]AB[fl]AB[fk]AB[fj]AB[fg]AB[eh]AW[ek]AW[el]AW[dl]AW[dm]AW[cm]AW[bm]AW[gg]AW[gf]AW[fe]AW[ee]C[White to play! Consider that white has three pink antennae and thus can win any ko he wants!]AB[an]AB[dn]AW[ih]AB[gi]AB[ei]AW[di]AB[fh]AW[hh]AB[ff]AB[ef]AW[de]AW[df]AW[dg]AB[op]AB[np]AB[mp]AW[mn]AB[nn]AB[no]AB[nm]AB[os]AB[cn]AB[co]AB[aq]AB[pn]AB[po]AB[on]AW[pm]AW[qm]AW[qn]AW[qp]AW[nl]AB[jq]AB[jr]AB[pq]AB[qq]AB[rq]AW[rp]AW[pp]AB[ej]AW[dj]AB[gh]AW[hg]AW[kq]AB[sr]AB[rr]AW[sq]AW[sp]AW[qo]AW[dh]AW[kk]AW[mk]AW[lk]AW[mm]AW[ok]AB[kl]AB[km]AP[goproblems]
+(;W[ks];B[js];W[ms]
+(;B[hs]C[Black had to play here: otherwise white would take this point himself (you can navigate solution for the explaining variation)]
+(;W[gm];B[fn]
+(;W[am]
+(;B[hj]
+(;W[gl];B[gk];W[hm];B[im];W[jm];B[hk]C[Nice, nice, nice :-)RIGHT])
+(;W[im];B[gl];W[hi];B[gk];W[hm]C[You lost sente.. but the position is ok :)RIGHT])
+(;W[hm];B[gl];W[hi];B[im];W[jm];B[gk]C[You lost one point :-(]))
+(;B[hm];W[im];B[gl];W[hj]C[gooood!RIGHT]))
+(;W[hj];B[am];W[gl];B[ak]C[White last move was worth ten points, but this is a bit bigger.]))
+(;W[am];B[hm]
+(;W[hj];B[im];W[jm];B[gk]C[One point (the marked one!) worse than the solution.]TR[fn])
+(;W[gj];B[im];W[jm];B[gk];W[hj]C[Well... you lost sente because of the marked stone, whis is not totally useless.. Ok, lets mark it solved, but be careful next time!]MA[gj])
+(;W[hi];B[im];W[jm];B[gk];W[hj]C[Well... you lost sente because of the marked stone, whis is not totally useless.. Ok, lets mark it solved, but be careful next time!]MA[hi])))
+(;B[am]C[NOTTHIS];W[hs];B[gs];W[gr];B[is];W[fs]C[White makes very big ko for the life of the black group]))
+(;W[gm];B[fn]
+(;W[ks];B[js];W[ms];B[hs]C[White could make ko here if it was his turn so black defends.])
+(;W[am];B[ks]C[You should have played this move yourself :(])
+(;W[hj];B[am]C[Too big!]))
+(;W[am];B[ks];W[ms];B[hm];W[hj];B[im];W[jm];B[gk]C[This is a bit worse than the solution.])
+(;W[hj];B[am]C[This is too big.])
+(;W[hm];B[am]C[Ouch :(])
+(;W[hs];B[ks]
+(;W[ms];B[is]C[The h1 stone is useless.]MA[hs])
+(;W[is];B[ms]C[Glack gained a lot of points here :-(])
+(;W[gs];B[ms]C[White is dead, he gained nothing.])))

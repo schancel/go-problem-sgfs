@@ -1,0 +1,7 @@
+(;GE[life and death]DI[8k]DP[45]SO[tom111]CO[8]AB[rp]AB[qp]AB[pp]AB[pq]AB[oq]AB[or]AB[mr]AW[os]AW[pr]AW[qs]AW[qq]AW[rq]AW[sr]C[Basic shape: Black to do something ! Play T if nothing is possible !]LB[mp:T]AP[goproblems]
+(;B[rr];W[rs]C[White is alive :(])
+(;B[rs];W[rr];B[ns];W[ss];B[ps]C[Ko... best thing black can get !RIGHT])
+(;B[qr];W[rr];B[ns];W[ps])
+(;B[ns];W[rs]C[White is alive :(])
+(;B[sp];W[rs]C[White is alive :(])
+(;B[mp]C[No! Black can do something .... ]))

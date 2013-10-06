@@ -1,0 +1,79 @@
+(;GE[life and death]DI[2d]DP[14]SO[santa c]CO[9]AB[bn]AB[cn]AB[co]AB[dp]AB[dq]AB[fq]AW[bo]AW[cp]AW[cq]AW[bq]C[It's a wonderful tsumego. Surely anyone can find the obvious ko but can you do better - Can you kill ***unconditionally***?]AP[goproblems]
+(;B[ds]
+(;W[cr]C[Landing with a tobi? Your mind works in a misterious way... ;)]
+(;B[ar];W[ap]
+(;B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.CHOICERIGHT])
+(;B[aq];W[br]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[bs];W[cs]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[cs];W[bs]
+(;B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[dr];W[aq]C[White lives! And you were sooo close... How could you fail afer D1? ;(])))
+(;B[cs];W[bs]
+(;B[ar]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[ao];W[ar]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[ap];W[ar]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[aq];W[ar]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[an];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[ao];W[ap];B[bp]MA[bo]C[A very hard ko for white but it's still a ko! And you were sooo close... How could you fail afer D1? ;(])
+(;B[ap];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[aq];W[ar]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[an];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[bs];W[cs]C[Only thing black can get now is a ko.. And you were sooo close... How could you fail afer D1? ;(]LB[ao:1]LB[ap:2]LB[bp:3])
+(;B[dr];W[ar]C[White takes the key point and lives! And you were sooo close... How could you fail afer D1? ;(]TR[bs]TR[ap]))
+(;W[ap]C[Landing with a tobi? Your mind works in a misterious way... ;)]
+(;B[bs];W[br]
+(;B[ar]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.CHOICERIGHT])
+(;B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT]))
+(;B[an];W[bs]
+(;B[ar]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[br];W[cr]
+(;B[ar];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[ao];W[ar]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[cr];W[br]
+(;B[ao];W[ar];B[bp]C[Still a ko.. And you were sooo close... How could you fail afer D1? ;(]MA[bo])
+(;B[ar];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[ao];W[ar]
+(;B[bp];W[cr]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[cr];W[br];B[bp]C[Still a ko.. And you were sooo close... How could you fail afer D1? ;(]MA[bo])))
+(;B[ar];W[cr]
+(;B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[cs];W[bs]
+(;B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[aq];W[br];B[an]C[Well done! The tobi (D1) is indeed a spectacular move making the two 1x2 points miai, rendering whites resistance futile.RIGHT])
+(;B[br];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[bs];W[cs]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[aq];W[br]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[br];W[cr]
+(;B[cs];W[bs];B[as];W[ar];B[aq]C[Still a ko.. And you were sooo close... How could you fail afer D1? ;(])
+(;B[bs];W[cs]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[ar];W[bs]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[an];W[ao]C[White lives! And you were sooo close... How could you fail afer D1? ;(]))
+(;B[cr];W[br]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[cs];W[br]C[White lives! And you were sooo close... How could you fail afer D1? ;(])
+(;B[dr];W[br]C[White lives! And you were sooo close... How could you fail afer D1? ;(])))
+(;B[dr];W[ap]
+(;B[br];W[cr];B[cs];W[bs];B[as];W[ar];B[aq]C[Only a ko..])
+(;B[cr];W[br]C[White lives!])
+(;B[ar];W[br];B[bs];W[cs];B[cr];W[as]C[Only a ko..])
+(;B[cs];W[br]C[White lives!])
+(;B[bs];W[br];B[ar];W[cs];B[cr];W[as]C[Only a ko..])
+(;B[an];W[ao]
+(;B[br];W[cr];B[cs];W[bs];B[as];W[ar];B[aq]C[Only a ko..])
+(;B[bs];W[br];B[ar];W[cs];B[cr];W[as]C[Only a ko..])
+(;B[ar];W[br]C[White lives!])
+(;B[cr];W[br]C[White lives!])
+(;B[cs];W[br]C[White lives!])))
+(;B[ao];W[ap];B[bp]MA[bo]C[Well it is the obvious ko, which isn't good enough! Unconditional kill is possible!])
+(;B[cr];W[br]
+(;B[ao];W[dr]C[White lives!])
+(;B[dr];W[ap]C[White lives!])
+(;B[ap];W[dr]C[White lives!])
+(;B[ds];W[ap]C[White lives!])
+(;B[cs];W[bs]
+(;B[dr];W[ao]C[White lives!])
+(;B[er];W[ao]C[White lives!])
+(;B[ds];W[ao]C[White lives!]))
+(;B[bs];W[dr]
+(;B[ds];W[er]C[White lives!])
+(;B[cs];W[er]C[White lives!])
+(;B[er];W[cs]C[White lives!]))))

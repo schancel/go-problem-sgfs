@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[26]SO[mountain root]CO[0]AB[ra]AB[rc]AB[sc]AB[qd]AB[pd]AB[od]AB[nc]AB[mc]AB[lc]AB[kb]AB[jb]AB[la]AB[ma]AB[na]AB[kd]AW[lb]AW[mb]AW[nb]AW[ob]AW[oc]AW[pc]AW[qc]AW[qa]AW[rb]AW[sb]AB[re]C[White is damezumari.]AP[goproblems]
+(;B[oa]
+(;W[pa]
+(;B[qb]
+(;W[ka];B[sa]C[Good!CHOICERIGHT])
+(;W[sa];B[ra]C[Snapback.RIGHT])
+(;W[pb];B[qb]C[Snapback.RIGHT]))
+(;B[ka];W[qb]C[Alive.])
+(;B[pb];W[qb]C[Alive]))
+(;W[pb];B[ka]C[RIGHT])
+(;W[qb];B[pa]C[RIGHT])
+(;W[sa];B[pa]C[RIGHT]))
+(;B[pa];W[pb]C[Ko.])
+(;B[qb];W[pb]C[Alive.])
+(;B[pb];W[pa]C[Alive.])
+(;B[ka];W[oa]C[Alive.]))

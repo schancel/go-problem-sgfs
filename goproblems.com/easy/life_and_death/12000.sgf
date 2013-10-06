@@ -1,0 +1,5 @@
+(;GE[life and death]DI[10k]DP[50]SO[DarkSycthe]CO[0]AB[bb]AW[bd]AW[be]AW[bf]AW[bg]AW[ad]AW[db]AW[eb]AB[dc]AB[ec]AB[cd]AB[ce]AB[cf]AB[cg]AB[ch]AB[af]AW[bc]AB[fc]AB[ee]AB[ab]AW[ac]AW[ea]AB[ba]AW[da]AB[aa]AW[cc]AW[ag]AB[bh]AB[ah]C[What can black get here? Kill = white is unconditionally dead]AW[fb]AW[fa]AB[gc]AB[gb]AB[ga]LB[ge:Kill]LB[gg:Ko]LB[gi:Seki]LB[gk:Nothing]AP[goproblems]
+(;B[gk]C[No, black can get something.])
+(;B[gi];W[gh]C[Ok, please demonstrate.];B[cb];W[ca];B[ba];W[cb]C[Note that white could have played A to get ko.]LB[bb:A];B[ab]C[RIGHT])
+(;B[gg];W[gh]C[Ok, please demonstrate.];B[cb];W[ca];B[ba];W[bb]C[Note that white could have played A to get seki.]LB[cb:A];B[cb];W[db];B[da]C[RIGHT])
+(;B[ge]C[No, black cannot kill unconditionally.]))

@@ -1,0 +1,60 @@
+(;GE[life and death]DI[6d]DP[4]SO[Lazare]CO[0]AB[qp]AB[qo]AB[po]AB[rn]AB[qm]AB[op]AB[np]AB[nq]AB[mr]AB[lq]AW[or]AW[nr]AW[oq]AW[pq]AW[pp]AW[qq]C[Can you find the unusual tesuji ? Black to play and kill, no condition]AP[goproblems]
+(;B[sr]
+(;W[rq];B[sq];W[sp];B[rp];W[rr];B[so];W[ns];B[ps]C[RIGHT])
+(;W[sq];B[rq];W[rr];B[sp];W[qr]
+(;B[ps]C[RIGHT])
+(;B[ns]C[RIGHT])
+(;B[rs]C[RIGHT]))
+(;W[rr]
+(;B[sq];W[rp];B[sp];W[rq];B[so];W[ns];B[ps]C[RIGHT])
+(;B[rq];W[rp])))
+(;B[rr];W[rq]
+(;B[sr];W[sq];B[qr];W[rs]
+(;B[ns];W[ps]C[Seki, but Black can do better])
+(;B[ps];W[pr];B[ns];W[os]))
+(;B[qr];W[sr];B[rs];W[ps];B[ns];W[qs]C[Seki, but black can do better]))
+(;B[ns];W[rr]
+(;B[rp];W[sr]
+(;B[os];W[qs];B[ps];W[pr];B[ms];W[rq])
+(;B[qs];W[rs];B[os];W[ps];B[pr];W[qr])
+(;B[ps];W[qs];B[os];W[pr];B[ms];W[rq])
+(;B[rs];W[qs];B[ps];W[ss];B[os];W[pr];B[ms];W[rq]))
+(;B[os];W[qs]
+(;B[ps];W[pr])
+(;B[pr];W[ps];B[rq];W[ms])
+(;B[rp];W[sr];B[ps];W[pr];B[ms];W[rq])
+(;B[sr];W[sq]))
+(;B[qs];W[rs]
+(;B[os];W[ps];B[pr];W[qr])
+(;B[sr];W[sq];B[os];W[ps];B[pr];W[qr])))
+(;B[rq];W[rr]
+(;B[sp];W[sr])
+(;B[rp];W[sr])
+(;B[sr];W[rp];B[sp];W[sq]C[Ko, but black can do better]))
+(;B[rp];W[rq]
+(;B[rr];W[sq];B[qr];W[sr];B[rs];W[ps];B[ns];W[qs];B[ms];W[os]C[Seki :(  Black can do better])
+(;B[sq];W[sr];B[rr];W[sp];B[qr];W[rs];B[qs];W[ps];B[ss];W[sq];B[ns];W[pr])
+(;B[ns];W[rs]
+(;B[sr];W[sq]
+(;B[ps];W[os];B[rr];W[qr])
+(;B[os];W[ps])
+(;B[rr];W[qr];B[ps];W[os]))
+(;B[qr];W[sr];B[os];W[ps])
+(;B[os];W[sr]
+(;B[ps];W[qr])
+(;B[qs];W[ps];B[pr];W[qr]))))
+(;B[sq];W[sr]
+(;B[rr];W[rq]
+(;B[sp];W[rs];B[ss]C[Ko, but Black can do better])
+(;B[ss];W[sp]
+(;B[sr];W[qr])
+(;B[rp];W[sr]C[Ko, but Black can do better])))
+(;B[rq];W[rr];B[qs];W[qr]
+(;B[ps];W[rs])
+(;B[rs];W[ps])))
+(;B[qs];W[rr]
+(;B[rs];W[rp];B[ns];W[ps])
+(;B[ns];W[rs]
+(;B[sq];W[sr];B[os];W[ps];B[pr];W[qr])
+(;B[os];W[ps];B[pr];W[qr]))
+(;B[sq];W[sr];B[rs];W[ps])))

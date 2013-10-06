@@ -1,0 +1,47 @@
+(;GE[life and death]DI[2k]DP[21]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-06-15]
+KM[5.5]
+RU[Japanese]
+AB[rc][re][qd][pd][pf][nf][lf][ld][mc]
+AW[qc][pc][oc][od][kc][kd][ke][hd]
+C[Save the 4 white stones without ko.]
+
+PL[W]TR[qc][pc][oc][od]
+
+(;W[md]
+(;B[nd]
+C[CHOICE]
+
+(;W[mb];B[lb]
+C[CHOICE]
+;W[lc];B[me]
+(;W[nc];B[nb]
+C[A is ko.]
+LB[md:A]
+)
+(;W[nb]
+C[RIGHT]
+))
+(;W[nc];B[lc]
+(;W[me];B[le]
+(;W[mf];B[mg];W[ne];B[oe])
+(;W[ne];B[oe]))
+(;W[ne];B[le])))
+(;B[lc];W[le];B[me];W[nd];B[nb];W[ob])
+(;B[le];W[mb]))
+(;W[mb];B[nb]
+(;W[nc];B[lb]
+(;W[md];B[lc])
+(;W[lc];B[md])
+(;W[le];B[me])
+(;W[ne];B[le]
+(;W[md];B[lc])
+(;W[lc];B[md])))
+(;W[lc];B[md];W[nc];B[lb]))
+(;W[le];B[me];W[mb];B[nb];W[nc];B[lb];W[lc];B[md])
+(;W[nc];B[lc])
+(;W[lc];B[md];W[mb];B[nb]))

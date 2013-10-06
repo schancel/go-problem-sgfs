@@ -1,0 +1,12 @@
+(;GE[joseki]DI[2d]DP[14]SO[bass]CO[6]AB[pq]AW[po]AB[qo]AW[pp]AB[qp]AW[qq]AB[pr]AW[rq]AB[or]AB[nq]AW[qn]AB[op]AW[oo]AB[no]AW[on]AB[mp]AW[pm]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl]C[Black to play. Mirror this joseki in the other corner.]AP[goproblems]
+(;B[dq]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[do]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[co]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[dp]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[cp]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[eq]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl]
+(;B[dn]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[cq]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[dr]TR[js]TR[jq]TR[jr]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[bq]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[er]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl]
+(;W[fp]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl]C[If the ladder is not good for white, this is white's only move. Navigate solution for details.];B[fq]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[cn]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[ep]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[eo]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[fo]TR[js]TR[jr]TR[jq]TR[jp]TR[jn]TR[jo]TR[jm]TR[jl];W[en]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];B[gp]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl];W[dm]TR[js]TR[jr]TR[jq]TR[jp]TR[jo]TR[jn]TR[jm]TR[jl]C[This is the basic variation of the ko-nadare (small avalanche) joseki. This is locally slightly better for white, so black plays this way only when the bottom side is very important.RIGHT])
+(;W[fq]C[Reference variation: white cannot play this move if the ladder works for black.];B[fr]
+(;W[cn];B[eo];W[ep];B[gq];W[fp];B[fo];W[gp];B[hp]C[this is the ladder mentioned in the previous comments.])
+(;W[gq]C[This move defends against the ladder. This is also very bad for white, black gets an extra stone at F2, which can be utilized very effectively..];B[cm]C[The white stones in the corner are dead, and the cut at C6 is gone.]TR[bq]TR[cq])))
+(;B[cn]C[This starts the o-nadare (large avalanche) joseki.])
+(;B[cq]C[This is the simplest variation.])
+(;B[er]C[This is also a valid variation, but not the one wanted here.])
+(;B[dr]C[This is a peaceful variation, not the one on the right hand side.]))
+(;B[cp]C[NOTTHIS]))

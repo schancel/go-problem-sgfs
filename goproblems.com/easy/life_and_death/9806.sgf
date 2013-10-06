@@ -1,0 +1,6 @@
+(;GE[life and death]DI[10k]DP[53]SO[MrMoto]CO[6]AB[jr]AB[ir]AB[iq]AB[hq]AB[gq]AB[gp]AB[gn]AB[go]AB[fn]AB[ip]AB[io]AB[in]AB[im]AB[jn]AW[hp]AW[ho]AW[hn]AW[hm]AW[gm]AW[fm]AW[em]AW[en]AW[fo]AW[fq]AW[fp]AW[gr]AW[eq]AW[dq]AW[cq]AW[bq]AW[cp]AB[bp]AB[bo]AB[co]AB[do]AB[dp]AB[ep]AB[eo]AB[dn]AB[dm]AB[cl]AB[ck]AW[dl]AW[dk]AW[fk]AW[il]AW[hl]AB[jl]AB[kl]AB[ll]AB[ik]AW[jm]AW[km]AW[lm]AW[ko]AW[jo]AW[jp]AW[jq]AW[lp]AB[kp]AW[kr]AB[mq]AB[lr]AB[nm]AB[nl]AB[nn]AB[no]AW[dj]AB[ij]MA[lr]C[Black just played at the marked stone.  How should white respond?]AP[goproblems]
+(;W[kq];B[ks])
+(;W[lq];B[ks])
+(;W[js];B[is];W[ks];B[kq];W[lq];B[kq];W[kp];B[ls];W[kq];B[kn];W[ln];B[lo];W[mo];B[mp];W[lo];B[mm]C[:(])
+(;W[ks]C[Simple as that.  Black has no way to reduce white's liberties now.RIGHT])
+(;W[ls];B[ms];W[ks]C[This works too ... black can't effectively throw in at L3 because M2 has too few liberties.RIGHT]))

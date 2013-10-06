@@ -1,0 +1,28 @@
+(;GE[life and death]DI[6k]DP[37]SO[picketfence]CO[7]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-19]
+KM[0.0]
+RU[Japanese]
+AB[rb][rd][qd][pc][pb][pe][oe][ne][md][mc][lc][kb][jb]
+AW[pd][od][oc][ob][qe][re][of][pf][ld][kc][lb][mb]
+C[White to save her 6 stones.]
+
+PL[W]TR[pd][od][oc][ob][mb][lb]
+
+(;W[me];B[le];W[mf];B[kd];W[nd]
+C[RIGHT
+Black's 3 stones are captured.]
+SQ[pe][oe][ne]
+)
+(;W[le];B[nf];W[ng];B[mf];W[lg];B[jc];W[kd];B[nb]
+C[White is short one liberty.]
+)
+(;W[kd];B[mf];W[ic];B[ib];W[hc];B[nb];W[nc];B[oa];W[na]
+;B[pa]
+C[White is short one liberty.]
+)
+(;W[nb];B[le];W[kd];B[ic])
+(;W[nc];B[le];W[kd];B[ic]))

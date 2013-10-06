@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[8k]DP[45]SO[adum]CO[8]AB[qa]AB[pa]AB[oc]AB[nc]AB[nb]AB[pb]AW[pc]AW[qb]AW[ra]AW[qc]AW[sb]AW[mc]AW[mb]AB[md]AW[nd]AW[od]AB[lc]AB[kb]AB[ld]AW[pe]C[how many stones can black save at the top?]AP[goproblems]
+(;B[oa];W[ma]
+(;B[la]C[RIGHT])
+(;B[lb]C[RIGHT])
+(;B[na];W[ob]))
+(;B[na];W[oa]
+(;B[ob];W[ma])
+(;B[ma];W[ob])
+(;B[lb];W[ob]))
+(;B[ma];W[oa]
+(;B[ob];W[na])
+(;B[na];W[ob]))
+(;B[lb];W[oa]
+(;B[ob];W[na])
+(;B[ma];W[ob]))
+(;B[ob];W[na])
+(;B[la];W[na]))

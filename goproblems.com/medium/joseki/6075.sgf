@@ -1,0 +1,20 @@
+(;GE[joseki]DI[3d]DP[10]SO[santa c]CO[8]AB[rr]AB[rp]AB[qp]AW[qq]AW[qr]AB[pq]AB[pr]AB[oq]AB[nq]AW[pp]AW[op]AW[np]AW[on]AW[qo]AW[mq]AW[lq]AB[mp]AB[mo]AB[kp]LB[jn:|]LB[jo:|]LB[jp:|]LB[jm:|]LB[jq:|]LB[jr:|]LB[js:|]C[Please mirror the avalanche on the right :)]AP[goproblems]
+(;B[cp];W[ep]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|]
+(;B[eq];W[dp]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|];B[dq];W[co]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|]
+(;B[fq];W[fp]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|]
+(;B[gp];W[cq];B[bp];W[cr]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|]
+(;B[br];W[gq]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|]
+(;B[dr];W[hq]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|];B[go];W[en]LB[js:|]LB[jr:|]LB[jq:|]LB[jp:|]LB[jo:|]LB[jn:|]LB[jm:|];B[ip]C[Well done! :)RIGHT])
+(;B[hp];W[dr]LB[gr:1]LB[fr:2]LB[hq:3]LB[er:4]C[After the squeeze, running with A is rather pointless, without support it can be captured with B9 or else it can be kept low.]LB[bq:5]LB[bo:A])
+(;B[go];W[dr]C[This way the 3 stones could be captured.]))
+(;B[dr]C[];W[bo]C[White could capture the corner too easily this way!])
+(;B[go]C[The 2 stones at B4 are too weak to leave like this!]))
+(;B[bp]C[Is somewhat problematic and doesn't lead to the position on the right.]))
+(;B[fp]C[Actually it's the large avalanche on the right... (*Mumbles something about the small avalanche losing points according to pros, according to a player he chatted with recently*)])
+(;B[bp]C[Is a possible move to avoid avalanche but avoiding it seems awkward as it is your goal.]))
+(;B[dq]C[Is indeed possible however it doesn't normally lead to the position on the right.])
+(;B[fq]C[Is indeed possible however it doesn't normally lead to the position on the right.])
+(;B[ip]C[Is indeed possible however it doesn't normally lead to the position on the right.])
+(;B[gp]C[Is indeed possible however it doesn't normally lead to the position on the right.]))
+(;B[dq]C[The avalanche is indeed normally started by a komoku (3-4) however mirrored it doesn't start with this one but C4.])
+(;B[eq]C[The avalanche starts with a komoku (3-4).]))

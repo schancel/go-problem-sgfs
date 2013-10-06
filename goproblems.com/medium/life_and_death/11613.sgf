@@ -1,0 +1,418 @@
+(;GE[life and death]DI[3k]DP[26]SO[Mocramis]CO[0]AB[qa]AB[pb]AB[pc]AB[pd]AW[qb]AW[rb]AW[qc]AW[qd]AB[rc]AB[rd]AB[re]AB[qe]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]AW[of]AB[nd]AB[nc]AB[md]AW[ld]AW[lc]AW[kb]AW[mb]AW[nb]AB[le]AB[kd]AB[jd]AB[kc]AB[jb]AW[me]AW[mf]AW[ob]AB[lg]AW[sc]AW[sd]AB[ka]AB[sa]C[White to capture black. All ko threats are on the board.]AP[goproblems]
+(;W[lb];B[oa]
+(;W[na];B[pa]
+(;W[la];B[ja]
+(;W[od];B[oc]
+(;W[ne];B[oe]
+(;W[lf]
+(;B[ke]
+(;W[od];B[ra]
+(;W[se];B[oe]
+(;W[sb];B[mc];W[od]C[Well done, you won the ko! RIGHT])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[kf];B[mc]
+(;W[od];B[ma]C[Wrong! CHOICE])
+(;W[sb];B[ma]C[Wrong! CHOICE])))
+(;W[sb];B[se]C[Wrong! CHOICE])
+(;W[oe];B[sb]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE]))
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[se];B[mc]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[od];B[ma]C[Wrong! CHOICE]))))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[se];B[mc]
+(;W[lf];B[ma]C[Wrong! CHOICE])
+(;W[od];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[ma]C[Wrong! CHOICE]))
+(;W[mc];B[ma]C[Wrong! CHOICE]))
+(;W[oe];B[mc]
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE])
+(;W[lf];B[ma]C[Wrong! CHOICE]))
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[se];B[mc]
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[oe])))
+(;W[oc];B[od]
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[oe];B[mc]
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ne];B[mc]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[oe])))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[oe];B[mc]
+(;W[od];B[oc])
+(;W[oc];B[od])
+(;W[ne];B[oc]
+(;W[od])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ne];B[oc]
+(;W[od])
+(;W[oe];B[mc])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])))
+(;W[oc];B[od]
+(;W[oe];B[la]
+(;W[ne];B[ja]
+(;W[se];B[ma];W[ra];B[mc]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[ma]
+(;W[ra];B[mc]C[Wrong! CHOICE])
+(;W[se];B[mc]C[Wrong! CHOICE])))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[se];B[mc]
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[ma]C[Wrong! CHOICE]))
+(;W[sb];B[mc]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[ma]C[Wrong! CHOICE])))
+(;W[ne];B[la]
+(;W[oe])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[sb];B[mc]
+(;W[oe])
+(;W[ra];B[ma]C[Wrong! CHOICE])))
+(;W[mc];B[la]C[Wrong! CHOICE])
+(;W[la];B[mc]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE]))
+(;W[od];B[oc]
+(;W[ne];B[la]
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[oe];B[ja]
+(;W[se];B[ma];W[ra];B[mc]C[Wrong! CHOICE])
+(;W[sb];B[ma];W[ra];B[mc]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[sb];B[ja];W[ra];B[oe]
+(;W[lf];B[ke]
+(;W[od];B[ma];W[mc]C[Well done, you won the ko! RIGHT])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE]))
+(;W[ke];B[lf]
+(;W[od];B[ma];W[mc]C[Well done, you won the ko! CHOICERIGHT])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])))
+(;W[se];B[ja]
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[oe]
+(;W[lf];B[ke]
+(;W[od];B[ma];W[mc]C[Well done, you won the ko! CHOICERIGHT])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE]))
+(;W[ke];B[lf]
+(;W[od];B[ma];W[mc]C[Well done, you won the ko! RIGHT])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])))
+(;W[oe])))
+(;W[oe];B[la]
+(;W[ne])
+(;W[mc];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[mc]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[ma]C[Wrong! CHOICE]))
+(;W[se];B[mc]
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[ma]C[Wrong! CHOICE])))
+(;W[mc];B[la]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[la]C[Wrong! CHOICE])
+(;W[la];B[mc]
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[ne];B[ma]C[Wrong! CHOICE])
+(;W[oe];B[ma]C[Wrong! CHOICE])
+(;W[sb];B[ma]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE]))
+(;W[ma];B[mc]
+(;W[oe];B[la]C[Wrong! CHOICE])
+(;W[ne];B[la]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[la]C[Wrong! CHOICE])
+(;W[se];B[la]C[Wrong! CHOICE]))
+(;W[se];B[la]C[Wrong! CHOICE])))
+(;W[la];B[ja]
+(;W[na];B[pa])
+(;W[od];B[oc]
+(;W[na];B[pa])
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[mc];B[na]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE]))
+(;W[oc];B[od]
+(;W[na];B[pa])
+(;W[oe])
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[mc];B[na]C[Wrong! CHOICE])
+(;W[ma];B[mc]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[ne];B[na]C[Wrong! CHOICE]))
+(;W[ma];B[oc]
+(;W[ne];B[ja]
+(;W[od];B[la]C[Wrong! CHOICE])
+(;W[oe];B[la]C[Wrong! CHOICE]))
+(;W[od];B[oe]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[od];B[oc]
+(;W[ne];B[la]
+(;W[ma];B[ja]C[Wrong! CHOICE])
+(;W[na];B[pa]))
+(;W[mc];B[na]C[Wrong! CHOICE])
+(;W[oe];B[la]C[Wrong! CHOICE])
+(;W[se];B[la]C[No, it will not work. CHOICE];W[ra];B[ma];W[pa];B[oe];W[na];B[mc];W[oa];B[qa])
+(;W[na];B[pa]))
+(;W[oc];B[od]
+(;W[ma];B[ja]C[No, it will not work. CHOICE];W[oe];B[la];W[ne];B[pa];W[se];B[na];W[ra];B[mc])
+(;W[na];B[la]C[Wrong! CHOICE])
+(;W[la];B[ja])
+(;W[oe];B[la]
+(;W[na];B[pa])
+(;W[ma];B[mc]C[Wrong! CHOICE])
+(;W[ne];B[na]C[Wrong! CHOICE]))
+(;W[ne];B[la]
+(;W[ma];B[ja];W[oe])
+(;W[na];B[pa])
+(;W[oe]))))
+(;W[oc];B[lb]
+(;W[mc];B[od]
+(;W[ne];B[oa]
+(;W[oe];B[pa]
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[sb];B[ma]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE]))
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[oe];B[oa]
+(;W[ne])
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[oa];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[oa]C[Wrong! CHOICE])
+(;W[na];B[pa]
+(;W[ne];B[oa];W[oe])
+(;W[oe];B[oa];W[ne]))
+(;W[se];B[oa]
+(;W[ra];B[pa]
+(;W[ne];B[ma];W[oe];B[na]C[Wrong! CHOICE])
+(;W[oe];B[ma];W[ne])
+(;W[ma];B[na]
+(;W[ne];B[la]C[Wrong! CHOICE])
+(;W[oe];B[la]C[Wrong! CHOICE])))
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[ma]
+(;W[ra];B[na]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE]))
+(;W[ma];B[la]
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE])
+(;W[ra];B[na]C[Wrong! CHOICE])))
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[od];B[mc]MA[pb]MA[pc]MA[pd]C[You take the squared stones but there is a better way. CHOICE])
+(;W[se];B[mc];W[od]MA[pd]MA[pc]MA[pb]C[You take the squared stones but there is a better way.CHOICE]))
+(;W[la];B[lb]
+(;W[oc];B[mc];W[od]MA[pd]MA[pc]MA[pb]C[You take the squared stones but there is a better way. CHOICE])
+(;W[mc];B[ma]
+(;W[oc];B[od]
+(;W[ne];B[oa]C[Wrong! CHOICE])
+(;W[oe];B[oa]C[Wrong! CHOICE])
+(;W[oa];B[pa]C[Wrong! CHOICE])
+(;W[na];B[oa]C[Wrong! CHOICE]))
+(;W[od];B[oc]
+(;W[ne];B[pa]C[Wrong! CHOICE])
+(;W[oe];B[oa]C[Wrong! CHOICE])
+(;W[oa];B[pa]C[Wrong! CHOICE])))
+(;W[od];B[oc]
+(;W[ne];B[mc]C[Wrong! CHOICE])
+(;W[mc];B[oa];W[ne]
+(;B[oe])
+(;B[pa]
+(;W[oe];B[ma]C[Wrong! CHOICE])
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])))))
+(;W[mc];B[oc]C[Wrong! CHOICE])
+(;W[od];B[lb]
+(;W[oc])
+(;W[mc];B[oc]
+(;W[ne];B[pa]
+(;W[oa];B[oe]
+(;W[lf];B[ke]
+(;W[od];B[ma]
+(;W[ra]C[Well done, you won the ko! CHOICERIGHT])
+(;W[oe];B[na]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[ma];B[la]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[se];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[na]C[Wrong! CHOICE]))
+(;W[sb];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[na]C[Wrong! CHOICE])))
+(;W[ke];B[lf]
+(;W[od];B[ma]
+(;W[ra]C[Well done, you won the ko! RIGHT])
+(;W[se];B[na]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE]))
+(;W[sb];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[na]C[Wrong! CHOICE]))
+(;W[se];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[na]C[Wrong! CHOICE]))
+(;W[ma];B[la]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[na]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE])
+(;W[sb];B[ma]C[Wrong! CHOICE]))
+(;W[oe];B[oa]
+(;W[sb];B[ma]
+(;W[ra];B[na]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE]))
+(;W[se];B[ma];W[ra];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE]))
+(;W[sb];B[oe]
+(;W[ra];B[oa]
+(;W[od];B[ma];W[na]C[Well done, you won the ko! RIGHT])
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE];W[od];B[na]))
+(;W[lf];B[ke]
+(;W[ra];B[oa];W[od];B[na];W[ma]C[Well done, you won the ko! RIGHT])
+(;W[oa]))
+(;W[oa]))
+(;W[se];B[ma]
+(;W[ra];B[oe]
+(;W[ke];B[lf];W[od];B[oa];W[na]C[Well done, you won the ko! RIGHT]))
+(;W[oa];B[na]C[Wrong! CHOICE])
+(;W[oe];B[oa])))
+(;W[oe];B[oa]
+(;W[se];B[ma]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[pa]))
+(;W[sb];B[oa]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[oe]
+(;W[ra];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[pa];B[na]C[Wrong! CHOICE]))
+(;W[lf];B[ke]
+(;W[od];B[pa]
+(;W[ra];B[oe]
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[se];B[ma];W[od];B[na]C[Wrong! CHOICE])
+(;W[kf];B[ma];W[od];B[na]C[Wrong! CHOICE]))
+(;W[oe];B[ma]C[Wrong! CHOICE])
+(;W[se];B[ma]C[Wrong! CHOICE]))
+(;W[ra];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[pa];B[na]C[Wrong! CHOICE])))
+(;W[ke];B[lf];W[od];B[pa];W[ra];B[oe]
+(;W[se];B[ma]C[Wrong! CHOICE])
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])))
+(;W[oe]))
+(;W[se];B[oa]
+(;W[ra];B[ma]C[Wrong! CHOICE])
+(;W[ne];B[oe]
+(;W[ra];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[pa];B[na]C[Wrong! CHOICE]))
+(;W[lf];B[ke]
+(;W[od];B[pa]
+(;W[ra];B[oe]
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE])
+(;W[kf];B[ma];W[od];B[na]C[Wrong! CHOICE]))
+(;W[oe];B[ma]C[Wrong! CHOICE]))
+(;W[ra];B[ma]
+(;W[od];B[na]C[Wrong! CHOICE])
+(;W[pa];B[na]C[Wrong! CHOICE])))
+(;W[ke];B[lf];W[od];B[pa]
+(;W[ra];B[oe]
+(;W[na];B[ma]C[Wrong! CHOICE])
+(;W[ma];B[la]C[Wrong! CHOICE]))
+(;W[na];B[ma]C[Wrong! CHOICE])))
+(;W[oe]))))
+(;W[se];B[lb]C[Wrong! Black will win this life race. Explore the solution to see why. CHOICE];W[mc];B[ma];W[oc];B[od];W[ra];B[oa];W[pa];B[na])
+(;W[sb];B[lb]C[Wrong! Black will win this life race. Explore the solution to see why. CHOICE];W[mc];B[oa];W[ra];B[pa];W[oc];B[od];W[ne];B[ma];W[oe];B[na])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[oa];B[lb]
+(;W[mc];B[pa]
+(;W[od];B[oc])
+(;W[oc];B[od]
+(;W[ne];B[ma]
+(;W[oe];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[na]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE]))
+(;W[oe];B[ma]
+(;W[ne])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ma];B[la]
+(;W[od];B[oc]
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[na]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE]))
+(;W[oc];B[od]
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[oe];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[na]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE]))
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[oc]C[Wrong! Black will win this life race. Explore the solution to see why. CHOICE];W[ra];B[ma];W[ne];B[na]))
+(;W[pa];B[mc]MA[qa]MA[sa]C[You take the squared stones but there is a better way CHOICE])
+(;W[oc];B[od]
+(;W[pa];B[mc]MA[qa]MA[sa]C[You take the squared stones but there is a better way CHOICE])
+(;W[mc]))
+(;W[od];B[oc]
+(;W[pa];B[mc]MA[qa]MA[sa]C[You take the squared stones but there is a better way CHOICE])
+(;W[mc];B[pa]
+(;W[ne])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[oe];B[ma]
+(;W[ne];B[na]C[Wrong! CHOICE])
+(;W[ra];B[sb]C[Wrong! CHOICE])
+(;W[sb];B[na]C[Wrong! CHOICE])
+(;W[se];B[na]C[Wrong! CHOICE])))
+(;W[ne];B[mc]C[Wrong! CHOICE])
+(;W[ra];B[mc]C[Wrong! CHOICE])
+(;W[sb];B[mc]C[Wrong! CHOICE])
+(;W[oe];B[mc]C[Wrong! CHOICE])
+(;W[se];B[mc]C[Wrong! CHOICE]))))

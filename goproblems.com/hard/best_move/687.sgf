@@ -1,0 +1,10 @@
+(;GE[best move]DI[5d]DP[6]SO[unkx80]CO[8]SZ[19]AB[cp]AB[co]AB[dq]AB[dr]AB[cr]AB[er]AB[fq]AB[gq]AB[ho]AB[hp]AB[kq]AB[lq]AB[lp]AB[no]AB[on]AB[qp]AB[pk]AB[pf]AB[pd]AW[dn]AW[dp]AW[ep]AW[eq]AW[fp]AW[gp]AW[hq]AW[iq]AW[ip]AW[hn]AW[kp]AW[ko]AW[nc]AW[kd]AW[dd]AW[cq]AW[oo]AW[op]TR[on]C[what move is best here?FORCE]TR[do]TR[go]TR[io]TR[po]TR[pn]FF[4]GM[1]AP[Jago:Version 5.00]GN[goproblem687]
+(;W[do]C[White prevents the two marked stones from escaping, and can play 'a' in sente.RIGHT]LB[cn:a]TR[ho]TR[hp])
+(;W[pn];B[io];W[in];B[go];W[gn];B[fo]
+(;W[en];B[jo];W[jn];B[jp];W[jq];B[kn]TR[ko]TR[kp]C[Black captures the marked stones in a ladder.];W[lo];B[ln];W[mo];B[mp];W[mn];B[mm])
+(;W[do];B[fn];W[fm];B[jo];W[jn];B[jp];W[jq];B[kn]TR[ko]TR[kp]C[Black captures the marked stones in a ladder.];W[lo];B[ln];W[mo];B[mp];W[mn];B[mm]))
+(;W[po];B[io];W[in];B[go];W[gn];B[fo]
+(;W[en];B[jo];W[jn];B[jp];W[jq];B[kn]C[Black captures the marked stones in a ladder.];W[lo];B[ln];W[mo];B[mp];W[mn];B[mm])
+(;W[do];B[fn];W[fm];B[jo];W[jn];B[jp];W[jq];B[kn]C[Black captures the marked stones in a ladder.]TR[ko]TR[kp];W[lo];B[ln];W[mo];B[mp];W[mn];B[mm]))
+(;W[go]C[The correct idea, but there is a better move.])
+(;W[io]C[The correct idea, but there is a better move.]))

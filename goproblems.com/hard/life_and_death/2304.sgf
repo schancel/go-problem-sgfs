@@ -1,0 +1,93 @@
+(;GE[life and death]DI[5d]DP[6]SO[picketfence]CO[8]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-05-30]
+KM[5.5]
+RU[Japanese]
+AB[rb][qc][pc][ob][nb][ma]
+AW[la][lb][mb][nc][oc][md][pd][qd][rd]
+C[Kill unconditionally.]
+
+PL[W]
+(;W[na];B[pa]
+(;W[ma]
+(;B[qa]
+C[CHOICE]
+
+(;W[rc]
+(;B[sb];W[pb]
+C[RIGHT
+White 3 was the key move.]
+LB[ma:3]
+)
+(;B[oa];W[sb]
+C[RIGHT]
+))
+(;W[pb];B[oa];W[rc];B[qb];W[sb]
+C[RIGHT
+White 3 was the key move.]
+LB[ma:3]
+)
+(;W[sb];B[sc]
+(;W[rc];B[sa];W[pb]
+C[RIGHT
+White 3 was the key move.]
+LB[ma:3]
+)
+(;W[pb];B[oa];W[rc]
+C[RIGHT
+White 3 was the key move.]
+LB[ma:3]
+)
+(;W[sa];B[rc])))
+(;B[rc]
+C[CHOICE]
+
+(;W[sc];B[sb]
+(;W[ra];B[qa];W[pb]
+C[RIGHT
+White 3 was the key move.]
+LB[ma:3]
+)
+(;W[pb];B[qb]
+(;W[oa];B[ra];W[pb];B[ob])
+(;W[qa];B[ra])
+(;W[ra];B[oa])))
+(;W[pb];B[qb]
+(;W[sc];B[oa])
+(;W[oa];B[sd];W[se];B[sc];W[re];B[sa])
+(;W[qa];B[ra]))))
+(;W[sb];B[sc]
+(;W[rc]
+(;B[qb]
+C[CHOICE]
+
+(;W[ra];B[sa]
+C[ko.]
+)
+(;W[sd];B[ra]))
+(;B[sa];W[qa]))
+(;W[ra];B[qa])
+(;W[sd];B[rc])))
+(;W[sb];B[pa]
+(;W[na];B[qb]
+(;W[ra];B[sc])
+(;W[sc];B[ra]))
+(;W[qb];B[rc];W[sc];B[na]
+(;W[ra];B[pb])
+(;W[qa];B[ra])
+(;W[pb];B[qa])))
+(;W[pa];B[qa]
+(;W[pb];B[qb];W[sb];B[sc];W[rc];B[sa];W[sd];B[oa]
+C[A is ko.]
+LB[sb:A]
+)
+(;W[na];B[pb]))
+(;W[pb];B[pa]
+(;W[sb];B[sc]
+(;W[rc];B[qb])
+(;W[qb];B[qa]))
+(;W[rc];B[qb])
+(;W[oa];B[qb];W[na];B[ma])))

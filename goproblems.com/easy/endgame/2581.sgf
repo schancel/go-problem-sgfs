@@ -1,0 +1,49 @@
+(;GE[endgame]DI[6k]DP[39]SO[Karen B]CO[8]C[How many points is A worth?]LB[ep:A]LB[el:3]AW[bs]AW[br]AW[bq]AW[bo]AW[cn]AW[cp]AW[dp]AW[en]AW[eo]AW[eq]AB[cs]AB[cr]AB[cq]AB[dq]AB[er]AB[fo]AB[fp]AB[fq]AB[go]AB[gq]AB[hr]AB[hp]LB[al:1]LB[cl:2]LB[gl:4]
+(;B[el]C[Correct! Black can win 2 points by playing A. If White plays A, then Black must defend the cut at F2 (triangle). 2 + 1 = 3. 
+
+
+
+
+
+
+
+
+
+
+
+
+RIGHT]LB[ep:A]TR[fr])
+(;B[al]C[Sorry, this is not quite right.]LB[ep:A])
+(;B[cl]C[Sorry, this is not quite right.]LB[ep:A])
+(;B[gl]C[Sorry, try counting again, please.]LB[ep:A])
+(;B[ep]C[NOTTHIS])
+(;B[fr]C[NOTTHIS])
+(;B[dr]C[NOTTHIS])
+(;B[ds]C[NOTTHIS])
+(;B[es]C[NOTTHIS])
+(;B[fs]C[NOTTHIS])
+(;B[gr]C[NOTTHIS])
+(;B[gs]C[NOTTHIS])
+(;B[bl]C[NOTTHIS])
+(;B[dl]C[NOTTHIS])
+(;B[fl]C[NOTTHIS])
+(;B[hl]C[NOTTHIS])
+(;B[ak]C[NOTTHIS])
+(;B[bk]C[NOTTHIS])
+(;B[am]C[NOTTHIS])
+(;B[bm]C[NOTTHIS])
+(;B[ck]C[NOTTHIS])
+(;B[cm]C[NOTTHIS])
+(;B[dm]C[NOTTHIS])
+(;B[dk]C[NOTTHIS])
+(;B[ek]C[NOTTHIS])
+(;B[em])
+(;B[fm]C[NOTTHIS])
+(;B[fk])
+(;B[gk]C[NOTTHIS])
+(;B[gm]C[NOTTHIS])
+(;B[hm]C[NOTTHIS])
+(;B[hk]C[NOTTHIS])
+(;B[im]C[NOTTHIS])
+(;B[il])
+(;B[ik]C[NOTTHIS]))

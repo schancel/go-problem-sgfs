@@ -1,0 +1,22 @@
+(;GE[joseki]DI[4k]DP[31]SO[LCZLAPINSKI]CO[4]AB[dd]AB[jd]AB[pd]AB[pj]AB[jj]AB[dj]AB[dp]AB[jp]AB[pp]AW[qc]AB[qd]AW[pc]AB[oc]AW[ob]AB[nb]AP[goproblems]
+(;W[rd];B[re]
+(;W[qe];B[od];W[rf];B[rc];W[se];B[rb]C[RIGHT])
+(;W[rb];B[od];W[se];B[rf])
+(;W[od];B[nc];W[rc];B[qf];W[pa]))
+(;W[nc];B[od]
+(;W[mb];B[pb];W[na];B[qb]C[FORCE]
+(;W[me]TR[pc]TR[qc]C[Yes, the Q17 group is dead. This move has chances for life.RIGHT])
+(;W[kc]C[RIGHT])
+(;W[nd]C[RIGHT]))
+(;W[qb];B[oa])
+(;W[rd];B[re]
+(;W[mb];B[pb];W[na];B[qb]TR[rd]TR[re]C[White is unhappy because the marked exchange needlessly ruins her forcing moves. (aji-keshi)])
+(;W[rc];B[pb])
+(;W[pa];B[mc]C[white gets sealed in on both sides])
+(;W[rb];B[pb])
+(;W[qe];B[rc]TR[nc]TR[od]C[Because of the marked exchange, black can answer aggressively.])))
+(;W[oa];B[nd];W[rc]C[];B[rd]C[Per bass, getting sealed in is not good for white. In some game positions living small in the corner may be the best white can get.])
+(;W[pb];B[rc];W[rb]C[];B[od]C[Per bass, getting sealed in on both sides is not good for white. In some game positions, living small may be the best that white can get.])
+(;W[pa];B[rc];W[rb];B[qb])
+(;W[od];B[nc]C[];W[rd]C[];B[re]C[Per bass, getting sealed in on both sides is not good for white. There are some positions where living small may be the best white can do.])
+(;W[qb]C[White lives small in the corner.];B[gj]C[White lives small in the corner.]))

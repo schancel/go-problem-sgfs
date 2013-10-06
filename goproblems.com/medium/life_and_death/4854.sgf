@@ -1,0 +1,22 @@
+(;GE[life and death]DI[3d]DP[11]SO[Hans]CO[5]TR[nb]C[After the sequence (1-5) from  problem 4846 white plays tenuki. What can black do?]AW[ma]AW[lb]AW[nb]AW[pb]AW[qb]AW[lc]AW[mc]AW[nc]AW[qc]AW[ld]AW[md]AW[qd]AW[rd]AW[le]AW[ne]AW[re]AW[lf]AW[of]AB[na]AB[oa]AB[ob]AB[oc]AB[pc]AB[nd]AB[od]AB[pd]AB[me]AB[pe]AB[qe]AB[mf]AB[pf]AB[rf]AB[mg]AB[og]AB[qg]LB[na:1]LB[mc:2]LB[oc:3]LB[ma:4]LB[oa:5]AB[rh]AP[goproblems]
+(;B[rb];W[ra]
+(;B[sc];W[pa]
+(;B[sa];W[sb]C[Ko. This is a two stage ko for black (he must win a ko a T18 and  at  S18 and also has to play an approach move at T15).RIGHT])
+(;B[se]
+(;W[sd];B[sa]C[A two stage ko.  Depending on the outside white has a ko threat at A.RIGHT]LB[sf:A])
+(;W[rc];B[sb]C[This would be a mistake])))
+(;B[sb];W[sc]
+(;B[se];W[pa]C[White lives.])
+(;B[pa];W[se];B[qa];W[rc]C[White lives.]))
+(;B[pa];W[sb])
+(;B[se];W[sb]))
+(;B[pa];W[rb]C[White lives.])
+(;B[sb];W[rb];B[sc];W[pa]
+(;B[se];W[sd];B[ra]C[Gote seki.])
+(;B[ra]C[Gote Seki.]))
+(;B[ra];W[rb]C[White lives.])
+(;B[se];W[sb]C[White lives.])
+(;B[qa];W[ra]
+(;B[rb];W[pa]C[White lives.])
+(;B[sb];W[rb]LB[pa:A]LB[sc:B]C[White lives (a and b are miai).])
+(;B[pa];W[rb]C[White lives.])))

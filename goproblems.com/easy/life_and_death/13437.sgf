@@ -1,0 +1,66 @@
+(;GE[life and death]DI[5k]DP[35]SO[fwiffo]CO[0]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+GN[Zipper Problem]PW[White]PB[Black]CP[© 2010 Fort Myers Go Club]GC[This work is licensed under the Creative Commons Attribution 3.0
+United States License. To view a copy of this license, visit:
+
+http://creativecommons.org/licenses/by/3.0/us/
+
+or send a letter to:
+
+Creative Commons
+171 Second Street, Suite 300
+San Francisco, California, 94105, USA.]SO[http://www.fortmyersgo.org/]AW[ap][bp][cq][dq][br][er][fr][ds]AB[cn][ao][bo][eo][cp][dp][gp][eq][fq][gr][fs][gs]C[Black to play.]
+(;B[ar]
+;W[bq]
+(;B[bs]
+(;W[cs]C[CHOICE]
+(;B[dr]
+;W[as]LB[dr:A][cs:4]TR[bs]C[Correct. This is a two-step ko. White also has a choice of seki by playing 4 at A instead if black has surplus ko threats (navigation solution).RIGHT])
+(;B[es]
+;W[dr]C[Wrong. White is alive.])
+(;B[cr]
+;W[dr]C[Wrong. White is alive.])
+(;B[as]
+;W[es]C[Wrong. White is alive.]))
+(;W[dr]C[CHOICE]
+(;B[cs]LB[dr:4][cs:A]C[Correct. This is a seki. White has also a choice of a favorable ko by playing 4 at A instead (navigate solution).RIGHT])
+(;B[as]
+;W[cs]C[Wrong. White is alive.])
+(;B[aq]
+;W[cs]C[Wrong. White is alive.])))
+(;B[cs]
+;W[bs]C[Wrong. White is alive.])
+(;B[es]
+;W[dr]C[Wrong. White is alive.])
+(;B[dr]
+;W[cr]
+(;B[bs]
+;W[es]C[Wrong. White is alive.])
+(;B[es]
+;W[bs]
+;B[dr]
+;W[er]C[Wrong. White is alive.])
+(;B[cs]
+;W[bs]C[Wrong. White is alive.])
+(;B[as]
+;W[bs]C[Wrong. White is alive.])))
+(;B[dr]
+;W[as]
+(;B[es]
+;W[cs]C[Wrong. White is alive.])
+(;B[cs]
+;W[cr]C[Wrong. White is alive.])
+(;B[cr]
+;W[cs]C[Wrong. White is alive.]))
+(;B[es]
+;W[as]
+(;B[dr]
+;W[cs]C[Wrong. White is alive.])
+(;B[cs]
+;W[dr]C[Wrong. White is alive.])
+(;B[cr]
+;W[dr]C[Wrong. White is alive.]))
+(;B[cs]
+;W[bs]C[Wrong. White is alive.])
+(;B[cr]
+;W[bs]C[Wrong. White is alive.]))

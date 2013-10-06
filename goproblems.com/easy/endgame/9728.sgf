@@ -1,0 +1,29 @@
+(;GE[endgame]DI[8k]DP[48]SO[squirmy]CO[6]AB[la]AB[lb]AB[kc]AB[kd]AB[jb]AB[je]AB[ie]AB[he]AB[hd]AB[hc]AB[hb]AB[gb]AB[ga]AW[fa]AW[fb]AW[gc]AW[gd]AW[ge]AW[hf]AW[if]AW[jf]AW[ke]AW[ld]AW[lf]AW[lc]AW[mb]AW[ma]AW[jd]AP[goproblems]
+(;W[kb]
+(;B[ka]C[This move is not optimal play for black, although it doesn't quite kill him outright.];W[jc]
+(;B[ic]
+(;W[kb]
+(;B[ia];W[ja];B[ka];W[la];B[ja]C[A nice reduction.CHOICERIGHT])
+(;B[kc];W[ia]C[Ouch.  Think or die, black.RIGHT])
+(;B[ja];W[ia]C[Ouch.  Think or die, black.RIGHT]))
+(;W[ia];B[id]))
+(;B[ib]C[This is a mistake by black - finish it.]
+(;W[kb]
+(;B[ia]
+(;W[kc]C[Ouch.  Black dies.RIGHT])
+(;W[ja]C[Ouch. Black dies.RIGHT]))
+(;B[kc]
+(;W[ia]C[Ouch. Black dies.RIGHT])
+(;W[kd]C[];B[ia];W[kb]C[Black has ko for life - white slipped up.]))
+(;B[ja];W[kc]C[Ouch. Black dies.RIGHT]))
+(;W[ja];B[kb]C[Black lives AND eats three of your stones.  Not a good idea.])
+(;W[ia];B[kb]C[Black lives AND eats three of your stones.  Not a good idea.]))
+(;B[ia]C[];W[kb]
+(;B[ja]
+(;W[kc];B[ic]C[No!  Black makes a mistake like that and you let him live!])
+(;W[ic];B[kc]C[Blacks dead.RIGHT]))
+(;B[ic];W[ja]C[RIGHT];B[ka]C[RIGHT])))
+(;B[jc]C[]
+(;W[ja];B[ia];W[ka]C[A nice reductionCHOICERIGHT])
+(;W[ka]C[This would do, but there is a better way.])))
+(;W[jc];B[kb];W[ib];B[ic]))

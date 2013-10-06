@@ -1,0 +1,60 @@
+(;GE[life and death]DI[5k]DP[32]SO[morten]CO[0]AB[pc]AB[oc]AB[pd]AB[pe]AB[oe]AB[ne]AB[pf]AB[md]AB[og]AB[ng]AB[mg]AW[od]AW[nd]AW[nc]AW[me]AW[ld]AW[qc]AW[qd]AW[qe]AW[qf]AW[qg]AW[oh]AW[nh]AW[mh]AW[lf]AW[lg]AW[mb]C[Best sequence for black...]AP[goproblems]
+(;B[nb];W[mc]
+(;B[qb];W[rb]
+(;B[pa];W[ra]
+(;B[na]C[Black has 2 eyesRIGHT])
+(;B[qa];W[oa]C[Black only has one eye];B[pb];W[na])
+(;B[oa];W[ma]
+(;B[qa])
+(;B[na])))
+(;B[oa];W[ma]
+(;B[qa]C[Black has 2 eyesRIGHT])
+(;B[na];W[pa];B[ob];W[qa]C[Black only has one eye])
+(;B[pa];W[ra]
+(;B[qa];W[ob]
+(;B[pb];W[na]C[Black has only one eye])
+(;B[na];W[pb]C[Black has only one eye]))
+(;B[na];W[pb]
+(;B[qa];W[ob]C[Black has only one eye])
+(;B[ob];W[qa]C[Black has only one eye])))
+(;B[ra]C[RIGHT]))
+(;B[qa];W[ob]C[Black only has one eye])
+(;B[na];W[pb]C[Black only has one eye])
+(;B[pb];W[na];B[oa];W[ob];B[qa];W[pa]C[Ko. Black can do better.])
+(;B[ob];W[qa];B[pa];W[pb];B[na];W[oa]C[Ko. Black can do better.]))
+(;B[pb];W[na]
+(;B[qb];W[rb];B[oa];W[ob]C[Difficult ko for black. Black can do better])
+(;B[oa];W[ob]C[Ko. Black can do better]))
+(;B[oa]
+(;W[pb]C[CHOICE];B[qb];W[rb]
+(;B[qa]C[Black has 2 eyesRIGHT])
+(;B[pa];W[qa]C[Black only has one eye])
+(;B[ob];W[qa]C[Black only has one eye]))
+(;W[ma]C[CHOICE]
+(;B[na];W[pa]C[Black only has one eye])
+(;B[pb];W[na];B[qb];W[rb];B[qa];W[ob]C[Ko. Black can do better])
+(;B[pa];W[qb]
+(;B[pb];W[na]C[Ko. Black can do better])
+(;B[na];W[pb]C[Black only has one eye]))
+(;B[qb];W[rb]C[]
+(;B[qa]C[Black has 2 eyesRIGHT])
+(;B[pa];W[ra])
+(;B[ra]C[Better than R19 - well done!RIGHT]))))
+(;B[pa];W[na]
+(;B[ob];W[qb]C[Black only has one eye])
+(;B[oa];W[qb];B[pb];W[ob]C[Ko. Black can do better]))
+(;B[ob];W[qb]C[Black has only one eye]))
+(;B[mc];W[lc]C[Black only has one eye])
+(;B[mf];W[ob]C[Black only has one eye])
+(;B[nf];W[ob]C[Black only has one eye])
+(;B[pg]C[NOTTHIS];W[ph]
+(;B[mf];W[ob]C[Black only has one eye])
+(;B[nf];W[ob]C[Black only has one eye]))
+(;B[qb];W[ob]
+(;B[pb];W[rb]C[Black only has one eye])
+(;B[rb];W[pb]C[Black only has one eye])
+(;B[rc];W[pb]
+(;B[sb];W[ra];B[rd];W[re]C[There's nothing in the corner])
+(;B[ra];W[sb];B[rd];W[re]C[There's nothing in the corner])))
+(;B[pb];W[qb]C[Black only has one eye])
+(;B[ob];W[qb]C[Black only has one eye]))

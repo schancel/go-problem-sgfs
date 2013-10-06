@@ -1,0 +1,11 @@
+(;GE[best move]DI[3k]DP[26]SO[maba]CO[5]AW[bc]AW[ac]AW[ad]AB[ae]AB[be]AB[bd]AB[cf]AB[bg]AB[bh]AW[ah]AW[ce]AW[cd]AW[de]AW[df]AB[dg]AB[dh]AB[ci]AB[di]AB[dj]AB[eh]AB[fh]AB[fi]AB[gi]AB[hi]AB[ii]AB[hj]AB[ik]AB[jk]AB[jl]AB[kj]AB[lj]AB[lk]AB[li]AB[lh]AB[lg]AB[kg]AB[mg]AW[kf]AW[lf]AW[mf]AW[nf]AW[ng]AW[ne]AW[nd]AW[of]AW[ke]AB[jf]AB[je]AB[jd]AB[kd]AB[kc]AW[jc]AW[id]AB[jb]AB[ib]AB[fb]AB[gb]AB[gc]AB[hc]AW[ha]AB[hd]AW[eb]AW[fc]AW[gd]AW[dc]AW[ed]AW[fe]AW[ff]AW[eg]AW[fg]AB[ef]AW[gh]AW[hh]AW[ih]AW[hg]AW[hf]AW[he]AW[jh]AW[jg]AW[mh]AW[mi]AW[mj]AW[mk]AW[ll]AW[kl]AW[lm]AW[jm]AW[im]AW[il]AW[hl]AW[hk]AB[gk]AB[gl]AB[gm]AB[hm]AB[gn]AW[gj]AW[fj]AW[ej]AW[dk]AW[ck]AW[bj]AW[bi]AW[fm]AW[em]AW[dm]AW[dn]AW[co]AW[cp]AW[cq]AW[bp]AW[ap]AB[aq]AB[bq]AB[ar]AB[bs]AB[cr]AB[dr]AB[dq]AB[dp]AB[do]AB[eo]AB[en]AB[fn]AB[fp]AB[fq]AB[eq]AB[fr]AB[fs]AB[gs]AB[gq]AW[gr]AW[ir]AW[hs]AW[hr]AW[hq]AW[iq]AW[hp]AW[gp]AW[go]AW[fo]AW[hn]AW[io]AW[jo]AB[ip]AB[jp]AB[jq]AB[jr]AB[js]AB[kr]AB[lr]AB[ls]AW[kp]AW[lp]AW[lo]AW[lq]AW[mn]AW[nm]AW[om]AB[mq]AB[nq]AB[no]AB[np]AB[mo]AB[nr]AB[os]AB[pr]AW[or]AW[oq]AW[pq]AW[po]AW[pp]AW[oo]AB[nn]AB[on]AB[pn]AB[qr]AB[qs]AB[rr]AB[sq]AB[qp]AB[qq]AW[qo]AW[qn]AW[qm]AW[ql]AW[rm]AB[ro]AB[rn]AW[sp]AW[sl]AW[rk]AW[sj]AW[si]AB[pm]AB[pl]AB[qk]AB[ok]AB[pj]AB[rj]AB[ri]AB[rh]AB[rg]AW[rf]AW[qf]AB[qe]AB[re]AB[rd]AB[pf]AB[pg]AB[ph]AB[og]AW[oh]AW[oi]AB[oe]AB[od]AB[oc]AB[nc]AB[ob]AB[pc]AB[qc]AB[qb]AB[rb]AW[rc]AW[sb]AW[sd]AW[kb]AW[lb]AW[mb]AW[lc]AW[ld]AB[le]AB[me]C[White to play the best move. (Don't play unnecessary moves.)]AP[goproblems]
+(;W[ji]
+(;B[ag];W[jj]
+(;B[ij];W[kk]C[RIGHT])
+(;B[kk];W[ij]C[RIGHT]))
+(;B[jj];W[ag]C[Black's whole group dies.RIGHT]))
+(;W[ag];B[ji];W[bf];B[cg]C[White can do better.])
+(;W[jj];B[ji];W[kk];B[ij])
+(;W[kk];B[ji])
+(;W[af];B[bf])
+(;W[bf];B[af]))

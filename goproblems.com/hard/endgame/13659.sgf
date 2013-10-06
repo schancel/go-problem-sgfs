@@ -1,0 +1,13 @@
+(;GE[endgame]DI[4d]DP[7]SO[Simoff]CO[0]AB[ac]AB[bc]AB[cd]AB[cc]AB[ce]AB[be]AB[bf]AB[bg]AB[bh]AB[ag]AB[ai]AB[dh]AB[ej]AB[fk]AB[fl]AB[el]AB[dl]AB[cl]AB[bl]AB[al]AB[bk]AB[bm]AB[fm]AB[gm]AB[gn]AB[hm]AB[im]AB[il]AB[jo]AB[nm]AB[jk]AB[jj]AB[ii]AB[hi]AB[gi]AB[hj]AB[ih]AB[jh]AB[jg]AB[kh]AB[kg]AB[kf]AB[lh]AB[mh]AB[mg]AB[mf]AB[ne]AB[nd]AB[dn]AB[co]AB[do]AB[dp]AB[ep]AB[dq]AB[eq]AB[fq]AB[fr]AB[gq]AB[cq]AB[cr]AB[cs]AB[bq]AB[ap]AB[od]AB[pd]AB[pc]AB[qc]AB[qb]AB[rb]AB[ra]AB[qf]AB[om]AB[pm]AB[qm]AB[pl]AB[qk]AB[pj]AB[rk]AB[sk]AB[qn]AB[pn]AB[pp]AB[po]AB[pq]AB[oq]AB[or]AB[nn]AB[no]AW[qa]AW[pa]AW[pb]AW[ob]AW[oc]AW[nc]AW[me]AW[le]AW[lf]AW[lg]AW[ke]AW[je]AW[jf]AW[jd]AB[if]AW[ig]AW[hg]AW[gg]AW[gh]AW[bi]AW[bj]AW[aj]AW[ci]AW[ch]AW[cg]AW[cf]AW[de]AW[dd]AW[dc]AW[cb]AW[bb]AW[dj]AW[ck]AW[dk]AW[ek]AW[fi]AW[fj]AW[gj]AW[gk]AW[hk]AW[ik]AW[ij]AW[cn]AW[bo]AW[bp]AW[en]AW[eo]AW[fo]AW[fn]AW[fp]AW[gp]AW[hp]AW[ho]AW[hn]AW[in]AW[ip]AB[jn]AB[io]AB[jp]AW[jq]AW[kp]AW[ko]AW[kn]AW[ln]AW[mn]AW[mo]AW[np]AW[nq]C[Should black pass ? If so, play G16CHOICE]LB[gd:Pass]AW[ak]AW[ae]AW[ad]AW[md]AW[mc]AB[mm]AB[lm]AB[km]AB[jm]AB[op]AW[nr]AW[ns]AB[os]AB[hr]AW[ir]AW[iq]AB[hs]AW[is]AW[lq]AB[em]AP[goproblems]
+(;B[gd]C[Black could have won 1 point.])
+(;B[gl]C[]
+(;W[ei]C[Black gained 1 point.See variations to understand why white answered.RIGHT])
+(;W[gd]C[White passes];B[hl];W[hd]C[White passed once again, punish him !]
+(;B[ei];W[fh];B[di]
+(;W[cj];B[df]
+(;W[dg];B[eg]C[RIGHT])
+(;W[ah];B[dg]C[Here you go ! Therefore black should fill the dames : it is worth 1 point if white answers correctly.RIGHT]))
+(;W[dg];B[cj];W[eh]C[RIGHT]))
+(;B[fh];W[ei]C[You gained nothing, try harder.CHOICE])
+(;B[di];W[ei]C[CHOICE])))
+(;B[hl]C[];W[gd];B[gl];W[hd];B[ei];W[fh];B[di];W[cj];B[df];W[ah];B[dg]C[RIGHT]))

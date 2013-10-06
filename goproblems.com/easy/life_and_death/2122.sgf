@@ -1,0 +1,35 @@
+(;GE[life and death]DI[6k]DP[37]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[da][db][dc][ad][bd][cd][dd]AB[ca][ea][ab][cb][eb][fc][fd][ae][be][ce][ee][df]PL[W]
+(;W[bb]CR[bb]
+;B[bc]CR[bc]
+(;W[ba]CR[ba]
+;B[aa]CR[aa]
+(;W[cc]CR[cc]C[RIGHT])
+(;W[ac]CR[ac]C[RIGHT])
+(;W[bb]CR[bb]C[RIGHT])
+(;W[ba]CR[ba]C[RIGHT]))
+(;W[cc]CR[cc]
+;B[ba]CR[ba]
+;W[ac]CR[ac]
+;B[bb]CR[bb]
+;W[aa]CR[aa]
+;B[bb]CR[bb])
+(;W[ac]CR[ac]
+;B[ba]CR[ba]
+;W[cc]CR[cc]
+;B[bb]CR[bb]
+;W[aa]CR[aa]
+;B[bb]CR[bb])
+(;W[aa]CR[aa]
+;B[ba]CR[ba]))
+(;W[bc]CR[bc]
+;B[bb]CR[bb]C[white dies first])
+(;W[cc]CR[cc]
+;B[bb]CR[bb]C[white dies first])
+(;W[ac]CR[ac]
+;B[bb]CR[bb]C[white dies first])
+(;W[ba]CR[ba]
+;B[bb]CR[bb]C[white dies first])
+(;W[aa]CR[aa]
+;B[bb]CR[bb]C[white dies]))

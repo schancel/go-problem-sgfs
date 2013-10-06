@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[8k]DP[49]SO[transcend]CO[8]AB[cr]AB[br]AB[dq]AB[eq]AB[ep]AB[eo]AB[co]AW[dp]AW[dn]AW[cn]AW[bn]AW[cq]AW[bq]AW[dr]AW[er]AW[fr]AW[gq]C[Black to rescue his stones in the corner.]AP[goproblems]
+(;B[bp];W[bo]
+(;B[aq];W[do];B[cp]C[RIGHT])
+(;B[ap];W[do];B[cp]C[RIGHT])
+(;B[ao];W[do]MA[cp]C[You can't cut, so you are cut yourself.])
+(;B[do];W[ap];B[cp];W[aq])
+(;B[cp];W[do]
+(;B[aq]C[RIGHT])
+(;B[ap]C[RIGHT])))
+(;B[do];W[bo];B[bp];W[ap];B[cp];W[aq]C[Cut.])
+(;B[cp];W[bp];B[bo];W[ao])
+(;B[bo];W[do]
+(;B[cp];W[ao])
+(;B[bp];W[aq];B[ar];W[ao]C[Can't atari.]MA[ap]MA[cp]))
+(;B[aq];W[bp]
+(;B[bo];W[ao];B[do];W[ap])
+(;B[cp];W[bo])
+(;B[ap];W[ao])
+(;B[do];W[bo]))
+(;B[ap];W[do]
+(;B[cp];W[bp])
+(;B[bp];W[cp])
+(;B[bo];W[cp])))

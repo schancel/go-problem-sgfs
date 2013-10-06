@@ -1,0 +1,62 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[0]AW[sr]AW[sq]AB[so]AB[rp]AB[qp]AB[rr]AB[qr]AB[pr]AW[os]AW[or]AW[oq]AW[pp]AW[qo]AW[rn]AW[sn]C[B to move (live with points)]AW[oo]AW[pn]AP[goproblems]
+(;B[ps];W[ro]
+(;B[sp];W[rs]
+(;B[qq]C[oh seki... there's actually life with points!])
+(;B[pq];W[rq])
+(;B[rq];W[pq]))
+(;B[rq];W[sp]MA[pq]MA[rs])
+(;B[pq];W[sp]MA[rq]MA[rs])
+(;B[rs];W[sp]MA[pq]MA[rq]))
+(;B[pq];W[rq]
+(;B[qq];W[ro];B[sp];W[ps]
+(;B[ss];W[qs]MA[sq]MA[rs])
+(;B[qs];W[rs]))
+(;B[sp];W[ro];B[qq])
+(;B[ps];W[ro]MA[qq]MA[sp])
+(;B[rs];W[ro]MA[qq]MA[sp]))
+(;B[ro];W[ps]
+(;B[qs];W[qq]
+(;B[rq];W[pq];B[ss];W[rs]C[])
+(;B[pq];W[rq]))
+(;B[pq];W[rq]
+(;B[qq];W[qs]MA[sr]MA[sq]MA[rq]MA[sp])
+(;B[rs];W[qq])
+(;B[qs];W[qq]))
+(;B[rq];W[qs]MA[rs]MA[pq]))
+(;B[rq];W[pq]
+(;B[ss];W[ps];B[qs];W[rs];B[sp]C[oh, nice! :)RIGHT])
+(;B[ps];W[ro]MA[sp]MA[rs])
+(;B[rs];W[ps]))
+(;B[rs];W[ps]MA[pq]MA[rq])
+(;B[sp];W[pq];B[ss];W[ps]
+(;B[qs];W[rs]
+(;B[rq]C[oh, nice! :)RIGHT])
+(;B[qq];W[ss];B[rq];W[sr];B[ss];W[rs]C[ko, can't avoid it];B[sq];W[ro]))
+(;B[rq];W[qs])
+(;B[qq];W[qs]))
+(;B[ss];W[rs]
+(;B[qs];W[ro]
+(;B[sp];W[pq]
+(;B[rq]C[oh, nice! :)RIGHT])
+(;B[qq];W[ss];B[rq];W[sr];B[ss];W[rs]C[ko, can't avoid it];B[sq];W[ps]))
+(;B[rq];W[sp])
+(;B[ss];W[sp]))
+(;B[ps];W[ro]
+(;B[sp];W[qq];B[rq];W[pq];B[ss];W[sr])
+(;B[rq];W[sp]))
+(;B[rq];W[ro]
+(;B[sp];W[pq]
+(;B[qs]C[oh, nice! :)RIGHT])
+(;B[ps];W[qq])
+(;B[ss];W[sr]))
+(;B[qs]))
+(;B[pq];W[ro]
+(;B[sp];W[ps]MA[rq]MA[qs])
+(;B[rq];W[sp]))
+(;B[sp];W[pq]
+(;B[rq];W[ps]
+(;B[qs]C[oh, nice! :)RIGHT])
+(;B[ss];W[qs]))
+(;B[qq];W[ps];B[qs])
+(;B[qs];W[qq];B[rq]C[RIGHT])
+(;B[ps];W[qq];B[rq];W[ro]))))

@@ -1,0 +1,8 @@
+(;GE[best move]DI[10k]DP[51]SO[Field Mouse]CO[0]AB[rc]AB[qc]AB[qb]AB[pc]AB[qd]AW[oc]AW[ob]AB[od]AB[nd]AB[md]AB[mc]AW[pd]AW[pe]AW[qe]AW[re]AB[rd]AB[sd]AB[sb]AW[se]AB[mb]AB[la]AB[ka]AB[ja]AW[lb]AW[kb]AW[kc]AW[jc]AW[hc]AW[ic]AW[hb]AW[ha]AB[ia]AW[kd]AW[ke]AW[kf]AW[lf]AW[mf]AW[nf]AW[of]AW[pf]C[How should black deal with the two twite stones in his territory?]AP[goproblems]
+(;B[pa];W[oa]C[Now black will have to put four more stones into his territory])
+(;B[oa];W[pa]
+(;B[na];W[pb]C[Excellent! Now black will have to put only three more stones into his territory! :-)RIGHT])
+(;B[pb];W[na]C[RIGHT])
+(;B[nb];W[na]C[RIGHT])
+(;B[nc];W[na]C[RIGHT]))
+(;B[na];W[oa]C[Black still has to put four more stones into his territory to capture white]))

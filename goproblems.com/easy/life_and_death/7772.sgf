@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[43]SO[AkaHige]CO[7]AB[ap]AB[bp]AB[bq]AB[br]AW[ao]AW[bo]AW[co]AW[cr]AW[dr]AW[er]AB[eq]AW[cq]AB[dq]AB[fq]AB[fr]AB[hr]AW[cl]AB[cp]AW[do]AW[dp]AW[bs]C[Black to do his best in the corner.]AP[goproblems]
+(;B[ar]
+(;W[cs]C[CHOICE]
+(;B[es]C[Well done. A2 is the only move.RIGHT])
+(;B[ds];W[es];B[fs]C[Seki! Black can do better.]))
+(;W[es]C[CHOICE]
+(;B[cs]C[Well done! F1 instead would lead to seki.RIGHT])
+(;B[fs];W[cs]C[Seki! Black can do better.])))
+(;B[cs];W[ar]
+(;B[as]C[Ko! Black can do better.])
+(;B[es];W[aq])
+(;B[ds];W[aq]))
+(;B[es];W[ar])
+(;B[ds];W[ar])
+(;B[as];W[ar])
+(;B[fs];W[ar])
+(;B[aq]C[Hum... let's say this was a misclick ;)]))

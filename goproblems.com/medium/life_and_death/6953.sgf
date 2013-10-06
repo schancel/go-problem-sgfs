@@ -1,0 +1,34 @@
+(;GE[life and death]DI[1k]DP[19]SO[Trucid]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[Black to play]DT[2004-03-26]PC[http://senseis.xmp.net/?UnderTheStonesProblem6]AW[bb][eb][cc][dc][cd][ed][be][ce][de][ee]AB[cb][db][fb][bc][ec][fc][bd][fd][ge][ff][bg][cg][eg]C[Black to do his best.]PL[B]
+(;B[ab]CR[ab]
+;W[ba]CR[ba]
+(;B[ac]CR[ac]
+(;W[ad]CR[ad]
+;B[ae]CR[ae]
+;W[af]CR[af]
+(;B[bf]CR[bf]
+;W[ad]CR[ad]C[RIGHT Ko is best.])
+(;B[ag]CR[ag]
+;W[ad]CR[ad]C[RIGHT Ko is best.])
+(;B[ea]CR[ea]
+;W[ad]CR[ad]LB[id:T]C[If you think this is a ko, play a ko threat at T.]
+(;B[id]CR[id]C[RIGHT Correct. Black will play C19 to win the ko if he chooses to ignore a ko threat.])
+(;B[ca]CR[ca]
+;W[aa]CR[aa]
+;B[bc]CR[bc]
+;W[bf]CR[bf]C[White lives.])))
+(;W[ae]CR[ae]
+;B[ea]CR[ea]
+;W[ad]CR[ad]
+;B[ca]CR[ca]
+;W[aa]CR[aa]
+;B[bc]CR[bc]C[White dies unconditionally. White A15 was a mistake.]))
+(;B[ea]CR[ea]
+;W[ad]CR[ad]
+(;B[ca]CR[ca]
+;W[ac]CR[ac])
+(;B[ac]CR[ac]
+;W[aa]CR[aa])))
+(;B[ba]CR[ba]
+;W[ab]CR[ab]TR[bc][bd]C[White lives. Marked stones are dead.]))

@@ -1,0 +1,41 @@
+(
+;GE[fuseki]DI[3k]DP[26]SO[Imperateur]CO[8]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.10]
+AB[pq][pk][pd][lc][jp][fq]
+AW[dp][dn][ci][dd][jd][qf]
+TR[qf]
+C[How should Black counter White's kakari with the marked stone?]
+LB[qe:a][qd:b][nd:c][qh:d]
+(
+;
+B[qe]
+;
+W[pf]
+LB[nd:a]
+TR[lc]
+C[Black has to defend at a to protect the corner, and this works inefficiently with the marked stone.]
+)
+(
+;
+B[qd]
+C[RIGHTThis works best with the marked stone, protecting the corner.]
+TR[lc]
+)
+(
+;
+B[nd]
+TR
+LB[rd:a][qc:b][qi:c]
+C[The top stones are extremely inefficient.  On top of that, White can still slide at a, then when  Black responds at b, White can make a solid base at c, nicely breaking up the right side and supplying backup for invasions.]
+)
+(
+;
+B[qh]
+;
+W[qc]
+C[White enters the corner, no good.]
+)
+)

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[20k]DP[74]SO[kochi]CO[7]AW[jr]AW[js]AB[jp]AB[jq]AW[iq]AW[hq]AW[gq]AB[kr]AW[kq]AW[lq]AW[mq]AW[nq]AW[oq]AW[pq]AB[lr]AB[mr]AB[or]AB[nr]AB[os]AW[pr]AW[ps]AB[ip]AB[hp]AB[gp]AB[fp]AB[ep]AB[dp]AB[dq]AB[dr]AB[ds]AW[es]AW[er]AW[eq]AW[fq]AW[gr]AW[gs]AW[kp]AW[qq]AW[rq]AW[sq]LB[mr:A]C[Save the stones marked A.]AP[goproblems]
+(;B[ms];W[ks]C[You made an eye, but B took away the possibility for any more.]
+(;B[ls];W[ns])
+(;B[ir];W[hr]
+(;B[ls];W[ns])
+(;B[is];W[hs]
+(;B[ls];W[ns])
+(;B[ir];W[is])))
+(;B[is];W[ir])
+(;B[hs];W[ir]))
+(;B[ks]
+(;W[ms]C[CHOICE];B[ir];W[is];B[hs]C[W's play was unreasonable.  You can always live there.RIGHT])
+(;W[ir]C[CHOICE]
+(;B[ms]C[Yes.  Threaten first, then live.RIGHT])
+(;B[hs];W[ms])))
+(;B[ls])
+(;B[ns];W[ks])
+(;B[ir]
+(;W[hr]C[CHOICE]
+(;B[ks];W[is];B[ms]C[RIGHT])
+(;B[ms];W[ks];B[ls];W[ns])
+(;B[is];W[hs];B[ks];W[ms]))
+(;W[is]C[CHOICE]
+(;B[ks];W[hr];B[ms]C[RIGHT])
+(;B[ms];W[ks];B[hr];W[hs])))
+(;B[is];W[ir]
+(;B[ks];W[ms])
+(;B[ms];W[ks])
+(;B[hs])))

@@ -1,0 +1,48 @@
+(;GE[life and death]DI[10k]DP[50]SO[ldan]CO[0]AB[pd]AB[qd]AB[rd]AB[qc]AB[qf]AB[qg]AB[sg]AB[rh]AW[pc]AW[pb]AW[qb]AW[rb]AW[rc]AW[od]AW[oc]AW[oe]AW[of]AW[pg]AW[oh]AW[qh]AW[qi]AW[ri]AW[qj]AW[qk]AW[rk]AW[sk]AW[re]C[Black wants to live]AP[goproblems]
+(;B[rf]
+(;W[sd]
+(;B[se]C[];W[jd]C[It looks like ko. White could have taken T15 directly but (for instructional purposes) first plays a ko threat. Can you answer it and still live uinconditionally? Then play L16, otherwise play whatever you need to live. Take care: You do not have any ko threats...]LB[kd:Alive]
+(;B[kd];W[sf]C[You answered the threat so now White takes the stone at T15. Play K15 if you need a threat, otherwise do what comes naturally.]LB[je:Threat]
+(;B[qe]
+(;W[sc]C[CHOICE];B[se]C[Correct. The ko in this group was not real.RIGHT])
+(;W[se];B[sc];W[se];B[sd];W[sh];B[si];W[sj];B[sh];W[sf];B[re];W[sf];B[se]C[White can get a tpotal of 7 ko threats for some ko somewhere else by playing like this. The ko needs to be big though as by doing so White loses a lot of points extra here.RIGHT]))
+(;B[je];W[qe]C[You had no ko threats, remember? White kills the corner.])
+(;B[sc];W[qe]C[Whoopsy daisy.])
+(;B[pe];W[se])
+(;B[sh];W[qe]))
+(;B[sc]C[You were already alive, so White got a free move.])
+(;B[qe]C[You were already alive, so White got a free move.])
+(;B[sf]C[You were already alive, so White got a free move.])
+(;B[si];W[sj]
+(;B[sh];W[sf]C[It is a ko now...])
+(;B[sf];W[sh]C[Ko])
+(;B[qe]C[You were already alive, so White got a free move.])
+(;B[sc]C[You were already alive, so White got a free move.])
+(;B[rg];W[sf]C[Ko. If White connects you have just one eye.])
+(;B[pe];W[sf]C[Ko]))
+(;B[sh]C[You were already alive, so White got a free move.]))
+(;B[qe];W[se])
+(;B[pe];W[se])
+(;B[sf];W[se])
+(;B[pf];W[se]))
+(;W[si]
+(;B[se];W[sh];B[rg]C[Probably best for both. RIGHT])
+(;B[sh];W[sd]
+(;B[se];W[sf]C[Ko!])
+(;B[qe];W[se])
+(;B[sf];W[qe])
+(;B[sc];W[qe]C[Dead!]))
+(;B[qe];W[se])
+(;B[sd];W[sh]
+(;B[rg];W[se])
+(;B[qe];W[se])
+(;B[se];W[rg]C[Ko]))
+(;B[sf];W[sh])))
+(;B[se];W[rf])
+(;B[sf];W[rf])
+(;B[qe];W[rf])
+(;B[pe];W[rf];B[sd]C[Death in gote])
+(;B[pf]
+(;W[pe];B[qe];W[rf])
+(;W[rf];B[sd];W[pe]))
+(;B[sd];W[rf]))

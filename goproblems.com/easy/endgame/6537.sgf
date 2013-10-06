@@ -1,0 +1,25 @@
+(;GE[endgame]DI[7k]DP[40]SO[MrMoto]CO[8]AW[bb]AW[ba]AW[cc]AW[cd]AW[dd]AW[eb]AW[fc]AW[fb]AW[gb]AW[hb]AW[hc]AW[ia]AW[jb]AW[kb]AW[lb]AW[kc]AW[ld]AW[mc]AW[nc]AW[ne]AB[ab]AB[bc]AB[bd]AB[be]AB[cf]AB[de]AB[ef]AB[fd]AB[ed]AB[ec]AB[gd]AB[gc]AB[hd]AB[ic]AB[ib]AB[jc]AB[ie]AB[je]AB[kd]AB[le]AB[mf]AB[nf]AB[oe]AB[od]AB[pd]AB[pc]AB[ob]AW[ga]AW[ka]C[What can black do here?]AP[goproblems]
+(;B[ma];W[db])
+(;B[nb];W[db])
+(;B[md];W[db])
+(;B[na];W[db])
+(;B[dc];W[db])
+(;B[cb];W[db])
+(;B[db]
+(;W[ea]C[This is a terrible mistake by white.  How to punish?CHOICE]
+(;B[dc];W[ma]C[You could have killed white.])
+(;B[cb];W[ma]C[You could have killed white.])
+(;B[ma]C[];W[mb]
+(;B[na];W[md])
+(;B[nb];W[md])
+(;B[md];W[na];B[nb]C[White made a mistake at E19, and loses everything.RIGHT]))
+(;B[da];W[dc])
+(;B[nb];W[mb]MA[md]MA[ma])
+(;B[na];W[ma])
+(;B[md];W[ma]))
+(;W[ma]C[White lives here, but can do better.])
+(;W[dc]C[CHOICE]
+(;B[cb];W[da];B[ce];W[ma]C[This is the best possible for both players.  White lives, but black gets some points in the corner.RIGHT])
+(;B[da];W[cb])
+(;B[ea];W[cb])
+(;B[ma];W[cb]))))

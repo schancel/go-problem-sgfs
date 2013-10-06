@@ -1,0 +1,30 @@
+(;GE[endgame]DI[5k]DP[34]SO[Bleedo]CO[0]AW[ac]AW[bd]AW[ad]AW[ca]AB[ba]AW[cc]AW[dc]AW[eb]AW[ea]AW[fb]AB[ec]AB[fc]AB[gb]AB[ga]AB[fa]AB[dd]AB[cd]AB[be]AB[ae]AB[ce]AB[ee]AB[gd]C[White to retain the most points. White's largest ko threat is worth 20 points. Japanese Rules.]AP[goproblems]
+(;W[db];B[bb]
+(;W[bc];B[cb]
+(;W[ab];B[da]C[30+ point ko - black takes first])
+(;W[aa];B[da]C[30+ point ko - black takes first]))
+(;W[cb];B[bc])
+(;W[ab];B[bc])
+(;W[aa];B[bc]))
+(;W[da];B[cb])
+(;W[cb];B[ab];W[bc];B[ci]LB[ei:T]C[Black tenukis. Was it a mistake, or should you tenuki as well (e11)?]
+(;W[ei]C[B 0 points, W 0 pointsRIGHT])
+(;W[bb];B[db]
+(;W[da];B[db])
+(;W[aa];B[da]C[B 6 points, W 4 points])))
+(;W[bb];B[db]C[W can tenuki, but please play at A to clearly see the resulting score.]LB[cb:A];W[cb];B[da]C[B 6 points, W 5 points])
+(;W[bc];B[db]
+(;W[cb];B[da])
+(;W[bb];B[da])
+(;W[aa];B[da]))
+(;W[ab];B[cb]
+(;W[db];B[da]C[30 point ko - Black takes first])
+(;W[bb];B[da])
+(;W[bc];B[db])
+(;W[da];B[db])
+(;W[aa];B[db]))
+(;W[aa];B[ab]
+(;W[bc];B[db])
+(;W[bb];B[bc];W[aa];B[db])
+(;W[cb];B[bc])
+(;W[db];B[bc])))

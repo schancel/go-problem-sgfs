@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[10k]DP[53]SO[ytqb]CO[0]AB[cd]AB[ce]AB[df]AB[ef]AB[ff]AB[eg]AB[eh]AB[gc]AB[ge]AB[fd]AW[fe]AW[ee]AW[de]AW[cf]AW[dg]AW[cg]AW[fg]AW[gg]AW[gf]C[White to play and connect his 2 groups under the black stones.]SZ[9]AB[gd]AW[he]AP[goproblems]
+(;W[ei]C[];B[ed]C[White delta is the nose tesuji contributed by Fokatukc in problem 13899.]TR[ei]
+(;W[dh];B[dd];W[fh]C[RIGHT])
+(;W[fh]C[];B[dd];W[dh]C[RIGHT]))
+(;W[fh];B[ei];W[dh]
+(;B[ed];W[di];B[dd])
+(;B[dd];W[di];B[ed]))
+(;W[dh];B[ei];W[fh];B[ed];W[di];B[dd])
+(;W[di];B[ei];W[dh];B[ed];W[fh];B[dd])
+(;W[fi];B[ei];W[fh];B[ed];W[dh];B[dd]))

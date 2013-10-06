@@ -1,0 +1,107 @@
+(;GE[life and death]DI[5k]DP[35]SO[ldan]CO[7]AB[cb]AB[cc]AB[bd]AW[dc]AW[cd]AW[ce]AW[ec]AW[bf]AW[gc]AW[cg]AP[goproblems]
+(;W[db];B[bb]
+(;W[ca];B[ba]
+(;W[ac]
+(;B[ab];W[ad];B[ae];W[be]TR[bf]C[Well done, the marked stone ruined it for black.RIGHT])
+(;B[ad];W[ab])
+(;B[be];W[bc];B[da];W[ab];B[ae];W[ea]C[RIGHT]))
+(;W[be];B[ac])
+(;W[ae];B[ad]
+(;W[be];B[ac])
+(;W[ac];B[ab]))
+(;W[ad]
+(;B[ac];W[ae]C[Well done, the marked stone ruined it for black.RIGHT])
+(;B[ae];W[ac])
+(;B[ab];W[ae])
+(;B[be];W[ac];B[ab];W[ae])))
+(;W[ac];B[ab]
+(;W[be];B[ad];W[ca];B[ba])
+(;W[ad];B[be]
+(;W[ae];B[bc];W[af]C[RIGHT])
+(;W[ca]
+(;B[ae];W[ba]C[RIGHT])
+(;B[ba];W[ae]C[OiotoshiRIGHT]))
+(;W[ba];B[ca];W[ae];B[bc];W[af];B[cf];W[da]C[RIGHT])
+(;W[bc];B[ae])
+(;W[aa];B[ae]
+(;W[ba];B[ca])
+(;W[ca];B[ba])))
+(;W[ae];B[ad])
+(;W[ca];B[ba];W[ad];B[be];W[ae]C[OiotoshiRIGHT])
+(;W[ba];B[ca];W[ad];B[be];W[ae];B[bc];W[af];B[cf];W[da]C[RIGHT]))
+(;W[ba];B[ca];W[ac];B[ad]
+(;W[ab];B[aa]C[No need for ko])
+(;W[aa];B[ab]))
+(;W[da];B[ac]
+(;W[ca];B[ba])
+(;W[be];B[ca]))
+(;W[be];B[ac];W[ca];B[ba]))
+(;W[be];B[ac]
+(;W[ae];B[ba];W[db];B[ab];W[ad];B[bc]C[Black is alive])
+(;W[db];B[ba];W[ab];B[bb]C[Black is alive])
+(;W[bb];B[ba]
+(;W[ab];B[db];W[eb];B[da]C[Black is alive])
+(;W[bc];B[ab])
+(;W[db];B[ab]C[Black is alive])
+(;W[eb];B[ab])
+(;W[ca];B[da]
+(;W[db];B[ab])
+(;W[ab];B[db]))
+(;W[aa];B[ab])))
+(;W[ac];B[ab]C[Black is alive, see naviagte solution.];W[bb];B[ba];W[aa];B[bc];W[ca];B[db];W[eb];B[da];W[be];B[ad]C[Life in a double ko])
+(;W[bb];B[ba];W[ab];B[db]
+(;W[eb];B[da]
+(;W[ad];B[ae];W[be];B[ac])
+(;W[aa];B[bc];W[ca];B[ac])
+(;W[bc]C[RIGHT]))
+(;W[bc]C[RIGHT]))
+(;W[ba];B[bb]
+(;W[db];B[ca];W[ac];B[ad]
+(;W[ab];B[bc]C[black is alive])
+(;W[bc];B[ab])
+(;W[da];B[ab]))
+(;W[ac];B[ad];W[ca];B[db];W[da];B[eb];W[ea];B[fa]))
+(;W[bc];B[bb];W[ac];B[ad]
+(;W[ca];B[db])
+(;W[db];B[ca]))
+(;W[ab];B[bb]C[There are lots of variations for this approach, please tell me if you find another.]
+(;W[ac];B[db]
+(;W[eb];B[ad]
+(;W[da];B[ca]
+(;W[aa]C[Not seki after a15 a16 are filled :)RIGHT])
+(;W[ba];B[bc]))
+(;W[ba];B[ca];W[aa];B[bc]
+(;W[aa];B[ab])
+(;W[ab];B[aa];W[ba];B[ac]))
+(;W[ca];B[da];W[ba];B[aa];W[ba];B[bc];W[aa];B[ca];W[ab];B[aa];W[ba];B[ac])
+(;W[aa];B[da];W[ba];B[bc]
+(;W[ea];B[ca];W[ab];B[aa];W[ba];B[ac])
+(;W[be];B[ca];W[ab];B[aa];W[ba];B[ac])
+(;W[ae];B[ca];W[ab];B[aa];W[ba];B[ac]))
+(;W[be];B[aa];W[da];B[ca];W[ba];B[ea];W[aa];B[bc];W[ab];B[aa];W[ba];B[ac]))
+(;W[ad];B[eb]C[Solved (assuming you stop black running before he can live on the side :)RIGHT])
+(;W[aa];B[ad];W[eb];B[da];W[ba];B[ca];W[be];B[bc];W[ab];B[aa];W[ba];B[ac])
+(;W[be];B[eb]
+(;W[fb];B[aa]
+(;W[ba];B[ad];W[ae];B[bc];W[aa];B[ca];W[ab];B[aa];W[ba];B[ac];W[ea];B[aa])
+(;W[ad];B[bc];W[ae]C[RIGHT]))
+(;W[bc]C[RIGHT])
+(;W[ad]C[RIGHT])))
+(;W[db];B[ac])
+(;W[be];B[ac];W[ae];B[aa]
+(;W[db];B[ad])
+(;W[ad];B[bc]
+(;W[db];B[ca])
+(;W[ca];B[db];W[da];B[eb];W[ea];B[fa])))
+(;W[aa];B[ac])
+(;W[ba];B[ac]
+(;W[ca];B[db])
+(;W[be];B[ca]))
+(;W[ad];B[ac]C[There are better ways than ko...])
+(;W[ca];B[db]
+(;W[eb];B[da];W[ba];B[aa];W[ba];B[ac])
+(;W[da];B[eb])
+(;W[ba];B[da];W[ac];B[ad];W[ae];B[bc])
+(;W[ac];B[ad])
+(;W[bc];B[ac])
+(;W[ad];B[ac]C[Ko]))))

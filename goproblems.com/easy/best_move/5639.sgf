@@ -1,0 +1,11 @@
+(;GE[best move]DI[10k]DP[50]SO[archon]CO[6]AB[qo]AB[po]AB[pn]AB[on]AB[om]AB[pp]AB[pq]AW[qp]AW[qq]AW[pr]AW[pm]AW[qm]AW[rm]AW[qn]AW[ro]AW[nq]AB[jp]AB[rn]LB[rm:2]LB[rn:1]C[White has responded at 2 to black's play at 1.  Black to humble white.]AP[goproblems]
+(;B[rp]
+(;W[sn]C[White is obviously in dire need of humility.  Please give it to him.CHOICE]
+(;B[rq];W[qr]
+(;B[rr];W[or]C[White lives.])
+(;B[or];W[rr]C[White lives.]))
+(;B[qr];W[rq];B[rr];W[sp];B[or]C[Black takes the corner.RIGHT]))
+(;W[rq]C[CHOICE]
+(;B[so]C[White is cut, and black keeps sente since the corner group needs another move to live.RIGHT])
+(;B[or];W[sp];B[qr];W[rr];B[ps]C[Gote and not much reduction or aji.  The simple play is better.])))
+(;B[sn];W[rp]C[White lives.]))

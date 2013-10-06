@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[4k]DP[28]SO[huhss]CO[7]SZ[19]AP[MultiGo:3.6.0]AW[bp][bo][cp][dp][eo][eq][er][fr][jj]AB[co][do][cm][ep][fp][fq][gr][hq]
+TR[eo]C[black to capture triangled stone]
+(;B[en]	;W[fo]	;B[gn](;W[go]	;B[ho]	;W[gp]	;B[gq]	;W[dn]	;B[cn]	;W[fn]	;B[fm]	;W[em]	;B[hp]
+;W[en]
+;B[el]C[RIGHT]
+)
+(;W[gp]	;B[gq]	;W[go]	;B[ho]	;W[dn]	;B[cn]	;W[fn]	;B[fm]	;W[em]	;B[hp]
+;W[en]
+;B[el]C[RIGHT]
+)
+)
+(;B[fn]	;W[en]	;B[em]
+;W[cn]C[wrong]
+)
+(;B[fm]	;W[fo]	;B[go]	;W[gp]	;B[gq]	;W[gn]	;B[ho]
+;W[fn]C[wrong]
+)
+)

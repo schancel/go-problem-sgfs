@@ -1,0 +1,20 @@
+(;GE[best move]DI[15k]DP[60]SO[gedh2]CO[8]AB[ca][da][db][cc][bb][bd][ad][ae]AW[af][be][ce][cd][dd][dc][ed][fc][eb][ea][bf]
+C[Can b tenuki here?
+]LB[hd:A]AP[MultiGo:3.8.6]SZ[19]
+
+(;B[ac]C[RIGHT
+CORRECT. White only has one ko threat against the corner])
+(;B[ab]C[RIGHT
+NOT BEST MOVE. White has two ko threats against the corner])
+(;B[hd]C[wrong. w can get a ko.];W[ab]C[w has made a ko for the corner.]
+(;B[ac];W[bc]C[b dies])
+(;B[ba]C[not even a ko];W[bc];B[ac];W[bc]C[dead])
+(;B[bc];W[ba]C[ko])
+(;B[aa];W[ba]C[ko]))
+(;B[aa]C[RIGHT
+CORRECT. White has only one ko threat against the corner
+])
+(;B[ba]C[RIGHT
+NOT BEST MOVE. White has two ko threats against the corner])
+(;B[bc]C[RIGHT
+NOT BEST MOVE. This leaves white two ko threats against the corner]))

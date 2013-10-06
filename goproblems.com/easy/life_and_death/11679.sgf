@@ -1,0 +1,22 @@
+(;GE[life and death]DI[7k]DP[41]SO[fye]CO[0]AB[dr]AB[er]AB[eq]AB[ep]AB[fp]AB[gq]AB[gr]AB[hr]AW[ir]AW[jq]AW[hq]AW[hp]AW[gp]AW[fo]AW[eo]AW[do]AW[dp]AW[dq]AW[cr]AW[ds]AW[bq]AW[bp]AB[br]AW[co]AB[bs]AW[hs]LB[bs:1]LB[hs:2]C[Punish white!]AP[goproblems]
+(;B[cs]
+(;W[cq];B[ar]C[Correct, black is easily aliveRIGHT])
+(;W[ar];B[cq]C[RIGHT]))
+(;B[es];W[cq];B[gs];W[fr];B[cs];W[ar])
+(;B[cq];W[cp]C[This will revert to problem It's Alive! (2), resulting a ko])
+(;B[gs];W[cq]
+(;B[cs];W[ar];B[es];W[fr])
+(;B[es])
+(;B[fr])
+(;B[ar];W[cs]))
+(;B[fs];W[cs])
+(;B[fr];W[cq]
+(;B[cs];W[ar]
+(;B[gs];W[es];B[fs];W[ds])
+(;B[es];W[gs]))
+(;B[gs];W[es];B[cs];W[ar];B[fs];W[ds]))
+(;B[ar];W[cs]
+(;B[es];W[cq]
+(;B[fr];W[gs])
+(;B[gs];W[fr]))
+(;B[gs])))

@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[2k]DP[21]SO[Edgardo]CO[8]AW[mr]AW[mq]AW[mp]AW[np]AB[mo]AB[no]AB[lp]AB[lq]AB[lr]AW[lo]AW[ko]AW[kp]AB[jo]AB[io]AW[in]AW[jn]AB[kn]AB[ln]AB[lm]AW[mn]AW[km]AB[jm]AB[jl]AW[iq]AW[dr]AW[dq]AW[dp]AW[cq]AW[eo]AW[en]AB[cr]AB[bq]AB[bp]AB[cp]AB[co]AB[do]AB[cm]AB[oo]AB[op]AB[nq]AW[nr]AB[pr]AW[pp]AW[qq]AW[qr]AW[qo]AW[qn]AB[pn]AB[pm]AB[qm]AW[rm]AW[rl]AB[el]AW[bk]AW[dj]AB[lj]AB[nj]AB[oj]AB[pj]AB[qj]AB[rj]LB[jo:1]LB[kp:2]LB[io:3]C[Can you capture Black 1 and 3? If not then play at T1, otherwise capture them.]LB[ss:I can't]AP[goproblems]
+(;W[ho];B[hn];W[im];B[hp];W[go];B[jq]TR[ko]TR[kp]TR[lo]C[Your stones are dead.])
+(;W[im];B[jq]TR[lo]TR[kp]TR[ko]C[=(])
+(;W[hm];B[jq]TR[kp]TR[ko]TR[lo]C[=(])
+(;W[hn];B[jq]TR[kp]TR[ko]TR[lo]C[=(])
+(;W[kq];B[hn];W[im];B[hl]TR[im]TR[in]TR[jn]C[=(])
+(;W[kr];B[hn];W[im];B[hl]TR[im]TR[in]TR[jn]C[=(])
+(;W[jq];B[hn];W[im];B[hl]TR[im]TR[in]TR[jn]C[=(])
+(;W[ip];B[jp];W[kq];B[jq];W[kr];B[jr];W[ls];B[hn];W[im];B[hl]TR[im]TR[in]TR[jn]C[Dead =(])
+(;W[jp];B[ho];W[hn];B[gn];W[hm];B[go];W[fm];B[gm];W[hl];B[gl]
+(;W[gk];B[em];W[fl];B[fk];W[fn];B[hk]C[Black captures or escapes.])
+(;W[hk];B[em];W[fl];B[fk];W[fn];B[dn];W[ep];B[gk]C[Black connects or escapes.]))
+(;W[ss]C[RIGHT]))

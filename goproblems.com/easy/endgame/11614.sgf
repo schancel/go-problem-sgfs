@@ -1,0 +1,11 @@
+(;GE[endgame]DI[15k]DP[63]SO[zafris]CO[0]AW[rq]AW[rp]AW[sp]AW[qq]AW[pq]AW[pr]AW[ps]AW[nr]AW[nq]AW[oq]AW[mq]AB[lq]AB[lr]AB[mr]AB[ns]AB[os]AB[mp]AB[np]AB[op]AB[pp]AB[qp]AB[ro]AB[so]AB[qn]AB[lp]C[Maximize your score. Suppose that everywhere else on the board is settled. Should White play a move here?FORCE]LB[lm:Yes]LB[om:No]AP[goproblems]
+(;W[lm];B[mm]C[Right, White ends up with 6 points if she defends correctly.RIGHT])
+(;W[om];B[rr]C[And if Black plays here?]
+(;W[sr];B[rs]
+(;W[qr];B[ms];W[qs];B[or]C[];W[ss]C[White ends up with 5 points (3 points of territory and 2 prisoners). This is one point less than if White did play a move.])
+(;W[qs];B[ms];W[qr];B[or];W[ss]C[White ends up with 5 points (3 points of territory and 2 prisoners). This is one point less than if White did play a move.])
+(;W[or];B[ms]C[Seki.]))
+(;W[rs];B[sr]
+(;W[qr];B[ms]
+(;W[sq];B[or];W[ss]C[White ends up with 5 points (3 points of territory and 2 prisoners). This is one point less than if White did play a move.]))
+(;W[or];B[ms];W[qr]C[Seki]))))

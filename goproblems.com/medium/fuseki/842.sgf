@@ -1,0 +1,25 @@
+(;GE[fuseki]DI[3d]DP[9]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+PL[B]
+AB[dd][df][dj][jd][oc][pd][pf][ph][pj]
+AW[fd][hd][ld][mg][nc][nd]
+(;B[kd]
+C[RIGHT]
+MN[1]
+)(;B[jc]
+C[Too slow, White can look forward to 
+attacking Black now with A ,B or C.]
+LB[jc:1][ie:A][if:B][jf:C])(;B[jb]
+LB[jb:1][ie:A][if:B][jf:C]C[Too slow, White can look forward to 
+attacking Black now with A ,B or C.]
+)(;B[je]
+C[Too slow, White can look forward to 
+attacking Black now with A ,B or C.]
+LB[je:1][if:A][kg:B][jg:C])(;B[id]
+C[The wrong bump. The right group is 
+stronger so Black should bump 
+into that one instead.]
+))

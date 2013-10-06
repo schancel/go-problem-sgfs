@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[39]SO[adum]CO[6]SZ[19]AW[sb]AW[rc]AW[qd]AW[rd]AW[re]AW[qf]AW[rg]AW[rh]AW[ri]AB[qb]AB[rb]AB[qc]AB[od]AB[pd]AB[oe]AB[qe]AB[pf]AB[qg]AB[qh]AB[qi]AB[qj]AB[rj]AB[sj]LB[qg:1]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[sf];B[sc]
+(;W[sd];B[si]
+(;W[sh]C[
+ko (normally black wouldn't play the internal ko threats immediately though)RIGHT])
+(;W[pe]C[RIGHT]))
+(;W[rf];B[sd])
+(;W[si];B[sd])
+(;W[sh];B[sd])
+(;W[pe];B[si]
+(;W[sh]C[
+koRIGHT])
+(;W[sd]C[
+koRIGHT])
+(;W[qe];B[sh];W[sg];B[sd])))
+(;W[pe];B[sf]C[white dies without even a ko])
+(;W[rf];B[si])
+(;W[sc];B[rf])
+(;W[si];B[rf])
+(;W[sg];B[rf])
+(;W[se];B[rf])
+(;W[sh];B[rf])
+(;W[sd];B[rf])
+(;W[pg];B[rf]))

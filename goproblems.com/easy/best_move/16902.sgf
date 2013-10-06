@@ -1,0 +1,6 @@
+(;GE[best move]DI[5k]DP[33]SO[oxgame]CO[0]SZ[3]AB[cc]AB[aa]AW[bb]AW[ac]C[Marubatsu game]AP[goproblems]
+(;B[ca];W[cb];B[ba]C[RIGHT]TR[ca]TR[ba]TR[aa])
+(;B[cb];W[ca]TR[ac]TR[bb]TR[ca])
+(;B[ba];W[ca]TR[ac]TR[bb]TR[ca])
+(;B[bc];W[ca]TR[ac]TR[bb]TR[ca])
+(;B[ab];W[ca]TR[ac]TR[bb]TR[ca]))

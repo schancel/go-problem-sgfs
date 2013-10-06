@@ -1,0 +1,9 @@
+(;GE[best move]DI[30k]DP[100]SO[kimmel]CO[0]AB[ar]AB[as]AB[bs]AW[dr]AW[dq]AW[dp]AW[cp]AW[bp]AW[ao]AW[ap]AB[bo]AB[bn]AB[an]AB[co]AB[do]AB[eo]AB[ep]AB[eq]AB[er]AB[fs]MA[an]MA[bn]MA[bo]MA[co]MA[do]MA[eo]MA[ep]MA[eq]MA[er]TR[bs]TR[as]TR[ar]C[Black to connect the marked stone groups.]AP[goproblems]
+(;B[ds]C[RIGHT]
+(;W[cs]C[CHOICE];B[cr])
+(;W[cr];B[cs];W[es])
+(;W[es]))
+(;B[es];W[ds]C[Hint: If it were White's turn, where would HE have played?])
+(;B[cs];W[ds]C[Hint: If it were White's turn, where would HE have played?])
+(;B[cr];W[ds]C[Hint: If it were White's turn, where would HE have played?])
+(;B[fr];W[ds]C[Hint: If it were White's turn, where would HE have played?]))

@@ -1,0 +1,12 @@
+(;GE[endgame]DI[3d]DP[9]SO[shaydwyrm]CO[9]AW[pq]AW[qo]AB[pr]AB[qq]AB[rq]AW[qp]AW[oq]AP[goproblems]
+(;W[or];B[qs]
+(;W[os];B[sr]
+(;W[rp];B[rs];W[ps];B[qr]C[Black is reduced to 2 points, and white has sente, plus T4 is black's gote.  Well done.RIGHT])
+(;W[ps];B[rp]
+(;W[qr];B[rs];W[ro];B[sp]TR[so]C[Black reduced to 1 point (counting the prisoner), but either white takes gote, or black can push out at T5.])
+(;W[ro];B[sp];W[qr];B[rs]C[Black reduced to 1 point (counting the prisoner), but either white takes gote, or black can push out at T5.]))
+(;W[qr];B[rs]
+(;W[ps];B[rp];W[ro];B[sp]TR[so]C[White either takes gote to seal off T5, or will suffer a big reduction there.])
+(;W[rp];B[ps]C[Black lives with 3 points.  Try again.])))
+(;W[rp];B[rr]C[Black lives with at least 3 points.  Try again.]))
+(;W[rp];B[rr]C[Black will live with at least 3 points.  Try again.]))

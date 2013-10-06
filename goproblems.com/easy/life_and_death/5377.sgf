@@ -1,0 +1,16 @@
+(;GE[life and death]DI[7k]DP[41]SO[santa c]CO[8]AW[aq]AW[br]AW[bp]AW[cp]AW[dp]AW[eq]AB[cq]AB[bq]AW[dq]AB[es]AB[fr]AB[fq]AB[fp]AB[ep]AB[do]AB[co]AB[bo]C[Black moves -> White x_x.]AP[goproblems]
+(;B[cs]
+(;W[cr]
+(;B[bs]C[Well done! :)RIGHT])
+(;B[ds];W[bs]C[White's alive!])
+(;B[dr];W[bs]C[White's alive!]))
+(;W[bs];B[cr];W[ds];B[dr]C[And wouldn't be able to approach at A.RIGHT]LB[er:A]))
+(;B[ds];W[cr]C[White's alive!])
+(;B[dr];W[cr]C[White's alive!])
+(;B[er];W[cr]C[White's alive!])
+(;B[cr];W[dr]
+(;B[ds];W[cs]C[White's alive!])
+(;B[cs];W[ds]C[White's alive!])
+(;B[bs];W[cs]C[White's alive!]))
+(;B[bs];W[cs]C[White's alive!])
+(;B[ar];W[cr]C[White's alive!]))

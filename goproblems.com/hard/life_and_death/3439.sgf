@@ -1,0 +1,135 @@
+(;GE[life and death]DI[4d]DP[7]SO[santa c]CO[8]SZ[19]AW[dc]AW[fc]AW[gc]AW[ad]AW[bd]AW[cd]AW[ed]AW[de]AW[ee]AW[fe]AB[bb]AB[db]AB[bc]AB[cc]AB[be]AB[ce]AB[df]AB[ag]AB[bg]AB[cg]AB[dg]LB[bb:2]LB[db:A]LB[ed:1]C[Black thinks, that he can live, after white 1, this way. Breake this delusion.]AW[hb]AW[ib]AW[ia]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;W[ba]C[bC19 is suicidal - Black should play at A17, and therefore the applet, will always play there. bC19 is only left to show, why. (Thanks, tails)]
+(;B[ac]
+(;W[ca];B[aa]
+(;W[ab]C[CHOICE]MA[aa];B[cb]
+(;W[aa];B[da]C[Black's alive!])
+(;W[eb];B[aa]MA[ab]C[Ko, but black takes first!])
+(;W[da];B[eb]
+(;W[ea];B[fa]C[Black's alive!])
+(;W[fb];B[ea]C[Black's alive!])
+(;W[fa];B[ea]C[Black's alive!])
+(;W[aa]C[Black's alive!]))
+(;W[ea];B[eb]
+(;W[da];B[fa];W[fb];B[aa]C[Black's alive!])
+(;W[fa];B[da]
+(;W[fb];B[aa]C[Black's alive!])
+(;W[ec];B[aa]C[Black's alive!]))
+(;W[fb];B[aa]MA[ab]C[Ko, but black takes first.])))
+(;W[eb];B[da]
+(;W[ab]MA[aa]C[Ko! Nice! (Thanks to DrStraw and tails!)RIGHT])
+(;W[ea];B[cb]C[Black's alive!]))
+(;W[ea];B[da]
+(;W[ab]C[Ko! Nice! (Thanks to DrStraw and tails!)RIGHT]MA[aa])
+(;W[eb];B[cb]C[Black's alive!]))
+(;W[da];B[eb]C[Black's alive!]))
+(;W[da];B[ea]
+(;W[ab];B[aa]C[Ko - But black takes first. By playing at C19 instead of D19 white'd take first.]MA[ab])
+(;W[ca];B[cb]C[Black's alive!])
+(;W[eb];B[ca]C[Black's alive!]))
+(;W[eb];B[ca]C[Black's alive!])
+(;W[ea];B[ca]LB[aa:A]LB[da:B]C[Black's alive! (A and B are miaia to kill)])
+(;W[aa];B[ca]C[Black's alive!]))
+(;B[ca]
+(;W[ab];B[eb]
+(;W[ac]LB[aa:A]LB[da:2]LB[ea:B]LB[cb:1]LB[fb:B]C[Nice! :) (A is now a must to secure eye no 1 and B is a must to get a 2nd eye -> Black's dead.)RIGHT])
+(;W[fb];B[aa]MA[ba]
+(;W[ac];B[ea];W[ba]C[Ko - Could be better.]MA[aa])
+(;W[ea];B[ac]C[Black's alive!]))
+(;W[ea];B[aa]MA[ba]
+(;W[fb];B[ac]C[Black's alive!])
+(;W[ac];B[fa];W[fb]C[Nice! :)RIGHT])))
+(;W[eb];B[ac]C[Black's alive!])
+(;W[ac];B[ab]C[Black's alive!])))
+(;W[ab];B[ac]C[]
+(;W[ba];B[aa]MA[ab]C[Ko.. But black takes first! (Thanks, Andre Engels!)])
+(;W[ca];B[ba]C[Black's alive!])
+(;W[aa];B[ba]C[Black's alive!])
+(;W[eb];B[ca]C[Black's alive!])
+(;W[da];B[ca]C[Black's alive!]LB[aa:A]LB[ea:B])
+(;W[ea];B[ca]C[Black's alive!]LB[aa:A]LB[da:B]))
+(;W[ca];B[ba]LB[da:B]LB[ab:A]LB[eb:B]LB[ac:A]C[Black's alive! (A for 1 eye, B for the other)])
+(;W[da];B[eb]
+(;W[ca];B[ba]LB[ea:B]LB[ab:A]LB[fb:B]LB[ac:A]C[Black's alive! (A for one eye, B for the other)])
+(;W[fb];B[ea]
+(;W[ca];B[ba]LB[ab:A]LB[ac:A]C[Black's alive! (A gets the other eye)])
+(;W[ac];B[ab]
+(;W[ca];B[ba]C[Black's alive!])
+(;W[ba];B[ca]C[Black's alive!]))
+(;W[ba];B[ca]
+(;W[ab];B[aa];W[ac];B[ba]C[Black's alive!])
+(;W[ac];B[ab]C[Black's alive!]))
+(;W[ab];B[ac]
+(;W[ba];B[cb]C[Black's alive!])
+(;W[ca]LB[aa:A]LB[ba:A]C[Black's alive! (A for 2 eyes)])))
+(;W[ac];B[ab]
+(;W[ca];B[ba]C[Black's alive!])
+(;W[ba];B[ca]
+(;W[cb]MA[ca]C[A ko isn't a good enough solution, when sure kill's possible! (Thanks yodh!)])
+(;W[fb];B[ea]C[Black's alive!])
+(;W[fa];B[ea]C[Black's alive!])
+(;W[ea];B[fa]
+(;W[fb];B[ea]C[Black's alive!])
+(;W[ea];B[fb]C[Black's alive!])))
+(;W[fb];B[ea]LB[ba:A]LB[ca:A]C[Black's alive! (A for 2 eyes)]))
+(;W[ba];B[ac]
+(;W[ab];B[aa]C[Ko, but black takes first.]MA[ab])
+(;W[cb];B[ca]C[Ko, but black takes first.]MA[cb])
+(;W[ca];B[ea]C[Black's alive!])
+(;W[ea];B[fa]
+(;W[fb];B[ca]C[Black's alive!])
+(;W[ca];B[cb]C[Black's alive!])
+(;W[aa];B[ca]C[Black's alive!])
+(;W[cb];B[ca]C[Black's alive!])
+(;W[ab];B[aa]C[Ko, but black takes first.]MA[ab]))
+(;W[fb];B[ea]
+(;W[ca];B[cb]C[Black's alive!])
+(;W[aa];B[ca]C[Black's alive!])
+(;W[cb];B[ca]C[Black's alive!])
+(;W[ab];B[aa]C[Ko, but black takes first!]MA[ab]))
+(;W[fa];B[ea]
+(;W[ab];B[aa]C[Ko, but black takes first.]MA[ab])
+(;W[ca];B[cb]C[Black's alive!])
+(;W[aa];B[ca]C[Black's alive!])
+(;W[cb];B[ca]C[Black's alive!]))
+(;W[aa];B[ea]C[Black's alive!]))
+(;W[ab];B[ac]
+(;W[ba];B[aa]C[Ko, but black takes first.]MA[ab])
+(;W[ca];B[ba]C[Black's alive!])
+(;W[aa];B[ba]C[Black's alive!])
+(;W[ea];B[ca]
+(;W[fa];B[aa]C[Black's alive!])
+(;W[aa];B[fa]C[Black's alive!])
+(;W[ba];B[aa]C[Black's alive!]))
+(;W[fb];B[ca]LB[aa:A]LB[ea:B]C[Black's alive!]))
+(;W[ea];B[fb]
+(;W[fa];B[ga];W[gb];B[ca]C[Black's alive!])
+(;W[ba];B[fa]C[Black's alive!])))
+(;W[eb];B[ca]LB[ab:A]LB[ac:A]C[Black's alive! (A for the second eye)])
+(;W[aa];B[ca]LB[ab:A]LB[ac:A]C[Black's alive! (A for the second eye)])
+(;W[ac];B[ab]
+(;W[ca];B[ba];W[da];B[eb]C[Black's alive!])
+(;W[eb];B[ca]C[Black's alive!])
+(;W[da];B[eb]
+(;W[ca];B[ba]C[Black's alive!])
+(;W[ba];B[ca];W[cb]C[Ko, white takes first! Well done! :)RIGHT]MA[ca])
+(;W[fa];B[ea]LB[ba:A]LB[ca:B]C[Black's alive!])
+(;W[ea];B[fa]
+(;W[fb];B[ca]C[Black's alive!])
+(;W[ca];B[ba];W[fb];B[cb]C[Black's alive!])
+(;W[ba];B[ca]C[Black's alive!]))
+(;W[fb];B[ea]LB[ba:A]LB[ca:B]C[Black's alive!]))
+(;W[ea];B[da]LB[ba:A]LB[ca:B]C[Black's alive!])
+(;W[ba];B[ca]C[Black's alive!]))
+(;W[ea];B[da]
+(;W[ac];B[ab]LB[ba:A]LB[ca:B]C[Black's alive!])
+(;W[ab];B[ac]
+(;W[ba];B[aa]C[Ko. But black takes first.]MA[ab])
+(;W[eb];B[ba]C[Black's alive!])
+(;W[ca];B[ba]C[Black's alive!]))
+(;W[ba];B[ac]
+(;W[ab];B[aa]C[Ko. But black takes first.]MA[ab])
+(;W[ca];B[aa];W[ab]C[Ko. And white takes first! Well done! :)RIGHT]MA[aa])
+(;W[eb];B[aa];W[ab]C[Ko. And white takes first! Well done! :)RIGHT]MA[aa])
+(;W[aa];B[ca]C[Black's alive!]))
+(;W[ca];B[ba]C[Black's alive!])))

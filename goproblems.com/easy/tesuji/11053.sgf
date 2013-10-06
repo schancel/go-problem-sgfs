@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[8k]DP[49]SO[sabetts]CO[0]SZ[19]AW[on]AW[qn]AW[qo]AW[ro]AW[op]AW[qp]AW[sp]AW[pq]AW[or]AW[pr]AW[rs]AB[po]AB[lp]AB[pp]AB[rp]AB[mq]AB[oq]AB[qq]AB[rq]AB[qr]AB[sr]AB[qs]C[Black's corner seems dead...]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[nr]
+(;W[nq]C[CHOICE];B[os]C[RIGHT])
+(;W[os]C[CHOICE]
+(;B[ns];W[nq];B[ps];W[oq];B[oo]C[RIGHT])
+(;B[ps]C[RIGHT])
+(;B[oo]C[RIGHT])))
+(;B[nq];W[oo];B[os];W[nr];B[mr];W[ns])
+(;B[ps];W[nq])
+(;B[os];W[nr];B[nq];W[oo]))

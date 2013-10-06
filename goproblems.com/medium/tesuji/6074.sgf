@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[1d]DP[17]SO[marwin]CO[7]C[White to play]AB[da]AB[cb]AB[cc]AW[cd]AW[ce]AW[de]AW[ee]AW[bf]AW[be]AB[df]AB[ef]AW[ff]AW[fg]AW[gg]AB[fe]AB[dd]AB[ed]AW[ec]AW[dc]AW[db]AW[eb]AW[fb]AB[fc]AB[fd]AB[gd]AB[hd]AB[gf]AB[hf]AW[gc]AW[hc]AW[id]AB[cg]AB[bg]AB[dh]AP[goproblems]
+(;W[ig]
+(;B[ie]C[CHOICE]
+(;W[je];B[jd]
+(;W[ic];B[jf]
+(;W[if];B[ke];W[he];B[ge];W[hg]C[RIGHT])
+(;W[he];B[ge]))
+(;W[he];B[ic]))
+(;W[he];B[ge]))
+(;B[if];W[jf];B[ie];W[je]C[RIGHT]))
+(;W[he];B[ge]
+(;W[if];B[hg];W[hh];B[ig])
+(;W[ig];B[ie];W[je];B[jd];W[ic];B[jf]
+(;W[if];B[ke])
+(;W[ke];B[if];W[kf];B[jg]))
+(;W[ie];B[hg];W[hh];B[jf])
+(;W[hg];B[if]))
+(;W[ie];B[hg];W[he];B[ge])
+(;W[if];B[hg];W[hh];B[ig])
+(;W[hg];B[if])
+(;W[jg];B[ie];W[je];B[jd]
+(;W[ic];B[jf];W[ke];B[kf])
+(;W[if];B[ic]))
+(;W[ge];B[he];W[if];B[hg])
+(;W[bc];B[hg]C[You saved these stones, but you could do it  better]))

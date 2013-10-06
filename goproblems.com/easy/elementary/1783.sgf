@@ -1,0 +1,20 @@
+(;GE[elementary]DI[4k]DP[30]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[ab][bb][bc][ad][cd][ce][de][ee][cf][ff][hf][fg][eh]AB[ba][cb][db][cc][ec][gc][dd][ed][fe][ge][df][ef][bg][cg][dg][dh]C[Black to move and kill the white stones on the left]PL[B]
+(;B[af]CR[af]
+(;W[ae]CR[ae]
+;B[be]CR[be]C[Now white can't play b4, so he is dead RIGHT CHOICE])
+(;W[be]CR[be]
+;B[ae]CR[ae]C[b6 is a false eye, so white is dead RIGHT CHOICE]))
+(;B[bf]CR[bf]
+;W[be]CR[be]
+;B[af]CR[af]
+;W[ae]CR[ae])
+(;B[be]CR[be]
+;W[bf]CR[bf]
+;B[af]CR[af]
+;W[bd]CR[bd])
+(;B[ae]CR[ae]
+;W[af]CR[af]
+;B[bf]CR[bf]
+;W[be]CR[be]))

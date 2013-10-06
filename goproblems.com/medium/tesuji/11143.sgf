@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[1d]DP[17]SO[Field Mouse]CO[0]AB[jj]AB[je]AW[ic]AW[lc]AW[lb]AW[mc]AW[nc]AW[nd]AW[od]AW[pd]AW[qd]AW[rd]AW[sc]AW[sd]AB[sb]AB[ra]AB[rc]AB[qc]AB[pc]AB[oc]AB[nb]AB[mb]AW[qe]AW[qf]AB[re]AB[rf]AB[qg]AB[pg]AB[pf]AB[ri]AB[rj]AB[rk]AB[rl]AB[rn]AB[pn]AB[om]AB[ol]AB[qp]AB[qq]AW[pp]AW[pq]AW[nq]AW[mq]AW[lp]AW[kp]AB[mr]AB[ls]AB[lq]AB[kq]AB[kr]AB[js]AB[is]AB[hr]AB[gr]AW[ir]AW[jr]AW[jq]AW[iq]AW[ip]AW[hq]AB[jp]AB[jo]AW[de]AW[io]AB[in]AW[go]AB[gq]AW[gp]AB[eq]AW[jn]AB[ko]AW[lo]AB[kn]AW[jm]AW[ql]AW[qk]AW[qj]AW[qi]AW[pi]AW[oi]AB[pj]AW[ok]AW[nl]AW[mk]AW[mi]AB[ne]AB[km]AW[mn]AB[kl]AW[jl]AB[hn]AW[kk]AB[jk]AW[il]AB[lk]AW[kj]AB[lj]AW[ki]AB[ll]AW[li]C[Both players look to be in trouble. Can you help white to win the fight?]AB[nj]AW[nr]AB[hl]AP[goproblems]
+(;W[ik];B[fn]
+(;W[gn];B[gm]
+(;W[ho];B[hm]
+(;W[ep];B[eo]
+(;W[fo]C[Right! X and Y are miai now!RIGHT]LB[en:X]LB[dp:Y])
+(;W[dp];B[fp];W[fo];B[hp]C[:(])
+(;W[fp];B[dp]
+(;W[fq];B[er]
+(;W[do];B[fo])
+(;W[fm];B[fo]))
+(;W[do];B[fo])
+(;W[dq];B[fo])
+(;W[fm];B[fo]))
+(;W[fq]
+(;B[fr];W[fo];B[fp]C[White is not going to win this ko.])))
+(;W[fo];B[eo]
+(;W[ep]C[RIGHT])
+(;W[en];B[fm];W[ep]C[RIGHT])))
+(;W[hm];B[im];W[ho];B[hm]
+(;W[ep];B[eo]
+(;W[fo];B[fm];W[do];B[ij]C[You could do much better.])
+(;W[fm];B[hk];W[ij];B[fp]))
+(;W[fm];B[hk];W[ij];B[fo];W[fp];B[ep])
+(;W[fo];B[hk];W[ij];B[en]
+(;W[eo];B[do];W[dp];B[ep])
+(;W[ep];B[dp])
+(;W[do];B[eo])
+(;W[dp];B[ep])))
+(;W[ep];B[ho];W[hp];B[fp])
+(;W[fo];B[ho];W[hp];B[eo])
+(;W[fp];B[ep];W[fm];B[ho]
+(;W[hp];B[fo])
+(;W[en];B[hp]))
+(;W[eo];B[ho];W[hp];B[fo];W[fp];B[ep]))
+(;W[ep];B[ho];W[hp];B[fp];W[fo];B[eo];W[fq];B[gn];W[fp];B[dp]C[This is not the best result.])
+(;W[eo];B[ho];W[hp];B[fo];W[fp];B[ep]C[Trouble])
+(;W[fo];B[ho];W[hp];B[eo])
+(;W[fp];B[ep])
+(;W[ho];B[gn];W[ep];B[eo]
+(;W[dp];B[fp])
+(;W[fq];B[fr];W[fp];B[dp])
+(;W[fp];B[dp];W[fq];B[fr]))
+(;W[ij];B[ho];W[hp];B[fo]))
+(;W[eo];B[ik])
+(;W[ep];B[ik]))

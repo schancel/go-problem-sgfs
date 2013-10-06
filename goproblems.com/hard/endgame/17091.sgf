@@ -1,0 +1,69 @@
+(;GE[endgame]DI[6d]DP[3]SO[Aristotle]CO[0]SZ[3]AB[aa]AB[ab]AW[ac]AW[bc]AW[cc]AW[cb]C[Black to win. White 3 komi. Japanese seki rules. 2 consequtive passes end the game. See intro notes above this text.!]
+(;AW[aa]B[ba]C[]LB[aa:PASS]
+(;W[bb]C[There is a BLACK STONE on the 'PASS' position. Click on it if you wish to pass. The stone will come back later!CHOICE]LB[aa:PASS]
+(;B[ca]LB[aa:PASS];W[bc]C[There is a BLACK STONE on the 'PASS' position. Click on it if you wish to pass. The stone will come back later!FORCE]LB[aa:PASS]
+(;B[bb]LB[aa:PASS];W[cc]C[There is a BLACK STONE on the 'PASS' position. Click on it if you wish to pass. The stone will come back later!]LB[aa:PASS]
+(;B[cb]AW[cc]C[]LB[aa:PASS]
+(;AB[aa]W[ac]C[CHOICE];B[bb]C[];W[ab];B[cb];W[ba];B[aa];W[ab]
+(;B[bc]C[All is black now! You win by several pointsRIGHT])
+(;B[ca]C[Fancy, but also winning!RIGHT]))
+(;W[cc]C[White has passed, click 'PASS' if you wish to pass as well. The BLACK STONE on this point will come back later!CHOICE]LB[aa:PASS]
+(;B[aa]C[Clever to pass! You win by 2 points.RIGHT])
+(;AB[aa]B[ac]C[Why not 'PASS', you were 2 points ahead?]AB[aa];W[bc];B[cc];W[bc];B[bb];W[ab]
+(;B[cb];W[ba]C[A 3 point punishment for being overactive!])
+(;B[ba]C[NOTTHIS]))))
+(;B[aa];W[cb];AW[aa]AW[ab]B[ac]AB[ab]LB[aa:PASS]C[];W[cc]LB[aa:PASS]C[Clicking  'PASS' is the only option here; other moves are uselessFORCE];B[aa];W[cb];B[bc];W[cb];B[cc];W[cb];B[bb];W[ab]
+(;B[ba];W[bc]C[Seki and Jigo in all. Close but not good enough!])
+(;B[bc];W[ba]C[Seki and Jigo in all. Close but not good enough!]))
+(;B[ac]AB[aa];W[cb];B[bb];W[ba];B[ab]C[Seki, you lose by 4 points]))
+(;B[cb]C[]LB[aa:PASS];W[bb]C[There is a BLACK STONE on the 'PASS' position. Click on it if you wish to pass. The stone will come back later!FORCE]LB[aa:PASS]
+(;B[aa];W[ac];AW[ca]AW[cb]B[cc]AB[cb]LB[ca:PASS]C[];W[bc]C[There is a BLACK STONE on the 'PASS' position. Click on it if you wish to pass. The stone will come back later!]LB[ca:PASS]
+(;B[ca]C[];W[bb];B[ac];W[bb];B[bc];W[bb]C[FORCE];B[cb];W[ab]C[I need not show you the rest, do I?]
+(;B[ba];W[bc]C[I guess I do. You lose the lot!])
+(;B[bc]C[NOTTHIS]))
+(;B[bb]AB[aa]AB[ca];W[ac]
+(;B[bb];W[ab]
+(;B[ba];W[cb]C[Seki, white wins by 2!])
+(;B[cb]C[NOTTHIS])
+(;B[ca]C[Seki, white wins by 2]))
+(;B[cb];W[ba];B[bb];W[ab]C[Seki, white wins by 2!]))
+(;B[ac]AB[ca];W[bb];B[ba];W[cb]C[White kills all]))
+(;B[cc]AB[aa];W[ac];B[ba];W[cb]C[You had this position in mind?]))
+(;B[aa];W[cb]C[This is the quick way to defeat!]))
+(;B[aa]C[];W[cc]C[OK, White passes as well and you lose by the 3 komi points after 2 consequtive passes!]))
+(;W[cc]C[White has passed, click 'PASS' if you wish to pass as well. The BLACK STONE on this point will come back later!CHOICE]LB[aa:PASS]
+(;B[bb]AB[aa];W[ca]C['Passing' would not be a good option here]
+(;B[bb]AW[cc];W[ba];B[ab];W[aa]
+(;B[bb];W[ab];B[bb];W[ba]
+(;B[bc]C[Black wins the lot!];W[cb]
+(;B[ab]C[RIGHT])
+(;B[cc]C[This wins as wellRIGHT]))
+(;B[cb];W[ab]
+(;B[bc]C[RIGHT])
+(;B[ca]C[This wins as wellRIGHT]))
+(;B[ab]C[NOTTHIS])
+(;B[ac];W[cb]C[How did you succeed in losing this variation?])
+(;B[cc]C[NOTTHIS]))
+(;B[ab];W[bb];B[ab];W[bb]
+(;B[cb];W[ba];B[bc]C[Seki, but lost by 2 points!])
+(;B[ba];W[bc];B[cb]C[Seki, but lost by 2 points!])
+(;B[bc]C[NOTTHIS])))
+(;B[ba]AW[cc]C[];W[bb];B[ab];W[bb]
+(;B[cb];W[bc]C[Seki, you lose by one point!])
+(;B[bc]C[NOTTHIS]))
+(;B[ab]AW[cc]C[];W[bb];B[ba])
+(;B[aa]AW[cc];W[bb]
+(;B[ba];W[ab];B[ba];W[aa];B[ba];W[bb]
+(;B[bc];W[cb];B[ab]C[Seki, you lose by one point])
+(;B[cb];W[bc];B[ab]C[Seki, you lose by one point])
+(;B[ab]C[NOTTHIS]))
+(;B[ab]C[NOTTHIS])))
+(;B[ca]AB[aa];W[bb];B[ba];W[ab]AW[cc]C[You are 7 points behind, so you'd better play a moveFORCE]
+(;B[aa]AW[cc]C[NOTTHIS])
+(;B[ca]AW[cc]AB[ca];W[cc]C[White has passed because he is ahead.You must go on];B[aa];W[bb]
+(;B[ab];W[cb];B[bc];W[ac];B[ab];W[ba]C[You lose everything])
+(;B[cb]C[NOTTHIS])
+(;B[bc]C[NOTTHIS])))
+(;B[aa]C[OK, You lose by the 3 komi points after 2 consequtive passes!])))
+(;B[bb];W[ba]C[Down and out!])
+(;B[ca];W[ba]C[2 eyes (for me)!]))

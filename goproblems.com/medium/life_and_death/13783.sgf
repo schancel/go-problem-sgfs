@@ -1,0 +1,77 @@
+(;GE[life and death]DI[2k]DP[22]SO[DarkSycthe]CO[0]AW[io]AW[jo]AW[ko]AW[lp]AW[mq]AW[mr]AW[ms]AW[mp]AW[lo]AW[hp]AW[gq]AW[gs]AW[gr]AW[gp]AW[ho]AB[ip]AB[jp]AB[kp]AB[lq]AB[lr]AB[ls]AB[hq]AB[hr]AB[hs]C[Same position, different question. How many ways are there for white to kill black UNCONDITIONALLY? How many different first moves are there, to be specific. Note: the same move on a different side counts. For example, if l3 were to work, j3 would count as a different first move.]LB[gm:0]LB[hm:1]LB[im:2]LB[jm:3]LB[km:4]LB[lm:5]LB[mm:6]LB[in:7]LB[jn:8]LB[kn:9]AP[goproblems]
+(;W[gm]C[K2 works. Navigate solution for details.])
+(;W[hm]C[Navigate solution for details.])
+(;W[im]C[Navigate solution for details.])
+(;W[jm]C[Navigate solution for details.])
+(;W[km]C[Navigate solution for details.])
+(;W[lm];B[km]C[Correct! Now you can play around with solutions and variationsRIGHT]
+(;W[jr];B[jq]
+(;W[ks];B[kq]
+(;W[is]C[RIGHT])
+(;W[ir];B[is];W[iq]C[RIGHT])
+(;W[iq];B[ir];W[is];B[js]C[Not best.])
+(;W[kr];B[iq]
+(;W[is]C[RIGHT])
+(;W[ir];B[is];W[js]C[RIGHT])))
+(;W[is]C[NOTTHIS])
+(;W[kr];B[kq]
+(;W[ks])
+(;W[is]C[RIGHT])
+(;W[ir];B[iq]
+(;W[ks])
+(;W[is];B[ks];W[js]C[RIGHT]))
+(;W[iq];B[ir])
+(;W[js];B[ir]))
+(;W[ir]C[NOTTHIS])
+(;W[js]
+(;B[kr];W[ks]C[RIGHT])
+(;B[kq]
+(;W[iq];B[ir];W[is];B[iq];W[ks]C[RIGHT])
+(;W[ir];B[iq]
+(;W[kr]C[RIGHT])
+(;W[is]C[RIGHT])
+(;W[ks]C[RIGHT]))
+(;W[is];B[iq]
+(;W[ks]C[RIGHT])
+(;W[ir]C[RIGHT])
+(;W[kr]C[RIGHT])))))
+(;W[kq]
+(;B[jr];W[kr];B[jq];W[ks];B[js];W[ir]C[RIGHT])
+(;B[kr]
+(;W[jq]
+(;B[iq];W[jr]C[RIGHT])
+(;B[jr];W[iq];B[ir];W[js]C[RIGHT]))
+(;W[jr];B[jq];W[is];B[iq];W[ks];B[js]C[Not best.])
+(;W[iq];B[jq]
+(;W[ir];B[js];W[is];B[jr])
+(;W[jr];B[ir];W[js]C[seki])
+(;W[js];B[jr]))))
+(;W[kr]
+(;B[kq]
+(;W[ir];B[iq]
+(;W[jr];B[js]
+(;W[ks]C[RIGHT])
+(;W[is]C[RIGHT]))
+(;W[js];B[jr];W[jq]C[Ko. Could be better.]))
+(;W[jr];B[ir]
+(;W[js];B[jq])
+(;W[jq];B[js])
+(;W[iq];B[jq])
+(;W[ks];B[js];W[is]C[Ko. Not best.]))
+(;W[iq];B[ir]
+(;W[jr];B[jq])
+(;W[ks];B[jq])))
+(;B[jr];W[kq];B[jq];W[ks];B[js];W[ir]C[RIGHT]))
+(;W[jq];B[jr])
+(;W[js];B[jr]
+(;W[kr]
+(;B[kq];W[ir];B[iq]))
+(;W[ir];B[iq];W[kr];B[kq]))
+(;W[ks];B[jr])
+(;W[ir]C[NOTTHISRIGHT])
+(;W[iq]C[NOTTHISRIGHT])
+(;W[is];B[jr]))
+(;W[mm]C[Navigate solution for details.])
+(;W[in]C[Navigate solution for details.])
+(;W[jn]C[Navigate solution for details.])
+(;W[kn]C[Navigate solution for details.]))

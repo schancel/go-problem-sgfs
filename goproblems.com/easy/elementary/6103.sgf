@@ -1,0 +1,14 @@
+(;GE[elementary]DI[20k]DP[73]SO[santa c]CO[8]AB[qs]AB[pr]AB[pq]AB[pp]AB[qp]AB[ro]AB[so]AB[qo]AB[sn]AB[qn]AB[po]AW[pn]AW[oo]AW[qm]AW[rn]AW[rm]AW[sm]AW[om]AW[oq]AW[op]AW[or]AW[ps]AW[os]C[W to move.]AP[goproblems]
+(;W[qr]C[Well done! Capturing the stone, reduces the black groups eye space and kills it!RIGHT])
+(;W[rr];B[qr];W[rq];B[sr]
+(;W[sq];B[rs]C[Ko... :(])
+(;W[rs];B[sq]C[:(])
+(;W[rp];B[sq]C[:(]))
+(;W[rq];B[rr]C[:(])
+(;W[rs];B[qr]C[:(]
+(;W[rq]
+(;B[sr]C[:(]TR[rr]TR[sq])
+(;B[rr];W[sr];B[sp];W[sq];B[ss]MA[rs]C[:(]))
+(;W[rr];B[rq]C[:(]))
+(;W[sr];B[rr]C[:(])
+(;W[sq];B[rr]C[:(]))

@@ -1,0 +1,70 @@
+(;GE[life and death]DI[5d]DP[4]SO[adum]CO[7]GM[1]FF[3]
+CA[UTF-8]SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]
+PW[]
+PB[]
+AW[rr][qr][pq][nr][or][mq][mp][np]AB[nq][oq][op][po][qp][qq]AW[qm]
+AB[qn]AW[rm]AB[on][no]AW[nl]AB[nm]AW[ol][om]C[best move for black?]
+(;B[ml]CR[ml];W[mm]CR[mm]C[oh no, white cuts!]
+(;B[lm]CR[lm];W[mn]CR[mn]
+(;B[mo]CR[mo];W[ln]CR[ln]
+(;B[lo]CR[lo];W[kn]CR[kn]
+(;B[lq]CR[lq]
+C[RIGHT
+black is out and is about to punish the low white group])
+
+(;B[lp]CR[lp]LB[lq:A]C[better shape at A])
+
+(;B[km]CR[km];W[lp]CR[lp];B[ko]CR[ko];W[jn]CR[jn]
+C[you've helped white here])
+
+(;B[nn]CR[nn]C[too slow. white is out and will help his low group now])
+)
+
+(;B[nn]CR[nn];W[lo]CR[lo])
+
+(;B[lp]CR[lp];W[lo]CR[lo])
+)
+
+(;B[nn]CR[nn];W[mo]CR[mo]C[not good])
+
+(;B[ln]CR[ln];W[mo]CR[mo]C[bad])
+)
+
+(;B[mn]CR[mn];W[lm]CR[lm]C[this isn't terrible, but black has better])
+
+(;B[mo]CR[mo];W[lm]CR[lm]C[not great])
+
+(;B[ln]CR[ln];W[mo]CR[mo];B[mn]CR[mn];W[nn]CR[nn]
+C[not a great ko for black])
+)
+
+(;B[mm]CR[mm];W[ml]CR[ml]C[slow])
+
+(;B[mn]CR[mn]C[slow];W[lm]CR[lm]C[not great])
+
+(;B[mo]CR[mo];W[lo]CR[lo]C[too easy on white])
+
+(;B[ln]CR[ln]C[too many weaknesses make this move ineffective])
+
+(;B[lm]CR[lm];W[ml]C[black can do better
+])
+
+(;B[lo]CR[lo];W[mo]CR[mo]C[bad shape for black])
+
+(;B[kn]CR[kn]C[this is asking too much])
+
+(;B[pm]CR[pm];W[pl]CR[pl]C[this move only reinforces white])
+
+(;B[rn]CR[rn]C[wrong direction: must move out])
+
+(;B[rq]CR[rq]C[wrong direction: must move out])
+
+(;B[ro]CR[ro]C[wrong direction, must move out])
+
+(;B[pp]CR[pp];W[pr]CR[pr]C[just reinforces white])
+
+(;B[mr]CR[mr];W[lr]CR[lr]C[this does not help black])
+
+(;B[pr]CR[pr];W[ps]CR[ps]C[too early])
+
+)

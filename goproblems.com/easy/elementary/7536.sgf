@@ -1,0 +1,30 @@
+(;GE[elementary]DI[7k]DP[41]SO[santa c]CO[5]AB[jc]AB[kc]AW[kd]AW[jd]AW[id]AW[ic]AW[gd]AW[hd]AW[ge]AB[ib]AB[ld]AB[le]AB[fc]AB[fd]AB[fe]AB[gf]AB[gg]AW[hf]AW[hg]AW[ih]AW[jh]AW[kh]AW[ii]AW[hi]AB[gh]AB[gi]AW[mf]AB[lh]AB[he]AB[ie]AB[je]AB[ke]AW[lc]AW[mc]AW[md]AW[me]AB[lf]AW[mg]AW[lg]AB[li]AB[hk]AB[hj]AB[jg]AB[kg]AB[gk]C[How can White connect his stones out?]AW[ij]AB[ik]AB[ji]AB[jj]AB[kk]AB[kj]AP[goproblems]
+(;W[jf]
+(;B[hc]
+(;W[if];B[gc];W[kf]C[Well done! :)RIGHT])
+(;W[ig];B[gc];W[kf]C[Well done! :)RIGHT])
+(;W[kf];B[if]C[:(]))
+(;B[kf];W[if]C[RIGHT])
+(;B[if];W[ig]C[RIGHT])
+(;B[ig];W[if]C[RIGHT]))
+(;W[if];B[hc]
+(;W[jf]
+(;B[gc];W[kf]C[Well done! :)RIGHT])
+(;B[kf];W[ig]C[RIGHT]))
+(;W[ig];B[gc]C[:(])
+(;W[kf];B[jf]C[:(]))
+(;W[ig];B[hc]
+(;W[jf]
+(;B[gc];W[kf]C[Well done! :)RIGHT])
+(;B[kf];W[if]C[RIGHT])
+(;B[if];W[kf]C[RIGHT]))
+(;W[if];B[gc]C[:(])
+(;W[kf];B[jf]C[:(]))
+(;W[kf];B[jf]C[:(])
+(;W[hb];B[hc]
+(;W[jf];B[kf]C[:(])
+(;W[if];B[jf]C[:(])
+(;W[kf];B[jf]C[:(])
+(;W[ig];B[jf]C[:(])
+(;W[gc];B[gb]C[:(]))
+(;W[jb]C[NOTTHISRIGHT]))

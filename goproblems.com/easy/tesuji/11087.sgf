@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Field Mouse]CO[0]AB[rn]AB[qn]AB[pn]AB[rm]AW[rl]AW[sm]AW[qm]AW[ql]AW[pm]AW[qk]AW[qj]AW[ri]AW[sj]AB[si]AB[sh]AB[rh]AB[qh]AB[ph]AB[pi]AB[rk]AB[pj]AB[pk]AB[pl]AB[ol]AB[om]AW[on]AW[oo]AW[pp]AW[rp]AW[qp]MA[sm]C[White just played the marked stone. What will you do in the game?]AP[goproblems]
+(;B[sn];W[sk]C[White creates many steps ko, but you could do better.])
+(;B[qi];W[sk];B[sn]C[Many steps ko, you could do better.])
+(;B[sk];W[sn];B[so]C[Correct, T9 was the right shape!RIGHT])
+(;B[sl];W[sk];B[sn]C[A few steps ko, you could do better.])
+(;B[rj];W[sk];B[sn];W[so];B[qi];W[ro];B[rj];W[qo]C[Direct ko, you could do much better.]))

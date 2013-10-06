@@ -1,0 +1,39 @@
+(;GE[best move]DI[5d]DP[6]SO[randomly_anonymous]CO[0]AB[bc]AB[bd]AB[cc]AB[dc]AB[ec]AB[fb]AB[gc]AB[hb]AB[hd]AW[be]AW[cf]AW[cd]AW[dd]AW[ed]AW[fd]AW[fc]AW[gd]AW[he]AW[jd]AW[jf]AB[ld]AB[lf]AW[lb]AW[mc]AW[nb]AW[oc]AW[pc]AW[qc]AW[rb]AB[rc]AB[rd]AB[qd]AB[pd]AB[od]AB[nd]AB[nc]AB[kh]AB[li]AB[lj]AB[kj]AB[jk]AB[jl]AB[jm]AB[jn]AB[jo]AB[jp]AB[im]AW[hm]AW[hn]AW[in]AB[gm]AW[il]AW[ik]AW[ij]AW[jj]AW[ji]AW[ki]AB[fn]AW[fm]AW[fl]AW[dj]AB[dr]AW[cq]AB[cp]AB[co]AW[dp]AW[cn]AW[dn]AW[do]AW[eq]AW[fq]AW[fr]AW[fs]AB[fp]AB[gp]AB[gq]AB[gr]AB[gs]AB[hs]AB[ir]AB[jr]AW[jq]AW[hq]AW[hr]AW[hp]AW[ip]AB[pj]AB[rj]AW[rk]AW[sl]AW[rm]AW[rn]AW[ro]AW[sn]AW[qp]AW[qq]AW[qr]AW[pr]AB[or]AB[nq]AB[pq]AB[pp]AB[qo]AB[qn]AB[qm]AB[rl]AB[ql]C[Black to win the game.]AP[goproblems]
+(;B[dq]C[CHOICE]
+(;W[cr]
+(;B[ep];W[ds])
+(;B[bq];W[br]
+(;B[ep];W[ds])
+(;B[er];W[ds])
+(;B[cs];W[er])
+(;B[bn];W[bp]))
+(;B[br]C[CHOICE]
+(;W[bq]C[CHOICE]
+(;B[cs]
+(;W[bo];B[ep]
+(;W[er];B[ds];W[ar];B[bs]C[CHOICERIGHT])
+(;W[bp]C[CHOICE]
+(;B[es]C[RIGHT])
+(;B[er]C[RIGHT])))
+(;W[ep];B[bp]C[RIGHT]))
+(;B[bp];W[cs]))
+(;W[ep]C[CHOICE];B[bq]C[RIGHT])
+(;W[ds]C[CHOICE];B[bq];W[er]
+(;B[bo]
+(;W[ap];B[bs]
+(;W[ao];B[bn];W[bm];B[an];W[am];B[bp]C[CHOICERIGHT])
+(;W[bn];B[ao];W[an];B[bp]C[CHOICERIGHT]))
+(;W[bs];B[ap];W[ar];B[bn]C[CHOICERIGHT]))
+(;B[bn];W[bm];B[bo];W[ap]
+(;B[bs];W[an]
+(;B[ao];W[bp]C[-.-''CHOICE])
+(;B[bp];W[ao];B[aq]C[One eyeCHOICE]))
+(;B[ao];W[bs];B[ar]C[One eyeCHOICE])))
+(;W[bp]C[CHOICE];B[cs];W[bq];B[ep];W[er];B[es]C[RIGHT]))
+(;B[er];W[ep]C[Nope]))
+(;W[ep];B[bq]C[RIGHT]))
+(;B[bq];W[dq]
+(;B[cr];W[ar]C[Dead])
+(;B[br];W[bn];B[bp];W[cr];B[cs]C[Dead]))
+(;B[cr];W[bq]C[Nope])
+(;B[ep];W[dq]C[Nope]))

@@ -1,0 +1,19 @@
+(;GE[life and death]DI[3k]DP[26]SO[liopic]CO[0]SZ[19]AW[aq]AW[cq]AW[dq]AW[br]AW[er]AB[bo]AB[bp]AB[cp]AB[ep]AB[bq]AB[eq]AB[gq]AB[hq]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[fr];W[cs]
+(;B[es];W[dr])
+(;B[dr];W[es];B[fs];W[ds]))
+(;B[cs];W[cr]
+(;B[ds];W[fr]
+(;B[ar];W[gr];B[hr];W[gs];B[es];W[as];B[dr]C[RIGHT])
+(;B[gr];W[ar]
+(;B[bs];W[fs]
+(;B[gs];W[dr]C[Seki])
+(;B[dr];W[es];B[fq];W[as]))
+(;B[fs];W[es]
+(;B[bs]C[RIGHT])
+(;B[fq];W[dr];B[bs]C[RIGHT]))))
+(;B[es];W[ds]C[Ko is not enough]))
+(;B[ds];W[cs]
+(;B[fr];W[dr])
+(;B[dr];W[es]))
+(;B[ar];W[cs];B[ap];W[fr];B[bs]C[Ko is not enough]))

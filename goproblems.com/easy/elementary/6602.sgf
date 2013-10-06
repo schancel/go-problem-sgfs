@@ -1,0 +1,8 @@
+(;GE[elementary]DI[12k]DP[58]SO[maba]CO[7]AB[pc]AB[pe]AB[ob]AB[na]AB[mb]AB[lb]AB[lc]AB[kc]AB[ka]AW[ja]AW[ia]AW[ib]AW[ic]AW[jc]AW[kb]AW[jd]AW[kd]AW[ld]AB[je]AB[ke]AB[he]AW[mc]AW[nc]AW[nb]AW[me]LB[kb:1]C[White just captured a black stone with 1. Should black defend at A, B or C?FORCE]LB[la:A]LB[ma:B]LB[oa:C]AP[goproblems]
+(;B[la];W[ma])
+(;B[ma];W[la]
+(;B[oa]C[RIGHT])
+(;B[ka]C[NOTTHIS]))
+(;B[oa];W[ma]
+(;B[la];W[ma])
+(;B[jb]C[ko. This is not the best defence.])))

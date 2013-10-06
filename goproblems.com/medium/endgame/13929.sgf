@@ -1,0 +1,15 @@
+(;GE[endgame]DI[3k]DP[27]SO[pepi]CO[0]SZ[5]AB[ca]AB[cb]AB[db]AB[dc]AB[dd]AB[ee]AW[ec]AW[ab]AW[bb]AW[ba]AW[cc]AW[bc]AW[be]AW[ce]C[5x5 endgame problem. Japanese rules, no komi. Black to do better than jigo.]AP[goproblems]
+(;B[cd];W[bd]
+(;B[ed]C[Neat. Black wins by 1 point.RIGHT])
+(;B[de];W[eb]C[Now, you have to play E5 or you'll get killed by a bent-four-in-the-corner, but...FORCE];B[ea];W[da]C[...Black is killed anyway, since there're no ko threats.])
+(;B[eb];W[de]))
+(;B[de]
+(;W[cd]C[Please play E4.CHOICEFORCE];B[eb]C[Black must add this stone or he'll get killed, the score is now only jigo.])
+(;W[eb]C[CHOICE]
+(;B[cd];W[bd]C[Now, you have to play E5 or you'll get killed by a bent-four-in-the-corner, but...])
+(;B[ea];W[cd];B[ed]C[Only jigo.])))
+(;B[eb];W[de]
+(;B[cd];W[bd];B[ed]C[Jigo, you have to do better.])
+(;B[ed];W[cd]C[White wins by 1 point.]))
+(;B[ed];W[cd]C[Close, but it's only a jigo.])
+(;B[ad];W[cd]C[Now Black cannot do better than jigo.]))

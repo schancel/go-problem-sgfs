@@ -1,0 +1,12 @@
+(;GE[elementary]DI[12k]DP[59]SO[marwin]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[pl][nm][qm][rm][nn][pn][no][qo][op][pp][pq][qr][rr]AB[pm][qn][ro][np][qp][nq][oq][qq][pr]C[Black to live]
+(;B[oo]CR[oo]
+;W[po]CR[po]
+;B[on]CR[on]C[RIGHT])
+(;B[po]CR[po]
+;W[oo]CR[oo]
+(;B[on]CR[on]
+;W[or]CR[or]C[Black is dead])
+(;B[or]CR[or]
+;W[qo]CR[qo]C[ko])))

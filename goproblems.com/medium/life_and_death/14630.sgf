@@ -1,0 +1,52 @@
+(;GE[life and death]DI[2k]DP[21]SO[Piccolo]CO[0]TR[dp]AW[cn]AB[cp]AB[ep]AB[gq]AW[ck]AB[jq]C[White just played at A. Please play a few moves as indicated.FORCE]AW[dq]LB[dq:A]AP[goproblems];B[dp];W[fr]TR[gr]C[FORCE];B[gr];W[fq]TR[fp]C[FORCE];B[fp];W[cq]C[Now kill all marked stones unconditionally. Let me know if you find something wrong.]MA[cq]MA[dq]MA[fq]MA[fr]
+(;B[bq];W[br]
+(;B[bp]
+(;W[ar]C[CHOICE]
+(;B[ds];W[es]
+(;B[er]
+(;W[fs]C[]
+(;B[eq]C[Well done.RIGHT])
+(;B[gs];W[eq];B[cr]C[RIGHT])
+(;B[cr];W[eq];B[gs]C[RIGHT])))
+(;B[eq];W[dr];B[cs];W[er];B[bs]C[RIGHT])
+(;B[dr];W[eq]
+(;B[cr];W[bs];B[aq]C[RIGHT])
+(;B[er];W[cr];B[fs];W[cs]))
+(;B[cr];W[dr];B[eq];W[cs])
+(;B[cs];W[eq];B[bs];W[dr]))
+(;B[fs];W[ds];B[cs];W[cr]
+(;B[bs];W[er]C[])
+(;B[er];W[eq];B[bs];W[dr]C[]))
+(;B[eq];W[er];B[fs];W[ds]C[])
+(;B[er];W[eq];B[fs];W[dr];B[ds];W[es]C[Ko])
+(;B[es];W[er];B[fs];W[ds]C[])
+(;B[dr];W[cr]
+(;B[fs];W[er]C[])
+(;B[er];W[eq];B[fs];W[ds]C[]))
+(;B[cs];W[cr]
+(;B[er];W[eq];B[fs];W[dr]C[])
+(;B[ds];W[fs];B[eq];W[er]C[Seki])))
+(;W[dr]
+(;B[fs];W[es]
+(;B[cs]
+(;W[eq];B[bs];W[ar];B[cr]C[Nice damezumari. White cannot get an eye around H1 after G1, A3.RIGHT]))
+(;B[eq]
+(;W[cs];B[er];W[ar];B[ds]C[Ko.])))
+(;B[ar];W[cs]TR[cr]TR[ds]C[Two eyes (at least by ko).])
+(;B[eq];W[er];B[cs];W[ar];B[bs];W[fs]C[Miai seki - life.]MA[cr]MA[ds])
+(;B[cs]C[Also possible - but the hane is more direct.RIGHT]))
+(;W[cs];B[dr]MA[ar]MA[eq]C[RIGHT])
+(;W[cr];B[er]MA[ar]MA[eq]C[RIGHT])
+(;W[eq];B[ar]MA[cr]MA[fs]C[RIGHT])
+(;W[er];B[ar]MA[cr]MA[ds]C[RIGHT])
+(;W[es];B[dr]MA[eq]MA[ar]C[RIGHT])
+(;W[bs];B[ds]MA[fs]MA[eq]MA[ar]C[RIGHT])
+(;W[ds];B[eq];W[er];B[cr];W[dr];B[ar]C[RIGHT]))
+(;B[aq];W[ar];B[bp];W[ds]C[])
+(;B[ap]C[NOTTHIS])
+(;B[bo]C[NOTTHIS]))
+(;B[er];W[bp];B[bo];W[bq];B[co];W[eq];B[fs];W[dr]C[])
+(;B[bp];W[bq]C[Thanks to c6 (and even without c6 ?) this shape should be alive. One example follows.];B[fs];W[ap];B[bo];W[er];B[bs];W[cr]
+(;B[ds];W[es];B[eq];W[dr];B[cs]
+(;W[ar]C[Seki.]))
+(;B[es];W[ds];B[gs];W[eq];B[cs]C[Ko.])))

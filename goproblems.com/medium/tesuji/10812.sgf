@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[1k]DP[19]SO[gorka]CO[4]AB[cq]AB[do]AW[dr]AW[eq]AW[dq]AW[fp]AB[er]AB[fr]AB[gq]AB[gp]AB[hp]AB[ho]AB[ip]AW[io]AW[jo]AW[jp]AW[jq]AB[ir]AB[is]AB[js]AW[jr]AW[ks]AW[lr]C[Black played this sequence to live by capturing G5, or by killing the f4 group. Is it better to live in the corner (A) ? or prevent the huge ponuki (B) ?]AW[go]AW[hn]LB[ho:1]LB[hn:2]AB[fo]LB[fo:3]LB[cp:A]LB[gn:B]AP[goproblems]
+(;W[gn];B[ep];W[fq]
+(;B[cp]
+(;W[gr]
+(;B[gs]
+(;W[hr];B[hs]
+(;W[es];B[hq]
+(;W[ds];B[cr]C[]
+(;W[fs]C[correct, nice tesuji, isn't it ?RIGHT])
+(;W[iq];B[cs]C[wrong :(])
+(;W[gr]C[correct :)RIGHT]))
+(;W[gr];B[hr];W[ds]C[correct :)RIGHT]))
+(;W[iq];B[hq];W[es];B[cr]C[wrong])
+(;W[ds];B[hq]
+(;W[es])
+(;W[gr];B[hr];W[es]C[correct :)RIGHT])))
+(;W[iq];B[hr]
+(;W[hq];B[gr];W[es];B[cr]C[wrong])
+(;W[es];B[hq]C[wrong])))
+(;B[hr]
+(;W[gs];B[hs]
+(;W[iq];B[fs];W[gr];B[gs];W[hq]C[correct :)RIGHT])
+(;W[hq];B[fs]
+(;W[iq];B[gr];W[ds]C[correct, nice tesuji, isn't it ?RIGHT])
+(;W[gr];B[iq]C[wrong])))
+(;W[iq];B[gs])))
+(;W[cr];B[br];W[gr];B[gs];W[hr];B[hs]
+(;W[es];B[hq]
+(;W[ds];B[dp]C[wrong !])
+(;W[iq]))
+(;W[iq];B[hq];W[es];B[cs]))
+(;W[es];B[gr]C[wrong, white can't live.]TR[fp]TR[fq]TR[eq]TR[dq]TR[dr]TR[es])))
+(;W[cp]C[];B[gn]C[wrong, white can save the both :(]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[15k]DP[60]SO[Kos]CO[0]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+SQ[ei]AW[fe][df][ef][ff][cg][fg][bh][ch][bi][fi]AB[ge][gf][dg][eg][gg][dh][fh][ci][di]TR[fi]C[White has just played the marked stone. This is a mistake, since the squared move kills 5 black stones on the left.
+
+How will you connect?]
+(;B[eh]
+;W[gh]
+(;B[gi]
+;W[hi])
+(;B[hh]
+;W[ei]C[Not good.])
+(;B[hi]
+;W[ei]C[Not good.]))
+(;B[ei]
+;W[eh]C[Exactly according to W's plan :)])
+(;B[gh]
+;W[eh]
+(;B[gi]
+;W[ei]C[You could have saved the left side.])
+(;B[ei]
+;W[eh]C[Exactly according to W's plan :)]))
+(;B[gi]
+(;W[ei]C[CHOICE]
+(;B[eh]C[RIGHT
+Correct!])
+(;B[gh]
+;W[eh]C[Whoops!]))
+(;W[eh]C[CHOICE]
+(;B[gh]
+;W[ei]C[Whoops!])
+(;B[ei]C[RIGHT
+That's it!]))))

@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[8k]DP[46]SO[chrise]CO[8]AB[ca]AB[cb]AB[cc]AB[dd]AB[ed]AB[fc]AB[fb]AB[gc]AB[hb]AB[ha]AB[de]AB[df]AB[cf]AB[cg]AB[dh]AW[da]AW[eb]AW[ec]AW[dc]AW[fa]AW[bc]AW[bb]AW[cd]AW[ce]AW[bf]AW[bg]AW[bh]AW[ch]C[Black to punish white]AP[goproblems]
+(;B[ba];W[ab]C[CHOICE];B[bd];W[be]
+(;B[ga]C[];W[ad];B[ea]C[koRIGHT])
+(;B[ad]C[Not the best, but...];W[ae];B[ga];W[ac];B[ea]C[koRIGHT]))
+(;B[ga];W[ba]
+(;B[ea];W[db]C[Black can do much better])
+(;B[bd];W[db]))
+(;B[bd];W[be]
+(;B[ba];W[ad]
+(;B[ab])
+(;B[ga];W[ab];B[ea]C[koRIGHT]))
+(;B[ga];W[ba];B[ea];W[db]C[Black can do much better]))
+(;B[be];W[bd]
+(;B[ga];W[ba];B[ea];W[db]C[Black can do much better])
+(;B[ba];W[ab];B[ga];W[aa];B[ea];W[db]C[Black can do much better])))

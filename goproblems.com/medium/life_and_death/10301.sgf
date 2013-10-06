@@ -1,0 +1,52 @@
+(;GE[life and death]DI[2k]DP[21]SO[MeleeNewb]CO[9]AB[aq]AB[dq]AB[eq]AB[fr]AB[fs]AB[fq]AB[bp]AB[cp]AB[cq]AW[ap]AW[ao]AW[bo]AW[co]AW[dp]AW[ep]AW[fp]AW[gq]AW[gr]AW[gs]AW[en]AW[ho]C[Does black need to play another stone here? Yes or no?FORCE]LB[iq:Yes]LB[kq:No]AP[goproblems]
+(;B[iq]AB[cp]AB[bp]AB[aq];W[kq]AW[aq]AW[bp]AW[cp]AW[cq]AW[dq]AW[eq]AW[fq]AW[fr]AW[fs]AB[bo]AB[ao]AB[ap]AB[co]AB[en]AB[dp]AB[ep]AB[fp]AB[gq]AB[gr]AB[gs]AB[ho]C[Is that so? Please demonstrate.];B[br];W[bq]
+(;B[ds];W[cr];B[cs];W[bs];B[as];W[ar];B[bs];W[es])
+(;B[dr];W[cr];B[cs];W[bs];B[as];W[ar])
+(;B[cr];W[dr]
+(;B[ds];W[es];B[cs];W[ar])
+(;B[ar];W[cs]
+(;B[ds];W[es];B[bs];W[as])
+(;B[bs];W[as])))
+(;B[cs];W[cr]
+(;B[ds];W[bs];B[as];W[ar];B[bs];W[es])
+(;B[dr];W[bs];B[as];W[ar])
+(;B[bs];W[ds])))
+(;B[kq];W[iq]C[No? Then defend yourself.]AW[br];B[bq]
+(;W[ds]
+(;B[dr];W[cs];B[es];W[ar]
+(;B[bs];W[as]C[Seki :(])
+(;B[cr];W[er])
+(;B[as];W[bs]C[Seki :(]))
+(;B[cr];W[cs];B[bs];W[as];B[ar];W[bs]C[CHOICE]
+(;B[dr]C[Good job!RIGHT])
+(;B[es]C[Good job!RIGHT])
+(;B[er]C[Stop joking around.]))
+(;B[bs];W[cr];B[ar];W[cs]
+(;B[es];W[as])
+(;B[dr];W[as]))
+(;B[cs];W[cr];B[dr];W[bs];B[es];W[ar])
+(;B[ar];W[cs]
+(;B[cr];W[bs]
+(;B[es];W[dr])
+(;B[dr];W[es]))
+(;B[bs];W[cr])
+(;B[dr];W[es])
+(;B[es];W[dr]))
+(;B[es];W[dr];B[cr];W[cs]
+(;B[bs];W[as])
+(;B[ar];W[bs])))
+(;W[dr]
+(;B[cr];W[cs]
+(;B[bs];W[as];B[ar]C[Good job!CHOICERIGHT])
+(;B[ds];W[es]
+(;B[er];W[ar])
+(;B[bs];W[as]))
+(;B[ar];W[bs]
+(;B[er];W[ds])
+(;B[ds];W[es])
+(;B[as];W[ds])))
+(;B[ar];W[bs]
+(;B[cr];W[cs]
+(;B[er];W[ds])
+(;B[ds];W[es]))
+(;B[ds];W[cr];B[er])))))

@@ -1,0 +1,9 @@
+(;GE[life and death]DI[4k]DP[28]SO[remembered]CO[0]AB[np]AB[no]AB[oo]AB[pp]AB[pq]AB[qq]AB[qr]AB[om]AB[qm]AB[ql]AB[rl]AB[rk]AB[mr]AW[op]AW[oq]AW[or]AW[nr]AW[pr]AW[os]AW[rq]AW[po]AW[qo]AW[qn]AW[rm]C[W to save marked W stone.It's mistake for W to let B play triangle stone but you can still save marked white stone.]SZ[19]AB[nq]MA[os]MA[or]MA[pr]MA[op]MA[oq]MA[nr]TR[qr]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1];W[rr];B[rs]C[B want to play ko.]
+(;W[qs];B[ps]C[Yes. this is unavoidable ko but you should make B to find the first ko threat : Credit to Bass.RIGHT])
+(;W[qp]C[If you want to capture];B[qs]
+(;W[sr];B[rp]
+(;W[sp];B[ms]C[W can not push at T1 now so W marked stone is dead.])
+(;W[ro];B[ms]C[W can not push at T1 now so W marked stone is dead.]))
+(;W[ss];B[sr];W[sq];B[rp]C[B capture.];W[ss]C[Credit to BASS.If black wins the other ko, white is dead as a whole. Therefore white should choose this ko, where she gets to take first.RIGHT])
+(;W[ms]C[NOTTHIS]))
+(;W[ss]C[];B[sr];W[sq];B[rp];W[ss]C[this variation Credit to Briv];B[qs];W[qp];B[sr]C[[Credit to Blyx]))

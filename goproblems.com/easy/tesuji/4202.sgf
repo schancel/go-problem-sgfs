@@ -1,0 +1,57 @@
+(;GE[tesuji]DI[10k]DP[50]SO[DavidPi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.50]
+PW[White]PB[Black]AW[ea][ga][ha][db][fb][gb][dc][fc][hc][ad][ed][ae][be][ee][fe][ie][af][bf][cf][df][ef][if][bg][eg][fg][ig][fh][hh][fi][gi]AB[ca][da][bb][cb][hb][ib][ac][cc][gc][bd][cd][dd][fd][gd][hd][id][ce][de][ge][he][ff][gf][ag][cg][dg][gg][hg][ah][bh][dh][eh][gh][ai][ci][ei]CR[ga]
+(;B[ic]CR[ic]
+;W[ia]CR[ia]
+(;B[ec]CR[ec]
+;W[eb]CR[eb]C[RIGHT
+Black makes seki. H1 and J2 are miai.])
+(;B[ih]CR[ih]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[eb]CR[eb]C[RIGHT
+black makes seki])
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[eb]CR[eb]C[RIGHT
+black makes seki]))
+(;B[ec]CR[ec]
+;W[eb]CR[eb]
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[ic]CR[ic]
+;W[ia]CR[ia]C[RIGHT
+Black makes seki])
+(;B[ih]CR[ih]
+;W[ii]CR[ii]
+;B[ic]CR[ic]
+;W[ia]CR[ia]C[RIGHT
+Black gets seki])
+(;B[ic]CR[ic]
+;W[ia]CR[ia]C[RIGHT
+Black makes seki. H1 and J2 are miai.]))
+(;B[ih]CR[ih]
+;W[ii]CR[ii]
+(;B[ic]CR[ic]
+;W[ia]CR[ia]
+;B[ec]CR[ec]
+;W[eb]CR[eb]C[RIGHT
+black makes seki])
+(;B[ec]CR[ec]
+;W[eb]CR[eb]
+;B[ic]CR[ic]
+;W[ia]CR[ia]C[RIGHT
+black makes seki]))
+(;B[hi]CR[hi]
+;W[ii]CR[ii]
+(;B[ec]CR[ec]
+;W[eb]CR[eb]
+;B[ic]CR[ic]
+;W[ia]CR[ia]C[RIGHT
+Black gets seki])
+(;B[ic]CR[ic]
+;W[ia]CR[ia]
+;B[ec]CR[ec]
+;W[eb]CR[eb]C[RIGHT
+black gets seki])))

@@ -1,0 +1,56 @@
+(;GE[life and death]DI[4d]DP[8]SO[santa c]CO[7]AB[rs]AB[rr]AB[rq]AB[sp]AB[ro]AB[qo]AB[pn]AB[pm]AB[ql]AW[qn]AW[qj]AW[qk]AW[pk]AW[ol]AW[nm]AW[no]AW[po]AW[pp]AW[rp]AW[qp]AW[pr]C[White to kill.]SZ[19]
+(;W[sk]
+(;B[sm]
+(;W[rm];B[rl];W[sn]
+(;B[sl];W[rn]C[Well done! Can't connect at T5.  CHOICERIGHT])
+(;B[qm];W[sl];B[rn];W[sm]C[Well done! The eye at R6's fake.  CHOICERIGHT]))
+(;W[sn];B[rn];W[rm];B[qm]
+(;W[rl]C[Well done! The eye at R6's fake. RIGHT])
+(;W[sl]C[Well done! The eye at R6's fake. RIGHT])))
+(;B[rl];W[sl]
+(;B[sm];W[sn]C[Would kill.RIGHT])
+(;B[rm];W[rn];B[so];W[sn];B[sq];W[sm]C[Would kill.RIGHT])
+(;B[rn];W[rm]C[Would kill.RIGHT])
+(;B[sn];W[rn];B[so];W[sm];B[sq];W[rm]C[Would kill.RIGHT]))
+(;B[rm];W[rn];B[so];W[sn];B[sq];W[sm];B[rk];W[rj]C[Would kill.RIGHT])
+(;B[sn];W[rn];B[so];W[sm];B[sq];W[rm]C[Would kill.RIGHT])
+(;B[rn];W[rm]
+(;B[rl];W[sl]C[Would kill.RIGHT])
+(;B[qm];W[rl]C[Would kill.RIGHT])))
+(;W[rk];B[rm]C[Black keeps his 2nd eye.])
+(;W[rl];B[rm]C[Black keeps his 2nd eye.])
+(;W[sl];B[rm]C[Black keeps his 2nd eye.])
+(;W[rm];B[rl]C[Black keeps his 2nd eye.])
+(;W[sm];B[rm]C[Black keeps his 2nd eye.])
+(;W[rn];B[so]
+(;W[sn];B[sq]
+(;W[rl];B[rm]C[Black keeps his 2nd eye.])
+(;W[sl];B[rm]C[Black keeps his 2nd eye.])
+(;W[rk];B[sm]C[Black keeps his 2nd eye.])
+(;W[sk];B[sm]C[Black keeps his 2nd eye.])
+(;W[rm];B[rl]C[Black keeps his 2nd eye.])
+(;W[sm];B[rl]C[Black keeps his 2nd eye.]))
+(;W[sq]C[NOTTHIS])
+(;W[rl];B[rm]C[Black keeps his 2nd eye.])
+(;W[rk];B[rm]C[Black keeps his 2nd eye.])
+(;W[sl];B[rm]C[Black keeps his 2nd eye.])
+(;W[sk];B[sm]C[Black keeps his 2nd eye.])
+(;W[sm];B[rm]C[Black keeps his 2nd eye.]))
+(;W[sn];B[so]
+(;W[rn];B[sq]
+(;W[rl];B[rm]C[Black keeps his 2nd eye.])
+(;W[sl];B[rm]C[Black keeps his 2nd eye.])
+(;W[rk];B[sm])
+(;W[sk];B[sm]C[Black keeps his 2nd eye.])
+(;W[rm];B[rl]C[Black keeps his 2nd eye.])
+(;W[sm];B[rl]C[Black keeps his 2nd eye.]))
+(;W[sq]C[NOTTHIS])
+(;W[rm];B[rl]C[Black keeps his 2nd eye.])
+(;W[sl];B[rm]C[Black keeps his 2nd eye.])
+(;W[rl];B[rm]C[Black keeps his 2nd eye.])
+(;W[sm];B[rm]C[Black keeps his 2nd eye.])
+(;W[rk];B[rm]C[Black keeps his 2nd eye.])
+(;W[sk];B[sm]C[Black keeps his 2nd eye.]))
+(;W[so];B[sn]C[Black keeps his 2nd eye.])
+(;W[sq]C[NOTTHIS])
+(;W[sr]C[NOTTHIS]))

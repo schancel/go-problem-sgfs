@@ -1,0 +1,30 @@
+(;GE[endgame]DI[8k]DP[48]SO[ytqb]CO[0]AB[rb]AB[sc]AB[qc]AB[qd]AB[rd]AB[pd]AB[oe]AB[og]AB[pg]AB[pj]AB[oj]AB[pk]AB[ne]AB[of]AB[ng]AB[nh]AB[oi]AB[nj]AB[ok]AB[ql]AB[qm]AB[qn]AB[rn]AB[sm]AW[sn]AW[so]AW[ro]AW[qo]AW[pn]AW[pp]AW[pm]AW[pl]AW[ol]AW[nk]AW[nm]AW[mj]AW[mi]AW[ni]AW[mh]AW[mg]AW[nf]AW[mf]AW[me]AW[nd]AW[mc]AW[od]AW[pc]AW[ob]AW[qb]AW[ra]AW[ml]LB[nf:1]LB[og:2]C[After the exchange of 1 and 2, White can take advantage of Black's weakness in this end game position.]AP[goproblems]
+(;W[sl]
+(;B[rk]
+(;W[rm];B[sk]C[RIGHT])
+(;W[sk];B[rm]))
+(;B[rm];W[qk]
+(;B[rl];W[rk]C[RIGHT])
+(;B[rk];W[rl]C[RIGHT]))
+(;B[qk];W[rm]C[This is worse for Black.];B[rj];W[sj];B[si];W[sk];B[ri]C[RIGHT]))
+(;W[qk];B[rl];W[rk];B[rj];W[sk];B[qj])
+(;W[rl];B[rk]
+(;W[sl];B[sk];W[rm];B[sm])
+(;W[rm];B[sl])
+(;W[sk];B[sj]
+(;W[sl];B[rm])
+(;W[rj];B[sl])))
+(;W[qe];B[qk];W[pe];B[re]
+(;W[rf];B[qf])
+(;W[qf];B[qg];W[rf];B[rg]))
+(;W[qf];B[qk];W[pe];B[qe];W[pf];B[rf];W[qg];B[qh];W[rg];B[sg];W[rh];B[ri];W[sh];B[si])
+(;W[pe];B[qk];W[qe])
+(;W[rg];B[qk])
+(;W[sg];B[qk])
+(;W[oh];B[qk];W[ph];B[qh])
+(;W[ph];B[qk]
+(;W[oh])
+(;W[qg];B[oh])
+(;W[qh];B[oh])
+(;W[pe];B[qe]))
+(;W[pi];B[qk]))

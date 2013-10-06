@@ -1,0 +1,3 @@
+(;GE[fuseki]DI[7k]DP[42]SO[ctchan]CO[0]AB[pp]AW[qn]AW[nq]AB[qj]LB[np:A]LB[pn:B]C[Should black play on 'A' or 'B'?FORCE]AB[qd]AB[oc]AW[jp]AP[goproblems]
+(;B[np]C[FORCE];W[mp]C[FORCE]LB[no:a];B[no]C[FORCE];W[oq]C[FORCE]LB[pq:a];B[pq]TR[qn]C[Always attach against a stronger enermy group in order to build up strength to attack your real target (marked stone).RIGHT])
+(;B[pn]C[FORCE];W[pm]C[FORCE]LB[on:a];B[on]C[FORCE];W[qo]C[FORCE]LB[qp:a];B[qp]C[FORCE];W[ql]C[Now white has a solid base because of your help--try the other way and see the result.]))

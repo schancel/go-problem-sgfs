@@ -1,0 +1,5 @@
+(;GE[best move]DI[2d]DP[12]SO[SzymTzg]CO[0]SZ[9]AB[cc]AB[da]AW[bc]AW[cd]MA[cc]C[White wants to beat square black stone. ]TR[da]AP[goproblems]
+(;W[cb]MA[cc]TR[da]C[Good, black (square) can't connect to triangle.RIGHT])
+(;W[dc]C[Bad way. Play and see what you have done wrong.CHOICE]MA[cc]TR[da];B[cb]TR[da]MA[cc]
+(;W[db]TR[da]MA[cc];B[ca]C[Do you see now? Black conects.])
+(;W[ca]MA[cc]TR[da];B[db]C[Do you see now? Black connects.]TR[da]MA[cc])))

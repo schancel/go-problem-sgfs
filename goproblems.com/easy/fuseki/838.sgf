@@ -1,0 +1,19 @@
+(;GE[fuseki]DI[5k]DP[32]SO[Spirit]CO[6]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+PL[B]
+AB[dd][dj][jd][pd][pf][pj][qb][qc]
+AW[hd][ld][nc][pb]
+(;B[jc]
+LB[jc:2][lb:A]C[RIGHT
+Black can now aim at A.]
+MN[2]
+)(;B[jb]
+C[since White is high on both sides 
+Black has no reason to play this low.]
+)(;B[jf]
+C[This is not very good shape as White 
+can aim at A and/or B.]
+LB[jf:2][jc:B][je:A]))

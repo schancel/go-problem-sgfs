@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[4k]DP[30]SO[sabetts]CO[0]SZ[19]AW[pp]AW[qp]AW[rp]AW[nq]AW[oq]AW[rq]AW[rr]AW[rs]AB[oo]AB[po]AB[qo]AB[ro]AB[np]AB[lq]AB[mq]AB[qq]AB[nr]AB[qr]AB[qs]C[If black can save his 3 stones, white's corner will die.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[os]
+(;W[or];B[ps];W[mr];B[ns];W[ms]
+(;B[lr]C[RIGHT])
+(;B[ls]C[RIGHT]))
+(;W[ps]
+(;B[pr];W[or];B[mr];W[pq])
+(;B[or]C[RIGHT])))
+(;B[or];W[pr]
+(;B[ps];W[pq];B[os];W[mr])
+(;B[pq];W[ps])
+(;B[os];W[pq];B[ps];W[mr]))
+(;B[pr];W[or];B[os];W[pq]))

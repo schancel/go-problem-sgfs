@@ -1,0 +1,55 @@
+(;GE[life and death]DI[8k]DP[45]SO[santa c]CO[6]AB[bc]AB[bd]AB[cc]AB[dc]AB[db]AB[ca]AB[ae]AW[be]AW[bg]AW[ce]AW[cd]AW[dd]AW[ed]AW[ec]AW[eb]AW[ea]AW[da]C[Black to move - How many different moves can guarantee sure life?FORCE]LB[gb:0]LB[gc:1]LB[gd:2]LB[ge:3]LB[gf:4]AW[af]LB[gg:5]AP[goproblems]
+(;B[gd]C[Yup! ;) (You can browse the eplanations when using 'Navigate Solution' under 'Show Solution'.)RIGHT]
+(;W[bf]C[This will prevent the applet from auto playing the possible variations.NOTTHISRIGHT])
+(;W[ge]LB[ba:L]LB[bb:L]LB[ab:Ko]LB[ad:x_x]C[Logical moves are explained here.]LB[aa:x_x]LB[ac:x_x]LB[cb:x_x]
+(;B[ba]LB[ad:x]LB[bb:x]LB[ab:x]
+(;W[ab]LB[bb:V];B[bb]C[Black'd live!RIGHT]LB[ac:A]LB[ad:B])
+(;W[bb]LB[ab:V];B[ab]C[Black'd live.RIGHT])
+(;W[ad]C[(bA17 is bigger than bA18 by one point, but leaves an imidiate ko threat. bB18 leaves the 1 moku reductino as a sente move for the endgame or potentially a ko threat - Is much worse than the other 2.)]LB[ac:V]LB[ab:V]LB[bb:V]
+(;B[ac]C[Black'd live.RIGHT]LB[ab:A]LB[bb:B])
+(;B[ab]C[Black'd live.RIGHT])
+(;B[bb]C[Black'd live.RIGHT]LB[ab:A]LB[ac:B])))
+(;B[bb]C[Black'd live.RIGHT])
+(;B[ab]LB[ba:o]LB[ad:x]LB[bb:x]C[The only correct move for white here, is at B19 for a ko. The rest'd let live.]
+(;W[ba]C[bB18 is the correct black move in theis situation. The rest are suicide.]LB[bb:V]LB[cb:x]LB[ad:x]
+(;B[bb];W[cb]MA[ca]C[Only a ko... Could be better...];B[ca]C[NOTTHIS])
+(;B[cb];W[ad]C[Black'd die!])
+(;B[ad];W[cb]C[Black'd die!]))
+(;W[ad]LB[ba:V]LB[bb:V]
+(;B[ba]C[Black'd live.])
+(;B[bb]C[Black'd live.]))
+(;W[bb]LB[ba:V]LB[ad:x]
+(;B[ba]C[Black'd live.])
+(;B[ad];W[ba]C[Black'd die.])))
+(;B[ad]C[wB18 is the correct move - wB19 lets black get a ko.]LB[bb:o]LB[ba:x]
+(;W[ba]C[bB18 is the correct black move in theis situation. The rest are suicide.]LB[bb:V]LB[cb:x]LB[ab:x]
+(;B[bb];W[cb]MA[ca]C[Only a ko... Could be better...];B[ca]C[NOTTHIS])
+(;B[cb];W[ab]C[Black'd die!])
+(;B[ab];W[cb]C[Black'd die!]))
+(;W[bb]LB[ba:x]LB[ab:x]
+(;B[ab];W[ba]C[Black'd die!])
+(;B[ba];W[ab]C[Black'd die!])))
+(;B[aa]LB[bb:x];W[bb]LB[ad:x]LB[ab:x]LB[ba:x]
+(;B[ab]LB[ad:o];W[ad]C[Black'd die.])
+(;B[ba]C[Black'd die. (Thanks, Alexei)]LB[ab:A]LB[ad:B])
+(;B[ad]LB[ab:o]LB[ba:o]
+(;W[ab]LB[cb:x];B[cb]C[Black'd die.])
+(;W[ba]C[Black'd die.])))
+(;B[ac]LB[ab:x]LB[bb:o]C[Only wB18 is a sure kill now.]LB[ba:x]
+(;W[bb]C[Black'd die.])
+(;W[ba]LB[bb:V]LB[cb:x]
+(;B[bb]LB[cb:o];W[cb]MA[ca];B[ca]C[NOTTHIS])
+(;B[cb]C[Black'd die.]))
+(;W[ab]LB[bb:V];B[bb]C[Black'd live.]))
+(;B[cb]LB[ab:o]LB[ad:o]LB[ba:o]LB[ac:x]C[Any of the marked with 'o' moves would kill.]LB[bb:x]LB[aa:x]
+(;W[ab]C[Black'd die.])
+(;W[ba]C[Black'd die.]LB[ab:A]LB[ad:B])
+(;W[ad]C[Black'd die.]LB[ab:A]LB[ba:B])
+(;W[aa]LB[ab:o];B[ab]C[Black'd live.]LB[ad:A]LB[ba:B])
+(;W[bb]LB[ab:o];B[ab]C[Black'd live.])
+(;W[ac]LB[ab:o];B[ab]C[Black'd live.]LB[ad:A]LB[ba:B]))))
+(;B[gb]C[The correct anwser is 2. You could use 'Navigate Solution' under 'Show Solution' following the correct number (2) to see why.])
+(;B[gc]C[The correct anwser is 2. You could use 'Navigate Solution' under 'Show Solution' following the correct number (2) to see why.])
+(;B[ge]C[The correct anwser is 2. You could use 'Navigate Solution' under 'Show Solution' following the correct number (2) to see why.])
+(;B[gf]C[The correct anwser is 2. You could use 'Navigate Solution' under 'Show Solution' following the correct number (2) to see why.])
+(;B[gg]C[The correct anwser is 2. You could use 'Navigate Solution' under 'Show Solution' following the correct number (2) to see why.]))

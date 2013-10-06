@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[2d]DP[13]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[bd][cc][db][eb][ed][ee][fc][gc][gd][hb][hd][ic][ig][il][io][iq][jo][ke][kn][lb][lg][lh][ln][mc][mn][nb][nd][ng][nh][oc][od][pd][pg][po][pq][qh][qk]
+AW[be][cb][cd][cf][da][dc][dd][dp][ec][fb][fd][fq][gb][jf][ji][jn][kf][kg][ko][kq][lc][lf][lo][md][me][ne][nf][nn][no][nq][pe][pf][pn]
+C[Black just played the marked stone. 
+How to respond?]
+PL[W]
+LB[yy:1]TR[ig](;W[hh]
+LB[hh:1][kh:A]C[RIGHT
+Black can't cut at A.]
+MN[1]
+)(;W[jh]
+;B[hi]
+LB[hi:2][jh:1]C[White 1 is too slack, White is under 
+attack.]
+)(;W[kh]
+C[Taking a liberty from the marked 
+stones doesn't really help White, as 
+Black ca nattack with A.]
+LB[kh:1]RG[lg][lh][nh][ng]LB[kh:1][hi:A])(;W[ih]
+;B[kh]
+C[White is cut anyway.]
+)(;W[if]
+;B[hg]
+;W[hf]
+;B[gg]
+C[White accomplishes nothing.]
+)(;W[hg]
+;B[ih]
+;W[if]
+;B[hf]
+C[White accomplished nothing.]
+))

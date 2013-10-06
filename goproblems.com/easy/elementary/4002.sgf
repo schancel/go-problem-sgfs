@@ -1,0 +1,23 @@
+(;GE[elementary]DI[10k]DP[54]SO[chrise]CO[8]AW[ij]AW[ii]AW[ik]AW[hk]AW[ji]AW[gk]AW[fk]AW[ek]AB[gj]AW[hi]AW[gi]AW[fi]AW[ei]AW[di]AW[dj]AB[cj]AB[ci]AB[dh]AB[eh]AB[fh]AB[gh]AB[hh]AB[ih]AB[ck]AW[dk]AB[dl]AB[el]AB[fl]AB[gl]AB[hl]AB[il]AB[jj]AB[jk]AW[jl]AW[kl]AW[ll]AW[ml]AW[nl]AB[ki]AB[li]AB[mi]AB[jh]AW[kh]AW[mh]AW[lh]AW[nh]AB[kk]AB[lk]AB[mk]AB[nk]AB[nj]AB[ni]AW[ok]AW[oj]AW[oi]AP[goproblems]
+(;B[fj];W[lj]
+(;B[hj];W[ej];B[gj];W[mj]C[Owing to a shortage of liberties black cannot capture the white group])
+(;B[ej];W[hj]
+(;B[fj];W[mj]C[Owing to a shortage of liberties black cannot capture the white group])
+(;B[gj];W[mj]C[])
+(;B[ej];W[mj]C[])
+(;B[mj]C[];W[kj])
+(;B[kj];W[mj]C[]))
+(;B[mj];W[kj])
+(;B[kj];W[mj]))
+(;B[lj];W[fj]C[Owing to a shortage of liberties black cannot capture the white group. Both groups live and black retains senteRIGHT])
+(;B[hj];W[lj];B[fj];W[ej]
+(;B[gj];W[mj])
+(;B[kj];W[mj])
+(;B[mj];W[kj])
+(;B[fj];W[mj])
+(;B[hj];W[mj]))
+(;B[ej];W[lj]
+(;B[hj];W[fj])
+(;B[fj];W[hj];B[fj];W[mj]))
+(;B[kj];W[lj])
+(;B[mj];W[lj]))

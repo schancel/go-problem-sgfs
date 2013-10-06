@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1k]DP[20]SO[onemove]CO[9]AB[nr]AB[nq]AB[pr]AB[pq]AB[rq]AB[ro]AB[qp]AB[qo]AB[rk]AB[ql]AB[pl]AB[pm]AB[pn]AW[rm]AW[qm]AW[qn]AW[no]AW[po]AW[pp]AW[sp]AW[qq]AW[qr]AW[rr]AW[on]SZ[19]AP[MultiGo:3.9.4]
+(;B[sr];W[sq]
+(;B[rp];W[ss];B[so];W[sn];B[sr];W[sq];B[rl]C[RIGHT])
+(;B[so];W[ss];B[rp];W[sn];B[sr];W[sq];B[rl]C[RIGHT])
+(;B[rs];W[rp]
+(;B[so];W[ss]C[ko])
+(;B[qs];W[ss]C[ko
+])))
+(;B[sn];W[rp])
+(;B[rp];W[sq]
+(;B[sn];W[rn])
+(;B[so];W[sr];B[sm];W[sn];B[rn];W[sn]))
+(;B[rn];W[sn]
+(;B[sq];W[so])
+(;B[rl];W[sm];B[sl];W[so])
+(;B[sr];W[so]))
+(;B[sq];W[sr];B[sn];W[sm]
+(;B[rp];W[rn];B[so];W[sp])
+(;B[so];W[rp]))
+(;B[sm];W[rp]))

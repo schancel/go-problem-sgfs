@@ -1,0 +1,51 @@
+(;GE[tesuji]DI[1d]DP[16]SO[fungosage]CO[0]AW[an]AW[bo]AW[ap]AW[cp]AW[bq]AB[bn]AB[co]AB[dn]AB[en]AW[eo]AW[ep]AW[eq]AW[er]AW[fq]AB[fo]AB[fp]AW[fn]AW[gn]AB[gq]AB[hp]AB[ho]AB[ip]AB[gr]AB[fr]AW[hr]AW[iq]AW[jp]AW[kq]AW[jr]AW[jq]AB[kr]AB[lq]AB[ls]AB[kp]AB[jo]AW[io]AW[in]AW[hm]AW[jm]AW[hl]AB[hk]AB[ik]AB[jj]AB[km]AB[lp]AB[kn]AB[fk]AB[dk]AB[bk]AB[gl]AB[el]C[White to save both marked groups. there one key move that can save them both. after that, so many different variations to solving.]MA[fn]MA[gn]MA[hm]MA[hl]MA[in]MA[io]MA[jm]TR[hr]TR[iq]TR[jq]TR[jr]TR[jp]TR[kq]AB[mn]AP[goproblems]
+(;W[hq]C[];B[is]C[yes. h3 was the key move.]
+(;W[gp]
+(;B[js]
+(;W[hs]C[congrats!RIGHT])
+(;W[hn];B[hs];W[go]C[technically you saved both groups, but you could do better.RIGHT])
+(;W[fs]C[RIGHT])
+(;W[go];B[hs];W[hn]C[coreect, but w can do better.RIGHT])
+(;W[gs]C[RIGHT]))
+(;B[go]
+(;W[hn]C[RIGHT])
+(;W[jn];B[ko];W[js];B[hs];W[hn]C[RIGHT])))
+(;W[hs];B[js]
+(;W[fs]C[easy, right?RIGHT])
+(;W[go];B[gs])
+(;W[gs];B[fs])
+(;W[gp]C[RIGHT])
+(;W[jn];B[ko]
+(;W[go];B[gs])
+(;W[gp]C[very nice!RIGHT])
+(;W[fs]C[RIGHT])
+(;W[gs];B[fs])))
+(;W[js];B[hs]
+(;W[gp];B[ks])
+(;W[go];B[gp]C[b gets both groups!]))
+(;W[go]
+(;B[gp]
+(;W[hs];B[js];W[fs]C[RIGHT])
+(;W[hn];B[js];W[hs]C[RIGHT])
+(;W[gs];B[hs];W[hn];B[js];W[fs]C[RIGHT])
+(;W[fs];B[js]
+(;W[hn]C[RIGHT])
+(;W[gs]C[RIGHT])))
+(;B[js];W[gp];B[hs];W[hn]C[it works, but you could do better.RIGHT])
+(;B[hs];W[gp];B[js];W[hn]C[it works, but w can do better.RIGHT]))
+(;W[fs];B[gp];W[jn];B[hs];W[ko];B[lo];W[js];B[ks];W[hn];B[jo]C[ko, not good. black takes the ko first.])
+(;W[jn];B[ko];W[js];B[hs];W[gp];B[ks]))
+(;W[go];B[hq]
+(;W[js];B[is])
+(;W[gp];B[js]C[the other group got taken.  it's possible to save both.]))
+(;W[gp];B[hq]
+(;W[js];B[is])
+(;W[is];B[ks])
+(;W[go])
+(;W[hn];B[go]))
+(;W[jn];B[hn]
+(;W[gm];B[im];W[il];B[ko]
+(;W[kl];B[hq])
+(;W[hq];B[jl];W[gp];B[im];W[go]C[I had a hard time deciding if to mark this variation as right or wrong, but it is technically right because w saves both groups.  But there is a better variation for w not to lose those stones.RIGHT]))
+(;W[hq];B[im];W[il];B[jl];W[ko];B[gm];W[gp];B[im];W[go];B[jo]C[technically w saves both groups, but loses many stones doing so.  W can do better.RIGHT])
+(;W[ko];B[gm])))

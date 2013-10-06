@@ -1,0 +1,19 @@
+(;GE[life and death]DI[1d]DP[17]SO[Joeseki]CO[7]AB[ps][pr][pq][qq][rq][rn][pn][oo][no][np][nq][mr]AW[os][or][oq][op][pp][qp][rp][sp]C[Black to play]SZ[19]
+
+(;B[sr];W[rs];B[sq]C[Black wins the liberty race RIGHT])
+(;B[sq];W[rr]
+(;B[sr];W[qs]
+(;B[po];W[ss]C[Ko ])
+(;B[rs];W[ss]C[Ko])
+(;B[qo];W[ss])
+(;B[ro];W[ss])
+(;B[so];W[ss])
+(;B[nr];W[ss])
+(;B[ns];W[ss]))
+(;B[rs];W[sr]))
+(;B[rr];W[rs]
+(;B[qs];W[sr];B[ss];W[sq]C[Ko, there are even better Ko's to be had then this])
+(;B[sq];W[qs]C[Ko]))
+(;B[rs];W[sr]
+(;B[sq];W[rr])
+(;B[rr];W[sq])))

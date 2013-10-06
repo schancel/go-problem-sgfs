@@ -1,0 +1,71 @@
+(;GE[endgame]DI[3k]DP[24]SO[wtd]CO[8]SZ[9]AW[dc]AW[dd]AW[ed]AW[fd]AW[gd]AW[hd]AW[id]AW[ge]AW[ff]AW[fg]AW[hg]AW[fh]AW[fi]AB[cb]AB[cc]AB[cd]AB[ae]AB[be]AB[de]AB[ee]AB[cf]AB[ef]AB[dg]AB[bh]AB[dh]AB[di]LB[da:K]LB[ea:S]LB[fa:L]LB[db:P]LB[eb:I]C[No komi, no prisoners yet - Black to win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[B]
+(;B[fa]
+(;W[ga]
+(;B[fb]
+(;W[db];B[da]
+(;W[gb];B[fc]
+(;W[gc]
+(;B[ea]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT])
+(;B[ca]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT]))
+(;W[eb];B[ea];W[gc]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT]))
+(;W[eb];B[ea];W[gb];B[fc]))
+(;W[eb];B[ea];W[db];B[da]))
+(;B[da];W[fb];B[ea];W[gb];B[eb];W[ec];B[db]C[Jigo])
+(;B[ea]
+(;W[fb]
+(;B[db];W[eb];B[da];W[gb]C[W +1])
+(;B[eb];W[db]
+(;B[da];W[ec];B[ca];W[gb]C[W +1])
+(;B[gb];W[da]
+(;B[ha];W[ib];B[fc];W[hb]C[B dies.])
+(;B[fc];W[hb];B[ha];W[hc]C[B dies.])))
+(;B[gb];W[da];B[eb];W[db]))
+(;W[db];B[da];W[gb];B[fb];W[fc];B[eb]C[Jigo])
+(;W[gb]C[Bad for W];B[db];W[fb];B[eb];W[ec]C[B +1]))
+(;B[eb];W[db];B[da];W[fb];B[ea])
+(;B[gb];W[ea];B[eb];W[fb];B[fc];W[db];B[fa];W[da]C[B dies.]))
+(;W[eb];B[ea]
+(;W[gb]
+(;B[ga];W[da];B[db];W[ha];B[ca];W[fb];B[da];W[hb]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT])
+(;B[db];W[fb];B[ga];W[ha];B[da];W[hb]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT])
+(;B[da];W[ga];B[fb];W[fc];B[db];W[ec]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT])
+(;B[fb];W[db];B[da];W[fc];B[ga];W[ha];B[ca];W[hb]C[ You won by 1. When Black has no large ko threats, and the value of sente is worth less than 2, a large monkey jump is the best 1st move. For values of sente greater than 2 (again when B has no large ko threats), lmj & the 1 space jump give the same result.RIGHT]))
+(;W[da]C[Bad for W];B[db];W[fb];B[ga]
+(;W[hb]
+(;B[ha];W[gb];B[ca];W[ib]C[B +3])
+(;B[gb];W[gc];B[ca];W[ha];B[da]C[B +2]))
+(;W[ha]C[Bad for W]
+(;B[gb];W[hb];B[gc];W[hc];B[ca];W[fc];B[da]C[B +4])
+(;B[ca];W[gb])))))
+(;B[da];W[fb]
+(;B[fa];W[ga])
+(;B[eb];W[fa];B[ec];W[fc];B[db]C[W +1]))
+(;B[ea];W[fb]
+(;B[fa];W[ga])
+(;B[eb];W[db];B[da];W[fa];B[ec];W[fc];B[ca]C[W +2]))
+(;B[eb];W[db];B[da];W[fb]
+(;B[fa]
+(;W[ga])
+(;W[gb]C[As W can win the ko, wG9 is 2 points better.]
+(;B[ga];W[ha]
+(;B[ea];W[ec];B[ca];W[hb]C[B +1])
+(;B[ec];W[fc];B[ca];W[ea]C[W +7]))
+(;B[ec]
+(;W[ga];B[ea];W[fc];B[ca]C[Jigo])
+(;W[fc];B[ea];W[ga];B[ca]C[Jigo]))))
+(;B[ec];W[fa];B[ea])
+(;B[ea])
+(;B[gb]
+(;W[fa]
+(;B[ea];W[ec];B[ca]C[W +4])
+(;B[fc];W[ec]
+(;B[ca];W[ea]C[W +7])
+(;B[ga];W[gc];B[ca];W[ea]C[W +7])))
+(;W[ec]
+(;B[ea];W[fa])
+(;B[fa];W[ea];B[ca];W[ga]C[W +7]))))
+(;B[db];W[eb]
+(;B[ea];W[fa]
+(;B[da];W[fb]C[W +3])
+(;B[fb];W[da];B[ga];W[ea];B[ca];W[ec]C[W +7]))
+(;B[fb];W[da];B[ca];W[ea]C[W +7])))

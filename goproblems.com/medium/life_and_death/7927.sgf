@@ -1,0 +1,27 @@
+(;GE[life and death]DI[3k]DP[24]SO[santa c]CO[4]AB[rc]AB[qd]AB[pd]AB[qe]AB[pf]AB[oe]AB[oc]AB[nb]AB[mb]AW[lb]AW[kb]AW[mc]AW[nd]AW[ne]AW[of]AW[og]AW[nf]AW[oh]AW[ph]AW[qh]AW[qf]AW[rf]AW[rg]AW[re]AW[rd]AW[rb]C[White played the marked stone, let's follow a possible ressistance path... PLAY AT A...FORCE]LB[sc:A]TR[rb]AP[goproblems]
+(;B[sc];W[qb]LB[qc:A]C[FORCE]
+(;B[qc];W[pb]LB[nc:A]C[So far, not much choice, here A isn't the only path but lets go on with it.FORCE]
+(;B[nc];W[sb]C[What should Black play now?]
+(;B[oa]C[Well done! Black captures a living shape! :)RIGHT])
+(;B[ma];W[oa]C[:(])
+(;B[ob];W[od];B[pc];W[ra];B[pa];W[oa]C[Leads to ko... :(])
+(;B[pc];W[ra];B[pa];W[oa];B[ob]C[Leads to ko... :(])
+(;B[ra];W[od];B[pc];W[oa]
+(;B[ob];W[qa]C[Leads to ko... :(])
+(;B[na];W[ob];B[qa];W[sd]
+(;B[pa];W[sa];B[qa];W[pe]MA[oe]C[:(])
+(;B[sa];W[pa];B[ra];W[pe]C[:(]MA[oe]))
+(;B[qa];W[ob];B[na];W[sd]
+(;B[pa];W[sa];B[qa];W[pe]MA[oe]C[:(])
+(;B[sa];W[pa];B[ra];W[pe]C[:(]MA[oe]))
+(;B[ma];W[ob]C[];B[qa];W[sd]C[:(])
+(;B[pa];W[ob];B[qa];W[sd];B[na];W[sa];B[qa];W[pe]MA[oe]C[:(]))
+(;B[qa];W[ra]C[:(])
+(;B[pa];W[od];B[pc];W[oa]
+(;B[ob];W[ra]C[Leads to ko... :(])
+(;B[ra];W[ob];B[qa];W[sa];B[qa];W[sd];B[na];W[pe]MA[oe]C[:(])
+(;B[na];W[ob]C[:(]))
+(;B[na];W[ra];B[pa];W[od];B[pc];W[sd]C[:(]))
+(;B[kh]C[Just to enable free-browsing...]))
+(;B[kh]C[Just to enable free-browsing...]))
+(;B[kh]C[Just to enable free-browsing...]))

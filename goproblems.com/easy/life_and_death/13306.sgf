@@ -1,0 +1,27 @@
+(;GE[life and death]DI[4k]DP[31]SO[ldan]CO[0]AB[bp]AB[bo]AB[co]AB[do]AB[dp]AB[en]AB[el]AB[em]AB[fl]AB[dl]AB[bm]AB[cl]AW[cn]AW[bl]AW[bk]AW[ck]AW[dk]AW[fm]AW[fn]AW[eo]AW[ep]AW[eq]AW[er]AW[fq]AW[dq]AW[cq]AW[cp]AW[bq]AB[fo]AB[fp]AB[gp]AB[gq]AB[gr]AB[fr]AB[jq]AW[gl]AW[fk]AW[fj]AW[ci]AW[gm]TR[cn]C[How should black respond to the marked stone?]AP[goproblems]
+(;B[cm];W[dn]
+(;B[ap]C[RIGHT])
+(;B[bn];W[am];B[ap];W[an])
+(;B[an];W[ap])
+(;B[ao]C[Death in gote])
+(;B[am];W[ap]C[CHOICE];B[ao];W[bn];B[aq]C[Black may have a ko - but he can live unconditionally]))
+(;B[ap];W[bn]
+(;B[an];W[cm]
+(;B[am];W[al];B[ao])
+(;B[dn];W[am])
+(;B[dm];W[am]))
+(;B[cm]
+(;W[am];B[an];W[ao];B[dn]C[RIGHT])
+(;W[an]C[CHOICE];B[am];W[dn]
+(;B[dm]C[RIGHT])
+(;B[ao];W[aq]))
+(;W[dn];B[an]))
+(;B[am];W[cm];B[an];W[al])
+(;B[dn];W[cm];B[am];W[an]))
+(;B[bn];W[am])
+(;B[an];W[ap])
+(;B[ao])
+(;B[am];W[ap];B[ao];W[bn];B[cm];W[dn])
+(;B[dn];W[cm]
+(;B[ap];W[bn])
+(;B[bn];W[am])))

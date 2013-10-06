@@ -1,0 +1,15 @@
+(;GE[endgame]DI[30k]DP[84]SO[Bildstein]CO[6]AW[rs]AW[ss]AB[qr]AB[rq]AB[sq]AB[qq]AW[sr]AB[qs]AB[qp]AB[pq]AB[oo]AW[po]AW[op]AW[oq]AW[or]AW[pr]AW[ps]AW[ns]AW[nr]AW[qo]AW[ro]AW[rp]AW[sp]AW[rn]AW[sn]AB[rm]AB[qn]AB[pn]AB[np]AB[nq]AB[mr]AB[lr]AB[on]AB[sm]AB[kr]AB[qm]AB[no]AB[mq]LB[oo:A]C[Black has just played A.]AP[goproblems]
+(;W[pp];B[rr]
+(;W[ss]TR[pp]C[If you hadn't played the marked stone, Black would be able to play there now and kill the stones aboveRIGHT])
+(;W[sr];B[ss]C[Black lives])
+(;W[rs];B[ss]C[Black lives])
+(;W[ms];B[ss]C[Black lives]))
+(;W[ms];B[rr]
+(;W[ss];B[pp]C[The marked stones are dead]MA[po]MA[qo]MA[ro]MA[rp]MA[sp]MA[rn]MA[sn])
+(;W[pp];B[ss]C[Black lives])
+(;W[rs];B[ss]C[Black lives])
+(;W[sr];B[ss]C[Black lives])
+(;W[ls];B[pp]MA[sp]MA[rp]MA[ro]MA[qo]MA[po]MA[rn]MA[sn]C[The marked stones are dead]))
+(;W[os];B[ms]LB[pp:A]LB[so:B]C[If White plays A, Black still captures, with B])
+(;W[so];B[pp])
+(;W[rr]C[NOTTHIS]))

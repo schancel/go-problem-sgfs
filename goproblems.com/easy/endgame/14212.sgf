@@ -1,0 +1,12 @@
+(;GE[endgame]DI[6k]DP[38]SO[frostburn]CO[0]AB[ap]AB[bp]AB[bq]AB[cq]AB[dq]AB[eq]AB[dr]AB[ds]AW[bo]AW[co]AW[cp]AW[dp]AW[ep]AW[fq]AW[gq]AW[er]AW[fs]AW[bm]AW[an]AW[fo]C[White to sqeeze a little extra profit from the black group.]AP[goproblems]
+(;W[br];B[ar]
+(;W[bs];B[cr]TR[ao]TR[es]C[Great! Now Black has to answer both dames inside his own territory to prevent seki and you kept sente.RIGHT])
+(;W[cs];B[cr]C[Now Black only has to answer one of the dames inside his own territory. You can do better.]TR[es]TR[ao])
+(;W[as];B[bs]C[Now Black doesn't need to answer neither of the triangled dames. You can do better.]TR[ao]TR[es]))
+(;W[ao];B[br]C[Black only needed to answer once. You can do better.])
+(;W[es];B[br]C[Black only needed to answer once. You can do better.])
+(;W[ar];B[br];W[bs];B[cs]TR[ao]TR[es]C[Now Black doesn't need to answer neither of the triangled dames. You can do better.])
+(;W[bs];B[br]
+(;W[ar])
+(;W[cs];B[ar]C[Now Black doesn't need to answer neither of the triangled dames. You can do better.]TR[ao]TR[es]))
+(;W[cs];B[br];W[bs]))

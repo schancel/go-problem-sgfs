@@ -1,0 +1,59 @@
+(;GE[tesuji]DI[3d]DP[10]SO[Schizoid]CO[8]AW[dd]AB[df]AB[eh]AW[fh]AW[ej]AB[dj]AB[gi]AB[gj]AW[ih]AB[kg]AB[cj]AW[ai]AW[ci]AW[al]C[Can black capture the white stone if he plays A? or should he Tenuki at T?]AB[an]AW[co]AB[do]AB[ep]AB[dn]AW[eo]LB[fo:A]LB[pd:T]AP[goproblems]
+(;B[fo];W[en];B[em];W[fn];B[gn];W[fm];B[fl];W[gm];B[hm];W[gl]
+(;B[hl];W[gk]
+(;B[hk];W[fk]C[Uh-Oh...])
+(;B[fk];W[hk];B[ik];W[hj]
+(;B[ij];W[hi]C[Uh-Oh...])
+(;B[hi];W[ij]C[Uh-Oh...])
+(;B[ii];W[go]C[Uh-Oh...])))
+(;B[gk];W[hl];B[il];W[hk]
+(;B[ij];W[go]C[Uh-Oh...])
+(;B[ik];W[hj]
+(;B[hi];W[ij]C[Uh-Oh...])
+(;B[ij];W[hi]C[Uh-Oh...])
+(;B[ii];W[go]C[Uh-Oh...]))
+(;B[hj];W[ik];B[jk];W[ij];B[ii];W[jj];B[kj];W[ji]
+(;B[hi];W[hn]C[Uh-Oh...])
+(;B[jh];W[ki]
+(;B[hi];W[hn]C[Uh-Oh...])
+(;B[li];W[hi];B[kh];W[ii]
+(;B[hh];W[ig]C[Uh-Oh...])
+(;B[ig];W[hh]
+(;B[hg];W[gh]C[Uh-Oh...])
+(;B[gh];W[hg];B[hf];W[gg]
+(;B[gf];W[fg]C[Uh-Oh...])
+(;B[fg];W[gf];B[ge];W[ff]
+(;B[eg];W[im]C[Uh-Oh...])
+(;B[ef];W[fe];B[fd];W[ee]C[Uh-Oh...])
+(;B[fe];W[eg]LB[ef:B]C[White must play here, not B.];B[ef];W[fg]
+(;B[fi];W[dg]
+(;B[dh];W[cg]C[Uh-Oh...])
+(;B[cg];W[dh]
+(;B[ei];W[im]C[Uh-Oh...])
+(;B[di];W[ch]
+(;B[bh];W[bi]C[Uh-Oh...])
+(;B[bi];W[bh]C[Uh-Oh...]))
+(;B[ch];W[di]
+(;B[bi];W[ei]C[Uh-Oh...])
+(;B[ei];W[bi]C[Uh-Oh...]))))
+(;B[dg];W[fi]
+(;B[fj];W[fk]C[Uh-Oh...])
+(;B[ei];W[fj]
+(;B[ek];W[fk]C[Uh-Oh...])
+(;B[fk];W[ek]
+(;B[dk];W[el]C[Uh-Oh...])
+(;B[el];W[dk]
+(;B[dl];W[ck]
+(;B[cl];W[bk]C[Uh-Oh...])
+(;B[bk];W[cl]C[Uh-Oh...]))
+(;B[ck];W[dl]
+(;B[cl];W[dm]C[Uh-Oh...])
+(;B[dm];W[cl]
+(;B[cm];W[bl]C[Uh-Oh...])
+(;B[bl];W[cm]
+(;B[bm];W[cn]C[Uh-Oh...])
+(;B[cn];W[bm]
+(;B[bk];W[jl]C[Uh-Oh...])
+(;B[am];W[bk];B[bn];W[bl];B[bj]C[GREAT!!! Try to read it..it's fun...RIGHT])
+(;B[bn];W[bk];B[am];W[bl];B[bj]C[GREAT!!! Try to read it..it's fun...RIGHT]))))))))))))))))))
+(;B[pd]C[Umm...well...you actually can capture that white stone...]))

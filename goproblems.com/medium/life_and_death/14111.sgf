@@ -1,0 +1,54 @@
+(;GE[life and death]DI[3d]DP[10]SO[siulkilulki]CO[0]AB[bb]AB[cb]AB[db]AB[eb]AB[ec]AB[fd]AB[gd]AB[hd]AB[hc]AB[ic]AW[gb]AW[fc]AW[ed]AW[dc]AW[cc]AW[bc]AW[ab]AW[de]AW[fe]AW[ge]AW[he]AW[id]AW[jc]AW[kc]AW[je]AP[goproblems]
+(;B[hb]
+(;W[ha]C[CHOICE];B[ia];W[ga];B[fb]
+(;W[ja]C[CHOICE];B[jb];W[ib]C[black can do better])
+(;W[jb];B[fa]C[black lives]))
+(;W[ga]C[white bad move];B[ia];W[jb];B[fb];W[ib];B[gc];W[ja];B[fa]))
+(;B[ia];W[ha]
+(;B[ib];W[jb]
+(;B[fb];W[gc])
+(;B[ga];W[fa];B[fb];W[gc]))
+(;B[ga];W[fa];B[hb]
+(;W[jb];B[fb];W[ib];B[ga]C[])
+(;W[ja]
+(;B[ga];W[jb];B[fb];W[ha];B[gc];W[ib];B[ga])
+(;B[jb];W[ib]C[b can make better ko])))
+(;B[hb];W[ga];B[fb];W[ja];B[jb];W[ib]C[black can do better]))
+(;B[ha];W[hb];B[ib]
+(;W[ga]
+(;B[ia];W[jb];B[fb];W[ja]C[b is killed])
+(;B[fb];W[ia]
+(;B[ja];W[jb];B[ha]C[];W[ka];B[gc];W[ia];B[fc];W[ja]C[here there is no ko])
+(;B[jb];W[kb]
+(;B[gc];W[ja];B[fc];W[ka])
+(;B[ja];W[ka];B[ha]C[]))))
+(;W[jb]C[CHOICE];B[fb];W[ga];B[gc];W[ia];B[fc];W[ja]C[b is dead]))
+(;B[jb]
+(;W[hb]C[CHOICE];B[ib];W[kb];B[fb];W[ja];B[ia];W[ka];B[gc]C[RIGHT])
+(;W[kb]C[CHOICE]
+(;B[fb];W[ib];B[hb];W[ja];B[ha]C[RIGHT])
+(;B[ia];W[hb];B[ib];W[ka];B[fb]C[RIGHT])
+(;B[ja];W[ha];B[ib];W[ka])
+(;B[hb];W[ha];B[ia];W[ga];B[fb];W[ka];B[gc];W[ja];B[fa]C[RIGHT]))
+(;W[ha]C[ok i add also this pathCHOICE]
+(;B[ib];W[kb];B[fb];W[ja];B[ia];W[gc];B[ka];W[la];B[fa]C[one move aproach ko, black can do better])
+(;B[ia]
+(;W[hb];B[ib]
+(;W[kb];B[fb]C[RIGHT])
+(;W[fb];B[fa];W[kb];B[ea];W[ka];B[ga]C[RIGHT]))
+(;W[ib];B[hb]
+(;W[ga];B[fb]C[RIGHT])
+(;W[fa];B[fb]C[RIGHT]))
+(;W[kb]
+(;B[fb];W[gc];B[ib];W[ka])
+(;B[hb]
+(;W[fa];B[fb]C[RIGHT])
+(;W[ga];B[fb]C[RIGHT]))))
+(;B[hb];W[ja]
+(;B[fb];W[kb];B[gc];W[ga];B[ib])
+(;B[kb];W[lb]
+(;B[ka];W[gc];B[ib];W[la];B[ia])
+(;B[ia];W[ib]C[black can do better]))
+(;B[ia];W[ib]C[black can do better]))
+(;B[ja];W[ib];B[hb];W[gc])
+(;B[fb];W[ib];B[gc];W[hb];B[fc]))))

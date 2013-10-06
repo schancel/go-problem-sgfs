@@ -1,0 +1,25 @@
+(;GE[elementary]DI[15k]DP[62]SO[maba]CO[7]AB[il]AB[im]AB[jl]AW[jk]AW[kk]AW[gl]AW[hm]AW[hn]AW[in]AB[ml]AB[mk]AW[lk]AB[mj]AB[lm]AB[ln]AW[ll]AW[hk]AB[ik]AW[hj]AW[ij]AB[jj]AB[ji]C[Where should white play?]AB[jo]AB[ko]AB[mi]AP[goproblems]
+(;W[km]
+(;B[jm]
+(;W[jn];B[kn]
+(;W[kl];B[kj];W[hl]C[RIGHT])
+(;W[hl];B[kl];W[km]C[RIGHT]))
+(;W[kn];B[jn])
+(;W[kl];B[jn])
+(;W[hl];B[jn]))
+(;B[kl];W[jm]C[RIGHT])
+(;B[jn];W[jm];B[kn];W[kl];B[lj];W[hl]C[RIGHT])
+(;B[kn];W[jm];B[jn];W[kl];B[kj];W[hl]C[RIGHT])
+(;B[kj];W[jm]
+(;B[kl];W[hl]C[RIGHT])
+(;B[lj];W[kl];B[jn];W[hl]C[RIGHT])))
+(;W[kl];B[jm]
+(;W[km];B[jn])
+(;W[jn];B[km]))
+(;W[jm];B[km]
+(;W[kl];B[jn];W[hl];B[jm])
+(;W[jn];B[kl]))
+(;W[jn];B[km]
+(;W[jm];B[kl])
+(;W[kl];B[jm]))
+(;W[kn];B[km]))

@@ -1,0 +1,46 @@
+(;GE[life and death]DI[10k]DP[50]SO[ezpresso]CO[8]SZ[9]AW[bd]AW[cd]AW[dd]AW[ed]AW[ae]AW[ee]AW[bf]AW[ef]AW[eg]AW[dh]AW[eh]AB[be]AB[ce]AB[de]AB[df]AB[bg]AB[cg]AB[dg]AB[ch]AB[ci]C[Black to move]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[problem]
+(;B[ah]
+(;W[bi]
+(;B[af];W[ag]
+(;B[cf]C[];W[ad];B[af]C[RIGHT])
+(;B[ad];W[ac]
+(;B[cf];W[ad];B[af]C[Yeah, right.RIGHT])
+(;B[af]C[];W[cc]TR[dc]C[Think it is ko? Now let's assume that White has an absolutely huge threat at C7 that you must answer at D7. To help you appreciate the threat I forced that move. Please answer the huge threat at D7.FORCE];B[dc];W[ag]C[You happen to have a ko threat at E7 that is somewhat smaller than the group. Play E7 if you think you need it.]TR[ec]
+(;B[ec];W[af]C[Sorry, you died. But now at least you can follow up on your somewhat smaller threat.])
+(;B[cf]C[Bingo! It was not ko after all.RIGHT]))))
+(;B[cf];W[af])
+(;B[ag];W[af])
+(;B[ad];W[af]))
+(;W[af];B[bi]C[check out the other variationRIGHT]))
+(;B[ag];W[af]C[black is reduced into dead shape])
+(;B[af];W[ag]
+(;B[ah];W[bi]
+(;B[af]C[KO  there is a better way])
+(;B[cf]C[];W[ad];B[af]C[RIGHT])
+(;B[ad]))
+(;B[cf];W[ah]
+(;B[af]C[Ko])
+(;B[bh];W[af])
+(;B[ad];W[af]))
+(;B[ad];W[af])
+(;B[bi];W[ah]))
+(;B[bh];W[ag]
+(;B[ah];W[af])
+(;B[cf];W[af]))
+(;B[cf];W[af]
+(;B[ag];W[ad])
+(;B[ah];W[bi])
+(;B[bi];W[ah]))
+(;B[bi];W[ah]
+(;B[ag];W[af])
+(;B[cf];W[af])
+(;B[af];W[ag]))
+(;B[ai];W[ag])
+(;B[ad];W[af]
+(;B[ah];W[bi])
+(;B[ag];W[ac])
+(;B[cf];W[ac]
+(;B[ah];W[bi])
+(;B[bi];W[ah])
+(;B[ag];W[ad]))
+(;B[bi];W[ah])))

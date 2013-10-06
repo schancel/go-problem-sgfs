@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[3d]DP[9]SO[Spirit]CO[8]C[White to rescue his 6 stones.]AB[ln]AB[lo]AB[lp]AB[lq]AB[mm]AB[mp]AB[nq]AB[nr]AB[ol]AB[oo]AB[op]AB[po]AB[pq]AB[ql]AB[qn]AB[rn]AW[mo]AW[mq]AW[mr]AW[nn]AW[no]AW[np]AW[on]AW[pn]AW[qo]AW[qp]AW[qq]AW[qr]AW[ro]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[ms]MN[1]
+(;B[oq];W[ns];B[os];W[ps];B[pr];W[or]C[RIGHT])
+(;B[ns];W[oq];B[or];W[pp];B[oq];W[pr]C[RIGHT])
+(;B[lr];W[os]
+(;B[ns];W[oq];B[or]
+(;W[pp]C[RIGHT])
+(;W[pr];B[ls]))
+(;B[or]
+(;W[pr];B[ls];W[pp]C[RIGHT])
+(;W[pp]C[RIGHT]))))
+(;W[ns];B[lr];W[or];B[oq];W[ms];B[ls];W[os];B[pr])
+(;W[or];B[oq];W[ns];B[lr];W[ms];B[ls];W[os];B[pr])
+(;W[oq];B[or]))

@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[5k]DP[33]SO[Song17]CO[0]AB[cc]AW[dd]AW[ed]AW[db]AW[ce]AW[fc]AW[gc]AW[hc]AB[fd]AB[gd]AB[hd]AB[id]AB[jc]AW[lb]AB[ld]AB[mc]AB[nb]AW[ob]AW[oc]AB[qb]AB[pb]AB[pc]AB[pd]AB[qd]AB[oe]AB[of]AB[qe]AB[rc]AW[rd]AW[re]AW[rf]AW[qf]AW[pf]AW[pg]AW[og]AW[oh]AW[oi]AW[pi]AW[qh]AW[rh]AB[qg]AB[rg]AB[qi]AB[ri]AW[qj]AW[rj]AW[rk]AB[pj]AB[pk]AB[qk]AB[ok]AB[oj]AB[nj]AB[mj]AB[mk]AW[nk]AW[nl]AW[nm]AW[ml]AW[mn]AW[ln]AW[kn]AW[jn]AW[jm]AW[ko]AW[no]AW[np]AW[nq]AW[nr]AB[or]AB[oq]AB[qp]AB[pm]AB[rl]AB[lo]AB[mo]AB[mp]AB[lq]AB[kp]AB[lr]AB[jo]AB[io]AB[ip]AB[iq]AB[hr]AB[in]AB[im]AB[il]AB[ik]AB[hm]AW[jk]AW[kk]AB[jj]AB[ji]AB[jh]AB[ii]AW[ij]AW[hj]AW[gj]AW[hi]AW[hl]AW[gl]AW[fk]AW[ek]AW[dk]AW[ck]AW[bk]AW[cl]AW[dl]AW[dm]AB[cm]AB[bl]AB[bn]AB[am]AW[cn]AW[co]AW[bo]AW[bp]AW[bq]AW[ar]AB[br]AB[cs]AB[dr]AB[dq]AB[cq]AB[cp]AB[ep]AB[do]AB[dn]AB[fo]AB[fn]AB[em]AB[gn]AW[go]AW[ho]AW[hp]AW[fp]AW[fq]AB[gp]AW[ir]AW[jq]AW[jp]AB[hh]AB[gh]AB[gi]AB[gg]AB[fj]AB[ej]AB[dj]AB[cj]AB[dh]AB[eg]AB[ff]AW[gf]AW[hg]AW[ih]AW[ig]AW[if]AW[je]AW[ke]AW[le]AW[lf]AW[kh]AB[kg]AB[lg]AB[lh]AB[li]AW[mi]AW[mg]AW[nf]AW[ne]AW[nd]AW[ch]AW[lj]AB[km]LB[lj:1]C[Instead of playing 1, white (Lee Sedol) resigned in the real game. Please show why.]AP[goproblems]
+(;B[jl]
+(;W[kl]C[CHOICE]
+(;B[kj]C[RIGHT])
+(;B[ll];W[lm];B[lk];W[kj])
+(;B[lk];W[kj];B[ll];W[lm]))
+(;W[ll]C[CHOICE]
+(;B[lk];W[kl];B[kj]C[RIGHT])
+(;B[kl];W[lk])))
+(;B[lk];W[kj];B[jl];W[kl];B[ll];W[lm]C[You don't really think that your center stones have enough liberties, do you?])
+(;B[kj];W[lk];B[jl];W[ll])
+(;B[mh]C[NOTTHIS])
+(;B[ni]C[NOTTHIS]))

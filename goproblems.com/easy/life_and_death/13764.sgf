@@ -1,0 +1,9 @@
+(;GE[life and death]DI[10k]DP[52]SO[romescu]CO[0]AB[rb]AB[rd]AB[qf]AB[pf]AB[of]AB[ne]AW[pe]AW[pd]AW[pc]AW[pb]AW[pa]AW[oa]AB[ob]AB[oc]AB[nc]AB[mc]AW[nb]AW[mb]AB[lb]AW[lc]AW[kc]AB[ld]AB[kd]AW[jd]AW[id]AW[hc]TR[oa]TR[pa]TR[pb]TR[pc]TR[pd]TR[pe]C[Kill the eight marked white stones]TR[nb]TR[mb]AP[goproblems]
+(;B[la]C[FORCE]
+(;W[na];B[jc];W[kb];B[jb];W[ka];B[ja]C[Great! Nothing can save themRIGHT])
+(;W[kb];B[na];W[ma]C[yes, the heros always die];B[na]C[Great! Nothing can save themRIGHT]))
+(;B[na];W[ma]C[Mmm...I thing that doesn't work so good])
+(;B[kb];W[jc]
+(;B[ma];W[na];B[la];W[jb]C[Mmm...I thing that doesn't work so good])
+(;B[jb];W[ib];B[ma];W[na];B[la];W[ja]C[Mmm...I thing that doesn't work so good]))
+(;B[ma];W[na];B[la];W[kb]C[Mmmm... I thing that doesn't work so good]))

@@ -1,0 +1,27 @@
+(;GE[life and death]DI[1k]DP[19]SO[aditsu]CO[7]AW[dd]AW[cf]AB[gd]AB[hd]AB[id]AW[ge]AW[he]AW[ie]AW[jd]AW[kd]AW[ke]AW[kf]AW[le]AW[me]AW[ic]AW[ib]AW[jb]AB[ka]AB[kb]AB[kc]AB[jc]AB[lb]AB[mb]AB[mc]AB[md]AB[ld]AW[ne]AW[nd]AW[nc]AW[nb]AB[ma]AB[na]AB[ob]AB[pb]AB[pc]AB[pd]AB[pe]AB[pf]AB[of]AW[nf]AB[og]AB[ng]AW[mg]AW[mh]AB[mf]AB[lf]AB[lg]AB[kg]AB[jg]AB[ig]AB[jf]AB[je]AW[oa]AW[pa]AW[qa]AW[qb]AW[rb]AW[qc]AW[rd]AW[re]AW[qe]AW[rf]AB[qd]AB[qf]AB[rg]TR[je]C[Black dared to play K15. Do your best to save your group.]AP[goproblems]
+(;W[fd];B[gc]
+(;W[gb];B[fc]
+(;W[ec];B[fb]
+(;W[hc];B[ga]
+(;W[hb];B[ha]
+(;W[eb];B[fa];W[ea]C[Yes!RIGHT])
+(;W[fa];B[eb]C[What did you do that for?!]
+(;W[ia];B[db])
+(;W[db];B[ea];W[da]C[Well, ok, this also works, but... why would you play this way?RIGHT])
+(;W[ea];B[db])
+(;W[da];B[ja])))
+(;W[ha];B[hb]C[Only ko])
+(;W[eb];B[hb]))
+(;W[eb];B[hb]C[])
+(;W[fa];B[hb]
+(;W[ha];B[ga]C[Only ko])
+(;W[ga];B[ea])
+(;W[eb];B[ga]))
+(;W[hb];B[oc])
+(;W[ha];B[oc])
+(;W[ga];B[hb]C[]))
+(;W[fb];B[ec]C[4 liberties vs 3]))
+(;W[fc];B[gb])
+(;W[fb];B[oc]))
+(;W[gc];B[fd]C[4 liberties vs 3])
+(;W[fc];B[oc]))

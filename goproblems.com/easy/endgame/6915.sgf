@@ -1,0 +1,18 @@
+(;GE[endgame]DI[7k]DP[40]SO[tom111]CO[7]AW[er]AW[cr]AB[fr]AB[fs]AB[gq]AB[hr]AW[fq]AW[fp]AW[fo]AW[eo]AW[do]AW[co]AW[bo]AW[bn]AB[bm]AB[cn]AB[cl]AB[dn]AB[en]AB[fn]AB[gn]AB[go]AB[gp]C[BLack to play the best endgame]AP[goproblems]
+(;B[es];W[ds]C[The ordinary hane destroys opportunities])
+(;B[an]C[This endgame is double gote and only worth 1 point])
+(;B[ds];W[es]
+(;B[eq];W[dr])
+(;B[dr];W[eq]C[Nothing happens :(]))
+(;B[dr]
+(;W[ds]
+(;B[eq];W[dq])
+(;B[dq];W[eq];B[es]C[Correct, White should not play D1 (see variations)CHOICERIGHT]))
+(;W[dq];B[ds];W[cs];B[es]C[Depending on the rest of the Board white should not play E3 now, but consider it as a 'around 3 Point' Reverse Sente Move.RIGHT]))
+(;B[cs];W[es])
+(;B[eq];W[dr]C[This is the same like playing only E1, but whith the exchange of the marked stones which makes no difference in points.]MA[eq]MA[dr])
+(;B[dq];W[es]
+(;B[dr];W[eq])
+(;B[eq];W[dr];B[cq];W[bq];B[br];W[bs]
+(;B[cs];W[ar])
+(;B[ar];W[aq];B[cs];W[as];B[br];W[ar]))))

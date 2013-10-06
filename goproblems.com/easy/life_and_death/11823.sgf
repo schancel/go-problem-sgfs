@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[41]SO[enigm4]CO[0]SZ[19]AB[aq][bq][ao][bo][co][do][dp][dq][er]AW[an][bn][cn][dn][fn][eo][ep][eq][fr][dr][ds][br]
+(;B[cq];W[bp]
+(;B[cr];W[cs]
+(;B[bs];W[as];B[ar];W[es]
+;B[bs]C[RIGHT Black is alive.])
+(;B[ar]
+;W[bs]C[Black is dead.]))
+(;B[ar]
+;W[cr]C[Black is dead.]))
+(;B[cr];W[cq]
+(;B[cp]
+;W[bs]C[Black is dead.])
+(;B[ar]
+;W[cs]C[Black is dead.])))

@@ -1,0 +1,37 @@
+(;GE[best move]DI[3k]DP[25]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][co][do][dq]AB[bp][cp][dp][eq]C[best local result for white? exploit black's weakness]PL[W]
+(;W[ep]CR[ep]
+;B[dr]CR[dr]
+(;W[fq]CR[fq]
+;B[er]CR[er]C[black starts to feel a little smothered...]
+(;W[eo]CR[eo]C[RIGHT])
+(;W[fp]CR[fp]C[RIGHT])
+(;W[fo]CR[fo]C[RIGHT
+though usually white will choose a solid connection]))
+(;W[fp]CR[fp]
+;B[fq]CR[fq]C[white can do better])
+(;W[cq]CR[cq]
+;B[bq]CR[bq]C[exchanging C3 for B3 does not help the white position])
+(;W[bq]CR[bq]
+;B[cq]CR[cq])
+(;W[er]CR[er]
+;B[cq]CR[cq])
+(;W[ap]CR[ap]
+;B[cq]CR[cq]))
+(;W[eo]CR[eo]
+;B[ep]CR[ep]C[black is too happy with this result])
+(;W[fp]CR[fp]
+;B[ep]CR[ep]C[too good for black])
+(;W[fo]CR[fo]
+;B[ep]CR[ep])
+(;W[fq]CR[fq]
+;B[fp]CR[fp])
+(;W[ap]CR[ap]
+;B[eo]CR[eo])
+(;W[bq]CR[bq]
+;B[eo]CR[eo])
+(;W[cr]CR[cr]
+;B[eo]CR[eo])
+(;W[br]CR[br]
+;B[eo]CR[eo]C[good for black]))

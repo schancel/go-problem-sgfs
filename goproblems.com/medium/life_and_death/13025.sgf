@@ -1,0 +1,31 @@
+(;GE[life and death]DI[1k]DP[19]SO[Gelya]CO[0]SZ[19]AW[qf]AW[mp]AW[lq]AW[nq]AW[oq]AB[dd]AB[jd]AB[pd]AB[dj]AB[jj]AB[pj]AB[pn]AB[no]AB[dp]AB[jp]AB[np]AB[pp]AB[jq]AB[pq]LB[qf:1]LB[ln:A]TR[jq]C[White ignored your move and played 1, kill him! This is common tsuke-nobi joseki pattern (White should have played 'A')]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]
+(;B[lo]
+(;W[mr]C[be careful, only one move works]
+(;B[kr]
+(;W[or]
+(;B[pr]
+(;W[lp]
+(;B[lr]C[RIGHT]))
+(;W[lr];B[lp]C[RIGHT]))
+(;B[qr]C[RIGHT])
+(;B[ps]C[RIGHT])
+(;B[lr];W[qr];B[pr];W[ps];B[rq]C[RIGHT]))
+(;W[ns]
+(;B[or];W[pr];B[qr];W[ps])
+(;B[pr]C[RIGHT])))
+(;B[or];W[nr]
+(;B[pr]
+(;W[lp]
+(;B[ns];W[kr];B[ls];W[ms]))
+(;W[kr];B[ns];W[ls];B[lp];W[jr];B[ir];W[js]))
+(;B[lp];W[pr];B[qr];W[os])))
+(;W[kr]C[be careful, only one move works];B[mr]
+(;W[jr];B[ir];W[nr];B[pr];W[ms];B[lr];W[ls];B[js]C[RIGHT])
+(;W[nr];B[pr];W[jr];B[ir];W[ms];B[lr];W[ls];B[js]C[RIGHT])))
+(;B[kp];W[lo])
+(;B[mr];W[ln];B[mq];W[lr]
+(;B[lp];W[mo]
+(;B[kq];W[nr])
+(;B[or];W[nr];B[op];W[ms])
+(;B[nr];W[or];B[op];W[ns];B[pr];W[ms]))
+(;B[or];W[nr];B[op];W[ms])))

@@ -1,0 +1,15 @@
+(;GE[endgame]DI[8k]DP[48]SO[piccolo]CO[0]AW[pp]AW[or]AW[pq]AW[qr]AW[rr]AW[sq]AB[rq]AB[qq]AB[qp]AB[po]AB[oo]AB[qm]C[*Sente is not important. No ko threats left on the board* Best local reply to T3 ?]LB[sq:1]AP[goproblems]
+(;B[ro]C[];W[so]
+(;B[sn]C[RIGHT];W[sp]TR[rp]C[]TR[rn]
+(;B[rp];W[sr]TR[rn]C[];B[rn]C[RIGHT])
+(;B[rn];W[sr];B[rp]C[RIGHT]))
+(;B[sp];W[rp];B[qo];W[sp];B[sn];W[sr];B[rn]C[2 points worse than the solution.]))
+(;B[sp];W[qo]
+(;B[rp];W[ro];B[sr];W[so])
+(;B[sr];W[ro];B[so];W[rp]))
+(;B[so];W[qo];B[rp];W[ro];B[sp];W[sn])
+(;B[rp];W[so]
+(;B[sp];W[qo];B[sr];W[ro])
+(;B[rn]
+(;W[ro];B[qo];W[sp];B[sn];W[sr]C[1 point worse than the solution.])))
+(;B[qo];W[so]C[]))

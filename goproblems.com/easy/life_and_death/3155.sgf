@@ -1,0 +1,24 @@
+(;GE[life and death]DI[4k]DP[30]SO[santa c]CO[6]SZ[9]AW[fg]AW[gg]AW[dh]AW[eh]AW[hh]AW[ih]AW[bi]AW[ci]AB[cf]AB[ff]AB[gf]AB[hf]AB[dg]AB[eg]AB[hg]AB[ig]AB[bh]AB[ch]LB[ee:A]LB[fg:?]LB[gg:?]LB[dh:?]LB[eh:?]LB[hh:?]LB[ih:?]LB[bi:?]LB[ci:?]C[Can the white (marked) group be killed? Yes - Kill it / No - Play at 'A'.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[ee]C[RIGHT])
+(;B[di]LB[fh:o]LB[gh:o]LB[fi:o]C[A white move at a marked location is the correct response. Other moves are provided to show what'd happen.]
+(;W[fi]
+(;B[gh];W[fh]LB[gi:x]LB[hi:x]C[Both marked locations can supply white with 2 eyes -> White's alive. CHOICE])
+(;B[gi];W[gh]C[If black's staborn(and stupid) enough to try to kill - White may tenuki up to 2 times! (2nd time is worth 1 point)])
+(;B[hi]LB[gh:o]LB[gi:o]
+(;W[gi]C[Black has a threat here - F/G2 - So G2 instead of G1 would be better...])
+(;W[gh]C[And white'd get a chance to tenuki once, if black's stupid enough to continue.])))
+(;W[fh];B[gi];W[hi]C[If black's staborn(and stupid) enough to try to kill - White may tenuki once! (But it's worth 3 points) CHOICE])
+(;W[ei];B[gh];W[fh];B[gi]C[White'd die - As he wouldn't be able to approach from either side.])
+(;W[gi];B[fh]C[White'd die.])
+(;W[hi];B[fh]C[White'd die.])
+(;W[gh];B[fi]
+(;W[ei];B[gi];W[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Alive. (White has 2 eyes, now)])
+(;W[gi];B[ai];W[fh];B[ci];W[ei]LB[fi:1]LB[hi:2]LB[ii:2]C[Alive. (White has 2 eyes, now)])))
+(;B[gh]C[(NOTE: This is one of the two ways, which actually reduce white.)];W[fh];B[gi];W[fi]LB[di:x]C[Alive. (Both marked locations, are miai to kill.. G1 becomes playable if black H1 wJ1 - Then D1 and G1 are miai.)]LB[gi:x])
+(;B[fh];W[gh];B[fi];W[gi]C[Alive - Black can't deny white from havin 2 eyes - he'd need to play at both D1 and E1 to do so...])
+(;B[gi];W[gh];B[fi];W[hi];B[ei];W[fh]C[Alive.])
+(;B[fi];W[gi]
+(;B[fh];W[gh]C[Alive.])
+(;B[ei]
+(;W[fh]C[Alive. CHOICE])
+(;W[di]C[Alive. CHOICE]))))

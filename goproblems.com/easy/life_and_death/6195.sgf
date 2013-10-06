@@ -1,0 +1,47 @@
+(;GE[life and death]DI[25k]DP[76]SO[LCZLAPINSKI]CO[6]AB[al]AB[bl]AW[ck]AB[cl]AB[cm]AW[ai]AW[aj]AW[ak]AW[dl]AW[dm]AW[dk]AW[bj]AW[cj]AW[dj]AW[ek]AW[fk]AW[fj]AW[fl]AW[fm]AW[gm]AB[gl]AB[hl]AB[im]AB[hk]AB[ij]AB[jk]AW[hj]AW[gj]AW[gk]AB[hi]AB[gi]AB[fi]AB[ei]AB[di]AB[ci]AB[bi]AB[ej]AB[ah]AB[bh]AB[dh]AB[eh]AB[fh]AW[gh]AB[hh]AB[hg]AB[hf]AW[gg]AW[gf]AB[he]AB[ge]AW[fg]AW[ff]AW[fe]AW[ag]AW[bg]AW[bf]AW[cf]AW[cg]AW[ch]AW[df]AB[dg]AW[ee]AW[ed]AW[dd]AW[fc]AW[fb]AW[ea]AW[db]AB[fa]AB[ga]AB[gb]AB[gc]AB[gd]AB[fd]AW[ck]AB[il]AB[li]SZ[13]AB[kd]AB[je]AB[id]AB[kc]AB[kk]AP[goproblems]
+(;W[am]N[Var A];B[hm];W[bk]C[RIGHT])
+(;W[bm]N[Var B];B[hm];W[bk]C[RIGHT])
+(;W[bk]N[Var C];B[hm]
+(;W[am]C[CHOICERIGHT])
+(;W[bm]C[CHOICERIGHT]))
+(;W[ec]N[Var D]
+(;B[el]
+(;W[am];B[hm]C[Seki; there is better.])
+(;W[bm];B[hm]C[Seki; there is better.]))
+(;B[em]
+(;W[am];B[hm]C[Seki; there is better.])
+(;W[bm];B[hm]C[Seki; there is better.]))
+(;B[hm]
+(;W[am]
+(;B[el]C[Seki; there is better.])
+(;B[em]C[Seki; there is better.]))
+(;W[bm]C[Seki; there is better.]
+(;B[el]C[Seki; there is better.])
+(;B[em]C[Seki; there is better.]))))
+(;W[eg]N[Var E]
+(;B[el]
+(;W[am];B[hm]C[Seki; there is better.])
+(;W[bm];B[hm]C[Seki; there is better.]))
+(;B[em]
+(;W[am];B[hm]C[Seki; there is better.])
+(;W[bm];B[hm]C[Seki; there is better.]))
+(;B[hm]
+(;W[am]
+(;B[el]C[Seki; there is better.])
+(;B[em]C[Seki; there is better.]))
+(;W[bm]
+(;B[el]C[Seki; there is better.])
+(;B[em]C[Seki; there is better.]))))
+(;W[el]N[Var F];B[hm]C[Seki; there is better.])
+(;W[em]N[Var G];B[hm]C[Seki; there is better.])
+(;W[hm]N[Var H]
+(;B[el]C[Seki, there is better.])
+(;B[em]C[Seki, there is better.]))
+(;W[ef];B[hm];W[am];B[el]C[Only seki.])
+(;W[ii];B[hm];W[am];B[el]C[Only seki])
+(;W[dc];B[hm];W[am]
+(;B[el]C[Only sekiCHOICE])
+(;B[em]C[Only sekiCHOICE]))
+(;W[bd];B[hm];W[am]
+(;B[el]C[Only sekiCHOICE])
+(;B[em]C[Only sekiCHOICE])))

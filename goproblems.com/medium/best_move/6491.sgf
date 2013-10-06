@@ -1,0 +1,8 @@
+(;GE[best move]DI[1k]DP[18]SO[Zwom]CO[9]SZ[19]AB[ca]AB[da]AB[db]AB[eb]AB[ec]AB[ed]AB[fe]AB[ge]AB[gc]AB[hb]AB[ha]AB[ia]AB[hf]AB[hg]AB[gg]AB[fg]AB[eg]AB[fh]AB[gh]AB[bh]AB[bi]AB[cj]AB[ck]AB[cm]AB[cn]AB[do]AB[dp]AB[eo]AB[fo]AB[fp]AB[gp]AB[fq]AB[eq]AB[dr]AB[cr]AB[br]AB[og]AB[ng]AB[mf]AB[kf]AB[ji]AB[li]AB[mj]AB[mk]AB[ni]AB[ph]AB[pi]AB[qi]AB[pj]AB[gm]AB[il]AB[jn]AB[ln]AB[jp]AB[iq]AB[mq]AB[lq]AB[np]AB[no]AB[oo]AB[on]AB[pm]AB[qm]AB[rn]AB[ro]AB[qp]AB[pp]AB[rq]AB[sr]AB[or]AB[lc]AB[oc]AB[od]AB[pd]AB[pb]AB[qc]AB[re]AW[ba]AW[bb]AW[cb]AW[dc]AW[cd]AW[df]AW[dg]AW[dh]AW[eh]AW[ch]AW[ci]AW[bg]AW[gf]AW[dj]AW[ej]AW[fi]AW[gi]AW[hi]AW[hh]AW[ig]AW[if]AW[ie]AW[he]AW[ic]AW[ib]AW[ja]AW[kb]AW[ld]AW[md]AW[ke]AW[nc]AW[nb]AW[ob]AW[ne]AW[oe]AW[of]AW[pg]AW[qg]AW[rg]AW[rf]AW[qh]AW[ri]AW[qj]AW[qk]AW[rl]AW[pk]AW[pl]AW[ok]AW[nk]AW[om]AW[nm]AW[mm]AW[ml]AW[lk]AW[er]AW[fr]AW[gq]AW[hq]AW[hp]AW[hr]AW[go]AW[gn]AW[hn]AW[fn]AW[dm]AW[dl]AW[rs]AW[rr]AW[pr]AW[pq]AW[oq]AW[op]AW[nq]AW[nr]AW[mp]AW[qn]AW[dq]AW[cq]AW[cp]C[What is white's best move?]AW[pe]AW[qe]AW[rd]AW[sd]AB[qd]AB[rc]AB[sc]AW[ir]AW[jr]AW[kr]AW[mr]AW[lr]AB[kp]GM[1]FF[4]AP[Drago:1.42]
+(;W[cl];B[bl]
+(;W[bm];B[bk];W[co]LB[bn:a]LB[dn:b]TR[do]TR[eo]TR[fo]TR[fp]TR[gp]TR[fq]TR[eq]TR[dp]C[ oh the wonders of aji.  White now has miai to capture the marked stones.RIGHT])
+(;W[bk];B[bj];W[bm];B[ak];W[co]C[ See Adum's comment for why he considers this the best choice albeit not the game variation.RIGHT])
+(;W[co];B[dn];W[bm];B[bn];W[bk];B[am];W[bj]C[RIGHT]))
+(;W[co];B[dn];W[cl];B[bl]
+(;W[bm];B[bn];W[bk];B[am];W[bj]C[RIGHT])
+(;W[bk];B[bm];W[bj]C[RIGHT])))

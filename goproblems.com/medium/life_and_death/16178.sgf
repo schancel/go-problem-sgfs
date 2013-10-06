@@ -1,0 +1,20 @@
+(;GE[life and death]DI[2k]DP[23]SO[santa c]CO[0]AW[ak]AW[bj]AW[ck]AW[bl]AB[dk]AB[ek]AB[ei]AB[di]AB[ci]AB[cj]AW[dj]AB[fi]AW[fk]AW[fl]AW[hi]AW[gi]AW[fh]AW[fg]AB[bg]AB[cf]AB[df]AW[bf]AW[be]AW[ce]AW[dd]AW[ff]AW[fe]AW[fd]AW[cn]AW[em]C[B to live]AP[goproblems]
+(;B[bi];W[dg]
+(;B[dh]C[nice :)RIGHT])
+(;B[eg]C[nice :)RIGHT])
+(;B[ah]C[RIGHT])
+(;B[ag];W[ai]
+(;B[dh]C[nice :)RIGHT])
+(;B[eg]C[nice :)RIGHT])
+(;B[cg];W[dh])
+(;B[ah];W[cg]LB[ch:1]LB[aj:3]C[ko]))
+(;B[ai];W[ag]LB[ah:1]LB[cg:2]LB[ch:3]C[ko]))
+(;B[eh];W[dg]LB[eg:1]LB[cg:2]LB[ch:3]LB[bh:4])
+(;B[eg];W[eh]MA[bh]MA[dh])
+(;B[bh];W[dg]LB[eg:1]LB[eh:2]LB[dh:3]LB[ef:4]LB[cg:5]LB[bi:6]C[ko])
+(;B[dh];W[bh])
+(;B[ch];W[dg])
+(;B[dg];W[eh]MA[dh]MA[bh])
+(;B[ag];W[bi]LB[bh:1]LB[dg:2])
+(;B[cg];W[eg])
+(;B[ah];W[bi]LB[bh:1]LB[dg:2]))

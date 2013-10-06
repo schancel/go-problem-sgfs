@@ -1,0 +1,143 @@
+(;GE[best move]DI[10k]DP[50]SO[Hans]CO[7]
+AW[dl][el][gl][dm][fm][gm][dn][gn][co][go][ho][io][cp][hp][cq][dq][hq][iq][er][ir][is]
+AB[fk][gk][fl][hl][jl][em][im][en][in][kn][do][fo][jo][dp][fp][ip][jp][eq][gq][jq][gr][hr][jr][js]
+PL[W]C[White to play. Can white save his stones in sente?
+]
+(;W[eo];B[fr]C[
+]
+(;W[fn];B[dr]
+C[RIGHT White is safe and black lives with a part of his group.
+])
+
+(;W[gs];B[ep]
+(;W[fn];B[dr]C[
+]
+(;W[hs];B[fs];W[eo]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+
+(;W[eo]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+)
+
+(;W[gp];B[dr]
+(;W[fn];B[es];W[eo]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+
+(;W[hs];B[fs];W[fn]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+)
+
+(;W[fs];B[dr]
+(;W[gp];B[es]
+(;W[hs];B[fn])
+
+(;W[fn];B[eo])
+)
+
+(;W[es];B[hs])
+
+(;W[fn];B[es]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+)
+)
+
+(;W[ep];B[dr]LB[fq:A]
+C[RIGHT White can choose between playing the ko at A or connecting out while black can live. 
+])
+)
+
+(;W[fn];B[eo]
+(;W[fr];B[hn]
+(;W[gp];B[fq]C[Black wins.
+])
+
+(;W[fq];B[gp]C[Black wins.
+])
+)
+
+(;W[gs];B[fr]
+(;W[gp];B[fs]
+(;W[hs];B[hn])
+
+(;W[dr];B[hs])
+)
+
+(;W[fs];B[dr]
+(;W[es];B[hs])
+
+(;W[hs];B[es])
+
+(;W[ds];B[hs])
+)
+
+(;W[hs];B[fs])
+
+(;W[es];B[fs])
+)
+
+(;W[gp];B[hn]C[Black wins.
+])
+
+(;W[fq];B[fr]C[Black wins.
+])
+)
+
+(;W[fr];B[eo]
+(;W[fq];B[gp];W[gs];B[hs]
+(;W[fn];B[fs]
+(;W[es];B[hn]C[Only ko.
+])
+
+(;W[ep]C[Only ko.
+])
+)
+
+(;W[ep];B[fs];W[fn];B[eq]C[Only ko.
+])
+
+(;W[fs];B[dr];W[ep]C[Only ko.
+])
+)
+
+(;W[gs];B[hs]C[This leads to ko.
+])
+)
+
+(;W[gs];B[fr]
+(;W[eo];B[ep]LB[eo:A][fr:B][gs:C]
+C[See the path white A, black B, white C.
+])
+
+(;W[fn];B[dr];W[eo]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+
+(;W[fs];B[dr]
+(;W[eo];B[ep]
+(;W[fn];B[eo];W[gp];B[es])
+
+(;W[gp];B[es])
+
+(;W[hs];B[es])
+)
+
+(;W[es];B[hs]C[White loses.
+])
+)
+
+(;W[hs];B[fs]
+(;W[eo];B[ep];W[fn];B[dr];W[eo]
+C[White connects out but in gote while black lives with the main part of his group.
+])
+
+(;W[dr];B[eo]C[White loses.
+])
+)
+)
+
+)

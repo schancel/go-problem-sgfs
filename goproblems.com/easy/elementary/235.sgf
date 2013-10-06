@@ -1,0 +1,30 @@
+(;GE[elementary]DI[20k]DP[74]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;AW[or][pr][qr][sr][os][qs][ss]
+AB[qo][rp][sp][nq][oq][pq][qq][mr][rs]C[black to kill
+]
+(;B[rr];W[rq]
+(;B[rr]
+(;W[sq];B[rs]C[RIGHT
+white suffers shortage of liberties
+])
+
+(;W[rs];B[sq])
+)
+
+(;B[sq];W[rr])
+)
+
+(;B[rq];W[rr])
+
+(;B[sq];W[rr])
+
+(;B[nr];W[rr])
+
+(;B[ns];W[rr])
+
+)

@@ -1,0 +1,16 @@
+(;GE[endgame]DI[4k]DP[29]SO[maba]CO[7]AW[dq]AW[eq]AW[fq]AW[cr]AW[cs]AW[ds]AB[fr]AB[es]AW[gr]AW[gs]AB[gq]AB[gp]AB[fp]AB[ep]AB[dp]AB[cp]AB[cq]AB[br]AB[bs]AW[hq]AW[hp]AW[go]AW[fo]AW[eo]AW[do]AW[co]AB[bo]AW[bn]AW[hr]AW[ho]AW[an]AW[cn]AB[bq]AW[ao]C[Black to play the best local move. (Black doesn't have more ko-threats than white.)]AP[goproblems]
+(;B[bp];W[ap]
+(;B[aq];W[fs]
+(;B[dr];W[er]
+(;B[fr]C[RIGHT])
+(;B[ds];W[fr]))
+(;B[er];W[dr]))
+(;B[er];W[aq]
+(;B[ar];W[as])
+(;B[dr];W[ar]))
+(;B[fs];W[er])
+(;B[dr];W[aq]))
+(;B[ap];W[bp])
+(;B[dr];W[bp])
+(;B[er];W[bp])
+(;B[fs];W[er]))

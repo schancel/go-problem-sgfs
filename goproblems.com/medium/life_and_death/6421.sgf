@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4k]DP[28]SO[bass]CO[9]AB[cb]AB[bc]AB[bd]AB[be]AB[aa]AW[ba]AW[da]AW[db]AW[dc]AW[dd]AW[ce]AW[cf]AW[bf]AW[bh]C[Optimal play for black?]AW[cd]AP[goproblems]
+(;B[ca];W[ab]
+(;B[bb]
+(;W[ae]
+(;B[ac]C[This is the only way for black to live without ko.RIGHT])
+(;B[ad];W[aa]C[black dies.])
+(;B[aa]C[Not optimal: black lives, but white has a ko threat at B19.]))
+(;W[aa];B[ae];W[ac];B[ad];W[ab];B[aa];W[ba];B[ac]C[RIGHT]))
+(;B[ae];W[bb];B[cc];W[ac];B[ad];W[af];B[aa];W[ab]C[ko.])
+(;B[ac];W[bb]
+(;B[aa];W[bb]
+(;B[ae];W[cc]C[])
+(;B[cc];W[ae])
+(;B[ba];W[ae])
+(;B[ab];W[ae]))
+(;B[cc];W[ae]C[black dies.])))
+(;B[bb];W[ca]C[black is dead.])
+(;B[ae];W[ca]C[black is dead.]))

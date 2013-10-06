@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5k]DP[34]SO[unkx80]CO[8]AB[qc]AB[rc]AB[rb]AB[pa]AB[pb]AB[oa]AB[ma]AB[lb]AB[ka]AB[mc]AB[nc]AB[oc]AW[pc]AW[pd]AW[qd]AW[rd]AW[sc]AW[sb]AW[lc]AW[kc]AW[kb]AW[ib]AW[md]AW[le]AW[od]AW[mb]LB[la:A]C[If you think it is a ko, please play at A.]AP[goproblems]
+(;W[nb]
+(;B[ra]C[If you think it is a ko, please play at A.]LB[la:A]
+(;W[ja]TR[ka]TR[lb]C[The two marked stones are caught in a connect-and-die.RIGHT])
+(;W[la]C[No, the solution is not a ko.])
+(;W[nd];B[ob]C[]
+(;W[la]C[No, the solution is not a ko.])
+(;W[ja];B[na]))
+(;W[na];B[ob])
+(;W[ob];B[na]))
+(;B[la];W[ra]C[RIGHT]))
+(;W[la]C[No, the solution is not a ko.])
+(;W[ra];B[nb])
+(;W[ja];B[nb])
+(;W[nd];B[nb])
+(;W[na];B[nb])
+(;W[ob];B[nb]))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[5k]DP[33]SO[chrise]CO[8]AB[qd]AB[pd]AW[qf]AB[nd]AB[mc]AB[mb]AB[lb]AB[kb]AW[jb]AW[kc]AW[lc]AW[jd]AW[md]AW[me]AB[ld]AB[le]AW[nc]TR[md]TR[me]AW[qh]C[The 2 marked stones could cause a few problems for black if not captured.]AP[goproblems]
+(;B[mf];W[ne]
+(;B[nf];W[oe]TR[md]TR[me]C[They've escaped])
+(;B[of];W[oe]
+(;B[od];W[pe]TR[md]TR[me]C[They've escaped, although you have managed to build a nice corner. Watch out for white m14 or o14!])
+(;B[nf];W[pe]C[They've escaped. If you now play p16 for the corner, expect the white cut on m14])
+(;B[pe];W[od]
+(;B[nf];W[ob]C[Now  the 4 marked stones are in real danger]MA[kb]MA[lb]MA[mb]MA[mc])
+(;B[oc];W[ob]
+(;B[pc];W[nb]
+(;B[pb]C[Very nice! RIGHT])
+(;B[nf]C[Very nice! RIGHT])
+(;B[qb];W[ma]TR[md]TR[me]C[They've escaped]))
+(;B[nf]C[];W[pc]TR[md]TR[me]C[They've escaped])
+(;B[pb];W[pc]
+(;B[qb];W[nf]
+(;B[ng];W[og];B[pf];W[mg]TR[md]TR[me]C[They've escaped])
+(;B[qc];W[ng]TR[md]TR[me]C[They've escaped]))
+(;B[qc];W[nf]
+(;B[ng];W[og];B[pf];W[mg]C[They've escaped]TR[md]TR[me])
+(;B[oc];W[ng]C[They've escaped]TR[md]TR[me])))
+(;B[nb];W[pc]C[They've escaped]TR[md]TR[me]))
+(;B[pc];W[nf];B[ng];W[og];B[pf];W[mg]TR[md]TR[me]C[They've escaped])
+(;B[nb];W[nf];B[ng];W[og];B[pf];W[mg]C[They've escaped]TR[md]TR[me])
+(;B[ob];W[nf];B[ng];W[og];B[pf];W[mg]TR[md]TR[me]C[They've escaped]))
+(;B[pf];W[lf]
+(;B[kf];W[nf]TR[md]TR[me]C[They've escaped])
+(;B[nf];W[ke]TR[md]TR[me]C[They've escaped])))
+(;B[od];W[of]TR[md]TR[me]C[They've escaped])
+(;B[oe];W[nf]C[They've escaped]TR[md]TR[me]))
+(;B[od]C[Ok you get the corner. But what about the 2 stones? They now have good local influence.]TR[md]TR[me])
+(;B[ne];W[mf]TR[md]TR[me]C[They've escaped]))

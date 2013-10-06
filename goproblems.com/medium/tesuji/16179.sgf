@@ -1,0 +1,4 @@
+(;GE[tesuji]DI[3d]DP[10]SO[kmlck]CO[0]AB[hi]AB[ii]AB[jj]AB[jk]AB[ki]AB[li]AW[ji]AW[jh]AW[ih]AW[hg]AW[kh]AW[lg]C[White to cut black. All ladders work.
+]AP[goproblems]
+(;W[ij]C[FORCE];B[hk];W[ik]C[FORCE];B[il];W[kj]C[FORCE];B[lk];W[kk]C[FORCE];B[jl];W[kl]C[Black is cut!RIGHT])
+(;W[kj]C[FORCE];B[lk];W[kk]C[FORCE];B[kl];W[ij]C[FORCE];B[hk];W[ik]C[FORCE];B[jl];W[il]C[Black is cut!RIGHT]))

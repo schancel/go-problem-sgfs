@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[5k]DP[33]SO[symplicity]CO[0]AB[ql]AB[rl]AW[pl]AW[qk]AB[pk]AB[pj]AW[qm]AB[pm]AW[ol]AW[ok]AW[oj]AB[pi]AB[ph]AW[oi]AW[om]AB[pn]AW[on]AB[po]AB[qo]AB[pp]AB[qq]AB[rq]AB[sq]AW[qr]AW[rr]AW[pr]AW[pq]AW[op]AB[rj]AB[oo]AW[no]AW[np]AW[sr]C[White to do as much damage as possible.]AP[goproblems]
+(;W[rm];B[rk]
+(;W[ro];B[sm]
+(;W[rn]C[RIGHT])
+(;W[sn];B[sl]
+(;W[rn];B[sp]C[Only seki.])
+(;W[sp];B[rn]
+(;W[qp];B[qn]C[You could have gained more.])
+(;W[so];B[rp])
+(;W[rp];B[qn];W[qp]C[You could have gained more.]))
+(;W[qp];B[rp]
+(;W[rn];B[sp]C[Only seki.])
+(;W[sp];B[so]C[Only ko. And black can play S6 at any time to save at least the Q5 group.]))
+(;W[rp];B[rn])
+(;W[qn];B[rn]))
+(;W[sp];B[rn]
+(;W[rp];B[qn]C[You could have gained more.])
+(;W[qp];B[qn]C[You could have gained more.]))
+(;W[qp];B[rp]
+(;W[sn];B[sl]
+(;W[rn];B[sp]C[Only seki.])
+(;W[sp];B[so]C[Only ko. And black can play S6 at any time to save at least the Q5 group.]))
+(;W[so];B[rn])
+(;W[rn];B[so])))
+(;W[qp];B[ro])
+(;W[rn];B[ro])
+(;W[qn];B[rn]))
+(;W[rk];B[rm])
+(;W[ro];B[rn])
+(;W[qp];B[ro])
+(;W[rn];B[ro])
+(;W[qn];B[rn]))

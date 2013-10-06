@@ -1,0 +1,36 @@
+(;GE[life and death]DI[1k]DP[18]SO[Stones]CO[8]AB[jj]AB[kj]AB[lj]AW[ij]AW[ii]AW[jk]AW[kk]AW[lk]AW[mj]AW[nj]AW[oj]AW[pj]AW[qj]AW[qi]AW[oi]AW[ph]AW[pg]AW[rh]AW[qg]AB[mk]AB[ok]AB[pk]AB[qk]AB[ol]AB[ql]AB[pm]AB[pn]AB[qn]AB[rm]AB[hl]AB[jm]AB[lo]AB[mn]AB[no]AB[kp]AB[lq]AB[mr]AB[nr]AB[oq]AB[op]AB[or]AB[nn]AB[ln]AB[ko]AB[kq]AB[lr]AW[lm]AW[kn]AW[jn]AW[jo]AW[jp]AW[jq]AW[jr]AW[ks]AW[ls]AW[ms]AW[ns]AW[os]AB[kr]AW[ps]AW[pr]AW[pp]AW[pq]AW[po]AW[oo]AW[on]AW[om]AW[nm]AW[mm]AB[rr]AB[rp]AB[is]AB[ir]AB[hp]AB[ho]AB[ih]AB[hh]AB[kh]AB[mi]AB[mh]AB[mg]AW[jh]AW[ig]AW[if]AW[ie]AB[hk]AB[il]AB[im]AB[ni]AB[oh]AB[og]AB[nf]AB[oe]AB[pe]AB[pf]AW[ic]AW[jc]AW[kc]AW[lc]AB[km]AW[js]AW[ll]AB[ml]AB[nl]AW[nk]AB[hq]AB[gh]AB[gj]AB[ro]AB[qr]C[White to play.]AW[hc]AB[kf]AB[lf]AB[ne]AP[goproblems]
+(;W[mp]C[];B[ik]C[White thinks he can win the capturing race.  If you think you can win by filling play A.  If you think you can play tenuki and win play T(P18).]LB[lp:A]LB[ob:T]
+(;W[ob]C[];B[jl]C[Black wins the capturing race.])
+(;W[lp];B[jl]LB[mq:A];W[mq];B[kl]LB[mo:A];W[mo];B[in]LB[np:A];W[np];B[nq]LB[mp:A];W[mp];B[io]LB[lp:A];W[lp];B[ip]LB[mo:A];W[mo];B[iq]LB[np:A];W[np];B[mq]LB[mp:A];W[mp];B[qo]LB[lp:A];W[lp];B[qp]LB[np:A];W[np];B[mo]LB[mp:A];W[mp];B[qq]C[Black wins the capturing race.]))
+(;W[ji];B[ik]C[White is cut and has lost a liberty.])
+(;W[ik]
+(;B[mp]
+(;W[li];B[ki];W[kg]C[White escapes.RIGHT])
+(;W[ji];B[jg])
+(;W[ki];B[li];W[ji];B[jg]C[White dies.])
+(;W[jg];B[ji]C[White dies.]))
+(;B[ji]
+(;W[li]C[NOTTHIS])
+(;W[mp];B[hi]C[Black thinks its a capturing race.  Should white fill by playing A or can he afford to tenuki at T(P17)?]LB[oc:T]LB[lp:A]
+(;W[oc]C[Black wins the race.])
+(;W[lp];B[hj]LB[mo:A];W[mo];B[jl]LB[np:A];W[np];B[kl]LB[mq:A];W[mq];B[nq]LB[mp:A];W[mp];B[in]LB[lp:A];W[lp];B[io]LB[mo:A];W[mo];B[ip]LB[np:A];W[np];B[mq]LB[mp:A];W[mp];B[iq]LB[np:A];W[np];B[qo]LB[mo:A];W[mo];B[lp]LB[mp:A];W[mp];B[qp]LB[np:A];W[np];B[qq]LB[mo:A];W[mo]C[Correct.  You won the race by one move. J9 gained the extra liberty.  Black should have saved his bottom group by playing the vital point and letting you connect.RIGHT]))))
+(;W[ki];B[li]
+(;W[mp];B[ik]C[White loses the race.])
+(;W[ik];B[mp]
+(;W[ji];B[jg])
+(;W[jg];B[ji]))
+(;W[ji]
+(;B[mp]
+(;W[jg];B[ik])
+(;W[ik];B[jg]))
+(;B[ik];W[mp]C[Black wins the race.]))
+(;W[jg];B[mp]
+(;W[ji];B[ik])
+(;W[ik];B[ji])))
+(;W[li];B[ki]
+(;W[ji];B[ik];W[mp];B[jl]C[White loses the race.])
+(;W[kg];B[ik];W[mp];B[jl]C[White loses the race.])
+(;W[mp];B[ik]C[White loses the race.])
+(;W[ik];B[mp]
+(;W[kg]C[White escapes.RIGHT])
+(;W[ji];B[jg]))))

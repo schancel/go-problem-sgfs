@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[29]SO[Illuvatar]CO[9]AB[rr]AB[sq]AB[rp]AB[qp]AB[pq]AB[pr]AB[ps]AW[os]AW[or]AW[oq]AW[op]AW[pp]AW[po]AW[qo]AW[ro]AW[so]AW[sp]AW[rs]C[Black to live]AP[goproblems]
+(;B[qs];W[qq]C[white wins]
+(;B[rq];W[qr])
+(;B[ss];W[rq]))
+(;B[qr];W[rq]
+(;B[sr];W[qq])
+(;B[qq];W[sr];B[ss]C[Ko, black takes first]))
+(;B[qq];W[sr]
+(;B[ss]C[ko,  black takes first])
+(;B[qs];W[rq]C[ko, white takes first. Or.... ];B[ss];W[sq]C[death for black.]))
+
+(;B[rq];W[qr]
+
+(;B[qq];W[sr]
+(;B[qs];W[qr];C[Black is taken in a snapback])
+(;B[ss]C[ko, black takes first]))
+
+(;B[ss];W[sr]C[ko, white takes first]))
+
+(;B[sr]C[black winsRIGHT]
+(;W[qr];B[qq]C[RIGHT])
+(;W[qq];B[rq];W[qr];B[qs]C[RIGHT])
+(;W[qs];B[qr];W[qq];B[rq]C[RIGHT])))

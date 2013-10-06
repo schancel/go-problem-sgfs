@@ -1,0 +1,46 @@
+(;GE[life and death]DI[7k]DP[41]SO[Imperateur]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2001-05-14]
+SY[Cgoban 1.9.5]TM[30:00(5x1:00)];AW[ca][ab][dc][cd][dd][ae][be][ce]
+AB[ea][eb][bc][ec][ad][bd][ed][ee][bf][df][bg]
+(;B[cb];W[bb]
+(;B[db];W[cc]
+(;B[ba]C[RIGHT White cannot make two eyes and is dead.
+])
+
+(;B[da];W[ba]C[White has two eyes.
+])
+
+(;B[aa];W[ba]C[White has two eyes.
+])
+)
+
+(;B[cc];W[db]C[White has made two eyes.
+])
+
+(;B[ac];W[db]C[White has made two eyes.
+])
+
+(;B[da];W[ba]C[White has made two eyes.
+])
+
+(;B[ba];W[db]C[
+];B[da]C[RIGHT White cannot make two eyes.
+])
+)
+
+(;B[bb];W[cb]C[White has made two eyes.
+])
+
+(;B[cc];W[bb]C[White has made two eyes.
+])
+
+(;B[ba];W[cb])
+
+(;B[ac];W[cb];B[bb];W[ba]C[White can make two eyes now.
+])
+
+)

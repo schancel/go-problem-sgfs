@@ -1,0 +1,18 @@
+(;GE[life and death]DI[6k]DP[37]SO[magrock]CO[0]AB[ba]AW[ab]AW[bb]AW[ca]AB[ac]AW[bc]AB[ad]AB[bd]AB[cd]AB[dd]AB[ed]AW[dc]AW[ec]AB[fd]AB[fc]AW[fb]AB[gb]AB[ga]AW[ea]AP[goproblems]
+(;B[cc];W[cb]
+(;B[db];W[eb])
+(;B[eb];W[db];B[fa];W[eb])
+(;B[fa];W[eb]))
+(;B[cb];W[cc]
+(;B[da];W[db];B[ca];W[aa];B[ca];W[fa];B[da]C[RIGHT])
+(;B[db];W[eb];B[da];W[ca])
+(;B[fa];W[db];B[eb];W[da]))
+(;B[db];W[eb]
+(;B[cc];W[cb])
+(;B[cb];W[cc];B[da];W[ca]))
+(;B[fa];W[db]
+(;B[cc];W[cb];B[eb]C[you dont need to bargain for this group, it can be yours])
+(;B[eb];W[cc];B[da]C[try again]))
+(;B[eb];W[db]
+(;B[fa];W[eb])
+(;B[cc];W[cb];B[fa];W[eb])))

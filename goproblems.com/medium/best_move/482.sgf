@@ -1,0 +1,41 @@
+(;GE[best move]DI[3d]DP[10]SO[Spirit]CO[8]AB[dr]AB[eq]AB[es]AB[fq]AB[gp]AB[hp]AB[hr]AB[iq]AB[jq]AB[lr]AB[mo]AB[mq]AW[cq]AW[cr]AW[dq]AW[ep]AW[fp]AW[go]AW[ho]AW[ip]AW[jp]AW[jr]AW[ko]AW[kq]C[White could ofcourse connect at A,  
+though one might wonder if there's 
+something more preferable...]SZ[19]LB[kr:A]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[fr]MN[1];B[gr]
+(;W[hq]
+(;B[ir];W[gq];B[er];W[kr];B[fs]C[RIGHT])
+(;B[gq];W[ir];B[hq];W[kr]C[Black is dead.]))
+(;W[gq];B[hq]))
+(;W[kr];B[ir]C[You could have expected that this 
+wouldn't be optimal as black lives with 
+quite some points.])
+(;W[ir];B[hq]
+(;W[gr];B[fr];W[hs];B[gq];W[kr];B[gs])
+(;W[hs];B[kr]
+(;W[gr];B[gq];W[fr];B[er])
+(;W[fr];B[er]
+(;W[gr];B[gq])
+(;W[gs];B[gq]
+(;W[cs];B[is];W[js];B[ks];W[is];B[fs])
+(;W[is];B[fs])
+(;W[js];B[ks];W[is];B[fs])))
+(;W[gs];B[gq];W[fr];B[er]
+(;W[cs];B[is];W[js];B[ks];W[is];B[fs])
+(;W[gr];B[js])
+(;W[is];B[fs])
+(;W[js];B[ks];W[is];B[fs])))
+(;W[kr];B[gr]C[White can get much more than this.]))
+(;W[gr];B[fr]
+(;W[ir];B[hq];W[hs];B[gq];W[kr];B[gs])
+(;W[gs];B[gq];W[ir];B[hq]
+(;W[hs];B[kr])
+(;W[kr];B[hs]))
+(;W[hq];B[gq]
+(;W[ir];B[hq])
+(;W[kr];B[ir])))
+(;W[hq];B[gq];W[ir];B[hq]
+(;W[kr];B[fr])
+(;W[fr];B[kr];W[er];B[fs];W[ds];B[gs]))
+(;W[gq];B[hq]
+(;W[gr];B[fr])
+(;W[fr];B[gr])))

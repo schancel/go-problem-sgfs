@@ -1,0 +1,17 @@
+(;GE[endgame]DI[3d]DP[10]SO[ndkrempel]CO[0]SZ[9]AB[bb]AB[cb]AB[ca]AB[cc]AB[db]AB[eb]AB[fb]AB[gb]AB[cd]AB[dd]AB[ee]AB[df]AB[ff]AB[ef]AB[cg]AB[ch]AW[dh]AW[eh]AW[eg]AW[fg]AW[gf]AW[fe]AW[fd]AW[gd]AW[dc]AW[ec]AW[gc]AW[hb]AW[ha]AW[da]AW[ea]AW[fa]AW[ga]AB[fc]C[]AP[goproblems]
+(;B[di]
+(;W[ei]
+(;B[ed];W[ci];B[bi];W[di]
+(;B[bh]C[When the liberty is filled, white will have to protect against the marked cut. Result: B+1.RIGHT]TR[gg])
+(;B[ah]C[When the liberty is filled, white will have to protect against the marked cut. Result: B+1.RIGHT])
+(;B[bg]C[When the liberty is filled, white will have to protect against the marked cut. Result: B+1.RIGHT]))
+(;B[ci];W[ed]C[White has to defend the marked cut when the outside liberty is filled, but the result is still Jigo.]TR[gg]))
+(;W[ed];B[ei];W[fi];B[ci];W[gg]C[Result: B+1.RIGHT]))
+(;B[ed];W[ci]
+(;B[bi];W[di]
+(;B[bh]C[Result is Jigo.])
+(;B[ah]C[Result is Jigo.])
+(;B[bg]C[Result is Jigo.]))
+(;B[di];W[bi];B[bh];W[ei]TR[gg]C[Result: W+1 (white has to defend the marked cut when the outside liberty is filled.)]))
+(;B[ci];W[ed];B[di];W[ei]C[White has to defend the marked cut when the outside liberty is filled, but the result is still Jigo.]TR[gg])
+(;B[gg]C[Although it doesn't make any difference for this problem, this move unnecessarily wastes ko threats.]))

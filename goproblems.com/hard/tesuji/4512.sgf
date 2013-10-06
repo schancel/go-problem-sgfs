@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[5d]DP[5]SO[guff]CO[8]AW[pp]AW[oq]AW[np]AW[qp]AB[no]AB[oo]AB[po]AB[qo]AB[mp]AB[lp]AW[mo]AW[mn]AP[goproblems]
+(;B[rp];W[rq]
+(;B[qq]
+(;W[pq]
+(;B[nq];W[op]
+(;B[qr];W[ro];B[sp]
+(;W[so];B[or];W[sq];B[rp];W[sp];B[pr];W[rp];B[qm]C[Correct. However, in actual play, white could have done better by allowing black to link the two groups.RIGHT])
+(;W[sq];B[or];W[so];B[rp];W[sp];B[pr];W[rp];B[qm]C[Correct. However, in actual play, white could have done better by allowing black to link the two groups.RIGHT]))
+(;B[or];W[qr];B[pr];W[qq]C[Close, but no cigar. A and B are miai.]LB[nr:A]LB[ro:B]))
+(;B[qr];W[mq];B[rr];W[lq]C[Not so good. Black still has some bad aji against the 4 stones, and the two groups are still separated.]))
+(;W[ro];B[op]C[Correct. Now try the other possible white responses by navigating the solution.RIGHT])
+(;W[qr];B[op]C[Correct. Now try exploring the other white responses by navigating the solution.RIGHT]))
+(;B[ro];W[qr]
+(;B[op];W[nq]C[Nope.])
+(;B[nq];W[op];B[or];W[nr]C[Nope.])))
+(;B[nq];W[op]C[Now what?])
+(;B[op];W[nq]
+(;B[rp];W[rq]
+(;B[ro];W[qr]C[Nope.])
+(;B[pq];W[qq];B[pr];W[qr]C[Nope.])
+(;B[qq];W[pq];B[qr];W[ro]C[Nope.]))
+(;B[pq];W[qq];B[pr];W[qr]C[Nope.])
+(;B[rq];W[rp];B[ro];W[qq];B[sp];W[rr];B[sq];W[sr];B[so];W[pr]C[Uh... No.])))

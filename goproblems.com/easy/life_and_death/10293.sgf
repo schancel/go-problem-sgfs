@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[43]SO[koala]CO[5]AW[ss]AW[rr]AW[qr]AW[pr]AW[or]AW[oq]AW[op]AB[oo]AB[on]AB[pp]AB[pq]AB[qq]AB[rq]AB[sq]AB[sr]AW[po]AW[qo]AW[pn]AW[rn]AW[sn]AW[rp]AB[pm]AB[qm]AB[qn]AB[rm]AB[sm]AP[goproblems]
+(;B[rs];W[sp]
+(;B[qp];W[ss])
+(;B[ro];W[so]TR[qp]C[Black cannot play here due to shortage of liberties])
+(;B[so];W[ro]C[One eye versus no eye.  White wins.])
+(;B[ss];W[qs]))
+(;B[sp]
+(;W[ro]C[CHOICE]
+(;B[so];W[qp])
+(;B[qp];W[so])
+(;B[rs]C[RIGHT];W[qs]
+(;B[so];W[ss];B[qp]C[RIGHT])
+(;B[qp];W[ss];B[so]C[RIGHT])))
+(;W[rs]
+(;B[qp];W[so])
+(;B[ro];W[so];B[ro]C[RIGHT])))
+(;B[qp];W[sp])
+(;B[so];W[ro]
+(;B[sp];W[qp])
+(;B[qp];W[sp])
+(;B[rs];W[sp]C[One eye versus false eye.  White wins.]))
+(;B[ro];W[so]
+(;B[rs];W[sp]TR[qp]C[Black cannot play R4 due to a shortage of liberties.])
+(;B[sp];W[qp])
+(;B[qp];W[sp])))

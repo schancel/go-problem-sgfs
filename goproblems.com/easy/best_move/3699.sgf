@@ -1,0 +1,75 @@
+(;GE[best move]DI[12k]DP[55]SO[Meatex]CO[5]SZ[19]AP[MultiGo:2.8.0]AB[ca][cb][cc][bd][ad]AW[cd][dc][db][da][be][ce][ae]
+TR[ae]C[white played the mark stone. If you think the group is safe tenuki at A.]LB[fe:A]
+(;B[bb]	;W[ab](;B[aa]
+;W[ba]C[This is a ko. The correct solution has black living unconditionally.]
+)
+(;B[ac]
+;W[bc]C[Oops.]
+)
+(;B[bc]
+;W[aa]C[Seki...
+no wait \:)]LB[fe:A]
+;B[fe]	;W[ba]	;B[ac]
+;W[aa]C[Dead]
+)
+)
+(;B[ab]C[Sneaky \:)]
+(;W[ba]C[CHOICE]
+(;B[bb]	;W[bc]
+;B[ac]C[Alive.
+A18 was the key move. It does allow white 2 consecutive ko threats but if white got to go A18 the group would be dead.
+RIGHT]
+)
+(;B[aa]; W[bc]
+(;B[bb]; W[ac]
+)
+(;B[ac]; W[bb]
+)
+)
+(;B[bc]C[Black lives
+RIGHT]
+)
+)
+(;W[bb]C[CHOICE]
+(;B[ba]	;W[bc]
+;B[ac]C[Alive.
+A18 was the key move. It does allow white 2 consecutive ko threats but if white got to go A18 the group would be dead.
+RIGHT]
+)
+(;B[bc]C[Alive!
+RIGHT]
+)
+)
+(;W[bc]C[CHOICE]
+;B[ac](;W[bb]C[CHOICE]
+
+;B[ba]C[Alive.
+A18 was the key move. It does allow white 2 consecutive ko threats but if white got to go A18 the group would be dead.
+RIGHT]
+)
+(;W[ba]C[CHOICE]
+
+;B[bb]C[Alive.
+A18 was the key move. It does allow white 2 consecutive ko threats but if white got to go A18 the group would be dead.
+RIGHT]
+)
+)
+)
+(;B[fe](;W[bc]C[CHOICE]
+;B[bb]
+;W[ac]C[Dead]
+)
+(;W[bb]C[CHOICE]
+(;B[bc]
+;W[ba]C[Dead]
+)
+(;B[ab]
+;W[bc]C[Dead]
+)
+)
+(;W[ab]C[CHOICE]
+;B[bb]
+;W[ac]C[Dead]
+)
+)
+)

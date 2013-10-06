@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3d]DP[9]SO[Field Mouse]CO[0]AB[dq]AB[cp]AB[bo]AB[cn]AB[cm]AW[bk]AW[ck]AW[dk]AW[dl]AW[dm]AW[dn]AW[co]AW[do]AW[ep]AW[eq]AW[eo]AW[gq]AW[bi]AW[hq]C[White to play and attack the black group with the most brute force possible.]AP[goproblems]
+(;W[dr];B[bq];W[cr];B[an];W[bm];B[bn]
+(;W[br];B[bl])
+(;W[bl];B[ap]
+(;W[cq];B[br])
+(;W[br];B[cq])))
+(;W[bq];B[bp];W[dr];B[cq];W[cr];B[br]
+(;W[bs]
+(;B[aq]C[CHOICE]
+(;W[an];B[ao];W[ar]C[Well done, you made a nice crazy picnic ko!RIGHT])
+(;W[ar]C[Nice, pretty crazy picnic many step ko!RIGHT]))
+(;B[ar];W[aq]C[For example like this.];B[ap];W[an]C[RIGHT]))
+(;W[ar];B[bs];W[aq];B[er];W[fr];B[bm]))
+(;W[bn];B[bp];W[bm];B[er]))

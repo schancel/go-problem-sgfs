@@ -1,0 +1,34 @@
+(;GE[life and death]DI[1d]DP[16]SO[santa c]CO[9]C[Can White live at the buttom? Or should you Tenuki (T at K10)?]AB[ho]AB[io]AW[jr]AW[kr]AB[nr]AB[mr]AB[lq]AB[kp]AB[mp]AB[jo]AB[gp]AB[gq]AB[fr]AW[gr]AW[gs]AW[ip]AW[jp]AW[jq]AW[lr]AB[fs]AB[fo]LB[jj:T]AW[na]AW[nb]AB[ma]AB[mb]AW[mc]AW[md]AW[ne]AW[le]AW[ke]AW[je]AW[id]AW[hc]AW[gd]AW[gb]AW[fb]AB[hb]AB[ib]AB[jb]AB[jc]AB[jd]AB[kd]LB[jr:?]AP[goproblems]
+(;W[hr]
+(;B[is]
+(;W[hq];B[ir]
+(;W[ls];B[js]
+(;W[hp]C[Well done, seki! :)RIGHT])
+(;W[hs];B[hp]C[:(]))
+(;W[js];B[ls]C[:(])
+(;W[hp];B[ls]C[:(]))
+(;W[ir];B[hq]C[:(]TR[js]TR[ls])
+(;W[ls];B[hq]C[:(]TR[ir]TR[js])
+(;W[hp];B[hq]C[:(])
+(;W[js];B[ls]C[:(]))
+(;B[hq];W[is]C[RIGHT])
+(;B[ls];W[is]C[RIGHT]))
+(;W[ir];B[hr]C[:(])
+(;W[hq];B[hr];W[ir];B[hs]C[:(]TR[hp]TR[is])
+(;W[is];B[hr]C[:(])
+(;W[hs];B[hr]C[:(])
+(;W[js];B[hr]C[:(])
+(;W[ls];B[hr]C[:(])
+(;W[hp];B[hr]C[:(])
+(;W[jj];B[lb]C[How to kill then?]
+(;W[ka];B[lc]
+(;W[kb];B[ha]
+(;W[ja];B[ld]C[Seki! :(])
+(;W[ld];B[ja]C[:(]))
+(;W[ld];B[kb]C[:(])
+(;W[ha];B[kb]C[:(])
+(;W[ja];B[kb]C[:(]))
+(;W[lc];B[ka]C[:(])
+(;W[ha];B[ka]C[:(])
+(;W[kb];B[ka]C[:(])
+(;W[kc];B[lc]C[:(])))

@@ -1,0 +1,21 @@
+(;GE[endgame]DI[4k]DP[31]SO[Zwom]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[5]KM[0.00]
+PW[White]PB[Black]AW[bb][db][eb][bc][cc]AB[dc][ec][ad][bd][cd][dd]
+(;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ba]CR[ba]
+;W[aa]CR[aa]
+;B[ca]CR[ca]
+;W[cb]CR[cb]
+;B[ab]CR[ab]
+;W[ee]CR[ee]C[In this peculiar variation white sacrifices a stone do to lack of ko threats and to prevent the game from ending with two consecutive passes.  If black passes, white captures, black passes again, white captures again and it's jigo. both sides have 8 points.  Comments appreciated on this variaton as it is pretty confusing.])
+(;B[ba]CR[ba]
+(;W[ca]CR[ca]
+;B[ab]CR[ab]
+;W[aa]CR[aa]
+;B[ac]CR[ac]
+;W[ba]CR[ba]C[RIGHT])
+(;W[ab]CR[ab]
+;B[da]CR[da]C[RIGHT])
+(;W[ac]CR[ac]
+;B[da]CR[da]C[RIGHT])))

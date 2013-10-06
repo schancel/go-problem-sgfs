@@ -1,0 +1,12 @@
+(;GE[life and death]DI[5k]DP[33]SO[karmaGfa]CO[8]SZ[19]AW[fo]AW[io]AW[gp]AW[hp]AW[dq]AW[eq]AW[fq]AW[iq]AW[jq]AW[kq]AW[lq]AW[dr]AW[kr]AB[dn]AB[ho]AB[cp]AB[dp]AB[cq]AB[gq]AB[hq]AB[mq]AB[nq]AB[fr]AB[gr]AB[ir]AB[lr]AB[pr]AB[qr]AB[hs]TR[hq]C[Kill the marked group unconditionally.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[fs];B[js]
+(;W[jr];B[ks]C[]TR[mr]
+(;W[mr];B[es];W[er];B[ls]C[The black group is unconditionally safe.])
+(;W[es];B[gs];W[mr];B[ms]C[Ko only.]))
+(;W[ks];B[jr]C[Alive])
+(;W[es];B[gs]
+(;W[jr];B[ks];W[mr];B[ms]C[Ko only])
+(;W[ks];B[jr]C[Alive])))
+(;W[js]
+(;B[is]C[CHOICE];W[fs];B[es];W[er]C[RIGHT])
+(;B[fs]C[CHOICE];W[is]C[RIGHT])))

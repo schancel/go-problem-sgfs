@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4d]DP[8]SO[Hans]CO[9]C[Black to move and kill white.]AB[on]AB[pn]AB[qn]AB[rn]AB[oo]AB[ro]AB[so]AB[np]AB[nq]AB[nr]AB[ss]AW[pp]AW[sp]AW[pq]AW[sq]AW[pr]AW[sr]AW[ps]
+(;B[rr];W[rq]
+(;B[rs];W[qp];B[rp];W[qr];B[qq];W[rq];B[sq];W[qs]C[]
+(;B[sr];W[sp];B[sr];W[sq];B[rr]C[RIGHT])
+(;B[qq];W[iq]LB[jq:A]C[Please answer the white ko threat at A.];B[jq];W[rq]LB[ip:A]C[If you are searching for a ko threat play at A.]
+(;B[ip]LB[sr:A]C[You could have killed white unconditionally. Now white may live by playing at A ignoring your ko threat.])
+(;B[sr];W[sp];B[sr];W[sq];B[rr]C[RIGHT])))
+(;B[rp];W[rs]C[White lives.])
+(;B[qq];W[rs]C[White lives.]))
+(;B[rp];W[rs]C[White lives.])
+(;B[qq];W[rs]
+(;B[rq];W[qr]C[White lives])
+(;B[rr];W[qr];B[rq];W[rp])
+(;B[qr];W[qp];B[rp];W[rq]C[White is alive]))
+(;B[rq];W[rp];B[qp];W[rr];B[qq];W[qr];B[qo];W[rs]C[White lives.])
+(;B[qp];W[rs]C[White is alive.])
+(;B[qr];W[rs]C[White is alive.])
+(;B[rs];W[rp]
+(;B[qp];W[qq];B[rr];W[qo]
+(;B[qs];W[po]C[White is alive.])
+(;B[po];W[qs]C[Ko is not enough.]))
+(;B[rr];W[qp]C[White is alive.])))

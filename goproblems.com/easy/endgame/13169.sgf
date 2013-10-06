@@ -1,0 +1,64 @@
+(;GE[endgame]DI[15k]DP[62]SO[Seer]CO[0]AB[dd]AB[ed]AB[ec]AB[eb]AB[de]AB[ce]AB[be]AB[ae]AW[db]AW[ea]AW[fb]AW[gb]C[How black can reduce losses?]AP[goproblems]
+(;B[cb]
+(;W[ca]C[CHOICE]
+(;B[dc]
+(;W[da]C[CHOICE]
+(;B[ba];W[fa]
+(;B[bc]C[You can do betterRIGHT])
+(;B[bb]C[IMHO it's best way for blackRIGHT])
+(;B[ab]C[RIGHT]))
+(;B[fa]
+(;W[ga];B[ba];W[fa]
+(;B[bc]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[ab]C[RIGHT]))
+(;W[ba];B[bb];W[ga]
+(;B[aa]
+(;W[ab];B[ac];W[fa];B[aa]C[RIGHT])
+(;W[fa];B[ab]C[RIGHT]))
+(;B[ab]C[RIGHT]))))
+(;W[bb]C[White can try to win in ko.];B[da];W[ge];B[he];W[db];B[cc];W[da];B[bc]
+(;W[ab];B[ba];W[aa];B[ac]C[RIGHT])
+(;W[ba];B[ab];W[aa];B[ac];W[fa]C[RIGHT])))
+(;B[ba]
+(;W[da]
+(;B[dc];W[fa]
+(;B[bc]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[ab]C[RIGHT]))
+(;B[fa];W[ga];B[dc];W[fa]
+(;B[bc]C[RIGHT])
+(;B[bb]C[RIGHT])
+(;B[ab]C[RIGHT])))
+(;W[bb];B[da];W[ge];B[he];W[ca];B[cc]
+(;W[bc];B[bd];W[aa];B[ac];W[ba]C[Also ko fight can be like thisRIGHT])
+(;W[aa];B[dc];W[da];B[bc];W[ba]C[Or like thisRIGHT])))
+(;B[bb];W[ba]C[Black need to B18 for live without ko fight]
+(;B[ab]
+(;W[dc];B[cc];W[da];B[aa];W[fa]C[RIGHT])
+(;W[bc]C[CHOICE];B[dc]
+(;W[da]
+(;B[aa];W[fa];B[cc]C[RIGHT])
+(;B[bd]
+(;W[cc];B[ac]C[RIGHT])
+(;W[ac];B[cc]C[RIGHT])))
+(;W[cc];B[da]C[White need two big ko-threatsRIGHT]))
+(;W[da];B[dc];W[fa]C[RIGHT]))
+(;B[dc]
+(;W[bc];B[da]C[White need two big ko-threatsRIGHT])
+(;W[da]
+(;B[fa];W[ga];B[ab]C[RIGHT])
+(;B[ab];W[fa]C[RIGHT])))))
+(;W[dc];B[cc];W[da];B[ca];W[fa]C[RIGHT])
+(;W[da];B[ca];W[dc];B[cc];W[fa]C[RIGHT])
+(;W[bb]
+(;B[dc];W[ca]C[White can make ko fight])
+(;B[ca];W[cc];B[dc];W[ba])))
+(;B[ca];W[cb];B[bb];W[bc]
+(;B[cc];W[ab]
+(;B[dc];W[ba])
+(;B[bd];W[ba]))
+(;B[ac];W[cc]
+(;B[ba];W[ab])
+(;B[ab];W[ba];B[aa];W[da])))
+(;B[dc];W[cb];B[bb];W[cc];B[bc];W[ba];B[cd];W[ca];B[ab]))

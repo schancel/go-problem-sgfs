@@ -1,0 +1,12 @@
+(;GE[life and death]DI[4k]DP[30]SO[DarkSycthe]CO[0]AW[sq]AW[rq]AW[qq]AW[pq]AW[pp]AW[po]AW[qn]AW[qm]AW[rm]AW[rl]AW[ro]AB[qo]AB[qp]AB[rp]AB[rn]AB[sk]AB[rk]AB[ql]AB[qk]AB[pm]AB[pn]AB[nn]AB[np]AB[oq]AB[pr]AB[qr]AB[rr]C[Black to kill. You may want to do 13734 before this one :)]AP[goproblems]
+(;B[sn];W[sp]
+(;B[sl]LB[sm:A]C[White can't play A!RIGHT])
+(;B[sm]LB[sl:A]C[White can't play A!RIGHT]))
+(;B[so];W[sp]C[You didn't do 13734 did you? :P];B[ro];W[sn]
+(;B[ro];W[qo]
+(;B[sl];W[rp])
+(;B[rp];W[sl]))
+(;B[sl];W[ro]))
+(;B[sp];W[so])
+(;B[sl];W[sn];B[sm];W[sp])
+(;B[sm];W[sn];B[sl]))

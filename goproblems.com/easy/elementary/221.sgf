@@ -1,0 +1,24 @@
+(;GE[elementary]DI[12k]DP[55]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;
+AW[oo][po][qo][rp][sp][qq][rq][pr][qr][ps]
+AB[qm][nn][on][pn][rn][sn][no][so][np][pp][qp][oq][pq][sq][or][rr][sr][os][qs][rs]
+LB[sq:1]PL[2]C[black played atari at 1. best response?
+]
+(;W[ro];B[qn];W[ss]C[RIGHT
+white lives and saves stones
+])
+
+(;W[ss];B[ro]
+C[even though white lives, black captured three saveable stones
+])
+
+(;W[qn];B[ro])
+
+(;W[op];B[ro])
+
+)

@@ -1,0 +1,72 @@
+(;GE[life and death]DI[1d]DP[16]SO[Bleedo]CO[2]AB[fo]AB[en]AB[dn]AB[dm]AB[dl]AB[cl]AB[ck]AB[cj]AB[ci]AB[ch]AB[cg]AB[cf]AB[ce]AB[be]AB[bg]AB[ah]AB[bi]AW[bj]AW[bk]AW[bl]AW[bm]AW[cm]AW[cn]AW[co]AW[do]AW[dp]AW[dq]AW[eq]AW[er]AB[bn]AB[bo]AB[cp]AB[cq]AB[cr]AB[dr]AW[fn]AW[el]AW[em]AW[dk]AW[dj]AW[di]AW[dh]AW[dg]AW[df]AW[ag]AW[af]AW[bf]AW[ae]AW[ad]AW[bd]AW[cd]AW[dd]AW[fd]AW[fe]AB[fc]AB[gc]AB[gd]AB[hd]AB[bc]AB[cc]AB[dc]AB[hb]AW[hc]AW[ic]AW[jc]AW[kd]AW[ld]AB[lc]AW[nc]AW[ne]AW[jl]AW[kk]AB[jj]AB[lj]AB[ll]AW[jr]AW[jp]AW[jq]AW[kp]AW[lp]AW[mp]AB[kq]AB[lq]AB[mq]AW[nq]AW[mr]AW[oq]AW[pr]AB[mo]AB[np]AB[op]AB[pp]AB[pq]AB[qp]AB[qo]AW[qq]AB[qr]AB[qj]AB[nj]AB[pf]AB[pd]AB[qc]AB[qb]AW[pb]C[Play on the marked points please]TR[eo]AP[goproblems];W[eo];B[fm]TR[gn];W[gn];B[ek]TR[fl];W[fl];B[gm]TR[go]
+(;W[go];B[ej]TR[hm];W[hm];B[gl]TR[fk];W[fk];B[ei]C[White to play and kill the dragon]
+(;W[hl];B[gk];W[fj];B[fi];W[gj];B[gi]
+(;W[hk];B[de];W[ee];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[fg];B[gf])
+(;W[gf];B[fg]))
+(;W[hj];B[de];W[ee];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[fg];B[gf])
+(;W[gf];B[fg]))
+(;W[de];B[hj]))
+(;W[gk];B[de];W[ee];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[gf];B[fg])
+(;W[fg];B[gf]))
+(;W[fj];B[de]
+(;W[ee];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[gf];B[fg])
+(;W[fg];B[gf]))
+(;W[ed];B[ef];W[eh];B[fi]
+(;W[gi];B[fh])
+(;W[fh];B[gi];W[gk];B[gh];W[fg];B[ff];W[gg];B[hg];W[gf];B[ge];W[hf];B[if];W[he];B[ie]))
+(;W[ef];B[ed];W[ee];B[ec]))
+(;W[gj];B[de];W[ee];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[fg];B[gf])
+(;W[gf];B[fg]))
+(;W[eh];B[de]
+(;W[ee];B[ac];W[ed];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[fh]
+(;W[ef];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaksRIGHT]))
+(;W[ed]C[RIGHT]))
+(;W[de];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaksRIGHT])
+(;W[ef];B[de]
+(;W[ed];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaksRIGHT])
+(;W[ee];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaksRIGHT]))
+(;W[ed];B[de]
+(;W[ee];B[ef];W[eg];B[ff];W[fg];B[gf]
+(;W[aj];B[ec];W[ai];B[ge];W[bh]C[Yes!RIGHT])
+(;W[gg];B[ge])
+(;W[ge];B[he];W[hf];B[gg];W[hg];B[gh];W[fh];B[ec]))
+(;W[ef]C[RIGHT]))
+(;W[ee];B[de]
+(;W[fj];B[ac];W[ed];B[ef];W[eg];B[ff]
+(;W[fg];B[gf])
+(;W[gf];B[fg]))
+(;W[ef];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaksRIGHT])
+(;W[fg]C[RIGHT])
+(;W[eg]C[RIGHT])
+(;W[ff]C[RIGHT]))
+(;W[eg];B[de]
+(;W[ee];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg]C[];W[jf];B[je];W[kf]C[Yes, the ladder breaks!RIGHT])
+(;W[ed];B[ee];W[ff]C[RIGHT]))
+(;W[ff];B[de]
+(;W[ee];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[Yes, the ladder breaks!RIGHT])
+(;W[ed]C[RIGHT])
+(;W[ec];B[ee];W[ed];B[ef]))
+(;W[fg];B[de]
+(;W[ee];B[gk];W[fj];B[fi];W[gj];B[hj];W[gi];B[gh];W[hi];B[ii];W[hh];B[hg];W[ih];B[jh];W[ig];B[if];W[jg];B[kg];W[jf];B[je];W[kf]C[RIGHT])
+(;W[ed]C[RIGHT])
+(;W[ef];B[ed])
+(;W[ec];B[ee];W[ed];B[ef]
+(;W[eg];B[ff]
+(;W[ge];B[gf];W[he];B[gh]
+(;W[fi];B[fh];W[fj];B[eh])
+(;W[fh];B[fi])
+(;W[gg];B[hg];W[fh]))
+(;W[gf];B[ge]
+(;W[eb];B[gg];W[hf];B[fh])
+(;W[gg];B[eb])))
+(;W[fh];B[ff]
+(;W[ge];B[gf];W[he];B[gi];W[fi];B[fj]
+(;W[gj];B[gk];W[gh];B[eh];W[eg];B[hh];W[hi];B[gg];W[gi];B[ii];W[hj];B[hk])
+(;W[gk];B[gj];W[hh];B[eh];W[eg];B[gh]))
+(;W[gf];B[ge];W[eb];B[gg];W[hf];B[eh];W[eg];B[fi];W[gh];B[gi];W[hh];B[gk])))))
+(;W[fk];B[ej];W[fj];B[ei];W[fi];B[eh];W[fh];B[eg];W[fg];B[ef];W[de]C[RIGHT]))

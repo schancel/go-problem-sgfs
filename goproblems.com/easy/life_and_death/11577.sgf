@@ -1,0 +1,31 @@
+(;GE[life and death]DI[10k]DP[50]SO[Cow]CO[0]AB[rc]AB[qc]AB[pb]AB[qa]AW[ob]AW[nc]AW[pc]AW[pd]AW[qd]AW[rf]AW[rh]AW[pf]AB[rj]AB[qh]AB[ph]AB[ri]AB[pj]AW[qg]C[White to kill. If you find any correct variations I haven't covered, please tell me!]AB[oa]AW[mb]AB[na]AW[lc]AB[ld]AB[kc]AB[kd]AB[ic]AW[kb]AW[jb]AW[md]AB[ib]AB[he]AP[goproblems]
+(;W[rb]
+(;B[sb]
+(;W[rd];B[ra]C[Black is alive.])
+(;W[ra];B[rd]
+(;W[re];B[sd]C[Black makes two eyes and is alive!])
+(;W[sd]
+(;B[se];W[re]C[Black is dead. Well done!RIGHT])
+(;B[re]
+(;W[qe];B[se]C[Black caotures the stone and lives!])
+(;W[se]C[Black is dead and cannot escape. Well done!RIGHT])))))
+(;B[rd]
+(;W[qb];B[sb];W[pa]C[Ko is not good enough in this situation!])
+(;W[sb];B[re];W[se]C[Black is dead. Good job! :-)RIGHT])
+(;W[sd]
+(;B[sb];W[ra];B[se];W[re]C[Black has only one eye. He is dead - good job!RIGHT])
+(;B[ra];W[sb];B[se];W[re]C[Black is dead. Good!RIGHT])
+(;B[re]
+(;W[qe];B[sb]LB[ra:A]LB[se:B]C[A and B are miai, so black lives!])
+(;W[se];B[sb];W[ra]C[Black has only one eye and cant escape. Well done!RIGHT])
+(;W[qb];B[sb];W[pa]C[Ko is not good enough here!])))
+(;W[ra]
+(;B[sb];W[sd];B[se];W[re]C[Black is dead. Nice!RIGHT])
+(;B[re];W[qb]C[Black is dead and won't be able to escape. Congratulations!])))
+(;B[ra]
+(;W[rd];B[sb]C[Black is alive!])
+(;W[sb]C[Black can't make two eyes. Nice!RIGHT])))
+(;W[sc];B[sb];W[rb];B[sd]LB[rd:B]LB[ra:A]C[A and B are miai, black lives!])
+(;W[rd];B[rb]C[Black makes two eyes and is alive.])
+(;W[sd];B[rb]C[Black is alive])
+(;W[ra];B[rb]C[Black captures the white stone and makes two eyes.]))

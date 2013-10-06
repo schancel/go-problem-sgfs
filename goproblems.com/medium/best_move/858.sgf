@@ -1,0 +1,60 @@
+(;GE[best move]DI[4k]DP[28]SO[adum]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+SZ[19]RU[Japanese]KM[5.50]TM[1800]
+GN[White (W) vs. Black (B)]PB[Black]PW[White]DT[1999-07-27]SY[Cgoban 1.9.2]
+;AW[eo][fo][cp][dp][gp][cq][br][cs]AB[ep][fp][dq][fq][cr][dr][er]C[what can white do?
+]PL[W]
+(;W[gr]
+;B[gq]
+(;W[hq]
+;B[hp]
+(;W[go]
+;B[hr]
+(;W[iq]
+;B[fr]
+(;W[ir]
+;B[gs]C[RIGHT
+white gets good shape and sente
+])
+(;W[io]
+;B[ir]))
+(;W[ir]
+;B[iq]))
+(;W[fr]CR[fr]
+;B[go]CR[go]
+(;W[es]CR[es]
+;B[hr]CR[hr]
+(;W[ds]CR[ds]
+;B[iq]CR[iq]C[although white captures four stones, black gets very strong on the outside. sealing black in completely is much better])
+(;W[iq]CR[iq]
+;B[gs]CR[gs]))
+(;W[iq]CR[iq]
+;B[ip]CR[ip])))
+(;W[hp]
+;B[hq]))
+(;W[gq]
+;B[gr]
+(;W[hr]
+;B[hs]
+(;W[is]
+;B[gs]C[not best shape for white
+])
+(;W[ir]C[black can cut
+]))
+(;W[ho]
+;B[iq])
+(;W[hq]
+;B[hr]))
+(;W[hq]
+;B[gr])
+(;W[go]
+;B[hq])
+(;W[hr]
+;B[gr]C[black gets shape
+])
+(;W[ds]
+;B[gr])
+(;W[fr]
+;B[gr])
+(;W[es]
+;B[gr])
+(;W[do]CR[do]C[this weakness is not worth worrying about]))

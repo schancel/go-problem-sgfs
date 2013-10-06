@@ -1,0 +1,21 @@
+(;GE[life and death]DI[3k]DP[25]SO[tom111]CO[7]AB[rb]AB[sb]AB[rc]AW[sc]AW[rd]AW[re]AW[pd]AW[pe]AB[oc]AB[ob]AB[oa]AW[qa]AW[nd]AW[nc]AW[nb]AW[ne]AW[na]C[Black to live]AP[goproblems]
+(;B[ra];W[qc];B[qb];W[pb]
+(;B[pa];W[pc])
+(;B[pc];W[sa])
+(;B[sd];W[pc]))
+(;B[qc];W[pc]
+(;B[pb];W[ra])
+(;B[ra];W[pb])
+(;B[qb];W[pb]
+(;B[ra];W[pa])
+(;B[pa];W[od])))
+(;B[qb];W[pc]
+(;B[ra];W[pb])
+(;B[pb];W[ra]))
+(;B[pb];W[qb]
+(;B[qc];W[ra])
+(;B[ra];W[qc]))
+(;B[pc];W[qb]
+(;B[qc];W[ra];B[pa]C[Seki is correctRIGHT])
+(;B[ra];W[qc])
+(;B[pa];W[qc])))

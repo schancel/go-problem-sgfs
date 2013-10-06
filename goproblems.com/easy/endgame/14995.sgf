@@ -1,0 +1,17 @@
+(;GE[endgame]DI[6k]DP[37]SO[DarkSycthe]CO[0]SZ[9]AB[ea]AB[eb]AB[ec]AW[da]AW[db]AW[dc]AB[dd]AB[cd]AB[cc]AB[cb]AB[ba]AB[ab]AB[de]AB[ee]AB[ef]AB[dg]AB[cg]AB[ch]AW[dh]AW[di]AB[eh]AB[ei]AW[eg]AW[fg]AW[fh]AW[gf]AW[fd]AW[ed]AW[fc]AW[fb]AW[ga]AW[hb]AW[gc]C[No komi, no prisoners. Japanese Rules. Black to win.]AW[ge]AB[fe]AW[ff]AP[goproblems]
+(;B[ci]
+(;W[fa]C[CHOICE]
+(;B[fi]
+(;W[hh]C[CHOICE]
+(;B[hi];W[gh];B[gi];W[ih]C[Black wins by 1!RIGHT])
+(;B[gi];W[hi];B[gh];W[gg]C[Only Jigo!])
+(;B[gh];W[gg]
+(;B[gi];W[hi]C[Only Jigo!])
+(;B[hi];W[gi]C[Black has no ko threat])))
+(;W[gh];B[gi];W[hh];B[hi])
+(;W[gi];B[gh]C[RIGHT])
+(;W[hi];B[hh]C[RIGHT]))
+(;B[gi];W[fi]C[oops]))
+(;W[fi];B[ca]C[Black wins by 7!RIGHT]))
+(;B[ca];W[fi];B[ci]C[White wins by 1!])
+(;B[fi];W[gi]C[oops]))

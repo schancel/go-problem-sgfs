@@ -1,0 +1,26 @@
+(;GE[life and death]DI[15k]DP[61]SO[tails]CO[7]AB[ds]AB[dr]AB[cq]AB[bq]AB[bp]AW[bo]AW[cn]AW[cp]AW[dp]AW[dq]AW[er]AW[es]AW[fq]C[black to live.]AP[goproblems]
+(;B[bs];W[cr]
+(;B[cs]C[RIGHT])
+(;B[br];W[cs]))
+(;B[br];W[bs]
+(;B[ap];W[cr]TR[dr]TR[ds])
+(;B[cr];W[ap])
+(;B[as]
+(;W[ar])))
+(;B[ar];W[cr]
+(;B[br];W[bs]TR[dr]TR[ds])
+(;B[bs];W[cs]
+(;B[br];W[ap])
+(;B[ap];W[br]))
+(;B[ap];W[bs]))
+(;B[cr];W[bs]
+(;B[ap];W[ar])
+(;B[ar];W[ap]))
+(;B[ap];W[cr]
+(;B[ar];W[cs]
+(;B[br];W[bs])
+(;B[bs];W[br]))
+(;B[br];W[cs]))
+(;B[cs];W[bs]
+(;B[cr]C[Dead as it is.])
+(;B[br];W[cr])))

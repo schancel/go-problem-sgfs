@@ -1,0 +1,3 @@
+(;GE[endgame]DI[18k]DP[65]SO[Piccolo]CO[0]AB[tk]AB[ta]C[JAPANESE RULES. Assume White is alive and it is endgame where each point counts. Is it worthwile to take on Q19 ? (related to points)FORCE]AW[pd]AW[qd]AW[rd]AW[sd]AW[oa]AW[ob]AB[ra]AB[rb]AB[rc]AB[sc]AB[qb]AW[qa]AW[oc]AW[od]LB[pa:Y]LB[pe:N]AP[goproblems]
+(;B[pe]C[Exact !RIGHT])
+(;B[pa];W[pb]C[W must play here to prevent life, but.. At the beginning W has : 6+5*2 = 16, and now W has 5+6*2-1(prisoner) = 16 .. ! The key point is that the captured W stone gives an additional point of territory to W, to compensate for the prisoner. Q19 should be kept as a nice 16 points ko threat.]))

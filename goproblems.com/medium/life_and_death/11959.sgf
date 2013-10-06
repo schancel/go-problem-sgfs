@@ -1,0 +1,54 @@
+(;GE[life and death]DI[1d]DP[16]SO[de_nova]CO[0]SZ[19]AW[qo]AW[ro]AW[pp]AW[qp]AW[pq]AW[pr]AW[rr]AB[qm]AB[on]AB[qn]AB[sn]AB[po]AB[op]AB[oq]AB[or]AB[os]AB[ps]C[Black to kill]
+(;B[qr]C[]
+(;W[rs]
+(;B[rq]
+(;W[qs]
+(;B[sp];W[so]
+(;B[qq]C[RIGHT])
+(;B[rn]
+(;W[qq];B[sr]C[only seki])))
+(;B[sr];W[qq]LB[rn:3]LB[so:2]LB[sp:1]C[only seki])
+(;B[sq];W[qq]))
+(;W[qq];B[sp];W[so];B[qs]C[RIGHT])
+(;W[rp];B[sq];W[qs];B[rn];W[qq];B[so]C[RIGHT])
+(;W[sq];B[sp]
+(;W[sr];B[qq]C[RIGHT])
+(;W[rp];B[sr]C[RIGHT])
+(;W[qs];B[sr]C[RIGHT])))
+(;B[qq];W[rq]MA[qs]MA[sp])
+(;B[qs];W[rq]MA[sp]MA[so])
+(;B[so];W[rq]MA[qs]MA[sp])
+(;B[sp];W[rq]))
+(;W[qq];B[qs];W[rs];B[sp]C[RIGHT]MA[so]MA[rq])
+(;W[rq];B[rs]C[RIGHT]MA[sp]MA[sr]))
+(;B[qs];W[rq]
+(;B[sp];W[so]MA[qr]MA[rs])
+(;B[qr];W[sp])
+(;B[rs];W[sp]MA[qr]MA[sr]))
+(;B[rs];W[qr]
+(;B[sq]
+(;W[rq];B[so]
+(;W[qs];B[sr];W[sp];B[rp];W[ss];B[sp];W[rn]C[white could do this if b doesnt have a close by place to run to or...])
+(;W[sr]TR[sp]TR[qs]C[CHOICE]))
+(;W[so];B[rq];W[qs];B[sr]C[]))
+(;B[qs];W[rq])
+(;B[rq];W[qs]C[some creepy ko :)])
+(;B[sp];W[rq]MA[so]MA[qs]))
+(;B[so];W[rq]TR[sp]MA[qr]MA[qs]MA[rs]C[miai])
+(;B[sp];W[rq]TR[so]MA[qr]MA[rs]C[miai])
+(;B[sq];W[rq]
+(;B[so];W[sr])
+(;B[sp];W[so])
+(;B[qs];W[sp])
+(;B[qr];W[sp])
+(;B[rs];W[sp]))
+(;B[rq];W[qs]
+(;B[qq];W[qr])
+(;B[sp];W[so])
+(;B[sq];W[sr])
+(;B[sr];W[rs]LB[rn:3]LB[so:2]LB[sp:1]C[only seki]))
+(;B[sr];W[rq]
+(;B[qr];W[rs]MA[qs]MA[sp])
+(;B[rs];W[qr])
+(;B[qs];W[sp]MA[qr]MA[rs])
+(;B[sp];W[qs])))

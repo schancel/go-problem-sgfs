@@ -1,0 +1,40 @@
+(;GE[endgame]DI[4k]DP[29]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[eb][fb][gb][dc][ec][bd][cd][dd][ae][be][de][cf][df]AB[bb][cb][db][ac][bc][fc][gc][ad][ed][fd][ee][ef][ff]C[No komi, no prisoners - black to play and win!]
+(;B[aa]CR[aa]
+(;W[eg]CR[eg]
+;B[fg]CR[fg]
+;W[dg]CR[dg]
+(;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[da]CR[da]C[ Black wins by one point! RIGHT CHOICE])
+(;B[da]CR[da]
+;W[ea]CR[ea]C[Jigo... Bd7 is wrong]))
+(;W[da]CR[da]
+;B[ca]CR[ca]
+;W[ea]CR[ea]
+(;B[dg]CR[dg]
+;W[cg]CR[cg]
+;B[eg]CR[eg]C[Black wins by one point! RIGHT CHOICE])
+(;B[eg]CR[eg]
+;W[dg]CR[dg]C[Jigo... BE1 is wrong])))
+(;B[da]CR[da]
+(;W[ea]CR[ea]
+(;B[ba]CR[ba]
+;W[eg]CR[eg]
+;B[fg]CR[fg]
+;W[dg]CR[dg]C[This is only a jigo....])
+(;B[dg]CR[dg]
+;W[cg]CR[cg]
+;B[eg]CR[eg]
+;W[ba]CR[ba]
+;B[aa]CR[aa]
+;W[ab]CR[ab]C[Now c7 is not possible (WE7 took away a liberty), so black collapses]))
+(;W[ba]CR[ba]
+;B[aa]CR[aa]
+;W[ab]CR[ab]
+;B[ca]CR[ca]C[So after D7 black is alive, but there is the problem of WE7 after BD8...!]))
+(;B[ea]CR[ea]
+;W[da]CR[da]C[Black is dead])
+(;B[dg]CR[dg]
+;W[da]CR[da]C[Black is dead]))

@@ -1,0 +1,6 @@
+(;GE[fuseki]DI[10k]DP[50]SO[Zwom]CO[8]SZ[19]AW[cc]AW[mc]AW[pc]AW[dd]AW[qe]AW[df]AB[db]AB[fc]AB[kc]C[What is the most efficient point for black to add a stone to his group?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[hd]C[This gives a good balanced position.RIGHT])
+(;B[ic]C[black's position is low and boring.])
+(;B[fe];W[ic]C[With support nearby white will immediately move in.])
+(;B[ke];W[hc])
+(;B[id]C[RIGHT]))

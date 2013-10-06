@@ -1,0 +1,15 @@
+(;GE[life and death]DI[2d]DP[14]SO[Field Mouse]CO[0]AW[ar]AW[br]AW[cr]AW[cs]AW[bq]AW[ap]AW[dr]AB[ao]AB[bp]AB[cp]AB[bn]AB[cn]AB[do]AW[bm]AW[cm]AW[dm]AW[dn]AW[ep]AW[dp]AB[dq]AB[cq]AB[eq]AB[er]AB[es]AB[bs]AW[en]AW[fo]AW[fp]AW[fq]AW[fr]AW[fs]AB[gr]AB[gq]AW[gp]AW[ho]AW[gn]AB[hp]AB[ip]AB[io]AB[hq]AB[in]AB[gm]AB[hm]AB[fm]AB[fn]AB[ci]AB[cl]AW[ck]AW[cj]AB[dj]AB[dk]AW[dl]AB[el]AB[fk]AB[di]C[Black to play and get the best result possible! If you want to tenuki play at T (F11)!]AW[bk]AW[al]AW[ak]AW[bi]AB[bh]AW[ah]AW[bj]AB[ai]AB[bg]AB[dg]AB[ds]LB[fi:T]AP[goproblems]
+(;B[am]LB[fi:T]
+(;W[co]LB[fi:T]C[(remember the T possibility for tenuki)]
+(;B[bo]LB[fi:T];W[eo]LB[fi:T]
+(;B[fi]C[Nice, white is captured in triple ko and even the big number of threats she has will not help her! And you really could tenuki now!CHOICERIGHT])
+(;B[aq]C[This move is a mistake - it was just minus one point in gote. Sorry if I tricked you this way but you were warned :)]))
+(;B[aq]C[Again, this ko solves nothing. White can just play a threat and retake - so this variation is useless for the purpose of this goproblem.NOTTHIS])
+(;B[fi];W[bo]))
+(;W[an];B[aq]C[This does not help white at all.RIGHT])
+(;W[eo]LB[co:A]LB[bo:B]C[Now both A and B kill white efficiently :)RIGHT]))
+(;B[aq]C[Black can start here, but creating all the variations where black takes ko, white makes a threat and then retakes would make the problem too complicated for no real effect.NOTTHIS])
+(;B[co];W[am]C[You got tricked - now white will eat your group if she has enough good ko threats!])
+(;B[bo];W[am]C[White has many big ko threats, so she will have no problem with winning this fight now.])
+(;B[an];W[co]C[White will kill you now when having enough threats :(])
+(;B[fi];W[am]C[Now white can take black stones if she has enough nice ko threats!]))

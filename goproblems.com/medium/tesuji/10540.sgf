@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[1k]DP[18]SO[Bleedo]CO[10]AB[db]AB[eb]AB[fc]AB[dd]AB[de]AB[ed]AB[fe]AB[dg]AB[ch]AB[eh]AW[bh]AW[cg]AW[cf]AW[cb]AW[cc]AW[cd]AW[dc]AW[ec]TR[bh]C[Black to respond to this stone most effectively.]AP[goproblems]
+(;B[bi];W[ci];B[dh];W[bg];B[cj]C[Even if you captured this stone in a ladder, white gets to play a ladder breaker.])
+(;B[ce];W[be]
+(;B[bi];W[ci];B[dh];W[bg];B[cj]C[Even if you capture this stone in a ladder, white gets to play a ladder breaker.])
+(;B[bg];W[bf];B[bi];W[ag];B[ci]C[RIGHT]))
+(;B[bg]
+(;W[ci]C[CHOICE]
+(;B[ce];W[be];B[bf];W[bd];B[df]C[Navigate solution to see white's best response.RIGHT])
+(;B[dh];W[bf];B[bi];W[ag];B[cj]C[Even if you capture this stone in a ladder, white gets to play a ladder breaker.]))
+(;W[bf];B[bi];W[ag];B[ci]C[Correct play for both players.])))

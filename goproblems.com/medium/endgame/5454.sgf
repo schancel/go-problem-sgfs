@@ -1,0 +1,20 @@
+(;GE[endgame]DI[2d]DP[12]SO[bass]CO[7]SZ[7]AB[ab]AB[ba]AB[ca]AB[cb]AB[db]AB[eb]AW[ac]AW[bc]AW[bb]AW[bd]AW[cc]AW[dc]AW[dd]AW[ce]AW[be]AW[bf]AB[cf]AW[df]AW[ef]AW[ff]AB[de]AB[ee]AB[fe]AB[gf]AB[ed]AB[ec]C[No komi, no prisoners, black to play and win.]AW[ae]AB[ea]AP[goproblems]
+(;B[fg];W[cg]
+(;B[eg]
+(;W[dg]
+(;B[aa];W[gg]C[];B[fg];W[eg]
+(;B[ge];W[gg];B[bg];W[cf];B[fg]C[Black wins by one point!RIGHT])
+(;B[gg];W[ge]))
+(;B[ge];W[gg];B[fg];W[aa]C[Jigo.]))
+(;W[aa]C[This does not help white.];B[ge];W[ab];B[gg];W[dg]C[Black wins by one point.RIGHT]))
+(;B[aa];W[eg];B[ge];W[gg]C[Jigo.])
+(;B[ge];W[eg]
+(;B[aa];W[gg]C[Jigo.])
+(;B[gg];W[aa]C[Jigo.]))
+(;B[gg];W[eg];B[ge];W[aa]C[Jigo.]))
+(;B[aa];W[fg]C[White wins.])
+(;B[cg];W[fg]C[White wins.])
+(;B[gg];W[fg]C[White wins.])
+(;B[dg];W[fg]C[White wins.])
+(;B[eg];W[fg]C[White wins.])
+(;B[ge];W[fg]C[White wins.]))

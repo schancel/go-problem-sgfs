@@ -1,0 +1,25 @@
+(;GE[life and death]DI[7k]DP[44]SO[elciego]CO[7]AW[rb]AW[rc]AW[sb]AW[sa]AB[qb]AB[qc]AB[pa]AB[pb]AW[ob]AW[pd]AW[pc]AW[od]AW[nd]AW[md]AW[mc]AW[nb]AW[qd]AB[mb]AB[ma]AB[lc]AB[ld]AB[le]AB[me]AB[ne]AB[pe]AB[oe]AB[qe]AB[rd]AB[re]AW[na]AB[kb]C[Black to kill.]AP[goproblems]
+(;B[oc];W[nc]LB[se:T]C[Play at 'T' to tenuki if you think White is dead.]
+(;B[qa]C[Very good!RIGHT])
+(;B[ra];W[qa]C[Ko in White's favor... surely you can do better.])
+(;B[sd];W[qa];B[ra]C[Ko... not the best.])
+(;B[sc]C[];W[sd]
+(;B[qa]C[RIGHT])
+(;B[se];W[qa];B[ra]C[Ko... not the best.])
+(;B[ra];W[qa]C[Ko in White's favor... surely you can do better.]))
+(;B[se];W[qa]C[Ko... you could've killed outright.];B[ra]))
+(;B[nc];W[oc]LB[se:T]C[Play at 'T' to tenuki if you think White is dead.]
+(;B[qa]C[Very good!RIGHT])
+(;B[ra];W[qa]C[Ko in White's favor... surely you can do better.])
+(;B[sd];W[qa];B[ra]C[Ko... not the best.])
+(;B[sc]C[];W[sd]
+(;B[qa]C[Very good!RIGHT])
+(;B[ra];W[qa]C[Ko in White's favor... surely you can do better.])
+(;B[se];W[qa];B[ra]C[Ko... not the best.]))
+(;B[se];W[qa];B[ra]C[Ko... you could've killed outright.]))
+(;B[ra];W[qa]C[Ko in White's favor... surely you can do better.])
+(;B[qa];W[oa]C[White lives.])
+(;B[sd];W[oa]C[White lives.])
+(;B[sc]C[];W[sd]
+(;B[oc];W[nc];B[qa]C[RIGHT])
+(;B[nc];W[oc];B[qa]C[RIGHT])))

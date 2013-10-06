@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[9]AB[sr]AB[rr]AB[qr]AB[pq]AB[pr]AB[or]AB[rq]AW[sp]AW[sq]AW[qp]AW[rp]AW[qq]AW[ro]AW[qn]AW[po]AW[on]AW[pm]AW[no]AW[mo]AW[lo]AW[kp]AW[kq]AW[jp]AW[lr]AW[nr]AW[nq]AW[oq]AB[kr]AB[jr]AB[jq]AB[ip]AB[jo]AB[ko]AB[ln]AB[mn]AB[nn]AB[om]AB[ol]AB[nl]AB[ql]AB[qm]AB[rl]AB[rn]AB[sm]AB[hq]AB[rs]C[Black saw?]AP[goproblems]
+(;B[pp]
+(;W[lq]
+(;B[mp]TR[mq]TR[ms]C[Well done! Can't get a second eye here! :)RIGHT])
+(;B[op];W[mp]C[:(])
+(;B[ms];W[mp]TR[mr]TR[op]C[:(])
+(;B[ns];W[mp]C[:(]TR[op]TR[mr])
+(;B[ls];W[mp]C[:(]TR[mr]TR[op]))
+(;W[op];B[mp]C[RIGHT])
+(;W[mp];B[lq]C[RIGHT])
+(;W[ms];B[mq]
+(;W[op];B[mp]C[RIGHT])
+(;W[mp];B[lq]C[RIGHT])
+(;W[lq];B[mp]C[RIGHT]))
+(;W[ls];B[lp]C[RIGHT])
+(;W[ns];B[lp]C[RIGHT])
+(;W[mq];B[lp]C[RIGHT])
+(;W[lp];B[mq]C[RIGHT]))
+(;B[lp];W[lq]TR[mp]TR[pp]C[:(])
+(;B[lq];W[lp]C[:(])
+(;B[mq];W[lq]TR[pp]TR[mp]C[:(])
+(;B[ls];W[lq]TR[mp]TR[pp]C[:(])
+(;B[mp];W[pp]C[:(])
+(;B[ns];W[pp]C[:(])
+(;B[op];W[pp]C[:(])
+(;B[ms];W[pp]C[:(]))

@@ -1,0 +1,8 @@
+(;GE[endgame]DI[15k]DP[62]SO[santa c]CO[6]SZ[9]AB[da]AB[db]AB[eb]AB[fb]AB[fc]AB[gc]AB[fd]AB[ee]AB[ff]AB[de]AB[ce]AB[bf]AB[bg]AB[bh]AW[ci]AW[di]AW[dh]AW[cg]AW[dg]AW[cf]AW[fg]AW[fh]AW[eh]AW[gf]AW[ge]AW[gd]AW[hd]AW[hc]AW[hb]AW[gb]AW[ga]AW[fa]AW[ea]C[Is the game over? Play at C2, to pass, if you think it is. (NO KOMI)]AB[be]AB[bi]LB[ch:P]AP[goproblems]
+(;W[ef]C[Black would play F5 because white wC4 only threatens 1 point of territory, while wF5 threatens, 2 points of ter + 1 prisoner. (And only is here, to show it.. Won't be played out by the applet..;)]
+(;B[fe];W[df]C[Well done! White: 21 ter - Black: 21 ter -> It's a jigo! :)RIGHT])
+(;B[df]C[Equals a pass.];W[fe]C['Well done!' -  White: 22 ter + 1 prisoner - Black: 21 ter -> White wins by 2 moku! :) - Woudn't happen. (Thanks, Hans)RIGHT]))
+(;W[df];B[ef]C[Oops? White: 20 ter - Black: 21 ter -> White lost!])
+(;W[fe];B[ef]C[Oops? White: 20 ter - Black: 21 ter -> White lost!])
+(;W[eg]C[Oops? White: 20 ter - Black: 21 ter -> White lost!])
+(;W[ch];B[ef]C[Oops? White: 20 ter - Black: 21 ter -> White lost! (wE4 would be a bit better;)]))

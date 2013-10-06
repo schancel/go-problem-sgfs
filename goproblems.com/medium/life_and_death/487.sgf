@@ -1,0 +1,49 @@
+(;GE[life and death]DI[1k]DP[19]SO[shodan]CO[9]
+SZ[19]
+AB[ga][gb][gc][fc][ec][dd][cd][bd][ad]
+AW[bc][cc][dc][eb][fb][ba]
+	(;B[ab];W[ac]
+		(;B[bb];W[cb]
+			(;B[da];W[ea];B[fa]C[RIGHT])
+			(;B[ca];W[da])
+			(;B[ea];W[da];B[fa];W[aa];B[db];W[eb])
+			(;B[fa];W[da];B[ea];W[aa];B[db];W[eb])
+		)
+		(;B[aa];W[db];B[fa];W[ea])
+		(;B[ca];W[db]
+			(;B[bb];W[cb];B[fa];W[aa];B[ea];W[da])
+			(;B[fa];W[bb];B[ea];W[da])
+		)
+		(;B[da];W[db]
+			(;B[fa];W[bb];B[ea];W[ca])
+			(;B[bb];W[ca];B[fa];W[ea])
+		)
+		(;B[ea];W[da]
+			(;B[fa];W[cb];B[db];W[eb])
+			(;B[cb];W[db];B[fa];W[bb])
+		)
+		(;B[fa];W[da]
+			(;B[ea];W[cb];B[db];W[eb])
+			(;B[cb];W[bb];B[db];W[ca];B[ea];W[db])
+		)
+		(;B[cb];W[db]
+			(;B[bb];W[ca];B[fa];W[aa];B[ea];W[bb])
+			(;B[fa];W[bb];B[ea];W[da])
+		)
+		(;B[db];W[cb];B[fa];W[da];B[ea];W[db])
+	)
+	(;B[aa];W[ab];B[db];W[cb];B[fa];W[da];B[ea];W[db])
+	(;B[ca];W[cb];B[da];W[ea];B[ac];W[ab];B[fa];W[db])
+	(;B[da];W[db];B[ab];W[ac];B[bb];W[ca];B[fa];W[ea])
+	(;B[ea];W[db]
+		(;B[fa];W[ab];B[da];W[ca])
+		(;B[ab];W[bb];B[ac];W[fa])
+	)
+	(;B[fa];W[ab]
+		(;B[ca];W[cb];B[da];W[db];B[ea];W[ac])
+		(;B[da];W[cb];B[db])
+	)
+	(;B[bb];W[ab];B[fa];W[db];B[ea];W[da];B[ac];W[cb])
+	(;B[cb];W[db];B[fa];W[ea];B[ab];W[bb];B[ac];W[ca])
+	(;B[db];W[cb];B[fa];W[da];B[ac];W[ab];B[ea])
+)

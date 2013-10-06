@@ -1,0 +1,43 @@
+(;GE[endgame]DI[8k]DP[49]SO[wtd]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[mq][nq][hr][ir][kr][lr][nr][js]AB[hq][iq][jq][kq][lq][fr][gr][jr][mr]C[Save as many stones as possible.]
+(;W[is]
+;B[gs]
+(;W[ms]
+;B[hs]
+;W[ks]C[RIGHT Well done.])
+(;W[ks]
+;B[hs]
+;W[ms]C[RIGHT You achieved the objective, but N1 before L1 is usual, to leave a smaller ko threat from bH1.]))
+(;W[ms]
+;B[hs]
+(;W[ks]
+;B[is]C[You lost 2 stones, but you did keep sente.])
+(;W[is]
+;B[ks]C[Oops.]))
+(;W[ls]
+;B[hs]
+;W[ms]
+;B[is]
+;W[ks]C[You lost 2 stones needlessly.])
+(;W[ks]
+;B[hs]
+(;W[is]
+;B[ls]C[Disaster!])
+(;W[ls]
+;B[is]
+;W[ms]C[You lost 2 stones needlessly.])
+(;W[ms]
+;B[is]C[You lost 2 stones, but you did keep sente.]))
+(;W[hs]
+;B[gs]
+(;W[ms]
+;B[is]
+;W[ks]C[You lost 3 stones needlessly.])
+(;W[ks]
+;B[is]
+;W[ms]C[You lost 3 stones needlessly.])
+(;W[ls]
+;B[is]
+;W[ms]
+;B[ks]C[You lost 4 stones and left a ko, needlessly.])))

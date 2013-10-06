@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[7k]DP[44]SO[wuhounited]CO[0]AB[cc]AB[dd]AB[cf]AB[dj]AB[dm]AB[gm]AW[cn]AB[bp]AB[cp]AB[dp]AB[ep]AB[eq]AB[fp]AB[gp]AB[hq]AW[gq]AW[fq]AW[er]AW[dq]AW[cq]AW[bq]AW[jq]AB[jp]AB[kp]AB[ko]AB[lo]AB[ln]AB[mn]AB[mm]AW[jo]AW[lm]AW[ml]AW[mk]AW[nm]AW[nn]AW[mo]AW[lp]AW[kq]AW[mq]AW[np]AW[pp]AW[qo]AW[rm]AW[qk]AW[pj]AW[nj]AB[oj]AB[nk]AB[nl]AB[pl]AB[ql]AB[pn]AB[qn]AW[qc]AW[pd]AW[pe]AB[pc]AB[pb]AB[mc]AW[db]AB[jc]AB[jb]AB[ib]AB[hb]AW[hc]AW[ic]AW[fc]AW[jd]AW[kd]TR[mm]TR[mn]TR[ln]TR[lo]TR[ko]TR[kp]TR[jp]LB[hh:*]LB[hj:*]LB[gi:*]LB[ii:*]LB[gh:*]LB[gj:*]LB[ij:*]LB[ih:*]LB[hi:T]C[If you can, kill the triangle stones. If you can not, tenuki at T]AP[goproblems]
+(;W[hi]C[The black stones can be killed])
+(;W[ip];B[kn]
+(;W[jm]
+(;B[km];W[kl];B[ll];W[jn]C[<(^_^)>RIGHT])
+(;B[jn];W[in];B[io];W[km]C[<(^_^)>RIGHT]))
+(;W[jn];B[km]
+(;W[jm];B[kl];W[jk];B[kk];W[kj];B[jl];W[il];B[ik];W[jj];B[im];W[hl];B[io])
+(;W[jl];B[jm];W[im];B[kl];W[kk];B[ll];W[lk]C[<(^_^)>RIGHT])
+(;W[kl];B[jm]
+(;W[im];B[jl];W[jk];B[il];W[hl];B[ik];W[ij];B[hk];W[gk];B[hj];W[hi];B[gj];W[fj];B[gi];W[gh];B[fi];W[ei];B[fh];W[fg];B[eh];W[dh];B[eg];W[ef];B[dg];W[cg];B[df])
+(;W[il];B[in]
+(;W[io];B[im];W[hm];B[hn])
+(;W[im];B[io]))))
+(;W[km];B[jn]
+(;W[in];B[jm];W[jl];B[im];W[hm];B[il];W[ik];B[hl])
+(;W[im]
+(;B[in];W[hn];B[io];W[ho]C[<(^_^)>RIGHT])
+(;B[io];W[ho];B[iq];W[hp];B[hn]))))
+(;W[kn];B[ip])
+(;W[io];B[ip]))

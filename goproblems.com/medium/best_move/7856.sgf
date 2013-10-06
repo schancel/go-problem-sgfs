@@ -1,0 +1,20 @@
+(;GE[best move]DI[1d]DP[17]SO[santa c]CO[7]AB[bq]AB[cr]AB[er]AB[fr]AB[ep]AB[dp]AW[ao]AW[bo]AW[co]AW[dn]AW[en]AW[fo]AW[gp]AW[hr]AW[fs]AW[es]AW[ds]C[What can White do?]AB[gs]AW[gr]AW[is]AW[ir]AW[gq]AP[goproblems]
+(;W[dr];B[dq];W[hs];B[ar]
+(;W[bs];B[cs];W[gs]
+(;B[bp]
+(;W[cp]
+(;B[ap];W[cq];B[br]C[Well done! Nice points in sente! :)RIGHT])
+(;B[cq];W[ap]C[RIGHT]))
+(;W[ap];B[cp]C[:(]))
+(;B[cp];W[bp]C[RIGHT]))
+(;W[cp];B[cs];W[gs];B[bs];W[cq]C[Only a shame it's gote... :(])
+(;W[gs];B[bs]C[:(])
+(;W[fp];B[cs];W[gs];B[bs]C[White only gets a fraction! :(])
+(;W[fq];B[bs]C[White only gets a fraction! :(]))
+(;W[fq];B[dr]C[:(])
+(;W[cs];B[bs]C[:(])
+(;W[ar];B[dr]C[:(])
+(;W[bs];B[cs]C[:(])
+(;W[cp];B[dr]C[:(])
+(;W[aq];B[ar]C[Forces Black to get great shape, he's alive now! :(])
+(;W[hs];B[dr]C[:(]))

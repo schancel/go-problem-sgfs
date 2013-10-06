@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[12k]DP[59]SO[adum]CO[8]AW[hd]AW[id]AW[jd]AW[kd]AW[le]AW[kf]AW[kg]AB[jg]AB[jf]AB[he]AW[ge]AW[fe]AB[gd]AB[hc]AB[fc]AB[ed]AB[ee]AB[dd]AB[jc]AB[kc]AB[lc]AB[ld]AW[me]AB[ff]AB[fg]AB[gg]AB[hg]AW[jh]AW[ji]AW[jj]AB[ih]TR[ge]TR[fe]C[white can save the marked stones...]AB[hh]AW[nc]AW[ne]AB[kb]AW[mc]AP[goproblems]
+(;W[hf]
+(;B[ie]C[CHOICE]
+(;W[je]C[RIGHT])
+(;W[if];B[je]))
+(;B[je]C[CHOICE]
+(;W[ie]
+(;B[ke]C[CHOICE];W[ig]C[RIGHT])
+(;B[ig]C[CHOICE];W[ke]C[RIGHT]))
+(;W[ke]
+(;B[ig]C[CHOICE];W[ie]C[RIGHT])
+(;B[ie]C[CHOICE];W[ig]C[RIGHT]))
+(;W[if];B[ig]
+(;W[ie];B[ke])
+(;W[ke];B[ie]))
+(;W[ig]
+(;B[ie];W[ke]C[RIGHT]))))
+(;W[ie];B[hf])
+(;W[ic];B[ib];W[hf];B[ie]
+(;W[je];B[ke])
+(;W[ke];B[ig]))
+(;W[if];B[hf])
+(;W[je];B[if])
+(;W[fd];B[gf])
+(;W[ig];B[if]))

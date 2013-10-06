@@ -1,0 +1,33 @@
+(;GE[best move]DI[4d]DP[7]SO[Field Mouse]CO[0]AB[qd]AB[oc]AW[rd]AB[qg]AB[mb]AW[qi]AW[qk]TR[rd]C[White just played the marked move. What will you do?]AW[kb]AW[jc]AW[je]AP[goproblems]
+(;B[re]
+(;W[qc]C[CHOICE];B[pd]
+(;W[pb]C[CHOICE]
+(;B[rb];W[ob]
+(;B[rc];W[nb]
+(;B[nc];W[mc]C[This is a problem.])
+(;B[mc];W[nc];B[nd];W[md]C[Problem here.]))
+(;B[nc];W[rc]LB[nb:A]C[As white A is sente here, white will live now.])
+(;B[nb];W[rc]C[This is not the best position for black as your group is thin now. If black tries to kill with T18 or something like that now, white will cut at O17 and aim for the weakness at R15. You could definitely do better.];B[sb]))
+(;B[rc];W[rb];B[sd];W[ob]
+(;B[nb]C[Good! If white Q17, then black R19 and if white O17, black Q17!RIGHT])
+(;B[nc];W[sb]
+(;B[nb];W[oa]C[White lives.])
+(;B[pc];W[qb];B[nb];W[oa])
+(;B[ra];W[qa];B[oa];W[nb];B[na];W[mc]C[Cuttee])
+(;B[oa];W[nb];B[na];W[mc])))
+(;B[ob];W[rb]C[This leads only to ko.]))
+(;W[rb];B[pb]
+(;W[qb]
+(;B[sd];W[pc];B[ob];W[sc];B[se];W[qe];B[rc]C[White cannot hope for luck here, only thing she can get is something like realy many steps ko.RIGHT])
+(;B[sc]C[This move is also good.RIGHT]))
+(;W[rf];B[se];W[qb];B[qe]C[White is still dead.RIGHT])
+(;W[se];B[rf];W[qb];B[sc]C[RIGHT]))
+(;W[ob];B[nb]C[This position is similar to the solution.];W[pb];B[rc];W[rb];B[sd]C[RIGHT]))
+(;W[qe];B[pe];W[qc];B[pd];W[rb];B[pb];W[qb];B[sc];W[sd];B[sb];W[pc];B[ob];W[qf];B[rf];W[pf];B[pg];W[of];B[od]C[Black looks ok here.RIGHT]))
+(;B[qc];W[qe]
+(;B[pe];W[qf];B[pf];W[rg];B[rf];W[re];B[rh];W[sf];B[qh]C[You could do better.])
+(;B[pf];W[pe];B[oe];W[qf];B[pg];W[rg];B[rh];W[sf];B[qh];W[rc]C[You could do better.]))
+(;B[qe];W[qc]
+(;B[pc];W[qb]C[White lives, you could do better.])
+(;B[pb];W[qb];B[rb];W[ra];B[sb];W[pc];B[ob];W[pd]C[This difficult fight is not needed.]))
+(;B[rc];W[qe];B[re];W[pd];B[qc];W[rf];B[pe];W[qf];B[pf];W[rg]C[You could do better.]))

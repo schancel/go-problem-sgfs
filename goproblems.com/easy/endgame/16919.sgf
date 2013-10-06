@@ -1,0 +1,52 @@
+(;GE[endgame]DI[5k]DP[32]SO[py687]CO[0]AB[gr]AB[gq]AB[fo]AB[en]AB[go]AB[gp]AB[dn]AB[co]AB[bn]AB[bp]AB[ao]AB[ap]AW[hq]AW[hs]AW[gs]AW[ir]AW[js]AW[kr]AW[jq]AW[ip]AW[fn]AW[gn]AW[ho]AW[hn]AW[hp]AW[em]AW[dm]AW[cl]LB[er:A]LB[fr:B]LB[fs:C]LB[es:D]TR[gs]C[How can Black safely seal off her territory in the endgame? All other positions are completely settled and neither side has any ko threats left.]AB[cm]AB[bm]AW[dk]AW[al]AW[bl]AW[am]AW[gl]AB[fm]AW[fl]AW[hr]AW[ks]LB[jl:Tenuki]AP[goproblems]
+(;B[er];W[fs]
+(;B[fr];W[es]
+(;B[cr]
+(;W[ds]C[CHOICE]
+(;B[dr])
+(;B[cs];W[dr];B[dq];W[eq]
+(;B[cq];W[eo]
+(;B[ep]C[])
+(;B[do];W[ep];B[dp]C[Why seki?]MA[er]MA[fr]MA[gp]MA[go]MA[fo]MA[eo]MA[ep]MA[eq]MA[gq]MA[gr]))
+(;B[ep];W[cq]
+(;B[dp];W[br])
+(;B[bq];W[dp]))
+(;B[fq];W[ep]
+(;B[cq];W[eo])
+(;B[eo];W[cq]
+(;B[bq];W[dp])
+(;B[dp];W[br])))))
+(;W[cs]C[CHOICE];B[bs];W[ds];B[br];W[dr];B[dq]C[]))
+(;B[ds];W[dr])
+(;B[dr]))
+(;B[dq]
+(;W[es]C[CHOICE];B[ds];W[fr];B[fq]C[RIGHT])
+(;W[fr]C[CHOICE];B[fq];W[es];B[ds]C[RIGHT]))
+(;B[dr]
+(;W[es]C[CHOICE];B[ds];W[fr];B[fq]C[RIGHT])
+(;W[fr]C[CHOICE];B[fq];W[es];B[ds]C[RIGHT]))
+(;B[es];W[fr]
+(;B[eq];W[fq];B[fp]C[RIGHT])
+(;B[fq];W[eq]
+(;B[dq];W[ep]
+(;B[dr];W[eo])
+(;B[eo];W[dr]))
+(;B[ep];W[dq]))))
+(;B[fr];W[fs]
+(;B[er])
+(;B[es];W[er])
+(;B[dr];W[es]
+(;B[ds];W[er];B[eq];W[dq]
+(;B[cq];W[dp]
+(;B[cr];W[ep]
+(;B[eo];W[fq])
+(;B[fq];W[eo]))
+(;B[ep];W[cr]))
+(;B[dp];W[cq]))
+(;B[er];W[ds]
+(;B[cs];W[cr])
+(;B[cr];W[cs];B[br];W[bs];B[ar]C[Black can get better.])
+(;B[br];W[bs];B[cr];W[cs]))))
+(;B[fs];W[fr]C[Are you even trying? :(])
+(;B[es];W[er]C[E1 is far too low....])
+(;B[jl];W[dr]C[There are no other points on the board! Read the instructions next time.]))

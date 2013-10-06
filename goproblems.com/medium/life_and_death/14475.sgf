@@ -1,0 +1,125 @@
+(;GE[life and death]DI[1d]DP[16]SO[ndkrempel]CO[0]SZ[9]AW[bh]AW[bg]AW[cg]AW[ci]AW[di]AW[dh]AW[ei]AW[bf]AW[be]AW[cd]AW[cc]AW[db]AW[eb]AW[dc]AW[ec]AW[fb]AW[ed]AW[fd]AW[ee]AW[ef]AB[dd]AB[ce]AB[de]AB[df]AB[cf]AB[dg]AB[eg]AB[eh]AB[fi]AB[fg]AB[gh]AB[ff]AB[fe]AB[gd]AB[gc]AB[fc]AB[gb]AB[fa]AB[ga]AW[ea]AB[ge]AB[gf]AB[he]AW[hg]AW[hf]AW[gg]AW[hh]AW[hi]AW[if]AB[ih]LB[aa:Yes]LB[ab:No]C[White has just played at the marked point, filling in black's last outside liberty. Does black owe a protective move inside his territory?FORCE]TR[dc]AP[goproblems]
+(;B[ab];W[ie]C[Ok, how do you answer white's plays then?]
+(;B[id];W[ib]
+(;B[ha];W[hd];B[hc];W[ic]
+(;B[hd];W[hb]
+(;B[ig];W[aa]C[If white passes, can you capture?]
+(;B[fh]C[];W[aa];B[ia];W[ib];B[gi]C[RIGHT])
+(;B[ia];W[ib]))
+(;B[fh];W[aa]C[If white passes, can you capture?]
+(;B[ig]C[];W[aa];B[ia];W[ib];B[gi]C[RIGHT])
+(;B[ia];W[ib])
+(;B[ii];W[aa];B[ia];W[ib];B[gi]C[RIGHT]))
+(;B[ia];W[ib])
+(;B[ii];W[aa]C[If white passes, can you capture?];B[fh];W[aa];B[ia];W[ib];B[gi]C[RIGHT]))
+(;B[hb];W[hd];B[bi];W[ai];B[id];W[gi]
+(;B[fh];W[hd])
+(;B[ia];W[fh]))
+(;B[ia];W[hd];B[bi];W[ai];B[id];W[gi]
+(;B[fh];W[hd])
+(;B[hb];W[fh]))
+(;B[fh];W[hd];B[bi];W[ai];B[id]C[Now if white passes, you must spend another move to end the ko.]))
+(;B[hd];W[ha]
+(;B[hb];W[gi];B[fh];W[ic];B[ia]C[Now if white passes, you must spend another move to end the ko.])
+(;B[ig];W[hb])
+(;B[fh];W[hb])
+(;B[ii];W[hb]))
+(;B[hc];W[ic]
+(;B[hd];W[ha])
+(;B[hb];W[hd];B[bi];W[ai];B[id];W[gi]
+(;B[fh];W[hd])
+(;B[ia];W[fh]))
+(;B[ig];W[hd];B[bi];W[ai];B[id];W[ha]
+(;B[hd]C[Seki!])
+(;B[hb];W[hd];B[ia];W[id]))
+(;B[fh];W[hd];B[bi];W[ai];B[id];W[ha]
+(;B[hd];W[gi])
+(;B[hb];W[hd];B[ia];W[id])
+(;B[ig];W[hd]))
+(;B[ha];W[hd];B[bi];W[ai];B[id];W[gi];B[fh];W[hd])
+(;B[ii];W[hd];B[bi];W[ai];B[id];W[ha]
+(;B[hd]C[Seki!])
+(;B[hb];W[hd];B[ia];W[id])))
+(;B[ic];W[gi];B[fh];W[hc];B[hd];W[hb])
+(;B[hb];W[ic]
+(;B[hd];W[gi];B[fh];W[ha];B[ia]C[Now if white passes, you must spend another move to end the ko.])
+(;B[hc];W[hd];B[bi];W[ai];B[id];W[gi]
+(;B[fh];W[hd])
+(;B[ia];W[fh])))
+(;B[ia];W[ic]
+(;B[hd];W[ha]
+(;B[hb];W[gi]
+(;B[fh];W[hc])
+(;B[ia];W[fh]))
+(;B[ig];W[hb])
+(;B[fh];W[hb])
+(;B[ii];W[hb]))
+(;B[hc];W[hd];B[bi];W[ai];B[id];W[ha]
+(;B[hd];W[gi])
+(;B[hb];W[hd];B[ia];W[id])
+(;B[ig];W[hd])
+(;B[fh];W[hd])))
+(;B[ig];W[hd];B[hc];W[ic]
+(;B[hd];W[ha]C[Seki!])
+(;B[hb];W[hd];B[bi];W[ai];B[id]C[Now if white passes, you must spend another move to end the ko.])
+(;B[fh];W[hd];B[bi];W[ai];B[id];W[ha]
+(;B[hb];W[hd];B[ia];W[id])
+(;B[hd]C[Seki!])))
+(;B[fh];W[hd];B[hc];W[ic]
+(;B[hd];W[ha];B[ig]C[Seki!])
+(;B[hb];W[hd];B[bi];W[ai];B[id]C[Now if white passes, you must spend another move to end the ko.]))
+(;B[ii];W[hd];B[hc];W[ic]
+(;B[hd];W[ha]C[Seki!])
+(;B[hb];W[hd];B[bi];W[ai];B[id]C[Now if white passes, you must spend another move to end the ko.])))
+(;B[ic];W[id]
+(;B[hc];W[ha]
+(;B[ig];W[gi];B[fh];W[ib]C[Seki!])
+(;B[fh];W[gi]
+(;B[ig];W[ib]C[Seki!])
+(;B[ib]C[Seki!]))
+(;B[ib]C[Seki!])
+(;B[hd];W[gi];B[fh];W[ib])
+(;B[ii];W[gi];B[fh];W[ib]C[Seki!]))
+(;B[hd];W[hb]
+(;B[hc];W[gi];B[fh];W[ib])
+(;B[ib];W[gi]
+(;B[ha];W[fh])
+(;B[fh];W[ha]))
+(;B[ha];W[ib]
+(;B[hc];W[gi])
+(;B[ig];W[hc])
+(;B[ii];W[hc])))
+(;B[ib];W[hd];B[hc];W[ha])
+(;B[hb];W[hd]
+(;B[hc];W[ia])
+(;B[ia];W[hc])))
+(;B[ib];W[id]
+(;B[hc];W[ha])
+(;B[ic];W[hd];B[hc];W[ha])
+(;B[ha];W[hc]))
+(;B[hc];W[id]
+(;B[ic];W[ha]
+(;B[ig];W[gi];B[fh];W[ib]C[Seki!])
+(;B[fh];W[gi]
+(;B[ig];W[ib]C[Seki!])
+(;B[ib]C[Seki!]))
+(;B[ib]C[Seki!])
+(;B[hd];W[gi];B[fh];W[ib])
+(;B[ii];W[gi];B[fh];W[ib]C[Seki!]))
+(;B[ib];W[ha])))
+(;B[aa];W[ab]AB[bh]AB[bg]AB[bf]AB[be]AW[cf]AW[ce]AB[cg]AB[cd]AB[cc]AB[ci]AB[db]AB[dc]AW[dd]AW[de]AW[df]AW[dg]AB[dh]AB[di]AB[ei]AW[eh]AW[eg]AB[ef]AB[ee]AB[ed]AB[ec]AB[eb]AB[ea]AW[fa]AB[fb]AW[fc]AB[fd]AW[fe]AW[ff]AW[fg]AW[fi]AW[ga]AW[gb]AW[gc]AW[gd]AW[ge]AW[gf]AB[gg]AW[gh]AW[he]AB[hf]AB[hg]AB[hh]AB[hi]AB[if]AW[ih]C[Show what you can do as black here then!]
+(;B[ie];W[id]
+(;B[ib];W[ha]
+(;B[hd];W[hc];B[ic];W[hd];B[hb];W[ig]LB[ac:Pass];B[ac];W[fh]LB[ad:Pass];B[ad];W[ia];B[ib];W[gi])
+(;B[ic];W[hd]C[Big eye vs small eye]))
+(;B[ic];W[ib];B[hd];W[hc];B[id];W[ha])
+(;B[hc];W[ib]))
+(;B[gi];W[fh];B[ie];W[id];B[ic];W[hd])
+(;B[id];W[ie]
+(;B[hc];W[ib])
+(;B[ib];W[hc];B[ic];W[ha]))
+(;B[ic];W[ie])
+(;B[ib];W[ie]
+(;B[hb];W[ha])
+(;B[id];W[hc];B[ic];W[ha]))
+(;B[hc];W[ib])))

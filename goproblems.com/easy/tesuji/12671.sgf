@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Gelya]CO[0]SZ[19]AW[dm]AW[co]AW[do]AW[cp]AW[ep]AW[cq]AW[eq]AB[en]AB[eo]AB[dp]AB[fp]AB[pp]AB[dq]AB[dr]TR[ep]TR[eq]C[save this stones in the best way (kosumi-tesuji)]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toya koyo]PL[W]
+(;W[fr];B[gr]
+(;W[er];B[fq];W[cr];B[hq]C[W keeps senteRIGHT])
+(;W[fq];B[gq];W[cr];B[er]TR[ep]TR[eq]TR[fq]TR[fr]C[its dead]))
+(;W[er];B[fr]
+(;W[cr];B[fq];W[ds];B[kq]C[not best])
+(;W[ds];B[fq];W[cr]))
+(;W[fq];B[gq]
+(;W[gp]
+(;B[fr];W[fo];B[er];W[fp];B[hp]))
+(;W[fr];B[gr];W[cr];B[er]TR[ep]TR[eq]TR[fq]TR[fr]C[its dead])
+(;W[gr];B[fr]TR[ep]TR[eq]TR[fq]TR[gr]C[its dead])))

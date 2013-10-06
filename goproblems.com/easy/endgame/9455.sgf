@@ -1,0 +1,13 @@
+(;GE[endgame]DI[6k]DP[38]SO[Munisai79]CO[5]AB[ea]AB[eb]AB[gb]AB[ga]AW[fb]AB[dc]AB[dd]AW[db]AW[da]AW[cb]AW[ba]AW[cc]AW[be]AB[de]AB[fd]AB[fe]AB[ff]AW[ge]AW[he]AB[gf]AW[hf]AB[hc]AB[ic]AB[jc]AB[id]AB[ie]AB[je]AB[kd]AW[if]AW[jf]AW[ke]AW[kf]AW[ld]AB[le]AB[lf]AB[ne]AB[nf]AW[hb]AW[ib]AW[jb]AW[kb]AW[kc]AW[md]AW[mb]C[White to cause trouble in the endgame.]AP[goproblems]
+(;W[ec]
+(;B[fc]C[CHOICE]
+(;W[fa]C[Excellent!RIGHT])
+(;W[ha];B[fa]))
+(;B[fa]C[This path is included to show why black cannot resist.];W[gc]
+(;B[fc];W[gd])
+(;B[gd];W[ha])))
+(;W[fc];B[gc];W[ec];B[fa])
+(;W[gc];B[gd]
+(;W[hd];B[fc];W[jd];B[gc]C[Not enough!])
+(;W[ec];B[fc];W[fa]C[Almost.  The sacrifice was unnecessary.])
+(;W[fc];B[ec];W[hd];B[fa];W[jd];B[gc]C[Not enough.])))

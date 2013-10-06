@@ -1,0 +1,21 @@
+(;GE[life and death]DI[12k]DP[57]SO[lyav]CO[0]AB[br]AB[cr]AB[cq]AB[eq]AB[er]AB[fs]AB[gs]AB[hr]AB[ir]AB[iq]AB[jq]AB[jp]AB[ls]AB[lr]AB[mr]AB[nr]AB[nq]AB[oq]AB[pq]AB[pr]AB[qq]AB[pp]AB[oo]AB[no]AB[on]AB[pn]AB[pm]AB[pl]AB[ql]AB[ol]AB[nl]AB[ok]AB[oj]AB[ll]AB[lm]AB[mm]AB[mn]AB[ko]AB[lo]AB[lp]AB[am]AB[bn]AB[cn]AB[dn]AB[en]AB[em]AB[fm]AB[fl]AB[gn]AB[hk]AB[gj]AB[fj]AB[gi]AB[gh]AB[hh]AB[ii]AB[ij]AB[jj]AB[ig]AB[if]AB[hd]AB[id]AB[jd]AB[jc]AB[kd]AB[ld]AB[gb]AB[fc]AB[fd]AB[ge]AB[ff]AB[ef]AB[eg]AB[dg]AB[dh]AB[di]AB[dj]AB[dk]AB[ek]AB[cf]AB[bf]AB[cd]AB[cc]AB[dc]AB[cb]AB[bc]AB[oc]AB[oe]AB[ob]AB[pb]AB[qb]AB[ra]AB[nd]AB[ne]AB[me]AB[mf]AB[of]AB[pf]AB[qd]AB[qe]AB[rd]AB[qg]AB[oh]AB[nh]AB[mh]AB[lh]AB[li]AB[ro]AB[rn]AB[rm]AW[db]AW[fa]AW[fb]AW[ec]AW[ga]AW[ed]AW[fe]AW[ee]AW[dd]AW[jf]AW[jg]AW[ih]AW[jh]AW[ji]AW[fg]AW[eh]AW[ei]AW[ej]AW[fi]AW[cg]AW[bg]AW[ch]AW[cj]AW[ci]AW[ck]AW[bj]AW[aj]AW[al]AW[bl]AW[bm]AW[cm]AW[dm]AW[dl]AW[el]AW[bp]AW[bq]AW[cp]AW[ep]AW[fn]AW[fo]AW[fq]AW[fr]AW[gr]AW[gq]AW[gm]AW[gl]AW[gk]AW[fk]AW[hn]AW[jk]AW[kl]AW[km]AW[lk]AW[lj]AW[mi]AW[oi]AW[nj]AW[nk]AW[ni]AW[pk]AW[qk]AW[rj]AW[qj]AW[pj]AW[sk]AW[rl]AW[ic]AW[hc]AW[ib]AW[jb]AW[kc]AW[lc]AW[la]AW[ka]AW[nc]AW[nb]AW[mb]AW[md]AW[od]AW[pe]AW[qc]AW[pd]AW[pc]AW[rc]AW[rb]AW[qm]AW[qn]AW[qo]AW[po]AW[qp]AW[rp]AW[rq]AW[rr]AW[qr]AW[ns]AW[os]AW[ps]AW[mo]AW[mp]AW[np]AW[op]AW[mq]AW[lq]AW[kr]AW[ks]AW[kq]AW[kp]AW[jr]AW[le]AW[lf]AW[lg]AW[mg]AW[ng]AW[og]AW[pg]AW[ph]LB[ff:1]LB[jf:2]C[White ignored Black 1. Punish him locally. I've changed the lower left corner, where white wasn't cut (yet). Thanks to BartTM and Davidgoto.]AW[ho]AW[fp]AB[go]AB[dp]AB[eo]AP[goproblems]
+(;B[eb]C[White ignored Black 1. Punish him locally. I've changed the lower left corner, where white wasn't cut (yet). Thanks to BartTM and davidgoto.]AB[dp]AB[go]AW[ho]AB[eo]AW[fp]
+(;W[ea]C[]
+(;B[de]
+(;W[eb]C[CHOICE]
+(;B[ha]C[];W[gc];B[da]C[Nice! This happened in the real game, for white best answer, see variations.RIGHT])
+(;B[hb];W[ha]
+(;B[gc];W[gd])
+(;B[gd];W[gc])))
+(;W[hb];B[eb];W[ec]
+(;B[gc])
+(;B[ed]))
+(;W[gc];B[eb];W[ec]C[RIGHT];B[ed]C[RIGHT]))
+(;B[hb];W[ha]
+(;B[gc];W[gd])
+(;B[gd];W[gc]))
+(;B[ha];W[gc];B[gd];W[hb];B[de];W[eb]C[White is connected.]))
+(;W[hb];B[gd];W[ea];B[de];W[eb];B[ha];W[gc])
+(;W[gc];B[de]))
+(;B[de];W[eb];B[ha];W[hb]TR[ga]TR[hb]TR[fa]TR[fb]TR[eb]TR[db]TR[ec]TR[ed]TR[dd]TR[ee]TR[fe]TR[ib]TR[jb]TR[hc]TR[ic]C[White is connected.])
+(;B[je];W[gc];B[gd];W[hb]TR[ec]TR[fb]TR[db]TR[fe]TR[dd]TR[ee]TR[ed]TR[fa]TR[ga]C[Connected...]))

@@ -1,0 +1,47 @@
+(;GE[life and death]DI[1d]DP[16]SO[santa c]CO[0]AW[gr]AW[hr]AW[ir]AW[jr]AW[fq]AW[gq]AW[gp]AW[go]AW[fo]AW[jq]AW[kq]AW[kp]AW[ko]AW[lo]AW[km]AW[mm]AW[nm]AW[lm]AW[om]AW[ol]AW[pn]AW[po]AW[qm]AW[rl]AW[qp]AW[ro]AB[rn]AW[sn]AB[rp]AB[rq]AB[pq]AB[pp]AB[pr]AB[oq]AB[oo]AB[no]AB[mp]AB[mo]AB[nq]AB[lq]AB[lr]AB[kr]AW[or]AW[mr]AW[nr]AB[fr]AB[er]AB[eq]AB[fp]AB[eo]AB[en]AB[ep]AB[gn]AB[hn]AB[jn]AB[jm]AB[jl]AB[jp]AB[ip]AB[iq]AB[nl]AB[ml]AB[ll]AB[kl]AB[ok]AB[pk]AB[qk]AB[rk]AB[ri]AB[el]C[What can B do?]AP[goproblems]
+(;B[rm]
+(;W[ql]
+(;B[pl]
+(;W[js]
+(;B[pm]
+(;W[on]
+(;B[qn]C[Well done! =)RIGHT])
+(;B[sm];W[sl];B[so];W[qn])
+(;B[sl];W[qn])
+(;B[gs]C[NOTTHIS]))
+(;W[qn];B[on]C[RIGHT]))
+(;B[gs]C[NOTTHIS]))
+(;W[pm];B[gs]MA[hs]MA[js]C[RIGHT])
+(;W[gs]
+(;B[pm]
+(;W[on];B[qn]C[Well done! =)RIGHT])
+(;W[qn];B[on]C[RIGHT]))
+(;B[js]C[NOTTHIS])))
+(;B[sm];W[sl];B[so];W[qn])
+(;B[sl];W[qn])
+(;B[qn];W[pl]LB[sm:1]LB[sl:2]LB[so:3]LB[qo:4])
+(;B[gs];W[pl]
+(;B[sm];W[sl];B[so];W[qn])
+(;B[sl];W[qn]))
+(;B[js]C[NOTTHIS])
+(;B[on];W[pl]))
+(;W[qn];B[ql]MA[gs]TR[pl]TR[on]MA[sl]C[RIGHT])
+(;W[sm];B[ql]MA[sl]MA[gs]TR[pl]TR[on]C[RIGHT])
+(;W[gs];B[ql]MA[pl]MA[on]C[RIGHT]))
+(;B[ql];W[rm]MA[sl]MA[gs])
+(;B[pl];W[rm]MA[sl]MA[gs])
+(;B[qn];W[rm]MA[sl]MA[gs])
+(;B[gs];W[rm]MA[sl]MA[pl])
+(;B[js]C[NOTTHIS])
+(;B[on];W[rm]MA[sl]MA[gs])
+(;B[sm];W[so]
+(;B[sl];W[rm]MA[pl]MA[gs])
+(;B[rm];W[sl]
+(;B[ql];W[qn]MA[rm]MA[gs])
+(;B[gs];W[qn]MA[rm]MA[pl])
+(;B[pl];W[gs])
+(;B[js]C[NOTTHIS]))
+(;B[ql];W[rm]MA[gs]MA[sl])
+(;B[gs];W[rm]MA[sl]MA[pl])
+(;B[js]C[NOTTHIS]))
+(;B[sl];W[rm]MA[pl]MA[gs]))

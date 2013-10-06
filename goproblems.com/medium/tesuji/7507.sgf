@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[2k]DP[22]SO[Stones]CO[8]AB[hq]AB[gq]AB[fq]AW[fp]AW[gp]AW[hp]AB[ip]AB[io]AB[ep]AB[eo]AB[fo]AW[eq]AW[er]AW[iq]AW[jq]AB[ir]AB[jr]AW[kr]AW[kq]AB[ks]AB[ls]AB[or]AB[oq]AB[np]AB[mr]AW[lr]AW[mq]AW[mp]AW[lp]AW[kp]AB[mo]AB[ko]AB[lo]AB[nr]AW[es]AB[jo]TR[iq]TR[jq]TR[kq]TR[kp]TR[kr]TR[lr]TR[mq]TR[mp]TR[lp]C[White is sad about the triangle stones.  Can you make something good happen?]AP[goproblems]
+(;W[hr];B[gr]
+(;W[fr];B[gs]
+(;W[fs];B[hs])
+(;W[is];B[hs]))
+(;W[hs];B[gs]
+(;W[fr];B[is])
+(;W[js];B[is])
+(;W[is];B[js]))
+(;W[fs];B[gs])
+(;W[gs];B[hs]
+(;W[fs];B[go])
+(;W[fr];B[fs]MA[gs]LB[oo:K]C[This is a ko.  Please play any internal ko threats.  If there are none, play at K to find an external ko threat.]
+(;W[gn];B[go];W[gs];B[ho])
+(;W[go];B[gn];W[gs];B[ho])
+(;W[hn];B[ho];W[gs];B[go])
+(;W[ho];B[hn];W[gs];B[go])
+(;W[ms];B[ho]
+(;W[js]TR[ks]TR[ls]C[White has no second eye here.])
+(;W[gs];B[go]))
+(;W[js];B[ho]
+(;W[ms];B[go]TR[ks]TR[ls]C[White has no second eye here.])
+(;W[gs];B[go];W[ms]TR[ls]TR[ks]C[White has no second eye here.]))
+(;W[oo]C[Nice ko  :)RIGHT];B[po];W[gs]MA[fs];B[hr];W[js];B[fs]MA[gs];W[op];B[pp];W[gs]MA[fs]C[RIGHT]))))
+(;W[gr];B[hr])
+(;W[js];B[hr];W[ms]TR[ks]TR[ls]C[There is no second eye here.])
+(;W[is])
+(;W[hs])
+(;W[gs]))

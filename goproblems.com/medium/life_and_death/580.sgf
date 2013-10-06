@@ -1,0 +1,59 @@
+(;GE[life and death]DI[1d]DP[17]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[5.50]TM[]
+GN[White (W) vs. Black (B)]PW[White]PB[Black]DT[1999-07-28]SY[Cgoban 1.9.2]
+;AW[lp][mp][lq][nq][oq][pq][rq][lr][or][qr][rr]AB[ko][lo][mo][jp][np][op][pp][qp][rp][jq][mq][qq][sq][jr][mr][pr][sr]C[black to kill
+]
+(;B[ps]
+;W[os]
+(;B[ls]
+;W[ks]
+(;B[ms]C[RIGHT
+black wins the liberty race
+])
+(;B[kr]
+;W[ms]))
+(;B[ms]
+;W[ls])
+(;B[ns]
+;W[qs])
+(;B[nr]
+;W[qs])
+(;B[kr]
+;W[ms])
+(;B[ks]
+;W[ms]))
+(;B[ls]
+;W[ks]
+(;B[ms]
+;W[ns]
+(;B[ps]
+;W[kr]C[living shape
+])
+(;B[kr]
+;W[nr]
+(;B[ps]
+;W[os])
+(;B[ls]
+;W[ps])))
+(;B[ps]
+;W[ms]))
+(;B[ms]
+;W[ls]
+(;B[ps]
+;W[os]CR[os])
+(;B[os]
+;W[ps]))
+(;B[nr]
+;W[ps])
+(;B[rs]
+;W[ps])
+(;B[qs]
+;W[ps])
+(;B[ns]
+;W[ps]
+(;B[ls]
+;W[nr])
+(;B[os]
+;W[ls]))
+(;B[kr]
+;W[ms]))

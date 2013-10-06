@@ -1,0 +1,89 @@
+(;GE[life and death]DI[3d]DP[10]SO[kaf]CO[8]AB[cp]AB[co]AB[bo]AB[ep]AB[fp]AB[gp]AB[gq]AB[en]AW[bp]AW[bq]AW[dq]AW[eq]AW[fq]AW[gl]AW[gm]AW[gn]AW[em]AW[bm]AW[io]AW[iq]AW[jp]C[black to live]AB[dn]AW[hq]AW[cn]AW[dm]AW[go]AW[hp]AW[kq]AB[jr]AW[kr]AB[js]AW[ks]AB[fn]AP[goproblems]
+(;B[cq]
+(;W[cr]
+(;B[br]
+(;W[ar]
+(;B[bs];W[cs]
+(;B[fr]
+(;W[er]
+(;B[es]
+(;W[as]
+(;B[dp];W[dr]
+(;B[hr]
+(;W[ir];B[ap]C[White group diesRIGHT])
+(;W[ap];B[ir]C[CHOICERIGHT]))
+(;B[ap];W[gr]))
+(;B[hr];W[ap]
+(;B[dp];W[dr];B[ir]C[RIGHT])
+(;B[ir];W[fo]
+(;B[dp]C[RIGHT])
+(;B[eo];W[dp])))
+(;B[ap];W[gr]))
+(;W[gr];B[dr]C[RIGHT])
+(;W[dr];B[dp];W[as];B[hr]
+(;W[ir];B[ap]C[white is losing the raceRIGHT])
+(;W[ap];B[ir]C[RIGHT])))
+(;B[hr];W[fs])
+(;B[gr];W[es])
+(;B[ds];W[as])
+(;B[ap];W[as]))
+(;W[gr];B[dr]C[RIGHT])
+(;W[dr];B[ap];W[as];B[es]C[white dies firstRIGHT])
+(;W[as]
+(;B[er];W[dr];B[ap]C[white dies firstRIGHT])
+(;B[es]
+(;W[ap];B[dr]C[RIGHT])
+(;W[dr];B[ap]C[RIGHT])
+(;W[er];B[dp];W[dr];B[hr]C[RIGHT]))))
+(;B[ap];W[as]
+(;B[fr];W[er]C[White gets two eyes and black dies])
+(;B[gr];W[es]C[White gets two eyes and black dies])
+(;B[dp];W[es]C[White gets two eyes and black dies])
+(;B[hr];W[fr]C[White gets two eyes and black dies])
+(;B[br];W[bs]C[White gets two eyes and black dies]))
+(;B[dp];W[es]C[White gets two eyes and black dies])
+(;B[gr];W[es]C[White gets two eyes and black dies])
+(;B[hr];W[fr]C[White gets two eyes and black dies])
+(;B[es];W[fr])
+(;B[gs];W[es]C[White gets two eyes and black dies])
+(;B[dr];W[as]C[]
+(;B[fr];W[er];B[es];W[ds]
+(;B[dp];W[dr]
+(;B[hr];W[fs]
+(;B[ap];W[gr])
+(;B[gs];W[gr]C[hopeless ko for black])
+(;B[gr];W[ir];B[ap];W[br]C[ko, at most]))
+(;B[ap];W[gr]))
+(;B[hr];W[dp])
+(;B[gr];W[fs]))
+(;B[dp];W[es])))
+(;B[dr];W[bs]))
+(;W[bs];B[ar]
+(;W[dp];B[do]
+(;W[gr];B[fo]C[RIGHT])
+(;W[fo];B[fr]
+(;W[gr];B[dr];W[eo];B[cs]C[RIGHT])
+(;W[er];B[es];W[dr];B[ds]C[RIGHT])
+(;W[dr];B[eo]C[RIGHT])
+(;W[eo];B[gr]C[RIGHT])))
+(;W[gr];B[dp]C[RIGHT])))
+(;B[dr];W[br])
+(;B[ap];W[br];B[fr];W[er]
+(;B[hr];W[fs])
+(;B[gr];W[ds]))
+(;B[fr];W[br]
+(;B[er];W[dr]
+(;B[ap];W[hr];B[gr];W[aq];B[ao];W[as])
+(;B[hr];W[ir];B[ap];W[aq];B[ao];W[as])
+(;B[dp];W[hr]))
+(;B[es];W[er]))
+(;B[dp];W[br]))
+(;W[dp];B[dr];W[cr];B[br];W[cs];B[bs];W[do];B[ds]
+(;W[cr];B[ao]C[RIGHT])
+(;W[ao];B[cr]C[RIGHT])))
+(;B[dp];W[cq])
+(;B[ap];W[cq])
+(;B[gr];W[cq])
+(;B[fr];W[cq])
+(;B[cr];W[cq])
+(;B[gs];W[cq]))

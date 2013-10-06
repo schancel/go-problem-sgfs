@@ -1,0 +1,58 @@
+(;GE[life and death]DI[4k]DP[31]SO[karmaGfa]CO[5]SZ[19]AW[fb]AW[jb]AW[dc]AW[fc]AW[lc]AW[qc]AW[cd]AW[gd]AW[hd]AW[id]AW[kd]AW[md]AW[nd]AW[rd]AW[ce]AW[je]AW[ke]AW[oe]AW[kf]AW[nf]AW[pf]AW[qf]AW[rf]AW[gg]AW[pg]AW[qg]AW[jh]AW[kh]AW[oh]AW[ph]AW[rh]AW[gi]AW[hi]AW[li]AW[mi]AW[ni]AW[oi]AW[ri]AW[hj]AW[ij]AW[jj]AW[kj]AW[pj]AW[rj]AW[gk]AW[jk]AW[pk]AW[gl]AW[il]AW[ql]AW[em]AW[hm]AW[im]AW[pm]AW[qm]AW[en]AW[hn]AW[rn]AW[do]AW[fo]AW[jo]AW[mo]AW[qo]AW[ep]AW[gp]AW[lp]AW[pp]AW[gq]AW[hq]AW[kq]AW[lq]AW[mq]AW[pq]AW[ir]AW[jr]AW[lr]AW[nr]AW[qr]AW[ns]AB[gc]AB[jc]AB[nc]AB[pc]AB[rc]AB[fd]AB[jd]AB[pd]AB[qd]AB[de]AB[ie]AB[me]AB[ne]AB[cf]AB[df]AB[jf]AB[lf]AB[of]AB[ig]AB[kg]AB[lg]AB[ng]AB[rg]AB[ih]AB[lh]AB[qh]AB[sh]AB[ii]AB[ji]AB[ki]AB[pi]AB[qi]AB[cj]AB[gj]AB[lj]AB[mj]AB[nj]AB[oj]AB[qj]AB[kk]AB[qk]AB[rk]AB[jl]AB[ll]AB[ol]AB[pl]AB[rl]AB[jm]AB[rm]AB[in]AB[jn]AB[nn]AB[co]AB[go]AB[ho]AB[ko]AB[no]AB[cp]AB[dp]AB[fp]AB[hp]AB[mp]AB[np]AB[eq]AB[fq]AB[iq]AB[jq]AB[nq]AB[oq]AB[fr]AB[hr]AB[or]AB[pr]AB[is]AB[ks]TR[lg]C[Save the marked black group in the best possible way. Please play only the useful moves.]AW[hc]TR[ng]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[mf];W[mh]
+(;B[od];W[pe];B[ld]
+(;W[kc]C[CHOICE];B[mc]C[RIGHT])
+(;W[le]C[CHOICE]
+(;B[kc];W[ld];B[lb]C[RIGHT])
+(;B[mc]C[];W[ld];B[lb]C[RIGHT])
+(;B[lb];W[kc]C[Solution, but you could done better.];B[mc];W[kb];B[ld]C[Solution, but you could get better.])))
+(;B[pe];W[od];B[ld];W[le];B[kc];W[ld];B[lb];W[kb]C[Q15 was the bad move])
+(;B[ld]
+(;W[le]C[CHOICE]
+(;B[od];W[pe])
+(;B[mc];W[od])
+(;B[kc];W[ld];B[od];W[pe]))
+(;W[kc]C[CHOICE]
+(;B[mc];W[le];B[od]C[RIGHT])
+(;B[od];W[mc];B[pe]C[RIGHT])))
+(;B[mc]
+(;W[ld]C[CHOICE])
+(;W[od]C[CHOICE])))
+(;B[og];W[mg]C[P13 is a bad move.];B[mf];W[mh]
+(;B[od];W[pe];B[ld]
+(;W[le]C[CHOICE]
+(;B[kc];W[ld];B[lb]C[];W[nh]TR[ng]TR[og]TR[of]C[You exchanged 3 stones for sente.RIGHT])
+(;B[mc];W[kc];B[ld]C[RIGHT]))
+(;W[kc]C[CHOICE];B[mc]C[RIGHT]))
+(;B[pe];W[od];B[ld];W[le];B[kc];W[ld];B[lb];W[kb]))
+(;B[gf]C[NOTTHIS];W[hf];B[he];W[ge]
+(;B[if];W[ff])
+(;B[ff];W[if]))
+(;B[ge]C[NOTTHIS];W[he];B[hf];W[gf])
+(;B[he]C[NOTTHIS];W[ge]
+(;B[hf];W[hg])
+(;B[hg];W[hf])
+(;B[gf];W[hf]))
+(;B[hf]C[NOTTHIS];W[gf])
+(;B[hg]C[NOTTHIS];W[gf]
+(;B[hf];W[he])
+(;B[he];W[hf]))
+(;B[hh]C[NOTTHIS];W[gh])
+(;B[gh]C[NOTTHIS];W[hh];B[gf];W[hf]
+(;B[hg];W[fg];B[he];W[ge];B[if];W[ff])
+(;B[he];W[ge];B[hg];W[ff]))
+(;B[if]C[NOTTHIS];W[gf])
+(;B[od];W[og]
+(;B[mf]
+(;W[mh]
+(;B[of]C[NOTTHIS];W[pe];B[ld]
+(;W[le]C[CHOICE];B[kc];W[ld];B[lb]C[RIGHT])
+(;W[kc]C[CHOICE];B[mc]C[RIGHT]))
+(;B[ld]
+(;W[le]C[CHOICE]
+(;B[kc];W[ld];B[lb]C[RIGHT])
+(;B[mc]C[NOTTHIS];W[ld];B[lb]C[RIGHT]))
+(;W[kc]C[CHOICE];B[mc]C[RIGHT])))))
+(;B[ld]
+(;W[kc]C[CHOICE];B[od];W[pe];B[mc]C[RIGHT])
+(;W[le]C[CHOICE];B[mf];W[mh])))

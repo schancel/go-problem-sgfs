@@ -1,0 +1,102 @@
+(;GE[life and death]DI[2k]DP[23]SO[autum]CO[7]SZ[19]AW[ms]AW[mr]AW[mq]AW[mp]AW[lp]AW[kq]AW[jq]AW[iq]AW[ir]AW[hr]AW[hs]AB[gs]AB[gr]AB[hq]AB[ip]AB[gp]AB[jp]AB[kp]AB[lo]AB[mo]AB[np]AB[nq]AB[nr]AB[ns]AB[kr]C[Best move for white]
+(;W[js];B[ls]
+(;W[ks];B[lq]
+(;W[lr]C[RIGHT])
+(;W[jr];B[lr])
+(;W[is];B[lr]))
+(;W[lq];B[jr]C[Seki - White can do better])
+(;W[jr];B[lq]
+(;W[ks])
+(;W[lr];B[lq]))
+(;W[is];B[lq]
+(;W[lr];B[lq])
+(;W[jr];B[ks])
+(;W[ks]))
+(;W[lr];B[lq]))
+(;W[jr];B[ls]
+(;W[js])
+(;W[lr];B[lq])
+(;W[lq];B[js]
+(;W[lr];B[is])
+(;W[is];B[lr]))
+(;W[is];B[lq]
+(;W[lr];B[lq])
+(;W[js])
+(;W[ks];B[js]))
+(;W[ks];B[js]
+(;W[lr];B[lq])
+(;W[lq];B[ks])
+(;W[is];B[lq])))
+(;W[lq];B[js]
+(;W[ls]
+(;B[ks]
+(;W[jr]C[Seki - White can do better])
+(;W[lr];B[jr])
+(;W[is];B[jr]))
+(;B[jr]
+(;W[ks]C[Seki - White can do better])
+(;W[lr];B[ks])
+(;W[is];B[ks])))
+(;W[jr];B[ls])
+(;W[lr];B[jr]
+(;W[ks];B[ls]C[Ko for life])
+(;W[ls])
+(;W[is];B[ks]))
+(;W[is];B[ks]
+(;W[jr];B[ls];W[lr];B[ks])
+(;W[lr];B[jr])
+(;W[ls]))
+(;W[ks];B[ls]
+(;W[jr])
+(;W[lr];B[ks])
+(;W[is];B[lr])))
+(;W[lr];B[js]
+(;W[jr];B[ks]C[Seki - White can do better])
+(;W[ls];B[ks]
+(;W[lq])
+(;W[jr];B[lq])
+(;W[is];B[lq]))
+(;W[is];B[ks]C[Seki - White can do better])
+(;W[ks];B[ls]C[Ko for life])
+(;W[lq];B[ks]
+(;W[ls])
+(;W[jr];B[ls];W[is])
+(;W[is])))
+(;W[ls];B[ks]
+(;W[js];B[lq]
+(;W[lr];B[lq])
+(;W[jr];B[is])
+(;W[is];B[jr]))
+(;W[jr];B[lq]
+(;W[lr];B[lq])
+(;W[js])
+(;W[is];B[js]))
+(;W[is];B[lq]
+(;W[lr];B[lq])
+(;W[jr])
+(;W[js]))
+(;W[lr];B[lq])
+(;W[lq];B[jr]
+(;W[js]C[Ko for life])
+(;W[is];B[js])
+(;W[lr];B[is])))
+(;W[ks];B[js]
+(;W[jr];B[ls])
+(;W[is];B[ls]
+(;W[lr];B[lq])
+(;W[lq])
+(;W[jr]))
+(;W[lq])
+(;W[lr])
+(;W[ls];B[lq]
+(;W[jr];B[is])
+(;W[is];B[jr])
+(;W[lr];B[lq])))
+(;W[is];B[ls]
+(;W[lr];B[lq])
+(;W[lq];B[js]
+(;W[jr])
+(;W[lr];B[jr]))
+(;W[ks];B[js])
+(;W[js])
+(;W[jr])))

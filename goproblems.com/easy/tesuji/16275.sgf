@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[10k]DP[52]SO[blueorchid]CO[0]AW[bb]AW[ba]AW[aa]AW[ca]AW[db]AW[dc]AW[ec]AW[fc]AB[gc]AW[hc]AW[hb]AW[ga]AB[fb]AW[gd]AW[ge]AW[ff]AW[df]AW[cf]AW[bf]AB[be]AB[ce]AB[dd]AB[ed]AB[fd]AB[cc]AB[ac]AB[bc]AB[cb]C[Black to capture the marked stones.]TR[bb]TR[ba]TR[aa]TR[ca]AP[goproblems]
+(;B[ea]
+(;W[gb];B[da]C[RIGHT])
+(;W[fa];B[ab]C[RIGHT]))
+(;B[ab];W[da]
+(;B[ea];W[gb])
+(;B[eb];W[gb])))

@@ -1,0 +1,19 @@
+(;GE[life and death]DI[1k]DP[20]SO[trucid]CO[0]AB[cb]AB[cc]AB[cd]AB[bd]AW[be]AW[ae]AW[ce]AW[de]AW[dd]AW[ec]AW[eb]AW[db]AB[dc]AB[ed]AB[fd]AB[fc]AB[fb]AB[gc]AW[ef]AW[fe]AW[ge]AW[gd]AW[hc]AW[hb]AW[ga]AW[fg]C[If white doesn't do something clever here he will lose. White can win any ko.]AW[ic]AP[goproblems]
+(;W[ad];B[bb]
+(;W[ab];B[ac]
+(;W[bc];B[ea];W[ba];B[ac]C[Good. Ko for everything.RIGHT])
+(;W[ba];B[aa]C[Good. Ko for everything.RIGHT]))
+(;W[ac];B[ea];W[ab];B[da]C[Black lives.]))
+(;W[bb];B[ad];W[fa];B[ca];W[ea];B[ab]C[Black lives.])
+(;W[ac];B[ad];W[fa];B[ca];W[ea];B[ab]C[Black lives.])
+(;W[fa];B[ea]
+(;W[ad];B[da]C[Black lives.])
+(;W[da];B[ca];W[ea];B[ab]C[Black lives.]))
+(;W[ab]
+(;B[ac]
+(;W[ad];B[bb])
+(;W[bb];B[da];W[ad];B[ea]
+(;W[bc];B[eb]C[Black lives.])
+(;W[eb];B[bc]C[Black lives.]))
+(;W[fa];B[bb]C[Black lives.]))
+(;B[bb];W[ad])))

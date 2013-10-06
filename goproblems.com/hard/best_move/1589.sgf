@@ -1,0 +1,102 @@
+(;GE[best move]DI[5d]DP[4]SO[teb]CO[9]GM[1]FF[4]RU[Japanese]SZ[13]KM[0.00]TM[]
+AW[ia][ma][eb][fb][gb][ib][lb][mb][ec][gc][hc][ic][mc][bd][cd][dd][gd][id][ld][md][be][de][ge][ie][je][ke][bf][cf][ef][ff][gf][if][mf][bg][dg][eg][gg][hg][mg][ah][bh][fh][mh][ci][di][mi][dj][ej][mj][ck][dk][jk][kk][lk][mk][dl][jl][ll][cm][dm][fm][gm][hm][im][jm][km]AB[ca][da][ea][fa][ga][ha][ja][bb][db][hb][jb][kb][ac][bc][cc][dc][jc][ad][jd][kd][ae][le][me][af][jf][kf][lf][ag][cg][jg][lg][ch][dh][eh][gh][ih][jh][lh][ai][bi][ei][fi][gi][hi][ii][li][aj][fj][ij][jj][kj][lj][ak][bk][ek][ik][al][el][fl][gl][hl][il][am][bm][em]LB[fg:A]C[White has just taken the ko in the middel. SO DONT PLAY AT 'A'. If black let white connect the ko, he loses by 1 point (No komi). What can he do.]
+
+(;B[fg]C[Illigal ko capture.(Did you READ the problem text?)])
+
+(;B[aa]
+ (;W[fg] 
+  (;B[la];W[ka]
+    (;B[ml];W[kc]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[kc]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])))
+  (;B[lc];W[kc]
+    (;B[ml];W[ka]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[ka]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))))
+ (;W[mm];B[fg];W[ig];B[fh]C[RIGHT This really look strange. First black play inside his own group, making a third eye. This frightens white so much that he has to make a third eye himself. But it is actually the only way to avoid loosing by both player. Black wins ko, result Jigo(draw).]))
+
+(;B[ab]
+ (;W[fg]
+  (;B[la];W[ka]
+    (;B[ml];W[kc]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[kc]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])))
+  (;B[lc];W[kc]
+    (;B[ml];W[ka]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[ka]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))))
+ (;W[mm];B[fg];W[ig];B[fh]C[RIGHT This really look strange. First black play inside his own group. This frightens white so much that he has to make a third eye for his cornergroup. But it is actually the only way to avoid loosing by both player. Black wins ko, result Jigo(draw).]))
+
+(;B[ba]
+ (;W[fg]
+  (;B[la];W[ka]
+    (;B[ml];W[kc]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[kc]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])))
+  (;B[lc];W[kc]
+    (;B[ml];W[ka]
+      (;B[cj];W[bj];B[lm];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[lm];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))
+    (;B[lm];W[ka]
+      (;B[cj];W[bj];B[ml];W[mm];B[cj];W[ig];B[cl]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator])
+      (;B[cl];W[bl];B[ml];W[mm];B[cl];W[ig];B[cj]C[RIGHT Black wins by 2 point. White could whoever get jigo. See navigator]))))
+ (;W[mm];B[fg];W[ig];B[fh]C[RIGHT This really look strange. First black play inside his own group. This frightens white so much that he has to make a third eye for his cornergroup. But it is actually the only way to avoid loosing by both player. Black wins ko, result Jigo(draw).]))
+
+
+
+(;B[ml];W[mm];B[fg];W[ka];B[la];W[ba];B[lc];W[bj];B[cj];W[ab]
+  (;B[aa];W[bj];B[fh];W[bl]C[White wins by 2 point])
+  (;B[cl];W[cb]C[White wins by 3 point]))
+(;B[lm];W[mm];B[fg];W[ka];B[la];W[ba];B[lc];W[bj];B[cj];W[ab]
+  (;B[aa];W[bj];B[fh];W[bl]C[White wins by 2 point])
+  (;B[cl];W[cb]C[White wins by 3 point]))
+
+(;B[la];W[ka]
+  (;B[fg];W[kc]C[Black has lost 15 point to gain 1 point])
+  (;B[cj];W[bj];B[la];W[bl];B[lc];W[fg]C[Black has lost 5 point to no purpose.])
+  (;B[ml];W[mm];B[la];W[ba];B[lc];W[bj];B[cj];W[ab]
+    (;B[aa];W[bj];B[fg];W[bl];B[fh]C[White wins by 3 point])
+    (;B[cl];W[cb];B[fg];W[bl];B[fh]C[White wins by 3 point])))
+(;B[lc];W[kc]
+  (;B[fg];W[ka]C[Black has lost 15 point to gain 1 point])
+  (;B[cj];W[bj];B[lc];W[bl];B[la];W[fg]C[Black has lost 5 point to no purpose.])
+  (;B[ml];W[mm];B[lc];W[ba];B[la];W[bj];B[cj];W[ab]
+    (;B[aa];W[bj];B[fg];W[bl];B[fh]C[White wins by 3 point])
+    (;B[cl];W[cb];B[fg];W[bl];B[fh]C[White wins by 3 point])))
+
+(;B[cj];W[bj]
+  (;B[fg];W[bl]C[You have lost 19 point to gain 1 point])
+  (;B[la];W[bl];B[lc];W[fg]C[You have lost 5 point to no purpose.])
+  (;B[lc];W[bl];B[la];W[fg]C[You have lost 5 point to no purpose.])
+  (;B[ml];W[bl]
+    (;B[la];W[ka];B[lm];W[mm];B[la];W[fg];B[lc]C[White wins by 7 point])
+    (;B[lc];W[kc];B[lm];W[mm];B[lc];W[fg];B[la]C[White wins by 7 point]))
+  (;B[lm];W[bl]
+    (;B[la];W[ka];B[ml];W[mm];B[la];W[fg];B[lc]C[White wins by 7 point])
+    (;B[lc];W[kc];B[ml];W[mm];B[lc];W[fg];B[la]C[White wins by 7 point])))
+(;B[cl];W[bl]
+  (;B[fg];W[bj]C[You have lost 19 point to gain 1 point])
+  (;B[la];W[bj];B[lc];W[fg]C[You have lost 5 point to no purpose.])
+  (;B[lc];W[bj];B[la];W[fg]C[You have lost 5 point to no purpose.])
+  (;B[ml];W[bl]
+    (;B[la];W[ka];B[lm];W[mm];B[la];W[fg];B[lc]C[White wins by 7 point])
+    (;B[lc];W[kc];B[lm];W[mm];B[lc];W[fg];B[la]C[White wins by 7 point]))
+  (;B[lm];W[bl]
+    (;B[la];W[ka];B[ml];W[mm];B[la];W[fg];B[lc]C[White wins by 7 point])
+    (;B[lc];W[kc];B[ml];W[mm];B[lc];W[fg];B[la]C[White wins by 7 point])))
+)

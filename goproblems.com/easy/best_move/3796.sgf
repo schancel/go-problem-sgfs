@@ -1,0 +1,15 @@
+(;GE[best move]DI[10k]DP[50]SO[ellbur]CO[4]AB[ha]AB[hb]AB[gc]AB[gd]AB[he]AB[hf]AW[ia]AW[ib]AW[hc]AW[hd]AW[ie]AW[if]AW[jf]AW[ke]AB[gf]AB[ff]AB[ef]AB[db]AW[kb]AW[lc]AP[goproblems]
+(;B[fb]C[The cut is defended, but with two ko threats, and because of D18, this move is not useful for influence])
+(;B[gb]C[The cut is defendedRIGHT])
+(;B[fa]C[Three successive ko threats for white!])
+(;B[ic];W[id]
+(;B[jc];W[gb];B[jb];W[ga])
+(;B[gb]C[You defended the cut, but wasted a ko threat (J17)])
+(;B[fb]C[You defended the cut, but wasted a ko threat (J17)])
+(;B[fa]C[This defends the cut, but gives white three successive ko threats]))
+(;B[id];W[ic]
+(;B[gb]C[You defended the cut, but you wasted a ko threat (J16)])
+(;B[fb]C[You defended the cut, but wasted a ko threat (J16)])
+(;B[ga]C[You defended the cut, but wsated a ko threat (J16)])
+(;B[fa]C[This defends the cut, but gives white three successive ko threats]))
+(;B[ga]C[The cut is defended, but with two ko threats against it.]))

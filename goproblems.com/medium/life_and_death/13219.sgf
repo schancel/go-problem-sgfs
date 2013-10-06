@@ -1,0 +1,42 @@
+(;GE[life and death]DI[1d]DP[15]SO[santa c]CO[0]AW[br]AW[cr]AW[cq]AW[cp]AW[do]AW[eo]AW[fo]AB[fp]AW[gp]AW[gq]AW[fq]AW[fr]AB[gr]AB[hr]AB[fs]AB[hq]AB[hp]AB[go]AB[en]AB[dn]AB[fn]AB[co]AB[bo]AB[bp]AB[bq]C[a little tricky... ;) (dan problem)]AP[goproblems]
+(;B[dp];W[ep]
+(;B[eq];W[er];B[fp];W[dq]
+(;B[es];W[ep]
+(;B[ds]
+(;W[dr]
+(;B[eo];W[ar]
+(;B[eq];W[gs];B[hs];W[ep]
+(;B[do];W[fo]C[w takes first and has a local threat but it's really the best you can get ;)RIGHT])
+(;B[fo];W[do]C[w takes first and has a local threat but it's really the best you can get ;)RIGHT])
+(;B[cs];W[bs]C[w lives in double ko!]))
+(;B[fo];W[do]C[w takes first and has two local threats!])
+(;B[do];W[fo]C[w takes first and has two local threats!])
+(;B[cs];W[bs]C[w lives in double ko!]))
+(;B[ar];W[eo]C[alive!]))
+(;W[ar];B[dr]C[(would kill)])
+(;W[eo];B[fo]C[(would kill)])
+(;W[do];B[dr]C[(would kill)])
+(;W[cs]C[(would waste a threat as b can now get g1 in sente)]LB[eo:1]LB[ar:2]LB[gs:3]LB[dr:4]LB[eq:5]))
+(;B[eo];W[ds]C[alive!])
+(;B[ar];W[ds]))
+(;B[ds];W[ep]
+(;B[es])
+(;B[dr];W[cs])
+(;B[eo];W[ar];B[es];W[dr]))
+(;B[ar];W[ds]LB[bs:1]LB[ep:2]C[w lives in double ko!])
+(;B[ep];W[ds]))
+(;B[er];W[eq])
+(;B[dr];W[dq]))
+(;B[ep];W[dp])
+(;B[eq];W[er];B[dp];W[dq]MA[ds]MA[ep])
+(;B[er];W[eq];B[dq];W[ep];B[dr];W[es]
+(;B[ds];W[cs])
+(;B[gs];W[cs]))
+(;B[dq];W[er])
+(;B[dr]
+(;W[eq])
+(;W[ep]))
+(;B[es];W[ep])
+(;B[ds];W[ep])
+(;B[ar];W[ep])
+(;B[bs];W[ar]))

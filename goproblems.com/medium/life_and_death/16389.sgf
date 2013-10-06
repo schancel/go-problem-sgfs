@@ -1,0 +1,51 @@
+(;GE[life and death]DI[3k]DP[27]SO[TheBigH]CO[0]AW[df]AW[dh]AW[cg]AW[ch]AW[bi]AW[ei]AW[ej]AW[ek]AW[ck]AB[ci]AB[di]AW[fk]AB[fl]AB[gk]AB[hk]AW[gj]AW[gi]AB[fj]AB[fi]AB[eh]AB[dg]AB[eg]AB[fg]AB[fh]AW[hg]TR[gi]TR[gj]C[Black to capture the marked white stones.]AB[km]AB[gm]AP[goproblems]
+(;B[hh];W[gh]
+(;B[gg];W[hi]
+(;B[ii];W[ih]C[Failure. White escapes.])
+(;B[ih];W[ii]
+(;B[ji];W[jh]
+(;B[ig];W[jj];B[ki]
+(;W[ij]C[CHOICE]
+(;B[kk]C[Correct! White cannot get out.
+RIGHT])
+(;B[ik];W[kk]C[White escapes.])
+(;B[jk];W[kj];B[lj];W[kk]
+(;B[lk];W[kl]C[Ladder doesn't work because white still has other liberties.])
+(;B[ll];W[jl]
+(;B[il];W[kl];B[jm];W[li];B[kh];W[lk];B[mj];W[ml]
+(;B[lm];W[mk]C[Escape.])
+(;B[mk];W[lm]C[Escape.]))
+(;B[ik];W[kl]
+(;B[im];W[jm];B[jn];W[li]
+(;B[mi];W[kh]C[Escape.])
+(;B[kh];W[lk]
+(;B[mk];W[mj]C[Escape.])
+(;B[mj];W[lm]C[Double atari and escape.])))
+(;B[jm];W[li];B[kh];W[lk];B[mj];W[ml]
+(;B[mk];W[lm]C[Escape.])
+(;B[lm];W[mk];B[nl];W[nj]
+(;B[nk]C[Escape.])
+(;B[mi];W[nk]C[Escape.])))))))
+(;W[ik]C[CHOICE]
+(;B[ij];W[hj];B[ij]C[Right! Snap-back!RIGHT])
+(;B[hj];W[ij]
+(;B[im];W[kk]C[White escapes.])
+(;B[kk];W[im];B[il];W[hl]C[White escapes.])
+(;B[il];W[hl];B[gl];W[jl]
+(;B[im];W[kk]C[White escapes.])
+(;B[kj];W[im]C[No, white is out.])))))
+(;B[hj];W[ig]C[Escape!])
+(;B[ij];W[ig]C[Escape!]))
+(;B[ki];W[jh];B[ig];W[ji]
+(;B[kg];W[jg];B[if];W[jf];B[je];W[kf]C[You can't chase white this way.])
+(;B[jg];W[kh]C[You can't catch white this way.]))))
+(;B[hi];W[gg]
+(;B[gf];W[ff]C[Disaster!])
+(;B[hj];W[ff]C[Disaster!])
+(;B[hf];W[ff]C[Disaster!])
+(;B[ig];W[ff]C[Disaster!])
+(;B[if];W[ff]C[Disaster!])
+(;B[ff];W[if]C[White lives easily.])))
+(;B[gh];W[hi]MA[hh]MA[ii]C[Wrong! The marked squares are miai for white to escape.])
+(;B[hi];W[gh]MA[gg]MA[hh]C[Wrong! The marked squares are miai for white to escape.])
+(;B[hj];W[hh]C[Wrong. White escapes.]))

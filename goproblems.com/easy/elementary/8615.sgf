@@ -1,0 +1,25 @@
+(;GE[elementary]DI[6k]DP[37]SO[maba]CO[6]AW[qs]AW[ps]AW[os]AW[pr]AW[pq]AW[qq]AW[rq]AW[rp]AW[qp]AW[ro]AW[so]AB[sp]AB[rr]AB[qr]AB[ns]AB[or]AB[oq]AB[mr]AB[np]AB[pp]AB[po]AB[qo]AB[qn]AB[rn]AB[sn]AW[oo]AW[no]AW[mp]AW[lp]AW[lo]AW[ln]AW[lm]AB[mo]AB[mn]AB[mm]AB[nn]AB[on]AB[pm]AB[pl]AB[qk]AB[qj]AB[qi]AB[rj]AB[rh]AB[rg]AB[qg]AB[pg]AW[qh]AW[ph]AW[pi]AW[pj]AW[pk]AW[ok]AW[ol]AW[om]AW[ml]AW[mk]AB[ll]AB[lk]AB[kk]AB[lj]AB[nj]AB[mj]AB[oj]AB[oh]AB[nh]AW[og]AW[ng]AW[pf]AW[qf]AW[ne]AW[nf]AW[pe]AW[mh]AW[mi]AW[li]AW[ki]AW[kj]AW[jj]AW[jk]AW[jl]AW[kl]AB[ji]AB[jh]AB[kh]AB[lh]AB[lg]AB[mg]AB[mf]AB[lf]AW[me]AW[le]AB[kg]AW[kf]AW[jf]AW[jg]AB[ke]AB[je]AB[re]AB[ls]AB[lq]AB[kr]AB[js]AW[jr]AW[jq]AW[kq]AW[jp]C[What is white's best move? A, B or tenuki (T)?]LB[oi:A]LB[jn:T]LB[sq:B]AP[goproblems]
+(;W[oi]C[Not necessary.])
+(;W[jn]C[RIGHT]
+(;B[rs]C[]
+(;W[sq];B[sr];W[ss]C[RIGHT])
+(;W[sr];B[sq])
+(;W[ss];B[sq]))
+(;B[sq]
+(;W[rs];B[ss])
+(;W[sr]C[RIGHT]))
+(;B[sr]
+(;W[sq]C[RIGHT])
+(;W[rs]C[RIGHT]))
+(;B[nl]C[You can continue to play it out if you likeCHOICE];W[nk]
+(;B[oi];W[ni]C[RIGHT])
+(;B[nm];W[pn]C[RIGHT])
+(;B[op]
+(;W[oi];B[nm];W[ni]C[RIGHT])
+(;W[nm]C[RIGHT])
+(;W[ni];B[nm];W[oi]C[RIGHT])))
+(;B[nk];W[nl]
+(;B[oi];W[ni]C[RIGHT])
+(;B[nm];W[pn]C[RIGHT])
+(;B[op];W[oi];B[nm];W[ni]C[RIGHT])))
+(;W[sq]C[Not necessary.]))

@@ -1,0 +1,11 @@
+(;GE[life and death]DI[5k]DP[34]SO[magrock]CO[0]AB[ad]AB[bd]AB[cc]AB[dc]AB[ec]AB[fc]AB[fb]AB[fa]AW[ea]AW[eb]AW[db]AW[cb]AW[bb]AW[ac]C[best attempt to kill]AP[goproblems]
+(;B[bc];W[ab]LB[aa:1]LB[ba:2]LB[ca:3]LB[da:4]C[white is alive])
+(;B[ab]
+(;W[bc];B[ba];W[aa]C[Nice, black gets a chance to put white in troubleRIGHT])
+(;W[aa];B[bc];W[ca];B[ab]C[RIGHT]))
+(;B[ca];W[ba]
+(;B[ab];W[bc])
+(;B[bc];W[ab]))
+(;B[ba];W[ca]
+(;B[bc];W[ab])
+(;B[ab];W[aa];B[bc];W[ab])))

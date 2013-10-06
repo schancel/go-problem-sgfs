@@ -1,0 +1,24 @@
+(;GE[life and death]DI[8k]DP[49]SO[golab]CO[6]SZ[9]AW[ba]AW[da]AW[ea]AW[fa]AW[db]AW[fb]AW[fc]AW[ad]AW[cd]AW[fd]AW[gd]AW[hd]AW[ae]AW[be]AW[ce]AW[fe]AW[he]AW[cf]AW[ef]AW[bg]AW[cg]AW[dg]AW[eg]AW[dh]AW[di]AW[ei]AB[ca]AB[ab]AB[cb]AB[eb]AB[ac]AB[bc]AB[cc]AB[dc]AB[ec]AB[bd]AB[de]AB[ee]AB[ge]AB[af]AB[df]AB[ff]AB[gf]AB[hf]AB[ag]AB[fg]AB[bh]AB[ch]AB[eh]AB[fh]AB[hh]AB[fi]C[Japanese rules, komi is 6.5. 
+Black to move and win the game.]GM[1]FF[4]AP[CGoban:3]ST[2]RU[Japanese]KM[6.50]CP[Karol Golab]GC[A problem for goproblems.com, based on a game played or seen on KGS.]
+(;B[ci]
+(;W[ed]C[CHOICE]
+(;B[dd]C[
+White group is captured.RIGHT])
+(;B[bf];W[dd]C[Black is left with one small group.])
+(;B[ah];W[dd]C[Black is left with one small group.]))
+(;W[ah]C[CHOICE]
+(;B[ai];W[ed];B[dd]C[
+White group is captured.RIGHT])
+(;B[dd];W[bi]C[Black is left with one small group.])))
+(;B[dd];W[ah]
+(;B[ai];W[ci]TR[bi]C[Black cannot give atari at the marked point - and as his top group is dead he's left with one small group.])
+(;B[ci];W[bi]C[Black is left with one small group.]))
+(;B[ah];W[dd]
+(;B[ci];W[ed]C[Black is left with one small group.])
+(;B[ed];W[bb]C[Black is left with one small group.]))
+(;B[ai];W[dd]
+(;B[ed];W[bb]C[Black is left with one small group.])
+(;B[ci];W[ed]C[Black is left with one small group.]))
+(;B[ed];W[ah]
+(;B[ci];W[bi]C[Black is left with one small group.])
+(;B[ai];W[ci]LB[dd:A]TR[bi]C[After filling A Black cannot give atari at the marked point - so the whole left side belongs to White.])))

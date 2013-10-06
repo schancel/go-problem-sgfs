@@ -1,0 +1,24 @@
+(;GE[life and death]DI[6k]DP[38]SO[1234boys]CO[0]AB[qo]AB[qp]AB[pp]AB[mq]AB[mp]AW[qn]AW[rn]AW[on]AW[po]AW[op]AW[np]LB[or:a]LB[oq:b]LB[nq:c]LB[pr:d]C[Don't give up at the first hurdle, or you'll never solve it.]AP[goproblems]
+(;B[or];W[pq]LB[qq:a]LB[oq:b]
+(;B[qq]
+(;W[nr];B[nq];W[oq];B[pr]C[Well done!RIGHT])
+(;W[pr];B[oq];W[qr];B[rr]C[Well done!RIGHT]))
+(;B[oq];W[qq]LB[rq:a]LB[rp:b]LB[qr:c]LB[pr:d]
+(;B[rq];W[rp])
+(;B[rp];W[rq])
+(;B[qr];W[rq])
+(;B[pr];W[qr])))
+(;B[oq];W[nq]LB[nr:a]LB[or:b]LB[pr:c]
+(;B[pr];W[or];B[pq])
+(;B[or];W[nr];B[ns];W[mr];B[lr];W[ms];B[ls];W[os];B[no];W[oo];B[pq];W[qs];B[qr];W[rr];B[rq];W[sq];B[sp];W[sr])
+(;B[nr];W[or]LB[pq:a]LB[mr:b]
+(;B[pq];W[mr])
+(;B[mr];W[pq])))
+(;B[nq];W[oq];B[or];W[pr]LB[pq:a]LB[nr:b]
+(;B[pq];W[nr])
+(;B[nr];W[pq]))
+(;B[pr];W[or]LB[oq:a]LB[nr:b]
+(;B[oq];W[nq];B[pq];W[nr])
+(;B[nr];W[os];B[oq];W[nq]LB[pq:a]LB[mr:b]
+(;B[pq];W[mr])
+(;B[mr];W[pq]))))

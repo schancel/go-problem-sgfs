@@ -1,0 +1,10 @@
+(;GE[best move]DI[2k]DP[23]SO[santa c]CO[0]AW[ja]AW[ib]AW[jc]AW[kb]AW[kd]AW[ld]AW[mc]AW[mb]AW[na]AW[ob]AW[pb]AB[qb]AB[rc]AB[pc]AB[pd]AB[nb]AB[nc]AB[nd]AB[jd]AB[id]AB[ic]AB[hc]AB[hb]AB[ha]AB[je]AB[ke]AB[le]AB[me]AB[md]C[how do you attack? (best move)]AP[goproblems]
+(;B[ia]
+(;W[lc]
+(;B[jb]C[well done! you have one local threat! :DCHOICERIGHT]MA[la])
+(;B[la];W[ma]C[];B[jb]C[threw away the threat...]MA[la]))
+(;W[la]
+(;B[jb]C[well done! you have one local threat! :DCHOICERIGHT])
+(;B[lc];W[kc]C[];B[jb]MA[lc]C[threw away the threat...])))
+(;B[lc];W[kc];B[ia];W[la])
+(;B[la];W[ma];B[ia];W[lc]))

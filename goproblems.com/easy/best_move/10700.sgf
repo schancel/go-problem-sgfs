@@ -1,0 +1,13 @@
+(;GE[best move]DI[4k]DP[31]SO[Bleedo]CO[8]AB[gn]AB[hn]AB[in]AB[jn]AB[kn]AB[km]AB[lm]AB[mm]AB[gm]AB[lo]AB[mp]AB[no]AB[oo]AB[on]AB[pn]AB[pm]AB[pl]AW[nm]AW[mn]AW[kp]AW[ko]AW[lp]AW[jq]AW[ip]AW[go]AW[fn]AW[fm]AW[gl]AW[hl]AW[jm]AW[kl]AW[pj]AW[pk]AB[pp]AB[nq]AB[nr]AB[os]AB[pr]AW[mq]AW[mr]AW[ms]AW[ns]AW[fq]AW[nk]AW[mk]AW[lk]AB[fl]AB[el]AB[ek]AW[fk]AW[gj]AW[hj]AW[eo]AW[ep]AW[er]AW[jk]AW[ej]TR[mm]C[Oops]AW[ql]AW[qm]AW[qn]AW[qo]AW[po]AB[qp]AB[rp]AP[goproblems]
+(;W[mo];B[nn]
+(;W[np];B[op]
+(;W[mp];B[nl])
+(;W[ln];B[nl])
+(;W[nl];B[mp]C[A free gigantic ko! Even if white only gets 10 points out of this ko, it's still gain!RIGHT])
+(;W[ol];B[mp]C[A free gigantic ko! Even if white only gets 10 points out of this ko, it's still gain! ALTHOUGH, it is not optimal play, as you have just given black 2 FREE threats... (o8 and p7, although all p7 threatens is another ko, so it'll be used for another ko that comes along)RIGHT])
+(;W[ml];B[mp]C[A free gigantic ko! Even if white only gets 10 points out of this ko, it's still gain!RIGHT]))
+(;W[ln];B[lo]C[Oops])
+(;W[nl];B[ln]))
+(;W[ln];B[nn])
+(;W[nn];B[mo];W[ln];B[nl])
+(;W[nl];B[nn]))

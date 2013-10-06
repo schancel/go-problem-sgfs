@@ -1,0 +1,50 @@
+(;GE[life and death]DI[3d]DP[9]SO[Hans]CO[9]AW[fa]AW[ga]AW[eb]AW[hb]AW[cc]AW[dc]AW[fc]AW[gc]AB[ia]AB[ib]AB[bc]AB[ec]AB[ic]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[gd]AB[hd]AB[id]C[What can black achieve?]
+(;B[da]
+(;W[cb]
+(;B[gb];W[fb]
+(;B[ha];W[hc]
+(;B[ca];W[bb]
+(;B[ba];W[ab];B[db]C[ White cannot approach the black stones.RIGHT])
+(;B[ab];W[ba])
+(;B[db];W[ba]))
+(;B[bb];W[ca])
+(;B[db];W[ca])
+(;B[ba];W[ca]))
+(;B[ca];W[bb]
+(;B[ba];W[ab]C[]
+(;B[ha];W[db]C[This is not more than a gote seki.])
+(;B[hc];W[db]C[This not more than a gote seki.]))
+(;B[ab];W[ba]C[White lives.])
+(;B[ha];W[ab];B[ba];W[db]C[This is not more than a gote seki.])
+(;B[hc];W[ab];B[ba];W[db]C[This is not more than a gote seki.]))
+(;B[hc];W[ha]
+(;B[ca];W[bb]
+(;B[ba];W[ab];B[db]C[ White cannot approach the black stones.RIGHT])
+(;B[ab];W[ba])
+(;B[db];W[ba]))
+(;B[bb];W[ca])
+(;B[db];W[ca])
+(;B[ba];W[ca])))
+(;B[hc];W[gb]C[White lives.])
+(;B[ha];W[gb]C[White lives.])
+(;B[db];W[ca]C[White lives.])
+(;B[ca];W[bb]
+(;B[ab];W[ba]C[White lives.])
+(;B[gb];W[ab];B[ba];W[db];B[hc];W[fb]C[This is not more than a gote seki.])
+(;B[ha];W[gb]C[White lives.])
+(;B[hc];W[gb])
+(;B[ba];W[ab];B[gb];W[fb];B[hc];W[db]C[This is not more than a gote seki.])))
+(;W[bb];B[ba];W[ab];B[cb];W[db];B[ca];W[ea];B[gb];W[aa];B[ca];W[hc];B[ha];W[fb];B[cb]C[RIGHT]))
+(;B[cb];W[db]
+(;B[bb];W[da])
+(;B[da];W[bb];B[ba];W[ca]C[Ko is not good enough.]))
+(;B[ca];W[da]C[White lives.])
+(;B[bb];W[da]C[White lives.])
+(;B[ba];W[da])
+(;B[db];W[cb]
+(;B[bb];W[ca]C[White lives.])
+(;B[ca];W[da]C[White lives.])
+(;B[da];W[ca]C[White lives.]))
+(;B[gb];W[da]C[White lives.])
+(;B[ha];W[da]C[White lives.])
+(;B[hc];W[da]C[White lives.]))

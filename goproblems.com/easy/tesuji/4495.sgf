@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[5k]DP[34]SO[assacra]CO[7]AB[cd]AB[dd]AB[ed]AB[ec]AB[eb]AW[bd]AW[bc]AB[be]AB[bf]AW[ce]AW[de]AW[cg]AW[dg]AW[bh]AW[ci]C[black to kill marked stones]MA[bd]MA[bc]AP[goproblems]
+(;B[bb];W[cb]
+(;B[cc];W[ab]
+(;B[ba];W[ca]
+(;B[ad];W[aa];B[bb];W[ba]
+(;B[ae];W[bg]
+(;B[ac]C[RIGHT])
+(;B[db];W[cf]C[black can't play a17]))
+(;B[db];W[bg]
+(;B[da];W[cf];B[ae]C[black can't play a 17])
+(;B[ae];W[cf]C[black can't play a 17])))
+(;B[ac];W[ad]
+(;B[ae];W[aa]C[white has 2 eyes])
+(;B[db];W[aa])
+(;B[da];W[aa]))
+(;B[db];W[aa];B[ad];W[cf];B[ae];W[bg]C[black can't play a17])
+(;B[ae]C[RIGHT]))
+(;B[ad];W[ba]C[white has 2 eyes!])
+(;B[ac];W[ba]C[white has 2 eyes]))
+(;B[ab];W[cc]TR[cb]TR[cc]TR[bc]TR[bd]MA[be]MA[bf]C[white will win the semaii])
+(;B[ba];W[cc]C[white will win the semaii]))
+(;B[cc];W[bb];B[cb];W[cf];B[ba];W[bg];B[ab];W[ae]C[white wins the semaii])
+(;B[cb];W[cf]
+(;B[cc];W[ae];B[af];W[bg];B[ad];W[ag])
+(;B[bb];W[ae];B[af];W[bg];B[ad];W[ag])
+(;B[ad];W[bg]C[white will win the semaii])))

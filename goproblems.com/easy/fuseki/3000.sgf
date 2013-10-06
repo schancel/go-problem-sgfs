@@ -1,0 +1,59 @@
+(;GE[fuseki]DI[5k]DP[33]SO[wtd]CO[8]AW[cp]AB[eq]LB[eq:X][nq:8k][op:7k][pq:5k][qp:6k]
+C[You can play one of 4 different right corner positions. Please choose a difficulty from 5k to 8k. FORCE](;B[am])
+
+
+(;B[nq]LB[eq:X];W[qp]AW[nq]LB[eq:X][hq:A][iq:B][jq:C][kq:D]
+C[Which is the best extension 'A', 'B', 'C', or 'D'? FORCE]
+
+(;B[hq]LB[eq:X][ep:G][dq:F][kq:E]
+C[This is too close to 'X'. White can now extend to 'E', or play at 'F' prompting you to overconcentrate by standing at 'G'.])
+
+(;B[iq]LB[eq:X][lq:E]C[RIGHT By limiting yourself to a 3 space extension, you leave a possible further extension to 'E'.])
+
+(;B[jq];W[hq]LB[eq:X][jq:C]
+C['C' is too far. In response to white's invasion, you have no good extension from your stone at 'C'.])
+
+(;B[kq]LB[eq:X]C[Your position is now very thin, and vulnerable to various attacks.]))
+
+
+(;B[op]LB[eq:X];W[rq]AW[qn][rp][mq][nq][pq][qq]AB[pn][qo][ro][op][pp][qp]LB[eq:X][hq:A][iq:B][jq:C][kq:D]
+C[Which is the best extension 'A', 'B', 'C', or 'D'? FORCE]
+
+(;B[hq]LB[eq:X][gq:I][iq:B]
+C[RIGHT You should limit your extension to 2 spaces. Had you played 1 space further at 'B', it would be ineffective 
+against the strong white position to the right, and would invite invasion at 'I'.])
+
+(;B[iq]LB[eq:X];W[gq]LB[eq:X][iq:B]
+C[Extending to 'B' is ineffective against the strong white position to the right, and has invited a damaging invasion.])
+
+(;B[jq]LB[eq:X]C[Don't play near thickness.])
+
+(;B[kq]LB[eq:X]C[Don't play near thickness.]))
+
+
+(;B[pq]LB[eq:X];W[po]AW[pq]LB[eq:X][hq:A][iq:B][jq:C][kq:D]
+C[Which is the best extension 'A', 'B', 'C', or 'D'? FORCE]
+
+(;B[hq]LB[eq:X]C[This is much too small.])
+
+(;B[iq]LB[eq:X];W[kq]LB[eq:X]
+C[The 3 space extension is not enough, as white can reply with the good block/extension at L3.])
+
+(;B[jq]LB[eq:X][dn:G][do:F][mq:E]
+C[RIGHT This leaves you the possibility of making a useful further extension to 'E'; or pressing at 'F' then 'G', raising your extension at 'K3' to high efficiency.])
+
+(;B[kq]LB[eq:X];W[hp]LB[eq:X]C[This extension is too far as it gives white the chance to counter-attack at 'H4'.]))
+
+
+(;B[qp]LB[eq:X];W[oq]LB[eq:X][hq:A][iq:B][jq:C][kq:D]
+C[Which is the best extension 'A', 'B', 'C', or 'D'? FORCE]
+
+(;B[hq]LB[eq:X]C[This is much too defensive.])
+
+(;B[iq]LB[eq:X][oq:Y]C[This is too defensive, as it does not threaten the stone at 'Y'])
+
+(;B[jq]LB[eq:X];W[lq]LB[eq:X][oq:Y]
+C[You have allowed white to stabilise her stone at 'Y', and your thin position on the left now needs defending.])
+
+(;B[kq]LB[eq:X][oq:Y]
+C[RIGHT This is a good move because it attacks the white stone at 'Y', as well as extending from your stone at 'X'. Had you gone any further, it could no longer be regarded as an extension.])))

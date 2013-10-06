@@ -1,0 +1,41 @@
+(;GE[life and death]DI[2k]DP[23]SO[marwin]CO[7]SZ[19]AW[pl]AW[ql]AW[rl]AW[pm]AW[sm]AW[pn]AW[rn]AW[po]AW[pq]AW[or]AW[qr]AW[rs]AB[qm]AB[rm]AB[qn]AB[qo]AB[qp]AB[qq]AB[rr]AB[sr]C[Black to live]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;B[sn];W[so]
+(;B[sp]
+(;W[rp]C[CHOICE]
+(;B[ro];W[sq]
+(;B[rq]C[RIGHT])
+(;B[sn]C[RIGHT])
+(;B[sl]C[RIGHT])
+(;B[pp];W[op]
+(;B[rq];W[ss])
+(;B[sn]C[Ko])))
+(;B[rq];W[sq]
+(;B[ro]C[RIGHT])
+(;B[sl];W[ro]
+(;B[sn]C[Alive in double ko.RIGHT])
+(;B[sp]C[Alive in double koRIGHT]))
+(;B[pp];W[op]
+(;B[sp]C[Ko])
+(;B[ro])
+(;B[sl];W[sn]
+(;B[sp]C[Ko])
+(;B[ro];W[ss]))))
+(;B[sq];W[sn])
+(;B[sl];W[rq]C[Ko]))
+(;W[sn]C[CHOICE]
+(;B[ro];W[sl];B[rq]C[RIGHT])
+(;B[rq];W[ro])
+(;B[sl];W[sk]
+(;B[ro];W[sl];B[rq]C[RIGHT])
+(;B[rq];W[ro]))))
+(;B[ro];W[sp]C[ko])
+(;B[sl];W[sp]
+(;B[sn]C[Ko])
+(;B[ro];W[sn])
+(;B[rp];W[sk])
+(;B[sq];W[sk])))
+(;B[ro];W[sn];B[so];W[sl])
+(;B[sp];W[sn]
+(;B[ro];W[rq])
+(;B[rq];W[ro]))
+(;B[so];W[sn]C[Just one eye.]))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[1k]DP[18]SO[maba]CO[6]AB[bc]AB[cb]AB[cd]AB[dc]AB[ec]AB[eb]AW[bd]AW[be]AW[cf]AW[af]AW[bg]AW[bh]AW[de]AW[dd]AW[ed]AB[fd]AB[gd]AB[hd]AW[fb]AW[fc]AW[hc]AB[hb]AB[ic]AB[jc]AB[ge]AB[fe]AB[ee]AB[ef]AB[eg]AB[dh]AB[ci]AB[bi]AB[ck]AB[cl]AB[cm]AB[dn]AB[en]AW[bl]AW[bm]AW[cn]AW[co]AW[dp]AB[fo]AB[fq]AW[hq]AW[ho]AW[jq]AW[kq]AW[lq]AB[kp]AB[lp]AB[mp]AB[mq]AB[op]AB[pp]AB[qp]AW[po]AW[qm]AW[om]AW[nl]AW[nn]AW[mn]AW[ln]AW[kn]AW[km]AB[lm]AB[mm]AW[jk]AW[kk]AW[lk]AW[ik]AW[mj]AW[li]AW[kh]AW[ji]AW[jj]AW[kg]AW[jg]AW[jf]AB[if]AB[ig]AB[ih]AB[jh]AB[hg]AB[ii]AB[hi]AB[hj]AB[ij]AB[hk]AB[gk]AW[gj]AW[gh]AW[fh]AW[eh]AW[ff]AW[gf]AW[hf]AW[he]AW[ie]AW[id]AW[jd]AW[kd]AW[kc]AB[je]AB[ke]AB[lf]AB[lg]AB[le]AB[mg]AB[nh]AB[ni]AB[oi]AB[pi]AB[ok]AB[qk]AB[qj]AW[pj]AW[qi]AW[ph]AW[oh]AW[ng]AW[og]AW[qg]AW[qf]AW[pf]AB[nf]AW[mf]AW[me]AW[ne]AW[nd]AB[md]AB[ld]AB[lc]AW[lb]AW[mc]AB[pc]AB[qd]C[Black to kill the J15 stones.]AW[qh]AB[ri]AB[rl]AW[rm]AW[pl]AB[pk]AW[re]AB[rd]AW[rh]AB[sj]AB[dr]AW[cq]AW[cr]AB[eq]AB[ac]AW[ad]AB[il]AP[goproblems]
+(;B[nc]
+(;W[mb]
+(;B[od]TR[eh]TR[fh]TR[gh]TR[gj]TR[ff]TR[gf]TR[hf]TR[he]TR[ie]TR[id]TR[jd]TR[kd]TR[kc]TR[lb]TR[mb]TR[mc]C[The marked group dies.RIGHT])
+(;B[oe]TR[eh]TR[fh]TR[gh]TR[gj]TR[ff]TR[gf]TR[hf]TR[he]TR[ie]TR[id]TR[jd]TR[kd]TR[kc]TR[lb]TR[mb]TR[mc]C[The marked group dies.RIGHT])
+(;B[mh];W[oc]))
+(;W[jb];B[ib];W[mb];B[od]C[The marked group dies.RIGHT]TR[eh]TR[fh]TR[gh]TR[ff]TR[gf]TR[hf]TR[he]TR[ie]TR[id]TR[jd]TR[kd]TR[kc]TR[jb]TR[lb]TR[mb]TR[mc]))
+(;B[mb];W[jb]
+(;B[nc];W[ib])
+(;B[ib];W[nc]))
+(;B[jb];W[mb]
+(;B[kb];W[mh])
+(;B[nc];W[oc]
+(;B[kb];W[mh])
+(;B[mh];W[kb])))
+(;B[kb];W[mb]
+(;B[nc];W[oc])
+(;B[mh];W[jb])
+(;B[jb];W[mh]))
+(;B[mh];W[nb])
+(;B[nb];W[jb]
+(;B[mb];W[ib])
+(;B[ib];W[nc]
+(;B[mb];W[ob])
+(;B[ob];W[mb])
+(;B[oc];W[mb]))))

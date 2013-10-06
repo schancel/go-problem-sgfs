@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[5k]DP[34]SO[kuche12345]CO[0]AB[ar]AB[br]AB[cr]AB[dr]AW[bq]AW[cq]AW[dq]AB[eq]AB[fq]AB[gq]AB[hp]AW[er]AW[fr]AW[gr]AW[hs]AB[hr]AB[ir]AW[ds]AW[bs]AW[bo]C[black to win the semeai]AP[goproblems]
+(;B[cs];W[fs]C[only ko])
+(;B[as];W[aq])
+(;B[aq];W[cs])
+(;B[fs];W[aq];B[es];W[gs];B[es]C[RIGHT]
+(;W[fs];B[is];W[cs];B[es]C[RIGHT])
+(;W[cs];B[as];W[ds]
+(;B[cs]C[RIGHT])
+(;B[is]C[RIGHT])))
+(;B[es];W[fs];B[cs];W[aq];B[es]C[only ko])
+(;B[gs];W[fs]
+(;B[cs];W[aq];B[es]C[only ko])
+(;B[is];W[aq];B[gs]C[ko. you can do better])))

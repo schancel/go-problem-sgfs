@@ -1,0 +1,21 @@
+(;GE[life and death]DI[5k]DP[32]SO[tom111]CO[6]AB[rb]AB[ra]AB[qa]AB[pa]AW[sb]AW[rc]AW[qd]AW[qb]AW[pb]AW[pc]AW[oc]AB[ob]AB[nb]AB[nc]AW[na]AW[mb]AW[mc]AB[od]AB[pd]AW[md]AW[ne]AW[pf]AW[pe]AW[rf]C[Black to do his best.]AP[goproblems]
+(;B[qc];W[pc]
+(;B[qb];W[rd]C[dead :(])
+(;B[pb];W[qb]C[Ko! Black can do better.])
+(;B[qe];W[qb]
+(;B[pb];W[qc];B[re];W[rd])
+(;B[rd];W[qc];B[re];W[qf])
+(;B[re];W[rd]))
+(;B[rd];W[qb];B[qe];W[qc]))
+(;B[rd]
+(;W[sd]C[CHOICE];B[qc];W[re]
+(;B[pc]C[RIGHT])
+(;B[pb]C[RIGHT])
+(;B[qb];W[pc]C[Misclick?]))
+(;W[qc];B[qe]C[RIGHT]))
+(;B[qe];W[rd];B[qc])
+(;B[re];W[qe]
+(;B[qc];W[pc]
+(;B[qb];W[rd])
+(;B[pb];W[qb]C[Ko. Black can do better.]))
+(;B[rd];W[qc])))

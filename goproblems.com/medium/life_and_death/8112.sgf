@@ -1,0 +1,61 @@
+(;GE[life and death]DI[1k]DP[18]SO[santa c]CO[6]AB[rc]AB[oc]AB[ob]AB[nb]AW[mb]AW[mc]AW[kb]AW[nc]AW[od]AW[pd]AW[qd]AW[re]C[Black can't afford losing her troops!]AW[rg]AP[goproblems]
+(;B[qb]
+(;W[na]
+(;B[ra];W[pa]
+(;B[sb];W[pb]C[Ahh... Soo close! :(])
+(;B[pb];W[sb]C[:(]TR[sc]TR[oa])
+(;B[oa];W[sb]C[:(]TR[pb]TR[sc]))
+(;B[sb];W[ra]C[:(]TR[pc]TR[pa])
+(;B[pa];W[pc]C[:(]TR[ra]TR[sb])
+(;B[pc]C[Well done! :)RIGHT])
+(;B[pb];W[ra]C[:(])
+(;B[qc]C[];W[pc]
+(;B[ra];W[sb]TR[sc]TR[pb]C[:(])
+(;B[pb];W[ra]TR[oa]TR[qa]C[:(]))
+(;B[qa];W[qc]TR[oa]C[:(]TR[pb]))
+(;W[qc];B[ra]C[RIGHT])
+(;W[pc];B[pb]C[RIGHT])
+(;W[pb];B[pc]C[RIGHT])
+(;W[sb];B[sc]C[RIGHT])
+(;W[ra];B[qa]C[RIGHT])
+(;W[pa];B[pb]C[RIGHT]))
+(;B[ra]C[I'll post it as a problem, this weekend, sorry!  =)])
+(;B[qc]C[I'll post it as a problem, this weekend, sorry!  =)])
+(;B[sb];W[qb]
+(;B[qc];W[pc]
+(;B[pb];W[ra]C[:(]TR[pa]TR[na])
+(;B[ra];W[pb]C[:(]))
+(;B[ra];W[qc]C[:(]))
+(;B[na];W[qb];B[qc];W[pc]
+(;B[pb];W[rb]C[:(])
+(;B[rb];W[pb]C[:(]))
+(;B[pb]C[I'll post it as a problem, this weekend, sorry!  =)])
+(;B[rb]C[I'll post it as a problem, this weekend, sorry!  =)])
+(;B[pc];W[qb];B[qc];W[sb]
+(;B[sc];W[rb]
+(;B[ra];W[na];B[pa]C[Only gote seki! :(])
+(;B[pa];W[na];B[ra]C[Only gote seki! :(])
+(;B[na]C[Well done! :)RIGHT]TR[ra]TR[pa]))
+(;B[pa];W[rb]
+(;B[sc];W[na];B[ra]C[Only gote seki! :(])
+(;B[na];W[sc]C[:(])
+(;B[ra];W[sc]C[:(]))
+(;B[rb]C[Well done! :)RIGHT])
+(;B[na]C[See next problem! =D])
+(;B[ra];W[sc]C[:(]))
+(;B[pa];W[qb]
+(;B[qc];W[pc]
+(;B[pb];W[rb]C[:(])
+(;B[rb];W[pb]C[:(]))
+(;B[rb];W[qc]C[:(]))
+(;B[sc];W[pa]
+(;B[ra];W[qb]C[:(])
+(;B[qb]C[See next problem! =D])
+(;B[pb];W[na];B[qa];W[qb];B[qc];W[ra];B[rb];W[qa];B[sa];W[sb]MA[sa]C[:(])
+(;B[qc]C[I'll post it as a problem, this weekend, sorry!  =)]))
+(;B[rd];W[qb]
+(;B[qc];W[pc]
+(;B[pb];W[rb]C[:(])
+(;B[rb];W[pb]C[:(]))
+(;B[rb];W[qc]C[:(]))
+(;B[qa]C[I'll post it as a problem, this weekend, sorry!  =)]))

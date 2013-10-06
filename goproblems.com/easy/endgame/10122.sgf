@@ -1,0 +1,10 @@
+(;GE[endgame]DI[10k]DP[50]SO[tom111]CO[6]AB[cr]AB[cq]AB[ds]AB[dp]AB[ep]AB[eq]AB[fq]AB[gq]AB[hq]AB[hr]AW[cs]AW[bs]AW[br]AW[bq]AW[bp]AW[cp]AW[co]AW[do]AW[eo]AW[fo]AW[fp]AW[gp]AW[hp]AW[ip]AW[iq]AW[ir]LB[cs:1]LB[ds:2]LB[bs:3]C[White has just played the hane and connection. What is blacks best way to protect ?]AP[goproblems]
+(;B[er];W[hs];B[gs];W[is]C[Correct. If black protected at D2 he would need another move now.RIGHT])
+(;B[dr];W[hs];B[gs];W[is]C[Black needs another move because of the a,b,c sequence :(]LB[fs:a]LB[gr:b]LB[er:c])
+(;B[fs];W[dr])
+(;B[es];W[dr];B[dq];W[fs];B[er];W[hs])
+(;B[dq];W[es];B[dr];W[fr]C[:(])
+(;B[fr];W[dr])
+(;B[hs];W[dr])
+(;B[gr];W[dr])
+(;B[gs];W[dr]))

@@ -1,0 +1,31 @@
+(;GE[endgame]DI[2k]DP[23]SO[pepi]CO[0]SZ[5]AB[eb]AB[ec]AB[ed]AB[dd]AB[de]AB[ab]AW[ba]AW[bb]AW[cc]AW[dc]AW[ae]AW[be]AW[ce]C[5x5 endgame problem. Japanese rules, no komi. Black to do better than jigo.]AP[goproblems]
+(;B[bc];W[cd]
+(;B[db];W[cb]
+(;B[da];W[ad]C[White has to play here to make a seki, please answer at A.FORCE]LB[ac:A];B[ac]C[...Black: 2, White: 0, nice.RIGHT])
+(;B[ad];W[da]C[Big eye beats small eye. Please play at A.FORCE]LB[ac:A];B[ac];W[ca]C[Please play at A.FORCE]LB[bd:A];B[bd];W[aa]C[Please play at A.FORCE]LB[ac:A];B[ac];W[ea]C[Black dies first and it's not even close.]))
+(;B[ad];W[db]C[No good, Black dies.])
+(;B[cb];W[db])
+(;B[ac];W[db]C[Black dies.]))
+(;B[cd];W[bd]
+(;B[db];W[ac];B[cb];W[bc];B[ca]C[Black loses by 1 point.])
+(;B[ac];W[bc]
+(;B[db];W[da]C[Big eye beats small eye, confirm for yourself that Black dies first.])
+(;B[da];W[db];B[ca]C[];W[cb]C[Black loses the semeai. Play it to the end to see how.]
+(;B[aa];W[ea];B[da];W[ad];B[ab];W[ca];B[aa];W[ea]C[Black dies.])
+(;B[ad];W[aa];B[ac];W[ea];B[da];W[ca];B[ab];W[ea]C[Black dies.])))
+(;B[da];W[ac]
+(;B[db];W[cb]C[Black loses by 3 points.])
+(;B[cb];W[bc];B[db]C[Black loses by 2 points.])))
+(;B[db];W[ac]
+(;B[cd];W[bd])
+(;B[cb];W[cd];B[ca]C[Black loses by 3 points.])
+(;B[bd];W[cd]C[Black loses.]))
+(;B[da];W[ac];B[cd];W[bd])
+(;B[ac];W[bc]
+(;B[cd];W[bd])
+(;B[db];W[cd]
+(;B[da];W[ad]C[White wins by 4 points.])
+(;B[ad];W[da]C[Black dies first.]))
+(;B[ad];W[db]C[Black just dies this way.]))
+(;B[cb];W[db];B[bc];W[bd];B[ac];W[cd]C[Black dies.])
+(;B[bd];W[cd]C[Black loses.]))

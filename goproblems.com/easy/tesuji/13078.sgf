@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[5k]DP[35]SO[Gelya]CO[0]SZ[19]AW[dl]AW[gm]AW[cn]AW[dn]AW[gq]AW[hq]AW[jq]AW[nq]AW[ir]AW[jr]AB[pn]AB[co]AB[go]AB[dp]AB[fp]AB[hp]AB[ip]AB[pp]AB[iq]AB[hr]C[Find a shicho-tesuji]TR[hq]TR[gq]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toy koyo]
+(;B[gr];W[fq]
+(;B[fr];W[eq]
+(;B[er];W[dq]
+(;B[cq];W[dr];B[cr]TR[ds]TR[ep]TR[gp]MA[es]MA[fs]MA[gs]MA[hs]C[4 liberties beats 3RIGHT])
+(;B[dr];W[cq];B[cr];W[br]TR[cr]TR[dr]TR[er]TR[fr]TR[gr]TR[hr]C['Six on the second line is dead']))
+(;B[dq];W[er]TR[dr]TR[es]TR[ep]TR[gp]MA[fs]MA[gs]MA[hs]C[4 liberties beats 3]))
+(;B[eq];W[fr]TR[er]TR[fs]TR[gp]MA[gs]MA[hs]C[3 liberties beats 2]))
+(;B[fq];W[gr]TR[gs]TR[fr]TR[gp]MA[hs]C[3 liberties beats 1]))

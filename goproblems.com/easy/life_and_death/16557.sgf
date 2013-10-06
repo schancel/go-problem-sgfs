@@ -1,0 +1,37 @@
+(;GE[life and death]DI[10k]DP[54]SO[nightMoriak]CO[0]AW[ac]AW[bc]AW[cb]AW[db]AW[cd]AB[bd]AB[ad]AB[be]AB[ce]AB[dc]AB[dd]AB[eb]AB[fc]C[White to live.]AP[goproblems]
+(;W[ba]
+(;B[da];W[ab]C[RIGHT])
+(;B[ab];W[da]
+(;B[cc];W[bb]C[RIGHT])
+(;B[bb]
+(;W[cc];B[ea];W[aa]C[RIGHT])
+(;W[aa]C[RIGHT]))))
+(;W[da];B[ba]C[White has only one eye.CHOICE]
+(;W[bb];B[aa])
+(;W[ca];B[bb]
+(;W[ab];B[cc])
+(;W[cc];B[ea]))
+(;W[aa];B[ab]
+(;W[bb];B[aa])
+(;W[ca];B[cc];W[bb];B[ea])))
+(;W[ab];B[ba]C[White has only one eye.CHOICE];W[da];B[ea])
+(;W[cc]
+(;B[ba]C[White has only one eye.CHOICE])
+(;B[da]
+(;W[ba];B[ab]C[CHOICE])
+(;W[ca];B[ea]
+(;W[aa];B[bb]C[CHOICE])
+(;W[ba];B[ab]C[CHOICE])
+(;W[ab];B[ba]C[CHOICE])
+(;W[bb];B[aa]C[CHOICE]))))
+(;W[bb];B[da]
+(;W[ca];B[aa]C[CHOICE])
+(;W[aa];B[ca]C[CHOICE];W[ba];B[ea])
+(;W[ea];B[fa]
+(;W[ca];B[aa]C[CHOICE])
+(;W[aa];B[ca]C[CHOICE];W[ba];B[ea])))
+(;W[aa];B[da]
+(;W[ca];B[bb]C[CHOICE])
+(;W[ba]C[CHOICE])
+(;W[bb];B[ca]C[CHOICE]))
+(;W[ca]C[White can't make two eye in the corner.CHOICE];B[ba];W[bb];B[aa]))

@@ -1,0 +1,45 @@
+(;GE[tesuji]DI[4k]DP[30]SO[adum]CO[8]AW[qo]AW[ro]AW[rn]AB[qn]AB[pn]AB[rm]AB[pl]AW[oj]AW[qj]AW[oo]AW[op]AW[oq]AW[pq]AW[nq]AW[or]AB[nr]AB[mq]AB[mp]AB[np]AB[no]AW[lp]LB[oo:1]C[get yourself connected... the writing's on the wall.]AP[goproblems]
+(;B[nm];W[on]
+(;B[ml]C[black is connectedRIGHT])
+(;B[nn];W[om];B[ol];W[nl])
+(;B[om];W[nn];B[mn];W[mm])
+(;B[nl];W[nn];B[mn];W[mm])
+(;B[mm];W[om];B[ol];W[nl])
+(;B[ol];W[nn];B[mn];W[mm]))
+(;B[on];W[nn]C[black will have a struggle ahead for both cut groups])
+(;B[om];W[on]
+(;B[nn];W[nm])
+(;B[nm];W[nn];B[mn];W[mm])
+(;B[mm];W[nn];B[mn];W[nm];B[nl];W[ml]))
+(;B[nn];W[on]
+(;B[om];W[nm])
+(;B[nm];W[om];B[ol];W[nl])
+(;B[nl];W[om]
+(;B[mk];W[ol];B[ok];W[pk])
+(;B[ol];W[nm];B[mm];W[ml])
+(;B[nm];W[ol];B[ok];W[pk])))
+(;B[mm];W[on];B[nl];W[mn]
+(;B[nn];W[om]
+(;B[ol];W[nm]
+(;B[lm];W[ln])
+(;B[ml];W[ln])
+(;B[ll];W[ln])
+(;B[lo];W[ml]))
+(;B[nm];W[ol];B[ok];W[pk]))
+(;B[om];W[nn])
+(;B[ln];W[nn])
+(;B[nm];W[nn]))
+(;B[mn];W[on]
+(;B[nl];W[nm])
+(;B[om];W[nm])
+(;B[ml];W[nm];B[mm];W[nl]))
+(;B[nl];W[on]
+(;B[mm];W[mn];B[nn];W[om];B[ol];W[nm];B[lm];W[ln])
+(;B[om];W[nn])
+(;B[nm];W[nn];B[mn];W[mm])
+(;B[mn];W[nm]))
+(;B[ok];W[nn];B[on];W[mn])
+(;B[pk];W[on])
+(;B[ol];W[on]
+(;B[mm];W[nm])
+(;B[nn];W[om];B[nm];W[nl])))

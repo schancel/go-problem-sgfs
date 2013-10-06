@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5k]DP[34]SO[huhss]CO[9]SZ[19]AW[br]AW[aq]AW[bp]AW[cp]AW[dp]AW[ep]AW[fq]AW[gq]AW[hq]AW[hr]AB[bq]AB[cq]AB[dq]AB[eq]AB[cr]AB[fr]AB[gr]C[black play]AP[MultiGo:3.6.0]
+(;B[ar];W[as];B[cs]
+(;W[ap]
+(;B[es]
+(;W[gs];B[dr]C[, best solution for both sideRIGHT])
+(;W[dr];B[gs]C[, but white didn't do his best. Black built bigger territory.RIGHT]))
+(;B[bs];W[ar];B[es];W[gs];B[dr]C[However, the B1-A3 exchange lost a ko threat unnecessarilyRIGHT]))
+(;W[es];B[er];W[ds];B[bs];W[gs];B[ar];W[fs]C[, but white allowed more territory to black including dead stones and gote for whiteRIGHT]))
+(;B[cs]
+(;W[ar];B[es];W[gs];B[dr];W[bs]C[RIGHT]LB[ap:A]LB[as:B])
+(;W[es];B[er];W[ds];B[ar];W[as];B[bs];W[gs];B[ar];W[fs]C[, but white allowed more territory to black including dead stones and gote for whiteRIGHT]))
+(;B[es];W[cs]
+(;B[ar];W[as];B[ds];W[gs];B[bs]C[ko])
+(;B[gs];W[ds]C[wrong])
+(;B[ds];W[gs];B[ar];W[as];B[bs]C[ko]))
+(;B[ds];W[gs];B[er];W[fs];B[ar];W[as];B[bs];W[cs]C[ko])
+(;B[bs];W[ar];B[es];W[gs];B[dr];W[cs]C[wrong]))

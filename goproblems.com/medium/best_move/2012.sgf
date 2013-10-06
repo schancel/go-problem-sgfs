@@ -1,0 +1,48 @@
+(;GE[best move]DI[2k]DP[23]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qo][qp][nq][pq][or]AB[pm][qn][po][pp][oq]C[black to get the best local result]
+(;B[qq]CR[qq]
+;W[op]CR[op]
+(;B[qr]CR[qr]C[RIGHT
+black firmly takes the corner])
+(;B[rq]LB[qr:A]CR[rq]C[this is better played at A. black has no weakness])
+(;B[pr]CR[pr]C[this ko is an unnecessary burden for black])
+(;B[rr]CR[rr]
+;W[qr]CR[qr]
+;B[rq]CR[rq]C[black helps white get shape])
+(;B[oo]CR[oo]
+;W[rq]CR[rq]
+;B[qr]CR[qr]
+;W[rr]CR[rr])
+(;B[no]CR[no]
+;W[oo]CR[oo]
+;B[pn]CR[pn]
+;W[rq]CR[rq])
+(;B[rp]CR[rp]
+;W[qr]CR[qr]C[white gets good shape in the corner. black can do better.]))
+(;B[op]CR[op]
+;W[qr]CR[qr]C[white rejoices in your foolishness])
+(;B[np]CR[np]
+;W[op]CR[op]C[this is hopeless])
+(;B[rn]CR[rn]
+;W[qr]CR[qr]C[good for white])
+(;B[rq]CR[rq]
+;W[qq]CR[qq]C[unimpressive])
+(;B[qr]CR[qr]
+;W[qq]CR[qq]C[this is not a tesuji])
+(;B[rr]CR[rr]
+;W[qr]CR[qr]C[eh?])
+(;B[nr]CR[nr]
+;W[op]CR[op]C[going nowhere])
+(;B[on]CR[on]
+;W[op]CR[op])
+(;B[ro]CR[ro]
+;W[qr]CR[qr])
+(;B[pr]CR[pr]
+;W[qq]CR[qq]
+;B[op]CR[op]
+;W[mr]CR[mr]C[white has a swell position])
+(;B[mq]CR[mq]
+;W[op]CR[op])
+(;B[no]CR[no]
+;W[op]CR[op]))

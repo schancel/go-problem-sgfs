@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[6k]DP[39]SO[DarkSycthe]CO[0]AW[mq]AW[mp]AW[mo]AW[lo]AW[jp]AB[mn]AB[ln]AB[kn]AB[jn]AB[km]AB[jl]AB[im]AB[hm]AB[gl]AB[hk]AB[hj]AB[ii]AB[jj]AW[hl]AW[il]AW[ik]AW[jk]AW[gk]AW[gj]AW[gi]AW[hi]AW[ih]AW[jh]AW[lh]AW[mh]AW[ni]AW[oi]AW[oh]AW[og]AW[ph]AB[lj]AB[mi]AB[nj]AB[mk]AB[nl]AW[lm]AW[mm]AW[nn]AW[on]AW[om]AW[oo]AW[pn]AB[no]AB[np]AB[op]AB[po]AB[pq]AB[mr]AB[nr]AB[qn]AB[qm]AB[pm]AB[ql]AB[qk]AW[ol]AW[ok]AW[nk]AW[pl]AW[hp]AW[kq]AW[lr]TR[ik]C[White just played. What should black do now?]AP[goproblems]
+(;B[ij];W[kk]
+(;B[kj]
+(;W[ll]
+(;B[lk];W[kl]C[White tries to resist...]
+(;B[ml];W[nm];B[oj]C[Very nice! White resigns now.RIGHT])
+(;B[oj];W[pj];B[ml]C[RIGHT]))
+(;B[kl];W[lk]
+(;B[ml];W[nm]
+(;B[mj];W[oj])
+(;B[oj];W[mj];B[mk];W[pj]))
+(;B[oj];W[pj];B[ml]C[RIGHT]))
+(;B[ml];W[lk]
+(;B[kl];W[nm])
+(;B[oj];W[pj]
+(;B[kl]C[RIGHT])
+(;B[mj]C[RIGHT]))
+(;B[mj];W[nm];B[oj]C[RIGHT]))
+(;B[oj];W[pj]
+(;B[lk]C[RIGHT])
+(;B[kl]C[RIGHT])
+(;B[ml]C[RIGHT]))))
+(;B[lk];W[kj])
+(;B[ll];W[kj])
+(;B[kl];W[kj])
+(;B[oj];W[pj]
+(;B[kj];W[ll])
+(;B[pk];W[mj])
+(;B[ml]C[RIGHT])))
+(;B[kk];W[ij]C[You can do better than that!])
+(;B[ml]
+(;W[ij]))
+(;B[oj]
+(;W[pj]
+(;B[ij];W[kk])
+(;B[ml];W[ij]))))

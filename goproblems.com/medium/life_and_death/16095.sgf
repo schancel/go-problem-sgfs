@@ -1,0 +1,85 @@
+(;GE[life and death]DI[3k]DP[27]SO[passero]CO[0]AB[rb]AB[rc]AB[qd]AB[pd]AB[pf]AB[nf]AB[of]AB[mf]AB[me]AB[ld]AB[lc]AB[lb]AB[la]AB[qg]AB[nd]AW[md]AW[mc]AW[ma]AW[mb]AW[qc]AW[pc]AW[oc]AW[od]AW[oe]AW[ne]C[Black to Kili.]AP[goproblems]
+(;B[nc]
+(;W[nb]
+(;B[oa]
+(;W[pa]C[CHOICE];B[pb];W[qb];B[qa]C[Well done.RIGHT])
+(;W[qa]C[CHOICE];B[qb];W[pb];B[pa]C[Well done.RIGHT])
+(;W[qb]C[CHOICE];B[qa];W[pa];B[pb]C[Well done.RIGHT])
+(;W[pb]C[CHOICE];B[pa];W[qa];B[qb]C[Well done.RIGHT]))
+(;B[pa];W[oa])
+(;B[pb];W[ob]
+(;B[oa];W[qb];B[qa];W[pa]C[It's a Ko.])
+(;B[qb];W[oa])
+(;B[pa];W[oa]))
+(;B[qb];W[pb])
+(;B[qa];W[pb]
+(;B[pa];W[oa])
+(;B[oa];W[pa]))
+(;B[ob];W[qb];B[qa];W[pa];B[ra];W[pb]))
+(;W[oa];B[nb];W[na]
+(;B[pa];W[ob];B[nc];W[qa];B[qb]C[RIGHT])
+(;B[qa]C[RIGHT])
+(;B[qb]C[RIGHT])))
+(;B[pa];W[oa]
+(;B[ob];W[qa]
+(;B[na];W[qb])
+(;B[qb];W[pb])
+(;B[pb];W[qb];B[na];W[nc]
+(;B[ra];W[nb])
+(;B[pe];W[nb]))
+(;B[nb];W[pb]))
+(;B[nb];W[nc];B[ob];W[pb])
+(;B[pb];W[ob])
+(;B[na];W[nb]))
+(;B[oa];W[pa]
+(;B[pb];W[qb]
+(;B[qa];W[ob]
+(;B[pa];W[na]
+(;B[ra];W[nc])
+(;B[nc];W[ra];B[pa];W[qa]))
+(;B[na];W[nb])
+(;B[nc];W[pa]C[It's a Ko.])
+(;B[nb];W[nc]
+(;B[na];W[pa])
+(;B[pa];W[na])
+(;B[ra];W[na])))
+(;B[nb];W[ob])
+(;B[ob];W[qa]
+(;B[nb];W[nc])
+(;B[nc];W[nb])))
+(;B[nb];W[nc];B[pb];W[ob])
+(;B[ob];W[pb])
+(;B[nc];W[ob]
+(;B[nb];W[na])
+(;B[qb];W[pb]))
+(;B[qb];W[pb]
+(;B[nb];W[nc])
+(;B[nc];W[nb])))
+(;B[nb];W[nc]
+(;B[ob];W[pb])
+(;B[oa];W[ob])
+(;B[pa];W[ob]))
+(;B[qb];W[pb]
+(;B[pa];W[oa])
+(;B[nb];W[nc]))
+(;B[pb];W[qb]
+(;B[qa];W[ob]
+(;B[pa];W[oa])
+(;B[oa];W[na])
+(;B[nc];W[pa]))
+(;B[ob];W[nb];B[qa];W[oa]
+(;B[ra];W[pa])
+(;B[pa];W[ra])))
+(;B[qa];W[oa]
+(;B[pa];W[ob])
+(;B[pb];W[ob])
+(;B[nb];W[nc];B[ob];W[pb]))
+(;B[ra];W[pa])
+(;B[ob];W[pb]
+(;B[pa];W[qa];B[oa];W[qb])
+(;B[nc];W[nb])
+(;B[nb];W[nc])
+(;B[na];W[pa]
+(;B[nc];W[nb])
+(;B[nb];W[nc])))
+(;B[pe];W[qa];B[qb];W[pb]))

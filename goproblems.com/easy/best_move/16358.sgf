@@ -1,0 +1,5 @@
+(;GE[best move]DI[7k]DP[45]SO[jllortega]CO[0]AB[qc]AB[qd]AB[qe]AB[pc]AB[oc]AB[nd]AB[md]AB[lc]AB[ne]AB[oe]AW[kc]AW[ld]AW[le]AW[me]AW[nf]AW[of]AW[pf]AW[qf]AW[pe]AW[pd]AW[od]C[Avoid vulgar style]AP[goproblems]
+(;B[mb]C[Correct style... Making a diagonal connection at 1 means that White a is not sente.]LB[kb:a]
+(;W[lb]C[If 2 and...];B[mc]C[3, White a is gote, so Black can later capture at a.RIGHT]LB[kb:a])
+(;W[kb]))
+(;B[lb]C[Vulgar style. If Black 1...];W[kb]C[White 2 is sente...];B[nb]LB[la:a]LB[mb:b]C[So is White a, which forces Black b.]))

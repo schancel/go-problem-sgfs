@@ -1,0 +1,49 @@
+(;GE[life and death]DI[10k]DP[54]SO[pitchflare]CO[0]AB[jj]AB[kk]AB[jl]AB[ik]AB[hj]AB[ii]AB[ki]C[Black to live.]AB[im]AB[jh]AW[jn]AW[in]AW[hn]AW[gm]AW[gj]AW[ig]AW[jg]AW[kg]AW[lh]AW[lk]AW[gi]AW[ll]AW[jm]AW[ih]AW[kl]AW[hi]AB[gk]AB[lj]AW[fk]AW[mj]AW[mk]AW[mi]AW[fl]AW[fj]AW[hm]AB[hl]AP[goproblems]
+(;B[il];W[gl]
+(;B[hk];W[kh];B[ji];W[li];B[kj]C[Best way for black to live - keep all stones.RIGHT])
+(;B[li]
+(;W[kh]
+(;B[ji];W[hk];B[ij]C[RIGHT])
+(;B[hk];W[ji];B[kj];W[ij]))
+(;W[hk]
+(;B[ij];W[kh]
+(;B[ji]C[RIGHT])
+(;B[gk];W[ji]))
+(;B[kh])))
+(;B[kh]))
+(;B[kh]
+(;W[gl]C[CHOICE]
+(;B[hk]
+(;W[il]C[CHOICE]
+(;B[jk];W[li]
+(;B[kj]C[:)RIGHT])
+(;B[im];W[kj]C[Only ko :(]))
+(;B[kj];W[jk]C[Ko...])
+(;B[li];W[jk]C[Ko...]))
+(;W[li];B[kj];W[il];B[jk]C[RIGHT]))
+(;B[il]
+(;W[li];B[kj];W[hk];B[ij]C[Good!RIGHT])
+(;W[hk];B[ij];W[li]
+(;B[kj]C[RIGHT])
+(;B[gk];W[kj]C[Only ko.])))
+(;B[li]))
+(;W[il]C[CHOICE]
+(;B[jk];W[li];B[kj];W[gl]
+(;B[im]C[Alive - with a good ko!RIGHT])
+(;B[hk]C[RIGHT]))
+(;B[li];W[jk]C[Ko.])))
+(;B[li]
+(;W[il]C[CHOICE];B[jk];W[gl]
+(;B[kh]C[Yep! Life is ensured.RIGHT])
+(;B[hk];W[kh]
+(;B[ji]C[RIGHT])
+(;B[im];W[ji]C[Ko...]))
+(;B[ji];W[hk]C[:(]))
+(;W[gl]
+(;B[kh];W[hk]
+(;B[ij];W[il];B[jk]C[Yep.RIGHT])
+(;B[il];W[ij]C[Ko. :(]))
+(;B[hk];W[il];B[jk];W[kh]
+(;B[ji]C[RIGHT])
+(;B[im];W[ji]C[Bad ko. :(]))))
+(;B[gl];W[il];B[hk];W[jk];B[ij];W[kj];B[ji];W[li]))

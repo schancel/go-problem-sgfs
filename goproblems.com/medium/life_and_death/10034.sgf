@@ -1,0 +1,102 @@
+(;GE[life and death]DI[1k]DP[19]SO[Akahige]CO[7]AW[bb]AW[cb]AW[db]AW[dc]AW[dd]AB[ad]AB[cc]AB[cd]AB[bd]AB[be]AB[bf]AB[bg]AB[bi]AB[bj]AW[ak]AW[bk]AW[cj]AW[ce]AW[cf]AW[eg]AW[ei]AW[ee]AW[ck]AW[ek]AP[goproblems]
+(;W[aj];B[ai]
+(;W[af]
+(;B[ag]C[CHOICE]
+(;W[bh];B[ch]
+(;W[ci];B[ah];W[cg]C[Well done !RIGHT])
+(;W[cg];B[ci]))
+(;W[ch];B[bh])
+(;W[cg];B[bh])
+(;W[ci];B[bh])
+(;W[ah];B[bh]))
+(;B[ch]
+(;W[ag];B[ci]
+(;W[ah];B[cg]C[seki])
+(;W[cg];B[ah]))
+(;W[ci]
+(;B[ag];W[bh];B[ah];W[cg]C[RIGHT])
+(;B[bh];W[ag]C[RIGHT])
+(;B[cg];W[ag]C[RIGHT])))
+(;B[ci]
+(;W[ch]
+(;B[cg];W[dh]C[RIGHT])
+(;B[bh];W[ag];B[cg];W[dh]C[RIGHT])
+(;B[dh];W[cg]C[RIGHT]))
+(;W[bh];B[cg];W[ch];B[dh];W[di];B[ah])
+(;W[ag];B[ch]
+(;W[cg];B[ah])
+(;W[ah];B[cg]C[seki]))
+(;W[ah];B[ag])
+(;W[cg];B[ch]
+(;W[ag];B[ah])
+(;W[ah];B[ag]))))
+(;W[ag];B[af]
+(;W[bh];B[ch])
+(;W[ci];B[bh])
+(;W[ch];B[bh])
+(;W[ah];B[bh]))
+(;W[bh];B[ch]
+(;W[af];B[ci])
+(;W[ci];B[ah]
+(;W[cg];B[af])
+(;W[af];B[cg])
+(;W[ag];B[af]))
+(;W[ah];B[ag])
+(;W[cg];B[ah]
+(;W[ci];B[af])
+(;W[af];B[ci]))
+(;W[ag]C[];B[ci]C[Black is alive]))
+(;W[ah];B[bh])
+(;W[ci];B[bh])
+(;W[ch];B[bh])
+(;W[cg];B[bh])
+(;W[ae];B[bh]))
+(;W[ah];B[bh]
+(;W[ag];B[af])
+(;W[ai];B[aj])
+(;W[aj];B[ai])
+(;W[af];B[ag]))
+(;W[bh];B[ch]
+(;W[ah];B[ci]C[Black is alive])
+(;W[ci];B[ah]
+(;W[aj];B[af])
+(;W[af];B[aj])
+(;W[cg];B[aj])
+(;W[ai];B[aj]))
+(;W[aj];B[ah]
+(;W[af];B[cg]C[Black is alive (A and B miai)]LB[ai:A]LB[ci:B])
+(;W[ai];B[af])
+(;W[ci];B[af]))
+(;W[ai];B[ah])
+(;W[cg]C[Black can tenuki (play elsewhere) !]))
+(;W[ai];B[ah]
+(;W[aj];B[af])
+(;W[ci];B[aj])
+(;W[ch];B[bh]
+(;W[aj];B[af])
+(;W[af];B[aj]))
+(;W[bh];B[ch]
+(;W[aj];B[af])
+(;W[ci];B[aj])
+(;W[cg];B[aj])
+(;W[af];B[aj]))
+(;W[af];B[aj]))
+(;W[ag];B[ah]
+(;W[aj];B[af])
+(;W[af];B[aj])
+(;W[ci];B[aj])
+(;W[ch];B[bh])
+(;W[ai];B[aj]))
+(;W[af];B[aj]
+(;W[bh];B[ch]
+(;W[ah];B[ci]
+(;W[cg];B[ag])
+(;W[ag];B[cg]C[Black is alive (no seki here, the four white stones are dead)]))
+(;W[ci];B[ah]))
+(;W[ag];B[ah])
+(;W[ah];B[bh];W[ag]C[Black lives in seki :(])
+(;W[ch];B[bh])
+(;W[ci];B[bh]))
+(;W[ch];B[bh]C[Black has enough space to live])
+(;W[ci];B[bh]C[Black has enough space to live])
+(;W[cg];B[bh]C[Black has enough space to live]))

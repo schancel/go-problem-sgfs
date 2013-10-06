@@ -1,0 +1,58 @@
+(;GE[best move]DI[12k]DP[56]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dc][ec][bd][cd]AB[cc][dd][be][ce][ee]C[black to get the best local result]
+(;B[cb]CR[cb]C[RIGHT
+black captures a big corner])
+(;B[bc]CR[bc]C[better at C18])
+(;B[ed]CR[ed]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[ad]CR[ad]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[ac]CR[ac]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[fc]CR[fc]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[bb]CR[bb]
+;W[ed]CR[ed]
+;B[de]CR[de]
+;W[cb]CR[cb]
+;B[bc]CR[bc]C[black can do better])
+(;B[fd]CR[fd]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[ge]CR[ge]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[df]CR[df]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb])
+(;B[db]CR[db]
+;W[ed]CR[ed]
+;B[de]CR[de]
+;W[cb]CR[cb]
+;B[bc]CR[bc]
+;W[bb]CR[bb]
+;B[ad]CR[ad]C[white is happy])
+(;B[eb]CR[eb]
+;W[ed]CR[ed]
+;B[de]CR[de]
+;W[cb]CR[cb]
+;B[bc]CR[bc]
+;W[bb]CR[bb]
+;B[ad]CR[ad]
+;W[fb]CR[fb])
+(;B[fb]CR[fb]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[bb]CR[bb]))

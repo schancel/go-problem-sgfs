@@ -1,0 +1,26 @@
+(;GE[elementary]DI[20k]DP[74]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[no][po][qo][op][rp][sp][pq][qq][rq][rr][rs]
+AB[mm][on][pn][qn][rn][mo][oo][ro][so][mp][nq][oq][mr][pr][sr][os][qs]
+C[black to kill
+]
+(;B[np];W[pp])
+
+(;B[ss];W[pp])
+
+(;B[pp];W[qp]C[RIGHT
+Q4 is not an eye
+])
+
+(;B[sq];W[pp])
+
+(;B[nn];W[pp])
+
+(;B[qr];W[pp])
+
+)

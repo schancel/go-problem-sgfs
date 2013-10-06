@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[6k]DP[39]SO[field mouse]CO[0]AB[qf]AB[pf]AB[qj]AB[oj]AB[ph]AW[qh]AW[qe]AW[pd]AW[od]AW[qd]AW[rb]AB[qb]AB[oc]AB[nc]AB[mc]AW[nd]AW[md]AW[ld]AB[kb]AW[kd]AW[jd]AW[jc]AW[jb]AB[lc]AW[ql]AW[qo]AW[pm]AW[pq]AW[qc]AW[sb]AB[ra]AB[pc]AB[pb]LB[qh:1]LB[ph:2]C[What should white play now?]AP[goproblems]
+(;W[qi]
+(;B[pj]
+(;W[rh]TR[rj]TR[rf]C[Nice, you connected in sente!RIGHT])
+(;W[pi];B[oi]
+(;W[rh]MA[rf]MA[rj]C[Miai and sente, good!RIGHT])
+(;W[pg];B[og]
+(;W[oh];B[nh]
+(;W[of];B[ph]C[This ko is unnecessary here. White risks too much.])
+(;W[rh];B[qg]C[Black captures the two stones and is very strong.];W[ph];B[rg];W[rj];B[sh];W[ri];B[rk]))
+(;W[rh];B[qg]C[Bad]))))
+(;B[pi]
+(;W[rh]C[White is connected and still has A and B peeps.CHOICERIGHT]LB[og:A]MA[rf]MA[rj]LB[pk:B])
+(;W[rj];B[ri]
+(;W[qk];B[rh];W[pj];B[qg]C[You could do better.])
+(;W[rh];B[rk];W[si];B[qk];W[rf]C[You could do better.]))
+(;W[qg];B[ri]
+(;W[rh];B[rf];W[rj];B[rk];W[si];B[qk];W[pg];B[og];W[of];B[sg];W[sh];B[sk];W[pe];B[sj];W[re];B[ri])
+(;W[rf];B[pg];W[rh];B[sh];W[rg]C[Black shape is better than in the solution.]))))
+(;W[rf];B[rg];W[re];B[rh]C[You could do better.])
+(;W[rj];B[qi]
+(;W[ri];B[rh])
+(;W[rh];B[ri];W[rf];B[rk]))
+(;W[rh]TR[rf]TR[rj]C[Miai! Black will probably continue with creating some shape at A.RIGHT]LB[qi:A])
+(;W[qg];B[pg];W[qi];B[pi];W[rj]C[The marked exchange was wrong - it only helped black. White has no more 'A' peep and black can still make an eye by playing S11.]TR[qg]TR[pg]LB[og:A])
+(;W[pi];B[qi];W[pg];B[oh];W[qg];B[og];W[rf]C[Black shape is too good here.]))

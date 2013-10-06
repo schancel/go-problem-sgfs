@@ -1,0 +1,4 @@
+(;GE[endgame]DI[3k]DP[24]SO[alpc]CO[1]AW[dr]AW[dq]AW[dp]AW[co]AW[bo]AW[cm]AB[cp]AB[do]AB[eo]AB[em]AB[ep]AB[eq]AB[er]C[play the best endgame for black]AP[goproblems]
+(;B[cr];W[cq];B[bq];W[ds]C[should the ko be bad for white, white should play at b4 which would lead to the same result as the solution])
+(;B[ds];W[bq])
+(;B[bq];W[cq];B[ds];W[cr];B[br];W[bp];B[cs];W[cp];B[aq]C[RIGHT]))

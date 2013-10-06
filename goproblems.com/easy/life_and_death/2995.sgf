@@ -1,0 +1,85 @@
+(;GE[life and death]DI[8k]DP[49]SO[fergal]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]AW[ae][be][ce][cf][df][ef][ff][fg][gg][gh][gi]AB[af][bf][cg][dg][eg][bh][fh][ei][fi]LB[ec:A]C[Is black's territory safe? If you think so then play at 'A' otherwise strengthen black's region as necessary.]PL[B]
+(;B[ec]CR[ec]
+;W[di]CR[di]
+(;B[eh]CR[eh]
+;W[ah]CR[ah]
+(;B[bg]CR[bg]
+;W[bi]CR[bi]
+(;B[ch]CR[ch]
+;W[ci]CR[ci]C[Seki.])
+(;B[ag]CR[ag]
+(;W[ci]CR[ci]
+;B[ai]CR[ai]
+;W[fc]CR[fc]
+;B[ch]CR[ch]
+;W[ah]CR[ah]C[Ko for life.])
+(;W[ch]CR[ch]
+;B[ai]CR[ai]C[Ko for life.]))
+(;B[dh]CR[dh]
+;W[ci]CR[ci]C[Seki])
+(;B[ci]CR[ci]
+;W[ch]CR[ch]C[Seki]))
+(;B[ci]CR[ci]
+;W[bg]CR[bg]
+;B[dh]CR[dh]C[Black lives but has lost territory.])
+(;B[bi]CR[bi]
+;W[bg]CR[bg]
+;B[ci]CR[ci]
+;W[dh]CR[dh]C[Black dies.])
+(;B[ch]CR[ch]
+;W[bg]CR[bg]C[Black dies.]))
+(;B[ci]CR[ci]
+(;W[eh]CR[eh]
+(;B[dh]CR[dh]C[Black lives but has lost territory.])
+(;B[ch]CR[ch]
+;W[ah]CR[ah]
+;B[bg]CR[bg]
+;W[ai]CR[ai]C[Black dies]))
+(;W[ah]CR[ah]
+;B[bg]CR[bg]
+;W[eh]CR[eh]
+(;B[dh]CR[dh]C[Black lives but has lost territory.])
+(;B[ch]CR[ch]
+;W[ai]CR[ai]C[Black dies.])))
+(;B[ch]CR[ch]
+;W[ah]CR[ah]
+(;B[bg]CR[bg]
+;W[eh]CR[eh]
+(;B[ci]CR[ci]
+;W[ai]CR[ai]C[Black dies.])
+(;B[ai]CR[ai]
+;W[ci]CR[ci]))
+(;B[eh]CR[eh]
+;W[bg]CR[bg]
+(;B[ci]CR[ci]
+;W[ag]CR[ag])
+(;B[bi]CR[bi]
+;W[ag]CR[ag])))
+(;B[dh]CR[dh]
+(;W[ci]CR[ci]
+;B[bi]CR[bi]
+;W[eh]CR[eh]
+;B[ag]CR[ag]C[Black lives but has lost territory.])
+(;W[ah]CR[ah]
+;B[ci]CR[ci]
+;W[bg]CR[bg]C[Black lives but has lost territory.])))
+(;B[bg]CR[bg]C[Black lives.RIGHT])
+(;B[ag]CR[ag]
+;W[di]CR[di]
+;B[eh]CR[eh]
+;W[bi]CR[bi]
+(;B[ah]CR[ah]
+;W[ch]CR[ch]C[Seki])
+(;B[ch]CR[ch]
+;W[ah]CR[ah]
+;B[ai]CR[ai]C[Ko for life.]))
+(;B[ah]CR[ah]C[Black lives.RIGHT])
+(;B[ai]CR[ai]C[Black lives.RIGHT])
+(;B[bi]CR[bi]C[Black lives.RIGHT])
+(;B[ci]CR[ci]C[Black lives.RIGHT])
+(;B[ch]CR[ch]C[Black lives.RIGHT])
+(;B[di]CR[di]C[Black lives.RIGHT])
+(;B[eh]CR[eh]C[Black lives.RIGHT])
+(;B[dh]CR[dh]C[Black lives.RIGHT]))

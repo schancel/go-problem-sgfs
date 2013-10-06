@@ -1,0 +1,24 @@
+(;GE[fuseki]DI[2k]DP[21]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[dd][dj][jd][oc][pd][pf]
+AW[hc][ld][nc][nd]
+PL[B]
+C[How to prevent the connection? (Part 1)]
+LB[yy:0](;B[jb]
+MN[1]
+C[RIGHT]
+)(;B[ie]
+C[White can connect with A.]
+LB[ie:1][jb:A])(;B[jc]
+C[Too solid. 
+(See commentary for a more 
+detailed explanation.)]
+)(;B[ic]
+;W[hd]
+;B[jf]
+LB[jf:3]TR[ic][hd]C[The marked exchange is bad for Black 
+as it strengthens White.]
+))

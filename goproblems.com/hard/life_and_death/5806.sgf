@@ -1,0 +1,80 @@
+(;GE[life and death]DI[5d]DP[5]SO[bass]CO[8]AW[aq]AW[bp]AW[cq]AW[cr]AW[br]AB[dr]AB[eq]AB[ep]AW[fp]AW[fq]AW[fr]AW[go]AB[ao]AB[bo]AW[bn]AW[bm]AB[cp]AB[dp]AB[cn]AB[eo]AB[em]AB[fm]AW[gk]AW[fk]AW[ho]AW[hl]AW[hm]C[Can black do anything in this corner? Play at T if you think black is unconditionally dead.]LB[hq:T]AB[dn]AW[dm]AW[dk]AW[dl]AW[bl]AP[goproblems]
+(;B[ap]
+(;W[ds]
+(;B[ar];W[bq]
+(;B[es];W[cs]
+(;B[er];W[as])
+(;B[as];W[er]))
+(;B[cs];W[es])
+(;B[bs];W[cs]))
+(;B[bs];W[es]
+(;B[ar];W[bq])
+(;B[bq];W[ar];B[cs]))
+(;B[es];W[er]
+(;B[cs];W[dq]
+(;B[ar];W[as];B[bq]C[two-stage ko for life.RIGHT])
+(;B[bq];W[ar];B[bs];W[bp]C[double ko, black dies.])
+(;B[bs];W[ar];B[bq];W[ds]C[double ko, black dies.])
+(;B[ds];W[ar]))
+(;B[dq];W[cs]
+(;B[ar];W[as];B[bq]C[two-stage ko for life.RIGHT])
+(;B[bq];W[ar]))
+(;B[ar];W[as]
+(;B[cs];W[dq])
+(;B[dq];W[cs];B[bq]C[two-stage ko for lifeRIGHT])
+(;B[bq]C[two-stage ko for life.RIGHT]))
+(;B[bq];W[ar];B[cs];W[dq]))
+(;B[cs];W[es]
+(;B[ar]
+(;W[as];B[bq];W[ar];B[dq];W[bp])
+(;W[bq]))
+(;B[bq];W[ar]))
+(;B[bq];W[ar]
+(;B[es];W[er])
+(;B[cs];W[es];B[bs];W[as];B[cs];W[bs];B[dq];W[cs]))
+(;B[dq];W[es]))
+(;W[er]C[This path is for reference only, most of the variations are missing.];B[dq];W[ds];B[ar]
+(;W[as];B[bq]C[two-stage ko for life.RIGHT])
+(;W[bq];B[bs];W[as]C[direct ko for life, bad for white.RIGHT])
+(;W[cs];B[bq]C[black lives, bad for white.RIGHT])))
+(;B[cs];W[bs]
+(;B[ap];W[ds]
+(;B[es];W[er]
+(;B[cs];W[fs])
+(;B[bq];W[ar];B[cs];W[fs])
+(;B[ar];W[bq]))
+(;B[er];W[es]
+(;B[ar];W[bq])
+(;B[bq];W[ar]))
+(;B[ar];W[bq];B[es];W[er]
+(;B[cs];W[fs])
+(;B[dq];W[fs]))
+(;B[bq];W[ar];B[es];W[er]))
+(;B[ds];W[ap])
+(;B[ar];W[ds]
+(;B[es];W[er]
+(;B[cs];W[fs];B[ap];W[bq])
+(;B[dq];W[fs]))
+(;B[ap];W[bq])))
+(;B[ar];W[cs]
+(;B[ap];W[bq]
+(;B[as];W[ds])
+(;B[ds];W[as])
+(;B[er];W[as]))
+(;B[as];W[ds])
+(;B[ds];W[as]))
+(;B[ds];W[ap])
+(;B[er];W[ap])
+(;B[bs];W[cs]
+(;B[ap];W[bq]
+(;B[ds];W[as])
+(;B[as];W[ds])
+(;B[er];W[as]))
+(;B[ds];W[ap])
+(;B[er];W[ap]))
+(;B[dq];W[ap])
+(;B[as];W[ap])
+(;B[fn];W[co])
+(;B[co];W[ap])
+(;B[hq]C[No, there is a slight sparkle of hope..])
+(;B[fo];W[co]))

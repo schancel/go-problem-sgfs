@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[2d]DP[14]SO[kuche12345]CO[0]AW[bq]AW[cq]AW[dq]AB[bp]AB[cp]AB[dp]AW[ep]AW[fp]AW[gp]AW[fq]AB[eq]AB[er]AB[fr]AB[gq]AB[hq]AW[fn]AW[dn]AW[bn]C[Black to kill the marked stones]TR[bq]TR[cq]TR[dq]AP[goproblems]
+(;B[ar]
+(;W[ap]
+(;B[aq];W[ao];B[br]C[RIGHT])
+(;B[ao];W[aq];B[bo];W[co]))
+(;W[aq];B[ap];W[br];B[dr]C[RIGHT]))
+(;B[aq];W[ar];B[ap];W[dr]
+(;B[cs];W[es]
+(;B[gr];W[bs])
+(;B[fs];W[gr];B[ds];W[gs];B[es];W[bs]))
+(;B[bs];W[br];B[cs];W[ds];B[gr];W[do];B[es];W[bo];B[cr];W[as];B[cs];W[co]))
+(;B[br];W[ap]
+(;B[ao];W[aq];B[bo];W[do];B[dr];W[co])
+(;B[cr];W[ao]C[white escapes and your stones die :(]))
+(;B[cr];W[dr])
+(;B[ap]C[RIGHT]))

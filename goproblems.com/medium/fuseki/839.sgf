@@ -1,0 +1,24 @@
+(;GE[fuseki]DI[1d]DP[16]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+PL[B]
+AB[cc][dd][df][jd][pd][pj]
+AW[db][fc][hc][ld]
+(;B[ie]
+C[RIGHT
+Black doesn't mind White playing at A 
+as this will weaken the marked stone.]
+LB[ie:1][jb:A][ie:1]TR[ld]MN[1]
+)(;B[jb]
+C[This move is a little bit slow and also 
+rather passive.]
+)(;B[jc]
+C[Black doesn't need to play this solid.]
+)(;B[ic]
+;W[hd]
+;B[jf]
+C[Because of the marked exchange, 
+White is already alive in the top left.]
+LB[jf:3]TR[hd][ic]))

@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[5d]DP[4]SO[rainysky]CO[7]AB[cp]AW[eq]AB[gp]AW[eo]AB[dn]AW[ip]AB[gr]AW[en]AB[dm]AW[em]AB[dl]AW[hq]AB[gq]AW[ho]AB[go]AW[hn]AB[gn]AW[gm]AB[hm]AW[gl]AB[el]AW[fl]TR[gn]TR[go]TR[gp]TR[gq]TR[gr]C[Black's 5 stones are in trouble.... can you save them?]AW[ci]AW[dc]AP[goproblems]
+(;B[dq]
+(;W[dp]
+(;B[do];W[ep]
+(;B[er]C[Ai! Magic move n_n];W[dr];B[cq];W[fr]
+(;B[jq]C[The second magic move ^^]
+(;W[iq]C[CHOICE]
+(;B[jr];W[ir];B[gs];W[es];B[is];W[im]LB[mq:A];B[mq]C[Good job! Connection possible thanks to E2RIGHT])
+(;B[gs]C[NOTTHIS]))
+(;W[hr]C[CHOICE]
+(;B[hp];W[iq];B[io];W[in];B[jo];W[jp];B[ko];W[im];B[kp];W[jr];B[kq];W[gs]C[Woops... looks like someone forgot about G1? Tsk Tsk...])
+(;B[gs];W[es];B[hp];W[iq];B[io];W[in];B[jo];W[jp];B[ko]MA[im]MA[kp]C[2 marked points miai. Well done!RIGHT]))
+(;W[ir];B[iq]LB[hp:A]LB[hr:B]C[A and B are miai. Black is saved~RIGHT]))
+(;B[ir];W[jq];B[jr];W[kq];B[kr];W[lq]C[At this rate... it doesn't matter if you live or die. The result is still terrible. You fail =\])
+(;B[gs]C[NOTTHIS]))
+(;B[dr];W[er]LB[ir:A]C[Black can try to run at A but even if he lives, it will be a painful second line life....]))
+(;B[er];W[cq];B[dr];W[co];B[bp];W[do]TR[dn]TR[dm]TR[dl]TR[el]C[save 5, lose 4.... is that really good?]))
+(;W[er];B[ep];W[fp];B[dp];W[fo];B[fq]))
+(;B[er];W[dq];B[dr];W[cq];B[cr];W[bp]C[You may have lived at the bottom... but it seems you've lost your points on the side =/])
+(;B[ep];W[dp]
+(;B[dq];W[do];B[co];W[cq];B[dr];W[er];B[cr];W[fp]LB[ir:A]C[black may be able to try and live with A but life on line 2 is pointless =\])
+(;B[fp];W[do];B[dq];W[cq];B[dr];W[cr];B[er];W[co]C[ouch x____X])))

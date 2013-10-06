@@ -1,0 +1,22 @@
+(;GE[elementary]DI[12k]DP[55]SO[remembered]CO[0]AB[pp]AB[np]AB[kq]AW[iq]AW[qn]AB[qp]C[You can reduce black's moyo. A B C D what the best move to reduce B's moyo. assume no ko threat for both. Just to show you that B group does have defect. assume W group outside is weak. Note: KAF's variation show what W will choose if W outside are strong.]LB[kp:A]LB[lq:B]LB[jq:C]LB[kr:D]AP[goproblems]
+(;W[lq]C[RIGHT];B[lp]C[Now W's choices to invade deeper or not. it's depend how strong your outside group are in real game.]
+(;W[kr]
+(;B[kp]
+(;W[mr]C[];B[mq];W[lr];B[nr]C[If W group outside is weak this is good way to reduce black.RIGHT])
+(;W[mq];B[jr];W[lr];B[jq]C[RIGHT]))
+(;B[mq]C[]
+(;W[mr];B[lr];W[ls];B[lq]
+(;W[jr];B[nr]C[also near the Takagawa's path but just one move killed.RIGHT])
+(;W[nr];B[jr]C[You are Freeman.I don't mark you wrong because i don't know this W group can live or not. Someone make another problem related this please *.*RIGHT]))
+(;W[lr];B[mr];W[kp])))
+(;W[mq]C[Credit to KAF and Tails.];B[kp];W[kr];B[jr];W[lr];B[jq];W[pr]C[This var. credit to KAF.];B[or];W[oq];B[nr];W[nq];B[qr];W[pq];B[qq]
+(;W[op];B[oo];W[no];B[mp];W[po];B[on];W[qs];B[rs];W[ps];B[sr];W[ks];B[pm]C[If W (R6 and J3) outside groups is strong and done so this variation that W chose to invade not to reduce in common way is good for W but if the outside group is still weak it's terrible for W.RIGHT])
+(;W[ns]C[assume W's outside group are so strong. now B have two choices. to make seki or cry.]
+(;B[ks];W[ls];B[mr];W[ps];B[op]C[Credit to Kaf.
+If W (R6 and J3) outside groups is strong and done so this variation that W chose to invade not to reduce in common way is good for W.RIGHT])
+(;B[ms]C[B want you to have bad shape but you will not concern.];W[ps];B[os];W[mr];B[ns];W[op];B[oo];W[po];B[no];W[ro]C[Credit to KafRIGHT]))))
+(;W[kr];B[lr];W[jr];B[kp];W[ls];B[mr];W[ms];B[ns];W[ks];B[nr])
+(;W[jq])
+(;W[kp];B[lp]
+(;W[lq];B[mq];W[lr];B[mr];W[kr])
+(;W[jp];B[kr])))

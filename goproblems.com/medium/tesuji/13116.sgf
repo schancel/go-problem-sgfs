@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[1k]DP[19]SO[Field Mouse]CO[0]AB[cb]AB[db]AB[dc]AW[bb]AW[cc]AW[cd]AW[dd]AB[fc]AB[fe]AW[gc]AW[gb]AW[hb]AB[hc]AB[ic]AB[ib]AW[hd]AW[he]AB[id]AB[jc]AB[kc]AB[lc]AW[jb]AB[kb]AW[jd]AB[kd]AW[ff]AW[df]AW[bf]AW[cg]AW[ch]AB[bg]AB[bh]AB[ci]AB[cj]AB[ej]AB[ei]AB[fi]AB[gi]AB[ih]AB[kg]AW[ke]AB[gf]TR[gf]C[Black just played the marked hane. How to solve this trouble with honour?]AP[goproblems]
+(;W[fd];B[ed]
+(;W[ee];B[gd];W[ge];B[fd]
+(;W[fb];B[ec]
+(;W[hf];B[ba]
+(;W[bc];B[ea]
+(;W[eb];B[ha])
+(;W[fa];B[ha]))
+(;W[eb];B[bc];W[ab];B[ac]
+(;W[da];B[aa]
+(;W[bb];B[ab];W[ea];B[ca]
+(;W[bd]C[Very nice! Respect to your strenght.RIGHT])
+(;W[ad]C[Some people surely would not be able to sleep soundly if I omitted this solution.. :-)RIGHT]))
+(;W[ea];B[bb];W[bd];B[ha];W[ga];B[ia];W[ad];B[gg]))
+(;W[ea];B[aa]
+(;W[bb];B[ab];W[da])
+(;W[da])))
+(;W[ab];B[bc]
+(;W[bd];B[ea];W[eb];B[ha])
+(;W[eb]))
+(;W[ac];B[ea];W[eb];B[ha];W[da];B[ca];W[aa];B[ab]C[Ko is not bad, but is black wins it white goes to hell.])
+(;W[ea];B[bc];W[ab];B[ac];W[da];B[aa];W[bb];B[ab];W[ca]C[Good!RIGHT])
+(;W[da];B[bc];W[ab];B[ea]
+(;W[eb];B[ca];W[bd];B[ha])
+(;W[bd];B[eb];W[ac];B[ha])))
+(;W[ie];B[je];W[hf];B[gg]TR[ie]TR[je]C[The marked exchange was bad for white as it costed him one liberty.])
+(;W[if];B[hf];W[ie];B[ig];W[le];B[je];W[jf];B[kf]C[This ko is not very good for white - black has a lot of threats in the upper left corner.]))
+(;W[ec];B[fb])
+(;W[hf];B[fb])
+(;W[eb];B[fb];W[fa];B[ec]))
+(;W[gd];B[ef]C[Ouch!])
+(;W[ge];B[ee]))
+(;W[ge];B[fd];W[gd];B[ef];W[fg];B[eg]C[This hurts :(])
+(;W[ed];B[fd])
+(;W[fb];B[ed]C[White collapses.])
+(;W[ee];B[fd];W[ge];B[gd];W[fb];B[ec];W[eb];B[hf];W[ie];B[je];W[if];B[jf];W[ig];B[hg]))

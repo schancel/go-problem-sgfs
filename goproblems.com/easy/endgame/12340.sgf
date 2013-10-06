@@ -1,0 +1,51 @@
+(;GE[endgame]DI[4k]DP[29]SO[Falcom]CO[0]SZ[19]C[White played the marked Stone.Can you rescue your stone or do you have to sacrifice?]AB[am]AB[bn]AB[cn]AB[co]AB[do]AB[eo]AB[en]AB[dm]AB[dl]AB[dk]AB[ck]AB[cj]AB[bi]AB[bh]AB[bg]AB[ae]AB[af]AB[bf]AB[cf]AB[ce]AW[ad]AW[bd]AW[be]AW[cd]AW[de]AW[df]AW[cg]AW[ch]AW[ci]AW[di]AW[dj]AW[ek]AW[el]AW[em]AW[fn]AW[fo]AW[ep]AW[dp]AW[cp]AW[bo]AW[ao]AW[an]AW[bm]TR[bm]GM[1]FF[4]AP[glGo:1.4]ST[1]KM[6.5]PW[Jockel]WR[8k]PB[whetStone]BR[8k]TM[600]DT[2009-01-25]PC[The KGS Go Server at http://www.gokgs.com/]
+(;B[al]C[];W[bl]C[Ok, you try to resist. Now show white what you can do.]
+(;B[ak];W[bk]
+(;B[aj];W[bj]C[Uih Oh,You can connect, but ...]
+(;B[ai]C[];W[ah]C[Yeah white killed the whole group! Don't forget to count you liberties!!!!])
+(;B[cm];W[ai]C[Yeah white killed the whole group!]))
+(;B[bj];W[aj]C[CHOICE]
+(;B[cm];W[am];B[ai]C[Another posibility to rescue the group after a mistake. But its not good enough.])
+(;B[ai];W[cm]
+(;B[ak];W[dn])
+(;B[dn];W[am]))))
+(;B[bk];W[ak];B[aj];W[cm]C[CHOICE]
+(;B[dn];W[al];B[ah]C[Your group survived, but you lost a lot of points (and in gote)])
+(;B[al];W[dn])))
+(;B[bl];W[al]
+(;B[ak]
+(;W[am]C[Play T if you want to Tenuki (Tenuki is worth 10 Points)]LB[fd:T]
+(;B[cm];W[bp]C[Thats Right!Sente and more Points when White do not answereCHOICERIGHT])
+(;B[fd];W[cm]
+(;B[dn];W[cl]
+(;B[bj];W[bk])
+(;B[aj];W[bk];B[bj];W[ah])
+(;B[bk];W[bp]))
+(;B[cl];W[dn]C[Don't miss the Atari];B[bj])
+(;B[bj];W[dn]C[Don't miss the Atari];B[cl])))
+(;W[cm]
+(;B[dn]C[];W[am]C[CHOICERIGHT];B[cl];W[bp]C[Thats note wise, you have to protect on B10 now. Play Tenuki instead of C8!])
+(;B[am];W[dn]C[Sometimes atari isn't that easy to seeCHOICE]
+(;B[al];W[cl]LB[fd:T]C[play T for Tenuki]
+(;B[bj]C[important move, otherwise white will kill the group with B10])
+(;B[fd];W[bj]
+(;B[aj];W[bk]C[Dead];B[ai]C[Now you lost everything])
+(;B[bk];W[aj]C[Dead])))
+(;B[cl];W[al]LB[fd:T]C[Play T for Tenuki]
+(;B[bj]C[important move, otherwise white will kill the group with B10])
+(;B[fd];W[bj]
+(;B[aj];W[bk]C[Dead];B[ai])
+(;B[am]C[At least a Ko for your group. And White have nothing to lose])
+(;B[bk];W[aj]))))
+(;B[cl];W[dn]C[Sometimes atari isn't that easy to see.Play T for TenukiCHOICE]LB[fd:T]
+(;B[bj])
+(;B[fd];W[bj]
+(;B[am]C[At least a Ko for your group])
+(;B[aj];W[bk]C[Dead];B[ai])
+(;B[bk];W[aj])))))
+(;B[cm];W[ak]C[This way yoo let White the choose to connect or play a ko for more points.]))
+(;B[cm];W[bl]C[CHOICE];B[bk]
+(;W[al]C[CHOICERIGHT];B[ak];W[am]C[RIGHT])
+(;W[ak]C[CHOICE];B[aj]C[White can tenuki now. A8 would be a big mistake because of the cut B4.
+
+Thanks for the Correction GanoRIGHT])))

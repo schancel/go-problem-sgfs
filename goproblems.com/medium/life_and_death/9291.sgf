@@ -1,0 +1,84 @@
+(;GE[life and death]DI[2k]DP[22]SO[Andre Engels]CO[6]AB[rc]AB[qc]AB[pc]AB[ob]AW[rd]AW[qd]AW[pd]AW[oc]AW[nb]AW[nc]AW[ne]AW[rf]AW[mc]AB[od]AP[goproblems]
+(;B[oa];W[qa]
+(;B[ra];W[rb]
+(;B[sb];W[sa]C[Yes, a ko is the best you can do. Note that there are more answers possible for white, see problem 6463.RIGHT])
+(;B[qb];W[sa]
+(;B[pa];W[sc];B[ra]C[Ko, white to find the first ko threat.RIGHT])
+(;B[sc];W[sd]
+(;B[pa];W[na];B[ra]C[Ko, white has to find the first threat.RIGHT])
+(;B[pb]C[Dead as it stands.]))))
+(;B[qb];W[ra]
+(;B[rb];W[na]
+(;B[pb];W[sc])
+(;B[sc];W[pb]))
+(;B[pa];W[na];B[pb]C[White does not even need to answer that.])
+(;B[sb];W[na];B[pb]C[Dead as it stands.])
+(;B[sc];W[na];B[pb];W[rb]
+(;B[sa];W[sd]C[White's move is not even necessary.])
+(;B[sb]C[dead in gote]))
+(;B[pb];W[sc]))
+(;B[pb];W[sc];B[sb];W[ra])
+(;B[sc];W[ra]
+(;B[pb];W[rb]C[No Sir, black is dead.])
+(;B[qb];W[na];B[pb];W[rb])
+(;B[rb];W[pb]
+(;B[sa];W[na])
+(;B[qb];W[na]))))
+(;B[pa];W[sc]
+(;B[ra];W[sb])
+(;B[sb];W[ra]
+(;B[qa];W[na]
+(;B[rb];W[pb])
+(;B[oa];W[qb];B[pb];W[rb])
+(;B[pb];W[rb])
+(;B[qb];W[oa]))
+(;B[rb];W[na]
+(;B[qa];W[pb]
+(;B[qb];W[oa])
+(;B[sa];W[oa]))
+(;B[oa];W[qa]))
+(;B[qb];W[na]))
+(;B[rb];W[sb])
+(;B[qb];W[sb]))
+(;B[pb];W[oa]
+(;B[rb];W[qa];B[pa];W[sc];B[sb];W[ra])
+(;B[qa];W[rb])
+(;B[pa];W[sc];B[sb];W[ra])
+(;B[sc];W[pa];B[qa];W[rb];B[na];W[oa])
+(;B[ra];W[sb];B[sc];W[pa];B[qa];W[rb];B[na];W[oa])
+(;B[sb];W[ra]C[The vital point (bulky 5)]))
+(;B[qa];W[oa]
+(;B[pb];W[rb])
+(;B[rb];W[pb])
+(;B[sc];W[pb])
+(;B[sb];W[pb]))
+(;B[qb];W[ra]
+(;B[pa];W[na]
+(;B[oa];W[qa])
+(;B[qa];W[oa])
+(;B[sc];W[oa])
+(;B[rb];W[oa]))
+(;B[qa];W[oa])
+(;B[oa];W[qa]
+(;B[pb];W[sc])
+(;B[sc];W[pb];B[pa];W[na];B[pb];W[rb])))
+(;B[ra];W[sb]
+(;B[rb];W[sc])
+(;B[sc];W[pb])
+(;B[pa];W[sc]
+(;B[rb];W[qb])
+(;B[qb];W[rb]))
+(;B[oa];W[sc])
+(;B[pb];W[sc]))
+(;B[sc];W[pb];B[qb];W[oa])
+(;B[sb];W[ra]
+(;B[qb];W[oa])
+(;B[pb];W[qa])
+(;B[pa];W[qb]
+(;B[qa];W[rb]C[This is not a seki - black's stones at the top will get into atari.])
+(;B[rb];W[qa]))
+(;B[qa];W[oa])
+(;B[oa];W[pb]
+(;B[qb];W[qa];B[pa];W[na])
+(;B[qa];W[na])
+(;B[pa];W[qa];B[qb];W[na]))))

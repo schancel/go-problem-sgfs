@@ -1,0 +1,6 @@
+(;GE[elementary]DI[8k]DP[48]SO[thavdog]CO[0]AB[ra]AB[rb]AB[rc]AB[qb]AB[pc]AB[pd]AB[od]AB[nc]AB[ne]AB[of]AW[qf]AW[qh]AW[nd]AW[md]AW[mc]AW[mb]AW[qa]AW[pa]AW[pb]AW[rd]AW[qd]AW[qc]TR[pb]TR[pa]TR[qa]C[How can white save the three marked stones?]AP[goproblems]
+(;W[na];B[ob];W[oa]C[RIGHT])
+(;W[nb];B[ob];W[oa];B[na])
+(;W[oa];B[na];W[ob];B[nb])
+(;W[ob];B[nb];W[na];B[oc])
+(;W[oc];B[ob]))

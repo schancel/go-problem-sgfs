@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[41]SO[klapaucius]CO[0]AB[dr]AB[dq]AB[do]AB[dp]AW[cr]AW[cs]AW[bq]AW[cp]AW[co]AB[cn]AB[bn]AB[cq]AP[goproblems]
+(;W[ar];B[ap]
+(;W[bs]C[RIGHT])
+(;W[ao];B[bo]
+(;W[bs]C[RIGHT])
+(;W[bp];B[bs])))
+(;W[ap];B[ao]
+(;W[ar];B[bp];W[bs];B[aq])
+(;W[bp];B[ar]))
+(;W[bo];B[ao]
+(;W[ar];B[bs];W[ap];B[bp])
+(;W[bp];B[ar])
+(;W[ap];B[bp];W[ar];B[bs]))
+(;W[bp];B[ar]))

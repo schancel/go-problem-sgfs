@@ -1,0 +1,12 @@
+(;GE[life and death]DI[2d]DP[12]SO[rosenzweig]CO[0]SZ[9]AB[ad]AB[bd]AB[ce]AB[de]AB[ee]AB[fe]AB[gd]AB[gc]AB[gb]AB[ga]AB[bf]AW[ac]AW[bb]AW[cb]AW[ea]AW[fa]AW[cd]AW[ed]AW[dd]AW[fd]AP[goproblems]
+(;B[bc];W[fb]
+(;B[db];W[fc];B[cc];W[dc];B[eb];W[da];B[ba];W[ab];B[ca];W[aa];B[ca];W[ec];B[db]C[RIGHT])
+(;B[cc];W[db]
+(;B[dc];W[ab];B[fc];W[eb])
+(;B[fc];W[ab])))
+(;B[cc];W[bc];B[dc];W[ec];B[eb];W[db];B[fb];W[da])
+(;B[dc];W[ec];B[db];W[eb];B[da];W[ca];B[bc];W[cc];B[ab];W[db])
+(;B[db];W[eb];B[ec];W[fc];B[fb];W[dc];B[da];W[ca])
+(;B[eb];W[db];B[da];W[ca];B[fb];W[bc];B[fc];W[ec])
+(;B[ec];W[fc];B[fb];W[eb];B[db];W[dc];B[bc];W[ab];B[cc];W[da])
+(;B[fc];W[ec];B[eb];W[db];B[fb];W[da];B[bc];W[cc];B[ab];W[ba]))

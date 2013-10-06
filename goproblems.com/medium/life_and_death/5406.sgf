@@ -1,0 +1,142 @@
+(;GE[life and death]DI[3d]DP[9]SO[santa c]CO[7]AW[bl]AW[cl]AW[dl]AW[ck]AW[ci]AW[di]AW[ei]AW[ej]AW[fi]AW[fh]AW[gh]AW[gg]AW[hg]AB[ig]AB[if]AB[hf]AB[ff]AB[gf]AB[fg]AB[dg]AB[df]AB[cf]AB[bf]AB[be]AB[de]AB[eh]AW[dh]AW[cg]AW[bg]AB[hh]AB[hi]AB[gi]AB[fk]AB[ek]AB[dk]AB[dj]AB[el]AB[bm]AB[cn]AB[dn]AB[dm]AB[fm]AB[hm]AB[hn]AB[il]AB[ik]C[Black moves and..?]AP[goproblems]
+(;B[cj];W[bj]
+(;B[bh]
+(;W[ag]
+(;B[bi]
+(;W[ch]
+(;B[al];W[ak]
+(;B[am];W[ai]
+(;B[cm];W[ah];B[bk]C[Well done! :)RIGHT])
+(;B[fj];W[ah]C[:(])
+(;B[eg];W[ah]C[:(])
+(;B[af];W[ah]C[:(]))
+(;B[ai];W[am]C[:(])
+(;B[cm];W[am]C[:(])
+(;B[fj];W[ai]C[:(])
+(;B[af];W[ai]C[:(])
+(;B[eg];W[ai]C[:(]))
+(;B[ai];W[ak]C[:(])
+(;B[fj];W[ai]C[:(])
+(;B[eg];W[ai]C[:(])
+(;B[af];W[ai]C[:(])
+(;B[ak];W[al]
+(;B[aj];W[ai]C[:(])
+(;B[ai];W[ah]C[:(])
+(;B[fj];W[ai]C[:(])
+(;B[eg];W[ai]C[:(])
+(;B[af];W[ai]C[:(]))
+(;B[aj];W[bk]
+(;B[ai];W[ah]C[:(])
+(;B[al];W[ai]C[:(])
+(;B[ak];W[al]C[:(])
+(;B[cm];W[ai]C[:(]))
+(;B[am];W[al];B[aj]
+(;W[ak];B[bk]MA[bj]C[:(])
+(;W[bk];B[ai];W[ah];B[cm];W[ak];B[bi])))
+(;W[ai];B[al];W[ak];B[am];W[ah];B[cm]C[RIGHT])
+(;W[ah];B[al];W[ak];B[am];W[ai];B[cm]C[RIGHT])
+(;W[ak];B[ch]C[RIGHT])
+(;W[aj];B[al]C[RIGHT])
+(;W[al];B[ch]C[RIGHT]))
+(;B[al];W[ak]
+(;B[bi]
+(;W[ch]
+(;B[am];W[ai];B[cm];W[ah];B[bk]C[Well done! :)RIGHT])
+(;B[ai];W[am]C[:(]))
+(;W[ai];B[am];W[ah];B[cm]C[RIGHT])
+(;W[ah];B[am];W[ai];B[cm]C[RIGHT]))
+(;B[am];W[bi]C[:(]))
+(;B[ak];W[al]
+(;B[aj];W[ai]C[:(])
+(;B[bi];W[ai]C[:(]))
+(;B[am];W[al]C[:(])
+(;B[aj];W[ak]C[:(]))
+(;W[ah];B[ai];W[ag];B[bi]
+(;W[aj];B[al]C[RIGHT])
+(;W[ch];B[al]C[RIGHT])
+(;W[al];B[af]C[RIGHT])
+(;W[ak];B[af]C[RIGHT]))
+(;W[bi];B[ag]
+(;W[ch];B[ah];W[ai];B[ak]TR[al]TR[af]C[RIGHT])
+(;W[ai];B[ak]TR[al]TR[ch]C[RIGHT])
+(;W[ak];B[ai]C[RIGHT]))
+(;W[ai];B[ak]TR[al]TR[ag]C[RIGHT])
+(;W[ak];B[ag];W[ai];B[bi];W[ch];B[fj]C[RIGHT]))
+(;B[al];W[bh]C[:(])
+(;B[ag];W[bh]C[:(])
+(;B[ah];W[bh]C[:(])
+(;B[ai];W[bh]C[:(])
+(;B[aj];W[bh]C[:(])
+(;B[ak];W[bh]C[:(])
+(;B[am];W[bh]C[:(]))
+(;B[bj];W[cj]
+(;B[bi]C[Only a ko... (Or gote seki for white if white wants - See black B12 instead of B11 for the sequence)]LB[bh:1]LB[ah:2]LB[ag:3]LB[aj:4]LB[ak:5]LB[af:6]LB[ai:7])
+(;B[bh];W[ag];B[bi];W[ch]C[Alive... (The following sequence leads to seki...)]LB[al:1]LB[ak:2]LB[ai:3]LB[am:4]))
+(;B[bh];W[ag]
+(;B[cj];W[bj]
+(;B[bi];W[ch]
+(;B[al];W[ak]
+(;B[am];W[ai];B[cm]C[Well done! ;)RIGHT])
+(;B[ai];W[am]C[:(])
+(;B[fj];W[ai]C[:(])
+(;B[eg];W[ai]C[:(])
+(;B[af];W[ai]C[:(]))
+(;B[ak];W[al]
+(;B[aj];W[ai]C[:(])
+(;B[am];W[aj]C[:(])
+(;B[ai];W[ah]C[:(]))
+(;B[aj];W[bk]
+(;B[ai];W[ah]C[:(])
+(;B[ak];W[ai]C[:(])
+(;B[al];W[ai]C[:(])
+(;B[cm];W[ai]C[:(]))
+(;B[ai];W[ak]C[:(])
+(;B[am];W[al];B[aj]
+(;W[ak];B[bk]MA[bj]C[:(])
+(;W[bk];B[ai];W[ah];B[cm];W[ak];B[bi])))
+(;B[al];W[ak]
+(;B[bi];W[ai];B[am];W[ah];B[cm];W[ch];B[bk]C[Well done! ;)RIGHT])
+(;B[am];W[bi]C[:(]))
+(;B[ak];W[al]C[:(])
+(;B[aj];W[ak]C[:(])
+(;B[ai];W[ak]C[:(]))
+(;B[bi]
+(;W[bj]C[]
+(;B[cj]
+(;W[ai]
+(;B[al];W[ak]
+(;B[am];W[ch];B[cm];W[ah];B[bk]C[Well done! ;)RIGHT])
+(;B[fj];W[ch]C[:(])
+(;B[af];W[ch]C[:(]))
+(;B[ak];W[al]C[:(])
+(;B[fj];W[ch]C[:(])
+(;B[af];W[ch]C[:(]))
+(;W[ak];B[ch]C[RIGHT]))
+(;B[al];W[ak]C[:(]TR[cj]TR[am])
+(;B[ai];W[cj]C[:(])
+(;B[aj];W[ak]C[:(])
+(;B[ak];W[al]C[:(])
+(;B[fj];W[cj]C[:(])
+(;B[af];W[ch]C[:(]))
+(;W[cj];B[ch]C[RIGHT]))
+(;B[bj];W[cj];B[bi];W[ch]C[Alive! (The following sequence leads to seki)]LB[al:1]LB[ak:2]LB[ai:3]LB[am:4])
+(;B[al];W[ak]
+(;B[cj];W[bj]
+(;B[bi];W[ai];B[am];W[ah];B[cm];W[ch];B[bk]C[Well done! ;)RIGHT])
+(;B[am];W[bi]C[:(]))
+(;B[bj];W[cj]C[Alive! (The following sequence leads to seki)]LB[bi:1]LB[ch:2]LB[ai:3]LB[am:4])
+(;B[bi];W[bj]
+(;B[cj];W[ai];B[am];W[ah];B[cm];W[ch];B[bk]C[Well done! ;)RIGHT])
+(;B[ai];W[cj]C[:(])
+(;B[am];W[cj]C[:(])))
+(;B[ak];W[al]C[:(])
+(;B[aj];W[bj]C[:(])
+(;B[ai];W[bj]C[:(]))
+(;B[bi];W[bj]C[:(])
+(;B[al];W[ak]C[:(])
+(;B[ak];W[bj]C[:(])
+(;B[aj];W[bj]C[:(])
+(;B[ai];W[bj]C[:(])
+(;B[am];W[bj]C[:(])
+(;B[ah];W[bh]C[Only a ko...]LB[bj:1]LB[cj:2]LB[bi:3]LB[ag:4]LB[aj:5]LB[ak:6]LB[af:7]LB[ai:8])
+(;B[ag];W[bh]))

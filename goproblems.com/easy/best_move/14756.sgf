@@ -1,0 +1,10 @@
+(;GE[best move]DI[4k]DP[29]SO[Field Mouse]CO[0]AW[qr]AW[qq]AW[qp]AW[qo]AW[ro]AB[rn]AB[qm]AB[qj]AB[pn]AB[po]AB[pp]AB[oq]AB[or]AB[pr]AW[pq]AW[mq]AW[lq]AW[kr]AW[ir]AW[jr]AB[kq]AB[kp]AB[lp]AB[mp]AW[rh]AW[qh]AW[qi]AW[pi]AW[oh]AW[ni]AW[nk]AB[ml]AB[mk]AW[mj]AW[mi]AW[nh]AW[ph]AB[kl]AB[kn]AB[qk]AW[qn]AB[rm]AW[rq]AB[ss]AW[rj]AB[rk]AW[si]AW[pj]AW[oi]AW[mh]AW[sh]AW[ri]AW[lh]AW[li]AW[lj]C[White to play the best way possible.]AP[goproblems]
+(;W[pm];B[pl]
+(;W[om];B[ol]
+(;W[op];B[oo]
+(;W[np]C[Very good! Black is destroyed.RIGHT])
+(;W[nm];B[nl]))
+(;W[nm];B[nl];W[op];B[oo];W[np]C[Black is in big trouble!RIGHT]))
+(;W[op];B[om]C[Black is okay with this.]))
+(;W[om];B[pm]C[Black is happy to connect here.])
+(;W[ol];B[om]C[Black is happy with this result.]))

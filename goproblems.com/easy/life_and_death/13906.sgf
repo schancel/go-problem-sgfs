@@ -1,0 +1,67 @@
+(;GE[life and death]DI[5k]DP[35]SO[akeran]CO[0]AW[rr]AW[qr]AW[qq]AW[qp]AW[rp]AW[sp]AW[qo]AW[qn]AW[pn]AW[om]AW[nm]AW[rm]AW[pk]AW[ok]AW[ml]AW[mk]AW[mj]AW[ni]AW[oi]AW[oh]AW[qi]AW[qh]AW[rh]AB[ri]AB[rj]AB[qk]AB[rl]AB[ql]AB[pl]AB[ol]AB[pm]AB[qm]AB[rn]AB[ro]LB[sp:1]AB[on]AB[po]AB[pp]AB[pq]AB[pr]AB[no]AB[mo]AB[ln]AW[re]AW[qe]AB[pg]AB[og]AB[rd]AB[qd]AB[pd]AB[oc]AB[nh]AB[mh]AB[mi]AB[mg]C[Explain why White 1 is sente by killing Black]AP[goproblems]
+(;W[sk];B[sm]
+(;W[so]
+(;B[sn]
+(;W[sl]C[Well done only one eyeRIGHT])
+(;W[si];B[sj]))
+(;B[sj]
+(;W[sn]C[Well done, killing the second eye.RIGHT])
+(;W[sl];B[rk];W[sn]C[RIGHT])))
+(;W[sn];B[so];W[sl];B[sj])
+(;W[si];B[sj]
+(;W[so];B[sn];W[sl];B[rk])
+(;W[sn];B[so])
+(;W[qj];B[rk]
+(;W[so];B[sn])
+(;W[sn];B[so])
+(;W[nl];B[so])
+(;W[sh];B[so])))
+(;W[sl];B[so])
+(;W[rk];B[qj];W[so];B[sn])
+(;W[sh];B[so])
+(;W[sj];B[si]
+(;W[so];B[sn])
+(;W[sn];B[so]))
+(;W[qj];B[so]))
+(;W[si];B[sk]
+(;W[sm];B[sl];W[so];B[sn])
+(;W[sn];B[sm];W[so];B[rm]))
+(;W[so];B[sk]
+(;W[si];B[sm])
+(;W[sn];B[si];W[sl];B[qj]))
+(;W[sm];B[sl]
+(;W[sk];B[qj])
+(;W[sn];B[so])
+(;W[so];B[sn])
+(;W[si];B[sn]
+(;W[sj];B[sk];W[sh];B[qj])
+(;W[qj];B[sj])
+(;W[sk];B[sj]))
+(;W[qj];B[sn]
+(;W[sj];B[si]
+(;W[rk];B[sk])
+(;W[sk];B[rk])
+(;W[sh];B[sk]))
+(;W[si])))
+(;W[sj];B[sk];W[si];B[sh];W[si];B[sm])
+(;W[sl];B[sk]
+(;W[sn];B[sm])
+(;W[qj];B[sm]))
+(;W[qj];B[sk]
+(;W[si];B[sm])
+(;W[sn];B[sm];W[so]C[Black has already two eyes])
+(;W[so];B[sm];W[sn]))
+(;W[rk];B[sk])
+(;W[sn];B[sm]
+(;W[so];B[sk]
+(;W[si])
+(;W[nl];B[qj];W[rm];B[rn];W[si];B[rm])
+(;W[rm];B[rn]
+(;W[si];B[qj]
+(;W[ro];B[rm])
+(;W[pj]TR[rk]TR[sl]C[two eyes!]))
+(;W[qj]TR[rk]TR[sl]C[Black has already two eyes]))
+(;W[qj]))
+(;W[sk])
+(;W[si];B[so]))
+(;W[nn];B[sk]MA[rk]MA[sl]))

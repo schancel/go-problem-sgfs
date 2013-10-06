@@ -1,0 +1,19 @@
+(;GE[endgame]DI[3d]DP[11]SO[thanush]CO[0]AW[qd]AW[pd]AW[ob]AW[nd]AW[nc]AW[oe]AW[of]AW[pf]AB[qe]AB[pe]AB[pg]AB[qf]AB[qh]AB[nb]AB[mb]AB[kc]AB[ke]C[Best way to reduce w's territory]AP[goproblems]
+(;B[pb]
+(;W[oa]
+(;B[pc];W[oc];B[rd];W[qc];B[rc];W[qb]C[RIGHT])
+(;B[rd];W[rc];B[pc]
+(;W[od];B[oc]C[RIGHT])
+(;W[oc];B[qc]C[RIGHT])))
+(;W[pc];B[oa];W[qb];B[oc]C[RIGHT]))
+(;B[rd];W[rc]
+(;B[re];W[qb])
+(;B[pb]C[];W[oa]))
+(;B[oa];W[pb];B[rd];W[rc];B[re])
+(;B[rb];W[rc]
+(;B[pb];W[oa])
+(;B[oa];W[pb];B[pa];W[qa];B[na];W[qb]))
+(;B[qb];W[pb];B[rd];W[rc];B[re];W[sc])
+(;B[rc];W[rd]
+(;B[pb];W[oa])
+(;B[oa];W[pb];B[pa];W[qa];B[na];W[qb])))

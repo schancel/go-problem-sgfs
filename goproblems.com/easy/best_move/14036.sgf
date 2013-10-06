@@ -1,0 +1,4 @@
+(;GE[best move]DI[7k]DP[40]SO[Piccolo]CO[0]AB[ql]AB[qj]AB[qi]AB[qh]AB[ph]AB[pm]AB[pn]AB[on]AB[nn]AB[ol]AB[ok]AW[mn]AW[mo]AW[no]AW[oo]AB[po]AB[pp]AB[qq]AB[rp]AW[nq]AW[oq]AW[pq]AB[mp]AW[nm]AW[om]AW[pl]AW[pk]AW[pj]AW[pi]AW[oh]AW[mf]AW[of]AW[qf]AB[pd]AB[nd]AB[ld]C[Can you cut and capture the marked stones ? If yes, play A. If not, play B.FORCE]LB[nj:B]LB[qk:A]TR[ph]TR[qh]TR[qi]TR[qj]AP[goproblems]
+(;W[nj];B[qk]C[Correct. Otherwise q9 dies first.RIGHT])
+(;W[qk];B[rk]C[]
+(;W[rl]C[];B[oi];W[qm];B[oj];W[ql];B[rj]C[R8 group is dead now, so black isn't cut])))

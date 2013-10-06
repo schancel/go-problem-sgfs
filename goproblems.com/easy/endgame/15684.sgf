@@ -1,0 +1,11 @@
+(;GE[endgame]DI[8k]DP[45]SO[thanush]CO[0]AW[rc]AW[rd]AW[rb]AW[sd]AW[pc]AW[oc]AW[ob]AB[qc]AW[qd]AB[od]AB[pd]AB[nd]AB[nc]AB[nb]AB[mb]AB[qe]AB[re]AB[se]AW[na]C[Play the best endgame]AP[goproblems]
+(;B[ma];W[oa])
+(;B[pa]C[CHOICE]
+(;W[qa]C[CHOICE];B[ma];W[pb];B[oa];W[na];B[oa]C[RIGHT])
+(;W[oa]C[CHOICE]
+(;B[qb];W[ra];B[ma]C[RIGHT])
+(;B[ma];W[qb])))
+(;B[qb];W[qa]
+(;B[ma];W[oa])
+(;B[oa];W[pa];B[ma];W[oa]))
+(;B[pb];W[qb];B[pa];W[qa]))

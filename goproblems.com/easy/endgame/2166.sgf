@@ -1,0 +1,73 @@
+(;GE[endgame]DI[5k]DP[34]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ac][bc][cc][dc][ad][dd][ed][fd][de][df][ff]AB[ab][bb][cb][db][ec][fc][bd][cd][ae][ce][bf][cf]C[No komi, no prisoners - White to play and draw!]PL[W]
+(;W[fb]CR[fb]
+(;B[eb]CR[eb]
+;W[gc]CR[gc]
+(;B[gb]CR[gb]
+;W[ga]CR[ga]
+;B[ea]CR[ea]
+(;W[gb]CR[gb]
+;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]C[Jigo! RIGHT])
+(;W[gd]CR[gd]
+;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]C[Jigo! RIGHT])
+(;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]
+;B[fa]CR[fa]
+;W[gd]CR[gd]
+;B[gb]CR[gb]C[Black wins by two points!]))
+(;B[ea]CR[ea]
+(;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]
+;B[gb]CR[gb]
+;W[ga]CR[ga]
+;B[fa]CR[fa]C[Uh-oh.... Wc1 was careless!]
+;W[gd]CR[gd]
+;B[gb]CR[gb]C[Black wins by two points!])
+(;W[gb]CR[gb]
+(;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]
+;W[fa]CR[fa]C[White wins by one point! Be7 was a mistake...!])
+(;B[fa]CR[fa]
+;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]C[White wins by one point! Be7 was a mistake....!]))))
+(;B[gc]CR[gc]
+;W[eb]CR[eb]C[Black can't play this way!])
+(;B[gb]CR[gb]
+;W[eb]CR[eb]C[Black can't play this way!]))
+(;W[gc]CR[gc]
+(;B[fb]CR[fb]
+;W[gb]CR[gb]
+(;B[fa]CR[fa]
+;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]C[White enjoyed himself with a string of sente moves, but in the end he has a lost game - Black wins by one point!])
+(;B[dg]CR[dg]
+;W[eg]CR[eg]
+;B[cg]CR[cg]
+;W[fa]CR[fa]
+;B[eb]CR[eb]
+;W[ea]CR[ea]C[Black can't tenuki at the top!]))
+(;B[gb]CR[gb]
+;W[fb]CR[fb]
+;B[gd]CR[gd]
+;W[eb]CR[eb]C[Black can't play this way!]))
+(;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]
+;B[gd]CR[gd]
+;W[ge]CR[ge]
+;B[gc]CR[gc]C[Black wins by six (!) points - Wc1 was very small.....])
+(;W[gd]CR[gd]
+;B[gc]CR[gc]
+;W[cg]CR[cg]
+;B[bg]CR[bg]
+;W[dg]CR[dg]C[Black wins by five (!) points... Wg4 was too harmless.]))

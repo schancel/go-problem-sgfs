@@ -1,0 +1,35 @@
+(;GE[life and death]DI[2k]DP[23]SO[briv]CO[8]AB[ab]AB[bc]AB[bd]AB[cd]AB[dd]AB[ee]AB[fe]AB[ed]AB[gd]AB[hd]AB[gf]AB[hf]AB[gb]AB[hb]AB[db]AW[ba]AW[bb]AW[cc]AW[dc]AW[ec]AW[fc]AW[fb]AW[fd]AW[gc]AW[ge]AW[ff]AW[ef]AW[gg]AB[kf]AB[je]AB[jd]AB[jc]AW[kd]AW[ke]AW[lc]AW[mc]AW[nc]AW[ne]AW[mf]AW[lf]AB[lg]AB[mg]AB[nb]AB[mb]AB[oc]AB[of]AB[pf]AB[qe]AB[pd]AW[pg]AW[qh]AW[rf]AW[qf]AW[cb]AB[ea]AW[oe]AW[og]AB[pe]AB[rd]AW[fh]AW[me]AB[nf]AW[ng]AB[pb]MA[lc]MA[kd]MA[ke]MA[lf]MA[mf]MA[me]MA[ne]MA[oe]MA[nc]MA[mc]AW[da]C[White must save his two groups. Ko threats are on the board]AW[dh]AB[cf]AB[bh]AB[hg]AW[hh]TR[ba]TR[bb]TR[cb]TR[cc]TR[dc]TR[ec]TR[fc]TR[fb]TR[gc]TR[fd]AB[mi]AW[ii]AB[kg]AP[goproblems]
+(;W[od];B[ca];W[hc];B[ib];W[da];B[ld];W[md];B[ca]
+(;W[he];B[ie];W[da];B[kc];W[le];B[ca]C[No more ko threats. White is dead];W[fa];B[da];W[eb];B[da])
+(;W[id];B[he];W[da];B[kc];W[le];B[ca]C[No more ko threats. White is dead];W[fa];B[da];W[eb];B[da]))
+(;W[ld];B[ca];W[hc];B[ib];W[da];B[od];W[nd];B[ca]
+(;W[he]C[];B[da];W[id]
+(;B[ie]C[CHOICE]
+(;W[fa];B[hd]C[White is dead]
+(;W[gd];B[ic];W[eb];B[da])
+(;W[ic];B[gd];W[jb];B[kb]))
+(;W[hd];B[fa]C[White is dead];W[ga];B[ha];W[eb];B[ga];W[ic];B[jb])
+(;W[ic];B[fa]
+(;W[ga];B[ha]
+(;W[eb];B[ga];W[jb]C[Very nice !RIGHT])
+(;W[jb];B[kb]
+(;W[ja];B[ka];W[eb]C[RIGHT])
+(;W[eb];B[ja];W[ga]C[RIGHT])))
+(;W[jb];B[kb]
+(;W[ja];B[ga])
+(;W[ga];B[ha]
+(;W[eb])
+(;W[ja])))))
+(;B[fa]C[NOTTHIS];W[if]))
+(;W[id]C[];B[da];W[he];B[ie]
+(;W[ic];B[fa];W[ga];B[ha];W[eb];B[ga];W[jb]C[Very nice !RIGHT])
+(;W[hd];B[fa]C[White is dead];W[ga];B[ha];W[eb];B[ga];W[ic];B[jb])
+(;W[fa];B[hd]C[White is dead]
+(;W[gd];B[ic];W[eb];B[da])
+(;W[ic];B[gd];W[eb];B[da]))))
+(;W[eb];B[od]C[Wrong]
+(;W[nd];B[ld])
+(;W[ld];B[nd]))
+(;W[fa];B[od]C[Wrong]
+(;W[nd];B[ld])
+(;W[ld];B[nd])))

@@ -1,0 +1,18 @@
+(;GE[elementary]DI[12k]DP[55]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[nb][ob][pb][oc]AB[od]AW[nd]AB[oe]AW[pd][pe][of][nf][me]AB[nc][mc][mb][lb][kc][pc][qc][qb][rc][qd][re][sd][na]AW[ld][kd][jc][jb]AE[ja]AW[je]AE[ma]AB[la]LB[na:1]PL[W]C[black played 1 in an attempt to connect. stop him.]
+(;W[pa]CR[pa]C[RIGHT
+now a connection is impossible])
+(;W[oa]CR[oa]
+;B[pa]CR[pa])
+(;W[ne]CR[ne]
+;B[pa]CR[pa]
+(;W[oa]CR[oa]
+;B[od]CR[od])
+(;W[od]CR[od]
+;B[oa]CR[oa]))
+(;W[ra]CR[ra]
+;B[pa]CR[pa]
+;W[ne]CR[ne]
+;B[oa]CR[oa]
+;W[od]CR[od]
+;B[qa]CR[qa]))

@@ -1,0 +1,22 @@
+(;GE[life and death]DI[15k]DP[60]SO[MechanicalPoet]CO[7]
+;AW[ro][so][pp][qp][nq][oq][pr][os]
+AB[rp][sp][pq][qq][qr][rr][qs]
+C[Best play for White?]
+PL[W]
+(;W[sr];B[ss]
+    (;W[rs]C[RIGHTIt's a ko for life. White captures first, so Black must find the first threat.])
+    (;W[sq];B[rq])
+    (;W[rq];B[sq])
+    (;W[ps];B[sq])
+)
+(;W[sq]
+;B[rq]LB[sr:A][ss:B]C[Black is alive. Next, if White plays A, Black can make two eyes at B, and vice versa.])
+(;W[rq]
+;B[sq])
+(;W[rs]
+;B[ss])
+(;W[ss]
+;B[sr])
+(;W[ps]
+;B[sr])
+)

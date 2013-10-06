@@ -1,0 +1,36 @@
+(;GE[endgame]DI[3k]DP[25]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ab][bc][ec][bd][cd][dd][ed][fd][be][de][cf][df][bg]AB[ba][cb][eb][fb][cc][dc][fc][gc][ee][fe][ef][eg][fg]C[No komi, no prisoners - White to play and draw!  ]PL[W]
+(;W[gf]CR[gf]
+(;B[gd]CR[gd]
+;W[ge]CR[ge]
+(;B[bb]CR[bb]
+;W[dg]CR[dg]C[Although making a seki in the lower right is gote, it's the only way for white to draw the game. RIGHT])
+(;B[ff]CR[ff]
+;W[dg]CR[dg]
+;B[gg]CR[gg]
+;W[ge]CR[ge]
+;B[gf]CR[gf]
+;W[ge]CR[ge]C[Black can't play this way :)])
+(;B[dg]CR[dg]
+;W[bb]TR[dg]CR[bb]C[In this variation, White even wins (by one point), but only because the marked stone was a mistake.]))
+(;B[ge]CR[ge]
+;W[gd]CR[gd]C[The black stones in the lower left are dead.]))
+(;W[gd]CR[gd]
+;B[gf]CR[gf]
+;W[bb]CR[bb]
+;B[dg]CR[dg]C[Taking sente on the right  is wrong, Black wins by one point!])
+(;W[bb]CR[bb]
+;B[gd]CR[gd]
+;W[dg]CR[dg]C[This is worst: Black wins by two points!])
+(;W[dg]CR[dg]
+;B[gd]CR[gd]
+;W[bb]CR[bb]C[This is worst: Black wins by two points!])
+(;W[ge]CR[ge]
+;B[gf]CR[gf]
+(;W[gd]CR[gd]
+;B[bb]CR[bb]
+;W[dg]CR[dg]C[This is worst - Black wins by two points!])
+(;W[bb]CR[bb]
+;B[gd]CR[gd]
+;W[dg]CR[dg]C[This is worst - Black wins by two points!])))

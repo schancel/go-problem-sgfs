@@ -1,0 +1,191 @@
+(;GE[endgame]DI[5k]DP[33]SO[highflyer]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.50]
+GN[The Last Point]AW[fa][ha][ia][ja][fb][hb][fc][hc][kc][ed][gd][hd][de][ee][ge][me][ff][gf][if][jf][lf][kg][lg][mg][gh][jh][lh][ci][gi][ji][li][cj][dj][ej][gj][hj][ij][lj][ck][fk][jk][kk][bl][dl][fl][bm]AB[ea][ka][eb][ib][jb][kb][cc][ec][ic][dd][id][jd][ld][md][ce][he][ke][le][df][ef][hf][kf][bg][fg][gg][hg][ig][jg][ch][dh][eh][ih][mh][bi][ei][fi][ii][bj][fj][jj][bk][gk][hk][ik][al][cl]C[Black to win the game. Can you win the ko?]PL[B]
+(;B[fd]
+;W[fe]
+(;B[mf]
+;W[dc]
+;B[db]
+;W[me]
+(;B[ki]
+;W[kj]
+;B[mf]
+;W[bd]
+;B[cd]
+;W[me]
+;B[cm]
+;W[dm]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[kh]C[NOTTHIS])
+(;B[cm]
+;W[dm]
+;B[mf]
+;W[bd]
+;B[cd]
+;W[me]
+(;B[ki]
+;W[kj]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[kh]C[NOTTHIS]))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))
+(;B[fe]C[NOTTHIS])
+(;B[mf]
+;W[dc]
+;B[db]
+;W[me]
+(;B[fd]
+;W[fe]
+(;B[mf]
+;W[bd]
+(;B[cd]
+;W[me]
+(;B[ki]
+;W[kj]
+;B[mf]
+;W[ak]
+(;B[me]
+;W[am]
+;B[aj]
+;W[cm]
+;B[al]
+;W[jj]
+;B[ak]C[You lose by 0.5 points.])
+(;B[aj]
+;W[me]
+;B[cm]
+;W[dm]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[kh]C[NOTTHIS])
+(;B[cm]
+;W[dm]
+;B[mf]
+;W[ak]
+(;B[me]
+;W[am]
+;B[aj]
+;W[al]C[You lose by 1.5 points.])
+(;B[aj]
+;W[me]
+(;B[ki]
+;W[kj]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[kh]C[NOTTHIS])))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))
+(;B[bc]C[NOTTHIS])
+(;B[be]C[NOTTHIS])
+(;B[ad]C[NOTTHIS]))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))
+(;B[fe]C[NOTTHIS])
+(;B[ki]
+;W[kj]
+;B[mf]
+;W[bd]
+;B[cd]
+;W[me]
+(;B[fd]
+;W[fe]
+;B[mf]
+;W[ak]
+(;B[me]
+;W[am]
+;B[aj]
+;W[cm]
+;B[al]
+;W[jj]
+;B[ak]C[You lose by 0.5 points.])
+(;B[aj]
+;W[me]
+;B[cm]
+;W[dm]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[fe]C[NOTTHIS])
+(;B[cm]
+;W[dm]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.]))
+(;B[kh]C[NOTTHIS])
+(;B[cm]
+;W[dm]
+;B[mf]
+;W[bd]
+;B[cd]
+;W[me]
+(;B[fd]
+;W[fe]
+;B[mf]
+;W[ak]
+(;B[me]
+;W[am]
+;B[aj]
+;W[al]C[You lose by 1.5 points.])
+(;B[aj]
+;W[me]
+(;B[ki]
+;W[kj]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[kh]C[NOTTHIS])))
+(;B[fe]C[NOTTHIS])
+(;B[ki]
+;W[kj]C[Black can't win anymore. Even if black wins the ko, he loses by 0.5 points.])
+(;B[kh]C[NOTTHIS]))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))
+(;B[ak]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.]PL[B])
+(;B[di]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[fh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hh]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[hi]
+;W[mf]LB[jj:C][kj:B][cm:A]C[RIGHT Black wins by 0.5 Points. White has to capture at A and B as well as to connect at C. Black must not force white to capture any of these stones by ko threat.])
+(;B[dm]
+;W[mf]LB[jj:D][kj:C][cm:A][em:B]C[RIGHT Black wins by 0.5 Points. White has to capture at A, B and C as well as to connect at D. Black must not force white to capture any of these stones by ko threat.]))

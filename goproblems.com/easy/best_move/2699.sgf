@@ -1,0 +1,43 @@
+(;GE[best move]DI[4k]DP[31]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[ba][bb][ac]AB[cb][db][dd]C[Black to move - what's the best he can do?]
+(;B[bc]CR[bc]
+(;W[cc]CR[cc]
+;B[bd]CR[bd]
+(;W[ca]CR[ca]
+;B[ab]CR[ab]C[Black has an eye, White has no eye, so... Black wins! RIGHT CHOICE])
+(;W[ab]CR[ab]
+(;B[ca]CR[ca]C[White is short of liberties and can't atari with A1, so Black wins.  RIGHT CHOICE])
+(;B[cd]CR[cd]
+;W[ca]CR[ca]C[Seki, Black wins by one point (the prisoner). This is not as good as the solution!])
+(;B[dc]CR[dc]
+;W[ca]CR[ca]C[Seki, Black wins by one point (the prisoner). This is not as good as the solution!])))
+(;W[bd]CR[bd]
+;B[cc]CR[cc]
+(;W[ca]CR[ca]
+(;B[ab]CR[ab]C['One eye beats no eye' - Black wins!])
+(;B[da]CR[da]
+;W[ab]CR[ab]C[Seki & jigo!]))
+(;W[ab]CR[ab]
+;B[ca]CR[ca]C[Black wins!])))
+(;B[cc]CR[cc]
+;W[bc]CR[bc]
+(;B[ca]CR[ca]
+;W[bd]CR[bd]
+;B[cd]CR[cd]C[White wins by one point.])
+(;B[bd]CR[bd]
+;W[ca]CR[ca]
+(;B[ab]CR[ab]
+;W[aa]CR[aa]C[Seki, White wins by one point (the prisoner).])
+(;B[aa]CR[aa]
+;W[ab]CR[ab]C[Seki, White wins by one point (the prisoner).])))
+(;B[bd]CR[bd]
+;W[bc]CR[bc]
+;B[cc]CR[cc]
+;W[ca]CR[ca]
+(;B[ab]CR[ab]
+;W[aa]CR[aa]C[Seki, White wins by one point (the prisoner).])
+(;B[aa]CR[aa]
+;W[ab]CR[ab]C[Seki, White wins by one point (the prisoner).]))
+(;B[ca]CR[ca]
+;W[cc]CR[cc]C[White wins!]))

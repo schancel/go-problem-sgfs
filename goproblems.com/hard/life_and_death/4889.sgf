@@ -1,0 +1,49 @@
+(;GE[life and death]DI[4d]DP[7]SO[santa c]CO[6]AB[ba]AB[ca]AB[cb]AB[db]AB[fc]AB[gc]AB[hc]AB[hb]AB[hd]AB[ic]AB[ge]AW[bb]AW[bc]AW[cc]AW[cd]AW[dd]AW[ed]AW[fd]AW[fe]AW[gf]AW[hf]AW[ie]AW[id]AW[jc]AW[ib]AW[je]C[W wants to kill.]AW[ja]AW[kb]AW[kd]AP[goproblems]
+(;W[ea];B[fb]
+(;W[ha];B[ga]
+(;W[fa]C[]
+(;B[ia]MA[ha]C[Well done, ko! :)RIGHT])
+(;B[eb]
+(;W[gb];B[da]
+(;W[ga];B[ia]
+(;W[ga];B[jb]C[Well done, ko! :)CHOICERIGHT]MA[ib])
+(;W[ha];B[ga]C[:(])
+(;W[fa];B[ga]C[:(])
+(;W[jb];B[ha]C[:(]))
+(;W[ia];B[ga]C[:(]))
+(;W[ia];B[da]C[:(])))
+(;W[eb];B[ec]C[:(])
+(;W[ec];B[eb]C[:(]))
+(;W[ga];B[ha];W[fa]C[Only seki..])
+(;W[fa];B[ha];W[ga]C[Only seki..])
+(;W[ec];B[eb]
+(;W[ha];B[ga]C[:(])
+(;W[ga];B[ha];W[fa]C[Only seki..])
+(;W[fa];B[ga]C[:(])))
+(;W[eb];B[ec]C[:(]TR[fb]TR[ea])
+(;W[fb];B[ea]C[:(])
+(;W[fa];B[ea]C[:(])
+(;W[ga];B[ha]C[Only seki..]LB[ea:1]LB[fb:2]LB[fa:3])
+(;W[ec];B[eb]C[Only seki..]LB[ea:1]LB[fb:2]LB[ga:3]LB[ha:4]LB[fa:5])
+(;W[ha];B[ga]
+(;W[ea];B[fb]
+(;W[fa]C[]
+(;B[ia]MA[ha]C[Well done, ko! :)RIGHT])
+(;B[eb]
+(;W[gb];B[da]
+(;W[ga];B[ia]
+(;W[ga];B[jb]MA[ib]C[Well done, ko! :)CHOICERIGHT])
+(;W[ha];B[ga]C[:(])
+(;W[jb];B[ha]C[:(])
+(;W[fa];B[ga]C[:(]))
+(;W[ia];B[ga]C[:(]))
+(;W[ia];B[da]C[:(])))
+(;W[eb];B[ec]C[:(])
+(;W[ec];B[eb]C[:(]))
+(;W[fa];B[ea]C[:(])
+(;W[eb];B[ec]
+(;W[fa];B[fb]C[:(])
+(;W[fb];B[ea]C[:(])
+(;W[ea];B[fb]C[:(]))
+(;W[fb];B[ea]C[:(]))
+(;W[dc];B[ea]C[:(]))

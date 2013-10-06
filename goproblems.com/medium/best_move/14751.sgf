@@ -1,0 +1,31 @@
+(;GE[best move]DI[3k]DP[26]SO[piccolo]CO[0]AB[sb]AB[qb]AB[rc]AB[rd]AB[qe]AB[pf]AB[qf]AB[pd]AB[oe]AB[oc]AB[nc]AB[lc]AB[mc]AB[mb]AB[la]AW[lb]AW[kb]AW[kc]AW[kd]AW[ld]AW[md]AW[nd]AW[od]AW[ne]AW[of]AW[og]AW[pg]AW[qg]AW[rg]AW[rf]AW[re]AW[sd]AW[sc]AW[se]AW[sg]AW[mf]LB[od:1]C[White just played 1. Can you connect at q15 *without losing any significant part of your corner group* ?]LB[pe:Yes]LB[qd:No]AP[goproblems]
+(;B[pe];W[pc];B[qd]
+(;W[pb]
+(;B[ob]
+(;W[ra]
+(;B[qa]C[RIGHT])
+(;B[rb];W[qa];B[oa];W[pa]C[Seki ? No, N18 is dead, so everything dies :(])
+(;B[pa];W[rb];B[qc];W[sa]C[])
+(;B[qc];W[pa]
+(;B[rb];W[qa])
+(;B[oa];W[qa]))))
+(;B[rb];W[ob])
+(;B[pa];W[ob])
+(;B[qc];W[ob]))
+(;W[ka]C[And now, can you connect at n19 ?FORCE]LB[ma:Yes]LB[ob:No]
+(;B[ma];W[pb];B[ob]
+(;W[ra]
+(;B[qa]C[RIGHT])
+(;B[pa];W[rb];B[qc];W[sa])
+(;B[rb];W[qa];B[oa];W[pa])
+(;B[qc];W[pa]
+(;B[oa];W[qa])
+(;B[rb];W[qa])))
+(;W[qa]C[CHOICE]
+(;B[oa];W[nb]C[Tenuki ?]LB[lg:Yes]
+(;B[ra]C[Indeed, better to add a move ^^ White has nothing now.RIGHT])
+(;B[rb];W[ra]C[You were right to add a move, but you chose the wrong place.])
+(;B[lg];W[ra];B[rb];W[pa]C[Everything die :(]))
+(;B[ra];W[oa]C[O19 and R17 are not playable. So, this is a ko.])))
+(;B[ob]C[n19 was possible.])))
+(;B[qd]C[Actually R16 is at least as good as Q15 (difference is about 1/2 or 1 point), because of a ko at N19 at the end of 1.Q15 variation. But the question was 'is it possible to connect ?' ; and, sorry, it was possible ;-)]))

@@ -1,0 +1,14 @@
+(;GE[life and death]DI[7k]DP[41]SO[santa c]CO[7]AB[br]AB[bq]AB[cq]AB[dq]AB[er]AB[fr]AB[gr]AB[gs]AW[aq]AW[ap]AW[bp]AW[dp]AW[cp]AW[fq]AW[eq]AW[gq]AW[hr]AW[iq]AW[bs]AW[ds]C[How can Black get rid of the intruder?]AP[goproblems]
+(;B[cs];W[cr]
+(;B[dr];W[ar]
+(;B[es];W[as];B[cs]C[Well done! :)RIGHT])
+(;B[cs]C[NOTTHISRIGHT]))
+(;B[es];W[ar];B[dr];W[as];B[cs]C[Well done! :)RIGHT])
+(;B[ar];W[dr]C[:(])
+(;B[as];W[ar];B[dr];W[cs]C[:(]))
+(;B[dr];W[cs]
+(;B[ar];W[es]C[Seki! :(])
+(;B[es];W[ar]C[:(]))
+(;B[cr];W[cs]C[:(]TR[ar]TR[dr])
+(;B[es];W[cs]TR[ar]TR[dr]C[:(])
+(;B[ar];W[dr]C[:(]))

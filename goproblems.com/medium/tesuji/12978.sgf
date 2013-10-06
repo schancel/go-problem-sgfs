@@ -1,0 +1,34 @@
+(;GE[tesuji]DI[1d]DP[16]SO[adum]CO[0]AW[qc]AW[rc]AW[rd]AW[pc]AW[ob]AW[nb]AW[mb]AB[mc]AB[nc]AB[oc]AB[oe]AB[pd]AB[qd]AB[qe]AB[re]AB[rf]AW[rg]AW[qg]AW[qf]AB[rh]AB[qi]AW[qj]AW[qk]AW[rk]AW[rl]AW[pl]AW[oj]AW[nj]AW[ni]AW[nh]AB[oh]AB[oi]AW[og]AB[ng]AB[nf]AW[mg]AB[mh]AB[mi]AB[lf]AW[ne]AW[nd]AB[ld]AB[lj]AW[mk]AB[ke]AB[kc]AW[mj]AB[kj]AB[jj]AB[lk]AW[ml]AW[ji]AW[jh]AW[jg]AW[jf]AW[ii]AW[ij]AB[ik]AB[jl]AB[kl]AB[hj]AB[hi]AB[hh]AB[ih]AB[if]AB[hf]AB[je]AB[gk]LB[rh:1]C[how to respond to black 1?]AP[goproblems]
+(;W[of];B[mf]
+(;W[od]
+(;B[pe]C[CHOICE]
+(;W[se];B[me];W[sf];B[md]C[RIGHT])
+(;W[sf];B[me];W[se];B[md]C[RIGHT]))
+(;B[me]C[CHOICE];W[pe];B[md];W[oe];B[pg];W[pf];B[sg];W[ph];B[pi]
+(;W[se]C[RIGHT])
+(;W[sf];B[se];W[sd]C[RIGHT]))
+(;B[sg];W[pe];B[sf];W[qh]C[RIGHT]))
+(;W[sg];B[od]C[black gets off easy])
+(;W[sf];B[od]C[you can do better])
+(;W[se];B[od]C[you can do better])
+(;W[pi];B[od])
+(;W[qh];B[od])
+(;W[ph];B[od]))
+(;W[mf];B[of]
+(;W[od];B[pg])
+(;W[pg];B[od]))
+(;W[od];B[of]
+(;W[pg];B[me])
+(;W[mf];B[pg]))
+(;W[pf];B[of])
+(;W[li];B[lh]C[this is no help])
+(;W[lh];B[li])
+(;W[lg];B[lh]C[does not help you])
+(;W[me];B[of])
+(;W[sg];B[of])
+(;W[se];B[of])
+(;W[sf];B[of])
+(;W[pg];B[od])
+(;W[qh];B[of])
+(;W[ph];B[of])
+(;W[pi];B[of]))

@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[18k]DP[67]SO[ldan]CO[7]AB[qc]AB[pc]AB[oc]AB[rd]AB[re]AB[rf]AB[qg]AB[ph]AW[pd]AW[qd]AW[qe]AW[qf]AW[ne]AW[me]AW[mg]C[Capture the 4 white stones]AP[goproblems]
+(;B[oe];W[od]
+(;B[nd];W[of]
+(;B[pf]C[Well doneRIGHT])
+(;B[pe];W[pf]C[so close!])
+(;B[nf];W[pe])
+(;B[og];W[pe]))
+(;B[of];W[nd])
+(;B[pf];W[nd])
+(;B[pe]
+(;W[nd])
+(;W[of])))
+(;B[od];W[oe]
+(;B[pf];W[pe])
+(;B[pe];W[pf];B[pg];W[og]))
+(;B[pe];W[od]TR[nd]TR[oe])
+(;B[pf];W[oe];B[pe];W[od])
+(;B[of];W[oe]TR[od]TR[pe]))

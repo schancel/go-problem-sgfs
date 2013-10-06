@@ -1,0 +1,73 @@
+(;GE[life and death]DI[4d]DP[8]SO[M.D. Geist]CO[7]SZ[9]AW[da]AW[ea]AW[ga]AW[ia]AW[db]AW[fb]AW[hb]AW[ac]AW[ec]AW[gc]AW[hc]AW[ad]AW[dd]AW[gd]AW[de]AW[ee]AW[fe]AW[ge]AW[af]AW[df]AW[gf]AW[hf]AW[ag]AW[cg]AW[dg]AW[ah]AW[bh]AW[ch]AW[bi]AB[ca]AB[cb]AB[cc]AB[dc]AB[ic]AB[cd]AB[hd]AB[id]AB[ae]AB[be]AB[ce]AB[he]AB[ie]AB[bf]AB[cf]AB[ef]AB[ff]AB[if]AB[bg]AB[eg]AB[gg]AB[hg]AB[ig]AB[dh]AB[fh]AB[ci]AB[di]LB[ib:A]TR[ac]TR[ad]C[Play at A to start the problem...]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃŸ]PB[Schwarz]
+(;B[ib]
+(;W[bc]C[How can black answer this stone?]
+(;B[bb];W[ab]
+(;B[eh];W[ha]TR[eh]C[The marked stone prevents a ko at b9 , so its a seki and black wins by 2 points!CHOICERIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[fg]TB[gh]TB[hh]TB[ih]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[aa];W[ba]C[Suicide ?! oO I mean ... where can you see a ko threat ?!])
+(;B[bd];W[ba]C[*cough*])
+(;B[ba];W[bd];B[aa];W[ac]C[Dead...])
+(;B[ha];W[ba];B[aa];W[eh]LB[ce:2]LB[gg:1]C[Total failure ! Now either 1 or 2 are dead !]))
+(;B[ab];W[bb]C[Doesnt work ...])
+(;B[aa];W[bb];B[ba];W[bd];B[ab];W[bc]C[Dead...])
+(;B[ba]
+(;W[bb]C[Now be careful !]
+(;B[eh];W[ha]TR[eh]C[Correct! With the marked stone there is no spoo .... euh... ko threat! ^^White cant approch in the upper left now! Black either --> Seki but Black wins with 2 points...RIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[fg]TB[gh]TB[hh]TB[ih]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[ha];W[aa];B[ab];W[eh]C[Bad! Black lost ...])
+(;B[bd];W[aa]C[o_____________O''])
+(;B[aa];W[bd];B[ab];W[bc]C[dead!]))
+(;W[ab]
+(;B[bb];W[bd];B[aa];W[ac]C[Dead!])
+(;B[ha];W[aa];B[ia];W[bb];B[bd];W[ac];B[ab]C[white lost ...CHOICERIGHT])
+(;B[aa];W[bb];B[bd];W[ac]C[wrong!])
+(;B[bd];W[bb];B[aa];W[ac]C[dead!])))
+(;B[ha]C[nah, you cant ignore this move either!]))
+(;W[bb]
+(;B[ba]
+(;W[bc]C[What now ?]
+(;B[eh];W[ha]TR[eh]C[Correct ! The marked stone is very important!It prevented the ko at a9...CHOICERIGHT])
+(;B[ha];W[aa];B[ab];W[eh]C[Choose your way of defeat! ~~]
+(;B[ei];W[aa]LB[cc:1]C[You lost group 1...])
+(;B[bd];W[fg]LB[cd:1]LB[ig:2]C[You lost group 2 ...]))
+(;B[ab];W[aa]C[dead! ;)]))
+(;W[aa]C[Black must respond correctly ...]
+(;B[eh];W[bd];B[ab];W[ha];B[bc]C[Black wins ^^CHOICERIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[aa]TB[bb]TB[ac]TB[ad]TB[bd]TB[fg]TB[gh]TB[hh]TB[ih]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[ha];W[bc];B[ab];W[eh]C[Black lost !])
+(;B[ab];W[eh];B[ei];W[aa]
+(;B[fi];W[ha]LB[fi:1]C[Black must play 1 !! Otherwise it'll lose the ko ... even if the upper part is seki , black wins by 2 !RIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[fg]TB[eh]TB[gh]TB[hh]TB[ih]TB[gi]TB[hi]TB[ii])
+(;B[ha];W[bc];B[ab];W[fi]C[you lost!])
+(;B[gi];W[ha]C[Didnt think of that one , but of course it prevents the ko threat, too!RIGHT])
+(;B[eh];W[bc];B[ab];W[gh]
+(;B[bd];W[hh]
+(;B[ih];W[hi];B[ha];W[gi]
+(;B[ii];W[ia];B[fi];W[gh]
+(;B[hh];W[ha]C[White cant do anything...RIGHT])
+(;B[gi];W[ha]C[RIGHT])
+(;B[ha];W[gi];B[fg]C[Bad! Black cant be greedy here ^^])
+(;B[hi];W[ha]C[Rather weird shape but it lives :)RIGHT]))
+(;B[fi];W[fg]C[Auto Atari ^^])
+(;B[ia]C[Seki ... this time at the bottom ^^However, black wins with 5 points!RIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[aa]TB[bb]TB[ac]TB[bc]TB[ad]))
+(;B[ii];W[ih];B[ha];W[gi]C[Dead ^^])
+(;B[ha];W[ih]C[Bad!Blacks greediness kills the whole group!]))
+(;B[hh];W[aa]C[White's trick was sucessfully ^^])
+(;B[gi];W[aa]C[whites trick was sucessfully ^^])))))
+(;B[bc];W[ba]C[dead...])
+(;B[ha]C[nah you cannot ignore three moves!])
+(;B[ab];W[ba]C[dead! black cannot do anything here ...])
+(;B[aa];W[ba]C[Dead...]))
+(;W[ba]
+(;B[bb];W[ab]
+(;B[aa];W[eh];B[ei];W[ba]
+(;B[fi];W[ha]C[Black wins by 2 points ... Black must pass ... A9 isnt possible ... Black cannot gain full life!CHOICERIGHT]TW[fa]TW[eb]TW[gb]TW[fc]TW[ed]TW[fd]TW[ai]TB[fg]TB[eh]TB[gh]TB[hh]TB[ih]TB[gi]TB[hi]TB[ii])
+(;B[gi]C[RIGHT]))
+(;B[eh]C[RIGHT]))
+(;B[bc];W[bb]C[euhm ... nope! :p])
+(;B[bd];W[bc]C[lol])
+(;B[ab];W[bb]C[just dead ...])
+(;B[aa];W[bb]C[dead]))
+(;W[aa];B[bb];W[ab]
+(;B[bc];W[ha]C[seki = boring ^^])
+(;B[bd];W[ha]C[seki = boring ^^])
+(;B[ba];W[ha]C[seki = boring ^^])
+(;B[ha]C[seki = boring ^^]))
+(;W[ab];B[bb];W[bc];B[eh];W[ha]C[same procedure!]))
+(;B[ab];W[bb];B[ba];W[aa]))

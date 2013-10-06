@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[41]SO[zafris]CO[0]AB[br]AB[bs]AW[bq]AW[bp]AW[ap]AW[cq]AW[dq]AW[dr]AW[er]AW[es]AB[ao]AB[bo]AB[cp]AB[dp]AB[eq]AB[fq]AB[fr]AB[fs]AB[eo]C[Suppose that the winner is decided on whether White lives or Black kills. So save the White stones.]AP[goproblems]
+(;W[ar]
+(;B[cr]
+(;W[cs];B[ds]C[Ko, Black now has a chance to kill and win.])
+(;W[ds]C[Right, it's a seki, White lives and wins.RIGHT])
+(;W[aq];B[cs]C[White dies.]))
+(;B[as];W[cs];B[aq]C[Right, white lives because Black cannot push at C2.RIGHT])
+(;B[cs]
+(;W[ds]C[Seki, White wins.RIGHT])
+(;W[cr]C[Seki. White wins.RIGHT])))
+(;W[cr]
+(;B[ar];W[cs]C[Seki. White wins.RIGHT])
+(;B[cs];W[ar]C[Seki. White wins.RIGHT]))
+(;W[cs];B[cr]
+(;W[ar];B[ds]C[Ko. Black has a chance to win.])
+(;W[ds];B[aq]))
+(;W[aq];B[cs]))

@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[1k]DP[20]SO[fye]CO[0]AB[cb]AB[db]AB[dc]AB[fc]AB[ee]AB[ed]AB[fe]AB[ge]AB[de]AB[df]AB[dg]AB[eg]AB[cg]AB[dh]AB[di]AB[ei]AB[fi]AB[fh]AB[cj]AB[gj]AB[gk]AB[gl]AB[cl]AB[cm]AB[cn]AB[bp]AB[in]AB[ip]AB[gp]AB[gq]AB[gr]AB[kp]AB[op]AB[oq]AB[or]AB[nq]AB[ps]AB[qr]AB[qp]AB[on]AB[rm]AB[rl]AB[qk]AB[qj]AB[oj]AB[nj]AB[og]AB[nf]AB[nc]AB[pd]AB[qe]AB[re]AB[rf]AB[hf]AB[if]AB[ie]AW[bb]AW[cc]AW[cd]AW[dd]AW[ce]AW[cf]AB[bf]AW[bg]AW[bh]AW[ci]AW[bj]AW[dj]AW[ej]AW[fj]AW[dm]AW[gn]AW[hk]AW[hj]AW[gi]AW[gh]AW[fg]AW[ef]AW[ff]AW[gf]AW[gg]AW[hg]AW[eo]AW[dp]AW[cq]AW[bq]AW[fq]AW[iq]AW[hr]AW[kq]AW[lr]AW[mq]AW[mp]AW[np]AW[nr]AW[ns]AW[os]AW[ql]AW[rk]AW[rj]AW[qi]AW[rh]AW[rg]AW[qf]AW[pf]AW[oi]AW[nh]AW[he]AW[hd]AW[gd]AW[hc]AW[gb]AW[kc]LB[hl:1]C[Lee Changho played 1 in the game, then Xie He immediately resigned. Why? Please start at 1 to begin.]AP[goproblems];W[hl];B[ck]C[Now what if black connects, intending to capture E10 group?]
+(;W[fl];B[gm]
+(;W[hm];B[fm]
+(;W[el];B[em]
+(;W[dl];B[dn];W[en];B[dk]
+(;W[fn]C[Good job :). Now D11 is not alive, C9 dead and J14 floating. No wonder Xie He resigned...RIGHT])
+(;W[fk];B[ek]C[Whoopss you were so close ;)]))
+(;W[en];B[dl];W[dn];B[ek])
+(;W[dn];B[dl]
+(;W[fn];B[ek])
+(;W[fk];B[dk])
+(;W[en];B[ek])))
+(;W[em];B[fk]C[whoops...]
+(;W[ek];B[el])
+(;W[dl];B[dk])
+(;W[dk];B[dl])
+(;W[el];B[ek]))
+(;W[fn];B[em]
+(;W[el];B[dn])
+(;W[dn];B[dl];W[el];B[ek])
+(;W[dl];B[dn];W[en];B[el];W[fk];B[dk])))
+(;W[fm];B[hm]C[There is a much better option for white :)]))
+(;W[gm];B[ek]C[CHOICE])
+(;W[fm];B[ek];W[fk];B[fl])
+(;W[dl];B[dk];W[ek];B[el])
+(;W[el];B[ek]
+(;W[fk];B[fl];W[dk];B[dl])
+(;W[dk];B[dl];W[fk];B[fl]))
+(;W[ek];B[el];W[fl];B[dk])
+(;W[hm];B[ek])
+(;W[fk];B[fl];W[el];B[dk];W[ek];B[em])
+(;W[em];B[ek]))

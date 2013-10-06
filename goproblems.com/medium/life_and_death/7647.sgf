@@ -1,0 +1,51 @@
+(;GE[life and death]DI[2d]DP[14]SO[Hans]CO[7]AW[rb]AW[rc]AW[pc]AW[oc]AW[ob]AW[na]AB[nb]AB[mb]AB[md]AB[od]AB[nd]AB[pd]AB[qd]AB[rd]AB[rf]AP[goproblems]
+(;B[sc];W[sb]
+(;B[pa]
+(;W[oa]
+(;B[qb];W[qc];B[ra]C[CHOICERIGHT])
+(;B[ra];W[qb];B[qa];W[qc]C[Seki])
+(;B[qc];W[qb]))
+(;W[qc]
+(;B[ra];W[qa]
+(;B[qb]C[CHOICERIGHT])
+(;B[oa];W[pb]))
+(;B[qa];W[oa];B[ra]C[];W[qb]C[Seki.])
+(;B[oa];W[qa]
+(;B[ma];W[pb])
+(;B[pb];W[qb]))
+(;B[qb];W[ra];B[oa];W[qa])))
+(;B[qc];W[qb];B[pa];W[oa])
+(;B[qb];W[qc]
+(;B[pa];W[ra];B[oa];W[qa])
+(;B[ra];W[pa];B[qa]C[Gote seki.]))
+(;B[ra];W[qb];B[pa];W[oa];B[qa];W[qc]C[Only seki]))
+(;B[pa];W[qc]
+(;B[sc];W[qa]
+(;B[sb];W[pb])
+(;B[pb];W[sb])
+(;B[oa];W[pb]LB[oa:A]LB[sb:B]C[A and B are miai]))
+(;B[oa];W[qa]
+(;B[sc];W[pb])
+(;B[ma];W[pb]))
+(;B[ra];W[sc]
+(;B[oa];W[qa]
+(;B[qb];W[pb];B[ma];W[sa];B[sb];W[qa]C[White lives in double ko.])
+(;B[ma];W[pb];B[qb];W[sa];B[sb];W[qa]C[White lives in double ko.]))
+(;B[sa];W[oa]C[At least seki for white.]))
+(;B[qa];W[oa]
+(;B[ra];W[sc]C[White lives (May be black can get a seki by playing at A.]LB[sd:A])
+(;B[sc];W[sb];B[ra];W[qb]C[Only seki])))
+(;B[qc];W[qb]
+(;B[pa];W[oa])
+(;B[sc];W[pa]))
+(;B[qa];W[ra]C[White has two eyes.])
+(;B[ma];W[ra])
+(;B[qb];W[qc]
+(;B[sc];W[sb]
+(;B[pa];W[ra];B[oa];W[qa])
+(;B[ra];W[pa];B[qa]C[Gote seki  for black.]))
+(;B[pa];W[ra];B[oa];W[qa])
+(;B[ra];W[pa]
+(;B[qa];W[sc]C[At lest seki for white.])
+(;B[sc];W[sb];B[qa]C[Gote seki.])))
+(;B[sb];W[sc]))

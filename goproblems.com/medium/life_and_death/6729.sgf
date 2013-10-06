@@ -1,0 +1,29 @@
+(;GE[life and death]DI[2k]DP[22]SO[tom111]CO[7]AB[br]AB[cr]AB[cq]AB[er]AB[fq]AB[gq]AB[gr]AB[gs]AW[hr]AW[hq]AW[hp]AW[gp]AW[fp]AW[eq]AW[ep]AW[dp]AW[cp]AW[bp]AW[bq]AW[ar]C[Black to live]AW[hs]AP[goproblems]
+(;B[dq]
+(;W[ds]
+(;B[es];W[bs];B[dr]C[CHOICERIGHT])
+(;B[bs];W[fs]
+(;B[fr];W[es])
+(;B[es];W[fr])))
+(;W[es];B[ds];W[bs];B[fs]C[RIGHT]))
+(;B[ds];W[dq]
+(;B[fs];W[dr])
+(;B[bs];W[dr])
+(;B[dr];W[fs]
+(;B[bs];W[fr])
+(;B[fr];W[bs])))
+(;B[es];W[bs]
+(;B[dr];W[cs])
+(;B[cs];W[dr]
+(;B[as];W[dq]
+(;B[aq];W[ds])
+(;B[ds];W[aq]))
+(;B[dq];W[ds])))
+(;B[fs];W[dr]
+(;B[dq];W[ds]C[Black cannot Atari])
+(;B[ds];W[dq]))
+(;B[dr];W[fs]
+(;B[es];W[fr])
+(;B[fr];W[es]
+(;B[bs];W[ds])
+(;B[ds];W[bs]))))

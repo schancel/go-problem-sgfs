@@ -1,0 +1,24 @@
+(;GE[endgame]DI[6k]DP[38]SO[kvzrock]CO[8]GM[1]FF[3]
+CA[UTF-8]AP[CGoban:2]ST[2]RU[Chinese]SZ[19]KM[0]
+PW[White]
+PB[Black]
+C[Find a move that is big enough to win the game for white. Don't play unnecessary moves.
+
+]
+PL[W]
+AW[gb][hb][ib][jb][kb][mb][nb][fc][gc][lc][mc][rc][ad][ld][rd][ae][be][ee][ie][je][ke][oe][re][af][cf][df][ef][if][lf][pf][qf][bg][dg][jg][lg][og][qg][dh][fh][jh][lh][nh][qh][rh][di][ji][li][mi][oi][dj][ej][fj][ij][nj][pj][rj][sj][dk][fk][ik][jk][nk][qk][rk][fl][gl][ml][fm][lm][mm][qm][fn][hn][kn][ln][nn][rn][fo][go][ho][mo][oo][ro][ap][fp][np][aq][bq][cq][fq][kq][lq][oq][pq][qq][rq][sq][dr][er][gr][hr][ir][lr][nr][ms]
+AB[bb][eb][ob][rb][ac][ec][hc][ic][jc][kc][nc][oc][qc][sc][bd][cd][dd][ed][fd][gd][hd][kd][md][nd][pd][qd][le][me][qe][se][hf][mf][rf][ag][cg][gg][ig][mg][ng][rg][ah][bh][ch][ih][mh][ci][fi][gi][hi][cj][kj][lj][mj][ck][ek][gk][hk][lk][pk][sk][dl][el][hl][il][jl][ll][pl][ql][rl][sl][em][gm][hm][jm][km][pm][bn][cn][en][gn][in][jn][pn][ao][eo][io][ko][lo][qo][bp][cp][dp][hp][jp][op][pp][qp][rp][sp][dq][eq][hq][iq][jq][jr][kr][ks][ls]
+(;W[qn];B[po];W[rm]C[RIGHT
+11-point seki. Good job!
+])
+
+(;W[sn];B[qn]C[B is alive.
+])
+
+(;W[rm];B[qn]C[B is alive.
+])
+
+(;W[po];B[qn]C[B is alive
+])
+
+)

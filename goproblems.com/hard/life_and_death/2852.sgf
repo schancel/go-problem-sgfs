@@ -1,0 +1,51 @@
+(;GE[life and death]DI[5d]DP[6]SO[santa c]CO[6]SZ[19]AW[dm]AW[bn]AW[cn]AW[dn]AW[ao]AW[bo]AW[do]AW[qo]AW[ap]AW[ep]AW[fp]AW[pp]AW[qp]AW[rp]AW[fq]AW[gq]AW[hq]AW[oq]AW[sq]AW[fr]AW[ir]AW[or]AW[rr]AW[gs]AW[hs]AW[ns]AW[os]AB[pm]AB[pn]AB[qn]AB[rn]AB[co]AB[po]AB[ro]AB[so]AB[bp]AB[cp]AB[dp]AB[np]AB[op]AB[sp]AB[aq]AB[eq]AB[lq]AB[mq]AB[nq]AB[br]AB[er]AB[kr]AB[nr]AB[qr]AB[es]AB[fs]AB[ls]AB[ms]LB[io:S]LB[ko:T]LB[qo:o]LB[pp:o]LB[qp:o]LB[rp:o]LB[oq:o]LB[sq:o]LB[cr:K]LB[or:o]LB[qr:X]LB[rr:o]LB[ns:o]LB[os:o]TR[ip]TR[kp]TR[cs]TR[qs]C[Short, an to the point, I hope. Does this 1) kill('K') the white marked group. 2) Is either captured or creates a seki('S' depending on the amount of 'ko' threats. 3) is a wasted move, and white should tenuki('T'). ?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[cr]C[Heh - going, for the impossible..];B[dq]C[Ok - Kill it, then.FORCE]
+(;W[cq];B[cs]C[Black lives...])
+(;W[cs];B[bs]C[Black lives...])
+(;W[bs];B[ar]C[Black lives...])
+(;W[ds]C[Black could, even tenuki..(But if white wins the ko, the black group, is dead..)];B[bs]C[Black lives])
+(;W[bq];B[cq]C[Black lives])
+(;W[dr];B[cq]C[Black lives])
+(;W[as]C[Black could even pass, and play around, a bit... (Pass/ Tenuki)];B[bs]C[Black lives..])
+(;W[ar];B[as]C[Hmm..]))
+(;W[ko];B[pq]C[Black kills.])
+(;W[io];B[ko]LB[jn:1]LB[jo:2]LB[jp:3]LB[qr:X]TR[qs]C[How many ko threats (more than the black), should White have to kill the intruder?(R2 is the intruder)FORCE]
+(;W[jn]C[Interested, why? Play bK5!FORCE]
+(;B[jp]LB[cr:S]C[Correct! But black doesn't have the luxury... Play at 'S' and have some fun...FORCE];W[cr]C[]
+(;B[dr]C[FORCE]
+(;W[cs];B[bs]C[It doesn't work, this, way... Black kills.CHOICE])
+(;W[ds];B[cs]C[It doesn't work, this, way... Black kills.])
+(;W[dq];B[cq]C[It doesn't work, this, way... Black kills.])
+(;W[cq];B[cs]C[It doesn't work, this, way... Black kills.])
+(;W[bq];B[cs]C[It doesn't work, this, way... Black kills.])
+(;W[ar];B[as]C[It doesn't work, this, way... Black kills.])
+(;W[as];B[cq]C[It doesn't work, this, way... Black kills.])
+(;W[bs];B[cq]
+(;W[cs];B[ar]C[Seki. RIGHT])
+(;W[as];B[cs]C[So close, and yet... How? o.O])))
+(;B[dq]C[FORCE]
+(;W[cs];B[bs]C[It doesn't work, this, way... Black kills.CHOICE])
+(;W[bs]C[];B[ar]C[FORCE]
+(;W[cq]C[];B[bq]
+(;W[ds]C[Seki. RIGHT])
+(;W[cs]C[Seki. RIGHT]))
+(;W[dr]C[bC3 is the correct one - Or else it's seki sente for white!]
+(;B[cq];W[cs]C[Seki.RIGHT])
+(;B[cs];W[ds];B[bq]C[Seki. RIGHT]))
+(;W[ds];B[cq]C[Seki.RIGHT])
+(;W[bq];B[cq];W[ds]C[Seki - But, you shouldn't just give away, points! (You gave away 1 point - The prisoner.) RIGHT])
+(;W[cs];B[cq];W[as];B[bq]C[Seki. (Thanks, for the correction, atak) RIGHT])
+(;W[as];B[cs]C[Black lives!]))
+(;W[ds];B[bs]C[It doesn't work, this, way... Black kills.])
+(;W[dr];B[bs]C[It doesn't work, this, way... Black kills.])
+(;W[cq];B[cs]C[It doesn't work, this, way... Black kills.])
+(;W[as];B[bs]C[It doesn't work, this, way... Black kills.])
+(;W[ar];B[as]C[It doesn't work, this, way... Black kills.])
+(;W[bq];B[cq]C[Okie - Why give up points, for nothing?! (Guh, if i wouldn't have asked, to have fun.. IT'S  - IT'S NOT THE BEST WAY!!!)];W[bs]C[Seki. (You, still gave away, a point..) RIGHT])))
+(;B[jo]C[FORCE];W[cr]C[FORCE];B[dr]C[FORCE];W[bs]C[FORCE];B[cq]C[FORCE];W[cs]C[FORCE];B[as]C[FORCE];W[ar]LB[ip:K]LB[jp:O]C[Plat 'K' for blacks lo threat.FORCE]MA[as]
+(;B[ip]LB[ip:K]LB[jp:O]C[White anwaser at 'O'.FORCE];W[jp]C[FORCE];B[as]LB[kp:T]C[White passes, or tenukis, play at 'T'.FORCE]MA[ar]
+(;W[kp]C[FORCE];B[ds]C[Black got rid, of the intruder.])
+(;W[ar]C[NOTTHIS]))
+(;B[as]C[NOTTHIS])))
+(;W[jo]C[Nope, the correct anwser is 1.])
+(;W[jp]C[Nope, the correct anwser is 1.])))

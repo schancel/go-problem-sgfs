@@ -1,0 +1,13 @@
+(;GE[endgame]DI[4k]DP[29]SO[Field Mouse]CO[0]AB[mb]AB[ld]AW[ob]AW[oc]AW[od]AB[le]AB[je]AB[hd]AW[oe]AW[ne]AB[me]C[Endgame: Every little point counts here! The rest of the board is completely unimportant (sente is worth 0 pts)]AP[goproblems]
+(;W[nb];B[mc];W[ma];B[la];W[na];B[lb]C[You could do one point better!])
+(;W[mc];B[lc];W[nb];B[ma];W[md];B[na]
+(;W[oa];B[lb]C[Best for white! :)RIGHT])
+(;W[lb];B[kb]
+(;W[oa];B[la]C[Superbest :pRIGHT])
+(;W[ka];B[la];W[oa];B[ja]C[Good :)RIGHT])))
+(;W[ma];B[la];W[mc];B[lc]
+(;W[na];B[nb];W[oa];B[nc]C[Bad :(])
+(;W[nb];B[na]C[You could do better]))
+(;W[na];B[ma];W[mc];B[lc]
+(;W[nb];B[md];W[nc];B[lb]C[Almost, one point behind!])
+(;W[md];B[nb];W[nc];B[oa];W[pa];B[lb];W[na]C[Even if you win the ko, this will be two points worse than the solution.])))

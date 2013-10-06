@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4k]DP[29]SO[adum]CO[4]SZ[19]AW[ba]AW[hb]AW[ac]AW[bc]AW[cc]AW[fc]AW[gc]AW[dd]AW[ed]AW[ce]AB[ca]AB[ab]AB[bb]AB[cb]AB[eb]AB[dc]LB[ag:0]LB[bg:1]LB[cg:2]LB[dg:3]LB[eg:4]LB[fg:5]LB[gg:6]C[how many ways to kill without ko? click on the numberFORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[cg];B[ch]C[now you can try different approaches in the actual problemRIGHT]
+(;W[ec];B[db];W[ea];B[fb];W[fa];B[ga];W[gb]C[black deadRIGHT])
+(;W[fb];B[ea])
+(;W[db]
+(;B[fb];W[ec]C[black deadRIGHT])
+(;B[ea];W[ec]C[black deadRIGHT]))
+(;W[ea];B[fb];W[ec];B[da]
+(;W[fa];B[ga]C[ko])
+(;W[db]C[ko]))
+(;W[fa];B[ea])
+(;W[da];B[ea])
+(;W[ga];B[ea])
+(;W[gb];B[ea]))
+(;W[ag]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[bg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[dg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[eg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[fg]C[incorrect. the right moves are shown after you select the correct answer.])
+(;W[gg]C[incorrect. the right moves are shown after you select the correct answer.]))

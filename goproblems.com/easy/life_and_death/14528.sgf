@@ -1,0 +1,158 @@
+(;GE[life and death]DI[7k]DP[40]SO[BartTM]CO[0]AB[ba]AB[ab]AW[bb]AB[bc]AB[cc]AB[cd]AB[dd]AB[ed]AB[fd]AB[gd]AB[fc]AB[fb]AB[ic]AB[hc]AW[cb]AW[dc]AW[ec]AW[eb]AW[da]AW[ea]AW[fa]AW[gb]AW[gc]AW[bd]AW[be]AW[cf]AW[df]AW[ef]AW[fe]AW[ge]AW[he]AW[hd]MA[fe]C[If  White takes a liberty instead of fighting a difficult ko at C19, what can Black do?]AP[goproblems]
+(;B[ac]
+(;W[ce]
+(;B[aa];W[ad]
+(;B[ca];W[ee]
+(;B[db];W[cb]
+(;B[hb];W[ga]
+(;B[ha]C[Taking the liberty at C19 before taking the outside liberty is the key to this problem.RIGHT]TR[ca]TR[ac]TR[aa])
+(;B[bb];W[de]))
+(;B[bb];W[de])
+(;B[ha];W[de])
+(;B[ga];W[ha]
+(;B[ia];W[de])
+(;B[hb]C[];W[ia]
+(;B[ja];W[jb]
+(;B[ga];W[gb]
+(;B[gc];W[jc]C[White escapes with ko.])
+(;B[ib];W[ka]C[White escapes.])
+(;B[ka];W[kb]C[White escapes.]))
+(;B[ib];W[ka]C[White escapes.])
+(;B[jc];W[ga]C[Black dies.]))
+(;B[ga];W[gb]
+(;B[gc];W[jb]C[White escapes with ko.])
+(;B[jb]C[This will probably be enough to capture White.RIGHT])
+(;B[kb]C[Capturing White the long way.RIGHT])
+(;B[ib];W[jb]C[White escapes.])
+(;B[ja];W[jb])
+(;B[ka];W[jb]C[White escapes.]))
+(;B[jb];W[ga])
+(;B[ib];W[jb]C[White escapes.]))
+(;B[bb];W[de])))
+(;B[hb];W[de])
+(;B[ga];W[de])
+(;B[ha];W[de]))
+(;B[hb];W[ga]
+(;B[ca];W[ee]
+(;B[db];W[cb])
+(;B[ha];W[de]))
+(;B[ha];W[ee]
+(;B[ca];W[de])
+(;B[jd];W[de])))
+(;B[ha];W[hb]
+(;B[ib];W[ga]
+(;B[ia];W[ee])
+(;B[ca];W[ia]
+(;B[db];W[cb]
+(;B[ja];W[ee]
+(;B[ha]C[Just ko.])
+(;B[bb];W[de]))
+(;B[bb];W[ee]C[Ko])
+(;B[ee];W[de])
+(;B[de];W[ee]))
+(;B[ja];W[ee]
+(;B[db];W[cb])
+(;B[ha];W[de]))
+(;B[ee];W[de])
+(;B[de];W[ee])))
+(;B[ca];W[ib]C[White escapes.]))
+(;B[ga];W[ha]
+(;B[ca];W[ia]C[White escapes. All White needs is one extra liberty to kill Black.])
+(;B[hb];W[ga]
+(;B[ia];W[ee])
+(;B[ca];W[ia]C[White escapes. All White needs is one extra liberty to kill Black.]))
+(;B[ia];W[ee]
+(;B[ca];W[de])
+(;B[hb];W[ga]))))
+(;B[hb];W[ga]
+(;B[aa];W[ad])
+(;B[ha];W[ad]
+(;B[aa];W[ee])
+(;B[ca];W[aa]))
+(;B[ca];W[aa]))
+(;B[ga];W[ha]
+(;B[hb];W[ga]
+(;B[ia];W[ad]
+(;B[aa])
+(;B[ca];W[aa]))
+(;B[aa]
+(;W[ia]C[White escapes. All White needs is one extra liberty to kill Black.])
+(;W[ad]))
+(;B[ca];W[aa]))
+(;B[ca];W[aa])
+(;B[aa];W[ad])
+(;B[ia];W[ad]
+(;B[aa])
+(;B[ca];W[aa])
+(;B[hb];W[ga])))
+(;B[ha];W[hb]
+(;B[ib];W[ga]
+(;B[ia];W[ad]
+(;B[aa])
+(;B[ca];W[aa]))
+(;B[aa];W[ad])
+(;B[ca];W[aa]))
+(;B[aa];W[ib]C[White escapes, Black dies.]))
+(;B[ca];W[aa]))
+(;W[ja]C[This variation is just for reference. White does not play like this.]
+(;B[ha]C[Black can simply shut White in like this. Now White loses the capturing race no matter what.RIGHT]))
+(;W[ha]C[Just for reference. White does not play like this.];B[jb];W[ce];B[aa];W[ad];B[ca];W[ee];B[db];W[cb];B[hb];W[ga];B[ia]C[Black has many options to kill, but one should be enough to prove that this White variation fails too.RIGHT]))
+(;B[aa];W[ce]
+(;B[ac])
+(;B[hb];W[ga]
+(;B[ac];W[ad])
+(;B[ha];W[ad];B[ac])
+(;B[ca];W[ac]))
+(;B[ga];W[ha]
+(;B[ac];W[ad])
+(;B[hb];W[ga]
+(;B[ia];W[ad];B[ac])
+(;B[ac]))
+(;B[ia];W[ad];B[ac]))
+(;B[ha];W[hb]
+(;B[ib];W[ga]
+(;B[ia];W[ad];B[ac])
+(;B[ac]))
+(;B[ac])))
+(;B[hb];W[ga]
+(;B[aa];W[ce])
+(;B[ac];W[ce]
+(;B[aa];W[ad]
+(;B[ca];W[ee])
+(;B[ha]))
+(;B[ha]))
+(;B[ha];W[ce]
+(;B[ac])
+(;B[aa])
+(;B[ca];W[aa])
+(;B[ad];W[ee]))
+(;B[ca];W[aa]))
+(;B[ga];W[ha]
+(;B[hb];W[ga]
+(;B[ia];W[ce]
+(;B[ac])
+(;B[aa])
+(;B[ca];W[aa]))
+(;B[ca];W[aa])
+(;B[ac];W[jb]C[White escapes so Black dies.])
+(;B[aa];W[jb]C[White escapes so Black dies.]))
+(;B[ac];W[ce])
+(;B[aa];W[ce])
+(;B[ca];W[aa]))
+(;B[ha];W[hb]
+(;B[ib];W[ga]
+(;B[ac];W[ce])
+(;B[aa];W[ce])
+(;B[ia];W[ce]
+(;B[ac])
+(;B[aa])
+(;B[ca];W[aa])))
+(;B[ac];W[ce]
+(;B[ib])
+(;B[aa]))
+(;B[aa];W[ce]
+(;B[ib])
+(;B[ac]))
+(;B[ca];W[aa]))
+(;B[ca];W[aa])
+(;B[ad];W[ee];B[ac];W[de];B[aa];W[ce];B[hb];W[ga];B[ha];W[ae]))

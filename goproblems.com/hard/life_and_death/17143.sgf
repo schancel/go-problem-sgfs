@@ -1,0 +1,54 @@
+(;GE[life and death]DI[4d]DP[8]SO[Amenide]CO[0]AB[eq]AB[fq]AB[gq]AB[hq]AB[fr]AB[ir]AB[iq]AB[bo]AB[bn]AB[bm]AW[bp]AW[cp]AW[co]AW[cn]AB[eo]AB[fo]AB[jp]AB[kp]AW[dr]AW[er]AW[fs]AW[gr]AW[hr]AW[hs]AW[is]AW[jr]AW[jq]AW[kq]AW[cm]AW[dn]AW[en]AW[em]AB[cl]AB[dl]AB[el]AB[fn]AB[fl]AB[io]AB[bl]C[The rest of the board is settled, no ko threats. Black to make the best of it.]AW[js]AB[lp]AB[lq]AB[lr]AP[goproblems]
+(;B[cq]
+(;W[dq]
+(;B[bq]
+(;W[aq]
+(;B[ar];W[ap]
+(;B[cr];W[cs]
+(;B[es];W[br];B[gs]C[RIGHT])
+(;B[br];W[es]C[White lives with all stones.]))
+(;B[br];W[cr]
+(;B[es];W[ds];B[bs];W[cs];B[dp];W[as])
+(;B[cs];W[bs])
+(;B[bs];W[cs];B[es];W[ds];B[dp];W[as])
+(;B[ds];W[es]))
+(;B[bs];W[cr];B[br])
+(;B[cs];W[cr];B[br];W[bs])
+(;B[es]
+(;W[ds];B[cr];W[cs];B[br]C[White only has one eye and thus is dead.RIGHT])
+(;W[br]C[CHOICE]
+(;B[cs];W[ds])
+(;B[gs];W[ds];B[fs]C[RIGHT]))))
+(;B[br];W[ar];B[bs];W[cs])
+(;B[cr];W[cs]
+(;B[es];W[ds];B[ar];W[br])
+(;B[ar];W[br]))))
+(;B[cr];W[bq]
+(;B[br];W[cs]
+(;B[bs];W[ar];B[ds];W[dp])
+(;B[ds];W[es]
+(;B[bs];W[ar];B[ds];W[dp])
+(;B[ar]))
+(;B[es];W[ds];B[bs];W[ar];B[dp];W[as]))
+(;B[es];W[ds];B[cs];W[dp];B[br];W[ar])
+(;B[cs];W[dp]
+(;B[es];W[ds];B[br];W[ar])
+(;B[br];W[ar]
+(;B[es];W[ds])
+(;B[aq];W[ap]))))
+(;B[br];W[bq];B[cr])
+(;B[dp];W[cr];B[bq];W[br])
+(;B[ap];W[bq]
+(;B[aq];W[ar]
+(;B[ao];W[cr])
+(;B[br];W[ao];B[cr];W[ap]))
+(;B[cr];W[br]))))
+(;B[dq]
+(;W[cr]
+(;B[cq];W[bq]
+(;B[br];W[bs];B[es];W[ds];B[ar];W[aq];B[ks];W[as];B[kr];W[es];B[gs]C[RIGHT])
+(;B[es];W[ds];B[ks];W[bs];B[kr];W[es];B[gs]C[RIGHT]))
+(;B[bq];W[cq];B[ap]
+(;W[br];B[es]
+(;W[aq];B[gs];W[ao];B[fs]C[]))))
+(;W[cq];B[br];W[cr];B[es];W[ds];B[ap];W[aq];B[bq];W[bs];B[ar]C[Perfect for black, all white stones are dead.])))

@@ -1,0 +1,37 @@
+(;GE[endgame]DI[1d]DP[17]SO[Field Mouse]CO[0]AW[eb]AW[fc]AW[fd]AB[ec]AB[ed]AB[db]AB[cc]AB[ee]AW[fe]AB[ef]AB[cf]AB[df]AB[bf]AB[af]AW[ag]AW[bg]AW[cg]AW[ff]AW[fg]AW[fh]AW[dg]AB[ei]AB[di]AB[dj]AB[ej]AW[fk]AW[ek]AW[dk]AW[ck]AB[eg]AW[cj]AW[ci]AW[ch]AW[gg]AW[hg]AW[ig]AW[jg]AW[kf]AW[lf]AW[me]AW[md]AW[mc]AW[mb]AW[ma]AW[mf]AW[kg]AB[jb]AB[jc]AB[kc]AW[id]AW[lb]AB[fj]AW[gk]AW[gj]AW[gi]AW[fi]C[Black to play the endgame. The rest of the board is finished and there are no ko threats in there (to make the problem simplier).]AB[lc]AB[ld]AB[le]AW[ke]AP[goproblems]
+(;B[fb];W[gb];B[ea];W[eh]
+(;B[ga];W[ha]C[As there are no ko threats on the board white can play this. If black has good threats then white would have to play H18 instead.]
+(;B[hb];W[fa];B[gc];W[eb])
+(;B[fa];W[hb]C[Compare with the solution.]))
+(;B[gc];W[hc];B[ga];W[hb];B[ha];W[ia];B[fa];W[ib]C[Sorry, a few points worse than the optimal solution (five if I count correctly)]))
+(;B[eh];W[ea];B[da];W[fb]C[You could do better!])
+(;B[ea]
+(;W[eh]
+(;B[ha]C[Black is good now.RIGHT]))
+(;W[fb]C[CHOICE];B[fa];W[ga];B[da]
+(;W[eh];B[gb]
+(;W[hb]
+(;B[ha]
+(;W[ia]
+(;B[hc];W[ga]
+(;B[gc]C[Nice!CHOICERIGHT])
+(;B[ib];W[gc]))
+(;B[ga];W[ib];B[gc];W[hd]C[You could do better after white tried H18]))
+(;W[gc];B[ga]C[RIGHT]))
+(;B[gc];W[hc];B[ha];W[ia];B[ga];W[ib];B[gd];W[hd];B[ge];W[he];B[gf];W[hf]TR[gc]C[Sorry, but the marked stone was mistake - you could save the six stones which would be much better!]))
+(;W[ib];B[hb]C[RIGHT]))
+(;W[gb];B[eh]C[Good! The best for both!RIGHT])))
+(;B[da];W[eh];B[fa];W[fb];B[ea];W[hb];B[ha];W[ia];B[ga];W[ib];B[gb];W[gc]C[A few points (six if I count correct) worse than the optimal play.])
+(;B[fa];W[hb]
+(;B[fb];W[eh]
+(;B[ha];W[gb];B[ga];W[ia];B[ea];W[ib])
+(;B[gb];W[hc]
+(;B[ha];W[ia];B[ga];W[gc];B[ea];W[ib]C[This is one point behind the optimal solution. But I am very nice and will mark it solved for you :)RIGHT])
+(;B[gc];W[gd];B[ha];W[ia];B[ea];W[ga]C[G17 was a mistake when there are no ko threats on the board. Whtie will connect at H19 with the next move.])))
+(;B[gb];W[fb];B[ea];W[eh]
+(;B[ha];W[ia];B[ga];W[gc];B[da];W[ib])
+(;B[gc];W[hc];B[gd];W[ge]
+(;B[hd];W[he];B[ga];W[ha];B[da];W[ic])
+(;B[ha];W[ia];B[ga];W[hd];B[da];W[ib])))
+(;B[ea];W[eh])
+(;B[eh];W[fb];B[ea];W[ga];B[da]C[Good :)RIGHT])))

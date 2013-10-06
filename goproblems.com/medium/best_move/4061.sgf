@@ -1,0 +1,19 @@
+(;GE[best move]DI[3d]DP[9]SO[chrisg]CO[9]SZ[19]AW[rb]AW[rd]AW[qf]AW[qi]AB[qc]AB[nd]AB[pd]C[W made an overplay  at S18. W to make the best of a bad job. Also for the purposes of this problem try to avoid ko.]AB[rc]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;W[qd];B[sc]
+(;W[pc];B[oc];W[pb];B[qb]
+(;W[pe];B[od];W[sd];B[ob]C[This way W keeps sente and a ko threat, So forcing at 'A' before playing 'B' is the correct order.RIGHT]LB[pe:A]LB[sd:B])
+(;W[sd];B[ob];W[pe];B[pa]C[W has lost his aji in this situation, so try again (you're oh so close though).]))
+(;W[pe];B[pc]C[Not as good as the marked answer, B has sealed off his territory,  and W has a hole in his]TR[sd]))
+(;W[sc];B[re]
+(;W[qe];B[qd]
+(;W[sd];B[sb];W[sa];B[se]C[That's not going to work!])
+(;W[se]C[ko]))
+(;W[se];B[rf]
+(;W[qe];B[qd]
+(;W[sd];B[sb];W[sa];B[sf]C[This doesn't work])
+(;W[rg];B[sd]C[ko]))
+(;W[rg];B[qd];W[sf];B[sd]C[ko])))
+(;W[re];B[sc]C[W has got no benefit out of the marked stone, and B has a solid corner])
+(;W[qb];B[sc];W[pc];B[pb];W[oc];B[ob];W[qd];B[od];W[sd];B[nc]
+(;W[pc];B[oc];W[sb];B[pc]C[W gets a better result in the answer marked as correct. Even though B has a dumpling shape here, W doesn't really have any threats])
+(;W[sb];B[pc]C[W gets a better result in the answer marked as correct])))

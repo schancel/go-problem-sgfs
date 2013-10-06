@@ -1,0 +1,6 @@
+(;GE[endgame]DI[6k]DP[36]SO[hotcoffee]CO[9]SZ[9]AB[ha]AB[ia]AW[ga]AW[gb]AW[hb]AW[hc]AW[ic]AB[gd]AB[ie]AB[he]AB[ec]AW[fc]AW[gc]AB[fd]AB[ed]AB[fb]AB[fa]AB[ea]AB[db]AB[cb]AB[ca]AW[ba]AW[bb]AW[cc]AW[dc]AW[ee]AW[fe]AW[hf]AW[if]AW[hg]AB[eg]AW[gh]AW[ad]AW[bd]AW[ab]AW[cd]AB[dg]AB[cg]AB[bg]AB[ag]AW[gi]AW[ih]AB[hd]AW[ge]AB[fg]AB[fh]AW[de]AW[ce]AB[ae]AB[bf]AB[be]AB[gg]AB[dd]AB[ei]AW[fi]LB[cf:B+21]LB[df:B+3]LB[ef:B+1]LB[ff:Jigo]LB[gf:W+1]C[What will the result be for this game? There are no prisoners, no komi, and Japanese rules. No passes have been made yet.]AP[goproblems]
+(;W[cf]C[You chose 'Black wins by 21' - Look at that top right corner again! Is white really dead?]LB[cf:B+21])
+(;W[df]LB[df:B+3]C[You chose 'Black wins by 3' - Its a shame to concede a game just because you miscounted though...])
+(;W[ef]C[Hmmm... You chose 'Black wins by 1' - maybe you thought white could play J8, then the game is over - think again!])
+(;W[ff];B[gf]C[You chose 'Jigo'! CORRECT! Navigate solution (or just play) from here if you guessed and need to investigate why.RIGHT];W[ib];B[ia]C[Otherwise white could win by playing J6.];W[ha]C[White captures 3 black stones! Jigo!RIGHT])
+(;W[gf]LB[gf:W+1]C[You chose 'White wins by 1'. You miscounted somewhere! Maybe you counted an eye in seki??]))

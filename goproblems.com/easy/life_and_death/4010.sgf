@@ -1,0 +1,9 @@
+(;GE[life and death]DI[10k]DP[54]SO[tails]CO[9]AB[ds]AB[dr]AB[dq]AB[eq]AB[br]AB[bq]AB[bp]AW[cr]AW[cq]AW[cp]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AW[er]AW[es]AB[gr]AB[gq]AB[gp]AB[go]AB[fo]AB[eo]AB[do]AB[co]C[black to kill.]AP[goproblems]
+(;B[cs];W[bs]
+(;B[cs];W[ds];B[dq]C[RIGHT])
+(;B[dq];W[cs];B[dr]C[RIGHT])
+(;B[dr];W[dq])
+(;B[ds];W[cs]))
+(;B[bs];W[cs])
+(;B[as];W[cs])
+(;B[fs];W[cs]))

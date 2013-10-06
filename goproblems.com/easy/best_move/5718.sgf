@@ -1,0 +1,29 @@
+(;GE[best move]DI[25k]DP[76]SO[horrorkld]CO[6]
+GM[1]FF[4]
+SZ[9]
+GN[Where should white move?]
+AB[gc][ic][ad][dd][fd][gd][hd][ae][be][ge][ie][bf][cf][df][cg]
+[eg][gg][hg][ig][dh][fh]
+AW[gb][hb][ib][ac][cc][ec][fc][hc][bd][ed][ce][de][ee][fe][ef]
+[gf][hf][fg]
+PL[W]CR[fh]
+
+(;W[ff];B[if]
+(;W[id];B[he]
+C[Try Again]
+)
+(;W[he];B[id]
+C[Try Again]
+))
+(;W[he];B[if];W[id]
+C[RIGHT]
+)
+(;W[id];B[if];W[he]
+C[RIGHT]
+)
+(;W[if];B[ff];W[id];B[he]
+C[Try Again]
+)
+(;W[gh];B[gi];W[hh];B[ff]
+C[Try Again]
+))

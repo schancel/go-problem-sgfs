@@ -1,0 +1,15 @@
+(;GE[endgame]DI[7k]DP[41]SO[santa c]CO[7]C[Correct order round A?]AB[in]AB[im]AB[il]AB[ik]AB[ho]AB[hp]AB[gp]AB[fq]AB[fr]AB[fs]AB[jp]AB[kp]AB[lq]AB[mr]AB[nr]AB[or]AW[es]AW[fp]AW[eq]AW[go]AW[hn]AW[hm]AW[hl]AW[hk]AW[ij]AW[hj]AW[jk]AW[jl]AB[ll]AB[lm]AB[kn]AB[lo]AB[mn]AB[nn]AW[kk]AW[lk]AW[mk]AW[ml]AW[mm]AW[lp]AW[mp]AW[mq]AW[oq]AW[op]AB[er]AW[ds]AW[dr]AW[dq]AW[eo]AW[pp]AW[po]AB[pr]AB[pq]LB[in:A]AP[goproblems]
+(;W[io]
+(;B[ip]
+(;W[jn];B[jo];W[jm];B[io]C[Well done! Black only keeps 2 points at most (A+prisoner) and you did it in sente! =)RIGHT]LB[ko:A])
+(;W[jm];B[jn]C[Black kept 4 points! :(]LB[io:2]LB[jo:1]LB[ko:1]))
+(;B[jo];W[gq];B[gr];W[hq]TR[ip]TR[hr]C[RIGHT])
+(;B[jn];W[gq];B[gr];W[hq]TR[ip]TR[hr]C[RIGHT]))
+(;W[jm];B[jn]C[Black kept 4 points! :(]TR[ip]TR[io]TR[jo]TR[ko])
+(;W[jn]
+(;B[io]C[];W[jm]C[Mustn't be sente! :(])
+(;B[jm];W[io];B[jo];W[gq];B[gr];W[hq]TR[ip]TR[hr]C[Not reasonable for Black])
+(;B[jo];W[jm]C[Makes K7 too serious a sente, other order is better for Black]))
+(;W[gq]C[NOTTHIS])
+(;W[kq]C[NOTTHIS])
+(;W[lr]C[NOTTHIS]))

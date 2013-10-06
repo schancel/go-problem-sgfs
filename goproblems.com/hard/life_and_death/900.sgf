@@ -1,0 +1,39 @@
+(;GE[life and death]DI[6d]DP[2]SO[Spirit]CO[8]AB[bm]AB[br]AB[cm]AB[cn]AB[dn]AB[dp]AB[en]AB[eo]AB[ep]AB[eq]AB[er]AW[bn]AW[bo]AW[co]AW[cp]AW[cq]AW[do]AW[dq]AW[dr]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[bs]
+(;W[cs];B[bq]
+(;W[aq]LB[aq:4]LB[aq:4]LB[aq:4]
+(;B[ao]
+(;W[an]
+(;B[ar]
+(;W[bp];B[ap];W[aq];B[ap];W[ao];B[am]C[RIGHT];W[aq]C[RIGHT];B[es];W[cr];B[ap]C[RIGHT])
+(;W[ap];B[bp]
+(;W[cr];B[ao];W[ap];B[am]C[White is dead.RIGHT])
+(;W[ao];B[am]C[White is dead.RIGHT])))
+(;B[bp];W[ar]
+(;B[am];W[ap]C[Seki.])
+(;B[ap];W[cr]C[White is alive.])))
+(;W[ap];B[bp];W[an];B[ar]
+(;W[cr];B[ao];W[ap];B[am]C[White is dead.RIGHT])
+(;W[ao];B[am]C[White is dead.RIGHT]))
+(;W[bp]
+(;B[an]C[RIGHT])
+(;B[ap];W[ar];B[as];W[aq];B[ar];W[an])))
+(;B[an];W[ao]
+(;B[am];W[ar]C[Seki.])
+(;B[bp];W[ap];B[ar];W[am]C[White is alive.]))
+(;B[ap];W[bp];B[ar];W[ao];B[am];W[cr];B[an]C[Black could make a better ko.])
+(;B[bp]LB[bp:5];W[ap];B[ar];W[ao])
+(;B[ar];W[ao];B[ap];W[bp]
+(;B[es];W[cr];B[ds];W[aq]C[Black could have made a better ko.])
+(;B[am];W[cr];B[an];W[aq]C[Black could have made a better ko.])))
+(;W[ar];B[an];W[ap];B[am]C[White is dead.]))
+(;W[ds];B[bq];W[aq];B[ao];W[an];B[ar];W[bp];B[ap];W[aq];B[ap];W[ao]C[White is dead.RIGHT]))
+(;B[bq];W[bs];B[ds];W[cs];B[es];W[cr];B[an];W[ar];B[aq];W[ao];B[am]C[Ten-thousand year ko.])
+(;B[ds];W[cs];B[es];W[cr];B[bq];W[bs]
+(;B[an];W[ar];B[aq];W[ao]C[Ten-thousand year ko.])
+(;B[ar];W[an]
+(;B[bp];W[ap]C[Seki.])
+(;B[am]
+(;W[ap];B[bp]C[Seki.])
+(;W[bp];B[ap]C[Seki.]))
+(;B[ap];W[bp];B[am]C[Seki.]))))

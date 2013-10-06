@@ -1,0 +1,26 @@
+(;GE[life and death]DI[5k]DP[32]SO[hello]CO[8]SZ[19]AW[bg]AW[cg]AW[dg]AW[eg]AW[fg]AW[ch]AW[fh]AW[di]AW[fi]AW[fj]AW[fk]AW[cl]AW[dl]AW[el]AW[cn]AB[bh]AB[dh]AB[eh]AB[ai]AB[ci]AB[ei]AB[cj]AB[ej]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[bj];B[bk]
+(;W[ck];B[ak]
+(;W[dj];B[dk];W[dj]C[RIGHT])
+(;W[bi];B[aj]
+(;W[dj];B[dk];W[dj]C[RIGHT])
+(;W[bi];B[ah];W[dj];B[dk];W[dj]C[RIGHT])))
+(;W[bl];B[ck]))
+(;W[ck];B[bj];W[dj];B[dk];W[dj];B[bk])
+(;W[bk];B[bj])
+(;W[ag];B[bk]
+(;W[bl];B[ak])
+(;W[ck];B[dj];W[bi];B[bj];W[ah];B[bi])
+(;W[bi];B[bj];W[ah];B[bi]))
+(;W[aj];B[bk]
+(;W[ck];B[dj])
+(;W[ag];B[dj]))
+(;W[ak];B[bk]
+(;W[ck];B[bj];W[dj];B[dk];W[dj];B[bl])
+(;W[bl];B[bj])
+(;W[ag];B[bl];W[bi];B[bj];W[ah];B[bi]))
+(;W[dj]
+(;B[bj]C[CHOICE]
+(;W[ek]LB[bk:A]C[Now black can live (with 'A' for example). White should have captured all black's stones.])
+(;W[dk]LB[bk:A]C[Now black can live (with 'A' for example). White should have captured all of black's stones.]))
+(;B[dk];W[bj];B[bk];W[ck]C[If black plays like this, it reverts to white's correct sequence])))

@@ -1,0 +1,98 @@
+(;GE[life and death]DI[7k]DP[42]SO[zwim]CO[0]AB[bb]AB[db]AB[cc]AB[cd]AB[be]AB[bf]AB[af]AW[eb]AW[fb]AW[dc]AW[dd]AW[ce]AW[cf]AW[ag]AW[bg]AW[df]AW[bd]TR[af]TR[bf]TR[be]C[Black missed the opportunity to protect at A, so white cut and triangle stones are almost dead. But can you help black who has sente to survive in the corner anyway ?]LB[bd:A]AP[goproblems]
+(;B[bc];W[ae]C[]
+(;B[da]
+(;W[ba]C[CHOICE]
+(;B[ca]C[Black is safe because he can A19 anytime (for example if white plays E19) and then A18 and A17 are miai for life.RIGHT])
+(;B[ac];W[ea]
+(;B[cb];W[aa])
+(;B[aa];W[ab]))
+(;B[aa];W[ab];B[ac];W[ad]C[A19 corner becomes a ko fight, black can do better and live unconditionnally.])
+(;B[cb];W[ea]C[Black has reduced his eye potential in C18. Now A17 leaves him with bent 4, and A18 is even worse. The only chance would be A19 but this is met by simple retake in A18.]))
+(;W[ea]
+(;B[ca]C[A17 and A18 are miai for life, white cannot kill black anymore.RIGHT])
+(;B[ba]C[A17 and A18 are miai for life, white cannot kill black anymore.RIGHT])
+(;B[ab];W[ba]))
+(;W[ac];B[ab];W[ba];B[ca];W[ea];B[aa]C[RIGHT]))
+(;B[ac];W[da]
+(;B[ca];W[cb]
+(;B[ad];W[ba];B[be];W[af])
+(;B[ba];W[db];B[ad];W[be])
+(;B[aa];W[db]C[B19 is false eye.]))
+(;B[cb];W[ca]
+(;B[ba];W[ad])
+(;B[ad];W[be];B[ba];W[ea]))
+(;B[aa];W[cb]))
+(;B[ca];W[ac]C[CHOICE]
+(;B[da];W[ab]
+(;B[aa];W[ba])
+(;B[ba];W[ea];B[aa];W[ad]))
+(;B[ab]C[White cannot kill black anymore, and because he has to protect A17, black can even grab a point in E19.RIGHT])
+(;B[ba];W[ab];B[aa];W[ad])
+(;B[cb];W[ab])
+(;B[aa]C[White cannot take D19, and A18 is met by A16, so black is safe.RIGHT]))
+(;B[ba];W[da]
+(;B[cb];W[ac];B[ab];W[ad])
+(;B[ca];W[cb];B[ac]))
+(;B[ad])
+(;B[aa];W[da];B[cb];W[ca])
+(;B[ab];W[da];B[cb];W[ca]))
+(;B[ca];W[bc]
+(;B[ab];W[cb];B[cc];W[cd];B[cb];W[ae])
+(;B[cb];W[ab])
+(;B[ac];W[cb];B[cc];W[cd]
+(;B[da];W[cb])
+(;B[cb];W[ad]C[Black can eventually force a ko fight by playing A19. But you can do better, try to live unconditionnally.])))
+(;B[da];W[bc]
+(;B[cb];W[ab])
+(;B[ca];W[cb])
+(;B[ac];W[cb])
+(;B[ab];W[cb])
+(;B[ba];W[cb]))
+(;B[ad];W[ae]
+(;B[bc];W[ac]
+(;B[da];W[ab]C[Only 1 eye.])
+(;B[ab];W[da]
+(;B[cb];W[ca])
+(;B[ca];W[cb];B[ad];W[ba];B[be];W[af];B[aa];W[ca])
+(;B[ad];W[be]
+(;B[cb];W[ac];B[ca];W[ad];B[ea];W[fa]C[D19 is false eye.])
+(;B[ca];W[cb];B[ba];W[db]C[A17 is false eye.]))))
+(;B[ac];W[da]C[]
+(;B[cb];W[ca]
+(;B[ba];W[ea];B[bc];W[be])
+(;B[bc])
+(;B[aa];W[be]))
+(;B[bc];W[be]
+(;B[cb];W[ca])
+(;B[ca];W[cb];B[ba];W[db])
+(;B[ba];W[cb];B[ca]))
+(;B[ca];W[cb]
+(;B[ba];W[bc])
+(;B[bc])
+(;B[be];W[bc];B[af];W[ba])))
+(;B[ab];W[bc]C[]
+(;B[cb];W[ac];B[da];W[ba])
+(;B[ca];W[cb];B[cc];W[ac];B[da];W[cd];B[cb];W[ea]))
+(;B[ca];W[bc];B[cb];W[ac])
+(;B[da];W[bc];B[cb];W[ac];B[ab])
+(;B[cb];W[ac];B[ab];W[da])
+(;B[ba];W[bc];B[cb];W[da])
+(;B[be]C[White simply B14.NOTTHIS]))
+(;B[ab];W[bc]
+(;B[cb];W[da];B[ac];W[ae];B[ad];W[be])
+(;B[ca]))
+(;B[ac];W[da]
+(;B[cb];W[ca]
+(;B[ba];W[ea];B[ad];W[ae])
+(;B[bc];W[ae])
+(;B[ad];W[ae]))
+(;B[ca];W[cb]
+(;B[ba];W[bc])
+(;B[aa];W[bc])
+(;B[bc];W[ae];B[db];W[ea]C[Black needs C18 and A19, he cannot do both at the same time.]))
+(;B[ae]C[This move looks silly but in fact it allows later a cut at B15 for black, white has to be careful and is forced to take B15 first (anyway, the line is not good ultimately for black).];W[ad]
+(;B[bc];W[be];B[cb];W[ca])
+(;B[cb]C[White cannot push in B17 because of the cut at B15.];W[be]
+(;B[ca];W[aa])
+(;B[aa];W[ca]))))
+(;B[ae];W[bc];B[cb];W[ad]C[Black has no life potential (he needs D19, B19 and A18, white won't let him...).]))

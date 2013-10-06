@@ -1,0 +1,35 @@
+(;GE[life and death]DI[3d]DP[10]SO[ocho]CO[7]AB[sq]AB[rr]AB[qq]AB[pq]AB[oq]AB[nr]AB[os]AW[nq]AW[mq]AW[mr]AW[op]AW[pp]AW[qp]AW[rp]AW[rq]AW[kr]AP[goproblems]
+(;W[qs];B[qr]
+(;W[ms];B[rs]
+(;W[ns];B[ps])
+(;W[sr];B[ps])
+(;W[or];B[ps]))
+(;W[pr];B[ps];W[ns])
+(;W[ps];B[pr])
+(;W[sr];B[ps]))
+(;W[ms];B[qs]
+(;W[pr];B[or])
+(;W[ns];B[or])
+(;W[or];B[pr])
+(;W[sr];B[ss]))
+(;W[pr];B[qr]
+(;W[ms];B[sr];W[or];B[ps])
+(;W[rs];B[sr])
+(;W[sr];B[ss]))
+(;W[qr];B[qs])
+(;W[rs];B[qs];W[pr];B[qr])
+(;W[or];B[pr]
+(;W[qs];B[qr])
+(;W[ms];B[ns]))
+(;W[sr];B[ss]C[Actually black should have played at A which leads to ko. T1 is unreasonable. Now kill black!]LB[pr:A];W[qs]
+(;B[ps]
+(;W[ms];B[qr];W[or]C[RIGHT])
+(;W[qr];B[pr];W[ms]C[RIGHT])
+(;W[pr];B[qr])
+(;W[or];B[pr];W[ms];B[ns]))
+(;B[qr]
+(;W[ms]C[RIGHT])
+(;W[ps];B[pr];W[ms];B[rs];W[ns]C[RIGHT])))
+(;W[ps];B[qs]
+(;W[pr];B[sr])
+(;W[sr];B[pr])))

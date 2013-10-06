@@ -1,0 +1,82 @@
+(;GE[life and death]DI[4k]DP[29]SO[morten]CO[0]AB[gb]AB[gc]AB[gd]AB[hd]AB[ie]AB[je]AB[kd]AB[ld]AB[kf]AB[mc]AB[mb]AW[hb]AW[hc]AW[id]AW[jd]AW[jc]AW[lb]AW[lc]C[What can white do?]AP[goproblems]
+(;W[ib]
+(;B[la]
+(;W[kb];B[ka];W[ja]C[White livesRIGHT])
+(;W[ka];B[kb]
+(;W[kc])
+(;W[jb];B[kc];W[ja];B[ha]C[Oops])
+(;W[ja];B[kc];W[ha];B[jb]C[Oops]))
+(;W[kc];B[ja]C[Oops])
+(;W[jb];B[kc];W[kb];B[ka]C[Oops])
+(;W[ja];B[kb]
+(;W[kc];B[ka]
+(;W[jb])
+(;W[ha]C[RIGHT]))
+(;W[jb]
+(;B[ha];W[kc]C[White livesRIGHT])
+(;B[kc];W[ha]C[RIGHT]))
+(;W[ka])
+(;W[ha];B[jb]C[Oops]))
+(;W[ma]
+(;B[kb]
+(;W[kc]C[RIGHT]
+(;B[ka];W[jb];B[na])
+(;B[na];W[jb];B[ka];W[ja];B[ha];W[ma]C[RIGHT])
+(;B[jb];W[ka]C[RIGHT])
+(;B[ja];W[ka];B[ia];W[jb];B[ha];W[ga]C[RIGHT]))
+(;W[ka];B[kc])
+(;W[jb];B[kc])
+(;W[ja];B[kc]))
+(;B[kc];W[ka];B[kb]
+(;W[jb];B[ha])
+(;W[ha];B[jb]))))
+(;B[kc]
+(;W[kb];B[ja]
+(;W[jb]C[White lives!RIGHT])
+(;W[ka]C[White lives!RIGHT])
+(;W[ia]C[White lives!RIGHT])
+(;W[la];B[jb]C[Oops])
+(;W[ha];B[jb]C[Oops]))
+(;W[la];B[kb])
+(;W[jb];B[kb])
+(;W[ja])
+(;W[ka];B[kb]))
+(;B[kb]
+(;W[kc];B[la]
+(;W[jb];B[ka]
+(;W[ja];B[ma];W[ha]C[White lives!RIGHT])
+(;W[ha];B[ja]C[Oops]))
+(;W[ka];B[ja];W[jb];B[ka];W[ia];B[ma]C[Oops])
+(;W[ja]C[White livesRIGHT]))
+(;W[jb];B[kc]C[Oops])
+(;W[la];B[kc]C[Oops])
+(;W[ka];B[kc]C[Oops])))
+(;W[ja];B[kc]
+(;W[kb];B[ib];W[la];B[ha]C[Oops])
+(;W[ib];B[kb]
+(;W[ha];B[jb]C[Oops])
+(;W[jb];B[ha]C[Oops]))
+(;W[jb];B[kb]
+(;W[ib])
+(;W[ha]))
+(;W[ka];B[kb];W[jb]C[This dies in gote! Black will tenuki.])
+(;W[ha];B[kb]
+(;W[jb];B[ib]C[OOps])
+(;W[ib]))
+(;W[ia];B[ib]
+(;W[kb];B[la]C[Oops])
+(;W[la];B[kb]C[Oops])))
+(;W[jb];B[kc];W[kb];B[ia]
+(;W[ha];B[ib]
+(;W[ja];B[la]C[Oops])
+(;W[ic]C[This dies in gote! Black will tenuki.]))
+(;W[ib];B[ha];W[ja];B[la];W[ga];B[ha]C[Oops])
+(;W[ja];B[ha];W[la];B[ib]C[Oops]))
+(;W[ha];B[kc]
+(;W[kb];B[jb];W[ic];B[ja]C[Oops])
+(;W[jb];B[kb];W[ja];B[ib]C[Oops])
+(;W[ib];B[jb]C[Oops]))
+(;W[kc];B[ib]C[Oops])
+(;W[kb];B[ib]C[Oops])
+(;W[la];B[ib]C[Oops])
+(;W[ka];B[ib]C[Oops]))

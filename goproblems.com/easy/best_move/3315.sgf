@@ -1,0 +1,21 @@
+(;GE[best move]DI[5k]DP[32]SO[Hans]CO[8]AW[dr]AW[er]AW[eq]AW[fq]AW[gr]AW[hq]AW[hp]AW[ip]AW[jp]AW[jq]AW[jr]AW[js]AW[ds]AB[cs]AB[cr]AB[cq]AB[dq]AB[fp]AB[ep]AB[gp]AB[gq]AB[ho]AB[io]AB[jo]AB[ko]AB[kp]AB[kq]AB[kr]AB[ks]AB[fs]AW[fr]AB[hr]C[White to play.]LB[bo:P]AP[goproblems]
+(;W[hs];B[ir]LB[bo:P]
+(;W[gs]C[RIGHT])
+(;W[is];B[gs]
+(;W[iq];B[hr]
+(;W[ir];B[hr])
+(;W[es];B[gs]
+(;W[ir];B[hr])
+(;W[fs];B[gs])))
+(;W[es];B[gs]
+(;W[iq];B[hr]
+(;W[ir];B[hr])
+(;W[fs];B[gs]))
+(;W[fs];B[gs])))
+(;W[bo];B[gs];W[es];B[gs];W[fs]))
+(;W[ir];B[hs]C[White is dead.])
+(;W[is];B[gs])
+(;W[gs];B[hs]
+(;W[es];B[fs])
+(;W[ir];B[es]))
+(;W[bo];B[gs]))

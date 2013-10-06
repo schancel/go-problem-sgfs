@@ -1,0 +1,31 @@
+(;GE[life and death]DI[6d]DP[0]SO[kvzrock]CO[0]LB[bc:YES]LB[dc:No]C[Can this stone be killed?]AB[ar]CA[gb2312]AP[goproblems]MULTIGOGM[1]
+(;B[bc]AW[ar]C[Really? Try it out.];W[ar]
+(;B[bq];W[br];B[cq];W[cr]
+(;B[dr];W[dq];B[er];W[eq];B[fq];W[fp];B[gq];W[co];B[bo];W[bp];B[cp];W[dp];B[ap];W[aq];B[bp];W[bn]C[White lives.])
+(;B[dq];W[dr];B[er];W[fr];B[eq];W[ds];B[bs];W[es];B[gq];W[gr];B[hq];W[hr];B[ir];W[iq];B[jr];W[jq];B[kq];W[kp];B[lq];W[fq];B[fp];W[ep]
+(;B[go];W[co];B[dp];W[bp];B[aq];W[eo];B[do];W[fo];B[gp];W[dn];B[en];W[fn];B[cn];W[em];B[bo];W[ap])
+(;B[fo];W[co]
+(;B[do];W[bp];B[aq];W[dp])
+(;B[dp];W[bp];B[aq];W[eo];B[do];W[en];B[dn];W[hp];B[gp];W[fn];B[go];W[ho]))))
+(;B[cq];W[bp])
+(;B[br];W[bq]))
+(;B[dc]C[Okay. Prove it];W[bq];B[br];W[cq];B[cr];W[dq];B[dr];W[er];B[fr];W[eq]
+(;B[ds];W[bs];B[es];W[gq];B[gr];W[hq];B[hr];W[ir];B[iq];W[jr];B[jq];W[kq];B[kp];W[lq];B[fq];W[fp]
+(;B[ep];W[go]
+(;B[co]C[Tesuji]
+(;W[dp];B[bp];W[aq];B[eo];W[do];B[fo];W[gp];B[dn];W[en];B[fn];W[cn];B[em];W[bo];B[ap]C[RIGHT])
+(;W[fs];B[gs];W[is];B[kr];W[lr];B[bp];W[aq];B[dp];W[ks];B[cp]C[RIGHT])
+(;W[bo];B[bp];W[cp];B[aq];W[ap];B[dp];W[bp];B[bn]C[RIGHT])
+(;W[cp];B[bp];W[bo];B[aq];W[ap];B[dp];W[bp];B[bn]C[RIGHT]))
+(;B[eo];W[co])
+(;B[dp];W[co]))
+(;B[fs];W[hs];B[ep];W[go]
+(;B[co]C[Tesuji];W[dp];B[bp];W[aq];B[eo];W[do];B[fo];W[gp];B[dn];W[en];B[fn];W[cn];B[dm];W[bo];B[ap]C[RIGHT])
+(;B[bp];W[co];B[cp];W[dp];B[aq];W[eo]
+(;B[bo];W[cn];B[bn];W[bm])
+(;B[bn];W[bo];B[ao];W[ap];B[bp];W[cm];B[bm];W[cl];B[bl];W[bk]))))
+(;B[es];W[ds];B[cs];W[gq];B[gr];W[hq];B[hr];W[ir];B[iq];W[jr];B[jq];W[kq];B[kp];W[lq];B[fq];W[fp];B[ep];W[go];B[fs];W[hs]
+(;B[co]C[Tesuji!];W[dp];B[bp];W[aq];B[eo];W[do];B[fo];W[gp];B[dn];W[en];B[fn];W[cn];B[em];W[bo];B[ap]C[RIGHT])
+(;B[eo];W[co])
+(;B[dp];W[co])
+(;B[bp];W[co];B[cp];W[dp];B[aq];W[eo];B[bo];W[cn];B[bn];W[bm]))))

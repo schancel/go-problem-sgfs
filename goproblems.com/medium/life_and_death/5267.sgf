@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[18]SO[munisai79]CO[8]C[Assuming neither side has ko threats and it is black's turn, what is the status of the white group?  Is it unconditionally (A)live?  In (S)eki?  (D)ead?FORCE]AB[pa]AB[oa]AB[ob]AB[oc]AB[pc]AW[pb]AW[qb]AW[qa]AW[qc]AW[rd]AW[re]AW[rf]AW[sf]AW[qf]AB[qd]AB[pd]AB[qe]AB[pf]AB[pg]AB[qg]AB[rg]AB[sg]AB[jg]LB[jd:A]LB[ld:S]LB[nd:D]AP[goproblems]
+(;B[jd]C[No, please navigate to see why.])
+(;B[nd]C[No, please navigate to see why.])
+(;B[ld];W[le]C[Prove it!]
+(;B[sc];W[sb]
+(;B[rb];W[rc];B[sa];W[sd])
+(;B[rc];W[rb]))
+(;B[rc];W[rb];B[sc];W[sb])
+(;B[rb];W[rc]
+(;B[sc];W[sd];B[sa];W[sb]C[Black has no ko threats with which to fight this.])
+(;B[sb];W[sc])
+(;B[ra];W[sb]))
+(;B[sb]
+(;W[sc]C[CHOICE]
+(;B[sd];W[rc]C[White has no ko threats, so S18 is not possible.];B[ra]C[Great job!RIGHT])
+(;B[ra];W[rc];B[sd]C[Great job!RIGHT])
+(;B[rb];W[rc]))
+(;W[rc]C[CHOICE]
+(;B[sc]
+(;W[sd]C[CHOICE];B[ra]C[Great job!RIGHT])
+(;W[rb]C[CHOICE];B[sd]C[Great job!  White has no ko threats, so T19 is not possible.RIGHT]))
+(;B[ra];W[rb])
+(;B[rb];W[sc])
+(;B[sd]
+(;W[rb]C[CHOICE];B[sc]C[Great job!  Without ko threats, white cannot play T19.RIGHT])
+(;W[sc]C[CHOICE];B[ra]C[Great job!RIGHT])))
+(;W[rb]C[CHOICE]
+(;B[sd];W[rc]C[With no ko threats, white cannot play T17.];B[sc]C[Great job!  White has no ko threats, so T19 is not possible.RIGHT])
+(;B[sc];W[sd];B[ra];W[sa]C[Black has no ko threats.])))
+(;B[sd]
+(;W[sc]C[CHOICE];B[sb];W[rc];B[ra]C[Great job!RIGHT])
+(;W[rb]C[CHOICE];B[sb];W[rc]C[White cannot play T17 due to lack of ko threats.];B[sc]C[Great job!  Since white has no ko threats, T19 is not possible.RIGHT])
+(;W[rc]C[CHOICE]
+(;B[sb]
+(;W[sc]C[CHOICE];B[ra]C[Great job!RIGHT])
+(;W[rb]C[CHOICE];B[sc]C[Great job!  White cannot play T19 due to a lack of ko threats.RIGHT]))
+(;B[ra];W[sb])))))

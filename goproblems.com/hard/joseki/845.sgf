@@ -1,0 +1,107 @@
+(;GE[joseki]DI[4d]DP[7]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[op][qp]AB[pm][np][oq]
+LB[oq:1][qp:2][pm:3][op:4][np:5]PL[2]
+C[you decide to answer 3 with 4. how to continue?
+]
+(;W[oo];B[pq]
+(;W[qq];B[qn]C[now, how to protect the cut?
+]
+(;W[qo];B[nm]
+C[now, how's the best way to break out of this? you need a good move here.
+]
+(;W[mm]
+(;B[nl]
+(;W[nn]LB[lp:A][ln:B]
+C[RIGHT
+next black usually protects around A and white plays B
+])
+
+(;W[mo]C[slow
+])
+
+(;W[no];B[mp]C[helps black fix his shape
+])
+
+(;W[mn]C[slow
+])
+)
+
+(;B[no]C[what if black tries to cut?
+];W[nn];B[on];W[mn];B[mq];W[nl];
+B[om];W[pk]
+C[black dies first. however, if there are other stones on the board, this delicate sequence can change significantly.
+])
+
+(;B[nn]C[black can't do this. white can push and cut.
+])
+)
+
+(;W[nn];B[mm]LB[nl:A]
+C[even though this move is commonly played, it is a mistake with no other stones on the board. letting black play here instead of A is bad for white.
+])
+
+(;W[nq]
+C[this aji is important, but playing here immediately is premature
+])
+
+(;W[on];B[om]C[good for black
+])
+
+(;W[no];B[mp]
+C[white is pushing from behind, and in doing so helping black fix an important weakness while making territory.
+])
+
+(;W[mn];B[mm]
+C[white still needs to protect the cut eventually, and so letting black answer here is not optimal
+])
+
+(;W[mp];B[mq]C[black's weakness is gone
+])
+
+(;W[mo];B[mp]C[good for black
+])
+)
+
+(;W[pp]LB[qo:A]
+C[though this is sente against the two black stones, there's an important difference between playing here and playing at A. with a white stone at A, white is alive in the corner in gote. in this bad shape, white needs another move.
+])
+
+(;W[no];B[mp]
+C[this pushing from behind helps black make territory while fixing an important weakness
+])
+)
+
+(;W[qo];B[qq]C[letting black get the 3-3 point is too bad
+])
+
+(;W[qn];B[qq]C[too good for black
+])
+
+(;W[pp];B[qq]C[bad
+])
+
+(;W[no];B[mp]C[pushing from behind helps black
+])
+)
+
+(;W[pq];B[oo]C[good for black
+])
+
+(;W[pp]C[slow
+])
+
+(;W[no];B[mp]C[white is pushing from behind
+])
+
+(;W[qn];B[oo])
+
+(;W[po];B[oo])
+
+(;W[pn];B[oo])
+
+)

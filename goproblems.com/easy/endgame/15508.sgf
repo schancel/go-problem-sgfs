@@ -1,0 +1,12 @@
+(;GE[endgame]DI[7k]DP[40]SO[DarkSycthe]CO[0]AB[cp]AB[dp]AB[ep]AB[fp]AB[gp]AB[gq]AB[gr]AB[hq]AW[hr]AW[iq]AW[ip]AW[io]AW[ko]AB[kr]AB[kq]AB[lp]AB[mq]AB[nr]AB[ks]MA[hr]C[What is the best way to connect the marked stone? Assume that black will tenuki after your connection and that you have significantly more ko threats.]AP[goproblems]
+(;W[is]LB[jr:A]C[RIGHT];B[lq]C[Since the peep at A is worth nothing, this connection is viable. For reasons why this is the best, continue playing. We assume black tenukis because a descent is not sente.]LB[jr:A];W[gs];B[fs]
+(;W[fr]C[White can start a semi-picnic ko like thisRIGHT])
+(;W[hs];B[fr]C[If white is behind in ko threats, White can connect anyway, yielding the same result as other paths. The option of the ko makes the hanging connection strictly better.RIGHT]))
+(;W[ir];B[lq]C[Not optimal. For reasons why, continue playing. We assume black tenukis because a descent is not sente.];W[gs];B[fs];W[hs];B[fr]C[White has only this option. Compare with the correct path.])
+(;W[jr];B[lq]C[Not optimal. Black really should atari, but for comparison purposes, we'll assume black tenukis.];W[gs];B[fs];W[hs];B[js]
+(;W[ir];B[fr]C[White has only this option. Compare with the correct path.])
+(;W[fr];B[ir]
+(;W[es];B[jq])
+(;W[is];B[ir])))
+(;W[gs];B[ir]C[Oops])
+(;W[hs];B[gs]C[Ends in gote for white.]))

@@ -1,0 +1,134 @@
+(;GE[endgame]DI[2d]DP[12]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[ea][fa][ga][ab][bb][eb][cc][dc][ec][dd][gd][de][df][dg][eg]AB[da][fb][gb][ac][bc][fc][cd][ed][fd][ae][be][ce][fe][cf][ef][fg]C[No komi, no prisoners - White to play and draw!]PL[W]
+(;W[gf]CR[gf]
+(;B[ff]CR[ff]
+(;W[ge]CR[ge]
+(;B[ba]CR[ba]
+;W[cb]CR[cb]
+;B[ca]CR[ca]
+(;W[bg]CR[bg]
+;B[cg]CR[cg]
+(;W[af]CR[af]C[The third seki (Black can't play B b2  because of W a4 or W b4) - and a jigo! RIGHT])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[af]CR[af]C[Black wins by one point! There was no need to sacrifice a stone....])
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[af]CR[af]C[Black wins by one point! There was no need to sacrifice a stone....]))
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by 1 point! There was no need to sarifice a stone...])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by one point! There was no need to sacrifice a stone....])
+(;W[cg]CR[cg]
+;B[bg]CR[bg]C[Black wins by five points!]))
+(;B[cg]CR[cg]
+;W[ca]CR[ca]C[This is also a jigo.]))
+(;W[ca]CR[ca]
+(;B[ge]CR[ge]
+(;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Jigo! RIGHT CHOICE])
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by one point! There is no need to sacrifice a stone....])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by one point! There is no need to sacrifice a stone...]))
+(;B[cg]CR[cg]
+;W[ge]CR[ge]C[Jigo! RIGHT CHOICE]))
+(;W[cb]CR[cb]
+(;B[ge]CR[ge]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Jigo! RIGHT CHOICE])
+(;B[cg]CR[cg]
+;W[ge]CR[ge]C[Jigo! RIGHT CHOICE])))
+(;B[ge]CR[ge]
+;W[ff]CR[ff]
+;B[gg]CR[gg]
+;W[ff]CR[ff]
+(;B[ee]CR[ee]
+;W[gf]CR[gf]C[Black is dead - there is no time for B f1])
+(;B[gf]CR[gf]
+;W[ee]CR[ee]C[Black is dead!])))
+(;W[ee]CR[ee]
+;B[ff]CR[ff]
+(;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]
+;B[cb]CR[cb]C[Uh-oh.... ATARI!])
+(;W[ca]CR[ca]
+;B[cg]CR[cg]C[This is a 6 point loss for white.])
+(;W[cg]CR[cg]
+;B[cb]CR[cb]C[White is dead!]))
+(;W[bg]CR[bg]
+;B[cg]CR[cg]
+(;W[af]CR[af]
+;B[cb]CR[cb]C[White is dead!])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[af]CR[af]
+;B[cb]CR[cb]C[White is dead!])
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[af]CR[af]
+;B[cb]CR[cb]C[White is dead!]))
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]
+;B[cb]CR[cb]C[White is dead!])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]
+;B[cb]CR[cb]C[White is dead!])
+(;W[ca]CR[ca]
+;B[ee]CR[ee]
+(;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by one point!])
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by two points!])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+;W[af]CR[af]C[Black wins by two points!]))
+(;W[cb]CR[cb]
+;B[ee]CR[ee]
+;W[bg]CR[bg]
+;B[cg]CR[cg]
+(;W[af]CR[af]C[Black wins by one point!])
+(;W[ad]CR[ad]
+;B[bd]CR[bd]
+;W[af]CR[af]C[Black wins by two points!])
+(;W[bd]CR[bd]
+;B[ad]CR[ad]
+;W[af]CR[af]C[Black wins by two points!]))
+(;W[cg]CR[cg]
+;B[bg]CR[bg]
+(;W[ee]CR[ee]
+;B[ff]CR[ff]
+(;W[cb]CR[cb]C[Black wins by five points!])
+(;W[ca]CR[ca]C[Black wins by five points!]))
+(;W[gf]CR[gf]
+;B[ff]CR[ff]
+;W[ge]CR[ge]
+;B[cb]CR[cb]C[White is dead!])))

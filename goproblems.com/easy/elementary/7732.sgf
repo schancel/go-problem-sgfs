@@ -1,0 +1,34 @@
+(;GE[elementary]DI[15k]DP[63]SO[maba]CO[8]AW[km]AW[lm]AW[ll]AW[lk]AW[jl]AW[il]AW[ik]AW[ij]AB[jj]AW[kj]AW[ki]AW[kh]AW[jh]AW[hi]AW[hh]AW[hg]AW[ig]AB[hk]AB[hl]AB[im]AB[jm]AB[kn]AB[ln]AB[mm]AB[mk]AB[ml]AB[lj]AB[li]AB[lh]AB[kg]AB[if]AB[gg]AB[gi]AB[gh]AB[hm]AB[lg]AB[jf]C[What can black to here?]AB[hj]AB[gf]AB[ge]AP[goproblems]
+(;B[kk]
+(;W[kl]
+(;B[ii]
+(;W[jk]C[CHOICE]
+(;B[kk]C[White should have given up four stones and live.RIGHT])
+(;B[ji];W[ih])
+(;B[ih];W[ji])
+(;B[jg];W[ji];B[hf];W[ih])
+(;B[hf];W[ji];B[jg];W[ih]))
+(;W[ji]C[CHOICE]
+(;B[jk]C[RIGHT])
+(;B[jg];W[jk];B[hf];W[ih])
+(;B[hf];W[jk];B[jg];W[ih])))
+(;B[jk];W[ji])
+(;B[ji];W[ii]))
+(;W[jk]
+(;B[kl];W[ji]C[This is the way white should play.RIGHT])
+(;B[ii];W[ji];B[kl];W[ih]C[RIGHT]))
+(;W[ji]
+(;B[kl];W[jk]C[RIGHT])
+(;B[ii]
+(;W[kl];B[jk]C[RIGHT])
+(;W[jk];B[kl];W[ih]C[RIGHT]))
+(;B[jk];W[kl]))
+(;W[ii]
+(;B[jk];W[kl])
+(;B[kl];W[jk]C[RIGHT])))
+(;B[jk];W[kk])
+(;B[kl];W[kk])
+(;B[ji];W[kk])
+(;B[ii];W[kk];B[jk];W[ji])
+(;B[jg];W[kk])
+(;B[hf];W[kk]))

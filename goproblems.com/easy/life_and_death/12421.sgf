@@ -1,0 +1,14 @@
+(;GE[life and death]DI[8k]DP[46]SO[elciego]CO[0]AB[ac]AB[ab]AB[bb]AB[cb]AW[ad]AW[be]AW[ae]AW[cc]AW[bc]AW[cd]AW[ce]AW[db]AW[eb]AW[fb]AW[dc]AB[gb]AB[gc]AB[fc]AB[ec]AB[ib]AB[dd]AB[de]AB[cf]AB[bf]AB[af]AB[df]C[Black played the marked stone; White to live]AB[da]TR[da]AP[goproblems]
+(;W[ba]
+(;B[ca]C[CHOICE]
+(;W[ea]C[Correct!RIGHT])
+(;W[fa];B[ga]C[Seki; White could've killed]))
+(;B[fa]C[CHOICE]
+(;W[ca];B[aa]
+(;W[ca]C[Correct!RIGHT])
+(;W[ea];B[bd]C[:(]))
+(;W[ea];B[bd]C[:(])))
+(;W[ca];B[ba]
+(;W[fa]C[Seki; White could've killed])
+(;W[ea]C[Ko; White could've killed]))
+(;W[ea];B[ba]C[Ko; White could've killed]))

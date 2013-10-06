@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[1k]DP[18]SO[Field Mouse]CO[0]AW[cp]AW[cn]AW[dl]AB[cm]AB[cl]AB[dk]AW[dn]AW[el]AW[kq]AW[jp]AW[ko]AB[io]AB[jo]AW[ek]AW[ej]AB[dh]AB[ei]AB[fi]AB[in]AB[im]AB[il]AB[hj]AB[hk]AW[fp]AW[hq]AW[ip]AB[hp]AB[ho]AW[gm]AW[bn]AW[bo]AB[bm]AB[bk]AB[an]AW[ao]AB[am]AB[gj]AW[dj]AW[cj]AB[ck]AB[bj]AB[bi]AB[ch]AW[di]AB[eh]AB[bh]AP[goproblems]
+(;B[gp];W[gq];B[fo]
+(;W[eo];B[ep];W[fq];B[en];W[do];B[dm];W[fn];B[em]TR[el]TR[ek]TR[ej]TR[dl]C[Nice, the marked stones will be captured.CHOICERIGHT]TR[dj]TR[cj]TR[di])
+(;W[ep];B[dm]C[Black cuts off the part of the white groupRIGHT])
+(;W[en];B[ep];W[fq];B[eo];W[eq]C[The correct way for white.RIGHT]))
+(;B[fo];W[gp]C[CHOICE]
+(;B[fn]LB[fm:A]LB[dm:B]LB[eo:C]C[Good, with continuation on A,B and CRIGHT])
+(;B[eo];W[go];B[em];W[dm];B[fm];W[gn];B[fl];W[ep])
+(;B[go];W[en];B[eo];W[ep];B[do];W[dp]C[Could do a bit better.])
+(;B[en]C[Looks fineRIGHT]))
+(;B[dm];W[em];B[fo];W[eo];B[fn];W[en])
+(;B[gq];W[gp]
+(;B[gr];W[hr];B[fn];W[en];B[fo];W[eo])
+(;B[fq];W[hr];B[fo];W[ep];B[dm];W[em]
+(;B[eo];W[do])
+(;B[en];W[fn])
+(;B[fn];W[en])))
+(;B[fn];W[en];B[gq];W[gp];B[fq];W[eq];B[er];W[dq];B[hr];W[iq];B[ir];W[jr];B[dr];W[cr]
+(;B[fr];W[gs])
+(;B[fs];W[gr];B[fr];W[is];B[gs];W[ds]))
+(;B[em];W[dm]))

@@ -1,0 +1,34 @@
+(;GE[tesuji]DI[7k]DP[44]SO[meek]CO[0]AB[qs]AB[qr]AB[ps]AB[or]AB[rq]AB[rp]AB[qp]AB[qn]AW[pp]AW[qq]AW[pq]AW[pr]AW[nq]AW[sr]AW[rr]C[Use 'Squeeze' tactics to capture black's group on the bottom.  Avoid ko.CHOICE]AP[goproblems]
+(;W[ns];B[nr]
+(;W[rs];B[os];W[mr];B[ms]
+(;W[oq]C[Good work!  Black is caught in a 'connect and die'.FORCERIGHT])
+(;W[ls];B[mq];W[ns]C[You ended up with ko when you could have killed unconditionally. :-(]))
+(;W[mr];B[sq]
+(;W[oq];B[rs];W[os];B[ss]C[Only got part of Black.  He lives.])
+(;W[os];B[ms];W[ls];B[os];W[ns];B[rs];W[oq];B[ss]C[Black lives.])
+(;W[rs];B[ss]C[:-(])))
+(;W[rs];B[os]
+(;W[nr];B[sq];W[oq];B[ss])
+(;W[oq];B[sq];W[nr];B[ss])
+(;W[ns];B[sq]
+(;W[nr];B[ss])
+(;W[oq];B[ss])))
+(;W[nr])
+(;W[oq];B[rs];W[nr];B[sq];W[os];B[ss]C[Black Lives! Try again.])
+(;W[os];B[ns]
+(;W[nr];B[mr]
+(;W[oq];B[sq];W[os]C[Result is ko.  Try again.])
+(;W[ms];B[ls]C[you let him get away!]
+(;W[rs];B[os];W[oq];B[ms];W[mq];B[sq];W[lr];B[ss]C[oops])
+(;W[oq];B[mq];W[os]C[This is only ko. :-(])))
+(;W[rs];B[os]
+(;W[nr];B[sq];W[oq];B[ss];W[rr];B[rs];W[ms];B[sr]C[Black is heavy, but survives.])
+(;W[oq];B[sq];W[ms];B[ss];W[rr];B[mr]C[:-(]))
+(;W[oq];B[rs]
+(;W[ss];B[sq])
+(;W[nr];B[mr];W[os]C[Ko is no good.]))
+(;W[ms];B[mr]C[:-(])
+(;W[mr];B[sq]C[You have halted black's march west, but he lives in the corner.]))
+(;W[sq];B[sp];W[rs];B[ss]C[Nope.])
+(;W[ss];B[sq];W[os];B[ns]C[Black is strong here. :-(])
+(;W[mq];B[mr];W[nr];B[ns];W[oq];B[sq];W[os]C[Still ko...]))

@@ -1,0 +1,18 @@
+(;GE[best move]DI[3k]DP[26]SO[cheyenne]CO[8]SZ[19]AW[pc]AW[jd]AW[pd]AW[qe]AB[nc]AB[qc]AB[qd]LB[pb:D]LB[qb:C]LB[nc:1]LB[pc:4]LB[qc:3]LB[jd:2]LB[qd:5]LB[pe:B]LB[qe:6]LB[re:A]C[White did not follow the normal joseki sequence and played hamete by playing the hane at 6.  How should Black respond? (select A, B C or D)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[re];W[qf];B[rf];W[qg];B[pb];W[ob];B[qb];W[oc]C[After this exchange, White's position is far better then Black])
+(;B[pe];W[qb];B[rb];W[pb];B[re];W[qf]
+(;B[oe];W[rf];B[ra];W[se]C[White starts a tesuji. If White goes for the double atari at S16, black can capture white's group at Q18];B[rc];W[nb];B[mb];W[mc]
+(;B[nd];W[ob];B[lb];W[sc];B[na];W[rd]C[Black loses the corner])
+(;B[md];W[lc];B[ob];W[nd];B[na];W[ne];B[od];W[oc]LB[pe:B]LB[of:A]C[The result is 'ko'.  This sequence is to Whites advantage for two main reasons.  First, White may choose not to play the ko battle and lock Black in the corner by playing at A, giving White a very strong outside stance.  Second, Black's first move (B) is incorrect, and Black has a better move other than the ko battle.]))
+(;B[rf];W[oe];B[pf];W[qg]
+(;B[of];W[ra];B[rc];W[qi];B[rg];W[rh];B[ph];W[qh];B[sg];W[nd]C[After this exchange, Black lives in the corner, However Black's stance on the outside is very weak.])
+(;B[pg];W[qh];B[ph];W[qi];B[pi];W[qj];B[od];W[ra];B[rc];W[nb]C[This exchange was bad for Black])))
+(;B[qb]
+(;W[pe];B[pb];W[qi]C[ Locally White's position is ok. But since he originally wanted to stress the upper side this change in direction is bound to be in Black's favour. Note however that there are other moves for Black to play if this result is not satisfactory.RIGHT])
+(;W[pb];B[pe];W[qf];B[od];W[nb];B[ob]C[CHOICERIGHT]))
+(;B[pb];W[ob];B[qb];W[oc]C[At this juncture the next Black play may be difficult to find.  Try examining this position before proceeding.  (note only the correct response has been provided)];B[qf]
+(;W[pe]C[ You found the tesuji, see if you can play it out.CHOICE];B[re]TR[nd]C[ This is almost the normal joseki outcome, but white has exchanged R15 for S15 now. This is a bad exchange for white; He not only loses a liberty and a ko-threat but also the aji of peeping at S15 later, which means that white R12 is not much of a threat now.RIGHT])
+(;W[re]C[CHOICE];B[pe]
+(;W[rf]C[CHOICE];B[oe];W[nb];B[qg]C[ White must decide which side it is going to lose.  A difficult decision for White.RIGHT])
+(;W[oe]C[CHOICE];B[pf];W[rf];B[nb];W[oa];B[of];W[ne];B[rg]TR[qe]TR[re]TR[rf]C[ The three marked sones are dead and Black's position is superior to White'sRIGHT])
+(;W[qg]C[CHOICE];B[oe]C[ White will either lose the four stones on the upper portion of the board, or the two White stones on the right.RIGHT]))))

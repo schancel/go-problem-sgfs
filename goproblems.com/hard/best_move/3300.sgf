@@ -1,0 +1,17 @@
+(;GE[best move]DI[5d]DP[6]SO[tderz]CO[9]AB[pc]AB[oc]AB[od]AB[nd]AB[md]AB[nb]AB[lc]AB[kc]AB[kd]AB[ke]AW[mc]AW[mb]AW[ld]AW[le]AW[me]AW[ne]AW[oe]AW[pd]AW[qc]AW[qd]C[White to move]AP[goproblems]
+(;W[pb];B[ob]
+(;W[pa];B[qb];W[rb];B[ma]LB[pb:e]LB[qb:f]C[This amounts to not much more than a simple hane e + connection f (with the difference, that white has much better eye shape here. White's eye shape is in this problem however totally irrelevant)])
+(;W[qa]LB[qa:3]C[3 is tesuji];B[lb]C[White has got sente now and could freely chose the approriate moment for descending with a. This move can lead to a sente-seki for white or  a direct ko for both. This is a 'timing' problem (please continue to play on 'a' to see more comments)CHOICERIGHT]LB[ma:a]
+(;W[ma]C[CHOICE]
+(;B[oa]C[CHOICE];W[pa];B[la]C[Sente seki for white.RIGHT])
+(;B[la]C[Wrong move, despite that black fills in an outside liberty, he cannot stop white's connection now ....];W[oa]C[Total loss for black.RIGHT])
+(;B[na]C[CHOICE];W[oa];B[pa]LB[qb:b]LB[la:c]C[Direct ko for both (bb or white c). White has to look for the first threat. It is astonishing that black would start this ko (believing to win it), because, after all white only descended to a, when she thought she could this ko (big for herself too).  The difference to the wrong solution (check the navigate solutions) is thus very subtle: the position is exactly the same but at a different time of white's choice!RIGHT]LB[na:a]))
+(;W[sf]C[Thus white has got sente and plays somewhere else ....CHOICE];B[ma]C[And at a given moment choses to take gote to resolve the situation here. White had thus overall twice sente.RIGHT]))
+(;W[qb]C[not very imaginative!CHOICE]
+(;B[sg]C[if black now tenukis ....CHOICE];W[oa];B[na];W[ma];B[pa];W[nc]C[White was hoping for this result])
+(;B[ma]C[black settlesCHOICE])))
+(;W[oa];B[na];W[pb];B[ob];W[qa]C[If now white a (e.g. after black b) white must fight immediatly the unfavourable ko. Black could also start with c instead of b. If white then chickens out and has to connect at d, she simply lost points, even over the simple hane e + connection d. The correct solution diagram has the same position, but at a different time!]LB[ma:a]LB[lb:b]LB[pa:c]LB[qb:d]LB[pb:e])
+(;W[na];B[oa];W[ma]
+(;B[lb];W[pb];B[la]C[This has the same endgame value as a simple hane e + connection f.  (Black cannot cut at f) White achieved nothing.]LB[pb:e]LB[qb:f])
+(;B[qb]C[mistake];W[pa];B[ob];W[nc];B[pb];W[rb];B[qa];W[ra]C[wrong + wrong =?])
+(;B[pb]C[mistake];W[nc];B[lb];W[ob]C[ko, white erred, then black])))

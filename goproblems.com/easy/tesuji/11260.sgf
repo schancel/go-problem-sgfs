@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[7k]DP[44]SO[gelgoog]CO[0]AB[aq]AB[br]AB[cq]AB[dq]AB[dr]AB[cr]AB[ep]AB[fp]AB[gq]AB[gr]AW[bq]AW[bp]AW[cp]AW[dp]AW[eq]AW[er]AW[fr]AW[ds]AP[goproblems]
+(;W[bs]
+(;B[as]
+(;W[ar]C[Ko, White takes first. If Black plays a ko threat and retakes then White can play A4; if Black next takes C1 White starts the ko anew. So A4 is like a free internal ko threat.RIGHT])
+(;W[ap];B[cs]
+(;W[ar];B[es]
+(;W[fs];B[gs];W[ds];B[aq]C[Black lives with double ko.])
+(;W[bs]C[Direct ko, White takes first. But now White has no internal threats. White F1 just lets Black live with double ko.])
+(;W[aq];B[fs]))
+(;W[es];B[fq])
+(;W[fs];B[gs];W[ar];B[es]C[Black is alive with double ko.]))
+(;W[es];B[cs];W[ap]))
+(;B[ar]
+(;W[ap]C[RIGHT])
+(;W[cs]C[RIGHT])
+(;W[es]C[RIGHT])))
+(;W[ar];B[as]
+(;W[ap];B[fq])
+(;W[cs]
+(;B[fs]
+(;W[ap];B[fq])
+(;W[es];B[gs];W[ap];B[fq]))))
+(;W[ap]
+(;B[fs]
+(;W[ar];B[fq])
+(;W[es];B[fq];W[gs];B[cs])
+(;W[cs];B[fq])
+(;W[bs];B[fq])))
+(;W[cs];B[bs]
+(;W[es];B[fq])
+(;W[ar];B[es])
+(;W[fs];B[gs])
+(;W[ap];B[fs])))

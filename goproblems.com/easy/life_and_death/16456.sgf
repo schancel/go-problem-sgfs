@@ -1,0 +1,74 @@
+(;GE[life and death]DI[5k]DP[32]SO[morten]CO[0]AB[ba]AB[bb]AB[ab]AB[cc]AB[dc]AB[ec]AB[fc]AB[gc]AB[hc]AB[ic]AB[ia]AB[ib]AB[cd]AB[ce]AB[cf]AB[cg]AB[ch]AB[ci]AB[bi]AB[ai]AW[cb]AW[db]AW[eb]AW[fb]AW[gb]AW[hb]AW[ha]AW[ah]AW[bh]AW[bg]AW[bf]AW[be]AW[bd]AW[bc]AB[ea]AB[fa]AB[ga]AB[ag]AB[af]AB[ae]C[Black wants to play here. How many of white's strings can black kill?FORCE]LB[fh:Black is dead]MA[bc]MA[bd]MA[be]MA[bf]MA[bg]MA[bh]MA[ah]MA[cb]MA[db]MA[eb]MA[fb]MA[gb]MA[hb]MA[ha]LB[fe:Both]LB[ff:Only one]LB[fg:Neither - it's a seki]AP[goproblems]
+(;B[fe];W[ge]C[Please show. In a symmetrical position, please play on the left side.]
+(;B[ad];W[ac]
+(;B[ae];W[da]C[Black dies])
+(;B[ca];W[da]C[Black dies])
+(;B[da];W[ca]C[Black dies])
+(;B[af];W[da]C[Black dies]))
+(;B[ac]
+(;W[ad]
+(;B[da];W[ca]C[Black dies])
+(;B[af];W[da]
+(;B[fa])
+(;B[ae];W[fa];B[ag]C[White has one live group.However, there is no rush to play this - if White plays first, Black can kill - see the 'seki' branch. So, best to leave this until the end...]))
+(;B[ca];W[da]C[Black dies]))
+(;W[da]
+(;B[ad];W[fa]C[White has one living group. However, there is no rush to play this - if White plays first, Black can kill - see the 'seki' branch. So, best to leave this until the end...])
+(;B[fa];W[ad]
+(;B[af];W[ca]C[Black dies])
+(;B[ea];W[af]C[White lives with points and in seki. Black can do better.]))))
+(;B[da]C[NOTTHIS])
+(;B[ca]C[NOTTHIS]))
+(;B[ff];W[gf]C[Please show. In a symmetrical position, please play on the left side.]
+(;B[ad];W[ac]
+(;B[ae];W[da]C[Black dies])
+(;B[ca];W[da]C[Black dies])
+(;B[da];W[ca]C[Black dies])
+(;B[af];W[da]C[Black dies]))
+(;B[ac]
+(;W[ad]C[CHOICE]
+(;B[da];W[ca]C[Black dies])
+(;B[af];W[da]
+(;B[fa])
+(;B[ae];W[fa]C[Black can tenuki now, leaving white with one living group. Well done.
+
+However, there is no rush to play this - if White plays first, Black can kill - see the 'seki' branch or problem 16446. So, best to leave this until the end...RIGHT])
+(;B[ag];W[fa]C[Black can tenuki now, leaving white with one living group. Well done.
+
+However, there is no rush to play this - if White plays first, Black can kill - see the 'seki' branch or problem 16446. So, best to leave this until the end...RIGHT]))
+(;B[ca];W[da]C[Black dies]))
+(;W[da]
+(;B[ad];W[fa]C[White has one living group - this is correct. However, there is no rush to play this - if White plays first, Black can kill - see the 'seki' branch or problem 16446. So, best to leave this until the end...RIGHT])
+(;B[fa];W[ad]
+(;B[af];W[ca]C[Black dies])
+(;B[ea];W[af]C[White lives with points and in seki. Black can do better.]))))
+(;B[da]C[NOTTHIS])
+(;B[ca]C[NOTTHIS]))
+(;B[fg];W[ad]C[If it is a seki, white should not want to play either... if he does play, what do you do as black?]
+(;B[da];W[ca]
+(;B[ea];W[ac]C[Black dies - black can do a lot better.])
+(;B[fa];W[ac]C[Black dies - black can do a lot better.])
+(;B[af];W[ac]C[Black dies - black can do a lot better.])
+(;B[ac];W[aa]C[Black dies - black can do a lot better.]))
+(;B[af]
+(;W[da]
+(;B[ag];W[fa]C[White lives - black can do a lot better.])
+(;B[fa];W[ac]
+(;B[ea]C[White dies. White should leave the original position as it is.])
+(;B[ga]C[White dies. White should leave the original position as it is.])
+(;B[ae]C[CHOICE]))
+(;B[ae];W[fa]C[White lives - black can do a lot better.]))
+(;W[ac]
+(;B[ae];W[da]
+(;B[fa]C[White dies. White should leave the original position as it is.CHOICE])
+(;B[ag];W[fa]C[White lives - black can do a lot better.]))
+(;B[ca];W[da]C[Black dies - black can do a lot better.])
+(;B[da];W[ca]C[Black dies])
+(;B[ag];W[da]
+(;B[fa]C[White dies. White should leave the original position as it is.CHOICE])
+(;B[ae]))))
+(;B[ca];W[da]
+(;B[fa];W[ac]C[Black dies - black can do a lot better.])
+(;B[af];W[ac]C[Black dies - black can do a lot better.])
+(;B[ac];W[aa]C[Black dies - black can do a lot better.])))
+(;B[fh]C[No, black can live with points]))

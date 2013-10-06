@@ -1,0 +1,74 @@
+(;GE[life and death]DI[5d]DP[5]SO[Hans]CO[8]GM[1]FF[3]
+AW[rd][qe][qf][qg][qh][rh][sh]
+AB[pb][qc][pd][pe][pf][rf][pg][ph][qi][ri][si]PL[2]C[White to live.]
+(;W[qd];B[sf])
+(;W[re];B[se]
+(;W[rc];B[rb]
+(;W[sg];B[sf];W[sc]C[RIGHT Seki.])
+
+(;W[sf];B[sg]C[Dead shape.
+])
+)
+
+(;W[sg];B[rc];W[sf];B[sd];W[sc];B[sd])
+
+(;W[rg];B[sf];W[rc];B[rb])
+)
+
+(;W[rc];B[re]
+(;W[se];B[sf]
+(;W[qd];B[rb];W[sc];B[sd]
+C[1000-year-Ko, but not unconditionally alive.
+])
+
+(;W[rb];B[qd])
+)
+
+(;W[sf];B[se]
+(;W[sd];B[sg];W[qd];B[rb])
+
+(;W[qd];B[rb]
+(;W[rg];B[sg]C[Ko.
+])
+
+(;W[sc];B[sg]C[Dead shape.
+])
+
+(;W[sg];B[sc])
+)
+)
+
+(;W[sd];B[qd];W[sf];B[rg])
+
+(;W[rg];B[qd])
+
+(;W[rb];B[qd])
+
+(;W[qb];B[qd])
+
+(;W[qd];B[rb];W[sf];B[se]
+(;W[rg];B[sg]C[Ko.])
+
+(;W[sg];B[sc])
+
+(;W[sc];B[sg])
+)
+)
+
+(;W[sd];B[sf])
+
+(;W[rg];B[sf]
+(;W[rc];B[rb];W[sc];B[se])
+
+(;W[se];B[rc])
+)
+
+(;W[sf];B[se]
+(;W[sg];B[re];W[qd];B[rc])
+
+(;W[rg];B[sg]C[Ko.])
+
+(;W[re];B[sg];W[rg];B[sf];W[rc];B[rb])
+)
+
+)

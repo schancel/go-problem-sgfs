@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[10k]DP[50]SO[MatheusB]CO[8]AB[cp]AB[dq]AB[eq]AB[jh]AB[jg]AW[dd]AW[qe]AW[qp]AW[np]AW[dp]LB[do:A]LB[jj:T]C[Play A if you think the ladder works or T for tenuki.]AP[goproblems]
+(;B[do];W[ep];B[fp];W[eo]C[]AB[en]AW[fo]AB[go]AW[fn]AB[fm]AW[gn]AB[hn]AW[gm]AB[gl]AW[hm]AB[im]AW[hl]AB[hk]AW[il]AB[jl]AW[ik]AB[ij]AW[jk]AB[kk]AW[jj]
+(;B[kj];W[ji]
+(;B[ii];W[ki];B[li];W[kh]
+(;B[lh];W[kg];B[kf];W[lg]AB[mg]AW[lf]AB[le]AW[mf]AB[nf]AW[me]AB[md]AW[ne]AB[oe]AW[nd]AB[nc]AW[od]AB[pd]AW[oc]AB[ob]AW[pc]AB[qc]C[White is caught :)RIGHT])
+(;B[kg];W[lh];B[mh];W[lg]AB[lf]AW[mg]AB[ng]AW[mf]AB[me]AW[nf]AB[of]AW[ne]AB[nd]AW[oe]AB[pe]AW[od]AB[oc]AW[pd]C[White has escaped.]))
+(;B[ki];W[ii];B[hi];W[hj];B[ih];W[gk]C[White has escaped.]))
+(;B[ji];W[kj];B[lj];W[ki]
+(;B[kh];W[li];B[mi]AW[lh]AB[lg]AW[mh]AB[nh]AW[mg]AB[mf]AW[ng]AB[og]AW[nf]AB[ne]AW[of]AB[pf]AW[oe]AB[od]AW[pe]C[White has escaped.])
+(;B[li];W[kh]
+(;B[kg];W[lh];B[mh]AW[lg]AB[lf]AW[mg]AB[ng]AW[mf]AB[me]AW[nf]AB[of]AW[ne]AB[nd]AW[oe]AB[pe]AW[od]AB[oc]AW[pd]C[White has escaped.])
+(;B[lh];W[kg];B[kf]AW[lg]AB[mg]AW[lf]AB[le]AW[mf]AB[nf]AW[me]AB[md]AW[ne]AB[oe]AW[nd]AB[nc]AW[od]AB[pd]AW[oc]AB[ob]AW[pc]AB[qc]C[White is caught :)RIGHT]))))
+(;B[jj]C[Wrong - the ladder works. Try once more.]))

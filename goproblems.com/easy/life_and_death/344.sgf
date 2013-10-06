@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[5]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[bs][as][aq][ar]AW[br][bq][bp][bo][co][dp][dq][er][es]AB[cp][ap][ao][an][dn][do]AE[bn]AB[am][bm]AE[cm]AB[cn][eq][fq][fr][fo][fm]PL[W]C[what can white do?]
+(;W[cs]CR[cs]
+;B[cr]CR[cr]
+(;W[dr]CR[dr]C[RIGHT
+ko is best])
+(;W[ds]CR[ds]
+;B[cq]CR[cq]
+;W[dr]CR[dr]
+;B[cq]CR[cq])
+(;W[cq]CR[cq]
+;B[ds]CR[ds]))
+(;W[cr]CR[cr]
+;B[cs]CR[cs])
+(;W[dr]CR[dr]
+;B[cs]CR[cs])
+(;W[ds]CR[ds]
+;B[cs]CR[cs])
+(;W[cq]CR[cq]
+;B[cs]CR[cs])
+(;W[bn]CR[bn]
+;B[cr]CR[cr])
+(;W[ep]CR[ep]
+;B[cr]CR[cr]
+;W[fp]CR[fp]
+;B[gp]CR[gp]
+(;W[gq]CR[gq]
+;B[gr]CR[gr]
+;W[go]CR[go]
+;B[hq]CR[hq]
+;W[eo]CR[eo]
+;B[fn]CR[fn])
+(;W[go]CR[go]
+;B[gq]CR[gq]
+(;W[eo]CR[eo]
+;B[fn]CR[fn])
+(;W[fn]CR[fn]
+;B[eo]CR[eo]))))

@@ -1,0 +1,100 @@
+(;GE[endgame]DI[4k]DP[31]SO[Pulsewidth]CO[4]SZ[9]AB[ee]AB[ed]AB[fd]AB[fc]AB[dc]AB[dd]AB[bd]AB[cd]AB[be]AB[bf]AB[ae]AB[ac]AB[aa]AB[db]AB[da]AB[ea]AB[fa]AB[hd]AB[ie]AB[hf]AB[he]AB[gf]AB[ff]AB[fg]AB[fh]AB[fi]AB[gi]AB[eh]AB[dh]AB[hh]AB[ig]AW[ab]AW[bc]AW[bb]AW[cb]AW[ca]AW[eb]AW[ec]AW[fb]AW[gb]AW[hb]AW[hc]AW[gc]AW[gd]AW[ge]AW[fe]AW[ef]AW[eg]AW[dg]AW[de]AW[ce]AW[cf]AW[af]AW[ag]AW[bg]AW[ch]AW[ci]AW[di]AW[ei]C[Black must kill white to win]
+(;B[ic];W[ha]
+(;B[ia];W[ib]
+(;B[id]C[Seki - black can do better])
+(;B[ga];W[id]C[Black dies])
+(;B[ad];W[id]C[Black dies])
+(;B[cc];W[ad]C[Black dies]))
+(;B[ad];W[ga]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ga];W[ad]C[Black dies])
+(;B[ib];W[ad]LB[ah:P]C[Play P to pass]
+(;B[id];W[cc]
+(;B[ac]C[White dies, but playing in your own territory unnecessarily reduced your scoreRIGHT])
+(;B[ia];W[ga]))
+(;B[cc];W[ga])
+(;B[ga];W[cc])
+(;B[ia];W[id]
+(;B[ac];W[ga]C[Black dies])
+(;B[ic];W[ib]
+(;B[id];W[ac]C[Seki - black can do better])
+(;B[ac];W[id]
+(;B[ad];W[ga]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ga];W[ad]C[Black dies]))
+(;B[cc];W[ga]))
+(;B[cc];W[ga]))
+(;B[ah]C[White is dead, so playing J6 costs you a pointRIGHT]))
+(;B[id];W[ad]
+(;B[ib];W[cc]
+(;B[ac]C[White diesRIGHT])
+(;B[ia];W[ga]))
+(;B[ia];W[ib];B[ac]C[White diesRIGHT])
+(;B[ga];W[cc])
+(;B[cc];W[ga]))
+(;B[if];W[ib]C[Black dies]))
+(;B[ad];W[ga]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ga];W[ha]C[Black dies])
+(;B[ha];W[ga]C[Black dies])
+(;B[ia];W[ga]C[Black dies])
+(;B[id];W[ga]C[Black dies])
+(;B[ib]
+(;W[ha]
+(;B[ic];W[ad]
+(;B[id];W[cc];B[ac]C[White diesRIGHT])
+(;B[cc];W[ga])
+(;B[ga];W[cc])
+(;B[ia];W[id]
+(;B[ac];W[ga]C[Black dies])
+(;B[ic];W[ib]
+(;B[id];W[ac]C[Seki - black can do better])
+(;B[ac];W[id]
+(;B[ad];W[ga]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ga];W[ad]C[Black dies]))
+(;B[cc];W[ga]))
+(;B[cc];W[ga])))
+(;B[ia];W[ad]C[Black dies])
+(;B[ga];W[ad]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ad];W[ga]C[Black dies])
+(;B[id]C[White diesRIGHT]))
+(;W[ic]C[CHOICE]
+(;B[id];W[ia]
+(;B[ad];W[ga]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ga];W[ad]C[Seki - black can do better])
+(;B[ha];W[ga]C[Black dies]))
+(;B[ia];W[ha]
+(;B[id];W[ad]
+(;B[ia];W[ac]C[Seki - black can do better])
+(;B[ib];W[ac]C[Seki - black can do better])
+(;B[ga];W[cc])
+(;B[cc];W[ga]))
+(;B[ga];W[ad]C[Black dies])
+(;B[cc];W[ad]C[Black dies])
+(;B[ad];W[ga]C[Black dies])
+(;B[ib];W[ad]
+(;B[id];W[ac]C[Seki - black can do better])
+(;B[ga];W[cc])
+(;B[cc];W[ga]))
+(;B[ia];W[ad]
+(;B[id];W[ac]C[Seki - black can do better])
+(;B[ga];W[cc])
+(;B[cc];W[ga])))
+(;B[ha];W[ia]
+(;B[id];W[ga]C[Black dies])
+(;B[ga];W[ad];B[ib]C[White diesRIGHT])
+(;B[cc];W[ga]C[Black dies])
+(;B[ad];W[ga]C[Black dies]))
+(;B[ga];W[ia]
+(;B[ha];W[ad];B[ib]C[RIGHT])
+(;B[cc];W[ad]C[Black dies])
+(;B[ad];W[ha]C[Black dies])
+(;B[id];W[ad]C[Black dies]))
+(;B[cc];W[ad]C[Black dies])
+(;B[ad];W[ga]C[Black dies])))
+(;B[bh];W[ga]C[Black dies])
+(;B[ah];W[ga]C[Black dies])
+(;B[bi];W[ga]C[Black dies]))

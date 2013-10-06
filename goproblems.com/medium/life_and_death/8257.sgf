@@ -1,0 +1,21 @@
+(;GE[life and death]DI[2k]DP[23]SO[santa c]CO[8]AB[aq]AB[ap]AB[cp]AB[cq]AB[cr]AW[dr]AW[dn]AW[do]AW[dp]AW[dq]AW[ds]AB[cs]AW[bn]AW[cn]C[What can White do? :)]AP[goproblems]
+(;W[bo]
+(;B[br]
+(;W[bp]
+(;B[as];W[bq]C[Well done! :)RIGHT])
+(;B[bq];W[as]C[RIGHT]))
+(;W[as];B[bp]C[:(]))
+(;B[bp];W[br]C[RIGHT])
+(;B[ar];W[bs]TR[br]TR[bp]C[RIGHT])
+(;B[bs];W[bp]TR[bq]TR[ar]C[RIGHT]))
+(;W[br];B[bo]
+(;W[bq];B[co]C[Because White can't play at A5, black is connected, leaving A2 and B1 miai... Seki! :(]TR[ar]TR[bs])
+(;W[co];B[bq]C[:(])
+(;W[an];B[bq]C[:(]))
+(;W[ar];B[br]C[:(]TR[bp]TR[as])
+(;W[bs];B[br]TR[bp]C[:(]TR[as])
+(;W[bp];B[bo]TR[br]TR[bq]C[Black is guaranteed to get 2 eyes! :(])
+(;W[co];B[bo]TR[br]TR[bq]C[:(])
+(;W[ao];B[bo]C[:(]TR[bq]TR[br])
+(;W[bq];B[br]C[:(])
+(;W[an];B[bo]C[:(]TR[bq]TR[br]))

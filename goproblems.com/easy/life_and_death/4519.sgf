@@ -1,0 +1,20 @@
+(;GE[life and death]DI[7k]DP[40]SO[assacra]CO[6]AW[gn]AW[gm]AW[hm]AW[hl]AW[hk]AW[ik]AW[ij]AW[kk]AW[mk]AW[lm]AW[mm]AW[mn]AW[mo]AW[mp]AW[lq]AW[kq]AW[kr]AW[jr]AW[jp]AW[iq]AW[hq]AW[gq]AW[gp]AW[fp]AW[fo]AW[eo]AB[go]AB[ho]AB[hn]AB[hp]AB[im]AB[il]AB[km]AB[ll]AB[jn]AB[jo]AB[ln]AB[lo]AB[lp]AB[kp]C[white to kill]AP[goproblems]
+(;W[jl];B[jm]
+(;W[io]C[well done: black can't play j4.  So  he has only one eyeRIGHT])
+(;W[kl];B[ip])
+(;W[kn];B[ko];W[io]C[RIGHT])
+(;W[ko];B[kn];W[io]C[RIGHT]))
+(;W[io];B[jl]
+(;W[kl];B[in]C[black could play a tenuki instead of playing j6])
+(;W[in];B[ip])
+(;W[kn];B[ko]
+(;W[kl];B[in]C[black could play a tenuki instead of playing j6])
+(;W[in];B[ip])))
+(;W[kl];B[jl])
+(;W[ip];B[io])
+(;W[kn];B[ko]
+(;W[io];B[jl])
+(;W[jl];B[jm];W[io]C[RIGHT]))
+(;W[ko];B[kn];W[jl];B[ip]
+(;W[in];B[io];W[jm]C[RIGHT])
+(;W[jm];B[in])))

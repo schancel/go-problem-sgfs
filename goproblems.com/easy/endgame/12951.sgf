@@ -1,0 +1,33 @@
+(;GE[endgame]DI[5k]DP[34]SO[SilverHawk]CO[0]AW[ac]AW[bb]AW[ca]AW[da]AW[eb]AW[fb]AW[gb]AW[hb]AW[gc]AW[hd]AW[id]AW[jb]AW[jc]AW[kb]AW[la]AW[lc]AW[mb]AW[mc]AW[md]AW[me]AW[na]AW[oa]AW[pa]AW[rb]AW[sb]AW[sc]AW[sd]AW[rd]AW[se]AW[rf]AW[qf]AW[pf]AW[pe]AW[oe]AW[pg]AW[nf]AW[ng]AW[nh]AW[oh]AW[oi]AW[oj]AW[pk]AW[pl]AW[qk]AW[qj]AW[rj]AW[rk]AW[sj]AW[ps]AW[os]AW[pr]AW[pq]AW[oq]AW[nq]AW[nr]AW[op]AW[oo]AW[on]AW[nn]AW[po]AW[mm]AW[lm]AW[ln]AW[kn]AW[jn]AW[lo]AW[lp]AW[mp]AW[es]AW[er]AW[dr]AW[eq]AW[ep]AW[fp]AW[gp]AW[gq]AW[gr]AW[gs]AW[fr]AW[eo]AW[fo]AW[fn]AW[fm]AW[em]AW[el]AW[fl]AW[fk]AW[fj]AW[fi]AW[bd]AW[cd]AW[ae]AW[de]AW[bf]AW[cf]AW[ef]AW[eg]AW[eh]AW[dh]AW[ch]AW[bh]AW[bg]AW[ah]AB[ga]AB[ha]AB[ib]AB[ja]AB[nb]AB[nc]AB[nd]AB[ne]AB[od]AB[ob]AB[pb]AB[pc]AB[pd]AB[qd]AB[qb]AB[rc]AB[qe]AB[ph]AB[qg]AB[qi]AB[ql]AB[rl]AB[sl]AB[sk]AB[rm]AB[qo]AB[qp]AB[pp]AB[qq]AB[qr]AB[rp]AB[sq]AB[rr]AB[ss]AB[pn]AB[pm]AB[om]AB[nm]AB[ol]AB[ok]AW[lf]AW[lg]AW[li]AW[lj]AW[lk]AW[mj]AW[kl]AB[mf]AB[mg]AB[mh]AB[mi]AB[ni]AB[nj]AB[mk]AB[ml]AB[ll]AB[km]AB[jm]AB[kk]AB[in]AB[io]AB[jo]AB[ko]AB[kp]AB[kq]AB[lq]AB[jr]AB[is]AB[hr]AB[hq]AB[hp]AB[go]AB[gn]AB[gm]AB[gl]AB[gk]AB[gj]AB[gi]AB[jj]AB[jg]AB[le]AB[ld]AB[kc]AB[kd]AB[jd]AB[je]AB[ie]AB[he]AB[ge]AB[gd]AB[fd]AB[fc]AB[ec]AB[dc]AB[db]AB[cb]AB[cc]AB[bc]AB[dd]AB[ee]AB[ff]AB[fg]AB[fh]AB[cr]AB[cs]AB[ds]AB[bq]AB[dq]AB[dp]AB[do]AB[dn]AB[cn]AB[dm]AB[dl]AB[en]AB[aj]AB[bj]AB[bi]AB[ck]AB[bk]AB[ci]AB[di]AB[ei]AB[ej]AB[ek]C[White to play and win the game.]AW[mr]AW[ms]AB[lr]AB[ls]AB[ak]AW[ai]AB[rs]AW[qs]AW[ic]AP[goproblems]
+(;W[jl]
+(;B[im]C[CHOICE]
+(;W[nk];B[nl]
+(;W[lh]
+(;B[nk]C[CHOICE];W[qn]
+(;B[qm];W[rn]C[You win!  Navigate to see a few different responses that allow black to cut his losses.RIGHT])
+(;B[rn];W[qm]C[RIGHT]))
+(;B[qm];W[nk]
+(;B[nj];W[ni]C[RIGHT])))
+(;W[qn];B[rn];W[lh]C[RIGHT]))
+(;W[lh];B[nk]))
+(;B[nk]
+(;W[jk]
+(;B[im]
+(;W[kj];B[ji])
+(;W[ij];B[ji])))
+(;W[im]C[RIGHT])))
+(;W[im];B[jl])
+(;W[rn]
+(;B[qn]))
+(;W[nk];B[nl]
+(;W[lh];B[nk]
+(;W[qn];B[jl];W[rn];B[qm])
+(;W[jl]
+(;B[im];W[qn])
+(;B[qn]C[RIGHT])))
+(;W[jl];B[im]
+(;W[lh])
+(;W[qn];B[rn];W[lh]C[RIGHT])))
+(;W[kj];B[jl])
+(;W[lh];B[nk])
+(;W[qn];B[nk]))

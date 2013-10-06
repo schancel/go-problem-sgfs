@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[1k]DP[19]SO[fye]CO[0]AB[rd]AB[qd]AB[pd]AB[pc]AB[pb]AB[ob]AB[oe]AB[of]AB[og]AB[oh]AW[pe]AW[qe]AW[re]AW[od]AW[oc]AW[nb]AW[mc]AW[qf]AW[qg]AW[pg]AW[ph]AB[pf]AW[pi]AB[ri]AB[rg]AB[qk]AB[pk]AB[ok]AB[nk]AB[ni]AW[oi]AW[nh]AW[kg]AW[kh]AW[ki]AW[kj]AW[kk]C[Tips: capture the cutting stone :)]AB[lk]AB[ll]LB[oi:3]LB[pi:1]LB[ri:2]LB[ni:4]LB[nh:5]AP[goproblems]
+(;B[mh];W[ng]
+(;B[mg];W[nf];B[ne];W[mf]
+(;B[md];W[me];B[nd]
+(;W[nc];B[ld]C[Correct :). There's nothing white can do to capture black here. You can explore further if you want... But not all the variations are given (there are too many)RIGHT];W[le]
+(;B[lc];W[lb];B[na];W[mb];B[kb];W[kc];B[kd]C[RIGHT])
+(;B[ke];W[lf]
+(;B[lc];W[lb];B[na];W[mb];B[kb];W[kc];B[kd]C[RIGHT])
+(;B[kf];W[lg]
+(;B[mi];W[kd];B[lc];W[lb];B[kc];W[jd]
+(;B[jc];W[ic];B[id];W[je];B[ib];W[hc];B[kb];W[ka];B[jb];W[hb];B[na];W[mb];B[la]C[RIGHT])
+(;B[na];W[mb];B[kb]C[RIGHT]))
+(;B[lc];W[nj];B[mi];W[mj])))))
+(;B[me];W[lf]))
+(;B[mf];W[mi];B[nj];W[mg]))
+(;B[mg];W[mh];B[lh];W[mi])
+(;B[mi];W[mh])
+(;B[ng];W[mh])
+(;B[md];W[ne]
+(;B[nd];W[nc]
+(;B[ng];W[mh];B[mg];W[lh];B[nj];W[mf])
+(;B[nf];W[mf];B[me];W[ng];B[ne];W[le]))
+(;B[ng];W[mh];B[mg];W[lh];B[nj];W[mf]))
+(;B[ne];W[mh]))

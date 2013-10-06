@@ -1,0 +1,32 @@
+(;GE[best move]DI[4d]DP[7]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[op]AB[qp]AW[qo]AB[ro]AW[po]AB[qn][rq]AW[rn][qm]AB[pn]AW[on]AB[pm]AW[pl]AB[om]AW[rl]AB[nn]AW[oo]AB[sp]AE[rp]C[how should black handle this situation?]
+(;B[ol]CR[ol]
+;W[pk]CR[pk]
+(;B[ok]CR[ok]
+;W[pj]CR[pj]
+(;B[mp]CR[mp]C[RIGHT
+white's in big trouble])
+(;B[oj]CR[oj]
+;W[lp]CR[lp]C[white gets out]))
+(;B[mp]CR[mp]LB[ok:A]C[better to push at A first: now too many weaknesses])
+(;B[mm]CR[mm]
+;W[lp]CR[lp]C[slow]))
+(;B[mm]CR[mm]
+;W[ol]CR[ol]
+;B[nm]CR[nm]LB[mm:A]C[now what's A doing?])
+(;B[nm]CR[nm]
+;W[lp]CR[lp]C[slow])
+(;B[mp]CR[mp]
+;W[no]CR[no]
+;B[mo]CR[mo]
+;W[nm]CR[nm])
+(;B[qk]CR[qk]C[better to leave this peep])
+(;B[sn]CR[sn]
+;W[rm]CR[rm]C[aji-keshi])
+(;B[pq]CR[pq]
+;W[lp]CR[lp]C[wrong direction])
+(;B[no]CR[no]C[too strong])
+(;B[nl]CR[nl]
+;W[ol]CR[ol]
+;B[nm]CR[nm]
+;W[lp]CR[lp]C[easy for white]))

@@ -1,0 +1,36 @@
+(;GE[life and death]DI[3d]DP[11]SO[kaf]CO[0]AB[ap]AB[bp]AB[bq]AB[co]AB[dn]AB[fo]AB[fp]AB[gq]AB[gr]AB[gs]AB[bn]AB[cs]AW[aq]AW[br]AW[cr]AW[cq]AW[dp]AW[fq]AW[eq]AW[fr]C[black to kill]AB[dq]AP[goproblems]
+(;B[es];W[fs]
+(;B[dr];W[ep])
+(;B[ep];W[dr]))
+(;B[dr];W[er]
+(;B[es];W[ds];B[dr];W[fs]
+(;B[ds];W[ar])
+(;B[ar];W[ds]C[I am sorry, I forgot to mention, - ko is not a solution.]))
+(;B[ds];W[es]))
+(;B[bs];W[dr]
+(;B[fs];W[es])
+(;B[es];W[fs])
+(;B[ar];W[es]))
+(;B[ar];W[dr])
+(;B[ep];W[dr];B[cp])
+(;B[fs];W[es]
+(;B[dr]
+(;W[ep];B[bs];W[ar];B[cp]C[RIGHT])
+(;W[er]C[CHOICE]
+(;B[bs]
+(;W[ar]C[CHOICE]
+(;B[ep];W[ds];B[dq];W[as]
+(;B[cp]C[RIGHT])
+(;B[cs];W[bs];B[cp]C[RIGHT]))
+(;B[cp];W[ds]))
+(;W[ds];B[ar]C[RIGHT]))
+(;B[ar];W[bs])
+(;B[ep];W[ds];B[dq];W[bs]
+(;B[ar];W[cp])
+(;B[cp];W[ar]))))
+(;B[ep];W[dr])
+(;B[bs];W[dr]))
+(;B[ds];W[dr];B[fs];W[es])
+(;B[cp];W[dr]
+(;B[ep];W[es])
+(;B[ar];W[bs])))

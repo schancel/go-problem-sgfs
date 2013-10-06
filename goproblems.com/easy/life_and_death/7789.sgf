@@ -1,0 +1,21 @@
+(;GE[life and death]DI[20k]DP[74]SO[utku]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[6.50]TM[600]OT[3x20 byo-yomi]
+PW[bertan]PB[bertan]WR[12k]BR[12k]DT[2005-10-27]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AW[ga][fb][hb][ib][fc][fd][fe][ge][gf][hf]AB[gb][gc][ic][gd][hd][he][ie]C[Black to live.]
+(;B[ha]CR[ha]
+(;W[ia]CR[ia]C[CHOICE]
+;B[hc]CR[hc]
+;W[fa]CR[fa]
+;B[ha]CR[ha]C[RIGHT])
+(;W[fa]CR[fa]C[CHOICE]
+;B[hc]CR[hc]
+;W[ia]CR[ia]
+;B[ha]CR[ha]C[RIGHT]))
+(;B[if]CR[if]
+;W[ha]CR[ha])
+(;B[hc]CR[hc]
+;W[if]CR[if])
+(;B[hg]CR[hg]
+;W[if]CR[if]
+;B[ha]CR[ha]
+;W[ia]CR[ia]
+;B[hc]CR[hc]C[Damezumari.]))

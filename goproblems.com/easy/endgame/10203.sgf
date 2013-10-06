@@ -1,0 +1,44 @@
+(;GE[endgame]DI[8k]DP[45]SO[Ceram88]CO[9]AB[an]AB[bm]AB[al]AB[bl]AB[cl]AB[bk]AB[cj]AB[dj]AB[di]AB[eh]AB[fi]AB[gj]AB[hk]AB[hl]AB[hm]AB[gm]AB[em]AB[en]AB[dm]AW[ao]AW[bn]AW[bo]AW[cm]AW[cn]AW[dn]AW[do]AW[eo]AW[fo]AW[go]AW[gn]AW[hn]AW[im]AW[il]AW[ik]AW[hj]AW[ij]AW[ak]AW[aj]AW[bj]AW[bi]AW[ci]AW[bh]AW[dh]AW[dg]AW[cg]AW[bg]AW[ag]LB[am:1]AB[am]C[Late in the end game black filled in the ko at A6 without thinking. Show Black his mistake! (you can assume black is safely connected and the board is pretty much finished)]AP[goproblems]
+(;W[dl];B[ck]
+(;W[fm]
+(;B[fl]C[CHOICE]
+(;W[el]
+(;B[fn]C[CHOICE];W[fm]C[Ideally, instead of falling for the snapback, black should have played E9 and secured some points (view variations)RIGHT])
+(;B[ek];W[fn];B[gk]C[RIGHT]))
+(;W[gk]
+(;B[gl]C[CHOICE];W[el];B[fk]C[RIGHT];W[fn]C[RIGHT])
+(;B[fn]C[CHOICE];W[el];B[fm];W[fk];B[ek];W[gl]C[RIGHT])))
+(;B[gk]C[CHOICE];W[el]C[RIGHT])
+(;B[el]C[CHOICE]
+(;W[gk]C[RIGHT])
+(;W[fl];B[gk];W[ek];B[dk];W[fn];B[dl]
+(;W[fj]
+(;B[fk]))
+(;W[ej];B[ei]
+(;W[fk]C[Assuming black is connected (which we are), this was worth 11 points. The best solution is slightly better than that.])))))
+(;W[el];B[fm])
+(;W[fl];B[fm])
+(;W[gl];B[fm])
+(;W[gk];B[fm]))
+(;W[fm]
+(;B[gk]C[CHOICE];W[dl];B[ck];W[el]C[RIGHT])
+(;B[dl]C[CHOICE];W[gk]C[RIGHT])
+(;B[fk]C[CHOICE]
+(;W[dl];B[ck];W[el]C[RIGHT])
+(;W[fl]
+(;B[dl]
+(;W[gk];B[gl];W[gk]C[RIGHT])
+(;W[gl];B[gk]))
+(;B[gk]
+(;W[dl];B[ck];W[el]C[RIGHT])
+(;W[el];B[dl])
+(;W[ck];B[dk])
+(;W[dk];B[dl])
+(;W[ek];B[dl])))))
+(;W[gk];B[fm])
+(;W[ck];B[dk])
+(;W[el];B[fm];W[dl];B[ck])
+(;W[ei];B[ej])
+(;W[fl];B[fm])
+(;W[gl];B[fm])
+(;W[dk];B[dl]))

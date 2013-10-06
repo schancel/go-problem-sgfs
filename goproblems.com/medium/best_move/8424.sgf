@@ -1,0 +1,23 @@
+(;GE[best move]DI[3d]DP[10]SO[severin333]CO[7]AB[jc]AB[lc]AB[oc]AB[ob]AB[pd]AB[pf]AB[pe]AB[ne]AW[oa]AW[pb]AW[pc]AW[qd]AW[qe]AW[qg]AW[qf]TR[oa]C[White has just haned with the marked stone. How should Black respond ? Black want to avoid ko]AP[goproblems]
+(;B[qc];W[qb]C[White has no other choice but to play here]
+(;B[pa]
+(;W[qa]
+(;B[nb]C[]
+(;W[na]C[White shouldn't push here];B[ma]
+(;W[rc];B[pa];W[oa]C[Even worse for white])
+(;W[pa];B[rc];W[mb];B[rb];W[la];B[ra];W[ma];B[mc]
+(;W[ja];B[ka];W[kb];B[lb];W[ka];B[hb])
+(;W[kb];B[lb];W[ka];B[jb]C[White can't escape])))
+(;W[rc]C[];B[na]C[That's the best you can do. See variation to understand why White can't push at O19CHOICERIGHT]))
+(;B[na];W[nb]C[I say no ko]))
+(;W[na]C[Crawling here is unreasonable...];B[nb];W[ma];B[la];W[qa];B[mb]C[White can't connect because Black would simply play at a]LB[rc:a]))
+(;B[rc];W[rb]
+(;B[na];W[pa];B[nb]C[Worse than the correct answer])
+(;B[pa]
+(;W[qa];B[nb]C[That's the best you can do. See variation to understand why White can't push at O19RIGHT]
+(;W[sc]C[White have to play here before pushing at O19];B[na]C[RIGHT])
+(;W[na];B[ma];W[sc];B[pa];W[oa]))
+(;W[na];B[nb];W[ma];B[la];W[mb];B[mc];W[qa];B[lb]C[White collapseRIGHT]))))
+(;B[na];W[pa]
+(;B[mb]C[Too bad, White gets one and a half points more than in the correct answer])
+(;B[nb]C[Too bad, White gets one and a half points more than in the correct answer])))

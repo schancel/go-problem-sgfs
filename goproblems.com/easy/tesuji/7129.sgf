@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[10k]DP[54]SO[Stones]CO[8]AB[eo]AW[eq]AW[go]AW[gp]AB[hq]AB[iq]AB[kq]AB[mq]AB[nq]AW[ip]AW[jp]AW[lo]TR[eo]AW[jq]AW[kr]AB[jr]AB[lr]LB[jq:1]LB[jr:2]LB[kr:3]LB[lr:4]C[Black 4 is a mistake.  White to punish black.]AP[goproblems]
+(;W[kp];B[ks])
+(;W[hp];B[ir])
+(;W[gr];B[ir])
+(;W[gq];B[ir])
+(;W[hr];B[ir])
+(;W[ir];B[ks]
+(;W[hp];B[hr])
+(;W[gq];B[hr])
+(;W[gr];B[hr])
+(;W[hr];B[gq]
+(;W[hp];B[gr])
+(;W[fr];B[gr])
+(;W[fq];B[gr])
+(;W[gr];B[fq]
+(;W[fr];B[fp])
+(;W[hp];B[fp])
+(;W[fp];B[fr];W[er];B[gs];W[hp]C[RIGHT])))))

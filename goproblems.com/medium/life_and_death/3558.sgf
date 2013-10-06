@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[19]SO[bass]CO[8]AW[bq]AW[br]AW[cq]AW[dq]AW[bp]AW[cr]AW[er]AW[es]AB[eq]AB[ep]AB[dp]AB[cp]AB[co]AB[bo]AB[fr]AB[gq]AB[ap]AB[ao]AW[fs]AB[gs]LB[hr:A]LB[fs:1]LB[gs:2]LB[cr:3]AW[bn]AW[cn]AW[dn]AW[en]AW[go]AW[gp]AB[hp]AB[ho]AW[hn]AW[an]AW[fo]AB[fp]C[White wanted to play the 2 point endgame at A, but white 3 looks bad. Tell that to white.]AB[kq]AB[kr]AB[in]AB[jn]AB[ko]AW[hm]AP[goproblems]
+(;B[ds];W[dr]
+(;B[bs];W[aq];B[ar]C[ko for the whole corner.RIGHT])
+(;B[ar];W[aq];B[bs]C[ko for the whole corner.RIGHT])
+(;B[aq];W[ar]C[White lives and A is now urgent.]LB[hr:A])
+(;B[cs];W[aq]C[white lives and A is now urgent.]LB[hr:A]))
+(;B[aq];W[ar]C[White lives and A is now urgent.]LB[hr:A])
+(;B[ar];W[ds]C[white lives and A is still playable.]LB[hr:A])
+(;B[bs];W[ds]C[white lives and A is still playable.]LB[hr:A])
+(;B[cs];W[bs]C[white lives and A is still playable.]LB[hr:A])
+(;B[as];W[aq]C[white lives and A is now urgent.]LB[hr:A])
+(;B[hr];W[aq]C[white got away with his mistake.])
+(;B[hq];W[aq]C[white survived in the corner.]))

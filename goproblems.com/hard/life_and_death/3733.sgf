@@ -1,0 +1,27 @@
+(;GE[life and death]DI[4d]DP[8]SO[ferdi]CO[8]SZ[19]AW[bl]AW[cl]AW[cm]AW[dn]AW[en]AW[bo]AW[eo]AW[bp]AW[cp]AW[fp]AW[gp]AW[bq]AW[gq]AW[br]AW[dr]AW[fr]AW[ir]AW[es]AW[fs]AB[bm]AB[an]AB[bn]AB[cn]AB[ao]AB[co]AB[do]AB[dp]AB[aq]AB[cq]AB[eq]AB[fq]AB[cr]AB[er]AB[as]C[White to play - can he kill the black stones?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÅ¸]PB[Schwarz]PL[W]
+(;W[bs]
+(;B[cs]C[CHOICE]
+(;W[dq];B[ds];W[dq];B[dr]
+(;W[ep];B[dq]
+(;W[ar];B[gr];W[ap];B[gs];W[fs]C[Black is dead! RIGHT])
+(;W[gr];B[ap]))
+(;W[ar];B[ap]))
+(;W[ds];B[dq]
+(;W[ar];B[ap]C[Black lives])
+(;W[ep];B[ap]C[Black lives])
+(;W[gr];B[ap])))
+(;B[dq];W[ap]C[Black is deadRIGHT]))
+(;W[cs];B[dq]
+(;W[bs]C[Ko, but this is not good enough...])
+(;W[ds];B[bs]
+(;W[ar];B[bs]
+(;W[as];B[ap]C[Black lives])
+(;W[ap];B[gr];W[as];B[gs]C[Black lives]))
+(;W[gr];B[ap];W[ar];B[bs]C[Black lives])
+(;W[hr];B[ap];W[ar];B[bs]C[Black lives]))
+(;W[ap];B[ds]
+(;W[ar];B[bs];W[cs];B[bs];W[gr];B[cs])))
+(;W[ar];B[cs];W[dq];B[ds];W[dq];B[ap]C[Black lives])
+(;W[ds];B[dq]
+(;W[cs])
+(;W[bs])))

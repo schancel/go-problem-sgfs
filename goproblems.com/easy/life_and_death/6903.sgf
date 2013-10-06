@@ -1,0 +1,7 @@
+(;GE[life and death]DI[15k]DP[64]SO[tom111]CO[7]AW[aa]AW[ca]AB[ab]AB[cb]AB[db]AB[da]AB[bd]AB[ad]AW[bc]AW[ae]AW[be]AW[ce]AW[cd]AW[dc]AW[ec]AW[eb]AW[ea]C[Black to live]AP[goproblems]
+(;B[bb]C[Correct, White cannot connect at B19RIGHT])
+(;B[ac];W[bb])
+(;B[ba];W[bb]
+(;B[cc];W[ca])
+(;B[ac];W[aa]))
+(;B[cc];W[bb]))

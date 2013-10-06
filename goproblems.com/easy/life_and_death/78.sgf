@@ -1,0 +1,50 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[ma][na][ra][mb][mc][qc][rc][md][nd][sd][oe][re][of][pf][qf]
+AB[nb][ob][pb][qb][sb][nc][pc][pd][qd][rd]LB[sb:A]PL[2]
+C[black has just played a. he's so smartypants. but white can kill.
+]
+(;W[sc];B[rb];W[se];B[od])
+
+(;W[rb];B[sc]
+(;W[sa];B[sc]
+(;W[sb];B[qa]
+(;W[se];B[sc];W[rc]C[RIGHT
+not smartypants enough!
+])
+
+(;W[sc];B[se])
+
+(;W[od];B[sc]
+(;W[rc];B[se])
+
+(;W[oa];B[rb])
+)
+
+(;W[oa];B[sc]
+(;W[rc];B[se])
+
+(;W[od];B[rb])
+)
+)
+
+(;W[se];B[qa];W[sb];B[sc];W[rc]C[RIGHT
+])
+)
+
+(;W[se];B[qa]
+(;W[sa];B[sc];W[sb];B[sc];W[rc]C[RIGHT
+])
+
+(;W[oa];B[sa])
+)
+)
+
+(;W[od];B[rb])
+
+)

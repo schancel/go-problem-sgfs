@@ -1,0 +1,12 @@
+(;GE[endgame]DI[3d]DP[10]SO[mountain root]CO[0]AB[qr]AB[qq]AB[rp]AB[qo]AB[po]AB[nq]AW[mq]AW[mr]AW[nr]AW[np]AW[pp]AW[qp]AW[pq]AW[pr]AB[mp]AB[mo]AB[no]AW[op]AB[oo]AB[rn]AW[kq]LB[rr:a]LB[qs:c]LB[rq:b]LB[ll:T]C[sente is 2 ptsFORCE]AP[goproblems]
+(;B[os]LB[ll:T]
+(;W[ps];B[qs];W[or]LB[ll:T]C[Play at T please.FORCE];B[ll]C[Good!CHOICERIGHT])
+(;W[ll];B[or]
+(;W[oq];B[ps];W[nq]C[RIGHT])
+(;W[ps];B[qs]C[RIGHT])))
+(;B[ps]LB[ll:T];W[os]LB[ll:T];B[qs]LB[ll:T];W[ll]C[Gote.])
+(;B[qs]LB[ll:T];W[ll]C[W tenuki])
+(;B[ll];W[rr]
+(;B[rq];W[qs])
+(;B[qs];W[rq]TR[qq]TR[qr]TR[qs])
+(;B[rs];W[rq]TR[qq]TR[qr]TR[rs])))

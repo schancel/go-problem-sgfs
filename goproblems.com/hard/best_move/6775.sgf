@@ -1,0 +1,17 @@
+(;GE[best move]DI[4d]DP[7]SO[kennabee]CO[8]AW[ec]AW[dc]AW[fd]AW[gd]AB[ed]AB[fe]AB[gf]AB[de]AB[df]AB[cf]AW[ce]AW[cd]AB[if]AB[je]AB[jd]AB[ke]AB[kf]AB[ic]AB[jb]AB[hb]AW[jc]AW[kc]AW[kb]AW[lc]AW[kd]AW[ld]AW[le]AW[me]AW[mf]AW[mg]AW[nf]AW[og]AW[nh]AB[of]AB[pg]AB[ph]AW[qg]AB[qh]AW[pi]AW[qj]AW[qk]AB[ql]AB[qm]AB[qn]AB[ro]AB[qp]AB[pq]AB[oq]AB[mq]AB[kq]AB[kr]AB[jp]AB[io]AB[ho]AB[go]AB[fp]AB[ep]AB[fq]AB[gr]AB[fs]AB[er]AW[dr]AW[dq]AW[eq]AW[dp]AW[cp]AW[bp]AW[br]AB[bo]AB[cn]AB[do]AB[ck]AB[cj]AB[ci]AB[ch]AW[dh]AW[di]AW[dj]AW[fi]AW[gh]AW[ih]AW[jg]AW[jf]AW[hj]AW[ij]AW[ik]AB[hk]AB[hl]AB[gl]AB[gj]AB[fj]AB[ek]AW[gk]AB[jm]AW[ll]AW[pl]AW[pm]AW[pn]AW[po]AW[qo]AW[gq]AW[gp]AW[hp]AW[ip]AW[iq]AW[jq]AW[jr]AW[hr]AW[hs]AB[md]AB[nd]AB[oc]AB[qd]C[Please help white to have a chance.]AP[goproblems]
+(;W[hd];B[id]
+(;W[hf];B[he]
+(;W[hg];B[ge])
+(;W[ge];B[hg];W[ff];B[fg];W[ee];B[gg]))
+(;W[he];B[hf];W[ie];B[fc];W[gc];B[fb];W[gb];B[ga]))
+(;W[he];B[hf]
+(;W[id]
+(;B[hc]C[CHOICE];W[hd]
+(;B[fc];W[gc];B[fb];W[gb];B[ga];W[eb];B[fa];W[ea];B[ha];W[ia]C[RIGHT])
+(;B[fb];W[fc];B[ia];W[eb];B[gb]C[RIGHT]))
+(;B[fc]C[CHOICE];W[hc];B[ib]
+(;W[fb]C[RIGHT])
+(;W[gb];B[fb]))
+(;B[ie]C[CHOICE];W[hd];B[fc];W[hc];B[ib];W[fb]C[RIGHT])
+(;B[gc]C[CHOICE];W[fc];B[hd];W[hc]C[Ko!RIGHT]))
+(;W[ie];B[ge];W[hd];B[fc];W[gc];B[fb];W[gb];B[ga])))

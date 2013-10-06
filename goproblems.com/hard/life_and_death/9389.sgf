@@ -1,0 +1,20 @@
+(;GE[life and death]DI[4d]DP[8]SO[Field Mouse]CO[8]AB[cq]AB[bq]AB[cs]AB[dr]AB[dq]AW[cr]AW[br]AW[ds]AW[es]AW[er]AW[fr]AW[gs]AW[hs]AW[ir]AW[iq]AW[ip]AB[hr]AB[gr]AB[hq]AB[hp]AB[gp]AB[fp]AB[fq]AB[dp]AB[ho]AB[fo]AW[io]AW[in]AW[hn]AW[gn]AW[fn]AW[en]AW[do]AW[eo]AW[co]AW[cn]AW[cm]AW[cl]AW[ck]AB[bo]AW[ao]AB[bn]AW[bm]AB[ap]AW[an]AW[bk]C[Black to play and get the best life possible. Unconditional life is better than seki, seki is better than ko, more ko threats in ko are better than fewer, fewer ko threats in ko are better than being dead.]AW[js]AW[jr]AB[ks]AB[kr]AB[kq]AB[jq]AB[jp]AP[goproblems]
+(;B[am];W[cp]
+(;B[bs];W[as];B[cs];W[bs]
+(;B[eq];W[is];B[ar];W[aq]C[You have only one internal ko threat.])
+(;B[ar];W[aq]C[One internal ko threat for white and for black. Black can do better.]))
+(;B[bp];W[an]C[You get nothing by playing this.]))
+(;B[bp];W[bs]C[Death.])
+(;B[eq];W[bs]C[Death.])
+(;B[cp];W[bp]C[Black is dead.])
+(;B[gq];W[bp]C[Killed.])
+(;B[ar];W[bs]C[Black is dead.])
+(;B[bs];W[as]
+(;B[ar];W[cs]C[Bad for black.])
+(;B[cs];W[bs]
+(;B[ar];W[aq];B[am];W[cp];B[ar];W[cs];B[eq];W[aq]C[Only one internal ko threat.])
+(;B[eq];W[is]
+(;B[ar];W[aq]C[Nice, now you have two internal ko threats :-) (first is on A)RIGHT]LB[am:A])
+(;B[am];W[cp]C[Wasted ko threat.]))
+(;B[am];W[cp]C[You just wasted one ko threat.])))
+(;B[as];W[ar]C[Oh no.]))

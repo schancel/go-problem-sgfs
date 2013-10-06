@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[2k]DP[22]SO[Schizoid]CO[7]AB[pd]AB[pf]AB[qh]AB[pj]AB[om]AB[oo]AB[po]AB[pp]AB[no]AB[nm]AB[mm]AB[lm]AB[km]AB[kn]AB[jn]AB[jp]AW[lo]AW[mo]AW[np]AW[op]AW[pq]AW[nl]AW[ml]AW[ll]AW[kl]AW[jl]AW[jm]AB[jj]AW[jd]AW[nc]AW[fc]AB[dd]AB[df]AB[dj]AB[dp]AW[fq]AB[eq]AW[fp]AB[cm]AW[do]AB[co]AW[ep]AB[dq]MA[nm]AW[dc]AB[cc]LB[dc:1]LB[cc:2]AB[db]LB[cb:3]LB[db:4]AW[ec]LB[ec:5]LB[bb:6]AB[bb]AW[cd]LB[cd:7]AB[ca]LB[ca:8]C[After black 8, white needs another stone at one of the points marked A-D before he can play at L. Please play the point that will make the ladder work.]LB[ij:A]LB[hi:B]LB[ki:C]LB[lh:D]LB[de:L
+]AP[goproblems]
+(;W[ij];B[sa]C[Ok. So prove it.];W[de];B[ed];W[ee];B[fd];W[gd];B[fe];W[ff];B[ge];W[he];B[gf];W[gg];B[hf];W[if];B[hg];W[hh];B[ig];W[jg];B[ih]
+(;W[ii];B[jh]C[Nope. That doesn't work.])
+(;W[jh];B[ii]
+(;W[ji];B[hi]C[Nope. That doesn't work.])
+(;W[hi];B[ji]C[Nope. That doesn't work.])))
+(;W[hi];B[sa]C[Ok. So prove it.];W[de];B[ed];W[ee];B[fd];W[gd];B[fe];W[ff];B[ge];W[he];B[gf];W[gg];B[hf];W[if];B[hg]
+(;W[ig];B[hh]
+(;W[gh];B[ih];W[jh];B[ii]C[This won't work.])
+(;W[ih];B[gh]C[This won't work.]))
+(;W[hh];B[ig];W[jg];B[ih]
+(;W[jh];B[ii]C[This won't work.])
+(;W[ii];B[jh]C[This won't work.])))
+(;W[ki];B[sa]C[Ok. So prove it.];W[de];B[ed];W[ee];B[fd];W[gd];B[fe];W[ff];B[ge];W[he];B[gf];W[gg];B[hf];W[if];B[hg];W[hh];B[ig];W[jg];B[ih];W[ii];B[jh]
+(;W[kh];B[ji]C[Obviously wrong.])
+(;W[ji];B[kh]C[Obviously wrong.]))
+(;W[lh];B[sa];W[de];B[ed];W[ee];B[fd];W[gd];B[fe];W[ff];B[ge];W[he];B[gf];W[gg];B[hf];W[if];B[hg];W[hh];B[ig];W[jg];B[ih];W[ii];B[jh]
+(;W[kh];B[ji]C[White has failed.])
+(;W[ji];B[kh]
+(;W[ki];B[kg]C[White has failed.])
+(;W[kg];B[ki]
+(;W[li];B[kj]C[White has failed.])
+(;W[kj];B[li]
+(;W[lj];B[mi]C[White has failed.])
+(;W[mi];B[lj]
+(;W[kk]C[White has failed.])
+(;W[lk];B[mj]
+(;W[kk]C[White has failed.])
+(;W[nj];B[kk];W[mk];B[kj];W[ij]C[Well Done!!! The wierdest choice was the only one that worked! Could you read it all?RIGHT]))
+(;W[mj];B[kk];W[lk];B[kj];W[ij]C[Well Done!!! The wierdest choice was the only one that worked! Could you read it all?RIGHT])))))))

@@ -1,0 +1,15 @@
+(;GE[elementary]DI[5k]DP[35]SO[chrise]CO[7]AB[aa]AB[ba]AB[ca]AB[da]AB[ea]AB[eb]AB[fb]AB[fc]AB[cc]AB[ae]AB[be]AB[ce]AB[de]AB[as]AB[ar]AB[aq]AB[ap]AB[bs]AB[cs]AB[ds]AB[es]AB[er]AB[ao]AB[bo]AB[fr]AB[fq]AB[bn]AB[cn]AB[en]AB[em]AW[br]AW[bq]AW[bp]AW[cr]AW[dr]AW[dq]AW[eq]AW[cp]AW[co]AW[dn]AW[dm]AW[el]AW[fn]AW[ab]AW[bb]AW[cb]AW[db]AW[ec]AW[dd]AW[fd]AW[cd]AW[bd]AW[ad]AW[ac]AW[ss]AW[sr]AW[sq]AW[sp]AW[so]AW[rs]AW[qs]AW[ps]AW[os]AW[or]AW[nr]AW[nq]AW[ro]AW[rn]AW[qn]AW[sa]AW[ra]AW[qa]AW[pa]AW[oa]AW[ob]AW[nb]AW[nc]AW[qc]AW[se]AW[re]AW[qe]AW[pe]AB[sb]AB[sc]AB[sd]AB[rd]AB[qd]AB[pd]AB[rb]AB[qb]AB[pb]AB[oc]AB[nd]AB[rr]AB[rq]AB[rp]AB[qp]AB[qo]AB[qr]AB[pr]AB[pq]AB[oq]AB[pn]AB[pm]AB[ol]AB[nn]AW[om]AW[on]LB[oo:A]LB[jd:T]C[Here the 2 players were attempting to make a pretty butterfly shape when this position arose. Question: Does the ladder work? If yes play A. If no play T.CHOICE]AP[goproblems]
+(;B[oo];W[nm];B[mm];W[nl];B[nk];W[ml];B[ll];W[mk];B[mj];W[lk];B[kk];W[lj];B[li];W[kj];B[jj];W[ki];B[kh];W[ji];B[ii];W[jh];B[jg];W[ih];B[hh];W[ig];B[if];W[hg];B[gg];W[hf];B[he];W[gf];B[ff];W[ge];B[gd];W[fe]
+(;B[ee];W[ed]
+(;B[dc]C[Congratulations, the ladder works.RIGHT])
+(;B[bc]C[Congratulations, the ladder works.RIGHT]))
+(;B[ed];W[ee];B[ef];W[ed]
+(;B[dc]C[Congratulations, the ladder works.RIGHT])
+(;B[bc]C[Congratulations, the ladder works.RIGHT])))
+(;B[jd]C[Please respond to white's moves.];W[eo];B[fm];W[gm];B[fl];W[fk];B[gl];W[hl];B[gk];W[gj];B[hk];W[ik];B[hj];W[hi];B[ij];W[jj];B[ii];W[ih];B[ji];W[ki];B[jh];W[jg];B[kh];W[lh];B[kg];W[kf];B[lg];W[mg];B[lf];W[le];B[mf];W[nf];B[me];W[md];B[ne]
+(;W[oe];B[od]
+(;W[pc]C[Uh oh, you're playing the black stones and you just lost a lot of them! The ladder works.])
+(;W[rc]C[Uh oh, you're playing the black stones and you just lost a lot of them! The ladder works.]))
+(;W[od];B[oe];W[of];B[od]
+(;W[pc]C[Uh oh, you're playing the black stones and you just lost a lot of them! The ladder works.])
+(;W[rc]C[Uh oh, you're playing the black stones and you just lost a lot of them! The ladder works.]))))

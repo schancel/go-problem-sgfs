@@ -1,0 +1,24 @@
+(;GE[fuseki]DI[12k]DP[55]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;C[black's best move
+]PL[1]
+AW[dc][jc][fd][ff][qf][dh][qi][qk][pm][cn][pn][qn][co][po][dp][fp][ip][dq][eq][er]
+AB[bc][lc][oc][qd][ce][df][ch][cj][ok][bn][on][bo][qo][qp][cq][fq][nq][pq][cr][dr]
+LB[hc:A][kq:B][cm:C]
+(;B[kq]C[RIGHT
+sente on the bottom and big territorily
+])
+
+(;B[cm]LB[dm:1][cl:2][di:3][ci:4][lq:5]
+C[playing from the strong side. after 1 through 5, white has more than black.
+])
+
+(;B[hc];W[id]
+C[white loses some points but ends up alive with sente to play the big point on bottom
+])
+
+)

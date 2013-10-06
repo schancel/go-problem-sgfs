@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2k]DP[21]SO[kaf]CO[8]AB[bp]AB[bn]AB[cp]AB[dp]AB[ep]AB[fp]AB[gp]AB[hp]AB[ip]AB[iq]AB[hr]AB[gr]AB[fr]AB[ds]AW[br]AW[bq]AW[cq]AW[dq]AW[eq]AW[fq]AW[gq]AW[hq]AW[cs]C[black to kill or to make ko, at least]AP[goproblems]
+(;B[aq]
+(;W[ar]C[CHOICE]
+(;B[bs]
+(;W[dr]C[CHOICE];B[cr]C[yes, ko is the best b can get hereRIGHT])
+(;W[as];B[dr];W[er];B[es];W[fs];B[gs]
+(;W[ap];B[ir]C[RIGHT])
+(;W[cr];B[bs]C[RIGHT])))
+(;B[dr];W[er];B[es];W[fs];B[gs];W[cr])
+(;B[er];W[dr])
+(;B[es];W[dr]))
+(;W[as];B[ap];W[ar];B[dr];W[er];B[es];W[fs];B[gs]C[RIGHT]))
+(;B[bs];W[as])
+(;B[es];W[dr])
+(;B[dr];W[er];B[es];W[fs])
+(;B[ar];W[aq]))

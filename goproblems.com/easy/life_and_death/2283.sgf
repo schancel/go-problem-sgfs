@@ -1,0 +1,43 @@
+(;GE[life and death]DI[10k]DP[54]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd24]
+
+AW[bq][br][bs][cr][dq][dp][ep][gp][gq][iq][fs][ir][eo][ho][jq]
+[aq][co]AB[ds][dr][er][fq][eq][gr][hr][hs][cq][cp][do][ar][bp]
+[dn][bo][bn]C[White to live in the corner.]
+(;W[fr];B[ap]
+(;W[fp];B[gs]
+(;W[is];B[es]
+(;W[fr];B[fs];W[hq]C[Seki. The cutting point forces black to fill his own eye. RIGHT]
+)
+(;W[fs];B[fr];W[hq]C[Seki. The cutting point forces black to fill his own eye. RIGHT]
+)
+(;W[hq];B[cs]))
+(;W[hq];B[es]
+(;W[fr];B[fs];W[is]C[Seki. The cutting point forces black to fill his own eye. RIGHT]
+)
+(;W[fs];B[fr];W[is]C[Seki. The cutting point forces black to fill his own eye. RIGHT]
+)
+(;W[is];B[cs])))
+(;W[es];B[gs];W[fs];B[cs])
+(;W[is];B[cs])
+(;W[hq];B[cs]))
+(;W[is];B[fr]
+(;W[fp];B[ap]C[black wins])
+(;W[hq];B[ap]C[black wins])
+(;W[es];B[ap]C[black wins])
+(;W[gs];B[ap]C[black wins]))
+(;W[fp];B[fr]
+(;W[hq];B[ap]C[black wins])
+(;W[is];B[ap]C[black wins])
+(;W[es];B[ap]C[black wins])
+(;W[gs];B[ap]C[black wins]))
+(;W[hq];B[fr]
+(;W[fp];B[ap]C[black wins])
+(;W[is];B[ap]C[black wins])
+(;W[es];B[ap]C[black wins])
+(;W[gs];B[ap]C[black wins])
+(;W[cs];B[ap]))
+(;W[cs];B[ap])
+(;W[es];B[cs]C[black wins])
+(;W[gs];B[cs]C[black wins]))

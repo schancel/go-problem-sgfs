@@ -1,0 +1,16 @@
+(;GE[life and death]DI[4k]DP[29]SO[huhss]CO[9]AB[aq][bq][cq][dq][eq][er]AW[dr][es][fr][fq][fp][eo][do][co][bp][ap]C[Black first]
+AP[]SZ[19]
+
+(;B[ds]
+(;W[cs]
+(;B[bs]
+(;W[fs];B[cr];W[ds];B[ar]C[RIGHT])
+(;W[br];B[cr];W[as];B[ar]C[RIGHT])
+(;W[cr];B[br]C[RIGHT]))
+(;B[cr];W[bs]C[ko]))
+(;W[cr];B[br];W[cs];B[bs]C[RIGHT]))
+(;B[bs];W[ds];B[cr];W[ar]C[WRONG])
+(;B[cs];W[ds]
+(;B[cr];W[fs]C[WRONG])
+(;B[br];W[as]C[WRONG]))
+(;B[cr];W[ds];B[cs];W[fs]C[WRONG]))

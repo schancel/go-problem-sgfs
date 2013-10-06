@@ -1,0 +1,21 @@
+(;GE[endgame]DI[25k]DP[78]SO[lect]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[White]PB[Black]AW[cj][dj][ej][ek][fk][hk][el][gl][jl][kl][em][fm][km]AB[eg][eh][jh][bi][ci][di][ei][fi][hi][aj][bj][jj][ak][ck][dk][kk][al][bl][ll][cm][dm][lm]TR[km][lm]C[B plays the marked stone and W hastily responds with his own marked stone. How should B punish?]
+(;B[il]CR[il]
+;W[ik]CR[ik]
+;B[jk]CR[jk]C[RIGHT]C[Black captures three stones.])
+(;B[jk]CR[jk]
+;W[il]CR[il])
+(;B[lk]CR[lk]C[No effect on white])
+(;B[ik]CR[ik]
+;W[il]CR[il])
+(;B[im]CR[im]
+;W[ik]CR[ik])
+(;B[jm]CR[jm]
+;W[im]CR[im]
+(;B[jk]CR[jk]
+;W[ik]CR[ik])
+(;B[ik]CR[ik]
+;W[il]CR[il])
+(;B[il]CR[il]
+;W[ik]CR[ik])))

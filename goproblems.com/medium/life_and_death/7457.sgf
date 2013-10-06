@@ -1,0 +1,92 @@
+(;GE[life and death]DI[3k]DP[26]SO[LCZLAPINSKI]CO[4]SZ[13]AB[bl]AB[ck]AB[cj]AB[di]AB[dh]AW[dg]AW[ch]AW[bi]AB[fi]AB[gi]AW[ae]AW[be]AW[bd]AW[cd]AW[dd]AB[ad]AB[ac]AB[bc]AB[cc]AB[dc]AB[fd]AW[cl]AW[dl]AW[dk]AW[ej]AW[fj]AB[gj]AB[fk]AW[gk]AW[gl]AB[fl]AB[cg]TR[cg]AB[ei]AB[ic]AB[kd]AB[le]AW[hj]AW[hl]AB[im]AB[il]AW[ik]AW[jk]AW[kj]AB[ij]AW[ii]AW[kf]AW[lf]AW[bg]AB[em]AB[gm]AB[hm]AW[hk]AW[jl]AP[goproblems]
+(;W[dj];B[cm]MA[cl]MA[dl]MA[dk]MA[dj]MA[ej]MA[fj]C[You failed to save white's C2 group. Since white dies, black gains life. Try again.])
+(;W[bm]
+(;B[dm];W[cm];B[al];W[bk];B[bj])
+(;B[dj];W[ek];B[cm];W[dm]
+(;B[bk]C[CHOICE];W[jm];B[al]C[CHOICE];W[fm];B[gm];W[hm];B[am];W[fm]C[Ko])
+(;B[al]C[CHOICE]
+(;W[bk];B[bj];W[jm];B[ak];W[fm];B[gm];W[hm];B[am];W[fm]C[Ko];B[gm]C[NOTTHIS])
+(;W[jm];B[am];W[fm];B[gm];W[hm];B[cm]C[Ko];W[bm]C[NOTTHIS]))
+(;B[ak]C[CHOICE];W[jm];B[al];W[fm];B[gm];W[hm];B[am];W[fm]C[Ko];B[gm]C[NOTTHIS])))
+(;W[cm];B[dj];W[ek];B[bm];W[jm];B[dm]C[You failed to save white's C1 stones. Try again.CHOICE];W[fm];B[gm]C[Snapback :(  You failed to save white's C1 group. Try again.]MA[cm]MA[cl]MA[dl]MA[dk]MA[ek]MA[ej]MA[fj])
+(;W[dm];B[dj];W[ek];B[bm];W[jm];B[cm]MA[dm]MA[dl]MA[cl]MA[dk]MA[ek]MA[ej]MA[fj]C[You failed to save white's C2 group. Try again.];W[fm];B[gm]C[Snapback :(   You failed to save white's C2 group. Since white's C2 group is dead, black's C3 group is alive. Try again.])
+(;W[jm];B[dj];W[ek];B[cm];W[fm];B[gm]C[Snapback :(]MA[cl]MA[dl]MA[dk]MA[ek]MA[ej]MA[fj];W[hm];B[dm]C[You failed to save white's C2 group. Since white dies, black gains life. Try again.];W[fm];B[el])
+(;W[ci];B[dj]C[You lose the C2 group. Since you lose the C2 group, black gains life. Try again.]
+(;W[ek]
+(;B[cm]
+(;W[jm];B[dm]C[You failed to save white's C2 stones. Try again.];W[fm];B[gm]C[Snapback :(  You failed to save the C2 group. Since white's C2 group dies, black gains life.Try again.]MA[cl]MA[dl]MA[dk]MA[ek]MA[ej]MA[fj]
+(;W[hm]
+(;B[el])
+(;B[eg]C[You failed to save white's C2 group. Since white's C2 group dies, black lives. Try again. CHOICE]
+(;W[fm];B[el])
+(;W[df];B[ef]C[You failed to save white's C2 group. Since white loses the C2 group, black gains life.])))
+(;W[bk];B[bj]C[You failed to save white's C2 group. Since white's C2 group dies, black's c3 group lives. Try again.]))
+(;W[dm];B[el]C[wD1 was bad because it was self atari.]))
+(;B[jm]))
+(;W[bk];B[bj];W[ek];B[cm]C[You failed to save white's C2 group. Since white's C2 group dies, black gains life. Try again.])
+(;W[eg];B[gg]C[You lost your C2 group. Since white loses the C2 group black lives. Try again.]))
+(;W[cf];B[dj]
+(;W[ek];B[cm]
+(;W[jm];B[dm];W[fm];B[gm]C[Snapback :(   You failed to save your C2 group. Try again.]
+(;W[hm];B[eg]
+(;W[fm];B[el])
+(;W[ef];B[ff]C[You failed to save white's C2 group. Since white's C2 group is dead, black gains life. Try again.]))
+(;W[jd];B[jc]C[You failed to save white's C2 group. Since white's C2 group is dead, black gains life. Try again.]))
+(;W[dm];B[el]C[WD1 was self atari. You failed to save your C2 group. Since the C2 group died, black gains life. Try again.])
+(;W[fg];B[gg]C[You lost white's C2 group. Since white's C2 is dead, black's C3 group gains life. Try again.]))
+(;W[el];B[ek]MA[cl]MA[dl]MA[dk]MA[el]C[You failed to save white's C2 group. This gives black's C2 group life. Try again.])
+(;W[ig];B[gg]MA[cl]MA[dl]MA[dk]MA[ej]MA[fj]C[You failed to save white's C2 and E4 groups. This gives life to black's C3 group. Try again.])
+(;W[bm];B[bk];W[ek];B[dm];W[jm];B[cm]C[You lose white's C2 group. Since white's C2 group is dead, black gains life. Try again.];W[fm];B[gm]C[Snapback :(    You lose the white C2 group. Since you lose the C2 group, black gains life. Try again.])
+(;W[bj];B[bk]C[You failed to save white's C2 group. Since white's C2 group dies, black lives. Try again.])
+(;W[ci];B[bj]
+(;W[ek];B[cm];W[jm];B[dm]C[You failed to save white's C2 group. Since white's C2 group is dead, black's C3 group gains life. Try again.])
+(;W[jm];B[ek];W[fm]
+(;B[eg]C[CHOICE])
+(;B[gm]C[Snapback. bE7 looks better than bG1 right now.])))
+(;W[hf];B[ff]C[You failed to save white's C2 group. Since white's E4 group dies, black gains life for his C3 group. Try again.]))
+(;W[eg];B[dj]C[You failed to save white's C2 group. Since white's E4 group dies, black gains life for his C3 group. Try again.]
+(;W[ek];B[cm];W[jm];B[dm]C[You failed to save the C2 group. Since the C2 group is dead, black is alive. Try again.];W[fm];B[gm]C[Snapback :(   White's C2 group is dead.]MA[cl]MA[dl]MA[dk]MA[ek]MA[ej]MA[fj];W[hm]
+(;B[gg]
+(;W[fm];B[el])
+(;W[ff];B[ee];W[df]))
+(;B[ee];W[df]
+(;B[de])
+(;B[gg])
+(;B[jg]
+(;W[jf];B[ig];W[if];B[hh])
+(;W[kg];B[jf]))))
+(;W[gg]))
+(;W[df];B[dj]C[You failed to save white's C2 group. Since white's E4 group is dead, black's C3 group lives. Try again.]
+(;W[ek];B[cm]MA[cl]MA[dl]MA[dk]MA[ek]MA[ej]MA[fj]C[You failed to save the C2 group. Since white's C2 group dies, black gains life for his lower groups.];W[jm];B[dm];W[fm];B[gm]C[Snapback :(   White's C2 group is dead.];W[hm];B[eg];W[fm];B[el])
+(;W[jm];B[ek]C[You failed to save white's C2 and E4 groups. Since white's C2 and E4 groups die, black gains life. Try again.]MA[cl]MA[dl]MA[dk])
+(;W[bk];B[bj]C[You failed to save your C2 group. Since white's C2 group dies, black's C3 group lives. Try again.];W[ek];B[cm];W[jm];B[dm];W[fm];B[gm]C[Snapback :(   Your C2 group is dead. Since white's C2 group is dead, black is alive. Try again.])
+(;W[el];B[ek]C[You failed to save your C2 group. Since white's E4 group died, black's C3 group is alive.];W[bk];B[bj])
+(;W[cf]
+(;B[jg]
+(;W[jf];B[ig];W[if];B[hh])
+(;W[kg];B[jf]))
+(;B[ff])))
+(;W[el]C[];B[cm]
+(;W[ek];B[dm];W[fm]
+(;B[fl]
+(;W[bm];B[am]
+(;W[fk];B[bk];W[jm]C[RIGHT];B[bm]C[RIGHT];W[fm]C[RIGHT])
+(;W[jm];B[bk];W[fk]))
+(;W[fk];B[bm];W[jm];B[fm])
+(;W[jm];B[bm];W[fm];B[gm];W[fk];B[fm]))
+(;B[fk]
+(;W[fl];B[bm];W[jm])
+(;W[jm];B[bm])
+(;W[bm]C[RIGHT])))
+(;W[dm];B[dj]
+(;W[jm];B[ek])
+(;W[bm];B[fm];W[jm];B[ek])
+(;W[fm];B[ek];W[bm];B[em]C[Ko];W[fm]C[NOTTHIS]))
+(;W[bm];B[dj]))
+(;W[ek]C[];B[dm]
+(;W[el];B[cm])
+(;W[cm];B[bm];W[jm];B[dj])
+(;W[bm];B[cm];W[bk];B[am];W[jm];B[dj];W[fm];B[el]))
+(;W[fg];B[dj];W[ek];B[cm];W[jm];B[dm]C[You failed to save the C2 group. Try again.];W[fm];B[el])
+(;W[gg];B[dj];W[ek];B[cm]C[You failed to save white's C2 group. Try again.];W[jm]C[You failed to save white's C2 group. Try again.];B[dm];W[fm];B[el])
+(;W[gh];B[dj];W[ek];B[cm]C[You failed to save white's C2 group. Since white dies, black lives. Try again.]))

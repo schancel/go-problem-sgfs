@@ -1,0 +1,22 @@
+(;GE[best move]DI[1d]DP[16]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cf][dj][eo][cp][dp][pp]AB[dd][qd][cn][cq][dq][fq]LB[oc:C][fd:B][ce:A][cf:1][qn:E][ep:D]C[white plays at 1. how should black respond?]
+(;B[ce]CR[ce]
+;W[df]CR[df]C[this helps white get good shape])
+(;B[fd]CR[fd]
+;W[gp]CR[gp]C[white returns to finish this joseki])
+(;B[oc]CR[oc]
+;W[gp]CR[gp]C[white returns to finish this joseki])
+(;B[ep]CR[ep]
+(;W[fp]CR[fp]C[correct first move. now, the follow-up?]
+;B[eq]CR[eq]
+;W[do]CR[do]
+(;B[fo]CR[fo]C[RIGHT
+white cannot save both this stone and the four stones to the left])
+(;B[bp]CR[bp]
+;W[gp]CR[gp]C[connecting along the bottom is small compared to fixing the outside])
+(;B[gp]CR[gp]
+;W[fo]CR[fo]C[wrong direction]))
+(;W[fo]CR[fo]C[this is actually better for white. let black capture two stones. still, overall this favors black.]))
+(;B[qn]CR[qn]
+;W[gp]CR[gp]C[white returns to finish this joseki]))

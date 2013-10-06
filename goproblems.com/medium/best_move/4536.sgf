@@ -1,0 +1,108 @@
+(;GE[best move]DI[2k]DP[22]SO[Hans]CO[7]
+AW[fc][gc][hc][kc][cd][fd][id][be][fe][he][bf][bg][bh]
+AB[fb][ec][ed][ce][ee][cf][ff][cg][ch][ci][ck]
+(;B[cc];W[bc]
+(;B[cb];W[bb]
+(;B[ba];W[ad]
+(;B[bi];W[ah]C[White lives.
+])
+
+(;B[ab];W[bi];B[bj];W[ai]C[White lives.
+])
+)
+
+(;B[ad];W[bd]C[White is alive.
+])
+)
+
+(;B[dd];W[bd]
+(;B[cb];W[bb];B[ba]C[White plays elsewhere and lives.
+])
+
+(;B[bb];W[cb];B[db];W[ca];B[da];W[dc]LB[ac:A]
+C[If white loses the ko she can live by playing at A.
+])
+)
+)
+
+(;B[bc]
+(;W[bd];B[cb];W[bi];B[bj]C[
+])
+
+(;W[cc]
+(;B[cb];W[db]
+(;B[bb]
+(;W[dc]
+(;B[eb];W[bd];B[da]C[CHOICE RIGHT White is dead.
+])
+
+(;B[bd];W[eb];B[bi]
+C[You could have captured more. And white can play A in the endgame.
+]
+LB[de:A])
+)
+
+(;W[eb];B[dc];W[gb];B[bd]
+C[CHOICE RIGHT Black has captured the main part of the white group.
+])
+)
+
+(;B[bd];W[bb])
+
+(;B[ba];W[dc]
+(;B[eb];W[bd]
+(;B[da]C[RIGHT
+])
+
+(;B[ab];W[da];B[ca];W[ad];B[ac];W[bi];B[bj];W[ai])
+)
+
+(;B[bd];W[eb]C[You could have captured more.
+])
+)
+)
+
+(;B[bb];W[cb]
+(;B[bd];W[ba]C[White lives.
+])
+
+(;B[ca];W[da];B[ba];W[db];B[bd];W[ad]
+C[Black loses the capturing race.
+])
+)
+)
+
+(;W[db];B[cc];W[dc];B[dd];W[bd];B[eb])
+)
+
+(;B[bb];W[cb]
+(;B[bc];W[cc];B[bd];W[ba]C[White lives.
+])
+
+(;B[db];W[bc];B[ca];W[cc]C[White lives.
+])
+
+(;B[ca];W[bc];B[db];W[cc]C[White lives.
+])
+)
+
+(;B[cb];W[bc]
+(;B[bb];W[ac]C[White lives.
+])
+
+(;B[cc];W[bb]LB[cc:A]C[White lives. See the path beginning with A.
+])
+
+(;B[ad];W[bb]
+(;B[bd];W[cc]C[White is alive.
+])
+
+(;B[cc];W[bd]C[White is alive.
+])
+)
+)
+
+(;B[bi];W[cb]C[White lives big.
+])
+
+)

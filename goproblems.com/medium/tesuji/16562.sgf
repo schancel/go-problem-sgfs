@@ -1,0 +1,76 @@
+(;GE[tesuji]DI[1k]DP[18]SO[nightMoriak]CO[0]AW[bb]AW[cc]AW[db]AB[bc]AB[bd]AB[ce]AB[dd]AB[dc]AB[fd]AW[eb]AW[de]AW[cf]AW[df]AW[bf]C[White to save his corner]AW[fe]AW[fg]AW[ge]AB[gb]AB[gd]AW[ae]AB[hc]AW[hd]AW[he]AB[ic]AB[fb]AW[fc]AB[gc]AP[goproblems]
+(;W[ac];B[ad]
+(;W[be];B[cd]
+(;W[ed];B[cb]
+(;W[ec];B[ab]C[Not bad but white can do much better])
+(;W[ca];B[ec]C[CHOICE])
+(;W[ab];B[ec]C[CHOICE]))
+(;W[cb];B[ec]
+(;W[ab];B[ea]C[CHOICE])
+(;W[ea];B[ab]C[CHOICE]))
+(;W[ab];B[ec];W[cb];B[ea]C[CHOICE])
+(;W[ca];B[ec];W[ab];B[ea]C[CHOICE])
+(;W[ec];B[ed]C[white is totally dead hereCHOICE]))
+(;W[ed];B[cd]
+(;W[cb];B[ec]C[White is all dead here.CHOICE])
+(;W[ec]C[RIGHT];B[cb];W[ca];B[ba]
+(;W[aa];B[ab];W[cc]C[Good, ko to kill black in white favor :)RIGHT])
+(;W[cc]C[Good, ko to kill black  in white favor :)RIGHT])))
+(;W[cb];B[cd]
+(;W[ed];B[ec]C[CHOICE])
+(;W[ec];B[ed]C[CHOICE]))
+(;W[ec];B[ed]C[CHOICE]))
+(;W[cb];B[cd]
+(;W[ac];B[ad]
+(;W[ed];B[ec]C[CHOICE])
+(;W[ec];B[ed]C[CHOICE];W[ab];B[ea]C[CHOICE])
+(;W[ab];B[ea]C[CHOICE])
+(;W[ea];B[ab]C[CHOICE]))
+(;W[ad];B[ac]
+(;W[ab];B[ea]C[CHOICE])
+(;W[ea];B[ab]C[CHOICE])
+(;W[ed];B[ec]C[CHOICE]))
+(;W[ec];B[ed];W[ac];B[ad])
+(;W[ed];B[ec]
+(;W[ac];B[ad])
+(;W[ab];B[ea]C[CHOICE];W[ac];B[ad])
+(;W[ba];B[ab]C[CHOICE]))
+(;W[ab];B[ea]
+(;W[ec];B[ed]C[CHOICE])
+(;W[ac];B[ad]C[CHOICE])))
+(;W[ab];B[cd]
+(;W[ca];B[ea]C[CHOICE])
+(;W[ac];B[ad]
+(;W[ed];B[ec]C[CHOICE])
+(;W[ec];B[ed]C[CHOICE])
+(;W[ca];B[ea]C[CHOICE])
+(;W[cb]))
+(;W[cb])
+(;W[ba];B[cb]C[CHOICE])
+(;W[ea];B[cb]C[CHOICE]))
+(;W[ec];B[ed]
+(;W[ac];B[ad]
+(;W[be];B[cd]C[CHOICE])
+(;W[cb];B[cd]C[CHOICE])
+(;W[ea];B[cd]C[CHOICE]))
+(;W[cb];B[cd]C[CHOICE])
+(;W[ab];B[cd]
+(;W[ac];B[ad]C[CHOICE])
+(;W[cb];B[ea]C[CHOICE]))
+(;W[be];B[cd]C[CHOICE]))
+(;W[ca];B[ab]C[CHOICE])
+(;W[ba];B[ab]C[CHOICE])
+(;W[be];B[cd]
+(;W[ac];B[ad])
+(;W[ad];B[ac]
+(;W[ab]
+(;B[ec]C[CHOICE])
+(;B[cb]C[CHOICE]))
+(;W[ec];B[ed]C[CHOICE])
+(;W[cb];B[ec]C[CHOICE])))
+(;W[ad];B[ac];W[be];B[cd])
+(;W[ed];B[cd]
+(;W[ec];B[cb]
+(;W[ca];B[ab];W[ba]C[RIGHT])
+(;W[ba]C[RIGHT]))
+(;W[ac];B[ad])))

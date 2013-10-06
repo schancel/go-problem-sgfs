@@ -1,0 +1,19 @@
+(;GE[life and death]DI[6k]DP[36]SO[ceram88]CO[0]AW[bb]AW[cc]AW[cd]AW[be]AB[af]AB[bf]AB[cf]AB[df]AB[de]AB[dc]AB[db]AB[cb]AB[ed]AW[bg]AW[cg]AW[bi]AW[ci]LB[be:1]LB[af:2]LB[gf:D]C[White threatened the conenction at 1 and black responded with 2. Whats the best white can do here? If white is unconditionally dead, play D.]AP[goproblems]
+(;W[gf]C[RIGHT])
+(;W[ad];B[ba]
+(;W[ab];B[bc])
+(;W[bc];B[ab]))
+(;W[ae];B[ac]
+(;W[ab];B[ba])
+(;W[ba]
+(;B[ab]
+(;W[bc];B[ce]
+(;W[aa];B[ad];W[bd];B[ac])
+(;W[ad];B[bd]))
+(;W[ce];B[bc])
+(;W[ad];B[ce]))))
+(;W[ba];B[ae];W[ad];B[ab];W[ac];B[bd]
+(;W[bc];B[ce])
+(;W[ce];B[bc]))
+(;W[ac];B[ba]C[Only one eye.])
+(;W[ab];B[ba]C[Only one eye.]))

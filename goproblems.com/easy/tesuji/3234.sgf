@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[6k]DP[37]SO[polo]CO[8]AB[br][cr][dr][er][fq][gq][hp][ho][gn][fm][el][dl][cl][bm][bn][dn][dp][cp]AW[eq][dq][cq][bq][bp][bo][co][cn][cm][dm][em]SZ[19]C[White to capture and live.]
+
+(;W[fo]
+(;B[en]C[CHOICE]
+(;W[fn];B[ep];W[fp]C[RIGHT])
+(;W[ep];B[fn])
+(;W[do];B[fn])
+(;W[fp];B[fn])
+(;W[eo];B[fn]))
+(;B[ep]C[CHOICE];W[fp];B[fn];W[en]C[RIGHT])
+(;B[eo]C[CHOICE]
+(;W[fp];B[fn];W[en]C[RIGHT])
+(;W[fn];B[fp];W[ep]C[RIGHT])
+(;W[en];B[fp];W[ep]C[RIGHT])
+(;W[ep];B[fn];W[en]C[RIGHT])))
+(;W[ep];B[en])
+(;W[eo];B[en]
+(;W[ep];B[fn])
+(;W[do];B[fn])
+(;W[fo];B[fn]))
+(;W[en];B[ep];W[fp];B[fo];W[eo];B[gp];W[do];B[fp]))

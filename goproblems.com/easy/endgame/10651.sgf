@@ -1,0 +1,18 @@
+(;GE[endgame]DI[5k]DP[34]SO[Bleedo]CO[4]AB[dd]AB[dc]AB[de]AB[cf]AB[bf]AB[ae]AB[bd]AW[fe]AW[ee]AW[ed]AW[ef]AW[df]AW[dg]AW[cg]AW[bg]AW[ag]AW[af]AB[eb]AW[fc]AW[fb]AW[gb]AW[hb]AB[fa]AB[ga]AW[cb]AB[bb]AW[cc]AB[bc]LB[cc:1]LB[bc:2]C[White to punish. Black's moves aren't optimal.]AP[goproblems]
+(;W[cd];B[ce]
+(;W[db];B[ec];W[ha];B[ea])
+(;W[ec];B[db];W[ha];B[ea])
+(;W[ha];B[ea];W[db];B[ec]))
+(;W[ha];B[da];W[ea];B[fa])
+(;W[db];B[ec]
+(;W[ha];B[da])
+(;W[ce];B[be];W[cd]C[RIGHT]))
+(;W[ec];B[db];W[ha];B[ea]
+(;W[ce];B[be])
+(;W[cd];B[ce]))
+(;W[da];B[ea];W[ec];B[db];W[ce];B[be])
+(;W[ce];B[be]
+(;W[db];B[ec];W[cd]C[RIGHT])
+(;W[cd];B[db])
+(;W[ec];B[db])
+(;W[ha];B[da])))

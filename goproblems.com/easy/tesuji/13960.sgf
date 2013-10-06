@@ -1,0 +1,11 @@
+(;GE[tesuji]DI[10k]DP[52]SO[romescu]CO[0]AB[pq]AB[po]AB[oo]AB[qn]AB[qm]AB[rn]AB[sm]AB[rl]AB[rk]AB[pl]AB[pk]AB[ok]AB[nj]AB[pi]AB[qi]AW[mo]AW[mq]AW[qo]AW[ro]AW[qq]AW[rq]AW[pm]AW[pn]AW[ol]AW[nk]AW[nm]AW[qj]AW[qk]AW[ql]AW[qh]MA[mo]C[W has played the marked stone, big mistake (assume the ladders don't work). Thanks Yoon for his comment, the variation's been added to the navigation solution]AP[goproblems]
+(;B[om]
+(;W[on];B[nn];W[om];B[mm];W[nl]
+(;B[mk];W[ml];B[ll]C[niceRIGHT])
+(;B[ml];W[mk];B[lk];W[mj];B[mi]C[I told you the ladders didn't work]))
+(;W[nl];B[nn];W[mn]C[RIGHT]))
+(;B[on];W[om];B[nn];W[mm]C[no, that doesn't work])
+(;B[nn];W[om];B[mm];W[ml]
+(;B[on];W[nl];B[ll];W[mk]
+(;B[mj];W[lk];B[kk];W[lj];B[li]C[Sorry, I told you the ladders didn't work]))
+(;B[mk];W[ll];B[nl]C[Ko, you can do better])))

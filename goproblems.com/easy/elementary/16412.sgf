@@ -1,0 +1,16 @@
+(;GE[elementary]DI[5k]DP[32]SO[santa c]CO[0]AW[se]AB[re]AB[qf]AB[qg]AB[qh]AB[qi]AB[ri]AB[si]AB[pf]AB[qd]AB[pd]AB[od]AB[nd]AB[nc]AW[nb]AW[oc]AW[pc]AW[qc]AW[rc]AW[rd]AW[mc]AW[md]AW[ne]AW[nf]AW[pg]AW[og]AW[nh]AW[ni]AW[pj]AW[qj]AW[rj]AW[sj]AW[rg]C[What should you do?]AP[goproblems]
+(;B[rf];W[sf]
+(;B[sg];W[sh];B[rh]C[nice!RIGHT])
+(;B[sd];W[sg])
+(;B[rh];W[sg]))
+(;B[sf];W[rf];B[sd];W[sg]
+(;B[rh];W[se]C[ko!])
+(;B[sh];W[se]C[ko!])
+(;B[se];W[sc]MA[qe]MA[oe])
+(;B[qe];W[oe])
+(;B[oe];W[sc]))
+(;B[sg];W[rf])
+(;B[qe];W[sf])
+(;B[sd]
+(;W[sg];B[sf];W[rf])
+(;W[sf];B[sg]C[(W cannot T14 because of this reverting to the correct path!)])))

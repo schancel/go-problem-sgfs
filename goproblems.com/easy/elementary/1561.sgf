@@ -1,0 +1,23 @@
+(;GE[elementary]DI[12k]DP[56]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[bb][cb][db][ac][bc][dc][dd][de][df]AB[ba][eb][gb][fc][ad][cd][ed][gd][be][ce][ff][bg][cg][dg][eg]LB[ba:1]C[black played 1. how to respond?]PL[W]
+(;W[aa]CR[aa]
+;B[ab]CR[ab]
+(;W[ca]CR[ca]C[RIGHT
+black cannot connect: no ko])
+(;W[da]CR[da]
+;B[aa]CR[aa]))
+(;W[ca]CR[ca]
+;B[aa]CR[aa])
+(;W[da]CR[da]
+;B[aa]CR[aa])
+(;W[bd]CR[bd]
+;B[aa]CR[aa])
+(;W[cc]CR[cc]
+;B[aa]CR[aa])
+(;W[ec]CR[ec]
+;B[aa]CR[aa]
+;W[ee]CR[ee]
+;B[fd]CR[fd]
+;W[fe]CR[fe]
+;B[ge]CR[ge]))

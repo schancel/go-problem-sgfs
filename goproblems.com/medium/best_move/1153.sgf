@@ -1,0 +1,76 @@
+(;GE[best move]DI[2k]DP[23]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[aa][ga][ab][bb][gb][hb][bc][cc][ec][fc][hc][ic][bd][dd][ed][ee][ie][df][ef][kf][dg][eg][hg][ig][jg][eh][hh][ih][kh][ei][fi][gi][hi][ki][bj][cj][fj][kj][dk][ek][kk][fl][jl][ll][rl][bm][cm][dm][fm][jm][lm][mm][rm][bn][ln][pn][qn][ao][ho][io][jo][ko][lo][mo][ap][bp][dp][fp][gp][ip][mp][pp][cq][dq][fq][lq][qq][br][fr][gr][qr][as][bs]AB[ba][da][fa][cb][db][eb][fb][dc][gc][jc][nc][ad][cd][fd][gd][hd][id][qd][be][ce][de][ge][je][af][bf][cf][gf][jf][ag][cg][fg][gg][kg][lg][ah][dh][gh][jh][bi][ci][di][ii][ji][dj][ej][gj][hj][ij][fk][gk][jk][qk][gl][kl][ml][nl][ql][gm][km][nm][qm][cn][dn][en][fn][gn][mn][nn][bo][co][go][no][cp][hp][jp][kp][lp][np][gq][hq][mq][oq][pq][er][hr][jr][lr]LB[ba:1]C[black just took at 1. white needs a good ko threat]PL[W]
+(;W[lf]CR[lf]
+(;B[ac]CR[ac]
+(;W[mg]TR[jh][ii][ji][gj][hj][ij][fk][gk][jk][gl][gm][cn][dn][en][fn][gn][bo][co][go][cp]CR[mg]C[RIGHT
+the big black group is captured])
+(;W[jb]CR[jb]
+;B[mg]CR[mg])
+(;W[lh]CR[lh]
+;B[mg]CR[mg])
+(;W[mf]CR[mf]
+;B[mh]CR[mh]))
+(;B[mg]CR[mg]C[this is possible]
+;W[ca]CR[ca]
+;B[ck]CR[ck]
+;W[ea]CR[ea]
+;B[dl]CR[dl]C[white has a small advantage at this point]))
+(;W[kd]CR[kd]
+;B[ac]CR[ac]C[now what?]
+(;W[jd]CR[jd]
+;B[ke]CR[ke]
+(;W[if]CR[if]
+;B[le]CR[le]
+(;W[kc]CR[kc]
+;B[jb]CR[jb]
+;W[kb]CR[kb]
+;B[ib]CR[ib])
+(;W[jb]CR[jb]
+;B[kc]CR[kc]))
+(;W[kc]CR[kc]
+;B[if]CR[if])
+(;W[le]CR[le]
+;B[lf]CR[lf]
+;W[if]CR[if]
+;B[kf]CR[kf]
+(;W[kc]CR[kc]
+;B[jb]CR[jb])
+(;W[jb]CR[jb]
+;B[kc]CR[kc]
+;W[ld]CR[ld]
+;B[lc]CR[lc])))
+(;W[ke]CR[ke]
+;B[jd]CR[jd]
+;W[jb]CR[jb]
+;B[kc]CR[kc]))
+(;W[jb]CR[jb]
+;B[ac]CR[ac]
+;W[kc]CR[kc]
+;B[jd]CR[jd])
+(;W[jq]CR[jq]
+;B[ac]CR[ac]C[too small])
+(;W[kq]CR[kq]
+;B[ac]CR[ac]C[too small])
+(;W[mr]CR[mr]
+;B[ac]CR[ac]C[too small])
+(;W[ca]CR[ca]C[NOTTHIS])
+(;W[if]CR[if]
+;B[ac]CR[ac])
+(;W[bh]CR[bh]
+;B[ac]CR[ac])
+(;W[iq]CR[iq]
+;B[ac]CR[ac])
+(;W[pd]CR[pd]
+;B[ac]CR[ac])
+(;W[qc]CR[qc]
+;B[ac]CR[ac])
+(;W[jd]CR[jd]
+;B[ac]CR[ac]
+;W[kd]CR[kd]
+;B[ke]CR[ke])
+(;W[nr]CR[nr]
+;B[ac]CR[ac])
+(;W[mg]CR[mg]
+;B[ac]CR[ac]
+;W[lf]CR[lf]C[RIGHT]))

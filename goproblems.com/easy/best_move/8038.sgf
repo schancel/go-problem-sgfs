@@ -1,0 +1,23 @@
+(;GE[best move]DI[4k]DP[31]SO[chrise]CO[8]AW[ra]AW[rb]AW[sb]AB[qb]AB[pb]AB[oc]AB[pd]AB[qd]AB[of]AB[qf]AB[qg]AB[rg]AW[rf]AW[rd]AW[qc]AB[sc]C[Please find the best outcome for the corner. Tenuki is not an option :-)]AP[goproblems]
+(;W[sd];B[re]C[White can do better])
+(;W[rc];B[re]C[White can do better])
+(;W[qe];B[rc]
+(;W[re];B[pc])
+(;W[sd];B[rc]
+(;W[sf];B[re];W[pe];B[oe];W[se];B[pc])
+(;W[re];B[sf]))
+(;W[se];B[pc]))
+(;W[re];B[rc]
+(;W[sd];B[rc]
+(;W[sf]C[RIGHT])
+(;W[sc];B[sf]))
+(;W[sf];B[pc]))
+(;W[se];B[rc];W[sd];B[rc])
+(;W[ng];B[rc];W[sd];B[rc];W[sf];B[re])
+(;W[oh];B[rc]
+(;W[sd];B[rc];W[re];B[sf];W[sc])
+(;W[re];B[pc];W[sd];B[sf];W[qc];B[rc]))
+(;W[sf];B[re]
+(;W[se];B[rc];W[sd];B[rc])
+(;W[sd];B[sg]C[White can do better])
+(;W[rc];B[sg]C[White can do better])))

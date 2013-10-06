@@ -1,0 +1,12 @@
+(;GE[life and death]DI[8k]DP[46]SO[mcw85]CO[0]AB[ao]AB[bo]AB[ap]AB[aq]AB[bq]AB[cq]AB[dr]AB[er]AB[fr]AB[bs]AW[an]AW[bn]AW[cn]AW[co]AW[cp]AW[bp]AW[dq]AW[eq]AW[fq]AW[gr]AW[gq]AW[dp]AW[gs]AW[fs]C[Black plays tenuki after White F1. How should White play to kill Black?]AP[goproblems]
+(;W[cr]
+(;B[br]C[CHOICE]
+(;W[ds];B[cs];W[es]C[RIGHT])
+(;W[es];B[cs];W[ds]C[RIGHT]))
+(;B[cs]C[CHOICE];W[ds];B[br];W[es]C[RIGHT]))
+(;W[ds];B[cr]
+(;W[ar];B[es])
+(;W[es];B[ar]))
+(;W[es];B[ds]
+(;W[cr];B[cs])
+(;W[cs];B[cr])))

@@ -1,0 +1,17 @@
+(;GE[best move]DI[6d]DP[2]SO[cheyenne]CO[7]SZ[19]AW[pc]AW[qf]AW[pg]AB[pd]AB[of]AB[pf]LB[oc:A]LB[qc:B]LB[qe:C]TR[pc]C[White just played a hamete at the marked stone (Q17) instead of following the normal tsukenobi (attach extend) joseki.  How should Black respond?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[oc];W[qc]
+(;B[qd];W[ob];B[nc];W[nb];B[mc];W[og];B[ng];W[pi]LB[jd:A]TR[od]C[After this exchange White has been fortunate to take both the corner and side, leaving Black pinched between the two White groups with an over-concentrated group of stones.  This position also leaves behind an interesting aji point at the marked spot, with plenty of mistakes for Black to make.  To explore what happens if white does play P16 play at A];B[jd];W[od]LB[nd:A]LB[pe:B]LB[qe:C]C[ The White move here threatens a connection from the white corner group to the side group.  Black has follow ups at: A B or CCHOICE]
+(;B[nd];W[rd]C[Black cannot stop White's connection.  White has now taken the corner and side, and Black has an over-concentrated position])
+(;B[pe];W[nf];B[ne];W[rd]C[The White groups connect along the side.])
+(;B[qe];W[nf]C[This results in very bad shape for Black]))
+(;B[qe];W[ob];B[nc];W[nb];B[mc];W[og];B[ng];W[pi]C[After this exchange White has been fortunate to take both the corner and side, leaving Black pinched between the two White groups with an over-concentrated group of stones.])
+(;B[ob];W[re]C[White has cheated Black out of his corner]))
+(;B[qc];W[oc];B[qe];W[qb];B[rc];W[mc]C[The Black stones are over-concentrated and limited in expansion by the two white groups.  If Black had a stone at K16 at the start of the sequence this path would have led to the second best for Black.])
+(;B[qe]
+(;W[qc]C[ The next Black move is difficult to findCHOICEFORCE];B[nc];W[nb]C[FORCE];B[mb]
+(;W[ob]LB[mc:A]C[ Play A to connectCHOICEFORCE];B[mc];W[qg]C[FORCE];B[rd];W[rc]C[FORCE];B[og]C[ After this exchange, Black has strong outside influence, and White is separated.RIGHT])
+(;W[oc]C[FORCE];B[ob];W[nd]C[FORCE];B[mc];W[qg]C[FORCE];B[rd];W[od]C[FORCE];B[og]C[ This exchange leaves White precariously posed. Black has a better outside position, and the two White groups are eyeless and without any outside reliable influence.RIGHT]))
+(;W[oc]C[FORCE];B[mc]
+(;W[nd]C[CHOICEFORCE];B[md];W[ne]C[FORCE];B[lf];W[mg]C[FORCE];B[og]LB[og:A]TR[qf]TR[pg]C[ After Black A, White must worry about his two weak stones on the right and the weakness in his knight move; if these White stones are cut of from the outside, they may die in the corner.RIGHT])
+(;W[qg]C[ White R13 is an overplayCHOICEFORCE];B[qc];W[qb]C[FORCE];B[rc]C[ This exchange leaves White in a very weak positionRIGHT])
+(;W[rc]C[FORCE];B[qg]C[ White surrenders the outside to BlackRIGHT]))))

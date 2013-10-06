@@ -1,0 +1,32 @@
+(;GE[endgame]DI[3d]DP[9]SO[tom111]CO[8]AW[rb]AW[pb]AW[qc]AW[rd]AW[sd]AW[se]AB[sf]AB[re]AB[qf]AB[qd]AB[pd]AB[pc]AW[oc]AW[nb]AB[ob]AW[mb]AW[nc]AB[lb]AB[mc]AB[md]AB[nd]AB[od]AB[kc]C[Black to do something in the corner]AP[goproblems]
+(;B[oa];W[pa]C[Of course White resists ! ]
+(;B[rc];W[sc];B[ra]C[A Ko fight starts....]
+(;W[qb];B[sb]C[Nice! A Ko Fight!CHOICERIGHT])
+(;W[sb];B[qb]C[and Ko ... Nice !CHOICERIGHT]))
+(;B[qb];W[qa];B[sb];W[rc];B[ra];W[na])
+(;B[ra];W[rc]
+(;B[qb];W[na])
+(;B[sb];W[na]))
+(;B[sb];W[rc];B[ra];W[na]))
+(;B[qa];W[qb]
+(;B[oa];W[pa])
+(;B[sb];W[rc]
+(;B[oa];W[pa])
+(;B[pa];W[oa])
+(;B[ra])))
+(;B[pa];W[oa])
+(;B[ra];W[rc]
+(;B[oa];W[pa]
+(;B[qb];W[na])
+(;B[qa];W[na]))
+(;B[pa];W[oa])
+(;B[qa];W[pa])
+(;B[sb];W[oa]))
+(;B[sb];W[rc]
+(;B[oa];W[pa];B[ra];W[na])
+(;B[ra];W[oa])
+(;B[pa];W[oa])
+(;B[qa];W[oa]))
+(;B[rc];W[sc]C[:(];B[oa];W[pa]C[And if ... ?];B[ra]
+(;W[qb];B[sb]C[Nice... a ko !CHOICERIGHT])
+(;W[sb];B[qb];W[na];B[rc]C[Nice... A Ko.CHOICERIGHT])))

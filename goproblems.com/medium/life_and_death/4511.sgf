@@ -1,0 +1,27 @@
+(;GE[life and death]DI[1k]DP[18]SO[guff]CO[7]AB[qr]AB[oq]AB[nq]AB[nr]AB[mr]AW[lr]AW[mq]AW[kq]AW[mp]AW[np]AW[op]AW[pp]AW[qp]AP[goproblems]
+(;W[rq];B[rr];W[sr];B[os]
+(;W[pr];B[pq]
+(;W[ms];B[rs];W[ps]C[RIGHT])
+(;W[ps];B[ms]C[Seems maybe too fancy, no?];W[rs];B[qq]
+(;W[qs];B[or]C[Yup. Too fancy.])
+(;W[rp];B[qs]C[Yup. Too fancy.]))
+(;W[rs];B[qq]
+(;W[rp];B[ms];W[qs];B[ps])
+(;W[ms];B[rp]))
+(;W[qq];B[rs];W[ps];B[ms];W[ls]C[RIGHT]))
+(;W[ms];B[pr];W[rs];B[qs]C[Oops])
+(;W[pq];B[pr]C[Oops])
+(;W[rs];B[pr]LB[ms:A]LB[qs:B]C[Now A and B are miai for life.]))
+(;W[pr];B[pq]
+(;W[rr];B[ps]C[Black is alive.])
+(;W[qq];B[ps]C[Black is alive.]))
+(;W[rr];B[pr]
+(;W[rq];B[os]C[Black lives.])
+(;W[os];B[rq]C[Black lives... with points!])
+(;W[qq];B[os]C[Nope. The fancy move didn't help.]))
+(;W[ms];B[rq]
+(;W[pq];B[pr];W[ns];B[or];W[rp];B[rs]C[Alive.])
+(;W[pr];B[pq];W[qq];B[ps];W[rr];B[or]C[Alive.]))
+(;W[os];B[rq];W[pq];B[pr]
+(;W[or];B[ps]C[Alive.])
+(;W[rp];B[rs]C[Alive.])))

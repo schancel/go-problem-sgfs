@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[1k]DP[20]SO[meleenewb]CO[5]AB[sp]AB[rp]AB[qq]AB[rr]AB[pq]AB[oq]AB[nq]AB[nr]AB[os]AW[ns]AW[ms]AW[mr]AW[mq]AW[np]AW[ro]AW[so]AW[mp]AW[qp]AW[qo]C[Does white have anything here?FORCE]LB[op:No]LB[oo:Yes]AP[goproblems]
+(;W[op];B[ls]C[How about now?FORCE]LB[pp:No]LB[po:Yes]
+(;W[pp]C[];B[lr]C[It does look pretty secure doesn't it? Well, play T if you want to tenuki.]LB[lq:T]
+(;W[lq]C[Look a little closer.])
+(;W[ps]
+(;B[or];W[sr];B[rq];W[rs];B[pr];W[qs]C[Well done, a seki.RIGHT])
+(;B[qs];W[or];B[pr];W[os]C[RIGHT]))
+(;W[sr];B[rq];W[ps];B[qs];W[or];B[pr];W[os]C[Good job, squeezed out a few points.RIGHT])
+(;W[pr];B[qs]))
+(;W[po];B[lr]C[Black disagrees, can you prove him wrong?]
+(;W[sr];B[rq];W[ps];B[or])
+(;W[ps];B[or];W[sr];B[rq];W[rs];B[pr];W[qs];B[qr]C[Looks like black was right.])))
+(;W[oo];B[ls]C[Black disagrees, can you prove him wrong?]
+(;W[ps];B[or];W[sr];B[rq])
+(;W[sr];B[rq];W[ps];B[or];W[rs];B[pr];W[qs];B[qr]C[Looks like black was right.])))

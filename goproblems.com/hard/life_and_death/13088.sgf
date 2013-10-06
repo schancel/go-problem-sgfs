@@ -1,0 +1,744 @@
+(;GE[life and death]DI[4d]DP[8]SO[BartTM]CO[0]AB[aq]AB[br]AB[bp]AB[cp]AB[do]AB[eo]AB[fp]AB[eq]AB[er]AB[ds]AB[fn]AB[fm]AB[go]AW[ap]AW[ao]AW[bo]AW[co]AW[dn]AW[dm]AW[cl]AW[fl]AW[gl]AW[gm]AW[hn]AW[io]AW[jp]AW[hp]AW[gp]AW[fq]AW[fr]AW[fs]AW[es]AW[hr]AW[dp]C[White just played the marked stone, which should lead to a ko fight. This problem has 2 slightly different solutions, depending on whether White has 3 or 4 external ko threats. Assume that you have none. Choose 3 (J10) or 4 (K10) for whichever solution you want to seek out.FORCE]AW[cr]TR[cr]LB[ij:3]LB[jj:4]LB[ej:Choose how many threats White has ->]AP[goproblems]
+(;B[ij]C[];W[jj]LB[jm:T]LB[jl:T]LB[jk:T]LB[im:A]LB[il:A]LB[ik:A]C[Okay, now do your best. Remember White has 3 externat threats that you will have to answer and you have none. Good luck.FORCE]
+(;B[dq];W[bs]
+(;B[cq];W[ar]
+(;B[as];W[jm]LB[im:1]C[Please answer White's first external ko threat at 1FORCE];B[im];W[ar]
+(;B[gq];W[gr]C[]
+(;B[as];W[jl]LB[il:2]C[Please answer the second threat at 2FORCE];B[il];W[ar]
+(;B[bq];W[cs]
+(;B[as];W[jk]LB[ik:3]C[Please play 3FORCE];B[ik];W[ar]
+(;B[cn];W[dr]
+(;B[as]C[White ran out of ko threats and will lose one of the marked groups.RIGHT]MA[ap]MA[ao]MA[bo]MA[co]MA[cs]MA[cr]MA[dr]MA[bs])
+(;B[bn];W[ep])
+(;B[an];W[ep])
+(;B[ep];W[bn])
+(;B[gn];W[ep])
+(;B[en];W[ep]))
+(;B[gn];W[dr];B[as];W[ds]C[White has no more threats and connects. You can live, but failed to scoop up the extras. I'll let it pass though as White should not have prceeded this far anyway.RIGHT])
+(;B[en];W[dr];B[as];W[ds]C[White has no more threats and connects. You can live, but failed to scoop up the extras. I'll let it pass though as White should not have prceeded this far anyway.RIGHT])
+(;B[ep];W[dr])
+(;B[dr];W[ep])
+(;B[bn];W[dr]
+(;B[cn])
+(;B[as]C[I can find no fault with this, odd though it may seem.RIGHT])
+(;B[ep];W[cn])
+(;B[gn];W[ep])
+(;B[en];W[ep])
+(;B[an];W[ep]))
+(;B[an];W[dr]
+(;B[as]C[Yes, yes, yes.RIGHT])
+(;B[ep];W[cn])
+(;B[gn];W[ep])
+(;B[en];W[ep])
+(;B[cn])
+(;B[bn])))
+(;B[dr];W[ep])
+(;B[cn];W[dr]C[Direct ko and White still has a threat.]LB[jk:T])
+(;B[bn];W[dr]C[Direct ko and White still has a threat.]LB[jk:T])
+(;B[an];W[dr]C[Direct ko and White still has a threat.]LB[jk:T])
+(;B[gn];W[dr]C[Direct ko and White still has a threat.]LB[jk:T])
+(;B[en];W[dr]C[Direct ko and White still has a threat.]LB[jk:T]))
+(;B[en];W[bq]C[A small life but White takes the corner in sente. With only 3 White threats, this was unnecessary.])
+(;B[gn];W[bq]C[White takes the corner in sente, that wasn't necessary with just 3 White threats.])
+(;B[dr];W[bq])
+(;B[cn];W[bq])
+(;B[bn];W[bq])
+(;B[an];W[bq]))
+(;B[dr];W[bq])
+(;B[bq];W[cs]C[You wasted a threat an cannot win the ko anymore.])
+(;B[ep];W[bq])
+(;B[gn];W[bq]C[You can live but White takes the corner, that was unnecessary.])
+(;B[en];W[bq]C[You can live but White takes the corner, that was unnecessary.])
+(;B[cn];W[bq])
+(;B[bn];W[bq])
+(;B[an];W[bq]))
+(;B[cn];W[bq])
+(;B[en];W[bq]C[White lives in the corner, that wasn't necessary.])
+(;B[gn];W[bq]C[White lives in the corner, that wasn't necessary.])
+(;B[bn];W[bq])
+(;B[an];W[bq])
+(;B[dr];W[bq])
+(;B[bq];W[cs]
+(;B[as];W[jl]LB[il:2]C[Please play 2FORCE];B[il];W[ar]
+(;B[gq];W[dr]
+(;B[as];W[jk]LB[ik:3]C[Please play 3FORCE];B[ik];W[ar]
+(;B[gr];W[ep])
+(;B[cn];W[ep])
+(;B[ep];W[gr]))
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[cn];W[ep]))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[jk]LB[ik:3]C[Please play 3FORCE];B[ik];W[ar]
+(;B[bn];W[ep])
+(;B[ep];W[bn])
+(;B[gq]))
+(;B[ep];W[bn])
+(;B[gq])
+(;B[bn];W[ep]))
+(;B[ep];W[dr])
+(;B[en];W[dr]
+(;B[as];W[jk]C[Please play 3FORCE]LB[ik:3];B[ik];W[ar]
+(;B[ep];W[gn])
+(;B[gn];W[ep]))
+(;B[ep];W[gn])
+(;B[gn];W[ep]))
+(;B[gn];W[dr];B[as];W[jk]C[Please play 3FORCE]LB[ik:3];B[ik];W[ar]
+(;B[en])
+(;B[ep];W[en])))
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[cn];W[dr]
+(;B[as];W[jl]LB[il:2]C[Please play 2FORCE];B[il];W[ar]
+(;B[bn])
+(;B[ep])
+(;B[gq]))
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[gq];W[ep]))
+(;B[en];W[dr]
+(;B[gn];W[ep])
+(;B[ep];W[gn])
+(;B[cn];W[ep])
+(;B[gq];W[ep])
+(;B[as];W[jl]LB[il:2]C[Please play 2FORCE];B[il];W[ar]
+(;B[cn];W[ep])
+(;B[gq];W[ep])
+(;B[ep];W[gn])
+(;B[gn];W[ep])))
+(;B[gn];W[dr]
+(;B[ep];W[en])
+(;B[en])
+(;B[cn];W[ep])
+(;B[gq];W[ep])
+(;B[as];W[jl]LB[il:2]C[Please play 2FORCE];B[il];W[ar]
+(;B[ep];W[en])
+(;B[cn];W[ep])
+(;B[gq];W[ep])
+(;B[en]))))
+(;B[ep];W[bq]))
+(;B[bq];W[cs]C[You wasted a ko threat and cannot win anymore.])
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[gn];W[bq]C[You can live but White takes the corner, that was unnecessary.])
+(;B[en];W[bq]C[You can live but White takes the corner, that was unnecessary.]))
+(;B[dr];W[ar]
+(;B[cq])
+(;B[ep];W[bq])
+(;B[as];W[cq]
+(;B[cs];W[bq])
+(;B[ep];W[ar]C[Ko, and you have no threats.])
+(;B[bq];W[ar])
+(;B[gn];W[bq])
+(;B[en];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[cq])
+(;B[cs];W[bq])
+(;B[en];W[bq])
+(;B[gn];W[bq]))
+(;B[bq];W[dr])
+(;B[ep];W[dr])
+(;B[gn];W[cq]
+(;B[bq];W[ar])
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[en];W[bq])
+(;B[ar];W[bq]))
+(;B[en];W[cq]
+(;B[ep];W[bq])
+(;B[bq];W[ar])
+(;B[dr];W[bq])
+(;B[ar];W[bq])
+(;B[as];W[bq])
+(;B[gn]))
+(;B[cs];W[dr])
+(;B[ar];W[dr]))
+(;B[cq];W[dq])
+(;B[ep];W[cq]
+(;B[dq];W[bq])
+(;B[bq];W[dr]
+(;B[dq];W[cs])
+(;B[bs];W[cs])))
+(;B[bq];W[dr]
+(;B[bs];W[dq]
+(;B[ep];W[cs])
+(;B[cs];W[ep]))
+(;B[dq];W[bs])
+(;B[ep];W[dq])
+(;B[cq];W[dq]))
+(;B[dr];W[cq])
+(;B[cs];W[bs]
+(;B[as];W[dr]
+(;B[bs];W[cq])
+(;B[ep];W[bs]
+(;B[dq]
+(;W[cq])
+(;W[cs]))
+(;B[cs];W[dq])
+(;B[ds];W[dq])
+(;B[cq];W[dq]))
+(;B[dq];W[bs];B[cq];W[ar]C[Direct ko, White still has 3 threats.])
+(;B[cq];W[bs]
+(;B[dq])
+(;B[ep])
+(;B[cs];W[dq])
+(;B[ds];W[dq]))
+(;B[bq];W[dq]))
+(;B[dr];W[cq])
+(;B[dq];W[cq])
+(;B[cq];W[dr])
+(;B[ep];W[cq]
+(;B[as];W[bq])
+(;B[dq];W[dr])
+(;B[dr];W[bq]))
+(;B[bq];W[dr]))
+(;B[bs];W[dq]
+(;B[dr];W[bq])
+(;B[bq];W[dr])
+(;B[cq];W[bq])
+(;B[cs];W[bq])
+(;B[ep];W[bq]))
+(;B[ar];W[cq])
+(;B[as];W[bq];B[cq];W[dq];B[bq];W[dr])
+(;B[en];W[cq])
+(;B[gn];W[cq])
+(;B[cn];W[cq])
+(;B[gq];W[dr]
+(;B[gr];W[cs];B[gs];W[ds];B[ep];W[cq];B[dq];W[hq])
+(;B[dq];W[cq]
+(;B[gr];W[ep])
+(;B[ep];W[gr])
+(;B[bq];W[ep]))
+(;B[cq];W[dq])
+(;B[ep];W[cq]
+(;B[dq])
+(;B[gr];W[cs]
+(;B[gs];W[ds])
+(;B[dq];W[hq])
+(;B[bq];W[hq]))
+(;B[bq];W[gr])))
+(;B[bn];W[cq])
+(;B[an];W[cq]))
+(;B[jj]C[];W[ij]C[Okay, now do your best. Remember White has 4 external threats that you will have to answer and you have none. Good luck.FORCE]LB[in:T]LB[im:T]LB[il:T]LB[ik:T]LB[jn:A]LB[jm:A]LB[jl:A]LB[jk:A]
+(;B[dq];W[bs]
+(;B[cq];W[ar]
+(;B[as];W[in]C[White's first threat. Please answer at 1.FORCE]LB[jn:1];B[jn];W[ar]
+(;B[gq];W[gr]
+(;B[as];W[im]LB[jm:2]C[White's second threat, please answer at 2FORCE];B[jm];W[ar]
+(;B[gn]
+(;W[en]C[This actually is White's mistake, challenging you to prove it!]
+(;B[as];W[il]C[White's 3rd threat. Please answer at 3FORCE]LB[jl:3];B[jl];W[ar]
+(;B[bq];W[cs]
+(;B[as];W[ik]LB[jk:4]C[White played the last threat, please answer at 4FORCE];B[jk];W[ar]
+(;B[cn];W[dr]
+(;B[as]C[White is out of threats, Black will capture one of the marked groups.RIGHT]MA[ap]MA[ao]MA[bo]MA[co]MA[dr]MA[cr]MA[cs]MA[bs])
+(;B[bn];W[ep])
+(;B[an];W[ep])
+(;B[ep];W[bn]))
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[bn];W[dr]
+(;B[as]C[Strange but correct.RIGHT])
+(;B[ep];W[cn])
+(;B[cn])
+(;B[an];W[ep]))
+(;B[an];W[dr]
+(;B[as]C[Funny but OKRIGHT])
+(;B[cn])
+(;B[bn])
+(;B[ep];W[cn])))
+(;B[dr];W[ep])
+(;B[cn];W[dr]C[Direct ko, and White stil has a ko threat.])
+(;B[bn];W[dr])
+(;B[an];W[dr])
+(;B[ep];W[dr]))
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[cn];W[bq]))
+(;B[dr];W[bq])
+(;B[cn];W[bq])
+(;B[bq];W[cs]C[This will save White one ko threat, meaning White will win the ko.])
+(;B[ep];W[bq]))
+(;W[bq];B[en];W[dr];B[ep]C[Playing G6 allowed White to grab the corner in sente like this, but Black lives. If White wants to prevent that then White would need one extra ko threat.RIGHT]TR[gn]))
+(;B[en]
+(;W[gn])
+(;W[bq];B[gn]))
+(;B[bq];W[cs]
+(;B[as];W[il]LB[jl:3]C[White's 3rd threat, please answer at 3FORCE];B[jl];W[ar]
+(;B[cn];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Last threat, please play 4FORCE];B[jk];W[ar]
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[an];W[ep])
+(;B[gn];W[ep])
+(;B[en];W[ep]))
+(;B[ep];W[bn])
+(;B[en];W[ep])
+(;B[gn];W[ep]))
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[gn];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Please answer this threat at 4FORCE];B[jk];W[ar])
+(;B[ep];W[en])
+(;B[en];W[ep])
+(;B[cn]))
+(;B[en];W[dr]
+(;B[ep];W[gn])
+(;B[as];W[ik]LB[jk:4]C[White last threat, please answer at 4FORCE];B[jk];W[ar])
+(;B[gn])
+(;B[cn])))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as]C[Direct ko, White has threats and will win.])
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[en];W[ep])
+(;B[gn];W[ep])
+(;B[an];W[ep]))
+(;B[ep];W[dr])
+(;B[en];W[dr]
+(;B[as]C[Direct ko, White has threats and will win it.])
+(;B[ep];W[gn])
+(;B[gn];W[ep])
+(;B[cn]))
+(;B[gn];W[dr]
+(;B[as]C[Direct ko, White has threats so will win.])
+(;B[ep];W[en])
+(;B[en])
+(;B[cn])))
+(;B[ep];W[bq])
+(;B[dr];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[cs]
+(;B[dr];W[ep])
+(;B[as]C[You already wasted a threat and will lose this ko fight to White's 3 remaining threats.])
+(;B[ep];W[dr])
+(;B[en];W[dr]
+(;B[gn];W[ep])
+(;B[ep];W[gn])
+(;B[as]C[White has ample threats to win this fight.])
+(;B[cn];W[ep]))
+(;B[gn];W[dr]
+(;B[ep];W[en])
+(;B[en])
+(;B[as]C[White has enough threats to win this ko fight.])
+(;B[cn];W[ep]))
+(;B[cn];W[dr]
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[gn])
+(;B[en])
+(;B[as]C[Direct ko but White still has threats.])
+(;B[an];W[ep])))
+(;B[dr];W[bq])
+(;B[cn];W[bq])
+(;B[en];W[gn]C[Black wasted a ko threat and will lose.])
+(;B[gn];W[en]C[Black wasted a ko threat and will lose.]))
+(;B[en]
+(;W[gn]C[This actually is White's mistake, challenging you to prove it!]
+(;B[as];W[im]LB[jm:2]C[White's second threat, please answer at 2FORCE];B[jm];W[ar]
+(;B[gq];W[gr]C[This actually is White's mistake, challenging you to prove it!]
+(;B[as];W[il]LB[jl:3]C[White's 3rd threat, please answer at 3FORCE];B[jl];W[ar]
+(;B[bq];W[cs]
+(;B[as];W[ik]C[White's last threat, please answer at 4FORCE]LB[jk:4];B[jk];W[ar]
+(;B[cn];W[dr]
+(;B[as]MA[ap]MA[ao]MA[bo]MA[co]MA[bs]MA[cs]MA[cr]MA[dr]C[White ran out of threats and will lose either group.RIGHT])
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[an];W[ep]))
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[bn];W[dr]
+(;B[as]C[True.RIGHT])
+(;B[cn];W[ep]))
+(;B[an];W[dr]
+(;B[as]C[Yup.RIGHT])
+(;B[ep];W[cn])
+(;B[cn];W[ep])
+(;B[bn];W[ep])))
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[cn];W[dr]
+(;B[as]C[It is a direct ko now, and White still has a threat.])
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[an];W[ep])))
+(;B[ep];W[bq])
+(;B[dr];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[cs]
+(;B[as]C[Direct ko, White still has 2 threats and black only one so White will win.])
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as]C[Direct ko, White still has 2 ko threats and will win it.])
+(;B[ep];W[bn]))
+(;B[ep];W[dr]))
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[cs]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Please play 4FORCE];B[jk];W[ar]
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[bn];W[ep]))
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[bn];W[ep]))
+(;B[ep];W[dr])
+(;B[gq];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Please play 4FORCE];B[jk];W[ar]
+(;B[gr];W[ep])
+(;B[cn];W[ep])
+(;B[ep];W[gr]))
+(;B[ep];W[gr])
+(;B[cn];W[ep])
+(;B[gr];W[ep])))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[bn];W[ep])
+(;B[gq];W[ep])
+(;B[ep];W[bn]))
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[bn];W[ep]))
+(;B[gq])
+(;B[ep];W[dr]))
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[cn];W[bq]))
+(;B[dr];W[bq])
+(;B[cn];W[bq])
+(;B[bq];W[cs]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[dr];W[ep])
+(;B[gq];W[dr]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[cn])
+(;B[ep])
+(;B[gr]))
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[cn];W[ep]))
+(;B[ep];W[dr])
+(;B[cn]))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[bn])
+(;B[ep])
+(;B[gq]))
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[an];W[ep])
+(;B[bn];W[ep]))
+(;B[gq];W[dr]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[cn])
+(;B[ep])
+(;B[gr]))
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[gs];W[ep])
+(;B[cn])))
+(;B[ep];W[bq])
+(;B[gq];W[gr]))
+(;W[bq];B[gn];W[dr];B[ep]C[Playing E6 allowed White to grab the corner in sente like this, but Black lives. Best result for both if White has 4 threats.RIGHT]TR[en]))
+(;B[gn]
+(;W[en]C[This actually is White's mistake, challenging you to prove it!]
+(;B[as];W[im]LB[jm:2]C[White's second threat, please answer at 2FORCE];B[jm];W[ar]
+(;B[gq];W[gr])
+(;B[bq];W[cs]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[gq];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Please answer White's last threat at 4FORCE];B[jk];W[ar]
+(;B[cn];W[ep])
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[gs];W[ep]))
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[cn];W[ep]))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[ik]LB[jk:4]C[Please play 4FORCE];B[jk];W[ar]
+(;B[bn];W[ep])
+(;B[ep];W[bn])
+(;B[gq]))
+(;B[ep];W[bn])
+(;B[gq])
+(;B[bn];W[ep]))
+(;B[ep];W[dr]))
+(;B[dr];W[ep])
+(;B[cn];W[dr]C[Direct ko and White still has threats])
+(;B[gq];W[dr]C[Direct ko and White still has threats.]))
+(;B[dr];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[cs]C[You just wasted some ko threats, White will win easily])
+(;B[ep];W[bq])
+(;B[dr];W[bq])
+(;B[cn];W[bq])
+(;B[gq];W[gr]))
+(;W[bq];B[en]))
+(;B[cn];W[bq])
+(;B[bq];W[cs]
+(;B[dr];W[ep])
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[dr];W[ep])
+(;B[ep];W[dr])
+(;B[cn];W[dr]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[bn];W[ep])
+(;B[an];W[ep])
+(;B[en];W[ep])
+(;B[gn];W[ep]))
+(;B[ep];W[bn])
+(;B[gq];W[ep])
+(;B[bn];W[ep])
+(;B[an];W[ep])
+(;B[en];W[ep])
+(;B[gn];W[ep]))
+(;B[en];W[dr]
+(;B[ep];W[gn])
+(;B[gn];W[ep])
+(;B[gq];W[ep])
+(;B[cn])
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[ep];W[gn])
+(;B[cn])
+(;B[gq];W[ep])
+(;B[gn];W[ep])))
+(;B[gn];W[dr]
+(;B[as];W[il]LB[jl:3]C[Please play 3FORCE];B[jl];W[ar]
+(;B[ep];W[en])
+(;B[en])
+(;B[cn])
+(;B[gq];W[ep]))
+(;B[ep];W[en])
+(;B[en])
+(;B[cn])
+(;B[gq];W[ep])))
+(;B[ep];W[dr])
+(;B[cn];W[dr]
+(;B[bn];W[ep])
+(;B[ep];W[bn])
+(;B[an];W[ep])
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[ep])
+(;B[bn])
+(;B[an])
+(;B[gq])
+(;B[en])
+(;B[gn]))
+(;B[gn];W[ep])
+(;B[en];W[ep])
+(;B[gq];W[ep]))
+(;B[gq];W[dr]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[ep];W[gr])
+(;B[cn])
+(;B[gr];W[ep])
+(;B[en])
+(;B[gn]))
+(;B[ep];W[gr])
+(;B[gr];W[ep])
+(;B[gs];W[ep])
+(;B[cn])
+(;B[en];W[ep])
+(;B[gn];W[ep]))
+(;B[en];W[dr]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[ep])
+(;B[gn])
+(;B[cn])
+(;B[gq]))
+(;B[ep];W[gn])
+(;B[gn];W[ep])
+(;B[cn])
+(;B[gq]))
+(;B[gn];W[dr]
+(;B[as];W[im]LB[jm:2]C[Please play 2FORCE];B[jm];W[ar]
+(;B[ep])
+(;B[en])
+(;B[cn])
+(;B[gq]))
+(;B[ep];W[en])
+(;B[cn])
+(;B[gq])
+(;B[en])))
+(;B[ep];W[bq])
+(;B[dr];W[bq]))
+(;B[dr];W[bq])
+(;B[bq];W[cs]
+(;B[as];W[in]LB[jn:1]C[Please answer White's first threat at 1FORCE];B[jn];W[ar]
+(;B[ep])
+(;B[dr])
+(;B[cn])
+(;B[en])
+(;B[gn])
+(;B[gq];W[dr]))
+(;B[dr];W[ep])
+(;B[cn];W[dr]
+(;B[as];W[in]LB[jn:1]C[Please answer White's first threat at 1FORCE];B[jn];W[ar]
+(;B[bn])
+(;B[ep])
+(;B[gq])
+(;B[en])
+(;B[gn]))
+(;B[ep];W[bn])
+(;B[bn];W[ep])
+(;B[gq];W[ep])
+(;B[en];W[ep])
+(;B[gn];W[ep]))
+(;B[ep];W[dr])
+(;B[gq];W[dr]
+(;B[as];W[in]LB[jn:1]C[Please play 1FORCE];B[jn];W[ar]
+(;B[gr])
+(;B[ep])
+(;B[cn])
+(;B[en])
+(;B[gn]))
+(;B[ep];W[gr])
+(;B[gs];W[ep])
+(;B[gr];W[ep])
+(;B[cn])
+(;B[gn];W[ep])
+(;B[en];W[ep]))
+(;B[en];W[dr]
+(;B[as];W[in]LB[jn:1]C[Please play 1FORCE];B[jn];W[ar]
+(;B[ep])
+(;B[gn])
+(;B[cn])
+(;B[gq]))
+(;B[ep];W[gn])
+(;B[gn];W[ep])
+(;B[gq])
+(;B[cn]))
+(;B[gn];W[dr]
+(;B[as];W[in]LB[jn:1]C[Please play 1FORCE];B[jn];W[ar]
+(;B[ep])
+(;B[en])
+(;B[cn])
+(;B[gq]))
+(;B[ep];W[en])
+(;B[en])
+(;B[cn])
+(;B[gq])))
+(;B[cn];W[bq])
+(;B[ep];W[bq])
+(;B[gq];W[gr]))
+(;B[cs];W[dr])
+(;B[dr];W[ar]
+(;B[as];W[cq]
+(;B[ep];W[ar]
+(;B[gq];W[gr]
+(;B[as];W[in]LB[jn:1]C[Please play 1FORCE];B[jn];W[ar]
+(;B[bq];W[dp])
+(;B[cn];W[bq])
+(;B[cs];W[bq])
+(;B[dp];W[bq]))
+(;B[cs];W[bq])
+(;B[bq];W[dp])
+(;B[dp];W[bq])
+(;B[cn];W[bq]))
+(;B[bq];W[dp])
+(;B[cs];W[bq])
+(;B[dp];W[bq])
+(;B[cn];W[bq]))
+(;B[cs];W[bq])
+(;B[bq];W[ar])
+(;B[ar];W[bq])
+(;B[cn];W[bq]))
+(;B[cq])
+(;B[bq];W[cq])
+(;B[cs];W[bq])
+(;B[ep];W[bq])
+(;B[en];W[bq])
+(;B[gn];W[bq]))
+(;B[bq];W[dr])
+(;B[ep];W[dr])
+(;B[en];W[cq];B[ep];W[bq])
+(;B[gn];W[cq];B[ep];W[bq])
+(;B[ar];W[cq]
+(;B[bq];W[as])
+(;B[ep];W[bq])
+(;B[dr];W[bq])))
+(;B[ep];W[cq]
+(;B[dq];W[bq])
+(;B[bq])
+(;B[bs];W[bq])
+(;B[cs];W[bq]))
+(;B[cq];W[dq]
+(;B[bq];W[bs])
+(;B[dr];W[bq])
+(;B[ep];W[bq])
+(;B[cs];W[bq]))
+(;B[dr];W[cq]
+(;B[dq];W[bq])
+(;B[bq];W[bs])
+(;B[cs];W[bq])
+(;B[ep];W[bq]))
+(;B[bq];W[dr]
+(;B[bs];W[dq]
+(;B[ep];W[cs])
+(;B[cs];W[ep]))
+(;B[dq];W[bs])
+(;B[ep];W[dq])
+(;B[cq];W[dq]))
+(;B[en];W[cq])
+(;B[gn];W[cq])
+(;B[bs];W[dq]
+(;B[dr];W[bq])
+(;B[cq];W[bq])
+(;B[ep];W[bq])
+(;B[bq];W[dr])
+(;B[cs];W[bq]))
+(;B[cs];W[bs]
+(;B[dr];W[cq]
+(;B[as];W[bq])
+(;B[bq];W[ar])
+(;B[dq];W[bq])
+(;B[ep];W[bq]))
+(;B[as];W[dr]
+(;B[cq];W[bs]
+(;B[dq];W[ar]C[Direct ko, White still has 4 threats.])
+(;B[ds];W[dq]
+(;B[cs];W[bq])
+(;B[ep];W[bq]))
+(;B[ep];W[dq])
+(;B[cs];W[dq]))
+(;B[dq];W[bs]
+(;B[cq])
+(;B[ds];W[cq]
+(;B[ep];W[cs])
+(;B[cs];W[ep])
+(;B[bq];W[ep]))
+(;B[bq];W[cq]
+(;B[cs];W[ep])
+(;B[ds])
+(;B[ep];W[ds])
+(;B[en];W[gn])
+(;B[gn];W[en]))
+(;B[cs];W[cq]))
+(;B[bq];W[dq])
+(;B[ep];W[bs]
+(;B[dq];W[cq])
+(;B[cq])
+(;B[ds];W[cq]
+(;B[dq])
+(;B[cs];W[bq]))
+(;B[bq];W[dq])
+(;B[cs];W[dq]))
+(;B[bs];W[cq]))
+(;B[cq];W[dr])
+(;B[dq])
+(;B[ep];W[cq]
+(;B[dq];W[dr])
+(;B[dr]))
+(;B[bq];W[dr]))))

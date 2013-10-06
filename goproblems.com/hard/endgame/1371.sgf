@@ -1,0 +1,60 @@
+(
+;GE[endgame]DI[4d]DP[8]SO[gecko]CO[6]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.31]
+AW[ba][bb][bc][cd][dd][ee][fe][ge][hd][hc][ic][ie][jb]
+AB[ca][cb][cc][dc][ed][fd][gd][gc][hb][ib][jc][jd][kb]
+GN[temp]
+(
+;
+W[gb]
+(
+;
+B[eb]
+;
+W[fb]
+;
+B[ec]
+;
+W[ea]
+;
+B[da]
+;
+W[ga]
+C[RIGHT two step ko. not bad.]
+)
+(
+;
+B[ec]
+C[wrong defence]
+;
+W[ha]
+;
+B[ja]
+;
+W[eb]
+;
+B[fb]
+;
+W[fa]
+C[RIGHT two stage ko. even better.]
+)
+)
+(
+;
+W[ec]
+;
+B[eb]
+;
+W[gb]
+;
+B[fc]
+;
+W[fb]
+;
+B[ec]
+C[dead end]
+)
+)

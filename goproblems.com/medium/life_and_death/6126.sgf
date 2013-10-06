@@ -1,0 +1,54 @@
+(;GE[life and death]DI[2d]DP[12]SO[unkx80]CO[8]AB[as]AB[br]AB[cs]AW[cr]AW[cq]AW[bq]AW[aq]AB[dr]AB[er]AB[eq]AB[es]AB[fr]AW[gr]AB[gq]AB[hq]AW[dq]AW[dp]AW[ep]AW[fp]AW[fq]AB[bp]AB[co]AB[do]AB[eo]AB[gn]AB[ho]AB[em]AW[hp]AB[ip]AB[iq]AB[ir]LB[dk:L]LB[fk:K]LB[hk:D]C[Black to play, is white (L) unconditonally alive, (K) killable by a ko, or (D) unconditionally dead?FORCE]AP[goproblems]
+(;B[fk];W[hk]C[Prove it.]
+(;B[ar];W[bs]
+(;B[ar];W[ds]C[Well done!RIGHT])
+(;B[gs];W[ar])
+(;B[hr];W[ar]))
+(;B[gs];W[ar]
+(;B[hr];W[bs])
+(;B[bs];W[ds]
+(;B[cs];W[bs])
+(;B[hr];W[bs])
+(;B[bs];W[fs])))
+(;B[hr];W[ar]
+(;B[gs];W[bs])
+(;B[bs];W[ds]
+(;B[cs];W[bs])
+(;B[gs];W[bs])
+(;B[bs];W[fs])))
+(;B[bs];W[ar]
+(;B[gs];W[ds]
+(;B[cs];W[bs])
+(;B[hr];W[bs])
+(;B[bs];W[fs]))
+(;B[hr];W[ds]
+(;B[cs];W[bs])
+(;B[gs];W[bs])
+(;B[bs];W[fs]))))
+(;B[dk]C[Try again.])
+(;B[hk]C[];W[fk]C[Prove it.]
+(;B[ar];W[bs]
+(;B[ar];W[ds]C[You only got a ko.])
+(;B[gs];W[ar])
+(;B[hr];W[ar]))
+(;B[gs];W[ar]
+(;B[hr];W[bs])
+(;B[bs];W[ds]
+(;B[cs];W[bs])
+(;B[hr];W[bs])
+(;B[bs];W[fs])))
+(;B[hr];W[ar]
+(;B[gs];W[bs])
+(;B[bs];W[ds]
+(;B[cs];W[bs])
+(;B[gs];W[bs])
+(;B[bs];W[fs])))
+(;B[bs];W[ar]
+(;B[gs];W[ds]
+(;B[cs];W[bs])
+(;B[hr];W[bs])
+(;B[bs];W[fs]))
+(;B[hr];W[ds]
+(;B[cs];W[bs])
+(;B[gs];W[bs])
+(;B[bs];W[fs])))))

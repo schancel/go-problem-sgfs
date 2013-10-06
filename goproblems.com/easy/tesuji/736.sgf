@@ -1,0 +1,49 @@
+(;GE[tesuji]DI[6k]DP[36]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[qg][pi][ok][om][pm][on][qn][np]
+AB[qk][pn][po][qo][pp]C[black's best move on the right side?
+]
+(;B[rm]
+(;W[qm]
+(;B[rn]C[RIGHT
+black links up her stones
+])
+
+(;B[rl];W[rn])
+
+(;B[ro];W[rn];B[sn];W[rl];B[sm];W[sl];B[so];W[ql])
+)
+
+(;W[rn];B[qm])
+
+(;W[rl];B[ql])
+)
+
+(;B[qm];W[ql]
+(;B[rn];W[rl])
+
+(;B[rm];W[rl])
+)
+
+(;B[rn];W[rm];B[qm];W[ql]
+(;B[rl];W[qn];B[sm];W[qm]C[black leaves bad aji
+])
+
+(;B[qn];W[rl])
+)
+
+(;B[rl];W[qm])
+
+(;B[ql];W[qm])
+
+(;B[ro];W[rm])
+
+(;B[pl];W[qm])
+
+(;B[pk];W[qm])
+
+)

@@ -1,0 +1,54 @@
+(;GE[best move]DI[4d]DP[8]SO[Clydevil]CO[0]SZ[6]C[Play black optimally, white will answer optimally.    (Problem updated on March 16th 2011).]AP[goproblems]
+(;B[dc];W[cd]
+(;B[dd];W[cc]
+(;B[cb];W[bb]
+(;B[ce];W[be]
+(;B[bc];W[bd];B[ba];W[de]
+(;B[ee];W[ac]
+(;B[db];W[cf];B[ef];W[df]
+(;B[ca];W[ab]C[This is an optimal path for both. Black win by 3 without komi.RIGHT])
+(;B[aa]C[NOTTHIS]))
+(;B[eb];W[cf];B[ef];W[df]
+(;B[ca];W[ab]C[This is an optimal path for both. Black win by 3 without komi.RIGHT])
+(;B[aa]C[NOTTHIS]))
+(;B[df];W[db]C[D1 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[eb];B[eb];W[ca]TR[ea];B[ea];W[bf]TR[da];B[da];W[cb]TR[cf];B[cf]C[This is 2 points worst than the optimal path.]))
+(;B[ab];W[ee]C[A5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[fd];B[fd];W[ed]TR[ec];B[ec];W[fe]TR[fc];B[fc];W[ad]TR[ac];B[ac]C[This is 2 points worst than the optimal path.]))
+(;B[bd]C[NOTTHIS])
+(;B[de]C[NOTTHIS])
+(;B[db];W[de]C[D5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[ee];B[ee];W[cf]TR[ba];B[ba];W[ef]TR[bc];B[bc];W[bd]TR[ab];B[ab];W[ed]TR[ec];B[ec];W[fe]TR[fc];B[fc];W[fd]TR[ad];B[ad];W[ae]TR[ac];B[ac]C[This is 2 points worst than the optimal path.]))
+(;B[db];W[de]C[D5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[ee];B[ee];W[ce]TR[ba];B[ba];W[ef]TR[bc];B[bc];W[bd]TR[ab];B[ab];W[ed]TR[ec];B[ec];W[fe]TR[fc];B[fc];W[fd]TR[ad];B[ad];W[ae]TR[ac];B[ac]C[This is 2 points worst than the optimal path.])
+(;B[de];W[db]C[D2 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[eb];B[eb];W[ca]TR[be];B[be];W[ce]TR[cf];B[cf];W[ea]TR[bd];B[bd];W[bc]TR[fb];B[fb];W[ad]TR[bf];B[bf];W[ae]TR[df];B[df];W[da]TR[fd];B[fd];W[ac]TR[ed];B[ed]TR[ed]TR[fd]TR[cb]C[This is 2 points worst than the optimal path. Black had to add two moves inside his territory to avoid death and seki. C5 sacrifice made white good shape that is why.])
+(;B[ca]C[];W[ba]C[The C6 bad shape was a mistake you lost 3 points. Follow the marked move to see a possible conclusion.]TR[db];B[db];W[de]TR[ee];B[ee];W[df]TR[ef];B[ef];W[ce]C[This is 3 points worst than the optimal path.])
+(;B[da];W[de]C[The D6 bad shape was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[ee];B[ee];W[ce]TR[ba];B[ba];W[ef]TR[bc];B[bc];W[bd]TR[ab];B[ab];W[ed]TR[ec];B[ec];W[fe]TR[fc];B[fc];W[fd]TR[ad];B[ad];W[ae]TR[ac];B[ac]C[This is 2 points worst than the optimal path.]))
+(;B[db]C[I thought this move was ok, but it appears it is not. (Thanks to smartaleck) See the continuation...];W[de];B[ee];W[ce]
+(;B[bb]
+(;W[cb]C[];B[ca];W[ef]
+(;B[fe];W[ba];B[aa];W[bc];B[be];W[ac];B[da];W[ae];B[bf];W[bd]
+(;B[ec];W[cf]
+(;B[fb];W[ab];B[ba];W[df];B[ff];W[af]C[This is 1 point worst than the optimal path.])
+(;B[fc]C[NOTTHIS])
+(;B[fd]C[NOTTHIS]))
+(;B[ed]C[NOTTHIS])
+(;B[fc]C[NOTTHIS]))
+(;B[bc];W[ed];B[ec];W[fe];B[bd];W[be];B[ae];W[ad];B[ac];W[ba];B[aa];W[ea];B[da];W[fb];B[fc];W[fd];B[ba];W[bf];B[eb];W[af];B[fa];W[ad]C[This is 2 points worst than the optimal path.])))
+(;B[cb];W[bb]C[C5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[ba];B[ba]))
+(;B[ce]C[NOTTHIS])
+(;B[de]C[NOTTHIS]))
+(;B[cc]C[NOTTHIS])
+(;B[bc]C[NOTTHIS])
+(;B[de];W[dd]C[D2 was a mistake you lost 3 points. Follow the marked move to see a possible conclusion.]TR[ed];B[ed];W[ec]TR[eb];B[eb];W[cc]TR[fc];B[fc];W[db]TR[ec];B[ec];W[cb]TR[ce];B[ce];W[be]TR[bf];B[bf];W[ae]TR[ee];B[ee];W[da]TR[ea];B[ea];W[ac]TR[cf];B[cf]C[This is 3 points worst than the optimal path.]))
+(;B[eb]C[:(];W[dc]C[Of crouse the dubious move at E5 is not optimal, you lost 3 points. Follow the marked move to see a possible conclusion.]TR[cd];B[cd];W[cc]TR[dd];B[dd];W[ec]TR[ed];B[ed];W[fd]TR[bc];B[bc];W[bb]TR[bd];B[bd];W[ab]TR[fe];B[fe];W[fc]TR[ac];B[ac];W[ee]TR[ef];B[ef];W[ff]TR[cb];B[cb];W[db]TR[fe];B[fe];W[de]TR[ce];B[ce];W[ff]TR[ca];B[ca];W[da]TR[fe];B[fe]C[This is 3 points worst than the optimal path. But black did win the last ko.])
+(;B[cc]C[NOTTHIS])
+(;B[cd]C[NOTTHIS])
+(;B[dd]C[NOTTHIS])
+(;B[ed]C[NOTTHIS])
+(;B[cb]C[NOTTHIS])
+(;B[bb]C[NOTTHIS])
+(;B[bc]C[NOTTHIS])
+(;B[bd]C[NOTTHIS])
+(;B[be]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[de]C[NOTTHIS])
+(;B[ee]C[NOTTHIS])
+(;B[ec]C[NOTTHIS])
+(;B[db];W[cd]C[Of crouse the dubious move at D5 is not optimal, you lost 1 point. Follow the marked move to see a possible conclusion.]TR[cc];B[cc];W[dd]TR[bc];B[bc];W[bd]TR[ec];B[ec];W[ed]TR[ad];B[ad];W[ae]TR[ac];B[ac];W[dc]TR[eb];B[eb];W[bf]TR[fd];B[fd];W[fe]TR[fc];B[fc];W[ee]C[This is 1 point worst than the optimal path.]))

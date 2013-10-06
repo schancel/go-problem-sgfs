@@ -1,0 +1,18 @@
+(;GE[life and death]DI[6k]DP[36]SO[polo]CO[8]AW[bb][cb][db][cc][bf][bg]AB[da][eb][dc][dd][ed][df][cg][ch][bh]C[Black to kill]SZ[19]AE[fc]
+
+(;B[bd]AE[fc];W[cd]
+(;B[be];W[ce];B[cf]C[RIGHT Well done !])
+(;B[ce];W[be])
+(;B[ag];W[be]))
+(;B[be];W[bd]
+(;B[ce];W[ad];B[ca];W[ba]
+(;B[ab]TR[ae][cd]C[This move only works when the marked liberties are filled.];W[ac])
+(;B[ac];W[ab]))
+(;B[ca];W[ba];B[ac];W[ad];B[ab];W[ce];B[cd];W[cf]))
+(;B[cd];W[bd]
+(;B[be];W[ce])
+(;B[ag];W[ac]))
+(;B[ce];W[be];B[bd];W[cd];B[ae];W[ad];B[ac];W[bc];B[ag];W[ab];B[ad];W[af])
+(;B[ca];W[cd]
+(;B[ce];W[be];B[ba];W[ad])
+(;B[be];W[ce];B[af];W[ag];B[ad];W[cf];B[ba];W[bd])))

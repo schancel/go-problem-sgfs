@@ -1,0 +1,3 @@
+(;GE[elementary]DI[5k]DP[33]SO[cusp]CO[6]AB[qs]AB[ps]AB[pr]AB[or]AB[oq]AB[os]AB[ns]AB[nr]AB[nq]AB[mq]AB[mr]AB[lr]AB[lq]AB[ks]AB[js]AB[jr]AB[ir]AB[hr]AB[hs]AB[gs]AB[fr]AB[er]AB[ds]AB[dr]AB[cr]AB[cs]AB[bs]AB[br]AB[ar]AB[as]AB[aq]AW[rs]AW[rr]AW[qr]AW[pq]AW[op]AW[np]AW[qp]AW[mp]AW[lp]AW[kq]AW[kr]AW[jq]AW[iq]AW[hq]AW[gr]AW[gq]AW[fq]AW[eq]AW[dq]AW[cq]AW[bp]AW[ap]AW[cp]AB[bq]C[Black to live in an optimal way.]AP[goproblems]
+(;B[ls];W[fs]C[White gains 25 points. Not optimal.])
+(;B[fs];W[ls];B[ms];W[ls];B[lr];W[ms];B[mr];W[ns];B[or]C[Correct.RIGHT]))

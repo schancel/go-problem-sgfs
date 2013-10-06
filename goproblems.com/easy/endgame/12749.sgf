@@ -1,0 +1,9 @@
+(;GE[endgame]DI[4k]DP[29]SO[alpha]CO[0]AB[bq]AB[cq]AB[cr]AB[dq]AB[ep]AB[fp]AW[eq]AW[er]AB[gq]AW[dr]AB[fr]AW[dp]AW[cp]AW[bp]AW[ap]AW[aq]AW[dn]AW[cl]C[Black only has 2 liberties and white has 3, so it seems there is no way to save the 4 black stones. What's the best black can do now?]AP[goproblems]
+(;B[bs];W[ar]
+(;B[es];W[br];B[ds];W[cs];B[cr];W[cq];B[cs]C[Not bad for black. Good job.RIGHT])
+(;B[ds]
+(;W[br];B[es])
+(;W[es];B[fq];W[cs]C[white cannot afford to make a ko.])))
+(;B[cs];W[bs];B[es];W[br]C[Oops. black is under the stone.])
+(;B[es];W[cs];B[fq];W[br]C[You need to improve your end-game skills.])
+(;B[ar];W[cs]))

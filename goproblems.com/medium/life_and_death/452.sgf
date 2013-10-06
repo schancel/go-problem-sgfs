@@ -1,0 +1,68 @@
+(;GE[life and death]DI[1d]DP[15]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qs][qr][rq][rp]AW[qq][pq][pr][qp][qo][qn][rn][so][sp]AB[op][nq][nr][rm]AE[rk]AB[rl]AE[qm][nl][nm][om]AB[pm]AE[pp][on]AB[pn]AE[ol]AB[pl]AE[po]AB[oo]C[what can black do?]
+(;B[rs]CR[rs]
+;W[ps]CR[ps]
+(;B[sr]CR[sr]
+;W[sq]CR[sq]LB[os:A][rr:B]C[play at A or B]
+(;B[os]CR[os]
+;W[ro]CR[ro]LB[or:A][rr:B]C[A or B?]
+(;B[or]CR[or]
+;W[rr]CR[rr]
+;B[rq]CR[rq]
+;W[rp]CR[rp]LB[oq:A][rr:B]C[A or B?]
+(;B[rr]CR[rr]
+;W[ss]CR[ss]
+;B[rr]CR[rr]C[RIGHT
+dead shape])
+(;B[oq]CR[oq]
+;W[rr]CR[rr]C[ko]))
+(;B[rr]CR[rr]
+;W[ss]CR[ss]
+;B[rr]CR[rr]
+;W[rq]CR[rq]))
+(;B[rr]CR[rr]
+;W[ro]CR[ro]))
+(;B[sq]CR[sq]
+;W[sr]CR[sr])
+(;B[ss]CR[ss]
+;W[sr]CR[sr]
+;B[rr]CR[rr]
+;W[sq]CR[sq]))
+(;B[ps]CR[ps]
+;W[os]CR[os]
+(;B[or]CR[or]
+;W[rr]CR[rr]
+(;B[ns]CR[ns]
+;W[rs]CR[rs]
+;B[os]CR[os]
+;W[sq]CR[sq]
+;B[sr]CR[sr]
+;W[ro]CR[ro]
+;B[rq]CR[rq]
+;W[rp]CR[rp])
+(;B[sr]CR[sr]
+;W[rs]CR[rs]))
+(;B[sr]CR[sr]
+;W[rs]CR[rs]
+;B[rr]CR[rr]
+;W[or]CR[or]))
+(;B[sr]CR[sr]
+;W[rs]CR[rs]
+;B[ps]CR[ps]
+;W[os]CR[os]
+;B[rr]CR[rr]
+;W[or]CR[or])
+(;B[sq]CR[sq]
+;W[ps]CR[ps])
+(;B[ss]CR[ss]
+;W[ps]CR[ps]
+;B[rr]CR[rr]
+;W[sq]CR[sq])
+(;B[os]CR[os]
+;W[ps]CR[ps])
+(;B[ro]CR[ro]
+;W[rr]CR[rr])
+(;B[rr]CR[rr]
+;W[ps]CR[ps]
+;B[sq]CR[sq]
+;W[ss]CR[ss]))

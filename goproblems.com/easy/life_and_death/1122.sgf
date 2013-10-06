@@ -1,0 +1,26 @@
+(;GE[life and death]DI[5k]DP[33]SO[BigMetalGuy]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+AW[ab][hb][bc][ec][gc][hc][bd][cd][ed][de]AB[bb][eb][fb][gb][cc][dc]C[Black to live (be careful not to get a ko).]
+(;B[da]CR[da]
+(;W[cb]C[CHOICE]
+;B[ba]LB[da:1]CR[ba]C[RIGHTBlack 1 is the vital point to get two eyes.])
+(;W[ba]C[CHOICE]
+;B[cb]LB[da:1]CR[cb]C[RIGHTBlack 1 is the vital point to get two eyes.]))
+(;B[ca]CR[ca]
+;W[ba]LB[ca:1]CR[ba]C[If Black 1, then White 2 results in a Ko.])
+(;B[ba]CR[ba]
+;W[da]CR[da]
+(;B[db]CR[db]
+;W[ca]CR[ca]
+(;B[ea]CR[ea]
+;W[ga]CR[ga])
+(;B[fa]CR[fa]
+;W[ha]CR[ha])
+(;B[ga]CR[ga]
+;W[ea]CR[ea]))
+(;B[ea]CR[ea]
+;W[ga]CR[ga]
+;B[db]CR[db]
+;W[ca]CR[ca]))
+(;B[cb]CR[cb]
+;W[da]CR[da]))

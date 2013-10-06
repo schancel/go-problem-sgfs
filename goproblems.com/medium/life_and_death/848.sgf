@@ -1,0 +1,72 @@
+(;GE[life and death]DI[3d]DP[10]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[1]
+C[from previous problem. how to kill?
+]AW[oo][qo][op][qp][qq]
+AB[nm][pm][qn][mp][np][oq][pq]
+(;B[ro];W[rp]
+(;B[rr];W[qr]
+(;B[rn];W[rs];B[sr]C[RIGHT
+see previous problems
+])
+
+(;B[qs]C[RIGHT
+see previous problems
+])
+)
+
+(;B[rn];W[rr]
+(;B[sq];W[pr]
+(;B[or];W[qs]
+(;B[sp];W[sr])
+
+(;B[sr];W[sp])
+)
+
+(;B[sp];W[or];B[nr];W[sr];B[qs];W[rs];B[os];W[qr])
+)
+
+(;B[pr];W[sq];B[rs];W[qs])
+)
+)
+
+(;B[rr];W[qr]C[see previous problem
+])
+
+(;B[pr];W[rr]
+(;B[ro];W[rp];B[rn];W[sq])
+
+(;B[rn];W[sq]
+(;B[so];W[sp])
+
+(;B[rp];W[ro])
+
+(;B[ro];W[rp])
+)
+
+(;B[qr];W[rs])
+)
+
+(;B[ps];W[rr])
+
+(;B[rn];W[rr]
+(;B[pr];W[sq])
+
+(;B[sp];W[sq]
+(;B[pr];W[so];B[rp];W[ro])
+
+(;B[ro];W[pr])
+)
+)
+
+(;B[qr];W[rr]
+(;B[pr];W[rn];B[rm];W[rs];B[ro];W[rp];B[sn];W[sq])
+
+(;B[ps];W[rs])
+)
+
+)

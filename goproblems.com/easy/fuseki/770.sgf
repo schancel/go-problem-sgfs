@@ -1,0 +1,48 @@
+(;GE[fuseki]DI[5k]DP[32]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;LB[yy:1][iq:A][hp:B][ip:C][jp:D]AB[dr][fc][fq][id][nq][oc][pq][qd][qo][qp]
+AW[cn][cq][dd][df][dj][dp][pm][po][qi][qn]
+PL[B]
+(;B[hp]
+C[RIGHT
+
+This move strikes the right balance 
+with the lower right corner.]
+MN[1]
+)(;B[iq]
+C[This move is makes the lower side too 
+low for black.]
+)(;B[ip]
+C[Bad. Black has a critical weakness at 
+A. If the marked exchange had not 
+been played however, this move would 
+have been alright. Please navigate 
+Black 'D' to see why this exchange is 
+bad.]
+LB[ip:1]TR[dr][cq]LB[hq:A])(;B[jp]
+LB[jp:1][jp:1];W[hq]
+(;B[hp]
+;W[iq]
+LB[iq:4][ip:A][iq:4]TR[dr][cq]C[White could also play in at A but this 
+suffices to show why the marked 
+axchange is bad.]
+;B[ip]
+;W[gq]
+;B[gp]
+;W[fr]
+;B[eq]
+;W[kr]
+C[Surely Black would have preferred not 
+to have made the marked exchange 
+now.]
+LB[kr:10]TR[cq][dr])(;B[gp]
+C[Whatever White plays, the marked 
+exchange will be a loss for Black.]
+LB[gp:3]TR[dr][cq])(;B[jq]
+;W[gp]
+C[The marked exchange is a terrible one 
+for Black.]
+LB[gp:4]TR[dr][cq])))

@@ -1,0 +1,31 @@
+(;GE[life and death]DI[15k]DP[64]SO[BigMetalGuy]CO[7]SZ[13]AW[ea]AW[fa]AW[bb]AW[cb]AW[db]AW[fb]AW[dc]AW[fc]AW[cd]AW[gd]AW[ce]AW[ge]AB[eb]AB[gb]AB[bc]AB[cc]AB[ec]AB[gc]AB[ic]AB[dd]AB[ed]AB[fd]C[Black plays to rescue Black's five stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[da]
+(;W[ca];B[ga]C[Black 1 sacrificing a stone is important.];W[bd]
+(;B[da]C[RIGHT])
+(;B[ee];W[ef])
+(;B[de];W[df])
+(;B[fe];W[ff]))
+(;W[bd];B[ga]C[RIGHT])
+(;W[de];B[ga]C[RIGHT]))
+(;B[ga];W[da]
+(;B[ab];W[bd];B[ac];W[ad];B[ba];W[aa])
+(;B[ac];W[bd];B[ab];W[ad];B[ef];W[ee]))
+(;B[ef];W[ee];B[da];W[de];B[ga]C[RIGHT];W[fe]C[RIGHT])
+(;B[ab];W[bd]TR[bc]TR[cc];B[da]
+(;W[ca]C[CHOICE];B[ga];W[ac];B[da]C[RIGHT])
+(;W[de]C[RIGHT]))
+(;B[ac];W[da];B[ga];W[de];B[ab];W[ee];B[ba];W[fe])
+(;B[ba];W[ab]C[CHOICE];B[da];W[ca];B[ga];W[bd];B[da]C[RIGHT])
+(;B[cf];W[de];B[da];W[ca];B[ga];W[ac]
+(;B[da]C[RIGHT])
+(;B[bd];W[da];B[ab];W[aa];B[ad];W[ee];B[ab];W[fe]))
+(;B[df];W[de];B[da];W[ca];B[ga];W[ac]
+(;B[da]C[RIGHT])
+(;B[bd];W[da]
+(;B[aa];W[ee];B[ba];W[fe])
+(;B[ab];W[aa];B[ad];W[ee];B[ab];W[fe])))
+(;B[de];W[df];B[da];W[ee];B[ga]C[RIGHT])
+(;B[ee];W[ef];B[da];W[ca];B[ga];W[de];B[da]C[RIGHT];W[bd]C[RIGHT])
+(;B[fe];W[ff];B[da];W[de];B[ga]C[RIGHT])
+(;B[ff];W[fe];B[da];W[de];B[ga]C[RIGHT];W[ee]C[RIGHT])
+(;B[gf];W[fe];B[da];W[de];B[ga]C[RIGHT];W[ee]C[RIGHT]))

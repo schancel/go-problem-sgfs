@@ -1,0 +1,11 @@
+(;GE[life and death]DI[1k]DP[20]SO[1234boys]CO[0]AB[io]AB[ip]AB[hp]AB[gp]AB[fq]AW[fp]AW[go]AW[ho]AW[dp]AW[dq]AW[eo]AW[en]AW[cr]AB[cp]AB[co]AB[do]AB[dn]AB[dm]AB[cm]AB[bm]AB[am]AW[bp]AW[bo]AW[bn]AW[cn]AW[fl]AW[dk]AW[bk]LB[bq:a]LB[cq:b]C[Make life.]AP[goproblems]
+(;B[bq];W[cq]LB[ar:a]LB[br:b]LB[an:c]LB[ap:d]
+(;B[ar];W[br];B[ap]C[RIGHT])
+(;B[br];W[bs];B[ar];W[cs];B[an];W[as])
+(;B[an];W[br])
+(;B[ap];W[ar]LB[an:a]LB[ao:b]LB[aq:c]
+(;B[aq];W[br])
+(;B[ao];W[br];B[an]LB[bp:a]LB[bn:b])))
+(;B[cq];W[bq];B[dr];W[er]LB[br:a]LB[eq:b]
+(;B[br];W[ds];B[aq];W[bs];B[ar];W[ap])
+(;B[eq];W[ep])))

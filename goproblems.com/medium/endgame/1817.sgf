@@ -1,0 +1,103 @@
+(;GE[endgame]DI[3d]DP[11]SO[Kijana]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+AW[da][ea][eb][fb][gc][ic][jd][kd][ke]AB[ca][db][dc][ec][fd][gd][hd][id][ce][je][jf]LB[ca:2][da:1][ea:3]C[White connects at 3, what is the best response for black?]
+(;B[cb]CR[cb]C[If that was the solution, it wouldnt be much of a problem, would it?])
+(;B[gb]CR[gb]
+;W[hb]CR[hb]
+(;B[hc]CR[hc]
+;W[ga]CR[ga]
+;B[ib]CR[ib]
+;W[jc]CR[jc]
+(;B[jb]CR[jb]
+;W[kb]CR[kb])
+(;B[fc]CR[fc]
+;W[gb]CR[gb]C[Now what?]))
+(;B[fc]CR[fc]
+;W[ga]CR[ga]
+;B[hc]CR[hc]
+;W[gb]CR[gb]
+;B[ib]CR[ib]
+;W[jc]CR[jc]C[Black fails])
+(;B[ga]CR[ga]
+;W[ha]CR[ha]
+(;B[fc]CR[fc]
+;W[fa]CR[fa]
+(;B[gb]CR[gb]
+;W[ga]CR[ga]
+;B[hc]CR[hc]
+;W[jb]CR[jb]C[Far from best answer])
+(;B[hc]CR[hc]
+;W[jb]CR[jb]
+;B[gb]CR[gb]
+;W[ga]CR[ga]C[Far from best answer]))
+(;B[hc]CR[hc]
+;W[fa]CR[fa]
+(;B[gb]CR[gb]
+;W[ga]CR[ga]
+;B[ib]CR[ib]
+;W[jc]CR[jc]
+(;B[jb]CR[jb]
+;W[kb]CR[kb])
+(;B[ia]CR[ia]
+;W[jb]CR[jb])
+(;B[fc]CR[fc]
+;W[jb]CR[jb]))
+(;B[fc]CR[fc]
+(;W[ib]CR[ib])
+(;W[jb]CR[jb]
+;B[gb]CR[gb]
+;W[ga]CR[ga]C[And you were so close...]))
+(;B[ib]CR[ib]
+;W[jc]CR[jc]
+(;B[fc]CR[fc]
+;W[jb]CR[jb]
+(;B[gb]CR[gb]C[RIGHT Good job!])
+(;B[ga]CR[ga]
+;W[gb]CR[gb]C[Now what?]))
+(;B[gb]CR[gb]
+;W[ga]CR[ga]C[And you were soooooo close to the good answer :)]))))
+(;B[fa]CR[fa]
+;W[ga]CR[ga]C[^_^]))
+(;B[bb]CR[bb]C[If that was the solution, it would not be much of a problem, would it ?])
+(;B[hb]CR[hb]
+;W[hc]CR[hc]
+(;B[fc]CR[fc]
+;W[gb]CR[gb]C[This is far worse than the best answer])
+(;B[gb]CR[gb]
+;W[fc]CR[fc]C[Ekhem...]))
+(;B[fc]CR[fc]
+;W[gb]CR[gb]
+(;B[hc]CR[hc]
+;W[hb]CR[hb]
+;B[ib]CR[ib]
+;W[jc]CR[jc]
+(;B[ha]CR[ha]
+;W[jb]CR[jb]C[Black accomplishes nothing])
+(;B[jb]CR[jb]
+;W[kb]CR[kb]C[Black accomplishes nothing]))
+(;B[jc]CR[jc]
+;W[ib]CR[ib]C[Black accomplishes nothing]))
+(;B[hc]CR[hc]
+;W[hb]CR[hb]
+(;B[ib]CR[ib]
+;W[jc]CR[jc]
+;B[ha]CR[ha]
+;W[gb]CR[gb]
+(;B[ia]CR[ia]
+;W[jb]CR[jb]C[Black accomplishes nothing])
+(;B[ga]CR[ga]
+;W[jb]CR[jb]
+;B[ia]CR[ia]
+;W[ja]CR[ja]C[Black attack fails]))
+(;B[fc]CR[fc]
+;W[gb]CR[gb]
+;B[ib]CR[ib]
+;W[jc]CR[jc]
+(;B[ha]CR[ha]
+;W[jb]CR[jb]C[Black accomplishes nothing])
+(;B[jb]CR[jb]
+;W[kb]CR[kb]C[Black accomplishes nothing])))
+(;B[ga]CR[ga]
+;W[hc]CR[hc]
+;B[fc]CR[fc]
+;W[gb]CR[gb]C[Thats far from the best answer]))

@@ -1,0 +1,17 @@
+(;GE[endgame]DI[3d]DP[10]SO[Eryth]CO[0]AB[ra]AB[qb]AB[rc]AB[pc]AB[pd]AB[od]AW[pa]AW[qa]AW[pb]AW[ob]AW[oc]AW[nd]AW[md]AB[ne]AB[of]AB[le]AW[lc]AW[lb]AB[kd]AB[kc]AB[kb]AP[goproblems]
+(;B[mb]
+(;W[na]
+(;B[la];W[ma];B[ka];W[mc]C[White is reduced to 4 points in senteRIGHT])
+(;B[nb];W[ma])
+(;B[ma];W[la]
+(;B[nb];W[nc];B[oa];W[mc])
+(;B[nc];W[mc]))))
+(;B[la];W[mb]C[Sente, but after Wa Bb White is left with 5 points. You can do better!]LB[ma:a]LB[ka:b])
+(;B[na];W[mb];B[la];W[ma];B[ka])
+(;B[ma];W[la]
+(;B[nb];W[nc];B[mb];W[na];B[oa];W[mc])
+(;B[mb];W[nb]))
+(;B[nc];W[nb])
+(;B[nb];W[nc];B[mb];W[na]
+(;B[ma];W[mc];B[oa];W[la])
+(;B[la];W[mc];B[ka];W[ma])))

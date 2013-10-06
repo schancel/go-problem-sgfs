@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[1d]DP[16]SO[gecko]CO[7]SZ[19]AB[cc]AB[cd]AB[ce]AB[cg]AB[ch]AB[fc]AB[gc]AB[hc]AB[ge]AB[he]AB[gg]AB[hg]AW[ec]AW[dc]AW[ee]AW[ff]AW[fh]AW[gi]AW[dh]AW[di]AW[ii]AW[jh]AW[if]AW[ie]AW[ic]AW[jc]FF[4]GM[1]AP[Jago:Version 4.31]GN[temp]
+(;B[ef];W[df]
+(;B[eg];W[fg]
+(;B[fe];W[dg];B[ed]C[RIGHT])
+(;B[ed];W[dd]))
+(;B[ed];W[dd];B[eg]
+(;W[dg]
+(;B[de]C[RIGHT])
+(;))
+(;W[fg]C[CHOOSE]
+(;B[fe]C[RIGHT])
+(;B[de];W[fd];B[fe];W[dg]C[Ko])))
+(;B[de];W[ed];B[eg];W[fg]))
+(;B[ed];W[dd]
+(;B[de];W[fd];B[ef];W[df];B[eg];W[fg])
+(;B[ef];W[df]))
+(;))

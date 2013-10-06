@@ -1,0 +1,40 @@
+(;GE[life and death]DI[8k]DP[45]SO[dtldarek]CO[0]SZ[19]AW[bm]AW[bn]AW[bo]AW[bp]AW[cp]AW[cq]AW[cr]AW[cs]AB[bj]AB[bl]AB[cl]AB[am]AB[cm]AB[an]AB[en]AB[co]AB[do]AB[bq]AB[eq]AB[br]AB[er]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PL[W]
+(;W[ar]
+(;B[ao]
+(;W[ap];B[al];W[bs]C[white is alive (6 points)RIGHT])
+(;W[bs]C[best for both, white is alive with 5 pointsCHOICERIGHT]))
+(;B[ap]C[good for white];W[ao]C[white is alive (9 points, bad for b)RIGHT])
+(;B[aq]C[good for white]
+(;W[ap];B[as];W[bs]C[white is alive (9 points, black will not play this way)RIGHT])
+(;W[ao];B[as];W[bs];B[ar];W[al];B[am]C[dead])
+(;W[bs]C[white is alive (9 points)];B[as];W[ap]C[white is alive (9 points, bad for black)RIGHT]))
+(;B[bs]C[good for white]
+(;W[aq];B[ao]C[dead])
+(;W[ao]C[aliveRIGHT])))
+(;W[aq]
+(;B[ar]C[dead]
+(;W[bs];B[ap]
+(;W[ao];B[aq]C[dead])
+(;W[as];B[aq];W[ao];B[aq];W[al];B[am]C[dead]))
+(;W[ap]C[death in gote?])
+(;W[ao];B[ap]C[ko, black takes first]LB[ej:threat]LB[fj:ans];W[ej]LB[fj:ans];B[fj]LB[fk:threat]LB[ek:ans];W[aq]LB[fk:threat]LB[ek:ans];B[fk]LB[ek:ans]
+(;W[bs];B[ap];W[as]C[white is alive, but black takes the ko];B[ek]C[white is alive, but black takes the ko])
+(;W[ek];B[ap]LB[el:threat];W[el];B[aq]C[white is dead, but takes the ko];W[fl]C[white is dead, but takes the ko])))
+(;B[ao]
+(;W[ar];B[bs]C[dead])
+(;W[bs];B[ar]C[dead])
+(;W[ap];B[al]C[dead])))
+(;W[ao];B[aq]
+(;W[as];B[ar]C[dead])
+(;W[bs];B[ar]C[dead])
+(;W[ar];B[as]
+(;W[bs];B[ar]C[dead])
+(;W[ap];B[ar]C[dead])))
+(;W[bs];B[ar]
+(;W[ao];B[aq]C[dead])
+(;W[ap];B[aq]C[dead])
+(;W[aq];B[ap];W[ao];B[aq]C[dead])
+(;W[as]
+(;B[ao]C[dead])
+(;B[aq]C[dead (one threat less than with B A5)])))
+(;W[as];B[ar];W[aq];B[ap];W[bs];B[aq];W[ao];B[aq]C[dead]))

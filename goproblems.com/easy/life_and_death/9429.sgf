@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5k]DP[35]SO[xiuma]CO[6]AW[qa]AW[rb]AB[qb]AB[qc]AB[qd]AB[rd]AB[re]AB[se]AB[oa]AB[ob]AW[nb]AW[nc]AW[oc]AW[sf]AW[rf]AW[qe]AW[pd]AW[oe]AW[qf]C[White gets Seki!]AB[sc]AB[pc]AP[goproblems]
+(;W[na]
+(;B[pb]
+(;W[ra]
+(;B[sb];W[rc]C[RIGHT])
+(;B[rc];W[sb]C[RIGHT]))
+(;W[rc]
+(;B[sb];W[ra]C[RIGHT])
+(;B[ra];W[sa]C[RIGHT]))
+(;W[sb];B[ra]))
+(;B[ra]C[This does not help black.];W[sa]
+(;B[sb]C[This is a mistake by black, even if he can win any ko.];W[pb];B[ra];W[pa];B[rc]C[Equivalent with seki, both get 5 points. Gote for black.RIGHT])
+(;B[pb];W[rc]C[Still seki.RIGHT])))
+(;W[pa];B[ra];W[sa];B[rc])
+(;W[ra]
+(;B[sb]
+(;W[pb];B[pa];W[na];B[pb])
+(;W[na];B[pb];W[rc]C[RIGHT]))
+(;B[rc];W[na];B[pb];W[sb]C[RIGHT]))
+(;W[sb];B[ra])
+(;W[sa];B[rc]
+(;W[pb];B[pa];W[na];B[pb])
+(;W[na];B[pb]))
+(;W[pb];B[pa];W[ra];B[sb];W[na];B[pb])
+(;W[rc];B[sb];W[ra];B[pa];W[na];B[sa]))

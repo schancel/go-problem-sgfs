@@ -1,0 +1,39 @@
+(;GE[endgame]DI[5d]DP[6]SO[Zahhar]CO[0]AW[sb]AW[rb]AW[qc]AW[pc]AW[pb]AW[ob]AW[nc]AW[mc]AW[md]AW[ld]AW[le]AW[ke]AW[lf]AW[mf]AW[nf]AW[mg]AW[lh]AW[li]AW[lj]AW[mk]AW[ml]AW[mm]AW[nm]AW[on]AW[oo]AW[pm]AW[pl]AW[qk]AW[qj]AW[qi]AW[ri]AW[rh]AW[rl]AW[qn]AW[kk]AB[sc]AB[rc]AB[sd]AB[se]AB[re]AB[qe]AB[qf]AB[of]AB[ne]AB[me]AB[nd]AB[od]AB[oc]AB[pd]AW[qd]AW[rd]AB[ng]AB[oh]AB[mh]AB[mi]AB[mj]AB[nk]AB[nl]AB[ol]AB[ok]AB[om]AB[pk]AB[pj]AB[pi]AB[qh]AB[rg]AB[sh]AW[nj]AW[pg]LB[pg:a]AB[ql]C[]AP[goproblems]
+(;B[pf];W[oi]
+(;B[ph];W[nh]
+(;B[og]TR[ni]C[];W[si]C[It is not necessary to sacrifice the N11 group.CHOICE])
+(;B[ni];W[nh];B[og]C[];W[si]C[It is not necessary to sacrifice the N11 group.CHOICE]))
+(;B[nh];W[ph]C[Devastating loss.])
+(;B[og];W[ph];B[qg];W[ph];B[pg];W[nh]C[It is not necessary to sacrifice these stones.CHOICE]))
+(;B[og];W[oi]
+(;B[ph];W[nh]C[];B[si];W[sj]C[];B[sg];W[qm]C[It is not necessary to sacrifice the N11 group.CHOICE])
+(;B[oj];W[ph]C[Devestating loss.CHOICE])
+(;B[qg];W[nh]C[];B[ph];W[si]C[It is not necessary to sacrifice the N11 group.CHOICE])
+(;B[nh];W[ph]C[Devestating loss.CHOICE])
+(;B[pf];W[ph];B[qg];W[ph];B[pg];W[nh]C[It is not necessary to sacrifice these stones.CHOICE]))
+(;B[qg];W[og]
+(;B[nh];W[pe]C[Unacceptable loss.CHOICE])
+(;B[ph]
+(;W[oi];B[nh];W[pe]C[Unacceptable loss.CHOICE])
+(;W[nh]C[It is not necessary to sacrifice these stones.CHOICE])))
+(;B[ph];W[og]
+(;B[nh];W[pe]C[Unacceptable loss.CHOICE])
+(;B[pf];W[nh]C[It is not necessary to sacrifice these stones.CHOICE])
+(;B[pe];W[nh]C[It is not necessary to sacrifice these stones.CHOICE]))
+(;B[pe];W[ph]
+(;B[qg];W[oi]C[Devestating loss.CHOICE])
+(;B[og];W[oi]C[Devestating loss.CHOICE]))
+(;B[nh];W[ph]
+(;B[oi]
+(;W[qg];B[pf]C[])
+(;W[pf]
+(;B[pe];W[qg]
+(;B[og];W[qh];B[si];W[sj];B[sg];W[qm]C[This seems to be the best outcome.CHOICERIGHT])
+(;B[si];W[sj];B[sg];W[qh];B[og];W[qm]C[This seems to be the best outcome.CHOICERIGHT]))
+(;B[og];W[qg]
+(;B[pe];W[qh];B[si];W[sj];B[sg];W[qm]C[This seems to be the best outcome.CHOICERIGHT])
+(;B[si];W[sj];B[sg];W[pe];B[oe];W[qh]C[Total loss. CHOICE]))))
+(;B[pf];W[oi]C[Devestating loss.CHOICE])
+(;B[qg];W[oi]C[Devestating loss.CHOICE])
+(;B[og];W[oi]C[Devestating loss.CHOICE]))
+(;B[ni];W[og];B[pf]C[Ko is not an option.]))

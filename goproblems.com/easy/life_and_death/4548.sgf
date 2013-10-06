@@ -1,0 +1,26 @@
+(;GE[life and death]DI[5k]DP[32]SO[transcend]CO[9]AB[br]AB[bq]AB[bp]AW[cq]AW[cr]AW[dp]AW[do]AW[eo]AB[cn]AB[dn]AB[en]AB[fn]AB[fo]AW[fp]AW[gp]AW[gq]AW[gr]AW[fr]AB[fq]AB[eq]AB[er]AB[ep]MA[ep]MA[eq]MA[er]MA[fq]C[Rescue these stones (try capturing some of white's in the process).]AP[goproblems]
+(;B[dq];W[es])
+(;B[ds];W[cs]
+(;B[cp];W[dr]
+(;B[co];W[es];B[dq]C[RIGHT])
+(;B[es];W[dq]C[You were on the right track.]))
+(;B[dq];W[dr])
+(;B[co];W[dr];B[cp];W[es];B[dq]C[RIGHT]))
+(;B[cp];W[es]
+(;B[co];W[dq])
+(;B[ds];W[dr];B[fs];W[dq];B[es];W[cs]))
+(;B[dr];W[cs];B[cp];W[dq])
+(;B[es];W[ds]
+(;B[cp];W[dq]
+(;B[co];W[fs])
+(;B[as];W[fs]C[Trying to setup a ko?]MA[as];B[cs];W[dr]C[Too late for that :)])
+(;B[bs];W[fs]))
+(;B[dr];W[cs];B[cp];W[dq]))
+(;B[cs];W[ds]
+(;B[dr];W[bs]
+(;B[cp];W[dq])
+(;B[es];W[cs]C[Dead.]))
+(;B[bs];W[dr]
+(;B[cp];W[dq])
+(;B[co];W[es]))
+(;B[cp];W[dq];B[es];W[bs])))

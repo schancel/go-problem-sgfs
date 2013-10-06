@@ -1,0 +1,445 @@
+(;GE[life and death]DI[4d]DP[8]SO[arnesinnema]CO[0]SZ[19]AW[nb]AW[cc]AW[dc]AW[nc]AW[pc]AW[qc]AW[dd]AW[ed]AW[gd]AW[ce]AW[de]AW[ee]AW[he]AW[je]AW[ef]AW[qf]AW[fg]AW[hg]AW[jg]AW[fh]AW[ih]AW[bi]AW[ii]AW[bj]AW[cj]AW[dk]AW[fk]AW[bl]AW[cl]AW[dl]AW[el]AW[am]AW[dm]AW[em]AW[fm]AW[bn]AW[en]AW[bo]AW[co]AW[fo]AW[dp]AW[fp]AW[pp]AW[dq]AW[eq]AW[mq]AB[bb]AB[fb]AB[bc]AB[fc]AB[hc]AB[mc]AB[bd]AB[cd]AB[jd]AB[kd]AB[md]AB[pd]AB[qd]AB[be]AB[oe]AB[cf]AB[df]AB[ff]AB[lf]AB[eg]AB[bh]AB[eh]AB[jh]AB[kh]AB[ci]AB[di]AB[dj]AB[ej]AB[ij]AB[jj]AB[ek]AB[fl]AB[gl]AB[gm]AB[fn]AB[gn]AB[gp]AB[fq]AB[gq]AB[jq]C[Where should w play?  (play A to skip the introduction and go to the 1001 variations problem)]LB[qm:A]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;W[qk]C[w is ahead even if he sacrifices R14];B[qi]
+(;W[qn]C[correct this the prefered move by Luke Chung...
+
+if b wants to invade the corner where should he play?RIGHT]
+(;B[qq];W[or]C[see problem 901 by Spirit, w can get at least a ko... P2 should kill.])
+(;B[pq];W[oq];B[qp]C[correct again, Q3 is the right spot to invadeRIGHT]))
+(;W[qo]C[of course R5 protect the corner better but it also leaves a weakness at A, but beyond my level to say its wrongRIGHT]LB[qm:A])
+(;W[qp]C[of course R5 protect the corner better but it also leaves a weakness at A, but beyond my level to say its wrongRIGHT]LB[qm:A]))
+(;W[qi]C[];B[rc]LB[qi:A]C[white A seems natural, but w is ahead, and R11 gives b a chance to still win the game if he can kill the two white stones]
+(;W[rb];B[rd]
+(;W[sb];B[qk]LB[qm:A]C[now w is in trouble, w makes it worse by playing at A. Now play at A to try to kill the w group. (colors will reverse...)FORCE];W[qm]C[];B[qm]AB[qm]AB[pp]AB[mq]AW[fn]AW[gn]AW[gm]AW[gl]AW[fl]AB[fk]AB[el]AB[fm]AB[em]AB[en]AW[qk]AB[qi]AB[qf]AW[oe]AW[pd]AW[qd]AW[rd]AW[rc]AW[jq]AW[fq]AW[gq]AW[gp]AB[fp]AB[fo]AB[eq]AB[dq]AB[dp]AB[co]AB[bo]AB[bn]AB[am]AB[bl]AB[cl]AB[dm]AB[dl]AB[dk]AW[ek]AW[ej]AB[cj]AB[bj]AB[bi]AW[bh]AW[ci]AW[di]AW[dj]AW[eh]AW[eg]AW[df]AW[cf]AB[fh]AB[fg]AW[ff]AB[ef]AB[ee]AB[de]AW[be]AW[bd]AW[cd]AW[bc]AW[bb]AB[cc]AB[dc]AB[ce]AB[dd]AB[ed]AW[fc]AW[fb]AB[gd]AB[he]AB[hg]AB[jg]AB[je]AW[hc]AW[jd]AW[kd]AW[md]AW[mc]AW[lf]AB[ih]AB[ii]AW[jh]AW[kh]AW[ij]AW[jj]AB[pc]AB[qc]AB[rb]AB[sb]AB[nc]AB[nb]C[ok try to kill the two marked black stonesFORCE]TR[qi]TR[qf]TR[pk];W[pk]C[disconnect];B[oi]TR[pg]C[FORCE];W[pg]C[];B[rj];W[rk];B[qg]LB[ph:A]LB[nk:B]C[w should play A here but in the real game I chickend out and played B. Play A for the 'easy' kill. Play B to try to let the group live]
+(;W[ph]C[];B[pi];W[nk]C[necessary];B[pf]C[FORCE]TR[ng];W[ng];B[qh]C[how to kill?FORCE]TR[nh]TR[sj]TR[si]TR[sh]TR[sg]
+(;W[sg];B[rg]TR[sh]TR[sf]C[FORCE]
+(;W[sf];B[sh]TR[sj]TR[nh]TR[se]C[FORCE]
+(;W[sj]
+(;B[se];W[re];B[rf]
+(;W[sf];B[og]
+(;W[nh];B[oh];W[ri]C[black is deadRIGHT])
+(;W[ri]C[wO12 first leaves less aji, but cant see b live hereRIGHT]))
+(;W[ri];B[og];W[sf]C[RIGHT])
+(;W[nh];B[sf];W[ri]C[RIGHT]))
+(;B[si]
+(;W[nh];B[se];W[re];B[rf];W[sf];B[sk]C[FORCE]
+(;W[rl]C[RIGHT])
+(;W[sl];B[rl]C[no reason to let b get a koCHOICE]))
+(;W[sk];B[se];W[nh];B[rf]TR[rh]TR[sg]C[CHOICE])
+(;W[se];B[og]
+(;W[ri];B[sk]C[CHOICE])
+(;W[sk];B[qj]TR[ri]TR[rh]TR[ph]TR[pg]C[CHOICE]))
+(;W[ri];B[sk]
+(;W[sl];B[sj]LB[rl:A]LB[og:B]C[b eiter connects at A or lives at BCHOICE])
+(;W[rl];B[og]TR[pg]TR[ph]TR[rh]C[CHOICE]))))
+(;W[nh];B[sj];W[ri];B[se];W[re];B[rf];W[sf]C[RIGHT])
+(;W[se]))
+(;W[sh];B[sk]TR[sl]TR[rl]C[FORCE]
+(;W[rl];B[sf]
+(;W[nh];B[re];W[sd];B[si];W[se];B[rh]TR[ri]TR[sh]C[CHOICE])
+(;W[re];B[si];W[nh];B[rh]TR[ri]TR[sh]C[CHOICE]))
+(;W[sl];B[sj];W[rl];B[sf]TR[nh]TR[re]TR[se]C[FORCE]
+(;W[nh];B[si];W[rh];B[re];W[sd];B[ri]C[b livesCHOICE])
+(;W[se];B[re]C[only koCHOICE])
+(;W[re];B[si]
+(;W[nh];B[rh]TR[ri]TR[sh]C[CHOICE])
+(;W[rh];B[og]TR[pg]TR[ph]TR[rh]TR[sh]TR[sg]C[CHOICE])))))
+(;W[nh];B[re]TR[sg]TR[se]C[FORCE]
+(;W[se];B[sf]TR[sh]TR[sd]C[FORCE]
+(;W[sd];B[rh]TR[si]TR[qe]C[FORCE]
+(;W[si];B[sj];W[sg];B[rf];W[sh];B[qj]C[CHOICE])
+(;W[qe];B[rf];W[si];B[sj]C[b livesCHOICE]))
+(;W[sh];B[sd];W[sc];B[sk]
+(;W[sl];B[sj]TR[rl]C[FORCE];W[rl];B[sg]C[CHOICE])
+(;W[rl];B[sg]C[CHOICE])))
+(;W[sg];B[sf]TR[sj]TR[si]TR[sh]TR[rg]C[FORCE]
+(;W[rg];B[rh]
+(;W[sj];B[si]
+(;W[sk];B[qj]C[CHOICE])
+(;W[qj];B[sk]C[CHOICE]))
+(;W[si];B[sj]C[CHOICE]))
+(;W[si];B[sj]
+(;W[rh];B[rg]C[CHOICE])
+(;W[sh];B[rg]C[CHOICE]))
+(;W[sh];B[si];W[rg];B[rh]C[CHOICE])
+(;W[sj];B[si];W[sh];B[sk]C[CHOICE])))
+(;W[sh];B[rh];W[sj];B[si];W[sk];B[sg]
+(;W[rf];B[qj]C[CHOICE])
+(;W[qj];B[ri]LB[rf:A]LB[og:B]C[A and B are mia so b livesCHOICE]))
+(;W[si];B[sj];W[sg];B[sf];W[rf];B[rg];W[se];B[sh];W[rh];B[ri]
+(;W[sf];B[sh]C[CHOICE])
+(;W[sh];B[sf]
+(;W[sg];B[sh]C[CHOICE])
+(;W[sh];B[re]C[CHOICE])))
+(;W[sj];B[si]
+(;W[nh];B[sk];W[sl];B[rl]C[only ko (althoug b can probably live)CHOICE])
+(;W[sg];B[sk]
+(;W[rl];B[og];W[rh];B[rg]C[b livesCHOICE]TR[rh]TR[pg]TR[ph])
+(;W[sl];B[rl]C[only ko (although b can probably live)CHOICE])))
+(;W[sf];B[og];W[sh];B[sk]
+(;W[rl];B[se];W[re];B[sg];W[rg];B[rf]
+(;W[sg];B[si];W[sd];B[rh];W[se];B[qj]TR[pg]TR[ph]TR[ri]C[CHOICE])
+(;W[sd];B[rh];W[sg];B[si]C[CHOICE];W[se]))
+(;W[sl];B[sj];W[rl];B[sg];W[rg];B[se]
+(;W[qj];B[rh]
+(;W[ri];B[rf];W[si];B[sg]C[CHOICE])
+(;W[re];B[rf];W[sd];B[sg]C[only koCHOICE]))
+(;W[re];B[rf];W[sg];B[si];W[sd];B[rh];W[se];B[qj]C[CHOICE]))))
+(;W[nk];B[ph]LB[qp:yes]LB[qq:no]C[black makes fine, shape but isn't 100% alive, w now invades blacks corner, do you know the right joseki?]
+(;W[qq];B[pq];W[qp];B[qo];W[ro];B[rn];W[po];B[qn];W[pr];B[or]
+(;W[rr];B[ps];W[qs]C[];B[qr]LB[fd:A]C[play at A, for a ko threat];W[fd];B[fe];W[pr];B[oo];W[os];B[nr]LB[pn:A]C[correct, play A to go the the 1001 variations problemFORCE];W[pn]AB[rk]AB[qk]AB[pk]AB[nk]AW[rj]AW[qi]AW[ph]AW[oi]AW[qg]AW[qf]AB[pg]AB[oe]AB[pd]AB[qd]AB[rd]AB[rc]AW[qc]AW[pc]AW[rb]AW[sb]AW[nc]AW[nb]AB[mc]AB[md]AB[kd]AB[jd]AB[hc]AB[fd]AB[fc]AB[fb]AW[he]AW[gd]AW[fe]AB[ff]AW[ef]AW[ee]AW[de]AW[ce]AW[ed]AW[dd]AW[dc]AW[cc]AB[be]AB[cd]AB[bd]AB[bc]AB[bb]AB[df]AB[cf]AB[eg]AB[eh]AW[fg]AW[fh]AW[hg]AW[jg]AW[ih]AW[ii]AW[je]AB[jh]AB[kh]AB[ij]AB[jj]AB[lf]AB[fl]AB[gl]AB[gm]AB[gn]AB[fn]AW[fm]AB[ek]AW[fk]AB[ej]AB[dj]AB[di]AB[ci]AB[bh]AW[bi]AW[cj]AW[bj]AW[dk]AW[el]AW[dl]AW[em]AW[dm]AW[cl]AW[bl]AW[am]AW[bn]AW[bo]AW[co]AW[eq]AW[dq]AW[dp]AW[fp]AW[fo]AW[en]AB[fq]AB[gq]AB[gp]AB[jq]AB[ol]AB[nm]AB[po]AW[qo]AW[qn]AW[qm]AW[rn]AB[ro]AB[qp]AB[qq]AB[pr]AB[qs]AB[rr]AB[os]AW[or]AW[nr]AW[pq]AW[pp]AW[oo]AW[om]AW[nn]AW[pl]AB[op]AW[oq]AB[mn]AB[ln]AB[kn]AW[mo]AW[mq]AW[lo]AW[ko]AB[jo]AB[io]AW[jp]AW[ip]AB[jm]AB[pn]C[RIGHT];B[rh])
+(;W[qr];B[rp]TR[mq]C[due to the marked stones w cant simply connect at R2, w dies]))
+(;W[qp]AB[fq]AB[gq]AB[gp]AW[fp]AW[fo]AB[fn]AB[gn]AB[gm]AB[gl]AB[fl]AW[fk]AB[ek]AB[ej]AB[dj]AB[di]AB[ci]AB[bh]AW[bi]AW[bj]AW[cj]AW[dk]AW[el]AW[dl]AW[cl]AW[bl]AW[am]AW[bn]AW[co]AW[bo]AW[fm]AW[en]AW[em]AW[dm]AW[eq]AW[dp]AW[dq]AB[eh]AB[eg]AB[df]AB[cf]AB[be]AB[bd]AB[cd]AB[bc]AB[bb]AW[cc]AW[dc]AW[dd]AW[ed]AW[de]AW[ce]AW[ef]AW[ee]AB[ff]AW[fg]AW[fh]AW[ii]AW[ih]AW[hg]AW[he]AW[gd]AW[je]AW[jg]AB[fc]AB[fb]AB[hc]AB[jd]AB[kd]AB[md]AB[mc]AW[nc]AW[nb]AW[qc]AW[pc]AW[rb]AW[sb]AB[pd]AB[qd]AB[rd]AB[rc]AB[oe]AW[pp]AW[qm]AW[mq]AB[jq]AB[rk]AB[qk]AB[pk]AB[nk]AW[rj]AW[qi]AB[ij]AB[jj]AB[jh]AB[kh]AB[lf]AW[oi]AW[ph]AW[qg]AW[qf]AB[pg]AB[qq]AW[pq]AB[qp]AW[qo]AB[ro]AW[rn]AB[po]AW[qn]AB[pr]AW[or]AB[rr]AB[qs]AB[os]AW[nr]AB[fd]AW[fe]AW[oo]AB[op]AW[oq]AB[pn]AB[ol]AW[om]AW[pl]AB[nm]AW[nn]AB[mn]AB[ln]AB[kn]AB[jo]AB[io]AW[ip]AW[jp]AW[ko]AW[lo]AW[mo]AB[jm];B[rh])))
+(;W[ql]C[might be best for w to just sacrifice the corner. Note that even after bA there is some aji in the corner. RIGHT]LB[sb:A]))
+(;W[re];B[rd];W[ql]C[possibleRIGHT]))
+(;W[qj]C[better than the 2 space extension, but Luke Yao Nien Chung 7D prefers R9 here])
+(;W[qm]AW[qg]AW[ph]AW[qi]AW[oi]AW[rj]AB[rk]AB[qk]AB[pg]AB[pk]AB[nk]AB[ol]AB[qq]AW[pq]AB[qp]AW[qo]AB[ro]AW[rn]AB[po]AW[qn]AB[pr]AW[or]AB[rr]AB[qs]AB[fd]AW[fe]AW[oo]AB[os]AW[nr]AW[om]AW[pl]AW[nn]AB[nm]AB[op]AW[oq]AB[mn]AB[ln]AB[kn]AW[mo]AW[lo]AW[ko]AB[jo]AB[io]AW[jp]AW[ip]AB[jm]AB[rc]AW[rb]AB[rd]AW[sb]AB[pn];B[rh]C[black played the marked move, and you dont need to be 9p to see this is the keypoint it has two ways to escape, A and B and it cuts white group in two with a move at C, and destroys whites eyeshape...  Well good luck! When you see triangles pick one off them otherwise you'll be off path FORCE]AW[qg]AW[ph]AW[qi]AW[rj]AB[rk]AB[qk]AB[pk]AB[nk]AB[ol]AB[nm]AW[nn]AW[om]AW[pl]AW[qn]AW[qo]AW[rn]AB[po]AB[pn]AB[qp]AB[qq]AB[ro]AW[pq]AB[pr]AB[qs]AB[rr]AB[os]AW[nr]AW[or]AW[oo]AW[mo]AB[mn]AB[ln]AB[kn]AW[lo]AW[ko]AB[jo]AB[io]AW[jp]AW[ip]AB[rc]AB[rd]AW[rb]AW[sb]AB[fd]AW[fe]AB[jm]AB[op]AW[oq]AB[pg]AW[oi]
+(;W[sk]C[the only move];B[sl]TR[si]TR[sj]C[this is correct, peeping at P10 would have killedFORCE]
+(;W[sj]C[FORCE];B[ql]TR[re]TR[rg]TR[sh]TR[ri]TR[pm]C[]
+(;W[re]C[yup]
+(;B[se]C[]
+(;W[sf]C[]
+(;B[sd]TR[pf]TR[og]TR[qh]TR[sh]TR[ri]C[FORCE]
+(;W[pf]C[];B[og]C[]
+(;W[of];B[ng]C[];W[od];B[nd]C[];W[oc];B[pe]TR[ne]TR[nf]C[FORCE]
+(;W[ne];B[nf]
+(;W[sh];B[rg]
+(;W[qe];B[me]
+(;W[qh];B[ri];W[qj];B[pj]
+(;W[si]C[White can tenuki as long as the group has at least one outer liberty. If Black would play S14, T13 or T11 then White lives with points. Only when Black has taken the last outside liberty White needs to play, and then S14 or T11 would be just as good as T13.RIGHT])
+(;W[sg]C[White can tenuki as long as the group has at least one outer liberty. If Black would play S14, T13 or T11 then White lives with points. Only when Black has taken the last outside liberty White needs to play, and then S14 or T11 would be just as good as T13.RIGHT]))
+(;W[qj];B[qh]))
+(;W[qh];B[sg]
+(;W[qe];B[me];W[ri]C[RIGHT])
+(;W[ri];B[si];W[rf]C[RIGHT])))
+(;W[qe];B[me];W[sh];B[rg]))
+(;W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh]TR[oh]TR[qh]TR[sh]TR[mi]C[FORCE]
+(;W[oh];B[ni]TR[qh]TR[sh]TR[oj]TR[pj]C[FORCE]
+(;W[qh];B[qj];W[ri];B[sh];W[nj];B[mi];W[pj]C[RIGHT])
+(;W[oj];B[pj]TR[nj]C[w is deadFORCE];W[nj];B[mi]TR[mk]C[FORCE];W[mk];B[mj]TR[sh]TR[lk]TR[ok]C[FORCE]
+(;W[lk];B[qh]TR[pi]C[FORCE];W[pi]C[CHOICE];B[ri])
+(;W[sh];B[ri]TR[qj]C[FORCE];W[qj];B[rg]TR[rf]TR[qh]C[FORCE]
+(;W[qh];B[rf]TR[qe]C[FORCE];W[qe];B[sg]TR[ok]C[FORCE];W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm];B[no]TR[lk]C[FORCE];W[lk];B[kj]TR[lm]C[FORCE];W[lm]C[only one eyeCHOICE])
+(;W[rf]C[CHOICE];B[qh]))
+(;W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm];B[no]TR[lk]C[FORCE];W[lk];B[kj]TR[lm]C[FORCE];W[lm];B[qh]TR[pi]C[FORCE];W[pi];B[rg]TR[rf]C[FORCE];W[rf]C[CHOICE];B[mf]))
+(;W[pj];B[rg]TR[rf]C[FORCE];W[rf];B[oj]TR[qh]C[FORCE];W[qh];B[qj]TR[ri]C[FORCE];W[ri]C[CHOICE];B[sh])
+(;W[sh];B[rg]TR[rf]C[FORCE];W[rf];B[ri]TR[qj]C[FORCE];W[qj]C[CHOICE];B[qh]))
+(;W[mi];B[mh];W[oh];B[mf]TR[qh]TR[sh]TR[pj]C[FORCE]
+(;W[pj];B[rg]TR[rf]C[FORCE];W[rf]C[CHOICE];B[qh])
+(;W[sh];B[rg]TR[rf]C[FORCE];W[rf];B[ri]TR[qj]C[FORCE];W[qj];B[qh]TR[pj]C[FORCE];W[pj];B[qe]C[CHOICE])
+(;W[qh];B[rg];W[rf];B[pj];W[sh];B[ri];W[qj]C[sekiRIGHT]))
+(;W[sh];B[rg];W[rf];B[ri];W[qj];B[qh])
+(;W[qh];B[rg]TR[rf]C[FORCE];W[rf];B[qj]TR[ri]C[FORCE];W[ri];B[sh]TR[mi]C[FORCE];W[mi];B[mh]TR[oh]C[FORCE];W[oh];B[lh]TR[pj]C[FORCE];W[pj]C[CHOICE];B[oj])))
+(;W[sh];B[rg];W[rf];B[ri];W[qj];B[qh])
+(;W[od];B[nd]
+(;W[of];B[ng])
+(;W[oc];B[pe];W[of];B[ng]))
+(;W[qh];B[rg]
+(;W[of];B[ng];W[od];B[nd];W[oc];B[pe]TR[ne]C[FORCE];W[ne];B[nf];W[qe];B[me];W[sh])
+(;W[od];B[nd]
+(;W[oc];B[pe];W[of];B[ng])
+(;W[of];B[ng]))))
+(;W[og]C[FORCE]
+(;B[pf]TR[qe]TR[of]TR[nh]TR[sh]C[FORCE]
+(;W[of]C[FORCE];B[pe]TR[ne]TR[sh]TR[ri]C[]
+(;W[ne];B[nh]C[FORCE]
+(;W[nd]
+(;B[qh];W[rg];B[oh]TR[sh]TR[pi]C[FORCE]
+(;W[pi];B[sh]C[FORCE]
+(;W[nf];B[sg];W[ri]C[];B[rf]C[ko, b takes firstRIGHT])
+(;W[ri];B[qe]TR[nf]TR[si]C[FORCE]
+(;W[nf];B[rf]C[ko, b takes firstRIGHT])
+(;W[si]C[CHOICE];B[nf]C[w is dead])))
+(;W[sh]C[CHOICE];B[pi]))
+(;B[oh]TR[nf]TR[qh]C[FORCE]
+(;W[qh];B[nf];W[sh];B[rg];W[rf];B[ri];W[qj]C[];B[pj]C[sekiRIGHT])
+(;W[nf];B[qh];W[pi]C[CHOICE];B[rg])))
+(;W[qh];B[rg];W[rf];B[qj];W[ri]C[CHOICE];B[sh]))
+(;W[sh]C[FORCE];B[ri]C[];W[qj]C[FORCE];B[rg]TR[rf]TR[pj]C[FORCE]
+(;W[rf]C[FORCE];B[qh]TR[si]C[FORCE];W[si]C[FORCE];B[pj]C[FORCE];W[nh]C[CHOICEFORCE];B[mg])
+(;W[pj];B[qh]TR[nh]C[FORCE];W[nh];B[mg]TR[nj]C[FORCE];W[nj]C[CHOICE];B[mi]))
+(;W[ri]C[CHOICE];B[rg]))
+(;W[qe];B[pe]TR[rg]TR[qh]C[FORCE]
+(;W[rg];B[sh]C[FORCE];W[qh]C[];B[sg]C[koRIGHT])
+(;W[qh]C[];B[rg]TR[rf]TR[sh]TR[ri]TR[qj]C[FORCE]
+(;W[sh];B[sg]
+(;W[ri]C[RIGHT])
+(;W[rf];B[si];W[ri]C[RIGHT]))
+(;W[ri];B[sh];W[pj]C[RIGHT])
+(;W[rf];B[qj]TR[ri]C[FORCE];W[ri];B[sh]TR[nh]C[FORCE];W[nh]C[FORCE];B[ng]TR[mg]C[FORCE];W[mg]C[FORCE];B[nf]TR[mi]C[FORCE];W[mi];B[nj]TR[lg]TR[lh]C[FORCE]
+(;W[lh]C[CHOICE];B[kg]C[w is dead])
+(;W[lg];B[kg]TR[mf]C[FORCE];W[mf];B[me]TR[kf]C[FORCE];W[kf];B[le]TR[ji]TR[li]C[FORCE]
+(;W[ji]C[CHOICE];B[li])
+(;W[li];B[lh]TR[ji]C[FORCE];W[ji]C[CHOICE];B[mh])))
+(;W[qj];B[rf]TR[pj]C[FORCE];W[pj];B[nh]TR[sh]C[FORCE];W[sh];B[sg]TR[ri]C[FORCE];W[ri]C[CHOICE];B[sf])))
+(;W[sh];B[rg]TR[rf]C[FORCE];W[rf];B[ri]TR[qj]C[FORCE];W[qj];B[qh]C[CHOICE])
+(;W[nh];B[rg]TR[of]TR[qh]C[FORCE]
+(;W[qh];B[of]TR[rf]C[FORCE];W[rf];B[sh];W[nf];B[mg]TR[ng]TR[pj]C[FORCE]
+(;W[ng];B[pj]TR[pi]C[FORCE];W[pi];B[ni])
+(;W[pj];B[qj]
+(;W[ri];B[ng];W[nj];B[oh]C[koRIGHT])
+(;W[nj];B[ng]
+(;W[oh];B[ri];W[mi]C[RIGHT])
+(;W[ri]))))
+(;W[of];B[pe];W[ne];B[nd]TR[qh]C[FORCE];W[qh];B[rf]TR[mg]TR[mi]C[FORCE]
+(;W[mg]
+(;B[mi]TR[mf]TR[pj]C[FORCE]
+(;W[pj]
+(;B[mf]TR[nf]TR[ni]C[FORCE]
+(;W[nf])
+(;W[ni]TR[oh]TR[pi]C[RIGHT]))
+(;B[nf];W[mf];B[me];W[ni]C[RIGHT]))
+(;W[mf];B[pj]TR[ni]C[FORCE];W[ni];B[pi]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf];B[le]C[CHOICE]))
+(;B[ni];W[mi];B[nj];W[lg];B[kg];W[lh];B[nf];W[mf];B[me];W[kf];B[le];W[ji];B[ki];W[kj]C[RIGHT]))
+(;W[mi];B[mg]TR[nj]TR[pj]C[FORCE]
+(;W[pj];B[nj])
+(;W[nj];B[pj]TR[mk]C[FORCE];W[mk];B[lj]TR[oj]C[FORCE];W[oj];B[pm]TR[ok]C[FORCE];W[ok];B[nl]C[CHOICE])))))
+(;B[qe]TR[pf]TR[rf]C[FORCE]
+(;W[pf];B[rf]
+(;W[nh]TR[pg]TR[oh]C[RIGHT])
+(;W[rg];B[sg]TR[sh]C[FORCE];W[sh];B[si]TR[ri]C[FORCE];W[ri];B[sh]
+(;W[qh];B[sf]
+(;W[pj]C[RIGHT])
+(;W[nh]C[RIGHT]))
+(;W[pj]TR[pg]TR[pi]C[RIGHT])
+(;W[nh]TR[pg]TR[oh]C[RIGHT]))
+(;W[pj];B[nh]
+(;W[oh];B[qj]
+(;W[ri];B[rg])
+(;W[rg];B[ri]
+(;W[oj];B[qh])
+(;W[qh];B[oj])))
+(;W[rg];B[sg])))
+(;W[rf];B[pf];W[sh]C[RIGHT];B[ri];W[qj];B[qh];W[si]C[RIGHT])))
+(;W[sh];B[rg]TR[rf]C[FORCE];W[rf];B[ri]C[];W[qj];B[qh]TR[pf]TR[og]C[FORCE]
+(;W[pf];B[og]C[]
+(;W[of];B[ng]TR[od]C[FORCE];W[od];B[nd]C[];W[oc];B[pe]C[];W[nf];B[ne]C[];W[mg];B[nh]TR[mf]TR[oh]TR[mi]C[FORCE]
+(;W[mi]C[]
+(;B[pj]
+(;W[mh];B[pi]
+(;W[oh]C[RIGHT])
+(;W[ni];B[oh];W[ph]C[CHOICE];B[og]C[whoopsie]))
+(;W[pi]C[CHOICE];B[mh])
+(;W[oh];B[pi]
+(;W[ni]C[RIGHT])
+(;W[mh]C[RIGHT]))
+(;W[ni];B[pi]
+(;W[mh])
+(;W[oh]C[RIGHT])))
+(;B[mf]
+(;W[si];B[mh]
+(;W[pj];B[oh]
+(;W[sg];B[rh];W[oj];B[qh]C[RIGHT])
+(;W[pi]C[CHOICE]))
+(;W[sg];B[rh];W[pj];B[oh];W[qh]C[CHOICE];B[oj]))
+(;W[sg];B[mh];W[pj];B[oh];W[si])))
+(;W[mf];B[li]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf];B[le]C[]
+(;W[mi];B[ni]TR[nj]TR[pj]C[FORCE]
+(;W[nj];B[mj]TR[oj]C[FORCE];W[oj];B[mh]TR[pj]C[FORCE];W[pj]C[];B[oh]C[ko];W[si];B[pi]C[koRIGHT])
+(;W[pj];B[oj]TR[si]C[FORCE];W[si];B[oh]TR[sg]C[FORCE];W[sg]C[CHOICE];B[rh]))
+(;W[pj];B[oh]TR[oj]C[FORCE];W[oj]C[koRIGHT])
+(;W[oh];B[ni];W[oj]C[CHOICE];B[pj]))
+(;W[oh]C[CHOICE];B[ni]TR[ng]TR[og]TR[pg]TR[nh]TR[ni]C[w, cant capture the marked stones, and cant form a second eye thus eventually it dies]))
+(;W[od];B[nd];W[oc];B[pe];W[of];B[ng])
+(;W[oh];B[pj]C[]
+(;W[of];B[ng];W[od];B[nd];W[oc];B[pe];W[nf];B[ne];W[mg];B[pi]TR[nh]C[FORCE];W[nh];B[og]TR[lg]TR[mi]C[FORCE]
+(;W[mi];B[lh]TR[lg]TR[nj]C[FORCE]
+(;W[nj];B[mh]TR[lg]TR[lj]TR[oj]C[w diesFORCE]
+(;W[oj];B[mj]TR[lj]TR[mk]C[FORCE]
+(;W[mk];B[lj]TR[ok]C[FORCE];W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm];B[no]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf]C[CHOICE];B[mf]C[FORCE])
+(;W[lj];B[mk]TR[ji]C[FORCE];W[ji];B[ki]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf]C[CHOICE];B[mf]))
+(;W[lg];B[kg];W[kf]C[CHOICE];B[mf])
+(;W[lj];B[mf]TR[ng]C[FORCE];W[ng];B[oj]TR[lg]C[FORCE];W[lg];B[kg]TR[ji]C[FORCE];W[ji];B[ki]TR[kj]C[FORCE];W[kj];B[kf]TR[mk]C[FORCE];W[mk];B[ml]TR[ll]C[FORCE];W[ll];B[kk]TR[li]C[FORCE];W[li];B[lk]TR[jk]C[FORCE];W[jk];B[kl]TR[ik]C[FORCE];W[ik];B[hj]TR[hk]C[FORCE];W[hk]C[CHOICE];B[gj]C[FORCE]))
+(;W[lg];B[kg];W[kf];B[mf]TR[mh]TR[nj]C[FORCE]
+(;W[mh];B[lj];W[nj]C[RIGHT])
+(;W[nj];B[mh]TR[ng]TR[ji]C[FORCE]
+(;W[ji];B[ki]TR[kj]C[FORCE];W[kj]C[CHOICE];B[ng])
+(;W[ng]C[CHOICE];B[lj]))))
+(;W[lg];B[kg];W[kf];B[mf];W[mi];B[lh]))
+(;W[od];B[nd];W[oc];B[pe];W[of];B[ng])))
+(;W[og];B[pf]TR[of]C[FORCE];W[of]C[CHOICE];B[pe]))
+(;W[ri];B[rg]TR[rf]C[FORCE];W[rf];B[sh]TR[og]C[FORCE];W[og];B[pf]TR[of]C[FORCE];W[of];B[pe]TR[ne]TR[nh]TR[pj]C[FORCE]
+(;W[ne];B[nh]TR[nd]C[FORCE];W[nd];B[oh]TR[nf]TR[qh]C[FORCE]
+(;W[nf]C[CHOICE];B[qh])
+(;W[qh]C[CHOICE];B[nf]))
+(;W[nh];B[pj]TR[ne]C[FORCE];W[ne];B[nd]TR[pi]C[FORCE];W[pi];B[mg]TR[ng]C[FORCE];W[ng]C[CHOICE];B[ni])
+(;W[pj];B[qj]TR[nh]C[FORCE];W[nh];B[qh]TR[nj]C[FORCE];W[nj];B[mi]TR[mk]C[FORCE];W[mk];B[pm]TR[ne]C[FORCE];W[ne]C[CHOICE];B[nd]))
+(;W[qh]
+(;B[sh];W[qj];B[pj];W[qe]
+(;B[sg];W[rg]C[koRIGHT])
+(;B[rg]
+(;W[og];B[rf];W[nh];B[of];W[pf]
+(;B[ng]C[];W[nf];B[mg];W[od];B[nd];W[oc];B[ne];W[pe]C[RIGHT])
+(;B[ni];W[nf]
+(;B[nd];W[pi]C[RIGHT])
+(;B[pi];W[od];B[nd];W[oc];B[ne];W[pe]C[RIGHT])))
+(;W[rf]C[CHOICE];B[og]))
+(;B[og];W[rg];B[sg]C[RIGHT]))
+(;B[rg]C[];W[rf];B[qj];W[ri];B[sh]TR[pe]TR[pf]TR[og]C[FORCE]
+(;W[og];B[pf];W[of];B[pe];W[ne];B[nd];W[nh];B[mg]TR[nj]C[FORCE];W[nj];B[pj];W[mi];B[oj];W[mk];B[ml]C[FORCE];W[mh]C[RIGHT])
+(;W[pf];B[og];W[of];B[ng]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[nf]C[FORCE];W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh])
+(;W[pe];B[pf]TR[od]C[FORCE];W[od];B[qe]TR[sc]C[FORCE];W[sc];B[pe]TR[ne]C[FORCE];W[ne];B[nf]TR[ng]TR[og]C[FORCE]
+(;W[og];B[of]TR[ng]C[FORCE];W[ng];B[mf]TR[nh]C[FORCE];W[nh]C[CHOICE];B[pj])
+(;W[ng];B[mf]TR[oh]C[FORCE];W[oh];B[of]TR[pj]C[FORCE];W[pj];B[oj]TR[nj]C[FORCE];W[nj]C[CHOICE];B[ok])))))
+(;B[rg];W[sd]
+(;B[sc]
+(;W[og];B[pf];W[qe];B[pe];W[qh];B[qj];W[ri];B[sh];W[sg];B[se]C[koRIGHT])
+(;W[pf];B[se];W[og];B[rf];W[nh]C[RIGHT]))
+(;B[rf]
+(;W[qe];B[sc];W[se];B[og];W[qh];B[qj];W[ri];B[sh];W[sg]C[RIGHT])
+(;W[sc];B[qe]))))
+(;W[sd];B[sc]TR[sf]C[FORCE];W[sf];B[qe]TR[og]C[FORCE];W[og];B[rf]TR[pf]C[FORCE];W[pf];B[nh]TR[pj]C[FORCE];W[pj];B[oh]TR[rg]C[FORCE];W[rg];B[sg]TR[sh]C[FORCE];W[sh];B[si]TR[ri]C[FORCE];W[ri];B[sh]TR[qh]C[FORCE];W[qh];B[sf]LB[of:A]LB[oj:C]LB[qj:B]C[b move at A, B or C kills so w is dead]))
+(;B[rg]TR[qe]TR[se]TR[rf]C[FORCE]
+(;W[rf]
+(;B[se]TR[sf]TR[og]TR[sh]C[FORCE]
+(;W[sh];B[ri]TR[qj]C[FORCE];W[qj];B[og])
+(;W[sf]
+(;B[og];W[sh];B[ri];W[qj];B[qh];W[pj];B[oh];W[oj]C[koRIGHT])
+(;B[qj]C[];W[ri];B[sh]C[]
+(;W[og];B[pf]C[];W[of];B[pe]C[];W[ne];B[nd]C[];W[nh];B[pj]TR[mg]TR[mi]C[FORCE]
+(;W[mg];B[pi];W[qh];B[mf]
+(;W[mi];B[lh]
+(;W[mh];B[nj];W[nf]C[RIGHT])
+(;W[nj];B[mh]TR[oj]C[w is deadFORCE];W[oj];B[mj]TR[mk]C[FORCE];W[mk];B[lj]TR[ok]C[FORCE];W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm]C[CHOICE];B[no])
+(;W[nf];B[mh]C[w is dead]))
+(;W[nf];B[mh]TR[mi]C[w is deadFORCE];W[mi];B[lh]TR[nj]C[FORCE];W[nj];B[mj]TR[mk]C[FORCE];W[mk];B[lj]TR[ok]TR[pm]C[FORCE]
+(;W[pm];B[ok]TR[sm]C[FORCE];W[sm];B[rl]TR[mm]C[FORCE];W[mm]C[CHOICE];B[ml])
+(;W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm]C[CHOICE];B[no])))
+(;W[mi];B[mg]TR[pi]C[FORCE];W[pi];B[ng]TR[nj]C[FORCE];W[nj];B[mj]TR[oj]C[FORCE];W[oj];B[mh]TR[mk]C[FORCE];W[mk];B[lj]TR[ok]TR[pm]C[FORCE]
+(;W[pm];B[ok]TR[sm]C[FORCE];W[sm];B[rl]TR[mm]C[FORCE];W[mm];B[ml]TR[nl]C[FORCE];W[nl]C[CHOICE];B[lk])
+(;W[ok];B[pm]TR[nl]C[FORCE];W[nl];B[on]TR[mm]C[FORCE];W[mm]C[CHOICE];B[no])))
+(;W[pf];B[og]TR[od]TR[sd]TR[of]C[FORCE]
+(;W[of];B[ng]TR[od]C[FORCE];W[od];B[nd];W[oc];B[pe];W[sd];B[ne];W[sc]C[RIGHT])
+(;W[od];B[nd];W[oc];B[pe]
+(;W[of];B[ng])
+(;W[sd];B[of];W[sc]C[RIGHT]))
+(;W[sd];B[of];W[sc]C[RIGHT])))
+(;B[sd]C[];W[og];B[pf];W[of];B[pe]TR[ne]TR[qh]C[FORCE]
+(;W[qh];B[qj];W[ri];B[sh])
+(;W[ne]C[R12 was sente for w now w is in troubleCHOICE];B[qh])))
+(;W[og];B[pf]TR[of]C[FORCE];W[of];B[pe]TR[qh]C[FORCE];W[qh];B[ri]TR[qj]C[FORCE];W[qj];B[pj]TR[nh]C[FORCE];W[nh];B[mg]TR[ng]C[FORCE];W[ng]C[CHOICE]))
+(;B[og];W[sh];B[ri];W[qj];B[se];W[sf]))
+(;W[qe];B[og]TR[qh]TR[sh]
+(;W[sh];B[sg];W[ri];B[si]C[its a ko but w need 3 approach moves...RIGHT])
+(;W[qh];B[qj];W[ri]C[CHOICE];B[sh]))
+(;W[se]
+(;B[qj]C[];W[ri];B[sh]TR[pf]TR[og]C[FORCE]
+(;W[pf];B[og];W[of];B[ng]TR[od]C[FORCE];W[od];B[nd];W[oc];B[pe]
+(;W[ne];B[nf];W[sd];B[me]
+(;W[sc]C[RIGHT])
+(;W[qe]C[RIGHT]))
+(;W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh]TR[oh]TR[mi]C[FORCE]
+(;W[mi];B[mh]TR[lh]C[FORCE];W[lh];B[lg]TR[oh]C[FORCE];W[oh]C[CHOICE];B[pj])
+(;W[oh];B[ni]TR[oj]C[FORCE];W[oj]C[CHOICE];B[pj]LB[nj:A]TR[ng]TR[og]TR[pg]TR[nh]TR[ni]C[w cant capture the marked stones, make a second eye and pushing a A wont do anything, so dead])))
+(;W[og];B[pf]TR[qe]TR[of]C[FORCE]
+(;W[of];B[pe]TR[ne]C[FORCE];W[ne];B[nh]TR[nd]TR[oh]C[FORCE]
+(;W[nd];B[oh]TR[nf]C[FORCE];W[nf];B[qh]TR[pi]C[FORCE];W[pi];B[rf]TR[sd]C[FORCE];W[sd]C[CHOICE];B[sc])
+(;W[oh]C[CHOICE];B[nd]))
+(;W[qe];B[pe]TR[nh]C[FORCE];W[nh];B[ni]TR[mi]TR[nj]C[FORCE]
+(;W[nj];B[mi]TR[pj]C[FORCE];W[pj]C[CHOICE];B[qh])
+(;W[mi];B[nj]TR[mg]C[FORCE];W[mg];B[nf]TR[lh]C[FORCE];W[lh];B[kg]TR[ki]C[FORCE];W[ki];B[ji]TR[lg]C[FORCE];W[lg]C[CHOICE];B[lj]))))
+(;B[og]TR[rf]TR[sh]TR[qj]C[FORCE]
+(;W[sh];B[sg]
+(;W[ri];B[si]C[ko is bestRIGHT])
+(;W[si];B[qj];W[ri]C[CHOICE];B[pm]C[w dies]))
+(;W[qj];B[qe]TR[rf]C[FORCE];W[rf];B[sg]TR[qh]TR[pj]C[FORCE]
+(;W[pj];B[oh]TR[oj]C[FORCE];W[oj];B[qh]TR[ri]C[FORCE];W[ri];B[pf]TR[sh]C[FORCE];W[sh]C[CHOICE];B[pi]C[double ko white cant win])
+(;W[qh]C[CHOICE];B[pj]C[dead]))
+(;W[rf];B[sg]TR[qj]C[FORCE];W[qj]C[CHOICE];B[pj]C[dead])))))
+(;W[ri]C[];B[sh]TR[re]TR[rg]C[wS11 is a tricky move, black best response is to simply T12FORCE]
+(;W[re]
+(;B[se]C[];W[sf]C[]
+(;B[rg];W[sd];B[sc]
+(;W[og];B[pf]TR[qe]TR[of]
+(;W[of];B[pe];W[ne];B[nd]TR[qe]TR[pj]C[FORCE]
+(;W[pj];B[qh];W[rf];B[nh]TR[sg]TR[oh]C[FORCE]
+(;W[oh];B[oj]C[FORCE]
+(;W[qj];B[se]C[];W[sm];B[rl];W[sd]LB[sg:A]C[if w win ko fight he then can approach at A and captureRIGHT])
+(;W[sg]C[];B[qj]TR[si]C[w is deadFORCE];W[si];B[rh]TR[nj]C[FORCE];W[nj];B[ok]C[FORCE];W[mh];B[mg]TR[ng]TR[mi]C[FORCE]
+(;W[ng];B[mi]TR[ni]C[FORCE];W[ni];B[lh]TR[mj]C[FORCE];W[mj]C[CHOICE];B[li])
+(;W[mi];B[ng]TR[mk]C[FORCE];W[mk];B[ni]TR[mj]C[FORCE];W[mj]C[CHOICE])))
+(;W[sg];B[oh]TR[si]C[FORCE];W[si];B[rh];W[oj]C[CHOICE];B[qj]LB[pi:A]C[A is a false eye so w is dead]))
+(;W[qe];B[od];W[qh];B[pj];W[sg];B[se]C[and another koRIGHT]))
+(;W[qe];B[pe];W[qh];B[pj];W[sg];B[se]C[and another koRIGHT]))
+(;W[qe];B[og]TR[sg]TR[qh]C[FORCE]
+(;W[sg]C[CHOICE];B[qh])
+(;W[qh]C[CHOICE];B[sg]))
+(;W[pf];B[of];W[og];B[nh];W[oh];B[rf];W[qe];B[se];W[qh]C[RIGHT]))
+(;B[sd]TR[pf]TR[og]C[FORCE]
+(;W[og]
+(;B[sg]TR[rf]TR[rg]C[FORCE]
+(;W[rf];B[pf]TR[of]C[FORCE];W[of];B[pe]TR[ne]C[FORCE];W[ne];B[nd]TR[nh]TR[pj]C[FORCE]
+(;W[pj];B[oj]TR[qh]TR[qj]C[FORCE]
+(;W[qh];B[qj]TR[nh]C[FORCE];W[nh];B[mg];W[nj];B[ok];W[ng];B[pi]C[ko b takes firstRIGHT])
+(;W[qj]C[CHOICE];B[qh]))
+(;W[nh];B[mg];W[ng]C[CHOICE]))
+(;W[rg];B[qe]TR[pf]TR[rf]C[FORCE]
+(;W[rf];B[pf]TR[qh]C[FORCE];W[qh];B[pj]TR[of]C[FORCE];W[of];B[pe]TR[ne]C[FORCE];W[ne];B[nd]TR[nh]C[FORCE];W[nh]C[CHOICE];B[mg])
+(;W[pf];B[rf];W[nh]C[RIGHT])))
+(;B[pf];W[qe];B[pe];W[rg];B[sg]C[ko black take firstRIGHT])
+(;B[rg]TR[pf]TR[rf]C[FORCE]
+(;W[pf];B[rf]TR[nh]TR[pj]C[FORCE]
+(;W[pj]C[CHOICE];B[nh]LB[oh:A]LB[qh:B]C[niether A or B work, w is deadFORCE]
+(;W[oh];B[qh]TR[of]C[FORCE];W[of];B[qj]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[qe]C[FORCE];W[qe];B[ne])
+(;W[qh];B[oh]TR[qe]C[FORCE];W[qe];B[sg]TR[si]C[FORCE];W[si];B[sf]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[of]TR[mh]C[FORCE]
+(;W[mh]C[CHOICE];B[ne])
+(;W[of];B[ne]TR[mh]C[FORCE];W[mh];B[ng]TR[nj]C[FORCE];W[nj];B[qj]TR[nf]C[FORCE];W[nf];B[mg]TR[mf]C[FORCE];W[mf]C[CHOICE];B[lg])))
+(;W[nh]C[RIGHT]))
+(;W[rf]C[CHOICE])))
+(;W[pf];B[og]TR[of]C[FORCE];W[of];B[ng]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[nf]C[FORCE];W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh]TR[mi]C[FORCE];W[mi];B[mh]TR[pj]C[FORCE];W[pj];B[oj]TR[oh]C[FORCE];W[oh];B[ni]TR[qh]TR[qj]C[FORCE]
+(;W[qj]C[CHOICE];B[qh])
+(;W[qh];B[qj]TR[qe]C[FORCE];W[qe]C[CHOICE];B[rg]))))
+(;B[og]
+(;W[rg]C[];B[sg]C[S13 only move];W[sf];B[sd]
+(;W[qh];B[se];W[si];B[qe];W[sh]C[CHOICE];B[rf]LB[pj:A]C[ko, note that A is now an extra local ko threatRIGHT])
+(;W[si]C[CHOICE];B[se];W[qh])
+(;W[qe]C[CHOICE];B[se]C[inferior variation, still ko but now w has no secure eye and thus is Q10 no longer a ko threat to make a second eye]))
+(;W[se];B[rg]TR[qe]C[FORCE];W[qe]C[CHOICE];B[sf]LB[rf:C]LB[qh:B]LB[pi:A]TR[pj]C[white is dead! Since w cannot make a second eye at A, has to fill the cutting point B. When all outside liberties are filled then black can make an eye by playing C and white dies. Follow the variation to seeFORCE];W[pj];B[oh]TR[qj]C[FORCE];W[qj];B[oj]TR[pi]C[FORCE];W[pi];B[ni]TR[qh]C[If white still thinks he is alive he will now fill the cutting pointFORCE];W[qh];B[pf]TR[rf]TR[pm]C[tenukiFORCE]
+(;W[rf]C[only play this move as a ko threat];B[sg]TR[si]C[only play T11 as a ko threat, since the move has a value of zero. You capture 5 stones but w gets 4 teritory + 1 w stone...FORCE];W[si]C[CHOICE];B[sg]C[dead])
+(;W[pm]C[w tenuki];B[rf];W[on]C[CHOICE];B[si]C[of course black wont actually capture because he losses 2 points]))
+(;W[qe];B[sf]TR[se]C[FORCE];W[se]C[CHOICE];B[rg])))
+(;W[rg]C[CHOICE];B[sf]C[cant see this live]))
+(;W[rg]C[FORCE];B[sf]TR[sh]C[w is dead...FORCE];W[sh]C[FORCE];B[ri]TR[pj]TR[qj]C[FORCE]
+(;W[qj]C[FORCE];B[pj]TR[pf]TR[og]C[FORCE]
+(;W[og]C[FORCE];B[pf]TR[of]C[FORCE];W[of]C[FORCE];B[pe]TR[ne]C[FORCE];W[ne]C[FORCE];B[nd]TR[nh]C[FORCE];W[nh]C[FORCE];B[mg]TR[mi]C[FORCE];W[mi]C[CHOICEFORCE];B[nj]C[w dies])
+(;W[pf]C[FORCE];B[og]TR[of]C[FORCE];W[of]C[FORCE];B[ng]TR[od]C[FORCE];W[od]C[FORCE];B[nd]TR[oc]C[FORCE];W[oc]C[FORCE];B[pe]TR[nf]C[FORCE];W[nf]C[FORCE];B[ne]TR[mg]C[FORCE];W[mg]C[FORCE];B[nh]TR[mf]C[FORCE];W[mf]C[CHOICEFORCE];B[li]C[w dies]))
+(;W[pj]C[FORCE];B[qj]TR[og]C[FORCE];W[og]C[FORCE];B[pf]TR[of]C[FORCE];W[of]C[FORCE];B[pe]TR[nh]C[FORCE];W[nh]C[FORCE];B[ng]TR[nj]C[FORCE];W[nj]C[FORCE];B[mi]TR[nf]TR[ok]C[FORCE]
+(;W[ok]C[FORCE];B[oj]TR[qh]C[FORCE];W[qh]C[FORCE];B[ok]TR[si]C[FORCE];W[si]C[CHOICEFORCE];B[pm]C[w dies])
+(;W[nf]C[FORCE];B[mg]TR[ok]C[FORCE];W[ok]C[FORCE];B[oj]TR[ne]C[FORCE];W[ne]C[FORCE];B[nd]TR[ok]C[FORCE];W[ok]C[FORCE];B[pm]C[FORCE];W[mk]C[FORCE];B[oj]TR[sm]C[FORCE];W[sm]C[FORCE];B[pi]TR[rl]C[FORCE];W[rl]C[FORCE];B[qh]C[FORCE];W[si]C[CHOICEFORCE];B[qi]C[not best])))
+(;W[sh]C[FORCE];B[rg]TR[rf]C[w is dead...FORCE];W[rf]TR[sf]TR[ri]C[FORCE]
+(;B[sf]TR[se]TR[ri]C[FORCE]
+(;W[ri]C[FORCE];B[se]TR[re]C[FORCE];W[re]C[FORCE];B[sd]TR[qh]C[FORCE];W[qh]C[FORCE];B[sg]TR[og]C[FORCE];W[og]C[FORCE];B[pf]TR[of]C[FORCE];W[of]C[FORCE];B[pe]TR[ne]C[FORCE];W[ne]C[CHOICEFORCE];B[nd]C[w doesnt look too healthy])
+(;W[se]C[FORCE];B[ri]TR[qj]C[FORCE];W[qj]C[FORCE];B[re]TR[og]TR[sg]C[FORCE]
+(;W[og]C[FORCE];B[sg]TR[si]C[FORCE];W[si]C[FORCE];B[sd]TR[qh]C[FORCE];W[qh]C[FORCE];B[se]TR[pj]C[FORCE];W[pj]C[FORCE];B[nh]TR[pf]C[FORCE];W[pf]C[CHOICEFORCE];B[oh])
+(;W[sg]C[FORCE];B[pj]TR[og]C[FORCE];W[og]C[FORCE];B[pf]TR[of]C[FORCE];W[of]C[FORCE];B[pe]TR[ne]C[FORCE];W[ne]C[FORCE];B[nd]TR[nh]C[FORCE];W[nh]C[CHOICEFORCE];B[mg])))
+(;B[ri]TR[qj]C[FORCE];W[qj]C[FORCE];B[sf]TR[se]C[FORCE];W[se]C[FORCE];B[re]))
+(;W[pm];B[sg]TR[og]C[now w is in big(ger) troubleFORCE];W[og];B[nh]))
+(;W[si]C[T10 probably better]))
+(;W[oj]C[FORCE];B[ql]TR[pm]C[this peep may seem innocent but, black cannot close off the side at T9 in sente anymore, to my knowledge this minor mistake means white is dead as it standsFORCE];W[pm]C[FORCE];B[ok]TR[pf]TR[rg]C[w is dead in all variations]
+(;W[rg]C[probably the best move];B[sf]TR[pf]TR[og]TR[sh]C[the key pointFORCE]
+(;W[sh];B[sg]TR[si]C[];W[si];B[pj]TR[og]C[FORCE];W[og];B[pf]TR[of]C[FORCE];W[of];B[pe]TR[ne]C[FORCE];W[ne];B[nd]TR[nh]C[FORCE];W[nh];B[pi]TR[mg]TR[nj]C[FORCE]
+(;W[mg];B[mi]TR[kg]C[FORCE];W[kg];B[lg]TR[mh]C[FORCE];W[mh];B[lh]TR[qh]C[FORCE];W[qh]C[CHOICE];B[nf])
+(;W[nj];B[mi]TR[mk]C[FORCE];W[mk];B[ml]TR[mh]C[FORCE];W[mh];B[li]TR[kg]C[FORCE];W[kg];B[lg]TR[lh]C[FORCE];W[lh];B[lk]TR[le]C[FORCE];W[le];B[me]TR[mf]C[FORCE];W[mf];B[mg]TR[nf]C[deadFORCE];W[nf]C[CHOICE];B[ke]))
+(;W[pf]TR[og]TR[sg]C[FORCE]
+(;B[sg]TR[of]TR[og]C[FORCE]
+(;W[og];B[nh]TR[pj]C[FORCE];W[pj];B[oh]TR[of]C[FORCE];W[of]C[CHOICE];B[ne])
+(;W[of];B[nh]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[ng]C[FORCE];W[ng];B[ne]TR[lg]C[FORCE];W[lg];B[kg]TR[oh]C[FORCE];W[oh];B[pj]TR[mh]C[FORCE];W[mh];B[ni]TR[mf]C[]
+(;W[mf];B[li]TR[mi]C[FORCE];W[mi];B[nj]TR[kf]C[FORCE];W[kf];B[le]TR[ji]C[FORCE];W[ji];B[ki]TR[mj]C[FORCE];W[mj]C[CHOICE];B[lk])
+(;W[nj]C[this doenst work, believe me])))
+(;B[og]TR[of]C[FORCE];W[of];B[ng]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[nf]C[FORCE];W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh]TR[mf]TR[lg]C[FORCE]
+(;W[mf];B[li]TR[kg]TR[lg]TR[mi]C[FORCE]
+(;W[mi];B[ni]TR[nj]C[FORCE];W[nj];B[mh]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf];B[le]TR[lh]C[FORCE];W[lh]C[CHOICE];B[mj])
+(;W[kg];B[lg]TR[mh]C[FORCE];W[mh];B[ni]TR[lh]C[FORCE];W[lh]C[];B[kf]TR[mi]C[FORCE];W[mi]C[CHOICE];B[nj])
+(;W[lg];B[kg]TR[kf]C[FORCE];W[kf];B[le]TR[mi]C[FORCE];W[mi];B[ni]TR[nj]C[FORCE];W[nj];B[mh]))
+(;W[lg];B[li]TR[mf]C[FORCE];W[mf])))
+(;W[og];B[pf]TR[of]C[FORCE];W[of];B[pe]TR[ne]C[FORCE];W[ne];B[nd]TR[nh]C[FORCE];W[nh]TR[mg]TR[pj]C[FORCE]
+(;B[pj]TR[mg]C[FORCE];W[mg];B[mi]TR[mf]C[FORCE];W[mf];B[pi]TR[sh]C[FORCE];W[sh];B[sg]TR[si]C[];W[si];B[qh]TR[sk]C[FORCE];W[sk];B[sl]C[FORCE];W[sm];B[rl]TR[mj]C[FORCE];W[mj];B[nj]TR[kg]C[FORCE];W[kg];B[lg]TR[lh]C[FORCE];W[lh];B[li]TR[mh]C[FORCE];W[mh]C[CHOICE];B[kf])
+(;B[mg]TR[pj]C[FORCE];W[pj];B[sg]TR[nj]C[FORCE];W[nj];B[mi]TR[mk]C[FORCE];W[mk];B[ml]TR[mh]C[FORCE];W[mh];B[li]TR[lg]C[FORCE];W[lg];B[mf]TR[lh]C[FORCE];W[lh];B[kg]TR[ki]C[FORCE];W[ki];B[lj]TR[si]C[FORCE];W[si];B[sh]TR[sk]C[FORCE];W[sk];B[sl]TR[sm]C[FORCE];W[sm];B[rl]TR[ji]C[FORCE];W[ji];B[kf]TR[ll]C[FORCE];W[ll];B[lk]TR[ni]C[FORCE];W[ni]C[CHOICE];B[ng]C[FORCE])))
+(;W[pf]TR[og]TR[nh]C[FORCE]
+(;B[og]TR[of]C[FORCE];W[of];B[ng]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[nf]C[FORCE];W[nf];B[ne]TR[mg]C[FORCE];W[mg];B[nh]TR[mf]C[FORCE];W[mf];B[li]TR[lg]C[FORCE];W[lg];B[kg]TR[kf]C[FORCE];W[kf];B[le]TR[mi]C[FORCE];W[mi];B[ni]TR[oh]C[FORCE];W[oh];B[nj]TR[rg]C[FORCE];W[rg];B[sf]TR[sh]C[FORCE];W[sh];B[pj]TR[ri]C[FORCE];W[ri]C[CHOICE];B[sj])
+(;B[nh]TR[of]TR[rg]C[FORCE]
+(;W[rg];B[qj]TR[re]TR[og]C[FORCE]
+(;W[og];B[sf]TR[sh]C[FORCE];W[sh];B[ri]TR[sj]C[];W[sj]C[CHOICE];B[sk])
+(;W[re];B[ri]C[FORCE];W[og];B[sf]C[FORCE];W[sg]C[CHOICE];B[se]))
+(;W[of];B[sg]TR[od]C[FORCE];W[od];B[nd]TR[oc]C[FORCE];W[oc];B[pe]TR[ne]TR[ng]C[FORCE]
+(;W[ng];B[ne]TR[pj]C[FORCE];W[pj];B[oh]TR[og]C[FORCE];W[og];B[mh]TR[qh]C[FORCE];W[qh]C[CHOICE];B[qj])
+(;W[ne];B[nf]TR[ng]C[FORCE];W[ng];B[mf]TR[oh]C[FORCE];W[oh];B[pj]TR[mh]C[FORCE];W[mh];B[ni]TR[nj]C[FORCE];W[nj];B[mi]TR[mj]C[FORCE];W[mj];B[li]TR[mk]C[FORCE];W[mk];B[ml]TR[kk]C[FORCE];W[kk]C[CHOICE];B[ji])))))))

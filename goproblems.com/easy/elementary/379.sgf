@@ -1,0 +1,5 @@
+(;GE[elementary]DI[20k]DP[74]SO[morten]CO[7]AB[bb][ba][bd][cc][cd][be]AW[ca][cb][bc][dc][dd][ce][ee][cf][bf][bh][db]C[White to kill]
+(;W[ae];B[ac]C[Black has 2 eyes])
+(;W[ab];B[ac];W[ae];B[aa]LB[ad:a]C[NOT 'a' !];W[af];B[ad]C[Black has 2 eyes])
+(;W[ac]LB[ab:a][ad:b]C[RIGHT
+Black cannot approach on either a' or 'b', since he would put himself in atari.]))

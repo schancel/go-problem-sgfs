@@ -1,0 +1,21 @@
+(;GE[elementary]DI[10k]DP[50]SO[santa c]CO[0]AB[ar]AB[bs]AB[cs]AB[dr]AW[ao]AW[bo]AW[do]AW[co]AW[ep]AW[eq]AW[er]AW[es]C[B to live]AP[goproblems]
+(;B[bq];W[cq]
+(;B[cr]C[nice and easy :)RIGHT])
+(;B[dq];W[cp];B[cr]C[RIGHT])
+(;B[cp]
+(;W[dq];B[cr];W[bp];B[aq]C[RIGHT])))
+(;B[cq];W[bq]
+(;B[br];W[bp]MA[dq]MA[ds])
+(;B[bp];W[aq]
+(;B[br];W[ap]MA[dq]MA[ds])
+(;B[cp];W[ap])
+(;B[dq];W[br])
+(;B[ds];W[br])
+(;B[ap];W[cp])))
+(;B[cp];W[bq]
+(;B[bp];W[cq]MA[dq]MA[dp])
+(;B[cq];W[bp]))
+(;B[bp];W[bq]
+(;B[cq])
+(;B[cp])
+(;B[br];W[cq])))

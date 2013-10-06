@@ -1,0 +1,66 @@
+(;GE[joseki]DI[5d]DP[5]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+LB[cd:1][ed:2][ee:3][cc:4][dd:5][dc:6][ec:7][fd:8]
+AW[cc][dc][ed][fd][pd][dp]AB[ec][cd][dd][ee][qp]
+C[white chose joseki poorly. how to continue for black?
+]
+(;B[eb];W[bd]
+(;B[be];W[bc]
+(;B[ce];W[fc]
+(;B[fb];W[gb]
+(;B[gc]C[RIGHT
+since the ladder is good for black, white is toast.
+])
+
+(;B[hb];W[hc])
+
+(;B[ga];W[hc])
+)
+
+(;B[db];W[fb])
+
+(;B[gb];W[fb];B[fa];W[db])
+)
+
+(;B[cf];W[fc];B[fb];W[gb];B[gc];W[de];B[ce];W[hb])
+
+(;B[de];W[fc]LB[de:A]
+C[connecting at A is not standard, but i can't find a refutation. could this make B sente?
+]
+LB[fe:B];B[fb];W[gb];B[gc]C[RIGHT
+])
+)
+
+(;B[bc];W[bb]C[this is joseki for when the ladder is good for white
+])
+
+(;B[cb];W[bb])
+
+(;B[db];W[cb]C[this helps white
+])
+)
+
+(;B[bc];W[bb]
+(;B[bd];W[fc];B[eb];W[db])
+
+(;B[eb];W[bd]C[non-optimal
+])
+)
+
+(;B[fc];W[gd]C[this helps white in the fighting
+])
+
+(;B[fe];W[fc];B[eb];W[bd];B[be];W[bc])
+
+(;B[df];W[bd];B[be];W[bc]C[easy for white
+])
+
+(;B[bd];W[eb]C[white is off the hook
+])
+
+)

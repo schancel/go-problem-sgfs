@@ -1,0 +1,35 @@
+(;GE[endgame]DI[6k]DP[36]SO[santa c]CO[8]AB[em]AB[el]AB[fl]AB[gm]AB[gn]AB[ho]AB[ip]AB[ir]AB[iq]AB[fp]AB[do]AB[dp]AB[cq]AB[bq]AB[aq]AB[ap]AW[ao]AW[bo]AW[bp]AW[cn]AW[dm]AW[dl]AW[en]AW[fo]AW[ek]AW[fk]AW[gk]AW[hl]AW[hm]AW[in]AW[io]C[What can black do here? (Pssst - Look at the marked stones..;)]MA[em]MA[el]MA[fl]AW[ck]AP[goproblems]
+(;B[eo];W[dn]C[Well done! (Black still HAS to add a move at F6/G5.)RIGHT])
+(;B[dn];W[gl]
+(;B[fm];W[go]
+(;B[eo];W[hn]C[;(])
+(;B[hn];W[hp]C[;(])
+(;B[hp];W[hn]C[;(]))
+(;B[eo];W[fm]C[;(])
+(;B[go];W[fm]C[;(]))
+(;B[go];W[dn]C[Well done! And in sente!RIGHT])
+(;B[fn];W[gl]
+(;B[fm];W[go]C[;(])
+(;B[eo];W[fm]C[;(])
+(;B[dn];W[eo]
+(;B[go];W[fm]C[;(])
+(;B[ep];W[fm]C[;(])
+(;B[fm];W[go]C[;(]))
+(;B[go];W[fm]C[;(]))
+(;B[fm];W[go]
+(;B[hn];W[gp]
+(;B[hp];W[dn]C[;(])
+(;B[dn];W[hp]C[;(]))
+(;B[gp];W[hn]C[;(])
+(;B[hp];W[hn]C[;(])
+(;B[eo];W[hp]C[;(]))
+(;B[gl];W[go]
+(;B[hp];W[hn]C[;(])
+(;B[gp];W[hn]C[;(])
+(;B[hn];W[gp]C[;(]TR[hp]TR[dn]))
+(;B[gp];W[dn]C[Well done! And in sente!RIGHT])
+(;B[ep];W[go]
+(;B[hp];W[hn]C[;(])
+(;B[hn];W[gp]C[;(]TR[hp]TR[dn])
+(;B[gp];W[hn]C[;(]))
+(;B[hp];W[dn]C[Well done! And in sente!RIGHT]))

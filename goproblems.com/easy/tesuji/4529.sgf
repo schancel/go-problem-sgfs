@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[5k]DP[34]SO[huhss]CO[5]SZ[19]AW[pq]AW[oq]AW[nq]AW[qp]AW[po]AW[pn]AW[om]AW[nm]AW[mn]AW[mo]AB[mm]AB[nn]AB[on]AB[pm]AB[oo]AB[op]AB[pp]C[Black to play]TR[nn]TR[on]TR[oo]TR[op]TR[pp]AP[MultiGo:3.5.0]
+(;B[qo];W[qn];B[qm];W[rn];B[nl];W[ol];B[ok];W[pl];B[ql];W[pk];B[pj];W[qk];B[rk];W[qj];B[qi];W[rj]
+(;B[ri]C[RIGHT])
+(;B[sj];W[ri];B[rh]C[RIGHT]))
+(;B[qm];W[np]C[wrong])
+(;B[nl];W[ol]
+(;B[ok];W[pl]C[wrong])
+(;B[qo]
+(;W[qn];B[qm];W[rn];B[ok];W[pl];B[ql];W[pk];B[pj];W[qk];B[rk];W[qj];B[qi];W[rj]
+(;B[ri]C[RIGHT])
+(;B[sj];W[ri];B[rh]C[RIGHT]))))
+(;B[ol];W[nl];B[nk];W[ml]C[wrong]))

@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3k]DP[26]SO[Florian]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+SZ[9]
+PC[The Kiseido Go Server (KGS) at 
+http://kgs.kiseido.com/]AW[bc][cd][dd][ed][fd][ae][be][ge][af][gf][ag][gg][bh][ch][eh][gh][di]
+AB[ce][de][ee][fe][bf][ff][bg][cg][dg][eg][fg][dh]C[
+]RE[B+5.50]PL[W]
+;W[df]CR[df]
+;B[fh]CR[fh]
+;
+W[ei]CR[ei]
+;B[ci]CR[ci]
+(;W[bi]CR[bi]
+;B[fi]CR[fi]
+;W[ci]CR[ci]
+;B[ah]CR[ah])
+(;W[fi]CR[fi]
+;B[gi]
+CR[gi]
+;W[ei]CR[ei]C[RIGHT
+]))

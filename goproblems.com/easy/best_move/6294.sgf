@@ -1,0 +1,50 @@
+(;GE[best move]DI[4k]DP[29]SO[BartTM]CO[7]AB[aq]AB[bq]AB[cq]AB[dq]AB[cr]AB[er]AB[es]AW[ap]AW[bp]AW[cp]AW[dp]AW[eq]AW[fp]AW[fr]AW[fs]C[Get the best result for White (Japanese rules assumed).]AP[goproblems]
+(;W[bs]
+(;B[cs]
+(;W[ar]C[Seki; Black has no points at all. If Black plays B2 then White replies at D1, Black takes at A1 and White takes at D2. Both get 4 points so that is still the same result. If Black plays D1 (or D2) to prevent that, B2 becomes self-atari and it is seki again. D1 costs Black a liberty.RIGHT]MA[br]MA[ds])
+(;W[ds];B[dr]
+(;W[ar]C[Seki; Black has one point (the captured stone). White can do one point better!])
+(;W[br]C[Black is alive...])
+(;W[as]C[Black is alive...]))
+(;W[dr];B[ds]
+(;W[ar]C[Seki; Black has one point (the captured stone). White can do one point better!])
+(;W[br]C[Black is alive...])
+(;W[as]C[Black is alive...]))
+(;W[br]C[Black is alive...])
+(;W[as]C[Black is alive...]))
+(;B[br]C[This is what Black would do if Black has more big ko threats than White has small ones.]
+(;W[cs];B[as]C[]
+(;W[ar]C[Ko, White takes first. If Black wins this ko Black has 6 points in the corner.RIGHT])
+(;W[dr];B[ds])
+(;W[ds];B[dr]))
+(;W[ar];B[ds])
+(;W[as];B[ds])
+(;W[dr];B[ds])
+(;W[ds];B[dr]
+(;W[ar]C[];B[as]C[Ko, Black takes first. If Black wins this ko Black has 6 points in the corner. It is possible to prevent Black from having a ko where Black takes first (Black can then still get a ko, but White takes first); so this is not optimal.])
+(;W[cs];B[as])
+(;W[as];B[cs]))))
+(;W[cs];B[bs])
+(;W[dr];B[ds]
+(;W[cs];B[bs])
+(;W[bs];B[br])
+(;W[ar];B[bs])
+(;W[br]C[Black is alive...])
+(;W[as]C[Black is alive...]))
+(;W[ds];B[dr]
+(;W[bs]
+(;B[cs]C[CHOICE]
+(;W[ar]C[Seki; Black has one point (the captured stone). White can do one point better!])
+(;W[br]C[Black is alive...])
+(;W[as]C[Black is alive...]))
+(;B[br]C[This is what Black would do if Black can win any ko.]
+(;W[ar]C[];B[as]C[Ko, Black takes first. If Black wins this ko Black has 6 points in the corner. It is possible to prevent Black from having a ko where Black takes first (Black can then still get a ko, but White takes first); so this is not optimal.])
+(;W[as];B[cs])
+(;W[cs];B[as])))
+(;W[cs];B[bs])
+(;W[br];B[cs])
+(;W[ar];B[bs])
+(;W[as]C[Black is alive...]))
+(;W[br];B[cs])
+(;W[ar];B[bs])
+(;W[as];B[cs]))

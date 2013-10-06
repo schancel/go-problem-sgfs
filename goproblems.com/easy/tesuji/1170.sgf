@@ -1,0 +1,51 @@
+(
+;GE[tesuji]DI[6k]DP[36]SO[nuke-marine]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.15]
+AW[rc][qd][pc][pb][rf][od][kc][ke]
+AB[ob][oc][pd][pe][mc]
+TR[od]
+C[Black to capture the marked stone in the best way.  There are three variations, one of which is the best according to Toshiro Kageyama.]
+(
+;
+B[oe]
+;
+W[nd]
+;
+B[me]
+C[RIGHT
+According to Kageyama, the moves at N-15 and P-15 are a strong and firm geta (net).]
+TR[oe]
+)
+(
+;
+B[nd]
+;
+W[oe]
+;
+B[of]
+C[Technically correct but this is a ladder and can be subject to a ladder breaker.  A more firm capture is available.]
+)
+(
+;
+B[ne]
+;
+W[nd]
+;
+B[md]
+;
+W[oe]
+;
+B[of]
+C[Kageyama calls this wrong as it is not firm.  When multiple choices of capture presents itself, take the move that offers firmness]
+)
+(
+;
+B[me]
+;
+W[oe]
+C[Congratulations, two weak black groups.]
+)
+)

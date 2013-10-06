@@ -1,0 +1,100 @@
+(;GE[life and death]DI[4d]DP[7]SO[MeleeNewb]CO[6]AB[cr]AB[dr]AB[dq]AB[dp]AB[ep]AB[fp]AB[gp]AB[gq]AB[gr]AW[hr]AW[hq]AW[hp]AW[go]AW[fo]AW[eo]AW[do]AW[co]AW[cp]AW[cq]AW[br]AW[cs]C[White plays C1. Is your door shape dead?]LB[cm:Tenuki]AW[hs]AP[goproblems]
+(;B[bq];W[as]C[A brilliant tesuji! But what happens when white is skilled in tesuji as well?]
+(;B[ds];W[gs]C[So, a ko fight is it? Do your best.]
+(;B[bs];W[js]LB[ks:R]C[R to respond to white's threat. All threats are worth 20 points.]
+(;B[ks];W[cs]LB[cm:T]C[Play T for an external threat.]
+(;B[fs];W[er];B[bs];W[jr]LB[kr:R]
+(;B[kr];W[cs]LB[cm:T]
+(;B[fr];W[eq];B[bs];W[jq]LB[kq:R]
+(;B[kq];W[cs]LB[cm:T]
+(;B[bp];W[bo];B[bs];W[jp]LB[kp:R]
+(;B[kp];W[cs]LB[cm:T]
+(;B[aq];W[ao];B[bs];W[jo]LB[ko:R]
+(;B[ar];W[ko]C[Congratulations! You played that perfectly!CHOICERIGHT])
+(;B[ko];W[cs]C[No threat is large enough to stop white from killing this big group.]))
+(;B[cm];W[ap]C[No threat is large enough to stop white from killing this big group.])
+(;B[ap];W[ao]C[Ouch, black is dead.])
+(;B[ao];W[aq]C[No threat is large enough to stop white from killing this big group.]))
+(;B[ar]C[];W[kp]C[Alive, but you didn't need to let white use that threat.]))
+(;B[cm];W[bp]C[There are still internal threats to play.])
+(;B[aq];W[bp]C[Black now has less internal threats than he would have had with correct play.]))
+(;B[ar];W[kq]C[Alive, but there was no need to let white use that threat.]))
+(;B[cm]C[There are still internal threats to play.])
+(;B[eq];W[fr]C[This move is inferior, giving white an atari and black less internal threats later.])
+(;B[bp];W[bo];B[bs];W[jq]LB[kq:R]
+(;B[kq];W[cs]LB[cm:T]
+(;B[fr];W[eq])
+(;B[eq];W[fr]C[This move is inferior, unnecisarily giving white an atari.])
+(;B[cm]C[There are still internal threats to play.]))
+(;B[ar];W[kq]C[Alive, but there was no need to let white use that threat.])))
+(;B[ar];W[kr]C[Alive, but there was no need to let white use that threat.]))
+(;B[cm]C[There are still internal threats to play.])
+(;B[fr];W[fs]C[This is inferior, even if black lives, he will have less points])
+(;B[bp];W[bo];B[bs];W[jr]LB[kr:R]
+(;B[ar]C[Alive, but there was no need to let white use that threat.])
+(;B[kr];W[cs]LB[cm:T]
+(;B[fs];W[er])
+(;B[fr];W[fs]C[This move is slightly inferior, as even if black lives, he will have less territory.])
+(;B[aq];W[ao];B[bs];W[jq]LB[kq:R]
+(;B[kq];W[cs]
+(;B[fs];W[er];B[bs];W[jp]LB[kp:R]
+(;B[kp];W[cs]LB[cm:T]
+(;B[fr];W[eq];B[bs])
+(;B[eq];W[fr]C[This move is inferior, as even if black lives, he has unnecisarily given white an atari.])
+(;B[cm]C[There are still internal threats to play.]))
+(;B[ar];W[kp]C[Alive, but there was no need to let white use that threat.]))
+(;B[fr];W[fs]C[This move is slightly inferior, as even if black lives, he gets less territory.]))
+(;B[ar]C[];W[kq]C[Alive, but there was no need to let white use that threat (and now white has f2)])
+(;B[fs]C[I am not inputting the variations for this right now...NOTTHIS]))
+(;B[cm]C[There are still internal threats to play.]))))
+(;B[ar]C[];W[ks]C[Alive, but there was no need to let white use that threat.])
+(;B[fs];W[ks]C[Alive, but there was no need to let white use that threat.]))
+(;B[fs]C[Maybe you'd like to take the ko before using your threats?])
+(;B[fr]C[Maybe you'd like to take the ko before using your threats?])
+(;B[bp]C[Maybe you'd like to take the ko before using your threats?])
+(;B[aq]C[Maybe you'd like to take the ko before using your threats?]))
+(;B[er];W[ds]
+(;B[es];W[gs];B[bs];W[cs]C[Black is dead])
+(;B[fq];W[fs]
+(;B[gs];W[es];B[fr];W[eq]C[Ouch])
+(;B[es];W[gs];B[bs];W[cs]C[Black is dead]))
+(;B[fs];W[fq]C[Black is dead])
+(;B[gs];W[fq]
+(;B[es];W[fr];B[bs];W[cs]C[Black is dead])
+(;B[fr];W[es];B[fs];W[eq]C[Ouch.])))
+(;B[fr];W[gs]
+(;B[ds]C[A ko, but you've already used a threat.])
+(;B[fs];W[ds]
+(;B[es];W[eq];B[bs];W[cs]C[Black is dead])
+(;B[eq];W[es];B[er];W[fq]C[Ouch.]))
+(;B[eq];W[es];B[ds];W[fs]C[A ko, but you've already wasted some threats.]))
+(;B[gs];W[ds];B[es];W[fr];B[bs];W[cs]C[Black is dead]))
+(;B[er];W[ds]
+(;B[fq];W[fs]
+(;B[es];W[gs];B[bs];W[cs]C[Black is dead.])
+(;B[gs];W[es]C[Black is dead]))
+(;B[fs];W[fq]C[Black is dead])
+(;B[es];W[gs]
+(;B[bq];W[as])
+(;B[bs];W[cs]C[Black is dead]))
+(;B[gs];W[fq]
+(;B[es];W[fr];B[bq];W[as])
+(;B[fr];W[es]C[Black is dead])))
+(;B[cm]C[Actually, there's something you could have done.])
+(;B[fr];W[gs]
+(;B[eq];W[es]
+(;B[ds];W[fs]C[Black is dead])
+(;B[fs];W[ds]C[Black is dead]))
+(;B[bq];W[as])
+(;B[fs];W[eq]
+(;B[ds];W[er]C[Black is dead])
+(;B[er];W[ds]C[Black is dead])
+(;B[bq];W[bp];B[ds];W[er]C[Black is dead]))
+(;B[es];W[eq]C[Black is dead])
+(;B[ds];W[fs]C[Black is dead]))
+(;B[gs];W[ds]
+(;B[es];W[fr];B[bq];W[as])
+(;B[er]))
+(;B[ds];W[gs]
+(;B[fs];W[er]C[Black is dead])
+(;B[fr])))

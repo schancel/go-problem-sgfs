@@ -1,0 +1,53 @@
+(;GE[life and death]DI[5d]DP[4]SO[MeleeNewb]CO[0]AB[rd]AB[qd]AB[pd]AB[pc]AW[rp]AW[qp]AW[pp]AW[pq]AB[or]AB[oq]AB[op]AB[oo]AB[po]AB[qo]AB[ro]AB[rm]AB[mr]AW[ob]AW[oc]AW[mb]AW[oe]AW[od]AW[pe]AW[qe]AW[re]AW[rg]C[In this problem you will have to play both sides. Start as black on top.]AP[goproblems]
+(;B[qb];W[qr]C[Now the response on the bottom.]
+(;B[rq];W[rc]C[Now respond on top. You can do the rest from here.]
+(;B[sd];W[sp]C[Be careful not to play on the same side twice. Remember, you are doing both sides.]
+(;B[rr];W[rb]
+(;B[ra];W[rs]
+(;B[sq];W[sc]
+(;B[sb];W[sr];B[ss];W[sa]
+(;B[qc];W[qq];B[qs];W[qa];B[pa];W[ps]
+(;B[pr];W[pb];B[ra]C[Correct! Ko, you take first.RIGHT])
+(;B[so];W[se];B[ra]C[Correct! Ko, you take first.RIGHT]))
+(;B[qa];W[qs];B[sr];W[sb])
+(;B[pb];W[pr]
+(;B[ps];W[pa];B[sb]C[Correct! Ko, you take first.RIGHT])
+(;B[qs];W[qa];B[pa];W[ps]
+(;B[os];W[oa];B[ra]C[Correct! Ko, you take first.RIGHT])
+(;B[so];W[se];B[ra]C[Correct! Ko, you take first.RIGHT])))
+(;B[pa];W[ps]
+(;B[pr];W[pb];B[sb]C[Correct! Ko, you take first.RIGHT])
+(;B[so]C[NOTTHIS])
+(;B[os]C[NOTTHIS])))
+(;B[qc];W[qq];B[sr];W[sb]))
+(;B[sr];W[sb];B[pb];W[pr];B[ps];W[pa];B[sc]C[Seki is not the answer.])
+(;B[pr];W[pb];B[sb]))
+(;B[pb];W[pr];B[rs];W[ra]
+(;B[pa];W[ps];B[sr];W[sb])
+(;B[sb];W[sr];B[ps];W[pa];B[qa];W[qs];B[sq];W[sc]))
+(;B[sb];W[sr];B[rs];W[ra]
+(;B[pb];W[pr])
+(;B[qa];W[qs];B[pr];W[pb])))
+(;B[rs];W[ra];B[rb];W[rr];B[qs];W[qa];B[pa];W[ps];B[pr];W[pb];B[sa];W[ss]))
+(;B[sc];W[sq]
+(;B[sr];W[sb];B[sd];W[sp];B[rr];W[rb];B[rs];W[ra])
+(;B[rr];W[rb];B[ra];W[rs];B[sr];W[sb];B[sd];W[sp];B[pr];W[pb]))
+(;B[sb];W[sr];B[rs];W[ra]
+(;B[rb];W[rr];B[qs];W[qa];B[pa];W[ps];B[pr];W[pb])
+(;B[qa];W[qs];B[rr];W[rb]
+(;B[sc];W[sq];B[pr];W[pb])
+(;B[pb];W[pr];B[sp];W[sd]))))
+(;B[rr];W[rb]C[Now respond on top. You can do the rest from here.];B[rc];W[rq])
+(;B[sr];W[sb];B[rc];W[rq])
+(;B[sq];W[sc];B[rc];W[rq]))
+(;B[pb];W[pr]C[Now the response on the bottom.];B[rr];W[rb]C[Now respond on top. You can do the rest from here.]
+(;B[ra];W[rs]C[Be careful not to play on the same side twice. Remember, you are doing both sides.]
+(;B[sp];W[sd];B[rc];W[rq];B[sq];W[sc];B[sb]C[Ko. White takes first. Not the best solution.])
+(;B[rq];W[rc]C[This was the wrong move for your opponent. Play on the triangled points to see one variation from here.]TR[sd];B[sd];W[qb]TR[pa];B[pa];W[qa]TR[sb];B[sb];W[sa]TR[sc];B[sc]C[White has to find the first threat.]))
+(;B[sb]C[NOTTHIS])
+(;B[qb];W[qr];B[rq];W[rc];B[sd];W[sp])
+(;B[rc]C[NOTTHIS]))
+(;B[rb];W[rr]C[Now the response on the bottom.]
+(;B[sp];W[sd];B[sc];W[sq];B[qr];W[qb])
+(;B[qr];W[qb]C[This was an incorrect move for your opponent. Play on the triangled points to see a possible variation.]TR[pb];B[pb];W[pa]TR[qc]
+(;B[qc];W[sd]TR[qa];B[qa];W[sb]TR[sc];B[sc];W[rc]C[ko]))))

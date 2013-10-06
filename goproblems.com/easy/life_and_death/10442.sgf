@@ -1,0 +1,45 @@
+(;GE[life and death]DI[6k]DP[37]SO[zafris]CO[6]AB[jj]AB[lk]AB[ih]AB[mk]AB[ml]AB[nm]AB[om]AB[pm]AB[pl]AB[ok]AB[oj]AB[nj]AB[ig]AB[if]AB[hh]AB[gh]AB[ff]AW[gf]AW[hg]AW[gc]AW[hd]AW[ic]AW[fd]AW[de]AW[dg]AW[ei]AW[eh]AW[gj]AW[gk]AW[hl]AW[hm]AW[jm]AW[lm]AW[ln]AW[mo]AW[oo]AW[po]AW[qn]AW[rm]AW[rk]AW[qj]AW[qh]AW[ph]AW[nh]AW[mh]AW[kd]AW[kg]AW[kf]AW[ki]AW[li]AW[jn]C[Save as many black stones as possible.]AP[goproblems]
+(;B[ik]
+(;W[ji]C[CHOICE]
+(;B[ii];W[kj];B[kk]
+(;W[nl]C[CHOICE];B[ge];W[he];B[hf]C[RIGHT])
+(;W[ge]C[CHOICE]
+(;B[gg];W[hf]
+(;B[nl]C[RIGHT])
+(;B[hj]C[RIGHT]
+(;W[gi]
+(;B[nl]C[RIGHT])
+(;B[hi];W[nl]
+(;B[hk]C[RIGHT])
+(;B[jk];W[hk]))
+(;B[hk];W[hi];B[nl]C[RIGHT]))
+(;W[jl];B[jk];W[nl]
+(;B[gi])
+(;B[hk];W[gi];B[hi]C[RIGHT]))))
+(;B[nl];W[gg]C[RIGHT])))
+(;B[ij];W[ii];B[hi];W[hj]C[];B[nl]))
+(;W[kj]C[CHOICE];B[kk];W[ji];B[ii];W[ge]
+(;B[gg];W[hf];B[nl];W[fg]C[RIGHT])
+(;B[nl];W[gg]C[RIGHT])))
+(;B[kj];W[ji]
+(;B[ii];W[ij])
+(;B[ij];W[ii]
+(;B[hi];W[hj])
+(;B[hj];W[hi])))
+(;B[kk];W[ji]
+(;B[ii];W[ij])
+(;B[ij];W[ii]
+(;B[hi];W[hj])
+(;B[hj];W[hi])))
+(;B[ji];W[kj]
+(;B[kk];W[jk]C[Black can do better])
+(;B[jk];W[kk];B[kl];W[jl]C[Black can do better]))
+(;B[ij];W[kj]
+(;B[jk];W[kk];B[kl])
+(;B[kk];W[jk]))
+(;B[jk];W[ji];B[ij];W[ii];B[hj];W[hi])
+(;B[ii];W[kj];B[jk];W[kk];B[kl];W[jl])
+(;B[nl];W[ji];B[ij];W[ii];B[hj];W[hi])
+(;B[ge];W[he];B[hf];W[kj]
+(;B[ji];W[kk];B[hj];W[nl]C[Black can do better])
+(;B[nl];W[kk];B[ji])))

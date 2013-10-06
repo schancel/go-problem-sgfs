@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[3k]DP[25]SO[Athanatos]CO[6]AW[rq]AW[qq]AB[pq]AW[oq]AW[nq]AB[mq]AW[mp]AB[np]AB[no]AB[nn]AB[nm]AB[on]AB[po]AB[qo]AB[qp]AW[pp]AW[op]AW[oo]AW[qn]AB[rn]AB[pm]AB[ql]AW[ks]AW[kr]AB[js]AW[jr]AB[is]AB[ir]AW[iq]AB[hq]AB[hp]AB[hr]AW[jq]AW[jp]AW[kp]AB[jo]AB[ip]AW[io]AW[in]AW[jn]AW[kn]AW[lm]AW[mm]AW[ll]AW[lk]AB[ml]AB[mk]AB[mj]AB[lj]AW[nl]AW[ol]AW[pl]AB[pj]AB[qk]AW[pk]AB[ok]AB[nk]AB[ho]AB[hn]AB[jm]AB[im]AB[kj]AB[kk]AW[mo]TR[mo]C[White played the marked stone. Punish him.]AP[goproblems];B[pr]
+(;W[nr]
+(;B[mr];W[ms]C[Thought about this...?]
+(;B[os];W[ns]
+(;B[rr];W[qr];B[qs];W[rs];B[ss];W[sq]
+(;B[rp]TR[or]TR[sr]C[Right! White can't approach.RIGHT])
+(;B[sp];W[rp]
+(;B[so]TR[or]TR[sr]C[Right! White can't approach. But T4 better at S4RIGHT])
+(;B[ro];W[so];B[sn];W[ls];B[sp]C[Ko...])))
+(;B[qr];W[rr]C[Hopeless]))
+(;B[or];W[ns]
+(;B[os];W[ls]
+(;B[rr];W[qr])
+(;B[qr];W[rr]))
+(;B[qr];W[rr])
+(;B[rr];W[qr]))
+(;B[qr];W[rr]
+(;B[os];W[ns])
+(;B[or];W[ns]))
+(;B[rp];W[qr])
+(;B[ns];W[os])
+(;B[rr];W[qr];B[qs]C[Well done! Thanks to FieldMouse for noticing this variation.RIGHT])
+(;B[ps];W[qr];B[ns];W[os]))
+(;B[or];W[mr]
+(;B[qr];W[rr])
+(;B[rr];W[qr])))
+(;W[mr]C[NOTTHIS];B[nr];W[lq];B[or];W[mq];B[rr]C[RIGHT]))

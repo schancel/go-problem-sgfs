@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[2k]DP[21]SO[song17]CO[5]AB[ck]AW[ek]AW[fk]AB[fj]AB[el]AB[fl]AB[fm]AB[gn]AB[gk]AB[hk]AB[ik]AB[jk]AB[kk]AB[ij]AW[hj]AW[gj]AW[gi]AW[ii]AW[hh]AW[hg]AW[gg]AB[gh]AB[ki]AB[ig]AB[jg]AB[kg]AB[lg]AB[mg]AB[ng]AB[og]AB[qg]AB[rg]AB[rf]AB[rh]AW[pg]AW[pf]AW[qf]AW[qe]AW[re]AW[rd]AW[rc]AW[of]AW[nf]AW[ne]AW[le]AW[lf]AW[kd]AW[je]AW[if]AB[jd]AB[id]AB[hd]AB[ge]AW[jc]AW[ic]AW[hc]AW[gc]AW[gb]AW[gd]AW[fd]AW[ed]AW[fc]AW[dc]AW[df]AW[ff]AB[eg]AB[cg]AB[ch]AB[ce]AW[gl]AW[hl]AW[im]AW[jm]AW[km]AW[jl]AW[ll]AW[mm]AW[lj]AW[mj]AW[mi]AW[ni]AW[oh]AB[ph]AB[pi]AB[oj]AB[qj]AW[qh]AB[qd]AB[qc]AB[qb]AB[oc]AB[lc]AB[kc]AB[jb]AB[ib]AB[hb]AB[jn]AB[kn]AB[ln]AB[mn]AB[nn]AB[io]AW[hn]AW[ho]AW[hp]AW[hq]AW[iq]AW[jp]AW[gp]AW[fo]AW[fq]AW[eq]AW[dp]AW[do]AW[dn]AW[cn]AB[co]AB[cp]AB[cq]AB[dq]AB[er]AB[fr]AB[gr]AB[gq]AB[ir]AB[jq]AB[kr]AB[lq]AB[mr]AB[or]AW[nq]AW[np]AW[lp]AW[pp]AW[qr]AW[ro]AW[rn]AB[qn]AB[qm]AB[rm]LB[ej:a]AB[ji]TR[ii]LB[ji:b]LB[kj:c]C[In the game, black replied to the marked stone at a and got cut at c and lost lots of points. Why? What can w do to save his 2 stones if black plays b instead of a?CHOICE]AP[goproblems]
+(;W[dk];B[dl]
+(;W[ei]C[RIGHT])
+(;W[ej];B[fi];W[fh];B[ei])
+(;W[fi];B[ej];W[dj];B[ei];W[di];B[eh])
+(;W[dj];B[ei]))
+(;W[ej];B[fi];W[fh];B[ei]C[w can't save them now])
+(;W[fi];B[ej];W[dk];B[dl];W[dj];B[ei])
+(;W[dj];B[dk];W[ej];B[fi];W[fh];B[ei])
+(;W[ei];B[ej];W[dk];B[dj];W[dl];B[dm];W[cl];B[cm];W[bl];B[bm]
+(;W[cj];B[bk])
+(;W[bk];B[cj];W[bn];B[am];W[fn];B[gm]C[can't win this way.]))
+(;W[dl];B[dk];W[ej];B[fi];W[fh];B[ei];W[dj];B[di])
+(;W[kj]C[NOTTHIS])
+(;W[di];B[ej];W[dk];B[dj];W[dl];B[dm];W[cl];B[cm];W[bl];B[bm];W[cj];B[bk];W[ci];B[al];W[bi];B[eh];W[ei];B[fi];W[fh]C[can't even kill the others])
+(;W[cj];B[dk];W[ej];B[fi];W[fh];B[ei];W[dj];B[bj])
+(;W[fh];B[ej];W[dk];B[dl]))

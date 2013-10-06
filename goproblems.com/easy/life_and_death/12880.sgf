@@ -1,0 +1,11 @@
+(;GE[life and death]DI[18k]DP[68]SO[pagod]CO[0]AW[gq]AW[hq]AW[iq]AW[kq]AW[lq]AW[mq]AW[gr]AW[mr]AW[gs]AW[ms]AB[hr]AB[ir]AB[kr]AB[lr]AB[hs]AB[ls]LB[jo:T]C[Plat at T if you think your group is alive.Otherwise try to save it.]PW[Blanc]PB[Noir]
+(;B[js];W[jq]LB[jo:T]C[Plat at T if you think your group is alive.]
+(;B[jr]C[Good!RIGHT]N[RIGHT])
+(;B[jo];W[jr]C[Your group is dead now!]))
+(;B[jr];W[js]C[Your group is dead. It is too late to make two eyes.CHOICE])
+(;B[jo]
+(;W[jr];B[js]
+(;W[is]C[Your group is dead. It is too late to make two eyes.])
+(;W[jq]C[Your group is dead!]))
+(;W[js]C[Your group is dead. It is too late to make two eyes.CHOICE]))
+(;B[jq];W[js]C[Your group is dead. It is too late to make two eyes.CHOICE]))

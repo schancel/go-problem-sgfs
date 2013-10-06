@@ -1,0 +1,48 @@
+(;GE[endgame]DI[8k]DP[45]SO[cen2y]CO[8]AW[da]AW[db]AW[bd]AW[cd]AW[ce]AW[cf]AW[ag]AW[dd]AB[ba]AB[ca]AB[ab]AB[ac]AB[bc]AB[bd]AB[gc]AB[ed]AB[fd]AB[de]AB[fe]AB[ef]AB[ff]AB[dg]C[3 key moves for white to win (no komi).]SZ[7]
+(;W[cb];B[be]
+(;W[bf];B[ae];W[bb]C[RIGHT]C[Correct! C6 stopped his tsumego and allows you to connect the groups at any time. RIGHT])
+(;W[cc]LB[bf:A];B[bf]C[(Wrong)]LB[cg:A];W[cg];B[bg]C[Black has formed 2 eyes, you're dead])
+(;W[bb];B[bf]C[(Wrong)]LB[af:A]LB[bg:B]LB[cg:C]
+(;W[cg];B[bg]LB[ae:A]LB[af:B]
+(;W[af];B[ae]C[Black was able to form a safe and you're dead])
+(;W[ae];B[af]C[Black was able to form a safe and you're dead]))
+(;W[bg];B[cg]LB[af:A]LB[df:B]
+(;W[df];B[af]C[Black was able to form a safe and you're dead])
+(;W[af];B[ae]C[Black was able to form a safe and you're dead]))
+(;W[af];B[ae]LB[bg:A]LB[cg:B]
+(;W[bg];B[cg]C[Black was able to form a safe and you're dead])
+(;W[cg];B[bg]C[Black was able to form a safe and you're dead])))
+(;W[ae];B[bf]C[(Wrong)]LB[bg:A];W[bg];B[cg]LB[af:A];W[af];B[ad]LB[af:A]
+(;W[af];B[bb])
+(;W[bb]LB[af:A];B[af]LB[bg:A];W[bg];B[eg]))
+(;W[af];B[bf]C[(Wrong)]LB[bg:A];W[bg];B[cg]LB[ae:A];W[ae];B[ad]LB[af:A];W[af];B[ag]LB[bg:A];W[bg];B[bb])
+(;W[dc];B[bb]C[(Wrong)]LB[ec:A];W[ec];B[fc]LB[fb:A];W[fb];B[gb]LB[bf:A];W[bf];B[cg])
+(;W[df];B[bf]C[(Wrong)]LB[fg:A];W[fg];B[eg]LB[gf:A];W[gf];B[ge]LB[fc:A];W[fc];B[gg])
+(;W[fb];B[gb]C[(Wrong)]LB[ec:A];W[ec];B[fc]LB[cc:A];W[cc];B[fa]LB[eb:A];W[eb];B[bf]LB[bg:A];W[bg];B[cg]LB[af:A];W[af];B[ae]LB[ag:A];W[ag];B[eg]))
+(;W[eg]C[];B[cb]C[(Wrong)]LB[dc:A];W[dc];B[be]LB[ec:A];W[ec];B[fc]LB[fb:A];W[fb];B[gb]LB[bf:A];W[bf];B[cg])
+(;W[ea];B[cb]C[(Wrong)])
+(;W[fb];B[cb]C[(Wrong)])
+(;W[fc];B[cb]C[(Wrong)])
+(;W[ec];B[cb]C[(Wrong)])
+(;W[dc];B[cb]C[(Wrong)]LB[be:A]LB[fb:B]
+(;W[be];B[cg]LB[fb:A];W[fb];B[gb]LB[ec:A];W[ec];B[bf]LB[af:A]LB[bg:B]
+(;W[bg];B[af])
+(;W[af];B[bg]))
+(;W[fb];B[gb]LB[ec:A];W[ec];B[be]C[Impossible to form 2 true eyes.]))
+(;W[df];B[cb]C[(Wrong)])
+(;W[cc];B[cb]C[(Wrong)]LB[be:A]LB[cg:B]
+(;W[be];B[cg]LB[ae:A]
+(;W[bg];B[ae]LB[ec:A]LB[fb:B]
+(;W[fb];B[gb]LB[ec:A];W[ec];B[fc])
+(;W[ec];B[fc]LB[fb:A];W[fb];B[gb]))
+(;W[ae];B[bg]LB[ec:A]LB[fb:B]
+(;W[ec];B[fc]LB[fb:A];W[fb];B[gb])
+(;W[fb];B[gb]LB[ec:A];W[ec];B[fc])))
+(;W[cg];B[ec]LB[be:A];W[be];B[ae]LB[af:A];W[af];B[ad]LB[dc:A]
+(;W[fb];B[eb])
+(;W[dc];B[eb])))
+(;W[cg];B[cb]C[(Wrong)]LB[dc:A];W[dc];B[be]LB[bf:A];W[bf];B[ec]LB[eb:A];W[eb];B[fb])
+(;W[bf];B[cb]C[(Wrong)]LB[cg:A];W[cg];B[dc]LB[ec:A];W[ec];B[cc]LB[fb:A];W[fb];B[fc]LB[eb:A];W[eb];B[gb]LB[df:A];W[df];B[eg]LB[ee:A];W[ee];B[be]LB[af:A];W[af];B[ae]LB[fa:A];W[fa];B[de]LB[gf:A];W[gf];B[ge]LB[ee:A];W[ee];B[ga]LB[gg:A];W[gg];B[ea]LB[ec:A];W[ec];B[de]LB[fa:A];W[fa];B[bg])
+(;W[be]C[];B[cb]C[(Wrong) Black has miai to stop you from forming 2 eyes.]LB[ae:A];W[ae];B[cg]LB[dc:A];W[dc];B[ec]LB[eb:A];W[eb];B[fb])
+(;W[ae];B[cb]C[(Wrong) Black has miai to stop you from forming 2 eyes.]LB[cg:A];W[cg];B[be]LB[bf:A];W[bf];B[dc]LB[ec:A];W[ec];B[cc]LB[fb:A];W[fb];B[fc]LB[eb:A];W[eb];B[gb]LB[fa:A];W[fa];B[ga]LB[af:A];W[af])
+(;W[bb];B[cb]C[(Wrong)]LB[be:A];W[be]C[Black has miai to stop you from forming 2 eyes.];B[dc]LB[cc:A];W[cc];B[ec]LB[ae:A];W[ae];B[cg]LB[bg:A];W[bg];B[eb]))

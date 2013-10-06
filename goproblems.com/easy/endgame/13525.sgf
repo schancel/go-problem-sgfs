@@ -1,0 +1,8 @@
+(;GE[endgame]DI[7k]DP[41]SO[bass]CO[0]SZ[7]AW[fa]AW[db]AW[fb]AW[bc]AW[dc]AW[fc]AW[dd]AW[ed]AW[fd]AW[ce]AW[de]AW[ef]AB[ca]AB[da]AB[cb]AB[eb]AB[ac]AB[cc]AB[ec]AB[bd]AB[cd]AB[be]AB[bf]AB[cf]AB[df]C[No komi, no prisoners, white to play and win.]LB[ea:A]LB[dg:B]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ea];B[eg];W[fg];B[dg]C[FORCE];W[ff]C[White wins by 1 point.RIGHT])
+(;W[dg];B[cg]
+(;W[ea]C[];B[eg]C[You should not play D1 unless you plan to connect at E1 too.]
+(;W[fg];B[ff];W[dg];B[fe]C[White loses the whole corner.])
+(;W[ff];B[fg];W[gf]C[Black wins by 1 point.]))
+(;W[eg];B[ea]C[Only jigo. White has sente now, but there is no endgame left, so the reverse sente profit was zero.]))
+(;W[eg];B[ea];W[dg];B[cg]C[Only jigo.]))

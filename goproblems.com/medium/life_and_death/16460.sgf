@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2d]DP[12]SO[santa c]CO[0]AW[rb]AW[qa]AW[qc]AW[qd]AB[qb]AB[pb]AB[ob]AB[pc]AB[pd]AB[od]AB[nd]AW[oc]AB[me]AB[le]AB[lf]AB[kd]AB[kc]AB[kb]AW[lb]AW[lc]AW[jd]AW[jc]AW[jb]AW[ke]AW[kf]AW[kg]AW[lg]AW[mg]AW[mf]AW[of]AW[qf]AW[rf]C[What should you do?]MA[lb]AW[gd]AB[je]AB[jf]AB[hf]AP[goproblems]
+(;B[ld];W[ka]
+(;B[mb]
+(;W[mc]
+(;B[ma];W[la];B[nc]C[nice!RIGHT])
+(;B[nc];W[ma]LB[na:1]LB[nb:2]C[ko])
+(;B[na];W[la]LB[nc:1]LB[ma:2]C[ko]))
+(;W[ma];B[mc]C[RIGHT]))
+(;B[mc];W[ne]
+(;B[md];W[na]C[all dead!])
+(;B[mb];W[md]C[W captures cutting stones in sente here (If B doesn't add a move...)]LB[ma:1]LB[na:2]LB[nc:3])
+(;B[ma];W[mb])
+(;B[nb];W[ma])
+(;B[pa];W[mb])
+(;B[na];W[mb]))
+(;B[ma];W[mb]
+(;B[nb];W[mc])
+(;B[mc];W[ne]))
+(;B[na];W[mb]))
+(;B[mb];W[ld]C[W gets to take the cutting stones!])
+(;B[mc];W[ld]C[W gets to take the cutting stones in sente!])
+(;B[ka];W[ld]C[W gets to take the cutting stones in sente!]LB[mb:1])
+(;B[la];W[ld]C[W gets to take the cutting stones in sente!]LB[mb:1])
+(;B[na];W[ld]C[W gets to take the cutting stones in sente!]LB[mb:1])
+(;B[pa];W[mb])
+(;B[ma];W[mb]))

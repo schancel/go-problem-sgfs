@@ -1,0 +1,13 @@
+(;GE[best move]DI[6k]DP[39]SO[mysandbox]CO[0]AB[bg]AB[bf]AB[cf]AB[ce]AB[cd]AB[cc]AB[cb]AB[db]AB[da]AW[bh]AW[ch]AW[cg]AW[dh]AW[ci]AW[ck]AW[bk]AW[eh]AW[eg]AB[df]AB[dg]AB[ef]AB[ee]AB[ed]AW[dc]AW[de]AW[dd]AW[ec]AW[eb]AW[ea]AW[fa]AW[ga]AW[ha]AB[fb]AB[fc]AB[gc]AW[gb]AW[hb]AW[hc]AW[ic]AB[id]AW[jd]AW[je]AW[if]AW[hf]AW[hg]AB[ig]AB[jg]AB[jh]AB[ji]AB[ii]AB[jf]AB[kf]AB[ke]AB[kd]AB[ld]AB[lc]AB[mc]AW[kc]AW[lb]AW[mb]AW[na]AW[nc]AW[md]AW[me]AW[ne]AW[mf]AW[mg]AW[ng]AB[nd]AB[od]AB[nf]AB[of]AB[oe]AB[lg]AB[mh]AB[nh]AB[oh]AB[ph]AB[pg]AB[pf]AB[pd]AB[pc]AB[pb]AB[pa]AB[qg]AB[rg]AW[qf]AW[qe]AW[rd]AW[rc]AW[ra]AW[qb]AW[sb]AW[rh]AW[qi]AW[qj]AW[rj]AW[si]AB[qh]AB[pi]AW[oi]AW[pj]AB[pl]AW[ol]AW[nm]AW[on]AW[pn]AW[qn]AW[rm]AW[sn]AW[ro]AW[so]AW[sp]AW[sr]AW[rq]AW[kh]AW[lh]AW[ki]AW[kj]AW[lj]AW[jj]AW[ij]AW[hi]AB[ei]AB[di]AB[dj]AB[dk]AB[cl]AB[bl]AB[cm]AB[cn]AB[bn]AB[bo]AW[bp]AB[cp]AB[cq]AB[cr]AB[dr]AW[co]AW[do]AW[dn]AW[dp]AW[dq]AW[eq]AW[er]AW[es]AW[fs]AB[gs]AB[fr]AB[fq]AB[fp]AB[gp]AB[go]AB[ho]AW[fo]AW[fn]AW[gn]AW[hn]AW[im]AW[il]AW[hl]AW[jl]AB[el]AB[fl]AB[gl]AB[gj]AW[fi]AW[fj]AW[fk]AW[gk]AW[ek]AB[fg]AB[hr]AB[ir]AW[hq]AW[io]AW[ip]AB[in]AB[jn]AB[jo]AB[jp]AB[jq]AB[kq]AB[ko]AB[jm]AB[km]AB[kl]AB[kk]AW[kp]AW[lp]AW[lq]AW[lr]AW[kr]AW[jr]AW[mr]AB[mq]AW[mo]AW[no]AW[ln]AW[mm]AB[nr]AB[ns]AB[ms]AB[oq]AB[pq]AB[pr]AB[ps]AW[os]AW[qs]AB[rr]AB[rs]AB[qq]AB[qp]AB[rp]AB[qo]AB[po]AB[oo]AW[op]AW[np]AB[fh]TR[fh]C[If black say that he will capture W left side group, what is white best response.FORCE]AP[goproblems]
+(;W[gh]
+(;B[lf]C[];W[ff]C[RIGHT]))
+(;W[ff];B[gf]
+(;W[gg];B[fe]
+(;W[kg];B[lf];W[ih];B[hh];W[gh]C[RIGHT]))
+(;W[fe];B[ge])
+(;W[ge];B[fe])
+(;W[gh]
+(;B[lf];W[gg]C[RIGHT]))
+(;W[kg];B[lf];W[ih];B[hh];W[gh]
+(;B[og];W[gg]C[RIGHT])))
+(;W[gg];B[ff]))

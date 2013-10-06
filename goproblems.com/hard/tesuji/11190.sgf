@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[5d]DP[6]SO[field mouse]CO[0]SZ[9]AB[cg]AB[cf]AB[de]AB[ee]AB[ef]AB[fg]AB[gh]AB[fh]AW[gg]AW[gf]AW[ff]AW[ce]AW[cd]AW[df]AW[eg]AB[cc]AW[dd]AB[bc]AW[dc]AB[be]AW[bd]AB[ad]AW[bf]AB[ae]AW[bg]AB[bh]AW[ch]AW[db]AB[cb]AW[fd]AW[gc]AB[ca]AB[da]AW[ea]AW[eb]C[Black to play and do his best in this game.]AP[goproblems];B[dg];W[ah]
+(;B[bi];W[ci]
+(;B[af];W[ai]
+(;B[bh];W[bi]
+(;B[ac];W[eh]
+(;B[ag];W[hh]
+(;B[ei];W[dh]
+(;B[bh];W[bg]
+(;B[hi]
+(;W[ih]
+(;B[hg];W[hf];B[bf];W[fe]
+(;B[bh];W[ed];B[di]C[The best result, good!RIGHT])
+(;B[ed];W[ec];B[df];W[ig];B[bh];W[ii];B[di];W[gi]C[You lost a few points in the endgame, but the result looks still ok.RIGHT])
+(;B[gi];W[ed];B[df];W[ig];B[bh];W[ii];B[di]C[You lost one point in the endgame, but the result is still ok.RIGHT])
+(;B[fi]C[This move is very bad: you just played one move into your territory. B2 was much better. Sorry, but I cannot mark this solved :(]))
+(;B[bf];W[fi];B[gi];W[ii])))
+(;B[bf];W[gi]))
+(;B[hi];W[df]))
+(;B[hi];W[fi])
+(;B[bh];W[fi])
+(;B[dh];W[ei]))
+(;B[dh];W[ei]
+(;B[ag];W[hh]C[You could do better.])
+(;B[fi];W[di];B[ag];W[df])))
+(;B[dh];W[ab]
+(;B[ac];W[ba]C[You could do better.])
+(;B[bb];W[ag])))
+(;B[dh];W[ab]
+(;B[ac];W[ba]C[Black could do much better.])
+(;B[bb];W[ag])
+(;B[bh];W[bi]))
+(;B[ac];W[bh];B[dh];W[ab];B[bb];W[aa]C[The left side is seki now, you could do better.]))
+(;B[ac];W[ai];B[bh];W[eh];B[ag];W[dh];B[af];W[hh]C[You could do better.])
+(;B[dh];W[ai];B[af]))
+(;B[dh];W[bi]C[Black upper left dies :(]))

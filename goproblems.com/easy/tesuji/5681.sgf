@@ -1,0 +1,51 @@
+(;GE[tesuji]DI[10k]DP[54]SO[maba]CO[6]AB[ar]AB[br]AB[cq]AB[dq]AB[fq]AB[gq]AB[fp]AB[fo]AB[iq]AB[ir]AB[in]AB[hn]AB[gn]AB[im]AB[fm]AB[em]AB[dm]AB[cm]AB[cl]AB[bn]AW[ck]AW[dl]AW[ek]AW[ej]AW[dj]AB[cj]AW[ci]AW[gm]AW[hm]AW[il]AW[jl]AW[jn]AW[go]AW[gp]AW[io]AW[ip]AW[fn]AW[en]AW[dn]AW[bq]AW[bp]AW[cp]AW[dp]AW[jq]AW[jj]TR[cl]TR[cm]TR[bn]TR[dm]TR[em]TR[fm]C[Black to connect his marked stones in sente.]AP[goproblems];B[do]
+(;W[co]
+(;B[cn];W[eo]
+(;B[ep];W[do]
+(;B[bo];W[jm]
+(;B[ap];W[ho]C[RIGHT])
+(;B[aq];W[ho]
+(;B[ap];W[gn]C[RIGHT])
+(;B[gn];W[hn]
+(;B[ap];W[gn]C[RIGHT])
+(;B[ao]C[You did connect, but didn't keep sente.]))
+(;B[ao]C[You did connect, but didn't keep sente.])))
+(;B[ap];W[jm]
+(;B[bo];W[ho]C[RIGHT])
+(;B[aq];W[ho]C[RIGHT]))
+(;B[aq];W[jm]
+(;B[ap];W[ho]C[RIGHT])
+(;B[bo];W[ho]
+(;B[ap];W[gn]C[RIGHT])
+(;B[gn];W[hn]
+(;B[ap];W[gn]C[RIGHT])
+(;B[ao]C[You did connect, but didn't keep sente.]))
+(;B[ao]C[You did connect, but didn't keep sente.]))))
+(;B[bo];W[ep]
+(;B[ap];W[aq];B[eq];W[ao];B[an];W[jm])
+(;B[aq];W[ap])
+(;B[eq];W[ap]))
+(;B[ap];W[ep];B[aq]C[You did connect, but didn't keep sente.])
+(;B[aq];W[ep]
+(;B[bo];W[ap])
+(;B[ap]C[You did connect, but didn't keep sente.])))
+(;B[eo];W[cn]
+(;B[bo];W[ap])
+(;B[ap];W[jm]C[]
+(;B[bo]C[You did connect but didn't keep sente.])
+(;B[aq]C[You did connect but didn't keep sente.]))
+(;B[aq];W[ap]))
+(;B[ep];W[cn]
+(;B[bo];W[ap])
+(;B[aq];W[ap])
+(;B[ap];W[jm]
+(;B[aq]C[You did connect but didn't keep sente.])
+(;B[bo]C[You did connect but didn't keep sente.])))
+(;B[bo];W[cn]
+(;B[aq];W[ap])
+(;B[ap];W[jm];B[aq]C[You did connect but didn't keep sente.]))
+(;B[ap];W[cn]
+(;B[aq]C[You did connect but didn't keep sente.])
+(;B[bo]C[You did connect but didn't keep sente.]))
+(;B[aq];W[cn];B[ap]C[You did connect but didn't keep sente.]))
+(;W[eo]C[Since this move is essentially the same as C5, I haven't covered all variations.];B[ep];W[co];B[cn];W[do];B[ap];W[jm];B[aq];W[ho]C[RIGHT]))

@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[7k]DP[43]SO[1234boys]CO[0]SZ[11]AB[jj]AB[ij]AB[hi]AB[gi]AB[fh]AB[fg]AB[gg]AB[ei]AB[di]AB[bh]AW[fj]AW[fi]AW[eh]AW[eg]AW[ef]AW[hf]AW[gh]AW[hh]AW[ih]AW[ii]LB[hj:A]LB[gj:a]LB[gk:b]LB[hk:d]LB[ej:e]LB[fk:f]LB[fe:g]LB[ge:h]LB[gf:i]LB[ff:j]LB[fj:B]LB[fg:C]C[Black to play. How can black prevent white from capturing at A white also winning the capturing race between B and C?]AP[goproblems]
+(;B[hj];W[fk];B[ej];W[ff];B[gk];W[gf])
+(;B[gj]LB[ff:a]LB[fk:b]
+(;W[ff]LB[ej:a]LB[fk:b]
+(;B[ej]C[Well done!RIGHT])
+(;B[fk]C[Well done!RIGHT]))
+(;W[fk]LB[gk:a]LB[ej:b]
+(;B[gk]C[Well done!RIGHT])
+(;B[ej]C[Well done!RIGHT])))
+(;B[gk];W[ff];B[ej];W[gf];B[fk];W[hg]C[Not too bad, but black can do capture some stones.])
+(;B[hk];W[fk];B[gj];W[ff];B[gk];W[gf])
+(;B[ej];W[hj])
+(;B[fk];W[hj])
+(;B[fe];W[ff];B[gf];W[ge])
+(;B[ge];W[gf];B[ff];W[fe])
+(;B[gf];W[ge]LB[fe:a]LB[hg:b]
+(;B[fe];W[ff])
+(;B[hg];W[ig]))
+(;B[ff];W[fe];B[ge];W[gf]))

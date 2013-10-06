@@ -1,0 +1,49 @@
+(;GE[elementary]DI[25k]DP[78]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[9]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[2000-11-07]
+SY[Cgoban 1.9.8]TM[30:00(5x1:00)];PL[2]
+AW[ba][da][ab][bb][cb][db][fd][gd][ge][bf][cf][ef][gf][bg][dg][eg][gg][hg][bh][eh][gh]
+AB[eb][fb][ac][bc][cc][dc][ec][fc][gc][hc][hd][ae][be][ce][de][ee][he][df][ff][hf][if][cg][fg][ig][fh][ih]
+C[white to win this game
+]
+(;W[fe]
+C[RIGHT
+by capturing these stones, white has enough points to win
+]
+MA[ff][fg][fh])
+
+(;W[ed];B[fe]
+(;W[fi];B[dd]C[black wins
+])
+
+(;W[dd];B[gi]TR[hg][gh][gg][gf][ge][gd][fd][ed][dd]C[white dies here
+])
+
+(;W[gi];B[fi])
+)
+
+(;W[ch];B[fe]C[black saves these stones
+])
+
+(;W[ea];B[fe]C[black ignores your move to save these stones
+]
+(;W[fa];B[ga])
+
+(;W[fi];B[fa])
+)
+
+(;W[af];B[fe]C[too small
+])
+
+(;W[hh];B[fe])
+
+(;W[fi];B[fe])
+
+(;W[ha];B[fe])
+
+(;W[dh];B[fe])
+
+)

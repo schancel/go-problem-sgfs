@@ -1,0 +1,19 @@
+(;GE[life and death]DI[5k]DP[34]SO[Cow]CO[0]AB[rc]AB[qc]AB[pc]AB[nc]AW[rd]AW[qd]AW[pd]AW[od]AW[me]AW[qf]AB[rg]AB[qh]AW[qg]AW[og]AB[qi]AB[rj]AW[pi]AW[qj]AB[pj]AW[oj]AB[mc]AW[qk]AW[qm]AW[oi]AB[sh]AW[rk]AP[goproblems]
+(;B[sj];W[sf];B[rf];W[se];B[ri];W[sg]C[Black only has one eye. He is dead. ;-/])
+(;B[sf]
+(;W[se]
+(;B[sj];W[rf];B[ri];W[sg]C[Ko is bad. ;-/])
+(;B[rf];W[sj];B[ri]C[Black is alive. Well done!RIGHT]))
+(;W[ri];B[sj]C[Black can now either make two eyes or connect. Well done!RIGHT])
+(;W[sc]
+(;B[sb];W[sd];B[sj]LB[ri:A]LB[rf:B]C[A and B are miai, you are alive! :-)RIGHT])
+(;B[sj]C[Surely you are alive, but blocking once in the corner is better, since white later can get W1, B2, W3, B4, W5, B6 in sente.]LB[oc:1]LB[ob:2]LB[rb:3]LB[qb:4]LB[qa:5]LB[pb:6])))
+(;B[rf];W[sf];B[re];W[se]
+(;B[ri];W[sj]C[Black is dead.])
+(;B[sj];W[ri]C[Black has only one eye. He is dead.]))
+(;B[ri];W[sf]
+(;B[sj];W[sg]C[Black is dead.])
+(;B[sg];W[sj]C[Black is dead.]))
+(;B[se];W[sf];B[rf];W[re];B[sg];W[sc]C[Black is dead.])
+(;B[re];W[rf];B[sf];W[sd]C[Black has only one eye and cannot connect. He is dead. :-/])
+(;B[ph];W[rf];B[oh];W[nh];B[pg];W[of]C[There is no way that black can escape. He is dead. ;-(]))

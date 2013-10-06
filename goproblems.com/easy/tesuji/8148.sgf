@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[15k]DP[60]SO[Merk]CO[8]AW[ld]AW[md]AW[nd]AW[mb]AB[kd]AB[jd]AB[jb]AB[od]AB[pd]AB[pb]AB[jf]AB[le]AB[ne]AB[nf]AW[oe]AW[of]AW[ng]AB[pi]C[Both white groups are in trouble, but white can be relatively safe if she captures the triangle stones and connects her groups.]TR[ne]TR[nf]AW[pe]AP[goproblems]
+(;W[lf]
+(;B[me];W[ke]
+(;B[mf]
+(;W[mg]C[Nice! Use Navigate Solution for other black responses.RIGHT])
+(;W[lg];B[kf];W[mg]C[Nice! Use Navigate Solution for other black responses.RIGHT])
+(;W[mh];B[kf];W[mg]C[Nice! Use Navigate Solution for other black responses.RIGHT])
+(;W[lh];B[kf];W[mg]C[Nice! Use Navigate Solution for other black responses.RIGHT])
+(;W[li];B[mg];W[mh];B[lg]C[:(])
+(;W[mi];B[mg]
+(;W[mh];B[lg]C[:(])
+(;W[lg];B[mh]
+(;W[lh];B[nh]C[:(])
+(;W[nh];B[lh]C[We don't know if the ladder works... :(])))
+(;W[kg];B[kf];W[mg]C[Nice! Use Navigate Solution for other black responses.RIGHT]))
+(;B[kf];W[mf]C[RIGHT]))
+(;B[mf];W[mg]
+(;B[ke];W[me]C[RIGHT])
+(;B[me];W[ke]C[RIGHT]))
+(;B[ke];W[me];B[mf]
+(;W[mg]C[RIGHT])
+(;W[mh];B[lg];W[mg]C[RIGHT])
+(;W[lg];B[mh];W[mg]C[RIGHT])
+(;W[lh]
+(;B[lg];W[mg]C[RIGHT])
+(;B[mg];W[mh];B[lg];W[kg]C[RIGHT])))
+(;B[mg];W[mf]
+(;B[ke];W[me]C[RIGHT])
+(;B[me];W[ke]C[RIGHT])))
+(;W[me];B[mf];W[lf];B[mg]C[Black saves his key group =(])
+(;W[mf];B[me]
+(;W[ke];B[lf]
+(;W[kf];B[lg]C[Black escapes.])
+(;W[lg];B[kf]))
+(;W[lf];B[ke]))
+(;W[ke];B[lf]TR[kf]TR[lg]C[Miai.]))

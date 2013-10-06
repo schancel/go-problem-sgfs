@@ -1,0 +1,20 @@
+(;GE[endgame]DI[10k]DP[53]SO[wolverest]CO[0]SZ[9]AB[ba]AB[ca]AB[cb]AB[db]AB[cc]AB[dc]AB[fb]AB[eb]AB[ec]AB[dd]AB[cd]AB[de]AB[ee]AB[fe]AB[ge]AB[gb]AB[gc]AB[hc]AB[hb]AB[ga]AB[ei]AB[fi]AB[gi]AB[di]AB[bi]AB[ch]AB[cg]AB[bg]AB[cf]AB[dg]AB[eg]AB[eh]AB[fh]AW[bb]AW[ab]AB[ad]AW[bc]AW[bd]AW[be]AW[ce]AW[bf]AW[ae]AW[ag]AW[ah]AW[bh]AW[ea]AW[ed]AW[fd]AW[fc]AW[gd]AW[hd]AW[ic]AW[ib]AW[id]AW[ie]AW[he]AW[if]AW[ig]AW[hg]AW[hh]AW[ii]AB[hi]AW[gh]AW[gg]AW[fg]AW[ff]AW[gf]AW[ef]AW[df]AW[ha]C[READ:     Play A9 to play as white and J9 to play as black. Who can win?FORCE]AP[goproblems]
+(;B[ia]
+(;W[aa]
+(;B[ih];W[ha];B[ii];W[fa];B[ia]C[Now restart and try playing as white!RIGHT])
+(;B[ai];W[ci];B[bi];W[fa]
+(;B[da];W[fa];B[ih];W[ha])
+(;B[ih];W[ha];B[da];W[fa];B[ia];W[ii];B[ai];W[ci]
+(;B[ih];W[ha])
+(;B[bi];W[ha];B[ai];W[ci])))
+(;B[fa];W[ha];B[ai];W[ci])))
+(;B[aa]AB[ab]AB[bb]AB[bc]AB[bd]AB[be]AB[ce]AB[bf]AB[ae]AB[ag]AB[ah]AB[bh]AB[df]AB[ef]AB[ff]AB[gf]AB[fg]AB[gg]AB[gh]AB[hh]AB[hg]AB[ii]AB[ig]AB[if]AB[he]AB[ie]AB[ed]AB[fd]AB[fc]AB[gd]AB[hd]AB[id]AB[ic]AB[ib]AB[ha]AB[ea]AW[ba]AW[ca]AW[cb]AW[cc]AW[cd]AW[dd]AW[de]AW[cf]AW[ad]AW[cg]AW[bg]AW[ch]AW[bi]AW[dg]AW[eg]AW[eh]AW[di]AW[ei]AW[fh]AW[fi]AW[gi]AW[hi]AW[ee]AW[fe]AW[ge]AW[dc]AW[ec]AW[db]AW[eb]AW[fb]AW[gb]AW[ga]AW[hb]AW[gc]AW[hc];W[ia]
+(;B[fa];W[ih];B[ha];W[da]
+(;B[fa];W[ia];B[ii];W[ai]
+(;B[ci]
+(;W[ih]C[CHOICE];B[ha]C[Now restart and try playing as black!RIGHT])
+(;W[bi];B[ha];W[ai];B[ci];W[bi];B[ea]C[Reference.]))
+(;B[ha];W[af]C[Right. But you could've done better.RIGHT]))
+(;B[ea]C[NOTTHIS])
+(;B[ii]C[NOTTHIS]))
+(;B[da]C[NOTTHIS])))

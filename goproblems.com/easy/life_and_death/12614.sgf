@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[54]SO[MoreKnock]CO[0]AB[ea]AB[fa]AB[eb]AB[db]AB[dc]AB[dd]AB[de]AB[ed]AB[ee]AB[df]AW[ef]AW[ff]AW[fe]AW[fd]AW[fc]AW[ec]AW[fb]AW[ga]AW[hb]AW[gc]AW[hd]AW[he]AW[hf]AW[if]AW[kf]AW[je]AW[ke]AW[lf]AW[mf]AW[me]AB[ic]AB[id]AB[ie]AB[jd]AB[ld]AB[kd]AB[md]AW[nd]AB[nc]AB[nb]AB[mb]AB[ma]AW[od]AW[oc]AW[ob]AW[oa]AW[na]AB[ib]AB[kb]AW[ia]AW[ka]AW[lc]LB[ka:1]LB[ib:2]LB[ia:3]LB[kb:4]LB[lc:5]AW[hc]AP[goproblems]
+(;B[jb]
+(;W[ja]
+(;B[kc]
+(;W[lb]
+(;B[mc];W[ha];B[la]C[RIGHT])
+(;B[la];W[mc]))
+(;W[la];B[lb];W[ha]C[Best for white.RIGHT]))
+(;B[lb];W[kc];B[la];W[ha])
+(;B[la];W[ha];B[kc]C[RIGHT])))
+(;B[kc];W[jb];B[la];W[ja];B[jc];W[ha])
+(;B[lb];W[jb]
+(;B[jc];W[ja])
+(;B[la];W[ja]))
+(;B[la];W[ja];B[jb];W[ha]C[RIGHT])
+(;B[jc];W[ja]))

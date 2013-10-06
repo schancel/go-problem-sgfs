@@ -1,0 +1,83 @@
+(;GE[life and death]DI[3k]DP[27]SO[erics]CO[9]AB[hb]AB[ib]AB[ic]AB[id]AB[lb]AB[kb]AB[kc]AB[kd]AB[ke]AW[gb]AW[hc]AW[hd]AW[mb]AW[lc]AW[ld]AW[le]AW[lf]AW[kf]AW[mc]AW[jf]AW[if]AW[he]AW[gc]LB[hf:T]C[Can white kill ? If you think so... just try it... If not, tenuki at 'T'.]AP[goproblems]
+(;W[hf]C[];B[ja]C[Unfortunately, black was dead. Now he is alive...]TR[jd]TR[je]MA[ha]MA[la])
+(;W[ha]
+(;B[la]C[As goes the proverb, ''There is death in the bend''... But does it work here ?]
+(;W[ja];B[ia]C[''The enemy's vital point is my own''...]
+(;W[je];B[jd]C[Now black can't use the proverb ''Enlarge eye space to live''.];W[jb]C[Well done !RIGHT])
+(;W[jb];B[je]C[Seki -- black made good use of the proverb ''Enlarge eye space to live''.]LB[jc:a]LB[ie:b])
+(;W[jc];B[jb]TR[jd]TR[je])
+(;W[jd];B[je]TR[jb]TR[jc])
+(;W[ie];B[je]TR[jb]TR[jc]C[]))
+(;W[jb];B[ja]TR[jd]TR[je])
+(;W[ia];B[ja]TR[jd]TR[je])
+(;W[jc]
+(;B[ja]TR[jd]TR[je])
+(;B[jb]TR[jd]TR[je]MA[ia]MA[ja]))
+(;W[jd];B[je]TR[ja]TR[ia])
+(;W[je];B[ja]TR[jc]TR[jd])
+(;W[ma];B[je]TR[ia]TR[ja])
+(;W[ie];B[je]TR[ia]TR[ja]))
+(;B[ja]C[This is not a vital point yet.];W[la]TR[jc]TR[je]C[RIGHT])
+(;B[jb]
+(;W[la]TR[jd]TR[je]MA[ia]MA[ka]C[RIGHT])
+(;W[ia]TR[jd]TR[je]MA[ja]MA[la]C[RIGHT])
+(;W[je];B[jd]TR[ia]TR[ka]MA[ja]MA[la]C[RIGHT]))
+(;B[jc]
+(;W[je]C[RIGHT])
+(;W[la]TR[je]TR[ja]C[RIGHT])
+(;W[ja];B[ia]TR[je]TR[la]C[RIGHT])
+(;W[ia];B[ja]TR[je]TR[la]))
+(;B[je]
+(;W[la]
+(;B[ja];W[jc]C[RIGHT])
+(;B[jc];W[ja]TR[ia]TR[ka]C[RIGHT]))
+(;W[ja];B[ia]
+(;W[jb];B[jc])
+(;W[la];B[ka]TR[jb]TR[jc]))))
+(;W[la];B[ha]C[As goes the proverb, ''There is death in the bend''... But does it work here ?]
+(;W[ja];B[ka]C[''The enemy's vital point is my own''...]
+(;W[je];B[jd]C[Now black can't use the proverb ''Enlarge eye space to live''.];W[jb]C[Well done !RIGHT])
+(;W[jb];B[je]C[Seki -- black made good use of the proverb ''Enlarge eye space to live''.]LB[jc:a]LB[ie:b])
+(;W[jc];B[jb]TR[jd]TR[je])
+(;W[jd];B[je]TR[jc]TR[jb])
+(;W[ie];B[je]TR[jb]TR[jc]))
+(;W[jb];B[ja]TR[jd]TR[je])
+(;W[ka];B[ja]TR[jd]TR[je])
+(;W[jc]
+(;B[ja]TR[jd]TR[je])
+(;B[jb]TR[jd]TR[je]MA[ja]MA[ka]))
+(;W[jd];B[je]TR[ja]TR[ka])
+(;W[je];B[ja]TR[jc]TR[jd])
+(;W[ga];B[je]TR[ja]TR[ka])
+(;W[ie];B[je]TR[ja]TR[ka]))
+(;W[ja];B[jb]TR[jd]TR[je]MA[ha]MA[ia]MA[ka]MA[la]C['A' was not a vital point.]LB[ja:A])
+(;W[jb];B[ja]MA[ha]MA[la]TR[jd]TR[je])
+(;W[je];B[ja]TR[jc]TR[jd]MA[ha]MA[la])
+(;W[jc];B[ja]TR[jd]TR[je]MA[ha]MA[la])
+(;W[jd];B[je]
+(;W[ha];B[la]TR[ia]TR[ja])
+(;W[la];B[ha]TR[ja]TR[ka])
+(;W[ja];B[jb]MA[ka]MA[la]MA[ha]MA[ia]C['A' was not a vital point.]LB[ja:A])
+(;W[jb];B[ja]TR[ha]TR[la])
+(;W[jc];B[ja]TR[ha]TR[la])
+(;W[ia];B[ja])
+(;W[ka];B[ja])
+(;W[ie];B[ha]TR[jb]TR[jc]MA[ka]MA[la]))
+(;W[ga];B[je]
+(;W[ha];B[la]TR[ia]TR[ja])
+(;W[la];B[ha]TR[ja]TR[ka])
+(;W[ja];B[la]TR[jb]TR[jc]MA[ha]MA[ia]C['A' was not a vital point.]LB[ja:A])
+(;W[ie];B[la]MA[ha]MA[ia]TR[jb]TR[jc]))
+(;W[ma];B[je]
+(;W[la];B[ha]TR[ja]TR[ka])
+(;W[ha];B[la]TR[ia]TR[ja])
+(;W[ja];B[ha]TR[jb]TR[jc]MA[ka]MA[la]C['A' was not a vital point.]LB[ja:A])
+(;W[ie];B[ha]MA[ka]MA[la]TR[jb]TR[jc]))
+(;W[ie];B[je]
+(;W[ha];B[la]TR[ia]TR[ja])
+(;W[la];B[ha]TR[ja]TR[ka])
+(;W[ja];B[ha]TR[jc]TR[jb]MA[ka]MA[la]C['A' was not a vital point.]LB[ja:A])
+(;W[jb];B[ja]TR[ha]TR[la])
+(;W[jc];B[ja]TR[ha]TR[la]))
+(;W[ia];B[ja]MA[ha]MA[la]TR[jd]TR[je])
+(;W[ka];B[ja]MA[ha]MA[la]TR[jd]TR[je]))

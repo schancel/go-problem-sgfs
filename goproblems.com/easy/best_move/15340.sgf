@@ -1,0 +1,11 @@
+(;GE[best move]DI[7k]DP[42]SO[elentarwon]CO[0]SZ[9]AB[ie]AB[if]AB[hf]AB[gf]AB[ge]AB[fe]AB[fd]AB[ed]AB[ec]AB[eb]AB[ea]AB[fa]AW[gd]AW[hc]AW[id]AW[he]AW[fc]AW[fb]AW[gb]AW[hd]C[Quick! What can black do to white here?]LB[ie:1]LB[hd:2]AP[goproblems]
+(;B[hb];W[ha]
+(;B[ib];W[ga]C[Sente seki!RIGHT])
+(;B[ga];W[ib]C[White lives.]))
+(;B[ga];W[ha]C[White lives.])
+(;B[ha];W[hb]
+(;B[ga];W[ib]C[White lives.])
+(;B[ib];W[ga]C[White lives. ]))
+(;B[ib];W[hb]
+(;B[ha])
+(;B[ga];W[ha]C[White lives.])))

@@ -1,0 +1,22 @@
+(;GE[best move]DI[3k]DP[26]SO[Bleedo]CO[0]AB[cd]AB[bd]AB[dd]AB[ae]AB[bf]AB[cf]AW[be]AW[ce]AW[de]AW[bg]AW[cg]AW[ef]AW[ee]AW[ed]AW[eg]AW[fg]AB[fd]AB[fe]AB[ff]AB[gf]AB[gg]AW[gh]AW[hh]AW[hg]AW[hf]AW[ge]AW[hd]AW[hc]AB[gc]AB[ec]AB[eb]AW[db]AW[dc]AW[bc]AW[bb]AB[ba]AB[da]TR[ba]C[Black just played the triangle move, does it threaten D18? (Y/N)]LB[ci:Y]LB[ei:N]AB[gb]AB[hb]AP[goproblems]
+(;W[ei];B[ab]C[Prove it]
+(;W[ac];B[cb])
+(;W[cb];B[ac])
+(;W[cc];B[ad];W[ca];B[cb]C[Ko])
+(;W[ad];B[ac])
+(;W[ca];B[cb]))
+(;W[ci];B[ei]AB[bg]AB[cg]AW[bf]AW[cf]AB[be]AB[ce]AB[de]AB[ef]AB[eg]AB[fg]AB[ee]AB[ed]AW[bd]AW[cd]AW[dd]AB[bc]AB[bb]AW[ba]AW[da]AB[dc]AB[db]AW[eb]AW[ec]AW[fd]AW[fe]AW[ff]AW[gf]AW[gg]AB[gh]AB[hh]AB[hg]AB[hf]AB[ge]AB[hd]AB[hc]AW[gc]AW[ae]C[Prove it]AW[gb]AW[hb]
+(;W[ac];B[cc];W[ab];B[ad];W[bd];B[ca];W[cb]C[White has a shortage of liberties and won't be able to save B16 or A15.])
+(;W[cb];B[cc]
+(;W[ac];B[ad];W[bd];B[ab])
+(;W[ad];B[ab]
+(;W[ca];B[ag])
+(;W[af]C[]
+(;B[ag]))
+(;W[ea];B[ag]))
+(;W[ab];B[ad])
+(;W[ca];B[ad]))
+(;W[cc];B[cb];W[ad];B[ag])
+(;W[ab];B[cc]
+(;W[ad];B[ca]C[KoRIGHT])
+(;W[ac];B[ad];W[bd];B[ca]C[White has a shortage of liberties and won't be able to save B16 or A15.]))))

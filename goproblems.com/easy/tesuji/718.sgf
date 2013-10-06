@@ -1,0 +1,62 @@
+(;GE[tesuji]DI[4k]DP[29]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;AW[nc][oc][pd][ne][pe][qe][re][se]
+AB[nb][ob][lc][mc][pc][qd][rd]PL[2]
+C[white's best move in the corner?
+]
+(;W[pb];B[qc]
+(;W[qb];B[rb]
+(;W[rc];B[sc];W[sd];B[rc];W[ra]C[RIGHT
+])
+
+(;W[sd];B[rc]
+(;W[ra];B[pa])
+
+(;W[oa];B[qa])
+
+(;W[sc];B[pa])
+)
+
+(;W[sc];B[qa])
+
+(;W[ra];B[pa])
+)
+
+(;W[sd];B[qb])
+
+(;W[rb];B[qb])
+
+(;W[rc];B[qb])
+
+(;W[oa];B[qb])
+)
+
+(;W[qc];B[pb]
+(;W[qb];B[qa]
+(;W[rb];B[ra]C[not best
+])
+
+(;W[ra];B[rb];W[pa];B[rc];W[qa];B[oa])
+
+(;W[rc];B[rb]C[not best
+])
+)
+
+(;W[rc]C[not best
+])
+)
+
+(;W[qb];B[pb]C[not best
+])
+
+(;W[rb];B[qb])
+
+(;W[sd];B[qb])
+
+(;W[sc];B[qb])
+
+)

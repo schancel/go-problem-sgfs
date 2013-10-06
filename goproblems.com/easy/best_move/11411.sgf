@@ -1,0 +1,4 @@
+(;GE[best move]DI[7k]DP[41]SO[hikaru16]CO[0]AB[pd]AB[ed]AB[fd]AB[gd]AB[ce]AB[cr]AB[dr]AB[dq]AB[ep]AB[fq]AB[gq]AB[go]AB[io]AB[jo]AB[dn]AB[cn]AB[cm]AB[dl]AB[ck]AB[bk]AW[bl]AW[cl]AW[dm]AW[em]AB[eo]AW[en]AW[gm]AW[jm]AW[jp]AW[lp]AW[qp]AW[dc]AW[ec]AW[fc]AW[do]AW[dp]AW[cp]AW[cq]AW[br]AW[ds]AW[er]AW[eq]LB[ko:A]LB[kp:B]C[Should black extend at A or wedge at B.]AP[goproblems]
+(;B[ko]C[You should extend at A because if you wedge the stone will be put into atari and giving the opponent the offensive.RIGHT])
+(;B[kp]C[]
+(;W[ko]TR[kq]C[This happened in the game. Play at the triangle to see what happened after the play];B[kq];W[lq]AB[jq]AB[jr]AW[kr]AW[bd]AW[jn]AB[kn]AW[lo]AB[pj]AW[pl]AB[ob]AW[nc])))

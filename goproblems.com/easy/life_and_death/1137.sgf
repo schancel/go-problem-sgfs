@@ -1,0 +1,110 @@
+(;GE[life and death]DI[10k]DP[51]SO[BigMetalGuy]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]TM[]
+PW[White]PB[Black]AW[ea][db][fb][dc][gc][bd][cd][cf]AB[eb][bc][cc][ec][dd][ed][fe]C[Black to play to save its two stones in the corner. (Sacrificing a stone is necessary to get two eyes.) ]
+(;B[da]CR[da]
+;W[ca]CR[ca]
+(;B[cb]CR[cb]
+;W[da]CR[da]
+;B[ba]CR[ba]
+;W[fa]CR[fa]
+(;B[ab]CR[ab]C[RIGHT Black 1 is a Tesuji to make two eyes. By sacrificing a stone at D1, Black can play C12 and B13 in Sente and get two eyes with A12. ])
+(;B[fc]CR[fc]
+;W[ac]CR[ac]
+(;B[gb]CR[gb]
+;W[bb]CR[bb]C[F11 starts a capture race that Black can't win. White A11 wins the corner without losing a single stone.])
+(;B[bb]CR[bb]
+;W[ab]CR[ab]
+;B[gb]CR[gb]
+;W[aa]CR[aa]C[F11 starts a capture race that Black can't win. White A11 wins the corner without losing a single stone.])))
+(;B[ba]CR[ba]
+;W[bb]CR[bb]
+(;B[cb]CR[cb]
+;W[ac]CR[ac]C[White gets the corner.])
+(;B[ab]CR[ab]
+;W[aa]CR[aa]
+(;B[ad]CR[ad]
+;W[ac]CR[ac]
+;B[be]CR[be]
+;W[cb]CR[cb]C[White gets the corner.])
+(;B[cb]CR[cb]
+;W[ac]CR[ac]C[This position is bad for Black.]))
+(;B[ac]CR[ac]
+;W[ad]CR[ad]
+(;B[cb]CR[cb]
+;W[ab]CR[ab]C[White gets the corner.])
+(;B[ab]CR[ab]
+;W[aa]CR[aa]C[Black's four stones are dead.])
+(;B[aa]CR[aa]
+;W[ab]CR[ab]C[White gets the corner.]))))
+(;B[cb]CR[cb]
+;W[da]CR[da]
+;B[ca]CR[ca]
+;W[fa]CR[fa]
+(;B[ab]CR[ab]
+;W[ba]CR[ba]C[Black cannot make two eyes.])
+(;B[ba]CR[ba]C[Black cannot make two eyes.])
+(;B[fc]CR[fc]
+;W[gb]CR[gb]
+;B[ab]CR[ab]
+;W[ba]CR[ba])
+(;B[ad]CR[ad]
+;W[ae]CR[ae]
+;B[ac]CR[ac]
+;W[ba]CR[ba])
+(;B[be]CR[be]
+;W[ce]CR[ce]
+;B[ad]CR[ad]
+;W[bf]CR[bf]
+;B[ab]CR[ab]
+;W[ba]CR[ba]))
+(;B[ca]CR[ca]
+;W[da]CR[da]
+(;B[cb]CR[cb]
+;W[fa]CR[fa]
+(;B[ab]CR[ab]
+;W[ba]CR[ba]
+(;B[aa]CR[aa]
+;W[ad]CR[ad]
+(;B[bb]CR[bb]
+;W[ac]CR[ac])
+(;B[ac]CR[ac]
+;W[bb]CR[bb]))
+(;B[bb]CR[bb]
+;W[ac]CR[ac]
+;B[ad]CR[ad]
+;W[ae]CR[ae]
+(;B[ac]CR[ac]
+;W[aa]CR[aa])
+(;B[aa]CR[aa]
+;W[ac]CR[ac]))
+(;B[ad]CR[ad]
+;W[ae]CR[ae]
+;B[be]CR[be]
+;W[ac]CR[ac]
+;B[bb]CR[bb]
+;W[aa]CR[aa]))
+(;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[ac]CR[ac]
+;W[ad]CR[ad]
+(;B[bb]CR[bb]
+;W[aa]CR[aa])
+(;B[aa]CR[aa]
+;W[bb]CR[bb]))
+(;B[ac]CR[ac]
+;W[aa]CR[aa])
+(;B[gb]CR[gb]
+(;W[fc]CR[fc]C[CHOICE])
+(;W[hb]CR[hb]
+;B[fc]CR[fc]
+;W[ga]CR[ga]C[CHOICE])))
+(;B[ab]CR[ab]
+;W[cb]CR[cb]
+;B[bb]CR[bb]
+;W[ba]CR[ba])
+(;B[fa]CR[fa]
+;W[ga]CR[ga]
+;B[cb]CR[cb]
+;W[fa]CR[fa]
+;B[ab]CR[ab]
+;W[ba]CR[ba])))

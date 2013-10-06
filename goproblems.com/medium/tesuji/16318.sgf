@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[2d]DP[14]SO[kuche12345]CO[0]AW[aq]AW[bq]AW[cq]AW[ap]AB[ao]AB[bo]AB[bp]AB[cp]AW[bm]AW[dp]AW[ep]AW[dn]AW[en]AB[dq]AB[eq]AB[er]AB[es]AW[dr]AW[cs]AB[fp]AB[gq]C[Black to connect his stones (if you cannot find other solution, ko works)]AP[goproblems]
+(;B[ds];W[bn];B[cr];W[co])
+(;B[br];W[ar]
+(;B[bs];W[bn];B[ds];W[co];B[cr];W[an])
+(;B[ds];W[bs];B[cr];W[dr];B[cr];W[bn];B[dr];W[co]))
+(;B[ar];W[br];B[ds];W[bn];B[cr]C[ko :)RIGHT])
+(;B[cr];W[br];B[ds];W[bn];B[cr];W[co])
+(;B[bs];W[bn])
+(;B[as];W[co]))

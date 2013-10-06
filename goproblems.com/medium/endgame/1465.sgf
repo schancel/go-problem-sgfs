@@ -1,0 +1,160 @@
+(;GE[endgame]DI[3d]DP[10]SO[varg]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[9]HA[0]KM[0.5]
+PW[]
+PB[]
+GN[ (W) vs.  (B)]
+DT[2002-04-28]
+SY[Cgoban 1.9.5]TM[-];PL[1]
+C[Black has played at A and white answered servile at B. There is a 0.5 komi
+and no captures were made. How does black win now? ] LB[ag:A]
+AW[fb][hb][fc][ed][de][fe][ge][he][ie][cf][ef][bg][cg][dg][eg][fg][ig][ah][dh][di]
+AB[cb][eb][bc][ec][cd][dd][be][ce][bf][ff][gf][hf][if][ag][gg][eh][fh][gh][ei]
+LB[ah:B]
+(;B[af]PL[2]C[
+];W[hh]
+C[This move is worth 7 points in gote. B2 is only 5 points in gote. So white didn´t answer a4.
+
+]
+(;B[hi];W[gi];B[fi];W[ih]
+C[White gets a gote seki and wins the game by half a point.
+This seki is worth 7 points in gote. 
+])
+
+(;B[hg]
+(;W[hi];B[ih];W[gi]
+C[White gets a gote seki and wins the game by half a point.
+White made 7 points in gote here
+])
+
+(;W[gi];B[ih];W[hi]
+C[White gets a gote seki and wins the game by half a point.
+White made 7 points in gote here
+])
+)
+
+(;B[ih];W[hi];B[hg];W[gi]
+C[White gets a gote seki and wins the game by half a point.
+White made 7 points in gote here
+])
+
+(;B[gi];W[hi];B[ih];W[ii]
+C[White gets a gote seki here. B G1 wasted another two points compared with B H1 for example. White wins by 2.5 now.
+])
+)
+
+(;B[fa];W[ga]
+C[White should´t play here (compare the B a4, W h2 path), but even this proves the black move wrong: Black E9 and he has gotten only 2 points in gote. The lower left is bigger. 
+And if Black tenuki (plays elsewhere) he has gained nothing on the upper side (actually he lost something there).
+])
+
+(;B[gi];W[af]C[G1 leaves bad aji in that corner.
+]
+(;B[fa];W[ga];B[ea];W[ae];B[ad];W[ag]C[White wins by half a point
+])
+
+(;B[ae];W[ea]C[White cannot avoid the ko at a3 or he looses.
+];B[da];
+W[fa];B[ag];W[db];B[dc];W[af]
+C[Now it dawns to black that he had been too carelessly about the lower right (W h2 is a ko threat)
+]
+;B[fd];W[gd];B[ag];W[hh]
+(;B[bh];W[hi];B[ih];W[ii]
+C[Seki. Blacks gain in the other corner doesn´t make up for it.
+])
+
+(;B[af];W[hi];B[ih];W[ii]
+C[Seki. Blacks gain in the lower left does´t make up for it.
+])
+)
+)
+
+(;B[hi];W[af]C[H1 leaves bad aji in that corner.
+]
+(;B[fa];W[ga];B[ea];W[ae];B[ad];W[ag]C[White wins by half a point
+])
+
+(;B[ae];W[ea]C[White cannot avoid the ko at a3 or he looses.
+];B[da];
+W[fa];B[ag];W[db];B[dc];W[af]
+C[Now it dawns to black that he had been too carelessly about the lower right (W h2 is a ko threat)
+]
+;B[fd];W[gd];B[ag];W[hh]
+(;B[bh];W[gi];B[fi];W[ih]
+C[Seki. Blacks gain in the other corner doesn´t make up for that.
+])
+
+(;B[af];W[gi];B[fi];W[ih]
+C[Seki. Blacks gain in the other corer doesn´t make up for it.
+])
+)
+)
+
+(;B[hg];W[af]C[H3 leaves bad aji in that corner.
+]
+(;B[fa];W[ga];B[ea];W[ae];B[ad];W[ag]
+C[Sorry, but Black could not avoid the ko at a4. White wins by half a point
+])
+
+(;B[ae];W[ea]C[White cannot avoid the ko at a3 or he looses.
+];B[da];
+W[fa];B[ag]C[
+];W[db];B[dc];W[af]
+C[Now it dawns to black that he has been too carelessly about the lower right corner
+(White H2 is a ko threat)
+]
+;B[fd];W[gd];B[ag];W[hh]
+(;B[af];W[hi];B[ih];W[gi]C[Seki
+])
+
+(;B[bh];W[hi];B[ih];W[gi]C[Seki
+])
+)
+)
+
+(;B[ih];W[af]C[J2 leaves bad aji in that corner.
+]
+(;B[fa];W[ga];B[ea];W[ae];B[ad];W[ag]C[White wins by half a point
+])
+
+(;B[ae];W[ea]C[White cannot avoid the ko at a3 or he looses.
+];B[da];
+W[fa];B[ag];W[db];B[dc];W[af]
+C[Now it dawns to black that he had been too carelessly about the lower right (W h2 is a ko threat)
+]
+;B[fd];W[gd];B[ag];W[hh]
+(;B[bh];W[hi]
+(;B[hg];W[gi]C[Seki
+])
+
+(;B[gi];W[ii]C[Seki
+])
+)
+
+(;B[af];W[hi]
+(;B[hg];W[gi]C[Seki
+])
+
+(;B[gi];W[ii]C[Seki
+])
+)
+)
+)
+
+(;B[hh];W[af]
+C[Black has catched himself just in time and changed his play to the correct
+place (H2). Both players should have played there instead of A and B at the
+problem start. You got it right. Just proceed for 2 or 3 moves. ]
+(;B[ae];W[ea];B[da];W[fa];B[ag]
+C[RIGHT
+None of the players could avoid the ko at a3.
+Now you see why H2 is the only correct move in the lower right. This way white
+has only one ko threat at d8 (the c9 threat later is too small). So black wins this
+ko (he has a threat himself at f6) and thus the game. 
+])
+
+(;B[fa];W[ga];B[ea];W[ae];B[ad];W[ag]
+C[Sorry, but black could not avoid the ko at a3. White wins by half a point.
+])
+)
+
+)

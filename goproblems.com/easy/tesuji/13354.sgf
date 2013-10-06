@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[7k]DP[41]SO[hinoyasu]CO[0]AW[pb]AW[pc]AB[qc]AB[qd]AB[pd]AB[oc]AB[nc]AB[nd]AW[od]AW[oe]AW[pe]AW[qe]C[White to get a ko]AP[goproblems]
+(;W[qb];B[rb]
+(;W[rc];B[rd];W[sb]
+(;B[sc];W[ra]C[Well done =)RIGHT]))
+(;W[sb];B[ra]
+(;W[rc];B[rd];W[sd];B[sc]C[RIGHT])
+(;W[rd];B[rc];W[sc]
+(;B[ob])))
+(;W[ra];B[sb]
+(;W[rd];B[rc];W[se]C[White can start a ko for life.RIGHT])
+(;W[se];B[rc];W[rd]C[White can start a ko for life.RIGHT]))
+(;W[sc]
+(;B[rc];W[ra];B[sd]C[Black wins the semeai.])))
+(;W[rd];B[rc];W[sc];B[sb]C[Black lives, no interesting koCHOICE])
+(;W[rc];B[rb];W[rd];B[qb];W[sb];B[pa]C[!CHOICE])
+(;W[sb];B[rb];W[ra]))

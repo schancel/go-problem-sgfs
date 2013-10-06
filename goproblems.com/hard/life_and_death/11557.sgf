@@ -1,0 +1,77 @@
+(;GE[life and death]DI[4d]DP[8]SO[MeleeNewb]CO[0]AB[dd]AB[cf]AW[be]AW[ce]AB[bf]AB[de]AW[cc]AW[cb]AW[db]AB[dc]AB[eb]AB[fc]AW[an]AW[bn]AW[cn]AW[dn]AB[ck]AB[dk]AB[ch]AB[ae]AW[ad]AW[bd]AB[ac]C[Okay black, you need to take white down. Want to do it the easy way or the hard way?FORCE]LB[gf:Easy]LB[gh:Hard]AW[ak]AW[hd]AW[hc]AW[hb]AW[ha]AP[goproblems];B[gh];W[gf]C[It appears the easy button is broken. Oh well. The hard way it is.]LB[cd:X]LB[ab:X]
+(;B[bc];W[cd]
+(;B[da];W[af]
+(;B[bb];W[ba];B[ab];W[ah]C[White doesn't want to play the ko at a11, and tries to connect this way instead. Do not play pointless forcing moves (b13).]
+(;B[al];W[bl]
+(;B[aj];W[bk]
+(;B[bj]C[Good job!RIGHT])
+(;B[bi];W[bi]C[Stop goofing around.]
+(;B[bi])
+(;B[bj]C[Good job!RIGHT])))
+(;B[bk];W[aj]C[Oh no! White is out!]))
+(;B[aj];W[bj]
+(;B[al];W[bk]
+(;B[bl];W[bi]C[Well you stopped white from connecting out, but you needed to kill her group as well.])
+(;B[bi];W[ai];B[bl];W[cj];B[dj];W[ci]C[Uh-oh]))
+(;B[bk];W[al]C[Oh no, white is out!]))
+(;B[ai];W[bi]C[Oh no, white is out!])
+(;B[bk];W[aj]C[And white connects out.]))
+(;B[bg];W[ab])
+(;B[bh];W[ab])
+(;B[ah];W[ab])
+(;B[bi];W[ab])
+(;B[ag];W[ab])
+(;B[ai];W[ab])
+(;B[bj];W[ab])
+(;B[aj];W[ab])
+(;B[bk];W[ab])
+(;B[al];W[ab])
+(;B[bl];W[ab])
+(;B[ca];W[ba]
+(;B[ea];W[ab])
+(;B[ab];W[ea];B[da];W[fa]))
+(;B[ab];W[bb]
+(;B[ca];W[aa];B[ac];W[ah]C[White doesn't want to play the ko at a11 and tries to connect this way instead. Avoid pointless forcing moves (b13).]
+(;B[aj];W[bj]
+(;B[al];W[bk];B[bl];W[bi])
+(;B[bk];W[al])
+(;B[bi];W[ai]))
+(;B[al];W[bl]
+(;B[bk];W[aj])
+(;B[aj];W[bk]
+(;B[bj]C[Good job.RIGHT])
+(;B[bi];W[bi]C[Stop goofing around.]
+(;B[bi])
+(;B[bj]C[Good job.RIGHT]))))
+(;B[ai];W[bi])
+(;B[bk];W[aj]))
+(;B[ba];W[aa];B[ab];W[ca]))
+(;B[ba];W[ca]
+(;B[ab];W[ea];B[fa];W[bb])
+(;B[bb];W[ea];B[fa];W[ab]))
+(;B[aa];W[ba]))
+(;B[bb];W[ba]
+(;B[da];W[ab])
+(;B[ab];W[da]))
+(;B[ab];W[bb];B[da];W[aa]
+(;B[ca];W[ac])
+(;B[ac];W[ca]))
+(;B[ba];W[bb]C[];B[da];W[aa];B[ab];W[aa];B[ab];W[ca])
+(;B[ca];W[ba])
+(;B[aa];W[ba]))
+(;B[cd]C[NOTTHIS])
+(;B[bb];W[ba];B[da];W[ab];B[aa];W[bc];B[ca];W[ab])
+(;B[ba];W[ab]
+(;B[da];W[ca]
+(;B[bb];W[bc])
+(;B[cd];W[bc]))
+(;B[bb];W[bc];B[da];W[ca])
+(;B[cd];W[bc]))
+(;B[ab]C[NOTTHIS])
+(;B[da];W[ab])
+(;B[ca];W[ba])
+(;B[aa];W[da]
+(;B[ba];W[bc]
+(;B[bb];W[ca])
+(;B[ab];W[ca]))
+(;B[bb];W[ba];B[ca];W[bc])))

@@ -1,0 +1,29 @@
+(;GE[life and death]DI[4d]DP[7]SO[nyuves]CO[0]AW[dd]AW[ec]AW[ce]AW[fd]AB[fc]AW[jd]AW[kc]AW[lc]AB[ld]AB[mc]AB[oc]AB[qd]AB[rd]AB[pe]AB[oe]AB[lf]AB[lg]AB[lh]AB[kg]AW[jf]AW[jg]AW[jh]AW[kh]AW[ji]AW[jj]AW[kk]AW[kl]AW[ll]AW[ml]AW[mm]AW[lj]AW[li]AW[mj]AW[nj]AW[nk]AB[mi]AB[ni]AW[mh]AB[oj]AB[pj]AB[ok]AW[pk]AB[nl]AB[nm]AB[ql]AB[qk]AB[rk]AW[qj]AW[rj]AW[qi]AW[pf]AW[qf]AW[qe]AW[re]AB[mn]AB[lm]AB[kn]AB[jl]AB[lp]AB[mp]AW[np]AW[no]AW[po]AW[oq]AB[nq]AB[nr]AB[or]AB[pq]AB[qp]AW[mq]AW[jp]AW[dp]AW[eq]AW[co]AW[fp]AB[fq]AB[cm]AB[cj]AB[cg]TR[rj]AB[oh]C[White is trying to make a base on the right side of the board. Black to show him that is a bad idea ;)]AP[goproblems]
+(;B[rh];W[qh]
+(;B[sj];W[si]
+(;B[sh];W[rg])
+(;B[se]
+(;W[rg];B[sf]C[Right! Q13 and T13 are miai for white!RIGHT]TR[sg]TR[pg])
+(;W[sf];B[rg]C[Right no room for making 2 eyes!RIGHT]))
+(;B[rg]C[This is also correct!RIGHT]))
+(;B[rg];W[pg];B[sg];W[se];B[qg];W[sh];B[sj]C[Correct!RIGHT]))
+(;B[qh];W[rh]
+(;B[qg];W[rg];B[si];W[sj];B[se];W[sf];B[sd];W[ph]C[White lives])
+(;B[rg];W[qg];B[sh];W[ri];B[sj];W[ph];B[si];W[pi]
+(;B[og]C[White has only one eye!];W[oi])
+(;B[oi];W[og];B[of]C[Right!RIGHT])))
+(;B[rg]
+(;W[rh];B[qg];W[pg]C[White lives!];B[qh];W[ph];B[sh];W[ri];B[sj];W[rf];B[si];W[sg];B[se];W[qg])
+(;W[qg];B[qh];W[rh];B[ph];W[sg]C[White lives!]))
+(;B[sh]
+(;W[si]
+(;B[sf];W[se];B[rg];W[rh];B[sg];W[qg])
+(;B[qh];W[rh];B[rg];W[sg];B[qg];W[ph];B[pg];W[pi];B[og]C[RIGHT]))
+(;W[sj];B[sg];W[se];B[qh];W[ph];B[rg];W[rh];B[ri];W[si];B[rh]
+(;W[pg];B[pi]C[White dead!RIGHT])
+(;W[pi]C[RIGHT];B[pg]C[Good!RIGHT])))
+(;B[ph];W[qh];B[rg];W[qg];B[sh];W[rh];B[si];W[sj];B[sg];W[sf]C[White lives!])
+(;B[qg];W[rg];B[rh];W[qh];B[sg];W[pg];B[se];W[sf];B[rf];W[ri];B[qg];W[si];B[sd];W[sh];B[sf];W[rg]C[White lives!])
+(;B[sj];W[si];B[sh];W[ri];B[sf];W[se];B[rg]
+(;W[rf];B[sg];W[pg];B[ph];W[qh];B[rh]C[Dead shape!RIGHT])
+(;W[ph]C[RIGHT];B[pi];W[qh];B[og];W[pg];B[rh]C[RIGHT])))

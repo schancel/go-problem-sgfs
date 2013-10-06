@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[31]SO[Trucid]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[da][bb][cb][fb][cc][fc][cd][dd][ed]AB[ga][ab][gb][bc][gc][bd][fd][gd][ce][de][ee][fe]C[Black to play]
+(;B[eb]CR[eb]
+;W[ec]CR[ec]
+(;B[db]CR[db]
+;W[ba]CR[ba]
+(;B[fa]CR[fa]C[RIGHT Black connects out])
+(;B[ea]CR[ea]
+;W[fa]CR[fa]
+;B[ca]CR[ca]C[Ko. Black can do better.]))
+(;B[fa]CR[fa]
+;W[db]CR[db]TR[ba][ea]C[Miai for life]))
+(;B[fa]CR[fa]
+;W[eb]CR[eb]TR[ba][dc]C[Miai for life])
+(;B[dc]CR[dc]
+;W[eb]CR[eb]TR[ba][fa]C[Miai for life])
+(;B[ba]CR[ba]
+;W[eb]CR[eb]
+(;B[fa]CR[fa]
+;W[dc]CR[dc]C[Alive])
+(;B[dc]CR[dc]
+;W[fa]CR[fa]C[Alive])))

@@ -1,0 +1,119 @@
+(;GE[elementary]DI[15k]DP[64]SO[Trehek]CO[7]GM[1]
+FF[3]
+RU[Japanese]
+SZ[13]
+HA[0]
+KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28
+SY[Cgoban 1.9.2]
+TM[30:00(5x1:00)];
+AB[dd][dj][jd][fg][gg]
+AW[dg][ff][gf][fh][gh][ig][jj]
+C[Don't let the black stones in the middle escape]
+(;W[eg];B[hg]
+ (;W[hf];B[hh]
+  (;W[ih];B[hi]C[Black gains enough liberties to fight back.])
+  (;W[hi];B[ih]
+   (;W[ii];B[jh]C[Black gains enough liberties to fight back.])
+   (;W[jh];B[ii]
+    (;W[dc];B[ji]AW[cd][ed][de]C[Successful backstab! Too bad black's middle group escaped!])
+    (;W[cc];B[ji]AB[cd][dc][bd][db][bc][bb][cb]C[An assassin, how sneaky! Guards! Arrest him!!])
+    (;W[ji];B[ij]
+     (;W[hj];B[ik]C[Black gains enough liberties to fight back.])
+     (;W[ik];B[hj]C[Black threatens the white stone and has time to escape.])
+    )
+    (;W[ij];B[ji]
+     (;W[ki]C[RIGHTAfter months of fighting, black troops catch Shicho-disease. Very deadly!])
+ ))))
+ (;W[hh];B[hf]
+  (;W[he];B[if]
+   (;W[jf];B[ie]
+    (;W[id];B[je]C[Black connects and is safe.])
+    (;W[je];B[id]C[Black connects and is safe.])
+))))
+
+
+(;W[hg];B[eg]
+ (;W[ef];B[eh]
+  (;W[ei];B[dh]
+   (;W[ch];B[di]C[Black connects and is safe.])
+   (;W[di];B[ch]C[Black gains enough liberties to fight back.])
+ ))
+ (;W[eh];B[ef]
+  (;W[ee];B[df]
+   (;W[cf];B[de]C[Black connects and is safe.])
+   (;W[de];B[cf]C[Black gains enough liberties to fight back.])
+)))
+
+
+(;W[ef];B[hg]
+ (;W[hf];B[hh]
+  (;W[ih];B[hi]C[Black gains enough liberties to fight back.])
+  (;W[hi];B[ih]
+   (;W[ii];B[jh]C[Black gains enough liberties to fight back.])
+   (;W[jh];B[ii]
+    (;W[ji];B[ij]
+     (;W[hj];B[ik]C[Black gains enough liberties to fight back.])
+     (;W[ik];B[hj]C[Black threatens the white stone and has time to escape.])
+    )
+    (;W[ij];B[jg]C[Blacks liberties allow him to cut through white's lines. White can do better.])
+     
+ ))))
+ (;W[hh];B[hf]
+  (;W[he];B[if]
+   (;W[jf];B[ie]
+    (;W[id];B[je]C[Black connects and is safe.])
+    (;W[je];B[id]C[Black connects and is safe.])
+)))
+
+
+(;W[eh];B[hg]
+ (;W[hf];B[hh]
+  (;W[ih];B[hi]C[Black gains enough liberties to fight back.])
+  (;W[hi];B[ih]
+   (;W[ii];B[jh]C[Black gains enough liberties to fight back.])
+   (;W[jh];B[ii]
+    (;W[ji];B[ij]
+     (;W[hj];B[ik]C[Black gains enough liberties to fight back.])
+     (;W[ik];B[hj]C[Black threatens the white stone and has time to escape.])
+    )
+    (;W[ij];B[jg]C[Blacks liberties allow him to cut through white's lines. White can do better.])
+ ))))
+ (;W[hh];B[hf]
+  (;W[he];B[if]
+   (;W[jf];B[ie]
+    (;W[id];B[je]C[Black connects and is safe.])
+    (;W[je];B[id]C[Black connects and is safe.])
+)))
+
+
+(;W[hf];B[eg]
+ (;W[ef];B[eh]
+  (;W[ei];B[dh]
+   (;W[ch];B[di]C[Black connects and is safe.])
+   (;W[di];B[ch]C[Black gains enough liberties to fight back.])
+ ))
+ (;W[eh];B[ef]
+  (;W[ee];B[df]
+   (;W[cf];B[de]C[Black connects and is safe.])
+   (;W[de];B[cf]C[Black gains enough liberties to fight back.])
+)))
+
+
+(;W[hh];B[eg]
+ (;W[ef];B[eh]
+  (;W[ei];B[dh]
+   (;W[ch];B[di]C[Black connects and is safe.])
+   (;W[di];B[ch]C[Black gains enough liberties to fight back.])
+ ))
+ (;W[eh];B[ef]
+  (;W[ee];B[df]
+   (;W[cf];B[de]C[Black connects and is safe.])
+   (;W[de];B[cf]C[Black gains enough liberties to fight back.])
+)))
+
+
+)

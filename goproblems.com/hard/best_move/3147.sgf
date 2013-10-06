@@ -1,0 +1,213 @@
+(;GE[best move]DI[5d]DP[6]SO[coastside]CO[7]GM[1]FF[4]CA[UTF-8]AP[gGo:0.3.9]ST[1]
+SZ[19]KM[5.5]
+PW[White]PB[Black]
+AB[cc][dd][df][kc]AW[db][fc][ic]TR[kc]MA[dj]LB[fd:C][gc:A][gd:D][ge:F][hc:B][hd:E]C[Black would like to develop on the left side.  He could extend to the point marked, but before he does there are some forcing plays he can make against the white group, especially given the presence of the marked black stone.   How should black force white before extending on the left side, starting with one of the moves A to F.]
+(
+;B[gc]
+(
+;W[hc]C[CHOICE]
+(
+;B[fb]
+(
+;W[eb]C[CHOICE]
+(
+;B[fd]
+;W[ec]
+(
+;B[gd]
+;W[gb]LB[ed:A]C[This sequence is ok, but the weakness at A makes it less effective than the alternative correct variation if black wants to emphasize the left side.  In any case, there is a gote followup to this sequence that will completely seal white to the side. What is it?]
+;B[hb]
+;W[fa]
+;B[ib]
+;W[jb]
+;B[jc]
+;W[ia]
+;B[id]
+;W[ha]
+;B[hd]C[WRONG Although this final sequence is gote, now white is completely sealed in.  Unless the center becomes unimportant, white is not likely to give black the opportunity to play this sequence, however.]
+)
+(
+;B[gb]
+;W[gd]C[WRONG White captures black's three stones.]
+)
+(
+;B[hb]
+;W[gd]
+;B[gb]
+;W[ib]C[WRONG White captures black's three stones.]
+)
+)
+(
+;B[gb]
+;W[gd]C[WRONG White captures black's three stones.]
+)
+(
+;B[gd]
+;W[gb]
+(
+;B[fd]
+(
+;W[ec]TR[gd]LB[dj:B][fa:A][fd:C]C[ This order of moves is wrong, since white could have optionally played at A or even possibly tenuki at B instead.  Better to play the marked stone as the atari at C to reduce white's options.]
+)
+(
+;W[fa]
+)
+(
+;W[dj]
+)
+)
+(
+;B[hb]
+;W[fa]
+;B[ib]
+;W[jb]
+;B[jc]
+;W[ha]
+;B[id]
+;W[ia]
+;B[hd]
+;W[dj]LB[fd:A]C[ Ends in gote and still has a major weakness at A.]
+)
+)
+(
+;B[hb]
+;W[gd]
+;B[gb]
+;W[ib]C[WRONG White captures black's three stones.]
+)
+)
+(
+;W[gb]
+;B[ec]
+;W[gd]
+;B[eb]C[WRONG White would only play this way if he is willing to give black the corner.]
+)
+)
+(
+;B[gd]
+;W[gb]
+(
+;B[fb]
+;W[eb]
+;B[fd]
+;W[ec]TR[gd]LB[dj:B][fa:A][fb:C]C[ This order of moves is wrong, since white could have optionally played at A or even possibly tenuki at B instead.  Better to play the triangled stone at C to reduce white's options.]
+)
+(
+;B[fd]
+;W[ec]LB[ed:A]C[WRONG At minimum, black could do better in terms of creating aji against the top group. Also leaves a weakness at A.]
+)
+)
+(
+;B[gb]
+;W[gd]C[WRONG no way for black to save his two stones.]
+)
+(
+;B[hb]
+;W[gd]
+;B[gb]
+;W[ib]C[WRONG Black's stones are dead.]
+)
+)
+(
+;W[gb]
+;B[fb]
+;W[gd]
+;B[ec]
+;W[hc]
+;B[eb]C[WRONG White would only play this way if he is willing to give black the corner.]
+)
+)
+(
+;B[hc]
+;W[hd]LB[gc:B][hb:A]C[ This move certainly attacks white, but leaves many options for white to respond, such as here or at A or even B.  If black wants to emphasize the left side, there is a more straightforward way to force white.]
+)
+(
+;B[fd]
+;W[gc]
+(
+;B[gd]
+;W[hd]C[ Helps white too much.]
+)
+(
+;B[hd]
+;W[gd]LB[hc:A]C[WRONG This isn't reasonable.  Black can't expect white to answer at A.]
+)
+(
+;B[ec]
+;W[eb]C[WRONG Just because a move is sente doesn't mean it is a good move.]
+)
+)
+(
+;B[gd]
+;W[gc]
+(
+;B[fd]
+;W[hd]C[WRONG  Helps white too much.]
+)
+(
+;B[hd]
+;W[hc]
+(
+;B[fd]
+;W[dj]C[WRONG This ends in gote and let's white play on left side.]
+)
+(
+;B[id]
+;W[dj]LB[fd:A]C[WRONG This leaves the weakness at A and ends in gote, letting white play on left side.  If black were more interested in the top side on the right, this wouldn't necessarily be a bad way to play. This problem, however, assumes black is interested in the left side.]
+)
+(
+;B[dj]LB[fd:A]C[WRONG Leaves a weakness at A.  These two black stones help white more than force white.]
+)
+)
+)
+(
+;B[hd]
+;W[hc]
+(
+;B[gd]
+;W[fd]LB[dj:A]C[WRONG White could play on left at A since black's stones were not really sente.  This sequence only helps white, and black has little continuity among his stones.]
+)
+(
+;B[fd]
+;W[ec]LB[dj:A]C[ This is correct. Black leans on white to seal him in, and keeps sente to play on the left side.  Play at A to continue.FORCE]
+;B[dj]C[FORCE]
+;W[ed]C[How to answer white's attempt to break into the left side?]
+;B[ee]
+;W[gd]
+;B[fe]
+;W[ge]
+;B[gf]
+;W[hf]
+(
+;B[gg]C[ Black effectively seals white out of the left side.RIGHT]
+)
+(
+;B[hg]
+;W[gg]
+;B[ff]
+;W[if]
+(
+;B[hh]C[ Black effectively seals white out of the left side.RIGHT]
+)
+(
+;B[gh]C[ Black effectively seals white out of the left side.RIGHT]
+)
+(
+;B[ig]C[And Black effectively seals white out of the left side. RIGHT]
+)
+)
+)
+(
+;B[id]
+;W[gd]C[WRONG This only helps white.  Also, it's the wrong direction.  Black is interested in the left side in this problem.]
+)
+(
+;B[gc]
+;W[gd]C[WRONG Wedging doesn't work here.]
+)
+)
+(
+;B[ge]
+;W[dj]TR[kc]C[ This move is tepid and fails to make effective use of the marked stone on the top.  White can tenuki and play on the left.]
+)
+)

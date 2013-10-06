@@ -1,0 +1,7 @@
+(;GE[life and death]DI[30k]DP[80]SO[ellbur]CO[7]AB[ab]AB[bc]AB[cb]AB[ba]AW[ae]AW[be]AW[bd]AW[cd]AW[cc]AW[dc]AW[db]AW[eb]AW[ea]C[Simple problem: black to live in the best way possible.]AP[goproblems]
+(;B[ad];W[ac]C[This will result in double ko and black will die.])
+(;B[da];W[ca]C[This will result in double ko and black will die])
+(;B[ac];W[ca];B[da]C[White must find the first ko threat.RIGHT])
+(;B[ca];W[ac];B[ad]C[White must find the first ko threat.RIGHT])
+(;B[bb]C[You just filled in your eye, both gote and dead.])
+(;B[aa]C[You just filled in your eye, both gote and dead.]))

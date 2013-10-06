@@ -1,0 +1,66 @@
+(;GE[life and death]DI[5k]DP[34]SO[crasher]CO[5]AB[ma]AB[oa]AB[lb]AB[nb]AB[pb]AB[pc]AB[pd]AB[mc]AB[ib]AB[hc]AB[hd]AB[id]AB[jd]AB[kd]AB[ld]AB[pf]AB[qh]AB[ri]AB[qj]AB[pj]AB[oo]AB[on]AB[np]AB[nq]AB[oq]AB[pq]AB[mq]AB[lr]AB[lp]AB[kq]AB[jq]AB[jp]AB[io]AB[ho]AB[hp]AB[hq]AB[gq]AB[gp]AB[fp]AB[fr]AB[dr]AB[dq]AB[dp]AB[cp]AB[bp]AB[bo]AB[af]AB[bf]AB[cf]AB[dg]AB[ch]AB[eg]AB[fg]AB[gg]AB[gh]AB[ei]AB[ej]AB[ek]AB[fj]AB[dl]AB[cl]AB[bk]AB[fl]AB[gl]AB[hm]AB[hk]AB[ik]AB[jk]AB[il]AB[jl]AB[jj]AB[kj]AB[km]AB[lm]AB[mm]AB[ml]AB[mk]AB[mj]AB[li]AB[kh]AB[jh]AB[kg]AB[lg]AB[mg]AB[mh]AB[mf]AB[kf]AW[ae]AW[be]AW[ce]AW[df]AW[ef]AW[dd]AW[gf]AW[gd]AW[gc]AW[gb]AW[hb]AW[he]AW[ie]AW[je]AW[ke]AW[le]AW[me]AW[nd]AW[nc]AW[oc]AW[ob]AW[nf]AW[lf]AW[jf]AW[jg]AW[hg]AW[hh]AW[ih]AW[ii]AW[ij]AW[hj]AW[gj]AW[gi]AW[fi]AW[fh]AW[ji]AW[ki]AW[gk]AW[fk]AW[el]AW[em]AW[dm]AW[cm]AW[bl]AW[am]AW[bn]AW[co]AW[do]AW[dn]AW[fn]AW[fo]AW[go]AW[ep]AW[eq]AW[fq]AW[hn]AW[in]AW[im]AW[jm]AW[kn]AW[jo]AW[ko]AW[kp]AW[ip]AW[lo]AW[mn]AW[no]AW[nm]AW[nl]AW[nk]AW[nj]AW[ni]AW[mi]AW[oh]AW[og]AW[ol]AW[rj]AW[rk]AW[qk]AW[qm]AW[qo]AW[po]AW[pp]AW[op]AW[qq]TR[dm]C[I played the triangled stone, and missed black's potenital winning move.  Black to play and win.]AB[bh]AB[eh]AP[goproblems]
+(;B[cj];W[mo]C[You could have done something right there.  This is how the actual game was played out.])
+(;B[ck];W[mo]C[You could have done something right there.])
+(;B[ak];W[mo]C[You could have done something right there.])
+(;B[mo]
+(;W[mp]
+(;B[gn]C[];W[gm];B[mo];W[nn];B[ln];W[mp]
+(;B[lk];W[kl];B[mo]
+(;W[bj];B[jn]C[safe!];W[gn]C[RIGHT])
+(;W[gn]))
+(;B[kk];W[ll];B[mo]
+(;W[fm];B[jn]C[RIGHT])
+(;W[bj];B[jn]C[RIGHT]))
+(;B[kl];W[lk];B[mo];W[lj];B[jn];W[lh]C[mmmm..... dragon tail.  ...You could have ended the game right there...])
+(;B[ll];W[kk];B[mo]
+(;W[bj];B[jn];W[gn]C[RIGHT])
+(;W[gn];B[jn]C[RIGHT]))
+(;B[er];W[mo])
+(;B[eo];W[mo]))
+(;B[lk]
+(;W[kl]
+(;B[mo]
+(;W[nn]
+(;B[ln];W[mp]
+(;B[gn];W[gm];B[mo];W[bj];B[jn]MA[bh]MA[eh]C[The two rectangles were added for the sake of this problem.RIGHT])
+(;B[eo];W[mo]C[White wins.])
+(;B[er];W[mo]))
+(;B[mp];W[ln]))
+(;W[bj];B[nn]
+(;W[gn];B[ln]C[Black winsRIGHT])
+(;W[jn];B[ln];W[gn]C[RIGHT])
+(;W[ln];B[jn]C[RIGHT])))
+(;B[ln];W[nn];B[mo];W[gn];B[jn]C[RIGHT]))
+(;W[mo];B[kl]C[RIGHT]))
+(;B[ll]C[NOTTHIS])
+(;B[kk]C[NOTTHIS])
+(;B[kl]C[];W[lk];B[mo];W[nn];B[ln];W[mp];B[gn];W[gm];B[mo];W[lj];B[jn];W[gn]
+(;B[kk];W[lh]C[ko for that top group... white still has an outside chance.])
+(;B[ll];W[lh])
+(;B[lh];W[nh])
+(;B[cj];W[lh]C[You win but you could have saved that group.]))
+(;B[ln];W[gn]
+(;B[mo];W[bj]
+(;B[nn]C[RIGHT])
+(;B[jn]C[RIGHT]))
+(;B[nn];W[jn];B[mo]C[all connected.RIGHT]))
+(;B[nn]
+(;W[jn]
+(;B[mo];W[gn];B[ln]C[RIGHT])
+(;B[ln];W[gn];B[mo]C[RIGHT]))
+(;W[mo];B[ln];W[lq]
+(;B[lk];W[gn];B[kl];W[bj]C[RIGHT])
+(;B[ll]C[NOTTHISRIGHT])
+(;B[kl]C[NOTTHIS])
+(;B[kk]C[NOTTHISRIGHT])
+(;B[gn];W[gm]
+(;B[kl]C[NOTTHIS])
+(;B[kk]C[NOTTHISRIGHT])
+(;B[ll]C[NOTTHISRIGHT])
+(;B[lk];W[gn];B[kl];W[bj]C[RIGHT])))))
+(;W[nn];B[ln];W[mp];B[lk];W[kl];B[mo];W[gn];B[jn]C[RIGHT]))
+(;B[nn];W[mo])
+(;B[ln];W[mo])
+(;B[gn];W[gm];B[mo];W[nn];B[ln];W[mp];B[lk]
+(;W[kl];B[mo];W[gn];B[jn]C[RIGHT])
+(;W[lq];B[kl]C[RIGHT])))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[33]SO[vukics]CO[8]AW[qa]AW[ob]AW[nc]AW[pc]AW[od]AW[qd]AW[re]AB[pb]AB[rb]AB[qc]AB[sc]C[Black to live]AW[rf]
+(;B[rd];W[qb]
+(;B[qe];W[pd])
+(;B[ra];W[pa]))
+(;B[pa];W[rd]
+(;B[ra];W[rc]
+(;B[qb];W[sb])
+(;B[sb];W[qb]))
+(;B[rc];W[ra]
+(;B[sa];W[sb]
+(;B[qb]C[RIGHT])
+(;B[sa]C[This move is forbidden by the ko rule!])
+(;B[oa];W[na]
+(;B[sa]C[];W[qb])
+(;B[qb];W[sd]))
+(;B[na];W[oa]
+(;B[sa];W[qb])
+(;B[qb];W[sd]))
+(;B[pd]C[NOTTHIS]))
+(;B[qb];W[sa]))
+(;B[sa];W[rc])
+(;B[qb];W[rc]C[Black cannot get two eyes.]))
+(;B[qb];W[pa]
+(;B[rd];W[ra])
+(;B[ra];W[rd];B[oa];W[pa]))
+(;B[ra];W[rd];B[pa];W[rc]
+(;B[qb];W[sb])
+(;B[sb];W[qb])))

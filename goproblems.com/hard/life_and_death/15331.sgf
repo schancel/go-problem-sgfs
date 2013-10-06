@@ -1,0 +1,46 @@
+(;GE[life and death]DI[4d]DP[8]SO[MeleeNewb]CO[0]AW[ma]AW[lb]AW[kc]AW[jc]AW[hb]AW[gb]AW[fb]AW[fa]AB[ea]AB[eb]AB[ec]AB[fc]AB[gc]AB[hd]AB[id]AB[jd]AB[lc]AB[mc]AB[nb]AB[na]AB[nc]AB[kd]AP[goproblems]
+(;B[ha];W[jb]
+(;B[mb];W[la]
+(;B[ja];W[kb]
+(;B[ib];W[ic];B[hc]C[Ko, right!RIGHT])
+(;B[ia];W[ib]))
+(;B[ka];W[kb])
+(;B[ia];W[ja])
+(;B[ic];W[ib]
+(;B[ja];W[ia])
+(;B[ia];W[ja])
+(;B[ka];W[kb]))
+(;B[ib];W[ic];B[ja];W[ia]LB[ed:K]C[Play a ko threat at 'K'FORCE];B[ed];W[fd];B[ib];W[kb];B[hc];W[ia]C[Black needs another threat. Not as good as the solution.]))
+(;B[ka];W[kb]
+(;B[ib];W[ic];B[ja];W[la])
+(;B[ja];W[ib])
+(;B[mb];W[la])))
+(;B[ib];W[ic]
+(;B[jb];W[kb];B[ha];W[ja])
+(;B[ha];W[jb])
+(;B[ia];W[jb])
+(;B[mb];W[jb]))
+(;B[jb];W[kb]
+(;B[ib];W[ic])
+(;B[ic];W[ib])
+(;B[ka];W[ib];B[mb];W[ja])
+(;B[mb];W[ib]))
+(;B[mb];W[ic]
+(;B[kb];W[jb];B[la];W[ja])
+(;B[ha];W[ia];B[ja];W[ga];B[kb];W[jb];B[la];W[hc]))
+(;B[ka];W[ic]
+(;B[kb];W[jb])
+(;B[ia];W[ha];B[kb];W[jb];B[mb];W[ja])
+(;B[mb];W[kb]
+(;B[ja];W[ia];B[la];W[jb];B[ma];W[hc])
+(;B[la];W[ja]))
+(;B[jb];W[kb]))
+(;B[hc];W[ib])
+(;B[ja];W[jb]
+(;B[mb];W[ia];B[ka];W[kb];B[ic];W[ib];B[la];W[ma];B[la];W[ka])
+(;B[ka];W[kb]
+(;B[ia];W[ha])
+(;B[ha])))
+(;B[ia];W[jb]
+(;B[mb];W[ha])
+(;B[ka];W[ja];B[mb];W[ha])))

@@ -1,0 +1,10 @@
+(;GE[best move]DI[7k]DP[43]SO[Cow]CO[0]SZ[7]AW[fb]AW[fc]AW[db]AW[bf]AB[bg]AB[cg]AB[df]AW[eg]AB[fe]AW[fd]AB[ee]AB[ed]AW[bc]AB[bb]AB[ac]AB[ad]AW[dc]AB[cb]AW[ge]C[It is atari-go. Black to play and win.]AW[dd]AB[ea]AW[da]AB[fa]AB[gb]AB[gg]AW[ff]AW[ef]AB[dg]AW[hb]AW[hc]AW[fh]AW[gh]AP[goproblems]
+(;B[cc];W[bd]
+(;B[be];W[cd]
+(;B[af]C[You win. Good job! :-)RIGHT])
+(;B[cf]C[Black wins. Nice! ;-)RIGHT]))
+(;B[cd];W[be]C[White will capture a black group before black can kill any white stones! White wins. :-(]))
+(;B[bd];W[cc];B[be];W[eb]C[White takes first, black loses. :-(])
+(;B[be]
+(;W[de]C[White captures first. You lose! :-(])
+(;W[eb]C[White captures first. You lose! :-(])))

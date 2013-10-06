@@ -1,0 +1,80 @@
+(;GE[joseki]DI[6d]DP[3]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+SZ[19]RU[Japanese]KM[0.00]TM[]
+AW[eo][go][ip][eq]AB[dn][cp][gp][gr]LB[dn:5][eo:4][go:8][cp:1][gp:3][ip:6][eq:2][gr:7]C[how does black continue after 8?]
+(;B[fp]CR[fp]
+;W[do]CR[do]
+(;B[co]CR[co]
+;W[fo]CR[fo]
+(;B[dq]CR[dq]
+;W[er]CR[er]
+(;B[ep]CR[ep]
+;W[dp]CR[dp]
+(;B[cq]CR[cq]
+;W[hp]CR[hp]
+(;B[fr]CR[fr]
+;W[hr]CR[hr]
+(;B[dr]CR[dr]C[RIGHT])
+(;B[fq]CR[fq]C[though this captures the stones, it's bad shape. D2 is better.]))
+(;B[hq]CR[hq]
+;W[gq]CR[gq]
+;B[fq]CR[fq]
+;W[fr]CR[fr]
+;B[gq]CR[gq]
+;W[iq]CR[iq])
+(;B[fq]CR[fq]
+;W[fr]CR[fr]
+;B[gq]CR[gq]
+;W[hr]CR[hr])
+(;B[hr]CR[hr]
+;W[gq]CR[gq])
+(;B[dr]CR[dr]
+;W[gq]CR[gq]))
+(;B[dr]CR[dr]
+;W[cq]CR[cq]
+(;B[cr]CR[cr]
+;W[bq]CR[bq]
+;B[br]CR[br]
+;W[cn]CR[cn]
+;B[bp]CR[bp]
+;W[bo]CR[bo]C[white plasters black on the outside])
+(;B[bq]CR[bq]
+;W[cr]CR[cr]))
+(;B[fq]CR[fq]
+;W[cq]CR[cq]
+;B[dr]CR[dr]
+;W[cr]CR[cr])
+(;B[fr]CR[fr]
+;W[cq]CR[cq]
+;B[dr]CR[dr]
+;W[cr]CR[cr]))
+(;B[dr]CR[dr]
+;W[ep]CR[ep]))
+(;B[ep]CR[ep]
+;W[dp]CR[dp]
+(;B[dq]CR[dq]
+;W[cq]CR[cq]
+;B[dr]CR[dr]
+;W[bq]LB[cn:A][er:B]CR[bq]C[black is toast at A or B. can only save one.])
+(;B[cq]CR[cq]
+;W[dq]CR[dq]))
+(;B[dp]CR[dp]
+;W[ep]CR[ep]))
+(;B[fo]CR[fo]
+;W[co]CR[co]))
+(;B[hp]CR[hp]
+;W[ho]CR[ho]C[bad exchange for black])
+(;B[fq]CR[fq]
+;W[fp]CR[fp]C[white gets good shape])
+(;B[fo]CR[fo]
+;W[fp]CR[fp]
+;B[fn]CR[fn]
+;W[gq]CR[gq]
+;B[hp]CR[hp]
+;W[hq]CR[hq])
+(;B[en]CR[en]
+;W[fp]CR[fp]C[too good for white])
+(;B[dp]CR[dp]
+;W[fp]CR[fp]C[good for white])
+(;B[gq]CR[gq]C[too slow])
+(;B[er]CR[er]
+;W[fp]CR[fp]C[good for white]))

@@ -1,0 +1,26 @@
+(;GE[life and death]DI[30k]DP[86]SO[krt]CO[0]AB[ij]AB[ik]AB[jl]AB[kl]AB[lk]AB[lj]AB[ki]AB[ji]AB[jh]AB[jg]AB[kg]AB[lg]AB[lh]AW[if]AW[jf]AW[kf]AW[lf]AW[mf]AW[mg]AW[mh]AW[li]AW[mi]AW[mk]AW[mj]AW[ml]AW[ll]AW[lm]AW[km]AW[jm]AW[im]AW[hl]AW[hk]AW[hj]AW[hi]AW[ih]AW[ig]AW[ii]AP[goproblems]
+(;W[il]C[RIGHT]
+(;B[kk];W[jj]C[RIGHT];B[kj];W[jk]C[RIGHT])
+(;B[jj];W[kk];B[kj];W[jk]C[RIGHT])
+(;B[jk];W[kj];B[jj];W[kk]C[RIGHT])
+(;B[kj];W[jk];B[kk];W[jj]C[RIGHT]))
+(;W[kj];B[kk]
+(;W[jj];B[jk])
+(;W[il];B[jj])
+(;W[jk];B[jj]))
+(;W[kk];B[kj]
+(;W[il];B[jk])
+(;W[jj];B[jk])
+(;W[jk];B[jj]))
+(;W[jk]
+(;B[jj]
+(;W[kk];B[kj])
+(;W[kj];B[kk])
+(;W[il];B[kk]))
+(;B[kk];W[kj]))
+(;W[jj]
+(;B[jk];W[kj];B[kk])
+(;B[kj]
+(;W[kk];B[jk])
+(;W[il];B[jk])
+(;W[jk];B[kk]))))

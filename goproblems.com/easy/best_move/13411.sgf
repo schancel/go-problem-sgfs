@@ -1,0 +1,11 @@
+(;GE[best move]DI[25k]DP[77]SO[Blaster097]CO[0]AB[sh]AB[ri]AB[qh]AB[qj]AB[qk]AB[ql]AB[pk]AB[ok]AB[ol]AB[om]AB[on]AB[oo]AB[po]AB[op]AB[np]AB[nq]AB[mq]AW[si]AW[sj]AW[rj]AW[rk]AW[rl]AW[qm]AW[pm]AW[pl]AW[pn]AW[qo]AW[ro]AW[sp]AW[rq]AW[qq]AW[pp]AW[pq]AB[oq]AB[pr]AB[qr]AW[rr]AW[rs]AB[qs]AB[or]C[Black to play]AP[goproblems]
+(;B[sk];W[rm])
+(;B[rm];W[qn]
+(;B[sl]C[RIGHT])
+(;B[sk];W[sl];B[sm]C[RIGHT])
+(;B[sm]C[RIGHT]))
+(;B[sm];W[rm])
+(;B[sl];W[rm])
+(;B[qn];W[rn])
+(;B[rn];W[rm])
+(;B[sn];W[rm]))

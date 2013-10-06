@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[18]SO[Dudzik]CO[8]AB[ad]AB[be]AB[bf]AB[ce]AB[de]AB[ee]AB[ed]AB[ec]AB[db]AB[fb]AW[bd]AW[cd]AW[dd]AW[dc]AW[eb]AW[bb]AW[ca]C[White to play.]AP[goproblems]
+(;W[cb];B[bc]
+(;W[da];B[ab])
+(;W[cc];B[ab]
+(;W[ac]C[];B[fg]LB[gg:K]C[Black plays a ko threat!  Please respond at K.];W[gg];B[bc]LB[eg:K]C[If you wish to play a ko threat, play K.]
+(;W[aa]C[Well done, white lives in double ko. (black should not have wasted a ko threat.)RIGHT])
+(;W[eg];B[ac]C[White could have lived unconditionally.]))
+(;W[aa]C[Well done--white lives in double ko.RIGHT])))
+(;W[ac];B[cb]TR[cc]C[White cannot play C17, and dies.])
+(;W[bc];B[cb])
+(;W[ea];B[bc])
+(;W[da];B[ea]TR[bc]TR[cb]C[Miai--white is dead.])
+(;W[cc];B[ac]C[Miai--white is dead.]TR[ab]TR[ea]))

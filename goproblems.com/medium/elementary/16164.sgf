@@ -1,0 +1,14 @@
+(;GE[elementary]DI[1k]DP[20]SO[santa c]CO[0]AB[br]AB[bq]AW[bs]AW[bp]AW[ao]AW[co]AB[dp]AB[cp]AW[cq]AB[dq]AB[eq]AW[fr]AW[fq]AW[fs]AW[fp]AW[cn]AW[eo]C[Trouble?]AP[goproblems]
+(;B[ds];W[cr]
+(;B[ar];W[aq];B[ap]C[Nice !RIGHT])
+(;B[cs];W[aq];B[as];W[ap]C[B can't play at A2!]LB[ar:A])
+(;B[dr];W[aq]))
+(;B[cr];W[ds]MA[cs]MA[dr])
+(;B[dr];W[ds])
+(;B[cs];W[ds]LB[cr:1]LB[as:1]LB[dr:2])
+(;B[er];W[es]
+(;B[ds];W[cr]
+(;B[ar];W[aq];B[ap]C[Nice !RIGHT])
+(;B[dr];W[aq]))
+(;B[cr];W[ds]MA[cs]MA[dr])
+(;B[cs];W[ds]LB[cr:1]LB[as:1]LB[dr:2])))

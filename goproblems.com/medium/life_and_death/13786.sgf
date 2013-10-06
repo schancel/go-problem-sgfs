@@ -1,0 +1,23 @@
+(;GE[life and death]DI[2d]DP[13]SO[MeleeNewb]CO[0]AB[qq]AB[pr]AB[oq]AB[op]AB[oo]AB[on]AB[nq]AW[or]AW[nr]AW[mq]AW[jq]AB[iq]AB[ip]AB[jp]AW[mn]AW[lo]AW[rp]AW[qp]AW[qn]AW[rn]AW[pm]AW[nl]AW[ko]AW[ol]AW[mm]AP[goproblems]
+(;B[mp];W[lq]
+(;B[sr]
+(;W[qs]C[CHOICE]
+(;B[os];W[mr]
+(;B[mo];W[ps];B[rs];W[rr]
+(;B[rq];W[ss];B[sq];W[ns];B[qr]C[RIGHT])
+(;B[qr];W[rq]))
+(;B[rs];W[rr];B[rq];W[ss];B[sq];W[mo]))
+(;B[mo];W[ps];B[rs];W[qr]
+(;B[pq];W[rr];B[rq];W[ss])
+(;B[rr];W[pq];B[pp];W[rq]))
+(;B[rs];W[rr];B[os];W[rq];B[mr];W[lr];B[ns];W[mo])
+(;B[mr]C[NOTTHIS]))
+(;W[rs];B[os];W[mr];B[mo]C[RIGHT]))
+(;B[os];W[mr];B[sr];W[qs])
+(;B[mr]C[NOTTHIS])
+(;B[rr];W[qs])
+(;B[rq];W[mo]))
+(;B[sr];W[lr];B[rs];W[rq];B[rr];W[ps])
+(;B[rr];W[qs];B[mp];W[lq];B[ps];W[mo])
+(;B[rq];W[lr])
+(;B[mr];W[lr];B[mp];W[ms];B[lq];W[kq]))

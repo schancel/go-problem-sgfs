@@ -1,0 +1,116 @@
+(;GE[life and death]DI[18k]DP[66]SO[santa c]CO[7]SZ[19]AW[aa]AW[ab]AW[cb]AW[db]AW[bc]AW[cd]AW[dd]AW[ed]AW[de]AB[eb]AB[fb]AB[ac]AB[fc]AB[ad]AB[bd]AB[fd]AB[ae]AB[ce]AB[ee]AB[af]AB[bf]AB[df]AB[ff]C[Guess... ;)FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.50]PW[White]PB[Black]
+(;B[dc];W[ba]
+(;B[da];W[cc]
+(;B[ec]C[Well done!RIGHT])
+(;B[ea];W[ca];B[ec]C[Well done!RIGHT])
+(;B[ca];W[ea]C[White's alive!]TR[ec]TR[da]))
+(;B[ec]
+(;W[da];B[cc]C[Well done!CHOICERIGHT])
+(;W[cc];B[da]C[Well done!CHOICERIGHT]))
+(;B[cc];W[ec]C[White's alive!])
+(;B[ca];W[da]
+(;B[ec];W[cc]C[White's alive!])
+(;B[cc];W[ec]C[White's alive!]))
+(;B[ea];W[da]C[White's alive!]LB[cc:A]LB[ec:B]))
+(;B[ec];W[dc]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!])
+(;B[ba];W[bb]C[White's alive!]LB[da:B]LB[ca:A]LB[ea:C])
+(;B[bb];W[ba]C[White's alive!]))
+(;B[cc]
+(;W[dc]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!])
+(;B[ba];W[bb]C[White's alive!]LB[ca:A]LB[da:B]LB[ea:C])
+(;B[bb];W[ba]C[White's alive!]))
+(;W[bb]C[White's alive! (Each set of A and B is miai to deny an eye.)]LB[ca:A]LB[da:B]LB[dc:A]LB[ec:B]))
+(;B[da];W[ca]
+(;B[dc];W[cc];B[ec]C[Well done!RIGHT])
+(;B[ec];W[dc]C[White's alive!])
+(;B[cc]
+(;W[dc]C[White's alive!CHOICE])
+(;W[bb]C[White's alive!CHOICE]LB[dc:A]LB[ec:B]))
+(;B[ba];W[dc]
+(;B[bb];W[ab]
+(;B[cc]MA[bc]C[A ko isn't a solution when a sure kill is possible.])
+(;B[aa];W[ab]C[White's alive!]))
+(;B[ec];W[bb]C[White's alive!])
+(;B[ea];W[bb]C[White's alive!]))
+(;B[bb];W[dc]
+(;B[ba];W[ab]
+(;B[cc]C[A ko isn't a solution when sure kill is possible.]MA[bc])
+(;B[aa];W[ab]C[White's alive!]))
+(;B[cc]C[A ko isn't a solution when a sure kill is possible.]MA[bc])
+(;B[ec];W[ba]C[White's alive!])
+(;B[ea];W[ba]C[White's alive!]))
+(;B[ea]C[E17 is bigger than D17 by a point, but leave an extra ko threat.]
+(;W[ec]C[White's alive!])
+(;W[dc]C[White's alive!])))
+(;B[ca];W[da]
+(;B[ba];W[dc];B[bb];W[ab]
+(;B[aa];W[ab]C[White's alive!])
+(;B[cc]MA[bc]C[A ko isn't a solution when sure kill is possible.]))
+(;B[bb];W[ba]C[White's alive!])
+(;B[ec];W[dc]C[White's alive!])
+(;B[cc];W[dc]C[White's alive!])
+(;B[dc];W[ba]C[White's alive!]LB[cc:A]LB[ec:B])
+(;B[ea]
+(;W[ba]C[White's alive!CHOICE])
+(;W[ec]C[White's alive!CHOICE])
+(;W[dc]C[White's alive!])))
+(;B[bb];W[ba]
+(;B[dc];W[da]C[White's alive!]LB[cc:A]LB[ec:B])
+(;B[da]C[E17 is bigger than D17 by a point but leaves an extra ko threat.]
+(;W[dc]C[White's alive!CHOICE])
+(;W[ec]C[White's alive!CHOICE]))
+(;B[ec];W[dc]C[White's alive!])
+(;B[cc];W[dc]C[White's alive!])
+(;B[ca];W[da]C[White's alive!]))
+(;B[ba];W[bb]
+(;B[dc];W[cc]
+(;B[ec]C[Well done!RIGHT])
+(;B[da];W[ec]
+(;B[ca];W[ea]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!]))
+(;B[ea];W[ca]C[White's alive!]))
+(;B[ca];W[ec]
+(;B[ea];W[da]C[White's alive!])
+(;B[da];W[ea]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!]))))
+(;B[ec];W[dc]C[White's alive!]LB[ca:A]LB[da:B]LB[ea:C])
+(;B[cc];W[dc]C[White's alive!]LB[ca:A]LB[da:B]LB[ea:C])
+(;B[da];W[dc]
+(;B[ea];W[ca]C[White's alive!])
+(;B[ca];W[ea];B[da];W[ca]C[White's alive!])
+(;B[ec];W[ca]C[White's alive!]))
+(;B[ca];W[dc]
+(;B[ea];W[da]C[White's alive!])
+(;B[da];W[ea]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!]))
+(;B[ec];W[da]C[White's alive!]))
+(;B[ea];W[dc]C[White's alive!]LB[ca:A]LB[da:B]))
+(;B[ea]C[E17 is one point bigger than D17 but also provides an extra ko threat..]
+(;W[dc]
+(;B[ba];W[bb]
+(;B[da];W[ca]C[White's alive!CHOICE])
+(;B[ca];W[da]C[White's alive!]))
+(;B[bb];W[ba]C[White's alive!])
+(;B[ca];W[da]C[White's alive!])
+(;B[da];W[ca]C[White's alive!]))
+(;W[ec]
+(;B[da];W[ca]C[White's alive!CHOICE])
+(;B[ca];W[da]C[White's alive!])
+(;B[ba];W[bb]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!])
+(;B[cc];W[dc]
+(;B[da];W[ca]C[White's alive!])
+(;B[ca];W[da]C[White's alive!]))
+(;B[dc];W[cc]
+(;B[ca];W[da]C[White's alive!])
+(;B[da];W[ca]C[White's alive!])))
+(;B[bb];W[ba]C[White's alive!]))
+(;W[ba]LB[da:A]LB[dc:B]LB[ec:B]C[White's alive!])))

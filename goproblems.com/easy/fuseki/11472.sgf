@@ -1,0 +1,5 @@
+(;GE[fuseki]DI[15k]DP[62]SO[BountyHunterSAx]CO[0]AW[dd]AB[oc]AB[qd]AW[qp]AB[dp]AW[op]C[Where should Black play next? Choose one of the marked pointsFORCE]LB[fc:A]LB[jc:B]LB[qj:C]LB[cn:D]AP[goproblems]
+(;B[fc]LB[hc:A]C[This is too far from the corner enclosure to be considered an extension, and invites the pincer at A. There is a bigger move.])
+(;B[jc]C[This is a good distance to extend from the corner enclosure, but there are two problems. One, the corner enclosure is not facing the direction that would work well with this stone. Two, the opponents enclosure has not been limited.])
+(;B[cn]C[This move takes a second enclosure, however since the 4,4 point is more easily developed for influence, there are still too many weaknesses in it. The invasion at A for instance. There is a bigger move.]LB[cq:A])
+(;B[qj]C[Excellent. This move extends from the corner enclosure and works well with the marked stones. Further, it denies white a similar extension from her corner enclosure. If white plays at 1, black can respond with 2.RIGHT]LB[ql:1]LB[oj:2]TR[oc]TR[qd]))

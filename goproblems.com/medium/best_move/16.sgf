@@ -1,0 +1,32 @@
+(;GE[best move]DI[2d]DP[12]SO[adum]CO[8]AW[mb]AW[nb]AW[nc]AW[oc]AW[od]AW[pd]AW[qd]AW[oe]AW[qg]AB[lb]AB[mc]AB[ld]AB[nd]AB[ne]AB[pe]AB[qe]AB[nf]AB[of]LB[qg:1]C[white has just played one. what's the best response?]SZ[19]GM[1]FF[3]RU[Japanese]HA[0]KM[5.5]PW[White]PB[Black]GN[White (W) vs. Black (B)]DT[1999-07-29]SY[Cgoban 1.9.2]TM[30:00(5x1:00)]
+(;B[pf]C[];W[re];B[rf];W[rd];B[qf];W[rg];B[sf];W[qi]C[not a good result for black])
+(;B[re];W[pf]
+(;B[pg]
+(;W[qf]C[CHOICE];B[qh];W[ph]
+(;B[rg];W[og];B[rf]C[black forces white into a dumpling shape, and is strong on both sides];W[pg];B[pi]C[RIGHT])
+(;B[rf];W[rg]C[can't atari from this side];B[rh];W[og];B[sg];W[pg]C[White's P13 group is weak. However black's stones on the right are also weak.]
+(;B[rd];W[rc]
+(;B[sd];W[sf];B[se];W[sc]
+(;B[sh];W[sf])
+(;B[sf];W[sh]))
+(;B[sf];W[qi];B[ri];W[qj]))
+(;B[sf]
+(;W[rd])
+(;W[qi]C[CHOICE];B[ri];W[qj])
+(;W[pi]))
+(;B[pi];W[oi];B[ng];W[oh]
+(;B[oj];W[qi];B[pj];W[ri];B[sh];W[sf])
+(;B[pj]
+(;W[rd];B[sh];W[oj]
+(;B[ok];W[sf];B[se];W[sd];B[sf];W[qi])
+(;B[pk];W[ok];B[ol];W[pl]))
+(;W[sf];B[sh];W[rd];B[se];W[sd];B[sf];W[oj];B[pk];W[ok]C[w's got thicknes in the center, and b is still has to defend against q8]TR[pl]))
+(;B[qj];W[pk];B[qk];W[pl]))))
+(;W[ph];B[qf]C[RIGHT]))
+(;B[rg]
+(;W[qh]C[CHOICE];B[qf];W[pg];B[rh];W[qj]C[because black cannot kill the corner, creaping along the second line is not good for him.])
+(;W[rh];B[pg];W[qh];B[qf])))
+(;B[pg];W[re];B[rf];W[qf]C[white connects underneath];B[pf];W[rg];B[rd];W[sf])
+(;B[rf];W[pf];B[qf];W[pg]
+(;B[rd];W[rc];B[sc];W[rb];B[rg];W[qi])
+(;B[rg];W[qi])))

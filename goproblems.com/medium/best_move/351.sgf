@@ -1,0 +1,34 @@
+(;GE[best move]DI[4k]DP[28]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qd]AW[dp]AB[pp]AW[dd]AB[fc]AW[ee]AB[db]AW[gd]AB[gc]AW[hd]AB[ic][cc]AW[cd][cn]AB[id]AW[ie]AB[je]AW[jf]PL[B]TR[jf]C[white just double-hane'd. how to respond?]
+(;B[fd]CR[fd]LB[fe:A][he:B]C[RIGHT
+if white blocks at A, black plays B])
+(;B[ke]CR[ke]
+;W[if]CR[if]C[too easy on white])
+(;B[if]CR[if]
+;W[he]CR[he]
+(;B[ke]CR[ke]
+;W[ig]CR[ig]C[too easy on white])
+(;B[kf]CR[kf]
+;W[jd]CR[jd]
+;B[jg]CR[jg]
+;W[hc]CR[hc]
+;B[hb]CR[hb]
+;W[ib]CR[ib]
+;B[jc]CR[jc]
+;W[gb]CR[gb]))
+(;B[he]CR[he]
+;W[if]CR[if]
+(;B[fd]CR[fd]C[RIGHT
+this works well])
+(;B[ge]CR[ge]
+;W[fd]CR[fd])
+(;B[gf]CR[gf]
+;W[fe]CR[fe])
+(;B[hf]CR[hf]
+;W[ge]CR[ge]))
+(;B[jd]CR[jd]
+;W[if]CR[if]C[too easy on white])
+(;B[hc]CR[hc]
+;W[if]CR[if]C[too easy on white])
+(;B[le]CR[le]
+;W[ke]CR[ke]))

@@ -1,0 +1,58 @@
+(;GE[elementary]DI[10k]DP[54]SO[brightwater]CO[7]AB[hc]AB[hb]AB[ha]AB[ga]AB[hd]AW[gd]AW[gc]AW[gb]AB[he]AW[ge]AW[gf]AW[gg]AB[hf]AB[hg]AB[gh]AB[fh]AB[eh]AB[dh]AB[ch]AB[bh]AB[ah]AW[ag]AW[bg]AW[cg]AW[dg]AW[eg]AW[fg]AW[dd]C[White's best move to block black and protect its territory]AP[goproblems]
+(;W[eb]
+(;B[ea]
+(;W[da];B[fa]
+(;W[db];B[fb];W[fc]C[RIGHT])
+(;W[dc];B[fb];W[fc]C[RIGHT])
+(;W[cb];B[fb];W[fc]C[RIGHT]))
+(;W[fa];B[fb]
+(;W[da];B[fa]
+(;W[db];B[fc])
+(;W[fc];B[db]))
+(;W[fc];B[fa])))
+(;B[fa];W[ea];B[fb];W[fc]))
+(;W[fb];B[fa]
+(;W[db]C[];B[da]
+(;W[ca];B[ea]
+(;W[cb];B[eb];W[ec]C[2 points worse than the correct answer])
+(;W[eb];B[cb]))
+(;W[eb];B[ea]
+(;W[cb];B[ca])
+(;W[ca];B[cb])))
+(;W[ea];B[eb])
+(;W[eb];B[ea]C[Black pushes in deep.])
+(;W[da];B[eb]
+(;W[ea];B[db])
+(;W[db];B[ec]
+(;W[ea];B[dc]
+(;W[cc];B[cb])
+(;W[cb];B[cc]))
+(;W[dc];B[ea]))))
+(;W[fa];B[fb])
+(;W[ea];B[eb]
+(;W[fa];B[fb])
+(;W[fb];B[fa])
+(;W[da];B[db];W[cb];B[fa];W[ca];B[fb])
+(;W[db];B[fa];W[da];B[fb]))
+(;W[db];B[fb]
+(;W[fc];B[eb]
+(;W[ec];B[fa];W[da]C[One point worse than the correct solution.])
+(;W[da];B[ec]))
+(;W[eb];B[fc])
+(;W[ea];B[fa];W[fc];B[eb]
+(;W[da];B[ec])
+(;W[ec];B[da])))
+(;W[cc];B[eb]C[White can keep much more of his territory.])
+(;W[da];B[eb]
+(;W[ea];B[fa]
+(;W[fb];B[db])
+(;W[db];B[fb];W[ec];B[fc];W[fd]C[2 points worse than the correct answer]))
+(;W[db];B[fb];W[ec]C[At least one point worse than the correct solution.])
+(;W[fa];B[fb];W[ea];B[db])
+(;W[fb];B[fa]
+(;W[ea];B[db])
+(;W[db];B[ec]
+(;W[ea];B[dc]
+(;W[cc];B[cb])
+(;W[cb];B[cc]))
+(;W[dc];B[ea])))))

@@ -1,0 +1,47 @@
+(;GE[life and death]DI[4k]DP[29]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ap][cp][dp][ep][fp][bq][fq][fr][fs]AB[cq][dq][eq][ar][br][ds][es]LB[an:0][bn:1][cn:2][dn:3][en:4][fn:5]C[FORCE
+how many first moves kill this group? click on the number]PL[W]
+(;W[dn]CR[dn]
+;B[dm]CR[dm]C[RIGHT
+now you can play with the options]
+(;W[er]CR[er]
+;B[dr]CR[dr]
+(;W[bs]CR[bs]C[RIGHT])
+(;W[cs]CR[cs]
+;B[cr]CR[cr]
+;W[bs]CR[bs]C[RIGHT
+]))
+(;W[cs]CR[cs]
+;B[bs]CR[bs]
+(;W[dr]CR[dr]C[RIGHT])
+(;W[er]CR[er]
+;B[dr]CR[dr]
+;W[cr]CR[cr]C[RIGHT])
+(;W[cr]CR[cr]
+;B[dr]CR[dr]))
+(;W[bs]CR[bs]
+;B[cs]CR[cs]
+(;W[er]CR[er]C[RIGHT])
+(;W[dr]CR[dr]
+;B[er]CR[er]
+;W[cr]CR[cr]C[RIGHT])
+(;W[cr]CR[cr]
+;B[dr]CR[dr]))
+(;W[cr]CR[cr]
+;B[dr]CR[dr])
+(;W[as]CR[as]
+;B[bs]CR[bs])
+(;W[dr]CR[dr]
+;B[er]CR[er]
+(;W[cs]CR[cs]
+;B[cr]CR[cr])
+(;W[cr]CR[cr]
+;B[cs]CR[cs]))
+(;W[aq]CR[aq]
+;B[cs]CR[cs]))
+(;W[an]CR[an]C[wrong. after getting the correct answer, you can explore options])
+(;W[bn]CR[bn]C[wrong. after getting the correct answer, you can explore options])
+(;W[cn]CR[cn]C[wrong. after getting the correct answer, you can explore options])
+(;W[en]CR[en]C[wrong. after getting the correct answer, you can explore options])
+(;W[fn]CR[fn]C[wrong. after getting the correct answer, you can explore options]))

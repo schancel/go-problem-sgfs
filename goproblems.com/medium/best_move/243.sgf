@@ -1,0 +1,77 @@
+(;GE[best move]DI[3d]DP[9]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[dd][jd][do][dp][fp][ip][dq][eq][gq][nq][er][pr]
+AB[pc][pe][cn][pn][fo][cp][gp][pp][cq][fq][cr][dr][fr]LB[fo:1]PL[2]
+C[black played 1. best way to respond?
+]
+(;W[gr];B[fs]
+(;W[ep];B[hp]
+(;W[iq]
+C[RIGHT
+black needs a move at F1, white makes territory and splits black
+])
+
+(;W[hq]TR[iq]C[this is bad; it leaves bad aji at J3
+])
+
+(;W[gs];B[hq]C[now white is cut
+]LB[hr:A][es:B])
+
+(;W[es];B[hq]C[white is cut, black will force white to take
+]
+MA[gq][gr]LB[hr:A][gs:B])
+)
+
+(;W[gs];B[ep]
+(;W[es];B[fp]MA[gq][gr][gs]
+C[bad: white needs a move to save G3 stones
+])
+
+(;W[eo];B[fp];W[es]C[bad
+])
+)
+
+(;W[hp];B[ep])
+
+(;W[hq];B[ep])
+
+(;W[iq];B[ep])
+)
+
+(;W[ep];B[hq]
+(;W[gr];B[hr]
+(;W[fs];B[hp]C[white's bottom center gone, and only has one eye here
+])
+
+(;W[gs];B[hs];W[fs];B[hp])
+)
+
+(;W[hr];B[gr])
+
+(;W[hp];B[gr])
+)
+
+(;W[fs];B[gr]
+(;W[hq];B[ep])
+
+(;W[ep];B[hq])
+
+(;W[hq];B[ep])
+)
+
+(;W[go];B[ep])
+
+(;W[eo];B[ep])
+
+(;W[fn];B[ep])
+
+(;W[es];B[ep])
+
+(;W[hp];B[ep])
+
+)

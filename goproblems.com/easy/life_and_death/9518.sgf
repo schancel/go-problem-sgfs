@@ -1,0 +1,18 @@
+(;GE[life and death]DI[7k]DP[43]SO[N0n0sama]CO[0]AB[ar]AB[bq]AB[cq]AB[dq]AB[dp]AB[do]AB[dn]AB[en]AB[fn]AB[gn]AB[ho]AB[hm]AB[hp]AB[hq]AB[hr]AB[ir]AB[is]AB[er]AB[fr]AW[br]AW[cr]AW[dr]AW[eq]AW[fq]AW[gq]AW[gr]AW[gs]AW[hs]AW[gp]AW[fo]AW[go]C[This problem is one of the EPITANIME's go club weekly problems]DT[2006-11-30]CP[EPITANIME]
+(;B[bs]
+(;W[es]
+(;B[cs]
+(;W[ep];B[ds]C[CHOICERIGHT])
+(;W[fs];B[ep]C[CHOICERIGHT]))
+(;B[ep]
+(;W[cs];B[ds]C[CHOICERIGHT])
+(;W[fs];B[cs]C[CHOICERIGHT])))
+(;W[fs]
+(;B[cs]
+(;W[es];B[ep]C[CHOICERIGHT])
+(;W[ep];B[ds]C[CHOICERIGHT]))
+(;B[ep];W[es];B[cs]C[RIGHT])))
+(;B[ep];W[bs]
+(;B[es];W[ds]C[CHOICE])
+(;B[ds];W[es];B[fs];W[es]C[CHOICE])
+(;B[fs];W[es]C[CHOICE])))

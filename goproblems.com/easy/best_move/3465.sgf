@@ -1,0 +1,57 @@
+(;GE[best move]DI[6k]DP[36]SO[kochi]CO[7]AW[gd]AW[bf]AW[dc]AW[bb]AB[ca]AB[ba]AW[bd]AW[ac]AB[cb]AB[cc]AB[cd]AB[ce]AW[cf]AW[dd]AW[be]AW[bc]AB[de]AB[db]AB[eb]AW[hd]AW[jd]AB[fb]AB[gb]AB[ga]AW[hb]AW[ic]AW[ea]AW[ha]AB[ib]AB[jb]AB[jc]AB[kd]AB[kc]AW[je]AW[ld]AW[lc]AW[lb]AW[le]AB[kf]AB[kj]AB[kg]AB[ji]AW[if]AW[hh]AW[dg]AW[ci]AW[dk]AW[fh]AB[ef]AB[fg]AW[gh]AW[hg]AW[ch]AW[hc]AB[he]AB[ka]AB[ia]AB[la]AW[ma]AW[mb]AB[eg]AW[eh]AP[goproblems]
+(;B[ke]
+(;W[ed]C[FORCE]
+(;B[fd];W[fe]
+(;B[fc];W[ee]
+(;B[ge];W[gf]
+(;B[ec]C[])
+(;B[ff]C[RIGHT]))
+(;B[hf])
+(;B[ec];W[ge])
+(;B[df];W[ge])
+(;B[gf];W[ge])
+(;B[ff];W[df]))
+(;B[ee];W[fc])
+(;B[ge];W[fc]))
+(;B[fc];W[fd]C[corner dies.])
+(;B[ec];W[fd]C[corner dies.])
+(;B[gc];W[fd]C[corner dies.])
+(;B[fe];W[fd]C[]
+(;B[gf];W[ee]
+(;B[df];W[gg];B[ie];W[ge];B[hf];W[id];B[ff];W[jf];B[ig];W[jg];B[ih];W[jh];B[ii];W[kh])
+(;B[ge];W[df]))
+(;B[ge];W[ee]
+(;B[ie];W[df];B[id];W[jf];B[gc];W[gg])
+(;B[df];W[ie]
+(;B[gg];W[gf])
+(;B[gf];W[gg])
+(;B[hf];W[gg]
+(;B[ig];W[ff])
+(;B[ff];W[ig]))))
+(;B[gg];W[ge])
+(;B[hf];W[ig]
+(;B[gg];W[ge]
+(;B[ee];W[gf])
+(;B[gf];W[ee]))
+(;B[gf];W[ee]
+(;B[ge];W[df])
+(;B[df];W[ge]))
+(;B[ie];W[jf];B[id];W[gf];B[ge];W[ee];B[ff];W[df])))
+(;B[ge];W[fe])
+(;B[ee];W[fe]))
+(;W[fc]
+(;B[fd];W[ec];B[gc]C[RIGHT])
+(;B[ed];W[ec];B[fd];W[gc]
+(;B[fe]C[RIGHT])
+(;B[ge]C[RIGHT]))))
+(;B[ed];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[fd];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[fc];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[ec];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[ge];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[fe];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[df];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[ee];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[gf];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[ie];W[ke]C[The group on the left was already alive. White happily takes the group on the right that you could have saved too.])
+(;B[hf];W[ed];B[fd];W[fe];B[fc];W[ee];B[ge];W[ie];B[gf];W[gg];B[ff];W[df]C[Whoopsy daisy. Your first move destabilized a living group!]))

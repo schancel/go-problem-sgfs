@@ -1,0 +1,70 @@
+(;GE[tesuji]DI[7k]DP[41]SO[MeleeNewb]CO[6]AW[bk]AW[ck]AB[bj]AB[cj]AW[ej]AW[dj]AW[ei]AB[di]AB[dh]AB[eh]AB[fh]AB[ch]AB[dp]AB[ep]AB[eq]AB[er]AB[ip]AB[jq]AW[dr]AW[dq]AW[cp]AW[co]AW[en]AB[dk]TR[dk]C[Do your best.]AB[hh]AP[goproblems]
+(;W[el];B[dl]
+(;W[dm];B[cl]
+(;W[bl];B[cm]
+(;W[bm]
+(;B[dn]
+(;W[em]
+(;B[cn]
+(;W[do];B[bn]
+(;W[bo]C[The cutting stone is captured! Black resigns at this point.CHOICERIGHT])
+(;W[ek]C[The cutting stone is captured! Black resigns at this point.RIGHT])
+(;W[an];B[am]
+(;W[ao];B[ak]C[Black is happy with this.])
+(;W[al];B[ao]C[No need to fight a ko.])
+(;W[bo];B[ao];W[ek]C[The cutting stone is captured! Black resigns at this point.];B[an];W[ap]C[RIGHT])
+(;W[ek];B[ao];W[bo])))
+(;W[bn];B[do]C[Your group is cut!])
+(;W[ek];B[do]C[Your group is cut!]))
+(;B[do];W[cn]C[RIGHT]))
+(;W[cn];B[em];W[ek]))
+(;B[cn]
+(;W[dn];B[bn]
+(;W[bo]C[RIGHT])
+(;W[ek]C[RIGHT]))
+(;W[bn];B[dn];W[do];B[em];W[ek]C[RIGHT])
+(;W[ek];B[bn];W[bo];B[an]
+(;W[ao];B[dn];W[do];B[em];W[am]C[RIGHT])
+(;W[dn]C[RIGHT]))))
+(;W[cn];B[bm]C[Black is happy with this.])
+(;W[ek];B[bm]C[Black is happy with this.])
+(;W[bn];B[bm];W[am];B[ak]C[Black is happy with this.]))
+(;W[cm];B[bl]C[Black is happy with this.])
+(;W[ek];B[cm])
+(;W[bm];B[bl]C[Black is happy with this.]))
+(;W[ek])
+(;W[cl])
+(;W[cm];B[ek];W[fk];B[fj]C[Black is happy with this.]))
+(;W[dl];B[ek]
+(;W[el];B[fk]C[Your stones were cut.])
+(;W[fk];B[el]
+(;W[em];B[fl];W[gl];B[fm]
+(;W[fn];B[gm];W[hm];B[gn];W[go];B[hn];W[in];B[ho]C[The ladder didn't work.])
+(;W[gm];B[fn];W[fo];B[gn];W[hn];B[go];W[gp];B[ho]C[The ladder didn't work.])
+(;W[gn];B[gk]C[Black also has a cut at C8.]))
+(;W[fl];B[em]
+(;W[dm];B[fm];W[gm];B[fn];W[fo];B[gn];W[hn];B[go];W[gp];B[ho]C[The ladder didn't work.])
+(;W[fm];B[dm]
+(;W[cm];B[dn]
+(;W[do];B[cl];W[cn]C[Nice and clean. Can you find the other solution?RIGHT])
+(;W[cn];B[do]))
+(;W[cl];B[cm]C[Black is going to kill one of the marked groups.]TR[bk]TR[ck]TR[cl]TR[dl]TR[dj]TR[ej]TR[ei])))))
+(;W[ek];B[dl]
+(;W[el];B[cm]
+(;W[dm];B[cl]C[Black is happy with this.])
+(;W[cl];B[dm];W[bm];B[ak];W[bl];B[bn]C[Black is very happy with this.])
+(;W[bm];B[bl];W[al];B[cl];W[ak];B[aj];W[am];B[bn]C[Black is very happy with this.]))
+(;W[cl];B[dm]
+(;W[cm];B[dn];W[do];B[em];W[fm];B[fn];W[eo];B[fl];W[gm];B[el]C[Your group is cut!])
+(;W[dn];B[cm];W[bm];B[ak];W[bl];B[bn]C[Black's happy with this.])
+(;W[cn];B[dn];W[do];B[em];W[fm];B[fn];W[eo];B[fl];W[gm];B[el]C[Your group is cut!])
+(;W[em];B[cm];W[bm];B[ak];W[bl];B[bn]C[Black is happy with this.])
+(;W[el];B[cm]))
+(;W[dm];B[cl]
+(;W[bl];B[cm]
+(;W[bm];B[em]
+(;W[dn];B[el]C[Your group is cut!])
+(;W[el];B[dn];W[cn];B[dm]C[Your group is cut!]))
+(;W[cn];B[bm]C[Black is happy with this.]))
+(;W[cm];B[bl]C[Black is happy with this.])))
+(;W[cl];B[ek]C[Seriously? Try again.]))

@@ -1,0 +1,130 @@
+(;GE[life and death]DI[5d]DP[6]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ib][qb][hc][oc][pc][id][jd][ld][qd][le][ne][jf][mf]AB[jb][ob][pb][jc][lc][mc][nc][kd][me]LB[jb:3][kd:1][le:2]C[Black tries to live with 1 and 3. What can white do?]PL[W]
+(;W[pa]CR[pa]
+;B[na]CR[na]
+(;W[mb]CR[mb]
+;B[lb]CR[lb]
+(;W[kc]CR[kc]
+;B[ma]CR[ma]
+;W[ka]CR[ka]
+;B[ja]CR[ja]C[White cannot connect. Black is alive])
+(;W[ja]CR[ja]
+;B[ka]CR[ka]TR[ma][kc]C[Marked intersections are miai for 2 eyes.])
+(;W[ma]CR[ma]
+;B[kc]CR[kc]C[Black is alive]))
+(;W[kc]CR[kc]
+;B[mb]CR[mb]C[Black is alive])
+(;W[kb]CR[kb]
+;B[ka]CR[ka]C[Black is alive])
+(;W[qa]CR[qa]
+(;B[la]CR[la]C[CHOICE]
+(;W[mb]CR[mb]
+;B[lb]CR[lb]
+(;W[ja]CR[ja]C[RIGHT])
+(;W[kc]CR[kc]C[RIGHT]))
+(;W[kb]CR[kb]
+;B[mb]CR[mb]
+(;W[kc]CR[kc]
+;B[oa]CR[oa]C[Black is alive])
+(;W[oa]CR[oa]
+;B[kc]CR[kc]C[Black is alive]))
+(;W[ja]CR[ja]
+;B[mb]CR[mb]
+(;W[kb]CR[kb]
+;B[ka]CR[ka]
+;W[kc]CR[kc]
+;B[lb]CR[lb]C[Black is alive])
+(;W[oa]CR[oa]
+;B[ka]CR[ka]C[Black is alive]))
+(;W[kc]CR[kc]
+;B[mb]CR[mb]
+(;W[kb]CR[kb]
+;B[oa]CR[oa]C[Black is alive])
+(;W[oa]CR[oa]
+;B[kb]CR[kb]C[Black is alive])))
+(;B[ja]CR[ja]C[CHOICE]
+(;W[kc]CR[kc]
+;B[kb]CR[kb]
+(;W[la]CR[la]C[RIGHT])
+(;W[nb]CR[nb]
+;B[mb]CR[mb]
+;W[la]CR[la]C[RIGHT Black is dead]))
+(;W[la]CR[la]
+;B[lb]CR[lb]
+(;W[kc]CR[kc]C[RIGHT])
+(;W[nb]CR[nb]C[RIGHT])
+(;W[ma]CR[ma]
+;B[kc]CR[kc]
+(;W[nb]CR[nb]
+;B[mb]CR[mb]
+(;W[ka]CR[ka]
+;B[kb]CR[kb]C[Black is alive])
+(;W[oa]CR[oa]
+;B[ka]CR[ka]C[Black is alive]))
+(;W[ka]CR[ka]
+;B[nb]CR[nb]C[Black is alive]))
+(;W[ka]CR[ka]
+;B[nb]CR[nb]
+(;W[ma]CR[ma]
+;B[kc]CR[kc]C[Black is alive])
+(;W[kc]CR[kc]
+;B[ma]CR[ma]C[Black is alive]))))
+(;B[ka]CR[ka]
+;W[kc]CR[kc]
+;B[lb]CR[lb]
+;W[ma]CR[ma]C[RIGHT]))
+(;W[la]CR[la]
+;B[ka]CR[ka]
+(;W[qa]CR[qa]
+;B[lb]CR[lb]C[Black is alive])
+(;W[ma]CR[ma]
+;B[lb]CR[lb]C[Black is alive])))
+(;W[la]CR[la]
+;B[ka]CR[ka]
+(;W[na]CR[na]
+;B[kc]CR[kc]
+(;W[nb]CR[nb]
+;B[mb]CR[mb]C[Black is alive])
+(;W[mb]CR[mb]
+;B[nb]CR[nb]C[Black is alive]))
+(;W[kc]CR[kc]
+;B[na]CR[na]
+;W[pa]CR[pa]
+;B[lb]CR[lb]C[Black is alive]))
+(;W[ma]CR[ma]
+;B[na]CR[na]
+(;W[ka]CR[ka]
+;B[la]CR[la]C[Black is alive])
+(;W[la]CR[la]
+;B[ka]CR[ka]C[Black is alive]))
+(;W[kb]CR[kb]
+;B[ka]CR[ka]
+(;W[kc]CR[kc]
+;B[lb]CR[lb]C[Black is alive])
+(;W[la]CR[la]
+;B[ja]CR[ja]
+(;W[kc]CR[kc]
+;B[lb]CR[lb]C[Black is alive])
+(;W[lb]CR[lb]
+;B[mb]CR[mb]C[Black is alive])
+(;W[mb]CR[mb]
+;B[lb]CR[lb]C[Black is alive])
+(;W[pa]CR[pa]
+;B[na]CR[na]C[Black is alive]))
+(;W[pa]CR[pa]
+;B[na]CR[na]C[Black is alive])
+(;W[lb]CR[lb]
+;B[mb]CR[mb]C[Black is alive]))
+(;W[kc]CR[kc]
+;B[na]CR[na]
+(;W[mb]CR[mb]
+;B[lb]CR[lb]
+(;W[pa]CR[pa]
+;B[ma]CR[ma]C[Black is alive])
+(;W[ma]CR[ma]
+;B[pa]CR[pa]C[Black is alive]))
+(;W[kb]CR[kb]
+;B[ka]CR[ka]C[Black is alive])
+(;W[pa]CR[pa]
+;B[mb]CR[mb]C[Black is alive])))

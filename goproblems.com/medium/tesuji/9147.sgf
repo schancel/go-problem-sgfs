@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[2k]DP[22]SO[tristesse]CO[9]AB[pb]AB[pd]AB[qe]AB[pf]AB[of]AB[ng]AB[nd]AB[qg]AB[qh]AW[qf]AW[rf]AW[re]AW[rd]AW[qc]AW[qb]AW[og]AW[pg]AW[pi]TR[qg]TR[qh]C[What is the best way for Black to save his marked stones?]AP[goproblems]
+(;B[oi];W[ph];B[pj];W[qi];B[qj];W[ri]LB[oj:A]LB[nh:B]C[Failure #2 -- White has captured the cutting stones and can aim at either A or B])
+(;B[ph];W[oh];B[oi];W[nh];B[pj];W[ni];B[oj];W[mg]C[I quote from the book: Failure #1 -- 'Immediately cutting through ... is not good. Black captures only one stone, so his position is not as thick as it was in [variation of the correct diagram where Black captures].'])
+(;B[pj]
+(;W[qi];B[ph];W[oh];B[oi];W[nh];B[ri]C[Variation of the correct answer -- 'If White blocks at 2 ..., Black will cut through with 3 and 5, then capture two white stones in a ladder with 7. Black ends up with a very thick position facing the bottom.'RIGHT])
+(;W[oi];B[qi];W[oj];B[pk]C['White's strongest response is to make a bamboo joint with 2. This lets Black link up with 3. White strengthens his stones by exchanging 4 for 5, but this move also strengthens Black's stones.'RIGHT])))

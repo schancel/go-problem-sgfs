@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[35]SO[morten]CO[0]AB[ba]AB[bb]AB[ab]AB[cc]AB[dc]AB[ec]AB[fc]AB[gc]AB[hc]AB[ic]AB[ia]AB[ib]AB[cd]AB[ce]AB[cf]AB[cg]AB[ch]AB[ci]AB[bi]AB[ai]AW[ad]AW[cb]AW[db]AW[eb]AW[fb]AW[gb]AW[hb]AW[ha]AW[ah]AW[bh]AW[bg]AW[bf]AW[be]AW[bd]AW[bc]AB[ea]AB[fa]AB[ga]C[Black to kill]AP[goproblems]
+(;B[af]
+(;W[ac]C[CHOICE]
+(;B[ag];W[da]
+(;B[fa]C[White dies.RIGHT])
+(;B[ae]))
+(;B[ae];W[da]
+(;B[fa]C[White dies. RIGHT])
+(;B[ag];W[fa]C[White lives - black can do a lot better.]))
+(;B[ca];W[da]C[Black dies - black can do a lot better.])
+(;B[da];W[ca]C[Black dies]))
+(;W[da]
+(;B[fa];W[ac]
+(;B[ea]C[White dies. RIGHT])
+(;B[ga]C[White dies. RIGHT])
+(;B[ae]C[White diesRIGHT])
+(;B[ca];W[aa]C[White lives])
+(;B[ag]C[White diesRIGHT]))
+(;B[ag];W[fa]C[White lives - black can do a lot better.])
+(;B[ae];W[fa]C[White lives - black can do a lot better.])))
+(;B[da];W[ca]
+(;B[ea];W[ac]C[Black dies - black can do a lot better.])
+(;B[fa];W[ac]C[Black dies - black can do a lot better.])
+(;B[af];W[ac]C[Black dies - black can do a lot better.])
+(;B[ac];W[aa]C[Black dies - black can do a lot better.]))
+(;B[ca];W[da]
+(;B[fa];W[ac]C[Black dies - black can do a lot better.])
+(;B[af];W[ac]C[Black dies - black can do a lot better.])
+(;B[ac];W[aa]C[Black dies - black can do a lot better.])))

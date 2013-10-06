@@ -1,0 +1,22 @@
+(;GE[best move]DI[1k]DP[19]SO[kennabee]CO[5]AB[ck]AB[ce]AB[cf]AB[cg]AB[bh]AB[ai]AB[ak]AB[bl]AB[cl]AB[cm]AB[cn]AW[bn]AW[bm]AW[am]AW[al]AW[bp]AW[co]AW[do]AW[dp]AB[dn]AW[ch]AW[bi]AW[cj]AW[dg]AW[eg]AB[dj]AW[bg]TR[bg]AP[goproblems]
+(;B[bj];W[ah]C[]
+(;B[ci];W[aj]C[]
+(;B[dh];W[bk]C[Ko but white take first.])
+(;B[bk];W[dh]))
+(;B[dh];W[aj]
+(;B[bk];W[di];B[ci];W[eh])
+(;B[ci];W[bk]C[Ko but white take first.])))
+(;B[aj];W[ah];B[bk];W[di])
+(;B[ah];W[ag];B[aj];W[bk];B[bj];W[bk])
+(;B[dh]
+(;W[ah]C[CHOICE]
+(;B[bj];W[aj];B[bk];W[di]
+(;B[eh];W[ei];B[fh];W[ci])
+(;B[ci];W[eh]))
+(;B[di];W[aj];B[bk];W[bf]
+(;B[be];W[af]
+(;B[ci];W[bj];B[bh]C[KoRIGHT]))
+(;B[ci];W[be])))
+(;W[di];B[ci]C[Ko!RIGHT]))
+(;B[di];W[dh];B[ci];W[bj])
+(;B[ag];W[ah]C[The answer is Ko but you can do better than this one.]))

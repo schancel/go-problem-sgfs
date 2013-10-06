@@ -1,0 +1,40 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[9]AB[ps]AB[qs]AB[pr]AB[pq]AB[pp]AB[oo]AB[no]AB[mo]AB[nn]AB[lp]AB[lq]AB[lr]AB[ls]AB[kr]AW[ks]AW[js]AW[jr]AW[jq]AW[kq]AW[kp]AW[ko]AW[lo]AW[ln]AW[mn]AW[mm]AW[nm]AW[on]AW[om]AW[pn]AW[po]AW[qo]AW[qp]AW[qq]AW[qr]AW[rr]AW[rs]AB[nr]AW[nq]AW[op]LB[op:A]C[How should black respond?]AP[goproblems]
+(;B[mp];W[or]
+(;B[ns]C[Well done! Alive! :)RIGHT])
+(;B[os];W[ns]
+(;B[oq];W[or]C[:(])
+(;B[ms];W[oq]
+(;B[ns];W[mq]C[Seki! You could avoid it..])
+(;B[mq];W[ns]C[:(])))
+(;B[oq];W[os]C[:(])
+(;B[mr];W[os]C[:(])
+(;B[np];W[os]C[:(]))
+(;B[mq];W[mp]C[Can only live with half your group in gote now... White'd be sooo happy... Espacially since you could live with it all!]LB[oq:1]LB[np:2]LB[ns:3])
+(;B[np];W[mp]C[oops?])
+(;B[oq];W[mp]C[Can only live with half your group in gote now... White'd be sooo happy... Espacially since you could live with it all!]LB[mq:1]LB[np:2]LB[ns:3])
+(;B[ns];W[mp]C[Can only live with half your group in gote now... White'd be sooo happy... Espacially since you could live with it all!])
+(;B[or];W[mp]
+(;B[oq];W[mr]
+(;B[mq];W[ms]C[:(])
+(;B[ms];W[ns]C[Wow, 3 snapbacks.. ;) (but still dead)])
+(;B[ns];W[mq]C[Dead..]))
+(;B[mq];W[ms]C[Dead.. :(])
+(;B[mr];W[ns]C[Dead.. :(])
+(;B[ns];W[mr]C[Dead.. :(]))
+(;B[mr];W[mp]
+(;B[or];W[ns]C[Dead.. :(])
+(;B[oq];W[os]C[Dead.. :(])
+(;B[ns];W[or]C[Dead.. :(])
+(;B[mq];W[or]
+(;B[oq];W[os]C[:(])
+(;B[os];W[ns]C[Dead.. :(])
+(;B[ns];W[oq]C[Dead.. :(])))
+(;B[os];W[mp]C[Can only live with half your group in gote now... White'd be sooo happy... Espacially since you could live with it all!])
+(;B[ms];W[or]
+(;B[os];W[oq]
+(;B[ns];W[mp]C[Dead.. :(])
+(;B[mq];W[ns]C[:(]))
+(;B[mq];W[os]C[:(])
+(;B[np];W[os]C[:(])
+(;B[oq];W[os]C[:(])
+(;B[mp];W[os]C[:(])))

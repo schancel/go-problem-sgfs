@@ -1,0 +1,48 @@
+(;GE[best move]DI[1k]DP[18]SO[munisai79]CO[7]AW[qj]AW[qi]AW[qk]AW[ph]AW[oh]AW[og]AW[pl]AW[pm]AB[ql]AB[rl]AB[rk]AB[rj]AB[ri]AB[qh]AB[qg]AB[pg]AB[of]AB[oe]AB[lf]AW[kg]AW[in]AW[jn]AW[ko]AW[mo]AW[no]AW[oo]LB[lf:1]LB[kg:2]C[The last two moves are marked.  How can black break into white's right-center territory?]AW[id]AW[hd]AW[gd]AB[hc]AB[ic]AB[jc]AP[goproblems]
+(;B[mh];W[lh]C[White threatens the cut.]
+(;B[mi]
+(;W[oj]AB[li]LB[oj:1]LB[li:2]C[Great job!  Black continued with (2) after white covered his weakness.CHOICERIGHT])
+(;W[mg]C[And if white cuts?CHOICE]
+(;B[ng]
+(;W[lg]
+(;B[nf];W[oj]C[Good job!RIGHT])
+(;B[nh];W[oj]C[Good job!RIGHT])
+(;B[oj];W[pk];B[nh]C[Great job!RIGHT])
+(;B[pi];W[oi]C[Sure, but you don't need to sacrifice at Q11.])
+(;B[pk];W[oj]C[Sure, but the sacrifice is not necessary.])
+(;B[pj];W[oj]C[Sure, but the sacrifice is not necessary.]))
+(;W[nh]C[White is being obstinant.CHOICEFORCE];B[nf];W[lg]
+(;B[oj]C[];W[pi];B[pk];W[ok];B[pj];W[nj])
+(;B[pi];W[oi]
+(;B[pj];W[oj]C[A small reduction.])
+(;B[oj];W[pj];B[ni]C[Excellent work.  RIGHT]))
+(;B[pj];W[oj];B[oi];W[ni];B[nj];W[pi])
+(;B[pk];W[oj];B[ok];W[nj])
+(;B[ni];W[oj];B[oi];W[pi];B[pk];W[pj];B[ok];W[nj]
+(;B[mj];W[nk])
+(;B[mk];W[nk]))
+(;B[oi];W[pi];B[pk];W[ni];B[nj];W[oj];B[ok];W[mj])))
+(;B[lg];W[ng]
+(;B[oj];W[pk])
+(;B[kh];W[li];B[ki];W[lj];B[jg];W[kf])
+(;B[li];W[kh];B[oj];W[pk]))))
+(;B[mg];W[mi];B[ni];W[nh]
+(;B[li];W[mj];B[kh];W[lg];B[jg];W[kf];B[ke];W[jf];B[if];W[je])
+(;B[mj];W[li]
+(;B[pi];W[oi];B[pj];W[pk];B[oj];W[nj])
+(;B[oi];W[pi];B[pk];W[ok]))
+(;B[pi];W[oi]
+(;B[pj];W[pk])
+(;B[oj];W[pj];B[nj];W[pk]))
+(;B[oi];W[pi];B[pk];W[ok])))
+(;B[mg];W[mi])
+(;B[lg];W[li]
+(;B[mi];W[mh];B[lh];W[ni];B[mj];W[ki];B[nj];W[oj])
+(;B[lh];W[mi]))
+(;B[lh];W[lg];B[mg];W[mh];B[nh];W[mi]
+(;B[ni];W[ng];B[mf];W[nj];B[oi];W[pi];B[oj];W[ok])
+(;B[ng];W[ni]
+(;B[pi];W[oi])
+(;B[oi];W[pi];B[oj];W[pk])
+(;B[oj];W[oi];B[pk];W[pi])))
+(;B[oj];W[mh]C[It's too early for P10.]))

@@ -1,0 +1,9 @@
+(;GE[endgame]DI[1k]DP[18]SO[bass]CO[9]AB[nb]AB[nc]AB[nd]AB[ne]AB[mc]AB[ld]AB[ke]AB[je]AB[kf]AB[lf]AB[lg]AB[mg]AB[jb]AB[ib]AB[id]AB[hd]AB[hc]AW[ie]AW[if]AW[jf]AW[kg]AW[kh]AW[ig]AW[jh]AW[lh]AW[mh]AW[nh]AW[oh]AW[nf]AW[of]AW[oe]AW[od]AW[oc]AW[mf]AW[me]AW[md]AW[jc]AW[jd]C[Reduce the black territory as much as possible.]AB[ob]AW[pb]AW[qb]AW[lc]AB[lb]AP[goproblems]
+(;W[kc];B[kb]
+(;W[le];B[ic]
+(;W[kd];B[ld];W[kd]C[White breaks into the black territory!RIGHT])
+(;W[ng];B[kd]C[White could have reduced even more.]))
+(;W[ng];B[ic];W[le];B[kd]C[White could have reduced even more.]))
+(;W[le];B[kc])
+(;W[ng];B[kc])
+(;W[oa];B[kc]))

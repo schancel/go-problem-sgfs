@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[8k]DP[45]SO[SinianSung]CO[7]AB[pd]AB[od]AB[oe]AB[qe]AB[re]AB[rf]AB[qg]AB[qi]AW[rd]AW[qd]AW[qb]AW[pc]AW[oc]AW[nf]AW[pe]AW[pf]AW[qf]AW[ni]AW[pj]AW[qj]AW[rj]TR[qf]TR[pf]TR[pe]C[Black to play and capture the three marked stones]AP[goproblems]
+(;B[of];W[pg]
+(;B[oh]
+(;W[rg]
+(;B[ph]
+(;W[qh];B[og]C[Good, the white stones die! RIGHT]))
+(;B[og]
+(;W[qh];B[ph]C[Good, the white stones die! RIGHT]))
+(;B[qh];W[sf];B[se];W[sd]C[White is save])))
+(;B[og];W[ph]C[White escapes])
+(;B[ph];W[og];B[ng];W[oh];B[oi];W[nh]C[this ladder does not work for black.]))
+(;B[pg];W[of]))

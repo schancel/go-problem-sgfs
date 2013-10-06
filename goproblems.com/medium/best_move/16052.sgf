@@ -1,0 +1,5 @@
+(;GE[best move]DI[3k]DP[26]SO[flanner]CO[0]AW[qc]AW[od]AW[nd]AW[md]AW[ne]AW[nc]AW[nb]AW[jd]AB[mc]AB[lc]AB[ld]AB[le]AB[me]AB[kf]AB[nf]AB[oe]AW[pg]AW[pi]AP[goproblems]
+(;B[pf];W[pe];B[of];W[qf];B[qe];W[pd];B[qg];W[rf];B[qh]C[]
+(;W[ph]C[CHOICE];B[re]C[RIGHT])
+(;W[re]C[CHOICE];B[ph];W[og]C[CHOICE];B[ng]C[RIGHT]))
+(;B[of];W[qe]))

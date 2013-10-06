@@ -1,0 +1,73 @@
+(;GE[tesuji]DI[7k]DP[40]SO[stoneater]CO[0]AB[ga]AB[ha]AB[hb]AB[hc]AW[gc]AW[gb]AW[fa]AW[eb]AW[fc]AW[gd]AW[ge]AW[hd]AW[ed]AW[dd]AW[ce]AW[bd]AW[bf]AB[ee]AB[fe]AB[ef]AB[cf]AB[cg]AB[dg]AB[bg]AB[ch]AW[bh]AW[ag]AW[ah]AB[eg]AB[eh]AW[ff]AW[fg]AW[fh]AW[gi]AW[gj]AW[hh]AW[ih]AW[jh]AW[jg]AW[kg]AW[lg]AW[ki]AW[lh]AW[lf]AW[if]AW[hf]AB[jf]AB[kf]AB[ke]AB[le]AB[me]AB[mf]AB[mg]AB[he]AB[ie]AB[id]AB[ic]AW[je]AB[di]AB[fj]AB[gk]AB[hj]AB[hi]AB[ii]AB[ji]AB[jj]AB[ik]AB[hl]AB[hm]AB[gn]AB[fn]AB[en]AB[fo]AB[gp]AB[ho]AB[io]AB[ip]AB[jp]AB[kp]AB[kr]AB[ks]AW[gq]AW[hq]AW[iq]AB[fq]AB[fs]AB[es]AB[fr]AB[gr]AB[hr]AW[ep]AW[fp]AW[eo]AW[er]AW[eq]AW[ds]AW[dp]AW[co]AW[dn]AW[bn]AW[cn]AW[an]AW[bm]AW[bi]AW[ci]AW[bj]AB[ak]AB[al]AB[am]AB[bl]AB[cl]AB[cm]AB[dm]AB[ck]AB[cj]AB[el]AW[kj]AW[kk]AW[jk]AW[il]AW[jl]AW[im]AW[in]AW[hn]AW[jo]AW[ko]AW[lo]AW[lp]AW[mq]AW[lr]AW[ls]AB[ei]AW[fi]AB[lc]AB[lb]AB[ma]AB[mc]AB[nc]AB[ne]AB[od]AB[pd]AB[qd]AB[rd]AB[sd]AB[qe]AB[qg]AB[rg]AB[sg]AB[sh]AB[si]AB[ri]AB[qi]AB[pg]AB[og]AB[oh]AW[ph]AW[qh]AW[rh]AW[pi]AW[oi]AW[oj]AW[qj]AW[rj]AW[sj]AW[qk]AW[ql]AW[rl]AW[sl]AW[pl]AW[rm]AB[pk]AB[ok]AB[nk]AB[nj]AB[ni]AB[lj]AB[lk]AB[mk]AB[ml]AB[nm]AB[om]AB[ol]AB[pm]AB[qm]AB[qn]AB[rn]AW[qo]AW[ro]AB[po]AB[on]AB[pp]AB[op]AB[qp]AB[qr]AB[pr]AB[os]AW[nr]AW[ns]AW[oq]AW[pq]AW[np]AW[nq]AW[oo]AW[nn]AW[mo]AW[mm]AW[ll]AB[mi]AW[mh]AW[nh]AW[ng]AW[nf]AW[of]AW[oe]AW[pe]AB[pf]AW[rf]AW[sc]AW[rc]AW[qc]AW[pc]AW[oc]AW[nb]AW[mb]AW[oa]AB[pa]AB[qa]AW[qb]AW[ra]AW[bk]AW[cr]AW[ea]AW[no]AW[km]AW[aj]AW[bo]AW[kb]AB[rp]AB[qq]AB[hp]AB[jr]AB[kq]AW[de]AB[fd]AB[dq]AB[ln]AB[kn]AW[kd]AW[jd]AB[jb]AB[gg]C[White to find a clever endgame tesuji.]AB[or]AW[cq]AP[goproblems]
+(;W[fk]
+(;B[ej]C[CHOICE]
+(;W[gl]
+(;B[hk]C[CHOICE];W[gm]C[RIGHT])
+(;B[gm]C[Preferable for black.];W[hk];B[lm]LB[cs:B]LB[qf:W]LB[ob:B]LB[jc:W1]LB[ia:W2]LB[ir:W1]LB[hs:W2]LB[is:b]LB[kc:b]C[White has 5, Black has 4. C1 is only worth ~6]LB[ae:B1]LB[af:B2]LB[be:w
+]
+(;W[mn];B[kl];W[qf];B[pj];W[ll];B[gk];W[kl];B[fl]C[winning this ko is ~8 points.])
+(;W[kl];B[mn];W[jn]C[]LB[jm:+1P];B[mm]C[Because black wouldn't win the ko.];W[gk]C[The G9 ko is worth more. (~21)])))
+(;W[gm];B[gl])
+(;W[fl];B[gl]
+(;W[ek];B[dk])
+(;W[fm];B[gm];W[em];B[ek]))
+(;W[ek];B[fl]))
+(;B[fl];W[ej];B[dj]C[How black would likely play it.]))
+(;W[ej];B[fk]
+(;W[dj];B[ek];W[df];B[dk])
+(;W[dk];B[dj])
+(;W[ek];B[dk]))
+(;W[ek];B[fk]
+(;W[dj];B[dk])
+(;W[dk];B[dj])
+(;W[gm];B[gl];W[em];B[fm])
+(;W[ej]))
+(;W[ir];B[is];W[hs];B[jq])
+(;W[jc];B[kc]
+(;W[ib];B[ia])
+(;W[ja];B[ld];W[ka];B[la])
+(;W[ka];B[ld];W[la];B[ja]))
+(;W[kc];B[ka]
+(;W[ia];B[jc];W[ja];B[ld])
+(;W[jc];B[ld])
+(;W[ja];B[ia]))
+(;W[gl];B[fl]
+(;W[ej];B[fk];W[dj];B[dk];W[df];B[ek])
+(;W[gm];B[fm])
+(;W[ek];B[fk]))
+(;W[fl];B[fk]
+(;W[gm];B[gl];W[ek];B[fm])
+(;W[ek];B[ej])
+(;W[ej];B[ek]))
+(;W[gm];B[gl]
+(;W[fk];B[ej]
+(;W[fl];B[fm])
+(;W[fm];B[fl]))
+(;W[fm];B[fl]))
+(;W[ja];B[kc]
+(;W[ib];B[ia])
+(;W[jc])
+(;W[ka];B[jc])
+(;W[ia];B[jc])
+(;W[la];B[ka]))
+(;W[em];B[fm])
+(;W[is];B[ir])
+(;W[sn];B[so])
+(;W[qf];B[pj])
+(;W[ib];B[ia]
+(;W[ka];B[kc])
+(;W[kc];B[ka]))
+(;W[ia];B[kc];W[jc];B[ld])
+(;W[so];B[sn])
+(;W[dj];B[ej])
+(;W[dl];B[dk])
+(;W[sf];B[pj])
+(;W[fm];B[fl])
+(;W[dk];B[ek])
+(;W[ka];B[kc];W[jc])
+(;W[nd];B[md])
+(;W[lm]C[Nice find, but look for something alitle more ambitious.])
+(;W[sb]C[White's already alive.])
+(;W[pb]C[White's already alive.])
+(;W[ob]C[White's already alive.])
+(;W[pj];B[qf]C[That white group is already dead.]))

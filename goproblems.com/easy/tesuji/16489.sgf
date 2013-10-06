@@ -1,0 +1,5 @@
+(;GE[tesuji]DI[10k]DP[50]SO[ptyrna]CO[0]AB[fr]AB[gq]AB[gp]AB[go]AB[jq]AW[gr]AW[hr]AW[ir]AB[jr]AB[lq]AW[hp]AW[io]AW[in]C[Black to disconnect the marked stones.]TR[gr]TR[hr]TR[ir]AP[goproblems]
+(;B[ip];W[ho];B[hq];W[iq];B[jp]C[White is disconnected!RIGHT])
+(;B[ho];W[ip]C[Oh! Bamboo joint!])
+(;B[hq];W[iq]C[White is connected.])
+(;B[iq];W[hq]LB[ho:A]LB[ip:B]C[White is connected. A and B are miai.]))

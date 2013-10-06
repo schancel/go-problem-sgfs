@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[20]SO[ocho]CO[6]AB[dq]AB[dp]AB[dr]AB[eo]AB[fo]AW[ep]AW[gp]AW[fp]AW[er]AW[gr]AB[go]AB[hp]AB[hq]AB[io]AB[hr]AW[do]AW[co]AW[cp]AW[br]AW[cq]AP[goproblems]
+(;B[eq];W[fq]
+(;B[es];W[fr])
+(;B[gq];W[fr])
+(;B[fr];W[fs];B[gq];W[fr]))
+(;B[es]
+(;W[fs];B[eq];W[fq]
+(;B[fr];W[er]C[Assume white has more ko threats...];B[gq]C[RIGHT])
+(;B[gq]C[RIGHT]))
+(;W[fr];B[gs]C[RIGHT])
+(;W[eq];B[gs]C[RIGHT]))
+(;B[fq];W[eq])
+(;B[fr];W[eq]))

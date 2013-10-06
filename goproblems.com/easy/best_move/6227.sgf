@@ -1,0 +1,41 @@
+(;GE[best move]DI[12k]DP[56]SO[maba]CO[8]AW[bq]AW[br]AW[cq]AW[dp]AW[ep]AW[fp]AW[go]AW[dn]AW[cn]AW[bn]AB[do]AB[co]AB[bp]AB[en]AB[em]AB[dm]AB[cm]AB[ck]AB[bk]AB[cr]AB[dr]AB[eq]AB[fr]AB[hq]C[Where should white play?]AP[goproblems]
+(;W[bo]
+(;B[eo];W[cp]C[RIGHT])
+(;B[cp];W[eo]C[RIGHT]))
+(;W[cp];B[bo])
+(;W[eo];B[bo]
+(;W[cp];B[bm])
+(;W[ap];B[bm]
+(;W[cp];B[an])
+(;W[ao];B[an])
+(;W[an];B[am]))
+(;W[ao];B[ap]
+(;W[cp];B[an])
+(;W[aq];B[an])
+(;W[an];B[bm])
+(;W[bm];B[bl]))
+(;W[bm];B[bl]
+(;W[cp];B[am])
+(;W[ap];B[am])
+(;W[ao];B[ap]))
+(;W[an];B[bm]
+(;W[cp];B[am])
+(;W[ap];B[am])
+(;W[ao];B[am])))
+(;W[ao];B[ap]
+(;W[bo];B[bm])
+(;W[cp];B[bo]
+(;W[eo];B[an])
+(;W[aq];B[eo]))
+(;W[eo];B[bo]
+(;W[an];B[bm])
+(;W[cp];B[an])
+(;W[aq];B[an]))
+(;W[aq];B[eo]))
+(;W[ap];B[eo]
+(;W[bo];B[cp]C[White can do better.])
+(;W[cp];B[bo]C[White can do better.]))
+(;W[an];B[eo]C[White can do better.])
+(;W[aq];B[bo]
+(;W[ao];B[bm])
+(;W[ap];B[bm])))

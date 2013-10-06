@@ -1,0 +1,91 @@
+(;GE[life and death]DI[3d]DP[9]SO[santa c]CO[5]AW[cb]AW[bb]AW[bc]AW[ac]AW[bd]AB[ad]AB[ae]AB[be]AB[cc]AB[cd]AB[cf]AW[dc]AW[ec]AW[fc]AB[db]AB[gc]AW[gd]AW[hd]AW[hc]AW[ib]AW[jc]AB[kb]AB[kc]AB[kd]AB[ke]AB[ie]AB[he]AB[ge]AB[fd]AB[ed]AB[dd]C[Black can...]AP[goproblems]
+(;B[ca];W[eb]
+(;B[ea];W[da]MA[db]C[Well done! Black just needs to win the ko, twice and... :)RIGHT]LB[gb:a]LB[ba:b])
+(;B[gb];W[da]
+(;B[hb];W[ic]C[Black's captured! :(])
+(;B[ia];W[hb]C[:(])
+(;B[ha];W[ia]C[:(])
+(;B[ic];W[hb]C[:(])
+(;B[ga];W[ia]C[:(]))
+(;B[ba];W[da]C[:(])
+(;B[da];W[ba]C[:(])
+(;B[ab];W[da]C[:(]))
+(;B[da];W[ca]
+(;B[gb];W[eb]
+(;B[hb];W[ic]C[Black's captured! :(])
+(;B[ha];W[ia]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[ic];W[hb]C[:(])
+(;B[fb];W[ea]C[:(])
+(;B[ga];W[ia]C[:(])
+(;B[fa];W[ea]C[:(]))
+(;B[fb];W[gb]C[:(]))
+(;B[ba];W[da]
+(;B[gb];W[eb]
+(;B[hb];W[ic]C[Black's captured! :(])
+(;B[ga];W[ia]C[:(])
+(;B[ha];W[ia]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[ic];W[hb]C[:(]))
+(;B[fb];W[gb]C[:(])
+(;B[eb];W[fb]C[:(])
+(;B[ca];W[eb]C[:(]))
+(;B[fb];W[gb]C[:(]LB[eb:1]LB[gc:2]LB[ca:3]LB[aa:4])
+(;B[eb];W[gb]C[:(]LB[ca:1]LB[aa:2])
+(;B[ea];W[gb]LB[ca:1]LB[aa:2]C[:(])
+(;B[aa];W[gb]C[:(])
+(;B[ab];W[da]
+(;B[gb];W[eb]
+(;B[hb];W[ic]C[Black's captured! :(])
+(;B[ga];W[ia]C[:(])
+(;B[ha];W[ia]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[ic];W[hb]C[:(]))
+(;B[eb];W[fb]C[:(])
+(;B[fb];W[gb]C[:(]))
+(;B[gb];W[eb]
+(;B[da];W[ca]
+(;B[hb];W[ic]C[Black's captured! :(])
+(;B[ga];W[ia]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[ha];W[ia]C[:(])
+(;B[ic];W[hb]C[:(])
+(;B[fa];W[ea]C[:(])
+(;B[fb];W[ea]C[:(]))
+(;B[ea];W[da]
+(;B[fa];W[hb]C[:(])
+(;B[hb];W[ic]
+(;B[fa];W[ha]C[Black's captured! :(])
+(;B[ia];W[ja]C[Black's captured! :(])
+(;B[ha];W[ia]C[:(])
+(;B[ga];W[ia]C[:(])
+(;B[ja];W[ia]C[:(]))
+(;B[ha];W[hb]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[ga];W[ia]C[:(])
+(;B[ic];W[hb]C[:(]))
+(;B[hb];W[ic]
+(;B[da];W[ca]C[Black's captured! :(])
+(;B[ia];W[ja]
+(;B[ha];W[fb]C[:(])
+(;B[ga];W[ha]MA[ia]
+(;B[da];W[fa];B[ia]MA[ha];W[ca];B[jb];W[ha]MA[ia]C[Well done! Black just needs to win the ko, twice and... :)RIGHT])
+(;B[ia]C[NOTTHIS])
+(;B[ea];W[da]C[:(]))
+(;B[da];W[ca];B[ga];W[fa];B[jb];W[ha]C[Well done! Black just needs to win the ko, twice and... :)RIGHT]MA[ia])
+(;B[ea];W[da]C[Black's captured! :(]))
+(;B[ha];W[ia]C[:(])
+(;B[ga];W[ia]C[:(])
+(;B[ea];W[da]C[Black's captured! :(]))
+(;B[ha];W[ia]C[:(])
+(;B[ga];W[hb]C[:(])
+(;B[ia];W[hb]C[:(])
+(;B[fa];W[da]C[Black's captured! :(])
+(;B[ic];W[hb]C[:(]))
+(;B[fa];W[eb]
+(;B[gb];W[da]C[Black's captured! :(])
+(;B[ea];W[da]C[Black's captured! :(])
+(;B[da];W[ca]
+(;B[ea];W[gb]C[:(])
+(;B[gb];W[ea]C[Black's captured! :(])))
+(;B[ga];W[gb]C[:(]))

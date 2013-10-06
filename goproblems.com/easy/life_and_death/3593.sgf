@@ -1,0 +1,36 @@
+(;GE[life and death]DI[7k]DP[44]SO[santa c]CO[8]AB[cb]AB[cc]AB[cd]AB[ce]AB[da]AB[eb]AB[fb]AB[ec]AB[ed]AW[db]AW[dc]AW[dd]AW[de]AW[fc]AW[fd]AW[fe]AW[ee]AW[gb]AW[gc]AW[hc]AW[fa]AB[ha]AB[jb]AB[jc]AB[id]AB[gd]AB[ge]AB[gf]AB[fg]AB[dg]AB[df]C[Can black kill what seems to be a living shape? Give it a try ;p]AP[goproblems]
+(;B[ga];W[ea]
+(;B[eb];W[ca]
+(;B[ec];W[bb]
+(;B[bc];W[ab]
+(;B[ba]C[Well done ;)RIGHT])
+(;B[aa];W[ba]C[White's alive!])
+(;B[ac];W[ba]C[White's alive!]))
+(;B[ac];W[ab]
+(;B[bc];W[ba]C[White's alive!])
+(;B[ba];W[aa]C[Well done! ;)RIGHT])
+(;B[aa];W[ba]C[White's alive!]))
+(;B[ab];W[bc]
+(;B[ba];W[aa]MA[ba]C[Ko.. Could be better..];B[ba]C[NOTTHIS])
+(;B[ac];W[bd]
+(;B[ba];W[aa]MA[ba]C[Ko... Could be better..];B[ba]C[NOTTHIS])
+(;B[aa];W[ba]C[White's alive!])
+(;B[ad];W[ae]
+(;B[ba];W[aa]C[White's alive!])
+(;B[aa];W[ba]C[White's alive!])
+(;B[be];W[aa]C[White's alive!]))
+(;B[be];W[ad]C[White's alive!]))
+(;B[bd];W[ac]C[White's alive!]))
+(;B[ba]
+(;W[aa];B[bc]C[Well done! ;)RIGHT])
+(;W[bc];B[bd]TR[aa]TR[ac]C[RIGHT]))
+(;B[aa];W[ba]
+(;B[bc];W[ab]C[White's alive!])
+(;B[ab];W[ac]C[White's alive!]LB[ab:A]LB[bc:B])
+(;B[ac];W[ab]C[White's alive!])))
+(;B[ba];W[ec]C[White's alive!])
+(;B[bb];W[ec]C[White's alive!]))
+(;B[ca];W[eb]C[White's alive!])
+(;B[ec];W[eb]C[White's alive!]))
+(;B[ea];W[ca]C[White's alive!])
+(;B[ca];W[ea]C[White's alive!]))

@@ -1,0 +1,11 @@
+(;GE[life and death]DI[4k]DP[31]SO[huhss]CO[8]AB[gn][cp][dq][dr][do][eo][fo][go][fp][fq][gq][fn][jm][fm][fl][ek][fk][gk][hj]
+[ii][ij][ik][jk][jl][cq][im][jn][kn][ko][kp][jp][lp][kq][jr][lr][ks][js][is][dj]
+[di][ei][fi][ci][bi][ai][bj]AW[aj][ak][bk][ck][dk][cj][el][em][dn][cm][co][bn][bp]
+[ao][dp][ep][eq][er][fr][gr][hr][ir][hs][hq][iq][jq][ip][hp][gp][ho][io][jo][in]
+[hn][hm][gm][gl][hl][il][hk][ji][jj][kj][kk][kl][km][ln][bq]LB[cq:1][bq:2]C[Black first - win the capturing race]
+AP[MultiGo:4.2.1]SZ[19]
+
+(;B[ds]
+(;W[cs];B[br];W[es];B[cr];W[ar];B[bs]C[RIGHT])
+(;W[cr];B[br];W[bs];B[es]C[RIGHT]))
+(;B[br];W[ds];B[cr];W[ar]C[WRONG]))

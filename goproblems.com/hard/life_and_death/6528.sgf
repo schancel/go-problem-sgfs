@@ -1,0 +1,25 @@
+(;GE[life and death]DI[4d]DP[8]SO[kvzrock]CO[9]SZ[19]AW[ca]AW[fa]AW[ja]AW[bb]AW[db]AW[ib]AW[kb]AW[dc]AW[ic]AW[dd]AW[fd]AW[id]AW[``]AW[he]AW[cf]AW[hf]AW[cg]AW[fg]AW[gg]AW[hg]AW[dh]AB[da]AB[ea]AB[ha]AB[ia]AB[eb]AB[hb]AB[fc]AB[hc]AB[ed]AB[ee]AB[ge]AB[df]AB[ef]AB[gf]C[W to kill the entire b group.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #6]PL[W]PL[W]
+(;W[gd];B[hd]
+(;W[gb];B[gc];W[ec]LB[fb:A]C[B can't connect at A. So B dies!RIGHT])
+(;W[ec];B[fb]
+(;W[gc];B[ga]LB[gb:A]C[W can't A. So B lives.])
+(;W[ff];B[fe]C[B lives.])
+(;W[gb];B[ga]C[B is alive.]))
+(;W[gc];B[gb];W[ec];B[fe];W[fb];B[gd]C[W can do better.])
+(;W[fb];B[ec];W[gc];B[fe]C[B's alive.]))
+(;W[ec];B[fb]
+(;W[gd];B[hd]
+(;W[gc];B[ga]LB[gb:A]C[W can't A. So B lives.])
+(;W[gb];B[ga]C[W can't connect at a. B lives.]LB[gc:a]))
+(;W[gc];B[ga];W[gd];B[hd]C[B lives.]))
+(;W[ff];B[fe]
+(;W[ec];B[fb];W[gd];B[hd]C[Nope.])
+(;W[gd];B[hd];W[ec];B[fb]C[Nope]))
+(;W[gc];B[gb]
+(;W[ec];B[gd];W[fb];B[hd]C[Ko. But W can do better.])
+(;W[gd];B[hd];W[ec];B[fe];W[fb];B[gd]C[B lives. ]))
+(;W[gb];B[gc]
+(;W[gd];B[fb];W[ec];B[ga];W[hd]C[Part of B's group lived. W can do better.])
+(;W[fb];B[ec]C[Nope.])
+(;W[ec];B[fb];W[gd];B[ga];W[hd]C[Part of B's group lived. W can do better.]))
+(;W[fb];B[ec];W[gd];B[hd];W[gc];B[fe]C[Nope.]))

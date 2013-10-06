@@ -1,0 +1,16 @@
+(;GE[life and death]DI[3k]DP[26]SO[Field Mouse]CO[0]AB[rb]AB[pb]AW[ob]AW[oc]AB[qc]AW[pd]AW[pc]AW[pe]AB[mb]AB[lc]AW[rd]AW[pf]AW[sf]C[Consider the two black stones on the left alive :)]AP[goproblems]
+(;B[oa];W[na]
+(;B[qa]
+(;W[rc];B[nb]C[Good, ko for connection!RIGHT])
+(;W[nb];B[rc];W[pa]C[Ko for life!RIGHT]))
+(;B[pa];W[nb]
+(;B[rc];W[ra]C[White is happy with this])
+(;B[ra];W[rc]MA[qb]MA[sb]C[Black cannot make two eyes now])))
+(;B[qa];W[oa]MA[pa]MA[rc]C[The marked points are miai and black corner is dead])
+(;B[rc];W[oa]
+(;B[qa];W[pa]C[You got killed :(])
+(;B[pa];W[ra]C[Dead unconditionally]))
+(;B[sc];W[oa]C[The corner is dead])
+(;B[pa];W[oa]
+(;B[rc])
+(;B[ra];W[rc]MA[qb]MA[sb]C[Black is dead here])))

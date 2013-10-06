@@ -1,0 +1,96 @@
+(;GE[endgame]DI[5d]DP[4]SO[Spica]CO[8]FF[4]GM[1]SZ[7]AP[SGFC:1.14]
+
+GN[temp]
+
+AB[fa][fb][gb][gc][ge][ec][dc][dd][cd][ee][ef][df][cf][bc][da]
+[bf]AW[bb][cb][cc][bd][ce][fc][fe][ed][fd][ff][gf][fg][eg][ca]
+[cg]C[White to play and draw (No komi, no prisoners, Japanese Rules).]
+
+(;W[eb]
+(;B[db]
+(;W[be]
+(;B[ae]
+(;W[ac]
+(;B[de]
+(;W[gd];B[af]
+(;W[ad];B[dg]C[jigo 8 pts each. RIGHT])
+(;W[dg];B[ad]
+(;W[bc];B[aa])
+(;W[aa];B[bc];W[bd];B[be]
+(;W[bc];B[bg]C[white loses by 2])
+(;W[bg];B[bc]C[white has no ko-threats]))
+(;W[bg];B[aa])))
+(;W[dg];B[gd])
+(;W[ad];B[gd]))
+(;B[gd];W[de];B[ea];W[bg];B[ag];W[af]C[black has no ko-threats so connecting at G4 is not possible]
+))
+(;W[ad];B[gd]C[white's lower group dies])
+(;W[de];B[ad])
+(;W[dg];B[gd]C[white's lower group dies])
+(;W[gd];B[ad];W[ac];B[af]
+(;W[aa];B[dg]C[white loses by 2])
+(;W[dg];B[aa])
+(;W[bc];B[aa];W[de];B[ea]C[white dies at the top]))
+(;W[bg];B[gd];W[af];B[ag]C[white has no viable ko-threats]))
+(;B[de];W[af]
+(;B[gd];W[bg];B[ea];W[dg]C[black can't play so passively])
+(;B[dg];W[gd];B[bg];W[ac];B[ag];W[ae]C[black can't play so passively]
+))
+(;B[af];W[de];B[ea];W[bg]C[black has no answer to B1 or D1]
+)
+(;B[gd];W[de];B[ea];W[bg]C[black has no answer to B1 (due to lack of viable ko-threats) so can't connect at G4]
+))
+(;W[gd];B[be]
+(;W[ac];B[ae]
+(;W[ad];B[dg]C[white loses by 4])
+(;W[dg];B[ad];W[aa];B[bc]C[white has no ko-threats]))
+(;W[ad];B[ae];W[ac];B[dg]C[white loses by 4]))
+(;W[dg];B[gd]C[white's lower group dies]))
+(;B[gd];W[db];B[de];W[ea]C[black can't connect at G4])
+(;B[be];W[db]C[black takes a big loss]))
+(;W[gd];B[be]
+(;W[ac];B[ae]
+(;W[db];B[eb]
+(;W[ad];B[dg]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[dg];B[ad];W[aa];B[bc]C[white has no ko-threats]))
+(;W[ad];B[dg];W[db];B[eb]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[dg];B[ad]
+(;W[aa];B[bc];W[db];B[ab]
+(;W[eb];B[ba])
+(;W[ea];B[eb];W[ac];B[bd]))
+(;W[db];B[eb]
+(;W[aa];B[bc]C[white has no ko-threat])
+(;W[bc];B[aa]))))
+(;W[ad];B[ae]
+(;W[ac];B[dg];W[db];B[eb]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[db];B[eb];W[ac];B[dg]C[white loses by 1 since black wins the ko at E7]
+))
+(;W[db];B[eb]
+(;W[ac];B[ae]
+(;W[ad];B[dg]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[dg];B[ad]
+(;W[aa];B[bc]C[white has no ko-threat])
+(;W[bc];B[aa])))
+(;W[ad];B[ae];W[ac];B[dg]C[white loses by 1 since black wins the ko at E7]
+))
+(;W[dg];B[ad]))
+(;W[dg];B[gd]C[white's lower group dies])
+(;W[be];B[gd]C[white's lower group dies])
+(;W[ac];B[gd]C[white's lower group dies])
+(;W[db];B[eb]
+(;W[be];B[gd]C[white's lower group dies])
+(;W[dg];B[gd]C[white's lower group dies])
+(;W[gd];B[be]
+(;W[ac];B[ae]
+(;W[ad];B[dg]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[dg];B[ad]
+(;W[bc];B[aa])
+(;W[aa];B[bc]C[white has no ko-threat])))
+(;W[ad];B[ae];W[ac];B[dg]C[white loses by 1 since black wins the ko at E7]
+)
+(;W[dg];B[ad]))))

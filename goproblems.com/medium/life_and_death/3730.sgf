@@ -1,0 +1,40 @@
+(;GE[life and death]DI[1k]DP[19]SO[adum]CO[9]AW[aq]AW[bq]AW[cq]AW[dq]AW[er]AW[eq]AB[es]AB[dr]AB[cr]AB[cs]AW[br]AB[fr]AB[gr]AB[hq]AB[iq]AW[fq]AW[gq]AW[hp]AW[ip]AB[jq]AB[jp]AW[gp]AB[io]AB[ho]AB[go]AB[jo]AB[fo]AB[do]AB[bo]LB[br:1]C[white plays 1. what should black do?]AP[goproblems]
+(;B[bs];W[fs]
+(;B[hr]
+(;W[ds]C[white can start a double-ko for unconditional life])
+(;W[as]))
+(;B[gs];W[ar]C[white should just play ko at A1. this is a trick move.]
+(;B[hr];W[as]
+(;B[ds];W[fs]
+(;B[ds];W[cs];B[es];W[dr])
+(;B[cs];W[ds];B[cr]C[RIGHT])
+(;B[es];W[cs]))
+(;B[fs];W[ds];B[cs];W[cr]C[ko is not best here]))
+(;B[hs];W[as];B[ds];W[fs];B[cs]C[this leaves an extra ko threat at J1])
+(;B[ir];W[as];B[ds];W[fs];B[cs]C[this leaves two extra ko threats at H2])
+(;B[is];W[as];B[ds];W[fs];B[cs]C[this leaves extra ko threats])
+(;B[ds];W[as]
+(;B[hr];W[fs];B[cs];W[ds];B[cr]C[RIGHT])
+(;B[hs];W[fs];B[cs]C[this leaves extra ko threats])
+(;B[ir];W[fs];B[cs]C[this leaves extra ko threats])
+(;B[is]C[this leaves extra ko threats]))
+(;B[fs];W[as]
+(;B[ds];W[hr])
+(;B[hr];W[ds];B[cs];W[cr]C[ko not best here])))
+(;B[ds];W[as]))
+(;B[fs];W[bs]
+(;B[ds];W[hr])
+(;B[hr];W[ds]))
+(;B[ds];W[bs]
+(;B[fs];W[hr])
+(;B[hr];W[fs]))
+(;B[gs];W[bs])
+(;B[hr];W[bs]
+(;B[ds];W[fs])
+(;B[fs];W[ds]))
+(;B[as];W[bs])
+(;B[cp];W[bs])
+(;B[bp];W[bs])
+(;B[ap];W[bs])
+(;B[co];W[bs])
+(;B[eo];W[bs]))

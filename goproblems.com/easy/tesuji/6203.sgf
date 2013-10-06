@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[15k]DP[63]SO[maba]CO[8]AW[fc]AW[gc]AW[gb]AW[eb]AW[da]AB[db]AB[dc]AB[ec]AB[cb]AB[bc]AW[cc]AW[dd]AW[ed]AB[fd]AB[gd]AB[hd]AB[hb]AB[hc]AW[ce]C[White to win this fight.]AP[goproblems]
+(;W[bb]
+(;B[cd]
+(;W[ca];B[cc]
+(;W[bd]C[RIGHT])
+(;W[ac]C[RIGHT]))
+(;W[bd];B[ga]
+(;W[cc];B[fb])
+(;W[fb];B[fa]
+(;W[ea];B[ca])
+(;W[ca];B[ea])
+(;W[cc];B[ea])))
+(;W[fa];B[ba])
+(;W[ba];B[ga];W[fb];B[fa]))
+(;B[ca];W[ba]C[RIGHT])
+(;B[ga];W[ca]C[RIGHT]))
+(;W[cd];B[ba])
+(;W[ca];B[bb])
+(;W[bd];B[bb]))

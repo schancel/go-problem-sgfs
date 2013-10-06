@@ -1,0 +1,17 @@
+(;GE[life and death]DI[8k]DP[45]SO[assacra]CO[7]AB[ab]AB[bb]AB[cb]AB[dc]AB[ec]AB[ed]AB[ee]AB[ef]AB[dg]AB[cg]AB[bg]AB[cd]AW[ca]AW[db]AW[eb]AW[fb]AW[cc]AW[bc]AW[bd]AW[dd]AW[de]AW[cf]C[the 3 stones with triangle must live]TR[cb]TR[bb]TR[ab]AP[goproblems]
+(;B[be];W[ce]
+(;B[ae];W[ba]
+(;B[ad];W[bf]
+(;B[af];W[ac];B[cd]C[RIGHT])
+(;B[ac]C[RIGHT]))
+(;B[ac];W[bf]
+(;B[af]C[RIGHT])
+(;B[ad]C[RIGHT])))
+(;B[bf];W[ac];B[df];W[ba];B[cd];W[aa]C[black can do better])
+(;B[ad];W[bf];B[ae];W[af];B[ac];W[cd]
+(;B[df]C[RIGHT])
+(;B[ag]C[RIGHT]))
+(;B[ac];W[bf];B[ae];W[af];B[ad];W[cd]C[RIGHT]))
+(;B[df];W[ce])
+(;B[bf];W[be];B[ae];W[ac];B[df];W[ce];B[af];W[ba])
+(;B[ac];W[be];B[df];W[ce];B[bf];W[ad];B[af];W[ba]))

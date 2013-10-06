@@ -1,0 +1,32 @@
+(;GE[life and death]DI[8k]DP[47]SO[santa c]CO[7]AW[cb]AW[cc]AW[dc]AW[dd]AW[ed]AW[ee]AW[fe]AW[gd]AW[hd]AW[hc]AW[ic]AW[jb]AW[kc]AB[ib]AB[hb]AB[gc]AB[fc]AB[fd]AB[ec]AB[eb]AB[db]C[Black to live!]AP[goproblems]
+(;B[ga]
+(;W[ia]
+(;B[fb]C[Well done! :)RIGHT])
+(;B[da];W[fa];B[fb];W[ja]
+(;B[ha];W[gb]C[:(])
+(;B[ea];W[ha]C[:(]))
+(;B[fa];W[da]C[:(]))
+(;W[da];B[ea]TR[fb]TR[ia]C[RIGHT])
+(;W[fb];B[da]TR[fa]TR[ia]C[RIGHT]))
+(;B[fa];W[gb]
+(;B[ga];W[ia]
+(;B[da];W[ha]C[:(])
+(;B[ha];W[da]C[:(])
+(;B[fb];W[da]C[:(]))
+(;B[ia];W[ja]C[:(])
+(;B[ha];W[da]C[:(])
+(;B[da];W[ia]C[:(]))
+(;B[da];W[fa]
+(;B[ga];W[ia];B[fb];W[ja]
+(;B[ea];W[ha]C[:(])
+(;B[ha];W[gb]C[:(]))
+(;B[ia];W[ga]C[:(])
+(;B[fb];W[ga]C[:(]))
+(;B[ia];W[ga]
+(;B[fa];W[gb]
+(;B[fb];W[da]C[:(])
+(;B[da];W[ja]C[:(]))
+(;B[gb];W[fa]C[:(])
+(;B[da];W[fa]C[:(]))
+(;B[fb];W[ga]C[:(]TR[fa]TR[da])
+(;B[gb];W[fa]TR[ga]TR[ia]C[:(]))

@@ -1,0 +1,28 @@
+(;GE[life and death]DI[7k]DP[41]SO[hobbes]CO[6]SZ[19]AW[ln]AW[ho]AW[jo]AW[ko]AW[mo]AW[dp]AW[fp]AW[gp]AW[hp]AW[ip]AW[kp]AW[lp]AW[mp]AW[np]AW[cq]AW[eq]AW[gq]AW[kq]AW[nq]AW[oq]AW[er]AW[gr]AW[jr]AW[or]AW[fs]AW[os]AB[gn]AB[hn]AB[in]AB[jn]AB[kn]AB[do]AB[eo]AB[fo]AB[go]AB[io]AB[ep]AB[jp]AB[dq]AB[iq]AB[jq]AB[lq]AB[mq]AB[dr]AB[ir]AB[kr]AB[mr]AB[nr]AB[ls]AB[ms]C[CHOICE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]
+(;B[cp];W[hs]
+(;B[is];W[hr])
+(;B[hr]
+(;W[is]C[CHOICE];B[js];W[hq]
+(;B[gs]C[RIGHT])
+(;B[jr]C[RIGHT]))
+(;W[js]C[CHOICE]
+(;B[ks]
+(;W[is]C[CHOICE];B[gs]C[RIGHT])
+(;W[gs]C[CHOICE];B[is]C[RIGHT]))
+(;B[is];W[hq])))
+(;B[js];W[hr])
+(;B[hq];W[hr]))
+(;B[hs];W[cp]MA[dq]MA[dr]C[Now the marked stones will die])
+(;B[hr];W[cp]MA[dq]MA[dr]C[Now the marked stones will die])
+(;B[is];W[cp]MA[dq]MA[dr]C[Now the marked stones will die])
+(;B[js];W[cp]MA[dq]MA[dr]C[Now the marked stones will die])
+(;B[cr]
+(;W[hs]
+(;B[hr]
+(;W[js]
+(;B[ks];W[gs];B[is]C[RIGHT])
+(;B[is];W[hq]))
+(;W[is];B[js]C[RIGHT]))
+(;B[is];W[hr])
+(;B[hq];W[hr])
+(;B[js];W[hr]))))

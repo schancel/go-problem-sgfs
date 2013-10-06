@@ -1,0 +1,7 @@
+(;GE[best move]DI[12k]DP[58]SO[Blaster097]CO[0]AB[pd]AB[pp]AB[qq]AB[np]AB[jp]AB[fq]AB[cj]AB[df]AB[de]AB[cf]AW[qn]AW[rp]AW[qk]AW[dp]AW[cn]AW[dr]AW[ce]AW[cd]AW[dc]AW[fc]C[Follow up of previous problem, when white played at A, where should have black played?]LB[dr:A]AP[goproblems]
+(;B[hp]C[RIGHT])
+(;B[hq]C[A is betterRIGHT]LB[hp:A])
+(;B[gp])
+(;B[gq])
+(;B[fo]C[It's ok....RIGHT])
+(;B[er]C[OK, but not bestRIGHT]))

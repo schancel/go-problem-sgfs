@@ -1,0 +1,18 @@
+(;GE[life and death]DI[2d]DP[13]SO[MrMoto]CO[0]AB[sf]AB[qf]AB[rf]AB[pg]AB[pi]AB[pj]AB[ph]AB[pk]AB[qk]AB[rj]AW[se]AW[re]AW[qe]AW[pf]AW[pe]AW[of]AW[og]AW[ne]AW[ni]AW[nk]AW[ok]AW[ol]AW[mg]AW[mi]AW[pl]AW[rl]AW[ql]AW[rk]AW[rn]C[White just played S12. Defend!]AW[rh]TR[rh]AP[goproblems]
+(;B[ri];W[qg])
+(;B[qg];W[ri];B[sj];W[qj];B[qi];W[si])
+(;B[rg]
+(;W[sj]C[CHOICE];B[ri];W[si];B[sh];W[sg]C[Well done. Black needs 1 threat.RIGHT])
+(;W[ri]C[CHOICE];B[sj]
+(;W[si]C[CHOICE]
+(;B[qg];W[qj];B[qi];W[sk];B[qj];W[sh])
+(;B[qi];W[sk];B[qj];W[sg];B[sh]C[Well done. White made a mistake and now she needs 1 threat.RIGHT])
+(;B[qh];W[sk];B[qj];W[sg];B[sh]C[Well done. White made a mistake and now she needs 1 threat.RIGHT])
+(;B[sh];W[sg]C[Bad for Black! You should reduce White's liberties instead of starting a ko here.]))
+(;W[sg]C[CHOICE]
+(;B[sh];W[si]
+(;B[qh];W[sg]C[White made a curious mistake that you failed to take advantage of. Navigate solution for details.])
+(;B[qi];W[sg]C[White made a curious mistake that you failed to take advantage of. Navigate solution for details.]))
+(;B[qg];W[si]C[Sneaky. ;)]
+(;B[sh];W[sk]C[You should not allow White this threat.])
+(;B[qj]C[Amazing! White tried to be too clever, and you punished her for it. It is still ko, but not as favourable for White.RIGHT]))))))

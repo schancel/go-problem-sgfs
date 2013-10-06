@@ -1,0 +1,38 @@
+(;GE[life and death]DI[5k]DP[32]SO[madeline]CO[9]SZ[13]AB[la]AB[lb]AB[kb]AB[ja]AB[jc]AB[jd]AB[je]AB[jf]AB[jg]AB[kh]AB[ki]AB[li]AB[mj]AB[lk]AW[mb]AW[lc]AW[kc]AW[kg]AW[kf]AW[lf]AW[mg]AW[mh]AW[mi]AW[lh]C[Black to kill]AE[mk]
+(;B[le];W[ke]
+(;B[kd];W[ld];B[me]C[RIGHT])
+(;B[me]
+(;W[ld]
+(;B[kd]C[RIGHT])
+(;B[md];W[mc])
+(;B[mf];W[md]))
+(;W[kd];B[mf]C[RIGHT]))
+(;B[md];W[ld]
+(;B[kd];W[me])
+(;B[me];W[mc]))
+(;B[ld];W[kd]
+(;B[me];W[mf])
+(;B[md];W[mc])
+(;B[mf];W[me])
+(;B[mc];W[md])))
+(;B[me];W[le]
+(;B[ld];W[kd])
+(;B[md];W[mc]
+(;B[ld];W[kd])
+(;B[kd];W[ld])))
+(;B[ld]
+(;W[le]
+(;B[me];W[kd])
+(;B[kd];W[me])
+(;B[md];W[me]C[Black gets only a few stones, the main part of white's group lives.]))
+(;W[kd];B[ke];W[le]))
+(;B[md];W[ld]
+(;B[le];W[ke])
+(;B[me];W[le]))
+(;B[kd];W[le]
+(;B[ld];W[me]C[Black gets only a few stones, the main part is alive.])
+(;B[md];W[ld];B[mc];W[me])
+(;B[me];W[ld])
+(;B[mc];W[md]
+(;B[ld];W[me])
+(;B[me];W[ld]))))

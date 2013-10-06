@@ -1,0 +1,21 @@
+(;GE[life and death]DI[10k]DP[50]SO[marwin]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[qo][mp][np][rp][nq][pq][qq][sq][nr][ms]AB[kp][lp][mq][rq][kr][mr][pr][qr][rr][rs]C[Black to live]
+(;B[os]CR[os]
+;W[ns]CR[ns]
+;B[sr]CR[sr]
+(;W[ps]CR[ps]
+;B[or]CR[or]C[RIGHT])
+(;W[or]CR[or]
+;B[ps]CR[ps]C[RIGHT]))
+(;B[ps]CR[ps]
+;W[sr]CR[sr])
+(;B[sr]CR[sr]
+;W[ps]CR[ps]
+;B[os]CR[os]
+;W[or]CR[or])
+(;B[or]CR[or]
+;W[os]CR[os]
+;B[ps]CR[ps]
+;W[sr]CR[sr]
+;B[ns]CR[ns]C[ko]))

@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[4k]DP[29]SO[assacra]CO[9]AB[db]AB[eb]AW[fb]AW[fa]AW[ga]AB[fc]AB[gc]AB[gb]AB[ge]AW[ec]AW[dc]AW[cc]AW[hb]AB[ic]TR[eb]TR[db]C[black to save marked stones]AW[bb]AP[goproblems]
+(;B[ea];W[ha])
+(;B[cb];W[ca])
+(;B[ib];W[cb];B[hc];W[da])
+(;B[ia];W[ib]
+(;B[ea];W[ha];B[jb]C[RIGHT])
+(;B[jb];W[cb])
+(;B[hc];W[cb]))
+(;B[hc];W[cb]
+(;B[ea];W[da])
+(;B[ha])
+(;B[ib];W[da]))
+(;B[ha];W[ia]
+(;B[ib];W[cb])
+(;B[ea];W[ha])))

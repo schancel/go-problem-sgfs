@@ -1,0 +1,19 @@
+(;GE[life and death]DI[1k]DP[19]SO[DarkSycthe]CO[0]AW[sq]AW[rq]AW[qq]AW[pq]AW[pp]AW[po]AW[qn]AW[rm]AW[qm]AW[rl]AW[ro]AB[qo]AB[qp]AB[rp]AB[rn]AB[sk]AB[rk]AB[qk]AB[ql]AB[pm]AB[pn]AB[nn]AB[np]AB[oq]AB[pr]AB[qr]AB[rr]C[Does Black A kill White?FORCE]LB[nk:Yes]LB[ol:No]LB[so:A]AP[goproblems]
+(;W[nk]C[Navigate solution for details.])
+(;W[ol];B[so]C[Ok, then live!]
+(;W[sp];B[ro]
+(;W[sn];B[ro]
+(;W[qo]
+(;B[sl];W[rp]C[:)RIGHT])
+(;B[rp];W[sl]C[RIGHT]))
+(;W[sl];B[qo]
+(;W[so];B[rn])
+(;W[rn];B[so])
+(;W[rp];B[rn]))
+(;W[rp];B[qo]
+(;W[sl];B[rn])
+(;W[so];B[sl])
+(;W[rn];B[sl])))
+(;W[sl];B[sm]))
+(;W[sm];B[sl])
+(;W[sn];B[sm])))

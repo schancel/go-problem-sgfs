@@ -1,0 +1,32 @@
+(;GE[life and death]DI[2d]DP[12]SO[maba]CO[6]AB[aj]AB[bk]AB[cj]AB[di]AB[ej]AB[cl]AB[dl]AB[el]AB[fl]AB[fk]AB[gk]AB[gj]AW[bm]AW[cm]AW[dm]AW[em]AW[fm]AW[gl]AW[hl]AW[hk]AW[hj]AW[hi]AW[gi]AW[fi]AW[fj]AW[eh]AW[dh]AW[ch]AW[ci]AW[bh]AW[bg]AW[ai]AW[bj]LB[bj:1]C[White captured a ko at 1. How can black live?]AP[goproblems]
+(;B[dk]
+(;W[ei]
+(;B[dj];W[bl]C[ko])
+(;B[bi];W[bl]
+(;B[ah];W[dj]C[ko])
+(;B[dj];W[bj]C[ko])
+(;B[bj];W[dj]C[ko])
+(;B[ak];W[dj]C[double ko.]))
+(;B[ak];W[bl]
+(;B[dj];W[bi])
+(;B[bi];W[dj]C[double ko.]))
+(;B[bl];W[dj]
+(;B[al];W[ck]C[ko])
+(;B[bi];W[ah]
+(;B[al]C[double ko.RIGHT])
+(;B[bj];W[al]C[ko])
+(;B[di]C[RIGHT]))))
+(;W[bl];B[ei]C[RIGHT])
+(;W[ak];B[ei]C[RIGHT])
+(;W[bi];B[ei]C[RIGHT]))
+(;B[ei];W[dk];B[bi];W[ah]
+(;B[bl];W[al])
+(;B[al];W[bl]))
+(;B[dj];W[dk])
+(;B[bl];W[dk]
+(;B[al];W[bi])
+(;B[bi];W[dj];B[ah];W[al])
+(;B[dj];W[bi])
+(;B[ei];W[bi]))
+(;B[ak];W[dk])
+(;B[bi]C[NOTTHIS]))

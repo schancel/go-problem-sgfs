@@ -1,0 +1,35 @@
+(;GE[best move]DI[6k]DP[39]SO[gedh2]CO[8]AB[fo]AB[fr]AB[fq]AB[eq]AB[ep]AB[go]AB[gp]AB[gq]AB[ho]AB[hr]AB[iq]AB[jq]AB[kr]AB[ks]AB[lr]AB[ms]AW[hn]AW[gn]AW[an]AW[bo]AW[co]AW[dn]AW[en]AW[dp]AW[dq]AW[cr]AW[ds]AW[er]AW[fn]AW[eo]AW[dr]AW[kp]AW[kq]AW[lq]AW[jp]AW[hq]AW[hp]AW[ip]AW[mr]AW[nr]AW[ns]AW[nq]AW[oq]AW[gs]AW[fm]AW[io]SZ[19]AP[MultiGo:3.8.6]
+(;B[fs];W[ir]
+(;B[jr];W[is]
+(;B[gr];W[ls]C[Black loses some stones but gets first move elsewhere. Black will eventually need H1.];B[hs];W[js]C[black will eventually need H1 and so white captures some stones.])
+(;B[hs];W[gr]C[])
+(;B[js];W[ls]C[]))
+(;B[is];W[jr]
+(;B[hs];W[js];B[gr]C[. white captures some stones in sente])
+(;B[js];W[hs];B[gr];W[hs];B[gs];W[ls]C[. Oh dear.]))
+(;B[hs]
+(;W[is]C[CHOICE];B[gr];W[jr]C[black loses some stones.])
+(;W[jr]C[black loses part of the groupCHOICE])))
+(;B[hs];W[fs]C[Black can tenuki now, but will eventually have to protect the cut at K2RIGHT]
+(;B[gr];W[ls]
+(;B[jr]C[4 points for blackRIGHT])
+(;B[ir]C[4 points for blackRIGHT]))
+(;B[jr]C[4 points for blackRIGHT])
+(;B[ir]C[4 points for blackRIGHT]))
+(;B[gr]
+(;W[fs]C[CHOICE];B[hs];W[ls]
+(;B[jr]C[4 points for blackRIGHT])
+(;B[ir]C[4 points for blackRIGHT]))
+(;W[ls]C[CHOICE];B[jr];W[fs];B[hs]C[4 points for black and white needs to defendRIGHT]))
+(;B[ir];W[fs]
+(;B[gr];W[hs];B[is];W[es]C[Black can finish with more points than this])
+(;B[hs];W[es];B[gr]C[RIGHT]))
+(;B[is];W[fs]
+(;B[gr];W[ls]
+(;B[jr]C[Black has only 3 points.])
+(;B[js]C[Black has only 3 points.])
+(;B[ir]C[Black has only 3 points.]))
+(;B[hs];W[es];B[gr];W[jr]
+(;B[ir];W[ls];B[js]C[. Black has only 2 points])
+(;B[js];W[ir]C[Disaster for black])))
+(;B[jr];W[fs];B[hs]C[ 4 points for Black.RIGHT]))

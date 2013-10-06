@@ -1,0 +1,33 @@
+(;GE[life and death]DI[2k]DP[23]SO[Chiulam]CO[0]SZ[11]AB[kb]AB[jc]AB[jd]AB[id]AB[hd]AB[ge]AB[fe]AB[ee]AB[ed]AB[dd]AB[dc]AB[db]AW[ec]AW[fb]AW[fd]AW[gd]AW[hc]AW[ic]AW[jb]AW[ja]C[Black first to kill white with no condition]AP[goproblems]
+(;B[hb]
+(;W[ib]
+(;B[ha]
+(;W[gb];B[fc];W[gc];B[eb]C[Well done :)RIGHT]))
+(;B[gc];W[fc];B[gb];W[ha])
+(;B[eb];W[fc]
+(;B[ha];W[gb];B[fa];W[ia])
+(;B[gb];W[ha]
+(;B[ga];W[fa];B[ia];W[gc])
+(;B[fa];W[gc])))
+(;B[gb];W[ha]
+(;B[eb];W[fc]
+(;B[fa];W[gc])
+(;B[ga];W[fa];B[ia];W[gc]))
+(;B[ga];W[fa];B[ia];W[gc])))
+(;W[gc];B[ib]
+(;W[eb];B[gb];W[fc];B[ea])
+(;W[gb];B[eb]
+(;W[ha];B[fa])
+(;W[fa];B[ha]))
+(;W[ha];B[gb];W[fc];B[fa]))
+(;W[gb];B[ib];W[gc];B[eb]
+(;W[fa];B[ha])
+(;W[ha];B[fa])))
+(;B[gc];W[fc];B[hb];W[ib];B[gb];W[ha])
+(;B[ha];W[hb];B[ga];W[fa];B[fc];W[gc];B[eb];W[ia])
+(;B[gb];W[hb];B[gc];W[fc])
+(;B[fa];W[gb]
+(;B[fc];W[eb]
+(;B[gc];W[ea];B[hb];W[ib];B[ha];W[ga])
+(;B[ea];W[gc];B[ha];W[ga];B[ib];W[da];B[ea];W[hb]))
+(;B[ha];W[eb])))

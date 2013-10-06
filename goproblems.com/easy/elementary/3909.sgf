@@ -1,0 +1,16 @@
+(;GE[elementary]DI[12k]DP[55]SO[fwiffo]CO[6]SZ[9]C[White just played the marked stone - how should black respond?  No komi, white has one prisoner.]AB[ic]AB[hd]AB[id]AB[be]AB[ce]AB[de]AB[fe]AB[ie]AB[ff]AB[hf]AB[cg]AB[dg]AB[eg]AB[gg]AW[gb]AW[hb]AW[fc]AW[hc]AW[cd]AW[dd]AW[fd]AW[gd]AW[ee]AW[ge]AW[he]AW[df]AW[ef]AW[gf]TR[gf]AW[cc]AB[bd]AB[ad]AW[bc]AW[ac]AW[ed]AB[cf]GM[1]FF[4]GN[Beginners be careful]PC[http://senseis.xmp.net/?SandBox]AP[GoWiki by Arno & Morten]DT[2004-02-10]PL[W]
+(;B[fg];W[hg]TR[hf]TR[ie]TR[id]TR[ic]TR[hd]C[All the stones on the right are lost!])
+(;B[hg];W[fg];B[fh];W[ib]
+(;B[if]C[];W[ff]C[It's too bad about the two stones, but you saved the right side and won by one point.RIGHT])
+(;B[ff];W[if]C[Oops.]))
+(;B[hh];W[fg];B[fh];W[ib]
+(;B[if]C[];W[ff]C[It's too bad about the two stones, but you saved the right side and won by one point.RIGHT])
+(;B[ff];W[if]C[Oops.]))
+(;B[if];W[fg];B[fh]
+(;W[hg]
+(;B[ig];W[gh]C[The cut can't be protected that way!  The right side is lost.]TR[ig]TR[hf]TR[if]TR[ie]TR[hd]TR[id]TR[ic])
+(;B[ff];W[hh]C[The cut can't be protected that way!  You've lost the whole right side.]TR[hf]TR[if]TR[ie]TR[hd]TR[id]TR[ic])
+(;B[hh];W[gh]C[The cut can't be protected that way!  You've lost the whole right side.]TR[hf]TR[if]TR[ie]TR[id]TR[ic]TR[hd])
+(;B[gh];W[hh]C[The cut can't be protected that way!  You've lost the whole right side.]TR[if]TR[hf]TR[ie]TR[id]TR[ic]TR[hd]))
+(;W[gh];B[hg];W[hh]C[The cut can't be protected that way!  You've lost the whole right side.]TR[gg]TR[hg]TR[hf]TR[if]TR[ie]TR[id]TR[ic]TR[hd]))
+(;B[ig];W[fg];B[fh];W[ff]LB[gh:A]LB[if:B]C[You've saved the stones on the right, but you could do better than jigo.  The marked stone wasted a point - you still need to protect the cut at A and will eventually need to connect at B.]TR[ig]))

@@ -1,0 +1,39 @@
+(;GE[life and death]DI[3d]DP[9]SO[lok]CO[8]AB[jc]AB[jd]AB[je]AB[if]AB[ig]AB[hh]AB[ii]AB[ij]AB[ji]AW[ih]AW[jh]AW[jg]AW[jf]AW[ke]AW[kf]AW[lf]AW[mf]AW[me]AW[ld]AW[kd]AB[md]AB[lc]AB[nc]AB[mb]AB[ne]AB[nf]AB[mg]AB[nh]AB[nj]AB[mj]AB[mk]AB[kj]AB[kk]AW[ki]AW[lh]AW[oh]AW[oi]AW[of]AW[pf]AW[qe]AW[qh]AB[oe]AB[pe]AB[pd]AW[jj]AW[jk]AW[kl]AW[ll]AW[oj]AW[ok]AW[nk]AW[ml]AW[jl]AB[gi]C[Black to kill]AP[goproblems]
+(;B[kh]
+(;W[kg]C[white L13 is a mistake.CHOICE]
+(;B[mh]C[];W[lk];B[lj];W[li]
+(;B[lg];W[mi]
+(;B[ni];W[ng])
+(;B[ng];W[ni]))
+(;B[mi];W[lg]))
+(;B[lg];W[lj];B[lk];W[ni]
+(;B[li];W[mh]
+(;B[ng];W[kh]C[:(])
+(;B[kh];W[ng]C[:(]))
+(;B[mi];W[mh]C[:(]))
+(;B[li];W[mi]C[Complicated, white gets a ko to connect his group...])
+(;B[ni]C[Good. (but white L13 was a mistake, better play at M11)RIGHT])
+(;B[mi];W[mh];B[ni];W[li]C[White is alive!]))
+(;W[li]C[Best play for white.CHOICE];B[lg];W[ni];B[kg]C[RIGHT])
+(;W[mh]C[Also possible...];B[li];W[ni];B[ng];W[mi];B[lg])
+(;W[mi];B[li])
+(;W[lj];B[li])
+(;W[lg];B[li])
+(;W[ni];B[li];W[mh];B[ng];W[mi];B[lg])
+(;W[lk];B[li]))
+(;B[lg];W[lj]
+(;B[lk];W[ni]
+(;B[mi];W[mh]C[:(])
+(;B[li];W[kh]C[:(]))
+(;B[mh];W[lk]C[and white connects...])
+(;B[kh];W[kg];B[lk];W[ni]
+(;B[li];W[mh]C[:(])
+(;B[mi];W[mh]C[:(]))
+(;B[mi];W[lk]))
+(;B[li];W[kh]
+(;B[lg];W[lk]
+(;B[lj];W[ni]C[:(])
+(;B[mh];W[lj]C[and white connects...]))
+(;B[mh];W[lg]))
+(;B[mh];W[lg]C[White is alive...])
+(;B[kg];W[lg]C[White is alive...]))

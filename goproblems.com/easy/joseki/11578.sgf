@@ -1,0 +1,7 @@
+(;GE[joseki]DI[5k]DP[35]SO[Cow]CO[0]AB[qe]AW[pc]AB[nd]AW[oc]C[What is the best move for black? Assume possible ladders will favor white.]AP[goproblems]
+(;B[oe];W[mc]C[Correct. This is the joseki-answer. Next black will usually play an extension along the right side.RIGHT]LB[qj:A]LB[pj:A])
+(;B[nc];W[pe]C[FORCE]TR[pf];B[pf];W[oe]C[Black is splitt in two.])
+(;B[od];W[mc]C[This move resumes to the situation that occurs when black answers W1 with B2, white extends with W3 and black pushes with B4. Of course this is not bad, but since W3 is a chicken-like move to answer the taisha of B4 you should do even better! ;-)]LB[pc:1]LB[od:2]LB[oc:3]LB[nd:4])
+(;B[qd]C[Blacks shape should be better.])
+(;B[pe];W[mc]C[You can do better shape than this. ;-)])
+(;B[rc];W[pe]TR[pf]C[FORCE];B[pf];W[oe]C[Black is spitt in two while white is developing nicely, this favors white.]))

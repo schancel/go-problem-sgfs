@@ -1,0 +1,36 @@
+(;GE[endgame]DI[4k]DP[28]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+AW[da][ea][eb][fc][de][ee][cf]AB[ca][bb][db][dc][bd][dd][ce][bf]C[No komi, no prisoners - White to play and win!]PL[W]
+(;W[cg]CR[cg]
+;B[ec]CR[ec]
+(;W[fb]CR[fb]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[bg]CR[bg]
+(;W[df]CR[df]C[White wins by one point! RIGHT])
+(;W[ef]CR[ef]C[NOTTHIS])
+(;W[eg]CR[eg]C[NOTTHIS]))
+(;W[gb]CR[gb]C[NOTTHIS])
+(;W[fa]CR[fa]
+;B[fd]CR[fd]))
+(;W[df]CR[df]
+;B[ec]CR[ec]
+;W[fb]CR[fb]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[cg]CR[cg]
+;W[dg]CR[dg]
+;B[bg]CR[bg]C[This is only a draw.])
+(;W[dg]CR[dg]
+;B[ec]CR[ec]
+;W[fb]CR[fb]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[bg]CR[bg]
+(;W[cg]CR[cg]
+;B[eg]CR[eg]
+;W[df]CR[df]
+;B[fe]CR[fe]C[Black wins!])
+(;W[fe]CR[fe]
+;B[cg]CR[cg]
+;W[df]CR[df]C[Black wins by one point!])))

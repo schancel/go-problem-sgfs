@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[10k]DP[53]SO[Bleedo]CO[8]C[The marked stones look doomed! Save them~]AB[oo]AB[po]AW[pn]AW[pm]AW[pl]AW[pk]AW[ok]AB[qk]AB[ql]AB[qm]AB[qn]AB[rn]AB[oj]AB[pj]AB[nk]AB[mk]AB[mj]AB[mi]AW[mh]AW[nh]AW[ni]AW[nj]AW[ji]AW[li]AW[ki]AW[lj]AW[pp]AW[qp]AW[qo]AW[no]AW[np]AW[nq]AW[nr]AW[ns]AW[oq]AW[kk]AW[jl]AW[km]AB[jj]AW[ln]AW[lo]AW[mn]AW[ro]AW[so]AW[sn]AB[sm]AB[or]AB[pr]AB[pq]AB[qq]AB[qs]AW[rq]AW[rr]AW[jp]AW[jq]AW[jr]AW[kr]AB[ko]AB[kp]AB[kq]AB[lp]AB[mp]AB[mo]AB[mq]AB[mr]AB[lr]AW[jm]AW[jn]AW[jo]MA[mk]MA[nk]MA[mj]MA[mi]AP[goproblems]
+(;B[ol];W[on])
+(;B[nl];W[on])
+(;B[on];W[nl]
+(;B[ol];W[om];B[nm]C[RIGHT])
+(;B[om];W[ol];B[ml];W[nm])
+(;B[nm];W[ml]
+(;B[ol]C[];W[lk])
+(;B[om];W[ol])))
+(;B[om];W[on]))

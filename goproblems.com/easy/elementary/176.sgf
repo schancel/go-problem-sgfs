@@ -1,0 +1,23 @@
+(;GE[elementary]DI[30k]DP[88]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;AW[ja][la][jb][lb][kc][kd][ke][le]
+AB[ia][ma][ib][mb][jc][lc][jd][ld][md][ie][ne]
+C[black to quickly capture some white stones
+]
+(;B[kb];W[ka];B[kb]C[RIGHT
+snapback
+])
+
+(;B[mf];W[kb])
+
+(;B[jf];W[kb])
+
+(;B[ka];W[kb])
+
+(;B[kg];W[kb];B[jf];W[mf])
+
+)

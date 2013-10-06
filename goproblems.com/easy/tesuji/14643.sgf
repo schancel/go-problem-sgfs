@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[7k]DP[44]SO[Arbyda]CO[0]AB[pc]AB[pd]AB[ob]AB[nc]AB[pe]AB[qe]AB[qh]AB[rh]AB[sh]AB[rg]AB[ri]AB[pi]AB[pj]AB[nj]AB[ok]AB[ol]AB[pl]AB[qm]AB[qn]AB[rl]AB[lc]AB[jb]AB[hc]AB[ge]AB[fe]AB[ef]AB[de]AB[df]AB[dg]AB[dj]AB[cj]AB[cn]AB[bp]AB[dr]AB[eq]AB[fr]AB[gq]AB[hq]AB[ir]AB[pp]AW[no]AW[nq]AW[jq]AW[kp]AW[hr]AW[gr]AW[fq]AW[fp]AW[ep]AW[dp]AW[cq]AW[bq]AW[dd]AW[qc]AW[qb]AW[pb]AW[qd]AW[re]AW[rf]AW[qf]AW[qg]AW[ph]AW[oh]AW[qi]AW[qj]AW[qk]AW[ql]AW[pk]AW[rj]AW[dc]AW[ed]AW[ee]AW[ce]AW[bf]AW[ch]AW[dh]AW[eh]AW[jd]C[White play. How to capture marked stones?]TR[ri]TR[rh]TR[qh]TR[rg]TR[sh]AP[goproblems]
+(;W[sj];B[sk]
+(;W[rm]
+(;B[rn]
+(;W[sf];B[sm]
+(;W[sg]C[yeah!RIGHT])
+(;W[si];B[rk]C[=(]))
+(;W[rk];B[si]C[=(])
+(;W[si];B[rk]C[=(])
+(;W[sl];B[sm];W[sf];B[rk]C[=(])
+(;W[ni]C[RIGHT];B[oj];W[sf]C[RIGHT]))
+(;B[sf];W[se];B[rn];W[sg]C[Black get a two steps ko but Black will lose something in this ko.
+Thanks Traxtin and briv. =)RIGHT]))
+(;W[rk];B[si]C[=(])
+(;W[sf];B[rk]C[=(])
+(;W[si];B[rk]C[=(])
+(;W[se];B[rk]C[=(]))
+(;W[rk];B[sk]C[=(])
+(;W[sf];B[sj]C[=(])
+(;W[sk];B[rk];W[sj];B[sl]C[=(])
+(;W[sl];B[sj]C[=(])
+(;W[si];B[sj]C[=(]))

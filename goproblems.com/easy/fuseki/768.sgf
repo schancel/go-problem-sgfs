@@ -1,0 +1,58 @@
+(;GE[fuseki]DI[7k]DP[41]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[White just played the marked stone in 
+the so called Shusaku-fuseki. Now 
+where should Black play?]
+PL[B]
+LB[yy:1][qk:A][ce:B][de:C][yy:1][op:D][yy:1]TR[eq]AB[cp][pe][pq][qd]
+AW[dc][eq][oc][qo]
+(;B[qk]
+MN[1]
+C[RIGHT
+This move is a pincer+extension and 
+is therefore very big.  For that reason 
+White most often plays the marked 
+stone around around A.]
+LB[qk:1]TR[eq]LB[qj:A])(;B[ce]
+LB[ce:1][do:A][qi:B][qj:B][qk:B]C[This is bad for multiple reasons:
+1) White can push at A forcing black in 
+a overly low position on the left.
+2) White can play an extension along 
+the right (B) to prevent a Black pincer + 
+extension.]
+)(;B[de]
+C[White will be happy to play at A 
+preventing a black pincer+extension 
+there.]
+LB[de:1][qk:A][qi:A][qj:A])(;B[op]
+;W[ql]
+C[and white will be happy having 
+somehow reduced the effectiveness of 
+the black kosumi (marked).]
+LB[ql:3]TR[pe][qd]LB[ql:3];B[qp]
+;W[qi]
+)(;B[gq]
+;W[op]
+(;B[oq]
+;W[np]
+(;B[mq]
+;W[qj]
+C[Perfect for White as he has 
+prevented black from playing a 
+pincer+extension on the right and has 
+forced back into an unbearably low 
+position on the bottom.]
+)(;B[nq]
+;W[mp]
+C[Black is too low at the bottom.]
+))(;B[pp]
+;W[po]
+;B[oo]
+;W[np]
+;B[on]
+C[This cut is probably uneasonable for 
+black.]
+)))

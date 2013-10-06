@@ -1,0 +1,24 @@
+(;GE[life and death]DI[10k]DP[51]SO[thornhead]CO[0]AB[rb]AB[qc]AB[pc]AB[od]AB[oe]AB[pf]AB[pg]AB[qf]AB[qe]AB[re]AB[se]AW[rf]AW[sf]AW[sg]AW[qg]AW[qh]AW[rh]AW[ph]AW[qi]AW[og]AW[of]AW[oh]AW[oi]AW[oj]AW[nh]AW[ni]AB[nf]AB[ne]AB[nd]AW[oc]AW[nc]AW[pb]AW[qb]AW[mb]AW[lb]AW[kb]AB[mc]AB[lc]AB[kc]AB[jc]AB[jb]AW[ja]AW[ia]AW[ic]AW[ib]AW[id]AW[hc]AW[jd]AW[kd]AB[md]AB[me]AW[le]AW[ke]AW[kf]AW[jf]AW[mf]AW[mg]AW[lg]AB[ld]AB[ha]AB[hb]AB[gc]AB[gd]AB[hd]AB[ie]AB[je]AB[if]AB[jg]AB[kg]AB[jh]AW[ig]AW[ih]AB[ii]AB[hj]AB[gi]AB[gh]AB[gg]AB[gf]AB[lh]AB[mi]AB[mk]AW[ok]AB[ng]AW[mh]AB[li]AB[lk]C[whites to kill]AB[gb]AP[goproblems]
+(;W[pd];B[pe];W[rc];B[qd]
+(;W[ra]C[RIGHT])
+(;W[sb]C[RIGHT])
+(;W[sd];B[sb];W[ra]C[CHOICERIGHT])
+(;W[sc]C[RIGHT]))
+(;W[rc];B[pd]
+(;W[rd];B[sc]C[CHOICE])
+(;W[ra];B[rd]C[CHOICE]))
+(;W[pe];B[pd]C[CHOICE])
+(;W[qd];B[pd]
+(;W[rc];B[rd]C[CHOICE])
+(;W[rd];B[rc]C[CHOICE]))
+(;W[rd];B[pd];W[rc];B[sc]C[CHOICE])
+(;W[ra];B[sc]
+(;W[pd];B[pe];W[rd];B[qd];W[rc];B[sd]C[CHOICE])
+(;W[rd];B[qd];W[rc];B[sd]C[CHOICE]))
+(;W[sc];B[rc]C[CHOICE])
+(;W[sd]
+(;B[rc])
+(;B[pd];W[rc];B[rd];W[ra];B[sc]C[CHOICE]))
+(;W[sb];B[pd]
+(;W[rc];B[rd]C[CHOICE])
+(;W[rd];B[rc];W[sc];B[sd]C[CHOICE])))

@@ -1,0 +1,17 @@
+(;GE[life and death]DI[10k]DP[52]SO[bigmetalguy]CO[8]SZ[13]AW[eb]AW[fb]AW[gb]AW[fc]AW[bd]AW[fd]AW[ce]AW[de]AB[ea]AB[ab]AB[db]AB[cc]AB[dc]AB[ec]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[ba];W[bc]
+(;B[bb]LB[ba:1]LB[bb:3]LB[bc:2]C[Black 1 is the vital point. After White 2, Black 3 gets two eyes.RIGHT])
+(;B[cb];W[bb]C[Black cannot make 2 eyes. The marked point is a false eye.]MA[aa])
+(;B[da];W[bb]C[Black can't make any eyes at all.]))
+(;B[bc];W[ba]LB[bc:1]C[Black 1 fails to get two eyes, allowing White to occupy the vital point B13.];B[aa];W[bb];B[ac];W[fa]C[Black cannot make two eyes.])
+(;B[bb];W[ca]
+(;B[ba];W[da]
+(;B[cb];W[da];B[ca];W[fa]LB[da:A]LB[ea:B]C[The eye at A is false, because B is in Atari.])
+(;B[bc];W[fa]C[Black has only one eye.])
+(;B[ed];W[ee]C[Black cannot escape.]))
+(;B[da];W[ba]TR[ba]TR[ca]C[White's marked stones make a 'killing shape' -- Black cannot make two eyes.])
+(;B[cb];W[ba]TR[ba]TR[ca]C[White's marked stones make a 'killing shape' -- Black cannot make two eyes.]))
+(;B[ca];W[bb]
+(;B[bc];W[ba]C[Black cannot make two eyes.];B[aa];W[ac])
+(;B[ba];W[bc]))
+(;B[da];W[bb];B[bc];W[ba]))

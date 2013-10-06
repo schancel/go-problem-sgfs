@@ -1,0 +1,28 @@
+(;GE[best move]DI[7k]DP[43]SO[karmaGfa]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ja][qa][ra][jb][kb][lb][mb][rb][sb][kc][lc][qc][rc][ld][md][nd][od][pd][qd][ke][le]AB[ia][la][ma][pa][ib][nb][pb][qb][hc][jc][mc][nc][oc][pc][sc][jd][kd][rd][sd][je][me][ne][oe][qe][kf][lf][pf][rf]LB[nh:T]TR[la]C[Best answer to black's move (Click T for Tenuki).]PL[W]
+(;W[oa]CR[oa]
+(;B[na]CR[na]C[CHOICE]
+;W[ka]CR[ka]
+;B[pe]CR[pe]
+;W[ob]CR[ob]C[RIGHT])
+(;B[pe]CR[pe]C[CHOICE]
+;W[na]CR[na]
+;B[ob]CR[ob]
+;W[na]CR[na]C[RIGHT]))
+(;W[na]CR[na]
+;B[oa]CR[oa]
+;W[ka]CR[ka]
+;B[pe]CR[pe]
+;W[na]CR[na]
+;B[ma]CR[ma]C[Seki. Definitly not the best solution.])
+(;W[ka]CR[ka]LB[nh:T]
+;B[oa]CR[oa]LB[nh:T]
+;W[na]CR[na]LB[nh:T]
+;B[ma]CR[ma]LB[nh:T]
+(;W[la]CR[la]
+;B[pe]CR[pe]
+;W[na]CR[na]SQ[ma]C[Ko for life. Definitly not the best solution.])
+(;W[nh]CR[nh]C[Seki. Definitly not the best solution.]))
+(;W[nh]CR[nh]
+;B[na]CR[na]C[Seki. White will have to give a stone to the black group after Q15 is filled. Definitly not the best solution.]))

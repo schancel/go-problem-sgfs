@@ -1,0 +1,29 @@
+(;GE[endgame]DI[5d]DP[6]SO[hello]CO[0]SZ[9]AW[ba]AW[ca]AW[da]AW[ea]AW[fa]AW[ga]AW[ha]AW[ia]AW[bb]AW[cb]AW[hb]AW[ib]AW[bc]AW[ic]AW[id]AW[ce]AW[de]AW[ee]AW[fe]AW[ge]AW[ie]AW[af]AW[bf]AW[df]AW[ff]AW[hf]AW[bg]AW[cg]AW[dg]AW[eg]AW[fg]AW[hg]AW[hh]AW[ci]AW[di]AW[ei]AW[hi]AB[aa]AB[ab]AB[db]AB[eb]AB[fb]AB[gb]AB[ac]AB[cc]AB[fc]AB[hc]AB[ad]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[gd]AB[hd]AB[ae]AB[be]AB[he]AB[gf]AB[ag]AB[gg]AB[ig]AB[ah]AB[bh]AB[ch]AB[dh]AB[eh]AB[fh]AB[gh]AB[ih]AB[ai]AB[fi]AB[ii]LB[ec:A]C[If you want to pass click A.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[if];W[ie]
+(;B[ih];W[gi];B[bi];W[di]
+(;B[id];W[ei]
+(;B[if];W[ci];B[ig]C[. Black wins by 0.5.RIGHT])
+(;B[ig];W[ci];B[if]C[. Black wins by 0.5.RIGHT])
+(;B[ci];W[di]
+(;B[if];W[ei];B[ig]C[RIGHT])
+(;B[ig];W[ei];B[if]C[RIGHT])))
+(;B[ig];W[ei]
+(;B[id];W[ci];B[if]C[. Black wins by 0.5.RIGHT])
+(;B[if];W[ii];B[id];W[if]
+(;B[ig];W[ci])
+(;B[ih];W[ci])
+(;B[ci];W[di]))
+(;B[ci];W[di];B[id];W[ei];B[if]C[RIGHT])))
+(;B[id];W[ih];B[if];W[gi];B[bi];W[di];B[ie];W[ei];B[ig];W[ci]C[Black lost by 0.5 points])
+(;B[if];W[ih];B[id];W[gi];B[bi];W[di];B[ie];W[ei];B[ig];W[ci]C[Black lost by 0.5 points])
+(;B[ig];W[ih];B[id];W[if];B[bi];W[di]C[Black lost by 6.5])
+(;B[bi];W[di]
+(;B[ih];W[gi])
+(;B[id];W[ih];B[if];W[gi])))
+(;B[ec]C[Black lost by 4.5. You can do better.])
+(;B[bi];W[if]
+(;B[ih];W[di]C[Seki])
+(;B[di];W[ih])
+(;B[gi];W[di];B[ih];W[ei]
+(;B[ig];W[ci])
+(;B[ci];W[di];B[ig];W[ei]))))

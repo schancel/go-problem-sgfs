@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[6k]DP[37]SO[liopic]CO[0]AB[ad]AB[ae]AB[af]AB[ag]AB[ar]AB[bc]AB[bd]AB[bq]AB[ce]AB[cf]AB[cg]AB[cm]AB[cn]AB[cp]AB[cr]AB[cs]AB[dd]AB[dg]AB[dj]AB[dn]AB[do]AB[dp]AB[dq]AB[ee]AB[eh]AB[en]AB[fh]AB[fj]AB[fn]AB[gg]AB[gi]AB[gj]AB[gn]AW[ah]AW[ao]AW[ap]AW[aq]AW[be]AW[bf]AW[bg]AW[bh]AW[bi]AW[bm]AW[bn]AW[bo]AW[bp]AW[ch]AW[ci]AW[cl]AW[co]AW[df]AW[dh]AW[dm]AW[ei]AW[ej]AW[el]AW[em]AW[fi]AW[fk]AW[fm]AW[gl]TR[ap]C[White played the marked stone. Is there anything black can do? Sure, cause it is a problem. Find it out!]
+(;B[di];W[ek]
+(;B[bk]C[Nice tesuji!RIGHT])
+(;B[bj];W[cj]
+(;B[bk];W[bl]
+(;B[ck];W[dk]C[Nothing])
+(;B[dk];W[ck]))
+(;B[ck];W[dk];B[bl];W[bk])
+(;B[bl];W[bk]))
+(;B[ck];W[bk];B[bj];W[aj];B[cj];W[dk])
+(;B[cj];W[bj];B[bk];W[ck])
+(;B[bl];W[bk];B[ck];W[al];B[bj];W[aj];B[cj];W[dk]))
+(;B[bk];W[bl];B[di]
+(;W[ck]
+(;B[ek]C[A9 is a nice tesuji!RIGHT])
+(;B[cj];W[bj];B[ek]C[NiceRIGHT]))
+(;W[ek]))
+(;B[bl];W[bk]
+(;B[ck];W[al];B[di];W[ek];B[bj];W[dk]C[Nothing!])
+(;B[dk];W[dl];B[di];W[ek];B[bj];W[cj]))
+(;B[ck];W[bk];B[di];W[ek];B[bj];W[dk]C[No way]))

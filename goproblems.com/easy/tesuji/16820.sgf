@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[12k]DP[60]SO[1234boys]CO[0]AW[po]AW[pq]AB[nq]AW[lp]AW[mn]AB[jp]AB[ip]AB[kn]AW[io]AW[hn]AW[gm]AW[hl]AW[gq]AW[gp]AW[go]AW[fo]AB[hq]AW[ir]AW[hr]AB[gr]AB[fr]AB[fp]AW[ep]AW[eq]AW[dq]AW[cq]AW[cp]AB[bp]AB[bo]AB[bn]AB[co]AB[do]AB[dp]AB[eo]AB[en]AB[fn]AB[gn]AW[an]AW[bm]AW[cn]AW[cl]AW[dl]AW[dm]AW[dn]AW[bk]AW[cj]AW[dj]AB[fk]AB[fl]AB[el]AB[dk]AB[ck]AB[ej]AB[hj]AB[jj]LB[jr:a]LB[fq:b]LB[hp:c]LB[lq:d]AP[goproblems]
+(;B[jr];W[fq];B[iq];W[er]
+(;B[is]C[RIGHT])
+(;B[hs]C[RIGHT]))
+(;B[fq];W[ho];B[er];W[dr]LB[ds:a]LB[bq:b]
+(;B[ds];W[cs]LB[fs:a]LB[bq:b]
+(;B[fs];W[es])
+(;B[bq];W[es];B[br];W[gs]))
+(;B[bq];W[ds]LB[cr:a]LB[cs:b]
+(;B[cr];W[br];B[bs];W[cs];B[ar];W[gs];B[cr]LB[cs:A])
+(;B[cs];W[br]LB[es:a]LB[bs:b]
+(;B[es];W[cr];B[ar];W[bs])
+(;B[bs];W[cr]LB[ar:a]LB[es:b];B[es];W[as];B[bs];W[cs];B[aq];W[gs])))))

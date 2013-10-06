@@ -1,0 +1,122 @@
+(;GE[life and death]DI[6k]DP[38]SO[mocramis]CO[0]AB[di]AB[dj]AB[ej]AB[fi]AB[fh]AB[eh]AB[fg]AB[gg]AW[ci]AW[cj]AW[dk]AW[ek]AW[ch]AW[dh]AW[dg]AW[df]AW[de]AW[gj]AW[gi]AW[gh]AW[hg]AW[hk]AW[hf]AB[ie]AB[ij]AB[ih]AB[fe]AB[ee]AB[fd]AB[dd]AB[dc]AB[ec]AW[fc]AW[gc]AW[eb]AW[db]AB[cb]AB[ce]AW[ac]AB[cf]AB[cg]AB[bg]AB[bh]AB[af]AB[ic]AW[hc]AB[id]C[White to get something.]AB[ib]AB[be]AB[ig]AW[ck]AB[ah]AB[hl]AB[gl]AB[el]AB[dl]AB[cl]AB[bl]AB[hh]AB[il]AW[bi]AW[ai]AW[bk]AW[aj]AB[al]AP[goproblems]
+(;W[fj];B[ei]
+(;W[ff];B[gf]
+(;W[ge];B[ef]
+(;W[eg];B[ff]
+(;W[gd];B[ed]
+(;W[cc];B[cd]
+(;W[bc]C[Yes ! life for the triangled groupRIGHT]TR[ac]TR[bc]TR[cc]TR[db]TR[eb]TR[fc]TR[gc]TR[hc]TR[gd]TR[ge])
+(;W[bb];B[bc]C[CHOICE])
+(;W[ca];B[bc]C[CHOICE]))
+(;W[cd];B[cc]
+(;W[bc];B[bd]C[CHOICE])
+(;W[bd];B[bc]C[CHOICE])))
+(;W[cc];B[cd]
+(;W[bc];B[gd]C[You could have a bit moreCHOICE])
+(;W[gd];B[ed]))
+(;W[cd];B[cc]
+(;W[bd];B[bc]C[CHOICE])
+(;W[gd]
+(;B[bd])
+(;B[ed]))))
+(;W[gd]LB[hg:Dead];B[eg]C[you have nothing now .CHOICE]LB[hf:Dead]LB[ge:Dead]LB[gd:Dead]LB[gc:Dead]LB[hc:Dead]LB[fc:Dead]LB[eb:Dead]LB[db:Dead]LB[ac:Dead])
+(;W[cc];B[cd]
+(;W[bc];B[eg]C[You could have better.CHOICE])
+(;W[eg];B[ff])
+(;W[gd];B[eg];W[bc]C[You could have betterCHOICE]))
+(;W[cd];B[cc]
+(;W[eg];B[ff])
+(;W[gd];B[eg]
+(;W[bd];B[bc]C[CHOICE])
+(;W[bc];B[bd]C[CHOICE]))))
+(;W[ef];B[ge]C[You have nothing nowCHOICE])
+(;W[eg];B[ge]C[You have nothing nowCHOICE])
+(;W[cc];B[cd]
+(;W[bc];B[ef]
+(;W[ge])
+(;W[eg];B[ge]C[CHOICE]))
+(;W[ge];B[ef])
+(;W[eg];B[ge]
+(;W[bc];B[ef]C[a bit worse than the solutionCHOICE])
+(;W[he];B[bc]C[CHOICE])
+(;W[ef];B[bc]C[CHOICE])
+(;W[bb];B[bc]C[CHOICE])
+(;W[gd];B[bc]C[CHOICE]))
+(;W[ef];B[ge]
+(;W[bc];B[he]C[a bit worse than the solutionCHOICE])
+(;W[he];B[bc]C[CHOICE])
+(;W[gd];B[bc]C[CHOICE]))
+(;W[bb];B[bc]C[CHOICE]))
+(;W[cd];B[cc]C[there is nothinge with this move. navigate the solution to see why.CHOICE]))
+(;W[cc];B[cd]
+(;W[ff];B[gf])
+(;W[gf];B[ff];W[bc]C[a bit worse than the solutionCHOICE])
+(;W[ef];B[ff];W[bc]C[a bit worse than the solutionCHOICE])
+(;W[ge];B[ff];W[bc]C[a bit worse than the solutionCHOICE])
+(;W[bc];B[ff]C[a bit worse than the solutionCHOICE])
+(;W[bb];B[bc]C[CHOICE]))
+(;W[gf];B[ff]C[CHOICE])
+(;W[cd];B[cc]C[there is nothinge with this move. navigate the solution to see why.CHOICE])
+(;W[ef];B[ff]C[CHOICE])
+(;W[ge];B[ff]C[CHOICE]))
+(;W[ff];B[gf]
+(;W[ge]
+(;B[fj]
+(;W[ef];B[gd]C[there is nothing now.CHOICE])
+(;W[fk];B[gd]C[Nothing here.CHOICE])
+(;W[gd];B[ef]C[Nothing here.CHOICE])))
+(;W[eg];B[ge]C[CHOICE])
+(;W[fj];B[ei])
+(;W[ef];B[ge]C[CHOICE])
+(;W[cc];B[cd]
+(;W[bc];B[ef]C[a bit worse than the solutionCHOICE])
+(;W[ge];B[he]C[CHOICE])))
+(;W[cc];B[cd]
+(;W[fj];B[ei])
+(;W[ff];B[gf])
+(;W[bc]C[In endgame, this move, would not be correct because black could remove a lof of aji with A, but in the chuban, black will play tenuki and white would save a lot of aji and threats.RIGHT]LB[fj:A])
+(;W[gf];B[ff]C[CHOICE])
+(;W[ef];B[ff]C[CHOICE]))
+(;W[gf];B[ff]C[CHOICE])
+(;W[ef];B[ff]C[CHOICE])
+(;W[cd];B[cc]C[there is nothinge with this move. navigate the solution to see why.CHOICE])
+(;W[bb];B[cc]C[please play locally to see this variationFORCE]
+(;W[bc];B[ca]C[CHOICE])
+(;W[bd];B[bc]
+(;W[ad];B[ae]
+(;W[ca];B[ba]
+(;W[aa];B[ga]
+(;W[gb];B[fa]C[CHOICE])
+(;W[hb];B[ha]
+(;W[fa];B[gb]C[CHOICE])
+(;W[ea];B[fb]C[CHOICE])))
+(;W[gb];B[ga]
+(;W[ha];B[hb]
+(;W[fa];B[da]C[CHOICE])
+(;W[da];B[fa]C[CHOICE]))
+(;W[fa];B[da]
+(;W[ha];B[hb]C[CHOICE])
+(;W[ea];B[fb]C[CHOICE]))
+(;W[da];B[fa]C[CHOICE])))
+(;W[fa];B[hb]
+(;W[ca];B[ba]
+(;W[aa];B[gb]C[CHOICE])
+(;W[gb];B[da]C[CHOICE]))
+(;W[gb];B[da]C[CHOICE]))
+(;W[hb];B[fa]
+(;W[fb];B[da]C[CHOICE])
+(;W[ca];B[ba]
+(;W[fb];B[ga]C[CHOICE])
+(;W[ga];B[fb]C[CHOICE]))))
+(;W[ca]MA[bd]MA[ac]C[nothing here.  navigate the solution without the squared stones to see why.CHOICE])
+(;W[hb]C[nothing here.  navigate the solution without the squared stones to see why.CHOICE]))
+(;W[ca];B[ba]
+(;W[aa];B[ga]C[nothing here.  navigate the solution without the squared stones to see why.CHOICE])
+(;W[gb];B[ga]
+(;W[ha];B[hb]
+(;W[fa];B[da]C[CHOICE])
+(;W[da];B[fa]C[CHOICE]))
+(;W[aa];B[fa]C[CHOICE])
+(;W[fa];B[ha];W[da]TR[fb]C[No. the triangled point is a false eye.CHOICE])))
+(;W[hb];B[fa]C[nothing here.  navigate the solution to see why.CHOICE])
+(;W[fa];B[hb]C[nothing here.  navigate the solution to see why.CHOICE])))

@@ -1,0 +1,36 @@
+(
+;GE[tesuji]DI[6k]DP[37]SO[tristesse]CO[4]
+FF[1]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.6]
+AW[cp][dd][qi][oi][po][qn][pm][cn][bn][dm][cl][ck]
+AB[qo][qp][pq][nq][qg][pd][ep][dn][en][cm][bm][bl]
+LB[dn:1][cn:2][cm:3][dm:4][en:5][cl:6][bm:7][bn:8][bl:9][ck::][ck:10]
+C[Move 3 is joseki, but only if the ladder works. What to do now?]
+GN[gw-no.90.ladder3]
+(
+;
+B[bk]
+;
+W[cj]
+;
+B[bj]
+;
+W[ci]
+;
+B[bi]
+;
+W[ch]
+C[This is futile. Even if you live, your opponent gets an overwhelming wall facing the outside.]
+)
+(
+;
+B[dl]
+;
+W[em]
+;
+B[dk]
+C[RIGHT]
+)
+)

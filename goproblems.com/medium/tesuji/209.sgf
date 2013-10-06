@@ -1,0 +1,65 @@
+(;GE[tesuji]DI[4k]DP[28]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+C[adum is black, guff is white. how does adum save his five stones?
+]
+AW[mb][nb][lc][pc][ke][pe][qe][kf][mf][nf][rf][kg][lg][lh][nh][oh][ph][qh][mi][ni]
+AB[jc][jd][ld][je][ne][jf][qf][jg][mg][ng][og][pg][jh][kh][mh][li][kj][mj]
+(;B[le];W[lf]
+(;B[of]C[RIGHT
+white is tragically dead
+])
+
+(;B[me];W[of])
+
+(;B[kd];W[of])
+)
+
+(;B[of]
+(;W[md]
+(;B[me];W[kd]
+(;B[kc];W[le])
+
+(;B[le];W[kc]C[only one eye for black
+])
+)
+
+(;B[le];W[me]
+(;B[kd];W[lf])
+
+(;B[lf];W[kd])
+)
+
+(;B[kd];W[me])
+
+(;B[oe];W[me])
+)
+
+(;W[me]C[this doesn't work for white...
+];B[md];W[oe];B[le];W[nd];
+B[lf])
+)
+
+(;B[kd];W[of])
+
+(;B[me];W[of])
+
+(;B[pf];W[me];B[md];W[oe]
+(;B[nd];W[of])
+
+(;B[of];W[nd];B[le];W[lf];B[kd];W[ne])
+)
+
+(;B[lf];W[le]
+(;B[of];W[me];B[md];W[oe];B[nd];W[pf])
+
+(;B[me];W[of];B[kd];W[lf])
+
+(;B[md];W[of])
+)
+
+)

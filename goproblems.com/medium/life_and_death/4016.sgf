@@ -1,0 +1,66 @@
+(;GE[life and death]DI[1k]DP[19]SO[Alkora]CO[7]SZ[19]AW[qm]AW[rm]AW[sm]AW[qn]AW[po]AW[qo]AW[pp]AW[mq]AW[pq]AW[or]AW[os]AB[rn]AB[ro]AB[qp]AB[oq]AB[qq]AB[pr]AB[qs]C[White to take Black's stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[rr]C[Oh no! A possible cut!];B[qr]
+(;W[rq];B[rp]
+(;W[sp];B[sr]C[Black lives.])
+(;W[sn]
+(;B[sq];W[so];B[rs];W[sr]C[RIGHT])
+(;B[so]
+(;W[sq];B[rs];W[sr]C[RIGHT])
+(;W[sr];B[sq]C[Ko.])))
+(;W[rs];B[nr];W[nq];B[sq];W[sn];B[so]C[Black lives.])
+(;W[sr]C[];B[sn]
+(;W[sp];B[rs]C[Seki.])
+(;W[rs];B[sp]C[Black lives (white cannot play at A)]LB[ps:A]))
+(;W[sq];B[sr];W[ss];B[rs]C[Black lives.]))
+(;W[sn];B[sr]
+(;W[rq];B[rp]
+(;W[rs];B[nr];W[nq];B[so];W[sq]C[RIGHT])
+(;W[so];B[rs])
+(;W[sq];B[rs]))
+(;W[rs]C[RIGHT])
+(;W[sq]
+(;B[rs]C[ko.])
+(;B[rq]C[this is a mistake by black.];W[ss];B[sp];W[sr];B[rs];W[sr]))
+(;W[so];B[rq]))
+(;W[so];B[sr]
+(;W[rs];B[sp];W[rq];B[rp];W[sn]C[Black dies.RIGHT])
+(;W[rq];B[rp];W[rs];B[sn])
+(;W[sq];B[rq]C[Black lives.])
+(;W[sn];B[rq]LB[rs:A]LB[sp:B]))
+(;W[sr]C[RIGHT])
+(;W[rp];B[rq]
+(;W[so];B[sp])
+(;W[sq];B[sp])
+(;W[sp];B[sq])
+(;W[sr];B[sp];W[sn]C[RIGHT])))
+(;W[rp];B[rq];W[so];B[sp];W[sn];B[sr]
+(;W[rr]
+(;B[rp])
+(;B[rs])
+(;B[qr]))
+(;W[ps];B[qr];W[rs];B[rp])
+(;W[rp]
+(;B[ro])
+(;B[rr])))
+(;W[qr];B[rr];W[ps];B[qr];W[sn];B[sp];W[so];B[rp])
+(;W[sn];B[rq]
+(;W[so];B[sr]C[Black lives.]LB[rs:A]LB[sp:B])
+(;W[sp];B[nr]LB[nq:A]C[Please play at A, otherwise black escapes.];W[nq]C[FORCE];B[rr]C[Black lives.])
+(;W[sr];B[rr]
+(;W[ps];B[qr]LB[nr:A]LB[ss:B]C[Black lives.])
+(;W[ss];B[ps])
+(;W[sp];B[sq];W[ps];B[qr]LB[nr:A]LB[ss:B])
+(;W[so];B[sq];W[ps];B[qr]LB[nr:A]LB[ss:B]C[Black lives.]))
+(;W[ps];B[qr]C[Black lives.])
+(;W[rr];B[sr]LB[rs:A]LB[sp:B]C[Black lives.])
+(;W[rs];B[rr])
+(;W[qr];B[rr])
+(;W[rp];B[sp])
+(;W[sq]
+(;B[sr];W[sp];B[rs])
+(;B[sp])))
+(;W[rq];B[rp];W[rr];B[qr]
+(;W[sn]C[RIGHT])
+(;W[sr]C[];B[sn]
+(;W[sp];B[rs]C[Seki.])
+(;W[rs];B[sp]C[Black lives. (white cannot play at A)]LB[ps:A]))))

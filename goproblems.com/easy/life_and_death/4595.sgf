@@ -1,0 +1,25 @@
+(;GE[life and death]DI[5k]DP[33]SO[dobromila]CO[9]SZ[19]AW[cq]AW[ar]AW[br]AW[dr]AW[er]AW[fr]AB[co]AB[bp]AB[dp]AB[fp]AB[bq]AB[dq]AB[fq]AB[hq]AB[gr]C[kill white]GM[1]FF[4]CA[UTF-8]ST[2]RU[Japanese]KM[0.00]
+(;B[cs];W[bs]
+(;B[cr];W[ds]C[:/ white lives])
+(;B[fs];W[cr]
+(;B[es];W[ds])
+(;B[ds];W[es]))
+(;B[ds];W[cr]))
+(;B[fs]
+(;W[es]C[:) Proverb: 'There is death in the hane'CHOICE];B[cs]
+(;W[bs]C[CHOICE];B[cr];W[ds];B[cr]C[.RIGHT])
+(;W[cr]C[CHOICE];B[bs]C[RIGHT]))
+(;W[bs]C[:) Proverb: 'There is death in the hane'CHOICE]
+(;B[cr]
+(;W[cs]C[CHOICE];B[es]C[RIGHT])
+(;W[es]C[CHOICE]
+(;B[cs];W[ds];B[cr]C[RIGHT])
+(;B[cp]C[RIGHT])))
+(;B[es];W[ds];B[cr];W[gs];B[fs]C[RIGHT])
+(;B[cs];W[cr]
+(;B[es];W[ds])
+(;B[ds];W[es]))))
+(;B[bs];W[cs]
+(;B[fs];W[es])
+(;B[es];W[fs]))
+(;B[cr];W[cs]))

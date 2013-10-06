@@ -1,0 +1,26 @@
+(;GE[tesuji]DI[12k]DP[58]SO[adum]CO[8]AW[dr]AW[cr]AW[cq]AW[bp]AW[bo]AB[bn]AB[cn]AB[do]AB[dp]AB[dq]AB[er]AB[gq]AB[gp]AB[ip]AW[eq]AW[fp]AW[en]AW[fn]AW[gn]AW[bl]AW[dl]AW[ek]AB[jp]C[connect black]AP[goproblems]
+(;B[fo];W[eo]
+(;B[ep]
+(;W[go]
+(;B[fq]C[CHOICERIGHT])
+(;B[fr]C[RIGHT]))
+(;W[fq];B[fr]C[CHOICERIGHT]))
+(;B[fq];W[ep])
+(;B[fr];W[ep]))
+(;B[eo];W[fo])
+(;B[fq];W[ep])
+(;B[ep];W[fq]
+(;B[fr];W[fo])
+(;B[fo];W[fr]
+(;B[eo];W[go])
+(;B[go];W[eo])
+(;B[gr];W[es]
+(;B[eo];W[go])
+(;B[go];W[eo]))))
+(;B[fr];W[ep])
+(;B[dn];W[ep])
+(;B[cp];W[ep])
+(;B[gr];W[ep])
+(;B[cm];W[ep])
+(;B[cl];W[ck]C[not good exchange])
+(;B[dm];W[ep]))

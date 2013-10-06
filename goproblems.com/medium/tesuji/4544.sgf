@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[2d]DP[14]SO[guff]CO[7]AB[kp]AB[jq]AB[lo]AB[op]AB[qp]AW[mo]AW[lp]AW[lq]AP[goproblems]
+(;B[mp];W[np]
+(;B[no];W[mq];B[mn]C[];W[oq];B[mp];W[nq];B[pq]C[Correct! Now, can you tell if white can live?RIGHT])
+(;B[mq];W[nq];B[mr];W[ln];B[ko];W[no]C[Ouch.]))
+(;B[no];W[mn];B[mp];W[mq];B[np];W[ko];B[ln];W[jo];B[mm];W[iq];B[ir];W[jr]
+(;B[kr];W[kq]
+(;B[jp];W[ip])
+(;B[js];W[jp]C[Escape!]))
+(;B[ip];W[jp]
+(;B[kq];W[kr])
+(;B[hq];W[kq]C[Escape!])))
+(;B[nq];W[mp]C[white can escape.])
+(;B[mn];W[no]
+(;B[mp];W[np];B[mq];W[nq];B[mr];W[lr])
+(;B[nq];W[ln];B[ko];W[mp]C[white can escape.])
+(;B[kn];W[nn]C[white is out.])))

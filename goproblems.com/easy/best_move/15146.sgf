@@ -1,0 +1,17 @@
+(;GE[best move]DI[5k]DP[32]SO[mysandbox]CO[0]AW[br]AW[bq]AW[cp]AW[co]AB[cq]AB[cr]AW[dq]AW[eq]AW[fq]AW[fo]AW[en]AB[dn]AB[do]AB[dp]AB[cn]AB[bn]AB[dm]AB[dk]AB[gr]AB[hq]AB[ho]C[B to rescue his two stones and seperate white in the same time.]AP[goproblems]
+(;B[cs];W[bp]
+(;B[fs]C[RIGHT])
+(;B[dr];W[er])
+(;B[er];W[dr])
+(;B[fr];W[dr])
+(;B[es];W[fs];B[fr];W[ds];B[dr];W[er]
+(;B[gs];W[bs])
+(;B[ds];W[bs]))
+(;B[ds]C[RIGHT]))
+(;B[bp];W[cs]
+(;B[dr];W[er];B[bo];W[ds])
+(;B[bo];W[dr]))
+(;B[dr];W[er];B[bp];W[cs];B[bo];W[ds])
+(;B[er];W[dr])
+(;B[fr];W[dr])
+(;B[ds];W[dr]))

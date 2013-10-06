@@ -1,0 +1,13 @@
+(;GE[fuseki]DI[2d]DP[13]SO[santa c]CO[6]C[Hehe - I know alot of people won't like it, but... A really simple and famous joseki is played out... After 5 (HIDDEN) stones in the lower left corner, one more move is left... Where should it be? (Locations where the stones are are unclickable - Moving the mouse over them won't show the stone, e.g. d4...:)]AB[jq]AB[pp]AB[qq]AB[qr]AB[oq]AB[np]AB[cd]AB[ic]AB[pd]AW[qp]AW[rq]AW[qo]AW[pn]AW[qj]AW[lp]AW[ko]AW[cj]AP[goproblems]
+(;B[hp]C[Well done! Settling the black group like this is the best! :)RIGHT]AW[dp]AW[cq]AW[dn]AB[fq]AB[dr])
+(;B[dp]C[NOTTHIS])
+(;B[dn]C[NOTTHIS])
+(;B[cq]C[NOTTHIS])
+(;B[fq]C[NOTTHIS])
+(;B[dr]C[NOTTHIS])
+(;B[hq]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr]C[It's safe to play at A and not as cramped...]LB[hp:A])
+(;B[fo]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr]C[It doesn't press the left nor does it build a moyo in this case. But it does leave the black group with aji and it may need A later, anyway.]LB[hp:A])
+(;B[iq]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr]MA[dn]MA[dp]MA[cq]MA[dr]MA[fq]C[In combination with these stones is indeed a joseki but seems like an unreasonable choice here... Better at A under the circumstances.]LB[hp:A]LB[jq:X])
+(;B[ip]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr]C[Leaves extra weakness - Better at A.]LB[hp:A])
+(;B[io]C[Leaves extra weakness - Better at A. (Also consider that the White stones are light and it's gote.)]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr]LB[hp:A])
+(;B[jo]AW[dp]AW[dn]AW[cq]AB[fq]AB[dr];W[jn]LB[io:A];B[io];W[mn]C[Black does get sente but at the cost of being sealed off! (Thanks danoo!)]))

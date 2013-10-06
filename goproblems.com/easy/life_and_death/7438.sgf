@@ -1,0 +1,39 @@
+(;GE[life and death]DI[8k]DP[48]SO[erislover]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+PW[White]PB[Black]AW[ma][oa][mb][nb][mc][md][nd][od][sd][pe][qe][re][se]AB[ob][nc][oc][rc][sc][pd][qd][rd]TR[oa]C[White just played the marked stone. Can black salvage the situation?]
+(;B[qb]LB[pb:A][pc:B]TR[sb][qc]C[RIGHT
+Black has room for eyes now. A and B are miai for life.])
+(;B[pb]
+;W[qb]
+(;B[pa]
+;W[qa]
+(;B[na]
+;W[pc]
+;B[qc]
+;W[oa]C[Ko should be unacceptable. Black can do better.]
+;B[pc]
+;W[rb]LB[ra:A][sb:B]C[White can either kill at T18 immediately or make a dead shape for black at S19. Black has no choice but to die now.])
+(;B[pc]
+(;W[na]LB[ra:A][rb:B]C[CHOICE
+Black has A or B to start a ko; however, black can do better.])
+(;W[rb]C[CHOICE
+White gets to give Black a dead shape.])))
+(;B[rb]
+;W[pa]CR[sa]LB[qa:A][pc:B]C[White has either A or B to leave black with only one eye.])
+(;B[pc]
+;W[pa]C[W safely connects out and B dies.]))
+(;B[pc]
+;W[qb]
+;B[pa]
+;W[na]
+(;B[qa]
+;W[pb]C[Whoops])
+(;B[pb]LB[qa:A][rb:B]C[White can use A or B, and the best result for Black is then a ko; however, Black can do better than ko.]))
+(;B[pa]
+;W[pb]
+(;B[na]
+;W[pc]C[Ouch ;)])
+(;B[pc]
+;W[qa]
+;B[qb]
+;W[ra]C[Black can do better than start a ko.])))

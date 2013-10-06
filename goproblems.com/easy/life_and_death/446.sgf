@@ -1,0 +1,40 @@
+(;GE[life and death]DI[4k]DP[31]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AE[ca]AW[aa][ab][ac][bc][cc][dc][db][da][cd][ce][de]AB[be][bd][ad][cf][df][bg][ee][ed][ec]AW[ef]AB[eb][ea]AW[fb][fc]AB[gd][gc][gb][fd]AE[gf]AW[fa]AE[ff]AW[fe][ge][fg][hd][hc][hb][jb]AB[bb][cb]C[can black win the semeai, or is seki best?]
+(;B[ha]CR[ha]
+;W[ia]CR[ia]
+(;B[ba]CR[ba]C[RIGHT
+white plays elsewhere: seki])
+(;B[ca]CR[ca]C[RIGHT
+white plays elsewhere: seki])
+(;B[ga]CR[ga]
+;W[fb]CR[fb]))
+(;B[ga]CR[ga]
+;W[fb]CR[fb]
+(;B[dd]CR[dd]
+;W[ha]CR[ha]
+(;B[ca]CR[ca]
+;W[ba]CR[ba]
+;B[cb]CR[cb]
+;W[fc]CR[fc]
+;B[fa]CR[fa]
+;W[fb]CR[fb])
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[bb]CR[bb]
+;W[fc]CR[fc]))
+(;B[ca]CR[ca]
+;W[ha]CR[ha])
+(;B[ba]CR[ba]
+;W[ha]CR[ha]))
+(;B[dd]CR[dd]
+;W[ga]CR[ga])
+(;B[ca]CR[ca]
+;W[ha]CR[ha]
+;B[ga]CR[ga]
+;W[fb]CR[fb])
+(;B[ba]CR[ba]
+;W[ha]CR[ha]
+;B[ga]CR[ga]
+;W[fb]CR[fb])
+(;B[ia]CR[ia]
+;W[ha]CR[ha]))

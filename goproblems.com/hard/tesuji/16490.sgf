@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[6d]DP[1]SO[ptyrna]CO[0]AB[pr]AB[os]AB[oq]AB[po]AB[pn]AB[om]AB[nn]AB[mn]AB[mo]AB[mp]AB[lq]AB[lr]AB[kq]AB[jp]AB[ip]AB[iq]AB[lm]AB[jn]AW[ir]AW[jr]AW[kr]AW[jq]AW[ko]AW[kp]AW[lp]AW[ln]AW[mq]AW[nq]AW[or]AW[np]AW[no]AW[op]AW[mm]AW[nm]AW[nk]C[Black to capture as many stones as possible.]AB[qr]AB[qo]AP[goproblems]
+(;B[ms];W[mr];B[ls];W[ks];B[ns];W[nr];B[ps];W[pq]
+(;B[kn]TR[mr]TR[nr]TR[or]TR[pq]TR[op]TR[np]TR[nq]TR[mq]TR[no]TR[ln]TR[ko]TR[kp]TR[lp]C[The marked stones are captured!RIGHT])
+(;B[qq];W[lo];B[on];W[km];B[ll];W[kn]TR[km]TR[kn]TR[ln]TR[lo]TR[ko]TR[lp]TR[kp]C[The marked stones can run...]))
+(;B[mr];W[nr];B[ns];W[ms];B[ls];W[ks]C[Oiotoshi!])
+(;B[nr];W[mr]C[Black is captured!])
+(;B[ns];W[mr]C[Black is captured!])
+(;B[ls];W[ms]
+(;B[ns];W[mr]C[Black is captured!])
+(;B[mr];W[nr];B[ns];W[ks]C[Oiotoshi!])
+(;B[nr];W[mr]C[Black is captured!]))
+(;B[jo];W[mr]C[Black is captured!])
+(;B[kn];W[mr]C[Black is captured!])
+(;B[lo];W[on]C[Oops!]))

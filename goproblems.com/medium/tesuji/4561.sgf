@@ -1,0 +1,42 @@
+(;GE[tesuji]DI[3k]DP[25]SO[adum]CO[8]AW[dr]AW[cq]AW[cp]AW[do]AW[cn]AW[cm]AW[dm]AB[co]AB[bo]AB[dn]AB[en]AB[fn]AB[gn]AB[ho]AW[go]AB[ck]AB[ek]AW[fq]AB[fr]AW[iq]AW[lq]TR[do]C[black REALLY REALLY wants to catch the marked white stone...]AP[goproblems]
+(;B[dp];W[eo]
+(;B[ep];W[fo]
+(;B[gq]C[no way outRIGHT])
+(;B[fp];W[gp]
+(;B[hp];W[gq])
+(;B[gq];W[hp])
+(;B[eq];W[gq])
+(;B[hq];W[eq]))
+(;B[gp];W[fp]
+(;B[eq];W[gq]
+(;B[hq];W[hp])
+(;B[gr];W[hp])
+(;B[hp];W[er])
+(;B[er];W[hp]))
+(;B[gq];W[eq])
+(;B[er];W[eq])
+(;B[gr];W[eq]))
+(;B[eq];W[gq])
+(;B[hp];W[gq])
+(;B[hq];W[eq])
+(;B[er];W[eq]))
+(;B[fo];W[ep]
+(;B[eq];W[dq])
+(;B[fp];W[eq]))
+(;B[fp];W[ep])
+(;B[gp];W[ep])
+(;B[eq];W[ep])
+(;B[hp];W[ep]))
+(;B[ep];W[dp])
+(;B[gp];W[ep])
+(;B[eq];W[ep])
+(;B[fp];W[ep])
+(;B[fo];W[ep])
+(;B[eo];W[dp])
+(;B[bn];W[bm]C[this exchange doesn't help])
+(;B[bp];W[ep])
+(;B[bm];W[bn])
+(;B[dq];W[dp])
+(;B[ao];W[ep])
+(;B[bl];W[bn])
+(;B[em];W[bn]))

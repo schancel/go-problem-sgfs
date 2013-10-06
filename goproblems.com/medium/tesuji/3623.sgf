@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[1d]DP[15]SO[Kujo]CO[7]AB[is]AB[gr]AB[hr]AB[ir]AB[jr]AB[ks]AB[iq]AB[ip]AB[io]AB[gp]AB[hp]AB[jp]AB[kp]AB[lp]AB[ko]AB[kn]AB[fo]AB[fn]AB[gm]AB[hm]AB[il]AB[kl]AB[kk]AB[jk]AB[jj]AB[mk]AB[ml]AB[nl]AB[mm]AB[lm]AB[mn]AB[nn]AB[no]AB[om]AW[gs]AW[fr]AW[fp]AW[fq]AW[gq]AW[hq]AW[ep]AW[eo]AW[en]AW[fm]AW[fl]AW[gl]AW[hl]AW[ik]AW[ij]AW[ii]AW[hi]AW[ji]AW[lh]AW[kh]AW[li]AW[kj]AW[lk]AW[mj]AW[ni]AW[oj]AW[pk]AW[ql]AW[pm]AW[ol]AW[nk]AW[pn]AW[on]AW[oo]AW[ln]AW[lo]AW[mo]AW[mp]AW[nq]AW[np]AW[jq]AW[kq]AW[lq]AW[kr]AW[ls]AW[ns]AW[ms]AW[mr]AP[goproblems]
+(;W[im]
+(;B[jl]C[If black had made eye shape with H6, white would get only one stone. Now punish]TR[il]MA[hn]
+(;W[hn];B[jm]
+(;W[gn];B[go];W[in];B[jn]C[Two captured stones, but white can do better])
+(;W[in];B[jn]
+(;W[go]C[White gets nine points and black has 2. Not bad, but there's better])
+(;W[gn];B[go]C[Two captured stones, but white can do better.]))
+(;W[go];B[in]C[Two captures, but black gets one too.  White can do better.]))
+(;W[in];B[hn]C[White can still capture F5 and F6, but at a cost]TR[go])
+(;W[jn];B[hn]C[])
+(;W[jm]
+(;B[hn]C[];W[km]C[];B[jn]C[There you go, black just barely livesRIGHT];W[ll]C[RIGHT];B[go]C[RIGHT];W[nm]C[RIGHT])
+(;B[jn];W[hn])
+(;B[km];W[hn])))
+(;B[hn];W[jm];B[km];W[jl];B[jn]))
+(;W[go];B[gn]C[This just forces black to make needed reenforcements])
+(;W[gn];B[go]
+(;W[hn];B[im]C[Black keeps everything])
+(;W[im];B[hn]C[That's two eyes for black, so black can afford to fill in the rest, plus white gives up a prisoner]))
+(;W[jm];B[im]))

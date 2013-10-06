@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[42]SO[monk316]CO[0]AB[hq]AB[hp]AB[ip]AB[jp]AB[kp]AB[lp]AB[lq]AB[lr]AB[ls]AB[kr]AW[mp]AW[mq]AW[mr]AW[ms]AW[lo]AW[ko]AW[jo]AW[io]AW[ho]AW[gp]AW[gq]AW[gr]AW[hr]AW[is]AW[ks]C[B to move.CHOICE]AP[goproblems]
+(;B[jr];W[js]
+(;B[ir];W[hs];B[jq]C[Correct.RIGHT])
+(;B[jq];W[ir])
+(;B[hs];W[ir]))
+(;B[js];W[jr]
+(;B[jq];W[ir])
+(;B[ir];W[iq])
+(;B[ks]C[W can tenuki.]))
+(;B[jq];W[ir]
+(;B[jr];W[js])
+(;B[js];W[jr]))
+(;B[ir];W[jr]
+(;B[jq];W[iq]C[Ko. Not good enough.])
+(;B[js];W[iq])))

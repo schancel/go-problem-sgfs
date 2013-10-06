@@ -1,0 +1,7 @@
+(;GE[best move]DI[5k]DP[32]SO[cusp]CO[7]AW[cr]AW[dr]AW[eq]AW[fq]AW[gr]AW[hr]AW[is]AW[jr]AW[kr]AW[lq]AW[mq]AW[bs]AW[br]AB[as]AB[ar]AB[aq]AB[bq]AB[cq]AB[dq]AB[ep]AB[do]AB[fp]AB[gq]AB[hq]AB[ir]AB[iq]AB[kq]AB[jq]AB[lp]AB[lo]AB[ln]AB[km]AB[jn]AB[jm]AB[im]AB[fm]AB[em]AB[en]AB[dl]AB[cl]AB[bm]AW[mp]AW[mo]AW[mn]AW[lm]AW[ml]AW[kl]AW[jl]AW[il]AW[hl]AW[gl]AW[fl]AW[dk]AW[ck]AW[bk]AW[bl]AB[gp]C[Where black should play first?]AB[el]AW[ek]AW[fj]AP[goproblems]
+(;B[gm]C[One point reverse sente. There is a bigger move.])
+(;B[hm]C[One point reverse sente. There is a bigger move.])
+(;B[al]C[Five point gote. There is a better move.])
+(;B[hs]C[RIGHT];W[fr]C[Yes, this is it! White loses a lot. White's best defense is F2 (navigate through continuation).];B[js];W[lr];B[gs];W[fs];B[is];W[ds])
+(;B[er]C[You stand to make gain after this attack, but there is an even bigger move.])
+(;B[am]C[A8 is locally better.]))

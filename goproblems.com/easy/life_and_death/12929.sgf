@@ -1,0 +1,344 @@
+(;GE[life and death]DI[7k]DP[42]SO[SilverHawk]CO[0]AW[ah]AW[bh]AW[bg]AW[cg]AW[cf]AW[ce]AW[dd]AW[de]AW[ee]AW[fe]AW[ff]AW[fg]AW[fh]AW[gh]AW[dj]AW[dk]AW[dl]AW[fj]AW[fk]AW[fl]AW[gj]AW[hi]AW[ii]AW[ji]AW[ij]AW[ik]AW[jh]AW[jg]AW[ig]AW[if]AW[hl]AW[gm]AW[em]AW[dn]AW[bo]AW[co]AW[cp]AW[dp]AB[df]AB[ef]AB[eg]AB[dg]AB[di]AB[eh]AB[ei]AB[fi]AB[gi]AB[el]AB[ch]AB[bi]AB[cj]AB[cl]AB[cm]AB[bm]AB[fm]AB[fn]AW[ac]AW[bc]AW[cc]AW[bd]AB[ad]AB[ag]AB[bf]AB[be]AB[bb]AB[cb]AB[db]AB[dc]AB[fc]AB[fd]AB[gd]AB[ge]AB[gf]AB[gg]AB[hg]AB[hh]AB[ih]AB[bp]AB[bq]AB[cq]AB[dq]AB[dr]AB[er]AB[fr]AW[eq]AW[fq]AW[gp]AW[gr]C[]AP[goproblems]
+(;W[ck];B[bk])
+(;W[ak];B[ai])
+(;W[bk];B[ck]
+(;W[ai];B[aj]C[]
+(;W[bj];B[ci]C[Black had no ko threats worth this much.]
+(;W[ak]C[RIGHT])
+(;W[an];B[bl];W[ak]C[RIGHT])
+(;W[ap];B[al];W[ak];B[an]
+(;W[bn]C[RIGHT])
+(;W[ao];B[bn]))
+(;W[ao]C[RIGHT])
+(;W[bn]C[RIGHT])
+(;W[cd];B[al];W[ak];B[an];W[ao];B[bn])
+(;W[al];B[bl];W[ak];B[am];W[aj];B[ao]))
+(;W[ak];B[bj])
+(;W[al]
+(;B[am];W[bj];B[ci];W[ak];B[ao]C[Black connects.])
+(;B[bj]
+(;W[am];B[an]
+(;W[bn];B[bl];W[ao];B[ak])
+(;W[ao];B[bn])
+(;W[bl];B[ak]))
+(;W[an];B[am])))
+(;W[bl];B[al])
+(;W[am]
+(;B[al])
+(;B[ak]
+(;W[bl];B[al])
+(;W[al];B[bj]C[Oiotoshi (connect-and-die) for the second eye.])
+(;W[an];B[al])))
+(;W[an];B[bj]
+(;W[al];B[am])
+(;W[bl];B[am])
+(;W[am];B[al])))
+(;W[bj];B[ai]
+(;W[aj];B[ci])
+(;W[al];B[am];W[aj];B[ci])
+(;W[an];B[am];W[aj];B[ci]))
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[an];B[ak]
+(;W[ai];B[aj]
+(;W[al];B[bj]C[Oiotoshi (connect-and-die) for the second eye.])
+(;W[bl];B[al]))
+(;W[am];B[al]
+(;W[aj];B[bl]C[Oiotoshi (connect-and-die) for the second eye.])
+(;W[ai];B[aj]))
+(;W[al];B[aj]
+(;W[am];B[bl])
+(;W[bl];B[am]))
+(;W[aj];B[ai]
+(;W[al];B[am];W[bj];B[ci])
+(;W[bj];B[ci];W[al];B[am])
+(;W[bl];B[bj]))
+(;W[bj];B[aj])
+(;W[bl];B[al]))
+(;W[al];B[am]
+(;W[ai];B[aj];W[bj];B[ci];W[ak];B[ao])
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[bj];B[ai];W[aj];B[ci])
+(;W[ak];B[ai])
+(;W[bl];B[ai]))
+(;W[am];B[an]
+(;W[ao];B[bn]
+(;W[ai];B[aj]
+(;W[bj];B[ci]
+(;W[ak];B[bl]C[Oiotoshi (connect-and-die) for the second eye.])
+(;W[al];B[bl]C[Snapback. :/])
+(;W[bl];B[ak];W[al];B[aj]C[Snapback. :/]))
+(;W[ak];B[bj]))
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[bj];B[ai];W[aj];B[ci]))
+(;W[bn];B[al]
+(;W[ai];B[aj]
+(;W[ak];B[bj])
+(;W[bj];B[ci]))
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[bj];B[ai];W[aj];B[ci]))
+(;W[al];B[bn]
+(;W[ai];B[aj]
+(;W[bj];B[bl]C[Snapback. :/])
+(;W[ak];B[bj]))
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[bj];B[ai];W[aj];B[ci]))
+(;W[bl];B[al]
+(;W[bj];B[ai])
+(;W[ai];B[aj])
+(;W[ak];B[ai];W[am];B[bn])
+(;W[aj];B[ai])))
+(;W[ak];B[ai];W[am];B[an]
+(;W[bn];B[al])
+(;W[ao];B[bn]))
+(;W[bl];B[ai];W[am];B[an]
+(;W[bn];B[al])
+(;W[al];B[bn])))
+(;W[aj];B[ai]
+(;W[bj];B[ci]
+(;W[ck];B[bk])
+(;W[bk];B[ck])
+(;W[al];B[am]
+(;W[ck];B[bk])
+(;W[bk];B[ck]))
+(;W[an];B[am]
+(;W[ck];B[bk])
+(;W[bk];B[ck]))
+(;W[am]
+(;B[al];W[ck];B[bk])
+(;B[an]
+(;W[al];B[bl]
+(;W[bk];B[ck])
+(;W[bn];B[ak]
+(;W[ck];B[bk])
+(;W[bk];B[ck])))
+(;W[bk];B[ck]
+(;W[bn];B[al])
+(;W[al];B[bn])))))
+(;W[ck];B[bk])
+(;W[bk];B[ck];W[bj];B[ci]))
+(;W[an];B[ck]
+(;W[am];B[ak]
+(;W[al];B[aj])
+(;W[aj];B[ai]))
+(;W[ak];B[al];W[ai];B[bk];W[aj];B[am]))
+(;W[bj];B[ck]
+(;W[ai]
+(;B[ci]C[Black had no ko threats worth this much.]
+(;W[ak]C[RIGHT])
+(;W[bk];B[aj]
+(;W[ak]C[RIGHT])
+(;W[al];B[bl]
+(;W[ak];B[am]
+(;W[aj];B[ao]C[Black connects.])
+(;W[an];B[aj]))
+(;W[am];B[an]C[Snapback. :/])
+(;W[an];B[am]C[Snapback. :/]))
+(;W[bl];B[al]C[Snapback. :/])
+(;W[an];B[am];W[ak]C[RIGHT])
+(;W[am];B[al]
+(;W[ak];B[bn];W[ao];B[an])
+(;W[ao];B[bl]C[Snapback. :/])
+(;W[an];B[bl]C[Snapback. :/])))
+(;W[aj];B[bk]
+(;W[ak];B[al])
+(;W[al];B[am];W[ak];B[ao]C[Black connects.])
+(;W[am];B[al]
+(;W[an];B[ak])
+(;W[ak];B[an]))
+(;W[an];B[al]))
+(;W[al]
+(;B[bk]
+(;W[ak];B[aj]
+(;W[am];B[an]
+(;W[bj];B[ao]
+(;W[bn];B[aj];W[ap]C[RIGHT])
+(;W[aj];B[bn]C[Black connects.]))
+(;W[ao]
+(;B[bn];W[bj]C[Black has no ko threats, so white can fill on the next move.RIGHT])
+(;B[bj];W[bn]C[RIGHT])))
+(;W[an];B[am];W[bj]C[Black has no ko threats, so white can fill on the next move.RIGHT]))
+(;W[aj];B[am]
+(;W[an];B[ak])
+(;W[ao];B[ak])
+(;W[ak];B[ao]C[Black connects.]))
+(;W[am];B[an]
+(;W[bn];B[aj];W[ao];B[ak])
+(;W[ak];B[bn]
+(;W[ao];B[aj]C[White has no ko threats, so black can fill on the next move.])
+(;W[aj];B[ao]C[Black connects.])))
+(;W[an];B[am]
+(;W[ak];B[aj]C[White has no ko threats, so black can fill on the next move.])
+(;W[aj];B[ak])))
+(;B[aj]
+(;W[bk];B[am]
+(;W[ak];B[ao]C[Black connects.])
+(;W[bl];B[ao]C[Black connects.])
+(;W[an];B[bl]C[Snapback. :/]))
+(;W[ak]C[RIGHT]))
+(;B[ak]
+(;W[aj];B[am]
+(;W[ao];B[bk])
+(;W[an];B[bk])
+(;W[bk];B[ao]C[Black connects.]))
+(;W[bk]
+(;B[am]
+(;W[an])
+(;W[ao]))
+(;B[an];W[ao]))))))
+(;W[aj];B[bk]
+(;W[al];B[am]
+(;W[an];B[ak])
+(;W[ak];B[ao]C[Black connects.])
+(;W[ai];B[ci]
+(;W[ak];B[ao]C[Black connects.])
+(;W[an];B[ak])))
+(;W[ak];B[al];W[ai];B[ci])
+(;W[am];B[al]
+(;W[ai];B[ci]
+(;W[ak];B[an])
+(;W[an];B[ak]))
+(;W[ak];B[ai])))
+(;W[bk];B[ai];W[aj];B[ci])
+(;W[an]
+(;B[am];W[ai];B[ci];W[bk])
+(;B[bk]
+(;W[al];B[aj]
+(;W[ak];B[am])
+(;W[bl];B[am])
+(;W[am];B[ak]))
+(;W[aj];B[ak]
+(;W[ai];B[ci]
+(;W[am];B[al])
+(;W[al];B[am]))
+(;W[am];B[ai])
+(;W[al];B[ai])))))
+(;W[al];B[ai]
+(;W[ck];B[bk]
+(;W[am];B[aj]
+(;W[ak];B[an]
+(;W[bn];B[bl])
+(;W[ao];B[bn]))
+(;W[bl];B[an]
+(;W[bn];B[ak])
+(;W[ao];B[bn])))
+(;W[ak];B[am])
+(;W[aj];B[am])
+(;W[bl];B[am])
+(;W[an];B[am]))
+(;W[bk];B[ck]
+(;W[am];B[an]
+(;W[bn];B[ak]
+(;W[ao];B[bl]
+(;W[aj];B[bj]C[Oiotoshi (connect-and-die) for the second eye.])
+(;W[bj];B[aj]))
+(;W[aj];B[bj];W[ao];B[ak]C[White had no ko threats this big, so it's oiotoshi (connect-and-die) for the second eye.])
+(;W[bj];B[aj]C[Oiotoshi (connect-and-die) for the second eye.]))
+(;W[ao];B[bn]))
+(;W[bj];B[am];W[aj];B[ci])
+(;W[aj];B[am];W[bj];B[ci]))
+(;W[am];B[an]
+(;W[bn];B[ak];W[ao];B[bk])
+(;W[bl];B[bk])
+(;W[bk];B[ck]
+(;W[bn];B[ak]
+(;W[ao]
+(;B[bj];W[aj];B[bl]C[Oiotoshi (connect-and-die) for the second eye.])
+(;B[bl];W[aj];B[bj]C[Oiotoshi (connect-and-die) for the second eye.]))
+(;W[aj];B[bl];W[ao];B[bj]C[Oiotoshi (connect-and-die) for the second eye.]))
+(;W[ao];B[bn]))
+(;W[ck];B[bk]
+(;W[bn];B[bl];W[ao];B[ak])
+(;W[ao];B[bn]))
+(;W[bj];B[ck]
+(;W[bn];B[ak];W[ao];B[bl])
+(;W[ao];B[bn]))
+(;W[aj];B[bl]
+(;W[bn];B[ak]
+(;W[bk];B[bj];W[ck];B[am])
+(;W[ck];B[bk]))
+(;W[ao];B[bn]
+(;W[ck];B[bk])
+(;W[bk];B[ck]))
+(;W[bk];B[ck]
+(;W[bn];B[ak];W[al];B[am])
+(;W[ao];B[bn])))
+(;W[ak];B[bn]
+(;W[ck];B[bk])
+(;W[bk];B[ck])))
+(;W[bl];B[am]
+(;W[bk];B[ck])
+(;W[ck];B[bk]))
+(;W[ak];B[am];W[ck];B[bk]))
+(;W[bl];B[bk]
+(;W[ai];B[aj])
+(;W[ck];B[al]))
+(;W[am];B[al]
+(;W[bk];B[ck]
+(;W[ak];B[an]
+(;W[ai];B[bn]
+(;W[aj];B[bl])
+(;W[bl];B[aj]
+(;W[am];B[bj])
+(;W[bj];B[aj]))
+(;W[bj]
+(;B[bl])
+(;B[ci]
+(;W[bl];B[aj])
+(;W[aj];B[bl]))))
+(;W[aj];B[ai];W[bj];B[ci])
+(;W[bj];B[ai];W[aj];B[ci]))
+(;W[ai]C[Black is caught in a snapback and oiotoshi (connect-and-die).];B[aj]
+(;W[ak];B[bl]C[Snapback. :/])
+(;W[bj];B[ci]
+(;W[ak];B[bl]
+(;W[aj];B[bn]
+(;W[ao];B[an])
+(;W[an];B[ao]C[Black connects.]))
+(;W[an];B[aj]))
+(;W[an];B[bl];W[ak];B[aj]))
+(;W[bl]C[];B[bj]C[White is caught in both a snapback and oiotoshi (connect-and-die) for black's second eye.]))
+(;W[aj];B[ai]
+(;W[bl];B[bj]C[Snapback. :/])
+(;W[bj];B[ci]))
+(;W[bl];B[an]
+(;W[ai];B[aj])
+(;W[bj];B[ai])
+(;W[aj];B[ai])))
+(;W[ai];B[aj]
+(;W[bk];B[ck]
+(;W[bl];B[bj]C[White is caught in both a snapback and oiotoshi (connect-and-die) for black's second eye.])
+(;W[ak];B[bj]C[White is caught in both a snapback and oiotoshi (connect-and-die) for black's second eye.])
+(;W[bj];B[ci];W[ak];B[bl]
+(;W[an];B[aj])
+(;W[aj];B[bn]
+(;W[ao];B[an])
+(;W[an];B[ao]C[Black connects.]))))
+(;W[ck];B[bk]))
+(;W[aj];B[ai]
+(;W[bk];B[ck]
+(;W[bl];B[bj]C[Snapback. :/])
+(;W[bj];B[ci]))
+(;W[ck];B[bk]))
+(;W[ck];B[bk]
+(;W[aj];B[ai])
+(;W[ai];B[aj]))
+(;W[bj];B[bk]
+(;W[aj]
+(;B[ak])
+(;B[ck]
+(;W[an];B[ak])
+(;W[ai];B[ci]
+(;W[an];B[ak])
+(;W[ak];B[an]))
+(;W[ak];B[ai])))
+(;W[ai];B[aj]))
+(;W[ak];B[bk]
+(;W[aj];B[ai]
+(;W[bl];B[an]
+(;W[bn];B[al])
+(;W[ao];B[bn];W[ck];B[al])
+(;W[al];B[bj]))
+(;W[an];B[bl]))
+(;W[ai];B[aj])))
+(;W[ai]
+(;B[aj];W[bk];B[ck])))

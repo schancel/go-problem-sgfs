@@ -1,0 +1,16 @@
+(;GE[best move]DI[3k]DP[26]SO[piccolo]CO[0]AB[ba]AB[bb]AB[cb]AB[cc]AB[dc]AB[ag]AB[bf]AB[cf]AB[cg]AB[ch]AB[bh]AB[ci]AB[dj]AB[dg]AB[fg]AB[eg]AB[gf]AB[hf]AB[ie]AB[id]AB[ic]AB[ib]AB[lb]AW[kb]AW[kc]AW[ld]AW[nc]AW[mc]AW[oc]AW[nb]AW[nd]AW[pb]AW[pa]AW[qa]AB[ra]AB[rb]AB[qb]AB[qc]AB[pc]AB[pe]AB[pd]AB[pf]AB[rd]AB[re]AB[rf]AB[rg]AB[qg]AB[qh]AB[sd]AW[se]AW[sf]AW[sg]AW[sh]AW[rh]AW[of]AW[ng]AW[pg]AW[ph]AW[pi]AW[qi]AW[qj]AW[qk]AW[ql]AW[rj]AB[sk]AW[sl]AW[rm]AB[qm]AB[qn]AB[rn]AB[sn]AB[ro]AB[rp]AB[rq]AB[pm]AB[nm]AB[om]AB[km]AB[lm]AB[mm]AB[ol]AB[pj]AB[pk]AB[oj]AB[oi]AB[ni]AB[mh]AB[li]AB[mj]AW[nj]AW[nk]AW[mk]AW[lk]AW[jk]AW[jj]AW[ji]AW[jh]AW[jl]AW[jm]AW[jn]AW[jo]AB[jp]AB[kp]AB[ko]AB[kn]AW[lo]AW[mn]AW[no]AW[mp]AW[np]AW[nq]AW[on]AW[pn]AW[qo]AW[qp]AW[qq]AW[qr]AW[rr]AW[or]AW[os]AB[nr]AB[ms]AB[lr]AB[mq]AB[lq]AW[ca]AW[da]AW[db]AW[eb]AW[fc]AW[gb]AW[hc]AW[hd]AW[ed]AW[dd]AW[fe]AW[ff]AB[ke]AB[le]AB[md]AB[ne]AB[mf]AB[lf]AW[gg]AW[ig]AW[hg]AW[fh]AW[eh]AW[ei]AW[fj]AW[gj]AW[gi]AB[hi]AB[ii]AB[ik]AB[hk]AB[gk]AB[fk]AB[hl]AB[hm]AB[gm]AB[fm]AB[fn]AB[en]AB[dn]AB[fp]AB[ep]AB[gq]AB[gr]AB[fs]AB[er]AB[dq]AB[cq]AB[br]AB[bs]AW[ar]AW[bq]AW[cp]AW[bo]AW[cm]AW[dm]AW[em]AW[gl]AW[el]AW[fl]AW[ek]AW[ck]AW[bj]AW[bi]AW[ah]AW[hr]AW[hs]AW[gs]AW[gp]AW[hp]AW[ip]AW[hn]AW[jr]AB[sr]C[Black is behind by about 10 points. Find the best sequence ! (kill something directly > kill something by ko).]AP[goproblems]
+(;B[sm];W[rl]
+(;B[sj];W[rk];B[si];W[ri];B[sj];W[nf]
+(;B[oe];W[oh];B[nh]C[Well done !RIGHT])
+(;B[me];W[oh];B[nh]C[Well done !RIGHT])
+(;B[od];W[oh];B[nh]C[Well done !RIGHT])
+(;B[oh]C[NOTTHIS]))
+(;B[si];W[ri];B[sj];W[rk]))
+(;B[si];W[ri]
+(;B[sm];W[rl];B[sj];W[rk];B[sj])
+(;B[sj];W[rk];B[sm];W[sj];B[rl]C[Just a ko. (Might be enough but clearly bad).]))
+(;B[sj];W[rk]C[];B[si];W[ri])
+(;B[ka];W[ja];B[la];W[jb];B[na];W[ma];B[mb];W[ob]C[];B[ia];W[lc]C[When black connects at N19, white captures a living shape.])
+(;B[na];W[ma])
+(;B[cd];W[sj]C[White fixes the right side group and win. C16 is not needed (if white C16, black B16 connects).])
+(;B[ma];W[ka];B[na];W[ob]TR[la]TR[mb]C[Miai : white will capture a living shape.]))

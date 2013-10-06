@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[3k]DP[27]SO[Field Mouse]CO[0]AW[qc]AW[qd]AW[re]AW[qf]AW[qg]AW[qh]AW[pf]AW[ri]AW[qj]AW[qk]AW[pl]AB[pk]AB[pj]AB[pi]AB[rg]AB[rf]AB[pe]AB[qe]AB[of]AB[og]AB[ph]AB[pd]AB[oe]AW[rd]AB[ql]AW[qm]AB[pg]C[The marked stone here has some nice aji. Can you find it?]AB[pc]AB[pb]TR[ql]AP[goproblems]
+(;B[rl];W[rk]
+(;B[pm];W[ol];B[rm];W[qn])
+(;B[qi];W[rh]))
+(;B[qi];W[rh];B[rl];W[rk];B[sk];W[rj];B[rm];W[qn])
+(;B[rk]
+(;W[rj]
+(;B[rh]C[Good, white is in big trouble now.RIGHT])
+(;B[rl];W[rh]C[This result is good for you, but your last move was a horrible mistake. I will mark it correct but you must take back one move now and find the much better solution!RIGHT]))
+(;W[rh]
+(;B[rl]LB[rj:A]LB[pm:B]C[Good, next A and B are miai!RIGHT])
+(;B[rj];W[rl];B[qi]))
+(;W[rl];B[qi];W[rh];B[rj];W[sf]
+(;B[ql]C[Yai, nice tesuji you can use!RIGHT])
+(;B[si]C[NOTTHIS])))
+(;B[rh];W[qi];B[rl];W[rk];B[rm];W[qn]))

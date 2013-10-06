@@ -1,0 +1,39 @@
+(;GE[life and death]DI[2k]DP[23]SO[kaf]CO[8]AB[aq]AB[ap]AB[bp]AB[cp]AB[dp]AB[ep]AB[fq]AB[gq]AB[hq]AB[hr]AB[gs]AW[gr]AW[fr]AW[eq]AW[dq]AW[cq]AW[bq]AW[ar]AW[cr]AW[es]AB[bs]AB[br]AW[ir]AW[jq]C[black to kill]AP[goproblems]
+(;B[er];W[dr]
+(;B[cs];W[ds]
+(;B[hs];W[as]
+(;B[bs]C[CHOICERIGHT])
+(;B[fs];W[bs]))
+(;B[as];W[ar]
+(;B[bs];W[fs]
+(;B[hs];W[br])
+(;B[br];W[hs]))
+(;B[hs];W[bs])))
+(;B[hs];W[cs];B[fs];W[as];B[er];W[fr])
+(;B[as];W[cs]))
+(;B[cs];W[ds]
+(;B[er];W[as]
+(;B[bs];W[fs]
+(;B[br];W[hs])
+(;B[hs];W[br]))
+(;B[fs];W[bs]))
+(;B[hs];W[er]))
+(;B[as];W[cs]
+(;B[ar];W[dr])
+(;B[dr];W[ar]
+(;B[bs];W[er])
+(;B[er];W[bs])))
+(;B[hs];W[cs])
+(;B[ds];W[cs])
+(;B[dr]
+(;W[fs]C[CHOICE]
+(;B[cs];W[hs];B[er]C[yeah, yeah ... let's call it a kill.  But black can do better :)RIGHT])
+(;B[ds];W[hs];B[cs];W[is];B[er];W[gs]C[yeah, yeah ... let's call it a kill.  But black can do better :)RIGHT])
+(;B[hs];W[cs])
+(;B[er];W[ds]
+(;B[as];W[hs])
+(;B[hs];W[cs])))
+(;W[cs];B[er];W[ds];B[er]
+(;W[as];B[fs]C[RIGHT])
+(;W[dr];B[hs];W[as];B[fs]C[RIGHT]))
+(;W[ds];B[as]C[RIGHT])))

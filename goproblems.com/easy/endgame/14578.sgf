@@ -1,0 +1,39 @@
+(;GE[endgame]DI[4k]DP[30]SO[Mr.Hill]CO[0]AB[db]AB[eb]AB[fa]AB[fb]AB[fc]AB[cc]AB[dd]AB[de]AB[cf]AB[af]AB[bg]AB[bh]AB[bi]AB[ch]AB[dh]AB[dg]AB[ef]AB[eg]AB[fg]AW[ah]AW[ag]AW[ai]AW[aj]AW[bj]AW[cj]AW[ci]AW[di]AW[ei]AW[eh]AW[fh]AW[gh]AW[gg]AW[gf]AW[ff]AW[fe]AW[ee]AW[ed]AW[ec]AW[dc]AW[fd]AW[gd]AW[gc]AW[gb]AW[ga]AP[goproblems]
+(;W[be]
+(;B[bf]
+(;W[cb]
+(;B[bb];W[cd];B[bc];W[ce];B[ae];W[df]C[RIGHT])
+(;B[bc];W[bb];B[ab];W[da];B[ba];W[ea]C[well done, black's corner is reducedRIGHT]))
+(;W[cd]
+(;B[ce];W[cb];B[bc]
+(;W[bb]C[well done!RIGHT])
+(;W[da]C[Not badRIGHT]))
+(;B[bc];W[ce];B[ae];W[df]C[RIGHT])))
+(;B[bd];W[ae]
+(;B[ce];W[bf];B[ad];W[af]C[RIGHT])))
+(;W[cb];B[bb]
+(;W[cd];B[bc]
+(;W[ce]
+(;B[df]
+(;W[be]C[];B[bd];W[ae];B[ad];W[bf];B[af])
+(;W[ae];B[be];W[bf];B[bd];W[af];B[ad]C[RIGHT]))
+(;B[be];W[df]C[RIGHT]))
+(;W[be]
+(;B[bf];W[ce];B[ae];W[df]C[RIGHT])
+(;B[bd]
+(;W[ce];B[df])
+(;W[bf];B[ce];W[ae];B[ad];W[af]C[RIGHT]))))
+(;W[be]C[RIGHT];B[ce];W[bf];B[bd];W[ae];B[ad];W[af]C[RIGHT]))
+(;W[bd]
+(;B[be];W[cd];B[cb];W[ce];B[df];W[ad])
+(;B[bc];W[be]))
+(;W[bb];B[cb];W[bd];B[bc])
+(;W[bc];B[bb];W[cd];B[cb]
+(;W[ce];B[be];W[df];B[bd])
+(;W[be]
+(;B[ce])
+(;B[bf];W[ce])))
+(;W[cd]
+(;B[bc]
+(;W[ce];B[df];W[be];B[bd])
+(;W[be];B[ae]))))

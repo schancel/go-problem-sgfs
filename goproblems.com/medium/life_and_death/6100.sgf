@@ -1,0 +1,15 @@
+(;GE[life and death]DI[1k]DP[18]SO[mrmoto]CO[7]AB[rr]AB[qr]AB[pr]AB[pq]AB[pp]AB[rp]AB[sp]AW[so]AW[qo]AW[ro]AW[qp]AB[qq]AW[po]AW[oo]AW[oq]AW[op]AW[or]AW[os]LB[qm:T]C[Kill black if you can, or (T)enuki.FORCE]AP[goproblems]
+(;W[qm];B[sr]C[You could have killed black.])
+(;W[ps];B[sr])
+(;W[qs];B[sr])
+(;W[rs];B[sr])
+(;W[sq];B[rq])
+(;W[rq];B[sq])
+(;W[ss];B[sr])
+(;W[sr];B[rq]LB[qm:T]C[FORCE]
+(;W[ps]C[This move is gote:  black was already dead.])
+(;W[qs]C[This move is gote:  black was already dead.])
+(;W[rs]C[This move is gote:  black was already dead.])
+(;W[ss]C[This move is gote:  black was already dead.])
+(;W[sq];B[ss]C[?!])
+(;W[qm]C[Correct - white doesn't need another move in the corner.  (Black wasted a move with S3)RIGHT])))

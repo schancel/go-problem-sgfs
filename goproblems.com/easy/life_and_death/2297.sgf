@@ -1,0 +1,43 @@
+(;GE[life and death]DI[6k]DP[38]SO[Hans]CO[8]AW[qn]AW[no]AW[oo]AW[po]AW[jp]AW[kp]AW[lp]AW[mp]AW[qp]AW[rp]AW[hq]AW[jq]AW[oq]AW[pq]AW[pr]AW[qr]AB[np]AB[op]AB[pp]AB[kq]AB[lq]AB[mq]AB[nq]AB[qq]AB[rq]AB[rr]C[Black to play.]
+(;B[qs];W[nr]
+(;B[ps];W[or];B[mr]C[RIGHT])
+(;B[mr];W[ps]
+(;B[rs];W[os];B[ms]C[RIGHT])
+(;B[os];W[rs]C[White wins.])
+(;B[ns];W[rs];B[or]C[White wins.];W[sq]))
+(;B[os];W[or]
+(;B[mr];W[ns]
+(;B[ms]C[RIGHT])
+(;B[rs]C[RIGHT]))
+(;B[ps];W[mr])
+(;B[lr];W[ls];B[ms];W[ns];B[ks];W[rs];B[ss];W[ps];B[mr];W[rs]C[Ko.]))
+(;B[rs];W[mr]C[White wins.]))
+(;B[rs];W[nr]
+(;B[os];W[mr]C[White wins.])
+(;B[mr];W[ms]
+(;B[ls];W[os]LB[kr:A]C[Ko. White needs an approach move at A, but black could have killed without ko.])
+(;B[kr];W[os];B[qs];W[ps];B[ls];W[js]LB[jr:A]LB[ks:B]C[Ko. White needs two more moves at A and B but black could have won unconditionally.]))
+(;B[ps];W[mr]C[White wins.])
+(;B[qs];W[mr]C[White wins.])
+(;B[jr];W[os];B[qs];W[ps];B[mr];W[sq];B[ms];W[sr]C[White wins.]))
+(;B[nr];W[rs]C[White wins])
+(;B[or];W[nr]
+(;B[qs];W[os];B[rs];W[ps]
+(;B[mr];W[sq])
+(;B[ms];W[mr]
+(;B[lr];W[sq])
+(;B[ls];W[lr];B[kr];W[jr];B[ks];W[js])))
+(;B[os];W[ns]C[White wins.]))
+(;B[ps];W[os]
+(;B[nr];W[rs]C[White wins.])
+(;B[rs];W[nr];B[qs];W[or]
+(;B[mr]C[RIGHT])
+(;B[ms]C[RIGHT])
+(;B[ls]C[RIGHT])
+(;B[kr]C[RIGHT])
+(;B[jr]C[RIGHT])
+(;B[ks]C[RIGHT])
+(;B[js];W[mr];B[kr];W[jr]C[White wins.])
+(;B[ns];W[mr];B[lr];W[ms];B[ls]C[RIGHT])
+(;B[lr]C[RIGHT])))
+(;B[os];W[rs];B[qs];W[sr]C[Ko. Black could have killed unconditionally.]))

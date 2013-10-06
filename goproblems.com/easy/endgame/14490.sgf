@@ -1,0 +1,14 @@
+(;GE[endgame]DI[8k]DP[47]SO[blue88]CO[0]AB[pd]AB[oc]AB[pb]AB[qa]AB[qf]AB[of]AB[og]AW[pa]AW[ob]AW[nb]AW[nc]AW[lc]AW[ne]AW[nf]LB[qa:A]C[Black just played A. Reduce the corner!]AP[goproblems]
+(;W[qb];B[oa]
+(;W[qc];B[pc];W[ra]
+(;B[pa];W[sb]C[Life.RIGHT])
+(;B[rb];W[pa]C[Ko.RIGHT]))
+(;W[rb];B[qc])
+(;W[qd];B[qc];W[od];B[pc];W[pe];B[oe])
+(;W[ra];B[qc];W[pa]C[White can do even better.]))
+(;W[qc]
+(;B[pc];W[qb];B[oa];W[ra]
+(;B[rb])
+(;B[pa]))
+(;B[qb];W[pc];B[rc];W[qd];B[rd];W[qe];B[re];W[pe];B[pf];W[oe];B[oa]C[RIGHT]))
+(;W[oa];B[qb]C[Now that's unimaginative!]))

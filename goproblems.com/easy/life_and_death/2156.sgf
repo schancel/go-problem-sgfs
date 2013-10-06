@@ -1,0 +1,11 @@
+(;GE[life and death]DI[20k]DP[72]SO[falias]CO[7]SZ[13]AW[cj]AW[dj]AW[ej]AW[fj]AW[ck]AW[gk]AW[hk]AW[bl]AW[hl]AW[hm]AB[dk]AB[ek]AB[fk]AB[el]AB[gl]AB[fm]AB[gm]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[dm];W[cl];B[dl]C[RIGHT])
+(;B[cl];W[cm]
+(;B[dm];W[dl])
+(;B[dl];W[dm]))
+(;B[cm];W[cl]
+(;B[dl];W[dm])
+(;B[dm];W[dl]))
+(;B[dl];W[dm]
+(;B[cl];W[cm])
+(;B[cm];W[cl])))

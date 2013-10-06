@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[1k]DP[18]SO[kennabee]CO[7]AB[df]AB[de]AB[dd]AB[ed]AB[ec]AW[dc]AW[db]AW[eb]AB[fb]AW[fc]AW[fd]AW[gd]AW[hd]AW[id]AW[ic]AB[hc]AW[jd]AW[ie]AB[kd]AB[lc]AB[ke]AB[je]AB[jf]AB[if]AB[he]AB[ge]AB[fe]AB[ff]AB[gf]AB[gg]AW[hf]AW[hg]AW[ig]AW[jg]AW[kg]AW[kf]AW[fg]AW[fh]AB[eg]AB[gh]AW[cd]AB[cf]AW[ch]AW[ci]AB[dh]AW[di]AB[ei]AB[eh]AB[dj]AB[cj]AB[ej]AW[bj]AW[bk]AW[cl]AW[fi]AW[fj]AW[hj]AW[gj]AB[gi]AB[hi]AW[bd]AW[ce]AB[be]AB[bg]AB[ah]AW[bh]AW[bi]AB[ad]AW[cg]AW[dg]AB[ef]AP[goproblems]
+(;B[cc];W[bc]
+(;B[bb];W[cb];B[ac];W[gb];B[cc]C[End in Gote.])
+(;B[gb]
+(;W[ib]C[CHOICE];B[bb];W[cb];B[ac];W[hb];B[cc];W[gc]C[RIGHT])
+(;W[hb]C[CHOICE]
+(;B[ib];W[gc];B[jc]C[];W[cb]C[RIGHT])
+(;B[bb];W[gc];B[ac])))
+(;B[cb];W[bb];B[gb];W[ib];B[hb]))
+(;B[gb]
+(;W[ib]C[CHOICE]
+(;B[cc];W[bc]
+(;B[bb];W[cb];B[ac];W[hb];B[cc];W[gc]C[RIGHT])
+(;B[cb];W[bb];B[hb]
+(;W[ia];B[fa];W[ha];B[jc];W[jb];B[kc];W[ca];B[kb];W[ea];B[ka];W[gc];B[ja];W[ga])
+(;W[ha];B[fa];W[ia];B[jc];W[jb];B[kc];W[ca];B[kb];W[ea];B[ka];W[gc];B[ja];W[ga])))
+(;B[bc];W[bb];B[cc];W[cb]C[You can do a little bit better.])
+(;B[bb];W[cb]
+(;B[bc];W[hb];B[cc];W[gc]C[RIGHT])
+(;B[cc];W[bc];B[ac];W[hb];B[cc];W[gc]C[RIGHT])))
+(;W[hb]C[CHOICE]
+(;B[ib];W[gc];B[jc]C[RIGHT])
+(;B[cc];W[cb]
+(;B[ib];W[gc];B[jc];W[bc]C[RIGHT])
+(;B[bc];W[gc])
+(;B[bb];W[gc];B[bc]))))
+(;B[cb];W[bb];B[ab];W[bc]
+(;B[ac];W[gb])
+(;B[gb];W[ib];B[ac];W[ca]))
+(;B[bc];W[gb];B[cc]C[End in Gote.])
+(;B[bb];W[gb];B[cc];W[cb];B[bc]C[End in Gote.]))

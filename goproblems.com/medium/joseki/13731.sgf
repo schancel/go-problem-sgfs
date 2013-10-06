@@ -1,0 +1,29 @@
+(;GE[joseki]DI[3k]DP[24]SO[DarkSycthe]CO[0]AB[qd]AW[od]AW[pg]AB[ld]AB[oe]AB[of]AB[qf]AW[ne]AW[nf]AW[pd]LB[qd:1]LB[od:2]LB[ld:3]LB[pg:4]LB[oe:5]LB[ne:6]LB[of:7]LB[pd:8]LB[qf:9]LB[nf:10]C[Up to 9 the joseki is standard. But then white plays 10, which is a mistake and should be at A. How should black respond? Current variations include A and B. If stronger players could help I could add more variations.FORCE]LB[qc:A]LB[og:B]AP[goproblems]
+(;B[og];W[qc]
+(;B[rd]C[Good! Now white has no good follow-up. If White A, then B is left for black to invade and white still has no base. If white C, then the exchange for D and E has been made which hurts the marked white stone. Compared to the joseki where white C is played first in response to the descent at S16, the marked stone has much more aji. RIGHT]LB[pb:A]LB[rb:B]LB[nc:C]LB[nf:D]LB[og:E]MA[pg])
+(;B[qe];W[pb]LB[pj:A]C[Please play A];B[pj]C[This leads back to the normal joseki. Black could to better.]))
+(;B[qc];W[og]LB[qe:A]C[Please play A if you wish to save the marked stones.]MA[oe]MA[of]
+(;B[qe];W[mg]LB[nd:A]C[Please cut at A.];B[nd];W[md];B[nc];W[mc];B[oc]C[White has good outside influence. Note also that the original pincer stone (marked) is blighted.]MA[ld])
+(;B[nd];W[pf]C[Good for white.])
+(;B[ob];W[pf]C[Good for white.]))
+(;B[nd]C[NOTTHIS]
+(;W[md];B[nc];W[mc]
+(;B[ob];W[mb];B[pc];W[og]
+(;B[qe]C[White has good influence and the pincer stone (marked) is blighted. However, white has cut points.]MA[ld])
+(;B[pe]C[White has good influence and the pincer stone (marked) is blighted.  However, white has cut points.]MA[ld]))
+(;B[pc]
+(;W[oc];B[nb];W[ob];B[mb]
+(;W[lc];B[pb];W[og];B[pe];W[mg])
+(;W[lb];B[lc];W[me];B[kb]
+(;W[qc];B[rc];W[pb];B[qe];W[rb];B[ng])
+(;W[og];B[pe])))
+(;W[og];B[pe];W[nb];B[oc];W[mg])))
+(;W[og];B[pe];W[md];B[nc];W[mc];B[oc]
+(;W[nb]
+(;B[pc])
+(;B[ob];W[mg]))
+(;W[mg])))
+(;B[qe]C[NOTTHIS];W[md]
+(;B[og];W[lc])
+(;B[qc];W[og]))
+(;B[pe]C[NOTTHIS]))

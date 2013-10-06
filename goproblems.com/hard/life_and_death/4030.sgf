@@ -1,0 +1,39 @@
+(;GE[life and death]DI[4d]DP[8]SO[bakablitz]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+PW[White]PB[Black]AW[ba][ga][bb][cb][eb][fb][bc][fc][bd][dd][ae][ce][ee][fe][cf][cg][dg][fg]AB[ca][da][ea][ab][db][cc][dc][ec][gc][ad][cd][be][de][ge][bf][df][ef][ff][ag]C[white to wipe out any trace of black.  ^_^]PL[W]
+(;W[fd]CR[fd]
+;B[ed]CR[ed]
+(;W[gf]CR[gf]
+;B[gg]CR[gg]
+;W[fa]CR[fa]
+;B[dd]CR[dd]
+;W[gf]CR[gf]C[RIGHT black got jacked!  No ko threats left f00!])
+(;W[gd]CR[gd]
+;B[gf]CR[gf]C[black: G2
+white: you sunk my battleship!]))
+(;W[fa]CR[fa]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[dd]CR[dd]
+(;W[gf]CR[gf]
+;B[gg]CR[gg]C[no ko threats, booya!])
+(;W[eg]CR[eg]
+;B[gf]CR[gf]C[top right no longer seki, white dies a horribly painful death!]))
+(;W[eg]CR[eg]
+;B[ed]CR[ed]
+(;W[fd]CR[fd]
+;B[gd]CR[gd]
+;W[gf]CR[gf]
+;B[gg]CR[gg]C[no ko threats, nya!])
+(;W[gf]CR[gf]
+;B[fd]CR[fd]C[white go bye-bye =P]))
+(;W[gf]CR[gf]
+;B[gg]CR[gg]
+(;W[fa]CR[fa]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[dd]CR[dd]
+;W[gf]CR[gf]C[RIGHT At times like these I am reminded of the immortal words of Socrates who said: ...I drank what?
+])
+(;W[fd]CR[fd]
+;B[eg]CR[eg]C[haha, you fail!])))

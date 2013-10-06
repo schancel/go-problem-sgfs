@@ -1,0 +1,21 @@
+(;GE[tesuji]DI[10k]DP[50]SO[kochi]CO[8]AB[ab]AB[bb]AB[cb]AB[db]AB[ec]AB[fc]AB[dd]AB[de]AB[df]AB[cf]AB[bf]AB[af]AW[ce]AW[cc]AW[cd]AW[bc]AW[dc]AW[ee]AW[ed]AW[ef]AW[dg]AW[cg]AW[ag]AW[bg]AP[goproblems]
+(;B[ae];W[ad]
+(;B[ac];W[be])
+(;B[be];W[bd])
+(;B[bd];W[be]))
+(;B[be];W[bd]
+(;B[ad];W[ae])
+(;B[ac];W[ae])
+(;B[ae];W[ad]))
+(;B[bd];W[be]
+(;B[ad];W[ae])
+(;B[ae];W[ad])
+(;B[ac];W[ae]))
+(;B[ac];W[be]
+(;B[ad];W[ae])
+(;B[ae];W[ad])
+(;B[bd];W[ad]))
+(;B[ad];W[ac]
+(;B[be]C[RIGHT])
+(;B[bd]C[you kill but you give W a 30 point ko threat.])
+(;B[ae]C[you made a seki, no good.])))

@@ -1,0 +1,43 @@
+(;GE[tesuji]DI[2d]DP[13]SO[Field Mouse]CO[0]AW[ig]AW[jg]AW[hf]AW[gf]AB[hg]AB[gg]AB[fg]AW[gh]AW[eh]AW[dh]AW[di]AW[ei]AW[gi]AW[hi]AB[jh]AB[kg]AW[kh]AW[ki]AB[ij]AB[if]AW[ef]AB[lh]AB[mh]AW[kj]AB[hj]AB[gj]AB[ng]AB[nh]AW[li]AW[mi]AW[ni]AB[ii]AB[ne]AB[nd]AB[nc]AB[nb]AB[ec]AB[dd]AB[fj]AB[ej]AB[dj]AW[bh]AB[be]AB[bf]AW[bi]AW[ch]AW[cj]AW[bj]AB[ck]AB[bk]AB[aj]AB[dk]AB[cd]AW[bc]AW[ba]AW[cb]AB[ab]AB[db]AB[bd]AB[hh]AW[ih]AB[ji]AB[fb]AB[ea]C[White to play and save everything except the upper left corner :o) Consider the L11 stones alive.]AP[goproblems]
+(;W[jf];B[ie]
+(;W[he]
+(;B[kf];W[je];B[id]
+(;W[jd];B[jc]
+(;W[kd];B[ld]
+(;W[kc];B[kb]
+(;W[jb];B[ic];W[lb]C[Nice!RIGHT])
+(;W[ic];B[hd]
+(;W[gd];B[hc]
+(;W[jb];B[ff]C[Ouch.])
+(;W[ff];B[lc];W[jb];B[ke]))
+(;W[hc];B[ff];W[gd];B[fe]C[White could do better..]TR[dh]TR[ch]TR[bh]TR[bi]TR[bj]TR[cj]TR[di]TR[eh]TR[ei]TR[gi]TR[hi]TR[gh]TR[ef])
+(;W[ff]C[Nice!RIGHT])
+(;W[ge];B[lc];W[jb];B[ke];W[jc]C[Uh, you got it.RIGHT]))
+(;W[hd];B[ic])
+(;W[lc];B[lb]
+(;W[ic];B[hd];W[ff]C[You did it!RIGHT])
+(;W[jb];B[ic])
+(;W[hd];B[ic])))
+(;W[ic];B[hd];W[kc];B[ff]))
+(;W[ic];B[hd]
+(;W[kc];B[ff]C[Black escapes easily.])
+(;W[gd];B[hc];W[kc];B[ib];W[kd];B[ff])))
+(;W[ke];B[le]
+(;W[kd];B[kc]
+(;W[ld];B[lc];W[lf];B[lg];W[me];B[md])
+(;W[lf];B[lg];W[ld];B[lc]))
+(;W[jc];B[jd];W[kd];B[kc];W[ld];B[lc])
+(;W[lf];B[lg]
+(;W[ld];B[kd];W[me];B[jd];W[le];B[lc])
+(;W[jc];B[jd];W[kd];B[kc];W[ld];B[lc];W[me];B[md])))
+(;W[kd];B[jd];W[ke];B[kc]
+(;W[lf];B[lg];W[lc];B[ld];W[le];B[mf];W[md];B[me];W[ld];B[lb])
+(;W[le];B[lf];W[mf];B[lg];W[me]C[NiceRIGHT])
+(;W[ld];B[lc])))
+(;B[je];W[kf];B[lg];W[ke];B[kd];W[jd];B[id];W[ld];B[jc];W[le]C[White wins.RIGHT]))
+(;W[je];B[ff]C[This hurts.])
+(;W[ff];B[kf];W[je];B[jd];W[ke];B[le];W[kd];B[kc])
+(;W[id];B[ff]C[This is not good.])
+(;W[kf];B[ff]))
+(;W[ff];B[jf])
+(;W[ie];B[jf]C[White is dead.]))

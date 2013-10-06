@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[6k]DP[38]SO[morten]CO[7]AW[kj][lj][mi][mh][lg][lf][le][ld][kc][jd][kk][jl]AB[lh][li][mj][mk][kg][kf][ke][kd][jj][ie][ij][nl][hf][gj][ff][fh][fi][hc][hi]C[White to profit in the optimal way.]
+
+(;W[kh];B[jh]C[The right direction for the cut.]
+(;W[ji];B[ii]C[Setting up the snap back keeps sente.];W[ki]LB[jg:a]C[RIGHT
+Black must protect against the cut at 'a' - white keeps sente.])
+(;W[ki]C[Black has sente - white can do better.]))
+(;W[ki];B[kh];W[ji];B[jh];W[ii];B[ih]C[This gets nowhere.])
+(;W[jh];B[kh]C[Looks like a tesuji but doesn't get anywhere.]))

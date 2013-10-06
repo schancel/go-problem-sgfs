@@ -1,0 +1,46 @@
+(;GE[tesuji]DI[4d]DP[8]SO[bass]CO[7]SZ[19]AW[db]AW[kb]AW[cc]AW[ec]AW[fc]AW[hc]AW[kc]AW[dd]AW[kd]AW[ld]AW[ce]AW[ke]AW[cf]AW[ef]AW[bg]AW[cg]AW[kg]AW[ch]AW[eh]AW[fh]AW[ih]AW[ei]AW[ji]AW[dj]AW[ej]AW[bk]AW[ck]AW[fk]AW[hk]AW[jk]AW[cl]AW[fl]AW[hl]AW[bm]AW[fm]AW[hm]AW[bn]AW[hn]AW[bo]AW[ho]AW[dp]AW[ep]AW[fp]AW[gp]AB[ba]AB[cb]AB[lb]AB[bc]AB[lc]AB[mc]AB[bd]AB[cd]AB[jd]AB[md]AB[be]AB[bf]AB[dg]AB[dh]AB[gh]AB[ci]AB[di]AB[fi]AB[cj]AB[fj]AB[gj]AB[dk]AB[ek]AB[gk]AB[dl]AB[cm]AB[em]AB[cn]AB[co]AB[eo]AB[cp]AB[hp]AB[ip]AB[dq]AB[eq]AB[fq]AB[gq]AB[hq]AW[bp]AB[cq]AW[al]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[df]
+(;W[ee]
+(;B[eg];W[fg]
+(;B[ff];W[gg]
+(;B[fe]
+(;W[hg];B[de]C[Well done!RIGHT])
+(;W[fd];B[de];W[bi];B[ed];W[ee];B[hg]C[RIGHT]))
+(;B[hg];W[gf];B[fe];W[ge];B[de]C[Well done!RIGHT])
+(;B[ag];W[bi])
+(;B[bh];W[bi])
+(;B[de];W[bi]))
+(;B[de];W[bi])
+(;B[ag];W[bi])
+(;B[bh];W[bi]))
+(;B[de];W[bi]C[black is one liberty short.])
+(;B[ag];W[bi])
+(;B[bh];W[bi]))
+(;W[eg];B[de];W[bi];B[ee];W[ff];B[fe];W[gf];B[ge];W[hf];B[ag];W[bh];B[bj]C[RIGHT])
+(;W[de];B[ff]C[RIGHT])
+(;W[bi];B[ff]C[RIGHT])
+(;W[ff];B[de];W[bi];B[ag];W[bh];B[bj]C[RIGHT]))
+(;B[eg];W[fg]
+(;B[df];W[de];B[ff];W[gg])
+(;B[ff];W[gg]
+(;B[df];W[de])
+(;B[gf];W[hg]
+(;B[df];W[de])
+(;B[de];W[df]))
+(;B[de];W[df])
+(;B[fe];W[hg]
+(;B[df];W[de])
+(;B[de];W[df]))
+(;B[hg];W[gf]
+(;B[fe];W[hf]
+(;B[df];W[de])
+(;B[de];W[df]))
+(;B[ge];W[fe]))))
+(;B[ff];W[eg];B[df];W[ee]C[Black is one liberty short.])
+(;B[ag]C[NOTTHIS])
+(;B[ah]C[NOTTHIS])
+(;B[bh]C[NOTTHIS])
+(;B[ai]C[NOTTHIS])
+(;B[bi]C[NOTTHIS])
+(;B[aj]C[NOTTHIS])
+(;B[bj]C[NOTTHIS]))

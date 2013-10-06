@@ -1,0 +1,15 @@
+(;GE[life and death]DI[3d]DP[10]SO[py687]CO[0]AB[ar]AB[ap]AB[an]AB[bn]AB[aj]AB[bq]AB[cq]AB[cp]AB[dp]AB[fp]AB[fo]AB[fq]AB[gn]AB[gm]AB[gl]AB[fl]AB[el]AB[dl]AB[dk]AB[ck]AB[cj]AB[bi]AW[br]AW[bp]AW[bo]AW[eo]AW[fn]AW[fm]AW[em]AW[dm]AW[cm]AW[cl]AW[bl]AW[am]AW[ak]AW[bk]AW[bj]AW[go]AW[ho]AW[jp]AW[ci]AB[bh]AB[bg]AB[eg]AW[ch]AP[goproblems]
+(;W[cn];B[do]C[Missed the vital point.])
+(;W[co];B[do]C[Missed the vital point.])
+(;W[do]
+(;B[co]C[CHOICE]
+(;W[dn];B[bm])
+(;W[cn];B[ao];W[bm]C[RIGHT])
+(;W[bm]C[RIGHT]))
+(;B[ao]C[CHOICE]
+(;W[co];B[bm])
+(;W[cn];B[co];W[bm]C[RIGHT])
+(;W[bm]C[RIGHT]))
+(;B[cn]C[Black's mistake.CHOICE]
+(;W[dn];B[co];W[bm]C[White's worst correct path.RIGHT])
+(;W[co];B[ao];W[dn];B[aq];W[bm]C[RIGHT]))))

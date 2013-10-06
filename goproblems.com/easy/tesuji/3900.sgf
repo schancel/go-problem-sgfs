@@ -1,0 +1,62 @@
+(;GE[tesuji]DI[8k]DP[46]SO[Barthoze]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[pb][qb][qc][qd][pe][re][rf]AB[ob][nc][pc][pd][qe][qf][qg]TR[pe]C[White played the marked stone. Engage !]PL[B]
+(;B[oe]CR[oe]
+;W[pf]CR[pf]
+(;B[og]CR[og]
+;W[od]CR[od]C[It looks like a net, but is it a genuine one ? White insists anyway. Prove him he's wrong !]
+;B[oc]CR[oc]
+(;W[of]CR[of]C[CHOICE]
+(;B[nf]CR[nf]
+;W[ne]CR[ne]
+(;B[pg]CR[pg]
+;W[oe]CR[oe]
+;B[me]CR[me]C[CHOICE RIGHT
+Stones are caught - use navigate for variations.])
+(;B[me]CR[me]
+;W[ng]SQ[qe][qf][qg]CR[ng]C[CHOICE WRONG
+White escapes and the marked stones are in trouble now.])
+(;B[nd]CR[nd]
+;W[ng]SQ[qe][qf][qg]CR[ng]C[CHOICE WRONG
+White escapes and the marked stones are in trouble now.]))
+(;B[pg]CR[pg]
+;W[nf]CR[nf]C[CHOICE WRONG
+White escapes, and Black's influence is no more])
+(;B[nd]CR[nd]
+;W[nf]CR[nf]C[WRONG
+White escapes, and Black's influence is no more]))
+(;W[nd]CR[nd]
+;B[md]CR[md]
+;W[ne]CR[ne]
+(;B[me]CR[me]
+;W[of]CR[of]
+;B[nf]CR[nf]C[RIGHT
+White is caught here too
+])
+(;B[nf]CR[nf]
+;W[me]CR[me]
+;B[le]CR[le]
+;W[mf]CR[mf]
+;B[mg]CR[mg]
+;W[lf]CR[lf]C[WRONG
+White is caught in a ladder, but it works for him.
+])))
+(;B[of]CR[of]
+;W[pg]CR[pg]
+;B[ph]CR[ph]
+;W[og]CR[og]C[CHOICE WRONG
+White is caught in a ladder, but it works for him.])
+(;B[pg]CR[pg]
+;W[of]CR[of]
+;B[nf]CR[nf]
+;W[og]CR[og]C[CHOICE WRONG
+White is caught in a ladder, but it works for him.]))
+(;B[of]CR[of]
+;W[oe]CR[oe]
+;B[ne]CR[ne]
+;W[nd]CR[nd]
+;B[md]CR[md]
+;W[od]CR[od]
+;B[oc]CR[oc]C[CHOICE RIGHT
+Stones are caught -thanks to Andre Engels for this one
+- use navigate for variations.]))

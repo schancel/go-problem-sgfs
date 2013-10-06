@@ -1,0 +1,13 @@
+(;GE[elementary]DI[20k]DP[73]SO[maba]CO[7]AB[bj]AB[bi]AW[bh]AW[ci]AW[di]AB[eg]AB[ef]AB[df]AB[cf]AB[ck]AB[dj]AB[ek]AB[fl]AB[gl]AB[hl]AB[ik]AB[ij]AB[hj]AB[jj]AW[il]AW[im]AW[km]AW[jk]AW[kk]AW[kj]AW[lj]AW[ji]AW[ii]AW[ih]AW[hh]AW[gh]AW[fh]AW[fg]AB[ff]AB[gg]AB[hg]AB[ig]AB[if]AB[jf]AW[jg]AW[kg]AW[kh]AB[ki]AB[li]AB[mi]AB[mj]AW[mk]AW[mm]AW[ml]AB[nk]AB[ok]AB[ol]AW[nl]AW[bf]AW[lh]AW[mh]AB[oi]AB[ni]AW[nh]TR[di]TR[fh]C[Black to prevent the connection between the marked white stones.]AP[goproblems]
+(;B[ei];W[eh];B[dh]C[RIGHT])
+(;B[eh];W[ei]
+(;B[fi];W[fj]
+(;B[gi];W[gj]
+(;B[hi];W[hk])
+(;B[hk];W[hi]))
+(;B[gj];W[gi]))
+(;B[fj];W[fi])
+(;B[gj];W[fi])
+(;B[gi];W[fi]))
+(;B[dh];W[ei])
+(;B[fi];W[eh]))

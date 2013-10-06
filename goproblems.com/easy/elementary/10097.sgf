@@ -1,0 +1,58 @@
+(;GE[elementary]DI[10k]DP[52]SO[LCZLAPINSKI]CO[3]AB[ca]AB[da]AB[cb]AB[cc]AB[dd]AB[ed]AB[de]AB[ef]AB[ff]AB[gf]AB[ge]AB[eg]AB[dg]AB[cg]AB[bg]AB[dh]AB[bh]AB[ah]AB[ai]AW[aj]AW[bi]AW[ci]AW[ch]AW[di]AW[bk]AW[eh]AW[fh]AW[fg]AW[gg]AW[hg]AW[hf]AW[he]AW[hd]AW[gd]AW[fd]AW[fc]AW[ec]AW[dc]AW[db]AW[ea]AW[hc]AW[hb]AW[ha]AW[fe]AW[ee]AW[ce]AW[al]AW[cl]AW[bm]AW[cm]AP[goproblems]
+(;B[be]C[BB15 is 2nd best.];W[cd];B[bd]C[];W[df]C[];B[cf]C[This the 2nd best result. Black saves 11 points of territory. White also gained 5 points. Black lost a total of 11 points.];W[de]C[])
+(;B[ag];W[cd];B[bd];W[be];B[bc];W[ab]C[WA18 creates a bulky five. Black is left with only one eye.]MA[ac]MA[ab]MA[aa]MA[ba]MA[bb])
+(;B[af];W[cd]
+(;B[bd];W[df];B[be];W[cf];B[bf]C[];W[bc];B[bb]C[])
+(;B[be];W[bd];B[bc];W[ad];B[cf]C[Good. You saved some of your stones. There is a better first move.];W[df];B[ae]C[This is bad because it loses the corner as well as the D15 stones.]MA[bc]MA[cc]MA[cb]MA[ca]MA[da]))
+(;B[ae];W[cd];B[bb];W[ad];B[bd];W[be]
+(;B[df];W[bc])
+(;B[ac];W[df]
+(;B[ag]C[])
+(;B[af]C[])
+(;B[bf]C[You live but this is a costly mistake.];W[af];B[ag];W[cf]
+(;B[ad];W[af])
+(;B[af];W[ad];B[ae];W[af];B[ad]))
+(;B[cf];W[af];B[ad])))
+(;B[ad];W[cd];B[be];W[cf];B[bf];W[df]
+(;B[bd]C[])
+(;B[bc]C[])
+(;B[ac];W[bc]
+(;B[bb]C[];W[bd]C[])
+(;B[ab];W[bb])
+(;B[aa];W[bb];B[ab];W[bd]C[All black stones are dead because they only have one eye.])
+(;B[ba];W[bd]C[All black stones can be killed.]
+(;B[ab];W[bb]C[All black stones are dead.])
+(;B[bb];W[ab]))
+(;B[bd];W[bb];B[af])))
+(;B[ac];W[cd];B[be];W[bd];B[cf];W[ad];B[ae];W[df];B[af];W[de]MA[ac]MA[cc]MA[cb]MA[ca]MA[da]C[Corner is lost.]MA[bc]MA[bb]MA[ab]MA[aa]MA[ba])
+(;B[ab];W[cd];B[be];W[bd];B[cf];W[ad];B[bc];W[ba];B[ae];W[df];B[af];W[de])
+(;B[aa];W[cd];B[bd];W[be];B[ac];W[df])
+(;B[bf];W[cd];B[bd]
+(;W[be])
+(;W[df]
+(;B[be]C[])
+(;B[ae];W[be];B[bb];W[af];B[ag];W[cf]
+(;B[ad];W[af])
+(;B[af];W[ad]))))
+(;B[bd];W[cd];B[be]C[])
+(;B[bc];W[cd];B[be];W[cf]
+(;B[df];W[bf];B[af];W[ag])
+(;B[bd];W[bf];B[af];W[df]
+(;B[ag];W[ae])
+(;B[ae];W[ag]))
+(;B[bf]C[];W[df]
+(;B[bd]C[])
+(;B[ad]C[];W[bd]C[])))
+(;B[bb];W[cd];B[ae]
+(;W[cf]
+(;B[df];W[bf];B[af];W[ag])
+(;B[bf];W[bd];B[ad]C[];W[df]C[]))
+(;W[af]C[CHOICE]))
+(;B[ba];W[cd];B[bd];W[bf];B[be];W[df];B[af]C[])
+(;B[cf];W[cd]
+(;B[df];W[bf]C[Atari])
+(;B[bd];W[be];B[ae];W[df];B[bb];W[af];B[ad];W[bf]MA[ai]MA[ah]MA[bh]MA[bg]MA[cg]MA[cf]MA[dg]MA[dh]MA[eg]MA[ef]MA[ff]MA[gf]MA[ge]C[The marked stones are dead.]))
+(;B[cd]C[This is best since it is the only line that saves all the stones. Black has 17 points.RIGHT])
+(;B[df];W[cd];B[bd];W[be];B[bc];W[bf];B[af];W[ae];B[ab];W[ad];B[ba];W[ag]C[Ko for marked stones.]MA[ai]MA[ah]MA[bh]MA[bg]MA[cg]MA[dg]MA[dh]MA[eg]MA[df]MA[de]MA[dd]MA[ed]MA[ef]MA[ff]MA[gf]MA[ge])
+(;B[eb];W[cd];B[be];W[bd];B[df];W[bf];B[af];W[ae]C[All the black stones can be killed if necessary.])
+(;B[fa];W[cd]))

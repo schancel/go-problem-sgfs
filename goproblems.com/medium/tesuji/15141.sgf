@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[1d]DP[16]SO[mysandbox]CO[0]AB[bq]AB[cq]AB[do]AB[cp]AB[dn]AB[em]AB[gp]AB[jp]AB[cm]AB[bm]AW[cn]AW[bn]AW[bo]AW[bp]AW[dm]AW[dl]AW[ck]AB[cj]AB[ci]C[rescue black two stones]AP[goproblems]
+(;B[bk];W[bl];B[al];W[cl];B[am];W[an];B[ak];W[bj])
+(;B[ak];W[bk]
+(;B[bj];W[al])
+(;B[al];W[bj];B[bi];W[aj]))
+(;B[al];W[bk]
+(;B[ak];W[bj])
+(;B[bj];W[ak];B[dk]
+(;W[cl]
+(;B[el];W[an];B[aj]C[RIGHT])
+(;B[aj];W[el]
+(;B[ek];W[fl];B[fm];W[bl])
+(;B[fl];W[ek];B[dj];W[bl])))
+(;W[bl];B[el]C[RIGHT])))
+(;B[bl];W[bk])
+(;B[cl];W[bl])
+(;B[dk];W[bl];B[el];W[cl]
+(;B[ap];W[am];B[ao];W[bj])
+(;B[bk];W[am])))

@@ -1,0 +1,76 @@
+(
+;GE[tesuji]DI[3d]DP[10]SO[gecko]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AB[dd][cd][ee][fe][hc]
+AW[de][df][ed][ec]
+GN[temp]
+(
+;
+W[db]
+(
+;
+B[bf]
+;
+W[gd]
+C[RIGHT White has managed to break through the gap, exposing the suspect position of the marked stone.]
+TR[hc]
+)
+(
+;
+B[fd]
+;
+W[ce]
+;
+B[bd]
+;
+W[bb]
+C[RIGHT Closing the gap was not one of blacks best ideas.]
+)
+)
+(
+;
+W[cb]
+;
+B[bf]
+;
+W[cg]
+;
+B[bb]
+;
+W[db]
+;
+B[bg]
+;
+W[ci]
+;
+B[bc]
+;
+W[gd]
+;
+B[eg]
+TR[eg]
+C[White moves out, but the marked stone is right on the money.]
+)
+(
+;
+W[eb]
+;
+B[cb]
+;
+W[gd]
+;
+B[bf]
+TR[cb]
+C[White moves out, but its a pity that black got to play the marked stone, completely securing the corner.]
+)
+(
+;
+W[gd]
+;
+B[fd]
+C[If white jumps into the gap immediately, he is instantly cut apart.]
+)
+)

@@ -1,0 +1,31 @@
+(;GE[elementary]DI[4k]DP[31]SO[santa c]CO[0]AW[ar]AW[br]AW[cr]AW[dr]AB[ap]AB[bp]AB[cp]AB[dp]AB[ep]AB[fp]AB[gq]AB[gr]AB[gs]C[Save yourself]AP[goproblems]
+(;W[fr]
+(;B[bs]
+(;W[fs];B[er]
+(;W[eq];B[fq]
+(;W[es];B[dq]
+(;W[cs];B[er]C[well done, ko is the way to go!RIGHT])
+(;W[er];B[cs]))
+(;W[dq];B[es])
+(;W[cs];B[es]))
+(;W[fq];B[eq])
+(;W[dq];B[eq])
+(;W[es];B[eq])
+(;W[cs];B[eq]))
+(;W[eq];B[fs]LB[es:1]LB[cs:2]MA[dq]MA[fq])
+(;W[er];B[fs]MA[cs]MA[es])
+(;W[es];B[cs])
+(;W[cs];B[es]MA[er]MA[fs])
+(;W[dq];B[es]MA[er]MA[fs])
+(;W[fq];B[es]MA[er]MA[fs]))
+(;B[fs];W[es]C[RIGHT])
+(;B[es];W[ds]MA[bs]MA[fs]C[RIGHT])
+(;B[er];W[eq]LB[es:1]LB[ds:2]MA[bs]MA[fs]C[RIGHT]))
+(;W[er];B[es]MA[bs]MA[ds])
+(;W[es];B[er]MA[bs]MA[ds])
+(;W[ds];B[bs])
+(;W[bs];B[ds]MA[er]MA[es])
+(;W[eq];B[es]MA[bs]MA[ds])
+(;W[fs];B[er]MA[bs]MA[ds])
+(;W[fq];B[es]MA[bs]MA[ds])
+(;W[dq];B[es]MA[bs]MA[ds]))

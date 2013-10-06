@@ -1,0 +1,12 @@
+(;GE[endgame]DI[3k]DP[26]SO[1234boys]CO[0]SZ[4]AB[da]AB[db]AB[ab]AB[aa]AB[bd]AB[cd]AW[ad]AW[ac]AW[bc]AW[dc]AW[dd]AP[goproblems]
+(;B[cb];W[bb]
+(;B[cc];W[ba]C[Wrong! This is a seki!])
+(;B[ba];W[cc]))
+(;B[cc];W[bb]
+(;B[cb];W[ba]C[Wrong! This is a seki!])
+(;B[ba];W[ca]
+(;B[cb];W[ba]
+(;B[ab]C[Well done!RIGHT])
+(;B[aa]C[Well done!RIGHT]))
+(;B[ba]C[];W[aa];B[cb];W[dc];B[ba]C[];W[bc];B[ab]C[Well done!RIGHT])))
+(;B[bb];W[cc];B[cb];W[ba]LB[aa:D]LB[ab:D]LB[da:D]LB[db:D]LB[cb:D]LB[bb:D]C[Black is dead! (marked D]))

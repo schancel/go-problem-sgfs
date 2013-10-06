@@ -1,0 +1,46 @@
+(;GE[best move]DI[4k]DP[28]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+AW[ba][da][bb][dc][dd]AB[aa][ab][cc][ad][cd]C[No komi, no prisoners - Black to play! What's the best he can do?]
+(;B[cb]CR[cb]
+;W[bc]CR[bc]
+(;B[bd]CR[bd]
+(;W[ca]CR[ca]
+;B[db]CR[db]
+;W[ac]CR[ac]
+(;B[ab]CR[ab]C[Black wins :) RIGHT])
+(;B[aa]CR[aa]C[Black wins :) RIGHT]))
+(;W[ac]CR[ac]
+;B[db]CR[db]C[Black wins :)]))
+(;B[ca]CR[ca]
+;W[ac]CR[ac]
+;B[db]CR[db]
+;W[bd]CR[bd]C[A jigo is not good enough :(])
+(;B[db]CR[db]
+;W[bd]CR[bd]
+;B[ca]CR[ca]
+;W[ac]CR[ac]C[A jigo is not good enough :(]))
+(;B[bc]CR[bc]
+;W[cb]CR[cb]
+;B[db]CR[db]
+;W[ac]CR[ac]
+(;B[dc]CR[dc]
+;W[ab]CR[ab]C[Seki and jigo, Black can do better :(])
+(;B[ab]CR[ab]
+;W[dc]CR[dc]C[Seki and jigo, Black can do better :(])
+(;B[ca]CR[ca]
+;W[dc]CR[dc]
+(;B[ab]CR[ab]
+;W[da]CR[da]C[Seki and jigo - Black can do better :(])
+(;B[dd]CR[dd]
+;W[bd]CR[bd]C[White wins!! :(])))
+(;B[db]CR[db]
+;W[bc]CR[bc]
+(;B[cb]CR[cb]
+;W[bd]CR[bd]
+;B[ca]CR[ca]C[Jigo and seki - Black can do better :(])
+(;B[bd]CR[bd]
+;W[cb]CR[cb]C[White wins!]))
+(;B[ac]CR[ac]
+;W[bc]CR[bc]
+;B[cb]CR[cb]
+;W[ca]CR[ca]C[White wins!]))

@@ -1,0 +1,34 @@
+(;GE[life and death]DI[3k]DP[26]SO[gfoot]CO[0]AB[oa]AB[ob]AB[pb]AB[pc]AB[sc]AB[qd]AB[rd]AB[rc]AW[qa]AW[rb]AB[sb]AW[se]AW[sd]AB[pd]AW[re]AW[qe]AW[pe]AW[oe]AW[ne]AW[nd]AW[nc]AW[nb]AW[na]AW[qb]C[White to play.  Black has one strong ko threat.  White has no ko threats.]AP[goproblems]
+(;W[ra]C[Seki.  White can do better.])
+(;W[sa];B[ra]C[White has no ko threats.FORCE]
+(;W[pa];B[qc]C[Black lives.])
+(;W[qc];B[pa]C[Black lives.])
+(;W[oc]C[NOTTHIS])
+(;W[od];B[qc]C[FORCE]
+(;W[sa];B[la]C[Answer the ko threat at A.FORCE]LB[le:A];W[le];B[ra]C[White has no ko threats.FORCE];W[oc];B[pa]C[Black lives.CHOICE])
+(;W[oc];B[pa]C[Black lives.])))
+(;W[oc]C[NOTTHIS])
+(;W[od]
+(;B[ra]
+(;W[sa];B[la]LB[le:A]C[Answer the ko threat at A.FORCE];W[le];B[ra]C[White has no ko threats.]
+(;W[oc]
+(;B[qc];W[sa];B[lb]C[Black's second ko threat is small.FORCE]
+(;W[pa]C[White wins.CHOICERIGHT])
+(;W[ra]C[Inefficient, leaving Black some free ko threats.]))
+(;B[sa]
+(;W[qc];B[pa];W[qb]C[Black is dead.RIGHT])
+(;W[pa];B[qc]C[Black is alive.])))
+(;W[qc];B[pa]C[Black lives.])
+(;W[pa];B[qc]C[Black lives.]))
+(;W[qc];B[pa]C[Black lives.])
+(;W[pa];B[qc]C[Black lives.])
+(;W[oc];B[qc];W[sa];B[la]LB[le:A]C[Answer the ko threat at A.FORCE];W[le];B[ra]C[White has no ko threats - Black lives.]))
+(;B[qc];W[ra]C[Black is dead.]))
+(;W[qc];B[ra]
+(;W[sa];B[pa]C[Black lives without fighting the ko.])
+(;W[oc]C[NOTTHIS])
+(;W[od]))
+(;W[pa];B[ra]
+(;W[sa];B[qc]C[Black lives without fighting the ko.])
+(;W[oc]C[NOTTHIS])
+(;W[od])))

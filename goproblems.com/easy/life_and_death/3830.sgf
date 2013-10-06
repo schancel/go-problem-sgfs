@@ -1,0 +1,85 @@
+(;GE[life and death]DI[5k]DP[33]SO[Karen B]CO[7]
+   AB[ab][ad][bd][cc][dc][ea][eb]
+   AW[aa][ba][ca][be][cd][cf][dd][ec][fc][gb]
+   C[White to kill.]
+
+   (;W[bc];B[bb]
+     (;W[cb]
+       (;B[ac]C[CHOICE]
+         (;W[ae]C[RIGHT White wins!])
+         (;W[fb];B[db]C[Black lives.])
+         (;W[fa];B[db]C[Black lives.]))
+       (;B[db]C[CHOICE]
+         (;W[ae];B[da]C[Black lives.])
+         (;W[fa];B[ac]C[Black lives.])
+         (;W[fb];B[ac]C[Black lives.])
+         (;W[ac]C[RIGHT White wins!]))))
+
+   (;W[ac];B[bb]
+     (;W[ae];B[bc]C[Black lives.])
+     (;W[cb];B[bc]C[Black lives.])
+     (;W[db];B[da]C[Black lives.])
+     (;W[da];B[db]C[Black lives.])
+     (;W[fb];B[db]C[Black lives.])
+     (;W[fa];B[db]C[Black lives.]))
+
+   (;W[bb];B[bc]
+     (;W[ac];B[cb]
+       (;W[da];B[db]C[Black lives.])
+       (;W[db];B[da]C[Black lives.])
+       (;W[ab];B[da]C[Black lives.])
+       (;W[fa];B[da]C[Black lives.])
+       (;W[fb];B[da]C[Black lives.])
+       (;W[ae];B[db]
+         (;W[ab];B[da]
+           (;W[ab];B[ba]C[Black lives.])
+           (;W[ba];B[ab]C[Black lives.]))
+         (;W[fb];B[ab]C[Ko, but White can do better.])
+         (;W[fa];B[ab]C[Ko, but White can do better.])))
+      (;W[fb];B[cb]
+        (;W[ac];B[da]C[Black lives.])
+        (;W[da];B[db]C[Black lives.])
+        (;W[db];B[da]C[Black lives.])
+        (;W[fa];B[da]C[Black lives.])
+        (;W[ae];B[da]C[Black lives.]))
+      (;W[fa];B[cb]
+        (;W[ac];B[da]C[Black lives.])
+        (;W[da];B[db]C[Black lives.])
+        (;W[db];B[da]C[Black lives.])
+        (;W[fb];B[da]C[Black lives.])
+        (;W[ae];B[da]C[Black lives.])))
+
+  (;W[cb]; B[db]
+    (;W[ac];B[bc]C[Black lives.])
+    (;W[bc];B[da]
+      (;W[ac];B[bb]C[Black lives.])
+      (;W[bb];B[ac]
+        (;W[ba];B[bb]C[Black lives.])
+        (;W[bb];B[ba]C[Black lives.]))
+      (;W[ae];B[bb]C[Black lives.])
+      (;W[fb];B[bb]C[Black lives.])
+      (;W[fa];B[bb]C[Black lives.]))
+    (;W[bb];B[bc]C[Black lives.])
+    (;W[ae];B[bc]C[Black lives.])
+    (;W[fa];B[bc]C[Black lives.])
+    (;W[fb];B[bc]C[Black lives.])
+    (;W[da];B[bb]C[Black lives.]))
+
+   (;W[db];B[bb]
+     (;W[fb];B[cb]C[Black lives.])
+     (;W[fa];B[cb]C[Black lives.])
+     (;W[cb];B[da]C[Black lives.])
+     (;W[da];B[cb]C[Black lives.])
+     (;W[ae];B[da]C[Black lives.])
+     (;W[bc];B[ac]
+       (;W[ae];B[da]C[Black lives.])
+       (;W[fa];B[cb]C[Black lives.])
+       (;W[fb];B[cb]C[Black lives.]))
+     (;W[ac];B[bc]
+       (;W[ae];B[da]C[Black lives.])
+       (;W[fa];B[cb]C[Black lives.])
+       (;W[fb];B[cb]C[Black lives.])))
+
+   (;W[da];B[bb]C[Black lives.])
+
+)

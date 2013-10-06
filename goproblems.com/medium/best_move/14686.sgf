@@ -1,0 +1,41 @@
+(;GE[best move]DI[2d]DP[13]SO[DarkSycthe]CO[0]AB[qp]AB[pn]AB[lp]AW[oq]AW[np]AW[qr]AB[mq]AB[qj]AB[or]AW[mp]AB[lq]LB[or:1]C[Black 1 isn't a great move. How should White play to take advantage of it?]AP[goproblems]
+(;W[nr];B[nq]C[Now what?]
+(;W[pp]
+(;B[pq];W[op];B[pr];W[qq];B[mr];W[qo]C[Nice :)RIGHT])
+(;B[pr];W[pq];B[mr];W[qo]C[Nice :)RIGHT])
+(;B[qq];W[pr]C[Nice. Note weakneses around the R8 and R5 areas.RIGHT]))
+(;W[pr];B[op]
+(;W[pq];B[pp]C[White is in trouble.])
+(;W[os];B[pq]C[Not good for White]))
+(;W[pq];B[mr];W[oo];B[mn]C[White is severely attacked])
+(;W[qq];B[op]C[Black will be happy to take the outside.])
+(;W[oo];B[pq]C[Ouch.]))
+(;W[pr];B[nr]
+(;W[pp];B[qq]
+(;W[pq];B[po]C[White is severely attacked])
+(;W[qo];B[ro]
+(;W[po];B[qn]C[White is in trouble])
+(;W[qn];B[po]
+(;W[pq];B[qm])
+(;W[rn];B[pq]C[Oops]))
+(;W[rn];B[po];W[qn])
+(;W[pq];B[po]C[White is severely attacked.])))
+(;W[pq];B[mn]C[White is practically dead]))
+(;W[pq];B[nq];W[oo];B[mn]C[White is severely attacked])
+(;W[pp];B[qq]C[Good idea, but wrong timing.]
+(;W[nr];B[pr])
+(;W[pr];B[nr])
+(;W[pq];B[pr]
+(;W[qo];B[rr]
+(;W[po];B[qm]C[Difficult for White])
+(;W[rp];B[rq];W[po];B[qm]C[Difficult for White]))
+(;W[rr];B[nq])))
+(;W[rp];B[pq]C[Black happily gives up the corner for the outside stones])
+(;W[qq];B[nq]
+(;W[pp];B[qo];W[pr];B[ns]C[Not best - compare with third solution.])
+(;W[pr];B[op])
+(;W[qo];B[pp];W[po];B[op]))
+(;W[on];B[pm])
+(;W[qo];B[pp])
+(;W[pm];B[qn];W[on];B[om])
+(;W[rq];B[pq]C[Black happily gives up the corner for the outside stones]))

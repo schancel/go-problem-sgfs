@@ -1,0 +1,41 @@
+(;GE[life and death]DI[2d]DP[13]SO[marwin]CO[5]AB[rr]AB[rq]AB[qq]AB[pq]AW[qr]AW[pr]AW[ns]AW[mr]AW[mq]AB[oq]AB[nq]AW[mo]AW[po]AW[pp]AW[qn]AW[op]AW[np]AB[ro]AB[rn]AW[rm]AW[ql]AW[iq]AW[sr]AW[sp]C[This one is not obvious :)FORCE]AP[goproblems]
+(;B[rs];W[sq]
+(;B[sn];W[rp];B[qp];W[qo]
+(;B[ss];W[sm];B[so];W[sq]
+(;B[or]C[I believe you can see it now :)RIGHT])
+(;B[os]C[];W[or]C[Also seems like solution, but];B[nr];W[rp]
+(;B[sr];W[qs])
+(;B[ms];W[sp]))
+(;B[rp];W[or]))
+(;B[or];W[sm];B[ps];W[so]))
+(;B[rp];W[sn];B[so];W[or])
+(;B[so];W[qp];B[rp];W[or])
+(;B[or])
+(;B[qo];W[sn];B[so];W[qp];B[rp];W[or])
+(;B[qp];W[sn];B[so];W[qo];B[sm];W[or])
+(;B[os];W[sn];B[so];W[rp]))
+(;B[or];W[sq]
+(;B[rs];W[sn];B[so];W[rp])
+(;B[rp];W[sn]
+(;B[so];W[os];B[rs];W[ps])
+(;B[ps];W[so])
+(;B[qs];W[so])))
+(;B[sq];W[rs];B[or];W[os];B[ss];W[ps];B[qs]C[Just a ko])
+(;B[rp];W[rs]
+(;B[or];W[os];B[sq];W[ps];B[ss];W[qs]C[Just a ko])
+(;B[os];W[or];B[nr];W[ps];B[sq];W[ms];B[ss];W[os];B[qs]C[Just a ko]))
+(;B[qs];W[sq];B[sn];W[rp];B[qp];W[qo]
+(;B[rs];W[sm];B[ss];W[so])
+(;B[ss];W[rs]C[Just a ko]))
+(;B[ss];W[rs];B[sq];W[or];B[ss];W[qs])
+(;B[ps];W[or];B[sq];W[rs];B[ss];W[qs])
+(;B[os];W[sq];B[rp];W[sn];B[so];W[or];B[nr];W[ps];B[ss];W[sq];B[qs]C[Just a ko])
+(;B[so];W[rs];B[os];W[or];B[nr];W[ps];B[sq];W[ms];B[ss];W[os];B[qs]C[Just a ko])
+(;B[nr];W[os];B[rs];W[sq];B[sn];W[rp];B[qp];W[qo];B[ss];W[sm];B[so];W[sq];B[rp]C[Dead in gote])
+(;B[qo];W[sn]
+(;B[so];W[qp];B[rp];W[rs];B[sq];W[or];B[ss];W[qs])
+(;B[os];W[or];B[nr];W[ps];B[rs];W[ms];B[so];W[qp];B[rp];W[sq]))
+(;B[qp];W[rs];B[os];W[or];B[nr];W[ps];B[sq];W[ms];B[ss];W[os])
+(;B[sn];W[rs]
+(;B[os];W[or];B[nr];W[ps];B[sq];W[ms];B[ss];W[os];B[qs])
+(;B[or];W[os];B[sq];W[ps];B[ss];W[qs])))

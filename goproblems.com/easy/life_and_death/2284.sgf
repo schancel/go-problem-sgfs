@@ -1,0 +1,69 @@
+(;GE[life and death]DI[5k]DP[33]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd25]
+
+AW[iq][jq][kq][lq][mq][nq][oq][pq][pr][qp][qo][sr][ps][nr][ns]
+[ir][rn][qm]AB[gr][jr][kr][lr][hp][ip][jp][kp][lp][mp][qs][qr]
+[qq][rq][pp][op][np][sq][hq][hr][is][mr]C[White to live unconditionally.]
+
+(;W[js];B[ks]
+(;W[ms];B[hs]
+(;W[rp];B[js]
+(;W[sp]C[RIGHT])
+(;W[rr];B[ls];W[sp]C[RIGHT])
+(;W[rs]C[RIGHT]))
+(;W[sp];B[rp]
+(;W[so];B[js]
+(;W[rs]C[RIGHT])
+(;W[ro]C[RIGHT])
+(;W[rr];B[ls]
+(;W[ro]C[RIGHT])
+(;W[rs];B[ss])))
+(;W[ro];B[so]C[Approach ko for black])
+(;W[rs];B[so]
+(;W[sn];B[ro]C[white is dead])
+(;W[ro];B[js]C[Approach ko for black]))
+(;W[rr];B[so];W[ro];B[js]C[Approach ko for black]))
+(;W[rs];B[rr]C[black lives in the corner])
+(;W[rr];B[js]
+(;W[rp];B[ls];W[sp]C[RIGHT])
+(;W[sp];B[rp]
+(;W[so];B[ls];W[ro]C[RIGHT])
+(;W[ro];B[so]C[Approach ko for black])))
+(;W[ls];B[js]))
+(;W[rp];B[ms]C[white dies])
+(;W[rs];B[rr]C[black lives])
+(;W[rr];B[ms]C[white dies])
+(;W[sp];B[ms]C[white dies])
+(;W[hs];B[ms]C[ko for black]))
+(;W[hs];B[js]
+(;W[ms];B[gs]
+(;W[rp];B[ls]C[white dies])
+(;W[sp];B[ls]C[white dies])
+(;W[rr];B[ls]C[white dies])
+(;W[rs];B[rr]C[black lives])
+(;W[ls];B[hs]C[white will lose]))
+(;W[rp];B[ms]C[white dies])
+(;W[sp];B[ms]C[white dies])
+(;W[rr];B[ms]C[white dies])
+(;W[rs];B[rr]C[black lives])
+(;W[ls];B[gs];W[ms];B[hs]C[white loses])
+(;W[ks];B[gs]C[white loses]))
+(;W[ms];B[js]
+(;W[rp];B[ls]C[white dies])
+(;W[sp];B[ls]C[white dies])
+(;W[rr];B[ls]C[white dies])
+(;W[rs];B[rr]C[black lives])
+(;W[ls];B[hs]C[white loses]))
+(;W[ks];B[js]C[white loses])
+(;W[ls];B[js];W[ms];B[hs]C[white loses])
+(;W[rp];B[ms]
+(;W[js];B[ks]C[white is lost])
+(;W[hs];B[js]C[white is lost]))
+(;W[rr];B[ms]
+(;W[js];B[ks]C[white loses])
+(;W[hs];B[js]C[white loses]))
+(;W[rs];B[rr]C[black lives])
+(;W[sp];B[ms]
+(;W[js];B[ks]C[white loses])
+(;W[hs];B[js]C[white loses])))

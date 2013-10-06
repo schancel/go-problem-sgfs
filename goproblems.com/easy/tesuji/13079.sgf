@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[4k]DP[31]SO[Gelya]CO[0]SZ[19]AW[kk]AW[bl]AW[ll]AW[gm]AW[hm]AW[jm]AW[km]AW[bn]AW[dn]AW[hn]AW[in]AW[do]AW[io]AW[dp]AW[jp]AW[lp]AW[np]AW[pp]AW[jq]AW[lq]AW[nq]AB[ck]AB[fk]AB[fm]AB[lm]AB[mm]AB[gn]AB[jn]AB[kn]AB[on]AB[fo]AB[ho]AB[jo]AB[lo]AB[mo]AB[qo]AB[cp]AB[ip]AB[qp]AB[cq]AB[dq]AB[eq]AB[qq]AB[kr]AB[lr]AB[mr]AB[nr]AB[or]C[Find a shicho-tesuji to save your group]TR[jp]TR[jq]TR[lp]TR[lq]TR[np]TR[nq]TR[pp]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[sai]PB[toy koyo]PL[W]
+(;W[hp];B[iq]
+(;W[ir];B[hq]
+(;W[gq];B[hr];W[gr];B[hs]
+(;W[is];B[gp];W[gs];B[hp];W[fp];B[go]
+(;W[fn];B[en];W[eo];B[fn];W[fl];B[em];W[el];B[dm]
+(;W[cm];B[dl]
+(;W[dk];B[cl];W[cj]C[RIGHT])
+(;W[cl];B[dk]))
+(;W[dl];B[cm]))
+(;W[eo];B[fn]))
+(;W[gs];B[gp];W[is];B[hp];W[fp];B[go]
+(;W[fn];B[en];W[eo];B[fn];W[fl];B[em];W[el];B[dm];W[cm];B[dl];W[dk];B[cl];W[cj]C[RIGHT])
+(;W[eo];B[fn])))
+(;W[gp];B[gq]TR[ir]TR[jq]TR[jp]TR[lp]TR[lq]TR[np]TR[nq]TR[pp]))
+(;W[hq];B[ir]TR[jp]TR[jq]TR[lp]TR[lq]TR[np]TR[nq]TR[pp]))
+(;W[hq];B[hp])
+(;W[gp];B[hp]))

@@ -1,0 +1,40 @@
+(;GE[best move]DI[3d]DP[10]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[aa][cb][ac][bc]AB[ca][da][cc][dc][ad]C[Black to move - what's the best he can do?]PL[B]
+(;B[bb]CR[bb]
+(;W[ab]CR[ab]
+(;B[cd]CR[cd]
+;W[ba]CR[ba]
+;B[db]CR[db]
+;W[bd]CR[bd]
+;B[bb]CR[bb]C[...and Black wins! RIGHT])
+(;B[db]CR[db]
+;W[cd]CR[cd]
+(;B[dd]CR[dd]
+;W[bd]CR[bd]C[Seki & Jigo (1 prisoner each)!])
+(;B[ba]CR[ba]
+;W[bd]CR[bd]C[Seki & Jigo (1 prisoner each)!]))
+(;B[bd]CR[bd]
+;W[cd]CR[cd]
+(;B[bd]CR[bd]
+;W[ba]CR[ba]C[White wins])
+(;B[db]CR[db]
+;W[ba]CR[ba]
+;B[bd]CR[bd]
+;W[cb]CR[cb]C[White wins])))
+(;W[cd]CR[cd]
+(;B[db]CR[db]
+;W[ab]CR[ab]
+(;B[ba]CR[ba]
+;W[bd]CR[bd]C[Seki & Jigo (1 prisoner each) - B D3 was a mistake!])
+(;B[dd]CR[dd]
+;W[bd]CR[bd]C[Seki & Jigo (1 prisoner each) - B D3 was a mistake!]))
+(;B[ba]CR[ba]C[Black wins!]))
+(;W[bd]CR[bd]
+;B[cd]CR[cd]
+;W[ab]CR[ab]
+;B[db]CR[db]C[...and Black wins.]))
+(;B[cd]CR[cd]
+;W[bb]CR[bb]
+;B[db]CR[db]
+;W[bd]CR[bd]C[White wins!]))

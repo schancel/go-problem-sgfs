@@ -1,0 +1,31 @@
+(;GE[life and death]DI[5k]DP[34]SO[maba]CO[5]AB[ab]AB[bb]AB[cc]AB[cd]AB[dd]AB[dc]AB[db]AB[eb]AB[ec]AB[de]AW[cb]AW[ba]AW[ac]AW[bc]AW[bd]AW[ad]AW[ce]AW[df]AW[ef]AW[ee]AW[ed]AW[fe]AB[fd]AB[gd]AB[ge]AB[ff]AB[fg]AW[eg]AW[dg]AW[cg]AW[bg]AW[ag]AW[af]AB[dh]AB[ch]AB[bh]AB[eh]AB[gh]AB[gb]C[Can black kill white unconditionally? Play at NO if you think he can't. If you think it's possible then do it.]LB[gc:NO]AP[goproblems]
+(;B[be];W[bf]
+(;B[ae];W[bd]C[ko])
+(;B[cf]C[ko])
+(;B[ca];W[ae]))
+(;B[cf];W[be])
+(;B[bf];W[aa]
+(;B[be];W[ae]
+(;B[cf];W[ce])
+(;B[da];W[ca])
+(;B[bb];W[ca]))
+(;B[da];W[ca])
+(;B[bb];W[ca]))
+(;B[ca];W[be])
+(;B[gc]C[];W[be]AB[ba]AW[ab]AW[bb]AB[cb]AW[db]AW[eb]AW[gb]AB[ac]AB[bc]AW[cc]AW[dc]AW[ec]AW[gc]AB[ad]AB[bd]AW[cd]AW[dd]AB[ed]AW[fd]AW[gd]AB[ce]AW[de]AB[ee]AB[fe]AW[ge]AB[af]AB[df]AB[ef]AW[ff]AB[ag]AB[bg]AB[cg]AB[dg]AB[eg]AW[fg]AW[bh]AW[ch]AW[dh]AW[eh]AW[gh]C[You think it is not possible. So the sides are swapped and now White tries to kill Black unconditionally; prove it cannot be done.]
+(;B[bf];W[cf]C[Ko or not? Play at KO (F18) to simulate a ko threat, if you think you need one.]LB[fb:KO]
+(;B[fb];W[fc]C[White as answered your threat, obviously.]
+(;B[ae];W[ah])
+(;B[aa];W[ce])
+(;B[ce];W[ae]
+(;B[bd];W[cf]C[Ko for life, so there is no unconditional kill. Well done.RIGHT])
+(;B[ad];W[bd])
+(;B[cf];W[ah]))
+(;B[ca];W[ae]))
+(;B[ae];W[ah])
+(;B[aa];W[ce]C[One eye.])
+(;B[ca];W[ae]))
+(;B[ae];W[cf]MA[ab]MA[bb]C[You can get one eye, that's all.])
+(;B[cf];W[ae])
+(;B[aa];W[cf]C[One eye, unconditional death.])
+(;B[ca];W[ae])))

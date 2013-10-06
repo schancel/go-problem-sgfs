@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[5k]DP[32]SO[unkx80]CO[7]SZ[19]AW[bd]AW[cd]AW[dc]AW[fc]AB[cc]AB[bc]AB[dd]TR[bd]C[Black to play.]FF[1]GM[1]AP[Jago:Version 4.53]
+(;B[be];W[de]C[]
+(;B[ed];W[ce]
+(;B[ec]C[];W[eb];B[db]
+(;W[gb]C[If Black is strong on both sides this way of playing is possible.CHOICERIGHT])
+(;W[fe]C[If Black is strong on the left side this way of playing is possible.]))
+(;B[db];W[ec]))
+(;B[ad];W[ed]))
+(;B[de]C[Please see next problem for how to continue. Please note that Black has another move in certain circumstances.RIGHT])
+(;B[ec];W[ed]
+(;B[db];W[de];B[dc];W[ee]C[Favourable for white.])
+(;B[de];W[eb]C[White is better off then the solution.]))
+(;B[db];W[ec])
+(;B[ed];W[ec];B[ce];W[be])
+(;B[ce];W[be]
+(;B[de]C[White has the same tesuji as seen in the next problem.])
+(;B[ec];W[ed]
+(;B[db];W[de];B[dc];W[cf])
+(;B[de];W[eb]))
+(;B[ed];W[ec])
+(;B[db];W[ec])
+(;B[bf];W[de];B[ed];W[cf];B[ec];W[eb];B[db]
+(;W[fe]C[CHOICE])
+(;W[gb]C[CHOICE]))))

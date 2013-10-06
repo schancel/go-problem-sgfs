@@ -1,0 +1,16 @@
+(;GE[endgame]DI[1k]DP[19]SO[thanush]CO[0]AW[rc]AW[pb]AW[qa]AW[rf]AB[qe]AW[qc]AB[qd]AB[qf]AB[qg]AB[rg]AB[pc]AB[ob]AB[nc]AB[pd]C[Maxmize profit]AP[goproblems]
+(;B[rd];W[rb];B[sc];W[sb];B[sd]C[Not best solution])
+(;B[sd];W[rb];B[sc];W[rd];B[re];W[sb];B[se]C[Not best solution])
+(;B[oa]
+(;W[sb]
+(;B[rd];W[ra];B[pa];W[qb]C[W lives with 2 pointsRIGHT];B[sd]C[RIGHT])
+(;B[sd];W[rd];B[re];W[ra];B[pa];W[qb]C[]))
+(;W[rd];B[sb]
+(;W[rb];B[pa];W[qb];B[re];W[sa];B[ra]C[W failsRIGHT])
+(;W[re];B[rb];W[qb];B[sf];W[se];B[sc]C[RIGHT])))
+(;B[sb];W[rb];B[oa];W[sa]
+(;B[pa];W[qb];B[rd];W[sc]C[1 point worse than solution])
+(;B[ra];W[sc];B[pa];W[qb];B[rd];W[sa]C[W lives with 4 points]))
+(;B[rb];W[sb]
+(;B[rd];W[ra]C[W has 2 more points than solution])
+(;B[ra];W[rd];B[re];W[sd])))

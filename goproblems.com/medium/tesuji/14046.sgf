@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[1k]DP[19]SO[whendrik]CO[0]AB[cs]AB[cr]AB[cq]AB[cp]AB[bo]AB[do]AB[eo]AB[fo]AB[fp]AB[gp]AB[gq]AW[co]AW[cn]AW[cm]AW[dp]AW[ep]AW[fq]AW[er]AW[gr]AW[hq]AW[iq]AW[ho]AW[gn]AW[em]AW[bl]AW[gm]AW[jo]AP[goproblems]
+(;B[eq];W[dq]
+(;B[fr]
+(;W[fs]C[CHOICE];B[dr];W[eq];B[es]C[Well done!RIGHT])
+(;W[eq];B[es];W[fs];B[dr]C[RIGHT]))
+(;B[dr];W[eq]
+(;B[fr];W[es])
+(;B[es];W[fr])
+(;B[fs];W[fr])
+(;B[hr];W[fr])
+(;B[gs];W[fr])))
+(;B[dq];W[eq])
+(;B[dr];W[eq])
+(;B[ds];W[fr])
+(;B[es];W[fr])
+(;B[fs];W[fr])
+(;B[fr];W[eq])
+(;B[gs];W[fr])
+(;B[hr];W[fr]))

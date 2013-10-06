@@ -1,0 +1,47 @@
+(;GE[elementary]DI[10k]DP[54]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];PL[2]C[white to kill
+]
+AW[qa][mb][nb][ob][pb][mc][md][qd][me][qe][re][se][mf][nf][of][pf][qf]
+AB[qb][rb][oc][pc][qc][nd][pd][rd][sd][ne][oe][pe]
+(;W[sb];B[rc]
+(;W[ra]C[RIGHT
+black cannot get an eye in the corner
+])
+
+(;W[pa];B[ra])
+
+(;W[sa];B[ra])
+
+(;W[sc];B[sa])
+)
+
+(;W[sc];B[rc]
+(;W[ra];B[sb])
+
+(;W[sb];B[sa])
+
+(;W[pa];B[ra])
+)
+
+(;W[ra];B[sb]
+(;W[sc];B[rc])
+
+(;W[rc];B[sc])
+)
+
+(;W[nc];B[ra]
+(;W[sc];B[rc])
+
+(;W[sb];B[rc])
+)
+
+(;W[sa];B[sb])
+
+(;W[rc];B[sc])
+
+)

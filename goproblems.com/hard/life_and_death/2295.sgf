@@ -1,0 +1,46 @@
+(;GE[life and death]DI[5d]DP[6]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[templd27]
+
+AW[sq][rq][qq][pq][pr][ps][op][np][mp][lp][kp][nm][jq][jo][kr]
+[ir][is][ns][nr][ms]AB[rs][rr][oq][or][os][nq][mq][lq][kq][pp]
+[po][pn][pl][hq][hr][hs][fq][lr][ls][qp][rp][sp]C[White to kill the black P3 group efficiently.]
+
+(;W[sr];B[ss]LB[jm:Te]C[If you think white can afford to tenuki then play 'Te' at K7 else continue with the execution.]
+
+(;W[jm];B[qs];W[qr];B[rs]LB[lm:Te2]C[If you think white can afford a second tenuki then play 'Te2' at M7 else kill black now.]
+
+(;W[jr];B[rr];W[ks];B[mr];W[ns]C[White is two moves ahead after starting at T2. RIGHT]
+)
+(;W[jp];B[rr];W[ks];B[mr];W[ns]C[White is two moves ahead after starting at T2. RIGHT]
+)
+(;W[iq];B[rr];W[ks];B[mr];W[ns]C[White is two moves ahead after starting at T2. RIGHT]
+)
+(;W[ks];B[mr];W[ns];B[jr];W[js];B[iq])
+(;W[js]C[This move doesn't help white to play at L1 effectively.]
+)
+(;W[lm];B[rr]
+(;W[jr];B[qs]C[Black is now ahead])
+(;W[jp];B[qs]C[Black is now ahead])
+(;W[iq];B[qs]C[Black is now ahead])
+(;W[js]C[This move doesn't help white to play L1 effectively.]
+)
+(;W[ks];B[mr];W[ns];B[jr];W[js];B[iq]C[White can only afford one tenuki because an approach move is needed here.]
+)))
+(;W[jr];B[qs];W[qr]C[White is 2 moves ahead after starting at T2 so can afford to tenuki once. If black wishes to die in gote you should let him.]
+)
+(;W[jp];B[qs];W[qr]C[White is 2 moves ahead after starting at T2 so can afford to tenuki once. If black wishes to die in gote you should let him.]
+)
+(;W[iq];B[qs];W[qr]C[White is 2 moves ahead after starting at T2 so can afford to tenuki once. If black wishes to die in gote you should let him.]
+)
+(;W[ks];B[mr];W[ns];B[jr];W[js];B[iq])
+(;W[js]C[This move doesn't help white to play at L1.]))
+(;W[ks];B[mr];W[ns];B[jr];W[js];B[iq])
+(;W[jr];B[sr];W[ks];B[mr];W[ns];B[qr])
+(;W[jp];B[sr];W[ks];B[mr];W[ns];B[qr])
+(;W[iq];B[sr];W[ks];B[mr];W[ns];B[qr])
+(;W[js]C[White K1 doesn't help white to play L1 effectively.]
+)
+(;W[qs];B[sr])
+(;W[qr];B[sr])
+(;W[ss];B[sr]))

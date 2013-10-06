@@ -1,0 +1,26 @@
+(;GE[life and death]DI[3k]DP[27]SO[sandal]CO[0]AB[rb]AB[qb]AB[pb]AB[pc]AW[ob]AW[oc]AW[pd]AW[pe]AW[pf]AW[oe]AB[qe]AB[qd]AB[qf]AW[qc]AW[rc]AW[qg]AW[rg]AB[pg]AB[ph]AB[qh]AB[rh]AB[pi]C[white to live]AB[nf]AB[md]AB[lc]AB[kd]AP[goproblems]
+(;W[rd];B[rf]
+(;W[sb]
+(;B[ra]C[CHOICE]
+(;W[pa];B[re]
+(;W[sc]
+(;B[sg]C[CHOICE];W[oa];B[se];W[qa];B[sd];W[sa]C[Well done!RIGHT])
+(;B[sf];W[oa];B[sd];W[se]C[RIGHT]))
+(;W[oa];B[sd])
+(;W[sd];B[sg];W[oa];B[se]))
+(;W[re];B[sf];W[pa];B[se])
+(;W[sc];B[pa];W[re];B[sg];W[oa];B[se]))
+(;B[re];W[sc];B[sf];W[ra];B[sd];W[se]C[favourable ko for white.RIGHT]))
+(;W[re];B[sf];W[sb];B[se])
+(;W[sg]
+(;B[sh];W[sb];B[sd]
+(;W[se];B[sf]C[Only ko. Thanks BartTM])
+(;W[sc];B[re]C[Only ko. Thanks BartTM])
+(;W[ra];B[re]))))
+(;W[rf];B[rd])
+(;W[re];B[rd])
+(;W[mb];B[nd];W[rd];B[rf];W[sb];B[od])
+(;W[nd];B[ne];W[rd];B[of];W[od];B[rf])
+(;W[ne];B[me]
+(;W[nd];B[nc])
+(;W[nc];B[nd])))

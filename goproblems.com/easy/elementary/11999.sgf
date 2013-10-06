@@ -1,0 +1,16 @@
+(;GE[elementary]DI[18k]DP[67]SO[DarkSycthe]CO[0]AB[rq]AB[qq]AB[pq]AW[rr]AW[pr]AW[qr]AW[oq]AW[nq]AW[pp]AW[po]AW[ro]AB[op]AB[oo]AB[on]AB[qm]C[Black to connect his stones/capture some white stones.]AP[goproblems]
+(;B[qo];W[qp]
+(;B[rp];W[qn];B[pn];W[qo]
+(;B[rn]C[RIGHT])
+(;B[so]C[RIGHT]))
+(;B[pn];W[rp])
+(;B[qn];W[rp]))
+(;B[qp];W[qo])
+(;B[pn];W[rp])
+(;B[qn];W[rp])
+(;B[rn];W[rp])
+(;B[rp];W[sq]
+(;B[qo];W[sp])
+(;B[sp];W[so];B[sr];W[qp])
+(;B[qp];W[qo])
+(;B[so];W[qp])))

@@ -1,0 +1,75 @@
+(;GE[best move]DI[5k]DP[32]SO[cheyenne]CO[7]LB[lc:3][nc:2][rd:4][re:5][qf:1][yy:0]C[White played 5.  How should Black 
+respond?
+
+]
+AB[nc][pd][rd]
+AW[lc][re][qf][qi]
+PB[Black]
+PW[White]
+KM[0]
+(;B[qd]
+MN[1]
+CR[qd];W[nb]
+CR[nb](;B[ob]
+CR[ob];W[nd]
+CR[nd](;B[oc]
+CR[oc];W[of]
+C[RIGHT Black gets a solid corner but 
+White gets a nice position on the 
+outside.
+
+(There's still a mayor gap at n16 to 
+aim at for Black so White's position is 
+not that impressive.)]
+CR[of])(;B[mc]
+;W[md]
+;B[mb]
+C[RIGHT Black gets a solid corner but 
+White gets a nice position on the 
+outside.]
+;W[of]
+C[RIGHT Black gets a solid corner but 
+White gets a nice position on the 
+outside.
+
+(Although White is stronger than before 
+Black has more territory and he still 
+has the cut at m16 to aim at. If White 
+want to keep the center influence intact 
+after the cut, he should continue by 
+pushing along the 5th line giving black 
+a very nice 3rd line territory.)]
+))(;B[mb]
+;W[mc]
+;B[ob]
+;W[nd]
+;B[oc]
+;W[of]
+C[White gets too much influence this 
+way.
+
+(Black gains a little territory compared 
+to the 1st variation but there are hardly 
+any weaknesses left in the White 
+position. Therefore this is not good.)]
+))(;B[qe]
+CR[qe];W[rf]
+CR[rf]LB[rf:2](;B[pf]
+CR[pf];W[pg]
+CR[pg](;B[og]
+CR[og];W[of]
+LB[of:6];B[pe]
+LB[pe:7];W[ph]
+;B[nf]
+C[RIGHT You should note however that 
+white has a lot of aji in the corner.]
+)(;B[of]
+C[RIGHT You should note however that 
+white has a lot of aji in the corner.
+
+Black 5 can be considered to be a little 
+slack but that's a fairly minor point.]
+))(;B[ne]
+C[RIGHT You should note however that 
+white has a lot of aji in the corner.]
+CR[ne])))

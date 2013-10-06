@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4k]DP[30]SO[Cyrael]CO[6]AB[ja]AB[ia]AB[ha]AB[ib]AB[gb]AB[hc]AB[hd]AB[id]AW[ka]AW[jb]AW[jc]AW[ic]AW[jd]AW[kc]AW[lc]AW[ld]AW[ke]AB[je]AB[kf]AB[jf]AB[lf]AB[me]AB[md]AB[mc]AB[nf]AB[mg]AB[lg]AB[kg]AB[if]AB[hf]AB[he]AW[gc]AW[fc]AW[fb]AW[mb]AW[nb]AW[ob]AW[nc]AW[nd]AW[ne]AB[oe]AB[od]AB[oc]AB[pb]AW[qb]AB[pd]AW[of]AW[ng]AW[og]AW[oh]AB[mf]AB[pa]C[Kill white  the best way possible. Be careful not to create a Ko.]AP[goproblems]
+(;B[la];W[lb];B[kb];W[ga]C[Playing these moves will lead to a Ko which is not the best solution])
+(;B[ma];W[lb]
+(;B[le];W[la])
+(;B[la];W[na])
+(;B[na];W[oa])
+(;B[oa];W[na]))
+(;B[kb];W[lb])
+(;B[lb];W[kb]
+(;B[le];W[la]
+(;B[na];W[oa])
+(;B[ma];W[na])
+(;B[oa];W[na]))
+(;B[la];W[ma]
+(;B[oa];W[le])
+(;B[le];W[oa]))
+(;B[ma];W[la]
+(;B[le];W[na])
+(;B[na];W[oa])
+(;B[oa];W[na]))
+(;B[na];W[la];B[oa];W[ma];B[le]C[The best way to kill white.RIGHT])
+(;B[oa];W[la]
+(;B[na];W[ma];B[le]C[The best way to kill white.RIGHT])
+(;B[ma];W[na])
+(;B[le];W[na])))
+(;B[le];W[lb])
+(;B[na];W[lb]
+(;B[la];W[ma])
+(;B[ma];W[le];B[oa];W[la])
+(;B[oa];W[ma])
+(;B[le];W[ma]))
+(;B[oa];W[lb]
+(;B[ma];W[na])
+(;B[la];W[ma])
+(;B[na];W[ma])
+(;B[le];W[ma])))

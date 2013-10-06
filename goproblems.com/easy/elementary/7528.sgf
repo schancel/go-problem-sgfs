@@ -1,0 +1,25 @@
+(;GE[elementary]DI[7k]DP[40]SO[santa c]CO[9]AW[rc]AW[sb]AW[qd]AW[qe]AW[re]AW[pe]AW[oe]AW[ne]AW[pc]AW[pb]AW[ob]AB[nb]AB[oc]AB[od]AB[pd]AB[nd]AB[mc]AB[me]AB[ld]AB[ng]AB[of]AB[pf]AB[qf]AB[rf]AB[sf]AB[se]AB[sd]AB[rd]AB[sc]AB[og]AB[mh]C[White to live! :)]AP[goproblems]
+(;W[ra]C[];B[qb]
+(;W[qc]C[Well done! Creating a second eye at T19 lets White live! :)RIGHT])
+(;W[rb];B[qc];W[qa];B[qc]
+(;W[oa]C[Black can now capture with O14! R19 should've been at R17! :(RIGHT]TR[nf])
+(;W[qb];B[oa]C[R17 is a fake eye! :(]))
+(;W[qa];B[qc]
+(;W[rb];B[qc]
+(;W[oa]C[Black can now capture with O14! R19 should've been at R17! :(RIGHT]TR[nf])
+(;W[qb];B[oa]C[R17 is a fake eye! :(]))
+(;W[oa];B[nf]C[Q19 is a fake eye! :(]))
+(;W[oa];B[qc]C[:(]))
+(;W[qb];B[ra]TR[oa]TR[qa]C[Miai! :(])
+(;W[qc];B[ra]
+(;W[qa];B[rb]C[Miai! :(]TR[qb]TR[oa])
+(;W[rb];B[qa]C[:(])
+(;W[oa];B[rb]C[:(]))
+(;W[qa];B[rb]C[:(])
+(;W[rb];B[oa]
+(;W[ra];B[qc]C[Miai! :(]TR[qb]TR[pa])
+(;W[qa];B[qc]C[:(])
+(;W[qc];B[qa]C[Miai! :(]TR[pa]TR[ra])
+(;W[pa];B[qc]C[Miai! :(]TR[qb]TR[ra])
+(;W[qb]C[Miai! :(]TR[ra]TR[pa]))
+(;W[oa];B[rb]C[:(]))

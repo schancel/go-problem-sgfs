@@ -1,0 +1,76 @@
+(;GE[life and death]DI[6d]DP[1]SO[Daniel]CO[8]AB[am]AB[bn]AB[cn]AB[dn]AB[do]AB[ep]AB[eq]AB[er]AB[es]AB[fo]AB[pp]AB[pq]AB[qo]AB[rk]AB[rl]AB[rm]AB[rq]AW[bk]AW[bl]AW[bm]AW[bq]AW[co]AW[dp]AW[dq]AW[no]AW[op]AW[oq]AW[or]AW[os]AW[pn]AW[po]AW[qn]AW[rn]AW[sm]C[Black just played the marked stone. If you think White have to respond to keep the black stones dead play at 'A' and if you don't play at 'B'.]TR[rq]LB[rp:A]LB[jp:B]SZ[19]PL[W]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;W[rp];B[jp]C[Now the problem is to try to do something with the White bottom left corner.]
+(;W[bo];B[br]
+(;W[cr];B[cs]
+(;W[ap]
+(;B[an];W[bs];B[as]
+(;W[ar];B[aq];W[dr]
+(;B[ao];W[ar]C[White can get a ko.RIGHT])
+(;B[ds];W[ar];B[bs];W[cp]C[RIGHT])
+(;B[cp];W[ar]C[RIGHT]))
+(;W[dr];B[cp];W[ar]C[White can get a better ko.];B[aq]C[RIGHT]))
+(;B[dr];W[an]C[RIGHT]))
+(;W[an];B[ao]
+(;W[ap]
+(;B[an];W[bs];B[as]
+(;W[ar];B[aq]C[RIGHT])
+(;W[dr]))
+(;B[dr];W[an]C[RIGHT]))
+(;W[bs];B[as];W[ap];B[an]
+(;W[ar])
+(;W[dr];B[cp];W[ar];B[aq]C[RIGHT])))
+(;W[bs];B[as];W[ap]
+(;B[an])
+(;B[dr];W[an]C[RIGHT]))
+(;W[ao];B[an]))
+(;W[ao];B[an]
+(;W[cr];B[cs]
+(;W[bs];B[as]
+(;W[ar];B[aq]C[Black kills.])
+(;W[aq];B[ds]
+(;W[bp];B[cq]C[Black kills.])
+(;W[dr];B[cp];W[cq];B[bp]C[Black kills.]))
+(;W[ap];B[dr]C[Black kills.])
+(;W[cp];B[dr]C[Black kills.])
+(;W[dr];B[cp]C[Black kills.]))
+(;W[cp];B[dr]C[Black kills.])
+(;W[ap];B[bs]
+(;W[dr];B[cp]C[Black kills.])
+(;W[cp];B[dr]C[Black kills.]))
+(;W[aq];B[ds]C[Black kills.])
+(;W[ar];B[bs];W[dr];B[cp]C[Black kills.])
+(;W[dr];B[cp]C[Black kills.]))
+(;W[dr];B[cr];W[ds];B[aq]C[Black kills.])
+(;W[ar];B[cr]C[Black kills.])
+(;W[bs];B[cr]C[Black kills.])))
+(;W[bp];B[br]C[Black kills.])
+(;W[ao];B[bo]C[Black kills.])
+(;W[ap];B[bo]C[Black kills.])
+(;W[dr];B[bo]C[Black kills.])
+(;W[cr];B[cp]C[Black kills.])
+(;W[br];B[bo]C[Black kills.])
+(;W[bs];B[bo]C[Black kills.])
+(;W[ar];B[bo]C[Black kills.]))
+(;W[jp];B[ro]C[Now the problem is to try to kill the Black bottom right corner.]
+(;W[rr];B[qr];W[qs];B[sp]
+(;W[pr];B[sn]TR[jp]C[Black gets a ko.])
+(;W[sn];B[rs];W[ss];B[sr];W[sq];B[pr]
+(;W[so];B[sr]TR[jp]C[Black gets a ko.])
+(;W[ps];B[sr]TR[jp]C[Black gets a ko.])))
+(;W[so];B[qr]TR[jp]C[Black lives.])
+(;W[sp];B[so];W[sn];B[qr]TR[jp]C[Black lives.])
+(;W[rs];B[qr]
+(;W[qs];B[pr];W[ps];B[qp];W[sp];B[so]TR[jp]C[Black lives.])
+(;W[so];B[qp];W[sp];B[qs];W[sq];B[sr]TR[jp]C[Black lives.]))
+(;W[qr];B[rr]
+(;W[rs];B[qq]
+(;W[sp];B[pr];W[ps];B[qs]C[ko]TR[jp])
+(;W[so];B[sp];W[sr];B[pr];W[ps];B[sn]TR[jp]C[Black lives with a double ko.])
+(;W[sr];B[pr];W[ps];B[qs]C[ko]TR[jp])
+(;W[qs];B[so];W[sn];B[sr]TR[jp]C[Black lives.]))
+(;W[so];B[qq]TR[jp]C[Black lives.])
+(;W[sp];B[so]TR[jp]C[Black lives.])
+(;W[qq];B[so]TR[jp]C[Black lives.])
+(;W[qs];B[sp]TR[jp]C[Black lives.]))
+(;W[qs];B[rr]TR[jp]C[Black lives.])
+(;W[sr];B[qr]TR[jp]C[Black lives.])))

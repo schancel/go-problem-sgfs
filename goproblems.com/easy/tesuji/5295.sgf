@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[7k]DP[40]SO[brightwater]CO[7]AB[ra]AB[rb]AB[rc]AB[qd]AB[qe]AB[od]AB[nc]AB[nb]AW[na]AW[mb]AW[ob]AW[qc]AW[qb]AW[lc]AW[jc]AW[rd]AW[re]AW[qf]C[Black to save the stones in corner.]AP[goproblems]
+(;B[pb]
+(;W[pc]
+(;B[oc];W[pa]
+(;B[qa];W[ma];B[pd]C[RIGHT])
+(;B[pd];W[qa]))
+(;B[qa];W[oc])
+(;B[pa];W[oc])
+(;B[oa];W[pa]))
+(;W[pa];B[pc];W[qa];B[oa]C[RIGHT]))
+(;B[qa];W[pb];B[oa];W[pa])
+(;B[oc];W[pb];B[oa];W[pa];B[qa];W[oa])
+(;B[oa];W[pa])
+(;B[pa];W[pb]))

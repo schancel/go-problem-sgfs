@@ -1,0 +1,58 @@
+(;GE[tesuji]DI[5d]DP[6]SO[lhhb]CO[6]AW[cc]AW[cd]AW[be]AW[de]AW[df]AW[eg]AW[fg]AW[hg]AW[he]AW[ie]AW[id]AW[jd]AW[kc]AW[lc]AB[ec]AB[dd]AB[ee]AB[ef]AB[gd]AB[hd]AB[ic]AB[jc]C[White to get something from black.]
+(;W[db];B[eb]C[Not so simple.])
+(;W[jb];B[ib]C[Not so simple.])
+(;W[eb];B[fb]
+(;W[db]C[Not so simple.])
+(;W[dc]
+(;B[ed]C[CHOICE];W[ib]
+(;B[hb]C[CHOICE];W[jb]
+(;B[hc]
+(;W[da];B[ge];W[fc]C[Black's group is killed. B H17 is wrong. (Thanks for BartTM)RIGHT])
+(;W[db];B[ge]
+(;W[fc]C[Black's group is killed. B H17 is wrong. (Thanks for BartTM)RIGHT])
+(;W[gf];B[ff];W[fa];B[gb])
+(;W[fa];B[ga]
+(;W[ff];B[fe];W[fc];B[gc];W[gb]C[Black H17 is wrong. You can kill black's group.])
+(;W[fc];B[gc];W[gb]C[Black H17 is wrong. You can kill black's group.]))
+(;W[ga];B[fc]
+(;W[gb];B[fa];W[ha]C[Black H17 is wrong. You can kill black's group.])
+(;W[fa];B[gb]C[Black H17 is wrong. You can kill black's group.]))))
+(;B[gc]
+(;W[da];B[fa]C[White reduce Black in sente.RIGHT])
+(;W[db];B[fa]C[White reduce Black in sente.RIGHT]))
+(;B[db];W[hc];B[gc];W[ha];B[ic]C[RIGHT]))
+(;B[jb]C[CHOICE];W[gb]
+(;B[gc]C[CHOICE];W[fa];B[fc]
+(;W[hb];B[db]
+(;W[hc];B[ea]
+(;
+(;W[fe];B[cb];W[bb];B[ca]C[RIGHT])
+(;W[cb];B[ge]C[RIGHT]))
+(;W[cb];B[ge]C[Black lives small.RIGHT])
+(;W[fe];B[cb];W[bb];B[ca]C[Black lives small.RIGHT]))
+(;W[ea];B[ga];W[ha];B[da];W[ga];B[hc]C[White group dead.]))
+(;W[db];B[hb];W[ga];B[ha];W[ea]C[RIGHT]))
+(;B[hb]C[CHOICE];W[fc]C[RIGHT])
+(;B[db]C[CHOICE];W[hc]C[RIGHT])
+(;B[fc]C[CHOICE]
+(;W[hc];B[db];W[cb];B[ea];W[ge]C[Black can only get a ko.RIGHT];B[gc];W[hb];B[fe]C[Black lives small.RIGHT])
+(;W[fa];B[hb];W[db];B[gc];W[ga];B[ha];W[ea];B[ge]C[You can do better. (Play H17 instead of F19.)RIGHT]))
+(;B[ga]C[CHOICE];W[fc];B[ea]
+(;W[fa]MA[fb]C[RIGHT]C[Ko, you get it.RIGHT])
+(;W[hc];B[ia];W[fa]TR[hc]C[You have used up some ko trearts.]))))
+(;B[db]C[CHOICE]
+(;W[fc]C[]
+(;B[ed]C[];W[gb];B[ea]
+(;W[ib]
+(;B[jb];W[hc];B[gc];W[hb];B[ga]
+(;W[kb]C[RIGHT])
+(;W[ja]C[RIGHT]))
+(;B[hc];W[jb]C[RIGHT])
+(;B[hb];W[jb];B[hc]C[RIGHT]))
+(;W[hc];B[hb]
+(;W[ib];B[gc];W[jb]C[RIGHT])
+(;W[gc];B[fd];W[ib];B[ga];W[jb]C[RIGHT])))
+(;B[ea];W[ed];B[gc];W[eb]C[Bad for black...]))
+(;W[ed];B[fc]
+(;W[cb];B[ea];W[fe])
+(;W[fe]))))))

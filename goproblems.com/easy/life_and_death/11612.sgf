@@ -1,0 +1,42 @@
+(;GE[life and death]DI[6k]DP[37]SO[Mocramis]CO[0]AB[rk]AB[qk]AB[qj]AB[qi]AB[pj]AB[oj]AB[ql]AB[pl]AB[ok]AB[nk]AB[mk]AW[rl]AW[qm]AW[pm]AW[om]AW[ol]AW[on]AW[nl]AW[ml]AW[lk]AW[lj]AW[mi]AW[ni]AW[oi]AW[pi]AW[oh]AB[ph]AW[qh]AW[rg]AW[sh]AW[mh]AW[mg]AW[qg]AW[ro]AW[po]AB[no]AB[nn]AB[rm]C[White to kill]AP[goproblems]
+(;W[sj];B[sk]
+(;W[sm];B[sl]
+(;W[sn];B[rn]
+(;W[so];B[ri]
+(;W[si]C[Well done!RIGHT])
+(;W[qn];B[si]TR[rj]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[qn];B[so]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[rn];B[sn]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[rn];B[sm]TR[pk]TR[sl]C[No. Black have two eyes now... CHOICE])
+(;W[sn];B[sm]TR[sl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[sm]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[ri];B[sm]TR[sl]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[sm];B[sj]
+(;W[rn];B[ri]
+(;W[si];B[sk]TR[rj]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[sk]TR[rj]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sk];B[si]TR[rj]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[ri];B[sl]
+(;W[rj];B[sn]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[rn];B[sn]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sn];B[rj]TR[sk]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[si];B[sl]TR[sk]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[ri]TR[rj]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[rn];B[sl]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sn];B[sm]
+(;W[sk];B[sj]TR[sl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sj];B[sk]TR[sl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[rn];B[sl]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[sk]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE]))
+(;W[sk];B[sj]
+(;W[sm];B[sl]TR[sk]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[sm]TR[sl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[rn];B[sl]TR[sk]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[si];B[sl]TR[rl]TR[sk]TR[pk]C[CHOICE]))
+(;W[si];B[sl]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sl];B[sm]
+(;W[sj];B[sk]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sk];B[sj]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[rn];B[sk]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE])
+(;W[sn]))
+(;W[ri];B[sl]TR[rl]TR[pk]C[No. Black have two eyes now... CHOICE]))

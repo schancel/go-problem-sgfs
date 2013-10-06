@@ -1,0 +1,27 @@
+(;GE[life and death]DI[10k]DP[51]SO[llel]CO[6]AB[ar]AB[cp]AB[cq]AB[dq]AW[bo]AW[co]AW[dp]AW[eo]AW[eq]AW[er]C[B to live (Hint: make use of A)]LB[ar:A]AP[goproblems]
+(;B[bp];W[bs]C[B dead])
+(;B[dr];W[bp]
+(;B[br];W[cs]C[B dead])
+(;B[bq];W[bs]
+(;B[br];W[cs];B[ds]C[B dead])
+(;B[cs];W[br])))
+(;B[bq];W[bs])
+(;B[br];W[ds]C[B dead])
+(;B[cr];W[bs];B[cs];W[ap]C[B dead])
+(;B[bs]C[Brilliant tesuji!]
+(;W[dr]C[CHOICE];B[cr];W[bp];B[bq]C[B alive :DRIGHT])
+(;W[cr]C[CHOICE];B[dr];W[ds]
+(;B[cs];W[bq]
+(;B[br];W[bp]
+(;B[es]C[RIGHT])
+(;B[cr]C[:(]))
+(;B[es];W[br];B[bp]C[RIGHT]))
+(;B[br];W[bq];B[cs];W[bp]
+(;B[es]C[RIGHT])
+(;B[cr]))))
+(;B[ds];W[bs];B[br];W[cs];B[dr];W[ap])
+(;B[cs];W[bs]
+(;B[br];W[dr]
+(;B[cr];W[ap])
+(;B[bp];W[cr]))
+(;B[cr];W[bp])))

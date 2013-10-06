@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[2k]DP[22]SO[santa c]CO[8]AB[sl]AB[rl]AB[ql]AB[qk]AB[pm]AB[pn]AB[oo]AB[no]AB[pp]AB[qp]AB[ro]AB[so]AB[sp]AW[rp]AW[rq]AW[sq]AW[qq]AW[pq]AB[oq]AW[or]AW[nr]AB[nq]AW[on]AW[om]AW[pl]AW[pk]AW[qj]AW[rj]AW[rk]AW[sk]AW[pj]AW[nm]C[W to reduce B a bit]AP[goproblems]
+(;W[qm]
+(;B[sm]
+(;W[rm];B[sn]
+(;W[qo]C[Ouch! Well done! ;)RIGHT])
+(;W[qn];B[po]C[:(]))
+(;W[qo];B[qn]C[:(])
+(;W[qn];B[po]C[:(])
+(;W[rn];B[qn]C[:(])
+(;W[sn];B[rn]C[:(]))
+(;B[sn];W[rm];B[sm])
+(;B[rm];W[qn]TR[po]TR[rn]C[RIGHT])
+(;B[qn];W[rm]C[RIGHT])
+(;B[rn];W[rm]C[RIGHT]))
+(;W[qn];B[qm]C[:(])
+(;W[qo];B[qn]C[:(])
+(;W[rn];B[qn]C[:(])
+(;W[rm];B[qm]C[:(]))

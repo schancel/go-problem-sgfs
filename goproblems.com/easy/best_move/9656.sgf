@@ -1,0 +1,24 @@
+(;GE[best move]DI[4k]DP[30]SO[JiroMaru]CO[7]AB[sp]AB[qp]AB[pp]AB[oq]AB[or]AB[ns]AB[on]AB[pn]AB[qn]AB[no]AB[mo]AB[lp]AB[lq]AB[kr]AB[ls]AW[kq]AW[kp]AW[jr]AW[lo]AW[mn]AW[ko]AW[nn]AW[oo]AW[os]AW[ps]AW[pr]AW[pq]AW[qq]AW[rq]AB[rp]AW[rs]AW[sr]AB[sq]AW[iq]LB[os:1]LB[ns:2]AW[mr]AB[nr]LB[mr:3]LB[nr:4]C[Reduce black territory as much as possible.]AP[goproblems]
+(;W[np];B[mq]
+(;W[nq];B[op];W[mp];B[lr]C[This is the Best result.RIGHT]MA[ks]MA[po]MA[js]MA[no]MA[ms])
+(;W[mp]C[RIGHT];B[op];W[nq];B[lr]C[This is the Best result.RIGHT]MA[no]MA[po]MA[js]MA[ks]MA[ms])
+(;W[op];B[mp]C[White can't cut.]TR[mr]TR[np]TR[op]TR[oo]))
+(;W[mp];B[np]
+(;W[mq];B[lr]C[sometimes, connect is not a good idea. White dies.]TR[mr]TR[mq]TR[mp]TR[oo])
+(;W[lr];B[mq];W[ks];B[ms]TR[lr]TR[mr]C[It look like white didn't invade at all. White can do better.]TR[oo]))
+(;W[op];B[mq];W[ms]
+(;B[lr]))
+(;W[mq];B[lr]
+(;W[mp];B[np]TR[mr]TR[mq]TR[mp]TR[oo])
+(;W[np];B[mp]TR[mr]TR[mq]TR[np]TR[oo])
+(;W[op];B[np]TR[mr]TR[mq]TR[op]TR[oo])
+(;W[ms];B[np]TR[ms]TR[mr]TR[mq]TR[oo])
+(;W[nq];B[np]))
+(;W[nq];B[np]
+(;W[lr];B[mq];W[ks];B[ms]TR[lr]TR[mr]C[It look like white didn't invade at all. White can do better.]TR[oo])
+(;W[mq];B[lr]C[sometimes, connect is not a good idea. White dies.]TR[mr]TR[mq]TR[nq]TR[oo]))
+(;W[lr];B[np]
+(;W[mq];B[mp];W[ks];B[ms]MA[op]MA[kr]MA[nq]C[Very Impressive but white can do better.])
+(;W[ks];B[mq]LB[ms:a]C[FORCE];W[ms]C[Not enough. White can do better.]))
+(;W[ms];B[mq]TR[mr]TR[ms]TR[oo])
+(;W[ks];B[lr]TR[mr]TR[oo]))

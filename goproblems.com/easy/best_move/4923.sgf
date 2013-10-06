@@ -1,0 +1,16 @@
+(;GE[best move]DI[4k]DP[30]SO[munisai79]CO[8]AB[oc]AB[nc]AB[nf]AB[lf]AB[mg]AB[mh]AB[mi]AB[kh]AB[hh]AB[gh]AB[eh]AB[ef]AB[ee]AB[ed]AB[gd]AB[gc]AB[hc]AB[hb]AB[ic]AB[jd]AB[kc]AB[kb]AW[jc]AW[jb]AW[ib]AW[ia]AW[ha]AW[gb]AW[fb]AW[fc]AW[fd]AW[ec]AW[gi]AW[hi]AW[dc]AW[dd]AW[kj]AW[mj]AW[ni]AW[nj]AW[nh]AW[ng]AW[of]AW[pf]AW[id]TR[id]C[White has just played the triangled stone.  Correct defense?]AW[pc]AW[qc]AB[pb]AP[goproblems]
+(;B[ie];W[ge];B[hd];W[he];B[id];W[fe]C[White has gotten into the center.])
+(;B[kd];W[ge])
+(;B[he];W[ge];B[hd];W[je];B[kd];W[hf];B[ie];W[if];B[id];W[ih]C[White has torn apart the center.])
+(;B[je];W[ge])
+(;B[hd];W[ge];B[ie];W[he];B[id];W[fe]C[White has gotten into the center.])
+(;B[gf];W[ge])
+(;B[ge];W[je];B[kd];W[fe]
+(;B[ff];W[gf]
+(;B[ie];W[he])
+(;B[hf]C[RIGHT])
+(;B[he];W[hf]
+(;B[ie];W[if])
+(;B[if];W[ie])))
+(;B[gf];W[ff];B[fg]C[Almost!  This gives away a bit too much territory.]))
+(;B[fe];W[ge]))

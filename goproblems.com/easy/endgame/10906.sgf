@@ -1,0 +1,13 @@
+(;GE[endgame]DI[8k]DP[45]SO[zafris]CO[0]AW[lq]AW[lr]AW[kr]AW[ls]AW[jp]AW[ip]AW[hq]AW[hr]AW[ir]AW[hs]AW[gs]AB[gr]AB[fr]AB[fs]AB[gp]AB[hp]AB[io]AB[jo]AB[ko]AB[lp]AB[mp]AB[mq]AW[mr]AB[nr]AB[ns]AB[ms]AB[kq]AW[gq]AB[fq]AB[fo]C[White to save as many points as possible. Suppose sente is not important.]AP[goproblems]
+(;W[jq]
+(;B[kp]C[right.RIGHT])
+(;B[js]
+(;W[jr]C[Alive with at least 5 points.CHOICERIGHT])
+(;W[kp];B[jr]C[Seki.])))
+(;W[kp];B[jr];W[jq];B[js]C[Seki, White can get more points than this.])
+(;W[js];B[jq]
+(;W[jr];B[kp];W[iq]C[White can do better.])
+(;W[iq];B[kp];W[jr]C[White can do better.]))
+(;W[jr];B[jq]
+(;W[js];B[kp];W[iq]C[White can do better.])
+(;W[iq];B[kp];W[js]C[Just 2 points])))

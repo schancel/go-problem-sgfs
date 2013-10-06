@@ -1,0 +1,36 @@
+(;GE[life and death]DI[5k]DP[33]SO[adum]CO[9]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[cb][db][eb][fb][bd][cd][dd][ed][fd][ca]AW[bc][bb]AB[ab]AW[ba][ad][ae][be][ce][de][ee][fe][ge][gd][gc]AE[gb]AW[hb][ic]AB[fa]PL[W]C[white to rob black of all lifeness]
+(;W[cc]CR[cc]
+;B[dc]CR[dc]
+(;W[fc]CR[fc]
+;B[ac]CR[ac]
+;W[aa]CR[aa]
+;B[ac]CR[ac]
+;W[ab]CR[ab]
+;B[ac]CR[ac]
+(;W[bc]CR[bc]C[RIGHT
+])
+(;W[ab]CR[ab]
+;B[bc]CR[bc]))
+(;W[ac]CR[ac]
+;B[fc]CR[fc]))
+(;W[fc]CR[fc]
+;B[cc]CR[cc]
+(;W[ec]CR[ec]
+;B[ac]CR[ac]
+;W[aa]CR[aa]
+;B[ac]CR[ac]
+;W[ab]CR[ab]
+;B[ac]CR[ac])
+(;W[ac]CR[ac]
+;B[ec]CR[ec]))
+(;W[ac]CR[ac]
+;B[cc]CR[cc]
+;W[fc]CR[fc]
+;B[ec]CR[ec])
+(;W[aa]CR[aa]
+;B[cc]CR[cc])
+(;W[dc]CR[dc]
+;B[cc]CR[cc])
+(;W[ec]CR[ec]
+;B[fc]CR[fc]))

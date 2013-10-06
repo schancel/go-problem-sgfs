@@ -1,0 +1,21 @@
+(;GE[best move]DI[5k]DP[33]SO[DarkSycthe]CO[0]AB[np]AB[qq]AB[pp]AW[pq]AB[po]AW[op]AW[oo]AW[pr]AW[rr]AB[qr]AB[rq]AB[qo]AB[on]AW[no]AB[nn]AW[nq]AW[mn]AB[mm]AB[lm]AW[ln]AW[km]AW[ll]AB[kl]AW[pn]AB[pm]AB[rp]LB[ll:1]C[Black to respond to White 1]AP[goproblems]
+(;B[mo]
+(;W[mp]C[CHOICE];B[kn];W[lo];B[jm]C[RIGHT])
+(;W[nm];B[oq];W[ml]C[Black will be happy to take the lower side in sente.RIGHT]))
+(;B[kn];W[nm]
+(;B[jm];W[om]C[Black catches one stone but loses two stones and Black's wall in the process.])
+(;B[om];W[ml]))
+(;B[nm];W[jm]C[Not too bad but you could do better.])
+(;B[ml];W[jm]C[Not too bad but you could do better.])
+(;B[oq];W[mp]
+(;B[or];W[nm])
+(;B[nm];W[jl]C[Lower two stones are not that important.]))
+(;B[jm];W[nm]
+(;B[kn])
+(;B[om];W[ml]))
+(;B[jl];W[nm])
+(;B[lk];W[nm])
+(;B[kk];W[nm])
+(;B[mp];W[mo])
+(;B[nl];W[jm]C[Not too bad but you could do better.])
+(;B[qn];W[jm]C[Not too bad but you could do better. Note the aji around the o7 area too.]))

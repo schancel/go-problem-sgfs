@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[6k]DP[36]SO[mafutrct]CO[0]C[Is there anything really big black can do here? Hint: Black is komaster.]AW[rb]AB[rc]AB[rd]AB[qd]AW[qc]AW[pc]AW[pd]AW[ob]AB[nb]AB[nc]AB[oc]AB[od]AB[lc]AW[nd]AB[pe]AB[pf]AW[qe]AW[re]AW[qg]AP[goproblems]
+(;B[qb];W[pb]
+(;B[ra]
+(;W[sb]C[]
+(;B[pa]C[Good job!RIGHT])
+(;B[qa];W[sd]))
+(;W[qa]C[];B[sb]C[Good job!CHOICERIGHT]))
+(;B[qa];W[ra]C[Black fails.])
+(;B[sb];W[ra]C[Black is 1 lib short - White wins!]))
+(;B[pb];W[qb];B[oa]C[Black gets nothing and white gets sente.])
+(;B[oa];W[pb]C[Not good enough.])
+(;B[pa];W[sd]C[Not good enough.])
+(;B[qa];W[sd]C[Not good enough.]))

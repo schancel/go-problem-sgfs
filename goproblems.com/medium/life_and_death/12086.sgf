@@ -1,0 +1,15 @@
+(;GE[life and death]DI[3k]DP[27]SO[MeleeNewb]CO[0]AW[bn]AW[cp]AW[co]AW[bq]AW[br]AB[cr]AB[cq]AB[dp]AB[do]AB[cn]AB[cm]AB[fp]AB[gq]AB[bm]AW[bo]AB[bk]C[Can black kill white unconditionally? Y for Yes, N for No.FORCE]LB[em:Y]LB[fm:N]AP[goproblems]
+(;B[em];W[fm]C[Prove it. (Warning: I have not provided any variations for pointless forcing moves.)]
+(;B[ap];W[aq]
+(;B[bs];W[dq];B[dr];W[eq];B[er];W[cs]
+(;B[as];W[ar];B[bs]C[Good job!RIGHT])
+(;B[ds];W[as]
+(;B[ar]C[Ko.])
+(;B[fq];W[cs]C[Ko.])
+(;B[cs];W[fr]C[Ko.])))
+(;B[an]C[NOTTHISRIGHT]))
+(;B[bs];W[ap]
+(;B[an];W[ar])
+(;B[ar];W[an]))
+(;B[an];W[ap];B[bs];W[ar]))
+(;B[fm]C[There is a way.]))

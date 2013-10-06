@@ -1,0 +1,61 @@
+(;GE[life and death]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[2];
+AW[lp][mp][np][op][jq][lq][pq][qq][rq][kr][nr][rr][rs]
+AB[mq][nq][oq][lr][mr][pr][qr][ns]C[white: kill this puppy
+]
+(;W[or];B[os]
+(;W[or];B[nr]
+(;W[qs];B[ps];W[ls]C[RIGHT
+nice one
+])
+
+(;W[ls];B[qs])
+
+(;W[ps];B[qs])
+)
+
+(;W[qs];B[ls]
+(;W[or];B[ps])
+
+(;W[ps];B[or])
+)
+
+(;W[ps];B[qs])
+
+(;W[ls];B[qs])
+)
+
+(;W[os];B[or]
+(;W[qs];B[ps])
+
+(;W[ls];B[ps])
+
+(;W[ps];B[qs])
+)
+
+(;W[qs];B[or]
+(;W[ps];B[ls])
+
+(;W[ls];B[ps])
+)
+
+(;W[ps];B[or]
+(;W[qs];B[ls])
+
+(;W[ls];B[qs])
+)
+
+(;W[ls];B[or]
+(;W[ps];B[qs])
+
+(;W[qs];B[ps])
+)
+
+(;W[ms];B[or])
+
+)

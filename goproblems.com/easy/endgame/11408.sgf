@@ -1,0 +1,18 @@
+(;GE[endgame]DI[10k]DP[53]SO[sinse33]CO[0]AW[sr]AW[rr]AW[rs]AW[rq]AW[qq]AW[pq]AW[pp]AW[po]AW[pn]AW[qn]AB[sq]AB[sp]AB[rp]AB[qp]AB[qo]AB[rn]AB[pm]AB[qm]AB[ql]AB[qk]C[Yose, best move for white]AP[goproblems]
+(;W[so]
+(;B[ro]C[CHOICE];W[rm];B[sn]
+(;W[sm];B[rl];W[so]C[Correct !RIGHT])
+(;W[rl];B[rk]
+(;W[sl];B[sk])
+(;W[sm];B[sl])
+(;W[sk];B[sl];W[sm];B[sl])))
+(;B[rm]C[CHOICE];W[ro];B[sn]C[Correct !RIGHT]))
+(;W[ro];B[so];W[rm];B[sm];W[rl];B[rk])
+(;W[sn];B[sm]
+(;W[ro];B[so])
+(;W[sl];B[so])
+(;W[so];B[ro]))
+(;W[rm];B[so]
+(;W[sn];B[sm])
+(;W[rl];B[rk];W[sn];B[sm]))
+(;W[sm];B[rm];W[so];B[ro]))

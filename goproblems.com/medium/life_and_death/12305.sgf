@@ -1,0 +1,29 @@
+(;GE[life and death]DI[2d]DP[12]SO[santa c]CO[0]AB[sr]AB[sq]AB[sp]AB[pr]AB[pq]AB[pp]AW[or]AW[oq]AW[op]AW[pn]AW[qn]AW[rn]AW[sn]AW[so]AW[oo]AB[os]AW[nr]AW[ms]C[Short on threats, eh? Or just right?]AW[mr]AP[goproblems]
+(;W[rp];B[rq]
+(;W[rs];B[qp]
+(;W[qr];B[ro]
+(;W[qo];B[ps]
+(;W[rr];B[qs];W[rp]C[ko for seki, nice!RIGHT])
+(;W[qs];B[rr];W[rp]C[ko for seki, nice!RIGHT])
+(;W[rp];B[qs];W[rr];B[ro]))
+(;W[qs];B[ps]
+(;W[qo])
+(;W[rr];B[qo]))
+(;W[rr];B[qo]LB[ps:1]LB[qs:2])
+(;W[ps];B[qs]))
+(;W[qs];B[ps];W[qr];B[ro];W[qo]))
+(;W[qp];B[rs])
+(;W[qr];B[rs])
+(;W[qs];B[rs]))
+(;W[rs];B[rp]C[]
+(;W[qr];B[ps];W[rr];B[qo]C[seki])
+(;W[rr];B[qo])
+(;W[qs];B[ps])
+(;W[qq];B[qr])
+(;W[qo];B[rr]))
+(;W[qs];B[rs])
+(;W[rr];B[rs])
+(;W[qr];B[rs])
+(;W[rq];B[rp])
+(;W[qq];B[qp])
+(;W[qp];B[rs]))

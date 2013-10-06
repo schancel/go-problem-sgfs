@@ -1,0 +1,63 @@
+(
+;GE[tesuji]DI[3d]DP[10]SO[gecko]CO[6]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AW[dc][ed][fc][gc][ic]
+AB[ce][ee][fd][gd][hd]
+TR[ic]
+C[Whites has just played the triangled move. Does it leave any kind of weakness?]
+GN[temp]
+(
+;
+B[dd]
+;
+W[ec]
+;
+B[cc]
+;
+W[cb]
+;
+B[bb]
+;
+W[bc]
+;
+B[cd]
+(
+;
+W[db]
+C[RIGHT this slow connection is the price white has to pay for jumping too early.]
+)
+(
+;
+W[ba]
+;
+B[hc]
+;
+W[hb]
+;
+B[ib]
+C[RIGHT if white captures in the corner black can cut on the side]
+)
+)
+(
+;
+B[hc]
+;
+W[hb]
+;
+B[gb]
+;
+W[ib]
+;
+B[cc]
+;
+W[cb]
+;
+B[bc]
+;
+W[bb]
+C[black doesn't achieve much by cutting early]
+)
+)

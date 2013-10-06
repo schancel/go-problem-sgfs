@@ -1,0 +1,40 @@
+(;GE[life and death]DI[7k]DP[43]SO[Athanatos]CO[1]AB[ps]AB[pr]AB[qq]AB[rr]AB[rp]AW[rn]AB[ro]AW[rs]AW[or]AW[op]AW[pq]AW[qp]AW[qo]AW[qn]AW[so]C[White to kill]AP[goproblems]
+(;W[os];B[qr]
+(;W[sq]
+(;B[sr]
+(;W[sp];B[rq];W[sn]C[RIGHT])
+(;W[sn];B[rq];W[sp]C[RIGHT]))
+(;B[rq]
+(;W[sp]C[RIGHT])
+(;W[sr]C[RIGHT])
+(;W[sn];B[sp];W[sr];B[ss];W[sr]C[Black is going to be killed in a bent four.RIGHT])))
+(;W[sp];B[sq]
+(;W[sr];B[ss]C[Only ko])
+(;W[rq];B[rp];W[ss]C[RIGHT])
+(;W[ss];B[sn]))
+(;W[sr];B[sq];W[sn];B[ss]C[Ko])
+(;W[ss];B[sq];W[sn];B[sp]))
+(;W[sp];B[sq]
+(;W[rq];B[rp]
+(;W[ss];B[qs])
+(;W[qs];B[ss];W[sr]C[Ko])
+(;W[sr];B[ss]C[ko])
+(;W[os];B[ss];W[sr]C[ko])))
+(;W[sq]
+(;B[rq]
+(;W[sp];B[sr]
+(;W[os];B[sn];W[qr]C[RIGHT])
+(;W[sn];B[qs]))
+(;W[sn]
+(;B[sp];W[os];B[qr];W[sr];B[ss];W[sr]C[Black is going to be killed in a bent four.RIGHT])
+(;B[sr];W[os]
+(;B[qr];W[sp]C[RIGHT])
+(;B[sp];W[qr]C[RIGHT])))
+(;W[sr];B[qs];W[sp];B[ss];W[sn]C[RIGHT])
+(;W[os]C[RIGHT]))
+(;B[sr]
+(;W[os];B[qr]
+(;W[sp];B[rq];W[sn]C[RIGHT])
+(;W[sn];B[rq];W[sp]C[RIGHT]))
+(;W[sn])
+(;W[qs];B[rq]))))

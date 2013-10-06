@@ -1,0 +1,17 @@
+(;GE[endgame]DI[4d]DP[8]SO[Field Mouse]CO[0]AB[lc]AB[oc]AB[qc]AB[rc]AB[sc]AW[sd]AW[rd]AW[qd]AW[pd]AW[od]AW[nd]AW[md]AW[ld]AW[kd]AB[nc]AB[lb]AW[kc]AW[kb]AB[pa]AW[pc]AB[pb]C[White to play. There is one small 1pt ko somewhere on the board - points are the priority, but the ability to win a ko is also good.]AP[goproblems]
+(;W[nb];B[ob]
+(;W[mc]
+(;B[na];W[mb];B[ra];W[ma];B[oa]C[Thanks to MeleeNewb this is not correct solution anymore! (see the comments)CHOICE])
+(;B[mb];W[na];B[oa];W[qb];B[ma];W[rb]C[Black cannot play this.]))
+(;W[ra];B[qb];W[mc];B[mb]))
+(;W[mc];B[nb];W[mb];B[ma];W[la];B[na]C[You can do better.])
+(;W[mb];B[mc];W[la];B[na];W[ma];B[nb];W[ka]C[You could do much better.])
+(;W[qb];B[rb];W[nb];B[ob];W[mc];B[na];W[mb];B[qa];W[ma];B[oa]C[The R18 move was bad - now you have only one ko threat.])
+(;W[la];B[mb];W[na];B[nb];W[ma];B[ra]C[You could do better.])
+(;W[na];B[mb];W[la])
+(;W[ra]
+(;B[rb];W[nb];B[ob];W[mc]
+(;B[na];W[mb];B[qa];W[ma]
+(;B[sa]C[Good - now you will surely win one of the two kos on the board! No threats needed after all :-)CHOICERIGHT])
+(;B[ne]C[Of course black could connect the ko elsewhere now, but P19 is too big ko threat so white cannot lose that ko.RIGHT])))
+(;B[qb];W[na]C[Problem.RIGHT])))

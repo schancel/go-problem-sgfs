@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[5k]DP[35]SO[marwin]CO[8]AB[rp]AB[qp]AB[qo]AB[qn]AB[rn]AW[rq]AW[qq]AW[rr]AB[qr]AB[pq]AB[pr]AW[pp]AW[po]AW[pn]AW[qm]AW[rm]AW[rl]AB[ql]AB[pm]AB[om]AW[oq]AB[or]AB[nq]AW[no]AW[nn]AB[nm]AW[so]AW[qk]C[This problem is for beginners, but even 2d opponent made mistake here.]AP[goproblems]
+(;B[sp]C[No tricks needed :)RIGHT]
+(;W[rs]
+(;B[qs]
+(;W[sn]
+(;B[sq]C[RIGHT])
+(;B[sr]C[RIGHT])
+(;B[ss];W[sr]))
+(;W[sq]
+(;B[sr]C[RIGHT])
+(;B[ss]C[RIGHT])))
+(;B[sq];W[sn]
+(;B[qs]C[RIGHT])
+(;B[sr]C[RIGHT])
+(;B[ss];W[sr]))
+(;B[sr]C[RIGHT])
+(;B[ss];W[sr]
+(;B[qs];W[sn])
+(;B[sn];W[sm];B[qs])))
+(;W[sq];B[rs]C[RIGHT])
+(;W[sr];B[rs];W[sn];B[qs];W[sm];B[ss];W[ro];B[sq]C[RIGHT])
+(;W[ss];B[sq];W[sn];B[qs];W[sm];B[rs]C[RIGHT])
+(;W[sn];B[rs]
+(;W[sq];B[sr]C[RIGHT])
+(;W[ro];B[sm]C[RIGHT])
+(;W[sr])))
+(;B[sn];W[sm];B[sq];W[sp];B[ro];W[sp];B[so]C[Died in gote.])
+(;B[ro]C[Died in gote.])
+(;B[rs];W[sp];B[sr];W[sq];B[sn];W[ss]C[KO :(])
+(;B[sq];W[sp];B[sn];W[sr])
+(;B[sr];W[sp];B[rs])
+(;B[sm];W[sn];B[sp];W[sq]))

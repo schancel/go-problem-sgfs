@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[44]SO[blind0ne]CO[0]AW[cp]AW[dp]AW[ep]AW[eq]AW[fq]AB[dq]AB[cq]AB[cn]TR[cq]TR[dq]C[What is the best way to rescue the marked stones?]AP[goproblems]
+(;B[bp];W[bo]
+(;B[bq];W[co];B[er];W[fr]
+(;B[ds]C[Well Done !!!RIGHT])
+(;B[dr]C[RIGHT])))
+(;B[er];W[bq];B[br]
+(;W[ar]
+(;B[cs];W[fr];B[fs];W[dr];B[es]C[CHOICE])))
+(;B[dr];W[bq];B[br];W[ar];B[bs];W[er];B[es];W[fs]C[CHOICE])
+(;B[fp];W[bq];B[er];W[cr]C[CHOICE])
+(;B[bq];W[bp]
+(;B[aq];W[ap]C[CHOICE])
+(;B[er]C[See in the Comments the variation that makes you living !!!CHOICERIGHT];W[fr]
+(;B[ds]
+(;W[fs];B[bs];W[cr];B[br];W[dr]C[RIGHT])))))

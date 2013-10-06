@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[2k]DP[22]SO[song17]CO[7]AB[rn]AB[ro]AB[rp]AB[rq]AB[rr]AB[qr]AB[pn]AB[qm]AB[ql]AB[pl]AB[ol]AB[no]AB[np]AW[nl]AW[ml]AW[ll]AW[om]AW[pm]AW[qn]AW[qo]AW[qp]AW[qq]AW[pr]AW[or]AW[nq]AW[mq]AW[mp]AW[mo]AW[mn]AP[goproblems]
+(;B[pq];W[pp]
+(;B[nm];W[on];B[nn]
+(;W[oo];B[op]C[RIGHT])
+(;W[po];B[oo]C[RIGHT]))
+(;B[op];W[oq]
+(;B[nm];W[on];B[nn];W[po]TR[oo]C[Can't atari...])
+(;B[po];W[pq];B[nm];W[on]C[now what?...])))
+(;B[po];W[pp]
+(;B[nm];W[on]
+(;B[nn];W[oo])
+(;B[oo];W[nn]))
+(;B[op];W[pq];B[nm];W[on]))
+(;B[nm];W[on]
+(;B[nn];W[oo];B[op];W[po];B[pq];W[mm])
+(;B[pq];W[oo])
+(;B[oo];W[nn]))
+(;B[op];W[pq])
+(;B[on];W[nm];B[pq];W[pp]C[nothing]))

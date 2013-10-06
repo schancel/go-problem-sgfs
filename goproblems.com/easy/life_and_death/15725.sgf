@@ -1,0 +1,36 @@
+(;GE[life and death]DI[5k]DP[35]SO[BartTM]CO[0]AB[la]AB[lb]AB[kc]AB[kd]AB[ld]AB[md]AB[nd]AB[nc]AB[oc]AW[ka]AW[kb]AW[jb]AW[jc]AW[jd]AW[ke]AW[jf]AW[me]AW[ne]AW[od]AW[pd]AW[pc]AW[pb]AB[nb]TR[nb]AW[lc]C[Actually there are 2 ways to kill Black.]AP[goproblems]
+(;W[mc]
+(;B[oa]
+(;W[ob]C[One eye.CHOICERIGHT]MA[mb]MA[na])
+(;W[mb];B[ma]
+(;W[mc];B[ob])
+(;W[ob];B[mc]))
+(;W[ma];B[mb])
+(;W[na];B[ob])
+(;W[pa];B[ob]))
+(;B[ob];W[oa]C[RIGHT])
+(;B[mb];W[na]C[RIGHT]))
+(;W[mb];B[mc]
+(;W[na];B[oa])
+(;W[ma];B[na])
+(;W[oa];B[na])
+(;W[ob];B[na]))
+(;W[ma];B[mb]
+(;W[na];B[oa])
+(;W[oa];B[na])
+(;W[ob];B[na]))
+(;W[na]
+(;B[oa]
+(;W[ob];B[mc]
+(;W[ma]C[A false eye. If Black takes you can throw in at O19.RIGHT])
+(;W[pa];B[ma]))
+(;W[mb];B[mc])
+(;W[mc])
+(;W[ma];B[mb])
+(;W[pa];B[ob]))
+(;B[ob];W[oa]C[RIGHT])
+(;B[mc];W[ma]C[RIGHT]))
+(;W[oa];B[na])
+(;W[ob];B[na])
+(;W[le];B[mc])
+(;W[pa];B[na]))

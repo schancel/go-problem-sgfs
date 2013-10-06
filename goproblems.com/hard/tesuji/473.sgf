@@ -1,0 +1,75 @@
+(;GE[tesuji]DI[4d]DP[7]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qd][oc]AW[nc]AB[od]AW[nd][ne]AB[oe]AW[nf]AB[qi]AW[qc]AB[rc]AW[ob]AB[pb]AW[nb][qb]PL[B]LB[qb:A]C[white plays at A. how should black respond?]
+(;B[pc]CR[pc]
+;W[rb]CR[rb]LB[pa:A]C[white should really play at A instead. but what's the correct response to this move?]
+(;B[ra]CR[ra]
+;W[rd]CR[rd]
+(;B[qa]CR[qa]
+;W[sc]CR[sc]
+(;B[re]CR[re]
+;W[qe]CR[qe]
+(;B[qf]CR[qf]
+(;W[pd]CR[pd]
+(;B[rf]CR[rf]C[RIGHT])
+(;B[rg]CR[rg]C[RIGHT])
+(;B[pe]CR[pe]C[RIGHT]))
+(;W[rf]CR[rf]
+;B[pe]CR[pe]
+;W[se]CR[se]
+;B[qe]CR[qe]
+;W[rg]CR[rg]
+;B[qh]CR[qh]
+;W[rh]CR[rh]
+;B[ri]CR[ri]))
+(;B[pd]CR[pd]
+;W[rf]CR[rf])
+(;B[pe]CR[pe]
+;W[qf]CR[qf]))
+(;B[qe]CR[qe]
+;W[re]CR[re]
+;B[sb]CR[sb]
+;W[sa]CR[sa]C[ko not best]))
+(;B[re]CR[re]
+;W[sc]CR[sc]
+;B[qa]CR[qa]
+;W[qe]CR[qe]
+;B[qf]CR[qf]
+;W[pd]CR[pd]
+(;B[rf]CR[rf]C[RIGHT])
+(;B[rg]CR[rg]C[RIGHT]))
+(;B[qe]CR[qe]
+;W[sc]CR[sc])
+(;B[sb]CR[sb]
+;W[sc]CR[sc]))
+(;B[sb]CR[sb]
+;W[rd]CR[rd]
+;B[sd]CR[sd]
+;W[re]CR[re]C[this ko is bad for black])
+(;B[rd]CR[rd]
+;W[pa]CR[pa]C[good for white])
+(;B[sc]CR[sc]
+;W[pa]CR[pa]C[good for white])
+(;B[pa]CR[pa]
+;W[rd]CR[rd]C[white lives])
+(;B[qa]CR[qa]
+;W[ra]CR[ra]
+;B[pa]CR[pa]
+;W[rd]CR[rd]
+(;B[re]CR[re]
+;W[sc]CR[sc])
+(;B[sc]CR[sc]
+;W[sd]CR[sd]
+;B[sb]CR[sb]
+;W[sa]CR[sa]
+;B[sc]CR[sc]
+;W[re]CR[re])))
+(;B[rb]CR[rb]
+;W[pc]CR[pc]C[too nice for white to capture a stone])
+(;B[pd]CR[pd]
+;W[pc]CR[pc]C[too nice for white to capture a stone])
+(;B[rd]CR[rd]
+;W[pc]CR[pc]C[too nice for white to capture a stone])
+(;B[qa]CR[qa]
+;W[pc]CR[pc]C[too nice for white to capture a stone])
+(;B[pa]CR[pa]
+;W[pc]CR[pc]C[those stones are dead deady dead dead]))

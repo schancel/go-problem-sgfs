@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[4k]DP[29]SO[Dudzik]CO[5]SZ[19]AW[ba]AW[bb]AW[gb]AW[hb]AW[ib]AW[jb]AW[lb]AW[nb]AW[bc]AW[hc]AW[kc]AW[mc]AW[nc]AW[ad]AW[ed]AW[ld]AW[be]AW[ce]AW[de]AW[fe]AW[ge]AW[he]AW[if]AW[mf]AW[dg]AW[ig]AW[lg]AW[mg]AW[pg]AW[ch]AW[ih]AW[mh]AW[nh]AW[oh]AW[ph]AW[ii]AW[li]AW[qi]AW[aj]AW[bj]AW[ej]AW[mj]AW[qj]AW[bk]AW[ck]AW[dk]AW[fk]AW[gk]AW[hk]AW[kk]AW[qk]AW[rk]AW[dl]AW[gl]AW[pl]AW[ql]AW[rl]AW[cm]AW[dm]AW[qm]AW[sm]AW[nn]AW[rn]AW[lo]AW[mo]AW[po]AW[gp]AW[kp]AW[np]AW[op]AW[pp]AW[fq]AW[iq]AW[oq]AW[nr]AB[cb]AB[fb]AB[mb]AB[cc]AB[dc]AB[ec]AB[gc]AB[ic]AB[jc]AB[pc]AB[bd]AB[cd]AB[fd]AB[gd]AB[hd]AB[id]AB[kd]AB[md]AB[pd]AB[ie]AB[ke]AB[me]AB[ne]AB[hf]AB[jf]AB[kf]AB[lf]AB[nf]AB[qf]AB[cg]AB[hg]AB[qg]AB[kh]AB[lh]AB[mi]AB[ni]AB[oi]AB[ri]AB[nj]AB[pj]AB[rj]AB[ak]AB[ek]AB[ik]AB[ok]AB[pk]AB[sk]AB[al]AB[bl]AB[cl]AB[el]AB[fl]AB[hl]AB[ol]AB[em]AB[gm]AB[nm]AB[pm]AB[cn]AB[dn]AB[fn]AB[gn]AB[on]AB[pn]AB[qn]AB[fo]AB[qo]AB[ro]AB[dp]AB[mp]AB[rp]AB[mq]AB[nq]AB[pq]AB[qq]AB[dr]AB[jr]AB[mr]AB[or]TR[kh]C[Black is looking to end the game quickly.  Can you stop him?]AB[rh]AW[qh]AB[pi]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black];W[kg];B[jg];W[jh];B[ki];W[lj];B[jj]
+(;W[ji];B[kj]
+(;W[il];B[lk];W[mk];B[jl]C[Black escapes.])
+(;W[ij];B[jk]
+(;W[il];B[jl]TR[lk]TR[im]C[Miai.])
+(;W[hm];B[lk];W[mk];B[kl]TR[hj]TR[ml]C[Miai.])
+(;W[im];B[hj]))
+(;W[jk];B[ij]
+(;W[il];B[hj]C[Uh-oh.])
+(;W[hj];B[il];W[hm];B[hi])))
+(;W[kj];B[ji]
+(;W[il];B[jl]
+(;W[jk]C[RIGHT])
+(;W[im];B[jk]LB[hi:A]C[Black threatens 'A', so white is in trouble.])
+(;W[hm];B[jk]LB[hi:A]C[Black threatens 'A', so white is in trouble.]))
+(;W[jk];B[ij];W[il];B[hj]C[Whoops.])
+(;W[ij];B[jk]
+(;W[il];B[jl]
+(;W[im];B[jm]LB[ll:A]LB[jn:B]C[Black is threatening 'A'.  The hane at 'B' does not work.])
+(;W[hm];B[jm]LB[hj:F]LB[hl:E]LB[im:D]LB[lm:A]LB[hn:B]LB[in:C]C[If white saves his stones at 'A', the sequence to 'F' will follow.]))
+(;W[hm];B[jl]
+(;W[il];B[jm]LB[hj:F]LB[hl:E]LB[im:D]LB[lm:A]LB[hn:B]LB[in:C]C[If white saves his stones at 'A', the sequence to 'F' will follow.])
+(;W[kl];B[jm];W[il];B[hn];W[in];B[im];W[hl];B[jn];W[io];B[hj])
+(;W[im];B[km]))
+(;W[im];B[jl]
+(;W[il];B[jm]LB[ll:A]LB[jn:B]C[Black is threatening 'A'.  The hane at 'B' does not work.])
+(;W[hm];B[jm]TR[ll]TR[in]C[Miai.])
+(;W[jm];B[kl];W[ll];B[mk];W[lk];B[lm])
+(;W[kl];B[jm]
+(;W[hm];B[in])
+(;W[in];B[hm];W[il];B[jn];W[io];B[hj])
+(;W[il];B[in])
+(;W[km];B[hm])))))
+(;W[il];B[jl]
+(;W[im];B[jk]C[White is in trouble.])
+(;W[ji];B[kj];W[jk]C[RIGHT])
+(;W[kj];B[ji]
+(;W[ij];B[jk]C[White is in trouble.])
+(;W[jk]C[RIGHT]))
+(;W[jk]C[RIGHT])
+(;W[ij];B[jk]C[White is in trouble.])))

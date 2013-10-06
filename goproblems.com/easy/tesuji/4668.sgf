@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[20k]DP[74]SO[adum]CO[7]AB[pg]AB[ph]AB[oi]AW[qg]AW[qh]AW[qi]AW[og]AW[nh]AW[pf]AW[pe]AW[qe]AW[pd]AB[qf]AB[rf]AB[re]AB[qd]AB[qc]AW[oj]AW[ok]AB[nj]AB[nk]AB[ng]AB[mg]AB[mh]AB[mi]AB[ne]AB[nd]AB[nb]AW[ol]TR[pf]TR[qg]C[connect the marked stones]AP[goproblems]
+(;W[pi]
+(;B[oh];W[ni]C[CHOICERIGHT])
+(;B[ni];W[oh]C[CHOICERIGHT]))
+(;W[oh];B[pi]
+(;W[ni];B[of])
+(;W[of];B[ni]))
+(;W[ni];B[oh])
+(;W[of];B[oh])
+(;W[pj];B[oh])
+(;W[nf];B[oh])
+(;W[rg];B[oh]))

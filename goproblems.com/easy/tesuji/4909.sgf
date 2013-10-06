@@ -1,0 +1,40 @@
+(;GE[tesuji]DI[7k]DP[42]SO[MrMoto]CO[7]AW[dq]AW[dr]AW[fq]AW[fr]AB[gr]AB[gq]AB[fp]AB[ep]AB[dp]AB[go]AB[hp]AW[fo]AW[fn]AW[fm]AW[fl]AW[el]AW[gm]AW[ho]AW[hn]AB[hm]AB[hl]AB[gk]AB[fk]AB[ek]AB[dl]AB[em]AB[en]AB[eo]AB[cq]AW[cp]AW[bp]AB[co]AB[bo]AW[bq]AW[im]AW[il]AW[jk]AW[kk]AW[kn]AW[lm]AW[ll]AW[dk]AW[ck]AB[cl]AB[ip]AB[jp]AB[ko]AW[lo]AB[lp]AB[ik]AB[hk]AB[jj]AB[ij]AW[lj]AB[kj]AW[dj]AW[bj]AB[ej]AW[mo]AW[mp]AB[lq]AP[goproblems]
+(;B[gn];W[gp])
+(;B[gl]
+(;W[in];B[gn]C[You need more than this.])
+(;W[gn]C[black is hoping for this];B[in];W[gp];B[io]))
+(;B[jn];W[in]
+(;B[jm];W[jl])
+(;B[jl];W[jm])
+(;B[km];W[ln];B[jl]
+(;W[kl];B[gl];W[gn])
+(;W[jm]C[black is hoping for this];B[gl]))
+(;B[kl];W[jl]
+(;B[gl];W[gn])
+(;B[jm];W[km]))
+(;B[io];W[jm])
+(;B[gl];W[gn]
+(;B[jm];W[jl])
+(;B[jl];W[jm])
+(;B[km];W[ln];B[jl];W[kl])
+(;B[kl];W[jl])
+(;B[io];W[jm])))
+(;B[io];W[in])
+(;B[jl];W[jn])
+(;B[jm];W[jn])
+(;B[kl];W[jn])
+(;B[km];W[jn])
+(;B[in];W[io]
+(;B[gl];W[jo]
+(;B[gn];W[kp])
+(;B[jm];W[kp])
+(;B[jl];W[kp])
+(;B[kp];W[jn])
+(;B[jn];W[kp]))
+(;B[jo];W[jn])
+(;B[jl];W[jn])
+(;B[jm];W[jn])
+(;B[jn]
+(;W[jm];B[jo]C[RIGHT])
+(;W[jo]C[white has run out of liberties];B[gn]C[RIGHT])))
+(;B[jo];W[in]))

@@ -1,0 +1,27 @@
+(;GE[endgame]DI[18k]DP[65]SO[kochi]CO[5]AB[ae]AB[be]AB[bd]AB[bc]AB[cc]AB[dc]AB[db]AB[da]AW[af]AW[bf]AW[cf]AW[df]AW[ef]AW[ff]AW[ea]AW[eb]AW[ec]AW[ed]AW[dd]AW[cd]AW[ce]AW[ga]AW[gb]AW[gc]AW[gd]AW[ge]AW[gf]AB[gg]AB[gh]AB[gi]AB[fi]AB[di]AB[ci]AB[bi]AB[ai]AB[ei]AB[ch]AB[cg]AB[dg]AB[eg]AB[fg]AB[eh]AW[bg]AW[bh]AB[ag]AW[ac]AP[goproblems]
+(;B[bb];W[ah]C[right.  a corner move was worth 8 points, a12 was worth 2.RIGHT])
+(;B[ah];W[bb]
+(;B[ba];W[ab]C[seki.  you gained 2 and lost 8.])
+(;B[cb];W[aa]
+(;B[ca]C[dead.])
+(;B[ba]C[ko])
+(;B[ad];W[ca]))
+(;B[ab];W[aa]
+(;B[ca]C[seki.])
+(;B[cb];W[ca]C[oops])
+(;B[ba];W[ca]C[oops])
+(;B[ad];W[ab]
+(;B[ba];W[ca])
+(;B[cb];W[ca])
+(;B[ca];W[ba])))
+(;B[ca]C[seki]))
+(;B[ba];W[bb]
+(;B[ab];W[aa]C[w has an advantageous ko for seki])
+(;B[aa];W[ab];B[ca])
+(;B[cb];W[ab])
+(;B[ca];W[ab]))
+(;B[ab];W[bb]
+(;B[ba];W[aa])
+(;B[ad];W[ba])
+(;B[aa];W[ba])
+(;B[cb];W[aa];B[ba];W[ca])))

@@ -1,0 +1,52 @@
+(;GE[tesuji]DI[12k]DP[58]SO[guff]CO[9]AB[jr]AB[jq]AB[kq]AB[lp]AB[lo]AB[mo]AB[no]AB[pn]AB[on]AB[qn]AB[rn]AB[op]AB[mq]AW[lq]AW[lr]AW[kr]AW[mp]AW[np]AW[nq]AW[oo]AW[po]AW[qo]AW[ro]AW[pp]AW[qq]AP[goproblems]
+(;B[nr]
+(;W[oq]
+(;B[mr];W[or]
+(;B[ks]C[Nice. A very large reduction.RIGHT])
+(;B[ls]C[This works. However, the hane at A is slightly better. In the case of a ko fight, black may choose to give up this capture and may lose one less stone in the process.RIGHT]LB[ks:A])
+(;B[ms]C[This works. However, the hane at A is slightly better. In the case of a ko fight, black may choose to give up this capture and may lose one less stone in the process.RIGHT]LB[ks:A]))
+(;B[ks];W[mr]
+(;B[ms];W[or]
+(;B[ns];W[os])
+(;B[ls];W[ns])
+(;B[os];W[ps]))
+(;B[ls];W[ms])
+(;B[ns];W[ls]))
+(;B[ls];W[mr]
+(;B[ms];W[ks])
+(;B[ks];W[ms]))
+(;B[ms];W[mr]
+(;B[ks];W[or])
+(;B[ls];W[ks])
+(;B[js];W[ks])))
+(;W[mr]C[If White captures the lower stone that only increases the loss...];B[oq];W[mq]
+(;B[or]C[Punishment for White's mistake.RIGHT])
+(;B[pr]C[Possible too.RIGHT])
+(;B[os])))
+(;B[oq];W[nr];B[or];W[mr]C[Nope.])
+(;B[mr];W[nr]
+(;B[ks];W[ms])
+(;B[ms];W[ns]
+(;B[ks];W[ls])
+(;B[ls];W[ks])))
+(;B[ks];W[mr]
+(;B[nr];W[or]
+(;B[ns];W[os]
+(;B[ls];W[ms])
+(;B[ms];W[ls])
+(;B[oq];W[ms]))
+(;B[oq];W[ns]))
+(;B[oq];W[or]))
+(;B[or];W[nr];B[oq];W[mr])
+(;B[so];W[mr]
+(;B[sp];W[rr];B[sr];W[rq];B[sq];W[rp]C[Okay. Now find something bigger.])
+(;B[sq];W[rr];B[sr];W[rp];B[sp];W[rq]C[Okay. Now find something bigger.])
+(;B[rp];W[sq];B[rq];W[rr]
+(;B[sn];W[sr];B[sp];W[qr]
+(;B[qp];W[oq])
+(;B[pq];W[qp]))
+(;B[sp];W[sr]
+(;B[pq];W[oq]
+(;B[qr];W[pr])
+(;B[qp];W[pr]))
+(;B[qr];W[pr];B[oq];W[or])))))

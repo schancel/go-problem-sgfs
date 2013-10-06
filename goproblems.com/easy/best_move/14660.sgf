@@ -1,0 +1,26 @@
+(;GE[best move]DI[8k]DP[45]SO[psblue]CO[0]AB[pd]AW[dd]AB[qp]AW[dq]AB[oq]AW[qj]AB[do]AW[co]AB[dp]AW[cp]AB[eq]AW[cn]LB[cq:A]LB[dr:B]C[Play A if you believe you can capture the white D3 stone or B if you cannot.FORCE]AP[goproblems]
+(;B[dr];W[cq]C[Defend at F4.FORCE];B[fp]C[Well done ! Black's thickness works well with the keima in the lower-right corner, while white still needs a move on the left side.RIGHT])
+(;B[cq];W[dr]
+(;B[cr];W[er]
+(;B[fq];W[fr];B[gr];W[br]C[This move is tesuji for white. Moreover, a cut at G3 is dangerous for black.]
+(;B[ds];W[bq]C[End of the line. Black should have played B.])
+(;B[bs];W[bq]C[End of the line. Black should have played B.])
+(;B[cs];W[bq]C[End of the line. Black should have played B.])
+(;B[bq];W[cs]
+(;B[ar];W[bs]
+(;B[aq];W[bp]C[End of the line. Black should have played B.])
+(;B[bp];W[bo]
+(;B[aq];W[ao]C[End of the line. Black should have played B.])
+(;B[ao];W[aq];B[ap];W[an]C[End of the line. Black should have played B.])
+(;B[ds];W[es]
+(;B[gs];W[ap]C[End of the line. Black should have played B.])
+(;B[aq];W[ao]C[End of the line. Black should have played B.]))
+(;B[fs];W[ap]C[End of the line. Black should have played B.]))
+(;B[ap];W[bp]C[End of the line. Black should have played B.])
+(;B[fs];W[bp]C[End of the line. Black should have played B.])
+(;B[ds];W[es]
+(;B[gs];W[bp]C[End of the line. Black should have played B.])
+(;B[bp];W[bo])))
+(;B[bp];W[bo];B[ar];W[bs])))
+(;B[fr];W[fq]C[Wrong ! Black stones are all split appart.]))
+(;B[bq];W[cr];B[br];W[er];B[fq];W[fr];B[gr];W[bs]C[White wins the capturing race. Moreover, black has a bad aji at G3.])))

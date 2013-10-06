@@ -1,0 +1,15 @@
+(;GE[endgame]DI[1d]DP[17]SO[Field Mouse]CO[0]AB[lb]AB[mc]AB[od]AB[qb]AB[pc]AW[qd]AW[rb]AW[pe]AW[oe]AW[ne]AW[me]AW[le]C[And the best endgame, sente is not important, is:]AW[sb]AW[rc]AW[rd]AW[qe]AB[sd]AB[sc]AW[rf]AB[se]AW[qg]AW[sg]AW[sh]AW[rh]AW[qh]AB[si]AB[ri]AB[qi]AB[pi]AB[ph]AB[pg]AB[pf]AB[of]AB[nf]AB[mf]AB[lf]AB[kf]AB[ke]AB[kd]AB[ld]AW[qf]AW[qa]AP[goproblems]
+(;B[pb]
+(;W[ob]
+(;B[oa]C[Good, white had no real tesuji here!CHOICERIGHT])
+(;B[pa];W[oc];B[nc];W[pd]
+(;B[nd];W[oa])
+(;B[nb];W[nd];B[oa];W[od];B[ra]C[Actually, this is one point worse than the simple solution]))
+(;B[oc];W[pa]C[White succeeds with his trick]))
+(;W[nd];B[nc];W[pa];B[oa];W[ra]C[Optimal sequenceRIGHT]))
+(;B[ob];W[pa];B[oa];W[nd];B[nc];W[pd]C[One point worse than the solution])
+(;B[pa];W[ob]
+(;B[pb];W[oc])
+(;B[oc];W[pb];B[ra];W[nb]
+(;B[nc];W[qc]C[Bad])
+(;B[qc];W[nc];B[nd];W[md]))))

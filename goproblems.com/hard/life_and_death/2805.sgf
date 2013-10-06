@@ -1,0 +1,18 @@
+(;GE[life and death]DI[4d]DP[8]SO[JoeSeki]CO[9]AW[rr][qr][rq][os][or][oq][op][pp][qo][ro][qn][qm][pl]AB[ps][pr][pq][qq][qp][rp][so][rn][rm][ql][qk]C[Black to Live and kill White]SZ[19]
+
+(;B[sp]
+(;W[qs]
+(;B[rs];W[ss];B[sq]C[RIGHT])
+(;B[sq];W[sr];B[sn];W[rl])
+(;B[sr];W[ss]C[Ko, you can do better])
+(;B[sn];W[sq];B[rl];W[ss]))
+(;W[sq]C[CHOICE]
+(;B[sr];W[ss];B[qs]C[RIGHT])
+(;B[qs];W[rs];B[sn];W[rl])
+(;B[rs];W[ss]C[Ko, you can do better])
+(;B[sn];W[qs];B[rl];W[ss])))
+(;B[sq];W[qs];B[sp];W[sr];B[sn];W[rl])
+(;B[qs];W[rs];B[sp];W[sq];B[sn];W[rl])
+(;B[sr];W[qs];B[sp];W[ss]C[Ko, You can do better])
+(;B[rs];W[sq];B[qs];W[ss]C[Ko, you can do better.])
+(;B[ss];W[qs];B[sp];W[sq];B[sn];W[rl]))

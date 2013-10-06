@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[41]SO[BigMetalGuy]CO[7]SZ[13]AW[cb]AW[db]AW[hb]AW[bc]AW[gc]AW[hc]AW[bd]AW[fd]AW[be]AW[ee]AW[cf]AB[fa]AB[bb]AB[eb]AB[gb]AB[cc]AB[ec]AB[fc]AB[cd]AB[dd]TR[cb]TR[db]C[Black to play and live. (Black has to capture the two White stones to live.)]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]
+(;B[ba];W[ab]
+(;B[da]C[ White cannot win the race.RIGHT])
+(;B[ca];W[da])
+(;B[dc]C[RIGHT]))
+(;B[ab];W[ba];B[da];W[ac])
+(;B[ca];W[ab]
+(;B[da];W[ba]LB[ea:A]C[ False eye at A.])
+(;B[ba];W[da]TR[ba]TR[ca]TR[bb]C[ Marked stones in atari. Black dies.]))
+(;B[da];W[ba]
+(;B[ca];W[ab]LB[ea:A]C[ False eye at A.])
+(;B[dc];W[ab]LB[ea:A]C[ False eye at A.])
+(;B[ab];W[ac];B[ca]
+(;W[ea])
+(;W[aa]LB[ea:A]C[ False eye at A.]))))

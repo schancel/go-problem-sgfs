@@ -1,0 +1,34 @@
+(;GE[life and death]DI[20k]DP[71]SO[iatheia]CO[0]SZ[10]AW[ib]AW[hb]AW[hc]AW[hd]AB[gb]AB[gc]AB[gd]AB[fd]AB[eb]AW[ec]AW[ed]AB[ee]AB[de]AB[cd]AW[fe]AW[ge]C[White to play]AP[goproblems]
+(;W[fb];B[fa]
+(;W[db]
+(;B[dd]C[This is how black played in the game];W[ea]C[RIGHT])
+(;B[dc];W[ea]C[RIGHT])
+(;B[fc]C[CHOICE]
+(;W[da];B[dc])
+(;W[dc]
+(;B[da]C[CHOICE]
+(;W[ca];B[cb]
+(;W[ea];B[ba]
+(;W[ha];B[da];W[ga]C[RIGHT])
+(;W[ga];B[ha])
+(;W[fb];B[da];W[ga]C[RIGHT]))
+(;W[ga];B[ha])
+(;W[ha];B[cc]
+(;W[ea];B[ba])
+(;W[ba])))
+(;W[ga];B[ha]))
+(;B[cb];W[da]C[RIGHT]))
+(;W[ea];B[da])
+(;W[ga];B[ha])))
+(;W[fc];B[dc];W[ga]C[RIGHT])
+(;W[dc];B[db]
+(;W[cc];B[bc];W[cb];B[ca])
+(;W[fc];B[ga];W[ha];B[ea];W[cb]C[RIGHT]))
+(;W[ha]
+(;B[fc];W[ga];B[fb];W[db]C[RIGHT])
+(;B[dc];W[ga];B[dd];W[fc]C[RIGHT]))
+(;W[ga];B[ha];W[fc]C[RIGHT]))
+(;W[fc];B[fb])
+(;W[ga];B[fb])
+(;W[db];B[dc];W[fb];B[fa])
+(;W[dc];B[db];W[fb]C[RIGHT]))

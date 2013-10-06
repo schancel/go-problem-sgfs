@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[10k]DP[51]SO[KenPruitt]CO[0]AW[ob]AW[pb]AW[qc]AW[rc]AW[rd]AB[pc]AB[pd]AB[qd]AB[pe]AB[pf]AB[pg]AB[qh]AB[qi]AB[qj]AB[qk]AB[rk]AW[qf]AW[qg]AW[rh]AW[rj]AW[ri]C[Taken from Tesuji by James Davies. Feel free to flag and add variations. B to cut and kill.]AP[goproblems];B[re]C[]
+(;W[rf]
+(;B[se];W[qe];B[sf];W[rg]C[Doesn't work. B is dead.CHOICE])
+(;B[qe];W[se];B[sg];W[sf]C[Doesn't work. W lives with points.CHOICE])
+(;B[sf];W[sg];B[se]TR[qe]C[W can't play at R15, or else he'll self atari. S13 is a false eye. W is cut and dead.RIGHT]))
+(;W[se]
+(;B[sf];W[qe];B[rg]C[W is cut and dead. If W takes the S15 stone, he's in perfect position for snapback. RIGHT])
+(;B[rf];W[rg]LB[qe:A]LB[sf:B]C[A and B are miai now. If B takes one, W will take the other.]
+(;B[sf];W[qe]C[W lives with points, and B is dead.CHOICE])
+(;B[qe];W[sf]C[W is alive and connected with points.CHOICE]))))

@@ -1,0 +1,9 @@
+(;GE[elementary]DI[12k]DP[57]SO[Asplenium]CO[0]AB[ad]AB[ae]AB[af]AB[bf]AB[bg]AB[cf]AB[df]AB[eg]AB[ef]AB[ee]AB[ed]AB[fd]AB[cd]AB[gf]AB[hf]AB[dh]AB[di]AB[dj]AB[ei]AB[fi]AB[gj]AB[dl]AB[cl]AB[bk]AB[jd]AB[ld]AB[le]AB[md]AW[ac]AW[bd]AW[cc]AW[dd]AW[ec]AW[fc]AW[gc]AW[ge]AW[fe]AW[ff]AW[fg]AW[fh]AW[eh]AW[gh]AW[cg]AW[dg]AW[ag]AW[bh]AW[bi]AW[ch]AW[ci]AW[cj]AW[aj]AW[ck]AW[dk]AW[ek]AB[mf]AB[ne]AB[nc]AB[nb]AB[ng]AB[mh]AW[nf]AW[of]AW[pf]AW[nd]AW[od]AW[pd]AW[oc]AW[ph]AW[ok]C[Black to connect the marked stones!]TR[ad]TR[ae]TR[af]TR[bf]TR[bg]TR[cf]TR[df]TR[eg]TR[ef]TR[ee]TR[ed]TR[fd]AP[goproblems];B[gd];W[hd]
+(;B[he]
+(;W[ic]
+(;B[id];W[hc];B[hh]C[Right, the seven white stones can't escapeCHOICERIGHT]TR[fe]TR[ge]TR[ff]TR[fg]TR[eh]TR[fh]TR[gh])
+(;B[hh]C[Right, the seven white stones can't escapeRIGHT]TR[eh]TR[fh]TR[gh]TR[fg]TR[ff]TR[fe]TR[ge]))
+(;W[ih];B[hc];W[ic];B[id]MA[hd]C[Right, black is connected.CHOICERIGHT])
+(;W[hc];B[hh]C[Right, the seven white stones can't escapeCHOICERIGHT]TR[ge]TR[fe]TR[ff]TR[fg]TR[eh]TR[fh]TR[gh]))
+(;B[hh];W[he];B[hc];W[ic]TR[hc]C[Wrong, H17 is captured and the black group is enclosed.])
+(;B[hc];W[he];B[ic];W[ih]C[Wrong, the black stones are not connected]))

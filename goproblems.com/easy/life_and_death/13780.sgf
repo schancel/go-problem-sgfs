@@ -1,0 +1,16 @@
+(;GE[life and death]DI[4k]DP[31]SO[crumb]CO[0]AB[bq]AB[cr]AB[cs]AW[bp]AW[cp]AW[cq]AW[dq]AW[dr]AW[ap]AW[bo]AW[an]AW[er]AW[es]AB[am]AB[bm]AB[bn]AB[cn]AB[co]AB[dp]AB[do]AB[ep]AB[eq]AB[fq]AB[ar]AW[fr]AW[gs]AB[gr]AB[gq]AB[hr]AB[hs]C[Place a stone on the text to the question: 'Does white have a chance to live?' then follow instructions.FORCE]LB[fm:Yes]LB[hm:No]AP[goproblems]
+(;W[hm]C[Correct, I hope you know why ^.^RIGHT])
+(;W[fm];B[gm]C[Prove it]
+(;W[br];B[bs]
+(;W[aq];B[br]C[Flower six, dead shape, only one big eye!])
+(;W[ds];B[aq]C[Two eyes inside, white is dead]))
+(;W[aq];B[br]
+(;W[bs];B[fs]C[Death in double ko])
+(;W[as];B[bs]C[Flower six, dead shape, only one big eye!]))
+(;W[bs];B[br]
+(;W[ds];B[fs]C[Death in double ko])
+(;W[aq];B[fs]C[Death in double ko]))
+(;W[as];B[bs]
+(;W[aq];B[br]C[Flower six, dead shape, only one big eye!])
+(;W[ds];B[aq]C[Two eyes inside, white is dead]))
+(;W[ds];B[bs];W[aq];B[br]C[Flower six, dead shape, only one big eye!])))

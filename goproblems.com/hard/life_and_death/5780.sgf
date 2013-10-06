@@ -1,0 +1,49 @@
+(;GE[life and death]DI[4d]DP[8]SO[mrmoto]CO[7]AB[ao]AB[bo]AB[co]AB[do]AB[ep]AB[er]AB[es]AB[eq]AB[cr]AW[ds]AW[dr]AW[cp]AW[bp]AW[ar]AW[dp]AP[goproblems]
+(;W[ap];B[dq])
+(;W[br];B[dq])
+(;W[cq];B[bs])
+(;W[bs];B[dq])
+(;W[dq];B[br]
+(;W[bs];B[ap]
+(;W[aq];B[bq])
+(;W[bq];B[aq]
+(;W[as];B[cs])
+(;W[cs];B[as]C[ko, black takes first]))
+(;W[cs];B[bq]))
+(;W[bq];B[ap]
+(;W[aq];B[cs]
+(;W[as]C[Death in gote!  :O])
+(;W[bs];B[as]C[ko, black takes first]))
+(;W[bs];B[aq]
+(;W[as];B[cs])
+(;W[cs];B[as]C[ko, black takes first]))
+(;W[cs];B[aq];W[bs];B[as]C[ko, black takes first]))
+(;W[aq];B[ap]
+(;W[bq];B[cs]
+(;W[as]C[Death in gote!  :O])
+(;W[bs];B[as]C[ko, black takes first]))
+(;W[cq];B[bs])
+(;W[as];B[bs])
+(;W[bs];B[bq])
+(;W[cs];B[bq]))
+(;W[cq];B[aq])
+(;W[cs];B[bq])
+(;W[as];B[bq])
+(;W[ap];B[bq]
+(;W[cq];B[bs])
+(;W[cs];B[bs])
+(;W[bs];B[aq]
+(;W[as];B[cs])
+(;W[cq];B[cs])
+(;W[cs];B[as]C[ko, black takes first]))
+(;W[as];B[cs])
+(;W[aq]
+(;B[bs]C[play P if you would like to pass.CHOICE]LB[fn:P]
+(;W[cs];B[cq]C[:(])
+(;W[cq];B[cs]C[:(])
+(;W[as]C[Death in gote!  :O])
+(;W[fn]C[seki. :)RIGHT]))
+(;B[cs]C[play P if you would like to pass.CHOICE]LB[fn:P]
+(;W[bs];B[as]C[ko, black takes first.])
+(;W[as]C[Death in gote!  :O])
+(;W[fn];B[as];W[bs]C[ko, white takes first. :)RIGHT]))))))

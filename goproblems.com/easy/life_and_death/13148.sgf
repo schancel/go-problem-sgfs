@@ -1,0 +1,25 @@
+(;GE[life and death]DI[8k]DP[48]SO[yani]CO[0]AB[cg]AB[dg]AB[eh]AB[fg]AB[gg]AW[eg]AW[ef]AW[ff]AW[df]AW[de]AW[fe]AW[cd]AW[ed]AW[ec]AB[ck]AW[mn]AB[lo]AB[io]AB[hl]AB[jd]AB[lb]AB[nc]AB[pd]AB[qc]AB[rb]AW[rc]AW[rd]AW[qf]AW[of]AW[jb]AW[hc]AB[qh]AW[rr]AW[qr]AW[oq]AW[mr]AB[lr]AB[lq]AB[mp]AB[qp]AB[rq]AB[ro]AW[oo]AW[po]AW[qo]AW[on]AB[pn]AB[qn]AB[om]AB[ol]AW[mk]AW[nm]AB[dq]AB[ds]AB[er]AB[eq]AB[cr]AW[br]AW[bq]AW[cq]AB[cp]AW[dp]AW[do]AW[co]AB[gp]AW[fo]AW[hn]AW[fm]AB[fl]C[Choose 'a' if the ladder is good for White,  'b' if it does not work, or 'c' if it just needs a ladder breaker there.FORCE]LB[fh:a]LB[oj:b]AB[di]LB[im:c]AP[goproblems]
+(;W[fh]
+(;B[fi]
+(;W[gh];B[hh];W[gi];B[gj];W[hi];B[ii];W[hj];B[hk];W[ij];B[jj];W[ik];B[jk]C[Black uses the H8 stone to derail the ladder..]MA[hl];W[il];B[im];W[jl];B[kl];W[jm];B[jn];W[km];B[lm];W[kn];B[ln]C[And again..]MA[jn];W[ko];B[kp];W[jo]C[The ladder was bad for White, despite the N6  ladder breaker!]MA[mn])))
+(;W[oj]C[Well done, the ladder is bad for White.RIGHT])
+(;W[im];B[oj]C[The ladder breaker is in place, now you can play at 'a' to prove it was necessary.FORCE]LB[fh:a];W[fh];B[gi]
+(;W[gh];B[hh])
+(;W[fi];B[fj]
+(;W[ei];B[dh]
+(;W[ej];B[ek]
+(;W[dj];B[cj]
+(;W[dk];B[dl])
+(;W[gh];B[hh])
+(;W[gj];B[gh];W[fk];B[dk];W[fj];B[hj];W[gk];B[gl]))
+(;W[gh];B[hh])
+(;W[gj];B[gh]
+(;W[fk];B[dj];W[fj];B[hj];W[gk];B[gl])
+(;W[dj];B[cj];W[fk])))
+(;W[gh];B[hh]))
+(;W[gh];B[hh]))
+(;W[ei];B[dh]
+(;W[fi];B[fj]
+(;W[gh])
+(;W[ej]))
+(;W[gh];B[hh]))))

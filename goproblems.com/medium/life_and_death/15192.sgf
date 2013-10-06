@@ -1,0 +1,44 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[0]AB[bp]AB[cp]AB[dq]AB[dr]AB[ds]AW[bq]AW[cr]AW[fr]AW[fq]AW[cn]AW[bn]AW[eo]AB[ep]AW[fp]C[what can w do?]AP[goproblems]
+(;W[ar]
+(;B[bs]
+(;W[ap];B[ao]
+(;W[bo];B[aq]
+(;W[br]C[nice, dead shape inside thanks to bA3! :)RIGHT])
+(;W[an];B[ap];W[br]C[nice, dead shape inside thanks to bA3! :)RIGHT]))
+(;W[aq];B[bo])
+(;W[br];B[bo]))
+(;W[br];B[ap]C[cannot force a dead shape])
+(;W[aq];B[ap]C[cannot force a dead shape]))
+(;B[ap];W[bs]C[dead shape insideRIGHT]))
+(;W[aq];B[ar]
+(;W[br];B[ap])
+(;W[ap]
+(;B[ao]
+(;W[br];B[bo]C[CHOICE])
+(;W[bo];B[br]))
+(;B[br]
+(;W[bs];B[ao];W[as];B[cq];W[bo];B[cs];W[an];B[br]C[CHOICE])
+(;W[ao];B[cq]))))
+(;W[bs];B[ar]
+(;W[aq];B[ap])
+(;W[ap]
+(;B[br];W[aq]C[CHOICE])
+(;B[ao]
+(;W[aq];B[bo]C[CHOICE])
+(;W[bo];B[aq])))
+(;W[br];B[ap]C[cannot force a dead shape])
+(;W[ao];B[ap]C[cannot force a dead shape]))
+(;W[br]
+(;B[ap]C[cannot force a dead shape]MA[bs]MA[ar])
+(;B[ar]
+(;W[ap];B[ao])
+(;W[aq];B[ap])))
+(;W[ap];B[ar]
+(;W[aq])
+(;W[ao];B[br])
+(;W[br];B[ao]))
+(;W[ao];B[ar]
+(;W[ap];B[br])
+(;W[aq];B[ap])
+(;W[br];B[ap]C[cannot force a dead shape]))
+(;W[cq];B[ar]))

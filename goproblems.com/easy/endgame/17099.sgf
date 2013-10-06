@@ -1,0 +1,10 @@
+(;GE[endgame]DI[15k]DP[62]SO[1234boys]CO[0]SZ[4]AB[da]AB[db]AB[dd]AB[ad]AB[ac]AB[ab]AB[aa]AW[ba]AW[ca]AW[bc]AB[dc]AP[goproblems]
+(;B[cb];W[bb]C[Black dead!])
+(;B[cc]
+(;W[bb]C[Black dead!])
+(;W[bd];B[bb];W[cb]C[Black dead!]))
+(;B[cd]
+(;W[bd]C[Black dead!])
+(;W[bb];B[bd];W[cb];B[cc];W[bb];B[ba];W[cb];B[ca];W[bc]C[White seen capture all!]))
+(;B[bd];W[cb];B[cc];W[cd]C[Black dead!])
+(;B[bb];W[cb];B[cc]AB[dc]C[RIGHT]))

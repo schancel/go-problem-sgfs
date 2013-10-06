@@ -1,0 +1,22 @@
+(;GE[best move]DI[5k]DP[35]SO[patrickelo23]CO[0]AB[dp]AW[cn]AB[dj]AW[fp]AB[eo]AW[cq]AB[cp]AW[dq]AB[ep]AW[eq]AW[bp]AB[bo]AW[bq]AB[co]AB[fo]AW[gp]AB[go]AW[hp]AW[ho]AB[hn]AB[hm]AW[in]AW[im]AW[hl]AW[ch]TR[hl]AB[io]AB[jo]AB[ko]AW[kn]AW[lm]AB[lo]LB[fm:S]LB[il:C]LB[gn:A]C[Play S (Shape) if you think w can cut at A, play C (Cut) if not.FORCE]AW[ei]AP[goproblems]
+(;B[il]
+(;W[gn]
+(;B[gm];W[fn]
+(;B[fm];W[en]
+(;B[dn];W[em]
+(;B[el];W[dm]
+(;B[cm];W[dl]
+(;B[cl];W[dk]
+(;B[ek];W[ck]
+(;B[bk];W[cj];B[ci];W[bj]
+(;B[bi]C[RIGHT])
+(;B[aj];W[bi]))
+(;B[cj];W[bk]))
+(;B[ck];W[ek]))
+(;B[dk];W[cl]))
+(;B[dl];W[cm]))
+(;B[dm];W[el];B[gl];W[gk];B[hk];W[fl];B[hl];W[ej]C[]))
+(;B[dm];W[dn];B[bn];W[cm]))
+(;B[en];W[fm];B[gl];W[fl];B[gk];W[fk];B[fj];W[gj];B[hk];W[ej];B[fi];W[ek]C[]))
+(;B[fn];W[gm]C[])))
+(;B[fm]C[The Cut was possible. Go ahead and read again :-)]))

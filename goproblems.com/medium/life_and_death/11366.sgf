@@ -1,0 +1,33 @@
+(;GE[life and death]DI[3k]DP[26]SO[MeleeNewb]CO[0]AB[sp]AB[rp]AB[rq]AB[qr]AB[sr]AB[qs]AW[ps]AW[pr]AW[qq]AW[so]AW[ro]AB[qo]AW[qp]AW[oq]AW[qn]AW[pn]AW[on]AB[om]AB[pm]AB[qm]AB[rl]AB[mm]AW[mn]AW[ln]AB[nl]AB[ok]AW[pk]AW[oh]AW[ph]AW[qh]AW[si]AW[ri]AW[nh]AW[kl]AW[mk]AW[mj]AB[dd]AB[cf]AW[jd]AB[pd]AB[nc]AB[ng]AB[og]AB[pg]AB[qg]AW[mg]AW[mf]AB[dp]AW[fq]AW[jp]AB[dj]AB[hc]AB[lc]AB[cn]AB[hj]AW[fo]AB[dr]AB[rh]AW[md]AB[mc]AW[jh]AB[hh]AW[dl]AB[cl]AW[dk]AB[ck]AW[dm]AB[cm]AW[do]AB[co]AW[dn]AW[gk]AW[jj]AB[hk]AB[hq]AW[ep]AB[cp]AB[fr]AW[gr]AB[er]AW[gq]AW[rg]AB[rf]AB[rd]AB[nd]AW[hd]C[After a difficult fight over the marked stones, white believes them dead and plays elsewhere. Is he correct? (T)enuki if he is.]LB[gd:T]TR[rl]TR[qm]TR[pm]TR[om]TR[nl]TR[ok]TR[mm]AW[hl]AW[il]AB[ej]AB[gj]AW[ne]AB[db]AP[goproblems]
+(;B[rn];W[po]C[So you think you can live, huh? Avoid unnecessary moves.];B[sn];W[qo]
+(;B[qk];W[pj]
+(;B[pl];W[rk]
+(;B[sk];W[rj];B[nk]C[Looks like white should have been practicing his tsumego ;)RIGHT])
+(;B[rj];W[sk]
+(;B[sl];W[sj];B[nk]C[Looks like white should have been practicing his tsumego ;)RIGHT])
+(;B[nk];W[sl]))
+(;B[nk];W[sl];B[rj];W[sk]C[So very close.]))
+(;B[rj];W[pl]
+(;B[sj];W[ql]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[sk];W[sm];B[rm];W[qj]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[sl];W[ql]
+(;B[rm];W[qj]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[sj];W[rm]C[Goodbye, black stones. Parting is such sweet sorrow.]))
+(;B[ql];W[sk];B[sj];W[sl];B[rk];W[sm];B[rm];W[sl]C[Goodbye, black stones. Parting is such sweet sorrow.])))
+(;B[pj];W[qk];B[qj];W[rk];B[rj];W[sj]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[rk];W[qk]C[]
+(;B[pl];W[nk]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[ql];W[pl]C[Goodbye, black stones. Parting is such sweet sorrow.]))
+(;B[pl];W[qk]
+(;B[rk])
+(;B[ql];W[rk]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[nk];W[rk]
+(;B[ql];W[sl]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[sl];W[rm];B[sm];W[ql]C[Goodbye, black stones. Parting is such sweet sorrow.]))))
+(;B[qk]C[];W[rm]C[So you think you can live, huh? Avoid unnecessary moves.]
+(;B[pj];W[pl]C[In the land of the two-eyed, the one-eye group is dead.])
+(;B[pl];W[pj]C[In the land of the two-eyed, the one-eye group is dead.]))
+(;B[pl]C[];W[rn]C[So you think you can live, huh? Avoid unnecessary moves.]
+(;B[pj];W[qk];B[qj];W[rk];B[rj];W[sj]C[Goodbye, black stones. Parting is such sweet sorrow.])
+(;B[qk];W[pj]C[Goodbye, black stones. Parting is such sweet sorrow.]))
+(;B[gd];W[qk]C[Given the chance, white notices he wasn't done with your group. He quickly returns to finish the job.]))

@@ -1,0 +1,305 @@
+(;GE[life and death]DI[1d]DP[17]SO[atak]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+AW[gj][hj][ij][jj][kj][lj][gk][gl][hl][il][ll][gm]AB[fi][gi][hi][ii][ji][ki][li][fj][mj][fk][hk][mk][fl][ml][fm][hm][im][jm][lm]C[Black to kill.]
+(;B[jl]CR[jl]
+;W[kl]CR[kl]
+(;B[jk]CR[jk]
+(;W[km]CR[km]
+(;B[lk]CR[lk]C[RIGHT CHOICE])
+(;B[kk]CR[kk]C[RIGHT CHOICE])
+(;B[mm]CR[mm]
+;W[lk]CR[lk]C[White lives.])
+(;B[mi]CR[mi]
+;W[lk]CR[lk]C[White lives.]))
+(;W[ik]CR[ik]
+(;B[km]CR[km]C[RIGHT CHOICE])
+(;B[kk]CR[kk]
+;W[lk]CR[lk]C[White lives.])
+(;B[lk]CR[lk]
+;W[kk]CR[kk]C[White lives.])
+(;B[mm]CR[mm]
+;W[km]CR[km]C[White lives.])
+(;B[mi]CR[mi]
+;W[km]CR[km]C[White lives.])))
+(;B[kk]CR[kk]
+;W[lk]CR[lk]
+(;B[km]CR[km]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[jk]CR[jk]C[White lives.])
+(;B[mi]CR[mi]
+;W[km]CR[km]C[White lives.])
+(;B[mm]CR[mm]
+;W[km]CR[km]C[White lives.]))
+(;B[lk]CR[lk]
+;W[jk]CR[jk]C[White lives.])
+(;B[km]CR[km]
+;W[jk]CR[jk]C[White lives.])
+(;B[mm]CR[mm]
+;W[km]CR[km]
+(;B[jk]CR[jk]
+;W[lk]CR[lk]C[White lives.])
+(;B[lk]CR[lk]
+;W[kk]CR[kk]C[White lives.])
+(;B[kk]CR[kk]
+;W[lk]CR[lk]C[White lives.])
+(;B[ik]CR[ik]
+;W[lk]CR[lk]C[White lives.]))
+(;B[mi]CR[mi]
+;W[km]CR[km]
+(;B[jk]CR[jk]
+;W[lk]CR[lk]C[White lives.])
+(;B[kk]CR[kk]
+;W[lk]CR[lk]C[White lives.])
+(;B[lk]CR[lk]
+;W[kk]CR[kk]C[White lives.])
+(;B[ik]CR[ik]
+;W[lk]CR[lk]C[White lives.])))
+(;B[kl]CR[kl]
+;W[jl]CR[jl]
+(;B[km]CR[km]
+;W[kk]CR[kk]
+(;B[lk]CR[lk]
+;W[ik]CR[ik]C[White lives.])
+(;B[mm]CR[mm]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[mm]CR[mm]C[Oops]))
+(;B[lk]CR[lk]
+;W[km]CR[km]
+(;B[jm]CR[jm]
+;W[im]CR[im]C[White lives.])
+(;B[jk]CR[jk]
+;W[kk]CR[kk]C[White lives.]))
+(;B[kk]CR[kk]
+;W[km]CR[km]
+(;B[ik]CR[ik]
+;W[lk]CR[lk]
+;B[jm]CR[jm]
+;W[im]CR[im]C[White lives.])
+(;B[jm]CR[jm]
+;W[im]CR[im]C[White lives.]))
+(;B[jk]CR[jk]
+;W[km]CR[km]
+(;B[jm]CR[jm]
+;W[lk]CR[lk]
+(;B[kk]CR[kk]
+;W[im]CR[im]C[White lives.])
+(;B[im]CR[im]
+;W[ik]CR[ik]C[White lives.]))
+(;B[lk]CR[lk]
+;W[kk]CR[kk]C[White lives.])))
+(;B[lk]CR[lk]
+;W[kl]CR[kl]
+(;B[kk]CR[kk]
+;W[jl]CR[jl]
+(;B[jk]CR[jk]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[jk]CR[jk]C[White lives.])
+(;B[km]CR[km]
+;W[mm]CR[mm]C[Oops])
+(;B[mm]CR[mm]
+;W[km]CR[km]C[White lives.]))
+(;B[km]CR[km]
+;W[jl]CR[jl]
+(;B[jk]CR[jk]
+;W[mm]CR[mm]C[Oops])
+(;B[kk]CR[kk]
+;W[mm]CR[mm]C[Oops])
+(;B[ik]CR[ik]
+;W[mm]CR[mm]C[Oops])
+(;B[mm]CR[mm]
+;W[kk]CR[kk]
+(;B[mi]CR[mi]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[mi]CR[mi]C[Oops])
+(;B[jk]CR[jk]
+;W[mi]CR[mi]C[Oops]))
+(;B[mi]CR[mi]
+;W[mm]CR[mm]))
+(;B[jl]CR[jl]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[kk]CR[kk]
+(;B[ik]CR[ik]
+;W[jl]CR[jl]C[White lives.])
+(;B[jl]CR[jl]
+;W[ik]CR[ik]C[White lives.])
+(;B[km]CR[km]
+;W[ik]CR[ik]C[White lives.])
+(;B[mm]CR[mm]
+;W[km]CR[km]C[White lives.])
+(;B[mi]CR[mi]
+;W[km]CR[km]C[White lives.]))
+(;B[ik]CR[ik]
+;W[jl]CR[jl])
+(;B[mm]CR[mm]
+;W[km]CR[km]
+(;B[kk]CR[kk]
+;W[jl]CR[jl]C[White lives.])
+(;B[jl]CR[jl]
+;W[kk]CR[kk]C[White lives.])
+(;B[jk]CR[jk]
+;W[kk]CR[kk]C[White lives.]))
+(;B[mi]CR[mi]
+;W[km]CR[km]
+(;B[jl]CR[jl]
+;W[kk]CR[kk]C[White lives.])
+(;B[kk]CR[kk]
+;W[jl]CR[jl]C[White lives.])))
+(;B[kk]CR[kk]
+;W[kl]CR[kl]
+(;B[lk]CR[lk]
+;W[jl]CR[jl])
+(;B[jl]CR[jl]
+;W[lk]CR[lk]
+(;B[jk]CR[jk]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[jk]CR[jk]C[White lives.])
+(;B[km]CR[km]
+;W[jk]CR[jk]C[White lives.]))
+(;B[jk]CR[jk]
+;W[lk]CR[lk]
+(;B[km]CR[km]
+;W[ik]CR[ik]C[White lives.])
+(;B[jl]CR[jl]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[jl]CR[jl]C[White lives.])))
+(;B[jk]CR[jk]
+;W[jl]CR[jl]
+(;B[kk]CR[kk]
+;W[lk]CR[lk]
+;B[kl]CR[kl]
+;W[km]CR[km]
+;B[jm]CR[jm]
+;W[im]CR[im])
+(;B[kl]CR[kl]
+;W[lk]CR[lk]
+(;B[kk]CR[kk]
+;W[km]CR[km]
+;B[jm]CR[jm]
+;W[im]CR[im]C[White lives.])
+(;B[km]CR[km]
+;W[ik]CR[ik]C[White lives.]))
+(;B[km]CR[km]
+;W[kl]CR[kl]
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops])
+(;B[mm]CR[mm]
+;W[ik]CR[ik]C[White lives.]))
+(;B[lk]CR[lk]
+;W[kl]CR[kl]C[White lives.]))
+(;B[km]CR[km]
+;W[kl]CR[kl]
+(;B[jl]CR[jl]
+;W[jk]CR[jk]
+(;B[mm]CR[mm]
+;W[lk]CR[lk]C[White lives.])
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops]))
+(;B[lk]CR[lk]
+;W[jl]CR[jl]
+(;B[mm]CR[mm]
+;W[kk]CR[kk]
+(;B[mi]CR[mi]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[mi]CR[mi]C[Oops]))
+(;B[kk]CR[kk]
+;W[mm]CR[mm]C[Oops])
+(;B[ik]CR[ik]
+;W[mm]CR[mm]C[Oops]))
+(;B[jk]CR[jk]
+;W[jl]CR[jl]
+(;B[mm]CR[mm]
+;W[ik]CR[ik]C[White lives.])
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops])
+(;B[ik]CR[ik]
+;W[mm]CR[mm]C[Oops])
+(;B[kk]CR[kk]
+;W[mm]CR[mm]C[Oops]))
+(;B[ik]CR[ik]
+;W[jl]CR[jl]
+(;B[mm]CR[mm]
+;W[lk]CR[lk]
+;B[mi]CR[mi]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[mm]CR[mm]C[Oops])
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops])
+(;B[kk]CR[kk]
+;W[mm]CR[mm]C[Oops]))
+(;B[kk]CR[kk]
+;W[lk]CR[lk]
+;B[jl]CR[jl]
+;W[jk]CR[jk]C[White lives.])
+(;B[mm]CR[mm]
+;W[lk]CR[lk]
+(;B[jk]CR[jk]
+;W[jl]CR[jl]
+(;B[mi]CR[mi]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[mi]CR[mi]C[Oops]))
+(;B[jl]CR[jl]
+;W[jk]CR[jk]C[White lives.]))
+(;B[mi]CR[mi]
+;W[jl]CR[jl]
+(;B[mm]CR[mm]
+;W[lk]CR[lk]C[White lives.])
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops])
+(;B[ik]CR[ik]
+;W[mm]CR[mm]C[Oops])
+(;B[jk]CR[jk]
+;W[mm]CR[mm]C[Oops])
+(;B[kk]CR[kk]
+;W[mm]CR[mm]C[Oops])))
+(;B[mm]CR[mm]
+;W[jl]CR[jl]
+;B[km]CR[km]
+;W[kl]CR[kl]
+(;B[lk]CR[lk]
+;W[kk]CR[kk]
+(;B[mi]CR[mi]
+;W[ik]CR[ik]C[White lives.])
+(;B[ik]CR[ik]
+;W[mi]CR[mi]C[Oops]))
+(;B[ik]CR[ik]
+;W[lk]CR[lk]
+(;B[mi]CR[mi]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[mi]CR[mi]C[Oops]))
+(;B[jk]CR[jk]
+;W[ik]CR[ik]C[White lives.])
+(;B[kk]CR[kk]
+;W[lk]CR[lk]C[White lives.]))
+(;B[ik]CR[ik]
+;W[kl]CR[kl]
+(;B[lk]CR[lk]
+;W[jl]CR[jl]C[White lives.])
+(;B[km]CR[km]
+;W[jl]CR[jl]
+(;B[mm]CR[mm]
+;W[lk]CR[lk]
+(;B[mi]CR[mi]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[mi]CR[mi]C[Oops]))
+(;B[lk]CR[lk]
+;W[mm]CR[mm]C[Oops]))
+(;B[jl]CR[jl]
+;W[jk]CR[jk]C[White lives.])
+(;B[jk]CR[jk]
+;W[jl]CR[jl]C[White lives.])
+(;B[kk]CR[kk]
+;W[jl]CR[jl]C[White lives.])))

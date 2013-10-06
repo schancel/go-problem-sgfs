@@ -1,0 +1,11 @@
+(;GE[endgame]DI[4k]DP[28]SO[Field Mouse]CO[8]AW[md]AW[ne]AW[ld]AW[kd]AW[ke]AW[kf]AB[nd]AB[od]AB[oe]AW[of]AW[og]AB[pf]AB[qf]AB[qd]AB[rg]AB[sg]AB[rf]AW[pg]AW[qg]AW[qh]AW[rh]AW[sh]AB[mc]AW[lc]AW[lb]AW[la]AB[mb]AB[nb]AB[ob]AB[kc]AB[kb]AB[ka]AB[jc]AB[jd]AB[je]AW[pa]AW[qb]AB[pb]AB[qc]AW[rc]AB[rd]AW[ra]AB[sb]AB[jf]AB[kh]AW[jh]AB[ig]AB[ih]AW[ji]AB[ki]AW[jj]AB[ii]AB[ij]AW[jk]C[White to play the best endgame. Sente is not important. Ko threats are not important. Rest of the board is not important.]AB[ma]AB[if]AW[oa]AB[ik]AP[goproblems]
+(;W[jg];B[me];W[nf];B[kg]
+(;W[lf]C[Yes, the key move!RIGHT])
+(;W[mf];B[lf]C[:-(]))
+(;W[kg];B[jg]C[You still need to protect so this is two points worse than the solution. To show what happens if white tenukis play at *M*]LB[pc:M];W[pc];B[me];W[nf];B[lg]
+(;W[lf];B[mf])
+(;W[mf];B[lf]C[Snapback.]))
+(;W[nf];B[jg];W[kg]C[Two points worse than the solution :-(])
+(;W[me];B[jg];W[kg]C[Two points worse than the solution :-(])
+(;W[mf];B[jg];W[kg]C[Two points worse than the solution :-(])
+(;W[lf];B[jg];W[kg]C[Two points worse than the solution :-(]))

@@ -1,0 +1,9 @@
+(;GE[life and death]DI[18k]DP[68]SO[polo]CO[7]AW[qa][rb][rc][rd][qe][pe][pb][pc][nc][nd][of][nf][mf][le][ld][lc][lb][la][pg]AB[ma][mb][mc][md][me][ne][oe][od][oc][ob][pd][qd][qc][qb]C[White to kill]SZ[19]
+
+(;W[oa];B[pa];W[pb]C[RIGHT])
+(;W[pa];B[oa]
+(;W[ra];B[nb]C[Black is alive])
+(;W[nb];B[ra]C[Black is alive]))
+(;W[ra];B[pa]C[Black is alive])
+(;W[nb];B[pa]C[Black is alive])
+(;W[na];B[pa]C[Black is alive]))

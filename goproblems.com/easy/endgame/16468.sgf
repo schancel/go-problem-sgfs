@@ -1,0 +1,23 @@
+(;GE[endgame]DI[10k]DP[54]SO[nyuves]CO[0]AB[bb]AB[cb]AB[ca]AB[da]AB[cc]AW[bc]AB[cd]AB[dd]AB[ce]AB[be]AB[ae]AB[ad]AB[af]AB[cf]AW[dc]AW[db]AW[eb]AW[ea]AW[fb]AB[gb]AW[hb]AW[gc]AW[hc]AW[ic]AW[jb]AW[kb]AW[lb]AB[mb]AW[nb]AW[mc]AB[pb]AW[rc]AW[qc]AW[rd]AW[re]AW[se]AW[pd]AW[nd]AW[od]AW[oe]AW[oc]AB[lc]AB[kc]AB[jc]AB[kd]AB[ke]AB[je]AB[jf]AB[id]AB[hd]AW[he]AB[fe]AB[ge]AB[gf]AB[hf]AW[gd]AW[fd]AW[ed]AW[ee]AW[de]AW[df]AW[ef]AW[ff]AW[dg]AW[eg]AW[cg]AW[bg]AW[ag]AW[bf]AW[bh]AW[ah]AW[am]AW[bm]AW[al]AW[ak]AW[aj]AW[ai]AB[eh]AB[dh]AB[ch]AB[bl]AB[bk]AB[bj]AB[bi]AB[fg]AW[fi]AW[gi]AB[ek]AB[cm]AW[ld]AW[me]AW[le]AB[ne]AB[nf]AB[of]AB[mf]AB[ng]AB[nh]AB[ni]AB[mi]AB[oi]AB[oj]AB[pj]AB[qi]AB[ri]AB[qh]AB[pg]AB[rg]AB[rf]AB[sf]AB[qf]AB[qe]AB[pe]AB[qd]AW[sg]AW[sh]AW[rh]AW[si]AW[sj]AW[rj]AW[qj]AW[rk]AW[rl]AW[rm]AB[qk]AB[ql]AB[qm]AB[om]AB[rn]AB[sn]AW[qn]AW[qo]AW[ro]AW[so]AW[sp]AB[sq]AB[rq]AB[rp]AB[rr]AB[qq]AB[pq]AW[qp]AW[pp]AW[po]AW[oo]AW[oq]AW[nq]AW[mq]AW[lr]AW[kr]AW[kq]AB[jr]AB[ks]AB[ls]AB[ms]AB[mr]AB[nr]AB[or]AB[ps]AB[mp]AB[mo]AB[mn]AB[mm]AB[ml]AB[mk]AW[mj]AW[nj]AW[nk]AW[ok]AW[pk]AW[nl]AW[nm]AW[nn]AW[lk]AW[ll]AW[lm]AW[ln]AW[lo]AW[lp]AW[jp]AW[jo]AW[ko]AW[kn]AW[km]AW[ip]AW[hp]AW[ho]AW[gp]AW[hq]AW[hr]AW[js]AW[is]AW[hs]AW[gs]AW[fs]AW[es]AW[ds]AB[cs]AB[dr]AB[er]AW[fr]AB[gr]AB[gq]AB[fq]AB[fp]AB[ep]AB[cq]AB[cp]AB[do]AB[dn]AB[bn]AB[an]AB[en]AB[fn]AB[go]AB[hn]AB[io]AB[in]AB[jn]AB[jm]AB[jl]AB[kl]AB[kk]AB[lj]AB[kj]AB[jj]AB[ki]AW[li]AW[lh]AW[kh]AW[mh]AW[mg]AW[lg]AW[lf]AW[kf]AW[jg]AW[jh]AW[ji]AW[ih]AB[ii]AB[hj]AB[hh]AB[ig]C[At the endgame black seems to win the match about 10 points. Find the weakness of the black's wall to win the match!]AP[goproblems]
+(;W[gg];B[fh]
+(;W[hi];B[ij];W[gh];B[if]
+(;W[hg]C[That is it! :) This reduction is enough to win the match!RIGHT])
+(;W[ci];B[di];W[dj]C[RIGHT]))
+(;W[gh];B[hi]C[Wrong! G11 group dead!]
+(;W[ci];B[di];W[dj];B[cj];W[ei];B[ci];W[cl]C[RIGHT])
+(;W[hg];B[if];W[ci];B[di];W[dj]C[RIGHT]))
+(;W[hg];B[gh]C[Oops!]))
+(;W[hi];B[ij]
+(;W[gg];B[fh];W[gh];B[if]
+(;W[hg]C[That is it! :) This reduction is enough to win the match!RIGHT])
+(;W[ci]C[RIGHT]))
+(;W[fh];B[gg]C[Wrong! G11 group dead!];W[ci];B[di]
+(;W[dj];B[cj];W[ei];B[ci];W[cl]C[RIGHT])
+(;W[cj];B[dj];W[ck];B[cl]))
+(;W[gh];B[hg]C[Wrong! G11 group dead!RIGHT]
+(;W[gg];B[ie];W[fh]C[That is it! :) This reduction is enough to win the match!RIGHT])
+(;W[fh]C[RIGHT];B[ei];W[gg];B[fj];W[gj];B[gk];W[fg]C[RIGHT])))
+(;W[gh]C[Wrong!RIGHT]
+(;B[gg];W[hi]C[RIGHT])
+(;B[hi];W[gg];B[fh];W[ci];B[di];W[dj];B[cj];W[ei];B[ci];W[cl]C[RIGHT]))
+(;W[fh];B[gg];W[ci];B[di];W[dj];B[cj];W[ei];B[ci];W[cl]C[Also correct!RIGHT]))

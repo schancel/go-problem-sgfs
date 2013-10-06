@@ -1,0 +1,27 @@
+(;GE[life and death]DI[7k]DP[42]SO[stro]CO[0]AB[cb]AB[dc]AB[dd]AB[ed]AB[fd]AB[fc]AB[be]AW[db]AW[eb]AW[ec]AW[fb]AW[hc]AW[he]AW[bh]AW[cf]AW[ef]AW[gf]AW[gc]AW[bb]AB[ca]AW[bc]AB[cc]AW[ce]AB[bd]AW[bf]AB[ba]C[White to kill]AP[goproblems]
+(;W[ab];B[ae]
+(;W[ad];B[aa])
+(;W[aa];B[ac])
+(;W[ac]C[RIGHT])
+(;W[cd];B[ac]C[Ko])
+(;W[af];B[ac]C[Ko]))
+(;W[ac];B[ab]
+(;W[aa];B[ad])
+(;W[cd];B[ad])
+(;W[ae];B[ad])
+(;W[ad];B[ae]))
+(;W[cd];B[ab]
+(;W[ae];B[ac];W[bc];B[ad])
+(;W[ad];B[ac])
+(;W[ac];B[ad]))
+(;W[ae];B[ab]
+(;W[ad];B[ac];W[bc];B[cd])
+(;W[ac];B[ad])
+(;W[cd];B[ac];W[bc];B[ad]))
+(;W[ad];B[ab]
+(;W[ae];B[ac];W[bc]
+(;B[cd])
+(;B[af]))
+(;W[ac];B[ae])
+(;W[cd];B[ac]))
+(;W[aa];B[ab]))

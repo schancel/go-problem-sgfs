@@ -1,0 +1,10 @@
+(;GE[life and death]DI[8k]DP[48]SO[mizutip]CO[5]AB[na]AB[nb]AB[nc]AB[od]AB[pd]AB[qd]AB[rd]AB[rc]AW[qc]AW[pb]AW[ob]AW[rb]AW[sb]AW[ra]AP[goproblems]
+(;B[qb]
+(;W[qa]
+(;B[oa]C[RIGHT])
+(;B[pc]C[];W[oa]C[White gets a ko for life.]))
+(;W[pc];B[pa];W[qa];B[oa]C[RIGHT]))
+(;B[oa];W[pa]
+(;B[qb];W[pc])
+(;B[pc];W[qb]))
+(;B[pa];W[oa]))

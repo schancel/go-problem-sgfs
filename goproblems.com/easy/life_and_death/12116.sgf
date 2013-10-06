@@ -1,0 +1,12 @@
+(;GE[life and death]DI[12k]DP[57]SO[meysel]CO[0]AB[bb]AB[cb]AB[db]AB[eb]AB[ea]AB[ac]AW[ca]AW[cc]AW[ad]AW[dc]AW[bd]AW[ec]AW[fc]AW[fb]AW[fa]AP[goproblems]
+(;B[bc];W[ba];B[aa];W[ab]C[CHOICE])
+(;B[ab];W[ba]C[CHOICE])
+(;B[da];W[bc]
+(;B[ba];W[ab]C[CHOICE])
+(;B[ab];W[ba];B[aa]
+(;W[ba];B[ca];W[ba]C[CHOICE])
+(;W[ca];B[ba];W[ca]C[CHOICE])))
+(;B[ba]
+(;W[ab];B[bc]C[RIGHT])
+(;W[bc];B[ab]C[RIGHT])
+(;W[aa];B[bc]C[RIGHT])))

@@ -1,0 +1,37 @@
+(;GE[best move]DI[3k]DP[25]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[dq]AW[dp]AB[cq]AW[cp]AE[eq]AW[eo]AB[fq]AW[gp][hq]AE[gq]AB[cn]AW[dj]C[black's best move in the corner area?]
+(;B[ep]CR[ep]
+;W[do]CR[do]
+(;B[bp]CR[bp]
+;W[bo]CR[bo]
+;B[bq]CR[bq]LB[co:A][dm:B][fo:C]C[RIGHT
+after white defends at A or B, C remains as a cut])
+(;B[fo]CR[fo]
+;W[fp]CR[fp]
+;B[eq]CR[eq]
+;W[bq]CR[bq])
+(;B[bo]CR[bo]
+;W[bp]CR[bp])
+(;B[fp]CR[fp]
+;W[fo]CR[fo]C[bad approach]))
+(;B[bp]CR[bp]
+;W[bo]CR[bo]
+;B[bq]CR[bq]
+;W[co]CR[co]LB[ep:A]C[white is stronger than if you'd started at A])
+(;B[bq]CR[bq]
+;W[bp]CR[bp]C[slow])
+(;B[fp]CR[fp]
+;W[fo]CR[fo]C[aji-keshi. you can do better])
+(;B[gq]CR[gq]
+;W[ho]CR[ho]C[just reinforces white])
+(;B[eq]CR[eq]C[slow])
+(;B[do]CR[do]
+;W[ep]CR[ep]TR[cn]C[wrong direction. you need to be prepared to sacrifice the marked stone])
+(;B[fo]CR[fo]
+;W[fp]CR[fp])
+(;B[gr]CR[gr]
+;W[hr]CR[hr]C[reinforces white])
+(;B[br]CR[br]
+;W[bp]CR[bp])
+(;B[er]CR[er]C[slow])
+(;B[dk]CR[dk]C[first take sente moves in the corner]))

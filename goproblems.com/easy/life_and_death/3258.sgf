@@ -1,0 +1,8 @@
+(;GE[life and death]DI[8k]DP[45]SO[polo]CO[7]AW[rp][rq][qq][pq][op][no][nq][nn][nm][nl][ol][pl][qk][rk][sk][qn][rn][sn]AB[sl][rl][ql][qm][pm][om][on][oo][pp][qp][qo][ro][so]SZ[19]C[Black to avoid death]
+
+(;B[rm];W[sp]
+(;B[po]C[RIGHT Alive in seki])
+(;B[pn];W[po]))
+(;B[po];W[rm])
+(;B[pn];W[sp];B[po];W[rm])
+(;B[sm];W[sp];B[po];W[rm];B[pn];W[rn]))

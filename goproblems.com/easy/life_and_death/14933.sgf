@@ -1,0 +1,11 @@
+(;GE[life and death]DI[10k]DP[50]SO[tkazf]CO[0]AW[bk]AW[ak]AW[ck]AW[dk]AW[ek]AW[fk]AW[ej]AW[el]AW[fi]AW[gi]AW[gh]AW[fm]AW[gm]AW[gl]AW[hl]AW[il]AB[ik]AB[jk]AB[jl]AB[im]AB[in]AB[io]AB[gn]AB[fn]AB[cl]AB[bl]AB[dl]AB[em]AB[dn]AB[aj]AB[bj]AB[cj]AB[dj]AB[ei]AB[di]AB[fh]AB[fg]AB[gg]AB[ih]AB[hh]AB[jh]C[Simple problem. Black has to kill white.]AP[goproblems]
+(;B[gj];W[hj]
+(;B[gk];W[hk])
+(;B[hk];W[gk];B[hi]C[You're right!RIGHT])
+(;B[hi];W[fj];B[hk]C[You're right!RIGHT]))
+(;B[hk];W[gk];B[gj];W[hj])
+(;B[hi];W[gj])
+(;B[gk];W[hk]
+(;B[gj];W[hj])
+(;B[hj];W[gj]))
+(;B[hj];W[gj]))

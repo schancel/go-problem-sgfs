@@ -1,0 +1,74 @@
+(;GE[life and death]DI[1d]DP[17]SO[lok]CO[0]SZ[19]AW[rl]AW[nn]AW[on]AW[pn]AW[qn]AW[rn]AW[mo]AW[qo]AW[mp]AW[mq]AW[nr]AW[qs]AB[oo]AB[ro]AB[qp]AB[sp]AB[qq]LB[ol:T]C[Can black live? Play elsewhere at T, if you think it is not possible.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[rs];W[sr]
+(;B[rr];W[sn]
+(;B[oq];W[pr]
+(;B[or];W[os]
+(;B[pq];W[ns]
+(;B[nq];W[mr]
+(;B[po]C[Well done!RIGHT])
+(;B[qr];W[ps]))
+(;B[po];W[op]
+(;B[nq];W[mr]
+(;B[np]C[Well done!RIGHT])
+(;B[qr];W[ps]))
+(;B[np];W[nq])
+(;B[qr];W[ps]))
+(;B[qr];W[ps]))
+(;B[qr];W[ps]
+(;B[pq];W[ns]
+(;B[nq];W[mr];B[po]C[RIGHT])
+(;B[po];W[op]
+(;B[nq];W[mr];B[np]C[RIGHT])
+(;B[np];W[nq])))
+(;B[nq]C[NOTTHIS]))
+(;B[nq]C[NOTTHIS]))
+(;B[pq];W[or]))
+(;B[or];W[os]
+(;B[oq];W[pr]C[])
+(;B[pr];W[ps]C[]))
+(;B[pr];W[ps]
+(;B[or];W[os]
+(;B[oq];W[pp])
+(;B[nq];W[oq]))
+(;B[oq];W[pp];B[os];W[or]))
+(;B[sq]C[NOTTHIS])
+(;B[rq]C[NOTTHIS]))
+(;B[qr];W[pr]C[])
+(;B[pr];W[ps]C[])
+(;B[ps];W[pr]C[])
+(;B[oq];W[pr]
+(;B[rr];W[sn]C[])
+(;B[qr];W[or]C[Only one eye in the corner])
+(;B[rq]C[NOTTHIS])
+(;B[or];W[os]
+(;B[rr];W[sn]C[])
+(;B[qr]C[NOTTHIS])
+(;B[rq]C[NOTTHIS])
+(;B[pq]C[NOTTHIS]))
+(;B[pq];W[or]))
+(;B[or];W[os]
+(;B[oq];W[qr])
+(;B[qr];W[ps])
+(;B[rr];W[sn]C[])
+(;B[rq]C[NOTTHIS]))
+(;B[rq]C[NOTTHIS];W[sn];B[rr];W[so];B[oq]C[Works too.]))
+(;B[qr];W[pr]
+(;B[sr];W[rs]TR[rq]TR[rr]C[Miai])
+(;B[rs];W[sr]
+(;B[ps];W[or]
+(;B[rq];W[sn]TR[so]TR[sq]C[Dead])
+(;B[rr];W[sn];B[sq];W[rp]C[Dead]))
+(;B[rq];W[sn]TR[so]TR[sq]C[Dead])
+(;B[rr];W[sn];B[sq];W[rp]C[Dead])))
+(;B[ps];W[pr]
+(;B[qr];W[sr];B[rs])
+(;B[rs];W[sr];B[qr]))
+(;B[pr];W[ps]
+(;B[os];W[or];B[rs];W[sr];B[qr];W[ps]C[Dead, only one eye in corner.])
+(;B[rs];W[sr];B[os];W[or]))
+(;B[rq];W[rs])
+(;B[oq];W[pr]C[There might be better moves than this one  (this is the best I found).]
+(;B[rr];W[rs];B[or];W[os];B[nq];W[mr]C[Dead])
+(;B[rs];W[rr];B[qr];W[rq];B[sr];W[ss]C[Ko]))
+(;B[rr];W[rs])
+(;B[ol]C[No, black can live.]))

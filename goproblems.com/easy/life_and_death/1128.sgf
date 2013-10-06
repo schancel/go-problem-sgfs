@@ -1,0 +1,50 @@
+(;GE[life and death]DI[5k]DP[32]SO[BigMetalGuy]CO[7]SZ[13]AW[da]AW[ea]AW[db]AW[fb]AW[ib]AW[dc]AW[fc]AW[gc]AW[ic]AW[bd]AW[cd]AW[hd]AW[ie]AW[cf]AB[cb]AB[eb]AB[bc]AB[cc]AB[ec]AB[hc]AB[dd]AB[ed]AB[fd]AB[gd]AB[gf]C[Black to play to save his three stones in the corner.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[ga]
+(;W[fa]
+(;B[hb]C[ CHOICERIGHT])
+(;B[ba];W[ab]
+(;B[hb]C[RIGHT])
+(;B[ac];W[hb]))
+(;B[ab];W[ba])
+(;B[gb];W[hb])
+(;B[ca];W[hb]))
+(;W[ha]
+(;B[ca]C[ CHOICERIGHT])
+(;B[ab];W[hb];B[ba]C[RIGHT])
+(;B[gb];W[hb];B[ca];W[fa])
+(;B[ba];W[hb];B[ab]C[RIGHT])
+(;B[fa];W[gb])))
+(;B[ca];W[fa]
+(;B[ga])
+(;B[hb];W[ha])
+(;B[gb];W[hb])
+(;B[ab];W[ba])
+(;B[ba];W[ab]))
+(;B[fa];W[ga];B[ca];W[fa]
+(;B[ab];W[ba])
+(;B[ba];W[ab])
+(;B[ha];W[hb])
+(;B[hb];W[ha]))
+(;B[ba];W[ab]
+(;B[ga];W[fa])
+(;B[ca];W[fa]
+(;B[hb];W[ha])
+(;B[gb];W[hb])
+(;B[ga];W[hb]))
+(;B[fa];W[ga];B[ca];W[fa]))
+(;B[ab];W[ba]
+(;B[ca];W[fa]
+(;B[ga];W[hb])
+(;B[gb];W[hb])
+(;B[hb];W[ha]))
+(;B[ga];W[fa]
+(;B[ca])
+(;B[gb];W[hb])
+(;B[hb];W[ca]C[Black suffers from a lack of liberties.])))
+(;B[hb];W[ha]
+(;B[ca];W[fa])
+(;B[fa];W[ga])
+(;B[gb];W[ga])
+(;B[ba];W[ab])
+(;B[ab];W[ba]))
+(;B[gb];W[hb]))

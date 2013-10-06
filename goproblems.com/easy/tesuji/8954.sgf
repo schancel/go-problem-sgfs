@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[10k]DP[50]SO[llel]CO[4]AB[ar]AW[br]AW[cq]AW[dr]AW[cs]AB[bq]AB[bp]AB[cp]AB[co]AB[do]AB[eo]AB[fo]AW[dp]AW[ep]AW[fp]AB[gp]AB[gq]C[black first to kill]AP[goproblems]
+(;B[fq];W[er]C[this is a tesuji];B[eq];W[dq]C[White Lives];B[bs]C[Ko( Not the best)])
+(;B[dq];W[eq]C[white lives])
+(;B[eq];W[er]C[this is a tesuji];B[fq];W[dq]C[white lives];B[bs]C[ko (not the best)])
+(;B[er]
+(;W[eq]C[CHOICE]
+(;B[fr]C[good!RIGHT])
+(;B[fq]C[RIGHT];W[dq]C[RIGHT]
+(;B[fr]C[RIGHT])
+(;B[es]C[RIGHT])
+(;B[fs]C[RIGHT]))
+(;B[es];W[dq]
+(;B[gr]C[RIGHT])
+(;B[fs]C[RIGHT])
+(;B[gs]C[RIGHT])))
+(;W[fr]C[strongest moveCHOICE];B[fq]C[Excellent!RIGHT])
+(;W[dq]C[CHOICE]
+(;B[fr]C[Well Done!RIGHT])
+(;B[fq]C[RIGHT])
+(;B[es]C[RIGHT])
+(;B[eq]C[RIGHT])
+(;B[fs]C[RIGHT])
+(;B[gr]C[RIGHT]))))

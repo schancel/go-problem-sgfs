@@ -1,0 +1,18 @@
+(;GE[life and death]DI[3k]DP[25]SO[Field Mouse]CO[0]AB[qb]AB[rc]AB[qd]AB[pc]AW[ob]AW[oc]AW[od]AW[pe]AW[qe]AW[re]AW[oe]AW[rb]AW[sa]AB[sb]C[White to play and find the best way possible.]AP[goproblems]
+(;W[ra];B[qa];W[ra];B[rd])
+(;W[sc];B[sd]
+(;W[rd];B[sb]LB[of:K]C[Play at K if you want ko threat.]
+(;W[ra];B[qa];W[ra]C[The best way possible!RIGHT])
+(;W[of]C[You just wasted one ko threat :)]))
+(;W[sb];B[ra]
+(;W[sb];B[rd])
+(;W[rd];B[pb];W[sb];B[sc]
+(;W[pa];B[pd])
+(;W[pd];B[pa])))
+(;W[qa];B[pa]C[White cannot win this double ko.])
+(;W[ra];B[rd]
+(;W[pb];B[qa])
+(;W[sb];B[pb]))
+(;W[pd];B[sb];W[ra]
+(;B[qa];W[ra];B[rd])
+(;B[rd]))))

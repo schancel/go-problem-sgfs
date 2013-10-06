@@ -1,0 +1,291 @@
+(;GE[life and death]DI[6d]DP[3]SO[fractic]CO[8]SZ[19]AB[ar]AB[as]AB[br]AB[bs]AB[cq]AB[dq]AB[dr]AB[fq]AB[gq]AB[gr]AB[hs]AW[aq]AW[bo]AW[bq]AW[cp]AW[dp]AW[ep]AW[fp]AW[gp]AW[hp]AW[hq]AW[hr]AW[jr]C[White to kill.]GM[1]FF[4]AP[qGo:1.5.2]ST[1]HA[0]KM[5.5]PW[White]PB[Black]
+(;W[fs]
+(;B[eq]
+(;W[es];B[gs]
+(;W[ds];B[er];W[cr];B[cs];W[cr];B[br]
+(;W[bs];B[cs]
+(;W[ar];B[as]
+(;W[ir];B[fr];W[bs];B[is]
+(;W[cr];B[js]
+(;W[kr];B[br]
+(;W[es];B[as];W[ds];B[fs];W[bs];B[ks]
+(;W[lr];B[as];W[ds];B[es];W[bs];B[ls]
+(;W[cr];B[mr]C[Please play at the marked point.]TR[ds];W[ds];B[ms];W[mq];B[nr]
+(;W[oq]
+(;B[or]
+(;W[pq];B[pr]
+(;W[qq];B[qr]
+(;W[rr];B[qs];W[os];B[nq];W[np];B[mp];W[lq];B[op];W[no];B[rq];W[rp];B[sq]
+(;W[sr];B[qp];W[sp];B[rq];W[sq];B[pp];W[rq];B[qn]C[There are several complicated variations that work here. Please follow the triangles for a nice one.]TR[rn];W[rn];B[rm]TR[qo];W[qo];B[po]TR[pn];W[pn];B[ro]TR[oo];W[oo];B[qo]TR[qm];W[qm];B[sn]TR[so];W[so];B[rn]TR[rl];W[rl]C[And white wins by one liberty! CongratulationsRIGHT])
+(;W[sp];B[qp];W[sr]))
+(;W[rq];B[rr]C[Black lives.]))
+(;W[qr];B[nq];W[np];B[mp];W[lq];B[op];W[no];B[qq];W[pp];B[rr]C[Black lives.]))
+(;W[pr];B[nq];W[np];B[mp];W[lq];B[op];W[no];B[pq]C[Black lives.])
+(;W[qq];B[nq];W[np];B[mp];W[lq];B[op];W[no];B[pq]C[Black lives.]))
+(;B[nq]C[This is just here to show some things black might try right away.];W[np];B[mp];W[lq];B[op];W[no];B[or];W[pq]
+(;B[pr];W[qq];B[qr];W[rr];B[qs];W[os])
+(;B[qq];W[pr];B[qr];W[os];B[cs];W[pp];B[br];W[as]C[RIGHT])))
+(;W[nq];B[or];W[pq];B[pr];W[qq];B[qr];W[rr];B[qs];W[os]C[I think this also works but i'm not sure if black can exploint some weakness of white. If someone can refute this please let me knowRIGHT]))
+(;W[mr];B[as]C[White has no ko threats.])
+(;W[nr];B[as]C[White has no ko threats left.]))
+(;W[mr];B[as];W[ds];B[es];W[bs];B[ms]
+(;W[cr];B[nr]TR[ds]C[Please play at the marked location];W[ds];B[ls]TR[lr]C[Please play at the marked location];W[lr];B[ns];W[nq];B[or]
+(;W[pq]
+(;B[pr]
+(;W[qq];B[qr]
+(;W[rq];B[rr];W[sr];B[rs];W[ps];B[oq];W[op];B[np];W[mq];B[pp];W[oo];B[qo]
+(;W[sq];B[rp]
+(;W[ss];B[sp])
+(;W[qp];B[po];W[ro];B[rn];W[sp];B[sn];W[so];B[ss]C[Black lives]))
+(;W[ro];B[rp];W[sp];B[qp];W[sq])
+(;W[po];B[qp]
+(;W[ro];B[rp];W[sq];B[sp])
+(;W[rp];B[ro]C[Black lives]))
+(;W[sp];B[rp]
+(;W[so];B[qp];W[sq];B[rn]C[White gets captured.])
+(;W[sq]
+(;B[so];W[qp];B[po];W[ro])
+(;B[qp]
+(;W[ro];B[ss];W[so];B[rn])
+(;W[so])))
+(;W[qp];B[sq]))
+(;W[qp];B[po];W[ro];B[pn]
+(;W[rn];B[no]C[White gets captured in a ladder.])
+(;W[on];B[rn];W[pm];B[qn];W[qm];B[so]
+(;W[sp];B[rp]C[once again white lacks ko threats.])
+(;W[rp];B[sp]C[Black lives.]))
+(;W[qn];B[rn];W[qm];B[so]
+(;W[sp];B[rp]C[White has no ko threats.])
+(;W[rp];B[sp]C[Black lives.])))
+(;W[qn];B[rp]
+(;W[qp];B[sq])
+(;W[sp];B[qp];W[sq];B[so])))
+(;W[rr];B[oq];W[op];B[np];W[mq];B[pp];W[oo];B[rq];W[qp];B[sr]C[Black lives]))
+(;W[oq])
+(;W[qr];B[oq];W[op];B[np];W[mq];B[pp]C[Black lives]))
+(;B[oq];W[op];B[np];W[mq];B[pp];W[oo];B[pr];W[qq];B[rq];W[qr];B[qs];W[ps];B[os];W[ps]))
+(;W[oq];B[pr]
+(;W[qq];B[qr]
+(;W[rr];B[pq];W[pp];B[rq];W[qp];B[sr]C[Black lives.])
+(;W[rq];B[rr];W[sr];B[rs];W[ps];B[pq];W[pp];B[qp];W[rp];B[qo];W[ro];B[qn]
+(;W[op];B[rn]C[Black caputeres the four white stones and lives])
+(;W[oo];B[rn]C[Black captures the four white stones and lives])
+(;W[po];B[rn]C[Black captures the four white stones and lives])
+(;W[rn];B[op];W[po];B[oo];W[pn];B[on]
+(;W[pm];B[mq];W[np];B[mp];W[no];B[nn]C[White get's caught in a ladder.])
+(;W[qm];B[mq];W[np];B[mp];W[no];B[nn]C[White get's caught in a ladder]))))
+(;W[pq];B[qr]
+(;W[qq];B[rr];W[rq];B[sr]C[Black lives.])
+(;W[rq];B[rr];W[sr];B[rs];W[ps];B[qq];W[qp];B[rp]C[Black lives again.]))))
+(;W[nr];B[as]C[White has no ko threat])
+(;W[ns];B[as]C[White has no ko threat])
+(;W[lr];B[as]C[White has no ko threat.])))
+(;W[ds];B[es];W[cr];B[ks]
+(;W[lr];B[br]C[White has no ko threats.])
+(;W[mr];B[br]C[White has no ko threats.])))
+(;W[lr]C[I'm not 100% sure this is right, but I can't find a way to refute it.];B[br];W[es];B[as];W[ds];B[fs];W[bs]
+(;B[ks]
+(;W[ls];B[as];W[ds];B[es];W[bs];B[kr];W[kq];B[as]C[White has run out of ko threats.])
+(;W[kr])
+(;W[cr];B[kr];W[kq];B[br];W[as];B[mr];W[lq];B[ls]C[Black will make a second eye on the right]
+(;W[nq];B[nr]
+(;W[or];B[mq];W[mp];B[oq];W[np];B[pr]C[Black lives])
+(;W[oq];B[or]
+(;W[pr];B[mq];W[mp];B[pq];W[qq];B[pp]
+(;W[qr];B[np]C[Black lives])
+(;W[np];B[qr]C[Black lives]))
+(;W[pq];B[pr];W[qr];B[ps]C[Black lives])))
+(;W[mq];B[nr];W[oq];B[or]
+(;W[pr];B[nq];W[np];B[pq];W[op];B[qr]C[Black lives])
+(;W[pq];B[pr];W[qr];B[ps]C[Black lives]))))
+(;B[ls]
+(;W[cr];B[mr];W[kr]
+(;B[ks];W[mq]
+(;B[nr])
+(;B[br];W[as]))
+(;B[br]
+(;W[as];B[ks];W[mq];B[nr]C[Black has two eyes now.])
+(;W[ks];B[as]C[White has run out of ko threats.])))
+(;W[ms];B[as];W[ds];B[es];W[bs];B[ks]
+(;W[mr];B[as]C[White has no ko threat.])
+(;W[cr];B[mr];W[ds];B[ns];W[kr];B[ms];W[mq];B[nq]C[Black will escape.]))
+(;W[kr];B[as]
+(;W[ks];B[bs]C[Black lives.])
+(;W[ds];B[es];W[bs];B[ks])))))
+(;W[es];B[as];W[ds];B[fs];W[bs];B[js]
+(;W[kr];B[as];W[ds];B[es];W[bs];B[ks]
+(;W[cr];B[lr]TR[ds]C[Please play at the marked point];W[ds];B[ls];W[lq];B[mr]
+(;W[mq];B[nr]
+(;W[nq];B[or]
+(;W[oq];B[pr]
+(;W[pq];B[qr]C[Black lives])
+(;W[qq];B[qr]C[Black lives]))
+(;W[pq];B[pr];W[qr];B[ps];W[ns];B[oq];W[op];B[qq];W[pp];B[rr]C[Black lives]))
+(;W[oq];B[or]
+(;W[pr];B[nq];W[np];B[pq];W[op];B[qr]C[Black lives.])
+(;W[pq];B[pr]
+(;W[qr];B[ps];W[ns];B[nq];W[np];B[qq]
+(;W[qp];B[rq]
+(;W[rr];B[rp]
+(;W[ro];B[pp]C[Black will live])
+(;W[qo];B[sr]C[Black lives]))
+(;W[rp];B[rr]C[Black lives]))
+(;W[rq];B[qp]
+(;W[rr];B[op]C[Black lives])
+(;W[op];B[rr]C[Black lives])))
+(;W[qq];B[qr]C[Black lives]))))
+(;W[nq];B[nr]
+(;W[oq];B[or]
+(;W[pr];B[mq];W[mp];B[lp];W[kq];B[np];W[mo];B[pq];W[op];B[qr]C[Black lives])
+(;W[pq];B[pr];W[qr];B[ps];W[ns];B[mq];W[mp];B[lp];W[kq];B[np];W[mo];B[qq]
+(;W[qp];B[rq]
+(;W[rp];B[pp]C[Black lives])
+(;W[rr];B[pp]C[Black lives])
+(;W[pp];B[rr]C[Black lives]))
+(;W[rq];B[qp]
+(;W[rr];B[pp]C[Black lives])
+(;W[op];B[rr]C[Black lives]))))
+(;W[or];B[mq];W[mp];B[lp];W[kq];B[np]C[Black will live])))
+(;W[lr];B[as]C[White has no ko threat])
+(;W[mr];B[as]C[White has no ko threat]))
+(;W[lr];B[as];W[ds];B[es];W[bs];B[kr]
+(;W[kq];B[as]C[White hasn't got any ko threat])
+(;W[cr];B[kq]C[Black escapes]))))
+(;W[is];B[fr];W[bs];B[ir]
+(;W[iq];B[as]C[White has no ko threaths.]
+(;W[es];B[bs];W[ds];B[fs])
+(;W[ds];B[es]))
+(;W[cr];B[js]
+(;W[kr];B[br]
+(;W[as];B[es];W[cr];B[iq]
+(;W[jp];B[br]C[White has no ko threat.])
+(;W[ds];B[jp]C[Black escapes.]))
+(;W[iq])
+(;W[ks];B[as]C[White has no ko threat.]
+(;W[es];B[bs];W[ds];B[fs])
+(;W[ds];B[es];W[bs];B[cr])))
+(;W[ds];B[kr];W[jq];B[kq]C[Black escapes.])
+(;W[ks];B[br];W[as];B[es]
+(;W[kr];B[cr])
+(;W[cr];B[kr];W[jq];B[br]C[White has no ko threats.])
+(;W[iq];B[cr])
+(;W[kq];B[cr])
+(;W[is];B[cr]))
+(;W[jq];B[br];W[as];B[es]
+(;W[cr];B[kr];W[kq];B[lr]C[Black escapes.])
+(;W[lr];B[cr])
+(;W[kr];B[cr])
+(;W[ks];B[cr])
+(;W[iq];B[cr]))
+(;W[iq];B[br]
+(;W[is];B[as]C[White has no ko threats.]
+(;W[es];B[bs];W[ds];B[fs])
+(;W[ds];B[es];W[bs];B[cr]))
+(;W[as];B[es];W[cr];B[kr]
+(;W[jq];B[br]C[White has no ko threats.])
+(;W[is];B[br]C[White has no ko threats.]))
+(;W[kr];B[as]C[White has no ko threat.]
+(;W[es];B[bs];W[ds];B[fs])
+(;W[ds];B[es];W[bs];B[cr]))))))
+(;W[as];B[ar])
+(;W[is]
+(;B[as];W[ar])
+(;B[fr];W[es];B[as];W[ar];B[bs];W[ds];B[fs])))
+(;W[cs];B[bs];W[is];B[fr])
+(;W[is];B[cs]))
+(;W[cs];B[cr];W[ds])
+(;W[cr]))
+(;W[gs];B[es]
+(;W[is];B[cs])
+(;W[cs];B[cr]
+(;W[fr];B[er]
+(;W[gs];B[fs])
+(;W[fs];B[gs]))
+(;W[is];B[fr])))
+(;W[ds];B[es];W[er])
+(;W[cs];B[cr]
+(;W[gs];B[es])
+(;W[es];B[gs];W[ds];B[fr];W[is];B[er])))
+(;B[gs]C[Countering this move isn't that easy. But the variations are less interesting then the main line. Nevertheless by request I've added the refutation.]
+(;W[cs]
+(;B[cr]C[The 'easy' answer];W[er];B[eq];W[ds]
+(;B[es];W[ds]C[Black diesRIGHT])
+(;B[fr];W[is]C[Black lacks the liberties to crush white.RIGHT]))
+(;B[ds]C[The tricky answer];W[eq];B[er]
+(;W[cr];B[br];W[is];B[bs];W[fr];B[ar]C[Black lives])
+(;W[is]
+(;B[fr];W[cr];B[br];W[es]C[Black can't play under the stones.RIGHT])
+(;B[cr];W[fr]C[Black is deadRIGHT]))))
+(;W[ds];B[er]
+(;W[cr];B[es];W[cs];B[br]C[Black lives]))
+(;W[er];B[eq]
+(;W[ds];B[fr]
+(;W[es];B[cs]C[Black lives])
+(;W[cr];B[es]C[Black lives]))
+(;W[cs];B[ds];W[cr];B[br]C[Black lives]))
+(;W[es];B[ds]C[Black lives])))
+(;W[cs];B[cr])
+(;W[cr];B[cs])
+(;W[eq];B[er]
+(;W[fs];B[gs];W[is];B[fr]
+(;W[cs];B[cr])
+(;W[ds];B[es]))
+(;W[cs];B[cr]
+(;W[gs];B[fs])
+(;W[fs];B[gs]))
+(;W[ds];B[es]))
+(;W[gs];B[fs]
+(;W[ds];B[es];W[eq];B[er])
+(;W[cs];B[cr]
+(;W[er];B[eq])
+(;W[eq];B[er]))
+(;W[eq];B[er]
+(;W[ds];B[es])
+(;W[cs];B[cr])))
+(;W[fr];B[er]
+(;W[ds];B[es])
+(;W[cs];B[cr])
+(;W[fs];B[gs]
+(;W[ds];B[es])
+(;W[is];B[es])
+(;W[cs];B[cr]
+(;W[eq];B[es])
+(;W[is];B[es]))))
+(;W[er];B[eq]
+(;W[fs];B[gs];W[ds];B[fr];W[cr];B[es];W[cs];B[br])
+(;W[es];B[ds])
+(;W[ds];B[es]
+(;W[fs];B[fr]
+(;W[cr];B[es]
+(;W[cs];B[gs])
+(;W[is];B[cs]))
+(;W[es];B[gs]
+(;W[cr];B[cs])
+(;W[cs];B[cr])
+(;W[is];B[cs]))
+(;W[gs];B[es]))
+(;W[cr];B[cs]))
+(;W[cs];B[cr];W[fs];B[fr]
+(;W[gs];B[es]C[Black lives])
+(;W[es];B[gs];W[is];B[ds]C[Black lives]))
+(;W[gs];B[fs]
+(;W[ds];B[es])
+(;W[cs];B[cr])))
+(;W[es];B[ds]
+(;W[eq];B[er];W[gs];B[fs])
+(;W[er];B[eq]
+(;W[gs];B[fs])
+(;W[is];B[gs]))
+(;W[gs];B[fs];W[eq];B[er]))
+(;W[ds];B[es]
+(;W[eq];B[er];W[gs];B[fs])
+(;W[cs];B[cr]
+(;W[eq];B[er];W[gs];B[fs])
+(;W[gs];B[fs];W[eq];B[er])))
+(;W[is];B[cs];W[gs];B[es]
+(;W[er];B[eq])
+(;W[eq];B[er];W[fr])
+(;W[fs];B[er])
+(;W[fr];B[eq]
+(;W[er];B[fs])
+(;W[fs];B[er];W[hs]))))

@@ -1,0 +1,32 @@
+(;GE[life and death]DI[4d]DP[7]SO[Hans]CO[8]AW[ra]AW[ob]AW[rb]AW[pc]AW[qc]AW[sc]AW[qd]AW[rd]AW[pe]AW[of]AW[pf]AW[qf]AW[qg]AW[qh]AW[qi]AW[rj]AW[qk]AB[nb]AB[pb]AB[qb]AB[oc]AB[od]AB[pd]AB[oe]AB[qe]AB[re]AB[rf]AB[rg]AB[rh]AB[ri]AB[si]C[Black to play.]
+(;B[sb]
+(;W[sg]
+(;B[sd];W[se]
+(;B[sf];W[sj];B[sd];W[rc];B[oa]C[A two step ko for black. This is the best possible for black.RIGHT])
+(;B[oa];W[sf]C[Black is dead.]))
+(;B[se];W[sj]
+(;B[sd];W[rc];B[oa];W[sf])
+(;B[oa];W[sf]
+(;B[sh];W[sf]C[Black dies.])
+(;B[sd];W[sh])))
+(;B[sf];W[sd]C[Black is dead.])
+(;B[oa];W[sd]C[Black is dead.]))
+(;W[sa];B[se]
+(;W[sd];B[sg]C[This is not the hardest resistance from white. White can play like that if she dislikes the ko in the correct solution.])
+(;W[sg];B[sd];W[rc];B[oa];W[sj];B[qa]C[This would be a big mistake by white.]))
+(;W[sd];B[se];W[sa];B[sg]C[This is not the hardest resistance by white. But she can play like this if she wants to avoid the ko in the correct solution]))
+(;B[se];W[sg]
+(;B[sd];W[rc]
+(;B[oa];W[sj];B[qa];W[sf])
+(;B[sb];W[sj];B[oa];W[sf])
+(;B[sa];W[sj];B[oa];W[sf]))
+(;B[sb];W[sj]
+(;B[sd];W[rc];B[oa];W[sf])
+(;B[oa];W[sf]
+(;B[sh];W[sf]C[Black is dead.])
+(;B[qa]C[White has two eyes and black only one.])))
+(;B[oa];W[sd]))
+(;B[sg];W[se])
+(;B[oa];W[sd])
+(;B[sf];W[sd])
+(;B[sd];W[se]C[Black is dead.]))

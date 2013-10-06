@@ -1,0 +1,16 @@
+(;GE[elementary]DI[2k]DP[23]SO[santa c]CO[0]AW[rr]AW[qr]AB[rq]AB[qq]AB[nr]AB[or]AB[pr]AW[ms]AW[mr]AW[nq]AW[pp]AW[qp]AW[ro]AW[rn]AB[rp]C[W to move]AB[pq]AW[mq]AW[op]AW[sr]AB[sp]AP[goproblems]
+(;W[rs]
+(;B[ns]
+(;W[ps]
+(;B[sq]
+(;W[oq]C[An eye vs none, Black can't approach - Nice! :)RIGHT])
+(;W[so]C[An eye vs none, Black can't approach - Nice! :)RIGHT]))
+(;B[os];W[oq]C[RIGHT]))
+(;W[oq];B[ps]C[seki!])
+(;W[sq];B[ps]C[B takes W!]LB[oq:1]LB[qs:2])
+(;W[so];B[ps]C[seki!]))
+(;B[ps];W[ns]C[RIGHT])
+(;B[qs];W[os]LB[ns:1]LB[ps:2]C[Black has to O1 then wQ1 reverts to the main pathRIGHT]))
+(;W[ps];B[rs]C[Black captures a living shape!])
+(;W[qs];B[ps]C[Black captures a living shape!])
+(;W[ns];B[rs]C[Black captures a living shape!]))

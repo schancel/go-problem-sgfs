@@ -1,0 +1,19 @@
+(;GE[life and death]DI[2k]DP[23]SO[DarkSycthe]CO[0]AB[rb]AW[rc]AW[sd]AW[qb]AW[pb]AW[oa]AB[na]AB[nb]AB[nc]AB[od]AB[pc]AB[qc]AB[oc]AB[qd]AB[re]AB[se]AB[qe]AB[pd]AW[pe]AW[pf]AW[qf]AW[rf]AW[sf]AW[oe]AW[ne]AW[nd]AW[md]AW[mc]AW[mb]AW[ma]C[Black to make a seki (Tenuki if you think Black can't).FORCE]LB[mf:Tenuki]AP[goproblems]
+(;B[qa];W[ra]
+(;B[sb]C[Yes! Quite messy, but it is a seki!RIGHT])
+(;B[sa];W[sb];B[sc]C[Ko]))
+(;B[sb];W[ob]C[Oops])
+(;B[rd];W[ob]C[Oops])
+(;B[ob];W[rd]C[Oops])
+(;B[sc];W[sb])
+(;B[ra];W[ob]C[Oops])
+(;B[pa];W[ra]
+(;B[sb];W[qa]C[Black can't approach from anywhere and white can just play at the triangle.]TR[ob])
+(;B[ob];W[sb]))
+(;B[sa];W[ob]C[Oops])
+(;B[mf]AB[oa]AB[pb]AB[qb]AW[rb]AB[rc]AB[sd]AW[se]AW[re]AB[sf]AW[qe]AB[rf]AB[qf]AB[pf]AB[pe]AW[pd]AW[qd]AW[od]AB[oe]AB[ne]AB[nd]AB[md]AW[nc]AB[mc]AW[nb]AW[na]AB[mb]AB[ma]AW[oc]AW[pc]AW[qc];W[qa]C[How will you stop the seki?]
+(;B[sb];W[ra])
+(;B[ra];W[sb])
+(;B[sa];W[sb])
+(;B[ob];W[pa])
+(;B[rd];W[sc])))

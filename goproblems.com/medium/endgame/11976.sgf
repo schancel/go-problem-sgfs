@@ -1,0 +1,10 @@
+(;GE[endgame]DI[3k]DP[27]SO[santa c]CO[0]AB[ss]AB[sr]AB[rr]AB[qr]AW[qs]AW[rs]AW[ps]AW[pr]AB[pq]AB[pp]AB[qo]AB[pn]AB[on]AB[oo]AB[op]AB[no]AW[np]AW[oq]AW[or]AW[mp]AW[mo]AW[mq]AW[nr]AW[nn]AW[nm]AW[om]AW[pm]AW[qm]AW[qn]AB[rn]AB[rm]AB[ql]AW[pl]AW[qk]AW[pk]AB[rl]AB[rk]AB[sk]AB[sj]AW[rj]AW[qj]AW[si]AW[ri]C[]AW[rp]MA[rp]AP[goproblems]
+(;B[rq];W[ro]
+(;B[qp];W[sp]
+(;B[sn];W[sm]C[Well done! Sente seki! :)RIGHT])
+(;B[sm]C[w has the choice between a seki and a ko]LB[so:seki]LB[sn:ko]))
+(;B[sp];W[so]C[ko, risky])
+(;B[so];W[sp]C[double ko]LB[sm:1]LB[qp:2]))
+(;B[qp];W[sq];B[qq];W[ro];B[so]C[gote seki])
+(;B[ro];W[qq])
+(;B[qq];W[ro]C[b dies x_x]))

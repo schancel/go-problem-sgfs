@@ -1,0 +1,29 @@
+(;GE[life and death]DI[3d]DP[9]SO[Zwom]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[oa][qa][ob][oc][pc][qc][qd][qe][re]AB[mb][qb][mc][rc][sc][md][ne][pe][pf][qf][rf][sf]
+(;B[pb]CR[pb]
+(;W[rb]CR[rb]
+;B[sb]CR[sb]
+;W[sd]CR[sd]
+;B[ra]CR[ra]C[RIGHT black lives or makes a 'rabbity six'])
+(;W[sd]CR[sd]
+;B[ra]CR[ra]
+;W[pa]CR[pa]
+;B[sb]CR[sb]
+;W[rb]CR[rb]
+;B[qb]CR[qb]C[RIGHT black makes a dead shape.]))
+(;B[se]CR[se]
+;W[rb]CR[rb]
+;B[sb]CR[sb]
+;W[pb]CR[pb]
+;B[ra]CR[ra]
+;W[sa]CR[sa]C[Look deeper, we can do better then ko.])
+(;B[ra]CR[ra]
+;W[pb]CR[pb])
+(;B[rb]CR[rb]
+;W[sd]CR[sd]
+(;B[ra]CR[ra]
+;W[pb]CR[pb]C[not even ko.])
+(;B[sb]CR[sb]
+;W[pb]CR[pb]
+;B[ra]CR[ra])))

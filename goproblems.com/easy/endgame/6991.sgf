@@ -1,0 +1,6 @@
+(;GE[endgame]DI[12k]DP[55]SO[kochi]CO[6]AB[js]AB[ks]AB[hs]AB[fr]AB[gr]AB[hr]AB[fs]AB[er]AB[dr]AB[ds]AW[ir]AW[jr]AW[kr]AW[lr]AW[ls]AW[mr]AW[nr]AW[ns]AW[or]AW[pr]AW[ps]AB[kb]AB[jb]AB[ib]AW[ja]AW[ia]AW[la]AW[lb]AW[mb]AW[na]AW[nb]AW[ob]AW[pb]AW[pa]AB[hb]AB[ha]AB[gb]AB[fb]AB[fa]AB[eb]AB[db]AB[da]AB[dp]AB[dq]AB[do]AB[dn]AB[dl]AB[dm]AB[dk]AB[dj]AB[dh]AB[di]AB[dg]AB[df]AB[de]AB[dd]AB[dc]AB[iq]AB[ip]AB[io]AB[in]AB[im]AB[il]AB[hj]AB[ih]AB[ig]AB[if]AB[ie]AB[id]AB[ic]AW[kc]AW[kd]AW[ke]AW[kf]AW[kg]AW[kh]AW[kl]AW[km]AW[kq]AW[kp]AW[ko]AW[kn]AW[pp]AW[pq]AW[po]AW[pn]AW[pm]AW[pl]AW[pk]AW[pj]AW[pi]AW[ph]AW[pg]AW[pf]AW[pe]AW[pd]AW[pc]AB[ik]AB[ii]AW[ji]AW[kj]AW[jk]AW[hk]AW[gk]AW[hi]AW[gi]AB[jh]AB[jl]AB[lo]AB[mo]AB[no]AB[oo]AW[kk]AW[ki]AW[fk]AW[fi]C[Komi is zero.  W to win.]AP[goproblems]
+(;W[ka];B[is];W[ij];B[jj]C[no threats, -1 stone.  W loses.])
+(;W[is];B[ka];W[ij];B[jj]C[no threats, -1 stone.  w loses.])
+(;W[ij];B[jj]
+(;W[ka];B[ij];W[is]C[W wins.RIGHT])
+(;W[is];B[ij];W[ka]C[W wins.RIGHT])))

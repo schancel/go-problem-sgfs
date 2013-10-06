@@ -1,0 +1,63 @@
+(;GE[life and death]DI[2k]DP[23]SO[Stones]CO[7]AB[rc]AB[qc]AB[pc]AB[pd]AB[pe]AB[pf]AB[qf]AB[rf]AB[pb]AW[qb]AW[rb]AW[pa]AW[oa]AW[ob]AW[oc]AW[od]AW[ne]AW[nf]AW[og]AW[pg]AW[qg]AW[rg]C[Black to play.  Live if you can.  Otherwise, play at A.]LB[mc:A]AP[goproblems]
+(;B[mc]C[Black could have lived.])
+(;B[sb];W[sf]
+(;B[se];W[rd])
+(;B[qe];W[se])
+(;B[rd];W[se])
+(;B[re]TR[sd]TR[qd]C[Spica  (1d) 	
+'After b T18, W T14, B S15, white doesn't need to respond since black has kindly died in gote.' R16 and T16 are miai.  T15 and T17 are both killed by R16.]))
+(;B[sc];W[sf]
+(;B[se];W[rd])
+(;B[re];W[se])
+(;B[rd];W[se]))
+(;B[sg];W[sc]
+(;B[sd];W[re])
+(;B[re];W[sd])
+(;B[sb];W[sd];B[rd];W[qe])
+(;B[rd];W[qe]
+(;B[re];W[sd])
+(;B[sd];W[re])))
+(;B[sf];W[sc]
+(;B[sd];W[re])
+(;B[sb];W[sd]
+(;B[rd];W[qe])
+(;B[se];W[qe]))
+(;B[rd];W[qe]
+(;B[re];W[sd])
+(;B[sd];W[re]))
+(;B[re];W[sd]))
+(;B[sd];W[re])
+(;B[se];W[rd])
+(;B[qe];W[rd])
+(;B[qd];W[re])
+(;B[re];W[sf]
+(;B[sc];W[qd]
+(;B[se];W[rd])
+(;B[rd];W[se]))
+(;B[sb];W[qd]
+(;B[se];W[rd])
+(;B[rd];W[se]))
+(;B[sd];W[qd])
+(;B[qd];W[sd]
+(;B[se];W[sc])
+(;B[sc];W[se])))
+(;B[rd];W[sc]
+(;B[se];W[qe])
+(;B[sf];W[qe]
+(;B[re];W[sd])
+(;B[sd];W[re]))
+(;B[qe];W[se]
+(;B[sd];W[sf])
+(;B[sf];W[sd]
+(;B[qa];W[sb]
+(;B[ra];W[sa]
+(;B[qa];W[ra];B[re];W[qa])
+(;B[re];W[qa]))
+(;B[re];W[ra]))
+(;B[ra];W[qa]
+(;B[sb];W[sa])
+(;B[re];W[sb]))
+(;B[sb];W[sa]
+(;B[re];W[sb];B[qa]C[Nice! =)RIGHT])
+(;B[qa];W[ra];B[re]C[Nice! =)RIGHT]))
+(;B[re];W[sb])))))

@@ -1,0 +1,20 @@
+(;GE[life and death]DI[1k]DP[18]SO[Yasguri]CO[0]AB[bb]AB[cb]AB[dc]AW[bd]AW[cd]AW[cc]AW[ae]AW[ce]AW[de]AW[df]AB[be]AB[bf]AB[bg]AB[ag]AB[eg]AW[ec]AW[eb]AW[ea]AW[fb]AW[fd]AW[fe]AW[ff]AB[fa]AB[ga]AB[gb]AB[gc]AB[fc]LB[fa:1]LB[ea:2]LB[ga:3]C[Black played the yose 1 to 3 and white played elsewhere. Does black can get something with this exchange ?]AB[cg]AB[dg]AB[fg]AB[ic]AP[goproblems]
+(;B[ed];W[dd]
+(;B[db];W[ee]
+(;B[da];W[ed];B[ac]C[];W[ab]
+(;B[bc];W[ba]C[ko, not bad but black can do better])
+(;B[aa];W[bc]C[Black is dead])
+(;B[ba];W[bc]C[Black is dead]))
+(;B[ac];W[ad]))
+(;B[ac];W[ad])
+(;B[da]C[NOTTHIS]))
+(;B[db];W[ed]
+(;B[ac];W[ad];B[aa])
+(;B[aa];W[ad];B[ac];W[da];B[ca];W[bc]C[Nop]))
+(;B[ac];W[ad];B[ed];W[dd]C[]
+(;B[db];W[ee];B[da])
+(;B[da];W[ee];B[db];W[ed]
+(;B[ba];W[bc];B[ab]C[Well doneRIGHT])
+(;B[bc];W[ba];B[aa];W[ab]C[ko, not bad but black can do better])))
+(;B[ab];W[db]C[There is nothing])
+(;B[da];W[ed];B[ac];W[ad];B[aa];W[bc]C[There is nothing]))

@@ -1,0 +1,35 @@
+(;GE[endgame]DI[7k]DP[43]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[bm][bo][co][do][eo][fo][go][ho][hp][hq][hr][jr]
+AB[bp][cp][dp][ep][fp][gp][gq][gr]PL[2]
+C[best way to reduce for white?
+]
+(;W[gs];B[fs]
+(;W[hs];B[er];W[ap];B[aq];W[ao];B[br]C[RIGHT
+])
+
+(;W[ap];B[aq];W[ao];B[br];W[hs]C[black does not need another move
+])
+)
+
+(;W[ap];B[aq]
+(;W[ao];B[br];W[gs];B[fs];W[hs]C[black does not need another move
+])
+
+(;W[gs];B[fs];W[hs];B[br])
+)
+
+(;W[fs];B[gs])
+
+(;W[aq];B[ap])
+
+(;W[br];B[ap])
+
+(;W[es];B[gs])
+
+)

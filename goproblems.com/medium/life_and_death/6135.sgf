@@ -1,0 +1,35 @@
+(;GE[life and death]DI[2d]DP[13]SO[Zeroskill]CO[6]SZ[9]C[]AW[gc]AW[cg]AW[ge]AW[ec]AW[gd]AW[fc]AW[dg]AW[eh]AW[ch]AW[hf]AW[ie]AW[ei]AW[bf]AW[ag]AW[ae]AW[af]AW[hh]AW[db]AW[eb]AW[ea]AW[hi]AW[hg]AB[cc]AB[gg]AB[eg]AB[ce]AB[fd]AB[ed]AB[dc]AB[df]AB[fh]AB[ef]AB[gf]AB[fe]AB[fi]AB[cf]AB[be]AB[ad]AB[bd]AB[gh]AB[cb]AB[da]AB[ca]AB[gi]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Igo for windows]PB[Human]VW[]
+(;B[bh]
+(;W[ah]
+(;B[bi];W[ci])
+(;B[ci];W[bi];B[ai];W[ff]
+(;B[bg];W[fg];B[dh];W[fh]C[Jigo!RIGHT])
+(;B[dh];W[fg];B[bg];W[fh]C[Jigo!RIGHT])
+(;B[bi];W[fg];B[dh];W[fh];B[bg]C[black loses by one point])
+(;B[fg];W[bi]C[white lives and wins])
+(;B[di];W[fg];B[bg];W[dh]))
+(;B[di];W[bi]C[white lives and wins.]))
+(;W[bi]C[This is a mistake by white];B[ah];W[bg];B[di]C[white is deadRIGHT])
+(;W[bg]C[this is a mistake by white];B[ci]C[];W[ah];B[bi]C[white is deadRIGHT]))
+(;B[bg];W[bh])
+(;B[ah];W[bg]
+(;B[bi];W[ci]C[white lives in seki and wins.])
+(;B[di];W[dh];B[bi];W[ci]C[white lives in seki and wins])
+(;B[ci];W[bi]C[white lives])
+(;B[bh];W[ci])
+(;B[dh];W[di];B[bi];W[bh]))
+(;B[bi];W[ci]
+(;B[bh];W[bg];B[ah];W[ai])
+(;B[ah];W[bg]C[white lives in seki and wins])
+(;B[dh];W[bh])
+(;B[di];W[bh]))
+(;B[ci];W[bi]
+(;B[ah];W[bg])
+(;B[di];W[dh])
+(;B[bh];W[di]))
+(;B[dh];W[di]
+(;B[ah];W[bg];B[bi];W[bh])
+(;B[bh];W[bi])
+(;B[bi];W[bh]))
+(;B[ai];W[bh])
+(;B[di];W[bh]))

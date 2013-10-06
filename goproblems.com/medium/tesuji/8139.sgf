@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[2k]DP[22]SO[Fleeno]CO[7]AB[ag]AB[af]AB[ae]AB[bf]AB[bd]AB[ce]AB[de]AB[df]AB[dd]AB[ed]AB[fd]AB[gd]AB[ff]AB[gf]AB[gg]AB[gh]AB[fh]AB[eh]AB[gi]AB[gj]AB[gk]AW[ah]AW[bg]AW[cg]AW[cf]AW[dg]AW[dh]AW[eg]AW[fg]AW[ef]AW[ee]AW[ei]AW[bk]AW[ck]AW[dk]AW[ek]C[Capture some white stones.]AP[goproblems];B[bh];W[ai]
+(;B[ci]
+(;W[bi]
+(;B[di];W[ch];B[fe];W[bh];B[bj]C[RIGHT])
+(;B[ch];W[cj])
+(;B[bj];W[ch]
+(;B[aj]C[RIGHT])
+(;B[di];W[cj])))
+(;W[di]C[Probably white's best option];B[aj]C[RIGHT])
+(;W[ch];B[di];W[bi];B[fe];W[bh];B[bj]C[RIGHT]))
+(;B[bi];W[aj])
+(;B[di];W[ci];B[fe];W[dj])
+(;B[ch];W[ci];B[fe];W[bi]))

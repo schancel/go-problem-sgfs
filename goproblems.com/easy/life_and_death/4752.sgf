@@ -1,0 +1,19 @@
+(;GE[life and death]DI[7k]DP[44]SO[santa c]CO[7]AB[nc]AW[qb]AW[rd]AW[rc]AW[pc]AW[oc]AB[ob]AB[nb]AB[nd]AB[od]AB[pd]AB[qe]AB[re]AB[rg]AW[qd]C[Black to kill]AB[pe]AP[goproblems]
+(;B[pb];W[sb]
+(;B[ra];W[qa];B[sd]C[Well done..RIGHT])
+(;B[sd];W[ra]C[1..2..Wait 2 eyes is enough for it to live!]LB[rb:1]LB[sa:2])
+(;B[qc];W[ra]C[1..2..Wait 2 eyes is enough for it to live!]LB[rb:1]LB[sa:2])
+(;B[qa];W[ra]C[1..2..Wait 2 eyes is enough for it to live!]LB[rb:1]LB[sa:2]))
+(;B[sb];W[pb]
+(;B[ra];W[sc]C[White's alive..])
+(;B[sd];W[sc]C[White's alive..])
+(;B[pa];W[qa]C[White's alive..])
+(;B[rb];W[sc]C[White's alive..]))
+(;B[ra];W[pb]
+(;B[sb];W[sc]C[White's alive..])
+(;B[pa];W[qa]C[White's alive..])
+(;B[sd];W[sc]C[White's alive..])
+(;B[rb];W[qa]C[White's alive..]))
+(;B[sd];W[pb]C[White's alive..])
+(;B[pa];W[pb]C[White's alive..])
+(;B[qa];W[pb]C[White's alive..]))

@@ -1,0 +1,20 @@
+(;GE[endgame]DI[3k]DP[25]SO[ketran0]CO[4]AB[oq]AW[lq]AW[nr]AB[or]AB[no]AB[po]AW[os]C[how should black respond?]AW[kq]AP[goproblems]
+(;B[nq];W[mr];B[ps];W[ns]
+(;B[qr]C[nope, b can do better])
+(;B[pr]C[nope, b can do better]))
+(;B[ps];W[ns]
+(;B[qr];W[nq]C[nope, b can do better])
+(;B[pr];W[nq]C[nope, b can do better]))
+(;B[mr];W[nq];B[mq];W[np];B[mp];W[op]
+(;B[pp];W[pr];B[pq];W[qr]
+(;B[rq]C[RIGHT])
+(;B[qq];W[rq]
+(;B[rp]C[RIGHT])
+(;B[oo];W[rp]))
+(;B[oo];W[rp]C[])
+(;B[ps];W[qs]
+(;B[ms];W[rp])
+(;B[qq]C[RIGHT])
+(;B[rq]C[RIGHT])
+(;B[oo];W[rp])))
+(;B[oo];W[pq])))

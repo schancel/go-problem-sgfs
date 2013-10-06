@@ -1,0 +1,3 @@
+(;GE[fuseki]DI[18k]DP[68]SO[Tomsk]CO[0]AB[qd]AB[nc]AB[qj]AB[cq]AB[dp]AB[fq]AW[dd]AW[bp]AW[cn]AW[ck]AW[qp]AW[oq]LB[fc:a]LB[cf:b]TR[dd]C[Which is the correct way for black to approach the marked stone, a or b?FORCE]AP[goproblems]
+(;B[fc]C[FORCE];W[df]LB[id:X]C[Play at XFORCE];B[id]C[Black's stones are working together well to control the top. Later black has a nice play at 'a' to improve his territory.RIGHT]LB[ne:a])
+(;B[cf]C[FORCE];W[ce]LB[df:X]C[Play at XFORCE];B[df]C[FORCE];W[fd]LB[ci:X]C[Play at XFORCE];B[ci]C[Black's stones are trapped between two strong white groups with no support from other black stones. Black is not even guaranteed two eyes in this situation.]))

@@ -1,0 +1,18 @@
+(;GE[best move]DI[7k]DP[42]SO[morten]CO[0]AB[cb]AB[dc]AB[ec]AB[fb]AB[gc]AB[hc]AB[hd]AB[ic]AB[ib]AB[ha]AB[ia]AB[ja]AW[cc]AW[bc]AW[dd]AW[ed]AW[ce]AW[fc]AW[fd]AW[gd]AW[he]AW[id]AW[jd]AW[jc]AW[jb]AW[ka]AW[lb]AW[gb]C[Black to play. Tenuki (E14) when you can to keep sente]LB[ef:Tenuki?]AP[goproblems]
+(;B[fa];W[eb]LB[ef:Tenuki?]C[Tenuki (E14) if you want]
+(;B[db]C[NiceRIGHT]
+(;W[ga];B[hb];W[gb];B[ga];W[ea];B[da]C[RIGHT])
+(;W[ea];B[da]C[RIGHT]))
+(;B[ef];W[ea]C[Oops]))
+(;B[ef];W[ga]C[Oops])
+(;B[ga];W[eb]C[Tenuki (E14) if you want]LB[ef:Tenuki?]
+(;B[db];W[fa]C[Oops])
+(;B[hb];W[db]C[Oops])
+(;B[ef];W[db]C[Yes, you may as well tenuki - but you should not have played G19 to begin with...]))
+(;B[ea];W[ga]C[Oops])
+(;B[eb];W[ga]C[Oops])
+(;B[db];W[ga]C[Oops])
+(;B[da];W[ga]C[Opps])
+(;B[ca];W[ga]C[Oops])
+(;B[hb];W[ga]C[That was funny!])
+(;B[bb];W[ga]C[Oops]))

@@ -1,0 +1,7 @@
+(;GE[best move]DI[4k]DP[31]SO[TnekKralc]CO[0]AB[bq]AB[bp]AB[cn]AB[en]AB[fn]AB[go]AB[eq]AW[cq]AW[cr]AW[dp]AW[ep]AW[hp]AW[hq]AW[jp]AP[goproblems]
+(;B[gq];W[fq]
+(;B[fr];W[fp];B[gp];W[er];B[hr]C[Correct answer.  B should jump down and attach at 1.  If W resists w/ 2, the moves 2 follow.  W has been separated into 2 groups. 7 RIGHT]LB[gq:1]LB[fq:2]LB[fr:3]LB[fp:4]LB[gp:5]LB[er:6]LB[hr:7])
+(;B[gp]
+(;W[fr];B[gr];W[er]C[Black could have gotten H2 in sente.
+WRONG])))
+(;B[fp];W[fq];B[gq];W[fr]C[Wrong answer.  B 1 does not work.  W answers w/ 2 & 4, & B has run out of moves.  The W position is still intact as 1 group.]LB[fp:1]LB[fq:2]LB[gq:3]LB[fr:4]))

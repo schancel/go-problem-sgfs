@@ -1,0 +1,30 @@
+(;GE[life and death]DI[6k]DP[38]SO[Simoff]CO[0]AB[bc]AB[bd]AB[cd]AB[dd]AB[dc]AB[ed]AB[ee]AB[ef]AB[df]AB[cg]AB[bg]AB[ch]AB[dh]AB[eh]AB[di]AB[cj]AB[bj]AB[bk]AB[ak]AB[al]AB[am]AB[bm]AB[bn]AB[cn]AW[bf]AW[cf]AW[dg]AW[eg]AW[fg]AW[fh]AW[fd]AW[ec]AW[eb]AW[db]AW[cb]AW[cc]AW[bb]AW[fb]AW[gc]AW[gb]AW[hb]AW[hd]AW[ei]AW[ej]AW[dj]AW[ck]AW[bl]AW[cm]AW[cl]AW[dn]AW[co]AW[bo]AW[ao]AW[an]AW[do]AW[dm]AW[fi]AW[dk]AB[ci]AW[bi]C[White to find a ko]C[6d]IWSZ[15]AP[goproblems]
+(;W[ah]
+(;B[af]
+(;W[ag]
+(;B[ae];W[aj];B[ai]C[Ko !RIGHT])
+(;B[be]C[];W[ae];B[ce];W[af];B[ad];W[aj];B[ai]C[Ko !RIGHT]))
+(;W[ae]
+(;B[ag];W[aj];B[ai]C[Ko !RIGHT])
+(;B[bh];W[ai];B[be];W[ag]C[RIGHT])))
+(;B[ag];W[af];B[ce];W[aj];B[ai]C[Ko !RIGHT])
+(;B[bh]C[Black's mistake];W[ai]
+(;B[ag];W[af];B[aj];W[ai];B[ce];W[ah];B[ae];W[bi]C[RIGHT])
+(;B[af];W[ae]C[RIGHT]))
+(;B[aj]C[Black's mistake]
+(;W[ag];B[ce];W[bh]C[RIGHT])
+(;W[bh]
+(;B[af];W[ae]C[RIGHT])
+(;B[ag];W[af];B[ai];W[bh];B[ce];W[ah];B[ae];W[bi]C[RIGHT]))
+(;W[ai]
+(;B[af];W[ae]C[RIGHT])
+(;B[ag];W[af];B[bh];W[ai];B[ce];W[bi];B[ae];W[ah]C[RIGHT])))
+(;B[ai];W[aj]C[RIGHT]))
+(;W[bh])
+(;W[aj])
+(;W[ai];B[af])
+(;W[ag];B[ah]
+(;W[af];B[ai])
+(;W[ai];B[af]))
+(;W[ae];B[ag])
+(;W[af];B[ai]))

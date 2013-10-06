@@ -1,0 +1,102 @@
+(
+;GE[tesuji]DI[4d]DP[7]SO[gecko]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AB[cd][ce][cg][fc][gc][hd]
+AW[gd][ge][ec][de][df]
+TR[cg]
+C[The white maneuver was a little suspect. Let's call it a trick(y) play. With the triangled move, black has just shown his innocence.(pushing one more time is correct). Your pity should not stop you from reaping the harvest. (Ladders are good for white)]
+GN[temp]
+(
+;
+W[eb]
+(
+;
+B[ic]
+;
+W[cf]
+;
+B[bf]
+;
+W[be]
+(
+;
+B[bg]
+;
+W[bd]
+;
+B[cc]
+;
+W[bc]
+;
+B[bb]
+;
+W[cb]
+;
+B[db]
+;
+W[ca]
+TR[eb]
+C[RIGHT thanks to the triangled stone the two stone squeeze wins by one move.(don't forget to throw back in)]
+)
+(
+;
+B[bd]
+;
+W[bg]
+;
+B[ae]
+;
+W[ch]
+C[RIGHTafter the triangled move black has no choice but to concede the ladder]
+TR[ic]
+)
+)
+(
+;
+B[cb]
+;
+W[hc]
+;
+B[ic]
+;
+W[hb]
+;
+B[id]
+;
+W[gb]
+C[RIGHT capturing these stones is also good for white]
+)
+)
+(
+;
+W[ed]
+;
+B[jc]
+C[black keeps everything]
+)
+(
+;
+W[cc]
+;
+B[dg]
+TR[ge][gd]
+C[white can eat into the corner, but his original plays now look bad.]
+)
+(
+;
+W[fd]
+;
+B[ic]
+C[whites position is just a strange lump of stones]
+)
+(
+;
+W[hc]
+;
+B[ic]
+C[Instead of actually paying the price of cutting, white should have threatened to cut]
+)
+)

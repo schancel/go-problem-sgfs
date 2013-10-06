@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[28]SO[santa c]CO[0]AW[rc]AW[rb]AW[qc]AW[pc]AW[ob]AW[oa]AB[qb]AB[oc]AB[nc]AB[nb]AB[mc]AB[pd]AB[qd]AB[rd]AB[sd]C[B to move]AB[lc]AP[goproblems]
+(;B[pb];W[qa]
+(;B[sb]C[Well done! W is dead thanks to lack of liberties!RIGHT]MA[sc])
+(;B[sc];W[sb]C[Alive!])
+(;B[na];W[pa]C[Alive!]))
+(;B[sc];W[qa]C[Miai, alive!]MA[pb]MA[sb])
+(;B[sb]
+(;W[pb]
+(;B[qa];W[sc]C[Only ko!]LB[ra:1]LB[sa:2])
+(;B[sc];W[qa]C[Alive!]))
+(;W[sc];B[pb])
+(;W[qa];B[pb]))
+(;B[ra];W[qa]
+(;B[pa];W[pb]MA[qa]MA[sc]C[Miai, alive!])
+(;B[sc];W[pb])
+(;B[sb];W[pb])
+(;B[pb];W[sa])
+(;B[na];W[sa]))
+(;B[pa]
+(;W[pb]C[Alive!CHOICE])
+(;W[ra]C[Alive!CHOICE]))
+(;B[qa];W[ra]C[Alive!])
+(;B[na];W[pb]C[Alive!]))

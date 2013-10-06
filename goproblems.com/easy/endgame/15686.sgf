@@ -1,0 +1,12 @@
+(;GE[endgame]DI[10k]DP[54]SO[thanush]CO[0]AW[qb]AW[ob]AW[nc]AW[nd]AW[ne]AW[oe]AW[qe]AW[pe]AW[re]AW[rf]AB[nb]AB[na]AB[lb]AB[mc]AB[me]AB[md]AB[nf]AB[mf]AB[of]AB[pf]AB[qf]AB[qg]AB[rg]C[W's position looks strong, reduce it]AP[goproblems]
+(;B[oa];W[pa];B[oc];W[pb])
+(;B[pa];W[oa]
+(;B[oc];W[pb])
+(;B[pb];W[oc]))
+(;B[pb]
+(;W[pc]C[CHOICE]
+(;B[pa];W[qa];B[oa];W[oc]C[RIGHT])
+(;B[oa];W[pa]))
+(;W[pa]C[CHOICE];B[pc];W[oc];B[oa];W[ra]C[RIGHT]))
+(;B[oc];W[pa])
+(;B[pc];W[pb]))

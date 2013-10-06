@@ -1,0 +1,26 @@
+(;GE[elementary]DI[15k]DP[60]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[cm][dm][cn][co][fo][ap][bp][cp][fp][dq][eq][fq][br][er][fr][bs][es]AB[em][dn][fn][gn][do][eo][go][dp][gp][bq][cq][gq][ar][dr][gr][cs][fs][gs]C[how can black win?]
+(;B[aq]CR[aq]C[RIGHT
+white cannot approach anywhere here])
+(;B[cr]CR[cr]
+;W[aq]CR[aq]
+(;B[as]CR[as]
+;W[br]CR[br]
+(;B[bs]CR[bs]C[RIGHT])
+(;B[ds]CR[ds]
+;W[bs]CR[bs]))
+(;B[ep]CR[ep]
+;W[en]CR[en]))
+(;B[as]CR[as]
+;W[aq]CR[aq])
+(;B[ep]CR[ep]
+;W[en]CR[en])
+(;B[ds]CR[ds]
+;W[cr]CR[cr])
+(;B[en]CR[en]
+;W[aq]CR[aq]
+(;B[cr]CR[cr]
+;W[ds]CR[ds])
+(;B[ep]CR[ep]
+;W[cr]CR[cr])))

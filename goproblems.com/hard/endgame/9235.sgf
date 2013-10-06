@@ -1,0 +1,49 @@
+(;GE[endgame]DI[4d]DP[7]SO[santa c]CO[6]AB[kr]AB[kq]AB[jp]AB[ip]AB[hp]AB[jo]AB[gq]AB[fq]AB[fp]AB[er]AB[dq]AB[cr]AB[cp]AB[bp]AB[bo]AB[cn]AB[cm]AB[bl]AB[dl]AB[el]AB[fl]AB[fm]AB[gl]AB[hl]AW[gm]AW[hm]AW[im]AW[jm]AW[jn]AW[fn]AW[fo]AW[go]AW[gp]AW[ho]AW[io]AW[em]AW[eo]AW[do]AW[co]AW[ep]AW[dp]AW[eq]AW[bm]AW[ko]AW[lo]AW[lp]AW[lq]AW[lr]AW[ls]AB[kp]AW[hr]C[How does Black reply at the buttom? (Keep as many points as possible)]AP[goproblems]
+(;B[ks];W[hq]
+(;B[gs];W[jr]C[Well L1 was too much... ;)])
+(;B[gr]C[Well L1 was too much... Please see the next problem for details... ;)])
+(;B[fr];W[jr]C[Well L1 was too much... ;)])
+(;B[fs];W[gs];B[fr];W[jr]C[Well L1 was too much... ;)])
+(;B[ir];W[fr]C[Well L1 was too much... ;)])
+(;B[hs];W[fr]C[Well L1 was too much... ;)]))
+(;B[hq];W[ks]C[White gets to conncet! :(])
+(;B[gr];W[ks]C[White gets to conncet! :(])
+(;B[gs];W[jr]C[Can't keep the points here... :(]TR[ks]TR[hq])
+(;B[fr];W[ks]C[White gets to conncet! :(])
+(;B[fs];W[ks]C[White gets to conncet! :(])
+(;B[ir];W[ks]
+(;B[jr];W[js]C[White gets to play K1! You could avoid this! (See White agression at this point in one of the following problems)];B[is]C[Well done! =)RIGHT])
+(;B[js];W[hq]
+(;B[gs]C[See one of the next problems...])
+(;B[gr];W[gs];B[fr];W[iq]C[Ends with ko or seki... Either way unneeded risk...])
+(;B[iq];W[fr]C[:(]))
+(;B[is];W[jr]C[White gets to reduce farther...]))
+(;B[jr];W[ks]
+(;B[js]C[];W[hq]
+(;B[gs]C[]MA[ks]MA[js];W[hs]C[Black can't do better than seki? Painful! :(])
+(;B[gr];W[gs];B[fr];W[iq]C[Black can't do better than seki? Painful! :(])
+(;B[fr])
+(;B[iq];W[fr]C[:(])
+(;B[ir];W[fr]C[:(])
+(;B[fs];W[gs]
+(;B[fr];W[iq]C[Can't get better than seki? Painful! :(])
+(;B[iq];W[fr]C[:(]))
+(;B[hs];W[gs]
+(;B[is];W[fr]C[:(])
+(;B[fr];W[is]C[Black's captured! Ouch!])))
+(;B[ir];W[js]C[];B[is]C[Well done! =)RIGHT])
+(;B[is];W[js]C[];B[ir]C[Well done! =)RIGHT]))
+(;B[js];W[hq]
+(;B[gs]C[See one of the next problems...])
+(;B[ir];W[fr]C[:(])
+(;B[gr];W[gs];B[fr];W[iq]C[Can't get better than seki? Ouch!])
+(;B[hs];W[gs]
+(;B[fr];W[ir]C[:(])
+(;B[is];W[fr]C[:(])))
+(;B[is];W[hq]
+(;B[gs];W[jr]
+(;B[js];W[ks];B[ir];W[iq]C[:(])
+(;B[ir];W[iq];B[js];W[ks]C[:(])
+(;B[ks];W[ir]C[Can't get better than seki? Ouch!]))
+(;B[gr];W[gs];B[fr];W[jr]C[:(])
+(;B[fr];W[jr]C[:(])))

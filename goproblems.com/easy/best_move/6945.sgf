@@ -1,0 +1,39 @@
+(;GE[best move]DI[7k]DP[42]SO[rene]CO[7]GM[1]FF[4]AP[glGo:1.0]ST[1]
+
+SZ[9]KM[0.0]
+PW[Weiss]PB[Schwarz]DT[2005-07-20]
+AB[bi][hh][gh][bh][ah][gg][fg][eg][cg][bg][cf][de][ce][be][ae][gd][cd][ad][hc][gc][fc][ec][bc][hb][fb][db][bb][ab][ga][ea][da]AW[di][ih][fh][eh][ch][hg][dg][if][hf][gf][ff][df][he][ge][ee][id][hd][fd][ed][dd][ic][dc][cc][ib][cb][ia][ha][ca][ba]C[Black to win the game, no komi]
+(;B[ef]
+;W[dh]
+(;B[hi]
+;W[fi]
+(;B[ci]
+;W[ig]
+;B[aa]
+;W[fe]C[CHOICE
+RIGHT
+Seki. Black wins by 9 points.])
+(;B[aa]
+;W[fe]
+;B[ci]C[CHOICE
+RIGHT
+Seki. Black wins by 9 points.]))
+(;B[gi]
+;W[fi])
+(;B[aa]
+;W[fe]
+;B[hi]
+;W[fi]
+;B[ci]C[CHOICE
+RIGHT
+Seki. Black wins by 9 points.]))
+(;B[aa]
+;W[ef]C[After bC1-wD2 white wins by 9 points.])
+(;B[ci]
+;W[dh]
+(;B[aa]
+;W[ef]C[White wins by 9 points.])
+(;B[ef]
+;W[gi]
+;B[aa]
+;W[hi]C[White wins by 9 points.])))

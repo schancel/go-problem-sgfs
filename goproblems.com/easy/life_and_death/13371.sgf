@@ -1,0 +1,9 @@
+(;GE[life and death]DI[5k]DP[34]SO[thavdog]CO[0]AW[br]AB[cr]AB[dr]AB[dq]AW[cq]AW[cp]AW[dp]AW[eq]AW[er]AB[ep]AB[fp]AB[gp]AW[fq]AW[gq]AW[gr]AB[fr]AB[hq]AB[hr]AB[hs]AW[hp]AW[ip]AW[iq]AW[jq]AW[jr]AW[is]AB[ho]AB[io]AB[jp]AB[kp]AB[kq]AB[kr]TR[hp]TR[ip]TR[iq]TR[jq]TR[jr]TR[is]C[Black to capture the six marked stones.]AP[goproblems]
+(;B[es];W[fs];B[ks];W[ds];B[js];W[gs];B[ir]C[RIGHT])
+(;B[ds];W[fs])
+(;B[fs];W[es]
+(;B[ds];W[cs])
+(;B[ks];W[gs];B[js];W[ir]))
+(;B[gs];W[fs])
+(;B[js];W[ks];B[ls];W[gs])
+(;B[ks];W[gs]))

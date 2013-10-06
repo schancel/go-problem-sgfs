@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1d]DP[17]SO[santa c]CO[0]AB[ao]AB[bo]AB[co]AB[do]AB[eo]AB[ep]AB[er]AB[es]AB[eq]AW[as]AW[cr]AW[bq]AW[dq]AW[ds]AW[ap]AW[cp]C[I say why not - Easy tsumego might have interesting path to explore as well, right?]AP[goproblems]
+(;B[dr]
+(;W[bp]
+(;B[ar];W[cs]
+(;B[br]C[Well done! =)RIGHT])
+(;B[dp];W[br];B[bs]C[ko! :(])
+(;B[bs];W[br]
+(;B[dp];W[as]C[ko! :(])
+(;B[as];W[dp])))
+(;B[bs];W[ar]
+(;B[cs];W[dp])
+(;B[dp];W[cs]))
+(;B[br];W[ar])
+(;B[dp];W[ar]
+(;B[cs];W[bs];B[cq];W[ds]C[alive in double ko!])
+(;B[cq];W[cs]))
+(;B[cs];W[ar]
+(;B[bs])
+(;B[dp];W[bs])))
+(;W[br];B[bp]C[RIGHT]))
+(;B[bs];W[br];B[ar];W[aq]
+(;B[as];W[cs]MA[as]MA[dp])
+(;B[dp];W[cs])
+(;B[dr];W[cs])
+(;B[bp];W[cs]))
+(;B[br];W[bp]
+(;B[bs];W[cs])
+(;B[ar];W[dr]C[Black can only have seki! :(])
+(;B[dr])
+(;B[dp];W[ar]))
+(;B[cs];W[dr])
+(;B[dp];W[br]MA[bs]MA[ar])
+(;B[bp]C[NOTTHISRIGHT])
+(;B[aq]C[NOTTHIS])
+(;B[ar]C[NOTTHIS]))

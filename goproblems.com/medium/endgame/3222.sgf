@@ -1,0 +1,39 @@
+(;GE[endgame]DI[1d]DP[16]SO[bass]CO[7]SZ[9]AW[db]AW[eb]AW[gb]AW[hb]AW[ac]AW[bc]AW[cc]AW[dc]AW[hc]AW[ad]AW[dd]AW[ed]AW[hd]AW[ae]AW[ce]AW[de]AW[ee]AW[he]AW[af]AW[ef]AW[hf]AW[dg]AW[fg]AB[ec]AB[fc]AB[gc]AB[bd]AB[cd]AB[fd]AB[gd]AB[be]AB[bf]AB[cf]AB[df]AB[ff]AB[gf]AB[ag]AB[eg]AB[hg]AB[bh]AB[eh]AB[fh]C[No komi, no prisoners, black to play and win.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[if];W[ch]
+(;B[dh];W[bi]
+(;B[cg];W[ah]
+(;B[ci];W[bg]
+(;B[ai];W[ag]
+(;B[fb];W[fa]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ie];B[ig];W[bi]C[White wins.])
+(;B[bi];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ie];B[ig]C[Jigo.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TB[dg]TB[fg]TB[ch]TB[gh]TB[hh]TB[ih]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[ie];W[id];B[ig];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[bi]C[White wins.]))
+(;B[ch];W[ag]C[White wins.]))
+(;B[ai];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ah];B[ci];W[bg];B[ai];W[ag]
+(;B[bi];W[ie];B[ig]C[Jigo.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TB[dg]TB[fg]TB[ch]TB[gh]TB[hh]TB[ih]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[ie];W[id];B[ig];W[bi]C[White wins.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TB[dg]TB[fg]TB[gh]TB[hh]TB[ih]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])))
+(;B[bg];W[ah];B[ai];W[fb]
+(;B[gg];W[ah]C[White wins.])
+(;B[ci];W[ge]C[White wins.])))
+(;B[bg];W[bi];B[dh];W[ah];B[ai];W[fb]
+(;B[gg];W[ah]C[White wins.])
+(;B[ci];W[ge]C[White wins.])))
+(;B[dh];W[ig]
+(;B[ih];W[if]LB[hh:A]C[Play at A.FORCE];B[hh]C[];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[Well done! Black wins by 2 points.FORCERIGHT]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[bg]TB[cg]TB[dg]TB[fg]TB[ah]TB[ch]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[hh];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ih];B[hi]C[Jigo.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[bg]TB[cg]TB[dg]TB[fg]TB[ah]TB[ch]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]))
+(;B[fb];W[fa]LB[gg:A]C[Start with G3 to see why this is wrong.])
+(;B[ch];W[ig]
+(;B[ih];W[if]LB[hh:A]C[Play at A.FORCE];B[hh]C[];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[Well done! Black wins by 2 pointsRIGHT]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[bg]TB[cg]TB[dg]TB[fg]TB[ah]TB[dh]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[hh];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ih];B[hi]C[Jigo.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[bg]TB[cg]TB[dg]TB[fg]TB[ah]TB[dh]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]))
+(;B[cg];W[ig]
+(;B[ih];W[if]LB[hh:A]C[Play at A.FORCE];B[hh]C[];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[Well done! Black wins by 2 points.FORCERIGHT]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[bg]TB[dg]TB[fg]TB[ah]TB[ch]TB[dh]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[hh];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ih];B[hi]C[Jigo.]))
+(;B[bg];W[ig]
+(;B[ih];W[if]LB[hh:A]C[Play at A.FORCE];B[hh]C[];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[Well done! Black wins by 2 points.RIGHT]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[cg]TB[dg]TB[fg]TB[ah]TB[ch]TB[dh]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[hh];W[fb]LB[gg:A]C[Play at A.FORCE];B[gg]C[];W[ih];B[hi]C[Jigo.]TW[aa]TW[ba]TW[ca]TW[da]TW[ea]TW[fa]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TW[ie]TB[cg]TB[dg]TB[fg]TB[ah]TB[ch]TB[dh]TB[gh]TB[ai]TB[bi]TB[ci]TB[di]TB[ei]TB[fi]TB[gi]))
+(;B[ah]C[Yes, this also works. Navigate solution at D2.RIGHT])
+(;B[ai]C[I actually planned to mark F8, J4 and A1 with letters and ask 'A, B or C' :-)RIGHT])
+(;B[bi]C[yes, this works too.RIGHT])
+(;B[ci]C[yes, also correct.RIGHT])
+(;B[di]C[yes, should work.RIGHT])
+(;B[gg]C[Nice idea, but white still has enough ko threats to play at C2];W[ch]LB[dh:A]C[Nice idea, but white still has the necessary threats. play at A.FORCE];B[dh]C[];W[bi]LB[cg:A]C[FORCE];B[cg]C[];W[ah]LB[ai:A]C[FORCE];B[ai]C[];W[ig]LB[ih:A]C[FORCE];B[ih]C[];W[ah]LB[ci:A]C[FORCE];B[ci]C[];W[bg]LB[ai:A]C[FORCE];B[ai]C[];W[ag]LB[if:A]C[FORCE];B[if]C[];W[bi]LB[fb:A]C[FORCE];B[fb]C[];W[fa]LB[ai:A]C[FORCE];B[ai];W[ge]LB[fe:A]C[FORCE];B[fe]C[];W[bi]LB[ga:A]C[FORCE];B[ga]C[];W[ea]LB[ai:A]C[FORCE];B[ai]C[];W[ie]LB[bi:A]C[FORCE];B[bi]C[];W[ig]LB[hh:A]C[FORCE];B[hh]C[];W[if]C[White wins.]TW[aa]TW[ba]TW[ca]TW[da]TW[ga]TW[ha]TW[ia]TW[ab]TW[bb]TW[cb]TW[ib]TW[ic]TW[id]TB[dg]TB[fg]TB[ch]TB[gh]TB[di]TB[ei]TB[fi]TB[gi]TB[hi]TB[ii])
+(;B[ig]C[J4 is locally better.]))

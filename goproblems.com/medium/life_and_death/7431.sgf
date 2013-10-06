@@ -1,0 +1,33 @@
+(;GE[life and death]DI[2k]DP[22]SO[tom111]CO[9]AW[ra]AW[rc]AW[qc]AW[pb]AW[pc]AW[oc]AW[re]AW[se]AB[rf]AB[qf]AB[qe]AB[pd]AB[od]AB[nd]AB[nc]AB[nb]AB[ob]AB[pa]AB[qa]C[Black to kill and beware of the Ko.]AP[goproblems]
+(;B[sb];W[sc]
+(;B[rd];W[qd]
+(;B[rb]C[RIGHT])
+(;B[qb];W[rb]C[???])
+(;B[sf];W[sd];B[rb]C[RIGHT]))
+(;B[qd];W[rd])
+(;B[rb];W[qb];B[rd];W[oa]
+(;B[qd];W[pa])
+(;B[pa];W[qd]))
+(;B[qb];W[rb]
+(;B[rd];W[oa])
+(;B[oa];W[qd])))
+(;B[rb];W[sb]
+(;B[rd];W[qb])
+(;B[qb];W[oa])
+(;B[sa]C[Ko :(]))
+(;B[rd];W[sb]C[White is alive])
+(;B[sd];W[sc];B[rb];W[qb];B[sa];W[sb])
+(;B[qb];W[rb])
+(;B[qd];W[sb]C[White is alive])
+(;B[sc];W[sb]
+(;B[qb];W[sd])
+(;B[rd];W[sd]
+(;B[qd];W[qb])
+(;B[qb];W[qd])))
+(;B[sf];W[rd]
+(;B[rb];W[sb]
+(;B[sa]C[Ko :(])
+(;B[qb];W[oa]))
+(;B[sb];W[sc]
+(;B[rb];W[qb])
+(;B[sa];W[rb]))))

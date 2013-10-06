@@ -1,0 +1,65 @@
+(;GE[life and death]DI[4k]DP[29]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[]
+AW[cb][bc][dc][bd][ae][be][ce]AB[ca][ea][eb][ec][cd][ed][de][bf][cf][df]TR[ca]C[Black to play! Can he kill the white group?]
+(;B[ba]CR[ba]
+;W[dd]CR[dd]
+(;B[ac]CR[ac]
+(;W[ab]CR[ab]
+(;B[bb]CR[bb]C[This is a false eye, so white is dead! RIGHT CHOICE])
+(;B[db]CR[db]
+;W[cc]CR[cc]
+;B[bb]CR[bb]C[This a a false eye - white is dead! RIGHT CHOICE]))
+(;W[bb]CR[bb]
+(;B[ab]CR[ab]C[White is dead, W A16 isn't even sente... RIGHT CHOICE])
+(;B[db]CR[db]
+;W[cc]CR[cc]
+;B[ab]CR[ab]C[White is dead, WA16 isn't even sente.... RIGHT CHOICE])))
+(;B[db]CR[db]
+;W[cc]CR[cc]
+(;B[ac]CR[ac]
+(;W[ab]CR[ab]
+;B[bb]CR[bb]C[This is a false eye, so white is dead RIGHT CHOICE])
+(;W[bb]CR[bb]
+;B[ab]CR[ab]C[Now W A16 isn't even sente.... White is dead! RIGHT CHOICE]))
+(;B[ab]CR[ab]
+;W[ac]CR[ac]C[White lives - A18 was wrong!]))
+(;B[ab]CR[ab]
+;W[ac]CR[ac]C[White lives!]))
+(;B[bb]CR[bb]
+;W[ac]CR[ac]
+(;B[db]CR[db]
+;W[cc]CR[cc]
+;B[dd]CR[dd]
+;W[ba]CR[ba]
+;B[aa]CR[aa]
+;W[ab]CR[ab]C[Thanks to the liberty at A14, white is alive!])
+(;B[dd]CR[dd]
+;W[ba]CR[ba]
+;B[aa]CR[aa]
+;W[ab]CR[ab]C[White sacrifices a stone and lives]))
+(;B[dd]CR[dd]
+;W[ba]CR[ba]C[Too easy for white.....])
+(;B[ab]CR[ab]
+;W[ba]CR[ba]
+(;B[ac]CR[ac]
+;W[dd]CR[dd]
+(;B[bb]CR[bb]
+;W[ad]CR[ad]C[A nice move...! White lives.])
+(;B[db]CR[db]
+;W[cc]CR[cc]
+;B[bb]CR[bb]
+;W[ad]CR[ad]C[A nice move...! White lives.]))
+(;B[bb]CR[bb]
+;W[ac]CR[ac]C[White lives!]))
+(;B[ac]CR[ac]
+;W[ba]CR[ba]
+;B[ab]CR[ab]
+;W[dd]CR[dd]
+;B[db]CR[db]
+;W[cc]CR[cc]
+;B[bb]CR[bb]C[A ko...?!]
+;W[ad]CR[ad]C[No! White lives!])
+(;B[db]CR[db]
+;W[ba]CR[ba]
+;B[ab]CR[ab]
+;W[ac]CR[ac]C[White lives]))

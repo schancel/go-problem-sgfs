@@ -1,0 +1,121 @@
+(;GE[life and death]DI[5k]DP[33]SO[fwiffo]CO[8]AB[cd]AB[df]AB[ic]AW[jd]AW[jc]AB[ge]AW[hf]AW[eg]AB[cc]AW[dc]AW[ed]AB[de]AB[ee]AW[ef]AB[ff]AW[dh]AW[fh]AB[gb]AB[ib]AW[gc]AW[hc]AB[gd]AB[hd]AW[he]AW[gf]AW[id]AW[jb]AB[kd]AB[je]AB[ie]TR[gb]C[Black just played the marked stone - what should white do about it?]AB[ke]AB[lb]AB[cg]AW[dd]AB[lc]AP[goproblems]
+(;W[hb];B[fc]
+(;W[ha];B[eb]C[]
+(;W[db];B[fd]C[White is cut and loses everything.])
+(;W[fd];B[fe]
+(;W[cb];B[db]C[White is cut and loses everything.])
+(;W[db];B[cb]
+(;W[ca];B[ec]C[Black wins the race.])
+(;W[da];B[ea]C[Black will win the race.])
+(;W[ga]
+(;B[fb]
+(;W[da];B[ea]C[White cannot approach from either side and loses the race.])
+(;W[ea]C[F18 was a mistake by black.RIGHT]))
+(;B[da]C[Black will capture.CHOICE])))
+(;W[ec];B[db]C[Oops.]))
+(;W[ec];B[db]C[White loses everything.])
+(;W[fe];B[fd]C[White is cut and loses everything.])
+(;W[ga];B[fb]
+(;W[fd];B[fe]
+(;W[db]
+(;B[cb];W[ea]C[C18 was a mistake by black.RIGHT])
+(;B[da]C[CHOICE]
+(;W[cb];B[bb];W[ca];B[ea]C[White cannot capture without self-atari and is left with nothing but ko threats.])
+(;W[ec];B[cb]C[Ooops.])
+(;W[fa];B[cb]C[Black wil capture.])
+(;W[ea];B[fa]C[White is out of escapes.])
+(;W[ca];B[ea]
+(;W[ec];B[cb]C[Oops.])
+(;W[fa];B[ia]C[Oops.])
+(;W[ia];B[cb]C[Black will capture.])
+(;W[cb];B[bb]C[White cannot capture without self-atari and is left with nothing but ko threats.]))))
+(;W[fa];B[db]C[White is cut and loses everything.])
+(;W[ea];B[db]C[White is cut and loses everything.])
+(;W[ia];B[db]C[White is cut and loses everything.])
+(;W[da];B[db]C[White is cut and loses everything.]))
+(;W[db];B[fd]C[White is cut and loses everything.])
+(;W[fa];B[fd]C[White is cut and loses everything.])
+(;W[ia];B[fd]C[White is cut and loses everything.])
+(;W[ea];B[fd]C[White is cut and loses everything.]))
+(;W[fa];B[fb]
+(;W[fd];B[fe]
+(;W[db];B[ga]
+(;W[ia];B[cb]
+(;W[da];B[ea]C[One eye is just enough to win this race.  White loses everything.])
+(;W[ea];B[da]C[White loses everything.]))
+(;W[ja];B[ia]C[Oops, white loses everything.])
+(;W[ec];B[ia]C[Oops, white loses everything.])
+(;W[ea];B[ia]C[Oops, white loses everything.])
+(;W[da];B[ia]C[Oops, white loses everything.])
+(;W[cb];B[ia]C[Oops, white loses everything.]))
+(;W[ea];B[db]C[White is cut and loses everything.]))
+(;W[db];B[fd]C[White is cut and loses everything.])
+(;W[ia];B[fd]C[White is cut and loses everything.])
+(;W[ea];B[db]C[White is cut and loses everything.])
+(;W[ga];B[fd]C[White is cut and loses everything.])))
+(;W[fd];B[fe]
+(;W[ia];B[db]C[White can do better.])
+(;W[fb];B[ha]C[Ooops.  White dies.])
+(;W[ha];B[db]C[White can do better than this.])
+(;W[ga];B[ha]C[Ooops.  White dies.])
+(;W[ec];B[ha]C[White is cut and dies.]))
+(;W[fb];B[ha]C[White loses everything.])
+(;W[ia];B[fd]C[White might live on the right, but can do better.])
+(;W[ga];B[ha]C[White loses everything.])
+(;W[ja];B[ha]C[White is cut and dies.]))
+(;W[fe];B[fd]
+(;W[fc];B[fe]
+(;W[hb]C[];B[db]
+(;W[ec];B[eb]
+(;W[fb]C[White lives, but can do better.])
+(;W[ha];B[fb]C[White cannot live like this.]))
+(;W[fb];B[ec]C[White lives but can do better.])
+(;W[ia];B[fb]C[White dies.])
+(;W[eb];B[ec]C[White lives, but can do better.]))
+(;W[fb];B[db]
+(;W[ec];B[hb]C[White is too short of liberties to survive.])
+(;W[hb];B[ec]C[White lives but can do better.]))
+(;W[ec];B[hb]C[Black will win the race and capture the marked stones.]TR[jb]TR[jc]TR[jd]TR[id])
+(;W[eb];B[db];W[ec];B[hb]C[White is too short of liberties to live.])
+(;W[db];B[hb]C[Black will win the race and capture the marked stones.]TR[jb]TR[jc]TR[jd]TR[id]))
+(;W[hb];B[fc]
+(;W[fb];B[ha]C[Ooops.])
+(;W[ia];B[fb]C[White is cut and cannot live.])
+(;W[ha];B[fb]C[White is cut and cannot live.]))
+(;W[ia];B[fc]C[White is cut and cannot live.])
+(;W[fb];B[fc]C[White is cut and cannot live.]))
+(;W[fd];B[fe]
+(;W[hb];B[fc]
+(;W[ia];B[db]C[White can do better.])
+(;W[fb];B[ha]C[White is cut and cannot live.])
+(;W[ha];B[db]C[White can do better.]))
+(;W[fc];B[hb]
+(;W[fb];B[ja]C[Black will the race and capture the marked stones.]TR[jb]TR[jc]TR[jd]TR[id])
+(;W[ia];B[fb]C[Black will win the race to capture the marked stones.]TR[jb]TR[jc]TR[jd]TR[id]))
+(;W[fb];B[hb]
+(;W[fc];B[ja]C[White loses the race.])
+(;W[ga];B[fc]C[White is cut and dies.])
+(;W[ia];B[fc]C[White is cut and dies.]))
+(;W[db];B[fc]C[White is cut and dies.])
+(;W[ia];B[hb]
+(;W[fc];B[fb]C[Black will win the race to capture the marked stones.]TR[id]TR[jd]TR[jc]TR[jb])
+(;W[fb];B[fc]C[White is cut and dies.])
+(;W[ha];B[fc]C[White is cut and dies.])))
+(;W[fc]
+(;B[hb];W[fe]C[This happened in the game and was very nice for white.RIGHT])
+(;B[fe]C[CHOICE]
+(;W[hb]C[White will capture the marked black stones and live.RIGHT]TR[gb]TR[ib]TR[ic])
+(;W[fb]TR[gb]TR[ib]TR[ic]C[White will capture the marked black stones and live.RIGHT])
+(;W[fd];B[hb]C[Black will win the race and capture the marked stones.  Even if the left part can live, white could do better.]TR[jb]TR[jc]TR[jd]TR[id])
+(;W[cb];B[hb]C[Black will win the race and capture the marked stones.  Even if the left part can live, white could do better.]TR[id]TR[jd]TR[jc]TR[jb])
+(;W[db];B[hb]C[Black will win the race and capture the marked stones.  Even if the left part can live, white could do better.]TR[id]TR[jd]TR[jc]TR[jb])
+(;W[ia]C[White captures the marked black stones and lives.RIGHT]TR[ib]TR[ic]TR[gb])
+(;W[ec];B[hb]TR[id]TR[jd]TR[jc]TR[jb]C[Black will win the race and capture the marked stones.])
+(;W[eb];B[hb]TR[id]TR[jd]TR[jc]TR[jb]C[Black will win the race and capture the marked stones.  Even if the left part can live, white could do better.])
+(;W[ha]C[White captures the marked black stones and lives.RIGHT]TR[gb]TR[ib]TR[ic])
+(;W[ga]C[White captures the marked black stones and lives.RIGHT]TR[gb]TR[ib]TR[ic])
+(;W[ja]C[White captures the marked black stones and lives.RIGHT]TR[gb]TR[ib]TR[ic])))
+(;W[fb];B[fc]C[White is cut and loses everything.])
+(;W[db];B[fc]C[White is captured.])
+(;W[eb];B[fc]C[White is captured.])
+(;W[cb];B[fc]C[White is captured.]))

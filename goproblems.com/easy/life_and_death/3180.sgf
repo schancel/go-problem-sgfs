@@ -1,0 +1,30 @@
+(;GE[life and death]DI[7k]DP[40]SO[polo]CO[9]AB[sr][rr][qr][pq][oq][np][no][nn][nm][mq][pl][ql][rl][qp]AW[qq][rq][pp][op][oo][on][pn][qn][qo][qm][rm]C[Black to kill white]SZ[19]
+
+(;B[ro];W[rp]
+(;B[sp];W[so];B[sn]C[RIGHT])
+(;B[sn];W[rn]
+(;B[sm];W[so])
+(;B[sp];W[so]C[Even if black wins the ko white cannot be killed]))
+(;B[sq];W[so]
+(;B[rn];W[sn])
+(;B[sp];W[rn])
+(;B[sm];W[rn])
+(;B[sn];W[rn]))
+(;B[so];W[sp]
+(;B[sq];W[qp];B[sm];W[sn];B[rn];W[sn]C[Snapback])
+(;B[sm];W[sn];B[rn];W[sn]C[Snapback])
+(;B[sn];W[sm])))
+(;B[rp];W[ro]
+(;B[sq];W[sn])
+(;B[sn];W[sp])
+(;B[so];W[sp]
+(;B[sq];W[sn])
+(;B[sn];W[sm])))
+(;B[sq];W[ro]
+(;B[rp];W[sn])
+(;B[sn];W[rp])
+(;B[so];W[rp]))
+(;B[sp];W[ro];B[rp];W[so])
+(;B[so];W[ro])
+(;B[sm];W[ro])
+(;B[sn];W[ro]))

@@ -1,0 +1,70 @@
+(;GE[best move]DI[4d]DP[8]SO[BartTM]CO[6]AB[da]AB[db]AB[dc]AB[cc]AB[bc]AB[bd]AB[be]AB[ae]AW[af]AW[bf]AW[cf]AW[ce]AW[cd]AW[dd]AW[ed]AW[ec]AW[eb]AW[ea]AW[bb]C[Can White either kill the corner or get any kind of profit in sente? Then play it; otherwise play tenuki at E14 (T).]LB[ef:T]AP[goproblems]
+(;W[ac]LB[ef:T];B[ba]LB[ef:T]
+(;W[ab]C[Gote seki.])
+(;W[aa]
+(;B[ab]MA[ca]C[Black risks nothing with this ko, as Black can always connect at C19 when White takes it back.; all you get then is a gote seki.])
+(;B[ca]LB[ef:T]C[Black simply refuses to fight the ko. Now what? Please connect or play at T for tenuki.]
+(;W[ab]C[Even if Black does not fight the ko all you can get is a gote seki.])
+(;W[ef]C[])))
+(;W[cb]LB[ef:T];B[ca]LB[ef:T]
+(;W[ab]C[Gote seki.])
+(;W[aa];B[ab])
+(;W[ad];B[ab])
+(;W[ef];B[ab]))
+(;W[ca]LB[ef:T];B[cb]LB[ef:T]
+(;W[ab]C[Gote seki, one point for Black.])
+(;W[aa];B[ab])
+(;W[ad];B[ab])
+(;W[ef];B[ab]))
+(;W[ad];B[ab])
+(;W[ef]
+(;B[ca]C[Black ignored your tenuki, now what?CHOICE]LB[ff:T]
+(;W[aa];B[ab]C[The best White can get out of this ko is a seki in gote so it's a free ko for Black.])
+(;W[ab]C[Since White could play tenuki this is in fact a sente seki for White.RIGHT])
+(;W[cb];B[ab])
+(;W[ad];B[ab])
+(;W[ff];B[ab]C[If Black loses this ko, White is the last to play here but has tenukied 2 times for 1 Black tenuki, so in fact this is a sente seki + one point for White. Yet, if Black wins the ko, White has had 3 tenukis plus sente while Black gets just 7 points.RIGHT]))
+(;B[ab]C[CHOICE];W[aa]C[Even if Black wins this ko Black gets only 7 points for double gote. If White can win it Black must play C19 (or die), then White connects; since White has played tenuki once it is in fact a sente seki for White with one extra point (the captured stone at A18). After C19 White may even tenuki; letting Black win the ko for just 6 points with triple gote.RIGHT]MA[ca]MA[ab])))
+(;W[ba]LB[ef:T];B[ac]LB[ef:T]
+(;W[ab]C[Gote seki.])
+(;W[cb];B[ab])
+(;W[ca];B[ab]C[])
+(;W[ef];B[ab]C[Black lives with points. Black may even play tenuki instead, knowing that White can only make it seki in gote.]))
+(;W[ca]LB[ef:T];B[cb]LB[ef:T]
+(;W[ac]LB[ef:T];B[ba]LB[ef:T]
+(;W[ab]C[Gote seki, Black has one point.])
+(;W[ad];B[ab])
+(;W[aa];B[ab])
+(;W[ef];B[ab]))
+(;W[aa];B[ac])
+(;W[ab]LB[ef:T];B[ba]LB[ef:T]
+(;W[ac]C[Gote seki, Black has one point.])
+(;W[aa];B[ac]C[Black might as well play tenuki instead of capturing, for it is quite hard for White to win the resulting ko. Black can tenuki twice before recapturing and starting this ko in earnest.])
+(;W[ef];B[ac]))
+(;W[ba];B[ab])
+(;W[ad];B[ba])
+(;W[ef];B[ab]))
+(;W[ab]LB[ef:T];B[ba]LB[ef:T]
+(;W[ac]C[Gote seki])
+(;W[cb];B[ac])
+(;W[ca]LB[ef:T];B[cb]LB[ef:T]
+(;W[ac]C[Gote seki, Black has one point.])
+(;W[ef];B[ac]))
+(;W[aa]LB[ef:T]
+(;B[ca]LB[ef:T]
+(;W[ac]C[Gote seki.])
+(;W[ef];B[ac]))
+(;B[cb]LB[ef:T]
+(;W[ca]MA[ac]C[Approach-move ko. White cannot connect this ko but must play A17 (or A16) after which Black retakes. White can only play this if White has one more ko threat than Black.])
+(;W[ef];B[ac])))
+(;W[ad]C[];B[ac])
+(;W[ef];B[ac]))
+(;W[aa];B[ac]C[Black is alive with points.])
+(;W[cb]LB[ef:T];B[ac]LB[ef:T]
+(;W[ab];B[ca])
+(;W[ba];B[ab])
+(;W[ca];B[ab])
+(;W[ef]C[The corner is alive with points. You can do better.])
+(;W[aa];B[ca]))
+(;W[ad];B[ab]C[Black has one eye and White hasn't.])
+(;W[ef]C[];B[ac]C[Black lives with points, which White could have prevented in sente.]))

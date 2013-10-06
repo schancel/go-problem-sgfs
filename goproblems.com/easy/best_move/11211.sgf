@@ -1,0 +1,18 @@
+(;GE[best move]DI[6k]DP[36]SO[mafutrct]CO[0]AB[qd]AW[od]AW[nc]AW[md]AW[ne]AB[oc]AB[ob]AB[pe]AB[oe]AB[nf]AB[of]AW[mf]AW[lf]AW[kf]AW[kg]AB[lg]AB[mg]AW[ng]AB[nh]AB[pj]AB[ql]AW[ol]AW[qn]AW[qp]AW[pp]AW[qq]AW[oo]AW[no]AB[qr]AB[pq]AB[op]AB[np]AB[mp]AB[or]AB[bp]AB[bq]AB[cq]AW[eq]AW[fq]AW[dr]AW[dp]AB[dq]AW[cp]AW[bo]AW[ao]AW[co]AB[bn]AB[cn]AB[dn]AB[ep]AB[cj]AB[ck]AW[bj]AB[bi]AB[bh]AW[ci]AW[di]AW[dh]AW[dg]AW[df]AW[cb]AW[cc]AB[bc]AB[bd]AB[cd]AB[be]AW[dd]AW[ce]AW[de]AB[cf]AB[cg]AB[ch]AW[fc]C[White to win the fight easily. Spot the correct area, and play a simpe yet strong move.]AP[goproblems]
+(;W[eo];B[fp]C[]
+(;W[gp];B[fo]C[];W[fn]AB[go]AW[ho]AB[gn]AW[gm]AB[hn]AW[in]AB[hm]AW[hl]AB[im]AW[jm]AB[il]AW[ik]AB[jl]AW[kl]AB[jk]AW[jj]AB[kk]AW[lk]AB[kj]AW[ki];B[lj];W[mj];B[li]
+(;W[lh];B[mi]
+(;W[ni]C[Good job!RIGHT])
+(;W[mh];B[ni]C[This is very bad for white.]))
+(;W[mi];B[lh]
+(;W[mh];B[og]C[Sorry, this does not work.])
+(;W[kh];B[og]C[Sorry, this does not work.])))
+(;W[fo];B[gp]C[This is bad for white. Try to find an easier way!])
+(;W[go];B[gp]C[];W[hp];B[gq]
+(;W[hq];B[gr]C[Sadly, the loose ladder is not working :(])
+(;W[gr];B[hq]C[Sadly, the loose ladder is not working :(])))
+(;W[fo];B[eo]C[Sorry, you just killed yourself.])
+(;W[cr];B[do]C[Sorry, you just killed yourself.])
+(;W[br];B[do]C[Sorry, you just killed yourself.])
+(;W[lh];B[do];W[mh]C[This exchange is a nice idea, but black is not really affected by losing the 2 stones. White can do better.])
+(;W[mh];B[do];W[lh]C[This exchange is a nice idea, but black is not really affected by losing the 2 stones. White can do better.]))

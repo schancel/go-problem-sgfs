@@ -1,0 +1,17 @@
+(;GE[endgame]DI[6k]DP[37]SO[santa c]CO[8]AB[rb]AB[rc]AB[rd]AW[qd]AW[qc]AW[qb]AB[pc]AB[oc]AB[pd]AB[pe]AB[qe]AW[re]AW[qf]AW[sd]AW[pg]C[The common response here is...]LB[sd:A]AW[sf]AW[rg]AP[goproblems]
+(;B[sb]C[Well done! Simple and stops the White reduction! :)RIGHT])
+(;B[sc];W[ra];B[se]MA[sd]C[Ko for the corner! Dangerous! :(])
+(;B[ra];W[sb]
+(;B[sc];W[qa]
+(;B[se]MA[sd]C[Ko for the corner! Dangerous! :(])
+(;B[sa];W[sb]C[:(])
+(;B[pb];W[sa]C[:(])
+(;B[pa];W[sa]C[:(]))
+(;B[qa];W[sc]C[White got to reduce it farther...])
+(;B[pb];W[sc]C[White got to reduce it farther...])
+(;B[sa];W[qa]C[:(])
+(;B[pa];W[sc]C[White got to reduce it farther...]))
+(;B[qa];W[sb]C[Black can't play at A... White to reduce it farther...]LB[sc:A])
+(;B[pb];W[sb]C[Black can't play at A... White got to reduce it farther...]LB[sc:A])
+(;B[pa];W[sb]C[Black can't play at A... White got to reduce it farther...]LB[sc:A])
+(;B[sa]C[White can still reduce at A...]LB[sc:A]))

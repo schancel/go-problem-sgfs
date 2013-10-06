@@ -1,0 +1,15 @@
+(;GE[best move]DI[6k]DP[39]SO[maba]CO[6]AB[as]AB[bs]AB[dr]AB[ds]AB[es]AB[er]AB[aq]AB[bq]AB[cq]AB[ap]AB[bp]AB[bo]AB[dp]AB[ep]AB[eo]AW[dq]AW[eq]AW[fq]AW[fr]AW[fs]AW[fp]AW[fo]AW[fn]AW[dn]AW[en]AW[cn]AW[co]AW[bn]AW[an]AW[ao]C[How should white play here?]AP[goproblems]
+(;W[cr]
+(;B[br]
+(;W[cs];B[dr]
+(;W[cp];B[ds]C[RIGHT])
+(;W[er];B[ds];W[cp]C[White loses sente.])
+(;W[ds];B[es]
+(;W[er];B[ds])
+(;W[ds];B[cs])))
+(;W[cp];B[cs]C[Not optimal.]))
+(;B[cs];W[br]C[RIGHT])
+(;B[cp];W[cs]C[RIGHT]))
+(;W[cp];B[cr]C[Not optimal.])
+(;W[cs];B[cr])
+(;W[br];B[cr]))

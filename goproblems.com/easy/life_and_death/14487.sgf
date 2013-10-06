@@ -1,0 +1,14 @@
+(;GE[life and death]DI[6k]DP[38]SO[whendrik]CO[0]AB[ad]AB[bd]AW[ac]AW[bb]AW[cb]AW[db]AW[eb]AW[ea]AB[cc]AB[dc]AB[ec]AB[fc]AB[fb]AB[fa]AP[goproblems]
+(;B[ab]
+(;W[bc]C[CHOICE];B[ba]
+(;W[aa]C[Indeed, a ko. Well done!CHOICERIGHT])
+(;W[ca];B[da]C[RIGHT]))
+(;W[aa];B[bc];W[ca];B[ab]C[This is a direct ko, where black takes first. Much better for black.RIGHT]))
+(;B[bc];W[ab])
+(;B[aa];W[bc])
+(;B[ba];W[ca]
+(;B[aa];W[ab])
+(;B[ab];W[aa])
+(;B[bc];W[ab]))
+(;B[ca];W[ba])
+(;B[da];W[bc]))

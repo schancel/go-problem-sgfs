@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1d]DP[17]SO[adum]CO[5]AB[cj]AB[ci]AB[ch]AB[bi]AB[bg]AB[ah]AB[dk]AB[cl]AB[cm]AB[cn]AB[co]AB[cp]AW[ck]AW[bk]AW[bj]AW[ak]AW[bl]AW[dj]AW[di]AW[dh]AW[dg]AW[cg]AB[cd]AB[ed]C[white would like to kill some black stones here. note: there are no non-local ko threats.]AP[goproblems]
+(;W[ai];B[aj]
+(;W[bf];B[ai]
+(;W[af];B[bm])
+(;W[bm];B[bn])
+(;W[ce];B[bm]))
+(;W[bm];B[bf])
+(;W[ek];B[dl];W[ai];B[bh];W[bf]C[RIGHT])
+(;W[dl];B[ek]C[you may catch the stones, but this ko threat is better from the other direction])
+(;W[af];B[bf])
+(;W[ai]C[NOTTHIS]))
+(;W[bf];B[bm]
+(;W[ai];B[aj])
+(;W[af];B[am])
+(;W[aj];B[ai])
+(;W[am];B[an]))
+(;W[bm];B[bf])
+(;W[am];B[bf])
+(;W[aj];B[bm])
+(;W[ce];B[ai];W[bf];B[bm])
+(;W[be];B[ai];W[af];B[bm];W[ag];B[am];W[bf];B[al])
+(;W[ag];B[af])
+(;W[af];B[bf]))

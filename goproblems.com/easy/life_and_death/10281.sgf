@@ -1,0 +1,18 @@
+(;GE[life and death]DI[5k]DP[32]SO[llel]CO[8]AB[cr]AB[br]AB[eq]AB[fq]AB[gq]AB[fr]AB[gs]AW[bq]AW[cq]AW[dp]AW[cn]AW[ep]AW[fp]AW[gp]AW[hp]AW[hq]AW[hr]AW[gr]AW[ir]C[B to live]AP[goproblems]
+(;B[dq];W[ar]C[B is dead(A and and B are miai)]LB[ds:A]LB[bs:B])
+(;B[dr];W[es]
+(;B[ar];W[fs]C[B is dead :(])
+(;B[fs];W[ar]C[B is dead =(]))
+(;B[es];W[dr];B[dq];W[ar]C[B is dead :(])
+(;B[ar];W[dr]
+(;B[es];W[dq])
+(;B[dq];W[er])
+(;B[ds];W[dq]))
+(;B[bs];W[ds]
+(;B[ar];W[dr])
+(;B[dr];W[es]
+(;B[fs];W[ar])
+(;B[ar];W[fs])))
+(;B[ds]C[Brilliant move!]
+(;W[dq]C[CHOICE];B[dr];W[ar];B[bs]C[RIGHT])
+(;W[ar]C[CHOICE];B[bs];W[dq];B[dr]C[Good!RIGHT])))

@@ -1,0 +1,55 @@
+(;GE[life and death]DI[8k]DP[49]SO[GokuWachi]CO[8]SZ[19]AB[ca]AB[da]AB[db]AB[dc]AB[dd]AB[ce]AB[cf]AB[bg]AW[cb]AW[cc]AW[ba]AW[ab]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[Blanco]PB[Negro]
+(;B[bc];W[bd]
+(;B[cd];W[bb]
+(;B[ad];W[be];B[ae];W[ac];B[af]C[Congratulations, you got it!RIGHT])
+(;B[ac];W[ad]C[You almost had it!])
+(;B[be];W[ad];B[ae];W[ac]C[You almost had it!])
+(;B[ae];W[ad];B[be];W[ac]C[You almost had it!])
+(;B[bf];W[ad])
+(;B[af];W[ad]))
+(;B[bb];W[ac])
+(;B[ac];W[ad];B[cd];W[bb])
+(;B[ad];W[cd]
+(;B[ae];W[ac])
+(;B[ac];W[ae])
+(;B[bb];W[ac])
+(;B[be];W[bb]
+(;B[ae];W[ac])
+(;B[ac];W[ae])))
+(;B[be];W[ad]
+(;B[ae];W[cd])
+(;B[cd];W[bb])
+(;B[ac];W[bb])
+(;B[bb];W[ac]))
+(;B[ae];W[ad]))
+(;B[bb];W[bc])
+(;B[ac];W[bd]
+(;B[ad];W[ae]
+(;B[be];W[bc])
+(;B[bc];W[bb])
+(;B[cd];W[be])
+(;B[bb];W[bc])
+(;B[af];W[be]))
+(;B[bc];W[ad])
+(;B[bb];W[bc])
+(;B[cd];W[bc])
+(;B[be];W[ad])
+(;B[ae];W[ad]))
+(;B[bd];W[bc];B[ad];W[ac])
+(;B[ad];W[bd]
+(;B[ac];W[ae])
+(;B[ae];W[ac]
+(;B[bc];W[cd])
+(;B[cd];W[bc])
+(;B[be];W[cd])
+(;B[bb];W[bc]))
+(;B[bc];W[cd]
+(;B[ae];W[ac])
+(;B[ac];W[ae])
+(;B[be];W[bb]
+(;B[ae];W[ac])
+(;B[ac];W[ae]))
+(;B[bb];W[ac])))
+(;B[cd];W[bc])
+(;B[ae];W[bc])
+(;B[be];W[bc]))

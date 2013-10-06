@@ -1,0 +1,29 @@
+(;GE[tesuji]DI[7k]DP[40]SO[huhss]CO[9]SZ[19]AW[br]AW[cq]AW[cp]AW[do]AW[ep]AW[en]AW[fn]AW[gn]AW[hm]AW[im]AW[io]AW[jo]AW[ip]AW[iq]AW[ir]AW[gq]AW[fo]AB[bq]AB[bp]AB[co]AB[cn]AB[dn]AB[em]AB[fm]AB[gm]AB[hl]AB[hn]AB[kn]AB[ko]AB[jp]AB[jq]AB[jr]AB[eq]C[black first]AP[MultiGo:3.6.0]
+(;B[cr]
+(;W[dr]C[it is white's mistake. punish him.]
+(;B[dq];W[dp];B[fp];W[cs];B[go]C[RIGHT])
+(;B[go];W[fq]
+(;B[dq];W[cs])
+(;B[fp];W[gp]))
+(;B[fp];W[fq];B[dq];W[cs]))
+(;W[fq]
+(;B[dr];W[dp]C[RIGHT])
+(;B[dq];W[dp]C[it is not sente])))
+(;B[dq]
+(;W[cr];B[dp];W[eo];B[fq];W[gp];B[dr];W[ar]
+(;B[gr];W[hr];B[fr];W[gs]C[RIGHT]
+(;B[es];W[bo];B[ao];W[cs];B[bn];W[fp];B[aq];W[hs];B[as];W[fs]C[RIGHT])
+(;B[cs];W[bs];B[ds];W[bo];B[bn];W[fp];B[ao];W[fs];B[aq]C[RIGHT]))
+(;B[cs];W[bo];B[bn];W[fr];B[bs];W[er];B[gr];W[fp];B[ds];W[hr];B[ao];W[gs];B[aq]C[RIGHT]))
+(;W[dp];B[cr];W[fq];B[dr];W[bs];B[fr]
+(;W[gr];B[ar];W[ds])
+(;W[ds];B[gr];W[er];B[es];W[cs];B[er];W[hr])
+(;W[es]
+(;B[ar];W[cs]
+(;B[fs];W[gr];B[er];W[gs])
+(;B[er];W[gr];B[fs];W[gs]))
+(;B[cs];W[er]))))
+(;B[fp];W[fq];B[cr];W[dr]
+(;B[dq];W[cs])
+(;B[go]))
+(;B[go];W[fq];B[cr];W[dr];B[dq]))

@@ -1,0 +1,11 @@
+(;GE[best move]DI[15k]DP[64]SO[Nitrose]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+AW[rn][sn][qo][ro][qp][qq][rq][qr][qs]AB[qm][rm][sm][pn][qn][po][pp][rp][sp][pq][pr][ps]
+C[Black to make seki.]
+;B[sr]CR[sr]
+;W[sq]CR[sq]
+;B[rs]CR[rs]
+;W[so]CR[so]
+(;B[sp]CR[sp]C[RIGHT])
+(;B[rp]CR[rp]C[RIGHT])
+)

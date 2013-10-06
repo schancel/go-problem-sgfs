@@ -1,0 +1,27 @@
+(;GE[endgame]DI[1k]DP[18]SO[Silowyi]CO[8]AB[hg]AB[ig]AW[ih]AW[hh]AB[gh]AW[gi]AW[fh]AW[eh]AW[dh]AW[ci]AB[ch]AW[bh]AW[bg]AW[ag]AB[cf]AB[cg]AW[af]AW[ae]AW[be]AW[ce]AW[de]AW[df]AB[dg]AB[eg]AB[ef]AB[ee]AB[fe]AB[ge]AB[gf]AB[gg]AB[fg]AB[he]AB[ie]AB[if]AW[hd]AW[gd]AW[fd]AW[ed]AW[ec]AW[eb]AW[ea]AB[dd]AB[dc]AB[db]AB[da]AB[ca]AB[ba]AB[bc]AB[cc]AB[bb]AW[hc]AW[hb]AW[ha]AW[ab]C[6.5 Komi and no captures.  Black to win.  (Points in seki are not counted).]AB[bf]AW[cd]AB[id]AW[ic]SZ[9]AP[goproblems]
+(;B[bi];W[ai]
+(;B[di];W[ei]
+(;B[hi];W[ac]C[White has to play it safe and take the seki.];B[fi];W[bi];B[di]C[Congratulations!  Black wins by half a point, with 10 territory and 7 captures for a total of 17.  White's 8 territory and 2 captures only yield 16.5.RIGHT])
+(;B[ac];W[hi]C[Black avoids a possible seki, but white lives along the bottom.]))
+(;B[fi];W[ac]C[This is no good.  White secures the seki, and will connect in the bottom left :(])
+(;B[hi];W[di]
+(;B[ac];W[fi]C[Black's top group is live, but white lives along the bottom.])
+(;B[fi];W[ac]C[Black's top group is in trouble!];B[gi];W[bd];B[ei];W[ad];B[bi];W[ci]C[The snapback spells death for black's top group :(])))
+(;B[di];W[bi]
+(;B[fi];W[ei]
+(;B[ac];W[hi]C[Black's top group is live, but white lives along the bottom.])
+(;B[hi];W[ac]C[This is no good.  White secures the seki, and will connect in the bottom left :(]))
+(;B[hi];W[ac]C[White has to play here to secure at least a seki.]
+(;B[fi];W[ei];B[di]AB[ai]TR[ai]C[Congratulations!  Black wins by half a point, with 10 territory and 7 captures for a total of 17.  White's 8 territory and 2 captures only yield 16.5.  (Black will eventually have to sacrifice the marked stone in order to make the seki).RIGHT])
+(;B[ei];W[fi];B[di];W[ei];B[di]C[];W[ad]AB[ai]TR[ai]C[White wins by half a point. (Black will eventually have to sacrifice the marked stone in order to make the seki.)])))
+(;B[fi];W[ac]C[White secures the seki.]
+(;B[hi];W[di]C[This is no good.  White will connect in the bottom left :(])
+(;B[di];W[ei]C[This is no good.  White will connect in the bottom left :(])
+(;B[bi];W[ai]C[This is no good.  White will connect in the bottom left :(]))
+(;B[hi];W[di]
+(;B[bi]
+(;W[ac]C[NOTTHIS])
+(;W[ai]))
+(;B[fi];W[ac]C[This is no good.  White secures the seki, and will connect in the bottom left :(])
+(;B[ac];W[fi]C[Black avoids a possible seki, but white lives along the bottom.]))
+(;B[ac];W[hi]C[Black avoids a possible seki, but white lives along the bottom.]))

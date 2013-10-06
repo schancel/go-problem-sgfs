@@ -1,0 +1,31 @@
+(;GE[life and death]DI[18k]DP[65]SO[wiggle]CO[6]AB[ad]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[fe]AB[gf]AB[hf]AB[hg]AB[hh]AB[gi]AB[fi]AB[ei]AB[di]AB[ci]AB[bi]AB[ai]AB[ah]AW[ag]AW[bh]AW[ch]AW[dh]AW[eh]AW[fh]AW[gh]AW[ae]AW[be]AW[ce]AW[de]AW[ee]AW[ff]AW[gg]C[reduce white's territory]AP[goproblems]
+(;B[bg]
+(;W[af]C[CHOICE];B[ef]
+(;W[fg]C[white has made a morbid error D:CHOICE]
+(;B[cg]
+(;W[df]C[CHOICE];B[dg]C[RIGHT])
+(;W[dg]C[CHOICE];B[df]C[RIGHT]))
+(;B[df]
+(;W[cg]C[CHOICE];B[cf]C[RIGHT])
+(;W[cf]C[CHOICE];B[cg]C[RIGHT])))
+(;W[df]C[CHOICE];B[fg];W[eg];B[ff];W[cg]C[RIGHT]))
+(;W[cg]C[CHOICE]
+(;B[ef];W[fg];B[af];W[bf];B[ag];W[df]C[RIGHT])
+(;B[af];W[bf]
+(;B[ag];W[ef]C[RIGHT])
+(;B[ef];W[fg];B[ag];W[df]C[RIGHT]))))
+(;B[ef]
+(;W[fg]C[CHOICE];B[bg]
+(;W[af]C[white has made a morbid error D:CHOICE]
+(;B[cg]
+(;W[df]C[CHOICE];B[dg]C[RIGHT])
+(;W[dg]C[CHOICE];B[df]C[RIGHT]))
+(;B[df]
+(;W[cg]C[CHOICE];B[cf]C[RIGHT])
+(;W[cf]C[CHOICE];B[cg]C[RIGHT])))
+(;W[cg]C[CHOICE];B[af];W[bf];B[ag];W[df]C[RIGHT]))
+(;W[df]C[CHOICE]
+(;B[bg];W[af];B[fg];W[eg];B[ff];W[cg]C[RIGHT])
+(;B[fg];W[eg]
+(;B[ff];W[bg]C[RIGHT])
+(;B[bg];W[af];B[ff];W[cg]C[RIGHT])))))

@@ -1,0 +1,66 @@
+(;GE[best move]DI[4d]DP[7]SO[able]CO[0]SZ[13]AB[am]AB[bl]AB[al]AB[bk]AB[ck]AB[cm]AB[dl]AW[dm]AW[el]AW[fm]AW[gl]AW[gk]AW[fk]AW[ek]AW[dk]AW[cj]AW[bj]AW[aj]AW[ak]AB[dj]AB[fj]AB[ej]AB[gj]AB[hj]AB[hk]AB[hl]AB[hm]AB[gm]AB[ja]AB[jb]AB[kc]AB[kb]AB[ka]AB[la]AB[lb]AB[lc]AB[mc]AB[mb]AB[ma]AW[me]AW[le]AW[ke]AW[kd]AW[jc]AW[ic]AW[hc]AW[gc]AW[fc]AB[jd]AB[id]AB[ie]AB[if]AB[jf]AB[jg]AB[kg]AB[lg]AB[mg]AB[ia]AB[ha]AB[ga]AB[fa]AW[eb]AW[ea]AW[ec]AW[aa]AW[ba]AW[cb]AW[bb]AW[ab]AW[ac]AW[ad]AW[ae]AW[be]AW[bd]AW[bc]AW[cc]AW[cd]AW[ce]AB[de]AB[dd]AB[dc]AB[db]AB[da]AB[bf]AB[cf]AW[af]AW[bg]AW[bh]AB[ah]AW[cg]AW[di]AW[ei]AW[fi]AW[fh]AW[eg]AW[dg]AB[df]AB[ef]AB[ed]AB[fe]AB[ge]AB[fg]AB[gg]AB[gf]AW[hd]AW[he]AW[hf]AW[hg]AW[gh]AB[im]AB[jm]AB[km]AB[mk]AB[mj]AB[mh]AB[mi]AW[ij]AW[ik]AW[il]AW[jl]AW[kk]AW[ig]AW[gi]AW[hi]AW[jh]AB[ll]AB[kl]AB[mm]AB[lk]AW[lj]AW[ih]AW[kj]AW[jj]AW[ci]AB[kh]AW[ki]C[Black is losing and the only hope is the ko, but by my count black is down on threats. No hope surely. Play at m6 for an explanation.]AP[goproblems]
+(;B[em];W[fb]C[]
+(;B[je];W[dm]
+(;B[kf];W[cl]C[Fine, have the seki, I still win.]
+(;B[ag];W[ai]
+(;B[dl];W[gb]
+(;B[em];W[hb]
+(;B[lf];W[dm]
+(;B[mf];W[cl]
+(;B[ag];W[ah]
+(;B[dl];W[ib];B[em];W[md];B[ld];W[dm]
+(;B[ca];W[ag];B[em];W[li]
+(;B[fl]C[Correct! in a multi-step ko one step can be used to add or remove ko threats. Black can play to remove a ko threat, but then white has to waste what would have been a threat to get his threats back! Worth noting is what happens if black trys to take the point at m6 instead of winning the ko quickly.  RIGHT])
+(;B[dm]C[Correct! in a multi-step ko one step can be used to add or remove ko threats. Black can play to remove a ko threat, but then white has to waste what would have been a threat to get his threats back! Worth noting is what happens if black trys to take the point at m6 instead of winning the ko quickly.  RIGHT]))
+(;B[li];W[cl]C[getting greedy are we?];B[ca];W[ag];B[dl];W[le]C[Two can play at this game.]
+(;B[em];W[kd]
+(;B[ke];W[dm]C[What happened?])
+(;B[fl];W[md]C[oops.]))
+(;B[kd];W[cl]))
+(;B[kd];W[cl];B[ca];W[ag];B[dl];W[li];B[em];W[lh];B[fl]C[have an easter egg  (:)  RIGHT])
+(;B[ke];W[cl];B[ca];W[ag];B[dl];W[le];B[em];W[md];B[me];W[dm])
+(;B[le]C[NOTTHIS])
+(;B[me];W[cl];B[ca];W[ag];B[dl];W[le];B[em];W[kd];B[ke])
+(;B[md];W[cl];B[ca];W[ag];B[dl];W[me];B[em];W[le]))
+(;B[ld];W[bm];B[md])
+(;B[md]C[NOTTHIS]))
+(;B[ld];W[bm];B[md])
+(;B[md]C[NOTTHIS]))
+(;B[li];W[cl];B[ag];W[ah];B[dl];W[ib];B[mf];W[cl];B[ca];W[ag];B[dl];W[md];B[ld];W[cl])
+(;B[ag];W[ah]
+(;B[em];W[ib];B[mf];W[dm];B[ca];W[ag];B[em];W[md];B[ld];W[dm])
+(;B[mf];W[cl];B[ca];W[ag];B[dl];W[ib])))
+(;B[fl];W[ib]
+(;B[lf];W[md];B[mf];W[ld])
+(;B[mf]C[NOTTHIS]))
+(;B[mf]C[NOTTHIS])
+(;B[dm];W[ib]C[top right is dead.]))
+(;B[lf];W[cl];B[ag];W[ah];B[dl];W[hb])
+(;B[mf]C[NOTTHIS]))
+(;B[lf];W[bm])
+(;B[mf]C[NOTTHIS]))
+(;B[lf];W[bm]
+(;B[mf];W[li];B[ld];W[ib];B[md])
+(;B[li]))
+(;B[li];W[bm])
+(;B[mf]C[NOTTHIS]))
+(;B[ca];W[ag];B[em];W[gb];B[kf];W[dm];B[lf];W[cl];B[mf];W[bm]C[White can lose the seki and still win, maybe you can find some more threats somewhere else.])
+(;B[ag];W[ai];B[em];W[gb];B[kf];W[dm]
+(;B[ag];W[ah];B[em];W[hb];B[lf];W[dm];B[ca];W[ag];B[em];W[ib];B[mf];W[dm]C[Still not enough threats, this is going to need some magic!])
+(;B[lf])
+(;B[mf]C[NOTTHIS]))
+(;B[lf]C[NOTTHIS])
+(;B[mf]C[NOTTHIS]))
+(;B[mf]C[NOTTHIS])
+(;B[fl];W[gb]C[dumbling on the top right is dead. :(])
+(;B[kf]C[NOTTHIS])
+(;B[lf]C[NOTTHIS]))
+(;B[kf]C[NOTTHIS])
+(;B[lf]C[NOTTHIS])
+(;B[mf]C[NOTTHIS])
+(;B[je];W[cl]C[Nice idea,but you let white take the ko first, which is worth a ko threat.];B[ag];W[ai];B[dl];W[fb])
+(;B[lh];W[li]C[So white has 5 ko threats to win, and you only have 3, however you have a trick in your favor. Not taking the ko now would be like giving white a free ko threat, and you cannot afford that, so play e1.];B[em];W[fb]C[White must make a ko threat, as f2 kills. This ko threat is big enough to win, so black must answer.
+]MA[je];B[je];W[dm]C[This is where it gets fun. Black doesn't actually care about losing this ko. He cares about the one to kill his group, so he does not need to play a ko threat now. As the ko fight is all that is left, he should do something related to it, but there is no point wasting a ko threat on this ko. Hence play l8 to remove all white ko threats.]MA[kf];B[kf];W[cl]C[White has the option of responding, but that just means that l8 was a ko threat for black! White would die quickly if he is answering moves that were supposed to be his own ko threats. Black now has to play a real ko threat, or lose.
+];B[ag];W[ai]C[If we count ko threats now, we see that black has 2, and white has...0? black takes the ko.
+
+];B[dl];W[gb]C[White is forced to play a move to recover his ko threats, but because black has already played l8, this is NOT a threat! If it is not a threat, there is no point treating it like one, so take the next ko.];B[em];W[hb]C[White is again forced to play a real ko threat, but because black took a free move to remove a white ko threat, the count is now 2 threats remaining each.];B[lf];W[dm]C[Same trick again, n8, white either lets black play a white ko threat as one of his own, or ignores this move which removes a ko threat.];B[mf]C[Same trick again, white either lets black play a white ko threat as one of his own, or ignores this move which removes a ko threat.];W[cl];B[ag];W[ah];B[dl];W[ib]C[Again white is forced to rescue his remaining ko threat, using a move that would have been a ko threat.];B[em];W[md];B[ld];W[dm];B[ca];W[ag]C[And white is out of ko threats.];B[em]C[In a complicated fight like this one, It is important to think about when you need to win a ko. In a direct ko, it is obvious, you just have to win it. Here neither player has to win the ko further from them immediately, so moves which manipulate the threat situation become feasable. The downside to this is that letting the fight become direct for you lets your opponent do the same trick back, so it is tricky to read.]))

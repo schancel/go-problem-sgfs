@@ -1,0 +1,238 @@
+(;GE[life and death]DI[1d]DP[15]SO[tossy]CO[7]AW[qc]AW[rc]AW[rd]AW[pc]AW[ob]AW[oa]AB[nb]AB[oc]AB[mc]AB[od]AB[pd]AB[qd]AB[re]AB[qf]AB[rb]C[Black to kill. Ko is failure]AP[goproblems]
+(;B[qa]
+(;W[qb]C[CHOICE]
+(;B[ra];W[sb]
+(;B[na];W[pb];B[sd]C[RIGHT])
+(;B[sd];W[pa])
+(;B[pb];W[pa])
+(;B[sc];W[pa])
+(;B[pa];W[pb]))
+(;B[pb];W[pa])
+(;B[na];W[ra]
+(;B[pb];W[pa])
+(;B[sd];W[sb])
+(;B[sb];W[pa])
+(;B[pa];W[pb])
+(;B[sa];W[sd]
+(;B[pb];W[sb]C[You could avoid Ko])
+(;B[sc];W[sb]C[You could avoid Ko])
+(;B[se];W[pb]
+(;B[sb]C[You could avoid Seki])
+(;B[sc];W[sb]C[You could avoid Ko]))
+(;B[sb];W[sc]
+(;B[ra];W[pa])
+(;B[pa];W[ra]
+(;B[sb];W[pb])
+(;B[pb];W[sb]))
+(;B[pb];W[ra]
+(;B[sb];W[pa])
+(;B[pa];W[sb])))
+(;B[ra];W[sb]C[You could avoid Ko])
+(;B[pa];W[sb]C[You could avoid Ko])))
+(;B[sd];W[sb])
+(;B[sc];W[sd]
+(;B[sb];W[ra])
+(;B[ra];W[pb])
+(;B[pb];W[sb])
+(;B[na];W[sb])
+(;B[pa];W[sb])
+(;B[se];W[sb]))
+(;B[sb];W[sc]
+(;B[na];W[ra])
+(;B[ra];W[pa])
+(;B[pb];W[pa])
+(;B[pa];W[ra]))
+(;B[pa];W[sb]
+(;B[sd];W[ra])
+(;B[ra];W[sd])
+(;B[na];W[ra])))
+(;W[sb]C[CHOICE]
+(;B[ra];W[sd];B[pb]C[RIGHT])
+(;B[sd];W[qb])
+(;B[qb];W[pb]
+(;B[sd];W[ra]C[You could avoid Ko])
+(;B[ra];W[sd])
+(;B[sa];W[sd]C[You could avoid Ko]))
+(;B[pb];W[qb])
+(;B[pa];W[qb])
+(;B[na];W[ra]C[You could avoid Ko])
+(;B[sa];W[ra]C[You could avoid Ko])
+(;B[sc];W[sd]
+(;B[na];W[qb]
+(;B[pb];W[ra])
+(;B[ra];W[pb]C[Seki]))
+(;B[qb];W[pb];B[sa];W[ra]C[You could avoid Ko])
+(;B[sa];W[ra]C[You could avoid Ko])
+(;B[pb];W[qb]
+(;B[ra];W[pa])
+(;B[na];W[ra]))))
+(;W[ra]
+(;B[sb]
+(;W[qb]
+(;B[sd]C[RIGHT])
+(;B[pa];W[sc])
+(;B[na];W[pa]))
+(;W[sc]
+(;B[pb]C[RIGHT])
+(;B[qb];W[pb]
+(;B[na]C[RIGHT])
+(;B[se];W[pa])
+(;B[sa];W[pa])))
+(;W[pb]
+(;B[sd];W[sc]
+(;B[sa]C[RIGHT])
+(;B[qb];W[se]
+(;B[sf];W[pa])
+(;B[rf];W[pa])
+(;B[sa];W[pa])
+(;B[na];W[rf]C[White may escape...]))
+(;B[se];W[qb])
+(;B[na];W[se]
+(;B[sf];W[qb])
+(;B[qb];W[rf]C[White may escape...])
+(;B[rf];W[qb])))
+(;B[na];W[sc]
+(;B[se];W[qb])
+(;B[qb]C[RIGHT])))
+(;W[pa]
+(;B[sd];W[sc]
+(;B[qb];W[se]
+(;B[na];W[rf]C[White may escape...])
+(;B[sf];W[pb]))
+(;B[na];W[qb])
+(;B[se];W[qb]))
+(;B[qb]
+(;W[pb];B[sd]C[RIGHT])
+(;W[sc]
+(;B[se];W[pb])
+(;B[na]C[RIGHT]))
+(;W[sd];B[na]C[RIGHT]))
+(;B[na];W[qb])
+(;B[sa];W[qb]C[You could avoid Ko])
+(;B[sc];W[sd]
+(;B[na];W[qb])
+(;B[qb];W[pb])
+(;B[se];W[qb]))))
+(;B[qb];W[sb]C[You could avoid Ko])
+(;B[pb];W[qb])
+(;B[pa];W[sb]C[You could avoid Ko])
+(;B[sa];W[qb];B[na];W[sd]
+(;B[sb];W[pb]C[Seki])
+(;B[pb];W[sb]C[You could avoid Ko])
+(;B[pa];W[pb]
+(;B[ra];W[sb])
+(;B[se];W[ra];B[qa]C[You could avoid Ko and Seki])))
+(;B[sd];W[sb]C[You could avoid Ko])
+(;B[sc];W[sd]
+(;B[pb];W[sb];B[sa];W[qb];B[sc];W[pa];B[na];W[ra]C[White lives with double Ko])
+(;B[qb];W[sb]C[You could avoid Ko])
+(;B[na];W[qb];B[sa];W[sb]C[You could avoid Ko]))))
+(;B[pb];W[qb]
+(;B[qa];W[pa])
+(;B[na];W[pa])
+(;B[sd];W[sb])
+(;B[sb];W[qa])
+(;B[ra];W[qa])
+(;B[pa];W[qa]))
+(;B[pa];W[pb])
+(;B[qb];W[pb]
+(;B[sd];W[sb]
+(;B[ra];W[qa]C[You could avoid Ko])
+(;B[qa];W[ra]C[You could avoid Ko]))
+(;B[qa];W[sb]
+(;B[ra];W[sd])
+(;B[sd];W[ra]C[You could avoid Ko]))
+(;B[sb];W[qa]
+(;B[sd];W[sc]
+(;B[se];W[ra])
+(;B[na];W[se]))
+(;B[sc];W[sd]))
+(;B[sc];W[sd]
+(;B[qa];W[sb];B[sa];W[ra]C[You could avoid Ko])
+(;B[ra];W[sb])
+(;B[sb];W[qa])
+(;B[sa];W[qa]))
+(;B[ra];W[sb]
+(;B[sd];W[qa]C[You could avoid Ko])
+(;B[qa];W[sd])))
+(;B[ra];W[qa]
+(;B[qb];W[pb]
+(;B[sc];W[sb];B[pa];W[sd]C[You could avoid Ko])
+(;B[sb];W[sc]C[You could avoid Ko])
+(;B[sd];W[sb]C[You could avoid Ko])
+(;B[na];W[sb]C[You could avoid Ko])
+(;B[pa]C[];W[sb]C[You could avoid Ko]))
+(;B[sd];W[sb]
+(;B[qb];W[pb]C[You could avoid Ko])
+(;B[pb];W[qb])
+(;B[se];W[qb])
+(;B[na];W[qb]))
+(;B[sc];W[sd]
+(;B[sb];W[qb])
+(;B[qb];W[pb]C[You could avoid Ko]))
+(;B[sb];W[qb])
+(;B[pb];W[qb])
+(;B[na];W[qb]))
+(;B[sb];W[qb]
+(;B[sd];W[sc]
+(;B[qa];W[se]
+(;B[na];W[ra])
+(;B[sf];W[ra])
+(;B[pb];W[pa])
+(;B[pa];W[ra])
+(;B[ra];W[pa]))
+(;B[se];W[qa]))
+(;B[sc];W[sd])
+(;B[qa];W[sc]
+(;B[pb];W[pa])
+(;B[pa];W[ra])
+(;B[na];W[ra])
+(;B[ra];W[pa]))
+(;B[ra];W[qa])
+(;B[na];W[qa])
+(;B[pb];W[qa])
+(;B[pa];W[qa]))
+(;B[sc];W[sd]
+(;B[qa];W[qb]
+(;B[na];W[pb])
+(;B[ra];W[sb])
+(;B[sb];W[ra])
+(;B[se];W[sb]))
+(;B[qb];W[pb]
+(;B[qa];W[sb];B[sa];W[ra]C[You could avoid Ko])
+(;B[sb];W[qa])
+(;B[se];W[sb])
+(;B[ra];W[sb]))
+(;B[pb];W[qb])
+(;B[ra];W[qb])
+(;B[sb];W[qb]))
+(;B[sd];W[sb]
+(;B[qb];W[pb]
+(;B[ra];W[qa]C[You could avoid Ko])
+(;B[qa];W[ra]C[You could avoid Ko]))
+(;B[ra];W[qb]
+(;B[na];W[qa])
+(;B[qa];W[pa])
+(;B[pb];W[pa]))
+(;B[qa];W[qb])
+(;B[pb];W[qb])
+(;B[pa];W[qa]))
+(;B[na];W[qb];B[qa];W[ra];B[sa];W[sd]
+(;B[pb];W[sb]C[You could avoid Ko])
+(;B[ra];W[pb]
+(;B[sb]C[Seki])
+(;B[se]C[You could avoid Ko(T17) and Seki(T18)])
+(;B[sc];W[sb]C[You could avoid Ko]))
+(;B[pa];W[pb];B[se];W[ra];B[qa]C[You could avoid Ko and Seki])
+(;B[sb];W[sc]
+(;B[ra];W[pa])
+(;B[pb];W[ra]
+(;B[pa];W[sb])
+(;B[sb];W[pa]))
+(;B[se];W[ra])
+(;B[pa];W[ra])))
+(;B[se];W[qb])
+(;B[sa];W[qb];B[qa];W[sc]
+(;B[na];W[sb])
+(;B[ra];W[pa])
+(;B[pb];W[pa];B[na];W[sb])))

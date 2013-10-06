@@ -1,0 +1,19 @@
+(;GE[best move]DI[5d]DP[6]SO[ketran0]CO[6]AB[dc]AB[ec]AB[cd]AW[dd]AB[de]AW[ri]AW[qj]AW[ol]AW[pk]AW[nm]AW[mn]AW[lo]AW[rg]AW[re]AW[rd]AW[kp]AW[jq]C[Can the ladder work for black?]LB[mk:N]LB[hk:Y]AP[goproblems]
+(;B[mk];W[lk]C[Are you sure?]LB[jj:Y]LB[nj:N]
+(;B[nj]C[Nope, hasn't changed; navigate solution to see])
+(;B[jj];W[ji]AB[de]C[Are you really sure?]LB[gi:Y]LB[ei:N]
+(;B[gi]C[];W[fi]C[Absolutely sure?]LB[fj:N]LB[ej:Y]
+(;B[fj];W[gk]C[Right.. but does it work now?]LB[ei:N]LB[di:Y]
+(;B[di]C[Nope, navigate solution to see why])
+(;B[ei];W[hj]C[Congratulations! You have made it ot the final round.... but does it work now?]LB[fk:Y]LB[fl:N]
+(;B[fk];W[ed]C[Show me];B[fd];W[ee];B[ef];W[fe];B[ge];W[ff];B[fg];W[gf];B[hf];W[gg]
+(;B[gh];W[hg];B[ig];W[hh]
+(;B[hi];W[ih];B[jh];W[ii];B[ki];W[ij]C[])
+(;B[ih];W[hi]))
+(;B[hg];W[gh]
+(;B[fh];W[hh])
+(;B[hh];W[fh];B[eh]C[RIGHT])))
+(;B[fl]C[Nope, navigate solution to see why])))
+(;B[ej];W[ed]C[Show me];B[fd];W[ee];B[ef];W[fe];B[ge];W[ff];B[fg];W[gf];B[hf];W[gg]C[FORCE];B[gh];W[hg];B[ig];W[hh];B[hi]C[FORCE];W[ih];B[jh]C[FORCE];W[ii];B[ki]C[FORCE];W[ij];B[ik];W[hj];B[gj]C[It works!.. but you answered wrong :(FORCE]))
+(;B[ei]C[no, navigate solution to see why])))
+(;B[hk];W[ed]C[Definately not]))

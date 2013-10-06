@@ -1,0 +1,43 @@
+(;GE[life and death]DI[4k]DP[29]SO[Max007]CO[9]GM[1]FF[1]SZ[19]NE[B]SS[@0]
+AB[aq][dr][dq][dp][do][dn][cn][bn][an]
+AW[ao][bo][co][cq][bs][br][ar]
+(
+;B[bq]ID[1]
+;W[bp]ID[2]
+   (
+   ;B[cp]ID[3]
+   ;W[ap]ID[4]
+   ;B[bq]ID[5]
+   ;W[cr]ID[6]
+   ;B[aq]ID[7]
+   ;W[bp]ID[8]
+   )
+   (
+   ;B[cr]ID[9]
+   ;W[ap]ID[10]
+   ;B[bq]ID[11]C[RIGHT Nice nice^^]
+   )
+)
+(
+;B[bp]ID[12]
+;W[cp]ID[13]
+)
+(
+;B[ap]ID[15]
+;W[cp]ID[16]
+)
+(
+;B[cr]ID[17]
+;W[bq]ID[18]
+)
+(
+;B[cp]ID[19]
+;W[bp]ID[20]
+;B[bq]ID[21]
+;W[ap]ID[22]
+;B[bq]ID[23]
+;W[cr]ID[24]
+;B[aq]ID[25]
+;W[bp]ID[26]
+)
+)

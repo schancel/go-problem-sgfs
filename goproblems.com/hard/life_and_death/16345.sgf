@@ -1,0 +1,34 @@
+(;GE[life and death]DI[5d]DP[6]SO[piccolo]CO[0]AB[fa]AB[fb]AB[gc]AB[gd]AB[ee]AB[dd]AB[cd]AB[bd]AB[ac]AW[ab]AW[bb]AW[cc]AW[dc]AW[eb]C[Black to get the best result (kill > ko > seki > alive).]AP[goproblems]
+(;B[ba]
+(;W[ca]C[CHOICE]
+(;B[db];W[da]
+(;B[ec];W[cb];B[ea]C[Clean kill, well done !RIGHT])
+(;B[ea];W[cb];B[ec]C[Clean kill, well done !RIGHT]))
+(;B[da];W[db]C[Only ko (you could kill).])
+(;B[ea];W[db]C[];B[da];W[bc]C[Only ko (you could kill).]))
+(;W[fc]
+(;B[cb];W[ea]C[];B[gb];W[db];B[ca]C[RIGHT])
+(;B[da];W[ea])))
+(;B[ca];W[da]
+(;B[ea];W[cb]C[Only ko (you could kill).])
+(;B[ba]
+(;W[fc]C[CHOICE]
+(;B[cb];W[bc]
+(;B[ec];W[ed];B[fd];W[ec];B[ea];W[gb];B[db];W[ad];B[be];W[ga])
+(;B[ea];W[gb];B[db];W[ec];B[hb];W[aa];B[ga];W[da];B[ca];W[cb]C[Only ko (you could kill).]))
+(;B[ea];W[cb]C[Only ko (you could kill).]))
+(;W[cb];B[ec];W[aa];B[ea])))
+(;B[da];W[ea];B[ba]
+(;W[fc]C[CHOICE]
+(;B[ec];W[ed];B[fd];W[ec];B[cb];W[gb]
+(;B[bc];W[ga]
+(;B[ib]TR[de]TR[fe]TR[hc]C[Not optimal way to kill (some weak points on black side).RIGHT])
+(;B[hb];W[ib]C[White locally escape, or at least start a ko.]))
+(;B[hb];W[ga];B[bc]))
+(;B[fd];W[ec];B[cb];W[db];B[ca];W[gb])
+(;B[cb];W[db];B[ca];W[gb]))
+(;W[cb];B[ec];W[db];B[ca]))
+(;B[ea];W[da]
+(;B[db];W[cb];B[ec];W[ba]C[Only ko (you could kill).])
+(;B[ba];W[fc];B[ca];W[cb]C[Only ko (you could kill).]))
+(;B[ec];W[db];B[ca];W[ba]))

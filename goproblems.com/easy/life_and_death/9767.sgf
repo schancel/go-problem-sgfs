@@ -1,0 +1,63 @@
+(;GE[life and death]DI[7k]DP[42]SO[Karen B]CO[9]AB[cr]AB[bq]AB[bp]AB[dq]AB[eq]AB[er]AB[es]AW[br]AW[cp]AW[cq]AW[co]AW[bo]AW[dp]AW[ep]AW[fp]AW[fq]AW[fr]AW[fs]C[Black to play and live.]AP[goproblems]
+(;B[ar]
+(;W[bs]
+(;B[ap];W[ao]C[White wins.CHOICE])
+(;B[aq]
+(;W[cs]C[White wins.CHOICE])
+(;W[ds]C[White wins.CHOICE]))
+(;B[as];W[aq]C[Oops!CHOICE])
+(;B[ds];W[ap]C[White wins.CHOICE])
+(;B[dr]
+(;W[cs]C[White wins.CHOICE])
+(;W[ap]C[White wins.CHOICE]))
+(;B[cs]
+(;W[ap]
+(;B[as]
+(;W[ao]
+(;B[br]C[Black lives.RIGHT])
+(;B[aq]C[Black lives.RIGHT]))
+(;W[br]
+(;B[bs]C[Black lives.RIGHT])
+(;B[aq];W[bs]C[Oops!CHOICE])))
+(;B[aq]
+(;W[ds]C[White wins.CHOICE])
+(;W[as];B[bq]
+(;W[ds]C[White wins.CHOICE])
+(;W[dr]C[White wins.CHOICE]))
+(;W[dr]C[White wins.CHOICE]))
+(;B[dr];W[ds]C[Oops!CHOICE])
+(;B[ds];W[dr]C[Oops!CHOICE]))
+(;W[ds]
+(;B[dr];W[ds]C[Oops!CHOICE])
+(;B[ap];W[dr]C[White wins.CHOICE])
+(;B[aq];W[dr]C[Oops!CHOICE])
+(;B[as]
+(;W[dr]
+(;B[ap]C[Black lives.RIGHT])
+(;B[br];W[ap]C[White wins.CHOICE])
+(;B[bs];W[ap]C[White wins.CHOICE]))
+(;W[ap];B[dr]C[Black lives.RIGHT]))))))
+(;B[bs];W[ar]C[White wins.CHOICE])
+(;B[cs]
+(;W[aq]C[White wins.CHOICE])
+(;W[ap]C[White wins.CHOICE])
+(;W[ar]C[White wins.CHOICE]))
+(;B[ds]
+(;W[ar]C[White wins.CHOICE])
+(;W[aq]C[White wins.CHOICE])
+(;W[ap]C[White wins.CHOICE])
+(;W[bs]C[White wins.CHOICE]))
+(;B[aq];W[ar]C[White wins.CHOICE])
+(;B[ap]
+(;W[ao]C[White wins.CHOICE])
+(;W[ds]C[White wins.CHOICE]))
+(;B[as]
+(;W[ds]C[White wins.CHOICE])
+(;W[aq]C[White wins.CHOICE])
+(;W[ap]C[White wins.CHOICE]))
+(;B[dr]
+(;W[cs]C[White wins.CHOICE])
+(;W[ar]C[White wins.CHOICE])
+(;W[aq]C[White wins.CHOICE])
+(;W[ap]C[White wins.CHOICE]))
+(;B[ao];W[aq]C[White wins.CHOICE]))

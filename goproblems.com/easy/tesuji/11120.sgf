@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[4k]DP[29]SO[field mouse]CO[0]AB[qd]AB[pd]AB[oc]AW[pe]AW[oe]AW[ne]AW[me]AW[le]AB[lc]AB[mb]AB[md]AW[ke]AW[kd]AW[kc]AW[lb]AW[ib]AW[hc]AB[gb]AB[gc]AW[id]AW[hd]AB[gd]AW[hb]AB[fb]AB[fd]AB[qe]AB[qg]AB[qh]AB[qf]AW[pf]AW[pg]AW[ph]AB[rd]AW[re]AW[rf]AW[rg]AB[rh]AW[se]AB[sg]AB[sd]AW[qi]AW[ri]AW[pi]AW[rj]C[White to play the best endgame. You can play a ko if needed.]AP[goproblems]
+(;W[nb]
+(;B[kb];W[nc];B[nd]
+(;W[mc];B[la]
+(;W[od]C[Black is doomed.RIGHT])
+(;W[ld];B[od]C[Your last move was mistake.])
+(;W[ob];B[od]
+(;W[pb];B[ld];W[rb];B[sb]C[White dies.])
+(;W[ld];B[pb]C[Ko, white could do better.])))
+(;W[ob];B[mc];W[pc];B[od];W[qb];B[rb]))
+(;B[nc];W[ma];B[kb]C[This ko is very big. If black loses it white will earse a lot of black territory in the corner.RIGHT]))
+(;W[nc];B[nd];W[nb];B[na]C[White did not do very well.])
+(;W[ka];B[ma]C[White could do better.])
+(;W[ma];B[nb]C[White could do better.]))

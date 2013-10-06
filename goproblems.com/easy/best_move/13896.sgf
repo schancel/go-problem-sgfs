@@ -1,0 +1,15 @@
+(;GE[best move]DI[8k]DP[49]SO[DarkSycthe]CO[0]AB[rr]AB[qq]AB[pr]AW[qr]AW[pq]AW[pp]AW[qo]AW[rp]AW[rq]AB[po]AB[pn]AB[qn]AB[ro]AB[or]AB[oq]AW[op]AW[nq]AW[mq]AW[lq]AW[no]AW[lo]AB[mr]AB[lr]AB[nr]AB[ln]AB[mn]AB[nn]AB[on]AW[mo]AW[oo]C[It is the endgame. Black has just played 1. White to respond in the best way]LB[po:1]AB[jo]AB[jp]AB[jq]AW[kp]AW[kq]AW[ko]AW[mp]AB[kr]AB[kn]AB[rn]AP[goproblems]
+(;W[qs]C[This move punishes Black's previous one]
+(;B[qp]
+(;W[qo];B[qp]C[Great! White has gained a few points in the corner! Black's move is a mistake, giving White the corner for free.RIGHT])
+(;W[sr];B[qo]C[The corner white stones can live but it's in gote, and you can do better.]))
+(;B[sp]C[How to respond to this?]
+(;W[sq]C[RIGHT];B[qp];W[qo];B[qp]C[RIGHT])
+(;W[qp];B[sq];W[sr];B[ss];W[rs]C[White gets a few points but loses sente, and does not have t5 to aim for anymore. Not best.])))
+(;W[qp];B[qs]C[You could do better in the corner.])
+(;W[sp];B[qs]C[You could do better in the corner. This is gote too as white needs to defend R4])
+(;W[sr];B[qs]C[You could do better in the corner. This is gote too as white needs to defend R4])
+(;W[so];B[qs]C[You could do better in the corner. This is gote too as white needs to defend R4])
+(;W[rs];B[qs]C[You could do better in the corner. This is gote too as white needs to defend R4])
+(;W[ps];B[qs]C[Oops])
+(;W[sq];B[qs]C[You could do better in the corner. This is gote too as white needs to defend R4]))

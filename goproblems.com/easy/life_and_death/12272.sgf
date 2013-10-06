@@ -1,0 +1,79 @@
+(;GE[life and death]DI[5k]DP[33]SO[mocramis]CO[0]AB[bc]AB[cc]AB[db]AB[eb]AB[ba]AW[fb]AW[fa]AW[dc]AW[dd]AW[bd]AW[fc]AW[be]AW[de]C[White to kill]AP[goproblems]
+(;W[bb];B[cb]
+(;W[ea];B[da]MA[bb]MA[ca]C[two squared eyes !CHOICE])
+(;W[ac];B[ab]MA[bb]MA[ca]C[three squared eyes !CHOICE]MA[aa])
+(;W[ab];B[ac]MA[ab]MA[ca]C[two squared eyes !CHOICE])
+(;W[da];B[ea]MA[bb]MA[da]C[two squared eyes !CHOICE]))
+(;W[ac];B[ab]
+(;W[cb];B[ca]
+(;W[da];B[ea]C[three squared eyes !CHOICE]MA[cb]MA[da]MA[aa])
+(;W[ea];B[da]C[two squared eyes !CHOICE]MA[cb]MA[aa])
+(;W[cd];B[bb]
+(;W[da];B[ea]MA[cb]MA[da]MA[aa]C[three squared eyes !CHOICE])
+(;W[ea];B[da]C[two squared eyes !CHOICE]MA[cb]MA[aa])
+(;W[ec];B[da]MA[cb]MA[aa]C[two squared eyes !CHOICE]))
+(;W[ec];B[da]MA[cb]MA[aa]C[two squared eyes !CHOICE]))
+(;W[ca];B[cb]C[three squared eyes !CHOICE]MA[bb]MA[aa]MA[ca])
+(;W[da];B[cb]MA[bb]MA[aa]C[two squared eyes !CHOICE])
+(;W[ea];B[cb]MA[bb]MA[aa]C[two squared eyes !CHOICE])
+(;W[ec];B[cb]C[three squared eyes !CHOICE]MA[bb]MA[aa]MA[ca]))
+(;W[ab];B[ac]
+(;W[cb];B[bb]
+(;W[da];B[ca]
+(;W[ea]C[Right !RIGHT])
+(;W[ec];B[ea]MA[da]MA[cb]MA[aa]C[three squared eyes !CHOICE]))
+(;W[ea];B[da]MA[cb]MA[ab]C[two squared eyes !CHOICE])
+(;W[ca];B[da]C[two squared eyes !CHOICE]MA[cb]MA[aa])
+(;W[ec];B[ca]MA[cb]MA[ab]C[two squared eyes !CHOICE]))
+(;W[bb];B[cb]MA[bb]MA[ca]C[two squared eyes !CHOICE])
+(;W[ca];B[cb]MA[ca]MA[ab]C[two squared eyes !CHOICE])
+(;W[aa];B[bb]MA[ab]MA[ca]C[two squared eyes !CHOICE])
+(;W[da];B[ea]
+(;W[cb];B[ca]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[ec];B[ca]MA[da]C[two squared eyes !CHOICE]MA[ab])
+(;W[ca];B[cb]MA[ca]MA[bb]C[two squared eyes !CHOICE])
+(;W[bb];B[cb]MA[da]MA[bb]C[two squared eyes !CHOICE]))
+(;W[ea];B[da]
+(;W[cb];B[bb]MA[cb]MA[ab]C[two squared eyes !CHOICE])
+(;W[bb];B[cb]MA[bb]MA[ca]C[two squared eyes !CHOICE])
+(;W[ec];B[cb]MA[ab]MA[ca]C[two squared eyes !CHOICE])
+(;W[ca];B[cb]MA[ca]MA[ab]C[two squared eyes !CHOICE])
+(;W[aa];B[bb]MA[cb]MA[ab]C[two squared eyes !CHOICE])))
+(;W[aa];B[ab]C[the objective is not to make black living the quickest way !CHOICE])
+(;W[cb];B[ca]
+(;W[da];B[ea]MA[cb]MA[da]MA[aa]C[tree squared eyes !CHOICE])
+(;W[ea];B[da]
+(;W[ab];B[ac];W[bb]C[RIGHT])
+(;W[ac];B[ab]MA[cb]MA[aa]C[two squared eyes !CHOICE])
+(;W[bb];B[ab]MA[cb]MA[aa]C[two squared eyes !CHOICE])
+(;W[ec];B[bb]MA[cb]MA[aa]C[two squared eyes !CHOICE]))
+(;W[bb];B[ab]MA[bb]MA[aa]C[two squared eyes !CHOICE])
+(;W[ab];B[ea]
+(;W[ac];B[bb])
+(;W[ec];B[bb])
+(;W[bb];B[ac]))
+(;W[ac];B[ea]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[ec];B[bb]MA[cb]MA[aa]C[two squared eyes !CHOICE]))
+(;W[ca];B[cb]
+(;W[ab];B[ac]MA[ca]MA[ab]C[two squared eyes !CHOICE])
+(;W[da];B[ea]MA[ca]MA[bb]C[two squared eyes !CHOICE])
+(;W[ea];B[da]MA[ca]MA[bb]C[two squared eyes !CHOICE])
+(;W[ac];B[ab]MA[bb]MA[aa]MA[ca]C[three squared eyes !]))
+(;W[da];B[ea]
+(;W[cb];B[ca]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[ec];B[ca]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[ab];B[ca]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[ca];B[cb]MA[ca]MA[bb]C[two squared eyes !CHOICE])
+(;W[bb];B[cb]MA[bb]MA[da]C[two squared eyes !CHOICE])
+(;W[ac];B[ca]
+(;W[bb];B[ab]
+(;W[aa];B[cb]MA[da]MA[aa]C[at least two squared eyes !CHOICE])
+(;W[ad];B[cb]MA[bb]MA[aa]MA[da]C[three squared eyes !CHOICE]))
+(;W[ab];B[bb]MA[cb]MA[da]C[two squared eyes !CHOICE])
+(;W[cb];B[bb]C[two squared eyes !CHOICE])))
+(;W[ea]
+(;B[ab]
+(;W[cb];B[da])
+(;W[ca];B[cb]C[CHOICE])
+(;W[da];B[cb]C[CHOICE])))
+(;W[ec];B[ca]MA[cb]LB[ab:A]LB[ea:B]C[A and B miaiCHOICE]))

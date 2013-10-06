@@ -1,0 +1,23 @@
+(;GE[life and death]DI[3d]DP[9]SO[adum]CO[7]AW[sp]AW[so]AW[sn]AW[ro]AW[qo]AW[qp]AW[qq]AB[rp]AW[rr]AW[qs]AB[pr]AB[qr]AB[ps]AB[pq]AB[or]AW[oq]AW[nq]AW[mr]AW[lq]AW[pp]AB[op]AB[oo]AB[po]AB[qn]AB[rn]AB[sm]AB[rl]AB[pm]C[black should figure out something here. something good.]AP[goproblems]
+(;B[rq];W[sq]
+(;B[sr];W[ss]C[now, find the _best_ ko]
+(;B[rs]C[the best ko for black: two-step and S3 remains an internal ko threatRIGHT])
+(;B[rq];W[rp];B[rs]C[slightly inferior ko for black: S3 is no longer an internal ko threat])
+(;B[rp];W[rs])
+(;B[nr];W[rs])
+(;B[ns];W[rs]))
+(;B[rq];W[sr])
+(;B[rs];W[sr])
+(;B[rp];W[sr])
+(;B[ss];W[rs]))
+(;B[sq];W[rq]
+(;B[rs];W[sr])
+(;B[sr];W[rs]))
+(;B[sr];W[rq]C[can black approach? nope])
+(;B[rs];W[rq]C[one eye beats no eye])
+(;B[ss];W[rs]
+(;B[rq];W[sq];B[rq];W[rp])
+(;B[sq];W[rq])
+(;B[sr];W[rq]))
+(;B[nr];W[rs])
+(;B[ns];W[rq]))

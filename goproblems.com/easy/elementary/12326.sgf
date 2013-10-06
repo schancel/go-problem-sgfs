@@ -1,0 +1,31 @@
+(;GE[elementary]DI[5k]DP[32]SO[santa c]CO[0]AB[sr]AB[sq]AB[qr]AB[qp]AB[qo]AW[ps]AW[or]AW[oq]AW[op]AW[oo]AW[pn]AW[qn]AW[sn]AW[rn]AW[rs]AB[qs]C[B to move]AW[os]AP[goproblems]
+(;B[ro];W[so]
+(;B[sp]
+(;W[pq];B[qq]C[nice :)RIGHT])
+(;W[qq];B[pq]C[RIGHT]))
+(;B[rr];W[qq]
+(;B[pq];W[pp]
+(;B[rq];W[sp]MA[pr]MA[rp])
+(;B[pr];W[rp]))
+(;B[rq];W[pq]))
+(;B[qq];W[sp]MA[rr]MA[rp])
+(;B[pq];W[sp]
+(;B[rp];W[rr]
+(;B[rq];W[pr])
+(;B[pr];W[rq]))
+(;B[rq];W[rp]MA[pr]MA[pp])
+(;B[rr];W[rp]MA[pr]MA[rq]))
+(;B[rp];W[pq]MA[qq]MA[rr])
+(;B[rq];W[sp]MA[pq]MA[rp]))
+(;B[rr]C[see next problem])
+(;B[pq];W[ro]
+(;B[rp];W[rr]
+(;B[rq];W[pr]
+(;B[ss];W[pp])
+(;B[pp];W[qq]))
+(;B[pp];W[pr])
+(;B[pr];W[pp]))
+(;B[rq];W[rp]MA[pr]MA[pp]))
+(;B[rq];W[ro]
+(;B[pq];W[rp]MA[pr]MA[pp])
+(;B[rp];W[pq])))

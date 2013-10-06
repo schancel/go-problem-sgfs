@@ -1,0 +1,26 @@
+(;GE[life and death]DI[6d]DP[2]SO[shodan]CO[7]SZ[10]AB[ag]AB[af]AB[bf]AB[cf]AB[df]AB[eg]AB[ee]AB[ff]AB[gf]AB[hf]AB[ie]AB[ig]AB[ih]AB[hi]AB[gi]AB[bh]AB[ch]AB[bj]AB[gg]AW[bg]AW[cg]AW[dg]AW[dh]AW[di]AW[cj]AW[ej]AW[fi]AW[fh]AW[fg]AW[gh]AW[hh]AW[hg]AW[if]C[A simple ko is not good enough]PL[W]
+(;W[eh];B[ci];W[ii];B[ij];W[ji];B[hj]
+(;W[fj];B[jf];W[gj];B[jh];W[jj];B[hi])
+(;W[gj]))
+(;W[bi];B[ai];W[ci];B[eh];W[ii];B[ij];W[ji];B[hj]
+(;W[gj]C[NOTTHIS])
+(;W[fj];B[jf];W[gj];B[jh];W[jj];B[hi]))
+(;W[ci];B[eh]
+(;W[ai];B[bi];W[ah];B[aj];W[ah];B[ai];W[ah];B[bh];W[ii];B[ij];W[ji];B[hj]
+(;W[fj];B[jf];W[gj];B[jh];W[jj];B[hi])
+(;W[gj]C[NOTTHIS]))
+(;W[bi];B[ai];W[ii]))
+(;W[ai];B[ci]
+(;W[eh];B[ii];W[ah];B[dj])
+(;W[ah];B[dj];W[ii];B[ji];W[ij];B[eh])
+(;W[ii];B[ji];W[ij];B[eh]
+(;W[ei];B[gj];W[ef];B[eg];W[ah];B[dj])
+(;W[gj];B[dj])))
+(;W[ii];B[ij];W[ji];B[hj]
+(;W[fj];B[jf];W[gj];B[jh];W[jj];B[hi])
+(;W[ai]
+(;B[ci]C[CHOICE];W[ah];B[dj]
+(;W[gj]C[RIGHT])
+(;W[eh];B[cj];W[gj];B[fj]))
+(;B[bi];W[eh];B[ci];W[ah];B[dj];W[gj]C[RIGHT]))
+(;W[gj]C[NOTTHIS])))

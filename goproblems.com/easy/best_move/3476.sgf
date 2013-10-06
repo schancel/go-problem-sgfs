@@ -1,0 +1,9 @@
+(;GE[best move]DI[30k]DP[90]SO[sing216]CO[7]AB[ir]AB[iq]AB[ip]AB[kp]AB[kq]AB[kr]AB[io]AB[in]AB[jn]AB[kn]AB[ko]AW[jo]AW[jp]AW[jq]AW[jr]AW[js]AW[mr]AW[ks]AW[nq]AP[goproblems]
+(;B[ls];W[lr];B[is]C[RIGHT])
+(;B[lr];W[ls]C[W has connected.])
+(;B[ms];W[lr]
+(;B[ls];W[ns])
+(;B[is];W[ls]))
+(;B[is];W[ls]
+(;B[lr];W[ms])
+(;B[ms];W[lr])))

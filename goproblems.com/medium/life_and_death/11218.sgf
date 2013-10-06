@@ -1,0 +1,38 @@
+(;GE[life and death]DI[1k]DP[20]SO[kaf]CO[0]AB[ap]AB[an]AB[bo]AB[co]AB[do]AB[dp]AB[cm]AB[dm]AB[en]AB[fo]AB[gp]AB[gq]AB[gr]AB[eq]AW[bq]AW[bp]AW[cp]AW[dq]AW[cr]AW[ep]AW[eo]AW[dn]AW[cn]C[b to kill]AP[goproblems]
+(;B[dr];W[er]C[ko is not a solution]
+(;B[ar];W[br])
+(;B[cq]C[NOTTHIS])
+(;B[br];W[ar])
+(;B[ds];W[fq])
+(;B[es];W[ds]))
+(;B[er];W[dr];B[ar];W[aq])
+(;B[bs];W[er]
+(;B[br];W[ar])
+(;B[ar];W[aq];B[br];W[ao])
+(;B[ds];W[cs]))
+(;B[br];W[ar]
+(;B[dr];W[bs])
+(;B[bs];W[er]))
+(;B[ds];W[dr]
+(;B[ar];W[aq];B[br];W[ao]C[ko])
+(;B[br];W[ar]))
+(;B[cs];W[er]
+(;B[ar];W[br])
+(;B[br];W[ar]))
+(;B[ar]
+(;W[aq]C[CHOICE]
+(;B[br];W[ao]C[ko])
+(;B[dr];W[er]C[remember, - ko is not a solution!CHOICE]
+(;B[br]C[double ko. w is dead, long live w!];W[ao]
+(;B[cq]C[w is dead on double koRIGHT])
+(;B[bn];W[ds])
+(;B[fp];W[ds]))
+(;B[cq]C[NOTTHIS])
+(;B[fp];W[ds])
+(;B[ds];W[fq])
+(;B[fq];W[ds]))
+(;B[er];W[dr];B[br];W[ao]))
+(;W[er];B[br]C[RIGHT])
+(;W[br];B[er]C[RIGHT]))
+(;B[bn];W[er])
+(;B[aq];W[ar];B[dr];W[er]))

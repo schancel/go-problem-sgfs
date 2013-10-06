@@ -1,0 +1,67 @@
+(;GE[best move]DI[5d]DP[5]SO[smartaleck]CO[0]SZ[7]AB[dd]AB[dc]AW[de]AW[ed]AW[ce]AW[fe]AB[ee]AB[ef]AB[ec]AW[fd]AW[fc]AB[ff]AB[fb]AW[gb]AP[goproblems]
+(;B[ge];W[eb]LB[fa:A];B[fa];W[ea]
+(;B[gd];W[ga];B[fb];W[fa];B[gf];W[cc];B[db];W[cb];B[gc];W[da];B[fb];W[fc])
+(;B[gf];W[ga];B[fb];W[fa];B[gd])
+(;B[db];W[ga];B[fb];W[fa];B[gd];W[cb];B[gf];W[da];B[gc];W[cc])
+(;B[bd];W[df]
+(;B[gd];W[ga]LB[fb:A];B[fb];W[fa];B[gf];W[cd]
+(;B[cc];W[bc];B[gc];W[bb];B[fb];W[ca];B[dg];W[be])
+(;B[gc];W[cc];B[db];W[cb];B[fb];W[ca]))
+(;B[gf];W[ga]LB[fb:A];B[fb];W[fa];B[gd])))
+(;B[gf];W[eb]
+(;B[fa];W[db]
+(;B[cc];W[cb];B[bc];W[bb])
+(;B[bd];W[cd]))
+(;B[bd];W[df]
+(;B[fa];W[ea];B[ge])
+(;B[be];W[ge];B[cd];W[dg]
+(;B[cg];W[bf])
+(;B[cf];W[bf];B[bg];W[eg]))))
+(;B[bd];W[gf])
+(;B[eb];W[gf]
+(;B[gg];W[fg];B[eg];W[df];B[gg];W[ge])
+(;B[ge];W[gd];B[gg];W[fg];B[eg];W[df];B[gg];W[cd];B[ge];W[cc];B[gc];W[cb]))
+(;B[fa];W[gf]
+(;B[gg];W[fg];B[eg];W[df];B[gg];W[ge])
+(;B[ge];W[eb];B[db];W[gd];B[gg];W[fg];B[eg];W[df];B[gg];W[cd];B[ge];W[cc];B[gc];W[cb]))
+(;B[cd];W[be]
+(;B[ge];W[eb];B[fa];W[ea]
+(;B[gd];W[ga]LB[fb:A];B[fb];W[fa];B[gf];W[cb];B[db];W[bd];B[gc];W[da];B[fb];W[fc])
+(;B[gf];W[ga]LB[fb:A];B[fb];W[fa];B[gd];W[cb];B[db];W[bd];B[gc];W[da];B[fb];W[fc])
+(;B[bd];W[db];B[cb];W[ga]
+(;B[df];W[bb];B[bc];W[ab];B[ad];W[ca])
+(;B[bf];W[bb];B[bc];W[ab];B[ae];W[ca])))
+(;B[bd];W[gf])
+(;B[gf];W[eb]
+(;B[bd];W[db];B[cb];W[fa]
+(;B[df];W[bb];B[bc];W[ab];B[ad];W[ca])
+(;B[bf];W[bb];B[bc];W[ab];B[ae];W[ca]))
+(;B[fa];W[ea];B[bd];W[db];B[cb];W[ga]
+(;B[df];W[bb];B[bc];W[ab];B[ad];W[ca])
+(;B[bf];W[bb];B[bc];W[ab];B[ae];W[ca])))
+(;B[df];W[bd]
+(;B[bc];W[eb];B[db];W[fa];B[bf];W[bb])
+(;B[eb];W[cf];B[ge];W[cb];B[bc];W[bb];B[cc];W[ac])
+(;B[db];W[cb];B[bb];W[bc];B[cc]
+(;W[ba];B[ca];W[ab]C[FORCE];B[fa];W[cb];B[da];W[cf]C[FORCE];B[ge];W[dg]C[FORCE];B[eg];W[cg]C[FORCE];B[gc];W[bb]C[black wins 9 points.RIGHT])
+(;W[fa];B[eb];W[ba];B[ca];W[ab];B[aa];W[gf];B[cf];W[ba];B[ea];W[cb];B[ga];W[da];B[gc]C[RIGHT]))))
+(;B[df]C[NOTTHIS])
+(;B[be]
+(;W[cd];B[cc];W[bd];B[bc];W[gf]
+(;B[cf];W[bf];B[df];W[ae]LB[ge:A]
+(;B[ac]C[NOTTHIS])
+(;B[ge];W[gd]LB[ac:A];B[ac];W[ad]
+(;B[fg]C[RIGHT])
+(;B[bg]C[RIGHT])
+(;B[eb]C[RIGHT])))
+(;B[df];W[bf];B[cf]))
+(;W[bd];B[cd];W[bf];B[cf];W[ae];B[df];W[be]
+(;B[bc];W[eb];B[db];W[fa];B[bg];W[bb];B[ac];W[cb];B[cc];W[da];B[ab];W[ca];B[af];W[ag];B[cg];W[gf];B[fg]C[black wins 9 points.RIGHT])
+(;B[eb];W[cb]
+(;B[bg];W[db];B[ge];W[cc];B[fa];W[da];B[gc]C[black wins 8 points.])
+(;B[bc];W[bb];B[cc];W[ac];B[ge];W[db];B[gc];W[ea];B[gd];W[cg];B[dg];W[bg];B[fa];W[da]C[black wins 7 points.]))
+(;B[db];W[cb];B[bb];W[bc];B[cc];W[ba]
+(;B[ca];W[ab]C[FORCE];B[fa];W[cb];B[da];W[gf];B[ge];W[gd];B[fg];W[cg]
+(;B[dg];W[bg];B[bb]C[RIGHT])
+(;B[gg]C[RIGHT]))
+(;B[ab];W[fa];B[eb];W[ca])))))

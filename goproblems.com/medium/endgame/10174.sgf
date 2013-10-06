@@ -1,0 +1,21 @@
+(;GE[endgame]DI[1d]DP[17]SO[trucid]CO[0]AB[rr]AB[rs]AB[qq]AB[pq]AB[nq]AB[nr]AB[mr]AB[lr]AW[op]AW[pp]AW[qp]AW[rp]AW[rq]AW[sr]AW[np]AW[mp]AW[mq]AW[lq]AW[kq]AW[kr]AW[ir]AP[goproblems]
+(;W[pr];B[qr]
+(;W[or];B[oq];W[ps];B[ls];W[ns]C[Seki is best.RIGHT])
+(;W[os];B[ps]
+(;W[qs];B[or])
+(;W[or];B[oq]))
+(;W[ps];B[ls]
+(;W[or];B[oq];W[ns]C[Seki like this too.RIGHT])
+(;W[ns];B[or]))
+(;W[ls];B[ps])
+(;W[oq];B[or];W[ps];B[ls]))
+(;W[oq];B[or]
+(;W[pr];B[qr];W[ps];B[ls])
+(;W[ps];B[pr]
+(;W[qs];B[ls])
+(;W[ls];B[ms])))
+(;W[or];B[oq];W[pr];B[ps]
+(;W[ls];B[qr])
+(;W[os];B[qr]))
+(;W[ps];B[pr];W[os];B[qs])
+(;W[ls];B[ps]TR[qr]TR[os]C[Two eyes]))

@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[10k]DP[52]SO[ytqb]CO[0]AB[rm]AB[sl]AB[qm]AB[pm]AB[pl]AB[pk]AB[pj]AB[pi]AB[ph]AB[pg]AB[pf]AB[qf]AB[rf]AB[sf]AW[se]AW[re]AW[qe]AW[pe]AW[of]AW[od]AW[og]AW[oh]AW[oi]AW[oj]AW[ok]AW[ol]AW[om]AW[pn]AW[oo]AW[qn]AW[rn]AW[sn]AW[sm]C[White to play and kill Black's group.]AW[rl]AB[sk]AW[rk]AB[sj]AP[goproblems]
+(;W[ri]C[RIGHT])
+(;W[rj];B[si]
+(;W[rh];B[sh])
+(;W[ri];B[sh]
+(;W[rg];B[sg])
+(;W[rh];B[sg])))
+(;W[si];B[rj]
+(;W[qj];B[ri])
+(;W[ri];B[qj]))
+(;W[sh];B[rj])
+(;W[rh]
+(;B[sh])
+(;B[rj]))
+(;W[qk];B[rj])
+(;W[qj];B[ri]))

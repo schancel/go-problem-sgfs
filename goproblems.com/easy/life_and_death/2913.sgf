@@ -1,0 +1,11 @@
+(;GE[life and death]DI[5k]DP[33]SO[traveller]CO[5]SZ[19]AW[do]AW[eo]AW[fo]AW[dp]AW[dq]AW[fq]AW[cr]AW[dr]AW[gr]AW[cs]AW[fs]AW[gs]AB[dn]AB[en]AB[fn]AB[co]AB[go]AB[cp]AB[fp]AB[cq]AB[gq]AB[hq]AB[br]AB[hr]AB[bs]AB[ds]AB[hs]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[er];W[es];B[eq]C[Both marked spots would be self-atari to White.RIGHT]MA[ep]MA[fr])
+(;B[eq]
+(;W[er]
+(;B[fr]C[Ko.])
+(;B[gp];W[ep])
+(;B[ep];W[gp])))
+(;B[gp];W[er])
+(;B[ep];W[er])
+(;B[es];W[er])
+(;B[fr];W[er]))

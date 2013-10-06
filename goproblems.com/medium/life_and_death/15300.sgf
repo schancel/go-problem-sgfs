@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[0]AW[ap]AW[bp]AW[cp]AW[br]AW[er]AW[es]AB[fr]AB[eq]AB[gr]AB[dp]AB[do]AB[cn]AB[bn]C[make w regret b2]AP[goproblems]
+(;B[cq]
+(;W[cr]
+(;B[dr];W[bq]
+(;B[cs];W[dq]C[niceRIGHT])
+(;B[ar];W[dq]C[RIGHT])
+(;B[dq];W[cs]))
+(;B[bq];W[dr]MA[dq]MA[ar])
+(;B[ar];W[dr]MA[dq]MA[bq]))
+(;W[bq];B[cr]C[RIGHT]))
+(;B[cr];W[cq]MA[dr]MA[bs])
+(;B[dr];W[cq]MA[bs]MA[cs])
+(;B[ar];W[cq])
+(;B[bs];W[cq])
+(;B[cs];W[cq]MA[bs]MA[dr])
+(;B[dq];W[cq]))

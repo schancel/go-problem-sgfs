@@ -1,0 +1,47 @@
+(;GE[life and death]DI[15k]DP[62]SO[iqer2000]CO[3]AB[dq]AB[co]AB[ao]AB[bo]AB[cp]AB[cq]AB[dr]AB[ds]AW[es]AW[er]AW[eq]AW[ep]AW[dp]AW[do]AW[dn]AW[cn]AW[bn]AW[an]AW[br]MA[br]C[Live with points.]AP[White has played at B2, Black to alive unconditionally.]
+(;B[bq];W[aq]
+(;B[ap]
+(;W[as]
+(;B[cs]C[Black is alive with points.RIGHT])
+(;B[ar]C[only leaves extra threat by wNOTTHIS])
+(;B[cr];W[cs];B[bs]C[Black will have to add a move or White will have a great ko threat supply])
+(;B[bs];W[cs];B[ar]))
+(;W[ar];B[bs]C[RIGHT]))
+(;B[ar];W[as]
+(;B[ap];W[cs])
+(;B[cs];W[ap]C[seki])
+(;B[cr];W[ap]C[seki or ko]MA[bs]))
+(;B[bs];W[ap]
+(;B[cr];W[ar]C[seki])
+(;B[ar];W[as]C[ko]))
+(;B[cs];W[ar]C[seki]MA[bs]MA[ap])
+(;B[cr];W[ar]C[seki]MA[bs]MA[ap]))
+(;B[aq]
+(;W[ar]
+(;B[bq];W[bs]C[sekiCHOICE])
+(;B[bs];W[bq]
+(;B[ap]C[seki])
+(;B[bp];W[cr];B[cs];W[ap]C[ko])
+(;B[cr];W[ap]))
+(;B[cr];W[bq]
+(;B[bs];W[ap])
+(;B[bp];W[bs]))
+(;B[cs];W[bq]MA[ap]MA[bs])
+(;B[bp]C[seki or ko]MA[bs]MA[bq]))
+(;W[bq]
+(;B[bp];W[ar]
+(;B[bs])
+(;B[cr]))
+(;B[cr];W[ar])
+(;B[ar]
+(;W[cs]
+(;B[bp]MA[as]MA[bs]C[seki or koCHOICE])
+(;B[cr];W[ap];B[bs];W[as];B[ar]C[seki])
+(;B[ap]C[seki or ko]MA[bs]MA[cr]))
+(;W[bs]
+(;B[bp];W[cr]C[sekiCHOICE])
+(;B[cr];W[as]
+(;B[bp];W[ap];B[aq]C[seki])
+(;B[ap]C[seki]))))))
+(;B[bs];W[bq]C[freaky ko])
+(;B[ar];W[bq];B[aq]))

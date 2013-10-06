@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[6d]DP[3]SO[adum]CO[7]SZ[19]AB[de]AW[dc]AB[fd]AW[fc]AB[gc]AW[ed]AB[ee]AW[gd]AB[fe]AW[hc]AB[gb]AW[hb]AB[ch]TR[gb]TR[gc]LB[fb:A]C[start at A. this time ladders work for white. how to save the marked stones in the best way?]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[];B[fb];W[ec]
+(;B[hd];W[ge]
+(;B[hf];W[gf]LB[gg:A]C[do NOT play at A. just cuz I say so.]
+(;B[ib];W[ic]LB[id:A]C[FORCE]
+(;B[id];W[jc]
+(;B[gg]
+(;W[ff]
+(;B[fg];W[ef]
+(;B[df];W[eg];B[eh];W[dg]
+(;B[cg]C[RIGHT])
+(;B[dh];W[cg];B[bg];W[cf];B[ce];W[bf]))
+(;B[eg];W[df]
+(;B[cf];W[ce])
+(;B[dg];W[cf];B[ce];W[eb])))
+(;B[ef];W[fg];B[fh];W[hg];B[gh];W[he];B[if];W[ie];B[jd];W[je])
+(;B[eg];W[eb])))
+(;B[he];W[gg]))
+(;B[he];W[gg])
+(;B[gg];W[he];B[id];W[ie]))
+(;B[ic];W[ib];B[jb];W[id];B[he];W[jc];B[gg]C[not best])
+(;B[id];W[eb]C[too slow])
+(;B[he];W[gg];B[ic];W[ib];B[jb];W[jc]C[black dead])
+(;B[gg]C[NOTTHIS]))
+(;B[ib];W[he];B[id];W[eb]C[this isn't the best way. better to lead white deeper first.])
+(;B[ic];W[ib];B[jb];W[jc]
+(;B[id];W[kb]
+(;B[gf];W[he];B[if];W[ie];B[jd];W[je];B[kc];W[kd];B[jc];W[lc])
+(;B[hf]C[white is caught, but this not best way because white strong on top]))
+(;B[ia];W[id];B[ha];W[ic]C[not good]))
+(;B[he];W[gf]C[white out])
+(;B[eb];W[db]C[this doesn't help black, but makes white more solid])
+(;B[id];W[eb];B[gf];W[he]
+(;B[if];W[fa])
+(;B[hf];W[ie];B[je];W[if];B[ig];W[jf]C[hey! ladders don't work!])))
+(;B[ge];W[hd]C[oh, c'mon])
+(;B[eb];W[db]C[this just helps white, even though liberties stay the same]))

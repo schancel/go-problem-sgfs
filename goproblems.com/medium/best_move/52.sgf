@@ -1,0 +1,28 @@
+(;GE[best move]DI[4k]DP[28]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];LB[ks:1]
+AW[bo][do][fo][go][jo][ko][dp][fp][hp][ip][kp][lp][dq][hq][lq][dr][lr][ks][ls]
+AB[jp][eq][fq][iq][jq][kq][er][gr][hr][kr]
+C[white has just played 1. black's best response?
+]
+(;B[ir];W[fs]
+(;B[es];W[js];B[is];W[gs])
+
+(;B[js]C[RIGHT
+white can only extract his stone in gote
+])
+)
+
+(;B[fs];W[ir];B[hs])
+
+(;B[js];W[ir];B[jr];W[is])
+
+(;B[is];W[js];B[fs];W[ir];B[hs])
+
+(;B[hs];W[fs];B[is];W[ir];B[jr];W[js])
+
+)

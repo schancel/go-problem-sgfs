@@ -1,0 +1,33 @@
+(;GE[tesuji]DI[1k]DP[18]SO[kaf]CO[8]AB[cq]AW[dq]AW[eq]AW[fq]AW[dp]AW[cp]AB[co]AB[do]AB[ep]AB[fp]AB[gp]AW[hq]AW[dl]AB[ci]AW[ij]AB[bp]TR[bq]AB[jp]C[please, follow the mark for a while.FORCE]AB[kn]AB[hh]AW[eh]AB[jh]AB[kj]AP[goproblems];W[bq];B[gq]TR[gr]C[FORCE];W[gr];B[hr]TR[ir]C[FORCE];W[ir];B[fr]TR[hs]C[FORCE];W[hs];B[cr]TR[bo]C[FORCE];W[bo];B[ap]TR[aq]C[FORCE];W[aq];B[er]TR[ao]C[FORCE];W[ao];B[bp]TR[ap]C[FORCE];W[ap];B[dr]TR[bp]C[FORCE];W[bp];B[bn]TR[bm]C[FORCE];W[bm];B[cm]TR[an]C[FORCE];W[an];B[bl]TR[cn]C[FORCE];W[cn];B[dn]TR[cl]C[FORCE];W[cl];B[bn]TR[am]C[FORCE];W[am];B[bk]C[good job! Now, suggest the best continuation for w.]
+(;W[dm];B[cn];W[eo]C[Black has resigned here. Let us see why.];B[en]C[Black has resigned here. Let us see why...]
+(;W[fn]
+(;B[em]
+(;W[fm];B[el];W[ek];B[fl];W[gl]
+(;B[fk]C[]TR[ij];W[fj];B[gk];W[hk];B[gj];W[gi];B[fo]
+(;W[hj];B[eo]
+(;W[hp];B[go]
+(;W[ho]C[RIGHT])
+(;W[gn];B[ho])
+(;W[hn];B[dk]))
+(;W[go];B[hp])
+(;W[ho];B[dk]))
+(;W[hp]
+(;B[gm]C[CHOICE];W[gn];B[hn];W[hm];B[go];W[gm];B[im];W[hl];B[ho]C[b escaped])
+(;B[dk];W[go]C[RIGHT])))
+(;B[fo]C[Thanks to BartM and santa-c for pointing at this variation.];W[fk];B[eo];W[hp];B[go];W[ho];B[gn];W[gm];B[hn];W[in];B[hm];W[hl];B[im];W[jm];B[il];W[jl];B[ik];W[jk];B[hk];W[gk];B[hj];W[hi];B[gj];W[gi];B[fj];W[ej]C[RIGHT]))
+(;W[el];B[fm];W[gm];B[fo]))
+(;B[fo];W[em];B[eo];W[hp];B[go];W[hn];B[gn];W[gm];B[fm];W[ho]C[RIGHT]))
+(;W[fo];B[fn];W[go];B[hp];W[gn];B[fm];W[gm];B[fl];W[gl]
+(;B[iq];W[fk]
+(;B[br];W[el];B[ar];W[em];B[jr]C[slightly better exchange for b]))))
+(;W[cn];B[dm]
+(;W[br];B[bs]C[])
+(;W[em];B[eo];W[br];B[bs]))
+(;W[br];B[cn]
+(;W[eo];B[en]
+(;W[fo];B[bs])
+(;W[fn];B[bs];W[em];B[fo];W[dm];B[eo];W[hp];B[go];W[gn];B[ho];W[io];B[hn];W[hm];B[in]))
+(;W[cs];B[bs]
+(;W[as];B[ds]C[ko, at most])
+(;W[fs];B[ds])
+(;W[ds];B[es]))))

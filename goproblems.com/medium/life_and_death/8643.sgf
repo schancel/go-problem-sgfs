@@ -1,0 +1,38 @@
+(;GE[life and death]DI[2d]DP[12]SO[kaf]CO[8]AB[es]AB[er]AB[eq]AB[ep]AB[eo]AB[do]AB[co]AB[bo]AB[bm]AW[bq]AW[bp]AW[cp]AW[dp]AW[dq]AW[dr]AW[ds]AB[bs]AB[ap]C[Black to kill]AP[goproblems]
+(;B[br]
+(;W[ar]
+(;B[as]
+(;W[aq]
+(;B[cr]
+(;W[ao]
+(;B[cs]C[CHOICERIGHT])
+(;B[an];W[cs])
+(;B[cq];W[cs]))
+(;W[cs];B[cq]C[RIGHT]))
+(;B[cs];W[cr])
+(;B[ao];W[cr]))
+(;W[cr];B[aq]C[RIGHT]))
+(;B[cr];W[cs]C[seki])
+(;B[cs];W[cr])
+(;B[ao];W[aq]
+(;B[cr];W[cs]C[seki])
+(;B[cs];W[cr])
+(;B[as];W[cr])))
+(;W[aq];B[cr]
+(;W[ar];B[cs]C[RIGHT])
+(;W[cs];B[ar]C[RIGHT]))
+(;W[cr];B[aq]C[RIGHT]))
+(;B[ar];W[aq]
+(;B[br];W[cr])
+(;B[cr];W[br]C[ko at most]LB[ao:1])
+(;B[cs];W[cr]))
+(;B[aq];W[ar]
+(;B[br];W[ao]LB[ap:a]LB[cr:b]C[W lives with a or b.])
+(;B[ao];W[br])
+(;B[cr];W[br]))
+(;B[cr];W[br]
+(;B[aq];W[ar]C[black c1 - seki])
+(;B[cs];W[aq]LB[ar:1]LB[ao:2]LB[an:3]C[Not even a ko])
+(;B[ar];W[aq]C[Two-step ko]LB[ao:1]LB[as:2]))
+(;B[cs];W[cr])
+(;B[as];W[aq]))

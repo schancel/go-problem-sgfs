@@ -1,0 +1,19 @@
+(;GE[elementary]DI[5k]DP[33]SO[santa c]CO[8]AB[ba]AB[bb]AB[cb]AB[dc]AB[ec]AB[fc]AB[gb]AB[ga]AW[ab]AW[bc]AW[cc]AW[dd]AW[fd]AW[ed]AW[gc]AW[hc]AW[hb]C[W to kill.]AP[goproblems]
+(;W[ea]
+(;B[eb]
+(;W[da];B[fa];W[ha]C[Yup! Just as in the bulky 5, the center in the bulky 7 is the key point! (Note that it works only because black isn't solidly connected, were the marked stones black, he'd be unconditionally alive. See comments for further info.)RIGHT]TR[gc]TR[cc])
+(;W[ha];B[da]C[:(])
+(;W[fa];B[da]C[:(]))
+(;B[da];W[fb]C[RIGHT])
+(;B[db];W[da]C[RIGHT]))
+(;W[da];B[ea]
+(;W[eb];B[fb];W[fa]MA[ea]C[Unconditional kill's possible..])
+(;W[db];B[eb]C[:(]))
+(;W[db];B[da]C[:(])
+(;W[eb];B[ea]
+(;W[da];B[fb];W[fa]C[Unconditional kill's possible..]MA[ea])
+(;W[db];B[fb]C[:(])
+(;W[fb];B[db]C[:(]))
+(;W[ca];B[da]C[:(])
+(;W[fa];B[ea]C[:(])
+(;W[fb];B[eb]C[:(]))

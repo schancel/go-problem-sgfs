@@ -1,0 +1,25 @@
+(;GE[life and death]DI[1k]DP[20]SO[Imperateur]CO[5]SZ[19]AW[ca]AW[da]AW[cb]AW[fb]AW[hb]AW[dc]AW[gc]AW[hc]AW[dd]AW[ed]AW[fd]AB[ba]AB[ha]AB[ia]AB[bb]AB[ib]AB[cc]AB[ic]AB[cd]AB[gd]AB[hd]AB[id]AB[ce]AB[de]AB[ee]AB[fe]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[fa];W[eb])
+(;B[ga];W[eb])
+(;B[ea];W[eb]
+(;B[db];W[ga])
+(;B[ga];W[fa])
+(;B[fc];W[fa])
+(;B[fa];W[ga]))
+(;B[eb]
+(;W[db]
+(;B[ga]C[RIGHT])
+(;B[fa];W[ga]C[ko is not the best black can do.])
+(;B[ea]
+(;W[fa]C[CHOICE];B[ga];W[ec];B[gb]C[RIGHT])
+(;W[ga];B[fc]C[RIGHT]))
+(;B[ec];W[ga]))
+(;W[ea];B[ga]C[RIGHT])
+(;W[fa];B[ga];W[gb]
+(;B[ec]C[RIGHT])
+(;B[ea]C[RIGHT]))
+(;W[ga];B[ea];W[db];B[fc]C[RIGHT]))
+(;B[fc];W[eb]
+(;B[fa];W[gb])
+(;B[ga];W[fa])
+(;B[gb];W[fa])))

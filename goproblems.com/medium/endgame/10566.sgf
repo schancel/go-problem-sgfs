@@ -1,0 +1,15 @@
+(;GE[endgame]DI[3d]DP[9]SO[Field Mouse]CO[9]AW[rq]AW[ro]AW[qo]AW[po]AW[pp]AW[pq]AB[qq]AB[rp]AB[rr]AB[pr]AB[op]AB[oo]AB[oq]AB[np]AB[pn]AB[om]AB[nn]AB[mn]AW[ql]AW[rk]AW[ol]AW[nl]AW[ml]AW[ri]AW[qi]AW[qh]AW[qg]AB[si]AB[sh]AB[rh]AB[rg]AB[rf]AB[sm]AW[so]C[Endgame: What can black do here? Sente is not important!]AW[pl]AW[qk]AB[on]AB[qf]AW[pm]AP[goproblems]
+(;B[rm]
+(;W[qn]
+(;B[qm];W[sl];B[sp];W[rl];B[qp];W[sj]C[One pt behind the solution :-(])
+(;B[sk];W[qm]
+(;B[sq];W[rj];B[sj]C[Nice!RIGHT])
+(;B[sp];W[qp];B[sq];W[rj];B[sj]C[Nice!RIGHT])
+(;B[rj];W[sq]C[This is too painful.]))))
+(;B[sk];W[rm]
+(;B[sl];W[sq]C[Black loses many points here.])
+(;B[sp];W[sl];B[rl];W[sn]))
+(;B[qn];W[rm]
+(;B[sk];W[sl];B[rl];W[sn])
+(;B[rn];W[sn];B[sp];W[sl];B[qp];W[sm];B[sj];W[rj]C[You could do one point better.]))
+(;B[qm];W[rm];B[rn];W[qn]))

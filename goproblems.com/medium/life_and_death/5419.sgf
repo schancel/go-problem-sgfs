@@ -1,0 +1,23 @@
+(;GE[life and death]DI[1d]DP[15]SO[hello]CO[9]SZ[19]AW[pn]AW[qn]AW[rn]AW[po]AW[pq]AW[nr]AW[pr]AW[sr]AW[os]AB[qo]AB[ro]AB[so]AB[rq]AB[sq]AB[qr]AB[ps]AW[oq]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[rp];B[qp]
+(;W[rs]
+(;B[qs];W[qq]C[]
+(;B[sp];W[rr]C[RIGHT])
+(;B[rr];W[sp]C[RIGHT]))
+(;B[rr];W[qs];B[ss];W[ps]C[RIGHT]))
+(;W[qq];B[rr];W[rs];B[ss]C[If you think the answer is ko play at 'ko']LB[no:ko]MA[no]
+(;W[qs];B[ps])
+(;W[no]C[White can kill without ko])))
+(;W[qq];B[rr]
+(;W[rp];B[qp];W[rs];B[ss]C[If you think the answer is ko play at 'ko']LB[no:ko]
+(;W[qs];B[ps])
+(;W[no]C[White can kill without ko.]))
+(;W[rs];B[qs];W[rp];B[ss]))
+(;W[rs];B[qs]
+(;W[rp];B[rr])
+(;W[qq];B[rr]))
+(;W[qs];B[rs]
+(;W[rr];B[ss];W[rr];B[qq];W[sr];B[rs])
+(;W[qq];B[rr]))
+(;W[rr];B[qq];W[qs];B[rs])
+(;W[qp];B[rp]))

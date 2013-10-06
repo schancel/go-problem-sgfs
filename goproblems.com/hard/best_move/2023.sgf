@@ -1,0 +1,44 @@
+(;GE[best move]DI[4d]DP[8]SO[picketfence]CO[6]
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+DT[2003-03-20]
+KM[0.0]
+RU[Japanese]
+AB[pc][qd][id][pj][oc]
+AW[od][nd][pf]
+C[How should black best attack white's group? Assume ladders are good for Black.]
+
+(;B[pe]
+(;W[of]
+C[CHOICE]
+
+(;B[oe];W[ne];B[nf];W[qf];B[qe]
+C[RIGHT
+Black's 2 stones outside become real threats to both white's
+groups.]
+TR[id][pj]
+)
+(;B[qf];W[mg]
+C[Although black gains in territory with A, white's group is settled
+for the moment.  Black can do better to impose more pressure
+on white.]
+LB[qg:A]
+))
+(;W[nf]
+C[CHOICE]
+;B[of];W[og];B[oe];W[ng];B[ne];W[me];B[mf]
+C[RIGHT
+White's stones are split up with bad aji everywhere.]
+))
+(;B[nf];W[pd]
+C[Black 1 hits white's vital point, but...]
+LB[nf:1]
+;B[qe];W[of];B[nc];W[ld];B[md];W[me];B[mc]
+;W[mf])
+(;B[oe];W[pd];B[pe];W[qe]
+(;B[qc];W[nf];B[qf];W[ne];B[re];W[kd])
+(;B[qf];W[ne];B[of];W[nf];B[og];W[qc];B[rd];W[nc];B[qb]
+;W[kd]))
+(;B[pd];W[pe]))

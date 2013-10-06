@@ -1,0 +1,18 @@
+(;GE[best move]DI[10k]DP[51]SO[thavdog]CO[0]AB[cr]AB[cq]AB[cp]AB[cn]AB[bm]AW[dq]AW[dp]AW[do]AW[em]AW[gn]AW[fp]AW[io]AW[jp]AW[jq]AW[jr]AB[gq]AB[hp]TR[gq]TR[hp]C[How can black save the two marked stones?]AP[goproblems]
+(;B[er];W[dr];B[ds];W[fr];B[fq];W[eq];B[es];W[fs];B[cs];W[gr];B[hr]C[RIGHT])
+(;B[dr];W[er]
+(;B[fr];W[es])
+(;B[es];W[fr]))
+(;B[fr];W[dr]
+(;B[ds];W[es]
+(;B[er];W[cs])
+(;B[cs];W[er])
+(;B[fs];W[er]))
+(;B[er];W[ds])
+(;B[es];W[ds]))
+(;B[ds];W[er]
+(;B[fr];W[es])
+(;B[es];W[fr]))
+(;B[es];W[er]
+(;B[fs];W[fr];B[gr];W[ds];B[gs];W[dr])
+(;B[fr];W[fq];B[dr];W[gr];B[eq];W[hr])))

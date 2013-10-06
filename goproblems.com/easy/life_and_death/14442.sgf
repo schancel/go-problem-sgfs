@@ -1,0 +1,77 @@
+(;GE[life and death]DI[7k]DP[40]SO[blind0ne]CO[0]AB[qa]AB[qb]AB[qc]AB[pc]AB[oc]AB[nd]AB[md]AB[mc]AB[mb]AW[la]AW[lb]AW[lc]AW[ld]AW[me]AW[ne]AW[od]AW[pd]AW[qd]AW[rc]AW[rb]AW[ra]AW[oa]C[Black to live (thx for the variations)]AP[goproblems]
+(;B[ob]
+(;W[pa]
+(;B[na];W[nb]
+(;B[nc];W[ma];B[pb]
+(;W[oa];B[pa]C[Good Job !!!RIGHT])
+(;W[pa];B[oa]C[Good Job !!!RIGHT]))
+(;B[pb]
+(;W[oa]
+(;B[nc];W[ma];B[pa]C[Good Job !!!RIGHT])
+(;B[pa]C[RIGHT]))
+(;W[ma];B[nc];W[oa];B[pa]C[Good Job !!!RIGHT])))
+(;B[ma]
+(;W[na];B[nb]C[Good Job !!!RIGHT])
+(;W[nb]
+(;B[nc];W[na];B[pb]
+(;W[na];B[oa]C[Good Job !!!RIGHT])
+(;W[oa];B[na]C[Good Job !!!RIGHT]))
+(;B[na];W[nc]C[CHOICE])))
+(;B[nb]
+(;W[na];B[ma]C[Good Job !!!RIGHT])
+(;W[ma];B[na]C[Good Job !!!RIGHT])))
+(;W[na]
+(;B[nb];W[ma];B[pa]C[Good Job !!!RIGHT])
+(;B[pa];W[nb]
+(;B[nc];W[ma]C[CHOICE])
+(;B[ma];W[nc]C[CHOICE]))
+(;B[ma];W[nb];B[nc]C[Seki (you can try better)CHOICE];W[pa];B[pb]
+(;W[na];B[oa]C[RIGHT])
+(;W[oa];B[na]C[RIGHT])))
+(;W[ma]
+(;B[nb]C[RIGHT])
+(;B[pa];W[nb]MA[mb]MA[mc]MA[md]MA[nd])
+(;B[na];W[nb]))
+(;W[nb]
+(;B[ma]C[CHOICERIGHT])
+(;B[nc];W[ma]C[Ko])
+(;B[pa];W[ma]MA[mb]MA[mc]MA[md]MA[nd])
+(;B[na];W[ma])))
+(;B[nb]
+(;W[ob]
+(;B[na];W[ma]C[CHOICE])
+(;B[ma];W[na]C[CHOICE])
+(;B[pa];W[na];B[ma];W[nc]C[CHOICE])
+(;B[pb];W[na]
+(;B[pa];W[nc]C[CHOICE])
+(;B[ma];W[nc]C[CHOICE])))
+(;W[na];B[ob]))
+(;B[nc];W[na]
+(;B[ma];W[pa];B[nb];W[ob];B[pb];W[oa]C[Sorry Black is dead :-(CHOICE])
+(;B[pa];W[ma]C[CHOICE])
+(;B[ob];W[ma]C[CHOICE]))
+(;B[ma]
+(;W[ob]C[CHOICE]
+(;B[nb];W[na])
+(;B[pb];W[pa])
+(;B[na]C[Dead as it stands. White can throw in at O17, but Black cannot connect; that would just make one eye.])
+(;B[nc]C[Just one eye.])
+(;B[pa];W[pb])))
+(;B[na];W[nb]
+(;B[ma];W[ob]
+(;B[pa];W[pb];B[nc];W[ob]C[CHOICE])
+(;B[nc];W[pb];B[pa];W[ob]C[CHOICE])
+(;B[pb];W[nc]C[CHOICE]))
+(;B[ob];W[ma];B[nc];W[na]C[CHOICE])
+(;B[nc];W[ma];B[ob];W[na]C[CHOICE]))
+(;B[pa];W[ob]
+(;B[nb];W[na];B[ma];W[nc]C[CHOICE])
+(;B[na];W[nb];B[ma];W[nc]C[CHOICE])
+(;B[nc];W[ma];B[na];W[nb]C[CHOICE])
+(;B[ma];W[nb]C[It is not a seki !!! (Play Tenuki)]LB[jj:T];B[jj];W[nc])
+(;B[pb]
+(;W[ma];B[nb];W[na]C[CHOICE])
+(;W[nc]C[CHOICE])))
+(;B[pb];W[ma]
+(;B[nb];W[na]C[CHOICE])
+(;B[na];W[nb]C[CHOICE])))

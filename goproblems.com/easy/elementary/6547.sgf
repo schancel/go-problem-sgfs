@@ -1,0 +1,8 @@
+(;GE[elementary]DI[15k]DP[62]SO[utku]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Beyaz]PB[Siyah]AW[ap][bp][cp][cq][ar][cr][cs]AB[ao][bo][co][do][dp][dq][br][dr][ds]C[Black plays and kill.]
+(;B[bs]CR[bs]C[RIGHT])
+(;B[bq]CR[bq]
+;W[bs]CR[bs])
+(;B[aq]CR[aq]
+;W[bq]CR[bq]))

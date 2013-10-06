@@ -1,0 +1,40 @@
+(;GE[life and death]DI[6k]DP[39]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[rg][oh][ph][qh][ni][nj][mk][ok][pk][qk][rk][sk][ml][ql][mm][nm][qm][nn][on][qn][rn][sn]AB[oj][pj][qj][rj][sj][nk][nl][ol][om][pm][sm][pn][oo][qo][ro][so]LB[li:T][oi:A]C[FORCE
+does white need a move to win the race? play at A if you think yes, or tenuki at T]PL[W]
+(;W[li]CR[li]
+;B[po]CR[po]C[FORCE]
+(;W[oi]CR[oi]
+;B[pl]CR[pl]C[FORCE]
+(;W[pi]CR[pi]
+;B[rl]CR[rl]C[FORCE]
+(;W[qi]CR[qi]
+;B[rm]CR[rm]
+(;W[sl]CR[sl]
+;B[rm]CR[rm]
+(;W[ri]CR[ri]C[RIGHT
+])
+(;W[si]CR[si]C[RIGHT]))
+(;W[ri]CR[ri]
+;B[sl]CR[sl])
+(;W[si]CR[si]
+;B[sl]CR[sl]))
+(;W[rm]CR[rm]
+;B[sl]CR[sl])
+(;W[sl]CR[sl]
+;B[rm]CR[rm]))
+(;W[rl]CR[rl]
+;B[rm]CR[rm])
+(;W[sl]CR[sl]
+;B[rm]CR[rm])
+(;W[rm]CR[rm]
+;B[sl]CR[sl]))
+(;W[pl]CR[pl]
+;B[rl]CR[rl])
+(;W[rl]CR[rl]
+;B[pl]CR[pl])
+(;W[rm]CR[rm]
+;B[sl]CR[sl])
+(;W[sl]CR[sl]
+;B[rm]CR[rm]))
+(;W[oi]CR[oi]C[this move is not necessary. follow the other path to see why.]))

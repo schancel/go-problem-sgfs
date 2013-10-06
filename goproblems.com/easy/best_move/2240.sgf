@@ -1,0 +1,36 @@
+(;GE[best move]DI[4k]DP[31]SO[ferdi]CO[7]SZ[4]AW[bb]AB[aa]AB[ba]AB[ca]AB[da]AB[cc]AB[ad]C[White to play - what's the best he can do?]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[WeiÃƒÅ¸]PB[Schwarz]PL[W]
+(;W[cb]
+(;B[db]
+(;W[dc];B[dd]
+(;W[ab]
+(;B[bc]C[Black D2 would be even worse!];W[dc];B[db]
+(;W[ca]
+(;B[ba]C[The only move]
+(;W[ac];B[bd]C[Seki! White wins by four points - 6 prisoners against 2. RIGHT])
+(;W[aa];B[ac]C[This is not best for White because he will have to sacrifice a stone at B1 or C1, winning by only 3 points.])
+(;W[da];B[dc]
+(;W[bd];B[cd]C[Seki, 6 prisoners for White, 3 for Black so just 3 points difference. You lost by the komi.])
+(;W[ac];B[aa])
+(;W[cd]C[Seki, 6 prisoners for White, 3 for Black so just 3 points difference. You lost by the komi.])))
+(;B[ac];W[da]
+(;B[dc];W[cd]C[Black will not play like this...RIGHT])
+(;B[ba];W[dc]C[Nor this. Black has no threats, the board is not that big after all :)RIGHT]))
+(;B[dc];W[ac]C[Nah.RIGHT]))
+(;W[ac]
+(;B[bd];W[ca];B[ba]C[Seki! White wins by four points - 6 prisoners against 2.  CHOICERIGHT])
+(;B[ca];W[bd];B[ba]C[Seki! White wins by four points - 6 prisoners against 2.  CHOICERIGHT])))
+(;B[dc];W[bc]C[Black is dead! RIGHT]))
+(;W[bc];B[bd]C[White is lost]))
+(;W[ab];B[dc]
+(;W[bc];B[bd]C[White is one liberty short])
+(;W[bd];B[bc]C[White is dead]))
+(;W[bc];B[bd]C[White is lost]))
+(;B[ab]
+(;W[bc]
+(;B[ac]LB[db:A]LB[bd:A]C[This is symmetric, so both any A will kill Black :) RIGHT])
+(;B[db];W[cd];B[dc];W[bd]C[White wins!]))
+(;W[db];B[bc];W[ac];B[ab]
+(;W[ba];B[dc];W[cd];B[ac];W[bd];B[dd]C[Seki, White wins by two points - 5 prisoners against 3. This is not Whites best option!])
+(;W[dc];B[cd];W[ba];B[ca];W[da]C[Seki! White wins by 5 points (6 prisoners against 1), but both players made mistakes up to here]))))
+(;W[bc];B[cb]C[White is lost])
+(;W[ab];B[cb]C[White is lost]))

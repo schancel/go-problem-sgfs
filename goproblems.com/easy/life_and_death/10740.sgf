@@ -1,0 +1,23 @@
+(;GE[life and death]DI[4k]DP[30]SO[llel]CO[9]AB[aq]AB[bq]AB[cr]AB[bs]AB[as]AB[co]AB[do]AB[bn]AB[cm]AB[fo]AB[go]AB[gp]AB[gq]AB[gr]AW[bp]AW[cq]AW[dq]AW[dr]AW[ds]AW[fp]AW[fq]AW[fr]C[B to connect AND kill white]AP[goproblems]
+(;B[ap];W[ao]
+(;B[cp];W[cs]
+(;B[br];W[ar])
+(;B[bo];W[br]C[W is alive =(]))
+(;B[bo];W[cs]
+(;B[cp];W[br]C[:(])
+(;B[br];W[ar])
+(;B[an];W[br]C[:(])))
+(;B[cp];W[cs]
+(;B[br];W[ap]C[=(])
+(;B[ap];W[br]C[W is alive])
+(;B[ar];W[ap])
+(;B[ao];W[br]))
+(;B[ao]
+(;W[cp]C[CHOICE];B[ap]C[GOOD!RIGHT])
+(;W[br]C[CHOICE]
+(;B[ar]C[GOOD!RIGHT])
+(;B[ap]C[RIGHT])))
+(;B[bo];W[cs]
+(;B[ap];W[br]C[:(])
+(;B[br];W[ap]C[:(])
+(;B[cp];W[br]C[:(])))

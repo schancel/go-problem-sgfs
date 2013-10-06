@@ -1,0 +1,75 @@
+(;GE[joseki]DI[1k]DP[18]SO[adum]CO[6]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[eo][ip][eq]AB[dn][gn][cp][gp]
+LB[cp:1][eq:2][gp:3][eo:4][dn:5][ip:6][gn:7]PL[2]
+C[how to continue for white?
+]
+(;W[gq];B[fp]
+(;W[fq];B[ep]
+(;W[dq]LB[dp:A][cq:B]C[RIGHT
+black can play A or B next
+])
+
+(;W[dp];B[dq]C[you wanna try a trick move, eh?
+]
+(;W[do];B[co]
+(;W[en];B[em]C[complicated, but bad for white
+])
+
+(;W[cq];B[dr];W[en];B[em]C[complicated, but bad for white
+])
+)
+
+(;W[dr];B[do])
+
+(;W[cq];B[do])
+)
+
+(;W[cq]C[gives white weaknesses
+])
+)
+
+(;W[ep];B[fq]
+(;W[fr];B[gr]
+(;W[hq];B[er])
+
+(;W[er];B[hq])
+)
+
+(;W[hp];B[gr])
+)
+
+(;W[dq];B[fq])
+)
+
+(;W[en];B[dm]C[this helps black
+])
+
+(;W[cq];B[dp]C[wrong direction
+])
+
+(;W[fn];B[fm]C[helps black
+])
+
+(;W[do];B[co]C[helping black
+])
+
+(;W[hq];B[gq]C[too weak
+])
+
+(;W[fq];B[gq])
+
+(;W[fp];B[gq])
+
+(;W[fo];B[go]C[now white cannot cruss under
+];W[gq];B[hq];W[hp];B[fq];
+W[gr];B[fr])
+
+(;W[cr]C[wrong direction
+])
+
+)

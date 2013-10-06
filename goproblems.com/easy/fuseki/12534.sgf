@@ -1,0 +1,12 @@
+(;GE[fuseki]DI[7k]DP[42]SO[dischord]CO[0]AB[pp]AB[qn]AW[dq]AW[cn]AW[gq]AB[jq]LB[oq:A]LB[mq:B]C[A or B?]AP[goproblems]
+(;B[oq]C[Safely enclosed the corner. White is not strong (thick) or close to the marked stone, so an invasion on the side is unlikely to succeed.RIGHT])
+(;B[mq]C[Black's corner is decently secure for now, but there's aji. If white gets some support around R8, she could invade.]
+(;W[nq]C[...This doesn't seem to work very well.]
+(;B[np];W[oq];B[pq];W[mr];B[lq];W[op]))
+(;W[qq]C[Bad idea.];B[pq];W[pr];B[or];W[rr];B[rp];W[qp];B[ro];W[qo];B[po]C[White dies.])
+(;W[pq];B[oq];W[or]
+(;B[qq];W[nq];B[pr];W[op];B[pq];W[np];B[nr];W[mr];B[os];W[lq]C[Depends on this ladder, I think.])
+(;B[pr];W[qq];B[nr];W[op];B[os];W[po];B[qp];W[qo];B[rp];W[ro];B[rq];W[oo]C[White's move depends on the situation.])
+(;B[nq];W[qq]C[Alive]))
+(;W[ql];B[as]C[Tenuki!];W[qq];B[pq];W[pr];B[or];W[rp];B[ro];W[qp];B[qo];W[rr];B[ps];W[qs]C[Ko!]))
+(;B[jl]C[This is here just to match the board view in the book.]))

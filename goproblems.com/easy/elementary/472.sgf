@@ -1,0 +1,19 @@
+(;GE[elementary]DI[7k]DP[41]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[ra][rb][qb][pb]AB[sb][rc][qc][pc][ob][oa][pa][oc]AW[sd][rd][qd][pd][od][nc][nb]AE[ma]AW[lb]AE[nd]C[can black live?]
+(;B[qa]CR[qa]
+;W[sc]CR[sc]
+;B[sa]CR[sa]
+;W[rb]CR[rb]
+(;B[qb]CR[qb]
+;W[ra]CR[ra]
+;B[sb]CR[sb]C[RIGHT])
+(;B[ra]CR[ra]
+;W[qb]CR[qb]))
+(;B[sc]CR[sc]
+;W[qa]CR[qa]
+;B[sa]CR[sa]
+;W[qb]CR[qb])
+(;B[sa]CR[sa]
+;W[sc]CR[sc]
+;B[sb]CR[sb]
+;W[sa]CR[sa]))

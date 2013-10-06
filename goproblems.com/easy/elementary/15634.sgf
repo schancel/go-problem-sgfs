@@ -1,0 +1,12 @@
+(;GE[elementary]DI[30k]DP[98]SO[Alexi]CO[0]AB[ab]AB[bc]AB[cb]AB[ca]AW[ad]AW[bd]AW[cd]AW[dc]AW[db]AW[da]AP[goproblems]
+(;B[ba];W[ac];B[cc]C[RIGHT])
+(;B[bb];W[cc]
+(;B[ac];W[aa];B[ba];W[aa])
+(;B[ba];W[ac])
+(;B[aa];W[ac]))
+(;B[aa];W[ac]
+(;B[cc];W[bb];B[ba];W[bb])
+(;B[bb];W[cc])
+(;B[ba];W[cc]))
+(;B[cc];W[ba])
+(;B[ac];W[ba]))

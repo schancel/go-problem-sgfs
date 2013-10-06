@@ -1,0 +1,22 @@
+(;GE[life and death]DI[5k]DP[35]SO[ZeroTalent]CO[7]AB[bb][cb][bc][dc][ec][cd][ce][cf][dg][eg][fh]AW[db][eb][fb][gc][hd][he][hg][gh][ef][de][dd][fi][ei][di][ch][bg][bf][be][bd][ef]C[Can you trap the marked stones inside a geta (net)? Please show me how.]SZ[19]TR[dd][de]
+
+(;B[da];W[ff]C[WRONG])
+(;B[ca];W[ff]C[WRONG])
+(;B[ba];W[ff]C[WRONG])
+(;B[ab];W[ff]C[WRONG])
+(;B[ac];W[ff]C[WRONG])
+(;B[ad];W[ff]C[WRONG])
+(;B[cg];W[ff]C[WRONG])
+(;B[fg];W[ff]C[WRONG])
+(;B[ed];W[ff]C[WRONG])
+(;B[df];W[ee]
+(;B[fe];W[ff]
+(;B[gf];W[fg]C[WRONG])
+(;B[fg];W[gf]C[WRONG])
+(;B[ed]C[WRONG]))
+(;B[ff];W[fe]C[WRONG]))
+(;B[cg];W[ff]C[WRONG])
+(;B[eh];W[ff]C[WRONG])
+(;B[ee];W[ed]
+(;B[fe];W[fd]C[WRONG])
+(;B[fd];W[fe];B[df];W[ee];B[ge];W[ff];B[gf]C[RIGHT ])))

@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[7k]DP[40]SO[peto.franek]CO[7]SZ[19]AW[pj]AW[ek]AW[dn]AW[hn]AW[in]AW[bo]AW[do]AW[ho]AW[jo]AW[cp]AW[dp]AW[fp]AW[gp]AW[hp]AW[jp]AW[pp]AW[fq]AW[jq]AW[kq]AW[nq]AW[gr]AW[hr]AW[lr]AB[cd]AB[pd]AB[hm]AB[im]AB[jm]AB[gn]AB[jn]AB[eo]AB[fo]AB[io]AB[ko]AB[bp]AB[ep]AB[ip]AB[lp]AB[cq]AB[dq]AB[eq]AB[iq]AB[lq]AB[er]AB[ir]AB[is]C[White to win the battle.]AB[fr]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[6.50]
+(;W[hq]
+(;B[gs]C[CHOICE];W[hs]
+(;B[go];W[fs];B[es]
+(;W[jr]C[One eye kills no eye. RIGHT])
+(;W[js]C[One eye kills no eye.RIGHT]))
+(;B[kr]
+(;W[jr]C[One eye kills no eye.RIGHT])
+(;W[ks]C[One eye kills no eye.RIGHT])
+(;W[js]C[One eye kills no eye.RIGHT])))
+(;B[kr]C[CHOICE];W[jr];B[ks]
+(;W[ls]C[One eye kills no eye.RIGHT])
+(;W[js];B[kp])
+(;W[hs]C[White lives, but M1 is better.RIGHT]))
+(;B[hs];W[gs]
+(;B[fs]C[CHOICE]
+(;W[jr]C[One eye kills no eye.RIGHT])
+(;W[js]C[One eye kills no eye.RIGHT]))
+(;B[go]C[CHOICE]
+(;W[jr]C[One eye kills no eye.RIGHT])
+(;W[js]C[One eye kills no eye.RIGHT]))))
+(;W[jr];B[gs];W[hs];B[hq];W[fs];B[go])
+(;W[js];B[gs];W[hs];B[hq];W[fs];B[go])
+(;W[kr];B[gs];W[hs];B[hq];W[fs];B[go])
+(;W[gs];B[kr];W[jr];B[ks])
+(;W[hs];B[hq];W[gq];B[go])
+(;W[fs];B[kr];W[jr];B[ks]))

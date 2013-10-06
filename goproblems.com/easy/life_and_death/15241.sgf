@@ -1,0 +1,95 @@
+(;GE[life and death]DI[5k]DP[34]SO[Sestir]CO[0]AB[bq]AB[ap]AB[bo]AB[bn]AB[cn]AB[do]AB[en]AB[ep]AB[eq]AB[fo]AB[go]AB[in]AB[hp]AB[ip]AB[iq]AB[hq]AB[gq]AB[ir]AB[hs]AB[kq]AW[br]AW[dr]AW[dp]AW[cp]AW[bp]AW[er]AW[fr]AW[fq]AW[fp]AW[gp]AW[gr]AW[hr]AW[lr]AW[lq]AW[kp]AW[ko]C[Black to kill the white corner group.]AW[bm]AW[cl]AP[goproblems]
+(;B[cq]
+(;W[cr]
+(;B[ar]
+(;W[bs]
+(;B[ds];W[gs];B[es];W[is]
+(;B[jr]C[Great! This is the natural way to kill white.CHOICERIGHT])
+(;B[ks];W[kr];B[jr]C[Great!RIGHT])
+(;B[js];W[jr]C[This ko is not necessary.])
+(;B[kr];W[ks]))
+(;B[gs];W[fs]
+(;B[ds];W[is]
+(;B[hs];W[js]
+(;B[ks]C[Beautiful!RIGHT])
+(;B[kr];W[ks])
+(;B[jr];W[ks]))
+(;B[js];W[hs])
+(;B[jr];W[hs]))
+(;B[is];W[ds]))
+(;B[es];W[ds])
+(;B[is];W[gs]LB[ds:A]LB[es:B]C[White lives since black cannot take both A and B.])
+(;B[fs];W[gs]))
+(;W[gs]
+(;B[bs];W[cs];B[es]C[RIGHT])
+(;B[es]
+(;W[bs];B[ds])
+(;W[ds];B[bs];W[is]
+(;B[jr]C[Good!RIGHT])
+(;B[ks];W[kr];B[jr]C[RIGHT])))))
+(;B[gs];W[ar]
+(;B[dq];W[fs])
+(;B[aq];W[fs])
+(;B[fs];W[dq]))
+(;B[bs];W[ar]
+(;B[aq];W[dq];B[ao];W[gs])
+(;B[gs];W[dq]))
+(;B[dq];W[ar]C[You could have killed the whole corner.]))
+(;W[ar];B[cr]
+(;W[aq];B[dq];W[ao];B[an];W[cs];B[eo]
+(;W[bs];B[ds]
+(;W[gs];B[es];W[is];B[jr]C[RIGHT])
+(;W[es];B[gs]C[RIGHT]))
+(;W[gs];B[bs];W[is];B[jr]C[RIGHT]))
+(;W[cs];B[dq];W[bs];B[ds];W[gs];B[es];W[is];B[jr]C[RIGHT])))
+(;B[cr];W[cq]
+(;B[cs];W[aq])
+(;B[ar];W[bs]LB[dq:A]C[Thanks to A, white has two real eyes.])
+(;B[bs];W[ar]))
+(;B[ar];W[cq]
+(;B[aq];W[bs]LB[dq:A]C[Thanks to A, white has two real eyes.])
+(;B[bs];W[aq]C[Black has better options than ko.]))
+(;B[gs];W[ar]
+(;B[cq];W[cr])
+(;B[fs];W[cq]))
+(;B[aq];W[cq];B[ar];W[bs])
+(;B[dq];W[cq]
+(;B[eo];W[aq])
+(;B[aq];W[ar]
+(;B[ao];W[eo])
+(;B[eo];W[ao]))
+(;B[cr];W[aq]
+(;B[eo];W[cs])
+(;B[cs];W[eo])
+(;B[co];W[eo])
+(;B[ar];W[ao])))
+(;B[bs];W[ar]
+(;B[cr];W[cq]
+(;B[cs];W[aq])
+(;B[aq];W[ao])
+(;B[as];W[cs])
+(;B[dq];W[eo])
+(;B[co];W[cs])
+(;B[ao];W[aq]))
+(;B[cq];W[cr])
+(;B[cs];W[cq]))
+(;B[cs];W[ar]
+(;B[cq];W[cr])
+(;B[cr];W[cq]
+(;B[co];W[aq])
+(;B[ao];W[aq])
+(;B[aq];W[ao])
+(;B[bs];W[ds])
+(;B[gs];W[aq])))
+(;B[as];W[cq]
+(;B[ar];W[bs])
+(;B[aq];W[ar]))
+(;B[ds];W[ar]
+(;B[cr];W[cq];B[bs];W[es])
+(;B[cs];W[cr]LB[aq:A]LB[bs:B]C[White will get A or B easily.]))
+(;B[es];W[ar]
+(;B[cq];W[cr])
+(;B[cr];W[cq];B[cs];W[aq]))
+(;B[fs];W[ar];B[cq];W[cr]
+(;B[dq];W[gs])
+(;B[gs];W[dq])))

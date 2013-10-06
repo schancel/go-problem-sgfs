@@ -1,0 +1,35 @@
+(;GE[life and death]DI[1k]DP[19]SO[santa c]CO[8]AB[bc]AB[cc]AB[db]AB[be]AB[bf]AB[bh]AW[ce]AW[cd]AW[bd]AW[dc]AW[eb]AW[ec]AW[gb]C[Best move for W?]AB[ag]AB[cg]AB[cf]AB[ch]AW[ci]AW[dg]AW[dh]AW[bk]AW[dj]AW[df]AB[bi]AW[ai]AB[bj]AW[aj]AB[cj]AW[ck]AW[ej]AP[goproblems]
+(;W[ae]
+(;B[ca]
+(;W[ab]
+(;B[bb];W[ac]C[Well done! :)RIGHT])
+(;B[ac];W[bb]C[RIGHT]))
+(;W[ac];B[ab]
+(;W[bb];B[ad]MA[ac]C[:(])
+(;W[ad];B[ba]C[:(])
+(;W[ba];B[ad]C[:(]MA[ac]))
+(;W[bb];B[ab]
+(;W[ba];B[ad];W[ac]C[:(]MA[ad])
+(;W[ac];B[ad]MA[ac]C[:(])
+(;W[ad];B[ba]C[:(]))
+(;W[ad];B[bb]C[:(])
+(;W[ea];B[ab]C[Now w can either let the top live by playing A16 or start a ko (which black needs to win twice) by playing B19.. :(]TR[ba]TR[ad]))
+(;B[ba];W[da]C[RIGHT])
+(;B[ab];W[da]C[RIGHT])
+(;B[bb];W[ca]
+(;B[da];W[ba]
+(;B[ac];W[aa]
+(;B[ad];W[ea]C[RIGHT])
+(;B[cb];W[ad]C[RIGHT]))
+(;B[aa];W[ac]C[RIGHT]))
+(;B[ba];W[da]C[RIGHT])
+(;B[ac];W[da]TR[ad]TR[ba]C[RIGHT])
+(;B[ab];W[da]TR[ad]TR[ba]C[RIGHT]))
+(;B[cb];W[ba]C[RIGHT])
+(;B[ac];W[da]C[RIGHT])
+(;B[da];W[ba];B[bb];W[ea]C[RIGHT]))
+(;W[ad];B[ae]C[:(])
+(;W[ac];B[ae]C[:(])
+(;W[bb];B[ae]C[:(])
+(;W[ab];B[ae]C[:(])
+(;W[cb];B[ae]C[:(]))

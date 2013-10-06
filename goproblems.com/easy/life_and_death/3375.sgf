@@ -1,0 +1,45 @@
+(;GE[life and death]DI[4k]DP[29]SO[santa c]CO[6]AW[co]AW[bo]AW[bq]AW[cq]AW[cr]AW[ds]AB[bn]AB[cn]AB[do]AB[dq]AB[dr]AB[es]AB[dm]AB[en]AB[fr]AB[aq]C[As simple as white to live :)]AB[ep]AB[eq]AB[an]AP[goproblems]
+(;W[ar];B[bs]
+(;W[cs];B[ao]
+(;W[ap];B[cp]
+(;W[bp]C[Nice! ;)RIGHT])
+(;W[br];B[bp]C[O.O]))
+(;W[cp];B[ap]C[Oops? ;)]))
+(;W[ap];B[cs]
+(;W[cp];B[br]C[Oops? ;)])
+(;W[br];B[cp]C[Oops? ;)]))
+(;W[ao];B[cs]
+(;W[ap];B[br];W[cp]C[Oops? ;)])
+(;W[br]C[Oops? ;) (White can't play both 'A' and 'B', so black can freely tenuki..)]LB[ap:A]LB[cp:B])
+(;W[cp]LB[ap:A]LB[br:B]C[Oops? ;) (White can't play both 'A' and 'B', so black can freely tenuki..)]))
+(;W[bp];B[cs]C[Oops? ;)])
+(;W[cp];B[cs]
+(;W[ap];B[br]C[Oops? ;)])
+(;W[ao]C[Oops? ;) (White can't play both 'A' and 'B', so black can freely tenuki..)]LB[ap:A]LB[br:B])
+(;W[br];B[ap]C[Oops? ;)]))
+(;W[br];B[cs]
+(;W[as];B[ds];W[ap];B[cp]C[Oops? ;)])
+(;W[ap];B[cp]C[Oops? ;)])
+(;W[cp]C[Oops? ;) (Can't have 2 eyes, now..)])
+(;W[ao]C[Oops? ;) (White can't play both 'A' and 'B', so black can freely tenuki..)]LB[ap:A]LB[cp:B])))
+(;W[ap];B[ar]
+(;W[cp];B[bs]
+(;W[br];B[cs];W[as];B[ar]C[White's dead! :'(])
+(;W[cs];B[ao]
+(;W[br];B[bp]MA[ap]C[Ko. (The best possibility for white, if he opens, with A4..)];W[ap]C[NOTTHIS])
+(;W[bp];B[dp]C[Oops? ;)]))
+(;W[ao];B[cs]C[Oops? ;)]))
+(;W[br];B[cs]
+(;W[bs];B[cp]C[Oops? ;)])
+(;W[cp];B[bs];W[as];B[ar]C[Oops? ;)]))
+(;W[bs];B[ao]C[Dead.])
+(;W[cs]C[Black can freely tenuki... Dead anyway...]))
+(;W[ao]
+(;B[bp];W[cp];B[ar];W[ap];B[bs];W[cs];B[dp]C[Seki. (Alive but not the best way..)])
+(;B[cp];W[bp];B[bs]
+(;W[cs];B[ar]C[Dead - According to the japanese rule set.CHOICE])
+(;W[br];B[cs]C[Dead.])
+(;W[ap]C[Dead as A2/C1 kill.])))
+(;W[bs];B[ar]
+(;W[ap];B[cp]C[Oops? ;)])
+(;W[cp];B[ao];W[ap];B[bp]C[Ko... Could be better... Much better.. (thanks, Warp)]MA[ap];W[ap]C[NOTTHIS])))

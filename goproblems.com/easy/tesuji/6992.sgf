@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[6k]DP[37]SO[Trucid]CO[7]SZ[19]AW[gp]AW[hp]AW[ip]AW[jp]AW[mp]AW[gq]AW[jq]AW[kq]AW[mq]AW[er]AW[fr]AW[kr]AW[mr]AW[js]AW[ms]AB[bp]AB[cp]AB[dp]AB[dq]AB[eq]AB[fq]AB[hq]AB[iq]AB[br]AB[dr]AB[gr]AB[hr]AB[ir]AB[jr]AB[is]LB[is:2]LB[js:1]C[Black 2 was a mistake. Punish him.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[gs];B[ks]
+(;W[fs]
+(;B[ds];W[ls];B[es];W[js];B[hs];W[fr];B[ks]C[KoRIGHT])
+(;B[ls];W[lr];B[ds];W[js];B[ks];W[ls];B[es];W[js];B[hs];W[fr];B[ks]C[RIGHT]))
+(;W[ls];B[es]
+(;W[js];B[fs])
+(;W[fs];B[hs])))
+(;W[fs]
+(;B[ks]
+(;W[gs];B[ds];W[ls];B[es];W[js];B[hs];W[fr];B[ks]C[KoRIGHT])
+(;W[ls];B[gs]))
+(;B[ds]C[Black's mistake];W[ks];B[es];W[gs];B[hs];W[fr]C[Not even a koRIGHT]))
+(;W[es];B[ds])
+(;W[ds];B[fs])
+(;W[ks];B[fs]))

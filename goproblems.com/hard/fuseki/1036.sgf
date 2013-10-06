@@ -1,0 +1,20 @@
+(;GE[fuseki]DI[6d]DP[0]SO[Spirit]CO[7]LB[yy:0]AB[cd]AB[cj]AB[fc]AB[lq]AB[ne]AB[oc]AB[pc]AB[pe]AB[qd]AB[qp]AW[cp]AW[ep]AW[hq]AW[ic]AW[md]AW[nc]AW[nd]AW[od]AW[oq]AW[po]SZ[19]C[FORCE]TR[qo]TR[pp]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[pp]MN[1];W[op]C[];B[oo];W[pn]C[FORCE]
+(;B[on]C[RIGHT];W[pm]C[FORCE];B[om]
+(;W[ro]C[FORCE]
+(;B[pq];W[mp]C[FORCE];B[pl];W[ql]C[FORCE];B[qk];W[rp]C[FORCE];B[or];W[mq]C[FORCE];B[qr];W[rl]C[FORCE];B[rk];W[rm]C[FORCE];B[rq];W[nr]C[FORCE];B[os];W[sr]LB[sr:24]LB[ol:A]LB[ok:B]LB[pk:C]C[What connection is the right one?FORCE]
+(;B[ol]C[RIGHT])
+(;B[ok]LB[ok:25]LB[nl:B]LB[pj:A]C[This leaves A and B for White to aim at.])
+(;B[pk]LB[pk:25]LB[pk:25]LB[ol:A]C[Black A would probably be a little bit better but the difference is not that great.RIGHT]))
+(;B[rp];W[pq];B[qq];W[qr];B[rr];W[ps];B[rn];W[qo];B[so];W[pl];B[np];W[sq];B[sp];W[rs];B[sr];W[nq];B[mq];W[rm];B[nr];W[or];B[ns];W[os];B[lr];W[no];B[mp];W[qn];B[mn];W[sn];B[rq];W[qh]C[This result is not very interesting for Black.]))
+(;W[pl];B[np];W[nq];B[mq];W[qr];B[rr]
+(;W[no];B[mp]
+(;W[ol];B[mn];W[rs];B[pr];W[pq];B[qq];W[ps];B[qs]
+(;W[nm];B[nn];W[qr];B[or];W[nr];B[qs]C[And White doesn't have a proper ko threat.])
+(;W[nn]C[This is very bad style];B[nm];W[qr];B[or];W[nr];B[qs];W[nl];B[mm];W[qr];B[kc];W[os];B[ke]C[Black is doing nicely.]))
+(;W[rs];B[pr];W[pq];B[qq];W[ps];B[qs]C[And White has no proper ko-threat.]))
+(;W[rs];B[pr];W[pq];B[qq];W[ps];B[qs]C[And White has no proper ko-threat.];W[no];B[nr];W[mp];B[or];W[np];B[mn]C[White is destroyed and might just as well resign immediately.])))
+(;B[no];W[pr];B[rn];W[mp]C[Black is in big trouble here.]))
+(;B[qo];W[pn]
+(;B[qm]C[This is slack])
+(;B[qn];W[pm]C[There's no need for taking sente here.])))

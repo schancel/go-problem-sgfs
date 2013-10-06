@@ -1,0 +1,28 @@
+(;GE[life and death]DI[5k]DP[34]SO[Spica]CO[8]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]AB[aq][ap][bp][cp][dp][ep][fq]
+[fr][gs][gq][hq][iq][ir][is][ds]AW[bq][cq][cr][cs][dq][eq][er]
+[es][fs][fp][gp][hp][ip][jq][jr][jp][lr]C[White to kill the black J3 group.]
+
+(;W[hr];B[br]
+(;W[ar];B[as]
+(;W[js]C[Black needs an extra approach move at A2 after the throw-in. RIGHT]
+)
+(;W[gr];B[ar]
+(;W[js]C[Black needs an extra approach move at A2 after the throw-in. RIGHT]
+)
+(;W[hs];B[gs]))
+(;W[hs];B[ar]
+(;W[js]C[Black needs an extra approach move at A2 after the throw-in. RIGHT]
+)
+(;W[gr];B[gs])))
+(;W[js];B[bs])
+(;W[gr];B[bs]C[H1 results in a snapback so white is dead])
+(;W[hs];B[bs]C[G2 results in a snapback so white is dead])
+(;W[bs];B[ar]
+(;W[hs];B[as]C[G2 results in a snapback so white is dead])
+(;W[gr];B[as]C[H1 results in a snapback so white is dead])
+(;W[js];B[as]))
+(;W[as];B[ar]
+(;W[gr];B[bs]C[H1 results in a snapback so white is dead])
+(;W[hs];B[bs]C[G2 results in a snapback so white is dead])
+(;W[js];B[bs])))
+(;W[ar];B[hr]C[both live]))

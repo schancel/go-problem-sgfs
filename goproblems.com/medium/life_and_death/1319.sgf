@@ -1,0 +1,48 @@
+(
+;GE[life and death]DI[3d]DP[10]SO[gecko]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.29]
+AB[ba][bb][bc][bd][cd][dd][ec][fc][gc][ee][hd][he][gf]
+AW[cb][dc][eb][fb][gb][hc][ib][id][ie][hf][hg][fh][eg][cg][ce][be]
+C[time to make an enemy for life ...]
+GN[temp]
+(
+;
+W[ed]
+(
+;
+B[fd]
+;
+W[ge]
+;
+B[fe]
+;
+W[de]
+LB[gd:a][ff:b]
+C[RIGHT dead as a doornail. (a and b are miai )]
+)
+(
+;
+B[fe]
+;
+W[de]
+C[RIGHT still dead]
+)
+)
+(
+;
+W[ff]
+;
+B[fe]
+LB[de:a][ed:b]
+C[black will get a or b]
+)
+(
+;
+W[de]
+;
+B[ge]
+)
+)

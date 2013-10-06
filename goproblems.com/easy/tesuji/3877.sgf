@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[4k]DP[31]SO[norm]CO[7]AB[qq]AB[pr]AB[rp]AB[rr]AB[or]AB[nq]AB[ro]AB[rn]AB[qm]AB[ql]AB[pl]AB[ol]AW[pm]AW[om]AW[nm]AW[qn]AW[qo]AW[qp]AW[pq]AW[oq]AW[mo]AW[mq]AW[mr]AW[nr]AP[goproblems]
+(;B[pp];W[op]
+(;B[oo]C[];W[np];B[pn]TR[op]TR[oq]TR[pq]MA[qn]MA[qo]MA[qp]C[Well done.  White had to choose which three stones to save, black has set up a snapbackRIGHT])
+(;B[po];W[pn];B[oo];W[np]))
+(;B[pn];W[pp]
+(;B[np];W[on];B[op];W[po])
+(;B[op];W[np]))
+(;B[op];W[pp]
+(;B[pn];W[np])
+(;B[po];W[np]))
+(;B[po];W[np])
+(;B[np];W[oo]
+(;B[pp];W[op];B[pn];W[po])
+(;B[pn];W[on])
+(;B[op];W[pp];B[pn];W[po];B[no];W[on]))
+(;B[oo];W[np]
+(;B[pn];W[pp])
+(;B[pp];W[pn])))

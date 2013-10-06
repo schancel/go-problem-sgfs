@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[4d]DP[8]SO[kvzrock]CO[8]SZ[19]AW[db]AW[cc]AW[dd]AW[ec]AW[ed]AW[ee]AW[fd]AW[ge]AW[he]AW[ie]AW[je]AW[id]AW[ib]AW[kc]AW[le]AB[df]AB[ef]AB[ff]AB[fe]AB[gf]AB[fc]AB[fb]AB[eb]AB[gd]AB[hc]AB[jd]AB[ke]AB[jf]AB[if]C[Can b save the marked stones?]MA[eb]MA[fb]MA[fc]MA[gd]MA[hc]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]GN[Go Seigen Tesuji #4]PL[B]
+(;B[ic];W[jc]
+(;B[kb]
+(;W[lb]C[CHOICE];B[jb]C[RIGHT])
+(;W[jb]C[CHOICE];B[kd];W[kf];B[ld];W[md];B[lc]C[];W[lb];B[mc];W[nc];B[mb]C[RIGHT];W[ka]C[FORCE]
+(;B[hf]C[Tthe ladder favored b due to L18. B captures five w stones instead.RIGHT])))
+(;B[kd];W[kf]
+(;B[kb];W[ld];B[jb];W[lb];B[hb]C[B lives. However,this result is vastly inferior to the main line solution  because w captures three b stones instead of one. RIGHT])
+(;B[ld];W[md];B[lc];W[lb];B[mc];W[nc];B[mb];W[nb]C[Ladder favors w. B's captured.]))
+(;B[hb];W[jb];B[hd];W[kd];B[ga];W[ea]C[Dead.])
+(;B[hf];W[kd];B[hd];W[kf];B[hb];W[jb];B[ga];W[ea]C[B's dead.]))
+(;B[kd];W[ic]C[Nope.])
+(;B[jc];W[ic];B[kd];W[jb];B[lc];W[kb];B[lb];W[ld];B[kf];W[hb]C[W wins this semiai.]))

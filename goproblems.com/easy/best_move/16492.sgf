@@ -1,0 +1,8 @@
+(;GE[best move]DI[25k]DP[78]SO[TheBigH]CO[0]AB[qc]AB[rc]AB[sc]AB[pb]AB[ob]AB[nb]AB[mb]AB[lb]AW[pc]AW[oc]AW[nc]AW[qd]AW[rd]AW[sd]AW[pe]AW[pg]MA[qc]MA[rc]MA[sc]C[White wants to use the marked stones as a ko threat. Best place to play?]AP[goproblems]
+(;W[qb];B[rb]C[Great! Black has defended, but you can threaten twice more with A and B since black must capture your cutting stone. Play it through to see.RIGHT]LB[ra:A]LB[sb:B])
+(;W[rb];B[qb]C[No. Black connects and you have no further threats here.])
+(;W[sb];B[qb]C[Nope. Black simply connects and you have no more threats here.])
+(;W[qa];B[qb]C[Wrong. Black simply connects and you have no further threats here.])
+(;W[ra];B[qb]C[No. Black simply connects and you have no further useful moves here.])
+(;W[sa];B[mf]C[Wrongest. This isn't even a threat, and black simply settles the ko.]LB[me:Settles the ko])
+(;W[pa];B[mf]LB[me:Settles the ko]C[This is not much of a threat. Black will simply settle the current ko, and the best white can do to follow up the threat is get another, unfavourable, ko.]LB[mf:1]AW[qb]AB[rb]AW[ra]LB[qb:2]LB[rb:3]LB[ra:4]MA[qa]))

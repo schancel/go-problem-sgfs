@@ -1,0 +1,139 @@
+(;GE[life and death]DI[1k]DP[19]SO[fwiffo]CO[0]SZ[19]AW[no]AW[oo]AW[mq]AW[nq]AW[oq]AW[nr]AW[qr]AB[pm]AB[mn]AB[nn]AB[on]AB[pn]AB[lp]AB[mp]AB[qp]AB[lq]AB[lr]AB[mr]LB[kp:alive]LB[kq:ko]LB[kr:kill]C[Black to play, what is the best result? Is white alive, can black get a ko, or can black kill outright?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[6.50]PW[White]PB[Black]
+(;B[kr]LB[kp:alive]LB[kq:ko]LB[kr:kill];W[kp]LB[kp:alive]LB[kq:ko]LB[kr:kill]C[OK prove it.]
+(;B[rq];W[rr]
+(;B[sr];W[qq]
+(;B[rp];W[pp]
+(;B[np];W[pr]
+(;B[os]
+(;W[ns]C[CHOICE]
+(;B[op]
+(;W[rs]C[CHOICE];B[ps]C[White is dead!RIGHT])
+(;W[ps]C[CHOICE];B[rs]C[White is dead!RIGHT]))
+(;B[rs];W[op]TR[pq]TR[or]TR[os]C[White is alive!])
+(;B[ps];W[op]TR[pq]TR[or]TR[os]TR[ps]C[White is alive!]))
+(;W[op]C[CHOICE]
+(;B[ns]
+(;W[ps]C[CHOICE]
+(;B[rs]C[White is dead!RIGHT])
+(;B[ms]TR[or]TR[rs]C[This kills (the marked points are miai for the kill) but needlessly leaves an extra ko threat. I guess I'll let you off with a warning.RIGHT]))
+(;W[rs]C[CHOICE]
+(;B[ps]C[White is dead!RIGHT])
+(;B[or]C[This kills but needlessly leaves a ko threat. I guess I'll let you go with a warning.RIGHT])
+(;B[ms]TR[or]TR[ps]C[This kills (the marked points are miai for the kill) but needlessly leaves an extra ko threat. I guess I'll let you off with a warning.RIGHT])))
+(;B[rs];W[ns]TR[pq]TR[or]TR[os]C[White is alive!])
+(;B[ps];W[ns]TR[pq]TR[or]TR[os]TR[ps]C[White is alive!])))
+(;B[op];W[os]TR[or]TR[ps]C[White is alive!])
+(;B[rs];W[os]
+(;B[op];W[qs]TR[or]TR[ps]C[White is alive!])
+(;B[qs];W[op]TR[pq]TR[or]C[White is alive!])))
+(;B[os];W[np]
+(;B[ns];W[pr]
+(;B[or];W[ps]
+(;B[ms];W[rs]TR[op]TR[pq]TR[qs]C[White is alive!])
+(;B[rs];W[ms]TR[op]TR[pq]TR[or]C[White is alive!]))
+(;B[ms];W[or]TR[op]TR[pq]C[White is alive!]))
+(;B[pr];W[ns]C[White is alive!])
+(;B[qs];W[ns]C[White is alive!])
+(;B[rs];W[ns]C[White is alive!])
+(;B[ps];W[ns]C[White is alive!]))
+(;B[rs];W[np]C[White is alive!])
+(;B[pr];W[np]C[White is alive!])
+(;B[ps];W[np]C[White is alive!]))
+(;B[ro];W[pp]
+(;B[np];W[pr]
+(;B[os]
+(;W[ns]C[CHOICE]
+(;B[op]
+(;W[rs]C[CHOICE];B[ps]C[White is dead!RIGHT])
+(;W[ps]C[CHOICE];B[rs]C[White is dead!RIGHT]))
+(;B[rs];W[op]TR[pq]TR[or]TR[os]C[White is alive!])
+(;B[ps];W[op]TR[pq]TR[or]TR[os]TR[ps]C[White is alive!]))
+(;W[op]C[CHOICE]
+(;B[ns]
+(;W[ps]C[CHOICE]
+(;B[rs]C[White is dead!RIGHT])
+(;B[ms]TR[or]TR[rs]C[This kills (the marked points are miai for the kill) but needlessly leaves an extra ko threat. I guess I'll let you off with a warning.RIGHT]))
+(;W[rs]C[CHOICE]
+(;B[ps]C[White is dead!RIGHT])
+(;B[or]C[This kills but needlessly leaves a ko threat. I guess I'll let you go with a warning.RIGHT])
+(;B[ms]TR[or]TR[ps]C[This kills (the marked points are miai for the kill) but needlessly leaves an extra ko threat. I guess I'll let you off with a warning.RIGHT])))
+(;B[rs];W[ns]TR[pq]TR[or]TR[os]C[White is alive!])
+(;B[ps];W[ns]TR[pq]TR[or]TR[os]TR[ps]C[White is alive!])))
+(;B[op];W[os]TR[or]TR[ps]C[White is alive!])
+(;B[rs];W[os]
+(;B[op];W[qs]TR[or]TR[ps]C[White is alive!])
+(;B[qs];W[op]TR[pq]TR[or]C[White is alive!])))
+(;B[os];W[np]
+(;B[ns];W[pr]
+(;B[or];W[ps]
+(;B[ms];W[rs]TR[op]TR[pq]TR[qs]C[White is alive!])
+(;B[rs];W[ms]TR[op]TR[pq]TR[or]C[White is alive!]))
+(;B[ms];W[or]TR[op]TR[pq]C[White is alive!]))
+(;B[pr];W[ns]C[White is alive!])
+(;B[qs];W[ns]C[White is alive!])
+(;B[rs];W[ns]C[White is alive!])
+(;B[ps];W[ns]C[White is alive!]))
+(;B[rs];W[np]C[White is alive!])
+(;B[pr];W[np]C[White is alive!])
+(;B[ps];W[np]C[White is alive!]))
+(;B[pp];W[rp]C[Oops.])
+(;B[qo];W[rp]C[Oops.])
+(;B[pr];W[rp]C[Oops.])
+(;B[os];W[rp]C[Oops.]))
+(;B[pq];W[qq]
+(;B[pr];W[pp]C[Now what?])
+(;B[pp];W[pr]TR[rp]TR[os]C[White has miai to live.])
+(;B[rp];W[pp]C[Now what?]))
+(;B[os];W[qq]
+(;B[rp];W[ns];B[sr];W[ps]C[White is alive.])
+(;B[ro];W[ns];B[sr];W[ps]C[White is alive.])))
+(;B[rr]
+(;W[rq];B[qq];W[sr]C[]
+(;B[rs];W[qs]
+(;B[rp];W[ss]
+(;B[sp]
+(;W[rr]C[White is alive.]))
+(;B[rr];W[sp]C[Pretty sneaky tesuji, but it's only ko. Black could have killed outright.]))
+(;B[pr];W[ss]
+(;B[rp];W[pq]
+(;B[sp]
+(;W[rr]C[White is alive.]))
+(;B[rr];W[sp]C[Pretty sneaky tesuji, but it's only ko. Black could have killed outright.]))
+(;B[pq];W[rp]C[White is alive in the corner and still threatens to connect underneath to his main group! Black could have killed outright.])))
+(;B[pr];W[rs]
+(;B[ps];W[pq]
+(;B[ns];W[os];B[or];W[qs]C[White is alive.])
+(;B[qs];W[rr];B[ns];W[os]C[White is alive.])
+(;B[rp];W[os]C[White is alive.]))
+(;B[pq];W[ps]LB[rp:C]LB[or:D]LB[os:A]LB[qs:B]C[If black plays A, white will have a choice of living directly in the corner with B or C, or playing a ko to save the rest of the group with D. If black fails to play A, white plays there to live with everything.]))
+(;B[rp];W[rs]C[White is easily alive with a ponnuki in the corner.])))
+(;B[pr];W[qq]
+(;B[rq];W[rr]
+(;B[rp];W[sr]C[White is easily alive.])
+(;B[sp];W[sr]C[White is easily alive.])
+(;B[pq];W[pp]
+(;B[ro];W[np]C[];B[po];W[ps]C[You found a ko, but correct play would kill white outright.])
+(;B[rp];W[np]C[];B[po];W[ps]C[You found a ko, but correct play would kill white outright.]))
+(;B[pp];W[pq]TR[rp]TR[sr]C[White has miai to get life in the corner.]))
+(;B[pq];W[pp]
+(;B[rq];W[rr]TR[rp]TR[sr]C[White has miai to get life in the corner.])
+(;B[po];W[op];B[rq];W[rr]C[White can easily get a second eye now.])
+(;B[qo];W[rp]C[Now white has tons of room to live in the corner.])
+(;B[op];W[np];B[po];W[op];B[rq];W[rr]C[Now white can easily get a second eye in the corner.]))
+(;B[pp];W[pq];B[rq];W[rr]TR[rp]TR[sr]C[White has miai to get life in the corner.]))
+(;B[qq];W[rr]C[White is easily alive.])
+(;B[pq];W[pr]
+(;B[rq];W[qq];B[pp];W[rr]TR[rp]TR[os]C[White has miai to live.])
+(;B[rr];W[qq]
+(;B[pp];W[rq]C[White is easily alive.])
+(;B[rq];W[pp]C[White is easily alive.]))
+(;B[ns];W[os]
+(;B[ms];W[qq]
+(;B[pp];W[rp]C[White is easily alive now.])
+(;B[rq];W[pp]C[White is alive.]))
+(;B[qq];W[ms]C[White is alive.])
+(;B[rq];W[qq]
+(;B[pp];W[rr]TR[ms]TR[rp]TR[sr]C[White can live with any one of the marked moves.])
+(;B[rr];W[pp]C[White is alive.])))))
+(;B[kq]LB[kp:alive]LB[kq:ko]LB[kr:kill]C[Nope, black can kill outright.])
+(;B[kp]LB[kp:alive]LB[kq:ko]LB[kr:kill]C[Nope, black can kill.]))

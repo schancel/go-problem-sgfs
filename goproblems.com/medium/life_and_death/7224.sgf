@@ -1,0 +1,36 @@
+(;GE[life and death]DI[3k]DP[27]SO[tom111]CO[9]AB[ss]AB[sq]AB[pq]AB[pr]AB[or]AB[nr]AB[ns]AW[ms]AW[mr]AW[mq]AW[mp]AW[oq]AW[op]AW[pp]AW[qp]AW[rp]AW[sp]AW[os]C[Black to live]AP[goproblems]
+(;B[qq];W[rq]
+(;B[ps];W[rr])
+(;B[rr];W[qs]
+(;B[rs];W[ps])
+(;B[ps];W[sr]C[Ko :(])
+(;B[qr];W[ps])
+(;B[sr];W[qr])))
+(;B[rq];W[qq]
+(;B[qr];W[rr];B[rs];W[qs]
+(;B[ps];W[sr])
+(;B[sr];W[rr]))
+(;B[rr];W[qr];B[qs]C[RIGHT])
+(;B[ps];W[qr])
+(;B[qs];W[rr])
+(;B[rs];W[qr]))
+(;B[rr];W[rq]
+(;B[qr];W[sr]C[Ko :(])
+(;B[sr];W[qr])
+(;B[qs];W[qq]
+(;B[sr];W[qr])
+(;B[qr];W[sr]C[Ko :(]))
+(;B[ps];W[sr]C[Ko or worse...])
+(;B[qq];W[qs]
+(;B[sr];W[qr])
+(;B[ps];W[sr]C[Ko :(])
+(;B[qr];W[ps])))
+(;B[qr];W[rr]
+(;B[qs];W[rq])
+(;B[rq];W[qq];B[rs];W[qs];B[ps];W[sr]))
+(;B[ps];W[rr]
+(;B[rq];W[qq])
+(;B[qq];W[rq]))
+(;B[qs];W[rr]
+(;B[qq];W[rq])
+(;B[rq];W[qq])))

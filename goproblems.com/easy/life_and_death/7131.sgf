@@ -1,0 +1,38 @@
+(;GE[life and death]DI[8k]DP[48]SO[Trucid]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[aa][fa][bb][fb][ec][fc][bd][dd][be][ce][de]AB[da][cb][bc][cc][dc][ad][cd]C[Black to play]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+(;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ba]CR[ba]C[RIGHT Black lives in double ko])
+(;B[eb]CR[eb]
+;W[ba]CR[ba]
+;B[ab]CR[ab]
+;W[ba]CR[ba]C[Dead]))
+(;B[eb]CR[eb]
+;W[ae]CR[ae]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]C[Ko])
+(;B[ea]CR[ea]
+;W[ca]CR[ca]C[Ko])
+(;B[ac]CR[ac]
+;W[ea]CR[ea]
+;B[ba]CR[ba]
+;W[ca]CR[ca]C[Ko])
+(;B[ab]CR[ab]
+;W[ac]CR[ac]
+;B[ba]CR[ba]
+;W[ca]CR[ca]C[Ko]))
+(;B[ab]CR[ab]
+;W[ba]CR[ba]
+(;B[ca]CR[ca]
+;W[ba]CR[ba]C[Dead])
+(;B[ea]CR[ea]
+;W[eb]CR[eb]C[Dead])
+(;B[eb]CR[eb]
+;W[ea]CR[ea]C[Dead]))
+(;B[ca]CR[ca]
+;W[ab]CR[ab]C[Dead])
+(;B[ac]CR[ac]
+;W[ba]CR[ba]C[Dead]))

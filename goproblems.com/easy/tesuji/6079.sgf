@@ -1,0 +1,17 @@
+(;GE[tesuji]DI[4k]DP[31]SO[maba]CO[9]AW[bb]AW[bc]AW[cc]AB[cb]AB[db]AB[dc]AB[eb]AB[fb]AW[dd]AW[ed]AW[ec]AW[fc]AW[gb]AW[hc]AB[cd]AB[bd]AB[de]AB[cf]AW[ca]AB[ab]LB[ab:1]C[Black played 1. What should white do?]AP[goproblems]
+(;W[ba];B[ac]
+(;W[fa]C[RIGHT])
+(;W[ea]C[RIGHT])
+(;W[da]C[RIGHT]))
+(;W[aa];B[ba]C[ko])
+(;W[ac];B[ad]
+(;W[ba];B[da])
+(;W[da];B[ba])
+(;W[ea];B[ba])
+(;W[fa];B[ba])
+(;W[aa];B[da]
+(;W[ba];B[ab])
+(;W[fa];B[ba]C[ko])))
+(;W[da];B[ba]C[ko])
+(;W[ea];B[ba]C[ko])
+(;W[fa]C[];B[ba]C[ko]))

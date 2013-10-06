@@ -1,0 +1,35 @@
+(;GE[life and death]DI[18k]DP[67]SO[trevor]CO[0]AB[sa]AB[sb]AB[rb]AB[rc]AB[qd]AB[pd]AB[od]AB[oc]AB[ob]AB[oa]AW[ra]AW[qb]AW[pb]AW[rd]AW[re]AW[qe]AW[pe]AW[oe]AW[nd]AW[nc]AW[nb]AW[na]C[Black to live. There are no outside ko threats.]AP[goproblems]
+(;B[pa]C[];W[qa]
+(;B[qc];W[sc]
+(;B[pc];W[qb];B[qa]C[RIGHT])
+(;B[sd];W[se]LB[mf:T]C[Play at 'T' to tenuki.]
+(;B[pc];W[qb];B[qa]C[RIGHT])
+(;B[mf];W[sc]C[No external ko threats.];B[pc];W[qb]
+(;B[qa]C[RIGHT])
+(;B[pb];W[qa]C[Black is dead. No external ko threats.])
+(;B[ra];W[pb]C[Black is dead. No external ko threats.])
+(;B[sd];W[qa]C[Black is dead. No external ko threats.]))
+(;B[sc];W[pc])))
+(;B[pc];W[qc])
+(;B[sd];W[se]
+(;B[qc];W[sc];B[pc];W[qb];B[qa]C[RIGHT])
+(;B[pc];W[qc])
+(;B[sc];W[qc])))
+(;B[qa];W[pa]C[]
+(;B[ra];W[pc]C[White creates a killing shape.]MA[pa]MA[qb]MA[pc]TR[pb];B[qc];W[pb]C[])
+(;B[pc]C[];W[qc])
+(;B[qc];W[ra]C[No ko threats. 'T' for tenuki..]LB[mf:T]
+(;B[pc];W[sc])
+(;B[mf];W[qa]LB[nf:T]TR[qa]MA[pa]MA[pb]MA[qb]MA[ra]C[White creates a killing shape. 'T' to tenuki.]
+(;B[nf];W[sc];B[pc];W[qa])
+(;B[pc];W[qa]))))
+(;B[qc];W[pa]
+(;B[qa]C[]
+(;W[sd]C[White has no ko threats.]
+(;B[pc]C[RIGHT])
+(;B[ra];W[sc]TR[pb]MA[pa]MA[qb]C[Black is dead. White is a killing shape.]))
+(;W[sc]C[White has no ko threats.]
+(;B[ra];W[pc])
+(;B[sd];W[ra])
+(;B[pc]C[RIGHT])))
+(;B[pc];W[sc])))

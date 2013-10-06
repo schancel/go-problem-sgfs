@@ -1,0 +1,64 @@
+(;GE[life and death]DI[1d]DP[16]SO[Cow]CO[0]AB[pd]AB[pp]AB[dp]AW[ce]AB[pj]AW[nc]AB[kd]AW[qf]AB[nd]AW[qc]AB[qd]AW[pc]AB[oc]AW[ob]AB[od]AW[nb]AB[rc]AW[ld]AB[le]AW[lc]AB[ke]AW[ph]AB[rd]AB[sb]AW[nh]AB[kc]AW[lb]AB[qb]AW[pb]AB[ra]AW[md]AB[me]AW[kb]AB[jb]AW[ib]AB[jc]AW[pl]AB[nj]AB[qk]AW[pk]AB[qi]AW[oj]AB[pi]AW[oi]AB[rj]AW[ql]AB[rl]AW[nl]AB[nk]AW[ok]AB[om]AW[rm]AB[qm]AW[sl]AB[rk]AW[rn]AB[qo]AW[qn]AB[pm]AW[pn]AB[on]AW[ro]AB[po]AW[qq]AB[pq]AW[qr]AB[pr]AW[rh]AB[qh]AW[qg]AB[ri]AW[rg]AB[rp]AW[qp]AB[pg]AW[oh]AB[sp]AW[rq]AB[sk]AW[of]AW[sq]AB[si]AW[rs]AB[ip]AW[cn]AW[cq]AB[dq]AW[cp]AB[co]AW[do]AB[bo]AW[bn]AB[eo]AW[dn]AB[cr]AW[en]AB[fo]AW[bp]AB[dc]AW[ed]AB[ec]AW[fd]AB[bd]AW[be]AB[cd]AW[dd]AB[fc]AW[cc]AB[bc]AW[cb]AB[bb]AW[gc]AB[db]AW[df]AB[gd]AW[ge]AB[hd]AW[he]AB[id]AB[fn]AW[ek]AB[mm]AW[np]AB[mq]AW[jp]AB[iq]AW[mp]AB[lq]AW[ln]AB[mn]AW[lp]AB[kq]AW[jm]AB[ml]AW[lh]AB[qe]AW[pf]AB[mg]AW[mh]AB[ng]AW[og]AB[kk]AW[mj]AB[mk]AW[lj]AB[kp]AW[ko]AB[km]AW[jo]AB[ki]AW[kj]AB[jj]AW[ji]AB[jk]AW[jh]AB[kg]AW[kh]AW[hm]AB[jq]AB[in]AW[io]AB[hn]AW[oo]AB[no]AW[nq]AB[nr]AB[oq]AB[os]AW[op]AB[qs]AW[jn]AB[lo]AW[il]AB[gm]AW[hl]AB[ej]AW[fk]AB[fj]AW[gk]AB[gj]AW[hj]AW[ii]AB[em]AW[dl]AB[di]AW[ck]AW[ig]AW[hg]AW[ff]AW[if]AB[ie]AW[fe]AB[ij]AW[hk]AW[eg]AB[eh]AW[fh]AW[fi]AB[dg]AW[ef]AB[cg]AW[ih]AB[cj]AW[gi]AB[bf]AW[ae]AB[dk]C[White to kill the black group on the left side (D11-group).
+The situation occured , when I (Hase) played on KGS against Gerd Mex (gerd).
+If there is anything wrong, please comment! All in all it's kind of tricky, so it's very likely, that I missed something.
+The marked stones are the only difference to the game.
+Please don't play ko if you are not forced to do so!]AW[br]AB[dr]TR[br]TR[dr]AP[goproblems]
+(;W[bh];B[bk]C[Please, don't play the ko.
+(Or comment to me if you think it changes all too much!)]
+(;W[cl]
+(;B[bi]
+(;W[ch]
+(;B[dh]
+(;W[bg]
+(;B[af];W[cf]C[Black is dead. Nice!RIGHT])
+(;B[cf];W[af]C[Black cannot make two eyes. He is dead. Well done!RIGHT])
+(;B[ci]
+(;W[cf];B[ah];W[af]C[Black dies, good job!RIGHT])
+(;W[ag];B[cf];W[af]C[You killed black, nice!RIGHT])
+(;W[af]C[There is no way for black to live. Sweet!RIGHT])))
+(;W[af];B[bg];W[ag]
+(;B[aj];W[ah]C[Black dies, good work!RIGHT])
+(;B[ah];W[ai];B[aj];W[ah]C[That's it, well done!RIGHT])))
+(;B[bg]
+(;W[dh];B[ei];W[ag];B[ci];W[ah];B[ai];W[af]C[Black is dead. Nice!RIGHT])
+(;W[ag];B[ah]
+(;W[ai];B[aj]
+(;W[ah];B[af]C[And now? Try again, I bet you can do better! :-)])
+(;W[af];B[ah]C[Ko for life, you can do better!])
+(;W[dh]
+(;B[ei];W[ah]C[Good job, you killed black!RIGHT])
+(;B[ah];W[ei];B[ci];W[eh];B[bl];W[al];B[bm];W[am]C[Black is dead. Well done!RIGHT])))
+(;W[af];B[ai]C[You can't kill black from here. He lives- you fail. :-( Try again!]))))
+(;W[bg];B[ch]C[You can't kill black now.])
+(;W[af];B[ch]C[Black lives.])
+(;W[ei];B[ch]C[With the capture of the marked white stone black will live.]TR[bh])))
+(;W[dj]C[I said please!])
+(;W[ch];B[cl]
+(;W[cm];B[bm];W[am];B[dm]C[Black is connected out.])
+(;W[dm];B[bi]C[Black has at least one eye at A and one at B, so he is alive!]LB[bj:A]LB[ck:B])
+(;W[el];B[bm]C[Black will live at the edge, also he has the possibility to connect with A.]LB[dm:A])))
+(;W[bi];B[bk]C[Please don't play the ko!];W[cl];B[bh]C[I am not sure what happens if black plays B10 instead, but this seems to be simpler.]
+(;W[ci];B[bj]
+(;W[ei];B[ai]C[Black lives.])
+(;W[ai];B[ag];W[cf];B[ch];W[af];B[ei]C[You can't get more than a ko now! Go on and you will see why.];W[dj];B[ma]C[Answer on the triangle, please.]TR[mb];W[mb];B[dk];W[bg];B[aj]C[Black is alive!]))
+(;W[bj];B[ci];W[bl];B[ai];W[ak];B[af]C[Black is alive!])
+(;W[ei];B[ci]C[Black is alive.]))
+(;W[bk];B[bh]
+(;W[bj];B[bi]C[Best white can get from here is a ko.];W[ei];B[dh];W[af];B[ag];W[cf];B[ai];W[bg]C[This is only ko. You can do better! :-)])
+(;W[bi];B[bj];W[aj];B[ci]C[Black lives unconditionally.])
+(;W[ei];B[dh]C[I don't hink you can get more than a ko now.]
+(;W[af];B[ag];W[cf];B[bj];W[ci]
+(;B[aj];W[bg];B[ah];W[dj];B[ch])
+(;B[bi]C[Black gets a ko!]))
+(;W[bj];B[bi];W[af];B[ag];W[cf]C[Only ko (black A11 now).])))
+(;W[ei];B[bk];W[dj];B[bi]
+(;W[dh];B[ch]C[You won't get anything better than a ko this way.])
+(;W[ch];B[dh];W[bh];B[bg]C[White cannot kill black like this.]))
+(;W[ch];B[bh]
+(;W[ei];B[bk]
+(;W[cl];B[dh]C[Black is alive!])
+(;W[dj];B[ci]C[White can only destroy the eye at D12 in gote, so black will live easily on the edge. He will be alive!])
+(;W[dh];B[cl]C[Black lives. If white plays A black will play B, if white plays B, white can connect at C and will still have the option of either connecting out with A or living on the side!]LB[dm:A]LB[ci:B]LB[dj:C]))
+(;W[bj];B[dh];W[bi];B[ci]C[A and B are miai, black is alive!]LB[bk:A]LB[ag:B])
+(;W[dj]C[This is only a ko. You wouldn't want that, would you? ;-)]))
+(;W[dj]C[I said please! ;-(]))

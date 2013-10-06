@@ -1,0 +1,55 @@
+(
+;GE[tesuji]DI[1k]DP[18]SO[gecko]CO[7]
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.33]
+AB[ac][bc][cd][dd][ed][eb][fb]
+AW[fc][gc][ic][bb][bd][be][ce][dg]
+C[A black tenuki in this position is enough to spoil ones mood. But somehow its difficult to find an effective move.]
+GN[temp]
+(
+;
+W[ec]
+(
+;
+B[db]
+;
+W[cc]
+C[RIGHT the stupid looking push does the trick]
+TR[ec]
+)
+(
+;
+B[dc]
+;
+W[cb]
+C[RIGHT]
+)
+(
+;
+B[cb]
+;
+W[dc]
+C[RIGHT]
+)
+)
+(
+;
+W[db]
+;
+B[cb]
+TR[db]
+C[smells like tesuji, but isn't.]
+)
+(
+;
+W[cb]
+;
+B[cc]
+;
+W[ec]
+;
+B[db]
+)
+)

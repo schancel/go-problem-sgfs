@@ -1,0 +1,99 @@
+(;GE[life and death]DI[1k]DP[19]SO[lok]CO[0]SZ[19]AW[qm]AW[nn]AW[on]AW[pn]AW[mo]AW[qo]AW[ro]AW[mp]AW[rp]AW[sp]AW[mq]AW[nr]AW[qs]AB[oo]AB[qp]AB[qq]AB[rq]AB[sq]AB[rr]AB[rs]LB[rl:T]C[Black to try to live. Play at T, if black is dead as it stand.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]
+(;B[oq]
+(;W[pr]C[CHOICE]
+(;B[or];W[os]
+(;B[pq];W[ns]
+(;B[po];W[op]
+(;B[np];W[nq])
+(;B[nq];W[mr]
+(;B[np]C[CorrectRIGHT])
+(;B[qr]C[NOTTHIS]))
+(;B[qr]C[NOTTHIS]))
+(;B[nq];W[mr]
+(;B[po]C[CorrectRIGHT])
+(;B[qr]C[NOTTHIS]))
+(;B[qr]C[NOTTHIS]))
+(;B[po];W[pq]
+(;B[pp];W[nq]
+(;B[op];W[ns])
+(;B[qr];W[op]))
+(;B[qr];W[op]))
+(;B[nq];W[mr]
+(;B[pq];W[ns])
+(;B[qr]C[NOTTHIS]))
+(;B[qr]C[NOTTHIS]))
+(;B[po];W[or];B[pq];W[op];B[np];W[nq]
+(;B[pp];W[no])
+(;B[no];W[pp]))
+(;B[pq];W[or];B[po])
+(;B[nq];W[or])
+(;B[qr];W[or]))
+(;W[ps]C[CHOICE]
+(;B[or];W[os]
+(;B[po];W[op]
+(;B[np];W[nq]
+(;B[pp];W[pr])
+(;B[pr];W[pp];B[pq];W[op]))
+(;B[nq];W[np]
+(;B[mr];W[pq]C[Oups, almost there...])
+(;B[pr];W[mr]
+(;B[pp]C[CorrectRIGHT])
+(;B[qr];W[ns];B[pp]C[Correct.RIGHT])))
+(;B[pr];W[pp])
+(;B[pp];W[pr]
+(;B[np];W[nq])
+(;B[nq];W[np])))
+(;B[np];W[pr]
+(;B[pp];W[nq]TR[op]C[False eye])
+(;B[pq];W[po]TR[op]C[False eye]))
+(;B[pr];W[pp])
+(;B[pp];W[pr];B[np])
+(;B[nq];W[mr]
+(;B[po];W[pr];B[pq]C[CorrectRIGHT])
+(;B[pr];W[pp])
+(;B[np];W[pr];B[pp];W[pq])
+(;B[pp];W[pr];B[np])))
+(;B[po];W[op]
+(;B[np];W[nq]
+(;B[pp];W[pr]TR[op]C[false eye])
+(;B[pr];W[pp];B[pq];W[op]TR[op]TR[ps]C[Both triangle are false eye.]))
+(;B[or];W[os])
+(;B[pp];W[pr];B[np];W[nq]TR[op]C[False eye])
+(;B[pr];W[pp];B[os];W[or]TR[ps]C[False eye]))
+(;B[pr];W[pp];B[os];W[or])
+(;B[nq];W[or])
+(;B[op];W[pr]))
+(;W[np];B[pr];W[ps];B[pp])
+(;W[po];B[pr];W[ps];B[pp])
+(;W[op];B[pr];W[ps];B[pp])
+(;W[or];B[pr];W[ps];B[pp])
+(;W[pp];B[pq]
+(;W[or];B[po])
+(;W[po];B[ps];W[pr];B[or];W[os];B[qr])))
+(;B[pr];W[ps]
+(;B[or];W[os]
+(;B[nq];W[oq])
+(;B[oq])
+(;B[op];W[oq])
+(;B[po];W[oq])
+(;B[np];W[oq]))
+(;B[oq])
+(;B[os];W[or]
+(;B[oq];W[pp];B[qr];W[ps])
+(;B[qr];W[ps];B[oq];W[pp])))
+(;B[ps];W[pr]
+(;B[oq];W[or])
+(;B[qr];W[or])
+(;B[or];W[oq]))
+(;B[or]C[];W[os]
+(;B[oq];W[ps])
+(;B[pr];W[ps])
+(;B[ps];W[pr];B[oq];W[np]))
+(;B[os];W[or]
+(;B[pr];W[ps])
+(;B[oq];W[pr]))
+(;B[pq];W[or])
+(;B[op];W[oq];B[pr];W[ps];B[os];W[or])
+(;B[pp];W[oq];B[pr];W[ps];B[os];W[or])
+(;B[po];W[oq];B[pr];W[ps];B[os];W[or])
+(;B[rl]C[Black can live.]))

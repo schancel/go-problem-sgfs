@@ -1,0 +1,21 @@
+(;GE[life and death]DI[7k]DP[43]SO[thavdog]CO[0]AB[rb]AB[pb]AB[qb]AW[ob]AB[mb]AB[nc]AB[oc]AW[pc]AW[qc]AW[rc]AW[od]AB[pd]AW[oe]AW[of]AB[pe]AB[qe]AB[re]AB[pf]AW[qf]AW[rf]AW[pg]AW[qg]C[Black to capture three white stones.]AP[goproblems]
+(;B[sd];W[sc]
+(;B[sb];W[sf]
+(;B[qd];W[se];B[rd]C[RIGHT])
+(;B[rd]C[RIGHT];W[se];B[qd]C[RIGHT]))
+(;B[rd];W[sb])
+(;B[qd];W[sb];B[ra];W[pa];B[nb];W[sf]))
+(;B[sc];W[sd];B[se];W[sb])
+(;B[rd];W[sb]
+(;B[sd];W[sc];B[ra];W[pa]
+(;B[sa];W[qa])
+(;B[oa];W[na])
+(;B[nb];W[sf]))
+(;B[sc];W[sd];B[se];W[sc]))
+(;B[se];W[sc])
+(;B[sb];W[sd]
+(;B[se];W[sf];B[sc]C[RIGHT])
+(;B[rd];W[se])
+(;B[sc];W[se])
+(;B[qd];W[se])
+(;B[sf];W[se];B[sc];W[sg])))

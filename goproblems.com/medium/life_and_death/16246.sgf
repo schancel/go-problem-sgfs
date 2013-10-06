@@ -1,0 +1,16 @@
+(;GE[life and death]DI[2k]DP[23]SO[0n1]CO[0]SZ[19]AB[qq]AB[pq]AB[op]AB[oo]AB[pn]AB[qr]AW[pr]AW[nr]AW[nq]AW[oq]AW[os]AW[pp]AW[po]AW[rp]AW[ol]AW[om]AW[qm]AW[rm]C[Black to live locally]AW[mo]AW[mm]GM[1]AP[m]
+(;B[ro]
+(;W[so]C[CHOICE]
+(;B[qo]
+(;W[sp]C[];B[sn]
+(;W[rq]
+(;B[rr];W[rn];B[qp];W[sm];B[sr]C[RIGHT])
+(;B[rn];W[rr];B[qp];W[qs])))
+(;W[sn]
+(;B[rq];W[sp];B[qp]C[RIGHT])
+(;B[sq];W[sp];B[qp];W[rq];B[rr];W[sr])))
+(;B[qp];W[rn];B[qo]
+(;W[sr];B[rq];W[sq]C[RIGHT])))
+(;W[rr];B[qs];W[rq];B[qp]C[RIGHT]))
+(;B[qo];W[ro];B[qp];W[sr])
+(;B[qp]C[Not optimal];W[ro];B[qo];W[rq];B[rn];W[sn];B[qn];W[rr]))

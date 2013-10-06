@@ -1,0 +1,23 @@
+(;GE[elementary]DI[15k]DP[61]SO[maba]CO[7]AB[sq]AB[rq]AB[qq]AB[pq]AB[oq]AB[nq]AB[qp]AW[rp]AW[sp]AW[qo]AW[rn]AW[sn]AB[qm]AB[rm]AB[ql]AW[pm]AW[pn]AW[po]AW[pp]AW[op]AW[np]AB[mr]AB[lr]AW[lq]AW[mp]AW[kq]AW[kr]AW[ks]AW[ir]AW[jq]AW[jp]AW[is]AB[hs]AB[hr]AB[ip]AB[iq]AB[jo]AB[ko]AB[jn]AB[in]AB[ho]AB[km]AB[lm]AW[kn]AB[mn]AB[om]AB[on]AB[pl]AB[nl]C[Black to kill.]AP[goproblems]
+(;B[ro]
+(;W[so];B[qn]C[RIGHT])
+(;W[qn];B[so]C[RIGHT]))
+(;B[jr];W[js]
+(;B[ro];W[so];B[qn]C[RIGHT])
+(;B[lp];W[mq];B[ro];W[so];B[qn]C[RIGHT])
+(;B[mq];W[lp];B[ro];W[so];B[qn]C[RIGHT]))
+(;B[js];W[jr]
+(;B[ro];W[so];B[qn]C[RIGHT])
+(;B[mq];W[lp];B[ro];W[so];B[qn]C[RIGHT])
+(;B[lp];W[mq];B[ro];W[so];B[qn]C[RIGHT]))
+(;B[lp];W[mq]
+(;B[jr];W[js];B[ro];W[so];B[qn]C[RIGHT])
+(;B[js];W[jr];B[ro];W[so];B[qn]C[RIGHT])
+(;B[ro];W[so];B[qn]C[RIGHT]))
+(;B[mq];W[lp]
+(;B[jr];W[js];B[ro];W[so];B[qn]C[RIGHT])
+(;B[js];W[jr];B[ro];W[so];B[qn]C[RIGHT])
+(;B[ro];W[so];B[qn]C[RIGHT]))
+(;B[so];W[ro])
+(;B[qn];W[ro])
+(;B[ln];W[qn]C[The white group is alive now. Black could have killed it.]))

@@ -1,0 +1,26 @@
+(;GE[endgame]DI[1k]DP[20]SO[ferdi]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]
+AW[ba][bb][fc][gc][bd][cd][dd][ed][ee][fe][ff][fg]AB[ca][cb][fb][gb][cc][dc][ec][ce][bf][df][ef][bg][eg]C[No komi, no prisoners - White to play and draw!]PL[W]
+(;W[af]CR[af]
+(;B[be]CR[be]
+;W[ae]CR[ae]
+;B[cg]CR[cg]
+;W[bc]CR[bc]C[Jigo! RIGHT])
+(;B[ae]CR[ae]
+;W[be]LB[de:B][cg:A]CR[be]C[A and B are miai, so Black is dead!])
+(;B[cg]CR[cg]
+;W[be]CR[be]
+;B[de]CR[de]
+;W[bc]CR[bc]C[This is worst for Black - White wins by one point!]))
+(;W[be]CR[be]
+;B[af]CR[af]
+;W[de]CR[de]
+;B[cf]CR[cf]
+;W[bc]CR[bc]
+;B[ae]CR[ae]
+;W[ad]CR[ad]C[This isn't good enough for White - Black wins by one point!])
+(;W[bc]CR[bc]
+;B[be]CR[be]
+;W[ae]CR[ae]
+;B[af]CR[af]
+;W[ad]CR[ad]C[White played badly - this is a two point win for Black!]))

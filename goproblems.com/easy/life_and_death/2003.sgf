@@ -1,0 +1,33 @@
+(;GE[life and death]DI[6k]DP[37]SO[Karen B]CO[8]C[White to kill the Black group.]AW[ab]AW[ad]AW[ba]AW[bf]AW[bh]AW[cc]AW[ce]AW[cf]AW[db]AW[dc]AB[ac]AB[bc]AB[bd]AB[be]AB[ca]AB[cb]
+(;W[bb];B[aa]
+(;W[bb]
+(;B[ae]C[CHOICE];W[da]C[ White wins!RIGHT])
+(;B[af]C[CHOICE]
+(;W[ag]
+(;B[ae]C[CHOICE];W[da]C[ White wins!RIGHT])
+(;B[ba]C[CHOICE]
+(;W[da];B[ab];W[ae];B[af];W[ae]C[ White wins!RIGHT])
+(;W[ae];B[af]
+(;W[ae]C[ White wins!RIGHT])
+(;W[da]C[ White wins!RIGHT]))))
+(;W[da]C[ White wins!RIGHT]))
+(;B[ba]C[CHOICE]
+(;W[da];B[ab];W[ae];B[af];W[ae]C[ White wins!.RIGHT])
+(;W[af];B[ae]C[Black lives.])
+(;W[ae];B[af]
+(;W[ae]C[ White wins!RIGHT])
+(;W[da];B[ab];W[ae]C[ White wins!RIGHT]))))
+(;W[ae];B[bb]C[Black lives.])
+(;W[da];B[bb]C[Black lives.]))
+(;W[da];B[bb]C[Black lives by damezumari.])
+(;W[cd];B[ae]C[Black lives.])
+(;W[af];B[ae]C[Black lives.])
+(;W[ae];B[bb]C[Black lives by damezumari.])
+(;W[aa]
+(;B[bb]
+(;W[aa];B[ae]C[Black lives.])
+(;W[ae];B[af]
+(;W[ae];B[aa]C[Black lives.])
+(;W[aa];B[ae]C[Black lives.]))
+(;W[af];B[ae]C[Black lives.]))
+(;B[ae]C[Black lives.CHOICE])))

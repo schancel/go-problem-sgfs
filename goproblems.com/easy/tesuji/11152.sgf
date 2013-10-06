@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[6k]DP[36]SO[lok]CO[0]AB[rd]AB[qd]AB[pd]AB[oc]AB[nc]AB[nb]AB[na]AW[od]AW[oe]AW[pe]AW[qe]AW[re]AW[ob]AW[pc]AW[qc]C[Black to do his best in the corner.]AP[goproblems]
+(;B[rc];W[rb]
+(;B[qb];W[pb]
+(;B[pa];W[qa];B[oa];W[qb];B[sb]C[RIGHT])
+(;B[oa];W[qa];B[pa])
+(;B[ra];W[qa];B[sb];W[sa]C[Ko. Black can do better.])
+(;B[qa];W[sd])
+(;B[sb];W[qa]
+(;B[ra])
+(;B[oa];W[sd])
+(;B[sc];W[ra];B[oa];W[pa])))
+(;B[pb];W[qb]TR[rc]TR[rd]TR[qd]TR[pd]C[The marked stones are captured.]))
+(;B[pb];W[qb]MA[pd]MA[qd]MA[rd]C[The marked stones are captured.])
+(;B[rb];W[rc]C[The marked stones are captured.]MA[pd]MA[qd]MA[rd])
+(;B[qb];W[rc]C[The marked stones are captured.]MA[pd]MA[rd]MA[qd]))

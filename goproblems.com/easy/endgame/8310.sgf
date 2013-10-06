@@ -1,0 +1,22 @@
+(;GE[endgame]DI[8k]DP[48]SO[bass]CO[6]AW[da]AB[fa]AB[ia]AB[ja]AW[ka]AW[ma]AW[cb]AW[eb]AB[fb]AB[gb]AB[ib]AW[jb]AW[kb]AW[lb]AW[nb]AW[qb]AW[rc]AB[qc]AW[pc]AW[oc]AW[nc]AW[lc]AW[kc]AB[jc]AB[fc]AW[ec]AW[dc]AW[bc]AW[ed]AW[ee]AB[cc]AB[cd]AB[dd]AB[ce]AW[de]AW[fd]AW[fe]AW[ge]AB[gd]AB[he]AB[ie]AB[je]AB[jd]AB[ke]AB[le]AB[ld]AB[me]AW[kd]AB[hf]AB[gf]AB[ff]AB[hg]AB[ig]AB[jf]AW[ef]AW[cf]AW[bf]AW[bg]AW[bh]AW[bi]AW[bj]AW[bk]AW[ak]AW[cj]AW[dj]AW[ej]AW[fi]AW[fh]AW[fg]AW[gg]AW[eh]AW[dh]AW[hi]AW[gi]AW[gj]AB[fj]AB[fk]AB[ek]AB[dk]AB[ck]AB[al]AB[bl]AB[cl]AB[dl]AB[am]AB[cm]AW[cn]AW[dm]AW[el]AW[fl]AW[fm]AW[fn]AB[en]AB[fo]AB[gm]AB[gn]AB[gl]AW[gk]AB[hk]AB[hj]AB[ik]AB[il]AB[hl]AB[hm]AB[hn]AB[dp]AB[dq]AB[io]AB[jo]AB[jp]AB[kn]AB[ko]AB[kp]AB[kq]AB[lp]AB[mq]AB[lr]AB[ls]AB[ms]AW[mr]AW[nr]AW[ns]AW[mp]AW[np]AW[oq]AW[pq]AW[qr]AW[rr]AW[ps]AB[or]AB[rs]AB[sr]AB[rq]AB[qq]AB[pp]AB[qo]AB[qn]AB[pn]AB[on]AB[nn]AB[no]AB[mo]AB[qm]AB[pm]AB[rm]AB[sm]AB[sl]AB[sk]AB[qk]AB[ql]AW[rl]AW[rk]AW[sj]AW[rj]AW[qj]AW[pj]AW[pk]AW[pl]AW[om]AW[nm]AW[mm]AW[mn]AW[ln]AW[lo]AW[jn]AW[in]AW[im]AW[jm]AW[km]AW[kl]AW[jl]AW[jk]AW[jj]AW[ij]AW[ji]AW[kj]AB[ii]AB[ih]AB[hh]AB[jh]AB[kh]AB[ki]AB[lh]AW[li]AW[mh]AW[nh]AB[ni]AB[mj]AB[nk]AB[ok]AB[oj]AW[oi]AW[pi]AW[ph]AB[oh]AB[og]AB[pg]AB[pf]AB[pe]AB[pd]AB[oe]AW[md]AW[nd]AW[od]AW[ne]AW[nf]AW[mf]AW[lf]AW[kf]AW[kg]AW[lg]AW[qf]LB[mi:A]LB[ea:B]C[Please read the introduction first. Does white need to protect at A? If not, please play B (E19)FORCE]AP[goproblems]
+(;W[mi]C[Very well, but white lost by a half point. See comments for more information.RIGHT])
+(;W[ea]C[];B[lj]C[How to defend then?];W[mi];B[ll]
+(;W[lk];B[ml]
+(;W[nj];B[jg]C[As you correctly noticed, black has no ko threats. Does white have to protect at A? If not, please play B (G12)FORCE]LB[gh:B]LB[mk:A]
+(;W[mk]C[So white loses by half a point. See comments for more information.RIGHT])
+(;W[gh];B[ni]
+(;W[lm];B[ol];W[nj]C[Now any black move loses a point, so black must pass, complicating the situation beyond imagination. See comments for more information.RIGHT])
+(;W[ol];B[lm])
+(;W[nl];B[ol])))
+(;W[ol];B[lm])
+(;W[nl];B[ol])
+(;W[lm];B[ol];W[nj];B[jg]C[As you correctly noticed, black has no ko threats. Does white have to defend at A? If not, please play B (G12)FORCE]LB[mk:A]LB[gh:B]
+(;W[mk]C[So white had to defend, and black wins by half a point. See comments for more information.RIGHT])
+(;W[gh]C[So white wins by half a point if your rules do not allow black to recapture the ko. See comments for more information.RIGHT])))
+(;W[lm];B[ol]
+(;W[lk];B[ml];W[nj];B[jg]C[As you correctly noticed, black has no ko threats. Does white have to protect at A? If not, please play B (G12)FORCE]LB[gh:B]LB[mk:A]
+(;W[mk]C[So white defended, and lost by half a point. See comments for more information.RIGHT])
+(;W[gh]C[Very well then, white wins by half a point if your rules do not allow black to recapture the ko. See comments for more information.RIGHT]))
+(;W[ml];B[lk])
+(;W[nj];B[lk]))
+(;W[ml];B[lk];W[lm];B[ol])))

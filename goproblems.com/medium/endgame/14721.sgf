@@ -1,0 +1,53 @@
+(;GE[endgame]DI[3d]DP[9]SO[smartaleck]CO[0]SZ[6]AB[dc]AW[cd]AB[dd]AW[cc]AW[be]AB[cb]AW[bb]AW[bd]AB[ba]AW[ac]AB[db]AW[de]AB[ee]AW[cf]AB[ef]AW[aa]AP[goproblems]
+(;B[ca];W[df];B[ab];W[ed]
+(;B[ec];W[aa];B[bf];W[af];B[ab];W[fd]
+(;B[fc];W[aa]
+(;B[ad];W[bc];B[ab];W[fe];B[ff];W[aa]C[FORCE];B[ed];W[ab]C[black wins only 2 points.])
+(;B[ae];W[ab]))
+(;B[bc];W[fe];B[fc];W[ff];B[ad];W[ae];B[ac]C[black wins only 2 points.]))
+(;B[bc];W[ec];B[eb];W[fe];B[fc];W[ff];B[ad];W[ae];B[ac];W[fd];B[fb])
+(;B[fd]C[NOTTHIS]))
+(;B[df];W[ca]
+(;B[ce];W[da]
+(;B[ea];W[ba]
+(;B[bf];W[eb];B[ec];W[fa];B[fc];W[ae];B[fb];W[ea];B[cf];W[af])
+(;B[eb];W[de]))
+(;B[bf];W[eb];B[ec];W[ae];B[fb];W[ea];B[fc];W[af];B[cf];W[ba];B[fa]C[black wins only 2 points.]))
+(;B[da];W[ce];B[ba];W[ed]
+(;B[ec];W[ca])
+(;B[fd]C[NOTTHIS])))
+(;B[ab]
+(;W[df]C[CHOICE]
+(;B[bc];W[ed]
+(;B[ad];W[ec];B[eb];W[fe];B[fc];W[ff];B[ae];W[bf];B[fb];W[fd]C[black wins only 2 points.])
+(;B[ec];W[bb]
+(;B[bf];W[af];B[bc];W[fd]
+(;B[ad];W[fe];B[fc];W[ff]C[black wins only 2 points.])
+(;B[fc];W[bb]
+(;B[ae];W[ad];B[bc];W[fe];B[ff];W[bb];B[ca];W[aa];B[ed];W[ab]C[black wins only 2 points.])
+(;B[ca])))
+(;B[ca];W[aa];B[bf];W[af];B[ab];W[fd])
+(;B[fd];W[aa];B[bf];W[af];B[ab];W[bc];B[ca];W[aa];B[ae];W[ad];B[ab];W[bf];B[aa]C[black wins 6 points.RIGHT]))
+(;B[fd]C[NOTTHIS]))
+(;B[ed];W[aa]
+(;B[bf];W[af];B[ab];W[bc];B[ca];W[aa];B[ae];W[ad];B[ab];W[bf];B[aa]C[black wins 6 points.RIGHT])
+(;B[ca];W[ab]C[black wins only 2 points.])))
+(;W[ed]C[]
+(;B[df];W[ce]
+(;B[ec];W[aa];B[ca];W[ab]C[black wins 4 points.RIGHT])
+(;B[fd]C[NOTTHIS]))
+(;B[bc];W[ec]
+(;B[ad];W[df])
+(;B[eb]
+(;W[df]
+(;B[fc];W[bb]
+(;B[bf];W[af];B[bc];W[fe];B[fd];W[bb];B[ae];W[ad];B[bc];W[ed];B[ec];W[bb];B[ca];W[aa])
+(;B[ca];W[aa];B[bf];W[af];B[ab];W[fe];B[fd];W[aa];B[ad];W[bc];B[ab];W[ed];B[ec];W[aa])
+(;B[fd];W[aa];B[bf];W[af];B[ab];W[bc];B[ca];W[aa];B[ae];W[ad];B[ab]C[b wins 6 points.RIGHT]))
+(;B[fd]C[NOTTHIS])
+(;B[fe];W[bb];B[bf];W[af];B[bc];W[fd];B[fc];W[bb]
+(;B[ae];W[ad];B[bc]C[RIGHT])
+(;B[ca];W[aa];B[ad];W[bc];B[ab]C[RIGHT])))
+(;W[bb]
+(;B[ca];W[df];B[fc];W[aa];B[bf];W[af];B[ab];W[fe];B[fd];W[aa];B[ad];W[bc];B[ab];W[ed];B[ec];W[aa])
+(;B[df];W[ce];B[fc];W[aa];B[ca];W[ab]C[b wins 4 points.RIGHT])))))))

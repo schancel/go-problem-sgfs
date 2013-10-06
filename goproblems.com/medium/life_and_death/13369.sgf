@@ -1,0 +1,252 @@
+(;GE[life and death]DI[3k]DP[27]SO[BartTM]CO[0]AW[ra]AW[qb]AW[pb]AW[pc]AW[od]AW[oe]AW[pe]AW[qe]AB[pd]AB[qd]AB[qc]AB[rb]AB[oc]AB[nc]AB[nd]TR[ra]C[If White plays S19 in problem 13354 things get complicated. Find the best possible continuation.]AP[goproblems]
+(;B[sb]
+(;W[rd]
+(;B[rc];W[se]
+(;B[qa];W[pa]
+(;B[ob];W[sc]
+(;B[sd]C[Ko, Black takes first.RIGHT])
+(;B[oa];W[sa])
+(;B[re];W[sa]))
+(;B[oa];W[ob]
+(;B[sd];W[sc]C[Ko, White takes first])
+(;B[nb];W[na]
+(;B[sd];W[sc]C[Ko, White takes first])
+(;B[ma];W[sc]
+(;B[oa];W[sa])
+(;B[sd]C[Ko, Black takes first.RIGHT]))
+(;B[sa];W[sc])
+(;B[sc];W[sd])
+(;B[re];W[rf];B[ma];W[sc];B[sd]C[Yeah, right.RIGHT]))
+(;B[re];W[rf];B[nb];W[na])
+(;B[na];W[nb]))
+(;B[sc];W[sd])
+(;B[sd];W[sc]C[Ko, White takes first.])
+(;B[re];W[rf]
+(;B[ob];W[sc];B[sd]C[RIGHT])
+(;B[oa];W[sc];B[sd]C[RIGHT])
+(;B[sd];W[sc]C[Ko, White takes first.]))
+(;B[sa];W[sc]))
+(;B[pa];W[ob]
+(;B[nb];W[oa])
+(;B[qa];W[oa]
+(;B[qa];W[sd])
+(;B[sd];W[re]
+(;B[qa];W[sc]C[Ko, White takes first.])
+(;B[nb];W[qa])
+(;B[na];W[qa]))
+(;B[nb];W[qa])
+(;B[na];W[qa]))
+(;B[oa];W[nb])
+(;B[sd];W[re]
+(;B[nb];W[oa])
+(;B[qa];W[oa])
+(;B[oa];W[nb])))
+(;B[sd];W[sc]C[Ko, White takes first.])
+(;B[re];W[rf]
+(;B[ob];W[sc]
+(;B[sd]C[Ko, Black takes first.RIGHT])
+(;B[pa];W[sa])
+(;B[qa];W[sa]))
+(;B[sd];W[sc]C[Ko, White takes first.])
+(;B[qa];W[pa])
+(;B[pa];W[ob]
+(;B[qa];W[oa]
+(;B[qa];W[sd])
+(;B[sd];W[sc]C[Ko, White takes first])
+(;B[nb];W[qa])
+(;B[na];W[qa])
+(;B[sa];W[sc]))
+(;B[sa];W[sc])
+(;B[sd];W[sc]C[Ko, White takes first])
+(;B[nb];W[oa])
+(;B[oa];W[nb])))
+(;B[ob];W[sc];B[sd]C[Ko, Black takes first.RIGHT]))
+(;B[ob];W[rc])
+(;B[re];W[rc]))
+(;W[qa];B[rc]
+(;W[rd];B[re]C[RIGHT])
+(;W[re];B[ob];W[rd];B[oa]C[RIGHT])
+(;W[ob];B[nb]
+(;W[oa];B[na]C[RIGHT])
+(;W[re];B[oa];W[rd];B[na]C[RIGHT])))
+(;W[rc];B[rd];W[re];B[sc];W[se];B[sd]C[RIGHT])
+(;W[sc];B[sd];W[rd];B[rc];W[re];B[ob]C[RIGHT])
+(;W[sd];B[rc];W[rd];B[re];W[rf];B[ob]C[RIGHT])
+(;W[re];B[rc];W[rd];B[ob]C[RIGHT])
+(;W[se]C[You descended to the first line and so did White. Strange, innocent? Guess you will find out pretty soon :)CHOICE]
+(;B[rc];W[rd])
+(;B[ob];W[rc]
+(;B[pa];W[rd])
+(;B[qa];W[rd])
+(;B[rd];W[re]
+(;B[sc];W[sd])
+(;B[pa];W[sd])
+(;B[sd];W[sc]))
+(;B[re];W[rd])
+(;B[sc];W[rd])
+(;B[sd];W[rd]))
+(;B[rd];W[sd]
+(;B[ob];W[re])
+(;B[re];W[rf]
+(;B[rc];W[sf])
+(;B[ob];W[rc])
+(;B[sc];W[rc])
+(;B[sf];W[rc]))
+(;B[rc];W[re])
+(;B[sc];W[re]))
+(;B[sd];W[rd]
+(;B[rc])
+(;B[ob];W[rc])
+(;B[sc];W[rc]))
+(;B[re];W[rf]
+(;B[sd];W[rc]
+(;B[rd];W[sc])
+(;B[sf];W[rd])
+(;B[sc];W[rd])
+(;B[ob];W[rd]))
+(;B[rc];W[rd])
+(;B[rd];W[sd])
+(;B[sc];W[rd])
+(;B[ob];W[rc])
+(;B[sf];W[rc])
+(;B[qa];W[rc]))
+(;B[sc];W[rd])
+(;B[qa];W[rc];B[rd];W[sd];B[sc];W[re])))
+(;B[rc];W[sb]
+(;B[sc];W[sd]
+(;B[sa];W[qa]
+(;B[se];W[sb]C[Ko, White takes first])
+(;B[ob];W[sb]C[Ko, White takes first])
+(;B[rd];W[re]
+(;B[se];W[sb]C[Ko, White takes first])
+(;B[ob];W[sb]))
+(;B[re];W[rf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[rd];W[sf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[se];W[sb]C[Ko, White takes first.])
+(;B[sb];W[se]))
+(;B[sb];W[rd])
+(;B[se];W[sf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[rd]))))
+(;B[rd];W[re])
+(;B[re];W[rd])
+(;B[ob];W[rd])
+(;B[se];W[rd])
+(;B[qa];W[rd]))
+(;B[re];W[sc];B[rd];W[rf])
+(;B[ob];W[rd])
+(;B[sd];W[re]
+(;B[sc];W[rd];B[sa];W[qa];B[ob];W[sb]C[Ko, White takes first.])
+(;B[ob];W[rd])
+(;B[rd];W[se]))
+(;B[rd];W[re])
+(;B[se];W[rd])
+(;B[qa];W[pa]
+(;B[sc];W[sd];B[sa];W[qa]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[rd];W[re]
+(;B[se];W[sb]C[Ko, White takes first.])
+(;B[ob];W[sb])
+(;B[oa];W[sb]))
+(;B[oa];W[sb]C[Ko, White takes first.])
+(;B[re];W[rf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[oa];W[sb]C[Ko, White takes first.])
+(;B[rd];W[sf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[se];W[sb]C[Ko, White takes first.])
+(;B[oa];W[sb]C[Ko, White takes first.]))
+(;B[se];W[sf]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[oa];W[sb]C[Ko, White takes first.])
+(;B[rd])))
+(;B[se];W[re]
+(;B[rd])
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[oa];W[sb]C[Ko, White takes first.])))
+(;B[ob];W[rd])
+(;B[oa];W[rd])
+(;B[sd];W[re]
+(;B[sc];W[rd];B[sa];W[qa]
+(;B[ob];W[sb]C[Ko, White takes first.])
+(;B[oa];W[sb]C[Ko, White takes first.]))
+(;B[ob];W[rd])
+(;B[oa];W[rd]))
+(;B[rd];W[re])
+(;B[re];W[sc];B[rd];W[rf])
+(;B[se];W[rd])))
+(;B[sc];W[rd])
+(;B[rd]
+(;W[sb]
+(;B[sc];W[rc]C[Ko, White takes first.])
+(;B[rc])
+(;B[sd];W[rc])
+(;B[re];W[rc]C[Whiote could also play S14 for a favourable ko.])
+(;B[se];W[rc])
+(;B[ob];W[rc]))
+(;W[re]C[In general S15 will be a better defense for White than T18, but it may depend on the situation on the rest of the board.]
+(;B[sc];W[se]
+(;B[sd];W[sb]
+(;B[sa];W[qa];B[ob];W[sb]C[Ko, White takes first.])
+(;B[ob];W[rc])
+(;B[qa];W[rc]))
+(;B[ob];W[sd])
+(;B[qa];W[sd])
+(;B[sb];W[sd]))
+(;B[sd];W[sb]
+(;B[sc];W[rc]C[Ko, White takes first.])
+(;B[se];W[rg])
+(;B[ob];W[rc])
+(;B[qa];W[rc]))
+(;B[sb];W[sd])
+(;B[se];W[sf]
+(;B[sc];W[sd]MA[sb]C[Dead in double ko. If Black retakes at T15 White will play T18.])
+(;B[sd];W[sc])
+(;B[rc];W[sd])
+(;B[sb];W[sd]
+(;B[rc];W[se])
+(;B[ob];W[rc]))
+(;B[ob];W[sd])
+(;B[qa];W[sd]
+(;B[rc];W[pa]
+(;B[sb];W[se])
+(;B[ob];W[sb]))
+(;B[sa];W[rc])
+(;B[sc];W[rc])
+(;B[ob];W[rc]))
+(;B[rf];W[sd]))
+(;B[rc];W[sb])
+(;B[sa];W[sd]
+(;B[qa];W[rc])
+(;B[sc];W[rc])
+(;B[rc];W[sb])
+(;B[ob];W[rc]))
+(;B[ob];W[sd])
+(;B[qa];W[sd]
+(;B[rc];W[pa]
+(;B[sb];W[se])
+(;B[ob];W[sb]))
+(;B[sa])
+(;B[ob];W[rc])
+(;B[sc];W[rc]))))
+(;B[re];W[sb]
+(;B[rf];W[rd])
+(;B[rd])
+(;B[rc])
+(;B[sc];W[rd])
+(;B[sd];W[rc])
+(;B[se];W[rd]))
+(;B[sd]
+(;W[rc];B[rd];W[sb]C[White lives (Thanks to Bass)])
+(;W[sb];B[rc])
+(;W[rd];B[rc];W[re];B[sb];W[se];B[ob];W[sc]))
+(;B[se];W[rd])
+(;B[ob];W[rd])
+(;B[qa];W[rc]
+(;B[rd];W[sb])
+(;B[sa];W[rd])
+(;B[ob];W[sb]))
+(;B[pa];W[rd])
+(;B[sa];W[rc]))

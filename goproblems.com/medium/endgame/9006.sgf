@@ -1,0 +1,43 @@
+(;GE[endgame]DI[2k]DP[21]SO[swordsplay]CO[7]AB[fj]AB[gh]AB[fh]AB[ig]AB[bq]AB[gk]AB[gj]AB[ek]AB[bl]AB[cl]AB[dl]AB[hl]AB[hm]AB[en]AB[hn]AB[in]AB[do]AB[go]AB[cp]AB[ep]AB[fp]AB[gp]AB[aq]AB[cq]AB[eq]AB[fq]AB[br]AB[as]AW[dg]AW[bs]AW[hi]AW[bj]AW[hr]AW[cj]AW[dj]AW[ej]AW[hj]AW[hk]AW[il]AW[cm]AW[im]AW[jn]AW[ho]AW[io]AW[ko]AW[dp]AW[dq]AW[gq]AW[hp]AW[hq]AW[cr]AW[dr]AW[er]AW[fr]AW[cs]SZ[19]GM[1]FF[4]ST[2]RU[Japanese]PL[W]AP[CGoban:2]CA[UTF-8]KM[0]MULTIGOGM[1]
+(;W[co];B[bo];W[cn];B[bn]
+(;W[eo]
+(;B[fo];W[dn]
+(;B[eo]C[If black resists...]
+(;W[gn]
+(;B[gm]
+(;W[fm]
+(;B[fn];W[em]C[Nice!CHOICERIGHT])
+(;B[gl];W[em]C[Good job!CHOICERIGHT]))
+(;W[em]C[RIGHT]))
+(;B[fm];W[em];B[fn];W[fl];B[gm];W[gl]C[I hope that the go bowl lid doesn't overflow with black stones ^^.CHOICERIGHT]))
+(;W[em];B[gn]))
+(;B[em];W[eo]C[This is quite a painful ko that white gets from nowhere. Nice job!CHOICERIGHT]))
+(;B[dn]
+(;W[gn];B[fo];W[fn];B[eo]
+(;W[em];B[dm];W[gl]C[Nice job!CHOICERIGHT])
+(;W[gl]C[Good! But maybe you could have used another forcing move.RIGHT]))
+(;W[fn];B[gn])))
+(;W[gn];B[fn]
+(;W[eo];B[fo];W[dn];B[dm];W[eo]C[Okay! The order is a little odd, but this can work. =)RIGHT])
+(;W[gm];B[gl];W[eo];B[fo];W[dn];B[eo];W[fm]))
+(;W[dn];B[eo];W[gn];B[fn]))
+(;W[gn]
+(;B[fn];W[co];B[bo];W[cn];B[bn])
+(;B[fm];W[co];B[bo];W[cn];B[bn];W[eo];B[fo];W[dn]
+(;B[eo])
+(;B[fn];W[eo]C[Good job! This is a nasty ko for black.CHOICERIGHT]))
+(;B[gl]
+(;W[fn];B[eo];W[co];B[bo];W[cn];B[bn];W[em];B[dm]C[Be careful.])
+(;W[eo];B[fo]
+(;W[co]
+(;B[bo]C[If black makes this mistake...];W[cn];B[bn]
+(;W[dn]C[There is a way to avoid ko in this case.])
+(;W[fn]C[Only in white's dreams ^^... Nice job! The best black could have hoped for is C6 after white C5 for a ko.RIGHT]))
+(;B[cn];W[bo];B[bn];W[ap];B[an];W[ar]C[Okay, this is a very big ko with hardly any stress for white.RIGHT]))
+(;W[fn];B[eo];W[co];B[cn];W[bo];B[bn];W[ap];B[as]C[This is also possible. The result is a troublesome two-step ko for black.CHOICERIGHT])))
+(;B[gm]
+(;W[fm];B[fn])
+(;W[fn];B[fm];W[co];B[bo];W[cn];B[bn]C[Missed a nice chance.])
+(;W[co];B[bo];W[cn];B[bn];W[eo];B[fo];W[dn]C[Okay, thats the way!CHOICERIGHT])
+(;W[eo];B[fo];W[co];B[bo];W[cn];B[bn];W[dn]C[Good job!CHOICERIGHT])))
+(;W[eo];B[fo];W[co];B[bo];W[cn];B[bn]))

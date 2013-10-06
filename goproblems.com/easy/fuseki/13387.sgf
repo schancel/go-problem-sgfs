@@ -1,0 +1,10 @@
+(;GE[fuseki]DI[6k]DP[37]SO[mafutrct]CO[0]AB[pd]AB[mc]AB[qp]AB[oq]AB[jp]AB[fq]AW[dp]AW[dn]AW[dj]AW[dd]AB[ql]AW[qj]AW[qg]AW[gc]C[FORCE]TR[jc]TR[qd]TR[qe]TR[ph]TR[ok]TR[ol]AP[goproblems]
+(;B[qe];W[oj]C[FORCE]TR[jc]TR[pi]TR[ol]TR[fo]
+(;B[ol]C[This is a nice move for black.RIGHT]AB[fq])
+(;B[jc];W[ol])
+(;B[fo];W[ol]))
+(;B[ph];W[qh]TR[ph]C[Your move is very good, but it is not optimal. Continue playing to see why.];B[pj];W[pi];B[oi];W[qi];B[pk];W[oh]TR[ni];B[ni];W[go]TR[hp]C[This is the basic problem - white can take sente and black lacks an effective followup to attack.];B[hp];W[in]LB[og:A]C[Please attack white with a move at A.];B[og];W[pg];B[ng];W[rd]C[White is healthy and reduces the corner. This is slightly worse for black than the solution.])
+(;B[ok];W[rd]TR[ok]C[Your move has a nice direction, but white can just slide into the corner. White is healthy and reduced black, so white has a slight advantage.])
+(;B[ol];W[rd]C[Your move has a nice direction, but white can just slide into the corner. White is healthy and reduced black, so white has a slight advantage.])
+(;B[jc];W[qc])
+(;B[qd]C[not enough pressure to be sente]))

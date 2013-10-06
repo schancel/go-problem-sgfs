@@ -1,0 +1,28 @@
+(;GE[elementary]DI[25k]DP[77]SO[iPiou]CO[7]AB[cs]AB[cq]AB[cr]AB[cp]AB[bo]AB[co]AB[do]AB[dn]AB[bn]AB[bm]AB[cm]AW[ap]AW[aq]AW[br]AW[bs]AW[ds]AW[dr]AW[dq]AW[dp]AW[ep]AW[eo]AW[en]AW[em]AW[dl]AW[el]AW[ao]AW[an]AB[am]AW[al]AW[bl]AW[cl]C[Black to win the capturing race]AP[goproblems]
+(;B[ar]
+(;W[as]LB[fr:T]C[Play T for tenuki]
+(;B[fr]C[White died in gote. White should not have played A1, or should not have played at all to save ko threats.RIGHT])
+(;B[bq]C[White is dead, but black should have Tenuki. White A1 was a mistake.RIGHT])
+(;B[bp];W[bq];B[ar]C[White is dead, but black should have Tenuki. White A1 was a mistake.RIGHT])
+(;B[dm];W[bq]C[Seki. Too bad, white was dead in gote.]))
+(;W[bq]C[CHOICE]
+(;B[dm];W[as]C[Seki. Black should be able to capture white.])
+(;B[bp];W[dm];B[as]C[White is captured. In a real game, white would not have played this sequence to the end but would have saved it for ko threats.RIGHT])))
+(;B[bp];W[dm]C[This move was the robot's choice]
+(;B[ar];W[as]C[Seki, black could have captured the white stones]MA[bq])
+(;B[bq];W[cn])
+(;B[as];W[ar]C[Seki, black could have captured the white stones]))
+(;B[as];W[ar]
+(;B[bq];W[dm]C[Seki, black could have captured the white stones])
+(;B[bp];W[dm]C[Seki, black could have captured the white stones]))
+(;B[bq]
+(;W[ar]C[CHOICE]
+(;B[bp];W[dm];B[as]C[White is captured. In a real game, white would not have played this sequence to the end but would have saved it for ko threats.RIGHT])
+(;B[dm]C[Seki, black could have captured the white stones.]))
+(;W[dm]C[CHOICE]
+(;B[ar];W[as];B[ar]C[Snapback, white is dead and black lives. In a real game, white would not have played this sequence to the end but would have saved it for ko threats.RIGHT])
+(;B[as];W[ar]C[Seki, black could have captured the white stones])))
+(;B[dm];W[bq]
+(;B[as];W[ar]C[Seki, black could have captured the white stones])
+(;B[ar];W[as]C[Seki, black could have captured the white stones])
+(;B[bp];W[cn])))

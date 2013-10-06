@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[44]SO[assacra]CO[7]AB[fn]AB[gn]AB[gm]AB[hn]AB[ho]AB[hl]AB[il]AB[im]AB[jm]AB[jn]AB[kl]AB[km]AB[ll]AW[fp]AW[fo]AW[in]AW[io]AW[ip]AW[hp]AW[jo]AW[gl]AW[fm]AW[el]AW[em]AW[en]AB[eo]AB[ep]AB[dp]AB[cq]AB[cp]AB[gp]AB[fl]AB[fk]AB[fj]AB[gj]AB[hj]AW[gk]AW[hk]AW[ik]AW[jk]AW[kk]AW[lk]AW[kn]AW[ln]AW[lm]AW[ml]AW[mk]AW[mm]AB[ek]AB[cl]TR[ho]TR[hn]TR[gn]TR[fn]TR[gm]TR[im]TR[il]TR[hl]TR[jm]TR[jn]TR[km]TR[kl]TR[ll]LB[gp:A]C[black has just played g4. white to kill all the marked stones]AB[dk]AB[hr]AP[goproblems]
+(;W[fq];B[gq]
+(;W[gr];B[fr])
+(;W[go]C[RIGHT])
+(;W[fr];B[go]
+(;W[jl];B[dn];W[hm];B[dm])
+(;W[gr];B[hq]
+(;W[ir]C[NOTTHIS])
+(;W[hs]C[NOTTHIS])
+(;W[iq];B[dn];W[ir];B[dm];W[hs];B[dl])
+(;W[jl];B[dn];W[hm];B[dm]))))
+(;W[gq];B[fq]
+(;W[go];B[gp];W[jl];B[fo];W[hm]C[you don't kill all the marked stones!])
+(;W[jl];B[go];W[hm]C[you don't kill all the marked stones]))
+(;W[jl];B[fq]
+(;W[hm];B[go]C[you don't kill all the marked stones!])
+(;W[gq];B[go];W[hm]C[you don't kill all the marked stones!])))

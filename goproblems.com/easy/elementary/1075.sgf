@@ -1,0 +1,29 @@
+(;GE[elementary]DI[5k]DP[33]SO[adum]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[rl][pm][rm][rn][oo][po][qo][op][oq][pq][qr][ps]AB[sn][ro][pp][qp][rp][qq][sq][rr]C[how can white best attack the black group?]PL[W]
+(;W[rs]CR[rs]
+;B[so]CR[so]
+(;W[sr]CR[sr]C[RIGHT
+white makes a ko])
+(;W[ss]CR[ss]
+;B[sr]CR[sr])
+(;W[sm]CR[sm]
+;B[sr]CR[sr]))
+(;W[sr]CR[sr]
+;B[rs]CR[rs]
+(;W[so]CR[so]
+;B[sp]CR[sp])
+(;W[qs]CR[qs]
+;B[ss]CR[ss])
+(;W[sm]CR[sm]
+;B[so]CR[so]))
+(;W[ss]CR[ss]
+;B[rs]CR[rs])
+(;W[sm]CR[sm]
+;B[rs]CR[rs])
+(;W[sp]CR[sp]
+;B[rs]CR[rs])
+(;W[qs]CR[qs]
+;B[rs]CR[rs])
+(;W[so]CR[so]
+;B[rs]CR[rs]))

@@ -1,0 +1,18 @@
+(;GE[elementary]DI[4k]DP[28]SO[santa c]CO[8]AB[ca]AB[cb]AB[dc]AB[dd]AB[de]AB[df]AB[bf]AB[bg]AB[cg]AB[ch]AW[cf]AW[ce]AW[be]AW[cd]AW[cc]AW[bb]AW[ba]AB[gc]AB[af]C[Okay, you may have my group...]AP[goproblems]
+(;B[bc]C[Well done! :)RIGHT])
+(;B[db];W[ae]C[:(])
+(;B[eb];W[ae]C[:(])
+(;B[da];W[ae]C[:(])
+(;B[ae];W[bc]C[:(]TR[ad]TR[db])
+(;B[ad];W[bc]TR[ae]TR[db]C[:(])
+(;B[bd];W[ad]C[:(])
+(;B[ac];W[bc]
+(;B[ae];W[ab]TR[ad]TR[db]C[:(])
+(;B[ad];W[ab]TR[ae]TR[db]C[:(])
+(;B[db];W[ae]TR[ad]TR[ab]C[:(])
+(;B[eb];W[ae]C[:(]TR[ad]TR[ab])
+(;B[da];W[ae]TR[ad]TR[ab]C[:(]))
+(;B[ab];W[ac]
+(;B[ae];W[bc]TR[ad]TR[db]C[:(])
+(;B[bc];W[bd]C[:(])
+(;B[ad];W[bc]TR[ae]TR[db]C[:(])))

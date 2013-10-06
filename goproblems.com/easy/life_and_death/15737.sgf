@@ -1,0 +1,13 @@
+(;GE[life and death]DI[30k]DP[92]SO[rainbowÅô]CO[0]AB[rb]AB[ra]AW[rc]AW[sb]AW[qb]AW[pb]AW[ob]AW[od]AW[oc]AW[pd]AW[qd]AW[qe]AB[rd]AB[re]AB[rf]AB[qf]AB[pe]AB[oe]AB[ne]AB[nd]AB[nc]AB[nb]AB[oa]C[FORCE]AP[goproblems]
+(;B[qc];W[pc]C[FORCE]
+(;B[qa]C[RIGHT])
+(;B[pa]C[RIGHT]))
+(;B[pa];W[qa])
+(;B[qa];W[pa])
+(;B[sa];W[qa])
+(;B[pc];W[qc])
+(;B[sc];W[sd]C[FORCE]
+(;B[se];W[qa])
+(;B[qc];W[qa]C[])
+(;B[pa];W[qa])
+(;B[qa];W[pa])))

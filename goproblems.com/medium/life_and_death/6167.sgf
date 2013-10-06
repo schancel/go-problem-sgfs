@@ -1,0 +1,19 @@
+(;GE[life and death]DI[2d]DP[12]SO[MrMoto]CO[7]AB[rb]AB[rc]AB[qc]AB[pb]AB[ob]AB[nb]AW[qb]AW[mb]AW[mc]AW[nc]AW[oc]AW[pc]AW[pd]AW[qd]AW[rd]AW[sd]AW[lb]AW[kb]AW[ra]MA[ra]C[White has one ko threat, you (black) have none.  Please save the corner.]AP[goproblems]
+(;B[sc];W[sb]C[:(])
+(;B[sb];W[qa]MA[pa]MA[na]C[dead])
+(;B[na];W[sb];B[qa];W[sc];B[sa];W[pa]C[Black needs 1 ko threat.])
+(;B[oa];W[qa]C[dead])
+(;B[pa];W[sb];B[qa];W[na]C[dead])
+(;B[qa];W[sb]
+(;B[na];W[sc];B[sa];W[pa]C[Black needs 1 ko threat.])
+(;B[oa];W[sc];B[sa]C[White only needs 1 ko threat.]MA[ra])
+(;B[sc];W[qb]C[:(])
+(;B[sa];W[ld]LB[kd:K]C[(ko fight:  please play at K)FORCE];B[kd];W[ra]C[(play T if you want to tenuki)]LB[nf:T]
+(;B[sa]C[NOTTHIS])
+(;B[nf];W[sc];B[sa];W[na]
+(;B[oa];W[ra]C[Black needs a ko threat.])
+(;B[ra];W[oa]C[dead]))
+(;B[sc];W[qb])
+(;B[oa];W[sc];B[sa]C[White needs a second ko threat to win.  Well done! :)RIGHT])
+(;B[pa];W[na]C[dead])
+(;B[na];W[sc];B[sa];W[pa]C[oh no! :(]))))

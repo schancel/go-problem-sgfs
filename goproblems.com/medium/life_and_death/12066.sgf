@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3k]DP[24]SO[Field Mouse]CO[0]AB[rb]AB[qc]AB[rc]AB[pc]AB[pb]AW[ob]AW[mc]AW[mb]AB[lb]AB[oc]AW[nc]AW[lc]AW[kb]AB[kc]AB[jc]AB[ic]AB[hc]AW[md]AW[me]AW[mf]AB[od]AB[nd]AB[ne]AB[nf]AB[ld]AB[le]AB[lf]AB[mg]AB[lg]AB[je]AW[ng]AW[of]AW[og]AW[oe]AW[pe]AW[qe]AW[re]AW[rd]AW[sc]AW[sb]C[Black to play. White will win ANY ko (except double ko :o) )]AP[goproblems]
+(;B[la];W[na];B[jb];W[pa];B[qa];W[sa]C[Many step ko, but you could do better!])
+(;B[na];W[la]
+(;B[oa]
+(;W[ma]C[CHOICE]
+(;B[ja]C[Good, no ko!RIGHT])
+(;B[jb];W[nb];B[pa];W[ja]C[Tricked, white creates a ko :(])
+(;B[nb];W[jb]C[White lives, you could do better]))
+(;W[jb]
+(;B[ma]C[RIGHT])
+(;B[ib];W[ja];B[ma]C[RIGHT])))
+(;B[nb];W[jb];B[ib];W[ja]C[Everybody lives, but you could kill]))
+(;B[oa];W[na]C[Ko!])
+(;B[jb];W[la];B[oa];W[na]C[Ko!]))

@@ -1,0 +1,17 @@
+(;GE[life and death]DI[8k]DP[49]SO[assacra]CO[9]AW[sb]AW[rb]AW[qc]AW[pc]AW[ob]AB[nb]AB[nc]AB[od]AB[pd]AB[qd]AB[rd]AB[rc]AB[qa]TR[qa]C[black has just played the marked stones what has white to do?]AP[goproblems]
+(;W[ra];B[oa]
+(;W[pa];B[pb]
+(;W[oc];B[qb])
+(;W[qb];B[oc];W[pa];B[ob]))
+(;W[qb];B[pa];W[pb];B[na]))
+(;W[pa];B[qb];W[ra];B[sc];W[pb]C[RIGHT])
+(;W[oa];B[qb]
+(;W[pb];B[ra])
+(;W[ra];B[sc])
+(;W[pa];B[ra]))
+(;W[pb];B[pa]
+(;W[oa];B[ra])
+(;W[ra];B[oa]))
+(;W[qb];B[pa]
+(;W[oa];B[ra])
+(;W[ra];B[oa])))

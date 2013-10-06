@@ -1,0 +1,44 @@
+(;GE[endgame]DI[1k]DP[19]SO[hello]CO[6]SZ[19]AB[rd]AB[qd]AB[pd]AB[oc]AB[ob]AB[nd]AB[mc]AW[pc]AW[od]AW[oe]AW[pe]AW[qe]AW[re]AW[ph]C[White's best engame move? Assume Black has most ko material.]GM[1]FF[4]CA[UTF-8]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]PL[W]
+(;W[qb];B[qc]
+(;W[sd]
+(;B[pb];W[rc];B[pc]
+(;W[rb]C[RIGHT])
+(;W[ra]C[RIGHT])
+(;W[sb];B[qa]C[]
+(;W[ra];B[rb])
+(;W[rb];B[ra])))
+(;B[rc];W[rb];B[pb];W[sc];B[pc]))
+(;W[pb];B[rb];W[sd];B[rc]
+(;W[ra];B[pa])
+(;W[sc];B[qa];W[sb];B[pa]C[Hardly worth mentioning, you can do MUCH better]))
+(;W[rc];B[sd]
+(;W[pb];B[rb]
+(;W[ra];B[sc];W[sb];B[sa]C[White could play this way if he had more ko threats, but in that case black plays T16 at Q18 and reverts to the given answer.])
+(;W[sb];B[sc];W[ra];B[sa]C[White could play this way if he had more ko threats, but in that case black plays T16 at Q18 and reverts to the given answer.])
+(;W[se];B[sc];W[ra];B[pa]))
+(;W[sc];B[pb]C[The corner stones are dead.])
+(;W[se];B[pb];W[sc];B[pc]C[White's corner stones are dead.])))
+(;W[sd];B[qb]
+(;W[rc];B[qc];W[rb];B[ra]C[You can do much better])
+(;W[qc];B[rc]
+(;W[sc];B[rb])
+(;W[rb];B[pb];W[sc]C[You can do much better.]))
+(;W[rb];B[qc]
+(;W[rc];B[ra]C[You can do much better.])
+(;W[sc]C[You can do much better.])
+(;W[qa];B[sc]C[Say goodbye to the corner.])))
+(;W[rc];B[qc]
+(;W[qb];B[sd]
+(;W[pb];B[rb]
+(;W[sb];B[sc];W[ra];B[sa]C[This way of playing is possible if white has more ko threats. But black would then play T16 at Q18, reverting the sequence to the solution.])
+(;W[ra];B[sc];W[sb];B[sa]C[If white has more ko threats, this could be playable. However, in that case black plays T16 at Q18, reverting to the sequence in the 'correct' solution.])
+(;W[se];B[sc];W[ra];B[pa]))
+(;W[sc];B[pb]C[White's corner stones are dead.])
+(;W[se];B[pb];W[sc];B[pc]C[No chance of living in the corner]))
+(;W[sd];B[qb]C[You can do better]))
+(;W[qc];B[rc]
+(;W[rb];B[qb]
+(;W[sc];B[pb];W[sd]C[You can do much better.])
+(;W[sd];B[pb];W[sc]C[You can do much better]))
+(;W[sd];B[rb]))
+(;W[pb];B[qb]))

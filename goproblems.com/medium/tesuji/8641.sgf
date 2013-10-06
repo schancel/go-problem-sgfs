@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[1d]DP[17]SO[NeoNemesis]CO[7]AB[ca]AB[cb]AB[bc]AB[bd]AB[dc]AB[ec]AB[qd]AB[pc]AB[oc]AB[nd]AB[ne]AB[og]AB[oh]AB[oi]AB[pj]AB[ok]AB[ql]AB[ro]AB[qo]AB[qp]AB[pp]AB[op]AB[lb]AB[ld]AB[kc]AB[kd]AB[ke]AB[je]AB[jf]AB[jb]AB[ib]AB[co]AB[do]AB[en]AB[em]AB[bm]AB[bk]AB[ck]AB[cj]AB[ci]AB[ch]AB[dh]AB[dg]AB[eh]AB[fi]AB[fj]AB[fk]AB[fl]AB[gh]AB[hh]AB[ih]AB[jh]AB[ig]AB[jj]AB[jk]AB[jl]AB[gn]AW[cp]AW[dp]AW[dq]AW[eo]AW[fo]AW[dn]AW[dm]AW[cl]AW[el]AW[ek]AW[ej]AW[ei]AW[bj]AW[bi]AW[bh]AW[cg]AB[bg]AW[cf]AW[ce]AW[be]AW[cd]AW[cc]AW[db]AW[df]AW[eg]AW[fg]AW[fh]AW[gg]AW[hg]AW[if]AW[ie]AW[jd]AW[jc]AW[ic]AW[hd]AW[hb]AW[gc]AW[kb]AW[lc]AW[mc]AW[nc]AW[od]AW[nq]AW[pq]AW[qq]AW[rq]AW[rp]AW[qn]AW[jg]AW[kg]AW[kh]AW[kj]AW[kk]AW[kl]AW[nj]AW[ni]AW[oj]AW[nk]AW[nh]C[Cho Chikun vs Lee Sedol in the Fujitsu Cup. 
+Cho was white and Lee was black. In the game, Cho resigned
+after black 117,(the marked stone.) However Cho could have lived and continued the game
+where should cho have moved instead of resigning?CHOICE]AP[goproblems]
+(;W[am]C[This is the correct moveRIGHT]
+(;B[bo]C[RIGHT];W[bl]C[RIGHT];B[an]C[RIGHT];W[al]C[RIGHT];B[cn]C[RIGHT];W[ak]C[RIGHT];B[cm]C[RIGHT];W[dl]C[RIGHT];B[bp]C[RIGHT];W[bq]C[RIGHT];B[ap]C[RIGHT];W[go]C[RIGHT])
+(;B[bl];W[cn];B[bo];W[bn]C[this is obviously a disaster for black]))
+(;W[bl]C[CHOICE];B[al];W[bo]
+(;B[cm];W[cn];B[dl]C[bad for white])
+(;B[cn];W[bn]C[black obviously can't play like this]))
+(;W[bo];B[cn];W[bn];B[cm]
+(;W[dl];B[bl]C[white collapse])
+(;W[bl];B[dl]))
+(;W[bn]
+(;B[cn];W[cm];B[bo];W[bl];B[an])
+(;B[bo];W[cn];B[an]C[white collapse])))

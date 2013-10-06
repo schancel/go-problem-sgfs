@@ -1,0 +1,61 @@
+(;GE[life and death]DI[2d]DP[13]SO[mal]CO[0]AB[pp]AW[or]AW[qq]AB[qp]AW[pq]AB[lr]AB[lq]AB[lp]AB[lo]AB[ln]AB[lm]AW[kr]AW[kq]AW[kp]AW[ko]AB[jp]AB[jn]AB[im]AB[iq]AB[hq]AB[gp]AB[fp]AB[ep]AB[eq]AB[er]AB[es]AW[gq]AW[fq]AW[fr]AW[fs]AW[hr]AW[ir]TR[kr]TR[kq]TR[kp]TR[ko]C[Black to kill the marked stones]AP[goproblems]
+(;B[ks];W[js]
+(;B[hs]
+(;W[is];B[gs];W[gr]
+(;B[ls]C[RIGHT])
+(;B[jq];W[ls];B[mr]C[RIGHT])
+(;B[mr]C[works (see comment by Bass)RIGHT]))
+(;W[ls]
+(;B[ms];W[mr];B[ks])
+(;B[mr]C[RIGHT]
+(;W[jq];B[gr]C[RIGHT])
+(;W[is];B[gs];W[gr];B[jq]C[RIGHT]))))
+(;B[jq];W[ls];B[mr];W[gs];B[jr];W[is])
+(;B[ls];W[gs])
+(;B[gs]
+(;W[ls];B[mr];W[jq])))
+(;B[hs]
+(;W[ks]
+(;B[ls];W[is];B[gs];W[gr]C[CHOICE])
+(;B[gr];W[is];B[gs];W[ls]))
+(;W[ls]C[mistake by white]
+(;B[mr];W[ms];B[ns];W[ks];B[nr];W[is];B[gs];W[gr])
+(;B[ms];W[ks]
+(;B[nr];W[is];B[gs];W[gr])
+(;B[mr];W[is];B[gs];W[gr])
+(;B[mq];W[is];B[gs];W[gr]))))
+(;B[gs];W[ls]
+(;B[ms];W[ks];B[mr];W[gr];B[is];W[js];B[jq];W[jr]C[black cannot play h1 to reduce white's eye-space])
+(;B[mr]
+(;W[ms]C[White connects out (and the throw in at L1 will not help you)CHOICE])
+(;W[gr]C[wrong play by white (thanks to piccolo)
+If white plays this while you are trying to solve the problem I have messed up with the interface.]
+(;B[is];W[js];B[jq];W[jr]C[black cannot fill in at h1]))))
+(;B[jr];W[ls]
+(;B[ms];W[ks];B[mr];W[jq];B[hs];W[is];B[gs];W[gr])
+(;B[mr];W[ks];B[ms];W[jq])
+(;B[js];W[jq];B[hs];W[ks];B[gr];W[is];B[gs])
+(;B[ks];W[js]
+(;B[jq];W[mr])
+(;B[ms];W[jq];B[hs];W[is];B[gs];W[gr];B[ks])))
+(;B[is];W[js]
+(;B[gs];W[gr]C[black cannot fill at h1])
+(;B[ls];W[hs]))
+(;B[ls];W[ks]
+(;B[jq];W[jr])
+(;B[jr];W[jq];B[gs];W[gr];B[is];W[js])
+(;B[js];W[jr])
+(;B[is];W[hs]
+(;B[jr];W[jq];B[gs];W[js])
+(;B[gs];W[jq]
+(;B[js];W[gr])
+(;B[gr];W[js])))
+(;B[hs];W[is];B[gs];W[gr])
+(;B[gs];W[gr];B[is];W[js]C[black cannot fill in at h1]))
+(;B[js];W[ks]
+(;B[hs];W[ls]C[white escaped]TR[ko]TR[kp]TR[kq]TR[kr])
+(;B[jr];W[ls]TR[ko]TR[kp]TR[kq]TR[kr]C[The marked stones connect out.]))
+(;B[jq];W[ls]
+(;B[mr];W[jr];B[hs];W[is];B[gs];W[ks];B[gr];W[ms]TR[kr]TR[kq]TR[kp]TR[ko]C[those were not the stones you wanted to capture])
+(;B[ms];W[jr]
+(;B[ks];W[gs]))))

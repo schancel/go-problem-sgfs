@@ -1,0 +1,34 @@
+(;GE[joseki]DI[3d]DP[9]SO[holyhell99]CO[0]AB[pd]AB[pp]AB[pj]AW[dp]AW[dd]AW[nc]LB[nd:A]C[FORCE]AP[goproblems];B[nd];W[od]LB[oe:A]C[FORCE];B[oe];W[oc]LB[pc:A]C[FORCE];B[pc];W[pe]LB[qe:A]C[FORCE];B[qe];W[pf]LB[md:A]C[FORCE];B[md];W[ne]LB[of:A]C[FORCE];B[of];W[me]LB[le:A]C[FORCE];B[le];W[og]LB[nf:A]C[FORCE];B[nf];W[mf]LB[ng:A]C[FORCE];B[ng];W[lf]C[Oh no!  W is preparing to take your four stones and cut at M16!  AShould you be scared of the cut? should you be scared of ladder?  What can you do?]
+(;B[ld];W[nh])
+(;B[kf];W[nh]C[Trying to use the same strategy as you used with the stone on M15-eh?Lets see if it works...];B[mg];W[lg];B[mh];W[kg]C[];B[jg];W[mi];B[lh];W[kh];B[li];W[jh];B[ih];W[lj];B[ki];W[ji];B[kj];W[ii];B[hi];W[kk];B[jj];W[ij];B[jk];W[hj];B[gj];W[jl];B[ik];W[hk];B[il];W[gk];B[fk];W[im];B[hl];W[gl];B[hm];W[fl];B[el];W[hn];B[gm];W[fm];B[gn];W[em];B[dm];W[go];B[fn];W[en];B[fo];W[dn]C[not the best variation...])
+(;B[nh];W[ld];B[mc];W[mb];B[lc];W[kc]
+(;B[kd];W[lb]C[Ladders...])
+(;B[lb];W[kb]
+(;B[kd];W[la]C[Ladders...])
+(;B[la];W[ka];B[kd];W[ma]C[Ladders...])))
+(;B[mg];W[ld];B[mc];W[mb];B[lc];W[kc]
+(;B[lb];W[kb]
+(;B[la];W[ma];B[kd];W[ka])
+(;B[kd];W[la];B[ld];W[jd];B[ke];W[kf]))
+(;B[kd];W[lb]))
+(;B[kg]
+(;W[kc]LB[ld:A]C[Nice move...You protected both the cut and the ladder...Now W threatens to cut...is this the end?CHOICEFORCE]
+(;B[mc];W[mb];B[nb];W[ob];B[lb];W[na];B[lc];W[pb])
+(;B[ld];W[kf]
+(;B[mc];W[mb])
+(;B[mb]C[RIGHT]))
+(;B[mb];W[mc];B[ld];W[lc]))
+(;W[ld];B[mc];W[mb];B[lc];W[kc]C[FORCE];B[kd];W[lb]C[FORCE];B[ld];W[jd];B[ke]C[RIGHT])
+(;W[kf]C[RIGHT]))
+(;B[lc];W[nh])
+(;B[kd];W[nh])
+(;B[kc];W[nh])
+(;B[rd];W[nh])
+(;B[pg];W[ld];B[mc];W[mb];B[lc];W[kc]
+(;B[lb];W[kb]
+(;B[kd];W[la])
+(;B[la];W[ma]
+(;B[ka];W[ja])
+(;B[kd];W[ka])))
+(;B[kd];W[lb]))
+(;B[qf];W[ld];B[mc];W[mb];B[lc];W[kc]C[FORCE];B[kd];W[lb]))

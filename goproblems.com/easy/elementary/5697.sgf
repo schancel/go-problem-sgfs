@@ -1,0 +1,22 @@
+(;GE[elementary]DI[15k]DP[60]SO[maba]CO[8]AB[bc]AB[cc]AB[bd]AB[ae]AB[bf]AB[cf]AB[cd]AB[ce]AB[ag]AB[ah]AB[bh]AB[cg]AB[de]AB[df]AB[dg]AB[dh]AB[eh]AB[fh]AB[fi]AB[gi]AB[gj]AW[ai]AW[aj]AW[bi]AW[ci]AW[ch]AW[di]AW[ei]AW[fj]AW[fk]AW[ek]AW[dj]AW[dk]AW[dl]AW[em]AW[fm]AW[gk]AW[gl]AW[gm]AW[gn]AB[bj]AB[cj]AB[ak]AB[ck]AB[cl]AB[bl]AB[bm]AB[am]AB[an]AW[ao]AW[bo]AW[bn]AW[co]AW[bp]AW[bq]AW[cq]AW[dq]AW[ep]AW[eq]AW[er]AW[fr]AW[fq]AB[dm]AB[dn]AB[cn]AB[cp]AB[dp]AB[do]AB[en]AB[fn]AB[eo]AB[fo]AB[fp]AB[go]AB[gp]AB[gq]AB[gr]AW[gs]AW[hs]AW[is]AW[js]AW[ks]AW[kr]AW[hr]AW[jr]AW[iq]AW[jp]AW[kp]AW[lr]AW[mr]AW[mq]AW[mp]AW[np]AW[kq]AB[lq]AB[lp]AB[lo]AB[hq]AB[ip]AB[io]AB[in]AB[hn]AW[hp]AB[hm]AB[hl]AB[hk]AB[ik]AB[ij]AB[jj]AB[kj]AB[kk]AB[jh]AB[kh]AB[ji]AB[lh]AB[li]AB[mi]AB[jg]AB[kg]AB[ig]AB[jf]AB[je]AB[ke]AB[ie]AB[id]AB[jd]AB[kd]AB[kc]AB[lc]AB[mc]AB[md]AB[mb]AB[ma]AB[lb]AB[nb]AB[ka]AB[ia]AB[hb]AB[fb]AB[fc]AB[fd]AW[ad]AW[ac]AW[ab]AW[bb]AW[cb]AW[db]AW[dc]AW[dd]AW[ed]AW[ee]AW[fe]AW[ff]AW[fg]AW[eg]AW[gd]AW[gc]AW[hc]AW[hd]AW[ic]AW[ib]AW[jb]AW[ja]AW[kb]AW[jc]AW[he]AW[hf]AW[if]AW[hg]AW[hh]AW[gh]AW[hi]AW[hj]AW[ii]AW[ih]AW[na]AW[oa]AW[pa]AW[qa]AW[sa]AW[sb]AW[sc]AW[se]AW[re]AW[rd]AW[qd]AW[qc]AW[pc]AW[pb]AW[ob]AW[oc]AB[rf]AB[qf]AB[qe]AB[pe]AB[pd]AB[od]AB[oe]AB[nf]AB[mf]AB[mg]AB[ng]AB[og]AB[oh]AB[pi]AB[qi]AB[qh]AW[sf]AB[sg]AB[sh]AB[si]AB[rj]AW[qj]AW[pj]AW[pk]AB[oj]AB[ok]AB[ol]AB[nm]AB[mn]AB[mo]AB[no]AB[oo]AB[on]AB[po]AB[op]AB[nq]AB[nr]AB[ns]AB[ms]AB[ls]AB[or]AB[pq]AB[ps]AB[qr]AB[rq]AB[rp]AB[qp]AB[ro]AB[rn]AB[sp]AW[qs]AW[rr]AW[sr]AB[rl]AB[ql]AB[qk]AW[rk]AB[pm]AB[jo]AB[ko]AW[jn]AW[kn]AW[ln]AW[im]AW[il]AW[jl]AW[jk]AW[kl]AW[km]AW[ll]AW[mm]AW[nl]AW[nk]AW[mk]AW[lk]AW[lj]AW[mj]AW[nj]AW[ni]AW[oi]AW[nh]AW[mh]AW[lg]AW[lf]AW[kf]AW[le]AW[ld]AW[me]AW[ne]AW[nd]AW[nc]AW[rg]AW[qg]AB[el]AW[qo]AW[qn]AB[la]C[White to win the game.]LB[qg:1]LB[la:2]AP[goproblems]
+(;W[of]
+(;B[pf];W[pg]
+(;B[of]
+(;W[ph]C[RIGHT])
+(;W[rh]C[RIGHT]))
+(;B[ph];W[of]C[RIGHT]))
+(;B[pg];W[pf]C[RIGHT]))
+(;W[pg]
+(;B[of]
+(;W[ph];B[rh];W[pf]C[RIGHT])
+(;W[pf];B[ph];W[rh];B[ri]))
+(;B[pf];W[of]C[RIGHT])
+(;B[ph]
+(;W[of]
+(;B[pf];W[of]C[RIGHT])
+(;B[rh];W[pf]C[RIGHT]))
+(;W[pf];B[of];W[rh];B[ri])))
+(;W[pf];B[of]
+(;W[pg];B[ph];W[rh];B[ri])
+(;W[ph];B[pg]))
+(;W[ph];B[pg]))

@@ -1,0 +1,10 @@
+(;GE[life and death]DI[15k]DP[64]SO[meysel]CO[0]AB[ba]AB[ca]AB[cd]AB[ce]AB[be]AB[ae]AW[cc]AW[bc]AW[bb]AW[bd]AW[ad]AW[da]AW[db]AW[eb]AB[dc]AB[ec]AB[fc]AB[fb]AB[hb]AP[goproblems]
+(;B[cb];W[aa]C[CHOICE])
+(;B[aa];W[ab]C[CHOICE])
+(;B[ab];W[cb]C[This position is known as bent 4 in the corner. Play T for tenuki if you think White is dead already.]LB[he:T]
+(;B[fa];W[aa];B[ba]C[Bent 4 in the corner. Black F1 was not necessary, but nor was White B18 so I will accept this.RIGHT])
+(;B[aa];W[ac];B[ba];W[aa];B[ab]C[Ko for death...])
+(;B[ac];W[aa])
+(;B[he];W[aa];B[ba]C[Bent 4 in the corner. White cannot approach - Black would connect at A19 and White would have just one eye. But Black can take all time in the world to take the outside liberties, then connect at A19, then play C19 or A17 and after White takes 4 stones play on the 2-1 point that is not self-atari. White could play 1-1 and start a ko but Black will not play this until there are no threats left. So White is dead.RIGHT]))
+(;B[ea]
+(;W[cb];B[ab];W[aa];B[ba]C[Bent 4 in the corner, well done.RIGHT])))

@@ -1,0 +1,35 @@
+(;GE[best move]DI[3k]DP[26]SO[peto.franek]CO[0]AB[ah]AB[bi]AB[ci]AW[bh]AB[gi]AB[fi]AB[hi]AB[ih]AW[gh]AW[hh]AW[ig]AB[gg]AB[hf]AB[if]AB[he]AB[hd]AW[gf]AW[ge]AW[af]AW[ae]AB[bf]AW[ce]AW[df]AB[de]AW[ac]AW[ab]AW[bb]AW[ba]AB[bc]AW[cc]AW[db]AB[cb]AB[ca]AB[ea]AB[fb]AW[hb]LB[gc:T]SZ[9]TR[bh]AP[goproblems]
+(;B[bg];W[ch]
+(;B[dh];W[cg];B[cf];W[dg]
+(;B[ef];W[eg]
+(;B[eh];W[fg]
+(;B[ff];W[hg];B[fh];W[gg]
+(;B[gd];W[fe];B[ee];W[fd]
+(;B[fc];W[ed];B[dd];W[ec]
+(;B[dc];W[cd])
+(;B[eb];W[dc]))
+(;B[ed];W[fc];B[ec];W[gc]))
+(;B[fe];W[gd]
+(;B[gc];W[fd])
+(;B[fd];W[gc])))
+(;B[fh];W[ff]))
+(;B[fg];W[eh]
+(;B[fh];W[di];B[ei];W[ai])
+(;B[ei];W[di];B[fh];W[ai])))
+(;B[eg];W[ef]
+(;B[ee];W[ff])
+(;B[ff];W[ee];B[ed];W[dd])))
+(;B[cg];W[dh])
+(;B[dg];W[ag]))
+(;B[ch];W[bg];B[cg];W[ag];B[be];W[ad]
+(;B[bd];W[da])
+(;B[da];W[bd]))
+(;B[cg];W[bg])
+(;B[bd];W[be]
+(;B[bg];W[ch]
+(;B[dh];W[cg])
+(;B[cg];W[dh];B[dg];W[ag];B[eh];W[ai]))
+(;B[ch];W[bg]))
+(;B[gc]C[RIGHT]C[The ladder does not work RIGHT])
+(;B[ag];W[bg];B[ai];W[cf])
+(;B[ai];W[bg];B[ag];W[cf]))

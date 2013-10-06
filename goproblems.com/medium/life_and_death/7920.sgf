@@ -1,0 +1,46 @@
+(;GE[life and death]DI[4k]DP[28]SO[santa c]CO[7]AB[bb]AB[cb]AB[db]AB[bc]AW[ec]AW[dc]AW[cc]AW[cd]AW[gb]AW[bf]AB[eb]AW[fb]C[Can White kill? If not Tenuki (T at K16)]LB[bb:?]LB[cb:?]LB[db:?]AB[bd]AW[be]AW[rb]AW[qb]AW[pb]AW[ob]AW[rc]AW[rd]AB[qd]AB[qc]AB[pc]AB[oc]AB[nb]AB[mb]AB[re]AB[rf]LB[jd:T]AW[ae]AB[se]AW[fd]AW[de]AB[nd]AB[pe]AW[fa]AB[na]AP[goproblems]
+(;W[jd]
+(;B[ra]C[Are you sure you can save it?]LB[pb:?]LB[qb:?]LB[rb:?]
+(;W[qa]C[];B[oa]
+(;W[sa];B[sd];W[sc]C[Well done! :)RIGHT])
+(;W[sd];B[sb]C[Can't approach at A, so it's a ko... :(]LB[sc:A]LB[sa:ko])
+(;W[sb];B[sd]C[:(]))
+(;W[sb];B[sd]C[:(]TR[qa]TR[oa])
+(;W[sd];B[sb]
+(;W[qa];B[oa]C[Can't Play at A, so it's a ko! :(]LB[sc:A]LB[sa:ko])
+(;W[oa];B[qa]C[Bent five! A seki... White is indeed alive but life with points was possible... RIGHT])
+(;W[sc];B[oa];W[sa]MA[sb]C[:(]))
+(;W[sc];B[sa]
+(;W[oa];B[qa]C[Bent four! :(])
+(;W[qa];B[oa]C[:(]))
+(;W[sa];B[sb]
+(;W[sc]C[Well done! :)RIGHT])
+(;W[qa]C[Well done! :)RIGHT])
+(;W[pa];B[sa]C[:(])
+(;W[oa];B[sd]
+(;W[sc];B[qa];W[sa]C[:(]MA[sb])
+(;W[qa];B[sc]C[:(]))
+(;W[sd];B[oa]C[:(]))
+(;W[pa];B[sd]C[:(]TR[sc]TR[sa])
+(;W[oa];B[sd]
+(;W[qa];B[sb]C[Can't play at A, so it's a ko... :(]LB[sc:A]LB[sa:kp])
+(;W[sb];B[qa]C[:(])
+(;W[sc];B[qa];W[sa];B[sb]MA[sa]C[:(])
+(;W[sa];B[sc]C[:(]TR[qa]TR[sb])))
+(;B[oa];W[sa]C[RIGHT]))
+(;W[jc]C[NOTTHIS])
+(;W[kc]C[NOTTHIS])
+(;W[kd]C[NOTTHIS])
+(;W[ke]C[NOTTHIS])
+(;W[je]C[NOTTHIS])
+(;W[ie]C[NOTTHIS])
+(;W[id]C[NOTTHIS])
+(;W[ic]C[NOTTHIS])
+(;W[ea];B[aa]C[:(]TR[ad]TR[ac]TR[da]TR[ca])
+(;W[ad];B[ba]C[:(])
+(;W[aa];B[ba]C[:(])
+(;W[ba];B[ca]C[:(]TR[ea]TR[aa])
+(;W[ab];B[ba]C[:(])
+(;W[ac];B[ad]C[:(])
+(;W[da];B[ea]C[:(])
+(;W[ca];B[ba]C[:(]))

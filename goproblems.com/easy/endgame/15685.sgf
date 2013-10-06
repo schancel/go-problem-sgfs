@@ -1,0 +1,12 @@
+(;GE[endgame]DI[5k]DP[34]SO[thanush]CO[0]AW[rb]AW[sd]AW[rd]AW[qd]AW[pd]AW[oc]AW[nb]AW[mb]AW[mc]AB[lb]AB[lc]AB[ld]AB[md]AB[ma]AB[od]AB[oe]AB[pe]AB[qe]AB[se]AB[re]C[B can do damage to w's corner]AP[goproblems]
+(;B[oa]
+(;W[pb]C[CHOICE];B[na]C[RIGHT])
+(;W[na]C[CHOICE];B[ob];W[la];B[pc]C[RIGHT]))
+(;B[na];W[oa];B[la];W[ob])
+(;B[nd];W[na]
+(;B[la];W[nc]C[RIGHT])
+(;B[nc];W[ob]))
+(;B[ob];W[pb]
+(;B[oa];W[pa])
+(;B[na];W[oa];B[la]))
+(;B[pb];W[ob];B[oa];W[na];B[pc];W[la]))

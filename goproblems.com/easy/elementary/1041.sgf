@@ -1,0 +1,44 @@
+(;GE[elementary]DI[8k]DP[45]SO[Daniel]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[ao][aq][ar][as][bo][br][bs][cp][dp][ep][eq][er][es][pq][pr][qq][rp][rq][sp]
+AW[ap][bp][bq][cq][dq][dr][ds][op][oq][or][os][pp][qp][ro][rr][rs][so][sq][sr][ss]
+LB[ps:A]PL[B]
+C[If you think the left White group is alive play at A 
+and if you think the left White group can be killed 
+go ahead.]
+(;B[ps]
+;W[qr]
+;B[qs]
+;W[rr]
+(;B[sr]
+;W[rs]
+C[RIGHT
+seki]
+)(;B[rs]
+;W[sr]
+))(;B[cr]
+;W[cs]
+(;B[br]
+;W[ar]
+LB[bs:A]C[Now if Black plays at A White will be 
+alive in seki.]
+)(;B[ar]
+;W[br]
+))(;B[cs]
+;W[cr]
+(;B[br]
+;W[bs]
+C[Now if Black plays at A White will be 
+alive in seki.]
+LB[ar:A])(;B[bs]
+;W[ar]
+C[Now if Black plays at A White will be 
+alive in seki.]
+LB[br:A])(;B[ar]
+;W[bs]
+C[Now if Black plays at A White will be 
+alive in seki.]
+LB[br:A])))

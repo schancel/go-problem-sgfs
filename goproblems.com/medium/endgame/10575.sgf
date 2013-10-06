@@ -1,0 +1,12 @@
+(;GE[endgame]DI[1d]DP[15]SO[Field Mouse]CO[8]AW[rp]AW[qq]AW[pq]AW[or]AW[nq]AW[mq]AW[lp]AW[lo]AB[mp]AB[np]AB[op]AB[pp]AB[qp]AB[ro]AB[qn]AB[oq]AB[mo]AB[mn]AW[rr]C[White to play the best endgame! Sente is not important.]AW[kp]AW[ks]AW[kq]AB[lr]AW[kr]AB[pr]AW[nr]AB[sr]AB[rm]AB[so]AP[goproblems]
+(;W[sq];B[qr];W[rq];B[rs]C[Ko, not very good.])
+(;W[qs];B[sp];W[rq];B[sq]C[The R1 stone does not stand good, white still needs to protect against S1.])
+(;W[rq];B[rs]
+(;W[ps];B[sq]C[You could do better.])
+(;W[sq];B[qr];W[ss]C[Bad ko.]))
+(;W[rs];B[sp];W[rq];B[sq]C[]
+(;W[ps]C[Congratulations!RIGHT])
+(;W[qr]C[With this move you lose one point - if you played q1, you would never have to play this. Now you will have to play q1 sometime.]))
+(;W[qr];B[sp];W[rq];B[rs]C[You could do a bit better.])
+(;W[sp];B[qr]C[Ouch.])
+(;W[ps];B[sp];W[rq];B[rs]C[You could do better.]))

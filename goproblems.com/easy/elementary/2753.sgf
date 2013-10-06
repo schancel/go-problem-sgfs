@@ -1,0 +1,10 @@
+(;GE[elementary]DI[7k]DP[40]SO[santa c]CO[8]SZ[13]AW[ij]AW[jj]AW[kj]AW[lj]AW[ik]AW[il]AB[jk]AB[kk]AB[jl]AB[jm]LB[jd:T]C[Can black play & live? If not, play at the upper rights empty corners hoshi..(k10- marked as 'T')]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[B]
+(;B[ll]C[wL1: Yes, this is a killer sequance... I found out the hard way - After this, black's dead - Check out 'nevigate solution'...];W[km]
+(;B[ml];W[lm]C[Black's dead!])
+(;B[lm];W[ml]C[Black's dead!])
+(;B[lk]C[wN3 is the correct response. See the comment after wM1 for an explanation.]
+(;W[mk]C[Black's dead!])
+(;W[lm]C[Black's dead (After N3 we have a 'bent 4' in the corner). However as Andre E. mentioned in the comments wM1 is better at N3. In case white will need to capture the corner earlier, it allows to avoid the ko.])))
+(;B[jd]C[Nice! The corner, is dead... Checkout the 'Nevigate Solution', if you're unsure..RIGHT])
+(;B[lk];W[ll]C[Black's dead... (It's the key point of a 'Full corner 6')])
+(;B[ml];W[ll]C[Black's dead... (It's the key point of a 'Full corner 6')]))

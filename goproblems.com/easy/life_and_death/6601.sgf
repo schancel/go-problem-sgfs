@@ -1,0 +1,14 @@
+(;GE[life and death]DI[4k]DP[30]SO[Stones]CO[9]AW[gr]AW[hr]AW[ir]AW[hs]AW[js]AB[iq]AB[hq]AB[gq]AB[fr]AB[gs]AB[fs]AB[ks]AB[ls]AB[lr]AW[ms]AW[ns]AW[nr]AW[or]AW[pr]AW[oq]AB[os]AB[ps]AB[qs]AB[qr]AB[qq]AB[pq]AW[kq]AW[lq]AW[mq]AW[mp]AW[lo]AW[ko]AB[nq]AB[np]AB[op]AB[po]AB[mo]AB[mn]AB[ln]AB[kn]AB[jo]AB[jp]AB[fq]AB[jq]C[White to live.]AP[goproblems]
+(;W[kp];B[kr])
+(;W[mr];B[jr]
+(;W[kp];B[kr])
+(;W[kr];B[kp]))
+(;W[kr];B[jr]
+(;W[mr];B[kp])
+(;W[kp];B[mr];W[nr];B[lp]))
+(;W[jr];B[mr]
+(;W[kp];B[kr])
+(;W[nr];B[or]
+(;W[kp]C[RIGHT])
+(;W[kr];B[ns];W[kp]C[RIGHT]))
+(;W[kr];B[nr];W[kp]C[RIGHT])))

@@ -1,0 +1,21 @@
+(;GE[elementary]DI[15k]DP[62]SO[utku]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+
+;AW[bm][bn][cn][co][cp][ep][aq][dq][dr][cs][es]AB[bo][bp][cq][ar][br][cr]C[Black plays and live.]
+(;B[bs]CR[bs]
+;W[ao]CR[ao]
+(;B[bq]CR[bq]
+;W[an]CR[an]
+(;B[ap]CR[ap]C[RIGHT])
+(;B[ds]CR[ds]
+;W[ap]CR[ap]))
+(;B[ap]CR[ap]
+;W[bq]CR[bq]))
+(;B[ao]CR[ao]
+;W[bs]CR[bs])
+(;B[bq]CR[bq]
+;W[bs]CR[bs])
+(;B[ap]CR[ap]
+;W[bs]CR[bs])
+(;B[an]CR[an]
+;W[bs]CR[bs]))

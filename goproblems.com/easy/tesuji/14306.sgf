@@ -1,0 +1,10 @@
+(;GE[tesuji]DI[12k]DP[58]SO[ena]CO[0]C[Black has just placed the invading marked stone. Defend!]AB[aq]AB[ar]AB[br]AB[cr]AB[dr]AB[dq]AB[eq]AB[ep]AB[eo]AB[en]AB[em]AB[do]AW[ap]AW[bq]AW[cq]AW[cp]AW[dp]AW[co]AW[dn]AW[dm]AW[cl]AW[el]AW[ek]AW[ej]AB[fl]AB[fk]AB[fm]AB[bo]TR[bo]AP[goproblems]
+(;W[bn];B[ao];W[an];B[bp];W[ap]C[RIGHT])
+(;W[ao];B[cn];W[bp];B[an])
+(;W[bp];B[cn];W[ao];B[an])
+(;W[cn];B[bp];W[bn];B[ao];W[an];B[ap])
+(;W[an]
+(;B[cn]
+(;W[bp];B[ao])
+(;W[bn];B[bp]))
+(;B[ao];W[bn])))

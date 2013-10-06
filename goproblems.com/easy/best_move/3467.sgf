@@ -1,0 +1,39 @@
+(;GE[best move]DI[15k]DP[61]SO[kochi]CO[7]AB[dg]AB[dh]AW[ch]AW[cg]AW[df]AW[di]AW[ei]AW[fi]AW[gi]AB[gg]AB[ig]AB[ci]AB[ki]AB[bi]AW[bf]AB[ij]AB[jf]AB[jh]AW[kh]AW[kg]AW[kf]AW[li]AB[ii]AW[bh]AB[dj]AB[fk]AB[gk]AW[le]AB[hk]AB[id]AB[je]AB[jb]AB[ja]AW[ke]AW[fe]AW[ge]AB[kd]AW[ld]AW[kc]AW[kb]AW[lb]AB[ib]AW[hb]AW[gb]AW[fb]AW[eb]AW[db]AW[hd]AW[gd]AW[fd]AW[ed]AW[dd]AB[gc]AW[jc]AW[cd]AW[cc]AB[hf]AB[hh]AW[ce]AW[ae]AB[bk]AB[ak]AB[ai]AB[dk]AB[ck]AW[ek]AB[ej]AW[fj]AW[hi]AB[ik]AW[bj]AB[ah]AW[am]AW[bm]AW[cm]AW[dm]AW[el]AW[em]AW[fm]AW[gm]AW[hm]AW[im]AW[jm]AW[km]AW[lm]AW[mm]AW[ml]AW[mk]AW[mj]AW[mi]AW[mg]AW[mh]AW[mf]AW[mc]AB[ji]AB[kj]AB[jk]AB[kl]AB[lk]AB[ll]AB[fc]AB[cb]AB[bb]AB[bc]AW[ag]AB[bd]AW[be]AB[ec]AB[dc]AP[goproblems]
+(;B[je]C[RIGHT])
+(;B[jc];W[ie]
+(;B[je];W[jd]
+(;B[kb];W[lb];B[ke];W[gb])
+(;B[if];W[he]
+(;B[kb];W[gb])
+(;B[ke];W[gb])))
+(;B[jd];W[je]))
+(;B[ic];W[hc]C[B can't save his two on the bottom, so just connect on top in sente.  RIGHT])
+(;B[hc];W[ic])
+(;B[jd];W[ic])
+(;B[eg];W[fg]
+(;B[ff];W[fh]
+(;B[gf];W[ef])
+(;B[ef];W[gf]))
+(;B[fh];W[ff]
+(;B[gh];W[eh])
+(;B[eh];W[gh]))
+(;B[gh];W[fh])
+(;B[ef];W[ff])
+(;B[gf];W[ff]))
+(;B[fg];W[eg]C[wasted a threat.])
+(;B[eh];W[fh]
+(;B[ef];W[ff])
+(;B[ff];W[ef])
+(;B[fg];W[eg])
+(;B[eg];W[fg]))
+(;B[fh];W[fg]
+(;B[eg];W[ff]
+(;B[gh];W[eh])
+(;B[eh];W[gh]))
+(;B[eh];W[gh])
+(;B[gh];W[eh])
+(;B[ff];W[eg])
+(;B[ef];W[eg])
+(;B[gf];W[ff]))
+(;B[ef];W[eg]C[wasted a threat.])
+(;B[ff];W[eg]C[wasted a threat.]))

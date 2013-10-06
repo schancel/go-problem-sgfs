@@ -1,0 +1,166 @@
+(;GE[life and death]DI[15k]DP[63]SO[santa c]CO[6]SZ[9]AW[ea]AW[bb]AW[cb]AW[eb]AW[cc]AW[dc]AW[ef]AW[ff]AW[gf]AW[hf]AW[dg]AW[eg]AW[hg]AW[dh]AW[di]AB[fa]AB[fb]AB[bc]AB[ec]AB[fc]AB[bd]AB[cd]AB[dd]AB[ed]AB[fg]AB[gg]AB[eh]AB[gh]AB[hh]AB[ei]LB[ce:D]LB[ge:A]LB[fg:?]LB[gg:?]LB[eh:?]LB[gh:?]LB[hh:?]LB[ei:?]C[Is the marked group - 1.) Dead('D'-C5) as it stands.  2.) Killable. (Kill it then.) 3.) Alive('A'-G5) no matter, what. ?FORCE]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ce]LB[ih:o]LB[fi:o]C[2 locations, can give life.]
+(;B[fi]LB[ih:B]LB[hi:A]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.) CHOICE])
+(;B[ih]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes. Don't belive me? Go ahead, and try to kill.)FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ii]LB[ge:T]C[Black passes, localy - He tenukis - Plays elsewhere. By this, move, white gives, away a point. But more importent - He gives away the sente! ('T' at G5)];B[ge]LB[ge:T]C['T' stand for tenuki.FORCE]
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ig]C[Is this a joke?])
+(;W[if]C[Is this a joke?])
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)]))
+(;W[ig]C[Is this a joke?])
+(;W[if]C[Is this a joke?])))
+(;W[fh];B[fi]LB[ih:B]LB[hi:A]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[fi]C[This move, kills.];B[fh]C[FORCE]
+(;W[gi]LB[ih:B]LB[hi:A]C[Nice. Black is dead. (It won't be having 2 eyes, now, since, he needs to play at both 'A' and 'B' to aquire them - They're miai.) RIGHT])
+(;W[hi]LB[ih:B]LB[gi:A]C[Nice. Black is dead. (It won't be having 2 eyes, now, since, he needs to play at both 'A' and 'B' to aquire them - They're miai.) RIGHT])
+(;W[ii];B[ih]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[ih]C[Black is dead, nice. (Won't be having eyes, now.) RIGHT])
+(;W[ig];B[ih]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[if];B[ih]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)]))
+(;W[gi]
+(;B[hi]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]C[FORCE]
+(;W[fi];B[ih]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[gi];B[ih]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[ii]LB[ig:o]LB[ih:o]C[Both locations can give life. But J3 is better, since, it reduces, the territory, of the opponent.)]
+(;B[ih]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[ig]LB[ih:X]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes. 'X' isn't part of the eye, as black will fill it, when wJ4.) CHOICE]))
+(;W[ih]C[Black is dead, nice. (Won't be having eyes, now.) RIGHT])
+(;W[ig];B[ih]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[ih]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)]))
+(;W[ii]LB[ig:o]LB[ih:o]LB[fi:o]C[All 3 locations can give life. But J3 is the best, since, it reduces, the territory, of the opponent.)]
+(;B[ig]LB[fh:1]LB[ih:X]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes. 'X' isn't part of the eye, as black will fill it, when wJ4.)])
+(;B[fi]LB[fh:1]LB[gi:2]C[Black is alive. (2 eyes.) (J1 is captured, but it doesn't matter.)])
+(;B[ih]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)]))
+(;W[ih];B[fi]LB[fh:1]LB[gi:2]C[Black is alive. (2 eyes.)])
+(;W[ig]C[Is this a joke?])
+(;W[if]C[Is this a joke?]))
+(;B[ih]C[FORCE]
+(;W[fh]C[Nice, snapback.]
+(;B[fi];W[fh]C[Black is dead, nice.  CHOICERIGHT])
+(;B[hi];W[fi]C[Black is dead, nice.  CHOICERIGHT]))
+(;W[fi];B[fh]C[FORCE]
+(;W[hi]C[Black is dead, nice. (Won't be having 2 eye, now)];B[ii]C[FORCE]
+(;W[fi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[gi]C[Black is dead, nice. (Won't be having 2 eye, now) RIGHT])
+(;W[hi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ii];B[hi]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[hi]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[hi]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)]))
+(;W[hi];B[ii]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]C[FORCE]
+(;W[fi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[gi]C[Black is dead, nice. (Won't be having 2 eye, now) RIGHT])
+(;W[hi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ig];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ii];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])))
+(;W[hi];B[ih]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]C[FORCE]
+(;W[gi]C[Obviously dead..];B[ii]C[FORCE]
+(;W[fi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[gi]C[Black is dead, nice. (Won't be having 2 eye, now) RIGHT])
+(;W[hi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ii];B[gi]LB[fi:1]LB[hi:2]LB[ii:2])
+(;W[ig];B[gi]LB[fi:1]LB[hi:2]LB[ii:2])
+(;W[if];B[gi]LB[fi:1]LB[hi:2]LB[ii:2]))
+(;W[gi];B[ii]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]C[FORCE]
+(;W[fi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[gi]C[Black is dead, nice. (Won't be having 2 eye, now) RIGHT])
+(;W[hi];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[ig];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ig];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[if];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)]))
+(;W[ii]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ig]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[if]LB[fi:o]LB[gi:o]LB[ii:o]C[3 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[ii]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh];W[ig];B[gi]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[gi];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.)])
+(;W[ig]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]C[Black is alive. (2 eyes.) CHOICE])))))
+(;W[ii]LB[ih:o]LB[fi:o]C[2 locations, can give life.]
+(;B[fi]LB[ih:B]LB[hi:A]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.) CHOICE])
+(;B[ih]C[FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]LB[ig:C]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' ( - They're miai.) after an approach at 'C' - Impossible.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ig]C[Is this a joke?])
+(;W[if]C[Is this a joke?])))
+(;W[ih]LB[fi:A]LB[hi:B]C[Nice. Black is dead. (It won't be having 2 eyes, now, since, he needs to play at both 'A' and 'B' to aquire them - They're miai.) RIGHT])
+(;W[ig]LB[ih:o]LB[fi:o]C[2 locations, can give life.]
+(;B[fi]LB[ih:B]LB[hi:A]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.) CHOICE])
+(;B[ih]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes. Don't belive me? Go ahead, and try to kill.)FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ii]LB[ge:T]C[Black passes, localy - He tenukis - Plays elsewhere. By this, move, white gives, away a point. But more importent - He gives away the sente! ('T' at G5)];B[ge]LB[ge:T]C['T' stand for tenuki.FORCE]
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[if]C[Is this a joke?])
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)]))
+(;W[if]C[Is this a joke?])))
+(;W[if]LB[ih:o]LB[fi:o]C[2 locations, can give life.]
+(;B[fi]LB[ih:B]LB[hi:A]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.) CHOICE])
+(;B[ih]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes. Don't belive me? Go ahead, and try to kill.)FORCE]
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[ii]LB[ge:T]C[Black passes, localy - He tenukis - Plays elsewhere. By this, move, white gives, away a point. But more importent - He gives away the sente! ('T' at G5)];B[ge]LB[ge:T]C['T' stand for tenuki.FORCE]
+(;W[fi];B[fh]LB[gi:A]LB[hi:B]C[Black has 2 eyes, hence it's alive. (White can't deny him from having 2 eyes, as to do so, he needs to play both at 'A' and 'B' - They're miai.)])
+(;W[gi];B[hi]LB[fh:1]LB[fi:1]LB[gi:1]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[hi]LB[fi:o]LB[gi:o]C[2 locations, can give life.]
+(;B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE])
+(;B[gi]LB[fh:1]LB[fi:1]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.) CHOICE]))
+(;W[fh];B[fi]LB[fh:1]LB[gi:2]LB[hi:2]LB[ii:2]C[Black is alive. (2 eyes.)])
+(;W[ig]C[Is this a joke?]))
+(;W[ig]C[Is this a joke?])))
+(;W[ge]LB[ba:o]LB[ca:o]LB[da:o]LB[ab:o]C[Obviously, wrong. Black can kill in 4 ways.]
+(;B[ab]LB[ba:A]LB[da:B]C[White's dead. ('A' and 'B' are miai.) CHOICE])
+(;B[ba]LB[ca:B]LB[da:C]LB[ab:A]C[White's dead. ('A' and 'B'/'C' are miai.) CHOICE])
+(;B[ca]LB[ba:B]LB[da:C]LB[ab:A]LB[db:D]C[White's dead. ('A','D' or 'A','B' or 'B','D' or 'B','C' are miai.) CHOICE])
+(;B[da]LB[ba:B]LB[ab:A]LB[db:C]C[White's dead. ('A','C' or 'B','C' are miai.) CHOICE])))

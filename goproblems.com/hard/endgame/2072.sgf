@@ -1,0 +1,1291 @@
+(;GE[endgame]DI[6d]DP[1]SO[Spica]CO[7]FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[temp]
+
+AB[os][dj][di][iq][kq][gq][hr][fr][ko][lp][io][ln][lm][im][jl]
+[hm][gm][fo][dm][co][cn][bm][en][np][qp][pq][jk][kj][ki][ml]
+[pj][oi][mj][kh][nj][ph][pg][qe][pd][od][oc][ob][lb][mb][le]
+[nc][qb][kd][je][jg][ig][if][ji][pm][pi][nl][nn][mf][an][gf]
+[hf][gd][ef][af][bf][cf][ce][dc][dd][db][bc][cd][cg][da][ib]
+[lr][mr][ir][jq][fn][ic][de][id][jh][ge][ie][mc][ik][hl][qg]
+[ro][qo][cm][sp][qm][pn][sf][qf][po][pk][or][so][sj][rd][sd]
+[ol][rf][fg][gh][al][bk][gr][gn][mn][ac][jo][kn][nk][lg][mg]
+[lf][ke][fb][fa][ii][hn][fe][he][pf][rp]AW[sq][ci][cj][hg][dr][fq]
+[gp][go][hq][ip][jp][kp][jn][in][ep][kl][km][cq][cp][bo][bn]
+[ap][ll][qn][qq][rr][rq][qk][hk][lj][ql][qj][li][lh][mi]
+[ni][oh][og][of][pe][qd][pb][oe][ng][md][lc][ld][nd][me][jd]
+[jc][kb][rb][qh][rh][ri][rk][sh][ij][bq][er][gi][fl][hc][eh]
+[dk][el][gc][ch][bb][cc][bd][ai][ed][ee][ab][cb][ec][bg][ag]
+[ei][ea][eb][ca][hb][ga][mm][mo][lq][eo][ka][jb][fd][ia][ih]
+[hd][bl][jm][gk][qc][la][rn][hi][ej][eg][dl][gl][cl][om][nm]
+[rm][pl][pr][qs][rc][sc][sa][ma][ja][fh][bj][fp][hh][kk][lk]
+[mk][ho][kf][kc][ne][nf][nh][mh][pa][fc][ha][oa][nb]TR[nb]LB[aa:a]
+[ad:b][be:c][bh:d][do:e][ps:f][sm:g]C[The middle game is just ending as the status of the last couple groups is being decided and black is aiming to get the best of the big endgame plays. White has just taken the ko with the triangled stone. Please choose one of the lettered points (a-g)  to play as a ko-threat.]
+
+(;B[bh]
+(;W[pc]
+(;B[ah]
+(;W[sn]
+(;B[ps]
+(;W[ss];B[qr];W[hj];B[jj];W[pr]
+(;B[sl];W[sk];B[qr];W[gg];B[ff];W[pr]
+(;B[rl];W[sm];B[qr];W[dg];B[df];W[pr]
+(;B[ad];W[ae];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than black playing at B15]
+)
+(;B[rl];W[qr];B[sl];W[rm]C[this line is 7 pts worse for black than the correct sequence]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[this line is 7 pts worse for black than the correct sequence]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2pts worse than B15])
+(;B[rl];W[qr];B[sl];W[rm]C[this is 7 pts worse for black than the correct sequence]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[this is 7 pts worse for black than the correct line]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[rl];W[qr];B[sl];W[rm])
+(;B[sl];W[qr];B[rl];W[rm])
+(;B[be];W[ad];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats.])
+(;B[on];W[pr]C[black has run out of large enough threats]))
+(;B[ae];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[aa];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats]))
+(;B[ba];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[sm];W[rl];B[qr];W[dg];B[df];W[pr]
+(;B[ad];W[ae];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is two points worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[ae];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[aa];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[ba];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[ad];W[ae];B[qr];W[dg];B[df];W[pr]
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[rl];W[qr];B[sl];W[rm]C[although black can now take H4 this is at least 7 pts less than the corner (with white getting H4)]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[although black can now get H4 this is worth at least 7 pts less than the corner (with white getting H4)]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[rl];W[qr];B[sl];W[rm]C[although black can now get S6 then H4 this combination is worth at least 7 pts less than taking the corner (with white taking H4)]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[although black can now take S6 then H4 this combination is worth at least 7pts less than black taking the corner (while white takes H4)]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]TR[oj][ok]MA[rl][sm]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later. If he replies he loses the ko (see marked threats remaining).]
+)))
+(;B[be];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large enough threats.])
+(;B[on];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[ae];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[aa];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[ba];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))))
+(;B[ad];W[ae];B[qr];W[gg];B[ff];W[pr]
+(;B[be];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[ac];W[bc];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[sl];W[sk];B[qr]C[white has run out of threats. RIGHT])
+(;B[sk];W[qr];B[sl];W[rl])
+(;B[rl];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[sl];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[sl];W[sk];B[qr]C[white has run out of threats. RIGHT])
+(;B[sk];W[qr];B[sl];W[rl])
+(;B[rl];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[sl];B[qr]C[white has run out of threats. RIGHT])))
+(;B[bc];W[ac];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[sl];W[sk];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sk];W[qr];B[sl];W[rl]))
+(;B[ok];W[pr]
+(;B[sl];W[sk];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[sl];B[qr]C[white has run out of threats. RIGHT])
+(;B[sk];W[qr];B[sl];W[rl])))
+(;B[sl];W[sk];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[sk];W[qr];B[sl];W[rl]))
+(;B[ad];W[ac];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[qr]
+(;B[oq];W[ad])
+(;B[hp];W[ad])
+(;B[sl];W[rl]C[wasted threat])
+(;B[rl];W[sl]C[wasted threat])
+(;B[sm];W[sl]C[wasted threat])
+(;B[sk];W[sl]C[wasted threat])
+(;B[ad];W[oq]TR[oj]MA[sl]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later. If he replies he loses the ko (see marked threats remaining).]
+))
+(;B[sl];W[sk];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr]
+(;B[oq];W[ad])
+(;B[hp];W[ad])
+(;B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ok];W[pr];B[be];W[qr]
+(;B[oq];W[ad])
+(;B[hp];W[ad])
+(;B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr]
+(;B[oq];W[ad])
+(;B[hp];W[ad])
+(;B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ok];W[pr];B[be];W[ad];B[qr]C[white has run out of threats. RIGHT]
+))
+(;B[sk];W[qr];B[sl];W[rl]))
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[rl];W[qr];B[sl];W[rm]C[even though black can get H4 this is at least 7 pts worse than getting the corner (while white gets H4)]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[if black gets H4 now this is still at least 7 pts worse than getting the corner (while white gets H4)]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[rl];W[qr];B[sl];W[rm]C[if black next takes H4 this is stil at least 7 pts worse than getting the corner (while white takes H4)]
+)
+(;B[sl];W[qr];B[rl];W[rm]C[if black gets H4 next this is still at least 7 pts worse than black getting the corner (while white gets H4)]
+)
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[ad];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))))
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[be];W[ad];B[qr]C[white has run out of threats. RIGHT])
+(;B[rl];W[sm];B[qr]C[white has run out of threats. RIGHT])
+(;B[sm];W[rl];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oq]TR[oj][ok]MA[rl][sm]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later. If he replies he loses the ko (see marked threats remaining).]
+)))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)
+(;B[ok];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oj]
+(;B[on];W[ae]C[black has run out of large threats])
+(;B[ok];W[ae]C[black has run out of large threats]))))
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)
+(;B[ok];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ac];W[be]C[this is 2 pts worse than B15])
+(;B[bc];W[qr]
+(;B[oq];W[hp];B[be];W[ac];B[ad];W[oj]
+(;B[on];W[ae]C[black has no large threats])
+(;B[ok];W[ae]C[black has no large threats]))
+(;B[hp];W[ac])
+(;B[be];W[ac];B[ad];W[oj]
+(;B[on];W[ae]C[black has run out of large threats])
+(;B[ok];W[ae]C[black has run out of large threats]))))
+(;B[sk];W[qr];B[sl];W[rl])
+(;B[bc];W[qr]
+(;B[oq];W[ac])
+(;B[hp];W[ac])
+(;B[sl];W[rl]C[wasted threat])
+(;B[be];W[ac];B[ad];W[dg];B[df];W[ae]
+(;B[sl];W[rl];B[ad];W[oj]
+(;B[on];W[ae]C[black is out of large threats])
+(;B[ok];W[ae]C[black is out of large threats]))
+(;B[rl];W[sl];B[ad];W[oj]
+(;B[ok];W[ae]C[black is out of large threats])
+(;B[on];W[ae]C[black is out of large threats]))
+(;B[sm];W[sl];B[ad];W[oj]
+(;B[on];W[ae]C[black is out of large threats])
+(;B[ok];W[ae]C[black is out of large threats]))
+(;B[sk];W[sl];B[ad];W[oj]
+(;B[on];W[ae]C[black is out of large threats])
+(;B[ok];W[ae]C[black is out of large threats])))))
+(;B[sm];W[sl];B[qr];W[gg];B[ff];W[pr]
+(;B[ad];W[ae];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)
+(;B[ok];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ac];W[be]C[this is 2 pts worse than B15]
+)
+(;B[bc];W[qr];B[be];W[ac];B[ad];W[oj]
+(;B[on];W[ae]C[black has run out of large threats])
+(;B[ok];W[ae]C[black has run out of large threats])))
+(;B[be];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[ae];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[aa];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[ba];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+))
+(;B[rl];W[sl];B[qr];W[gg];B[ff];W[pr]
+(;B[ad];W[ae];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT]))
+(;B[ok];W[pr]
+(;B[ac];W[bc];B[qr]C[white has run out of threats. RIGHT])
+(;B[bc];W[ac];B[qr]C[white has run out of threats. RIGHT])))
+(;B[ad];W[ac];B[qr];W[oj]
+(;B[on];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+)
+(;B[ok];W[pr];B[be];W[qr];B[ad];W[oq]C[black must end the ko since this threat is too small but black loses too much here even if he gets H4 later.]
+))
+(;B[ac];W[be]C[this is 2 pts worse than B15]
+)
+(;B[bc];W[qr];B[be];W[ac];B[ad];W[oj]
+(;B[on];W[ae]C[black has run out of large threats])
+(;B[ok];W[ae]C[black has run out of large threats])))
+(;B[be];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[ae];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[aa];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[ba];W[ad];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+))
+(;B[sk];W[qr];B[sl];W[rl])
+(;B[be];W[ad];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+))
+(;B[ae];W[ad];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large enough threats.])
+(;B[on];W[pr]C[black has run out of large enough threats.])))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+))
+(;B[aa];W[ad];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+))
+(;B[ba];W[ad];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.]))
+(;B[sm];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large enough threats.])
+(;B[ok];W[pr]C[black has run out of large enough threats.])))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large enough threats.]
+)))
+(;W[qr];B[ss];W[oq];B[nq]C[dead]))
+(;B[ss];W[ps])
+(;B[ad];W[ae]C[black needs these ko-threats])
+(;B[be];W[ad]C[black needs these ko-threats])
+(;B[ae];W[ad]C[black needs these ko-threats])
+(;B[aa];W[ad]C[black needs these ko-threats])
+(;B[ba];W[ad]C[black needs these ko-threats])
+(;B[sl];W[rl]C[black needs these ko-threats])
+(;B[sk];W[ps];B[sl];W[rl])
+(;B[rl];W[sl]C[black needs these ko-threats])
+(;B[sm];W[sl]C[black needs these ko-threats])
+(;B[hp];W[ps]))
+(;W[sl];B[sn];W[sm];B[sk]C[dead])
+(;W[sm];B[sk];W[sl];B[sn]C[dead])
+(;W[sk];B[sm]C[dead]))
+(;B[aj]C[This gives white two extra ko-threats at B11 and then B13 which is important later.]
+))
+(;W[ah];B[na];W[gb];B[fa];W[nb];B[ad];W[pc];B[be];W[sn];B[ps]
+;W[ss];B[qr];W[oj];B[on];W[pr];B[sl];W[sk];B[qr];W[gg];B[ff]
+;W[pr];B[rl];W[sm];B[qr];W[dg];B[df];W[pr]
+(;B[aj]
+(;W[bi];B[qr];W[hj];B[jj];W[pr];B[rl];W[qr];B[sl];W[rm];B[rn]
+;W[sm];B[hp]MA[aa][ba][ca][cb][bb][ab][ac][bc][cc][cd][bd][ad]
+[ae][be][ce][ag][bg][cg][ch][bh][ah][ai][bi][ci][cj][bj][aj]
+[ak][bk][ck][op][oq][or][os][ps][pr][pq][pp][qp][qq][qr][qs]
+[rs][rr][rq][rp][sp][sq][sr][ss][qh][rh][sh][si][ri][qi][qj]
+[rj][sj][sk][rk][qk][ql][rl][sl][sm][rm][qm][qn][rn][sn][hp]
+[hq][ip][iq][jp][jq][kp][kq][al][bl][cl]C[after this variation   =>   
+white has sente,   score in marked regions is
+B+29   (white has P3, C9 plays at some time)  -  
+W+14   -->
+   black has  B-W = 15 - some aji - sente.
+ With the correct solution   =>   
+white has sente and can use H4 as an ineffective ko-threat,   
+B+21,   W+15   -->   
+black has  B-W = 6 - sente.      
+
+So white is correct to take immediately - the largest points left after H4 seem to be 4 points gote.]
+)
+(;W[qr];B[bi];W[hp]MA[aa][ba][ca][bb][ab][cb][cc][bc][ac][ad]
+[bd][cd][ce][be][ae][ag][bg][cg][ch][bh][ah][ai][ci][bi][cj]
+[bj][aj][hp][hq][ip][iq][jp][jq][kp][kq][op][pp][qp][rp][sp]
+[sq][rq][qq][pq][oq][or][pr][qr][rr][sr][ss][rs][qs][ps][os]
+[qh][rh][sh][si][ri][qi][qj][rj][sj][sk][rk][qk][ql][rl][sl]
+[sm][rm][qm][qn][rn][sn]C[after this variation   =>   
+black has sente,   score in marked regions is
+B+23   (white has P3 play at some time)  -  
+W+10   -->
+   black has  B-W = 13 - some aji + sente.
+ With the correct solution   =>   
+white has sente and can use H4 as an ineffective ko-threat,   
+B+21,   W+15   -->   
+black has  B-W = 6 - sente.      
+
+So white is correct to take immediately - the largest points left after H4 seem to be 4 points gote.]
+))
+(;B[rl]
+(;W[qr];B[sl];W[rm];B[rn];W[sm];B[hp]MA[aa][ba][ca][cb][bb]
+[ab][ac][bc][cc][cd][bd][ad][ae][be][ce][ag][bg][cg][ch][bh]
+[ah][ai][bi][ci][cj][bj][aj][ak][bk][ck][hp][hq][ip][iq][jp]
+[jq][kp][kq][op][oq][or][os][ps][pr][pq][pp][qp][qq][qr][qs]
+[rs][rr][rq][rp][sp][sq][sr][ss][qh][rh][sh][si][ri][qi][qj]
+[rj][sj][sk][rk][qk][ql][rl][sl][sm][rm][qm][qn][rn][sn]C[after this variation   =>   
+white has sente,   score in marked regions is
+B+29   (white has P3 play at some time)  -  
+W+15   -->
+   black has  B-W = 14 - some aji - sente.
+ With the correct solution   =>   
+white has sente and can use H4 as an ineffective ko-threat,   
+B+21,   W+15   -->   
+black has  B-W = 6 - sente.      
+
+So white is correct to take immediately - the largest points left after H4 seem to be 4 points gote.]
+)
+(;W[sl];B[qr];W[hj];B[jj];W[pr];B[aj];W[qr];B[bi];W[hp]MA[aa]
+[ba][ca][cb][bb][ab][ac][bc][cc][cd][bd][ad][ae][be][ce][cg]
+[bg][ag][ah][bh][ch][ci][bi][ai][aj][bj][cj][ck][bk][ak][hp]
+[hq][ip][iq][jp][jq][kp][kq][op][pp][qp][rp][sp][sq][rq][qq]
+[pq][oq][or][pr][rr][qr][sr][ss][rs][qs][ps][os][qh][rh][sh]
+[si][ri][qi][qj][rj][sj][sk][rk][qk][ql][rl][sl][sm][rm][qm]
+[qn][rn][sn]C[after this variation   =>   
+black has sente,   score in marked regions is
+B+23   (white has P3 play at some time)  -  
+W+10   -->
+   black has  B-W = 13 - some aji + sente.
+ With the correct solution   =>   
+white has sente and can use H4 as an ineffective ko-threat,   
+B+21,   W+15   -->   
+black has  B-W = 6 - sente.      
+
+So white is correct to take immediately - the largest points left after H4 seem to be 4 points gote.]
+))
+(;B[hp];W[qr]MA[aa][ba][ca][cb][bb][ab][ac][bc][cc][cd][bd]
+[ad][ae][be][ce][ag][bg][cg][ch][ah][bh][ai][bi][ci][cj][bj]
+[aj][ak][bk][ck][hp][hq][ip][iq][jp][jq][kp][kq][op][pp][qp]
+[rp][sp][sq][rq][qq][pq][oq][or][pr][qr][rr][sr][ss][rs][qs]
+[ps][os][qh][rh][sh][si][ri][qi][qj][rj][sj][sk][rk][qk][ql]
+[rl][sl][sm][rm][qm][qn][rn][sn]C[after this variation   =>   
+black has sente,   score in marked regions is
+B+23   (white has P3 play at some time)  -  
+W+13   -->
+   black has  B-W = 10 - some aji + sente.
+ With the correct solution   =>   
+white has sente and can use H4 as an ineffective ko-threat,   
+B+21,   W+15   -->   
+black has  B-W = 6 - sente.      
+
+So white is correct to take immediately - the largest points left after H4 seem to be 4 points gote.]
+)))
+(;B[ps];W[pc]C[This is far too small, black needs a local threat since the entire left side is now dead.]
+)
+(;B[sm];W[pc]C[Black needs a local threat to save the left side group. This move also kills unconditionally so white  would be wrong to reply.]
+)
+(;B[do];W[pc]C[Black can now play E7 to live on the left but this isn't quite as big as B12 which white would also have to ignore since black has larger threats to follow. The ko at the top is enormous and white has only one local threat.]
+)
+(;B[be];W[ad];B[na];W[gb]LB[fa:a]C[please play at 'a'];B[fa]
+;W[nb]LB[bh:a][do:b][ps:c][sm:d]C[please choose a ko-threat from a-d]
+
+(;B[do];W[pc]C[smaller than living with B12])
+(;B[bh];W[pc];B[ah];W[sn]
+(;B[sl];W[sk]C[this wastes a ko-threat])
+(;B[rl];W[sl]C[this wastes a ko-threat])
+(;B[sm];W[sl]C[this wastes a ko-threat])
+(;B[sk];W[sl]C[this wastes a ko-threat])
+(;B[ps];W[ss];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[hj];B[jj];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sm];W[rl];B[qr];W[hj];B[jj];W[pr]C[black has run out of large ko-threats]
+))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+))
+(;B[ss];W[ps])
+(;B[hp];W[ps]))
+(;B[ps];W[pc]C[This is far too small, black needs a local ko-threat to save the large group on the left.]
+)
+(;B[sm];W[pc]C[This is too small, black needs a local threat to save the large group on the left. This move also kills white unconditionally so white would be wrong to respond now.]
+))
+(;B[aa];W[ad];B[na];W[gb]LB[fa:a]C[please play at 'a'];B[fa]
+;W[nb]LB[bh:a][do:b][ps:c][sm:d]C[please choose between a-d for a ko-threat]
+
+(;B[do]C[white must ignore this threat so the larger play at B12 is better]
+)
+(;B[bh];W[pc];B[ah];W[sn]
+(;B[sl];W[sk]C[this wastes a ko-threat])
+(;B[sk];W[sl]C[this wastes a ko-threat])
+(;B[rl];W[sl]C[this wastes a ko-threat])
+(;B[sm];W[sl]C[this wastes a ko-threat])
+(;B[hp];W[ps])
+(;B[ps];W[ss];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[sk];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sm];B[qr];W[hj];B[jj];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sm];W[rl];B[qr];W[hj];B[jj];W[pr]C[black has run out of large ko-threats]
+))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+)
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large ko-threats]
+))
+(;B[ss];W[ps]))
+(;B[ps];W[pc]C[This move was far too small, black needs a local ko-threat on the left to save the large group there.]
+)
+(;B[sm];W[pc]C[This move was far too small since black needed a local threat on the left to save the large group there. This move also kills the white stones unconditionally so white would be wrong to respond now.]
+))
+(;B[ad];W[ae];B[na];W[gb]LB[fa:a]C[please play at 'a'];B[fa]
+;W[nb]LB[ac:a][ad:b][be:c][bh:d][do:e]C[please choose a ko-threat from a-e]
+
+(;B[do]C[white must finish the ko this time so black has a free move and a follow-up. B12 is clearly worth more (capturing 2 stones with the follow-up), other moves are more complicated.]
+)
+(;B[bh];W[pc];B[ah];W[sn]
+(;B[be];W[ad]C[this wastes a ko-threat])
+(;B[ad];W[ac]C[this wastes a ko-threat])
+(;B[ac];W[bc]C[a ko-threat wasted])
+(;B[hp];W[ps])
+(;B[sl];W[sk]C[a wasted ko-threat])
+(;B[sk];W[sl]C[a wasted ko-threat])
+(;B[rl];W[sl]C[a wasted ko-threat])
+(;B[sm];W[sl]C[a wasted ko-threat])
+(;B[ps];W[ss];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[rl];B[qr];W[dg];B[df];W[pr]
+(;B[sk]C[this creates seki but isn't a ko-threat])
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[ac];W[bc];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sk]C[this creates a seki but isn't a ko-threat]))
+(;B[ad];W[ac];B[qr];W[hj];B[jj];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sk]C[this creates a seki but isn't a ko-threat]))
+(;B[ac];W[bc];B[qr];W[hj];B[jj];W[pr]
+(;B[be];W[ad];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sk]C[this creates a seki but isn't a ko-threat]))
+(;B[bc];W[ac];B[qr];W[hj];B[jj];W[pr]
+(;B[sk]C[this creates a seki but isn't a ko-threat])
+(;B[be];W[ad];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))))
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[ac];W[bc];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[ad];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[ac];W[bc];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats])))
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[ac];W[bc];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[ad];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[ac];W[bc];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats])))
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[ac];W[bc];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[ad];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[ac];W[bc];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[bc];W[ac];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats])))
+(;B[be];W[ad];B[qr];W[dg];B[df];W[pr]
+(;B[ac];W[bc];B[qr];W[hj];B[jj];W[pr]
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[bc];W[ac];B[qr];W[hj];B[jj];W[pr]
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))))
+(;B[ad];W[ac];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[sk];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[ac];W[bc];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[sk];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sl];W[rl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[rl];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats]))
+(;B[sm];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[on];W[pr]C[black has run out of large ko-threats])
+(;B[ok];W[pr]C[black has run out of large ko-threats])))
+(;B[bc];W[ac];B[qr];W[dg];B[df];W[pr]
+(;B[be];W[ad];B[qr];W[hj];B[jj];W[pr]
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats])))
+(;B[rl];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sm];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sl];W[rl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sk];W[sl];B[qr];W[hj];B[jj];W[pr];B[be];W[ad];B[qr];W[oj]
+
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))))
+(;B[bc];W[ac]C[this wastes a ko-threat]))
+(;B[be];W[dg]
+(;B[na];W[df])
+(;B[df];W[ff])
+(;B[ad];W[df];B[bc];W[pc]))
+(;B[ad];W[pc]
+(;B[be];W[ac]C[Take the ko once or connect immediately?]
+(;B[ae];W[dg]
+(;B[bc];W[df])
+(;B[df];W[ff]))
+(;B[bc];W[hj];B[jj];W[bd]
+(;B[ae];W[dg];B[bc];W[df])
+(;B[do];W[dg]
+(;B[df];W[ae]
+(;B[ff];W[ad];B[em];W[sn]
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[sl];W[rl]C[the wasted threat means black now loses the ko in the corner although he can make seki at T9]
+)
+(;B[rl];W[sl]C[black loses the ko in the corner after wasting this threat]
+)
+(;B[sm];W[sl]C[black loses the ko in the corner after wasting this threat]
+)
+(;B[sk];W[sl]C[black loses the ko in the corner after destroying the ko threat here]
+))
+(;B[em];W[ff]
+(;B[sm];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr]
+(;B[dp];W[eq];B[qr];W[oj]
+(;B[on];W[pr]C[black has no large threats left])
+(;B[ok];W[pr]C[black has no large threats left]))
+(;B[eq];W[dp]C[this loses at least 3 pts over D4 and white will still win the ko]
+))
+(;B[sn];W[hp];B[ps];W[ss];B[qr];W[sm]
+(;B[sl]C[this allows white a seki])
+(;B[sk];W[pr]
+(;B[dp];W[eq];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[eq];W[dp]C[this is 3 pts worse than D4, but white wins the ko either way]
+))
+(;B[rl];W[pr]
+(;B[dp];W[eq];B[qr];W[sl];B[sk];W[pr]C[black has no large threats left]
+)
+(;B[eq];W[dp]C[this loses at least 3 pts over D4 and white will still win the ko]
+)))
+(;B[sl];W[rl]
+(;B[ps];W[hp]C[white would lose the ko in the corner, black can get a gote seki at T9]
+)
+(;B[sk];W[ps])
+(;B[sn];W[sm]C[this wastes a ko-threat]))
+(;B[sk];W[sn]
+(;B[sl];W[rl];B[ps];W[ss];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[qi];W[rj];B[qr];W[hp]C[white loses the ko but the loss in the to left was too much for black]
+)
+(;B[rj];W[qi]C[destroys the seki and loses 8 pts, R11 was better]
+))
+(;B[ok];W[pr]
+(;B[qi];W[rj];B[qr];W[hp]C[white loses the ko but the loss in the top left was too much for black]
+)
+(;B[rj];W[qi]C[this destroys the seki and loses 8 pts, R11 was better]
+)))
+(;B[ps];W[ss];B[qr];W[sl]C[white will also get H4 while black kills the corner. white couldn't win the ko and would end up in seki on the right if he tried.]
+))
+(;B[rl];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr]
+(;B[dp];W[eq];B[qr];W[sm];B[sk];W[pr]C[white wins the ko])
+(;B[eq];W[dp]C[this is 3 pts worse than D4, white will still win the ko]
+))
+(;B[ps];W[sn]))
+(;B[sm];W[em];B[ad];W[oj]
+(;B[ok];W[ae]C[black has no ko-threat big enough])
+(;B[on];W[ae]C[black has no ko-threat big enough])
+(;B[bc];W[ok]C[black still needs another move on the left])))
+(;B[em];W[df]
+(;B[bc];W[sn];B[aa];W[bd]
+(;B[sl];W[rl];B[bc];W[oj]C[black can't get a good result])
+(;B[ps];W[ae]))
+(;B[sm];W[ae];B[ps];W[ss];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[ps];W[sn]
+(;B[ss];W[ae])
+(;B[qr];W[ae])
+(;B[bc];W[oj]C[black can't get a good result from this approach ko he only has one large threat against the S9 group]
+))))
+(;B[df];W[ae]
+(;B[do];W[ad];B[em];W[sn];B[ps];W[ss];B[qr];W[dg];B[ff];W[pr]
+
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats.])
+(;B[ok];W[pr]C[black has run out of large threats.]))
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats.])
+(;B[ok];W[pr]C[black has run out of large threats.]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats.])
+(;B[ok];W[pr]C[black has run out of large threats.]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats.])
+(;B[ok];W[pr]C[black has run out of large threats.])))
+(;B[bh];W[ad];B[ah];W[sn]
+(;B[sl];W[rl]C[wasting a ko-threat])
+(;B[sk];W[sl]C[wasting a ko-threat])
+(;B[rl];W[sl]C[wasting a ko-threat])
+(;B[sm];W[sl]C[wasting a ko-threat])
+(;B[ps];W[ss];B[qr];W[gg];B[ff];W[pr]
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats.]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats.])
+(;B[on];W[pr]C[black has run out of large threats.]))
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats.])
+(;B[on];W[pr]C[black has run out of large threats.])))
+(;B[hp];W[ps])))
+(;B[ff];W[ae]
+(;B[do];W[ad];B[em];W[sn];B[ps];W[ss];B[qr];W[oj]
+(;B[on];W[pr]
+(;B[sl];W[sk];B[qr];W[df];B[dg];W[pr]
+(;B[rl];W[sm];B[qr];W[dh];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[sm];W[rl];B[qr];W[dh];B[df];W[pr]C[black has run out of large threats]
+))
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+))
+(;B[ok];W[pr]
+(;B[sl];W[sk];B[qr];W[df];B[dg];W[pr]
+(;B[rl];W[sm];B[qr];W[dh];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[sm];W[rl];B[qr];W[dh];B[df];W[pr]C[black has run out of large threats]
+))
+(;B[sk];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[rl];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+)
+(;B[sm];W[sl];B[qr];W[dg];B[df];W[pr]C[black has run out of large threats]
+)))
+(;B[bh];W[ad];B[ah];W[sn]
+(;B[hp];W[ps])
+(;B[sl];W[sk]C[this wastes a ko threat])
+(;B[sk];W[sl]C[this wastes a ko threat])
+(;B[rl];W[sl]C[this wastes a ko threat])
+(;B[sm];W[sl]C[this wastes a ko threat])
+(;B[ps];W[ss];B[qr];W[dg];B[df];W[pr]
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats]))
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats])
+(;B[on];W[pr]C[black has run out of large threats])))))
+(;B[bh];W[ah];B[bc];W[dg];B[df];W[bd]
+(;B[aj];W[bi];B[bc];W[oj]
+(;B[on];W[bd]
+(;B[do];W[ae]
+(;B[em];W[ff]
+(;B[sm];W[ps];B[hp]C[black lost too much in the top left])
+(;B[sn];W[ps];B[hp]C[black lost too much in the top left])
+(;B[sl]C[this allows white a seki at R8])
+(;B[rl];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr]
+(;B[dp];W[eq];B[qr];W[sm];B[sk];W[pr]C[black is out of large threats]
+)
+(;B[eq];W[dp]C[this is 3 pts worse than black D4, but white wins the ko either way]
+))
+(;B[sk]C[this allows white a seki at T6])
+(;B[ps];W[sn])
+(;B[hp];W[sn]))
+(;B[ff]
+(;W[ad];B[em];W[sn];B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;W[em]C[this produces an approach ko for white but he has no ko threats]
+))
+(;B[sm];W[em];B[ad];W[gg]C[black has no large ko-threat, he will lose all the left side]
+))
+(;B[ff];W[ae];B[do];W[ad];B[em];W[sn]
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[sl];W[sk]C[this wastes a ko-threat, black should play Q1 immediately]
+)
+(;B[hp];W[ps])))
+(;B[ok];W[bd]
+(;B[do];W[ae]
+(;B[ff];W[ad];B[em];W[sn];B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[em];W[ff]
+(;B[sm];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr]
+(;B[dp];W[eq];B[qr];W[on]
+(;B[oo];W[pr]C[black has run out of large threats])
+(;B[rl];W[pr]C[black has run out of large threats])
+(;B[pr];W[oo]
+(;B[rl];W[no])
+(;B[pp];W[no]))
+(;B[rs];W[oo]
+(;B[rl];W[no])
+(;B[pp];W[no])))
+(;B[eq];W[dp]C[this is 3 pts worse than black D4, but white wins the ko either way]
+))
+(;B[sn];W[hp];B[ps];W[ss];B[qr];W[sm]
+(;B[rl]C[at T9 gives white one less ko-threat but white will still win this ko]
+)
+(;B[sl]C[white can get a seki])
+(;B[sk];W[pr]
+(;B[dp];W[eq];B[qr];W[on]
+(;B[oo];W[pr]C[black has run out of large threats])
+(;B[pr];W[oo];B[pp];W[no])
+(;B[rs];W[oo];B[pp];W[no]))
+(;B[eq];W[dp]C[black at D4 is 3 pts better but white will win the ko either way]
+)))
+(;B[sl]C[white can get a seki at R8])
+(;B[sk]C[white can get a seki at T6])
+(;B[rl]C[this gives white one more ko threat than T6/T7])
+(;B[hp];W[sn])
+(;B[ps];W[sn]))
+(;B[sm];W[em];B[ad];W[gg]C[black can't win here everything dies on the left]
+))
+(;B[ff];W[ae];B[do];W[ad];B[em];W[sn]
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[sl];W[sk]C[this wastes a ko-threat, black should play Q1 immediately]
+)
+(;B[hp];W[ps]))))
+(;B[do];W[ae]
+(;B[em];W[ff]
+(;B[sm];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr];B[dp];W[eq]
+;B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[sn];W[hp];B[ps];W[ss];B[qr];W[sm]
+(;B[sl]C[this gives white the chance of a seki after she has won the ko]
+)
+(;B[sk];W[pr]
+(;B[dp];W[eq];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[eq];W[dp]C[this is 3 pts worse than D4, white will still win the ko]
+))
+(;B[rl];W[pr]
+(;B[dp];W[eq];B[qr];W[sl];B[sk];W[pr]C[black has run out of large threats]
+)
+(;B[eq];W[dp]C[D4 is 3 pts better but white will still win the ko]
+)))
+(;B[ps];W[sn])
+(;B[sl];W[rl]
+(;B[sk];W[ps])
+(;B[sn];W[sm]C[this wastes a ko-threat])
+(;B[ps];W[hp]C[black can get a seki at T9 and win the ko but the loss in the top left was too much]
+)
+(;B[hp];W[ps]))
+(;B[sk];W[sn]
+(;B[sl];W[rl]C[this wastes a ko-threat, but the loss in the top left was too much anyway]
+)
+(;B[ps];W[hp]C[black can get a seki at T8 and win the ko but the loss in the top left was too much]
+)
+(;B[hp];W[ps]))
+(;B[rl];W[hp];B[ps];W[ss];B[qr];W[sl];B[sn];W[pr]
+(;B[dp];W[eq];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]))
+(;B[eq];W[dp]C[this is 3 pts worse than D4 but white will win the ko either way]
+))
+(;B[hp];W[sn];B[ps];W[ss]C[black will win the ko but the loss in the top left was too much]
+))
+(;B[ff];W[ad];B[em];W[sn];B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+))
+(;B[ff];W[ae]
+(;B[do];W[ad];B[em];W[sn]
+(;B[sl];W[rl]C[this wastes a ko threat, white lives in he corner]
+)
+(;B[sk];W[sl]C[this wastes a ko threat, white lives in he corner]
+)
+(;B[rl];W[sl]C[this wastes a ko threat, white lives in he corner]
+)
+(;B[sm];W[sl]C[this wastes a ko threat, white lives in he corner]
+)
+(;B[hp];W[ps])
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+))
+(;B[aj];W[bi];B[ad];W[oj]
+(;B[on];W[ae];B[do];W[ad];B[em];W[sn]
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[sl];W[sk]C[this wastes a ko-threat black should play Q1 immediately]
+)
+(;B[hp];W[ps]))
+(;B[ok];W[ae];B[do];W[ad];B[em];W[sn]
+(;B[ps];W[ss];B[qr]C[black wins the ko but this is about 2-5 pts worse for black than the correct solution where black has his eye at A13/B13 rather than D6 depending on future play near D4 and exactly which stones have been played around white's D9 group.]
+)
+(;B[sl];W[sk]C[this wastes a ko-threat, black should play Q1 immediately]
+)
+(;B[hp];W[ps])))))
+(;B[sm];W[dg];B[df];W[ae]
+(;B[ff];W[ad])
+(;B[do];W[em];B[ad];W[oj]
+(;B[bc];W[ok])
+(;B[on];W[ae]C[black doesn't have a large enough ko-threat]
+)
+(;B[ok];W[ae]C[black doesn't have a large enough ko threat]
+)))
+(;B[dg];W[ae]
+(;B[do];W[ad];B[em];W[sn]
+(;B[ps];W[dh])
+(;B[ff];W[ps]))
+(;B[bh];W[ad];B[ah];W[sn];B[ps];W[ss];B[qr];W[gg]
+(;B[pr];W[ff]
+(;B[aj];W[bi];B[fg];W[bg];B[ag];W[ff];B[dh];W[ck];B[fg];W[oj]
+
+(;B[ok];W[ff];B[sl];W[fg])
+(;B[on];W[ff];B[sl];W[fg])
+(;B[ff];W[ok]))
+(;B[dh];W[aj];B[fg];W[oj]
+(;B[ok];W[ff];B[sl];W[fg])
+(;B[on];W[ff];B[sl];W[fg])))
+(;B[ff];W[pr]
+(;B[sl];W[rl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats])
+(;B[ok];W[pr]C[black has run out of large threats]
+))
+(;B[rl];W[sl];B[qr];W[oj]
+(;B[on];W[pr]C[black has run out of large threats.])
+(;B[ok];W[pr]C[black has run out of large threats.]))
+(;B[sm];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats.])
+(;B[on];W[pr]C[black has run out of large threats.]))
+(;B[sk];W[sl];B[qr];W[oj]
+(;B[ok];W[pr]C[black has run out of large threats.])
+(;B[on];W[pr]C[black has run out of large threats.])))))
+(;B[aa];W[dg]
+(;B[df];W[ae]
+(;B[do];W[ff];B[em];W[sn];B[ps];W[ss];B[qr]C[black wins the ko but he's got a disasterous result in the top left]
+)
+(;B[ff];W[ad]))
+(;B[do];W[em]
+(;B[bc];W[df])
+(;B[df];W[ae]C[black doesn't have a large enough ko-threat]
+))))
+(;B[sm];W[dg];B[df];W[ae]
+(;B[ff];W[ad])
+(;B[do];W[em];B[ad];W[hj];B[jj];W[ae]C[black has no ko-threat large enough]
+))
+(;B[ps];W[dg];B[df];W[ae]
+(;B[ff];W[ad])
+(;B[do];W[em];B[ad];W[gg]
+(;B[ff];W[ae]C[black has no ko-threat large enough])
+(;B[aa];W[ff]))))
+(;B[ac];W[bc]))
+(;B[ac];W[pc]
+(;B[be];W[dg];B[ad];W[df])
+(;B[ad];W[bc])))
+(;B[na]C[this is a ko, black is unable to retake immediately see http://senseis.xmp.net/?ko for more explanation.]
+))

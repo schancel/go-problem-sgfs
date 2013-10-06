@@ -1,0 +1,43 @@
+(;GE[endgame]DI[1k]DP[20]SO[santa c]CO[7]AW[db]AW[cb]AW[cc]AW[cd]AW[be]AW[ad]AB[ce]AB[bf]AB[dd]AB[dc]AB[eb]AB[fc]AB[cg]AB[de]C[Black to reduce white... :))]AB[fb]AP[goproblems]
+(;B[ab]C[White will respond at B18. The rest but A17 are a mistake. A17 actually lets white chose betweena seki and a ko..]
+(;W[bb]
+(;B[af];W[ac]
+(;B[bd]C[White'd take at A19. Taking at B17 is losing another point and is included to show what happens..];W[aa]
+(;B[ae];W[ea];B[fa];W[da]C[Well done! ;)RIGHT])
+(;B[da];W[ca]
+(;B[ea];W[ae]C[This is worse than the correct solution by 2 moku.])
+(;B[ae];W[ea];B[fa];W[da]C[Well done! ;)RIGHT])))
+(;B[ae];W[bd];B[da];W[ca];B[ea]C[This is worse than the correct solution by a moku.])
+(;B[da];W[ae];B[ca];W[ba];B[ea]C[This is worse than the correct solution by 2 moku.]))
+(;B[ac];W[bc]
+(;B[af];W[aa]
+(;B[ae];W[bd];B[da];W[ca];B[ea]C[This is worse than the correct solution by 2 moku.])
+(;B[da];W[ca]
+(;B[ea];W[ae]C[This is worse than the correct solution by 3 moku.])
+(;B[ae];W[bd];B[ea]C[This is worse than the correct solution by 2 moku.])))
+(;B[da];W[aa]
+(;B[af];W[ae]
+(;B[ca];W[ba];B[ea]C[This is worse than the correct solution by 2 moku.])
+(;B[ea];W[ca]C[This is worse than the correct solution by 3 moku.]))
+(;B[ca];W[af];B[ag];W[ae];B[ea];W[ba]C[This is worse than the correct solution by 3 moku.]))))
+(;W[bc];B[af]C[White would die.])
+(;W[ba];B[da]
+(;W[bb];B[ac];W[bc];B[af]C[White would die.])
+(;W[bc];B[ac];W[bb];B[af]C[White would die.]))
+(;W[da];B[ac];W[bb];B[ba];W[bc];B[af];W[aa];B[ae];W[ab];B[bd]MA[be]C[Would resualt in a ko..])
+(;W[ac];B[ba]C[(Thanks to Timko for the correction of the following variation.)];W[bb];B[bd];W[bc];B[af];W[ca];B[ae];W[ea];B[fa];W[aa];B[da];W[bd];B[ea]C[This is worse than the correct solution by a moku. (Thanks Timko!)]))
+(;B[da];W[bc]
+(;B[ca];W[ba]
+(;B[ea];W[af];B[ag];W[ae]C[This is worse than the correct solution by 3 moku.])
+(;B[af];W[ea]
+(;B[da];W[ae];B[fa];W[ca];B[ea]C[This is worse than the correct solution by 4 moku.])
+(;B[fa];W[ae])
+(;B[ae];W[bd]
+(;B[fa];W[da]C[This is worse than the correct solution by 5 moku.])
+(;B[da];W[ab];B[fa];W[ca];B[ea]C[This is worse than the correct solution by 2 moku.]))))
+(;B[af];W[ae];B[ca];W[ba];B[ea]C[This is worse than the correct solution by 2 moku.]))
+(;B[af];W[ab]
+(;B[ae];W[bd];B[da];W[ca];B[ea]C[This is worse than the correct solution by 2 moku.])
+(;B[da];W[ca]
+(;B[ae];W[bd];B[ea]C[This is worse than the correct solution by 2 moku.])
+(;B[ea];W[ae]C[This is worse than the correct solution by 3 moku.]))))

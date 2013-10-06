@@ -1,0 +1,18 @@
+(;GE[endgame]DI[2d]DP[13]SO[thanush]CO[0]AB[rd]AB[qd]AB[pc]AB[pb]AB[ob]AB[nc]AB[mc]AB[mb]AB[jc]AW[qc]AW[qb]AW[od]AW[oc]AW[pd]AW[nd]AW[nb]AW[qe]AW[re]AW[of]C[Most effective way to reduce white's territory]AP[goproblems]
+(;B[ra]
+(;W[pa];B[na];W[rb]
+(;B[sb];W[sc]
+(;B[oa]C[Strongest resistenceRIGHT])
+(;B[sd];W[se]))
+(;B[rc])
+(;B[sc];W[sb])
+(;B[qa];W[sa];B[qa];W[ra]))
+(;W[qa];B[rc];W[rb];B[sb]C[RIGHT]))
+(;B[rb];W[pa];B[na];W[rc])
+(;B[rc];W[pa];B[na];W[rb]
+(;B[ra];W[sb];B[oa];W[qa])
+(;B[sb];W[ra];B[oa];W[sd];B[qa];W[sc]))
+(;B[qa];W[ra]
+(;B[oa];W[rc])
+(;B[rb];W[pa];B[na];W[rc])
+(;B[rc];W[pa];B[na];W[rb])))

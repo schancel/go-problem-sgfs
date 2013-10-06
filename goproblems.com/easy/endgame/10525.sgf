@@ -1,0 +1,13 @@
+(;GE[endgame]DI[6k]DP[37]SO[Bleedo]CO[8]AW[rb]AW[rc]AW[qc]AW[pc]AW[oc]AW[nd]AW[oe]AW[nf]AB[nc]AB[mc]AB[md]AB[kc]AB[ob]AB[pb]AB[qb]AW[nb]AW[oa]AB[ra]AB[qa]C[Black played the marked stone, white to punish.]TR[qa]AP[goproblems]
+(;W[mb]
+(;B[lb]C[CHOICE];W[na]
+(;B[la]
+(;W[sb];B[ma];W[sa];B[pa];W[nb]C[Good!RIGHT])
+(;W[sa];B[sb];W[sc];B[ma];W[sa];B[pa];W[nb];B[sb]C[Favorable ko, but you could have done better.])))
+(;B[na];W[lb];B[kb];W[sb];B[la];W[sa];B[pa];W[oa]C[RIGHT]))
+(;W[na];B[mb];W[sb];B[ma];W[sa];B[pa])
+(;W[ma]
+(;B[lb];W[sb];B[mb];W[sa];B[na])
+(;B[mb];W[la]
+(;B[ka];W[sb];B[lb];W[sa];B[na])
+(;B[na]C[Ko, you could have done much better.]))))

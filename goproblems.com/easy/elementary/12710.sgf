@@ -1,0 +1,10 @@
+(;GE[elementary]DI[25k]DP[79]SO[Acorn]CO[0]AW[br]AW[bq]AW[cq]AW[dr]AW[er]AW[eq]AW[fp]AW[fo]AW[eo]AW[do]AB[dq]AB[dp]AB[ep]AB[cp]AB[co]AB[dn]AB[en]AB[fq]AB[gp]AB[gr]AW[dl]AW[fl]AW[gl]AW[hl]AB[gk]AP[goproblems]
+(;B[gn]C[]
+(;W[fn];B[fm];W[go];B[ho]C[RIGHT])
+(;W[go]
+(;B[ho];W[fn];B[fm]C[RIGHT])
+(;B[fn];W[ho]C[White escapes.])))
+(;B[fn];W[go];B[ho];W[gn];B[gm];W[hn];B[in];W[hm]C[White connects.])
+(;B[go];W[fn]
+(;B[fm];W[gn];B[hn];W[gm]C[White connects.])
+(;B[gn];W[fm]C[White connects.])))

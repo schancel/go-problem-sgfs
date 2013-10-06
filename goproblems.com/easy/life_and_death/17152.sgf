@@ -1,0 +1,16 @@
+(;GE[life and death]DI[7k]DP[41]SO[1234boys]CO[0]SZ[9]AB[gg]AB[fg]AB[ff]AB[ee]AB[ed]AB[fc]AB[gb]AB[gd]AW[gf]AW[ge]AW[fe]AW[fd]AW[gc]AW[fh]AW[dh]AW[ef]AW[eg]LB[hf:a]LB[hc:b]LB[he:c]LB[ec:d]LB[hg:e]AP[goproblems]
+(;B[hf]LB[hd:a]LB[he:b]
+(;W[hd]LB[he:a];B[he]LB[gd:a];W[gd]LB[hc:a]LB[id:b]
+(;B[hc]C[CorrectRIGHT])
+(;B[id]LB[hc:a];W[hc]LB[hb:a];B[hb]C[CorrectRIGHT]))
+(;W[he]LB[hd:a];B[hd]C[CorrectRIGHT]))
+(;B[hc]LB[hg:a];W[hg]LB[gh:a];B[gh]LB[hh:a];W[hh])
+(;B[he]LB[hf:a];W[hf]LB[hg:a]LB[hc:b]
+(;B[hg]LB[hd:a];W[hd]LB[hc:a]LB[hb:b]
+(;B[hc]LB[gd:a];W[gd]LB[hb:a]LB[fb:b]
+(;B[hb]LB[ec:a];W[ec]LB[fb:a];B[fb]LB[dd:a];W[dd]LB[de:a];B[de]LB[ce:a];W[ce]LB[df:a];B[df]LB[cf:a];W[cf])
+(;B[fb]LB[hb:a];W[hb]LB[ha:a];B[ha]LB[ic:a];W[ic]))
+(;B[hb]LB[ec:a];W[ec]LB[fb:a];B[fb]LB[dd:a];W[dd]LB[de:a];B[de]LB[ce:a];W[ce]LB[df:a];B[df]LB[cf:a];W[cf]))
+(;B[hc]LB[hg:a];W[hg]))
+(;B[ec]LB[hd:a];W[hd])
+(;B[hg]LB[hd:a];W[hd]LB[hc:a];B[hc]LB[ec:a];W[ec]LB[gd:a];B[gd]LB[dd:a];W[dd]))

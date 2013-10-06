@@ -1,0 +1,18 @@
+(;GE[life and death]DI[7k]DP[41]SO[darksycthe]CO[0]SZ[5]AW[ac]AW[bc]AW[cd]AW[dc]AW[ec]AW[de]AB[cc]AB[cb]AB[bb]AB[ab]AB[db]AB[eb]AB[ba]AB[da]C[White has a 6.5 komi, Japanese rules. Black to win!]AP[goproblems]
+(;B[ed]
+(;W[bd]C[Great so far. And if white replies here, what will you do?]
+(;B[dd]
+(;W[ae]C[White tries to live...];B[ce]C[...but fails and dies! Congratulations!RIGHT])
+(;W[ce]C[White tries to live...];B[ae]C[...but fails and dies! Congratulations!RIGHT]))
+(;B[ae];W[dd]C[White lives and wins...])
+(;B[be];W[dd]C[White lives and wins...])
+(;B[ce];W[dd]C[White lives and wins...]))
+(;W[be]C[Good so far. If white replies here, what will you do?]
+(;B[ad]C[Yes! A and B are miai. White is dead!RIGHT]LB[bd:A]LB[dd:B])
+(;B[dd];W[ad]C[Black has 7 points, White has 2 plus 6.5 komi])
+(;B[bd];W[ad];B[dd]C[Black has 7 points, White has 3 plus 6.5 komi]))
+(;W[dd]C[And if White connects?];B[bd]C[Yes! A3 and B3 are captured and White dies!RIGHT]))
+(;B[bd];W[be]
+(;B[ad];W[ed]C[Black has 7 points, White has 2 plus 6.5 komi])
+(;B[ed];W[ad]))
+(;B[be];W[bd];B[ed]))

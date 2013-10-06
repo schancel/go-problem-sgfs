@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[32]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[pn][rn][po][ro][np][op][nq][pq][qq][pr][rr][ps]AB[pp][qp][rp][oq][rq][or][os]C[Black to play]
+(;B[rs]CR[rs]
+;W[nr]CR[nr]
+(;B[qr]CR[qr]
+;W[ns]CR[ns]
+;B[sr]CR[sr]
+;W[qs]CR[qs]
+;B[sp]CR[sp]C[ Now black can fight a ko RIGHT])
+(;B[sr]CR[sr]
+;W[ns]CR[ns]
+;B[qr]CR[qr]
+;W[qs]CR[qs]
+;B[sp]CR[sp]C[Now black can fight a ko RIGHT]))
+(;B[qs]CR[qs]
+;W[qr]CR[qr]
+;B[sr]CR[sr]
+;W[rs]CR[rs]C[This is wrong: black can't play T1 and loses all his stones ])
+(;B[sr]CR[sr]
+;W[rs]CR[rs]
+;B[qr]CR[qr]
+;W[qs]CR[qs]C[Black can't play T1, so he is dead])
+(;B[qr]CR[qr]
+;W[qs]CR[qs]
+;B[sr]CR[sr]
+;W[rs]CR[rs]
+;B[sq]CR[sq]
+;W[nr]CR[nr]C[White wins the capturing race]))

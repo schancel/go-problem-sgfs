@@ -1,0 +1,20 @@
+(;GE[tesuji]DI[2k]DP[23]SO[adum]CO[8]AW[bp]AW[cp]AW[dr]AB[cq]AB[dp]AB[ep]AB[fp]AW[dq]AB[eq]AB[er]AW[es]AW[fr]AW[fq]AB[gq]AB[hp]AW[ir]AW[jq]C[can white connect her stones?]AP[goproblems]
+(;W[hs];B[cr]
+(;W[ds];B[gr]
+(;W[gs]C[RIGHT])
+(;W[fs];B[gs]))
+(;W[cs];B[ds]))
+(;W[gr];B[cr];W[ds];B[cs];W[fs];B[hr])
+(;W[hr];B[gr];W[gs];B[cr];W[ds];B[cs];W[fs];B[hs])
+(;W[cr];B[gr]
+(;W[fs];B[gs])
+(;W[gs];B[hs]))
+(;W[bq];B[cr];W[ds];B[cs];W[fs];B[gr])
+(;W[gs];B[cr];W[ds];B[cs];W[fs];B[hs])
+(;W[ds];B[gr])
+(;W[br];B[gr]
+(;W[gs];B[hs])
+(;W[fs];B[gs]))
+(;W[fs];B[cr];W[ds];B[gr])
+(;W[cs];B[gr])
+(;W[hq];B[gr]))

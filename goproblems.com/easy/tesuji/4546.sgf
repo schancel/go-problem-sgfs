@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[5k]DP[32]SO[transcend]CO[9]AB[ps]AB[pr]AB[oq]AB[qp]AB[po]AB[qo]AB[ro]AB[sr]AW[rq]AW[rp]AW[qq]AB[pq]AW[pp]AW[op]AW[np]AW[nq]AW[nr]AW[or]MA[qq]MA[rq]MA[rp]C[Capture the stones.]AP[goproblems]
+(;B[rs];W[rr]
+(;B[sp];W[qr]C[One more move is all I ask :)]
+(;B[qs]C[Although T3 is slightly better... (think ko)RIGHT])
+(;B[sq]C[The best move.RIGHT])
+(;B[ss];W[os]C[atari.];B[qs];W[sq]C[You were so close...]))
+(;B[sq];W[sp]
+(;B[qr];W[ss];B[sr];W[os]C[Caught.])
+(;B[so];W[ss];B[sr];W[os];B[qs]C[Seki.]))
+(;B[qr];W[os]C[Caught.])
+(;B[qs];W[sq]
+(;B[so];W[os];B[sp];W[ss]C[Ko... bad...])
+(;B[qr];W[ss]C[Ko... bad...])
+(;B[ss];W[os]C[Well.... you didn't make a ko.... but you died....])))
+(;B[rr];W[qr]
+(;B[qs];W[rs];B[ss];W[os]C[Caught.])
+(;B[sp];W[qs]C[Caught.]TR[pq]TR[pr]TR[ps]TR[oq])
+(;B[sq];W[qs]C[Caught.]TR[oq]TR[pq]TR[pr]TR[ps])
+(;B[rs];W[qs]TR[pq]TR[ps]TR[pr]TR[oq]C[Caught.]))
+(;B[qr];W[rr]
+(;B[sq];W[os]C[Caught.])
+(;B[rs];W[os]C[Caught.]TR[ps]TR[pr]TR[qr]TR[pq]TR[oq]))
+(;B[sq];W[qr]TR[ps]TR[pr]TR[pq]TR[oq]C[These die first.])
+(;B[qs];W[rs];B[rr];W[qr];B[ss];W[os]C[Caught.])
+(;B[ss];W[qs]
+(;B[qr];W[rr];B[rs];W[os]C[Caught.])
+(;B[rr];W[qr]C[Caught.]))
+(;B[sp];W[qr]
+(;B[qs];W[rs])
+(;B[rr];W[qs])
+(;B[rs];W[qs])
+(;B[sq];W[qs])))

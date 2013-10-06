@@ -1,0 +1,88 @@
+(;GE[tesuji]DI[1k]DP[19]SO[adum]CO[8]SZ[19]AW[db]AW[bc]AW[dc]AW[cd]AW[dd]AW[df]AW[cg]AB[bb]AB[cb]AB[eb]AB[cc]AB[fc]AB[hc]LB[bb:2]LB[bc:1]C[a greedy black responded to white's push of 1 by blocking at 2. what should white do now?]AB[bi]AB[di]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[ba]
+(;B[bd]
+(;W[ca];B[ac]
+(;W[be]C[black diesRIGHT])
+(;W[bf];B[be];W[ae];B[ce]C[black dies, but you've left unnecessary aji and liberties])
+(;W[ae];B[be];W[bf])
+(;W[bg];B[ce]
+(;W[de];B[bf])
+(;W[bf];B[de]))
+(;W[ab];B[aa]C[why play ko?])
+(;W[cf];B[be])
+(;W[aa];B[ab];W[da];B[be])
+(;W[ce];B[be])
+(;W[af];B[bf]))
+(;W[ab];B[ac]
+(;W[ca])
+(;W[be];B[ca]))
+(;W[be];B[ca]
+(;W[da];B[ac])
+(;W[ad];B[da]C[black connects]))
+(;W[ac];B[ad]
+(;W[ca];B[ab]
+(;W[bf]C[RIGHT])
+(;W[af]C[black dies, but you've left unnecessary aji and liberties])
+(;W[ce]C[black dies, but you've left unnecessary aji and liberties])
+(;W[bg]C[black dies, but you've left unnecessary aji and liberties])
+(;W[cf]C[black dies, but you've left unnecessary aji and liberties])
+(;W[ag]C[black dies, but you've left unnecessary aji and liberties])
+(;W[de]C[black dies, but you've left unnecessary aji and liberties])
+(;W[be]C[RIGHT]))
+(;W[be];B[da]
+(;W[ab];B[aa])
+(;W[ae];B[ca]))
+(;W[ab];B[aa];W[ab];B[ca]))
+(;W[da];B[ac]
+(;W[ca])
+(;W[ab];B[aa]C[ko]))
+(;W[ad];B[ac]))
+(;B[da];W[ab]C[RIGHT]))
+(;W[ab];B[bd]
+(;W[ba])
+(;W[ca];B[ac];W[ba])
+(;W[ac];B[ad])
+(;W[da];B[ac])
+(;W[be];B[ac]
+(;W[ca];B[aa])
+(;W[ba])
+(;W[ae];B[da])
+(;W[da];B[aa])))
+(;W[da];B[bd]
+(;W[be];B[ac])
+(;W[ca];B[ac];W[ba];B[be];W[ab];B[aa]C[ko])
+(;W[ba])
+(;W[ac];B[ad]
+(;W[ca];B[ab];W[ba];B[bf]
+(;W[be];B[ce]
+(;W[cf];B[bg])
+(;W[de];B[bg])
+(;W[bg]))
+(;W[bg]
+(;B[af];W[be]
+(;B[cf];W[ce];B[dg]))
+(;B[ce]
+(;W[de];B[af])
+(;W[cf];B[de]
+(;W[be];B[ee])
+(;W[ee];B[be]
+(;W[fd];B[af])
+(;W[af];B[ed]))))))
+(;W[ba];B[ab];W[ca])
+(;W[be];B[ab])))
+(;W[ca];B[ba]
+(;W[da];B[bd]
+(;W[ac];B[ad]
+(;W[ab];B[aa];W[ac];B[ag])
+(;W[be];B[ab]))
+(;W[be];B[ac])
+(;W[ad];B[ac]))
+(;W[bd];B[da])
+(;W[ab];B[da]))
+(;W[bd];B[da]C[letting black connect isn't so special])
+(;W[be];B[da])
+(;W[ac];B[da])
+(;W[ec];B[bd]C[black can now choose to live in the corner])
+(;W[gb];B[bd])
+(;W[ad];B[da])
+(;W[ea];B[bd]))

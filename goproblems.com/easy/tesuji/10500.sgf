@@ -1,0 +1,15 @@
+(;GE[tesuji]DI[7k]DP[40]SO[symplicity]CO[4]AW[hr]AB[gq]AW[gr]AB[fq]AB[hq]AW[iq]AW[hp]AW[ho]AB[ip]AB[jp]AW[lq]AW[fr]AW[ep]AW[er]AB[eq]AW[dq]AB[dr]AB[cr]AB[cq]AW[dp]AB[cp]AB[cn]AB[pp]C[Black to build some thickness.]AP[goproblems]
+(;B[ir];W[jq]
+(;B[kq];W[jr]
+(;B[kr];W[is]
+(;B[lp]C[RIGHT])
+(;B[kp]C[RIGHT]))
+(;B[lp];W[kr])
+(;B[kp];W[kr]))
+(;B[jr];W[kq])
+(;B[kp];W[kq]))
+(;B[jq];W[ir])
+(;B[jr];W[ir])
+(;B[kq];W[jr]
+(;B[kr]LB[lr:A]LB[lo:B]C[A and B could cause problems for Black.])
+(;B[jq];W[ir];B[kr]LB[lr:A]LB[lo:B]C[A and B could cause problems for Black.])))

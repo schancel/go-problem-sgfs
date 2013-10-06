@@ -1,0 +1,14 @@
+(;GE[elementary]DI[15k]DP[64]SO[maba]CO[6]AW[ba]AW[ab]AW[cb]AW[cc]AW[cd]AW[de]AW[df]AW[ef]AW[ff]AW[dg]AW[dh]AW[eh]AB[ch]AB[bi]AW[aj]AW[bj]AW[cj]AW[ci]AW[ak]AW[ck]AW[cl]AB[al]AB[bl]AB[bk]AB[bm]AB[bn]AB[cn]AB[bo]AB[ap]AB[eo]AB[do]AB[ep]AB[dq]AB[cq]AB[br]AB[bs]AB[as]AB[er]AB[fr]AB[gr]AB[gq]AB[gp]AB[hq]AB[hs]AB[gs]AB[jq]AB[kq]AB[kr]AB[ks]AB[js]AB[kp]AB[ko]AB[lq]AB[lr]AB[mr]AB[nr]AB[nq]AB[oq]AB[qq]AB[qr]AB[qs]AB[rr]AB[sr]AB[rq]AB[qp]AB[pp]AB[po]AW[lp]AW[mp]AW[mq]AW[np]AW[op]AW[oo]AW[on]AW[nn]AW[mn]AW[lo]AW[mm]AW[qo]AW[pn]AW[rp]AW[sp]AW[sq]AW[rn]AW[sn]AW[rm]AW[qm]AW[pm]AW[ql]AB[ln]AB[lm]AB[ll]AB[km]AB[jm]AB[lk]AB[ml]AB[nl]AB[ol]AB[om]AB[nm]AB[pl]AB[pk]AB[qk]AB[rk]AB[rj]AB[ri]AB[rl]AB[sl]AB[sm]AW[sk]AW[sj]AW[si]AW[sh]AW[rh]AW[rg]AW[qg]AW[qh]AW[qf]AW[pg]AW[of]AW[og]AW[oe]AW[pe]AW[ne]AW[mf]AW[lf]AW[md]AW[ld]AW[mc]AW[lb]AW[la]AW[ma]AB[ca]AB[da]AB[db]AB[eb]AB[fb]AB[fa]AB[ga]AB[ec]AB[ed]AB[ee]AB[fe]AB[ge]AB[gd]AB[he]AB[gf]AB[jg]AB[kh]AB[mg]AB[nh]AB[if]AB[kf]AB[kg]AB[lg]AB[nf]AB[ng]AB[oh]AB[ph]AB[oi]AW[sa]AW[sc]AW[rc]AW[rb]AW[qb]AW[pc]AB[sg]AB[sf]AB[se]AB[sd]AB[rd]AB[re]AB[rf]AB[qd]AB[qc]AB[pd]AB[od]AB[nd]AB[oc]AB[ob]AB[mb]AB[nb]AB[na]AB[oa]AW[pb]AB[pa]AB[qa]AB[ra]AW[pi]AW[qi]AW[pj]AW[oj]AW[ok]AW[nk]AW[mk]AB[mi]AB[mj]AB[nj]AB[kj]AW[lj]AW[kk]AW[jl]AW[ik]AB[il]AB[hl]AB[gl]AB[hk]AB[fk]AB[fj]AB[fi]AB[ei]AB[di]AB[fh]AB[fg]AB[eg]AB[gg]AW[hg]AW[ih]AW[jh]AB[ji]AB[ii]AB[hi]AW[dm]AW[dn]AW[en]AW[fo]AW[fp]AW[fq]AW[eq]AW[go]AW[dj]AW[ej]AW[ek]AW[fl]AW[fm]AW[gm]AW[hm]AW[im]AW[in]AW[jn]AW[kn]AW[jo]AW[jp]AW[ip]AW[hp]AW[iq]AW[ir]AW[is]AW[hr]AW[jr]AW[ha]AW[gb]AW[gc]AW[fc]AW[fd]AW[hc]AW[hd]AW[id]AW[jd]AW[ie]AW[je]AW[jf]AW[ke]AW[pq]AW[pr]AW[ls]AW[os]AW[ns]C[Black to play the best move (in the lower right)]AP[goproblems]
+(;B[or];W[ms])
+(;B[ms];W[rs]C[Seki.])
+(;B[ps]
+(;W[or]C[CHOICE];B[ms]C[RIGHT])
+(;W[ms]C[CHOICE];B[or]C[RIGHT])
+(;W[rs]C[RIGHT]
+(;B[or]C[RIGHT])
+(;B[ms];W[ss])
+(;B[ss];W[rs]))
+(;W[ss]C[CHOICE]
+(;B[rs];W[ss])
+(;B[ms];W[rs])
+(;B[or]C[RIGHT]))))

@@ -1,0 +1,41 @@
+(;GE[best move]DI[3k]DP[24]SO[ZombieLincoln]CO[0]AB[na]AB[nb]AB[oc]AB[od]AB[pd]AB[qd]AB[re]AB[sd]AW[rd]AW[rc]AW[qc]AW[qb]AW[pc]AW[ob]AW[oa]LB[pd:1]LB[qc:2]LB[qd:3]LB[pc:4]LB[oc:5]LB[rd:6]LB[re:7]LB[rc:8]LB[od:9]LB[ob:10]LB[nb:11]LB[oa:12]LB[na:13]LB[qb:14]LB[sd:15]C[Black to do something in the corner]AP[goproblems]
+(;B[rb];W[sb]
+(;B[ra];W[qa];B[pa];W[pb])
+(;B[pa]C[]
+(;W[ra];B[pb])
+(;W[pb];B[ra];W[qa]))
+(;B[qa];W[ra]))
+(;B[ra];W[qa]
+(;B[pb];W[pa];B[sb];W[sc];B[se]C[Seki, but you lost one point from the capture.])
+(;B[sb]C[];W[sc]
+(;B[pb]
+(;W[pa];B[se]C[Seki, but you lost one point from the capture.])
+(;W[rf]C[White escapesCHOICE]))
+(;B[pa]C[RIGHT]
+(;W[pb]C[Seki, but you lost one point from the capture.])
+(;W[rf]C[White escapesCHOICE]))
+(;B[se]C[Seki - if white forces life at S18, black will capture two stones, resulting in a net of zero points in the corner for both players. Best result.CHOICERIGHT]))
+(;B[sc];W[sb])
+(;B[pa];W[pb];B[sb];W[sc];B[se]C[Seki, but you lost one point from the capture.]))
+(;B[qa];W[ra]
+(;B[sb];W[sc])
+(;B[sc];W[sb])
+(;B[pa];W[pb])
+(;B[pb];W[pa]))
+(;B[sc];W[sb]
+(;B[pa];W[ra];B[pb];W[se])
+(;B[qa];W[ra];B[pa];W[se]
+(;B[pb])
+(;B[sd];W[sc]))
+(;B[ra];W[qa]))
+(;B[pa];W[pb]
+(;B[ra];W[qa];B[sb];W[sc]C[Seki, but you lost one point from the capture.])
+(;B[sb];W[sc];B[ra]
+(;W[qa]C[Seki])
+(;W[se]C[CHOICE]))
+(;B[rb];W[sb];B[ra];W[qa])
+(;B[sc];W[sb];B[ra];W[qa])
+(;B[qa];W[ra]))
+(;B[pb];W[pa];B[sb]
+(;W[ra];B[sc];W[rb]))
+(;B[se];W[sb]))

@@ -1,0 +1,103 @@
+(;GE[life and death]DI[5d]DP[5]SO[sohvan]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.50]
+PW[White]PB[Black]AW[pl][dm][jm][mm][pm][dn][en][gn][hn][in][mn][co][do][eo][fo][ho][io][lo][mo][oo][bp][dp][fp][ip][jp][dq][eq][mq][nq][cr][er][fr][gr][lr][mr]AB[ci][qk][dl][ql][cm][em][fm][gm][qm][bn][cn][fn][ln][pn][bo][go][jo][ko][po][cp][gp][kp][lp][pp][cq][fq][gq][hq][iq][jq][lq][br][dr][hr][kr][pr][bs][ds]PL[B]
+(;B[cs]CR[cs]
+;W[bq]CR[bq]
+(;B[cr]CR[cr]
+;W[es]CR[es]
+(;B[ap]CR[ap]
+;W[gs]CR[gs]C[White lives])
+(;B[gs]CR[gs]
+;W[ar]CR[ar]))
+(;B[ar]CR[ar]
+;W[cr]CR[cr]
+(;B[cq]CR[cq]
+;W[aq]CR[aq]
+(;B[ao]CR[ao]
+;W[es]CR[es]
+(;B[cr]CR[cr]
+;W[cp]CR[cp])
+(;B[hs]CR[hs]
+;W[gs]CR[gs])
+(;B[gs]CR[gs]
+;W[cp]CR[cp]
+(;B[hs]CR[hs]
+;W[cr]CR[cr]C[RIGHT Notes that this is a three step ko for black. Black stands to lose a lot in the corner, and can't really expect to win this ko.])
+(;B[ap]CR[ap]
+;W[cr]CR[cr]C[RIGHT Notes that this is a three step ko for black. Black stands to lose a lot in the corner, and can't really expect to win this ko.]))
+(;B[ap]CR[ap]
+;W[gs]CR[gs]C[White lives]))
+(;B[cr]CR[cr]
+;W[cp]CR[cp])
+(;B[es]CR[es]
+;W[ao]CR[ao]
+(;B[an]CR[an]
+;W[cp]CR[cp]
+;B[ap]CR[ap]
+;W[cr]CR[cr]C[White lives in double ko.])
+(;B[fs]CR[fs]
+;W[gs]CR[gs]
+(;B[hs]CR[hs]
+;W[cp]CR[cp]
+;B[an]CR[an]
+;W[cr]CR[cr]C[White lives in double ko])
+(;B[an]CR[an]
+;W[cp]CR[cp]
+(;B[ap]CR[ap]
+;W[cr]CR[cr]C[White lives in double ko.])
+(;B[hs]CR[hs]
+;W[cr]CR[cr]C[White lives in double ko.])))
+(;B[gs]CR[gs]
+;W[fs]CR[fs]
+;B[hs]CR[hs]
+;W[cp]CR[cp]
+;B[an]CR[an]
+;W[cr]CR[cr]C[White lives in double ko.]))
+(;B[gs]CR[gs]
+;W[ao]CR[ao]
+;B[an]CR[an]
+;W[cp]CR[cp]
+(;B[ap]CR[ap]
+;W[cr]CR[cr]C[White lives in double ko])
+(;B[es]CR[es]
+;W[fs]CR[fs]
+;B[hs]CR[hs]
+;W[cr]CR[cr]C[White lives in double ko.])
+(;B[fs]CR[fs]
+;W[es]CR[es]
+;B[hs]CR[hs]
+;W[cr]CR[cr]C[White lives in double ko.])))
+(;B[ap]CR[ap]
+;W[cq]CR[cq])
+(;B[aq]CR[aq]
+;W[cq]CR[cq]))
+(;B[aq]CR[aq]
+;W[cr]CR[cr]
+(;B[cq]CR[cq]
+;W[ar]CR[ar])
+(;B[ap]CR[ap]
+;W[cq]CR[cq])
+(;B[ar]CR[ar]
+;W[cq]CR[cq]))
+(;B[gs]CR[gs]
+;W[cr]CR[cr]
+;B[cq]CR[cq]
+;W[ar]CR[ar])
+(;B[es]CR[es]
+;W[cr]CR[cr]
+;B[cq]CR[cq]
+;W[ar]CR[ar]))
+(;B[bq]CR[bq]
+;W[es]CR[es]
+;B[cs]CR[cs]
+;W[gs]CR[gs]C[White lives])
+(;B[gs]CR[gs]
+;W[bq]CR[bq]
+(;B[ap]CR[ap]
+;W[cq]CR[cq])
+(;B[aq]CR[aq]
+;W[cq]CR[cq])
+(;B[ar]CR[ar]
+;W[cq]CR[cq])
+(;B[cq]CR[cq]
+;W[ar]CR[ar])))

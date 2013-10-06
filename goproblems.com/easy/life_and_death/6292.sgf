@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[51]SO[Chr15t1aN]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[po][np][op][qp][rp][mq][oq][nr][rr]AB[pk][pq][qq][or][qr][ps]C[Black to get the best result]
+(;B[rq]CR[rq]
+;W[sq]CR[sq]
+(;B[sr]CR[sr]
+;W[ss]CR[ss]
+(;B[rs]CR[rs]
+;W[qs]CR[qs]C[RIGHT
+a direct ko is the best result])
+(;B[qs]CR[qs]
+;W[sr]CR[sr]C[Close but no cigar]))
+(;B[rs]CR[rs]
+;W[sr]CR[sr]LB[qs:A]C[A is a false eye]))
+(;B[rs]CR[rs]
+;W[rq]CR[rq]LB[qs:A]C[A is a false eye]))

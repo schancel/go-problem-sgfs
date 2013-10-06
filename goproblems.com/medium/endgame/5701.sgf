@@ -1,0 +1,49 @@
+(;GE[endgame]DI[1k]DP[18]SO[highflyer]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.00]
+AW[eb][fb][gb][dc][ec][bd][cd][dd][ae][be][cf][df]AB[bb][cb][db][ac][bc][fc][gc][ad][ed][fd][ef][ff]C[Black to win the game.]
+(;B[da]
+(;W[ea]C[CHOICE]
+(;B[ba]
+;W[ee]
+;B[fe]
+;W[de]
+;B[dg]
+;W[cg]
+;B[eg]C[RIGHT Correct. Now you can try ferdi's original problem and learn from the difference.])
+(;B[aa]
+;W[ee]
+;B[fe]
+;W[de]
+;B[dg]
+;W[cg]
+;B[eg]C[RIGHT Correct. Now you can try ferdi's original problem and learn from the difference.])
+(;B[de]
+;W[ba]
+;B[aa]
+;W[ab]LB[ca:A]C[Black has no ko threat, and he can not play at A.])
+(;B[dg]
+;W[ba]
+;B[aa]
+;W[ab]LB[ca:A]C[Black has no ko threat, and he can not play at A.]))
+(;W[ba]C[CHOICE]
+;B[aa]
+;W[ab]
+;B[ca]
+;W[ea]
+;B[aa]
+;W[ee]
+;B[fe]
+;W[de]
+;B[dg]
+;W[cg]
+;B[eg]C[RIGHT Correct. Now you can try ferdi's original problem and learn from the difference.]))
+(;B[aa]
+;W[da]
+;B[ca]
+;W[ea]C[The best black can get from here is jigo.])
+(;B[ea]
+;W[da]C[Black is dead.])
+(;B[de]
+;W[da]C[Black is dead.])
+(;B[dg]
+;W[da]C[Black is dead.]))

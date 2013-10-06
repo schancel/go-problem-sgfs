@@ -1,0 +1,15 @@
+(;GE[endgame]DI[5k]DP[34]SO[thanush]CO[0]AB[qb]AB[qc]AB[rd]AB[re]AB[qg]AB[qh]AB[pd]AW[qd]AW[qe]AW[pf]AW[pg]AW[pc]AW[pb]AW[nd]AW[nf]AW[jc]AW[je]C[Most profitable way for b to use the marked stone]TR[pd]AP[goproblems]
+(;B[oc];W[ob];B[nb];W[nc]
+(;B[pa];W[od];B[oa];W[pe];B[mb]C[RIGHT])
+(;B[oa];W[od];B[pa];W[pe];B[mb]C[RIGHT]))
+(;B[pa];W[nb]
+(;B[na];W[ma];B[oa];W[ob];B[qa];W[mb]C[B can do better])
+(;B[oa];W[na]
+(;B[ob];W[oc];B[qa]C[B can do better])
+(;B[pe];W[qf];B[rf])
+(;B[qf];W[pe]C[B can do better])))
+(;B[qf];W[pe];B[pa];W[ob];B[oa];W[na];B[qa];W[nb])
+(;B[ob];W[pa]
+(;B[od];W[oc])
+(;B[oc];W[od]))
+(;B[oa];W[pa]))

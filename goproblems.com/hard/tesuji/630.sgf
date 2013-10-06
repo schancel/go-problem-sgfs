@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[4d]DP[8]SO[Spirit]CO[9]AB[aq]AB[bj]AB[bq]AB[br]AB[ck]AB[cn]AB[cq]AB[dj]AB[dl]AB[dm]AB[dn]AB[do]AB[dr]AB[ek]AB[em]AB[ep]AB[eq]AB[er]AB[fl]AB[fq]AB[go]AB[gp]AB[kq]AB[np]AB[pd]AB[pq]AB[qo]AB[qp]AW[ao]AW[ap]AW[bk]AW[bl]AW[bn]AW[bp]AW[cl]AW[cm]AW[co]AW[cp]AW[cr]AW[dd]AW[dp]AW[dq]AW[en]AW[eo]AW[fm]AW[fn]AW[fo]AW[fp]AW[gn]AW[gq]AW[gr]AW[ho]AW[jr]AW[pn]AW[po]AW[qj]AW[qn]LB[yy:1]LB[jr:A]C[White just played 'A' how should black answer?]SZ[19]PL[B]GM[1]FF[4]AP[Hibiscus:2.1]ST[3]
+(;B[ir]MN[1]
+(;W[jq];B[ip];W[hp];B[iq];W[jp]C[White is split in two groups.Play on to see a little more of the game.RIGHT];B[io];W[gl];B[gk];W[hl]LB[hl:10]LB[kr:A];B[kr];W[kp]LB[kp:12]LB[lp:A];B[lp];W[jn]LB[jn:14]LB[js:A];B[js];W[in]LB[in:16]LB[jo:A];B[jo];W[ko]LB[ko:18]LB[lo:A];B[lo];W[kn]LB[kn:20]LB[fc:A];B[fc]C[And black has sente to play this kakari. (He still lost the game though.)RIGHT])
+(;W[iq];B[jq];W[hr];B[ip];W[is];B[hp]))
+(;B[kr];W[jq]
+(;B[kp]C[White has a base in sente])
+(;B[jp];W[ip];B[jo]C[Whit ehas a base in sente.]))
+(;B[jq];W[ir]
+(;B[kr])
+(;B[iq];W[hq];B[kr]C[White has a base and sente.]))
+(;B[iq];W[ir]
+(;B[hp];W[ip])
+(;B[hq];W[jq];B[ip];W[jp];B[io];W[hp]))
+(;B[ip];W[hp];B[ir];W[jq];B[iq];W[jp]C[White is split in two groups.Play on to see a little more of the game.RIGHT];B[io];W[gl];B[gk];W[hl]LB[hl:10]LB[kr:A];B[kr];W[kp]LB[kp:12]LB[lp:A];B[lp];W[jn]LB[jn:14]LB[js:A];B[js];W[in]LB[in:16]LB[jo:A];B[jo];W[ko]LB[ko:18]LB[lo:A];B[lo];W[kn]LB[kn:20]LB[fc:A];B[fc]C[And black has sente to play this kakari. (He still lost the game though.)RIGHT]))

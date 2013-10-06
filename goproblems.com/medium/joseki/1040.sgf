@@ -1,0 +1,71 @@
+(;GE[joseki]DI[2d]DP[12]SO[Spirit]CO[7]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;C[Black played A in response to White's 
+marked move. How to continue with 
+White?]
+PL[W]
+LB[yy:0][qm:A][yy:0]TR[po]AB[mq][qm][qp]
+AW[oq][po]
+;W[qo]
+;B[ro]
+(;W[no]
+;B[rq]
+;W[lp]
+C[RIGHT
+This result is generally slightly better 
+for White.]
+)(;W[rn]
+;B[rp]
+;W[qn]
+(;B[pp]
+;W[op]
+;B[oo]
+C[Please play at A.]
+LB[oo:8][on:A];W[on]
+;B[no]
+(;W[qr]
+;B[pq]
+;W[pr]
+;B[or]
+;W[nr]
+;B[nq]
+;W[os]
+;B[np]
+;W[or]
+;B[rm]
+;W[sn]
+;B[pm]
+;W[pn]
+;B[nm]
+C[You fell for the so called 19-point trick 
+play. This result is very favourable for 
+Black because of his incredible 
+thickness and sente, besides White 
+only has 19 
+point of territory.]
+)(;W[pq]
+;B[qr]
+C[White is in big trouble.]
+))(;B[pq]
+;W[pp]
+(;B[qr]
+;W[pr]
+;B[qq]
+;W[or]
+;B[sr]
+;W[np]
+)(;B[pr]
+;W[or]
+;B[rr]
+;W[np]
+)))(;W[pp]
+;B[rp]
+C[RIGHT
+White can now make a pincer on the 
+lower side. A white position in the 
+lower left is necessary when playing 
+this way.]
+))

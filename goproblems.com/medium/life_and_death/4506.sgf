@@ -1,0 +1,39 @@
+(;GE[life and death]DI[3d]DP[9]SO[transcend]CO[9]AB[bq]AB[bo]AB[co]AB[do]AB[ep]AB[eq]AB[er]AB[es]AW[br]AW[cq]AW[dq]AW[dp]AW[eo]AW[fo]AW[fp]AW[gq]AW[fr]AW[cm]AW[bm]C[Black to live.]AW[dn]AW[en]AP[goproblems]
+(;B[cr]
+(;W[bp]LB[dr:A]C[If white played at A, it would be over too quickly :)CHOICE]
+(;B[aq];W[ar]
+(;B[cp];W[ap];B[bq];W[aq]C[]
+(;B[dr];W[ao]
+(;B[an];W[bn];B[bq];W[cq]C[White is out and black can only get one eye.])
+(;B[bq];W[an]C[White escapes and you can only get one eye.]))
+(;B[ao];W[dr]C[(White D2 or C1 would give the same result)];B[cs];W[fs];B[ds];W[bs];B[bq];W[cq]C[Please play at A.]LB[dq:A];B[dq];W[an]LB[bq:A]C[Please play at A.];B[bq]C[White can't expect to win this ko. Black lives.RIGHT]))
+(;B[dr];W[ap]
+(;B[cp];W[bq]
+(;B[bs];W[cs]C[One eye beats no eyes.])
+(;B[cs];W[bs]C[Two eyes beats one eye ;)]))
+(;B[bq];W[cp];B[ao];W[aq];B[bs];W[cs];B[ds];W[fq];B[cs];W[fs]C[Caught.])))
+(;B[dr];W[aq];B[cp];W[bq]
+(;B[ao];W[bn]
+(;B[ap];W[an])
+(;B[bs];W[an]C[White wins the capturing race here.]))
+(;B[bs];W[bn];B[ao];W[an]C[White wins the capturing race here.]))
+(;B[cp];W[aq];B[dr];W[bq]
+(;B[ao];W[bn];B[bs];W[an]C[White wins the race.])
+(;B[bs];W[bn];B[ao];W[an]C[White wins the race.])))
+(;W[dr];B[cp];W[cs];B[ds];W[cr];B[ar]C[Just showing you why A was too simple.]))
+(;B[bp];W[cr]C[Not enough liberties.]TR[eq]TR[ep]TR[er]TR[es])
+(;B[cs]
+(;W[cr]
+(;B[bp];W[fs];B[ar];W[fq])
+(;B[dr];W[fq];B[cp];W[fs]))
+(;W[bp]))
+(;B[cp];W[cr]C[Not enough liberties.]TR[ep]TR[eq]TR[er]TR[es])
+(;B[bs];W[aq]
+(;B[cs];W[bp];B[cr];W[dr];B[ds];W[fs];B[cp];W[bq]C[It'll take 2 moves to atari at A... and only one for white.]LB[ap:A])
+(;B[bp];W[cs]
+(;B[dr];W[cr])
+(;B[cr];W[dr];B[ds];W[as];B[cp];W[cr];B[ap];W[fq];B[ar];W[fs]))
+(;B[cr];W[bp]
+(;B[dr];W[cs])
+(;B[cs];W[dr];B[cp];W[fq];B[ds];W[bq])))
+(;B[aq];W[cr]C[Not enough liberties.]TR[ep]TR[eq]TR[er]TR[es]))

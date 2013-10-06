@@ -1,0 +1,32 @@
+(;GE[life and death]DI[12k]DP[55]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-27]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[bp][cp][aq][cq][cr][dr][er][bs][es]
+AB[ao][bo][co][do][ap][dp][dq][eq][fq][br][fr][fs]
+C[what can black do?
+]
+(;B[cs]
+(;W[ar];B[as]C[RIGHT
+ko
+])
+
+(;W[ds];B[ar];W[bq];B[cs])
+)
+
+(;B[ar];W[bq];B[cs];W[as]
+(;B[br];W[ar])
+
+(;B[ar];W[br])
+)
+
+(;B[bq];W[ar])
+
+(;B[as];W[ar])
+
+(;B[ds];W[cs])
+
+)

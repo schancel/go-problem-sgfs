@@ -1,0 +1,13 @@
+(;GE[endgame]DI[7k]DP[40]SO[bass]CO[0]SZ[7]AW[fa]AW[db]AW[fb]AW[dc]AW[ec]AW[fc]AW[fd]AW[ce]AW[de]AW[ee]AW[ge]AW[ef]AB[ca]AB[ea]AB[ab]AB[cb]AB[eb]AB[cc]AB[ad]AB[cd]AB[ed]AB[be]AB[bf]AB[cf]AB[df]C[no komi, no prisoners, white to play and win.]LB[da:A]LB[dd:B]LB[dg:C]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]PL[W]
+(;W[dg];B[da]C[And now, one point reverse sente or two point gote?]LB[dd:A]LB[cg:B]
+(;W[dd];B[cg];W[eg]C[White wins by one point!RIGHT])
+(;W[cg];B[bg];W[eg];B[dd]C[Only jigo. White has sente, but there is no more endgame to play.]))
+(;W[da];B[eg];W[fg];B[dg]C[FORCE]
+(;W[ff];B[dd]C[Only jigo.])
+(;W[dd];B[ff]C[Black wins.]))
+(;W[dd];B[eg];W[fg];B[dg]C[FORCE]
+(;W[ff];B[da]C[Black wins.])
+(;W[da];B[ff]C[Black wins.]))
+(;W[eg];B[da]
+(;W[dd];B[dg]C[Black wins.])
+(;W[dg];B[dd];W[cg];B[bg]C[Only jigo.])))

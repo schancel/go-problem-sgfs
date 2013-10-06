@@ -1,0 +1,12 @@
+(;GE[endgame]DI[6k]DP[37]SO[maba]CO[5]AB[eo]AB[fo]AB[bp]AB[dp]AB[dq]AB[cq]AB[aq]AB[ar]AB[br]AW[bs]AW[cr]AW[dr]AW[es]AW[eq]AW[fq]AW[ep]AW[gr]AW[hr]AB[gq]AB[hq]AB[gp]AB[go]AW[io]AW[ip]AW[iq]AW[jr]AW[js]AW[ks]AB[jq]AB[jo]AW[jp]AB[ko]AB[kp]AB[kq]AB[kr]AB[ls]AB[mr]C[What  can black do?]AW[ir]AB[in]AB[hn]AB[co]AP[goproblems]
+(;B[as];W[cs]C[White has seven points.])
+(;B[ds];W[cs]C[White has one prisoner plus 7 territory is 8 points.])
+(;B[cs];W[ds]C[White will have to connect at A and B and then white has one prisoner plus 5 territory is 6 points.RIGHT]LB[cs:A]LB[fr:B])
+(;B[fs];W[cs]C[White has 7 points.])
+(;B[fr];W[cs]C[White has seven points.])
+(;B[er];W[cs]C[White has seven points.])
+(;B[gs];W[cs]C[White has eight points.])
+(;B[hs];W[cs]C[White has eight points.])
+(;B[fp];W[cs]C[White has seven points.])
+(;B[ho];W[cs]C[White has seven points.])
+(;B[hp];W[cs]C[White has seven points.]))

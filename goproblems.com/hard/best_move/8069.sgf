@@ -1,0 +1,62 @@
+(;GE[best move]DI[5d]DP[4]SO[santa c]CO[8]AB[db]AB[dc]AB[dd]AB[ce]AB[be]AW[bf]AW[cf]AW[df]AW[ee]AW[ed]AW[ec]AW[eb]AW[gb]AW[bh]C[Black to move]AW[ae]AW[de]AB[ac]AW[ba]AP[goproblems]
+(;B[bb];W[da]
+(;B[ca];W[cb]
+(;B[cc];W[bd]
+(;B[ca];W[ea]
+(;B[bc];W[cb]C[Well done! :)RIGHT]MA[ca])
+(;B[cd];W[cb]C[White still has B17 ko threat! :(]MA[ca])
+(;B[aa];W[bc]C[:(]))
+(;B[cd];W[ca]C[:(])
+(;B[bc];W[ca]C[:(])
+(;B[aa];W[ea]TR[bc]TR[ca]C[:(])
+(;B[ea];W[fa]
+(;B[ca];W[bc]
+(;B[ea];W[ad]
+(;B[ab];W[da]MA[ea]C[White still has a ko threat at C16! :(])
+(;B[da];W[ab]C[:(])
+(;B[aa];W[ab]C[Double ko! :(]MA[ac])
+(;B[cd];W[ab];B[aa]MA[ba]C[Double ko! :(]))
+(;B[aa];W[ea]C[:(])
+(;B[ab];W[ea]C[:(])
+(;B[cd];W[cb]C[:(]))
+(;B[cd];W[ca]C[:(])
+(;B[bc];W[ca]C[:(])
+(;B[aa];W[ea]TR[bc]TR[ca]C[:(])))
+(;B[bd];W[cc]C[:(]))
+(;B[cc];W[bd]
+(;B[ca];W[cb]MA[ca]
+(;B[ea];W[fa]
+(;B[ca];W[bc]
+(;B[ea];W[ad]
+(;B[ab];W[da]C[White still has a threat at C16! :(]MA[ea])
+(;B[aa];W[ab]MA[ac]C[Double ko! :(])
+(;B[da];W[ab]C[:(])
+(;B[cd];W[ab];B[aa];W[da]MA[ea]C[Double ko! :(]))
+(;B[ab];W[ea]C[:(])
+(;B[aa];W[ea]C[:(]))
+(;B[aa];W[ea]TR[bc]TR[ca]C[:(]))
+(;B[bc];W[ca]C[:(])
+(;B[cd];W[ca]C[:(])
+(;B[aa];W[ea]C[:(]TR[bc]TR[ca]))
+(;B[cd];W[ca]C[:(])
+(;B[bc];W[ca]C[:(])
+(;B[aa];W[ea]TR[ca]TR[bc]C[:(]))
+(;B[bd];W[cc]C[:(])
+(;B[cb];W[ca]C[:(]TR[bd]TR[cc])
+(;B[ea];W[ca]C[:(])
+(;B[aa];W[ca]C[:(]))
+(;B[cb];W[bd]TR[bc]TR[cd]C[:(])
+(;B[da];W[bd]TR[bc]TR[cd]C[:(])
+(;B[bc];W[da]C[:(])
+(;B[ca]C[];W[bc]
+(;B[bb];W[ad]
+(;B[ab];W[cc]C[:(])
+(;B[cc];W[ab]C[:(])
+(;B[aa];W[cc]C[:(]))
+(;B[bd];W[ab]C[:(])
+(;B[ad];W[bd]C[:(])
+(;B[cd];W[bd]C[:(]))
+(;B[bd];W[da]C[:(])
+(;B[cc];W[da]C[:(])
+(;B[ea];W[bd]TR[bc]TR[cd]C[:(])
+(;B[ad];W[da]C[:(]))

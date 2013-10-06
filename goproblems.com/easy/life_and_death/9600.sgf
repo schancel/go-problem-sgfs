@@ -1,0 +1,16 @@
+(;GE[life and death]DI[10k]DP[52]SO[cyrael]CO[6]AB[ol]AB[om]AB[on]AB[pn]AB[qm]AB[qo]AB[rn]AB[pp]AB[op]AB[np]AB[mp]AB[lq]AB[lr]AB[nk]AB[mk]AB[lj]AB[ll]AB[kl]AB[jl]AB[lm]AB[jk]AB[ik]AB[im]AB[jn]AB[kn]AB[hn]AB[gn]AB[gm]AB[fm]AB[fl]AW[nl]AW[ml]AW[mm]AW[mn]AW[mo]AW[no]AW[oo]AW[po]AW[ln]AW[lp]AW[mq]AW[kq]AW[io]AW[ho]AW[fn]AW[en]AW[em]AW[cm]AW[co]AW[gq]AW[fp]LB[kq:1]C[In this game, White just played the stone marked with the number 1. A mistake.How should Black take advantage of it whitout playing a Ko ?]AB[nm]AW[jq]AB[dk]AP[goproblems]
+(;B[kp];W[ko]
+(;B[lo]C[No, this shape creates a Ko and it is possible to prevent it by playing differently.])
+(;B[jp];W[jo]C[];B[lo]C[No, playing like this leads to a Ko and it is possible to prevent it by playing differently.])
+(;B[nn];W[jp];B[lo]C[];W[mr]C[This sequence is the best. M2 and M3 are threatened but it is possible to save them thanks to the Ko at M4.RIGHT])
+(;B[jo];W[jp];B[nn];W[kp];B[lo]C[];W[mr]C[Yes it is correct but with this solution White has a chance to kill M2,M3.RIGHT]))
+(;B[ko];W[kp];B[lo];W[mr]C[That's it but with this sequence White has a chance to kill M2,M3.RIGHT])
+(;B[lo];W[ko];B[jo];W[kp])
+(;B[jo];W[kp]
+(;B[lo];W[ko])
+(;B[jp];W[ip])
+(;B[ko];W[lo];B[jp];W[ip]))
+(;B[jp];W[kp]
+(;B[ko];W[lo];B[jo];W[ip])
+(;B[lo];W[ko];B[jo];W[ip]))
+(;B[nn];W[kp];B[lo];W[mr]C[Good job but  you lose M2 and M3 which by playing another sequence can be saved.RIGHT]))

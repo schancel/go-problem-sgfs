@@ -1,0 +1,7 @@
+(;GE[tesuji]DI[7k]DP[40]SO[sabetts]CO[0]AB[pq]AB[iq]AB[kq]AB[lq]AB[np]AB[op]AB[pr]AB[qr]AW[rr]AW[qq]AW[qp]AW[pp]AW[oo]AW[no]AW[mo]AW[lp]AW[mq]C[Black needs a connection to save his 5 stones]AP[goproblems]
+(;B[nr]
+(;W[mr]C[CHOICE];B[mp];W[nq];B[oq];W[ns];B[or]C[RIGHT])
+(;W[mp]C[CHOICE];B[mr]C[RIGHT]))
+(;B[mr];W[nr];B[nq];W[mp])
+(;B[nq];W[nr];B[mr];W[mp])
+(;B[mp];W[oq]))

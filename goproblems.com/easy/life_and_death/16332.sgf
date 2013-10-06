@@ -1,0 +1,418 @@
+(;GE[life and death]DI[6k]DP[38]SO[Pichouett]CO[0]AW[qr]AW[rq]AB[pr]AB[pq]AB[rs]AB[sp]AB[ro]AB[qo]AB[rm]AB[pm]AB[np]AW[oq]AW[nr]AW[lp]AW[lq]AW[lr]AW[nn]AW[oo]AW[mn]AW[rp]AW[pp]TR[pp]C[White thinks he can rescue his stones and takes the corner.. show him is wrong.]AP[goproblems]
+(;B[qq];W[qp]
+(;B[rr];W[or]
+(;B[qs];W[sr]
+(;B[op];W[po]C[White is happy :) Black can't approach in T3]TR[sq])
+(;B[po];W[op]C[White is happy :)]))
+(;B[sr];W[ps]C[Black connect T3 but White is safe]TR[sq])
+(;B[sq];W[ps];B[sr]))
+(;B[sq];W[rr]
+(;B[sr];W[or]
+(;B[qs];W[ps];B[so];W[ss])
+(;B[ps];W[os];B[qs];W[ss]C[White is happy :)])
+(;B[so];W[qs]C[White is happy :)])
+(;B[ss];W[qs];B[so]C[White is happy :)]))
+(;B[or];W[sr];B[op];W[nq];B[po];W[so]C[White is happy :)]))
+(;B[po];W[op]
+(;B[sq];W[sr]
+(;B[rr];W[so];B[or]TR[os]TR[qs]C[Black is dead])
+(;B[so];W[rr])
+(;B[qs];W[so];B[rr]C[White is happy and keep the sente])
+(;B[ss];W[so])
+(;B[or];W[so];B[rr]C[Black is dead]TR[os]TR[qs]))
+(;B[rr];W[sq]
+(;B[sr];W[or];B[qs]C[Black safe as White])
+(;B[qs];W[sr];B[or];W[os]C[Black is dead, White is happy :)])
+(;B[or];W[os]
+(;B[sr];W[ps])
+(;B[qs];W[sr]C[White is happy, Black is dead])))
+(;B[qs];W[sq]C[White is happy :) and Black is dead (S2 and T2 are mihai, then P2 and P1)]TR[rr]TR[sr]MA[or]MA[os])
+(;B[sr];W[rr]C[White is strong])
+(;B[ps];W[rr]C[White is strong]))
+(;B[op];W[po]
+(;B[rr];W[sr];B[or];W[nq]C[White is happy :) (P1 and R1 are mihai, Black can't approach in T3)]TR[qs]MA[sq]TR[os])
+(;B[sq];W[sr]C[White is happy :)];B[rr];W[so];B[or];W[nq]C[P1 and R1 are mihai]TR[os]TR[qs])
+(;B[qs];W[rr]C[White is strong])))
+(;B[qp];W[qq]
+(;B[qs];W[ps]
+(;B[os];W[or]
+(;B[ps]
+(;W[ns]
+(;B[sq]C[RIGHT])
+(;B[sr]C[RIGHT])
+(;B[rr]C[RIGHT])
+(;B[op];W[po]C[Not optimal, you loose your stone P4])
+(;B[po];W[op]
+(;B[sq]C[RIGHT])
+(;B[rr]C[RIGHT])
+(;B[sr]C[RIGHT])))
+(;W[sr]C[CHOICE]
+(;B[rr];W[ns];B[sq]C[RIGHT])
+(;B[ss];W[ns]C[White is happy :)])
+(;B[sq];W[so]C[White is happy :)])
+(;B[ns];W[ms]
+(;B[op];W[po];B[nq];W[mr]
+(;B[ss];W[rr]C[White is happy :)])
+(;B[rr];W[ss]C[White is happy :)])
+(;B[sq];W[so]C[White is happy :)]))
+(;B[rr];W[ss]C[White is happy :)])
+(;B[ss];W[rr]C[White is happy :)])
+(;B[sq];W[so]C[White is happy :)]))
+(;B[so];W[ns]
+(;B[rr];W[ss])
+(;B[sq]C[Fne, White can't approachRIGHT]))))
+(;B[sr];W[ps]
+(;B[pr];W[sq])
+(;B[sq];W[rr]
+(;B[pr];W[pq]
+(;B[so];W[ns];B[ss];W[ps])
+(;B[ps];W[ns]
+(;B[ss];W[so]C[oups])
+(;B[so];W[ss]C[oups])))
+(;B[ss];W[so]C[oups]))
+(;B[rr];W[sq]C[White is happy :)])))
+(;B[sr];W[or];B[sq];W[rr]
+(;B[so];W[ss])
+(;B[ss];W[so]C[oups..]))
+(;B[sq];W[or]
+(;B[sr];W[rr]
+(;B[ss];W[so]C[What's happened?])
+(;B[so];W[ss]))
+(;B[rr];W[sr]
+(;B[ss];W[sr];B[so]C[white is happy and keep the sente])
+(;B[so];W[ss]C[snackpack]))
+(;B[so];W[sr]C[White is happy :)])))
+(;B[sq];W[or]
+(;B[ps];W[sr];B[qs];W[so];B[rr];W[os];B[sp];W[ss];B[sn])
+(;B[rr];W[ps])
+(;B[sr];W[qs];B[rr];W[ps]))
+(;B[rr];W[ps]
+(;B[sq];W[or]C[Black connect T2 but White is safe]
+(;B[sr])
+(;B[qs];W[sr];B[ss];W[sr]C[oups]))
+(;B[qs];W[or];B[sq];W[sr]
+(;B[so];W[ss])
+(;B[ss];W[sr];B[so]C[White is happy and keep the sente])))
+(;B[sr];W[qs]
+(;B[sq];W[ps];B[rr];W[or])
+(;B[rr]
+(;W[ps];B[sq];W[or])
+(;W[or];B[ps];W[os]))
+(;B[ps];W[or];B[rr];W[os])
+(;B[or];W[os]C[White is safe]))
+(;B[op];W[ps]C[CHOICE];B[po];W[or]
+(;B[pp];W[qs]C[White is reduced but safe and has the corner!])
+(;B[qs];W[pp]C[White is very happy :)]))
+(;B[ps]
+(;W[sr]C[CHOICE]
+(;B[op];W[po];B[or];W[nq];B[qs];W[ss])
+(;B[or];W[qs]C[atari])
+(;B[qs];W[or]
+(;B[rr];W[os];B[sq]C[RIGHT])
+(;B[ss];W[os]C[Too bad])
+(;B[so];W[os];B[sq]C[FineRIGHT]))
+(;B[rr];W[or];B[qs];W[os];B[sq]C[GreatRIGHT])
+(;B[sq];W[so]C[White is happy :)];B[nq];W[or];B[op];W[po];B[mr];W[qs])
+(;B[os];W[or]
+(;B[rr];W[ns];B[qs];W[ss]C[White breath a bit more!])
+(;B[qs];W[ns];B[rr]))
+(;B[ss];W[or]
+(;B[rr];W[os])
+(;B[qs];W[os]))
+(;B[po];W[op]
+(;B[qs]
+(;W[or]
+(;B[rr];W[os];B[sq]C[Great!RIGHT])
+(;B[so];W[os];B[sq]C[RIGHT]))
+(;W[sq];B[so];W[or];B[rr];W[os];B[ss]C[Great!RIGHT]))
+(;B[rr]TR[qs]TR[sq];W[or]C[S2 was correct has White can't approach neither with R1 or T3];B[qs];W[os];B[sq]C[GreatRIGHT])
+(;B[so];W[or];B[sq];W[os];B[qs]C[NiceRIGHT]))
+(;B[so];W[or]
+(;B[sq];W[os]
+(;B[rr];W[qs]TR[sr]C[White is happy :) and have a snackpacking stone])
+(;B[qs]C[White can't approach, fine!RIGHT]))
+(;B[rr];W[os]
+(;B[sq];W[qs]C[White is happy and have a snackpacking stone]TR[sr])
+(;B[qs];W[ss]C[oups]))
+(;B[qs];W[os]
+(;B[rr];W[ss]C[White is happy])
+(;B[sq]C[Fine, White can't approachRIGHT]))
+(;B[os];W[qs]C[White is safe])))
+(;W[sq]C[No hope for White]
+(;B[rr];W[or];B[sr];W[so];B[sn];W[os];B[sp];W[qs])
+(;B[sr];W[or];B[qs];W[so];B[sn];W[os];B[sp]C[]))
+(;W[or]C[No hope for White]
+(;B[qs];W[sr])
+(;B[sr];W[os];B[qs]C[Nice])
+(;B[sq])
+(;B[rr]
+(;W[os];B[qs]C[];W[sr];B[sq]C[RIGHT])
+(;W[sr];B[qs])))
+(;W[rr]C[No hope for White]
+(;B[qs]
+(;W[or];B[sq];W[os];B[sr]C[])
+(;W[sr];B[so];W[or];B[sq];W[os];B[ss]C[Nice]))
+(;B[sq];W[sr];B[so];W[or];B[qs])
+(;B[sr];W[or];B[sq];W[os];B[qs]C[]))
+(;W[qs]C[No hope for White]
+(;B[sr])
+(;B[rr];W[or];B[sq]C[])
+(;B[sq];W[or];B[rr]C[]))
+(;W[os]C[No hope for White];B[qs];W[sr]
+(;B[rr];W[or])
+(;B[ss];W[or]C[Black can't approach.. White is happy :)]TR[rr]TR[sq])))
+(;B[or];W[os]
+(;B[op];W[ps]
+(;B[po];W[pq]C[White is happy :)])
+(;B[sq];W[sr]))
+(;B[po];W[op]
+(;B[sq];W[sr];B[qs];W[so]C[White is happy :)])
+(;B[sr];W[sq];B[qs];W[ps])
+(;B[qs];W[ps]))
+(;B[nq];W[ps]))
+(;B[po]
+(;W[ps]C[]
+(;B[op];W[or]
+(;B[pp];W[qs]C[White is safe and Black reduce White])
+(;B[qs];W[pp];B[pq]
+(;W[sq]C[White is happy :)])
+(;W[mp]C[White is happy :)])))
+(;B[or];W[os])
+(;B[qs];W[or]C[White is very happy])
+(;B[os];W[or];B[qs];W[sq]C[and what??..]))))
+(;B[po]
+(;W[qp]C[CHOICE]
+(;B[sq];W[sr]
+(;B[op];W[or];B[rr];W[so]
+(;B[sn];W[ps]C[White is safe...])
+(;B[qs];W[qq];B[ps];W[os];B[sp];W[sq];B[sn];W[ss]))
+(;B[rr];W[qs]
+(;B[op];W[so]C[the end for Black]
+(;B[nq];W[or];B[mr];W[mq];B[os];W[ms]C[White is happy :)])
+(;B[or];W[nq];B[ps];W[ss]))
+(;B[ss];W[sr]C[snackpack])))
+(;B[rr];W[sr]
+(;B[qs];W[op];B[qq];W[or])
+(;B[or];W[op]C[CHOICE]
+(;B[qq];W[os]C[Black is dead, White is happy :)])
+(;B[qs];W[qq]C[Black is dead, White is happy :)])))
+(;B[op])
+(;B[sr];W[op]C[CHOICE]
+(;B[sq];W[qs];B[rr];W[qq]C[White is happy :)])
+(;B[qs];W[sq];B[rr];W[qq]C[White is happy :).. Black is dead])
+(;B[rr]
+(;W[qs];B[qq];W[sq];B[ps])
+(;W[or];B[qs];W[sq];B[qq];W[os];B[ps]C[White is safe]))
+(;B[ps];W[qs];B[rr];W[qq];B[sq])
+(;B[qq];W[rr];B[sq];W[qs]C[White is happy :)]))
+(;B[qq])
+(;B[qs];W[op]
+(;B[sr])
+(;B[sq];W[sr]
+(;B[rr];W[so];B[qq];W[or]C[Black is dead, White is happy :)])
+(;B[qq])))
+(;B[or];W[op]C[White is happy! :)]))
+(;W[qq]
+(;B[qp];W[ps];B[op];W[or])
+(;B[op]
+(;W[qp];B[qs];W[or];B[ps];W[sr])
+(;W[ps];B[qp];W[or];B[pp];W[qs]C[White is safe]))))
+(;B[op]
+(;W[qp]
+(;B[po]
+(;W[or]C[CHOICE]
+(;B[ps];W[mp]C[];B[sq];W[no];B[rr];W[nq];B[qq];W[op])
+(;B[rr];W[ps])
+(;B[qq];W[ps]C[Easy for White])
+(;B[sq];W[ps];B[rr])
+(;B[qs];W[mp]
+(;B[rr];W[no];B[qq];W[nq];B[sq];W[op])
+(;B[sr];W[qq];B[ps];W[no];B[sq];W[nq];B[rr];W[op]C[White is safe])
+(;B[sq];W[sr]C[White is happy :)]))
+(;B[os];W[qq];B[ps];W[qs];B[sq];W[ns]C[Easy way for White]))
+(;W[mp]C[CHOICE]
+(;B[or];W[nq]
+(;B[qs];W[no]C[White is safe!]
+(;B[rr];W[sr]C[black is dead])
+(;B[qq];W[rr]C[White is strong])
+(;B[sq];W[sr];B[rr];W[so];B[qq];W[os])
+(;B[sr]C[the best way for Black to defend.. but he was supposed to attack!];W[sq]
+(;B[rr];W[os];B[qq];W[op]TR[ps]C[White can't approach but he's safe])
+(;B[qq];W[os];B[rr];W[op]TR[ps]C[White can't approach but he's safe])))
+(;B[rr];W[qq];B[qs];W[no];B[sq];W[op];B[so];W[sr];B[ss];W[ps]
+(;B[os];W[ns];B[sr];W[ps])
+(;B[sr];W[os]))
+(;B[sq];W[sr]
+(;B[rr];W[so];B[qq];W[os]C[White is safe and Black dead])
+(;B[so];W[rr]C[White is happy :)])))
+(;B[qq];W[ps];B[rr];W[or];B[sq];W[sr]C[]
+(;B[so];W[qs]C[snackpack]TR[sr])
+(;B[ss];W[qs]C[double snack pack]TR[sr]TR[so]))
+(;B[nq];W[or]
+(;B[sq];W[ps])
+(;B[ps];W[mq]
+(;B[sq];W[sr])
+(;B[sr];W[sq]))
+(;B[no];W[on]
+(;B[ps];W[mo];B[sr];W[sq];B[qq];W[mq];B[rr];W[so])
+(;B[sq];W[sr];B[so];W[ps]))
+(;B[sr];W[ps]))
+(;B[rr];W[nq]
+(;B[qq];W[no]
+(;B[sq];W[op];B[or];W[os];B[qs]C[White is safe])
+(;B[qs];W[sr]C[White is happy, black is dead]))
+(;B[sq];W[no]
+(;B[qq];W[op]
+(;B[or];W[os];B[qs]C[White is safe])
+(;B[qs];W[or])
+(;B[ps];W[or]C[White is safe])
+(;B[sr];W[ps];B[qs];W[os]C[White is safe]))
+(;B[qs];W[or]
+(;B[qq];W[op]C[White is safe])
+(;B[ps];W[os]C[White is safe])
+(;B[sr];W[os];B[ps];W[op];B[qq]C[White is safe]))
+(;B[or];W[qq];B[qs];W[op]C[White is safe])
+(;B[ps];W[or];B[qq];W[op]C[White is safe])))))
+(;B[ps];W[po]
+(;B[sq];W[sr]
+(;B[rr];W[so]C[White is happy :)])
+(;B[or];W[nq])
+(;B[qq];W[so]C[White is happy :)])
+(;B[so];W[rr]C[White is happy :)]))
+(;B[sr];W[sq];B[qq];W[rr]C[White is happy :)])
+(;B[rr];W[sr]C[White is happy :)]))
+(;B[sq];W[sr]
+(;B[po])
+(;B[rr])
+(;B[ss];W[so];B[po];W[ps];B[os];W[qs]C[White is happy :)]))
+(;B[or];W[nq]C[there is no way for Black (cf variations or play P2 then P4 if W allow you (it's aleatory))]))
+(;W[po]C[not a good move for White];B[qp];W[qq]))
+(;B[sq];W[sr]
+(;B[qp];W[qq]
+(;B[op];W[po])
+(;B[rr];W[so]
+(;B[qs];W[or];B[ps])
+(;B[sp]
+(;W[ps];B[sn])
+(;W[sq]
+(;B[qs];W[or];B[sn];W[ps])
+(;B[sn];W[ps])))
+(;B[sq];W[sp]
+(;B[sn];W[ps])
+(;B[qs];W[or];B[sn];W[ps]))))
+(;B[rr];W[so]
+(;B[qs];W[qp]
+(;B[qq];W[or])
+(;B[or];W[os];B[op];W[nq];B[po];W[qq]C[White is happy :)]))
+(;B[qq];W[qp];B[or];W[os];B[nq];W[op]
+(;B[mr];W[ps])
+(;B[qs];W[mr]))
+(;B[qp];W[qq]))
+(;B[so];W[qp];B[rr];W[qs]C[Black is dead, White is happy :)]))
+(;B[or]
+(;W[op]C[CHOICE]
+(;B[qp];W[qq]
+(;B[nq];W[os];B[sq];W[sr];B[qs];W[so];B[ps];W[mr];B[ns];W[ss]C[White is happy :)])
+(;B[qs];W[ps]
+(;B[os];W[ns];B[ps];W[sr]C[too bad])
+(;B[sr];W[os];B[sq];W[rr]
+(;B[so];W[ss])
+(;B[ss];W[so]C[oups]))
+(;B[rr];W[os];B[sq];W[sr];B[ss];W[sr]C[snackpack])
+(;B[sq];W[os]
+(;B[rr])
+(;B[sr])
+(;B[ss];W[sr];B[rr])))
+(;B[sq];W[ps];B[rr];W[os];B[sr]))
+(;B[qq];W[qp];B[rr];W[sr]C[Black is dead (P1 and R1 are mihai) and cannot approach in T3, White is happy :)]TR[os]TR[qs]MA[sq]))
+(;W[qp]C[CHOICE];B[op];W[nq]
+(;B[po];W[ps]
+(;B[on];W[no]
+(;B[rr];W[sr]C[Black can't approach, White is happy :)])
+(;B[sr];W[sq];B[rr];W[so];B[sn];W[os]C[White is happy :)])
+(;B[sq];W[sr];B[rr];W[so])
+(;B[os];W[ns];B[qs];W[qq]
+(;B[ps];W[sr]
+(;B[so];W[ss]C[White is happy :)])
+(;B[rr];W[ss]C[White is happy :)])
+(;B[sq];W[so]C[White is happy :)]))
+(;B[sq];W[ps]C[White won R1 group, he is happy :)])))
+(;B[rr];W[sr]C[Black can't approach, White is happy :)])
+(;B[sr];W[sq];B[rr];W[so];B[sn];W[os]C[White is happy :)]))
+(;B[sq];W[po];B[qs];W[sr])
+(;B[rr];W[po];B[sq];W[qs]
+(;B[sr];W[qq])
+(;B[ps];W[sr]C[White is happy!CHOICE]
+(;B[qq];W[so])
+(;B[ss];W[sr])
+(;B[so];W[ss]C[])))
+(;B[qs];W[po]
+(;B[rr];W[sr]C[White safe, Black dead]TR[os]TR[qq])
+(;B[sr];W[sq]
+(;B[qq];W[rr])
+(;B[rr];W[qq]))
+(;B[sq];W[sr]
+(;B[rr];W[so]
+(;B[qq];W[os])
+(;B[os];W[qq]))
+(;B[so];W[rr]))
+(;B[qq];W[rr]))))
+(;B[ps];W[qp]
+(;B[qs];W[sq]C[and ?... :(])
+(;B[sq];W[sr];B[op];W[so]
+(;B[po];W[or])
+(;B[or];W[nq];B[po];W[qs]C[White is happy :)]))
+(;B[sr];W[sq]))
+(;B[rr];W[qp]
+(;B[po])
+(;B[op];W[po]
+(;B[sq];W[sr]
+(;B[qs];W[so];B[qq];W[or]C[Black dead, White is happy :)])
+(;B[or];W[nq];B[qq];W[so];B[os];W[qs]C[White is happy :)]))
+(;B[nq];W[or];B[mr];W[mq];B[sq];W[sr]
+(;B[qs];W[qq]
+(;B[ss];W[ps];B[so];W[sr])
+(;B[ps];W[so])
+(;B[os];W[so];B[ps];W[ms]))
+(;B[so];W[qs];B[ps];W[ss]))))
+(;B[qs];W[qp]
+(;B[rr];W[sr])
+(;B[sq];W[sr]
+(;B[op];W[po]
+(;B[or];W[nq]
+(;B[qq];W[so];B[rr];W[os]C[poor Black...])
+(;B[rr];W[so];B[qq]))
+(;B[nq];W[or]
+(;B[rr];W[so])
+(;B[so];W[rr]C[]))
+(;B[so];W[rr])
+(;B[rr])
+(;B[qq];W[so];B[rr]))
+(;B[rr];W[so])
+(;B[so];W[rr]C[]
+(;B[op];W[po];B[nq];W[or]C[White is happy :)])
+(;B[po];W[op]C[White is happy :)]))))
+(;B[sr]
+(;W[sq]C[]
+(;B[qp];W[qq];B[qs];W[so]C[Bad for white]
+(;B[or];W[os]
+(;B[op];W[ps]C[White is happy :)])
+(;B[po];W[ps]))
+(;B[po];W[op])
+(;B[rr];W[or];B[sp]))
+(;B[qq];W[qp]C[];B[rr];W[ps];B[qs];W[os]C[White is happy!]))
+(;W[qp]C[CHOICE]
+(;B[qs];W[sq]
+(;B[or];W[op];B[rr];W[qq]C[Black is dead, White is happy :)])
+(;B[op];W[po];B[rr];W[qq]C[Black is dead, White is happy :)])
+(;B[qq];W[rr]C[Black is dead, White is happy :)]))
+(;B[sq];W[qs]C[White is happy :)])
+(;B[qq];W[rr]C[];B[sq])
+(;B[rr];W[sq];B[qq];W[ps];B[qs];W[os])
+(;B[ps];W[sq]C[White is safe, Black dead])
+(;B[po];W[op];B[sq];W[qs]C[White is happy :)])))
+(;B[os];W[qp]
+(;B[op];W[po]
+(;B[nq];W[mr]C[Due to O2, Black has a false eye and die. White is happy])
+(;B[or];W[nq]))
+(;B[po];W[op];B[or];W[nq]C[White is happy])))

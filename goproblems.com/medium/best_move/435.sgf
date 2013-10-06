@@ -1,0 +1,23 @@
+(;GE[best move]DI[1k]DP[18]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AW[dq][cq][cp][co][cn]AB[dp][do][dm][dn]AW[bk][bl][bm]AE[dl]AB[ck][cj][bj][dj]AW[ci]AE[cl]AB[eq][fq][hq]AW[fp][ep][eo][fo][gl]AB[pp]AE[qn][nq]AW[qd]AB[dd]AW[fc]AB[df]LB[gl:1]C[fuseki: white played 1. best move for black?]
+(;B[gp]CR[gp]
+(;W[go]CR[go]
+;B[ho]CR[ho]C[RIGHT
+shape tesuji])
+(;W[kq]CR[kq]
+;B[gn]CR[gn]C[white can't afford to lose these stones]))
+(;B[ho]CR[ho]
+;W[gp]CR[gp]C[white forces black into bad shape])
+(;B[jp]CR[jp]C[too slow])
+(;B[gj]CR[gj]
+;W[ho]CR[ho]C[the cap is too early])
+(;B[il]CR[il]
+;W[ho]CR[ho]C[bad placement])
+(;B[od]CR[od]C[more urgent moves exist])
+(;B[oc]CR[oc]C[more urgent moves exist])
+(;B[ec]CR[ec]C[more urgent moves exist])
+(;B[dc]CR[dc]C[more urgent moves exist])
+(;B[db]CR[db]C[more urgent moves exist])
+(;B[hc]CR[hc]C[more urgent moves exist])
+(;B[kq]CR[kq]C[too low])
+(;B[pj]CR[pj]C[more urgent moves exist]))

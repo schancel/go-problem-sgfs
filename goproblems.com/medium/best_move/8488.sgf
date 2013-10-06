@@ -1,0 +1,37 @@
+(;GE[best move]DI[1k]DP[18]SO[santa c]CO[6]AB[bp]AB[cp]AB[dq]AB[dr]AB[ds]AW[bo]AW[co]AW[do]AW[eo]AW[ep]AW[eq]AW[er]AW[es]AW[bn]AW[an]AW[br]C[Black would love to live]AP[goproblems]
+(;B[ar];W[bq]
+(;B[aq];W[ap];B[ao]MA[ap];W[dp]
+(;B[bs];W[ap]MA[ao]C[Well done! A ko! :)RIGHT])
+(;B[cq];W[ap]C[White has an extra threat at B1 to which Black must anwser at C2.]MA[ao])
+(;B[cr];W[ap]C[White has an extra threat at B1 to which Black must anwser.]MA[ao])
+(;B[ap];W[bs]TR[cr]TR[cq]C[:(]))
+(;B[ap];W[bs]TR[aq]TR[dp]C[:(]))
+(;B[bq];W[ar]
+(;B[cr];W[ap];B[aq];W[dp]C[:(])
+(;B[ap];W[cr]TR[bs]TR[dp]C[:(])
+(;B[aq];W[cr]TR[dp]TR[bs]C[:(])
+(;B[bs];W[ap];B[aq];W[dp]C[:(])
+(;B[dp];W[cr]
+(;B[ap];W[bs]C[:(])
+(;B[aq];W[bs]C[:(])
+(;B[bs];W[ap];B[aq];W[cs]C[:(])
+(;B[cs];W[ap];B[aq];W[bs]C[:(])))
+(;B[ap];W[ar]
+(;B[bs];W[cr]TR[dp]TR[cs]C[:(])
+(;B[cr];W[bs]C[:(]TR[bq]TR[dp])
+(;B[bq])
+(;B[dp];W[bs]C[:(]TR[bq]TR[cr])
+(;B[cq];W[bs]C[:(]))
+(;B[aq];W[ar]
+(;B[dp];W[bq];B[ap];W[bs]C[:(])
+(;B[bq])
+(;B[cr];W[bq];B[ap];W[bs]C[:(])
+(;B[bs];W[cr]TR[dp]TR[cs]C[:(]))
+(;B[cr];W[bq]
+(;B[ap];W[bs]TR[ar]TR[dp]C[:(])
+(;B[aq];W[ar]))
+(;B[dp];W[ar]TR[ap]TR[bs])
+(;B[bs];W[ar]
+(;B[ap])
+(;B[aq])
+(;B[bq])))

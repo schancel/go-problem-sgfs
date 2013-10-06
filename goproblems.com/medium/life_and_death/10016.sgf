@@ -1,0 +1,44 @@
+(;GE[life and death]DI[1k]DP[20]SO[Field Mouse]CO[9]AB[pd]AB[qf]AW[qc]AB[pc]AW[rb]AB[pb]AW[rd]C[Black to kill.]AW[qk]AP[goproblems]
+(;B[rf];W[sc]
+(;B[qb];W[qd]
+(;B[ra]C[This is my favourite solution. I like your style!RIGHT])
+(;B[se];W[sd];B[ra]C[RIGHT]))
+(;B[ra];W[qa]
+(;B[qb];W[sa]
+(;B[qd]C[RIGHT])
+(;B[se]C[RIGHT]))
+(;B[se];W[qb]))
+(;B[qd];W[qb])
+(;B[se];W[qb]))
+(;B[rg];W[qb]
+(;B[qa];W[ra]
+(;B[sc];W[sb];B[sd];W[re];B[se];W[sf])
+(;B[sb];W[sc]))
+(;B[sc];W[sb];B[sd];W[re];B[se];W[sf]))
+(;B[re];W[qd]
+(;B[qe];W[sc];B[ra];W[qa];B[qb];W[sa])
+(;B[sc];W[qe];B[rf];W[pe]C[White escapes. This result may depend on the whole board position, but is much worse than the solution.])
+(;B[mg]))
+(;B[sf];W[qb]
+(;B[qa];W[ra];B[sc];W[sb];B[sd];W[re];B[se];W[rf];B[rg];W[qg]
+(;B[rh];W[sg]
+(;B[sh];W[rc];B[sg];W[qh];B[ri];W[qi];B[rj];W[rk];B[qe];W[qj];B[qd];W[pa])
+(;B[pg];W[rc]))
+(;B[qh];W[pg];B[rh];W[pe];B[qd];W[rc];B[sg];W[qe]))
+(;B[sc];W[sb];B[sd];W[re];B[se];W[rf];B[rg];W[qg];B[rh];W[sg]
+(;B[sh];W[rc];B[sg];W[qh]C[Trouble.])
+(;B[pg];W[rc])))
+(;B[qd];W[qb]
+(;B[re];W[sc])
+(;B[sc];W[sb]))
+(;B[qb];W[qe]
+(;B[qd];W[pe];B[rc];W[re]C[Black could do much better.])
+(;B[pe];W[rf]
+(;B[qd];W[re]
+(;B[rc];W[qg];B[pf]C[Nice, but black could do better.])
+(;B[qg];W[rc]
+(;B[rg];W[ra])
+(;B[ra];W[rh])))
+(;B[qg];W[qd]))
+(;B[pf];W[rf];B[rg];W[qd];B[sf];W[se]C[Ko; black could do better.])
+(;B[rf];W[pe];B[qd];W[re];B[rc]C[White escapes and splits black; black could do better.])))

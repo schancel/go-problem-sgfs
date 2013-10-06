@@ -1,0 +1,15 @@
+(;GE[joseki]DI[4k]DP[28]SO[Field Mouse]CO[0]AB[pp]AW[nq]AB[lq]AW[qq]AB[pq]AW[qp]AB[po]AW[pr]AB[or]AW[qr]AB[oq]AW[qn]AW[nr]LB[np:A]TR[nr]C[Whtie just played the marked stone; respond at A,]AP[goproblems]
+(;B[np];W[mp]C[What to do now?]
+(;B[mq]
+(;W[no]
+(;B[ns];W[op];B[mr]C[Good, white is a bit heavy and your stones are still strong,CHOICERIGHT])
+(;B[op];W[os]C[You got tricked. The marked stone canot be captured now and the cut at A does not work and you are cut!]TR[mp]LB[qo:A])
+(;B[os];W[op]C[Ouch])
+(;B[mr];W[ns];B[op];W[os]))
+(;W[os];B[mr];W[ns];B[ps];W[qs];B[no]LB[ko:A]LB[qo:B]C[A and B are miai nowRIGHT]))
+(;B[mo];W[lp];B[mq];W[no]
+(;B[op];W[os]C[You are cut and the A thing does not work!]LB[qo:A])
+(;B[nn];W[op];B[oo];W[np]C[Time to resign :(])
+(;B[oo];W[op]C[Unnecessary crazy ko.]))
+(;B[ns];W[mq];B[mr]C[I think the black group is ok in this fight. Next, white A and black B look natural. (any suggestions about how this fight should continue are welcomed!)RIGHT]LB[mo:A]LB[kr:B]))
+(;B[ns]C[Sorry, I told you to play A :)]))

@@ -1,0 +1,22 @@
+(;GE[endgame]DI[4d]DP[7]SO[wtd]CO[8]SZ[9]AB[dc]AB[ec]AB[fc]AB[gc]AB[hc]AB[ic]AB[hd]AB[ae]AB[he]AB[af]AB[bf]AB[hf]AB[ag]AB[ig]AB[ch]AB[dh]AB[eh]AB[fh]AB[ih]AB[ai]AB[bi]AB[ci]AB[ei]AB[gi]AB[hi]AB[ii]AW[cb]AW[cc]AW[ad]AW[bd]AW[cd]AW[dd]AW[gd]AW[be]AW[ce]AW[de]AW[ee]AW[fe]AW[ge]AW[cf]AW[ef]AW[gf]AW[bg]AW[cg]AW[dg]AW[eg]AW[fg]AW[gg]AW[hg]AW[bh]AW[gh]AW[hh]LB[ed:W]C[If Black can win by three points by going first, just play an endgame move. If White can win by three points by going first, play at 'W'.FORCE]
+(;B[db];W[ah];B[ca];W[ba];B[da];W[bb]C[A win, but only by 1.])
+(;B[ah];W[fa];B[fb];W[ea]
+(;B[ga];W[db];B[eb];W[da]C[A win, but only by 1.])
+(;B[db];W[da];B[ga]C[You won by 2, only 2nd best.]))
+(;B[ed]AB[cb]AB[cc]AB[ad]AB[bd]AB[cd]AB[dd]AB[gd]AB[be]AB[ce]AB[de]AB[ee]AB[fe]AB[ge]AB[cf]AB[ef]AB[gf]AB[bg]AB[cg]AB[dg]AB[eg]AB[fg]AB[gg]AB[hg]AB[bh]AB[gh]AB[hh]AW[dc]AW[ec]AW[fc]AW[gc]AW[hc]AW[ic]AW[hd]AW[ae]AW[he]AW[af]AW[bf]AW[hf]AW[ag]AW[ig]AW[ch]AW[dh]AW[eh]AW[fh]AW[ih]AW[ai]AW[bi]AW[ci]AW[ei]AW[gi]AW[hi]AW[ii];W[fd]
+(;B[ah];W[db];B[da];W[ea];B[ca]C[You won by 2, only 2nd best.])
+(;B[fa];W[fb]
+(;B[ea];W[ah]
+(;B[ga];W[ha];B[hb];W[gb];B[ia];W[ib];B[db];W[eb];B[da];W[ha]C[A win, but only by 1.])
+(;B[ha];W[db];B[da];W[gb];B[ga]C[ You won by 3, the best result.RIGHT]))
+(;B[da];W[ah]
+(;B[ha];W[gb];B[ga];W[db];B[ea]C[ You won by 3, the best result.RIGHT])
+(;B[ga];W[ha]
+(;B[hb]
+(;W[gb]
+(;B[ia];W[ib];B[db];W[ha];B[ea]C[ A win, but only by 1.CHOICE])
+(;B[ea];W[ib];B[db]C[A win, but only by 1.]))
+(;W[ib];B[ia];W[gb];B[ea];W[ha];B[db]C[ A win, but only by 1.CHOICE])))))
+(;B[ea];W[ah];B[ga];W[db];B[da];W[ha]
+(;B[hb];W[gb];B[ia];W[ib];B[fa];W[ha]C[Only jigo.])
+(;B[fa];W[gb]C[Only jigo.]))))

@@ -1,0 +1,13 @@
+(;GE[best move]DI[18k]DP[65]SO[Blaster097]CO[0]AB[el]AB[em]AB[fm]AB[ho]AB[hp]AB[gp]AB[gq]AB[fq]AB[gr]AB[hr]AB[iq]AB[jq]AB[jp]AB[kp]AB[ko]AB[lp]AB[jr]AB[kr]AW[dl]AW[dm]AW[en]AW[fn]AW[gn]AW[hn]AW[go]AW[do]AW[ep]AW[fp]AW[eq]AW[er]AW[cr]AW[dq]AW[dr]AW[fr]AW[ip]AW[io]AW[jo]AW[kn]AW[lo]AW[mp]AW[kq]AW[lq]AW[lr]AW[nq]AW[pr]AB[pp]C[Black to play]AP[goproblems]
+(;B[ln];W[mo]TR[mo]C[this is a mistake];B[jn];W[in]
+(;B[km]C[Now white is splitRIGHT])
+(;B[jm]))
+(;B[jn];W[in]
+(;B[ln];W[jm];B[mo]C[RIGHT])
+(;B[mo];W[ln]
+(;B[jm]C[RIGHT])
+(;B[mn];W[jm]))
+(;B[km];W[jm];B[ln];W[mo];B[jn]C[KO, also good])
+(;B[jm]C[RIGHT]))
+(;B[mo];W[ln];B[jn];W[in];B[jm]C[RIGHT])
+(;B[in];W[jn];B[mo];W[ln];B[np];W[mq]))

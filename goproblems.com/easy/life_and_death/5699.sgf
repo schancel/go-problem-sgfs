@@ -1,0 +1,10 @@
+(;GE[life and death]DI[6k]DP[37]SO[maba]CO[9]AB[fq]AB[gq]AB[hp]AB[ip]AW[hq]AW[hr]AW[iq]AW[jr]AW[kq]AW[kp]AB[jq]AB[jo]AB[ko]AW[lr]AW[ks]AB[lp]AB[mq]AB[mr]AB[jp]LB[jp:1]LB[ks:2]C[If black makes the mistake of playing 1 and white tries to save everything with 2 then how does black kill?]AB[mo]AB[or]AP[goproblems]
+(;B[is];W[lq]
+(;B[ms];W[ls]
+(;B[js]C[RIGHT])
+(;B[hs]C[NOTTHIS])
+(;B[gr];W[hs]))
+(;B[js];W[ms];B[ns];W[hs];B[ls]C[White gets a 2-step ko.])
+(;B[hs]C[NOTTHIS])
+(;B[gr];W[hs];B[ms];W[ls];B[js];W[ir]TR[gr]TR[hs]C[The exchange of the marked stones was bad.]))
+(;B[lq];W[is];B[kr];W[kq]))

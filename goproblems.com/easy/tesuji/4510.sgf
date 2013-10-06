@@ -1,0 +1,13 @@
+(;GE[tesuji]DI[25k]DP[77]SO[cusp]CO[8]AB[ij]AB[jj]AB[kj]AB[ih]AB[ig]AB[jg]AW[jh]AW[kh]AW[kg]AW[ki]AW[li]AW[lj]AW[lk]AW[kk]AW[jk]AW[ik]AW[hk]AW[gj]AB[gg]AW[if]AW[jf]AW[kf]C[Easy problem: white to kill some black stones.]AB[gh]AP[goproblems]
+(;W[hg];B[hi]C[Black escapes.])
+(;W[hh];B[hi]C[Black escapes.])
+(;W[gi];B[hi]C[Black escapes.])
+(;W[hi];B[ii]C[Black escapes through the bamboo joint.])
+(;W[ii];B[hi]
+(;W[hg];B[ji]C[Black escapes.])
+(;W[hh];B[ji]C[Black escapes.])
+(;W[gi];B[ji]C[Black escapes.])
+(;W[ji];B[hj]C[Black escapes.])
+(;W[hj];B[ji];W[ii]C[Snapback. That is it!RIGHT]))
+(;W[ji];B[ii]C[Black escapes through the bamboo joint.])
+(;W[hj];B[ii]C[Black escapes.]))

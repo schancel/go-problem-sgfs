@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[8k]DP[45]SO[mrmoto]CO[7]AB[db]AB[fb]AB[fc]AB[gc]AB[hd]AB[id]AB[ie]AB[je]AB[ke]AB[jc]AB[jb]AB[fe]AB[fg]AB[fh]AB[hh]AB[hg]AB[ih]AB[jh]AB[jg]AB[kg]AB[ld]AB[mb]AB[ne]AB[nf]AB[gi]AB[gj]AB[fk]AB[ej]AB[gl]AB[lh]AB[mh]AB[nh]AB[lj]AB[dp]AB[cp]AB[dn]AB[do]AB[dr]AB[fp]AB[gp]AB[go]AB[hq]AB[jp]AB[mp]AB[oe]AB[pd]AB[oh]AB[ph]AB[pg]AB[qg]AB[qf]AB[rf]AB[pk]AB[pl]AB[ql]AB[rk]AB[oo]AB[pp]AB[pq]AB[oq]AB[or]AW[cc]AW[dd]AW[df]AW[dh]AW[ei]AW[fi]AW[fj]AW[gb]AW[ha]AW[hc]AW[ic]AW[ib]AW[jd]AW[kd]AW[kc]AW[kb]AW[le]AW[kf]AW[jf]AW[ig]AW[lg]AW[mg]AW[ng]AW[og]AW[of]AW[pf]AW[gh]AW[gg]AW[gf]AW[hi]AW[ji]AW[ki]AW[kh]AW[rg]AW[rh]AW[qh]AW[ri]AW[rj]AW[pj]AW[pi]AW[qk]AW[rl]AW[nj]AW[fl]AW[cl]AW[cn]AW[dm]AW[em]AW[en]AW[gm]AW[gn]AW[co]AW[fo]AW[fq]AW[ho]AW[nq]AW[pr]AW[qr]AW[qq]AW[qp]AW[rm]AW[qn]TR[lg]TR[mg]TR[ng]TR[og]TR[of]TR[pf]TR[kf]TR[jf]TR[le]TR[ig]AW[dk]AW[if]AB[hf]AW[lf]AB[hj]LB[hf:1]LB[lf:2]LB[hj:3]TR[if]C[White to save the marked group.]AP[goproblems]
+(;W[ii];B[he]
+(;W[ff];B[ef])
+(;W[ge];B[gd])
+(;W[gd];B[ge]))
+(;W[md];B[lc]C[There's nowhere to run in that direction ...])
+(;W[pe];B[qe]C[That just reduces your liberties.])
+(;W[ge];B[gd])
+(;W[gd];B[he]
+(;W[ii];B[ge])
+(;W[ge];B[ii];W[ij];B[hi];W[hk];B[gk]
+(;W[ek];B[hl]
+(;W[hm];B[il])
+(;W[il];B[hm]
+(;W[im];B[ik]
+(;W[hn];B[jj])
+(;W[jj];B[jk])
+(;W[jk];B[jj]))
+(;W[ik];B[ff]))
+(;W[ik];B[ff]))
+(;W[hl];B[ek]
+(;W[el];B[dj]
+(;W[di];B[cj]C[oops])
+(;W[cj]C[Good work!  (in the actual game, there wasn't a white stone at D9, so white resigned after bG9)RIGHT]LB[dk:X]))
+(;W[dj]C[Good work!  (in the actual game, there wasn't a white stone at D9, so white resigned after bG9)RIGHT]LB[dk:X])))))

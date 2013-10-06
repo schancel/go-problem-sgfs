@@ -1,0 +1,22 @@
+(;GE[life and death]DI[2d]DP[14]SO[marwin]CO[9]SZ[19]AW[da]AW[ea]AW[ab]AW[hb]AW[ib]AW[bc]AW[dc]AW[ec]AW[fc]AW[gc]AW[bd]AW[hd]AW[be]AW[de]AW[cf]AW[cg]AW[dh]AB[ha]AB[bb]AB[cb]AB[db]AB[eb]AB[fb]AB[gb]AB[cc]AB[cd]AB[ce]AB[bf]
+(;B[ae]
+(;W[ac]C[CHOICE];B[bg];W[bh];B[af]
+(;W[ah];B[ba];W[ag];B[aa];W[ad];B[bf]C[RIGHT])
+(;W[ba]C[this is possible variation for white, but it leads to multistep ko (sure it is better then A12 now, but let the problem be not too complicated)]))
+(;W[bg];B[ac];W[af];B[aa];W[ca];B[ga]C[RIGHT]))
+(;B[ca];W[bg])
+(;B[aa];W[ba])
+(;B[ac];W[ad]
+(;B[bg];W[bh])
+(;B[af];W[bg])
+(;B[aa];W[ba];B[ca];W[af];B[aa];W[bg];B[ac]C[Ko isn't enough]))
+(;B[af];W[bg]
+(;B[ae];W[ag])
+(;B[ac];W[ad]))
+(;B[bg];W[bh]
+(;B[ac];W[ad];B[ba];W[af];B[aa];W[ag])
+(;B[aa];W[ba];B[fa];W[af];B[ca];W[ac];B[aa])
+(;B[ba];W[af];B[ac];W[ad])
+(;B[ae];W[af]
+(;B[ac];W[ad])
+(;B[ag];W[ac];B[ba];W[ah];B[aa];W[af]))))

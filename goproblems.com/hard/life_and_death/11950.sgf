@@ -1,0 +1,56 @@
+(;GE[life and death]DI[4d]DP[8]SO[MeleeNewb]CO[0]AW[rb]AW[qc]AW[pd]AW[pe]AW[pf]AW[nc]AW[qg]AW[qh]AW[qi]AB[qf]AB[qe]AB[qd]AB[rc]C[Can black make unconditional life?FORCE]LB[me:Yes]LB[mg:No]AW[rj]AP[goproblems]
+(;B[me];W[mg]C[How?];B[qb];W[pc]
+(;B[ra];W[sb]
+(;B[sc]
+(;W[pb]
+(;B[re]
+(;W[qa]
+(;B[rg];W[sg]
+(;B[sh];W[sf]
+(;B[rh];W[se]
+(;B[rf]C[Good work.RIGHT])
+(;B[sd];W[rd]C[So close...]))
+(;B[se];W[rh];B[rf];W[sg]C[So close...])
+(;B[rf];W[rh];B[se]))
+(;B[sf];W[sd]
+(;B[rh];W[rd]C[Black cannot connect.])
+(;B[sh];W[rd]TR[se]TR[rh]C[Miai]))
+(;B[rh];W[se]C[Ko at best.]))
+(;B[sd];W[rg]TR[rf]TR[sf]C[Miai])
+(;B[se];W[rg])
+(;B[sf];W[rg]TR[rf]TR[sd]C[Miai])))
+(;B[sa];W[rf]TR[re]TR[se]C[Miai])
+(;B[rg];W[rd];B[sa];W[rf])
+(;B[rd];W[se]TR[qa]TR[rf]C[Miai.])
+(;B[se];W[qa]
+(;B[rd];W[rf];B[rg];W[sg]C[That does not work here.])
+(;B[rf];W[rd]C[Nope.])
+(;B[rg]C[];W[rd];B[sd];W[re];B[rf];W[sg];B[rh];W[sh];B[si];W[ri];B[sf];W[sh])
+(;B[re]))
+(;B[rf];W[qa]
+(;B[se])
+(;B[rg];W[rd])
+(;B[rd];W[se]))
+(;B[sd];W[qa]
+(;B[rg];W[re])
+(;B[re]))))
+(;B[pb];W[rd]C[Not like that.])
+(;B[sd];W[pb]
+(;B[re];W[rg]TR[sf]TR[rf]C[Miai])
+(;B[rg];W[re];B[rf];W[rh]TR[se]TR[sg]C[Miai]))
+(;B[re];W[sc]C[Ko at best.])
+(;B[se];W[sc];B[rd];W[pb]))
+(;B[sd];W[sb]
+(;B[ra])
+(;B[re];W[rg])
+(;B[rg];W[re]
+(;B[rf];W[rh])
+(;B[ra];W[pb])))
+(;B[rg];W[rd];B[re];W[sc])
+(;B[re];W[sb]
+(;B[sd])
+(;B[sc];W[sd];B[rd];W[rf])
+(;B[rg];W[sd]))
+(;B[se];W[sc];B[rd];W[pb])
+(;B[sb]C[Cutting down on varations.NOTTHIS]))
+(;B[mg];W[me]C[There is a way...]))

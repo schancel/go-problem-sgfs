@@ -1,0 +1,36 @@
+(;GE[life and death]DI[6k]DP[38]SO[unkx80]CO[7]AB[ir]AB[hr]AB[kr]AB[lr]AW[hq]AW[hp]AW[ho]AW[in]AW[jn]AW[jo]AW[kn]AW[lo]AW[lp]AW[lq]AB[gq]AB[gp]AB[go]AB[hn]AB[hm]AB[im]AB[jm]AB[km]AB[lm]AB[ln]AB[mo]AB[mp]AB[mq]LB[jk:D]C[Can white live? If not, please play at D.]AP[goproblems]
+(;W[jq]
+(;B[ip]C[CHOICE]
+(;W[iq];B[kp]
+(;W[kq];B[jp]C[Seki.RIGHT])
+(;W[jp];B[kq]))
+(;W[jp];B[iq])
+(;W[kq];B[iq])
+(;W[kp];B[iq]))
+(;B[iq];W[ip];B[kq];W[kp]C[RIGHT])
+(;B[kq];W[kp];B[iq];W[ip]C[RIGHT])
+(;B[kp]C[CHOICE]
+(;W[kq];B[ip]
+(;W[iq];B[jp]C[Seki.RIGHT])
+(;W[jp];B[iq]))
+(;W[jp];B[kq])
+(;W[iq];B[kq])
+(;W[ip];B[kq])))
+(;W[jp]C[Please see the previous problem.])
+(;W[ip];B[jq]
+(;W[jp];B[kp])
+(;W[kp];B[jp])
+(;W[kq];B[jp]))
+(;W[kp];B[jq]
+(;W[jp];B[ip])
+(;W[ip];B[jp])
+(;W[iq];B[jp]))
+(;W[kq];B[jq]
+(;W[jp];B[ip])
+(;W[ip];B[jp])
+(;W[iq];B[jp]))
+(;W[iq];B[jq]
+(;W[jp];B[kp])
+(;W[kp];B[jp])
+(;W[kq];B[jp]))
+(;W[jk]C[White is not dead yet.]))

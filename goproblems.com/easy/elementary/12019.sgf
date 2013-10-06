@@ -1,0 +1,15 @@
+(;GE[elementary]DI[15k]DP[61]SO[DarkSycthe]CO[0]AW[kp]AW[jp]AW[lq]AW[jr]AB[mr]AB[np]AB[io]AB[ip]AB[lo]AB[mp]AW[hr]AW[cq]AW[do]AB[qp]AW[fq]AB[jo]AB[ko]C[White to connect the marked stones in the best way.]MA[jp]MA[kp]MA[lq]MA[jr]MA[hr]MA[fq]AB[kr]AB[lr]AB[hp]AW[mq]AB[nr]AB[or]AB[oq]AB[op]AW[nq]MA[mq]MA[nq]AP[goproblems]
+(;W[jq]C[Good. This simple connection prevents black from cutting white.RIGHT])
+(;W[kq];B[iq]
+(;W[ir];B[jq])
+(;W[jq];B[ir];W[is];B[gr]))
+(;W[iq];B[kq]
+(;W[lp];B[jq])
+(;W[jq];B[lp]C[You lost three more stones than necessary.]))
+(;W[ir];B[jq])
+(;W[hq];B[jq])
+(;W[is];B[jq])
+(;W[js];B[jq])
+(;W[gq];B[jq])
+(;W[gr];B[jq])
+(;W[lp];B[jq]))

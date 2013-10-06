@@ -1,0 +1,21 @@
+(;GE[best move]DI[3d]DP[10]SO[remembered]CO[0]AB[ir]AB[jr]AB[kq]AB[lp]AB[mp]AB[lr]AB[nq]AB[oq]AB[pp]AB[po]AB[qp]AB[ro]AB[qn]AB[pm]AW[rq]AW[rp]AW[qq]AW[pq]AW[or]AW[nr]AW[hq]AW[iq]AW[jq]AW[hr]AW[kp]AW[ko]AW[lo]AW[mo]AW[no]AW[op]SZ[19]AB[mr]C[W to kill some B & Must Sente.]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;W[ks];B[np]
+(;W[kr];B[lq]
+(;W[is];B[oo]C[RIGHT])
+(;W[js]C[RIGHT];B[oo]C[RIGHT]))
+(;W[is];B[ls]
+(;W[oo];B[kr])
+(;W[kr];B[js])
+(;W[js];B[kr])))
+(;W[mq];B[lq]
+(;W[ks];B[np];W[kr];B[ls])
+(;W[np];B[ks];W[mq]))
+(;W[is];B[ks]
+(;W[mq];B[lq]
+(;W[ms];B[np])
+(;W[np];B[ms];W[mq]))
+(;W[ms];B[np]))
+(;W[ms];B[np]
+(;W[ks];B[ls];W[is];B[kr])
+(;W[ls];B[ks];W[is];B[ns])
+(;W[is];B[js];W[ks];B[kr])))

@@ -1,0 +1,6 @@
+(;GE[elementary]DI[10k]DP[53]SO[TheBigH]CO[0]AB[os]AB[or]AB[pr]AB[qr]AB[rr]AB[sr]AW[ns]AW[nr]AW[nq]AW[oq]AW[pq]AW[qq]AW[rq]AW[sq]AW[qs]MA[qs]C[White has just played the marked stone as a ko threat. How many points does this move threaten? Play on one of the numbers representing the point value please.]AW[mr]LB[mp:4]LB[op:10]LB[qp:13]LB[sp:18]AP[goproblems]
+(;W[mp]C[Nope! Try again.])
+(;W[op]C[Nope! Try again.])
+(;W[qp]C[Nope! Try again.])
+(;W[sp]C[Correct! If black answers the ko threat, he has three points of territory and one white prisoner = 4 points. If black ignores the threat white will kill the black group, gaining eight points of territory and six black prisoners = 14 points. 4 plus 14 = 18.RIGHT])
+(;W[rs]C[Don't play here! Play on one of the number values!]LB[mp:4]LB[op:10]LB[qp:13]LB[sp:18]))

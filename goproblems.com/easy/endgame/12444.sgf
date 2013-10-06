@@ -1,0 +1,25 @@
+(;GE[endgame]DI[4k]DP[29]SO[MrMoto]CO[0]AW[kr]AW[kq]AW[kp]AW[mp]AW[mq]AB[mr]AB[lr]AB[lq]AB[lp]AW[lo]AB[jo]AB[ko]AB[ip]AB[jp]AB[hp]AB[hr]AB[hq]AB[gp]AW[kn]AW[jn]AW[ho]AW[io]AW[go]AW[fp]AW[fq]AW[gq]AW[gr]AW[ln]AW[mn]AW[nn]AB[mo]AB[no]AB[on]AB[op]AB[oq]AW[fn]AB[fr]AB[er]AW[hs]MA[hs]C[White has just played the marked stone. How should black respond?]AP[goproblems]
+(;B[jr];W[js]
+(;B[ir];W[is])
+(;B[jq];W[ks]))
+(;B[ks];W[js])
+(;B[js];W[ir])
+(;B[is];W[gs]
+(;B[jr];W[ks]
+(;B[ls];W[nr])
+(;B[jq]C[RIGHT]))
+(;B[ir]
+(;W[nr]C[]
+(;B[np]C[NOTTHIS])
+(;B[nq];W[ls];B[np];W[jq]C[seki]))
+(;W[ls]C[CHOICE]
+(;B[nr];W[jq]C[seki])
+(;B[nq];W[jq])
+(;B[jq];W[nr])))
+(;B[ks];W[ir];B[jr];W[js]C[You didn't need to lose these points.]))
+(;B[ir];W[is];B[js];W[nr]
+(;B[np]C[NOTTHIS])
+(;B[nq];W[gs]
+(;B[ks]C[You lost too many points.])
+(;B[jr];W[ks]MA[jq]MA[ls]C[Black has a shortage of liberties.])
+(;B[jq];W[ks]))))

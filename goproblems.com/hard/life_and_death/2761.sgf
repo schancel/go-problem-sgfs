@@ -1,0 +1,27 @@
+(;GE[life and death]DI[4d]DP[7]SO[santa c]CO[5]C[How many different first moves grant unconditional life here?FORCE]AB[gs]AB[gr]AB[hr]AB[ir]AB[jq]AB[jp]AB[kp]AB[lr]AW[mr]AW[mq]AW[mp]AW[lo]AW[ko]AW[jo]AW[ip]AW[hq]AW[gq]AW[fr]AW[fs]AW[fp]AW[ns]AW[or]LB[gm:1]LB[hm:2]LB[im:3]LB[jm:4]LB[km:5]LB[lm:6]LB[mm:7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[km];W[im]C[Please show one]
+(;B[lq]C[RIGHT])
+(;B[kr]C[RIGHT])
+(;B[ls]C[RIGHT])
+(;B[js]C[RIGHT])
+(;B[ks]C[RIGHT])
+(;B[kq];W[js]
+(;B[ks];W[is];B[jr];W[ls])
+(;B[jr];W[ls])
+(;B[ls];W[jr];B[iq];W[is])
+(;B[is];W[ls]))
+(;B[jr];W[ls]
+(;B[ks];W[lq];B[kq];W[kr])
+(;B[kr];W[lq])
+(;B[lq];W[kr]))
+(;B[is];W[kr]
+(;B[lq];W[ls])
+(;B[ls];W[lq])
+(;B[kq];W[lq])
+(;B[ks];W[lq])))
+(;B[gm]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...])
+(;B[hm]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...])
+(;B[im]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...])
+(;B[jm]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...])
+(;B[lm]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...])
+(;B[mm]C[Five different first moves do. Use 'Show Solution'->'Navigate Soltuion' following the correct anwser to explore them...]))

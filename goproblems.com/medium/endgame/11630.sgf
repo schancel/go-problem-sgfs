@@ -1,0 +1,16 @@
+(;GE[endgame]DI[3k]DP[24]SO[Cow]CO[0]AW[ai]AW[ah]AW[af]AW[ag]AW[bf]AW[bh]AW[ch]AB[bi]AB[ci]AB[di]AB[dh]AB[bg]AB[cg]AB[cf]AB[dg]AB[eg]AB[ef]AB[fg]AW[ce]AW[de]AW[df]AW[ee]AW[fe]AW[ff]AB[gf]AB[ge]AW[bd]AW[dc]AW[dd]AB[fd]AB[ed]AB[ec]AB[db]AB[eb]AW[cb]AW[ca]AW[da]AB[ea]AB[bb]AW[bc]AW[gc]AB[gd]AW[gb]AB[ga]AW[ha]AB[fa]AW[hc]AW[hd]AB[gh]AB[fi]AB[hh]AB[gg]AW[he]AW[hf]AW[hg]AW[ig]AW[ih]AB[eh]AW[hi]C[No komi, no prisoners. Black to move and win!]AP[goproblems]SZ[9]
+(;B[ae]
+(;W[cc];B[be];W[ad]C[Good job! Black wins by 2 points. :-)RIGHT])
+(;W[ab]
+(;B[be];W[ad]C[Good job! Black wins by 2 points. :-)RIGHT])
+(;B[cc];W[cd];B[be];W[ad]C[Good job! Black wins by 2 points. :-)RIGHT]))
+(;W[be];B[cc];W[cd];B[ba];W[cc];B[ac]C[You killed white! Good job. Even if he had not resisted with B5 black would have won by capturing the seven stones. :-)RIGHT]))
+(;B[cc];W[ae]
+(;B[ac];W[cd];B[ba];W[cc];B[ab]C[White lives with seki, so black loses!])
+(;B[ba];W[ac];B[cb];W[cd];B[ab]C[White wins by one point. ;-(])
+(;B[ab];W[cd];B[ba];W[cc];B[ac]C[Black cannot kill white, so white wins.]))
+(;B[ba];W[cc]C[White lives easily. Black loses.])
+(;B[ac];W[cc];B[ad];W[be]C[White is alive and wins the game. :-(])
+(;B[ad];W[ac]
+(;B[ae];W[be];B[cc];W[cd];B[ba];W[cc]C[Black cannot kill white, so white wins.])
+(;B[cc];W[cd];B[ba];W[cc]C[Black cannot kill white, so white wins.])))

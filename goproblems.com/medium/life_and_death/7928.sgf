@@ -1,0 +1,14 @@
+(;GE[life and death]DI[3d]DP[10]SO[santa c]CO[8]AB[ps]AB[pr]AB[pp]AB[qp]AB[rp]AB[pq]AW[sp]AW[sr]AW[rr]AW[qq]AW[rn]AW[qn]AW[sm]AW[pn]AW[oo]AW[np]AW[nq]AW[nr]AW[ns]C[What can Black do?]AP[goproblems]
+(;B[so];W[ro]
+(;B[sq];W[rq]
+(;B[qr];W[sp]MA[sq]C[Well done! R2 prevented the creation of a dead shape inside! :)RIGHT]LB[qr:A]LB[qq:A]LB[rq:A]LB[rr:A]LB[sr:A])
+(;B[rs];W[qr]C[Dead shape inside! :(])
+(;B[qs];W[qr]C[Dead shape inside! :(])
+(;B[sp];W[qr]C[Dead shape inside! :(]))
+(;B[rq];W[sq]C[:(])
+(;B[qr];W[sq]C[:(]))
+(;B[sq];W[rq];B[so];W[ro]C[:(]TR[qr]TR[sn])
+(;B[rq];W[sq]C[:(])
+(;B[qr];W[sq]C[:(])
+(;B[rs];W[sq]C[:(])
+(;B[ro];W[so]C[:(]))

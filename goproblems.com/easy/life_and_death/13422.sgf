@@ -1,0 +1,221 @@
+(;GE[life and death]DI[5k]DP[35]SO[Coutty]CO[0]AB[rj]AB[qj]AB[pj]AB[ok]AB[ol]AB[om]AB[on]AB[oo]AB[op]AB[pn]AB[qn]AB[ql]AW[qk]AW[pk]AW[pl]AW[pm]AW[qm]AW[po]AW[pp]AW[qq]AW[rq]AW[rr]AW[qs]AW[ps]AW[oq]AW[or]C[Save 5 white stones]AB[rh]AP[goproblems]
+(;W[rn]
+(;B[ro]C[CHOICE]
+(;W[rm];B[qo]
+(;W[sn];B[so]
+(;W[sl]C[CorrectCHOICERIGHT])
+(;W[rl];B[sl]
+(;W[sk];B[rk])
+(;W[rk];B[sk]))
+(;W[rk];B[sl]
+(;W[rl];B[sk])
+(;W[sk];B[rl];W[sm];B[rl])
+(;W[sm];B[sk]))
+(;W[sk];B[rk]
+(;W[rl];B[sl])
+(;W[sl];B[rl]))
+(;W[sm];B[rk];W[rl]))
+(;W[so]
+(;B[sp]
+(;W[sn];B[rp]
+(;W[sl]C[CorrectCHOICERIGHT])
+(;W[rl];B[sl]
+(;W[rk];B[sk])
+(;W[sk];B[rk]))
+(;W[rk];B[sl]
+(;W[rl];B[sk])
+(;W[sk];B[rl];W[sm];B[rl]))
+(;W[sm];B[rk];W[rl])
+(;W[sk];B[rk]
+(;W[rl];B[sl])
+(;W[sl];B[rl])))
+(;W[rp];B[sn]))
+(;B[sn];W[sp]C[RIGHT]))
+(;W[rl]
+(;B[sn];W[sm];B[so]
+(;W[rk];B[sk])
+(;W[sk];B[rk]))
+(;B[so];W[sn];B[sl]
+(;W[rk];B[sk])
+(;W[sk];B[rk])))
+(;W[sl];B[sn]C[white dies])
+(;W[sm]
+(;B[so]C[black don't like ko. White dies])
+(;B[ni]C[Black tenuki];W[so];B[sp];W[rp];B[sn]C[White can live without ko]))
+(;W[rk];B[so]
+(;W[sl];B[sn])
+(;W[rl];B[sn]
+(;W[sm];B[sk])
+(;W[sk];B[sm]))))
+(;W[rl];B[sn]
+(;W[sm];B[rm]C[White can live without ko])
+(;W[rk];B[rm])
+(;W[rm];B[qo]
+(;W[sm];B[so]
+(;W[sk];B[rk])
+(;W[rk];B[sk]))
+(;W[rk];B[so])))
+(;W[so];B[rm]
+(;W[rl];B[sn])
+(;W[sm];B[rk])
+(;W[rk];B[sn])
+(;W[sn];B[rk]))
+(;W[sm];B[rl]
+(;W[rm];B[qo];W[so];B[sp];W[rp];B[sn]C[White can live without ko])
+(;W[so];B[rm])
+(;W[rk];B[qo];W[so];B[sp];W[rp];B[sn]C[White can live without ko])
+(;W[qo];B[rm])
+(;W[sn];B[rm])
+(;W[sl];B[rk];W[rm];B[sk])
+(;W[sk];B[rk];W[rm];B[sl]))
+(;W[sn];B[rl]C[CHOICE]
+(;W[rm];B[rk]
+(;W[so];B[sp];W[rp];B[sm])
+(;W[sl];B[so])
+(;W[sm];B[so]))
+(;W[rk];B[rm]
+(;W[sl];B[sk])
+(;W[sm];B[sk])
+(;W[sk];B[sj]
+(;W[sm];B[sl])
+(;W[sl];B[sm])))
+(;W[sl];B[rm]
+(;W[rk];B[sk])
+(;W[sm];B[rk]))
+(;W[sm];B[rm]C[White dies];W[rk];B[sk])
+(;W[sk];B[rm];W[rk];B[sj]
+(;W[sm];B[sl])
+(;W[sl];B[sm]))
+(;W[so];B[rm]))
+(;W[sl];B[rm];W[rl];B[sn])
+(;W[rk];B[rm]
+(;W[rl];B[sn])
+(;W[sn];B[so]
+(;W[rl];B[sm])
+(;W[sm];B[sl])
+(;W[sl];B[sm]))
+(;W[sm];B[sn];W[rl];B[sl]))
+(;W[sk];B[rm];W[rl];B[sn])
+(;W[rp];B[rm]
+(;W[rl];B[sn])
+(;W[sn];B[rk])))
+(;B[rl]
+(;W[rm];B[ro]
+(;W[rp];B[so];W[qo];B[rk]
+(;W[sp];B[sm];W[sn]C[RIGHT])
+(;W[sn];B[sm])
+(;W[sm];B[sl];W[sp];B[sn]))
+(;W[so];B[sp]
+(;W[sn]
+(;B[rp]C[CHOICE]
+(;W[rk];B[sl];W[sk];B[sj];W[sm];B[rl];W[qo];B[ql]
+(;W[sl];B[ql];W[rl];B[ql])
+(;W[qp];B[sl]))
+(;W[sl];B[rk]
+(;W[qo];B[sm])
+(;W[sm];B[sk]))
+(;W[sm];B[rk];W[qo];B[sl]))
+(;B[qo]))
+(;W[qo];B[sn];W[rk]C[Black can't kill now.RIGHT])
+(;W[rp];B[sn]
+(;W[qo];B[sm]
+(;W[so]C[White can live without ko])
+(;W[sq];B[rk]))
+(;W[sm];B[rk];W[so];B[qo]
+(;W[sn];B[sl])
+(;W[sq];B[sl]))
+(;W[sq];B[sm])
+(;W[sl];B[rk]))
+(;W[sl];B[rk]
+(;W[rp];B[sn])
+(;W[qo];B[sn])
+(;W[sn];B[sm])
+(;W[sm];B[sk]))
+(;W[rk]
+(;B[sn]
+(;W[qo]C[Black can't kill now.RIGHT])
+(;W[rp];B[qo]))
+(;B[qo];W[sn];B[sl];W[rp];B[sk];W[sq]C[RIGHT])))
+(;W[qo];B[so]
+(;W[rp];B[rk];W[sp];B[sm];W[sn]C[RIGHT])
+(;W[sn];B[rk])
+(;W[sl];B[rk]
+(;W[rp];B[sn])
+(;W[sp];B[sn])
+(;W[sm];B[sk]))
+(;W[sp]C[RIGHT];B[rk]
+(;W[rp]
+(;B[sm];W[sn]C[RIGHT])
+(;B[sn];W[sm]C[RIGHT]))
+(;W[sm];B[sl];W[rp];B[sn])
+(;W[sn];B[sm]))
+(;W[rk]C[RIGHT];B[sl];W[sk];B[sj]LB[nh:Tenuki?]
+(;W[sm]C[You lost chance for tenuki. White still alive without this move])
+(;W[sp];B[sn];W[sm]C[Alive, but you lost chance for tenuki])
+(;W[rp];B[sn];W[sm]C[Alive, but you lost chance for tenuki])
+(;W[sn];B[sm])
+(;W[nh];B[sn];W[sm];B[rl]
+(;W[rp]C[Yes, aliveRIGHT])
+(;W[sp]C[Yes, aliveRIGHT]))))
+(;W[rk];B[qo]
+(;W[sl];B[sn]C[White can't live])
+(;W[sn];B[sl];W[so];B[sp];W[rp];B[sk];W[sq]C[RIGHT])
+(;W[sm];B[so]))
+(;W[sl];B[rk]
+(;W[so];B[sp]
+(;W[qo];B[sn])
+(;W[rp];B[sn])
+(;W[sn];B[sm])
+(;W[sm];B[sk]))
+(;W[qo];B[sn])
+(;W[rp];B[sn])
+(;W[sn];B[so]))
+(;W[sn];B[rk]
+(;W[so];B[sp]
+(;W[rp];B[sm])
+(;W[qo];B[sm])
+(;W[sq];B[sm]))
+(;W[qo];B[so])
+(;W[rp];B[so]))
+(;W[sm];B[rk];W[so];B[sl]))
+(;W[ro];B[rm])
+(;W[rk];B[rm])))
+(;W[rl];B[rn]C[White dies]
+(;W[sm];B[sn];W[sk];B[rk])
+(;W[rm]
+(;B[sm])
+(;B[rk];W[sn];B[so];W[sm];B[ro]))
+(;W[rk];B[rm])
+(;W[sn]
+(;B[sm];W[so];B[rm])
+(;B[so];W[sm];B[ro];W[sk];B[rk])))
+(;W[rk]
+(;B[rm];W[rl];B[rn])
+(;B[rn]C[White dies]))
+(;W[rm];B[rn];W[sn];B[so]
+(;W[sm];B[ro]C[White dies])
+(;W[ro];B[sm]C[White dies]))
+(;W[sm];B[rm];W[rl];B[rn];W[sn];B[so]
+(;W[sl];B[ro]C[White dies])
+(;W[ro];B[sl]))
+(;W[sn];B[rm]
+(;W[rn];B[rk])
+(;W[sm];B[rk])
+(;W[rl];B[rk])
+(;W[rk];B[sk];W[rl];B[sl]))
+(;W[sl];B[rm]
+(;W[rl];B[rn])
+(;W[rk];B[rl]
+(;W[rn];B[sk])
+(;W[sk];B[sm]
+(;W[rn];B[sj])
+(;W[sj];B[si]))))
+(;W[ro];B[rm]
+(;W[rn];B[rk])
+(;W[rl];B[rn]))
+(;W[so];B[rm]
+(;W[rn];B[rk])
+(;W[rl];B[rn]))
+(;W[sk]
+(;B[rm];W[rl];B[rn])
+(;B[rn])))

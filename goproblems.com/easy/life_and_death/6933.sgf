@@ -1,0 +1,27 @@
+(;GE[life and death]DI[6k]DP[37]SO[MrMoto]CO[7]AB[fe]AB[ac]AB[bc]AB[gc]AB[hc]AW[ab]AW[bb]AW[cb]AW[ba]AW[eb]AW[fb]AW[gb]AW[ga]AB[ea]AB[fc]AB[hb]AB[ha]AB[cc]AB[be]AB[ce]AB[de]AB[ee]C[It's Black's turn.  Can Black kill the corner?]AB[ic]AB[jc]AB[kc]LB[ie:No]LB[he:Yes]LB[je:Ko]AP[goproblems]
+(;B[db]C[NOTTHIS])
+(;B[ca]C[NOTTHIS])
+(;B[da]C[NOTTHIS])
+(;B[fa]C[NOTTHIS])
+(;B[dc]C[NOTTHIS])
+(;B[ec]C[NOTTHIS])
+(;B[ie];W[db]C[:(])
+(;B[je];W[db]C[No, Black can kill unconditionally.])
+(;B[he]C[];W[ke]C[Please show how.]
+(;B[dc];W[db])
+(;B[ec];W[db])
+(;B[da];W[db])
+(;B[fa];W[db])
+(;B[db]
+(;W[da]C[CHOICE]
+(;B[ca]MA[da]C[Ko.])
+(;B[dc]C[:)RIGHT]))
+(;W[dc]C[CHOICE]
+(;B[ec];W[da]C[:(])
+(;B[dd];W[da]C[:(])
+(;B[ca];W[da]C[?])
+(;B[da];W[ec]
+(;B[ca];W[fa]C[?!])
+(;B[fa];W[ca]C[?!])
+(;B[dd]C[White can't approach -- well done! :)RIGHT]MA[ca]MA[fa])
+(;B[ed]C[White can't approach -- well done! :)RIGHT]MA[ca]MA[fa]))))))

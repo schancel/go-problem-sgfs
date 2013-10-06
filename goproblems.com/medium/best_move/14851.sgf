@@ -1,0 +1,31 @@
+(;GE[best move]DI[3k]DP[26]SO[tocus]CO[0]AB[gq]AB[hq]AB[iq]AB[jq]AB[gr]AB[gs]AW[kp]AW[jp]AW[ip]AW[hp]AW[gp]AW[fp]AW[fq]AW[fr]AW[fs]AW[kq]AW[lq]AB[kr]AB[lr]AW[mr]AW[ms]AW[mq]AW[js]LB[io:dead]LB[ko:seki]LB[lo:alive]LB[jo:ko]C[FORCE]AP[goproblems]
+(;B[lo]C[try it];W[no]
+(;B[is];W[hs]
+(;B[ir];W[ks]
+(;B[ls];W[jr])
+(;B[jr];W[ls]))
+(;B[hr];W[jr]
+(;B[ir];W[hs])
+(;B[ks];W[ls])
+(;B[ls];W[ks]))
+(;B[jr];W[ir]
+(;B[hr];W[is])
+(;B[ls])))
+(;B[jr]
+(;W[hs];B[ir];W[ls]
+(;B[is];W[ks])
+(;B[ks];W[is])
+(;B[hr];W[ks]))
+(;W[is];B[ls];W[hs]))
+(;B[ks];W[jr])
+(;B[ir];W[hs]
+(;B[is];W[ls])
+(;B[ks];W[is]))
+(;B[ls];W[jr])
+(;B[hr];W[ks])
+(;B[hs];W[ks]
+(;B[ir];W[jr])
+(;B[ls];W[jr])))
+(;B[io]C[yeaRIGHT])
+(;B[jo]C[no its dead, see variations at alive]AB[lo])
+(;B[ko]AB[lo]))

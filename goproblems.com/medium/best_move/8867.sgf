@@ -1,0 +1,17 @@
+(;GE[best move]DI[2k]DP[22]SO[alpc]CO[7]AB[bq]AW[cr]AW[dr]AB[dq]AB[dp]AB[co]AB[cn]AB[cm]AW[bl]AW[cl]AW[dm]AW[dn]AW[do]AW[ep]AW[fp]AW[gp]AW[eq]AB[er]AB[fr]AB[fq]AB[gq]AW[hq]AW[hr]AB[hp]AB[ho]AW[jj]AB[qp]AB[po]AW[oq]AW[no]C[which stones should black rescue?]TR[bq]TR[dq]TR[dp]TR[co]TR[cn]TR[cm]MA[fr]MA[er]MA[fq]MA[gq]LB[hp:0]LB[ho:0]AP[goproblems]
+(;B[eo];W[fo]
+(;B[fn];W[en];B[go];W[eo];B[dl];W[em]
+(;B[el];W[fm];B[gl];W[gn]
+(;B[gm];W[hn];B[fl];W[fn];B[in];W[hm];B[il];W[io];B[ip];W[im];B[jm];W[jn];B[hl];W[in];B[kn];W[jo];B[jp];W[ko];B[lo]C[nice :)RIGHT])
+(;B[fl];W[hn]
+(;B[gm])
+(;B[in];W[hm]
+(;B[gm];W[fn])
+(;B[il];W[io];B[ip];W[im]
+(;B[gm];W[fn])
+(;B[jm];W[jn]
+(;B[gm];W[fn])
+(;B[kn];W[jp]))))))
+(;B[fl];W[el];B[dk];W[ek]))
+(;B[en];W[fn];B[em];W[dl];B[fm];W[gn];B[gm];W[hn]C[:(]))
+(;B[br];W[gr]))

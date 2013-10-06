@@ -1,0 +1,17 @@
+(;GE[life and death]DI[7k]DP[41]SO[shikamaru598]CO[0]AW[ra]AW[rb]AW[qb]AW[qc]AW[qd]AW[pd]AW[od]AW[nd]AW[ob]AB[pc]AB[sb]AB[rc]AB[rd]AB[qe]AB[pe]AB[oe]AB[ne]AB[md]AB[mc]AB[nb]AB[na]AB[qa]C[B to kill]AP[goproblems]
+(;B[pa]
+(;W[oa];B[oc]
+(;W[pb];B[nc]C[good!RIGHT])
+(;W[nc];B[pb]C[greatRIGHT]))
+(;W[pb];B[oa];W[nc]
+(;B[lb]C[RIGHT])
+(;B[mb]C[RIGHT])))
+(;B[pb];W[pa]
+(;B[oa];W[oc]C[CHOICE])
+(;B[nc];W[oc]C[CHOICE])
+(;B[oc];W[nc]C[CHOICE]))
+(;B[oa];W[pa];B[oc];W[nc];B[pb];W[ob]C[CHOICE])
+(;B[nc];W[oc];B[pa];W[oa]C[CHOICE])
+(;B[oc];W[nc];B[pa];W[pb]
+(;B[mb];W[oa])
+(;B[oa];W[mb]C[CHOICE])))

@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[10k]DP[54]SO[Dudzik]CO[6]AW[hs]AW[ir]AW[jr]AW[js]AW[iq]AW[jq]AW[kq]AW[lq]AW[lr]AW[kp]AW[lp]AW[mp]AB[jp]AB[io]AB[ho]AB[gp]AB[gq]AB[hq]AB[hr]AB[fp]AB[fo]AW[gr]AW[fr]AW[fq]AW[eq]AW[ep]AW[eo]AW[dq]AB[en]AB[dn]AB[do]AB[dp]AW[cp]AB[ks]AB[kr]AB[ls]AB[ms]AB[mr]AB[mq]AB[nq]AB[np]AB[op]AB[po]AB[mo]AB[nn]AW[kn]AW[jn]AW[jm]AB[jl]AW[kl]AB[km]AB[lm]AB[mm]AB[ml]AB[ln]AB[il]C[Capture some white stones!]AW[kk]AW[bp]AW[ap]AW[cq]AB[co]AB[bo]AB[ao]AP[goproblems]
+(;B[ko];W[jo]
+(;B[ip]C[];W[lo]
+(;B[in];W[gs];B[im]C[Good job!RIGHT])
+(;B[im];W[gs];B[in]C[Good job!RIGHT]))
+(;B[lo];W[ip]))
+(;B[gs]
+(;W[fs]C[];B[ko]C[This is optimal, (though it gives white the option to fight a ko) as it leaves black with an extra ko threat in the corner.  See comments.RIGHT])
+(;W[ko]C[Black will probably be happy to get this ko.RIGHT]))
+(;B[jo];W[ko])
+(;B[lo];W[ko])
+(;B[in];W[ko])
+(;B[im];W[ko])
+(;B[ip];W[ko]))

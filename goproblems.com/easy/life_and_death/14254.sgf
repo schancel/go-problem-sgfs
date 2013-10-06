@@ -1,0 +1,13 @@
+(;GE[life and death]DI[10k]DP[51]SO[lyav]CO[0]AB[cc]AB[dc]AB[bf]AB[cf]AB[cb]AB[bc]AB[cd]AB[dg]AB[eg]AB[ef]AB[ff]AB[ge]AB[fd]AB[fc]AB[gb]AB[hd]AB[id]AB[jd]AB[jc]AB[kd]AB[ld]AB[if]AB[ig]AW[jf]AW[jg]AW[db]AW[ec]AW[ed]AW[dd]AW[ee]AW[fe]AW[fb]AW[fa]AW[ga]AW[hc]AW[ic]AW[ib]AW[jb]AW[ka]AW[la]AW[kc]AW[lc]AW[fg]AW[bg]AW[cg]AB[dh]AW[ch]AW[eh]LB[ff:1]LB[jf:2]AW[le]AW[lf]AW[lg]AB[lh]AB[mh]AW[mg]AW[md]AB[me]AW[mb]C[White ignored Black 1. Punish him locally.]AB[ih]AW[jh]AW[fh]AP[goproblems]
+(;B[eb];W[ea];B[de]
+(;W[eb];B[ha];W[gc];B[da]C[Nice! This happened in the real game, for white best answer, see variations.RIGHT])
+(;W[gc];B[eb];W[ec]C[This was white best answer.RIGHT]))
+(;B[de];W[eb]
+(;B[hb];W[gc];B[gd]TR[gb]TR[hb]C[These stones are dead, so white is connected.])
+(;B[ha];W[gc]TR[gb]TR[ha]C[These stones are dead, so white si connected.]))
+(;B[ha];W[gc]
+(;B[gd];W[eb]TR[gb]TR[ha]C[These stones are dead, so white si connected.])
+(;B[eb];W[gd]C[Connected...]))
+(;B[da];W[eb]
+(;B[ha];W[gc]TR[gb]TR[ha]C[These stones are dead, so white si connected.])
+(;B[de];W[gc]TR[gb]C[This stone is dead, so white si connected.])))

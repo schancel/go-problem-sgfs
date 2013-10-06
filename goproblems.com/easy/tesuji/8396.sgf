@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[15k]DP[60]SO[tjl]CO[6]SZ[19]AW[qj]AW[rk]AW[ql]AW[qm]AW[qn]AW[qo]AW[rp]AW[sp]AW[nq]AW[oq]AW[pq]AW[qq]AW[rq]AW[mr]AW[pr]AW[qr]AW[rr]AB[rm]AB[rn]AB[ro]AB[so]AB[lp]AB[np]AB[op]AB[pp]AB[qp]AB[mq]AB[sq]AB[lr]AB[nr]AB[or]AB[sr]AB[ps]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[rs];W[ss]
+(;B[sr];W[rl];B[qs];W[sm];B[sq]C[RIGHT])
+(;B[qs];W[os])
+(;B[os];W[qs]))
+(;B[qs];W[ss]
+(;B[sr];W[sq]
+(;B[rs];W[os])
+(;B[os];W[rl]))
+(;B[ms];W[rl]
+(;B[os];W[sm])
+(;B[sr];W[sq]
+(;B[rs];W[os])
+(;B[os];W[sm]))))
+(;B[ms];W[rl]
+(;B[qs];W[ss];B[sr];W[sq];B[os];W[sm];B[rs];W[sn])
+(;B[rs];W[ss];B[sr];W[sm]))
+(;B[rl];W[sl]C[B just lost liberties])
+(;B[sm];W[rl]C[B just lost liberties]))

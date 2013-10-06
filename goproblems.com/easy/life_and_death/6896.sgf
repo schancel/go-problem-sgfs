@@ -1,0 +1,20 @@
+(;GE[life and death]DI[8k]DP[45]SO[pyramids]CO[4]SZ[9]AW[bc]AW[bd]AW[cd]AW[ed]AW[fd]AW[ae]AW[ce]AW[de]AW[fe]AW[ge]AW[he]AW[bf]AW[hf]AW[fg]AW[gg]AW[hg]AW[dh]AW[eh]AW[fh]AB[ab]AB[bb]AB[cb]AB[ac]AB[cc]AB[dc]AB[ec]AB[fc]AB[dd]AB[ee]AB[cf]AB[df]AB[ff]AB[gf]AB[bg]AB[eg]AB[ch]LB[ad:E]LB[af:A]LB[ag:D]LB[cg:C]LB[ah:F]LB[bi:B]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[af]LB[ag:A];W[ag]LB[ah:A]
+(;B[ah]LB[bi:A];W[bi]LB[af:A]
+(;B[af]C[This ko is the best black can do.Congratulations!RIGHT])
+(;B[cg];W[ef])
+(;B[ci];W[ef])
+(;B[bh];W[ef]))
+(;B[bi];W[ah]))
+(;B[bi]LB[ah:A];W[ah]LB[ag:A];B[ag]LB[ef:A];W[ef])
+(;B[cg]LB[ef:A];W[ef])
+(;B[ag]LB[ef:A];W[ef])
+(;B[ad]LB[ef:A];W[ef]LB[af:A]
+(;B[af]LB[ag:A];W[ag]LB[ah:A];B[ah]LB[bi:A];W[bi]LB[af:A];B[af]C[This ko is the best black can do. Congratulations!RIGHT])
+(;B[ah];W[bi];B[af];W[ag]C[This is not the best way for black: Black has to make the first ko threat. Can you find a variation that forces white to make the first threat?]))
+(;B[ah]LB[bi:A];W[bi]LB[af:A]
+(;B[af]LB[ag:A];W[ag];B[ad];W[ef];B[af]C[RIGHT])
+(;B[ci];W[ef])
+(;B[bh];W[ef])
+(;B[ag];W[ef])
+(;B[cg];W[ef])))

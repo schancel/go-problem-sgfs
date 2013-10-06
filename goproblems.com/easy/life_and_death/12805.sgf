@@ -1,0 +1,74 @@
+(;GE[life and death]DI[30k]DP[81]SO[Deutricer]CO[0]AB[rc]AB[qd]AB[pc]AB[od]AB[nd]AB[mc]AB[lc]AB[lb]AB[la]AB[ma]AW[qb]AW[pb]AW[nc]AW[nb]AW[na]AW[mb]AW[md]AW[ld]AW[kd]AW[jc]C[Black to kill and survive]TR[nb]TR[na]TR[mb]TR[nc]MA[lc]MA[mc]MA[lb]MA[la]MA[ma]AP[goproblems]
+(;B[ob];W[oa]
+(;B[oc];W[pa]C[]
+(;B[qc];W[rb]
+(;B[sb]C[Captured!RIGHT])
+(;B[ra]C[Captured!RIGHT])
+(;B[qa];W[ra]
+(;B[sb];W[kb]
+(;B[sc];W[kc])
+(;B[sa];W[sc]))
+(;B[sa];W[sb])
+(;B[sc];W[sb]))
+(;B[sc];W[kb]
+(;B[sb];W[kc])
+(;B[sa];W[kc])
+(;B[ra];W[kc])
+(;B[qa];W[kc]))
+(;B[sa];W[kb]
+(;B[sb];W[kc])
+(;B[sc])
+(;B[ra];W[kc])
+(;B[qa];W[kc])))
+(;B[rb]C[Captured!RIGHT])
+(;B[sb];W[kb])
+(;B[sa];W[kb])
+(;B[ra];W[kb])
+(;B[qa];W[ra]
+(;B[rb])
+(;B[qc])
+(;B[sa];W[sb])
+(;B[sb];W[kb]
+(;B[rb];W[kc])
+(;B[qc];W[kc])
+(;B[sa];W[kc])
+(;B[sc];W[kc])))
+(;B[sc];W[kb]
+(;B[rb];W[kc])
+(;B[qc];W[kc])
+(;B[qa];W[kc])
+(;B[sb];W[kc])
+(;B[ra];W[kc])
+(;B[sa];W[kc])))
+(;B[pa];W[qa]
+(;B[oc];W[pa]C[]
+(;B[rb]C[Surrounded!RIGHT])
+(;B[qc]C[Surrounded!RIGHT])
+(;B[sb];W[kb]
+(;B[rb];W[kc])
+(;B[qc];W[kc])
+(;B[ra];W[kc])
+(;B[sa];W[kc])
+(;B[sc];W[kc]))
+(;B[sc];W[kb]
+(;B[rb];W[kc])
+(;B[qc];W[kc])
+(;B[ra];W[kc])
+(;B[sb])
+(;B[sa];W[kc]))
+(;B[sa];W[kb]
+(;B[ra];W[kc])
+(;B[rb];W[kc])
+(;B[qc];W[kc])
+(;B[sb])
+(;B[sc]))
+(;B[ra]C[Surrounded!RIGHT]))
+(;B[rb];W[oc])
+(;B[ra];W[oc])
+(;B[qc];W[oc])))
+(;B[oc];W[ob]AW[kb]TR[kb]C[Next move here and black is deadFORCE])
+(;B[oa];W[ob]AW[kb]C[Next move here and black is dead]TR[kb])
+(;B[pa];W[ob]AW[kb]TR[kb]C[Next move here and black is dead])
+(;B[qa];W[ob]AW[kb]TR[kb]C[Next move here and black is dead])
+(;B[rb];W[ob]AW[kb]TR[kb]C[Next move here and black is dead])
+(;B[ra];W[ob]AW[kb]TR[kb]C[Next move here and black is dead]))

@@ -1,0 +1,21 @@
+(;GE[life and death]DI[15k]DP[61]SO[Isobeutel]CO[0]AW[ab]AW[bb]AW[cb]AW[eb]AW[db]AB[bc]AB[be]AB[cc]AB[dc]AB[ec]AB[fc]AB[gc]AB[hb]AB[ic]C[Black to move.]AP[goproblems]
+(;B[fb];W[ea]C[W is aliveCHOICE])
+(;B[ba]
+(;W[fb]
+(;B[gb];W[fa]C[CHOICE])
+(;B[fa]
+(;W[ea];B[ca];W[ga];B[gb]C[RIGHT])
+(;W[ca];B[ea];W[ga];B[gb];W[da];B[fa]C[RIGHT]))
+(;B[ca];W[fa];B[da]C[Seki]))
+(;W[ca];B[ea]
+(;W[fb];B[fa];W[ga];B[gb];W[da];B[fa]C[RIGHT])
+(;W[fa];B[fb];W[da]C[RIGHT])))
+(;B[da];W[ea]C[CHOICE])
+(;B[fa];W[ea]C[CHOICE])
+(;B[aa];W[ea]C[CHOICE])
+(;B[ca];W[ba]
+(;B[fb];W[ea]C[CHOICE])
+(;B[ea];W[fa];B[fb];W[da]C[CHOICE]))
+(;B[ea];W[fb];B[fa];W[ga];B[gb];W[da]
+(;B[fa];W[ba])
+(;B[ba];W[fa])))

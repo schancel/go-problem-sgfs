@@ -1,0 +1,19 @@
+(;GE[life and death]DI[7k]DP[41]SO[sandal]CO[0]AW[fs]AW[fr]AW[fq]AW[eq]AW[ep]AW[fn]AW[gp]AW[hp]AW[iq]AB[er]AB[dr]AB[dq]AB[dp]AB[jr]AB[gr]AB[gq]AB[dn]AB[cn]AB[gm]AB[fm]AB[em]AB[el]AB[in]AB[im]AB[kq]AB[jp]AB[jq]AB[fo]AW[eo]AB[hn]C[White to live]AP[goproblems]
+(;W[go]
+(;B[hs]C[CHOICE]
+(;W[hr];B[ir]
+(;W[gs];B[hq];W[hr]C[RIGHT])
+(;W[hq]C[RIGHT]))
+(;W[is];B[ir])
+(;W[ir];B[is]))
+(;B[ir];W[hr]C[RIGHT];B[hs])
+(;B[is]
+(;W[hs];B[hr];W[ir]C[RIGHT])
+(;W[hr]C[RIGHT]))
+(;B[hr];W[ir];B[is];W[hs]C[RIGHT]))
+(;W[ir];B[go]C[White only has one eye])
+(;W[hr];B[go]C[White only has one eye])
+(;W[is];B[go]C[White only has one eye])
+(;W[hs];B[go]C[White only has one eye])
+(;W[gs];B[go]C[White only has one eye])
+(;W[gn];B[go]))

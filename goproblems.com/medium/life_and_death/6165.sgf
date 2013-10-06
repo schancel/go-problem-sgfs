@@ -1,0 +1,11 @@
+(;GE[life and death]DI[1d]DP[15]SO[santa c]CO[6]AW[ib]AW[ic]AW[jc]AW[kc]AW[ka]AW[ma]AW[mb]AW[mc]AB[nb]AB[nc]AB[md]AB[ld]AB[jd]AB[id]AB[hc]AB[hb]C[Black to make White alive in 1 move in gote]AB[od]AB[gd]AP[goproblems]
+(;B[jb]C[Well done! White doesn't need to add a move! Best play against it only leads to seki! Just don't do it in games... ;)RIGHT]LB[lb:1]LB[lc:2]LB[kb:3]LB[ia:4]AB[na])
+(;B[ia];W[lb]C[White needs to add a move this way! :(])
+(;B[lc];W[lb]C[White needs to add a move this way! :(])
+(;B[kb];W[lb]C[White needs to add a move this way! :(])
+(;B[la];W[lb]C[White needs to add a move this way! :(])
+(;B[ja];W[ia]C[White needs to add a move this way! :(])
+(;B[lb]C[White is dead! :(]TR[lc]TR[ia])
+(;B[na];W[lb]C[White needs to add a move this way! :(])
+(;B[kd];W[lb]C[White needs to add a move this way! :(])
+(;B[ha];W[lb]C[White needs to add a move this way! :(]))

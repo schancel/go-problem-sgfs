@@ -1,0 +1,36 @@
+(;GE[life and death]DI[5k]DP[33]SO[Warp]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[gm][hm][im][bn][cn][en][gn][co][do][fo][ho][io][bp][dp][ep][fp][cq][dq][hq][iq][jq][cr][jr]AB[bk][bm][cm][dm][em][fm][dn][fn][hn][ao][go][gp][hp][eq][fq][gq][br][dr][er][hr][ir][cs][es][gs]TR[ao]C[Black has just played the marked stone. White to play and live.]PL[W]
+(;W[an]CR[an]
+;B[ap]CR[ap]
+(;W[bq]CR[bq]
+;B[aq]CR[aq]
+(;W[bo]CR[bo]C[RIGHT])
+(;W[ar]CR[ar]
+;B[as]CR[as]
+;W[bo]CR[bo]C[RIGHT])
+(;W[bs]CR[bs]
+;B[as]CR[as]
+;W[bo]CR[bo]C[RIGHT]))
+(;W[aq]CR[aq]
+;B[bq]CR[bq]
+(;W[bo]CR[bo]
+;B[ap]CR[ap])
+(;W[ar]CR[ar]
+;B[as]CR[as]))
+(;W[ar]CR[ar]
+;B[bq]CR[bq]
+(;W[bo]CR[bo]
+;B[bs]CR[bs]
+;W[aq]CR[aq]
+;B[ap]CR[ap])
+(;W[bs]CR[bs]
+;B[as]CR[as]C[Ko is not good enough.])))
+(;W[ap]CR[ap]
+;B[an]CR[an])
+(;W[bq]CR[bq]
+;B[an]CR[an])
+(;W[am]CR[am]
+;B[an]CR[an])
+(;W[ar]CR[ar]
+;B[an]CR[an]))

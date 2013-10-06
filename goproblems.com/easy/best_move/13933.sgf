@@ -1,0 +1,6 @@
+(;GE[best move]DI[8k]DP[46]SO[elciego]CO[0]AB[sr]AB[sp]AB[so]AB[qo]AB[ro]AB[qp]AB[pq]AB[pr]AW[ps]AW[os]AW[or]AW[oq]AW[pp]AW[po]AW[pn]AW[rn]AW[sn]AW[qn]AW[qq]AB[rq]C[Kill if possible; otherwise, get points.]AP[goproblems]
+(;W[rr];B[qr]
+(;W[rs]C[RIGHT])
+(;W[qs];B[rs]))
+(;W[qr];B[rr]C[W gets points in sente, but W could have killed.])
+(;W[rs];B[rr]))

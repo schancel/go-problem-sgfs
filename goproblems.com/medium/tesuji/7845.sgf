@@ -1,0 +1,43 @@
+(;GE[tesuji]DI[3k]DP[24]SO[santa c]CO[8]AB[gp]AW[fp]AW[ep]AW[fq]AW[fr]AW[er]AW[es]AW[ds]AB[cs]AB[dr]AB[br]AB[dq]AB[eq]AB[dp]AB[do]AB[eo]AB[fo]AW[go]AW[fn]AW[en]AW[hn]AW[jq]AW[qa]AW[rb]AW[pb]AW[pc]AW[pd]AB[pa]AB[oa]AB[ob]AB[nb]AB[nc]AW[oc]AB[nd]AB[od]AW[md]AB[me]AB[nf]AB[lf]AB[of]AW[ne]AW[oe]AW[pe]AW[pf]AB[jc]AB[dn]C[Can you capture White? If not Tenuki (T at K10)...]LB[fp:?]LB[fq:?]LB[fr:?]AW[gn]AB[mf]AW[io]AB[ke]LB[jj:T]AP[goproblems]
+(;B[hq]
+(;W[gq];B[hp];W[hr]
+(;B[gs]
+(;W[hs]
+(;B[ir];W[iq]
+(;B[gr];W[fs]
+(;B[gs];W[gr];B[is]C[Well done! :)RIGHT])
+(;B[is];W[ip]C[:(])
+(;B[gr];W[gs];B[is]C[Well done! :)RIGHT])
+(;B[jr];W[ip]C[:(]))
+(;B[fs];W[gr]
+(;B[gs];W[jr]C[:(])
+(;B[fs];W[jr]C[:(]))
+(;B[is]C[Well done! :)RIGHT])
+(;B[ip];W[jp]C[:(]))
+(;B[gr];W[fs]
+(;B[ir];W[iq]
+(;B[gr];W[gs];B[is]C[Well done! :)RIGHT])
+(;B[is];W[ip]C[:(])
+(;B[gs];W[gr];B[is]C[Well done! :)RIGHT]))
+(;B[gr];W[gs];B[ir];W[iq];B[is]C[Well done! :)RIGHT])
+(;B[gs];W[gr];B[ir];W[iq];B[is]C[Well done! :)RIGHT]))
+(;B[fs];W[gr]C[:(]))
+(;W[iq];B[gr]C[RIGHT])
+(;W[gr];B[ir];W[iq];B[hs]C[RIGHT]))
+(;B[ir];W[gs]C[:(]))
+(;W[hr];B[gr]C[RIGHT]))
+(;B[gq];W[gr];B[hr];W[hq];B[hp];W[ip];B[iq];W[ho];B[hq];W[ir];B[hs];W[is]C[:(])
+(;B[gr];W[gq]C[:(])
+(;B[hr];W[hq]C[:(])
+(;B[hp];W[hr]C[:(])
+(;B[jj];W[lc]C[How can Black save these stones, then?]
+(;B[mc];W[ld];B[lb];W[ma]
+(;B[la];W[kb]
+(;B[kc];W[ka]C[:(])
+(;B[mb]C[:(]))
+(;B[mb];W[kb]C[:(])
+(;B[kc];W[mb]C[:(]))
+(;B[ld];W[mc]C[:(])
+(;B[kc];W[lb]C[:(])
+(;B[lb];W[mb]C[:(])
+(;B[mb];W[lb]C[:(])))

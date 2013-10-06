@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4d]DP[7]SO[MeleeNewb]CO[0]AB[ra]AB[rc]AB[rd]AB[qf]AB[qg]AB[qh]AW[ri]AW[qi]AW[pi]AW[ph]AW[pg]AW[pf]AW[rk]AW[pe]AW[pd]AW[pc]AW[pa]AW[qa]AW[nb]AW[nc]AW[sb]AB[rb]AW[sf]AB[rh]LB[rb:1]LB[sf:2]LB[rh:3]C[Black defended incorrectly in problem 11971. What can white get? (S)eki, (K)o, or an (U)nconditional kill?FORCE]LB[nf:S]LB[nh:K]LB[nj:U]AP[goproblems]
+(;W[nh];B[ng]C[Prove it.]
+(;W[sh];B[sg]
+(;W[re];B[rf]
+(;W[rg];B[ni]LB[nj:K]C[Respond to the (K)o threat?]
+(;W[nj];B[sg];W[se];B[qe];W[rg]C[Excellent.RIGHT])
+(;W[qe];B[nj]C[White still had an internal threat.]))
+(;W[se];B[qe]C[You just wasted a threat.]))
+(;W[rg];B[rf];W[se];B[sg]C[Not the best ko.]))
+(;W[qe];B[re]
+(;W[rf];B[sg];W[si];B[se])
+(;W[sh];B[sg];W[rg];B[rf]
+(;W[sg];B[se];W[si];B[sc])
+(;W[se];B[sd])
+(;W[si];B[se];W[sg]))
+(;W[sc];B[rf];W[sh];B[sg];W[rg];B[se]))
+(;W[re];B[qe]
+(;W[sh];B[rf];W[se];B[sg]C[Not the best ko.])
+(;W[qd];B[rf];W[sh];B[se];W[sg];B[sc])))
+(;W[nf]C[No, white can do better than seki.])
+(;W[nj]C[No, white cannot kill unconditionally.]))

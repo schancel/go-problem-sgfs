@@ -1,0 +1,28 @@
+(;GE[life and death]DI[2k]DP[22]SO[santa c]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[WeiÃ?]PB[Schwarz]AW[kj][mj][oj][lk][mk][nk][ok][el][fl][gl][hl][kl][pl][ql][dm][gm][km][lm][qm][cn][dn][en][hn][kn][mn][nn][rn][do][fo][ho][ko][qo][ep][gp][kp][lp][pp][qp][dq][eq][fq][lq][qq][dr][mr][nr][qr][rr][cs][ds][rs]AB[ej][gj][ij][ek][fk][gk][hk][cl][dl][il][ll][ml][nl][ol][cm][hm][im][mm][pm][bn][fn][gn][in][ln][on][pn][qn][co][io][lo][no][po][cp][dp][hp][ip][mp][op][cq][hq][nq][oq][pq][br][cr][fr][gr][pr][bs][ps][qs]LB[bn:6][cn:5][br:4][bs:2][cs:1][ds:3]C[After this sequence white plays some other 'endgame moves'... Something is wrong - where should white have played (in the lower left).]PL[W]
+(;W[go]CR[go]
+;B[jd]LB[kd:1][ld:2][md:3][nd:4][od:5][pd:6][qd:7][rd:8]CR[jd]C[Correct. But what if white did not play there, and decided to play elsewhere instead (leaving the position that black has in the lower right). How many ways are there to punish now? That is, how many ways does white have to kill the black group in the lower right?]
+(;W[md]CR[md]
+;B[nd]CR[nd]C[Nice! Now punish black for having played elsewhere in the lower right (muwhahahaha)]
+(;W[om]CR[om]C[RIGHT
+Nice - you managed to kill the entire black group])
+(;W[nm]CR[nm]C[RIGHT
+Nice - you managed to kill the entire black group])
+(;W[mo]CR[mo]C[RIGHT
+Nice - you managed to kill the entire black group]))
+(;W[kd]CR[kd]C[No, there are more.])
+(;W[ld]CR[ld]C[No, there are more.])
+(;W[nd]CR[nd]C[You must see some that I don't.])
+(;W[od]CR[od]C[You must see some that I don't.])
+(;W[pd]CR[pd]C[You must see some that I don't.])
+(;W[qd]CR[qd]C[You must see some that I don't.])
+(;W[rd]CR[rd]C[You must see some that I don't.]))
+(;W[fm]CR[fm]
+;B[em]CR[em])
+(;W[eo]CR[eo]
+;B[go]CR[go])
+(;W[em]CR[em]
+;B[go]CR[go])
+(;W[fp]CR[fp]
+;B[go]CR[go]))

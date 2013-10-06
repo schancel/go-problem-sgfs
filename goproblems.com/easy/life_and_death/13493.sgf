@@ -1,0 +1,98 @@
+(;GE[life and death]DI[18k]DP[66]SO[SeerRus]CO[0]AW[nr]AW[oq]AW[op]AW[oo]AW[no]AW[kp]AW[jp]AW[ip]AW[hp]AW[hq]AW[fr]AB[mq]AB[kq]AB[jq]AB[iq]AB[hr]AW[mp]AW[ks]AW[gr]C[Can black live? Play A if no.]LB[fp:A]AP[goproblems]
+(;B[lr];W[ls]C[It was unnecessary])
+(;B[mr];W[ms]C[It was unnecessary]AB[gr])
+(;B[ls];W[lr]C[It was unreasonably];B[kr];W[ms];B[js];W[ir])
+(;B[kr];W[js]
+(;B[ls];W[lr]C[your stones are dead])
+(;B[lr];W[ls];B[ms];W[mr]C[your stones are dead]))
+(;B[js]
+(;W[jr]
+(;B[kr];W[is]
+(;B[ir]
+(;W[js];B[ls];W[mr];B[hs];W[js])
+(;W[ls]C[CHOICE];B[js];W[hs];B[gs];W[hs]))
+(;B[ls]
+(;W[js];B[ir])
+(;W[lr];B[js];W[ir];B[hs];W[ir])))
+(;B[is];W[lr]C[you can't make two eyes])
+(;B[ir];W[is]
+(;B[kr])
+(;B[ls];W[lr];B[kr]
+(;W[js];B[hs]
+(;W[js];B[mr]C[RIGHT])
+(;W[lq];B[js]C[RIGHT])
+(;W[mr];B[js]C[RIGHT]))
+(;W[mr]C[CHOICE];B[js];W[hs];B[gs];W[hs])
+(;W[lq];B[js];W[hs];B[gs];W[hs]))
+(;B[lr];W[ls]
+(;B[kr];W[ms];B[js];W[hs];B[gs];W[hs])
+(;B[ms];W[mr];B[kr];W[ns];B[js];W[hs]))))
+(;W[is]
+(;B[jr];W[lr]LB[mr:A]LB[ms:B]C[Black can't stop white])
+(;B[kr];W[jr])
+(;B[ir];W[jr];B[kr]))
+(;W[lr]C[CHOICE]
+(;B[kr]
+(;W[ls]
+(;B[ir];W[hs]C[Your stones are dead])
+(;B[hs];W[ir]C[Your stones are dead]))
+(;W[ir]C[CHOICE]
+(;B[hs];W[ls]C[Your stones are dead])
+(;B[ls]
+(;W[lq]C[Your stones are dead])
+(;W[mr]C[Your stones are dead]))
+(;B[mr];W[lq]C[Your stones are dead])))
+(;B[mr]
+(;W[ms]
+(;B[kr]
+(;W[ls]
+(;B[ir];W[hs])
+(;B[hs];W[ir]))
+(;W[lq];B[ls];W[lp]
+(;B[ir];W[hs])
+(;B[hs];W[ir])))
+(;B[lq];W[ls];B[kr];W[ns]
+(;B[ir];W[hs])
+(;B[hs];W[ir])))
+(;W[lq];B[kr];W[ls]
+(;B[ir];W[hs])
+(;B[hs];W[ir]))))
+(;W[ir]
+(;B[kr];W[ls];B[ms];W[hs])
+(;B[hs]
+(;W[jr];B[kr]
+(;W[is];B[js];W[ir];B[ls]C[RIGHT])
+(;W[ls]C[CHOICE]
+(;B[ms];W[lr]
+(;B[mr];W[lq])
+(;B[lq];W[mr]))
+(;B[mr];W[ms])
+(;B[is];W[lr])))
+(;W[gs]C[CHOICE]
+(;B[is];W[jr])
+(;B[ls];W[jr];B[kr];W[is]
+(;B[ks];W[mr])
+(;B[mr];W[lq]))
+(;B[mr];W[jr]
+(;B[kr];W[is];B[ls];W[lq])
+(;B[ls];W[kr]))
+(;B[ms];W[mr];B[lr];W[jr];B[kr];W[is])))))
+(;B[ms];W[mr];B[lr];W[ls]
+(;B[kr];W[ns];B[js];W[ms];B[ir];W[hs])
+(;B[js];W[ns]))
+(;B[is];W[jr]
+(;B[ls];W[lr];B[kr];W[js];B[mr];W[ms];B[lq];W[ls])
+(;B[lr];W[ls];B[ms];W[mr]
+(;B[kr])
+(;B[js]))
+(;B[mr];W[ms];B[ls];W[lr])
+(;B[ms];W[mr]
+(;B[lr];W[ls]
+(;B[kr];W[js];B[ir];W[ls])
+(;B[js];W[kr];B[ir];W[kr];B[ks]))
+(;B[kr];W[js]
+(;B[lr];W[ns];B[ls])
+(;B[ls]))
+(;B[ls];W[lr];B[kr];W[ns])
+(;B[js];W[kr];B[lr];W[ls])))
+(;B[fp]C[Yes, black stones are dead anyway.RIGHT]))

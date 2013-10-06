@@ -1,0 +1,72 @@
+(;GE[life and death]DI[3d]DP[11]SO[santa c]CO[0]AB[ao]AB[bo]AB[co]AB[do]AB[ep]AB[eq]AB[er]AB[es]AW[dr]AW[dq]AW[bp]AW[cq]AW[bs]C[kill w (you can try several times for different ressistance)]AP[goproblems]
+(;B[ds]
+(;W[ar]
+(;B[ap]
+(;W[bq]
+(;B[cs]C[nice and easy! :)RIGHT]MA[cr]MA[aq])
+(;B[aq];W[cs])
+(;B[cr];W[cs]))
+(;W[aq]
+(;B[bq]
+(;W[br]
+(;B[cs]C[nice! :)CHOICERIGHT])
+(;B[cp];W[cs]C[ko]))
+(;W[cp];B[cr]C[nice! :)CHOICERIGHT]))
+(;B[cp];W[bq])
+(;B[cs];W[cr])
+(;B[cr];W[cs])))
+(;B[bq];W[ap]
+(;B[cp];W[aq]
+(;B[cr]C[nice! :)RIGHT])
+(;B[cs];W[cr]))
+(;B[cs];W[cr])
+(;B[cr]
+(;W[cs];B[cp]C[nice! :)CHOICERIGHT])
+(;W[cp];B[br]C[nice! :)CHOICERIGHT])))
+(;B[cp];W[bq])
+(;B[cs];W[cr])
+(;B[cr];W[cs])
+(;B[br];W[cr]))
+(;W[cs]
+(;B[aq];W[ap]
+(;B[bq];W[cp];B[dp];W[cr];B[ar]C[nice :)CHOICERIGHT])
+(;B[br];W[ar]C[ko])
+(;B[ar];W[br])
+(;B[cp];W[bq]MA[br]MA[ar]))
+(;B[ap];W[aq]
+(;B[ar];W[br]C[ko])
+(;B[br];W[ar])
+(;B[cp];W[bq]))
+(;B[ar];W[br]
+(;B[ap];W[aq]C[ko])
+(;B[aq];W[ap]))
+(;B[br];W[ar]
+(;B[aq];W[bq]C[ko])
+(;B[ap];W[bq])
+(;B[bq];W[aq]))
+(;B[bq];W[aq]MA[br]MA[ar]))
+(;W[br];B[cs]C[RIGHT])
+(;W[ap];B[ar]MA[br]MA[cs]C[RIGHT])
+(;W[bq];B[ar]MA[br]MA[cs]C[RIGHT]))
+(;B[ap];W[aq]
+(;B[ar];W[br]C[ko])
+(;B[br];W[ar];B[cs];W[cr]C[ko])
+(;B[ds];W[cs]))
+(;B[aq];W[ap]
+(;B[br];W[bq]MA[ar]MA[ds])
+(;B[ds];W[br]MA[ar]MA[cs])
+(;B[cp];W[bq]MA[ar]MA[ds])
+(;B[bq];W[cp]
+(;B[br];W[cr])
+(;B[ds];W[br])))
+(;B[ar];W[br]
+(;B[ap];W[aq]C[ko])
+(;B[aq];W[ap])
+(;B[ds];W[cs]))
+(;B[br];W[ar]
+(;B[aq];W[bq]C[ko])
+(;B[cs];W[cr]C[ko])
+(;B[ds];W[bq])
+(;B[ap];W[cr]))
+(;B[bq];W[aq]MA[ar]MA[br])
+(;B[cp];W[aq]MA[ar]MA[br]))

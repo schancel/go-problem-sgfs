@@ -1,0 +1,49 @@
+(;GE[best move]DI[3d]DP[9]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]
+SZ[19]RU[Japanese]KM[0]TM[1800,0,30,5]PW[]PB[]AB[qd]AW[dp]AB[pp]AW[dd]AB[fc]AW[ee]AB[db]AW[gd]AB[gc]AW[hd]AB[ic][cc]AW[cd][cn]AB[id]AW[ie]AB[je]AW[jf]AB[ke][if]AW[he][ig]AB[bf]AW[be]AB[cj]AW[bh]AB[ch]AW[bg]PL[B]TR[bg]C[black invaded, white just played the marked stone. how to respond?]
+(;B[bi]CR[bi]
+;W[cl]CR[cl]C[was your move really sente? if not, white got a key point...]
+(;B[cf]CR[cf]
+;W[cg]CR[cg]
+(;B[dg]CR[dg]
+;W[dh]CR[dh]
+(;B[ah]CR[ah]
+;W[ci]CR[ci]
+;B[ag]CR[ag]
+;W[ch]CR[ch]
+;B[eh]CR[eh]C[RIGHT
+black catches white in a ladder])
+(;B[ag]CR[ag]
+;W[ci]CR[ci]
+;B[ah]CR[ah]
+;W[ch]CR[ch]
+;B[eh]CR[eh]C[RIGHT
+black catches white in a ladder])
+(;B[di]CR[di]C[ko is no go]))
+(;B[ah]CR[ah]
+;W[dg]CR[dg])
+(;B[dh]CR[dh]
+;W[dg]CR[dg]C[bad for black]))
+(;B[cg]CR[cg]
+;W[cf]CR[cf]
+;B[af]CR[af]
+;W[ae]CR[ae]C[easy for white]))
+(;B[cg]CR[cg]
+;W[bi]CR[bi]
+(;B[cf]CR[cf]
+;W[af]CR[af])
+(;B[af]CR[af]
+;W[cf]CR[cf])
+(;B[bj]CR[bj]
+;W[ci]CR[ci]
+;B[di]CR[di]
+;W[dj]CR[dj]
+;B[af]CR[af]
+;W[cf]CR[cf]))
+(;B[cf]CR[cf]
+;W[bi]CR[bi]C[easy for white to escape])
+(;B[bl]CR[bl]C[wrong direction])
+(;B[cm]CR[cm]C[wrong direction])
+(;B[dl]CR[dl]C[wrong direction])
+(;B[bm]CR[bm]C[wrong direction])
+(;B[cl]CR[cl]C[wrong direction])
+(;B[ei]CR[ei]C[wrong direction]))

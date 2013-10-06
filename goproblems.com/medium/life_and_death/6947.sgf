@@ -1,0 +1,42 @@
+(;GE[life and death]DI[2k]DP[23]SO[Hans]CO[9]AW[nm]AW[om]AW[mn]AW[pn]AW[qn]AW[mo]AW[qo]AW[op]AW[pp]AW[kq]AW[lq]AW[mq]AW[oq]AW[qq]AW[kr]AB[no]AB[oo]AB[po]AB[np]AB[nq]AB[lr]AB[mr]AB[nr]AB[or]AB[pr]C[Black to play and live.]
+(;B[rp]
+(;W[rq]C[CHOICE]
+(;B[qp];W[pq]
+(;B[rr];W[ro];B[qr]C[White can play better. See 'Navigation'.RIGHT])
+(;B[qr];W[rr]C[Black loses the capturing race.])
+(;B[ro];W[qr]C[Black loses the capturing race.]))
+(;B[rr];W[qp];B[qr];W[sr]
+(;B[ls]C[RIGHT])
+(;B[rs]LB[ls:A]C[Black lives but this is worse than playing at A.RIGHT])
+(;B[os]LB[ls:A]C[Black lives but concerning the endgame this is inferior to the move at A.RIGHT]))
+(;B[qr];W[rr]C[Black is dead.])
+(;B[pq];W[qp]C[Black is dead.]))
+(;W[qr];B[qp];W[pq];B[rq];W[rr];B[sr]C[Desaster for white.])
+(;W[pq];B[rq];W[qp];B[qr]C[Bad for white.])
+(;W[qp]C[CHOICE];B[qr];W[rr]
+(;B[rq];W[sr]
+(;B[ro]C[NOTTHIS])
+(;B[qs];W[ro]
+(;B[ls]C[RIGHT])
+(;B[os]C[Black lives but M1 would be better.RIGHT])
+(;B[rs]C[NOTTHIS]))
+(;B[ls];W[qs]C[Black is dead.])
+(;B[rs];W[ro]
+(;B[ls];W[qs];B[ps];W[ns])
+(;B[qs];W[sp]
+(;B[ls]C[RIGHT])
+(;B[os]C[Correct but M1 would be better.RIGHT]))))
+(;B[qs];W[rq]
+(;B[ls]C[RIGHT])
+(;B[os]C[Black lives but M1 would be better.RIGHT]))
+(;B[ls];W[qs]
+(;B[ps];W[ns];B[rq];W[sr]C[Black is dead.])
+(;B[rq];W[sr]C[Black is dead.]))))
+(;B[pq];W[qp]C[Destroying the aji is seldom useful.])
+(;B[rq];W[qr]C[Black dies.])
+(;B[rr];W[qr]C[Black dies.])
+(;B[qr];W[rr]
+(;B[rp];W[rq]
+(;B[qp];W[pq]C[Black is dead.])
+(;B[pq];W[qp]C[Black is dead.]))
+(;B[pq];W[qp]C[Black is dead.])))

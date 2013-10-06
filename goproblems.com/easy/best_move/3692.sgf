@@ -1,0 +1,13 @@
+(;GE[best move]DI[4k]DP[29]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[4]KM[0.00]
+PW[WeiÃŸ]PB[Schwarz]AW[cb][cc][cd][dd]AB[bb][bc][ad][bd]C[Black to play - what's the best he can do?]
+(;B[ba]CR[ba]
+;W[ca]CR[ca]
+;B[db]CR[db]C[Black wins the capturing race RIGHT])
+(;B[ca]CR[ca]
+;W[ba]CR[ba]
+;B[aa]CR[aa]
+;W[db]CR[db]
+;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[ac]CR[ac]C[Seki, Black wins by two points (the two prisoners). This isn't the best result!]))

@@ -1,0 +1,12 @@
+(;GE[life and death]DI[8k]DP[46]SO[zafris]CO[7]AW[qs]AW[rr]AW[qq]AW[qp]AW[qo]AW[rp]AB[ro]AB[sn]AB[qn]AB[rm]AB[po]AB[pp]AB[on]AB[pq]AB[pr]AB[qr]AB[or]C[Suppose it's White's turn now. What's the best result she can get?FORCE]LB[qj:Alive]LB[qk:Dead]LB[ql:Ko]AP[goproblems]
+(;W[ql];B[pl]C[Find the ko]
+(;W[sq];B[sp];W[so]C[Correct. RIGHT])
+(;W[so];B[sp];W[sq];B[rq]))
+(;W[qj];B[pj]C[Proof that White's alive]
+(;W[sp];B[sq]
+(;W[sr];B[rs])
+(;W[rs];B[sr]))
+(;W[sq];B[sp]
+(;W[so]C[This is ko, not unconditionally alive.])
+(;W[ss];B[rq])))
+(;W[qk]AW[qn]AW[rm]AW[sn]AW[ro]AW[po]AW[on]AW[pp]AW[pq]AW[pr]AW[qr]AW[or]AB[qp]AB[qo]AB[rp]AB[qq]AB[rr]AB[qs];B[sq]C[Please kill Black if he goes here then.];W[sp];B[so]C[Black can live if the ko is won.]))

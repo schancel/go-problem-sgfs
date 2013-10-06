@@ -1,0 +1,14 @@
+(;GE[tesuji]DI[6k]DP[38]SO[sabetts]CO[0]SZ[19]AW[pn]AW[no]AW[np]AW[op]AW[pq]AW[qq]AW[rq]AB[pl]AB[oo]AB[pp]AB[qp]AB[kq]AB[mq]AB[nq]AB[oq]TR[pp]TR[qp]C[The marked stones are important. Rescue them!]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[on];W[po])
+(;B[qn]
+(;W[qo]C[CHOICE];B[po];W[on];B[ro];W[rp];B[qo];W[qm];B[rm]C[RIGHT])
+(;W[qm]C[CHOICE];B[on]C[RIGHT]))
+(;B[rp];W[po])
+(;B[rn];W[qo]
+(;B[ro];W[rp])
+(;B[qn];W[rp];B[ro];W[on])
+(;B[on];W[po])
+(;B[rp];W[ro]
+(;B[so];W[po];B[sp];W[sq];B[sn];W[rm])
+(;B[po];W[on])))
+(;B[qm];W[qo]))

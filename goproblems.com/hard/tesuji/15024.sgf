@@ -1,0 +1,124 @@
+(;GE[tesuji]DI[6d]DP[3]SO[ndkrempel]CO[0]AB[cc]AB[bd]AB[ce]AB[de]AB[ee]AB[ff]AB[gf]AB[hf]AB[hg]AW[be]AW[af]AW[bf]AW[cf]AW[cg]AW[df]AW[ef]AW[eg]AW[fg]AW[gg]AB[gh]AB[gi]AB[eh]AB[fh]AB[dh]AB[ch]AB[ci]AB[bh]AB[bg]AB[ag]AW[ah]AW[ai]AW[bi]AW[cj]AW[ck]AW[bk]AB[dj]AB[dk]AB[dl]AB[el]AW[di]AW[ei]AW[ej]AW[ek]AW[gk]AW[gj]AB[hj]AB[ij]AW[hi]AW[hh]AW[ih]AW[aj]AB[cl]AB[dp]AB[cp]AW[cq]AW[dq]AW[ep]AW[fo]AW[fp]AW[fq]AW[er]AB[fr]AB[gq]AB[gp]AW[qq]AB[pd]TR[ch]C[The marked stone is GOLDEN. You must save it unconditionally - ko is failure.]AP[goproblems]
+(;B[fk];W[fj];B[gl];W[hk]
+(;B[hl];W[ik];B[jk];W[il];B[im];W[jl];B[kl];W[jm];B[jn];W[km];B[lm];W[kn];B[ko];W[ln];B[mn];W[lo];B[lp];W[mo];B[no];W[mp];B[mq];W[np];B[op];W[nq];B[nr];W[oq];B[pq];W[or]
+(;B[pr];W[os]
+(;B[ps];W[fl]
+(;B[ns];W[ad]
+(;B[al];W[bl]
+(;B[bm];W[cm]
+(;B[cn];W[dm]
+(;B[em];W[fm]
+(;B[en];W[fk];B[fn];W[gm];B[hm];W[gn];B[go];W[hn];B[in];W[ho]
+(;B[hp];W[io];B[jo];W[ip];B[iq];W[jp];B[kp];W[jq];B[jr];W[kq];B[lq];W[kr]
+(;B[lr];W[ks]
+(;B[ls];W[mr]
+(;B[am];W[bn]
+(;B[dn];W[cm]
+(;B[dm];W[an]
+(;B[cm]C[];W[ms];B[ak]C[];W[fi];B[bj]C[RIGHT])
+(;B[bo];W[ms]))
+(;B[bo];W[ms]))
+(;B[bo];W[ms]))
+(;B[ac];W[ms]C[Ko is not good enough!]))
+(;B[js];W[gr];B[am];W[bn]
+(;B[dn];W[cm]
+(;B[dm];W[an]
+(;B[cm];W[hq];B[ak]C[];W[fi];B[bj]C[RIGHT])
+(;B[bo];W[hq]))
+(;B[bo];W[hq]))
+(;B[bo];W[hq])))
+(;B[ks];W[lr]
+(;B[mr];W[ms])
+(;B[am];W[fi])))
+(;B[io];W[hp]
+(;B[hq];W[ip])
+(;B[ip];W[hq])))
+(;B[dn];W[fk]
+(;B[fn];W[gm];B[hm];W[gn];B[go];W[en];B[hn];W[fn])
+(;B[am];W[fi]
+(;B[ak];W[dg])
+(;B[fn];W[dg]))
+(;B[ac];W[fi]))
+(;B[am];W[en]))
+(;B[am];W[em]))
+(;B[dm];W[cn];B[bn];W[dn])
+(;B[fm];W[jj]
+(;B[am];W[bn]
+(;B[cn];W[ii])
+(;B[ac];W[ii]C[Ko is not good enough!]))
+(;B[ac];W[ii]C[Ko is not good enough!]))
+(;B[am];W[bn];B[cn];W[dm];B[em];W[dn]
+(;B[en];W[do]
+(;B[co];W[eo])
+(;B[eo];W[co]))
+(;B[do];W[en])))
+(;B[am];W[bm]
+(;B[an];W[bn]
+(;B[ao];W[bo]
+(;B[ap];W[bp])
+(;B[bp];W[jj]
+(;B[ap];W[ak]
+(;B[ac];W[ii]C[Ko is not good enough!])
+(;B[cm];W[ii]
+(;B[cn];W[fi])
+(;B[co];W[fi])
+(;B[ac];W[fi]))
+(;B[co];W[ii]
+(;B[cn];W[fi])
+(;B[cm];W[fi])
+(;B[ac];W[fi]))
+(;B[cn];W[ii]
+(;B[co];W[fi])
+(;B[cm];W[fi])
+(;B[ac];W[fi])))
+(;B[ac];W[ii]C[Ko is not good enough!])
+(;B[cn];W[ii])
+(;B[cm];W[ii])
+(;B[co];W[ii])))
+(;B[bo];W[dn]))
+(;B[bn];W[cn])))
+(;B[ac];W[jj]
+(;B[ae]C[Ko is not good enough!])
+(;B[bl];W[ii])
+(;B[al];W[bl]
+(;B[bm];W[ii])
+(;B[am];W[bm];B[an];W[bn];B[ao];W[ak])))
+(;B[bl];W[al]
+(;B[am];W[bm]
+(;B[ak]C[Ko is not good enough!])
+(;B[ac];W[an];B[ae]C[Ko is not good enough!]))
+(;B[bm];W[jj]
+(;B[am];W[ii]C[Ko is not good enough!])
+(;B[ac];W[ii]C[Ko is not good enough!]))
+(;B[ac];W[bm];B[ae]C[Ko is not good enough!])))
+(;B[fm];W[fi]))
+(;B[ns];W[fl];B[ps]))
+(;B[os];W[pr];B[qr];W[pp]))
+(;B[ik];W[hl];B[hm];W[fl]
+(;B[il];W[gm])
+(;B[gm];W[fi])
+(;B[fm];W[fi])))
+(;B[ad];W[fi])
+(;B[ae];W[ad]
+(;B[ac];W[fi])
+(;B[fk];W[fj];B[gl];W[hk];B[hl];W[ik];B[jk];W[jj]
+(;B[ac];W[ii]C[Ko is not good enough!])
+(;B[bl];W[ii])
+(;B[al];W[bl]
+(;B[bm];W[ii];B[am];W[fi])
+(;B[am];W[bm];B[an];W[bn];B[ao];W[ak]))))
+(;B[bl];W[fi])
+(;B[al];W[fi])
+(;B[fj];W[fk]
+(;B[ad];W[fi])
+(;B[ae];W[ad];B[ac];W[fi])
+(;B[jh];W[fi])
+(;B[bl];W[fi])
+(;B[al];W[fi]))
+(;B[gl];W[fi])
+(;B[fi];W[fj])
+(;B[dg];W[fi])
+(;B[jh];W[fi])
+(;B[ak];W[al])
+(;B[fl];W[fi])
+(;B[hk];W[fi]))

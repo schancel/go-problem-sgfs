@@ -1,0 +1,8 @@
+(;GE[tesuji]DI[8k]DP[45]SO[Schizoid]CO[7]AB[pd]AW[qf]AW[pg]AW[of]AW[qh]AW[qi]AW[pj]AB[pi]AB[ph]AB[nh]AB[lh]AW[mf]AW[ol]AW[ml]AB[nc]AB[kd]C[Can white capture the two marked stones? If not, please play at T(T19).]TR[ph]TR[pi]AB[lg]LB[sa:T]AP[goproblems]
+(;W[oh];B[oi];W[ni];B[oj]
+(;W[nj];B[ok];W[pk];B[nk];W[mk];B[og]
+(;W[nl];B[oh];W[mh];B[ng];W[mg]C[Nice!RIGHT])
+(;W[mh];B[mi];W[mj];B[mg]C[Doesn't work.]))
+(;W[ok];B[nj]C[Black is saved.]))
+(;W[ni];B[oh];W[mh];B[mg]C[Doesn't work.])
+(;W[sa]C[Wrong. There was a way for white to capture the black stones.]))

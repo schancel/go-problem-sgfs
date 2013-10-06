@@ -1,0 +1,43 @@
+(;GE[life and death]DI[5d]DP[6]SO[randomly_anonymous]CO[0]C[White to live.]AB[rc]AB[qc]AB[pc]AB[ob]AW[pb]AW[qb]AW[rb]AB[qg]AW[kc]AP[goproblems]
+(;W[sb];B[oc])
+(;W[oc];B[nb]
+(;W[mc];B[mb];W[lc];B[lb];W[kc];B[kb];W[rd];B[sc];W[pd];B[qd]C[Not alive.])
+(;W[nc];B[mc])
+(;W[od];B[qe];W[mc];B[mb]))
+(;W[nb]
+(;B[oa];W[oc];B[nc];W[od];B[mb]
+(;W[nd];B[mc];W[sb];B[ra];W[rd];B[qd];W[qe];B[re];W[sc];B[sd];W[pd];B[rd];W[rf]C[RIGHT])
+(;W[sb];B[ra]
+(;W[rd];B[qd]
+(;W[qe];B[re]
+(;W[sc];B[sd];W[pd];B[rd];W[rf]C[White should play the sente at O16 first.RIGHT]MA[nd])))
+(;W[nd];B[mc]
+(;W[rd];B[qd];W[qe];B[re];W[sc];B[sd];W[pd];B[rd];W[rf]C[RIGHT])
+(;W[qd];B[rd]
+(;W[qe];B[re]C[B escapes])
+(;W[re];B[qe];W[pd];B[rf]))
+(;W[sc];B[rd];W[re];B[qe]
+(;W[qf];B[rf];W[se];B[sd])
+(;W[rf];B[sd];W[qd];B[pd]
+(;W[pe];B[qf];W[se];B[qd])
+(;W[qf];B[pf]))
+(;W[sd];B[rf];W[se];B[qf]))
+(;W[pd];B[qe];W[qd];B[rd];W[re];B[rf]))
+(;W[sc];B[rd];W[re];B[qe]
+(;W[sd];B[rf];W[se];B[qf])
+(;W[qf];B[rf];W[pe];B[se]))
+(;W[qd];B[rd];W[qe];B[re]C[Black runs away.]AB[qh]))
+(;W[sc];B[rd];W[pa];B[na])
+(;W[pa];B[na];W[sb];B[ra]
+(;W[rd];B[sc])
+(;W[sc];B[rd])
+(;W[qd];B[rd];W[qe];B[re]))))
+(;W[oa];B[nb])
+(;W[rd];B[sc];W[oc];B[nb];W[nc];B[mb]
+(;W[oe];B[qe];W[qd];B[pd];W[pe];B[re])
+(;W[pe];B[qe];W[qd];B[pd];W[qf];B[pf]
+(;W[re];B[oe];W[od];B[mc]
+(;W[nd];B[ne])
+(;W[sb];B[nd];W[pa];B[ra]))
+(;W[oe];B[re]))
+(;W[qe];B[pe];W[pd];B[od])))

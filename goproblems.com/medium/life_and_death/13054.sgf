@@ -1,0 +1,24 @@
+(;GE[life and death]DI[1d]DP[17]SO[santa c]CO[0]AW[bc]AW[cc]AW[bd]AW[db]AW[eb]AB[fb]AB[gc]AB[dc]AB[dd]AB[fd]AB[cd]AB[be]AB[ae]AB[ed]C[b to ko (2 times to win a ko is best for b)]AB[ga]AP[goproblems]
+(;B[ca]
+(;W[ba]
+(;B[bb];W[ab];B[aa];W[cb]
+(;B[ac];W[ad]
+(;B[ec];W[ab]C[nice! :)RIGHT])
+(;B[ea];W[ab]C[nice! :)RIGHT])
+(;B[da]C[this makes the ko harder for b!]))
+(;B[ad];W[ba])
+(;B[ea];W[ba]))
+(;B[ad];W[ab])
+(;B[ab];W[bb])
+(;B[ea];W[cb]))
+(;W[bb];B[ea];W[da];B[ba]C[RIGHT]))
+(;B[ba];W[ca]
+(;B[bb];W[ab])
+(;B[ab];W[ac]))
+(;B[bb];W[ab]
+(;B[ac];W[cb];B[aa];W[ad]C[this ko is harder (you have one more liberty to take than the solution)])
+(;B[ba];W[ca])
+(;B[ad];W[ba]))
+(;B[ab];W[ba])
+(;B[ea];W[ba])
+(;B[ad];W[ba]))

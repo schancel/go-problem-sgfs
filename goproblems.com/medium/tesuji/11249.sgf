@@ -1,0 +1,28 @@
+(;GE[tesuji]DI[2d]DP[12]SO[santa c]CO[0]AB[pb]AB[pc]AB[pd]AB[pe]AB[pf]AB[pg]AW[qc]AW[rd]AW[qf]AW[qh]AW[qg]AB[oi]AW[od]AW[nc]AW[kb]AW[kc]AW[kd]AB[jb]AB[jc]AB[jd]AB[id]AB[hc]AB[fc]AW[fe]AW[ge]AW[he]AW[ie]AW[je]AB[ke]AB[le]AB[me]AW[nf]AW[lf]AW[lg]AW[kf]AW[jg]AW[kh]AB[jf]AB[if]AB[hf]AB[gf]AB[gh]AB[hh]AB[gi]AW[hi]AW[ii]AW[ih]AB[qj]C[White made an attempt at the cutting stones... Try to avoid unnecessary moves...]LB[od:1]LB[pd:2]LB[nf:3]MA[ke]MA[le]MA[me]MA[kd]MA[kc]MA[kb]AP[goproblems]
+(;B[mc]
+(;W[mb]
+(;B[nb]
+(;W[md];B[ne];W[oe];B[nd]
+(;W[oc];B[ld];W[lc];B[of];W[md]C[Well done! =)RIGHT])
+(;W[lc];B[oc];W[of];B[mc]C[RIGHT]))
+(;W[nd];B[md]MA[ne]MA[lb]C[RIGHT])
+(;W[ne];B[md]MA[nd]MA[lb]C[RIGHT])
+(;W[lb];B[nd]C[RIGHT]))
+(;B[ne];W[oe]
+(;B[nb];W[md])
+(;B[nd];W[oc])
+(;B[of];W[md];B[mf];W[lc]C[Well done! =)RIGHT]))
+(;B[nd]
+(;W[ne]LB[md:1]LB[nb:2]))
+(;B[md];W[nb])
+(;B[lb];W[lc])
+(;B[mf]C[NOTTHIS];W[ng]C[Still works see other vars marked correctRIGHT]))
+(;W[md];B[ld]C[without ko!RIGHT]))
+(;B[ne];W[oe]
+(;B[mc];W[md])
+(;B[of];W[mf]))
+(;B[nd];W[ne])
+(;B[lc];W[lb])
+(;B[lb];W[lc])
+(;B[mb];W[mc])
+(;B[mf]C[NOTTHIS];W[ng]C[Still works see other vars marked correctRIGHT]LB[mc:1]LB[mb:2]LB[nb:3]LB[ne:5]LB[oe:6]LB[nd:7]LB[oc:8]LB[ld:9]LB[lc:10]LB[of:11]LB[md:4,12]))

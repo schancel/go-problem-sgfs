@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[3k]DP[25]SO[Obotchaman]CO[6]AW[fb][dc][ec][gc][hc][ic][jc][kc][lc][oc][pc][md][nd][pd][pe][qe][df][ff][qf][dg][fg][og][qg][ch][fh][hh][oh][ph][di][fi][gi][hi][ni][oi][ej][hj][oj][pj][ck][ik][jk][kk][nk][pk][qk][bl][cl][ql][hm][bn][cn][dn][in][do][eo][go][io][qo][fp][gp][hp][qp][fq][nq][pq]AB[cc][fc][dd][fd][hd][id][jd][kd][ld][od][qd][ce][fe][me][oe][gf][of][pf][bg][cg][gg][jg][ng][pg][eh][gh][qh][bi][mi][pi][qi][cj][dj][mj][nj][rj][bk][dk][fk][hk][mk][ok][rk][gl][hl][il][jl][ol][pl][lm][pm][rm][qn][bo][co][jo][po][ap][dp][ep][ip][bq][cq][eq][gq][hq][iq][mq][er]LB[mq:1]
+;B[]LB[mq:1]C[black just played 1. now white can win the game! but how?]
+(;W[mf]CR[mf]
+;B[nf]CR[nf]
+(;W[mg]CR[mg]
+(;B[ne]CR[ne]
+;W[le]CR[le]
+;B[mh]CR[mh]
+;W[nh]CR[nh]C[RIGHT])
+(;B[mh]CR[mh]
+;W[nh]CR[nh]
+;B[le]CR[le]
+;W[ne]CR[ne]C[RIGHT CHOICE])
+(;B[le]CR[le]
+;W[ne]CR[ne]
+;B[mh]CR[mh]
+;W[nh]CR[nh]C[RIGHT CHOICE]))
+(;W[ne]CR[ne]
+;B[mg]CR[mg])
+(;W[le]CR[le]
+;B[mg]CR[mg]))
+(;W[ne]CR[ne]
+;B[nf]CR[nf]
+;W[mf]CR[mf]
+;B[mg]CR[mg]
+;W[le]CR[le]
+;B[lf]CR[lf]
+(;W[kf]CR[kf]
+;B[lg]CR[lg])
+(;W[me]CR[me]
+;B[kf]CR[kf]))
+(;W[nf]CR[nf]
+;B[ne]CR[ne]
+(;W[mf]CR[mf]
+;B[le]CR[le])
+(;W[le]CR[le]
+;B[mf]CR[mf]
+(;W[lf]CR[lf]
+;B[lg]CR[lg])
+(;W[mg]CR[mg]
+;B[lf]CR[lf]))))

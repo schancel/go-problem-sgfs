@@ -1,0 +1,102 @@
+(;GE[life and death]DI[25k]DP[76]SO[LCZLAPINSKI]CO[6]AW[qa]AW[qb]AW[qc]AW[qd]AW[rd]AW[sd]AB[pa]AB[pb]AB[pc]AB[pd]AB[pe]AB[qe]AB[se]AB[qf]AB[qg]AB[od]AB[oc]AB[oa]AW[na]AW[nb]AW[nc]AW[nd]AW[of]AW[og]AW[oh]AW[qi]AW[qj]AW[rg]AB[re]AW[sh]AB[rj]AW[ri]AW[ne]AP[goproblems]
+(;W[ra];B[sb]MA[rc]MA[rb]MA[sb]MA[sa]MA[sc]C[Wrong; now white needs to kill black before black kills the wR16 group.];W[ob];B[rb];W[oe];B[sa];W[pf];B[sc];W[rc];B[sb];W[qh];B[sc];W[pg];B[sa];W[rb];B[sb];W[sg];B[sc];W[sa];B[sb];W[sc];B[sb])
+(;W[rb]MA[sc]MA[sb]C[T17 and T18 are miai for white.RIGHT]AB[sf])
+(;W[rc];B[sb]MA[rb]MA[ra]MA[sa]MA[sb]MA[sc]C[You just killed yourself. You are left with a bulky five shape inside and black has enough liberties to kill the white R16 group.];W[ob];B[rb];W[qh];B[ra]C[Atari])
+(;W[sc];B[rb]MA[rc]MA[rb]MA[sb]MA[sa]MA[ra]C[You killed yourself. You are left with a killable bulky five shape inside. Black has enough outside liberties to kill.];W[ob];B[sb];W[oe];B[ra]C[Atari])
+(;W[sb]C[RIGHT])
+(;W[sa];B[rb]MA[rc]MA[sc]MA[sb]MA[ra]C[You killed yourself. You have a bulky five killable shape inside. Black has enough liberties to kill.];W[ob];B[ra];W[pf];B[sc]C[Atari])
+(;W[ob]C[];B[rb]C[No, this doesn't work. Play it out if you don't see why.]
+(;W[oe];B[ra]
+(;W[pf]
+(;B[sc]C[AtariCHOICE])
+(;B[rc]C[AtariCHOICE]))
+(;W[sb]
+(;B[rc]C[Atari])
+(;B[sc];W[rc];B[sc]C[Snapback]))
+(;W[rc];B[sc]))
+(;W[ra];B[sc]
+(;W[sb];B[sa]C[Ko];W[sb]C[NOTTHIS])
+(;W[oe];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS]))
+(;W[rc];B[ra]C[Atari])
+(;W[sc];B[sb];W[oe];B[ra]C[Atari])
+(;W[sb];B[ra];W[oe]
+(;B[rc]C[Atari])
+(;B[sc]C[Atari];W[rc];B[sc]C[Snapback]))
+(;W[pf];B[ra])
+(;W[pg];B[ra])
+(;W[ph];B[ra])
+(;W[qh];B[ra]))
+(;W[oe];B[rb]
+(;W[ra];B[sc];W[sb];B[sa]C[Ko])
+(;W[rc];B[ra]C[Atari]MA[qa]MA[qb]MA[qc]MA[rc]MA[qd]MA[rd]MA[sd])
+(;W[sb];B[ra])
+(;W[sg];B[ra];W[ob]LB[nf:T];B[nf]C[Black tenukis.];W[pf]LB[ng:T];B[ng]C[Black tenukis.];W[pg]
+(;B[rc]C[AtariCHOICE]MA[qa]MA[qb]MA[qc]MA[qd]MA[rd]MA[sd])
+(;B[sc]C[Atari]MA[qa]MA[qb]MA[qc]MA[qd]MA[rd]MA[sd]))
+(;W[pf];B[ra])
+(;W[qh];B[ra]))
+(;W[pf];B[rb]
+(;W[ra];B[sc];W[pg];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS])
+(;W[qh];B[ra])
+(;W[rf];B[ra])
+(;W[sb];B[ra]
+(;W[rc];B[sc])
+(;W[ob]
+(;B[sc]C[CHOICE];W[rc];B[sc])
+(;B[rc]C[CHOICE]))))
+(;W[pg];B[rb]
+(;W[ra];B[sc]
+(;W[sb];B[sa]C[Ko];W[sb]C[NOTTHIS])
+(;W[ob];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS]))
+(;W[sb];B[ra])
+(;W[qh];B[ra]))
+(;W[qh];B[rb]
+(;W[ra];B[sc];W[ob];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS])
+(;W[sb];B[ra]
+(;W[rc];B[sc])
+(;W[ob]LB[nh:T];B[nh]C[Black tenukisCHOICE];W[oe]C[]LB[ni:T];B[ni]C[Black tenukisCHOICE];W[pf]
+(;B[sc]C[CHOICE];W[rc];B[sc])
+(;B[rc]C[Atari; marked stones die.]MA[qa]MA[qb]MA[qc]MA[qd]MA[rd]MA[sd]MA[sb]))
+(;W[sa];B[sc]C[Atari]MA[qa]MA[qb]MA[qc]MA[qd]MA[rd]MA[sd])
+(;W[sg]
+(;B[sc]C[CHOICE];W[rc];B[sc]C[Snapback])
+(;B[rc]C[AtariCHOICE]MA[qa]MA[qb]MA[qc]MA[qd]MA[rd]MA[sd])))
+(;W[ob];B[ra];W[oe]LB[ng:T];B[ng]C[Black tenukis];W[pf]LB[nh:T];B[nh]C[Black tenukis];W[pg]
+(;B[rc]C[CHOICE])
+(;B[sc]C[CHOICE]))
+(;W[pf];B[ra])
+(;W[pg];B[ra])
+(;W[rc];B[ra]C[Atari]MA[qa]MA[qb]MA[qc]MA[rc]MA[qd]MA[rd]MA[sd])
+(;W[ph];B[ra])
+(;W[sg];B[ra]))
+(;W[rf];B[rb]
+(;W[ra];B[sc];W[ob];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS])
+(;W[sb];B[ra])
+(;W[rk];B[ra]))
+(;W[sg];B[rb]
+(;W[ra];B[sc]
+(;W[ob];B[sa]C[Atari];W[sb]C[Ko];B[sa]C[NOTTHIS])
+(;W[sb];B[sa]C[Ko];W[sb]C[NOTTHIS]))
+(;W[sb];B[ra]))
+(;W[mb];B[rb];W[ob];B[ra])
+(;W[ph];B[rb]
+(;W[ob];B[ra])
+(;W[ra];B[sb];W[ob];B[sa];W[oe];B[sc];W[rc];B[sb];W[pf];B[rb];W[qh];B[sa];W[sc];B[sb];W[pg];B[rb]
+(;W[rf];B[sa])
+(;W[sa];B[sb];W[rb];B[sb]))
+(;W[rc];B[ra]C[Atari]MA[qa]MA[qb]MA[qc]MA[rc]MA[qd]MA[rd]MA[sd])
+(;W[sb];B[ra])
+(;W[rf];B[ra])
+(;W[qh];B[ra]))
+(;W[rh];B[rb]
+(;W[ob];B[ra])
+(;W[sb];B[ra]))
+(;W[sj];B[rb];W[ob];B[ra])
+(;W[rk];B[rb]
+(;W[ob];B[ra])
+(;W[ra];B[sb];W[ob];B[sa];W[oe];B[sc];W[rc];B[sb];W[pf];B[sa];W[pg];B[sc];W[rb];B[sb];W[qh];B[sc];W[sa];B[sb]
+(;W[sc];B[sb])
+(;W[rf];B[sc]))
+(;W[sb];B[ra])
+(;W[rf];B[ra])
+(;W[sj];B[ra])))

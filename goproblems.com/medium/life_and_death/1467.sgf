@@ -1,0 +1,64 @@
+(;GE[life and death]DI[4k]DP[28]SO[Hans]CO[7]AW[na]AW[mb]AW[ob]AW[fc]AW[hc]AW[ic]AW[jc]AW[kc]AW[lc]AW[oc]AW[nd]AW[od]AW[pd]AW[qd]AW[rd]AW[pf]AW[ph]AW[qj]AB[nb]AB[pb]AB[mc]AB[nc]AB[qc]AB[rc]AB[id]AB[jd]AB[kd]AB[ld]AB[md]AB[ge]AB[me]AB[ne]AB[jh]AB[mh]C[Black to play. What can you do with the triangled stones.]TR[pb]TR[qc]TR[rc]
+(;B[pa]
+(;W[rb]
+(;B[ra];W[sb]
+(;B[sc];W[qb];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT])
+(;B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT])
+(;B[qb];W[sc];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT]))
+(;B[oa];W[la];B[ma]C[Ko for connection.RIGHT])
+(;B[sb];W[ra];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT])
+(;B[qb];W[ra];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT]))
+(;W[oa];B[ra]C[Black lives.RIGHT]))
+(;B[qa];W[rb]
+(;B[oa];W[pa]C[There is a better ko for black])
+(;B[sb];W[ra];B[oa];W[pa]C[There is a better ko for black.])
+(;B[ra];W[sb];B[oa];W[pa]C[There is a better ko for black.]))
+(;B[oa];W[pa]
+(;B[qa];W[oa]C[Black is dead.])
+(;B[rb];W[qa])
+(;B[ra];W[sb]))
+(;B[lb];W[oa];B[ma];W[kb]C[You didn't bring the stones in the corner to full use.])
+(;B[rb];W[qa];B[pa];W[sc]
+(;B[oa];W[la];B[ma]C[Ko for connection.RIGHT])
+(;B[sb];W[ra];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT])
+(;B[ra];W[sb];B[oa];W[la];B[ma]C[Ko for connection, but you wasted ko threats.RIGHT]))
+(;B[ra]
+(;W[sb]
+(;B[sc]
+(;W[pa]
+(;B[qa];W[oa]
+(;B[pc];W[rb])
+(;B[rb];W[pc]))
+(;B[rb];W[qa])
+(;B[pc];W[rb])))
+(;B[pa]
+(;W[oa];B[sc];W[rb];B[qb]C[RIGHT])
+(;W[sc];B[oa];W[la]C[KoRIGHT])
+(;W[rb])))
+(;W[pa]
+(;B[qa]
+(;W[oa]
+(;B[sb]C[RIGHT])
+(;B[rb];W[pc])
+(;B[sc];W[pc])
+(;B[pc];W[sb]))
+(;W[sb]
+(;B[oa]C[RIGHT])
+(;B[rb];W[oa])))
+(;B[sb];W[qb])
+(;B[qb];W[sb])
+(;B[sc];W[pc])
+(;B[pc];W[sb])))
+(;B[sb];W[ra]
+(;B[qa];W[oa];B[rb];W[pc]C[Black cannot play Q19.])
+(;B[pa];W[oa])
+(;B[rb];W[qa]))
+(;B[sc];W[pa]
+(;B[qa];W[oa]
+(;B[ra])
+(;B[rb];W[pc]
+(;B[sa];W[qb]C[There's a better ko for Black.])
+(;B[qb];W[sa]))
+(;B[pc];W[rb]))
+(;B[ra])
+(;B[rb];W[qa])))

@@ -1,0 +1,10 @@
+(;GE[elementary]DI[20k]DP[72]SO[danielrobert]CO[5]AB[ac]AB[bb]AB[ca]AB[bc]AB[db]AB[dc]AB[fb]AB[gc]AB[ic]AW[cb]AW[cc]AW[cd]AW[dd]AW[bd]AW[eb]AW[ec]AB[ba]AW[bf]AP[goproblems]
+(;B[ea];W[da]
+(;B[db];W[dc]
+(;B[da]C[RIGHT])
+(;B[fa];W[da]C[Ko]))
+(;B[fa];W[db]))
+(;B[da];W[ea];B[ed];W[fd];B[ee];W[fc]MA[ac]MA[bc]MA[bb]MA[ba]MA[ca]MA[da]MA[db]MA[dc]C[Black has just 3 liberties. White's group on the right can run away.])
+(;B[fa];W[da])
+(;B[ad];W[da])
+(;B[ed];W[da]))

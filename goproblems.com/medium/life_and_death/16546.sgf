@@ -1,0 +1,18 @@
+(;GE[life and death]DI[1k]DP[20]SO[kmlck]CO[0]AB[cb]AB[cc]AB[be]AB[ce]AB[de]AB[gf]AB[hf]AB[ff]AB[ef]AB[he]AB[hd]AB[ic]AB[ib]AB[jd]AB[fd]AB[fc]AW[fe]AW[ee]AW[dd]AW[ec]AW[ge]AW[gd]AW[hc]AW[hb]AW[ha]AW[eb]C[Black to kill unconditionally.]AP[goproblems]
+(;B[fa]
+(;W[ea]
+(;B[ed];W[gc];B[fb]
+(;W[gb];B[dc];W[ga]
+(;B[ed]C[RIGHT])
+(;B[fb]C[RIGHT]))
+(;W[dc];B[ia]C[RIGHT]))
+(;B[fb];W[ed])
+(;B[gc];W[ed]))
+(;W[fb];B[gc];W[ed];B[ea]C[RIGHT]))
+(;B[fb];W[ed];B[fa];W[ea];B[gc];W[gb])
+(;B[gc];W[ed])
+(;B[gb];W[fb];B[gc];W[ed])
+(;B[ed];W[gc];B[fb];W[fa];B[gb];W[ga])
+(;B[dc];W[ed]
+(;B[gc];W[fb])
+(;B[fb];W[fa];B[gb];W[gc])))

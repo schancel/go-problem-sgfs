@@ -1,0 +1,25 @@
+(;GE[elementary]DI[25k]DP[76]SO[maba]CO[8]AW[pk]AW[pj]AW[ql]AW[pl]AW[rk]AB[rl]AB[sl]AB[sk]AB[qm]AB[pm]AB[om]AB[rn]AW[qj]AB[rj]AW[qk]AB[ri]AW[pi]AW[ph]AW[rm]AW[rh]AW[sh]AW[pg]TR[ri]TR[rj]C[How can white capture the marked stones?]AP[goproblems]
+(;W[sj]
+(;B[si]
+(;W[qi]
+(;B[sm]
+(;W[sj]C[RIGHT])
+(;W[sn];B[so];W[sj]C[RIGHT]))
+(;B[sj]
+(;W[sm]C[RIGHT])
+(;W[sn];B[sm];W[rm]C[RIGHT])))
+(;W[sm];B[sn];W[qi];B[sj])
+(;W[sn]
+(;B[sm];W[qi]C[RIGHT])
+(;B[sj];W[qi];B[sm];W[rm]C[RIGHT])))
+(;B[sm];W[si]C[RIGHT]))
+(;W[si];B[sj]
+(;W[sm];B[sn])
+(;W[qi];B[sm]))
+(;W[qi];B[sj]
+(;W[si];B[sm])
+(;W[sm];B[sn]))
+(;W[sm];B[sn]
+(;W[si];B[sj])
+(;W[qi];B[sj])
+(;W[sj];B[si];W[qi];B[sj])))

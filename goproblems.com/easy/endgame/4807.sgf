@@ -1,0 +1,17 @@
+(;GE[endgame]DI[18k]DP[67]SO[kaiou]CO[8]AB[ai]AB[bh]AB[bj]AB[cj]AB[ci]AB[ch]AB[dk]AB[cl]AB[cm]AB[bn]AB[cn]AB[dn]AB[am]AW[an]AW[ao]AW[bo]AW[co]AW[do]AW[en]AW[el]AW[dl]AW[dm]AW[ek]AW[fm]AB[dj]AW[ej]AW[di]AW[dh]AW[fi]AW[cg]AW[bg]AW[ag]AW[ah]AW[dg]AW[al]LB[al:a]C[Black to minimize the reduction, you have no ko threats]AP[goproblems]
+(;B[ak];W[bm]
+(;B[bl];W[am]C[RIGHT])
+(;B[bk]C[Alive in Gote, there is a better way])
+(;B[ck]C[Alive in Gote, there is a better way]))
+(;B[bl];W[bm]
+(;B[ak];W[am]C[RIGHT])
+(;B[bk];W[am]C[Only 2/3 points])
+(;B[aj];W[am]C[Only 2/3 points]))
+(;B[bm];W[bk]
+(;B[aj];W[ck])
+(;B[ak];W[aj]C[Ko for life])
+(;B[bl];W[ck])
+(;B[ck];W[aj];B[ak]C[Ko for life]))
+(;B[bk];W[bm]
+(;B[bl];W[am]C[Only 2/3 points])
+(;B[ak]C[Only 3 points])))

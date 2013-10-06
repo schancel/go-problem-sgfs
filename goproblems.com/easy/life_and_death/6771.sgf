@@ -1,0 +1,22 @@
+(;GE[life and death]DI[4k]DP[31]SO[tom111]CO[6]AB[ds]AB[es]AB[er]AW[cs]AW[dr]AW[cq]AW[bq]AW[bp]AW[ap]AB[ao]AB[bo]AB[cp]AB[eq]AB[ep]AB[co]C[Black to kill]AP[goproblems]
+(;B[ar];W[br]
+(;B[dq];W[as]
+(;B[cr]C[Correct. White needs to win both of the Ko's to live, which she can't.RIGHT])
+(;B[bs]C[Correct. White needs to win both Ko's which she can'tRIGHT]))
+(;B[bs];W[as]C[Ko !])
+(;B[as];W[dq]))
+(;B[br];W[ar]
+(;B[bs];W[cr])
+(;B[cr];W[bs])
+(;B[as];W[bs])
+(;B[dq];W[cr]))
+(;B[bs];W[br]
+(;B[cr]C[Ko !])
+(;B[ar];W[as]C[Ko !])
+(;B[dq];W[as];B[cr]C[Ko !])
+(;B[as];W[ar]))
+(;B[cr];W[br])
+(;B[dq];W[ar]
+(;B[cr];W[bs]C[White lives])
+(;B[bs];W[cr])
+(;B[br];W[cr])))

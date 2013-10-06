@@ -1,0 +1,195 @@
+(;GE[endgame]DI[3d]DP[9]SO[briv]CO[0]AB[dc]AB[eb]AB[fb]AB[fa]AB[dd]AB[cd]AB[bd]AB[ad]AB[ee]AB[ef]AB[df]AB[eg]AB[ff]AB[gf]AB[gg]AB[gh]AB[hg]AW[da]AW[ca]AW[db]AW[ea]AW[cc]AW[bb]AW[bc]AW[hh]AW[gi]AW[fh]AW[fg]AW[eh]AW[dg]AW[cf]AW[ce]AW[be]AW[ae]AW[ch]LB[gd:Y]LB[hd:N]SZ[9]C[Y = Yes . . . N = No]AP[goproblems]
+(;B[gd];W[hd]C[you're right, now prove it !]
+(;B[ih];W[hi]
+(;B[fi];W[ei]
+(;B[bg];W[cg]
+(;B[ac];W[ab]
+(;B[de];W[fi]
+(;B[ig];W[ii]
+(;B[bi];W[bh];B[ci];W[dh];B[ah]C[Seki !RIGHT])
+(;B[di];W[dh]
+(;B[bh];W[bi])
+(;B[bi];W[bh]))
+(;B[bh];W[bi]))
+(;B[bi]))
+(;B[ig];W[fi]
+(;B[de])
+(;B[bi];W[bh]
+(;B[ci];W[dh]
+(;B[ah];W[ag])
+(;B[ii];W[ah]C[Black wins by 0.5RIGHT]))
+(;B[ah];W[ci])
+(;B[ii];W[ah]C[Black wins by 0.5RIGHT])
+(;B[de]))
+(;B[ii];W[de]))
+(;B[bi];W[bh]
+(;B[ci];W[dh]
+(;B[ig];W[ah]C[Black wins by 0.5RIGHT])
+(;B[de];W[fi]
+(;B[ig];W[ah]C[Black wins by 0.5RIGHT])
+(;B[ah];W[ag]
+(;B[ig];W[bf]C[RIGHT])
+(;B[af];W[bf];B[ig])))
+(;B[ah];W[ag]
+(;B[ig];W[fi]
+(;B[ii];W[bf]C[Black wins by 0.5RIGHT])
+(;B[af];W[bf])
+(;B[de]))
+(;B[af];W[bf]
+(;B[ig];W[fi];B[ii];W[ag]C[Black wins by 0.5RIGHT])
+(;B[de];W[fi];B[ig];W[ag]C[Black wins by 0.5RIGHT]))
+(;B[de];W[fi])))
+(;B[ig]
+(;W[ah]C[Black wins by 0.5RIGHT])
+(;W[fi];B[ii];W[ah]C[Black wins by 0.5RIGHT]))
+(;B[de];W[ah]C[Black wins by 0.5RIGHT])
+(;B[ah];W[ci]C[Black wins by 0.5RIGHT]))
+(;B[bh];W[bi]))
+(;B[ig];W[ac]
+(;B[ii];W[fi];B[bi];W[bh];B[ci];W[dh])
+(;B[de];W[bh]C[Black loses by 0.5]))
+(;B[de];W[ac])
+(;B[bi];W[bh]
+(;B[ac];W[ab])
+(;B[ci];W[ac];B[ig];W[dh];B[ii];W[fi];B[ah];W[ag];B[af];W[bf];B[de];W[ag]C[Black loses by 0.5])))
+(;B[ac];W[ab]
+(;B[de];W[fi])
+(;B[ig];W[de])
+(;B[bg]))
+(;B[ig];W[ac]C[Black will lose by 0.5]))
+(;B[ac];W[ab])
+(;B[bg];W[cg]
+(;B[ac];W[ab])
+(;B[fi];W[ei])))
+(;B[ac];W[ab]
+(;B[ih];W[hi]
+(;B[fi];W[ei]
+(;B[ig];W[de]
+(;B[ii];W[fi]
+(;B[bg];W[cg]
+(;B[bi];W[bh]
+(;B[ci];W[dh];B[ah]C[SekiRIGHT])
+(;B[di];W[dh])
+(;B[ah];W[ci]))
+(;B[di];W[dh];B[bh];W[bi])
+(;B[ci];W[bi])
+(;B[bh];W[bi]))
+(;B[bh];W[bi])
+(;B[ci];W[bi])
+(;B[bi];W[bh]))
+(;B[bg];W[cg]
+(;B[ii];W[fi])
+(;B[bi];W[bh];B[ci];W[dh];B[ah]C[];W[ag]
+(;B[ii];W[bf];B[fi];W[gi];B[hi];W[fi]C[Black winsRIGHT])
+(;B[af];W[bf];B[ii];W[ag]))))
+(;B[de];W[fi]
+(;B[ig];W[ii]
+(;B[bg];W[cg])
+(;B[bh];W[bi])
+(;B[ci];W[bi])
+(;B[bi];W[bh]))
+(;B[bg];W[cg]
+(;B[bi];W[bh];B[ig];W[ii])
+(;B[ig];W[ii]))
+(;B[bi];W[bh]))
+(;B[bg];W[cg]))
+(;B[bg];W[cg]
+(;B[de];W[fi])
+(;B[ig];W[fi])
+(;B[fi];W[ei]))
+(;B[de];W[fi]C[Black loses by 0.5])
+(;B[ig];W[fi]C[Black loses by 0.5]))
+(;B[fi];W[ei]
+(;B[ih];W[hi])
+(;B[bg];W[cg]
+(;B[ih];W[hi])
+(;B[hi];W[ii]C[h1 j1 is a bad exchange for black];B[ig];W[fi]
+(;B[ih];W[hi])
+(;B[de];W[hi];B[ih]))
+(;B[bi];W[bh]
+(;B[ih];W[hi])
+(;B[ah];W[ci];B[ih];W[hi]C[Black wins by 0.5RIGHT]))
+(;B[ig];W[hi];B[ih]))
+(;B[hi];W[ii]C[h1 j1 is a bad exchange for black];B[ig];W[fi];B[ih];W[hi]
+(;B[bg];W[cg]
+(;B[bi];W[bh]
+(;B[ci];W[dh]
+(;B[ah];W[ag]
+(;B[de];W[bf]C[black loses by 0.5])
+(;B[af];W[bf]))
+(;B[de];W[ah]C[black loses by 0.5]))
+(;B[de];W[ah]C[black loses by 0.5]))
+(;B[de];W[bh]C[black loses by 0.5])
+(;B[bh];W[bi]C[Black loses])
+(;B[di];W[dh];B[bh];W[bi]C[Black loses]))
+(;B[de];W[bg]C[Black loses by 0.5]))
+(;B[ig];W[hi];B[ih]))
+(;B[bg];W[cg])
+(;B[hi];W[ii]C[black just loses one point])
+(;B[ig];W[fi]C[Now black can't win]))
+(;B[bg];W[cg]
+(;B[ac];W[ab]
+(;B[ih];W[hi];B[fi];W[ei])
+(;B[hi];W[ii]C[])
+(;B[fi];W[ei])
+(;B[ig];W[fi]C[Now black can't win]))
+(;B[fi];W[ei]
+(;B[ih];W[hi])
+(;B[hi];W[ii]C[]
+(;B[ig];W[fi]
+(;B[ih];W[hi];B[bi];W[bh]
+(;B[ci])
+(;B[ac])
+(;B[ah];W[ci];B[ac];W[ab]C[Black loses by 1.5]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab]))
+(;B[ih];W[hi])
+(;B[hi];W[ii]C[h1 j1 is a bad exchange for black])
+(;B[ig];W[fi]C[Now black can't win]))
+(;B[fi];W[ei]
+(;B[ih];W[hi])
+(;B[bg];W[cg])
+(;B[ac];W[ab])
+(;B[hi];W[ii]C[h1 j1 is a bad exchange for black]
+(;B[ig];W[fi]
+(;B[ih];W[hi]
+(;B[bg];W[cg]
+(;B[bi];W[bh]
+(;B[ci];W[dh]
+(;B[ah];W[ag]
+(;B[af];W[bf]
+(;B[de];W[ag];B[ac];W[ab]C[black loses by 0.5])
+(;B[ac];W[ab];B[de];W[ag]C[Black loses by 0.5]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab])
+(;B[ah]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab]))
+(;B[ac];W[ab])))
+(;B[hi];W[ii]C[h1 j1 is a bad exchange for black]
+(;B[fi];W[ei])
+(;B[ac];W[ab]C[h1 j1 is a bad exchange for black]
+(;B[ig];W[fi]C[j3 is another mistake])
+(;B[fi];W[ei])
+(;B[bg];W[cg]))
+(;B[bg];W[cg]C[h1 j1 is a bad exchange for black]
+(;B[ig];W[fi]C[j3 is another mistake]
+(;B[ih];W[hi];B[ac];W[ab]C[Black loses by 1.5])
+(;B[ac];W[ab];B[ih];W[hi]C[Black loses by 1.5]))
+(;B[ac];W[ab]
+(;B[ig];W[fi])
+(;B[fi];W[ei]))
+(;B[fi];W[ei]))
+(;B[ig];W[fi]C[j3 is another mistake];B[ih];W[hi];B[ac];W[ab]C[Black loses by 1.5]))
+(;B[ig];W[fi]C[Now black can't win])
+(;B[ab];W[ac])
+(;B[de];W[ac]))
+(;B[hd];W[gd]C[Im sure you knew 'No' was wrong :) you can take a look to know how black can win])
+(;B[ac]C[NOTTHIS])
+(;B[ih]C[NOTTHIS])
+(;B[fi]C[NOTTHIS])
+(;B[hi]C[NOTTHIS])
+(;B[bg]C[NOTTHIS]))

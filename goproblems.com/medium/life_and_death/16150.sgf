@@ -1,0 +1,13 @@
+(;GE[life and death]DI[2d]DP[12]SO[santa c]CO[0]AB[rr]AB[qr]AB[pr]AB[qq]AB[nq]AB[mq]AB[mr]AB[op]AW[pq]AW[qp]AW[rp]AW[rq]AW[np]AW[mp]AB[lq]AW[lp]AW[kq]AW[kr]AW[lr]AW[oo]AW[po]C[Is B in trouble or what ?]AP[goproblems]
+(;W[ns];B[os]
+(;W[or];B[nr];W[ps];B[oq]
+(;W[pp];B[os]C[Nice !RIGHT])
+(;W[ms];B[os]C[Nice !RIGHT]))
+(;W[oq];B[or])
+(;W[ms];B[nr])
+(;W[sr];B[oq]))
+(;W[os];B[or]LB[ms:1]LB[ns:2]LB[nr:3]LB[oq:4])
+(;W[or];B[oq]LB[ns:1]LB[nr:2])
+(;W[ms];B[os])
+(;W[sr];B[os])
+(;W[rs];B[os]))

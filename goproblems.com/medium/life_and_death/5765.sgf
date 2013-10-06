@@ -1,0 +1,56 @@
+(;GE[life and death]DI[3d]DP[11]SO[santa c]CO[9]AB[rb]AB[pb]AB[pc]AB[pd]AB[pg]AB[ph]AB[pi]AB[re]AW[qe]AW[qd]AW[qc]AW[rc]AW[rg]AW[ri]AW[qi]AW[qj]AB[pj]AB[pk]AB[qk]AB[rk]AB[rj]AB[oe]AB[of]LB[nc:T]C[Can white live (unconditionally)? Show how or play at T if you don't think so!]AB[qg]AB[nb]AP[goproblems]
+(;W[rf]
+(;B[rh]
+(;W[se];B[sg]
+(;W[qb];B[qa]
+(;W[sc]
+(;B[ra];W[rd]C[Well done! :)RIGHT])
+(;B[rd];W[ra];B[sa];W[sb]C[RIGHT]))
+(;W[ra];B[sa];W[sc]C[Well done! :)RIGHT]TR[rd]TR[sb])
+(;W[rd];B[sc]C[:(])
+(;W[sb];B[ra]C[:(]TR[sc]TR[rd]))
+(;W[sc]
+(;B[qb];W[rd]C[Well done! :)RIGHT])
+(;B[rd];W[qb];B[qa];W[ra];B[sa];W[sb]C[RIGHT]))
+(;W[rd];B[sc]C[:(]))
+(;W[rd];B[se]C[:(])
+(;W[sd];B[qb]C[:(]TR[se]TR[sg])
+(;W[sc];B[se]C[:(]TR[qb]TR[qf])
+(;W[sg];B[se]C[:(])
+(;W[qb];B[qa]
+(;W[se];B[sg]
+(;W[sc]
+(;B[ra];W[rd]C[Well done! :)RIGHT])
+(;B[rd];W[ra];B[sa];W[sb]C[RIGHT]))
+(;W[sb];B[ra]C[:(]TR[rd]TR[sc])
+(;W[ra];B[sa]
+(;W[sc]TR[sb]TR[rd]C[Well done! :)RIGHT])
+(;W[rd];B[sc]C[:(]))
+(;W[rd];B[sc]C[:(]))
+(;W[rd];B[se]C[:(])
+(;W[sg];B[se]C[:(])
+(;W[sc];B[se];W[ra];B[sa];W[sb];B[ra];W[pa];B[ra];W[qa];B[qf]C[:(])
+(;W[sb];B[ra]C[:(])
+(;W[ra];B[sa]
+(;W[sc];B[se];W[sb];B[ra];W[pa];B[ra];W[qa];B[qf]C[:(])
+(;W[se];B[sg]
+(;W[sc]C[Well done! :)RIGHT]TR[rd]TR[sb])
+(;W[rd];B[sc]C[:(]))
+(;W[rd];B[se]C[:(])
+(;W[sg];B[se]C[:(])))
+(;W[sb];B[qb]C[:(])
+(;W[qf];B[se]C[:(])
+(;W[si];B[sg]C[:(])
+(;W[sh]C[NOTTHIS]))
+(;B[qb];W[se])
+(;B[se];W[si]C[RIGHT]))
+(;W[nc]C[It is possilbe. View 'navigate solution' under 'show solution' to see how!])
+(;W[qf];B[rh]C[:(]TR[se]TR[rf])
+(;W[rh];B[rf];W[qf];B[si]C[:(])
+(;W[qb];B[rf]C[:(]TR[qf]TR[rh])
+(;W[rd];B[rf]C[:(]TR[qf]TR[rh])
+(;W[sh];B[rf];W[qf];B[qh]C[:(])
+(;W[sc];B[rf]C[:(]TR[qf]TR[rh])
+(;W[se];B[rf]TR[rh]TR[qf]C[:(])
+(;W[qh];B[rf];W[qf];B[si]C[:(])
+(;W[si];B[rf]C[:(]TR[qf]TR[rh]))

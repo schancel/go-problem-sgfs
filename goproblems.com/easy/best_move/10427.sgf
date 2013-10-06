@@ -1,0 +1,12 @@
+(;GE[best move]DI[12k]DP[55]SO[Bleedo]CO[6]AW[jc]AW[ic]AW[fb]AW[gb]AW[hb]AW[ib]AW[jb]AW[fc]AW[ec]AW[dc]AW[cd]AW[bd]AW[be]AW[bf]AW[de]AW[df]AW[dg]AW[cg]AW[eg]AW[eh]AW[ei]AW[ek]AW[ej]AW[fk]AW[fh]AW[gh]AW[gi]AW[ff]AW[gf]AW[hg]AW[ig]AW[hf]AW[ji]AW[ki]AW[mi]AW[lh]AW[lj]AW[li]AW[lk]AW[mk]AW[nk]AW[ok]AW[oj]AW[ma]AW[mb]AW[mc]AB[oa]AB[ob]AW[lb]AW[nc]AW[nd]AW[od]AW[nf]AW[of]AB[ha]AB[ja]AB[ka]AB[la]AB[kb]AB[kc]AB[lc]AB[ld]AB[md]AB[jd]AB[ke]AB[id]AB[hc]AB[gc]AB[ge]AB[he]AB[fd]AB[ed]AB[dd]AB[ee]AB[ef]AB[if]AB[jg]AB[jh]AB[kh]AB[ih]AB[hi]AB[ii]AB[fi]AB[fj]AB[gj]AB[gk]AB[ik]AB[jk]AB[lg]AB[mf]AB[mg]AB[mh]AB[og]AB[oh]AB[mj]AB[nj]AB[ni]AB[oi]AW[jf]AW[kf]AB[ie]AW[ia]C[White to capture some black stones.]AP[goproblems]
+(;W[gd]
+(;B[hd]C[What if Black wants to save everything?];W[fe];B[gd]
+(;W[je];B[kd];W[me]C[RIGHT])
+(;W[me];B[lf])))
+(;W[hd];B[gd])
+(;W[me];B[lf])
+(;W[fe];B[gd])
+(;W[je];B[gd];W[le];B[me];W[kd];B[lf])
+(;W[le];B[lf];W[gd];B[hd];W[fe];B[gd];W[je];B[kg])
+(;W[lf];B[me])
+(;W[ne];B[me]))

@@ -1,0 +1,44 @@
+(;GE[life and death]DI[4k]DP[28]SO[AkaHige]CO[9]AB[dp]AB[dq]AB[dr]AB[cp]AB[bq]AB[ep]AB[fr]AB[gr]AW[eq]AW[er]AW[es]AW[ds]AW[cr]AW[fp]AW[gp]AW[hq]AW[hr]AB[fq]AW[eo]C[Black to save the three surrounded stones.]AP[goproblems]
+(;B[bs]
+(;W[br]C[CHOICE]
+(;B[cs];W[as]
+(;B[cs];W[bs];B[fs];W[cs];B[cq]C[Well done!RIGHT])
+(;B[fs];W[cs]
+(;B[cq];W[gq])
+(;B[ar];W[gq];B[bs];W[gs]))
+(;B[cq];W[gs];B[cs];W[bs]
+(;B[aq]
+(;W[cs])
+(;W[fs];B[ar];W[gq]))
+(;B[ar];W[fs];B[cs];W[gq])))
+(;B[cq];W[cs]
+(;B[fs];W[as]
+(;B[aq];W[gq])
+(;B[ar];W[aq];B[ap]C[];W[gq]))
+(;B[ar];W[as]C[Ko. Black can do better than that.]))
+(;B[fs];W[cs];B[ar];W[as]C[Ko. Black can do better than that.])
+(;B[as];W[gs])
+(;B[aq];W[gs])
+(;B[ar];W[gs]
+(;B[cq];W[fs])
+(;B[cs];W[as];B[cs];W[bs];B[cq];W[fs])))
+(;W[cs];B[br];W[gs];B[cq]C[White can't connect at A.RIGHT]LB[fs:A])
+(;W[gs];B[cs]C[White can't connect at A.RIGHT]LB[fs:A]))
+(;B[fs];W[cs]
+(;B[br];W[gq])
+(;B[bs];W[gq])
+(;B[cq];W[gq]))
+(;B[cs];W[bs]
+(;B[fs];W[cs]
+(;B[br];W[gq])
+(;B[cq];W[gq]))
+(;B[br];W[gs];B[cq];W[fs];B[cs];W[gq]))
+(;B[br];W[gs]
+(;B[cq];W[fs];B[cs];W[gq])
+(;B[bs];W[fs];B[cs];W[gq])
+(;B[cs];W[bs];B[cq];W[fs];B[cs];W[gq]))
+(;B[cq];W[gs]
+(;B[br];W[fs];B[cs];W[gq])
+(;B[bs];W[fs];B[cs];W[gq])
+(;B[cs];W[bs];B[br];W[fs];B[cs];W[gq]))
+(;B[gs];W[hs]))

@@ -1,0 +1,36 @@
+(;GE[best move]DI[1k]DP[18]SO[tom111]CO[4]AB[op]AB[pq]AB[oq]AW[pp]AW[qq]AB[qr]AW[po]AB[qm]AW[qn]AB[pm]AW[oo]AW[mp]AB[no]AW[np]AB[nn]AW[rr]AB[pr]AW[rp]AB[mr]AW[lr]C[Black to Play]LB[lr:1]AP[goproblems]
+(;B[mq];W[lq]
+(;B[lp];W[mo]
+(;B[kp];W[jq]
+(;B[ln];W[mn];B[mm];W[nm];B[on]
+(;W[lo]
+(;B[kn]C[RIGHT])
+(;B[ko]C[RIGHT]))
+(;W[lm];B[ml];W[lo];B[kn];W[ko];B[jo]C[RIGHT]))
+(;B[mn];W[lo];B[kn];W[ko]C[White escapes])
+(;B[lo];W[mn])
+(;B[kn];W[mn]
+(;B[nm]C[White escapes])
+(;B[mm];W[nm];B[on];W[lm]C[White escapes]))
+(;B[lm];W[ln];B[mn]C[RIGHT]))
+(;B[lo];W[mn]C[White escapes and Black has a problem])
+(;B[kq];W[kr];B[jq];W[jr];B[iq];W[ir]
+(;B[kn];W[mn];B[mm];W[nm]C[White breaks out and Black dies.])
+(;B[hq];W[lo];B[kp];W[nq];B[nr];W[os]
+(;B[or];W[qs]
+(;B[ps];W[rs]
+(;B[ns];W[ls]C[Black dies])
+(;B[ls];W[ns];B[ms];W[ks]C[Black dies.]))
+(;B[ko];W[ln]C[Black dies]))
+(;B[ko];W[ln];B[or]C[Black dies.]))
+(;B[os];W[hq]C[Glack is not alive and White is happy]))
+(;B[jp]))
+(;B[os];W[lo]C[Black must live and white has Sente.... Too submissive.])
+(;B[nr];W[lo]C[Black must live and White has Sente. Too submissive]))
+(;B[nr];W[lq];B[os]C[Black can live, but its too submissive.])
+(;B[nq]C[Black to play];W[lq]C[Black is dead.])
+(;B[os];W[lq]C[White is peaceful];B[nr]C[Black lives, but its too submissive])
+(;B[ns];W[lq]C[Black is dead.])
+(;B[lq];W[nr]
+(;B[nq];W[mq])
+(;B[mq];W[nq]C[Sliced and dead...])))

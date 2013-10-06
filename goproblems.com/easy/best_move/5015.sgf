@@ -1,0 +1,13 @@
+(;GE[best move]DI[5k]DP[32]SO[Bildstein]CO[6]AB[ma]AB[mb]AB[mc]AB[md]AB[me]AB[ne]AB[oe]AB[od]AB[oc]AB[ob]AB[pd]AB[qd]AB[qc]AB[qb]AW[nc]AW[pb]AW[pc]AW[la]AW[lb]AW[lc]AW[ld]AW[mf]AW[le]AW[nf]AW[of]AW[pe]AW[qe]AW[rd]AW[rc]AW[rb]AW[pg]AW[qa]AP[goproblems]
+(;W[oa];B[na]C[In problem 3154, Black couldn't play o19, because he was short of liberties. The four White stones are now dead, but I've put some variations in anyway, just for clarification]
+(;W[ra];B[pa])
+(;W[pa];B[ra])
+(;W[nb];B[pa])
+(;W[nd];B[pa]))
+(;W[pa];B[oa]
+(;W[ra];B[nb]C[Profit in sente.RIGHT])
+(;W[nb];B[ra]))
+(;W[ra];B[pa])
+(;W[nb];B[pa])
+(;W[na];B[pa])
+(;W[nd];B[pa]))

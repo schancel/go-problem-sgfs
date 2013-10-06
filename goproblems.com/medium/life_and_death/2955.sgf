@@ -1,0 +1,74 @@
+(;GE[life and death]DI[3d]DP[9]SO[bass]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[lo][mo][no][oo][po][lp][pp][rp][jq][kq][qq][jr][nr][qr]AB[mp][np][op][lq][mq][oq][pq][kr][mr][pr][ls]PL[W]
+(;W[or]CR[or]
+;B[ps]CR[ps]
+(;W[js]CR[js]
+;B[ks]CR[ks])
+(;W[ns]CR[ns]
+;B[ks]CR[ks]))
+(;W[os]CR[os]
+;B[ps]CR[ps]
+(;W[js]CR[js]
+;B[or]CR[or]
+(;W[ns]CR[ns]
+;B[ks]CR[ks])
+(;W[ks]CR[ks]
+;B[ns]CR[ns]))
+(;W[ms]CR[ms]
+;B[or]CR[or])
+(;W[ns]CR[ns]
+;B[ms]CR[ms]))
+(;W[ns]CR[ns]
+;B[os]CR[os]
+(;W[js]CR[js]
+;B[ks]CR[ks]
+;W[ms]CR[ms]
+;B[lr]CR[lr]C[seki])
+(;W[ms]CR[ms]C[gote seki]))
+(;W[js]CR[js]
+(;B[ks]CR[ks]
+(;W[os]CR[os]
+;B[ps]CR[ps]
+;W[ms]CR[ms]
+;B[ns]CR[ns]C[RIGHT This ko is best for both. (Navigate solution for details)])
+(;W[ns]CR[ns]
+;B[os]CR[os]
+;W[ms]CR[ms]
+;B[lr]CR[lr]C[seki.])
+(;W[ms]CR[ms]
+;B[ns]CR[ns]
+;W[os]CR[os]
+;B[ms]CR[ms])
+(;W[ps]CR[ps]
+;B[os]CR[os]
+;W[ns]CR[ns]
+;B[or]CR[or]))
+(;B[ns]CR[ns]C[this is a mistake for black.]
+;W[os]CR[os]
+;B[or]CR[or]
+;W[ms]CR[ms]C[ko, white takes first. Black cannot crush at Q1.]
+;B[ps]CR[ps]
+;W[ns]CR[ns]
+;B[nq]CR[nq]
+;W[ns]CR[ns]C[dead])
+(;B[os]CR[os]C[this is a mistake for black.]
+;W[ks]CR[ks]
+(;B[lr]CR[lr]
+;W[ns]CR[ns]C[dead.])
+(;B[ns]CR[ns]
+;W[lr]CR[lr]C[ko, white takes first.]))
+(;B[ps]CR[ps]C[this is a mistake for black.]
+;W[ns]CR[ns]
+(;B[ks]CR[ks]
+;W[ms]CR[ms]
+;B[lr]CR[lr]
+;W[os]CR[os]C[dead])
+(;B[os]CR[os]
+;W[ks]CR[ks]C[dead])))
+(;W[ps]CR[ps]
+;B[os]CR[os]
+;W[ns]CR[ns]
+;B[or]CR[or])
+(;W[qs]CR[qs]
+;B[ps]CR[ps]))

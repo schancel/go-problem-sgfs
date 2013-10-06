@@ -1,0 +1,40 @@
+(;GE[life and death]DI[4k]DP[29]SO[LCZLAPINSKI]CO[5]AB[aq]AB[bq]AB[cr]AB[dq]AB[er]AB[fs]AW[bs]AW[bp]AW[cp]AW[cq]AW[co]AW[ep]AW[fq]AW[fr]AW[hr]AW[do]AW[bn]AW[gr]AP[goproblems]
+(;B[ar];W[br]C[Black should have protected against the cut at B2.];B[cs];W[es];B[ds];W[eq])
+(;B[as];W[br]
+(;B[cs];W[eq]C[WE3 kills the eye potential at D2.])
+(;B[es];W[eq]C[WE3 kills the eye potential at E3.])
+(;B[eq];W[ap])
+(;B[ar];W[ap]))
+(;B[br]
+(;W[as]
+(;B[eq]C[RIGHT])
+(;B[cs];W[eq]C[WE3 kills the eye potential at D2.])
+(;B[ds];W[eq]C[WE3 kills the eye potential at D2.])
+(;B[dr];W[es]C[Black can only get one eye.])
+(;B[es];W[eq]C[WE3 kills the eye potential at D2.]
+(;B[cs];W[dr])
+(;B[dr];W[cs]C[White fills the outside liberties. At the end of the game under Japanese rules, the black stones are dead. In an internet game, your opponent might have you play wA2 to form four in the corner.]))
+(;B[ar];W[eq]C[WE3 kills the eye potential at D2.]))
+(;W[eq];B[as]C[RIGHT];W[ar];B[cs]C[RIGHT]))
+(;B[ds];W[eq]C[WE3 kills the eye potential at D2.])
+(;B[es];W[br]MA[aq]MA[bq]C[Dead. Marked stones are dead.])
+(;B[eq];W[br]C[Black needs to prevent the B2 cut before playing bE3. The marked stones are dead.]MA[aq]MA[bq])
+(;B[dr];W[br]
+(;B[cs];W[ap]MA[aq]MA[bq]C[The marked stones are dead.])
+(;B[ar];W[ap]C[Marked stones are dead killing the rest of the stones.]MA[aq]MA[bq]MA[ar]))
+(;B[fp];W[br];B[cs];W[ap]MA[aq]MA[bq]C[The marked stones are dead.])
+(;B[gr];W[br];B[gq];W[hp];B[gp];W[go];B[hq];W[iq];B[hs];W[ir];B[is];W[js])
+(;B[cs];W[eq]C[WE3 kills the 2nd eye potential at D2.]
+(;B[dr];W[es])
+(;B[es];W[dr])
+(;B[as];W[br]
+(;B[dr];W[es])
+(;B[es];W[dr]C[Black only has one eye.]TR[ar]))
+(;B[br];W[as]
+(;B[dr];W[es])
+(;B[es];W[dr]TR[ar]C[Black only has one eye.]))
+(;B[ds]LB[am:T]C[];W[am]C[White can take sente by playing tenuki.];B[as];W[br]TR[ar]))
+(;B[ap];W[br]
+(;B[cs];W[ao]MA[aq]MA[ap]MA[bq]C[The marked stones are dead.];B[gs];W[hs];B[gr];W[gq])
+(;B[ao];W[an];B[cs];W[bo]MA[ao]MA[ap]MA[aq]MA[bq]C[Marked stones are dead. Black needed to protect against the cut at B2.]))
+(;B[gs];W[br];B[hs];W[is];B[es];W[ir];B[cs];W[ap]MA[aq]MA[bq]C[The marked stones are dead.]))

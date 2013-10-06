@@ -1,0 +1,94 @@
+(;GE[endgame]DI[4d]DP[7]SO[LCZLAPINSKI]CO[4]AW[oa]AW[ob]AW[pa]AW[oc]AW[od]AW[ne]AW[nf]AW[og]AW[pg]AW[qg]AW[rg]AB[rf]AB[qf]AB[pf]AB[pe]AB[pd]AB[pc]AB[pb]AW[qb]AW[rb]AB[qc]AB[rc]AB[rd]AW[of]AW[oe]AW[rh]AP[goproblems]
+(;W[sc];B[qe]
+(;W[se];B[sf]
+(;W[sd];B[sb]
+(;W[sa];B[re]
+(;W[sb];B[qa];W[ra];B[qa]C[Snapback])
+(;W[qa];B[sb]
+(;W[se];B[sd])
+(;W[sd];B[sc])
+(;W[sc];B[sd]C[White can do better.]))
+(;W[sg];B[sb];W[sc];B[sd]C[Sente  if white tenukis after bT16. BT16 is needed to live.]LB[ia:T]
+(;W[sb];B[qa];W[ra];B[qa])
+(;W[ia]C[Sente])))
+(;W[qa];B[re]
+(;W[sc];B[sd]C[white can do better.])
+(;W[sd];B[sc]C[White can do better.]))
+(;W[ra];B[re]
+(;W[sd];B[sc]C[White can do better.])
+(;W[sc];B[sd]C[White can do better.])
+(;W[se];B[sd]C[White can do better.])))
+(;W[sg];B[sd])
+(;W[sb]C[];B[sd]AW[rh]C[Sente. White has better.];W[sg]))
+(;W[sg];B[sf]C[Sente. White has better.])
+(;W[sf];B[se]C[Sente. Black must play to live. White has better.])
+(;W[sd]C[]
+(;B[se]C[Sente if white doesn't connect but leaves a possible 5 point bT18 gote. White has better.])
+(;B[sb];W[sa]))
+(;W[sb]LB[ka:T]C[Sente. This line is considered best by bass.RIGHT];B[sd]C[Sente. Black must respond to wT18 to live. This line is considered best by bass.RIGHT]))
+(;W[sg];B[sf]
+(;W[qe];B[re]
+(;W[se];B[sd])
+(;W[sd];B[sc];W[sb]C[Three points gote. White can do better.])
+(;W[sc];B[sb]
+(;W[sa];B[sd];W[sb];B[qa];W[ra];B[qa])
+(;W[ra];B[sd]C[Sente but white can do better.])))
+(;W[sc];B[sd];W[sb]C[Black gets 4 points and white gets 3 in the corner gote.])
+(;W[sb]LB[ma:T]
+(;B[sc]C[White has better. Could be sente if black plays BT17. White gets 3 points and black gets 5 points.])
+(;B[ma]C[Gote if black tenukis.])))
+(;W[qd];B[qe]
+(;W[re];B[se];W[sb]C[Three points gote.])
+(;W[sb]C[Three points gote])
+(;W[sg];B[sb];W[sf];B[se]
+(;W[sd];B[sc])
+(;W[sc];B[sd]C[0 points sente. White can do better.])))
+(;W[re];B[qe]
+(;W[sf];B[se];W[sg];B[sb]C[Sente. White can do better.])
+(;W[se];B[sf]C[White can do better.]))
+(;W[qa];B[qe]
+(;W[sc];B[sd];W[sb];B[sf]C[White can do better.];W[sg]C[Two points gote. White can do better.])
+(;W[sb]C[Two points gote. White can do better.]))
+(;W[ra];B[qe];W[sb]C[Two points gote. White can do better.])
+(;W[sf];B[se]
+(;W[qe];B[sc]
+(;W[sb]C[Three points gote. White can do better.])
+(;W[re];B[qd]C[Sente but white can do better.])
+(;W[sg]C[Gote]))
+(;W[sc];B[qe]C[White can do better.];W[sb]LB[ma:T];B[ma]C[3 points gote. White can do better. Black can tenuki or possilby play bT13 wT12 bT14 wS12.])
+(;W[sg];B[sc]C[White can do better.]))
+(;W[se];B[sf]
+(;W[qe];B[re]
+(;W[sb]C[Three points gote. White can do better.])
+(;W[sc];B[sd];W[sb]C[Three points gote. White can do better.]))
+(;W[re];B[qe])
+(;W[sd];B[sc])
+(;W[sc];B[sd]C[Gote if wT18.  If white doesn't play wT18, black might get to play bT18 3 points gote later. White has better.])
+(;W[sb]C[Gote]LB[la:T];B[la]C[Gote if black tenukis.]))
+(;W[sd];B[sc]
+(;W[qe];B[re]
+(;W[sg];B[sf]C[White can do better.])
+(;W[sf];B[se]C[White can do better.])
+(;W[se];B[sf]))
+(;W[qd];B[qe]
+(;W[re];B[se])
+(;W[sf];B[se])
+(;W[se];B[sf]))
+(;W[re];B[se]C[White can do better.])
+(;W[sf];B[se]C[White can do better.]))
+(;W[sa];B[se]
+(;W[qe];B[sc]C[White can do better.])
+(;W[sc];B[qe]C[White can do better.])
+(;W[qd];B[qe])
+(;W[re];B[qe])
+(;W[sg];B[sc]C[White can do better.]))
+(;W[qe];B[sc]
+(;W[re];B[se]C[Sente but white can do better.])
+(;W[se];B[sf];W[re]C[Seki]LB[ma:T]
+(;B[ma]C[Seki - see bass's comments.])
+(;B[sb]C[Seki - see bass' comments.]))
+(;W[sf];B[se]C[Sente but White can do better.])
+(;W[sb]C[];B[se]C[Sente; wT15 can get seki in gote. White has a better first move.]))
+(;W[sb]LB[ma:T]
+(;B[sc]C[Sente. Black must respond to live. White gets 3 points in corner. Black gets 5 points. White has a better first move.CHOICE])
+(;B[ma]C[Gote if black tenukis.])))

@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[2d]DP[12]SO[bitti]CO[8]AW[eb]AW[fb]AW[dc]AW[dd]AW[fd]AW[de]AW[ef]AB[ec]AB[fc]AB[ed]AB[ee]C[White to capture 4 stones]PL[W]
+(;W[ge];B[gc];W[hc];B[hb]
+(;W[ic];B[gd]
+(;W[he]C[ Black is deadRIGHT])
+(;W[hd]C[ Black is deadRIGHT])
+(;W[ie]C[Bad shape (even though you may capture black)])
+(;W[gb];B[hd]))
+(;W[gb];B[hd])
+(;W[gd];B[ic];W[hd];B[gb]C[Black escaped])
+(;W[hd];B[gb];W[ib];B[jb]
+(;W[ic];B[ia];W[kc]C[ Ok, but not the easiest way to capture black.RIGHT])
+(;W[ia];B[ic];W[jc];B[id]
+(;W[kb];B[jd]
+(;W[kc];B[he])
+(;W[ja];B[he]))
+(;W[jd];B[ie];W[kb];B[he])))
+(;W[ib];B[hd];W[ic];B[gd]C[Black escaped]))
+(;W[fe];B[gc]
+(;W[hd];B[hc]
+(;W[ic];B[ib]C[Of course it's good for White in a real game, but you missed the chance to capture black cleanly.])
+(;W[id];B[ic]C[Of course it's good for White in a real game, but you missed the chance to capture black cleanly.]))
+(;W[hc];B[gd])
+(;W[id];B[hd];W[he];B[ic]C[Of course it's good for White in a real game, but you missed the chance to capture black cleanly.]))
+(;W[gc];B[fe]
+(;W[gf];B[gd];W[hd];B[ff])
+(;W[ge];B[ff])
+(;W[ff];B[ge])
+(;W[gd];B[ff]))
+(;W[hc];B[fe];W[gf];B[hd])
+(;W[gd];B[fe])
+(;W[hd];B[fe]
+(;W[gf];B[ge]
+(;W[he];B[ff];W[fg];B[gg])
+(;W[hf];B[he];W[ie];B[id]))
+(;W[ff];B[ge];W[hf];B[he];W[ie];B[id])))

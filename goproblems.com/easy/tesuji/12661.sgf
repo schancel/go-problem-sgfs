@@ -1,0 +1,31 @@
+(;GE[tesuji]DI[4k]DP[29]SO[kaf]CO[0]AB[dp]AB[co]AB[eo]AB[bn]AW[dq]AW[ep]AW[fp]AB[cq]C[what is the best play here?]AW[gr]AW[gp]AP[goproblems]
+(;B[dr];W[eq];B[er])
+(;B[eq]
+(;W[dr]C[CHOICE]
+(;B[er];W[cr]
+(;B[br];W[bq]
+(;B[bp];W[cp])
+(;B[cp];W[bs];B[ar];W[aq]
+(;B[ds];W[as]
+(;B[br];W[ar]
+(;B[es]C[RIGHT])
+(;B[bp];W[fr]))
+(;B[es];W[br];B[bp];W[fq];B[ap];W[fr])
+(;B[bp];W[br]))
+(;B[bp];W[as];B[ds];W[br])
+(;B[es];W[as];B[br]C[RIGHT]))
+(;B[ds];W[cp]
+(;B[do];W[bs])
+(;B[cs];W[do]))
+(;B[cs];W[cp]
+(;B[do];W[ar])
+(;B[ds])))
+(;B[bq];W[br]))
+(;B[cr];W[er]))
+(;W[er]C[w would prefer this answer, as dgou9342 has correctly noted.];B[dr];W[fq];B[es];W[dq]
+(;B[fs];W[cr];B[eq]C[big koRIGHT])
+(;B[cr];W[fs];B[ds];W[eq]C[b senteRIGHT])))
+(;B[cr];W[dr])
+(;B[er]
+(;W[eq]C[CHOICE];B[dr];W[fr]C[b can do better])
+(;W[dr];B[eq])))

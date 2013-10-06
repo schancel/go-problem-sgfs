@@ -1,0 +1,26 @@
+(;GE[life and death]DI[2d]DP[14]SO[unkx80]CO[8]SZ[19]AB[pb]AB[pc]AB[pd]AB[qd]AB[rd]AB[pa]AW[ob]AW[oc]AW[od]AW[oe]AW[pe]AW[qe]AW[re]AW[ra]AW[rc]AW[mb]AW[rg]LB[ra:1]LB[pa:2]LB[rc:3]C[White 1 and 3 is a wrong way to attack the carpenter's square. Black can live unconditionally.]FF[4]GM[1]AP[Jago:Version 5.00]GN[goproblem633]
+(;B[sb]
+(;W[sc]
+(;B[rb]
+(;W[qb]
+(;B[qc];W[sa]
+(;B[qa];W[sd];B[rb]C[White cannot connect at A.RIGHT]LB[sb:A])
+(;B[sd];W[oa]))
+(;B[qa];W[sa]
+(;B[qc];W[sd];B[rb]C[White cannot connect at A.RIGHT]LB[sb:A])
+(;B[sd];W[oa]))
+(;B[sd];W[sa]))
+(;W[sd];B[qc];W[se];B[qa]C[RIGHT]))
+(;B[sd];W[rb])
+(;B[qb];W[sd])
+(;B[qc];W[rb])
+(;B[qa];W[rb]))
+(;W[rb];B[sc]C[Seki.RIGHT]))
+(;B[rb];W[sb]
+(;B[qb];W[sd])
+(;B[sd];W[qb]))
+(;B[sc];W[sb])
+(;B[qb];W[sd])
+(;B[qc];W[rb])
+(;B[qa];W[rb])
+(;B[sd];W[rb]))

@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[8k]DP[46]SO[DarkSycthe]CO[0]AW[rr]AW[qq]AW[pp]AW[po]AW[on]AW[nn]AW[no]AW[pm]AW[qm]AW[rm]AB[pn]AB[qn]AB[qo]AB[oo]AB[op]AB[oq]AB[qr]AB[nq]AB[mq]AB[lp]AW[ol]C[Black to save the marked stones.]MA[pn]MA[qn]MA[qo]AP[goproblems]
+(;B[rq];W[rp]
+(;B[qp]C[Good, white can't connect.RIGHT]LB[pq:A])
+(;B[pq];W[qp])
+(;B[sq];W[qp]))
+(;B[qp];W[pq]
+(;B[rq];W[pr]
+(;B[qs];W[rp])
+(;B[or];W[qs]
+(;B[rp];W[sr])
+(;B[sp];W[sr])
+(;B[sr];W[rp]))
+(;B[rp];W[sr];B[qs];W[rs])
+(;B[sp];W[sr];B[qs];W[rs])
+(;B[ps];W[qs])
+(;B[rs];W[qs];B[sr];W[rp];B[qr];W[ro]))
+(;B[pr];W[rq]))
+(;B[pq];W[qp])
+(;B[pr];W[qp])
+(;B[rp];W[rq]
+(;B[pq];W[qp];B[ro];W[sp])
+(;B[qp];W[pq];B[pr];W[rn])))

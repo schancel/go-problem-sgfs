@@ -1,0 +1,9 @@
+(;GE[endgame]DI[15k]DP[60]SO[rillig]CO[5]AW[qa]AW[pa]AW[oa]AW[pb]AW[pc]AW[rb]AB[rc]AB[qc]AW[qd]AW[rd]AW[pe]AW[qf]AW[qg]AW[qh]AB[pd]AB[od]AB[oc]AB[ob]AB[nb]AB[na]AB[ma]AB[la]AB[oe]AW[of]AW[og]AB[ne]C[Black to gain something in the corner.CHOICE]AP[goproblems]
+(;B[sb]C[Correct. Now White can choose between a seki (S), an unfavorable ko (K), or leave the decision to Black (B).RIGHT]LB[ra:S]LB[sa:K]LB[sd:B])
+(;B[sc];W[sb]C[Now the black stones are lost.])
+(;B[sd];W[sb];B[re];W[qe]C[Now Black is unable to approach the corner. The black stones are lost.])
+(;B[ra];W[sa]
+(;B[sc];W[sd]C[Now Black has no chance of capturing anything.])
+(;B[sd];W[se]
+(;B[sb];W[sc])
+(;B[re];W[sc];B[sf];W[qe];B[sd];W[qb]))))

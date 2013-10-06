@@ -1,0 +1,82 @@
+(;GE[life and death]DI[2d]DP[12]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[pj][qk][ll][ml][pl][km][pm][kn][nn][pn][qn][ko][lo][ro][lp][pp][qp][lq][mq][pq][lr][qr][rr][ms]AB[ng][pg][qg][rg][qi][kj][mj][rj][nk][rk][nl][ql][rl][mm][qm][sm][ln][mn][on][rn][mo][oo][mp][np][nq][qq][rq][mr][nr][or][pr]C[adum needs a good move to attack fabrosen's corner. i'm going to be quite particular about getting the best result, so choose wisely.]
+(;B[rs]CR[rs]
+;W[qs]CR[qs]
+(;B[sr]CR[sr]C[RIGHT
+ko is good for black here. black effectively takes first as after white T1, black T3])
+(;B[po]CR[po]
+;W[qo]CR[qo]C[you just used up a possible ko threat for no reason])
+(;B[sq]CR[sq]
+;W[sp]CR[sp]
+(;B[ps]CR[ps]
+;W[ss]CR[ss])
+(;B[sr]CR[sr]C[almost right, but this ko is not optimal]))
+(;B[sp]CR[sp]
+;W[rp]CR[rp])
+(;B[ps]CR[ps]
+;W[ss]CR[ss]
+(;B[sq]CR[sq]
+;W[sp]CR[sp])
+(;B[sp]CR[sp]
+;W[rp]CR[rp]))
+(;B[ss]CR[ss]
+;W[sq]CR[sq])
+(;B[so]CR[so]
+;W[sq]CR[sq]))
+(;B[po]CR[po]
+;W[qo]CR[qo]C[you just used up a ko threat you may want later])
+(;B[sq]CR[sq]
+;W[sp]CR[sp]
+(;B[rs]CR[rs]
+;W[qs]CR[qs]
+(;B[sr]CR[sr]C[close, but not the best ko])
+(;B[ps]CR[ps]
+;W[ss]CR[ss]))
+(;B[sr]CR[sr]
+;W[rp]CR[rp])
+(;B[qs]CR[qs]
+;W[rs]CR[rs]
+;B[sr]CR[sr]
+;W[ps]CR[ps])
+(;B[rp]CR[rp]
+;W[sr]CR[sr])
+(;B[po]CR[po]
+;W[qo]CR[qo]
+;B[rs]CR[rs]
+;W[qs]CR[qs]
+;B[sr]CR[sr]C[not the best ko]))
+(;B[sp]CR[sp]
+;W[rp]CR[rp])
+(;B[so]CR[so]
+;W[sq]CR[sq])
+(;B[sr]CR[sr]
+;W[rp]CR[rp]
+(;B[rs]CR[rs]
+;W[sq]CR[sq])
+(;B[qs]CR[qs]
+;W[sq]CR[sq]))
+(;B[qs]CR[qs]
+;W[rs]CR[rs]
+(;B[sr]CR[sr]
+;W[ps]CR[ps]
+;B[sq]CR[sq]
+;W[sp]CR[sp])
+(;B[sq]CR[sq]
+;W[sp]CR[sp])
+(;B[ps]CR[ps]
+;W[sq]CR[sq]))
+(;B[ok]CR[ok]
+;W[sq]CR[sq]C[white can give up that end bit])
+(;B[qo]CR[qo]
+;W[po]CR[po])
+(;B[nm]CR[nm]
+;W[sq]CR[sq])
+(;B[qj]CR[qj]
+;W[sq]CR[sq])
+(;B[ps]CR[ps]
+;W[sq]CR[sq])
+(;B[rp]CR[rp]
+;W[sp]CR[sp])
+(;B[ns]CR[ns]
+;W[sq]CR[sq]))

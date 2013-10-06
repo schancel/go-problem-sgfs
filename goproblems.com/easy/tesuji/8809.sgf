@@ -1,0 +1,22 @@
+(;GE[tesuji]DI[15k]DP[63]SO[msoftceo]CO[5]AB[qf]AB[rg]AB[rh]AW[qh]AW[qi]AW[ri]AB[rj]AB[qj]AW[pj]AW[pk]AW[ok]AW[ol]AW[nl]AB[nk]AB[qk]AB[ql]AB[pl]AB[qm]AB[om]AB[nm]AB[ml]AB[mm]AW[mk]AW[lk]AW[lj]AW[ni]AP[goproblems]
+(;B[pi]
+(;W[nj];B[ph];W[pg];B[qg];W[oh];B[si]C[RIGHT])
+(;W[ph];B[oj]C[RIGHT]))
+(;B[nj];W[oj]
+(;B[pi];W[oi];B[ph];W[pg]C[Could be correct if the ladder works for black?])
+(;B[oi];W[pi]C[White got to connect]))
+(;B[oj];W[nj];B[pi];W[oi];B[ph];W[pg]C[There's a better way to get the same ladder])
+(;B[oi];W[oh]
+(;B[oj];W[nj]
+(;B[pi];W[ph])
+(;B[ph];W[pi]))
+(;B[pi];W[nj]
+(;B[oj];W[ph])
+(;B[ph];W[pg]
+(;B[qg];W[oj])
+(;B[og];W[oj]))))
+(;B[si]
+(;W[ph];B[oj];W[pi])
+(;W[oi]
+(;B[qg];W[ph])
+(;B[ph];W[pg];B[qg];W[pi];B[oh];W[og]C[Could be correct if the ladder works for black?]))))

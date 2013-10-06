@@ -1,0 +1,57 @@
+(;GE[life and death]DI[5k]DP[34]SO[TheBigH]CO[0]AW[ab]AW[bb]AW[cc]AW[dc]AW[eb]AW[ea]C[Can black kill? If so, do it. If not, tenuki at T.]AB[ac]AB[bc]AB[bd]AB[ce]AB[dd]AB[ed]AB[ec]AB[fc]AB[fb]AB[hb]LB[fg:T]AP[goproblems]
+(;B[db];W[cb]
+(;B[ca];W[ba]
+(;B[fa];W[da]C[Failure. White lives.])
+(;B[cd];W[da]C[Failure. White lives.]))
+(;B[da];W[ca]C[Failure. White is alive.])
+(;B[ba];W[ca]
+(;B[cd];W[da]C[Failure. White lives.])
+(;B[fa];W[da]C[Failure. White lives.]))
+(;B[fa];W[da];B[ca];W[ba]C[Failure. White is alive.]))
+(;B[cb];W[ca]
+(;B[ba];W[db]C[Failure. White lives.])
+(;B[aa];W[db]C[Failure. White lives.])
+(;B[cd];W[db]C[Failure. White lives.])
+(;B[db];W[da]C[Failure. White is alive.])
+(;B[da];W[db]C[Failure. White lives.])
+(;B[fa];W[db]C[Failure. White is alive.]))
+(;B[ca];W[cb]
+(;B[ba];W[da]
+(;B[fa];W[aa]C[Failure. White is alive.])
+(;B[cd];W[aa]C[Failure. White lives.]))
+(;B[aa];W[ba]
+(;B[db];W[da]C[Failure. White lives.])
+(;B[da];W[db]C[Failure. White clearly has two eyes.])
+(;B[fa];W[da]C[Failure. White lives.])
+(;B[cd];W[da]C[Failure. White lives.]))
+(;B[da];W[ba];B[fa];W[db]C[Failure. White lives.])
+(;B[db];W[da];B[fa];W[ba]C[Failure. White lives.])
+(;B[fa];W[ba]
+(;B[cd];W[da]C[White's alive.])
+(;B[da];W[db]C[White lives.])
+(;B[db];W[da]C[White survives.])))
+(;B[da];W[ca]
+(;B[fa];W[db]C[White lives.])
+(;B[db];W[cb]C[White lives.])
+(;B[cb];W[db]C[White lives.])
+(;B[cd];W[db]C[White lives.]))
+(;B[ba];W[ca]
+(;B[cb];W[db]C[White lives.])
+(;B[da];W[db]C[White lives.])
+(;B[db];W[cb]
+(;B[cd];W[da]C[White lives.])
+(;B[fa];W[da]C[White lives.]))
+(;B[fa];W[db]C[White lives.])
+(;B[cd];W[db]C[White is alive.]))
+(;B[aa];W[ca]
+(;B[cb];W[db]C[No.])
+(;B[da];W[db]C[No.])
+(;B[db];W[da]
+(;B[cd];W[cb]C[No.])
+(;B[fa];W[cb]C[Nope.]))
+(;B[cd]C[No.])
+(;B[fa];W[db]C[No.]))
+(;B[cd];W[ca]C[White is alive.])
+(;B[fa];W[ca]C[White is alive.])
+(;B[fg]C[Correct! There is indeed no way to kill white. Well done on reading it out, instead of just optimistically stabbing at what looks like a vital point.RIGHT])
+(;B[ad]C[You found my super duper secret, super duper failure comment.]))

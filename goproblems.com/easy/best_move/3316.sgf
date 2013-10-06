@@ -1,0 +1,22 @@
+(;GE[best move]DI[12k]DP[59]SO[adum]CO[8]AB[cd]AB[dd]AB[df]AW[cc]AW[ed]AW[fe]AB[gc]LB[dd:1]C[how to handle black 1 (which is, in itself, a joseki mistake)?]AP[goproblems]
+(;W[dc];B[ec]C[and if black cuts?]
+(;W[fc];B[eb]
+(;W[fb]C[black is capturedRIGHT])
+(;W[db];B[fb])
+(;W[gb];B[fb])
+(;W[gd];B[fb]))
+(;W[eb];B[fc]C[wrong direction])
+(;W[de];B[ce])
+(;W[gd];B[fc])
+(;W[fb];B[fc])
+(;W[bd];B[fc];W[de];B[ce];W[cf];B[ee])
+(;W[bc];B[fc])
+(;W[ef];B[eb])
+(;W[ce];B[fd];W[ee];B[de]))
+(;W[ec];B[dc]C[good for black])
+(;W[fc];B[dc]C[good for black])
+(;W[de];B[ce]C[good for black])
+(;W[bd];B[dc]C[good for black])
+(;W[cb];B[dc]C[good for black])
+(;W[eb];B[dc]C[good for black])
+(;W[hd];B[dc]C[good for black]))

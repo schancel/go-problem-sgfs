@@ -1,0 +1,27 @@
+(;GE[life and death]DI[3d]DP[9]SO[Hans]CO[8]AW[cm]AW[bn]AW[cn]AW[bo]AW[ap]AW[cp]AW[cq]AW[dq]AW[eq]AW[fq]AW[gq]AW[cr]AB[bj]AB[ck]AB[bl]AB[dl]AB[dm]AB[dn]AB[co]AB[do]AB[fo]AB[bp]AB[gp]AB[ip]AB[bq]AB[hq]AB[br]AB[er]AB[fr]AB[gr]C[Black to play.]
+(;B[ar];W[bs]
+(;B[an]C[RIGHT])
+(;B[aq];W[as]
+(;B[bq];W[an])
+(;B[an];W[bq]))
+(;B[am]
+(;W[cs]
+(;B[aq];W[an]C[White lives.])
+(;B[an];W[ao]
+(;B[aq]C[RIGHT])
+(;B[cl];W[as])
+(;B[bm];W[as])))
+(;W[ao];B[aq]C[RIGHT]))
+(;B[bm];W[cs]
+(;B[aq];W[an]C[White lives])
+(;B[an];W[as];B[am];W[ao]C[White lives.])))
+(;B[cs];W[bs]
+(;B[ds];W[ar]C[ko])
+(;B[as];W[ds];B[dr];W[bs]))
+(;B[an];W[ar]C[White lives.])
+(;B[dr];W[bs];B[ar];W[an]C[White lives.])
+(;B[bm];W[ar]C[White lives.])
+(;B[ao];W[ar]
+(;B[aq];W[bs]C[Ko])
+(;B[bs];W[cs];B[aq];W[an]C[Ko])
+(;B[cs];W[ds];B[bs];W[dr];B[aq];W[an]C[Ko])))

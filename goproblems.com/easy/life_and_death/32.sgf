@@ -1,0 +1,145 @@
+(;GE[life and death]DI[5k]DP[32]SO[adum]CO[6]AW[re][of][pf][qf][rg][qh][qi][oj][pj][nk][ok][pk][pl][ql][qm][qn][oo][po][pp][oq][pq]AB[pd][rd][ne][oe][qe][mf][mg][pg][qg][mh][ph][mi][oi][pi][mj][nj][qj][mk][qk][nl][ol][rl][mm][om][rm][mn][on][mo][no][mp][op][lq][nq]C[black to live on the right side
+]PL[B]
+(;B[ri]
+;W[rh]
+(;B[rj]
+;W[sk]
+(;B[rn]
+;W[ro])
+(;B[ro]
+;W[rn]
+;B[sn]))
+(;B[rk]
+;W[si]
+(;B[ro]
+;W[rn]
+;B[sj]
+;W[sh])
+(;B[sj]
+;W[sh]
+;B[rn]
+;W[ro]
+;B[sn]
+;W[sl])))
+(;B[rj]C[
+]
+(;W[ri]CR[ri]
+(;B[sk]CR[sk]C[RIGHT])
+(;B[rn]CR[rn]
+;W[sj]CR[sj])
+(;B[si]CR[si]
+;W[rh]CR[rh]
+(;B[sk]CR[sk]C[RIGHT])
+(;B[sj]CR[sj]
+;W[sk]CR[sk]C[white wins])
+(;B[rn]CR[rn]
+;W[sk]CR[sk]))
+(;B[sj]CR[sj]
+;W[sk]CR[sk]
+(;B[si]CR[si]
+;W[rh]CR[rh]C[white wins])
+(;B[rh]CR[rh]
+;W[sh]CR[sh]
+;B[si]CR[si]
+;W[rk]CR[rk]))
+(;B[rh]CR[rh]
+;W[sh]CR[sh]
+(;B[sj]CR[sj]
+;W[sk]CR[sk])
+(;B[sk]CR[sk]
+;W[sj]CR[sj]C[Only ko.])))
+(;W[sk]CR[sk]
+;B[rh]CR[rh]))
+(;B[rn]
+;W[rj]
+(;B[rk]
+;W[ri]
+;B[rp]
+;W[rq]
+;B[qo]
+;W[qp]
+;B[ro]
+;W[pn]
+(;B[sk]
+;W[sp]
+;B[so]
+;W[sm]
+;B[si]C[white wins
+])
+(;B[sp]
+;W[sk]
+;B[sl]
+;W[sn]))
+(;B[rp]
+(;W[rk])
+(;W[rq]
+;B[qo]
+;W[qp]
+;B[ro]
+;W[pn]
+;B[rk]
+;W[ri]
+;B[sk]
+;W[sp]
+;B[so]
+;W[sm]))
+(;B[ro]CR[ro]
+;W[rk]LB[rp:A]CR[rk]C[Even if black lives in the corner, this is much worse than the correct solution. Also, white could have played 'A', and probably wins the semeai.]))
+(;B[ro]
+;W[rn]
+;B[rj]
+;W[rh]
+(;B[sn]
+;W[sk])
+(;B[sk]
+;W[sm]))
+(;B[rh]CR[rh]
+;W[ri]CR[ri]
+;B[rj]CR[rj]
+;W[sh]CR[sh]
+(;B[sk]CR[sk]
+;W[sj]CR[sj]C[White can get a ko. It's a hard ko for white to win, but it's better than nothing.])
+(;B[sj]CR[sj]
+;W[sk]CR[sk]C[White wins.])
+(;B[rn]CR[rn]
+;W[sj]CR[sj]))
+(;B[se]CR[se]
+;W[rj]CR[rj]
+;B[rk]CR[rk]
+;W[ri]CR[ri]C[Black may get some stones this way, but his own die.])
+(;B[sk]CR[sk]
+;W[rj]CR[rj]
+;B[rk]CR[rk]
+;W[ri]CR[ri]
+(;B[si]CR[si]
+;W[rh]CR[rh]
+;B[sj]CR[sj]
+;W[rn]CR[rn]C[White easily wins the semai.])
+(;B[rn]CR[rn]
+;W[ro]CR[ro]
+(;B[si]CR[si]
+;W[rh]CR[rh]
+;B[sj]CR[sj]
+;W[sn]CR[sn]C[White easily wins the semeai.])
+(;B[sn]CR[sn]
+;W[sj]CR[sj]C[White easily wins the semeai])
+(;B[sj]CR[sj]
+;W[si]CR[si]C[White easily wins the semeai.]))
+(;B[sj]CR[sj]
+;W[si]CR[si]C[White easily wins the semeai.]))
+(;B[si]CR[si]
+;W[rj]CR[rj]
+;B[rk]CR[rk]
+;W[ri]CR[ri]
+;B[sj]CR[sj]
+;W[rh]CR[rh]
+;B[rn]CR[rn]
+;W[ro]CR[ro]C[White will win this semeai.])
+(;B[sj]CR[sj]
+;W[rj]CR[rj]
+;B[rk]CR[rk]
+;W[ri]CR[ri]
+;B[si]CR[si]
+;W[rh]CR[rh]
+;B[rn]CR[rn]
+;W[ro]CR[ro]C[White will win this semeai.]))

@@ -1,0 +1,10 @@
+(;GE[life and death]DI[1d]DP[17]SO[adum]CO[4]SZ[19]AW[ra]AW[ob]AW[sb]AW[nc]AW[pc]AW[ne]AW[pe]AW[re]AW[pf]AW[rf]AB[pa]AB[pb]AB[qc]AB[sc]AB[qd]AB[rd]AB[se]LB[nh:5]LB[oh:4]LB[ph:3]LB[qh:2]LB[rh:1]LB[sh:0]C[how many ways to kill without ko? click on the number]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[White]PB[Black]PL[W];W[ph]LB[oa:C]LB[qb:B]LB[rb:A]C[the ways to kill are A, B, and CRIGHT];B[qh]
+(;W[rb]C[RIGHT])
+(;W[qb];B[rb];W[rc])
+(;W[oa]C[RIGHT]
+(;B[qb]C[RIGHT];W[rb]C[RIGHT])
+(;B[rb]C[RIGHT];W[qb]C[RIGHT];B[qa]C[RIGHT];W[qb]C[RIGHT]))
+(;W[qa];B[rb])
+(;W[rc];B[rb])
+(;W[sf];B[rb])
+(;W[sa];B[rb]))

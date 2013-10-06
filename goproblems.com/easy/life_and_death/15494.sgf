@@ -1,0 +1,50 @@
+(;GE[life and death]DI[15k]DP[60]SO[ÅõÅú]CO[0]AB[ir]AB[jr]AB[jq]AW[hr]AW[is]AW[js]AW[kr]AW[iq]MA[jq]MA[jr]MA[ir]AB[rj]AB[ri]AW[si]AW[sj]AB[jb]AW[ja]AB[bk]AW[ak]LB[jj:T]AB[kb]AW[ka]AB[bj]AW[aj]C[Can you capture Black? Play at T for Tenuki on Tengen, the Kay-Ten point if you think not.]AP[goproblems]
+(;W[jp];B[pl]AB[kp]AB[lp]AB[lo]AB[mo]AB[mn]AB[nn]AB[nm]AB[om]AB[ol]AB[kq]AW[ko]AW[lq]AW[mp]AW[ln]AW[mm]AW[no]AW[ok]AW[pm]AW[on]AW[nl]C[Did you blink?]
+(;W[kp])
+(;W[ql];B[pk]
+(;W[pj];B[qk]
+(;W[rk];B[qj]
+(;W[rh];B[qi]
+(;W[pi];B[qh]
+(;W[qg];B[md]AB[pg]AB[og]AB[of]AW[oh]AW[ng]AW[mf]AW[le]AB[ne]AB[ph]AW[nd]AB[nf]AW[pf]AB[me]AW[oe]C[There were some complaints about stones suddenly appearing in this problem, let's make that same thing benefit us now...]
+(;W[mc];B[ld]
+(;W[kd];B[lc]
+(;W[lb];B[kc]
+(;W[ib];B[jc]
+(;W[jd];B[ic]
+(;W[hc];B[dh]AW[ie]AB[id]AW[gd]AB[eh]AW[hf]AB[eg]AW[fe]AB[fg]AW[gg]AB[ff]AW[ef]AB[gf]AW[fh]AB[ge]AW[dg]AB[he]AW[ei]AB[hd]C[9 less chances for a misclick later...]
+(;W[ch];B[di]
+(;W[dj];B[ci]
+(;W[bi];B[cj]
+(;W[bl];B[ck]
+(;W[dk];B[cl]
+(;W[cm]C[You got it! Nuff time wasted.RIGHT])
+(;W[dl];B[cm]C[You did that on purpose?]))
+(;W[cl];B[dk]
+(;W[dl];B[ej])
+(;W[ek];B[ej])))
+(;W[ck];B[bl]))
+(;W[cj];B[bi]))
+(;W[ci];B[dj]))
+(;W[di];B[ch]))
+(;W[id];B[hc]))
+(;W[ic];B[jd]
+(;W[id];B[ke])
+(;W[je];B[ke])))
+(;W[jc];B[ib]))
+(;W[kc];B[lb]))
+(;W[lc];B[kd]))
+(;W[ld];B[mc]))
+(;W[ph];B[qg]))
+(;W[qh];B[pi]
+(;W[oi];B[oj])
+(;W[ph];B[oj])))
+(;W[qi];B[rh]))
+(;W[qj];B[rk]))
+(;W[qk];B[pj])
+(;W[qj];B[pj]))
+(;W[pk];B[ql]C[Whoopsie.])
+(;W[qk];B[np]))
+(;W[jj]C[CHOICE];B[jp]C[Black clears the tilted square of death...])
+(;W[kp];B[jp]C[Black walks out of it.])
+(;W[kq];B[jp]C[Squirt and Black floods the board.]))

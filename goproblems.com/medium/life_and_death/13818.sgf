@@ -1,0 +1,20 @@
+(;GE[life and death]DI[3k]DP[26]SO[lok]CO[0]SZ[19]AB[bq]AB[cq]AB[dr]AB[er]AW[fr]AW[fq]AW[eq]AW[dq]AW[cp]AW[co]AW[cn]AW[hr]C[What white can get here?]GM[1]FF[4]AP[Drago:4.01]CA[UTF-8]
+(;W[cs]
+(;B[bs]C[CHOICE];W[br]
+(;B[cr]C[CHOICE];W[as];B[bp]
+(;W[bo];B[ar];W[aq];B[ap]
+(;W[ao];B[ar]C[Two steps ko. Well done!RIGHT])
+(;W[es];B[ar]C[Two steps ko. Well done!RIGHT])
+(;W[ds];B[es]C[2 steps ko, but black got two internal threats in bonus]))
+(;W[aq];B[ap];W[bo];B[ar]C[3 steps ko])))
+(;B[bp];W[cr];B[bs];W[br];B[ar]C[RIGHT]))
+(;W[br];B[ar];W[bs];B[cs]TR[bp]TR[es]C[Miai for life])
+(;W[bs];B[cs]
+(;W[br];B[ar]TR[es]TR[bp]C[Miai for life])
+(;W[es];B[br]))
+(;W[es];B[cs]
+(;W[bp];B[br])
+(;W[br];B[ar];W[bp];B[bs]))
+(;W[bp];B[br]
+(;W[cs];B[bs];W[es];B[cr])
+(;W[aq];B[ar];W[cs];B[bs];W[es];B[cr])))

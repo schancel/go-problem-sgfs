@@ -1,0 +1,37 @@
+(;GE[life and death]DI[4k]DP[30]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[oa][mb][nb][ob][pb][rb][kc][lc][oc][qc][qd][ke][pe][qe][kf][pf][kg][mg][pg][nh]
+AB[ma][qa][lb][qb][sb][mc][nc][pc][rc][nd][od][pd][rd][me][re][qf][qg][qh]
+C[black to save his stones in the middle
+]
+(;B[kb];W[jb]
+(;B[la];W[ja]
+(;B[ra];W[ka];B[pa];W[na];B[lb]C[RIGHT
+])
+
+(;B[na];W[ka])
+)
+
+(;B[ra];W[ka];B[pa];W[la])
+
+(;B[ja];W[la];B[ka];W[ia])
+
+(;B[ka];W[ja])
+)
+
+(;B[ka];W[kb]C[bad ko for black
+])
+
+(;B[jb];W[kb];B[ka];W[la]C[bad ko for black
+])
+
+(;B[ra];W[kb])
+
+(;B[la];W[kb])
+
+)

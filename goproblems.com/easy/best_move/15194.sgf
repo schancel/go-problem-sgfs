@@ -1,0 +1,16 @@
+(;GE[best move]DI[6k]DP[39]SO[DarkSycthe]CO[0]AB[ir]AB[hq]AB[ip]AB[lq]AB[jq]AW[jp]AW[kq]AW[jr]LB[jr:1]C[How to respond to White 1?]AW[kn]AB[oq]AB[np]AW[ln]AP[goproblems]
+(;B[kp]
+(;W[iq]C[White thinks it is a ko. Play K if you want a ko threat.]LB[nq:K]
+(;B[jo]
+(;W[jq]
+(;B[js]C[RIGHT])
+(;B[kr]C[RIGHT])))
+(;B[nq]C[Wasted a ko threat])
+(;B[kr];W[jo];B[jq]C[Missed an opportunity to get the K4 stone]))
+(;W[kr];B[jo];W[lr];B[mq]C[Can't be a good result for w])
+(;W[jo]C[This minimizes losses]))
+(;B[iq]C[This is exactly what White wants. White can now choose A or B and if Black cuts White gets to atari and subsequently capture the M3 stone.]LB[kr:A]LB[kp:B])
+(;B[kr];W[kp]C[Acceptable result, but you could have captured the L3 stone.])
+(;B[jo];W[kp])
+(;B[lr]C[Might as well play L2])
+(;B[lp];W[kp]))

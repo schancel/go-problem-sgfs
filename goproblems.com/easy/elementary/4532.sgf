@@ -1,0 +1,14 @@
+(;GE[elementary]DI[20k]DP[73]SO[adum]CO[7]AB[af]AB[bf]AB[cf]AW[cg]AW[bg]AB[bh]AB[ch]AW[dh]AW[ci]AW[cj]AB[cd]AB[di]AB[dj]AB[dk]AW[ck]AW[cl]AW[bl]AB[cm]AB[dl]AB[dn]AB[bn]AW[bm]AB[eg]AB[fh]AB[fj]AB[ee]MA[ch]MA[bh]C[white can catch the black stones]AP[goproblems]
+(;W[ah];B[bi]
+(;W[bj]C[RIGHT])
+(;W[ai]C[RIGHT])
+(;W[dg];B[ag])
+(;W[ag];B[dg])
+(;W[aj];B[ag]))
+(;W[bi];B[ah]
+(;W[ag];B[dg])
+(;W[dg];B[ag])
+(;W[ai];B[ag]))
+(;W[ag];B[dg])
+(;W[dg];B[ag])
+(;W[ai];B[dg]))

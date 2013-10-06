@@ -1,0 +1,35 @@
+(;GE[tesuji]DI[10k]DP[54]SO[ldan]CO[6]AB[pb]AB[ob]AB[oc]AB[od]AB[mb]AB[lc]AB[kc]AB[ne]AB[nf]AB[pe]AB[re]AB[pg]AB[qg]AB[qh]AB[rh]AW[qb]AW[rb]AW[pc]AW[pd]AW[qd]AW[rd]AW[nd]AW[md]AW[me]AW[mf]AW[mg]AW[ng]AW[og]AW[ph]AW[pi]AW[qi]AW[ri]AW[kd]C[Cut black and capture some stones]AP[goproblems]
+(;W[pf]
+(;B[oe]C[CHOICE]
+(;W[qf];B[qe]
+(;W[rg]C[RIGHT])
+(;W[sh]C[RIGHT])
+(;W[rf]C[RIGHT];B[sf]
+(;W[sg];B[of];W[se]C[RIGHT])
+(;W[rg]C[RIGHT])
+(;W[of];B[rg];W[sh]C[RIGHT]))
+(;W[se];B[rf])
+(;W[sf];B[rf])
+(;W[sg];B[rf]
+(;W[of];B[rg])
+(;W[rg];B[of]))
+(;W[of];B[rf]))
+(;W[qe]C[RIGHT])
+(;W[of];B[qe];W[qf];B[rf]))
+(;B[qe]C[CHOICE]
+(;W[oe]C[RIGHT])
+(;W[of];B[oe])
+(;W[qf];B[rf]
+(;W[oe];B[of])
+(;W[of];B[oe]))))
+(;W[of];B[oe]
+(;W[pf];B[qe])
+(;W[qe];B[pf];W[qf];B[rf]))
+(;W[oe];B[of])
+(;W[qe];B[pf]
+(;W[qf];B[rf])
+(;W[rf]C[You can do better than this])
+(;W[se];B[rf]))
+(;W[qf]
+(;B[qe];W[of];B[oe];W[pf];B[rf])
+(;B[pf];W[qe];B[rf])))

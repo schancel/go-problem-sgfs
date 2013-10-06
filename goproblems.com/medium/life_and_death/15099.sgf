@@ -1,0 +1,88 @@
+(;GE[life and death]DI[2k]DP[21]SO[Sestir]CO[0]AB[pa]AB[pb]AB[oa]AB[nb]AB[mb]AB[ma]AB[mc]AB[lb]AB[kb]AB[jb]AB[ja]AB[ib]AW[ha]AW[hb]AW[hc]AW[ic]AW[jc]AW[kc]AW[lc]AW[md]AW[nc]AW[oc]AW[ob]AW[pc]AW[od]AW[oe]AW[pe]AW[ne]AB[pd]AB[qd]AB[qc]AB[rc]AB[qe]AB[of]AB[pf]AB[pg]AB[qg]AB[rg]AB[rf]AB[sf]AW[sg]AW[sh]AW[rh]AW[qh]AW[ph]AW[oh]AW[og]AW[nf]AW[qb]AW[rb]LB[nf:1]LB[jf:T]C[White just played 1. Defend only if you need to. Play tenuki at 'T' if you can!  (Avoid ko!)]AP[goproblems]
+(;B[jf]
+(;W[sc]
+(;B[qa]
+(;W[sd]
+(;B[ra]
+(;W[sb]
+(;B[rd];W[se];B[na]C[Great! You keep all your points.RIGHT])
+(;B[se];W[rd];B[na]C[Great! You keep all your points.RIGHT])
+(;B[re];W[ia];B[na];W[ka]C[seki])
+(;B[na];W[re]LB[rd:A]LB[se:B]C[Black can play neither A nor B and dies.]))
+(;W[re];B[sb]))
+(;B[rd];W[se]
+(;B[ra];W[sb])
+(;B[sb];W[sa];B[na]C[Great! You keep all your points.RIGHT]))
+(;B[se];W[rd]
+(;B[ra];W[sb])
+(;B[sb];W[sa];B[na]C[Great! You keep all your points.RIGHT]))
+(;B[sb];W[sa]
+(;B[rd];W[se];B[na]C[RIGHT])
+(;B[se];W[rd])
+(;B[re];W[ia];B[na];W[la]C[Seki.])
+(;B[na];W[re];B[ra];W[sb]LB[rd:A]LB[se:B]C[Black can play neither A nor B, and is dead.]))
+(;B[re];W[ra]
+(;B[na];W[sb])
+(;B[sb];W[na]))
+(;B[sa];W[sb];B[na];W[re]))
+(;W[ra];B[na]
+(;W[sb];B[sd]C[White gave away an extra point this way.CHOICERIGHT])
+(;W[sd];B[sb]
+(;W[sa];B[sb]C[RIGHT])
+(;W[re];B[sa];W[rb];B[ra]C[RIGHT])))
+(;W[re];B[sd]C[RIGHT]))
+(;B[sa];W[sd]
+(;B[rd];W[se];B[sb];W[ra];B[sb];W[sa];B[na]C[Black wins again.RIGHT])
+(;B[se];W[rd];B[sb];W[ra];B[sb];W[sa];B[na]C[Black wins again.RIGHT])
+(;B[re];W[sb])
+(;B[sb];W[re]
+(;B[na];W[ra];B[sb];W[sa];B[qa];W[sb]LB[rd:A]LB[se:B]C[Black can play neither A nor B and is dead.])
+(;B[qa];W[ra]
+(;B[na];W[sb])
+(;B[sb];W[na])))
+(;B[qa];W[sb];B[na];W[ra]))
+(;B[ra];W[sa]
+(;B[qa];W[na])
+(;B[na];W[qa];B[sd];W[ia]C[This ko could have been avoided.])
+(;B[sd];W[qa];B[na];W[ia])
+(;B[sb]C[This is two-step ko, so quite good, but black can avoid ko completely.]))
+(;B[sd];W[qa];B[na];W[sa]C[This is a two-step ko, so quite good, but still unnecessary.])
+(;B[sb];W[sa]
+(;B[qa];W[sd])
+(;B[sd];W[qa]))
+(;B[na]
+(;W[qa]
+(;B[sa]C[Great! You keep all your points.RIGHT])
+(;B[sd];W[sa]))
+(;W[sd]
+(;B[rd];W[se]
+(;B[sb];W[sa];B[qa]C[RIGHT])
+(;B[qa];W[sb];B[ra]C[CHOICERIGHT])
+(;B[sa];W[sb]
+(;B[qa];W[ra])
+(;B[ra];W[qa]))
+(;B[ra];W[sb];B[qa]C[RIGHT]))
+(;B[se];W[rd]
+(;B[sb];W[sa];B[qa]C[RIGHT])
+(;B[qa];W[sb];B[ra]C[RIGHT])
+(;B[ra];W[sb];B[qa]C[RIGHT])
+(;B[sa];W[sb]
+(;B[qa];W[ra])
+(;B[ra];W[qa])))
+(;B[sb];W[re]
+(;B[qa];W[sa];B[ra];W[sb]C[Black dies.])
+(;B[ra];W[sa]C[This ko could have been avoided.]))
+(;B[qa];W[re];B[ra];W[sb])
+(;B[ra];W[re];B[sb];W[sa]C[This ko could have been avoided.]))))
+(;W[qa];B[na]
+(;W[ia];B[sb])
+(;W[sa];B[sc])
+(;W[sc])))
+(;B[sb];W[jf]C[This is the right move for defending, but will not be needed until white has played J19.])
+(;B[qa];W[jf]C[T18 is better, since with this move, you will have to add another stone when white plays J19.])
+(;B[ra];W[jf]C[You do not have to defend until white plays J19.])
+(;B[sa];W[jf]C[You need not defend until white plays J19.])
+(;B[sc];W[jf]C[T18 would be a better way to defend, since with this move, you will have to add one more stone after white J19.])
+(;B[sd];W[jf]C[You do not have to defend until white plays J19, and T18 would suffice then.])
+(;B[se];W[jf]C[You do not have to defend until white plays J19, and T18 would suffice then.])
+(;B[na];W[jf]C[You do not have to defend until white plays J19.]))

@@ -1,0 +1,48 @@
+(;GE[life and death]DI[1k]DP[19]SO[dserdt]CO[4]AW[pb]AW[pc]AW[pd]AW[rd]AW[pe]AW[qe]AB[nb]AB[ob]AB[nd]AB[od]AB[qd]AB[oe]AB[re]AB[pf]AW[``]AB[rf]AB[rg]AB[pg]PW[White]PB[Black]
+(;B[rc]AB[rg];W[qc]C[]
+(;B[rb];W[sd]
+(;B[se];W[qb];B[sc]C[RIGHT])
+(;B[sc];W[ra]
+(;B[se];W[qd]
+(;B[sb]C[RIGHT])
+(;B[qb];W[sb]C[ko])
+(;B[oc];W[sb]C[ko])
+(;B[pa];W[sb]
+(;B[qa];W[qb])
+(;B[sa]C[Ko])))
+(;B[sb];W[qb]))
+(;B[ra];W[qb]
+(;B[sb]C[RIGHT])
+(;B[sc];W[sb]))
+(;B[pa];W[qa]
+(;B[sc];W[sb];B[se];W[qd];B[sa]C[RIGHT])
+(;B[se];W[sb];B[sc];W[qd];B[sa]C[RIGHT])))
+(;B[sd];W[rb]
+(;B[qd];W[sb]
+(;B[pa];W[rd]C[ko])
+(;B[rd];W[qa]C[w is alive!]))
+(;B[sc];W[sb])))
+(;B[sd];W[rc];B[rb];W[sb];B[qb];W[qc];B[pa];W[ra])
+(;B[ra];W[rb]
+(;B[pa];W[qa];B[qb];W[qc]C[ko])
+(;B[sb]
+(;W[sc];B[qb];W[qc];B[rc]C[ko])
+(;W[qc]
+(;B[sd];W[qa]
+(;B[sc];W[rc])
+(;B[rc];W[sc]C[Now if b takes the ko at s17, wt19 and he is alive in double ko.]))
+(;B[pa];W[sc]
+(;B[qa];W[qb])
+(;B[qb];W[qa]C[Now if b takes at r18, wt19 and he is alive in double ko]))))
+(;B[rc];W[qc])
+(;B[qa];W[pa];B[sd];W[rc]C[alive]))
+(;B[rb];W[rc];B[qb];W[qa]
+(;B[qc];W[sb])
+(;B[ra];W[pa];B[sd];W[qc];B[sc];W[sb])
+(;B[sb];W[qc])
+(;B[sc];W[sd])
+(;B[sd];W[sb]))
+(;B[sc];W[rc];B[rb];W[sb]
+(;B[sa];W[sd];B[qb];W[qa];B[qc];W[sb])
+(;B[qb];W[qa];B[sa];W[sd];B[qc];W[sb]C[ko, white takes first]))
+(;B[pa];W[rb];B[ra];W[qc];B[sc];W[qa];B[qb];W[sb];B[sd];W[qa]C[Ko]))

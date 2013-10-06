@@ -1,0 +1,13 @@
+(;GE[endgame]DI[15k]DP[64]SO[ferdi]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[0.50]TM[]
+AW[ba][da][bb][cb][cc][cd][be][ce][de][ee][cf][dg]AB[ea][db][eb][dc][dd][ed][fd][fe][df][ef][gf][fg]C[No komi, no prisoners - black to play and win!]
+(;B[eg]CR[eg]
+;W[cg]CR[cg]
+;B[ca]TR[cg][eg]CR[ca]C[Thanks to the exchange of the marked stones there is no white ko threat left, so black can connect the ko  and wins by 1 point. RIGHT])
+(;B[ca]CR[ca]
+;W[cg]CR[cg]
+(;B[eg]CR[eg]
+;W[da]CR[da]C[If black takes the ko at once there remains a white ko threat at the bottom, white can recapture the ko and a jigo results.])
+(;B[da]CR[da]
+;W[eg]CR[eg]
+;B[ff]CR[ff]C[Ignoring the white ko threat gives black not more than a jigo.])))

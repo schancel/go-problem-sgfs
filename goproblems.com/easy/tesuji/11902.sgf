@@ -1,0 +1,6 @@
+(;GE[tesuji]DI[10k]DP[53]SO[DarkSycthe]CO[0]AB[ss]AB[rs]AB[rr]AB[qr]AW[or]AW[pr]AW[ps]AW[qq]AW[rq]AW[qp]AW[ro]AB[pq]AB[pp]AB[oq]AB[nq]AB[qn]AW[os]AW[nr]AB[mq]AB[mr]AW[so]AB[rm]AB[sm]AB[po]AB[ms]AB[qo]C[White to live unconditionally in the corner. Play T for tenuki if you think white is unconditionally dead.]LB[nm:T]AP[goproblems]
+(;W[sq];B[ns];W[sr];B[qs];W[pr]C[RIGHT])
+(;W[sp];B[ns];W[sr];B[qs];W[pr];B[sq]C[Ko, instead of living unconditionally.];W[ps];B[rp])
+(;W[sr];B[sq])
+(;W[qs];B[ns])
+(;W[nm]C[White can live. See solution for more details.]))

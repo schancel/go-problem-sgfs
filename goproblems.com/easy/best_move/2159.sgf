@@ -1,0 +1,84 @@
+(;GE[best move]DI[7k]DP[44]SO[adum]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dn][en][co][do][dp]AB[dm][cn][bo][cp]
+(;B[bm]CR[bm]
+;W[cq]CR[cq]
+(;B[bp]CR[bp]
+;W[em]CR[em]
+(;B[dl]CR[dl]C[RIGHT
+best result])
+(;B[el]CR[el]
+;W[dl]CR[dl]C[black doesn't need this weakness])
+(;B[bq]CR[bq]
+;W[dl]CR[dl]))
+(;B[em]CR[em]
+;W[bp]CR[bp]C[good for white])
+(;B[bq]CR[bq]
+;W[bp]CR[bp]))
+(;B[cq]CR[cq]
+;W[bn]CR[bn]
+(;B[cm]CR[cm]
+;W[bp]CR[bp])
+(;B[bp]CR[bp]
+;W[cm]CR[cm]))
+(;B[em]CR[em]
+;W[bn]CR[bn]
+(;B[cm]CR[cm]
+;W[bp]CR[bp])
+(;B[bp]CR[bp]
+;W[cm]CR[cm]))
+(;B[bp]CR[bp]
+;W[cm]CR[cm]
+;B[bn]CR[bn]
+;W[dl]CR[dl]C[white can play this ladder if favorable, or extend if not])
+(;B[bq]CR[bq]
+;W[cq]CR[cq]
+(;B[bp]CR[bp]
+;W[cm]CR[cm]
+;B[bn]CR[bn]
+;W[dl]CR[dl]C[white can play this ladder if favorable, or extend if not])
+(;B[bn]CR[bn]
+;W[bp]CR[bp])
+(;B[bm]CR[bm]
+;W[bp]CR[bp]))
+(;B[dq]CR[dq]
+;W[bp]CR[bp]
+(;B[cq]CR[cq]
+;W[bn]CR[bn])
+(;B[bn]CR[bn]
+;W[cq]CR[cq]))
+(;B[cm]CR[cm]
+;W[bp]CR[bp]
+(;B[bn]CR[bn]
+;W[cq]CR[cq])
+(;B[an]CR[an]
+;W[cq]CR[cq])
+(;B[cq]CR[cq]
+;W[bn]CR[bn]))
+(;B[cl]CR[cl]
+;W[bn]CR[bn]
+(;B[cm]CR[cm]
+;W[bp]CR[bp])
+(;B[bm]CR[bm]
+;W[cm]CR[cm]C[unnecessary ko for black]))
+(;B[bl]CR[bl]
+;W[bn]CR[bn]
+;B[cm]CR[cm]
+;W[bp]CR[bp])
+(;B[cr]CR[cr]
+;W[bp]CR[bp]
+;B[cq]CR[cq]
+;W[bn]CR[bn])
+(;B[dl]CR[dl]
+;W[bn]CR[bn]
+;B[cm]CR[cm]
+;W[bp]CR[bp])
+(;B[bn]CR[bn]
+;W[cq]CR[cq]
+(;B[bp]CR[bp]
+;W[em]CR[em]
+(;B[dl]CR[dl]C[close to correct, but black's shape is not optimal])
+(;B[bq]CR[bq]
+;W[dl]CR[dl]))
+(;B[bq]CR[bq]
+;W[bp]CR[bp])))

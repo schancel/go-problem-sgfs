@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[8k]DP[47]SO[adum]CO[0]AB[bb]AB[bc]AB[cc]AB[db]AB[eb]AW[dc]AW[ec]AW[ed]AW[fd]AB[dd]AB[de]AB[df]AW[cd]AW[bd]AW[bf]AW[cg]AW[eg]AW[eh]AB[fg]AW[ff]AB[hg]AW[if]AW[ig]AW[ih]AW[ii]AB[gi]AB[gj]AB[gk]AW[ci]AB[gc]AB[gd]AW[hc]AW[ic]AB[id]AB[jd]AW[kb]AW[jb]TR[dc]TR[ec]TR[ed]TR[fd]C[Black to capture the White stones]AP[goproblems]
+(;B[fe]
+(;W[ee]
+(;B[ef];W[ge]
+(;B[fc];W[fe];B[he];W[gf];B[hf];W[gg]
+(;B[gh]C[RIGHT])
+(;B[fh]C[RIGHT]))
+(;B[he]C[RIGHT])
+(;B[gf];W[he]C[only ko]))
+(;B[fc];W[ef]))
+(;W[ef];B[ee])
+(;W[ge];B[ee])
+(;W[fb];B[fc]))
+(;B[ee];W[fe];B[ef];W[hf])
+(;B[ef];W[fe]
+(;B[gf];W[ge]
+(;B[he];W[hf];B[gg];W[hd];B[ie];W[gb])
+(;B[hf];W[he]
+(;B[ie];W[hd])
+(;B[hd];W[ie])))
+(;B[ge];W[gf];B[hf];W[gg];B[fh];W[gh];B[fi];W[hh])
+(;B[hf];W[cf])
+(;B[gg];W[cf]))
+(;B[gf];W[ef])
+(;B[ge];W[ef])
+(;B[fc];W[ef])
+(;B[fb];W[ef]))

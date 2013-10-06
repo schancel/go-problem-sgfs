@@ -1,0 +1,36 @@
+(;GE[life and death]DI[6k]DP[38]SO[lok]CO[0]SZ[19]AW[rl]AW[on]AW[qn]AW[rn]AW[qo]AW[op]AW[pq]AW[pr]AB[ro]AB[qp]AB[sp]AB[qq]AB[rr]C[White to kill.]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PL[W]
+(;W[rs]
+(;B[rq]C[CHOICE]
+(;W[sr];B[qs]
+(;W[qr];B[ss]C[Ko.RIGHT])
+(;W[sn]C[White lost an internal ko threat.]))
+(;W[sn]C[White lost an internal ko threat]))
+(;B[qs]C[CHOICE]
+(;W[qr]
+(;B[rq]C[CHOICE]
+(;W[sr])
+(;W[sn]C[White lost an internal ko threat.]))
+(;B[ss]C[Wrong black move];W[sq];B[rq];W[sn];B[sr];W[so]C[]))
+(;W[sn];B[qr];W[rp];B[sq]
+(;W[so];B[ss])
+(;W[ss];B[so]))
+(;W[sr];B[qr])))
+(;W[sn];B[sq]
+(;W[rs];B[qs]
+(;W[qr];B[ss])
+(;W[so];B[rp]))
+(;W[so];B[rp];W[rs];B[qs];W[qr];B[ss])
+(;W[rp];B[so];W[rs];B[qs];W[qr];B[ss]))
+(;W[sr];B[sq]
+(;W[sn];B[ss])
+(;W[rs];B[qs])
+(;W[qs];B[rs];W[sn];B[so]))
+(;W[rq];B[qr];W[qs];B[rs]
+(;W[sr];B[sq])
+(;W[sn];B[sq]))
+(;W[qr];B[rs]
+(;W[sn];B[sq])
+(;W[sr];B[sq];W[sn];B[so]))
+(;W[sq];B[sr]
+(;W[rs];B[rq])
+(;W[rq];B[qr])))

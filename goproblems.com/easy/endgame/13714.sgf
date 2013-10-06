@@ -1,0 +1,73 @@
+(;GE[endgame]DI[4k]DP[29]SO[marwin]CO[0]AB[ea]AB[fb]AB[ec]AB[dc]AB[cc]AB[cd]AB[bd]AB[ae]AB[be]AW[af]AW[cf]AW[bf]AW[ce]AW[de]AW[dd]AW[ed]AW[fd]AW[gb]AW[ga]AW[fa]AB[fc]AW[gc]AW[gd]C[Last endgame move, will you protect the corner?FORCE]LB[jd:Tenuki]LB[je:Protect]AP[goproblems]
+(;B[jd];W[da]C[Defent then, you can't loose a thing.]
+(;B[eb];W[bb]
+(;B[cb];W[ac]
+(;B[ca];W[ba];B[bc];W[ab]C[Seki])
+(;B[ba];W[ca]
+(;B[aa];W[ab];B[ba];W[aa])
+(;B[bc];W[aa])
+(;B[db];W[ca]
+(;B[da]C[White can pick ko or seki now.])
+(;B[aa];W[ab];B[ba];W[aa]
+(;B[da]C[White can choose ko or seki.])
+(;B[bc]C[Seki]))))
+(;B[aa];W[ba];B[ca]))
+(;B[bc];W[ac];B[cb];W[ca])
+(;B[ca];W[cb];B[db];W[ba];B[ac];W[ab];B[bc];W[da])
+(;B[ac];W[cb]
+(;B[ab];W[bc]
+(;B[db];W[ad])
+(;B[ba]))
+(;B[ca];W[ab];B[db];W[ba]))
+(;B[ba];W[cb];B[bc];W[ab];B[db];W[ca];B[ac];W[ad])
+(;B[ab];W[cb]
+(;B[ac])
+(;B[bc];W[ac]
+(;B[ba];W[aa])
+(;B[ad];W[ba]C[not even seki, you are dead]))))
+(;B[db]C[You lost at least one point now])
+(;B[ca];W[eb]))
+(;B[je]AW[ea]AW[fb]AB[fa]AB[ga]AB[gb]AB[gc]AB[gd]AW[fc]AW[ec]AW[dc]AW[cc]AW[cd]AW[bd]AW[be]AW[ae]AB[af]AB[bf]AB[cf]AB[ce]AB[de]AB[dd]AB[ed]AB[fd]C[Ok, you would protect, so you think you can do something right?];W[jf]C[Ok, you would protect, so you think the corner isn't safe?]
+(;B[da];W[eb]
+(;B[bb];W[cb]
+(;B[ca];W[ac]
+(;B[ab];W[ba];B[aa];W[bc])
+(;B[ba];W[ab];B[bc]C[RIGHT])
+(;B[aa];W[ab])
+(;B[bc];W[ab];B[ba]C[RIGHT]))
+(;B[ac];W[ca]
+(;B[aa];W[ba])
+(;B[ba]))
+(;B[ba]
+(;W[ca];B[ac];W[bc];B[ab]C[Yes, seki.RIGHT])
+(;W[ac];B[ca]))
+(;B[ab];W[ca]
+(;B[ba];W[ac])
+(;B[ac];W[ba]))
+(;B[bc];W[ca];B[ba];W[ac]))
+(;B[ba];W[bb];B[ab];W[ac];B[cb];W[bc])
+(;B[ac];W[bb]
+(;B[ab];W[ba])
+(;B[ba];W[ab])))
+(;B[cb];W[db];B[ca];W[bb])
+(;B[db];W[cb];B[da];W[eb])
+(;B[ca];W[da]
+(;B[db];W[eb];B[bb];W[cb]
+(;B[ba];W[ac])
+(;B[aa];W[ac]))
+(;B[cb];W[bb]))
+(;B[bb]
+(;W[da]
+(;B[ca];W[cb]
+(;B[ba];W[bc];B[ac];W[ab])
+(;B[ac];W[bc]))
+(;B[cb];W[db]
+(;B[ca];W[ac])
+(;B[ac];W[ca];B[ba];W[bc];B[ab]C[RIGHT]))
+(;B[ba];W[bc];B[ac];W[ab];B[aa])
+(;B[ac];W[cb];B[ba];W[bc];B[ab];W[ca];B[db]C[RIGHT])
+(;B[bc];W[cb];B[ba]C[RIGHT]))
+(;W[cb];B[da];W[eb])
+(;W[db];B[ca];W[cb];B[ba];W[da];B[ac];W[bc];B[ab]C[RIGHT])
+(;W[ca];B[cb];W[db];B[ba];W[da];B[ac])
+(;W[ac];B[da];W[eb];B[cb];W[ab];B[bc];W[ba]C[RIGHT]))))

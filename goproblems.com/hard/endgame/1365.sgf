@@ -1,0 +1,15 @@
+(;GE[endgame]DI[4d]DP[7]SO[gecko]CO[9]SZ[19]AW[ab]AW[bb]AW[cc]AW[dc]AW[eb]AW[fb]AW[fc]AW[fd]AW[ed]AB[ac]AB[bc]AB[cd]AB[be]AB[dd]AB[ee]AB[fe]AB[gd]AB[gc]AB[gb]AB[fa]C[Warning: this is an endgame problem. Consider the value of sente to be larger then 2 points. When you want to take sente, play a.(not just now)]LB[ge:a]FF[4]GM[1]AP[Jago:Version 4.31]GN[temp]
+(;B[ca];W[da]LB[ge:a]C[FORCE]
+(;B[ge]C[ because of a for b, white will eventually have to add a stone inside. white's territory is 6 points.RIGHT]LB[ca:a]LB[da:b])
+(;B[cb];W[db]C[this looses a ko threat.])
+(;B[ba];W[cb]C[this looses a point])
+(;B[ga]C[gote]))
+(;B[da];W[db]LB[ge:a]
+(;B[ea];W[ca]LB[ge:a]
+(;B[ga]C[Only 4 points for white, but gote for black.])
+(;B[ge]LB[ga:a]C[white captures at a]))
+(;B[ge]LB[ea:a]C[You did not gain anything. white can play a for 7 points as before.]))
+(;B[ea];W[da]LB[ge:a]
+(;B[ga]C[gote for black, 6 points for white])
+(;B[ge]LB[ga:a]C[white captures at a]))
+(;B[ga];W[ea]C[7 points for white]))

@@ -1,0 +1,22 @@
+(;GE[elementary]DI[10k]DP[54]SO[moffia351]CO[5]AB[cc]AB[bb]AB[ca]AB[dc]AB[ec]AB[fa]AB[fb]AB[fc]AB[ed]AB[cd]AB[fe]AB[ga]AB[hb]AB[hc]AB[jb]AB[kc]AB[jd]AB[ff]AB[eg]AB[dg]AB[ch]AB[bh]AB[bg]AB[bi]AB[bk]AW[gb]AW[gc]AW[gd]AW[fd]AB[hf]AW[ha]AW[ia]AW[ja]AB[ic]AW[hd]AW[db]AW[bc]AW[bd]AW[ee]AW[dd]AW[de]AW[ce]AW[cf]AW[cg]AW[bf]AW[ci]AW[di]AW[dh]AW[kb]AW[lb]AW[ab]C[White to do their best.]AP[goproblems]
+(;W[cb]AW[ab]C[]
+(;B[id]C[CHOICE]
+(;W[eb]C[RIGHT];B[da];W[ea]C[Good Job! You killed the corner.RIGHT])
+(;W[ea]C[RIGHT];B[da];W[eb]C[Good job! You killed the corner.RIGHT]))
+(;B[ba]C[CHOICE]
+(;W[da]C[];B[id]
+(;W[eb];B[ea]C[White dies :'(])
+(;W[ea];B[eb]C[White dies :'(])
+(;W[aa];B[he]C[White coud have done better.]))
+(;W[ea]C[Good Job! You killed the corner.RIGHT])
+(;W[eb]C[RIGHT];B[ea];W[da]C[Good job! You killed the corner.RIGHT])))
+(;W[ea];B[da]
+(;W[cb]C[White dies ;'(])
+(;W[eb]C[White dies ;'(]))
+(;W[bj])
+(;W[ib];B[jc]
+(;W[cb];B[ka]C[White dies ;'(])
+(;W[ka];B[da]C[White dies ;'(]))
+(;W[ae];B[id]
+(;W[he];B[ie]C[White dies ;'(])
+(;W[ac]C[White can do better than this])))

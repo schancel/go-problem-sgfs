@@ -1,0 +1,71 @@
+(;GE[life and death]DI[3d]DP[9]SO[Hans]CO[6]
+AW[cm][ao][bo][co][cp][dq][eq][gq]AB[bp][aq][cq][cr][dr]PL[W]
+C[Black greedily answered white 1 with 2. Punish him.
+]LB[ao:1][dr:2]
+(;W[bs];B[br]
+(;W[er];B[ap]
+(;W[ar]C[
+];B[as]C[It is ko but black captures first.
+])
+
+(;W[ds];B[cs])
+)
+
+(;W[ap];B[as]
+(;W[bq]C[RIGHT Ko and white captures first.
+])
+
+(;W[ar];B[bq]
+(;W[er];B[as]C[It is ko but black captures first.
+])
+
+(;W[as];B[cs]C[Black lives.
+])
+)
+
+(;W[er];B[cs];W[bq]C[RIGHT Ko and white captures first.
+])
+)
+
+(;W[ar];B[cs]
+(;W[ap];B[bq];W[er];B[as])
+
+(;W[er];B[as];W[ap];B[bq])
+)
+
+(;W[cs];B[as]
+(;W[ap];B[bq];W[ar];B[ds];W[er];B[as])
+
+(;W[ar];B[ds];W[ap];B[bq];W[er];B[as])
+)
+)
+
+(;W[br];B[bs]C[Black lives.
+])
+
+(;W[er];B[bs]
+(;W[ds];B[ar];W[ap];B[bq]C[Black lives.
+])
+
+(;W[ap];B[bq];W[ds];B[ar]C[Black lives.
+])
+)
+
+(;W[ap];B[bs]
+(;W[bq];B[ar];W[er];B[ds]LB[es:A]
+C[Black lives and has a good move at A.
+])
+
+(;W[er];B[bq];W[ds];B[ar]C[Black lives.
+])
+)
+
+(;W[bq];B[br]
+(;W[ap];B[bq]C[Black lives.
+])
+
+(;W[er];B[ap]C[Black lives.
+])
+)
+
+)

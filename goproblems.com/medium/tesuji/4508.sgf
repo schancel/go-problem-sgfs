@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[2k]DP[23]SO[transcend]CO[9]AB[ob]AB[oa]AB[pa]AB[nc]AB[mc]AB[lb]AB[kc]AW[ma]AW[nb]AW[oc]AW[pc]AW[pb]AW[rc]TR[oa]TR[ob]TR[pa]C[Save the marked stones.]AP[goproblems]
+(;B[mb];W[qa]C[Snapback.])
+(;B[qa];W[ra]
+(;B[rb];W[sb];B[sa];W[qb]
+(;B[sc];W[na]C[Not clever enough :)])
+(;B[mb];W[ra]C[Snapback.]))
+(;B[qb];W[rb];B[mb];W[qc]C[Snapback.]))
+(;B[ra];W[qb];B[qa];W[rb]
+(;B[mb]C[Good. Black A was necessary to prevent a snapback.RIGHT]LB[ra:A])
+(;B[la]C[Good! A is necessary to prevent a snapback.RIGHT]LB[ra:A])
+(;B[sb];W[na]))
+(;B[qb];W[ra]
+(;B[qc];W[qa]C[Odd.])
+(;B[rb];W[qa];B[sa];W[qa];B[ra];W[na];B[qa];W[qc]C[You were clever, but white was even more so :)])
+(;B[qa];W[rb];B[mb];W[qc]C[Snapback.])
+(;B[mb];W[qa]C[Snapback.])))

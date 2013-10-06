@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[20]SO[Field Mouse]CO[0]AW[ac]AW[ad]AW[be]AB[bi]AW[ci]AW[cj]AW[dj]AB[di]AB[eh]AB[ch]AB[cg]AB[dg]AB[cf]AB[ef]AB[de]AB[dd]AB[cd]AB[bd]AB[ed]AB[eb]AB[ea]AW[db]AW[dc]AW[ab]AB[gc]AB[gd]AB[hc]AB[id]AB[he]AW[fe]AW[ee]AW[fd]AW[ge]AW[fg]AW[fi]AB[ej]AW[ei]C[Black to play - can you find the correct way?]AW[hf]AW[em]AW[cm]AW[lc]AB[jc]AB[jb]AW[lb]AB[jj]AB[ik]AB[bc]AW[ca]AW[da]AW[ae]AB[ib]AW[ec]AB[fc]AB[fa]AB[gb]AB[bh]AB[bg]AB[bf]AW[ai]AW[aj]AB[bk]AW[bb]AW[cc]AB[bj]AW[bl]AW[ak]AW[dk]AW[dl]AB[af]AB[ag]AW[al]AW[ah]AB[ck]AW[cl]AW[jf]AW[ke]AW[lf]AW[lg]AP[goproblems]
+(;B[fh];W[gh]
+(;B[gg]
+(;W[dh]
+(;B[gf];W[eg];B[ff]C[Nice, you saved the major part of your group without ko!CHOICERIGHT])
+(;B[eg];W[hg];B[ff];W[gf])
+(;B[ff];W[gf];B[hg];W[if];B[eg];W[hh]C[Not optimal!]))
+(;W[ce];B[gi]C[Good - sacrificing six stones, but saving the rest of your group and making a good center shape.RIGHT]))
+(;B[gi];W[dh]C[Ow, this ko is too risky!]))
+(;B[ff];W[gf];B[gg];W[fh]C[Black is in trouble now!])
+(;B[gg];W[fh]C[This is not a good result.])
+(;B[gh];W[fh])
+(;B[gf];W[ff];B[fh];W[gh];B[gi];W[fj]C[White is happy.]))

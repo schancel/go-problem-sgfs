@@ -1,0 +1,61 @@
+(;GE[life and death]DI[3k]DP[25]SO[Trucid]CO[9]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ba][bb][cb][db][bd][cd][ce]AB[da][eb][ec][dd][ee][af][bf][cf][df]C[Black to play]
+(;B[dc]CR[dc]
+(;W[ab]CR[ab]
+(;B[ad]CR[ad]
+;W[ac]CR[ac]
+(;B[cc]CR[cc]C[RIGHT])
+(;B[ae]CR[ae]
+;W[cc]CR[cc]))
+(;B[cc]CR[cc]
+;W[bc]CR[bc]
+;B[ad]CR[ad]C[RIGHT]))
+(;W[cc]CR[cc]
+;B[ac]CR[ac]
+;W[ab]CR[ab]
+;B[ad]CR[ad]C[RIGHT])
+(;W[ae]CR[ae]
+(;B[cc]CR[cc]
+;W[bc]CR[bc]
+(;B[ab]CR[ab]C[RIGHT])
+(;B[be]CR[be]
+;W[ad]CR[ad]
+;B[ab]CR[ab]C[RIGHT]))
+(;B[be]CR[be]
+;W[cc]CR[cc]
+;B[ac]CR[ac]
+(;W[ab]CR[ab]
+;B[ad]CR[ad]C[RIGHT])
+(;W[ad]CR[ad]
+;B[ab]CR[ab]C[RIGHT])))
+(;W[ad]CR[ad]
+;B[cc]CR[cc]
+;W[bc]CR[bc]
+;B[ab]CR[ab]C[RIGHT]))
+(;B[ae]CR[ae]
+;W[ac]CR[ac]TR[ab][bc]C[Two eyes])
+(;B[ad]CR[ad]
+;W[ac]CR[ac]TR[ab][bc]C[Two eyes])
+(;B[cc]CR[cc]
+;W[dc]CR[dc]TR[ab][cc]C[Two eyes])
+(;B[ac]CR[ac]
+;W[ab]CR[ab]
+(;B[dc]CR[dc]
+;W[ad]CR[ad]TR[aa][ac]C[Two eyes])
+(;B[cc]CR[cc]
+;W[dc]CR[dc])
+(;B[ad]CR[ad]
+;W[bc]CR[bc]
+(;B[ae]CR[ae]
+;W[dc]CR[dc])
+(;B[dc]CR[dc]
+;W[ae]CR[ae]
+(;B[ad]CR[ad]
+;W[be]CR[be])
+(;B[be]CR[be]
+;W[ad]CR[ad])))
+(;B[bc]CR[bc]
+;W[ad]CR[ad]))
+(;B[ab]CR[ab]
+;W[ac]CR[ac]TR[ab][bc]C[Two eyes]))

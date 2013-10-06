@@ -1,0 +1,9 @@
+(;GE[joseki]DI[7k]DP[44]SO[remembered]CO[0]AB[pp]AB[qj]AB[pl]AB[jq]AB[np]AB[nr]AB[qp]AB[ro]AB[sp]AW[oj]AW[rq]AW[rp]AW[rr]AW[qq]AW[pr]LB[qs:A]C[Can B kill W with a move at A? answer yes or no.FORCE]LB[gf:Y]LB[jf:N]LB[oj:1]LB[pl:2]LB[qq:3]LB[qp:4]LB[rp:5]LB[ro:6]LB[rr:7]LB[sp:8]LB[rq:9]LB[nr:10]N[k14]AP[goproblems]
+(;B[gf];W[ff]C[please play at r1];B[qs]C[it's look like W don't have 2 eyes.];W[rs];B[ps];W[or];B[os];W[nq]C[Now W is escape and B is punished];B[mq]C[if B play n3];W[oq]
+(;B[mr];W[op]C[for B. R5 is cutting point. W escape that's all.]
+(;B[oo]C[if B resist];W[no];B[mp];W[po];B[on];W[qo];B[qn];W[pq];B[rn];W[mn]C[In real game hope you don't play R1.])
+(;B[pn]))
+(;B[op]C[if B do this. He will never do. :P];W[mr]
+(;B[ns];W[ms];B[lr];W[qr])
+(;B[lr];W[ns])))
+(;B[jf]C[You are correct. navigating to see how W survive.RIGHT]))

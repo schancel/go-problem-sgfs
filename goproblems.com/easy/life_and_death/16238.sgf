@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[36]SO[BartTM]CO[0]AB[qs]AB[qr]AB[pq]AB[pp]AB[qp]AB[rp]AB[sp]AW[ps]AW[pr]AW[or]AW[oq]AW[op]AW[oo]AW[po]AW[qo]AW[ro]AW[so]AW[rq]C[Black to live.]AP[goproblems]
+(;B[sr]
+(;W[qq]
+(;B[sq]C[RIGHT])
+(;B[rr];W[sq])
+(;B[rs];W[sq]))
+(;W[rr];B[rs]C[RIGHT])
+(;W[sq];B[qq]C[RIGHT])
+(;W[rs];B[rr]C[RIGHT]))
+(;B[rr];W[sr]
+(;B[qq];W[rs]
+(;B[sq];W[rq])
+(;B[ss]C[Ko. You need another move to live, at least.]))
+(;B[sq];W[qq])
+(;B[ss];W[rs]C[Ko]))
+(;B[qq];W[rr]
+(;B[sr];W[rs])
+(;B[rs];W[sr]))
+(;B[sq];W[sr]
+(;B[qq];W[rr])
+(;B[rr];W[qq]))
+(;B[rs];W[qq])
+(;B[ss];W[qq]))

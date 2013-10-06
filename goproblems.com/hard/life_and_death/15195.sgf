@@ -1,0 +1,60 @@
+(;GE[life and death]DI[4d]DP[7]SO[santa c]CO[0]AB[ao]AB[bo]AB[co]AB[do]AW[ar]AW[br]AW[cr]AW[dq]AB[ep]AB[eq]AB[fr]AB[gr]C[What's the best you can get here? (Direct ko would be ideal ;)]AP[goproblems]
+(;W[bp];B[cp]
+(;W[ap];B[bq]
+(;W[cq];B[aq]
+(;W[er];B[es];W[ds];B[dr]C[If W is winning the ko, bF1 local threat will be followed with wB1 bD2 wB4 (Whites gained threat) so that W really does need to win the ko only once! :)RIGHT])
+(;W[ds];B[er]MA[dr]MA[bs])
+(;W[bs];B[dr]))
+(;W[er];B[cq]
+(;W[es];B[bs]MA[cs]MA[dr])
+(;W[ds];B[bs])
+(;W[bs];B[ds]MA[dr]MA[es])
+(;W[dr];B[es]MA[bs]MA[ds]))
+(;W[ds];B[er]MA[bs]MA[dr])
+(;W[aq];B[cq]
+(;W[ds];B[er]MA[bs]MA[dr])
+(;W[er]C[gote :p])
+(;W[bs];B[dr])))
+(;W[cq];B[ap]
+(;W[er];B[es];W[ds];B[dr]C[After W wins the ko once, bF1 wB1 bD2 - W needs to win it once more!])
+(;W[ds];B[er]MA[bs]MA[dr])
+(;W[bs];B[dr]))
+(;W[bq];B[ap]
+(;W[cq];B[dr])
+(;W[er];B[cq]
+(;W[es];B[bs]MA[cs]MA[dr])
+(;W[ds];B[bs])
+(;W[bs];B[ds]MA[dr]MA[es])
+(;W[dr];B[es]MA[bs]MA[ds])))
+(;W[er];B[cq]
+(;W[es];B[bs]MA[cs]MA[dr])
+(;W[ds];B[bs])
+(;W[bs];B[ds]MA[dr]MA[es])
+(;W[dr];B[es]MA[bs]MA[ds])
+(;W[bq];B[ap]))
+(;W[bs];B[dr]))
+(;W[er];B[es]
+(;W[ds];B[dr]C[After W wins the ko once, bF1 wB1 bD2 - W needs to win it once more!])
+(;W[dr];B[cp]MA[ds]MA[bs])
+(;W[bp];B[cp]
+(;W[ds];B[dr]C[After W wins the ko once, bF1 wB1 bD2 - W needs to win it once more!])
+(;W[cq];B[ap])
+(;W[bq];B[ap]
+(;W[ds];B[bs]MA[cq]MA[fs])
+(;W[bs];B[dr])
+(;W[cq];B[dr]))
+(;W[ap];B[bs]
+(;W[ds];B[dr]C[After W wins the ko once, bB3 wC3 bD2 - W needs to win it once more!])
+(;W[dr];B[bq])
+(;W[bq];B[cs])
+(;W[cq];B[cs])))
+(;W[cp];B[dr]LB[bp:1]LB[ap:2]LB[aq:3]LB[cq:4])
+(;W[bs];B[dr]))
+(;W[cp];B[dr]LB[bp:1]LB[ap:2]LB[aq:3]LB[cq:4])
+(;W[ds];B[er]
+(;W[dr];B[bs]
+(;W[cp];B[bp]MA[bq]MA[dp])
+(;W[bp];B[cp]MA[bq]MA[ap]))
+(;W[bs];B[dr])
+(;W[cp];B[dr]LB[bp:1]LB[ap:2]LB[aq:3]LB[cq:4])
+(;W[bp];B[cp])))

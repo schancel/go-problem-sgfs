@@ -1,0 +1,18 @@
+(;GE[endgame]DI[15k]DP[60]SO[MrMoto]CO[6]AB[po]AB[pn]AB[pm]AB[pl]AB[pk]AW[qk]AW[qj]AW[qi]AW[pi]AW[qn]AW[ro]AW[qp]AW[pp]C[Black wants to reduce White's territory.  Which of A, B, C, D is best?FORCE]LB[ql:A]LB[rl:B]LB[qm:C]LB[rm:D]AP[goproblems]
+(;B[rl];W[ql]
+(;B[rm];W[qm]C[:|])
+(;B[qm];W[rm]
+(;B[sm];W[rn]C[White is safe.  See the comment in the variation where Black plays S6 instead of T7.])
+(;B[rn]MA[pm]MA[rn]MA[rl]C[Compare the table shape here to the correct solution.  The last leg of the table, S6, doesn't work here.]MA[pl])))
+(;B[rm];W[qm]
+(;B[rl];W[ql]C[:|])
+(;B[ql];W[rl]
+(;B[qo];W[rn];B[rk];W[sm])
+(;B[rn];W[rk];B[qo];W[rp]C[RIGHT])
+(;B[rk];W[rn]
+(;B[sl];W[rj]C[Right.  Observe the table shape in relation to the two Black stones that were originally facing the gap in White's wall.RIGHT]MA[pl]MA[pm]MA[rk]MA[rm])
+(;B[sm];W[rj]
+(;B[sk];W[sj];B[sl];W[sn];B[rl];W[qo]C[Black can do better.])
+(;B[sl];W[sj]C[RIGHT])))))
+(;B[ql];W[rm];B[rl];W[rk]C[Black can do better.])
+(;B[qm];W[rm];B[rl];W[ql];B[sm];W[rn]C[White is safe.]))

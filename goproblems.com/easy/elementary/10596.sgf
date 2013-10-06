@@ -1,0 +1,9 @@
+(;GE[elementary]DI[20k]DP[72]SO[bostongo]CO[5]AW[sb]AW[rb]AW[qb]AW[qa]AW[oa]AW[ob]AW[pc]AW[pd]AB[rd]AB[qd]AB[qf]AB[pe]AB[oe]AB[od]AB[oc]AB[nb]AB[na]AB[mc]C[Black to kill.]AP[goproblems]
+(;B[pb]C[]
+(;W[pa]C[Good Job!  White is dead.  This is called a throw-in.  You're sacrificing a stone to create a false eye.  White would only make further plays as ko threats.CHOICE];B[qc]C[RIGHT])
+(;W[qc]C[Good Job!  White is dead.  This is called a throw-in.  You're sacrificing a stone to create a false eye.  White would only make further plays as ko threats.CHOICE];B[pa]C[Only one eye.RIGHT]))
+(;B[pa];W[pb]C[Two eyes.  Three points.])
+(;B[qc]C[];W[pb]C[Your last play is where White would have liked to have moved in order to increase his territory by 1 point.  Play at T16 to see how.White lives.  Two eyes.  Three points.])
+(;B[sd]C[]TR[qc];W[qc]C[I included this move just to show how White gains a point by playing at the marked point.]
+(;B[pb];W[pa]C[Two eyes. Three points, one capture.])
+(;B[pa];W[pb]C[Two eyes. Three points, one capture.])))

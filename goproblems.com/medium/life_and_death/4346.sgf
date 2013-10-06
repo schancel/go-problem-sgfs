@@ -1,0 +1,273 @@
+(;GE[life and death]DI[3d]DP[10]SO[atak]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.50]
+AW[ea][cb][eb][ib][bc][cc][dc][fc][hc][bd][dd][ed][ae][be][de][af][df][ef][fg][gg][hg][ig][eh][fh][di][ei][gi]AB[fa][db][fb][gb][hb][gc][cd][fd][hd][ce][ee][fe][ge][bf][cf][ff][gf][hf][if][ag][bg][dg][eg][ch][dh][hh][hi]C[Black to find the only move!  0.5 komi, no prisoners yet]
+(;B[ci]CR[ci]
+;W[ih]CR[ih]
+(;B[ec]CR[ec]
+;W[bh]CR[bh]
+(;B[ah]CR[ah]
+;W[fc]CR[fc]
+;B[gh]CR[gh]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[bi]CR[bi]
+(;B[ai]CR[ai]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[da]CR[da]
+;W[cg]CR[cg]))
+(;B[bi]CR[bi]
+;W[fc]CR[fc]
+;B[gh]CR[gh]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[ah]CR[ah]
+(;B[ai]CR[ai]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[da]CR[da]
+;W[cg]CR[cg]))
+(;B[ai]CR[ai]
+;W[fc]CR[fc]
+;B[gh]CR[gh]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[bi]CR[bi]
+(;B[ah]CR[ah]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[da]CR[da]
+;W[cg]CR[cg]))
+(;B[da]CR[da]
+;W[bi]CR[bi]C[black dies]))
+(;B[gh]CR[gh]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[bh]CR[bh]
+(;B[bi]CR[bi]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[ah]CR[ah]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[ai]CR[ai]
+;W[fc]CR[fc]C[white wins the ko and the game by 0.5 points])
+(;B[da]CR[da]
+;W[bi]CR[bi]C[black dies])))
+(;B[gh]CR[gh]
+;W[bi]CR[bi]
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[fi]CR[fi]
+;W[ah]CR[ah]
+;B[ai]CR[ai]
+;W[gi]CR[gi]C[black dies, white lives by double ko])
+(;B[ai]CR[ai]
+;W[ah]CR[ah]C[black dies, white lives by double ko]))
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[fi]CR[fi]
+;W[bh]CR[bh]C[black dies]))
+(;B[bi]CR[bi]
+;W[ih]CR[ih]
+(;B[ec]CR[ec]
+;W[da]CR[da]
+(;B[fc]CR[fc]C[RIGHT well done! black wins by 0.5 points])
+(;B[gh]CR[gh]
+;W[ii]CR[ii]
+(;B[fc]CR[fc]C[RIGHT well done! black wins by 0.5 points])
+(;B[ca]CR[ca]
+;W[fc]CR[fc]C[white wins by 0.5])
+(;B[ba]CR[ba]
+;W[fc]CR[fc]
+(;B[ab]CR[ab]
+;W[ec]CR[ec]
+(;B[ac]CR[ac]
+;W[bb]CR[bb]C[black's three stones are dead])
+(;B[bb]CR[bb]
+;W[ac]CR[ac]C[black's three stones are dead]))
+(;B[ca]CR[ca]
+;W[ec]CR[ec]
+(;B[ab]CR[ab]
+;W[ac]CR[ac]C[black's three stones are dead])
+(;B[ac]CR[ac]
+;W[ab]CR[ab]C[black's three stones are dead]))))
+(;B[ba]CR[ba]
+;W[fc]CR[fc]
+(;B[ab]CR[ab]
+;W[ec]CR[ec]
+(;B[bb]CR[bb]
+;W[ac]CR[ac]C[black's three stones are dead])
+(;B[ac]CR[ac]
+;W[bb]CR[bb]C[black's three stones are dead
+]))
+(;B[gh]CR[gh]
+;W[ii]CR[ii]
+(;B[ec]CR[ec]
+;W[ca]CR[ca]
+;B[fc]CR[fc]C[RIGHT well done! black wins by 0.5 points])
+(;B[ca]CR[ca]
+;W[ec]CR[ec]C[white wins by 2.5 points])))
+(;B[ca]CR[ca]
+;W[fc]CR[fc]
+(;B[gh]CR[gh]
+;W[ii]CR[ii]
+(;B[ec]CR[ec]
+;W[ba]CR[ba]
+;B[fc]CR[fc]C[RIGHT well done! black wins by 0.5 points])
+(;B[ba]CR[ba]
+;W[ec]CR[ec]C[white wins by 2.5 points]))
+(;B[ba]CR[ba]
+;W[ec]CR[ec]C[white wins by 2.5 points]))
+(;B[ab]CR[ab]
+;W[fc]CR[fc]
+;B[gh]CR[gh]
+;W[ii]CR[ii]
+;B[ec]CR[ec]
+;W[ci]CR[ci]
+(;B[fc]CR[fc]C[white wins by 0.5 points])
+(;B[ba]CR[ba]
+;W[fc]CR[fc]
+(;B[bb]CR[bb]
+;W[ac]CR[ac]
+;B[ec]CR[ec]
+;W[bh]CR[bh]
+;B[ah]CR[ah]
+;W[fc]CR[fc]C[white wins by 2.5 points])
+(;B[ca]CR[ca]
+;W[ec]CR[ec]
+(;B[bb]CR[bb]
+;W[ac]CR[ac]C[black's four stones are dead])
+(;B[ac]CR[ac]
+;W[bb]CR[bb]C[black's four stones are dead]))
+(;B[ac]CR[ac]
+;W[bb]CR[bb]
+;B[ec]CR[ec]
+;W[bh]CR[bh]
+;B[ah]CR[ah]
+;W[fc]CR[fc]C[black's three stones are dead, white wins by 3.5 points]))))
+(;B[gh]CR[gh]
+;W[ii]CR[ii]
+(;B[ec]CR[ec]
+;W[da]CR[da]
+;B[fc]CR[fc]C[RIGHT well done! black wins by 0.5 points])
+(;B[da]CR[da]
+;W[ec]CR[ec]C[white wins by 2.5 points]))
+(;B[da]CR[da]
+;W[ec]CR[ec]C[white wins by 2.5 points])
+(;B[ci]CR[ci]
+;W[ec]CR[ec]C[white wins by 1.5 points])
+(;B[ca]CR[ca]
+;W[ec]CR[ec]C[white wins by 2.5 points]))
+(;B[ec]CR[ec]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko])
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black dies])
+(;B[da]CR[da]
+;W[ca]CR[ca]C[black's lower left corner is dead]))
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[bi]CR[bi]
+;W[ih]CR[ih]
+;B[ec]CR[ec]
+;W[da]CR[da]
+;B[fc]CR[fc]C[white wins by 0.5 points])
+(;B[gh]CR[gh]
+;W[bi]CR[bi]
+(;B[fi]CR[fi]
+;W[ah]CR[ah]
+;B[ai]CR[ai]
+;W[gi]CR[gi]C[black dies, white lives by double ko])
+(;B[ec]CR[ec]
+;W[ah]CR[ah]C[black dies, white lives by double ko])))
+(;B[ai]CR[ai]
+;W[ci]CR[ci]
+(;B[bi]CR[bi]
+;W[ih]CR[ih]
+;B[ec]CR[ec]
+;W[da]CR[da]
+;B[fc]CR[fc]C[white wins by 0.5 points])
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black dies])
+(;B[ec]CR[ec]
+;W[bh]CR[bh]C[black dies]))
+(;B[ah]CR[ah]
+;W[ci]CR[ci]
+(;B[bi]CR[bi]
+;W[ih]CR[ih]
+;B[ec]CR[ec]
+;W[da]CR[da]
+;B[fc]CR[fc]C[white wins by 0.5 points])
+(;B[gh]CR[gh]
+;W[bi]CR[bi]C[black dies]))
+(;B[ih]CR[ih]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]C[black dies]))
+(;B[ca]CR[ca]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko])
+(;B[ec]CR[ec]
+;W[ba]CR[ba]C[black's lower left corner is dead]))
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black dies])
+(;B[ec]CR[ec]
+;W[ba]CR[ba]C[black's lower left corner is dead]))
+(;B[ic]CR[ic]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko])
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black dies])
+(;B[ec]CR[ec]
+;W[bh]CR[bh]C[black dies]))
+(;B[da]CR[da]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko])
+(;B[ec]CR[ec]
+;W[ca]CR[ca]C[black's A3 group is dead]))
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black is dead])
+(;B[ec]CR[ec]
+;W[ca]CR[ca]C[black's lower left corner is dead]))
+(;B[id]CR[id]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko])
+(;B[ec]CR[ec]
+;W[da]CR[da]C[black's A3 group is dead])
+(;B[ai]CR[ai]
+;W[ah]CR[ah]C[black dies])))
+(;B[ab]CR[ab]
+;W[bi]CR[bi]
+(;B[ci]CR[ci]
+;W[bh]CR[bh]C[black dies])
+(;B[bh]CR[bh]
+;W[ci]CR[ci]
+(;B[ca]CR[ca]
+;W[ai]CR[ai]C[black dies])
+(;B[gh]CR[gh]
+;W[ah]CR[ah]C[black dies, white lives by double ko]))
+(;B[gh]CR[gh]
+;W[bh]CR[bh]C[black dies])))

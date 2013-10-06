@@ -1,0 +1,40 @@
+(;GE[elementary]DI[8k]DP[45]SO[ibo100]CO[0]AB[jq]AW[js]AW[ir]AW[iq]AB[jr]AW[kr]AB[ls]AB[mr]AB[nq]AB[op]AB[po]AB[qn]AB[rm]AB[sl]AB[ri]AB[rj]AW[si]AW[sj]AB[sg]AB[rf]AB[qe]AB[pd]AB[oc]AB[nb]AB[ma]AB[kb]AB[jb]AW[ka]AW[ja]AB[ha]AB[gb]AB[fc]AB[ed]AB[de]AB[cf]AB[bg]AB[ah]AW[aj]AW[ak]AB[bj]AB[bk]AB[am]AB[bn]AB[co]AB[dp]AB[eq]AB[fr]AB[gr]AB[km]AB[ll]AB[mk]AB[nj]AB[jf]AB[ig]AB[hh]AB[gi]AB[fj]AB[fk]AB[gl]AB[hm]AB[kq]AB[kp]AB[lo]AB[lp]AW[jp]AW[ko]AW[lq]AW[mp]AB[jn]AB[in]AB[hr]TR[lo]TR[lp]TR[kp]TR[kq]TR[jq]TR[jr]AB[ni]AB[mh]AB[lg]AB[kf]C[Can you capture the marked stones? Click at tengen (No) if not, otherwise just try to capture them.]LB[jj:No]AP[goproblems]
+(;W[ln];B[pl]AB[mo]AW[no]AB[mn]AW[mm]AB[nn]AW[on]AB[nm]AW[nl]AB[om]AW[pm]AB[ol]AW[ok]C[Whoops! This black matter apparently opened a worm hole in space.]
+(;W[ql];B[pk]
+(;W[pj];B[qk]
+(;W[rk];B[qj]
+(;W[rh];B[qi]
+(;W[pi];B[qh]
+(;W[qg];B[ld]AB[ph]AW[oh]AB[pg]AW[pf]AB[og]AW[ng]AB[of]AW[oe]AB[nf]AW[mf]AB[ne]AW[nd]AB[me]AW[le]AB[md]AW[mc]C[Hey ho! Traveling through space again...]
+(;W[kd];B[lc]
+(;W[lb];B[kc]
+(;W[ib];B[jc]
+(;W[jd];B[ic]
+(;W[hc];B[di]AB[id]AW[ie]AB[hd]AW[gd]AB[he]AW[hf]AB[ge]AW[fe]AB[gf]AW[gg]AB[ff]AW[ef]AB[eg]AW[fh]AB[fg]AW[dg]AB[eh]AW[ei]AB[dh]AW[ch]C[I just love space travel. So fast, and there is so much... space, I guess.]
+(;W[dj];B[ci]
+(;W[bi];B[cj]
+(;W[bl];B[ck]
+(;W[dk];B[cl]
+(;W[cm];B[gp]AB[dl]AW[el]AB[dm]AW[dn]AB[em]AW[fm]AB[en]AW[eo]AB[fn]AW[gn]AB[fo]AW[fp]AB[go]AW[ho]C[Hey, there's the ole ISS back again?]
+(;W[gq];B[hp]
+(;W[hq];B[ip];W[io]C[There's life Jim, just like we know it.RIGHT])
+(;W[ip];B[hq]))
+(;W[hp];B[gq]))
+(;W[dl];B[cm]))
+(;W[cl];B[dk]))
+(;W[ck];B[bl]))
+(;W[cj];B[bi]))
+(;W[ci];B[dj]))
+(;W[id];B[hc]))
+(;W[ic];B[jd]))
+(;W[jc];B[ib]))
+(;W[kc];B[lb]))
+(;W[lc];B[kd]))
+(;W[ph];B[qg]))
+(;W[qh];B[pi]))
+(;W[qi];B[rh]))
+(;W[qj];B[rk]))
+(;W[qk];B[pj]))
+(;W[pk];B[ql]))
+(;W[jj];B[mo]C[Black escapes, leaving White no hope of living anywhere.])
+(;W[mo];B[ln]C[Whoops.]))

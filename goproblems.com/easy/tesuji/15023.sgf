@@ -1,0 +1,16 @@
+(;GE[tesuji]DI[7k]DP[44]SO[transcend]CO[0]AB[bp]AB[bo]AB[dq]AB[ep]AB[eo]AW[br]AW[cr]AW[eq]AW[er]AW[gq]AW[co]AW[dp]AW[bn]AW[bm]C[Black to link up their stones.]AB[bq]AW[dm]AB[go]AB[fm]AW[ds]AP[goproblems]
+(;B[cn]
+(;W[cq]
+(;B[cp];W[dr];B[do]C[CHOICERIGHT])
+(;B[do];W[cp]))
+(;W[dn]
+(;B[cp];W[do])
+(;B[do];W[cm]
+(;B[cp]C[CHOICERIGHT])
+(;B[cq]C[RIGHT]))
+(;B[cq];W[do])))
+(;B[do];W[cp];B[cq];W[cn]C[Black is cut.])
+(;B[cp];W[do];B[dr];W[cq]C[Cut])
+(;B[cq];W[cn])
+(;B[dr];W[cq];B[do];W[cp])
+(;B[dn];W[cn]))

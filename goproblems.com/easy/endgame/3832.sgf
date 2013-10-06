@@ -1,0 +1,60 @@
+(;GE[endgame]DI[5k]DP[33]SO[marcusb]CO[8]AB[aq]AB[bq]AB[cq]AB[cr]AB[dq]AB[eq]AB[er]AW[ap]AW[bp]AW[cp]AW[dp]AW[ep]AW[fp]AW[fr]AW[fq]AW[fs]C[White just invaded 'your' corner with the stone A.  Defend it as good as possible!  Remember that there is no other place to play.FORCE]AW[ds]LB[ds:A]AP[goproblems]
+(;B[bs];W[es]C[FORCE]
+(;B[ar]C[Living with 2 points is the indeed the best you can do.  So much about 'your' corner!RIGHT])
+(;B[dr];W[ar]C[Oh no, you missed the vital point, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[cs];W[ar]C[Oh no, you missed the vital point, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[br]C[You filled your own eye space, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[as]C[You filled your own eye space, and now the black stones are all dead.  This is the worst possible outcome!]))
+(;B[ar];W[bs]C[FORCE]
+(;B[br];W[es]C[There is no space for the black stones to make two eyes, so they are all dead.  This is the worst possible outcome!])
+(;B[dr];W[es]C[There is no space for the black stones to make two eyes, so they are all dead.  This is the worst possible outcome!])
+(;B[as];W[es]C[There is no space for the black stones to make two eyes, so they are all dead.  This is the worst possible outcome!])
+(;B[cs];W[es]C[There is no space for the black stones to make two eyes, so they are all dead.  This is the worst possible outcome!])
+(;B[es];W[cs]C[FORCE]
+(;B[br]C[This is seki.  There are no points for either party.  This is not the best possible outcome for black!])
+(;B[dr]C[This is seki.  There are no points for either party.  This is not the best possible outcome for black!])
+(;B[as]C[This is seki.  There are no points for either party.  This is not the best possible outcome for black!])))
+(;B[br];W[es]C[FORCE]
+(;B[ar]C[There is no space for two eyes for black, so the black stones are all dead.  This is the worst possible outcome!])
+(;B[dr];W[cs]C[There is no space for two eyes for black, so the black stones are all dead.  This is the worst possible outcome!])
+(;B[as];W[cs]C[There is no space for two eyes for black, so the black stones are all dead.  This is the worst possible outcome!])
+(;B[bs]C[You filled your own eye space, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[cs];W[as]C[Black can not make two eyes, and now the black stones are all dead.  This is the worst possible outcome!]))
+(;B[dr];W[es]C[FORCE]
+(;B[ar];W[bs]C[Black did not succeed in making two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[br];W[cs]C[There is not enough room to make two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[as];W[cs]C[There is not enough room to make two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[bs];W[ar]C[You did not succeed in making two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[cs];W[bs]C[There is not enough room to make two eyes, and now the black stones are all dead.  This is the worst possible outcome!]))
+(;B[as];W[es]C[FORCE]
+(;B[ar];W[cs]C[There is not enough room to make two eyes, and now the black stones are dead.  This is the worst possible outcome!])
+(;B[br];W[cs]C[You did not succeed in making two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[dr];W[cs]C[There is not enough room for two eyes, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[bs]C[You filled your own eye space, and now the black stones are all dead.  This is the worst possible outcome!])
+(;B[cs];W[br]C[You did not succeed in making two eyes, and now the black stones are all dead.  This is the worst possible outcome!]))
+(;B[cs];W[es]C[]
+(;B[ar];W[bs]C[White played on the vital point, and now the black stones are dead.  This is the worst possible outcome!])
+(;B[br];W[as]C[White played on the vital point, and now the black stones are dead.  This is the worst possible outcome!])
+(;B[dr];W[bs]C[White played on the vital point, and now all the black stones are dead.  This is the worst possible outcome!])
+(;B[as];W[br]C[White denies black the two eyes needed to live.  The black stones are all dead.  This is the worst possible outcome!])
+(;B[bs];W[ar]C[White denies black the two eyes needed to live, and now the black stones are all dead.  This is the worst possible outcome!]))
+(;B[es];W[bs]C[FORCE]
+(;B[ar];W[cs]C[FORCE]
+(;B[br]C[This is seki, and nobody gets any points.  There is a better option for black.])
+(;B[dr]C[This is seki, and nobody gets any points.  There is a better option for black!])
+(;B[as]C[This is seki and nobody gets any points.  There is a better option for black!]))
+(;B[br];W[cs]C[FORCE]
+(;B[ar]C[This is seki, and nobody gets any points.  There is a better option for black!])
+(;B[dr];W[ar]C[Oops!  All black stones are dead.  This is the worst possible outcome!])
+(;B[as];W[ar]C[If black can win the ko, he has made 8 points.  But the ko is big for white, so usually it won't work.]MA[as]))
+(;B[dr];W[cs]C[FORCE]
+(;B[ar]C[This is seki.  Nobody gets any points.  There is a better option for black!])
+(;B[br];W[ar]C[Oops!  The black stones have been captured.  This is the worst possible outcome!])
+(;B[as];W[ar]C[The black stones are dead now.  This is the worst possible outcome!]MA[as]))
+(;B[as];W[cs]C[FORCE]
+(;B[ar]C[This is seki.  Nobody gets any points.  There is a better option for black!])
+(;B[br];W[ar]C[If black can win the ko, then he made 8 points.  But this ko is big for white, so usually this won't work.])
+(;B[dr];W[ar]C[If black can win the ko, he made 8 points.  But this ko is big for white, so usually it won't work.]))
+(;B[cs];W[ar]C[FORCE]
+(;B[br];W[dr]C[Oops!  The black stones have been captured.  This is the worst possible outcome!])
+(;B[dr]C[This is seki.  Black has caputered one white stone, so this is one point for black.  However, black has an even better option!]))))

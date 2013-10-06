@@ -1,0 +1,162 @@
+(;GE[endgame]DI[6k]DP[38]SO[SeerRus]CO[0]AW[br]AW[cq]AW[dr]AW[ds]AW[cp]AW[bo]AW[cn]AW[cm]AW[dm]AW[cl]AW[ck]AW[bk]AW[ak]AB[es]AB[er]AB[eq]AB[dq]AB[dp]AB[do]AB[co]AB[dn]AB[en]AB[em]AB[el]AB[dl]AB[dj]AB[dk]AB[cj]AB[bj]AB[aj]C[try to kill some white stones]AP[goproblems]
+(;B[bp]
+(;W[bq]C[]
+(;B[bn]
+(;W[ap];B[bm]C[];W[an]
+(;B[am];W[ao]C[seki])
+(;B[al];W[ao])
+(;B[bl];W[am];B[al];W[ao]C[You can do better]))
+(;W[ao]C[]
+(;B[an];W[ap]
+(;B[bm];W[al]C[seki])
+(;B[al];W[bm])
+(;B[bl];W[bm])
+(;B[am];W[bm]))
+(;B[bm]
+(;W[an]C[]
+(;B[bl];W[am];B[al];W[ap]C[You can do better])
+(;B[am];W[ap]C[seki])
+(;B[al];W[ap]LB[fj:Tenuki]C[Maybe tenuki?]
+(;B[am];W[bl]C[be careful])
+(;B[bl]C[you don't need this])
+(;B[fj]C[yes, white is dead anywayRIGHT])))
+(;W[am]
+(;B[bl]
+(;W[an])
+(;W[ap]C[Maybe tenuki?]LB[fj:Tenuki]
+(;B[fj]C[yes, white is dead anywayRIGHT])
+(;B[al];W[an]C[It's right, but you didn't need kill right now])))
+(;B[al]C[Snapback and atari for A7! Best result!RIGHT]
+(;W[an];B[ap]C[RIGHT])
+(;W[ap];B[an]C[RIGHT])
+(;W[bl];B[al]
+(;W[an];B[ap]C[RIGHT])
+(;W[ap];B[an]C[RIGHT])))
+(;B[an];W[bl]C[oO]))
+(;W[ap]
+(;B[an])
+(;B[al];W[an])
+(;B[am];W[an]C[seki])
+(;B[bl]
+(;W[an]C[Maybe tenuki?]LB[fj:Tenuki]
+(;B[fj]C[yes, white is dead anywayRIGHT])
+(;B[al]C[you don't need this]))
+(;W[am]C[Maybe tenuki?]LB[fj:Tenuki]))))
+(;B[am];W[bm]C[white is live])
+(;B[al];W[bm])))
+(;B[ap];W[bn]C[You miss your chanÑâ–Ð‘âˆšâ–‘Ð¿â–’Ð‘â”¬Â Ð‘âˆšâ–’Ð¿Â©Ð‘âˆšâ–“Ð¿â–’Ð‘â”¬Â Ð‘âˆ™â–‘Ð¿â–’Ð‘âˆšâ•Ð‘âˆšâ””e]))
+(;W[bn]C[CHOICE]
+(;B[bq];W[cr]C[not right])
+(;B[cr]
+(;W[cs]C[];B[bq]
+(;W[cr];B[ar];W[ap];B[bs];W[am]C[RIGHT])
+(;W[ap]C[];B[cr];W[aq];B[bs];W[ar]
+(;B[ao];W[an]
+(;B[am]C[CoolRIGHT])
+(;B[bm]C[CoolRIGHT])
+(;B[bl]C[CoolRIGHT])
+(;B[al]C[CoolRIGHT]))
+(;B[cs]
+(;W[am]C[];B[ao]
+(;W[an];B[bl]C[White made mistakeRIGHT])
+(;W[bl]C[];B[as]C[White is liveRIGHT]))
+(;W[ao];B[am]C[White made mistakeRIGHT])))
+(;W[aq];B[cr]
+(;W[bs]
+(;B[ap]
+(;W[ao];B[am]C[RIGHT])
+(;W[am]C[]
+(;B[ao];W[bl]C[RIGHT])
+(;B[bl];W[ao])))
+(;B[ar]
+(;W[ao]
+(;B[am];W[ap]C[RIGHT])
+(;B[ap];W[am])
+(;B[as];W[am]))
+(;W[am];B[ao];W[bl]C[RIGHT]))
+(;B[am];W[ap]C[White have chance to live. Finish him]
+(;B[ao];W[an];B[ar]C[NiceRIGHT])
+(;B[an];W[ar]
+(;B[ao];W[cq];B[cp];W[al]C[2 eyes!])
+(;B[al];W[ao]C[2 eyes!])
+(;B[bm];W[ao]C[2 eyes!])
+(;B[bl]C[2 eyes!])
+(;B[cq];W[ao]C[2 eyes!]))
+(;B[ar]C[NiceRIGHT])))
+(;W[ap])
+(;W[ar]
+(;B[ap]
+(;W[ao];B[am]C[RIGHT])
+(;W[am];B[ao];W[bl]C[RIGHT]))
+(;B[bs];W[ap])))
+(;W[ao];B[am]C[White is deadRIGHT]))
+(;W[bq]C[CHOICE]
+(;B[cs];W[bs]C[])
+(;B[bs];W[ar]C[Thanks kaf for B1 RIGHT]))
+(;W[ap]C[];B[bq]
+(;W[am]C[]
+(;B[ao];W[bl]C[RIGHT])
+(;B[bl];W[ao]))
+(;W[ao];B[am]C[RIGHT]))
+(;W[am]C[]
+(;B[ao];W[bq])
+(;B[ap];W[bq])
+(;B[bq];W[ao]C[RIGHT])))
+(;B[cs];W[cr]C[Fail]))
+(;W[ap]C[];B[bn]
+(;W[bq])
+(;W[ao]
+(;B[bm];W[bq])
+(;B[an];W[bq]C[]))))
+(;B[bn]
+(;W[bm]C[]
+(;B[bp];W[an]
+(;B[bq];W[cr]C[just losses])
+(;B[cr]
+(;W[bq]C[]
+(;B[cs];W[bs]C[RIGHT])
+(;B[bs];W[ar]C[B1 better than C1 (from tails)RIGHT]))
+(;W[cs]C[];B[bq]
+(;W[cr];B[ar]C[White made mistakeRIGHT])
+(;W[ap];B[cr];W[aq]
+(;B[cq]C[RIGHT])
+(;B[bs];W[ar]C[RIGHT]))
+(;W[aq];B[cr];W[ap]))
+(;W[ap]C[];B[bq];W[aq]
+(;B[bs];W[ar]C[RIGHT])
+(;B[ar];W[as]))))
+(;B[cr];W[bq]))
+(;W[bp]C[]
+(;B[am];W[bm])
+(;B[bm];W[an]
+(;B[am];W[ao]C[seki])
+(;B[al]C[rightRIGHT])
+(;B[bl];W[am];B[al];W[ao]C[right, but A8 is betterRIGHT])))
+(;W[ao]C[]
+(;B[bm]C[];W[bp]C[white top is deadRIGHT])
+(;B[am];W[bm])
+(;B[an];W[bm];B[bp];W[am];B[cr];W[bq];B[cs])
+(;B[bp];W[ap])))
+(;B[cr]
+(;W[bq]C[White is cleverCHOICE]
+(;B[bs];W[ar]C[Black didn't believe to one's own luck, and white plays optimal. Worst variant for black.RIGHT])
+(;B[cs];W[bs]))
+(;W[cs]C[White made big mistake]
+(;B[bp]
+(;W[bq]C[];B[bn]
+(;W[ap]C[]
+(;B[bm]C[White lose top stones.RIGHT])
+(;B[an];W[bm])
+(;B[am];W[bm]))
+(;W[ao]
+(;B[an];W[ap];B[bm];W[al]C[seki])
+(;B[bm]C[White lose top stones.RIGHT])
+(;B[am];W[bm])))
+(;W[bn]C[]))
+(;B[bn]
+(;W[bm];B[bp];W[an])
+(;W[bp];B[bm]C[White top is deadRIGHT])
+(;W[ao]
+(;B[bm]C[White top is deadRIGHT])
+(;B[am];W[bm])
+(;B[an];W[bp];B[bm];W[al]C[seki]))))))

@@ -1,0 +1,52 @@
+(;GE[endgame]DI[5k]DP[33]SO[santa c]CO[7]AB[rq]AB[qq]AB[pr]AB[or]AW[pq]AW[oq]AW[mq]AW[rp]AW[qp]AW[qo]AW[qn]AB[ro]AB[rn]AW[oo]AB[qm]AB[rm]AW[pm]AB[pl]C[Anything in the corner?]AW[kr]AP[goproblems]
+(;W[rr]C[Black could now chose to play T2/T4 along with T4/T2 for a capture and capture back. It's bigger for black by a point (2points denied in the corner and 2-1(captured), lost) but it's gote.]
+(;B[sp]
+(;W[qr];B[sq]
+(;W[sr];B[so]
+(;W[nr]C[Well done! ;)CHOICERIGHT])
+(;W[ps];B[nr];W[mr];B[rs]
+(;W[qs];B[os])
+(;W[os];B[qs];W[ss];B[qs];W[rs];B[qs])
+(;W[ns];B[qs];W[ss];B[qs];W[rs];B[qs])
+(;W[nq];B[qs];W[ss];B[qs];W[rs];B[qs]))
+(;W[os];B[nr];W[mr];B[qs])
+(;W[qs];B[nr];W[mr];B[ps])
+(;W[rs];B[nr];W[mr];B[ps]
+(;W[nq];B[qs])
+(;W[ns];B[qs])))
+(;W[nr];B[sr]C[You should play T2 first :S])
+(;W[so];B[sn]
+(;W[sr];B[so];W[nr]C[Well done..RIGHT])
+(;W[nr];B[sr]C[You should play T2 first :S])))
+(;W[sr];B[qr]C[:S])
+(;W[nr];B[qr]C[:S])
+(;W[sq];B[sr];W[qr];B[sq];W[nr];B[qs]C[:S])
+(;W[so];B[sr];W[sq]C[Ko :S]MA[sp]))
+(;B[sq]
+(;W[qr];B[sp]
+(;W[sr];B[so];W[nr]C[Well done! ;)RIGHT])
+(;W[so]C[NOTTHIS]))
+(;W[sp];B[qr]
+(;W[rs];B[qs]C[Can't take away the eye at P1 because black can chase it for 3 steps.])
+(;W[nr];B[rs]C[:S]))
+(;W[so];B[qr]
+(;W[rs];B[sp]C[:(])
+(;W[nr];B[sp]C[:(])
+(;W[qs];B[sp]C[:(])
+(;W[sp];B[nr]C[:(])))
+(;B[sr]
+(;W[qr];B[sp];W[sq];B[rq]C[Well done! ;)CHOICERIGHT])
+(;W[sp];B[rs]C[:S])
+(;W[rs];B[qs];W[os]C[Can't deny the second eye at P1 because black can chase it for 3 steps!])))
+(;W[sq];B[sr]
+(;W[rr];B[sp]C[:S])
+(;W[sp];B[rs]C[:S])
+(;W[rs];B[sp]C[:S])
+(;W[qs];B[sp]C[:S])
+(;W[qr];B[sp]C[:S]))
+(;W[sp];B[sr];W[rs];B[qs]
+(;W[rr];B[os];W[sq];B[qr]C[:S])
+(;W[os];B[nr]C[... :S])
+(;W[nr];B[os]C[:S]))
+(;W[qr];B[rr]C[:S])
+(;W[nr];B[sp]C[:S]))

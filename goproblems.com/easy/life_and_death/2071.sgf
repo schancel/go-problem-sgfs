@@ -1,0 +1,65 @@
+(;GE[life and death]DI[10k]DP[51]SO[Tropsy]CO[7]RU[Japanese]SZ[9]KM[0.00]
+AW[hf][gg][ig][gh][hi]AB[hd][he][ff][gf][fg][fh]
+(;B[ih]CR[ih]
+(;W[ii]CR[ii]C[CHOICE]
+(;B[ie]CR[ie]
+;W[hh]CR[hh]
+;B[if]CR[if]C[RIGHT
+White has no two eyes])
+(;B[hh]CR[hh]C[RIGHT
+White can only make one eye.])
+(;B[if]CR[if]
+;W[ie]CR[ie]
+(;B[id]CR[id]
+;W[hh]CR[hh]C[Ko, you can do better.])
+(;B[hh]CR[hh]C[RIGHT]))
+(;B[hg]CR[hg]
+;W[hh]CR[hh])
+(;B[gi]CR[gi]
+;W[hh]CR[hh])
+(;B[fi]CR[fi]
+;W[hh]CR[hh]))
+(;W[hh]CR[hh]C[CHOICE]
+(;B[if]CR[if]
+;W[ie]CR[ie]
+;B[id]CR[id]
+;W[ii]CR[ii]C[Ko, you can do better.])
+(;B[ie]CR[ie]
+;W[ii]CR[ii]
+;B[if]CR[if]C[RIGHT])
+(;B[fi]CR[fi]
+;W[ii]CR[ii])
+(;B[id]CR[id]
+;W[if]CR[if]C[White has two eyes.])))
+(;B[hh]CR[hh]
+;W[ih]CR[ih]C[White has 2 eyes])
+(;B[hg]CR[hg]
+;W[hh]CR[hh]C[White has two eyes.])
+(;B[ii]CR[ii]
+;W[ih]CR[ih])
+(;B[ie]CR[ie]
+;W[ih]CR[ih]
+(;B[hg]CR[hg]
+;W[if]CR[if]C[White has 2 eyes.])
+(;B[if]CR[if]
+;W[hg]CR[hg]))
+(;B[fi]CR[fi]
+;W[hh]CR[hh]C[White has two eyes.])
+(;B[gi]CR[gi]
+;W[ih]CR[ih])
+(;B[if]CR[if]
+;W[ie]CR[ie]
+(;B[ih]CR[ih]
+;W[hh]CR[hh]
+;B[id]CR[id]
+;W[ii]CR[ii]C[Ko; you can do better.])
+(;B[hh]CR[hh]
+;W[ih]CR[ih])
+(;B[id]CR[id]
+;W[ih]CR[ih]
+(;B[if]CR[if]
+;W[hg]CR[hg])
+(;B[hg]CR[hg]
+;W[if]CR[if]))
+(;B[hg]CR[hg]
+;W[hh]CR[hh])))

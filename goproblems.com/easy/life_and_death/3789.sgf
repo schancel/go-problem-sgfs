@@ -1,0 +1,19 @@
+(;GE[life and death]DI[25k]DP[75]SO[ellbur]CO[7]AB[ab]AB[bc]AB[cb]AB[ba]AW[ae]AW[be]AW[bd]AW[cd]AW[cc]AW[dc]AW[db]AW[eb]AW[ea]AP[goproblems]
+(;W[ac];B[ad]MA[ac]
+(;W[ca];B[da]C[]MA[ca]
+(;W[ac]C[Double Ko, black cannot win them bothRIGHT])
+(;W[ca]C[NOTTHIS]))
+(;W[da];B[ca]C[Ko is not best])
+(;W[ac]C[NOTTHIS]))
+(;W[ca];B[da]MA[ca]
+(;W[ac];B[ad]MA[ac]
+(;W[ca]C[RIGHT])
+(;W[ac]C[NOTTHIS]))
+(;W[ad];B[ac]C[Ko is not best])
+(;W[ca]C[NOTTHIS]))
+(;W[ad];B[ac]
+(;W[ca];B[da]C[Ko is not best])
+(;W[da];B[ca]C[Black is alive]))
+(;W[da];B[ca]
+(;W[ac];B[ad]C[Ko is not best])
+(;W[ad];B[ac]C[Black is alive])))

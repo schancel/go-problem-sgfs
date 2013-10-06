@@ -1,0 +1,27 @@
+(;GE[life and death]DI[4k]DP[30]SO[whendrik]CO[0]AW[ab]AW[bb]AW[bc]AW[ca]AW[cd]AW[ce]AW[dc]AW[ec]AW[eb]AB[da]AB[ac]AB[bd]AB[be]AB[cf]AB[df]AB[ed]AB[fd]AB[fc]AB[fb]AB[fa]AP[goproblems]
+(;B[ba]
+(;W[aa]C[CHOICE]
+(;B[cb];W[db];B[ba]C[Indeed, Ko. Well done!RIGHT])
+(;B[ea];W[db]))
+(;W[cb];B[ea]C[RIGHT]))
+(;B[cb];W[ba]
+(;B[db];W[ea])
+(;B[cc];W[db])
+(;B[ea];W[db])
+(;B[dd];W[cc]))
+(;B[ea];W[db])
+(;B[db];W[ea])
+(;B[cc];W[db]
+(;B[dd];W[ea])
+(;B[de];W[cb])
+(;B[ea];W[dd]))
+(;B[dd];W[ea]
+(;B[db];W[cb])
+(;B[cb];W[ba])
+(;B[cc];W[cb])
+(;B[de];W[cc]))
+(;B[de];W[db]
+(;B[cc];W[dd])
+(;B[ea];W[cc])
+(;B[cb];W[cc])
+(;B[ba];W[ea])))

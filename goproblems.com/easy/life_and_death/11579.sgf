@@ -1,0 +1,50 @@
+(;GE[life and death]DI[5k]DP[35]SO[awa]CO[0]AW[pb]AW[ob]AW[nc]AW[mc]AW[kc]AW[lc]AB[ma]AB[mb]AB[lb]AW[kb]AW[ja]AB[jb]AB[jc]AB[hb]AB[jd]AB[gc]AB[gd]AB[ke]AB[le]AB[me]AB[ne]AB[qb]AB[qc]AB[pd]AB[oe]AW[pa]C[A rather simplistic problem. Your task is simple: KIll White.]AP[goproblems]
+(;B[na]
+(;W[nb];B[la]C[Very good, White is left with a bulky five eye-shape. You have succeeded in your mission. Have a cookie.RIGHT])
+(;W[la]
+(;B[nb]C[Very good, White is left with a bulky five eye-shape. You have succeeded in your mission. Have a cookie.RIGHT])
+(;B[ka];W[nb]
+(;B[la];W[oa]
+(;B[ma];W[la];B[mb]C[Very good, you have succeeded in your mission. Have a cookie.RIGHT])
+(;B[la];W[ma]
+(;B[ka];W[lb]C[You have failed in your mission. Game Over.])
+(;B[ia];W[ka]C[You have failed in your mission. Game Over.]))
+(;B[ka];W[la]
+(;B[ma];W[mb]C[You have failed in your mission. Game Over.])
+(;B[mb];W[ma]C[You have failed in your mission. Game Over.]))
+(;B[lb];W[la]
+(;B[ma];W[mb]C[You have failed in your mission. Game Over.])
+(;B[mb];W[ma]C[You have failed in your mission. Game Over.]))
+(;B[mb];W[ma]
+(;B[la];W[lb]C[You have failed in your mission. Game Over.])
+(;B[lb];W[la]C[You have failed in your mission. Game Over.]))
+(;B[na];W[ma]
+(;B[la];W[lb]C[You have failed in your mission. Game Over.])
+(;B[lb];W[la]C[You have failed in your mission. Game Over.])))
+(;B[ia];W[oa]
+(;B[ja];W[la]
+(;B[ma];W[mb];B[lb]C[Favorable ko for Black, but you could have killed unconditionally.])
+(;B[mb];W[ma]C[You have failed in your mission. Game Over.]))
+(;B[la];W[ja]
+(;B[ma];W[la];B[mb]C[Very good, you have succeeded in your mission. Have a cookie.RIGHT])
+(;B[ka];W[ma]
+(;B[lb];W[la]C[You have failed in your mission. Game Over.])
+(;B[la];W[lb]C[You have failed in your mission. Game Over.]))
+(;B[la];W[ma]
+(;B[lb];W[ka]C[You have failed in your mission. Game Over.])
+(;B[ka];W[lb]C[You have failed in your mission. Game Over.]))))))
+(;W[oc]C[CHOICE]
+(;B[ka]
+(;W[nb]
+(;B[ia];W[oa]
+(;B[la];W[ja]
+(;B[ma]C[RIGHT])
+(;B[ka];W[ma])
+(;B[la];W[ma]))
+(;B[ja];W[la]))
+(;B[la];W[oa];B[ma]C[RIGHT]))
+(;W[la];B[nb]C[RIGHT]))
+(;B[la];W[ka])
+(;B[nb];W[ka])
+(;B[ia];W[ka])))
+(;B[nb];W[na];B[oa];W[la];B[ka];W[na]C[An unfavorable ko for Black, as the threat at m19 is unremovable. Even if black takes the ko at j19, there is an oiotoshi at m19. You have failed. Game Over.]))

@@ -1,0 +1,40 @@
+(;GE[life and death]DI[12k]DP[55]SO[mikake]CO[0]AB[qr]AB[qq]AB[pq]AB[or]AB[nr]AB[mr]AB[lr]AB[kr]AB[jr]AW[ir]AW[hs]AW[gr]AB[fs]AB[gs]AB[fr]AB[fq]AB[fp]AW[gp]AW[gq]AB[dp]AB[cn]AW[jq]AW[lq]AW[nq]AW[mq]AW[oq]AW[pp]AW[qp]AW[rq]AW[rr]AW[ko]AW[qs]C[Black just answered A to white R1, hoping to save his three stones at the right.  White to kill.]AB[pr]LB[pr:A]AW[jp]AW[oo]AP[goproblems]
+(;W[js];B[ks]
+(;W[ps]
+(;B[is]
+(;W[hr];B[os];W[ms];B[rs]
+(;W[qs]C[correct! Black is dead now.RIGHT])
+(;W[js];B[qs]C[wrong, black has got his two eyes now!CHOICE]))
+(;W[os];B[hr]C[Wrong, black is safe nowCHOICE]))
+(;B[os]
+(;W[ms];B[rs]
+(;W[qs]C[correct! Black is dead now.RIGHT])
+(;W[is];B[qs]C[CHOICE]))
+(;W[rs];B[ms]C[Wrong, black is alive.CHOICE])))
+(;W[is];B[ps]C[wrong, Black is alive now !CHOICE])
+(;W[ms]
+(;B[ps]
+(;W[ns];B[is];W[hr]C[correct! black is dead now.RIGHT])
+(;W[rs];B[ns]C[CHOICE]))
+(;B[ns];W[ps];B[os];W[kq];B[ls];W[ms]))
+(;W[ns];B[ms]C[wrong, black is alive now!CHOICE]))
+(;W[ps];B[os]
+(;W[js]
+(;B[rs]
+(;W[qs];B[ks]
+(;W[ms]C[correct! Black is dead now.RIGHT])
+(;W[is];B[ms]C[wrong, black has got his two eyes now!CHOICE]))
+(;W[ks];B[qs];W[ls];B[ms]C[wrong, black has got his two eyes now!CHOICE]))
+(;B[ks]))
+(;W[rs];B[js]C[Wrong, black is alive!]
+(;W[ms];B[ls]C[])
+(;W[ls];B[ms]))
+(;W[ls];B[ms]C[wrong, black is alive now!CHOICE])
+(;W[ms];B[rs];W[qs];B[js];W[ls];B[is];W[hr]C[correct! black is dead now.RIGHT]))
+(;W[ms]
+(;B[js]
+(;W[ls];B[ps];W[ns];B[is];W[hr]C[wrong, you only get a seki now!CHOICE])
+(;W[ns];B[ls]C[CHOICE]))
+(;B[ps]
+(;W[ns];B[js];W[ls];B[is];W[hr]C[wrong, you only get a seki now!CHOICE])
+(;W[ls];B[ns]C[CHOICE]))))

@@ -1,0 +1,46 @@
+(;GE[life and death]DI[2k]DP[21]SO[MeleeNewb]CO[8]AB[hr]AB[ir]AB[jq]AB[kq]AB[lq]AB[mq]AB[mr]AW[gr]AW[gq]AW[hq]AW[iq]AW[jp]AW[kp]AW[lp]AW[np]AW[mp]AW[nq]AW[nr]C[Is this group alive (A), dead (D), or must black still play there (P)?FORCE]LB[go:A]LB[ho:D]LB[io:P]AW[ns]LB[aa: ]AW[an]AP[goproblems]
+(;B[io];W[ip]C[Then bring it to life.]
+(;B[kr]
+(;W[ls];B[ms];W[js];B[ks];W[hs];B[jr]C[Good job!RIGHT])
+(;W[js];B[ks];W[ms];B[ls];W[hs];B[jr]C[Good job!RIGHT]))
+(;B[js];W[kr]
+(;B[hs];W[ls]
+(;B[ms];W[jr])
+(;B[ks];W[ms]
+(;B[lr];W[jr])
+(;B[jr];W[lr]))
+(;B[lr];W[ms]
+(;B[jr];W[ks])
+(;B[ks])))
+(;B[ks];W[hs]
+(;B[ms];W[lr])
+(;B[lr];W[ms]))
+(;B[lr];W[hs]
+(;B[ks])
+(;B[ms];W[ks])))
+(;B[hs];W[js]
+(;B[ks];W[kr];B[ls];W[jr])
+(;B[jr];W[ls]
+(;B[ms];W[kr])
+(;B[kr];W[ms]))
+(;B[ms];W[jr])
+(;B[kr];W[ls];B[ms];W[jr]))
+(;B[ms];W[hs]
+(;B[is];W[jr];B[gs];W[js])
+(;B[js];W[kr])
+(;B[kr];W[js])
+(;B[ks];W[jr])
+(;B[jr];W[ks])
+(;B[ls];W[jr]))
+(;B[ks]
+(;W[hs];B[is];W[jr];B[gs];W[kr]))
+(;B[ls];W[hs]
+(;B[kr];W[js])
+(;B[js];W[kr])
+(;B[is];W[jr])
+(;B[jr];W[kr]
+(;B[ks];W[is])
+(;B[is];W[ks]))
+(;B[ks];W[jr])))
+(;B[ho]C[No, black still has a chance at survival.])
+(;B[go]C[No, black isn't alive yet. For fun though you might try to find the only local move white has that wont kill black.]))

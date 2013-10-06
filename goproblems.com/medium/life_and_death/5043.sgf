@@ -1,0 +1,59 @@
+(;GE[life and death]DI[1k]DP[19]SO[karmaGfa]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanc]PB[Noir]AW[no][oo][po][qo][so][np][qp][rp][nq][oq][pq][pr]AB[nm][om][pm][qm][mn][rn][mo][ro][mp][sp][mq][qq][nr][or][qr][ps]C[White to play]PL[W]
+(;W[rq]CR[rq]
+;B[rs]CR[rs])
+(;W[rr]CR[rr]
+;B[rs]CR[rs])
+(;W[rs]CR[rs]
+;B[rr]CR[rr]
+(;W[rq]CR[rq]
+(;B[qs]CR[qs]C[CHOICE]
+;W[sr]CR[sr]
+;B[ss]CR[ss]C[RIGHT Ko for life])
+(;B[sr]CR[sr]C[CHOICE]
+;W[qs]CR[qs]
+;B[ss]CR[ss]
+;W[qs]CR[qs]
+;B[rs]CR[rs]
+;W[sq]CR[sq]C[RIGHT Alive]))
+(;W[sr]CR[sr]
+;B[qs]CR[qs]
+;W[rq]CR[rq]
+;B[ss]CR[ss]C[RIGHT Ko for life])
+(;W[qs]CR[qs]
+;B[ss]CR[ss]
+;W[qs]CR[qs]
+;B[rs]CR[rs]
+;W[rq]CR[rq]
+;B[mr]CR[mr]
+(;W[sr]CR[sr]
+;B[sq]CR[sq]
+;W[sr]CR[sr]
+;B[sq]CR[sq]
+;W[sp]CR[sp]
+;B[os]CR[os])
+(;W[sq]CR[sq]
+;B[os]CR[os]
+;W[sr]CR[sr]
+;B[qs]CR[qs])))
+(;W[sq]CR[sq]
+;B[rs]CR[rs])
+(;W[sr]CR[sr]
+;B[rs]CR[rs])
+(;W[ss]CR[ss]
+;B[sr]CR[sr]
+(;W[rs]CR[rs]
+;B[qs]CR[qs])
+(;W[rq]CR[rq]
+;B[rs]CR[rs]
+;W[rr]CR[rr]
+;B[mr]CR[mr]
+(;W[sq]CR[sq]
+;B[os]CR[os]
+(;W[ss]CR[ss]
+;B[qs]CR[qs])
+(;W[qs]CR[qs]
+;B[qr]CR[qr]))
+(;W[qs]CR[qs]
+;B[qr]CR[qr]))))

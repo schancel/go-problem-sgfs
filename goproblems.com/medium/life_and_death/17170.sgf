@@ -1,0 +1,18 @@
+(;GE[life and death]DI[2k]DP[22]SO[pmurk]CO[0]SZ[19]C[Black to play.
+
+http://gogameguru.com/]AW[op]AW[pp]AW[oq]AW[qq]AW[or]AW[rr]AW[sr]AB[no]AB[oo]AB[po]AB[np]AB[qp]AB[rp]AB[nq]AB[rq]AB[nr]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SO[http://gogameguru.com/]
+(;B[pr];W[ps]
+(;B[qs];W[os]
+(;B[ns]C[RIGHT])
+(;B[pq];W[qr])
+(;B[qr];W[rs];B[pq];W[qq]))
+(;B[qr];W[qs];B[pq];W[qq]))
+(;B[os];W[pr])
+(;B[qr];W[pr])
+(;B[pq];W[pr])
+(;B[qs];W[qr]
+(;B[os];W[pr];B[ps];W[rs])
+(;B[pr];W[os]))
+(;B[ps];W[pr]
+(;B[os];W[qs])
+(;B[qs];W[os])))

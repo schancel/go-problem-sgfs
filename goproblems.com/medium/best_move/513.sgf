@@ -1,0 +1,54 @@
+(;GE[best move]DI[3k]DP[24]SO[adum]CO[7]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];
+AW[dj][cl][fl][gm][cn][co][cp][fp][hp][dq]
+AB[ek][gk][dm][dn][do][ep][kp][eq][er]LB[fl:1]
+C[white peeps at 1. how to stay connected?
+]
+(;B[cm];W[bm]
+(;B[dl];W[ck];B[fk]C[RIGHT
+connected
+])
+
+(;B[fk];W[dl]
+(;B[el];W[em])
+
+(;B[dk];W[ck];B[el];W[em])
+)
+
+(;B[dk];W[ck];B[fk];W[dl];B[el];W[em])
+)
+
+(;B[fk];W[dl]
+(;B[el];W[em]C[cut
+])
+
+(;B[em];W[el])
+
+(;B[cm];W[bm];B[el];W[em])
+)
+
+(;B[dk];W[ck]
+(;B[fk];W[dl];B[el];W[em])
+
+(;B[cm];W[bm];B[fk];W[dl];B[el];W[em])
+)
+
+(;B[el];W[fk]
+(;B[cm];W[bm];B[ck];W[bk])
+
+(;B[ck];W[bk])
+)
+
+(;B[dl]
+(;W[ck];B[fk]C[RIGHT
+])
+
+(;W[fk];B[cm];W[bm];B[bl];W[ck];B[bn])
+)
+
+)

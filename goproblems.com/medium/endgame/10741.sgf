@@ -1,0 +1,18 @@
+(;GE[endgame]DI[3k]DP[24]SO[llel]CO[7]AB[ep]AB[fo]AB[fn]AB[en]AB[dn]AB[cn]AW[do]AW[eo]AW[cp]AW[fp]AW[go]AW[gq]AW[iq]C[BLack to gain the most profit]AP[goproblems]
+(;B[bp];W[bq];B[cq];W[dq]C[Not enough])
+(;B[bo];W[bp];B[ap];W[aq];B[ao];W[br]C[Not enough])
+(;B[bq]C[This is a tesuji]
+(;W[eq]C[CHOICE];B[bp]C[Good!RIGHT])
+(;W[bp]C[strongest move.How to punish?CHOICE];B[dp];W[co];B[cq]C[Good!RIGHT]))
+(;B[co];W[dp];B[bp];W[bq]
+(;B[bo];W[cr]C[Not enough])
+(;B[cq];W[dq]
+(;B[br];W[aq])
+(;B[bo];W[cr])
+(;B[cr];W[bo])))
+(;B[eq];W[cq])
+(;B[cq];W[bq]
+(;B[co];W[dp];B[bp];W[dq];B[br];W[aq])
+(;B[dp];W[co]
+(;B[dq];W[br])
+(;B[bo];W[bp];B[bn];W[dq]))))

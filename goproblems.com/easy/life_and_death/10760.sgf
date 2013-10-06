@@ -1,0 +1,14 @@
+(;GE[life and death]DI[8k]DP[49]SO[golab]CO[8]SZ[9]AW[da]AW[ea]AW[fa]AW[ha]AW[fb]AW[gb]AW[dc]AW[gc]AW[cd]AW[dd]AW[gd]AW[be]AW[ce]AW[ee]AW[fe]AW[ge]AW[af]AW[cf]AW[ef]AW[cg]AW[dg]AW[bh]AW[ch]AW[bi]AB[ba]AB[db]AB[eb]AB[hb]AB[ib]AB[bc]AB[cc]AB[ec]AB[fc]AB[hc]AB[ad]AB[bd]AB[ed]AB[hd]AB[ae]AB[he]AB[ff]AB[gf]AB[bg]AB[eg]AB[dh]AB[ci]AB[di]LB[da:A]C[White has just played A. Black to live and win the game (komi is 0.5).]AB[fh]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.50]CP[Karol Golab]GC[A problem for goproblems.com, based on a game played or seen on KGS.]
+(;B[ab];W[cb]
+(;B[bb];W[ca]C[Black lives but there is a better way for Black in this sequence.RIGHT])
+(;B[ca];W[fd]C[Black lives with maximum profit.RIGHT]))
+(;B[cb];W[ab]C[Black group is dead.])
+(;B[bb];W[ab]LB[cb:A]C[Black group is dead - A cannot become a real eye.])
+(;B[ca];W[ab]C[Black is dead now. You can explore further if you like.]
+(;B[bb]LB[cb:A]C[A is a false eye so Black has only one eye.])
+(;B[cb]C[Basic nakade - Black cannot get two eyes.]))
+(;B[ag];W[ab]LB[bf:A]LB[ah:B]C[White group has two eyes (A and B are miai for the second eye) and Black group has only one.You can explore further if you like.]
+(;B[cb]C[Basic nakade - Black cannot get two eyes.])
+(;B[bb]LB[cb:A]C[A is a false eye so Black has only one eye.])
+(;B[bf];W[ah]LB[af:A]C[White is safe and A is not an eye for Black.])
+(;B[ah];W[bf]C[White is safe now so Black corner is dead.])))

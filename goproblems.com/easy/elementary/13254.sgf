@@ -1,0 +1,18 @@
+(;GE[elementary]DI[7k]DP[40]SO[Hanami]CO[0]AB[gq]AB[lq]AW[hs]AB[lr]AB[ls]AB[jr]AB[is]AW[ko]AW[mq]AW[mr]AW[ms]AW[lp]AB[gp]AB[ho]AW[hn]AW[go]AW[fp]AW[fq]AW[fn]AW[in]AB[ip]AB[ks]AW[hr]AW[fr]AB[ir]AW[iq]AB[jp]AW[gr]C[White to kill, or at least get a Ko for the kill]AW[mo]AP[goproblems]
+(;W[kq]C[];B[jq]C[Sweet! But what now?]
+(;W[kp];B[hq]C[And that's it, go for the last blow]
+(;W[io]
+(;B[hp]C[The last one now...]
+(;W[kr]C[Good job! Now the marked space is a false eye!RIGHT]TR[js])
+(;W[jo];B[kr]C[Black lives!]))
+(;B[kr];W[hp]C[RIGHT]))
+(;W[kr];B[io]C[black lives with the marked group!]TR[is]TR[ir]TR[jr]TR[jq]TR[jp]TR[ip]TR[io]TR[ho]TR[gp]TR[gq]TR[hq]))
+(;W[hq];B[kp]TR[is]TR[ir]TR[jr]TR[jq]TR[jp]TR[ip]TR[kp]TR[lq]TR[lr]TR[ls]TR[ks]C[Nope, this group is alive])
+(;W[kr];B[kp]TR[is]TR[ir]TR[jr]TR[jq]TR[jp]TR[ip]TR[kp]TR[lq]TR[lr]TR[ls]TR[ks]C[Nope, this group is alive])
+(;W[hp];B[kp]C[Nope, this group is alive]TR[is]TR[ir]TR[jr]TR[jq]TR[ip]TR[jp]TR[kp]TR[lq]TR[lr]TR[ls]TR[ks])
+(;W[io];B[kp]))
+(;W[io];B[kq]C[No, this group is alive]TR[kq]TR[lq]TR[lr]TR[ls]TR[ks]TR[jr]TR[ir]TR[is])
+(;W[kp];B[kq]C[Nope, this group is alive!]TR[is]TR[ir]TR[jr]TR[ks]TR[ls]TR[lr]TR[lq]TR[kq])
+(;W[jq];B[kq]C[Nope, this group is alive!]TR[ks]TR[ls]TR[lr]TR[lq]TR[kq]TR[jr]TR[ir]TR[is])
+(;W[hp];B[kq]C[No, this group is alive]TR[is]TR[ir]TR[jr]TR[kq]TR[lq]TR[lr]TR[ls]TR[ks])
+(;W[hq];B[kq]C[No, this group is alive]TR[is]TR[ir]TR[jr]TR[ks]TR[ls]TR[lr]TR[lq]TR[kq]))

@@ -1,0 +1,44 @@
+(;GE[fuseki]DI[4d]DP[8]SO[Spirit]CO[8]GM[1]
+FF[4]
+AP[Hibiscus:2.1]
+SZ[19]
+ST[3]
+;AB[cp][ec][hq][kq][mn][nn][on][po][qi][qo][qp][rq]
+AW[cd][eq][lo][mo][no][od][oo][oq][pp][qe][qq][qr]
+LB[yy:1][jc:A][mc:B][mq:C][oi:D][cj:E]PL[B]
+(;B[mc]
+MN[1]
+;W[ob]
+LB[ob:2][nh:C][jc:A][dn:B](;B[nh]
+C[RIGHT
+
+This move helps the marked black 
+stone from a distance while building 
+territory on the right.]
+LB[nh:3]TR[mc])(;B[jc]
+C[This move is too passive as White can 
+play at A now.]
+LB[jc:3][pj:A])(;B[dn]
+C[The marked exchange isn't 
+necessarily a good one for black, so you 
+should play a move that makes it one.]
+LB[dn:3]TR[mc][ob])(;B[oi]
+C[A good move yet there's an even 
+better one.]
+))(;B[jc]
+;W[lc]
+C[White should be happy with this result 
+as it defends the weak spot at A.
+]
+LB[lc:2][ob:A])(;B[oi]
+;W[ic]
+C[White takes the initiative on the upper 
+side.]
+)(;B[cj]
+;W[ic]
+C[White takes the initiative on the upper 
+side.]
+)(;B[mq]
+C[This is really too small.  It isn't even 
+sente.]
+))

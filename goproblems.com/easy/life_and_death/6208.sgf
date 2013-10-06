@@ -1,0 +1,31 @@
+(;GE[life and death]DI[8k]DP[49]SO[oden]CO[5]SZ[19]AB[jb]AB[kb]AB[lc]AB[mc]AB[nb]AB[ma]AB[qc]AB[pd]AB[qf]AB[qg]AW[ic]AW[jc]AW[kc]AW[kd]AW[ld]AW[md]AW[nc]AW[oc]AW[od]AW[oe]AW[pb]AW[lb]TR[lb]FF[1]GM[1]AP[Jago:Version 4.53]GN[problem]
+(;B[mb];W[ib]
+(;B[ob]
+(;W[pc]
+(;B[oa];W[ja];B[la]C[ CHOICERIGHT])
+(;B[ja]
+(;W[oa];B[la]C[ CHOICERIGHT])
+(;W[la];B[oa]C[ CHOICERIGHT]))
+(;B[la]
+(;W[oa];B[ja]C[ CHOICERIGHT])
+(;W[ja];B[oa]C[ CHOICERIGHT])))
+(;W[oa];B[pc]))
+(;B[ja];W[la]
+(;B[ob];W[oa]C[Dead.])
+(;B[oa];W[ob])
+(;B[ka];W[ob]))
+(;B[la]
+(;W[ja]
+(;B[ob];W[pc]
+(;B[oa]C[ CHOICERIGHT])
+(;B[ka];W[oa]))
+(;B[oa];W[ob])
+(;B[ka];W[ob]))
+(;W[ob];B[ja]C[ CHOICERIGHT]))
+(;B[ka];W[ob])
+(;B[oa];W[ob]
+(;B[la];W[ja])
+(;B[ja];W[la])))
+(;B[la];W[mb])
+(;B[ob];W[mb])
+(;B[ib];W[mb]))

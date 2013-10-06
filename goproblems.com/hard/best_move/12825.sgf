@@ -1,0 +1,105 @@
+(;GE[best move]DI[5d]DP[4]SO[Clydevil]CO[0]SZ[7]C[Black to play optimally, white will answer optimally. (Problem updated on March 22th 2011)]AP[goproblems]
+(;B[dd];W[dc]C[E4 result depends on the rule set. For now on I disabled this move.]
+(;B[ec]
+(;W[cd]C[CHOICE]
+(;B[de]
+(;W[eb]C[CHOICE]
+(;B[cc];W[db]
+(;B[bd];W[ed]
+(;B[ee];W[fc];B[cb];W[fe];B[ff];W[gf]
+(;B[fg];W[ca];B[ba];W[da]
+(;B[bb];W[ge]
+(;B[ef]C[This is an optimal path for both. Black wins by 9 without komi. This is one of my two favorite playing styles for both.RIGHT])
+(;B[df]C[NOTTHIS])
+(;B[dg]C[You lost an easy point. :(]))
+(;B[bc]C[NOTTHIS])
+(;B[ab]C[NOTTHIS]))
+(;B[ef];W[ca];B[ba];W[da]
+(;B[ab]C[NOTTHIS])
+(;B[bc]C[NOTTHIS])
+(;B[bb];W[fg];B[eg];W[ge];B[gg];W[ce];B[cf];W[fg];B[fd];W[gd];B[gg];W[be];B[bf];W[fg];B[gc];W[gb];B[gg];W[dg];B[ae];W[fg])))
+(;B[cb];W[ee]C[C6 was a mistake you lost too much. You forgot to put atari before.]))
+(;B[ce];W[bd]
+(;B[bc];W[bb]C[A4 has the same effect than B3, I disabled A4.]
+(;B[be];W[ed];B[fd];W[fc];B[fe];W[cb];B[ad];W[ee];B[ef];W[ec];B[ab];W[gd]
+(;B[gf];W[ba];B[ge];W[gc];B[ac]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[ge];W[ff]))
+(;B[ad]C[NOTTHIS]))
+(;B[fc];W[be];B[bf]
+(;W[bb]C[CHOICE];B[fb];W[af];B[ea];W[cb]
+(;B[bg];W[da];B[fa];W[ae]
+(;B[cf]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[df]C[NOTTHIS])
+(;B[cg]C[NOTTHIS])
+(;B[dg]C[NOTTHIS]))
+(;B[cf];W[da];B[fa];W[bg];B[cg];W[ae];B[ag];W[ed];B[ee];W[bg];B[bc];W[ac];B[ag]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT]))
+(;W[bc]C[CHOICE];B[fb]
+(;W[bb]C[CHOICE];B[af];W[fa];B[gb];W[ae];B[ga];W[ea]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;W[af]C[CHOICE];B[ea];W[cb];B[bg];W[da];B[fa];W[ae]
+(;B[cf]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[cg]C[NOTTHIS])
+(;B[df]C[NOTTHIS])
+(;B[dg]C[NOTTHIS]))))
+(;B[be];W[bc]C[B3 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion. (PERSONAL CONCLUSION TO BE CONFIRMED)]TR[fc];B[fc];W[fb]TR[gb];B[gb];W[ae]TR[af];B[af];W[ad]TR[bf];B[bf];W[fa]TR[gc];B[gc]C[This is 2 points worst than the optimal path. (PERSONAL CONCLUSION TO BE CONFIRMED)]))
+(;B[cb];W[ed];B[fc];W[fb];B[ce];W[bd];B[bc];W[ee];B[ef];W[fd];B[ff];W[be];B[bf];W[cf];B[df];W[af];B[cg];W[ca];B[ab];W[ba];B[ge];W[gc];B[fe];W[bb];B[ac];W[da]
+(;B[ae];W[aa];B[ad]C[This is an optimal path for both. Black wins by 9 without komi. This is one of my two favorite playing styles for both.RIGHT])
+(;B[ad]C[NOTTHIS]))
+(;B[fc];W[bc];B[ce];W[bd]
+(;B[fb]
+(;W[be]C[CHOICE];B[ea];W[cb];B[bf];W[af]
+(;B[bg])
+(;B[ae];W[cf];B[ag];W[ad]
+(;B[df];W[af];B[cg];W[bg];B[cf];W[fa];B[ga];W[da];B[fa];W[bb];B[ag];W[ed];B[fd];W[bg];B[ee];W[ae];B[ag]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[cg]C[NOTTHIS])))
+(;W[bf]C[CHOICE]
+(;B[be];W[ae];B[ea];W[cb];B[cf];W[da];B[fa];W[af];B[bg];W[ad];B[cg]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[ea];W[cb];B[be];W[ae])))
+(;B[be];W[fb]C[B3 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion. (PERSONAL CONCLUSION TO BE CONFIRMED)]TR[gb];B[gb])))
+(;B[db];W[cc]C[D6 was a mistake you lost too much. Follow the marked move to see a possible conclusion.]TR[fb];B[fb];W[ce]TR[df];B[df];W[cf]C[The shape is painful for black in the yose. Black is suboptimal.]))
+(;W[cb]C[CHOICE]
+(;B[db];W[cc]
+(;B[eb];W[ce];B[cf];W[bf];B[df];W[bg];B[ca];W[ba];B[da];W[cg]
+(;B[dg];W[ab]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[bb];W[ab];B[aa];W[ed]
+(;B[fd];W[ba]
+(;B[dg];W[bc]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[bc];W[bd]C[B5 was a mistake you lost 2 points. You should have end the ko :p. Follow the marked move to see a possible conclusion.]TR[aa];B[aa];W[dg]TR[ad];B[ad];W[be]TR[ac];B[ac];W[ef]TR[ee];B[ee];W[fe]TR[ed];B[ed];W[gf]TR[ae];B[ae];W[af]TR[gd];B[gd];W[ge]C[This is 2 points worst than the optimal path.]))
+(;B[be];W[bd]C[B3 was a mistake you lost 4 points. Follow the marked move to see a possible conclusion.]TR[ad];B[ad];W[ae]TR[bc];B[bc];W[be]TR[fd];B[fd];W[dg]TR[ac];B[ac];W[ef]TR[ee];B[ee];W[fe]TR[ed];B[ed];W[gf]TR[gd];B[gd];W[ge]C[This is 4 points worst than the optimal path.])))
+(;B[ce];W[eb];B[fb];W[da]
+(;B[fc];W[be];B[bf];W[bd];B[af];W[fa]
+(;B[ae];W[gb];B[ad];W[ac];B[fe];W[ea];B[gc];W[ga]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[gb];W[ae];B[ga];W[ea]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT]))
+(;B[fa]C[];W[be]C[F7 seems good but it is suboptimal. White have a secret ko :p. Follow the marked move to see a possible conclusion.]TR[bf];B[bf];W[af]TR[bd];B[bd];W[ad]TR[ae];B[ae];W[fc]TR[ed];B[ed];W[be]TR[bg];B[bg];W[bc]TR[fd];B[fd];W[ea]TR[cf];B[cf];W[ae]C[This is 1 point worst than the optimal path.])))
+(;B[ce];W[eb]C[C3 was a mistake you lost 1 point. White is too good shape. Follow the marked move to see a possible conclusion. (PERSONAL CONCLUSION TO BE CONFIRMED)]TR[fc];B[fc];W[bd]TR[fb];B[fb];W[fa]TR[be];B[be];W[ae]TR[af];B[af];W[ad]TR[bf];B[bf];W[gb]TR[gc];B[gc];W[ea]TR[ga];B[ga];W[ed]TR[fd];B[fd];W[gb]TR[cc];B[cc];W[bc]TR[ga];B[ga];W[ee]TR[fe];B[fe];W[gb]TR[db];B[db];W[da]TR[ga];B[ga];W[ef]TR[ff];B[ff];W[gb]TR[ca];B[ca];W[ba]TR[ga];B[ga];W[df]TR[cf];B[cf];W[gb]C[This is 1 point worst than the optimal path. White won the 1 point ko. (PERSONAL CONCLUSION TO BE CONFIRMED)])
+(;B[eb]C[];W[ce]C[E6 is not present in the study but it seems optimal as well.]
+(;B[db];W[cc])
+(;B[cf];W[bf];B[df];W[bg];B[db];W[cc]))))
+(;B[cc];W[de]C[C5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[db];B[db];W[ed]TR[dc];B[dc];W[ce]TR[fe];B[fe];W[ef]TR[ff];B[ff];W[ee]TR[fd];B[fd];W[bc]TR[bb];B[bb];W[ad]TR[eg];B[eg];W[dg]TR[fg];B[fg];W[ab]TR[ba];B[ba];W[ac]TR[aa];B[aa];W[be]C[This is 2 points worst than the optimal path.])
+(;B[ce];W[cc]C[C3 was a mistake you lost points. Follow the marked move to see a possible conclusion.]TR[ee];B[ee];W[eb]TR[fc];B[fc];W[be]TR[cf];B[cf];W[bf]C[Black C3 was a mistake. It is not possible for black anymore to win by 9 like in an optimal path.]))
+(;W[ed]C[CHOICE]
+(;B[de];W[eb];B[fc];W[cc]C[F6 depends on the rule set. The move is disabled.]
+(;B[bd];W[fb];B[fd];W[bc]
+(;B[be];W[gb];B[gc];W[cd];B[ce];W[ad];B[ae];W[ac]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[cd];W[ad];B[ae];W[ac]
+(;B[be];W[gc];B[gd];W[gb]C[This is an optimal path for both. Black wins by 9 without komi.RIGHT])
+(;B[bf]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])))
+(;B[fb]C[NOTTHIS])
+(;B[fd];W[be]C[F4 was a mistake you lost too much. (PERSONAL CONCLUSION TO BE CONFIRMED) Tell me if you disagree.])
+(;B[fe];W[fb]C[F3 is an obvious bad move, here you you need another move again.]))
+(;B[cd]C[NOTTHIS])
+(;B[eb]C[NOTTHIS])
+(;B[fc];W[cd]C[F5 was a mistake you lost 3 points. Follow the marked move to see a possible conclusion.]TR[de];B[de];W[ce]TR[cc];B[cc];W[df]TR[ee];B[ee];W[bc]TR[db];B[db];W[bb]TR[ef];B[ef];W[cf]TR[dg];B[dg];W[cg]TR[eg];B[eg];W[cb]TR[da];B[da];W[ca]TR[dc];B[dc]C[This is 3 points worst than the optimal path.])
+(;B[cc];W[de]C[C5 was a mistake you lost 2 points. Follow the marked move to see a possible conclusion.]TR[db];B[db];W[cd]TR[dc];B[dc])
+(;B[ee]C[NOTTHIS])))
+(;B[cc]C[NOTTHIS])
+(;B[ed]C[NOTTHIS])
+(;B[cd]C[NOTTHIS]))
+(;B[ec]C[Suboptimal. Variations coming soon asap.])
+(;B[dc]C[Suboptimal. Variations coming soon asap.])
+(;B[ed]C[NOTTHIS])
+(;B[ee]C[NOTTHIS])
+(;B[de]C[NOTTHIS])
+(;B[ce]C[NOTTHIS])
+(;B[cd]C[NOTTHIS])
+(;B[cc]C[NOTTHIS]))

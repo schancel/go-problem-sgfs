@@ -1,0 +1,13 @@
+(;GE[best move]DI[4d]DP[7]SO[akeran]CO[0]AB[pr]AB[or]AB[sq]AB[rp]AB[qo]AB[po]AB[oo]AB[op]AB[np]AB[nq]AB[rn]AB[pm]AB[pl]AB[ql]AB[mo]AB[mn]AW[qm]AW[on]AW[nn]AW[no]AW[nm]AW[mp]AW[mq]AW[nr]AW[ms]AW[lr]AW[oq]AW[pq]AW[qp]AW[rq]AW[nk]AW[pj]AW[qj]AW[mj]AB[ll]AB[kl]AW[jp]AW[hp]LB[jj:T]C[Play T for Tenuki]AP[goproblems]
+(;W[rr];B[qr];W[qq];B[rs];W[qs];B[ps];W[os]C[Ko is the best for white hereRIGHT])
+(;W[qr];B[pp];W[qq];B[rr];W[qs];B[rs];W[ps];B[os])
+(;W[jj]C[You could do better in the corner (see solution)])
+(;W[pp];B[qq])
+(;W[qq];B[rr];W[qr];B[qs])
+(;W[sr];B[sp]C[CHOICE]
+(;W[rr];B[pp];W[qq];B[qr]
+(;W[qs];B[rs])
+(;W[rs];B[qs]))
+(;W[qr];B[pp]
+(;W[ps];B[qq];W[os];B[rr]C[You could have a better result with a ko])
+(;W[qq];B[qs];W[rr]))))

@@ -1,0 +1,13 @@
+(;GE[elementary]DI[4k]DP[30]SO[marwin]CO[7]C[White to live]AW[rp]AW[sp]AW[qp]AB[ro]AW[rm]AW[qn]AW[po]AW[rl]AB[sk]AB[rk]AB[qk]AW[pp]AW[oo]AW[no]AW[nn]AW[nm]AB[sq]AB[rq]AB[qq]AB[pq]AB[op]AB[np]AB[mp]AB[lo]AB[ok]AB[lm]AB[ml]AB[pm]AB[om]AB[pk]AB[nl]AP[goproblems]
+(;W[sl];B[sn]
+(;W[rn];B[so]C[Seki - how simple];W[pn]C[RIGHT])
+(;W[so];B[rn]
+(;W[qm];B[pn])
+(;W[pn];B[qm]))
+(;W[qm];B[rn]
+(;W[so])
+(;W[pn];B[so])))
+(;W[sn];B[sl])
+(;W[rn];B[sl]
+(;W[sm];B[so])
+(;W[so];B[sm])))

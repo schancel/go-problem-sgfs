@@ -1,0 +1,31 @@
+(;GE[life and death]DI[6k]DP[36]SO[DarkSycthe]CO[0]AB[br]AB[bq]AB[cq]AB[dr]AB[es]AB[ds]AB[er]AB[fr]AB[fs]AB[bp]AB[ap]AW[cr]AW[dq]AW[eq]AW[fq]AW[gq]AW[gr]AW[gs]AW[cp]AW[bo]AW[ao]AW[do]LB[gm:Ko]LB[im:Seki]LB[io:Kill]C[What can white get in the corner if white plays first? Life means the corner will be alive unconditionally, kill means the corner will be dead unconditionally. Please look at the overall corner, not individual stones like gaining points by capturing the 6 stones.FORCE]LB[dm:Life]AP[goproblems]
+(;W[dm]C[No, something can be gotten in the corner. (and its not just the 6 stones by the way)])
+(;W[gm];B[hm]C[Ok, please demonstrate.]
+(;W[cs];B[bs]
+(;W[ar];B[dr])
+(;W[dr];B[ar])
+(;W[es];B[ar])
+(;W[er];B[ar])
+(;W[ds];B[ar]))
+(;W[bs];B[cs]
+(;W[cr];B[dr]
+(;W[ds];B[cs]C[Right, ko for life.RIGHT])
+(;W[cs];B[ds])
+(;W[ar];B[cs]))
+(;W[ar];B[as]C[Right, ko for life. You could've captured some stones first though ;)RIGHT]))
+(;W[ar];B[bs];W[cs];B[dr]))
+(;W[im]C[Not quite, there is no way to get a seki here.])
+(;W[io];B[in]C[Oh really? Please demonstrate.]
+(;W[cs];B[bs]
+(;W[ar];B[dr])
+(;W[dr];B[ar])
+(;W[es];B[ar])
+(;W[er];B[ar])
+(;W[ds];B[ar]))
+(;W[bs];B[cs]
+(;W[ar];B[as]C[Ko.])
+(;W[cr];B[dr]
+(;W[cs];B[ds])
+(;W[ar];B[cs])
+(;W[ds];B[cs]C[Ko.])))
+(;W[ar];B[bs];W[cs];B[dr])))

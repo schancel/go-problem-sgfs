@@ -1,0 +1,56 @@
+(;GE[life and death]DI[3d]DP[11]SO[hata]CO[0]AB[bj]AB[bk]AB[cl]AB[dl]AB[el]AB[fl]AB[dj]AB[dk]AB[ei]AB[ej]AB[fj]AB[dm]AB[dn]AB[do]AB[dp]AB[ep]AB[eq]AB[cn]AB[bn]AB[bo]AB[dr]AW[co]AW[cp]AW[bp]AW[bm]AW[cj]AW[ck]AW[ek]AW[fk]AW[dq]AW[cq]AW[er]AW[fq]AW[gq]AW[gr]AW[fs]AW[fo]AW[gl]AW[gj]AW[hk]AW[fm]AW[gn]AW[fi]AW[bi]AW[di]AW[ch]AW[eh]AW[gh]AW[dh]C[B to live without ko.]AW[bg]AP[goproblems]
+(;B[ao];W[cr]
+(;B[al];W[am]
+(;B[ci];W[cj];B[aj];W[bl]
+(;B[cm];W[ak];B[an]C[RIGHT])
+(;B[an];W[ak];B[cm]C[RIGHT]))
+(;B[aj];W[bl]
+(;B[cm];W[ak];B[ci];W[cj];B[an]C[RIGHT])
+(;B[ci]
+(;W[cj];B[cm];W[ak];B[an]C[RIGHT])
+(;W[ak];B[cj]C[RIGHT]))))
+(;B[aj]
+(;W[am];B[al];W[bl];B[ci];W[cj];B[cm];W[ak];B[an]C[Good one.RIGHT])
+(;W[al]
+(;B[ci];W[cj]
+(;B[am];W[an]C[ko for seki.CHOICE])
+(;B[bl];W[am]C[sekiCHOICE]))
+(;B[bl];W[am]C[seki]))))
+(;B[al]
+(;W[am]
+(;B[ao]
+(;W[cr]
+(;B[ci];W[cj];B[aj];W[bl];B[cm];W[ak];B[an]C[RIGHT])
+(;B[aj];W[bl];B[ci];W[cj];B[cm];W[ak];B[an]C[RIGHT]))
+(;W[bl];B[ci]
+(;W[cj];B[cr];W[br];B[bq];W[aq];B[ap]C[RIGHT])
+(;W[ak];B[cj]
+(;W[aj];B[cr]C[RIGHT])
+(;W[cr];B[cm];W[aj];B[an];W[ai];B[al]C[no way for whiteRIGHT]))))
+(;B[ci];W[ao]
+(;B[cj];W[an];B[bl];W[aj];B[cm];W[ap];B[cr];W[br];B[aq];W[bq];B[bs];W[ar]C[CHOICE])
+(;B[an]
+(;W[cj];B[aj]C[RIGHT])
+(;W[aj];B[cj]C[RIGHT]))))
+(;W[ao];B[ci];W[cj];B[aj];W[am];B[an]C[RIGHT])
+(;W[aj]
+(;B[ao]
+(;W[cr];B[am]C[RIGHT])
+(;W[am];B[cr];W[br];B[bq];W[aq];B[ap]C[RIGHT];W[bl];B[ci];W[ak]))
+(;B[am];W[ao]C[CHOICE])))
+(;B[am];W[al];B[ci];W[cj];B[ao];W[cr];B[bl];W[an]C[koCHOICE])
+(;B[ci];W[cj]
+(;B[ao]
+(;W[cr]
+(;B[al]
+(;W[am];B[aj];W[bl];B[cm];W[ak];B[an]C[RIGHT])
+(;W[aj];B[am]C[RIGHT]))
+(;B[aj];W[al];B[am];W[an]))
+(;W[am];B[cr];W[br];B[bq];W[aq];B[ap]C[RIGHT]))
+(;B[al]
+(;W[am];B[ao];W[cr];B[aj];W[bl];B[cm];W[ak];B[an]C[RIGHT])
+(;W[ao]
+(;B[am];W[aj])
+(;B[aj];W[am];B[an]C[RIGHT])))
+(;B[am];W[al])
+(;B[aj];W[ao];B[am];W[al])))

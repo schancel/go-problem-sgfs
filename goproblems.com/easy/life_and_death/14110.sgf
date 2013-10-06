@@ -1,0 +1,9 @@
+(;GE[life and death]DI[5k]DP[35]SO[siulkilulki]CO[0]AB[bb]AB[bc]AB[bd]AB[cd]AB[dd]AB[ed]AB[fd]AB[gc]AW[fc]AW[ec]AW[db]AW[cc]AW[gd]AW[hd]AW[id]AW[hb]AW[fe]AW[ee]AW[df]AW[bf]AW[be]C[only right answers, READ IT]AP[goproblems]
+(;B[fb]
+(;W[gb]C[CHOICE];B[dc];W[eb];B[cb]C[RIGHT])
+(;W[eb]C[CHOICE];B[cb];W[gb];B[dc]C[RIGHT]))
+(;B[gb];W[fb];B[dc];W[cb];B[fa];W[eb])
+(;B[dc];W[cb];B[gb];W[fb];B[fa];W[eb])
+(;B[cb];W[dc]
+(;B[gb];W[fb])
+(;B[fb];W[gb])))

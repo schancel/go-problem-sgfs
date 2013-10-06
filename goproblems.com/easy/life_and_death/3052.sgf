@@ -1,0 +1,32 @@
+(;GE[life and death]DI[25k]DP[77]SO[unkx80]CO[8]AB[hr]AB[ir]AB[kr]AB[lr]AW[hq]AW[hp]AW[ho]AW[in]AW[jn]AW[jo]AW[jp]AW[kn]AW[lo]AW[lp]AW[lq]AB[gq]AB[gp]AB[go]AB[hn]AB[im]AB[jm]AB[km]AB[ln]AB[mo]AB[mp]AB[mq]AB[lm]AB[hm]C[Black to play.]AP[goproblems]
+(;B[jq]
+(;W[ip]C[CHOICE]
+(;B[kp]C[White has only one eye.RIGHT])
+(;B[kq];W[kp]C[White has two eyes.]))
+(;W[kp]C[CHOICE]
+(;B[ip]C[White has only one eye.RIGHT])
+(;B[iq];W[ip]C[White has two eyes.]))
+(;W[iq]C[CHOICE]
+(;B[kp]C[White has only one eye.RIGHT])
+(;B[ip];W[io];B[kp]C[White has only one eye.RIGHT]))
+(;W[kq]C[CHOICE]
+(;B[ip]C[White has only one eye.RIGHT])
+(;B[kp];W[ko];B[ip]C[White has only one eye.RIGHT])))
+(;B[iq];W[ip]
+(;B[kq];W[kp]C[White has two eyes.])
+(;B[kp];W[kq]C[White has two eyes.]))
+(;B[kq];W[kp]
+(;B[iq];W[ip]C[White has two eyes.])
+(;B[ip];W[iq]C[White has two eyes.]))
+(;B[ip];W[iq]
+(;B[jq];W[io]
+(;B[kp]C[White has only one eye.RIGHT])
+(;B[kq];W[kp]C[White has two eyes.]))
+(;B[kq];W[kp]C[White has two eyes.])
+(;B[kp];W[kq]C[White has two eyes.]))
+(;B[kp];W[kq]
+(;B[jq];W[ko]
+(;B[ip]C[White has only one eye.RIGHT])
+(;B[iq];W[ip]C[White has two eyes.]))
+(;B[iq];W[ip]C[White has two eyes.])
+(;B[ip];W[iq]C[White has two eyes.])))

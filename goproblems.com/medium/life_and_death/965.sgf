@@ -1,0 +1,7 @@
+(;GE[life and death]DI[2d]DP[14]SO[marcin]CO[9]AW[ic][id][ie][je][ke][kd][kc][lb][la][hb][ha]AB[ga][gb][gc][he][hf][if][jf][kf][lf][le][ld][lc][mc][mb][ma]SZ[19]LB[ne:A]C[Can Black take the white group off the board? If no, play 'A'.]
+
+(;B[ne]C[Too much mercy.])
+(;B[hc];W[jb];B[ja];W[kb];B[ib]C[RIGHT I think this problem has something to do with the old chinese concept of 'fulness' and 'emptiness' of a group.])
+(;B[kb];W[jb];B[ja];W[ia]C[Patience is required here])
+(;B[ja];W[kb]C[White is alive])
+(;B[jb];W[kb]C[Looks like white is free from his biggest weakness.]))

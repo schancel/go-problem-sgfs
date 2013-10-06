@@ -1,0 +1,33 @@
+(;GE[life and death]DI[1k]DP[19]SO[MrMoto]CO[0]AW[hs]AW[hr]AW[hq]AW[iq]AW[jp]AW[kp]AW[lp]AW[mq]AW[ms]AW[mr]AB[ns]AB[nr]AB[nq]AB[np]AB[mp]AB[lo]AB[ko]AB[io]AB[jo]AB[mn]AB[ip]AB[hp]AB[gq]AB[gr]AB[gs]AB[go]C[What can Black get out of this?]AP[goproblems]
+(;B[lq];W[kr];B[lr];W[kq];B[ls];W[jr]C[This reduction in sente keeps things simple. Well done!RIGHT])
+(;B[jq];W[jr]
+(;B[kq];W[lq])
+(;B[lq];W[kq];B[lr];W[kr]C[Now capturing at M1 is not sente. You should have started at M3 instead of helping White create an eye at K3.]))
+(;B[kq];W[kr])
+(;B[lr];W[kr];B[lq])
+(;B[kr];W[lq]
+(;B[jq];W[jr])
+(;B[jr];W[jq]
+(;B[ir];W[is]C[Seki.])
+(;B[js];W[ls]C[Seki.])
+(;B[is];W[lr]
+(;B[ir];W[ks]C[Seki.])
+(;B[kq];W[ks]C[Seki.])
+(;B[ks];W[ir]C[You get a thousand-year ko in sente. Good job! :)RIGHT]))
+(;B[lr];W[js]
+(;B[ir];W[is]C[Seki.])
+(;B[ks];W[ir]C[You get a thousand-year ko in sente. Good job! :)RIGHT]))
+(;B[ks];W[is]C[Seki.])
+(;B[ls];W[lr]
+(;B[ks];W[is]C[Seki.])
+(;B[ir];W[ks];B[js]C[You get a thousand-year ko in gote. This isn't optimal.])
+(;B[js]C[You get a thousand-year ko in gote. This isn't optimal.])
+(;B[is];W[ks];B[js]C[You get a thousand-year ko in gote. This isn't optimal.]))))
+(;B[jr];W[jq]
+(;B[lr];W[lq];B[kr])
+(;B[kr];W[lq]))
+(;B[ls]
+(;W[lr]C[CHOICE];B[kr];W[ks];B[js];W[jq];B[ls];W[lq];B[jr]C[Ok, this is clever. Good job. ;)RIGHT])
+(;W[kr]C[CHOICE];B[lr]
+(;W[kq];B[lq])
+(;W[lq]C[(White cannot play like this.)];B[jq]))))

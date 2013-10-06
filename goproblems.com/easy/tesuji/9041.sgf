@@ -1,0 +1,27 @@
+(;GE[tesuji]DI[8k]DP[46]SO[adum]CO[6]AW[pp]AW[pn]AW[pl]AB[nq]AB[no]AB[nm]AB[mm]AB[lm]AB[nl]AB[nk]AW[mj]AW[mk]AW[ml]AW[ll]AB[lk]AB[kl]AB[jl]AB[jj]AW[il]AW[hl]AW[hk]AB[gl]AB[hm]AB[im]AW[km]AW[jm]AW[kn]AW[lo]AW[lq]AW[io]AW[go]AB[gp]AB[fo]AB[ep]AB[iq]AW[dd]AB[qd]TR[kl]TR[jl]C[catch the marked stones]AP[goproblems]
+(;W[jk];B[kk]
+(;W[kj];B[ik]
+(;W[lj];B[jk] 
+(;W[ji];B[ij]
+(;W[hj]C[RIGHT])
+(;W[ii];B[hj])
+(;W[hi];B[hj]))
+(;W[ij];B[ji])
+(;W[hi];B[ji]))
+(;W[ji];B[lj];W[ki];B[mi])
+(;W[ij];B[lj]))
+(;W[lj];B[kj])
+(;W[ik];B[kj])
+(;W[ki];B[kj])
+(;W[ij];B[kj]))
+(;W[kk];B[jk])
+(;W[kj];B[jk]
+(;W[ji];B[ij])
+(;W[ii];B[ji])
+(;W[ki];B[ii]))
+(;W[ij];B[kj])
+(;W[lj];B[kj])
+(;W[ji];B[kj])
+(;W[ki];B[kj])
+(;W[ii];B[kj])
+(;W[ik];B[kj]))

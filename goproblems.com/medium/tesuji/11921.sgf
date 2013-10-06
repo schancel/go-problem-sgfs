@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[3d]DP[9]SO[Field Mouse]CO[0]AB[na]AB[nc]AB[nd]AB[ld]AW[ob]AW[me]AB[id]AB[ic]AW[lf]AW[mf]AW[ne]AW[pc]AW[oe]AW[pe]AW[qb]AB[ie]AW[kf]AW[jf]AW[if]AW[lc]AB[gd]AB[ec]AW[pd]AP[goproblems]
+(;B[md];W[kc]TR[kd]TR[nb]C[Very bad for black])
+(;B[kd];W[mc];B[md];W[nb]C[:(])
+(;B[nb];W[md];B[lb];W[mc];B[kb]C[You could do better])
+(;B[kc];W[mc];B[md];W[nb];B[mb];W[lb]C[Although black can play some crazy ko now, the result is quite bad])
+(;B[mb];W[mc]
+(;B[nb];W[kc]C[White wins big])
+(;B[kc];W[md];B[lb];W[nb]C[You could do better]))
+(;B[lb];W[mc]
+(;B[md];W[nb];B[mb];W[kc]C[Painful])
+(;B[nb];W[kc];B[kb]C[You could do better]))
+(;B[mc]
+(;W[kd]C[CHOICE]
+(;B[kc]
+(;W[lb]
+(;B[ke]
+(;W[md]C[CHOICE];B[jd]C[Nice defense :-)RIGHT])
+(;W[kb];B[jd];W[mb];B[nb];W[md];B[jb]C[RIGHT]))
+(;B[kb];W[md];B[la];W[le]C[You could do better])
+(;B[md];W[jc];B[ke];W[kb]C[This will result in a flowering multistep ko for white, but you could do better];B[jd]C[This will result in a flowering multistep ko for white, but you could do better];W[ib];B[hb];W[la];B[nb];W[ja]C[For example like this]))
+(;W[jc];B[lb];W[jd];B[jb]C[Best for bothRIGHT]))
+(;B[lb];W[kc];B[kb]C[You could do better]))
+(;W[lb];B[kd]C[RIGHT])
+(;W[kc];B[kd];W[md];B[lb];W[kb];B[mb]C[RIGHT])))

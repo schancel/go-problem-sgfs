@@ -1,0 +1,24 @@
+(;GE[endgame]DI[3d]DP[10]SO[Athanatos]CO[0]SZ[13]AW[fb]AW[ec]AW[dc]AW[cb]AW[bb]AW[fd]AW[fe]AW[bg]AW[be]AW[bh]AW[ci]AW[cj]AW[dk]AW[ek]AW[dh]AW[eh]AW[eg]AW[ef]AW[df]AW[he]AW[ge]AW[ld]AW[le]AW[ke]AW[kf]AW[jf]AW[jg]AW[jh]AW[ji]AW[kj]AW[ll]AW[lk]AW[ki]AW[if]AW[gh]AW[gk]AW[hl]AW[il]AW[fl]AW[gm]C[Black to play. Black and White have 1 prisoner each. Komi is 6,5.]AB[lc]AB[kd]AB[jd]AB[ic]AB[ie]AB[hd]AB[gd]AB[gc]AB[fc]AB[ed]AB[dd]AB[cc]AB[bc]AB[bd]AB[de]AB[ce]AB[cf]AB[cg]AB[dg]AB[ch]AB[bf]AB[ab]AB[ad]AB[kg]AB[kl]AB[kk]AB[jj]AB[ik]AB[hk]AB[hi]AB[ii]AB[gj]AB[fi]AB[ej]AB[fh]AB[gg]AB[hg]AB[ig]AB[hf]AB[el]AB[li]AW[lj]CA[ISO8859-1]ST[2]FF[4]GM[1]AP[GOWrite:2.3.16]PM[2]KM[6,5]GN[ ]PB[ ]PW[ ]FG[259:]
+(;B[md];W[me];B[mc];W[je]
+(;B[id];W[ih];B[hh];W[jl];B[jk];W[km]
+(;B[ag];W[ai];B[fj];W[dj];B[fk];W[gl]C[Black wins by 0,5.RIGHT])
+(;B[fj];W[dj]
+(;B[fk];W[gl];B[ag];W[ai]C[Black wins by 0,5.RIGHT])
+(;B[ag];W[ai])))
+(;B[lm];W[gb];B[hb];W[id];B[hc];W[kc]C[Black collapses.])
+(;B[ff];W[ee];B[di];W[ei]C[Black lost one point for nothing (compare with correct solution) and still has to connect the ko.]))
+(;B[mc];W[je]
+(;B[id];W[ih];B[hh];W[jl];B[jk];W[km]
+(;B[ag];W[ai]
+(;B[fj];W[dj])
+(;B[md];W[me]))
+(;B[fj];W[dj]
+(;B[fk];W[gl];B[ag];W[ai];B[md];W[me]C[Black wins by 0,5.RIGHT])
+(;B[ag];W[ai]
+(;B[fk];W[gl])
+(;B[md];W[me]))
+(;B[md];W[me])))
+(;B[lm];W[gb];B[hb];W[id];B[hc];W[kc]))
+(;B[lm];W[mc];B[lb];W[mb]C[And Black loses by half a point (too many variations to show them here). Please check for yourself.])
+(;B[fj]C[Too early. This move is Black's privilege. Black should wait before playing it (for example, it can be a useful ko threat).NOTTHIS])
+(;B[ag]C[Too early. This move is Black's privilege. Black should wait before playing it (for example, it can be a useful ko threat).NOTTHIS]))

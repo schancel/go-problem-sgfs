@@ -1,0 +1,41 @@
+(;GE[life and death]DI[1d]DP[17]SO[Triljoo]CO[5]AB[es]AB[er]AW[fs]AW[fr]AW[eq]AW[fq]AW[fp]AW[gp]AB[dq]AB[cq]AB[bq]AB[bp]AB[cr]AB[an]AW[am]AW[bm]AW[bn]AW[bo]AW[co]AW[cp]AW[dp]AW[cn]AB[al]AB[bl]AB[cl]AB[cm]AB[dm]AB[em]AB[fn]AB[eo]AB[gn]AB[hn]AB[go]AB[gq]AB[hq]AB[hp]AB[ip]AB[jq]AB[ir]AW[ho]AW[io]AW[in]AW[jn]AW[kn]AB[jo]AB[ko]AW[jp]AW[kp]AB[lo]AB[no]AB[im]AB[il]AW[hm]AW[gm]AW[fm]AB[fl]AW[gl]AW[el]AW[dl]AW[ek]AW[ck]AB[dk]AW[bk]AB[cj]AW[ci]AW[ej]C[Black to capture both of whites groups]TR[am]TR[bm]TR[bn]TR[cn]TR[bo]TR[co]TR[cp]TR[dp]TR[gp]TR[fp]TR[fq]TR[eq]TR[fr]TR[fs]AW[bj]AP[goproblems]
+(;B[lm];W[en];B[dn];W[fo];B[en];W[ak]
+(;B[gr];W[do];B[gs];W[ep])
+(;B[ep];W[do])
+(;B[do];W[ep]))
+(;B[ep];W[en];B[dn];W[fo]
+(;B[en];W[ak];B[gr];W[do])
+(;B[do];W[en]C[Black didn't capture both groups]))
+(;B[gr];W[ep];B[gs];W[en];B[dn];W[fo];B[en];W[ak];B[ao];W[do])
+(;B[fo];W[ep];B[dn];W[do])
+(;B[do];W[fo];B[en];W[ep];B[gr];W[ak];B[gs];W[dn])
+(;B[dn];W[fo];B[en];W[ak];B[gr];W[ep];B[gs];W[do])
+(;B[gk];W[fk];B[hl];W[fl];B[en];W[ep];B[lm];W[ak]C[Please play A]LB[km:A];B[km];W[dn]C[Please play A]LB[ln:A];B[ln];W[do];B[jm]C[RIGHT])
+(;B[en];W[ep]
+(;B[lm];W[ak]C[FORCE]
+(;B[km];W[dn]C[FORCE];B[ln];W[fo];B[jm]C[RIGHT])
+(;B[ln];W[dn]C[FORCE]
+(;B[km];W[do];B[jm]C[RIGHT])
+(;B[jm];W[do];B[km]C[RIGHT]))
+(;B[jm];W[dn]C[FORCE]
+(;B[km];W[do];B[ln]C[RIGHT])
+(;B[ln];W[do];B[km]C[RIGHT])))
+(;B[gr];W[ln]
+(;B[gs];W[ao];B[ap];W[ak]C[One eye vs no eye])
+(;B[ao];W[ap];B[ao];W[ak]
+(;B[gs];W[dn];B[aq];W[fo];B[ap];W[do])
+(;B[aq];W[fo];B[ap];W[dn]
+(;B[gs];W[do])
+(;B[an];W[do]))))
+(;B[ao];W[ln];B[ap];W[ak];B[gr];W[dn];B[gs]C[Seki. Not good enough])
+(;B[gk]C[NOTTHIS])
+(;B[hl]C[NOTTHIS]))
+(;B[aj];W[en]
+(;B[dn];W[fo]
+(;B[en];W[ai]
+(;B[ak];W[dj];B[gr];W[ep];B[gs];W[do])
+(;B[ep];W[ak]))
+(;B[bi];W[en]))
+(;B[bi];W[dj];B[ak];W[fo]))
+(;B[bi];W[en];B[dn];W[fo];B[en];W[dj]C[Black looses the capturingrace])
+(;B[fk];W[en];B[dn];W[fo];B[en];W[gk];B[fj];W[ak];B[ei];W[dj]))

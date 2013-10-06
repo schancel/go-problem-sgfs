@@ -1,0 +1,46 @@
+(;GE[elementary]DI[12k]DP[55]SO[MatheusB]CO[6]SZ[9]AB[ef]AB[eg]AB[fe]AB[ge]AB[gf]AB[he]AB[gd]AB[gb]AB[eb]AB[db]AB[dc]AB[cc]AB[bb]AB[dd]AB[ed]AW[fb]AW[fc]AW[fd]AW[ec]AW[ff]AW[fg]AW[eh]AW[ee]AW[de]AW[ce]AW[cd]AW[cf]AW[be]AW[bc]AW[ad]TR[ef]TR[eg]C[Black to rescue the marked stones.]AP[goproblems]
+(;B[fh];W[gg]
+(;B[gh];W[hg];B[dh];W[dg];B[ei];W[df];B[eh]C[Well done. After White A Black can play B and vice versa.RIGHT]LB[cr:A]LB[hr:B]LB[hh:A]LB[ch:B])
+(;B[hg];W[gh]
+(;B[dh];W[fi];B[dg];W[hh]C[White lives and Black does not.])
+(;B[hh];W[fi]
+(;B[hi];W[dg]C[Black is simply caught.])
+(;B[dg];W[dh]
+(;B[hi];W[cg]C[Black is simply caught.])
+(;B[cg];W[bg]C[Black cannot escape now.]))
+(;B[dh];W[dg]C[Black is simply caught.]))
+(;B[gi];W[fi]
+(;B[hh];W[hi]
+(;B[dg];W[dh]C[Black cannot escape now.])
+(;B[dh];W[dg]C[Black is simply caught.]))
+(;B[hi];W[dg]C[Black is simply caught.])
+(;B[dg];W[dh]C[Black cannot escape now.])
+(;B[dh];W[dg]C[Black is simply caught.]))
+(;B[ei];W[dh]C[Black cannot escape now.])
+(;B[fi];W[dg]C[Black can be simply caught.]))
+(;B[hh];W[dg]C[Black is simply caught.])
+(;B[dg];W[gh]
+(;B[dh];W[fi]C[White is alive while Black has nothing.])
+(;B[fi];W[dh]C[Black cannot escape now.])
+(;B[ei];W[fi]C[White is almost alive now and Black is still veryweak.];B[dh];W[di])
+(;B[gi];W[fi]C[White is almost alive now and Black is still veryweak.];B[hh];W[hg];B[ig];W[hi]))
+(;B[dh]
+(;W[dg];B[ei]C[Well done. Black is strong enough to survive now.RIGHT])
+(;W[gh];B[ei]C[Well done. Black is strong enough to survive now.RIGHT]))
+(;B[ei];W[dh]
+(;B[hg];W[gh]
+(;B[gi];W[fi]C[Only ko - Black has no serious threats.])
+(;B[hh];W[fi]C[Black is caught now.])
+(;B[fi];W[dg]C[Black can be simply caught.]))
+(;B[gh];W[hg]C[Black is caught now.]))
+(;B[fi];W[dg]C[Black is simply caught.]))
+(;B[gg];W[fh]
+(;B[dg];W[dh]C[Black cannot escape now])
+(;B[dh];W[dg]C[The Black stones are caught in a snapback.])
+(;B[gh];W[dg]C[Black is simply caught.]))
+(;B[gh];W[fh]C[Black cannot escape now.])
+(;B[dg];W[fh]
+(;B[gg];W[dh]C[Black cannot escape now.])
+(;B[dh];W[cg]C[To keep it simple - Black has less liberties and noliberty-adding moves.])
+(;B[gh];W[dh]C[Black cannot escape now.]))
+(;B[dh];W[dg]C[Black is simply caught.]))

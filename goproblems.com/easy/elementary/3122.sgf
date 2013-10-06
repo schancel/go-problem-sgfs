@@ -1,0 +1,7 @@
+(;GE[elementary]DI[15k]DP[64]SO[adum]CO[7]AB[jo]AB[kn]AB[ln]AB[mn]AB[mo]AB[no]AW[mp]AW[lp]AW[jn]AW[in]AW[km]AW[lm]AW[mm]AW[nn]AW[on]AW[oo]AB[np]AW[nq]AW[oq]AW[op]AB[iq]AB[gq]LB[ko:A]LB[lo:B]LB[kp:C]LB[jp:D]C[how should black connect his stones out?FORCE]AP[goproblems]
+(;B[ko]C[only this move saves the black stonesRIGHT])
+(;B[lo];W[ko])
+(;B[kp];W[ko]
+(;B[lo];W[ko])
+(;B[jp];W[lo]))
+(;B[jp];W[ko]))

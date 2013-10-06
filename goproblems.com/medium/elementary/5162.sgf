@@ -1,0 +1,43 @@
+(;GE[elementary]DI[2d]DP[13]SO[santa c]CO[4]AB[fl]AB[hk]AB[hj]AB[ji]AW[ii]AW[hi]AW[hh]AW[ih]AW[jh]AW[kh]AB[ig]AB[gg]AB[gh]AB[gi]AB[fi]AB[ff]AB[fg]AB[cf]AB[df]AB[cg]AB[ch]AB[ci]AW[di]AW[dg]AW[eg]AW[dh]AW[ei]AW[fh]AW[gj]AW[fj]AW[ej]AB[dj]AB[dk]AB[dl]AB[ck]AW[cj]AW[bj]AW[bk]AW[bl]AW[cm]AW[dn]AW[bo]AB[bn]AB[cn]AW[dp]AW[dq]AW[eq]AW[cq]AW[fp]AW[fo]AW[go]AW[ho]AW[io]AW[hp]AW[kl]AW[lj]AW[jp]AB[kp]AB[lp]AB[mo]AB[ml]AW[mp]AW[lq]AW[kq]AB[np]AB[op]AB[pp]AB[pl]AW[oj]AB[gp]AB[gq]AB[hq]AB[fq]AB[jq]AW[iq]AW[ir]AB[hr]AB[gr]AB[fs]AB[er]AB[dr]AW[nq]AW[oq]AW[nr]AW[lr]AW[ms]AB[pq]AW[qj]AW[qf]AW[pf]AW[ne]AW[od]AW[oc]AW[le]AB[pc]AB[pd]AB[qe]AB[rc]AB[mc]AB[kc]AB[fc]AB[cc]AW[de]C[Can White save his stones?]MA[fj]MA[ej]MA[di]MA[dh]MA[dg]MA[eg]MA[ei]MA[gj]AB[ep]AB[id]AB[cd]AP[goproblems]
+(;W[gk]
+(;B[gl];W[hl]
+(;B[il];W[hm];B[ik]LB[im:A]C[Please play at A... I'm too tired for other stuff..];W[im]C[Well done! :)RIGHT])
+(;B[hm];W[il]C[RIGHT])
+(;B[ik];W[il]C[RIGHT])
+(;B[jk];W[ik]C[RIGHT]))
+(;B[hl];W[gl];B[gm];W[hm]C[RIGHT]))
+(;W[fk];B[gk]C[:(])
+(;W[gl];B[gk]
+(;W[fk];B[ek]C[:(])
+(;W[el];B[ek];W[fk];B[em]C[:(]))
+(;W[hl];B[gk]
+(;W[fk];B[ek]C[:(])
+(;W[ek];B[el]C[:(]))
+(;W[ek];B[el]C[]
+(;W[gl];B[gk]C[:(])
+(;W[gk];B[gl];W[hl];B[il];W[hm];B[ik]C[4-3.. :(]))
+(;W[el];B[ek]
+(;W[fk];B[gk]C[:(])
+(;W[gl];B[gk];W[fk];B[em]C[:(])
+(;W[gk];B[gl];W[hl];B[il];W[hm];B[ik]C[4-3 :(]))
+(;W[eh]C[Filling your own liberties is rarely any good... Espacially in such a close semai!])
+(;W[hg];B[ef]C[Filling your own liberties like that just can't be good - Especially in such a close semai!])
+(;W[ef];B[ee]
+(;W[fe];B[ed];W[hg];B[gf]
+(;W[ge];B[hf]
+(;W[he];B[if];W[ie];B[jf]LB[je:A]C[Please play at A..FORCE];W[je];B[kf]C[Please play at A..FORCE]LB[lf:A];W[lf];B[gk]
+(;W[ke];B[fk]
+(;W[kg];B[eh]MA[fh]C[A ko... Could do without it...])
+(;W[jg];B[eh]C[A ko... Could do without it...]))
+(;W[kg];B[fk]
+(;W[ke];B[eh]C[A ko... Could do without it...]MA[fh])
+(;W[jg];B[eh]C[A ko... Could do without it...]MA[fh]))
+(;W[jg];B[fk]
+(;W[ke];B[eh]MA[fh]C[A ko... Could do without it...])
+(;W[kg];B[eh]MA[fh]C[A ko... Could do without it...])))
+(;W[if];B[he]C[:(])
+(;W[ie]C[NOTTHIS]))
+(;W[hf];B[ge]C[:(])
+(;W[he];B[ge]C[:(]))
+(;W[hg];B[ge]C[Giving away liberties.. :(])
+(;W[ed];B[fe]C[Giving away liberties.. :(])))

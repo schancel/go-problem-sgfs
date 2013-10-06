@@ -1,0 +1,72 @@
+(;GE[life and death]DI[5k]DP[33]SO[Hans]CO[6]
+AW[ia][ja][ka][eb][hb][jb][lb][ob][gc][mc][ed][gd][kd][ld][md][od][ge][gf][lf][gg][lg][fh][hh][ih][jh][kh][mh]
+AB[ib][kb][hc][ic][jc][kc][lc][hd][jd][he][ke][hf][kf][hg][ig][jg][kg]
+PL[W]C[White to play. 
+]
+(;W[ie];B[gb]
+(;W[mb];B[ha]
+(;W[la];B[fb]
+(;W[fa]C[RIGHT
+])
+
+(;W[ea];B[fa]C[Black lives.
+])
+
+(;W[fc];B[fa]C[Black lives.
+])
+)
+
+(;W[fb];B[la]C[Black lives.
+])
+)
+
+(;W[la];B[ha]
+(;W[mb];B[fb]
+(;W[fa]C[RIGHT
+])
+
+(;W[fc];B[fa]C[Black lives.
+])
+)
+
+(;W[nb];B[fb]
+(;W[fa]C[RIGHT
+])
+
+(;W[fc];B[fa]C[Black lives.
+])
+)
+)
+
+(;W[ma];B[ha]
+(;W[la];B[fb]
+(;W[fa]C[RIGHT
+])
+
+(;W[fc];B[fa]C[Black lives.
+])
+)
+
+(;W[fb];B[la]C[Black lives.
+])
+)
+
+(;W[ha];B[ga]
+(;W[la];B[mb])
+
+(;W[mb];B[la])
+)
+
+(;W[ga];B[ha]C[Ko. 
+])
+)
+
+(;W[mb];B[ie])
+
+(;W[gb];B[ie])
+
+(;W[ga];B[ie])
+
+(;W[ma];B[ie])
+
+)

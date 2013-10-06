@@ -1,0 +1,13 @@
+(;GE[life and death]DI[4k]DP[30]SO[magrock]CO[0]AB[ab]AB[bc]AB[cc]AB[bd]AB[be]AW[cd]AW[ce]AW[cf]AW[bf]AW[ec]AW[dc]AW[cb]AB[eb]AW[da]C[make two eyes ]AP[goproblems]
+(;B[bb];W[ba];B[db];W[fb];B[ca]C[no need for ko])
+(;B[db];W[ba];B[fb];W[bb];B[ea];W[ae];B[ca])
+(;B[ba]
+(;W[db];B[bb]C[RIGHT])
+(;W[bb];B[db];W[fb];B[ca]C[RIGHT])
+(;W[ae]C[CHOICE]
+(;B[bb]
+(;W[ad];B[db];W[fb];B[ca]C[RIGHT])
+(;W[db]C[CHOICE];B[ad]C[RIGHT]))
+(;B[ad];W[bb];B[af];W[db]C[now black has tu run with no eyes])
+(;B[db];W[fb];B[ad]C[RIGHT])))
+(;B[ae];W[ba]))

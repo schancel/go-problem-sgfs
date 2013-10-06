@@ -1,0 +1,11 @@
+(;GE[best move]DI[8k]DP[47]SO[Florian]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[7]KM[6.50]
+PW[Florian]
+PB[Florian]WR[6k]BR[6k]DT[2004-02-22]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+AW[ba][da][fa][bb][cb][eb][fb][ac][bc][dc][ae][be][ce][ge][bf][cf][cg][dg]AB[gb][cc][ec][fc][ad][bd][cd]
+[dd][ed][fd][gd][ee][af][ef][ff][gf][bg][fg]LB[db:1][dc:4][de:A][ge:2][df:B][gf:3]
+(;B[de]CR[de]
+C[No, under chinese rules b has no ko threat and will lose the game. ])
+(;B[df]CR[df]C[RIGHT
+
+Under Ing rules suicide is allowed, so b has a ko thread at a1 and will win the game.]))

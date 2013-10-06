@@ -1,0 +1,58 @@
+(;GE[life and death]DI[5k]DP[32]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];AW[da][ab][bb][cb][dc][ec][fc]
+AB[ba][gb][ac][bc][cc][gc][dd][ed][fd][gd]
+C[easy one... black to kill
+]
+(;B[fa]
+(;W[ea]
+(;B[eb]C[RIGHT
+white can't cut
+])
+
+(;B[fb];W[eb])
+)
+
+(;W[fb]C[this doesn't work for white
+];B[ea])
+)
+
+(;B[fb];W[eb]
+(;B[fa];W[ea])
+
+(;B[ga];W[ea])
+)
+
+(;B[eb];W[fb]
+(;B[fa];W[db]
+(;B[ga];W[ea])
+
+(;B[ea];W[ga])
+)
+
+(;B[ea];W[fa])
+
+(;B[db];W[ea])
+)
+
+(;B[ga];W[eb]
+(;B[ea];W[fa];B[fb];W[ea])
+
+(;B[fb];W[ea])
+
+(;B[fa];W[ea])
+)
+
+(;B[ea];W[fa]
+(;B[eb];W[fb])
+
+(;B[fb];W[eb])
+)
+
+(;B[db];W[eb])
+
+)

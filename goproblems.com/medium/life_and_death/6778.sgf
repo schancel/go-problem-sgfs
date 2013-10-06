@@ -1,0 +1,35 @@
+(;GE[life and death]DI[2d]DP[14]SO[Trucid]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][bp][cp][ep][cq][fq][fr][hr]AB[bq][dq][cr][er][fs]C[Black to move.]
+(;B[aq]CR[aq]
+;W[bs]CR[bs]C[CHOICE]
+(;B[br]CR[br]
+;W[as]CR[as]
+(;B[eq]CR[eq]C[RIGHT])
+(;B[cs]CR[cs]
+;W[eq]CR[eq]C[Dead])
+(;B[es]CR[es]
+;W[eq]CR[eq]
+;B[dr]CR[dr]
+;W[cs]CR[cs]C[Dead (bent four in corner)]))
+(;B[cs]CR[cs]
+;W[eq]CR[eq]C[Dead])
+(;B[ds]CR[ds]
+;W[eq]CR[eq]C[Dead])
+(;B[as]CR[as]
+;W[br]CR[br]
+;B[cs]CR[cs]
+;W[eq]CR[eq]C[Dead])
+(;B[es]CR[es]
+;W[br]CR[br]SQ[aq][bq]C[Dead. Marked stones are captured.]))
+(;B[br]CR[br]
+;W[eq]CR[eq]C[Dead])
+(;B[ar]CR[ar]
+;W[bs]CR[bs]
+(;B[cs]CR[cs]
+;W[eq]CR[eq]C[Dead])
+(;B[br]CR[br]C[That doesn't even threaten to live :\\]))
+(;B[bs]CR[bs]
+;W[aq]CR[aq]
+;B[ar]CR[ar]
+;W[br]CR[br]C[Ko. Black can do better.]))

@@ -1,0 +1,31 @@
+(;GE[life and death]DI[1k]DP[19]SO[pitchflare]CO[0]AB[pp]AB[qn]AW[qq]AB[pq]AW[qp]AB[qo]AW[ro]AB[rn]AW[so]AB[qr]AB[pr]AW[sn]AB[rm]AW[rl]AW[ql]AW[qm]AW[sr]AW[rr]AB[rs]AB[sp]AB[qs]AW[rq]AW[pn]AB[pm]AB[on]AB[rk]AB[qk]AW[sm]TR[sm]C[White is making a desperate bid for life. Ko and seki won't work, so kill him unconditionally!]AB[nl]AW[or]AW[oq]AW[op]AW[os]AW[mn]AP[goproblems]
+(;B[po];W[pl]
+(;B[ok]
+(;W[pk]C[CHOICE];B[pj]
+(;W[ol]C[CHOICE]
+(;B[om];W[sl]
+(;B[sk];W[rp];B[ss]C[Dead! Good work. :)RIGHT])
+(;B[oj]C[RIGHT]))
+(;B[nk];W[om];B[nm];W[pn]
+(;B[oo];W[qj]C[A ko.])
+(;B[qj];W[nn]C[Uh oh.]))
+(;B[oj];W[om];B[nm];W[pn]
+(;B[oo];W[qj]C[A ko.])
+(;B[qj];W[nn]C[Uh oh.]))
+(;B[nj];W[om];B[nm];W[pn]
+(;B[oo];W[qj]C[A ko.])
+(;B[qj];W[nn]C[Uh oh.])))
+(;W[om]C[CHOICE]
+(;B[ol];W[pn];B[nm])
+(;B[nm];W[pn];B[ol])))
+(;W[om]C[CHOICE]
+(;B[ol];W[pn];B[nm]
+(;W[pm]C[CHOICE];B[pk];W[sl];B[sk];W[rp];B[ss]C[Dead. :)RIGHT])
+(;W[pk]C[CHOICE];B[pj];W[qj];B[pm];W[sl];B[sk];W[rp];B[ss]C[Black wins the capture race. :)RIGHT]))
+(;B[nm]
+(;W[pn];B[ol]))))
+(;B[ol];W[pk];B[pj];W[ok]
+(;B[nk];W[oj]C[White escapes.])
+(;B[nj];W[oj];B[oi];W[qj]C[White gets a second eye... :(]))
+(;B[pk];W[ol];B[ok];W[om];B[nm];W[pn];B[oo];W[nn]C[A ko.]))
+(;B[pl];W[po]C[D'oh.]))

@@ -1,0 +1,24 @@
+(;GE[tesuji]DI[5k]DP[33]SO[Stones]CO[7]AB[cb]AB[db]AB[cc]AB[cd]AB[cf]AB[dg]AB[cg]AB[bg]AB[ef]AB[fe]AW[df]AW[de]AW[dd]AW[dc]AW[ec]AW[eb]AB[fc]AB[fb]AW[hd]AW[id]AW[eg]AW[hg]AB[ea]AW[jc]AW[hf]AW[fg]AB[hc]AW[fd]TR[fd]C[White tries to connect.  How can black stop white from saving her stones?]AP[goproblems]
+(;B[ff];W[gd])
+(;B[ge];W[gd])
+(;B[gc];W[gd])
+(;B[ed];W[ee]
+(;B[ff];W[gd])
+(;B[ge];W[gd])
+(;B[gc];W[gd])
+(;B[gd];W[ff])
+(;B[ce];W[ff]))
+(;B[ce]LB[ed:A]LB[gd:B]C[A and B are miai to capture.RIGHT]
+(;W[gd];B[ed])
+(;W[ed];B[gd])
+(;W[ff];B[ee]))
+(;B[ee]C[RIGHT]
+(;W[ge];B[ce])
+(;W[ff];B[ce])
+(;W[gd];B[ed])
+(;W[ed];B[gd]))
+(;B[gd];W[ff]
+(;B[ce];W[ee])
+(;B[ge];W[ee])
+(;B[ed];W[ee])
+(;B[ee];W[ge]C[Snapback!])))

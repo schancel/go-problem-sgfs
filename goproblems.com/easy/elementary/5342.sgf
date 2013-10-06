@@ -1,0 +1,18 @@
+(;GE[elementary]DI[6k]DP[36]SO[Emile]CO[8]AB[ar]AB[br]AB[cr]AB[dr]AB[es]AW[cs]AW[aq]AW[bq]AW[cq]AW[dq]AW[eq]AW[er]AW[gr]LB[do:Dead]LB[bo:Live]LB[fo:Dep]C[What is the status of black's group? Alive as it stands, dead as it stands, or depends on whose turn it is? (play at 'live', 'dead' or 'dep')]AP[goproblems]
+(;B[fo];W[fp]C[Alright, if you can make it live, prove it.]
+(;B[bs];W[fs]C[Note that I may not play at d1 right now because of japanese rules saying that suicide is not allowed];B[ds]C[Very good, white's lone stone prevented white from making black's second eye false because of damezumari (shortage of liberties). In a real game, white would probably not play f1 right away, unless it's large enough.RIGHT])
+(;B[ds];W[bs]C[Only one eye])
+(;B[fs]
+(;W[ds]C[CHOICE];B[bs];W[ds]C[Only one eye])
+(;W[bs]C[Only one eye, but leaves aji and depends on what's right of H1.]))
+(;B[gs];W[ds]
+(;B[bs];W[ds]C[Only one eye])
+(;B[fs];W[hs];B[bs];W[ds]))
+(;B[fr];W[bs]
+(;B[gs];W[hr]C[Hint: you're not meant to escape or anything])
+(;B[fq];W[gq];B[gs];W[hs]C[What are you trying to do? ;-) Escape is not an option!]))
+(;B[as]C[Dead in gote (I don't have to move for it to be dead). No move will make you alive now :-(]))
+(;B[do];W[bs]C[It's dead now (only one eye), but please look again as there was still something you could do to make it alive])
+(;B[bo];W[ds]C[Okay, if you say it's alive, how do you answer this?]
+(;B[bs];W[ds]C[Only one eye, the other is false.])
+(;B[fs]C[Dead in gote (I don't need to move for it to be dead). Even if you play b1 after this, I will play d1 and it's still dead])))

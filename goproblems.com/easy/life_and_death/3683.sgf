@@ -1,0 +1,33 @@
+(;GE[life and death]DI[10k]DP[50]SO[Greywulf]CO[8]AW[br]AW[cr]AW[dr]AW[dq]AW[dp]AW[do]AW[co]AW[bo]AW[bp]AW[bq]AB[cs]AB[bs]AB[as]AB[ar]AB[aq]AB[ap]AB[ao]AB[bn]AB[dn]AB[er]AB[eq]AB[ep]AB[eo]AB[es]AB[el]AB[ck]AW[ds]TR[ds]C[Black to kill. Yes, you heard me.]AP[goproblems];B[an];W[cn]
+(;B[bm];W[cm]
+(;B[bl]
+(;W[dl]
+(;B[dk]
+(;W[em]
+(;B[fm];W[en];B[fn];W[dm])
+(;B[cl];W[dm];B[fm];W[en];B[fn])
+(;B[dm];W[en])
+(;B[en];W[fs]C[Good, w is dead. If you wish to confirm this, you can navigate the solution with ARIGHT]LB[gs:A];B[gs]
+(;W[dm]C[CHOICE];B[fm];W[fl];B[ek];W[fn];B[gm])
+(;W[fm]C[CHOICE];B[dm];W[cl]C[w is very much dead])
+(;W[cl]C[CHOICE]
+(;B[dm];W[ek];B[fm];W[bk];B[bj])
+(;B[ek]
+(;W[fm];B[dm])
+(;W[dm];B[fm])))))
+(;W[en];B[em];W[dm];B[fn]))
+(;B[ek];W[dk];B[dj];W[em];B[en];W[fm];B[dm];W[cl]
+(;B[cp]C[RIGHT])
+(;B[cq]C[RIGHT])
+(;B[cj]C[RIGHT])
+(;B[ej];W[bk];B[cj];W[al])
+(;B[bj]C[RIGHT])
+(;B[bk]C[RIGHT]))
+(;B[em];W[dk]C[w gets out])
+(;B[cl];W[en];B[em];W[dm];B[fn];W[dk]C[w gets out :(])
+(;B[dm]C[];W[fs]C[Right, w is dead. But there is a solution with w getting only ko-threats instead of kikashis. (play A to see the kikashis)RIGHT]LB[gs:A];B[gs];W[dk];B[cl];W[em];B[en];W[ek];B[fl];W[fk]C[And w gets a bit of a wall to compensate her loss]))
+(;W[em];B[dm];W[dl];B[en]
+(;W[dk];B[cl])
+(;W[cl];B[dk])))
+(;B[cl];W[bl]))
+(;B[cm];W[bm]TR[cm]C[The triangled move is black's original mistake];B[bl];W[al];B[am];W[bm]))

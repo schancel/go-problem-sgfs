@@ -1,0 +1,23 @@
+(;GE[life and death]DI[6k]DP[36]SO[zafris]CO[0]AB[qq]AB[qr]AB[qp]AB[rp]AW[ro]AW[qo]AW[po]AW[pp]AW[pq]AW[pr]AW[nr]AW[rm]AW[rq]C[A proverb say that the L-Group is dead. However, White did not know this and hastefully plays the marked stone without thinking. What does Black have in the corner now?FORCE]TR[rq]LB[ks:Nothing]LB[kq:Ko Threats]LB[ko:Ko]LB[km:Seki]LB[kk:Life]AP[goproblems]
+(;B[kk];W[jk]C[Restore life to the Black group!]
+(;B[rr]
+(;W[sq];B[sr];W[qs];B[rs]C[Right! More stones isn't always better!RIGHT])
+(;W[qs];B[rs];W[sq];B[sr]C[Right! More stones isnt always better!RIGHT])
+(;W[rs];B[qs];W[sq]
+(;B[sr]C[Right! More stones isnt always better.RIGHT])
+(;B[sp]C[Right! More stones isnt always better!RIGHT])))
+(;B[rs]
+(;W[sq];B[sr];W[sp])
+(;W[sr];B[rr];W[sq]))
+(;B[sr];W[rs]
+(;B[rr];W[qs])
+(;B[qs];W[rr]))
+(;B[sq]
+(;W[rr];B[rs];W[sr];B[ss];W[rr])
+(;W[rs]
+(;B[rr];W[qs])
+(;B[qs];W[rr]))))
+(;B[km];W[jm]C[Okay, please show me the seki.];B[sr];W[rs];B[qs];W[rr];B[sp]C[Not a seki, once White fills the outside liberties, the Black group is in atari and a connect-and-die situation.]AW[ps]AW[so]TR[ps]TR[so])
+(;B[ko];W[jo]C[No... its not a ko.])
+(;B[kq];W[jq]C[Well... it's not just ko threats.])
+(;B[ks];W[js]C[Are you sure? Even if you think that Black cannot live, there is at least some ko threats. Please reconsider carefully.]))

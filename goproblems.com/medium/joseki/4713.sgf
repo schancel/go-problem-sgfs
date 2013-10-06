@@ -1,0 +1,7 @@
+(;GE[joseki]DI[4k]DP[28]SO[santa c]CO[5]AB[dp]AB[ep]AB[fp]AB[fo]AB[eq]AB[dq]AB[er]AB[fq]AB[gp]C[Half way through a common 4x4 joseki... Can you recognise it? (Both players played with black stones..) Where should you play next?]AP[goproblems]
+(;W[gr]AW[dq]AW[er]AW[fq]AW[gp]C[];B[cq]C[Well done.. Please finish it..]LB[fq:1]LB[fp:2]LB[gp:3]LB[fo:4]LB[dq:5]LB[eq:6]LB[er:7]LB[ep:8]LB[gr:9]LB[cq:10]LB[dr:A];W[dr];B[go]LB[hp:A];W[hp];B[cj]C[Well done.. ^^RIGHT])
+(;W[gq]AW[fq]AW[gp]AW[er]AW[dq]C[Doesn't protect the cut.. Correct move is G2..]TR[dr]TR[fr])
+(;W[fr]AW[er]AW[dq]AW[fq]AW[gp]C[The shape isn't good - Better to protect with G2.])
+(;W[dr]AW[dq]AW[er]AW[fq]AW[gp]C[The correct move is G2, which protects the cut and doesn't allow black to force white into living in the corner. (Worth less then the thickness.. Espacially here, where black choses such a sequence, pressing from the top, showing that thickness is what he wants..)]TR[gq])
+(;W[cq]AW[dq]AW[er]AW[fq]AW[gp]C[The correct move is G2, which protects the cut and doesn't allow black to force white into living in the corner. (Worth less then the thickness.. Espacially here, where black choses such a sequence, pressing from the top, showing that thickness is what he wants..)]TR[gq])
+(;W[cr]AW[dq]AW[er]AW[fq]AW[gp]C[The correct move is G2, which protects the cut and doesn't allow black to force white into living in the corner. (Worth less then the thickness.. Espacially here, where black choses such a sequence, pressing from the top, showing that thickness is what he wants..)]TR[gq]))

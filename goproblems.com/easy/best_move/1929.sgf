@@ -1,0 +1,21 @@
+(;GE[best move]DI[4k]DP[31]SO[stef2]CO[8]SZ[9]AB[ac]AB[ag]AB[bc]AB[bg]AB[ca]AB[cb]AB[cc]AB[cg]AB[db]AB[df]AB[dg]AB[ea]AB[eb]AB[ee]AB[ef]AB[eh]AB[ei]AB[fe]AB[ff]AB[fi]AB[gd]AB[ge]AB[id]AB[ie]AB[if]AW[ab]AW[ad]AW[ae]AW[ba]AW[bd]AW[bf]AW[cd]AW[ce]AW[cf]AW[dc]AW[de]AW[ec]AW[ed]AW[fa]AW[fb]AW[fc]AW[fh]AW[gc]AW[gf]AW[gi]AW[hc]AW[hf]AW[hh]AW[ic]AW[ig]AW[ih]AW[ii]C[Black to play and win the game. There's no komi and no prisoners.]KM[0.0]
+(;B[fg];W[gg]
+(;B[gh]
+(;W[hd]
+(;B[he];W[fh]
+(;B[bb]
+(;W[da];B[gh];W[fd]C[White just plays a dame, he has no more ko threats.]
+(;B[hg]C[ White has 18 territories + 10 prisoners, black has 19 territories + 10 prisoners, black wins by 1 !RIGHT])
+(;B[fh]C[ White has 18 territories + 10 prisoners, black has 19 territories + 10 prisoners, black wins by 1 !RIGHT])
+(;B[hi]C[Black wins by one point.RIGHT]))
+(;W[gh];B[aa]C[White has 10 territories + 1 prisoner, black has 12 territories + 3 prisoners, black wins by 4]))
+(;B[fd];W[gh]C[White has 11 territories + 1 prisoner, black has 10 territories + 1 prisoner, white wins by 1 !])
+(;B[af];W[gh]C[White has 11 territories + 1 prisoner, black has 10 territories + 1 prisoner, white wins by 1 !])
+(;B[ha];W[gh]C[This is not a threat ! White wins by 2 points])
+(;B[hb];W[gh]C[This is not a threat ! White wins by 2 points]))
+(;B[hi];W[he];B[gi]C[White has 12 territories + 3 prisoners, black has 10 territories + 2 prisoners, white wins by 3]))
+(;W[bb]C[In case white eliminates black's ko threat ...]
+(;B[fh];W[da];B[hd]C[White has 17 territories + 8 prisoners, black has 20 territories + 9 prisoners, black wins by 4])
+(;B[aa];W[fh];B[hd];W[gh]C[White has 10 territories + 1 prisoner, black has 13 territories + 4 prisoners, black wins by 6])))
+(;B[he];W[gh]C[White has 10 points territory, no prisoners. Black has 9 points territory, no prisoners. White wins by one point.]))
+(;B[gg];W[fg]))

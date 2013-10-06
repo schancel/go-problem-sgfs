@@ -1,0 +1,36 @@
+(;GE[tesuji]DI[6k]DP[36]SO[adum]CO[8]AB[dd]AB[fd]AB[hc]AB[jc]AB[jd]AB[ke]AB[kf]AB[ki]AW[je]AW[ie]AW[ig]AW[ii]AW[kd]AW[ld]AW[md]AB[me]AB[mg]AW[mh]AW[li]AW[cf]AB[ch]AW[cp]AW[do]AB[eq]AB[iq]AB[jo]AB[lo]AB[lp]AW[ln]AW[kn]AW[pc]AW[od]AW[oe]AW[of]AW[nf]AW[ng]AB[nh]AB[og]AB[ne]AB[ni]AB[pg]AB[pf]AW[qf]AB[rr]AW[qr]AW[qq]AB[pr]AB[pq]AB[oq]AB[nr]AW[nq]AW[mq]AB[np]AB[no]AW[op]AW[pp]AW[qo]AB[qp]AB[rp]AB[ro]AW[pn]AW[on]AW[nn]AW[qm]TR[mh]C[catch the marked stone]AP[goproblems]
+(;B[lh];W[mi]
+(;B[mj];W[lj]
+(;B[lk];W[kj]
+(;B[jj]C[the ladder works. both players missed this in the game for about ten moves.RIGHT])
+(;B[kk];W[jj]))
+(;B[kj];W[lk]))
+(;B[lj];W[mj]
+(;B[mk];W[nj])
+(;B[nj];W[mk]))
+(;B[kj];W[lg])
+(;B[nj];W[kh]))
+(;B[mi];W[lh]
+(;B[lj];W[kh]
+(;B[jh];W[ji];B[kj];W[jg])
+(;B[ji];W[jh]))
+(;B[kh];W[lj])
+(;B[lg];W[lj]))
+(;B[lg];W[lj])
+(;B[kh];W[lj])
+(;B[mj];W[lg];B[mf];W[lj])
+(;B[lj];W[lg]
+(;B[mf];W[kh]
+(;B[mi];W[lh];B[jh];W[ji];B[kj];W[jg])
+(;B[jh];W[ji]
+(;B[mi];W[lh])
+(;B[kj];W[jg]
+(;B[mi];W[lh])
+(;B[kg];W[ih]))))
+(;B[mi];W[lh];B[mf];W[kh];B[jh];W[ji]))
+(;B[kj];W[lg];B[mf];W[kh];B[jh];W[lj])
+(;B[lk];W[lg];B[mf];W[kh])
+(;B[mk];W[lg];B[mf];W[kh])
+(;B[mf];W[lj])
+(;B[kg];W[lj])
+(;B[qe];W[lg]))

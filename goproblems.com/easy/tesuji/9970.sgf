@@ -1,0 +1,9 @@
+(;GE[tesuji]DI[7k]DP[41]SO[frozenv7]CO[5]AB[pd]AW[cq]AW[dp]AB[fq]AB[ip]AB[qr]AB[pr]AB[pq]AB[op]AB[np]AB[mo]AB[mn]AB[nn]AB[om]AB[pm]AB[pn]AB[nl]AW[pj]AW[on]AW[oo]AW[no]AW[po]AW[qo]AW[pp]AW[qq]AW[rq]AW[rr]AW[rm]AW[nm]LB[nl:1]C[White just played a ladder block at h12. What is your correct continuation?]AW[cc]AB[dd]AW[cd]AB[de]AW[cf]AB[dg]AW[dc]AW[eb]AW[fc]AW[gc]AW[gd]AW[ce]AW[df]AW[eg]AW[dh]AW[he]AW[hg]AB[ec]AB[ed]AB[fd]AB[ef]AB[ff]AB[gf]AB[ge]AB[hd]AB[id]AB[if]AB[ee]LB[hg:2]AP[goproblems]
+(;B[hf];W[mm];B[lm];W[ml];B[mk];W[ll];B[kl];W[lk];B[lj];W[kk];B[jk];W[kj];B[ki];W[jj];B[ij];W[ji];B[jh];W[ii];B[hi];W[ih]
+(;B[ig];W[hh];B[gh]C[The ladder works! White made a mistake by playing '2'.RIGHT])
+(;B[hh];W[ig]
+(;B[gg];W[jg]C[White escapes...])
+(;B[jg];W[gg];B[gh];W[fg]
+(;B[eh];W[cg];B[fh];W[dg]C[:o(])
+(;B[fh];W[eh]C[:o(]))))
+(;B[mm];W[hf]TR[ef]TR[ff]TR[gf]TR[ge]TR[ee]TR[ed]TR[fd]TR[ec]TR[dd]TR[de]C[The marked stones are now under attack.]))

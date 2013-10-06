@@ -1,0 +1,17 @@
+(;GE[life and death]DI[5k]DP[32]SO[Bleedo]CO[8]AB[mq]AB[nr]AB[oq]AB[pp]AB[qp]AW[or]AW[pr]AW[pq]AW[qq]AW[qm]LB[pr:1]AB[rr]LB[rr:2]C[White played 1, it would have been a deadly mistake had it not been for the R7 stone, black doesn't seem to think so, so politely show him his mistake. By the way, Q2 is a positional error, white should have played R4 for optimal play. All ladders to the rest of the board don't work {except to the edges in the local area}]AP[goproblems]
+(;W[rp];B[rq];W[op];B[nq];W[po];B[qo];W[ro];B[qn];W[pn]C[Yup, the ladder works because of R7 =DRIGHT])
+(;W[op]C[White played 1, it would have been a deadly mistake had it not been for the R7 stone, black doesn't seem to think so, so politely show him his mistake. By the way, Q2 is a positional error, white should have played R4 for optimal play. ladders to the rest of the board don't work {except to the edges in the local area}];B[nq];W[rp];B[ro];W[rq];B[qo]
+(;W[oo];B[pn];W[sr];B[pm]C[Not the most optimal play for you, although I'll accept it.])
+(;W[sr];B[rs]
+(;W[sp]C[GoodRIGHT])
+(;W[qs]C[RIGHT]))
+(;W[rs];B[qs];W[sr];B[ss]C[Ko...])
+(;W[qs]C[Good =DRIGHT]))
+(;W[rq];B[rp]
+(;W[sp];B[so];W[op];B[nq];W[sq];B[ro];W[rs];B[qs]
+(;W[qr];B[ss];W[sr];B[rs])
+(;W[sr];B[ss]C[Ko...]))
+(;W[qs];B[sq]
+(;W[sr];B[ss];W[rs];B[sr])
+(;W[rs];B[sr])))
+(;W[qs];B[rq]))

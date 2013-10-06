@@ -1,0 +1,79 @@
+(;GE[tesuji]DI[1k]DP[19]SO[lok]CO[0]SZ[19]AW[qg]AW[qh]AW[qi]AW[pj]AW[pk]AW[pl]AW[sl]AW[pm]AW[qn]AW[rn]AW[ro]AW[rp]AB[qj]AB[qk]AB[ql]AB[qm]AB[rm]AB[pn]AB[po]AB[qp]AB[rq]AB[qr]TR[sl]C[White played T8. How to punish?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[tsumego6bis]
+(;B[sm];W[rj]
+(;B[sp];W[rk]
+(;B[so];W[rl]C[Black got tricked])
+(;B[sn];W[rl]C[Black got tricked]))
+(;B[rk];W[sk];B[ri];W[si]C[Ko is not enough])
+(;B[sk];W[rk];B[rl];W[sn]C[Black got tricked])
+(;B[ri];W[rk]C[Black is captured])
+(;B[qo];W[rk]C[Black is captured]))
+(;B[rj]
+(;W[sm]C[CHOICE]
+(;B[sk];W[sn]
+(;B[ri];W[rl]
+(;B[sp];W[rk];B[qo];W[sj];B[si];W[rh];B[sk]C[Ko])
+(;B[rh];W[rg];B[sp];W[rk]
+(;B[si];W[sj]C[Ko, black must win it twice])
+(;B[qo];W[sj]C[Black is captured])))
+(;B[rl];W[si]
+(;B[sp];W[sj];B[qo];W[rk]C[Ko is not enough])
+(;B[ri];W[rh]
+(;B[sp];W[sh];B[qo]C[CorrectRIGHT])
+(;B[qo]C[NOTTHIS])
+(;B[so]C[NOTTHIS])))
+(;B[sp];W[rl]
+(;B[ri])
+(;B[qo];W[ri];B[sq];W[si];B[so]C[CorrectRIGHT])))
+(;B[sn];W[sk]
+(;B[sp];W[so];B[sq];W[sn]
+(;B[sj];W[ri];B[qo];W[si])
+(;B[qo];W[ri];B[sj]))
+(;B[sj];W[ri];B[sp];W[so];B[sq];W[si];B[qo];W[sn]))
+(;B[sp];W[sk]C[Seki])
+(;B[ri];W[sk];B[rh];W[rg]C[Seki]))
+(;W[sj]C[Another possible  white defense.]
+(;B[si];W[sk];B[sm])
+(;B[sm];W[ri];B[sp])))
+(;B[sn];W[sm]
+(;B[sp];W[so];B[sq];W[sj])
+(;B[sk]
+(;W[so]C[CHOICE]
+(;B[rl];W[rj];B[sn];W[sm];B[ri];W[si];B[qo];W[rh];B[sl];W[sj];B[sn]C[Ko is not enough])
+(;B[rj]C[Correct. White loses the semaiRIGHT]))
+(;W[rj];B[rl];W[sm];B[ri];W[si]
+(;B[sp];W[sj];B[qo])))
+(;B[rj])
+(;B[rk])
+(;B[qo];W[so]
+(;B[rj];W[sk]C[Seki.])
+(;B[sk];W[rj]C[Black is captured])
+(;B[sq];W[sj]C[Black is captured])))
+(;B[sp];W[sm]
+(;B[sn])
+(;B[sk];W[rj])
+(;B[rj]))
+(;B[qo]C[The variations are identical to black T4 first.])
+(;B[sk];W[rj]
+(;B[ri];W[rk])
+(;B[rk];W[ri]C[Black is dead.])
+(;B[sn];W[rk]
+(;B[sp];W[rl])
+(;B[sm];W[so]))
+(;B[rl];W[rk];B[sm];W[sn]))
+(;B[rk];W[sm]
+(;B[sn];W[sj]
+(;B[sk];W[rj])
+(;B[ri];W[sk]))
+(;B[ri];W[sj];B[sk];W[rh]
+(;B[si];W[sh];B[rj];W[sn])
+(;B[sn];W[so];B[qo];W[si];B[sq];W[rj]))
+(;B[sk];W[sj]
+(;B[ri])
+(;B[sn])
+(;B[si];W[ri];B[rj];W[sn])))
+(;B[ri];W[sm]
+(;B[rj])
+(;B[sn];W[sj]C[At best black will get a seki])
+(;B[sj];W[sn]C[At best black will get a seki.])
+(;B[rh];W[rj];B[rk];W[sj]C[Black is captured]))
+(;B[sj];W[rj]C[Black is captured]))

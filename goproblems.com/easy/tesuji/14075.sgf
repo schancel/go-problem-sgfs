@@ -1,0 +1,55 @@
+(;GE[tesuji]DI[4k]DP[30]SO[mr0661]CO[0]AB[pp]AW[qq]AW[pq]AB[qp]AW[rp]AB[ro]AW[rq]AB[oq]AB[op]AW[or]AW[nr]AB[nq]AB[mq]AW[rs]AW[sr]AB[gr]AB[hr]AB[gp]AB[hm]AB[km]AB[nm]AB[qn]AW[ks]AB[kr]AW[js]TR[js]C[Black to find endgame tesuji]AP[goproblems]
+(;B[lr];W[ls]
+(;B[ms];W[mr]
+(;B[jr];W[ns]
+(;B[is]C[White stones get capturedRIGHT])
+(;B[pr]))
+(;B[pr];W[ns];B[jr];W[qr]
+(;B[is]C[Black captures three stonesRIGHT])
+(;B[ps];W[qs];B[is]C[Black captures three stonesRIGHT]))
+(;B[os];W[pr]C[White connects]))
+(;B[mr];W[ms];B[jr];W[is]C[Too good for white])
+(;B[jr];W[ms];B[is];W[mr]C[Too good for white])
+(;B[pr];W[ms];B[mr];W[qr]C[White connects]))
+(;B[ms];W[mr]
+(;B[lr];W[ls])
+(;B[jr];W[lr]
+(;B[lq];W[ls]C[Too good for white])
+(;B[is];W[ls]C[Too good for white]))
+(;B[pr];W[lr]C[Too good for white]))
+(;B[mr];W[ms];B[jr];W[ls];B[is];W[pr]C[White connects])
+(;B[ls];W[lr]
+(;B[mr];W[ms]
+(;B[ns];W[os]
+(;B[lq];W[ls]C[White connects])
+(;B[pr];W[qr]C[White connects]))
+(;B[lq];W[ls]C[White connects]))
+(;B[lq];W[mr];B[jr];W[is];B[ir];W[ms];B[hs];W[ls]C[Too good for white]))
+(;B[jr];W[ms]
+(;B[mr];W[pr]C[White connects])
+(;B[is];W[ls]C[White connects])
+(;B[lr];W[ls]C[White connects])
+(;B[pr];W[ps]C[White connects]))
+(;B[pr];W[ms]
+(;B[mr];W[ls];B[ps];W[ns]C[White connects])
+(;B[ps];W[ls]C[White connects]))
+(;B[os];W[ms]
+(;B[mr];W[ls]C[White connects])
+(;B[lr];W[ls]C[White connects]))
+(;B[ns];W[ms]
+(;B[mr];W[ls];B[pr];W[os];B[ps];W[ns]C[White connects])
+(;B[pr];W[ls];B[mr];W[os]
+(;B[jr];W[qr]C[White connects])
+(;B[ps];W[ns]C[White connects])))
+(;B[ps];W[pr]
+(;B[lr];W[ls];B[ms]C[White connects])
+(;B[ls];W[lr]
+(;B[mr];W[ms]C[White connects])
+(;B[lq];W[mr]C[White connects]))
+(;B[ms];W[mr];B[lr];W[ls]C[White connects])
+(;B[mr];W[ms]C[White connects]))
+(;B[is];W[ms]
+(;B[jr])
+(;B[lr];W[ls]C[White connects])
+(;B[mr];W[ns]C[White connects])
+(;B[pr];W[qr];B[mr];W[ns]C[White connects])))

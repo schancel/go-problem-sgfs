@@ -1,0 +1,83 @@
+(;GE[endgame]DI[5k]DP[33]SO[ecb1]CO[7]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[an][bn][cn][dn][do][eo][fo][go][ho][io][dp][cq]AB[ao][bo][co][cp][ep][fp][gp][hp][ip][dq]LB[dp:A][cq:B]C[White pushed with A, Black played
+ elsewhere, and White cut with B.
+  What can Black do?]
+(;B[bq]CR[bq]
+;W[cr]CR[cr]
+(;B[br]CR[br]
+;W[dr]CR[dr]
+(;B[eq]CR[eq]
+;W[ap]CR[ap]
+(;B[bp]CR[bp]
+;W[bs]CR[bs]
+(;B[ar]CR[ar]
+;W[cs]CR[cs]
+;B[er]LB[dp:A]CR[er]C[RIGHT
+White's push at A only generates
+ potential ko threats.])
+(;B[er]CR[er]
+;W[ar]CR[ar]C[Black has given up too much.])
+(;B[as]CR[as]
+;W[ar]CR[ar]C[Black has given up too much.])
+(;B[cs]CR[cs]
+;W[ar]CR[ar]C[White is happy with a ko.]))
+(;B[er]CR[er]
+;W[bp]CR[bp]C[Black has given up too much.]))
+(;B[er]CR[er]
+;W[eq]CR[eq]
+;B[fq]CR[fq]
+;W[ap]CR[ap]C[White is happy with ko and an internal
+ ko threat.])
+(;B[bs]CR[bs]
+;W[eq]CR[eq]C[Black lives in the corner, but has
+ given too much by letting White in.])
+(;B[ap]CR[ap]
+;W[eq]CR[eq]C[Black lives in the corner, but has
+ given up too much letting White in.]))
+(;B[dr]CR[dr]
+;W[br]CR[br]
+(;B[cs]CR[cs]
+;W[ar]CR[ar]
+;B[bs]CR[bs]
+;W[ap]CR[ap]C[Black has given up too much.])
+(;B[ar]CR[ar]
+;W[ap]CR[ap]C[Black has given up too much.]))
+(;B[ar]CR[ar]
+;W[ap]CR[ap]
+;B[bp]CR[bp]
+;W[br]CR[br]
+;B[aq]CR[aq]
+;W[dr]CR[dr]
+;B[er]CR[er]
+;W[eq]CR[eq]
+;B[fq]CR[fq]
+;W[bs]CR[bs]C[White is ahead in liberties and
+ takes the corner.])
+(;B[cs]CR[cs]
+;W[br]CR[br]
+;B[dr]CR[dr]
+;W[ar]CR[ar]
+;B[bs]CR[bs]
+;W[ap]CR[ap]C[Black has given up too much.]))
+(;B[cr]CR[cr]
+;W[bq]CR[bq]
+(;B[br]CR[br]
+;W[dr]CR[dr]
+(;B[eq]CR[eq]
+;W[ar]CR[ar]
+(;B[bp]CR[bp]
+;W[ap]CR[ap]C[Black has given up too much.])
+(;B[aq]CR[aq]
+;W[ap]CR[ap]C[Black has given up too much.]))
+(;B[er]CR[er]
+;W[eq]CR[eq]
+(;B[fq]CR[fq]
+;W[dq]CR[dq]C[Black has given up too much.])
+(;B[ds]CR[ds]
+;W[dq]CR[dq]
+;B[fr]CR[fr]
+;W[fq]CR[fq]C[The four black stones can not
+ escape; Black has given up too much.])))
+(;B[dr]CR[dr]
+;W[br]CR[br]C[Black has given up too much.])))

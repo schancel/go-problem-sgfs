@@ -1,0 +1,41 @@
+(;GE[life and death]DI[3k]DP[25]SO[santa c]CO[0]AB[ap]AB[cp]AB[bp]AB[cr]AW[bo]AW[co]AW[dp]AW[eq]AW[er]AW[dn]C[b to live locally (no ko, elementary)]AP[goproblems]
+(;B[ar];W[bq]
+(;B[dr]
+(;W[cq]
+(;B[dq];W[br]
+(;B[bs]C[nice!RIGHT])
+(;B[aq];W[bs]MA[as]MA[cs]C[can't approach]))
+(;B[br];W[dq]))
+(;W[bs];B[br]C[RIGHT]))
+(;B[cq];W[bs]MA[br]MA[cs]C[dead])
+(;B[br];W[cq])
+(;B[dq];W[dr]MA[cq]MA[bs]C[dead]))
+(;B[dq];W[dr]
+(;B[ar];W[bq])
+(;B[cq];W[cs]MA[as]MA[br]MA[ar]MA[aq]MA[bq])
+(;B[bq];W[ar]))
+(;B[bq];W[ar]MA[as]MA[bs]MA[br]MA[ar]MA[aq]TR[dr]TR[dq])
+(;B[bs];W[ar]MA[as]MA[ar]MA[br]MA[bq]MA[aq])
+(;B[dr];W[ds]
+(;B[ar];W[bs];B[cs];W[bq]
+(;B[br]C[nice!RIGHT])
+(;B[cq];W[br])
+(;B[dq];W[br]))
+(;B[bs];W[ar]MA[as]MA[ar]MA[br]MA[bq]MA[aq])
+(;B[bq];W[ar]
+(;B[dq];W[bs];B[cs];W[br])
+(;B[bs];W[dq])
+(;B[cs];W[dq]))
+(;B[dq];W[bs];B[cs];W[br])
+(;B[br];W[ar]
+(;B[dq]C[nice!RIGHT])
+(;B[aq];W[cq]
+(;B[dq];W[bs];B[as]C[ko (running out may not be a valid threat)])
+(;B[as];W[dq]MA[cs]MA[bq])
+(;B[cs];W[dq]MA[bq]MA[as]))
+(;B[cs];W[dq]
+(;B[cq];W[aq];B[as];W[bs]C[ko or escape, depends on surrounding])
+(;B[aq];W[cq])
+(;B[as];W[cq];B[bq];W[bs]C[ko or escape, depends on surrounding]))
+(;B[as]C[tricky? see next problem])))
+(;B[br];W[cq]MA[ar]MA[bq]))

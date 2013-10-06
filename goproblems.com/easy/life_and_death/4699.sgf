@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[40]SO[assacra]CO[8]AW[bb]AW[ba]AB[cb]AB[ca]AB[db]AB[ec]AB[fc]AB[fd]AW[ac]AW[bd]AW[cc]AW[ed]AW[dd]AW[fe]AW[ge]AW[gd]AW[gc]AB[ea]C[white to kill]AW[hc]AP[goproblems]
+(;W[gb];B[fb]C[alive])
+(;W[fb];B[gb]
+(;W[hb];B[ga])
+(;W[ga]C[RIGHT])
+(;W[dc];B[eb]
+(;W[ga];B[hb]
+(;W[ha];B[ib])
+(;W[ib];B[fa]))
+(;W[hb];B[ga])))
+(;W[fa];B[fb]
+(;W[dc];B[ga])
+(;W[ga];B[gb]))
+(;W[ga];B[fb];W[fa];B[gb])
+(;W[dc];B[fb]))

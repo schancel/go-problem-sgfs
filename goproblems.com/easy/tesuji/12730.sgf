@@ -1,0 +1,19 @@
+(;GE[tesuji]DI[6k]DP[39]SO[kuikentje]CO[0]AW[rb]AW[rc]AW[rd]AW[qd]AW[sd]AW[se]AW[sf]AW[sg]AB[qc]AB[qb]AW[pc]AW[pb]AW[oc]AB[nc]AB[nd]AB[od]AB[pd]AB[lc]AB[je]AB[jf]AW[oe]AW[pe]AW[ne]AW[nf]AB[qe]AB[re]AB[rf]AB[rg]AB[of]AB[pf]AB[pg]AB[qg]AB[rh]AB[sh]AB[si]AB[rj]AB[rk]AW[oh]AW[oi]AW[og]AW[pj]AW[qj]AW[qi]AW[ri]AW[ql]AW[qn]AB[mg]AB[ng]AB[nh]AW[lf]AW[kf]AB[kg]AW[jg]AW[kh]AB[jd]TR[mg]C[Black has just played the marked stone. White's square stones are vital to kill black's group on the left, but can he save them? Play at A if you think the white stones are lost.]LB[lg:A]MA[nf]MA[ne]MA[oe]MA[pe]AP[goproblems]
+(;W[lg];B[mf]C[Black captures his stones and saves his group on the right side. White can do better than this.])
+(;W[mf];B[lg]
+(;W[ni]
+(;B[jh]
+(;W[ig];B[lh]
+(;W[ki];B[li];W[lj];B[kj];W[ji];B[mj]
+(;W[lk];B[mi];W[mk]C[RIGHT];B[nj]
+(;W[nk]C[Excellent, black can not escape!RIGHT])
+(;W[oj];B[nk];W[nl];B[ok];W[ol];B[pk];W[qk]C[Excellent, black can not escape!RIGHT]))
+(;W[mi];B[lk]))
+(;W[li];B[ki]))
+(;W[lh];B[ig]C[Not good. Black is out, and white will be captured.];W[mh];B[jg]))
+(;B[le];W[lh]C[RIGHT]))
+(;W[mi];B[le]C[Black is one liberty ahead.])
+(;W[lh];B[ni]
+(;W[nj];B[mi];W[lj];B[le]C[Black is one liberty ahead.])
+(;W[mj];B[nj];W[nk];B[le]C[Black wins by one liberty.])))
+(;W[le];B[lg];W[ni];B[me];W[mf];B[ld];W[md];B[ke]C[Black wins a capture race easily. The bamboo joint lacks liberties.]))

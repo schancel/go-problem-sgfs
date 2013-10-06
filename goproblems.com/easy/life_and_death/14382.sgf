@@ -1,0 +1,50 @@
+(;GE[life and death]DI[4k]DP[31]SO[fungosage]CO[0]AB[lr]AB[mq]AB[mp]AW[kr]AW[ls]AW[lq]AW[kp]AW[kq]AB[lp]AW[lo]AW[mo]AW[no]AW[on]AW[po]AW[qp]AW[qq]AB[np]AB[op]AB[pq]AB[qr]AB[rs]AW[rr]AW[sr]AB[pr]AB[nr]AW[oq]C[Black to find life without ko.]AW[qn]AP[goproblems]
+(;B[os];W[qs];B[ms];W[mr]C[only a ko.])
+(;B[ms];W[mr]C[only a ko, and white takes first.])
+(;B[ns];W[qs]
+(;B[ps];W[or])
+(;B[or];W[ps])
+(;B[ms];W[ks]
+(;B[ps];W[or])
+(;B[or];W[ps]C[white doesn't have to fight black's ko setup at N1. b's dead without a ko.])))
+(;B[qs];W[os]
+(;B[ns];W[or]
+(;B[mr];W[pp]C[b dies.])
+(;B[pp];W[mr]))
+(;B[or];W[ns])
+(;B[ms];W[mr]C[a ko.])
+(;B[mr];W[or]
+(;B[pp];W[ms];B[ns];W[ks]C[yes, a seki!RIGHT])
+(;B[ms];W[pp])
+(;B[ns];W[pp])
+(;B[nq];W[ms];B[ns];W[ks])))
+(;B[or];W[qs]
+(;B[ps];W[ns])
+(;B[ms];W[mr]C[um, it's a ko.])
+(;B[os];W[ms]))
+(;B[nq];W[os]
+(;B[ns];W[or]
+(;B[ps];W[or])
+(;B[qs];W[pp]))
+(;B[or];W[ns])
+(;B[ms];W[mr]C[b can make life without a ko.]))
+(;B[mr]
+(;W[ms]
+(;B[qs];W[os]
+(;B[ns];W[or]
+(;B[ks];W[ls];B[pp]C[yep. Black can live within a seki.RIGHT])
+(;B[pp]C[yes. black can live in a seki.RIGHT]))
+(;B[or];W[ns]))
+(;B[ps];W[ns])
+(;B[ns];W[qs]
+(;B[or];W[ps])
+(;B[ps];W[or]))
+(;B[or];W[qs]
+(;B[ps];W[ns])
+(;B[ns];W[ps]))
+(;B[os];W[qs]))
+(;W[qs]
+(;B[ms];W[os];B[ps];W[or];B[pp]C[yes. a seki!RIGHT])
+(;B[os];W[ms])
+(;B[ns])))
+(;B[ps];W[ns]))

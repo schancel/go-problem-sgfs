@@ -1,0 +1,12 @@
+(;GE[elementary]DI[10k]DP[50]SO[symplicity]CO[0]AB[qc]AW[pd]AW[pc]AB[qb]AW[nc]AB[re]AB[pb]AW[ob]AW[qe]TR[qe]AP[goproblems]
+(;B[rf]C[Black avoids being sealed in. Black can also resist more strongly - see variations.RIGHT])
+(;B[qd];W[qf]C[Makes white stronger, doesn't help black keep from being sealed in.])
+(;B[rd]C[A bit too passive.])
+(;B[qf];W[rd]C[This might not be the best move for white, but how do you handle this?]
+(;B[qd]C[];W[pe]
+(;B[rf];W[rc];B[rb]C[Black kills two stones and escapes.RIGHT])
+(;B[rc];W[rf];B[sd];W[qg]C[Black is sealed in.])
+(;B[rg]C[Black connects and kills one stone.RIGHT]))
+(;B[rc];W[qd];B[sd];W[rf];B[se];W[qg];B[pf];W[rh]TR[re]TR[se]TR[sd]TR[rc]TR[qc]TR[qb]TR[pb]C[Dead.])
+(;B[rf];W[qd]TR[qc]TR[qb]TR[pb])
+(;B[pe];W[qd]TR[qc]TR[qb]TR[pb])))

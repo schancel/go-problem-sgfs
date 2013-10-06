@@ -1,0 +1,25 @@
+(;GE[endgame]DI[1k]DP[18]SO[Field Mouse]CO[0]SZ[13]AW[ec]AW[de]AW[df]AW[fe]AW[ff]AW[cg]AW[dj]AW[fg]AB[bf]AB[ce]AB[cd]AB[cc]AB[ag]AW[ah]AW[bh]AB[gc]AB[gd]AB[ge]AB[gf]AB[gg]AB[bd]AB[ae]AW[gh]AW[hh]AB[ig]AB[ih]AW[ii]AW[ji]AW[kh]AW[lf]AW[kg]AW[jk]AB[hi]AB[ik]AB[ij]AB[jl]AB[kl]AW[kk]AB[ll]AW[jj]AW[ld]AW[ke]AB[hg]AB[jf]AB[je]AW[kf]AB[jd]AB[kc]AB[lb]AW[lc]AW[mb]AB[la]AW[kd]AB[jc]AB[gi]AW[fh]AB[fj]AB[ek]AW[dk]AW[dl]AB[el]AB[gl]AW[bl]AW[fi]AB[gj]AW[ej]AW[mk]AB[ml]AW[jh]AB[jg]C[Black needs to play the best endgame. Do not count points on the board - just play the best you can.]AB[bg]AW[cf]AW[ch]AW[lk]AP[goproblems]
+(;B[ed];W[dd]
+(;B[eb];W[fd]
+(;B[dm];W[cm];B[em];W[fc];B[fb];W[dc];B[db]C[Yes!RIGHT])
+(;B[fc];W[dc];B[db];W[em];B[fm];W[dm]C[One point worse than the solution.]))
+(;B[dc];W[fd];B[eb];W[fc];B[fb];W[em];B[fm];W[dm]C[One point worse than the solution.]))
+(;B[eb]
+(;W[db]
+(;B[dc];W[fb];B[ed];W[fc];B[fd];W[ea]C[White lives, not the best.])
+(;B[fb];W[dc])
+(;B[ed];W[fb]
+(;B[ea]C[White dies.RIGHT])
+(;B[cb];W[ea]
+(;B[gb];W[fd];B[fc];W[dd])
+(;B[fd];W[gb]))
+(;B[gb];W[ea]
+(;B[cb];W[dd];B[dc];W[fd])
+(;B[dd];W[cb]))
+(;B[dd];W[ea])
+(;B[fd];W[ea])))
+(;W[fd];B[fc];W[dc];B[db];W[em];B[fm];W[dm];B[dd];W[ed])
+(;W[ed];B[fb];W[dc];B[db];W[em];B[fm];W[dm]C[Best for white.RIGHT])
+(;W[dc]))
+(;B[dc];W[fc])
+(;B[db];W[eb]))

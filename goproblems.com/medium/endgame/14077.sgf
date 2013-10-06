@@ -1,0 +1,75 @@
+(;GE[endgame]DI[1d]DP[17]SO[sacapof]CO[0]AB[cq]AW[dq]AB[dp]AB[ep]AB[eq]AW[cp]AW[bp]AW[bo]AB[co]AW[do]AW[dn]AW[en]AW[em]AW[fm]AW[cm]AW[bm]AB[bl]AB[cl]AB[dl]AB[dm]AB[el]AB[fl]AB[gl]AB[gm]AB[gn]AB[fn]AB[fo]AB[hq]AB[hr]AW[gr]AB[gp]LB[jj:2]LB[jk:5]LB[jl:8]TR[dq]C[how many ways are they to capture the marked stone?
+if you think that the stone is already toasted click Toast
+if you feel lazy you can skip that part of the problem by clicking T]LB[mj:T]LB[mk:Toast]LB[jm:12]LB[jn:15]AB[bj]AP[goproblems]
+(;B[bq];W[dr];B[er];W[cr];B[br])
+(;B[dr])
+(;B[br])
+(;B[cr])
+(;B[fr])
+(;B[gs])
+(;B[gq])
+(;B[er])
+(;B[es])
+(;B[ds])
+(;B[cs];W[dr];B[cr];W[er];B[fr];W[fq];B[es];W[fs];B[ds];W[fr];B[fp])
+(;B[fs])
+(;B[fq])
+(;B[jj])
+(;B[jk])
+(;B[jl])
+(;B[jm])
+(;B[jn]C[];W[kn]C[and what is the best way to do it?
+knowing that keeping sente may be a good thing too]AB[mj]AW[nj]
+(;B[bq]C[]
+(;W[dr]
+(;B[cr]
+(;W[aq]C[see variation if you wonder why E2 doesn't work for white];B[ar];W[ap];B[er]C[RIGHT])
+(;W[er];B[fr];W[fq];B[fs];W[gs];B[cs]
+(;W[es];B[fr]
+(;W[aq];B[ar];W[bs];B[gq]C[white cannot approch black has an eye in the corner so white is finishedRIGHT])
+(;W[gq];B[ds];W[fs]
+(;B[hs]C[RIGHT])
+(;B[fp]C[RIGHT]))
+(;W[fs]
+(;B[aq];W[ap];B[gq];W[ar];B[hs];W[bs];B[fp]C[RIGHT])
+(;B[gq];W[aq];B[ar];W[bs];B[hs]C[RIGHT])))
+(;W[aq];B[ar];W[bs];B[gq];W[es];B[fr]C[RIGHT])))
+(;B[er];W[br];B[cr];W[aq];B[ds];W[ap]C[RIGHT]))
+(;W[aq]
+(;B[ar]
+(;W[ap];B[cr]C[that's the best answer except that its goteRIGHT])
+(;W[dr]
+(;B[br];W[er];B[ap]
+(;W[bs];B[cs];W[cr];B[as];W[fr])
+(;W[cs]
+(;B[bs];W[fr]
+(;B[ao];W[bn];B[eo];W[cn];B[an];W[am]
+(;B[al];W[aq];B[ap])
+(;B[aq];W[cr]))
+(;B[cr];W[ds];B[fq];W[ao];B[gq];W[aq])
+(;B[fq];W[ao];B[gq];W[cr])
+(;B[gq]))
+(;B[ao];W[bn];B[eo];W[cn];B[am])))
+(;B[cr];W[cs];B[ap]))
+(;W[cr];B[br];W[dr];B[er];W[bs];B[ap];W[ao];B[ds];W[aq];B[cs];W[cn]))
+(;B[br];W[ar]
+(;B[dr];W[am]C[RIGHT])
+(;B[bs]C[];W[dr];B[er];W[ap]C[gote]))))
+(;B[br];W[bq];B[dr]C[not the best])
+(;B[cr];W[bq];B[br]C[not the best]))
+(;B[mj]C[];W[nj]AB[jn]AW[kn]C[now capture it the best way knowing that one may want to keep the sente]
+(;B[bq])
+(;B[cr])
+(;B[br])
+(;B[dr]C[when i said capture the best way i didn't mean litteraly removing it from the goban]))
+(;B[mk];W[dr];B[cr];W[er]
+(;B[fr];W[fq];B[fs];W[gs]
+(;B[gq];W[es])
+(;B[ds];W[es]))
+(;B[bq];W[br]
+(;B[bs];W[ar];B[aq];W[ap];B[as];W[fr];B[ds];W[es];B[fq];W[br];B[gq];W[cs]C[ko])
+(;B[ar];W[bs];B[cs];W[ds];B[as];W[fr];B[ap];W[ao];B[fq];W[br];B[gq]C[ko]))
+(;B[ds];W[fr];B[bq];W[br];B[bs];W[ar];B[aq];W[ap];B[as];W[es];B[fq];W[br]C[ko])
+(;B[cs];W[br]))
+(;B[fp];W[dr];B[cr];W[er];B[fr];W[fs];B[fq];W[cs];B[es];W[ds];B[bs])
+(;B[hs];W[dr];B[cr];W[er];B[fr];W[fq];B[fs]))

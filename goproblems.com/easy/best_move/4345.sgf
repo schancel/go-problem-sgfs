@@ -1,0 +1,5 @@
+(;GE[best move]DI[12k]DP[58]SO[kochi]CO[0]AW[ig]AW[ia]AW[ib]AW[ic]AW[kb]AW[ka]AW[kc]AW[id]AW[ie]AW[if]AB[ko]AB[kn]AB[km]AW[lo]AW[ln]AW[lm]AW[lp]AW[le]AW[ld]AW[la]AB[ho]AB[hm]AB[hg]AB[hf]AB[he]AB[hd]AB[hc]AB[hb]AB[ha]AW[pd]AW[qd]AW[pj]AW[qj]AB[dj]AB[cj]AB[dd]AB[cd]C[Should you start a ko you can't win?]AB[im]AB[jm]AB[in]AB[io]AB[jo]AB[jp]AB[kp]AW[ja]AW[lq]AB[jq]AB[iq]AB[hq]AB[hs]AB[kq]AB[kr]AB[ks]AB[js]AB[is]AW[ls]AW[lr]AB[hn]AB[jn]AW[lg]AW[lf]AW[lh]AW[li]AW[lj]AW[ll]AW[jc]AW[lc]AB[jr]AB[hr]AB[hp]AB[hk]AB[hj]AB[hi]AB[hh]AB[hl]AB[jh]AB[ji]AB[jj]AB[kj]AB[kh]AW[ij]AW[ii]AW[ih]AB[jk]AW[ik]AW[jl]AB[kl]AW[il]AB[ki]AW[mk]AW[bs]AW[br]AW[bq]AW[bp]AB[ao]AB[bo]AB[co]AW[qm]AW[pm]AW[pg]AW[qg]AB[cm]AB[dm]AB[cg]AB[dg]AW[cq]AW[cr]AW[cs]AB[dr]AB[dq]AB[dp]AB[ds]AB[do]AW[po]AW[qo]AW[ro]AW[pp]AW[pq]AW[pr]AW[ps]AB[qs]AB[qr]AB[rr]AB[rs]AB[rq]AB[qq]AB[rp]AW[sp]AW[mc]AW[mb]AW[ma]AB[kd]AB[je]AB[ke]AB[kf]AB[jf]AB[jg]AB[kg]AP[goproblems]
+(;W[ap];B[ar];W[kk];B[lk]C[you get nothing.])
+(;W[kk];B[lk]
+(;W[ap];B[kk];W[ar]C[you lost the ko but you got to make the corner alive.RIGHT])
+(;W[ar];B[kk];W[ap]C[RIGHT])))

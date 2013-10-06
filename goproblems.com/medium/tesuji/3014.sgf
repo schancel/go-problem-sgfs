@@ -1,0 +1,18 @@
+(;GE[tesuji]DI[3d]DP[10]SO[Spirit]CO[8]AB[dd]AB[ec]AB[hc]AB[ic]AB[hd]AW[jc]AW[kc]AW[mc]AW[lb]AW[nc]AB[lc]AB[ld]AB[kd]AB[jd]AW[id]AW[ie]AW[he]AW[ge]AW[gc]AW[fc]AW[fe]AB[ce]
+(;B[ha]
+(;W[jb];B[ea]C[CHOICERIGHT])
+(;W[gb];B[kb];W[jb];B[ja];W[ka];B[ib]C[CHOICERIGHT])
+(;W[ia]
+(;B[kb];W[jb];B[ib];W[ka];B[ja]C[CHOICERIGHT])
+(;B[ib];W[kb]
+(;B[gb];W[fb];B[ja])
+(;B[ea];W[ga];B[gb];W[hb]C[Black can do better]))
+(;B[ja];W[kb]
+(;B[gb];W[fb];B[ib];W[jb])
+(;B[fa];W[eb];B[db];W[ea];B[fb];W[gb]))))
+(;B[hb];W[fb])
+(;B[ib];W[kb])
+(;B[ia];W[jb])
+(;B[gb];W[fb];B[jb];W[kb])
+(;B[jb];W[kb];B[gb];W[fb])
+(;B[kb];W[jb];B[ha];W[ja];B[ea];W[gb];B[ga];W[hb];B[ib];W[gd]))

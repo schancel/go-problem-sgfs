@@ -1,0 +1,12 @@
+(;GE[tesuji]DI[18k]DP[68]SO[sabetts]CO[0]SZ[19]AW[nl]AW[pl]AW[ql]AW[on]AW[mo]AW[qo]AW[mp]AW[qp]AW[kq]AW[nq]AW[oq]AW[pq]AB[ll]AB[ln]AB[mn]AB[qn]AB[rn]AB[lo]AB[no]AB[po]AB[op]TR[on]C[How should black deal with the marked stone?]GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]KM[0.00]PW[White]PB[Black]
+(;B[om]
+(;W[pm];B[pn];W[nm];B[nn]C[RIGHT])
+(;W[nm];B[pm];W[nn]))
+(;B[nn];W[om]
+(;B[pn];W[oo]TR[np]TR[pp])
+(;B[oo];W[pn]))
+(;B[pn];W[om]
+(;B[nn];W[oo]TR[np]TR[pp])
+(;B[oo];W[nn]))
+(;B[oo];W[nn])
+(;B[pm];W[om];B[nn];W[oo]TR[np]TR[pp]))

@@ -1,0 +1,33 @@
+(;GE[endgame]DI[2k]DP[21]SO[santa c]CO[6]AB[sm]AB[rm]AB[ql]AB[pl]AB[pj]AB[qj]AB[sg]AB[rg]AB[qg]AB[pg]AB[og]AB[ph]AW[qi]AW[pi]AW[oi]AW[oj]AW[ok]AW[ol]AW[om]AW[pm]AW[qm]AW[qn]AW[rn]AW[sn]AW[rh]C[What does Black have here? (AVOID KO)]AP[goproblems]
+(;B[si];W[sh]
+(;B[ri];W[qh]
+(;B[rk];W[pk];B[qk];W[sk]C[:(])
+(;B[pk];W[rk]C[:(]))
+(;B[qh];W[ri]C[:(])
+(;B[rk];W[pk]C[:(])
+(;B[pk];W[rk]C[:(]))
+(;B[rj];W[ri]C[:(]TR[rk]TR[pk])
+(;B[rk];W[rj]
+(;B[sj];W[si]
+(;B[ri]MA[rj]C[:(])
+(;B[sk];W[pk];B[ri]MA[rj]C[:(])
+(;B[pk];W[sk]C[:(]))
+(;B[sk];W[pk]C[:(])
+(;B[pk];W[sk]C[:(])
+(;B[sl];W[pk]C[:(])
+(;B[si];W[ri]TR[sk]TR[pk]C[:(])
+(;B[sh];W[ri]TR[pk]TR[sk]C[:(]))
+(;B[pk];W[rj]TR[rk]TR[sk]C[:(])
+(;B[ri];W[rj]
+(;B[si];W[sj]
+(;B[sh];W[qk]C[Exactly! A nice little sente reduction!RIGHT])
+(;B[rk];W[sh]C[:(]TR[pk]TR[sk]))
+(;B[rk];W[si]C[:(]TR[pk]TR[sk])
+(;B[pk];W[si]C[:(]TR[rk]TR[sk]))
+(;B[sj];W[ri]C[:(]TR[pk]TR[rk])
+(;B[qh];W[ri]C[:(])
+(;B[sh];W[si]C[]
+(;B[rj];W[ri]C[:(]TR[rk]TR[pk])
+(;B[sj];W[ri]C[:(]TR[rk]TR[pk])
+(;B[rk];W[ri]TR[pk]TR[sk]C[:(]))
+(;B[sk];W[rj]TR[rk]TR[pk]C[:(]))

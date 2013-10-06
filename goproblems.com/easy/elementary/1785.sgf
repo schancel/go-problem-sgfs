@@ -1,0 +1,21 @@
+(;GE[elementary]DI[10k]DP[51]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[9]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[be][de][ge][cf][df][gf][eg][fg]AB[cc][gc][gd][ce][fe][bf][ef][ff][cg][dg]TR[de]C[White just ataried with the marked stone. What is blacks best answer?]PL[B]
+(;B[dd]CR[dd]
+;W[cd]CR[cd]
+;B[ee]CR[ee]
+;W[ce]CR[ce]
+(;B[bd]CR[bd]
+;W[ae]CR[ae]
+(;B[ad]CR[ad]C[The seven white stones are lost! RIGHT])
+(;B[af]CR[af]C[The seven white stones are lost! RIGHT]))
+(;B[ae]CR[ae]
+;W[bd]CR[bd]
+(;B[bc]CR[bc]C[The seven white stones are lost! RIGHT])
+(;B[ad]CR[ad]
+;W[bc]CR[bc]
+;B[bb]CR[bb]C[The seven white stones are lost! RIGHT])))
+(;B[cd]CR[cd]
+;W[fd]CR[fd]C[Connecting is bad, now WHITE captures some stones!])
+(;B[ee]CR[ee]
+;W[dd]LB[cd:B][fd:C][bg:A]CR[dd]C[If blacks plays this atari first, white doesn't connect but extends and now threatens to play A, B, or C]))

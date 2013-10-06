@@ -1,0 +1,15 @@
+(;GE[life and death]DI[7k]DP[44]SO[kennabee]CO[6]AW[ap]AW[bp]AW[bo]AW[co]AB[cp]AB[dp]AB[do]AB[cn]AB[bn]AB[an]AB[ao]AB[am]AB[al]AB[ak]AB[aj]AB[ai]AB[ah]AB[bi]AW[bh]AW[ag]AW[bg]AW[ci]AW[di]AW[ei]AW[eh]AW[cg]AW[dg]AB[eg]AB[fg]AB[fh]AB[fi]AB[cj]AB[dj]AB[ej]AB[ek]AW[fj]AW[fk]AW[fl]AW[fm]AW[dn]AB[el]AB[bj]AW[bk]AW[bl]AB[bm]AB[cl]AB[dl]AW[cm]AW[dm]AB[fo]AB[fq]AB[eq]AW[cq]AW[dr]AW[ar]AW[cr]AB[dq]AW[ds]AB[es]AB[er]C[Can white kill?FORCE]LB[hn:Yes]LB[ho:No]AP[goproblems]
+(;W[hn];B[ho]C[Show me.]
+(;W[ck]
+(;B[em];W[en];B[dk]
+(;W[fn];B[bk])
+(;W[bk];B[fn]))
+(;B[dk]
+(;W[em];B[bk])
+(;W[bk];B[em];W[en];B[fn])))
+(;W[em];B[ck]))
+(;W[ho]C[]AW[es]AW[er]AB[cq]AB[cr]AB[dr]AB[ds]AW[eq]AB[ar]AB[ap]AB[bp]AB[bo]AB[co]AW[fq]AW[dq]AW[dp]AW[cp]AW[do]AB[dn]AB[dm]AB[cm]AW[cn]AW[bn]AW[an]AW[ao]AW[am]AW[bm]AW[al]AW[ak]AW[aj]AW[ai]AW[ah]AW[bj]AW[bi]AB[bh]AB[ag]AB[bg]AB[cg]AB[dg]AB[eh]AB[ei]AB[di]AB[ci]AW[fi]AW[eg]AW[fg]AW[fh]AB[fj]AB[fk]AB[fl]AB[fm]AW[el]AW[dl]AW[cl]AB[bk]AB[bl]AW[cj]AW[dj]AW[ej]AW[ek]AW[fo];B[ck]
+(;W[em];B[en];W[dk]
+(;B[fn]C[CHOICE];W[bk]C[RIGHT])
+(;B[bk]C[CHOICE];W[fn]C[RIGHT]))
+(;W[dk];B[bk];W[em];B[en];W[fn]C[RIGHT])))

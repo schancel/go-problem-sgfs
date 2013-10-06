@@ -1,0 +1,41 @@
+(;GE[tesuji]DI[4d]DP[7]SO[Greywulf]CO[8]C[Black has two groups in trouble. Save as many as you can, starting with the center.]AW[dd]AW[ed]AW[cg]AB[ch]AB[dh]AB[eh]AB[fh]AW[fe]AB[fd]AB[gd]AW[fc]AW[gc]AW[hc]AB[hd]AB[ic]AW[gg]AW[gf]AW[ge]AB[he]AW[id]AB[gh]AB[gi]AB[gj]AW[hh]AB[hg]AB[hf]AW[hi]AW[hj]AW[hk]AW[gk]AB[fj]AB[fk]AB[jc]AB[kc]AW[ie]AB[jd]AB[kb]AB[lc]AW[je]AW[ke]AB[if]AB[jf]AB[ih]AB[jg]AW[kf]AW[kh]AW[ld]AW[mc]AW[lb]AW[nb]AW[ma]AB[hb]AB[ja]AB[kg]AW[lg]MA[fd]MA[gd]MA[hd]MA[he]MA[hf]MA[hg]MA[if]MA[jf]MA[jg]MA[kg]MA[ih]AP[goproblems]
+(;B[jh]
+(;W[ki]C[]
+(;B[ee]
+(;W[ef]C[Play at A?]LB[de:A]
+(;B[de];W[cd]C[White had some insight, but was it enough? Take a moment to think.]
+(;B[ec];W[eb];B[fb];W[dc];B[gb];W[ec]
+(;B[fg]C[Well done!RIGHT])
+(;B[df]C[Well done!RIGHT])
+(;B[ff]C[Well done!RIGHT]))
+(;B[ff]C[You saved the middle, but missed the chance to save the upper stones.])
+(;B[fg]C[You saved the middle, but missed the chance to save the upper stones.])
+(;B[df]C[You saved the middle, but missed the chance to save the upper stones.]))
+(;B[ec]C[Too early, now it's only aji-keshi.];W[eb]C[]
+(;B[dc];W[cc];B[de];W[db]
+(;B[gb];W[ce]C[Oh yeah, save center first..])
+(;B[fg];W[gb])
+(;B[ff];W[gb])
+(;B[df];W[gb]))
+(;B[fb];W[dc];B[gb];W[ec];B[de];W[ce];B[df];W[dg]C[Busted.])))
+(;W[ec]C[];B[gb];W[fb];B[ib])
+(;W[gb]C[The right choice(tm)RIGHT]))
+(;B[ec];W[eb]
+(;B[fb];W[dc];B[gb];W[ec]C[Now what?]MA[ih]MA[jh]MA[jg]MA[jf]MA[if]MA[hf]MA[hg]MA[he]MA[hd]MA[gd]MA[fd]MA[kg])
+(;B[ee];W[gb]C[Starting with E17 is somewhat aji-keshi.]))
+(;B[lh];W[mg];B[ji];W[jj];B[kj];W[li]LB[ig:1]LB[ii:2]C[You have only two liberties, so you will be caught.])
+(;B[ji];W[jj]LB[ig:1]LB[ii:2]MA[ee]MA[ff]MA[fg]TR[ec]TR[fb]TR[gb]MA[kd]MA[le]MA[lf]TR[lh]TR[li]TR[kj]C[You have 2 liberties, the surrounding stones all have 3. You will be caught.])
+(;B[lf];W[mf];B[lh];W[mg];B[ji];W[jj];B[kj];W[li];B[ij];W[jk]))
+(;W[ji];B[lh];W[ki];B[lf];W[mg];B[le]))
+(;B[gb];W[fb];B[jh];W[ki];B[ee];W[de];B[ef];W[ga]C[In the end, G18 was just a wasted ko threat.])
+(;B[ii];W[jh];B[ig];W[jj])
+(;B[ji];W[jh])
+(;B[ee]C[];W[jh]C[oops])
+(;B[ec];W[eb]
+(;B[ee];W[jh])
+(;B[fb];W[dc];B[gb];W[ec];B[jh];W[ki];B[ee];W[ef];B[de];W[ce];B[df];W[dg]))
+(;B[fb];W[eb];B[gb];W[ec]
+(;B[jh];W[ki];B[ee];W[ef];B[de];W[ce];B[df];W[dg])
+(;B[ee];W[jh]))
+(;B[lf];W[jh])
+(;B[lh];W[jh]))

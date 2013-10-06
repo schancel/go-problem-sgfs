@@ -1,0 +1,15 @@
+(;GE[elementary]DI[30k]DP[82]SO[remembered]CO[0]AB[np]AB[nq]AB[op]AB[pr]AB[qr]AB[rq]AB[rp]AB[qp]AB[qo]AB[qn]AB[po]AW[rr]AW[qq]AW[pq]AW[oq]AW[or]AW[nr]AW[pp]AW[oo]AW[no]AW[nn]AW[pn]SZ[19]AB[mo]C[B to save marked stone.S1 or T2.  basic for beginner but i do it wrong in my game.]AW[mr]AW[lr]MA[qr]MA[pr]CA[windows-874]AP[MultiGo:4.4.4]MULTIGOGM[1]
+(;B[rs];W[sr]
+(;B[sq];W[ps]
+(;B[ss]C[RIGHT])
+(;B[qs];W[ss];B[qr];W[qs];B[rs]C[This is 3 points worse than the solution.]))
+(;B[qs]C[RIGHT])
+(;B[ps];W[os];B[sq];W[qs]))
+(;B[sr];W[rs]C[Black  can't push neither at T1 or R1])
+(;B[ss]C[];W[sr]
+(;B[sq];W[rs])
+(;B[qs];W[rs]))
+(;B[qs]C[];W[rs])
+(;B[ps]C[];W[os])
+(;B[sq]C[];W[rs];B[sr];W[ps])
+(;B[sp]C[];W[sr]))

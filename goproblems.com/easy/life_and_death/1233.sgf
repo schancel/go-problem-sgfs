@@ -1,0 +1,77 @@
+(;GE[life and death]DI[5k]DP[32]SO[adum]CO[4]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ra][mb][nb][pb][rb][cc][oc][pc][qc][dd][fd][hd][pd][ie][ke][df][gf][hf][pf][qf][ig][kg][lg][mg][ng][og][dh][eh][jh][mh][ph][ci][ii][cj][kj][oj][pj][ck][lk][ok][qk][nl][im][km][lm][mm][nm][kn][qn][io][pp]AB[db][lb][sb][ec][fc][hc][ic][lc][nc][rc][nd][od][qd][pe][qe][re][if][jf][mf][nf][of][fg][hg][fh][hh][ih][lh][di][ei][fi][hi][ki][li][ni][oi][pi][dj][fj][mj][qj][rj][ek][fk][ik][nk][pk][fl][ml][ol][pl][ql]LB[ke:1]C[how to respond to white 1?]
+(;B[je]CR[je]
+;W[jd]CR[jd]
+(;B[jg]CR[jg]
+;W[kf]CR[kf]
+(;B[ig]CR[ig]
+(;W[id]CR[id]
+;B[kd]CR[kd]C[RIGHT
+white is cut and captured])
+(;W[ld]CR[ld]
+(;B[mc]CR[mc]
+;W[id]CR[id]C[CHOICE
+white escapes])
+(;B[id]CR[id]
+;W[mc]CR[mc]
+;B[md]CR[md]
+;W[rf]TR[lb][lc]CR[rf]C[white will live, either through seki or killing the marked stones])))
+(;B[id]CR[id]
+;W[ig]CR[ig])
+(;B[kd]CR[kd]
+;W[ig]CR[ig]))
+(;B[id]CR[id]
+;W[he]CR[he]
+(;B[jg]CR[jg]
+;W[kf]CR[kf]
+(;B[ig]CR[ig]C[RIGHT
+white is cut and dies])
+(;B[kd]CR[kd]
+;W[ig]CR[ig]))
+(;B[kd]CR[kd]
+;W[kf]CR[kf]
+;B[jc]CR[jc]
+;W[jg]CR[jg]
+;B[jd]CR[jd]C[RIGHT])
+(;B[jc]CR[jc]
+;W[kd]CR[kd]
+(;B[jg]CR[jg]
+;W[kf]CR[kf]
+;B[ig]CR[ig]C[RIGHT])
+(;B[kf]CR[kf]
+;W[lf]CR[lf]
+;B[jg]CR[jg]
+;W[ig]CR[ig])))
+(;B[kf]CR[kf]
+;W[lf]CR[lf]
+;B[jg]CR[jg]
+;W[ig]CR[ig]))
+(;B[jg]CR[jg]
+;W[je]CR[je]C[white connects and lives])
+(;B[kf]CR[kf]
+;W[lf]CR[lf]
+(;B[je]CR[je]
+;W[jd]CR[jd]
+;B[jg]CR[jg]
+;W[ig]CR[ig])
+(;B[jg]CR[jg]
+;W[je]CR[je]
+;B[ig]CR[ig]
+;W[ld]CR[ld]))
+(;B[jd]CR[jd]
+;W[je]CR[je])
+(;B[lf]CR[lf]
+;W[kf]CR[kf])
+(;B[le]CR[le]
+;W[jg]CR[jg])
+(;B[kd]CR[kd]
+;W[jg]CR[jg])
+(;B[ji]CR[ji]
+;W[jg]CR[jg])
+(;B[oa]CR[oa]
+;W[pa]CR[pa]C[lose one ko threat])
+(;B[ff]CR[ff]
+;W[fe]CR[fe]C[helps white])
+(;B[ed]CR[ed]
+;W[ff]CR[ff]))

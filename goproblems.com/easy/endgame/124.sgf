@@ -1,0 +1,21 @@
+(;GE[endgame]DI[15k]DP[64]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)];;
+AW[ca][da][ea][cb][eb][cc][dc][ad][bd][cd]
+AB[ba][fa][bb][fb][ec][gc][dd][ed][ae][be][ce][df]
+C[endgame in the corner
+]
+(;B[ab]C[black can do better than this
+])
+
+(;B[bc];W[ac])
+
+(;B[ac];W[ab];B[aa]C[RIGHT
+black gets an extra point
+])
+
+)

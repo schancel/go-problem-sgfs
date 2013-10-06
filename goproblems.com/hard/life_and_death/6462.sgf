@@ -1,0 +1,53 @@
+(;GE[life and death]DI[5d]DP[4]SO[Cut]CO[7]AB[dq]AB[dp]AB[ep]AB[fp]AB[eq]AB[fn]AB[fo]AB[eo]AB[hq]AB[iq]AB[io]AB[im]AB[ck]AB[dd]AB[pd]AB[od]AB[oc]AB[nc]AB[mc]AB[re]AB[qe]AB[pf]AB[pg]AB[rg]AB[lp]AB[np]AB[mn]AB[le]AB[kd]AW[fm]AW[gm]AW[gn]AW[go]AW[gp]AW[gq]AW[fq]AW[jq]AW[kp]AW[ko]AW[dn]AW[do]AW[en]AW[oo]AW[qp]AW[pc]AW[qc]AW[qd]AW[rd]AW[rf]AW[qf]AW[pe]AW[oe]AW[of]AW[nf]AW[nd]AW[me]AW[kc]AW[ic]C[Please play at the cut to start the problem]MA[em]AB[oh]AW[og]AP[goproblems];B[em]
+(;W[dm]C[white struggles to get out];B[el];W[dl]C[Is the ladder favourable for black?]
+(;B[dk]C[...];W[ek];B[fl];W[fk];B[gl];W[hl];B[gk];W[gj];B[hk];W[ik];B[hj];W[il]C[Should black cut or is it  time to move out the top right stones? Are there better moves out there?]
+(;B[hm]C[]
+(;W[in]C[]
+(;B[hn]
+(;W[ho]C[black shouldn't play this move... it doesn't give a favourable result if white plays correctly. In the real game, white miss the correct sequence until its too late...];B[jn]
+(;W[jm];B[in];W[ip]
+(;B[kn];W[hi];B[ij];W[jj];B[ii];W[ih];B[ji];W[ki];B[jh];W[jg];B[kh];W[lh];B[kg];W[kf];B[lg];W[lf];B[mg];W[ld];B[hp];W[hr];B[ir];W[is];B[jr];W[kr];B[jp]C[the actual game ends like this... but with plenty of mistakes from both sides. Please navigate through other variationRIGHT])
+(;B[hp];W[kn];B[jp];W[jo]))
+(;W[ip]
+(;B[hp];W[jm];B[in];W[kn];B[jp];W[jo])
+(;B[jl]C[black get sente...RIGHT])))
+(;W[ip]C[];B[hp];W[ho]
+(;B[jn];W[jm];B[in];W[kn];B[jp];W[jo])
+(;B[jm]C[];W[jn];B[kn];W[jo];B[ln]C[salvage what's left...RIGHT])))
+(;B[jm]C[]
+(;W[jn];B[hn];W[ho];B[kn];W[jo]C[destroy the net...];B[ip]
+(;W[lo]C[CHOICE]
+(;B[gr]C[];W[fr]C[white lose the capturing race...RIGHT])
+(;B[hr]C[white lose the capturing race...RIGHT])
+(;B[ir];W[gr]C[unnecessary complication])
+(;B[hs]C[white lose the capturing race...RIGHT])
+(;B[fr];W[hr];B[ir];W[gr]C[unnecessary complication]))
+(;W[hr]C[CHOICE]
+(;B[ir];W[gr];B[kq]C[];W[er]C[But if white turn back to black's corner, how should black handle? From the way I see, black will die, either in ko or lack of space, if he wants everything...]
+(;B[dr];W[fs];B[hs];W[cp];B[bq];W[cq];B[cr];W[bp];B[br])
+(;B[co]
+(;W[cp];B[cq];W[bp];B[cn]C[RIGHT])
+(;W[cn];B[bo];W[bn];B[bq]C[white still got 2 unsettled group to handle with...RIGHT])))
+(;B[jr]))
+(;W[km]C[ops... thinking only on the net but miss the ladder. LOL... thx blyx!];B[jl];W[ij];B[hi];W[kl];B[jk]C[thx to the 'P13 P12 exchange', the ladder is now broken...haha]))
+(;W[hn];B[jn];W[ip]
+(;B[hp];W[jo];B[jp];W[ho];B[ip];W[ir];B[lc])
+(;B[jo];W[hp];B[jp];W[kq];B[fr];W[gr];B[fs];W[cp]
+(;B[hs];W[cq]
+(;B[cr];W[er];B[dr];W[ir])
+(;B[dr];W[cr];B[ds];W[hr];B[ir];W[jr];B[is]))
+(;B[cq]
+(;W[bp];B[hs])
+(;W[gs];B[dr];W[ir]C[black get sente... but the next move is difficult to decide... any suggestion?RIGHT])))))
+(;B[jn];W[jm];B[hn];W[ho];B[in]LB[kn:x]C[white cant play here. He'll lose the semeai];W[ip];B[kn]C[black get senteRIGHT]))
+(;W[jm];B[ho]))
+(;B[km]C[];W[hm]C[Complicated fight... is there any clear-cut tesuji to get ahead?])
+(;B[jm];W[hm]C[Complicated fight... is there any clear-cut tesuji to get ahead?]))
+(;B[ek]C[];W[dk]C[... try playing it out]))
+(;W[el];B[dm];W[dl];B[cm];W[cl]
+(;B[cn]
+(;W[bm];B[bn]C[alternative way for white's play? looks not bad to me... any suggestion?];W[fk];B[bl];W[bk];B[am];W[cj]C[Compare this end result with black B7 variation.])
+(;W[co];B[bo];W[bm];B[bn]))
+(;B[bl];W[bm];B[cn];W[bk];B[fl];W[gl];B[fk];W[gk];B[ek];W[al];B[dk];W[bl];B[co]C[A reply to LCZLAPINSKI])
+(;B[bm];W[bl];B[co];W[fk]C[White shape look pretty thick and settled.A reply to LCZLAPINSKI])
+(;B[bn];W[bm];B[cn]C[If black plays B6, the variation will end up same as the variation if he play C6])))

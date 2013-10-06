@@ -1,0 +1,32 @@
+(;GE[tesuji]DI[2d]DP[14]SO[ferdi]CO[8]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[WeiÃŸ]PB[Schwarz]AW[mb][ob][mc][nc][pc][qc][qd][re]AB[kb][nb][lc][oc][ld][md][od][pd][qe][qf][rf]C[Black to play]PL[B]
+(;B[pb]CR[pb]
+;W[na]CR[na]
+;B[qb]CR[qb]
+;W[rb]CR[rb]
+;B[rc]CR[rc]
+;W[rd]CR[rd]
+(;B[sb]CR[sb]
+(;W[sc]CR[sc]
+;B[ra]CR[ra]C[This is a two step ko RIGHT CHOICE])
+(;W[ra]CR[ra]
+;B[sd]LB[sc:A]CR[sd]C[ This is a direct ko. White should have played S19 at A! RIGHT CHOICE]))
+(;B[ra]CR[ra]
+;W[sb]LB[sc:A]CR[sb]C[Of course white doesn't allow a ko by playing T18 at A !]))
+(;B[rd]CR[rd]
+;W[rc]CR[rc]C[This is not small, but black can do better])
+(;B[rc]CR[rc]C[This only works if white makes a mistake ]
+(;W[rd]CR[rd]C[This is a mistake, black can reach the solution now. White shouldn't connect!]
+;B[pb]CR[pb]
+;W[na]CR[na]
+;B[qb]CR[qb]
+;W[rb]CR[rb]
+;B[sb]CR[sb]
+(;W[sc]CR[sc]
+;B[ra]CR[ra]C[After the white mistake earlier, the same position as in the solution is reached, a two step ko for black.  CHOICE])
+(;W[ra]CR[ra]
+;B[sd]CR[sd]C[After the white mistake earlier, the same end position as in the solution is reached.  W S19 was another mistake: W T17 is better! Now black has a direct ko.  CHOICE]))
+(;W[rb]CR[rb]C[This W2 ist better than connecting]
+;B[rd]CR[rd]
+;W[pb]CR[pb]C[ White lost some points in the corner,  but there is no danger of losing the whole group now. CHOICE])))

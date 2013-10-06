@@ -1,0 +1,37 @@
+(;GE[best move]DI[2k]DP[21]SO[akeran]CO[0]AB[bq]AB[bp]AB[cp]AB[dq]AB[dr]AB[ep]AB[fp]AB[gp]AB[hp]AW[br]AW[cr]AW[cq]AW[ap]AW[dp]AW[do]AW[cn]AW[eo]AW[fo]AW[go]AW[ho]AW[jp]AB[bo]AW[bn]LB[dj:T]AW[bl]AB[ar]AW[bs]AB[fr]C[Black to save his stones and play elsewhere (tenuki T) as soon as the four white stones are surely captured]LB[jl:T]AP[goproblems]
+(;B[ao];W[an]LB[jl:T]
+(;B[jl]C[Well done, you have time to defendRIGHT];W[co];B[aq]C[RIGHT])
+(;B[aq]C[You save your stones but you miss the occasion to play elsewhere])
+(;B[ds]C[It was the time to take the initiative by playing elsewhere]))
+(;B[ds];W[ao]LB[jl:T]
+(;B[cs];W[co]LB[jl:T];B[as]C[White has closed her border in Sente. you could do better.])
+(;B[jl])
+(;B[aq];W[an];B[cs];W[co];B[as]C[White has closed her border in Sente. you could do better.]))
+(;B[an]
+(;W[aq]LB[jl:T]C[CHOICE]
+(;B[ao];W[aq];B[ds];W[am];B[cs];W[co];B[as]C[White has closed her border in Sente. you could do better.])
+(;B[jl];W[as];B[ao];W[am];B[ar];W[aq];B[ds];W[co])
+(;B[ds]
+(;W[as];B[cs];W[co];B[ar];W[am]LB[jl:T]
+(;B[jl]C[RIGHT])
+(;B[ao]C[Remember the objective was to play elsewhere as soon as the four stones are captured.]))
+(;W[co];B[ao];W[aq];B[cs];W[am])))
+(;W[ao];B[aq];W[ao]LB[jl:T]
+(;B[jl]C[RIGHT])
+(;B[ap]C[You could have played tenuki])
+(;B[am]C[You could have played tenuki])
+(;B[ds]C[You could have played tenuki])))
+(;B[co];W[aq];B[ao];W[aq];B[ds];W[an];B[ap];W[aq])
+(;B[aq];W[an]LB[jl:T]
+(;B[ao]C[White nicely close her border in sente.])
+(;B[jl];W[ao];B[ds];W[co];B[cs];W[as])
+(;B[as]C[White nicely close her border in sente.])
+(;B[cs];W[ao];B[as]C[Gote for Black])
+(;B[ds];W[ao]))
+(;B[as];W[aq]
+(;B[ao];W[ar];B[ds];W[co])
+(;B[ar];W[co];B[ao];W[aq];B[ds];W[an];B[ap];W[aq]))
+(;B[cs];W[ao]LB[jl:T]
+(;B[as]C[White close the border in sente. Try to keep the sente if White want to close the border])
+(;B[jl];W[ds];B[es];W[co]))
+(;B[jl];W[ao];B[ds];W[co];B[aq];W[as]))

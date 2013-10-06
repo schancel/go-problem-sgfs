@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[7k]DP[43]SO[lok]CO[8]AB[rm]AB[rl]AB[qk]AB[pk]AB[ok]AW[ql]AW[qm]AW[rn]AW[ro]AW[rp]AW[qp]AB[qn]AB[qo]AB[pn]AW[pl]AW[ol]AW[nl]AW[nk]AB[nj]AB[mj]AB[on]AB[nn]AB[mm]AB[ml]AB[mk]AW[oj]AW[oi]AW[oh]AW[pg]AW[qg]AW[rg]AP[goproblems]
+(;W[rk];B[rj]
+(;W[sk]
+(;B[sj]
+(;W[qj];B[sl]
+(;W[rk];B[sk];W[pj];B[rk]
+(;W[ri]C[Nice!RIGHT])
+(;W[si]C[];B[ri]))
+(;W[pj];B[rk]))
+(;W[pj];B[qj])
+(;W[sm];B[sl]
+(;W[rk];B[sk];W[qj];B[ri];W[pj];B[rk])
+(;W[sn];B[rk]))
+(;W[sl];B[sm]))
+(;B[qj];W[sm]))
+(;W[sm];B[sk])
+(;W[qj];B[sk];W[pj];B[rk])
+(;W[pj];B[sk])
+(;W[sl];B[sk]))
+(;W[rj];B[rk]C[Black 5 liberties - White 3   :(])
+(;W[sm];B[rk]C[Black 5 liberties - White 3   :(])
+(;W[qj];B[rk]C[Black 5 liberties - White 3   :(])
+(;W[pj];B[rk]C[Black 5 liberties - White 3   :(]))

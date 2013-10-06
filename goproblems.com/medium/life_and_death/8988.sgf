@@ -1,0 +1,28 @@
+(;GE[life and death]DI[1d]DP[16]SO[ocho]CO[8]AB[qq]AB[rq]AB[pr]AW[qp]AW[qo]AW[pq]AW[oq]AW[mq]AW[qm]AW[qs]C[See also problem 9472.]AP[goproblems]
+(;B[rs];W[rr]
+(;B[qr];W[ss]
+(;B[rp];W[ro]
+(;B[sr];W[sq];B[sp];W[or];B[ps]C[Double ko life! But see variation starting with Black S2 for life without double ko.RIGHT])
+(;B[sp];W[or]
+(;B[ps];W[sr];B[sq]C[Double ko life! But see variation starting with Black S2 for life without double ko.RIGHT])
+(;B[sr];W[sq];B[ps]C[Double ko life! But see variation starting with Black S2 for life without double ko.RIGHT])))
+(;B[sr];W[sq];B[rp];W[or];B[ps];W[ro];B[sp]C[Double ko life! But see variation starting with Black S2 for life without double ko.RIGHT])
+(;B[ps];W[rp]))
+(;B[sr];W[ss];B[qr];W[sq];B[rp];W[ro];B[sp];W[or];B[ps]C[Double ko life! But see variation starting with Black S2 for life without double ko.RIGHT]))
+(;B[rr];W[rs]
+(;B[rp];W[ro];B[ps];W[sp];B[sq];W[ss])
+(;B[ps];W[rp])
+(;B[ss];W[or]
+(;B[ps];W[sr]
+(;B[sq]C[RIGHT])
+(;B[qr];W[rp];B[ss];W[rs];B[sq];W[sp]))
+(;B[qr];W[sr];B[ps];W[rp];B[sq]C[RIGHT])))
+(;B[qr];W[rs];B[or];W[nr];B[rp];W[ro];B[sp];W[sr]
+(;B[os];W[rr])
+(;B[rr];W[os];B[ps];W[ns]))
+(;B[sr];W[rs]
+(;B[rp];W[ro]
+(;B[sp];W[qr])
+(;B[qr];W[or]))
+(;B[qr];W[or])
+(;B[ps];W[rp])))

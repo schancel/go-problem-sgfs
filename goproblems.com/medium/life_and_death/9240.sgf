@@ -1,0 +1,20 @@
+(;GE[life and death]DI[2d]DP[13]SO[ocho]CO[7]AB[rr]AB[ss]AB[qr]AB[qs]AB[lr]AB[mp]AB[mo]AB[op]AB[po]AB[ro]AB[rn]AW[rp]AW[sp]AW[qp]AW[qq]AW[pq]AW[nq]AW[nr]AW[os]AB[or]AP[goproblems]
+(;B[oq];W[pr]
+(;B[ps];W[ns]C[Play T if you think black should tenuki.]LB[ln:T]
+(;B[rq];W[sq])
+(;B[sr];W[rq];B[rs];W[sq]C[]
+(;B[rs];W[rr];B[qs];W[ss])
+(;B[sr];W[rr];B[qs];W[ps])
+(;B[rr];W[rs]
+(;B[qs];W[sr])
+(;B[sr];W[ps];B[qr]C[this is not seki -- white is dead.RIGHT]))
+(;B[ps];W[rs]
+(;B[sr]C[RIGHT])
+(;B[qs];W[qr]))
+(;B[qs];W[rs]
+(;B[sr];W[ps])
+(;B[rr];W[sr])))
+(;B[ln];W[sr];B[sq];W[rq]C[ko])
+(;B[rs];W[sr];B[sq];W[rq]))
+(;B[rs];W[ps]))
+(;B[ps];W[oq];B[ns];W[ms]C[ko]))

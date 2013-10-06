@@ -1,0 +1,19 @@
+(;GE[life and death]DI[15k]DP[63]SO[ctchan]CO[0]AW[cs]AW[aq]AW[ap]AW[dr]AW[dq]AW[es]AW[fr]AB[eq]AB[cr]AB[cq]AB[cp]AB[dp]AB[co]AB[bo]AB[bn]AB[an]AW[bm]AW[bl]AB[bk]AB[cm]AB[dm]AB[em]AW[cn]AW[dn]AW[en]AW[do]AW[ep]AW[fn]AW[fp]AW[br]C[White to kill the marked black stones.CHOICE]AW[bj]AB[ak]MA[an]MA[bn]MA[bo]MA[co]MA[cp]MA[dp]MA[cq]MA[cr]AW[fi]AP[goproblems]
+(;W[ao];B[cl]TR[bl]TR[bm]C[These two white stones are dead. Black is connected.])
+(;W[bp];B[cl]TR[bl]TR[bm]C[These two white stones are dead. Black is connected.])
+(;W[bq];B[cl]TR[bl]TR[bm]C[These two white stones are dead. Black is connected.])
+(;W[cl];B[am]
+(;W[al]
+(;B[dl]C[CHOICE];W[ck];B[cj]
+(;W[aj]C[White is alive. Black is dead.RIGHT]TR[co]TR[cp]TR[dp]TR[cq]TR[cr]TR[bo]TR[bn]TR[an]TR[am]))
+(;B[ck]C[CHOICE];W[dl];B[dk];W[el];B[di]C[By sacrificing the marked stone, white has prevented black from fleeing.RIGHT]TR[bj]))
+(;W[dl];B[al]
+(;W[ck];B[aj]
+(;W[ai];B[bi]C[Double atari. Black escaped.])
+(;W[bi];B[ai]))
+(;W[aj];B[ck]C[Black can escape easily.]))
+(;W[ck];B[al]
+(;W[aj];B[cj]TR[aj]TR[bj]TR[ck]TR[cl]TR[bl]TR[bm]C[Marked white stones are in danger. Black can escape easily.])
+(;W[cj];B[aj];W[ai];B[bi]C[Bklack could escape.]))
+(;W[cj];B[al];W[ck];B[aj];W[ai];B[bi]C[Bklack could escape.]))
+(;W[ck];B[cl];W[aj];B[am];W[al]C[White is alive. Black is dead.RIGHT]))

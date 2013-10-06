@@ -1,0 +1,16 @@
+(;GE[life and death]DI[4k]DP[28]SO[saiko*]CO[0]AB[nc]AB[od]AB[oe]AB[of]AB[lc]AB[kd]AB[ke]AB[kf]AB[lg]AB[mg]AB[ng]AW[pg]AW[pf]AW[pe]AW[pd]AW[ob]AW[oc]AW[kb]AW[kc]AW[jc]AW[jd]AW[je]AW[jf]AW[jg]AW[kh]AW[lh]AW[mh]AW[nh]AW[oh]AW[pc]AW[me]AB[mc]AW[lb]AW[mb]AW[nb]AW[og]AW[kg]LB[ka:1]LB[la:2]LB[ma:3]LB[na:4]LB[oa:5]C[At least how many moves in a row must black play if he wants to make his group unconditionaly alive with points? FORCE]AP[goproblems]
+(;B[la];W[ma]C[Play them!]
+(;B[md];W[na];B[mf]C[Nice, black lives with points! :)RIGHT])
+(;B[le];W[na];B[ne]C[Nice, black lives with points! :)RIGHT])
+(;B[ne];W[na];B[le]C[Nice, black lives with points! :)RIGHT])
+(;B[mf];W[na];B[md]C[Nice, black lives with points! :)RIGHT])
+(;B[nd];W[na];B[lf];W[ld];B[le];W[nf];B[md]C[Only seki])
+(;B[lf];W[na];B[nd])
+(;B[ld];W[na]
+(;B[nf];W[nd];B[ne];W[lf];B[md]C[Only seki])
+(;B[nd];W[lf];B[nf]C[Only seki]))
+(;B[nf];W[na];B[ld]))
+(;B[ka]C[Unfortunately, only one move does not help you much here])
+(;B[ma]C[Nice try, but not the exact answer])
+(;B[na]C[Four is too much])
+(;B[oa]C[Five? Too much..]))

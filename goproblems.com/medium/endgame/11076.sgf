@@ -1,0 +1,17 @@
+(;GE[endgame]DI[1d]DP[17]SO[Field Mouse]CO[0]AW[rr]AB[qq]AB[pp]AB[po]AB[op]AW[oq]AW[nq]AW[mp]AW[lp]AW[mr]AB[np]AB[no]AB[mo]AB[lo]AW[kp]AW[jp]AB[jo]AB[ko]AW[qo]AW[qn]AW[pn]AW[pm]AW[pl]AW[pk]AW[pj]AW[pi]AW[ph]AB[oi]AB[oh]AB[oj]AB[ok]AB[om]AB[on]AB[ol]AP[goproblems]
+(;B[rq];W[qr]LB[pq:A]C[Play at a now, i think it does not affect the solution.FORCE];B[pq];W[pr]
+(;B[sn];W[sm]
+(;B[sp];W[rn];B[so];W[rm];B[sr];W[rs]C[*Hug* :-)RIGHT])
+(;B[so];W[sq]
+(;B[rp];W[rm]C[Black could do better.])
+(;B[sp];W[sr]
+(;B[rp];W[rm]C[Black could do better.])
+(;B[rm];W[rp]C[Black has no chance there.])))
+(;B[ro];W[rn]))
+(;B[so];W[sn]
+(;B[rn];W[sp];B[sm];W[rp])
+(;B[sp];W[ro]C[You could do better.]))
+(;B[ro];W[rn];B[sn];W[sm];B[sp];W[so]C[Black has to be able to win the many steps ko to get the same result as in the solution which contains no ko.])
+(;B[sp];W[ro]C[Black could do better.]))
+(;B[qr];W[rq];B[qp];W[rp];B[or];W[nr]C[You could do better.])
+(;B[rp];W[qp];B[rq];W[pq];B[qr];W[sr]C[Killed.]))

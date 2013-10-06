@@ -1,0 +1,25 @@
+(;GE[tesuji]DI[5k]DP[35]SO[DarkSycthe]CO[0]AW[pr]AW[or]AW[nq]AW[np]AW[op]AW[pp]AW[qp]AW[rp]AW[ro]AB[oq]AB[pq]AB[nr]AB[ns]AB[os]AB[mq]AB[lr]AB[mp]AB[mo]AB[qo]AB[qn]AB[rn]AB[on]AB[mm]C[Black to kill the corner. If this is not possible, play T for tenuki.]LB[ok:T]AP[goproblems]
+(;B[rr];W[qr]
+(;B[qs]C[Good.RIGHT])
+(;B[qq];W[rq])
+(;B[rq];W[qq])
+(;B[ps];W[qs]))
+(;B[qr];W[qq]
+(;B[ps];W[rr])
+(;B[rs];W[ps])
+(;B[qs];W[ps])
+(;B[rr];W[ps])
+(;B[so];W[rr]))
+(;B[ps];W[qr])
+(;B[qs];W[rr]
+(;B[qr];W[qq])
+(;B[ps];W[qq])
+(;B[rs];W[qr])
+(;B[so];W[qq]))
+(;B[qq];W[qr])
+(;B[rq];W[qq])
+(;B[rs];W[ps])
+(;B[so];W[qq])
+(;B[sq];W[rr])
+(;B[sr];W[qq])
+(;B[ok]C[No, it is possible to kill the corner.]))

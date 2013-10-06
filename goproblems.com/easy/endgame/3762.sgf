@@ -1,0 +1,68 @@
+(;GE[endgame]DI[10k]DP[54]SO[wtd]CO[6]SZ[11]AW[dc][jc][dd][de][ee][fe][ge][he][ie][je][ke][if][hg][jg][eh][fh][gh][hh][ih][ii][ki][ij][ik]
+AB[cb][cc][cd][ce][df][ff][gf][bg][dg][eg][fg][dh][bi][di][ei][fi][gi][dj][gj][hj][dk][fk][hk]LB[da:K][ea:S][fa:L][db:P][eb:I]
+C[No komi, no prisoners yet - Black to win. FORCE]
+
+(;B[fa];W[eb]
+(;B[ea];W[gb]
+(;B[fb];W[db];B[da]
+;W[fc];B[ga];W[ha];B[ca];W[hb]LB[eb:I]
+C[RIGHT You won by 1 and kept sente, the best result. 1st move 'I', without a large ko threat advantage (see 3844 for 
+details), is inferior by 1 and loses sente.])
+
+(;B[da];W[ga]
+(;B[fb];W[fc];B[db];W[ec]LB[eb:I]
+C[RIGHT You won by 1 and kept sente, the best result. 1st move 'I', without a large ko threat advantage (see 3844 for 
+details), is inferior by 1 and loses sente.])
+
+(;B[db];W[fb]C[You lost by 1. Your 1st 3 moves were correct, but your 4th should have been at F10 rather than D10, 
+to get a 1 point win.]))
+
+(;B[ga];W[da]
+(;B[db];W[ha];B[ca];W[fb];B[da];W[hb]LB[eb:I]
+C[RIGHT You won by 1 and kept sente, the best result. 1st move 'I', without a large ko threat advantage (see 3844 for 
+details), is inferior by 1 and loses sente.])
+
+(;B[ha];W[db]C[B is cut off and cannot form a live group.]))
+
+(;B[db];W[fb];B[ga];W[ha];B[da];W[hb]LB[eb:I]
+C[RIGHT You won by 1 and kept sente, the best result. 1st move 'I', without a large ko threat advantage (see 3844 for 
+details), is inferior by 1 and loses sente.]))
+
+(;B[db]CR[db];W[ea]CR[ea]C[B is cut off and cannot form a live group.]))
+
+
+(;B[eb];W[db];B[da];W[fb]
+(;B[fa];W[ga]
+(;B[ea];W[ec];B[ca];W[gb]LB[fa:L]
+C[You lost by 1. 1st move 'L' is better by 2.])
+
+(;B[gb];W[ea]C[White takes first in the ko, and black has no threats.]))
+
+(;B[ec];W[fa];B[ea];W[fc];B[ed];W[fd];B[ca]LB[fa:L]
+C[Jigo, only 2nd best. In this sequence, black gains an extra point but loses sente. Here, the sente loss doesn't 
+matter as there are no plays left. 1st move 'L' is better by 1.])
+
+(;B[gb];W[ec];B[fa];W[ea]C[Playing G10 forced this ko, but white takes first and you have no threats. A large 
+ko threat advantage (see 3844 for details) was required, for this sequence to be the best.]))
+
+
+(;B[ea];W[fb];B[fa];W[ga];B[da];W[gb];B[eb];W[ec];B[db]
+LB[fa:L]C[Jigo, only 2nd best. 1st move 'L' is better by 1.])
+
+
+(;B[da];W[fb];B[fa];W[ga]
+(;B[ea];W[gb];B[eb];W[ec];B[db]LB[fa:L]C[Jigo, only 2nd best. 1st move 'L' is better by 1.])
+
+(;B[eb];W[ec]
+(;B[db];W[gb];B[ea]LB[fa:L]C[Jigo, only 2nd best. 1st move 'L' is better by 1.])
+
+(;B[ea];W[db];B[ca];W[gb]LB[fa:L]C[You lost by 1. Jigo was possible from kosumi, whilst 1st move 'L' allows a 1 point win.])
+
+(;B[gb];W[ea];B[db];W[hb]
+(;B[fc];W[gc];B[fa];W[fd];B[ea]LB[fa:L]C[Jigo, only 2nd best. 1st move 'L' is better by 1.])
+(;B[fa];W[gc];B[ea]LB[fa:L]C[Jigo, only 2nd best. 1st move 'L' is better by 1.])
+(;B[gc];W[fa];B[fc];W[ha];B[hc];W[ib];B[ic];W[jb]LB[fa:L]C[You lost by 3. Jigo was possible from kosumi, whilst 1st move 'L' 
+allows a 1 point win.]))))
+
+
+(;B[db];W[eb];B[ea];W[fb];B[fa];W[ga];B[da];W[gb]LB[fa:L]C[You lost by 1. 1st move 'L' is better by 2.]))

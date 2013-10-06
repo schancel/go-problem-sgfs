@@ -1,0 +1,42 @@
+(;GE[endgame]DI[8k]DP[45]SO[Stones]CO[8]AB[sj]AB[rj]AB[qj]AB[si]AB[oi]AB[ni]AB[nj]AB[mj]AB[mk]AB[nl]AB[nm]AB[qm]AB[rn]AW[ml]AW[lk]AW[lj]AW[mi]AW[nh]AW[oh]AW[ph]AW[qi]AW[ri]AW[sh]AW[rh]AW[nn]AW[ln]AW[mm]AW[mh]AB[on]AB[om]AB[oo]AW[no]C[White to play.]AP[goproblems]
+(;W[pi];B[pj]C[White only get's one point =(])
+(;W[oj];B[pi]
+(;W[pj];B[nk]C[Nice try, but there's nowhere to go from here.])
+(;W[ok];B[pj]))
+(;W[pk];B[pi]
+(;W[ok];B[pj])
+(;W[qk];B[pj])
+(;W[pj];B[qk]
+(;W[nk];B[ok])
+(;W[oj];B[nk])
+(;W[ok];B[nk])))
+(;W[ok])
+(;W[pj]
+(;B[pi]C[CHOICE]
+(;W[pk];B[qk])
+(;W[qk];B[pk];W[ok];B[oj]
+(;W[rk];B[pl])
+(;W[nk];B[ol])
+(;W[pl];B[pj];W[nk];B[ol]))
+(;W[ok]
+(;B[pk];W[nk];B[oj];W[pj]C[RIGHT])
+(;B[nk]C[CHOICE]
+(;W[pk];B[qk])
+(;W[rk];B[qk])
+(;W[qk];B[sl]
+(;W[rk];B[sk])
+(;W[sk];B[rk];W[rl]C[RIGHT])
+(;W[rl]
+(;B[sm];W[sk]C[RIGHT])
+(;B[sk];W[sm]C[RIGHT]))))))
+(;B[pk]C[CHOICE]
+(;W[ok]
+(;B[pi]C[CHOICE];W[nk]C[RIGHT])
+(;B[oj];W[pi];B[nk];W[qk]C[RIGHT];B[rk];W[pl];B[rl])
+(;B[nk];W[qk]C[RIGHT];B[rk];W[pl];B[rl];W[pi])
+(;B[pl]C[This is best for black.  Thanks kennabee.]
+(;W[nk];B[ol])
+(;W[oj];B[nk];W[pi]C[RIGHT])
+(;W[pi];B[nk]C[RIGHT])))
+(;W[oj];B[ok];W[pi];B[nk]C[This looks good, but it could have been a lot better.]))
+(;B[qk]C[];W[ok];B[nk];W[pi];B[pk];W[oj];B[ol]C[One way for black to save both groups, but not best.])))

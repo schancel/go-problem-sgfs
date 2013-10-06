@@ -1,0 +1,23 @@
+(;GE[tesuji]DI[6k]DP[38]SO[adum]CO[7]AB[cd]AB[dd]AW[ed]AW[fe]AW[dc]AW[cc]AB[gc]AB[df]AB[ge]AW[ff]AB[fd]LB[ge:1]LB[ff:2]LB[fd:3]C[how to respond to this black sequence?]AP[goproblems]
+(;W[fc];B[gd]
+(;W[ee]C[];B[fb];W[ec]C[This stays connected though white is not completely alive in the corner.RIGHT])
+(;W[ec];B[ee]TR[fc]TR[gd]C[The marked exchange is very bad.])
+(;W[fb];B[ee]))
+(;W[ec];B[ee]C[]
+(;W[bd];B[be];W[bc];B[dh]C[If White can attack one of the black groups this is playable.RIGHT])
+(;W[dg];B[bc]
+(;W[cf];B[be]
+(;W[bb];B[ab];W[ba];B[cg]C[];W[ef];B[de];W[dh];B[bg];W[gb];B[hb];W[fb];B[hc]C[White needs another move to prevent ko so this is good for Black.])
+(;W[bf];B[cb];W[db];B[ca]C[Good for Black]))
+(;W[bb];B[bd]
+(;W[ab];B[cg]C[]LB[ef:A];W[ef];B[de];W[dh];B[ch];W[di];B[ci];W[dj];B[ck]C[Playable but black has some sente moves around G18.RIGHT])
+(;W[cf];B[ab];W[ba];B[cg]C[White is in trouble];W[ef];B[de];W[dh];B[bf];W[ch];B[bg];W[gb];B[hb];W[fb];B[hc]C[White needs another move to prevent ko so this is good for Black.])
+(;W[cg];B[ab];W[ba];B[fb];W[de];B[ce];W[ef];B[de];W[eb];B[fc]
+(;W[bf];B[cb];W[db];B[ea];W[ca];B[fa];W[da];B[ac])
+(;W[cf];B[cb];W[db];B[ea];W[ca];B[fa];W[da];B[ac])
+(;W[ac];B[bf];W[bg];B[cb]
+(;W[ca])
+(;W[db];B[ea];W[ca];B[fa];W[da]C[The corner is seki so this is playable.RIGHT]))))))
+(;W[ee];B[ec]C[cut])
+(;W[gf];B[ec]C[cut])
+(;W[de];B[ec];W[ee];B[ce]C[cut]))

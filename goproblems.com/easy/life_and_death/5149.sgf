@@ -1,0 +1,25 @@
+(;GE[life and death]DI[4k]DP[29]SO[marwin]CO[7]AW[lq]AW[nq]AW[oq]AW[pq]AW[rq]AW[mr]AW[qr]AW[rs]AB[ql]AB[qn]AB[qp]AB[rp]AB[qq]AB[nr]AB[or]AB[pr]AB[sr]
+(;B[ps]
+(;W[rr];B[sq];W[ns];B[sp];W[ms];B[ss]C[RIGHT])
+(;W[sq]C[CHOICE]
+(;B[qs];W[rr];B[sp]C[RIGHT])
+(;B[sp];W[rr];B[qs]C[RIGHT])
+(;B[rr];W[ss];B[qs];W[rr];B[sp]C[RIGHT])
+(;B[ns];W[ms]
+(;B[rr];W[ss]
+(;B[rr];W[sr];B[sp]C[Just seki.])
+(;B[sp];W[qs])
+(;B[sr];W[rr];B[sp]C[Just seki]))
+(;B[sp];W[qs]))))
+(;B[rr];W[ps]
+(;B[qs]C[ko])
+(;B[sq];W[ns]C[ko]))
+(;B[os];W[rr];B[sq];W[ms]
+(;B[qs];W[ps])
+(;B[sp];W[ns]))
+(;B[sq];W[ps];B[rr];W[ns]C[ko])
+(;B[ms];W[ps];B[lr];W[mq]
+(;B[rr];W[qs]
+(;B[kr];W[ns])
+(;B[ns];W[kr];B[sq];W[ls]))
+(;B[kr];W[ns])))

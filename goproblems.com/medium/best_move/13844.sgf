@@ -1,0 +1,28 @@
+(;GE[best move]DI[1d]DP[17]SO[DarkSycthe]CO[0]AW[mp]AW[mq]AW[mr]AW[mo]AW[ms]AW[lo]AW[kn]AW[ln]AB[km]AB[ll]AB[ml]AW[nl]AW[nk]AB[om]AB[oo]AB[op]AB[oq]AB[or]AB[nr]AB[nq]AB[ns]AW[os]AW[ps]AW[qs]AW[pr]AW[pq]AW[pp]AW[qo]AW[rm]AB[pk]AB[ql]AW[rl]AB[rk]AW[mj]AW[lj]AW[jl]AW[jm]AW[kj]AW[jk]AB[jn]AB[jo]AB[ko]AB[kp]AB[kq]AB[kr]AB[fq]AB[gp]AW[gm]AB[nj]AB[ni]AB[nh]AW[mi]AW[mh]AB[qh]AW[gj]AB[nm]LB[nk:1]C[White just played 1. What is the best way (in terms of points) for Black to respond?]AW[ro]AP[goproblems]
+(;B[mk];W[mm]C[White cuts. What to do now?]
+(;B[ok];W[kl]C[Oops. White connects. Not good.])
+(;B[ol];W[kl]C[White connects. Not good.])
+(;B[kl]C[Yes! Though this may seem like bad shape, it maintains the liberties (3 to 2) and prevents White's connection. Good job!RIGHT])
+(;B[lm];W[nn]C[Looks dangerous. What now?]
+(;B[on];W[kl]C[Uhoh. This is a very big ko. Not a good result for Black, even if Black takes first.])
+(;B[ol];W[on]C[Whoops. Black is cut and dies.])
+(;B[mn]C[];W[on]C[Seems like a good option, but white can play here...]
+(;B[mm];W[pn])
+(;B[pn];W[mm]
+(;B[po];W[lk]C[This ko is scarily big. Not good.])
+(;B[pm];W[po])))))
+(;B[mm];W[mk]C[You could have captured those two stones.])
+(;B[lm];W[mk]C[You could have captured those two stones.])
+(;B[mn];W[lm]
+(;B[kl];W[mm]C[Ouch. Black can't cut at N9 due to a lack of liberties])
+(;B[mm];W[kl]))
+(;B[ok];W[mm]
+(;B[mk])
+(;B[lm];W[nn]
+(;B[on];W[mk]C[Very big ko. And even if Black wins, White saved the two stones.])
+(;B[mk];W[on]C[Black is cut.])))
+(;B[ol];W[mm]
+(;B[mk])
+(;B[lm];W[nn]
+(;B[on];W[mk]C[Very big ko. And even if Black wins, White saved the two stones.])
+(;B[mk]))))

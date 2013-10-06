@@ -1,0 +1,39 @@
+(;GE[life and death]DI[6k]DP[38]SO[akeran]CO[0]AB[bf]AB[cf]AB[ce]AB[dg]AB[ef]AB[bh]AB[ch]AB[ci]AB[di]AB[dj]AB[dk]AB[dl]AB[dm]AB[cn]AB[bo]AB[co]AB[do]AB[eo]AB[fo]AB[go]AB[hn]AB[hm]AB[hl]AB[gk]AB[gj]AB[hi]AB[hh]AB[hg]AB[hf]AW[gf]AW[gg]AW[gh]AW[gi]AW[fj]AW[ei]AW[fk]AW[fl]AW[gl]AW[dn]AW[en]AW[fn]AW[gn]AW[fd]AW[hd]AW[dd]AW[cd]AW[bd]AW[be]AW[bi]AW[cj]AW[aj]AW[bk]AW[ck]AW[cl]AW[bl]AW[cm]AW[bn]AW[am]AW[dp]AW[fq]AW[ho]AW[io]LB[hq:T]C[If White can kill Black on the border do it, otherwise play Tenuki T.There is no ko threat big enough outside.FORCE]TR[hq]AP[goproblems]
+(;W[hq]C[In the real game, after a few move outside, Black play H15 and White answer G15. Then White can kill.RIGHT])
+(;W[eg]
+(;B[fe]C[CHOICE]
+(;W[ee];B[eh];W[fg]
+(;B[fi]
+(;W[ej];B[ge];W[he];B[ff];W[fh];B[fi]))
+(;B[ge]C[CHOICE]
+(;W[he];B[ff]C[black 1 eye - white zero eyes less liberties])
+(;W[fh];B[dh]C[black 1 eye - white zero eyes less liberties])))
+(;W[eh];B[de]MA[df]MA[cg])
+(;W[ge];B[de]MA[df]MA[cg])
+(;W[ed];B[ge];W[ff];B[eh];W[ee];B[fg];W[he];B[fi]MA[eg]MA[dh]MA[cg])
+(;W[ff];B[eh];W[fg];B[de]MA[df]MA[cg])
+(;W[gd];B[de]MA[df]MA[cg])
+(;W[de];B[eh];W[fg];B[ge]
+(;W[he];B[df];W[gm];B[em]C[Black 1 eye, White zero.]))
+(;W[fg];B[de]MA[df]MA[cg])))
+(;W[ae];B[eh]MA[dh]MA[cg])
+(;W[ag];B[eh];W[bg];B[ah];W[af];B[de]MA[df]MA[dh])
+(;W[af];B[eh];W[bg];B[ah];W[ag])
+(;W[ah];B[eh];W[bg];B[af];W[ag];B[de]MA[df]MA[dh])
+(;W[ai];B[eh]MA[dh]MA[cg])
+(;W[bg];B[eh]
+(;W[ag])
+(;W[af])
+(;W[ah]))
+(;W[cg];B[eh]MA[dh]MA[cg])
+(;W[de];B[eh]MA[dh]MA[cg])
+(;W[df];B[eh]MA[dh]MA[cg])
+(;W[dh];B[eh]MA[dh]MA[cg])
+(;W[ee];B[eh]MA[dh]MA[cg])
+(;W[eh];B[de]
+(;W[ee];B[eg]MA[df]MA[cg])
+(;W[eg];B[ee]MA[df]MA[cg])
+(;W[bg];B[ag]MA[cg]MA[df]))
+(;W[fg];B[de]
+(;W[eg];B[ee]MA[df]MA[cg])
+(;W[ee];B[eg]MA[df]MA[cg])))

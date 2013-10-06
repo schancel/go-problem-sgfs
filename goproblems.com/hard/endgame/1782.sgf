@@ -1,0 +1,13 @@
+(;GE[endgame]DI[4d]DP[7]SO[ferdi]CO[7]SZ[7]AW[da]AW[db]AW[fb]AW[dc]AW[fc]AW[gc]AW[ad]AW[bd]AW[dd]AW[ed]AW[be]AW[de]AW[bf]AW[cf]AB[ba]AB[ca]AB[ab]AB[cb]AB[bc]AB[cc]AB[cd]AB[fd]AB[gd]AB[ce]AB[ee]AB[fe]AB[af]AB[df]AB[dg]C[No komi given, no prisoners taken - white to play and win!]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]TM[]PW[WeiÃƒÅ¸]PB[Schwarz]PL[W]
+(;W[ef];B[ff]
+(;W[cg];B[eg];W[ag];B[bg];W[fg];B[gg];W[ag]C[RIGHT];B[eb]
+(;W[ae];B[fa];W[ec];B[gb];W[ga];B[ac]C[There was no ko threat for black...!];W[ea]C[White wins by one point RIGHT]))
+(;W[ag];B[cg]C[Of course black doesn't capture at B1!]))
+(;W[cg];B[ef];W[ag];B[bg]
+(;W[gf];B[ag]
+(;W[ff];B[fg])
+(;W[fg];B[ac];W[ae];B[ag];W[ff];B[bg]C[White loses the capturing race by one move - f2 wasn't a good enough ko threat])
+(;W[ge];B[fg]))
+(;W[ff];B[ag];W[gg];B[ac];W[ae];B[ag];W[ge];B[gf]C[There is no white ko threat]))
+(;W[ag];B[cg]C[Of course black doesn't capture at B1!])
+(;W[ff];B[ef];W[gg];B[cg];W[ge];B[gf]C[There is no white ko threat]))

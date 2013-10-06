@@ -1,0 +1,22 @@
+(;GE[life and death]DI[1d]DP[15]SO[santa c]CO[6]SZ[9]AB[da]AB[db]AB[dc]AB[cc]AB[bc]AB[ac]AW[ad]AW[bd]AW[cd]AW[dd]AW[ed]AW[ec]AW[eb]AW[ea]AW[df]AW[ef]AW[ff]AW[fg]AW[fh]AW[fi]AB[eg]AB[eh]AB[dh]AB[di]AB[ch]AB[bh]AB[ah]AW[dg]AW[cg]AW[ag]AW[bg]LB[gc:D]C[Area Scoring - Which one, u'd rather save? (Click on 'D' for doesn't matter! Or save 1..)FORCE]AP[goproblems]
+(;B[bb];W[bi]C[(Area Scoring -) By how much is it better? (Checkout 'Navigate Solution for the right amount.) (Not considering E1 as it's a small endgame move after saving the lower group.)FORCE]LB[hc:1]LB[hd:2]LB[he:3]LB[hf:4]LB[hg:5]
+(;B[he]C[In the NZ rules set, ONLY territory is counted, and that includes the ter under the stones. So - B has 12 moku : W has 11 moku => B+1. If black'd save the other group - Black'd have 10 moku and W'd have 12 -> W+2. Hence this is better for black, by 3 moku. (Not considering E1 as it's a small endgame move after saving the lower group.)RIGHT])
+(;B[hc]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hd]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hf]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hg]C[Nope, the correct anwser is 3. Please chose it for an explanation.]))
+(;B[ba];W[bi]C[NZ RULES. By how much is it better? (Checkout 'Navigate Solution for the right amount.) (Not considering E1 as it's a small endgame move after saving the lower group.)FORCE]LB[hc:1]LB[hd:2]LB[he:3]LB[hf:4]LB[hg:5]
+(;B[he]C[In the NZ rules set, ONLY territory is counted, and that includes the ter under the stones. So - B has 12 moku : W has 11 moku => B+1. If black'd save the other group - Black'd have 10 moku and W'd have 12 -> W+2. Hence this is better for black, by 3 moku. (Not considering E1 as it's a small endgame move after saving the lower group.)RIGHT])
+(;B[hc]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hd]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hf]C[Nope, the correct anwser is 3. Please chose it for an explanation.])
+(;B[hg]C[Nope, the correct anwser is 3. Please chose it for an explanation.]))
+(;B[bi];W[ba]C[In the NZ rules set, ONLY territory is counted, and that includes the ter under the stones. So - B has 10 moku : W has 12 moku => W+2. If black'd save the other group - Black'd have 12 moku and W'd have 11 -> B+1. Hence the other one was worth 3 points more..(Not considering E1 as it's a small endgame move after saving the lower group.)FORCE])
+(;B[gc]C[Wrong! The upper one's worth more.])
+(;B[ab]C[Wrong - Lets white chose what to kill.];W[ba]C[Wrong - White takes the bigger group, and black saves the lower one in gote..FORCE]LB[bi:S])
+(;B[aa]C[Wrong - Lets white chose what to kill.];W[bb]C[White takes the bigger group, and black saves the lower one in gote..FORCE]LB[bi:S])
+(;B[cb]C[Wrong - Lets white chose what to kill.];W[ba]C[White takes the bigger group, and black saves the lower one in gote..FORCE]LB[bi:S])
+(;B[ca]C[Wrong - Lets white chose what to kill.];W[bb]C[White takes the bigger group, and black saves the lower one in gote..FORCE]LB[bi:S])
+(;B[ai]C[Wrong - Just kills the lower one, and lets white kill the upper one, as well..];W[ba]C[Both are dead - Does white have a b-day, or something? What's the present for, then?!FORCE])
+(;B[ci]C[Wrong - Just kills the lower one, and lets white kill the upper one, as well..];W[ba]C[Both are dead - Does white have a b-day, or something? What's the present for, then?!FORCE])
+(;B[ei]C[Wrong - Lets white chose what to kill.];W[ba]C[White takes the bigger group, and black saves the lower one in gote..FORCE]LB[bi:S]))

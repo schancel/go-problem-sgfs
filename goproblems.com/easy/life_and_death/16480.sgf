@@ -1,0 +1,29 @@
+(;GE[life and death]DI[5k]DP[34]SO[santa c]CO[0]AB[js]AB[hs]AB[hq]AB[hr]AW[gs]AW[gr]AW[gq]AW[hp]AW[jp]AW[ip]AB[lq]AB[ls]AW[ms]AW[mr]AW[mq]AB[lr]C[Surely not all is lost?]AW[mp]AW[gp]AW[lp]AP[goproblems]
+(;B[jr];W[jq]
+(;B[ir];W[kr];B[kq]C[nice :)RIGHT])
+(;B[iq];W[kr];B[kq]C[nice :)RIGHT])
+(;B[kr];W[ir]C[Cannot play at A!]LB[iq:A])
+(;B[kq];W[ir]C[Cannot play at A!]LB[iq:A]))
+(;B[ir]
+(;W[kr]C[CHOICE]
+(;B[kq];W[jq];B[jr]C[nice :)RIGHT])
+(;B[jr];W[kq])
+(;B[jq];W[kq]))
+(;W[jq]C[CHOICE]
+(;B[jr];W[kr];B[kq]C[nice :)RIGHT])
+(;B[kr];W[jr])
+(;B[kq];W[jr])))
+(;B[kr];W[ir]
+(;B[iq];W[jq])
+(;B[jr];W[iq])
+(;B[jq];W[iq]))
+(;B[jq];W[iq];B[ir];W[kq]
+(;B[kr];W[jr]C[ko!])
+(;B[jr];W[kr]))
+(;B[iq]
+(;W[kq]
+(;B[kr];W[jr])
+(;B[jr];W[kr])))
+(;B[kq];W[iq]
+(;B[jr];W[ir])
+(;B[ir];W[jr])))

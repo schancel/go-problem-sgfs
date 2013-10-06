@@ -1,0 +1,19 @@
+(;GE[life and death]DI[10k]DP[51]SO[Snow Dragon]CO[0]AW[eb]AW[db]AW[cb]AW[bb]AW[ac]AW[cc]AW[ea]AB[fa]AB[fb]AB[ec]AB[dc]AB[gc]AB[cd]AB[bd]AB[bc]AB[be]C[Black to kill.]AP[goproblems]
+(;B[ab]
+(;W[aa]C[CHOICE]
+(;B[ca]C[RIGHT])
+(;B[ad];W[ca];B[ab]C[Only ko.]))
+(;W[ca]C[CHOICE]
+(;B[ad];W[aa]
+(;B[ac]C[RIGHT])
+(;B[ba]C[White should not be able to win this.RIGHT]))
+(;B[aa];W[ba];B[ab];W[aa]C[RIGHT])))
+(;B[ba];W[ca]
+(;B[ab];W[aa])
+(;B[aa];W[ab])
+(;B[ad];W[ab]))
+(;B[ca]
+(;W[ba]C[CHOICE];B[ab]C[RIGHT])
+(;W[ab]C[CHOICE];B[ba]C[RIGHT]))
+(;B[aa];W[ab])
+(;B[ad];W[ab]))

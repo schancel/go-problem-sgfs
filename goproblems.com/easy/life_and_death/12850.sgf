@@ -1,0 +1,46 @@
+(;GE[life and death]DI[7k]DP[44]SO[Cei]CO[0]AB[cc]AB[bd]AB[ad]AB[bb]AB[ba]AB[cb]AW[ae]AW[be]AW[cd]AW[dc]AW[dd]C[Kill black.]AW[fb]AP[goproblems]
+(;W[ab]
+(;B[aa]C[E18 also works for black--see navigation.]
+(;W[ac];B[bc]
+(;W[ca];B[db];W[da];B[eb];W[ea];B[fa])
+(;W[da];B[db]
+(;W[eb]C[RIGHT])
+(;W[ea];B[eb]C[RIGHT]))
+(;W[eb];B[db]
+(;W[ea];B[da])
+(;W[da]C[RIGHT]))
+(;W[ea];B[db]
+(;W[da];B[eb]C[RIGHT])
+(;W[eb];B[da]))
+(;W[db]C[RIGHT]))
+(;W[bc];B[ac]))
+(;B[eb]
+(;W[db];B[da]
+(;W[ec]C[RIGHT])
+(;W[fc]C[RIGHT])
+(;W[ea]C[This sacrifice is unnecessary]))
+(;W[ec];B[db])
+(;W[ea];B[da]
+(;W[fa];B[db])
+(;W[db];B[fa]C[This sacrifice was unnecessary]))
+(;W[da];B[db];W[ea];B[ec])
+(;W[ca];B[db])
+(;W[fa];B[db])
+(;W[fc];B[db])
+(;W[bc]
+(;B[db]C[RIGHT])
+(;B[ac];W[bc]C[RIGHT]))))
+(;W[aa];B[ab])
+(;W[bc];B[ac])
+(;W[ac];B[bc]
+(;W[ab];B[db]
+(;W[da];B[eb];W[ea];B[ec])
+(;W[eb];B[da])
+(;W[ca];B[da])
+(;W[ea];B[da]))
+(;W[aa];B[ab]))
+(;W[db]C[CHOICE];B[ac])
+(;W[ca]C[CHOICE];B[db])
+(;W[da]C[CHOICE];B[ac])
+(;W[eb];B[ac])
+(;W[ea];B[ac]))

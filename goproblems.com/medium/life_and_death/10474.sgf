@@ -1,0 +1,13 @@
+(;GE[life and death]DI[1k]DP[20]SO[zafris]CO[5]C[What is the minimum number of stones (of the same color) needed to form a group that is alive as it stands? Suppose that no more moves of the group's color is allowed to be played afterwards.FORCE]LB[dj:4]LB[gj:6]LB[jj:8]LB[mj:10]LB[pj:12]AP[goproblems]
+(;B[gj];W[hj]C[Correct. Now, how many unique shapes are there that uses 6 stones to make a group that's alive (no matter what other than filling in the eyes)?FORCE]LB[dp:2]LB[gp:3]LB[jp:4]LB[mp:5]LB[pp:6]
+(;B[jp]C[]
+(;W[kp]C[Correct. These are the shapes.  RIGHT]AB[ar]AB[bs]AB[cr]AB[bq]AB[aq]AB[cs]AB[ab]AB[ba]AB[bc]AB[cb]AB[ca]AB[cc]AB[rb]AB[sb]AB[ra]AB[rc]AB[rd]AB[sd]AB[ss]AB[rr]AB[qs]AB[qr]AB[sq]AB[rq])
+(;W[as];B[ja]))
+(;B[dp])
+(;B[gp])
+(;B[mp])
+(;B[pp]))
+(;B[dj];W[ej]C[This shape?]AB[ab]AB[ba]AB[bc]AB[cb]AW[ac]AW[ad]AW[bd]AW[cd]AW[dd]AW[dc]AW[db]AW[da]AW[ca])
+(;B[jj];W[kj]C[Too many.]AB[hs]AB[hr]AB[ir]AB[jr]AB[js]AB[lr]AB[ls]AB[kr])
+(;B[mj]C[];W[nj]C[Too many.]AB[jn]AB[jo]AB[kn]AB[kp]AB[lp]AB[lo]AB[lm]AB[mn]AB[mm]AB[mo])
+(;B[pj];W[oj]C[Too many.]AB[jp]AB[jo]AB[kp]AB[lo]AB[kn]AB[lp]AB[jn]AB[ho]AB[hp]AB[ip]AB[in]AB[ln]))

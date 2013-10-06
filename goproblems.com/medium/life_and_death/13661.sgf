@@ -1,0 +1,37 @@
+(;GE[life and death]DI[1k]DP[18]SO[kaf]CO[0]AB[cq]AB[dq]AB[fp]AB[cp]AB[co]AB[cn]AB[cm]AB[em]AB[io]AB[jp]AB[jq]AB[jr]AW[br]AW[bq]AW[bp]AW[bo]AW[bn]AW[bm]AW[ck]AW[ek]AW[fl]AW[gk]AW[go]AB[dm]AB[en]AW[fm]AW[hn]AW[gp]AW[fq]AW[er]AW[iq]AW[ir]C[black to live]AP[goproblems]
+(;B[ep];W[do])
+(;B[eq]
+(;W[fo]C[CHOICE]
+(;B[ep];W[do]
+(;B[gq];W[fr];B[gr];W[dr])
+(;B[fr];W[gq]
+(;B[gr];W[es]
+(;B[dr];W[eo])
+(;B[cr];W[eo]))
+(;B[dr];W[fs]
+(;B[es];W[gs])
+(;B[gr];W[gs]))))
+(;B[fr]
+(;W[gq]C[CHOICE]
+(;B[gs];W[gr];B[es]C[yes, ko is the solutionRIGHT])
+(;B[dr];W[fs]
+(;B[es];W[gs];B[gr];W[hs];B[hr])
+(;B[gr];W[gs];B[hr];W[hs];B[es];W[is]))
+(;B[es];W[gs]
+(;B[fs];W[ds];B[dr];W[cs])
+(;B[dr];W[fs])
+(;B[gr];W[hs];B[dr];W[fs]))
+(;B[fs];W[ds])
+(;B[ds];W[fs])
+(;B[gr]
+(;W[hs]
+(;B[dr];W[fs])
+(;B[es];W[gs])
+(;B[hr]
+(;W[fs];B[dr];W[gs]))))
+(;B[do]C[this move is nothing but waste of a ko trheatNOTTHIS])))
+(;B[do];W[ep]))
+(;W[gr];B[do]C[RIGHT]))
+(;B[do];W[ep];B[eq];W[fo])
+(;B[fo];W[eq])
+(;B[gq];W[eq];B[ep];W[do];B[gr];W[dr]))

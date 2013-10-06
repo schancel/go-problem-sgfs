@@ -1,0 +1,58 @@
+(;GE[endgame]DI[6k]DP[36]SO[BartTM]CO[0]AB[qd]AB[pd]AB[oc]AB[nd]AB[mc]AB[mb]AB[ma]AW[lc]AW[lb]AW[la]AW[md]AW[nc]AW[nb]AB[od]AW[ld]AB[rd]AB[sd]C[The corner area looks bigger than it should be. Do something about that.]AP[goproblems]
+(;W[na];B[pb]
+(;W[pa];B[qa]C[Black gets at least 8 points in the corner.])
+(;W[ob];B[pa]C[10 points in the corner.])
+(;W[oa];B[pa]C[10 points in the corner.])
+(;W[qb];B[ob]))
+(;W[ob];B[pb]
+(;W[na];B[pa]C[10 points in the corner.])
+(;W[pa];B[qa]
+(;W[oa];B[na])
+(;W[na];B[qb]C[At least 8 points in the corner.])
+(;W[qb];B[oa];W[na]
+(;B[pa]C[11 points in the corner for Black. Mind you, Black will play S18 instead when surrounded and having to find life.]MA[rb])
+(;B[rb]AW[ne]AW[oe]AW[pe]AW[qe]AW[re]AW[se];W[pa];B[qc]C[If Black were surrounded by White then Black can still get at least 8 points from the corner like this.])))
+(;W[oa];B[pa];W[na]C[10 points to Black in sente.])
+(;W[qb];B[pa]))
+(;W[oa]
+(;B[ob]C[CHOICE]
+(;W[na];B[qb]
+(;W[qa]C[CHOICE];B[ra]
+(;W[pa];B[rc]C[Nice. Black has no good followup to White P19 so Black can get just 6 points at most.RIGHT])
+(;W[pb]
+(;B[pa]C[Unnecessary ko. White can win a point at most, Black can win about 4 points compared to the solution.])
+(;B[pc];W[pa];B[rb]C[(Black would play this if the ko is unfavourable. Just five points but the corner is sealed.]))
+(;W[rb];B[pa]))
+(;W[pa];B[qa]C[2 points worse than the solution.])
+(;W[pb];B[qa];W[pa]C[Gote, Black gets 6 or 7 points.]))
+(;W[pa];B[na])
+(;W[pb];B[na]))
+(;B[qb]C[CHOICE]
+(;W[qa];B[ob]
+(;W[na]C[CHOICE];B[ra]
+(;W[pa];B[rc]C[Nice. Black has no good followup to White P19 so Black can get just 6 points at most.RIGHT])
+(;W[pb];B[pa]C[Unnecessary ko. White can win a point at most, Black can win about 4 points compared to the solution.]))
+(;W[pa];B[na])
+(;W[pb];B[na])
+(;W[rb];B[na])
+(;W[ra];B[na]))
+(;W[na];B[pb]C[Black gets at least 8 points.])
+(;W[pb];B[ob]
+(;W[na])
+(;W[pa];B[na])
+(;W[qa]))
+(;W[ob];B[pb]C[Black gets at least 8 points.])
+(;W[pa];B[ob]
+(;W[na];B[qa]C[2 points worse than the solution.])
+(;W[pb])
+(;W[qa]))
+(;W[ra];B[ob]
+(;W[na];B[pa])
+(;W[pa];B[na])
+(;W[qa]))))
+(;W[pa];B[ob]
+(;W[na];B[oa])
+(;W[oa];B[na]))
+(;W[pb];B[ob]
+(;W[oa];B[na])
+(;W[na];B[oa])))

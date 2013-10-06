@@ -1,0 +1,26 @@
+(;GE[elementary]DI[3d]DP[9]SO[santa c]CO[7]SZ[9]C[How many ways are there for black to live?FORCE]AB[ac]AB[bb]AB[ca]AB[aa]AW[ae]AW[be]AW[ce]AW[ec]AW[eb]AW[ea]AW[de]AW[ed]LB[bg:0]LB[cg:1]LB[dg:2]LB[bh:3]LB[ch:4]LB[dh:5]AP[goproblems]
+(;B[bh];W[cg]C[Correct! What other way other than A?FORCE]LB[cc:A]AW[fe]AW[ge]AW[he]AW[ie]AB[ga]AB[hb]AB[ic]AB[ia]AB[cc]LB[gc:A]
+(;B[fc];W[gc]
+(;B[gd];W[fb]
+(;B[gb]C[Well done! :) (A's still the best way as it only allows 2 ko threats while playing at B allows 3...;)RIGHT]AW[ef]AW[eh]AW[eg]AW[ei]AB[ii]AB[hh]AB[ig]AB[gi]LB[gg:A]LB[fg:B]LB[gf:B])
+(;B[hc];W[gb]C[:(]))
+(;B[gb];W[hc]C[:(])
+(;B[hc];W[gb]C[:(]))
+(;B[gd];W[gc]
+(;B[fc];W[fb]
+(;B[gb]C[Well done! :) (A's still the best way as it only allows 2 ko threats while playing at B allows 3...;)RIGHT]AW[ef]AW[eg]AW[eh]AW[ei]AB[ig]AB[hh]AB[gi]AB[ii]LB[gg:A]LB[fg:B]LB[gf:B])
+(;B[hc];W[gb]C[:(]))
+(;B[hc];W[gb]C[:(])
+(;B[gb];W[hc]C[:(]))
+(;B[gb];W[hc]C[:(])
+(;B[hc];W[gb]C[:(])
+(;B[fb];W[gc]C[:(]TR[hc]TR[gb])
+(;B[hd];W[gc]TR[hc]TR[gb]C[:(])
+(;B[fd];W[gc]C[:(]TR[hc]TR[gb])
+(;B[id];W[gc]C[:(]TR[hc]TR[gb])
+(;B[fa];W[gc]TR[gb]TR[hc]))
+(;B[bg]C[3 is the correct anwser. Use 'Navigate Solution' on the left under 'Show solution' following the correct anwser to see for yourself.])
+(;B[cg]C[3 is the correct anwser. Use 'Navigate Solution' on the left under 'Show solution' following the correct anwser to see for yourself.])
+(;B[dg]C[3 is the correct anwser. Use 'Navigate Solution' on the left under 'Show solution' following the correct anwser to see for yourself.])
+(;B[ch]C[3 is the correct anwser. Use 'Navigate Solution' on the left under 'Show solution' following the correct anwser to see for yourself.])
+(;B[dh]C[3 is the correct anwser. Use 'Navigate Solution' on the left under 'Show solution' following the correct anwser to see for yourself.]))

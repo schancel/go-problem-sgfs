@@ -1,0 +1,21 @@
+(;GE[life and death]DI[4d]DP[8]SO[Randomly Anonymous]CO[0]AB[bp]AB[cp]AB[co]AB[cn]AB[cm]AB[bk]AB[ck]AW[bl]AW[bm]AW[bn]AW[bo]AW[ci]AB[ji]AB[ki]AW[ih]AW[jh]AW[kh]AB[lh]AB[li]AW[lg]AW[dp]AW[cq]AW[fp]AW[fo]AW[go]AB[gp]AB[hp]AW[ip]AW[jo]AW[kp]AW[kq]AW[jq]AW[jr]AB[kr]AB[lq]AB[mr]AB[ls]AB[ko]AB[lo]AB[lp]AW[lm]AW[lk]C[Here is what the parts of the board that matter look like. White just exchanged 1 for 2 and preceeded with the cut at 3. Black to get the best out of this situation.]AB[dl]AW[cl]AW[dk]LB[cl:1]LB[dl:2]LB[dk:3]AP[goproblems]
+(;B[dq];W[eq]C[The Cut at D3 was the right choice];B[dr];W[cr]
+(;B[do];W[ep];B[br];W[el];B[dm];W[ek];B[er];W[fr]
+(;B[bq]C[This was the actual sequence played in the game.RIGHT])
+(;B[cs]C[RIGHT]))
+(;B[er];W[fr]C[And if white tries to resist?];B[br];W[ds];B[bq];W[cs]
+(;B[bs];W[es];B[dj];W[ek];B[cj];W[dm];B[el];W[fl];B[em];W[en]
+(;B[fm];W[gm];B[dn];W[fn];B[dm];W[ap];B[al]C[B wins capturing race by one liberty =)RIGHT])
+(;B[dn];W[fm];B[dm];W[ej];B[di]C[Works, but you could have had sente.]))
+(;B[dj];W[ek];B[cj];W[dm];B[el];W[fl];B[em];W[en]
+(;B[fm];W[gm];B[dn];W[fn];B[dm];W[bs]
+(;B[ao];W[ar]C[Good =)RIGHT])
+(;B[fk];W[ej];B[ei];W[fj];B[di];W[gk]C[This is probably one of the best outcomes for black.RIGHT]))
+(;B[dn];W[fm];B[dm]C[Black still wins the capturing race, but this is worse than the solution since Black loses sente.]))))
+(;B[ek];W[dj];B[em];W[bq]C[Black could have done a lot better.])
+(;B[dj];W[ek];B[cj];W[dm];B[el];W[fl];B[em];W[en]
+(;B[dn];W[fm];B[dm];W[bq]C[Nope =(])
+(;B[fm];W[gm];B[dn];W[fn];B[dm];W[bq];B[fk];W[ej]
+(;B[ei];W[fj];B[gl];W[di]C[Nope =(])
+(;B[di];W[gl];B[fj];W[ei]C[The ladder is broken.])
+(;B[gl];W[di]C[Nope =(]))))

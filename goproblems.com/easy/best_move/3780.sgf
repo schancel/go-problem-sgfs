@@ -1,0 +1,5 @@
+(;GE[best move]DI[25k]DP[75]SO[adum]CO[8]AW[pp]AB[qn]AW[jq]AW[oq]AW[np]AW[op]AB[nq]AB[nr]AB[mp]AB[lo]AW[mo]AW[mn]AB[no]AW[fp]LB[kp:A]LB[lp:B]LB[lq:C]LB[mq:D]C[how should black connect?FORCE]AP[goproblems]
+(;B[kp];W[mq];B[lp];W[mr])
+(;B[lp];W[lr]C[this forcing move by white is too problematic after this connection])
+(;B[lq]LB[ln:A]C[even though white can force with A at will, this is the best connectionRIGHT])
+(;B[mq];W[kp];B[lp]C[black has poor eyeshape]))

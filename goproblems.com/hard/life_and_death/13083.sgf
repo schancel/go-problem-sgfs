@@ -1,0 +1,250 @@
+(;GE[life and death]DI[4d]DP[7]SO[ndkrempel]CO[0]AW[dp]AW[ep]AW[fq]AW[fr]AW[fs]AW[co]AW[bo]AW[bm]AB[bp]AB[cp]AB[cr]AB[er]AB[es]AP[goproblems]
+(;W[br]
+(;B[ar]C[CHOICE]
+(;W[aq];B[bq];W[as];B[ap]
+(;W[dq]C[];B[ar]C[Good, a 2-step ko. This is the best result for both, try again to see some other variations.RIGHT])
+(;W[ao];B[ar]C[Nearly, but this way gives black more local ko threats.]))
+(;W[bs];B[bq];W[dq];B[ap])
+(;W[bq];B[cq];W[bs];B[dr]
+(;W[cs];B[aq])
+(;W[aq];B[ap])
+(;W[ap];B[aq]
+(;W[as];B[aq]
+(;W[ar];B[cs]
+(;W[ao];B[aq])
+(;W[aq];B[ao]))
+(;W[ao];B[cs];W[ar];B[aq]))
+(;W[ao];B[cs];W[as];B[aq];W[ar];B[aq])
+(;W[cs];B[ao]))))
+(;B[bq]C[CHOICE]
+(;W[ar]
+(;B[aq];W[dq]
+(;B[bs];W[dr]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[dr];W[cq]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[cq];W[dr]C[Good. Black has a stronger defense - try again to see it.RIGHT]))
+(;B[cq]C[CHOICE]
+(;W[cs]
+(;B[bs]
+(;W[dr];B[dq];W[ap];B[ds];W[aq]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[ap];B[aq];W[dr];B[as]
+(;W[dq]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[eq]C[Good. Black has a stronger defense - try again to see it.RIGHT]))
+(;W[dq];B[dr]
+(;W[as];B[ap])
+(;W[ap];B[aq]))
+(;W[as];B[aq]
+(;W[bs];B[dq])
+(;W[dr];B[bs]
+(;W[ar];B[dq])
+(;W[dq];B[ar])
+(;W[eq];B[ar]))
+(;W[dq];B[bs]
+(;W[ar];B[dr])
+(;W[dr];B[ar]))))
+(;B[dr]
+(;W[bs];B[aq]
+(;W[as]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[eq];B[ds];W[dq];B[as];W[bs];B[br];W[ar]))
+(;W[ap];B[aq]
+(;W[bs];B[ds]
+(;W[eq];B[as];W[bs];B[br];W[ar])
+(;W[ao];B[as];W[bs];B[br];W[ar];B[cs])
+(;W[dq];B[as];W[bs];B[br];W[ar]))
+(;W[ao];B[bs])
+(;W[eq];B[bs])
+(;W[dq];B[bs]))))
+(;W[dq];B[dr]
+(;W[cs];B[bs]
+(;W[as];B[ap])
+(;W[ap];B[aq]))
+(;W[ap];B[aq]
+(;W[cs];B[bs])
+(;W[bs];B[cs]))
+(;W[bs];B[cs];W[ap];B[aq]))
+(;W[ap];B[aq]
+(;W[dq];B[dr]
+(;W[cs];B[bs])
+(;W[bs];B[cs]))
+(;W[cs];B[dr]
+(;W[bs];B[ds]
+(;W[eq];B[as];W[bs];B[br];W[ar])
+(;W[ao];B[as];W[bs];B[br];W[ar];B[cs])
+(;W[dq];B[as];W[bs];B[br];W[ar]))
+(;W[ao];B[bs])
+(;W[eq];B[bs])
+(;W[dq];B[bs]))
+(;W[bs]
+(;B[dq]
+(;W[eq];B[ds])
+(;W[ds];B[cs];W[eq];B[as]
+(;W[dr];B[br])
+(;W[br];B[dr])))
+(;B[cs]
+(;W[dq];B[dr])
+(;W[dr];B[as]
+(;W[dq];B[br])
+(;W[br];B[dq]))))
+(;W[dr];B[dq]
+(;W[eq];B[ds])
+(;W[cs];B[ds];W[eq];B[bs]))
+(;W[ds];B[dr]))
+(;W[dr];B[dq])
+(;W[bs]
+(;B[aq]
+(;W[cs];B[dr];W[as]C[FORCERIGHT])
+(;W[dq];B[dr];W[cs];B[ds];W[eq];B[as];W[bs];B[br];W[ar]))
+(;B[cs];W[dr];B[dq];W[eq];B[ds];W[ap]C[RIGHT])))
+(;B[dq];W[ap]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[bs]
+(;W[ap]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[dq]
+(;B[dr]
+(;W[ap]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[cq]C[Good. Black has a stronger defense - try again to see it.RIGHT]))
+(;B[aq];W[dr]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[cq];W[dr]C[Good. Black has a stronger defense - try again to see it.RIGHT]))))
+(;W[dq];B[dr];W[ar];B[cq]
+(;W[cs];B[bs]
+(;W[ap];B[aq])
+(;W[as];B[ap]))
+(;W[ap];B[aq]
+(;W[bs];B[cs])
+(;W[cs];B[bs])))
+(;W[bs];B[cs]
+(;W[dq];B[dr])
+(;W[ar];B[aq])
+(;W[ap];B[ar])
+(;W[aq];B[ap])
+(;W[dr];B[dq]))
+(;W[cs];B[dr];W[ar];B[aq];W[bs];B[ds];W[dq];B[as];W[bs];B[br];W[ar];B[cs]))
+(;B[cq]C[CHOICE]
+(;W[cs];B[bs];W[as];B[ds]
+(;W[dq];B[bs])
+(;W[eq];B[bs])
+(;W[bs];B[bq]
+(;W[ap];B[dq])
+(;W[dq];B[ar]
+(;W[bs];B[ap])
+(;W[ap];B[bs]))
+(;W[ar];B[dq])
+(;W[eq];B[ar]
+(;W[bs];B[ap])
+(;W[ap];B[dq])))
+(;W[ap];B[bs]))
+(;W[bs];B[cs];W[dr];B[dq];W[eq];B[ds];W[aq];B[ap];W[ao];B[ar];W[as])
+(;W[dr];B[dq];W[eq];B[ds];W[bs];B[cs];W[aq];B[ap];W[ao];B[ar];W[as])
+(;W[dq];B[dr];W[cs];B[ap]
+(;W[ar];B[bs])
+(;W[bs];B[ar]
+(;W[bq];B[aq])
+(;W[as];B[bq];W[aq];B[ds]))
+(;W[aq];B[as];W[bs];B[bq]
+(;W[ao];B[ar];W[aq];B[ar])
+(;W[ar];B[ds]))
+(;W[as];B[aq]))
+(;W[ap]C[]
+(;B[aq]
+(;W[dq];B[dr];W[cs];B[ao]
+(;W[an];B[ap]
+(;W[bs];B[ar])
+(;W[ar];B[bs]))
+(;W[bs];B[ar];W[an];B[ap])
+(;W[ar];B[bs]))
+(;W[cs]
+(;B[bs];W[as];B[ds];W[bs]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[ds];W[bs]C[Good. Black has a stronger defense - try again to see it.RIGHT])))
+(;B[ar];W[bs]
+(;B[bq];W[dq];B[dr];W[cs]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[cs]C[CHOICE]
+(;W[dr];B[dq];W[eq];B[ds]
+(;W[bq]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;W[aq]C[Good. Black has a stronger defense - try again to see it.RIGHT]))
+(;W[aq];B[bq];W[dr];B[ao]
+(;W[dq];B[ap])
+(;W[ap];B[dq]))
+(;W[bq];B[aq]
+(;W[as];B[aq]
+(;W[ar];B[aq])
+(;W[dr];B[ar]))
+(;W[dr];B[as]
+(;W[dq];B[br])
+(;W[br];B[dq]))))
+(;B[aq];W[cs]
+(;B[dr];W[ao]C[Good. Black has a stronger defense - try again to see it.RIGHT])
+(;B[dq];W[eq];B[dr];W[ao]C[Good. Black has a stronger defense - try again to see it.RIGHT])))))
+(;B[ap])
+(;B[aq])
+(;B[bs]))
+(;W[ar];B[br]
+(;W[dq];B[as]
+(;W[cq];B[bq]
+(;W[bs];B[cs]
+(;W[dr];B[aq])
+(;W[as];B[dr])
+(;W[ap];B[aq]))
+(;W[cs];B[dr];W[bs];B[ap])
+(;W[dr];B[cs];W[bs];B[aq]))
+(;W[bs];B[aq]
+(;W[cq];B[bq]
+(;W[cs];B[dr]
+(;W[eq];B[as]C[This ko is not as good as the correct solution.])
+(;W[as];B[ds];W[bs];B[as];W[ar];B[cs]))
+(;W[dr];B[cs])
+(;W[as];B[dr];W[cs];B[ds];W[bs];B[as];W[ar];B[cs]))
+(;W[cs];B[dr];W[cq];B[bq]
+(;W[eq];B[as]C[This ko is not as good as the correct solution.])
+(;W[as];B[ds];W[bs];B[as];W[ar];B[cs]))
+(;W[dr];B[cs];W[cq];B[bq]))
+(;W[aq];B[ap];W[bs];B[dr];W[cq];B[bq];W[cs];B[ds])
+(;W[cs];B[dr];W[bs];B[ap])
+(;W[dr];B[cs]
+(;W[bs];B[aq];W[cq];B[bq])
+(;W[cq];B[bq];W[bs];B[aq])
+(;W[aq];B[ap];W[bs];B[bq])))
+(;W[ap];B[bq]
+(;W[dq];B[as]
+(;W[bs];B[aq];W[cs];B[dr]
+(;W[eq];B[as]C[This ko is not as good as the correct solution.])
+(;W[as];B[ds];W[bs];B[as];W[ar];B[cs])
+(;W[ao];B[ds])
+(;W[cq];B[as]C[This ko is not as good as the correct solution.]))
+(;W[cs];B[dr];W[bs];B[aq]
+(;W[eq];B[as]C[This ko is not as good as the correct solution.])
+(;W[ao];B[ds])
+(;W[as];B[ds];W[bs];B[as];W[ar];B[cs])
+(;W[cq];B[as]C[This ko is not as good as the correct solution.])))
+(;W[aq];B[dq])))
+(;W[dq];B[ar]
+(;W[bs];B[dr];W[cq];B[cs]
+(;W[bq];B[br])
+(;W[br];B[bq];W[ap];B[as]))
+(;W[dr];B[bs])
+(;W[ap];B[bs]
+(;W[bq];B[cq]
+(;W[dr];B[aq])
+(;W[aq];B[dr]))
+(;W[dr];B[cq]))
+(;W[bq];B[cq];W[ap];B[br]))
+(;W[ap];B[ar]
+(;W[bs];B[dq]
+(;W[bq];B[cq];W[br];B[aq]
+(;W[eq];B[cs];W[dr];B[as]
+(;W[ds];B[br])
+(;W[br];B[ds]))
+(;W[as];B[aq]
+(;W[ar];B[cs]
+(;W[aq];B[ao])
+(;W[ao];B[aq]))
+(;W[ao];B[cs];W[ar];B[aq]))
+(;W[ao];B[cs];W[as];B[aq];W[ar];B[aq]))
+(;W[eq];B[br]
+(;W[cs];B[as];W[ds];B[dr])
+(;W[bq];B[cq];W[cs];B[as]))
+(;W[cs];B[br]
+(;W[eq];B[as];W[ds];B[dr])
+(;W[bq];B[cq];W[eq];B[as])))
+(;W[dq];B[bs]
+(;W[dr];B[cq])
+(;W[bq];B[cq]
+(;W[aq];B[dr])
+(;W[dr];B[aq])))))

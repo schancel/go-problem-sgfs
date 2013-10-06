@@ -1,0 +1,90 @@
+(;GE[life and death]DI[8k]DP[49]SO[LCZLAPINSKI]CO[5]SZ[9]AB[bh]AB[cg]AB[dg]AB[dh]AB[eh]AB[ei]AB[bf]AB[be]AB[bd]AB[cd]AB[ad]AB[ac]AW[ab]AW[bc]AW[ba]AW[cc]AW[dd]AW[ce]AW[cf]AW[df]AW[ef]AW[ff]AW[gf]AW[hf]AB[if]AB[hg]AB[ig]AB[ih]AB[ii]AB[hi]AB[gh]AW[fg]AW[fh]AW[fi]AW[gi]AW[db]AW[eb]AW[ea]AW[ec]AB[fa]AB[gb]AB[fb]AB[fc]AW[fd]AW[fe]AB[ge]AB[gd]AB[gc]AB[hd]AB[id]AB[he]AW[ic]AW[hb]AW[ha]AW[ia]AP[goproblems]
+(;B[gq]C[RIGHT])
+(;B[bh])
+(;B[gg];W[hc]C[Play at P if you wish to pass.]LB[eg:P]
+(;B[ai]C[Jigo; the marked stones are in seki.]TR[hi]TR[gh]TR[gg]TR[hg]TR[ii]TR[ih]TR[ig]TR[if]TR[he]TR[ge]TR[gd]TR[gc]TR[fc]TR[fb]TR[fa]TR[gb]TR[hc]TR[hb]TR[ha]TR[ia]TR[ic]TR[hd]TR[id]LB[eg:P];W[eg]C[White passes; jigo. The stones on the right are in seiki.]TR[fa]TR[fb]TR[gb]TR[ha]TR[ia]TR[hb]TR[fc]TR[gc]TR[hc]TR[ic]TR[gd]TR[hd]TR[ge]TR[he]TR[if]TR[gg]TR[hg]TR[ig]TR[gh]TR[ih]TR[hi]TR[ii])
+(;B[ah]LB[bi:P]C[White passes; play at P.];W[bi]C[White passes. JigoCHOICE]LB[bi:P])
+(;B[ag]LB[bi:P]C[White passes; play at P.];W[bi]C[White passes; jigo]LB[bi:P])
+(;B[af]LB[bi:P]C[White passes; play at P.];W[bi]LB[bi:P]C[White passes; jigo])
+(;B[ae]LB[bi:P]C[White passes; play at P.];W[bi]LB[bi:P]C[White passes; jigo])
+(;B[bi]LB[ah:P]C[White passes; play at P.];W[ah]LB[ah:P]C[White passes; jigo.])
+(;B[bg]LB[ai:P]C[White passes; play at P.];W[ai]LB[ai:P]C[White passes; jigo.])
+(;B[ci]LB[ai:P]C[White passes; play at P];W[ai]LB[ai:P]C[White passes; jigo])
+(;B[ch]LB[ai:P]C[White passes; play at P.];W[ai]LB[ai:P]C[White passes; jigo.])
+(;B[di]LB[ai:P]C[White passes; play at P.];W[ai]LB[ai:P]C[White passes; jigo.])
+(;B[ga];W[ie])
+(;B[ie]C[This move is not needed. You have seki before this move. So this move is 0 points gote.RIGHT])
+(;B[eg]LB[eg:P]C[RIGHT])
+(;B[ee]LB[eg:P];W[eg]C[White passes and wins by .5.])
+(;B[cb]LB[eg:P];W[eg]C[White passes and wins by .5.])
+(;B[ed]LB[eg:P];W[eg]C[White passes and wins by .5.]))
+(;B[ai];W[gg]
+(;B[ga];W[ib]C[Black has a bulky five killable shape inside that almost fills.]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic])
+(;B[hc];W[ib]C[Black has a killable bulky five shape inside that almost fills.]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic])
+(;B[hh];W[ie]C[Black loses.]))
+(;B[ah];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[ag];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[af];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[ae];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[bi];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[bg];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[ci];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[ch];W[gg]
+(;B[ga];W[ib])
+(;B[hc];W[ib]))
+(;B[hh];W[gg])
+(;B[hc]
+(;W[ib]C[This would be a mistake by white.];B[gg]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic]C[Marked stones are dead because of black's second eye at H2.RIGHT])
+(;W[gg]C[CHOICE]
+(;B[ga]TR[hb]TR[ha]TR[ia]TR[ic];W[hh];B[ib];W[ie];B[if];W[ig])
+(;B[ib]C[Ko]
+(;W[hh]C[Ko]
+(;B[ga];W[ie];B[if];W[ig])
+(;B[ie]C[];W[ic]C[Ko]
+(;B[gh];W[ib]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic]C[White almost fills with the bulky five killable shape.])
+(;B[ib]C[NOTTHIS])
+(;B[bg];W[ga])
+(;B[bb];W[ga]))
+(;B[gh]C[NOTTHIS])
+(;B[bb];W[ie]
+(;B[aa];W[ic];B[if];W[ib]TR[ha]TR[ia]TR[hb]TR[ib]TR[ic];B[ga];W[ib]C[Bulky five nakade.];B[hb];W[ia])
+(;B[if];W[ig];B[ga];W[cb]C[White wins by 6.5 (21.5-15).])
+(;B[ga];W[cb];B[if];W[ig];B[ie]C[White wins by 3 (21.5-18).])))
+(;W[ic]C[NOTTHIS]))
+(;B[ie];W[ib]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic]C[Black has a bulky five killable shape inside that almost fills.  The stones marked with a rectangle are dead.]MA[hi]MA[gh]MA[ii]MA[ih]MA[hg]MA[ig]MA[if]MA[ie]MA[he]MA[id]MA[hd]MA[ge]MA[gd]MA[hc]MA[gc]MA[gb]MA[fc]MA[fb]MA[fa];B[ga];W[ib];B[hb];W[ia])))
+(;B[ie];W[gg]
+(;B[hc];W[ib]TR[ic]TR[ib]TR[hb]TR[ha]TR[ia];B[ga];W[ib];B[hb];W[ia])
+(;B[ga];W[ib];B[hc];W[ib];B[hb];W[ia]))
+(;B[ee];W[gg]
+(;B[ga];W[ib]TR[ha]TR[hb]TR[ic]TR[ib]TR[ia];B[hc];W[ib];B[hb];W[ia])
+(;B[hc];W[ib]TR[ha]TR[hb]TR[ic]TR[ib]TR[ia]MA[gh]MA[hg]MA[hi]MA[ii]MA[ih]MA[ig]MA[if]MA[he]MA[ge]MA[gd]MA[hd]MA[id]MA[hc]MA[gc]MA[fc]MA[fb]MA[gb]MA[fa]C[The black stones marked with a rectangle are dead because white has almost filled black's one eye with a bulky five killable shape inside.];B[ga];W[ib];B[hb];W[ia]))
+(;B[ed];W[gg]
+(;B[ga];W[ib];B[hc];W[ib];B[hb];W[ia])
+(;B[hc];W[ib]TR[ha]TR[hb]TR[ia]TR[ib]TR[ic]C[Black is dead because white has almost filled with a bulky five killable shape inside.];B[ga];W[ib]C[Bulky five nakade.];B[hb];W[ia]))
+(;B[eg]C[NOTTHIS])
+(;B[ga];W[gg]
+(;B[ie];W[hh]TR[fa]TR[ga]TR[fb]TR[gb]TR[fc]TR[gc]TR[gd]TR[hd]TR[id]TR[ge]TR[he]TR[ie]TR[if]TR[hg]TR[ig]TR[ih]TR[ii]TR[hi]C[Ko; white ignores the ko threat and captures the marked stones.];B[gh]C[NOTTHIS])
+(;B[hc];W[hh]C[Ko]
+(;B[gh]C[NOTTHIS])
+(;B[ib];W[ie];B[if];W[ig];B[ie]C[White wins by six.; 21 - 15.])))
+(;B[ca];W[gg]
+(;B[ga];W[ib]TR[ha]TR[ia]TR[hb]TR[ib]TR[ic];B[hc];W[ib]C[Bulky five nakade.];B[hb];W[ia])
+(;B[hc];W[ib]TR[ha]TR[ia]TR[hb]TR[ib]TR[ic];B[ga];W[ib]C[Bulky five nakade.];B[hb];W[ia]))
+(;B[cb];W[gg]
+(;B[bb];W[hc];B[dc];W[cc];B[bc];W[ca];B[aa];W[da];B[dc];W[ed]MA[hi]MA[gh]MA[ih]MA[ii]MA[ig]MA[hg]MA[if]MA[he]MA[ge]MA[id]MA[hd]MA[gd]MA[gc]MA[fc]MA[gb]MA[fb]MA[fa])
+(;B[ga];W[ib]TR[ha]TR[ia]TR[hb]TR[ib]TR[ic];B[hc];W[ib]C[Bulky five nakade.];B[hb];W[ia])
+(;B[hc];W[ib]TR[hb]TR[ha]TR[ia]TR[ib]TR[ic]C[White almost fills with a bulky five killable shape inside.];B[ga];W[ib];B[hb];W[ia])))

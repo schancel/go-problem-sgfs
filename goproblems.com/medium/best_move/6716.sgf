@@ -1,0 +1,35 @@
+(;GE[best move]DI[1k]DP[20]SO[Hans]CO[6]TR[pa]C[Black has played the marked stone. White to play.]AW[oa]AW[jb]AW[ob]AW[ic]AW[kc]AW[lc]AW[nc]AW[oc]AW[jd]AW[md]AW[od]AW[me]AW[ne]AW[oe]AB[pa]AB[na]AB[kb]AB[lb]AB[mb]AB[qb]AB[mc]AB[pc]AB[rc]AB[ld]AB[pd]AB[le]AB[pe]AB[lf]AB[mf]AB[nf]AB[of]AB[pf]PL[W]
+(;W[la];B[ka]
+(;W[nb];B[pb]
+(;W[ma];B[na]
+(;W[ma]C[ White is safe.RIGHT])
+(;W[ja];B[nd]))
+(;W[ja];B[nd]))
+(;W[ja];B[pb]C[Seki.])
+(;W[pb];B[qa]C[Sente seki for Black.]))
+(;W[ka];B[la]
+(;W[nb];B[ja]C[]
+(;W[ia];B[pb]
+(;W[ka];B[nd])
+(;W[ma]C[Only ko.]))
+(;W[ma]C[Approach move ko. White could have captured Black unconditionally.])
+(;W[pb];B[nd]))
+(;W[ja];B[pb]C[Seki.]))
+(;W[nb];B[la]C[Only ko.]
+(;W[ma]C[Approach move ko. White could have captured Black unconditionally.])
+(;W[pb];B[nd])
+(;W[ka])
+(;W[ja];B[pb]
+(;W[ka];B[nd])
+(;W[ma]C[Ko])))
+(;W[ma];B[la]
+(;W[nb];B[pb]C[Only ko.])
+(;W[ja];B[pb]C[Gote seki for white.])
+(;W[pb];B[qa];W[ja];B[nb]))
+(;W[nb])
+(;W[pb];B[qa]
+(;W[ka];B[nb])
+(;W[ma];B[nb])
+(;W[la];B[nb])
+(;W[nb];B[nd]))
+(;W[ja];B[nb]))

@@ -1,0 +1,37 @@
+(;GE[life and death]DI[3d]DP[10]SO[ocho]CO[9]AB[db]AB[dc]AB[dd]AB[cd]AW[eb]AW[fb]AW[gb]AW[de]AW[ce]AW[ee]AW[ed]AB[ec]AW[fc]AB[fd]AB[gd]AB[hc]AB[hb]AW[bd]AW[be]C[Black to avoid ko (b18 is not the right solution)]AP[goproblems]
+(;B[bb];W[cb]
+(;B[ca];W[bc];B[cc];W[ea]C[at most ko])
+(;B[cc];W[bc];B[ca];W[ea]C[at most ko])
+(;B[bc];W[da];B[cc];W[ba]))
+(;B[bc];W[bb]
+(;B[cb];W[ac]C[at most ko])
+(;B[ac];W[cb];B[cc];W[da])
+(;B[ab];W[cb]
+(;B[ca];W[ba])
+(;B[ba];W[da])
+(;B[da];W[cc])))
+(;B[cb];W[bb]
+(;B[ea];W[da]
+(;B[gc];W[fa];B[ca];W[ba])
+(;B[fa];W[ga]
+(;B[ea];W[fa])
+(;B[ca];W[ba];B[ea];W[bc]))
+(;B[ca];W[fa];B[gc];W[da]))
+(;B[ga];W[da]
+(;B[ea];W[fa];B[ca];W[ba])
+(;B[ca];W[fa]C[ko]))
+(;B[da];W[ba]
+(;B[ga];W[ca]
+(;B[gc]C[RIGHT])
+(;B[ea]C[RIGHT])
+(;B[fa]C[RIGHT]))
+(;B[ea];W[ca]
+(;B[gc]C[RIGHT])
+(;B[ga]C[RIGHT]))
+(;B[gc];W[ca]
+(;B[ea]C[RIGHT])
+(;B[ga]C[RIGHT]))))
+(;B[da];W[cb]
+(;B[bb];W[bc];B[cc];W[ea];B[ca];W[ab]C[ko])
+(;B[ga];W[ca])
+(;B[bc];W[bb]C[at most ko -- see variation starting with b17])))

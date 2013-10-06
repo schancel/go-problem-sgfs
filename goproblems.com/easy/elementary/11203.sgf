@@ -1,0 +1,24 @@
+(;GE[elementary]DI[15k]DP[60]SO[mafutrct]CO[0]SZ[13]AB[gk]AW[fk]AW[gj]AW[hk]AB[kk]AB[ck]AB[cj]AB[kj]LB[gd:T]TR[gk]C[Save the marked stone if possible. Else, tenuki at T.]AP[goproblems]
+(;B[gl];W[hl]
+(;B[fl]
+(;W[el]C[]
+(;B[ek]
+(;W[fj]C[]
+(;B[dl]C[Good job!CHOICERIGHT])
+(;B[hj];W[gm]C[])
+(;B[em];W[dl]))
+(;W[fm]
+(;B[fj];W[gm];B[fk]C[Good job!RIGHT])
+(;B[gm];W[hm])))
+(;B[fj];W[ek]C[The black stones are captured. :(])
+(;B[hj];W[fm]C[])
+(;B[hm];W[fm]C[])
+(;B[em];W[gm]))
+(;W[ek]C[]
+(;B[el]C[Black is connected.CHOICERIGHT])
+(;B[hj];W[el]C[The black stones are captured. :(])
+(;B[fj];W[el]C[The black stones are captured. :(])))
+(;B[fj];W[fl])
+(;B[hj];W[fl])
+(;B[el];W[fl]))
+(;B[gd]C[Sorry, this is wrong. You could have saved the marked stone.]TR[gk]))

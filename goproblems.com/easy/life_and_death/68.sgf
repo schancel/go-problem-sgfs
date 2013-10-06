@@ -1,0 +1,36 @@
+(;GE[life and death]DI[4k]DP[29]SO[adum]CO[8]GM[1]FF[3]
+RU[Japanese]SZ[19]HA[0]KM[5.5]
+PW[White]
+PB[Black]
+GN[White (W) vs. Black (B)]
+DT[1999-07-28]
+SY[Cgoban 1.9.2]TM[30:00(5x1:00)]PL[1];;
+AW[mb][nb][ob][rb][sb][oc][pc][qc]
+AB[la][pa][lb][lc][mc][nc][rc][sc][od][pd][qd][re]
+C[black to slaughter white
+]
+(;B[ra];W[qb];B[qa]C[white gets a seki: this is no good.
+])
+
+(;B[qb];W[pb]
+(;B[qa];W[oa]
+(;B[ra];W[sa]
+(;B[qa];W[ma];B[qb]C[RIGHT
+tricky, eh?
+])
+
+(;B[ma];W[qa])
+)
+
+(;B[ma];W[ra])
+)
+
+(;B[ra];W[qa]C[only a ko: no good
+])
+)
+
+(;B[pb];W[qa])
+
+(;B[ma];W[qa];B[na];W[oa])
+
+)

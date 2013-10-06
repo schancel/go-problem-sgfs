@@ -1,0 +1,11 @@
+(;GE[elementary]DI[18k]DP[69]SO[george6]CO[6]AB[lb]AB[lc]AW[kc]AW[kb]AW[ld]AW[le]AB[md]AB[me]AW[lf]AB[mf]AW[kd]AB[pd]AW[la]AB[ma]C[White to capture some of the black stones.]AB[rd]AB[oc]AP[goproblems]
+(;W[mb];B[ka]
+(;W[mc];B[la]
+(;W[ja];B[na];W[nb];B[oa];W[ob]C[RIGHT];B[pa];W[pb]C[RIGHT])
+(;W[na]C[RIGHT]))
+(;W[ja];B[mc])
+(;W[na];B[la];W[mc]C[RIGHT])
+(;W[nb];B[mc]))
+(;W[mc];B[mb];W[nc];B[nb])
+(;W[na];B[mb])
+(;W[nb];B[mb]))

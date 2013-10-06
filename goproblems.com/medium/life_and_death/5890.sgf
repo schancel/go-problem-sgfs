@@ -1,0 +1,11 @@
+(;GE[life and death]DI[2d]DP[13]SO[AbuDhabi]CO[8]SZ[19]AW[jb]AW[ob]AW[pb]AW[ic]AW[lc]AW[pc]AW[id]AW[kd]AW[ld]AW[md]AW[nd]AW[od]AW[ie]AW[je]AW[ne]AB[nb]AB[rb]AB[jc]AB[kc]AB[nc]AB[oc]AB[jd]AB[pd]AB[qd]AB[rd]AB[ke]AB[le]AB[me]AB[oe]AB[nf]AB[of]TR[ob]TR[pb]TR[pc]C[Capture the marked stones.]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]RU[Japanese]KM[0.00]PW[BiaÃ…‚e]PB[Czarne]
+(;B[kb];W[lb]
+(;B[na]C[ White is forced to kill the ladder if she wants to start fighting from the left, and that leaves her behind. If she fights from the right, she loses a liberty. Either way - Black kills.RIGHT])
+(;B[pa];W[na];B[ma];W[mb];B[oa];W[qa];B[qb];W[na];B[oa];W[pa]))
+(;B[oa];W[pa]C[Equal liberties and initiative means victory for White.])
+(;B[lb];W[kb]C[Not enough liberties.])
+(;B[qb];W[na]C[White kills.])
+(;B[mc];W[kb]C[No.])
+(;B[na];W[mb];B[oa];W[ma]
+(;B[pa];W[qa]C[White can safely fight from the right. Do something about that safety.])
+(;B[lb];W[kb]C[Try something else.])))

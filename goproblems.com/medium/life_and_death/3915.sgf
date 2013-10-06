@@ -1,0 +1,25 @@
+(;GE[life and death]DI[3k]DP[27]SO[again]CO[8]AB[hs]AB[gr]AB[fr]AB[es]AB[bs]AB[ir]AB[jr]AB[hq]AB[hp]AB[gp]AB[go]AB[gn]AB[fn]AB[em]AB[dm]AB[cn]AB[cp]AB[dp]AB[dq]AB[bp]AB[bq]AB[io]AB[ko]AB[kp]AB[kq]AB[lp]AB[mp]AB[mq]AW[ks]AW[kr]AW[lr]AW[lq]AW[mr]AW[nr]AW[jq]AW[jp]AW[ip]AW[jo]AW[jn]AW[ho]AW[hn]AW[hm]AW[gm]AW[fm]AW[en]AW[eo]AW[fo]AW[fq]AW[eq]AW[er]AW[dr]AW[ds]AW[cr]AW[br]AW[ar]AW[cq]AB[mn]AW[oq]C[white to kill]AP[goproblems]
+(;W[js]
+(;B[fs]
+(;W[is];B[gq];W[iq];B[dn]C[Black makes a three-step ko for the corner. White can do better.])
+(;W[iq];B[gq];W[is];B[dn]C[Black makes a three-step ko for the corner. White can do better.])
+(;W[gq];B[is];W[iq]C[RIGHT]))
+(;B[iq]
+(;W[fs]C[RIGHT])
+(;W[is];B[fs];W[gq]C[RIGHT])
+(;W[gq];B[is];W[fs]C[RIGHT]))
+(;B[gq]
+(;W[fs]C[RIGHT])
+(;W[is];B[fs];W[iq];B[dn]C[Black makes a three-step ko for the corner. White can do better.])
+(;W[iq];B[fs];W[is]C[];B[dn]C[Black makes a three-step ko for the corner. White can do better ]))
+(;B[is]
+(;W[fs]C[RIGHT])
+(;W[gq];B[fs];W[iq]C[RIGHT])
+(;W[iq];B[fs];W[gq]C[RIGHT])))
+(;W[iq];B[js];W[fs];B[gq])
+(;W[gq];B[js]
+(;W[fs];B[iq])
+(;W[iq];B[fs]))
+(;W[fs]C[];B[js]
+(;W[gq];B[iq])
+(;W[iq];B[gq])))

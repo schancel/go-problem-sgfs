@@ -1,0 +1,35 @@
+(;GE[life and death]DI[4k]DP[29]SO[MeleeNewb]CO[0]AB[gb]AB[ga]AW[jc]AW[jb]AB[he]AB[ie]AB[je]AW[kc]AW[lc]AW[mb]AW[nb]AW[ob]AB[pc]AB[oc]AW[ja]AB[nc]AB[mc]AB[ld]AB[kd]AB[lb]AW[pb]AB[qc]AB[ma]AW[qb]AB[rb]AB[qa]AB[rc]AW[ra]AW[hb]AW[ib]AB[ia]AB[ha]AW[gc]AB[fc]AB[fb]AW[gd]AB[fd]AB[ge]AW[jd]C[FORCE]AP[goproblems]
+(;B[pa];W[la];B[ka];W[kb];B[la];W[na];B[la];W[id]
+(;B[hd];W[hc];B[lb];W[oa];B[qa]C[RIGHT])
+(;B[hc];W[hd];B[lb];W[oa];B[qa]C[RIGHT])
+(;B[lb];W[hd]
+(;B[hc])
+(;B[ic];W[oa];B[qa]C[RIGHT])))
+(;B[oa];W[kb])
+(;B[na];W[kb])
+(;B[la];W[pa]
+(;B[hc];W[na];B[id];W[ka])
+(;B[na];W[ka];B[hc];W[kb];B[id];W[oa];B[ic];W[ma]))
+(;B[ka];W[kb])
+(;B[kb];W[la])
+(;B[hc];W[kb])
+(;B[id];W[kb])
+(;B[hd];W[kb])
+(;B[ic];W[kb])
+(;B[sa];W[kb])
+(;B[od];W[pd]C[Three doors appear before you. Which do you take?]LB[ne:1]LB[oe:2]LB[pe:3]LB[fa:?]
+(;B[fa];W[ja]C[You enter a hidden passageway. It is pitch black. You are likely to be eaten by a grue.FORCE]LB[se:T]LB[qe:R]LB[fe:F]LB[hd:H]
+(;B[se]C[];W[ja]C[You light a (T)orch and exit the passage. A wild nine dan appears! Use... (T)esuji, (H)onte, (S)ente, or (M)etronome?FORCE]LB[hc:T]LB[ic:H]LB[hd:S]LB[id:M]
+(;B[id];W[ja]C[You use Metronome... You use Baijiu... It is super effective! Wild Nine Dan fainted. Three goban appear, a (G)old one, a (C)opper one, and a (S)ilver one. Pick the RlGHT one.]LB[oe:S]LB[me:G]LB[ne:C]
+(;B[oe]C[That was no mere Silver Goban, but the legendary PLATINUM Goban! A worthy treasure indeed! GOOD ENDRIGHT])
+(;B[me]C[Your inability to distinguish RlGHT from LEFT shows a poor sense of direction. You wander into a dark passage and are eaten by a grue. BAD END])
+(;B[ne]C[Of the three available goban, the copper one was worth the least. You will always wonder why you decided to take the least valuable one. BAD END]))
+(;B[hc]C[You use Tesuji... It is not very effective. Wild Nine Dan uses Countersuji... It is super effective! You black out and return to KGS to restore yourself to full health. BAD END])
+(;B[ic]C[You use Honte... Your defense rises. Wild Nine Dan uses Overplay... It hit a vital point! You black out and return to KGS to restore yourself to full health. BAD END])
+(;B[hd]C[You use Sente... Your speed increases! Wild Nine Dan uses Reading... It is super effective! You black out and return to KGS to restore yourself to full health. BAD END]))
+(;B[qe]C[You attempt to (R)un. You have been eaten by a grue. BAD END])
+(;B[hd]C[You attempt to (H)ide. You have been eaten by a grue. BAD END])
+(;B[fe]C[You attempt to (F)ight. You have been eaten by a grue. BAD END]))
+(;B[ne]C[Behind this door lies only Misery (Misery is a cat, and she ignores you if you try to get her attention). BAD END])
+(;B[oe]C[Behind this door lies a man from Switzerland. You ask him to teach you Swiss, but he only knows German. You leave, disappointed. BAD END])
+(;B[pe]C[Behind this door await two brothers, one who always speaks lies, and the other who always speaks truth. This does not help you at all. BAD END])))

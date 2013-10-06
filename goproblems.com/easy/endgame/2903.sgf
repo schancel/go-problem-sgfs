@@ -1,0 +1,31 @@
+(;GE[endgame]DI[5k]DP[34]SO[adum]CO[6]GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ag][bg][cg][dg][ah][dh][qh][rh][di][qi][si][dj][qj][rj][bk][dk][qk][bl][dl][ql][cm][dm][rm][dn][qn][rn][do][eo][fo][qo][fp][op][pp][qp][rp][sp][bq][dq][eq][fq][qq][sq][ar][br][dr][qr][bs][cs][ds]AB[pg][qg][rg][sg][bh][ch][ph][sh][ai][ci][pi][bj][cj][pj][ck][pk][rk][cl][pl][rl][bm][pm][qm][bn][cn][pn][co][no][oo][po][ap][bp][cp][dp][ep][np][aq][cq][nq][oq][pq][rq][cr][pr][rr][sr][ps][qs][rs]LB[jo:T]C[does white have anything on the left? play there if you think yes, otherwise tenuki at T]PL[W]
+(;W[al]CR[al]
+;B[am]CR[am]
+(;W[aj]CR[aj]
+;B[ak]CR[ak])
+(;W[ak]CR[ak]
+;B[aj]CR[aj]))
+(;W[ak]CR[ak]
+;B[am]CR[am]
+(;W[aj]CR[aj]
+;B[al]CR[al])
+(;W[ao]CR[ao]
+;B[al]CR[al]))
+(;W[jo]CR[jo]
+;B[sk]CR[sk]
+(;W[sj]CR[sj]
+;B[ri]CR[ri])
+(;W[sm]CR[sm]
+;B[so]CR[so]
+;W[sl]CR[sl]C[RIGHT
+white avoids seki])
+(;W[sl]CR[sl]
+;B[sm]CR[sm]
+;W[sn]CR[sn]
+;B[so]CR[so])
+(;W[sn]CR[sn]
+;B[so]CR[so])
+(;W[so]CR[so]
+;B[sm]CR[sm]C[seki])))

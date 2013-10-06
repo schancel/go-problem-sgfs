@@ -1,0 +1,21 @@
+(;GE[endgame]DI[10k]DP[51]SO[santa c]CO[7]AB[ao]AB[bp]AB[cp]AB[co]AB[cn]AB[eo]AB[en]AB[em]AB[bk]AB[aj]AB[ai]AB[bi]AB[cj]AB[dj]AB[di]AB[ej]AB[ek]AB[fk]AB[gk]AB[gl]AB[hk]AB[il]AB[im]AB[hn]AB[in]AW[hl]AW[fm]AW[fn]AW[fo]AW[dm]AW[dp]AW[ep]AW[fp]AW[cq]AW[bq]AW[aq]AW[ap]AW[an]AB[bo]AW[el]C[B to anwser W... Minimize the reduction!]AW[do]AB[dn]AP[goproblems]
+(;B[dl];W[fl]
+(;B[cm]C[Well done! :)RIGHT])
+(;B[cl]C[Leaves one more threat than C7, though...RIGHT]TR[cm]))
+(;B[fl];W[dl]
+(;B[cl];W[cm]C[Captured!])
+(;B[cm];W[cl]
+(;B[bl];W[bm]C[Captured!])
+(;B[bm];W[bl];B[al];W[am]C[Captured!]))
+(;B[bm];W[cm];B[bn];W[bl];B[am];W[al]C[Captured!])
+(;B[bl];W[bm]
+(;B[cm];W[cl]C[Captured!])
+(;B[cl];W[cm]C[Captured!])))
+(;B[cm];W[dl]
+(;B[fl])
+(;B[cl];W[fl]C[W is happy like this]))
+(;B[cl];W[dl]
+(;B[fl])
+(;B[cm]))
+(;B[bm];W[cm];B[bn];W[bl];B[am];W[al]C[Captured!])
+(;B[bl];W[cm]C[Captured!]))
